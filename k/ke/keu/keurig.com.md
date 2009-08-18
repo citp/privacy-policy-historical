@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keurig.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617174229id_/http%3A//www.keurig.com/privacy.asp%3Fmscsid%3DVX9PMKQN5FQN9PQ9B0K3GTC9TVDN6QLC) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keurig.com privacy policy that was archived on 2009-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090818225400id_/http%3A//www.keurig.com/privacy.asp%3Fmscsid%3D1HXW9GJWJS5F8JQJL15NURC5QSPX12U5) for the most accurate reproduction.*
 
 # Keurig - Single cup coffee maker – coffee brewer, gourmet coffee, gourmet tea, K-Cups
 
