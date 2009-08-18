@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hibernate.org privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615163751id_/http%3A//www.jboss.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hibernate.org privacy policy that was archived on 2009-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090818022807id_/http%3A//www.jboss.com/privacy_policy) for the most accurate reproduction.*
 
 # redhat.com |
 
