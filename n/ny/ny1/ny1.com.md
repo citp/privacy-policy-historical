@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ny1.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616202352id_/http%3A//www.ny1.com/content/contact_us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ny1.com privacy policy that was archived on 2009-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090818161212id_/http%3A//www.ny1.com/content/contact_us/privacy_policy) for the most accurate reproduction.*
 
 # NY1 | 24 Hour Local News | Privacy Policy | Privacy Policy
 
