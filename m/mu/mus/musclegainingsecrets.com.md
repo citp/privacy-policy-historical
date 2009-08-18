@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the musclegainingsecrets.com privacy policy that was archived on 2009-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090218145432id_/http%3A//www.musclegainingsecrets.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musclegainingsecrets.com privacy policy that was archived on 2009-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090818073154id_/http%3A//www.musclegainingsecrets.com/privacy.htm) for the most accurate reproduction.*
 
-# Muscle Gaining Secrets- How to Gain Weight Fast
+# How To Build Muscle and Gain Weight Fast - Top Mass Building System
+
+| 
+
+****Muscle Gaining Secrets  
+Privacy Policy****
 
 **Last Updated: June 29, 2007  
 **  
@@ -44,15 +49,16 @@ If it proves impossible to arrive at a mutually satisfactory solution through me
 
 MuscleGainingSecrets.com is controlled, operated and administered entirely within New Jersey. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
 
-  
-**Contacting Us**
-
 We can be reached by contacting:
 
-MuslceGainingSecrets.com  
-C/O Relentless Athletics  
-37 Musket Drive  
-Basking Ridge, New Jersey  
-07920
+Renegade Strength & Conditioning, LLC  
+453 Watchung Ave  
+Watchung, NJ 07069  
+908-279-7988  
+info @ RenegadeStrengthCoach.com
 
-Info@Relentless-Athletics.com
+Renegade Strength & Conditioning, LLC  
+453 Watchung Ave  
+Watchung, NJ 07069
+
+| 
