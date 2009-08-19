@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2ip.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618003717id_/http%3A//www.2ip.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2ip.com privacy policy that was archived on 2009-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090819020447id_/http%3A//www.2ip.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 2ip Privacy Polcy - TrustE Certified
 
@@ -126,7 +126,3 @@ Fremont, CA 94538, USA
 [privacy@2ip.com](mailto:privacy@2ip.com)
 
 * * *
-
-©1999 - Present Copyright Ichthys Media LLC. All Rights Reserved.   
-[Terms](https://web.archive.org/tos.html) | [Privacy](https://web.archive.org/privacypolicy.html) | [A.I.Sales Chat](https://web.archive.org/aichat.html) | [2ip Agent](http://www.2ip.com/agents/articles/entry/How-To-Make-Money-Using-2ip-Agent-Marketplace) | [Affiliates & Partners](https://web.archive.org/affiliates.php) | [Success Vault](https://web.archive.org/successvault.php) | [SEO Hosting](https://web.archive.org/seohosting.html)  
-[Pay As You Go Reseller Hosting](https://web.archive.org/reseller_hosting_payasyougo.html) | [Monthly Reseller Hosting](https://web.archive.org/reseller_hosting_monthly.html)
