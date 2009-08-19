@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcammax.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617072714id_/http%3A//www.webcammax.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcammax.com privacy policy that was archived on 2009-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090819134644id_/http%3A//www.webcammax.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy - WebcamMax
 
@@ -57,4 +57,4 @@ If you use a credit card to purchase a WebcamMax product, the credit card number
 
 More than anything, WebcamMax tries to treat its customers as each one of us would like to be treated. We value our privacy and we value yours, too. It is our goal to make your experience with WebcamMax a safe and positive experience. 
 
-NOTE: Are you a **webmaster** , **blogger** or **internet columnist**? We will present a **FREE License** of WebcamMax to you if you write reviews of WebcamMax on your own website, blog space or column! [**Click here >>**](https://web.archive.org/web/20090617072714id_/http%3A//www.webcammax.com/writereview.php)
+NOTE: Are you a **webmaster** , **blogger** or **internet columnist**? We will present a **FREE License** of WebcamMax to you if you write reviews of WebcamMax on your own website, blog space or column! [**Click here >>**](https://web.archive.org/web/20090819134644id_/http%3A//www.webcammax.com/writereview.php)
