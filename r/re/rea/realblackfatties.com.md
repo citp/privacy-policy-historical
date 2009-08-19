@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realblackfatties.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619164804id_/http%3A//www.realblackfatties.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realblackfatties.com privacy policy that was archived on 2009-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090819235408id_/http%3A//www.realblackfatties.com/privacy.html) for the most accurate reproduction.*
 
 # Real Black Fatties.com - Online Privacy Policy
 
