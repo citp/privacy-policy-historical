@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkxl.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616204158id_/http%3A//www.linkxl.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkxl.com privacy policy that was archived on 2009-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090819033839id_/http%3A//www.linkxl.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - LinkXL Contextual Text Link Ads
 
@@ -74,8 +74,4 @@ LinkXL.com, LLC
 Attn: Privacy Officer  
 316-1/2 South Main St.  
 Suite 204  
-Royal Oak, MI 48067  
-  
-Copyright © 2009 LinkXL, LLC - All Rights Reserved. Patent Pending. 
-
-_Server time: 06/16/2009 12:42_
+Royal Oak, MI 48067
