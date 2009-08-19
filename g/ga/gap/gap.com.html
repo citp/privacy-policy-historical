@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gap.com privacy policy that was archived on 2009-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090617221841id_/http%3A//www.gap.com/customerService/info.do%3Fcid%3D2331) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gap.com privacy policy that was archived on 2009-08-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090819212327id_/http%3A//www.gap.com/customerService/info.do%3Fcid%3D2331) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><head>
 	<title>Privacy Policy | Gap</title>
@@ -7,8 +7,11 @@
 
 
 
-	
- 
+		
+			
+		
+		
+				
 
 
 		
@@ -35,8 +38,11 @@
 
 
 
-	
- 
+		
+			
+		
+		
+				
 
 
 		
@@ -53,18 +59,20 @@
 
 
 <style type="text/css">
-	#divisionContainer .division img {background: url(/content/0000/978/114/topnav_sprite.gif) no-repeat top left; width: 0px;}
+	#divisionContainer .division img, #sideNav .sideNavTabsContainer .sideNavTabHeader img{background: url(/content/0001/265/228/topnav_sprite.gif) no-repeat top left; width: 0px;}
 	#crossLinkModule #crossLinkHeader {
     	background: #4c4441 url(/gid/assets/common/en_US/xlinkHeader.gif) top left no-repeat;
 	}
 	.brand2 #quickLookMailOnlyReturn{background-image:url(/assets/common/quicklook/en_US/mailonly_quicklook.gif);}
-	
-	
+	 
 
 
 
-	
- 
+		
+			
+		
+		
+				
 
 
 		
@@ -81,7 +89,7 @@
 
 </style>
 
-<link rel="stylesheet" type="text/css" href="/content/0000/978/114/topnav_style.css">
+<link rel="stylesheet" type="text/css" href="/content/0001/265/228/topnav_style.css">
 
 
 
@@ -101,8 +109,11 @@
 
 
 
-	
- 
+		
+			
+		
+		
+				
 
 
 		
@@ -118,8 +129,11 @@
 
 
 
-	
- 
+		
+			
+		
+		
+				
 
 
 		
@@ -135,8 +149,11 @@
 
 
 
-	
- 
+		
+			
+		
+		
+				
 
 
 		
@@ -348,8 +365,11 @@
 
 
 
-	
- 
+		
+			
+		
+		
+				
 
 
 		
@@ -357,6 +377,16 @@
 				
 		
 		
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -426,7 +456,12 @@
 	        overviewTabText : "Overview",
 	        imageText : "image"
          },
-       	infoPopupsAltTextClose : "Close"
+       	infoPopupsAltTextClose : "Close",
+       	checkOut : {
+       		noGiftWrapText : "No gift wrap",
+       		promotionDetailsText : "Promotion Details"
+       	},
+       	currency : "$"
         
     };
 	// ]]>
@@ -448,18 +483,24 @@
 	// <![CDATA[
 		Object.extend(brandConst, {
 			UNIVERSAL_BUTTON_CONTENT_PATH : "/content/0000/854/978/",
-			BRAND1_BADGE_CONTENT_PATH : "/content/0001/055/987/",
-			BRAND2_BADGE_CONTENT_PATH : "/content/0001/055/986/",
-			BRAND3_BADGE_CONTENT_PATH : "/content/0001/055/990/",
-			BRAND4_BADGE_CONTENT_PATH : "/content/0001/055/989/",
-			BRAND7_BADGE_CONTENT_PATH : "/content/0001/055/987/",
-			BRAND8_BADGE_CONTENT_PATH : "/content/0001/055/986/",
-			BRAND9_BADGE_CONTENT_PATH : "/content/0001/055/990/",
-			BRAND10_BADGE_CONTENT_PATH : "/content/0001/120/439/",
-			BRAND20_BADGE_CONTENT_PATH : "/content/0001/055/987/",
-			BRAND21_BADGE_CONTENT_PATH : "/content/0001/055/986/",
-			BRAND_LOCALE : "en_US",					
-			COUNTRY_NAME_UK : "United Kingdom"
+			BRAND1_BADGE_CONTENT_PATH : "/content/0001/195/897/",
+			BRAND2_BADGE_CONTENT_PATH : "/content/0001/195/955/",
+			BRAND3_BADGE_CONTENT_PATH : "/content/0001/195/958/",
+			BRAND4_BADGE_CONTENT_PATH : "/content/0001/195/957/",
+			BRAND7_BADGE_CONTENT_PATH : "/content/0001/195/897/",
+			BRAND8_BADGE_CONTENT_PATH : "/content/0001/195/955/",
+			BRAND9_BADGE_CONTENT_PATH : "/content/0001/195/958/",
+			BRAND10_BADGE_CONTENT_PATH : "/content/0001/195/896/",
+			BRAND20_BADGE_CONTENT_PATH : "/content/0001/195/897/",
+			BRAND21_BADGE_CONTENT_PATH : "/content/0001/195/955/",
+			BRAND_LOCALE : "en_US",
+			COUNTRY_NAME_UK : "United Kingdom",
+            CATALOG_2_ACTIVE: "false",
+            PRODUCT_2_ACTION: "product.do",
+            PRODUCTDATA_2_ACTION: "productData.do",
+            DIVISION_2_ACTION: "division.do",
+            SUBDIVISION_2_ACTION: "subdivision.do",
+            HOME_2_ACTION: "home.do"
 		});
 </script>	
 	
@@ -475,6 +516,7 @@
 	    // Output gidConfig property here for s_account:
 	    reportingService.controller.reportingManager.reportingAccount = "gapproduction,gapgidproduction";
 	    reportingService.controller.reportingManager.brandReportSuites = {brandSuites:{1:"gapproduction",2:"gapbananaproduction",3:"gapoldnavyproduction",4:"gappiperproduction",10:"gapathletaproduction"}, globalSuite:"gapgidproduction"};
+	    reportingService.controller.reportingManager.currencyType = "USD";
     </script>
 
 	
@@ -560,8 +602,11 @@
 
 
 
-	
- 
+		
+			
+		
+		
+				
 
 
 		
@@ -577,8 +622,11 @@
 
 
 
-	
- 
+		
+			
+		
+		
+				
 
 
 		
@@ -596,8 +644,11 @@
 
 
 
-	
- 
+		
+			
+		
+		
+				
 
 
 		
@@ -645,8 +696,11 @@
 
 
 
-	
- 
+		
+			
+		
+		
+				
 
 
 		
@@ -675,8 +729,11 @@
 
 
 
-	
- 
+		
+			
+		
+		
+				
 
 
 		
@@ -770,7 +827,7 @@
 							
 								
 								
-									<li><a href="http://www.athleta.gap.com" target="_top" onclick="return gidBrandSiteConstruct.openBrand(10);"><img src="/content/0001/122/077/universalBarTab_brand10_off.png" class="pngAlpha" alt="Athleta" onmouseover="$(this).setSrc('/content/0001/122/077/universalBarTab_brand10_over.png')" onmouseout="$(this).setSrc('/content/0001/122/077/universalBarTab_brand10_off.png')"></a></li>
+									<li><a href="http://www.athleta.com" target="_top" onclick="return gidBrandSiteConstruct.openBrand(10);"><img src="/content/0001/122/077/universalBarTab_brand10_off.png" class="pngAlpha" alt="Athleta" onmouseover="$(this).setSrc('/content/0001/122/077/universalBarTab_brand10_over.png')" onmouseout="$(this).setSrc('/content/0001/122/077/universalBarTab_brand10_off.png')"></a></li>
 								
 							
 						
@@ -787,8 +844,11 @@
 
 
 
-	
- 
+		
+			
+		
+		
+				
 
 
 		
@@ -808,8 +868,11 @@
 
 
 
-	
- 
+		
+			
+		
+		
+				
 
 
 		
@@ -824,237 +887,397 @@
 
 
 
-<div id="contentItemContainer210912" class="1154596">
+<div id="contentItemContainer210912" class="1327200">
+
+<style type="text/css">
+
+#tabTable{
+    visibility:hidden;
+}
+
+#tabTable .productItemName{
+    color:#ffffff;
+}
+
+#tabTable .priceDisplay{
+    color:#ffffff;
+}
+
+#tabTable .imgDiv{
+    border-color:#ffffff;
+}
+    
+</style>
+
 
 <script type="text/javascript">
 
-// <![CDATA[ 
+// <![CDATA[
 
+    var ThreeAcrossVIPage = Class.create();
 
-var FSuniversalCookieCutter = Class.create();
+    ThreeAcrossVIPage.prototype = {
 
-
-
-FSuniversalCookieCutter.prototype = {
-
-
-    initialize:function(CookieVarName) {
-
-    
-
-        //Keeping it neat by having two discreet variables that check for and gather cookie information
-
-        this.CookieVariableName = CookieVarName;
-
-        this.DoesTheCookieExist = gidLib.getCookieVar("mktUniversalSession",this.CookieVariableName);
-
-        this.RetrievedCookieValue = gidLib.getCookieVar("mktUniversalSession",this.CookieVariableName);
-
-        this.QuickSegment = '';
-
-        this.userNeedsSync = false;
-
+        initialize: function() {
             
+            this.bodyContainer = $('bodyContainer');
+            this.brandID = brandConst.BRAND_ID;
+            this.brandProductItem = {
 
-        if (location.href.indexOf('fsmode') >= 1) {
+                "GP": "brand1 productItem",
+                "BR": "brand2 productItem",
+                "ON": "brand3 productItem",
+                "PL": "brand4 productItem",
+                "AT": "brand10 productItem"
+            };
 
-        this.forcedMode();
+            this.brandImgDiv = {
 
-        }else{
+                "GP": "brand1 imgDiv",
+                "BR": "brand2 imgDiv",
+                "ON": "brand3 imgDiv",
+                "PL": "brand4 imgDiv",
+                "AT": "brand10 imgDiv"
+            };
 
-        this.cookieScanner();
+            if (top.location.href.indexOf('/browse/category.do?cid=') > 0) {
+                this.insertCSS();
+                this.walkThroughProductGrid();
+            }
+            else {
+                this.restoreCSS();
+            }
 
-        }
+        },
 
-    },
+        insertCSS: function() {
 
+            var headID = document.getElementsByTagName("head")[0];
 
+            var cssNode = document.createElement('link');
+            cssNode.type = 'text/css';
+            cssNode.rel = 'stylesheet';
+            cssNode.href = '/Asset_Archive/GPWeb/content/0001/327/200/assets/ThreeAcross.css';
+            cssNode.media = 'screen';
 
-    forcedMode:function() {
+            headID.appendChild(cssNode);
 
-        if (location.href.indexOf('fsmode=a') >= 1) {
+            this.restoreCSS();
 
-        //alert('You are in segment A / 50% of the population');
+        },
 
-        this.UserSegment = '0503FS150';
 
-        this.QuickSegment = 'A';
+        restoreCSS: function() {
 
-        }
+            //show tabTable now
 
-        
+            var headID = document.getElementsByTagName("head")[0];
 
-        /*if (location.href.indexOf('fsmode=b') >= 1) {
+            var cssNode = document.createElement('link');
 
-        //alert('You are in segment B / 50% of the population');
+            cssNode.type = 'text/css';
+            cssNode.rel = 'stylesheet';
+            cssNode.href = '/Asset_Archive/GPWeb/content/0001/327/200/assets/ThreeAcross_Restore.css';
+            cssNode.media = 'screen';
 
-        this.UserSegment = '421_FS150';
+            headID.appendChild(cssNode);
 
-        this.QuickSegment = 'B';
+            if ($('tabTable') != null) {
 
-        }
-
-        
-
-        if (location.href.indexOf('fsmode=c') >= 1) {
-
-        //alert('You are in segment C');
-
-        this.UserSegment = '421_FSAth';
-
-        this.QuickSegment = 'C';
-
-        }
-
-        
-
-        if (location.href.indexOf('fsmode=d') >= 1) {
-
-        //alert('You are in segment C');
-
-        this.UserSegment = '421_Cntrl';
-
-        this.QuickSegment = 'D';
-
-        }
-
-        
-
-        
-
-        if (location.href.indexOf('fsmode=e') >= 1) {
-
-        //alert('You are in segment C');
-
-        this.UserSegment = '0421_FSSegE';
-
-        this.QuickSegment = 'D';
-
-        }*/
-
-
-        
-
-        gidLib.setCookieVar('mktUniversalSession',this.CookieVariableName,this.UserSegment);
-
-        ////s_eVar24 = this.UserSegment;       
-
-    
-
-    },
-
-
-    cookieScanner:function() {
-
-        
-
-        //If the cookie isn't available, bake one!
-
-        if (this.DoesTheCookieExist) {
-
-            //s_eVar24 = this.RetrievedCookieValue;
-
-            switch (this.RetrievedCookieValue) {
-
-                /*case '0503FS150':
-
-                this.UserSegment = '0503FS150';
-
-                this.QuickSegment = 'A'
-
-                break;
-
-        
-
-                /*case '421_FS150':
-
-                this.UserSegment = '421_FS150';
-
-                this.QuickSegment = 'B'
-
-                break;
-
-        
-
-                case '421_FSAth':
-
-                this.UserSegment = '421_FSAth';
-
-                this.QuickSegment = 'C'
-
-                break;
-
-                
-
-                case '421_Cntrl':
-
-                this.UserSegment = '421_Cntrl';
-
-                this.QuickSegment = 'D'
-
-                break;*/
-
-                
-
-                //FOR BRONG/ATH USE ONLY
-
-                case '0503PLONLY':
-
-                this.tagManager();
-
-                break;
-
-            
-
-                default:
-
-                //this.UserSegment = 'PLRevSEGC';
-
-                //this.QuickSegment = 'C'
-
-                break;
+                $('tabTable').style.visibility = "visible";
 
             }
 
-        }else{
+        },
 
-        this.tagManager();
+        /**
+        *  walkThroughProductGrid()
+        *  Grab every product image for every "brandX imgDiv".
+        *  Then change it's src to the appropriate quickLook/p01 image path
+        */
 
+        walkThroughProductGrid: function() {
+
+            var thisClass = this.brandProductItem[this.brandID];
+
+            var allProducts = $$("div[class=" + thisClass + "]");
+
+            var i = 0;
+
+            var counter = 0;
+
+            while (i < allProducts.length) {
+
+                //check if previous sibling is a 'divider' (sub category)
+                //if NOT then increment counter
+                //else this is the beginning of a row and should set counter to 1
+
+                prevNode = allProducts[i].previous();
+
+                if (prevNode.className != 'divider1') {
+                    counter++;
+                    //allProducts[counter].style.border = "1px solid red";
+                }
+                else {
+                    counter = 1;
+                }
+
+                //insert a 'clear' break after every third product (row)
+                //OR for the last productItem
+                //check the 'next' node to see if it is 'productToolsLine' (last product)
+                //skip 'clear5' classes
+
+                var nextNodeClassName = allProducts[i].next().className;
+
+                if (nextNodeClassName == 'clear5') {
+                    nextNodeClassName = allProducts[i].next().next().className;
+                }
+
+                if (counter == 3 || nextNodeClassName.indexOf('productToolsLine') >= 0) {
+
+                    clearBreak = document.createElement('div');
+                    clearBreak.setAttribute('class', 'threeAcrossClearFix');
+
+                    if (clientBrowser.isIE6 == null) {
+
+                        hiddenText = document.createTextNode(' ');
+                        clearBreak.appendChild(hiddenText);
+
+                    }
+                    else {
+
+                        clearBreak.innerHTML = "<div style='display:block;clear:both;color:#ffffff;width:599px;height:8px;'>.</div>";
+
+                    }
+
+                    allProducts[i].parentNode.insertBefore(clearBreak, allProducts[i].nextSibling);
+
+                    counter = 0;
+
+                }
+
+                i++;
+
+            }
         }
-
-    },
-
-
-    tagManager:function() {
-
-
-            this.UserSegment = '0503FS150';
-
-            this.QuickSegment = 'A';
-
-
-        gidLib.setCookieVar('mktUniversalSession',this.CookieVariableName,this.UserSegment);
-
-        //s_eVar24 = this.UserSegment;
-
-        
-
     }
 
-};
+// ]]>
+</script>
 
+<script type="text/javascript">
 
-	var BRONGAPLCookieCutter = new FSuniversalCookieCutter("0503_AB");
+// <![CDATA[
 
+    Event.onDOMReady(function() {
+
+        var gapThreeAcross = new ThreeAcrossVIPage();
+
+    });
 
 // ]]>
-
 
 </script>
 
 
-	<div style="width:167px;height:72px;"><a href="#fs150" onclick="return gidLib.layeredPopup.openLayeredPopup({str:'/customerService/info.do?cid=43746&amp;mlink=39715,1154596,FS150&amp;clink=1154596',id:'fs_ps_150',width:410,height:395});"><img src="/Asset_Archive/GPWeb/content/0001/154/596/assets/fs150_postStamp.gif" alt="free shipping on $150 at one or more stores." style="width:167px;height:72px;"></a></div>	
+<script type="text/javascript">
 
+// <![CDATA[
+
+    if (top.location.href.indexOf('/browse/category.do?cid=') > 0) {
+
+        /**
+         *  OVERRIDE
+         *	replace asset path (2nd argument)
+         *  with the quick look asset path
+         *
+         */
+
+        imageLoader.delayLoad = (function(img, path) {
+
+            ///Asset_Archive/GPWeb/Assets/Outfit/139/OUT13910/outfit/gp-otf-out13910oviv01.jpg
+            ///Asset_Archive/GPWeb/Assets/Outfit/139/OUT13910/outfit/gp-otf-out13910odv01.jpg
+            //check if this is an outfit or not
+            if (path.indexOf('/outfit/') < 0){
+                newPath = path.replace("category", "quick");
+                newPath = newPath.replace("viv", "qlv");
+            }
+            else {
+                newPath = path.replace("oviv", "odv");
+            }
+            //alert('loading : \n' + newPath);
+
+            this.imgs[this.currentImg] = { img: img, src: newPath };
+            this.currentImg = this.currentImg + 1;
+
+            newPath = '';
+
+        });
+    }
+
+// ]]>
+
+</script>
+
+<script type="text/javascript">
+
+// <![CDATA[
+
+    if (top.location.href.indexOf('/browse/category.do?cid=') > 0 ) {
+
+       /** 
+        *  OVERRIDE
+        *  need to adjust left positioning of the 
+        *  crossLink module for larger VI images
+        */
+
+
+        crossLink.setPos = (function() {
+
+            /// crossLink.mainContent isn't always readable using actual element instead
+
+            //if(!(crossLink.mainContent && crossLink.moduleDim)) return;
+
+            //crossLink.mainContentPos = Position.cumulativeOffset(crossLink.mainContent);
+
+            crossLink.mainContentPos = Position.cumulativeOffset($('mainContentContainer'));
+
+            var browserOffset = clientBrowser.isIE6 ? window.pageYOffset || document.documentElement.scrollTop : 0;
+
+            //change crossLink.moduleDim to 95 since crossLink is not always readable
+
+            //change crossLink.mainContentDim.width to 770 since this is not always available (IE6 only?)
+
+            var crossLinkPos = crossLink.modulePos = crossLink.modulePos = [770 + crossLink.mainContentPos[0],
+
+            (window.innerHeight || document.documentElement.clientHeight) + browserOffset - 95 - 10];
+
+            //sometimes crossLink.module is undefined
+
+            if (typeof crossLink.module != 'undefined') {
+
+                if (!crossLink.isShown) {
+
+                    crossLink.module.setStyle({ opacity: '0', left: crossLinkPos[0] + 'px', top: crossLinkPos[1] + 'px' });
+                    crossLink.isShown = new Effect.Appear(crossLink.module.id, { duration: 1.0 });
+
+                }
+                else {
+
+                    crossLink.module.setStyle({ left: crossLinkPos[0] + 'px', top: crossLinkPos[1] + 'px' });
+
+                }
+            }
+        });
+
+        if (clientBrowser.isIE6 && top.location.href.indexOf('/browse/category.do?') > 0) {
+
+            Event.observe(window, 'scroll', crossLink.setPos);
+
+        }
+        else if (top.location.href.indexOf('/browse/category.do?') > 0) {
+
+            Event.observe(window, 'resize', crossLink.setPos);
+
+        }
+    }
+
+// ]]>
+
+</script>
+
+
+<script type="text/javascript">
+
+// <![CDATA[
+
+    /** 
+     *  OVERRIDE
+     *  need to adjust positioning of the 
+     *  quickLook image for larger VI images
+     */
+
+    if (top.location.href.indexOf('/browse/category.do?cid=') > 0) {
+
+        quickLook.openQuickLookLauncher = (function(strProductId, strDefaultStyleColor, strCategoryId, strVariantId, targetImg, isCrossSell, brandCode) {
+
+            if (this.isLoaded) {
+
+                var blnOpen = false;
+
+                if (this.isQuickLookOpen) {
+
+                    if (this.objP.strProductId != strProductId) blnOpen = true;
+
+                } else {
+
+                    blnOpen = true;
+
+                }
+
+                brandCode = brandCode || gidBrandSiteConstruct.currentBrandCode;
+
+                if (blnOpen) {
+
+                    var targetObj = $(targetImg);
+
+                    if (!targetObj) return;
+
+                    var cumulativeOffset = Position.cumulativeOffset(targetObj);
+
+                    var realOffset = Position.realOffset(targetObj);
+
+                    var scrollTop = (document.documentElement && document.documentElement.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop);
+
+                    var scrollLeft = (document.documentElement && document.documentElement.scrollLeft ? document.documentElement.scrollLeft : document.body.scrollLeft);
+
+                    // add 10 pixels to left value
+
+                    // add 86 pixels to top value
+
+                    var position = [cumulativeOffset[0] - (realOffset[0] - scrollLeft - 10), cumulativeOffset[1] - (realOffset[1] - scrollTop) + 86];
+
+                    var target = this.objQuickLookTarget = {
+
+                        strProductId: strProductId,
+                        strDefaultStyleColor: strDefaultStyleColor,
+                        strCategoryId: strCategoryId,
+                        strVariantId: strVariantId,
+                        position: position,
+                        isCrossSell: isCrossSell,
+                        obj: targetObj,
+                        brandCode: brandCode
+
+                    };
+
+                    this.quickLookLauncherBoundBox = { top: target.position[1] + 4, left: target.position[0] + 4, right: target.position[0] + brandProperties.PRODUCTIMGWIDTH - 4, btm: target.position[1] + brandProperties.PRODUCTIMGHEIGHT - 4 };
+
+                    this.objQuickLookLauncher.setStyle({ left: (target.position[0] + (brandProperties.QUICKLOOKTARGETXPOS)) + 'px',
+
+                        top: (target.position[1] + this.QuickLookBtnAdj[brandCode] + (brandProperties.QUICKLOOKTARGETYPOS)) + 'px', visibility: 'visible'
+
+                    });
+
+                    if (!quickLook.initializeData) {
+
+                        this.loadQuickLookModule(brandCode);
+
+                    }
+                }
+            }
+        });
+    }
+// ]]>
+</script>
+
+<script type="text/javascript">
+// <![CDATA[ 
+gidLib.setCookieVar('mktUniversalSession','0803AB','0803FSPL');
+// ]]>
+</script>
+
+<!-- CASE A -->
+<div style="width:167px;height:72px;" id="TopNavStampScenarioA"><a href="#ps_plfs" onclick="return gidLib.layeredPopup.openLayeredPopup({str:'/customerService/info.do?cid=43160&amp;mlink=39715,1327200,A&amp;clink=1327200',id:'fsps_pol',width:410,height:365});"><img src="/Asset_Archive/GPWeb/content/0001/327/200/assets/fsPLOL_postStamp.gif" alt="free shipping when you add piperlime to your order." style="width:167px;height:72px;"></a></div>	
 
 
 </div>
@@ -1076,7 +1299,7 @@ FSuniversalCookieCutter.prototype = {
 												
 												
 												
-													<div class="unknownUser"><a class="alt" href="/profile/account_summary.do">Your account</a></div>
+													<div class="unknownUser"><a class="alt" href="/profile/account_summary.do?locale=en_US">Your account</a></div>
 												
 											
 										</li>
@@ -1092,7 +1315,7 @@ FSuniversalCookieCutter.prototype = {
 										</li>
 										<li id="topNavLanguageToggle">
 										
-											<div id="signInOrderStatus"><a href="/profile/order_history.do?isNav=true">Orders and returns</a></div>
+											<div id="signInOrderStatus"><a href="/profile/order_history.do?isNav=true&amp;locale=en_US">Orders and returns</a></div>
 										
 										
 										</li>
@@ -1107,7 +1330,7 @@ FSuniversalCookieCutter.prototype = {
 							 	</div>
 								<div id="inlineBagHeader" class="clearfix">
 									
-										<div class="checkoutButtonContainer"><a href="/buy/shopping_bag.do"><img src="/assets/common/clear.gif" width="15" height="15" alt="" class="universalButtonSprite universalSpriteTopnavInlinebagLogo"></a></div>
+										<div class="checkoutButtonContainer"><a href="/buy/shopping_bag.do?locale=en_US"><img src="/assets/common/clear.gif" width="15" height="15" alt="" class="universalButtonSprite universalSpriteTopnavInlinebagLogo"></a></div>
 										<div class="inlineBagTopLayerContainer">
 											<div id="inlineBagTopPriceLayer" class="inlineBagSummary">
 												0
@@ -1164,8 +1387,11 @@ FSuniversalCookieCutter.prototype = {
 
 
 
-	
- 
+		
+			
+		
+		
+				
 
 
 		
@@ -1185,8 +1411,11 @@ FSuniversalCookieCutter.prototype = {
 
 
 
-	
- 
+		
+			
+		
+		
+				
 
 
 		
@@ -1204,13 +1433,9 @@ FSuniversalCookieCutter.prototype = {
 <div id="contentItemContainer210972" class="874000">
 
 
-
 <div style="width:210px;height:60px;background-color:#ffffff;padding:5px 0px 0px 5px;"><em>WANT MORE?</em><br>
-
 Add items from our other stores for one flat $7 shipping rate. <br>
-
 <a onclick="return contentItemLink(this);" href="/customerService/info.do?cid=40995">GET DETAILS</a></div>
-
 
 
 </div>
@@ -1277,8 +1502,11 @@ Add items from our other stores for one flat $7 shipping rate. <br>
 
 
 
-	
- 
+		
+			
+		
+		
+				
 
 
 		
@@ -1305,8 +1533,11 @@ Add items from our other stores for one flat $7 shipping rate. <br>
 
 
 
-	
- 
+		
+			
+		
+		
+				
 
 
 		
@@ -1334,8 +1565,11 @@ Add items from our other stores for one flat $7 shipping rate. <br>
 
 
 
-	
- 
+		
+			
+		
+		
+				
 
 
 		
@@ -1355,8 +1589,11 @@ Add items from our other stores for one flat $7 shipping rate. <br>
 
 
 
-	
- 
+		
+			
+		
+		
+				
 
 
 		
@@ -1374,13 +1611,9 @@ Add items from our other stores for one flat $7 shipping rate. <br>
 
 <script src="/Asset_Archive/GPWeb/content/0000/919/948/assets/swfobject.js"></script>
 
-
 </a><div style="width:62px;height:62px;"><a href="/">
-
 	</a><div style="width:62px;height:62px;"><a href="/"></a><a href="/" onclick="return contentItemLink(this)"><img src="/Asset_Archive/GPWeb/content/0000/919/948/assets/logo.gif" style="width:62px;height:62px;" alt="gap.com"></a></div>
-
 </div>
-
 
 
 		
@@ -1395,8 +1628,11 @@ Add items from our other stores for one flat $7 shipping rate. <br>
 
 
 
-	
- 
+		
+			
+		
+		
+				
 
 
 		
@@ -1416,8 +1652,11 @@ Add items from our other stores for one flat $7 shipping rate. <br>
 
 
 
-	
- 
+		
+			
+		
+		
+				
 
 
 		
@@ -1435,59 +1674,34 @@ Add items from our other stores for one flat $7 shipping rate. <br>
 <div id="contentItemContainer210952" class="1186081">
 
 <script type="text/javascript"> 
-
     obj1186081 = new Object(); 
-
      
-
     obj1186081.divs_to_flip = new Array('flip1', 'flip2');  
-
     obj1186081.i = 0;  
-
     obj1186081.wait = 8000;  
-
      
-
     obj1186081.crossFlip = function(){ 
-
         Effect.SlideDown(obj1186081.divs_to_flip[obj1186081.i], { duration:1, from:0.0, to:1.0 }); 
-
         obj1186081.i++; 
-
         if (obj1186081.i == 2) obj1186081.i = 0; 
-
         Effect.DropOut(obj1186081.divs_to_flip[obj1186081.i], { duration:1, from:0.0, to:1.0 }); 
-
     } 
-
      
-
     obj1186081.startFlip = function(){ 
-
         setInterval('obj1186081.crossFlip()',obj1186081.wait); 
-
     } 
-
      
-
     
-
 	Event.observe(window, 'load', obj1186081.startFlip);
-
 
 </script> 
 
 
-
 <div style="width:390px;height:33px;position:relative;overflow:hidden;">
-
 	<div style="width:390px;height:33px;position:absolute;display:none;" id="flip1"><a onclick="return gidLib.layeredPopup.openLayeredPopup({str:'/customerService/info.do?cid=48136&amp;mlink=5065,1186081,2&amp;clink=1186081',id:'shippingOptions',width:378,height:265});" href="#10Tuesoffer"><img src="/Asset_Archive/GPWeb/content/0001/186/081/assets/rotating_banner2.gif" style="width:390px;height:33px;" alt="gapcard and gap silver cardmembes get 10% off every tuesday! now through september 1. click for details."></a></div>
-
 	<div style="width:390px;height:33px;position:absolute;" id="flip2"><a onclick="return gidLib.layeredPopup.openLayeredPopup({str:'/customerService/info.do?cid=41583&amp;mlink=5065,1186081,2&amp;clink=1186081',id:'shippingOptions',width:378,height:265});" href="#freeShipoffer"><img src="/Asset_Archive/GPWeb/content/0001/186/081/assets/rotating_banner1.gif" style="width:390px;height:33px;" alt="gapcard* and gap silver cardmembers** get free shipping. enter code mycard at checkout. click for details."></a></div>
 
-
 </div>
-
 
 
 </div>
@@ -1553,7 +1767,16 @@ Add items from our other stores for one flat $7 shipping rate. <br>
 </li>
 <li class="division"><a onmouseover="divisionOver('division43184',false);" onmouseout="divisionOut('division43184',false);" href="/browse/division.do?cid=43184"><img id="division43184" class="topnavSprite_division43184_off" src="/assets/common/clear.gif" alt="babyGap Home"></a>
 </li>
-<li class="division"><a onmouseover="divisionOver('division43133',false);" onmouseout="divisionOut('division43133',false);" href="/browse/division.do?cid=43133"><img id="division43133" class="topnavSprite_division43133_off" src="/assets/common/clear.gif" alt="Buzz"></a>
+<li class="division"><a onmouseover="divisionOver('division47676',false);" onmouseout="divisionOut('division47676',false);" href="/browse/division.do?cid=47676"><img id="division47676" class="topnavSprite_division47676_off" src="/assets/common/clear.gif" alt="Stores &amp; Events"></a>
+<ul id="division47676Children" class="subDivisionNavHidden" style="z-index:84;" onmouseover="subDivisionsOver('division47676',false)" onmouseout="subDivisionsOut('division47676',false);">
+<li class="subDivision"><a href="/browse/subDivision.do?cid=47677" onmouseover="subDivisionOver('subDivision47677');" onmouseout="subDivisionOut('subDivision47677');" title="Store Offers"><img class="topnavSprite_subDivision47677_off" src="/assets/common/clear.gif" id="subDivision47677" alt="Store Offers"></a></li>
+<li class="subDivision"><a href="/browse/subDivision.do?cid=47679" onmouseover="subDivisionOver('subDivision47679');" onmouseout="subDivisionOut('subDivision47679');" title="Store Events"><img class="topnavSprite_subDivision47679_off" src="/assets/common/clear.gif" id="subDivision47679" alt="Store Events"></a></li>
+<li class="subDivision"><a href="/browse/subDivision.do?cid=48308" onmouseover="subDivisionOver('subDivision48308');" onmouseout="subDivisionOut('subDivision48308');" title="GapCard Events"><img class="topnavSprite_subDivision48308_off" src="/assets/common/clear.gif" id="subDivision48308" alt="GapCard Events"></a></li>
+<li class="subDivision"><a href="/browse/subDivision.do?cid=47683" onmouseover="subDivisionOver('subDivision47683');" onmouseout="subDivisionOut('subDivision47683');" title="In the News"><img class="topnavSprite_subDivision47683_off" src="/assets/common/clear.gif" id="subDivision47683" alt="In the News"></a></li>
+<li class="subDivision"><a href="/browse/subDivision.do?cid=47681" onmouseover="subDivisionOver('subDivision47681');" onmouseout="subDivisionOut('subDivision47681');" title="New &amp; Remodeled Stores"><img class="topnavSprite_subDivision47681_off" src="/assets/common/clear.gif" id="subDivision47681" alt="New &amp; Remodeled Stores"></a></li>
+<li class="subDivision"><a href="/browse/subDivision.do?cid=47685" onmouseover="subDivisionOver('subDivision47685');" onmouseout="subDivisionOut('subDivision47685');" title="Outlet Store Offers"><img class="topnavSprite_subDivision47685_off" src="/assets/common/clear.gif" id="subDivision47685" alt="Outlet Store Offers"></a></li>
+<li class="subDivision"><a href="/browse/subDivision.do?cid=47687" onmouseover="subDivisionOver('subDivision47687');" onmouseout="subDivisionOut('subDivision47687');" title="Store Locator"><img class="topnavSprite_subDivision47687_off" src="/assets/common/clear.gif" id="subDivision47687" alt="Store Locator"></a></li>
+</ul>
 </li>
 
 				</ul>
@@ -1573,8 +1796,11 @@ Add items from our other stores for one flat $7 shipping rate. <br>
 
 
 
-	
- 
+		
+			
+		
+		
+				
 
 
 		
@@ -2185,8 +2411,11 @@ Add items from our other stores for one flat $7 shipping rate. <br>
 
 
 
-	
- 
+		
+			
+		
+		
+				
 
 
 		
@@ -2208,8 +2437,11 @@ Add items from our other stores for one flat $7 shipping rate. <br>
 
 
 
-	
- 
+		
+			
+		
+		
+				
 
 
 		
@@ -2229,8 +2461,11 @@ Add items from our other stores for one flat $7 shipping rate. <br>
 
 
 
-	
- 
+		
+			
+		
+		
+				
 
 
 		
@@ -2248,387 +2483,197 @@ Add items from our other stores for one flat $7 shipping rate. <br>
 <div id="contentItemContainer1352" class="1165579">
 
 <style type="text/css">
-
 #golPrivacyPolicyContainer768335 ul {
-
 margin-left:21px;
-
 line-height:14px;
-
 }
 
-
 #golPrivacyPolicyContainer768335 li {
-
 padding-left: 0px;
-
 list-style:disc;
-
 }	
-
 </style>
 
-
 <div class="customerserviceSizechartCententMargin" id="golPrivacyPolicyContainer768335">
-
 	<h2 class="header1"><a name="privacyPolicy"></a>Privacy Policy</h2>
-
 	<p><i>Last revised May 8, 2009</i></p>
-
 	
-
 	<h3 class="header3">Our Commitment to Privacy</h3>
-
 	
-
 	<p>Gap Inc. and our brands, which include but are not limited to Gap, Banana Republic, Old Navy, Gap Outlet, Banana Republic Factory Store, Piperlime, and Athleta (collectively, "Gap Inc."), value our customers and respect your privacy. We collect information about you in our stores and through our websites in an effort to improve your shopping experience and to communicate with you about our products, services, contests and promotions. As described in this policy, we may share your information among our brands and, under certain circumstances, with third parties that provide services on our behalf or with whom we have partnered to offer a particular product or service.  For Athleta customers only, we may share your postal address and shopping history with like-minded third parties for their direct mail marketing purposes as described below.</p>
-
 	
-
 	<p>This policy describes the personal information we collect about you, why we collect it, how we use it, and when we share it with third parties. Our policy also describes the choices you can make about how we collect and use your information. If our information practices change, we will post an updated policy on our website. You can tell if the policy has changed by checking the revision date that appears above. If we change the policy in a material way, we will provide appropriate notice to you. You may exercise your choices about how we collect and use your information consistent with this policy at any time.</p> 
-
 	
-
 	<p>If you have any questions about our privacy policy, please contact us as described in the section entitled, "How do I contact you?", below.</p>
-
 	
-
 	<a name="top"></a>
-
 	<h3 class="header3">Privacy Policy</h3>
-
 	
-
 	<ul type="disc">
-
 		<li><a href="#collectInfo">What kind of information does Gap Inc. collect?</a></li>
-
 		<li><a href="#useInfo">How does Gap Inc. use my information?</a></li>
-
 		<li><a href="#shareInfo">Does Gap Inc. share my information?</a></li>
-
 		<li><a href="#accessInfo">How do I access or change my information?</a></li>
-
 		<li><a href="#choices">How do I make choices about receiving promotional communications?</a></li>
-
 		<li><a href="#athleta">How do I stop receiving Athleta catalogs?</a></li>
-
 		<li><a href="#kidsPrivacy">How does Gap Inc. protect kids' privacy?</a></li>
-
 		<li><a href="#cookies">How does Gap Inc. use cookies?</a></li>
-
 		<li><a href="#pixelTags">How does Gap Inc. use pixel tags?</a></li>
-
 		<li><a href="#secureInfo">How do I know my personal information is secure?</a></li>
-
 		<li><a href="#phishing">What is "phishing"?</a></li>
-
 		<li><a href="#links2OtherSites">What about links to other websites?</a></li>
-
 		<li><a href="#contactInfo">How do I contact you?</a></li>
-
 		<li><a href="#caliRights">Your California Privacy Rights</a></li>
-
 	</ul>
-
 	
-
 	<p><a name="collectInfo"></a></p>
-
 	<h4 class="header4">What kind of information does Gap Inc. collect?</h4>
-
 	<p>We may collect personal information from you, such as your name, email address, postal address, phone number, credit card number, gender, birthday, personal interests, etc., when you visit one of our websites or stores, place an order online or by phone, make an in-store purchase, save your information with us online, contact us with a question or concern, or participate in a contest, promotion, or survey. We maintain a record of your product interests and the purchases you make online or by phone and in our stores. We may combine all of this information with information about you that we acquire from our joint marketing partners, from unrelated third parties, and from our other brands.</p>
-
 	<p><a href="#top">back to top</a></p>
-
 	
-
 	<a name="useInfo"></a>
-
 	<h4 class="header4">How does Gap Inc. use my information?</h4>
-
 	<p>We may use your personal information in the following ways:</p>
-
 		<ul>
-
 			<li>To process and fulfill your order, including to send you emails to confirm your order status and shipment</li>
-
 			<li>To communicate with you and to send you information by email, postal mail, telephone, text message, or other means about our products, services, contests, and promotions, unless you have directed us not to contact you with promotional communications</li>
-
 			<li>To administer and fulfill our contests and other promotions</li>
-
 			<li>To help us learn more about your shopping preferences</li>
-
 			<li>To help us address problems with and improve our site design, products and services</li>
-
 			<li>To enhance your shopping experience</li>
-
 			<li>To analyze trends and statistics</li>
-
 			<li>To protect the security or integrity of our websites and our business</li>
-
 			<li>To contact you if necessary</li>
-
 		</ul>
-
 	
-
 	<p>You always have the choice not to receive marketing information or calls. For instructions on opting out, please see the section entitled, "How do I make choices about receiving promotional communications?", below.</p>
-
 	<p><a href="#top">back to top</a></p>
-
 	
-
 	<a name="shareInfo"></a>
-
 	<h4 class="header4">Does Gap Inc. share my information?</h4>
-
 	<p>We may share your personal information in the following ways:</p>
-
 		<ul>
-
 			<li>When you provide personal information to one of our Gap Inc. brands (Gap, Banana Republic, Old Navy, Gap Outlet, Banana Republic Factory Store, Piperlime, or Athleta), we may share that information with our other Gap Inc. brands. </li>
-
 			<li>If you purchase Athleta brand products through our website or by placing a catalog order by phone or mail, we may share your name, postal address, and shopping history with like-minded organizations whose privacy policies meet the Direct Marketing Association's privacy standards, for their direct mail marketing purposes. We do not share email addresses for such purposes. We also do not share personal information about customers who only browse, email comments, request a catalog, or request email updates, or who purchase only Gap, Banana Republic, Old Navy, Gap Outlet, Banana Republic Factory Store, or Piperlime merchandise. If you would prefer that we not share information about you with other companies, please let us know by contacting Athleta customer service as described in the section entitled, "How do I contact you?", below.</li>
-
 			<li>We may share your information with our service providers who manage our customer information and perform services on our behalf, such as fulfilling promotions, sending communications to our customers, conducting surveys, etc. We do not authorize any of these service providers to make any other use or disclosure of your information. </li>
-
 			<li>We may share your information when we team up with another company to offer or provide products, services, contests, or promotions to our customers.</li>
-
 			<li>We may share information about you if necessary, in our good faith judgment, to comply with laws or regulations or in response to a valid subpoena, order, or government request, or to protect the rights of Gap Inc. or others.</li>
-
 		</ul>
-
 	
-
 	
-
 	<p>In addition, if you choose to participate in any third-party scrip, loyalty, or similar program in which a Gap Inc. brand is a participating vendor, and you authorize Gap Inc. or our credit card processor to provide information about your purchases to the company administering the program, we will share your personal information with that program. Scrip programs allow you to instruct us to divert a percentage of the amount you spend on Gap Inc. purchases to participating schools and other non-profit organizations. Loyalty programs allow you to earn "points" on purchases at Gap Inc. brands, which you may then use toward certain rewards offered by the loyalty programs in which you participate. The information you authorize us to disclose to the third-party scrip or loyalty program may include your credit card number and the date and amount of your purchase, and may also include your name and other information you have asked us to provide. Please note that once we disclose this information, the scrip or loyalty company may use and share it with others in accordance with its own privacy policy. You should review these policies carefully, as we have no control over them.</p>
-
 	
-
 	<p>In the unlikely event of a sale or merger of Gap Inc. or any of our businesses, our customers' personal information and other information we have collected as described in this policy may be among the transferred business assets.</p>
-
 	<p><a href="#top">back to top</a></p>
-
 	
-
 	<a name="accessInfo"></a>
-
 	<h4 class="header4">How do I access or change my information?</h4>
-
 	<p>You can review and change certain personal information related to your use of our online sites (such as your name and contact information). To access your information at a Gap Inc. website, simply sign in to your account using your email address and password, and you will be able to edit your personal information in your account profile.</p>
-
 	<p>You can also ask us to update your personal information by contacting us as described in the section entitled, "How do I contact you?", below. Please note that any request to update your personal information may take up to 10 days for your email request and 6-8 weeks for your postal mail request.</p>
-
 	<p><a href="#top">back to top</a></p>
-
 	
-
 	<a name="choices"></a>
-
 	<h4 class="header4">How do I make choices about receiving promotional communications?</h4>
-
 	<p>Gap Inc. and our brands, including Gap, Banana Republic, Old Navy, Gap Outlet, Banana Republic Factory Store, Piperlime, and Athleta, want to communicate with you only if you want to hear from us. If you prefer not to receive promotional information, such as information about special offers and sales events, from one or more of our brands, you can let us know by contacting our customer service as described in the section entitled, "How do I contact you?", below.</p>
-
 	<p>Please be sure to include your full name and the email address you used when you registered with or made a purchase from the Gap Inc. brand. If you ask us to remove your name and address from promotional lists, we will maintain your name in a "do not contact" file to ensure that we can honor your request. It may take up to 10 days to process your email request and 6-8 weeks to process your postal mail request, during which period you may continue to receive communications from Gap Inc.</p>
-
 	<p>If you change your mind, you can start receiving promotional communications from us again by logging into your online account and changing your preferences, by signing up when you visit our websites or our stores or when you enter a sweepstakes or contest, or by contacting customer service.</p>
-
 	<p>Please note that when you make an online purchase from us, we will continue to confirm your order status and shipment by email. We may also need to contact you via telephone, email or postal mail with questions or information regarding your order.</p>
-
 	<p><a href="#top">back to top</a></p>
-
 	
-
 	<a name="athleta"></a>
-
 	<h4 class="header4">How do I stop receiving Athleta catalogs?</h4>
-
 	<p>If you no longer wish to receive Athleta catalogs or wish to alert us to duplicate mailings, please contact Athleta customer service as described in the section entitled, "How do I contact you?", below. Please provide your exact name, postal address, and email address so that your request can be effectively processed. It may take up to 90 days in order for your information to be completely removed from our list.</p>
-
 	<p>To learn more about your rights as a consumer and to receive less national advertising mail, please visit the Direct Marketing Association at <a href="http://www.dmachoice.org/" target="_blank">http://www.dmachoice.org/</a>.</p>
-
 	<p><a href="#top">back to top</a></p>
-
 	
-
 	<a name="kidsPrivacy"></a>
-
 	<h4 class="header4">How does Gap Inc. protect kids' privacy?</h4>
-
 	<p>Gap Inc. is concerned about the privacy and safety of children when they use the Internet. We will never knowingly request personally identifiable information online from anyone under the age of 13 without prior verifiable parental consent. Our websites are general audience sites and are not targeted to or intended for use by children.</p>
-
 	<p><a href="#top">back to top</a></p>
-
 	
-
 	<a name="cookies"></a>
-
 	<h4 class="header4">How does Gap Inc. use cookies?</h4>
-
 	<p>Our websites use "cookies," which are small data files that are stored on your computer when you visit a website. Cookies enable you to shop on our websites and may be used in a variety of ways to enhance or personalize your online browsing and shopping experience.</p>
-
 	<p>For example, we may use cookies to enable you to use certain website features, remember the items in your shopping cart, store your preferences, recognize you when you return to our website, track your orders, and monitor and maintain information about your use of our websites. Cookies may also be used to collect transaction information needed by a scrip or loyalty program to which you have authorized us to provide your personal information. (See the section entitled, "Does Gap Inc. share my information?", above.)</p>
-
 	<p>You can set your browser not to accept cookies or to notify you when you are sent a cookie, giving you the opportunity to decide whether or not to accept it. If you do not accept cookies, however, you will not be able to access your account information or make purchases on our websites.</p>	
-
 	<p><a href="#top">back to top</a></p>
-
 	
-
 	<a name="pixelTags"></a>
-
 	<h4 class="header4">How does Gap Inc. use pixel tags?</h4>
-
 	<p>We use "pixel tags" (also called "web beacons" or "clear gifs"), which are tiny graphic images, on our websites and in our emails. Pixel tags help us analyze our customers' online behavior and measure the effectiveness of our websites and our advertising. We work with service providers that help us track, collect, and analyze this information.</p>
-
 	<p>Pixel tags on our sites may be used to collect information about your visit, including the pages you view, the features you use, the links you click, and other actions you take in connection with the sites. This information may include your computer's Internet protocol (IP) address, your browser type, your operating system, date and time information, and other technical information about your computer. We may also track certain information about the identity of the website you visited immediately before coming to our site. We do not otherwise track any information about your use of other websites.</p>
-
 	<p>Pixel tags and cookies in our emails may be used to track your interactions with those messages, such as when you receive, open, or click a link in an email message from us.</p>
-
 	<p>We also work with third-party companies that use tracking technologies to serve advertisements on our behalf across the Internet. These companies may collect information about your visits to our websites and your interaction with our advertising and other communications. If you would like more information about this practice and to know your choices about not having your information used by these companies, please visit <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">http://www.networkadvertising.org/managing/opt_out.asp</a>.</p>
-
 	<p>We may combine the information we collect through cookies and pixel tags with other information we have collected from you. This information may be used to improve our websites, to personalize your online experience, to tailor our communications with you, to determine the effectiveness of our advertising, and for other internal business purposes.</p>
-
 	<p><a href="#top">back to top</a></p>
-
 	
-
 	<a name="secureInfo"></a>
-
 	<h4 class="header4">How do I know my personal information is secure?</h4>
-
 	<p>We do our best to provide you with a safe and convenient shopping experience. We have in place certain physical, electronic, contractual, and managerial safeguards to protect the security and privacy of your personal information.</p>
-
 	<p>When you enter your personal information on our websites, we use Secure Sockets Layer (SSL) technology to protect your information as it is transmitted to us. To make sure you are accessing our secure server before you submit personal financial information, look at the lower left-hand corner of your browser. If you see an unbroken key or a closed lock (depending upon your browser), then SSL is active. To double-check for security, look at the URL or Location line of your browser. If you have accessed a secure server, the first characters of the address in that line should change from "http" to "https."</p>
-
 	<p>If for any reason you cannot access the secure server, or if you're not quite comfortable shopping online at any of our websites, please feel free to place your order with us by telephone at the number listed in the section entitled, "How do I contact you?", below.</p>
-
 	<p><a href="#top">back to top</a></p>
-
 	
-
 	<a name="phishing"></a>
-
 	<h4 class="header4">What is "phishing"?</h4>
-
 	<p>"Phishing" is a scam designed to steal your personal information. If you receive an email that looks like it is from us asking you for your personal information, do not respond. We will never request your password, user name, credit card information or other personal information through email.</p>
-
 	<p><a href="#top">back to top</a></p>
-
 	
-
 	<a name="links2OtherSites"></a>
-
 	<h4 class="header4">What about links to other websites?</h4>
-
 	<p>For your convenience and information, our websites may contain links to other sites, which may have privacy policies that differ from our own. We are not responsible for the content or practices of any linked site. We recommend that you review the privacy policy of any site that you access through our sites.</p>
-
 	<p><a href="#top">back to top</a></p>
-
 	
-
 	<a name="contactInfo"></a>
-
 	<h4 class="header4">How do I contact you?</h4>
-
 	<p>For questions about our privacy policy, to make choices about receiving promotional communications, to update your personal information, or to place an order, you can contact any of our Gap Inc. brands by email, telephone, or postal mail:</p>
-
 	
-
 	<p><span class="header4">Gap Customer Services</span><br>
-
 	5930 Gap Online Drive<br>
-
 	Groveport, OH 43195-0002<br>
-
 	1-800-GAPSTYLE (1-800-427-7895)<br>
-
 	1-888-906-1104 (TDD hearing impaired)<br>
-
 	<a href="mailto:custserv@gap.com">custserv@gap.com</a></p>
-
 	
-
 	<p><span class="header4">Banana Republic Customer Services</span><br>
-
 	5900 North Meadows Drive<br>
-
 	Grove City, OH 43123-8476<br>
-
 	1-888-BR STYLE (1-888-277-8953) <br>
-
 	1-888-906-1345 (TDD hearing impaired)<br>
-
 	<a href="mailto:custserv@bananarepublic.com">custserv@bananarepublic.com</a></p>
-
 		
-
 	<p><span class="header4">Old Navy Customer Services</span><br>
-
 	200 Old Navy Lane<br>
-
 	Grove City, OH 43123-8605<br>
-
 	1-800-OLD-NAVY (1-800-653-6289)<br>
-
 	1-800-449-4253 (TDD hearing impaired)<br>
-
 	<a href="mailto:custserv@oldnavy.com">custserv@oldnavy.com</a></p>
-
 		
-
 	<p><span class="header4">Piperlime Customer Care</span><br>
-
 	5900 Piperlime Lane<br>
-
 	Grove City, OH 43123<br>
-
 	1-877-PIPERLIME (1-877-747-3754)<br>
-
 	1-888-906-1345 (TDD hearing impaired)<br>
-
 	<a href="mailto:custserv@piperlime.com">customercare@piperlime.com</a></p>		
-
 	
-
 	<p><span class="header4">Athleta Customer Services</span><br>
-
 	5900 North Meadows Drive<br>
-
 	Grove City, OH 43123<br>
-
 	1-877-3ATHLETA (1-877-328-4538)<br>
-
 	1-888-906-1345 (TDD hearing impaired)<br>
-
 	<a href="mailto:custserv@athleta.com">custserv@athleta.com</a></p>		
-
 	<p><a href="#top">back to top</a></p>
-
 	
-
 	<a name="caliRights"></a>
-
 	<h4 class="header4">Your California Privacy Rights</h4>
-
 	<p>California Civil Code Section 1798.83 permits customers of Gap Inc. who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please write to us at the following address:</p>
-
 	<p>Gap Inc. - California Privacy Rights<br>
-
 	Legal Department<br>
-
 	2 Folsom Street<br>
-
 	San Francisco, CA 94105</p>
-
 	
-
 	<p><a href="#top">back to top</a></p>
-
 </div>
-
 
 
 </div>
@@ -2643,8 +2688,11 @@ list-style:disc;
 
 
 
-	
- 
+		
+			
+		
+		
+				
 
 
 		
@@ -2664,8 +2712,11 @@ list-style:disc;
 
 
 
-	
- 
+		
+			
+		
+		
+				
 
 
 		
@@ -2691,8 +2742,11 @@ list-style:disc;
 
 
 
-	
- 
+		
+			
+		
+		
+				
 
 
 		
@@ -2762,8 +2816,11 @@ list-style:disc;
 
 
 
-	
- 
+		
+			
+		
+		
+				
 
 
 		
@@ -2783,8 +2840,11 @@ list-style:disc;
 
 
 
-	
- 
+		
+			
+		
+		
+				
 
 
 		
@@ -2799,426 +2859,211 @@ list-style:disc;
 
 
 
-<div id="contentItemContainer210224" class="1229889">
+<div id="contentItemContainer210224" class="1328336">
 
 <style type="text/css">
-
-	body {background-color:#ffffff;background-image:none;}
-
+	body {background :#7c7c7c url(/Asset_Archive/GPWeb/content/0001/328/336/assets/0709_1x1500_background.gif) repeat-x;}
 
 	#sisterSiteContainer {padding:0px;}
 
-
 /*	#topNav #divisionContainer {border-left: 1px solid #535353;} */
-
 /*	#topNav #row2RightCol {border-right: 1px solid #535353;} 		 */
 
-
 	#topNav #universalTopNav	{border-bottom:1px solid #B8B6B4;}
-
 	
-
 	#mainContent {border-color:#B8B6B4;} 
-
 	#mainContentContainer {border-color:#B8B6B4 !important;}
-
 	 
-
-	li#categoryNav37668.categorySelected {background-image:url(/Asset_Archive/GPWeb/content/0001/229/889/assets/pl_sidenav_bullet.gif) !important;}
-
-	li#categoryNav37672.categorySelected {background-image:url(/Asset_Archive/GPWeb/content/0001/229/889/assets/pl_sidenav_bullet.gif) !important;}
-
-	li#categoryNav39790.categorySelected	{background-image:url(/Asset_Archive/GPWeb/content/0001/229/889/assets/pl_sidenav_bullet.gif) !important;}
-
-	li#categoryNav39791.categorySelected	{background-image:url(/Asset_Archive/GPWeb/content/0001/229/889/assets/pl_sidenav_bullet.gif) !important;}
-
+	li#categoryNav37668.categorySelected {background-image:url(/Asset_Archive/GPWeb/content/0001/328/336/assets/pl_sidenav_bullet.gif) !important;}
+	li#categoryNav37672.categorySelected {background-image:url(/Asset_Archive/GPWeb/content/0001/328/336/assets/pl_sidenav_bullet.gif) !important;}
+	li#categoryNav39790.categorySelected	{background-image:url(/Asset_Archive/GPWeb/content/0001/328/336/assets/pl_sidenav_bullet.gif) !important;}
+	li#categoryNav39791.categorySelected	{background-image:url(/Asset_Archive/GPWeb/content/0001/328/336/assets/pl_sidenav_bullet.gif) !important;}
 	
-
 	#sideNav #categoryNav39790 a.category {color:#77bb00 !important;}
-
 	#sideNav #categoryNav39790 a.categorySelected {color:#77bb00 !important;}
 
-
 	#sideNav #categoryNav39791 a.category {color:#77bb00 !important;}
-
 	#sideNav #categoryNav39791 a.categorySelected {color:#77bb00 !important;}
-
 	
-
 	#sideNav #categoryNav41595 a.category {color:#7f95ba !important;}
-
 	#sideNav #categoryNav41595 a.categorySelected {color:#7f95ba !important;}
-
 	
-
 	#sideNav #categoryNav40763 a.category {color:#77bb00 !important;}
-
 	#sideNav #categoryNav40763 a.categorySelected {color:#77bb00 !important;}
 
-
 	#sideNav #categoryNav40764 a.category {color:#77bb00 !important;}
-
 	#sideNav #categoryNav40764 a.categorySelected {color:#77bb00 !important;}
-
 	
-
 	#sideNav {padding-top:0px;}
-
 	
-
 /*  there are css overrides specific for the hp footer in the email reg container - 1212590. 06.04.09 - avictorio */
-
 	#footer {padding-top:5px; margin-left: auto; margin-right: auto;}
-
 	#footer #footerUeberContainer2 {border-left:1px solid #B8B6B4; border-right:1px solid #B8B6B4;}
-
 	#footer #upperLtFootContainer {border-left:1px solid #B8B6B4; border-bottom:none;}
-
 	#footer #upperRtFootContainer {border-right:1px solid #B8B6B4; border-bottom:none;}
-
 	
-
 	
-
 	#shopBySizeTop {background:#ffffff none repeat}
-
 	#shopBySizeTop .left {background-image:none;}
-
 	#shopBySizeTop .right {background-image:none;}
-
-	#shopBySizeTools {background:#ffffff url(/Asset_Archive/GPWeb/content/0001/229/889/assets/shopbysize_hdr.gif) no-repeat scroll 13px 0px;}
-
+	#shopBySizeTools {background:#ffffff url(/Asset_Archive/GPWeb/content/0001/328/336/assets/shopbysize_hdr.gif) no-repeat scroll 13px 0px;}
 	#shopBySizeSelections {background:#ffffff none repeat;}
-
 	#shopBySizeBottom {background-color:#ffffff;}
-
 	#shopBySizeBottom .left {background-image:none;}
-
 	#shopBySizeBottom .right {background-image:none;}
-
 	
-
 /*	GLOABL FOOTER LAYOUT */
-
 	.gfText {line-height:12px;padding:4px;}
-
 	
-
 /* PRODUCT PAGE LAYOUT FIX */	
-
 	#crossSellBox #crossSellTop {top:10px;width:595px;}
-
 
 </style>
 
-
 <script type="text/javascript">
-
 	function openFooterAtTop(url,linkNum){
-
-		var footerCIDNum = "1229889";
-
+		var footerCIDNum = "1328336";
 		var MLINK = (url.indexOf('?') != -1) && (url.substring(url.indexOf('?')).length > 2) ? "&mlink=5058," : "?mlink=5058,";
-
 		var tmp = url + MLINK + footerCIDNum + "," + linkNum + "&clink=" + footerCIDNum;
-
 		top.location.href = tmp;
-
 		return false;
-
 	}
-
 	
-
 // FEDEX TRACKING	
-
 (function() {
-
     if (location.pathname == "/profile/shipment_detail.do") {
-
         Event.onDOMReady(function() {
-
             var as = $$('a[href*=http://fedex.com/Tracking?action=track&language=english&cntry_code=us&initial=x&tracknumbers]');
-
             as.each(function(a){
-
                 if (a && a.href) {
-
                     var url = a.href;
-
                     if (url.indexOf("tracknumbers=") == -1) {
-
                         url = url.replace("tracknumbers","tracknumbers=");
-
                         a.href = url;
-
                     }
-
                 }
-
             });
-
         });
-
     }
-
 })();
 
-
 	
-
 	
-
 // PIPERLIME POPUNDER	
-
-	function openPiperlime1229889() {
-
-		var obj1229889 = new Object();
-
+	function openPiperlime1328336() {
+		var obj1328336 = new Object();
 		
-
-		obj1229889.qry = location;
-
-		obj1229889.qryString = String(obj1229889.qry);
-
-		obj1229889.aQry = obj1229889.qryString.indexOf('kwid=1');
-
+		obj1328336.qry = location;
+		obj1328336.qryString = String(obj1328336.qry);
+		obj1328336.aQry = obj1328336.qryString.indexOf('kwid=1');
 		
-
-		if (obj1229889.aQry < 0){
-
-		var piperlimePopHasSeen1229889 = (getCookieVar("mktGlobalPersist","plGapPromoPop") == 1);
-
-			if (piperlimePopHasSeen1229889 != 1) {
-
+		if (obj1328336.aQry < 0){
+		var piperlimePopHasSeen1328336 = (getCookieVar("mktGlobalPersist","plGapPromoPop") == 1);
+			if (piperlimePopHasSeen1328336 != 1) {
 				plGapPromoPop = window.open('/browse/info.do?cid=36193','Piperlime','width=365,height=262,screenX=100,screenY=100,top=100,left=100');
-
 					if (plGapPromoPop) {
-
 						plGapPromoPop.blur();
-
 						window.focus();
-
 						setCookieVar("mktGlobalPersist","plGapPromoPop","1");				
-
 					}
-
 			}
-
 		
-
 		}
-
 	}
 
-
-	Event.observe(window, 'load', openPiperlime1229889);
-
+	Event.observe(window, 'load', openPiperlime1328336);
 	
-
 	
-
 // BUZZPAGE TAB OVERRIDE
-
 //if ($("division43133")) {
-
 	//function newSrcBuzz() {
-
-		//$("division43133").src="/Asset_Archive/GPWeb/content/0001/229/889/assets/topnav_division43133_default.gif";
-
+		//$("division43133").src="/Asset_Archive/GPWeb/content/0001/328/336/assets/topnav_division43133_default.gif";
 		//$("division43133").alt="Buzz Page";
-
 	//};
-
 	//Event.observe(window, 'load', newSrcBuzz);
-
 
 //}
 
-
 // CROSSLINK STYLE FIX
-
 	var fixCrossLinkModuleOpacity = function(){
-
 		thisBrowser = navigator.userAgent;
-
 		thisOS = navigator.appVersion;
-
 		if (thisBrowser.toLowerCase().indexOf("firefox")>0 && thisOS.toLowerCase().indexOf("mac")>0){
-
 			$('crossLinkStyleFix').innerHTML = "<style type='text/css'>#crossLinkModule{opacity:1.0 !important}</style>";
-
 		}
-
 	}
-
 	Event.onDOMReady(fixCrossLinkModuleOpacity);
 
-
 </script>
-
-
-<!-- FS 4Case a/b test 03/25/09
-
-<script type="text/javascript" src="/Asset_Archive/GPWeb/content/0001/229/889/assets/UniversalCobra.js"></script>
-
-
-<script type="text/javascript" src="/Asset_Archive/GPWeb/content/0001/229/889/assets/UniversalCookieCutter.js"></script>
-
-
-
-<script type="text/javascript">
-
-
-//<![CDATA[
-
-
-var FSMar = new FSuniversalCookieCutter('FSMAR09');
-
-    Event.onDOMReady(function() {
-
-    var ABCobra = new FSUniversalCOBRA();
-
-    });
-
-//]]>
-
-
-</script>
-
- end FS 4Case a/b test -->
 
 
 <!-- start 5-1 footer -->
-
 <div style="width:768px;height:50px;margin-bottom:5px;margin-top:0px;">
-
-	<div style="width:768px;height:50px;"><a href="/customerService/info.do?cid=40995" onclick="return contentItemLink(this)"><img src="/Asset_Archive/GPWeb/content/0001/229/889/assets/uniFooterGAP.gif" style="width:768px;height:50px;" alt="shopping made simple. 5 stores now including athleta. 1 low flat shipping rate. piperlime-only orders ship free. learn more."></a></div>
-
+	<div style="width:768px;height:50px;"><a href="/customerService/info.do?cid=40995" onclick="return contentItemLink(this)"><img src="/Asset_Archive/GPWeb/content/0001/328/336/assets/uniFooterGAP.gif" style="width:768px;height:50px;" alt="shopping made simple. 5 stores now including athleta. 1 low flat shipping rate. piperlime-only orders ship free. learn more."></a></div>
 </div>
-
 <!-- end 5-1 footer -->
-
 <!-- start global footer -->
-
 <div style="width:768px;height:105px;background-color:#ededed;margin-top:6px;">
-
 	<div style="float:left;padding:12px 10px 4px 15px;">	
-
 		<div class="gfText"><a href="/customerService/info.do?cid=2136" onclick="return openFooterAtTop(this.href,1);">Customer Service</a></div> 
-
 		<div class="gfText"><a href="/customerService/storeLocator.do" onclick="return openFooterAtTop(this.href,2);">Store Locator</a></div> 
-
 		<div class="gfText"><a href="/customerService/info.do?cid=7843" onclick="return openFooterAtTop(this.href,3);">Contact Us</a></div> 
-
 		<div class="gfText"><a href="/customerService/info.do?cid=2116" onclick="return openFooterAtTop(this.href,4);">GiftCards</a></div> 
-
 	</div>
-
 	
-
 	<div style="float:left;padding:12px 10px 4px 4px;">
-
-		<div class="gfText" style="background-color:#ddd;position:relative;width:225px;"><a href="/customerService/info.do?cid=46079" onclick="return openFooterAtTop(this.href,5);">Gap Credit Cards</a><a href="/customerService/info.do?cid=46079" onclick="return openFooterAtTop(this.href,6);"><img src="/Asset_Archive/GPWeb/content/0001/229/889/assets/Gap_footercards.gif" style="width:80px;height:79px;position:absolute;left:145px;"></a></div> 
-
+		<div class="gfText" style="background-color:#ddd;position:relative;width:225px;"><a href="/customerService/info.do?cid=46079" onclick="return openFooterAtTop(this.href,5);">Gap Credit Cards</a><a href="/customerService/info.do?cid=46079" onclick="return openFooterAtTop(this.href,6);"><img src="/Asset_Archive/GPWeb/content/0001/328/336/assets/Gap_footercards.gif" style="width:80px;height:79px;position:absolute;left:145px;"></a></div> 
 		<div class="gfText"><a href="/customerService/info.do?cid=46079" onclick="return openFooterAtTop(this.href,7);">Apply Now and Save Today</a></div> 
-
 		<div class="gfText"><a href="/customerService/info.do?cid=44651" onclick="return openFooterAtTop(this.href,8);">Review My Card Benefits</a></div> 
-
 		<div class="gfText"><a href="https://www3.onlinecreditcenter6.com/consumergen2/login.do?subActionId=1000&amp;clientId=gap&amp;langId=en&amp;accountType=plcc" target="_blank">Manage My Account</a></div> 
-
 	</div>
-
 	<div style="float:left;padding:12px 10px 4px 4px;">
-
 		<div class="gfText"><a href="/browse/home.do?cid=16591" onclick="return openFooterAtTop(this.href,9);">Gap (PRODUCT) RED ™</a></div> 
-
 		<div class="gfText"><a href="/customerService/info.do?cid=2312" onclick="return openFooterAtTop(this.href,10);">Size Charts</a></div> 
-
 		<div class="gfText"><a href="/customerService/info.do?cid=2116" onclick="return openFooterAtTop(this.href,11);">Gift Services</a></div> 
-
-		<div class="gfText"><a href="/browse/info.do?cid=2003" onclick="return openFooterAtTop(this.href,12);">Affiliates</a></div> 
-
+		<div class="gfText"><a href="/customerService/info.do?cid=49079" onclick="return openFooterAtTop(this.href,12);">Gap Outlet</a></div> 
 	</div>
-
 	
-
 	<div style="float:left;padding:12px 10px 4px 4px;">
-
 		<div class="gfText"><a href="/customerService/info.do?cid=6754" onclick="return openFooterAtTop(this.href,13);">Terms of Use</a></div> 
-
 		<div class="gfText"><a href="/customerService/info.do?cid=2331" onclick="return openFooterAtTop(this.href,14);">Privacy Policy</a></div> 
-
 		<div class="gfText"><a href="http://www.gapinc.com/optionsgiftcard/" target="_blank">Corporate GiftCard Sales</a></div> 
-
-		<div class="gfText"><a href="http://www.gapinc.com/public/SocialResponsibility/socialres.shtml" target="_blank">Social Responsibility</a></div> 
-
+		<div class="gfText"><a href="http://www.gapinc.com/GapIncSubSites/csr/MakeADifference/Gap.shtml" target="_blank">Social Responsibility</a></div> 
 	</div>
-
 	
-
 	<div style="float:left;padding:12px 10px 4px 4px;">
-
 		<div class="gfText"><a href="http://www.gapinc.com/public/Careers/careers.shtml" target="_blank">Careers</a></div> 
-
 		<div class="gfText"><a href="http://www.gapinc.com/public/Investors/investors.shtml" target="_blank">Investors</a></div> 
-
 		<div class="gfText"><a href="http://www.gapinc.com/public/About/about.shtml" target="_blank">About Gap Inc.</a></div> 
-
 		<div class="gfText"><a href="/customerService/sitemap.do" onclick="return openFooterAtTop(this.href,18);">Site Index</a></div> 
-
 	</div>
-
 </div>
-
 
 <div style="width:768px;margin-top:12px;text-align:center;" class="clearfix">
-
 	<p class="text1" style="color:#000;">Gap Inc. Brands:&nbsp;&nbsp;
-
 		<a href="http://oldnavy.gap.com" onclick="return contentItemLink(this,'','1gpft');"><span style="text-decoration:underline;color:#000;font-size:9px;font-family:Verdana,Arial,Sans-serif;">oldnavy.com</span></a>&nbsp;&nbsp;&nbsp;
-
 		<a href="http://bananarepublic.gap.com" onclick="return contentItemLink(this,'','2gpft');"><span style="text-decoration:underline;color:#000;font-size:9px;font-family:Verdana,Arial,Sans-serif;">bananarepublic.com</span></a>&nbsp;&nbsp;&nbsp;
-
 		<a href="http://piperlime.gap.com" onclick="return contentItemLink(this,'','3gpft');"><span style="text-decoration:underline;color:#000;font-size:9px;font-family:Verdana,Arial,Sans-serif;">piperlime.com</span></a>&nbsp;&nbsp;&nbsp;
-
-		<a href="http://athleta.gap.com" onclick="return contentItemLink(this,'','4gpft');"><span style="text-decoration:underline;color:#000;font-size:9px;font-family:Verdana,Arial,Sans-serif;">athleta.gap.com</span></a></p>
-
+		<a href="http://athleta.gap.com" onclick="return contentItemLink(this,'','4gpft');"><span style="text-decoration:underline;color:#000;font-size:9px;font-family:Verdana,Arial,Sans-serif;">athleta.com</span></a></p>
 	<p class="text2" style="color:#000;">© 1997 - 2009 Gap Inc.</p>
-
 </div>
-
 
 
 <!-- CROSSLINK STYLE FIX -->
-
 <div id="crossLinkStyleFix" style="width:0px;height:0px;visibility:hidden;"></div>
-
 <!-- end CROSSLINK STYLE FIX -->
 
-
 <!-- end global footer -->
-
 <!--QuickLink header override. DO NOT DELETE!-->
-
 <style type="text/css">
-
 #crossLinkModule #crossLinkHeader {
-
-background: url(/Asset_Archive/GPWeb/content/0001/229/889/assets/qlnew.gif) no-repeat scroll left top;
-
+background: url(/Asset_Archive/GPWeb/content/0001/328/336/assets/qlnew.gif) no-repeat scroll left top;
 border:0px;
-
 height:32px;
-
 margin:0;
-
 text-align:center;
-
 }
-
 </style>
-
 
 
 </div>
@@ -3236,8 +3081,11 @@ text-align:center;
 
 
 
-	
- 
+		
+			
+		
+		
+				
 
 
 		
@@ -3257,8 +3105,11 @@ text-align:center;
 
 
 
-	
- 
+		
+			
+		
+		
+				
 
 
 		
@@ -3273,186 +3124,6 @@ text-align:center;
 
 
 
-<div id="contentItemContainer211092" class="1144471">
-
-
-
-
-<!-- HP DISRUPTOR -->
-
-<script type="text/javascript">
-
-// <![CDATA[ 
-
-
-var AthletaDisruption = Class.create();
-
-
-    AthletaDisruption.prototype = {
-
-    
-
-    initialize:function() {
-
-        $('mainContent').setStyle ({position:'relative'});
-
-        Effect.Fade('universalTopNav',{ duration: 1.0, from: 1, to: .3 });
-
-        Effect.Fade('homeVariant210143',{ duration: 1.0, from: 1, to: .3 });
-
-        Effect.Fade('footer',{ duration: 1.0, from: 1, to: .3 });
-
-        
-
-        gidLib.setCookieVar("mktGlobalPersist","disruptorCookie","1");
-
-
-        
-
-        
-
-        $('CloseButton').onclick = function() {
-
-        
-
-        Effect.SlideUp('DisruptorContainment',{duration: 1.0});
-
-        Effect.Fade('universalTopNav',{ duration: 1.0, from: .3, to: 1 });
-
-        Effect.Fade('homeVariant210143',{ duration: 1.0, from: .3, to: 1 });
-
-        Effect.Fade('footer',{ duration: 1.0, from: .3, to: 1 });
-
-        $('topSearchSelect').setStyle({visibility:'visible'});
-
-        clearTimeout(AthletaTimer);
-
-        return false;
-
-        }
-
-        
-
-        this.disruptorTrigger();
-
-        
-
-    },
-
-        
-
-    disruptorTrigger:function() {
-
-        
-
-        this.DisruptorContainer = Builder.node
-
-		('div',{id:'DisruptorContainment',style:'width:506px;height:506px;position:absolute; top:-105px; left:320px;display:none; '});
-
-        this.AthletaImage = Builder.node ('img', {src:'/Asset_Archive/GPWeb/content/0001/144/471/assets/brong_disruptor.jpg',useMap:'#disruptor_map'});
-
-
-        if(navigator.appVersion.indexOf('MSIE 7.0') > 1) {
-
-            $('topSearchSelect').setStyle({visibility:'hidden'});
-
-            this.DisruptorContainer = Builder.node
-
-			('div',{id:'DisruptorContainment',style:'width:506px;height:506px;position:absolute; top:-105px; left:320px; display:none;'});
-
-        }
-
-
-        if(navigator.appVersion.indexOf('MSIE 6.0') > 1) {
-
-            $('topSearchSelect').setStyle({visibility:'hidden'});
-
-            this.DisruptorContainer = Builder.node
-
-			('div',{id:'DisruptorContainment',style:'width:506px;height:506px;position:absolute; top:-105px; left:320px; display:none;'});
-
-        }
-
-        
-
-        this.DisruptorContainer.appendChild(this.AthletaImage);
-
-        $('mainContent').appendChild(this.DisruptorContainer);
-
-        Effect.SlideDown('DisruptorContainment',{duration: 1.0});
-
-        
-
-        
-
-    }
-
-    
-
-};
-
-
-
-Event.observe(window,'load',function() {
-
-
-    
-
-    if(omni.strCurrentPageName == 'gp:browse:Home') {
-
-    	var HasDisruptorBeenSeen = gidLib.getCookieVar
-
-		("mktGlobalPersist","disruptorCookie");
-
-		if (!HasDisruptorBeenSeen) {
-
-        	var SessionDisruptor = new AthletaDisruption();
-
-        
-
-        	AthletaTimer = setTimeout (function() {
-
-        		Effect.SlideUp('DisruptorContainment',{duration: 1.0});
-
-        		Effect.Fade('universalTopNav',{ duration: 1.0, from: .3, to: 1 });
-
-        		Effect.Fade('homeVariant210143',{ duration: 1.0, from: .3, to: 1 });
-
-        		Effect.Fade('footer',{ duration: 1.0, from: .3, to: 1 });
-
-        		$('topSearchSelect').setStyle({visibility:'visible'});
-
-        	}, 10000);
-
-        
-
-		}
-
-    }
-
-    });
-
-
-
-// ]]>
-
-
-</script>
-
-
-<map name="disruptor_map">
-
-	<area shape="poly" alt="introducing the newest addition to our gap inc. family. athleta. celebrating the beauty of strength with feminine, performance-driven apparel for your entire active life. shop athleta now." coords="0,0, 0,506, 506,506, 506,30, 477,30, 477,0" href="http://athleta.gap.com/browse/home.do?ssiteID=atgaphpdis">
-
-	<area shape="rect" alt="close" coords="478,0,506,32" href="#close" id="CloseButton">
-
-</map>
-
-<!-- End HP DISRUPTOR -->
-
-
-
-</div>
 
 	    <!-- -->
 	</div>
@@ -3464,8 +3135,11 @@ Event.observe(window,'load',function() {
 
 
 
-	
- 
+		
+			
+		
+		
+				
 
 
 		
@@ -3490,7 +3164,7 @@ Event.observe(window,'load',function() {
 <div class="cssHide">
 	
 	
-	<script type="text/javascript" src="/gid/js/common/layouts/en/reporting/sCode-H.1.7.js"></script>
+	<script type="text/javascript" src="/gid/js/common/layouts/en/reporting/sCode-H.2.0.js"></script>
 	
 	<noscript>
 		
@@ -3505,8 +3179,11 @@ Event.observe(window,'load',function() {
 
 
 
-	
- 
+		
+			
+		
+		
+				
 
 
 		
@@ -3549,8 +3226,11 @@ Event.observe(window,'load',function() {
 
 
 
-	
- 
+		
+			
+		
+		
+				
 
 
 		
