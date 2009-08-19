@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deleteddomains.com privacy policy that was archived on 2009-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090216045552id_/http%3A//www.deleteddomains.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deleteddomains.com privacy policy that was archived on 2009-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090819162026id_/http%3A//www.deleteddomains.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Page for Deleted Domains - Expired, Expiring, Dropped Domain Names
 
