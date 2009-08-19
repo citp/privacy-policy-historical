@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the callingmumbai.com privacy policy that was archived on 2009-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090215031821id_/http%3A//callingmumbai.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callingmumbai.com privacy policy that was archived on 2009-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090819080722id_/http%3A//www.callingmumbai.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Call Mumbai, India
 
@@ -48,7 +48,7 @@ However, please be aware that in some cases we do solicit information for market
 
 ### Special Offers
 
-We periodically send out updates about new features, special offers from partners or advertisers, or other information we believe our users might find relevant. Individuals who have provided us with their email address will receive these offers unless they have _opted-out_. Generally, it is easy to opt-out either at the time of initial registration (normally there is a check-box to opt-out just before you click 'ok') or you can do so through a link in the offer email itself (normally this link will be at the bottom of the email). If you are having continuing problems, please email us and we will resolve the issue.
+We may periodically send out updates about new features, special offers from partners or advertisers, or other information we believe our users might find relevant. Individuals who have provided us with their email address will receive these offers unless they have _opted-out_. Generally, it is easy to opt-out either at the time of initial registration (normally there is a check-box to opt-out) or you can do so through a link in the offer email itself. If you are having continuing problems, please email us and we will resolve the issue.
 
 ### Security
 
@@ -59,3 +59,5 @@ In partnership with our hosting provider, this website takes extensive precautio
 While this website contains links to many other websites, please be aware that CallingMumbai.com has not reviewed and is not responsible for the privacy practices of any of these sites. This privacy statement applies solely to this site and makes no representation whatsoever about the practices of any other site.
 
 To make it easier to see when you've left our site, we have tried to make external links automatically open in a new browser window or tab. However, we cannot guarantee this will happen and you should be mindful of when you are no longer on CallingMumbai.com. At such time, we recommend you review the privacy policies of those sites and take appropriate steps to protect your privacy. 
+
+Back to top
