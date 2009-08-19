@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usopen.org privacy policy that was archived on 2009-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090515104215id_/http%3A//www.usopen.org/USOpen/Global/News/About_Us/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usopen.org privacy policy that was archived on 2009-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090819074902id_/http%3A//www.usopen.org/USOpen/Global/News/About_Us/Privacy.aspx) for the most accurate reproduction.*
 
 # 2009 US Open Official Site - Privacy
 
