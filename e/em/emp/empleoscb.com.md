@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the empleoscb.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417174610id_/http%3A//www.empleoscb.com/JobSeeker/Info/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empleoscb.com privacy policy that was archived on 2009-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090819155227id_/http%3A//www.empleoscb.com/JobSeeker/Info/Privacy.aspx) for the most accurate reproduction.*
 
 # empleosCB.com
 
