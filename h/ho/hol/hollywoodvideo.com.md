@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollywoodvideo.com privacy policy that was archived on 2009-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090325100159id_/http%3A//www.hollywoodvideo.com/company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywoodvideo.com privacy policy that was archived on 2009-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090819062031id_/http%3A//www.hollywoodvideo.com/company/privacy.aspx) for the most accurate reproduction.*
 
 # Hollywood Video - Privacy Policy
 
