@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamus.edu privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429165729id_/http%3A//www.tamus.edu/web/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamus.edu privacy policy that was archived on 2009-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090820043057id_/http%3A//www.tamus.edu/web/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
