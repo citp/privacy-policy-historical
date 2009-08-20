@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automart.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618140025id_/http%3A//www.automart.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automart.com privacy policy that was archived on 2009-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090820225815id_/http%3A//www.automart.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
