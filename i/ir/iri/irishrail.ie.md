@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irishrail.ie privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416224813id_/http%3A//www.irishrail.ie/home/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishrail.ie privacy policy that was archived on 2009-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090820231708id_/http%3A//www.irishrail.ie/home/privacy_statement.asp) for the most accurate reproduction.*
 
 # Irish Rail - Iarnród Éireann - train tickets, train times, Ireland rail travel information
 
