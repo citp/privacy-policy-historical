@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buckle.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616213835id_/http%3A//www.buckle.com/info/info.jsp%3FFOLDER%253C%253Efolder_id%3D1408474395182179%26CONTENT%253C%253Ecnt_id%3D10134198673211714) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buckle.com privacy policy that was archived on 2009-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090820185323id_/http%3A//www.buckle.com/info/info.jsp%3FFOLDER%253C%253Efolder_id%3D1408474395182179%26CONTENT%253C%253Ecnt_id%3D10134198673211714) for the most accurate reproduction.*
 
 # Buckle.com | Privacy Policy
 
