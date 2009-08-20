@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the courseadvisor.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616201540id_/http%3A//www.courseadvisor.com/resources/privacy-policy%3Fref_link_type%3Dpage_footer%26ref_text%3DPrivacy%252BPolicy%26ref_content_type%3Dsite_page%26ref_content_id%3D3%26ref_pg_type%3Dwelcome) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the courseadvisor.com privacy policy that was archived on 2009-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090821004608id_/http%3A//www.courseadvisor.com/resources/privacy-policy%3Fref_content_type%3Dsite_page%26ref_content_id%3D3%26ref_pg_type%3Dwelcome%26ref_link_type%3Dpage_footer%26ref_text%3DPrivacy%252BPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
