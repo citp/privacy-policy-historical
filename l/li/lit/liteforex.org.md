@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liteforex.org privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525043443id_/http%3A//www.liteforex.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liteforex.org privacy policy that was archived on 2009-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090820190512id_/http%3A//www.liteforex.org/privacy.php) for the most accurate reproduction.*
 
 # LiteForex.org :: Privacy Policy
 
