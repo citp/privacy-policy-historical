@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the stylebop.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619202600id_/http%3A//www.stylebop.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylebop.com privacy policy that was archived on 2009-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090820162040id_/http%3A//www.stylebop.com/policy.php) for the most accurate reproduction.*
 
 # STYLEBOP.com | PRIVACY POLICY - The latest trends from the Fashion Capitals of the World
 
-PRIVACY POLICY  
-  
 This Web Site is operated by STYLEBOP GmbH ("STYLEBOP", "we", "us" or "our"). At STYLEBOP, we recognize the importance of protecting your privacy. We have adopted policies intended to ensure that your personal data is handled responsibly and safely. Please review these Privacy Policy regularly as we intend to improve our services on a continuous basis.
 
 If you should have any questions about this policy, you can contact us by writing to us at:  
@@ -45,7 +43,7 @@ If you wish to have your name and personal data removed from our data base, plea
 
 **E-Mails**
 
-We may contact you by e-mail about new products, features or special promotions, if you have signed up for such a service. Each time you receive an e-mail from us, you will be given the opportunity to "opt-out" or stop receiving future e-mail offers. You may also [click here](https://web.archive.org/web/20090619202600id_/http%3A//www.stylebop.com/newsletter.php) to unsubscribe.
+We may contact you by e-mail about new products, features or special promotions, if you have signed up for such a service. Each time you receive an e-mail from us, you will be given the opportunity to "opt-out" or stop receiving future e-mail offers. You may also [click here](https://web.archive.org/web/20090820162040id_/http%3A//www.stylebop.com/newsletter.php) to unsubscribe.
 
 **Registration / Change of Personal Data**
 
