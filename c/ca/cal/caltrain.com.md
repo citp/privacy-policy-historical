@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caltrain.com privacy policy that was archived on 2009-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090217073021id_/http%3A//www.caltrain.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caltrain.com privacy policy that was archived on 2009-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090821051900id_/http%3A//www.caltrain.com/Privacy_Policy.html) for the most accurate reproduction.*
 
 # caltrain.com - Privacy Policy
 
