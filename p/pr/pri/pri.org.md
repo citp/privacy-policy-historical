@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the pri.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218210129id_/http%3A//www.pri.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pri.org privacy policy that was archived on 2009-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090822000008id_/http%3A//www.pri.org/privacy-policy.html) for the most accurate reproduction.*
 
 # PRI: Public Radio International: National and World News, Talk, Arts, Entertainment and Music - PRI.ORG Privacy Policy
 
 Public Radio International (PRI) understands the importance of protecting the privacy of visitors to our website.
 
 PRI collects information such as names, e-mails, street addresses, telephone numbers and/or credit card information from PRI.ORG only if visitors choose to provide that information to us. We may ask visitors to provide personal information in other limited circumstances specified at the time the information is gathered.
+
+PRI.ORG uses third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here.](http://www.google.com/privacy_ads.html)
 
 Information gathered on PRI.ORG is never provided to outside parties.
 
