@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allcamp.com privacy policy that was archived on 2009-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090313031052id_/http%3A//www.allcamp.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allcamp.com privacy policy that was archived on 2009-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090821172920id_/http%3A//www.allcamp.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy, Camping Directory, Camping Online, Campgrounds, Summer Camps, Service Camping Guide
+# Privacy Policy - Camping Directory
 
 **AllCamp.com Privacy Statement**  
 We respect your privacy and we are committed to safeguarding your privacy while online at our site www.allcamp.com The following discloses the information gathering and dissemination practices for this Web site. 
@@ -21,4 +21,7 @@ This Web site contains links to other sites. Please be aware that we are not res
 We use outside ad companies to display ads on our site. These ads may contain cookies and/or web beacons to collect data in the ad serving process and are collected by our ad companies, and we do not have access to this information. We work with the ad companies: Google Adsense, Axill etc. Please check their websites for respective privacy policies.
 
 **Contact Information**  
-If users have any questions or suggestions regarding our privacy policy, please contact us at: staff@allcamp.com
+If users have any questions or suggestions regarding our privacy policy, please contact us at: 
+
+  
+
