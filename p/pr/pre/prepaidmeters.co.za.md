@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the prepaidmeters.co.za privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531152423id_/http%3A//www.prepaidmeters.co.za/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prepaidmeters.co.za privacy policy that was archived on 2009-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090821185915id_/http%3A//www.prepaidmeters.co.za/privacy-policy.html) for the most accurate reproduction.*
 
-# Prepaid Electricity Meters and Prepaid Metering Solutions - Privacy Policy
+# Prepaid Meters, Prepaid Electricity Meters and Metering Solutions - Privacy Policy
+
+###  Prepaid Metering Solution 
+
+[ ](http://www.prepaidmeters.co.za/component/option,com_rss/feed,RSS2.0/no_html,1/)
+
+| 
 
 PrepaidMeters.co.za recognizes the importance of protecting your personal information and as such subscribes to the principles, outlined in Section 51 of the Electronic Communications and Transactions Act 2002 that governs your right to having your personal information kept private. 
 
@@ -11,3 +17,9 @@ PrepaidMeters.co.za has the highest regard for the privacy of its subscribers an
 PrepaidMeters.co.za does not and will not sell or provide personal information to third parties for independent use. 
 
 We value the information that you choose to provide us and will therefore take reasonable steps to protect your personal information from loss, misuse or unauthorized alteration. The information we maintain concerning our customer is stored in databases that have built-in safeguards to ensure the privacy and confidentiality of that information. 
+
+| 
+
+[](http://www.prepaidmeters.co.za/payments)  
+  
+---|---|---
