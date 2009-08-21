@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kitaramarketplace.com privacy policy that was archived on 2009-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090327190453id_/http%3A//www.kitaramarketplace.com/privacy_kitara.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kitaramarketplace.com privacy policy that was archived on 2009-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090821151325id_/http%3A//www.kitaramarketplace.com/privacy_kitara.html) for the most accurate reproduction.*
 
 # Kitara Media Inc. :: Targeted Online Marketing
 
@@ -26,7 +26,7 @@ Bristol Interactive, LLC Inc. is committed to protecting the privacy of Internet
 We use Bristol Interactive, LLC and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
 
 **Third Party Cookies**   
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique �cookie� on your browser.
 
 **Confidentiality And Security**   
 Bristol Interactive, LLC has implemented reasonable security measures in order to protect all information from loss, misuse and unauthorized access, disclosure, alteration or destruction. Our employees are made aware of and are accountable for compliance with our privacy policy.
