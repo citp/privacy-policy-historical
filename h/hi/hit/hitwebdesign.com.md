@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitwebdesign.com privacy policy that was archived on 2009-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090509002016id_/http%3A//www.hitwebdesign.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitwebdesign.com privacy policy that was archived on 2009-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090821141921id_/http%3A//www.hitwebdesign.com/privacy.html) for the most accurate reproduction.*
 
 # Heritage Internet Technologies
 
@@ -69,4 +69,4 @@ When contacting HIT we make a good faith effort to provide Clients with access t
 This Privacy Policy may change from time to time. Changes may be posted on this page or if the changes are significant we may provide email notification of Policy changes. Each version of this Policy will include an effective date and we will also keep prior versions of this Privacy Policy available.
 
 **How to Contact Us**  
-Should you have any other questions, concerns or complaints about our Privacy Policy please email us at [Privacy@hitsubmit.com](mailto:Privacy@hitsubmit.com). You may also submit updates and corrections about your personal information to [Privacy@hitsubmit.com](mailto:Privacy@hitsubmit.com)
+Should you have any other questions, concerns or complaints about our Privacy Policy please email us at [Privacy@hitwebdesign.com](mailto:Privacy@hitwebdesign.com). You may also submit updates and corrections about your personal information to [Privacy@hitwebdesign.com](mailto:Privacy@hitwebdesign.com)
