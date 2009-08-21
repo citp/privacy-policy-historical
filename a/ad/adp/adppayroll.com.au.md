@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adppayroll.com.au privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531030716id_/http%3A//www.adppayroll.com.au/index.php%3FsectionID%3D3%26pageID%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adppayroll.com.au privacy policy that was archived on 2009-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090821105341id_/http%3A//www.adppayroll.com.au/index.php%3FsectionID%3D3%26pageID%3D7) for the most accurate reproduction.*
 
 # ADP - Privacy
 
