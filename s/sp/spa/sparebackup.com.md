@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparebackup.com privacy policy that was archived on 2009-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090515231415id_/http%3A//sparebackup.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparebackup.com privacy policy that was archived on 2009-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090821193850id_/http%3A//www.sparebackup.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
