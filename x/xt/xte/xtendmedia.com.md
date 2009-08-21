@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the xtendmedia.com privacy policy that was archived on 2009-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090226225836id_/http%3A//xtendmedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtendmedia.com privacy policy that was archived on 2009-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090821105843id_/http%3A//www.xtendmedia.com/about-xtend/privacy-policy) for the most accurate reproduction.*
 
-# Xtendmedia - Targeting your goals
+# Privacy Policy
 
-| 
-
-  
 Xtend Media, Inc., ("we", "us" or "XTEND MEDIA") has created this Privacy Policy in order to demonstrate our firm commitment to your privacy. The following discloses our information gathering, use and dissemination practices solely for XTEND MEDIA’s Web Site located at www.xtendmedia.com (the "Web Site") BY USING THE WEB SITE, YOU SIGNIFY YOUR ASSENT TO OUR PRIVACY POLICY. 
 
-**This Privacy Policy does not apply to any other web sites, products or services that are provided by or through XTEND MEDIA or its affiliates, including any such web sites, products or services that you may be linked to from this Web Site. You are strongly encouraged to read the privacy policies of each and every web site you visit.**  
+**This Privacy Policy does not apply to any other web sites, products or services that are provided by or through XTEND MEDIA or its affiliates, including any such web sites, products or services that you may be linked to from this Web Site. You are strongly encouraged to read the privacy policies of each and every web site you visit.**
+
 **TYPES OF PERSONAL AND NON-PERSONAL INFORMATION:**
 
 We only collect Personally Identifiable Information ("Personal Information") on this Web Site when you voluntarily provide such information to XTEND MEDIA. Personal Information can be directly associated with a specific person or entity, such as name, title, company name, address, telephone number or email address. 
@@ -42,13 +40,13 @@ We have no intention of collecting Personal Information from children under the 
 
 **COMMUNICATIONS WITH XTEND MEDIA; REMOVAL OF PERSONAL INFORMATION:**
 
-If you voluntarily choose to provide your email address to XTEND MEDIA, we may use your email address to respond to your specific question or request. If you receive an unwanted email from us, you can simply reply and ask not to receive future emails or send us an email at [info@extendmedia.com](mailto:info@extendmedia.com) and request that your email address not be retained. We are not responsible for removing your Personal Information from the lists of any third party who has previously been provided your information in accordance with this policy. 
+If you voluntarily choose to provide your email address to XTEND MEDIA, we may use your email address to respond to your specific question or request. If you receive an unwanted email from us, you can simply reply and ask not to receive future emails or send us an email at [info@xtendmedia.com](mailto:info@xtendmedia.com) and request that your email address not be retained. We are not responsible for removing your Personal Information from the lists of any third party who has previously been provided your information in accordance with this policy. 
 
 **SECURITY:**
 
 The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
 
-If you have any questions about security on our XTEND MEDIA Site, you can email our Privacy Officer at [info@extendmedia.com](mailto:info@extendmedia.com). 
+If you have any questions about security on our XTEND MEDIA Site, you can email our Privacy Officer at [info@xtendmedia.com](mailto:info@xtendmedia.com). 
 
 **DISCLOSURE**
 
@@ -61,16 +59,3 @@ Our Web Site is maintained in the United States of America. By using the Web Sit
 **CONTACT:**
 
 If you have a question or concern relating to your privacy on this Web Site, please see our contact information below: 
-
-Xtend Media   
-PO Box 3306  
-Ramat Gan   
-52136 Israel 
-
-Alternatively, you may contact us online at [info@xtendmedia.com](mailto:info@xtendmedia.com)
-
-**EFFECTIVE DATE:**
-
-This privacy policy is effective and was last updated on May 22, 2006 _  _  
-  
----|---
