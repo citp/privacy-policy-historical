@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponseven.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524212755id_/http%3A//www.couponseven.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponseven.com privacy policy that was archived on 2009-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090821144840id_/http%3A//www.couponseven.com/privacy.asp) for the most accurate reproduction.*
 
 # couponSeven.com - privacy policy, online coupons, coupon codes & free shipping for all of your favorite online stores.
 
@@ -10,7 +10,7 @@ For each visitor to our Web page, our Web server collects only the domain name, 
 
 The information we collect is used for internal review and is then discarded, used to improve the content of our Web page and not shared with other organizations for commercial purposes. We will never sell or give your e-mail address to any other company. You will always be able to immediately opt-out of any newsletter or other promotion materials we send you.
 
-We do not set any cookies, but our merchants do for tracking purposes only. Merchant web sites may be preloaded when visiting pages on our web site. We partner with and have special relationships with ad server companies for the purpose of advertising this web site.
+We do not set any cookies, but our merchants do for tracking purposes only. Merchant web sites may be preloaded when visiting pages on our web site. We partner with and have special relationships with ad server companies for the purpose of advertising this web site. When you click on a link you might open a window to the advertiser site or redirect in the current window to the advertiser site.
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will use for these new purposes only data collected from the time of the policy change forward.
 
@@ -24,4 +24,4 @@ couponSeven.com
 
 [Click Here to return to couponSeven!](http://www.couponseven.com/)
 
-[](http://www.bbbonline.org/cks.asp?id=1070111182116) [](http://validator.w3.org/check?uri=referer) [](http://jigsaw.w3.org/css-validator/check/referer)
+[](http://www.bbbonline.org/cks.asp?id=1070111182116) [](http://validator.w3.org/check?uri=referer) [](http://jigsaw.w3.org/css-validator/check/referer) [](http://www.jhdesign.us/)
