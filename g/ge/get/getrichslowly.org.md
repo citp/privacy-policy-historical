@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getrichslowly.org privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617060221id_/http%3A//www.getrichslowly.org/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getrichslowly.org privacy policy that was archived on 2009-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090821173747id_/http%3A//www.getrichslowly.org/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - UPDATED May 14, 2009 * Get Rich Slowly
 
