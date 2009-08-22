@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retirementjobs.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525211839id_/http%3A//retirementjobs.com/aboutus/resources/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retirementjobs.com privacy policy that was archived on 2009-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090822194346id_/http%3A//retirementjobs.com/aboutus/resources/Privacy.html) for the most accurate reproduction.*
 
 # ABOUT US - Privacy Policy
 
