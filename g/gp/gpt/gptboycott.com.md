@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gptboycott.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604163009id_/http%3A//www.gptboycott.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gptboycott.com privacy policy that was archived on 2009-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090822201222id_/http%3A//www.gptboycott.com/privacy.php) for the most accurate reproduction.*
 
 # GPTBoycott.com - Privacy Policy
 
