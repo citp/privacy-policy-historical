@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nexoneu.com privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221132414id_/http%3A//en.nexoneu.com/NXEU.aspx%3FPART%3D/Legal/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nexoneu.com privacy policy that was archived on 2009-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090822040640id_/http%3A//en.nexoneu.com/NXEU.aspx%3FPART%3D/Legal/PrivacyPolicy) for the most accurate reproduction.*
 
 # NEXON Europe - Play fun Online Games : Legal > PrivacyPolicy
 
