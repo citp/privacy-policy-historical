@@ -1,15 +1,78 @@
-> *The following text is extracted and transformed from the smallbusinessonlinecoach.com privacy policy that was archived on 2008-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080803223313id_/http%3A//www.smallbusinessonlinecoach.com/privacy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallbusinessonlinecoach.com privacy policy that was archived on 2009-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090822033931id_/http%3A//www.smallbusinessonlinecoach.com/privacy-policy) for the most accurate reproduction.*
 
-# Welcome to Small Business Online Coach
+# Privacy Policy
 
-The privacy of your personal information is important to us. SmallBusinessOlineCoach.com's Blog may collect personal information from time to time on a purely voluntary basis. You will always be notified of any request for information and the disclosure of such information on your part is optional. We protect any information that you choose to share with us and your information is never disclosed to any non-affiliated company for any reason whatsoever. Should you register to receive a newsletter or periodic update, we may from time to time send email communications detailing new information or offers that may be of interest to you. You may opt out of these communications at any time by sending written request or direct email reply.
+If you're new here, you may want to subscribe to my [RSS feed](http://www.smallbusinessonlinecoach.com/feed/). Thanks for visiting!
 
-This website collects aggregate information. Aggregate information is information that cannot be traced back to any specific individual and as such is completely general in nature such as the number of individuals viewing our site or individual pages within our site. We may use such aggregate information for business purposes but will never release personalized information about you as a user to any third person or entity. SmallBusinessOlineCoach.com's Blog stands behind this pledge and statement to maintain your complete privacy in this regard.
+This privacy policy sets out how “www.SmallBusinessOnlineCoach.com” uses and protects any information that you give “www.SmallBusinessOnlineCoach.com” when you use this website.
 
-SmallBusinessOlineCoach.com's Blog does not sell, rent, or share your personal information with any non-affiliated companies without your permission. In the event that our website contains links to other websites, SmallBusinessOlineCoach.com's Blog will not be responsible for the content and/or privacy practices or content of such websites not within its control. We pride ourselves in providing a professional and discrete online experience and the protection of sensitive information is a top priority.
+“www.SmallBusinessOnlineCoach.com” is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-We reserve the right to modify or update this policy as we see fit. We will provide notification of significant changes by posting notice on our website or by sending notification to the email address provided in your registration information.
+“www.SmallBusinessOnlineCoach.com” may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from August 17, 2009.
 
-If you are not in agreement with the terms of this privacy statement and policy, please refrain from providing us with personal information accordingly. Your use of the SmallBusinessOlineCoach.com's Blog website signifies your acceptance of and agreement with this policy. 
+WHAT WE COLLECT
 
-The information contained in this website is for informational purposes only. Neither SmallBusinessOlineCoach.com's Blog, nor any of its affiliates shall be liable for any direct, indirect, incidental, inconsequential or punitive damages arising out of use of any of the information contained in this report. Neither SmallBusinessOlineCoach.com's Blog, or any of its affiliates nor any of our or their respective licensor's, licensees service providers or suppliers warrant or make any representation regarding the use or the results of the use of the information, content and materials contained in this website in terms of their correctness, accuracy, reliability or otherwise. The statements herein are intended as guidelines only. Individual situations and results will vary. 
+We may collect the following information:
+
+Name,  
+Email Address,  
+Phone Numbers,  
+Demographic information such as postcode, preferences and interests,  
+Information relevant to customer surveys and/or offers
+
+What we do with the information we gather.
+
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+
+Internal record keeping.
+
+We may use the information to improve our products and services.
+
+We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+
+From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail.
+
+We may use the information to customize the website according to your interests.
+
+SECURITY
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.  
+How we use cookies
+
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+
+We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+PERSONS UNDER 18 YEARS OF AGE ARE EXCLUDED FROM THIS WEBSITE
+
+This website is not lawfully accessible to persons under the age of 18 or who are otherwise covered by the provisions of the Child Online Privacy Act of 1998 (COPA). If you are under the age of 18 you must leave this site immediately. Fraudulent use of this website may make you subject to civil or criminal sanctions.
+
+LINKS TO OTHER WEBSITES
+
+Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+YOUR PERSONAL INFORMATION
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please send an email to support@smallbusinessonlinecoach.com.
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+QUESTIONS, COMMENTS, OR REPORT OF INCIDENTS
+
+You may direct questions, comments or reports to:
+
+support@smallbusinessonlinecoach.com
+
+REVISIONS TO THIS PRIVACY POLICY WITHOUT NOTICE
+
+This Privacy Policy is dynamic. It will continually change. You may not assume that it remains the same and you agree to check the policy each time you visit the site for changes. Unless, in the sole opinion of the website, this policy changes so drastically as to suggest a posted notification on the site or via email, you will receive no notification of changes to this Privacy Policy nor, under any circumstances, does this site promise notification. Your continued use of this site always evidences your acceptance of the terms this Privacy Policy or any modifications.
+
+LATEST UPDATE
+
+This Privacy Policy was last updated on: August 17, 2009
