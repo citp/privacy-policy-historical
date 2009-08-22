@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studyguideindia.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622071728id_/http%3A//www.studyguideindia.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studyguideindia.com privacy policy that was archived on 2009-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090822194152id_/http%3A//www.studyguideindia.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Studyguideindia.com | Study Guidance, guide, list of colleges, university, universities, management, law, legal, polytechnic, diploma, study abroad, engineering, colleges in India, education news, education loan, education scholarship, women's college, distance education, career news, teacher training, pin code, STD / ISD codes, campus interview, English grammar, education articles.
 
@@ -48,4 +48,4 @@ Please be aware that this privacy statement and any choices you make on the Site
 
 Using **StudyGuideIndia.com** will assume that you accept the privacy policy of this site. When we use any third party for any affiliated service, the third party privacy policy also applicable to you by using this site.
 
-If you have any questions or concerns, feel free to contact us at: [info@StudyGuideIndia.com](mailto:info@jobguidance.com)
+If you have any questions or concerns, feel free to contact us at: [info@StudyGuideIndia.com](mailto:info@studyguideindia.com)
