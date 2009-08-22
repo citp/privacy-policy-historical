@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flash-on-tv.com privacy policy that was archived on 2009-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090516195918id_/http%3A//www.flash-on-tv.com/company/private_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flash-on-tv.com privacy policy that was archived on 2009-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090822232634id_/http%3A//www.flash-on-tv.com/company/private_policy.html) for the most accurate reproduction.*
 
 # private_policy
 
