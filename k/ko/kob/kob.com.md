@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kob.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627112159id_/http%3A//kob.com/article/stories/s409183.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kob.com privacy policy that was archived on 2009-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090822184041id_/http%3A//www.kob.com/article/stories/s409183.shtml) for the most accurate reproduction.*
 
 # www.KOB.com - Privacy Policy Statement
 
