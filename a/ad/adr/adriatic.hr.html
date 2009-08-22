@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the adriatic.hr privacy policy that was archived on 2009-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090621183135id_/http%3A//www.adriatic.hr/zastita_privatnosti.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adriatic.hr privacy policy that was archived on 2009-08-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090822192554id_/http%3A//www.adriatic.hr/zastita_privatnosti.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <title>
@@ -32,13 +32,14 @@ body {
 
 #discountDiv {
 display: block;
-position: absolute;
+position: fixed;
 left:0;
 top:250px;
 width: 200px;
 height: 190px;
 background-image: url('images/clock/bg_poklon.gif');
 background-repeat: no-repeat;
+text-align: left;
 }
 * html #discountDiv {position:absolute;}
 
@@ -61,13 +62,17 @@ window.onload = load;
 function load()
 {
 		if(typeof moveMarkers == 'function') {
-		moveMarkers();
+		moveMarkers();		
 	}
+	parent_host_check();
+	
 }
 	var opnened = false;
 
 function parent_host_check()
 {
+	var isInIFrame = (window.location != window.parent.location) ? true : false;		
+	
 	// pokusavamo procitati hostname parent prozora
 	// ako je iframe otvoren na domeni razlicitoj od adriatic.hr pojavice se exception
 	// ako je pak iframe otvoren sa druge domene ne radimo nista
@@ -79,16 +84,20 @@ function parent_host_check()
 
 		var domain = 'www.aariatic.hr';
 
-		if (parent_host != domain.replace(/aa/, 'ad') && parent_host != 'www')
+		
+		if (parent_host != domain.replace(/aa/, 'ad') && parent_host != 'a.www')
 			return;
 
 		// brisemo nepotrebne cookije, ako ih ima
 
-		if (Get_Cookie('cltype') != null || Get_Cookie('clid') != null)
+		if(isInIFrame == false)
 		{
-			Delete_Cookie('cltype', '/', parent_host);
-			Delete_Cookie('clid', '/', parent_host);
-			window.location.reload();
+			if (Get_Cookie('cltype') != null || Get_Cookie('clid') != null)
+			{
+				Delete_Cookie('cltype', '/', parent_host);
+				Delete_Cookie('clid', '/', parent_host);
+				window.location.reload();
+			}
 		}
 	}
 	catch (err)
@@ -175,7 +184,6 @@ function conv_calc(form)
 	}
 }
 
-parent_host_check();
 
 //-->
 </script>
@@ -314,7 +322,7 @@ parent_host_check();
 	                      	                        													<option value="es">Spanish</option>
 	                      	                        													<option value="sr">Srpski</option>
 	                      	                        													<option value="sv">Svenska</option>
-	                      	                        													<option value="uk">Ukrainian</option>
+	                      	                        	                        													<option value="uk">Ukrainian</option>
 	                      											</select>
 										</form>
 									</td>
@@ -388,31 +396,6 @@ parent_host_check();
 							<tr>
 								<td><img border="0" src="/images/mainframe/menu2b.gif" width="132" height="2"></td>
 							</tr>
-						</tbody></table>
-								</td>
-							</tr>
-							<tr>
-								<td height="6"></td>
-							</tr>
-							<tr>
-								<td>
-						<table border="0" cellpadding="0" cellspacing="0" width="100%">
-							<tbody><tr>
-								<td><img border="0" src="/images/mainframe/menu2t.gif" width="132" height="2"></td>
-							</tr>
-							<tr>
-								<td style="background:url(/images/mainframe/menu2m.gif) repeat-y; padding:1 5 3 3px;">
-									<div style="overflow:hidden;">
-									<a href="/priceCompetition.php" style="font-weight:bold; text-transform: uppercase" class="manji1">
-										Prize Competition</a>
-										<b><i><font color="#EF9D0E">&nbsp;new</font></i></b><br>
-									</div>
-								</td>
-							</tr>
-							<tr>
-								<td><img border="0" src="/images/mainframe/menu2b.gif" width="132" height="2"></td>
-							</tr>
-
 						</tbody></table>
 								</td>
 							</tr>
@@ -530,7 +513,7 @@ parent_host_check();
 						</tbody></table>
 								</td>
 							</tr>
-							<tr>
+														<tr>
 								<td height="6"></td>
 							</tr>
 							<tr>
@@ -549,6 +532,30 @@ parent_host_check();
 							<tr>
 								<td><img border="0" src="/images/mainframe/menu2b.gif" width="132" height="2"></td>
 							</tr>
+						</tbody></table>
+								</td>
+							</tr>
+							<tr>
+								<td height="6"></td>
+							</tr>
+							<tr>
+								<td>
+						<table border="0" cellpadding="0" cellspacing="0" width="100%">
+							<tbody><tr>
+								<td><img border="0" src="/images/mainframe/menu2t.gif" width="132" height="2"></td>
+							</tr>
+							<tr>
+								<td style="background:url(/images/mainframe/menu2m.gif) repeat-y; padding:1 5 3 3px;">
+									<div style="overflow:hidden;">
+									<a href="/priceCompetition.php" style="font-weight:bold; text-transform: uppercase" class="manji1">
+										Prize Competition</a>
+																			</div>
+								</td>
+							</tr>
+							<tr>
+								<td><img border="0" src="/images/mainframe/menu2b.gif" width="132" height="2"></td>
+							</tr>
+
 						</tbody></table>
 								</td>
 							</tr>
@@ -849,27 +856,27 @@ parent_host_check();
 									<div style="width:124; overflow:hidden;">
 
 									<div style="padding:1 0 2 0px;">
-									Facilities: <span style="white-space:nowrap; font-weight:bold;">2 635</span>
+									Facilities: <span style="white-space:nowrap; font-weight:bold;">2 715</span>
 									</div>
 									<div style="padding:1 0 2 0px;">
-									Accommodation units: <span style="white-space:nowrap; font-weight:bold;">7 695</span>
+									Accommodation units: <span style="white-space:nowrap; font-weight:bold;">8 019</span>
 									</div>
 									<div style="color:#6A6A6A; padding-left:8px;">
 									<div style="padding:1 0 2 0px;">
-									Houses: <span style="white-space:nowrap; font-weight:bold;">125</span>
+									Houses: <span style="white-space:nowrap; font-weight:bold;">126</span>
 									</div>
 									<div style="padding:1 0 2 0px;">
-									Apartments: <span style="white-space:nowrap; font-weight:bold;">4 886</span>
+									Apartments: <span style="white-space:nowrap; font-weight:bold;">5 039</span>
 									</div>
 									<div style="padding:1 0 2 0px;">
-									Studio apartments: <span style="white-space:nowrap; font-weight:bold;">1 270</span>
+									Studio apartments: <span style="white-space:nowrap; font-weight:bold;">1 359</span>
 									</div>
 									<div style="padding:1 0 2 0px;">
-									Rooms: <span style="white-space:nowrap; font-weight:bold;">1 414</span>
+									Rooms: <span style="white-space:nowrap; font-weight:bold;">1 495</span>
 									</div>
 									</div>
 									<div style="padding:1 0 2 0px;">
-									Beds: <span style="white-space:nowrap; font-weight:bold;">30 059</span>
+									Beds: <span style="white-space:nowrap; font-weight:bold;">31 123</span>
 									</div>
 
 									</div>
@@ -900,7 +907,7 @@ parent_host_check();
 							<tr>
 								<td background="/images/mainframe/frame1m2.gif" style="padding: 5 8;" class="manji1">
 									<div style="width:124; overflow:hidden;">
-									<div style="padding-bottom:6px;">Exchange rate (Croatian National Bank) - 20.06.2009</div>
+									<div style="padding-bottom:6px;">Exchange rate (Croatian National Bank) - 22.08.2009</div>
 									<form name="conv_form" onsubmit="conv_calc(this); return false;">
 
 									<div style="padding-top:4px; padding-bottom:1px;">
@@ -908,14 +915,14 @@ parent_host_check();
 									</div>
 									<input type="text" name="conv_from" class="manji1" style="width:63px; color:#004F9D; background-color:#BBE5F5; border:1px solid #8EBDCF;" onchange="conv_calc(this.form)" onblur="conv_calc(this.form)" onkeyup="conv_calc(this.form)">
 									<select name="conv_from_valuta" class="manji1" style="color:#004F9D; background-color:#BBE5F5; border:1px solid #8EBDCF;" onchange="conv_calc(this.form)" onblur="conv_calc(this.form)">
-<option value="1" selected="">HRK</option><option value="4.21665">AUD</option><option value="4.637832">CAD</option><option value="0.276194">CZK</option><option value="0.978019">DKK</option><option value="0.02596458">HUF</option><option value="0.05391342">JPY</option><option value="0.818306">NOK</option><option value="0.662795">SEK</option><option value="4.814488">CHF</option><option value="8.596609">GBP</option><option value="5.233605">USD</option><option value="7.280468">EUR</option><option value="1.61215">PLN</option>									</select>
+<option value="1" selected="">HRK</option><option value="4.257094">AUD</option><option value="4.728059">CAD</option><option value="0.287262">CZK</option><option value="0.984118">DKK</option><option value="0.0272079">HUF</option><option value="0.05460034">JPY</option><option value="0.853552">NOK</option><option value="0.71886">SEK</option><option value="4.832871">CHF</option><option value="8.450833">GBP</option><option value="5.122863">USD</option><option value="7.325182">EUR</option><option value="1.778648">PLN</option>									</select>
 
 									<div style="padding-top:4px; padding-bottom:1px;">
 									to currency:
 									</div>
 									<input type="text" name="conv_to" readonly="" class="manji1" style="width:63px; color:#004F9D; background-color:#DCE8E9; border:1px solid #8EBDCF;">
 									<select name="conv_to_valuta" size="1" class="manji1" style="color:#004F9D; background-color:#BBE5F5; border:1px solid #8EBDCF;" onchange="conv_calc(this.form)" onblur="conv_calc(this.form)">
-<option value="1" selected="">HRK</option><option value="4.21665">AUD</option><option value="4.637832">CAD</option><option value="0.276194">CZK</option><option value="0.978019">DKK</option><option value="0.02596458">HUF</option><option value="0.05391342">JPY</option><option value="0.818306">NOK</option><option value="0.662795">SEK</option><option value="4.814488">CHF</option><option value="8.596609">GBP</option><option value="5.233605">USD</option><option value="7.280468">EUR</option><option value="1.61215">PLN</option>									</select>
+<option value="1" selected="">HRK</option><option value="4.257094">AUD</option><option value="4.728059">CAD</option><option value="0.287262">CZK</option><option value="0.984118">DKK</option><option value="0.0272079">HUF</option><option value="0.05460034">JPY</option><option value="0.853552">NOK</option><option value="0.71886">SEK</option><option value="4.832871">CHF</option><option value="8.450833">GBP</option><option value="5.122863">USD</option><option value="7.325182">EUR</option><option value="1.778648">PLN</option>									</select>
 
 									</form>
 									</div>
