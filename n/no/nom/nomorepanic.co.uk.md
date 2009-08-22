@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nomorepanic.co.uk privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617065212id_/http%3A//www.nomorepanic.co.uk/NMPcms.php%3Fnmppage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nomorepanic.co.uk privacy policy that was archived on 2009-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090822075835id_/http%3A//www.nomorepanic.co.uk/NMPcms.php%3Fnmppage%3Dprivacy) for the most accurate reproduction.*
 
 # No More Panic - Data Protection and your privacy
 
