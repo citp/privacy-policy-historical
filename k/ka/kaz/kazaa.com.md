@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kazaa.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629051454id_/http%3A//www.kazaa.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kazaa.com privacy policy that was archived on 2009-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090822054048id_/http%3A//www.kazaa.com/privacy.aspx) for the most accurate reproduction.*
 
 # Music Downloads Now Kazaa.com: music and ringtone downloads.
 
