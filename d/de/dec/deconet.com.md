@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deconet.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619085730id_/http%3A//www.deconet.com/html/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deconet.com privacy policy that was archived on 2009-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090822035906id_/http%3A//www.deconet.com/html/privacy-policy.html) for the most accurate reproduction.*
 
 # Using Deconet
 
@@ -155,4 +155,4 @@ Adress: Grev Turegatan 19, 114 38 Stockholm, Sweden
   
 
 
-Deconet AB 2009. All rights reserved. Use of this site signifies your acceptance of the Terms & Conditions.
+Deconet AB 2009. All rights reserved. Use of this site signifies your acceptance of the Terms & Conditions. 
