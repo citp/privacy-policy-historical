@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the holymoly.com privacy policy that was archived on 2009-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090511000641id_/http%3A//www.holymoly.com/page/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holymoly.com privacy policy that was archived on 2009-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090822213955id_/http%3A//www.holymoly.com/page/PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy | HolyMoly.com
+# Privacy Policy | Holy Moly!
 
 **HOLY MOLY PRIVACY POLICY**
 
