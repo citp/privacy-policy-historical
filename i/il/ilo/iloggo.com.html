@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the iloggo.com privacy policy that was archived on 2008-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080605134935id_/http%3A//www.iloggo.com/displayPrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the iloggo.com privacy policy that was archived on 2009-08-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090822153023id_/http%3A//www.iloggo.com/displayPrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>iloggo</title>
@@ -111,6 +111,36 @@ lW = new LayerWindow();
 
 </div>
 
+
+
+<div id="ricon" style="float:right;  margin:6px 4px 0 0; height:42px; position:relative; top:25px">
+<a style="float:left; position:relative; top:-10px" href="displayRecommended?pSetName=SHOPPING_en"><img src="/images/s0/rec5.png"></a>
+<select style="width:170px; border:1px solid #7F9DB9" id="rList" onchange="onRecChange()">
+		<option value="SHOPPING_en">SHOPPING</option>
+	
+				<option value="Travel_en">Travel</option>
+				<option value="Computer and Electronics_en">Computer and Electronics</option>
+				<option value="Fashion_en">Fashion</option>
+				<option value="amazon_en">amazon</option>
+				<option value="International shops_en">International shops</option>
+				<option value="Home and Garden_en">Home and Garden</option>
+				<option value="Health_en">Health</option>
+				<option value="Germany_en">Germany</option>
+				<option value="France_en">France</option>
+				<option value="Italy_en">Italy</option>
+		
+	
+ 
+</select>
+
+</div>
+<script type="text/javascript">
+function onRecChange() {
+	var selRec = $('rList').value;
+	document.location = 'displayRecommended?pSetName='+selRec;
+}
+</script>
+
 </div>
 
 
@@ -175,11 +205,6 @@ lW = new LayerWindow();
 <div id="forms_popUp_fix" style="display:block">
 <div id="message_box">
 </div></div>
-<!-- 6c_|_6f67696e666f726d -->
-<script language="javascript">
-    //wyswietlenie warstwy
-   lW.open('displayLoginForm','',{title:'Sign in', posX:-360, posY:90, width:343});
-</script>
 
 
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
