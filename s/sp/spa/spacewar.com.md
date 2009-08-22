@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spacewar.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626021453id_/http%3A//www.spacewar.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spacewar.com privacy policy that was archived on 2009-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090822152719id_/http%3A//www.spacewar.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
