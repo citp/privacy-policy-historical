@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vsp.com privacy policy that was archived on 2009-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090325234507id_/http%3A//www.vsp.com/home/html/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vsp.com privacy policy that was archived on 2009-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090823070249id_/http%3A//www.vsp.com/home/html/privacy.jsp) for the most accurate reproduction.*
 
 # 
 
@@ -64,7 +64,7 @@ Information ** | Information relating to a VSP patient’s past, present or futu
 **  
 **How VSP Uses and  
 Discloses Information  
-About You** | VSP will only use and disclose your Protected Health Information without your authorization when 
+About You** | VSP will only use and disclose your Protected Health Information without your authorization when necessary for: 
 
   * coordination of your vision care treatment
   * disclosure to your plan sponsor to the extent permitted by law
