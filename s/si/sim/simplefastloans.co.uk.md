@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the simplefastloans.co.uk privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501141049id_/http%3A//www.simplefastloans.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplefastloans.co.uk privacy policy that was archived on 2009-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090823061749id_/http%3A//www.simplefastloans.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Log Book Loans Company – Privacy Policy
 
-[](https://web.archive.org/web/20090501141049id_/http%3A//www.simplefastloans.co.uk/callback.php)
+[](https://web.archive.org/web/20090823061749id_/http%3A//www.simplefastloans.co.uk/index.php)
 
 1\. The site is operated by Log Book Loans Ltd, a company incorporated in the UK (registration number [ 03636230](http://wck2.companieshouse.gov.uk/cb113247ef9e38f2b8e715de9693f91a/companysearch?link=41)), the registered office of which is Bridge Studios, 34A Deodar Road , Putney, London , SW15 2NN . 
 
