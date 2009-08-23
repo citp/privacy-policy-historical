@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interclick.com privacy policy that was archived on 2009-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090303111702id_/http%3A//www.interclick.com/PrivacyPolicyV2.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interclick.com privacy policy that was archived on 2009-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090823105015id_/http%3A//www.interclick.com/PrivacyPolicyV2.aspx) for the most accurate reproduction.*
 
 # interCLICK - Transparent Ad Network
 
@@ -19,9 +19,9 @@ Cookies are small packets of data stored on your computer that allow sites to re
 
 Like many websites, interCLICK sets a cookie on your computer containing an anonymous identifier. This cookie allows interCLICK to better target and analyze consumer behavior with the goal of providing better and more relevant advertising.
 
-You are always free to decline cookies, but by doing so you may not be able to use certain features on the websites or take full advantage of all the website offerings and targeted advertising. You can configure your browser to accept all cookies, reject all cookies, erase cookies, or notify you when a cookie is set.
+You are always free to decline cookies, but by doing so you may not be able to use certain features on the websites or take full advantage of all the website offerings and targeted advertising. You can configure your browser to accept all cookies, reject all cookies, erase cookies, or notify you when a cookie is set. Note: interCLICK employs Flash cookies, which are not deleted via the normal browser tools. Please visit [Adobe](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager04.html) in order to manage Flash cookies. 
 
-Alternatively, you may [click here to opt-out of data collection and targeting cookies from interCLICK.](https://web.archive.org/web/20090303111702id_/http%3A//www.interclick.com/OptOutV2.aspx) Please note that if you buy a new computer, upgrade or change Web browsers or delete this "opt out" cookie, you will need to perform this process again.
+Alternatively, you may [click here to opt-out of data collection and targeting cookies from interCLICK.](https://web.archive.org/web/20090823105015id_/http%3A//www.interclick.com/OptOutV2.aspx) Please note that if you buy a new computer, upgrade or change Web browsers or delete this "opt out" cookie, you will need to perform this process again.
 
 How does interCLICK use this information?  
 interCLICK has created a technology that uses any consumer information to create anonymous consumer segments. For example, consumers that demonstrate car buying behaviors are grouped into an auto-buyer segment. These segments will be used to target and optimize advertiser campaigns. interCLICK will never use this information to identify, locate or contact consumers. 
@@ -41,7 +41,7 @@ your browser.
 This opt-out means that interCLICK will not store information unique to your browser behavior and will be unable to recognize your browser from one visit to the next. Opting-out does not mean you will not receive online advertising. However, because the network is not able to uniquely identify your browser, interCLICK is unable to deliver ads tailored to your Web preferences and usage patterns. 
 
 Please note that if you buy a new computer, upgrade or change Web browsers or delete this "opt out" cookie, you will need to perform this process again.  
-[Click here to visit our opt-out page.](https://web.archive.org/web/20090303111702id_/http%3A//www.interclick.com/OptOutV2.aspx)
+[Click here to visit our opt-out page.](https://web.archive.org/web/20090823105015id_/http%3A//www.interclick.com/OptOutV2.aspx)
 
 To opt out of all NAI member networks' behavioral tracking, please visit the [NAI opt-out page.](http://www.networkadvertising.org/managing/opt_out.asp)
 
