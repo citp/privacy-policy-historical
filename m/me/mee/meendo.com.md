@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the meendo.com privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413154944id_/http%3A//www.meendo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meendo.com privacy policy that was archived on 2009-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090823052933id_/http%3A//www.meendo.com/privacy.php) for the most accurate reproduction.*
 
-# MEENDO.COM - Privacy Policy
+# meendo.com - Privacy Policy
 
 We at MEENDO.COM understand that your privacy is very important to you. That's why we've developed this policy to ensure that your privacy is protected while using MEENDO.COM. 
 
