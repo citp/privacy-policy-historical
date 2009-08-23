@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huduser.org privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603191433id_/http%3A//www.hud.gov/assist/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huduser.org privacy policy that was archived on 2009-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090823112133id_/http%3A//www.hud.gov/assist/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy and Security Statement - HUD
 
@@ -46,4 +46,4 @@ HUD respects your right to privacy and will protect it when you visit our web si
 
 If you have any questions, please contact [HUD's Web Manager](https://web.archive.org/utilities/intercept.cfm?mailto:webmanager@hud.gov). 
 
-[  Return to the previous page ](http://www.hud.gov/)  
+[  Return to the previous page ]()  
