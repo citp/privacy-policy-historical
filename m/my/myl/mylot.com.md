@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylot.com privacy policy that was archived on 2009-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090208013839id_/http%3A//www.mylot.com/o/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylot.com privacy policy that was archived on 2009-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090823094345id_/http%3A//www.mylot.com/o/privacy.aspx) for the most accurate reproduction.*
 
 # myLot - Privacy Policy
 
@@ -56,10 +56,13 @@ What is a cookie?
 A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a web site's computers and stored on your computer's hard drive. Each web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. 
 
 Choices about Cookies  
-You can configure your browser to accept or reject all cookies, or notify you when a cookie is set. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences). In order to take advantage of myLot.com and to use most functions on myLot.com, you must enable cookies from myLot.com. Please note that myLot allows 3rd party advertisers that are presenting advertisements on some of our pages to set and access their cookies on your computer. Advertisers' use of cookies is subject to their own privacy policies, not the myLot Privacy Policy. 
+You can configure your browser to accept or reject all cookies, or notify you when a cookie is set. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences). In order to take advantage of myLot.com and to use most functions on myLot.com, you must enable cookies from myLot.com. 
 
 Why does myLot.com use cookies?  
 myLot uses its own cookies for a number of reasons. myLot uses cookies to store members' preferences and to record session information, for purposes including ensuring that members are not repeatedly offered the same advertisements and to customize newsletter, advertising, and Web page content based on browser type and user profile information. myLot can access your information when you "sign in," so that we can provide you with a customized content. myLot can estimate and report our total audience size and traffic and conduct research to improve myLot’s content and services. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. 
+
+Third Party Advertisers and cookies  
+myLot uses third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this website, other Web sites, and other forms of media in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://networkadvertising.org/consumer/opt_out.asp). 
 
 **Toolbar for myLot**
 
