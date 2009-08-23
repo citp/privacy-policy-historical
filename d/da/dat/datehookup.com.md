@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datehookup.com privacy policy that was archived on 2009-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090220161916id_/http%3A//www.datehookup.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datehookup.com privacy policy that was archived on 2009-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090823071524id_/http%3A//www.datehookup.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # DateHookup.com Privacy Policy
 
@@ -11,6 +11,10 @@ When you join DateHookup.com, you will have to submit certain personal informati
 **Do you share my info with other companies?**
 
 We don't give, sell, or share any information you submit to us to third parties. 
+
+**Regarding advertisements on this site**
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Information sent is always aggregated. For example, we might offer advertisers the ability to advertise to age groups such as 18-30. If you fell into this age range, you would be in this group and might receive ads targeted to your age group. None of your personal information is used directly, it's grouped with thousands of other members. Google is our ad vendor. For more information about how Google serves ads, please [click here](http://www.google.com/privacy_ads.html). 
 
 **Can I hide or remove my profile from DateHookup.com?**
 
