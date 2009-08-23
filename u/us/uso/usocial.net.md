@@ -1,17 +1,20 @@
-> *The following text is extracted and transformed from the usocial.net privacy policy that was archived on 2009-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090217182936id_/http%3A//usocial.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usocial.net privacy policy that was archived on 2009-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090823113240id_/http%3A//www.usocial.net/privacy) for the most accurate reproduction.*
 
-# uSocial Privacy Policy
+# uSocial - Privacy Policy
 
-uSocial takes the privacy of it's users very seriously. Please make sure you fully read and understand our privacy policy so that you are aware of your rights and responsibilities when using our Site and Services.
+We at uSocial.net take the privacy and security of our users very seriously. Please make sure you read and understand fully your rights and responsibilities when using our Site and Services.
 
-**2\. Information You Provide**  
-In the event that you sign up for any kind of uSocial account, or other uSocial service or promotion that requires registration, we ask you for personal information (such as your name, email address and an account password). For certain services, such as our advertising programs, we also request credit card or other payment account information which we maintain in encrypted form on secure servers. We may combine the information you submit under your account with information from other uSocial services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information.
+ **1\. What This Policy Covers**  
+This policy covers all the Services provided by uSocial as laid out in the [Terms](https://web.archive.org/terms). In any case where more detailed information is needed to further explain our privacy policies, we ask that you do not hesitate to [contact us](https://web.archive.org/contact).
+
+ **2\. Information You Provide**  
+In the event that you sign up for any kind of uSocial account, or other uSocial service or promotion that requires registration, we ask you for personal information (such as your name, email address and an account password). For certain services, such as our advertising programs, we may also request credit card or other payment account information which we maintain in encrypted form on secure servers which are operated by third parties such as 2Checkout.com. We may combine the information you submit under your account with information from other uSocial services or third parties in order to provide you with a better experience and to improve the quality of our services, however we will never share this information with any outside or unauthorised party. For certain services, we may give you the opportunity to opt out of combining such information.
 
 **3\. Cookies**  
 When you visit uSocial, we may at any point send one or more cookies – a small file containing a string of characters which is loaded onto your computer – to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends, such as how people search. uSocial may also use cookies in its advertising services to help advertisers and publishers serve and manage ads across the web. We may set a cookie in your browser when you visit a website and view or click on an ad supported by uSocial's advertising services.
 
 **4\. Information Recording**  
-When you access uSocial services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.  
+When you access uSocial Services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol (IP) address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.  
 
 
 **5\. User Communication**  
@@ -21,7 +24,7 @@ When you send email or other communications to uSocial, we may retain those comm
 We may offer some of our services in connection with other web sites. Personal information that you provide to those sites may be sent to uSocial in order to deliver the service. We process such information in accordance with this Privacy Policy. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies.
 
 **7\. Links**  
-uSocial may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our search technology, customized content and advertising.
+uSocial may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our search technology, customised content and advertising.
 
 **8\. Other Websites**  
 This Privacy Policy applies to uSocial services only. We do not exercise control over the sites displayed as search results or links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you.
@@ -55,5 +58,4 @@ When you use uSocial services, we make good faith efforts to provide you with ac
 uSocial regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or uSocial’s treatment of personal information by [contacting us](https://web.archive.org/contact) through this website. When we receive formal written complaints at this address, it is uSocial’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between uSocial and an individual. 
 
 **15\. Changes**  
-Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes). If you have any other questions or concerns regarding any part of this privacy policy, please do not hesitate to [contact us](https://web.archive.org/contact) through this website.  
-
+Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes). If you have any other questions or concerns regarding any part of this privacy policy, please do not hesitate to [contact us](https://web.archive.org/contact) through this website..
