@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dol.gov privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624214331id_/http%3A//www.dol.gov/dol/privacynotice.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dol.gov privacy policy that was archived on 2009-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090823121716id_/http%3A//www.dol.gov/dol/privacynotice.htm) for the most accurate reproduction.*
 
 # U.S. Department of Labor -- Privacy and Security Statement
 
