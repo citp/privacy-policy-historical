@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nrc.gov privacy policy that was archived on 2009-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090514195709id_/http%3A//www.nrc.gov/site-help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrc.gov privacy policy that was archived on 2009-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090825001302id_/http%3A//www.nrc.gov/site-help/privacy.html) for the most accurate reproduction.*
 
 # NRC: Privacy Policy and Security Notice
 
@@ -45,7 +45,7 @@ Your submissions **may** be made public unless, at the point of collection, we h
 
 If you send us an e-mail or online form that includes personally identifiable information (for example, your e-mail address, mailing address, or telephone number), your information will be used for the purposes described at the point of collection, such as to send information to you, or to respond to your questions or comments. Your submission may also be shared with other NRC offices to fully respond to your request or comment. Your submission, including personal information, may be shared, too, with other Federal or State agencies, the Congress, NRC licensees, or others, if necessary, to address matters raised in your submission.
 
-Any comments that you submit to the NRC on a proposed rulemaking, petition, or other document for which public comment is requested **will** be made public, including any personally identifiable information you include in your submission. Unless excluded pursuant to an order of the Commission, an Atomic Safety and Licensing Board, or a Presiding Officer, documents submitted in adjudicatory proceedings will appear in NRC's Electronic Hearing Docket that is available to the public. Therefore, hearing participants should not include personal privacy information, such as social security numbers and dates of birth, in their filings.
+Any comments submitted to the NRC will generally be made public, including any personally identifiable information included in a submission. Unless excluded pursuant to an order of the Commission, an Atomic Safety and Licensing Board, or a Presiding Officer, documents submitted in adjudicatory proceedings will appear in NRC's Electronic Hearing Docket that is available to the public. Therefore, hearing participants should not include personal privacy information, such as social security numbers and dates of birth, in their filings.
 
 ## **Protection of Submitted Information from Public Disclosure**
 
