@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photopos.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601091344id_/http%3A//www.photopos.com/Pos_Privacy_Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photopos.com privacy policy that was archived on 2009-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090825135843id_/http%3A//www.photopos.com/Pos_Privacy_Policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
