@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the antezeta.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624054613id_/http%3A//www.antezeta.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antezeta.com privacy policy that was archived on 2009-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090825215226id_/http%3A//www.antezeta.com/privacy.html) for the most accurate reproduction.*
 
 # » Antezeta - Data Privacy Statement
 
@@ -45,6 +45,10 @@ This site may use cookies to offer personalization for returning site visitors a
   * [The original Netscape Cookie Specification](http://wp.netscape.com/newsref/std/cookie_spec.html "The original Netscape Cookie Specification")
 
 
+
+#### Google Advertising & Cookies
+
+Some pages on this domain may carry Google advertising to offset the costs of maintaing the content. Please refer to Google's [help documentation](https://www.google.com/adsense/support/bin/answer.py?answer=100557) on the subject for current information on their use of cookies in their advertising system.
 
 ## How we use your information
 
