@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportposting.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619190035id_/http%3A//sportposting.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportposting.com privacy policy that was archived on 2009-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090825230144id_/http%3A//sportposting.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Sportposting.com "Watch" "Play" "Train"::Privacy
 
