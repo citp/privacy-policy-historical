@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wartog.info privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524213236id_/http%3A//wartog.info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wartog.info privacy policy that was archived on 2009-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090825233125id_/http%3A//wartog.info/privacy.php) for the most accurate reproduction.*
 
-# Wartog.info FREE VIDEO HOSTING :: Privacy Policy
+# Easily share your videos with your friends and the world. :: Privacy Policy
 
 Privacy Policy 
 
