@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the demon-tweeks.co.uk privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618152449id_/http%3A//www.demon-tweeks.co.uk/content/default.asp%3Fcategory_id%3D37) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demon-tweeks.co.uk privacy policy that was archived on 2009-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090825022234id_/http%3A//www.demon-tweeks.co.uk/content/default.asp%3Fcategory_id%3D37) for the most accurate reproduction.*
 
 # Demon Tweeks Motorsport, Motorcycle, Car Modifying, Parts and Accessories,Sparco, Arai
 
