@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intent.com privacy policy that was archived on 2009-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090511131758id_/http%3A//www.intent.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intent.com privacy policy that was archived on 2009-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090825183840id_/http%3A//www2.intent.com/privacy) for the most accurate reproduction.*
 
 # Intent.com Privacy Policy | Intent.com
 
