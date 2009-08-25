@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the andhravilas.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618171346id_/http%3A//andhravilas.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andhravilas.com privacy policy that was archived on 2009-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090826000858id_/http%3A//www.andhravilas.com/privacy.asp) for the most accurate reproduction.*
 
 # Andhravilas.com -Telugu Cinema, Telugu Movies, India News & World News , Bollywood , Songs :
 
