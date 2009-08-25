@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bttradespace.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217090818id_/http%3A//www.bttradespace.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bttradespace.com privacy policy that was archived on 2009-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090825121130id_/http%3A//www.bttradespace.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy policy - BT Tradespace
 
@@ -183,11 +183,40 @@ Return to top
 
 ###  How can I find out what personal information BT holds about me?
 
-If you want specific information please tell us and give us any relevant information to enable us to locate the information about you because this will speed up our reply. We may be able to provide the specific information you want without you having to make a formal request.
+If you want specific information ie.:   
 
-You can make a formal request if you want to know what personal information BT holds about you. In this case, please put your request in writing and send it to us enclosing a cheque for the administration fee of £10 made payable to British Telecommunications plc. The address is:
 
-Data Subject Access Manager, PP LF11, Libra House, Sunrise Parkway, Linford Wood, Milton Keynes, MK14 6PH. 
+  * copies of fault reports
+  
+
+  * copy invoices
+
+
+
+then you must contact Customer Services.
+
+If you are asking for a full subject access request then put your request in writing, enclosing a cheque for £10 made payable to BT plc and send to British Telecommunications PLC, PP M3042 DSAR, Colindale House, The Hyde, Colindale, London NW9 6LB. 
+
+You will also need to provide the following information so that we can process your request: 
+
+  * The relevant account number/s
+  
+
+  * The relevant telephone number/s
+  
+
+  * The relevant address/s
+  
+
+  * The date and time if requesting a call recording? (see also note below)
+
+
+
+If you have any information such as reference numbers, dates and times of contact then please include them in your request.
+
+_(BT does record some calls for Quality and Training purposes, however, not all calls are recorded. Calls are only held for a short period of time. If you want a call recording it is essential that you provide the information requested above, otherwise we will not be able to proceed with your request)._
+
+Once we have all the relevant information we will process your request within the 40 day time limit allowed under the terms of The Data Protection Act. 
 
 Return to top
 
