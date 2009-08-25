@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dirtmag.co.uk privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626014123id_/http%3A//dirtmag.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dirtmag.co.uk privacy policy that was archived on 2009-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090825162609id_/http%3A//dirtmag.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | Dirt Mountain Bike
 
