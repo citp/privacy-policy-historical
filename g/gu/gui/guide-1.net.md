@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guide-1.net privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626003519id_/http%3A//guide-1.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guide-1.net privacy policy that was archived on 2009-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090825124130id_/http%3A//www.guide-1.net/privacy.php) for the most accurate reproduction.*
 
 # guide-1.net
 
