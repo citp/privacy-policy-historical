@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the flamingtext.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617071022id_/http%3A//www.flamingtext.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flamingtext.com privacy policy that was archived on 2009-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090826085135id_/http%3A//www.flamingtext.com/privacy.html) for the most accurate reproduction.*
 
 # FlamingText.com
 
-We will not sell or give away **any** individual information to anyone. 
+We will not sell or give away **any** individual information that we collecti to any other companies or individuals. 
 
 Only aggregated user information (if any) is provided to advertisers. 
 
 From time to time, you may be offered the opportunity to receive materials or special offers from third parties. If you opt-in to receive information from these third parties, FlamingText.com will (with your permission) share your name, email address and other information you provide with them. 
 
-We make use of PostMasterDirect ([Privacy Policy](https://web.archive.org/cgi-bin/click.cgi?http://www.netcreations.com/privacy.html)), which is a double opt-in email scheme (you choose to sign up, they send you an email, and you confirm that you are interested). 
-
 ### Third Party Advertisers
 
-This site uses the services of Burst, MaxWorldwide (DoubleClick) and other third parties to serve ads, for promotions and other marketing messages when you visit this site. These companies may use information about your visits to this and other Web sites (not including your name, address, email address or telephone number) in order to target these ads to those about goods and services of interest to you. If you would like more information about this practice, including your choices about not having this information used by these companies, please visit [http://www.maxworldwide.com/privacy_policy/index.php](https://web.archive.org/cgi-bin/click.cgi?http://www.maxworldwide.com/privacy_policy/index.php) [http://www.burstmedia.com/release/privacy.asp](https://web.archive.org/cgi-bin/click.cgi?http://www.burstmedia.com/release/privacy.asp). 
+This site uses the services of BurstMedia, Google, CasaleMedia, ValueClick and other third parties to serve ads, for promotions and other marketing messages when you visit this site. These companies may use information about your visits to this and other Web sites in order to target these ads to those about goods and services of interest to you. If you would like more information about this practice, including your choices about not having this information used by these companies, please visit [Google ad and content network privacy policy](https://web.archive.org/cgi-bin/click.cgi?http://www.google.com/privacy_ads.html), [http://www.burstmedia.com/consumer_optout.asp](https://web.archive.org/cgi-bin/click.cgi?http://www.burstmedia.com/consumer_optout.asp), [https://www.valueclickmedia.com/privacy.shtml](https://web.archive.org/cgi-bin/click.cgi?https://www.valueclickmedia.com/privacy.shtml). 
 
-You can opt-out of advertising at the [NAI Gateway](http://www.networkadvertising.org/optout_nonppii.asp), 
+You can opt-out of advertising at the [NAI Gateway](http://www.networkadvertising.org/managing/opt_out.asp), 
 
 ### Third Party Cookies
 
@@ -24,8 +22,8 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 Some services on this web site require that you are a registered user. To determine if you are registered, we use "Session Cookies" which will last while you are currently active on the site. 
 
-To report a violation by third parties, or if you have questions about this policy or suggestions on how to make it better, please email [abuse@flamingtext.com](mailto:abuse@flamingtext.com?Subject=PrivacyPolicy) (non-abuse/privacy issues will be ignored). 
+To report a violation by third parties, or if you have questions about this policy or suggestions on how to make it better, please [Contact Us](https://web.archive.org/contactus/). 
 
 * * *
 
-**[FlamingText.com](https://web.archive.org/cgi-bin/click.cgi?http://www.flamingtext.com/) \- [Contact Us](mailto:webmaster@flamingtext.com)**
+**[FlamingText.com](https://web.archive.org/cgi-bin/click.cgi?http://www.flamingtext.com/) \- [Contact Us](https://web.archive.org/contactus/). **
