@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ala.org privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618112327id_/http%3A//www.ala.org/ala/footer/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ala.org privacy policy that was archived on 2009-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090827005828id_/http%3A//www.ala.org/ala/footer/privacypolicy.cfm) for the most accurate reproduction.*
 
 # ALA | Privacy Policy
 
@@ -30,15 +30,11 @@ During your visit, as you browse through the web site, read pages, or download i
 
 We use this information to help us make our site more useful to visitors, by learning about the number of visitors and the technology in use. The data collected are not connected to your personal information or identity.
 
-## Links to other sites
-
-## 
-
-This website contains links to other sites. The American Library Association is not responsible for the privacy practices of other sites, which may differ from the practices described in this policy. We encourage you to become familiar with the privacy practices of other sites you visit, including those linked from our site.
-
 ## Security
 
 For site security purposes and to ensure that this service remains available to all users, the ALA uses software programs to monitor network traffice to idenify unauthorized attempts to upload or change information, or otherwise cause damage.
+
+This website contains links to other sites. The American Library Association is not responsible for the privacy practices of other sites, which may differ from the practices described in this policy. We encourage you to become familiar with the privacy practices of other sites you visit, including those linked from our site.
 
 Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and 18 U.S.C. Sec. 1001 and 1030. Information also may be used for authorized law enforcement investigations. Except for the above purposes, no other attempts are made to identify individual users or their usage habits.
 
