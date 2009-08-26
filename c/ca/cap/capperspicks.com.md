@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capperspicks.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622154445id_/http%3A//www.capperspicks.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capperspicks.com privacy policy that was archived on 2009-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090826215550id_/http%3A//www.capperspicks.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Terms & Conditions for cappers picks
 
