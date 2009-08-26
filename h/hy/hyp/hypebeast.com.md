@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hypebeast.com privacy policy that was archived on 2009-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090212130051id_/http%3A//hypebeast.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypebeast.com privacy policy that was archived on 2009-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090826081008id_/http%3A//hypebeast.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Hypebeast
 
@@ -14,7 +14,7 @@ This Privacy Policy may be modified from time to time so check back often. Conti
 
 **Information You Provide to Us**
 
-The website generally collects personally identifying information with your specific knowledge and consent. This includes but is not limited to when you register for our forums, enter a sweepstakes and complete a survey. You can choose not to provide us with certain information, but you may not be able to take advantage of many of our special features such as posting on our forums. - Registration: In order to use select parts of our websites such as the forum, you must complete a registration form. As part of this registration forum, we require your email address and date of birth. Optional information such as your referrer or time zone may also be requested.
+The website generally collects personally identifying information with your specific knowledge and consent. This includes but is not limited to when you register for our forums, enter a sweepstakes and complete a survey. You can choose not to provide us with certain information, but you may not be able to take advantage of many of our special features such as posting on our forums. – Registration: In order to use select parts of our websites such as the forum, you must complete a registration form. As part of this registration forum, we require your email address and date of birth. Optional information such as your referrer or time zone may also be requested.
 
 **Automatic Information**
 
@@ -26,7 +26,7 @@ Cookies are messages given to a web browser by a web server that are placed in s
 
 **Sharing Information**
 
-We neither rent nor sell your personal information to anyone. We share your personal information only with your consent or to the entities described below: - Agents We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Examples include sending postal mail and email, removing repetitive information from customers’ lists, analyzing data, providing marketing assistant, and providing customer service. You hereby consent to our sharing of your personal information for the above purposes. - Business Transfers As our business changes and grow, we may buy or sell various assets. In the event all or a portion of the assets owned or controlled by 101 Media Lab are sold, assigned, transferred or acquired by another company, the information from and about our website users may be among the transferred assets
+We neither rent nor sell your personal information to anyone. We share your personal information only with your consent or to the entities described below: – Agents We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Examples include sending postal mail and email, removing repetitive information from customers’ lists, analyzing data, providing marketing assistant, and providing customer service. You hereby consent to our sharing of your personal information for the above purposes. – Business Transfers As our business changes and grow, we may buy or sell various assets. In the event all or a portion of the assets owned or controlled by 101 Media Lab are sold, assigned, transferred or acquired by another company, the information from and about our website users may be among the transferred assets
 
 **Children and Parents**
 
