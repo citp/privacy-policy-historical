@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the esurveygroup.com privacy policy that was archived on 2009-02-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090218231816id_/http%3A//esurveygroup.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the esurveygroup.com privacy policy that was archived on 2009-08-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090826095050id_/http%3A//www.esurveygroup.com/privacy.php) for the most accurate reproduction.-->
 
 <html><head><link rel="stylesheet" type="text/css" href="./css/style.css.php">
 
@@ -123,6 +123,20 @@ function initialize() {
 	window.captureEvents(Event.SUBMIT);
 	window.onunload = bodyOnUnload;
 	window.onsubmit = turnOffPopper;
+
+function PopulateOnclicks(){
+	aEls = document.getElementsByTagName('A');
+	for(i=0;i<aEls.length;i++){
+		ThisLink = aEls[i].href.toLowerCase();
+		if(ThisLink.indexOf('savingsandcoupons')>=0 || ThisLink.indexOf('sandc_v2')>=0 ){
+			aEls[i].onclick = turnOffPopper;
+		}
+	}
+	
+}
+
+
+
 //-->
 </script>
 
@@ -372,6 +386,7 @@ display_border_bottom(bordersize, bordersize);
             </td>
          </tr>
       </tbody></table>
+        <script language="javascript" type="text/javascript" src="http://net.ourfreestuff.net/redir/CD1317/gsg091506.js"></script>
 	<!-- Start Quantcast tag -->
 	<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
 	<script type="text/javascript">_qacct="p-5dOvJ1YkvUimc";quantserve();</script>
