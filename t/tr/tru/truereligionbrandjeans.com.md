@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truereligionbrandjeans.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627131423id_/http%3A//www.truereligionbrandjeans.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truereligionbrandjeans.com privacy policy that was archived on 2009-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090827004508id_/http%3A//www.truereligionbrandjeans.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - True Religion Brand Jeans Official Website - Shop now for Denim, Jeans, Skirts, Joey, Bobby, Corduroy, Skirts. Fashion for the Senses.
 
