@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miata.net privacy policy that was archived on 2009-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090218043028id_/http%3A//miata.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miata.net privacy policy that was archived on 2009-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090826180445id_/http%3A//www.miata.net/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,6 +35,10 @@ Submissions, suggestions, comments, tech tips, photos, Miata of the Month, and o
 
 Information may also be disclosed as a result of a court order or in response to law enforcement requirements.
 
+#### THIRD PARTY ADVERTISING
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
+
 #### REGISTERED USER PROFILES 
 
 When you register, your information is protected by use of a password which you select. Each person who registers must have a unique email address and user name. Duplicate profiles using the same email address or user name are not permitted. We highly recommend that you select a password which is neither common or known to others. We encourage you to NOT use information such as your Social Security Number, Phone Number or Date of Birth as your password. 
@@ -43,7 +47,7 @@ If you are a previous registered user and you have lost or forgotten your passwo
 
 We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time. By following the "my profile" link provided on our system, you may view and edit personal information you have already given us. You may also elect to receive or discontinue receiving any email newsletters we may choose to distribute periodically. 
 
-Any other exceptions will be specifically noted on the page itself. If you have any questions or require clarification of any portion of our privacy policy, please [contact us.](https://web.archive.org/web/20090218043028id_/http%3A//miata.net/feedback.html)
+Any other exceptions will be specifically noted on the page itself. If you have any questions or require clarification of any portion of our privacy policy, please [contact us.](https://web.archive.org/web/20090826180445id_/http%3A//www.miata.net/feedback.html)
 
 * * *
 
