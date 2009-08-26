@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobiletoones.com privacy policy that was archived on 2009-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090210024610id_/http%3A//www.mobiletoones.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobiletoones.com privacy policy that was archived on 2009-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090826055113id_/http%3A//www.mobiletoones.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Mobile Toones
 
@@ -18,7 +18,7 @@ To understand how we treat the information you give us as you use Mobile Toones,
 
 ## Third-party Advertisers, Links to Other Sites
 
-Mobile Toones allows other companies, called third-party ad servers or ad networks, to serve advertisements within the Mobile Toones Sites. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Mobile Toones Site. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see. 
+Mobile Toones allows other companies, called third-party ad servers or ad networks, to serve advertisements within the Mobile Toones Sites. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Mobile Toones Site. They automatically receive your IP address when this happens. 
 
 Mobile Toones does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. The advertiser may use information regarding your use of the Mobile Toones Site, such as the number of times you viewed an ad (but not any personally identifiable information), to determine which ads to deliver to you. You should consult the respective privacy policies of these third-party ad servers or ad networks (see links below) for more information on their practices and for instructions on how to opt-out of certain practices. Mobile Toones's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
@@ -26,9 +26,8 @@ Currently, Mobile Toones has relationships with the following third-party ad ser
 
   * Google, Inc.   
 http://www.google.com/privacypolicy.html 
+    * Google, as a third party vendor, uses cookies to serve ads on your site. 
+    * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
+    * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
 
 
-
-New Profiles
-
-Latest Online Games
