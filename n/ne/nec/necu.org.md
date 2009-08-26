@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the necu.org privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417234943id_/http%3A//www.necu.org/why-necu/privacy-and-security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the necu.org privacy policy that was archived on 2009-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090826150607id_/http%3A//www.necu.org/why-necu/privacy-and-security.aspx) for the most accurate reproduction.*
 
 # Northeast Credit Union : Privacy & Security
 
@@ -8,43 +8,6 @@ At Northeast Credit Union, the Board of Directors, management and staff make pro
 
 We recognize that preserving your trust includes protecting your personal and financial information. We do not share any information that you provide us with third parties other than what is necessary to provide you with the services or products you have requested, or is required by law, or to protect ourselves against fraud. If you have any questions about our policy, please contact Member Service at 1-888-436-1847.  
 
-
-**  
-Northeast Credit Union Email Security Information**
-
-Northeast Credit Union (NECU) will periodically send emails promoting our products and services or those of our affiliates, to members for whom we have recorded email addresses. All members who receive the marketing emails will have the opportunity to opt out of this service at any time by simply clicking the unsubscribe button, emailing Member Services at memberservices@necu.org, or call us at 1.888.436.1847.  
-
-
-As a trusted neighbor NECU will never ask you for personal account information via email. In addition, our latest technology allows you to identify authentic NECU emails upon receipt. NECU email’s that come from “Northeast Credit Union” marketing@email.necu.org.  To view an example of what an email from NECU would look like in the address field, click on this link: 
-
-[_http:///uploads/images/press/FROM-email-address.JPG_](https://web.archive.org/uploads/images/press/FROM-email-address.JPG) 
-
-A **unique identification code (UID)** appears near the top right of every email sent to you from NECU’s address. The last 4 digits of your primary membership number assigned by Northeast Credit Union will be used. It will appear as “ **Ending in 1234** ”. This unique identifier will be exclusive for email’s sent to you from NECU marketing.    
-Click on this link to view an example of what it will look like: 
-
-[_http:///uploads/images/press/UID.JPG_](https://web.archive.org/uploads/images/press/UID.JPG)
-
-NECU members will always be able to confirm any emails authenticity by calling our member service center at 1.888.436.1847. Our member service representatives will be able to verify the email when you provide them with your email address and the unique identification code. In the event your unique identity number does not match our records, the email(s) are likely to be a phishing scam and will be reported. 
-
-_  
-Exceptions_
-
-Our Member Service staff members can reply to you or send you emails which are routed through a different server. These generally are responses directly to member inquiries and never contain personal banking information. These emails do not contain the UID. These emails will be from _memberservices@necu.org.    _In addition, when using CyberTel by initially signing up or changing your password, an auto reply email will be sent to you from _memberservices@necu.org_. This is an automated email and also does not contain the UID.   
-
-
-_  
-Additional Information_
-
-We utilize third-party vendors to send some emails to member regarding products, services or information they may need. These vendors are utilized for estatements, alerts, online surveys, events, web polls, and referrals. Emails sent via our third-party vendors are identified as follows:
-
-  * “Northeast Credit Union” _eStatements@mailhost.docuhost-net.com_
-  * “Generations Gold” _info@gengold.net  _
-
-
-
-Northeast Credit Union may also solicit feedback on how we can better serve our members. To do this we may use forms on our website that might be managed by a third-party vendor. These forms are secured and encrypted when sent to our vendors. Our member service representatives then login to their secure servers and retrieve the information.
-
-**NOTE:** To make sure you receive our important emails, please make sure you've given the above mentioned addresses permission in your email clients such as Outlook, Hotmail, Yahoo, G-Mail, MSN, and NetZero. Sometimes certain keywords are picked up by filtering software and legitimate emails are sent to your spam folder. By allowing our subdomains to come through, you'll be sure to receive NECU messages.
 
 **Privacy Notice**  
 
@@ -93,7 +56,7 @@ _What Members Can Do to Help_
 
 Northeast Credit Union is committed to protecting the privacy of its members and customers. You can help by following these simple guidelines:
 
-  * Protect your account numbers, card numbers, PINs (personal identification numbers) and passwords. Never keep your PIN with your ATM card, check or credit card which can provide free access to your accounts if your card is lost or stolen. 
+  * Protect your account numbers, card numbers, PINs (personal identification numbers) and passwords. Never keep your PIN with your ATM card, check or credit card which can provide free access to your accounts if your card is lost or stolen. For help on creating a strong password _[_click here_](https://web.archive.org/uploads/pdfs/cms/Strong_Password_Guidelines.pdf)_. 
   * Use caution when disclosing your account numbers, social security numbers, etc. to other persons. If someone contacts you via telephone or email explaining they are contacting you on behalf of the credit union, and asks for your account number, you should beware. Official credit union staff will have access to your information and will not need to ask for it. 
   * Keep your information current. It is important that we have current information on how to reach you. If we detect potentially fraudulent or unauthorized activity or use of an account, we will attempt to contact you immediately. If your address or phone number changes, please let us know. 
   * Please do not hesitate to call us if you have any questions - we are here to serve you! 
@@ -105,6 +68,38 @@ Northeast Credit Union is committed to protecting the privacy of its members and
 _Fair Credit Reporting Act Disclosure_
 
 Northeast Credit Union will comply with restrictions and requirements set forth in the Fair Credit Reporting Act.
+
+**  
+Northeast Credit Union Email Security Information**
+
+Northeast Credit Union (NECU) will periodically send emails promoting our products and services or those of our affiliates, to members for whom we have recorded email addresses. All members who receive the marketing emails will have the opportunity to opt out of this service at any time by simply clicking the unsubscribe button, entering your email address on the [_email opt-out page_](http://email.necu.org/o/?co=0786D6C8267C51C6&cid=38762D7FF7A274E108450758E412F251103E8F7CE1A6CF25), emailing Member Services at memberservices@necu.org, or calling us at 1.888.436.1847.  
+
+
+As a trusted neighbor NECU will never ask you for personal account information via email. In addition, our latest technology allows you to identify authentic NECU emails upon receipt. NECU email’s that come from “Northeast Credit Union” marketing@email.necu.org.  View an example of what an email from NECU would look like in the address field, below:
+
+A **unique identification code (UID)** appears near the top right of every email sent to you from NECU’s address. The last 4 digits of your primary membership number assigned by Northeast Credit Union will be used. It will appear as “ **Ending in 1234** ”. This unique identifier will be exclusive for email’s sent to you from NECU marketing. Below is an example of what it will look like: 
+
+NECU members will always be able to confirm any emails authenticity by calling our member service center at 1.888.436.1847. Our member service representatives will be able to verify the email when you provide them with your email address and the unique identification code. In the event your unique identity number does not match our records, the email(s) are likely to be a phishing scam and will be reported. 
+
+_  
+Exceptions_
+
+Our Member Service staff members can reply to you or send you emails which are routed through a different server. These generally are responses directly to member inquiries and never contain personal banking information. These emails do not contain the UID. These emails will be from _memberservices@necu.org.    _In addition, when using CyberTel by initially signing up or changing your password, an auto reply email will be sent to you from _memberservices@necu.org_. This is an automated email and also does not contain the UID.   
+
+
+_  
+Additional Information_
+
+We utilize third-party vendors to send some emails to member regarding products, services or information they may need. These vendors are utilized for estatements, alerts, online surveys, events, web polls, and referrals. Emails sent via our third-party vendors are identified as follows:
+
+  * “Northeast Credit Union” _eStatements@mailhost.docuhost-net.com_
+  * “Generations Gold” _info@gengold.net  _
+
+
+
+Northeast Credit Union may also solicit feedback on how we can better serve our members. To do this we may use forms on our website that might be managed by a third-party vendor. These forms are secured and encrypted when sent to our vendors. Our member service representatives then login to their secure servers and retrieve the information.
+
+**NOTE:** To make sure you receive our important emails, please make sure you've given the above mentioned addresses permission in your email clients such as Outlook, Hotmail, Yahoo, G-Mail, MSN, and NetZero. Sometimes certain keywords are picked up by filtering software and legitimate emails are sent to your spam folder. By allowing our subdomains to come through, you'll be sure to receive NECU messages.
 
 **Contacting Northeast Credit Union**
 
