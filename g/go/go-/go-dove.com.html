@@ -1,316 +1,259 @@
-<!--The following is the downloaded HTML source of the go-dove.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216035142id_/http%3A//www.go-dove.com/info/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the go-dove.com privacy policy that was archived on 2009-08-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090827004722id_/http%3A//www.go-dove.com/info/privacy.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
-	<script language="javascript">var framesOK = false;</script>
-	<meta name="description" content=""><meta name="keywords" content=""><meta http-equiv="Content-Language" content="en-us">
-<meta name="robot" content="INDEX">
-    <meta name="GOOGLEBOT" content="INDEX">
-    <meta name="YahooSeeker" content="INDEX">
-    <meta name="YahooSeeker" content="INDEX,FOLLOW">
-    <meta name="MSNBOT" content="INDEX">
-    <meta name="MSNBOT" content="INDEX,FOLLOW">
-    <meta name="robot" content="index,follow">
-    <meta name="robots" content="index,follow">
-    <meta name="GOOGLEBOT" content="index,follow">
-    <meta name="GOOGLEBOTS" content="index,follow">
-    <meta name="ROBOT" content="all">
-    <meta name="ROBOTS" content="all">
-    <meta name="GOOGLEBOT" content="all">
-    <meta name="GOOGLEBOTS" content="all">
-    <meta name="RATING" content="GENERAL">
-    <meta name="Copyright" content="GoIndustry DoveBid">
-    <meta name="Identifier-URL" content="http://www.dovebid.com"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	<meta http-equiv="content-language" content="en-us">
+	<meta name="rating" content="general">
+	<meta name="copyright" content="GoIndustry DoveBid">
+	<link rel="stylesheet" href="/css/nav.css?1.13" type="text/css">
+	<link rel="styleSheet" href="/css/main.css?1.13" type="text/css">
 	<title>GoIndustry DoveBid - GoIndustry DoveBid Privacy Policy</title>
-	<link rel="StyleSheet" href="http://cache.go-dove.com/includes/all.css" type="text/css">
-	<!--[if IE 6]><link rel="StyleSheet" href="http://cache.go-dove.com/includes/ie6.css" TYPE="text/css"><![endif]-->
-	
-<script type="text/javascript" src="http://cache.go-dove.com/js/mootools.js"></script>
-	<script type="text/javascript" src="http://cache.go-dove.com/js/main.js"></script>
+    <script type="text/javascript">
+        window.onerror = function(msg, file_loc, line_no){new Image().src="/Errors/500Client.asp?file="+escape(file_loc)+"&amp;line="+escape(line_no)+"&amp;msg="+escape(msg);}
+    </script>
+	<script type="text/javascript" src="/js/main.js?1.13"></script>	
+	<script type="text/javascript" src="/js/jquery/jquery.js?1.13"></script>
+	<!--[if lt IE 7]>
+	<link rel="styleSheet" href="/css/ie6.css" type="text/css" />
+	<script type="text/javascript" src="/js/jquery/jquery.dropdown.js?1.13"></script>
+	<![endif]-->
+<link href="/css/thickbox.css" media="screen" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/js/jquery/jquery.thickbox.js"></script>
 </head>
-<body onload="window.loaded = true;">
-<script language="javascript">
-	var isDHTML = 0;
-	var isLayers = 0;
-	var isAll = 0;
-	var isID = 0;
-	var isSearch = 0;
-	if ((top.frames.length!=0) && (!framesOK))
-   top.location=self.document.location;
-	if (document.getElementById)
-	{
-		isID = 1;
-		isDHTML = 1;
-	}
-	else
-	{
-		if (document.all)
-		{
-			isAll = 1;
-			isDHTML = 1;
-		}
-		else
-		{
-			browserVersion = parseInt(navigator.appVersion);
-			if ((navigator.appName.indexOf("Netscape") != -1) && (browserVersion == 4))
-			{
-				isLayers = 1;
-				isDHTML = 1;
-			}
-		}
-	}
-	function GetDocObj(objectID)
-{
-		if (isID)
-			return (document.getElementById(objectID));
-		else
-			if (isAll)
-				return (document.all[objectID]);
-			else
-				if (isLayers)
-					return (document.layers[objectID]);
-}
-function Search(formName, inputName)
-{
-	if (window.loaded != true) 
-		return;
-	var formObj = GetDocObj(formName);
-	var searchStrObj = GetDocObj(inputName);
-	if (searchStrObj == undefined)
-	{
-		formObj.submit();
-	}
-	else
-	if ((searchStrObj.value.length > 0) && (searchStrObj.value != "Search Assets"))
-	{
-		formObj.submit();
-	}
-}
-function ClearSearch(inputName)
-{
-	GetDocObj(inputName).value = "";
-}
-function SetLanguage(pLanguage)
-{
-	var vLanguage = (new String(pLanguage)).toLowerCase();
-	if (window.loaded != true) 
-		return;
-	if (vLanguage == "pref")
-	{
-		document.location = "http://www.go-dove.com/accounts/intlprefs.asp"
-	}
-	else
-	if (vLanguage.length > 0)
-	{
-		var vURL;
-		var vQStr;
-		vURL = location.protocol + "//" + location.host + location.pathname + "?lcid=" + vLanguage;
-		vQStr = location.search;
-		vQStr = vQStr.replace(/\?/g, "&");
-		vURL += vQStr.replace(/\&*lcid\=[a-zA-Z-]*/g, "");
-		document.location = vURL;
-	}
-}
-</script>
-    <div id="main">
-        <div id="header">
-            <h1>
-                <a href="http://www.go-dove.com/default.asp">GoIndustry</a></h1>
-            <ul class="head">
-                <li class="account">
-                    <div>
-                        &nbsp;</div>
-                    <a href="http://www.go-dove.com/accounts/register.asp"><nobr><strong>Register Now</strong></nobr></a></li>
-                <li class="reg">
-                    <div>
-                        &nbsp;</div>
-                    <a href="http://www.go-dove.com/login.asp"><nobr>Sign-in</nobr></a></li>
-                <li class="lang">
-                    <div style="background-image:none;">
-                        <a href="/accounts/intlprefs.asp"><img src="http://cache.go-dove.com/images/flags_lang/flag_en.gif" style="display:inline"></a></div>
-                    <a href="/accounts/intlprefs.asp">International Preferences</a></li>
-                <li class="help">
-                    <div>
-                        &nbsp;</div>
-                        <a href="http://www.go-dove.com//help/default.asp"><nobr><strong>Help</strong></nobr></a></li>
-            </ul>
-            <div class="searchbox">
-  <form id="searchForm" name="searchForm" action="/search/searchresults.asp" onsubmit="Search('searchForm', 'searchFormInput');">
-    <fieldset>
-      <input id="searchFormInput" class="text" type="TEXT" name="Query" value="Search Assets" onclick="this.value = this.value == 'Search Assets' ? '' : this.value;" onblur="this.value = this.value == '' ? 'Search Assets' : this.value">
-      <input id="Go" name="Go" class="button" type="submit" value="Go!" onclick="Search('searchForm', 'searchFormInput');">
-      <span class="advanced"><a href="/search/advanced.asp">Advanced Search</a></span>
-    </fieldset>
-  </form>
+<body>
+	<div id="main">
+		<div id="header">
+<form id="searchForm" action="/search/searchresults.asp">
+	<ul id="search">
+	  <li>
+     <ul id="search-header">
+	      <li id="label"><label for="searchfield">Search:</label></li> 
+       <li id="advsearch"><a href="/search/advanced.asp" class="advsearch"><img src="/img/nav-arrow-right-white.gif" alt="" id="adv-arrow">Advanced</a></li>
+     </ul>
+	  </li>
+	  <li>
+	    <div id="search-section">
+       <input type="text" id="searchfield" value="" name="Query">       <a href="#" id="go">Go</a>
+	    </div>
+	  </li>
+ </ul>
+</form>
+			<div class="top"></div>
+			<div class="topR"></div>
+			<div class="botR"></div>
+			<div class="botL"></div>
+            <div id="header-image"></div>
+			<div class="mid">
+			    <div class="goLogo"><a href="http://www.go-dove.com/"><img src="/img/ban_logo.gif" alt="GoIndistry DoveBid Logo" title="Go to home page"></a></div>
+				<div id="login"><a href="https://www.go-dove.com/login.asp?targetUrl=/info/privacy.asp">Sign in</a>				<span style="font-weight:normal">or</span> <a href="https://www.go-dove.com/accounts/register.asp">Register</a></div>				<div id="intprefs">
+					<a href="http://www.go-dove.com/accounts/intlprefs.asp">International preferences</a>
+				</div>
+				<div id="help">
+					<img alt="Help" src="/img/icons/help.gif"> <a href="http://www.go-dove.com/help/default.asp">Help</a>
+					| <a href="http://www.go-dove.com/help/sitemap.asp">Site map</a>
+				</div>
+			</div>
+			<div class="bot">
+				<img src="/img/ban_logo_strap.gif" alt="Asset Sales and Valuations Worldwide.">
+				<div id="altlangs">
+					<a href="#" onclick="return setLanguage('en', true)"><img class="flag" src="/img/flag_us.gif" alt="Flag" title="Temporarily change language to English"></a>
+					<a href="#" onclick="return setLanguage('en', true)"><img class="flag" src="/img/flag_en.gif" alt="Flag" title="Temporarily change language to English"></a>
+					<a href="#" onclick="return setLanguage('fr', true)"><img class="flag" src="/img/flag_fr.gif" alt="Flag" title="Temporarily change language to Français"></a>
+					<a href="#" onclick="return setLanguage('de', true)"><img class="flag" src="/img/flag_de.gif" alt="Flag" title="Temporarily change language to Deutsch"></a>
+					<a href="#" onclick="return setLanguage('es', true)"><img class="flag" src="/img/flag_es.gif" alt="Flag" title="Temporarily change language to Español"></a>
+					<a href="#" onclick="return setLanguage('th', true)"><img class="flag" src="/img/flag_th.gif" alt="Flag" title="Temporarily change language to ไทย"></a>
+					<a href="#" onclick="return setLanguage('zh', true)"><img class="flag" src="/img/flag_zh.gif" alt="Flag" title="Temporarily change language to Simplified Chinese"></a>
+				</div>
+				<div id="breadCrumb">
+				<div>You are here:&nbsp;</div>
+				<a href="http://www.go-dove.com/">Home</a>&nbsp;&gt;&nbsp;
+<a href="/company/introduction.asp">About Us</a>&nbsp;&gt;&nbsp;GoIndustry DoveBid Privacy Policy				</div>
+			</div>
+		</div>
+		<div id="navContainer">
+		<div id="beginial"></div>
+		<div id="finial"></div>
+			<ul id="nav" class="dropdown">
+				<li><a href="http://www.go-dove.com/">Home</a></li>
+				<li><a>Corporate services</a>
+					<ul>
+						<li><a href="http://www.go-dove.com/corporates/">Corporate services</a></li>
+						<li><a href="http://www.go-dove.com/company/assetzone.asp">AssetZone</a></li>
+					</ul>
+				</li>
+				<li><a>Valuations</a>
+					<ul>
+						<li><a href="http://www.go-dove.com/valuations/">Valuations &amp; appraisals</a></li>
+						<li><a href="http://www.go-dove.com/valuations/v_team.asp">Service contacts</a></li>
+					</ul>
+				</li>
+				<li><a>Auctions</a>
+					<ul>
+						<li><a href="http://www.go-dove.com/auctions/AuctionList.asp">All auctions &amp; sales</a></li>
+						<li><a href="http://www.go-dove.com/auctions/AuctionList.asp?offset=closed">Recently closed auctions</a></li>
+						<li><a href="http://www.go-dove.com/company/auctionhistory.asp">Past auction history</a></li>
+						<li><a href="http://www.go-dove.com/company/saleformats.asp">Sale formats</a></li>
+						<li><a href="http://www.go-dove.com/help/glossary.asp">Glossary of auction terms</a></li>
+						<li><a href="http://www.go-dove.com/help/bidonline.asp">How to bid online</a></li>
+						<li><a href="http://www.go-dove.com/help/marketplace.asp">Online auctions</a></li>
+						<li><a href="http://www.go-dove.com/help/live2.asp">Internet Webcast</a></li>
+						<li><a href="http://www.go-dove.com/help/live1.asp">TeleConference Webcast</a></li>
+					</ul>
+				</li>
+				<li><a>Exchanges</a>
+
+<ul>
+<li><a href="http://www.go-dove.com/exchanges/">What is an Exchange?</a></li>
+<li><a href="http://www.go-dove.com/exchanges/default.asp?exchangeguid=90fc467d-376a-46af-b618-097078f59ad9">Aviation</a></li>
+<li><a href="http://www.go-dove.com/exchanges/default.asp?exchangeguid=05805e55-e7a6-4726-9756-3d9cbf876edc">BioPharma</a></li>
+<li><a href="http://www.go-dove.com/exchanges/default.asp?exchangeguid=feb780a8-af33-497c-bd52-33ebffd1561a">Broadcast</a></li>
+<li><a href="http://www.go-dove.com/exchanges/default.asp?exchangeguid=6b742962-bc49-4219-b4e4-5cfe6846f309">Electronic Manufacturing</a></li>
+<li><a href="http://www.go-dove.com/exchanges/default.asp?exchangeguid=7ba56fb6-396c-4fbc-a31c-cdb627136097">I.T.</a></li>
+<li><a href="http://www.go-dove.com/exchanges/default.asp?exchangeguid=d55fd0a1-b45f-4aca-9d09-bf23ae744a65">Metalworking &amp; Machinery</a></li>
+<li><a href="http://www.go-dove.com/exchanges/default.asp?exchangeguid=21b2cde0-26fe-45f5-8050-34dbb6a24b51">Packaging &amp; Processing</a></li>
+<li><a href="http://www.go-dove.com/exchanges/default.asp?exchangeguid=dd7ea985-6484-4b4d-9273-d16f8e32b779">Plant</a></li>
+<li><a href="http://www.go-dove.com/exchanges/default.asp?exchangeguid=b13e58e5-286b-445b-8f5e-5ff6ab94294d">Printing</a></li>
+<li><a href="http://www.go-dove.com/exchanges/default.asp?exchangeguid=11d5e411-a052-460c-a6e4-a31f05fbf03a">Test &amp; Measurement</a></li>
+<li><a href="http://www.go-dove.com/exchanges/default.asp?exchangeguid=45620567-686d-432d-8894-5ad0b9541a2f">Transportation</a></li>
+</ul>				</li>
+				<li><a href="http://www.go-dove.com/auctions/AuctionList.asp?AuctionType=PrivateTreaty">Private treaty</a></li>
+				<li><a>Sell assets</a>
+					<ul>
+						<li><a href="http://www.go-dove.com/company/SellYourAssets.asp">Sell your assets</a></li>
+						<li><a href="http://www.go-dove.com/company/AssetManagementPrograms.asp">Self upload tool</a></li>
+					</ul>
+				</li>
+				<li><a class="thisPage">About us</a>
+					<ul>
+						<li><a href="http://www.go-dove.com/company/linesofbusiness.asp">Company overview</a></li>
+						<li><a href="http://www.go-dove.com/company/assetzone.asp">Asset management</a></li>
+						<li><a href="http://www.go-dove.com/company/contact.asp">Worldwide offices</a></li>
+						<li><a href="http://www.go-dove.com/company/management.asp">Management team</a></li>
+						<li><a href="http://www.go-dove.com/company/InvestorRelations.asp">Investor relations</a></li>
+						<li><a href="http://www.go-dove.com/company/auctionhistory.asp">Past auction history</a></li>
+						<li><a href="http://www.go-dove.com/company/jobs.asp">Work for us</a></li>
+						<li><a href="http://www.go-dove.com/help/safelist.asp">Add us to email safe list</a></li>
+						<li><a href="http://www.go-dove.com/info/terms.asp">Terms &amp; conditions</a></li>
+						<li><a href="http://www.go-dove.com/info/privacy.asp">Privacy policy</a></li>
+						<li><a href="http://www.go-dove.com/company/legalimpression.asp">Legal information</a></li>
+						<li><a href="http://go-dove.blogspot.com/" onclick="target='_blank'">Blog</a></li>
+						<li><a href="http://go-dove.blogspot.com/search/label/Auction%20news" onclick="target='_blank'">Auction news</a></li>
+						<li><a href="http://go-dove.blogspot.com/search/label/Press%20releases" onclick="target='_blank'">Press releases</a></li>
+					</ul>
+				</li>
+				<li class="myAccount"><a class="more">My account</a>
+					<ul class="lastNav">
+						<li class="moreL"><a href="http://www.go-dove.com/MyBidManager.asp?filter=active">Bid manager</a>
+							<ul>
+								<li><a href="http://www.go-dove.com/MyBidManager.asp?filter=active">Active lots</a></li>
+								<li><a href="http://www.go-dove.com/MyBidManager.asp?filter=won">Won lots</a></li>
+							</ul>
+						</li>
+						<li class="moreL"><a>Account settings</a>
+							<ul>
+								<li><a href="https://www.go-dove.com/accounts/upd_password.asp">Change password</a></li>
+								<li><a href="http://www.go-dove.com/accounts/upd_address.asp">Edit contact information</a></li>
+								<li><a href="http://www.go-dove.com/accounts/upd_email.asp">Edit e-mail settings</a></li>
+								<li><a href="http://www.go-dove.com/help/safelist.asp">Add us to email safe list</a></li>
+								<li><a href="http://www.go-dove.com/accounts/intlprefs.asp">International preferences</a></li>
+							</ul>
+						</li>
+						<li><a href="http://www.go-dove.com/accounts/reglite.asp">Manage my alerts</a></li>
+						<li><a href="http://www.go-dove.com/registeredevents.asp">My event registrations</a></li>
+						<li><a href="https://www.go-dove.com/my/invoices.aspx">My invoices &amp; payments</a></li>
+						<li><a href="https://www.go-dove.com/my/ManagePaymentDevices.aspx">My credit cards</a></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+		<div class="clear"></div>
+
+<div id="privacyBody">
+	<div class="boxHdr">
+		<div class="lcr"></div>
+		<div class="col1"><h1>GoIndustry DoveBid Privacy Policy</h1></div>
+		<div class="rcr"></div>
+	</div>
+	<div class="boxBody">
+	    <div class="row">
+		    <div class="cms">
+<div class="col1">
+<div class="privacy">
+<p>GoIndustry Operations Limited and its affiliates (hereinafter referred to as "GoIndustry DoveBid") value and respect the privacy of GoIndustry DoveBid's customers. The following Privacy Policy explains the way GoIndustry DoveBid uses, stores and protects the personal information customers provide to its website, go-dove.com (the "Site"). Any breach of this Privacy Policy by a registered buyer or seller on the Site (a "Participant") may result in termination of usage rights.</p>
+<p><b>1. Scope of Application</b></p>
+<p>This Privacy Policy applies to data about Participants' businesses and, more specifically, to personal data supplied by individuals about themselves in their capacity as (a) employees or representatives of Participants or (b) as sole traders who are Participants. We refer to all these people as "Individuals". By registering on a Site or making use of any Services available through the Site, each Individual gives his or her express consent to the processing of personal data concerning the Individual as outlined below.</p>
+<p><b>2. Storage and Use of Information</b></p>
+<p>Each Individual submits to the Site certain personal information (such as email addresses, names and fields of business) as well as offers for sale and acceptances or bids. We also collect information about the transactions you undertake, including details of credit cards used, and information in connection with your participation in any promotions or competitions offered by us. This information may be stored and used by GoIndustry DoveBid on its systems to:</p>
+<ol>
+    <li>monitor performance, utilization of features and services, traffic trends and browser versions of GoIndustry DoveBid;</li>
+    <li>inform participants about products and services on the Site, conduct direct marketing or send promotional offers or notices from GoIndustry DoveBid or third parties;</li>
+    <li>provide your credit card information to the appropriate credit card company to complete your transaction;</li>
+    <li>be supplemented with information received from third parties; and</li>
+    <li>share with other members of the GoIndustry DoveBid group of companies, Associated Auctioneers or suppliers that process data on our behalf both in the UK and abroad for the purposes described in this Privacy Policy.
+    <p class="inListHdg">Furthermore, this information may be disclosed:</p>
+    </li>
+    <li>to third parties in order to comply with any legal or regulatory requirement or in emergencies;</li>
+    <li>to other users of the Site in connection with selling/buying certain products or product groups; or</li>
+    <li>as part of aggregated anonymous GoIndustry DoveBid user data (not individually identifiable).</li>
+</ol>
+<p>GoIndustry DoveBid may allow transfer of information between Participants via email. Any Individual wishing to make use of this communication channel with another buyer/seller understands that their personal information is available to the intended recipient party and GoIndustry DoveBid.</p>
+<p>The Site may include links to other third party websites ("Linked Sites"). Unless otherwise agreed between the Individual concerned and GoIndustry DoveBid or where the operator of such Linked Site is an Associated Auctioneer, GoIndustry DoveBid shall not share personal data about Individuals with the operators of such Linked Sites, but may provide aggregated anonymous information regarding Participants to such operators.</p>
+<p>GoIndustry DoveBid may also use "cookies" that store information that Individuals enter in forms on the Site. A cookie is an element of data that a website can send to a user's browser, and which may then be stored on the user's system. It can be used to provide the Individual with a tailored user experience, e.g. in terms of personalized content and promotions.</p>
+<p>GoIndustry DoveBid shares information concerning buyers and the assets that they bid for or purchase with selected service providers who may use this information to conduct direct marketing or send promotional materials about their products and services.</p>
+<p><b>3. Disclaimer</b></p>
+<p>Each Individual acknowledges that the information entered in and posted through and on the Site, including, without limitation, items for sale, acceptances and bids may be available to all Participants of an Auction of the Site and that GoIndustry DoveBid cannot guarantee the security of any information disclosed online. Individuals further acknowledge that any information disclosed online inherently is subject to security and privacy limitations.</p>
+<p>GoIndustry DoveBid is not responsible for the privacy practices or the content of the Linked Sites and hereby expressly disclaims all responsibility and liability which may arise therefrom.</p>
+<p>GoIndustry DoveBid is not responsible for the privacy practices of the credit companies, gives no representation or warranty concerning such companies or the services that they offer and hereby expressly disclaims all responsibility and liability which may arise therefrom.</p>
+<p><b>4. Storage Information and Opting Out</b></p>
+<p>Individuals are entitled to request from GoIndustry DoveBid information concerning:</p>
+<ol>
+    <li>the kind of personal data that are being stored about them and processed by GoIndustry DoveBid;</li>
+    <li>the purposes of processing that information;</li>
+    <li>the identity of third parties which have been provided with that information; and</li>
+    <li>the origin of that information.</li>
+</ol>
+<p>Furthermore, Individuals may request correction, deletion or blocking of any personal data which is incomplete or incorrect or has not been processed in compliance with the Privacy Policy or the applicable laws or object to direct marketing by sending an email to <a href="mailto:data@go-dove.com">data@go-dove.com</a>. To the extent possible and reasonable, third parties that were provided with such information will be informed about any such correction, deletion or blocking. GoIndustry DoveBid may raise a charge for complying with such requests to the extent permitted under the relevant legislation.</p>
+<p><b>GoIndustry DoveBid, October 2008</b></p>
 </div>
-
-        </div>    <div id="content"><a name="top"></a>
-
-<div id="content-center">
-    <div class="block static">
-        <h2>GoIndustry DoveBid Privacy Policy</h2>
-
-        <ul class="sections">
-            <li class="section light">
-<p>GoIndustry Operations Limited and its affiliates
-(hereinafter referred to as "GoIndustry DoveBid") value and respect
-the privacy of GoIndustry DoveBid's customers. The following Privacy Policy
-explains the way GoIndustry DoveBid uses, stores and protects the personal
-information customers provide to its website,go-dove.com (the
-"Site"). Any breach of this Privacy Policy by a registered buyer or
-seller on the Site (a "Participant") may result in termination of
-usage rights.</p>
-
-<div class="lot-title">
-   <h3 class="officedetails">1. Scope of Application</h3>
 </div>
-<p>This Privacy Policy applies to data about Participants'
-businesses and, more specifically, to personal data supplied by individuals
-about themselves in their capacity as (a) employees or representatives of
-Participants or (b) as sole traders who are Participants. We refer to all these
-people as "Individuals". By registering on a Site or making use of
-any Services available through the Site, each Individual gives his or her
-express consent to the processing of personal data concerning the Individual as
-outlined below.</p>
-
-<div class="lot-title">
-   <h3 class="officedetails">2. Storage and Use of Information</h3>
+<div class="clear10"> </div></div>
+        </div>
+	</div>
 </div>
-<p>Each Individual submits to the Site certain personal
-information (such as email addresses, names and fields of business) as well as
-offers for sale and acceptances or bids. We also collect information about the
-transactions you undertake, including details of credit cards used, and
-information in connection with your participation in any promotions or
-competitions offered by us. This
-information may be stored and used by GoIndustry DoveBid on its systems to:</p>
-
-<p>(a) monitor
-performance, utilization of features and services, traffic trends and browser
-versions of GoIndustry DoveBid;</p>
-
-<p>(b) inform
-participants about products and services on the Site, conduct direct marketing
-or send promotional offers or notices from GoIndustry DoveBid or third parties;</p>
-
-<p>(c) provide
-your credit card information to the appropriate credit card company to complete
-your transaction;</p>
-
-<p>(d) be
-supplemented with information received from third parties; and</p>
-
-<p>(e) share
-with other members of the GoIndustry DoveBid group of companies, Associated
-Auctioneers or suppliers that process data on our behalf both in the UK and
-abroad for the purposes described in this Privacy Policy.</p>
-
-<p>Furthermore, this
-information may be disclosed:</p>
-
-<p>(f) to third
-parties in order to comply with any legal or regulatory requirement or in
-emergencies;</p>
-
-<p>(g) to other
-users of the Site in connection with selling/buying certain products or product
-groups; or</p>
-
-<p>(h) as part
-of aggregated anonymous GoIndustry DoveBid user data (not individually
-identifiable).</p>
-
-<p>GoIndustry DoveBid
-may allow transfer of information between Participants via email. Any
-Individual wishing to make use of this communication channel with another
-buyer/seller understands that their personal information is available to the
-intended recipient party and GoIndustry DoveBid.</p>
-
-<p>The Site may
-include links to other third party websites ("Linked Sites"). Unless
-otherwise agreed between the Individual concerned and GoIndustry DoveBid or
-where the operator of such Linked Site is an Associated Auctioneer, GoIndustry
-DoveBid shall not share personal data about Individuals with the operators of
-such Linked Sites, but may provide aggregated anonymous information regarding
-Participants to such operators.</p>
-
-<p>GoIndustry DoveBid
-may also use "cookies" that store information that Individuals enter
-in forms on the Site. A cookie is an element of data that a website can send to
-a user's browser, and which may then be stored on the user's system. It can be
-used to provide the Individual with a tailored user experience, e.g. in terms
-of personalized content and promotions.</p>
-
-<div class="lot-title">
-   <h3 class="officedetails">3. Disclaimer</h3>
+	<div id="footer">
+		<div id="leftmarg"></div>
+		<div id="centre">
+			<h3><a href="mailto:CustomerService@Go-Dove.com">Contact Us</a></h3>
+			<p>USA: +1 (800) 665-1042 (West Coast) / +1 (800) 722-3334 (East Coast)<br>
+			Europe: +44 20 7098 3792<br>
+			Asia: +63 2 822-5555 (PHT) / +86 21 6272 6246 (CST)<br>
+			<a href="http://www.go-dove.com/company/contact.asp">Worldwide Office Locations</a></p>
+		</div>
+		<div id="rightmarg"></div>
+		<div id="footlinks">
+			<a href="http://www.go-dove.com/company/introduction.asp">Company Information</a> | <a href="http://www.go-dove.com/company/legalimpression.asp">Legal</a> | <a href="http://www.go-dove.com/info/privacy.asp">Privacy policy</a> | <a href="http://www.go-dove.com/info/terms.asp">Terms &amp; conditions</a><br>
+The following are Registered Trademarks of GoIndustry DoveBid: GoIndustry® and DoveBid®<br>©2009 GoIndustry DoveBid
+		</div>
+		<div class="top"></div>
+		<div class="topR"></div>
+		<div class="botR"></div>
+		<div class="botL"></div>
+	</div>
+	<div class="clear20"></div>
 </div>
-<p>Each Individual
-acknowledges that the information entered in and posted through and on the
-Site, including, without limitation, items for sale, acceptances and bids may
-be available to all Participants of an Auction of the Site and that GoIndustry
-DoveBid cannot guarantee the security of any information disclosed online.
-Individuals further acknowledge that any information disclosed online inherently
-is subject to security and privacy limitations.</p>
-
-<p>GoIndustry DoveBid
-is not responsible for the privacy practices or the content of the Linked Sites
-and hereby expressly disclaims all responsibility and liability which may arise
-therefrom.</p>
-
-<p>GoIndustry DoveBid
-is not responsible for the privacy practices of the credit companies, gives no
-representation or warranty concerning such companies or the services that they
-offer and hereby expressly disclaims all responsibility and liability which may
-arise therefrom.</p>
-
-<div class="lot-title">
-   <h3 class="officedetails">4. Storage Information and Opting Out</h3>
-</div>
-<p>Individuals are
-entitled to request from GoIndustry DoveBid information concerning:</p>
-
-<p>(a) the kind
-of personal data that are being stored about them and processed by GoIndustry
-DoveBid;</p>
-
-<p>(b) the
-purposes of processing that information;</p>
-
-<p>(c) the
-identity of third parties which have been provided with that information; and</p>
-
-<p>(d) the
-origin of that information.</p>
-
-<p>Furthermore,
-Individuals may request correction, deletion or blocking of any personal data
-which is incomplete or incorrect or has not been processed in compliance with
-the Privacy Policy or the applicable laws or object to direct marketing by
-sending an email to<a href="mailto:data@go-dove.com">data@go-dove.com.</a>To
-the extent possible and reasonable, third parties that were provided with such
-information will be informed about any such correction, deletion or blocking.
-GoIndustry DoveBid may raise a charge for complying with such requests to the
-extent permitted under the relevant legislation.</p>
-
-<p>&nbsp;</p>
-
-<p>GoIndustry
-DoveBid, October 2008</p>
-
-			</li>
-		</ul>
-    </div>
-</div>
-<ul id="menu"><li><a href="/Default.asp" class="root"><span>&nbsp;</span>Home</a></li><li><a href="/auctions/AuctionList.asp" class="root"><span>&nbsp;</span>Auction Calendar</a></li><li><a href="/valuations/default.asp" class="root"><span>&nbsp;</span>Valuations</a></li><li><a href="/Exchanges/Default.asp" class="root"><span>&nbsp;</span>Exchanges</a></li><li><a href="/auctions/AuctionList.asp?AuctionType=PrivateTreaty" class="root"><span>&nbsp;</span>Private Treaty Sales</a></li><li><a href="/company/AssetManagementPrograms.asp" class="root"><span>&nbsp;</span>Self Upload Tool</a></li></ul><ul id="menu2"><li><a href="/help/" class="root"><span>&nbsp;</span>Help</a></li><li><a href="/help/marketplace.asp" class="root"><span>&nbsp;</span>Online Auctions</a></li><li><a href="/help/live.asp" class="root"><span>&nbsp;</span>Webcast Auctions</a></li><li><a href="/help/bidonline.asp" class="root"><span>&nbsp;</span>How to Bid Online</a></li><li><a href="/help/glossary.asp" class="root"><span>&nbsp;</span>Glossary of Auction Terms</a></li><li><a href="/info/terms.asp" class="root"><span>&nbsp;</span>Terms &amp; Conditions</a></li><li><a href="/info/privacy.asp" class="active"><span>&nbsp;</span>Privacy Policy</a></li><li><a href="/help/safelist.asp" class="root"><span>&nbsp;</span>Add GoIndustry DoveBid to Safe List Instructions</a></li><li><a href="/company/legalimpression.asp" class="root"><span>&nbsp;</span>Legal Information</a></li></ul>    </div>			<div id="footer">				<ul class="bottom">					<li class="site">						<h3>Company</h3>						<ul>							<li><a href="/company/introduction.asp">Company Strategy</a></li>							<li><a href="/company/contact.asp">Worldwide Offices</a></li>							<li><a href="/company/InvestorRelations.asp">Investor Relations</a></li>							<li><a href="/help/default.asp">Services Support</a></li>						</ul>					</li>					<li class="support">						<h3>Support Services</h3>						<ul>							<li>USA: +1 (800) 665-1042 (West Coast) / +1 (800) 722-3334 (East Coast)</li>							<li>Europe: +44 20 7098 3792</li>							<li>Asia: +63 2 822-5555 (PHT) / +86 21 6272 6246 (CST)</li>							<li><a href="/company/contact.asp">Worldwide Office Locations</a></li>						</ul>					</li>					<li class="legal">						<h3>Legal Matters</h3>						<ul>							<li><a href="/company/legalimpression.asp">Legal information</a></li>							<li><a href="/info/terms.asp">Terms and Conditions</a></li>							<li><a href="/info/privacy.asp">Privacy Policy</a></li>							<li>Copyright© 2008. All rights reserved.</li>						</ul>					</li>				</ul>			</div><div style="display: none">
+<div style="display: none">
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
+try {
 var pageTracker = _gat._getTracker("UA-4831553-1");
-pageTracker._initData();
 pageTracker._trackPageview();
+} catch(err) {}
 </script>
 </div>
 
 
-</div></body></html>
+</body></html>
