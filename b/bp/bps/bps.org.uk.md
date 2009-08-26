@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bps.org.uk privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626201053id_/http%3A//www.bps.org.uk/additional-pages/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bps.org.uk privacy policy that was archived on 2009-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090826144126id_/http%3A//www.bps.org.uk/additional-pages/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy
 
