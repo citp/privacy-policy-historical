@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the plum.com privacy policy that was archived on 2009-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090513141948id_/http%3A//www.plum.com/privacy/p) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plum.com privacy policy that was archived on 2009-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090827230433id_/http%3A//www.plum.com/privacy/p) for the most accurate reproduction.*
 
 # Plum Groups
 
-[](https://web.archive.org/)
+[](http://www.plum.com/)
 
 Our Terms of Service and Privacy Policy are currently in draft form and may change. We may make material changes to this document and note them _only_ here. 
 
@@ -14,7 +14,7 @@ This means that your personal information belongs to you, and we will only use i
 
 Your private account information and information we collect passively from you
 
- _What this covers:_
+What this covers:
 
   * This section deals with the information that is only visible to Plum systems. These are things that other Plum users will never see.
   * This includes details about the information you provide to us during the registration process, as well as your account and collection settings.
@@ -22,7 +22,7 @@ Your private account information and information we collect passively from you
 
 
 
- _The Basics:_
+The Basics:
 
   * First and foremost, we want you to know that you own all personal information you provide to Plum. While this information is "deposited" with us, it is and will always remain your property.
   * We will never sell this information, nor will we share it in any form that can identify you individually with third parties who aren't our agents. 
@@ -34,7 +34,7 @@ Your private account information and information we collect passively from you
 
 Your collections and other public information
 
- _Your collections have three parts:_
+Your collections have three parts:
 
   * Information created by you. These are things for which you own the copyright. For example, this might include an original note you author or a photograph you've taken.
   * Information you collect. These are things for which other people own the copyright. For example, this might include an image you find on the web, an article written by another person, or a copy of something in someone else's collections.
@@ -42,9 +42,9 @@ Your collections and other public information
 
 
 
- _The Basics:_
+The Basics:
 
-Information you create
+Information you create:
 
   * You retain the copyright to information you create that you set to be private.
   * If information you create is set to be public or shareable with a group, it is licensed with a [Creative Commons Attribution Non-Commercial Share Alike](http://creativecommons.org/licenses/by-nc-sa/2.5/) license. This means that other people can copy and make derivative works from the information for non-commercial use.
@@ -56,7 +56,7 @@ Information you create
 
 
 
-Information you collect
+Information you collect:
 
   * If you add something to the collections in your personal library that belongs to someone else (for example, a web page, link, photo, feed, song, or a copy of an item in someone else's collections), they retain all intellectual property rights to it, subject to its license. This means they have the final say on what happens to it and can request the removal of it at any time.*
   * When you add some types of things to your collections, like a photo or a webpage, our system may make a copy of it on Plum's servers. You can see an example of this when you collect a web page and a facsimile of it appears on the Plum site. Although a facsimile of the item appears in your collections, the copyright holder can request removal of it at any any time.* 
@@ -82,7 +82,7 @@ Account information and passively collected information
 
 
 
- _Other things you should know:_
+Other things you should know
 
 In the event that we add new features to the Plum site that involve issues concerning your rights that aren't covered here or in the documents linked to from here, we will note this where and when that feature appears. We will also clearly explain the issues and give you the ability to consent to any changes involving the privacy settings on your information. 
 
