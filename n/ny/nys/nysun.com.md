@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nysun.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627142517id_/http%3A//www.nysun.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nysun.com privacy policy that was archived on 2009-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090828000027id_/http%3A//www.nysun.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - The New York Sun
 
