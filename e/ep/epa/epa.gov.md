@@ -1,23 +1,21 @@
-> *The following text is extracted and transformed from the epa.gov privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624223001id_/http%3A//www.epa.gov/cgi-bin/epalink%3Flogname%3Depahome%26referrer%3Dfooter%26target%3Dhttp%3A//www.epa.gov/epahome/usenotice2.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epa.gov privacy policy that was archived on 2009-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090827092911id_/http%3A//www.epa.gov/cgi-bin/epalink%3Flogname%3Depahome%26referrer%3Dfooter%26target%3Dhttp%3A//www.epa.gov/epahome/usenotice2.htm) for the most accurate reproduction.*
 
 # Privacy and Security Notice | US EPA
 
 This page explains how we will handle information we learn about you from your visit to our site, and tells you that EPA monitors network traffic to ensure Web site security. 
 
-**Privacy  
-**
+**Privacy**
 
-**
-  * Your rights under the Privacy Act
-  * Children's privacy
-  * EPA and privacy
-  * How long is the information retained
-  * Cookies
-  * Other information collection
-  * How the information is used
-  * How e-mail is handled
-  * Personal information via forms
-**
+  * **Your rights under the Privacy Act**
+  * **Children's privacy**
+  * **EPA and privacy**
+  * **How long is the information retained**
+  * **Cookies**
+  * **Other information collection**
+  * **How the information is used**
+  * **How e-mail is handled**
+  * **Personal information via forms**
+
 
 
 * * *
