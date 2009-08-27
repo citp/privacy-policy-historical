@@ -1,35 +1,35 @@
-> *The following text is extracted and transformed from the truesupplier.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627205111id_/http%3A//www.truesupplier.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truesupplier.com privacy policy that was archived on 2009-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090828012722id_/http%3A//www.truesupplier.com/help.php%3Fsection%3Dbusiness) for the most accurate reproduction.*
 
 # Help zone :: Truesupplier - Blackberry Accessories & PDA Accessories wholesale Co.
 
 | [](http://www.truesupplier.com/) |  |   
 ---  
-CALL US: +86-755-8884-7001   International: +852-3118-2566   |   
+CALL US: +86-755-8884-7001   International: +852-3973-5001   |   
   
   
   
 
 
-| Very nice seller!!! product AAAA+++ Recomended!!!  
+| A very nice easy and fast trade with full support during sale process. Highly recommended...   
 ---  
-mitrop82   
+Deepak   
   
 * * *  
   
-I bought a digitizer for my htc touch. The item was shipped on time, pretty well packed and fits perfectly in my phone besides truesupplier include a handy set of tools that let me change the part in less than 20 minutes and now my touch is back in business, thanks  
-Francisco   
+Prompt shipment, well packed, great to work with. Thank you.  
+secaricaw01   
   
 * * *  
   
-Fast shipping. A smooth transaction. I am looking forward to working with again.  
-computershoppe   
+Everything excellent!! Package, delivery time, components. Thank you a lot!!  
+Tiago   
   
 * * *  
   
-[**Write Your Own Testimonial**](https://web.archive.org/web/20090627205111id_/http%3A//www.truesupplier.com/testimonials.php?mode=new_form)  
+[**Write Your Own Testimonial**](https://web.archive.org/web/20090828012722id_/http%3A//www.truesupplier.com/testimonials.php?mode=new_form)  
   
   
-[](http://www.truesupplier.com/ad_banner_click.php?banner_id=64&banner_redirect=http://www.truesupplier.com/oem-front-bezel-faceplate-for-rim-blackberry-tour-9630-rim-nia-pr-17782.html) [Truesupplier - Blackberry Accessories & PDA Accessories wholesale Co.](http://www.truesupplier.com/) :: [Help zone](https://web.archive.org/web/20090627205111id_/http%3A//www.truesupplier.com/help.php) | Privacy statement  
+[Truesupplier - Blackberry Accessories & PDA Accessories wholesale Co.](http://www.truesupplier.com/) :: [Help zone](https://web.archive.org/web/20090828012722id_/http%3A//www.truesupplier.com/help.php) | Privacy statement  
 ---  
   
 Thank you for accessing the web site ("Site") of truesupplier.com, Inc. ("truesupplier.com," that's us). We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy.
@@ -102,14 +102,17 @@ Truesupplier.com
    
   
   
- 
+    
+  
+  
 
-[](http://www.truesupplier.com/ad_banner_click.php?banner_id=67&banner_redirect=http://www.truesupplier.com/rhinestone-ornament-hard-protect-case-for-blackberry-bold-9000-pr-17776.html)
+
+[](http://www.truesupplier.com/ad_banner_click.php?banner_id=104&banner_redirect=http://www.truesupplier.com/leather-case-for-blackberry-bold-9000-hot-red-color-pr-18395.html)
 
   
   
   
-[](http://www.truesupplier.com/ad_banner_click.php?banner_id=73&banner_redirect=http://www.truesupplier.com/new-oem-htc-g2-trackball-white-color-with-black-around-the-sid-pr-17836.html)
+[](http://www.truesupplier.com/ad_banner_click.php?banner_id=83&banner_redirect=http://www.truesupplier.com/brand-new-blackberry-bold-9000-full-housing-cover-faceplate-w-ke-pr-17906.html)
 
   
   
