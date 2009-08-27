@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the mindleaders.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627075034id_/http%3A//www.mindleaders.com/about/legal.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindleaders.com privacy policy that was archived on 2009-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090828010820id_/http%3A//www.mindleaders.com/about/legal.asp) for the most accurate reproduction.*
 
 # MindLeaders - Legal
 
+  
+|  |  |   
+---  
 | 
 
 Legal
@@ -63,4 +66,16 @@ Questions regarding this policy should be directed to MindLeaders at legal@mindl
 PRIVACY POLICY (081604101104) (scf)
 
 **ECDL  and ICDL**  
-The European Computer Driving Licence® (ECDL) and the International Computer Driving Licence® (ICDL) are the registered trade marks of The European Computer Driving Licence Foundation Limited in Ireland and other countries. Presentation of the ECDL &/or ICDL logos above, signifies that the courseware material distributed through this website has been developed by Mindleaders and has received the approval of the ECDL Foundation Ltd.
+The European Computer Driving Licence® (ECDL) and the International Computer Driving Licence® (ICDL) are the registered trade marks of The European Computer Driving Licence Foundation Limited in Ireland and other countries. Presentation of the ECDL &/or ICDL logos above, signifies that the courseware material distributed through this website has been developed by Mindleaders and has received the approval of the ECDL Foundation Ltd.  
+  
+|  |  |   
+  
+|   
+---  
+| **User Comments  
+** "It explained to me in plain English how to correct everything that I was doing wrong. My life has changed!"  
+---|---  
+|   
+  
+  
+
