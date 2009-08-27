@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brafton.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618143024id_/http%3A//www.brafton.com/privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brafton.com privacy policy that was archived on 2009-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090827222725id_/http%3A//www.brafton.com/privacy-statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement - Brafton: tailored news feeds for websites
 
