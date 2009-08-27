@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bafta.org privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626033938id_/http%3A//www.bafta.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bafta.org privacy policy that was archived on 2009-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090827202217id_/http%3A//www.bafta.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Bafta Home - The BAFTA site
 
