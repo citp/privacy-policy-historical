@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vimeo.com privacy policy that was archived on 2009-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090305011901id_/http%3A//vimeo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vimeo.com privacy policy that was archived on 2009-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090827222325id_/http%3A//vimeo.com/privacy) for the most accurate reproduction.*
 
 # Vimeo.com Privacy Policy
 
