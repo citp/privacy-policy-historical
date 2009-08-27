@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edinformatics.com privacy policy that was archived on 2009-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090322204240id_/http%3A//www.edinformatics.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edinformatics.com privacy policy that was archived on 2009-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090827184346id_/http%3A//www.edinformatics.com/privacy.htm) for the most accurate reproduction.*
 
 # Untitled Document
 
