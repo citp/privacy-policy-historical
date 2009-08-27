@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avforums.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616184119id_/http%3A//www.avforums.com/forums/view_privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avforums.com privacy policy that was archived on 2009-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090827145849id_/http%3A//www.avforums.com/forums/view_privacy_policy.htm) for the most accurate reproduction.*
 
 # AVForums.com Privacy Policy
 
