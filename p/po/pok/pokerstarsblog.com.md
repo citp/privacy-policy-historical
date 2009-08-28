@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokerstarsblog.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617071201id_/http%3A//www.pokerstars.com/poker/room/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokerstarsblog.com privacy policy that was archived on 2009-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090829014514id_/http%3A//www.pokerstars.com/poker/room/privacy) for the most accurate reproduction.*
 
 # Poker Stars - Online Poker Software Privacy Policy
 
