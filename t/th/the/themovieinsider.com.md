@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themovieinsider.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627105243id_/http%3A//www.themovieinsider.com/company/privacy-statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themovieinsider.com privacy policy that was archived on 2009-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090828023459id_/http%3A//www.themovieinsider.com/company/privacy-statement.php) for the most accurate reproduction.*
 
 # Privacy Statement [Last Updated: December 16, 2008] - The Movie Insider
 
