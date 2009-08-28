@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avg.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621053730id_/http%3A//www.avg.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avg.com privacy policy that was archived on 2009-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090828071322id_/http%3A//www.avg.com/privacy) for the most accurate reproduction.*
 
 # AVG Antivirus and Security Software - Privacy Policy
 
