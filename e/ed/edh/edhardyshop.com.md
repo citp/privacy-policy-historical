@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edhardyshop.com privacy policy that was archived on 2009-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090120193609id_/http%3A//www.edhardyshop.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edhardyshop.com privacy policy that was archived on 2009-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090829010503id_/http%3A//www.edhardyshop.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # Official Ed Hardy Store by Christian Audigier - California Lifestyle Fashion Brand.
 
@@ -65,12 +65,12 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20090120193609id_/http%3A//www.edhardyshop.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20090829010503id_/http%3A//www.edhardyshop.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
 By using our site, you consent to our privacy policy.
 
-Copyright © 2005 - 2008 Backstage Web, Inc.All rights reserved. The material onthis site may not be reproduced and may not be distributed, publicly performed,proxy cached on AOL or otherwise used, except with the prior express permissionof Backstage Web, Inc. (alternatively referred to as "Backstage Web,""We," or "Us").
+Copyright ©2005 - 2008 Backstage Web, Inc. All rights reserved. The material on this site may not be reproduced and may not be distributed, publicly performed, proxy cached on AOL or otherwise used, except with the prior express permission of Backstage Web, Inc. (alternatively referred to as "Backstage Web,""We," or "Us"). 
 
-ED HARDY, DON ED HARDY, ED HARDY TATTOO, HARDY, HARDY LIFE, LOVE KILLS SLOWLY, AND THE ED HARDY LOGO aretrademarks or registered trademarks of Hardy Life, LLC., in the United Statesand other countries.Copyright © 2003–2008 Hardy Life,LLC. All Rights Reserved. Ed Hardy, Don Ed Hardy, Ed Hardy Tattoo, Hardy, HardyLife, and the Ed Hardy logo are registered trademarks of Hardy Life, LLC.
+ED HARDY, DON ED HARDY, ED HARDY TATTOO, HARDY, HARDY LIFE, LOVE KILLS SLOWLY, AND THE ED HARDY LOGO are trademarks or registered trademarks of Hardy Life, LLC., in the United States and other countries .Copyright © 2003–2008 Hardy Life, LLC. All Rights Reserved. 
