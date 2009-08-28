@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canetads.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418180416id_/http%3A//www.canetads.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canetads.com privacy policy that was archived on 2009-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090829000757id_/http%3A//www.canetads.com/info/privacy.php) for the most accurate reproduction.*
 
 # Canada Free Classifieds at CANetAds.com - Privacy Policy
 
