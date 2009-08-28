@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intokenya.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627004051id_/http%3A//www.intokenya.com/pages/Privacy_Policy.vrt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intokenya.com privacy policy that was archived on 2009-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090828025514id_/http%3A//intokenya.com/pages/Privacy_Policy.vrt) for the most accurate reproduction.*
 
 # Privacy Policy
 
