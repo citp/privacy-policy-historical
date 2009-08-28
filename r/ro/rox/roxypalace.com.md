@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roxypalace.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628094706id_/http%3A//www.roxypalace.com/EN/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roxypalace.com privacy policy that was archived on 2009-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090828040937id_/http%3A//www.roxypalace.com/EN/privacy_statement.aspx) for the most accurate reproduction.*
 
 # private Online Casino| Best security| Roxy Palace Your Trusted Online Casino
 
