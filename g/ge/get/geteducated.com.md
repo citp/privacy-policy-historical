@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geteducated.com privacy policy that was archived on 2009-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090606093637id_/http%3A//www.geteducated.com/geteducated-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geteducated.com privacy policy that was archived on 2009-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090829005649id_/http%3A//www.geteducated.com/geteducated-privacy-statement) for the most accurate reproduction.*
 
 # GetEducated.com | GetEducated.com Privacy Statement
 
