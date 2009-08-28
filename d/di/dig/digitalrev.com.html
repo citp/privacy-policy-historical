@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the digitalrev.com privacy policy that was archived on 2009-03-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090328093223id_/http%3A//digitalrev.com/en/privacy-policy-36-article.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the digitalrev.com privacy policy that was archived on 2009-08-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090828225904id_/http%3A//www.digitalrev.com/en/privacy-policy-36-article.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>Privacy Policy - DigitalRev.com</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -23,15 +23,91 @@ Privacy Policy
 <link rel="stylesheet" href="styles/silver.css" type="text/css">
 </head>
 
-<body class="commonbg">
+<body class="commonbg"><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" style="padding-bottom: 42px; padding-right: 42px; display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" class="" style="width: 0px; height: 0px; display: none;"></div><div id="cboxLoadingOverlay" class="" style="display: none;"></div><div id="cboxLoadingGraphic" class="" style="display: none;"></div><div id="cboxTitle" class="" style="display: none;"></div><div id="cboxCurrent" class="" style="display: none;"></div><div id="cboxSlideshow" class="" style="display: none;"></div><div id="cboxNext" class="" style="display: none;"></div><div id="cboxPrevious" class="" style="display: none;"></div><div id="cboxClose" class="" style="display: none;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div></div>
 
-<script type="text/javascript" src="scripts/jquery.ui/jquery-1.2.6.js"></script>
-<script type="text/javascript" src="scripts/jquery.ui/ui/jquery.ui.all.js"></script>
+<script type="text/javascript" src="scripts/jquery.ui/jquery-1.3.2.js"></script>
 <script type="text/javascript" src="scripts/jquery.ui/thickbox/thickbox.js"></script>
 <script type="text/javascript" src="scripts/jquery.ui/form/jquery.form.js"></script>
 <script src="block/scripts/header.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="scripts/jquery.ui/autocomplete-1.0.2/jquery.autocomplete.pack.js"></script>
+<link rel="stylesheet" type="text/css" href="scripts/jquery.ui/autocomplete-1.0.2/jquery.autocomplete.css">	
+
 <link type="text/css" href="scripts/jquery.ui/thickbox/thickbox.css" rel="stylesheet" media="screen">
 <link type="text/css" rel="stylesheet" href="block/styles/header.css">
+
+<!--[if IE]>
+    <link type="text/css" media="screen" rel="stylesheet" href="scripts/jquery.ui/colorbox/colorbox-ie.css" title="example" />
+<![endif]--> 
+
+<link type="text/css" media="screen" rel="stylesheet" href="scripts/jquery.ui/colorbox/colorbox.css">
+<script type="text/javascript" src="scripts/jquery.ui/colorbox/jquery.colorbox.js"></script>
+<script type="text/javascript">
+	var $basket = jQuery.noConflict();
+          
+    $basket(document).ready(function(){
+		$basket("a[href='basket.php']").colorbox({width:"995px", height:"600px", iframe:true, opacity:0.5});
+    });
+    $basket(document).ready(function(){
+		$basket("a.get_html").colorbox({width:"530px", height:"750px", iframe:true, opacity:0.5});
+    }); 		
+</script>
+
+<script type="text/javascript">
+var $auto = jQuery.noConflict();
+
+$auto(document).ready(function() {
+	function findValueCallback(event, data, formatted) {
+		$auto("<li>").html( !data ? "No match!" : "Selected: " + formatted).appendTo("#result");
+	}
+	
+	function formatItem(row) {
+		return row[0] + " (<strong>id: " + row[1] + "</strong>)";
+	}
+	function formatResult(row) {
+		return row[0].replace(/(<.+?>)/gi, '');
+	}
+
+	$auto("#search_input").autocomplete("autocomplete_search.php", {
+		delay: 200,
+		width: 250,
+		minChars: 1,
+		matchSubset: false,
+		matchContains: false,
+		cacheLength: 0,
+		noCache: true,
+		onItemSelect: findValue,
+		onFindItem: findValue,		
+		formatItem: function(row) {
+			return "<div style='height:12px'><div style='float:left'>" + row[0] + "</div><div style='float:right;padding-right:5px;'>" + row[1] + "</div></div>";
+		}
+	});
+	
+	$auto("#search_string").autocomplete("autocomplete_search.php", {
+		delay: 200,
+		width: 250,
+		minChars: 1,
+		matchSubset: false,
+		matchContains: false,
+		cacheLength: 0,
+		noCache: true,
+		onItemSelect: findValue,
+		onFindItem: findValue,		
+		formatItem: function(row) {
+			return "<div style='height:12px'><div style='float:left'>" + row[0] + "</div><div style='float:right;padding-right:5px;'>" + row[1] + "</div></div>";
+		}
+	});
+			
+	function findValue(li) {
+    	if (li == null) return alert("No match!");
+		$auto("#txtSymbol").val(li.extra[0]);
+		$auto("#txtCName").val(li.extra[1]);
+	}	
+
+});
+</script>
+
+
 <center><script src="js/dynamic_block.js" type="text/javascript"></script>
 <div id="header">
 	<input type="hidden" name="operation" id="operation" value="">
@@ -62,15 +138,15 @@ Privacy Policy
 		  
     </div>
 </div>
+
 <div id="header_topbar">
-    <div id="topbar_left">
-    	<form name="usForm" action="universal_search.php" method="post">
+    <div id="topbar_left">  
+    	<form name="usForm" action="universal_search.php" method="post" autocomplete="off">
         <input type="hidden" name="is_us" value="0">
         <input type="hidden" name="currentPage" id="currentPage" value="help">
-        <input type="hidden" name="inputImage" id="inputImage" value="help">
-       
+        <input type="hidden" name="inputImage" id="inputImage" value="help">       
       <div id="search_bar">
-			<div class="generalDIVstyle"><input type="text" name="us_text" id="search_input" value="" style="background: #ffffff url(/en/images/silver/searchbox/searchbox_help.gif) no-repeat top left;">&nbsp;&nbsp;</div>
+    		<div class="generalDIVstyle"><input type="text" name="us_text" id="search_input" value="" style="background: #ffffff url(/en/images/silver/searchbox/searchbox_help.gif) no-repeat top left;" autocomplete="off" class="ac_input">&nbsp;&nbsp;</div>
             <div class="generalDIVstyle"><a href="javascript:document.usForm.submit();"><img src="/en/images/silver/btn_search.png" border="0" width="18" height="18" align="top"></a>&nbsp;&nbsp;</div>
             <div id="checkbox_div"><input type="checkbox" name="om_us" id="om_us" value="1">&nbsp;</div>
             <div class="generaTextlDIVstyle">Search entire site</div>
@@ -289,19 +365,17 @@ Privacy Policy
 		</div>
         </div>
         <div id="cart_bar">
-        	<a href="basket.php">
-                <span class="generaTextlDIVstyle" style="margin-top:4px;"><p>[0&nbsp;Item(s)&nbsp;-&nbsp;US$0.00]&nbsp;&nbsp;
-            View Basket&nbsp;</p></span>
-                <img src="/en/images/silver/btn_basket.gif" border="0" width="18" height="18" align="top" style="margin-top:4px;">
-            
+	       	<a href="basket.php" class="cboxelement">
+                <span class="generaTextlDIVstyle" style="margin-top:4px;"><p>[<span id="item_total">0</span>&nbsp;Item(s)&nbsp;:&nbsp;<span id="total_price">US$0.00</span>]&nbsp;&nbsp;</p></span>
+                <span id="checkout_btn" style="display:none; float:left;"><img src="/en/images/silver/btn_basketcheckout.gif" width="160" height="26" border="0" align="top"></span>
+                <span id="basket_btn" style="display:block; float:left;"><img src="/en/images/silver/btn_basket.gif" border="0" width="18" height="18" align="top" style="margin-top:4px;"></span>
             </a>
         </div>
     </div>
     <div class="cln"></div>
 </div>
 		
-<br>
- 
+<br> 
 
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
@@ -543,6 +617,7 @@ Privacy Policy
 			&nbsp;&gt; <a href="privacy-policy-36-article.html?category_id=203">Privacy Policy</a> 
 		</td>
 		
+		
 		</tr>
 		</tbody></table>
 
@@ -555,14 +630,16 @@ Privacy Policy
 		
 <link rel="stylesheet" href="styles/article_details.css" type="text/css">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<!--<script type="text/javascript" src="scripts/jquery.ui/jquery-1.2.6.js"></script>
-<script type="text/javascript" src="scripts/jquery.ui/ui/jquery.ui.all.js"></script>-->
 <script type="text/javascript" src="scripts/jquery.ui/scrollTo/jquery.scrollTo-min.js"></script>
-  <script src="scripts/lib/prototype.js" type="text/javascript"></script>
-  <!--<script src="scripts/aculous/scriptaculous.js" type="text/javascript"></script>-->
-  <script src="js/article_details.js" type="text/javascript"></script>
+<script type="text/javascript" src="js/article_details.js"></script>
 
-
+<script type="text/javascript">
+    var $ = jQuery.noConflict();           
+    $(document).ready(function(){
+        $("a[href='tell_friend.php?item_id=829&type=articles']").colorbox({width:"580px",height:"570px", iframe:true});
+    });
+</script>
+	
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr> 
@@ -572,7 +649,15 @@ Privacy Policy
 			<td><span class="block_title">Privacy Policy</span></td>
 			<td align="right">
 				<a href="article_print.php?article_id=829"><img src="/images/customblock/icon_print.gif" alt="Printer Friendly Version" width="38" height="16" border="0" align="absmiddle"></a>
-				<a onclick="window.open('tell_friend.php?item_id=829&amp;type=articles','tell_friend','toolbar=no,scrollbars=yes,resizable=no,width=425,height=400');return false;" href="tell_friend.php?item_id=829&amp;type=articles"><img src="/images/customblock/icon_email.gif" title="Tell a Friend" alt="Email a friend" width="57" height="16" border="0" align="absmiddle"></a>  
+				<a href="tell_friend.php?item_id=829&amp;type=articles" class="cboxelement"><img src="/images/customblock/icon_email.gif" alt="Email a friend" width="57" height="16" vspace="2" align="absmiddle" style="border:0"></a>
+				<!--
+				<a onClick="window.open('tell_friend.php?item_id=829&type=articles','tell_friend','toolbar=no,scrollbars=yes,resizable=no,width=425,height=400');return false;" 
+				href="tell_friend.php?item_id=829&type=articles">               
+                </a>
+				-->                               
+
+                
+                
   <!-- AddThis Button BEGIN -->
   <script type="text/javascript">var addthis_options = 'facebook, twitter, digg, delicious, reddit, myspace, google, more';var addthis_brand = "DigitalRev";var addthis_header_color = "#ffffff";
 var addthis_header_background = "#CC0066";</script>
@@ -751,7 +836,7 @@ Hong Kong</td>
 	</td>
 <td class="style1"><div align="right">
 				<a href="article_print.php?article_id=829"><img src="/images/customblock/icon_print.gif" alt="Printer Friendly Version" width="38" height="16" border="0" align="absmiddle"></a>
-				<a onclick="window.open('tell_friend.php?item_id=829&amp;type=articles','tell_friend','toolbar=no,scrollbars=yes,resizable=no,width=425,height=400');return false;" href="tell_friend.php?item_id=829&amp;type=articles"><img src="/images/customblock/icon_email.gif" title="Tell a Friend" alt="Email a friend" width="57" height="16" border="0" align="absmiddle"></a>  
+				<a href="tell_friend.php?item_id=829&amp;type=articles" class="cboxelement"><img src="/images/customblock/icon_email.gif" alt="Email a friend" height="16" vspace="2" align="absmiddle" style="border:0"></a>  
   <!-- AddThis Button BEGIN -->
   <script type="text/javascript">var addthis_options = 'facebook, twitter, digg, delicious, reddit, myspace, google, more';var addthis_brand = "DigitalRev";var addthis_header_color = "#ffffff";
 var addthis_header_background = "#CC0066";</script>
@@ -857,4 +942,4 @@ with your Digitalrev.com account.<p align="center"><a href="http://support.digit
 
 
 
-<div id="ui-datepicker-div"></div></body></html>
+</body></html>
