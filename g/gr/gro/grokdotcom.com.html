@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the grokdotcom.com privacy policy that was archived on 2009-02-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090221145534id_/http%3A//www.futurenowinc.com/privacypolicy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the grokdotcom.com privacy policy that was archived on 2009-08-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090829144642id_/http%3A//www.futurenowinc.com/privacypolicy.htm) for the most accurate reproduction.-->
 
 <html><head><script type="text/javascript">
 	_fni_subnav = null;
@@ -27,73 +27,122 @@
 <link href="/css/ie7.css" type="text/css" rel="stylesheet"/>
 <![endif]-->
 <link href="/images/favicon.ico" type="image/x-icon" rel="Shortcut Icon">
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<!--<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />-->
 <meta http-equiv="Content-Language" content="en-us">
+<meta name="verify-v1" content="bnIgPH1VDg9VIYNW0u42ND4TGBL8PI1fmFV64TfnzHg=">
 <meta name="verify-v1" content="+2PW0YJq36yq8Oai1FN1GZiF/ECL/yhYdIRyDVyvfHU=">
 <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.grokdotcom.com/grokdotcom.rss">
 <link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="http://www.grokdotcom.com/grokdotcom.atom">
 
-<script src="/js/jquery-1.2.6.min.js" type="text/javascript"></script>
-<!--<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.1/jquery.min.js" type="text/javascript"></script>-->
-<script src="/js/ui-global.js" type="text/javascript"></script>
-<script src="/js/ui-custom.js" type="text/javascript"></script>
-<script src="/js/jquery.validate.js" type="text/javascript"></script>
-<script type="text/javascript" src="/js/lightbox/js/jquery.lightbox.packed.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" type="text/javascript"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js" type="text/javascript"></script>
+<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/themes/base/jquery-ui.css" type="text/css" media="screen">
 
+<script src="/js/jquery-validate/jquery.validate.js" type="text/javascript"></script>
+
+<link rel="stylesheet" href="/js/thickbox/thickbox.css" type="text/css" media="screen">
+<script src="/js/thickbox/thickbox.js" type="text/javascript"></script>
+<script src="/js/flowplayer/flowplayer-3.1.1.min.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+function mapsitna() {
+  a = document.getElementById('mapsitna').value;
+  if (isNaN(a) == true) { x = 0; } else { x = parseInt(a) + 1; }
+  document.getElementById('mapsitna').value = x;
+  setTimeout('mapsitna()', 1000);
+}
+</script>
+<!--
+<script src="/js/devnotes.js" type="text/javascript"></script>
+-->
 <script type="text/javascript">
 	$(document).ready(function() {
 		// code here to run when DOM is ready
+		
+		// devNotes
+		/*
+		devNotes_ProjectName = "2009 FNI website";	
+
+		$('#newDevNoteDiv').hide();
+		getDevNoteCount(getDevNoteProjectName(), getDevNotePageName());
+		getDevNotes(getDevNoteProjectName(), getDevNotePageName());
+		
+		$('#createDevNote').click(function() {
+			$('#newDevNoteDiv').toggle();
+		});
+
+		$('#newDevNoteSubmit').click(function() {
+			var a = $('#authorname').val();
+			var n = $('#devnote').val();
+
+			if (a.length > 0 && n.length > 0) {
+				//alert(a + ' has length ' + n.length);
+				$('#newDevNoteDiv').toggle();
+				createDevNote(getDevNoteProjectName(), getDevNotePageName(), a, n);
+			}
+			return false;
+		});
+		*/
+	
+		// make jQueryUI active window tabs work on mouseover
+		$(function() {
+			$("#tabs").tabs({
+				event: 'click'
+			});
+		});
+		
+		
+		// map token
+		mapsitna();
 
 		// lightbox plugin
+		/*
 		$.Lightbox.construct({
 			opacity: 0.65,
 			show_linkback: false
 		});
+		*/
 		
 		// deal with the primary/secondary nav
-		var _fni_pri_nav_array = ['about-us','why-us','services','marketing', 'research'];
-		var _fni_sub_nav_array = { "about-us": [ 
-				{"id": "team-subnav", "text": "The Team/Bios", "href": "/futurenow_team.htm"},
-				{"id": "partners-subnav", "text": "Partners", "href": "/futurenow_partners.htm"},
-				{"id": "press-subnav", "text": "Press", "href": "/futurenow_press.htm"},	
-				{"id": "testimonials-subnav", "text": "Client Success Stories", "href": "/clients.htm"},		
-				{"id": "awards-subnav", "text": "Awards", "href": "/futurenow_awards_memberships.htm"},
-				{"id": "investor-subnav", "text": "Investor Relations", "href": "/investor_relations.htm"}			
+		var _fni_pri_nav_array = ['home','aboutus','clientsuccess', 'resourcecenter'];
+		var _fni_sub_nav_array = { 
+		
+			"home": [
+				{"id": "home", "text": "Home", "href": "/"},
+				{"id": "OTleadgen-subnav", "text": "OnTarget for Lead Gen", "href": "/ontarget_leadgen.htm"},
+				{"id": "OTecommerce-subnav", "text": "OnTarget for eCommerce", "href": "/ontarget_ecommerce.htm"},
+				{"id": "process-subnav", "text": "Process &amp; Expertise", "href": "/process_and_expertise.htm"},
+				{"id": "profservices-subnav", "text": "Professional Services", "href": "/professional_services.htm"}
+
+			], 	
+		
+			"aboutus": [ 
+				{"id": "fni-subnav", "text": "About Us", "href": "/aboutus.htm"},
+				{"id": "team-subnav", "text": "Our Team", "href": "/futurenow_team.htm"},
+				{"id": "partners-subnav", "text": "Our Partners", "href": "/partners.htm"},
+				{"id": "currentpartners-subnav", "text": "Current Partners", "href": "/current_partners.htm"},
+				{"id": "publications-subnav", "text": "Publications", "href": "/publications.htm"}
 			], 
 											 	
-			"why-us": [ 
-				{"id": "workingwith-subnav", "text": "Working with FutureNow", "href": "/working_with_futurenow.htm"},
-				{"id": "testimonials-subnav", "text": "Client Success Stories", "href": "/clients.htm"},
-				{"id": "market-subnav", "text": "Market Better", "href": "/market_better.htm"}			
+			"clientsuccess": [ 
+				{"id": "success-subnav", "text": "Client Success Stories", "href": "/client_success.htm"},			
+				{"id": "whatotherssay-subnav", "text": "What Others Say", "href": "/what_others_say_about_us.htm"}
 			], 	
 										 
-			"services": [ 
-				{"id": "ontarget-subnav", "text": "OnTarget&trade;", "href": "/ontarget_service.htm"},
-				{"id": "persuasion-subnav", "text": "Persuasion Architecture&reg;", "href": "/persuasion_architecture_service.htm"},
-				{"id": "conversion-subnav", "text": "Landing Page Optimization", "href": "/conversion_optimization_service.htm"},
-				{"id": "training-subnav", "text": "Training", "href": "/futurenow_trainings.htm"},
-				{"id": "testimonials-subnav", "text": "Client Success Stories", "href": "/clients.htm"}
-			], 	
 											 
-			"marketing": [ 
-				{"id": "ontarget-subnav", "text": "OnTarget&trade;", "href": "/ontarget_service.htm"},
-				{"id": "persuasion-subnav", "text": "Persuasion Architecture&reg;", "href": "/what_is_persuasion_architecture.htm"},
-				{"id": "roi-subnav", "text": "ROI Calculator", "href": "/roi_calculator.htm"},
-				{"id": "personas-subnav", "text": "Personas", "href": "/personas.htm"},
-				{"id": "testimonials-subnav", "text": "Client Success Stories", "href": "/clients.htm"}
-			], 	
-											 
-			"research": [ 
-				{"id": "whitepapers-subnav", "text": "Whitepapers", "href": "/marketing_whitepapers.htm"},
-				{"id": "webinars-subnav", "text": "Webinars", "href": "/marketing_webinars.htm"},
-				{"id": "video-subnav", "text": "Videos & Podcasts", "href": "/marketing_videos_podcasts.htm"},
-				{"id": "tools-subnav", "text": "Calculators & Tools", "href": "/conversion_calculators_tools.htm"},
-				{"id": "articles-subnav", "text": "Articles & Publications", "href": "/articles_publications.htm"}
+			"resourcecenter": [ 
+				{"id": "whitepapers-subnav", "text": "Whitepapers", "href": "/whitepapers.htm"},
+				{"id": "webinars-subnav", "text": "Webinars", "href": "/webinars.htm"},
+				{"id": "video-subnav", "text": "Videos & Podcasts", "href": "/videos_podcasts.htm"},
+				{"id": "tools-subnav", "text": "Calculators &amp; Tools", "href": "/conversion_calculators_tools.htm"},
+				{"id": "articles-subnav", "text": "Publications", "href": "/articles_publications.htm"},
+				{"id": "training-subnav", "text": "Training", "href": "/training.htm"}
 			] 	
 																 
 		};// END _fni_sub_nav_array									
 		Array.prototype.inArray = function (value, caseSensitive) {
-			for (var i=0; i<this,length; i++) {
+			for (var i=0; i<this.length; i++) {
 				if(caseSensitive) {
 					if (this[i].toLowerCase() == value.toLowerCase()) {
 						return true;
@@ -111,7 +160,7 @@
 		// deal with the nav/sub-nav layout
 		$('.primary-nav').removeClass('selected');
 		$('.sub-nav').children().remove();
-		if ( typeof(_fni_subnav) != "undefined" && _fni_subnav != null ) {
+		if ( typeof(_fni_subnav) != "undefined" && _fni_subnav !== null ) {
 			var navArray = _fni_subnav.split('_');
 			var primary = navArray[0].toLowerCase();
 	
@@ -196,17 +245,17 @@
 
 	});
 </script>
+</head>
 
-
-
-</head><body>
+<body>
 <div id="body-wrapper">
   <div id="inner-wrapper">
     <div id="body-header" class="cf">
-      <div id="body-logo"> <a href="/"><img src="/images/body-logo.gif" width="195" height="55" border="0" alt="Conversion rate specialists: Future Now"></a> </div>
-      <!-- body-logo -->
-      <div class="contact-us">Questions? <span id="company-phone-number">(877) 643-7244</span><a href="/contactus.htm"><img src="/images/btn_contact_us.gif" align="middle" width="110" height="24" border="0" alt=""></a> </div>
-       <!-- <div class="login"><a href="">Account Login</a></div> -->
+      <div id="body-logo"> <a href="/"><img src="/images/body-logo.gif" width="195" height="55" border="0" align="left" alt="Conversion rate specialists: Future Now"></a>
+ </div>
+
+      <div class="contact-us">Questions? <span id="company-phone-number">(877) 643-7244</span><a href="/contactus.htm"><img src="/images/btn_contact_us.gif" align="absmiddle" width="110" height="24" border="0" alt=""></a> </div>
+      <div class="login"><a href="http://ontarget.futurenowinc.com">OnTarget™ Login</a></div>
     </div>
 <!-- end header include -->
  
@@ -219,18 +268,15 @@
 	<div id="nav-wrap">
       <div id="nav">
         <ul class="cf primary-nav">
-            <li><a id="nav-about-us" class="first primary-nav" href="/about_futurenow.htm">&nbsp;&nbsp;&nbsp;About Us</a></li>
-            <li><a id="nav-why-us" class="primary-nav" href="/why_futurenow.htm">&nbsp;&nbsp;&nbsp;&nbsp;Why Us</a></li>
-            <li><a id="nav-services" class="primary-nav" href="/futurenow_services.htm">Our Services</a></li>
-            <li><a id="nav-marketingbetter" class="primary-nav" href="marketing_better_101.htm">&nbsp;Market &nbsp;Better</a></li>
-            <li><a id="nav-research" class="primary-nav" href="/free_tools_resources.htm">&nbsp;&nbsp;Resources<br> &nbsp;&amp; Research</a></li>
-            <li><a id="nav-store" class="primary-nav" href="http://shop.futurenowinc.com">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Store</a></li>
+            <li><a id="nav-home" class="first primary-nav" href="/">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Home</a></li>
+            <li><a id="nav-aboutus" class="primary-nav" href="/aboutus.htm">&nbsp;&nbsp;&nbsp;&nbsp;About Us</a></li>
+            <li><a id="nav-clientsuccess" class="primary-nav" href="/client_success.htm">&nbsp;Client&nbsp;Success</a></li>
+            <li><a id="nav-resourcecenter" class="primary-nav" href="/resource_center.htm">Resource&nbsp;Center</a></li>
+            <li><a id="nav-store" class="primary-nav" href="http://shop.futurenowinc.com">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Store</a></li>
             <li class="blog"><a href="http://www.grokdotcom.com/"><img src="/images/icon_blog.gif" border="0" height="29" width="39" alt="">Visit Our Blog</a></li>
         </ul>  
       </div>
-      <div class="sub-nav">
-      	
-      </div>
+      <div class="sub-nav"></div>
     </div>
 	
 <!-- end nav include -->
@@ -280,41 +326,25 @@ as the subject.</p>
         		</div>
 		<div id="contact">
           <div class="contact-form"><a name="contactus"></a>
-			<form id="contactus" action="/contactusFilter.cfm" method="post" enctype="application/x-www-form-urlencoded">
-				<input type="hidden" name="oid" value="00D300000000bR5">
-				<input type="hidden" name="sfga" value="00D300000000bR5">
-				<input type="hidden" name="ret_URL" value="/contactusfull.htm">
-				<!--  Driving Point -->
-				<input type="hidden" name="00N30000000lAw8" value="FutureNow website">
-				
-				<script type="text/javascript">document.write('<input type="hidden" name="u_ip_address" value="67.202.54.191"/>');</script><input type="hidden" name="u_ip_address" value="67.202.54.191">
+			<form id="contactus" action="/contactusthanks.cfm" method="post" enctype="application/x-www-form-urlencoded">
+			<input type="hidden" name="mapsitna" id="mapsitna" value="My watermelon is juicy">
 <h1 class="contactus">Let Us Help You Achieve Better Results</h1>
 
             <div class="content cf">
               <div class="colA"> <strong>Name:</strong>
-                <div>
-                  <input type="text" name="full_name" id="full_name" class="input" maxlength="200" onfocus="this.select()">
-                </div>
+                <div><input type="text" name="full_name" id="full_name" class="input" maxlength="200" onfocus="this.select()"></div>
                 <strong>Your Company:</strong>
-                <div>
-                  <input type="text" name="company" id="company" class="input" maxlength="200" onfocus="this.select()">
-                </div>
+                <div><input type="text" name="company" id="company" class="input" maxlength="200" onfocus="this.select()"></div>
 				<strong>Your Email:</strong>
-                <div>
-                  <input type="text" name="email" id="email" class="input" maxlength="200" onfocus="this.select()">
-                </div>
+                <div><input type="text" name="email" id="email" class="input" maxlength="200" onfocus="this.select()"></div>
 				<strong>Your Phone:</strong>
-                <div>
-                  <input type="text" name="phone" id="phone" class="input" maxlength="200" onfocus="this.select()">
-                </div>
+                <div><input type="text" name="phone" id="phone" class="input" maxlength="200" onfocus="this.select()"></div>
 				<div><input type="hidden" name="emailORphone" id="emailORphone" value=""></div>
               </div>
               <!-- colA -->
 			  
               <div class="colB"> <strong>Company Website (optional):</strong>
-                <div>
-                  <input type="text" name="URL" id="company_website" class="input" maxlength="250" onfocus="this.select()">
-                </div>
+                <div><input type="text" name="company_website" id="company_website" class="input" maxlength="250" onfocus="this.select()"></div>
 				<br><br>
                 <strong>Comments (optional):</strong>
                 <div class="comments">
@@ -324,20 +354,22 @@ function replaceDoubleQuotesWithSingle() {
 	commentTextArea.value = commentTextArea.value.replace(/\"/g,'\'');
 }
 </script>
-                  <textarea wrap="soft" name="00N30000000lLL5" onblur="replaceDoubleQuotesWithSingle()" rows="4"></textarea>
-                </div>
+                  <textarea wrap="soft" name="comments" id="comments" onblur="replaceDoubleQuotesWithSingle()" rows="4"></textarea></div>
               </div>
-              <!-- colB -->		  
+              <!-- colB -->
+              
             </div>
-            <!-- .contact-form -->
+            <!-- content cf -->		  
             <div class="button">
 			<input name="submitter" id="submitter" type="image" src="/images/btn_pls_contact.gif" class="submit">
 			<br>
 			<a href="/privacypolicy.htm"><img src="/images/img-we-value-your-privacy.gif" width="130" height="19" alt="" border="0"></a>
 			</div>
-			</form>
+			<!-- button -->
+		</form>
+		</div>
+        <!-- .contact-form -->
 
-          </div>
         </div>
         <!-- #contact -->
         
@@ -379,7 +411,7 @@ function replaceDoubleQuotesWithSingle() {
 			<script type="text/javascript">var remtAddr = "<!--#echo var='REMOTE_ADDR'-->";
 			document.write('<input type="hidden" name="u_ip_address" value="'  + remtAddr + '"/>');
 			document.write('<input type="hidden" name="u_signup_url" value="' + document.URL + '"/>');
-			</script><input type="hidden" name="u_ip_address" value="<!--#echo var='REMOTE_ADDR'-->"><input type="hidden" name="u_signup_url" value="https://web.archive.org/web/20090221145534id_/http%3A//www.futurenowinc.com/privacypolicy.htm">
+			</script><input type="hidden" name="u_ip_address" value="<!--#echo var='REMOTE_ADDR'-->"><input type="hidden" name="u_signup_url" value="https://web.archive.org/web/20090829144642id_/http%3A//www.futurenowinc.com/privacypolicy.htm">
 			</form>
           </div>
           <!-- content -->
@@ -388,9 +420,8 @@ function replaceDoubleQuotesWithSingle() {
 		
 		
         <div class="media"><a href="/recession_marketing/?lgid=recession_marketing"><img src="/images/recession-economy-banner.gif" width="220" height="144" border="0" alt=""></a></div>
-        <!--<div class="media"><a href="http://www.benchmarkmysite.com"><img src="/images/int-BMS.jpg" width="220" height="230" border="0" alt=""/></a></div>-->
-<div class="media"><a href="/google_authorized_consultants.htm"><img src="/images/GAAC-logo.gif" width="220" height="182" border="0" alt=""></a></div>
-        <div class="media"><a href="/google_authorized_consultants.htm"><img src="/images/int-google-consultant.gif" width="220" height="182" border="0" alt=""></a></div>
+
+
 
         <div style="background:#f9f9f9; padding: 10px 25px 10px 50px;"><h2 align="center">Recent Clients</h2>
         <div style="margin-left: 20px;">
@@ -409,6 +440,9 @@ function replaceDoubleQuotesWithSingle() {
         </div>
         </div>
 		
+<div class="media"><a href="/google_authorized_consultants.htm"><img src="/images/GAAC-logo.gif" width="220" height="182" border="0" alt=""></a></div>
+        <div class="media"><a href="/google_authorized_consultants.htm"><img src="/images/int-google-consultant.gif" width="220" height="182" border="0" alt=""></a></div>
+
 <br>
 </div>
       <!-- rightCol -->
@@ -423,11 +457,10 @@ function replaceDoubleQuotesWithSingle() {
     <!-- beginfooter include -->
 <br clear="all">
     <div id="footer">
-      <p>©1998-2009 <a href="http://www.futurenowinc.com">Conversion Rate Optimization</a> Specialists: FutureNow -
-        Publishers of GrokDotCom: The <a href="http://www.grokdotcom.com">Conversion Rate Marketing Optimization
-        Blog</a>.</p>
+      <p>©1998-2009 <a href="http://www.futurenowinc.com">FutureNow, Inc. - the Conversion Rate Optimization Specialists</a> —
+        Publishers of GrokDotCom: The <a href="http://www.grokdotcom.com">Conversion Rate Marketing Optimization Blog</a>.</p>
       <p>FutureNow, Inc is a <a href="http://www.google.com/websiteoptimizer">Google Website Optimizer</a> Authorized Consultant, as well as a Google Analytics Authorized Consultant.</p>
-      <p>FutureNow's proudly partners with Alkemi International for conversion optimisation in <a href="http://www.alkemi.com.au/">Australia &amp; New Zealand.</a></p>
+      <p>FutureNow's proudly partners with Alkemi International for <a href="http://www.alkemi.com.au/cas.asp">conversion optimisation</a> and <a href="http://www.alkemi.com.au/">search engine marketing</a> in Australia &amp; New Zealand.</p>
       <p>Your Privacy is Guaranteed. We will never give, lease or sell your personal information. Period! <a href="/privacypolicy.htm">Privacy Policy</a> <a href="/site-map.htm">Site Map</a> <a href="/contactus.htm">Contact Us</a></p>
     </div>
     
@@ -437,7 +470,41 @@ function replaceDoubleQuotesWithSingle() {
   &nbsp; 
 </div>
 <!-- body-wrapper -->
-<!-- end footer include --> 
+<!-- end footer include -->
+
+
+<!-- and now some DevNotes -->
+<!--
+<style type="text/css">
+	div#devNotes blockquote {font-size: 11pt; background-color: #f8ff6d; margin-top: 2px;}
+</style>
+<div id="devNotes">
+<h1>Development Notes and Comments</h1>
+
+<h2 id="devNoteCount" style="display: inline">None</h2>&nbsp;&nbsp;&nbsp;
+<input type="button" value="create new Dev Note" id="createDevNote" />
+<div id="newDevNoteDiv" style="display: inline"><form id="newDevNoteForm" action="">Your Note: <textarea id="devnote" cols="30" rows="2"></textarea>&nbsp;&nbsp;&nbsp;
+Your Name: <select id="authorname">
+<option value="">...who are you? ...</option>
+<option value="Anthony Garcia">Anthony Garcia</option>
+<option value="Bryan Eisenberg">Bryan Eisenberg</option>
+<option value="Jeff Eisenberg">Jeff Eisenberg</option>
+<option value="Jeff Sexton">Jeff Sexton</option>
+<option value="John Quarto-vonTivadar">John Quarto-vonTivadar</option>
+</select>&nbsp;&nbsp;&nbsp;
+<input type="submit" name="newDevNoteSubmit" id="newDevNoteSubmit" value="save"/>
+</form></div>
+
+<ul id="devNoteList" style="list-style-type: square">
+</ul>
+
+<h1>Site Visualization:</h1>
+view <a href="/2009-site.jpg" class="thickbox">site sketch</a> or <a href="http://johnquarto.com/ideas/forcedirectedgraph/graphtest_3.htm?TB_iframe=true&width=900&height=700" title="a force-directed implementation of the site" class="thickbox">view a site graph</a> or <a href="/site-map.htm">the site map</a><br/>
+</div>
+-->
+<!-- done with DevNotes -->
+	
+ 
 	<!-- end footer include -->
 	
 	<!-- bottom metrics include -->
@@ -455,22 +522,9 @@ pageTracker._trackPageview();
 </script>
 <!-- END   google analytics -->
 
-<!-- BEGIN SalesForce -->
-<script type="text/javascript" src="https://lct.salesforce.com/sfga.js"></script>
-<script type="text/javascript">__sfga();</script>
-<!-- END   SalesForce -->
-
 <!-- BEGIN elitics -->
 <script type="text/javascript">
 <!--
-function returnDocName() {
-	var file_name = document.location.href.toLowerCase();
-	var end = (file_name.indexOf("?") == -1) ? file_name.length : file_name.indexOf("?");
-	var returnName = file_name.substring(file_name.lastIndexOf("/")+1, end);
-	if (returnName == '')
-	 returnName = 'index.htm';
-	return returnName;
-}
 function returnPathName() {
 	var path_name = document.location.pathname;
 	var size = path_name.length;
@@ -479,8 +533,10 @@ function returnPathName() {
 	if (path_name.substring(size-1, size) == "/" || path_name == '') path_name = path_name + "index.htm";
 	return path_name;
 }
+if ( typeof( window[ 's_PageName' ] ) == "undefined" ) {
 
-var s_PageName= returnPathName();
+	var s_PageName= returnPathName();
+}
 //-->
 </script>
 <script type="text/javascript" src="/js/ontarget.js"></script>
