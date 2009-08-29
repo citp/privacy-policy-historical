@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenvelope.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605142118id_/http%3A//www.greenvelope.com/main/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenvelope.com privacy policy that was archived on 2009-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090829114935id_/http%3A//greenvelope.com/main/terms) for the most accurate reproduction.*
 
 # Terms & Privacy Policy
 
