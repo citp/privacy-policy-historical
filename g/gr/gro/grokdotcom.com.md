@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grokdotcom.com privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221145534id_/http%3A//www.futurenowinc.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grokdotcom.com privacy policy that was archived on 2009-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090829144642id_/http%3A//www.futurenowinc.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy of Future Now Inc and GrokDotCom
 
@@ -25,10 +25,6 @@ Individuals must affirmatively ask to join our mailing lists using the forms pro
 
 [](https://web.archive.org/recession_marketing/?lgid=recession_marketing)
 
-[](https://web.archive.org/google_authorized_consultants.htm)
-
-[](https://web.archive.org/google_authorized_consultants.htm)
-
 ## Recent Clients
 
 Hewlett-Packard  
@@ -44,6 +40,10 @@ WebEx
 ShoeLine  
 ICE.com  
 
+
+[](https://web.archive.org/google_authorized_consultants.htm)
+
+[](https://web.archive.org/google_authorized_consultants.htm)
 
   
 
