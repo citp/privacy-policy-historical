@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tipjoy.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420135158id_/http%3A//tipjoy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tipjoy.com privacy policy that was archived on 2009-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090830014851id_/http%3A//tipjoy.com/privacy) for the most accurate reproduction.*
 
 # tipjoy | privacy policy
 
-[sign in](https://web.archive.org/login) | [sign up](https://web.archive.org/createAccount) | [make money](https://web.archive.org/banners) | [search](https://web.archive.org/domainsearch)  
+[sign in](https://web.archive.org/login)  
 
 
 [](https://web.archive.org/)
