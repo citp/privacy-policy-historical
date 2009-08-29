@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the listmywebsite.net privacy policy that was archived on 2009-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090629065129id_/http%3A//www.listmywebsite.net/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the listmywebsite.net privacy policy that was archived on 2009-08-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090829204900id_/http%3A//www.listmywebsite.net/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -36,6 +36,62 @@ else
 document.FreeSearch.submit()
 }
 }
+</script>
+<script>
+
+//Pop-under window- By JavaScript Kit
+//Credit notice must stay intact for use
+//Visit http://javascriptkit.com for this script
+
+//specify page to pop-under
+var popunder="http://www.rakhapura.com"
+
+//specify popunder window features
+//set 1 to enable a particular feature, 0 to disable
+var winfeatures="width=800,height=510,scrollbars=1,resizable=1,toolbar=1,location=1,menubar=1,status=1,directories=0"
+
+//Pop-under only once per browser session? (0=no, 1=yes)
+//Specifying 0 will cause popunder to load every time page is loaded
+var once_per_session=0
+
+///No editing beyond here required/////
+
+function get_cookie(Name) {
+  var search = Name + "="
+  var returnvalue = "";
+  if (document.cookie.length > 0) {
+    offset = document.cookie.indexOf(search)
+    if (offset != -1) { // if cookie exists
+      offset += search.length
+      // set index of beginning of value
+      end = document.cookie.indexOf(";", offset);
+      // set index of end of cookie value
+      if (end == -1)
+         end = document.cookie.length;
+      returnvalue=unescape(document.cookie.substring(offset, end))
+      }
+   }
+  return returnvalue;
+}
+
+function loadornot(){
+if (get_cookie('popunder')==''){
+loadpopunder()
+document.cookie="popunder=yes"
+}
+}
+
+function loadpopunder(){
+win2=window.open(popunder,"",winfeatures)
+win2.blur()
+window.focus()
+}
+
+if (once_per_session==0)
+loadpopunder()
+else
+loadornot()
+
 </script>
 </head>
 <body>
@@ -122,7 +178,6 @@ google_ad_height = 70;
 </div>
 
 
-
 <div id="left">
 <h2 class="h2greymidU">NEWS / ANNOUNCEMENTS </h2>
 <p>No new announcements for today. </p></div>
@@ -151,7 +206,7 @@ Relevant Link Exchange Program is a automatic link <br>
       <li><a title="Make ListMyWebsite.Net as your Homepage!" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.listmywebsite.net');" href="#">Make Homepage</a></li>
     </ul>
     </div>
-  </div>
+  
 <div id="text"><script type="text/javascript"><!--
 google_ad_client = "pub-5627967757615141";
 /* LMW Bottom 728x90, created 5/28/09 */
@@ -195,4 +250,4 @@ _uacct = "UA-3738173-1";
 urchinTracker();
 </script>
 
-</body></html>
+</div></body></html>
