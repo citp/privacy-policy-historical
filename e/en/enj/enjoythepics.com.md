@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enjoythepics.com privacy policy that was archived on 2009-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090405075950id_/http%3A//www.enjoythepics.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enjoythepics.com privacy policy that was archived on 2009-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090829172916id_/http%3A//www.enjoythepics.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Welcome to EnjoyThePics, a free Picture upload solution. Simply browse, select, and upload!
 
