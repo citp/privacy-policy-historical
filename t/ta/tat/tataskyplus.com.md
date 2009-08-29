@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tataskyplus.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430042154id_/http%3A//www.tataskyplus.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tataskyplus.com privacy policy that was archived on 2009-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090829061718id_/http%3A//www.tataskyplus.com/privacy-policy.html) for the most accurate reproduction.*
 
 # DTH – Tata Sky DTH in India, Leading Satellite Television Provider in India, DTH services by Tata Sky, Direct-to-home, India
 
