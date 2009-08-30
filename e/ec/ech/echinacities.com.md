@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the echinacities.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601064854id_/http%3A//www.echinacities.com/main/footer/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the echinacities.com privacy policy that was archived on 2009-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090830052059id_/http%3A//www.echinacities.com/main/footer/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
