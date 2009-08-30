@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the teacollection.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011234527id_/http%3A//teacollection.com/site/InfoPgs/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teacollection.com privacy policy that was archived on 2009-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090830060705id_/http%3A//www.teacollection.com/live/static/InfoPgs/help/privacy.htm) for the most accurate reproduction.*
 
-# Tea Collection > help > privacy
-
-|  | [](https://web.archive.org/site/InfoPgs/help.htm)  
----  
-  | 
+# Tea Collection > privacy
 
 ## privacy
 
@@ -19,7 +15,9 @@ This privacy policy will tell you:
 
 
 
-### WHAT INFORMATION DO WE COLLECT? Consumer Information
+### WHAT INFORMATION DO WE COLLECT? 
+
+### Consumer Information
 
 We receive and may keep information voluntarily given to us when you decided to make a purchase from Tea Collection, register on the TeaCollection.com website, sign up for our Stay In Touch emails, or any other time you provide any information about yourself. 
 
@@ -42,7 +40,7 @@ We may receive information about you from other sources such as updated address 
 
 ### Use of Cookies and Other Technology
 
-We want you to be aware that certain online tools exist to help us serve and recognize you when you visit one of our websites. For your convenience, to help us personalize your experience or better serve your needs, we may receive and store certain types of information when you visit our website. You may be familiar with the term "cookies." These cookies may be placed on your computer when you visit our site. Cookies do not provide any personal information but it allows us to understand how users navigate to and around our website, view product pages, access content and make purchases. 
+We want you to be aware that certain online tools exist to help us serve and recognize you when you visit one of our websites. For your convenience, to help us personalize your experience or better serve your needs, we may receive and store certain types of information when you visit our website. You may be familiar with the term "cookies." These cookies may be placed on your computer when you visit our site. Cookies do not provide any personal information but they allow us to understand how users navigate to and around our website, view product pages, access content and make purchases. 
 
 ### ONCE INFORMATION IS RECEIVED, HOW IS IT USED AND/OR SHARED? Within Tea Collection 
 
@@ -66,7 +64,9 @@ In addition, we may use such information to:
 
 ### Outside Tea Collection
 
-We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when (1) permitted or required by law, or (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions, or (3) investigating fraud that has already taken place. In addition, Tea Collection reserves the right to disclose personal information to a third party if a law, regulation, search warrant, subpoena or court order legally requires or authorizes us to do so. In all cases, this information is not provided to these entities for purposes of marketing to a customer. 
+The information that you give us and information about your order may be combined with other personally identifiable information (such as demographic information and past purchase history) available from our records and other sources. This information will be used to make our future marketing efforts more efficient. This information may also be shared with other marketers to bring you offers of interest. If you prefer that we do not share your name and address with other marketers, please email us at [service@teacollection.com](mailto:service@teacollection.com).
+
+We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when (1) permitted or required by law, or (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions, or (3) investigating fraud that has already taken place. In addition, Tea Collection reserves the right to disclose personal information to a third party if a law, regulation, search warrant, subpoena or court order legally requires or authorizes us to do so. 
 
 ### Retention of Personal Information 
 
@@ -80,13 +80,12 @@ Tea Collection also reserves the right to disclose and/or transfer personal info
 
 When you fill out one of our forms or other requests for information, you may choose to receive email that informs you about new merchandise in our stores or online, as well as special offers and promotions. In addition, we may send you emails to help us learn more about you and your preferences. If, after you have shared your email address with us, you decide that you do not want to receive e-mail from us, you have several options to let us know of your preferences:
 
-  * You can go to TeaCollection.com, access your Account profile, uncheck the box marked "Send me e-mails" and follow the instructions 
   * You can stop future emails by clicking on the link shown in the footer of every TeaCollection email and unsubscribe from our list. 
   * Call us at (866) 374-8747 and ask to have your name removed from our emailing list.
 
-As it relates to questions you might have about our Privacy Policy or if you have a concern that Tea Collection may have failed to adhere to this Privacy Policy, please call customer relations at 1-(866) 374-8747, e-mail service@teacollection.com, or write us as follows: 
+As it relates to questions you might have about our Privacy Policy or if you have a concern that Tea Collection may have failed to adhere to this Privacy Policy, please call customer relations at 1-(866) 374-8747, e-mail [service@teacollection.com](mailto:service@teacollection.com), or write us as follows: 
 
-Tea Collectcion  
+Tea Collection  
 c/o Director of Customer Service  
 1 Arkansas St. Studio B  
 San Francisco, CA 94107  
@@ -94,10 +93,14 @@ San Francisco, CA 94107
 
 You may also contact us in any one of the above ways to request access to or correction or update of your personal information.
 
+### HOW TO REMOVE YOUR NAME FROM OUR CATALOG LIST
+
+When you fill out one of our forms or other requests for information, you may start receiving catalogs from us. If you no longer wish to receive a catalog, please email us at [service@teacollection.com](mailto:service@teacollection.com). 
+
 ### MISCELLANEOUS  
 Our Policy on gathering information from and communicating with children online 
 
-We recognize the unique privacy concerns regarding children. Pursuant to COPPA guidelines, we do not knowingly collect personally identifiable information online from children under the age of 13. If a parent or guardian is made aware that a child under the age of 13 has provided us with personally identifiable information without their consent, please contact us at 1-800xxx-xxxx, by e-mail at service@teacollection.com, or at the address listed above, and we will remove the information about the individual from our database. 
+We recognize the unique privacy concerns regarding children. Pursuant to COPPA guidelines, we do not knowingly collect personally identifiable information online from children under the age of 13. If a parent or guardian is made aware that a child under the age of 13 has provided us with personally identifiable information without their consent, please contact us at 1-877-374-8747, by e-mail at [service@teacollection.com](mailto:service@teacollection.com), or at the address listed above, and we will remove the information about the individual from our database. 
 
 ### Our Commitment to Data Security 
 
