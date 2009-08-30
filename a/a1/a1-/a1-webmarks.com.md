@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a1-webmarks.com privacy policy that was archived on 2009-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090322184850id_/http%3A//www.a1-webmarks.com/privacy_policy_en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a1-webmarks.com privacy policy that was archived on 2009-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090830064312id_/http%3A//www.a1-webmarks.com/privacy_policy_en.html) for the most accurate reproduction.*
 
 # A1-Webmarks - Privacy Policy
 
@@ -18,7 +18,7 @@ We do employ cookies to identify users after sign-up and login, or after submitt
 
 You may cancel your account at any time, in which case all data submitted from that account is removed.
 
-We use Google Adsense as advertising service. Google uses cookies and similar techniques to collect data in the ad serving process. However, Google has no access to private data you provide on this site.
+We use Google Adsense as advertising service. Google uses cookies and similar techniques to collect data in the ad serving process. However, Google has no access to private data you provide on this site. Google uses third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
 
 ## Information Usage
 
@@ -33,4 +33,4 @@ We offer links to other web sites. Please note: When you click on links to other
 If you have any further questions about privacy, please contact us by sending an email to: [office@a1-webmarks.com](mailto:office@a1-webmarks.com).
 
   
-[Terms of Use](https://web.archive.org/web/20090322184850id_/http%3A//www.a1-webmarks.com/terms_of_use_en.html)   [Privacy Policy](https://web.archive.org/web/20090322184850id_/http%3A//www.a1-webmarks.com/privacy_policy_en.html)   [Feedback](https://web.archive.org/web/20090322184850id_/http%3A//www.a1-webmarks.com/feedback_en.html)Copyright © 2006-2009 Q-Success
+[Terms of Use](https://web.archive.org/web/20090830064312id_/http%3A//www.a1-webmarks.com/terms_of_use_en.html)   [Privacy Policy](https://web.archive.org/web/20090830064312id_/http%3A//www.a1-webmarks.com/privacy_policy_en.html)   [Feedback](https://web.archive.org/web/20090830064312id_/http%3A//www.a1-webmarks.com/feedback_en.html)Copyright © 2006-2009 Q-Success
