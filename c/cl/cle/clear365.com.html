@@ -1,0 +1,3081 @@
+<!--The following is the downloaded HTML source of the clear365.com privacy policy that was archived on 2009-08-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090830061337id_/http%3A//www.clear365.com/footerPrivacyPolicy.htm) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+		
+		<!-- Begin shared head code -->
+		<link href="http://cache1.clear365.com/css/Clear365.css" rel="stylesheet" type="text/css">
+		<link type="text/css" rel="stylesheet" href="http://cache1.clear365.com/yui/build/container/assets/container.css">				
+		<!--[if lte IE 6]>
+			<link rel="stylesheet" type="text/css" href="css/ie6_fixes.css" />
+		<![endif]-->
+		
+		<!--[if IE 7]>
+			<link rel="stylesheet" type="text/css" href="css/ie7_fixes.css" />
+		<![endif]-->
+		<!-- YUI: JavaScript Dependencies for Tabview: -->  
+		<script type="text/javascript" src="http://cache1.clear365.com/yui/build/yahoo-dom-event/yahoo-dom-event.js"></script>  
+		<script type="text/javascript" src="http://cache1.clear365.com/javascript/AC_RunActiveContent.js"></script>  
+ 		<script type="text/javascript" src="http://cache1.clear365.com/yui/build/element/element-beta-min.js"></script> 
+		<!-- YUI: Source file for TabView -->  
+		<script type="text/javascript" src="http://cache1.clear365.com/yui/build/tabview/tabview-min.js"></script>
+		
+		<!-- Login/Purchase Stuff -->
+		<script language="javascript" type="text/javascript" src="http://cache1.clear365.com/yui/build/yahoo/yahoo.js"></script>
+		<script language="javascript" type="text/javascript" src="http://cache1.clear365.com/yui/build/event/event.js"></script>
+		<script language="javascript" type="text/javascript" src="http://cache1.clear365.com/yui/build/dom/dom.js"></script>
+		<script language="javascript" type="text/javascript" src="http://cache1.clear365.com/yui/build/animation/animation.js"></script>
+		<script language="javascript" type="text/javascript" src="http://cache1.clear365.com/yui/build/container/container.js"></script>
+		<script language="javascript" type="text/javascript" src="http://cache1.clear365.com/javascript/featuredContent.js"></script>
+		<script language="javascript" type="text/javascript" src="http://cache1.clear365.com/javascript/rollovers.js"></script>
+		<script language="javascript" type="text/javascript" src="http://cache1.clear365.com/javascript/formcheck.js"></script>
+		<script language="javascript" type="text/javascript" src="http://cache1.clear365.com/javascript/forms.js"></script>
+		<script language="javascript" type="text/javascript" src="http://cache1.clear365.com/javascript/login.js"></script>		
+		<script language="javascript" type="text/javascript" src="http://cache1.clear365.com/javascript/purchase.js"></script>
+		<script language="javascript" type="text/javascript" src="http://cache1.clear365.com/javascript/purchase_yui.js"></script>			
+		<script language="javascript" type="text/javascript" src="http://cache1.clear365.com/javascript/purchase_init.js"></script>	
+		
+		<!-- Dependency -->
+		<script type="text/javascript" src="http://cache1.clear365.com/yui/build/yahoo/yahoo-min.js"></script>
+
+		<!-- Source file -->
+		<script type="text/javascript" src="http://cache1.clear365.com/yui/build/connection/connection-min.js"></script>
+		
+		<!-- End shared head code  -->
+		<title>Clear365 &gt; Privacy Policy</title>
+
+		<meta name="description" content="">
+		<meta name="keywords" content="">
+
+	</head>
+	<body onload="">
+	
+	<div id="mainContainer">
+	
+	<!-- Begin header -->
+	<!-- YUI: Source file for ImageLoader -->
+<script language="javascript" type="text/javascript" src="http://cache1.clear365.com/yui/build/imageloader/imageloader-min.js"></script>
+
+
+
+
+
+<div id="header" class="float_left">
+		
+		<!-- Begin consolidated header -->
+		<div id="headerLogin">
+			<a href="javascript:signUp();">Sign Up</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="footerHelp.htm">Help</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="javascript:ssoLogin();" onclick="javascript:loginRedirect(document.getElementById('clearMediaLoginForm').redirectFail.value)">Log In</a>
+		</div>		
+		<!-- End consolidated header -->
+		
+		<a href="home.htm"><img alt="Clear 365. Life Goes Online" border="0" class="float_left" height="58" src="http://cache1.clear365.com/images/logoV2.gif" width="180"></a>
+		<div id="headerSearch" class="float_left">
+			<script type="text/javascript" language="javascript">
+				// Function to swap search bar between local, web, and site searches
+				function swapSearch(which)
+				{
+					document.getElementById('localSearch').style.display = 'none';
+					document.getElementById('webSearch').style.display = 'none';
+					document.getElementById('siteSearch').style.display = 'none';
+					document.getElementById(which).style.display = 'block';
+					
+					document.getElementById('webSearchLink').className = '';
+					document.getElementById('localSearchLink').className = '';
+					document.getElementById('siteSearchLink').className = '';
+					document.getElementById(which + 'Link').className = 'current';
+					
+					if (document.getElementById('webSearchBottom')) {
+						document.getElementById('localSearchBottom').style.display = 'none';
+						document.getElementById('webSearchBottom').style.display = 'none';
+						document.getElementById('siteSearchBottom').style.display = 'none';
+						document.getElementById(which + 'Bottom').style.display = 'block';
+					
+						document.getElementById('webSearchLinkBottom').className = '';
+						document.getElementById('localSearchLinkBottom').className = '';
+						document.getElementById('siteSearchLinkBottom').className = '';
+						document.getElementById(which + 'LinkBottom').className = 'current';				
+					}
+				}
+				
+				// Temp functions for Widget Favorites. For Demo Only!
+				function tempShow(obj) {
+					tempHide('widgetFavorites');												// Hide all dropdowns and reset nav links
+					//widgetManDepressed('widgetFavoritesLink',0);
+					tempHide('emailDropdown');
+					//widgetManDepressed('emailDropdownLink',0);
+					tempHide('calendarDropdown');
+					//widgetManDepressed('calendarDropdownLink',0);
+					
+					switch(obj)
+					{
+						case 'widgetFavorites':
+							widgetManDepressed('connectWidgets',1);
+							break;
+						case 'emailDropdown':
+							widgetManDepressed('connectEmail',1);
+							break;
+						case 'calendarDropdown':
+							widgetManDepressed('connectCalendar',1);
+							break;
+						default:
+							break;
+					}
+					
+					document.getElementById(obj).style.display = 'block';
+				}
+				
+				// Hides dropdown
+				function tempHide(obj) {
+					
+					switch(obj)
+					{
+						case 'widgetFavorites':
+							widgetManDepressed('connectWidgets',0);
+							break;
+						case 'emailDropdown':
+							widgetManDepressed('connectEmail',0);
+							break;
+						case 'calendarDropdown':
+							widgetManDepressed('connectCalendar',0);
+							break;
+						default:
+							break;
+					}
+					
+					document.getElementById(obj).style.display = 'none';
+				}
+				
+				function tempHideAll() {
+					tempHide('widgetFavorites');												// Hide all dropdowns and reset nav links
+					tempHide('emailDropdown');
+					tempHide('calendarDropdown');
+				}			
+				
+				function loginClick(){
+					tempHide('wfLogin');
+					if (numOfWidgetFavs==0){
+						tempShow('wfSteps');
+					} else {
+						tempShow('wfWidgets');
+					}
+				} 
+	
+				// Function to set link to over state
+				function widgetManDepressed(aLink,shownOrNot){
+					if (shownOrNot){
+						document.getElementById(aLink).style.backgroundPosition = "0 -47px";
+					} else {
+						document.getElementById(aLink).style.backgroundPosition = "0 0";
+					}
+				}
+				
+				/* Delayed image loader for email/calendar & widget dropdown */
+				var emailNavDropdownGroup = new YAHOO.util.ImageLoader.group('connectEmailLink','click');
+				emailNavDropdownGroup.registerSrcImage('emailDropdownEmailStep1Img','http://cache1.clear365.com/images/email_step_1.gif');			
+				emailNavDropdownGroup.registerSrcImage('emailDropdownEmailStep2Img','http://cache1.clear365.com/images/email_step_2.gif');
+				emailNavDropdownGroup.registerSrcImage('emailDropdownEmailStep3Img','http://cache1.clear365.com/images/email_step_3.gif');
+				emailNavDropdownGroup.registerSrcImage('emailDropdownClearLogoImg','http://cache1.clear365.com/images/clear_logo.png');
+				emailNavDropdownGroup.registerSrcImage('emailDropdownClearwireLogoImg','http://cache1.clear365.com/images/clearwire_logo.gif');
+
+				var calendarNavDropdownGroup = new YAHOO.util.ImageLoader.group('connectCalendarLink','click');
+				calendarNavDropdownGroup.registerSrcImage('calendarDropdownEmailStep1Img','http://cache1.clear365.com/images/email_step_1.gif');			
+				calendarNavDropdownGroup.registerSrcImage('calendarDropdownEmailStep2Img','http://cache1.clear365.com/images/email_step_2.gif');
+				calendarNavDropdownGroup.registerSrcImage('calendarDropdownEmailStep3Img','http://cache1.clear365.com/images/email_step_3.gif');
+				calendarNavDropdownGroup.registerSrcImage('calendarDropdownClearLogoImg','http://cache1.clear365.com/images/clear_logo.png');
+				calendarNavDropdownGroup.registerSrcImage('calendarDropdownClearwireLogoImg','http://cache1.clear365.com/images/clearwire_logo.gif');
+
+				var widgetsNavDropdownGroup = new YAHOO.util.ImageLoader.group('connectWidgetsLink','click');
+				widgetsNavDropdownGroup.registerSrcImage('widgetLogo','http://cache1.clear365.com/images/widgets/365_widgets_logo.gif');
+				widgetsNavDropdownGroup.registerSrcImage('widgetsDropdownWfLoginWidgetSampleImg','http://cache1.clear365.com/images/widgetfavorites/widget-sample.gif');
+				widgetsNavDropdownGroup.registerSrcImage('widgetsDropdownWfLoginWidgetBackImg','http://cache1.clear365.com/images/widgetfavorites/widget-back.gif');
+				widgetsNavDropdownGroup.registerSrcImage('widgetsDropdownWfLoginWidgetsLoginImg','http://cache1.clear365.com/images/widgets/widgets_login.gif');
+				widgetsNavDropdownGroup.registerSrcImage('widgetsDropdownWfLoginWidgetsGetStartedImg','http://cache1.clear365.com/images/widgets/widgets_get_started.gif');
+				widgetsNavDropdownGroup.registerSrcImage('widgetsDropdownWfBusyAjaxLoaderBarImg','http://cache1.clear365.com/images/widgets/ajax-loader-bar.gif');
+				widgetsNavDropdownGroup.registerSrcImage('widgetsDropdownWfStepsWidgetSampleImg','http://cache1.clear365.com/images/widgetfavorites/widget-sample.gif');
+				widgetsNavDropdownGroup.registerSrcImage('widgetsDropdownWfStepsWidgetBackImg','http://cache1.clear365.com/images/widgetfavorites/widget-back.gif');
+				widgetsNavDropdownGroup.registerSrcImage('widgetsDropdownWfStepsWidgetsGetStartedImg','http://cache1.clear365.com/images/widgets/widgets_get_started.gif');
+				widgetsNavDropdownGroup.registerSrcImage('widgetsDropdownWfWidgetsBtnPrevImg','http://cache1.clear365.com/images/widgetfavorites/btn_prev.gif');
+				widgetsNavDropdownGroup.registerSrcImage('widgetsDropdownWfWidgetsBtnNextImg','http://cache1.clear365.com/images/widgetfavorites/btn_next.gif');
+				widgetsNavDropdownGroup.registerSrcImage('widgetsDropdownWfWidgetsViewAllWidgetsImg','http://cache1.clear365.com/images/widgetfavorites/view_all_widgets.gif');
+
+				/*Submit to search when user hits the 'enter' key*/
+				function onPressEnter(event, id){
+					var key = event.which||event.keyCode;
+       
+       				if(key == 13) {
+       					document.getElementById(id).submit();
+       				}
+				}
+			</script>
+			
+			<a href="#" onclick="javascript: swapSearch('webSearch'); return false;" id="webSearchLink" class="current">Web</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#" onclick="javascript: swapSearch('localSearch'); return false;" id="localSearchLink">Local</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#" onclick="javascript: swapSearch('siteSearch'); return false;" id="siteSearchLink">Site</a><br>
+			
+			<!-- Web Search -->
+			<div id="webSearch" style="display: block;">
+			<form action="webSearch" method="POST" name="googleSearchForm">
+				<div class="searchWrapper" style="width: 405px; background: url(images/header/search_web.gif) no-repeat; margin-right: 6px;">
+					<input maxlength="100" name="q" value="" class="searchField" size="45" type="text" style="width: 393px;background-color: transparent;">
+			    </div>
+			    <input type="hidden" value="0" name="start">
+			    <input type="hidden" value="1" name="adpage">
+				<input class="magGlass float_left" type="submit" value="" alt="Submit">
+			</form>
+			</div>
+			
+			<!-- Local Search -->
+			<div id="localSearch" style="display:none;">
+				<form action="localSearch" method="POST" name="localSearchForm" id="localSearchFormTop">
+					<div class="searchWrapper" style="width: 223px; background: url(images/header/search_local_left.gif) no-repeat; margin-right: 9px; ">
+						<input onkeydown="onPressEnter(event, 'localSearchFormTop');" maxlength="100" name="q" class="searchField" size="30" type="text" style="width: 211px;background-color: transparent;" value="Find businesses &amp; places of interest" onclick="this.value = ''">
+						
+					</div>
+					<div class="searchWrapper" style="width: 173px; background: url(images/header/search_local_right.gif) no-repeat; margin-right: 6px;">
+						<input onkeydown="onPressEnter(event,'localSearchFormTop');" maxlength="100" name="near" class="searchField" size="25" type="text" style="width: 161px;background-color: transparent;" value="Zip code or address" onclick="this.value = ''">
+					</div>
+					<input type="hidden" name="start" value="0">
+					<input type="hidden" name="adpage" value="1">					
+					<input class="magGlass float_left" type="submit" value="" alt="Submit" style="float: left;">				
+				</form>
+			</div>
+			
+	
+			<!-- Site Search -->
+			<div id="siteSearch" style="display: none;">
+				<form action="siteSearchResults.htm" method="POST" name="siteSearchForm">
+					<div class="searchWrapper" style="width: 405px; background: url(images/header/search_web.gif) no-repeat; margin-right: 6px;">
+						<input maxlength="100" name="q" value="" class="searchField" size="30" type="text" style="width: 393px;background-color: transparent;">
+					</div>		
+					<input class="magGlass float_left" type="submit" value="" alt="Submit" style="float: left;">
+				</form>
+			</div>
+			<img src="http://cache1.clear365.com/images/powered_by_google_2.gif" width="116" height="19" alt="" border="0" class="float_right" style="margin: 4px 88px 0px 0px;">
+		</div>
+	</div>
+	
+	<div id="headerLinks" class="box float_left">
+		<div id="headerLinksContent">
+			<ul id="connectNav">
+				<li id="connectEmail"><a href="#" id="connectEmailLink" onclick="javascript: tempShow('emailDropdown'); return false;"><span>Email</span></a></li>
+				<li id="connectCalendar"><a href="#" id="connectCalendarLink" onclick="javascript: tempShow('calendarDropdown'); return false;"><span>Calendar</span></a></li>
+				<!--<li id="connectWidgets"><a href="#" onclick="javascript: tempShow('widgetFavorites'); return false;"><span>Widgets</span></a></li>-->
+				<li id="connectWidgets"><a href="javascript:openWidgetFavorites();" id="connectWidgetsLink"><span>Widgets</span></a></li>
+				<li id="connectPlaylists"><a href="javascript:ssoLogin();" onclick="javascript:loginRedirect('musicPlaylist.htm')"><span>Playlists</span></a></li>
+				<li id="connectMyaccount"><a href="javascript:ssoLogin();" onclick="javascript:loginRedirect('myAccountLanding.htm')"><span>My Account</span></a></li>
+				<li id="connectPhotos"><a href="photosLanding.htm"><span>Photos</span></a></li>
+				<li id="connectTv"><a href="entertainmentTvLanding.htm"><span>365 TV</span></a></li>
+				<li id="connectRadio"><a href="#" onclick="openRadioPlayerWindow(''); return false;"><span>365 Radio</span></a></li>
+			</ul>
+		</div>
+		<img class="wrapper-top-left" src="http://cache1.clear365.com/images/box/bg_wrapper-top-left.png">
+		<img class="wrapper-top-right" src="http://cache1.clear365.com/images/box/bg_wrapper-top-right.png">
+		<img class="wrapper-bottom-left" src="http://cache1.clear365.com/images/box/bg_wrapper-bottom-left.png">
+		<img class="wrapper-bottom-right" src="http://cache1.clear365.com/images/box/bg_wrapper-bottom-right.png">
+	</div>
+	
+	<!-- Begin radio caller -->
+	
+
+<script language="JavaScript">
+ function getFlashMovie(movieName) {
+  var isIE = navigator.appName.indexOf("Microsoft") != -1;
+  return (isIE) ? window[movieName] : document[movieName];
+ }
+ 
+ 
+ function openRadioPlayerWindow(str) {
+       var wnd = window.open('http://www.customchannels.net/player_pages/clearwire/player/radiopagev2.php','mywin','width=364,height=321,toolbar=no,resizable=no,scrollbars=no');
+ return str + " received";
+ }
+</script>
+ 
+<script language="javascript">AC_FL_RunContent = 0;</script>
+<script src="http://cache1.clear365.com/javascript/AC_RunActiveContent.js" language="javascript"></script>
+<script language="JavaScript" type="text/javascript">
+// -----------------------------------------------------------------------------
+// Globals
+// Major version of Flash required
+var requiredMajorVersion = 9;
+// Minor version of Flash required
+var requiredMinorVersion = 0;
+// Revision of Flash required
+var requiredRevision = 124;
+// -----------------------------------------------------------------------------
+</script>
+
+<!--url's used in the movie-->
+
+<!--text used in the movie-->
+<!--
+Channel Name
+Artist Name
+-->
+<!-- saved from url=(0013)about:internet -->
+<script language="javascript">
+ function getFlashMovie(movieName) {
+  var isIE = navigator.appName.indexOf("Microsoft") != -1;
+  return (isIE) ? window[movieName] : document[movieName];
+ }
+  
+function IsAppInstalled() {
+ 	ret='';
+	ret=getFlashMovie("radiocaller_wowza").IsAppInstalled();
+	return ret;
+}
+
+function checklauncheragain() {
+ 	ret='';
+	ret=getFlashMovie("radiocaller_wowza").checkagain();
+	return ret;
+}
+
+  
+ 
+ if (AC_FL_RunContent == 0) {
+	//alert("This page requires AC_RunActiveContent.js.");
+ } else {
+	var hasRightVersion = DetectFlashVer(requiredMajorVersion, requiredMinorVersion, requiredRevision);
+	if(hasRightVersion) { 
+		AC_FL_RunContent(
+			'codebase', 'http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0',
+			'width', '1',
+			'height', '1',
+			'src', 'flash/radiocaller_wowza',
+			'quality', 'high',
+			'pluginspage', 'http://www.macromedia.com/go/getflashplayer',
+			'align', 'middle',
+			'play', 'true',
+			'loop', 'true',
+			'scale', 'showall',
+			'wmode', 'transparent',
+			'FlashVars', 'airurl=flash%2Fair.swf&url=http%3A%2F%2Fwww.customchannels.net%2Fplayer_pages%2Fclearwire%2Fplayer%2F&iurl=http%3A//q.clear365.com/Installer/installer/installerV1/distrib/Clear365DM.air&pubID=6CA0E3DCB611C4058D663E3EA3FC398DE73E10F8.1&appID=com.clearmedia.DownloadManager',
+			'devicefont', 'false',
+			'id', 'radiocaller',
+			'bgcolor', '#ffffff',
+			'name', 'radiocaller_wowza',
+			'menu', 'true',
+			'allowFullScreen', 'false',
+			'allowScriptAccess','always',
+			'movie', 'flash/radiocaller_wowza',
+			'salign', ''
+		); //end AC code
+	} 
+
+ }
+</script>
+<noscript>
+ <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" width="1" height="1" id="radiocaller" align="middle">
+ <param name="allowScriptAccess" value="always" />
+  <PARAM NAME=FlashVars VALUE="url=http%3A%2F%2Fwww.customchannels.net%2Fplayer_pages%2Fclearwire%2Fplayer%2F"/>
+ <param name="allowFullScreen" value="false" />
+ <param name="movie" value="http://www.customchannels.net/player_pages/clearwire/player/radiocaller_wowza.swf" FlashVars="url=http%3A%2F%2Fwww.customchannels.net%2Fplayer_pages%2Fclearwire%2Fplayer%2F" /><param name="quality" value="high" /><param name="wmode" value="transparent" /><param name="bgcolor" value="#ffffff" /> <embed src="http://www.customchannels.net/player_pages/clearwire/player/radiocaller_wowza.swf" quality="high" wmode="transparent" bgcolor="#ffffff" width="1" height="1" name="radiocaller" align="middle" allowScriptAccess="always" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+ </object>
+</noscript>
+	<!-- End radio caller -->	
+
+	<div class="clearBoth"></div>
+	
+	<!-- Begin widget favorites -->
+	<script language="javascript" type="text/javascript" src="http://cache1.clear365.com/javascript/widgetfavorites.js"></script>
+
+<script language="javascript">
+function openWidgetFavorites()
+{
+	tempHideAll();
+	
+	widgetManDepressed('connectWidgets',1);
+	
+	YAHOO.CLWRWidget.Favorites.showElement('widgetFavorites');
+
+	
+}
+</script>
+
+<style>
+#widgetManConnect { width:100px;height:22px;text-align:center; }
+#wfBusy {
+	position: relative;
+	width: 980px;
+	height: 235px;
+	padding-top: 36px;
+	display: none;
+}
+.widgetslots {
+	width: 980px;
+	height:180px;
+}
+
+.widgetsItem {
+	float: left;
+	margin: 0px 6px 0px 6px;
+	width:284px;
+	height:185px;
+	padding-left: 11px;
+	padding-right: 11px;
+}
+
+
+.inputSize { font-size:10px; }
+.player { border:0px; text-align:center; position: absolute; width:284px; height:252px; left: 0px; z-index: 1;}
+.nameInput { display:none; margin: 0 auto; }
+.slot {  border:0px solid #aaaaaa; background-color:transparent; color:#aaaaaa; text-align:center; position: absolute; width:284px; height:252px; z-index: 0;}
+.target { border:0px solid #aaaaaa; background-color:transparent; text-align:center; position: absolute; width:284px; height:252px; }
+.handle { float: left; cursor: move;}
+#.close { position:absolute; left: 41px; top: 192px; }
+.close { position:relative; }
+
+
+
+.widgetManCols { display: inline; margin-left:5px; margin-right:30px; text-align:left;}
+.container { border:0px; width: 285px; height: 212px; overflow: hidden;}
+/*#managerListLinks { width:100%; padding:5px; line-height: 20px;}
+	#managerListLinks h4 {
+		float: left;
+		padding-left: 10px;
+	}
+	#managerListLinks input,
+	#managerListLinks img {
+		vertical-align: middle;
+	}
+	#managerListLinks .widgetManCols {
+		float: right;
+	}
+	*/
+#widgetManagerCanvas { width:100%; padding:10px; margin-bottom:10px;}
+#subCanvasArea_thumb {display:none;position:absolute;left:170px;width:561px;height:185px;xbackground:url(http://cache1.clear365.com/images/widgets/thumbs/backdrop-narrow.jpg) no-repeat;}
+#subCanvasArea_list {/*position:absolute;left:232px;width:561px;height:185px;*/ }
+.widgetManHead {font-size:12px;font-weight:bold;display:inline;color: #7bc143;}
+.widgetManThumb {
+	margin-top:10px;
+	margin-left:20px;
+	padding:5px;
+	text-align:center;
+	width:75px;
+	position:absolute;
+	font-size:10px;
+	color:white;
+	font-weight:bold;
+	}
+.widgetManThumb a:link, 
+	.widgetManThumb a:active,
+	.widgetManThumb a:visited,
+	.widgetManThumb a:hover 
+	{color: #5BD6FF; text-decoration: none; z-index:0; }
+#listingModule {
+	color:white;
+	margin-left:3px;
+	margin-top:10px;
+	border:1px solid #6a6a6a; 
+	border-left: 0;
+	border-right: 0;
+	width:456px;
+}
+#listingModule .bd {overflow:auto;height:160px;}
+#listingModule_c.hide-scrollbars .yui-resize .bd { overflow: hidden; }
+#listingModule_c.show-scrollbars .yui-resize .bd { overflow: auto; }
+#listingModule_c.show-scrollbars .underlay { overflow: visible;}
+#categoryModule {margin-left:5px;padding-top: 6px;width:205px;height:180px;}
+#categoryModule .bd {overflow:auto;width: 185px;height:153px; }
+#categoryModule_c.hide-scrollbars .yui-resize .bd { overflow: hidden; }
+#categoryModule_c.show-scrollbars .yui-resize .bd { overflow: auto; }
+#categoryModule_c.show-scrollbars .underlay { overflow: visible;}
+.widgetListItem {margin-top:1px;width:426px;padding:1px; border-bottom:1px solid #6a6a6a;}
+.widgetListTitle {width:388px;float:left;cursor:pointer; font-weight: bold;}
+.widgetListAdd {display:inline;width:50px;}
+
+div.widgetListItem:hover {
+	color: #7bc143;
+}
+a.widgetListAdd:link, 
+	a.widgetListAdd:active,
+	a.widgetListAdd:visited,
+	a.widgetListAdd:hover 
+	{color: #7bc143; font-weight:bold; text-decoration: none; z-index:0; }
+
+.widgetPreview  {
+		display:none;
+		margin-right:0px;
+		width:205px;
+		color:#FFFFFF;
+		height:180px;
+	}
+.widgetManCat {
+	text-decoration:none;
+	color: #e1e1e1;
+	font-weight:bold;
+	cursor:pointer;
+}
+
+.previewStyle {
+	text-align:center;
+	height:170px;
+	padding-top: 10px;
+	background:url(http://cache1.clear365.com/images/widgets/thumbs/previewDrop.gif) no-repeat;
+	}
+
+.widgetLinksFooter{
+	position:absolute; 
+	left: 0px; 
+	top: 216px;
+	width: 284px;
+	color: #898989;
+	font-size: 12px;
+}
+
+.widgetLinksFooter a:link, .widgetLinksFooter a:visited {
+	color: #898989;
+}
+
+.widgetFooterLeft {
+	position: absolute;
+	left: 36px;
+	top: 0px;
+}
+
+.widgetFooterRight {
+	position: absolute;
+	right: 36px;
+	top: 0px;
+}
+
+#customWidgetPanel {
+	display: none;
+}
+
+</style>
+<!--[if IE 7]>
+
+<style>
+.player {
+	margin: 0;
+	padding: 0;
+}
+.container {
+	margin: 0;
+	padding: 0;
+}
+.widgetLinksFooter{
+	width: 269px;
+}
+.widgetslots {
+	margin: 0;
+	padding: 0;
+	position: absolute;
+	left: -128px;
+}
+</style>
+<![endif]-->
+
+<!--[if IE 6]>
+<style type="text/css">
+	.widgetslots {
+		width: 1000px;
+	}
+	#.close { position:relative; left: 0; top: 0; }
+	.close { position:relative; }
+	.widgetListTitle {width:248px;float:left;cursor:pointer; }
+	.widgetListAdd {display:inline;width:50px; float: right; text-align:right;}
+</style>
+<![endif]-->
+
+	<div id="customWidgetPanel"><!-- Not displayed on page load, can be anywhere, begin login HTML -->
+		<div class="close">
+			<a href="javascript:YAHOO.CLWRWidget.CustomWidget.panel.hide();widgetManDepressed('connectWidgets',0);"><img src="http://cache1.clear365.com/images/cells/photobucket_close.gif"></a>
+		</div>
+		<div class="hd" id="customWidgetAddHeader"></div>
+		<div class="bd clearfix" id="customWidgetAddBody" style="text-align:center"></div>
+		<div class="ft"><div class="clearfix">&nbsp;</div></div>
+	</div>
+
+		
+	<div id="widgetFavorites" class="clearfix">
+	
+		<a onclick="tempHide('widgetFavorites');" href="javascript:YAHOO.CLWRWidget.Favorites.hideElement('widgetFavorites');" id="widgetHelp"><span>CLOSE</span></a>
+
+		<img alt="365 Widgets" border="0" height="22" id="widgetLogo" width="143">
+
+		
+		<div id="wfLogin">
+			<div style="width: 278px; padding-left: 18px; padding-right: 21px; padding-top: 22px; float: left; font-weight: bold;">
+				<h3>What is a Widget?</h3><br>
+				Experience real time content updates with Clear365 Widgets.
+				<br><br>
+				Select a widget from our library or create your own from any of our web categories - Local, News, Sports, Entertainment and Music. Enjoy easy one-click access by selecting the Widget Favorites button.
+				<br><br>
+				Publish to your favorite social network and share Clear365 Widgets with your friends! 
+			</div>
+				
+			<div style="width: 311px; padding-left: 27px; padding-top: 22px; float: left; height: 226px;">
+				<h3 class="gray">Add, Create, Customize</h3><br>
+				<img id="widgetsDropdownWfLoginWidgetSampleImg">
+			</div>
+				
+			<div style="width: 220px; padding-left: 21px; padding-top: 22px; float: left;">
+				<h3 class="gray">Share with Friends</h3><br>
+				<img id="widgetsDropdownWfLoginWidgetBackImg">
+			</div>
+				
+			<div class="widgetLogin">
+				<a href="#" onclick="javascript:ssoLogin();"><img id="widgetsDropdownWfLoginWidgetsLoginImg" width="76" height="26" alt="" border="0"></a>
+				&nbsp;
+				<a href="widgetsLanding.htm"><img id="widgetsDropdownWfLoginWidgetsGetStartedImg" width="129" height="26" alt="" border="0"></a>
+			</div>
+		</div>
+		
+
+	
+
+		<div id="wfBusy">
+			<img id="widgetsDropdownWfBusyAjaxLoaderBarImg" style="position:absolute; top: 156px; left: 380px;">
+		</div>
+
+		<div id="wfSteps">
+		
+			<div style="width: 278px; padding-left: 18px; padding-right: 21px; padding-top: 22px; float: left;; font-weight: bold;">
+				<h3>What is a Widget?</h3><br>
+				Experience real time content updates with Clear365 Widgets.
+				<br><br>
+				Select a widget from our library or create your own from any of our web categories - Local, News, Sports, Entertainment and Music. Enjoy easy one-click access by selecting the Widget Favorites button.
+				<br><br>
+				Publish to your favorite social network and share Clear365 Widgets with your friends! 
+			</div>
+				
+			<div style="width: 311px; padding-left: 27px; padding-top: 22px; float: left; height: 226px;">
+				<h3 class="gray">Add, Create, Customize</h3><br>
+				<img id="widgetsDropdownWfStepsWidgetSampleImg">
+			</div>
+				
+			<div style="width: 220px; padding-left: 21px; padding-top: 22px; float: left;">
+				<h3 class="gray">Share with Friends</h3><br>
+				<img id="widgetsDropdownWfStepsWidgetBackImg">
+			</div>
+				
+			<div class="widgetLogin">
+				<a href="/widgetsLanding.htm"><img id="widgetsDropdownWfStepsWidgetsGetStartedImg" width="129" height="26" alt="" border="0"></a>
+			</div>
+			
+		</div>
+		
+		
+		<div id="wfWidgets">
+
+			<h3>Widget Favorites <span style="color: #6A6A6A;">|</span> <span style="font-size: 13px;">Page</span> <span id="wfPaging" style="font-size: 13px;"></span></h3>
+			
+			<a href="javascript:YAHOO.CLWRWidget.Favorites.wfScroller(-1);" id="prev"><img id="widgetsDropdownWfWidgetsBtnPrevImg" alt="" width="29" height="29"></a>
+			
+			<ul id="wfWidgetList"></ul>			
+			
+			<a href="javascript:YAHOO.CLWRWidget.Favorites.wfScroller(1);" id="next"><img id="widgetsDropdownWfWidgetsBtnNextImg" alt="" width="29" height="29"></a>
+			
+			<div class="widgetLogin">
+			<a href="/widgetsLanding.htm" id="widgetLoginButton"><img alt="View All Widgets" border="0" height="26" id="widgetsDropdownWfWidgetsViewAllWidgetsImg" width="166"></a>
+			</div>
+			
+		</div>
+		
+	</div>	
+	<!-- End widget favorites  -->
+		
+	<!-- Begin email drop down -->
+	<div id="emailDropdown" class="clearfix">	
+		<a href="javascript:tempHide('emailDropdown');" id="emailClose"><span>CLOSE</span></a>		
+		<div id="emailLogin">
+			<div style="width: 302px; padding-left: 31px; padding-right: 43px; padding-top: 22px; float: left;">
+			<h3>Access your email in 3 easy steps</h3><br>
+			<table width="300" cellspacing="0" cellpadding="0" border="0">
+				<tbody><tr>
+					<td valign="middle" width="40"><img id="emailDropdownEmailStep1Img" width="35" height="35" alt="1" border="0"></td><td valign="middle">Make sure you have a valid email address</td>
+				</tr>
+				<tr>
+					<td colspan="2"><br></td>
+				</tr>
+				<tr>
+					<td valign="middle" width="40"><img id="emailDropdownEmailStep2Img" width="35" height="35" alt="2" border="0"></td><td valign="middle">Log in to Clear365 with your Clear or<br>Clearwire account username and password</td>
+				</tr>
+				<tr>
+					<td colspan="2"><br></td>
+				</tr>
+				<tr>
+					<td valign="middle" width="40"><img id="emailDropdownEmailStep3Img" width="35" height="35" alt="3" border="0"></td><td valign="middle">Click the Email button and link your email<br>to Clear365</td>
+				</tr>
+			</tbody></table>
+			<br><br>
+			That's it! Visit Clear365.com, click the Email button and you are good to go!
+			</div>
+			
+			<div style="width: 287px; padding-left: 42px; padding-top: 22px; float: left;">
+			<h3>Clear Customers</h3><br><br>
+			<a href="https://www.clear.com/my_account/signin.php" onclick="tempHideAll();" target="_blank">Set up your email address here &gt;</a>
+			<br><br><br><br>
+			Already know your email address?<br><br>
+			<a href="javascript:ssoLogin();">Log in to Clear365 now &gt;</a>
+			<br><br><br>
+			<img id="emailDropdownClearLogoImg" class="pngfix" width="155" height="49" alt="" border="0">
+			</div>
+			
+			<div style="width: 232px; padding-left: 42px; padding-top: 22px; float: left;">
+			<h3>Clearwire Customers</h3><br><br>
+			<a href="https://www.clearwire.com/my_account/signin.php" onclick="tempHideAll();" target="_blank">Set up your email address here &gt;</a>
+			<br><br><br><br>
+			Already know your email address?<br><br>
+			<a href="javascript:ssoLogin();">Log in to Clear365 now &gt;</a>
+			<br><br><br>
+			<img id="emailDropdownClearwireLogoImg" width="170" height="38" alt="" border="0">
+			</div>
+		</div>		
+	</div>
+	<!-- End email drop down -->
+	
+	<!-- Begin calendar drop down -->
+	<div id="calendarDropdown" class="clearfix">	
+		<a href="javascript:tempHide('calendarDropdown');" id="calendarClose"><span>CLOSE</span></a>		
+		<div id="calendarLogin">
+			<div style="width: 302px; padding-left: 31px; padding-right: 43px; padding-top: 22px; float: left;">
+			<h3>Access your email in 3 easy steps</h3><br>
+			<table width="300" cellspacing="0" cellpadding="0" border="0">
+				<tbody><tr>
+					<td valign="middle" width="40"><img id="calendarDropdownEmailStep1Img" width="35" height="35" alt="1" border="0"></td><td valign="middle">Make sure you have a valid email address</td>
+				</tr>
+				<tr>
+					<td colspan="2"><br></td>
+				</tr>
+				<tr>
+					<td valign="middle" width="40"><img id="calendarDropdownEmailStep2Img" width="35" height="35" alt="2" border="0"></td><td valign="middle">Log in to Clear365 with your Clear or<br>Clearwire account username and password</td>
+				</tr>
+				<tr>
+					<td colspan="2"><br></td>
+				</tr>
+				<tr>
+					<td valign="middle" width="40"><img id="calendarDropdownEmailStep3Img" width="35" height="35" alt="3" border="0"></td><td valign="middle">Click the Email button and link your email<br>to Clear365</td>
+				</tr>
+			</tbody></table>
+			<br><br>
+			That's it! Visit Clear365.com, click the Email button and you are good to go!
+			</div>
+			
+			<div style="width: 287px; padding-left: 42px; padding-top: 22px; float: left;">
+			<h3>Clear Customers</h3><br><br>
+			<a href="https://www.clear.com/my_account/signin.php" onclick="tempHideAll();" target="_blank">Set up your email address here &gt;</a>
+			<br><br><br><br>
+			Already know your email address?<br><br>
+			<a href="javascript:ssoLogin();">Log in to Clear365 now &gt;</a>
+			<br><br><br>
+			<img id="calendarDropdownClearLogoImg" class="pngfix" width="155" height="49" alt="" border="0">
+			</div>
+			
+			<div style="width: 232px; padding-left: 42px; padding-top: 22px; float: left;">
+			<h3>Clearwire Customers</h3><br><br>
+			<a href="https://www.clearwire.com/my_account/signin.php" onclick="tempHideAll();" target="_blank">Set up your email address here &gt;</a>
+			<br><br><br><br>
+			Already know your email address?<br><br>
+			<a href="javascript:ssoLogin();">Log in to Clear365 now &gt;</a>
+			<br><br><br>
+			<img id="calendarDropdownClearwireLogoImg" width="170" height="38" alt="" border="0">
+			</div>		
+		</div>		
+	</div>
+	<!-- End calendar drop down -->	
+	
+	<div class="clearBoth"></div>
+	
+
+	<!-- End header -->
+	
+	<!-- Begin nav -->
+		<ul id="nav">
+		<li id="navLocal" class="navItem"><a href="localLanding.htm"><span>Local</span></a></li>
+		<li id="navNews" class="navItem"><a href="newsLanding.htm"><span>News</span></a></li>
+		<li id="navEntertainment" class="navItem"><a href="entertainmentLanding.htm"><span>Entertainment</span></a></li>
+		<li id="navSports" class="navItem"><a href="sportsLanding.htm"><span>Sports</span></a></li>
+		<li id="navMusic" class="navItem"><a href="musicLanding.htm"><span>Music</span></a></li>
+		<li id="navGames" class="navItem" style="width: 160px;"><a href="gamesLanding.htm" style="width: 160px;"><span>Games</span></a></li>
+	</ul>
+	<!-- End nav -->
+	
+		<div id="subtemplateLeftColumn">
+				<!-- Subtemplate I. Begin subnav -->
+				<!-- include file="footerNav.jsp" -->
+				<!-- End subnav -->
+				
+				<!-- Begin left column banners -->
+				<div id="subtemplateBanner_160">
+					<!-- Subtemplate N -->
+					<div class="banner">	
+
+	 
+	   		
+	   			<!--JavaScript Tag // Tag for network 5123: Clearwire // Website: Clear365 // Page: home // Placement: home_160x600 (271386) // created at: Jun 10, 2008 1:08:31 PM-->
+<script language="javascript"><!--
+document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5123/271418/0/154/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=[group];misc='+new Date().getTime()+'"></scri'+'pt>');
+//-->
+</script><script language="javascript1.1" src="http://adserver.adtechus.com/addyn/3.0/5123/271418/0/154/ADTECH;loc=100;target=_blank;key=key1+key2+key3+key4;grp=[group];misc=1582522752003"></script><noscript><a href="http://adserver.adtechus.com/adlink/3.0/5123/271386/0/154/ADTECH;loc=300;key=key1+key2+key3+key4;grp=[group]" target="_blank"><img src="http://adserver.adtechus.com/adserv/3.0/5123/271386/0/154/ADTECH;loc=300;key=key1+key2+key3+key4;grp=[group]" border="0" width="160" height="600"></a></noscript>
+<!-- End of JavaScript Tag -->
+	   		 
+				
+	   	</div>
+				</div>
+				<!-- End left column banners -->
+		</div>
+	
+	<div id="subtemplateRightColumn"><!-- Begin Right Column -->
+
+		<!-- Footer pages -->
+		<!-- Parameter: cssConfigClassSubTemplateTitleBar = titlebarFooter -->
+		<!-- Parameter: titleBarText = "Privacy Policy" -->
+		<div class="subtemplateCell3wide box">
+			
+			
+			
+			<!-- Parameter: cssConfigClassSubTemplateTitleBar = titlebarFooter --> 
+			<div class="subtemplateCellHeader titlebarFooter"> 
+				<!-- Parameter: titleBarText = "Privacy Policy" --> 
+				<h4><span style="font-size: 13px;">PRIVACY POLICY</span></h4> 
+			</div>
+			
+			<div class="privacyPolicyContainer"> <div class="privacyPolicyBody" style="font-size: 12px;"> <div class="header">LAST MODIFIED: May 1, 2009</div> <br> The policies below are applicable to this web site ("Clear365") maintained by Clearmedia, LLC., its affiliates and successors (collectively "Clearmedia" or "we", "us", or "our"). We have established this Clearmedia Security and Privacy Policy ("Privacy Policy") to let you know the kinds of personal information we may gather during your visit to Clear365, why we gather your information, what we use your personal information for, when we might disclose your personal information, and how you can manage your personal information. <br><br> Please be advised that the practices described in this Privacy Policy apply only to information gathered through Clear365 and, where applicable, through Clearmedia's customer service department in connection with Clear365. <br><br> <div class="header">Your Acceptance of the Terms</div> <br> <i>This Privacy Policy.</i> By visiting Clear365, you accept the practices described in this Privacy Policy. If you do not agree to the terms of this Privacy Policy, without modification, please do not use Clear365. <br><br> <i>Clearwire's Privacy Policy.</i> This Privacy Policy incorporates by reference the Clearwire privacy policy located <a href="http://www.clearwire.com/company/legal/privacy.htm" target="_blank">here</a>. Read carefully this privacy policy. You agree to comply with it by using Clear365. To the extent of any conflict between the Clearwire privacy policy and this Privacy Policy, this Privacy Policy will control. <br><br> <div class="header">Information We Collect</div> <br> <i>User Communications.</i> We offer a number of services that do not require you to register for an account or provide any personal information to us. To provide our full range of services, we may collect the following types of information. When you sign up for a Clear365 account or promotion that requires registration, we ask you for personal information (such as your name, email address and an account password). For certain services, such as when you purchase content on Clear365, we also request credit card or other payment account information which we maintain in encrypted form on reasonably secure servers. We may combine the information you submit under your account with information from other Clear365 services or third parties to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information. <br><br> <i>Location-Based Information.</i> If you use our WiMAX or other wireless services with a mobile wireless device, personal digital assistant, laptop, personal communications system, or other personal communications devices ("Personal Communications Devices"), our network will know the general location of Personal Communication Devices because a periodic signal is sent from the Personal Communication Device to the nearest radio tower or cell site. Our network will also know when your Personal Communications Device is on as well as when and how you are using the Personal Communications Device. Clearmedia collects this information to provide you with location-based services and applications such as providing local content based on the user's location and providing the location of your Personal Communications Device to emergency service providers when you dial 9-1-1. We do not retain location information longer than necessary to provide the service. Please review the terms and conditions for each service for additional information about how the location-based information may be used. <br><br> <i>Cookies.</i> When you visit Clear365, we send one or more cookies, a small file containing a string of characters, to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Some Clear365 features and services, however, may not function properly if cookies are disabled. <br><br> <i>Log Information.</i> When you use Clear365, our servers automatically record information that your browser sends whenever you visit. Such information may include information such as your Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. <br><br> <i>Web Beacons.</i> Clear365 may contain tiny electronic images known as web beacons. We may use web beacons to assist us in delivering cookies on Clear365 and to allow us to count users who have visited those pages. We may include web beacons in promotional email messages to determine whether messages have been opened and acted upon. <br><br> <i>Affiliated Sites.</i> We offer some of our services in connection with third-party web sites. Information collected on these other web sites is subject to the privacy policies of those sites. For example, when you use a Google service via this site, you will be subject to the Google privacy policy applicable to that service. You can learn more about Google's privacy policies <a href="http://www.google.com/privacy.html" target="_blank">here</a>. <br><br> <i>Other Sites.</i> This Privacy Policy applies only to web sites and services that are owned and operated by Clearmedia. We do not exercise control over the sites that may be linked to from Clear365 including sites that may be linked to from widgets offered on Clear365. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. We recommend that you use common sense when you navigate the Internet, that you be aware of when you are leaving Clear365, and that you read the privacy policy for each web site you visit. <br><br> <div class="header">Children's Online Privacy Protection Act</div> <br> Clear365 does not target, and is not targeted for minors under 13 and Clear365 will not knowingly collect personal information from such minors. You should be aware, however, that wireless devices and services purchased for family use may be used by minors without our knowledge. In this situation, any information collected from the usage will appear to be the personal information of the actual adult subscriber and treated as such under this Privacy Policy. <br><br> <div class="header">Use of Information Collected</div> <br> Clearmedia uses the information collected from Clear365 to perform the services for which such data was collected. For example, if you register as a subscriber, we use the information you provide to administer your account. If you sign up for an email notification about a new product or service, we will use the contact information you provided to send you the notification. We also use the information you provide us for internal marketing purposes and for administration of Clear365. We may also use the information that you provide us for: <ul><br> <li>Providing our products and services to users, including the display of customized content and advertising;</li> <li>Auditing, research and analysis to maintain, protect and improve our services;</li> <li>Ensuring the technical functioning of our network; and </li> <li>Developing new services.</li> </ul><br> Clearmedia processes personal information on our servers in the United States and in other countries. In some cases, we process personal information on a server outside of your country. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our advertising partners. <br><br> <div class="header">Location-based Information &amp; Services</div> <br> Clearmedia provides wireless location-based services that use your wireless network location. When you use our WiMAX service (or other wireless service) for a session, the network knows the Personal Communication Device's general location. Such location-based data is regularly updated to reflect the current location where you are using a Personal Communications Device. We may use location-based information to better tailor advertisements and services to your interests and general geography. You should be mindful that your wireless network location is necessary to be able to provide these services, and that it is at your discretion to subscribe to location-based services. <br><br> If you let others use location-based services to which you've subscribed as the account holder (or if you let others use your Personal Communication Device if such Personal Communication Device has location tracking capabilities), it is your responsibility to inform that user that his or her location may be tracked.<br><br> <div class="header">Choices for Personal Information</div> <br> When you sign up for a particular service that requires registration, we ask you to provide personal information. If we use this information in a manner different from the purpose for which it was collected, then we will ask for your consent prior to such use. <br><br> If we propose to use personal information for any purposes other than those described in this Privacy Policy, we will offer you an effective way to opt out of the use of personal information for those other purposes. We will not collect or use your personal information for purposes other than those described in this Privacy Policy unless we have obtained your prior consent. <br><br> You can decline to submit personal information to any of our services, in which case Clear365 may not be able to provide those services to you. <br><br> <div class="header">Information Sharing</div> <br> We only share personal information with other companies or individuals outside of Clearmedia in the following limited circumstances: <ul><br> <li>We have your consent. We require opt-in consent for the sharing of any personally identifiable information.</li> <li>We provide such information to our subsidiaries, successors, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.</li> <li>We have a good-faith belief that access, use, preservation or disclosure of such information is reasonably necessary to: (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of Clearmedia, its users or the public as required or permitted by law.</li> <li>If Clearmedia becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, Clearmedia will transfer information to the new entity, which will provide notice and an opportunity to opt out if personal information becomes subject to a materially different privacy policy.</li> <li>We may share with third parties certain aggregated and anonymous data such as the number of users who searched for a particular term, for example, or how many users clicked on a particular advertisement. Such information does not identify you individually.</li> </ul><br> Please contact us at the address below for any additional questions about the management or use of personal data - Clearwire Legal Department, 4400 Carillon Point, Kirkland, WA 98033
+<br><br> <div class="header">Information Security</div> <br> We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data. <br><br> We restrict access to personal information to Clearmedia employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. <br><br> <div class="header">Data Integrity</div> <br> Clearmedia processes personal information only for the purposes for which it was collected and in accordance with this Privacy Policy. We review our data-collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary. <br><br> <div class="header">Accessing and Updating Personal Information</div> <br> With regard to Clear365 services, we make good-faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our services have different procedures to access, correct or delete users' personal information. <br><br> <i>Notice to California Residents - Your California Privacy Rights:</i> If you are a California resident, you have the right to receive: a) information identifying any third party company (ies) to whom Clearmedia may have disclosed, within the past year, personal information pertaining to you and your family for that company?s direct marketing purposes; and b) a description of the categories of personal information disclosed. To obtain such information, please email your request to <a href="mailto:help@clear365.com" target="_blank">help@clear365.com</a>. <br><br> <div class="header">Information Retention and Disposal</div> <br> We retain personal information for as long as we have a business need for it or as applicable laws or regulations or government orders require us to retain it. When we dispose of personal information, we use reasonable procedures to erase or render personal information unreadable after disposal. <br><br> <div class="header">Enforcement</div> <br> Clearmedia regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or Clearmedia's treatment of personal information by contacting us at Clearwire Legal Department, 4400 Carillon Point, Kirkland, WA 98033. When we receive formal written complaints at this address, it is Clearmedia's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Clearmedia and an individual. <br><br>  <div class="header">Changes to this Policy</div>  <br>  We reserve the right, at our sole discretion, to change, modify, add, or delete this Privacy Policy at any time without further notice to you.  Your continued use of the services of Clear365 after any such changes means you agree to the new Privacy Policy.  If we make any material changes to this Privacy Policy, we will post the changes on this page and will change the date at the top of this page.  If you do not agree to accept any future Privacy Policy, do not continue to access or otherwise use the Services or Clear365.  It is your responsibility to regularly check this page to determine if there have been changes to this Privacy Policy and to ensure your acceptance. <br><br>  If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time at <a href="mailto:help@clear365.com" target="_blank">help@clear365.com</a>. <br><br>  © 2009 CLEARMEDIA <br><br>  </div>  </div>
+		
+			<img class="wrapper-top-left" src="http://cache1.clear365.com/images/box/bg_wrapper-top-left.png">
+			<img class="wrapper-top-right" src="http://cache1.clear365.com/images/box/bg_wrapper-top-right.png">
+			<img class="wrapper-bottom-left" src="http://cache1.clear365.com/images/box/bg_wrapper-bottom-left.png">
+			<img class="wrapper-bottom-right" src="http://cache1.clear365.com/images/box/bg_wrapper-bottom-right.png">		</div>
+		<!-- End footer -->
+	
+	</div><!-- End right column -->
+	
+	<!-- Begin footer -->
+	
+
+	<div id="footer">
+		<a href="footerHelp.htm">HELP</a> | <a href="footerPrivacyPolicy.htm">PRIVACY POLICY</a> | <a href="footerTermsOfUse.htm">TERMS OF USE</a> | <a href="footerAboutClearwire.htm">ABOUT CLEAR</a> | <a href="http://www.clear.com/blog" target="_blank">CLEAR BLOG</a> | <a href="footerContact.htm">CONTACT</a> <img alt="" border="0" height="1" src="http://cache1.clear365.com/images/spacer.gif" width="69">© 2009 CLEARMEDIA 
+	</div>
+
+	<div id="debug" style="float: left;"></div>
+<!-- SiteCatalyst code version: H.16.
+Copyright 1997-2008 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script type="text/javascript" src="http://cache1.clear365.com/javascript/s_code.js"></script>
+<script type="text/javascript">//<![CDATA[
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+//Get the URL page name if the page name isn't specified.
+var sPath = window.location.pathname;
+var sPage = sPath.substring(sPath.lastIndexOf('/') + 1);
+
+function SetListener() {
+	var hrefs,i,currentTab;
+	hrefs=document.getElementsByTagName('a');
+	for(i in hrefs)
+	{
+		if(/#tab./.test(hrefs[i]))
+		{
+			XBrowserAddHandler(hrefs[i], 'click', clickedTab.invoke, false );
+		}
+		if(/\+PLAYLIST/.test(hrefs[i].innerHTML))
+		{
+			XBrowserAddHandler(hrefs[i], 'click', PlayListClick, false );
+		}
+		if(/PREVIEW/.test(hrefs[i].innerHTML))
+		{
+			XBrowserAddHandler(hrefs[i], 'click', PreviewClick, false );
+		}
+		if(/BUY/.test(hrefs[i].innerHTML))
+		{
+			XBrowserAddHandler(hrefs[i], 'click', BuyClick, false );
+		}
+		if(/LISTEN/.test(hrefs[i].innerHTML))
+		{
+			XBrowserAddHandler(hrefs[i], 'click', ListenRingtone, false );
+		}
+		if(/browserCheck./.test(hrefs[i].onclick))
+		{
+			XBrowserAddHandler(hrefs[i], 'click', GameClick, false );
+		}
+	}
+}
+
+function ListenRingtone(e){
+	var LinkClicked = e.target ? e.target : e.srcElement;
+	s.linkTrackVars='prop17';
+	s.linkTrackEvents='None';
+	s.prop17 = "Listen|" + LinkClicked.parentNode.childNodes[3].innerHTML + "|" + LinkClicked.parentNode.childNodes[1].innerHTML;
+	s.tl(LinkClicked,'o',"Listen|" + LinkClicked.parentNode.childNodes[3].innerHTML + "|" + LinkClicked.parentNode.childNodes[1].innerHTML);
+}
+
+function BuyClick(e) {
+	//This just sets the eVar value so that it can be subrelated to the SKU in the revenue report if the purchase is successful.
+	//This does not track the actual purchase event, this is done in "/javascript/purchase_yui.jsp".
+	var LinkClicked = e.target ? e.target : e.srcElement;
+	var OnClickParms = String(LinkClicked.onclick);
+		
+	//Check if Track
+	if (OnClickParms.indexOf("Track_") > -1) {
+
+		OnClickParms = OnClickParms.substring(OnClickParms.indexOf("Track_")+6);
+		var TrackID = OnClickParms.substring(0,OnClickParms.indexOf(";")-1);
+		var Artist = (document.getElementById('songArtist_Track_' + TrackID).childNodes[0].innerHTML).replace(';','');
+		var TrackName = document.getElementById('mediaTitle_Track_' + TrackID).innerHTML;
+		s.linkTrackVars='eVar3';
+		s.linkTrackEvents='None';
+		s.eVar3 = "Song|" + Artist + "|" + TrackName;
+		s.tl(LinkClicked,'o',"Song|" + Artist + "|" + TrackName);
+	}
+
+	//Check if album
+	if (OnClickParms.indexOf("Album_") > -1) {
+
+		OnClickParms = OnClickParms.substring(OnClickParms.indexOf("Album_")+6);
+		var TrackID = OnClickParms.substring(0,OnClickParms.indexOf(";")-1);
+		var Artist = (document.getElementById('songArtist_Album_' + TrackID).childNodes[0].innerHTML).replace(';','');
+		var AlbumName = document.getElementById('mediaTitle_Album_' + TrackID).innerHTML;
+		s.linkTrackVars='eVar3';
+		s.linkTrackEvents='None';
+		s.eVar3 = "Album|" + Artist + "|" + AlbumName;
+		s.tl(LinkClicked,'o',"Album|" + Artist + "|" + AlbumName);
+	}
+
+	var ExitLink = LinkClicked.href;
+
+	//Check if Ringtone
+	//Ringtone buy clicks will not generate any direct revenue as the purchase is made on an external site.
+	//Therefore this value is placed into a prop.
+	if (ExitLink.indexOf("thumbplay.com") > -1) {
+		s.linkTrackVars='prop17';
+		s.linkTrackEvents='None';
+		s.prop17 = "Buy|" + LinkClicked.parentNode.childNodes[3].innerHTML + "|" + LinkClicked.parentNode.childNodes[1].innerHTML;
+		s.tl(LinkClicked,'o',"Buy|" + LinkClicked.parentNode.childNodes[3].innerHTML + "|" + LinkClicked.parentNode.childNodes[1].innerHTML);
+	}
+}
+
+function GameClick(e){
+	var LinkClicked = e.target ? e.target : e.srcElement;
+	var OnClickParms = String(LinkClicked.onclick);
+	OnClickParms = OnClickParms.substring(OnClickParms.indexOf("browserCheck(")+14);
+	var Game = UCWords(OnClickParms.substring(0,OnClickParms.indexOf(",")-1));
+	s.linkTrackVars='prop16';
+	s.linkTrackEvents='None';
+	s.prop16 = Game;
+	s.tl(LinkClicked,'o',"Games|Online Games|" + Game);
+}
+
+function PlayListClick(e){
+	var LinkClicked = e.target ? e.target : e.srcElement;
+	var OnClickParms = String(LinkClicked.onclick);
+	OnClickParms = OnClickParms.substring(OnClickParms.indexOf("Track_")+6);
+	var TrackID = OnClickParms.substring(0,OnClickParms.indexOf(";")-1);
+	var Artist = (document.getElementById('songArtist_Track_' + TrackID).childNodes[0].innerHTML).replace(';','');
+	var TrackName = document.getElementById('mediaTitle_Track_' + TrackID).innerHTML;
+	s.linkTrackVars='prop14,eVar1,events';
+	s.linkTrackEvents='event2';
+	s.prop14 = "Preview|" + Artist + "|" + TrackName;
+	s.eVar1 = s.prop14;
+	s.events = 'event2';
+	s.tl(LinkClicked,'o',"Playlist|" + Artist + "|" + TrackName);
+}
+
+function PreviewClick(e){
+	var LinkClicked = e.target ? e.target : e.srcElement;
+	var OnClickParms = String(LinkClicked.href);
+	OnClickParms = OnClickParms.substring(OnClickParms.indexOf("Track_")+6);
+	var TrackID = OnClickParms.substring(0,OnClickParms.indexOf(";")-2);
+	var Artist = (document.getElementById('songArtist_Track_' + TrackID).childNodes[0].innerHTML).replace(';','');
+	var TrackName = document.getElementById('mediaTitle_Track_' + TrackID).innerHTML;
+	s.linkTrackVars='prop7,eVar1,events';
+	s.linkTrackEvents='event1';
+	s.prop7 = "Preview|" + Artist + "|" + TrackName;
+	s.eVar1 = s.prop7;
+	s.events = 'event1';
+	s.tl(LinkClicked,'o',"Preview|" + Artist + "|" + TrackName);
+}
+
+function TabClick(scope) {
+	this.innerHTML=scope;
+	var me=this;
+	this.invoke=function (evt) {
+		var LinkClicked = evt.target ? evt.target : evt.srcElement;
+		var TabName = UCWords((LinkClicked.innerHTML).replace(/^\s\s*/, '').replace(/\s\s*$/, ''));
+		TabName = TabName.replace("&amp;","and");
+		switch(me.innerHTML) {
+		case 'micro':
+			s.linkTrackVars='prop15';
+			s.linkTrackEvents='None';
+			s.prop15 = s.pageName + "|" +TabName;
+			s.tl(LinkClicked,'o',s.pageName + "|" +TabName);
+			break;
+		case 'macro':
+			s.prop4=TabName;
+			s.hier1 = s.pageName + "|" + s.prop4;
+			void(s.t());
+			break;
+		}
+	}
+}
+
+function GetSportsType(QueryParam){
+
+	switch (QueryParam) {
+	case "sportsNavBaseball_Z":
+		return "Sports|Baseball|";
+		break
+	case "sportsNavNFL_Z":
+		return "Sports|NFL|";
+		break
+	case "sportsNavCFB_Z":
+		return "Sports|College Football|";
+		break
+	case "sportsNavRacing_Z":
+		return "Sports|Racing|";
+		break
+	case "sportsNavGolf_Z":
+		return "Sports|Golf|";
+		break
+	case "sportsNavNBA_Z":
+		return "Sports|NBA|";
+		break
+	case "sportsNavTennis_Z":
+		return "Sports|Tennis|";
+		break
+	case "sportsNavNHL_Z":
+		return "Sports|NHL|";
+		break
+	case "sportsNavCBB_Z":
+		return "Sports|College Basketball|";
+		break
+	}
+}
+
+function GetSportsStatsModType(QueryParam){
+
+	var Mod = QueryParam.split('_');
+	//Sports Section
+	switch (Mod[1]) {
+	case "mlb":
+		return "Sports|Baseball|" + UCWords(Mod[2]);
+		break
+
+	case "nfl":
+		return "Sports|NFL|" + UCWords(Mod[2]);
+		break
+
+	case "cfb":
+		return "Sports|College Football|" + UCWords(Mod[2]);
+		break
+
+	case "racing":
+		return "Sports|Racing|" + UCWords(Mod[2]);
+		break
+
+	case "glf":
+		return "Sports|Golf|" + UCWords(Mod[2]);
+		break
+
+	case "nba":
+		return "Sports|NBA|" + UCWords(Mod[2]);
+		break
+
+	case "tennis":
+		return "Sports|Tennis|" + UCWords(Mod[2]);
+		break
+
+	case "nhl":
+		return "Sports|NHL|" + UCWords(Mod[2]);
+		break
+
+	case "cbb":
+		return "Sports|College Basketball|" + UCWords(Mod[2]);
+		break
+	}
+
+
+}
+
+
+if ("" == "") {
+	switch (sPage) {
+	case "newsStoryDetail.htm":
+		s.pageName = "News|Article";
+		s.prop4 = "";
+		var clickedTab=new TabClick('micro');
+		SetListener();
+		break
+
+	case "entertainmentStoryDetail.htm":
+		s.pageName = "Entertainment|Article";
+		s.prop4 = "";
+		var clickedTab=new TabClick('micro');
+		SetListener();
+		break
+
+	case "sportsStoryDetail.htm":
+		s.pageName = "Sports|Article";
+		s.prop4 = "";
+		var clickedTab=new TabClick('micro');
+		SetListener();
+		break
+	}
+
+	if ((sPage == "") || (sPage == "home.htm")) {
+		s.pageName = "Clear365 Homepage";
+	}
+} else {
+
+	//Set Variables per Page
+	// -= Local =-
+	var LocalArea = "|";
+	switch ("") {
+	//Home
+	case "localLanding":
+		s.pageName = "Local|Home|" + LocalArea;
+		break
+	//News
+	case "localNewsLanding":
+		s.pageName = "Local|News|" + LocalArea;
+		break
+	//Weather
+	case "localWeather":
+		s.pageName = "Local|Weather|" + LocalArea;
+		break
+	//TV
+	case "localTvListings":
+		s.pageName = "Local|TV Listings|" + LocalArea;
+		break
+	}
+
+	// -= News =-
+	switch ("") {
+	//Home
+	case "newsLanding":
+		s.pageName = "News|Home";
+		var clickedTab=new TabClick('micro');
+		SetListener();
+		break
+
+	case "newsGlobal":
+		s.pageName = "News|Global";
+		var clickedTab=new TabClick('micro');
+		SetListener();
+		break
+
+	case "newsUsa":
+		s.pageName = "News|US News";
+		var clickedTab=new TabClick('micro');
+		SetListener();
+		break
+
+	case "newsBusiness":
+		s.pageName = "News|Business";
+		var clickedTab=new TabClick('micro');
+		SetListener();
+		break
+
+	case "newsBusiness":
+		s.pageName = "News|Business";
+		var clickedTab=new TabClick('micro');
+		SetListener();
+		break
+
+	case "newsEntertainment":
+		s.pageName = "News|Entertainment";
+		var clickedTab=new TabClick('micro');
+		SetListener();
+		break
+
+	case "newsSports":
+		s.pageName = "News|Sports";
+		var clickedTab=new TabClick('micro');
+		SetListener();
+		break
+
+	case "newsElectionsNews":
+		s.pageName = "News|Election 2008";
+		break
+
+	case "newsPolitics":
+		s.pageName = "News|Politics";
+		var clickedTab=new TabClick('micro');
+		SetListener();
+		break
+
+	case "newsScienceTech":
+		s.pageName = "News|Science and Tech";
+		var clickedTab=new TabClick('micro');
+		SetListener();
+		break
+
+	case "newsLiving":
+		s.pageName = "News|Living";
+		var clickedTab=new TabClick('micro');
+		SetListener();
+		break
+
+	}
+
+	// -= Entertainment =-
+	switch ("") {
+	//Home
+	case "entertainmentLanding":
+		s.pageName = "Entertainment|Home";
+		break
+
+	case "entertainmentNewsLanding":
+		s.pageName = "Entertainment|News";
+		var clickedTab=new TabClick('macro');
+		SetListener();
+		break
+
+	case "entertainmentTvLanding":
+		s.pageName = "Entertainment|TV";
+		break
+
+	case "entertainmentTvListings":
+		s.pageName = "Entertainment|TV Listings";
+		break
+
+	case "entertainmentTvShowSearch":
+		s.pageName = "Entertainment|TV Browse All";
+		break
+
+	case "entertainmentTvShowLanding":
+		s.pageName = "Entertainment|TV Show";
+		s.prop4 = ""
+		if ("" != '') {
+			s.prop4 = s.prop4 + "|Season " + "";
+		}
+
+		if ("" != "") {
+			s.prop4 = s.prop4 + "|Episode " + "";
+		}
+		s.prop4 = s.prop4 + "|" + "";
+		var clickedTab=new TabClick('micro');
+		SetListener();
+		break		
+
+	}
+
+	// -= Sports =-
+	switch ("") {
+	//Home
+	case "sportsLanding":
+		s.pageName = "Sports|Home";
+		break
+
+	case "sportsMLBLanding":
+		s.pageName = "Sports|Baseball";
+		break
+
+	case "sportsNFLLanding":
+		s.pageName = "Sports|NFL";
+		break
+
+	case "sportsNFLLanding":
+		s.pageName = "Sports|NFL";
+		break
+
+	case "sportsStatsListings":
+		s.pageName = GetSportsStatsModType(s.getQueryParam('mod'));
+		break
+
+	case "sportsLandingBlogs":
+		s.pageName = GetSportsType(s.getQueryParam('nav')) + "Blogs";
+		break
+
+	case "sportsAllNews":
+		s.pageName = GetSportsType(s.getQueryParam('nav')) + "News";
+		break
+
+	}
+
+	// -= Music =-
+	switch ("") {
+	//Home
+	case "musicLanding":
+		s.pageName = "Music|Home";
+		break
+	//Search
+	case "musicAllMusicArtistSearch":
+		s.pageName = "Music|Search Artists";
+		//Check page
+		if (s.getQueryParam("q") != "") {
+			if (s.getQueryParam("page") != "") {
+				s.prop4="'" + s.getQueryParam("q") + "' Page " + eval(parseFloat(s.getQueryParam("page"))+1);
+			} else {
+				s.prop4="'" + s.getQueryParam("q") + "'" + " Page 1";
+			}
+			s.pageName = "Music|Search Artists|Search Results";
+		} 
+
+		if ("" != "") {
+			if (s.getQueryParam("page") != "") {
+				s.prop4="'" + "" + "' Page " + eval(parseFloat(s.getQueryParam("page"))+1);
+			} else {
+				s.prop4="'" + "" + "'" + " Page 1";
+			}
+			s.pageName = "Music|Search Artists|Search Results";
+		} 
+		break
+	//Album Review
+	case "musicArtist":
+		s.pageName = "Music|Artist";
+		if ("" != "") {
+			s.prop4="";
+		} else {
+			s.prop4 = "No Biography Available";
+		}
+		break
+	//Browse All Music
+	case "musicAllMusic":
+		s.pageName = "Music|All Music";
+		//Check page
+		if (s.getQueryParam("q") != "") {
+			if (s.getQueryParam("page") != "") {
+				s.prop4="'" + s.getQueryParam("q") + "' Page " + eval(parseFloat(s.getQueryParam("page"))+1);
+			} else {
+				s.prop4="'" + s.getQueryParam("q") + "'" + " Page 1";
+			}
+			s.pageName = "Music|All Music|Search Results";
+		} 
+
+		//Letter by Genre
+
+		if (("" != "") && ("" == "") && ("" != "")){
+			if (s.getQueryParam("page") != "") {
+				s.prop4="'' Page " + eval(parseFloat(s.getQueryParam("page"))+1);
+			} else {
+				s.prop4="'' Page 1";
+			}
+			s.pageName = "Music|All Music|Search Results|";
+		} 
+
+		if ("" != "") {
+			if (s.getQueryParam("page") != "") {
+				s.prop4="'" + "" + "' Page " + eval(parseFloat(s.getQueryParam("page"))+1);
+			} else {
+				s.prop4="'" + "" + "'" + " Page 1";
+				//Capture search term
+				var SearchTerm = "";
+				if ("" == 0) {
+					s.prop5=s.eVar6="null:" + SearchTerm.toLowerCase();
+					s.prop6="zero";
+				} else {
+					s.prop5=s.eVar6=SearchTerm.toLowerCase();
+					s.prop6="";
+				}
+				if ("" != "") {
+					s.prop5 = s.prop5 + " ()";
+					s.eVar6 = s.prop5;
+				}
+			}
+			s.pageName = "Music|All Music|Search Results";
+
+			if ("" != "") {
+				s.pageName = s.pageName + "|";
+			}
+		}
+		break
+	//Artist Biography
+	case "musicArtistBio":
+		s.pageName = "Music|Biography";
+		s.prop4="";
+		break
+	//Artist Albums
+	case "musicArtistAlbums":
+		s.pageName = "Music|Artist Albums";
+		s.prop4=s.getQueryParam("name");
+		break
+	//Genre
+	case "musicGenre":
+		var Genre = s.getQueryParam("genre").substr(0, 1).toUpperCase() + s.getQueryParam("genre").substr(1).toLowerCase();
+		s.pageName = "Music|All Music|" + Genre;
+		break
+	//Charts
+	case "musicCharts":
+		s.pageName = "Music|Charts";
+		SetListener();
+		break
+
+	//Charts - Top Singles
+	case "musicChartsSingles":
+		s.pageName = "Music|Charts|Top Singles";
+		break
+
+	//Charts - Top Albums
+	case "musicChartsAlbums":
+		s.pageName = "Music|Charts|Top Albums";
+		break
+
+	//Charts - Top Ringtones
+	case "musicChartsRingtones":
+		s.pageName = "Music|Charts|Top Ringtones";
+		break
+
+	//Music - Best Sellers
+	case "musicBestSellers":
+		s.pageName = "Music|Best Sellers";
+		//Check page
+		if (s.getQueryParam("albumPage") != "") {
+			s.prop4="Album Page " + eval(parseFloat(s.getQueryParam("albumPage"))+1) + "|";
+		} else {
+			s.prop4="Album Page 1|";
+		}
+		if (s.getQueryParam("singlesPage") != "") {
+			s.prop4=s.prop4 + " Singles Page " + eval(parseFloat(s.getQueryParam("singlesPage"))+1);
+		} else {
+			s.prop4=s.prop4 + " Singles Page 1";
+		}
+		SetListener();
+		break
+
+	//Album 
+	case "musicAlbum":
+		s.pageName = "Music|Album";
+		var Artist = "";
+		s.prop4=Artist.replace(';','')+"|";
+		break
+	//Album Review
+	case "musicAlbumReview":
+		s.pageName = "Music|Review";
+		s.prop4=  "|";
+		break
+
+	//New Releases
+	case "musicNewReleases":
+		s.pageName = "Music|New Releases";
+		var clickedTab=new TabClick('macro');
+		SetListener();
+		break
+
+	//Artists
+	case "musicArtistLanding":
+		s.pageName = "Music|Artists";
+		var clickedTab=new TabClick('micro');
+		SetListener();
+		break
+
+	//Music News
+	case "musicNews":
+		s.pageName = "Music|News";
+		var clickedTab=new TabClick('micro');
+		SetListener();
+		break
+
+	case "musicStoryDetail":
+		s.pageName = "Music|News|Article";
+		s.prop4=  "";
+		break
+	}
+
+	// -= Games =-
+
+	switch ("") {
+	//Home
+	case "gamesLanding":
+		s.pageName = "Games|Home";
+		SetListener();
+		break
+
+	case "gamesFeatured":
+		s.pageName = "Games|Featured Games";
+		SetListener();
+		break
+
+	case "gamesOnline":
+		s.pageName = "Games|Online Games";
+		SetListener();
+		break
+
+	case "gamesGenre":
+		s.pageName = "Games|Online Games|" + s.getQueryParam('genre');
+		SetListener();
+		break
+	
+	}
+
+}
+
+if (typeof(s.pageName) == "undefined") {
+	s.pageName = "";
+} 
+
+s.server=""		
+s.channel= "".substr(0, 1).toUpperCase() + "".substr(1).toLowerCase();
+
+if (typeof(s.prop4) == "undefined") {
+	s.hier1 = s.pageName;
+} else {
+	s.hier1 = s.pageName + "|" + s.prop4;
+}
+
+//Login Type
+var LoginType = "";
+switch("") {
+case '1':
+	LoginType = "Clearwire";
+	break;
+case '2':
+	LoginType = "Clear365";
+	break;
+case '6':
+	LoginType = "Clear";
+	break;
+}
+
+	
+	
+		s.prop12="Not Logged In"
+	
+
+s.prop11=s.prop12+"|"+s.pageName;
+s.eVar5 = s.prop12;
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+s.t()//]]></script>
+<!-- End SiteCatalyst code version: H.16. -->
+ 
+	<!-- End footer -->
+
+	
+	<div class="clearBoth"></div>
+	
+	</div><!-- Closes mainContainer -->
+	
+	<!-- Begin LogIn & Purchase Path -->
+	<!-- Preview player -->
+<script language="javascript">
+	if (AC_FL_RunContent == 0) {
+		//alert("This page requires AC_RunActiveContent.js.");
+	} else {
+		AC_FL_RunContent(
+			'codebase', 'http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0',
+			'width', '1',
+			'height', '1',
+			'src', 'flash/previewWidget',
+			'quality', 'high',
+			'pluginspage', 'http://www.macromedia.com/go/getflashplayer',
+			'align', 'middle',
+			'play', 'true',
+			'loop', 'true',
+			'scale', 'showall',
+			'wmode', 'window',
+			'devicefont', 'false',
+			'id', 'previewWidget',
+			'bgcolor', '#ffffff',
+			'name', 'previewWidget',
+			'menu', 'true',
+			'allowFullScreen', 'false',
+			'allowScriptAccess','sameDomain',
+			'movie', 'flash/previewWidget',
+			'salign', ''
+			); //end AC code
+	}
+</script>
+<noscript>
+	<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" width="550" height="400" id="previewWidget" align="middle">
+	<param name="allowScriptAccess" value="sameDomain" />
+	<param name="allowFullScreen" value="false" />
+	<param name="movie" value="flash/previewWidget.swf" /><param name="quality" value="high" /><param name="bgcolor" value="#ffffff" />	<embed src="flash/previewWidget.swf" quality="high" bgcolor="#ffffff" width="550" height="400" name="previewWidget" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+	</object>
+</noscript>
+
+<script>
+	/* Delayed image loader for login yui panel */
+	var clearMediaLoginGroup = new YAHOO.util.ImageLoader.group();
+	var clearMediaLoginEvent = new YAHOO.util.CustomEvent('clearMediaLoginTrigger');
+	clearMediaLoginGroup.addCustomTrigger(clearMediaLoginEvent);
+	clearMediaLoginGroup.registerSrcImage('clearMediaLoginPhotobucketCloseImg','http://cache1.clear365.com/images/cells/photobucket_close.gif');			
+	clearMediaLoginGroup.registerSrcImage('clearMediaLoginClearLogoImg','http://cache1.clear365.com/images/box/clear_logo.gif');			
+	clearMediaLoginGroup.registerSrcImage('clearMediaLoginIIconImg','http://cache1.clear365.com/images/box/i_icon.gif');
+	clearMediaLoginGroup.registerSrcImage('clearMediaLoginForgetPassBtnImg','http://cache1.clear365.com/images/box/forgetpass_btn.gif');
+	clearMediaLoginGroup.registerSrcImage('clearMediaLoginLoginBtnImg','http://cache1.clear365.com/images/box/login_btn.gif');
+	
+	var clearMediaSignUp1Group = new YAHOO.util.ImageLoader.group();
+	var clearMediaSignUp1Event = new YAHOO.util.CustomEvent('clearMediaSignUp1Trigger');
+	clearMediaSignUp1Group.addCustomTrigger(clearMediaSignUp1Event);
+	clearMediaSignUp1Group.registerSrcImage('clearMediaSignUp1PhotobucketCloseImg','http://cache1.clear365.com/images/cells/photobucket_close.gif');
+	clearMediaSignUp1Group.registerSrcImage('clearMediaSignUp1ClearLogoImg','http://cache1.clear365.com/images/box/clear_logo.gif');
+	clearMediaSignUp1Group.registerSrcImage('clearMediaSignUp1Info1Img','http://cache1.clear365.com/yui/build/container/assets/info16_1.gif');
+	clearMediaSignUp1Group.registerSrcImage('clearMediaSignUp1Info2Img','http://cache1.clear365.com/yui/build/container/assets/info16_1.gif');
+	clearMediaSignUp1Group.registerSrcImage('clearMediaSignUp1Info3Img','http://cache1.clear365.com/yui/build/container/assets/info16_1.gif');	
+	clearMediaSignUp1Group.registerSrcImage('clearMediaSignUp1SignupBtnImg','http://cache1.clear365.com/images/box/signup_btn.gif');
+	clearMediaSignUp1Group.registerSrcImage('cwSignUp1NextBtnId','http://cache1.clear365.com/images/box/next_btn.gif');
+	
+	var clearMediaSignUp2Group = new YAHOO.util.ImageLoader.group();
+	var clearMediaSignUp2Event = new YAHOO.util.CustomEvent('clearMediaSignUp2Trigger');
+	clearMediaSignUp2Group.addCustomTrigger(clearMediaSignUp2Event);
+	clearMediaSignUp2Group.registerSrcImage('clearMediaSignUp2PhotobucketCloseImg','http://cache1.clear365.com/images/cells/photobucket_close.gif');
+	clearMediaSignUp2Group.registerSrcImage('clearMediaSignUp2Clear365LogoImg','http://cache1.clear365.com/images/box/clear365_logo.gif');
+	clearMediaSignUp2Group.registerSrcImage('clearMediaSignUp2HideId','http://cache1.clear365.com/images/spacer.gif');
+	clearMediaSignUp2Group.registerSrcImage('clearMediaSignUp2PreviousBtnImg','http://cache1.clear365.com/images/box/previous_btn.gif');
+	clearMediaSignUp2Group.registerSrcImage('signUpNextBtnId','http://cache1.clear365.com/images/box/next_btn.gif');
+	
+	var clearWireSignUp2Group = new YAHOO.util.ImageLoader.group();
+	var clearWireSignUp2Event = new YAHOO.util.CustomEvent('clearWireSignUp2Trigger');
+	clearWireSignUp2Group.addCustomTrigger(clearWireSignUp2Event);
+	clearWireSignUp2Group.registerSrcImage('clearWireSignUp2PhotobucketCloseImg','http://cache1.clear365.com/images/cells/photobucket_close.gif');
+	clearWireSignUp2Group.registerSrcImage('clearWireSignUp2Id','http://cache1.clear365.com/images/spacer.gif');
+	clearWireSignUp2Group.registerSrcImage('clearWireSignUp2PreviousBtnImg','http://cache1.clear365.com/images/box/previous_btn.gif');
+	clearWireSignUp2Group.registerSrcImage('cwSignUpNextBtnId','http://cache1.clear365.com/images/box/next_btn.gif');
+	
+	var clearMediaCurrentSubscriberLoginGroup = new YAHOO.util.ImageLoader.group();
+	var clearMediaCurrentSubscriberLoginEvent = new YAHOO.util.CustomEvent('clearMediaCurrentSubscriberLoginTrigger');
+	clearMediaCurrentSubscriberLoginGroup.addCustomTrigger(clearMediaCurrentSubscriberLoginEvent);
+	clearMediaCurrentSubscriberLoginGroup.registerSrcImage('clearMediaCurrentSubscriberLoginPhotobucketCloseImg','http://cache1.clear365.com/images/cells/photobucket_close.gif');
+	clearMediaCurrentSubscriberLoginGroup.registerSrcImage('initialILinkiId','http://cache1.clear365.com/images/spacer.gif');
+	clearMediaCurrentSubscriberLoginGroup.registerSrcImage('clearMediaCurrentSubscriberLoginIIconImg','http://cache1.clear365.com/images/box/i_icon.gif');
+	clearMediaCurrentSubscriberLoginGroup.registerSrcImage('clearMediaCurrentSubscriberLoginPreviousBtnImg','http://cache1.clear365.com/images/box/previous_btn.gif');
+	clearMediaCurrentSubscriberLoginGroup.registerSrcImage('SubscriberLoginNextBtnId','http://cache1.clear365.com/images/box/next_btn.gif');
+	
+	var clearMediaThankYouGroup = new YAHOO.util.ImageLoader.group();
+	var clearMediaThankYouEvent = new YAHOO.util.CustomEvent('clearMediaThankYouTrigger');
+	clearMediaThankYouGroup.addCustomTrigger(clearMediaThankYouEvent);
+	clearMediaThankYouGroup.registerSrcImage('clearMediaThankYouPhotobucketClose1Img','http://cache1.clear365.com/images/cells/photobucket_close.gif');
+	clearMediaThankYouGroup.registerSrcImage('clearMediaThankYouPhotobucketClose2Img','http://cache1.clear365.com/images/cells/photobucket_close.gif');
+
+	var clearMediaCCInfoGroup = new YAHOO.util.ImageLoader.group();
+	var clearMediaCCInfoEvent = new YAHOO.util.CustomEvent('clearMediaCCInfoTrigger');
+	clearMediaCCInfoGroup.addCustomTrigger(clearMediaCCInfoEvent);
+	clearMediaCCInfoGroup.registerSrcImage('clearMediaCCInfoPhotobucketCloseImg','http://cache1.clear365.com/images/cells/photobucket_close.gif');
+	clearMediaCCInfoGroup.registerSrcImage('clearMediaCCInfoHideId','http://cache1.clear365.com/images/spacer.gif');
+	clearMediaCCInfoGroup.registerSrcImage('clearMediaCCInfoSpacer1Img','http://cache1.clear365.com/images/spacer.gif');
+	clearMediaCCInfoGroup.registerSrcImage('clearMediaCCInfoSpacer2Img','http://cache1.clear365.com/images/spacer.gif');
+	clearMediaCCInfoGroup.registerSrcImage('clearMediaCCInfoCancelImg','http://cache1.clear365.com/images/box/cancel.gif');
+	clearMediaCCInfoGroup.registerSrcImage('clearMediaCCInfoNextBtnId','http://cache1.clear365.com/images/box/next_btn.gif');
+	
+	var forgotPassGroup = new YAHOO.util.ImageLoader.group();
+	var forgotPassEvent = new YAHOO.util.CustomEvent('forgotPassTrigger');
+	forgotPassGroup.addCustomTrigger(forgotPassEvent);
+	forgotPassGroup.registerSrcImage('forgotPassPhotobucketCloseImg','http://cache1.clear365.com/images/cells/photobucket_close.gif');
+	forgotPassGroup.registerSrcImage('forgotPassUsernameHideId','http://cache1.clear365.com/images/spacer.gif');
+	forgotPassGroup.registerSrcImage('forgotPassSubmitBtnId','http://cache1.clear365.com/images/box/submit_btn.gif');
+	
+	var passOptionsGroup = new YAHOO.util.ImageLoader.group();
+	var passOptionsEvent = new YAHOO.util.CustomEvent('passOptionsTrigger');
+	passOptionsGroup.addCustomTrigger(passOptionsEvent);
+	passOptionsGroup.registerSrcImage('passOptionsPhotobucketCloseImg','http://cache1.clear365.com/images/cells/photobucket_close.gif');
+	passOptionsGroup.registerSrcImage('passOptionsMainHideId','http://cache1.clear365.com/images/spacer.gif');
+	passOptionsGroup.registerSrcImage('passOptionsSpacer1Img','http://cache1.clear365.com/images/spacer.gif');
+	passOptionsGroup.registerSrcImage('passOptionsSpacer2Img','http://cache1.clear365.com/images/spacer.gif');
+	passOptionsGroup.registerSrcImage('passOptionsSpacer3Img','http://cache1.clear365.com/images/spacer.gif');
+	passOptionsGroup.registerSrcImage('passOptionsSpacer4Img','http://cache1.clear365.com/images/spacer.gif');	
+	passOptionsGroup.registerSrcImage('sendEmailBtnId','http://cache1.clear365.com/images/box/sendemail_btn.gif');
+	passOptionsGroup.registerSrcImage('passOptionsAnwQuestionBtnImg','http://cache1.clear365.com/images/box/anwQuestion_btn.gif');
+	
+	var confirmDOBGroup = new YAHOO.util.ImageLoader.group();
+	var confirmDOBEvent = new YAHOO.util.CustomEvent('confirmDOBTrigger');
+	confirmDOBGroup.addCustomTrigger(confirmDOBEvent);
+	confirmDOBGroup.registerSrcImage('confirmDOBCloseBtn','http://cache1.clear365.com/images/cells/photobucket_close.gif');
+	confirmDOBGroup.registerSrcImage('confirmBirthdateHideId','http://cache1.clear365.com/images/spacer.gif');
+	confirmDOBGroup.registerSrcImage('confirmDOBSpacerImg','http://cache1.clear365.com/images/spacer.gif');
+	confirmDOBGroup.registerSrcImage('confirmDOBCheckId','http://cache1.clear365.com/images/box/submit_btn.gif');
+	
+	var forgotPassSecurityQuestionGroup = new YAHOO.util.ImageLoader.group();
+	var forgotPassSecurityQuestionEvent = new YAHOO.util.CustomEvent('forgotPassSecurityQuestionTrigger');
+	forgotPassSecurityQuestionGroup.addCustomTrigger(forgotPassSecurityQuestionEvent);
+	forgotPassSecurityQuestionGroup.registerSrcImage('forgotPassSecurityQuestionPhotobucketCloseImg','http://cache1.clear365.com/images/cells/photobucket_close.gif');
+	forgotPassSecurityQuestionGroup.registerSrcImage('mothersMaidenHideId','http://cache1.clear365.com/images/spacer.gif');
+	forgotPassSecurityQuestionGroup.registerSrcImage('motherMNameCheckId','http://cache1.clear365.com/images/box/submit_btn.gif');
+	
+	var newPasswordGroup = new YAHOO.util.ImageLoader.group();
+	var newPasswordEvent = new YAHOO.util.CustomEvent('newPasswordTrigger');
+	newPasswordGroup.addCustomTrigger(newPasswordEvent);
+	newPasswordGroup.registerSrcImage('newPasswordPhotobucketCloseImg','http://cache1.clear365.com/images/cells/photobucket_close.gif');
+	newPasswordGroup.registerSrcImage('newPasswordHideId','http://cache1.clear365.com/images/spacer.gif');
+	newPasswordGroup.registerSrcImage('newPasswordCheckId','http://cache1.clear365.com/images/box/submit_btn.gif');
+
+	var songPurchaseConfGroup = new YAHOO.util.ImageLoader.group();
+	var songPurchaseConfEvent = new YAHOO.util.CustomEvent('songPurchaseConfTrigger');
+	songPurchaseConfGroup.addCustomTrigger(songPurchaseConfEvent);
+	songPurchaseConfGroup.registerSrcImage('songPurchaseConfCloseBtnId','http://cache1.clear365.com/images/cells/photobucket_close.gif');
+	songPurchaseConfGroup.registerSrcImage('songPurchaseConfHideId','http://cache1.clear365.com/images/spacer.gif');
+	songPurchaseConfGroup.registerSrcImage('songPurchaseConfSpacer1Img','http://cache1.clear365.com/images/spacer.gif');
+	songPurchaseConfGroup.registerSrcImage('songPurchaseConfSpacer2Img','http://cache1.clear365.com/images/spacer.gif');
+	songPurchaseConfGroup.registerSrcImage('songPurchaseConfCancelImg','http://cache1.clear365.com/images/box/cancel.gif');
+	songPurchaseConfGroup.registerSrcImage('songPurchaseConfPurchaseId','http://cache1.clear365.com/images/box/confirmpurchase.gif');
+	
+	var confTextGroup = new YAHOO.util.ImageLoader.group();
+	var confTextEvent = new YAHOO.util.CustomEvent('confTextTrigger');
+	confTextGroup.addCustomTrigger(confTextEvent);
+	confTextGroup.registerSrcImage('confTextPhotobucketCloseImg','http://cache1.clear365.com/images/cells/photobucket_close.gif');
+	confTextGroup.registerSrcImage('confTextSpacerImg','http://cache1.clear365.com/images/spacer.gif');
+
+</script>
+	
+	<!--   adware tracking codes - mantis #2549 -->
+	<span id="googleadaware"></span>
+
+	<style>
+	
+	.yui-panel {
+		border: none;
+		background-color: transparent !important;
+	}
+	
+	.yui-panel .container-close {
+		height:18px;
+		width:44px; 
+		padding-right:5px;
+		background-image:url(images/cells/photobucket_close.gif);
+	}
+	.yui-panel-container.shadow .underlay { background-color:#999; }
+	
+	.yui-panel .hd, .yui-panel .ft{
+		xbackground-color: #8F9092;
+		xcolor:#FFFFFF;
+	}
+	
+	.yui-panel .close {
+		float: right;
+		padding-right: 10px;
+		padding-top: 8px;
+		/* padding-right: 5px;
+		padding-top: 4px; */
+	}
+	
+	.yui-panel .hd {
+		background: transparent url(images/box/bg_signin-wrapper-top.gif) top center no-repeat !important;
+		/* background: transparent url(images/box/bg_signin-wrapper-top10.gif) top center no-repeat !important; */
+		border: 0;
+		padding-top: 18px;
+	}
+		
+	.yui-panel .hd h4 {
+		padding: 4px;
+		font-weight: bold;
+		font-size:16px;
+		line-height:18px;
+		white-space: normal;
+		color:#000000;
+		/* line-height:14px;
+		background-image:url(images/box/bg_signin-header_bg.gif);
+		background-repeat:repeat-x; */
+	}
+	
+		/* .yui-panel .hd h4 a {
+			color:#FFFFFF;
+		}
+		.yui-panel .hd h4 a:hover {
+			color:#FFFFFF;
+		} */
+
+	.yui-panel .bd{
+		color:#000000;
+		background-image: url(images/box/bg_gradient.gif);
+		/* background-image: url(images/box/bg_gradient10.gif); */
+		background-size: auto;
+		xbackground: url(http://cache1.clear365.com/images/box/bg_signin.png) top center repeat-y;
+		padding:4px 8px;
+		/* padding:4px 6px; */
+	}
+	
+	.yui-panel .bd .buttons {
+		padding:2px 0px 2px 0px;
+		/* color:#fff;
+		padding:4px;
+		background-image:url(images/box/bg_signin-button_bg.gif);
+		background-repeat:repeat-x;
+		font-weight: bold;
+		margin-bottom:3px; */
+	}
+
+	/* .yui-panel .bd .buttons a {
+		color:#fff;
+	}
+	
+	.yui-panel .bd .buttons a:hover {
+		color:#fff;
+	} */
+	.yui-panel .bd .divider {
+		border-top:1px solid #000000;
+		/* border-top:1px solid #5F6422; */
+	}
+	
+	/* Added by Deepak - Start */
+	.yui-panel .bd h4 {
+		padding: 4px;
+		font-weight: bold;
+		font-size:16px;
+		line-height:18px;
+		white-space: normal;
+		color:#000000;
+	}
+	
+	.yui-panel .bd a:link, .yui-panel .bd a:visited {
+		color: #62a62b;
+		font: 14px arial, helvetica, sans-serif; 
+		margin:3px auto;
+		font-weight:bold;
+		text-decoration:underline;
+	}
+	.yui-panel .bd a:hover {
+		/* color: #2A5105; */
+		color: #62a62b;		
+	}
+	.yui-panel .bd .emailLink {
+		color: #34469D;
+		font: 14px arial, helvetica, sans-serif; 
+		font-weight:normal;
+		padding: 2px;
+		margin-bottom: 1px;
+	}
+	.yui-panel .bd .emailLink12 {
+		color: #34469D;
+		font: 12px arial, helvetica, sans-serif; 
+		font-weight:normal;
+	}
+	.yui-panel .bd p {
+		color:#000000;
+		font-family:Arial, Helvetica, sans-serif;
+		font-size:12px;
+		font-weight:normal;
+	}
+	/*  Added by Deepak -  End */
+	
+	.yui-panel .ft {
+		background: url(images/box/bg_signin-wrapper-bottom.gif) bottom center no-repeat;
+		/* background: url(images/box/bg_signin-wrapper-bottom10.gif) bottom center no-repeat; */
+		padding-bottom: 5px; 
+		margin-bottom: 0;
+		padding-top: 0;
+	}
+	
+	.yui-panel .ft a {
+		color: #62a62b;
+		/* color: #ffffff; */
+	}
+		
+	/*.yui-panel .ft a:link, .yui-panel .ft a:visited {
+		color: #FFFFFF;
+		font: 10px arial, helvetica, sans-serif; 
+		margin:3px auto;
+		font-weight:bold;
+	}
+	.yui-panel .ft a:hover {
+		color: #FFFFAA;
+	}*/
+	
+	.yui-panel .ft div {
+		padding: 4px;
+		/* padding: 0px; */
+		padding-top:none;
+		margin-bottom: 1px;
+	}
+	
+	.yui-panel .ft .divider {
+		margin-bottom:5px;
+		border-top:1px solid #5F6422;
+	}
+	
+	.yui-panel .ft .buttons {
+		padding:4px 0px 4px 0px;
+		font-weight: bold;
+		/* color:#fff;
+		background-image:url(images/box/bg_signin-ft_button_bg.gif);
+		background-repeat:repeat-x; */
+	}
+	
+	/* .yui-panel .ft .buttons a {
+		color:#fff;
+	}
+	.yui-panel .ft .buttons a:hover {
+		color:#fff;
+	} */
+	
+	/* Added by Deepak - Start */
+	
+	.yui-panel .ft a:link, .yui-panel .ft a:visited {
+		color: #62a62b;
+		font: 14px arial, helvetica, sans-serif; 
+		margin:3px auto;
+		font-weight:bold;
+		text-decoration:underline;
+	}
+	.yui-panel .ft a:hover {
+		/* color: #2A5105; */
+		color: #62a62b;
+	}
+	.yui-panel .ft p {
+		color:#000000;
+		font-family:Arial, Helvetica, sans-serif;
+		font-size:14px;
+		font-weight:bold;
+	}
+	
+	/* Added by Deepak - End */
+	
+	.yui-panel .bd .greyBox {
+		background-color: #999999;
+		padding: 4px;
+		margin-bottom: 1px;
+	}
+	.yui-panel .bd .greyBox a {
+		color:#FFFFFF;
+	}	
+
+	.yui-panel div.error {
+		padding-bottom: 3px;
+		/* padding-bottom: 5px; */
+		color: #cc0000;
+		font-size:12px;
+	}
+	.yui-panel .inputTxt {
+		width: 236px;
+		margin-top: 2px;
+		padding: 2px;
+		border: 1px solid #484848;
+		/* border: 1px solid #999999; */
+		background-color: #ffffff;
+	}
+		
+		.yui-panel input.error {
+			border-color: #cc0000;
+		}
+		
+	.yui-panel select {
+		margin-top: 2px;
+		padding: 2px;
+		border: 1px solid #484848;
+		/* border: 1px solid #999999; */
+		background-color: #ffffff;
+		width: 240px;
+	}
+		
+		.yui-panel select.dobMonth {
+			width: 170px;
+			/* width: 118px; */
+		}
+		
+		.yui-panel select.dobDate {
+			width: 88px;
+			/* width: 56px; */
+		}
+		
+		.yui-panel select.dobYear {
+			width: 90px;
+			/* width: 110px; */
+			/* width: 68px; */
+		}
+		
+	.yui-panel p {
+		clear: both;
+	}
+	
+	.yui-panel p.col1 {
+		float: left;
+		width: 120px;
+		clear: none;
+	}
+		
+	.yui-panel p.col2 {
+		float: right;
+		width: 120px;
+		clear: none;
+	}
+	
+	.yui-panel p.col1 select,
+	.yui-panel p.col1 input {
+		width: 112px;
+	}
+	.yui-panel p.col2 select,
+	.yui-panel p.col2 input {
+		width: 112px;
+	}
+	.yui-panel span.error {
+		font-size: 12px;
+		/* font-size: 10px; */
+		color: #cc0000;
+		float: left;
+		/* float: right; */
+		padding:2px 0px 4px 0px;
+		display: none;
+	}
+	/* Added by Deepak - Start */
+	.yui-panel span.infoText {
+		font-size: 12px;
+		color: #34469d;
+		float: left;
+		display: none;
+		padding-bottom:4px;
+		padding-top:5px;
+		margin-left:15px;
+	}
+	.yui-panel span.infoText1 {
+		font-size: 12px;
+		color: #34469d;
+		float: left;
+		display: none;
+		padding-bottom:3px;
+		padding-top:5px;
+	}
+	/* Added by Deepak - End */
+	
+	#loginBoxBody {
+		xheight: 90px;
+	}
+
+/*	
+	#clearMediaCCInfo{
+		left:400px;
+	}
+*/	
+	#signUpError1,
+	#signUpError2 {
+		display: none;
+	}
+	
+	#errorText {
+		color:red;
+		xheight:30px;
+	}
+	
+	#ccErrorText {
+		color:red;
+		xheight:15px;
+	}
+	
+	#loggedInText{
+		display:none;
+	}
+	
+	#confText{
+		display:none;
+	}
+	
+	.loginBoxes{
+		background-color: #8F9092;
+		color: #FFFFFF;
+		font: bold 11px arial, helvetica, sans-serif;
+		xheight: 20px;
+		xwidth: 245px;
+	}
+	
+	.loginBoxes a:link, .loginBoxes a:visited {
+		color: #008F86;
+		font: 10px arial, helvetica, sans-serif; 
+		xmargin:3px auto;
+	}
+
+	.loginBoxes a:hover {
+		color: #838383;
+	}
+	
+	.greyText{
+		color:#999999;
+		margin:0px;
+		padding:0px;
+		display:inline;
+	}
+	
+	.ccBoxBody {
+		font: 12px arial, helvetica, sans-serif;
+		margin: 0px 0px 10px 0px;
+		padding: 3px 5px 0px 5px;
+	}
+
+	.ccBoxBody .inputFields {
+		border: 1px solid #ABA9A9;
+		color: #000;
+		font: 12px Arial, Helvetica, sans-serif !important;
+		height: 16px !important;
+		margin: 0;
+		padding: 0;
+		vertical-align: middle;
+		width: 238px;
+	}
+	
+	.formCB {
+		margin:0px;
+		padding:0px;
+	}
+	
+	#sonyText {
+		color:#000000;
+		font-family:Arial, Helvetica, sans-serif;
+		font-size:11px;
+		font-weight:normal;	
+	}
+	
+	#songPurchBody{
+		height:auto;
+	}
+	
+	#clearMediaLogin,
+	#clearMediaSignUp1,
+	#clearMediaSignUp2,
+	#clearWireSignUp2,
+	#clearMediaCurrentSubscriberLogin,
+	#clearMediaThankYou,
+	#clearMediaBilling,
+	#clearMediaCCInfo,
+	#songPurchaseConf,
+	#confText,
+	#forgotPass,
+	#passOptions,
+	#confirmDOB,
+	#forgotPassSecurityQuestion,
+	#newPassword,
+	#emailAutoLink,
+	#emailAutoLinkFail {
+		display: none;
+	}
+	
+	
+	
+	
+	</style>
+	
+	<!-- 1 clearMediaLogin -->
+	<div id="clearMediaLogin"><!-- Not displayed on page load, can be anywhere, begin login HTML -->
+		<div class="close"><a href="javascript:clearFieldError('loginText');closePanel('clearMediaLogin');"><img id="clearMediaLoginPhotobucketCloseImg"></a></div>
+		<div class="hd">
+			<img id="clearMediaLoginClearLogoImg" border="0"><br><br>
+			<h4><span id="clearMediaLoginHeaderText">Please Log In:</span></h4>
+		</div>
+		<div class="bd clearfix" id="loginBoxBody">
+			<form id="clearMediaLoginForm" name="clearMediaLoginForm" method="POST" action="LogIn">
+
+				<p>Username: (example: jprice) &nbsp; <a href="javascript:loginInfoMsgFunction();"><img id="clearMediaLoginIIconImg" border="0"></a><br>
+				<span id="loginInfoTextMsg" class="infoText1">Clear and Clearwire customers use the same username and password that you use to access your internet account information.</span>
+					<input type="text" name="j_username" class="inputTxt" tabindex="2" style="width:368px;" maxlength="30" id="loginUsernameText" onkeypress="return submitenter(this,event);" autocomplete="off">
+					<span id="loginUsernameTextError" class="error"></span></p>
+					
+				<p>Password:<br>
+					<input type="password" name="j_password" class="inputTxt" tabindex="3" style="width:368px;" maxlength="30" id="loginPasswordText" onkeypress="return submitenter(this,event);" autocomplete="off">
+					<span id="loginPasswordTextError" class="error"></span></p>
+					
+				<span id="loginText" class="error"></span>	
+				<p><span id="loginTextError" class="error"></span></p>
+				
+				<div id="rememberMeCheckbox">
+					<p><input type="checkbox" name="rememberMe" id="rememberMe" tabindex="4" value="true" title="remember" onkeypress="return submitenter(this,event);"> Remember me. <br>
+						(Do not select this option if you are on a public or shared computer.)
+					</p>
+				</div>
+				
+				<input type="hidden" name="provider" value="">
+				<input type="hidden" name="service" value="">
+				<input type="hidden" name="redirect" value="footerPrivacyPolicy.htm?">
+				<input type="hidden" name="redirectFail" value="footerPrivacyPolicy.htm?">
+				<input type="hidden" name="cpid" value="">
+				
+				<div class="clearBoth"></div>
+				<div class="buttons" style="float:right;">
+					<a href="javascript:clearFieldError('loginText');forgotPass(1)"><img id="clearMediaLoginForgetPassBtnImg" border="0"></a>&nbsp;&nbsp;
+					<a href="javascript:ssoLoginValidation(document.clearMediaLoginForm);"><img id="clearMediaLoginLoginBtnImg" border="0"></a>
+				</div>
+			</form>
+		</div>
+		<div class="ft">
+			<div class="clearfix">
+				<div id="clearMediaLoginFooterText">
+					<p>First Time Visitors, <a href="javascript:clearFieldError('loginText');signUp();">Click Here.</a></p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- 1 clearMediaLogin -->	
+	
+	<!-- 2 clearMediaSignUp1 -->
+	<div id="clearMediaSignUp1"><!-- Not displayed on page load, can be anywhere, begin login HTML -->
+		<div class="close"><a href="javascript:closePanel('clearMediaSignUp1');"><img id="clearMediaSignUp1PhotobucketCloseImg"></a></div>
+		<div class="hd">
+			<img id="clearMediaSignUp1ClearLogoImg" border="0"><br><br>
+			<h4>Welcome to Clear365! &nbsp; Bring your life online.</h4>
+		</div>
+		<div class="bd clearfix">
+			<form id="clearMediaSignUp1Form" name="clearMediaSignUp1">
+				<p><input type="radio" id="cbSignUpType" name="cbSignUpType" value="clear" checked="checked" onkeypress="submitEnterkey(event,'cwSignUp1NextBtnId');"> I am a Clear Customer &nbsp;&nbsp;<a href="javascript: signClearInfoMsgFunction();"><img id="clearMediaSignUp1Info1Img"></a>
+				<span id="signClearInfoTextMsg" class="infoText">Clear internet customers access your account information, email and calendar.  Clear365 is open to all users at no charge.</span></p>
+
+				<p><input type="radio" id="cbSignUpType" name="cbSignUpType" value="clearwire" onkeypress="submitEnterkey(event,'cwSignUp1NextBtnId');"> I am a Clearwire Customer &nbsp;&nbsp;<a href="javascript: signClearwireInfoMsgFunction();"><img id="clearMediaSignUp1Info2Img"></a>
+				<span id="signClearwireInfoTextMsg" class="infoText">Clearwire internet customers access your account information, email and calendar. Clear365 is open to all users at no charge.</span></p>
+
+				<p><input type="radio" id="cbSignUpType" name="cbSignUpType" value="both" onkeypress="submitEnterkey(event,'cwSignUp1NextBtnId');"> I am not a Clear or Clearwire Customer &nbsp;&nbsp;<a href="javascript: signCClearwireInfoMsgFunction();"><img id="clearMediaSignUp1Info3Img"></a>
+				<span id="signCClearwireInfoTextMsg" class="infoText">Clear365 is open to all users at no charge.  Some site features may be available to Clear and Clearwire internet customers only.</span></p>
+
+				<div class="buttons" style="height:15px;"></div>
+			</form>
+		</div>
+		<div class="ft">
+			<div class="clearfix">
+				<div class="buttons" style="float:right;">
+				<a href="footerHelp.htm#clear365" target="_blank"><img id="clearMediaSignUp1SignupBtnImg" border="0"></a>&nbsp;&nbsp;
+				<a href="javascript:signUpPre();"><img id="cwSignUp1NextBtnId" border="0"></a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- 2 clearMediaSignUp1 -->	
+	
+	<!-- 3 clearMediaSignUp2 -->
+	<div id="clearMediaSignUp2">
+		<div id="clearMediaSignUp2Close" class="close"><a href="javascript:closePanel('clearMediaSignUp2');"><img id="clearMediaSignUp2PhotobucketCloseImg" tabindex="19" onkeypress="onKeyPressEventKeyCode(event, 'clearMediaSignUp2HideId');" onblur="setFocusToclearMediaSignUp2ForIE('signUpFirstName');"></a></div>
+		<div class="hd">
+		<img id="clearMediaSignUp2Clear365LogoImg" border="0"><br>
+		<h4>Please provide the following information:</h4>
+		</div>
+		<div class="bd clearfix" id="ccBoxBody">
+			<form name="clearMediaSignUp2Form" id="clearMediaSignUp2Form">
+			<img id="clearMediaSignUp2HideId" border="0" height="1" width="1" tabindex="1">
+			<p>First Name: <br>
+				<input type="text" id="signUpFirstName" name="signUpFirstName" class="inputTxt" style="width:368px;" tabindex="2" onclick="textFiledValueSelect('signUpFirstName');" onkeypress="submitEnterkey(event,'signUpNextBtnId');">
+				<span id="signUpFirstNameError" class="error"></span></p>
+			<p>Last Name: <br>
+				<input type="text" id="signUpLastName" name="signUpLastName" class="inputTxt" style="width:368px;" tabindex="3" onclick="textFiledValueSelect('signUpLastName');" onkeypress="submitEnterkey(event,'signUpNextBtnId');">
+				<span id="signUpLastNameError" class="error"></span></p>
+			<p>Email Address:<br>
+				<input type="text" id="signUpEmail" name="signUpEmail" class="inputTxt" style="width:368px;" tabindex="4" onclick="textFiledValueSelect('signUpEmail');" onkeypress="submitEnterkey(event,'signUpNextBtnId');">
+				<span id="signUpEmailError" class="error"></span></p>
+			<p>Retype Email Address:<br>
+				<input type="text" id="signUpEmailVerify" name="signUpEmailVerify" onpaste="return false;" class="inputTxt" style="width:368px;" tabindex="5" onclick="textFiledValueSelect('signUpEmailVerify');" onkeypress="submitEnterkey(event,'signUpNextBtnId');">
+				<span id="signUpEmailVerifyError" class="error"></span></p>
+				<p>Choose a Username:<br>
+				<input type="text" id="signUpUserName" name="signUpUserName" class="inputTxt" style="width:368px;" tabindex="6" onclick="textFiledValueSelect('signUpUserName');" onkeypress="submitEnterkey(event,'signUpNextBtnId');">
+				<span id="signUpUserNameError" class="error"></span></p>
+			<p>Choose a Password (Passwords are case sensitive):<br>
+				<input type="password" id="signUpPassword" name="signUpPassword" class="inputTxt" style="width:368px;" tabindex="7" onclick="textFiledValueSelect('signUpPassword');" onkeypress="submitEnterkey(event,'signUpNextBtnId');">
+				<span id="signUpPasswordError" class="error"></span></p>
+			<p>Retype Password:<br>
+				<input type="password" id="signUpPasswordVerify" name="signUpPasswordVerify" class="inputTxt" style="width:368px;" tabindex="8" onclick="textFiledValueSelect('signUpPasswordVerify');" onkeypress="submitEnterkey(event,'signUpNextBtnId');" onpaste="return false;">
+				<span id="signUpPasswordVerifyError" class="error"></span></p>
+			<p>ZIP Code:<br>
+				<input type="text" id="signUpZip" name="signUpZip" maxlength="5" class="inputTxt" style="width:368px;" tabindex="8" onclick="textFiledValueSelect('signUpZip');" onkeypress="submitEnterkey(event,'signUpNextBtnId');">
+				<span id="signUpZipError" class="error"></span></p>
+			<p>Date of Birth:<br>
+				<select id="signUpDOBMonth" name="signUpDOBMonth" class="dobMonth" tabindex="10">
+					<option value="">Select</option>
+					<option value="1">January</option>
+					<option value="2">February</option>
+					<option value="3">March</option>
+					<option value="4">April</option>
+					<option value="5">May</option>
+					<option value="6">June</option>
+					<option value="7">July</option>
+					<option value="8">August</option>
+					<option value="9">September</option>
+					<option value="10">October</option>
+					<option value="11">November</option>
+					<option value="12">December</option>
+				</select>
+
+				<select id="signUpDOBDate" name="signUpDOBDate" class="dobDate" tabindex="11">
+					<option value="">--</option>								
+					<option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option>
+				</select>
+				<select id="signUpDOBYear" name="signUpDOBYear" class="dobYear" tabindex="12" onkeypress="submitEnterkey(event,'signUpNextBtnId');">
+					<option value="2009">2009</option><option value="2008">2008</option><option value="2007">2007</option><option value="2006">2006</option><option value="2005">2005</option><option value="2004">2004</option><option value="2003">2003</option><option value="2002">2002</option><option value="2001">2001</option><option value="2000">2000</option><option value="1999">1999</option><option value="1998">1998</option><option value="1997">1997</option><option value="1996">1996</option><option value="1995">1995</option><option value="1994">1994</option><option value="1993">1993</option><option value="1992">1992</option><option value="1991">1991</option><option value="1990">1990</option><option value="1989">1989</option><option value="1988">1988</option><option value="1987">1987</option><option value="1986">1986</option><option value="1985">1985</option><option value="1984">1984</option><option value="1983">1983</option><option value="1982">1982</option><option value="1981">1981</option><option value="1980">1980</option><option value="1979">1979</option><option value="1978">1978</option><option value="1977">1977</option><option value="1976">1976</option><option value="1975">1975</option><option value="1974">1974</option><option value="1973">1973</option><option value="1972">1972</option><option value="1971">1971</option><option value="1970">1970</option><option value="1969">1969</option><option value="1968">1968</option><option value="1967">1967</option><option value="1966">1966</option><option value="1965">1965</option><option value="1964">1964</option><option value="1963">1963</option><option value="1962">1962</option><option value="1961">1961</option><option value="1960">1960</option><option value="1959">1959</option><option value="1958">1958</option><option value="1957">1957</option><option value="1956">1956</option><option value="1955">1955</option><option value="1954">1954</option><option value="1953">1953</option><option value="1952">1952</option><option value="1951">1951</option><option value="1950">1950</option><option value="1949">1949</option><option value="1948">1948</option><option value="1947">1947</option><option value="1946">1946</option><option value="1945">1945</option><option value="1944">1944</option><option value="1943">1943</option><option value="1942">1942</option><option value="1941">1941</option><option value="1940">1940</option><option value="1939">1939</option><option value="1938">1938</option><option value="1937">1937</option><option value="1936">1936</option><option value="1935">1935</option><option value="1934">1934</option><option value="1933">1933</option><option value="1932">1932</option><option value="1931">1931</option><option value="1930">1930</option><option value="1929">1929</option>
+				</select>
+				<span id="signUpDOBError" class="error"></span></p>
+			<p>Choose a Security Question:<br>
+				<select id="signUpSecurityQuestion" name="signUpSecurityQuestion" class="securityQuestion" style="width:374px;" tabindex="13" onkeypress="submitEnterkey(event,'signUpNextBtnId');">
+					<option value="">Select</option>
+					<option value="What is the name of your closest childhood friend?">What is the name of your closest childhood friend?</option>
+					<option value="What was the last name of your favorite teacher?">What was the last name of your favorite teacher?</option>
+					<option value="What is the name of the first boy or girl you kissed?">What is the name of the first boy or girl you kissed?</option>
+					<option value="What was your favorite place to visit as a child?">What was your favorite place to visit as a child?</option>
+					<option value="In what city, state, year do you want to retire?">In what city, state, year do you want to retire?</option>
+				</select>
+				<span id="signUpSecurityQuestionError" class="error"></span></p>
+			<p>Answer to your Security Question:<br>
+				<input type="text" id="signUpSecurityQuestionAnswer" name="signUpSecurityQuestionAnswer" class="inputTxt" style="width:368px;" tabindex="14" onclick="textFiledValueSelect('signUpSecurityQuestionAnswer');" onkeypress="submitEnterkey(event,'signUpNextBtnId');">
+				<span id="signUpSecurityQuestionAnswerError" class="error"></span></p>
+			<p><input type="checkbox" id="c365AgreeTerms" tabindex="15" onkeypress="submitEnterkey(event,'signUpNextBtnId');"> I have read and agree to the Clear365 <a href="footerTermsOfUse.htm" target="_blank">Terms of Use</a> <br>
+				<span id="c365AgreeTermsError" class="error"></span></p>
+			<p><input type="checkbox" name="notificationOptIn" id="clear365Yes" value="true" checked="" tabindex="16" onkeypress="submitEnterkey(event,'signUpNextBtnId');"> Yes, please keep me posted on news and updates to Clear365.com <br></p>
+				<input type="hidden" name="accountType" value="2">
+				<input type="hidden" name="response" value="xml">
+			</form>
+			<div id="clearMediaSignUp2Error" class="promoFeedback error"></div>			
+			<span id="clearMediaSignUp2Processing"></span>
+		</div>
+		<div class="ft">
+			<div class="clearfix">
+				<div id="clearMediaSignUp2Ft">
+					<div class="buttons" style="float:right;">
+					<a href="javascript:YAHOO.CLWRBuyProcess.clearMediaSignUp2.hide();YAHOO.CLWRBuyProcess.clearMediaSignUp1.show();"><img id="clearMediaSignUp2PreviousBtnImg" border="0" tabindex="17"></a>&nbsp;&nbsp;
+					<a href="javascript:seamlessClearmediaLogin();signUpSubmit(document.clearMediaSignUp2Form);"><img id="signUpNextBtnId" border="0" tabindex="18"></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>	
+	<!-- 3 clearMediaSignUp2 -->
+		
+	<!-- 3.5 clearWireSignUp2 -->
+	<div id="clearWireSignUp2">
+		<div id="clearWireSignUp2Close" class="close"><a href="javascript:closePanel('clearWireSignUp2');"><img id="clearWireSignUp2PhotobucketCloseImg" tabindex="15" onkeypress="onKeyPressEventKeyCode(event, 'clearWireSignUp2Id');" onblur="setFocusToclearMediaSignUp2ForIE('signUpFirstName');"></a></div>
+		<div class="hd" id="clearWireSignUp2Header">&nbsp;</div>
+		<div class="bd clearfix" id="ccBoxBody">
+			<form name="clearWireSignUp2Form" id="clearWireSignUp2Form">
+			<img id="clearWireSignUp2Id" border="0" height="1" width="1" tabindex="1">
+			<p>First Name:<br>
+				<input type="text" id="cwSignUpFirstName" name="signUpFirstName" class="inputTxt" style="width:368px;" tabindex="2" onclick="textFiledValueSelect('cwSignUpFirstName');" onkeypress="submitEnterkey(event,'cwSignUpNextBtnId');">
+				<span id="cwSignUpFirstNameError" class="error"></span></p>
+			<p>Last Name:<br>
+				<input type="text" id="cwSignUpLastName" name="signUpLastName" class="inputTxt" style="width:368px;" tabindex="3" onclick="textFiledValueSelect('cwSignUpLastName');" onkeypress="submitEnterkey(event,'cwSignUpNextBtnId');">
+				<span id="cwSignUpLastNameError" class="error"></span></p>
+			<p>ZIP Code:<br>
+				<input type="text" id="cwSignUpZip" name="signUpZip" class="inputTxt" style="width:368px;" tabindex="4" onclick="textFiledValueSelect('cwSignUpZip');" onkeypress="submitEnterkey(event,'cwSignUpNextBtnId');">
+				<span id="cwSignUpZipError" class="error"></span></p>
+			<p>Email Address:<br>
+				<input type="text" id="cwSignUpEmail" name="signUpEmail" class="inputTxt" style="width:368px;" tabindex="5" onclick="textFiledValueSelect('cwSignUpEmail');" onkeypress="submitEnterkey(event,'cwSignUpNextBtnId');">
+				<span id="cwSignUpEmailError" class="error"></span></p>
+			<p>Date of Birth:<br>
+				<select id="cwSignUpDOBMonth" name="signUpDOBMonth" class="dobMonth" tabindex="6" onkeypress="submitEnterkey(event,'cwSignUpNextBtnId');">
+					<option value="">Select</option>
+					<option value="1">January</option>
+					<option value="2">February</option>
+					<option value="3">March</option>
+					<option value="4">April</option>
+					<option value="5">May</option>
+					<option value="6">June</option>
+					<option value="7">July</option>
+					<option value="8">August</option>
+					<option value="9">September</option>
+					<option value="10">October</option>
+					<option value="11">November</option>
+					<option value="12">December</option>
+				</select>
+
+				<select id="cwSignUpDOBDate" name="signUpDOBDate" class="dobDate" tabindex="7" onkeypress="submitEnterkey(event,'cwSignUpNextBtnId');">
+					<option value="">--</option>								
+					<option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option>
+				</select>
+				<select id="cwSignUpDOBYear" name="signUpDOBYear" class="dobYear" tabindex="8" onkeypress="submitEnterkey(event,'cwSignUpNextBtnId');">
+					<option value="">Select</option>								
+					<option value="2009">2009</option><option value="2008">2008</option><option value="2007">2007</option><option value="2006">2006</option><option value="2005">2005</option><option value="2004">2004</option><option value="2003">2003</option><option value="2002">2002</option><option value="2001">2001</option><option value="2000">2000</option><option value="1999">1999</option><option value="1998">1998</option><option value="1997">1997</option><option value="1996">1996</option><option value="1995">1995</option><option value="1994">1994</option><option value="1993">1993</option><option value="1992">1992</option><option value="1991">1991</option><option value="1990">1990</option><option value="1989">1989</option><option value="1988">1988</option><option value="1987">1987</option><option value="1986">1986</option><option value="1985">1985</option><option value="1984">1984</option><option value="1983">1983</option><option value="1982">1982</option><option value="1981">1981</option><option value="1980">1980</option><option value="1979">1979</option><option value="1978">1978</option><option value="1977">1977</option><option value="1976">1976</option><option value="1975">1975</option><option value="1974">1974</option><option value="1973">1973</option><option value="1972">1972</option><option value="1971">1971</option><option value="1970">1970</option><option value="1969">1969</option><option value="1968">1968</option><option value="1967">1967</option><option value="1966">1966</option><option value="1965">1965</option><option value="1964">1964</option><option value="1963">1963</option><option value="1962">1962</option><option value="1961">1961</option><option value="1960">1960</option><option value="1959">1959</option><option value="1958">1958</option><option value="1957">1957</option><option value="1956">1956</option><option value="1955">1955</option><option value="1954">1954</option><option value="1953">1953</option><option value="1952">1952</option><option value="1951">1951</option><option value="1950">1950</option><option value="1949">1949</option><option value="1948">1948</option><option value="1947">1947</option><option value="1946">1946</option><option value="1945">1945</option><option value="1944">1944</option><option value="1943">1943</option><option value="1942">1942</option><option value="1941">1941</option><option value="1940">1940</option><option value="1939">1939</option><option value="1938">1938</option><option value="1937">1937</option><option value="1936">1936</option><option value="1935">1935</option><option value="1934">1934</option><option value="1933">1933</option><option value="1932">1932</option><option value="1931">1931</option><option value="1930">1930</option><option value="1929">1929</option>
+				</select>
+				<span id="cwSignUpDOBError" class="error"></span></p>
+			<p>Choose a Security Question:<br>
+				<select id="cwSignUpSecurityQuestion" name="signUpSecurityQuestion" class="securityQuestion" style="width:374px;" tabindex="9" onkeypress="submitEnterkey(event,'cwSignUpNextBtnId');">
+					<option value="">Select</option>
+					<option value="What is the name of your closest childhood friend?">What is the name of your closest childhood friend?</option>
+					<option value="What was the last name of your favorite teacher?">What was the last name of your favorite teacher?</option>
+					<option value="What is the name of the first boy or girl you kissed?">What is the name of the first boy or girl you kissed?</option>
+					<option value="What was your favorite place to visit as a child?">What was your favorite place to visit as a child?</option>
+					<option value="In what city, state, year do you want to retire?">In what city, state, year do you want to retire?</option>
+				</select>	
+				<span id="cwSignUpSecurityQuestionError" class="error"></span></p>
+			<p>Answer to your Security Question:<br>
+				<input type="text" id="cwSignUpSecurityQuestionAnswer" name="signUpSecurityQuestionAnswer" class="inputTxt" style="width:368px;" tabindex="10" onclick="textFiledValueSelect('cwSignUpSecurityQuestionAnswer');" onkeypress="submitEnterkey(event,'cwSignUpNextBtnId');">
+				<span id="cwSignUpSecurityQuestionAnswerError" class="error"></span></p>
+			<p><input name="cwAgreeTerms" type="checkbox" value="checkbox" id="cwAgreeTerms" tabindex="11" onkeypress="submitEnterkey(event,'cwSignUpNextBtnId');"> I have read and agree to the Clear365 <a href="footerTermsOfUse.htm" target="_blank">Terms of Use</a> <br>
+				<span id="cwAgreeTermsError" class="error"></span></p>
+			<p><input name="notificationOptIn" type="checkbox" value="checkbox" checked="" id="clearYes" tabindex="12" onkeypress="submitEnterkey(event,'cwSignUpNextBtnId');"> Yes, please keep me posted on news and updates to <br>&nbsp;&nbsp;&nbsp;&nbsp; Clear365.com <br>
+				<span id="clearTermError" class="error"></span></p>
+				<input type="hidden" id="cwSignUpUserName" name="signUpUserName">
+				<input type="hidden" name="accountType" value="1">
+				<input type="hidden" name="response" value="xml">
+			</form>
+			<div id="clearWireSignUp2Error" class="promoFeedback error"></div>			
+			<span id="clearWireSignUp2Processing"></span>
+		</div>
+		<div class="ft">
+			<div class="clearfix">		
+				<div id="clearWireSignUp2Ft">
+					<div class="buttons" style="float:right;">
+						<span id="cwSignUpPrev"><a href="javascript:YAHOO.CLWRBuyProcess.clearWireSignUp2.hide();YAHOO.CLWRBuyProcess.clearMediaSignUp1.show();"><img id="clearWireSignUp2PreviousBtnImg" border="0" tabindex="13"></a></span>&nbsp;&nbsp;
+						<a href="javascript:cwSignUpSubmit(document.clearWireSignUp2Form);"><img id="cwSignUpNextBtnId" border="0" tabindex="14"></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- 3.5 clearWireSignUp2 -->
+		
+	<!-- 4 clearMediaCurrentSubscriberLogin -->
+	<div id="clearMediaCurrentSubscriberLogin">
+		<div class="close"><a href="javascript:closePanel('clearMediaCurrentSubscriberLogin');"><img id="clearMediaCurrentSubscriberLoginPhotobucketCloseImg" tabindex="7"></a></div>
+		<div class="hd" id="clearMediaLoginHeader">&nbsp;</div>
+		<div class="bd clearfix" id="loginBoxBody">
+		<img id="initialILinkiId" border="0" height="1" width="1" tabindex="1">
+			<form name="clearMediaCurrentSubscriberLoginForm" id="clearMediaCurrentSubscriberLoginForm">
+
+				<p>Username: (example: jprice) &nbsp; <a href="javascript:signLoginInfoMsgFunction();"><img id="clearMediaCurrentSubscriberLoginIIconImg" border="0" tabindex="8" onkeypress="onKeyPressEventKeyCode(event, 'initialILinkiId');" onblur="setFocusToclearMediaCurrentSubscriberLoginForIE('subscriberUsernameText');"></a><br>
+					<span id="signLoginInfoTextMsgClear" class="infoText" style="display:none;">Clear customers use the same username and password that you use to access your Internet account information.</span>
+					<span id="signLoginInfoTextMsgClearwire" class="infoText" style="display:none;">Clearwire customers use the same username and password that you use to access your Internet account information.</span>
+					<input type="text" id="subscriberUsernameText" name="subscriberUsernameText" maxlength="30" class="inputTxt" style="width:368px;" tabindex="2" onclick="textFiledValueSelect('subscriberUsernameText');" onkeypress="submitEnterkey(event,'SubscriberLoginNextBtnId');">
+					<span id="subscriberUsernameTextError" class="error"></span></p>
+
+				<p>Password:<br>
+					<input type="password" id="subscriberPasswordText" name="subscriberPasswordText" maxlength="30" class="inputTxt" style="width:368px;" tabindex="3" onclick="textFiledValueSelect('subscriberPasswordText');" onkeypress="submitEnterkey(event,'SubscriberLoginNextBtnId');">
+					<span id="subscriberPasswordTextError" class="error"></span></p>
+				<input type="hidden" name="response" value="xml">
+			</form>					
+			<div id="clearMediaCurrentSubscriberLoginError" class="promoFeedback error"></div>
+			<span id="clearMediaCurrentSubscriberLoginProcessing"></span>
+			<div class="clearBoth"></div>
+			<div class="buttons" style="float:right;" id="clearMediaCurrentSubscriberLoginButtons">
+				<a href="javascript:YAHOO.CLWRBuyProcess.clearMediaCurrentSubscriberLogin.hide();YAHOO.CLWRBuyProcess.clearMediaSignUp1.show();"><img id="clearMediaCurrentSubscriberLoginPreviousBtnImg" border="0" tabindex="4"></a>&nbsp;&nbsp;
+				<a href="javascript:existingUsernameValidation(document.clearMediaCurrentSubscriberLoginForm);"><img id="SubscriberLoginNextBtnId" border="0" tabindex="5"></a>
+			</div>
+
+		</div>
+		<div class="ft" id="clearMediaLoginFooter"></div>
+	</div>	
+	<!-- 4 clearMediaCurrentSubscriberLogin -->
+	
+	<!-- 5 -->
+	<div id="clearMediaThankYou"><!-- Not displayed on page load, can be anywhere, begin login HTML -->
+		<div class="close"><a id="closeClearMediaThankYou" href="javascript:closePanel('clearMediaThankYou');"><img id="clearMediaThankYouPhotobucketClose1Img"></a></div>
+		<div class="hd" id="clearMediaThankYouHeader">&nbsp;</div>
+		<div class="bd clearfix" id="clearMediaThankYouContent"></div>
+		<div class="signupTip" id="signupTip3" style="display: none;">
+			<div style="text-align: right; margin-bottom: 5px;"><a href="javascript: showHide2('signupTip3');"><img id="clearMediaThankYouPhotobucketClose2Img"></a></div>
+			<div class="clearBoth"></div>
+				Link your Clear/Clearwire email to Clear365 and enable quick access via the homepage email preview pane and the email button on the top of every page. 
+		</div>			
+		<div class="ft">
+			<div class="clearfix">
+				<div id="clearMediaThankYouFooter"></div>
+			</div>
+		</div>
+		<span id="cmSignUpEmail" style="display:none"></span>
+	</div>
+	
+	<!-- 6 (Sign Up Time) -->
+	<!--
+	<div id="clearMediaBilling" style="overflow:auto;">
+		<div class="hd"><h4>Please enter your billing information in the fields below. This information will be used only when you make a purchase.</h4></div>
+		<div class="bd clearfix" id="ccBoxBody">
+			<form id="clearMediaBillingForm" name="clearMediaBillingForm">
+				<p>First Name: <span class="greyText">(exactly as it appears on card)</span><br />
+					<input type="text" name="billingFirstName" size="30" maxlength="30" class="inputFields inputTxt" id="billingFirstName" />
+					<span id="billingFirstNameError" class="error"></span></p>				
+				<p>Last Name: <span class="greyText">(exactly as it appears on card)</span><br />
+					<input type="text" name="billingLastName" size="30" maxlength="30" class="inputFields inputTxt" id="billingLastName" />
+					<span id="billingLastNameError" class="error"></span></p>
+				<p>Billing Address:<br />
+					<input type="text" name="billingAddress" size="30" maxlength="30" class="inputFields inputTxt" id="billingAddress" />
+					<span id="billingAddressError" class="error"></span></p>
+				<p><span class="greyText">Address Line 2: OPTIONAL</span>
+					<input type="text" name="billingAddress2" size="30" maxlength="30" class="inputFields inputTxt" id="billingAddress2" /></p>
+				<p>City:<br />
+					<input type="text" name="billingCity" size="30" maxlength="30" class="inputFields inputTxt" id="billingCity" />
+					<span id="billingCityError" class="error"></span></p>
+				<p>State and Zip Code:<br />
+					<select name="billingState" class="inputFields" id="billingState" style="width:150px;" />
+						<option value="AK">AK</option>
+						<option value="AL">AL</option>
+						<option value="AR">AR</option>
+						<option value="AZ">AZ</option>
+						<option value="CA">CA</option>
+						<option value="CO">CO</option>
+						<option value="CT">CT</option>
+						<option value="DC">DC</option>
+						<option value="DE">DE</option>
+						<option value="FL">FL</option>
+						<option value="GA">GA</option>
+						<option value="HI">HI</option>
+						<option value="IA">IA</option>
+						<option value="ID">ID</option>
+						<option value="IL">IL</option>
+						<option value="IN">IN</option>
+						<option value="KS">KS</option>
+						<option value="KY">KY</option>
+						<option value="LA">LA</option>
+						<option value="MA">MA</option>
+						<option value="MD">MD</option>
+						<option value="ME">ME</option>
+						<option value="MI">MI</option>
+						<option value="MN">MN</option>
+						<option value="MO">MO</option>
+						<option value="MS">MS</option>
+						<option value="MT">MT</option>
+						<option value="NC">NC</option>
+						<option value="ND">ND</option>
+						<option value="NE">NE</option>
+						<option value="NH">NH</option>
+						<option value="NJ">NJ</option>
+						<option value="NM">NM</option>
+						<option value="NV">NV</option>
+						<option value="NY">NY</option>
+						<option value="OH">OH</option>
+						<option value="OK">OK</option>
+						<option value="OR">OR</option>
+						<option value="PA">PA</option>
+						<option value="RI">RI</option>
+						<option value="SC">SC</option>
+						<option value="SD">SD</option>
+						<option value="TN">TN</option>
+						<option value="TX">TX</option>
+						<option value="UT">UT</option>
+						<option value="VA">VA</option>
+						<option value="VT">VT</option>
+						<option value="WA">WA</option>
+						<option value="WI">WI</option>
+						<option value="WV">WV</option>
+						<option value="WY">WY</option>
+					</select>
+					<span id="billingStateError" class="error"></span>
+					<input type="text" name="billingZip" style="width:50px;" maxlength="5" class="inputFields inputTxt" id="billingZip" />
+					<span id="billingZipError" class="error"></span></p>			
+				<p>Phone Number:<br />
+					<input type="text" name="billingPhone" size="30" maxlength="30" class="inputFields inputTxt" id="billingPhone" />
+					<span id="billingPhoneError" class="error"></span></p>
+				<p>Credit Card Type:<br />
+					<select name="billingCCType" class="inputFields" id="billingCCType" style="width:200px;" />
+						<option value="Amex">American Express</option>
+						<option value="Discover">Discover</option>												
+						<option value="MasterCard">Mastercard</option>
+						<option value="Visa">Visa</option>
+					</select>
+					<span id="billingCCTypeError" class="error"></span></p>
+				<p>Credit Card Number (without hyphens or spaces):<br />
+					<input type="text" name="billingCCNumber" size="30" maxlength="30" class="inputFields inputTxt" id="billingCCNumber" />
+					<span id="billingCCNumberError" class="error"></span></p>
+				<p>Security Code: <a href="javascript: showHide2('securityTip'); showHide2('securityTipShim');">WHAT IS THIS?</a><br />
+				<iframe src="" style="display: none;" id="securityTipShim"></iframe>			
+					<input type="text" name="billingCVV" size="30" maxlength="30" class="inputFields inputTxt" id="billingCVV" />
+					<span id="billingCVVError" class="error"></span></p>
+				<p>Expiration Date:<br />
+					<select name="billingCCExpDateMonth" class="inputFields" id="billingCCExpDateMonth" style="width:150px;" />
+						<option value="">Select</option>
+						<option value="01">January</option>
+						<option value="02">February</option>
+						<option value="03">March</option>
+						<option value="04">April</option>
+						<option value="05">May</option>
+						<option value="06">June</option>
+						<option value="07">July</option>
+						<option value="08">August</option>
+						<option value="09">September</option>
+						<option value="10">October</option>
+						<option value="11">November</option>
+						<option value="12">December</option>						
+					</select>
+					<select name="billingCCExpDateYear" class="inputFields" id="billingCCExpDateYear" style="width:50px;" />
+						<option value="">Select</option>
+						<option value="09">2009</option>
+						<option value="10">2010</option>
+						<option value="11">2011</option>
+						<option value="12">2012</option>
+						<option value="13">2013</option>
+						<option value="14">2014</option>
+						<option value="15">2015</option>
+						<option value="16">2016</option>
+						<option value="17">2017</option>
+						<option value="18">2018</option>
+						<option value="19">2019</option>
+						<option value="20">2020</option>						
+					</select>
+					<span id="billingCCExpError" class="error"></span></p>
+				<img alt="" border="0" height="9" src="http://cache1.clear365.com/images/spacer.gif" width="1" /><br />
+				<input type="hidden" name="accountId" value="null" />
+				<input type="hidden" name="guid" value="null" />
+				<input type="hidden" name="email" value="null" />
+				<input type="hidden" name="response" value="xml" />
+			</form>
+			<div id="addCCSignUpError" class="promoFeedback error"></div>			
+			<span id="addCCSignUpProcessing"></span>
+		</div>
+		<div class="ft">
+			<div class="clearfix">
+				<a href="javascript:addCCSignUpValidation('https://sportal.clear365.com/httpsPop.jsp',document.clearMediaBillingForm);" style="float:right;">NEXT &gt;</a>
+				<a href="javascript:YAHOO.CLWRBuyProcess.clearMediaBilling.hide();YAHOO.CLWRBuyProcess.clearMediaThankYou.show();" style="float:left;">&lt; PREVIOUS</a>
+			</div>
+		</div>
+		<div style="display: none;" class="signupTip cvv2Tip" id="securityTip">
+			<div style="text-align: right; margin-bottom: 5px;"><a href="javascript: showHide2('securityTip'); showHide2('securityTipShim');"><img src="http://cache1.clear365.com/images/cells/photobucket_close.gif"></a></div>
+			<div class="clearBoth"></div>
+			For <strong>Visa, MasterCard, and Discover</strong> cards, the card code is the last 3 digit number located on the back of your card on or above your signature line. For an <strong>American Express</strong> card, it is the 4 digits on the FRONT above the end of your card number.
+		</div>		
+	</div>
+	-->
+	
+	
+	<!-- 7 clearMediaCCInfo -->
+	<div id="clearMediaCCInfo">
+		<div class="close"><a href="javascript:closePanel('clearMediaCCInfo');"><img id="clearMediaCCInfoPhotobucketCloseImg" tabindex="19" onkeypress="onKeyPressEventKeyCode(event, 'clearMediaCCInfoHideId');" onblur="setFocusToclearMediaCCInfoForIE('billNameText');"></a></div>
+		<div class="hd">
+		<br>
+		<h4>Enter Billing Information:</h4></div>
+		<div class="bd clearfix" id="ccBoxBody">
+			<p>Your billing Information will be used only for content purchases on Clear365.</p>
+			<form id="clearMediaCCInfoForm" name="clearMediaCCInfo">
+				<img id="clearMediaCCInfoHideId" border="0" height="1" width="1" tabindex="1">
+				<p>Billing Name <span class="greyText">(exactly as it appears on card)</span>:<br>
+					<input type="text" name="billingName" maxlength="30" style="width:368px;" class="inputFields inputTxt" id="billNameText" tabindex="2" onclick="textFiledValueSelect('billNameText');" onkeypress="submitEnterkey(event,'clearMediaCCInfoNextBtnId');">
+					<span id="billNameTextError" class="error"></span></p>
+				<p>Billing Address:<br>
+					<input type="text" name="billingAddress" style="width:368px;" class="inputFields inputTxt" id="billAddressText" tabindex="3" onclick="textFiledValueSelect('billAddressText');" onkeypress="submitEnterkey(event,'clearMediaCCInfoNextBtnId');">
+					<span id="billAddressTextError" class="error"></span></p>
+				<p><span class="emailLink12">Address Line 2: OPTIONAL</span>
+					<input type="text" name="billingAddress2" style="width:368px;" class="inputFields inputTxt" id="billAddressText2" tabindex="4" onclick="textFiledValueSelect('billAddressText2');" onkeypress="submitEnterkey(event,'clearMediaCCInfoNextBtnId');"></p>
+				<p>City:<br>
+					<input type="text" name="billingCity" style="width:368px;" class="inputFields inputTxt" id="cityText" tabindex="5" onclick="textFiledValueSelect('cityText');" onkeypress="submitEnterkey(event,'clearMediaCCInfoNextBtnId');">
+					<span id="cityTextError" class="error"></span></p>
+				<p>State and Zip Code:<br>
+					<select name="billingState" class="inputFields" id="stateObj" style="width:280px;" tabindex="6" onkeypress="submitEnterkey(event,'clearMediaCCInfoNextBtnId');">
+						<option value="AK">AK</option>
+						<option value="AL">AL</option>
+						<option value="AR">AR</option>
+						<option value="AZ">AZ</option>
+						<option value="CA">CA</option>
+						<option value="CO">CO</option>
+						<option value="CT">CT</option>
+						<option value="DC">DC</option>
+						<option value="DE">DE</option>
+						<option value="FL">FL</option>
+						<option value="GA">GA</option>
+						<option value="HI">HI</option>
+						<option value="IA">IA</option>
+						<option value="ID">ID</option>
+						<option value="IL">IL</option>
+						<option value="IN">IN</option>
+						<option value="KS">KS</option>
+						<option value="KY">KY</option>
+						<option value="LA">LA</option>
+						<option value="MA">MA</option>
+						<option value="MD">MD</option>
+						<option value="ME">ME</option>
+						<option value="MI">MI</option>
+						<option value="MN">MN</option>
+						<option value="MO">MO</option>
+						<option value="MS">MS</option>
+						<option value="MT">MT</option>
+						<option value="NC">NC</option>
+						<option value="ND">ND</option>
+						<option value="NE">NE</option>
+						<option value="NH">NH</option>
+						<option value="NJ">NJ</option>
+						<option value="NM">NM</option>
+						<option value="NV">NV</option>
+						<option value="NY">NY</option>
+						<option value="OH">OH</option>
+						<option value="OK">OK</option>
+						<option value="OR">OR</option>
+						<option value="PA">PA</option>
+						<option value="RI">RI</option>
+						<option value="SC">SC</option>
+						<option value="SD">SD</option>
+						<option value="TN">TN</option>
+						<option value="TX">TX</option>
+						<option value="UT">UT</option>
+						<option value="VA">VA</option>
+						<option value="VT">VT</option>
+						<option value="WA">WA</option>
+						<option value="WI">WI</option>
+						<option value="WV">WV</option>
+						<option value="WY">WY</option>
+					</select>
+					<input type="text" name="billingZip" style="width:80px;" maxlength="5" class="inputFields inputTxt" id="zipText" tabindex="7" onclick="textFiledValueSelect('zipText');" onkeypress="submitEnterkey(event,'clearMediaCCInfoNextBtnId');">
+					<span id="zipTextError" class="error"></span></p>
+				<p><span class="emailLink12">Phone Number: OPTIONAL</span><br>
+					<input type="text" name="billingPhone" style="width:368px;" class="inputFields inputTxt" id="phoneNumberText" tabindex="8" onclick="textFiledValueSelect('phoneNumberText');" onkeypress="submitEnterkey(event,'clearMediaCCInfoNextBtnId');">
+					<span id="phoneNumberTextError" class="error"></span></p>
+				<p>Credit Card Type:<br>
+					<select name="billingCCType" class="inputFields" id="billingCCTypeText" style="width:374px;" tabindex="9" onkeypress="submitEnterkey(event,'clearMediaCCInfoNextBtnId');">
+						<option value="Amex">American Express</option>
+						<option value="Discover">Discover</option>												
+						<option value="MasterCard">Mastercard</option>
+						<option value="Visa">Visa</option>
+					</select>
+					<span id="billingCCTypeTextError" class="error"></span></p>					
+				<p>Credit Card Number (without hyphens or spaces):<br>
+					<input type="text" name="billingCCNumber" style="width:368px;" class="inputFields inputTxt" id="ccNumberText" tabindex="10" onclick="textFiledValueSelect('ccNumberText');" onkeypress="submitEnterkey(event,'clearMediaCCInfoNextBtnId');">
+					<span id="ccNumberTextError" class="error"></span></p>
+				<p>Security Code:<a href="javascript:billingCVVInfoMsgFunction();">WHAT IS THIS?</a><br>
+					<span id="billingCVVInfoTextMsg" class="infoText">For <strong>Visa, MasterCard, and Discover</strong> cards, the card code is the last 3 digit number located on the back of your card on or above your signature line. For an <strong>American Express</strong> card, it is the 4 digits on the FRONT above the end of your card number.</span>
+					<input type="text" name="billingCVV" style="width:368px;" class="inputFields inputTxt" id="ccSecurityText" tabindex="11" onclick="textFiledValueSelect('ccSecurityText');" onkeypress="submitEnterkey(event,'clearMediaCCInfoNextBtnId');">
+					<span id="ccSecurityTextError" class="error"></span></p>
+					<p>Expiration Date:<br>
+					<select name="billingCCExpDateMonth" class="inputFields" id="expMonthObj" style="width:280px;" tabindex="12" onkeypress="submitEnterkey(event,'clearMediaCCInfoNextBtnId');">
+						<option value="">Select</option>
+						<option value="01">January</option>
+						<option value="02">February</option>
+						<option value="03">March</option>
+						<option value="04">April</option>
+						<option value="05">May</option>
+						<option value="06">June</option>
+						<option value="07">July</option>
+						<option value="08">August</option>
+						<option value="09">September</option>
+						<option value="10">October</option>
+						<option value="11">November</option>
+						<option value="12">December</option>
+					</select>
+					<select name="billingCCExpDateYear" class="inputFields" id="expYearObj" style="width:86px;" tabindex="13" onkeypress="submitEnterkey(event,'clearMediaCCInfoNextBtnId');">
+						<option value="">Select</option>
+						<option value="09">2009</option>
+						<option value="10">2010</option>
+						<option value="11">2011</option>
+						<option value="12">2012</option>
+						<option value="13">2013</option>
+						<option value="14">2014</option>
+						<option value="15">2015</option>
+						<option value="16">2016</option>
+						<option value="17">2017</option>
+						<option value="18">2018</option>
+						<option value="19">2019</option>
+						<option value="20">2020</option>
+					</select>
+					<span id="expError" class="error"></span></p>
+				<img alt="" border="0" height="9" id="clearMediaCCInfoSpacer1Img" width="1"><br>
+				<input type="hidden" name="accountId" value="null">
+				<input type="hidden" name="guid" value="null">
+				<input type="hidden" name="email" value="null">
+				<input type="hidden" name="httpsAddCCLocation" id="httpsAddCCLocation" value="https://sportal.clear365.com/httpsPop.jsp">
+				<input type="hidden" name="response" value="xml">
+			</form>
+			<div id="addCCError" class="promoFeedback error"></div>						
+			<span id="addCCProcessing"></span>
+			<div id="ccErrorText"></div>
+			<img alt="" border="0" height="5" id="clearMediaCCInfoSpacer2Img" width="1"><br>
+		</div>
+		<div class="ft">
+			<div class="clearfix">
+				<div class="buttons" style="float:right;">
+				<a href="javascript:YAHOO.CLWRBuyProcess.clearMediaCCInfo.hide();"><img id="clearMediaCCInfoCancelImg" border="0" tabindex="14"></a>&nbsp;&nbsp;
+				<a href="javascript:addCCPurchaseValidation('https://sportal.clear365.com/httpsPop.jsp',document.clearMediaCCInfo);"><img id="clearMediaCCInfoNextBtnId" border="0" tabindex="15"></a>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- 7 clearMediaCCInfo -->
+	
+	<!-- 8 forgotPass -->
+	<div id="forgotPass">
+		<div class="close"><a href="javascript:closePanel('forgotPass');"><img id="forgotPassPhotobucketCloseImg" tabindex="4" onkeypress="onKeyPressEventKeyCode(event, 'forgotPassUsernameHideId');" onblur="setFocusToforgotPassFormForIE('forgotPassUser');"></a></div>
+		<div class="hd"></div>
+		<div class="bd clearfix" id="forgotPassBody">
+			<form id="forgotPassForm" name="forgotPassForm">
+			<br><br><br><br>
+				<img id="forgotPassUsernameHideId" border="0" height="1" width="1" tabindex="1">
+				<p>Please enter your username:<br>
+					<input type="text" name="subscriberUsernameText" style="width:368px;" class="inputTxt" maxlength="30" id="forgotPassUser" tabindex="2" onclick="textFiledValueSelect('forgotPassUser');" onkeypress="return submitForgotPass(this,event);">
+					<input type="hidden" name="response" value="xml">
+					<span id="forgotPassUserError" class="error"></span></p>
+			</form>
+			
+			<div id="forgotPassError" class="promoFeedback error"></div>
+			<!-- Processing -->
+			<span id="forgotPassProcessing"></span>
+			<span id="forgotPassUsername" style="display:none;"></span>
+		
+		</div>
+		<div class="ft">
+			<div class="clearfix">
+				<div class="buttons" style="float:right;">
+					<a href="javascript:verifyForgotPassUsername(document.getElementById('forgotPassForm'));"><img id="forgotPassSubmitBtnId" border="0" tabindex="3"></a>
+				</div>
+			</div>
+		</div>
+	</div>	
+	<!-- 8 forgotPass -->
+		
+	<!-- 9 passOptions -->
+	<div id="passOptions">
+		<div class="close"><a href="javascript:closePanel('passOptions');"><img id="passOptionsPhotobucketCloseImg" tabindex="4" onkeypress="onKeyPressEventKeyCode(event, 'passOptionsMainHideId');" onblur="setFocusTopassOptionsForIE('sendEmailBtnId');"></a></div>
+		<div class="hd"><h4>To reset your password, please choose one of these options:</h4></div>
+		<div class="bd clearfix" id="passOptionsBody">
+			<img id="passOptionsMainHideId" border="0" height="1" width="1" tabindex="1">
+			<p><strong>Option 1:</strong><br>
+			Change your password via email.  An email will be sent to:</p>
+			<p class="emailLink"><b><span id="passOptionsEmail">[email address]</span></b></p><br>
+			<img alt="" border="0" height="5" id="passOptionsSpacer1Img" width="1"><br>
+			<form id="sendForgotPassEmailForm" name="sendForgotPassEmailForm">
+				<input type="hidden" name="un" value="">
+				<input type="hidden" name="response" value="xml">
+			</form>
+			<div class="buttons" style="float:right; width:350px; text-align:right;"><a href="javascript:sendForgotPassEmail();"><img border="0" tabindex="2" id="sendEmailBtnId"></a></div>
+			<img alt="" border="0" height="5" id="passOptionsSpacer2Img" width="1"><br>
+			<div class="divider" style="margin-top:40px; "></div>
+			<img alt="" border="0" height="5" id="passOptionsSpacer3Img" width="1"><br>
+			<p><strong>Option 2:</strong><br>
+			Answer the security question you provided when you signed up.</p><br>
+			<img alt="" border="0" height="5" id="passOptionsSpacer4Img" width="1"><br>
+			<div class="buttons" style="float:right; width:350px; text-align:right;"><a href="javascript:javascript:forgotPass(4);"><img id="passOptionsAnwQuestionBtnImg" border="0" tabindex="3"></a></div>
+			
+		</div>
+		<div class="ft">
+			<div class="clearfix"></div>
+		</div>
+	</div>
+	<!-- 9 passOptions -->	
+	
+	<div id="confirmDOB">
+		<div class="close"><a href="javascript:closePanel('confirmDOB');"><img id="confirmDOBCloseBtn" tabindex="6" onkeypress="onKeyPressEventKeyCode(event, 'confirmBirthdateHideId');" onblur="setFocusToConfirmDOBForIE('confirmDOBMonth');"></a></div>
+		<div class="hd"></div>
+		<div class="bd clearfix" id="forgotPassBody">
+			<img id="confirmBirthdateHideId" border="0" height="1" width="1" tabindex="1">
+			<form id="confirmDOBForm" name="confirmDOBForm">
+			<br><br><p>
+				Please confirm your date of birth:<br>
+				<select id="confirmDOBMonth" name="confirmDOBMonth" class="dobMonth" onkeypress="submitEnterkey(event,'confirmDOBCheckId');" tabindex="2">
+					<option value="">Select</option>								
+					<option value="1">January</option>
+					<option value="2">February</option>
+					<option value="3">March</option>
+					<option value="4">April</option>
+					<option value="5">May</option>
+					<option value="6">June</option>
+					<option value="7">July</option>
+					<option value="8">August</option>
+					<option value="9">September</option>
+					<option value="10">October</option>
+					<option value="11">November</option>
+					<option value="12">December</option>
+				</select>
+				<select id="confirmDOBDate" name="confirmDOBDate" class="dobDate" onkeypress="submitEnterkey(event,'confirmDOBCheckId');" tabindex="3">
+					<option value="">Select</option>								
+					<option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option>
+				</select>
+				<select id="confirmDOBYear" name="confirmDOBYear" class="dobYear" onkeypress="submitEnterkey(event,'confirmDOBCheckId');" tabindex="4">
+					<option value="">Select</option>								
+					<option value="2009">2009</option><option value="2008">2008</option><option value="2007">2007</option><option value="2006">2006</option><option value="2005">2005</option><option value="2004">2004</option><option value="2003">2003</option><option value="2002">2002</option><option value="2001">2001</option><option value="2000">2000</option><option value="1999">1999</option><option value="1998">1998</option><option value="1997">1997</option><option value="1996">1996</option><option value="1995">1995</option><option value="1994">1994</option><option value="1993">1993</option><option value="1992">1992</option><option value="1991">1991</option><option value="1990">1990</option><option value="1989">1989</option><option value="1988">1988</option><option value="1987">1987</option><option value="1986">1986</option><option value="1985">1985</option><option value="1984">1984</option><option value="1983">1983</option><option value="1982">1982</option><option value="1981">1981</option><option value="1980">1980</option><option value="1979">1979</option><option value="1978">1978</option><option value="1977">1977</option><option value="1976">1976</option><option value="1975">1975</option><option value="1974">1974</option><option value="1973">1973</option><option value="1972">1972</option><option value="1971">1971</option><option value="1970">1970</option><option value="1969">1969</option><option value="1968">1968</option><option value="1967">1967</option><option value="1966">1966</option><option value="1965">1965</option><option value="1964">1964</option><option value="1963">1963</option><option value="1962">1962</option><option value="1961">1961</option><option value="1960">1960</option><option value="1959">1959</option><option value="1958">1958</option><option value="1957">1957</option><option value="1956">1956</option><option value="1955">1955</option><option value="1954">1954</option><option value="1953">1953</option><option value="1952">1952</option><option value="1951">1951</option><option value="1950">1950</option><option value="1949">1949</option><option value="1948">1948</option><option value="1947">1947</option><option value="1946">1946</option><option value="1945">1945</option><option value="1944">1944</option><option value="1943">1943</option><option value="1942">1942</option><option value="1941">1941</option><option value="1940">1940</option><option value="1939">1939</option><option value="1938">1938</option><option value="1937">1937</option><option value="1936">1936</option><option value="1935">1935</option><option value="1934">1934</option><option value="1933">1933</option><option value="1932">1932</option><option value="1931">1931</option><option value="1930">1930</option><option value="1929">1929</option><option value="1928">1928</option><option value="1927">1927</option><option value="1926">1926</option><option value="1925">1925</option><option value="1924">1924</option><option value="1923">1923</option><option value="1922">1922</option><option value="1921">1921</option><option value="1920">1920</option><option value="1919">1919</option><option value="1918">1918</option><option value="1917">1917</option><option value="1916">1916</option><option value="1915">1915</option><option value="1914">1914</option><option value="1913">1913</option><option value="1912">1912</option><option value="1911">1911</option><option value="1910">1910</option><option value="1909">1909</option><option value="1908">1908</option><option value="1907">1907</option><option value="1906">1906</option><option value="1905">1905</option><option value="1904">1904</option><option value="1903">1903</option><option value="1902">1902</option><option value="1901">1901</option><option value="1900">1900</option>					
+				</select>
+				<input type="hidden" id="confirmDOBGUID" name="guid" value="">
+				<input type="hidden" name="response" value="xml">
+				<br></p>
+				<img alt="" border="0" height="5" id="confirmDOBSpacerImg" width="1"><br>
+				<div id="dateFieldError" class="error" style="height:15px;"></div>
+			</form>
+			<span id="forgotPassGUID" style="display:none"></span>
+			<div id="confirmDOBError" class="promoFeedback error"></div>
+			<!-- Processing -->
+			<span id="confirmDOBProcessing"></span>
+		</div>
+		<div class="ft">
+			<div class="clearfix">
+				<div class="buttons" style="float:right;"><a href="javascript:verifyDOBValidation(document.getElementById('confirmDOBForm'));"><img id="confirmDOBCheckId" border="0" tabindex="5"></a></div>
+			</div>
+		</div>
+	</div>
+	
+	<div id="forgotPassSecurityQuestion">
+		<div class="close"><a href="javascript:closePanel('forgotPassSecurityQuestion');"><img id="forgotPassSecurityQuestionPhotobucketCloseImg" tabindex="4" onkeypress="onKeyPressEventKeyCode(event, 'mothersMaidenHideId');" onblur="setFocusToforgotPassQuestionFormForIE('mothersText');"></a></div>
+		<div class="hd"></div>
+		<div class="bd clearfix" id="forgotPassBody">
+			<img id="mothersMaidenHideId" border="0" height="1" width="1" tabindex="1">
+			<form id="forgotPassQuestionForm" name="forgotPassQuestionForm"><br><br>
+				<p><span id="forgotPassQuestion"></span><br>
+				<input type="text" name="answer" id="mothersText" class="inputTxt" style="width:368px;" tabindex="2" onclick="textFiledValueSelect('mothersText');" onkeypress="return submitEnterPassQuestion(this,event);"><br></p>
+				<input type="hidden" name="guid" value="">
+				<input type="hidden" name="question" value="">
+				<input type="hidden" name="response" value="xml">
+			</form>
+			<div id="motherError" class="error" style="height:15px;"></div>
+			<br>
+			<div id="forgotPassQuestionError" class="promoFeedback error"></div>
+			<!-- Processing -->
+			<span id="forgotPassQuestionProcessing"></span>				
+		</div>
+		<div class="ft">
+			<div class="clearfix">
+				<div class="buttons" style="float:right;"><a href="javascript:verifySecurityAnswerValidation(document.getElementById('forgotPassQuestionForm'));"><img id="motherMNameCheckId" border="0" tabindex="3"></a></div>
+			</div>	
+		</div>
+	</div>	
+	
+	<div id="newPassword">
+		<div class="close"><a href="javascript:closePanel('newPassword');"><img id="newPasswordPhotobucketCloseImg" tabindex="5" onkeypress="onKeyPressEventKeyCode(event, 'newPasswordHideId');" onblur="setFocusTonewPasswordFormForIE('passwordText');"></a></div>
+		<div class="hd"></div>
+		<div class="bd clearfix" id="forgotPassBody">
+			<img id="newPasswordHideId" border="0" height="1" width="1" tabindex="1">
+			<form id="newPasswordForm" name="newPasswordForm" method="POST"><br><br>
+				<p>Enter new password:<br>
+				<input type="password" name="pw" id="passwordText" class="inputTxt" style="width:368px;" tabindex="2" onclick="textFiledValueSelect('passwordText');" onkeypress="submitEnterkey(event,'newPasswordCheckId');"><br></p>
+				<p>Re-enter new password:<br>
+				<input type="password" name="pw2" id="passwordText2" class="inputTxt" style="width:368px;" tabindex="3" onclick="textFiledValueSelect('passwordText2');" onkeypress="submitEnterkey(event,'newPasswordCheckId');"><br></p>
+				<input type="hidden" name="un" value="">
+				<input type="hidden" name="response" value="xml">
+				<input type="hidden" name="email" value="false">
+			</form>
+			<div id="newPassError" class="error"></div>
+			<br>
+			<div id="newPasswordError" class="promoFeedback error"></div>
+			<span id="newPasswordProcessing"></span>		
+		</div>
+		<div class="ft">
+			<div class="clearfix">
+				<div class="buttons" style="float:right;"><a href="javascript:newPasswordValidation(document.getElementById('newPasswordForm'));"><img id="newPasswordCheckId" border="0" tabindex="4"></a></div>
+			</div>
+		</div>
+	</div>	
+
+	<div id="securityFoot" style="display:none">
+		<div class="clearfix">
+			<div class="buttons" style="float:right;"><a id="securityFootLink" href="javascript:verifyDOBValidation(document.getElementById('confirmDOBForm'));"><img id="confirmDOBCheckId" src="http://cache1.clear365.com/images/box/submit_btn.gif" border="0" tabindex="5"></a></div>
+		</div>	
+	</div>	
+	
+	<!-- songPurchaseConf -->
+	<div id="songPurchaseConf">
+		<div class="close" id="closeButton"><a href="javascript:closePanel('songPurchaseConf');"><img id="songPurchaseConfCloseBtnId" tabindex="6" onkeypress="onKeyPressEventKeyCode(event, 'songPurchaseConfHideId');" onblur="setFocusTosongPurchaseConfForIE('promoCode');"></a></div>
+		<div class="hd" id="songPurchHd"><h4>Purchase Review:</h4></div>
+		<div class="bd clearfix" id="songPurchBody">
+			<img id="songPurchaseConfHideId" border="0" height="1" width="1" tabindex="1">
+			<strong><span style="font-size: 13px;">You have chosen to purchase:</span></strong><br><br>
+						<div id="finalSongTitle" style="display:inline; font-weight:bold;" class="emailLink"></div>
+			<div id="finalArtist" style="display:inline; font-weight:bold;" class="emailLink"></div><br>
+			<div id="finalCost" style="display:inline; font-weight:bold;" class="emailLink"></div> 
+			<div style="display:inline; font-weight:bold;" class="emailLink">+ tax</div><br>
+			<img alt="" border="0" height="5" id="songPurchaseConfSpacer1Img" width="1"><br><br>
+			<hr style="height:1px;margin:0px;padding:0px;">
+			<img alt="" border="0" height="5" id="songPurchaseConfSpacer2Img" width="1"><br>
+				<div id="promoArea">
+					<form id="validatePromoCodeForm" name="validatePromoCodeForm">
+						<p>Enter Promotion Code:<br>
+						<input type="text" name="promoCode" id="promoCode" class="inputTxt" style="width:200px;" tabindex="2" onkeypress="return submitEnterPromo(this,event);" onclick="textFiledValueSelect('promoCode');">
+						&nbsp;&nbsp;<span id="promoSubmit"><a href="javascript:validatePromoCodeValidation(document.getElementById('validatePromoCodeForm'));" tabindex="3">Apply</a></span></p>
+						<input type="hidden" name="currentSong" value="">
+						<input type="hidden" name="response" value="xml">
+					</form>
+				<div style="margin:0px; padding:0px;">
+					<p>Unused credit may be redeemed with qualifying orders.  Check My Account for credit history. <span id="promoRules"></span></p>
+				</div>
+				
+				<!-- First error code -->
+				<div id="promoFeedbackError" class="promoFeedback error"></div>
+				<!-- Promo long description -->
+				<div id="promoLongDescError" class="promoFeedback error" style="margin-top:5px;"></div>				
+				<!-- Second error code (text displays in red) -->
+				<div id="promoFeedback2Error" class="promoFeedback error"></div>
+				<!-- Processing -->
+				<span id="songPurchaseConfProcessing"></span>				
+			</div>
+		</div>
+
+		<div class="ft">
+			<div class="clearfix">
+				<div id="songPurchFt">
+					<div class="buttons" style="float:right;">
+						<a href="javascript:YAHOO.CLWRBuyProcess.songPurchaseConf.hide();"><img id="songPurchaseConfCancelImg" border="0" tabindex="4"></a>&nbsp;&nbsp;
+						<a href="javascript:chargeAndDownload();" id="confirmPurchase"><img id="songPurchaseConfPurchaseId" border="0" tabindex="5"></a>						
+					</div>					
+				</div>
+			</div>
+			<p><span id="sonyText">Any Permanent Downloads of Sony Music content are sold directly by SBME Digital LLC via MediaNet as its agent.<br><br></span></p>
+		</div>
+	</div>	
+	<!-- songPurchaseConf -->
+		
+	<div id="confText">
+		<div class="close" id="closeButton"><a href="javascript:closePanel('confText');" id="confTextCloseBtnLink"><img id="confTextPhotobucketCloseImg" tabindex="6"></a></div>
+		<div class="hd" id="songPurchHd"><h4>Purchase Confirmation:</h4></div>
+		<div class="bd clearfix">	
+		<img alt="" border="0" height="5" id="confTextSpacerImg" width="1"><br>		
+		<div id="downloadManagerFlash" style="margin-left:0px; height:137px;">
+		<script language="javascript">
+               // Globals
+               // Major version of Flash required
+               var requiredMajorVersion = 9;
+               // Minor version of Flash required
+               var requiredMinorVersion = 0;
+               // Revision of Flash required
+               var requiredRevision = 124;
+               if (AC_FL_RunContent == 0) {
+                   //alert("This page requires AC_RunActiveContent.js.");
+               } else {
+                              var hasRightVersion = DetectFlashVer(requiredMajorVersion, requiredMinorVersion, requiredRevision);
+                              if(hasRightVersion) { 
+                                             var wmode = "";
+                                             if( (navigator.appVersion.indexOf("Mac")!=-1) && (YAHOO.env.ua.gecko > 0) && (YAHOO.env.ua.gecko <= 1.8) )
+                                                            wmode = "window";
+                                             else
+                                                            wmode = "transparent";                              
+                                             AC_FL_RunContent(
+                                                            'codebase', 'http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0',
+                                                            'width', '374',
+                                                            'height', '137',
+                                                            'src', 'flash/installer_widget_pp',
+                                                            'quality', 'high',
+                                                            'pluginspage', 'http://www.macromedia.com/go/getflashplayer',
+                                                            'align', 'middle',
+                                                            'play', 'true',
+                                                            'loop', 'true',
+                                                            'scale', 'showall',
+                                                            'wmode', wmode,
+               'FlashVars', 'airurl=flash%2Fair.swf&url=http%3A//q.clear365.com/Installer/installer/installerV1/distrib/Clear365DM.air&pubID=6CA0E3DCB611C4058D663E3EA3FC398DE73E10F8.1&appID=com.clearmedia.DownloadManager',
+                                                            'devicefont', 'false',
+                                                            'id', 'installer_widget_pp',
+                                                            'bgcolor', '#ffffff',
+                                                            'name', 'installer_widget_pp',
+                                                            'menu', 'true',
+                                                            'allowFullScreen', 'false',
+                                                            'allowScriptAccess','always',
+                                                            'movie', 'flash/installer_widget_pp',
+                                                            'salign', ''
+                                                            ); //end AC code
+                              } else {  // flash is too old or we can't detect the plugin
+                                             var alternateContent = '<div style="width: 242px; height: 44px; border: 0px solid #000;">The Download Manager installation requires  '
+                                             + 'Adobe Flash Player version 9.0.124 or higher. '
+                                             + '<a href="http://www.macromedia.com/go/getflash/" target="_blank">Get the latest version of Flash</a>. You can download your purchase from <a href="myAccountPurchases.htm">My Account</a>.</div>';
+                                             document.write(alternateContent); // insert non-flash content
+                              }
+               }
+		</script>
+		<noscript>
+		<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" width="374" height="137" id="installer_widget_pp" align="middle">
+		<param name="allowScriptAccess" value="always" />
+		<param name="allowFullScreen" value="false" />
+ 		<PARAM NAME=FlashVars VALUE="url=url=http%3A//q.clear365.com/Installer/installer/installerV1/distrib/Clear365DM.air&pubID=6CA0E3DCB611C4058D663E3EA3FC398DE73E10F8.1&appID=com.clearmedia.DownloadManager" />
+		<param name="movie" value="flash/installer_widget_pp.swf" FlashVars="url=url=http%3A//q.clear365.com/Installer/installer/installerV1/distrib/Clear365DM.air&pubID=6CA0E3DCB611C4058D663E3EA3FC398DE73E10F8.1&appID=com.clearmedia.DownloadManager"/><param name="quality" value="high" /><param name="bgcolor" value="#ffffff" />	<embed src="flash/installer_widget_pp.swf" quality="high" bgcolor="#ffffff" width="256" height="200" name="installer_widget_pp" align="middle" allowScriptAccess="always" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+		</object>
+		</noscript>		
+	</div>
+		<div><br></div>
+		<div class="clearBoth"></div>
+		<p>Please <a href="myAccountPurchases.htm">visit My Account</a> for a direct download of your content.<br><br>
+		<span id="sonyText">Any Permanent Downloads of Sony Music content are sold directly by SBME Digital LLC via MediaNet as its agent.</span></p>
+	</div>
+
+		<div class="ft">
+			<div class="clearfix">
+				<div id="songPurchFt">
+					<div class="buttons" style="height:5px;"></div>
+				</div>
+			</div>
+		</div>	
+	</div>
+	
+	<!-- Email Auto Link Form -->
+	<div id="emailAutoLink">
+		<form id="emailAutoLinkForm" name="emailAutoLinkForm" method="POST" action="LogIn">
+			<input type="hidden" name="j_username">
+			<input type="hidden" name="j_password">				
+			<input type="hidden" name="provider" value="">
+			<input type="hidden" name="service" value="mail">
+			<input type="hidden" name="redirect" value="footerPrivacyPolicy.htm?emailAutoLink=success">
+			<input type="hidden" name="redirectFail" value="footerPrivacyPolicy.htm?emailAutoLink=fail">
+			<input type="hidden" name="cpid" value="">
+			<input type="hidden" name="emailSignUpLinking" value="Y">
+			<input type="hidden" name="clear365user">
+		</form>	
+	</div>
+	<!-- Email Auto Link Form -->
+	
+	<!-- Email Auto Link Form (retry after auto failed attempt) -->
+	<div id="emailAutoLinkFail">
+		<p>Your account has been set up. An email confirmation has been sent to you at <b><span id="emailAutoLinkFailEmailField">[email address]</span></b>.</p>
+		<p>Thank you for joining Clear365!</p>
+		<div class="clearBoth"></div>
+		<div class="divider"></div><br>
+		<b><div id="errorEmailValidError" class="error"></div></b>
+		<p>Enter your Clear or Clearwire email information below to access your email anytime on Clear365.</p>
+		<form name="emailAutoLinkFailForm" id="emailAutoLinkFailForm" method="POST" action="LogIn">
+			<p>Email Address:<input type="text" name="j_username" style="width:140px;" class="inputTxt" id="autoLinkEmailAddress" onkeypress="submitEnterkey(event,'emailAutoLinkFailId');">&nbsp;@&nbsp; 
+			<select name="provider" class="inputFields" id="emailObj" style="width:100px;" onkeypress="submitEnterkey(event,'emailAutoLinkFailId');">
+				<option value="">Please Select</option>
+				<option value="google">clearwire.net</option>
+				<option value="googleclear">clear.net</option>
+			</select><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			Password:<input type="password" name="j_password" style="width:140px;" class="inputTxt" id="autoLinkPassword" onkeypress="submitEnterkey(event,'emailAutoLinkFailId');">
+				<input type="hidden" name="service" value="mail">
+				<input type="hidden" name="redirect" value="footerPrivacyPolicy.htm?emailAutoLink=success">
+				<input type="hidden" name="redirectFail" value="footerPrivacyPolicy.htm?emailAutoLink=fail">
+				<input type="hidden" name="cpid" value="">
+				<input type="hidden" name="emailSignUpLinking" value="Y">
+				<input type="hidden" name="clear365user">		
+				<input type="hidden" name="retry" value="true">
+		</p>
+		</form>
+		<p><span id="errorEmailUserError" class="error"></span></p>
+		
+		<div class="buttons" style="float:right;"><a href="javascript:validateEmailAutoLinkFail(document.getElementById('emailAutoLinkFailForm'))" id="emailAutoLinkFailLink"><img id="emailAutoLinkFailId" src="http://cache1.clear365.com/images/box/linkemail_btn.gif" border="0"></a></div>
+	</div>
+	<!-- Email Auto Link Form (retry after auto failed attempt) -->
+
+	
+	<!-- End LogIn & Purchase Path -->	
+	
+
+	
+</body></html>
