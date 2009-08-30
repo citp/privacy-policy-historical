@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chinatour.net privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426201238id_/http%3A//chinatour.net/information.php%3Finfo_id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinatour.net privacy policy that was archived on 2009-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090830211751id_/http%3A//chinatour.net/information.php%3Finfo_id%3D2) for the most accurate reproduction.*
 
 # Security & Privacy
 
