@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comcast.net privacy policy that was archived on 2009-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090315091412id_/http%3A//www.comcast.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comcast.net privacy policy that was archived on 2009-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090830224956id_/http%3A//www.comcast.net/privacy) for the most accurate reproduction.*
 
 # Comcast.net Privacy Policy
 
