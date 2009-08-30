@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masteringphysics.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216023824id_/http%3A//www.pearsoned.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masteringphysics.com privacy policy that was archived on 2009-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090830054733id_/http%3A//www.pearsoned.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # Pearson Education: Privacy Policy
 
