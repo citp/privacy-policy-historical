@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pattaya-addicts.com privacy policy that was archived on 2009-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090309095415id_/http%3A//www.pattaya-addicts.com/Privacy_Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pattaya-addicts.com privacy policy that was archived on 2009-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090830162824id_/http%3A//www.pattaya-addicts.com/Privacy_Statement.html) for the most accurate reproduction.*
 
 # Contact Us-Pattaya Addicts Forum
 
