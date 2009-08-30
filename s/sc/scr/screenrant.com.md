@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screenrant.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429044238id_/http%3A//screenrant.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screenrant.com privacy policy that was archived on 2009-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090830055358id_/http%3A//screenrant.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Screen Rant
 
@@ -36,5 +36,3 @@ Consumers can access this information by e-mail us at the above address.
 Consumers can have this information corrected by sending us e-mail at the above address.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA’s Committee on Ethical Business Practices at mgoldberger@the-dma.org, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
-
-If you're new here, you may want to subscribe to our [RSS feed](http://feeds.feedburner.com/ScreenRant "Subscribe to our feed, Screen Rant - TV and movie news without the sugar coating") or if you want more frequent updates follow us on [Twitter](http://twitter.com/screenrant). Thanks for visiting!
