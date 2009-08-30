@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the currentcatalog.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525193225id_/http%3A//www.currentcatalog.com/-Customer%2BService-Privacy%2B%26%2BSecurity.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the currentcatalog.com privacy policy that was archived on 2009-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090830204248id_/http%3A//www.currentcatalog.com/-Customer%2BService-Privacy%2B%26%2BSecurity.html) for the most accurate reproduction.*
 
 # Privacy & Security - Current Catalog
 
@@ -44,7 +44,7 @@ And in the event that some or all of the business assets of www.CurrentCatalog.c
 www.CurrentCatalog.com may share your personal information with unrelated outside companies so that they can directly market their products or services to you if we feel that a company offers products or services that we believe may be of interest. We also may provide you with the opportunity to sign up on our website to receive such email offers. 
 
 **Can I Review and Change My Information?**   
-If you have questions about your order you may check your order status online by [clicking here](https://web.archive.org/web/20090525193225id_/http%3A//www.currentcatalog.com/account/orderhistory/orderlisttrackingmain.jsp). 
+If you have questions about your order you may check your order status online by [clicking here](https://web.archive.org/web/20090830204248id_/http%3A//www.currentcatalog.com/account/orderhistory/orderlisttrackingmain.jsp). 
 
 If you would like to email our Customer Service Department, contact us at [CurrentCustomerService@CurrentInc.com](mailto:CurrentCustomerService@CurrentInc.com). 
 
