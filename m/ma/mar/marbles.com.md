@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marbles.com privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522032637id_/http%3A//www.marbles.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marbles.com privacy policy that was archived on 2009-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090830171645id_/http%3A//www.marbles.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -22,19 +22,22 @@ The Data Protection Act puts obligations on users of personal information and la
 
 Organisations must lodge a notification with the Information Commissioner describing the purposes for which they process personal information. The details are publicly available from the Commissioner's office at Wycliffe House, Water Lane, Wilmslow, Cheshire SK9 5AF (Tel 01625 545745. Fax 01625 524510). Alternatively, see the Commissioner's website ([www.ico.gov.uk](http://www.ico.gov.uk/)).
 
+Unless you have given us your consent, we will not provide information about you to companies outside our group to use for their own marketing purposes. Sometimes we need to give information to our agents and subcontractors so that they can provide a particular service for us. Sometimes, these companies may be located abroad in countries that do not have adequate data protection laws. In these circumstances we always take great care to ensure that your personal information is kept safe and secure. If you hold a credit or debit card with us, we will share transaction details with our scheme providers (e.g. MasterCard). Other members of our group may also share your information to help keep their records up to date and administer your relationship with them.
+
 We are also committed to meeting the standards set by the Banking Code, copies of which are available in branches of Halifax or on their website ([www.bba.org.uk](http://www.bba.org.uk/)). Occasionally, the Banking Code Standards Board's compliance monitoring body audits a sample of our customer records to assess our compliance with the Code. Whenever this happens, strict confidentiality conditions are always imposed.
 
-Some Acts of Parliament oblige us to disclose information about our customers to certain bodys with statutory powers. For example, we must give information to authorised benefit fraud investigators where fraudulent benefit claims are suspected. In addition, the Inland Revenue has the statutory authority to audit our customers' accounts from time to time.
+Some Acts of Parliament oblige us to disclose information about our customers to certain bodies with statutory powers. For example, we must give information to authorised benefit fraud investigators where fraudulent benefit claims are suspected. In addition, the Inland Revenue has the statutory authority to audit our customers' accounts from time to time.
 
-If you email us or give us your email address, we will keep a record of it. We may use it to contact you occasionally about other products and services which may interest you, unless you ask us to not do so. Each email that we send you will give you the opportunity to opt-out of emails. We will not give your email address to any unauthorised third parties.
+If you email us, or give us your email address, we will keep a record of it. We may use it to contact you occasionally about other products and services, which may interest you, unless you ask us not to do so. We will not give your email address to any unauthorised third parties. When emailing us, we recommend you use the email facility on our websites to make sure that the content of your email is secure. If you send us email in other ways, remember that it will be ‘insecure’ and could be intercepted. If you do send  
+us ‘insecure’ email, please keep the amount of confidential information you include to a minimum. We will do likewise when we reply. With your permission, we may also send you text messages containing administrative information about your relationship with us. You can ask us to stop sending these messages at any time.
 
-The Data Protection Act defines certain information as 'sensitive' (racial or ethnic origin, political opinions, religious beliefs, trade union membership, physical or mental health, sexual life, criminal proceedings and offences). If you apply to us for insurance, a pension, health insurance or life insurance, we may ask you for some 'sensitive' details. We will only use this information to provide you with the service you require and we will ask you for your explicit consent. As a customer there may be times when you give us sensitive information. We may share it with other parts of the HBOS group and our subcontractors to keep your records up to date. Some transactions that you (or an additional cardholder) make on a card account may cause sensitive or confidential details to appear on your statement. If your card is used for such transactions, we believe that the details appear on your statement with your explicit consent.
+The Data Protection Act defines certain information as 'sensitive' (racial or ethnic origin, political opinions, religious beliefs, trade union membership, physical or mental health, sexual life, criminal proceedings and offences). If you apply to us for insurance, a pension, health insurance or life insurance, we may ask you for some 'sensitive' details. We will only use this information to provide you with the service you require and we will ask you for your explicit consent. As a customer there may be times when you give us sensitive information. We may share it with other parts of the Lloyds Banking Group and our subcontractors to keep your records up to date. Some transactions that you (or an additional cardholder) make on a card account may cause sensitive or confidential details to appear on your statement. If your card is used for such transactions, we believe that the details appear on your statement with your explicit consent.
 
 ####   
 your choices & how to contact us
 
   
-We may use your account details, transactions and information provided to us by third parties in our customer contact programme. Occasionally, members of our group of companies may contact you by letter, telephone, email and text message or otherwise to inform you about other products and services that may interest you. We try to limit our customer contact programme to acceptable levels, but if you wish to exercise your right to opt out, simply contact our customer services on 0845 602 7795. 
+We may use your account details, transactions and information provided to us by third parties in our customer contact programme. Occasionally, members of our group of companies may contact you by letter, telephone, email and text message or otherwise to inform you about other products and services that may interest you. This contact may also continue after your relationship with us ends. We try to limit our customer contact programme to acceptable levels, but if you wish to exercise your right to opt out, simply contact our customer services on 0845 602 7795. 
 
 Remember however, that opting out could stop us contacting you about any of our products or services that may benefit you.
 
@@ -52,9 +55,13 @@ Alternatively you can register online. For more details about all the Preference
 credit referencing and fraud prevention
 
   
-If you apply for an aqua credit card, we will perform a search with a credit reference agency. From then on, we will also give the agency regular information about how you use your card. Other lenders may become aware of our search.  If you apply for credit in future, lenders may use its existence in their decision making process. 
+If you apply for a marbles credit card, we will perform a search with a credit reference agency. 
 
-Credit reference agencies may give us information about you, which may be linked to someone with whom you have had a financial association, such as a joint bank account. We may treat you as being financially linked when assessing your application for an aqua card. (This association will remain until one of you successfully files a "notice of disassociation" at the credit reference agencies, when it is no longer appropriate for your finances to be linked.) 
+We may give details of your account and how you conduct it to credit reference agencies. Similar information may also be given about your other lending/credit relationships with members of the group. If you borrow and do not repay in full and on time, we may tell credit reference agencies who will record the outstanding debt. 
+
+From then on, we will also give the agency regular information about how you use your card. Other lenders may become aware of our search.  If you apply for credit in future, lenders may use its existence in their decision making process. 
+
+Credit reference agencies may give us information about you, which may be linked to someone with whom you have had a financial association, such as a joint bank account. We may treat you as being financially linked when assessing your application for a marbles card. (This association will remain until one of you successfully files a "notice of disassociation" at the credit reference agencies, when it is no longer appropriate for your finances to be linked.) 
 
 If false or inaccurate information is provided and fraud is identified, details will be passed to fraud prevention agencies to prevent fraud and money laundering. 
 
@@ -76,7 +83,7 @@ A:** Publicly available information:
 \- Credit information comes from information on applications to banks, building societies, credit card companies etc. and also from the conduct of those accounts
 
  **Q: How will I know if my information is to be sent to a CRA or FPA?  
-A:** You will be told when you apply for an account if your data will be supplied. The next section tells you how, when and why we will search at CRAs and what we will do with the information we obtain from them. We will also tell you if we plan to send payment history on you or your business, if you have one, to CRAs. You can ask at any time for the name of the CRAs and FPAs used by HBOS.
+A:** You will be told when you apply for an account if your data will be supplied. The next section tells you how, when and why we will search at CRAs and what we will do with the information we obtain from them. We will also tell you if we plan to send payment history on you or your business, if you have one, to CRAs. You can ask at any time for the name of the CRAs and FPAs used by Lloyds Banking Group.
 
  **Q: Why is my data used in this way?  
 A:** We and other organisations want to make the best possible decisions we can, in order to make sure that you or your business will be able to repay us. Some organisations may also use the information to check your identity. In this way we can ensure that we all make responsible decisions. At the same time we also want to make decisions quickly and easily using up to date information provided electronically, allowing us to make the most reliable and fair decisions possible.
@@ -138,7 +145,7 @@ iii) Trace your whereabouts and recover payment if you do not make payments that
 iv) Conduct checks for the prevention and detection of crime including fraud and/or money laundering  
 v) Manage your personal, your partner's and/or business account (if you have one)  
 vi) Manage your personal, your partner's and/or business insurance policies (if you have one/any)  
-vii) Undertake statistical analysis and system training
+vii) Undertake statistical analysis and system testing
 
 b) Your data may also be used for other purposes for which you give your specific permission or, in very limited circumstances, when required by law or where permitted under the terms of the Data Protection Act 1998
 
@@ -160,7 +167,7 @@ Tel 0870 060 1414*
 
 Equifax PLC  
 Credit File Advice Centre  
-PO Box 3001  
+PO Box 1140  
 Bradford  
 BD1 5US  
 Tel 0870 010 0583*  
