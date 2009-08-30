@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sportsviews.com privacy policy that was archived on 2009-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090414122914id_/http%3A//www.sportsviews.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsviews.com privacy policy that was archived on 2009-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090830050516id_/http%3A//www.sportsviews.com/policy.php) for the most accurate reproduction.*
 
-# Sportsviews - Privacy Policy
+# Privacy Policy
 
 At Sportsviews, we respect people’s privacy. To understand how we treat the information our members give us as they use Sportsviews, you should read the privacy policy. 
 
