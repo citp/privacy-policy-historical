@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the hotfreelayouts.com privacy policy that was archived on 2009-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090219023906id_/http%3A//www.hotfreelayouts.com/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotfreelayouts.com privacy policy that was archived on 2009-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090830022029id_/http%3A//www.hotfreelayouts.com/main/privacy) for the most accurate reproduction.*
 
 # MyHotComments - Privacy Policy
 
 Contact: 
     
     
-    X92.net, Inc.
-    hotfreelayouts AT gmail.com
+    Stylem Media
+    apps AT stylem.com
     5757 Wilshire Blvd Suite 620
     Los Angeles, CA 90036
     
@@ -14,6 +14,10 @@ Contact:
 This Privacy Policy is effective on 10/10/05 
 
 third parties may be placing and reading cookies on your users. browser, or using web beacons to collect information, in the course of ads being served on your website. 
+
+Google, as a third party vendor, uses cookies to serve ads on your site.  
+Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
+Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible). 
 
@@ -33,4 +37,4 @@ Customers may prevent their information from being used for purposes other than 
 
 Consumers can access this information by sending us e-mail us at the above address. Consumers can have this information corrected by sending us e-mail at the above address. With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. 
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number. 
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number or via [Contact Form](https://web.archive.org/main/contactus)
