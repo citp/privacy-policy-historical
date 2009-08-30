@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imakenews.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624134246id_/http%3A//www.imakenews.com/imn_site/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imakenews.com privacy policy that was archived on 2009-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090830163912id_/http%3A//www.imakenews.com/imn_site/privacypolicy.htm) for the most accurate reproduction.*
 
 # IMN
 
@@ -60,7 +60,7 @@ You remain in control of your information. When you provide your information you
 
 
 **Data Security**  
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Customer accounts are password-protected so that only the customer has access to his/her personal information. It is incumbent on the customer not to divulge their password to anyone. We will never ask for a customer's password in an unsolicited phone call or in an unsolicited email. Although we make every effort to ensure security of customer information, no data transmission can be guaranteed to be 100% secure over the Internet. [Click here for more information.](https://web.archive.org/web/20090624134246id_/http%3A//www.imakenews.com/imn_site/imn_security.asp)  
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Customer accounts are password-protected so that only the customer has access to his/her personal information. It is incumbent on the customer not to divulge their password to anyone. We will never ask for a customer's password in an unsolicited phone call or in an unsolicited email. Although we make every effort to ensure security of customer information, no data transmission can be guaranteed to be 100% secure over the Internet. [Click here for more information.](https://web.archive.org/web/20090830163912id_/http%3A//www.imakenews.com/imn_site/imn_security.asp)  
 
 
 **Questions and Contact Information**  
