@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ylighting.com privacy policy that was archived on 2009-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090302094544id_/http%3A//www.ylighting.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ylighting.com privacy policy that was archived on 2009-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090830020250id_/http%3A//ylighting.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ We use the latest encryption technology to keep your personal information safe. 
 
 Credit card transactions are handled by a respected third-party financial institution, which receives the credit card number and other personal identifying information only to verify the credit card numbers and process transactions.
 
-Both YLighting and our hosting provider, Yahoo!, may set and access cookies on your computer to improve your shopping experience. You can configure your web browser to accept all cookies, reject all cookies, or notify you when a cookie is set.
+Both YLighting and our hosting provider, Yahoo!, may set and access cookies on your computer to improve your shopping experience. We may also use pixel tags to collect non-personally identifiable information in order to deliver banner advertisements and other advertising tailored to your interests. You can configure your web browser to accept all cookies, reject all cookies, or notify you when a cookie is set.
 
 By using our web site, you consent to the collection and use of this information by Ylighting. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
