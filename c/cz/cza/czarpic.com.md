@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the czarpic.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626121742id_/http%3A//czarpic.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the czarpic.com privacy policy that was archived on 2009-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090830232121id_/http%3A//czarpic.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # CZARpic » More Information » Privacy Policy
 
