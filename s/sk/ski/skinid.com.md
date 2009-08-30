@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skinid.com privacy policy that was archived on 2009-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090303183221id_/http%3A//skinid.com/econsumer/clearskin/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinid.com privacy policy that was archived on 2009-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090830061911id_/http%3A//www.skinid.com/econsumer/clearskin/pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy – Neutrogena skin iD
 
@@ -62,7 +62,7 @@ This Privacy Policy may change over time. Neutrogena will notify you by e-mail o
 
 ###### 12\. Other Terms.
 
-Your use of this site is subject to our [Legal Notice](https://web.archive.org/web/20090303183221id_/http%3A//skinid.com/econsumer/clearskin/pages/legal.html) and [Terms of use](https://web.archive.org/web/20090303183221id_/http%3A//skinid.com/econsumer/clearskin/pages/terms.html).
+Your use of this site is subject to our [Legal Notice](https://web.archive.org/web/20090830061911id_/http%3A//www.skinid.com/econsumer/clearskin/pages/legal.html) and [Terms of use](https://web.archive.org/web/20090830061911id_/http%3A//www.skinid.com/econsumer/clearskin/pages/terms.html).
 
 Effective Date: May 7, 2008 
 
