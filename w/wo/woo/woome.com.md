@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woome.com privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221155119id_/http%3A//www.woome.com/woome/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woome.com privacy policy that was archived on 2009-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090830193115id_/http%3A//www.woome.com/woome/privacy) for the most accurate reproduction.*
 
 # WooMe.com | Meet People Live in Voice and Video Online Speed Dating Sessions
 
