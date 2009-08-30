@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localyte.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602130225id_/http%3A//www.localyte.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localyte.com privacy policy that was archived on 2009-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090830070212id_/http%3A//www.localyte.com/privacy.php) for the most accurate reproduction.*
 
 # Localyte.com - Travel like a Local!
 
