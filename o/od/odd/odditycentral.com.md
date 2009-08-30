@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the odditycentral.com privacy policy that was archived on 2009-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090220182320id_/http%3A//www.odditycentral.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odditycentral.com privacy policy that was archived on 2009-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090830022052id_/http%3A//www.odditycentral.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Oddity Central
+# Privacy policy | Oddity Central - Collecting Oddities
 
 The following discloses the information gathering and dissemination practices for OddityCentral.com
 
@@ -19,6 +19,8 @@ This site contains links to other sites. OddityCentral.com is not responsible fo
 **Contacting our Website**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us.
 
+Popularity: 1% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
+
 ## Comments
 
-1 comment
+2 comments
