@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supercuts.com privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527154906id_/http%3A//www.supercuts.com/PrivacyPolicy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supercuts.com privacy policy that was archived on 2009-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090830020112id_/http%3A//www.supercuts.com/PrivacyPolicy/default.asp) for the most accurate reproduction.*
 
 # Supercuts Privacy Policy - Hair Cuts, Hairstyles, Hair Coloring
 
