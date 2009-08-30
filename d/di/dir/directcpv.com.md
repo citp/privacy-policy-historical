@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the directcpv.com privacy policy that was archived on 2009-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090208194655id_/http%3A//www.directcpv.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directcpv.com privacy policy that was archived on 2009-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090830142411id_/http%3A//www.directcpv.com/privacy_policy) for the most accurate reproduction.*
 
-# :: Direct CPV ::
+# Targeted Contextual Advertising, Cost Per View Advertising & Pop Up Advertising with Contextual Pop Up Ads.
 
 **PRIVACY POLICY**
 
