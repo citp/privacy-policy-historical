@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trademic.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501055716id_/http%3A//trademic.com/help.asp%3Fid%3D26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trademic.com privacy policy that was archived on 2009-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090830171453id_/http%3A//trademic.com/help.asp%3Fid%3D26) for the most accurate reproduction.*
 
 # TRADEMIC Help center:Privacy notice
 
