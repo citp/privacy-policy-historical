@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flyordie.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228153222id_/http%3A//www.flyordie.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyordie.com privacy policy that was archived on 2009-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090830032848id_/http%3A//www.flyordie.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statment - FlyOrDie.com
 
@@ -35,11 +35,13 @@ Third party advertisement
 
 We also use third party advertisements on FlyOrDie to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes or showing certain ads based on specific sites visited. You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings. However, this can affect how you are able to interact with our site as well as other websites. 
 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
+
 Links
 
 This web site contains links to other sites. Please be aware that FlyOrDie is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
-Last updated: August 7, 2008 
+Last updated: April 8, 2009 
 
 Copyright © 2009 [FlyOrDie.com](http://www.flyordie.com/ "Flyordie Online Games"). All rights reserved.  
 FlyOrDie © is a registered trademark of Solware Ltd.
