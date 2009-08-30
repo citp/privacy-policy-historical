@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publix.com privacy policy that was archived on 2009-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090304151552id_/http%3A//www.publix.com/PrivacyPolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publix.com privacy policy that was archived on 2009-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090830032601id_/http%3A//www.publix.com/PrivacyPolicy.do) for the most accurate reproduction.*
 
 # Publix Privacy Policy
 
@@ -11,6 +11,8 @@ Publix and its affiliates are the sole owners of the information collected; exce
 
 The Publix [Apron's](http://www.publix.com/aprons) portion of our site collects a minimal amount of required information from those users requesting a reservation for a Publix Apron's Cooking School class and those users opting in to our Cooking School's printed calendar and/or electronic communication distribution list.  This information is strictly used to process the reservation request or to send the user the requested materials and/or e-mails.  None of the required information and/or optional information collected on any Publix Apron's form is used for other purposes than those stated in this policy; however, Publix may use third parties to assist in providing certain services to users.  In the event that Publix utilizes a third party to provide such services, our contract with the third party will include obligations upon the third party to keep all information obtained during such contract confidential and secure.
 
+The Publix At Season’s Peak page of our site offers users an opportunity to sign up to receive “alerts” regarding different types of produce discussed on the At Season’s Peak page.  Through the “Alerts” sign-up page, Publix collects the user’s choice of either phone number (for text alerts) and/or an e-mail address (for e-mail alerts).  Publix may use third parties to assist in providing these alerts, in which case our contract with the third party will include obligations upon the third party to keep all information obtained during such contract confidential and secure.
+
 The [Publix Food & Entertaining](https://web.archive.org/food/Home.do) section of our site offers a My Events area for registered users who wish to save their Event Planning List for one or more events. Registration is not required to use the planning list; however, planning lists will not persist across browser sessions unless they are saved to the My Events area.  The minimal information collected is required to set up the user registration and enable the saved Planning List feature. 
 
 The Publix Web site also collects information from users requesting a free subscription to our Publix Grape® and Publix FamilyStyle® magazines, as well as our monthly Publix Wine Guide e-mail newsletter. This information is strictly used to process and fulfill the subscription request and/or to send the user the requested magazines and/or e-mails and to confirm that the users are of legal age to receive materials relating to wine and alcohol.  In addition, this section requests optional demographic information to use for internal marketing research to better serve Publix customers.
@@ -19,10 +21,10 @@ You should be aware, however, that Publix may share information provided through
 
 In addition, you should be aware that Publix may use and disclose protected health information as permitted by applicable law, including the Privacy Rules under the Health Insurance Portability and Accountability Act of 1996. See the Publix Pharmacy Notice of Privacy Practices for more detail.
 
-If you complete an online application for employment on this Web site, Publix will collect certain information necessary to evaluate and process your application. The personal information you provide Publix via the online application process will be used solely for Human Resource purposes, including compliance with federal and state employment laws.  It will not be sold to other companies nor will it be shared with Publix associates not involved in the recruiting, screening, hiring, record-keeping or human resource management.  If hired, the information provided by you in the application process may become part of your personnel file or records, and, as such, may be disclosed to and used by individuals or entities that have access to those files.
+The Publix Web site allows interested individuals to submit job applications for certain positions online.  Such job categories currently include pharmacists, store management, and various corporate, manufacturing, administrative and distribution.  If you complete an online application for employment, Publix or its third party designee will collect certain information necessary to evaluate and process your application.  The personal information you provide via the online application process will be used solely by Publix for Human Resource purposes, including compliance with federal and state employment laws.  It will not be sold to other companies nor will it be shared with Publix associates not involved in the recruiting, screening, hiring, record-keeping or human resource management.  If hired, the information provided by you in the application process may become part of your personnel file or records, and, as such, may be disclosed to and used by individuals or entities that have access to those files.  
+If you visit a third party web site such as Yahoo! Hotjobs, which hosts information about certain job openings at Publix, please note that the Yahoo! Hotjobs web site is not within the control of Publix and is not subject to the Publix Privacy Policy.  The Yahoo! Hotjobs web site and any personal information you provide while you visit the Yahoo! Hotjobs web site are subject to the Yahoo! privacy policy, which is located at <http://info.yahoo.com/privacy/us/yahoo/hotjobs/details.html>.  Publix has no control over, and is not responsible for, the information collection, storage and/or usage policies and/or practices of Yahoo! Hotjobs. Therefore, if you choose to disclose any personal information while you are visiting Yahoo! Hotjobs, you should first review its privacy policy, as noted above.
 
-Finally, you should be aware that the "Publix Photo Center presented by Snapfish" is a co-branded web site operated by Hewlett-Packard, doing business as Snapfish.  When you visit the Publix Photo Center presented by Snapfish, you will be leaving the Publix Web site.  Publix has no control over the privacy practices of Snapfish and a separate Privacy Policy governs the Publix Photo Center presented by Snapfish.  Consequently, you should review the Privacy Policy that is specifically located on the Publix Photo Center presented by Snapfish Web Site to ensure that you understand, and are comfortable with, how Snapfish collects, stores, retains, uses and shares your personally identifiable information.  
-
+Finally, you should be aware that the "Publix Photo Center presented by Snapfish" is a co-branded web site operated by Hewlett-Packard, doing business as Snapfish.  When you visit the Publix Photo Center presented by Snapfish, you will be leaving the Publix Web site.  Publix has no control over the privacy practices of Snapfish and a separate Privacy Policy governs the Publix Photo Center presented by Snapfish.  Consequently, you should review the Privacy Policy that is specifically located on the Publix Photo Center presented by Snapfish Web Site to ensure that you understand, and are comfortable with, how Snapfish collects, stores, retains, uses and shares your personally identifiable information.
 
 **Protection of Privacy of Children Younger than 13**  
 Publix does not target children under the age of 13 and does not expect to sell any of its products or services to children. Although Publix does not target children under the age of 13, we do collect certain information about children from their parents through the Publix Preschool Pals and Publix Baby Club portions of our Web site. Publix's procedures with regard to this information can be found in our Child Privacy Notice.
@@ -92,15 +94,26 @@ _Contact Apron's Simple Meals Form_
 
 All information in the Contact Apron's Simple Meals form is optional; your submission of this information helps us better serve you. By filling out the e-mail form, you are consenting to receive e-mail or telephone calls from us or our agents. 
 
+[At Season’s Peak](http://atseasonspeak.publix.com/ "At Season’s Peak") section:
+
+_Sign Up For Alerts_
+
+  * Your name (required)
+  * Your alert method (required), which can either be a cell phone (for text alerts) or an e-mail address (for e-mail alerts)
+  * Your produce interests – so that you can select the particular categories of produce in which you are interested and regarding which you wish to receive alerts  
+
+
+
+
 [Food & Entertaining](https://web.archive.org/food/Home.do) section:
 
-  * Your e-mail address (required) - to verify your identity on future visits to the site.   
+  * Your e-mail address (required) - to verify your identity on future visits to the site   
 
 
-  * Your first & last name (required) - to use for personalizing My Events section.  
+  * Your first & last name (required) - to use for personalizing My Events section  
 
 
-  * Password (required) - to verify your identity on future visits to the site, and to prevent anyone else from using your identity to review or modify your planning list.
+  * Password (required) - to verify your identity on future visits to the site, and to prevent anyone else from using your identity to review or modify your planning list
 
 
 
@@ -284,20 +297,38 @@ You can order Publix Gift Cards and send them directly to a friend. Publix will 
 
 
 
-[Publix Online Employment Application:](http://www.publix.com/careers)
+[Publix Careers Section](http://www.publix.com/careers/Home.do "Publix Careers Section"):
 
+The Career Opportunities Page provides information about available job openings at Publix, including Publix corporate, manufacturing, distribution, pharmacy, and store positions.  You may submit your employment application online through this Web site for some (but not all) positions, currently including such positions as store management, pharmacists, corporate, manufacturing, and distribution positions. 
+
+If you apply online for a pharmacist position, Publix may collect the following personal information:
+
+  * User name and password (required) - to log in to the application page
   * E-mail address (required) - to send application-related e-mails.
-
   * Name (required) - to provide with online applications.
-
   * Address (required) - to provide with online applications.
-
   * Phone Number (required) - to provide with online applications.
+  * Citizenship status (required) – to comply with legal requirements.  
 
 
 
 
-The personal information you provide Publix via the online employment application will be used solely for Human Resource purposes, including compliance with federal and state employment laws.  It will not be sold to other companies nor will it be shared with Publix associates not involved in the recruiting, screening, hiring, record-keeping or human resource management.  If hired, the information provided by you in the application process may become part of your personnel file or records, and, as such, may be disclosed to and used by individuals or entities that have access to those files.
+Publix also may request and gather information that is relevant to your consideration as a pharmacist candidate, such as information about your prior employment (required) and relevant experience (required), highest educational level attained (required), specific degrees obtained (optional), primary language (optional), additional languages spoken  (optional), desired job location (required), desired salary/pay rate (optional),  desired contractual status (required), eligibility status (required), immediate availability  (optional), date available (optional), resume (required), and a list of your core skills and their duration (required).  
+You may also apply for certain store management, clerical, technical and professional openings in our Stores, our Corporate Offices, our Distribution Centers, our Manufacturing Plants, and related departments by visiting the online Publix Job Center.  If you complete an online application at the Publix Job Center, Publix may collect the following personal information:
+
+  * User name and password (required) - to log in to the application page
+  * E-mail address (required) - to send application-related e-mails.
+  * Name (required) - to provide with online applications.
+  * Address (required) - to provide with online applications.
+  * Phone Number (required) - to provide with online applications.
+  * Citizenship status (required) – to comply with legal requirements.
+  * Social Security Number (required) – to comply with legal requirements.
+
+
+
+In addition, depending on the particular job for which you are applying, Publix may request and gather information that is relevant to your consideration as a candidate for that particular position, such as information about your prior employment (required) and relevant experience (required), educational level (required) and relevant certifications (required), your criminal history(required), references (optional), supporting documentation (optional), whether you satisfy the minimum qualifications for the position (required), and certain demographic information (optional).
+
+Online applications for employment with Publix may be administered and/or processed by Publix or by third parties under contract with Publix to administer and process such applications.  If you complete an online application for employment for positions on this Web site, the personal information you provide will be used solely by Publix for Human Resource purposes, including compliance with federal and state employment laws.  It will not be sold to other companies nor will it be shared with Publix associates not involved in the recruiting, screening, hiring, record-keeping or human resource management.  If hired, the information provided by you in the application process may become part of your personnel file or records, and, as such, may be disclosed to and used by individuals or entities that have access to those files.
 
 [Custom Orders](http://www.publix.com/custom/CustomOrders.do) section:
 
@@ -332,19 +363,19 @@ _Send an Article to a Friend Form_
 **Surveys, Contests and Sweepstakes  
 ** From time to time, Publix or its affiliates may conduct online surveys that ask you for demographic data, such as your ZIP code, age or income level. Publix or Publix's agents may also contact you by telephone or e-mail, using your phone number or e-mail address collected when you filled out one of the forms described in the "What is Collected, and How Do We Use It" section of this Policy, with the option to participate in consumer research studies. Participation in any survey or other consumer research is always voluntary. Publix aggregates the responses we receive before using the information to improve the products and services we offer. We do not link your individual responses to your personal information at any time.
 
-Publix may also ask for some personal information, such as names and e-mail addresses, so that we can contact contest or sweepstakes winners and to give you the option to participate in consumer research studies. All of these promotions and surveys follow applicable federal and state laws. We will clearly post the rules and terms of each contest or sweepstakes.  Please note that, from time to time, Publix may retain third party vendors to administer such sweepstakes, games or contests and in such circumstances, those third parties will be required to collect your personal information in order to administer and fulfill the promotion, as well as to contact potential winners.  Please review the Official Rules for such promotions carefully, as the personal information collected during these promotions may be subject to the privacy policies of these third party vendors as well as the Publix Privacy Policy.  In that event, the Official Rules will refer you to the privacy policy of the third party vendors.  Please review those privacy policies as well, because Publix does not have control over the treatment of personal information by such third party vendors.
+Publix may also ask for some personal information, such as names, phone numbers, e-mail addresses, or other contact information, so that we can contact contest or sweepstakes winners and to give you the option to participate in consumer research studies.  All of these promotions and surveys follow applicable federal and state laws. We will clearly post the rules and terms of each contest or sweepstakes.  Please note that, from time to time, Publix may retain third party vendors to administer such sweepstakes, games or contests and in such circumstances, those third parties will be required to collect your personal information in order to administer and fulfill the promotion, as well as to contact potential winners.  Please review the Official Rules for such promotions carefully, as the personal information collected during these promotions may be subject to the privacy policies of these third party vendors as well as the Publix Privacy Policy.  In that event, the Official Rules will refer you to the privacy policy of the third party vendors.  Please review those privacy policies as well, because Publix does not have control over the treatment of personal information by such third party vendors.
 
 **Cookies  
-**By use of this site, you consent to our use of cookies. A "cookie" is a piece of data stored on your hard drive containing information about you. Usage of a cookie is in no way linked to any personally identifiable information while on our Web site. Cookies do not contain any registration information that would personally identify you, as all such data is kept behind our firewall. Nor do cookies allow us to track your usage of other Web sites or the Internet in general.  
+** By use of this site, you consent to our use of cookies. A "cookie" is a piece of data stored on your hard drive containing information about you. Usage of a cookie is in no way linked to any personally identifiable information while on our Web site. Cookies do not contain any registration information that would personally identify you, as all such data is kept behind our firewall. Nor do cookies allow us to track your usage of other Web sites or the Internet in general.  
 
 **Log Files  
-**We use IP addresses to analyze trends, administer our Web site, track customer site navigation and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.  
+** We use IP addresses to analyze trends, administer our Web site, track customer site navigation and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.  
 
 **Sharing  
-**We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that identifies any individual person. Publix may use your profile information (such as the number of people in your household, the number of pets you have, etc.) to create personalized content, offers, services, and advertising, but this information will only be used by Publix and its affiliates. Publix and its affiliates may release information when required to do so by law (for example, under a subpoena, court order or other regulatory requirement or to maintain or protect the security of the site).  
+** We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that identifies any individual person. Publix may use your profile information (such as the number of people in your household, the number of pets you have, etc.) to create personalized content, offers, services, and advertising, but this information will only be used by Publix and its affiliates. Publix and its affiliates may release information when required to do so by law (for example, under a subpoena, court order or other regulatory requirement or to maintain or protect the security of the site).  
 
 **Security**  
-Publix uses secure connections during the transmission of pharmacy refill transactions, the transaction of Gift Card sales, and in the Publix Preschool Pals and Publix Baby Club sections of our site - specifically, with regard to Publix Preschool Pals and Publix Baby Club, those pages dealing with sign in, registration and membership information. This means that information collected during the transmission of pharmacy refill transactions, the transaction of Gift Card sales, and in the Publix Preschool Pals and Publix Baby Club sections of our site is encrypted before it is sent over the Internet between your computer and Publix computers. The technology used is called Secure Socket Layer (SSL). Through the use of this technology, your information collected during the transmission of pharmacy refill transactions, the transaction of Gift Card sales, and in the Publix Preschool Pals and Publix Baby Club sections of our site is encrypted on your computer, sent through the Internet as jumbled code and decoded on either Publix's secure server or the systems of the third party transacting the credit card sale. You can verify that the connection is secure because you will see a key or a padlock at the bottom of your browser. Another identifier of a secure connection is the URL (or Web site address); the address will change from [http://www.publix.com](http://www.publix.com/) to [https://www.publix.com](https://www.publix.com/) when a secure connection is in place.
+Publix uses secure connections during the transmission of pharmacy refill transactions, the transaction of Gift Card sales, and in the Publix Preschool Pals and Publix Baby Club sections of our site - specifically, with regard to Publix Preschool Pals and Publix Baby Club, the submission of online employment applications, those pages dealing with sign in, registration and membership information. This means that information collected during the transmission of pharmacy refill transactions, the transaction of Gift Card sales, and in the Publix Preschool Pals and Publix Baby Club sections of our site, the submission of online employment applications,  is encrypted before it is sent over the Internet between your computer and Publix computers. The technology used is called Secure Socket Layer (SSL). Through the use of this technology, your information collected during the transmission of pharmacy refill transactions, the transaction of Gift Card sales, and in the Publix Preschool Pals and Publix Baby Club sections of our site, and the submission of online employment applications, is encrypted on your computer, sent through the Internet as jumbled code and decoded on either Publix's secure server or the systems of the third party transacting the credit card sale. You can verify that the connection is secure because you will see a key or a padlock at the bottom of your browser. Another identifier of a secure connection is the URL (or Web site address); the address will change from [http://www.publix.com](http://www.publix.com/) to [https://www.publix.com](https://web.archive.org/) when a secure connection is in place.
 
 **Links**  
 Our site may contain links to other sites. Please be aware that Publix is not responsible for the privacy policies of other sites. We encourage our shoppers to be aware when they leave our Web site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy policy applies solely to the information collected by our Web site.  
@@ -356,6 +387,6 @@ If we decide to change our privacy policy, we will post those changes on our hom
 Please let us know if you have any questions about our Privacy Policy. Simply send us an [e-mail](https://web.archive.org/contact/SendUsAMessage.do).  
 
 **COPYRIGHT NOTICE**  
-Copyright© 2008 Publix Asset Management Company. All rights reserved. Any rights not expressly granted herein are reserved.  
+Copyright© 2009 Publix Asset Management Company. All rights reserved. Any rights not expressly granted herein are reserved.  
 
-Last modified: 12/2008
+Last modified: 4/2009
