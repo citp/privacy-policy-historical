@@ -1,0 +1,104 @@
+> *The following text is extracted and transformed from the ryansreview.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831083612id_/http%3A//www.ryansreview.com/privacy-policy.php) for the most accurate reproduction.*
+
+# Privacy Policy
+
+Dropshipping Reviews
+
+Wealth Programs 
+
+Miscellaneous
+
+RyanMoran@RyansReview.com
+
+What People Are Saying
+
+I came across RyansReview back in January when I was looking for reviews for dropshippers to sell stuff on eBay. I was intrigued by the site and learned a lot from there. I am now making over $2000/month in my limited spare time. 
+
+Ryan's recommendations have led me into a business that will help me put my kids through college. Thank you, Ryan!"
+
+**-Dan K.**  
+Milwaukee, WI 
+
+"Ryan, thank God I stumbled upon your site!! Finally someone actually out there trying to help people and not just scam them and take their money. Reading some of the comments on your site I can tell you are a good person and that you walk under God and he has blessed you. Keep up the good work!!" 
+
+**-Rich M.**
+
+"Hi Ryan, Thanks to your site, my eBay sales and pursuits are headed in a much more profitable direction with drop shipping. Your commitment to help others and your concern for them is genuine, and even a novice can improve their situation by the processes and steps in your website. Thanks, Ryan!"
+
+**-Nancy S.**
+
+"Thanks so much, Ryan. You've really helped me out! Love your site, bro!" 
+
+**-Mark S.**
+
+"You are a freaking saint, dude! Thank you so much for your help." 
+
+**-Jason O.**
+
+Most Popular Reviews 
+
+PRIVACY POLICY FOR RyansReview.com
+
+**RyansReview.com** makes every attempt to provide honest reviews of legitimate work at home business opportunities. This includes providing reviews of specific programs and educating readers regarding different business strategies.
+
+Reader may choose to opt-in to the RyansReview.com newsletter in order to receive more information. The names and email addresses collected are never shared, sold, or rented to any third parties. They are solely for the use of sending newsletter updates, including new information regarding work at home business opportunities.
+
+RyansReview.com makes no guarantees of income, but strives to provide subscribers with a list of quality programs that will immensely benefit each visitor and help him or her to find a program that is right for their needs.
+
+This privacy policy sets out how “RyansReview.com” uses and protects any information that you give “RyansReview.com” when you use this website.
+
+“RyansReview.com” is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+
+“RyansReview.com” may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from June 17, 2009.
+
+WHAT WE COLLECT
+
+We may collect the following information:
+
+Name  
+Email Address
+
+What we do with the information we gather.
+
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+
+Internal record keeping.
+
+We may use the information to improve our products and services.
+
+We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+
+SECURITY
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.  
+How we use cookies
+
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+
+We use traffic log cookies to identify which pages are being used. This helps us analyze data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+LINKS TO OTHER WEBSITES
+
+Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+YOUR PERSONAL INFORMATION
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please send an email to ryanmoran@ryansreview.com.
+
+If you believe that any information we are holding on you is incorrect or incomplete, please resubscribe with the correct email address to ensure that you do not miss any updates.
+
+QUESTIONS, COMMENTS, OR REPORT OF INCIDENTS
+
+You may direct questions, comments or reports to:
+
+ryanmoran@ryansreview.com
+
+REVISIONS TO THIS PRIVACY POLICY WITHOUT NOTICE
+
+This Privacy Policy is dynamic. It will continually change. You may not assume that it remains the same and you agree to check the policy each time you visit the site for changes. Unless, in the sole opinion of the website, this policy changes so drastically as to suggest a posted notification on the site or via email, you will receive no notification of changes to this Privacy Policy nor, under any circumstances, does this site promise notification. Your continued use of this site always evidences your acceptance of the terms this Privacy Policy or any modifications.
