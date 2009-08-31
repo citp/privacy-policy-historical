@@ -1,15 +1,12 @@
-> *The following text is extracted and transformed from the niteflirt.com privacy policy that was archived on 2009-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090301060356id_/http%3A//www.niteflirt.com/documents/help/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niteflirt.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831072448id_/http%3A//www.niteflirt.com/documents/help/privacypolicy.asp) for the most accurate reproduction.*
 
 # NiteFlirt: Privacy Policy
 
   | 
 
-Last Revised December 15, 2008
+Last Revised April 06, 2009
 
-This Privacy Policy forms part of the Member Agreement and is incorporated by reference therein. This Privacy Policy covers information you may provide to Niteflirt through the Niteflirt.com website. Capitalized terms not defined herein will have the meanings set forth in the Member Agreement and related policies.   
-Your privacy is very important to us at Niteflirt. Niteflirt is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site Niteflirt.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
-
-[ ](http://www.truste.org/ivalidate.php?url=www.niteflirt.com&sealid=101)
+This Privacy Policy forms part of the Member Agreement and is incorporated by reference therein. This Privacy Policy covers information you may provide to Niteflirt through the Niteflirt.com website. Capitalized terms not defined herein will have the meanings set forth in the Member Agreement and related policies. 
 
   * What personally identifiable information of yours is collected;
   * What organization is collecting the information; 
@@ -21,7 +18,7 @@ Your privacy is very important to us at Niteflirt. Niteflirt is a licensee of th
 
 
 
-If you have questions or concerns regarding this statement, you should first contact Niteflirt by sending an email to [privacy@niteflirt.com](mailto:privacy@niteflirt.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe online at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with Niteflirt to resolve your concerns.   
+Your Privacy is very important to is us at Niteflirt. If you have questions or concerns regarding this statement, you should contact Niteflirt by sending an email to [privacy@niteflirt.com](mailto:privacy@niteflirt.com).   
 This Privacy Policy describes the information we collect about you and what may happen to that information. Although this policy may seem long, we've prepared a detailed policy because we believe you should know as much as possible about Niteflirt's practices so that you can make an informed decision. 
 
 1\. A Special Note About Children  
