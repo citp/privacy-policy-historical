@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the nextstudent.com privacy policy that was archived on 2009-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090607223334id_/http%3A//www.nextstudent.com/about-NextStudent/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextstudent.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831231155id_/http%3A//www.nextstudent.com/about-NextStudent/privacy.asp) for the most accurate reproduction.*
 
 # NextStudent Privacy Policy - Student Loans and Federal Loan Consolidation - NextStudent.com
-
-[](http://www.truste.org/ivalidate.php?url=www.nextstudent.com&sealid=101)
 
 At NextStudent, your privacy is assured. We respect your right to privacy and recognize our obligation to keep information about you secure and confidential. 
 
@@ -92,10 +90,6 @@ We follow generally accepted industry standards to protect the personal informat
 
 If you have any questions about security on our Web site, you can send email us on this page; <http://www.nextstudent.com/contact_us/contact_form.asp>
 
-NextStudent is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the site [http://www.nextstudent.com](http://www.nextstudent.com/).  Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact Joe Kunkel (Compliance Officer/Ombudsman) at 800.229.4639.  If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.
-
 ### Business Transitions
 
 In the event NextStudent goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred.  You will be notified via email and notice on our Web site of any such change in ownership or control of your personal information.
@@ -131,14 +125,14 @@ Web site: [www.nextstudent.com ](http://www.nextstudent.com/)
 
 > ### Quick Links
 > 
-> [**»** NextStudent FAQ](https://web.archive.org/web/20090607223334id_/http%3A//www.nextstudent.com/about-NextStudent/NextStudent-FAQ.asp "NextStudent Frequently Asked Questions")  
->  [**»** Customer Testimonials](https://web.archive.org/web/20090607223334id_/http%3A//www.nextstudent.com/about-NextStudent/student-loan-testimonials.asp "NextStudent Customer Testimonials")  
->  [**»** Contact NextStudent](https://web.archive.org/web/20090607223334id_/http%3A//www.nextstudent.com/about-NextStudent/contact-us.asp "Contact NextStudent")  
->  [**»** Corporate Overview](https://web.archive.org/web/20090607223334id_/http%3A//www.nextstudent.com/about-NextStudent/corporate-overview.asp "Corporate Overview")  
->  [**»** Investment Opportunities](https://web.archive.org/web/20090607223334id_/http%3A//www.nextstudent.com/about-NextStudent/investors.asp "Investment Opportunities")  
->  [**»** Opportunities At NextStudent](https://web.archive.org/web/20090607223334id_/http%3A//www.nextstudent.com/about-NextStudent/opportunities.asp "Opportunities at NextStudent")  
->  [**»** Privacy](https://web.archive.org/web/20090607223334id_/http%3A//www.nextstudent.com/about-NextStudent/privacy.asp "NextStudent Privacy Policy")  
->  [**»** Terms Of Use](https://web.archive.org/web/20090607223334id_/http%3A//www.nextstudent.com/about-NextStudent/terms-of-use.asp "Terms of Use")
+> [**»** NextStudent FAQ](https://web.archive.org/web/20090831231155id_/http%3A//www.nextstudent.com/about-NextStudent/NextStudent-FAQ.asp "NextStudent Frequently Asked Questions")  
+>  [**»** Customer Testimonials](https://web.archive.org/web/20090831231155id_/http%3A//www.nextstudent.com/about-NextStudent/student-loan-testimonials.asp "NextStudent Customer Testimonials")  
+>  [**»** Contact NextStudent](https://web.archive.org/web/20090831231155id_/http%3A//www.nextstudent.com/about-NextStudent/contact-us.asp "Contact NextStudent")  
+>  [**»** Corporate Overview](https://web.archive.org/web/20090831231155id_/http%3A//www.nextstudent.com/about-NextStudent/corporate-overview.asp "Corporate Overview")  
+>  [**»** Investment Opportunities](https://web.archive.org/web/20090831231155id_/http%3A//www.nextstudent.com/about-NextStudent/investors.asp "Investment Opportunities")  
+>  [**»** Opportunities At NextStudent](https://web.archive.org/web/20090831231155id_/http%3A//www.nextstudent.com/about-NextStudent/opportunities.asp "Opportunities at NextStudent")  
+>  [**»** Privacy](https://web.archive.org/web/20090831231155id_/http%3A//www.nextstudent.com/about-NextStudent/privacy.asp "NextStudent Privacy Policy")  
+>  [**»** Terms Of Use](https://web.archive.org/web/20090831231155id_/http%3A//www.nextstudent.com/about-NextStudent/terms-of-use.asp "Terms of Use")
 
   
 
