@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the guidetoonlineschools.com privacy policy that was archived on 2009-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090506220824id_/http%3A//www.guidetoonlineschools.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guidetoonlineschools.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831075053id_/http%3A//www.guidetoonlineschools.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - GuidetoOnlineSchools.com
 
-**Privacy Policy**
+[](http://www.truste.com/ivalidate.php?url=guidetoonlineschools.com&sealid=101)
 
-[](http://www.truste.org/ivalidate.php?url=GuideToOnlineSchools.com&sealid=101)
-
-[GuideToOnlineSchools.com](http://www.guidetoonlineschools.com/) is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site, GuideToOnlineSchools.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+[GuideToOnlineSchools.com](http://www.guidetoonlineschools.com/) is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users’ trust and confidence in the internet by promoting the use of fair information practices. GuideToOnlineSchools.com has elected to disclose its information practices, and have its privacy practices reviewed for compliance by TRUSTe as a testament to our commitment to your privacy.
 
 Effective Date: 
 
@@ -40,7 +38,7 @@ Information collected through the Site may be merged with information collected 
 
 **With Whom Will Your Information Be Shared?**
 
-We may share information about you with other people or nonaffiliated companies or for various purposes including, without limitation, the purposes described below:
+We may share information about you with other people or unaffiliated companies or for various purposes including, without limitation, the purposes described below:
 
   * **Products or Service Requests** :  If you submit a request for information about a product or service on the Site, we will share information about you contained in the request form with third-parties regarding whose products or services you seek information. Alternatively, we may directly fulfill your request for the information you seek. Third parties who provide products or services regarding which you seek information may contact you by telephone, e-mail, or postal mail based on the information you provided, even if you have opted into the National Do Not Call List administered by the Federal Trade Commission, any state equivalent Do Not Call List, or the Do Not Call List of a specific company. If one of our business partners contacts you and you wish not to be contacted again by that business partner with respect to your inquiry, then you should specifically make a request to that partner not to contact you again. In some cases, a third party may be involved in the process - for example, the Site may share your information with a third party who will fulfill your request on behalf of the third party regarding whose products or services you seek information. 
   * **Service Providers** :  We may disclose information about you to companies that provide certain services on behalf of the Site, such as marketing or distribution services. Our service providers use the information received via the Site for the purposes of providing you with the products or services you requested and may provide information regarding other products in which you may be interested. 
@@ -78,6 +76,17 @@ This children's privacy statement explains the Site's practices with respect to 
 
 ·        Because we do not collect any personally identifiable information from children under the age of eighteen as part of the Service, we do NOT condition the participation in the Service's online activities of a child under eighteen on providing personally identifiable information.
 
+**Forums Disclosure**
+
+If you use a bulletin board, blog, or chat room on this website, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information that you choose to submit in these forums.
+
 **Questions Regarding Privacy**
 
-If you have questions or concerns about this Privacy Policy, the privacy practices of the DegreePages.com website, or your dealings with the Site, please contact us by email:  or in writing at . If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at: <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.
+Please direct all questions pertaining to this statement or the service to us through our [contact form](http://www.guidetoonlineschools.com/feedback/student). In the event your inquiry goes unaddressed within a reasonable time frame, please contact [TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint). TRUSTe shall then work as a liaison with us to resolve your concerns. 
+
+**Third Party Cookies**
+
+From time to time we employ the services of a third party agent to track and analyze aggregated statistical data about the site. These third parties, our partners and advertisers may set cookies and web beacons on the site. We do not have access to these cookies. A web beacon is a one by one pixel image embedded within a web page or email to monitor individual page traffic. 
+
+123 Lake St. South Ste B-1  
+Kirkland, WA 98033
