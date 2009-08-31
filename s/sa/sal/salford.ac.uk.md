@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salford.ac.uk privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625113735id_/http%3A//www.ils.salford.ac.uk/governance/legislation/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salford.ac.uk privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831035115id_/http%3A//www.ils.salford.ac.uk/governance/legislation/privacy) for the most accurate reproduction.*
 
 # Information Governance | Information & Learning Services | University of Salford - A Greater Manchester University
 
@@ -95,9 +95,12 @@ We use cookies on our website for the following purposes:
   * Store and sometimes track visitor preferences
   * Record session information, such as items that consumers add to their shopping cart
   * Customize web page content on visitors browser type or other information that the visitor sends
+  * Analysis and evaluation of our advertising campaigns
   * We will never link the cookie to your personal information
 
 
+
+For certain advertising campaigns and general web traffic analysis, we will make use of 3rd party tracking solutions. Data collected by these 3rd parties on behalf of the University will not be used, either by us or the 3rd party, for any purposes other than those stated above.
 
 ## Registration for access
 
