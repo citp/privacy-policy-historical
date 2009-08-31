@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wickes.co.uk privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627212834id_/http%3A//www.wickes.co.uk/pcat/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wickes.co.uk privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831114258id_/http%3A//www.wickes.co.uk/pcat/privacy) for the most accurate reproduction.*
 
 # Wickes - Privacy Policy
 
