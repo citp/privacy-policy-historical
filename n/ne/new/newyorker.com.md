@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newyorker.com privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504061322id_/http%3A//www.newyorker.com/services/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyorker.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831040736id_/http%3A//www.newyorker.com/services/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy: The New Yorker
+# Privacy Policy : The New Yorker
 
   1. Privacy Policy 
     * Last Revised January 7, 2009
@@ -46,4 +46,4 @@ Wilmington, DE 19801
 
 
 
-[](https://www.magazinestoresubscriptions.com/webapp/wcs/stores/servlet/Subscriptions_NewYorker?source=FAILSAFE "Subscribe to The New Yorker")
+[](https://w1.buysub.com/loc/NYR/ATGFailsafe "Subscribe to The New Yorker")
