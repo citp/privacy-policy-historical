@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the pchgames.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011509id_/http%3A//www.pchgames.com/help/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pchgames.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831070007id_/http%3A//www.pchgames.com/help/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Play Free Online Games on PCHGames
 
 **Your privacy matters to us.**   
 PCHGames.com ("we" or "us") powered by Arkadium, Inc. respects the privacy rights of our online visitors and we recognize the importance of safeguarding your information. That's why we want you to know exactly how we collect, use, and safeguard your personal information. The statement that follows explains our privacy protection practices in detail. 
 
-We welcome your feedback on our privacy protection practices. If you have any questions regarding our practices please feel free to contact Arkadium Customer Support by emailing us at: Support@PCHGames.com
+We welcome your feedback on our privacy protection practices. If you have any questions regarding our practices please feel free to contact Arkadium Customer Support by emailing us at: [ customerservice@help.pchgames.com ](mailto:customerservice@help.pchgames.com)
 
 **Collection of Information**  
 When you register to play on PCHGames.com, we collect your email address. We use this information to contact you for lost username or password purposes and to send you the PCHGames.com newsletter. The newsletter is emailed to you only if you indicated that you would like to receive it when you registered for PCHGames.com. Each time the newsletter is emailed to you, you will have the opportunity to unsubscribe. 
