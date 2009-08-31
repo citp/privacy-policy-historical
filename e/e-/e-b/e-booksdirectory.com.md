@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-booksdirectory.com privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527094312id_/http%3A//www.e-booksdirectory.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-booksdirectory.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831040939id_/http%3A//www.e-booksdirectory.com/privacy.php) for the most accurate reproduction.*
 
 # E-Books Directory - Privacy Notice
 
@@ -8,18 +8,18 @@ We search the web for you!
 Daily updated with fresh articles, reviews and free e-book downloads.
 
   * [Home](http://www.e-booksdirectory.com/)
-  * [New](https://web.archive.org/web/20090527094312id_/http%3A//www.e-booksdirectory.com/new.php)
-  * [Top 20](https://web.archive.org/web/20090527094312id_/http%3A//www.e-booksdirectory.com/top20.php)
-  * [Resources](https://web.archive.org/web/20090527094312id_/http%3A//www.e-booksdirectory.com/resources.php)
-  * [Contact](https://web.archive.org/web/20090527094312id_/http%3A//www.e-booksdirectory.com/contact.php)
-  * [About](https://web.archive.org/web/20090527094312id_/http%3A//www.e-booksdirectory.com/about.php)
+  * [New](https://web.archive.org/web/20090831040939id_/http%3A//www.e-booksdirectory.com/new.php)
+  * [Top 20](https://web.archive.org/web/20090831040939id_/http%3A//www.e-booksdirectory.com/top20.php)
+  * [Resources](https://web.archive.org/web/20090831040939id_/http%3A//www.e-booksdirectory.com/resources.php)
+  * [Contact](https://web.archive.org/web/20090831040939id_/http%3A//www.e-booksdirectory.com/contact.php)
+  * [About](https://web.archive.org/web/20090831040939id_/http%3A//www.e-booksdirectory.com/about.php)
   * [Save & Share](http://www.addtoany.com/share_save?linkname=E-Books%20Directory&linkurl=http%3A%2F%2Fwww.e-booksdirectory.com%2F)
 
 
 
 Custom Search 
 
-This is the web site of E-BooksDirectory.com. Webmaster and administrator can be reached via [contact form](https://web.archive.org/web/20090527094312id_/http%3A//www.e-booksdirectory.com/contact.php) or by e-mail at webmaster [at] e-booksdirectory.com
+This is the web site of E-BooksDirectory.com. Webmaster and administrator can be reached via [contact form](https://web.archive.org/web/20090831040939id_/http%3A//www.e-booksdirectory.com/contact.php) or by e-mail at webmaster [at] e-booksdirectory.com
 
 For each visitor to our site, our web server recognizes automatically only the consumer's domain, but not the e-mail address.
 
@@ -37,28 +37,4 @@ Upon request we provide site visitors with access to a description of informatio
 
 Consumers can access this information by e-mail us at the above address.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or by [contact form](https://web.archive.org/web/20090527094312id_/http%3A//www.e-booksdirectory.com/contact.php).
-
-## Random picks
-
-[**Modern Signal Processing**](https://web.archive.org/web/20090527094312id_/http%3A//www.e-booksdirectory.com/details.php?ebook=357)  
-by Daniel N. Rockmore, Jr, Dennis M. Healy - Cambridge University Press  
-[**Practical PostgreSQL**](https://web.archive.org/web/20090527094312id_/http%3A//www.e-booksdirectory.com/details.php?ebook=1377)  
-by John C. Worsley, Joshua D. Drake - O'Reilly  
-[**Emergency War Surgery**](https://web.archive.org/web/20090527094312id_/http%3A//www.e-booksdirectory.com/details.php?ebook=2191)  
-by Andy C. Szul, at al. - Borden Institute  
-[**SUSE Linux Administration Guide**](https://web.archive.org/web/20090527094312id_/http%3A//www.e-booksdirectory.com/details.php?ebook=1859)  
-by Frank Bodammer, Stefan Dirsch, et al. - SUSE LINUX AG  
-[**How Language Works**](https://web.archive.org/web/20090527094312id_/http%3A//www.e-booksdirectory.com/details.php?ebook=1950)  
-by Michael Gasser - Indiana University  
-[**Data Mining and Knowledge Discovery in Real Life Applications**](https://web.archive.org/web/20090527094312id_/http%3A//www.e-booksdirectory.com/details.php?ebook=2494)  
-by Julio Ponce, Adem Karahoca - IN-TECH  
-[**Reversibility and Stochastic Networks**](https://web.archive.org/web/20090527094312id_/http%3A//www.e-booksdirectory.com/details.php?ebook=1262)  
-by F.P. Kelly - John Wiley and Sons Ltd  
-[**generatingfunctionology**](https://web.archive.org/web/20090527094312id_/http%3A//www.e-booksdirectory.com/details.php?ebook=69)  
-by Herbert S. Wilf - A K Peters, Ltd.  
-[**Language, Proof and Logic**](https://web.archive.org/web/20090527094312id_/http%3A//www.e-booksdirectory.com/details.php?ebook=1132)  
-by Jon Barwise, John Etchemendy - Center for the Study of Language  
-[**The Merck Manual**](https://web.archive.org/web/20090527094312id_/http%3A//www.e-booksdirectory.com/details.php?ebook=2381)  
-by Mark H. Beers - Merck  
-
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or by [contact form](https://web.archive.org/web/20090831040939id_/http%3A//www.e-booksdirectory.com/contact.php).
