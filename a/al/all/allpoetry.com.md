@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allpoetry.com privacy policy that was archived on 2009-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090222230156id_/http%3A//allpoetry.com/home/guide/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allpoetry.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831083714id_/http%3A//allpoetry.com/home/guide/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at All poetry
 
@@ -51,6 +51,7 @@ In addition, your ip address, cookie information, and what pages you request is 
   * Many people are unsure what cookies are and are unfamiliar with them. 
   * We use cookies to keep you logged in from page to page, so that you do not have to type in your login information on every page of the site. 
   * All the cookie stores is that your username is 'blah', and an encrypted copy of your password. 
+  * Third-party ads may use cookies to track the types of sites you visit, and show ads accordingly (e.g. poetry ads, or a sports ads if you often visit espn). 
 
 
 
