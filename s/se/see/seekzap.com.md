@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seekzap.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416175349id_/http%3A//www.seekzap.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seekzap.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831104813id_/http%3A//www.seekzap.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Seekzap Web Directory of Quality Internet Resources - Privacy Policy
 
