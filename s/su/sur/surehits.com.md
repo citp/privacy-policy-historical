@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surehits.com privacy policy that was archived on 2009-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090205051642id_/http%3A//www.surehits.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surehits.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831045423id_/http%3A//www.surehits.com/privacy.html) for the most accurate reproduction.*
 
 # SureHits - For Insurance and Loans, It's SureHits!
 
