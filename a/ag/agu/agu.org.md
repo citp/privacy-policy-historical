@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the agu.org privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501183451id_/http%3A//www.agu.org/pubs/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agu.org privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831173323id_/http%3A//www.agu.org/pubs/policies/privacy.shtml) for the most accurate reproduction.*
 
 # AGU Privacy Policy
+
+‹‹ [Policies](https://web.archive.org/web/20090831173323id_/http%3A//www.agu.org/pubs/policies.shtml)
 
 As constituents of AGU we value the ability to set the level at which we will share information about ourselves. AGU gathers information at headquarters and in external offices, primarily those of editors, about members, authors, and all others who participate in any way in the Union’s activities. Every Union officer, volunteer, staff worker, and member who has access to these data is charged with respecting the privacy of those who provided it and is to act in accord with the following policies.
 
