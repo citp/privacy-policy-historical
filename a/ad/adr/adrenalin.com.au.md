@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adrenalin.com.au privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620193857id_/http%3A//www.adrenalin.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adrenalin.com.au privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831040106id_/http%3A//www.adrenalin.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy - Adrenalin
+# Adrenalin
 
 **Copyright**  
 Copyright in the Material on this Web Site is owned, or licensed by TRACKCORP ADRENALIN PTY LTD.  
