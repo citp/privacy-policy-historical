@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the easycar.co.uk privacy policy that was archived on 2009-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090406105404id_/http%3A//www.easycar.com/nossl/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easycar.co.uk privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831093028id_/http%3A//www.easycar.com/nossl/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Car Hire from asda-travel.com
+# Privacy Policy - Car Hire from easyCar.com
 
 Privacy  
 ---  
@@ -17,9 +17,12 @@ Our site uses an order form to enable customers to obtain information and make B
 * |  The customer's contact information is used to get in touch with the visitor when necessary. Contact information from the order form is also used to send orders and information about our company to our customers. Users may opt-out of receiving future mailings; see the choice/opt-out section below.  
 * |  Financial information that is collected is used to check the users' qualifications and bill the user for products and services.  
 * |  Unique identifiers (such as email addresses) are collected from Web site visitors to verify the user's identity and for use as account numbers in our record system.  
-* |  Other information (such as driving history) is used to assess the eligibility of customers to participate in our insurance programme.  
+* |  Other information (such as driving history) is used to assess the eligibility of customers to participate in our insurance programme. 
+
+**Please note that our websites will assume you to agree to receive e-communications when you are making a booking. On all subsequent e-communications you will have the opportunity to opt-out of future direct marketing material. Please also see Choice/Opt-out below.**  
+  
 Choice/Opt-out  
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
+You have the right to ask us not to send you direct marketing material, this can be done by a written request to us. On our e-communications you can also use the unsubscribe function to opt-out of future communications. Once we have properly received your notification, we will take steps to cease using your information in this manner.
 
 Third Party Advertising  
 We may use third party advertising companies to serve ads on our site. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your cookies, [click here](http://www.networkadvertising.org/optout_nonppii.asp).  
