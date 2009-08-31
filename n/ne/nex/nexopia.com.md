@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the nexopia.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616140319id_/http%3A//www.nexopia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nexopia.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831085215id_/http%3A//www.nexopia.com/privacy) for the most accurate reproduction.*
 
-# 
+# Nexopia
 
-  
-_Last updated July 15, 2008._
-
-### Our Commitment to Your Privacy
+_Last updated July 15, 2008_
 
 Nexopia.com is an online service where members create personal profiles that can be shared with other members of and (non-member) visitors to Nexopia.com. To allow our members to identify each other and expand their network of friends, members can display personal and other information to other members of and visitors to Nexopia.com.
 
@@ -16,8 +13,6 @@ We are particularly committed to protecting the privacy of minors. For that reas
 For persons between the ages of 13 and 18, we require parental or guardian consent prior to opening an account and we reserve the right to verify the existence of that consent.
 
 We will fully cooperate with any request to release information to any law enforcement agency when a proper request is received. We may also take steps to protect the health and well being of members, visitors and other parties if we have reason to believe that any of these persons are in danger.
-
-### Collection and Use of Personal Information by Nexopia.com
 
 When you register with and use Nexopia.com, you create your own profile and privacy settings and the information you submit/post, such as personal information, comments, messages, photos, etc. may be shared with other members and visitors in accordance with the privacy settings you select. Therefore, it is important that you understand what information is displayed to the public. **Except as described in this Privacy Policy, any information included in your Profile or posted to blogs, forums and classifieds is accessible to the general public and not just registered members.** We encourage you to view your Profile as others would view it by clicking on the Profile link in the top menu. All posting and sharing is done at your own risk.
 
@@ -41,8 +36,6 @@ Nexopia.com also logs non-personally-identifiable information of members and vis
 
 While we do not generally, or undertake any obligation to do so, we may monitor content, messages and other exchanges if we suspect members of being under the age of 13 or using our services in violation of our Terms of Use or Privacy Policy. Postings that appear on the public area of the site may be edited, deleted or removed in accordance with our Terms of Use.
 
-### Disclosure of Personal Information
-
 Nexopia will disclose Personal Information about payment and member Profile Data to our third party credit card process provider for billing and payment purposes and where there is suspicious credit card use or a dispute concerning a charge. We may also contact financial institutions directly to verify credit card information provided. In doing so, we may share the information we received about the credit card and member.
 
 We sometimes receive calls from and/or attempt to call parents or guardians about a minor’s use of a credit card belonging to someone other than the member. Where a credit card belonging to a person other than the member has been submitted, we will first attempt to verify the identity of the caller as being the credit card holder and, if this is verified, we may release the name of the member who submitted the credit card information to us. It is important that you have the full consent of the credit card holder before submitting their card number to us to pay for services. We reserve the right to cancel your account at any time and prohibit your future use of the Nexopia.com site if you attempt to use a credit card without prior authorization.
@@ -57,31 +50,17 @@ Some Personal Information may be stored or processed by third parties, including
 
 Except as otherwise described in this Privacy Policy, Nexopia.com will not disclose Personal Information to any third party unless we believe that disclosure is necessary for one of the following reasons: (1) as required by law, including to respond to a subpoena, search warrant or other legal process received by Nexopia.com; (2) to enforce the Nexopia.com Terms of Use or to protect our rights; or (3) to protect the safety of the public and members of and visitors to the service.
 
-### Notification of Changes
-
 If we decide to change our Privacy Policy, we will post any changes on our site and provide notification so that users will always be aware of what changes have been made to how information is collected, used and disclosed, and continued use of Nexopia.com shall constitute consent to the changes in the Privacy Policy.
-
-### Cookies
 
 A “cookie” is a small piece of information/text sent by a web server to be stored on a user’s web browser so it can later be read back from that browser on subsequent visits to a website. Nexopia.com uses cookies to store visitors' preferences and to record session information, and allows communications, advertising, and Web page content to be customized according to browser type and member profile information. You may be able to configure your browser to accept or reject all or some cookies, or to notify you when a cookie is set, however, cookies must be enabled in order to access most functions on the site. Since each browser is different, check the "Help" menu of your browser to learn how to change your cookie preferences.
 
-### Links
-
 Nexopia.com contains links to other sites. Nexopia.com is not responsible for the privacy policies and/or practices on other sites. A member should read the privacy policy stated on any site being accessed. The Nexopia Privacy Policy only governs the privacy policies and practices of Nexopia.com.
-
-### Advertising
 
 Ads that appear on Nexopia.com may be sent to members and visitors by us. Nexopia.com uses personal information from your Profile to deliver targeted advertisements that we think will most interest you. Nexopia.com does not provide Personal Information to advertisers, however, if you click on an ad appearing on Nexopia.com, you may be taken to an advertiser’s or other third’s party web-site. Your use of these other web-sites is subject to the privacy policies of those web-sites and Nexopia.com expressly disclaims all representations and responsibilities in relation to those web-sites.
 
-### Communications with Non-Members
-
 Using our automated invitation system, Nexopia members can send emails to invite friends to join the service. Nexopia.com stores the email addresses that members provide so that the respondents may be added to the friend's list of the member sending the invitations, and also to send reminders of the invitations. Nexopia.com does not sell these email addresses or use them to send any communication except for invitations and invitation reminders. Recipients of invitations from Nexopia.com may request the removal of their information from our database by contacting Nexopia.com. Non-members may stop Nexopia.com email invitations and other messages from being sent to any email address you control by clicking the unsubscribe link in the invitation email.
 
-### Blogs, Forums, Message Boards and Classifieds
-
 When you voluntarily post comments, including your personally identifiable information to blogs, forums, classifieds or any other public forums, the information can be accessed by the public. In turn, the information can be used by those people to send you unsolicited communications. These posted comments are not Personal Information collected by Nexopia.
-
-### Security
 
 Nexopia.com uses physical and electronic precautions to protect member Personal Information stored within our database, and we restrict access to member information to those employees who need access it to perform their job functions, such as our customer service personnel and technical staff.
 
@@ -91,11 +70,9 @@ While we take measures to attempt to protect your Personal Information and priva
 
 For any additional information about the security measures we use on Nexopia.com, please contact us at privacy@nexopia.com.
 
-### Access to Personal Information
-
 As set out below, Nexopia permits requests for access to and review of Personal Information collected by Nexopia about an individual by the individual concerned. An individual can request to access and/or update Personal Information collected about them by Nexopia by sending an email request to privacy@nexopia.com. Nexopia reserves the right not to change any Personal Information but may append any alternative text the individual concerned believes appropriate. An individual may also request that Nexopia delete an individual's Personal Information from Nexopia's system and records. However, due to technical constraints and the fact that Nexopia backs up its systems, Personal Information may continue to reside in Nexopia's systems after deletion. Individuals, therefore, should not expect that their Personal Information would be completely removed from Nexopia systems in response to an accepted request for deletion.
 
-Nexopia reserves the right to decline access to Personal Information where the information requested:
+Nexopia reserves the right to decline access to Personal Information where the information requested: 
 
   1. Would disclose the Personal Information of another individual or of a deceased individual;
   2. Was not collected by Nexopia from the individual;
@@ -109,13 +86,12 @@ Nexopia reserves the right to decline access to Personal Information where the i
   7. Is not readily retrievable and the burden or cost of providing would be disproportionate to the nature or value of the information; or
   8. Does not exist, is not held, or cannot be found by Nexopia.
 
+
+
 Where information will not or cannot be disclosed, the individual making the request will be provided with the reasons for non-disclosure.
 
 Where information will be disclosed, Nexopia will endeavor to provide the information in question within a reasonable time and no later than 30 days following the request. Nexopia will not respond to repetitious or vexatious requests for access. In determining whether a request is repetitious or vexatious, it will consider such factors as the frequency with which information is updated, the purpose for which the information is used, and the nature of the information.
 
 To guard against fraudulent requests for access, Nexopia will require sufficient information to allow it to confirm the identity of the person making the request before granting access or making corrections.
 
-### How to Contact Us
-
-If you have any questions about this privacy policy, the practices of this site, or your dealings with this Web site, please contact our privacy officer at: [privacy@nexopia.com](mailto:privacy@nexopia.com), or by mail at: PO Box 47177, 62 Edmonton City Centre RPO, Edmonton, Alberta, T5J 4N1. |   
----|---
+If you have any questions about this privacy policy, the practices of this site, or your dealings with this Web site, please contact our privacy officer at: [privacy@nexopia.com](mailto:privacy@nexopia.com), or by mail at: PO Box 47177, 62 Edmonton City Centre RPO, Edmonton, Alberta, T5J 4N1.
