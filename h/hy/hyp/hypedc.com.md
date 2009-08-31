@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hypedc.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420061357id_/http%3A//www.hypedc.com/legals%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypedc.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831050114id_/http%3A//www.hypedc.com/legals%23privacy) for the most accurate reproduction.*
 
-# HypeDC Legals
+# HypeDC Legals - latest sneakers from around the globe
 
 Terms and Conditions
 
@@ -17,7 +17,8 @@ Please note that we do not store your credit card number on our servers.
 
 If the card payment is declined by your issuer for any reason, we cannot hold goods against your order. 
 
-_Shipping Information_ The cost of shipping is clearly indicated for each product ordered, and is included in the invoice total. Orders are generally processed and posted in two to three working days. Unfortunately, at some times, processing orders may take longer.
+_Shipping Information_ The cost of shipping is clearly indicated for each product ordered, and is included in the invoice total. Orders are generally processed and posted in two to three working days. Unfortunately, at some times, processing orders may take longer.  
+Special request orders which are shipped directly from suppliers or directly from another store will incur an extra Shipping and Handling charge.
 
 Please note that we will not ship any order outside of Australia. 
 
@@ -90,6 +91,13 @@ We will store your personal information securely, and we will not sell your pers
 
 From time to time, HypeDC Pty Ltd will run competitions and promotions, including through its website. Entry into such competitions and taking advantage of such promotions will be subject to additional terms and conditions. These will be made known to you when details of the competitions and promotions are released.
 
+When you visit our website we may send you a cookie. Cookies may be used in the following ways:  
+1\. To help us recognise you as a unique visitor (just a number) when you return to our website   
+2\. To compile anonymous, aggregated statistics that allow us to understand how users use our site.   
+Two types of cookies may be used on this website, -session cookies, which are temporary cookies that remain in the cookie file of your browser until you leave the site, and persistent cookies, which remain in the cookie file of your browser.  
+You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but if you prefer you can usually modify your browser setting to decline cookies.   
+
+
 _Contacting HypeDC Pty Ltd_  
 You can contact HypeDC Pty Ltd: 
 
@@ -98,4 +106,4 @@ You can contact HypeDC Pty Ltd:
 
 
 
-This Privacy Statement may be updated from time to time. The last update was in January 2009.
+This Privacy Statement may be updated from time to time. The last update was in August 2009.
