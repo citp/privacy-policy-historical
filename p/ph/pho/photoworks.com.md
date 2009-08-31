@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photoworks.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616154053id_/http%3A//www.photoworks.com/util/knowledgeBaseTemplate.jsp%3FhelpFile%3Dprivacy.html%26subject%3DPrivacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoworks.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831024848id_/http%3A//www.photoworks.com/util/knowledgeBaseTemplate.jsp%3FhelpFile%3Dprivacy.html%26subject%3DPrivacy%2520Policy) for the most accurate reproduction.*
 
 # PhotoWorks: Help: Privacy Policy
 
@@ -21,7 +21,6 @@ If you have questions or concerns regarding this statement, you should first con
   * Registration Forms: Email Updates and Promotions
   * Ability for Customers to "Opt Out" 
   * Tell A Friend
-  * Sharing and Community Features
 
 
 
@@ -93,14 +92,6 @@ Back to top
 #### Tell a Friend
 
 If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. PhotoWorks will automatically send the friend a one-time email inviting them to visit the site. PhotoWorks stores this information for the sole purpose of sending this one-time email. The friend may contact PhotoWorks at [privacy@photoworks.com](mailto:privacy@photoworks.com) to request the removal of this information from our database.
-
-Back to top
-
-#### Sharing and Community Features
-
-By emailing an invitation (email link) to share your photos or posting your photos to a community viewing page on PhotoWorks, you give users the opportunity to view as well as buy prints from images you explicitly designate for sharing. Be aware that those who have received your invitation can then forward links to your images to others for viewing and purchasing. 
-
-If you post a comment on any PhotoWorks site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of the website, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in your comments. In addition, we reserve the right to terminate the accounts of members if they use our services in a manner inconsistent with these terms and conditions.
 
 Back to top
 
