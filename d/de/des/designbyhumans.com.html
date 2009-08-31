@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the designbyhumans.com privacy policy that was archived on 2009-02-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090228191721id_/http%3A//www.designbyhumans.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the designbyhumans.com privacy policy that was archived on 2009-08-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090831133141id_/http%3A//www.designbyhumans.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
   
@@ -16,14 +16,17 @@
   <script src="/javascripts/jquery/jquery.color.js" type="text/javascript"></script>
   <script src="/javascripts/jquery/jquery.form.js" type="text/javascript"></script>
   <script src="/javascripts/sprites2.js" type="text/javascript"></script>
+  <script src="/javascripts/jquery.ajaxQueue.js?1251224987" type="text/javascript"></script>
+  <script src="/javascripts/jquery.autocomplete.pack.js?1251224987" type="text/javascript"></script>
   
-  <script src="/javascripts/jquery.autocomplete.pack.js?1235768799" type="text/javascript"></script>
-  
-  <link href="/stylesheets/base.css" media="all" rel="stylesheet" type="text/css">
-  <link href="/stylesheets/jquery.autocomplete.css?1235768799" media="screen" rel="stylesheet" type="text/css">
+  <link href="/stylesheets/base.css?1251224987" media="screen" rel="stylesheet" type="text/css">
+  <link href="/stylesheets/jquery.autocomplete.css?1251224987" media="screen" rel="stylesheet" type="text/css">
   
   
   <link rel="SHORTCUT ICON" href="/images/favicon.ico">
+
+  <link rel="alternate" href="/shop/rss" title="DBH Products Feed" type="application/rss+xml">
+  <link rel="alternate" href="/vote/rss" title="DBH Submissions Feed" type="application/rss+xml">
   
   <script type="text/javascript">
 
@@ -52,15 +55,18 @@
           $( this ).val( 'Search' );
       } );   
       
+      if ($('div#contest_10k')[0]) {
+        $('div#contest_10k').load('/contests/semifinalists_for_10k');
+      }
     });
 
   </script>
     
   <!--[if lte IE 7]>
-  <link href="/stylesheets/ie.css?1235768799" media="screen" rel="stylesheet" type="text/css" />
+  <link href="/stylesheets/ie.css?1251224987" media="screen" rel="stylesheet" type="text/css" />
   <![endif]-->
   <!--[if lte IE 6]>
-  <link href="/stylesheets/ie6.css?1235768799" media="screen" rel="stylesheet" type="text/css" />
+  <link href="/stylesheets/ie6.css?1251224987" media="screen" rel="stylesheet" type="text/css" />
   <![endif]-->
 </head>
 
@@ -95,11 +101,11 @@
     <ul class="user"> <!-- add class "current-login" to set current tab-->
        
         <li class="login">
-          <a href="/account/login"><span></span>Login</a>
+          <a href="/login"><span></span>Login</a>
          </li>
         
         <li class="signup">
-          <a href="/account/join"><span></span>Signup</a>
+          <a href="/join"><span></span>Signup</a>
          </li>
         
       
@@ -195,8 +201,9 @@ Changes to our Privacy Policy
 
 <p>
 DesignByHumans.com, Inc.<br>
-7 Holland Drive<br>
-Irvine, CA 926077<br>
+1 Marconi<br>
+Suite C<br>
+Irvine, CA 92618<br>
 United States of America<br>
 operator [at] designbyhumans.com<br>
 © 2008 Design By Humans. All rights reserved.<br>
@@ -218,7 +225,7 @@ operator [at] designbyhumans.com<br>
 
 <p>Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns. We also may include web beacons in promotional or other e-mail messages or newsletters to determine whether messages have been opened and acted upon. We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website.</p>
 
-  </div><!-- main  content-->
+  </div><!-- main content-->
 
 
 
@@ -262,11 +269,11 @@ operator [at] designbyhumans.com<br>
         
       
         <li>
-          <a href="/account/join"><span></span>Join DBH</a>
+          <a href="/join"><span></span>Join DBH</a>
          </li>
         
         <li>
-          <a href="/account/login"><span></span>Login</a>
+          <a href="/login"><span></span>Login</a>
          </li>
         
       
