@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kissmetrics.com privacy policy that was archived on 2009-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090513003151id_/http%3A//kissmetrics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kissmetrics.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831131336id_/http%3A//kissmetrics.com/privacy) for the most accurate reproduction.*
 
 # KISSmetrics
 
