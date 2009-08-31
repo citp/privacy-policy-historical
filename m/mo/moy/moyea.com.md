@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moyea.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608115717id_/http%3A//www.moyea.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moyea.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831084339id_/http%3A//www.moyea.com/privacy) for the most accurate reproduction.*
 
 # Moyea Privacy.
 
