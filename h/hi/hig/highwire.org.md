@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highwire.org privacy policy that was archived on 2009-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090114200939id_/http%3A//highwire.org/about/privacy.dtl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highwire.org privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831023227id_/http%3A//highwire.org/about/privacy.dtl) for the most accurate reproduction.*
 
 # HighWire Press -- Privacy Policy
 
