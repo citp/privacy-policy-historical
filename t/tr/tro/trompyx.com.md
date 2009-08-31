@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trompyx.com privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529080734id_/http%3A//trompyx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trompyx.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831062424id_/http%3A//trompyx.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TROMPYX
+# Privacy Policy
 
 [Privacy Policy](http://trompyx.com/privacy-policy/ "Permanent Link to Privacy Policy")
 
@@ -20,7 +20,7 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 
 **Personal Information**  
-We do not request any personal information or collect any information that personally identifies you or allows you to be personally [contact](http://trompyx.com/contact/ "contact")ed. Since we do not collect any personal information on this Web site, we do not share any personal information with any third parties nor do we use any personal information for any purposes.
+We do not request any personal information or collect any information that personally identifies you or allows you to be personally contacted. Since we do not collect any personal information on this Web site, we do not share any personal information with any third parties nor do we use any personal information for any purposes.
 
 **External Links**  
 This site contains links to other sites. **TROMPYX** is not responsible for the privacy practices or the content of such Web sites.
