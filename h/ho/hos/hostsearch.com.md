@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostsearch.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619044535id_/http%3A//www.hostsearch.com/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostsearch.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831083904id_/http%3A//www.hostsearch.com/policy.asp) for the most accurate reproduction.*
 
 # Web Hosting Search & Web Host Directory - HostSearch.com
 
