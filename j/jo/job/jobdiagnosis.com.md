@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jobdiagnosis.com privacy policy that was archived on 2009-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090118124014id_/http%3A//www.jobdiagnosis.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobdiagnosis.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831065141id_/http%3A//www.jobdiagnosis.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # JobDiagnosis | Vhmnetwork, Information, May, Use, Web | Privacy Policy - JobDiagnosis
 
 **Effective as of 01/01/2007 VHMnetwork LLC ("VHMnetwork")**
 
-Privacy Policy for All Sweepstakes and Contests and Requests of Free Information
+Privacy Policy for Registrants of Career Diagnosis and Requests of Free Information
 
 Welcome to our website, owned and produced by VHMnetwork LLC its subsidiary and affiliate corporations, successors, and assigns (collectively referred to as "VHMnetwork"). All products and services offered by VHMnetwork is subject to this PRIVACY POLICY. 
 
@@ -24,7 +24,7 @@ We use all of this information in the following ways:
   * to send you targeted advertising via electronic delivery and/or direct mail; 
   * to contact you for feedback and surveys via electronic delivery and/or direct mail; 
   * to send you general and administrative information about your VHMnetwork membership via electronic delivery and/or direct mail; and 
-  * to provide your contact information to VHMnetwork marketing partners to allow them to send you special offers via electronic delivery and direct mail. This most often occurs when you request that we do so such as when completing an online survey.
+  * to provide your contact information to VHMnetwork marketing partners to allow them to send you special offers via electronic delivery and direct mail and via telemarketing. This most often occurs when you request that we do so such as when completing an online survey.
 
 
 
@@ -49,3 +49,8 @@ We use all of this information in the following ways:
 If you do not accept the terms of this Policy, we ask that you not register with VHMnetwork. Your registration with VHMnetwork constitutes your acceptance of these terms and privacy policy.
 
 Changing Your Status To have all of your personally identifiable information removed from our database, please go to Unsubscribe, and enter your email address. At the current time, we are not able to offer users the direct ability to delete their information from our database, but we will be happy to delete such information after we receive a request to that effect. Please be advised that by requesting that your data be removed from our database, you will be unsubscribed from the VHMnetwork Service and you forfeit your eligibility to participate in any VHMnetwork promotions.
+
+**Send Mail Correspondence:**  
+VHMnetwork LLC  
+419 Lafayette St., 2nd Fl.  
+New York, NY 10003
