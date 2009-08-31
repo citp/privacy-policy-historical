@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rosoftdownload.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228212849id_/http%3A//www.rosoftdownload.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rosoftdownload.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831110356id_/http%3A//www.rosoftdownload.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Free Download - RoSoftDownload
+# Privacy Policy - Read Terms and Conditions- RoSoftDownload
 
      **RoSofDownload.com** is very serious in the matter of the privacy of Internet users, considering that our business success depends upon our ability to maintain the confidence and respect of our users. 
 
@@ -14,4 +14,31 @@ Once you submit some software to our download library, we could offer the produc
 This web site contains links to other sites. We suggest you to be aware when leaving our site and to read the privacy statements of each and every web site that collects personally identifiable information. Please be aware that **RoSofDownload.com** is not responsible for the privacy practices or the content of such Web sites. 
 
      **Cookies**  
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site.
+A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Our advertise partner, Google AdSense, uses cookies on our site. However, we have no access to or control over these cookies. Please refer to the privacy policies of the network for details.
+
+[Google Adsense](https://www.google.com/adsense/) uses cookies, including [DoubleClick DART](http://www.doubleclick.com/privacy/faq.aspx) cookie and/or web beacons to collect information from our visitors while serving ads to our website. This relates to Google AdSense advertisers' use of innovative products and features like Gadget Ads and other offerings in the future. 
+
+  * Google, as a third-party vendor, uses cookies to serve ads on your site.
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.co.uk/privacy_ads.html).
+
+
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to·not having this information used by these companies, [click here](https://www.google.com/adsense/support/bin/answer.py?answer=94149).
+
+## Disclaimer
+
+    
+
+Even though **RoSofDownload.com** tries to test and verify all the software listed on the website, we will not be made responsible for any of the issues below. 
+
+  All software titles available for download through this or any other website owned and operated by RoSoftDownload.com are provided by third party software vendors pursuant to license agreements or other arrangements between such vendors and the end user. RoSoftDownload.com disclaims any responsibility for or liability related to the software. Any questions complaints or claims related to the software should be directed to the appropriate Author or Company responsible for developing the software. 
+
+  The software products are provided by RoSoftDownload.com as originally developed by the producers, with all their possible faults or bugs. RoSoftDownload.com makes no representations or warranties of any kind concerning the quality, safety or suitability of the software applications. 
+
+  Under no circumstances or events will RoSoftDownload.com be liable for any indirect, punitive, special, incidental or consequential damages however they may arise and even if RoSoftDownload.com have been previously advised of the possibility of such damages. 
+
+  There are inherent dangers in the use of any software available for download on the Internet, and RoSoftDownload.com cautions you to make sure that you completely understand the potential risks before downloading any of the software. You are the sole responsible for adequate protection and backup of the data and equipment used in connection with any of the software, and RoSoftDownload.com will not be liable for any damages that you may suffer in connection with using, modifying or distributing any of the software.
+
+[Contact](http://www.rosoftdownload.com/contact.php) | [Privacy Policy](http://www.rosoftdownload.com/privacy.php)  
+Copyright © 2008 - 2009 Profitech Solutions S.R.L. - All rights reserved. 
