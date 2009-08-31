@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tescoentertainment.com privacy policy that was archived on 2009-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090410180738id_/http%3A//www.tesco.com/termsandconditions/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tescoentertainment.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831042841id_/http%3A//www.tesco.com/termsandconditions/privacy.htm) for the most accurate reproduction.*
 
 # Tesco.com Privacy policy
 
@@ -18,7 +18,7 @@ For instance, if you use our online grocery service, whenever you buy products a
 
 ## Use of your information and your preferences
 
-We will use your information to provide and personalise our service. We will also use your contact details to communicate with you. We may use your information to send you offers and news about Tesco group products and services or those of other carefully selected companies which we think may be of interest to you. We may contact you by post, email, telephone or fax for these purposes.
+We will use your information to provide and personalise our service and to detect and prevent fraud. We will also use your contact details to communicate with you. We may use your information to send you offers and news about Tesco group products and services or those of other carefully selected companies which we think may be of interest to you. We may contact you by post, email, telephone or fax for these purposes.
 
 Once you have registered to use Tesco.com, you will be provided with access to a "Contact Preferences" page that will allow you to tailor our commercial communications to your preferences.
 
@@ -26,11 +26,13 @@ To change your contact preferences simply click "Your Account" in the top frame 
 
 We like to hear your views to help us improve our service. From time to time, we may contact you by post, email, telephone or fax to ask your opinions. Again, if you do not want to be contacted for this purpose, please make your choice on the "Contact Preferences" page.
 
+We may use your information to verify your identity and prevent or detect fraud. In performing these checks your information may be disclosed to credit reference agencies, who may keep a record of that information. This is not a credit check and your credit rating will be unaffected.
+
 Please note that there may be instances where it may be necessary for us to communicate with you, in any event, for administrative or operational reasons relating to our service.
 
 ## Disclosures of your information
 
-Your information may be passed to and used by all Tesco companies. We will never pass your personal data to anyone else, except for any successors in title to our business and suppliers that process data on our behalf both in the UK and abroad. We may also use and disclose information in aggregate (so that no individual customers are identified) for marketing and strategic development purposes.
+Your information may be passed to and used by all Tesco companies. We will never pass your personal information to anyone else, except where we are required or permitted to do so by law, for any successors in title to our business and suppliers that process information on our behalf both in the UK and abroad. We may also use and disclose information in aggregate (so that no individual customers are identified) for marketing and strategic development purposes.
 
 ## Other web sites
 
@@ -48,7 +50,7 @@ Most browsers allow you to turn off the cookie function. If you want to know how
 
 ## Access rights
 
-You have a right to access the personal data that is held about you. To obtain a copy of the personal information Tesco holds about you, please write to us at the following address: Privacy Officer, Corporate Secretariat, Tesco House, Delamare Road, Cheshunt, Waltham Cross, Hertfordshire EN8 9SL enclosing your postal details and a cheque for £10 payable to Tesco Stores Limited.
+To obtain a copy of the personal information Tesco holds about you, please write with full details to us at: Data Protection Officer, Corporate & Legal Affairs, New Tesco House, Delamare Road, Cheshunt, Hertfordshire EN8 9SL enclosing your cheque or postal order for £10 payable to Tesco Stores Limited.
 
 back to top
 
