@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the destinationmaternity.com privacy policy that was archived on 2009-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090215112635id_/http%3A//www.destinationmaternity.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destinationmaternity.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831131017id_/http%3A//www.destinationmaternity.com/RetailSitesPrivacyPolicy.asp) for the most accurate reproduction.*
 
 # destinationmaternity.com Privacy Policy
 
