@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trustnet.com privacy policy that was archived on 2009-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090205055644id_/http%3A//www.trustnet.com/Education/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustnet.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831050521id_/http%3A//www.trustnet.com/Education/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Trustnet - Privacy Policy
+# Privacy Policy | Trustnet
 
 Trustnet respects your right to privacy on the internet and will not sell or make available in any way individually identifiable personal information without first receiving your permission. 
 
@@ -19,6 +19,8 @@ When you register and use the site, we will ask you to provide certain data. We 
 We will not disclose your name or postal address or any data that could identify you to any third party without first receiving your permission. 
 
 In order to analyse site traffic and to provide personalised services, we use a feature of your browser called Cookies. Our Cookies pose no security risk to you at all. They contain information such as your user id, name and investor type. Cookies also contain your session identifiers to enable Trustnet to identify whether you are registered on to the site and, if so, to shortcut your access to the site. 
+
+Usage of the Trustnet portfolio tool will require you to register and setup a user name and a password. In addition you will need to enter details of your investments, numbers of shares or units and other personal information. To be able to provide support on the usage of the Trustnet portfolio tool Trustnet's support team will need access to all this information. By using the portfolio tool you accept this condition of use. All personal data held will be treated with the same sensitivity and care as outlined elsewhere in this Privacy Policy. 
 
 We endeavour to take all reasonable steps to protect the personal information we hold on you including the use of encryption, but cannot guarantee the security of any information you disclose online. You accept the inherent security implications of dealing online over the internet and will not hold Trustnet responsible for any breach of security unless we have been negligent or in wilful default. 
 
