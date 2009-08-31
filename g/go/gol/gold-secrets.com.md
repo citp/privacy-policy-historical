@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gold-secrets.com privacy policy that was archived on 2007-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071216224132id_/http%3A//www.gold-secrets.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gold-secrets.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831052046id_/http%3A//www.gold-secrets.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -95,7 +95,7 @@ QUESTIONS, COMMENTS, OR REPORT OF INCIDENTS
 
 You may direct questions, comments or reports to: 
 
-Luke Brown warcraft@netbunk.com
+Luke Brown www.gold-secrets.com/support/
 
 REVISIONS TO THIS PRIVACY POLICY WITHOUT NOTICE
 
