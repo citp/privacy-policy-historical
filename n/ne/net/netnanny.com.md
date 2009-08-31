@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netnanny.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228182911id_/http%3A//www.netnanny.com/support/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netnanny.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831072057id_/http%3A//www.netnanny.com/support/privacy_policy) for the most accurate reproduction.*
 
 # ContentWatch Privacy Policy
 
