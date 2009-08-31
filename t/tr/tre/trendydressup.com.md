@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trendydressup.com privacy policy that was archived on 2009-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090312073459id_/http%3A//www.trendydressup.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendydressup.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831102845id_/http%3A//www.trendydressup.com/privacy.html) for the most accurate reproduction.*
 
 # Trendy Dress Up Games
 
@@ -17,7 +17,16 @@ _From Cookies_ – the sole purpose of cookies is to enhance your online experie
 www.trendydressup.com will not share your information with anyone. The only exception shall be in the event that disclosure of information is required by law enforcement or other government officials in connection with investigation of fraud, intellectual property infringements, or other activity that is illegal or that may expose you or us to legal liability. 
 
 **Collection of information and Third-Party sites and Sponsors  
-**It is important that you understand that advertisers or Web sites that link from www.trendydressup.com site may collect personal information about you. The Privacy Policy does not apply to, and cannot control the activities of other advertisers or Web sites. We use third-party advertising companies to serve ads on our sites. These companies may use information about your visits to this and other sites in order to help them provide relevant ads to users. Third parties may also be placing and reading cookies on your browser, or using web beacons to collect information, in the course of ads being served on our website. If you do not wish for these third-parties to place and read cookies you can set your browser to block them.
+**It is important that you understand that advertisers or Web sites that link from www.trendydressup.com site may collect personal information about you. The Privacy Policy does not apply to, and cannot control the activities of other advertisers or Web sites. We use third-party advertising companies to serve ads on our sites. These companies may use information about your visits to this and other sites in order to help them provide relevant ads to users. Third parties may also be placing and reading cookies on your browser, or using web beacons to collect information, in the course of ads being served on our website. If you do not wish for these third-parties to place and read cookies you can set your browser to block them.   
+
+
+Google Adsense 
+
+  * Google, as a third party vendor, uses cookies to serve ads on www.trendydressup.com website. 
+  * Google's use of the DART cookie enables it to serve ads based on your visit to www.trendydressup.com site and other sites on the Internet. 
+  * You may opt out of the use of the DART cookie or change your preferences by visiting the google ads preferences page [here](http://www.google.com/ads/preferences/).
+
+
 
 **Security**  
 All data that we collect is stored on one or more database servers. We are taking any reasonable precaution to secure the data, but you have to understand that the internet is not 100% safe and we cannot guarantee the safety of your information. All this kind of transmission whatsoever is made on your own risk.   
