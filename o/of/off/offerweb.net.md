@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the offerweb.net privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428181658id_/http%3A//www.offerweb.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offerweb.net privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831113759id_/http%3A//www.offerweb.net/privacypolicy.html) for the most accurate reproduction.*
 
-# www.offerweb.net
+# OfferWeb
+
+Privacy Policy
 
 **OFFERWEB, LLC, (“OfferWeb”) PRIVACY POLICY**
 
@@ -113,3 +115,5 @@ We reserve the right to add Individual Information to multiple lists maintained 
 For more information about protecting your privacy, you may wish to visit: www.ftc.gov. If you have questions about this policy, please contact us at legal@offerweb.com.
 
 California User Consumer Rights. In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, STE 1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to dca@dca.ca.gov.
+
+[home](https://web.archive.org/)
