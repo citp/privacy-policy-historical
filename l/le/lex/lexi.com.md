@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lexi.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623221601id_/http%3A//www.lexi.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexi.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831235721id_/http%3A//www.lexi.com/home/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Respecting Your Concerns for Privacy - Lexi-Comp
 
