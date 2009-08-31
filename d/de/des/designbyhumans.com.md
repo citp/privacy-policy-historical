@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designbyhumans.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228191721id_/http%3A//www.designbyhumans.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designbyhumans.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831133141id_/http%3A//www.designbyhumans.com/privacy) for the most accurate reproduction.*
 
 # Design By Humans T-shirts - New T-shirt designs everyday - Cool Tees Designer Shirts - T shirt Art Contest
 
@@ -61,8 +61,9 @@ We may occasionally update our Privacy Policy to reflect changes in our practice
 If you have any questions about this summary, our Privacy Policy, or our information practices, please contact us by email or postal mail below:
 
 DesignByHumans.com, Inc.  
-7 Holland Drive  
-Irvine, CA 926077  
+1 Marconi  
+Suite C  
+Irvine, CA 92618  
 United States of America  
 operator [at] designbyhumans.com  
 © 2008 Design By Humans. All rights reserved.  
