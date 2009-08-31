@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valuedopinions.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627212128id_/http%3A//www.valuedopinions.com/index.php%3Fid%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuedopinions.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831143013id_/http%3A//www.valuedopinions.com/index.php%3Fid%3D8) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -30,7 +30,7 @@ In order to compile our research studies, we may ask you to voluntarily submit p
 
 In addition, you will need to submit your email address and password to login to the [www.valuedopinions.com](http://www.valuedopinions.com/) site. 
 
-By registering on the [www.valuedopinions.com](http://www.valuedopinions.com/) site, you agree to receive emails from us, such as other survey invitations and reminders, communications about sweepstakes in which you have been selected as a winner, responses to inquiries that you submitted on our site, and inquiries regarding your status as a Research Now member. If we send you a survey invitation or reminder by email, we will always provide the opportunity to opt-out of receiving future emails by following the "unsubscribe" instructions at the bottom of the email. [See ["How We Use the Information You Provide - Email Communications"](https://web.archive.org/web/20090627212128id_/http%3A//www.valuedopinions.com/en/privacy.htm#q1) section below]. 
+By registering on the [www.valuedopinions.com](http://www.valuedopinions.com/) site, you agree to receive emails from us, such as other survey invitations and reminders, communications about sweepstakes in which you have been selected as a winner, responses to inquiries that you submitted on our site, and inquiries regarding your status as a Research Now member. If we send you a survey invitation or reminder by email, we will always provide the opportunity to opt-out of receiving future emails by following the "unsubscribe" instructions at the bottom of the email. [See ["How We Use the Information You Provide - Email Communications"](https://web.archive.org/web/20090831143013id_/http%3A//www.valuedopinions.com/en/privacy.htm#q1) section below]. 
 
 We may also ask third parties to send survey invitation emails on our behalf. In such cases, the people who receive those emails can choose to click on a link to be directed to Research Now's registration page on its site. The individual can then decide whether or not to register with Research Now. 
 
@@ -102,7 +102,7 @@ Please note that information submitted on the [ www.valuedopinions.com](http://w
 
 Research Now believes that it's especially important to protect children's privacy online and encourages parents and guardians to spend time online with their children to participate and monitor their Internet activity. Although Research Now is based in the United Kingdom, Research Now complies with the U.S. Children's Online Privacy Protection Act of 1998 ("COPPA"). We do not seek to collect any personal information from children under 16 years of age. During the profile registration process, we collect birth date, and if an individual enters a birth date that indicates the individual is under 16, we block the registration and any personal information submitted by the individual is not saved in our database. From time to time, we may ask our adult survey respondents whether they have children residing with them who might have certain interests, such as favorite movies or music. In such event, we do not ask the child or parent to submit personally identifiable information about the child. 
 
-If you would like to contact us about your information, any information about your child, or to find out how you can have your child's information removed from our database, please see the ["Accessing the Personal Information You've Provided"](https://web.archive.org/web/20090627212128id_/http%3A//www.valuedopinions.com/en/privacy.htm#q3) section of this policy. 
+If you would like to contact us about your information, any information about your child, or to find out how you can have your child's information removed from our database, please see the ["Accessing the Personal Information You've Provided"](https://web.archive.org/web/20090831143013id_/http%3A//www.valuedopinions.com/en/privacy.htm#q3) section of this policy. 
 
 **8\. Cookies**
 
@@ -145,4 +145,4 @@ USA
 
 **12\. Terms and Conditions of Use**
 
-Your use of Research Now's web sites, including this site, is subject to the terms of a legal agreement between you and Research Now, which is incorporated by reference herein. Please see our [ Terms and Conditions](https://web.archive.org/web/20090627212128id_/http%3A//www.valuedopinions.com/index.php%3Fid%3D8?id=9 "Opens internal link in current window"). 
+Your use of Research Now's web sites, including this site, is subject to the terms of a legal agreement between you and Research Now, which is incorporated by reference herein. Please see our [ Terms and Conditions](https://web.archive.org/web/20090831143013id_/http%3A//www.valuedopinions.com/index.php%3Fid%3D8?id=9 "Opens internal link in current window"). 
