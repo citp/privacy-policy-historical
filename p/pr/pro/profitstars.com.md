@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the profitstars.com privacy policy that was archived on 2009-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090423071707id_/http%3A//www.profitstars.com/default.aspx%3FP%3D2c320adc-7531-4639-b774-41f22c8d6cc9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profitstars.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831235415id_/http%3A//www.profitstars.com/default.aspx%3FP%3D2c320adc-7531-4639-b774-41f22c8d6cc9) for the most accurate reproduction.*
 
 # ProfitStars.com
 
