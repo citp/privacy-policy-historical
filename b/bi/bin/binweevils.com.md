@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the binweevils.com privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207052809id_/http%3A//www.binweevils.com/info/index.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binweevils.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831133125id_/http%3A//www.binweevils.com/info/index.html%23privacy) for the most accurate reproduction.*
 
 # Bin Weevils - Information
 
 About Bin Weevils Limited
 
-Bin Weevils was launched in January 2004 as a 50/50 joint venture between Nickelodeon UK and Prism Entertainment
+Bin Weevils was formed as a 50/50 joint venture between Nickelodeon UK and Prism Entertainment
 
 This year the company Bin Weevils Limited was formed and is a Joint Venture between: 
 
@@ -22,7 +22,7 @@ In addition, each channel is complemented by red button games and interactive we
 
 **CEG (Creative Entertainment Group)** (Financial & Strategic investor) - [www.ceg-events.com](http://www.ceg-events.com/)
 
-CEG is a recent investor into Bin Weevils, for more information about CEG, please visit their website 
+CEG is a recent investor into Bin Weevils, for more information about CEG, please visit their website. 
 
   
 
@@ -36,7 +36,69 @@ These Terms and Conditions apply to UK residents only
 
 3\. Before registering and playing on Bin Weevils, you should read the guides found in our [Parents section](http://www.binweevils.com/parents/). It is particularly important to read the [Safety Guide](http://www.binweevils.com/parents/safety.html) and the [Safety Rules](http://www.binweevils.com/parents/rules.html). 
 
-**Special note regarding the King of the Bin competition:**  
+**  
+BIN WEEVILS COMPETITION TERMS AND CONDITIONS  
+**Bin Weevils Limited of 220 Latimer Road, London W10 6QY is the promoter of the Competition (Promoter). 
+
+Please read the following rules carefully. 
+
+These standard competition terms and conditions (“Terms And Conditions”) will apply to all of the Promoter’s competitions unless otherwise stated.
+
+Depending on the nature of the competition, it may be necessary to have additional terms and conditions (“Additional Terms and Conditions”), which will take priority over these Terms And Conditions. 
+
+The Promoter shall notify the entrants of any Additional Terms and Conditions that may apply to a competition.
+
+Entrants may enter the competition by following the directions given in respect of each competition. 
+
+1\. To enter all competitions you must be aged 16 years or under and be residents of the UK and Eire. 
+
+2\. All entrants must obtain parental consent prior to entering competitions.
+
+3\. We may require proof of eligibility which may include the entrant to submit birth certificates or other proof of elibility.
+
+4\. Entrants must provide the details requested by the Promoter, which may include entrant’s name, date of birth, age, address (including postcode), telephone number and/or email address. 
+
+5\. The competition is entered online on the Bin Weevils site and nowhere else.
+
+6\. This competition is not open to employees (or members of their immediate families) of Bin Weevils Limited, or members of their immediate families of Prism Entertainment & Creative Entertainment Group. 
+
+7\. The Promoter is not responsible for any and all expenses in connection with the prize including but not limited to transportation. 
+
+8\. No purchase necessary.
+
+9\. Only one entry per household per competition 
+
+10\. Any personal information (entrant’s name, age, address, telephone number and/or email address will be used solely in connection with this competition and will not be disclosed to any third party, except for the purpose of fulfilling the prize where applicable. Any personal information held by the Promoter in respect of the competition will be held on record for a short period for the purpose of ensuring fulfilment of the competition. 
+
+11\. The winner(s) will be selected at random by Bin Weevils Limited from correct and eligible entries. Their decision is final and no correspondence will be entered in to over this decision.
+
+12\. Closing Date: The closing date shall be the date and/or time given in the instructions for the competition and unless otherwise stated  
+We will not enter into any correspondence regarding entries received after this date. No responsibility is accepted for late or lost entries due to the internet or other. Proof of sending is not proof of receipt. 
+
+13\. For question and answer competitions, the winner will have answered the question correctly and will be the first entry randomly drawn after the closing date from all the correct entries received.  
+For skills based competitions, such as designing and/or story writing competitions or performing challenges, the winner will have successfully completed the required skills based task and will be the person whom the Promoter judges deem to have performed such task the best from all the entries received. The Promoter’s decision is final. 
+
+14\. In the event that the Promoter cannot for any reason contact the winner within 7 days of the first draw then the promoter reserves the right to randomly draw another set of winners. 
+
+15\. If you do not claim your prize within 7 days we reserve the right to offer the prize to another successful entrant whose name is next drawn at random. 
+
+16\. You can find out who won by sending a stamped addressed envelope to Bin Weevils Limited, 220 Latimer Road, London, W10 6QY after the competition closing date. 
+
+17\. The prize and quantities are stated on the individual competitions.
+
+18\. No part of the prize is exchangeable for cash or any other prize. However we reserve the right to award a substitute prize of equal value. No cash alternatives will be offered. 
+
+19\. By entering the competition, the winners of any prize agree to participate in such promotional activities and feature in such promotional material as Bin Weevils may require. 
+
+20\. If circumstances arise outside of our control we reserve the right to cancel the competition at any stage. 
+
+21\. The Promoter is committed to a strict privacy policy. 
+
+22\. This competition is being run by Bin Weevils Limited of 220, Latimer Road, London, W10 6QY (the “Promoter”).
+
+23\. These competition Terms and Conditions shall be governed by and constructed in accordance with the laws of England and Wales and the courts of England shall have exclusive jurisdiction in relation to any disputes arising.
+
+**King of the Bin competition:**  
 1\. Entrants enter the King of the Bin competition by playing games and doing activities on the Bin Weevils web site. Costs to enter the competition via the Internet may vary so please check with your network operator for current charges. Entrants should seek the permission of the person paying the bill before entering.
 
 2\. The closing date for entries is Midnight on Sunday every week. For the foreseeable future.
@@ -80,8 +142,7 @@ For the avoidance of doubt, the players should view the prize page on the Bin We
 
 21\. These competition Terms and Conditions shall be governed by and construed in accordance with the laws of England and Wales and the courts of England shall have exclusive jurisdiction in relation to any disputes arising there from.
 
-22\. Bin Weevils Limited, 220 Latimer Road, London W10 6QY  
-
+22\. Bin Weevils Limited, 220 Latimer Road, London W10 6QY
 
 Bin Weevils is the place in cyberspace where kids can play games, enter competitions, win prizes, chat to friends and watch favourite cartoons. Bin Weevils believes in the power of kids and we urge both them and their parents to use and enjoy our Site. Whilst we encourage the interactive nature of online media, we strive to educate parents and kids about how to appropriately safeguard their privacy when travelling on the web. Our information collection practices are described below. We urge kids to check with their parents before entering any information on any website and we urge parents to discuss with their kids restrictions regarding the online release of personal information to anyone they don't know. 
 
