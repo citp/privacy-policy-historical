@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dexknows.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228063459id_/http%3A//www.dexknows.com/info/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dexknows.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831103943id_/http%3A//www.dexknows.com/info/privacy_policy.asp) for the most accurate reproduction.*
 
 # DexKnows - Privacy Policy
 
-Last Updated February 24, 2009
+Last Updated April 8, 2009
 
 Dex Media, Inc., R.H. Donnelley Publishing & Advertising, Inc. and R.H. Donnelley Publishing & Advertising of Illinois Partnership (collectively, "Dex") understand and respect your concerns about privacy. This notice describes Dex's privacy policy as it pertains to the website at www.DexKnows.com (the "Website"). We may from time-to-time revise this privacy policy, and the date of last revision will be available at the top of this page, so please be sure to check back periodically. **By visiting the Website, you are acknowledging and accepting this Privacy Policy. Your continued use of the Website after changes have been posted to the Privacy Policy will constitute your acceptance of such changes**.
 
@@ -39,5 +39,7 @@ In addition to the information you knowingly provide, Dex collects the domain na
 **Children:** This Website is not directed toward children under 13 years of age nor does Dex knowingly collect information from children under 13. If you are under 13, please do not submit any personally identifiable information to Dex.
 
 **Links:** The Website may contain links to third-party websites. Dex is not responsible for the privacy practices or the content of such websites.
+
+**Your California Privacy Rights:** If you are a California resident, you are entitled by law to request an Information Sharing Disclosure. If you request it, we will provide you with a notice of your right to prevent sharing of your personal information as well as a cost-free means of doing so. To receive such a notice, submit a written request to the address listed in the Contact section below, specifying that you seek your "California Customer Choice Notice." Please allow thirty days for a response.
 
 **Contacts:** If you have any questions, concerns, or suggestions regarding this privacy policy, please contact us at [customercareemail@dexknows.com](mailto:customercareemail@dexknows.com).
