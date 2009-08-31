@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supersecret.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628090228id_/http%3A//www.supersecret.com/login-server/spring/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supersecret.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831070637id_/http%3A//www.supersecret.com/login-server/spring/privacypolicy.jsp) for the most accurate reproduction.*
 
 # SuperSecret - Privacy Policy
 
