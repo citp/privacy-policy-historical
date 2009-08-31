@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cypherbox.net privacy policy that was archived on 2009-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090219163522id_/http%3A//www.cypherbox.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cypherbox.net privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831043410id_/http%3A//www.cypherbox.net/privacy) for the most accurate reproduction.*
 
 # CypherBox.Net - All Tutorials, Tips and Tricks!
 
