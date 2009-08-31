@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nseries.com privacy policy that was archived on 2009-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090303231002id_/http%3A//europe.nokia.com/privacypolicy_europe) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nseries.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831085120id_/http%3A//europe.nokia.com/privacypolicy_europe) for the most accurate reproduction.*
 
 # Nokia Europe - Privacy policy
 
