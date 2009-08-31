@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the incorporate.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503111122id_/http%3A//www.incorporate.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incorporate.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831102818id_/http%3A//www.incorporate.com/privacy.html) for the most accurate reproduction.*
 
 # The Company Corporation Privacy Policy | Incorporate.com
 
-[Home](https://web.archive.org/web/20090503111122id_/http%3A//www.incorporate.com/index.html "Home") > Privacy Policy 
+[Home](https://web.archive.org/web/20090831102818id_/http%3A//www.incorporate.com/index.html "Home") > Privacy Policy 
 
 **Last Revised:  December 29, 2008**
 
