@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prlog.org privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217015200id_/http%3A//www.prlog.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prlog.org privacy policy that was archived on 2009-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090902000235id_/http%3A//www.prlog.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,7 +13,7 @@ Because we gather certain types of information about our users, we feel you shou
 We gather two types of information about users:
 
   * Information that users provide through optional, voluntary submissions. These are voluntary submissions to contact a press release author, to receive our electronic newsletters, to email a friend, etc.
-  * Information we gather through aggregated tracking information derived mainly by tallying page views throughout our site. This information allows us to better tailor our content to readers' needs. Under no circumstances do we divulge any information about an individual user to a third party. 
+  * Information we gather through aggregated tracking information derived mainly by tallying page views throughout our site. This information allows us to better tailor our content to readers' needs. Under no circumstances do we divulge any information about an individual user to a third party.
 
 
 
@@ -25,7 +25,7 @@ We offer the following free services, which require some type of voluntary submi
 
   1. #### Electronic Newsletter
 
-We offer an optional [free electronic newsletter](https://web.archive.org/newsletter-subscription.html) to users. We gather the email address and other information of users who voluntarily subscribe. Such information is used to send customized electronic newsletter to the subscribers and is not shared with any third parties. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page. 
+We offer an optional [free electronic newsletter](https://web.archive.org/newsletter-subscription.html) to users. We gather the email address and other information of users who voluntarily subscribe. Such information is used to send customized electronic newsletter to the subscribers and is not shared with any third parties. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page.
 
   2. #### Press Release Submission
 
@@ -45,7 +45,7 @@ Our site users can choose to electronically contact a press release author by cl
 
   6. #### Polling
 
-We may offer interactive polls to users so they can easily share their opinions with other users and see what our audience thinks about important issues. We may use a system so that users can vote only once on a particular question. Opinions or any other information to polls are aggregated and are not identifiable to any particular user. 
+We may offer interactive polls to users so they can easily share their opinions with other users and see what our audience thinks about important issues. We may use a system so that users can vote only once on a particular question. Opinions or any other information to polls are aggregated and are not identifiable to any particular user.
 
   7. #### Surveys
 
@@ -64,7 +64,7 @@ We never knowingly request personally identifiable information from anyone under
 
 ### Usage Tracking
 
-We track user traffic patterns throughout all of our sites. However, we do not correlate this information with data about individual users. We do break down overall usage statistics according to a user's domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user's browser). We track number of unique visitors for each press release to display the most popular press releases on top.
+We track user traffic patterns throughout all of our sites. However, we do not correlate this information with data about individual users. We do break down overall usage statistics according to a user's domain name, browser type, refering page, and MIME type by reading this information from the browser string (information contained in every user's browser). We track number of unique visitors for each press release to display the most popular press releases on top.
 
 We sometimes track and catalog the search terms that users enter in our Search function, but this tracking is never associated with individual users. We use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you.
 
@@ -72,7 +72,7 @@ We sometimes track and catalog the search terms that users enter in our Search f
 
 We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above).
 
-## Use of Information
+## Use/Sharing of Information
 
 We use any information voluntarily given by our users to enhance their experience in our network of sites, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users.
 
@@ -82,16 +82,16 @@ We use tracking information to determine which areas of our sites users like and
 
 We create aggregate reports on user demographics and traffic patterns for advertisers, sponsors and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs. Because we don't track the usage patterns of individual users, an advertiser or sponsor will never know that a specific user clicked their ad. We will not disclose any information about any individual user except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public.
 
-## Sharing of the Information
+We may share limited aggregate reports with our site users so that they can know how their content is performing.
 
-We don't share any voluntary or non-voluntary information gathered by us by means other than explained above.
-
-We use third-party advertising companies to serve ads when you visit our website. You can view their privacy policy by [clicking here](http://www.google.com/privacy.html). 
+We use third party advertisements on our site to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites). You can view their privacy policy by [clicking here](http://www.google.com/privacy.html). 
 
   * Google, as a third party vendor, uses cookies to serve ads on our site.
   * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
 
+
+We don't share any voluntary or non-voluntary information gathered by us by means other than explained above.
 
 ## Security
 
