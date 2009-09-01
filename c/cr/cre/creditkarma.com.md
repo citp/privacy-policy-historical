@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the creditkarma.com privacy policy that was archived on 2009-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090218235609id_/http%3A//www.creditkarma.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditkarma.com privacy policy that was archived on 2009-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090901191049id_/http%3A//www.creditkarma.com/about/privacy) for the most accurate reproduction.*
 
-# Credit Karma Privacy Policy
+# Credit Karma Privacy Policy | Credit Karma
 
 _Effective date January 15, 2008_
 
@@ -46,7 +46,7 @@ Credit Karma advertisers may include financial service providers (such as banks,
 Credit Karma may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who clicked on a particular advertisement. Such information does not identify you individually. 
 
 Service Providers:  
-We use other third parties to provide credit checks on our site. When you sign up for a credit report on our site, we will share your personally identifiable information and sensitive information with the third party to verify your identity and provide that service.
+We use other third parties to provide credit report and score data on our site. When you request a credit report and score on our site, we will share your personally identifiable information and sensitive information with the third party to verify your identity and provide that service.
 
 These third parties are prohibited from using your personally identifiable information for any other purpose including their own marketing.
 
