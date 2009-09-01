@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the staplescenter.com privacy policy that was archived on 2009-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090217185046id_/http%3A//www.staplescenter.com/doublecol.php%3Fsection%3Dpolicies%26page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the staplescenter.com privacy policy that was archived on 2009-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090901214856id_/http%3A//www.staplescenter.com/doublecol.php%3Fsection%3Dpolicies%26page%3Dprivacy) for the most accurate reproduction.*
 
 # Staples Center :: Policies & Information :: Privacy Policy
 
