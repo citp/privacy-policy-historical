@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the pokerlistings.com privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207090736id_/http%3A//www.pokerlistings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokerlistings.com privacy policy that was archived on 2009-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090901204337id_/http%3A//www.pokerlistings.com/privacy-policy) for the most accurate reproduction.*
 
 # Online Poker Guide - PokerListings.com - Best Poker Online
+
+**
 
 [Home](http://www.pokerlistings.com/) > Privacy Policy 
 
@@ -29,3 +31,5 @@ PokerListings.com shares web site usage information about visitors to our web si
 PokerListings.com reserves the right to replace its Privacy Policy at any time. We suggest that you regularly check http://www.pokerlistings.com/privacy-policy for updates. 
 
 Please e-mail: info@pokerlistings.com with questions or comments. 
+
+**
