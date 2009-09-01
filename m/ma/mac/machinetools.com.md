@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the machinetools.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419223633id_/http%3A//www.machinetools.com./MT/index.tmpl%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the machinetools.com privacy policy that was archived on 2009-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090901061909id_/http%3A//www.machinetools.com/MT/index.tmpl%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Machine Tools, Used Machinery, New Machinery, Metalworking, Fabricating, Tooling, Machine Auctions
 
