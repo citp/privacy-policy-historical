@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the android.com privacy policy that was archived on 2009-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090320070503id_/http%3A//www.android.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the android.com privacy policy that was archived on 2009-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090901192642id_/http%3A//www.android.com/privacy.html) for the most accurate reproduction.*
 
 # Android | Site Terms of Service
 
