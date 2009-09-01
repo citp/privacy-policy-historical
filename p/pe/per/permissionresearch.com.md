@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the permissionresearch.com privacy policy that was archived on 2009-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090330011105id_/http%3A//www.permissionresearch.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the permissionresearch.com privacy policy that was archived on 2009-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090901220208id_/http%3A//www.permissionresearch.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - PermissionResearch
 
@@ -47,11 +47,11 @@ What information is collected?
 
 Basic Demographic Information: When you sign up for this program, we may obtain your contact information and some basic demographic information about you using a questionnaire, information from companies through which you obtained or inquired about this program, or the application that you install onto your computer and allow to track your Internet usage.
 
-Survey response information: Once you agree to participate in this program, we may notify you of survey opportunities through e-mail, pop-ups, toast windows, U.S. mail, and other means. If you elect to participate in a survey, we require that you provide complete and accurate information about yourself and your household.
+Survey response information: Once you agree to participate in this program, we may notify you of survey opportunities through e-mail, pop-ups, toast windows, U.S. mail, and other means. If you elect to participate in a survey, we require that you provide complete and accurate information about yourself and your household. The survey opportunities that we provide to you may be related to other information that that we collect. For example, we may provide you with a survey asking you about the quality of your user experience at a particular website.
 
 Computer hardware, software, and other configuration information: Our application may collect general hardware, software, computer configuration and application usage information about the computer on which you install our application, including such data as the speed of the computer processor, its memory capacities and Internet connection speed. In addition, our application may report on devices connected to your computer, such as the type of printer or router you may be using.
 
-Internet usage information: Once you install our application, it monitors all of the Internet behavior that occurs on the computer on which you install the application, including both your normal web browsing and the activity that you undertake during secure sessions, such as filling a shopping basket, completing an application form or checking your online accounts. We may use the information that we monitor, such as name and address, for the purpose of better understanding your household demographics; however we make commercially viable efforts to automatically filter confidential personally identifiable information such as UserID, password, credit card numbers, and account numbers. Inadvertently, we may collect such information about our panelists; and when this happens, we make commercially viable efforts to purge our database of such information.
+Internet usage information: Once you install our application, it monitors all of the Internet behavior that occurs on the computer on which you install the application, including both your normal web browsing and the activity that you undertake during secure sessions, such as filling a shopping basket, completing an application form or checking your online accounts. Our application may also collect information regarding the cookies that exist on your computer. We may use the information that we monitor, such as name and address, for the purpose of better understanding your household demographics; however we make commercially viable efforts to automatically filter confidential personally identifiable information such as UserID, password, credit card numbers, and account numbers. Inadvertently, we may collect such information about our panelists; and when this happens, we make commercially viable efforts to purge our database of such information.
 
 Our application will review the content of all web pages to determine the language being used in the web site, and the application may review select e-mail header information from web-based e-mails as a way to verify your contact information and your online usage information.
 
@@ -93,7 +93,7 @@ Please refer to our program’s web site, which lays out the privacy commitments
 
 What if I wish to stop participating in this program?
 
-Resignation: You may resign at any time by contacting us at the support address listed below or by selecting the “[Terminate all PermissionResearch Services](https://web.archive.org/web/20090330011105id_/http%3A//www.permissionresearch.com/Remove.aspx?terminate_services=y)” link from the Members section on your panel’s web page (where applicable). 
+Resignation: You may resign at any time by contacting us at the support address listed below or by selecting the “[Terminate all PermissionResearch Services](https://web.archive.org/web/20090901220208id_/http%3A//www.permissionresearch.com/Remove.aspx?terminate_services=y)” link from the Members section on your panel’s web page (where applicable). 
 
 Removing our Application: You may remove our application using the Windows Add/Remove Programs function (known as "Programs and Features" in Vista). Alternatively, you may e-mail our support staff at the e-mail address provided below and request removal instructions. Please be sure to follow this same removal procedure on all of the computers from which you wish to remove this application. Removing the application will stop tracking of your online browsing and purchasing behavior, but unless you resign from all services in accordance with the procedure stated above, you still may be contacted for administrative purposes or for special participant opportunities. After you remove our application from a computer, all settings we have made to your computer will be deactivated; however, some inactive elements may remain on your machine such as registry entries or DLL files, which is not at all unusual for many types of online services and software.
 
@@ -126,7 +126,8 @@ As a participant, you agree to:
 As a participant, you agree not to:
 
   * Use this program in any way that: (i) harms or harasses others; (ii) violates any federal, state or local laws or ordinances; (iii) violates or infringes on the rights of any third parties including, but not limited to, copyright, trademark, patent, trade secret, rights of privacy or publicity or other proprietary right; or (iv) interferes with or disrupts this program;
-  * Attempt to reverse engineer, decompile, or disassemble the program; and
+  * Attempt to reverse engineer, decompile, or disassemble the program;
+  * Sign up for more than one account; and 
   * Attempt to defeat or circumvent our application, it being your responsibility to remove this application as instructed in this agreement or expressly by an authorized service representative.
 
   
@@ -153,6 +154,8 @@ THIS AGREEMENT SHALL BE GOVERNED BY THE LAWS OF THE COMMONWEALTH OF VIRGINIA, WI
 
 While this program is available on the Internet to international users, the program is and remains a U.S. offering and all use of the information collected is and shall remain subject to U.S. law and practice. International users must take this into account and should consult their local laws and independently determine whether participation is desired given these facts.
 
+Fraud: Any attempt by a participant to undermine the legitimate operation of the panel is a violation of criminal and civil laws and should such an attempt be made, TMRG, Inc. reserves the right to seek damages from any such respondent to the fullest extent permitted by law. Multiple accounts are not permitted; participants are limited to signing up for a maximum of one account.
+
 Third Party Rights: This agreement shall not create any rights or remedies in any parties other than the parties to the agreement and no person shall assert any rights as a third party beneficiary under this agreement.
 
 Assignment: You may not assign this agreement or any rights or obligations under this agreement without our prior written approval.
@@ -171,7 +174,7 @@ Third Party Products and Services: We neither endorse nor accept responsibility 
 
 ENTIRE AGREEMENT: This Agreement constitutes the entire agreement between sponsor and you with respect to the subject matter contained in the Agreement.
 
-This Agreement is effective as of March 4, 2009.
+This Agreement is effective as of May 14, 2009.
 
 Whom can I contact if I have additional questions?
 
@@ -185,9 +188,9 @@ Reston, VA 20190
 
 For any support issues, please contact: support@tmrginc.com.
 
-LP 0910
+LP 0920
 
   
-[](https://web.archive.org/web/20090330011105id_/http%3A//www.permissionresearch.com/signup.aspx)
+[](https://web.archive.org/web/20090901220208id_/http%3A//www.permissionresearch.com/signup.aspx)
 
 [](https://www.scanalert.com/RatingVerify?ref=www.permissionresearch.com)
