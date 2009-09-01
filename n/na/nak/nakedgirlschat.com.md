@@ -1,0 +1,80 @@
+> *The following text is extracted and transformed from the nakedgirlschat.com privacy policy that was archived on 2009-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090901145742id_/http%3A//www.ifriendsv2.net/ifpage.dll%3Ft%3Dsite/General/Legal/Privacy) for the most accurate reproduction.*
+
+# Privacy Statement for iFriendsV2
+
+|  |  |  |  |  |   
+---|---|---  
+|  |  **Overview**  
+---  
+**Effective August 2008**   
+[](http://www.truste.org/ivalidate.php?url=www.ifriends.net&sealid=101) This Service respects and safeguards the privacy of every individual who visits our website(s). This Privacy Policy is a formal document which outlines the information that may be collected about you while you use this Service, and how that information may be used. This Policy will also instruct you on what to do if you do not want your personal information collected or shared when you visit this Service. This Policy incorporates our [Terms of Service](http://www.ifriendsv2.net/ifpage.dll?t=site/General/Legal/tos), and if there is a conflict between this Policy or other stated policies and our Terms of Service, the Terms of Service prevail. If you would like to review a plain-spoken presentation of how we protect your privacy, and the practical ways that our Policy might affect your life, please [click here](http://www.ifriendsv2.net/ifpage.dll?t=site/general/legal/privacyprotection) for our "side bar" article, "How We Protect Your Privacy," or [click here](http://www.ifriendsv2.net/ifpage.dll?t=site/general/legal/privacyfaq) for a list of frequently-asked questions and answers concerning our policies.   
+**Personally-Identifiable Information**   
+We collect Personally-identifiable information about you (including, but not limited to, your name, address, telephone number, email address, Social Security number, bank account or credit card information, or any combination of data that could be used to identify you, such as birth date, zip code, and gender) when you provide it to us voluntarily or authorize our access to it. 
+
+To become a Subscriber of this Service, you must provide us with a screen name, password, email address, information about your age, and credit card information. To become a Video Host, you must provide us with your name, address, email address, date of birth, SSN, screen name(s), and other information which we use to verify your age and identity. 
+
+When you provide us with Personally-identifiable information, including email address, or authorize our access to it, such information will be gathered solely by this Service for use by us. In addition, companies who provide support services on our behalf, such as banking services, electronic payment services, email delivery services, and other professional services may have limited access to your Personally-identifiable information in order to provide their services. These service providers do not use this information for other purposes beyond providing the service. We do not share, sell, rent, or trade your Personally-identifiable information with any third parties for their promotional purposes. 
+
+At any point on our websites where Personally-identifiable information is requested, any information that is optional to provide, rather than mandatory, will be clearly marked as such. We may use Personally-identifiable information in the following ways, unless stated otherwise in our Terms of Service: we may store and process that information to better understand your needs and how we can improve our products and services, we may use that information to contact you about billing issues, technical issues, or as a follow up to your request to receive more information about our products and services, and we may use that information to ensure the protection of our rights. Financial information that is collected is used to check the user's qualifications for registration and to ensure proper payment by the user for products and services. If you are a Video Host, the information that you authorize us to collect or access is used to verify your age and identity, as well as to provide you with support services while you are using this Service (a third party service may be used to validate Video Hosts' age and identification information). 
+
+Your use of this Service may also include the transfer of your Personally-identifiable information, individual information, personal data, and/or sensitive information outside of your country, including without limitation from the European Union to the United States. At all times, you have the right and ability to withhold the transfer of your Personally-identifiable information, individual information, personal data, and/or sensitive information by not establishing an account with this Service. You agree that the transfer of such information is necessary to establish a relationship with this Service, and by establishing an account with this Service you provide express voluntary consent for your Personally-identifiable information, individual information, personal data, and/or sensitive information to be transferred and processed outside of your country, including without limitation from the European Union to the United States. 
+
+If you have already submitted Personally-identifiable information to us and would like us to remove it from our records, please contact us via the contact information listed at the bottom of this Policy. We will use reasonable efforts to remove your information from our existing files. 
+
+We may utilize electronic newsletters to reach all or a subset of all Subscribers, using the email address provided. When users opt-in to receive email notifications sent on behalf of Video Hosts, we do not, and will not, provide Video Hosts with access to such user information (in other words, we NEVER disclose user email addresses or other Personally-identifiable information to the Video Hosts). Users may opt-out of such mailing lists at any time by following the instructions found [here](http://www.ifriendsv2.net/ifpage.dll?t=site/General/legal/email_subscription_policy) or by following the instructions that will be sent as part of any such mailings. 
+
+If you are a Video Host, you may receive email communications related to the support services that we provide to you. Video Hosts may opt-out of such email communications at any time by [contacting iFriendsV2](http://www.ifriendsv2.net/ifpage.dll?t=Site/Tools/Diamond/main.htm&p_V1_Email_Ref=vchhelp\[at\]ifriends\[dot\]net) and discontinuing their use of this Service. 
+
+If your Personally-identifiable information changes, including your email address, or if you no longer desire to use our Services, you may update or deactivate your information. If you are a Subscriber, you may update or deactivate your information by contacting Customer Care via the [iFriendsV2 Contact Form](http://www.ifriendsv2.net/ifpage.dll?t=Site/Tools/Diamond/main.htm&p_V1_Email_Ref=help\[at\]ifriends\[dot\]net). If you prefer, you may contact us by telephone or postal mail at the contact information listed below. If you are a Video Host, you may update or deactivate your information by contacting Video Host Support through the [iFriendsV2 Contact Form](http://www.ifriendsv2.net/ifpage.dll?t=Site/Tools/Diamond/main.htm&p_V1_Email_Ref=vchhelp\[at\]ifriends\[dot\]net) or by contacting us by telephone or postal mail at the contact information listed below. 
+
+This Service may request Personally-identifiable information, such as email address, on specific pages that allow Subscribers to contact us, including the "Sheriff's Office," "Unsubscribe from e-mail," "Cancel my account," "Report Bugs," and "Help" services. In all of the above cases, such information is being collected to assist us in solving a specific issue addressed by the Subscriber and/or to allow us to contact the Subscriber with an appropriate response. 
+
+We will not disclose your Personally-identifiable information unless it is necessary to do so to comply with applicable laws or valid legal process (including without limitation search warrants, court orders, or providing assistance to law-enforcement authorities), or if the disclosure to a financial institution assists us in processing payments or in proving the legitimacy of a charge.   
+  
+**Non-Personally-Identifiable Information Collected Automatically**   
+In some cases, information that is not personally-identifiable may be automatically collected about you through server log files or cookies (examples of this type of information include without limitation your IP address, the type of internet browser you are using, the type of computer operating system you are using, and the domain name of the website from which you linked to our Service). For our Subscribers, at the time of registration, and only at the time of registration, we link this information to your account information, such as your email address; however, for non-registered users, we never link this information to any Personally-identifiable information. To learn how to prevent us from using cookies during your visit to this Service and how to erase cookies from your hard drive, see the [Guide to Managing Cookies](http://www.ifriendsv2.net/ifpage.dll?t=site/general/erasecookies).   
+**Information That May Be Placed Automatically On Your Computer's Hard Drive**   
+When you view one of our websites or email communications, we may store some information on your computer. This information will be in the form of a "cookie" or similar file and will help us in many ways. For example, cookies allow us to tailor web pages and email communications to better match your interests and preferences, and maintain your login session. For our Subscribers, we link this information to your account information such as your email address; however, for non-registered users, we never link this information to any Personally-identifiable information. With most internet browsers, you can erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored. Please refer to your browser instructions or help screen to learn more about these functions. To learn how to prevent us from using cookies during your visit to this Service and how to erase cookies from your hard drive, see the [Guide to Managing Cookies](http://www.ifriendsv2.net/ifpage.dll?t=site/general/erasecookies).   
+**Public Forums**   
+This Service makes chat rooms, forums, message boards, and/or news groups available to its users, Subscribers, and Video Hosts. Please remember that any information, such as your email address, that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.   
+**Security**   
+The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). 
+
+We follow generally accepted industry standards to protect the personal information, including your email address, submitted to us, both during transmission and once we receive it. No method of transmission over the internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
+
+If you have any questions about security on our website, you can contact us through the [iFriendsV2 Contact Form](http://www.ifriendsv2.net/ifpage.dll?t=Site/Tools/Diamond/main.htm&p_V1_Email_Ref=security\[at\]ifriends\[dot\]net).   
+  
+**Minors**   
+Because we are an e-commerce-driven web-conferencing platform, our Service is directed to adults who possess validated credit-card information, and is never marketed to individuals under the age of 18\. Our tens of thousands of registered "Video Hosts" host chatrooms under a potentially infinite number of different categories, ranging from how/to instruction to adult-oriented topics. 
+
+Certain portions of this Service, which may contain content considered offensive to some, are inaccessible to individuals under the age of 18 via a standard "credit card wall," as advocated by the Communications Decency Act. For those portions which may be accessible to individuals under the age of 18, we have no intention of collecting any Personally-identifiable information (that is, name, address, telephone number, or email address) from individuals under eighteen years of age. Where appropriate, we will specifically instruct minors not to submit such information on our websites or advertisements. If a minor has provided us with Personally-identifiable information, a parent or guardian of that minor should contact us via the contact form provided at the bottom of this Policy and we will use reasonable efforts to remove this information from our existing files.   
+  
+**Changes to Privacy Policy**   
+If we decide to change our Privacy Policy, we will post those changes to this Policy and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+
+We reserve the right to modify this Privacy Policy at any time, so please review it frequently. If we make material changes to this Policy or in how we use Personally-identifiable information such as your email address, we will notify you here, by email, or by means of a notice on our home page.   
+  
+**TRUSTe**   
+The Service is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the internet by promoting the use of fair information practices. This Privacy Policy covers this Service. Because this Service wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+
+If you have questions or concerns regarding this Privacy Policy, you should first contact our Privacy Department through the [iFriendsV2 Contact Form](http://www.ifriendsv2.net/ifpage.dll?t=Site/Tools/Diamond/main.htm&p_V1_Email_Ref=privacy\[at\]ifriends\[dot\]net). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with this Service to resolve your concerns. 
+
+The TRUSTe program covers only information that is collected through this Service, and does not cover information that may be collected through software downloaded from this Service.   
+  
+**Who to Contact**   
+If you have submitted Personally-identifiable information through this Service and would like that information removed from our records, please contact Customer Care via the [iFriendsV2 Contact Form](http://www.ifriendsv2.net/ifpage.dll?t=Site/Tools/Diamond/main.htm&p_V1_Email_Ref=help\[at\]ifriends\[dot\]net) and provide us with your name, your screenname, and any information that you feel is important. We will use reasonable efforts to remove this information from our existing files. 
+
+If you have further questions about this Privacy Policy: 
+
+  1. Contact us online through our [iFriendsV2 Contact Form](http://www.ifriendsv2.net/ifpage.dll?t=Site/Tools/Diamond/main.htm&p_V1_Email_Ref=help\[at\]ifriends\[dot\]net)
+  2. Contact us at our toll-free telephone number: 1-800-437-4363  
+([Click here](http://www.ifriendsv2.net/ifpage.dll?t=site/General/CustomerService/Contacts#telephone) for International contact info)
+  3. Contact us at our postal address: 
+
+Attention: Privacy Department  
+3395 S. Jones Blvd., Suite 22  
+Las Vegas, NV 89146 USA
+
+
+  
+|  | 
