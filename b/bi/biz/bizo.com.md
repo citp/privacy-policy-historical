@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizo.com privacy policy that was archived on 2009-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090203070702id_/http%3A//www.bizo.com/business_audience/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizo.com privacy policy that was archived on 2009-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090901200921id_/http%3A//www.bizo.com/business_audience/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Business Audience | Bizo
 
@@ -51,7 +51,7 @@ Many websites, including those participating in the BTN, set "cookies" on your c
 
 You are always free to decline cookies, but by doing so you may not be able to use certain features on the websites or take full advantage of all the website offerings and targeted advertising. You can configure your browser to accept all cookies, reject all cookies, erase cookies, or notify you when a cookie is set.
 
-Alternatively, you may [click here to opt-out of data collection and targeting cookies from Bizo](https://web.archive.org/web/20090203070702id_/http%3A//www.bizo.com/business_audience/opt_out.html "Out-Out"). This will result in your inability to benefit from many of the Bizo features described above. Note that if you change computers or browsers, or use multiple computers or browsers, you will need to repeat this process for each computer and each browser.
+Alternatively, you may [click here to opt-out of data collection and targeting cookies from Bizo](https://web.archive.org/web/20090901200921id_/http%3A//www.bizo.com/business_audience/opt_out.html "Out-Out"). This will result in your inability to benefit from many of the Bizo features described above. Note that if you change computers or browsers, or use multiple computers or browsers, you will need to repeat this process for each computer and each browser.
 
 _Disclosure of Information_
 
