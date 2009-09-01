@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winsms.co.za privacy policy that was archived on 2009-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090131205112id_/http%3A//www.winsms.co.za/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winsms.co.za privacy policy that was archived on 2009-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090901193851id_/http%3A//www.winsms.co.za/privacy.asp) for the most accurate reproduction.*
 
 # WinSMS Privacy Policy
 
@@ -16,8 +16,13 @@ Any information sent to WinSMS for messaging and or storage purposes will remain
 
 We do not sell or rent any personally identifiable information about you to any third party. We must however comply with court orders, information requests from government agencies and regulators and other legal and regulatory processes that may require the disclosure of your personally identifiable information.
 
-For more information please carefully read the WinSMS [Terms and Conditions](https://web.archive.org/RegTerms.asp).   
+##  Cookies and Web Beacons
 
+We do use cookies to store information, such as your personal preferences when you visit our site.  This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
+
+We also use third party advertisements on WinSMS.co.za to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.  This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+
+You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 ## Questions and comments
 
@@ -26,3 +31,5 @@ We're always happy to answer your questions and listen to your comments.
 If you have any questions about our privacy policy or its implementation, please [contact](https://web.archive.org/support3x/contact.asp) us.
 
 Acceptance of this privacy policy is a condition to your use of our services and you agree to be bound by all of its terms and conditions.
+
+Please also carefully read the WinSMS [Terms and Conditions](https://web.archive.org/RegTerms.asp). 
