@@ -1,13 +1,20 @@
-> *The following text is extracted and transformed from the shop-com.co.uk privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502122806id_/http%3A//www.shop-com.co.uk/about-privacy-a.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shop-com.co.uk privacy policy that was archived on 2009-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090901174511id_/http%3A//www.shop-com.co.uk/about-privacy-a.xhtml) for the most accurate reproduction.*
 
 # Privacy Policy - SHOP.COM UK
 
 ---  
 | 
 
+| 
+
+Share
+
+| [](http://www.shop-com.co.uk/r-ccn_send_page.xhtml "Email to Friend")| [](http://www.facebook.com/share.php?u=%3Curl%3E)|   
+---|---|---|---  
+  
 customer service
 
-| |  |   
+|  |   
 ---  
   
 Privacy Policy
@@ -100,7 +107,7 @@ The tutorial can be found here: <http://www.facebook.com/beacon/faq.php> (requir
 
 3\. Your choices about the collection, use and sharing of your personally identifiable information
 
-With regard to personal information that you provide under this Privacy Policy, there are two separate opt-out choices available to you. These opt-out choices are the means by which you give us, or decline to give us, your consent to use your personal information for the purposes covered by these opt-out choices. There are several methods by which you can exercise your opt-out choices: (a) during the registration process on our sites; (b) after registration, by logging on our sites, clicking on our [My Account](https://www.shop-com.co.uk/ccn_account.shtml) link, [Privacy Policy](https://www.shop-com.co.uk/ccn_change_privacy.shtml) links or going to Manage My Account and following the opt-out directions; (c) by emailing, phoning or writing SHOP.COM using the contact information provided below; (d) promotional emails you receive from us will provide you with an "unsubscribe" option; and (e) at other times and locations on the site. Each of these opt-out choices is subject to the exceptions described further below. 
+With regard to personal information that you provide under this Privacy Policy, there are two separate opt-out choices available to you. These opt-out choices are the means by which you give us, or decline to give us, your consent to use your personal information for the purposes covered by these opt-out choices. There are several methods by which you can exercise your opt-out choices: (a) during the registration process on our sites; (b) after registration, by logging on our sites, clicking on our [My Account](https://www.shop-com.co.uk/ccn_account.xhtml) link, [Privacy Policy](https://www.shop-com.co.uk/ccn_change_privacy.xhtml) links or going to Manage My Account and following the opt-out directions; (c) by emailing, phoning or writing SHOP.COM using the contact information provided below; (d) promotional emails you receive from us will provide you with an "unsubscribe" option; and (e) at other times and locations on the site. Each of these opt-out choices is subject to the exceptions described further below. 
 
 Your two opt-out choices are: 
 
@@ -120,9 +127,9 @@ Whether you're ordering a catalog or making a purchase, we want you to feel safe
 
 5\. How can you access, update your information and opt out choices
 
-You can access and update the contact information you gave us during registration (that is, your postal address, email address, or any other information that would directly enable us to contact you), or modify your opt-out choices, by going to [My Account](https://www.shop-com.co.uk/ccn_account.shtml). You also have the ability to add new credit card or shipping information to My Account when placing an order. If you have elected to store your credit card information with us, we only display the last five digits of your credit card number in the saved payment methods in the My Account section. The full credit card information is stored on secure offline servers. For more information on how we protect your credit card information, see our Security section. 
+You can access and update the contact information you gave us during registration (that is, your postal address, email address, or any other information that would directly enable us to contact you), or modify your opt-out choices, by going to [My Account](https://www.shop-com.co.uk/ccn_account.xhtml). You also have the ability to add new credit card or shipping information to My Account when placing an order. If you have elected to store your credit card information with us, we only display the last five digits of your credit card number in the saved payment methods in the My Account section. The full credit card information is stored on secure offline servers. For more information on how we protect your credit card information, see our Security section. 
 
-If you want to review, modify or correct any of this information, simply click on this [link](https://www.shop-com.co.uk/ccn_account.shtml) or go to the My Account center on our sites, and then log in with your member name and password. If you have forgotten your password, there are instructions on the link above to help you recover your password. If you need to recover your password, you can also contact us via email at  [customersupportuk@shop.com](mailto:customersupportuk@shop.com). Please include information in the email that will help us identify your account so we can assist you with your request. We may also provide you an opportunity to update your contact information and/or modify your opt-out choices by sending you an email or other communication that invites your response. Finally, you may unsubscribe from certain email communications by clicking on unsubscribe links in those emails. 
+If you want to review, modify or correct any of this information, simply click on this [link](https://www.shop-com.co.uk/ccn_account.xhtml) or go to the My Account center on our sites, and then log in with your member name and password. If you have forgotten your password, there are instructions on the link above to help you recover your password. If you need to recover your password, you can also contact us via email at  [customersupportuk@shop.com](mailto:customersupportuk@shop.com). Please include information in the email that will help us identify your account so we can assist you with your request. We may also provide you an opportunity to update your contact information and/or modify your opt-out choices by sending you an email or other communication that invites your response. Finally, you may unsubscribe from certain email communications by clicking on unsubscribe links in those emails. 
 
 This web site contains links to other sites. Please be aware that SHOP.COM is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each web site that collects personally identifiable information. This privacy statement applies solely to information collected by this site.
 
@@ -155,5 +162,3 @@ Updated 1/7/08.
   
 SHOP.COM is the one-stop-shop that helps you buy your favourite brands and products from   
 hundreds of UK stores, with one simple, secure account and shopping basket. Shopping Made Easy.
-
-* * *
