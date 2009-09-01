@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the muzu.tv privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619201423id_/http%3A//www.muzu.tv/site/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muzu.tv privacy policy that was archived on 2009-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090901085154id_/http%3A//www.muzu.tv/site/privacyPolicy) for the most accurate reproduction.*
 
-# MUZU TV - Bands, Festivals, Venues and Fans Broadcast your Music TV on the Web
+# MUZU TV - Watch, Create and Share Music Video Playlists
 
 1
 
