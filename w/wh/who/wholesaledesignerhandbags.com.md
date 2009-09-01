@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wholesaledesignerhandbags.com privacy policy that was archived on 2009-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090401210104id_/http%3A//www.wholesaledesignerhandbags.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wholesaledesignerhandbags.com privacy policy that was archived on 2009-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090901221400id_/http%3A//www.wholesaledesignerhandbags.com/privacy.htm) for the most accurate reproduction.*
 
 # Wholesale Designer Handbags - Wholesale Purses - Wholesale Handbags
 
@@ -9,12 +9,12 @@
    
 | 1. | 
 
-**Introduction** : WholesaleDesignerHandbags.com (" **this website** ") is operated by Bariss Enterprises, LLC (" **we** ", " **us** ", " **our** "). We respect the privacy of our website users (" **you** ", " **your** "). This privacy policy explains how we may collect, store, use, and disclose personal information that you provide to us. By accessing and using this website you confirm your unconditional consent to us collecting, storing, using, and disclosing your personal information in the manner set out in this privacy policy.  
+**Introduction** : WholesaleDesignerHandbags.com (" **this website** ") is operated by V.A.B. Ventures, LLC (" **we** ", " **us** ", " **our** "). We respect the privacy of our website users (" **you** ", " **your** "). This privacy policy explains how we may collect, store, use, and disclose personal information that you provide to us. By accessing and using this website you confirm your unconditional consent to us collecting, storing, using, and disclosing your personal information in the manner set out in this privacy policy.  
   
 ---|---  
 | 2. | 
 
-**Terms of use** : Your use of this website is governed by our [terms of use](https://web.archive.org/web/20090401210104id_/http%3A//www.wholesaledesignerhandbags.com/terms.htm). Accordingly, this privacy policy must be read in conjunction with our [terms of use](https://web.archive.org/web/20090401210104id_/http%3A//www.wholesaledesignerhandbags.com/terms.htm).  
+**Terms of use** : Your use of this website is governed by our [terms of use](https://web.archive.org/web/20090901221400id_/http%3A//www.wholesaledesignerhandbags.com/terms.htm). Accordingly, this privacy policy must be read in conjunction with our [terms of use](https://web.archive.org/web/20090901221400id_/http%3A//www.wholesaledesignerhandbags.com/terms.htm).  
   
 ---|---  
 | 3. | 
@@ -162,7 +162,7 @@ as otherwise required or permitted by law.
 ---|---  
 | 11. | 
 
-**Right to access and request correction** : It is important to us that the personal information we hold about you is accurate, complete and up to date. If you are aware that this is not case and would like your personal information corrected, or simply desire access to your personal information, please [contact us](https://web.archive.org/web/20090401210104id_/http%3A//www.wholesaledesignerhandbags.com/contact.htm). You may request access to your personal information that we (or our contractors) hold. Where you make any such request:  
+**Right to access and request correction** : It is important to us that the personal information we hold about you is accurate, complete and up to date. If you are aware that this is not case and would like your personal information corrected, or simply desire access to your personal information, please [contact us](https://web.archive.org/web/20090901221400id_/http%3A//www.wholesaledesignerhandbags.com/contact.php). You may request access to your personal information that we (or our contractors) hold. Where you make any such request:  
   
 ---|---  
   |  | a. |   | 
@@ -193,11 +193,11 @@ where we provide the requested information or carry out the requested correction
 |    
 ---  
   
-Bariss Enterprises, LLC is not an authorized dealer or agent of Prada®, Fendi®, Dior®, Gucci®, Chanel®, Marc Jacobs®, Coach®, Tod's®, Balenciaga®, or Louis Vuitton®. Also, Bariss Enterprises, LLC is in no way affiliated with Prada®, Fendi®, Dior®, Gucci®, Chanel®, Marc Jacobs®, Coach®, Tod's®, Balenciaga®, or Louis Vuitton® and these brands are the registered trademarks of their respective companies. All references to Prada®, Fendi®, Dior®, Gucci®, Chanel®, Marc Jacobs®, Coach®, Tod's®, Balenciaga®, or Louis Vuitton® are for identification purposes only.  
+V.A.B. Ventures, LLC is not an authorized dealer or agent of Prada®, Fendi®, Dior®, Gucci®, Chanel®, Marc Jacobs®, Coach®, Tod's®, Balenciaga®, or Louis Vuitton®. Also, V.A.B. Ventures, LLC is in no way affiliated with Prada®, Fendi®, Dior®, Gucci®, Chanel®, Marc Jacobs®, Coach®, Tod's®, Balenciaga®, or Louis Vuitton® and these brands are the registered trademarks of their respective companies. All references to Prada®, Fendi®, Dior®, Gucci®, Chanel®, Marc Jacobs®, Coach®, Tod's®, Balenciaga®, or Louis Vuitton® are for identification purposes only.  
   
-| Bariss Enterprises, LLC  
+| WholesaleDesignerHandbags.com  
 2602 Portland Ave   
-Minneapolis, MN 55407 |   | Directory Contents & Website Contents Copyright 2001-2006 Bariss Enterprises, LLC.  
+Minneapolis, MN 55407 |   | Directory Contents & Website Contents Copyright 2001-2009 V.A.B. Ventures, LLC.  
 All rights reserved. No part of this Website may be distributed or reproduced  
 without express written consent of the Author. |   |   
 ---|---|---|---|---  
