@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freestufftimes.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525055355id_/http%3A//www.freestufftimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freestufftimes.com privacy policy that was archived on 2009-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090901045142id_/http%3A//www.freestufftimes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -56,7 +56,7 @@ www.freestufftimes.com does use cookies to store information about visitors pref
 DoubleClick DART Cookie  
 .:: Google, as a third party vendor, uses cookies to serve ads on www.freestufftimes.com.  
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.freestufftimes.com and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
 Google Adsense  
