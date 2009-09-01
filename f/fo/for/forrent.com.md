@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forrent.com privacy policy that was archived on 2009-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090201070135id_/http%3A//www.forrent.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forrent.com privacy policy that was archived on 2009-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090901235019id_/http%3A//www.forrent.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - ForRent.com
 
