@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanblinds.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618084757id_/http%3A//www.americanblinds.com/resourcecenter/help/security.asp%3Fcm_re%3DBottomNavHP-_-Bottom-_-PrivacySecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanblinds.com privacy policy that was archived on 2009-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090903001024id_/http%3A//www.americanblinds.com/resourcecenter/help/security.asp%3Fcm_re%3DBottomNavHP-_-Bottom-_-PrivacySecurity) for the most accurate reproduction.*
 
 # American Blinds Wallpaper and More : Resource Center: American Blinds Wallpaper and More
 
@@ -20,7 +20,7 @@ Privacy/Security Dispute: If you have a question regarding our privacy policy or
 Additional Information
 
 **  
-This policy is valid until 31 January 2009 at 12:00:00 EST.
+This policy is valid until 31 January 2010 at 12:00:00 EST.
 
 **Data Collection**  
 P3P stands for “The Platform for Privacy Policies”, documentation which is maintained at the World Wide Web Consortium (W3C). P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains one data group. The data practices of this group are explained below. 
