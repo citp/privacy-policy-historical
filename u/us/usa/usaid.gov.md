@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usaid.gov privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625092316id_/http%3A//www.usaid.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usaid.gov privacy policy that was archived on 2009-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090902065902id_/http%3A//www.usaid.gov/privacy.html) for the most accurate reproduction.*
 
 # USAID: Privacy and Security Information
 
