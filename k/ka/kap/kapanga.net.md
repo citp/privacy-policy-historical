@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kapanga.net privacy policy that was archived on 2009-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090215172140id_/http%3A//www.kapanga.net/IP/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kapanga.net privacy policy that was archived on 2009-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090902221426id_/http%3A//www.kapanga.net/IP/privacy.cfm) for the most accurate reproduction.*
 
 # Kapanga Softphone
 
