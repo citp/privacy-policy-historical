@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mscsoftware.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620194701id_/http%3A//www.mscsoftware.com/about/legal/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mscsoftware.com privacy policy that was archived on 2009-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090902060739id_/http%3A//www.mscsoftware.com/about/legal/privacy.cfm) for the most accurate reproduction.*
 
 # Company Profile
 
@@ -88,7 +88,7 @@ If you have questions regarding this statement, you should first contact us by u
 
 If you have questions, comments, or concerns, or wish to update or change any personal information submitted on this Site, or have any questions regarding our Privacy Statement, you should first contact us by using our _[Web form](http://www.mscsoftware.com/about/contact.cfm)_.
 
-To find the MSC.Software subsidiary in your country or region, please refer to: _[http://mscsoftware.com/about/locate/.](http://mscsoftware.com/about/locate/)_
+To find the MSC.Software subsidiary in your country or region, please refer to: _[http://www.mscsoftware.com/about/locate/.](https://web.archive.org/about/locate/)_
 
 You may also contact us at 2 MacArthur Place, Santa Ana, California 92707-5924.
 
