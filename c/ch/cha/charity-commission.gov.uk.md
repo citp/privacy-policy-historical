@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charity-commission.gov.uk privacy policy that was archived on 2009-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090519010220id_/http%3A//www.charity-commission.gov.uk/common/copyright.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charity-commission.gov.uk privacy policy that was archived on 2009-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090902183412id_/http%3A//www.charity-commission.gov.uk/common/copyright.asp) for the most accurate reproduction.*
 
 # COPYRIGHT STATEMENT
 
