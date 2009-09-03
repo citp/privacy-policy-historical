@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dietdirect.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619035758id_/http%3A//www.dietdirect.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dietdirect.com privacy policy that was archived on 2009-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090903202345id_/http%3A//www.dietdirect.com/privacy.aspx) for the most accurate reproduction.*
 
 # DietDirect.com - Privacy Policy
 
