@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emitations.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619212126id_/http%3A//www.emitations.com/privacypolicy1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emitations.com privacy policy that was archived on 2009-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090903193158id_/http%3A//www.emitations.com/privacypolicy1.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
