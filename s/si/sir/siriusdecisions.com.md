@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the siriusdecisions.com privacy policy that was archived on 2009-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090421222218id_/http%3A//www.siriusdecisions.com/live/home/document.php%3FdA%3Dprivacy%26FID%3DMarketing) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siriusdecisions.com privacy policy that was archived on 2009-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090903035103id_/http%3A//www.siriusdecisions.com/live/home/document.php%3FdA%3Dprivacy%26FID%3DMarketing) for the most accurate reproduction.*
 
 # SiriusDecisions: SiriusDecisions: Privacy Policy
 
