@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huffingtonpost.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624233317id_/http%3A//www.huffingtonpost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huffingtonpost.com privacy policy that was archived on 2009-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090903101519id_/http%3A//www.huffingtonpost.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
