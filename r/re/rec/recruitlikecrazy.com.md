@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the recruitlikecrazy.com privacy policy that was archived on 2009-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090302225805id_/http%3A//www.recruitlikecrazy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recruitlikecrazy.com privacy policy that was archived on 2009-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090904014134id_/http%3A//www.recruitlikecrazy.com/privacy.html) for the most accurate reproduction.*
 
 # RecruitLikeCrazy.com - Privacy Policy
 
 **Privacy Policy - Power Prospecting System LLC**  
-(Last Updated: May 11, 2008)
+(Last Updated: July 10, 2009)
 
 Power Prospecting System LLC is serious about protecting your online privacy. This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our website. 
 
