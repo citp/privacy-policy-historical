@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the norman.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217174430id_/http%3A//www.norman.com/Home/Privacy_policy/50861/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the norman.com privacy policy that was archived on 2009-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090903145435id_/http%3A//www.norman.com/about_norman/privacy_policy/en) for the most accurate reproduction.*
 
-# :: NORMAN :: Antivirus | Firewall | Network security
-
-**_Published 2008.02.15_**
+# Norman | Privacy policy
 
 This privacy policy sets out how Norman uses and protects any information that you give Norman when you use this website.
 
@@ -73,7 +71,7 @@ The information is not provided to these organizations for marketing purposes.
 You may choose to restrict the collection or use of your personal information in the following ways: 
 
   * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes. If no such box is available on a form, the information you provide will not be used for direct marketing purposes.
-  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [web@norman.no](mailto:web@norman.no). You may also [unsubscribe to our mailing lists](http://www.norman.com/News/Subscriptions/) that you have previously subscribed to.
+  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [web@norman.no](mailto:web@norman.no). You may also [unsubscribe to our mailing lists](http://www.norman.com/about_norman/subscribe_to_newsletter/) that you have previously subscribed to.
 
 
 
