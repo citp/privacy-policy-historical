@@ -1,159 +1,45 @@
-> *The following text is extracted and transformed from the dickipedia.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218105706id_/http%3A//www.236.com/about/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dickipedia.org privacy policy that was archived on 2009-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090903101519id_/http%3A//www.huffingtonpost.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-##### Privacy Policy
+At HuffingtonPost.com we appreciate your readership and value your personal privacy. We respect the personal nature of the information you provide us on our web site and acknowledge the importance of protecting this information. In adopting this privacy policy, our intent is to balance our legitimate business interests in collecting and using your personal information with your reasonable expectations of privacy. The policy may be revised or updated at any time and we encourage you to check back often to ensure that you are familiar with the most recent version and the terms of our policy. 
 
-**Consumer Privacy at Comedy News Ventures, Inc., an IAC Company**
+### When does HuffingtonPost.com collect my personal information?
 
-Last updated: August 27, 2008
+You may provide personal information to HuffingtonPost.com in one of four ways: (1) by sharing your e-mail address and subscribing to email newsletters or requesting site updates, (2) by sharing personal information when you provide tips to our news department, (3) by sharing personal information when you post comments on our posts or stories, or (4) by sharing contact information as a Contagious Festival entrant. We may also ask for other information at other times but at no time will you be required to share any personal information to gain complete access to our site. 
 
-Comedy News Ventures, Inc. is part of the IAC family of businesses. IAC is an interactive conglomerate with more than 60 brands, including Ask.com, Citysearch, College Humor, Evite, Gifts.com, Match.com, ServiceMagic, Shoebuy and many others. For a list of all of IAC's businesses, please visit [www.iac.com](http://www.iac.com/). 
+In addition to personal information—such as name, street and e-mail addresses, and telephone numbers—we may also collect information that is in no way personally identifiable. This may include the operating system you are working on, the internet browser you are using, the domain name of your internet service provider, and the web sites you visit directly before and after your visit to HuffingtonPost.com. 
 
-At IAC, we respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on all IAC websites. To read the entire Privacy Policy of Comedy News Ventures, Inc., please [click here](https://web.archive.org/about/comedy_news_ventures_inc_your_privacy_rights.php).   
-**  
-Information we may collect** [[Read more]](https://web.archive.org/about/comedy_news_ventures_inc_your_privacy_rights.php#wecollect)
+### How does HuffingtonPost.com use my personal information?
 
-We may collect information that can identify you ("personal information"), such as your name and email address, (i) when you (or other users) provide it to us when using our website or in some other manner, or (ii) from other IAC businesses, from our business partners, and from other third parties. We may combine the personal information that we receive from different sources. 
+The more we know about you, the better we are able to customize our web site to suit your personal preferences and interests. The e-mail address you provide may be used by HuffingtonPost.com for any reason, such as contacting you for editorial purposes or to advise you of any changes to our site. We may also from time to time send you messages about our marketing partners’ products. 
 
-We also may collect other types of information in the following ways when you visit our website:  
+To maintain a site that is free of charge and does not require registration, we display advertisements on our web site. We also use the information you give us to help our advertisers target the audience they want to reach. At no time does any party other than HuffingtonPost.com have access to your personally identifiable information, and you will never be contacted by any party other than HuffingtonPost.com. The only exceptions to the foregoing are that we may disclose personally identifiable information (i) in response to legal process, for example, in response to a court order or subpoena, (ii) in response to a law enforcement agency’s request, or where we believe it is necessary to investigate, prevent, or take actions regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of another person, violations of our terms of use, or as otherwise required by law, or (iii) in the event we are acquired by or merged with another company. 
 
+When you sign up for our updates or receive e-mail messages from HuffingtonPost.com, you will always be given the chance to opt-out of special offers and site updates. You may change your preferences at any time and will only be contacted in manners consistent with your stated preferences. 
 
-  * Our server logs automatically collect information, such as your IP address, your browser type and language, and the date and time of your visit, which helps us track users' movements around our site and understand trends. 
-  
+Non-personally identifiable information (such as stated above) may be shared in aggregate form with our advertisers or marketing partners but your personally identifiable information will never be disclosed to them. 
 
-  * We may assign your computer one or more cookies which may collect information to facilitate access to our website and to personalize your online experience. 
-  
+### Who else has access to my personal information?
 
-  * We may use standard Internet tools, such web beacons, which collect information that tracks your use of our website and enables us to customize our services and advertisements.
+The ads appearing on HuffingtonPost.com are delivered to you by DoubleClick, our Web advertising serving partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. And, in the course of serving advertisements to this site, third party advertisers may place or recognize a unique cookie on your browser. For more information about DoubleClick, cookies, and how to “opt-out”, please go to http://www.doubleclick.net/us/corporate/privacy 
 
+Email newsletters received by subscribers are delivered to you by BlueHornet, our Emarketing solutions provider. Under no circumstances will BlueHornet Networks make any personal information about an individual user available to anyone. For more information, please see BlueHornet’s privacy policy at www.BlueHornet.com. 
 
+We have also contracted with a number of advertising network partners to monitor certain pages of our website and RSS feeds for the purpose of reporting website and RSS traffic, statistics, advertisement ‘click-throughs’, and/or other activities on our website. Where authorized by us, these advertising network partners may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to these network partners. For more information about how the information is collected and used, please see the following: 
 
-We do not knowingly collect personal information from children under the age of 13. Should we ever do so, we will comply with the Children's Online Privacy Protection Act.
+  * Advertising.com’s privacy policy at <http://www.advertising.com/abt_privacy.php>
+  * ValueClick Media’s privacy policy at <https://www.valueclickmedia.com/privacy.shtml>
+  * Feedburner’s privacy policy at <http://www.feedburner.com/fb/a/privacy>
+  * Tacoda’s privacy policy at <http://www.tacoda.com/privacy_policy.htm>
+  * And Google’s privacy policy at <http://www.google.com/privacy.html>
 
-**Information others may collect** [[Read more]](https://web.archive.org/about/comedy_news_ventures_inc_your_privacy_rights.php#otherscollect)
 
-We may allow third-party advertising companies or ad networks to display advertisements on our websites.   
 
+Third parties and web sites that have links on our site may also collect or use information about you. The information practices of other companies or people that HuffingtonPost.com does not employ or manage are not covered by this privacy statement. 
 
-  * We do not provide any personal information to these companies. 
-  
+### Is there anything else I should know about my privacy and HuffingtonPost.com?
 
-  * These companies may use tracking tools, such as cookies, to collect information about computers used to view or interact with their advertisements. 
-  
+Any information you disclose voluntarily on our comments pages or in any forums we may develop in the future becomes public information. We cannot control the actions of our site users and advise you to use your discretion in sharing information about yourself on the internet. All information sharing is optional and done so at your own risk. Privacy is a very personal matter and we encourage you to be careful and responsible when disclosing personal information online. 
 
-  * Some of these companies may be members of the [Network Advertising Initiative](http://www.networkadvertising.org/), which offers consumers the ability to opt out of ad targeting by all member companies. 
-
-
-
-If you post information about yourself or others, or communicate with others using our website, please note that we cannot control who reads your postings or what they do with the information you provide. We encourage you to use caution in posting personal information.
-
-**How we may use information we collect** [[Read more]](https://web.archive.org/about/comedy_news_ventures_inc_your_privacy_rights.php#useinfo)
-
-We may use information to:  
-
-
-  * Fulfill your requests for products and services;
-  
-
-  * Offer products and services that may be of interest to you;
-  
-
-  * Customize the advertising and content that you see on our website;
-  
-
-  * Facilitate use of our website;
-  
-
-  * Manage your account and your preferences;
-  
-
-  * Analyze use of and improve our website, products and services;
-  
-
-  * Identify and protect against fraudulent transactions and other misuses of our website; and
-  
-
-  * Enforce our Terms of Use.
-
-
-
-**With whom we may share information we collect** [[Read more] ](https://web.archive.org/about/comedy_news_ventures_inc_your_privacy_rights.php#shareinfo)
-
-We will not share your personal information with others except as indicated below, or except when we inform you in advance and give you the opportunity to opt out. We may share personal information with:  
-
-
-  * Service providers, such as credit-card payment processors, performing services on our behalf;
-  
-
-  * Other IAC businesses; 
-  
-
-  * Other businesses with which we partner or which we carefully select to offer you products, services, and promotions through our website or offline; and
-  
-
-  * Other third parties in limited circumstances, such as complying with legal requirements, preventing fraud, and protecting the safety of our users.
-
-
-
-We may share aggregated, non-personal information in any of the above situations and also with advertisers and others. 
-
-**Your choices** [[Read more]](https://web.archive.org/about/comedy_news_ventures_inc_your_privacy_rights.php#choices)
-
-You may choose:  
-
-
-  * Not to provide personal information, although that may result in your inability to obtain certain services or use certain features of our website;
-  
-
-  * To stop receiving promotional emails or newsletters from us by sending an email to the contact address at the bottom of this policy or by selecting the "unsubscribe" link at the bottom of the promotional email or newsletter;
-  
-
-  * To delete or decline cookies by changing your browser settings, although if you do so, some of the features or services of our website may not function properly;
-  
-
-  * To review and update your personal information by contacting us at the email address below or, if you have an online account on our website, by logging into that account. 
-  
-
-  * To learn about additional choices, [click here](https://web.archive.org/about/comedy_news_ventures_inc_your_privacy_rights.php#choices). 
-
-
-
-**Security** [[Read more]](https://web.archive.org/about/comedy_news_ventures_inc_your_privacy_rights.php#security)
-
-We take appropriate physical, electronic, and other security measures to help safeguard personal information from unauthorized access, alteration, or disclosure. 
-
-**Changes to our Privacy Policy**
-
-We may occasionally update our Privacy Policy to reflect changes in our practices and services. If we make material changes in the way we collect, use, or share your personal information, we will notify you by sending you an email to the email address you most recently provided to us and/or by prominently posting notice of the changes on our website.
-
-**How to contact us**  
-If you have any questions about this summary, our [Privacy Policy](https://web.archive.org/about/comedy_news_ventures_inc_your_privacy_rights.php), or our information practices, please contact us by email or postal mail below:
-
-Comedy News Ventures, Inc.  
-Attention: Legal Dep't  
-560 Broadway, Suite 304  
-New York, NY 10012  
-legal [at] 236.com
-
-© 2007 IAC/InterActiveCorp. All rights reserved. 
-
-  
-**Linked information:**  
-  
-_Cookies:_
-
-A cookie is a small text file that is stored on a user's computer for record keeping purposes. Cookies can be either session cookies or persistent cookies. A session cookie expires when you close your browser and is used to make it easier for you to navigate our website. A persistent cookie remains on your hard drive for an extended period of time. 
-
-Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the web pages you visit, the links you click, and the searches you conduct on our site. To the extent we have sign-in and accounts on our website, when you sign in to your account on our website, we will record your user or member ID and the name on your user or member account in the cookie file on your computer. We also may record your password in this cookie file, if you indicated that you would like your password saved for automatic sign-in. In the case of sites and services that do not use a user or member ID, the cookie will contain a unique identifier. We may allow our authorized service providers to serve cookies from our website to allow them to assist us in various activities, such as doing analysis and research on the effectiveness of our site, content and advertising.
-
-You may delete or decline cookies by changing your browser settings. (Click "Help" in the toolbar of most browsers for instructions.) If you do so, some of the features and services of our website may not function properly.
-
-We may allow third-parties, including IAC companies, advertising companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Our website does not provide any personal information to these third parties, but they may collect information about where you, or others who are using your computer, saw and/or clicked on the advertisements they deliver, and possibly associate this information with your subsequent visits to the advertised websites. They also may combine this information with personal information they collect from you. The collection and use of that information is subject to the third-party's privacy policy. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies ([www.networkadvertising.org](http://www.networkadvertising.org/)).  
-  
-_Web Beacons:_
-
-Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies. Unlike cookies which are stored on the user's computer hard drive, web beacons are embedded invisibly on the web pages (or in email) and are about the size of the period at the end of this sentence. 
-
-Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns. We also may include web beacons in promotional or other e-mail messages or newsletters to determine whether messages have been opened and acted upon. We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website  
-
+(revised 5.25.2006) 
