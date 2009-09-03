@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the emitations.com privacy policy that was archived on 2009-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090619212126id_/http%3A//www.emitations.com/privacypolicy1.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the emitations.com privacy policy that was archived on 2009-09-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090903193158id_/http%3A//www.emitations.com/privacypolicy1.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><script type="text/javascript"> 
  <!-- 
@@ -32,9 +32,6 @@
 <script type="text/javascript" src="http://site.emitations.com/pd_recentlyViewedItems/recentlyViewedItems.js"></script>
 <script type="text/javascript" src="http://site.emitations.com/pd_recentlyViewedItems/getStoreCode.js"></script>
 <script type="text/javascript" src="http://site.emitations.com/pd_recentlyViewedItems/serialize.js"></script><script>
-//**********************************************************
-//**************** ADD TO REGISTRY BUTTON *****************
-//**********************************************************
 function addToRegistry(orderForm) {
 	var optionString = '';
 	var optionList = new Array();
@@ -46,7 +43,7 @@ function addToRegistry(orderForm) {
 			optionList.push(option);
 		}
 	}
-	for (i = 0; i <= optionList.length - 1; i++) optionString += encodeOptions(optionList[i].name) + "=" + encodeOptions(optionList[i].value) + "&";
+	for (i = 0; i <= optionList.length - 1; i++) optionString += optionList[i].name + "=" + optionList[i].value + "&";
 	optionString = optionString.substring(0, optionString.length - 1);	//*** TRIM TRAILING "&"
 	popIt(394,400,0);
 	var myInput = document.createElement("INPUT");
@@ -55,23 +52,38 @@ function addToRegistry(orderForm) {
 	myInput.value = optionString;
 	orderForm.appendChild(myInput);
 	var tempAction = orderForm.action;
-	var copiedQueryString = "";
-	var queryStringPosition = tempAction.indexOf("?");
-	if(queryStringPosition > -1) copiedQueryString = tempAction.substring(queryStringPosition, tempAction.length);
 	var tempTarget = orderForm.target;
-	orderForm.action="http://registry.emitations.com/addRegistryItem.php" + copiedQueryString;
+	orderForm.action="http://registry.emitations.com/addRegistryItem.php";
 	orderForm.target="popIt";
 	orderForm.submit();
 	orderForm.action = tempAction;
 	orderForm.target = tempTarget;
-	orderForm.removeChild(myInput);
 	return false;
+}
+</script><script type="text/javascript" src="http://lib.store.yahoo.net/lib/tpa/popIt.js"></script>
+<script type="text/javascript">
+var pd_myAccountUrl = "http://myaccount.emitations.com";
+var onloadList = new Array();
+function doWindowOnload() {
+	for(var i=0;i<onloadList.length;i++) {
+		try {
+			onloadList[i]();
+		} catch(e) { 
+			//***IGNORE BAD SCRIPT 
+			//alert("skipping bad script");
+		}
+	}
+}
+function windowOnload(f){
+	if(typeof window.onload=='function') onloadList.push(window.onload);
+	window.onload = null;
+	onloadList.push(f);
 }
 </script></head><body bgcolor="#ffffff" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0"><div id="prFormWrapperFade"></div><div id="wrapperFade"></div><div id="backLinkTitle" class="hide">Privacy Policy</div><div id="giftBoxWrapper"><div id="giftBoxWrapperContent"><table border="0" cellspacing="0" cellpadding="8" width="99%"><tbody><tr><td></td><td align="right"><a href="#" onclick="displayGiftBoxInfo('off');return false;"><img src="http://site.emitations.com/pd_productReviews/images/close.gif" border="0"></a></td></tr></tbody></table><iframe frameborder="0" height="620" width="860" scrolling="no" src="pd-premium-gift-box-info.html"></iframe></div></div><div class="geoMerchBg"></div><!--******************************************************************-->
 <!--******************** BEGIN TOP PROMO BANNER **********************-->
 <!--******************************************************************-->
 <div class="topPromoBanner">
-<table border="0" align="center" cellspacing="0" cellpadding="0" width="980"><tbody><tr><td><div id="rotatingBanners"><div><a href="http://www.emitations.com/shipping.html"><span>FREE SHIPPING</span> with a $75 Purchase! <br></a></div><div><span>follow us...</span>twitter.com/emitations</div><div><a href="internationalship.html"><span>Free Worldwide Shipping</span> with a $125 Purchase!  </a></div></div></td><td align="right"><h1 class="headerH1"><a href="http://www.emitations.com" class="headerH1Link">Your Source for Sterling Silver Jewelry</a></h1></td></tr></tbody></table><script language="javascript" type="text/javascript">setPromoBanner();</script></div>
+<table border="0" align="center" cellspacing="0" cellpadding="0" width="980"><tbody><tr><td><div id="rotatingBanners"><div><a href="http://www.emitations.com/shipping.html"><span>FREE SHIPPING</span> with a $75 Purchase! <br></a></div><div><a href="internationalship.html"><span>Free Worldwide Shipping</span> with a $125 Purchase!  </a></div></div></td><td align="right"><h1 class="headerH1"><a href="http://www.emitations.com" class="headerH1Link">Your Source for Sterling Silver Jewelry</a></h1></td></tr></tbody></table><script language="javascript" type="text/javascript">setPromoBanner();</script></div>
 <!--******************************************************************-->
 <!--********************* END TOP PROMO BANNER ***********************-->
 <!--******************************************************************--><!--******************************************************************-->
@@ -169,7 +181,7 @@ function addToRegistry(orderForm) {
 </tbody></table>
 <!--******************************************************************-->
 <!--************************* END HEADER *****************************-->
-<!--******************************************************************--><table border="0" align="center" cellspacing="0" cellpadding="0" width="980"><tbody><tr><td><table border="0" cellspacing="0" cellpadding="0" width="980"><tbody><tr valign="top"><td width="169" class="leftPanel"><div id="leftNavLinks" class="leftNavLoad"><div class="leftLinkAltTopOff"><a href="http://www.emitations.com/promotion.html">Sales</a></div><span><b>Top Shops</b></span><div><a href="http://www.emitations.com/toprated.html">Top Rated Jewelry</a></div><div><a href="http://www.emitations.com/bestsellers.html">Best Sellers</a></div><div><a href="http://www.emitations.com/newarrivals.html">New Arrivals</a></div><div><a href="http://www.emitations.com/finalsale.html">Clearance</a></div><div><a href="http://www.emitations.com/jewsolutions.html">Jewelry Solutions</a></div><span><b>Jewelry</b></span><div><a href="http://www.emitations.com/rings.html">Rings</a></div><div><a href="http://www.emitations.com/earrings.html">Earrings</a></div><div><a href="http://www.emitations.com/necklaces.html">Necklaces</a></div><div><a href="http://www.emitations.com/bracelet1.html">Bracelets &amp; Watches</a></div><div><a href="http://www.emitations.com/haac.html">Brooches &amp; Hair Jewelry</a></div><div><a href="http://www.emitations.com/necearset.html">Jewelry Sets</a></div><div><a href="http://www.emitations.com/purses.html">Clutches &amp; Keychains</a></div><div><a href="http://www.emitations.com/brczje.html">Bridal &amp; Pearl </a></div><div><a href="http://www.emitations.com/toeringanklet.html">Anklets &amp; Toe Rings</a></div><div><a href="http://www.emitations.com/mensjewelry1.html">Men's Jewelry</a></div><span><b>Shop by Video</b></span><div><a href="http://www.emitations.com/video.html">All Products With Video </a></div><span><b>Celebrity</b></span><div><a href="http://www.emitations.com/celebritylook.html">Celebrity &amp; Movie Jewelry</a></div><div><a href="http://www.emitations.com/presscenter.html">Magazine Coverage</a></div><div><a href="http://blog.emitations.com">Blog</a></div></div><div><img src="http://lib.store.yahoo.net/lib/tpa/spacer.gif" height="1" width="169" border="0"></div><script language="javascript" type="text/javascript">leftLinks();</script></td><td><img src="http://lib.store.yahoo.net/lib/tpa/spacer.gif" height="1" width="1" border="0"></td><td width="810"> <table border="0" cellpadding="0" cellspacing="0"> <tbody><tr><td> <div></div><div class="contentWrapper"><h1 class="sectionH1">Privacy Policy</h1></div> </td></tr> <tr><td> <div class="contentWrapper"><table border="0" cellspacing="0" cellpadding="0" width="790"><tbody><tr><td colspan="2"><b>Information Collection And Use</b><br>
+<!--******************************************************************--><table border="0" align="center" cellspacing="0" cellpadding="0" width="980"><tbody><tr><td><table border="0" cellspacing="0" cellpadding="0" width="980"><tbody><tr valign="top"><td width="169" class="leftPanel"><div id="leftNavLinks" class="leftNavLoad"><span class="pdShow" style="margin: 0px; padding: 0px; display: inline;"><div class="leftLinkAltTopOff"><a href="http://www.emitations.com/promotion.html">Sales</a></div></span><!-- end pdHideFromReferrals --><span><b>Top Shops</b></span><div><h3 class="leftnav"><a href="http://www.emitations.com/toprated.html">Top Rated Jewelry</a></h3></div><div><h3 class="leftnav"><a href="http://www.emitations.com/bestsellers.html">Best Sellers</a></h3></div><div><h3 class="leftnav"><a href="http://www.emitations.com/newarrivals.html">New Arrivals</a></h3></div><div><h3 class="leftnav"><a href="http://www.emitations.com/finalsale.html">Clearance</a></h3></div><div><h3 class="leftnav"><a href="http://www.emitations.com/jewsolutions.html">Jewelry Solutions</a></h3></div><span><b>Jewelry</b></span><div><h3 class="leftnav"><a href="http://www.emitations.com/rings.html">Rings</a></h3></div><div><h3 class="leftnav"><a href="http://www.emitations.com/earrings.html">Earrings</a></h3></div><div><h3 class="leftnav"><a href="http://www.emitations.com/necklaces.html">Necklaces</a></h3></div><div><h3 class="leftnav"><a href="http://www.emitations.com/bracelet1.html">Bracelets &amp; Watches</a></h3></div><div><h3 class="leftnav"><a href="http://www.emitations.com/haac.html">Brooches &amp; Hair Jewelry</a></h3></div><div><h3 class="leftnav"><a href="http://www.emitations.com/necearset.html">Jewelry Sets</a></h3></div><div><h3 class="leftnav"><a href="http://www.emitations.com/purses.html">Clutches &amp; Keychains</a></h3></div><div><h3 class="leftnav"><a href="http://www.emitations.com/brczje.html">Bridal &amp; Pearl </a></h3></div><div><h3 class="leftnav"><a href="http://www.emitations.com/toeringanklet.html">Anklets &amp; Toe Rings</a></h3></div><div><h3 class="leftnav"><a href="http://www.emitations.com/jboxes.html">Jewelry Boxes</a></h3></div><div><h3 class="leftnav"><a href="http://www.emitations.com/mensjewelry1.html">Men's Jewelry</a></h3></div><span><b>Shop by Video</b></span><div><h3 class="leftnav"><a href="http://www.emitations.com/video.html">All Products With Video </a></h3></div><span><b>Celebrity</b></span><div><h3 class="leftnav"><a href="http://www.emitations.com/celebritylook.html">Celebrity &amp; Movie Jewelry</a></h3></div><div><h3 class="leftnav"><a href="http://blog.emitations.com">Blog</a></h3></div></div><div><img src="http://lib.store.yahoo.net/lib/tpa/spacer.gif" height="1" width="169" border="0"></div><script language="javascript" type="text/javascript">leftLinks();</script></td><td><img src="http://lib.store.yahoo.net/lib/tpa/spacer.gif" height="1" width="1" border="0"></td><td width="810"><!-- pd-section-body --> <table border="0" cellpadding="0" cellspacing="0"> <tbody><tr><td> <div></div><div class="contentWrapper"><h1 class="sectionH1">Privacy Policy</h1></div> </td></tr> <tr><td> <!-- Pd-section-contents --><div class="contentWrapper"><table border="0" cellspacing="0" cellpadding="0" width="790"><tbody><tr><td colspan="2"><b>Information Collection And Use</b><br>
 Marketing Advantages International, Inc. DBA: Emitations.com is the sole owner of any and all information collected on this site.  We will not sell, share, or rent this information to third parties in any manner that differs from what is disclosed in this statement.  Emitations.com collects information from users at several different points on the website.<br>
 
 <b>Order</b><br>We request information from the user on our order form.  On this form, a user must provide contact information (name, phone number, email address, and shipping address) and financial information (credit card number, expiration date).  This information is used for billing purposes and to fill customer's orders.  If we have trouble processing an order, this contact information is used to get in touch with the user. When placing an order, your information is used for the following:<br><ul><li>Shipment of the product</li> <li>Credit card verification
@@ -181,8 +193,8 @@ We use IP addresses to analyze trends, administer the site, track user's movemen
 <br><b>Sharing</b><br>
 While we make use of third party credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.<br><br>These parties are not allowed to use personally identifiable information excepting the purpose of providing these services.<br><br>
 
-<b>Third-Party Web Beacons:</b> We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, <a href="https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com">click here</a>.<br><br></td></tr><tr><td colspan="2"></td></tr><tr><td valign="top" colspan="2">
-<div id="pdQsItems"><table border="0" cellspacing="0" cellpadding="0"></table></div><br></td></tr></tbody></table></div> </td></tr> </tbody></table><br><br><br></td></tr></tbody></table></td></tr></tbody></table><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td bgcolor="#d9d9d9"><img src="http://us.st1.yimg.com/store1.yimg.com/Img/trans_1x1.gif" alt="" height="1" width="1" border="0"></td></tr></tbody></table><table border="0" align="center" cellspacing="0" cellpadding="0" width="980"><tbody><tr><td align="center"><div id="testimonials"><div>Twitter.com/Emitations...Follow Us!</div><div><a href="http://blog.emitations.com/?p=1310">Kim Kardashian's Engagement Ring - NOT From Reggie Bush! (click for details)</a></div><div><a href="http://blog.emitations.com/?p=1324">Bella's Engagement Ring? Twilight Fans, You Decide! (click for details)</a></div><div><a href="http://blog.emitations.com/?p=1327">Mimic Marilyn Monroe's Movie Style For Less! (click for details)</a></div><div><a href="http://blog.emitations.com/?p=1016">Green with Envy: Angelina's Emerald Oscar Earrings! (click for details)</a></div></div></td></tr></tbody></table><script language="javascript" type="text/javascript">setTestimonialBanner();</script><div class="footerGrayBarWrapper"><table border="0" cellspacing="0" cellpadding="2" width="100%" class="footerGrayBar"><tbody><tr><td><table border="0" align="center" cellspacing="0" cellpadding="0" width="980"><tbody><tr><td><center>
+<b>Third-Party Web Beacons:</b> We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, <a href="https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com">click here</a>.<br><br></td></tr><tr><td colspan="2"></td></tr><tr><td valign="top" colspan="2"><!-- Yst-pagination-contents --><!-- tpa-section-contents --><!-- Tpa-section-regular-contents --><!-- Pd-section-contents-table -->
+<div id="pdQsItems"><table border="0" cellspacing="0" cellpadding="0"></table></div><br></td></tr></tbody></table></div> </td></tr> </tbody></table><br><br><br></td></tr></tbody></table></td></tr></tbody></table><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td bgcolor="#d9d9d9"><img src="http://ep.yimg.com/ca/Img/trans_1x1.gif" height="1" width="1" border="0"></td></tr></tbody></table><table border="0" align="center" cellspacing="0" cellpadding="0" width="980"><tbody><tr><td align="center"><div id="testimonials"><div><a href="http://blog.emitations.com/index.php/uncategorized/another-way-to-win-your-favorite-animal-cocktail-ring">Trust your animal instincts - vote to win!</a></div><div>Twitter.com/Emitations...Follow Us!</div><div><a href="http://blog.emitations.com/index.php/uncategorized/coco-channelled-audrey-tautous-chanel-style">Coco Channeled: Audrey Tautou's Chanel Style</a></div><div><a href="http://blog.emitations.com/index.php/uncategorized/twilight-inspired-bellas-engagement-rings-have-arrived">Inspired by Twilight Engagement Ring: Bella's Wedding Ring Has Arrived!</a></div><div><a href="http://blog.emitations.com/index.php/uncategorized/free-international-shipping">Free International Shipping!</a></div></div></td></tr></tbody></table><script language="javascript" type="text/javascript">setTestimonialBanner();</script><div class="footerGrayBarWrapper"><table border="0" cellspacing="0" cellpadding="2" width="100%" class="footerGrayBar"><tbody><tr><td><table border="0" align="center" cellspacing="0" cellpadding="0" width="980"><tbody><tr><td><center>
 <form target="_blank" name="ccoptin" action="http://ui.constantcontact.com/d.jsp" method="post" style="display:inline;">
 <input name="m" type="hidden" value="982281755950"><input name="p" type="hidden" value="oi">
 <table border="0" cellpadding="0" cellspacing="0">
@@ -217,11 +229,11 @@ While we make use of third party credit card processing company to bill users fo
  <th valign="top"><b>We ship via:</b><br><img src="http://site.emitations.com/images/footerShip.gif" vspace="4"></th>
 </tr>
 </tbody></table>
-</div><br><table border="0" align="center" cellspacing="0" cellpadding="0" width="980" class="footerLinks"><tbody><tr><td width="196"><h4>Fake Jewelry</h4><ul><li><a href="http://www.emitations.com/weddingringset.html">CZ Wedding Ring Sets</a></li><li><a href="http://www.emitations.com/czrinthresto.html">Cubic Zirconia Rings</a></li><li><a href="http://www.emitations.com/celebritylook.html">Celebrity &amp; Movie Jewelry</a></li><li><a href="http://www.emitations.com/promiserings.html">Promise Rings</a></li><li><a href="http://www.emitations.com/anchorjewelry.html">Anchor Necklaces</a></li><li><a href="http://www.emitations.com/stersilstude.html">Stud Earrings</a></li><li><a href="http://www.emitations.com/yneccol.html">CZ Necklaces</a></li><li><a href="http://www.emitations.com/stersilfancz.html">CZ Bracelets</a></li><li><a href="http://www.emitations.com/ceenri.html">Celebrity Engagement Rings</a></li><li><a href="http://www.emitations.com/czsone.html">CZ Solitaire Necklaces</a></li><li><a href="http://www.emitations.com/cufstylbrac.html">Cuff Bracelets </a></li></ul></td><td width="196"><h4>Sterling Silver Jewelry</h4><ul><li><a href="http://www.emitations.com/bracelet1.html">Bracelets &amp; Watches</a></li><li><a href="http://www.emitations.com/mastea.html">Magnetic Earrings</a></li><li><a href="http://www.emitations.com/czjewelry.html">Cubic Zirconia Jewelry</a></li><li><a href="http://www.emitations.com/prom.html">Prom Jewelry 2009</a></li><li><a href="http://www.emitations.com/necklaces.html">Necklaces</a></li><li><a href="http://www.emitations.com/skulljewelry.html">Skull Jewelry</a></li><li><a href="http://www.emitations.com/snakejewelry.html">Snake Jewelry</a></li><li><a href="http://www.emitations.com/imitation-jewelry-search.html">Top Searches</a></li><li><a href="http://www.emitations.com/hiphop.html">Women's Hip Hop Jewelry</a></li><li><a href="http://www.emitations.com/asstje.html">Asscher Cut Jewelry</a></li><li><a href="http://www.emitations.com/designerstyles.html">Designer Inspired Jewelry</a></li></ul></td><td width="196"><h4>Cubic Zirconia Jewelry</h4><ul><li><a href="http://www.emitations.com/earrings.html">Earrings</a></li><li><a href="http://www.emitations.com/rhinestonejewel.html">Rhinestone Jewelry</a></li><li><a href="http://www.emitations.com/semgemstonch.html">Chandelier Earrings</a></li><li><a href="http://www.emitations.com/etrincol.html">Eternity Rings </a></li><li><a href="http://www.emitations.com/luckycharm.html">Love Knot Necklaces</a></li><li><a href="http://www.emitations.com/czcouture.html">Fake Diamond Imitations</a></li><li><a href="http://www.emitations.com/gifts-valentinesday.html">Valentine's Day Jewelry</a></li><li><a href="http://www.emitations.com/starjewelry1.html">Star Jewelry</a></li><li><a href="http://www.emitations.com/friendshipbracelet.html">Friendship Bracelets</a></li><li><a href="http://www.emitations.com/righthandrings.html">Right Hand Rings</a></li><li><a href="http://www.emitations.com/punk.html">Punk and Gothic Jewelry</a></li></ul></td><td width="196"><h4>Faux Jewelry</h4><ul><li><a href="http://www.emitations.com/sterlingsilver.html">Sterling Silver Jewelry</a></li><li><a href="http://www.emitations.com/broochpins.html">Brooches </a></li><li><a href="http://www.emitations.com/charwincol.html">Charles Winston</a></li><li><a href="http://www.emitations.com/enrincol.html">Engagement Rings</a></li><li><a href="http://www.emitations.com/necearset.html">Jewelry Sets</a></li><li><a href="http://www.emitations.com/mensjewelry1.html">Men's Jewelry</a></li><li><a href="http://www.emitations.com/leeaco.html">Leverback Earrings</a></li><li><a href="http://www.emitations.com/plsije.html">Plus Size Jewelry</a></li><li><a href="http://www.emitations.com/si4co1.html">Size 4 Rings</a></li><li><a href="http://www.emitations.com/bfly.html">Butterfly Rings</a></li><li><a href="http://www.emitations.com/angelwing.html">Angel Wing Necklaces</a></li></ul></td><td width="196"><h4>Imitation Jewelry</h4><ul><li><a href="http://www.emitations.com/vintage.html">Vintage Costume Jewelry</a></li><li><a href="http://www.emitations.com/cocrincol.html">Cocktail Rings</a></li><li><a href="http://www.emitations.com/fleurdelis.html">Fleur De Lis Jewelry</a></li><li><a href="http://www.emitations.com/jegalicu.html">Cupcake Necklaces</a></li><li><a href="http://www.emitations.com/haje.html">Handcuff Necklace</a></li><li><a href="http://www.emitations.com/leafjewelry.html">Leaf Necklaces</a></li><li><a href="http://www.emitations.com/jewellery.html">Sterling Silver Faux Jewellery</a></li><li><a href="http://www.emitations.com/stersilhugea1.html">Hoop Earrings</a></li><li><a href="http://www.emitations.com/cliponearrings.html">Clip On Earrings</a></li><li><a href="http://www.emitations.com/crystaljewelry.html">Crystal Jewelry</a></li><li><a href="http://www.emitations.com/danstersilcz.html">Dangle Earrings</a></li></ul></td></tr><tr><td colspan="5"><img src="http://lib.store.yahoo.net/lib/tpa/spacer.gif" height="1" width="20" border="0"></td></tr></tbody></table><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td bgcolor="#d9d9d9"><img src="http://lib.store.yahoo.net/lib/tpa/spacer.gif" height="1" width="1" border="0"></td></tr><tr><td><img src="http://lib.store.yahoo.net/lib/tpa/spacer.gif" height="1" width="8" border="0"></td></tr></tbody></table><table border="0" align="center" cellspacing="0" cellpadding="0" width="980" class="footerLinks"><tbody><tr><td align="center"><a href="http://www.emitations.com/helpdesk.html">Help Desk</a> | <a <a="" href="http://www.emitations.com/sitemap.html">Site Map</a> | <a href="http://www.emitations.com/shipping.html">Free Shipping</a> | <a href="http://www.emitations.com/jewelrydictionary.html">Jewelry Dictionary</a> | <a href="http://www.emitations.com/mediakit.html">Press</a> | <a href="http://www.emitations.com/payment.html">Payment Options</a> | <a href="http://www.emitations.com/conin.html">Contact Us</a> | <a href="http://www.emitations.com/risfreshop.html">60 Day Guarantee</a> | <a href="http://www.emitations.com/giftreg.html">Gift Registry</a> | <a href="http://www.shareasale.com/shareasale.cfm?merchantID=7990">Affiliate</a> | <a href="http://www.emitations.com/disclaimer.html">Disclaimer</a>  
+</div><br><table border="0" align="center" cellspacing="0" cellpadding="0" width="980" class="footerLinks"><tbody><tr><td width="196"><h4>Fake Jewelry</h4><ul><li><a href="http://www.emitations.com/weddingringset.html">CZ Wedding Ring Sets</a></li><li><a href="http://www.emitations.com/czrinthresto.html">Cubic Zirconia Rings</a></li><li><a href="http://www.emitations.com/celebritylook.html">Celebrity &amp; Movie Jewelry</a></li><li><a href="http://www.emitations.com/promiserings.html">Promise Rings</a></li><li><a href="http://www.emitations.com/anchorjewelry.html">Anchor Necklaces</a></li><li><a href="http://www.emitations.com/stersilstude.html">Stud Earrings</a></li><li><a href="http://www.emitations.com/yneccol.html">CZ Necklaces</a></li><li><a href="http://www.emitations.com/stersilfancz.html">CZ Bracelets</a></li><li><a href="http://www.emitations.com/ceenri.html">Celebrity Engagement Rings</a></li><li><a href="http://www.emitations.com/czsone.html">CZ Solitaire Necklaces</a></li><li><a href="http://www.emitations.com/cufstylbrac.html">Cuff Bracelets </a></li></ul></td><td width="196"><h4>Sterling Silver Jewelry</h4><ul><li><a href="http://www.emitations.com/bracelet1.html">Bracelets &amp; Watches</a></li><li><a href="http://www.emitations.com/mastea.html">Magnetic Earrings</a></li><li><a href="http://www.emitations.com/czjewelry.html">Cubic Zirconia Jewelry</a></li><li><a href="http://www.emitations.com/prom.html">Prom Jewelry 2009</a></li><li><a href="http://www.emitations.com/necklaces.html">Necklaces</a></li><li><a href="http://www.emitations.com/skulljewelry.html">Skull Jewelry</a></li><li><a href="http://www.emitations.com/snakejewelry.html">Snake Jewelry</a></li><li><a href="http://www.emitations.com/imitation-jewelry-search.html">Top Searches</a></li><li><a href="http://www.emitations.com/hiphop.html">Women's Hip Hop Jewelry</a></li><li><a href="http://www.emitations.com/asstje.html">Asscher Cut Jewelry</a></li><li><a href="http://www.emitations.com/designerstyles.html">Designer Inspired Jewelry</a></li></ul></td><td width="196"><h4>Cubic Zirconia Jewelry</h4><ul><li><a href="http://www.emitations.com/earrings.html">Earrings</a></li><li><a href="http://www.emitations.com/rhinestonejewel.html">Rhinestone Jewelry</a></li><li><a href="http://www.emitations.com/semgemstonch.html">Chandelier Earrings</a></li><li><a href="http://www.emitations.com/etrincol.html">Eternity Rings </a></li><li><a href="http://www.emitations.com/luckycharm.html">Love Knot Necklaces</a></li><li><a href="http://www.emitations.com/czcouture.html">Fake Diamond Imitations</a></li><li><a href="http://www.emitations.com/gifts-valentinesday.html">Valentine's Day Jewelry</a></li><li><a href="http://www.emitations.com/starjewelry1.html">Star Jewelry</a></li><li><a href="http://www.emitations.com/friendshipbracelet.html">Friendship Bracelets</a></li><li><a href="http://www.emitations.com/righthandrings.html">Right Hand Rings</a></li><li><a href="http://www.emitations.com/punk.html">Punk and Gothic Jewelry</a></li></ul></td><td width="196"><h4>Faux Jewelry</h4><ul><li><a href="http://www.emitations.com/sterlingsilver.html">Sterling Silver Jewelry</a></li><li><a href="http://www.emitations.com/broochpins.html">Brooches </a></li><li><a href="http://www.emitations.com/charwincol.html">Charles Winston</a></li><li><a href="http://www.emitations.com/enrincol.html">Engagement Rings</a></li><li><a href="http://www.emitations.com/necearset.html">Jewelry Sets</a></li><li><a href="http://www.emitations.com/mensjewelry1.html">Men's Jewelry</a></li><li><a href="http://www.emitations.com/leeaco.html">Leverback Earrings</a></li><li><a href="http://www.emitations.com/plsije.html">Plus Size Jewelry</a></li><li><a href="http://www.emitations.com/si4co1.html">Size 4 Rings</a></li><li><a href="http://www.emitations.com/bfly.html">Butterfly Rings</a></li><li><a href="http://www.emitations.com/angelwing.html">Angel Wing Necklaces</a></li></ul></td><td width="196"><h4>Imitation Jewelry</h4><ul><li><a href="http://www.emitations.com/vintage.html">Vintage Costume Jewelry</a></li><li><a href="http://www.emitations.com/cocrincol.html">Cocktail Rings</a></li><li><a href="http://www.emitations.com/fleurdelis.html">Fleur De Lis Jewelry</a></li><li><a href="http://www.emitations.com/jegalicu.html">Cupcake Necklaces</a></li><li><a href="http://www.emitations.com/haje.html">Handcuff Necklace</a></li><li><a href="http://www.emitations.com/leafjewelry.html">Leaf Necklaces</a></li><li><a href="http://www.emitations.com/jewellery.html">Sterling Silver Faux Jewellery</a></li><li><a href="http://www.emitations.com/stersilhugea1.html">Hoop Earrings</a></li><li><a href="http://www.emitations.com/cliponearrings.html">Clip On Earrings</a></li><li><a href="http://www.emitations.com/crystaljewelry.html">Crystal Jewelry</a></li><li><a href="http://www.emitations.com/danstersilcz.html">Dangle Earrings</a></li></ul></td></tr><tr><td colspan="5"><img src="http://lib.store.yahoo.net/lib/tpa/spacer.gif" height="1" width="20" border="0"></td></tr></tbody></table><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td bgcolor="#d9d9d9"><img src="http://lib.store.yahoo.net/lib/tpa/spacer.gif" height="1" width="1" border="0"></td></tr><tr><td><img src="http://lib.store.yahoo.net/lib/tpa/spacer.gif" height="1" width="8" border="0"></td></tr></tbody></table><table border="0" align="center" cellspacing="0" cellpadding="0" width="980" class="footerLinks"><tbody><tr><td align="center"><a href="http://www.emitations.com/helpdesk.html">Help Desk</a> | <a <a="" href="http://www.emitations.com/sitemap.html">Site Map</a> | <a href="http://www.emitations.com/shipping.html">Free Shipping</a> | <a href="http://www.emitations.com/jewelrydictionary.html">Jewelry Dictionary</a> | <a href="http://www.emitations.com/mediakit.html">Press</a> | <a href="http://www.emitations.com/payment.html">Payment Options</a> | <a href="http://www.emitations.com/conin.html">Contact Us</a> | <a href="http://www.emitations.com/risfreshop.html">60 Day Guarantee</a> | <a href="http://www.emitations.com/giftreg.html">Gift Registry</a> | <a href="http://www.emitations.com/affiliate.html">Affiliate</a> | <a href="http://www.emitations.com/disclaimer.html">Disclaimer</a>  
 <script type="text/javascript">
 window.onload = doWindowOnload;
-</script>
-
+</script>  |
+<a href="http://blog.emitations.com/links/index.php">Link Partners</a>
 
 <br><br>Copyright © 2009 Marketing Advantages International, Inc. All rights reserved.</td></tr></tbody></table><br><br><br><div id="currencyOptions" class="hide">
 <div id="currencyInner">
@@ -296,7 +308,177 @@ window.onload = doWindowOnload;
 var currencyCode = getCurrencyCode();
 refreshCurrencyDisplay();
 </script><script type="text/javascript" src="http://live.monitus.net/scripts/monitus.js"></script>
-<script type="text/javascript">if(typeof(monitus_init) == "function") monitus_init(145, "old");</script><noscript><img src="http://live.monitus.net/php-bin/mnsc.php?mid=145" alt="Monitus Yahoo Store web analytics" /></noscript><a rel="nofollow" href="http://tpa.us-dc1-edit.store.yahoo.net/RT/NEWEDIT.tpa/privacypolicy1.html"><img src="http://lib.store.yahoo.net/lib/tpa/spacer.gif" height="15" width="30" border="0"></a>
+<script type="text/javascript">if(typeof(monitus_init) == "function") monitus_init(145, "old");</script><noscript><img src="http://live.monitus.net/php-bin/mnsc.php?mid=145" alt="Monitus Yahoo Store web analytics" /></noscript><a rel="nofollow" href="http://tpa.us-dc1-edit.store.yahoo.net/RT/NEWEDIT.tpa/privacypolicy1.html"><img src="http://lib.store.yahoo.net/lib/tpa/spacer.gif" height="15" width="30" border="0"></a><style>
+.pdHide {display:none}
+.pdShow {display:inline}
+</style>
+
+<script type="text/javascript">
+
+function isBlank(item) {
+	item = String(item).toLowerCase();
+	if(item == "undefined" || item == "" || item == "null" || item == "nan") return true;
+	else return false;
+}
+function pdGetCookie2009(cookieName) {
+	var allCookies = document.cookie;
+	var cookieStart = allCookies.indexOf(cookieName+"=")
+	if(cookieStart == -1) return "";
+	cookieStart = cookieStart + cookieName.length + 1;
+	var cookieEnd = allCookies.indexOf(";", cookieStart);
+	if(cookieEnd == -1) cookieEnd = allCookies.length;
+	var cookieValue = unescape(allCookies.substring(cookieStart, cookieEnd));
+	return cookieValue;
+}
+function pdSetCookie2009(cookieName, cookieValue, cookieDomain, cookiePath, expirationDate) {
+	if(isBlank(cookieDomain)) cookieDomain = getCurrentDomainName();
+	if(isBlank(cookiePath)) cookiePath = "/";
+	var cookieString = encodeURIComponent(cookieName) + "=" + encodeURIComponent(cookieValue) + ";domain=" + cookieDomain + ";path=" + cookiePath;
+	if(!isBlank(expirationDate)) {
+		cookieString += ";expires=" + expirationDate.toGMTString();
+	}
+	document.cookie = cookieString;
+	return true;
+}
+function getCurrentDomainName() {
+	var url = String(location);
+	var domainName = extractDomain(url);
+	return domainName;
+}
+function extractDomain(url) {
+	var url = url.replace("http://", "");
+	url = url.replace("https://", "");
+	var slashIndex = url.indexOf("/");
+	if(slashIndex == -1) slashIndex = url.length;
+	var url = url.substring(0, slashIndex);
+	var urlSectionArray = url.split('.');
+	var urlSectionArrayLength = urlSectionArray.length;
+	var domainName = "";
+	for(var i=urlSectionArrayLength - 2;i<urlSectionArrayLength; i++) {
+		domainName += "." + urlSectionArray[i];
+	}
+	return domainName;
+}
+
+/*	"getElementsByClassName"
+	Developed by Robert Nyman, http://www.robertnyman.com
+	Code/licensing: http://code.google.com/p/getelementsbyclassname/
+*/
+var getElementsByClassName = function (className, tag, elm){
+	if (document.getElementsByClassName) {
+		getElementsByClassName = function (className, tag, elm) {
+			elm = elm || document;
+			var elements = elm.getElementsByClassName(className),
+				nodeName = (tag)? new RegExp("\\b" + tag + "\\b", "i") : null,
+				returnElements = [],
+				current;
+			for(var i=0, il=elements.length; i<il; i+=1){
+				current = elements[i];
+				if(!nodeName || nodeName.test(current.nodeName)) {
+					returnElements.push(current);
+				}
+			}
+			return returnElements;
+		};
+	}
+	else if (document.evaluate) {
+		getElementsByClassName = function (className, tag, elm) {
+			tag = tag || "*";
+			elm = elm || document;
+			var classes = className.split(" "),
+				classesToCheck = "",
+				xhtmlNamespace = "http://www.w3.org/1999/xhtml",
+				namespaceResolver = (document.documentElement.namespaceURI === xhtmlNamespace)? xhtmlNamespace : null,
+				returnElements = [],
+				elements,
+				node;
+			for(var j=0, jl=classes.length; j<jl; j+=1){
+				classesToCheck += "[contains(concat(' ', @class, ' '), ' " + classes[j] + " ')]";
+			}
+			try	{
+				elements = document.evaluate(".//" + tag + classesToCheck, elm, namespaceResolver, 0, null);
+			}
+			catch (e) {
+				elements = document.evaluate(".//" + tag + classesToCheck, elm, null, 0, null);
+			}
+			while ((node = elements.iterateNext())) {
+				returnElements.push(node);
+			}
+			return returnElements;
+		};
+	}
+	else {
+		getElementsByClassName = function (className, tag, elm) {
+			tag = tag || "*";
+			elm = elm || document;
+			var classes = className.split(" "),
+				classesToCheck = [],
+				elements = (tag === "*" && elm.all)? elm.all : elm.getElementsByTagName(tag),
+				current,
+				returnElements = [],
+				match;
+			for(var k=0, kl=classes.length; k<kl; k+=1){
+				classesToCheck.push(new RegExp("(^|\\s)" + classes[k] + "(\\s|$)"));
+			}
+			for(var l=0, ll=elements.length; l<ll; l+=1){
+				current = elements[l];
+				match = false;
+				for(var m=0, ml=classesToCheck.length; m<ml; m+=1){
+					match = classesToCheck[m].test(current.className);
+					if (!match) {
+						break;
+					}
+				}
+				if (match) {
+					returnElements.push(current);
+				}
+			}
+			return returnElements;
+		};
+	}
+	return getElementsByClassName(className, tag, elm);
+};
+
+function pdDoHideFromReferrer() {
+	var hideList = getElementsByClassName("pdHideFromReferrals");
+	for(var i=0;i<hideList.length;i++) {
+		hideList[i].className = "pdHide";	
+	}
+	return false;
+}
+function pdShowReferrerHiddenElements() {
+	var hideList = getElementsByClassName("pdHideFromReferrals");
+	for(var i=0;i<hideList.length;i++) {
+		hideList[i].className = "pdShow";
+		hideList[i].style.display = "inline";
+	}
+	return false;
+}
+
+
+var pdHideFromReferrer = false;
+var pdReferrer = String(document.referrer);
+var queryString = String(unescape(window.location.search.substring(1)));
+//pdReferrer = "www.shareasale.com";
+pdSetCookie2009("pdTempReferrer", pdReferrer);
+if(pdReferrer.indexOf("www.shareasale.com") > -1 || queryString.indexOf("SSAID=") > -1) {
+	pdHideFromReferrer = true;
+	pdSetCookie2009("pdHideFromReferrer", "true");
+} else {
+	var pdHideFromReferrerCookie = pdGetCookie2009("pdHideFromReferrer");
+	if(pdHideFromReferrerCookie == "true") {
+		pdHideFromReferrer = true;
+	} else {
+		pdHideFromReferrer = false;
+		pdSetCookie2009("pdHideFromReferrer", "false");
+	}
+}
+
+if(pdHideFromReferrer == false) pdShowReferrerHiddenElements();
+</script>
+<script type="text/javascript">
+//doWindowOnload();
+</script>
 <script type="text/javascript">
 csell_env = 'mud';
 </script>
@@ -338,12 +520,12 @@ var csell_token_map = {}; csell_token_map['TOK_PAGE'] = 'p'; csell_token_map['TO
  <!-- 
  if (document.referrer && (document.referrer!='') && window.Image) 
  { 
- (new Image).src="http://redirect1.vip.store.yahoo.com/cgi-bin/referadd?spcl=1&et=4a3c0282&catalog=tpa&r=" + escape(document.referrer) + "&v=1"; }
+ (new Image).src="http://redirect1.vip.store.yahoo.com/cgi-bin/referadd?spcl=1&et=4aa01ada&catalog=tpa&r=" + escape(document.referrer) + "&v=1"; }
  // --> 
  </script><script type="text/javascript"> 
  <!-- 
  if (document.referrer && (document.referrer!='') && window.Image) 
  { 
- (new Image).src="http://redirect1.vip.store.yahoo.net/cgi-bin/referadd?spcl=1&et=4a3c0282&catalog=tpa&r=" + escape(document.referrer) + "&v=3"; }
+ (new Image).src="http://redirect1.vip.store.yahoo.net/cgi-bin/referadd?spcl=1&et=4aa01ada&catalog=tpa&r=" + escape(document.referrer) + "&v=3"; }
  // --> 
  </script></body></html>
