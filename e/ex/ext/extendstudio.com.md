@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extendstudio.com privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504094349id_/http%3A//www.extendstudio.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extendstudio.com privacy policy that was archived on 2009-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090903113340id_/http%3A//www.extendstudio.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Extendstudio.com | Privacy Policy | Flash & Dreamweaver Extensions | Professional Flash and Dreamweaver Components | Cost-effective | Site Design and Development
 
