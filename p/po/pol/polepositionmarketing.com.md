@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the polepositionmarketing.com privacy policy that was archived on 2009-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090212083711id_/http%3A//www.polepositionmarketing.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polepositionmarketing.com privacy policy that was archived on 2009-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090903232516id_/http%3A//www.polepositionmarketing.com/privacy.php) for the most accurate reproduction.*
 
 # Pole Position Marketing Privacy Policy
 
-This privacy policy covers the site http://www.polepositionmarketing.com, http://www.emarketingperformance.com, and http://www.pole-position-directory.com. Because we want to demonstrate our commitment to our users' privacy, we disclose the following information.
+This privacy policy covers all Pole Position Marketing web properties. Because we want to demonstrate our commitment to our users' privacy, we disclose the following information.
 
   * What personally identifiable information Pole Position Marketing collects.
   * What personally identifiable information third parties collect through the Website. 
@@ -75,7 +75,7 @@ Using the following information, you can contact us if you have questions about 
 Reno, NV 89506  
 USA 
 
-E-mail: info@polepositionmarketing.com 
+E-mail: info@menu.php 
 
 **Resolving Privacy Policy Disputes**
 
