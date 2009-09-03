@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bestwebchoices.com privacy policy that was archived on 2009-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090414191901id_/http%3A//www.bestwebchoices.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestwebchoices.com privacy policy that was archived on 2009-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090903051731id_/http%3A//bestwebchoices.com/privacy.php) for the most accurate reproduction.*
 
-# xxx.com
+# bestwebchoices.com
 
 Privacy policy 
 
