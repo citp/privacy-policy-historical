@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the seismologyonline.com privacy policy that was archived on 2009-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090325221950id_/http%3A//www.seismologyonline.com/privacypolicy/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seismologyonline.com privacy policy that was archived on 2009-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090904171659id_/http%3A//www.seismologyonline.com/privacypolicy/index.shtml) for the most accurate reproduction.*
 
-# Online media services – Website production, Analytical solutions, web hosting and CMS solutions for Businesses in Dubai, U.A.E.
-
-## Privacy Policy
+# Seismology’s Privacy Policy – Seismology Online
 
 **General**
 
@@ -56,23 +54,3 @@ Seismology won't contact you for marketing purposes, or promote new services to 
 **Changes to Seismology’s Privacy Policy**
 
 This privacy policy may be updated from time to time so you may wish to check it each time you submit personal information through any Seismology website. The date of the most recent revisions will appear on this page.
-
-|  | 
-
-## Head Office
-
-**Seismology Online Media Services**  
-P.O. Box 333415, Dubai, UAE.  
-**Tel:    +971 04 398 3363  
-Fax:    +971 04 398 3929**  
-Email: [Enquiry form](https://web.archive.org/contactus/index.aspx)
-
-## Location Map
-
-[](https://web.archive.org/images/locationmap-big.jpg "Find your way to the Seismology offices")
-
-[](https://web.archive.org/services/cms.shtml)
-
-[](https://web.archive.org/services/analytics.shtml)
-
-| 
