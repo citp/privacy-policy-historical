@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lbcexpress.com privacy policy that was archived on 2009-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090322114401id_/http%3A//www.lbcexpress.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lbcexpress.com privacy policy that was archived on 2009-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090904132658id_/http%3A//www.lbcexpress.com/privacy.asp) for the most accurate reproduction.*
 
 # LBC Hari Ng Padala :: USA
 
