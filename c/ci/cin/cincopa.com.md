@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cincopa.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617191246id_/http%3A//www.cincopa.com/cincopaManager/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cincopa.com privacy policy that was archived on 2009-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090904134535id_/http%3A//www.cincopa.com/cincopaManager/privacy.aspx) for the most accurate reproduction.*
 
 # Usage Information
 
