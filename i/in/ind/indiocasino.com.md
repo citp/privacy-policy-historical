@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiocasino.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429064219id_/http%3A//www.indiocasino.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiocasino.com privacy policy that was archived on 2009-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090904053922id_/http%3A//www.indiocasino.com/privacy.php) for the most accurate reproduction.*
 
 # Welcome to Indio Casino
 
