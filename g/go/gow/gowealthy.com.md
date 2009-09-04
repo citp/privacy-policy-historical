@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gowealthy.com privacy policy that was archived on 2009-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090208230924id_/http%3A//www.gowealthy.com/gowealthy/wcms/en/home/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gowealthy.com privacy policy that was archived on 2009-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090904131716id_/http%3A//www.gowealthy.com/gowealthy/wcms/en/home/privacy-policy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy : Gowealthy.com
 
@@ -11,7 +11,7 @@
   
 **Gowealthy is committed to respecting and protecting your personal privacy. Our Privacy Policy is succinctly explained below. You can get additional details by clicking on the highlighted links. Also, please note that we strictly follow the COPPA guidance[click to know more](http://www.gowealthy.com/gowealthy/wcms/en/home/privacy-policy/index.html#egt) **
 
-Gowealthy.com, provided by Gowealthy Holdings FZC is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site <http://www.gowealthy.com/>. Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+The site service provider, W3 informatics FZC on behalf of their client, gowealthy.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site <http://www.gowealthy.com/>. Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
   
 1\. [ What information Gowealthy collects from our site and how we use it?](http://www.gowealthy.com/gowealthy/wcms/en/home/privacy-policy/index.html#fst)  
@@ -28,17 +28,43 @@ Gowealthy.com, provided by Gowealthy Holdings FZC is a licensee of the TRUSTe Pr
 * * *
 
 **Your Questions or Suggestions Regarding This Privacy Policy :**  
-If users have any questions, concern or suggestions regarding our privacy policy, please contact us at 
+If users have any questions, concern or suggestions regarding our privacy policy, please contact us 
 
-**Email :** [support@gowealthy.com](mailto:support@gowealthy.com)  
-**Fax :** 1- 928- 441- 7539  
-**Address:**
+**Via Email**
 
-Site Administrator  
-Gowealthy Holdings FZC,  
-A3/65, Saif Zone,  
-PO Box No 8325, Sharjah,   
-U.A.E. 
+ For membership & general enquiries: [info@gowealthy.com](mailto:info@gowealthy.com)
+
+Content related enquiries: [editor@gowealthy.com](mailto:editor@gowealthy.com)
+
+Technical enquiries: [support@gowealthy.com](mailto:support@gowealthy.com)
+
+Billing enquiries: [sales@gowealthy.com](mailto:sales@gowealthy.com)
+
+Associates: [associates@gowealthy.com](mailto:associates@gowealthy.com)
+
+Real estate enquiries: [realestate@gowealthy.com](mailto:realestate@gowealthy.com)
+
+**  Via Fax **
+
+You can also fax the queries and the suggestions at 
+
+UAE number  +971-6 5573751 
+
+India  -  +91-22-66459701 
+
+U.S.A - (718) 732-2985 
+
+U.K    \- +44 207 681 2852Address: 
+
+Site Administrator (Website Managed and hosted by) 
+
+W3 informatics FZC 
+
+ODC: Q3-015 
+
+SAIF Zone, P.O. Box : 8945 
+
+ Sharjah, UAE 
 
 If you do not receive a satisfactory response, then please contact TRUSTe, an independent privacy organization that will contact us on your behalf. 
 
@@ -52,7 +78,7 @@ This privacy policy applies to web pages ending in Gowealthy.com that contain a 
 * * *
 
 **1\. Information Collections and Use**  
-Gowealthy Holdings FZC is the sole owner of the information collected on Gowealthy.com. 
+The site service provider, W3 informatics FZC on behalf of their client, gowealthy.com is the sole owner of the information collected on Gowealthy.com. 
 
   * The user can visit our site and use most of our services without having to tell us who you are or reveal any personally identifiable information to Gowealthy. There are, however, a few instances where we do collect personally identifiable information in order to fulfill the users request.
   * When the user registers for premium service or register to use the forums section, Gowealthy ask for the information such as your name, email address, birth date, gender, zip code, occupation, industry, and personal interests. The information is collected to provide premium services to the members. The unique identifiers (username, password) are used to provide the personalized web services and tracking the user session. The other information is purely for internal statistic purpose. Once you register with Gowealthy and sign in to our services, the users are not anonymous to us.
