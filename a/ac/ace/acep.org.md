@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acep.org privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622001450id_/http%3A//www.acep.org/aboutus.aspx%3Fid%3D30296) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acep.org privacy policy that was archived on 2009-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090904063738id_/http%3A//www.acep.org/aboutus.aspx%3Fid%3D30296) for the most accurate reproduction.*
 
 # Privacy Policy and Copyright Notice
 
@@ -46,4 +46,4 @@
 > 
 > Although ACEP's website includes samples, articles, and links providing direct access to other Internet sites, ACEP has not participated in the development of such materials or other sites, and does not exert any editorial or other control, or guarantee the accuracy, completeness, efficacy, or timeliness, of such information.  Information on this site does not constitute or imply endorsement, agreement, recommendation, or favoring by ACEP of such information.  Use of any information posted on the ACEP's website or obtained from linked sites is voluntary, and reliance on it should only be undertaken after an independent review by qualified experts.  ACEP is not responsible for, and expressly disclaims all liability for, damages of any kind arising out of use, reference to, reliance on, or performance of such information.
 > 
-> Please address any questions or comments concerning copyright issues to [copyright@acep.org](mailto:copyright@acep.org).
+> You may [ **submit an online request**](https://www.acep.org/Copyright/CopyrightPermission.aspx "Copyright Permissions Information") to use copyright materials published by ACEP.  All permission requests must be submitted online. 
