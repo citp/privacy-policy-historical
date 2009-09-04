@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aamc.org privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617184255id_/http%3A//www.aamc.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aamc.org privacy policy that was archived on 2009-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090904133129id_/http%3A//www.aamc.org/privacy.htm) for the most accurate reproduction.*
 
-# AAMC: Privacy Notice
+# AAMC Privacy Notice
 
 ### Our Commitment to Privacy
 
@@ -73,22 +73,94 @@ Any changes to this privacy notice will be posted on this Web site.  Reviewing 
 
 Certain AAMC services and surveys provide additional detailed information regarding collection and use of your data.  Please follow the links below to learn more about how the specific program may use your data, why they collect your data, and which data are collected. 
 
-[Annual Development Survey](https://web.archive.org/data/developmentsurvey/2008guide.pdf)  
-[AMCAS® (American Medical College Admissions Service)](https://web.archive.org/students/amcas/datacollection.htm)   
-[ERAS® (Electronic Residency Application Service)](https://web.archive.org/students/eras/policies/erasdatapolicy.pdf)  
-[Faculty Roster](https://web.archive.org/data/facultyroster/privacy.htm)  
-[FindAResident® ](https://web.archive.org/students/findaresident/privacydatapolicy.pdf)  
-[GME Track®](https://web.archive.org/programs/gmetrack/disclosure.htm)  
-[GQ (Graduation Questionnaire)](https://web.archive.org/data/gq/faqs.htm)  
-[MCAT® (Medical College Admissions Test)](https://web.archive.org/students/mcat/mcatessentials.pdf)  
-[MedEdPORTAL®](http://services.aamc.org/jsp/mededportal/jsp/userLogin.jsp)  
-[MSPS (Medical School Profile System)](https://web.archive.org/data/msps/reports.htm)  
-[MSQ (Matriculating Student Questionnaire)  
-](https://web.archive.org/data/msq/start.htm)[PMQ (Pre-MCAT Questionnaire)](https://web.archive.org/data/pmq/start.htm)  
-[Survey of Resident/Fellow Stipends and Benefits](https://web.archive.org/data/housestaff/)  
+| 
+
+#### Service 
+
+  
+| 
+
+#### Privacy Policy 
+
+  
+  
+---|---  
+  
+Annual Development Survey
+
+| 
+
+[Users' Guide 2008 Edition](https://web.archive.org/data/developmentsurvey/2008guide.pdf) _(PDF)_  
+  
+American Medical College Admissions Service (AMCAS®)
+
+| 
+
+[AAMC Policies Regarding the Collection, Use, and Dissemination of Medical Student and Applicant Data](https://web.archive.org/students/amcas/datacollection.htm)  
+  
+Electronic Residency Application Service (ERAS®)
+
+| 
+
+[AAMC Policies Regarding the Collection, Use, and Dissemination of Resident, Intern, Fellow, and Residency, Internship, and Fellowship Application Data](https://web.archive.org/students/eras/policies/erasdatapolicy.pdf) _(PDF)_  
+  
+Faculty Roster
+
+| 
+
+[Privacy Policy](https://web.archive.org/data/facultyroster/privacy.htm)  
+  
+FindAResident®
+
+| 
+
+[FindAResident Privacy and Data Policy](https://web.archive.org/students/findaresident/privacydatapolicy.pdf) _(PDF)_  
+  
+GME Track®
+
+| 
+
+[Data Disclosure Statement](https://web.archive.org/programs/gmetrack/disclosure.htm)  
+  
+Graduation Questionnaire (GQ)
+
+| 
+
+[Frequently Asked Questions](https://web.archive.org/data/gq/faqs.htm)  
+  
+Medical College Admissions Test (MCAT®)
+
+| 
+
+[MCAT Essentials](https://web.archive.org/students/mcat/mcatessentials.pdf) _(PDF)_  
+  
+MedEdPORTAL®
+
+| 
+
+[Copyright and Patient Privacy Policy](http://services.aamc.org/30/mededportal/servlet/segment/mededportal/find_resources/ownership/1288.html)  
+  
+[Medical School Profile System (MSPS)](https://web.archive.org/data/msps/start.htm)
+
+|    
+  
+[ Matriculating Student Questionnaire (MSQ)](https://web.archive.org/data/msq/start.htm)
+
+|    
+  
+Pre-MCAT Questionnaire (PMQ)
+
+| [Frequently Asked Questions (FAQs)](https://web.archive.org/data/pmq/faqs.htm)  
+  
+[Survey of Resident/Fellow Stipends and Benefits](https://web.archive.org/data/stipend/start.htm)
+
+|    
+  
 [Visiting Student Application Service (VSAS)](https://web.archive.org/programs/vsas/start.htm)
 
-#### Last updated Oct. 31, 2008 
+|    
+  
+**Last updated Oct. 31, 2008**
 
   
 [Top]  
