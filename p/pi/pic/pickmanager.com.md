@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pickmanager.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430103344id_/http%3A//www.pickmanager.com/www/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pickmanager.com privacy policy that was archived on 2009-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090904034046id_/http%3A//www.pickmanager.com/www/privacy) for the most accurate reproduction.*
 
-# PickManager.com - 2009 March Basketball Tournament Brackets Contest, Fantasy Sports Games
+# PickManager.com - 2009 Fantasy Football - Play All You Want, Win All You Can
 
 **Introduction.**   
 We take your right to privacy seriously and want you to feel comfortable using our web site. This Privacy Policy deals with personally identifiable information (referred to as "Data" below) that may be collected by us on our site. This Policy does not apply to other entities that we do not own or control or persons that are not our employees, agents or within our control. 
