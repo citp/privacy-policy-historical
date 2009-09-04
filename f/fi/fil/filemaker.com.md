@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the filemaker.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228164611id_/http%3A//filemaker.com/company/legal/notice/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filemaker.com privacy policy that was archived on 2009-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090904192028id_/http%3A//www.filemaker.com/company/legal/notice/privacy.html) for the most accurate reproduction.*
 
 # Legal: FileMaker Customer Privacy Policy
-
-[ ](http://www.truste.org/ivalidate.php?url=www.filemaker.com&sealid=101) FileMaker, Inc., ("FileMaker") is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, nonprofit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because FileMaker wants to demonstrate our commitment to your privacy, we have agreed to disclose our information privacy practices for compliance review by TRUSTe.
-
-The TRUSTe trustmark reflects our promise to tell you what personal information we collect; the types of companies we may share your information with; the choices available to you regarding the collection, use, and distribution of the information; the security procedures in place to protect the loss or misuse of information under our control; and how you can correct inaccuracies in the information.
-
-If you have questions or concerns about FileMaker's collection, use, or disclosure of your personal information, please email us at [privacy@filemaker.com](mailto:privacy@filemaker.com). If FileMaker doesn't respond or your inquiry hasn't been addressed to your satisfaction, please visit the [TRUSTe website](http://www.truste.org/consumers/watchdog_complaint.php) for contact information. This certification applies to all sites under the filemaker.com domain. However, any communications to TRUSTe must be in English.
-
-Disclaimer: The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
 
 Protecting your privacy is important to FileMaker. We strive to keep your personal information confidential. By ensuring that you are aware of and understand the FileMaker Customer Privacy Policy, we can provide you with better service. Please take a moment to read the following policy to learn how we handle your personal information.
 
@@ -77,13 +69,13 @@ This site makes forums and news groups available to its users. Please remember t
 
 ### Our Companywide Commitment to Privacy
 
-As we said, FileMaker takes protecting your privacy very seriously. To make sure your personal information is secure, we communicate these guidelines to FileMaker employees and strictly enforce privacy safeguards within the company. In addition, FileMaker supports industry initiatives — such as the International Association of Privacy Professionals and TRUSTe — to preserve privacy rights on the Internet and in all aspects of electronic commerce. And we do not knowingly solicit personal information from minors or send them requests for personal information.
+As we said, FileMaker takes protecting your privacy very seriously. To make sure your personal information is secure, we communicate these guidelines to FileMaker employees and strictly enforce privacy safeguards within the company. In addition, FileMaker supports industry initiatives — such as the International Association of Privacy Professionals — to preserve privacy rights on the Internet and in all aspects of electronic commerce. And we do not knowingly solicit personal information from minors or send them requests for personal information.
 
 FileMaker does not knowingly solicit personal information from children or send them requests for personal information.  
 FileMaker's website contains links to other sites. FileMaker does not share your personal information with those websites and is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies.  
 If we are going to use your personal information differently from that stated at the time of collection, we will try to contact you via email using the most recent information we have. If you have not given us permission to communicate with you, you will not be contacted, nor will we use your personal information in a new manner.
 
-FileMaker abides by the safe harbor framework set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information collected from the European Union. You’ll find more information about the U.S. Department of Commerce [Safe Harbor Program](http://www.export.gov/safeharbor/sh_overview.html).
+FileMaker abides by the safe harbor framework set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information collected from the European Union and Switzerland. You’ll find more information about the U.S. Department of Commerce [Safe Harbor Program](http://www.export.gov/safeharbor/sh_overview.html).
 
 FileMaker participates in the Direct Marketing Association's Safe Harbor complaint resolution process.  European consumers that are unable to resolve a complaint after contacting FileMaker may file a complaint with the Direct Marketing Association at the following address:
 
@@ -108,11 +100,5 @@ FileMaker welcomes your comments regarding this privacy policy, please contact u
 >  E-mail: [privacy@filemaker.com](mailto:privacy@filemaker.com)  
 >  Last updated April 1, 2008  
 >  © 2001-2008 FileMaker, Inc. All rights reserved
-
-FileMaker, Inc., ("FileMaker") is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, nonprofit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because FileMaker wants to demonstrate our commitment to your privacy, we have agreed to disclose our information privacy practices for compliance review by TRUSTe
-
-The TRUSTe trustmark reflects our promise to tell you what personal information we collect; the types of companies we may share your information with; the choices available to you regarding the collection, use, and distribution of the information; the security procedures in place to protect the loss or misuse of information under our control; and how you can correct inaccuracies in the information.
-
-If you have questions or concerns about FileMaker's collection, use, or disclosure of your personal information, please email us at [privacy@filemaker.com](mailto:privacy@filemaker.com). If FileMaker doesn't respond or your inquiry hasn't been addressed to your satisfaction, please visit the [TRUSTe website](http://www.truste.org/consumers/watchdog_complaint.php) for contact information. Disclaimer: The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
 
 Back to top
