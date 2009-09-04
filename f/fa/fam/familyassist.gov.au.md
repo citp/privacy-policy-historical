@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familyassist.gov.au privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625210609id_/http%3A//www.familyassist.gov.au/Internet/FAO/fao1.nsf/content/about_us-privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familyassist.gov.au privacy policy that was archived on 2009-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090904221413id_/http%3A//facs.gov.au/internet/FAO/fao1.nsf/content/about_us-privacy.htm) for the most accurate reproduction.*
 
 # Family Assistance Office | Your privacy
 
@@ -37,7 +37,7 @@ When completing the site's feedback forms, we request your name, e-mail address,
 
 Your personal information is protected under the confidentiality provisions contained within social security and family assistance law. These laws prohibit any person from accessing, using or disclosing any personal information in the possession of the Family Assistance Office except when performing their duties in accordance with these laws or in specific situations permitted by the law. Your personal information will not be made available to any person or agency unless the law permits or your permission is given. Penalties apply to those who fail to observe these provisions.
 
-Before you consider transmitting any confidential information over the Internet, you should first [contact us](http://www.familyassist.gov.au/Internet/FAO/fao1.nsf/content/about_us-contact) to seek its agreement to the application of the 'confidential' classification to he information you wish to provide. When FaHCSIA agrees to treat your personal information as 'confidential' it will receive the appropriate level of security.
+Before you consider transmitting any confidential information over the Internet, you should first [contact us](http://www.facs.gov.au/internet/FAO/FAO1.nsf/content/about_us-contact) to seek its agreement to the application of the 'confidential' classification to he information you wish to provide. When FaHCSIA agrees to treat your personal information as 'confidential' it will receive the appropriate level of security.
 
 While FaHCSIA endeavours to provide a secure Internet environment, please note that the privacy of your personal information cannot be guaranteed if you choose to transmit that information over the Internet.
 
@@ -50,4 +50,4 @@ PO Box 7576
 Canberra Business Centre ACT 2609  
 Telephone: 1300 653 227
 
-[ [Top](http://www.familyassist.gov.au/Internet/FAO/fao1.nsf/content/about_us-privacy.htm#top) ]
+[ [Top](http://www.facs.gov.au/internet/FAO/FAO1.nsf/content/about_us-privacy.htm#top) ]
