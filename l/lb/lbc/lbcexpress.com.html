@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lbcexpress.com privacy policy that was archived on 2009-03-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090322114401id_/http%3A//www.lbcexpress.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lbcexpress.com privacy policy that was archived on 2009-09-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090904132658id_/http%3A//www.lbcexpress.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -16,38 +16,86 @@
 <link href="css/stylelbcexpress.css" rel="stylesheet" type="text/css">
 <script type="text/javascript" src="script/lbcexpress.js"></script>
 
+<script>
+//validates measurement data as a number
+function validateinputvalue()
+{
+	if ((window.event.keyCode > 64) || (window.event.keycode < 123))
+	{
+		//alert("Only numeric values are allowed")//error message
+		window.event.keyCode = 0; //clear wrong data
+		
+	}
 
-<script type="text/javascript">
-<!--
-function MM_openBrWindow(theURL,winName,features) { //v2.0
-  window.open(theURL,winName,features);
 }
-//-->
 </script>
 
 
-<div id="mainHeader">
-<div id="siteLogo"><a href="default.asp"><img src="lib/lbclogo.jpg" width="98" height="98" border="0"></a></div>
-<div id="sideMenuDiv">
-<div id="leftMenu1"></div>
-<div id="leftMenu2"><div id="menuTab"><a href="cuscare.asp">CONTACT</a></div>
-</div>
-<div id="leftMenu2"><div id="menuTab"><a href="under_construction.asp">REGISTER</a></div>
-</div>
-<div id="leftMenu2"><div id="menuTab"><a href="under_construction.asp">SIGN IN</a></div>
-</div>
-</div>
-<div class="menuDiv" id="chromemenu">
-<div class="prmenuTab"><a href="default.asp">HOME</a></div>
-<div class="trackTab"><a href="trackpackage.asp">TRACK YOUR PACKAGE</a></div>
-<div class="prmenuTab"><a href="corpaccounts.asp">CORPORATE ACCOUNTS</a></div>
-<div class="prmenuTab"><a href="#" rel="dropmenu1">BRANCH FINDER</a></div>
-<div class="prmenuTab"><a href="ourcompany.asp">OUR COMPANY</a></div>
-</div>
+
+
+<div id="headerDiv">
+<div id="lbcexpresslogo"><a href="default.asp"><img src="lib/lbcexpress_logo2.jpg" border="0"></a></div>
+<div class="loginTextRegister"><b> Hello,</b>  <a href="login.asp">Sign in to get a full access.</a> <b>New customer?</b> <a href="register_phi.asp">Start here.</a></div>
+<div id="crumbDiv">
+<div class="crumbmenuText">Welcome to LBC Express Philippines</div>
+<div class="crumbmenuTextR"><a href="default.asp">Home</a> | <a href="ourcompany.asp">Our Company</a> | My Account | <a href="corpaccounts.asp">Corporate</a> | <a href="cuscare.asp">Contact Us</a>  | Help?</div>
 </div>
 
-<!--1st BRANCH FINDER-->
-	<div id="dropmenu1" class="dropmenudiv">
+<div id="crumbDivTrace">
+<div id="crumbL"></div>
+<div class="crumbTrace" id="chromemenu">
+<div id="crumbDiv1"><div class="crumbText1"><a href="courier_phi.asp">Courier</a></div></div>
+<div id="crumbDiv1"><div class="crumbText1"><a href="remittance_phi.asp">Remittance</a></div>
+</div>
+<div id="crumbDiv1"><div class="crumbText1"><a href="billsexpress_phi.asp">Bills Express</a></div>
+</div>
+<div id="crumbDiv1"><div class="crumbText1"><a href="under_construction.asp">Express Assistance</a></div>
+</div>
+<div id="crumbTraceDiv1"><div class="crumbTraceText1"><a href="#" rel="dropmenu2">Track Your Package</a></div></div>
+<div id="crumbTraceDiv4"><div class="crumbTraceText4"><a href="#" rel="dropmenu4">Tools</a></div></div>
+<div id="crumbTraceDiv5"><div id="crumbTracelocbg5"><div class="crumbTraceText5">:: <a href="#" rel="dropmenu5">Select your location</a> ::</div></div></div>
+</div>
+
+<!--DROPDOWN 1 SERVICES-->
+	<div id="dropmenu1" class="dropMenudivisions1">
+	<div class="popove-subcategory-name">
+	<div><a href="courier_phi.asp">Courier</a></div>
+	<div><a href="remittance_phi.asp">Remittance</a></div>
+	<div><a href="#">Bills Express</a></div>
+	<div><a href="#">Express Assistance</a></div>
+	</div>
+	</div>
+
+<!--DROPDOWN 2 TRACK-->    
+    <div id="dropmenu2" class="dropMenudivisions2">
+<form action="http://corpsrv.teamlbc.com.ph/lbcesiteinquiry/lbctrackandtrace.asp" method="post" name="myform" target="tracking" onsubmit="window.open('about:blank','tracking','top=0,left=0,directories=no,location=no,menubar=no,resizable=no,scrollbars=yes,status=no,toolbar=no,width=480,height=600');">    
+	<div id="menuTrack1">Enter your Tracking Number</div>
+    <div id="numericalTextDiv"><input type="text" name="trackno" id="trackno" class="numbericalTextarea" maxlength="12" onkeypress="validateinputvalue()"><input type="submit" name="Track" value="Track" class="buttons"></div>
+	<div id="menuTrack1"><input name="checkbox" type="checkbox" id="checkbox" checked="checked">
+By selecting the Track button, I agree to the Terms and Conditions.</div>
+	</form></div>
+	
+<!--DROPDOWN 3 CORPORATE-->    
+    <div id="dropmenu3" class="dropMenudivisions3">
+	<div id="menuTrack1">Sign in to your Account</div>
+    <div id="useracctTextDiv">User ID:<input type="text" name="textfield" id="textfield" class="useracctTextarea"></div>
+	<div id="useracctTextDiv">Password:<input type="text" name="textfield" id="textfield" class="useracctTextarea"></div>
+	<div id="useracctTextDiv"><input type="submit" name="Submit" value="Submit" class="buttons"></div>
+	</div>
+	
+<!--DROPDOWN 4 TOOLS-->
+	<div id="dropmenu4" class="dropMenudivisions4">
+	<div class="popove-subcategory-name">
+<!---	<div><a href="calculatorday1_phi.asp">Calculator</a></div>
+	<div><a href="deliveryzone_phi.asp">Delivery Zone</a></div> -->
+	<div><a href="under_construction.asp">Calculator</a></div>
+	<div><a href="under_construction.asp">Delivery Zone</a></div>	
+	<div><a href="branch_ph.asp">Find LBC Branch</a></div>
+	</div>
+	</div>
+
+<!--DROPDOWN 5 NETWORKS-->
+	<div id="dropmenu5" class="dropMenudivisions5">
 	<div class="popove-subcategory-name">
 	<div><a href="branch_au.asp">Australia</a></div>
 	<div><a href="branch_bn.asp">Brunei</a></div>
@@ -55,13 +103,18 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 	<div><a href="branch_db.asp">Dubai</a></div>
 	<div><a href="branch_hk.asp">Hong Kong</a></div>
 	<div><a href="branch_my.asp">Malaysia</a></div>
-	<div><a href="branch_phi.asp">Philipppine</a></div>
+	<div><a href="branch_ph.asp">Philippines</a></div>
 	<div><a href="branch_sg.asp">Singapore</a></div>
 	<div><a href="branch_sp.asp">Spain</a></div>
 	<div><a href="branch_tw.asp">Taiwan</a></div>
 	<div><a href="branch_usa.asp">USA</a></div>
 	</div>
 	</div>
+
+<div id="crumbR"></div>
+</div>
+</div>
+
 
 <script type="text/javascript">
 
@@ -71,8 +124,8 @@ cssdropdown.startchrome("chromemenu")
 
 <!--MAIN BODY-->
 <div id="mainDiv">
-<div id="mainText">
-<div class="textTitle">privacy policy</div>
+<div id="mainTextDiv">
+<div class="textLabelcourier">Privacy Policy</div>
 <div id="textInfo">
 
 <strong>LBC Acceptable User Policy</strong><br>
@@ -152,54 +205,43 @@ For questions about our Privacy Policy, please send email to <a href="mailto:inf
 </div>
 
 </div>
-<div id="promoDiv"><link href="css/stylelbcexpress.css" rel="stylesheet" type="text/css">
-
-<div id="naviAdright">
-<div id="promoAd"><a href="onlinebooking.asp"><img src="images/righnaviAd_b1.jpg" alt="" border="0"></a></div>
-<div id="promoAd"><a href="#"><img src="images/righnaviAd_b2.jpg" border="0" onclick="MM_openBrWindow('http://www.expressregalo.com','','')"></a></div>
-<div id="promoAd"><a href="#"><img src="images/righnaviAd_b3.jpg" border="0" onclick="MM_openBrWindow('http://www.digiprint.com.ph','','')"></a></div>
-<div id="promoAd"><a href="under_construction.asp"><img src="images/righnaviAd_b4.jpg" border="0"></a></div>
-</div>
-</div>
 </div>
 
 
 <!--FOOTER-->
-<div id="footer">
-
-<link href="css/stylelbcexpress.css" rel="stylesheet" type="text/css">
-
-
+<div id="footer"><link href="css/stylelbcexpress.css" rel="stylesheet" type="text/css">
 
 <div id="footerDiv">
 <div id="coInfoDiv">
 <div id="siteInfo1"></div>
 <div id="siteInfo2">
-<div class="infoTitle">Sevices</div>
-<div class="infoContent">Bills Express</div>
-<div class="infoContent">Courier</div>
-<div class="infoContent">Express Assistance</div>
-<div class="infoContent"><a href="services_er.asp">Express Regalo</a></div>
-<div class="infoContent"><a href="services_fx.asp">Flowers Express</a></div>
-<div class="infoContent"><a href="services_mx.asp">Magazine Subscriptions</a></div>
-<div class="infoContent"><a href="services_remittance.asp">Money Remittance</a></div>
+<div class="infoTitle">LBC Express.Com</div>
+<div class="infoContent"><a href="register_phi.asp">Register</a></div>
+<div class="infoContent"><a href="login.asp">Log In</a></div>
+<div class="infoContent">Shipping</div>
+<div class="infoContent">Global Network</div>
 </div>
 <div id="siteInfo2">
 <div class="infoTitle">Our Company</div>
 <div class="infoContent"><a href="ourcompany.asp">About Us</a></div>
-<div class="infoContent">Career</div>
-<div class="infoContent"><a href="news.asp">News</a></div>
+<div class="infoContent"><a href="cuscare.asp">Contact Us</a></div>
+<div class="infoContent"><a href="#">Career</a></div>
+<div class="infoContent">News</div>
+<div class="infoContent"><a href="#">Video Advertisement</a></div>
 <div class="infoContent"><a href="privacy.asp">Privacy Policy</a></div>
 </div>
 <div id="siteInfo2">
 <div class="infoTitle">Help</div>
-<div class="infoContent"><a href="cuscare.asp">Contact Us</a></div>
-<div class="infoContent"><a href="faq.asp">Frequently Asked Questions</a></div>
+<div class="infoContent"><a href="faq.asp">Frequently Ask Question</a></div>
 <div class="infoContent"><a href="branch_ph.asp">Find LBC Branch</a></div>
-<div class="infoContent"><a href="trackpackage.asp">Track your package</a></div>
+<div class="infoContent"><a href="trackpackage_phi.asp">Track your package</a></div>
+<div class="infoContent"><a href="deliveryzone_phi.asp">Delivery Zone</a></div>
 </div>
 </div>
+<div id="speedline">
 <div id="copywrite">Copyright © LBC Express All Right Reserved 2009.</div>
+</div>
+
 </div>
 <p>&nbsp;</p>
 </div>
