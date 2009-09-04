@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wheatgrasskits.com privacy policy that was archived on 2009-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090226140023id_/http%3A//www.wheatgrasskits.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wheatgrasskits.com privacy policy that was archived on 2009-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090904195203id_/http%3A//www.wheatgrasskits.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # WheatgrassKits.com Privacy Policy
 
  Wheatgrasskits.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Wheatgrasskits.com.
 
-Wheatgrasskits.com does not sell nor distribute information collected to third parties. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+Wheatgrasskits.com does not sell nor distribute information collected to third parties (we won't sell your phone number or address to anyone). Users may opt-out of receiving future mailings from us; see the choice/opt-out section below.
 
 This site contains links to other sites. Wheatgrasskits.com is not responsible for the privacy practices or the content of such Web sites.
 
