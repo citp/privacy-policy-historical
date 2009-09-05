@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the benjerry.com privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526233301id_/http%3A//www.benjerry.com/contact-us/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benjerry.com privacy policy that was archived on 2009-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090905181427id_/http%3A//www.benjerry.com/contact-us/privacy.cfm) for the most accurate reproduction.*
 
 # Ben & Jerry's Ice Cream - Privacy Policy
 
 ## Privacy Policy
 
-[Personal Information Update](https://web.archive.org/web/20090526233301id_/http%3A//www.benjerry.com/contact-us/update-info.cfm?action=update)
+[Personal Information Update](https://web.archive.org/web/20090905181427id_/http%3A//www.benjerry.com/contact-us/update-info.cfm?action=update)
 
-[Do Not Contact](https://web.archive.org/web/20090526233301id_/http%3A//www.benjerry.com/contact-us/update-info.cfm?action=remove)
+[Do Not Contact](https://web.archive.org/web/20090905181427id_/http%3A//www.benjerry.com/contact-us/update-info.cfm?action=remove)
 
 We endeavor to be in compliance with the policies of CARU, the Children’s Advertising Review Unit of the Council of Better Business Bureaus, Inc.
 
