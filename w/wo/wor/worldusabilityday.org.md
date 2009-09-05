@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldusabilityday.org privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626062643id_/http%3A//www.worldusabilityday.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldusabilityday.org privacy policy that was archived on 2009-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090905071739id_/http%3A//www.worldusabilityday.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | World Usability Day
 
