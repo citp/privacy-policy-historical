@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theblindduck.net privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428004907id_/http%3A//theblindduck.net/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theblindduck.net privacy policy that was archived on 2009-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090906005003id_/http%3A//theblindduck.net/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # The Blind Duck » More Information » Privacy Policy
 
