@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the saralvaastu.com privacy policy that was archived on 2009-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090216073256id_/http%3A//saralvaastu.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D54) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saralvaastu.com privacy policy that was archived on 2009-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090905024012id_/http%3A//saralvaastu.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D54) for the most accurate reproduction.*
 
-# Saral Vaastu - Privacy Policy
+# Saral Vaastu
 
 Saralvaastu.com is committed towards maintaining the privacy of information related to its associates and users. We do not disclose information about your visits to our portal or personal information that you may give us, to any outside sources. 
 
