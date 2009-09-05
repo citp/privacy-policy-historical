@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lacrosse.org privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503035451id_/http%3A//www.lacrosse.org/info/privacypolicy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lacrosse.org privacy policy that was archived on 2009-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090905063212id_/http%3A//www.lacrosse.org/info/privacypolicy.phtml) for the most accurate reproduction.*
 
 # US Lacrosse Privacy Policy
 
-If you feel that we are not abiding by our posted privacy statement, you should first contact Art Zito, Managing Director of Membership, at [azito@uslacrosse.org](mailto:azito@uslacrosse.org) or at 410.235.6882 ext. 114. 
+If you feel that we are not abiding by our posted privacy statement, you should first contact Sara Noon, Managing Director of Membership, at [snoon@uslacrosse.org](mailto:snoon@uslacrosse.org) or at 410.235.6882 ext. 114. 
 
  ****
 
@@ -53,9 +53,9 @@ We occasionally share information with other USL entities and third parties. Thi
 ****
 
 **Sharing with USL entities  
-** USL Chapters receive reports about members in their Chapters, including name, address, phone, e-mail address, etc. This information is used to contact members about general-interest matters and specialized topics in the same manner as described in Section 2 above. Chapters may occasionally share aggregated demographic information with their partners and advertisers. Again, this is not linked to any personal information that can identify any individual person. 
+** USL Chapters receive reports about members in their chapters, including name, address, phone, e-mail address, etc. This information is used to contact members about general-interest matters and specialized topics in the same manner as described in Section 2 above. Chapters may occasionally share aggregated demographic information with their partners and advertisers. Again, this is not linked to any personal information that can identify any individual person. 
 
-USL Chapters are required to abide by the National USL privacy policy. Certain Chapters may have their own privacy policies, but these will always be more restrictive, never less, than the national policy. In the event that a Chapter has a more restrictive policy, that Chapter's policy will apply to the individual Chapter. In this event, please refer questions first to the Chapter, then to the National Office.
+USL Chapters are required to abide by the national USL privacy policy. Certain chapters may have their own privacy policies, but these will always be more restrictive, never less, than the national policy. In the event that a chapter has a more restrictive policy, that chapter's policy will apply to the individual chapter. In this event, please refer questions first to the chapter, then to the national office.
 
  ****
 
