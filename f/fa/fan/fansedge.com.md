@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fansedge.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501084049id_/http%3A//www.fansedge.com/Info/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fansedge.com privacy policy that was archived on 2009-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090905142906id_/http%3A//www.fansedge.com/Info/Privacy.aspx) for the most accurate reproduction.*
 
 # Security and Privacy
 
@@ -109,13 +109,13 @@ You can access all your personally identifiable information that we collect onli
 
 You can change your FansEdge account information any time you like by going to [Access your account](https://web.archive.org/AccountMenu.aspx). From here you can click [ Log into account](https://web.archive.org/Login.aspx) and enter your email address and password. You can then access the Update My Account page and make changes to your information.
 
-If you do not have an account- for example, if you do not have an email address- you can correct factual errors in your personally identifiable information by calling us at 877-965-3955 or sending us a request to [ Service@FansEdge.com](mailto:Service@FansEdge.com) that credibly shows the error. 
+If you do not have an account- for example, if you do not have an email address- you can correct factual errors in your personally identifiable information by calling us at 877-965-3955 or sending us a request to [ Service@CS.FansEdge.com](mailto:Service@CS.FansEdge.com) that credibly shows the error. 
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
 
 **How To Contact Us**
 
-Should you have other questions or concerns about our privacy policy, please call us at _877-965-3955_ or send us an email at [ Service@FansEdge.com](mailto:Service@FansEdge.com) .
+Should you have other questions or concerns about our privacy policy, please call us at _877-965-3955_ or send us an email at [ Service@CS.FansEdge.com](mailto:Service@CS.FansEdge.com) .
 
 For direct mail opt-out requests, please send a request by mail to:
 
