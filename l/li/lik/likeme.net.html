@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the likeme.net privacy policy that was archived on 2009-04-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090415200943id_/http%3A//www.likeme.net/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the likeme.net privacy policy that was archived on 2009-09-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090905042010id_/http%3A//www.likeme.net/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
   <script type="text/javascript">
 //<![CDATA[
 
@@ -9,24 +9,31 @@
   
 //]]>
 </script>
-  <title>Like Me : Privacy Policy</title>
+  <title>Privacy Policy : Like Me</title>
   <meta http-equiv="content-type" content="text/html; charset=UTF-8">
   <meta http-equiv="content-language" content="en">
   <meta http-equiv="imagetoolbar" content="no">
   <meta name="keywords" content="personalized recommendation engine, recommendation engine, personalized recommendation, restaurant reviews, hotel reviews, bars reviews, shopping reviews, restaurant, hotel, bars, shopping">
   <meta name="description" content="LikeMe.net - discover restaurants, nightlife, travel, shopping, and an array of activities that match your preferences to people with similar interests.">
-    <meta name="robots" content="noindex, nofollow">
-    <link rel="shortcut icon" href="/images/favicon.ico">
+        <meta name="robots" content="noindex, nofollow">
+      <link rel="shortcut icon" href="/images/favicon.ico">
   <link rel="top" href="#" title="top">
-  <script src="http://www.likeme.net/javascripts/all.js?1239128401" type="text/javascript"></script>
+  <script src="http://www.likeme.net/javascripts/all.js?1252120744" type="text/javascript"></script>
   
-  <link href="http://www.likeme.net/stylesheets/application.css?1239128425" media="screen" rel="stylesheet" type="text/css">
+  <link href="http://www.likeme.net/stylesheets/application.css?1252120766" media="all" rel="stylesheet" type="text/css">
   <!--[if lte IE 6]>
-  <link href="http://www.likeme.net/stylesheets/ie6_overrides.css?1239128274" media="screen" rel="stylesheet" type="text/css" />
+  <link href="http://www.likeme.net/stylesheets/ie6_overrides.css?1252120682" media="all" rel="stylesheet" type="text/css" />
   <![endif]-->
 </head>
 <body class="privacy-controller">
-<div id="layout_container">
+  
+    <script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
+  
+  <div id="layout_container">
+  <!-- [admin_links] -->
+  
+
+  <!-- [/admin_links] -->
   <!--[if lte IE 6]>
     <script type="text/javascript">
       try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {}
@@ -38,107 +45,99 @@
     Services.oasAd = new OasAd('');
     new LikeMe.Page();
     Event.observe(window, 'dom:loaded', function() { Services.page.focusOnFirstSensibleField() });
-  
+
+
 //]]>
 </script>
 
-  <!-- [vvm] -->
+  <!-- [oas_and_vvm_top] -->
   
-  <div id="vvm-partner-top-bar"><a href="http://villagevoicemedia.com/" target="_blank"><img id="vvm-partner-top-bar-image" src="/images/vvm-banner-images/vvm-partner-top-bar-vvm.png"></a></div>
+  <div id="vvm-partner-top-bar">
+    <a href="http://www.seattleweekly.com/" target="_blank"><img alt="Vvm-partner-top-bar-sew" src="http://www.likeme.net/images/vvm-banner-images/vvm-partner-top-bar-sew.png?1252120682"></a>
+  </div>
 
-  <!-- [/vvm] -->
+  <!-- [/oas_and_vvm_top] -->
 
   <!-- [header] -->
-    <div id="header_container">
-    <h1><a href="/" id="home">LikeMe</a></h1>
-
-    <div id="navigation">
+  <div id="header_container">
+  <div id="navigation" class="without-ad">
+    <ul>
       
-        <br><!-- !! consider adding some intro text here? -->
-        <ul>
-          <li><a href="/quick_start/new">Quick Start</a></li>
-          <li><a href="/login">Login</a></li>
-          <li><a href="/users/new">Sign Up</a></li>
-          <li class="hoverable with-delay">
-            <a href="mailto:feedback@likeme.net?subject=likeme-beta-feedback" class="feedback">Suggestions</a>
-                <span class="tooltip ">
-<h5>Suggestions</h5><h6>LikeMe is currently in beta. This means we're still working on making the site rock. Let us know if you have any suggestions or comments that will help make LikeMe better.</h6>    </span>
-
-          </li>
-        </ul>
+        <li><a href="/users/new">Sign Up</a></li>
+        <li><a href="/login">Login</a></li>
+        
+          <li>
+            <a href="#" onclick="FB.Connect.requireSession(function() { window.location.href = Routing.new_facebook_login_path(); }); return false;">
+              <img id="fb_login_image" src="http://static.ak.fbcdn.net/images/fbconnect/login-buttons/connect_white_small_short.gif" alt="Connect">
+              Login Using Facebook </a></li>
+        
       
-    </div>
+      <li><a href="/about_us">About Us</a></li>
+      <li class="hoverable with-delay">
+        <a href="mailto:feedback@likeme.net?subject=likeme-feedback" class="feedback">Suggestions</a>
+            <span class="tooltip ">
+<h5>Suggestions</h5><h6>We're always actively working on making LikeMe rock. Let us know if you have any suggestions or comments that will help make the site better.
+        </h6>    </span>
+
+      </li>
+      <li><a href="/faq">Help</a></li>
+    </ul>
   </div>
+  
+  <h1><a href="/" id="home">LikeMe</a></h1>
+</div>
 
   <!-- [/header] -->
 
   <!-- [search] -->
-  <script type="text/javascript">
-//<![CDATA[
+  <div id="search_container" class="able-container">
+  
+    <div class="overlay hoverable with-delay">
+          <span class="tooltip login-required">
+<h6>          <em>Wait!</em> LikeMe needs to get to know you first. <br>
+          <a href="/users/new">Sign up</a> or <a href="/login">login</a>.
+</h6>    </span>
 
-  function redirectFind(formItem) {
-    action = $F(formItem);
-    if(action == 'Find a Person'){
-      Services.page.goto('/find/people')
-    }else if(action == 'Find a Place'){
-      Services.page.goto('/find/places')
-    }
-  }
-
-//]]>
-</script>
-
-<div id="search_container" class="able-container">
+    </div>
+  
   <div class="bottom-left"><div class="bottom-right"><div class="top-left"><div class="top-right">
   <div class="content">
-    <form action="/discover" class="new_centroid_ratable_search" id="search_form" method="post" onsubmit="return Services.page.submitSearchForm();">
-
-        <div class="seperator">&nbsp;</div>
-        <label>Get Recommendations For</label>
-        <div class="select-container"><select id="category_plural_name" name="category_plural_name"><option value="restaurants">Restaurants</option>
+    <form action="/discover" class="new_centroid_event_search" id="search_form" method="post" onsubmit="return Services.page.submitSearchForm();">
+      <label>Where do people <span class="logo"><span class="like">Like</span><span class="me">Me</span></span> go in</label>
+      <div id="autocompleter_parent" class="input-container"><input class="text" disabled="disabled" id="near" name="near" onkeypress="Element.removeClassName(this, 'required')" type="text" value="Seattle, WA">&nbsp;</div>
+      <label>for</label>
+      <div class="select-container"><select disabled="disabled" id="category_plural_name" name="category_plural_name"><option value="events" selected="selected">Events</option>
+<option value="restaurants">Restaurants</option>
 <option value="bars">Bars and Nightlife</option>
 <option value="hotels">Hotels</option>
 <option value="activities">Activities</option>
 <option value="fitness/spas">Fitness/Spas/Beauty</option>
-<option value="shopping" selected="selected">Shopping</option>
+<option value="shopping">Shopping</option>
 <option value="other">Other Stuff</option></select>&nbsp;</div>
-        <label>Near</label>
-        <div style="position: relative;" id="autocompleter_parent" class="input-container"><input class="text" id="near" name="near" onkeypress="Element.removeClassName(this, 'required')" type="text" value="Reno, NV">&nbsp;</div>
-        
-        <script type="text/javascript"> 
-          new LikeMe.View.Autocompleter($('near'), {
-            url: Routing.city_state_autocompletions_path(),
-            positionedParentId: $('autocompleter_parent'),
-            delay: 50,
-            onItemChosen: function() { $('search_form').onsubmit(); }  
-          });
-        </script>
-        
-        <input type="image" id="search_submit" src="/images/search-submit.png">
+      <script type="text/javascript">
+        new LikeMe.View.Autocompleter($('near'), {
+          url: Routing.city_state_autocompletions_path(),
+          positionedParentId: $('autocompleter_parent'),
+          delay: 50,
+          onItemChosen: function() { $('search_form').onsubmit(); }
+        });
+      </script>
+      <input disabled="disabled" id="search_submit" src="http://www.likeme.net/images/search-submit.png?1252120682" type="image">
     </form>
-
-    <div class="seperator">&nbsp;</div>
-    <div class="seperator">&nbsp;</div>
-    <div class="vert-hr"><img src="/images/search-vertical-hr.png"></div>
-    <div class="select-container"><select id="find_browse" name="find_browse" onchange="redirectFind(this)"><option value="Find/Browse" selected="selected">Find/Browse</option>
-<option value="Find a Person">Find a Person</option>
-<option value="Find a Place">Find a Place</option></select>&nbsp;</div>
 
   </div>
   </div></div></div></div>
 </div>
   <!-- [/search] -->
 
-  
+  <!-- [messages - notices & errors] -->
+  <div class="message" id="flash_message" style=""><a href="/users/new"><img alt="Create-banner" src="http://www.likeme.net/images/banners/create-banner.png?1252120682"></a></div>
+  <!-- [messages - notices & errors] -->
 
   
-  <!-- [messages - notices & errors] -->
-  <div class="message" id="flash_message" style=""><a href="/users/new"><img alt="Create-banner" src="http://www.likeme.net/images/banners/create-banner.png?1239128274"></a></div>
-  <!-- [messages - notices & errors] -->
 
   <!-- [controller view] -->
-  
-    <div class="able-container with-tabs">
+      <div class="able-container with-tabs static">
       <div class="inside">
         <div class="right-border"><div class="bottom"><div class="bottom-left"><div class="bottom-right"><div class="top"><div class="top-left"><div class="top-right">
         <div class="content">
@@ -148,9 +147,11 @@
 <div class="side-tab about-us"><a href="/about_us">About Us</a></div>
 <div class="side-tab contact-us"><a href="/contact_us">Contact Us</a></div>
 <div class="side-tab faq"><a href="/faq">FAQ</a></div>
+<div class="side-tab press-releases"><a href="/press_releases">Press Releases</a></div>
 <div class="side-tab guideline"><a href="/guidelines">Guidelines</a></div>
 <div class="selected-wrapper"><div class="side-tab-selected privacy-policy"><a href="/privacy">Privacy Policy</a></div></div>
 <div class="side-tab terms-of-service"><a href="/terms_of_service">Terms Of Service</a></div>
+<div class="side-tab contest-rules"><a href="/contest_rules">Contest Rules</a></div>
 
   
           <br>
@@ -238,6 +239,7 @@
       <a href="/faq" rel="nofollow">FAQs</a> /
       <a href="/privacy" rel="nofollow">Privacy Policy</a> /
       <a href="/terms_of_service" rel="nofollow">Terms of Service</a> /
+      <a href="/guidelines" rel="nofollow">User Guidelines</a>
       <br>
     </span>
     
@@ -295,8 +297,26 @@
   <!-- [/footer] -->
 
   <!-- [vvm] -->
+  <div class="advertise-with-us">
+      <div class="able-container cobranding">
+      <div class="inside">
+        <div class="right-border"><div class="bottom"><div class="bottom-left"><div class="bottom-right"><div class="top"><div class="top-left"><div class="top-right">
+        <div class="content">
+<div class="container-body-full">        <div class="container-body">
+          
+    <img alt="Vvm-partner-bottom-advertise-with-us" src="http://www.likeme.net/images/vvm-banner-images/vvm-partner-bottom-advertise-with-us.png?1252120682">
+    <a href="http://www.seattleweekly.com/about/index/" target="_blank"><img alt="Vvm-partner-top-bar-sew" src="http://www.likeme.net/images/vvm-banner-images/vvm-partner-top-bar-sew.png?1252120682"></a>
   
-  <div id="vvm-partner-bottom-bar"><a href="http://villagevoicemedia.com/" target="_blank"><img id="vvm-partner-bottom-bar-image" src="/images/vvm-banner-images/vvm-partner-top-bar-vvm.png"></a></div>
+        </div>
+        <div class="container-end"><br clear="both"></div>
+</div>          <div class="container-end"><br clear="both"></div>
+        </div>
+        </div></div></div></div></div></div></div>
+      </div>
+    </div>
+
+</div>
+
 
   <!-- [/vvm] -->
 
@@ -306,7 +326,7 @@
 //<![CDATA[
 
       var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-      document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));  
+      document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
     
 //]]>
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
@@ -323,7 +343,15 @@
   
   <!-- [/tracking] -->
 </div>
+  
+    <script type="text/javascript">
+//<![CDATA[
 
+      FB.init("91da1774166eddf205e673ef3ba15fcc", "/facebook_connect/xd_receiver.htm");
+    
+//]]>
+</script>
+  
 
 
 </body></html>
