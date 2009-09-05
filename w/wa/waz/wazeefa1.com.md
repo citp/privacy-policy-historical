@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wazeefa1.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627094755id_/http%3A//www.wazeefa1.com/seePrivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wazeefa1.com privacy policy that was archived on 2009-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090905162607id_/http%3A//www.wazeefa1.com/seePrivacy.php) for the most accurate reproduction.*
 
 # 
 
