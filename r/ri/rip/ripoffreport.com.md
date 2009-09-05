@@ -1,19 +1,21 @@
-> *The following text is extracted and transformed from the ripoffreport.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418084820id_/http%3A//www.ripoffreport.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ripoffreport.com privacy policy that was archived on 2009-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090905175220id_/http%3A//www.ripoffreport.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Ripoff Report: By Consumers, For Consumers
+# Ripoff Report:
 
-[](https://web.archive.org/rormedia.asp?path=/common/videos/11p_ripoff_report.flv)Consumer Advocate Ed Magedson stands up to lawsuits threats. WOIO CBS 19 Cleveland  
-[PLAY VIDEO](https://web.archive.org/rormedia.asp?path=/common/videos/11p_ripoff_report.flv)
+Data recovery scams over charge and steal private data from broken hard drives.  
+PLAY VIDEO
 
-[](https://web.archive.org/ads/PyramidSchemePages.htm)Questionable pyramid scheme takes advantage of consumers.  
-[PLAY VIDEO](https://web.archive.org/ads/PyramidSchemePages.htm)
+[](https://web.archive.org/Common/ads/Loan-Modification-Risk.html)Loan modification offers risk for those facing foreclosure. Don't pay up front!  
+[PLAY VIDEO](https://web.archive.org/Common/ads/Loan-Modification-Risk.html)
 
-[](https://web.archive.org/rormedia.asp?path=/common/videos/computer_creep.flv)Internet marketing scams prey on the innocent.  
-[PLAY VIDEO](https://web.archive.org/rormedia.asp?path=/common/videos/computer_creep.flv)
+[](https://web.archive.org/Common/ads/PyramidSchemePages.html)Questionable pyramid scheme takes advantage of consumers.  
+[PLAY VIDEO](https://web.archive.org/Common/ads/PyramidSchemePages.html)
 
-[](https://web.archive.org/ads/fox11-bank-scam.htm)Companies steal from your bank account.  
+[](https://web.archive.org/Common/ads/fox11-bank-scam.html)Companies steal from your bank account.  
 Find out how.  
-[PLAY VIDEO](https://web.archive.org/ads/fox11-bank-scam.htm)
+[PLAY VIDEO](https://web.archive.org/Common/ads/fox11-bank-scam.html)
+
+Ripoff Report is all new! Now with new features to better serve you, if you experience any trouble at all please contact us at [support@ripoffreport.com](mailto:support@ripoffreport.com)
 
 This privacy policy applies to the Ripoff Report web site. Our contact information is:
 
@@ -38,10 +40,14 @@ We collect information for the following purpose(s):
 
 Who has access to the information we collect?
 
-  * Ourselves - Unless you opt-in as mentioned above, information is only shared with the operators of this website. 
+  * Ourselves - Unless you opt-in as mentioned above, information is only shared with the operators of this website.
 
 
 
 Of the information we do collect, we do not provide our visitors with access to information we collect.
 
-If you believe that our website has collected incorrect information or if you would like to dispute any information, please contact us using the address at the top of this page. 
+If you believe that our website has collected incorrect information or if you would like to dispute any information, please contact us using the address at the top of this page.
+
+[](https://web.archive.org/ConsumersSayThankYou.aspx)
+
+[Read how](https://web.archive.org/ConsumersSayThankYou.aspx) Ripoff Report saves consumers millions.
