@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mosaic-service.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216065904id_/http%3A//www.mosaic-service.com/staticpage.jsp%3Fpage%3D195) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mosaic-service.com privacy policy that was archived on 2009-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090905235610id_/http%3A//www.mosaic-service.com/staticpage.jsp%3Fpage%3D195) for the most accurate reproduction.*
 
 # Privacy Policy
 
