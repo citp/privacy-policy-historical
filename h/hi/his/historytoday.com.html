@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the historytoday.com privacy policy that was archived on 2009-05-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090502080145id_/http%3A//www.historytoday.com/MainArticle.aspx%3Fm%3D32159) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the historytoday.com privacy policy that was archived on 2009-09-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090905234015id_/http%3A//www.historytoday.com/MainArticle.aspx%3Fm%3D32159) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -34,7 +34,33 @@ d.write('<sc'+'ript src="'+
 +'/siteopt.js?v=1&utmxkey='+k+'&utmx='+(x?x:'')+'&utmxx='+(xx?xx:'')+'&utmxtime='
 +new Date().valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
 '" type="text/javascript" charset="utf-8"></sc'+'ript>')})();
-</script><script src="https://ssl.google-analytics.com/siteopt.js?v=1&amp;utmxkey=3680597772&amp;utmx=&amp;utmxx=&amp;utmxtime=1582144415731" type="text/javascript" charset="utf-8"></script>
+</script><script src="https://ssl.google-analytics.com/siteopt.js?v=1&amp;utmxkey=3680597772&amp;utmx=&amp;utmxx=&amp;utmxtime=1582144416084" type="text/javascript" charset="utf-8"></script>
+
+<script type="text/javascript" src="scripts/swfobject.js"></script>
+<script type="text/javascript">
+window.onload = function() {
+    var objects = document.getElementsByTagName("object");
+    for(var i = 0; i < objects.length; i++) {
+        var params = objects[i].getElementsByTagName("param");
+        var parent = objects[i].parentNode;
+        for(var j = 0; j < params.length; j++) {
+            if(params[j].name == "movie")
+                var oldsrc = params[j].value;
+        }
+        if(oldsrc != null){
+            var spliter = oldsrc.split('.');
+            var newsrc = "dm_documents/"+spliter[0] +"."+ spliter[1];
+//            var so = new SWFObject(newsrc, "movies"+[i], objects[i].width, objects[i].height, "10", "#FFFFFF");
+//            so.addParam("quality", "high");
+//            so.addParam("wmode", "transparent");
+//            so.addParam("swLiveConnect", "true");
+//            so.write(parent);
+            swfobject.embedSWF(newsrc, parent.id, objects[i].width, objects[i].height, "10", "");
+        }
+    }
+}
+</script>
+
 		
 		</head>	
 		
@@ -84,7 +110,7 @@ pageTracker._trackPageview();
 		<form name="__aspnetForm" method="post" action="MainArticle.aspx?m=32159" id="__aspnetForm">
 <input type="hidden" name="__EVENTTARGET" value="">
 <input type="hidden" name="__EVENTARGUMENT" value="">
-<input type="hidden" name="__VIEWSTATE" value="dDw5OTAyNTI5Njg7dDw7bDxpPDA+Oz47bDx0PDtsPGk8MD47PjtsPHQ8O2w8aTwxPjtpPDM+Oz47bDx0PDtsPGk8Mj47PjtsPHQ8O2w8aTwwPjs+O2w8dDxwPGw8VGV4dDs+O2w8SGlzdG9yeSBUb2RheSAtIFByaXZhY3kgUG9saWN5ICYgRGlzY2xhaW1lciA6IMKgOz4+Ozs+Oz4+Oz4+O3Q8O2w8aTwxPjtpPDM+O2k8ND47aTw5PjtpPDEwPjs+O2w8dDxwPHA8bDxfIUl0ZW1Db3VudDs+O2w8aTwyPjs+Pjs+O2w8aTwwPjs+O2w8dDw7bDxpPDA+Oz47bDx0PEA8XDxhIGhyZWY9Imh0dHA6Ly93d3cuc2h1LmFjLnVrL3RoaW5rIiB0YXJnZXQ9Il9ibGFuayJcPlw8aW1nIGFsdD0iIiB3aWR0aD0iNTUwIiBoZWlnaHQ9IjcwIiBzcmM9IlJFQy1OLTI1MTg1XzcwLXgtNTUwXzk3NzRfMDI1NDk1LmdpZi5pbWciIGJvcmRlcj0iMCIgY2xhc3M9ImRtUmVsYXRlZE1lZGlhSW1hZ2UiIGFsdD0nRnJvbnRQYWdlQmFubmVyJyAvXD5cPC9hXD47Pjs7Pjs+Pjs+Pjt0PHA8O3A8bDxvbmtleWRvd247PjtsPCBmb2N1c09iaklkID0gJ19jdGwwX3NlYXJjaFRleHQnXDtyZXR1cm4gZG1UcnlTdWJtaXQoZXZlbnQsJ19jdGwwX3NlYXJjaEJ1dHRvbicpXDs7Pj4+Ozs+O3Q8cDxsPE9uQ2xpY2s7PjtsPHJldHVybiBTZWFyY2hWYWxpZGF0aW9uKCdfY3RsMF9zZWFyY2hUZXh0JylcOzs+Pjs7Pjt0PHA8bDxWaXNpYmxlOz47bDxvPGY+Oz4+Ozs+O3Q8O2w8aTwwPjs+O2w8dDw7bDxpPDE+O2k8Mz47PjtsPHQ8cDxwPGw8XyFJdGVtQ291bnQ7PjtsPGk8MD47Pj47Pjs7Pjt0PHA8cDxsPF8hSXRlbUNvdW50Oz47bDxpPDA+Oz4+Oz47Oz47Pj47Pj47Pj47Pj47Pj47Pj47bDxfY3RsMDpsb2dpbkN0cmw6SW1hZ2VCdXR0b247Pj7Ju0jpEDevOiXPbhlYTv9wCE4Dyw==">
+<input type="hidden" name="__VIEWSTATE" value="dDw5OTAyNTI5Njg7dDw7bDxpPDA+Oz47bDx0PDtsPGk8MD47PjtsPHQ8O2w8aTwxPjtpPDM+Oz47bDx0PDtsPGk8Mj47PjtsPHQ8O2w8aTwwPjs+O2w8dDxwPGw8VGV4dDs+O2w8SGlzdG9yeSBUb2RheSAtIFByaXZhY3kgUG9saWN5ICYgRGlzY2xhaW1lciA6IMKgOz4+Ozs+Oz4+Oz4+O3Q8O2w8aTwxPjtpPDM+O2k8ND47aTw5PjtpPDEwPjs+O2w8dDxwPHA8bDxfIUl0ZW1Db3VudDs+O2w8aTwyPjs+Pjs+O2w8aTwwPjs+O2w8dDw7bDxpPDA+Oz47bDx0PEA8XDxhIGhyZWY9Imh0dHA6Ly93d3cuc2h1LmFjLnVrL3RoaW5rZHMiIHRhcmdldD0iX2JsYW5rIlw+XDxpbWcgYWx0PSIiIHdpZHRoPSI1NTAiIGhlaWdodD0iNzAiIHNyYz0iUkVDLU4tMjU1MTMtNzB4NTUwXzEwMTAzXzRVSjYzZy5naWYuaW1nIiBib3JkZXI9IjAiIGNsYXNzPSJkbVJlbGF0ZWRNZWRpYUltYWdlIiBhbHQ9J0Zyb250UGFnZUJhbm5lcicgL1w+XDwvYVw+Oz47Oz47Pj47Pj47dDxwPDtwPGw8b25rZXlkb3duOz47bDwgZm9jdXNPYmpJZCA9ICdfY3RsMF9zZWFyY2hUZXh0J1w7cmV0dXJuIGRtVHJ5U3VibWl0KGV2ZW50LCdfY3RsMF9zZWFyY2hCdXR0b24nKVw7Oz4+Pjs7Pjt0PHA8bDxPbkNsaWNrOz47bDxyZXR1cm4gU2VhcmNoVmFsaWRhdGlvbignX2N0bDBfc2VhcmNoVGV4dCcpXDs7Pj47Oz47dDxwPGw8VmlzaWJsZTs+O2w8bzxmPjs+Pjs7Pjt0PDtsPGk8MD47PjtsPHQ8O2w8aTwxPjtpPDM+Oz47bDx0PHA8cDxsPF8hSXRlbUNvdW50Oz47bDxpPDA+Oz4+Oz47Oz47dDxwPHA8bDxfIUl0ZW1Db3VudDs+O2w8aTwwPjs+Pjs+Ozs+Oz4+Oz4+Oz4+Oz4+Oz4+Oz4+O2w8X2N0bDA6bG9naW5DdHJsOkltYWdlQnV0dG9uOz4+BJBujXB8ZTxOEu0HNBCSv1+YuEo=">
 
 <script language="javascript" type="text/javascript">
 <!--
@@ -107,7 +133,7 @@ pageTracker._trackPageview();
 				<div id="dmHeaderBookmark">
 					<div class="dmHeadBookmark"><a onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('https://www.historytoday.com/');" href="#">Make History Today your homepage</a>
 					</div>
-					<div class="dmHeadDate">Saturday 2nd May, 2009</div>
+					<div class="dmHeadDate">Sunday 6th September, 2009</div>
 				</div>
 				<div class="dmClearBoth"></div>
 				<div id="dmHeaderLogo">
@@ -122,7 +148,7 @@ pageTracker._trackPageview();
 				</td>
 				<td style="verticle-align: middle; text-align:center;width:565px">
 				<div id="_ctl0_Relationdisplay2">
-					           <a href="http://www.shu.ac.uk/think" target="_blank"><img alt="" width="550" height="70" src="REC-N-25185_70-x-550_9774_025495.gif.img" border="0" class="dmRelatedMediaImage"></a>
+					           <a href="http://www.shu.ac.uk/thinkds" target="_blank"><img alt="" width="550" height="70" src="REC-N-25513-70x550_10103_4UJ63g.gif.img" border="0" class="dmRelatedMediaImage"></a>
 						</div>
 				</td>
 				<td style="float:right;">
@@ -222,7 +248,7 @@ pageTracker._trackPageview();
 							              <a href="NewBlank.aspx?m=21012" title=""> Subscribe </a></div>
 					             
 							           <div id="item21023" class="item21012">
-							              <a href="Products.aspx?m=21023" title=""> Magazine &amp; Archive Subscriptions</a></div>
+							              <a href="NewBlank.aspx?m=21023" title=""> Magazine &amp; Archive Subscriptions</a></div>
 					             
 							           <div id="item31660" class="item21012">
 							              <a href="Products.aspx?m=31660" title=""> Institutional Subscriptions</a></div>
@@ -245,14 +271,17 @@ pageTracker._trackPageview();
 							           <div id="item21013" class="item19965">
 							              <a href="NewBlank.aspx?m=21013" title=""> Discover</a></div>
 					             
+							           <div id="item408" class="item21013">
+							              <a href="NewBlank.aspx?m=408" title=""> History Today Awards</a></div>
+					             
 							           <div id="item14356" class="item21013">
 							              <a href="Competitions.aspx?m=14356" title=""> Competitions &amp; Special Offers</a></div>
 					             
 							           <div id="item33099" class="item21013">
-							              <a href="MainArticle.aspx?m=33099" title=""> Events</a></div>
+							              <a href="NewBlank.aspx?m=33099" title=""> Events</a></div>
 					             
 							           <div id="item33101" class="item21013">
-							              <a href="NewBlank.aspx?m=33101" title=""> Blogs</a></div>
+							              <a href="NewBlank.aspx?m=33101" title=""> Comment</a></div>
 					             
 							           <div id="item3575" class="item21013">
 							              <a href="historicaldictionary.aspx?m=3575" title=""> Historical Dictionary</a></div>
@@ -261,10 +290,10 @@ pageTracker._trackPageview();
 							              <a href="OnThisDay.aspx?m=398" title=""> On This Day</a></div>
 					             
 							           <div id="item30149" class="item21013">
-							              <a href="MainArticle.aspx?m=30149" title=""> Links</a></div>
+							              <a href="NewBlank.aspx?m=30149" title=""> Links</a></div>
 					             
 							           <div id="item6325" class="item19965">
-							              <a href="contactus.aspx?m=6325" title=""> About Us</a></div>
+							              <a href="NewBlank.aspx?m=6325" title=""> About Us</a></div>
 					             
 							           <div id="item30030" class="item6325">
 							              <a href="NewBlank.aspx?m=30030" title=""> Register for Free Newsletter + Articles</a></div>
@@ -413,7 +442,7 @@ pageTracker._trackPageview();
 
 
 	
-							  <a href="http://hnn.us/" target="_blank"><img alt="" width="175" height="300" src="HNN-large_9541_2F5Z36.jpg.img" border="0" class="dmRelatedMediaImage"></a>
+							  <a href="http://www.historytoday.com/Products.aspx?m=33618&amp;amid=30288624" target="_blank"><img alt="" width="175" height="414" src="Save-10-Right-Banner_10196_41454D.jpg.img" border="0" class="dmRelatedMediaImage"></a>
 							  <div style="clear"></div>	
 						</div>
 					</div>
