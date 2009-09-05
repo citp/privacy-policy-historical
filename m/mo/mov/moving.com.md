@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the moving.com privacy policy that was archived on 2009-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090223163121id_/http%3A//www.moving.com/about-us/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moving.com privacy policy that was archived on 2009-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090905171441id_/http%3A//www.moving.com/about-us/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Moving.com
 
-|  | 
+|  |  | 
 
 Privacy Policy |  | 
 
