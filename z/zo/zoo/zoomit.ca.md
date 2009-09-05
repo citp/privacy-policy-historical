@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoomit.ca privacy policy that was archived on 2009-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090512003213id_/http%3A//www.zoomit.ca/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoomit.ca privacy policy that was archived on 2009-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090905071009id_/http%3A//www.zoomit.ca/privacy.php) for the most accurate reproduction.*
 
 # Zoomit Canada / Privacy Policy
 
