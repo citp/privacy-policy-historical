@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplyaudiobooks.com privacy policy that was archived on 2008-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080624071429id_/http%3A//www.simplyaudiobooks.com/Privacy_Policy/dp/33) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplyaudiobooks.com privacy policy that was archived on 2009-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090905165652id_/http%3A//www.simplyaudiobooks.com/privacy) for the most accurate reproduction.*
 
 # Simply Audiobooks - Privacy Policy
 
@@ -10,11 +10,11 @@ This policy may change, so please refer back to it periodically. If you use any 
 
 ### Background
 
-We use your email address to inform you of membership and shipment details. We may also send you newsletters, promotional announcements and consumer surveys. You can [unsubscribe](http://www.simplyaudiobooks.com//lp_unsubscribe/dp/34/) from these messages here. Occasionally, we send our customers postal mail, using the shipping address provided.
+We use your email address to inform you of membership and shipment details. We may also send you newsletters, promotional announcements and consumer surveys. You can unsubscribe from these emails at any time by clicking on the unsubscribe link located at the bottom of every email. Occasionally, we send our customers postal mail, using the shipping address provided.
 
 ### Use of Information
 
-We use your telephone number only if there is an order-related issue, not for marketing purposes. Our server stores your membership and shipping information so that placing future orders will be quicker and easier.
+We use your telephone number only if there is an order-related issue, and occasionally to welcome new members or notify you of an account suspension; we will not phone you for marketing purposes. Our server stores your membership and shipping information so that placing future orders will be quicker and easier.
 
 Simply Audiobooks also offers an Affiliate program. The information collected from our affiliates is used strictly for that program; none of this information is used for general marketing purposes.
 
@@ -34,4 +34,4 @@ For transmitting your personal information to us, we use a secure server (SSL), 
 
 * * *
 
-_Last updated April 2006 © Simply Audiobooks, Inc._
+_Last updated August 2008 © Simply Audiobooks, Inc._
