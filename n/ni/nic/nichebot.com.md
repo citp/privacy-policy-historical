@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nichebot.com privacy policy that was archived on 2009-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090208224842id_/http%3A//www.nichebot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nichebot.com privacy policy that was archived on 2009-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090906190018id_/http%3A//www.nichebot.com/privacy) for the most accurate reproduction.*
 
 # 
 
