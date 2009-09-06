@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bournemouth.ac.uk privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419030801id_/http%3A//www.bournemouth.ac.uk/privacy%3Fsrclnk%3Dhome) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bournemouth.ac.uk privacy policy that was archived on 2009-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090906143101id_/http%3A//www.bournemouth.ac.uk/privacy%3Fsrclnk%3Dhome) for the most accurate reproduction.*
 
 # Bournemouth University | About the University | Privacy policy
 
