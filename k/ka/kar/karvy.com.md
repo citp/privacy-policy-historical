@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the karvy.com privacy policy that was archived on 2009-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090217134953id_/http%3A//karvy.com/v2/showPage.asp%3Fpage%3DprivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karvy.com privacy policy that was archived on 2009-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090907003830id_/http%3A//www.karvy.com/v2/showPage.asp%3Fpage%3DprivacyPolicy.asp) for the most accurate reproduction.*
 
 # KARVY :: Bringing industry, finance and people together :: Stock broking company India, online share trading, stock broking franchise
 
