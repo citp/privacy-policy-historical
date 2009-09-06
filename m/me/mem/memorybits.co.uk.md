@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the memorybits.co.uk privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617194121id_/http%3A//www.memorybits.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memorybits.co.uk privacy policy that was archived on 2009-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090906095510id_/http%3A//www.memorybits.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Memorybits.co.uk
 
@@ -21,5 +21,3 @@ We may use technology to track the patterns of behaviour of visitors to our site
 
 We employ other companies & individuals to perform functions on our behalf. Those companies and individuals will have access to personal information needed to perform those functions, but may not use it for any other purposes and are required to process the data in accordance with Data Protection legislation. **  
 **
-
-This website and its content is copyright of MemoryBits Jersey International Ltd - © MemoryBits Jersey International Ltd 2009. All rights reserved | [Useful Links](http://www.memorybits.co.uk/links/ "Useful Links") | International Sites: [Germany](http://www.zoombits.de/)
