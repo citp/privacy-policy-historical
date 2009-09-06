@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurofoxes.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419062446id_/http%3A//www.eurofoxes.com/n1/privacy.php%3Fnats%3DMzE1MjU6MTA6Mw%2C0%2C0%2C0%2C0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurofoxes.com privacy policy that was archived on 2009-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090907001727id_/http%3A//www.eurofoxes.com/n1/privacy.php%3Fnats%3DMzE1MjU6MTA6Mw%2C0%2C0%2C0%2C0) for the most accurate reproduction.*
 
 # Twistys LLC. Privacy Policy
 
