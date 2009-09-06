@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the duarte.com privacy policy that was archived on 2009-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090226205133id_/http%3A//www.duarte.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duarte.com privacy policy that was archived on 2009-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090907002424id_/http%3A//www.duarte.com/privacy.html) for the most accurate reproduction.*
 
 # Duarte » Privacy Policy
 
