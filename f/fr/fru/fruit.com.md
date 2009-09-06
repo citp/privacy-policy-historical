@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fruit.com privacy policy that was archived on 2009-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090521091503id_/http%3A//www.fruit.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fruit.com privacy policy that was archived on 2009-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090906193657id_/http%3A//www.fruit.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Fruit of the Loom Legal Disclaimer
 
