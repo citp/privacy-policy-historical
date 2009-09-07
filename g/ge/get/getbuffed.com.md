@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the getbuffed.com privacy policy that was archived on 2009-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090424004938id_/http%3A//www.getbuffed.com/getbuffed/content/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getbuffed.com privacy policy that was archived on 2009-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090907172650id_/http%3A//www.getbuffed.com/privacy-policy.html) for the most accurate reproduction.*
 
-# get buffed!
-
-**buffed** [](http://www.buffed.de/ "http://www.buffed.de") [](http://www.buffed.ru/ "http://www.buffed.ru")
-
-  
-
+# getbuffed.com - Privacy Policy
 
 **Privacy Statement**
 
@@ -30,5 +25,4 @@ The getbuffed.com Website (www.getbuffed.com) part of Computec Media AG. Protect
   7. **Changes to this Statement.** Computec Media AG reserves the right to change this Online Privacy Statement at any time. Any such changes will be posted in this Privacy Statement. 
   8. **Applicable laws.** Computec Media AG will protect your Personal Information in accordance with the laws of Germany. 
 
-  
 
