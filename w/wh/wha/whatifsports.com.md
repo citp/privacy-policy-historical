@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the whatifsports.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216170323id_/http%3A//whatifsports.com/locker/privacy.shtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatifsports.com privacy policy that was archived on 2009-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090907131650id_/http%3A//www.whatifsports.com/locker/privacy.shtm) for the most accurate reproduction.*
 
 # WhatIfSports.com: Privacy Statement
-
-## WhatIfSports Statement of Privacy
 
 The Internet is an amazing tool. It has the power to change the way we live, and we're starting to see that potential today. With only a few mouse-clicks, you can follow the news, look up facts, buy goods and services, and communicate with others from around the world--even people you might never have met. It's important to WhatIfSports.com to help its customers retain their privacy when they take advantage of all the Internet has to offer.
 
@@ -67,7 +65,7 @@ Personal Information is collected by specifically requesting it from you. Genera
 
 [top]
 
-#### What about "Cookies"?
+#### What are "Cookies?"
 
 "Cookies" are pieces of information that a Web site transfers to your computer's hard disk for record-keeping purposes. "Cookies" can make the Web more useful by storing information about your preferences on a particular site. The use of "Cookies" is an industry standard, and many major Web sites use them to provide useful features for their customers. "Cookies" in and of themselves do not personally identify users, although they do identify a user's computer. Most browsers are initially set to accept "Cookies". If you'd prefer, you can set yours to refuse "Cookies". However, you may not be able to take full advantage of a Web site if you do so. For example, the subscription services of WhatIfSports.com may only be accessed if you accept "Cookies".
 
