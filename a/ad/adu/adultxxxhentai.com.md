@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultxxxhentai.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419001146id_/http%3A//www.adultxxxhentai.com/preview/index.php%3Fpage_flag%3DPP) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultxxxhentai.com privacy policy that was archived on 2009-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090907171919id_/http%3A//www.adultxxxhentai.com/preview/index.php%3Fpage_flag%3DPP) for the most accurate reproduction.*
 
 # Adult XXX Hentai - Welcome Page
 
@@ -8,4 +8,4 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 We do not collect any customer information. Please see your selected payment processor's Privacy Policy concerning collected information. This policy can be seen once you've selected a payment option, before providing any personnal information.
 
-For more info [contact us](https://web.archive.org/web/20090419001146id_/http%3A//www.adultxxxhentai.com/preview/index.php?page_flag=Contact)
+For more info [contact us](https://web.archive.org/web/20090907171919id_/http%3A//www.adultxxxhentai.com/preview/index.php?page_flag=Contact)
