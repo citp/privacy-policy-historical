@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelweekly.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620002805id_/http%3A//adhost1.ntmllc.com/twxads/privacy_0404.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelweekly.com privacy policy that was archived on 2009-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090907023650id_/http%3A//adhost1.ntmllc.com/twxads/privacy_0404.htm) for the most accurate reproduction.*
 
 # 
 
