@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the africaa-z.co.za privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531042844id_/http%3A//www.africaa-z.co.za/index.php/Home/Home/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the africaa-z.co.za privacy policy that was archived on 2009-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090908005713id_/http%3A//www.africaa-z.co.za/index.php/Home/Home/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Home | Home Africa A-Z African Safaris and Vacations
+# Africa A-Z Privacy Policy Africa A-Z African Safaris and Vacations
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and to gather broad demographic information.
 
