@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the costumekingdom.com privacy policy that was archived on 2009-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090618191847id_/http%3A//www.costumekingdom.com/t-privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the costumekingdom.com privacy policy that was archived on 2009-09-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090907091922id_/http%3A//www.costumekingdom.com/t-privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>Privacy Policy</title>
-    <link rel="shortcut icon" href="http://www.costumekingdom.com/skins/Skin_1/images/favicon.ico" type="image/vnd.microsoft.icon">
+    <link rel="shortcut icon" href="skins/Skin_1/images/favicon.ico" type="image/vnd.microsoft.icon">
     <script type="text/JavaScript">
 <!--
         function MM_openBrWindow(theURL, winName, features) { //v2.0
@@ -12,7 +12,7 @@
         }
 //-->
     </script>
-    <!-- Site Director Analytics code --><script type="text/javascript" id="wa_u" src="https://loc1.hitsprocessor.com/track.js"></script><!-- End Site Director Analytics code -->
+    <!-- Site Director Analytics code --><script type="text/javascript" id="wa_u"></script><!-- End Site Director Analytics code -->
     
     <meta name="description" content="Halloween Costumes for the entire family. Costume Kingdom stocks adult costumes, kids costumes, Halloween masks and Halloween wigs. From Sexy Halloween Costumes to Pets Costumes we have them all.">
     <meta name="keywords" content="Halloween Costumes, Kids costumes, adult costumes, Halloween masks, Halloween wigs, sexy costumes">
@@ -21,7 +21,7 @@
     <link rel="stylesheet" href="skins/Skin_1/opcheckout.css" type="text/css">
     <link rel="stylesheet" href="skins/Skin_1/Autocompleter.css" type="text/css" media="screen">
     <!--[if lte IE 6]><link rel="stylesheet" href="skins/Skin_1/multibox/ie6.css" type="text/css" media="all" /><![endif]-->
-    <script typle="text/javascript" src="skins/skin_1/xmlpackages/reductivejs/categorylogic.js"></script>
+    <script type="text/javascript" src="skins/skin_1/xmlpackages/reductivejs/categorylogic.js"></script>
     <script type="text/javascript" src="jscripts/formValidate.js"></script>
     
     <script type="text/javascript" src="skins/Skin_1/library/tabber.js"></script>
@@ -29,7 +29,6 @@
     <script type="text/javascript" src="skins/Skin_1/jscripts/mootools-1.2-more.js"></script>
     <script type="text/javascript" src="skins/Skin_1/jscripts/Autocompleter.js"></script>
     <script type="text/javascript" src="skins/Skin_1/jscripts/Observer.js"></script>
-
     <script type="text/javascript">
     <!--
         function popWinSize(inWinPrefix) {
@@ -44,8 +43,8 @@
 <![endif]-->
 
     <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
     </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 
 </head>
@@ -59,9 +58,10 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
                     </div>
                     <div id="PromoMessage">
                         </div>
-                    <div id="topcenter" style="overflow: visible">
-                        <div id="shippingpromo">
-                        </div>
+                    <div id="topcenter" style="overflow: visible;">
+                        <img src="skins/Skin_1/CustomImages/freeshipping.gif" alt="Free Shipping">
+                        <a href="t-returns.aspx"><img src="skins/Skin_1/CustomImages/returns.gif" alt="No Hassle Returns"></a>
+                         <a href="t-shipping.aspx"><img src="skins/Skin_1/CustomImages/worldwide.gif" alt="Worldwide Shipping"></a>
                     </div>
                     <div id="topright">
                         <div id="miniCartHeader">
@@ -136,38 +136,53 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
     <option value=",453,">Adult Costumes</option>
     <option value=",465,">Costume Accessories</option>
     <option value=",532,">Couples Costumes</option>
-    <option value=",607,">Featured Items</option>
     <option value=",494,">Kid's Costumes</option>
     <option value=",474,">Masks and Wigs</option>
     <option value=",271,">Pet Costumes</option>
     <option value=",629,">Size</option></select><a href="javascript:topSearch();" style="float: left; margin-top: 5px; margin-left: 5px;" id="TopSearchLink"><img class="button" src="skins/Skin_1/CustomImages/searchgobtn.jpg" style="cursor: hand;" width="69" height="38" align="absmiddle" border="0"></a></form><script type="text/javascript">
 			  function topSearch()
 			  {
-				var term = document.getElementById('ProdAutoSearch').value;
-				
-				var catselect = document.getElementById('categorySelect');
-				var catid = catselect.options[catselect.selectedIndex].value;
-				if (term.length > 0)
-				{
-					term = term.replace(/ /g, "+");
-					var searchurl = "search.aspx?searchterm=" + term;
-					if (catid != ',')
-					{
-						searchurl += "&sections=" + catid;
-					}
-					document.location.href = searchurl;
-				}
-				else
-				{
-					alert("Please enter a search term.");
-				}
-				return false;
+				  var term = document.getElementById('ProdAutoSearch').value;
+  				
+				  var catselect = document.getElementById('categorySelect');
+				  var catid = catselect.options[catselect.selectedIndex].value;
+				  if (term.length > 0)
+				  {
+					  term = term.replace(/ /g, "+");
+					  var searchurl = "search.aspx?searchterm=" + term;
+					  if (catid != ',')
+					  {
+						  searchurl += "&sections=" + catid;
+					  }
+					  document.location.href = searchurl;
+				  }
+				  else
+				  {
+            if (catselect.selectedIndex == 0)
+            {
+					    alert("Please enter a search term.");
+            }
+            else
+            {
+              var catid = catselect.options[catselect.selectedIndex].value;
+              catid = catid.replace(/,/g, '').replace(' ', '');
+              document.location.href = 'c-' + catid + '-.aspx?cat=all';
+            }
+				  }
 			  }
 		  </script>
                     <div id="SearchBarWrap">
-                        <img src="skins/Skin_1/CustomImages/question.gif" style="float: left; display: inline; position: relative; margin-left: 10px; padding-top: 6px;">
-<!--<img src="skins/Skin_1/CustomImages/chatbtn.jpg" style="float: left; display: inline; position: relative; margin-left: 10px; padding-top: 6px;">-->
+                        <img src="skins/Skin_1/CustomImages/question.gif" style="float: left; display: inline; position: relative; margin-left: 10px; padding-top: 9px;">
 
+
+                        <div style="float: right;">
+                        <img src="skins/Skin_1/customimages/chaticon.gif" alt="chat operator picture">
+                        </div>
+                        <div id="liveChatWrap" style="padding-top: 8px;">
+                        <!-- BEGIN LIVECHAT button tag. See also www.livechatinc.com -->
+                                    <img alt="chat" src="https://chat.livechatinc.net/licence/1024204/button.cgi?lang=en&amp;groups=0" style="cursor:pointer;cursor:hand" onclick="window.open('https://chat.livechatinc.net/licence/1024204/open_chat.cgi?groups=0'+'&amp;s=1&amp;lang=en&amp;dc='+escape(document.cookie+';l='+document.location+';r='+ document.referer+';s='+typeof lc_session),'Czat_1024204','width=604,height=247,resizable=no,scrollbars=no,status=1');">
+                        <!-- END LIVECHAT button tag. See also www.livechatinc.com -->
+                        </div>
                     </div>
                 </div>
                 <div id="bodywrapper">
@@ -180,23 +195,35 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
                         
                         <div id="footer">
                             <div class="copyright">
-© Costume Kingdom Inc. All rights reserved. <a href="t-privacy.aspx">Privacy Policy</a>
-<br>
+© Costume Kingdom Inc. All rights reserved.
+</div>
+<a href="t-privacy.aspx">Privacy Policy</a>
+<br style="clear: both;">
+<div style="float: left;">
 <a href="http://blog.costumekingdom.com">CK Blog</a> | <a href="http://gallery.costumekingdom.com">
-CK Photo Contest</a> | <a href="http://www.costumekingdom.com">Halloween Costumes</a>
-| <a href="http://www.costumekingdom.com/c-641-themes.aspx">Theme Costumes</a> |
+CK Photo Contest
+</a> | <a href="http://www.costumekingdom.com">Halloween Costumes 2009</a>
+| <a href="http://www.costumekingdom.com/c-641-themes.aspx">Best Halloween Costume Ideas</a> |
 <a href="http://www.costumekingdom.com/c-732-Christmas-costumes.aspx">Christmas Costumes</a>
 <br>
 <a href="http://www.costumekingdom.com/c-494-kids-costumes.aspx">Kids Costumes</a>
 | <a href="http://www.costumekingdom.com/c-453-adult-costumes.aspx">Adult Costumes</a>
 | <a href="http://www.costumekingdom.com/c-474-masks-and-wigs.aspx">Halloween Masks</a>
-| <a href="http://www.costumekingdom.com/c-532-couples-costumes.aspx">Couples Costumes</a>
+| <a href="http://www.costumekingdom.com/c-532-couples-costumes.aspx">Halloween Costumes for Couples</a>
 | <a href="http://www.costumekingdom.com/c-271-pet-costumes.aspx">Dog Costumes</a>
+<br>
+<a href="http://www.costumekingdom.com/t-shipping.aspx">Shipping</a>
+| <a href="http://www.costumekingdom.com/t-returns.aspx">Return Policy</a>
+| <a href="http://www.costumekingdom.com/t-faq.aspx">FAQ's</a>
+| <a href="http://www.costumekingdom.com/t-contact.aspx">Contact Us</a>
+| <a href="http://www.costumekingdom.com/t-RecommendedSites.aspx">Costume Kingdom Partners</a>
+<br>
 </div>
 <div class="mcafee">
 <!-- START SCANALERT CODE -->
 <a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.costumekingdom.com">
-<img src="//images.scanalert.com/meter/www.costumekingdom.com/32.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;" width="115" border="0" height="30"></a>
+<img src="//images.scanalert.com/meter/www.costumekingdom.com/32.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;" border="0" width="115" height="30">
+</a>
 <!-- END SCANALERT CODE -->
 </div>
 
@@ -229,49 +256,30 @@ CK Photo Contest</a> | <a href="http://www.costumekingdom.com">Halloween Costume
             else
                 return true;
         }
+
     </script>
 
     
+    
+    <!-- BEGIN LIVECHAT track tag. See also www.livechatinc.com -->
+<script language="JavaScript" src="https://chat.livechatinc.net/licence/1024204/script.cgi?lang=en&amp;groups=0"></script>
+<!-- END LIVECHAT track tag. See also www.livechatinc.com -->
     <script type="text/javascript">
 var pageTracker = _gat._getTracker("UA-3931844-1");
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>
 
-    <!-- Start Quantcast tag -->
 
-    <script type="text/javascript">        //<![CDATA[
-        wa_account = "costumekingdom"; wa_location = 102;
-        wa_pageName = location.pathname + location.search;  // you can customize the page name here
-        document.cookie = '__support_check=1'; wa_hp = 'http';
-        wa_rf = document.referrer; wa_sr = window.location.search;
-        wa_tz = new Date(); if (location.href.substr(0, 6).toLowerCase() == 'https:')
-            wa_hp = 'https'; wa_data = '&an=' + escape(navigator.appName) +
-'&sr=' + escape(wa_sr) + '&ck=' + document.cookie.length +
-'&rf=' + escape(wa_rf) + '&sl=' + escape(navigator.systemLanguage) +
-'&av=' + escape(navigator.appVersion) + '&l=' + escape(navigator.language) +
-'&pf=' + escape(navigator.platform) + '&pg=' + escape(wa_pageName);
-        wa_data = wa_data + '&cd=' +
-screen.colorDepth + '&rs=' + escape(screen.width + ' x ' + screen.height) +
-'&tz=' + wa_tz.getTimezoneOffset() + '&je=' + navigator.javaEnabled();
-        wa_img = new Image(); wa_img.src = wa_hp + '://loc1.hitsprocessor.com/statistics.asp' +
-'?v=1&s=' + wa_location + '&acct=' + wa_account + wa_data + '&tks=' + wa_tz.getTime();
-        document.getElementById('wa_u').src = wa_hp + '://loc1.hitsprocessor.com/track.js'; //]]>
-    </script>
 
     <script type="text/javascript" src="skins/Skin_1/jscripts/AutoSearch.js"></script>
-    <script type="text/javascript" src="https://secure.quantserve.com/quant.js"></script>
 
-    <script type="text/javascript">_qacct = "p-c3CancSOfanqA"; quantserve();
+
+
+    <script type="text/javascript">
     doSubmit = new Function("var objPwd1 = $('MultiBoxContentContainer').getElement('input[name=txtVtxPasswordPop1]');var objPwd2 = $('MultiBoxContentContainer').getElement('input[name=txtVtxPasswordPop2]');document.forms._ctl1.txtVtxPassword1.value = objPwd1.value;document.forms._ctl1.txtVtxPassword2.value = objPwd2.value;document.forms._ctl1.ContinuePassword.click();");
     </script>
 
-    <noscript>
-        <a href="https://www.quantcast.com/p-c3CancSOfanqA" target="_blank">
-            <img src="//secure.quantserve.com/pixel/p-c3CancSOfanqA.gif" style="display: none;"
-                border="0" height="1" width="1" alt="Quantcast" /></a>
-    </noscript>
-    <!-- End Quantcast tag -->
 
 
 </body></html>
