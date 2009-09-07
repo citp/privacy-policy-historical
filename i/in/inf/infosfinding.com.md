@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infosfinding.com privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505072511id_/http%3A//www.infosfinding.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infosfinding.com privacy policy that was archived on 2009-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090907102128id_/http%3A//www.infosfinding.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Infosfinding.com Your Search Engine
 
@@ -32,4 +32,4 @@ To protect your privacy and security, we will take reasonable steps to verify yo
 
 **How to Contact Us**
 
-Should you have other questions or concerns about this privacy policy, please contact us [Here](https://web.archive.org/web/20090505072511id_/http%3A//www.infosfinding.com/index.php?page=contactus). 
+Should you have other questions or concerns about this privacy policy, please contact us [Here](https://web.archive.org/web/20090907102128id_/http%3A//www.infosfinding.com/index.php?page=contactus). 
