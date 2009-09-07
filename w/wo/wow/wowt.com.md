@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wowt.com privacy policy that was archived on 2009-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090427235402id_/http%3A//www.wowt.com/unclassified/647.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowt.com privacy policy that was archived on 2009-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090907063638id_/http%3A//www.wowt.com/unclassified/34218884.html) for the most accurate reproduction.*
 
 # GRAY TELEVISION, INC. PRIVACY POLICY AND YOUR PRIVACY RIGHTS
 
@@ -36,7 +36,7 @@ Comments/Questions. We afford users an opportunity to submit comments or questio
 
 We reserve the right to collect Personal Information using any new technology yet to be developed and to use such technology to provide new services and features to you, as well as for marketing and promotional purposes. Specific information regarding your choice to Opt-out to such use, or for sharing your Personal Information with Advertisers, will be provided once the new technology, service, or feature is introduced. 
 
-On occasion, GTGI or one of its Network Stations may share your Personal Information with our Advertisers. You will have an opportunity to “Opt-out” of such sharing at the time of registration for the event or feature or by contacting the Service at [LISA – INSERT PROPER EMAIL ADDRESS FOR A PERSON TO OPT-OUT]. 
+On occasion, GTGI or one of its Network Stations may share your Personal Information with our Advertisers. You will have an opportunity to “Opt-out” of such sharing at the time of registration for the event or feature or by contacting the Service at lisa.bishop@gray.tv 
 
 We also provide you with an option to “Opt-out” of receiving advertising and promotional email from us about GTGI, its Stations or our Advertisers in compliance with federal law by installing an Opt-out mechanism with all such commercial email messages. You must use the designated method in the email message to notify us of your Opt-out request, as we cannot guarantee that other methods of notification will be effective or timely. Please be aware that we may continue to contact you via email for administrative, transactional or informational purposes, including follow-up messages regarding contests you have entered or other transactions you have undertaken. By law, such messages are not considered to be commercial email. 
 
