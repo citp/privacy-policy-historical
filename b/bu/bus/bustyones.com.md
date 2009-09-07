@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bustyones.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418214228id_/http%3A//www.bustyones.com/n1/privacy.php%3Fnats%3DMzE1MjU6MTA6Mg%2C0%2C0%2C0%2C0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bustyones.com privacy policy that was archived on 2009-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090907025706id_/http%3A//www.bustyones.com/n1/privacy.php%3Fnats%3DMzE1MjU6MTA6Mg%2C0%2C0%2C0%2C0) for the most accurate reproduction.*
 
 # Twistys LLC. Privacy Policy
 
