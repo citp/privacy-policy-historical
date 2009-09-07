@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cheaptickets.com privacy policy that was archived on 2009-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090215112730id_/http%3A//www.cheaptickets.com/pagedef/content/legal/privacy05.jsp%3FpopupsDisabled%3Dfalse) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheaptickets.com privacy policy that was archived on 2009-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090907153435id_/http%3A//www.cheaptickets.com/pagedef/content/legal/privacy05.jsp%3FpopupsDisabled%3Dfalse) for the most accurate reproduction.*
 
 # Privacy Policy on CheapTickets
 
 [](http://www.truste.org/ivalidate.php?url=www.cheaptickets.com&sealid=101)
 
-Effective January 28, 2009
+Effective June 30, 2009
 
 ## CheapTickets® Privacy Policy
 
@@ -44,7 +44,7 @@ The remainder of this policy describes our Personal Information handling practic
 
 > In this Privacy Policy, terms that commence with a capital letter are defined in this Section or in the preamble.
 > 
-> **"Guest"** means an individual who can search and purchase Products or Services on the Site without being a Member.
+> **"Guest"** means an individual who can search and book Products or Services on the Site without being a Member.
 > 
 > **"Member"** means an individual who has registered with the Site. Members choose a Member ID and a password.
 > 
@@ -56,7 +56,7 @@ The remainder of this policy describes our Personal Information handling practic
 > 
 > **"Products or Services"** means the airline travel, hotel accommodation, car rental, ground transportation, tours, theater tickets, attractions, travel insurance, and other items available from the Site.
 > 
-> To **"Purchase"** means to book, reserve or purchase.
+> To **"Book"** means to reserve.
 > 
 > **"Session Data"** means usage information, such as the type of Internet browser and operating system an individual use, the domain name of the site from which the individual came, the date, time and duration of the visit, number of visits, average time spent on the individual's site, pages viewed, domain name of the individual, and number of cookies accumulated.
 > 
@@ -70,11 +70,11 @@ The remainder of this policy describes our Personal Information handling practic
 > 
 > **Minors**
 >
->> Minors (as defined under the laws of their jurisdiction or residence) are not eligible to register for, use or Purchase the Products or Services available on our Site. We do not knowingly collect Personal Information from any Minor, and will not use this information if we discover that it has been provided by a Minor.
+>> Minors (as defined under the laws of their jurisdiction or residence) are not eligible to register for, use or Book the Products or Services available on our Site. We do not knowingly collect Personal Information from any Minor, and will not use this information if we discover that it has been provided by a Minor.
 > 
 > **Other Travelers or Contacts**
 >
->> If you Purchase Products or Services for other travelers using your Member ID and password, you must make sure that you have the right to do so. By providing the Personal Information of another traveler, you represent that you have all necessary authority and/or have obtained all necessary consents from such person to enable us to collect, use and disclose his or her Personal Information as set forth in this Privacy Policy.
+>> If you Book Products or Services for other travelers using your Member ID and password, you must make sure that you have the right to do so. By providing the Personal Information of another traveler, you represent that you have all necessary authority and/or have obtained all necessary consents from such person to enable us to collect, use and disclose his or her Personal Information as set forth in this Privacy Policy.
 
 3\. 
 
@@ -96,19 +96,19 @@ _What Personal Information we collect_
 >> 
 >> You may also elect to indicate your preferences for seat selection or meal requests, or provide details about your participation in loyalty or awards programs and applicable membership numbers, and other ticketing options.
 > 
-> **When you Purchase Products or Services as a Member**
+> **When you Book Products or Services as a Member**
 >
->> When you Purchase Products or Services from our Site as a Member, you must provide payment or other necessary information. This includes, for example, billing information, driver information or similar information as required by the travel service provider(s). 
+>> When you Book Products or Services from our Site as a Member, you must provide payment or other necessary information. This includes, for example, billing information, driver information or similar information as required by the travel service provider(s). 
 > 
-> **When you Purchase Products or Services for a third party**
+> **When you Book Products or Services for a third party**
 >
->> When you Purchase Products or Services for a third party using your Member ID and password, we will collect that third party's name and contact information, and other information as required by the travel service provider(s), so that we can complete the booking.
+>> When you Book Products or Services for a third party using your Member ID and password, we will collect that third party's name and contact information, and other information as required by the travel service provider(s), so that we can complete the booking.
 > 
 > **When you use the Site as a "Guest"**
 >
 >> If you are not a Member, you may elect to use our Site as a Guest. 
 >> 
->> If you Purchase Products or Services as a Guest, you must provide Personal Information to complete the booking (for example name, phone number or billing information) as required by the travel service provider(s). You must also provide an e-mail address, so that we can send you our welcome e-mail and a confirmation of the Purchase. With the confirmation, we will provide you with a temporary password so that you can return to the Site if you wish to review information about your Purchase.
+>> If you Book Products or Services as a Guest, you must provide Personal Information to complete the booking (for example name, phone number or billing information) as required by the travel service provider(s). You must also provide an e-mail address, so that we can send you our welcome e-mail and a confirmation of the Book. With the confirmation, we will provide you with a temporary password so that you can return to the Site if you wish to review information about your Book.
 > 
 > **When you "Subscribe"**
 >
@@ -130,7 +130,7 @@ _What Personal Information we collect_
 > 
 > **When you call or write to our Customer Service**
 >
->> When you call or write to our Customer Service, we collect contact information (for example name, phone number, mailing address or e-mail address) and information about the relevant Purchase as necessary to assist you. For example, if you call for assistance with a preexisting Purchase, or to make a Purchase, we may request your contact and billing information. 
+>> When you call or write to our Customer Service, we collect contact information (for example name, phone number, mailing address or e-mail address) and information about the relevant Booking as necessary to assist you. For example, if you call for assistance with a preexisting Booking, or to make a Booking, we may request your contact and billing information. 
 > 
 > **When we send e-mails or e-newsletters**
 >
@@ -147,7 +147,7 @@ _What Personal Information we collect_
 > 
 > **Address Verification**
 >
->> If you purchase travel or other products or services from us, we use third parties in order to verify your address information during the credit card authorization process. 
+>> If you book travel or other products or services from us, we use third parties in order to verify your address information during the credit card authorization process. 
 > 
 > **Enhancement of Profile Information**
 >
@@ -215,7 +215,7 @@ _What Personal Information we collect_
 >>
 >>> From time to time, we may disclose your Personal Information as follows:
 >>> 
->>>   * To those travel service providers with which you make arrangements through our Site, for example airlines, car rental, hotel, ground transportation, theater, attraction or travel insurance. We provide them with the Personal Information needed to make and complete the purchase, booking or reservation. 
+>>>   * To those travel service providers with which you make arrangements through our Site, for example airlines, car rental, hotel, ground transportation, theater, attraction or travel insurance. We provide them with the Personal Information needed to make and complete the booking or reservation. 
 >>>   * To organizations that perform services for or on behalf of CheapTickets, for example to provide customer service, deliver tickets, ship items, process credit cards, for research, marketing, data processing, to measure the use of our Site, to facilitate usage by a visitor or to offer credit card services or evaluate your creditworthiness. We will share with these companies only that Personal Information which they need to work on our behalf. Some of these service providers may be located in countries outside the US and outside the European Economic Area ("EEA"). Your Personal Information will be provided to these organizations only if they agree to use such information solely for the purpose of providing services to CheapTickets, and under the instructions of CheapTickets, and with respect to that information, to act in a manner consistent with the relevant principles articulated in this Policy. By submitting your personal data, you agree to the transfer, storing and processing of your data outside the US and outside the EEA. 
 >>>   * We may collaborate with other companies to offer you additional Products or Services, for example, through sweepstakes, raffles and promotions. We will share Personal Information that is necessary for these other companies to provide the Products or Services that you have requested. 
 >>> 
@@ -253,7 +253,7 @@ _What Personal Information we collect_
 >>>> 
 >>>> My Trips contains information about your current, canceled, or past trips.
 >>>> 
->>>> My Account contains your name, e-mail address, password and departure city from which you usually travel. It may also contain other information so that you do not need to re-enter it each time you Purchase a Product or Service. For example, My Account may contain your billing information unless you tell us not to store it. It may also contain your preferences for seat selection or special meals, details about your participation in loyalty or awards programs and applicable membership numbers and other travel preferences.
+>>>> My Account contains your name, e-mail address, password and departure city from which you usually travel. It may also contain other information so that you do not need to re-enter it each time you Book a Product or Service. For example, My Account may contain your billing information unless you tell us not to store it. It may also contain your preferences for seat selection or special meals, details about your participation in loyalty or awards programs and applicable membership numbers and other travel preferences.
 >>>> 
 >>>> We also keep in My Account all other information that you have elected to provide us, such as gender, favorite activities and lifestyle preferences, and favorite destinations.
 >>>> 
@@ -269,7 +269,7 @@ _What Personal Information we collect_
 >>>> 
 >>>> **Retention and storage**
 >>>> 
->>>> We will retain your Personal Information in our databases in accordance with our records management policy and applicable laws. This period may extend beyond the end of your relationship with us, but it will be only as long as it is necessary for us to have sufficient information to respond to any issues that may arise later. For example, we may need or be required to retain information to allow you to obtain credit for a trip you Purchased but had to cancel. We may also need to retain certain information to prevent fraudulent activity; to protect ourselves against liability, permit us to pursue available remedies or limit any damages that we may sustain; or if we believe in good faith that a law, regulation, rule or guideline requires it. 
+>>>> We will retain your Personal Information in our databases in accordance with our records management policy and applicable laws. This period may extend beyond the end of your relationship with us, but it will be only as long as it is necessary for us to have sufficient information to respond to any issues that may arise later. For example, we may need or be required to retain information to allow you to obtain credit for a trip you Booked but had to cancel. We may also need to retain certain information to prevent fraudulent activity; to protect ourselves against liability, permit us to pursue available remedies or limit any damages that we may sustain; or if we believe in good faith that a law, regulation, rule or guideline requires it. 
 >>>> 
 >>>> Your Personal Information will be stored in secured locations and on servers controlled by CheapTickets, located either at our offices or at the offices of our service providers as described in How we protect Personal Information .
 >> 
@@ -279,7 +279,7 @@ _What Personal Information we collect_
 >>
 >>> CheapTickets employs physical, administrative and technical safeguards to help protect the confidentiality and integrity of Personal Information and to reduce the risk of loss, misuse, unauthorized access disclosure or modification of Personal Information. When Personal Information is sent to our service providers, we require, in our contracts with them that they protect all Personal Information in a manner consistent with the principles articulated in this Privacy Policy.
 >>> 
->>> If you choose to contact CheapTickets through the Site, you should be aware that any information transmitted electronically via the World Wide Web might not be secure. CheapTickets assumes no liability for the loss of any information that you transmit to us via the World Wide Web. However, should you choose to pay by credit card when making a booking, reservation or purchase on the Site, your card details are encrypted for the transaction.
+>>> If you choose to contact CheapTickets through the Site, you should be aware that any information transmitted electronically via the World Wide Web might not be secure. CheapTickets assumes no liability for the loss of any information that you transmit to us via the World Wide Web. However, should you choose to pay by credit card when making a booking or reservation on the Site, your card details are encrypted for the transaction.
 >>> 
 >>> In communicating with you, we may send e-mail as unencrypted plain text because we are aware that most Members, Guests or Subscribers cannot readily process encrypted e-mail. This is done for your convenience, but with the security concern that, if misrouted or intercepted, it could be read more easily than encrypted e-mail.
 >> 
