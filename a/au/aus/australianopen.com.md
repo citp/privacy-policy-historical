@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the australianopen.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525064519id_/http%3A//www.australianopen.com/en_AU/info/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australianopen.com privacy policy that was archived on 2009-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090908061024id_/http%3A//www.australianopen.com/en_AU/info/privacy/index.html) for the most accurate reproduction.*
 
 # Australian Open Tennis Championships 2009 - The Grand Slam of Asia/Pacific - Official Site by IBM
 
