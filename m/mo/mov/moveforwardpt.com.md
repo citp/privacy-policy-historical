@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moveforwardpt.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420044009id_/http%3A//www.moveforwardpt.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moveforwardpt.com privacy policy that was archived on 2009-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090908152014id_/http%3A//www.moveforwardpt.com/privacy_policy) for the most accurate reproduction.*
 
 # Move Forward PT | How to Avoid Surgery
 
