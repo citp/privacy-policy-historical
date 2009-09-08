@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the younghollywood.com privacy policy that was archived on 2009-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090301173159id_/http%3A//www.younghollywood.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the younghollywood.com privacy policy that was archived on 2009-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090908030141id_/http%3A//www.younghollywood.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
