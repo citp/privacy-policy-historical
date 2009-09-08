@@ -1,33 +1,30 @@
-<!--The following is the downloaded HTML source of the flowserve.com privacy policy that was archived on 2009-05-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090516033755id_/http%3A//www.flowserve.com/Footer/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flowserve.com privacy policy that was archived on 2009-09-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090908090607id_/http%3A//www.flowserve.com/Footer/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-        <title>
+	<title>
 
 Flowserve Corporation - Privacy
 </title>
-        <link rel="stylesheet" href="/files/assets/css/reset-base-fonts-min.css" type="text/css">
-        <link rel="stylesheet" href="/files/assets/css/style.css" type="text/css">
-        <link rel="stylesheet" href="/files/assets/css/fls_override.css" type="text/css">
+	<link rel="stylesheet" type="text/css" href="/files/assets/css/reset-base-fonts-min.css">
+	<link rel="stylesheet" type="text/css" href="/files/assets/css/style.css">
+	<link rel="stylesheet" type="text/css" href="/files/assets/css/fls_override.css">
 
-	
+
 <link href="/vgn-ext-templating/common/styles/vgn-ext-templating.css" rel="stylesheet" type="text/css">
 
-	<noscript>In order to bring you the best possible user experience, this site uses Javascript. If you are seeing this message, it is likely that the Javascript option in your browser is disabled. For optimal viewing of this site, please ensure that Javascript is enabled for your browser.
-	</noscript>
-        <script src="/files/assets/js/jquery.js" type="text/javascript"></script>
-        <script src="/files/assets/js/jquery.gatracker.js" type="text/javascript"></script>
-        <script src="/files/assets/js/columnfix.js" type="text/javascript"></script>
-        <script src="/files/assets/js/core.js" type="text/javascript"></script>
-        <script src="/files/assets/js/tabs.js" type="text/javascript"></script>
-        <script type="text/javascript" src="/files/assets/js/fls_override.js"></script>
-        <!-- Vignette Application Portal 7.4 (build 582900) (JAR 7.4 SP2  2008-12-15 09:46:31 build 582900) -->
+	
+	<script type="text/javascript" src="/files/assets/js/fls_override.js"></script>
+	<script type="text/javascript" src="/files/assets/js/secondary-combined.js"></script>
 </head>
 <body>
     <div id="doc">
         <div id="hd">
-            <a href="/fls"><img id="fls_logo" alt="Flowserve Corporation Logo" src="/fls/assets/images/flowserve_logo.gif"></a>
+			<noscript>
+				<p>In order to bring you the best possible user experience, this site uses Javascript. If you are seeing this message, it is likely that the Javascript option in your browser is disabled. For optimal viewing of this site, please ensure that Javascript is enabled for your browser.</p>
+			</noscript>
+            <a href="/" title="Flowserve Corporate Homepage"><img id="fls_logo" alt="Flowserve Corporation Logo" src="/files/assets/images/flowserve_logo.gif"></a>
             
                 
                     
@@ -220,7 +217,7 @@ function submitSiteSearch() {
 -->
 
             <form id="lang_select" name="localeForm">
-                <select id="localeSelect" name="locale" onchange="forms.localeForm.submit()">
+                <select id="localeSelect" name="locale" onchange="switchLang();">
                     <option value="Language" selected="true">Select Language…</option>
 
                     <option value="en_US">English</option>
@@ -236,6 +233,56 @@ function submitSiteSearch() {
                     <option value="zh_CN">Chinese (Simplified)</option>
 
                 </select>
+<script language="javascript">
+function switchLang(){
+    var sUrl = new String(document.URL);
+
+    //Get the selected locale
+    var element = document.getElementById("localeSelect");
+    var noElements = element.options.length;
+    var selectedLocale;
+    for(var n=0; n<noElements; n++){
+    if(element.options[n].selected)
+        selectedLocale = element.options[n].value;
+    }
+    //No language selected, default to english
+    if(!selectedLocale || selectedLocale.match("Language") != null){
+        selectedLocale = "en_US";
+    }
+
+    //processing url to include non-english locales at the start of url
+    var urlElements = new Array();
+    urlElements = sUrl.split("/");
+    var urlPath, urlPart1, urlPart2, newUrl;
+
+    urlPath = urlElements[3];
+    if(urlPath != ''){
+      urlPart1 = sUrl.substring(0,sUrl.indexOf(urlPath));
+      //alert("urlPath "+urlPath );
+      //alert("urlPart1 "+urlPart1 );
+      if(urlPath.indexOf("_") != -1){
+        //locale inurl exists, replace with selected local
+        urlPart2 = sUrl.substring(sUrl.indexOf(urlPath)+6,sUrl.length);
+        if(selectedLocale == "en_US")
+            newUrl = urlPart1 + urlPart2;
+        else
+            newUrl = urlPart1 + selectedLocale +"/"+urlPart2;
+    }else{
+        urlPart2 = sUrl.substring(sUrl.indexOf(urlPath),sUrl.length);
+        if(selectedLocale == "en_US")
+            newUrl = urlPart1 + urlPart2;
+        else
+            newUrl = urlPart1 + selectedLocale +"/"+urlPart2;
+      }
+    }else
+    {
+       newUrl = sUrl + selectedLocale;
+    }
+    window.location = newUrl;
+    //alert("document.localeForm.action "+document.localeForm.action);
+    //document.forms.localeForm.submit();
+}
+</script>
             </form>
 
 
@@ -304,10 +351,7 @@ function submitSiteSearch() {
 
 		
 
-<!--
-    When new channels are added, run the following command once to refresh the subchannel list:
-        ContentUtil.refreshChannelChildren();
--->
+
 <div class="sec_box_menu"><h2><a href="/Footer/Privacy" title="Privacy" target="null">Privacy</a></h2><ul></ul></div>
 
 
