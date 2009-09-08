@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchinonestep.com privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415214539id_/http%3A//www.searchinonestep.com/%3Ftmp%3Dsios_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchinonestep.com privacy policy that was archived on 2009-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090908140826id_/http%3A//www.searchinonestep.com/%3Ftmp%3Dsios_privacy) for the most accurate reproduction.*
 
 # Search In One Step! Terms of Use
 
