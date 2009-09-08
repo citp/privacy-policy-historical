@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webtrends.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618114249id_/http%3A//www.webtrends.com/AboutWebTrends/PrivacyPolicy.aspx%3Fpromo%3DTI_silopriv_FT%26WT.svl%3Dftr_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webtrends.com privacy policy that was archived on 2009-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090908141446id_/http%3A//www.webtrends.com/AboutWebtrends/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# WebTrends Privacy Policy
+# Webtrends Privacy Policy
 
 Your Privacy
 
@@ -20,7 +20,7 @@ In some instances we rely on our channel partners to fulfill product trials and 
 
 We sometimes hire vendor companies to provide limited services on our behalf, including packaging, mailing and delivering items, sending postal mail, providing technical support, and processing event registrations. In addition, we may use third party information or technology in our products and disclose customer information to such third parties solely for the purposes of fulfillment, support, or audit by such third parties. We may also license/transfer or sell-off our technology to third parties, and in connection with such transitions, we may disclose customer data to the transferee.
 
-If you require further information on the channel partners, vendor companies or third parties to whom your information may have been passed to please contact [privacy@webtrends.com](mailto:privacy@webtrends.com).
+If you require further information on the channel partners, vendor companies or third parties to whom your information may have been passed to please contact [privacy@Webtrends.com](mailto:privacy@Webtrends.com).
 
 Because we have a global presence, your personal information may be shared with other offices or subsidiaries within Webtrends Inc. in the U.S., Europe, and elsewhere. The data protection laws in these countries may be more or less extensive than laws in the country in which you are located. However, all offices of Webtrends Inc. are governed by this Privacy Policy and will use your personal information only as set forth in this policy. At your request, we can provide you with data protection details of the countries relevant to you. 
 
@@ -50,15 +50,15 @@ Our web site contains links to information on other web sites. We do not have an
 
 Unsubscribing From Webtrends Marketing Communications and Newsletters
 
-Each marketing communication that we send includes a one click unsubscribe link. To unsubscribe from Webtrends Marketing Communications, click unsubscribe on the message that you receive or email [comprefs@webtrends.com](mailto:comprefs@webtrends.com).
+Each marketing communication that we send includes a one click unsubscribe link. To unsubscribe from Webtrends Marketing Communications, click unsubscribe on the message that you receive or email [comprefs@Webtrends.com](mailto:comprefs@Webtrends.com).
 
 Unsubscribing From User Forums and Product Notifications
 
-Webtrends product notifications and user forum notices are subscriber-based email communications that are not controlled by Webtrends marketing email preferences or marketing newsletter subscription preferences. If you have signed up for a user forum in the past and you would like to unsubscribe, please email [support@webtrends.com](mailto:support@webtrends.com).
+Webtrends product notifications and user forum notices are subscriber-based email communications that are not controlled by Webtrends marketing email preferences or marketing newsletter subscription preferences. If you have signed up for a user forum in the past and you would like to unsubscribe, please email [support@Webtrends.com](mailto:support@Webtrends.com).
 
 Accessing Your Personal Information
 
-You are entitled to access the personal information that we hold. Email your request to our data privacy team at [privacy@webtrends.com](mailto:privacy@webtrends.com). An administrative fee may be payable.
+You are entitled to access the personal information that we hold. Email your request to our data privacy team at [privacy@Webtrends.com](mailto:privacy@Webtrends.com). An administrative fee may be payable.
 
 Your Consent
 
@@ -68,5 +68,6 @@ Safe Harbor
 
 Webtrends is a participant in the U.S. Department of Commerce's safe harbor program and adheres to the US safe harbor privacy principles. For more information about the US safe harbor framework, please consult the [Department of Commerce's web site](http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list). 
 
-For more information about this site or your visit, please email us at [webmaster@webtrends.com](mailto:webmaster@webtrends.com).   
-This document was last updated August 8, 2008.
+For more information about this site or your visit, please email us at [webmaster@Webtrends.com](mailto:webmaster@Webtrends.com).   
+This document was last updated August 8, 2008.  
+
