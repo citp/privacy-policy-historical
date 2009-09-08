@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tmzclassifieds.com privacy policy that was archived on 2009-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090513202138id_/http%3A//www.tmzclassifieds.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy%26cityid%3D-56) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmzclassifieds.com privacy policy that was archived on 2009-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090908090934id_/http%3A//tmzclassifieds.com/privacy.php) for the most accurate reproduction.*
 
-# NATIONWIDE - TMZ Classifieds the best FREE online classifieds
+# 
 
 ### Privacy Statement
 
