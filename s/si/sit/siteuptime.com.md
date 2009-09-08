@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the siteuptime.com privacy policy that was archived on 2009-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090122204836id_/http%3A//www.siteuptime.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siteuptime.com privacy policy that was archived on 2009-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090909004819id_/http%3A//www.siteuptime.com/privacy.php) for the most accurate reproduction.*
 
 # SiteUptime - Website Monitoring Service
 
-|  Navigation   
+| [](http://www.siteuptime.com/users/register.php?AccountType=Trial)  
 ---  
+Navigation   
 [Home](http://www.siteuptime.com/index.php)  
 [Overview](http://www.siteuptime.com/services.php)  
 [Register](http://www.siteuptime.com/users/register.php)  
