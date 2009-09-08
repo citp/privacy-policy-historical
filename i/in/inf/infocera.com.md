@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the infocera.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623175642id_/http%3A//infocera.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infocera.com privacy policy that was archived on 2009-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090908161239id_/http%3A//www.infocera.com/privacyPolicy.php) for the most accurate reproduction.*
 
-# Infocera ! The best site to market your Information, Opinions and Experiences for FREE !
+# Infocera ! The Complete Social and Information Networking Site !
 
   |  **Contents**
 
