@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twistimage.com privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530174508id_/http%3A//www.twistimage.com/4105/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twistimage.com privacy policy that was archived on 2009-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090908033359id_/http%3A//www.twistimage.com/4105/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Twist Image
 
