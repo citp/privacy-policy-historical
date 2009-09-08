@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seoautomatic.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609151845id_/http%3A//www.searchcommander.com/privacy-legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoautomatic.com privacy policy that was archived on 2009-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090908021455id_/http%3A//www.searchcommander.com/privacy-legal) for the most accurate reproduction.*
 
 # Privacy & Legal | Search Commander, Inc.
 
@@ -34,7 +34,7 @@ Search Commander, Inc is committed to resolving any dispute you may have regardi
 * * *
 
 **Information Collection **  
-When visiting Web Sites certain information about you and your computer can sometimes be collected. This section explains what information Search Commander, Inc collects, and how it is used.Information Collected \- What information do we collect and why?We collect the following identifiable information about our visitors:
+When visiting Web Sites certain information about you and your computer can sometimes be collected. This section explains what information Search Commander, Inc collects, and how it is used.Information Collected – What information do we collect and why?We collect the following identifiable information about our visitors:
 
   * dynamic.clickstream
   * dynamic.http
@@ -53,7 +53,7 @@ Our Web Site generates server log files automatically. These log files are used 
 
 * * *
 
-Information Recipients \- Who has access to the information collected?
+Information Recipients – Who has access to the information collected?
 
   * Ourselves and/or our entities acting as our agents or entities for which we are acting as an agent.
 
@@ -61,4 +61,4 @@ Information Recipients \- Who has access to the information collected?
 
 * * *
 
-Information Retention \- How long is this information retained?We do not retain information for this area of the Web Site.
+Information Retention – How long is this information retained?We do not retain information for this area of the Web Site.
