@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atbatt.com privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221120541id_/http%3A//www.atbatt.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atbatt.com privacy policy that was archived on 2009-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090909012807id_/http%3A//www.atbatt.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # 
 
@@ -76,6 +76,6 @@ By choosing to visit our Site you agree that any dispute over privacy or the ter
 **Contacting Us:** If you have any questions about this Privacy Policy, would like more information, or if you believe that we have not adhered to this Privacy Policy, please [contact us](https://web.archive.org/contact.asp) or write to: 
 
 At Battery Company, Inc.  
-28420 Witherspoon Parkway  
+28918 Hancock Parkway  
 Valencia, CA 91355  
 United States 
