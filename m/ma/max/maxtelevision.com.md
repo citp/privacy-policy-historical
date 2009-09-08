@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maxtelevision.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616061624id_/http%3A//www.maxtelevision.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxtelevision.com privacy policy that was archived on 2009-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090908042749id_/http%3A//www.maxtelevision.com/privacy_policy.php) for the most accurate reproduction.*
 
 # MAXTelevision.com
 
