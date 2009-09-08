@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bcbusinessonline.ca privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501195752id_/http%3A//www.bcbusinessonline.ca/bcb/2007/06/30/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcbusinessonline.ca privacy policy that was archived on 2009-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090908084921id_/http%3A//www.bcbusinessonline.ca/bcb/privacy) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use | BCBusiness
-
- » Privacy
 
 PRIVACY POLICY AND TERMS OF USE
 
@@ -139,3 +137,6 @@ You may only use the Information retrieved from the Web-site for your own person
 Governing Law
 
 In the event of any dispute arising in connection with the Web-site, such dispute shall be governed by and construed in accordance with the laws of the Province of British Columbia, Canada and any party accessing and using the Web-site agrees to submit to the jurisdiction of the Province of British Columbia, Canada.
+
+Comments  
+Note: Canada Wide Media Limited is not responsible for and does not necessarily endorse the content of any of the views or opinions expressed or posted. By submitting your comments, you acknowledge and agree that Canada Wide Media Limited has the right to reproduce, broadcast, publish, and publicize those comments or any part thereof in any manner whatsoever in accordance with our [Submissions Policy](https://web.archive.org/bcb/submission-policy).
