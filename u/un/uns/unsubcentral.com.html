@@ -1,294 +1,117 @@
-<!--The following is the downloaded HTML source of the unsubcentral.com privacy policy that was archived on 2009-03-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090307015557id_/http%3A//www.unsubcentral.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the unsubcentral.com privacy policy that was archived on 2009-09-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090909013247id_/http%3A//www.unsubcentral.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-<title>UnsubCentral - 
-Privacy Policy</title>
-<script src="utility.txt"></script>
-<script type="text/javascript">
-<!--
-
-// function switchDiv()
-//  this function takes the id of a div
-//  and calls the other functions required
-//  to show that div
-//
-function switchDiv(div_id)
-{
-  var style_sheet = getStyleObject(div_id);
-  if (style_sheet)
-  {
-    hideAll();
-    changeObjectVisibility(div_id,"visible");
-  }
-  else 
-  {
-    alert("sorry, this only works in browsers that do Dynamic HTML");
-  }
-}
-
-// function hideAll()
-//  hides a bunch of divs
-//
-function hideAll()
-{
-   changeObjectVisibility("login","hidden");
-   changeObjectVisibility("login2","hidden");
-   changeObjectVisibility("login3","hidden");
-   changeObjectVisibility("login4","hidden");
-
-}
-
-// function getStyleObject(string) -> returns style object
-//  given a string containing the id of an object
-//  the function returns the stylesheet of that object
-//  or false if it can't find a stylesheet.  Handles
-//  cross-browser compatibility issues.
-//
-function getStyleObject(objectId) {
-  // checkW3C DOM, then MSIE 4, then NN 4.
-  //
-  if(document.getElementById && document.getElementById(objectId)) {
-	return document.getElementById(objectId).style;
-   }
-   else if (document.all && document.all(objectId)) {  
-	return document.all(objectId).style;
-   } 
-   else if (document.layers && document.layers[objectId]) { 
-	return document.layers[objectId];
-   } else {
-	return false;
-   }
-}
-
-function changeObjectVisibility(objectId, newVisibility) {
-    // first get a reference to the cross-browser style object 
-    // and make sure the object exists
-    var styleObject = getStyleObject(objectId);
-    if(styleObject) {
-	styleObject.visibility = newVisibility;
-	return true;
-    } else {
-	// we couldn't find the object, so we can't change its visibility
-	return false;
-    }
-}
-// -->
-</script>
-
-
-<script type="text/javascript" src="/includes/swfobject.js"></script>
-<link type="text/css" rel="stylesheet" href="/includes/default.css">
-<script src="/includes/default.js" type="text/javascript"></script>
-<meta name="keywords" content="Datran Media, UnsubCentral">
-<meta name="author" content="Erik Stark, Sam Eder, John Engler">
-<meta name="description" content="Through UnsubCentral, Inc, Datran Media offers advertisers and affiliates global CAN-SPAM suppression list management solutions.">
-
-<!-- Sam Skin CSS --> 
-<link rel="stylesheet" type="text/css" href="/includes/yui/build/container/assets/container.css"> 
-
-<!-- Dependencies --> 
-<script type="text/javascript" src="/includes/yui/build/yahoo-dom-event/yahoo-dom-event.js"></script> 
- 
-<!-- OPTIONAL: Animation (only required if enabling animation) --> 
-<script type="text/javascript" src="/includes/yui/build/animation/animation-min.js"></script> 
- 
-<!-- OPTIONAL: Connection (only required if using asynchronous form submission) --> 
-<script type="text/javascript" src="/includes/yui/build/connection/connection-min.js"></script> 
- 
-<!-- OPTIONAL: Drag & Drop (only required if enabling Drag & Drop) --> 
-<script type="text/javascript" src="/includes/yui/build/dragdrop/dragdrop-min.js"></script> 
- 
-<!-- OPTIONAL: YUI Button (these 2 files only required if you want Dialog to use YUI Buttons, instead of HTML Buttons) --> 
-<script type="text/javascript" src="/includes/yui/build/element/element-beta-min.js"></script> 
-<script type="text/javascript" src="/includes/yui/build/button/button-min.js"></script> 
- 
-<!-- Source file --> 
-<script type="text/javascript" src="/includes/yui/build/container/container-min.js"></script>
-
-<script type="text/javascript">
-YAHOO.namespace('com.lightbox');
-function init() {
-	var handleCancel = function(o){
-		this.cancel();
-	}
-	YAHOO.com.lightbox.dialog5 = 
-	new YAHOO.widget.Dialog("lightbox_1",
-	{ width : "800px",
-	fixedcenter : true,
-	visible : false,
-	close: true,
-	draggable: true,
-	modal: true,
-	constraintoviewport : false});
-	YAHOO.util.Event.addListener('closeImg', 'click', function(o){YAHOO.com.lightbox.dialog5.hide()});
-	YAHOO.com.lightbox.dialog5.render();
-	
-	YAHOO.util.Dom.setStyle(['lightbox_1'], 'display', 'block');
-};
-
-YAHOO.util.Event.addListener(window, "load", init);
-</script>
-<style type="text/css">
-.mask {
--moz-opacity: 0.8;
-opacity:.80;
-filter: alpha(opacity=80);
-background-color:#2f2f2f;
-}
-</style>
-
-<!-- apogee-search.HitsLink.com/ web tools statistics hit counter code -->
-<script type="text/javascript" id="wa_u" src="https://counter.hitslink.com/track.js"></script>
-<script type="text/javascript">//<![CDATA[
-wa_account="unsubcentral"; wa_location=17;
-wa_pageName=location.pathname;  // you can customize the page name here
-document.cookie='__support_check=1';wa_hp='http';
-wa_rf=document.referrer;wa_sr=window.location.search;
-wa_tz=new Date();if(location.href.substr(0,6).toLowerCase()=='https:')
-wa_hp='https';wa_data='&an='+escape(navigator.appName)+ 
-'&sr='+escape(wa_sr)+'&ck='+document.cookie.length+
-'&rf='+escape(wa_rf)+'&sl='+escape(navigator.systemLanguage)+
-'&av='+escape(navigator.appVersion)+'&l='+escape(navigator.language)+
-'&pf='+escape(navigator.platform)+'&pg='+escape(wa_pageName);
-wa_data=wa_data+'&cd='+
-screen.colorDepth+'&rs='+escape(screen.width+ ' x '+screen.height)+
-'&tz='+wa_tz.getTimezoneOffset()+'&je='+ navigator.javaEnabled();
-wa_img=new Image();wa_img.src=wa_hp+'://counter.hitslink.com/statistics.asp'+
-'?v=1&s='+wa_location+'&acct='+wa_account+wa_data+'&tks='+wa_tz.getTime();
-document.getElementById('wa_u').src=wa_hp+'://counter.hitslink.com/track.js'; //]]>
-</script>
-<!-- End apogee-search.HitsLink.com/ statistics web tools hit counter code -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>Privacy Policy</title>
+	<meta name="description" content="UnsubCentral's privacy policy">
+	<meta name="keywords" content="CAN-SPAM,can spam,can-spam compliance solution,suppression file,suppression list management,email compliance,global email compliance,optout compliance,opt-out compliance, UnsubCentral privacy policy">
+	<link href="/css/all.css" media="screen" rel="stylesheet" type="text/css">
+	<link href="/css/lightbox.css" rel="stylesheet" type="text/css" media="screen">
+	<script src="/js/menu.js" type="text/javascript"></script>
+	<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="css/ie6.css" media="screen"/><![endif]-->
+	<script src="/js/config.js"></script>
+	<script src="/js/jquery-1.2.6.min.js"></script>
+	<script src="/js/swfrun.js"></script>
+	<script src="/js/swfobject.js"></script>
+	<script src="/js/prototype.js" type="text/javascript"></script>
+	<script src="/js/scriptaculous.js?load=effects" type="text/javascript"></script>
+	<script src="/js/lightbox++.js" type="text/javascript"></script>
 </head>
-<body topmargin="0" bottommargin="0" rightmargin="0" leftmargin="0" marginheight="0" bgcolor="#70778C"><br>
-<table cellpadding="0" cellspacing="0" width="800" align="center">
-		<tbody><tr>
-		<td>
-			<table cellspacing="0" cellpadding="0" bgcolor="#70778C">
-				<tbody><tr>
-					<td valign="bottom">
-						<a href="/index.php"><img src="/images/unsub-logo.jpg" border="0" alt="Datran Media, UnsubCentral"></a></td>
-					
-					<td valign="bottom" width="100%" align="right">
-						<table cellpadding="0" cellspacing="0">
-							<tbody><tr>
-								<td class="navBox"><a href="/index.php" class="TopNav">HOME</a></td>
-								<td class="navBox">| <a href="/solutions/" class="TopNav">SOLUTIONS</a></td>
-								<td class="navBox">| <a href="/network/" class="TopNav">NETWORK</a></td>
-								<td class="navBox">| <a href="/canspam/" class="TopNav">CAN-SPAM</a></td>
-								<td class="navBox">| <a href="/partners/" class="TopNav">PARTNERS</a></td>
-								<td class="navBox">| <a href="/company/about.php" class="TopNav">COMPANY</a></td>
-								<td class="navBox">| <a href="/news/" class="TopNav">NEWS</a></td>
-								<td class="navBox">| <a href="/contact.php" class="TopNav">CONTACT</a></td>
-								<td class="navBox">| <a href="/login.php" class="TopNavOn"><strong>CLIENT LOGIN</strong></a></td>
-							</tr>
-						</tbody></table>
-					</td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-	<tr>
-		<td background="/images/head_bg.jpg">
-			<table cellpadding="0" cellspacing="0">
-				<tbody><tr>
-					<td><img src="/images/unsub_header_left.jpg" border="0" width="8" height="73" alt="Unsub Central"></td>
-					<td valign="top" width="100%" align="right" class="headerSection">
-												<img src="/images/unsub_header_privacy.jpg" border="0" alt="Datran Media">
-												
-					</td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-		<tr>
-		<td align="right" class="navSections">			
-						&nbsp;
-					</td>
-	</tr>
-	<tr>
-		<td width="100%" height="100%" valign="top" style="padding: 0px 0px 15px 0px;">
-			<table cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" width="100%">
-				<tbody><tr>
-					<td valign="top" width="100%" style="border-left: 1px solid #666666; border-right: 1px solid #666666; padding: 5px 10px 5px 10px;">
-
-<p><strong>Privacy Policy</strong><br>
-<span style="font-size: 10px;">Effective Date : January 18th, 2007</span></p>
-<p>UnsubCentral, Inc. is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices.  This privacy statement covers the site www.unsubcentral.com.  Because we want to demonstrate our commitment to our users' privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe.</p>
-<p>If users have questions or concerns regarding this statement, you should first contact <a href="mailto:privacy@unsubcentral.com">privacy@unsubcentral.com</a>.  If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the <a href="http://www.truste.org/consumers/watchdog_complaint.php">TRUSTe Watchdog Dispute Resolution Process</a>.  TRUSTe will serve as a liaison with the Web site to resolve users concerns. </p>
-<p align="center"><a class="footerLink" href="http://www.truste.org/ivalidate.php?url=www.unsubcentral.com&amp;sealid=101"><img src="/images/clickseal.gif" alt="PRIVACY POLICY"></a></p>
-<p><strong>Introduction</strong><br>
-UnsubCentral, Inc. ("UnsubCentral", "we", "our" or "us") has created this privacy policy in order to disclose our use of consumer data collected about you ("you" or "your"). Any questions regarding this policy should be directed by email to <a href="mailto:privacy@unsubcentral.com">privacy@unsubcentral.com</a>. You may also contact UnsubCentral at 701 Brazos, Ste 800, Austin, TX 78701. Please see the Opt Out section below for instructions on unsubscribing via postal mail. The following discloses our information gathering and dissemination practices for UnsubCentral's marketing website.  Use of the UnsubCentral suppression service shall be governed by the services agreement between UnsubCentral and the appropriate third party and our privacy practices for client data as described below.</p>
-<p><strong>Information Collected and Received</strong><br>
-UnsubCentral may collect or receive information about individuals who are members of suppression lists of third parties, which may include, but is not limited to, user name, password, first and last name, email address, credit card information, street address, gender, occupation, and interests. We also collect information on the pages users access or visit, and other information volunteered by users, such as survey information. Additionally, for each visitor to our web page, our server automatically recognizes standard Web log information like IP Addresses and referring URLs.  Log file information is tied to personally identifiable information to prevent fraud and to customize the site.  </p>
-<p><strong>Uses of Information</strong><br>
-The information UnsubCentral collects and receives is used to provide our proprietary suppression services, improve the content of our website; to notify consumers about updates to our website; to contact our corporate users for marketing purposes if they elect to continue to receive such communications; and as otherwise may be necessary for UnsubCentral to provide requested services to users and visitors to the site. UnsubCentral does not share the information with unauthorized parties.  For example, we have authorized a company to process credit card information collected through our site on our behalf.  They are not permitted to use your information for any secondary purposes.</p>
-<p>Information provided to UnsubCentral in any manner may be disclosed if disclosed in response to a valid order of a court or authorized agency of government. </p>
-
-<p><strong>Security</strong><br>
-We use industry-standard technologies when transferring and receiving consumer data exchanged between us and other companies to help ensure its security. This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Our servers are backed up regularly and protected by security systems.</p>
-<p><strong>Cookies</strong><br>
-"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Our site uses cookies to keep track of your session, shopping cart and to make sure you do not see the same advertising repeatedly. We may also use cookies to deliver content specific to your interests and to save your password.</p>
-<p><strong>Links</strong><br>
-We may create links to other web sites. We will make a reasonable effort to link only to sites that meet similar standards for maintaining each individual's right to privacy. However, many other sites that are not associated or authorized by us may have links leading to our site. We cannot control these links and are not responsible for any content appearing on these sites.</p>
-<p><strong>Amendments</strong><br>
-We may amend this policy at any time. The amended terms that are minor shall automatically be effective upon being posted on our site.  If, however, we are going to use  personally identifiable information collected through our corporate site (not our application-we do not use client data for any secondary purposes) in a manner materially different from that stated at the time of collection we will notify users via email and/or by posting a notice on our Web site for 30 days.  This Agreement may not be otherwise amended except in a writing that specifically refers to this policy and is physically signed by both parties.</p>
-<p><strong>Contacts</strong><br>
-If you have any questions about this privacy policy, the practices of this site, or your dealings with this web site, you can contact <a href="mailto:privacy@unsubcentral.com">privacy@unsubcentral.com</a>. This site gives you the following options for changing and modifying information previously provided (i) email: <a href="mailto:privacy@unsubcentral.com">privacy@unsubcentral.com</a>; or (ii) visit <a href="http://www.unsubcentral.com">www.unsubcentral.com</a>.  There you can also log into your account to update your contact information.  To update billing information contact your account manager.</p>
-<p><strong>Opt-Out</strong><br>
-Our site provides users the opportunity to opt-out of receiving communications from us.  This site gives users the following options for removing their information from our database in order to prevent future communications or to no longer receive our service. (i) You can send email to <a href="mailto:remove@unsubcentral.com">remove@unsubcentral.com</a>; or (ii) you can send postal mail to: <br><br>
-UnsubCentral Privacy Officer<br>
-701 Brazos, Suite 800<br>
-Austin, TX 78701.</p>
-
-<p id="clientData"><strong>Our Privacy Practices for Client Data:</strong></p>
-<p>The following discloses our information gathering and dissemination practices specific to UnsubCentral's application residing on sub-domains of unsubcentral.com</p>
-<p>The information UnsubCentral collects and receives from our customers' and customer's affiliates is used to provide our proprietary suppression services. UnsubCentral does not share the information collected or the lists provided with unauthorized parties. In no event shall UnsubCentral use any email addresses or other information provided by the customer affiliates in any manner except (i) for suppression list comparisons as part of the UnsubCentral service (ii) for dispute resolution, and (iii) UnsubCentral may disclose such email addresses and/or information if disclosed in response to a valid order of a court or authorized agency of government.</p>
-<p>UnsubCentral uses industry-standard technologies when transferring and receiving consumer data exchanged between us and other companies to help ensure its security.  This site has security measures in place to protect the loss, misuse and alteration of the information under our control.</p>
-
-
-					</td>
-				</tr>
-				<tr>
-					<td bgcolor="#545B75">
-						<table cellpadding="0" cellspacing="0" width="100%">
-							<tbody><tr>
-								<td class="footerBox" style="color: #FFFFFF;" nowrap="">
-									<a class="footerLink" href="/privacy.php"> PRIVACY POLICY </a> &nbsp; | &nbsp; <a class="footerLink" href="/contact.php"> CONTACT </a>
-								</td>
-								<td class="footerBox" style="color: #FFFFFF; font-size: 10px;" width="100%" align="right">
-									© 2009 UnsubCentral, Inc. All Rights Reserved</td>
-								
-							</tr>
-						</tbody></table>
-					</td>
-				</tr>
-					<tr><td bgcolor="#70778C" style="padding-left: 5px; padding-top: 5px; border-top: 1px solid #666666;" colspan="2">
-						<table cellpadding="0" cellspacing="0" width="100%">
-							
-							<tbody><tr>
-								<td class="footerBox" nowrap=""><a class="footerLink" href="/privacy.php"><img src="/images/finalmark.gif" alt="PRIVACY POLICY"></a></td>
-							</tr>
-						</tbody></table>
-					</td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-</tbody></table>
-<!-- Begin Salesforce Tracking Code, Place immediately before closing </BODY> tag -->
-<script type="text/javascript" src="https://lct.salesforce.com/sfga.js"></script>
-<script type="text/javascript">__sfga();</script>
-<!-- End Salesforce Tracking Code, Place immediately before closing </BODY> tag -->
-
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
- </script>
- <script type="text/javascript">
- _uacct = "UA-220915-1";
- urchinTracker();
- </script>
- 
- <!-- Start of HubSpot Logging Code  -->
+<body style="background: #FFFFFF url(/images/body-bg.gif) repeat-x;">
+	<div id="main-container">
+		<!-- header -->
+		<div id="header">
+			<strong class="logo"><a href="/">UnsubCentral </a></strong>
+			<div class="nav-area">
+				<ul>
+					<li><a href="/" class="home">HOME</a></li>
+					<li><a href="/solutions/advertisers/" class="solutions">SOLUTIONS</a></li>
+					<li><a href="/canspam/" class="can-spam">CAN-SPAM</a></li>
+					<li><a href="/company/about/" class="company">COMPANY</a></li>
+					<li><a href="/company/contactus/" class="contactus">CONTACT US</a></li>
+					<li><a href="/login/" class="clientlogin">CLIENT LOGIN</a></li>
+				</ul>
+			</div>
+		</div>
+		
+		<!-- subnavigation -->
+				
+		</div>
+		<div class="white">
+			<div id="content-container">
+				
+		<h1>Privacy Policy</h1>
+		
+		<!-- content -->
+		<div id="content">		
+			<!-- page title should be moved to header or end of header template should come to here -->
+			<h2 class="subtitle">Effective Date : January 18th, 2007</h2>
+			<p>UnsubCentral, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site www.unsubcentral.com. Because we want to demonstrate our commitment to our users' privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe.</p>
+			<p>If users have questions or concerns regarding this statement, you should first contact <a href="mailto:privacy@unsubcentral.com">privacy@unsubcentral.com</a>. If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the <a href="http://www.truste.org/consumers/watchdog_complaint.php">TRUSTe Watchdog Dispute Resolution Process</a>. TRUSTe will serve as a liaison with the Web site to resolve users concerns. </p>
+			
+			<h2 class="subtitle">Introduction</h2>
+			<p>UnsubCentral, Inc. ("UnsubCentral", "we", "our" or "us") has created this privacy policy in order to disclose our use of consumer data collected about you ("you" or "your"). Any questions regarding this policy should be directed by email to <a href="mailto:privacy@unsubcentral.com">privacy@unsubcentral.com</a>. You may also contact UnsubCentral at 701 Brazos, Ste 800, Austin, TX 78701. Please see the Opt Out section below for instructions on unsubscribing via postal mail. The following discloses our information gathering and dissemination practices for UnsubCentral's marketing website. Use of the UnsubCentral suppression service shall be governed by the services agreement between UnsubCentral and the appropriate third party and our privacy practices for client data as described below.</p>
+			<h2 class="subtitle">Information Collected and Received</h2>
+			<p>UnsubCentral may collect or receive information about individuals who are members of suppression lists of third parties, which may include, but is not limited to, user name, password, first and last name, email address, credit card information, street address, gender, occupation, and interests. We also collect information on the pages users access or visit, and other information volunteered by users, such as survey information. Additionally, for each visitor to our web page, our server automatically recognizes standard Web log information like IP Addresses and referring URLs. Log file information is tied to personally identifiable information to prevent fraud and to customize the site.</p>
+			
+			<h2 class="subtitle">Uses of Information</h2>
+			<p>The information UnsubCentral collects and receives is used to provide our proprietary suppression services, improve the content of our website; to notify consumers about updates to our website; to contact our corporate users for marketing purposes if they elect to continue to receive such communications; and as otherwise may be necessary for UnsubCentral to provide requested services to users and visitors to the site. UnsubCentral does not share the information with unauthorized parties. For example, we have authorized a company to process credit card information collected through our site on our behalf. They are not permitted to use your information for any secondary purposes.</p>
+			
+			<p>Information provided to UnsubCentral in any manner may be disclosed if disclosed in response to a valid order of a court or authorized agency of government.</p>
+			
+			<h2 class="subtitle">Security</h2>
+			<p>We use industry-standard technologies when transferring and receiving consumer data exchanged between us and other companies to help ensure its security. This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Our servers are backed up regularly and protected by security systems.</p>
+			
+			<h2 class="subtitle">Cookies</h2>
+			<p>"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Our site uses cookies to keep track of your session, shopping cart and to make sure you do not see the same advertising repeatedly. We may also use cookies to deliver content specific to your interests and to save your password.</p>
+			
+			<h2 class="subtitle">Links</h2>
+			<p>We may create links to other web sites. We will make a reasonable effort to link only to sites that meet similar standards for maintaining each individual's right to privacy. However, many other sites that are not associated or authorized by us may have links leading to our site. We cannot control these links and are not responsible for any content appearing on these sites.</p>
+			
+			<h2 class="subtitle">Amendments</h2>
+			<p>We may amend this policy at any time. The amended terms that are minor shall automatically be effective upon being posted on our site. If, however, we are going to use personally identifiable information collected through our corporate site (not our application-we do not use client data for any secondary purposes) in a manner materially different from that stated at the time of collection we will notify users via email and/or by posting a notice on our Web site for 30 days. This Agreement may not be otherwise amended except in a writing that specifically refers to this policy and is physically signed by both parties.</p>
+			
+			<h2 class="subtitle">Contacts</h2>
+			<p>If you have any questions about this privacy policy, the practices of this site, or your dealings with this web site, you can contact privacy@unsubcentral.com. This site gives you the following options for changing and modifying information previously provided (i) email: privacy@unsubcentral.com; or (ii) visit www.unsubcentral.com. There you can also log into your account to update your contact information. To update billing information contact your account manager.</p>
+			
+			<h2 class="subtitle">Opt-Out</h2>
+			<p>Our site provides users the opportunity to opt-out of receiving communications from us. This site gives users the following options for removing their information from our database in order to prevent future communications or to no longer receive our service. (i) You can send email to remove@unsubcentral.com; or (ii) you can send postal mail to:</p>
+			
+			<br><p>UnsubCentral Privacy Officer<br>
+			701 Brazos, Suite 800<br>
+			Austin, TX 78701.</p>
+			
+			<h2 class="subtitle">Our Privacy Practices for Client Data:</h2>
+			
+			<p>The following discloses our information gathering and dissemination practices specific to UnsubCentral's application residing on sub-domains of unsubcentral.com</p>
+			
+			<p>The information UnsubCentral collects and receives from our customers' and customer's affiliates is used to provide our proprietary suppression services. UnsubCentral does not share the information collected or the lists provided with unauthorized parties. In no event shall UnsubCentral use any email addresses or other information provided by the customer affiliates in any manner except (i) for suppression list comparisons as part of the UnsubCentral service (ii) for dispute resolution, and (iii) UnsubCentral may disclose such email addresses and/or information if disclosed in response to a valid order of a court or authorized agency of government.</p>
+			
+			<p>UnsubCentral uses industry-standard technologies when transferring and receiving consumer data exchanged between us and other companies to help ensure its security. This site has security measures in place to protect the loss, misuse and alteration of the information under our control.</p>		
+		</div>
+		<div id="secondary">
+			<div class="box">
+				<div class="top"><img src="/images/secondary_box_top.gif" border="0"></div>
+				<div class="box-content">
+					<div class="left"><img src="/images/secondary_left_bg.gif"></div>
+					<div class="content">
+						<br><p>Any questions regarding this policy should be directed by email to <a href="mailto:privacy@unsubcentral.com">privacy@unsubcentral.com</a>. You may also contact UnsubCentral at 701 Brazos, Ste 800, Austin, TX 78701 or fill out contact us <a href="/company/contactus/">request form</a>. Please see the Opt Out section below for instructions on unsubscribing via postal mail.</p>
+					</div>
+					<div class="right"><img src="/images/secondary_right_bg.gif"></div>
+				</div>
+				<div class="bottom"><img src="/images/secondary_box_bottom.gif" border="0"></div>
+			</div>
+		</div>
+		
+				<div id="footer">
+		
+			<p>© 2009 UNSUBCENTRAL. All rights reserved. <a href="/privacy/">Privacy Policy</a> <a href="/company/contactus/">Contact Us</a></p>
+			<a href="http://www.truste.org/ivalidate.php?url=www.unsubcentral.com" target="_blank" style="float: right; padding-right: 15px;"><img src="/images/trustee_verified.gif" border="0"></a>
+		</div>
+	</div>
+</div>
+<!-- Start of HubSpot Logging Code  -->
 <script type="text/javascript" language="javascript">
 var hs_portalid=40961; 
 var hs_salog_version = "2.00";
@@ -299,5 +122,6 @@ document.write(unescape("%3Cscript src='" + document.location.protocol + "//" + 
 
 
 
+		
 
 </body></html>
