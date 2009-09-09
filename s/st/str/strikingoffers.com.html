@@ -1,15 +1,17 @@
-<!--The following is the downloaded HTML source of the strikingoffers.com privacy policy that was archived on 2009-04-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090417174758id_/http%3A//www.strikingoffers.com/docs/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the strikingoffers.com privacy policy that was archived on 2009-09-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090909085449id_/http%3A//strikingoffers.com/docs/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <!--?php
 require_once('../scripts/nixxiexmlclient.php');
 require_once('../scripts/settings.php');
+include "../functions.php";
 ?-->
 <script type="text/javaScript" src="../includes/scripts.js"></script>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 <title>StrikingOffers</title>
+<script type="text/javascript" src="../functions_js.js"></script>
 
 <link href="../css/style2.css" rel="stylesheet" type="text/css">
 <!--[if lt IE 7]>
@@ -23,25 +25,15 @@ require_once('../scripts/settings.php');
   <div id="containerTop"></div>
   <div id="container">
     <div id="header"><a href="../index.php"><img src="../images/banner.jpg" width="581" height="66" class="headerLink"></a></div>
-    <div id="menu">
-      <ul>
-        <li><a class="menuLink" href="../appliances/search.php?keyword=Appliances">Appliances</a></li>
-        <li><a class="menuLink" href="../insurances/search.php?keyword=Insurances">Insurance</a></li>
-        <li><a class="menuLink" href="../finance/search.php?keyword=Finance">Finance</a></li>
-        <li><a class="menuLink" href="../shopping/search.php?keyword=Shopping">Shopping</a></li>
-        <li><a class="menuLink" href="../travel/search.php?keyword=Travel">Travel</a></li>
-        <li><a class="menuLink" href="../gifts/search.php?keyword=Gifts">Gifts</a></li>
-        <li><a class="menuLink" href="../entertainment/search.php?keyword=Entertainment">Entertainment</a></li>
-        <li><a class="menuLink" href="../cars/search.php?keyword=Cars">Cars</a></li>
-        <li><a class="menuLink" href="../fashion/search.php?keyword=Fashion">Fashion</a></li>
-      </ul>
+    <div id="menu_folders">
+    
     </div>
     <div id="mainTopBorder"></div>
     <div id="main">
       <div id="search">
         <form id="form1" name="form1" method="post" action="../search.php" class="searchText">
           <label>Search for:</label>
-          <input name="keyword" type="text" class="searchBox" size="25">
+          <input name="keyword" type="text" class="searchBox" size="25" value="search" onclick="javascript:resetKeywordTxt(this.value);" onblur="javascript:emptyKeywordTxt();">
           <input type="image" name="Submit" src="../images/button_go.jpg" value="GO" class="searchButton">
         </form>
       </div>
