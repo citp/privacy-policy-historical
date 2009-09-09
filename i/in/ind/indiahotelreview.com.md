@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiahotelreview.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429100254id_/http%3A//www.indiahotelreview.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiahotelreview.com privacy policy that was archived on 2009-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090909123308id_/http%3A//www.indiahotelreview.com/privacy.htm) for the most accurate reproduction.*
 
 # IHR privacy - Privacy Policy - Protecting Your Privacy - IndiaHotelReview.com
 
