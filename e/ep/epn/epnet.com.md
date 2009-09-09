@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epnet.com privacy policy that was archived on 2007-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070219090141id_/http%3A//www.epnet.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epnet.com privacy policy that was archived on 2009-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090909193315id_/http%3A//www.ebscohost.com/privacyPolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
