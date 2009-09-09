@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christianitytoday.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616154052id_/http%3A//www.christianitytoday.com/dispatch.html%3Fcode%3Dnavigation%26url%3D/help/features/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianitytoday.com privacy policy that was archived on 2009-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090910000604id_/http%3A//www.christianitytoday.com/help/features/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Help & Info
 
