@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the priceraja.com privacy policy that was archived on 2008-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080924040128id_/http%3A//www.priceraja.com/Content/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the priceraja.com privacy policy that was archived on 2009-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090910012036id_/http%3A//www.priceraja.com/Content/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # PriceRaja
 
-Bidder/Buyer/Customer:
+**Bidder/Buyer/Customer:**
 
 1\. Priceraja respects your privacy. Priceraja does not intentionally monitor or disclose any of your private messages or personal information unless required by law, regulation or court order. Priceraja does not disclose any of your registration data or personal information provided by you to a third party except for the purpose of transaction made by you at Priceraja. You agree to respect the privacy and confidentiality of others. 
 
@@ -12,7 +12,7 @@ Bidder/Buyer/Customer:
 
 4\. You agree to provide correct and valid credit card information for the purpose of transactions on Priceraja. Your credit card information will not be disclosed to any third party and shall not be used apart from the financial transaction made by you at Priceraja.
 
-Vendor/Seller:
+**Vendor/Seller:**
 
 1\. Information provided to you by a Bidder/Buyer/Customer shall not be used for any purpose other than the purchase transaction through Priceraja. Information provided by the Buyer/Customer, including credit card details shall be maintained as confidential information of User by Priceraja and shall not be disclosed to any third party in any manner except as required under any law in force in India. 
 
