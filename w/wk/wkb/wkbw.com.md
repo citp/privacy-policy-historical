@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wkbw.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618082543id_/http%3A//www.wkbw.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wkbw.com privacy policy that was archived on 2009-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090909115107id_/http%3A//www.wkbw.com/about/privacy) for the most accurate reproduction.*
 
 # WKBW - TV Buffalo, New York | WKBW Privacy Policy
 
