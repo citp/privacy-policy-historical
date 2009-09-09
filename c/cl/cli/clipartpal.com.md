@@ -1,7 +1,13 @@
-> *The following text is extracted and transformed from the clipartpal.com privacy policy that was archived on 2009-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090414020815id_/http%3A//www.clipartpal.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clipartpal.com privacy policy that was archived on 2009-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090909094548id_/http%3A//www.clipartpal.com/privacy.html) for the most accurate reproduction.*
 
-# ClipartPal.com - Privacy Policy
+# ClipartPal - Privacy Policy
 
+**CLIPARTPAL - PRIVACY POLICY**
+
+* * *
+
+  
+  
 **OUR COMMITMENT TO PRIVACY**
 
 Thank you for visiting the ClipartPal website.   
@@ -58,3 +64,9 @@ If you have any questions or indeed comments about our Online Privacy Statement,
 E-mail ClipartPal Data Protection: [privacy@clipartpal.com](mailto:admin@clipartpal.com?Subject=ClipartPal)
 
 We may alter this statement as needed for certain products and services and to abide by local laws or regulations around the world. ClipartPal reserves the right to amend or modify this statement from time to time. We urge you to review this statement whenever you visit in order to obtain the most current statement. You may change your choices at any time. 
+
+* * *
+
+  
+  
+
