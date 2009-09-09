@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the babelgum.com privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522093058id_/http%3A//www.babelgum.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babelgum.com privacy policy that was archived on 2009-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090909055358id_/http%3A//www.babelgum.com/privacy-policy) for the most accurate reproduction.*
 
-# Babelgum - Privacy Policy
+# Privacy Policy | Babelgum
 
 **We take the privacy rights of users of this Site and the Babelgum Services very seriously and this Privacy Policy explains to you what information we collect about you in connection with your use of the Site and Babelgum Services and how certain information about you may be used, stored and processed.**
 
