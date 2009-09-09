@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebscohost.com privacy policy that was archived on 2007-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070119032725id_/http%3A//www.ebscohost.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebscohost.com privacy policy that was archived on 2009-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090909193315id_/http%3A//www.ebscohost.com/privacyPolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
