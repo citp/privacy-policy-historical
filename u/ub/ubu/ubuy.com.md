@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubuy.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620015822id_/http%3A//www.ubuy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubuy.com privacy policy that was archived on 2009-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090909054126id_/http%3A//www.ubuy.com/privacy.html) for the most accurate reproduction.*
 
 # The place to buy anything and everything.
 
