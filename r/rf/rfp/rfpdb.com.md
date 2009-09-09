@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rfpdb.com privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504034459id_/http%3A//www.rfpdb.com/view/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rfpdb.com privacy policy that was archived on 2009-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090909070353id_/http%3A//www.rfpdb.com/view/privacy) for the most accurate reproduction.*
 
 # The RFP Database: Requests for Proposals (RFPs) from non-profits, corporations and governments
 
