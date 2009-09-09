@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the partnershipcard.co.uk privacy policy that was archived on 2009-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090423190632id_/http%3A//www.partnershipcard.co.uk/html/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partnershipcard.co.uk privacy policy that was archived on 2009-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090909053812id_/http%3A//www.partnershipcard.co.uk/html/privacy.jsp) for the most accurate reproduction.*
 
 # John Lewis Financial Services • Privacy Policy
 
 This Privacy Statement sets out our current policies about how your personal and financial information is dealt with and demonstrates our commitment to your privacy. We may change the content or services found on our site at any time without notice, and consequently our privacy policy may change at any time in the future. You agree to revisit this page regularly and your continued access to or use of this site will mean that you agree to any changes.
 
-For essential information about using our website, please read the [legal information](https://web.archive.org/web/20090423190632id_/http%3A//www.partnershipcard.co.uk/html/legal.jsp "link to the legal information page") provided.
+For essential information about using our website, please read the [legal information](https://web.archive.org/web/20090909053812id_/http%3A//www.partnershipcard.co.uk/html/legal.jsp "link to the legal information page") provided.
 
 ## Public areas
 
