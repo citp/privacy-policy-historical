@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zulutrade.com privacy policy that was archived on 2009-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090613063209id_/http%3A//zulutrade.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zulutrade.com privacy policy that was archived on 2009-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090910071054id_/http%3A//zulutrade.com/Privacy.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -48,4 +48,4 @@ Under limited circumstances, ZuluTrade may disclose your personal information to
 
 * * *
 
-You are not required to supply any of the personal information that we may request. However, failure to do so may result in our being unable to open or maintain your account or to provide services to you. While we make every effort to ensure that all information we hold about you is accurate, complete and up to date, you can help us considerably in this regard by promptly notifying us if there are any changes to your personal information. If you do not wish to have your personal information disclosed to third parties as described in this Policy, please contact us via [e-mail](https://web.archive.org/web/20090613063209id_/http%3A//zulutrade.com/ContactUs.aspx). 
+You are not required to supply any of the personal information that we may request. However, failure to do so may result in our being unable to open or maintain your account or to provide services to you. While we make every effort to ensure that all information we hold about you is accurate, complete and up to date, you can help us considerably in this regard by promptly notifying us if there are any changes to your personal information. If you do not wish to have your personal information disclosed to third parties as described in this Policy, please contact us via [e-mail](https://web.archive.org/web/20090910071054id_/http%3A//zulutrade.com/ContactUs.aspx). 
