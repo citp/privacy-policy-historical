@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the yesstyle.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216011530id_/http%3A//www.yesstyle.com/en/Help/Section.aspx%3Fsection%3Dcs%26sectionId%3D754) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesstyle.com privacy policy that was archived on 2009-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090910200931id_/http%3A//www.yesstyle.com/en/help/section.html/hsi.754) for the most accurate reproduction.*
 
-# YesStyle.com: Customer Support
+# YESSTYLE: Customer Support - Privacy & Security
 
-: Last Updated: November 5, 2008 
+Last Updated: November 5, 2008 
 
 YesStyle.com is committed to protecting your privacy. We hope that you will take the time to read this policy, which explains what information we collect from you and how we use that information. By using our website or by purchasing products or services from us, you agree to be bound by this policy. Please check back frequently, as this policy may change from time to time. 
 
