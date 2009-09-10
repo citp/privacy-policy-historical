@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the fancast.com privacy policy that was archived on 2009-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090226193418id_/http%3A//www.fancast.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fancast.com privacy policy that was archived on 2009-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090910060833id_/http%3A//www.fancast.com/info/privacy) for the most accurate reproduction.*
 
 # Fancast | Privacy Statement
 
 ##  Privacy Practices and Feedback 
+
+> _Notice:_ On October 6, 2009 a new Privacy Policy will take effect.  
+>  [New Privacy Policy — effective October 6, 2009](https://web.archive.org/info/new_privacy_policy)  
+>  [Learn more about our Privacy Policy](http://customer.comcast.com/Pages/FAQListViewer.aspx?topic=Internet&folder=cdf13524-c22a-49b8-9128-6896a8719ad0)
 
 Welcome to Fancast.com, a service of Comcast Interactive Media and its affiliates (collectively, "Comcast," "we," or "us"). This statement discloses the privacy practices for this website only, including an explanation of: 
 
