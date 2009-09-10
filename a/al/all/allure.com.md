@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allure.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605054356id_/http%3A//www.allure.com/services/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allure.com privacy policy that was archived on 2009-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090910091744id_/http%3A//www.allure.com/services/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy: allure.com
 
