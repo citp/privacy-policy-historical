@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the globalsecurity.org privacy policy that was archived on 2009-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090616153638id_/http%3A//www.globalsecurity.org/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the globalsecurity.org privacy policy that was archived on 2009-09-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090910094933id_/http%3A//www.globalsecurity.org/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><!-- InstanceBegin template="/Templates/global.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <!-- InstanceBeginEditable name="head" -->
@@ -139,79 +139,6 @@ Opting out of a network does not mean you will no longer receive online advertis
 <a href="http://www.globalsecurity.org/sitemap.htm" title="Site Map">Site Map</a> <span class="navsep">|</span>
 <a href="http://www.globalsecurity.org/privacy.htm" title="Privacy Policy">Privacy</a>
 
-<script type="text/javascript">
-/* <![CDATA[ */
- 
-function checkAdblock() {
-	if ( detectAdblock() ){
-		trackAdblock('Adblock Detected');
-	} else {
-		trackAdblock('No Adblock');
-	}
-}
- 
-//Run checkAdblock when page is loaded
-if(document.addEventListener)
-	document.addEventListener("DOMContentLoaded", checkAdblock, false);
- 
-//adapted from http://stackoverflow.com/questions/2472/how-can-i-tell-if-a-web-client-is-blocking-ads
-function detectAdblock(){
-	//Create an invisible test image 
-	var AbpImage = document.createElement("IMG");
-	AbpImage.id = 'abp_detector';
-	AbpImage.src = '/images/ad/banner.gif';
-	AbpImage.style.width = '0px';
-	AbpImage.style.height = '0px';
-	AbpImage.style.top = '-1000px';
-	AbpImage.style.left = '-1000px';
-	document.body.appendChild(AbpImage);
-	//Check if Adblock has tried to hide the image
-	var AbpDetected = (ws_getComputedStyle(document.getElementById('abp_detector'),'display') == 'none');
-	//Be nice - remove the image 
-	document.body.removeChild(AbpImage);
-	return AbpDetected;
-}
- 
-//http://www.robertnyman.com/2006/04/24/get-the-rendered-style-of-an-element/
-function ws_getComputedStyle(oElm, strCssRule){
-	var strValue = "";
-	if(document.defaultView && document.defaultView.getComputedStyle){
-		strValue = document.defaultView.getComputedStyle(oElm, "").getPropertyValue(strCssRule);
-	}
-	else if(oElm.currentStyle){
-		strCssRule = strCssRule.replace(/\-(\w)/g, function (strMatch, p1){
-			return p1.toUpperCase();
-		});
-		strValue = oElm.currentStyle[strCssRule];
-	}
-	return strValue;
-}
- 
-//Record Adblock state  
-function trackAdblock(state){
- 
-	function readCookie(name) {
-		var nameEQ = name + "=";
-		var ca = document.cookie.split(';');
-		for(var i=0;i < ca.length;i++) {
-			var c = ca[i];
-			while (c.charAt(0)==' ') c = c.substring(1,c.length);
-			if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
-		}
-		return null;
-	}
- 
-	var current_cookie = readCookie('__utmv');
-	if ( (current_cookie==null) || (current_cookie.indexOf(encodeURIComponent(state)) == -1) ){
-		//Set the user-defined segmentation variable with the Google Analytics tracker
-		if (typeof pageTracker != 'undefined'){
-  			pageTracker._setVar(state);
-	  	}
-	}
-}
- 
-/* ]]> */
-</script>
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
