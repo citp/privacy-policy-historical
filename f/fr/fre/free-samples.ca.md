@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the free-samples.ca privacy policy that was archived on 2009-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090210063257id_/http%3A//free-samples.ca/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-samples.ca privacy policy that was archived on 2009-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090911095555id_/http%3A//free-samples.ca/privacy.php) for the most accurate reproduction.*
 
-# Free-Samples.ca
+# Free-Stuff.ca
 
 Free-Samples.ca is committed to providing both clients and end-users with the utmost in privacy and security. We abide by all industry guidelines and consistently monitor our policies, practices and operating methods in order to maintain our valued reputation and integrity. This is our promise to our clients, and end-users. 
 
@@ -17,6 +17,3 @@ Free-Samples.ca is committed to providing both clients and end-users with the ut
 **Delete/Deactivate** "Deactivating" refers to the process by which Personally Identifiable Information, upon request, is removed. Because of backups and records of deletions, it may be impossible to delete a consumer's entry without some residual information. An individual who requests to have Personally Identifiable Information deactivated will be functionally deleted. We will not sell, transfer, or use the information relating to a deleted individual in any way. To deactivate your account, please click unsubscribe at the bottom of one of our emails. 
 
 **Contact Information** Free-Samples.ca abides by the laws and guidelines of the Internet. We welcome any inquiries as to the use of collected information and cookies, product capabilities, or company methods and practices. If you have any questions, comments or corrections regarding personally identifiable information obtained through us, please e-mail to [ privacy@ourfreestuff.com](mailto:privacy@ourfreestuff.com)
-
-  
- 
