@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nokian900.com privacy policy that was archived on 2009-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090412211440id_/http%3A//www.nokian900.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nokian900.com privacy policy that was archived on 2009-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090911042829id_/http%3A//www.nokian900.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nokia N900 Internet Tablet
 
@@ -35,6 +35,20 @@ Most browsers are set to accept cookies. You can set your browser to refuse cook
 **Cookies and Web Beacons**
 
 We also use third party advertisements to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+
+**Google and DoubleClick DART cookies**
+
+We may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by clicking [here](http://www.doubleclick.com/privacy/dart_adserving.aspx "DART Ad-Serving and Search Cookie Opt-Out").
+
+\- Google, as a third party vendor, uses cookies to serve ads on your site.
+
+\- Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+
+\- Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html "More details about Google ad and content network privacy policy").
+
+You may view, edit and add to the categories used to provide you with interest-based advertising in the [Ads Preferences Manager](http://www.google.com/ads/preferences "More details about Ads Preferences Manager").
+
+For more informations about Google Ads privacy policies please visit the [Google Ad and Content Network Privacy Policy](http://www.google.com/privacy_cookies.html "More details about Google Ad and Content Network Privacy Policy")
 
 **Privacy of Children**
 
