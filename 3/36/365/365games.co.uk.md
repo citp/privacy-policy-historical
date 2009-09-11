@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 365games.co.uk privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420193649id_/http%3A//www.365games.co.uk/index.php%3Fshow_aux_page%3D12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 365games.co.uk privacy policy that was archived on 2009-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090911020339id_/http%3A//365games.co.uk/index.php%3Fshow_aux_page%3D12) for the most accurate reproduction.*
 
 # Privacy Policy - 365 Games online shop - The price you see is the price you pay
 
