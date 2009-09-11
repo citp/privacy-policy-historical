@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betterbathrooms.com privacy policy that was archived on 2008-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080512014035id_/http%3A//www.betterbathrooms.com/applogic/info/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betterbathrooms.com privacy policy that was archived on 2009-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090912001505id_/http%3A//www.betterbathrooms.com/applogic/info/privacy/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
