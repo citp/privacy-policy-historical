@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebodyshop-usa.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429142318id_/http%3A//www.thebodyshop-usa.com/bodyshop/beauty/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebodyshop-usa.com privacy policy that was archived on 2009-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090912001452id_/http%3A//www.thebodyshop-usa.com/beauty/privacy%3Fcm_re%3DTyra_VitaminE-_-Navigation-_-privacy%2Bpolicy) for the most accurate reproduction.*
 
 # The Body Shop - Privacy Policy
 
