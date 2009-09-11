@@ -1,25 +1,29 @@
-<!--The following is the downloaded HTML source of the ilike.com privacy policy that was archived on 2009-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090511110419id_/http%3A//www.ilike.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ilike.com privacy policy that was archived on 2009-09-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090911093752id_/http%3A//www.ilike.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
       <title>iLike - Privacy Policy</title>
   <link rel="search" type="application/opensearchdescription+xml" href="http://s1.ilike.com/osd.xml" title="iLike.com">
 
 
+  <meta name="title" content="iLike - Privacy Policy">
+  <meta name="description" content="iLike is a leading social music service that provides the most popular music app across social networks.  With over 50 million users, iLike helps you share music recommendations, playlists, and get personalized concert alerts.">
+
 
 
 
 <link rel="shortcut icon" href="http://s2.ilike.com/favicon.ico" type="image/x-icon">
 <link rel="icon" href="http://s2.ilike.com/favicon.ico" type="image/x-icon">
-<link rel="stylesheet" type="text/css" href="http://s1.ilike.com/ilike.css?v=36526">
+<link rel="stylesheet" type="text/css" href="http://s1.ilike.com/ilike.css?v=42304">
 
 
 
 <script src="http://s2.ilike.com/js/browser_sniff.js?v=1" type="text/javascript"></script>
 <script src="http://s0.ilike.com/js/prototype.js?v=1_6_0_3b" type="text/javascript"></script>
 <script src="http://s3.ilike.com/js/swfobject.js?v=1_4_4" type="text/javascript"></script>
-<script src="http://s1.ilike.com/js/application.js?v=36047" type="text/javascript"></script>
-<script src="http://s1.ilike.com/js/song.js?v=33088" type="text/javascript"></script>
+<script src="http://s2.ilike.com/js/application.js?v=42335" type="text/javascript"></script>
+<script src="http://s1.ilike.com/js/util.js?v=42305" type="text/javascript"></script>
+<script src="http://s1.ilike.com/js/song.js?v=41240" type="text/javascript"></script>
 
  
 
@@ -35,7 +39,8 @@
     
 <form name="s" id="artist_search_form" method="get" action="/artist/search">
   <span class="input"><input id="artist_qp" name="artist_qp" type="text" class="search_dimmed_text" value=""></span>
-  <input class="image" type="image" style="vertical-align:bottom;" src="/images/magGlass.gif" title="Search" value="Search">
+  <input class="image" type="image" align="absbottom" style="vertical-align:bottom;" src="/images/magGlass.gif" title="Search" value="Search">
+
 </form>
 
   </div>
@@ -47,11 +52,12 @@
   </div>
 </div>
 <div id="welcome" class="welcome">
-  <div style="float:right">  
+  <div style="float:right" class="helpfaq">
     <span style="font-size:12px; color:#656b6f;">
       <a rel="nofollow" href="http://www.ilike.com/faq/ilike">Help / FAQ</a>
     </span>  
   </div>
+  <div id="welcome_bar">
       <div class="welcomeText">
 
 
@@ -62,10 +68,21 @@
     </div>
 
     <div id="login_dialog" style="display:none;">
-  <div class="content">
-
+  
+  <div id="login_close" class="top_bar">
+    <a href="#" onclick="return false;"><img src="http://s2.ilike.com/images/purchase/close.gif" alt="Close"></a>
+  </div>
+  
+  <div id="login_dialog_content" class="content">  
     <div class="existing_users" id="existing_users">
-      <form action="/account/authenticate" method="post">        <h2>Existing users:</h2>
+      <form action="https://www.ilike.com/account/authenticate" id="login_dialog_form" method="post">
+        <div style="float:right;margin:7px 5px 0 0;">
+          <img style="margin:0;border:0;" src="http://s0.ilike.com/images/purchase/secure.gif" alt="Your information is secure">
+          <span style="color: #848A8D; font-size:12px;">Secure</span>
+        </div>
+        
+        <h2>Existing users:</h2>
+        <div id="login_dialog_error" style="display:none;color:red;font-weight:bold;"></div>
         <dl class="login">
           <dt>
             <label for="login_email" class="account_labels">Email address: </label>
@@ -83,7 +100,7 @@
 
           <dt></dt>
           <dd>
-            <input type="submit" class="std_btn std_btn_small" value="Sign in" title="Sign in" name="Sign in" tabindex="0" onclick="">
+            <input id="login_button" type="submit" class="std_btn std_btn_small" value="Sign in" title="Sign in" name="Sign in" tabindex="0" onclick="">
 
           </dd>
 
@@ -104,14 +121,13 @@
       <h2>New users:</h2>
       <p style="padding-bottom:10px; line-height:1.3em; color:#656b6f;">Register for an account if you're new around here.</p>
       <form action="/create" method="post">
-        <input type="submit" class="std_btn std_btn_medium" value="Create profile" title="Create profile" name="Create profile" tabindex="0" onclick="">
+        <input id="login_create_profile" type="submit" class="std_btn std_btn_medium" value="Create account" title="Create account" name="Create account" tabindex="0" onclick="">
 
       </form>
       <p style="padding-top:5px">
         <a rel="nofollow" href="/create">Learn more</a>
       </p>
     </div>
-    <div id="login_close"><a rel="nofollow" href="#">Close</a></div>
     <div class="clear"></div>
 
   </div>
@@ -123,12 +139,15 @@
 <div class="clear"></div>
 
 
+
+  </div>
 </div>
 
 
 <script type="text/javascript">
   <!--
   var h = null;
+
 
 
   if (!h && !is_FlashVersion.versionIsValid(new deconcept.PlayerVersion([9,0,115])))
@@ -145,6 +164,7 @@
     document.write("<div class='unsupported_browser '>" + h + "</div>");
     document.cookie = "browser_sniff=1";
   }
+
   // -->
 </script>
 
@@ -462,7 +482,7 @@ will only acquire your personally identifiable information subject to the terms 
       <span class="sep">//</span> <a rel="nofollow" href="http://www.ilike.com/faq" title="Help">Help</a>
     </li>
     <li>
-      <span class="sep">//</span> <a rel="nofollow" href="/account/artist_signup" title="Artist sign-up">Artist sign-up</a>
+      <span class="sep">//</span> <a rel="nofollow" href="http://c.ilike.com/conv_click.php?a=0&amp;c=index&amp;h=9562809b381c9e8650cb906b69d99c6f&amp;i=artist_signup_link_footer&amp;u=http%3A%2F%2Fwww.ilike.com%2Faccount%2Fartist_signup" title="Artist sign-up">Artist sign-up</a>
     </li>
     <li>
       <span class="sep">//</span> <a rel="nofollow" href="/advertise" title="Advertise">Advertise</a>
@@ -478,10 +498,7 @@ will only acquire your personally identifiable information subject to the terms 
     </li>
 
     <li>
-      <span class="sep">//</span><a rel="nofollow" href="http://ilike.echotunes.com/store/">T-shirts</a>
-    </li>
-    <li>
-       <span class="sep">//</span><a rel="nofollow" href="http://blog.ilike.com/">Blog</a>
+       <span class="sep">//</span> <a rel="nofollow" href="http://blog.ilike.com/">Blog</a>
     </li>
   </ul>
   <div style="margin-left:160px; margin-top:5px;">
@@ -497,13 +514,33 @@ will only acquire your personally identifiable information subject to the terms 
       </div>
     </div>
     
+<div id="purchase_dialog" style="display:none;">
+  <div class="top_bar">
+    <a href="#" id="purchase_close" onclick="return false;"><img src="http://s2.ilike.com/images/purchase/close.gif" alt="Close"></a>
+  </div>
+  
+  <div class="content">
+    <div id="purchase_spinner">
+  <center>
+    <div style="padding-top:75px; padding-bottom:100px;">
+      <img style="border:none;" src="http://s3.ilike.com/images/spinner_50x50.gif" width="50" height="50">
+    </div>
+  </center>
+</div>
+
+    <div id="purchase_flow" style="display:none;"></div>
+    <div id="purchase_flow_error" style="display:none;">
+      Your purchase failed.  You have not been charged and the problem has been logged.  If the problem persists please try back later.
+    </div>
+  </div>
+</div>
 
 
 
 
 <object style="position:absolute; top:0; left:0;" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,&#10;22,0" width="0" height="0" id="action_queue_processor" align="middle">
   <param name="allowScriptAccess" value="always">
-  <param name="movie" value="http://swfs.ilike.com/swfs/actionQueueProcessor.swf?v=35380">
+  <param name="movie" value="http://swfs.ilike.com/swfs/actionQueueProcessor.swf?v=42382">
   <param name="quality" value="high">
   <param name="bgcolor" value="#ffffff">
 
@@ -518,8 +555,9 @@ will only acquire your personally identifiable information subject to the terms 
   var g_data = {"ctmt_login_url":"\/static\/ctmt_login?page=privacy"};
   var g_baseUrl = "/";
   var g_facebookBaseUrl = "http://www.ilike.com/";
+  var g_baseKeywordImageUrl = 'http://c.ilike.com/conv_click.php?u=http%3A%2F%2Fs0.ilike.com%2Fimages%2Fpixel.gif&h=0072ac51ee3ddc6b3c8951c640ebb916&i=';
   var g_swfBaseUrl = "http://swfs.ilike.com/swfs/";
-  var g_swfVersion = '35380';
+  var g_swfVersion = '42382';
   // -->
 </script>
 <script type="text/javascript">
@@ -543,10 +581,12 @@ _utitle = 0;
        qacct:"p-45OgKoBbg5goQ"
    };
 </script>
+
 <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
 <noscript>
   <img src="http://pixel.quantserve.com/pixel/p-45OgKoBbg5goQ.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
 </noscript>
+
 
 
 
