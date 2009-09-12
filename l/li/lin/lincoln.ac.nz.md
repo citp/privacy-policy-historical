@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lincoln.ac.nz privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608011239id_/http%3A//www.lincoln.ac.nz/story6697.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lincoln.ac.nz privacy policy that was archived on 2009-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090912184438id_/http%3A//www.lincoln.ac.nz/story6697.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -72,4 +72,4 @@ Back to top
 
  
 
-Every effort is made to ensure the information contained herein is correct at the time of printing, but the content may be subject to change. Lincoln University reserves the right to make changes, amendments or deletions - including withdrawal of courses, should circumstances change. Lincoln University does not assume and hereby disclaims any express or implied liability whatsoever to any party for any loss or damage caused by errors or omissions, whether these errors or omissions result from negligence, accident or any other cause.   24 February 2020 06:32:07 AM New Zealand Local Time 
+Every effort is made to ensure the information contained herein is correct at the time of printing, but the content may be subject to change. Lincoln University reserves the right to make changes, amendments or deletions - including withdrawal of courses, should circumstances change. Lincoln University does not assume and hereby disclaims any express or implied liability whatsoever to any party for any loss or damage caused by errors or omissions, whether these errors or omissions result from negligence, accident or any other cause.   24 February 2020 06:32:24 AM New Zealand Local Time 
