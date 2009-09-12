@@ -1,115 +1,106 @@
-> *The following text is extracted and transformed from the eharmony.com.au privacy policy that was archived on 2008-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080720074255id_/https%3A//www.eharmony.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eharmony.com.au privacy policy that was archived on 2009-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090912105809id_/http%3A//www.eharmony.com.au/privacy/statement) for the most accurate reproduction.*
 
 # eHarmony - Privacy Policy
 
-**eHarmony Australia Privacy Statement**
+**General Information**
 
-eHarmony is committed to protecting your privacy. eHarmony will only collect, use, disclose and store any personal information in accordance with the Privacy Act and this privacy policy.
+eHarmony is committed to protecting your privacy. eHarmony will only collect, use, disclose and store any personal information in accordance with the Australian National Privacy Principles set out in the _Privacy Act 1988_ (the “Act”), all Australian and U.S. privacy legislation, and this privacy policy.
 
-eHarmony complies with all Australian and US Privacy legislation including but not limited to the Australian National Privacy Principles.
+This privacy policy discloses the privacy practices for the eHarmony Australia website, which may be accessed through [www.eHarmony.com.au](http://www.eharmony.com.au/). This privacy policy (together with the eHarmony [Terms and Conditions of Service](https://web.archive.org/about/terms) and any other documents referred to on it) sets out the basis on which any personal information we collect from you, or that you provide to us, will be processed by us. By agreeing to use eHarmony’s products and services you agree that you consent to eHarmony using your personal information together with any sensitive personal information, such as your ethnic origin, in conformity with the processes set out in the eHarmony [Terms and Conditions of Service](https://web.archive.org/about/terms) and this privacy policy. If you do not provide the information requested, we may not be able to provide eHarmony’s products or services.
 
-All information collected by eHarmony about you and your actions while on the eHarmony site will be sent to eHarmony's offices in the USA for analysis. eHarmony may use third parties to help eHarmony provide its service to you. eHarmony promises that any third party who has access to your data has agreed to handle your data in conformity with this Privacy Policy.
+For the purpose of the Act, the data controller is eHarmony, Inc. of _P.O. Box 60157, Pasadena, California 91116 USA_.
 
-By agreeing to use the eHarmony Service you agree that you will allow eHarmony to use your personal information in conformity with the processes set out in the eHarmony Terms and Conditions and this Privacy Policy.
+**What Information We Collect**
 
-If you have questions or concerns regarding this Privacy Policy or any other aspect of the eHarmony service, please contact eHarmony's Customer Relations Department by sending email to [customerrelations@eHarmony.com.au](mailto:customerrelations@eHarmony.com.au) or by writing us at eHarmony Australia, P.O. Box 60157, Pasadena CA 91116 USA.
+The types of information that eHarmony collects fall under two general categories: personally identifiable information (PII) and non-personally identifiable information (non-PII), including, where relevant, sensitive information as defined in the Act. PII consists of any information which can be used to specifically identify you as an individual, whereas non-PII consists of aggregate information or any information that does not specifically identify you as an individual. The following sections describe how your PII and non-PII are collected by us, and how we use such information.
 
-  1. **Information We Collect and How It's Used**
-  
-  
-**Questionnaires and Profiles**   
+**How We Collect and Use Information**
 
-    1. eHarmony collects a wide variety of personal information about you and others when you register and as you use the eHarmony Service. eHarmony, and its third party service providers use this information to provide the eHarmony relationship service and related services.
-    2. Using the relationship questionnaire that is a part of the eHarmony matching service registration process, we ask questions to analyse your personality to assist eHarmony in finding potential long-term matches. Except as explicitly provided herein, none of the information collected by eHarmony as part of the intake questionnaire used by the matching engine or personality profile is made accessible to the public, other users of the site or anyone not employed by eHarmony directly.
-    3. eHarmony will use all information collected as strictly confidential. Users of the eHarmony service can amend their personal profiles at any time.
-    4. Information collected by eHarmony will not be shared with other eHarmony users except as expressly allowed by you, or in a manner in which your true identity is not revealed - i.e. no personally identifying details revealed, and only be shown to potential match candidates. In this Privacy Policy, we will refer to information that reveals personally identifiable information as "Personal Data" and to information that does not reveal any personally identifiable information about a user as "Anonymous Data".
-    5. Non-subscribing visitors to eHarmony are not allowed access to Personal Data or Anonymous Data in any way, other than Anonymous Data displayed as part of a user profile, which is viewable by other users who are matched with that user.
-    6. By agreeing to eHarmony's terms and conditions including this Privacy Policy, you also agree to allow us to use Anonymous Data which may be based on your Personal Data submitted through eHarmony.com.au to continue our research into successful relationships. This research may be conducted by eHarmony itself or by third party psychologists and behaviour research scientists. The results of this research may be published in academic or other journals. You can find out more about the standards we follow in conducting scientific research at the following site: <http://www.hhs.gov/ohrp/humansubjects/guidance/belmont.htm>.
+  * _Log Files._ Any time you visit any of our websites, our servers automatically gather information from your browser (such as your IP addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks) to analyze trends, administer the site, prevent fraud, track visitor movement in the aggregate, and gather broad demographic information. For example, we may log your IP address for system administration purposes. IP addresses are logged to track a user’s session. This gives us an idea of which parts of our site users are visiting. We do not share the log files externally.
+  * _Cookies._ We use “cookies” to keep track of some types of information while you are visiting our website or using our services. Cookies are very small files placed on your computer, and they allow us to count the number of visitors to our website and distinguish repeat visitors from new visitors. They also allow us to save user preferences and track user trends. You may change your internet browser settings to reject all cookies. However, we rely on cookies for the proper operation of our website and if your browser is set to reject all cookies, the website will not function properly. Users who refuse cookies assume all responsibility for any resulting loss of functionality. We do not link the cookies to any PII.
+  * _Web Beacons._ “Web beacons” (also known as “clear gifs” and “pixel tags”) are small transparent graphic images that are often used in conjunction with cookies in order to further personalize our website for our users and to collect a limited set of information about our visitors. We may also use web beacons in email communications in order to understand the behaviour of our customers. We do not link the web beacons to any PII.
+  * _Information About You._ When you register or subscribe to any of our services, we collect a wide variety of information about you. For our Singles service, for example, you provide us with answers to our proprietary questionnaire, and we use your answers to build a personality profile for you and to match you with other compatible singles. Your individual responses to the questions about your personality in our questionnaire will be held strictly confidential, while other non-PII about yourself (such as first name, occupation, height, etc.) will be used to build your “about me” profile. For interactive content and community services such as Advice where you may choose to have a public profile, we may display your information to other community members and visitors. You may choose to provide us with your photo(s) or video(s) and by providing us such content, you agree that we may make them available to your matches and other users of eHarmony’s services. Except as otherwise stated in this privacy policy or where you consent, we do not disclose your PII to your matches or other users of our services.
+  * _Purchase Information._ To process purchases, we may require your name, address, phone number, email address and credit card information. eHarmony will only use your credit card and other financial details that you may supply for the e-commerce transaction authorised by you on the eHarmony site. Credit card transactions are processed through industry standard Secure Socket Layer (SSL) and/or strong encryption (3DES) by a third party, which only uses your information for that purpose.
+  * _E-mails and Telephone Calls._ eHarmony fully complies with the requirements of the Australian _Spam Act 2003_ (Cth). We require an e-mail address from you when you register for our services. We use your e-mail for both transactional (e.g., order confirmation, refund and renewal processing, notifying of matches for our Singles service) and promotional (e.g., newsletters, new product offerings, special discounts, event notifications, special third-party offers) purposes. E-mail messages we send you may contain code that enables our database to track your usage of the e-mails, including whether the e-mail was opened and what links (if any) were clicked. Your consent to our providing the promotional information will be implied unless you notify us that you do not wish to receive this information. If you would rather not receive promotional e-mails from us, please see the section below labeled “Choice/Opt-Out“. We reserve the right to send you certain communications relating to the eHarmony services, such as service announcements and administrative messages, without offering you the opportunity to opt out of receiving them. We may also contact you by telephone or text message (including to any wireless number you may provide to us) solely in connection with eHarmony’s services. If you would rather not receive telephone calls or text messages from us, you may delete your number from your account preferences page(s), or ask to be removed from our contact list if you receive a call or text message from us.
+  * _Demographic Data._ Demographic data is also collected at our site. We use this data to tailor our visitors’ experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. Some of this information may be shared with advertisers on a non-personally identifiable basis.
+  * _Online Survey Data._ We may periodically conduct voluntary member surveys. We encourage our members to participate in such surveys because they provide us with important information regarding the improvement of our services. You may also volunteer for certain surveys that we may offer to our users, and any additional rules regarding the conduct of such surveys will be disclosed to you prior to your participation. We do not link the survey responses to any PII, and all responses are anonymous.
+  * _Information Regarding Your Friends._ eHarmony encourages you to refer a friend to our service by sending us a friend’s name and email address. We will keep this information in our database, and send that person a one-time email containing your name and inviting them to visit our site. We will not send them additional emails unless they request more promotional emails or if they sign up for our services. This email will also include a quick and easy way for them to remove their information from our database, if they desire. We ask that you do not abuse this feature by entering names and addresses of those who would not be interested in eHarmony. You may also give gift memberships to your friends, in which case we will use your friends’ email address that you provide in order to deliver the gift.
+  * _Public Forums._ eHarmony makes discussion boards available to its users and visitors. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose any personally identifying information. Please consult our [Community Guidelines](http://advice.eharmony.com.au/?page=community_guidelines) when posting comments on the Advice discussion boards.
+  * _Use for Research._ In addition to the uses outlined above, by using eHarmony.com.au, you agree to allow eHarmony to use anonymized information from you and your experiences through the Services to continue eHarmony’s research into successful relationships and to improve the Services. This research, conducted by psychologists and behaviour research scientists, may be published in academic journals. However, all of your responses will be kept anonymous, and no PII will ever be published. You can find out more about the standards we follow in conducting scientific research by clicking [here](http://www.hhs.gov/ohrp/humansubjects/guidance/belmont.htm).
 
-**Information Supplied by You at Registration or Purchase**
 
-    7. eHarmony offers a subscriber-based service to its users seeking partners, as well as offering products related to successful relationships and personal growth for retail sale. eHarmony also makes available website content, public forums and other communication tools.
-    8. Financial Service Providers: To process eHarmony subscriptions and/or product purchases, we may require your name, billing address, phone number, email address, shipping address and credit card information. Information gathered during product purchases is used primarily to process your order or as otherwise described herein and eHarmony may use third party service providers which will have access to your Personal Information to provide the eHarmony service. In general, you will receive one email notification that you have placed an order, and another email notification that your order has been filled. You will be similarly notified of subscription renewal transactions when they occur.
-    9. Credit card transactions: eHarmony uses industry standard third party credit card processing procedures which use encryption to protect your confidential financial information. eHarmony will only use your credit card and other financial details that you may supply for the e-commerce transaction authorized by you on the eHarmony site.
-    10. Email contact: eHarmony fully complies with the requirements of the Spam Act 2003 (Cth). By agreeing to this Privacy Policy you agree that eHarmony uses e-mail contact Information provided by you to notify of various eHarmony business including email to inform you of potential match candidates identified by eHarmony based on your matching criteria and profile. Once you begin eHarmony's registration process, we may also occasionally send you newsletters and email you notifications of special events or product or service offerings at eHarmony and, with your consent, offers on behalf of our trusted partners. If you have started, but not completed, the registration process, we may also send you email messages encouraging you to complete the process and become a subscriber.
-    11. All of the email messages we send you may contain code that enables our database to track your usage of the emails, including whether the email was opened and/or what links (if any) were clicked. You may decide at any time to stop receiving eHarmony email and may unsubscribe from the eHarmony service by following the links in the eHarmony email. If you have completed your questionnaire, you may also unsubscribe by logging into your account and adjusting your Email Settings after clicking on the My Settings tab.
-    12. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content or advertising that we think they might be interested in, and displaying the content according to their preferences. Some of this information (i.e., customer demographic information) may be shared with advertisers on an aggregate, non personally identifiable basis.
-    13. Advertisements, promotions and offers from third-party advertisers may be provided to you while you are visiting the eHarmony web site. If you choose to accept any such offers, you agree that eHarmony may provide your information, including billing information, to the advertiser. Your information will not be transferred unless and until you actually accept the offer. You may opt-out of the offer at any time up until this point. Please refer to the third-party advertiser's own privacy policy (provided on the offer pages) if you have any questions regarding how your information is used. Please be aware that these offers may be presented on pages which may appear to be eHarmony but are in fact a third party site with an eHarmony look and feel.
-    14. eHarmony Corporate Transactions: As we develop eHarmony's business, we may buy or sell various corporate assets as our eHarmony service evolves. By registering with eHarmony you agree that eHarmony may transfer all or a portion of your personally identifiable information that you have supplied to eHarmony to a new company as part of this type of transaction. In particular, if eHarmony is sold to another party, your personal information may be part of the assets transferred to the acquiring party. In the case of any transfer of your personal information, you will be notified if there are any material changes to the way your personally identifiable information is stored and used.
 
-**Additional Information Supplied by Your Browser and Used by eHarmony**
+**Disclosure of Your Information to Third Parties**
 
-    15. eHarmony uses data created by use of the eHarmony site by our users. Data collected by eHarmony includes but is not limited to information as to where the users transfer to the eHarmony service from and where they transfer to after leaving eHarmony. This type of information gives eHarmony ideas as to which parts of our site users are visiting and how long they visit.
-    16. Our site also uses cookies to keep track of some types of information while you are visiting or using eHarmony. Cookies are very small files placed on your computer, so that when you return to eHarmony we can identify you. Cookies are needed for the eHarmony site to operate properly. If your browser is set to reject all cookies, the site will not function properly.
-    17. We use two types of cookies, namely:
-      1. Session Cookies, which are only used during a single browsing session to let our website know that the same person is using it during that session. As soon as your browser is closed, the session cookie set by our website is destroyed; and
-      2. Permanent Cookies, which are downloaded onto your computer when you visit our website. These cookies enable us to recognise your browser every time you visit our website and to track the pages you print and visit.
+  * _Disclosure By Law._ You acknowledge and agree that eHarmony may disclose information you provide if required or permitted to do so by law, or if we, in our sole discretion, believe that disclosure is necessary to (1) comply with the law, requests or orders from law enforcement, or any legal process; (2) protect or defend eHarmony’s rights; or (3) protect another person’s life, health or safety, such as when harm or violence against any person (including the user) is threatened.
+  * _Disclosure to Protect Abuse Victims._ Notwithstanding any other provision of this privacy policy or the [Terms and Conditions of Service](https://web.archive.org/about/terms), eHarmony reserves the right, but has no obligation, to disclose any information that you submit to the Services, if in its sole opinion, eHarmony suspects or has reason to suspect, that the information involves a party who may be the victim of abuse in any form. Abuse may include, without limitation, elder abuse, child abuse, spousal abuse, neglect, or domestic violence. Information may be disclosed to authorities that eHarmony reasonably believes will lessen or prevent the abuse. Appropriate authorities may include, without limitation, law enforcement agencies, child protection agencies, or court officials. You hereby acknowledge and agree that eHarmony is permitted to make such disclosure.
+  * _Disclosure to Trusted Third Parties By Us._ We may share your PII with service providers that may be associated with us to help provide services to you. For example, outsourced customer care agents or technology assistants may need access to your PII to perform our services for you. Your PII will be kept in the utmost confidence by such associated service providers and we will not share your PII with anyone who we do not reasonably consider will comply with this privacy policy. In addition, from time to time and only upon receipt of express consent, we may share PII (such as e-mail or mailing address) about our user base with carefully selected third parties, so they can offer goods and services that we believe may be of interest to our users. If you do not wish to receive offers from our trusted partners, you can change your e-mail preferences at any time by following the steps outlined in the “Choice/Opt Out” section below.
+  * _Disclosure to Trusted Third Parties at Your Request._ When purchasing an eHarmony subscription or while visiting our site, we may provide you with advertisements, promotions, sweepstakes and offers from third party providers. If you choose to accept any such offers, you may either (depending on the situation) directly provide your information in connection with the offer to such third party provider, or eHarmony will provide your information, including billing information, to the third party provider by pre-populating the offer registration forms. Your information will not be transferred until you actually accept the offer. You may opt-out of the offer at any time up until this point. Please refer to the third party provider’s own privacy policy (provided on the offer pages) if you have any questions regarding how your information is used by such providers. Please be aware that these offers may be presented on pages framed by the eHarmony website. We do this to provide a seamless experience. Although these offer pages have the look and feel of our website, you will be submitting your information directly to the third-party advertiser. You agree that eHarmony will not be responsible or liable for any loss or damage of any sort incurred as the result of any such dealings, including the sharing of the information you supply to eHarmony with third party providers described here, or as the result of the presence of such providers on the eHarmony site.
+  * _Information Transferred As a Result of Sale of Business._ By registering with eHarmony you acknowledge that eHarmony may transfer your personal data to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries. We may also transfer your personal data to third parties in the event that we sell or buy any business or assets, in which case we may transfer your personal data to the prospective seller or buyer of such business or assets. In particular, if eHarmony or substantially all of its assets are acquired by another party, your PII may be part of the assets transferred to the acquiring party. In the case of any transfer of your PII, we will reconfirm your consent before any material changes are made to the way your PII is stored and used.
+  * _Information Transferred Overseas._ We process all information, including your PII, via our servers and networks located in the United States or other countries. By using our services and expressly assenting to this privacy policy, you have consented to the overseas transfer of your PII solely for the purpose of providing you the services for which you have registered or to which you have subscribed. We reserve the right to transfer your PII back to Australia. We take all reasonable steps to ensure that all overseas recipients will not hold, use or disclose your PII inconsistently with the National Privacy Principles.
 
-**Who will see or have access to your personal information?**
 
-    18. Though we make every effort to preserve user privacy, we may disclose information you provide if required to do so by law or if we have a good faith belief that disclosure is necessary or desirable to (1) comply with the law or with legal process served on us; (2) protect and defend our rights or property; (3) act in an emergency to protect someone's safety or (4) as expressly provided herein.
-    19. eHarmony also uses third party service providers to supply portions of the eHarmony service. Any third party service providers who have access to eHarmony user personal information will be bound by contract to keep such information confidential and subject at all times to this Privacy Policy.
 
 **Third-Party Advertising**
 
-    20. We may use third-party advertising agencies to serve ads on behalf of eHarmony or third-party advertisers (e.g., retailers of goods or services). These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous.
-  
+We may use third-party advertising agencies or other service providers to serve ads on our website on behalf of eHarmony or third-party advertisers (e.g., retailers of goods or services). These companies may employ cookies and beacons (also known as single pixel gifs or action tags) to measure advertising effectiveness. Any information that these third parties collect via cookies and beacons is completely anonymous. Some of these third-party advertising agencies may be members of the Network Advertising Initiative, which offers you the option to opt out of ad targeting from its member agencies at <http://www.networkadvertising.org/consumer/opt_out.asp>
 
-  2. **Age Restrictions**
-    1. eHarmony will not create matches for anyone under the age of 18. All adults are welcome to explore the site, complete the Relationship Questionnaire and obtain a Personality Profile. Any information we receive from people we believe to be under the age of 18 will be deleted from our database.
-  
+We will only share your information with third parties in the ways set out in this privacy policy.
 
-  3. **Public Forums**
-    1. eHarmony makes message boards available to its users and visitors. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose any personally identifying information.
-  
+**Age Restrictions**
 
-  4. **Send Profile to a Friend**
-    1. eHarmony encourages you to refer a friend to our service by sending him or her a copy of your Personality Profile. In this section you are able to send us a friend's name and email address. Please consider whether your friend will want to be contacted by email from eHarmony prior to submitting their contact information. We will send that person a one-time email containing your name and inviting them to visit our site with a link to your Personality Profile. We will not store their information in our database or send them additional emails unless they request more promotional emails or if they register for our services. We ask that you do not abuse this feature by entering names and addresses of those who would not be interested in eHarmony.
-  
+Our age restrictions are set forth in our [Terms and Conditions of Service](https://web.archive.org/about/terms). We do not allow people under the age of 18 to register for our service, although persons over the age of 13 may visit certain pages of our site. We will use all reasonable efforts to remove from our databases any information we may receive from users we believe to be under the age of 18.
 
-  5. **Security**
-    1. eHarmony has security measures in place to protect the loss, misuse and alteration of the information stored in our database. These measures include the use of Secure Server technology during credit card transactions and administrative access to site data, as well as other proprietary security measures which are applied to all repositories and transfers of user information. Although we will exercise all reasonable care in providing secure transmission of information between your computer and our servers, we cannot ensure or warrant the security of any information transmitted to us over the Internet and to the extent allowed by law, we accept no liability for any unintentional disclosure.
-    2. You can also help us protect your personal information by taking precautions when using the Internet. It is a good idea to regularly change any passwords and to use a secure browser.
-  
+**Security**
 
-  6. **Policies and Remedies**
-  
+eHarmony has extensive security measures in place to protect the loss, misuse and alteration of the information stored in our database. These measures include the use of Secure Socket Layer (SSL) and/or strong encryption (3DES) technology during credit card transactions and administrative access to site data, as well as other proprietary security measures which are applied to all repositories and transfers of user information. We will exercise reasonable care in providing secure transmission of information between your computer and our servers, but given that no information transmitted over the Internet can be guaranteed 100% secure, we cannot ensure or warrant the security of any information transmitted to us over the Internet and to the extent allowed by law, we accept no liability for any unintentional disclosure.
+
 **Links to Other Sites**
-    1. eHarmony is not responsible for the privacy practices or the content of other websites that may be linked to this site or of any third party advertisers.
 
-**Removing Personal Data Supplied to eHarmony from the Service**
+eHarmony is not responsible for the privacy practices or the content of other websites that may be linked to this site or of any third party advertisers.
 
-    2. eHarmony users may use any of the following options for removing their information from our service database if they do not wish to receive future communications.
-    3. Send email to [privacy@eharmony.com.au](mailto:privacy@eharmony.com.au) with the word "Remove" in the subject field; or
-    4. Send mail to the following postal address:   
-eHarmony Australia   
-P.O. Box 60157   
-Pasadena, CA 91116 USA 
-    5. You can also opt-out of receiving promotional emails and newsletters by clicking on the "Email Settings" link on your Account Settings page and un-checking the undesired promotions.
+**Choice/Opt-Out**
+
+We generally retain your PII only for so long as is necessary for the purpose for which it is used, or required by law. You may use the following options for removing your information from our e-mail database if you wish to opt out of receiving promotional e-mails and newsletters.
+
+  1. Click on the “unsubscribe” link on the bottom of the e-mail;
+  2. Send mail to the following postal address letting us know which promotional e-mails you wish to opt-out of:
+eHarmony, Inc.  
+P.O. Box 60157  
+Pasadena, California 91116  
+USA
+  3. For the eHarmony Singles service, select our [Help link](https://web.archive.org/singles/servlet/support/help) from your account home page and search our [FAQ’s](http://help-singles.eharmony.com.au/cgi-bin/eharmony_singlesau.cfg/php/enduser/guided_alp.php) to find the answer you are looking for, or [send us an e-mail](https://web.archive.org/singles/servlet/rightnow/landing?) and our Customer Care agents will be happy to assist you; or
+  4. For any services that allow you to control which e-mails you receive, go to the e-mail settings page from your account home page, and un-check the undesired promotions.
+
+
 
 **Correct/Update**
 
-    6. We will advise you of what personal information we hold about you on request. If your request is particularly complex or requires detailed searching of our records, there may be a cost to you in order for us to provide this information.
-    7. If you believe there are errors in our records about you, please let us know and we will be happy to investigate and correct any inaccuracies. You can send email to [support-au@eharmony.com.au](https://web.archive.org/web/20080720074255id_/https%3A//www.eharmony.com.au/support-au@eharmony.com.au).
-    8. eHarmony also provides users the following options for changing and modifying information previously submitted. 
-    9. Users may change their credit card, password and other information by going to My Matches page and selecting "My Account" link in the top navigation area;
-    10. You can send mail to the following postal address:   
-eHarmony Australia   
-P.O. Box 60157   
-Pasadena, CA 91116 USA 
-  7. **Contacting the Website**
-    1. If you have any questions about this privacy statement, the practices of this site, or your dealings with the eHarmony website, you can contact:   
-Site Administrator   
-eHarmony Australia   
-P.O. Box 60157   
-Pasadena, CA 91116 USA   
+eHarmony provides users the following options for correcting or modifying information previously submitted.
+
+  1. For the eHarmony Singles service, select our [Help link](https://web.archive.org/singles/servlet/support/help) from your account home page and search our [FAQ’s](http://help-singles.eharmony.com.au/cgi-bin/eharmony_singlesau.cfg/php/enduser/guided_alp.php) to find the answer you are looking for, or [send us an e-mail](https://web.archive.org/singles/servlet/rightnow/landing?) and our Customer Care agents will be happy to assist you; or
+  2. For any services where you have an account page, you may change your credit card (if applicable), e-mail address, password and other information from the account settings or preferences page; or
+  3. You can send mail to the postal address listed above, providing us with your account information and letting us know which information you wish to update.
+
+
+
+**Contacting the Website**
+
+If you have any questions about this privacy policy, the practices of this site, or your dealings with the eHarmony website, you can contact:
+
+Site Administrator  
+eHarmony, Inc.  
+P.O. Box 60157  
+Pasadena, California 91116  
+USA  
 [privacy@eharmony.com.au](mailto:privacy@eharmony.com.au)
-  
-**Acceptance of Privacy Statement**
-    2. Your use of our website, including any dispute concerning privacy, is subject to this privacy statement and the Terms and Conditions of Service.
-    3. We may revise our Privacy Policy at any time. If we decide to amend our Privacy Policy, we will amend the eHarmony.com.au service and any other place we deem appropriate.
-  
+
+**Acceptance of Privacy Policy**
+
+Your use of our website, including any dispute concerning privacy, is subject to this privacy policy and the [Terms and Conditions of Service](https://web.archive.org/about/terms).
+
+Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail or other suitable means. Your continued use of any section of our website following posting and/or notification of the updated privacy policy will constitute your acceptance of the privacy policy as amended.
+
 **Effective Date**
-    4. This privacy policy was last revised in November 2007.
 
-
+This privacy policy was last revised on May 29, 2009.
