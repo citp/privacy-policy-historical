@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the smartyhost.com.au privacy policy that was archived on 2009-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090302222840id_/http%3A//www.smartyhost.com.au/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartyhost.com.au privacy policy that was archived on 2009-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090912153019id_/http%3A//www.smartyhost.com.au/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Information Collection** **and Use**  
-Smartyhost Pty Ltd is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Smartyhost Pty Ltd collects information from our users at several different points on our website.
+**Information Collection** **and Use**   
+SmartyHost, a business unit of MYOB Australia E1 Pty Ltd, is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. SmartyHost collects information from our users at several different points on our website.
 
 **Order**  
 We request information from the user on our order form. Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, this contact information is used to get in touch with the user.
@@ -19,8 +19,8 @@ We use IP addresses to analyze trends, administer the site, track user's movemen
 **Sharing**  
 We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.
 
-**Links**  
-This web site contains links to other sites. Please be aware that we Smartyhost Pty Ltd are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+**Links**   
+This web site contains links to other sites. Please be aware that we, SmartyHost, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
 **Newsletter**  
 If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address.
