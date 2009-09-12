@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realplayer.com privacy policy that was archived on 2009-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090224174252id_/http%3A//www.realnetworks.com/company/privacy/%3Fpageid%3Dunagi.16696702.wrapper%26pageregion%3Dfooter%26src%3Drealplayer_com_1%26pcode%3Drn%26opage%3Drealplayer_com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realplayer.com privacy policy that was archived on 2009-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090912041748id_/http%3A//www.realnetworks.com/company/privacy/index.html) for the most accurate reproduction.*
 
 # Company > RealNetworks, Inc., and Affiliated Entities Privacy Policy
 
