@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the film.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629191159id_/http%3A//www.realnetworks.com/company/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the film.com privacy policy that was archived on 2009-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090912041748id_/http%3A//www.realnetworks.com/company/privacy/index.html) for the most accurate reproduction.*
 
 # Company > RealNetworks, Inc., and Affiliated Entities Privacy Policy
 
