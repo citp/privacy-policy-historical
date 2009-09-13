@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rmitenglishworldwide.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617004231id_/http%3A//www.rmitenglishworldwide.com/docs/Website%2520Privacy%2520%26%2520Security%2520Statement%2520FINAL%2520Oct%25202007.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rmitenglishworldwide.com privacy policy that was archived on 2009-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090913110905id_/http%3A//www.rmitenglishworldwide.com/docs/Website%2520Privacy%2520%26%2520Security%2520Statement%2520FINAL%2520Oct%25202007.pdf) for the most accurate reproduction.*
 
 # Website Privacy & Security Statement
 
