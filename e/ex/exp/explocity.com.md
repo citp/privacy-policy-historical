@@ -1,15 +1,23 @@
-> *The following text is extracted and transformed from the explocity.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618193238id_/http%3A//www.explocity.com/privacypolicy.asp%3Fcity%3DBLR) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explocity.com privacy policy that was archived on 2009-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090913114626id_/http%3A//bangalore.explocity.com/Bangalore/privacy-policy) for the most accurate reproduction.*
 
-# Explocity.com. Bangalore. The city as it happens. Privacy policy.
+# Privacy policy - Bangalore - Explocity.com
 
-[](http://bangalorerestaurantguide.com/)
+  
 
-| |  Where am I? [Bangalore](https://web.archive.org/Bangalore.asp?city=BLR)  Privacy Policy  
-**
 
-### Privacy Policy
+[](http://bangalorecityguide.pagician.com/)
 
-**
+Planning a trip to Bangalore?
+
+Read the digital edition of the very popular visitor magazine, explocity Bangalore Guide.
+
+[](http://bangalorecityguide.pagician.com/)
+
+[](http://www.bangalorerestaurantguide.com/)
+
+Explocity Bangalore / bangalore.explocity.com provides business visitors and tourists with Bangalore related information on sights and attractions in Bangalore, business listings, events in Bangalore, eating out at restaurants in Bangalore, Bangalore hotels, Bangalore malls, adventures, music, and movies in Bangalore, travel and tourism, Shopping, Bangalore nightlife... practically everything Bangalore! 
+
+##  Privacy Policy 
 
 By "Explocity", we mean Explocity Private Limited and explocity.com, its employees, managers, officers, shareholders, directors and to the extent that it is relevant to the context, its affiliates. By "website" or "site" we mean the contents of explocity.com (unless the context otherwise describes) as accessed at the time of usage and as intended for display by us. When you visit our site and any of the pages contained herein, you acknowledge that you have read the Terms of Use and Notice of Copyright and the Privacy Policy, and any other disclaimers. Further, you accept that you are bound by the terms and conditions spelled out by us, as may be modified from time to time. If you do not agree with any of our disclaimers below, please do not read the material on any of our pages
 
@@ -26,9 +34,4 @@ By "Explocity", we mean Explocity Private Limited and explocity.com, its employe
 
 
 
-If you have any questions or need your doubts clarified, please write to us at [**admin@explocity.com**](mailto:admin@explocity.com) , we will get back to you as soon as we can.
-
-|  |  |   
----  
-   
-[ ](https://web.archive.org/Model-Watch/indian-models.asp?id=622)
+If you have any questions or need your doubts clarified, please write to us at [ ](mailto:admin@explocity.com) , we will get back to you as soon as we can. 
