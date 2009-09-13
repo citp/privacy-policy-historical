@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audinate.com privacy policy that was archived on 2009-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090202180513id_/http%3A//www.audinate.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audinate.com privacy policy that was archived on 2009-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090913055437id_/http%3A//www.audinate.com/privacy.shtml) for the most accurate reproduction.*
 
 # Audinate
 
@@ -10,7 +10,7 @@ Personal information means any information that may be used to identify an indiv
 
 When you browse our website, you do so anonymously. We don't automatically collect personal information, including your email address. We do log your IP address (the Internet address of your computer) to give us an idea of which part of our website you visit and how long you spend there. But we do not link your IP address to any personal information. Like many other commercial websites, the Audinate website may use a standard technology called a "cookie" to collect information about how you use the site.
 
-[](https://web.archive.org/web/20090202180513id_/http%3A//www.audinate.com/privacy.shtml)
+[](https://web.archive.org/web/20090913055437id_/http%3A//www.audinate.com/privacy.shtml)
 
 ## Notice
 
@@ -18,7 +18,7 @@ When personal information is collected, we will inform you at the point of colle
 
 If you choose to provide us with your personal information, we may only transfer that information, within Audinate or to our third party service providers with your permission. Upon receiving your permission, we may transfer your information across borders and from your country or jurisdiction to other countries or jurisdictions around the world.
 
-[](https://web.archive.org/web/20090202180513id_/http%3A//www.audinate.com/privacy.shtml)
+[](https://web.archive.org/web/20090913055437id_/http%3A//www.audinate.com/privacy.shtml)
 
 ## Cookies and Tracking Technology
 
@@ -26,13 +26,13 @@ A cookie is a small data file that certain Web sites write to your hard drive wh
 
 If you prefer not to receive cookies while browsing our website, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser, although you may not be able to take full advantage of the Audinate website if you do so. In particular, you may be required to accept cookies in order to complete certain actions on our website. You do not need to have cookies turned on, however, to use/navigate through many parts of our website, except access to certain of our web pages may require a login and password.
 
-[](https://web.archive.org/web/20090202180513id_/http%3A//www.audinate.com/privacy.shtml)
+[](https://web.archive.org/web/20090913055437id_/http%3A//www.audinate.com/privacy.shtml)
 
 ## How We Use Information Collected
 
 Audinate uses information for several general purposes: to fulfill your requests for certain products and services, to personalize your experience on our website, to keep you up to date on the latest product announcements or other information we think you'd like to hear about, and to better understand your needs and provide you with better services. We may also use your information to send you, or to have our business partners send you, direct marketing information or contact you for market research.
 
-[](https://web.archive.org/web/20090202180513id_/http%3A//www.audinate.com/privacy.shtml)
+[](https://web.archive.org/web/20090913055437id_/http%3A//www.audinate.com/privacy.shtml)
 
 ## Information Sharing and Disclosure
 
@@ -42,7 +42,7 @@ Your personal information is never shared outside Audinate without your permissi
 
 Audinate may send your personal information to other companies who work on behalf of Audinate to provide a product or service to you (we will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose); or we want to keep you up to date on the latest product announcements, or other information we think you'd like to hear about. We will also disclose your personal information if required to do so by law, to enforce our Terms of Use, or in urgent circumstances, to protect personal safety, the public or our websites.
 
-[](https://web.archive.org/web/20090202180513id_/http%3A//www.audinate.com/privacy.shtml)
+[](https://web.archive.org/web/20090913055437id_/http%3A//www.audinate.com/privacy.shtml)
 
 ## Third Party Sites
 
@@ -50,18 +50,18 @@ Our website contains links to other sites. Audinate does not share your personal
 
 Our website may contain links to websites operated by other companies. Some of these third-party sites may be co-branded with a Audinate logo, even though they are not operated or maintained by us. Audinate is not responsible for the privacy practices of web sites operated by third parties that are linked to our site. Once you have left our website, you should check the applicable privacy policy of the third party website to determine how they will handle any information they collect from you.
 
-[](https://web.archive.org/web/20090202180513id_/http%3A//www.audinate.com/privacy.shtml)
+[](https://web.archive.org/web/20090913055437id_/http%3A//www.audinate.com/privacy.shtml)
 
 ## Changes to this Privacy Policy
 
 Audinate will amend this policy from time to time.
 
-[](https://web.archive.org/web/20090202180513id_/http%3A//www.audinate.com/privacy.shtml)
+[](https://web.archive.org/web/20090913055437id_/http%3A//www.audinate.com/privacy.shtml)
 
 ## Questions or Suggestions
 
 If you have questions or concerns about our collection, use, or disclosure of your personal information, please [email us](mailto:info@audinate.com).
 
-[](https://web.archive.org/web/20090202180513id_/http%3A//www.audinate.com/privacy.shtml)
+[](https://web.archive.org/web/20090913055437id_/http%3A//www.audinate.com/privacy.shtml)
 
 This document was last updated April 30, 2008
