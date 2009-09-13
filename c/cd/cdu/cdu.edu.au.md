@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdu.edu.au privacy policy that was archived on 2008-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080830005812id_/http%3A//www.cdu.edu.au/informationact) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdu.edu.au privacy policy that was archived on 2009-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090913161022id_/http%3A//www.cdu.edu.au/informationact) for the most accurate reproduction.*
 
 # CDU - Information Act - Homepage
 
