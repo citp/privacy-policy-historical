@@ -1,57 +1,128 @@
-> *The following text is extracted and transformed from the hotfrog.in privacy policy that was archived on 2007-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071230021836id_/http%3A//www.hotfrog.in/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotfrog.in privacy policy that was archived on 2009-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090913125557id_/http%3A//www.hotfrog.in/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# HotFrog Indian Business Directory - Terms & Conditions
 
-We collect your information that is personally identifiable to you, to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and product offerings and to customize our site's content, layout, and services. We believe these uses allow us to improve our site and better tailor it to meet our users' needs.
+  
 
-We may also use your information to deliver information to you that, in some cases, are targeted to your interests, such as targeted banners, new services and promotions. By accepting the User Agreement you expressly agree to receive this information.
 
-We use your email address, your mailing address, and phone number to contact you regarding administrative notices, new product offerings, and communications relevant to your use of the Site.
+###  Can’t find an answer to your question or concerns? [Contact us](https://web.archive.org/ContactUs.aspx), we will respond. 
 
-We use information in the file we maintain about you, and other information we obtain from your current and past activities on the Site, to resolve disputes, troubleshoot problems and enforce our User Agreement. At times, we may look across multiple users to identify problems or resolve disputes, and in particular on rare occasions we may evaluate your information to look for users using multiple User IDs or aliases.
+Online Privacy Policy   
+Catch (an Australian company) 
 
-Our primary goal in collecting personal information from you is to provide you with a smooth, efficient, and customized experience while using our services. This allows us to provide services and features that most likely meet your needs, and to customize our service to make your experience easier and quicker.
+This privacy policy applies to all personal information collected by Catch via the internet.
 
-To fully use our services, you will need to register using our online registration form, where you will be required to provide us with your contact information and other personal information as described in our electronic membership registration form.
+Catch recognises the importance of your privacy, and that you have a right to control how your personal information is collected and used. We know that providing personal information is an act of trust and we take that seriously. Unless you directly give us consent to do otherwise, Catch will only collect and use your personal information as set out below.
 
-We automatically track certain information about you based upon your behavior on our site. We use this information to do internal research on our users' demographics, interests, and behavior to better understand and serve our users. This information is compiled and analyzed on an aggregated basis. This information may include the URL that you just came from (whether this URL is on our site or not), which URL you next go to (whether this URL is on our site or not), what browser you are using, and your IP address.
+#### Collection of information
 
-In addition, we use cookies on certain pages of our site. We may also offer certain features that are only available through the use of a cookie. We use cookies since it will allow you to enter your password less frequently during a session. Cookies can also help us provide information, which is targeted, to your interests. Cookies are stored on your hard drive, not on our site. Most cookies are "session cookies," meaning that they are automatically deleted at the end of a session. You are always free to decline our cookies if your browser permits, although in that case you may not be able to use certain features on our site and you may be required to re-enter your password more frequently during a session.
+The four main ways we collect personal information about you are: 
 
-If you choose to buy or sell on our site, we collect information about your buying and selling behavior. We also collect other users' comments about you in our feedback area. If you choose to post messages in our bulletin board, chat rooms or other message areas or leave feedback for other users, we will collect such information about you as you choose to disclose.
+  * when information about you is posted on a Catch website, either by you or by a third party; 
+  * when you log into a Catch website or otherwise submit personal information to Catch; 
+  * when you use a Catch website, in which case our system automatically collects information relating to your visit to that website, such as your IP address; 
+  * and through the operation of CatchBot, Catch's web crawler (described in more detail below).
 
-Unfortunately, due to the existing regulatory environment, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy.
 
-By way of example (without limiting the foregoing), we may be forced to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications.
 
-We can (and you authorize us to) disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us to legal liability.
+The type of information that we collect from you may include the following: your name, phone number, address, email address, company position/title, credit card details, IP address, cookies, personal information that you include in your business listing or personal information that you email/send using email functionality on the HotFrog website.
 
-Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personally identifiable information or private communications would remain private. As a general proposition, we do not sell or rent any personally identifiable information about you to any third party.
+#### Our use of cookies
 
-We may use third party Suppliers and Service Providers to facilitate our services. For example, we may outsource the operations of one or more aspects of our site to a Supplier or Service Provider who performs services according to our requirements. In some instances, the Service Provider may collect information directly from you (such as the situation where we ask a Service Provider to conduct a survey for us).
+Cookies are pieces of information that a website transfers to your computer's hard disk for record keeping purposes. Most web browsers are set to accept cookies. Catch uses cookies to make your use of our website and services as convenient as possible. Cookies in and of themselves do not personally identify users, although they do identify a user's browser. Cookies are useful to estimate our number of users and determine overall traffic patterns through our website.
 
-In these cases, you will be notified of the involvement of the Supplier or Service Provider, and all information disclosures you make will be strictly optional. In all cases, we restrict how these Suppliers and Other Service Providers may access, use and disclose your information. In general, we do not permit these Suppliers and Other Service Providers to sell your information to third parties.
+If you do not wish to receive any cookies you may set your browser to refuse cookies. This may mean you will not be able to take full advantage of Catch's services.
 
-We will share much of our data, including personally identifiable information about you, with our subsidiaries and other websites so that you gain greater value addition from the services and information provided by them. To the extent that these entities are getting access to your information, they will treat it at least as protectively as they treat information they obtain from their other users. We usually require our subsidiaries and other web sites to follow privacy practices no less protective of all users than our practices described in this document.
+_Google cookies_
 
-Once posted, you cannot change or remove any public postings made in our chat rooms or other message areas or the feedback area. We will retain in our files information you have requested to remove in some circumstances, such as to resolve disputes, troubleshoot problems and enforce our User Agreement. Further, such prior information is never completely removed from our databases due to technical constraints and the fact that we back up our systems. Therefore, you should not expect that all of your personally identifiable information would be completely removed from our databases in response to your requests.
+Catch uses Google to serve advertisements when you visit a Catch website. Google may use cookies in relation to your visits to Catch websites in order to provide advertisements about goods and services which may be of interest to you. If you would like more information about this practice and to know your choices about Google not using cookies in this way, [click here](http://www.google.in/privacy_ads.html).
 
-Except as otherwise expressly discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you.
+#### Using and disclosing your personal information
 
-To the extent that you disclose your information to other parties, whether they are buyers or sellers on our system or other sites throughout the Internet, different rules may apply to their use or disclosure of the personal information you disclose to them.
+Our purpose in collecting information about you is to: 
 
-To the extent that we use third party advertisers, they adhere to their own privacy customs and policies. Since "infomediaindia.com" does not control the privacy policies of third parties, you are subject to the privacy customs and policies of that third party. We encourage you to ask questions before you disclose your personal information to others.
+  * provide you with a better service experience with content and advertising that is more relevant to your interests; and
+  * create a business information database for use as part of Catch's online business. Whilst Catch's business information database is designed to operate as a business directory (not a directory of individuals) it is possible that personal information may become included in the business information database.
 
-"www.hotfrog.in" uses industry standard efforts to safeguard the confidentiality of your personal identifiable information, such as firewalls and Secure Socket Layers. However, "perfect security" does not exist on the Internet.
 
-If you have any questions about this privacy policy, any privacy related dealings with us or a possible breach of your privacy or would like further information about our information management practices, you can contact:
 
-Makarand Lele  
-Infomedia India Ltd  
-A Wing, Ruby House, J K Sawant Marg  
-Dadar  
-Mumbai  
-400 028  
-Phone +91-22-24232700  
-Email mlele@infomediaindia.com  
+Catch will not use or disclose any information about you without your consent, unless: 
+
+  * the use or disclosure is for one of the purposes described above or otherwise permitted by this policy;
+  * it is required or permitted by law (including by relevant privacy laws);
+  * we believe it necessary to provide you with a service which you have requested;
+  * to protect the rights, property or personal safety of another Catch website user, any member of the public or Catch; or
+  * any of the assets and/or operations of Catch are being transferred to another party.
+
+
+
+If you do not provide requested information, Catch may not be able to provide you with access to or full use of sections of the Catch website.
+
+#### Disclosing information
+
+Sometimes, the activities described above require us to share your personal information with other organisations. The types of situations in which Catch usually discloses personal information, and the types of organisations to which such disclosure is usually made, include the following: 
+
+  * The business information database is available via the internet to any member of the public. It is also disclosed in its entirety to Catch's related entities and to other entities with whom Catch has a business relationship, as part of Catch's online business.
+  * Catch discloses personal information to its service providers, advisers and other entities with whom Catch has a business relationship, in the course of operating the Catch websites and Catch online business and in the course of delivering the Catch services.
+
+
+
+#### Marketing
+
+In seeking to give you the most worthwhile experience of our websites possible, Catch may use your personal information to send you information and product updates about Catch websites and services, or other products and services, or to permit other parties to send other information about products or services which may be of interest to you. 
+
+We may contact you at any email or other address or contact point which we have collected or obtained in order to: 
+
+  * contact you about your business listing on a Catch website;
+  * provide you with updated information about Catch websites; or
+  * provide you with other information about other products or services which you may enjoy.
+
+
+
+If you are receiving promotional information from Catch and do not wish to receive this information any longer, you may remove your name from our list by contacting the Catch Privacy Officer at [legal@hotfrog.com.au](mailto:legal@hotfrog.com.au) and asking to be removed from our mailing list. Please allow 28 days for this request to be processed. 
+
+#### Access to the information we hold
+
+You can request access to the personal information we hold about you by making a request to the Catch Privacy Officer via [legal@hotfrog.com.au](mailto:legal@hotfrog.com.au). We will provide you with access unless we are legally authorised not to do so.
+
+#### Changing and deleting the information we have about you
+
+If at any time you wish to change personal information that is inaccurate or out of date, please contact us by emailing our Catch Privacy Officer at [legal@hotfrog.com.au](mailto:legal@hotfrog.com.au). If you wish to have your personal information deleted, please let us know in the same manner as referred to above. 
+
+We will take all reasonable steps to change or delete information in response to such a request. If there is a reason that we cannot make that change or deletion, we will inform you of that reason. 
+
+#### Storage and security of your personal information
+
+Catch will endeavour to take all reasonable steps to keep secure any information which we hold about you, and to keep this information accurate and up to date. You should note that the internet is not a secure method of transmitting information and, as such, we are not responsible for the security of any information sent or received over the internet.
+
+Please note that Catch may use overseas facilities including but not limited to in the US and Australia, to store, process or back up its information. As a result, we may transfer your personal information to our overseas facilities. However, this does not change our commitment to keep your information secure.
+
+#### Third party websites
+
+Catch websites contain links to websites that are not operated by Catch and the contact details for many businesses not operated by Catch. These linked sites and listed businesses are not under the control of Catch, and we are not responsible for the conduct of those businesses. Before disclosing your personal information on any other website or to any other company, we advise you to examine the Terms and Conditions / Privacy Policy of those organisations. 
+
+#### CatchBot
+
+CatchBot is the web crawler for Catch. CatchBot investigates websites for publicly available information about companies. CatchBot is not designed to access or index any personal or other information about individuals. However, if any personal information is collected inadvertently through the use of CatchBot, that personal information will be held in accordance with this Privacy Policy.
+
+More information about CatchBot is available at [www.catchbot.com](http://www.catchbot.com/).
+
+#### Privacy inquiries
+
+If you have any questions about this Privacy Policy or how Catch deals with your personal information you can contact:
+
+Catch Privacy Officer at [legal@hotfrog.com.au](mailto:legal@hotfrog.com.au)
+
+Catch is the online division of Reed Business Information Pty Limited. All references to Catch in this Privacy Policy should therefore be read as references to Reed Business Information Pty Limited (ABN 80 132 719 861), an Australian company. 
+
+#### Future changes
+
+Our commitment to being a leading provider of online business directory services means that our business will continue to evolve as we introduce new services and features. Because of this, from time to time, our policies will be reviewed and may be revised. Catch reserves the right to change its Privacy Policy at any time and notify you by posting an updated version on each Catch website. The amended Privacy Policy will apply between us whether or not we have given you specific notice of any change. 
+
+  
+
+
+* * *
+
+  
 
