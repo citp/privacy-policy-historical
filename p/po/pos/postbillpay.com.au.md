@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postbillpay.com.au privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217232647id_/http%3A//www.postbillpay.com.au/privacy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postbillpay.com.au privacy policy that was archived on 2009-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090913074452id_/http%3A//postbillpay.com.au/privacy/index.asp) for the most accurate reproduction.*
 
 # Australia Post : Postbillpay - Privacy & Security
 
