@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the habbo.com.au privacy policy that was archived on 2008-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081011064218id_/http%3A//www.habbo.com.au/papers/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the habbo.com.au privacy policy that was archived on 2009-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090913144201id_/http%3A//www.habbo.com.au/papers/privacy) for the most accurate reproduction.*
 
-# Habbo ~
+# Habbo:
 
 **Effective Date: June 10, 2008**
 
