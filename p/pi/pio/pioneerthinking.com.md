@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pioneerthinking.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422135439id_/http%3A//www.pioneerthinking.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pioneerthinking.com privacy policy that was archived on 2009-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090913063821id_/http%3A//www.pioneerthinking.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Pioneer Thinking
 
@@ -12,7 +12,7 @@ While **visiting our website** , your I.P address is logged by our server. Your 
 
 **External Links**
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 While surfing our site, you may on occassion visit **third party sites** via text links or advertisements.... Although every attempt is made to ensure that we only associate with good quality, family oriented sites. We have no control over their content or products, nor do we endorse their products or services. Please read the privacy policies to any site you visit.
 
