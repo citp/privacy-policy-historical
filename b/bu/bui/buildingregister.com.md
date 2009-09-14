@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buildingregister.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228201756id_/http%3A//www.buildingregister.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buildingregister.com privacy policy that was archived on 2009-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090914123703id_/http%3A//www.buildingregister.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Building Register - Privacy Policy
 
@@ -34,7 +34,7 @@ Top
 
 ## How to contact Us for further information
 
-Your questions regarding Our Privacy Policy should be directed to the Building Register site co-ordinator who will be pleased to assist You with any questions or problems You might have: please contact him here.To return to the Building Register home page please click [here](https://web.archive.org/web/20090228201756id_/http%3A//www.buildingregister.com/index.php). 
+Your questions regarding Our Privacy Policy should be directed to the Building Register site co-ordinator who will be pleased to assist You with any questions or problems You might have: please contact him here.To return to the Building Register home page please click [here](https://web.archive.org/web/20090914123703id_/http%3A//www.buildingregister.com/index.php). 
 
 Top
 
