@@ -1,17 +1,15 @@
-> *The following text is extracted and transformed from the kirotv.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221222538id_/http%3A//www.kirotv.com/station/1873436/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kirotv.com privacy policy that was archived on 2009-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090914052047id_/http%3A//www.kirotv.com/station/1873436/detail.html) for the most accurate reproduction.*
 
 # Privacy Policy - KIRO-TV News Story - KIRO Seattle
 
 Effective date: 1/10/03 
 
-KIRO-TV respects the privacy of visitors to our site. This Privacy Policy governs the use and collection of information from you by KIRO Partnership, d/b/a KIRO-TV ("we" or "us") through your use of this site. This Privacy Policy does not apply to any information you may provide to us through other means; for example, at a live event, via mail, or via telephone. Please read this Privacy Policy carefully so that you understand our online privacy practices. By visiting this site, you agree that your visit, and any dispute over our online privacy practices, is governed by this Privacy Policy and our Visitor Agreement. Questions regarding privacy issues should be directed to: 
-
-Therese Weiler  
+KIRO-TV respects the privacy of visitors to our site. This Privacy Policy governs the use and collection of information from you by KIRO Partnership, d/b/a KIRO-TV ("we" or "us") through your use of this site. This Privacy Policy does not apply to any information you may provide to us through other means; for example, at a live event, via mail, or via telephone. Please read this Privacy Policy carefully so that you understand our online privacy practices. By visiting this site, you agree that your visit, and any dispute over our online privacy practices, is governed by this Privacy Policy and our Visitor Agreement. Questions regarding privacy issues should be directed to: Todd Mokhtari  
 Website Manager  
 KIRO-TV  
 2807 Third Avenue  
 Seattle, WA 98121  
-[tweiler@kirotv.com](mailto:tweiler@kirotv.com)
+[tweiler@kirotv.com](mailto:tmokhtari@kirotv.com)
 
  **CHILDREN'S PRIVACY**
 
