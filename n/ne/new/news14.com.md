@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the news14.com privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502024614id_/http%3A//www.news14.com/content/about_us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news14.com privacy policy that was archived on 2009-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090914055515id_/http%3A//news14.com/content/about_us/privacy_policy) for the most accurate reproduction.*
 
 # News 14 | 24 Hour Local News | Privacy Policy | Privacy Policy
 
