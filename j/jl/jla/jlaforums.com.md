@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jlaforums.com privacy policy that was archived on 2009-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090512013854id_/http%3A//www.jlaforums.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jlaforums.com privacy policy that was archived on 2009-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090914163831id_/http%3A//www.jlaforums.com/privacy.php) for the most accurate reproduction.*
 
 # JLA FORUMS - Privacy Statement
 
