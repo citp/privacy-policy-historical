@@ -1,52 +1,64 @@
-> *The following text is extracted and transformed from the netshelter.net privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524085337id_/http%3A//www.netshelter.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netshelter.net privacy policy that was archived on 2009-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090914142747id_/http%3A//www.netshelter.net/privacy) for the most accurate reproduction.*
 
 # NetShelter Technology Media
 
-**NetShelter Inc. Privacy Statement**   
-Consumer privacy is of paramount importance to NetShelter Inc. ("NetShelter"), our advertisers, and the Web publishers in our network. NetShelter is committed to protecting the privacy of consumers, publishers, and advertisers, and to do our part to maintain the integrity of the Internet. 
+|   
+---  
+  
+[Privacy](https://web.archive.org/privacy)  
+  
+  
+  
+| 
 
-The following statement outlines NetShelter's policies and principles regarding online privacy.
+| 
 
-**Internet Consumer Data Collected by NetShelter**
+**PRIVACY POLICY**
 
-**Personally Identifiable Information (PII)**  
-When a consumer responds to an Internet advertisement served by NetShelter (running through our network of websites or in an email advertisement), NetShelter may collect personally identifiable information (e.g. name, address, zip code, e-mail address, gender, birth date) regarding the consumer who responded to the ad and who completed a form in order to receive various information, offers, etc. In all cases where such information is collected, it is done so only if the consumer voluntarily, knowingly and explicitly provided such information.   
-By providing this information and their permission to receive communications from our marketing partners, consumers are agreeing to allow NetShelter to make their personally identifiable information available to the company sponsoring the advertisement, as well as to other trusted third parties in accordance with the terms of this privacy policy. As a result, these consumers may receive information on additional products, services and offers that may be of interest to them. NetShelter and/or our marketing partners may enhance and/or merge personally identifiable information about consumers, who have specifically requested to receive marketing communications, with commercially-available third party data collected from other sources in an effort to ensure that the messages being sent to the consumer in online and/or offline marketing programs are relevant to their interests. In the event we enhance and/or merge such personally identifiable information with data collected from other sources, we will take reasonable steps to maintain the integrity and quality of that information.   
-NetShelter may share personally identifiable information (including information that has been enhanced with information from other sources) with advertisers, third party marketers and our affiliates for their online and/or offline marketing programs. While NetShelter strongly encourages clients and partners to adopt responsible approaches to online marketing, NetShelter is not responsible for the information practices of clients or their partners. The collection, use, and disclosure of information by clients and partners are subject to their respective privacy policies, which may differ from NetShelter's policy. 
+Consumer privacy is of paramount importance to NetShelter Inc. ("NetShelter"), our advertisers, and the Web publishers in our network. NetShelter is committed to protecting the privacy of consumers, publishers, and advertisers, and to do our part to maintain the integrity of the Internet.   NetShelter's combination of proprietary and partner technology allows us to deliver relevant, targeted content to individuals, but not at the expense of individual privacy.  This Privacy Policy describes how we gather information from you when you visit the web sites of NetShelter (including all our subsidiaries, affiliates, and networks) and when we serve advertisements on our network of web sites, why we collect this information, and how we may use and share this information. For more details on our practices, [**contact us**](mailto:privacy@netshelter.net?subject=Privacy%20Policy).
 
-**Non-Personally Identifiable Information (Non-PII)**  
-When a consumer responds to an Internet advertisement served by NetShelter (running through our network of websites or in an email transmission), NetShelter collects certain technical data (Type of Browser, Operating System, IP address, domain type, page(s) visited, date and time of when an Internet consumer has responded to an advertisement, etc.). This type of information is defined by the Network Advertising Initiative (see Network Advertising Initiative section below) as Non-Personally Identifiable Information (Non-PII) "ad delivery and reporting data". This means that none of the data can be linked to any individual Internet consumer, and therefore it cannot be used for profiling purposes.   
-NetShelter retains all ad delivery and reporting data indefinitely, for accounting and auditing purposes.
+**Non-Personally Identifiable Information** **  
+** NetShelter may collect anonymous data while you are visiting a NetShelter web site or when we serve advertisements on our network of web sites. This anonymous data includes, but not limited to, information such as your IP address, web pages which have been viewed by you, date and time, domain type, and your responses to an advertisement delivered by us or a third party advertising technology vendor.  This type of information may be collected using different types of technologies, such as cookies and pixels.  This information is not tracked to a specific individual's personally-identifiable information.  You may elect not to allow us to use non-personally identifiable information by following the Opt-Out procedures set forth below.  
+**  
+****Personally-Identifiable Information** **  
+** Personally-identifiable information is information that identifies you or can be used to identify, contact, or locate you, such as your name, address, email address, and telephone number.  We do not ask for personally-identifiable information other than as outlined below for business purposes. 
 
-**Consumer Choices Concerning Data Collection**
+At some of the NetShelter partner properties, they may ask people to register and provide personally identifiable information. None of this personally identifiable information will be combined with non-PII used for our anonymous ad serving. NetShelter is committed to making sure that our partners provide notice and choice to all consumers.  
+**  
+****Other Information That Is Collected**  
+At some NetShelter properties, including this one, we collect personally-identifiable information from you if you want to become a part of our network of web sites ("business information").  We use this information to administer the network, such as maintaining account information, sending payments, etc.  We may share business information with third parties who provide administrative services (and they are required to maintain the confidentiality of the information), as well as pursuant to a court order or to law enforcement or government officials as we deem necessary or appropriate.   
+**  
+****How We Use Your Information** **  
+** NetShelter may use your non-personally identifiable information to better target advertisements and other content to individuals in an effort to create a more relevant experience for each person. The non-personally identifiable information is also used to predict responses to advertisements, to help determine which ads perform best and which content is most appropriate for different individuals, and to provide aggregate reporting to advertisers and clients.  This information may also be combined with information from other sources, and shared with our affiliates and partners for similar use.
 
-**Ad management and Reporting Data - Use of Cookies**  
-When a consumer views an ad served by NetShelter, they are assigned a unique - but not personally-identifiable - number, known as a cookie, which is recorded and stored on their computer in their web browser's cookie file. Cookies do not harm Internet consumer's computers. While cookies are not essential to NetShelter's continued success, they do help us to reach several of our key goals, such as providing Internet users with a more fulfilling, results oriented experience on the web, reducing the repetition of advertising, and increasing the amount of relevant material viewed by Internet consumers. 
+We may retain such information for up to two years.  Aggregate reports generated from such information may be kept longer.  
+**  
+****Opt-Out**  
+NetShelter is a member of the Network Advertising Initiative, a coalition of online advertising networks that provides an opportunity for consumers to opt-out of targeted advertising by member companies. To learn more about behavioral advertising in general, and to exercise your right to opt-out of this practice, [**click here**](http://www.networkadvertising.org/managing/opt_out.asp).
 
-**Remove and Disable Option**  
-You have the option of blocking the use of cookies by changing a setting in your browser. Please see your browser supplier's website for details on how to do this.   
-**Security Precautions**
+Please note that if you change your computer, change your internet browser (e.g. from Internet Explorer to Firefox), or delete all your cookies, you will need to renew your opt-out.  
+**  
+Business Transfers  
+**As we develop our business, we might sell or buy businesses or assets.  In the event of a corporate sale, merger, reorganization, dissolution or similar event, we reserve the right to include any or all stored personal information among the assets transferred to the acquiring company.    
+**  
+Children  
+**NetShelter does not knowingly collect personally-identifiable information from children under the age of 13 through our web sites.  If you are under 13, please do not give us any personally-identifiable information.  We encourage parents and legal guardians to monitor their children's internet usage and to help enforce our Privacy Policy by instructing their children to never provide personally-identifiable information on our web sites without their permission.  If you have reason to believe that a child under the age of 13 has provided personally-identifiable information to NetShelter through our web sites, please contact us, and we will endeavor to delete that information from our databases.  
+**  
+Links to Other Web Sites  
+**This Privacy Policy applies only to our web sites and not to any third party sites.  We suggest contacting those sites directly for information on their privacy, security, data collection and distribution policies.  
+**  
+Security**  
+We have reasonable security measures in place intended to protect against the loss, misuse or alteration of any personal information collected.  However, we are unable to guarantee that the security measures we take will not be penetrated or compromised or that your personal information will remain secure under all circumstances.  
+**  
+Changes To Our Privacy Policy  
+**This Privacy Policy is effective as of August 1, 2009.  We may change this Privacy Policy from time to time, and will post prior notice of any such changes on our web site.  Our use of information collected prior to a material change in this Privacy Policy shall continue to be governed by the Privacy Policy that is in effect at the time the information was collected, unless you opt in to allow the information to be governed by the new policy.  Please refer back to this Privacy Policy on a regular basis.  
+**  
+How To Contact Us**  
+If you wish to contact us about this Privacy Policy, you can reach us by email at [**privacy@netshelter.net**](mailto:privacy@netshelter.net) or by telephone at 415-365-4950. 
 
-NetShelter makes every effort to maintain the security of its network and the data we collect. Any data that is stored on NetShelter's server is treated as proprietary and confidential and is not available to the public. NetShelter has a strict internal security policy with respect to the confidentiality of customer and other data, limiting access only to those employees or third parties who have a need to know such information for the purpose of effectively delivering NetShelter products and services. 
+| 
 
-**The NetShelter Network**
-
-**NetShelter and Client Website Privacy Policy Statements**  
-NetShelter requests that website publishers belonging to our advertising network consent to and comply with the standards of online privacy, as outlined by the Online Privacy Alliance (OPA).   
-Also, in accordance with the Network Advertising Initiative (NAI), NetShelter strongly encourages all websites within our network to create privacy policy statements and to provide Internet consumers with conspicuous access to their statements. Additionally, NetShelter requests that all website publishers doing business with NetShelter disclose any and all information that is being collected from Internet consumers on their website, including data gathered from banners and other forms of advertising being served on their website. Finally, NetShelter encourages the websites in our network to provide links to all advertisers gathering information from Internet consumers in their respective privacy statements. Please note that the NetShelter's privacy policy applies only to the information we collect and not to that collected by sites with which we may do business. We encourage you to always read the privacy policies of the sites you visit. If you have particular concerns about any website advertising with NetShelter with respect to privacy issues, please contact privacy@NetShelter.net. 
-
-**Children's Privacy**   
-As of April 21, 2000 the children's Online Privacy Protection Act ("COPPA") became effective. The regulations apply to the online collection of personal information from children under the age of 13. NetShelter is very sensitive to the issue of children's privacy and makes every effort to protect the privacy of children using the Internet. NetShelter's web site, products, and services are not developed for or directed at children. Our policy is not to permit anyone under the age of 13 to do business with us. If you believe your child has provided NetShelter with any personally identifiable data by registering at NetShelter's web site, please contact privacy@NetShelter.net to have them removed.   
-We also request that all websites using our advertising network disclose in their privacy statements any and all information regarding the collection of information from children. 
-
-**Involvement with Industry Partners**  
-NetShelter is committed to helping protect consumer privacy on the Internet and, as such, we actively monitor consumer privacy issues. Further evidence of NetShelter's commitment to consumer privacy is our involvement with the following privacy advocacy groups: 
-
-**BBBOnline & Truste **  
-NetShelter fully supports and endorses the BBBOnline and Truste online privacy programs. For more information on the specifics of their respective policies and programs please go to www.bbbonline.com or www.truste.com. 
-
-**Changes to the Privacy Policy**   
-Your understanding of our privacy policy is of prime importance to NetShelter, but due to the changing nature of consumer needs and our business, NetShelter reserves the right to modify this policy statement at any time without notice.  As such, we recommend that you review this Privacy Statement periodically to note any changes that may have occurred. 
-
-**Contacting Us**  
-For more information or if you have questions or concerns regarding NetShelter's Privacy Statement, please send an e-mail to privacy@NetShelter.net, or you can send correspondence to the following address: Privacy - NetShelter Technology Media, 8500 Leslie Street, Suite 520,Thornhill, ON L3T 7M8, CANADA
+|   
+---|---|---  
+  
+ 
