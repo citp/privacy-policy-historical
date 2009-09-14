@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stevespanglerscience.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617194023id_/http%3A//www.stevespanglerscience.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stevespanglerscience.com privacy policy that was archived on 2009-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090914145731id_/http%3A//www.stevespanglerscience.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy & Security Policy at Steve Spangler Science
 
@@ -29,4 +29,4 @@ Steve Spangler Science will send e-mail confirmation of all orders to our custom
 
 ### Still uncomfortable ordering online?
 
-If you prefer not to order online you may order by phone, (800) 223-9080 from 8.00 AM to 5:00 PM, Monday through Friday. After these hours, please leave us a message and we will phone you the next business day to take your order and answer your questions.
+If you prefer not to order online you may order by phone, (800) 223-9080 from 8.30 AM to 5:00 PM, Monday through Friday. After these hours, please leave us a message and we will phone you the next business day to take your order and answer your questions.
