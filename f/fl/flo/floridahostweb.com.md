@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the floridahostweb.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605150337id_/http%3A//www.floridahostweb.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D7%26Itemid%3D12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floridahostweb.com privacy policy that was archived on 2009-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090914102852id_/http%3A//www.floridahostweb.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D7%26Itemid%3D12) for the most accurate reproduction.*
 
 # Florida Host Web | Privacy Policy
 
@@ -49,5 +49,3 @@ All payment processing is executed securely by PayPal (www.paypal.com). Florida 
 Violation of any outlined Privacy Policy rules and explanations is a direct violation of the Terms of Use Policy. Please review the Terms of Use Policy for further details. Violators of the Terms of Use Policy may be 1)Suspended from use of floridahostweb.com, 2)Blocked from visiting floridahostweb.com, 3)Reported to the appropriate authorities. Violating the Terms of Use Policy nullifies any privacy protection floridahostweb.com offers. Upon such violation any and/or all information collected by such user can and/or will be used to block IP addresses, block user access, block domain access and/or sent to third parties whom participate in fighting spammers and hackers globally. Violators private information can and/or will be forwarded to the appropriate authorities. 
 
 | 
-
-[](http://click.linksynergy.com/fs-bin/click?id=jRbdNnzxUU4&offerid=173430.10000051&subid=0&type=4)
