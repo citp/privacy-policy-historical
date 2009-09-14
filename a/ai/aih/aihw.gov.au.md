@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aihw.gov.au privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625030002id_/http%3A//www.aihw.gov.au/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aihw.gov.au privacy policy that was archived on 2009-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090914190615id_/http%3A//www.aihw.gov.au/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy (AIHW)
 
@@ -20,10 +20,6 @@ Web www.aihw.gov.au
 
 A proud partner of  
 [](http://www.healthinsite.gov.au/ "HealthInsite")
-
-## Flagship publications
-
-**Get your copy now!**
 
 When you visit this web site, we may make a record of your visit and log some or all of the following information for statistical purposes:
 
