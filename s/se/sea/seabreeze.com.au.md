@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seabreeze.com.au privacy policy that was archived on 2008-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080828071001id_/http%3A//www.seabreeze.com.au/info/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seabreeze.com.au privacy policy that was archived on 2009-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090914135302id_/http%3A//www.seabreeze.com.au/info/Privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,9 @@ Your contact details (such as emails, phone numbers and addresses) are kept **pr
 
 We value our privacy and treat your information with the same respect.
 
-We do not currently send unsolicited emails, (e.g. a newsletter), but if in the future such a service was to be offered, you will be given the opportunity to choose whether to receive such information. 
+**Mailouts**
+
+We send very rare mailouts, and an unsubscribe option is at the bottom of any mailout. To stop receiving these, simply Visit the Members / My Profile / Edit page, and uncheck the "I don't mind an occasional email newsletter" checkbox. If this is all too hard, send us an email via the Contact link at the bottom, and we'll help you out!
 
 **Please Note!** You should avoid posting your email address in the forums unless absolutely necessary.  There are many programs available that scan websites such as seabreeze.com.au and "harvest" emails that are published on the sites pages (including the forums).    By posting your email publicly in the forums, please understand that it is out of our control (and yours) whether you then start to receive unsolicited emails. Seabreeze does not harvest emails from our own site, or any other site for this purpose.
 
