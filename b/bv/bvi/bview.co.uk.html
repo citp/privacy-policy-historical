@@ -1,82 +1,101 @@
-<!--The following is the downloaded HTML source of the bview.co.uk privacy policy that was archived on 2009-04-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090401072137id_/http%3A//www.bview.co.uk/static/frontend/bv.33/content/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bview.co.uk privacy policy that was archived on 2009-09-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090914103132id_/http%3A//www.bview.co.uk/static/frontend/bv.89/content/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
     <title>BView - Privacy policy</title>
 
-    <link rel="icon" href="/static/frontend/bv.33/images/favicon.ico" type="image/x-icon">
-    <link rel="shortcut icon" href="/static/frontend/bv.33/images/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/static/frontend/bv.89/images/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="/static/frontend/bv.89/images/favicon.ico" type="image/x-icon">
 
-    <link rel="stylesheet" href="/static/frontend/bv.33/css/main.css" type="text/css">
-    <link rel="stylesheet" href="/static/frontend/bv.33/css/content.css" type="text/css">
+    <link rel="stylesheet" href="/static/frontend/bv.89/css/main.css" type="text/css">
+    <link rel="stylesheet" href="/static/frontend/bv.89/css/content.css" type="text/css">
     <!-- Copyright (c) 2008, Xbridge Ltd. All Rights Reserved. -->
 </head>
 <body>
-<div id="wrapper">
-    <div id="mastHead">
+<div class="mainContainer">
+<h1 class="bviewLogo"><a href="/">BView Logo</a></h1>
+
+   <div id="mainSearch">
+        <div class="searchTabs">
+            <a id="voucherSearchTab" href="javascript:showVoucherSearch();" class="tab"><span>Voucher search</span></a>
+            <a id="businessSearchTab" href="javascript:showBusinessSearch();" class="tabSelected"><span>Business search</span></a>
+        </div>
         <form id="search" name="search" method="get" action="/app/frontend/Search">
-            <a href="/"><img src="/static/frontend/bv.33/images/bview_logo_sm.gif" alt="bview logo." id="bviewLogo"></a>
-            <ul id="gSearchOptions">
-                 <li id="searchWhat">
-                    <label for="what">What?</label>
-                    <span>(e.g. solicitors)</span><br>
-                    <input id="what" name="what" type="text" value=""><br>
-                </li>
-                <li id="searchAndOr">
-                    And/Or
-                </li>
-                <li id="searchWho">
-                    <label for="who">Who?</label>
-                    <span>(e.g. ABC Tiling Ltd)</span><br>
-                    <input id="who" name="who" type="text" value=""><br>
-                </li>
-                <li id="searchWhere">
-                    <label for="where">Where?</label>
-                    <span>(e.g. London, EC2A)</span><br>
-                    <input id="where" name="where" type="text" value=""><br>
-                </li>
-                <li id="search_find ">
-                    <button id="gsearchFind" value="Submit" type="submit">Find</button>
-                </li>
-            </ul>
-            <div class="error clear">
+            <div id="businessSearch">
+                 <div class="who" id="searchWho">
+                    <label for="who">
+                        who
+                    </label>
+                    <input id="who" name="who" onkeydown="hideDiv('businessSearchWhoPrompt');" onfocus="handleInputOverlayPrompt('who','businessSearchWhoPrompt');" type="text" value="">
+                    <span id="businessSearchWhoPrompt" style="display:none;" onclick="handleInputOverlayPrompt('who','businessSearchWhoPrompt');">(e.g. ABC Tiling Ltd)</span>
+                </div>
+                <div class="what" id="searchWhat">
+                    <label for="what">
+                        what
+                    </label>
+                    <input id="what" name="what" onkeydown="hideDiv('businessSearchWhatPrompt');" onfocus="handleInputOverlayPrompt('what','businessSearchWhatPrompt');" type="text" value="">
+                    <span id="businessSearchWhatPrompt" style="display:none;" onclick="handleInputOverlayPrompt('what','businessSearchWhatPrompt');">(e.g. solicitors)</span>
+                </div>
+                <div class="where" id="searchWhere">
+                    <label for="where">
+                        where
+                    </label>
+                    <br>
+                    <input id="where" name="where" onkeydown="hideDiv('businessSearchWherePrompt');" onfocus="handleInputOverlayPrompt('where','businessSearchWherePrompt');" type="text" value="">
+                    <span id="businessSearchWherePrompt" style="display:none;" onclick="handleInputOverlayPrompt('where','businessSearchWherePrompt');">(e.g. London, EC2A)</span>
+                </div>
+                <button id="gsearchFind" class="findButton" value="Submit" type="submit">Find</button>
+                <a rel="nofollow" href="/app/frontend/AddListing?isBusinessOwner=false" class="addABusiness">Add a business</a>
             </div>
         </form>
-    </div>
 
-    <div id="nav">
-        <ul>
-            <li id="navigation_home" class="first staticSelected"><a href="/">Home</a></li>
-            <li id="navigation_businesses"><a href="/app/frontend/Search?nav=businesses">Businesses</a></li>
-            <li id="navigation_add_business"><a href="/app/frontend/AddListing?isBusinessOwner=false">Add a business</a></li>
-            <li id="navigation_vouchers"><a href="/vouchers">Vouchers</a></li>
-            <li id="navigation_people"><a href="/app/frontend/UserSearch">People</a></li>
-            <li id="navigation_my_business"><a href="/app/frontend/ListingDisplay?nav=myBusiness">My business</a></li>
-            <li id="navigation_my_profile"><a href="/app/frontend/UserProfile?nav=myProfile">My profile</a></li>
-            <li id="navigation_register_link" class="login"><a href="/app/frontend/Register">Join</a></li>
-            <li id="navigation_login_link" class="login"><a href="/app/frontend/Login" class="login">Login</a></li>
-            <li id="navigation_logout_link" class="login"><a href="/app/frontend/Logout" class="login">Logout</a></li>
+        <form action="/app/frontend/Promotions" method="GET">
+            <div id="voucherSearch" style="display:none">
+                <div class="whoWhat">
+                    <label>who or what</label><br>
+                    <input id="promotionWhat" name="promotionWhat" value="" onfocus="handleInputOverlayPrompt('promotionWhat','voucherSearchWhatPrompt');" onkeydown="hideDiv('voucherSearchWhatPrompt');">
+                    <span id="voucherSearchWhatPrompt" style="display:none;" onclick="handleInputOverlayPrompt('promotionWhat','voucherSearchWhatPrompt');">Company OR Category</span>
+                </div>
+                <div class="where">
+                    <label>where</label><br>
+                    <input id="promotionWhere" name="promotionWhere" value="" onfocus="handleInputOverlayPrompt('promotionWhere','voucherSearchWherePrompt');" onkeydown="hideDiv('voucherSearchWherePrompt');">
+                    <span id="voucherSearchWherePrompt" style="display:none;" onclick="handleInputOverlayPrompt('promotionWhere','voucherSearchWherePrompt');">Postcode</span>
+                </div>
+                <button class="findButton" value="Submit" type="submit">Find</button>
+                <a rel="nofollow" href="/vouchers" class="seeVouchers">See vouchers</a>
 
-        </ul>
-        <script type="text/javascript" src="/static/frontend/bv.33/js/navigation.js"></script>
+            </div>
+        </form>
+
     </div>
+    <br>
+
+    <ul id="nav">
+        <li id="navigation_home"><a title="home" href="/">home</a></li>
+        <li id="navigation_my_business"><a class="long" rel="nofollow" href="/app/frontend/ListingDisplay?nav=myBusiness">my business</a></li>
+        <li id="navigation_my_profile"><a class="long" rel="nofollow" href="/app/frontend/UserProfile?nav=myProfile">my profile</a></li>
+        <li id="navigation_register_link"><a rel="nofollow" href="/app/frontend/Register">join</a></li>
+        <li id="navigation_login_link"><a class="login" rel="nofollow" href="/app/frontend/Login">login</a></li>
+        <li id="navigation_logout_link"><a rel="nofollow" href="/app/frontend/Logout">logout</a></li>
+    </ul>
+    <script type="text/javascript" src="/static/frontend/bv.89/js/navigation.js"></script> 
 <div id="menuStatic">
     <ul>
-        <li><a href="/static/frontend/bv.33/content/about_us.html">About us</a></li>
+        <li><a href="/static/frontend/bv.89/content/about_us.html">About us</a></li>
         <li><a href="/app/frontend/ContactUs">Contact us</a></li>
-        <li><a href="/static/frontend/bv.33/content/become_a_top_business.html">Become a top business</a></li>
-        <li><a href="/static/frontend/bv.33/content/how_influence_works.html">Become a top person</a></li>
-        <li><a href="/static/frontend/bv.33/content/BView_rewards.html">BView rewards</a></li>
-        <li><a href="/static/frontend/bv.33/content/how_to_write_a_review.html">How to write a review</a></li>
-        <li><a href="/static/frontend/bv.33/content/faqs.html">FAQ</a></li>
+        <li><a href="/static/frontend/bv.89/content/become_a_top_business.html">Become a top business</a></li>
+        <li><a href="/static/frontend/bv.89/content/how_influence_works.html">Become a top person</a></li>
+
+        <li><a href="/static/frontend/bv.89/content/how_to_write_a_review.html">How to write a review</a></li>
+        <li><a href="/static/frontend/bv.89/content/faqs.html">FAQ</a></li>
         <li><a href="/app/frontend/FeedbackForm">Feedback</a></li>
-        <li><a href="/static/frontend/bv.33/content/advertisers.html">Advertise</a></li>
-        <li><a href="/static/frontend/bv.33/content/link_to_us.html">Link to us</a></li>
-        <li><a href="/static/frontend/bv.33/content/press.html">Press</a></li>
-        <li><a href="/static/frontend/bv.33/content/API.html">API</a></li>
-        <li><a href="/static/frontend/bv.33/content/terms_of_use.html">Terms of use</a></li>
-        <li><a href="/static/frontend/bv.33/content/privacy_policy.html" class="current">Privacy policy</a></li>
+        <li><a href="/static/frontend/bv.89/content/advertisers.html">Advertise</a></li>
+        <li><a href="/static/frontend/bv.89/content/link_to_us.html">Link to us</a></li>
+        <li><a href="/static/frontend/bv.89/content/press.html">Press</a></li>
+        <li><a href="/static/frontend/bv.89/content/API.html">API</a></li>
+        <li><a href="/static/frontend/bv.89/content/terms_of_use.html">Terms of use</a></li>
+        <li><a href="/static/frontend/bv.89/content/privacy_policy.html" class="current">Privacy policy</a></li>
     </ul>
 </div>
 <div id="textContainer"><a name="top" id="top"></a>
@@ -130,7 +149,7 @@
 
 <p>We believe that information about businesses should be freely available and freely exchanged. Such information may not be governed by
    UK data protection legislation and the provision and use of such information is governed by our
-   <a href="/static/frontend/bv.33/content/terms_of_use.html">Terms of use</a>.</p>
+   <a href="/static/frontend/bv.89/content/terms_of_use.html">Terms of use</a>.</p>
 <br>
 <h5>4. Anonymous information we collect</h5>
 
@@ -228,81 +247,100 @@
 <br>
 <h5>14. General</h5>
 
-<p>This Privacy policy and our <a href="/static/frontend/bv.33/content/terms_of_use.html">Terms of use</a> contain all the terms of your agreement
+<p>This Privacy policy and our <a href="/static/frontend/bv.89/content/terms_of_use.html">Terms of use</a> contain all the terms of your agreement
    with us relating to the use of the Site. No other written or oral statement will be incorporated.</p>
-   <br><br><br><br><br>
+   <br><br><br>
     </div>
-    <div class="clear"></div>
+    <br>
 </div>
 
-<div id="footer" class="pagewidth_footer">
-    <ul>
-        <li><a href="/static/frontend/bv.33/content/about_us.html">About us</a><span class="seperator">|</span></li>
-        <li><a href="/app/frontend/AddListing?isBusinessOwner=false">Add a business</a><span class="seperator">|</span></li>
-        <li><a href="/popular-brands">Popular brands</a><span class="seperator">|</span></li>
-        <li><a href="http://blog.bview.co.uk">BView blog</a><span class="seperator">|</span></li>
-        <li><a href="/app/frontend/ContactUs">Contact us</a><span class="seperator">|</span></li>
-        <li><a href="/static/frontend/bv.33/content/BView_rewards.html">BView rewards</a><span class="seperator">|</span></li>
-        <li><a href="/static/frontend/bv.33/content/faqs.html">FAQ</a><span class="seperator">|</span></li>
-        <li><a href="/app/frontend/FeedbackForm">Feedback</a></li>  <br>
-        <li><a href="/static/frontend/bv.33/content/press.html">Press</a><span class="seperator">|</span></li>
-        <li><a href="/static/frontend/bv.33/content/advertisers.html">Advertise</a><span class="seperator">|</span></li>
-        <li><a href="/static/frontend/bv.33/content/link_to_us.html">Link to us</a><span class="seperator">|</span></li>
-        <li><a href="/static/frontend/bv.33/content/API.html">API</a><span class="seperator">|</span></li>
-        <li><a href="/static/frontend/bv.33/content/privacy_policy.html">Privacy policy</a><span class="seperator">|</span></li>
-        <li><a href="/static/frontend/bv.33/content/terms_of_use.html">Terms of use</a><br></li>
-    </ul>
-    <ul class="letters">
-        <li><a href="/what/a">Business directory</a><span class="seperator">|</span></li>
-        <li><a href="/where/a">Location directory</a></li>
-    </ul>
-    <ul class="popularClassifications">
-        <li><span class="seperator bold">Most popular categories</span></li>
-        <li><a href="/c/Childrens-Playcentres">Children's Playcentres</a> - </li>
-        <li><a href="/c/Veterinaries">Veterinaries</a> - </li>
-        <li><a href="/c/Car-Hire">Car Hire</a> - </li>
-        <li><a href="/c/Garages">Garages</a> - </li>
-        <li><a href="/c/Serviced-Offices">Serviced Offices</a> - </li>
-        <li><a href="/c/Structural-Engineers">Structural Engineers</a> - </li>
-        <li><a href="/c/Hotel-Booking">Hotel Booking</a> - </li>
-        <li><a href="/c/Loans">Loans</a> - </li>
-        <li><a href="/c/Couriers">Couriers</a> - </li>
-        <li><a href="/c/Beauty-Salons">Beauty Salons</a> - </li>
-        <li><a href="/c/Dentists">Dentists</a> - </li>
-        <li><a href="/c/Doctors">Doctors</a> - </li>
-        <li><a href="/c/Hotels">Hotels</a> - </li>
-        <li><a href="/c/Business-Insurance">Business Insurance</a> - </li>
-        <li><a href="/c/Car-Insurance">Car Insurance</a> - </li>
-        <li><a href="/c/Estate-Agents">Estate Agents</a> - </li>
-        <li><a href="/c/Solicitors">Solicitors</a> - </li>
-        <li><a href="/c/Computers">Computers</a> - </li>
-        <li><a href="/c/Printers">Printers</a> - </li>
-        <li><a href="/c/Garden-Sheds">Garden Sheds</a> - </li>
-        <li><a href="/c/Search-Engine-Marketing">Search Engine Marketing</a> - </li>
-        <li><a href="/c/Cinemas">Cinemas</a> - </li>
-        <li><a href="/c/Dry-Cleaners">Dry Cleaners</a> - </li>
-        <li><a href="/c/Architects">Architects</a> - </li>
-        <li><a href="/c/Recruitment-Companies">Recruitment Companies</a> - </li>
-        <li><a href="/c/Locksmiths">Locksmiths</a> - </li>
-        <li><a href="/c/Pubs">Pubs</a> - </li>
-        <li><a href="/c/Lingerie-Shops">Lingerie Shops</a> - </li>
-        <li><a href="/c/Garden-Centres">Garden Centres</a> - </li>
-        <li><a href="/c/Supermarkets">Supermarkets</a> - </li>
-        <li><a href="/c/Electronics">Electronics</a> - </li>
-        <li><a href="/c/Online-Books,-DVDs,-and-CDs">Online Books, DVDs, and CDs</a> - </li>
-        <li><a href="/c/Florists">Florists</a> - </li>
-        <li><a href="/c/Jewellers">Jewellers</a> - </li>
-        <li><a href="/c/Nursery-Schools">Nursery Schools</a> - </li>
-        <li><a href="/c/Builders">Builders</a> - </li>
-        <li><a href="/c/Electricians">Electricians</a> - </li>
-        <li><a href="/c/Joiners">Joiners</a> - </li>
-        <li><a href="/c/Plumbers">Plumbers</a> - </li>
-        <li><a href="/c/Travel-Agents">Travel Agents</a> - </li>
-        <li><a href="/c/Taxis">Taxis</a> - </li>
-        <li><a href="/c/Car-Auctions">Car Auctions</a></li>
-    </ul>
+<div id="footerTop"></div>
+<div id="footer">
+    <div class="mainContainer">
+
+        <div class="otherContent otherContentBlog">
+            <h3>On our blog</h3>
+            <script type="text/javascript" src="/app/frontend/BlogJsInjection"></script>
+        </div>
+            <div class="clear"></div>
+            <div class="otherContent otherContentAbout">
+                <h3>More</h3>
+                <ol>
+                    <li><a class="mainLink" href="/static/frontend/bv.89/content/about_us.html">About us</a></li>
+                    <li><a class="mainLink" href="/popular-brands">Popular brands</a></li>
+                    <li><a class="mainLink" href="/businesses">Top businesses</a></li>
+                    <li><a class="mainLink" href="/app/frontend/UserSearch">Top users</a></li>
+                    <li><a class="mainLink" href="/vouchers">Featured vouchers</a></li>
+                    <li><a class="mainLink" href="http://blog.bview.co.uk">BView blog</a></li>
+                    <li><a class="mainLink" href="/app/frontend/ContactUs" rel="nofollow">Contact us</a></li>
+                    <li><a class="mainLink" href="/static/frontend/bv.89/content/faqs.html" rel="nofollow">FAQ</a></li>
+                    <li><a class="mainLink" href="/app/frontend/FeedbackForm">Feedback</a></li>
+                    <li><a class="mainLink" href="/static/frontend/bv.89/content/press.html" rel="nofollow">Press</a></li>
+                    <li><a class="mainLink" href="/static/frontend/bv.89/content/advertisers.html" rel="nofollow">Advertise</a></li>
+                    <li><a class="mainLink" href="/static/frontend/bv.89/content/link_to_us.html" rel="nofollow">Link to us</a></li>
+                    <li><a class="mainLink" href="/static/frontend/bv.89/content/API.html">API</a></li>
+                    <li><a class="mainLink" href="/static/frontend/bv.89/content/privacy_policy.html" rel="nofollow">Privacy policy</a></li>
+                    <li><a class="mainLink" href="/static/frontend/bv.89/content/terms_of_use.html" rel="nofollow">Terms of use</a></li>
+                    <li><a class="mainLink" href="/what/a">Business directory</a></li>
+                    <li><a class="mainLink" href="/where/a">Location directory</a></li>
+                </ol>
+            </div>
+            <div class="otherContent">
+                <h3>Popular Categories</h3>
+                <ol>
+                  <li><a class="mainLink" href="/c/childrens-playcentres">Children's Playcentres</a></li>
+                    <li><a class="mainLink" href="/c/veterinaries">Veterinaries</a></li>
+                    <li><a class="mainLink" href="/c/car-hire">Car Hire</a></li>
+                    <li><a class="mainLink" href="/c/garages">Garages</a></li>
+                    <li><a class="mainLink" href="/c/serviced-offices">Serviced Offices</a></li>
+                    <li><a class="mainLink" href="/c/structural-engineers">Structural Engineers</a></li>
+                    <li><a class="mainLink" href="/c/hotel-booking">Hotel Booking</a></li>
+                    <li><a class="mainLink" href="/c/loans">Loans</a></li>
+                    <li><a class="mainLink" href="/c/couriers">Couriers</a></li>
+                    <li><a class="mainLink" href="/c/beauty-salons">Beauty Salons</a></li>
+                    <li><a class="mainLink" href="/c/dentists">Dentists</a></li>
+                    <li><a class="mainLink" href="/c/doctors">Doctors</a></li>
+                    <li><a class="mainLink" href="/c/hotels">Hotels</a></li>
+                    <li><a class="mainLink" href="/c/business-insurance">Business Insurance</a></li>
+                    <li><a class="mainLink" href="/c/car-insurance">Car Insurance</a></li>
+                    <li><a class="mainLink" href="/c/estate-agents">Estate Agents</a></li>
+                    <li><a class="mainLink" href="/c/solicitors">Solicitors</a></li>
+                    <li><a class="mainLink" href="/c/computers">Computers</a></li>
+                    <li><a class="mainLink" href="/c/printers">Printers</a></li>
+                    <li><a class="mainLink" href="/c/garden-sheds">Garden Sheds</a></li>
+                    <li><a class="mainLink" href="/c/search-engine-marketing">Search Engine Marketing</a></li>
+                </ol>
+            </div>
+            <div class="otherContent">
+                <h3>Popular Merchants</h3>
+                <ol>
+                    <li><a class="mainLink" href="/c/cinemas">Cinemas</a></li>
+                    <li><a class="mainLink" href="/c/dry-cleaners">Dry Cleaners</a></li>
+                    <li><a class="mainLink" href="/c/architects">Architects</a></li>
+                    <li><a class="mainLink" href="/c/recruitment-companies">Recruitment Companies</a></li>
+                    <li><a class="mainLink" href="/c/locksmiths">Locksmiths</a></li>
+                    <li><a class="mainLink" href="/c/pubs">Pubs</a></li>
+                    <li><a class="mainLink" href="/c/lingerie-shops">Lingerie Shops</a></li>
+                    <li><a class="mainLink" href="/c/garden-centres">Garden Centres</a></li>
+                    <li><a class="mainLink" href="/c/supermarkets">Supermarkets</a></li>
+                    <li><a class="mainLink" href="/c/electronics">Electronics</a></li>
+                    <li><a class="mainLink" href="/c/online-books,-dvds,-and-cds">Online Books, DVDs, and CDs</a></li>
+                    <li><a class="mainLink" href="/c/florists">Florists</a></li>
+                    <li><a class="mainLink" href="/c/jewellers">Jewellers</a></li>
+                    <li><a class="mainLink" href="/c/nursery-schools">Nursery Schools</a></li>
+                    <li><a class="mainLink" href="/c/builders">Builders</a></li>
+                    <li><a class="mainLink" href="/c/electricians">Electricians</a></li>
+                    <li><a class="mainLink" href="/c/joiners">Joiners</a></li>
+                    <li><a class="mainLink" href="/c/plumbers">Plumbers</a></li>
+                    <li><a class="mainLink" href="/c/travel-agents">Travel Agents</a></li>
+                    <li><a class="mainLink" href="/c/taxis">Taxis</a></li>
+                    <li><a class="mainLink" href="/c/car-auctions">Car Auctions</a></li>
+                </ol>
+            </div>
+
+    </div>
 </div>
-<script type="text/javascript" src="/static/frontend/bv.33/js/common_javascript.js"></script>
+<script type="text/javascript" src="/static/frontend/bv.89/js/common_javascript.js"></script>
 <script type="text/javascript">
     runOnLoad([runOnLoad_header]);
 </script>
