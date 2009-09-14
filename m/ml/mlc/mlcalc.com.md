@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mlcalc.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619054441id_/http%3A//www.mlcalc.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlcalc.com privacy policy that was archived on 2009-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090914022856id_/http%3A//www.mlcalc.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
