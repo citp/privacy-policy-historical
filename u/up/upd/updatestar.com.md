@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the updatestar.com privacy policy that was archived on 2009-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090407023529id_/http%3A//client.updatestar.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the updatestar.com privacy policy that was archived on 2009-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090914231148id_/http%3A//client.updatestar.com/en/privacy) for the most accurate reproduction.*
 
 # UpdateStar - Simplify your software life
 
