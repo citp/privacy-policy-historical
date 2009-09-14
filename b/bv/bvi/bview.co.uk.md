@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bview.co.uk privacy policy that was archived on 2009-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090401072137id_/http%3A//www.bview.co.uk/static/frontend/bv.33/content/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bview.co.uk privacy policy that was archived on 2009-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090914103132id_/http%3A//www.bview.co.uk/static/frontend/bv.89/content/privacy_policy.html) for the most accurate reproduction.*
 
 # BView - Privacy policy
 
@@ -39,7 +39,7 @@ Information that you post on the Site may also contain personal information.
 
 ##### 3\. Business information
 
-We believe that information about businesses should be freely available and freely exchanged. Such information may not be governed by UK data protection legislation and the provision and use of such information is governed by our [Terms of use](https://web.archive.org/static/frontend/bv.33/content/terms_of_use.html).
+We believe that information about businesses should be freely available and freely exchanged. Such information may not be governed by UK data protection legislation and the provision and use of such information is governed by our [Terms of use](https://web.archive.org/static/frontend/bv.89/content/terms_of_use.html).
 
   
 
@@ -135,4 +135,4 @@ You can also contact us via our feedback form.
 
 ##### 14\. General
 
-This Privacy policy and our [Terms of use](https://web.archive.org/static/frontend/bv.33/content/terms_of_use.html) contain all the terms of your agreement with us relating to the use of the Site. No other written or oral statement will be incorporated.
+This Privacy policy and our [Terms of use](https://web.archive.org/static/frontend/bv.89/content/terms_of_use.html) contain all the terms of your agreement with us relating to the use of the Site. No other written or oral statement will be incorporated.
