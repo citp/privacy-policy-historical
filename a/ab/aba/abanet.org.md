@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abanet.org privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624232353id_/http%3A//www.abanet.org/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abanet.org privacy policy that was archived on 2009-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090915192116id_/http%3A//www.abanet.org/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy Statement for ABAnet.org - American Bar Association
 
