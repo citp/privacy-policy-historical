@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carmax.com privacy policy that was archived on 2009-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090424185606id_/http%3A//www.carmax.com/enUS/privacy-policy/default.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carmax.com privacy policy that was archived on 2009-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090915225034id_/http%3A//www.carmax.com/enUS/privacy-policy/default.html) for the most accurate reproduction.*
 
 # CarMax
 
@@ -14,6 +14,7 @@ The CarMax family is made up of several companies, or "affiliates." As of the da
  **CarMax Auto Mall, LLC**  
  **CarMax of Laurel, LLC**  
  **CarMax Business Services, LLC** (includes **CarMax Auto Finance** , a division)  
+ **CarMax Funding Services, LLC**  
  **CarMax Auto Superstores Services, Inc.**
 
 When we use the term _**CarMax**_ , _**us**_ , _**we**_ , or _**our**_ , it refers to each affiliate in the CarMax family. 
@@ -35,8 +36,8 @@ _This information is gathered from the following sources:_
   * Current and previous transactions or experiences with us or our affiliates _(purchase of a vehicle, vehicle service history)_
   * Current and previous transactions or experiences with other third parties _(relating to your credit, or other relationships with them and to confirm employment or insurance)_
   * Our websites _(from transactions, surveys, site navigation, cookies*, image tags**, or other technology used to remember information you enter on our websites or your navigation through our websites)***_
-  * Other third parties for marketing programs _(demographic firms, direct marketing database firms)_
-  * **The following only applies to Website users:** If any information we have about you is incorrect, we will gladly correct it. Simply [Email](https://web.archive.org/enUS/optout/default.html) us noting the incorrect information and the correction. We reserve the right to verify the correctness of this information. Please note that in the event we amend the Privacy Policy, posting the amendment will serve as notice to you of that change and the policy will note its effective date. The effective date for this Privacy Policy is October 1, 2008. 
+  * Other third parties for marketing programs _(demographic firms, direct marketing database firms, and inventory listing websites)_
+  * **The following only applies to Website users:** If any information we have about you is incorrect, we will gladly correct it. Simply [Email](https://web.archive.org/enUS/optout/default.html) us noting the incorrect information and the correction. We reserve the right to verify the correctness of this information. Please note that in the event we amend the Privacy Policy, posting the amendment will serve as notice to you of that change and the policy will note its effective date. The effective date for this Privacy Policy is May 6, 2009. 
 
 
 
@@ -70,7 +71,8 @@ We may report information about your account to credit bureaus. Late payments, m
 
 **Image tags work in conjunction with cookies. An image tag, also referred to as a clear GIF or web beacon, is a small image file that may be located on select pages on our websites. 
 
-***At this time, CarMax has contracted with Omniture and TruEffect to collect information about how website users navigate our websites. This information will not be disclosed and will be used only to generate anonymous visitor profiles, which do not contain personally identifiable information. The anonymous profiles are used to provide website users content specifically tailored to them. To opt out of Omniture’s collection of information about how you navigate our websites, please go to <http://www.omniture.com/en/company/acquisitions/visualsciences/privacy/policy>. To opt out of TruEffect’s collection of information about how you navigate our websites, please go to <http://www.trueffect.com/privacy>. 
+***At this time, CarMax has contracted with Omniture and TruEffect to collect information about how website users navigate our websites. This information will not be disclosed and will be used only to generate anonymous visitor profiles, which do not contain personally identifiable information. The anonymous profiles are used to provide website users content specifically tailored to them. To opt out of Omniture’s collection of information about how you navigate our websites, please go to   
+[http://www.112.2o7.net/optout.html?omniture=1&popup=1&locale=en_US](http://www.112.2o7.net/optout.html?omniture=1&popup=1&locale=en_US). To opt out of TruEffect’s collection of information about how you navigate our websites, please go to <http://www.trueffect.com/privacy>. 
 
 CarMax may change what companies we use to collect this type of information at any time. If we do, we will revise this policy to reflect this change and notify you as required by law. 
 
