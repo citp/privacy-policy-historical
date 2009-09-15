@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solo-ads-only.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616152155id_/http%3A//solo-ads-only.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solo-ads-only.com privacy policy that was archived on 2009-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090915193547id_/http%3A//solo-ads-only.com/privacy.php) for the most accurate reproduction.*
 
 # Solo Ads Only Privacy Policy
 
