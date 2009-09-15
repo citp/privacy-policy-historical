@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the k9stud.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618114644id_/http%3A//www.k9stud.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the k9stud.com privacy policy that was archived on 2009-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090915190407id_/http%3A//www.k9stud.com/privacy.aspx) for the most accurate reproduction.*
 
 # k9Stud.com
 
