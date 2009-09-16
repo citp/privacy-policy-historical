@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scholarshipexperts.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417075608id_/http%3A//www.scholarshipexperts.com/scholarships/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarshipexperts.com privacy policy that was archived on 2009-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090917010131id_/http%3A//www.scholarshipexperts.com/scholarships/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - ScholarshipExperts.com
 
