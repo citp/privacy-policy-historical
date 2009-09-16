@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pilotonline.com privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505174754id_/http%3A//hamptonroads.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pilotonline.com privacy policy that was archived on 2009-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090916051019id_/http%3A//hamptonroads.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | HamptonRoads.com | PilotOnline.com
 
 ## HamptonRoads.com, PilotOnline.com & HamptonRoads.tv Privacy Policy
 
-_Last Updated on December 7,   2007_
+_Last Updated on July 23,  2009_
 
 This Privacy Policy discloses the privacy practices for HamptonRoads.com, PilotOnline.com & HamptonRoads.tv. For the purposes of this Privacy Policy, unless otherwise noted, all references to “HamptonRoads.com” include HamptonRoads.com, PilotOnline.com, HamptonRoads.tv, and all of the channels found on these sites. 
 
@@ -32,18 +32,15 @@ We reevaluate both our Privacy Policy and our [Posting Policy](http://hamptonroa
 
 If you have questions or concerns regarding these policies, we ask that you contact us:
 
-By web: 
+By Web: [Privacy Policy feedback](http://contact.hamptonroads.com/process.php?subject=Online%20privacy%20policy&r=81)
 
-Online: [Privacy Policy feedback](http://home.hamptonroads.com/feedback/submit.cfm?id=31)
+By Phone: (757) 446-2727
 
-By E-mail: [webmaster@hamptonroads.com](mailto:webmaster@hamptonroads.com?subject=Privacy%20policy%20concern)
-
-By Phone: (757-446-2727  
-Fax: (757) 627-2175, Attention Online Privacy Manager
+By Fax: (757) 627-2175, Attention: Online Privacy Manager
 
 By Mail:  
-HamptonRoads.com          
-Attention Privacy Manager   
+HamptonRoads.com   
+Attention: Online Privacy Manager   
 150 W. Brambleton Ave.   
 Norfolk, VA 23510
 
@@ -59,9 +56,9 @@ This Privacy Policy applies to the following HamptonRoads.com web sites:
 •    DealSpotter (deals.hamptonroads.com)  
 •    Drive (drive.hamptonroads.com)  
 •    ePilot, the electronic edition of The Virginian-Pilot   
-•    Real Estate (realestate.hamptonroads.com)  
-•    Apartments (realestate.hamptonroads.com/apartments)  
-•    Local Search
+•    Real Estate (homes.hamptonroads.com)  
+•    Apartments (apartments.hamptonroads.com)  
+•    Business Directory (find.hamptonroads.com)
 
 Please note, HamptonRoads.com may contain links to other web sites for your convenience and information. We are not responsible for the privacy practices or the content of those sites. We encourage you to review the privacy policy of any company before submitting your personal information.
 
@@ -86,14 +83,14 @@ Please be careful and responsible whenever you are online. Should you choose to 
 
 Like most web sites, we also collect and aggregate information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use “cookie” technology. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our sites. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but doing so may limit your ability to access certain portions of the sites and to take advantage of most personalized services offered. Additionally we may not be able to customize the sites’ features according to your preferences.
 
-Third party advertising companies  We use a proprietary advertising server to display ads on HamptonRoads.com. In addition, advertisers may elect to use third-party advertising companies to serve ads onto our web sites. In the course of serving these advertisements, the third-party advertisers may place or recognize a unique "cookie" on your browser. We do not have access to these cookies or any information that they may contain. We do not control the placement or the acceptance of cookies from domains other than HamptonRoads.com .
+Third-party advertising companies: We use a proprietary advertising server to display ads on HamptonRoads.com. In addition, advertisers may elect to use third-party advertising companies to serve ads onto our web sites. In the course of serving these advertisements, the third-party advertisers may place or recognize a unique "cookie" on your browser. We do not have access to these cookies or any information that they may contain. We do not control the placement or the acceptance of cookies from domains other than HamptonRoads.com .
 
-Third-party analytic systems HamptonRoads.com is currently using and has contracted with WebSideStory, a third party, to track and analyze aggregated usage and volume statistical information from our visitors and customers to help us administer our web sites and constantly improve their quality. All data collected by WebSideStory on behalf of HamptonRoads.com is owned and used by HamptonRoads.com. HamptonRoads.com reserves the right to publish non-personally identifiable, summary information regarding its web site visitors for promotional purposes and as a representative audience for advertisers. For more information about WebSideStory privacy policy, including how to opt out, go to <http://www.websidestory.com/privacy/overview.html>. We reserve the right to change the vendors who provide us with usage data.
+Third-party analytic systems: HamptonRoads.com is currently using and has contracted with Omniture, a third party, to track and analyze aggregated usage and volume statistical information from our visitors and customers to help us administer our web sites and constantly improve their quality. All data collected by Omniture on behalf of HamptonRoads.com is owned and used by HamptonRoads.com. HamptonRoads.com reserves the right to publish non-personally identifiable, summary information regarding its web site visitors for promotional purposes and as a representative audience for advertisers. For more information about Omniture privacy policy, including how to opt out, go to <http://www.omniture.com/en/privacy/policy>. We reserve the right to change the vendors who provide us with usage data.
 
 Credit card information will be provided to third parties only to provide products and services that you order. We may use the contact information you provide to contact you about your account and/or to send you necessary information directly related to the product(s) or service(s) for which you have registered. With your permission, we may use your contact information to inform you of new features and special offers from us. We will not provide your contact information to unaffiliated third parties without your express permission. As part of the registration process, you have the option to inform us that you do not wish to receive information about other special offers and promotions. 
 
 **Affiliated sites, linked sites and advertisements**  
-We expect our partners, advertisers and third-party affiliates to respect the privacy of our users. However, third parties, including our partners, advertisers, affiliates and other content providers accessible through our sites, may have their own privacy and data collection policies and practices with terms that differ from the terms in our Privacy Policy, and that we do not control. For example, during your visit to our sites you may link to, or view as part of a frame on a page, certain content that is actually created or hosted by a third party. Also, through HamptonRoads.com you may be introduced to, or be able to access, information, web sites, advertisements, features, contests or sweepstakes offered by other parties. HamptonRoads.com is not responsible for such third party content or for the actions or policies of the third parties providing such content. You should check the applicable terms of use and privacy policies of those third parties before providing information on a feature or page operated by a third party.
+We expect our partners, advertisers and third-party affiliates to respect the privacy of our users. However, third parties, including our partners, advertisers, affiliates and other content providers accessible through our sites may have their own privacy and data collection policies and practices with terms that differ from the terms in our Privacy Policy, and that we do not control. For example, during your visit to our sites you may link to, or view as part of a frame on a page, certain content that is actually created or hosted by a third party. Also, through HamptonRoads.com you may be introduced to, or be able to access, information, web sites, advertisements, features, contests or sweepstakes offered by other parties. HamptonRoads.com is not responsible for such third party content or for the actions or policies of the third parties providing such content. You should check the applicable terms of use and privacy policies of those third parties before providing information on a feature or page operated by a third party.
 
 While on our sites, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Through features available on our sites, third parties may use cookies or other technology to gather information. HamptonRoads.com does not control the use of this technology or the resulting information and is not responsible for any actions or policies of such third parties.
 
@@ -109,7 +106,7 @@ The aggregated information we collect is used for a number of purposes including
 7.    To enable audit bureaus and third party advertisers to verify our claims of traffic to our sites.  
 8.    To help advertisers, potential advertisers or marketers assess the suitability of the sites for their ad campaigns.  
 9.    To allow advertising to be targeted, based on aggregated, non-personally identifiable usage information, to the users for whom such advertising is most pertinent.  
-10.    HamptonRoads.com may share personal information with The Virginian-Pilot Media Companies for analysis purposes, including analysis to improve customer relationships.
+10.    HamptonRoads.com may share personal information with Virginian-Pilot Media Companies for analysis purposes, including analysis to improve customer relationships.
 
 **Future uses**  
 As we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or whenever we deem it appropriate or necessary to give such information to law enforcement authorities. Please note we may not provide you with notice prior to disclosure in such cases.  
@@ -122,20 +119,20 @@ You may submit content to certain sections of our sites provided you do so in ac
 
 •    HamptonRoads.com reserves the right to remove or not to publish any individual or individual’s content on our sites for any reason without explanation.  
 •    We reserve the right to, but do not assume the obligation, to restrict or prohibit the use of our sites as we see fit whether for legal or other reasons.  
-•    User submitted content remains the intellectual property of the individual user, however by posting content on our sites, you grant Company a non-exclusive, perpetual, irrevocable, royalty-free, worldwide, fully sub-licensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display such content throughout the world in any media, whether now known or hereafter discovered.    
+•    User submitted content remains the intellectual property of the individual user, however by posting content on our sites, you grant HamptonRoads.com a non-exclusive, perpetual, irrevocable, royalty-free, worldwide, fully sub-licensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display such content throughout the world in any media, whether now known or hereafter discovered.    
 •    You represent and warrant that you own or otherwise have all necessary rights, including but not limited to copyrights, in all content that you submit to our sites, that you have secured all third party consents, licenses, waivers and permissions necessary to submit such content, including, without limitation, waivers of third party “moral rights” in the content, that you have secured waivers of rights of privacy, publicity and personality from any third parties whose names, likenesses, photographs, animated portrayals, or actual or imitated voices are depicted in the content, and that no content you submit could reasonably be regarded as obscene, defamatory, abusive or otherwise inappropriate..  
-•    On occasion user published content is repurposed in The Virginian-Pilot. The editor may contact the user for more information if necessary.  
+•    On occasion user-published content is repurposed in The Virginian-Pilot. The editor may contact the user for more information if necessary.  
 •    Any posting becomes public as soon as they are published online.  
 •    You should be aware that when you disclose personal information such as your name or e-mail address in a comment, blog, posting or other area that is publicly accessible by others, that information can be collected and used by others. HamptonRoads.com is not responsible for any information that you provide in the above areas.  
-•    For more information, see the [Posting Guidelines](http://hamptonroads.com/posting-guidelines) and read the user submitted content sections of our [FAQ](http://home.hamptonroads.com/feedback/submit.cfm?id=64). 
+•    For more information, see the [Posting Guidelines](http://hamptonroads.com/posting-guidelines). 
 
 **HOW DO I CHANGE OR UPDATE MY PERSONAL INFORMATION?**
 
 **Your Virginian-Pilot Home Delivery account:** You may update and/or edit your Home Delivery account information online by clicking on the “[Manage Account](http://managesubscription.pilotonline.com/cgi/cgiip.wsc/custservice/web/login.html)”  link on our home pages, under The Virginian-Pilot. Should you require assistance, please call our toll free number, 1-800-446-9000; locally, you may call 446-2000.
 
-**Manage your HamptonRoads.com account:** You may review and update your HamptonRoads.com account information and access your site comments and participation history in your User Account area. There are a number of things you can do to ensure your personal information is accurate and up to date. You can update the information you provided during the free registration process. You can sign up for our e-mail newsletters and manage your delivery options. To gain access to the areas of the Member Center containing personal information, you will be asked to re-enter your password. If you do not remember your password, [you can reset your password here](http://hamptonroads.com/user/password).  If you need further assistance, [please use our online feedback form](http://home.hamptonroads.com/feedback/submit.cfm?id=55). 
+**Manage your HamptonRoads.com account:** You may review and update your HamptonRoads.com account information and access your site comments and participation history in your User Account area. There are a number of things you can do to ensure your personal information is accurate and up to date. You can update the information you provided during the free registration process. You can sign up for our e-mail newsletters and manage your delivery options. To gain access to the areas of the Member Center containing personal information, you will be asked to re-enter your password. If you do not remember your password, [you can reset your password here](http://hamptonroads.com/user/password).  If you need further assistance, [please use our online feedback form](http://contact.hamptonroads.com/process.php?subject=Registration/profile%20process&r=27). 
 
-**Manage your ePilot account:** You may update and/or edit your ePilot account information online by logging in at [welcome.hamptonroads.com/epilot](http://welcome.hamptonroads.com/epilot). You may update your registered credit card information, address, communication preferences and the e-mail address and password registered to the account. Should you require assistance, [please click here](http://welcome.hamptonroads.com/epilot/faq/).
+**Manage your ePilot account:** You may update and/or edit your ePilot account information online by logging in at [virginianpilot.hamptonroads.com](https://virginianpilot.hamptonroads.com/). You may update your registered credit card information, address, communication preferences and the e-mail address and password registered to the account. Should you require assistance, [please click here](https://virginianpilot.hamptonroads.com/clickshare/faq.vm).
 
 **IS MY INFORMATION PROTECTED?**
 
@@ -146,7 +143,7 @@ The Children's Online Privacy Protection Act (COPPA) provides that web site oper
 **  
 You must be 18 years or older to participate in the following services:**  
 •    Contests   
-•    Registering for free Community Pages
+•    Registering for free Hampton Roads Group Pages
 
 **You must be 13 years or older to participate in the following services:**  
 •    Registering for free HamptonRoads.com newsletters  
@@ -162,4 +159,4 @@ We may disclose personal information if we are required to do so by law or we in
 **CHANGES TO THIS POLICY**  
 We reevaluate both our Privacy Policy and our [Posting Policy](http://hamptonroads.com/posting-guidelines) on an ongoing basis. We will post the new policies on this page in a timely manner, and, if the changes allow us to use personally identifying information in ways that are different from the ways specified at the time the information was originally collected, HamptonRoads.com will contain a special notice about the changes. Each version of this privacy policy will be identified by its effective date, which you can find at the top and the bottom of the page.
 
-Last Updated on December 7, 2007
+Last Updated on July 23, 2009
