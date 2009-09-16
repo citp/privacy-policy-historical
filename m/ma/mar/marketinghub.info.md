@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketinghub.info privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611062439id_/http%3A//www.marketinghub.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketinghub.info privacy policy that was archived on 2009-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090916051440id_/http%3A//www.marketinghub.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
