@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zenoss.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513040454id_/http%3A//www.zenoss.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenoss.com privacy policy that was archived on 2009-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090916023106id_/http%3A//www.zenoss.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Open Source Network Monitoring and Systems Monitoring - Zenoss
+# Privacy Policy - Commercial Open Source Application, Systems and Network Monitoring - Zenoss
 
 The intent of this privacy policy is to disclose Zenoss privacy practices, whether you are a casual browser of our website, or a community member who chooses to interact actively with us through our website, use our software, or receive email from us.
 
