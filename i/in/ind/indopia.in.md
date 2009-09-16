@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indopia.in privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618080238id_/http%3A//www.indopia.in/registration/privacyconcerns.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indopia.in privacy policy that was archived on 2009-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090916221340id_/http%3A//www.indopia.in/registration/privacyconcerns.php) for the most accurate reproduction.*
 
-# Indopia.in: Indian entertainment, news,cricket news ,election result news, business news, classifieds, yellow pages, white pages, neighborhood, multi-media, movies, games, shopping
+# Indopia.in: Indian entertainment, news,cricket news ,T20 Cricket, cricket world cup , election result news, business news, classifieds, yellow pages, white pages, neighborhood, multi-media, movies, games, shopping , latest bollywood news , Songs
 
 Indopia.com and Indopia.LLC are licensees of the TRUSTe privacy program and TRUSTe Children’s Privacy Program and are in compliance with TRUSTe privacy principles. We also participate in the Council of Better Business Bureaus' BBBOnLine Privacy Program, and comply with all BBBOnLine Privacy standards. 
 
