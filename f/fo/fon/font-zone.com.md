@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the font-zone.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618191741id_/http%3A//www.font-zone.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the font-zone.com privacy policy that was archived on 2009-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090916030655id_/http%3A//www.font-zone.com/privacy.php) for the most accurate reproduction.*
 
 # Free fonts at Font-zone.com
 
