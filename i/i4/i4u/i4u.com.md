@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i4u.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604230636id_/http%3A//www.i4u.com/section-viewarticle-486.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i4u.com privacy policy that was archived on 2009-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090916023101id_/http%3A//www.i4u.com/section-viewarticle-486.html) for the most accurate reproduction.*
 
 # I4U News : Privacy Policy
 
