@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bowlbrunswick.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618191826id_/http%3A//www.brunswickbowling.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bowlbrunswick.com privacy policy that was archived on 2009-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090916025132id_/http%3A//www.brunswickbowling.com/privacy_policy) for the most accurate reproduction.*
 
 # Terms of Use and Privacy Policy - Brunswick Bowling
 
