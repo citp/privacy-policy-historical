@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeplaynow.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609173421id_/http%3A//www.freeplaynow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeplaynow.com privacy policy that was archived on 2009-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090916205804id_/http%3A//www.freeplaynow.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,14 @@ Like many other Web sites, www.freeplaynow.com makes use of log files. The infor
 **Cookies and Web Beacons**  
 www.freeplaynow.com does not use cookies. 
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, . 
+**DoubleClick DART Cookie**
+
+.:: Google, as a third party vendor, uses cookies to serve ads on www.freeplaynow.com.  
+.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to www.freeplaynow.com and other sites on the Internet.   
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
+
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
+Google Adsense 
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.freeplaynow.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
