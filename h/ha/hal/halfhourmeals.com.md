@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the halfhourmeals.com privacy policy that was archived on 2009-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090519140327id_/http%3A//www.halfhourmeals.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halfhourmeals.com privacy policy that was archived on 2009-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090916222227id_/http%3A//www.halfhourmeals.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - HalfHourMeals.com
+# Half Hour Meals - Recipes For Your Lifestyle
 
-HalfHourMeals.com Privacy Policy Statement
+## HalfHourMeals.com Privacy Policy Statement
 
 We can be reached via e-mail at privacy@HalfHourMeals.com
 
@@ -18,9 +18,7 @@ If you do not want to receive e-mail from us in the future, please let us know b
 
 If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
-
-Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them. 
+With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of: Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them.
 
 Consumers can access this information by e-mail us at the above address.
 
