@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfuture.edu.au privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626032310id_/http%3A//www.myfuture.edu.au/Footer%2520Items/General/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfuture.edu.au privacy policy that was archived on 2009-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090916035951id_/http%3A//www.myfuture.edu.au/Footer%2520Items/General/Privacy.aspx) for the most accurate reproduction.*
 
 # myfuture :: Privacy
 
