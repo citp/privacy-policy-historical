@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the grist.org privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604090250id_/http%3A//www.grist.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grist.org privacy policy that was archived on 2009-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090916070942id_/http%3A//www.grist.org/about/privacy) for the most accurate reproduction.*
 
-# Legal: Privacy Policy | Grist
+# Privacy Policy | Grist
 
 [Privacy Policy](https://web.archive.org/about/privacy)   |   [Terms of Use](https://web.archive.org/about/terms)   |   [Trademarks](https://web.archive.org/about/trademarks)   
 
@@ -91,7 +91,7 @@ We occasionally conduct surveys and polls. Participation in these is completely 
 
 **5\. Updating Your Communications Preferences and Personally Identifiable Information**
 
-Registered website users may update their personally identifiable information and communications preferences on their profile page. Visitors who no longer wish to receive promotional communications from us may opt-out by sending an email message to [grist@grist.org](mailto:grist@grist.org) with "unsubscribe" in the subject line.
+Registered website users may update their personally identifiable information and communications preferences on their profile page. Visitors who no longer wish to receive promotional communications from us may opt-out by submitting a request to "Website and email help" on our [contact form](https://web.archive.org/contact/contact-us).
 
 **Back to Top**
 
@@ -116,6 +116,6 @@ This website is published in the United States. Information collected on this we
 **Back to Top**
 
 **7\. Contact Information**  
-If you have questions or concerns regarding this Policy, please contact us by email at [grist@grist.org](mailto:grist@grist.org) or by Postal mail at Webmaster, Grist, 710 Second Avenue, Suite 860, Seattle, WA 98104.
+If you have questions or concerns regarding this Policy, please [contact us](https://web.archive.org/contact/contact-us) or send Postal mail to Webmaster, Grist, 710 Second Avenue, Suite 860, Seattle, WA 98104.
 
 **Back to Top**
