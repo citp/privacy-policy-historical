@@ -1,86 +1,43 @@
-> *The following text is extracted and transformed from the firstchoice.co.uk privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605025252id_/http%3A//www.firstchoice.co.uk/our-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstchoice.co.uk privacy policy that was archived on 2009-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090917050254id_/http%3A//www.firstchoice.co.uk/our-policies/privacy-policy) for the most accurate reproduction.*
 
 # First Choice | Our Policies | Privacy Policy
 
-## What does First Choice do with my information?
+**Your Information**  
+This refers to information such as your name, contact details, travel preferences and special needs/disabilities/dietary requirements that is supplied to us, including any information about other persons on your booking relating to the same (“your information”). Your information is collected when you request information from us, contact us (and vice versa) or make a booking with us. You are responsible for ensuring that other members of your party are aware of the content of our Privacy Policy and consent to your acting on their behalf in all your dealings with us. We will update your information whenever we get the opportunity to keep it current, accurate and complete. 
 
-Here are a few things you should know:
+**  
+Our Use of Your Information**  
+(1) For the purpose of providing you with our services, including your flight, holiday or insurance, etc., we may disclose your information to our service providers (who could be located outside the UK/EEA). In order for you to travel overseas, it may be mandatory (as requested government authorities at the point(s) of departure and/or destination) to disclose your information for immigration, security and anti-terrorism purposes, or any other purposes which they determine appropriate. Even if not mandatory, we may exercise our discretion to assist where appropriate. 
 
-  * We don't collect personal information about you as you browse. The only way to do so is for you to give it to us
-  * The only info we need is that which enables us to book your holiday for you - for example your name, address and credit/debit card details
-  * We do not disclose your personal information to third parties except for the purpose of completing your transaction, providing booking services to you and obtaining professional advice
-  * We may use your information to contact you regarding your holiday booking  
+(2) We may collect and use your information for the purposes set out in our registration with the Office of the Information Commissioner, and disclose the same to our “group companies” (some of whom are outside the UK/EEA) for business purposes. We may also disclose your information to companies who act as “data processors” on our behalf, or to our service providers' operating systems or business functions on our behalf, some of whom are outside the UK/EEA. These purposes include administration, providing services (and contacting you where necessary), customer care, improving our service, business management and operation, re-organisation/structuring/sale of our business (or our group companies), risk assessment, security and crime prevention/detection, research and analysis, marketing, monitoring, measuring and assessing customer purchasing preferences and trends, dispute resolution, credit checking and debt collection. 
 
+(3) Some of your information (such as health or religion) may be considered “sensitive personal data” under the Data Protection Act 1998. We collect it to cater to your needs or act in your interest, and we are only prepared to accept sensitive personal data from you on the condition that we have your positive consent. By booking with us you also agree for your insurers, their agents and medical staff to disclose relevant information (which may contain sensitive personal data) to us in circumstances where we need to act in the interest of everyone in the group you are travelling with. For example, if your illness at resort is infectious we may need to make special arrangements for you and also ensure that you do not return with the group immediately. If you do not agree to Our Use of Your Information above, we cannot do business with you or accept your booking. 
 
+**Direct Marketing Material**   
+(1) We may from time to time contact you with information on offers of goods and services, brochures, new products, forthcoming events or competitions from our holiday divisions and our holiday group companies. Our websites will assume you to agree to ecommunications when you make a booking. You will be given the opportunity on every e-communication we send you to indicate that you no longer wish to receive our direct marketing material. (2) You may indicate your preference regarding receiving 3rd party direct marketing material. (3) If do not wish to receive such information or would like to change your preference, please refer to point (2) of “Your Rights” below. 
 
+**Your Rights**  
+(1) You have the right to ask in writing by completing our Data Subject Access Request form for a copy of the information we hold about you (for which we may charge a fee) and to correct any inaccuracies in your information. (2) You have the right to ask in writing not to receive direct marketing material about our products and services. If the following facilities are available, you can amend your previous preference on our website(s), using our “unsubscribe e-mail” or in literature which you subsequently return to us. Once properly notified by you, we will take steps to stop using your information in this way. (3) If you would like a list of our group companies or brands, please send us your request. Our registered address is at TUI Travel House, Crawley Business Quarter, Fleming Way, Crawley, West Sussex. RH10 9QL. Please address your correspondence to the Assistant Company Secretary. 
 
-In addition:
+**Foreign Controls**   
+Outside the European Economic Area (EEA), note that controls on data protection in such countries may not be as strong as the legal requirements in this country. 
 
-  * We may use it to contact you regarding other services or products offered by TUI Travel PLC, or ones that are available to First Choice customers from our selected trading partners
-  * We may send your information to selected trading partners and third parties so that they can contact you regarding travel- and non-travel-related products and services that you may be interested in
+**Use of Tools, "Cookies" and Links to Other Websites**   
+If our contact and dealing with you is via our website(s), we may use “cookies”. Cookies allow us to identify your computer but not you personally. You can set your web browser to refuse cookies. However, you may not be able to enjoy all the facilities or book via our website if you do so. We collect information relating to customer trends and patterns and use cookies and software tools to measure site usage and related information. If you are making a purchase, we may also use cookies to keep track of the transaction from one web page to another. Our website(s) may contain links to other sites not controlled by us. We are not responsible for the actions, content or the privacy policies of those websites. It is your responsibility to check the status of these sites. 
 
+**Monitoring**  
+To ensure that we carry out your instructions accurately, to help improve our service and in the interest of security, we may monitor and/or record: (1) your telephone calls; (2) customer activities using CCTV recording equipment in and around our premises; and (3) customer transactions and activities on our website. All recordings are and shall remain our sole property. 
 
+**Security Statement**  
+We have taken all reasonable steps to have in place appropriate security measures to protect your information. 
 
-Don't worry - you can opt out of these if you want to. Just tick the appropriate box on the 'Payment Details' page when you're making your booking.
+**Changes to this Policy**  
+Any changes to this Policy will be either on our website, in our brochure and/or made available on request. 
 
-You can also change your preference at any time, or receive further information, by contacting us at:
+Privacy Policy: March 2007 
 
-Direct Marketing Department, First Choice Holidays  
-First Choice House  
-London Road  
-CRAWLEY  
-West Sussex  
-RH10 9GX
+**Caricom API Data Notice**  
+Please note that some or all of the Caricom states listed below have entered into an agreement with the USA whereby advance passenger data, required by and provided to Caricom states for border security purposes, will be passed to the USA Department for Homeland Security for processing on behalf of those Caricom states listed as follows: Anguilla, Antigua and Barbuda, The Bahamas, Barbados, Belize, Bermuda, British Virgin Islands, Cayman Islands, Dominica, Grenada, Guyana, Haiti, Jamaica, Montserrat, Saint Lucia, St Kitts and Nevis, St Vincent and the Grenadines, Surinam, Trinidad and Tobago, Turks and Caicos Islands, as well as collective or associate members of ‘Caricom’. The UK Information Commissioner’s Office has accepted that this will not breach the Data Protection Act but that we are required to bring this to your attention.
 
-Also any contact with First Choice, either online or by telephone, may be recorded for training and monitoring purposes. 
-
-### Where is my personal information stored?
-
-We store your information in secure databases at secure addresses to prevent unauthorised access.
-
-### What is a 'cookie'?
-
-In website terms, a cookie is a small file sent to your browser (e.g. Internet Explorer or Mozilla Firefox) and stored on your computer's hard disk. Cookies identify the computer you are using, not you personally.
-
-### How does First Choice use cookies?
-
-Cookies perform three functions on our website.
-
-  * They speed up the booking process. They do this by remembering information you have previously entered (such as your name and holidays you've already searched for) so that you don't have to re-enter it time and time again
-  * They measure how much our website is being used, and for what purposes. For example, we can see how many people visit certain pages, visitor exit points, details of searches performed and so forth. This information helps us to give you a better and more helpful visitor experience
-  * For purchases, cookies keep track of your transaction from one page to the next
-
-
-
-And that's it. We don't store your password with them, or any other information for that matter.
-
-### How will I know if you change this privacy policy?
-
-Any changes to our Privacy Policy will be made to this page. Your continued use of the website signifies your agreement to any modified Terms and Conditions.
-
-### What about the other sites you link to?
-
-First Choice Holidays, including its owners, employees and contractors, is not responsible for the privacy policies or content of sites that we link to.
-
-In addition, our ABTA (Association of British Travel Agents) protection does not apply to any non-ABTA registered websites to which we link.
-
-### Data protection information
-
-We take full responsibility for ensuring that security measures are in place to protect your information. We're registered in accordance with applicable data protection legislation in the UK.
-
-We need to pass on relevant information to suppliers such as your hotel, airline and transport companies - otherwise we can't make your booking. We won't pass your details on to anyone who isn't directly responsible for part of your travel arrangements.
-
-This also applies to any sensitive information you have provided, such as disabilities, dietary or religious requirements. When you make your booking, this signifies your consent for your information to be passed on to the necessary parties.
-
-Your info may also be provided to security or credit checking companies, public authorities such as customs/immigration if necessary, or as required by law.
-
-From March 05, 2003, the US and UK governments, customs and immigration authorities require access to passenger information from airlines. Other countries may follow in the future.
-
-If your holiday is outside the European Economic Area (EEA), please be aware that controls on data protection in your destination may not be as strict as in the UK.
-
-You are entitled to a copy of the information you have provided to First Choice. Please contact us if you would like to arrange this. We may make a small administration charge for doing this.
-
-### Consent information
-
-Disclosing your information to us via phone or online signifies your consent to the collection, storage and processing of your info by First Choice as stated in this Privacy Policy.  
-
+**Third-Party Web Beacons**  
+We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm).
