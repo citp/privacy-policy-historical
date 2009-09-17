@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reputationauthority.org privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419100302id_/http%3A//www.reputationauthority.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reputationauthority.org privacy policy that was archived on 2009-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090917020242id_/http%3A//www.reputationauthority.org/privacy.php) for the most accurate reproduction.*
 
 # BorderWare ReputationAuthority
 
