@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gigmasters.com privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415001335id_/http%3A//www.gigmasters.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigmasters.com privacy policy that was archived on 2009-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090917234231id_/http%3A//www.gigmasters.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement for Gigmasters.com
 
@@ -39,7 +39,7 @@ This site gives users the following options for removing their information from 
 
   1. You can send email by clicking <http://www.gigmasters.com/contact.asp>
   2. You can visit the following URL: <http://www.gigmasters.com/u.asp>
-  3. You can call the following telephone number: (800) 925-5527
+  3. You can call the following telephone number: 866-342-9794
 
 
 Correct/Update
@@ -47,7 +47,7 @@ Correct/Update
 
   1. email <http://www.gigmasters.com/contact.asp>
   2. users can go to their control panel once logged in and update their profile. <http://www.gigmasters.com/login.aspx>
-  3. call the following telephone number: (800) 925-5527
+  3. call the following telephone number: 866-342-9794
 
 
 Removal From Directory
@@ -55,14 +55,14 @@ Removal From Directory
 
   1. email <http://www.gigmasters.com/contact.asp>
   2. visit <http://www.gigmasters.com/login.aspx>
-  3. call the following telephone number: (800) 925-5527
+  3. call the following telephone number: 866-342-9794
 
 
 Company Testimonials/Notable Quotes
     We post customer notable quotes on our web site which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent prior to to posting the testimonial to post their name along with their testimonial This site sends an e-mail to each customer directly to obtain consent to use his/her full name, event type, city, state, and quote for use on our company's Testimonials page (<http://www.gigmasters.com/testimonials.asp>) and in our Notable Quotes sections. Requests for removal of a customer testimonial can be done in two ways: 
 
   1. email <http://www.gigmasters.com/contact.asp>
-  2. call the following telephone number: (800) 925-5527
+  2. call the following telephone number: 866-342-9794
 
 
 Credit Cards
