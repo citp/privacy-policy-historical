@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the independent.ie privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502014319id_/http%3A//www.independent.ie/service/data-protection-and-privacy-statement-24073.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the independent.ie privacy policy that was archived on 2009-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090917221735id_/http%3A//www.independent.ie/service/data-protection-and-privacy-statement-24073.html) for the most accurate reproduction.*
 
 # Data protection and privacy statement - Service, Frontpage - Independent.ie
 
