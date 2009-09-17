@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the growthink.com privacy policy that was archived on 2009-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090328100546id_/http%3A//www.growthink.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the growthink.com privacy policy that was archived on 2009-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090917131903id_/http%3A//www.growthink.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Growthink
 
@@ -25,6 +25,8 @@ We have your consent.
 -We provide such information to trusted businesses or persons for the sole purpose of processing personally identifying information on our behalf. When this is done, it is subject to agreements that oblige those parties to process such information only on our instructions and in compliance with this Privacy Policy and appropriate confidentiality and security measures. 
 
 -We conclude that we are required by law or have a good faith belief that access, preservation or disclosure of such information is reasonably necessary to protect the rights, property or safety of Growthink, its users or the public. 
+
+If you were referred to Growthink from an affiliate, we may periodically share this information with the referring affiliate. 
 
 If you have an account, we may share the information submitted under your account among all of our services in order to provide you with a seamless experience and to improve the quality of our services. We will not disclose your account information to other people or non-affiliated companies, except in the limited circumstances described in this Policy or with your consent. 
 
