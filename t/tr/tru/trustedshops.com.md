@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustedshops.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416040128id_/http%3A//www.trustedshops.com/merchants/legal-notice-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustedshops.com privacy policy that was archived on 2009-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090917021231id_/http%3A//www.trustedshops.com/merchants/legal-notice-privacy.html) for the most accurate reproduction.*
 
 # Data protection at Trusted Shops
 
