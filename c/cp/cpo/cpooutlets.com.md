@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpooutlets.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605234339id_/http%3A//www.cpooutlets.com/policy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpooutlets.com privacy policy that was archived on 2009-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090917195455id_/http%3A//www.cpooutlets.com/policy/privacy_policy.html) for the most accurate reproduction.*
 
 # CPO Outlets Privacy Policy
 
