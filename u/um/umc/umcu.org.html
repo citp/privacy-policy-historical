@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the umcu.org privacy policy that was archived on 2009-05-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090514022827id_/http%3A//www.umcu.org/about/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the umcu.org privacy policy that was archived on 2009-09-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090917133038id_/http%3A//www.umcu.org/about/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <!-------------	META DATA ------------->
@@ -74,7 +74,6 @@ do	{
             <li><a href="/checking/overdraft.html">Overdraft Protection</a></li>
             <li><a href="/checking/checkreorders.html">Order Checks</a></li>
             <li><a href="/checking/checkreconciliationform.html">Reconciliation Form</a></li>
-            <li><a href="/checking/faq/index.html">Checking FAQs</a></li>
             <li><a href="/electronicservices/moneytransfer/directdeposit.html">Direct Deposit</a></li></ul>
         </div>
       </div>
@@ -94,7 +93,6 @@ do	{
 			<li><a href="/membership/youth/index.html">Young Member Accounts</a></li>			
             <li><a href="/savings/savingsbonds.html">Savings Bonds</a></li>
             <li><a href="/rates/ratesheet.html#savings">Rates &amp; Fees</a></li>
-            <li><a href="/savings/faq/index.html">Savings FAQs</a></li>
             <li><a href="/electronicservices/moneytransfer/directdeposit.html">Direct Deposit</a></li></ul>
         </div>
       </div>
@@ -382,7 +380,6 @@ if(node_level_1 == "checking")	{
 		document.write('<li ');if(node_level_3=="basic_checking")document.write('class="nav2tab"');document.write('><a href="/checking/compare/basicchecking.html">Basic Checking</a></li>');
 		document.write('<li ');if(node_level_3=="interest_checking")document.write('class="nav2tab"');document.write('><a href="/checking/compare/interestchecking.html">Interest Checking</a></li>');
 		document.write('<li ');if(node_level_3=="select_checking")document.write('class="nav2tab"');document.write('><a href="/checking/compare/select.html">Select Checking</a></li>');
-		document.write('<li ');if(node_level_3=="checking_faq")document.write('class="nav2tab"');document.write('><a href="/checking/faq/index.html">Checking FAQ</a></li>');
 		document.write('</ul>');
 	} else document.write('<li><a href="/checking/index.html">Compare Checking Accounts</a></li>'); // draw inactive
 	
@@ -449,19 +446,6 @@ if(node_level_1 == "checking")	{
 			
 	} else 	document.write('<li><a href="/checking/checkreconciliationform.html">Reconciliation Form</a></li>'); // draw inactive
 			
-	// draw expanded
-	
-	if(node_level_2 == "checking_faqs")	 {
-		document.write('<li>')
-		if(node_level_3=="")document.write('<img src="/images/bullet_nav2.gif" />');
-		document.write('<a href="/checking/faq/index.html">Checking FAQs</a></li>');
-	
-		document.write('<ul>');
-		document.write('<li ');if(node_level_3=="checking_faq")document.write('class="nav2tab"');document.write('><a href="/checking/faq/checking.html">Checking FAQ</a></li>');
-		document.write('<li ');if(node_level_3=="atm_debit_card_faq")document.write('class="nav2tab"');document.write('><a href="/checking/faq/atmdebit.html">ATM/Debit card FAQ</a></li>');
-		document.write('</ul>');
-	} else 	document.write('<li><a href="/checking/faq/index.html">Checking FAQs</a></li>'); // draw inactive
-	
 	// draw expanded
 	
 	if(node_level_2 == "direct_deposit")	{
@@ -553,20 +537,6 @@ if(node_level_1 == "savings")	{
 		document.write('<a href="/rates/ratesheet.html#savings">Rates &amp; Fees</a></li>');
 			
 	} else document.write('<li><a href="/rates/ratesheet.html#savings">Rates &amp; Fees</a></li>'); // draw inactive
-	
-	// draw expanded
-	
-	if(node_level_2 == "savings_faqs")	{
-		document.write('<li>')
-		if(node_level_3=="")document.write('<img src="/images/bullet_nav2.gif" />');
-		document.write('<a href="/savings/faq/index.html">Savings FAQs</a></li>');
-	
-		document.write('<ul>');
-		document.write('<li ');if(node_level_3=="savings_faq")document.write('class="nav2tab"');document.write('><a href="/savings/faq/savings.html">Savings FAQ</a></li>');
-		document.write('<li ');if(node_level_3=="deposit_insurance_faq")document.write('class="nav2tab"');document.write('><a href="/savings/faq/depositinsurance.html">Deposit Insurance FAQ</a></li>');
-		document.write('<li ');if(node_level_3=="ira_faq")document.write('class="nav2tab"');document.write('><a href="/savings/faq/ira.html">IRA FAQ</a></li>');
-		document.write('</ul>');
-	} else document.write('<li><a href="/savings/faq/index.html">Savings FAQs</a></li>'); // draw inactive
 	
 	// draw expanded
 	
@@ -903,35 +873,21 @@ if(node_level_2 == "identity_theft")	{
 		document.write('<li>')
 		if(node_level_3=="")document.write('<img src="/images/bullet_nav2.gif" />');
 		document.write('<a href="/resources/offers/index.html">Special Offers for Members</a></li>');
-	
-		document.write('<ul>');
-		document.write('<li ');if(node_level_3=="aaa_insurance")document.write('class="nav2tab"');document.write('><a href="/resources/offers/aaa.html">AAA Insurance</a></li>');
-		document.write('<li ');if(node_level_3=="amusement")document.write('class="nav2tab"');document.write('><a href="/resources/offers/amusementtickets-offseason.html">Amusement Park Tickets</a></li>');
-		document.write('<li ');if(node_level_3=="tax_services")document.write('class="nav2tab"');document.write('><a href="/resources/offers/annarbortaxservice.html">Ann Arbor Tax Service</a></li>');	
-		document.write('<li ');if(node_level_3=="auto_inspection")document.write('class="nav2tab"');document.write('><a href="/resources/offers/autoinspection.html">Auto Inspection</a></li>');
-		document.write('<li ');if(node_level_3=="auto_dealer_referrals")document.write('class="nav2tab"');document.write('><a href="/resources/offers/autoreferrals.html">Auto Dealer Referrals</a></li>');
-		document.write('<li ');if(node_level_3=="bassett")document.write('class="nav2tab"');document.write('><a href="/resources/offers/bassett&associates.html">Bassett & Associates</a></li>');
-		document.write('<li ');if(node_level_3=="back_to_nature")document.write('class="nav2tab"');document.write('><a href="/resources/offers/backtonature.html">Back to Nature Lawn Care</a></li>');
-		document.write('<li ');if(node_level_3=="cpandu_computing")document.write('class="nav2tab"');document.write('><a href="/resources/offers/cpandu.html">CP&U Computing</a></li>');
-		document.write('<li ');if(node_level_3=="eagle_rock_insurance")document.write('class="nav2tab"');document.write('><a href="/resources/offers/eaglerock.html">Eagle Rock Insurance</a></li>');
-		document.write('<li ');if(node_level_3=="enterprise")document.write('class="nav2tab"');document.write('><a href="/resources/offers/enterprise.html">Enterprise Car Sales</a></li>');	
-		document.write('<li ');if(node_level_3=="hertz_rental")document.write('class="nav2tab"');document.write('><a href="/resources/offers/hertz_rental.html">Hertz Rent a Car</a></li>');	
-		document.write('<li ');if(node_level_3=="meemic_insurance")document.write('class="nav2tab"');document.write('><a href="/resources/offers/meemicinsurance.html">MEEMIC Insurance</a></li>');
-		document.write('<li ');if(node_level_3=="sprint_cellular")document.write('class="nav2tab"');document.write('><a href="/resources/offers/sprint.html">Sprint Cellular</a></li>');	
-		document.write('<li ');if(node_level_3=="state_quarters")document.write('class="nav2tab"');document.write('><a href="/resources/offers/quarters.html">State Quarters</a></li>');
-		document.write('<li ');if(node_level_3=="tax_offers")document.write('class="nav2tab"');document.write('><a href="/resources/offers/taxes/index.html">Tax Filing</a></li>');			
-			} else 	document.write('<li><a href="/resources/offers/index.html">Special Offers for Members</a></li>'); // draw inactive
+		
+	} else 	document.write('<li><a href="/resources/offers/index.html">Special Offers for Members</a></li>'); // draw inactive
 
 	// draw expanded
 
+			
 	if(node_level_2 == "faq_index")	 {
 		document.write('<li>')
 		if(node_level_3=="")document.write('<img src="/images/bullet_nav2.gif" />');
 		document.write('<a href="/resources/faqindex.html">FAQ Index</a></li>');
 			
 	} else 	document.write('<li><a href="/resources/faqindex.html">FAQ Index</a></li>'); // draw inactive	
+	// draw expanded
+}//close if(node_level_1 == "resources")
 
-} // close if(node_level_1 == "resources")
 
 if(node_level_1 == "about_umcu")	 {
 
@@ -988,7 +944,6 @@ if(node_level_1 == "about_umcu")	 {
 		document.write('<a href="/about/locations/index.html">Locations</a></li>');
 	
 		document.write('<ul>');
-		document.write('<li ');if(node_level_3=="branch_hours")document.write('class="nav2tab"');document.write('><a href="/about/locations/branches.html">Branch Hours and Locations</a></li>');
 		document.write('<li ');if(node_level_3=="service_centers")document.write('class="nav2tab"');document.write('><a href="/about/locations/servicecenters.html">Service Centers</a></li>');		
 		document.write('<li ');if(node_level_3=="umcu_atms")document.write('class="nav2tab"');document.write('><a href="/about/locations/umcuatms.html">UMCU ATMs</a></li>');
 		document.write('<li ');if(node_level_3=="network_atms")document.write('class="nav2tab"');document.write('><a href="/about/locations/networkatms.html">Network ATMs</a></li>');		
