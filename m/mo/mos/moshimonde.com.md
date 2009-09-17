@@ -1,39 +1,15 @@
-> *The following text is extracted and transformed from the moshimonde.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623121509id_/http%3A//www.aevoe.com/shop/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moshimonde.com privacy policy that was archived on 2009-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090917184420id_/http%3A//www.moshimonde.com/privacy.asp) for the most accurate reproduction.*
 
-# AEVOE
+# moshi - purveyor of electronics fashion
 
-**PRIVACY & SECURITY **
-
-**about your personal information**
-
-we value your privacy as much as we value your business. all information (e.g., your name, address, phone number or email address) submitted to aevoe is held strictly private. all your information is kept securely behind firewall protection. we do not and never will sell any customer information.
-
-**about cookies**
-
-"cookies" are files that are stored in your computer so that web servers can access certain information you've already provided in the past. our shopping cart only uses a temporary cookie to store your shopping cart information, and a number cookie to track our advertising. we do not store any of your personal information with cookies.
-
-**about e-newsletters and e-vouchers**
-
-we do not spam. periodically, we may send you information via email about new product releases or [aevoean credits](https://web.archive.org/web/20090623121509id_/http%3A//www.aevoe.com/shop/faq.asp) that you may redeem for purchases on aevoe universe. by periodically we mean fewer than once a month. only aevoe will send you these direct mailings. if you do not want to be included on aevoe's mailing list, simply tell us when you sign up for your account. or, at any time you wish to be removed from the mailing list, simply write to our customer representative at [universe@aevoe.com](mailto:customer.service@aevoe.com).
-
-**about security**
-
-your personal and payment/transaction information security is one of our highest priorities. below is a description of how we maintain online security: 
-
-**protection of credit card details**
-
-when you enter your credit card information, you'll be taken to the order form hosted on a secure [verisign](http://www.verisign.com/verisign-inc/index.html) server; therefore your credit card information is NOT being transmitted over the internet and is protected by both data encryption and firewall protection on verisign's server. you can also rely on the fact that verisign's servers have never been compromised or hacked.
-
-**our secured process**
-
-as part of the shopping cart engine used by aevoe universe, there are secured processes built in. specifically the engine ensures: 
-
-• every order has an unique order number 
-
-• every order is logged into a robust database 
-
-• no credit card information is transmitted or stored over the Internet 
-
-• all your billing details are retrieved by us in a SSL encrypted session 
-
-• confirmation emails are sent to you after each completed order entry 
+> PRIVACY STATEMENT
+> 
+> We value your privacy as much as we value your business. All information (e.g., your name and email address) submitted to Moshi is held strictly private. All your information is kept securely behind firewall protection. We do not and never will sell any customer information.
+> 
+> About Cookies
+> 
+> "Cookies" are files that are stored in your computer so that web servers can access certain information you've already provided in the past. Our shopping cart only uses a temporary cookie to store your shopping cart information, and a number cookie to track our advertising. We do not store any of your personal information with cookies.
+> 
+> About e-Newsletters and e-Vouchers
+> 
+> We do not spam. Periodically, we may send you information via email about new product releases or online credits that you may redeem for purchases on our online shop - Aevoe Universe. By periodically we mean fewer than once a month. Only Aevoe/Moshi will send you these direct mailings. If you do not want to be included on our mailing list, simply tell us when you sign up for your account. Or, at any time you wish to be removed from the mailing list, simply write to our customer representative at [customer.serveice@aevoe.com](mailto:customer.serveice@aevoe.com).
