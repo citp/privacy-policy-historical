@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citypaper.net privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627042430id_/http%3A//www.citypaper.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citypaper.net privacy policy that was archived on 2009-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090917164938id_/http%3A//citypaper.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy :: Philadelphia City Paper :: Philadelphia Arts, Restaurants, Music, Movies, Jobs, Classifieds, Blogs
 
