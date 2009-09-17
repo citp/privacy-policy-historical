@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activalive.com privacy policy that was archived on 2009-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090303112201id_/http%3A//www.activalive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activalive.com privacy policy that was archived on 2009-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090917224445id_/http%3A//www.activalive.com/privacy) for the most accurate reproduction.*
 
 # Activa Live, Inc. Privacy Policy
 
