@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noamdesign.com privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530173344id_/http%3A//www.noamdesign.com/Web-Design-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noamdesign.com privacy policy that was archived on 2009-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090917191521id_/http%3A//www.noamdesign.com/Web-Design-Privacy) for the most accurate reproduction.*
 
 # Web Design Company Privacy Policy
 
