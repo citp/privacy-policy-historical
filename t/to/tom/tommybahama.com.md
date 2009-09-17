@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tommybahama.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193529id_/http%3A//tommybahama.com/TBG/GeneralContent/PrivacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tommybahama.com privacy policy that was archived on 2009-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090917075428id_/http%3A//www.tommybahama.com/TBG/GeneralContent/PrivacyPolicy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - TommyBahama.com
 
@@ -109,8 +109,9 @@ If for any reason you do not want to receive promotional (i.e. not order-related
 
 top ^
 
-**Cookies and Pixel Tags**   
-A cookie is a small data file that websites often store on your computer's hard drive when you visit their sites. A cookie may contain information, such as a unique user ID that websites use to track the pages you've visited on their site. 
+**Our Use of Cookies and Pixels**
+
+TommyBahama.com regularly uses browser tracking cookies. A cookie is a small data file that websites often store on your computer's hard drive when you visit their sites. A cookie may contain anonymous information, such as a unique user ID that websites use to track the pages you've visited on their site. 
 
 We use cookies but do not store personally identifiable information in your cookie. We use cookies in order to improve your shopping experience. For example, we use cookies to: 
 
@@ -120,12 +121,25 @@ We use cookies but do not store personally identifiable information in your cook
   * Study how our Guest's navigate through our website and which products they request in site searches
   * Keep track of your order as you shop on our website
   * Process your order on our website
+  * Customize the message and delivery of online banner ads based on your online behavior.
 
 
 
 Through our use of cookies, we may also track and maintain the identity of the website you visited immediately prior to visiting our website. We do not otherwise track any information about your use of other websites. 
 
 You can refuse cookies by turning them off in your browser. If you set your browser to refuse cookies we cannot process your order on our website and will not recognize you as a registered user, which allows you to access your account information. If you refuse cookies and wish to place an order from our website, please call Customer Care at 1.866.986.8282. 
+
+TommyBahama.com works with a variety of advertising companies to place our ads on websites across the Internet. These advertising companies collect anonymous information about your visits to our web site, other advertising websites or interaction with our email through the use of cookies. This technology allows them to develop Tommy Bahama advertising and marketing about goods and offers that may be of interest to you. 
+
+Cookies are also used to review how visitors to TommyBahama.com navigate our site or interact with our email advertising. Third-party companies assist in the collection and analysis of this data. Your name, street address or credit card number is not accessed by or shared with other companies through these web beacons. If you would like to learn more about the use of web beacons and your browser options, please [click here](http://www.networkadvertising.org/) to visit the Network Advertising Initiative (NAI) website. 
+
+TommyBahama.com also deploys pixel tags and web-beacon technologies as outlined in our Privacy Policy. The following vendors are contracted to provide services to Tommy Bahama by utilizing web beacons on our behalf. Because web beacons utilize a cookie that can only be placed and "read" by the third party provider, you should review the privacy policy of each provider to answer any questions you may have regarding its cookie policy as well as other options available to you, such as opting out of its specific cookies. 
+
+Acxiom is a global interactive marketing services agency serving our ads through a fully compliant, third party ad network. Advertising productivity analysis is facilitated by the use of web beacons which utilize a DoubleClick, Yield Manager and/or ProMarket cookie. To view Acxiom's Privacy Policy, please [click here](http://www.acxiom.com/about_us/privacy/online_privacy_policy/Pages/HighlightsForwwwacxiomcomPrivacyPolicy.aspx). 
+
+Coremetrics provides Tommy Bahama with site traffic analysis for TommyBahama.com web visits. This visit analysis is facilitated by the use of web beacons which utilize a Coremetrics cookie. To view Coremetrics' Privacy Policy and learn about opting out of cookies set to facilitate web beacon reporting by Coremetrics, please [click here](http://www.coremetrics.com/company/privacy.php). 
+
+ExactTarget is our Email service provider, supporting Tommy Bahama in sending and analysis of our emails to customers. Analysis reporting by ExactTarget involves the use of web beacons. To view ExactTarget's Privacy Policy, please [click here](http://email.exacttarget.com/Company/Policies/PrivacyPolicy.html). For additional questions, please contact customer service at 1.866.986.8282. 
 
 top ^
 
