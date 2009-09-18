@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ripetv.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617081840id_/http%3A//www.ripetv.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ripetv.com privacy policy that was archived on 2009-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090918033612id_/http%3A//www.ripetv.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Ripe TV
 
