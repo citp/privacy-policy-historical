@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weread.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627110245id_/http%3A//weread.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weread.com privacy policy that was archived on 2009-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090918164059id_/http%3A//weread.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy | weRead
+# Privacy Policy | weRead
 
 _Privacy Policy_
 
