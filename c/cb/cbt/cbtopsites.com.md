@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cbtopsites.com privacy policy that was archived on 2009-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090219201931id_/http%3A//cbtopsites.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbtopsites.com privacy policy that was archived on 2009-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090918143502id_/http%3A//cbtopsites.com/privacy_policy.php) for the most accurate reproduction.*
 
-# eBooks, Information, Software and Downloads Online Directory
+# eBooks and Software Downloads
 
 CBTopSites is committed to maintaining the privacy of personal information that you provide to us when using any of our online services. This Privacy Policy describes how we treat the information we receive when you transmit data through CBTopSites. 
 
@@ -47,4 +47,6 @@ If you have any questions, comments or concerns about our Privacy Policy, you ma
 Thank you,   
 cbtopsites.com Management 
 
-Please Send Your Feedback / Contact us
+* * *
+
+email to: admin at CBTopSites.com © 2005-09 **CBTopSites.com** All Rights Reserved. 
