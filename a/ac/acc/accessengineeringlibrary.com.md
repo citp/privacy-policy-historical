@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accessengineeringlibrary.com privacy policy that was archived on 2009-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090511160225id_/http%3A//www.accessengineeringlibrary.com/html/Privacy_Notice.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessengineeringlibrary.com privacy policy that was archived on 2009-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090918175133id_/http%3A//www.accessengineeringlibrary.com/html/Privacy_Notice.asp) for the most accurate reproduction.*
 
 # McGraw Hill's AccessEngineering - The Library of Engineering
 
