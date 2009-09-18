@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reluctantgourmet.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618185714id_/http%3A//www.reluctantgourmet.com/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reluctantgourmet.com privacy policy that was archived on 2009-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090918155704id_/http%3A//www.reluctantgourmet.com/privacy_statement.htm) for the most accurate reproduction.*
 
 # Disclaimer - Terms and Use Statement
 
