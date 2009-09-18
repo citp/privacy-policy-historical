@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expedia-aarp.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620194520id_/http%3A//www.expedia-aarp.com/pub/agent.dll%3Fqscr%3Dhgen%26hfnm%3DPrivacyPol.htx%26mcicid%3D0-30029.footer.hp.pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expedia-aarp.com privacy policy that was archived on 2009-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090918214705id_/http%3A//www.expedia-aarp.com/pub/agent.dll%3Fqscr%3Dhgen%26hfnm%3DPrivacyPol.htx%26mcicid%3D0-30029.footer.hp.pp) for the most accurate reproduction.*
 
 # AARP Travel Center powered by Expedia Privacy Pledge
 
