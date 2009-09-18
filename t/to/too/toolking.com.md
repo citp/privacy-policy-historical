@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toolking.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605121425id_/http%3A//www.toolking.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toolking.com privacy policy that was archived on 2009-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090918172636id_/http%3A//www.toolking.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - ToolKing.com
 
@@ -8,7 +8,10 @@ Note, the privacy practices set forth in this privacy policy are for this web si
 
 ### Collection of Information
 
-We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill your specific request. This information is only used to fulfill your specific request, unless you give us permission to use it in another manner, for example to add you to one of our mailing lists. 
+We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill your specific request. This information is only used to fulfill your specific request, unless you give us permission to use it in another manner, for example to add you to one of our mailing lists.   
+
+
+**Special Note for FESTOOL Customers:** As a Festool dealer, it is a requirement per Festool to register tools on the behalf of of our Festool customers. As a result your name, company name, address, phone number & email address will be shared with Festool.
 
 ### Cookie/Tracking Technology 
 
@@ -28,7 +31,7 @@ Your personally identifiable information is kept secure. Only authorized employe
 
 ### Passwords 
 
-While creating an account with Tool King you'll be asked to provide a personal password. This password will be used for all future access to your account. The password should be something the user will easily remember. You will be provided with a Password Hint drop-down. This box will allow you to pick a word that relates to something like your hometown or your pets name. And you will give yourself a hint, to ensure you remember. If you do happen to forget your password or log-in your password incorrectly, simply click on the ['Forgot Password'](https://web.archive.org/web/20090605121425id_/http%3A/forgot_my_password.aspx) link under the member login area. We will email you the password. (For security reasons, we cannot assign a password for you, nor can we provide it to you over the phone in case you forget it.  
+While creating an account with Tool King you'll be asked to provide a personal password. This password will be used for all future access to your account. The password should be something the user will easily remember. You will be provided with a Password Hint drop-down. This box will allow you to pick a word that relates to something like your hometown or your pets name. And you will give yourself a hint, to ensure you remember. If you do happen to forget your password or log-in your password incorrectly, simply click on the ['Forgot Password'](https://web.archive.org/web/20090918172636id_/http%3A/forgot_my_password.aspx) link under the member login area. We will email you the password. (For security reasons, we cannot assign a password for you, nor can we provide it to you over the phone in case you forget it.  
 
 ### SSL Technology 
 
