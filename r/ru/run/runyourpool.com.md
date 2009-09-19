@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runyourpool.com privacy policy that was archived on 2009-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090301135908id_/http%3A//www.runyourpool.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runyourpool.com privacy policy that was archived on 2009-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090919025907id_/http%3A//www.runyourpool.com/privacy.cfm) for the most accurate reproduction.*
 
 # Run your Pool at runyourpool.com
 
