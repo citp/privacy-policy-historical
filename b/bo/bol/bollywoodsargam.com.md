@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollywoodsargam.com privacy policy that was archived on 2009-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090410082128id_/http%3A//www.bollywoodsargam.com/bollywoodsargam_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollywoodsargam.com privacy policy that was archived on 2009-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090919122911id_/http%3A//www.bollywoodsargam.com/bollywoodsargam_privacy.php) for the most accurate reproduction.*
 
 # BollywoodSARGAM.com Privacy Policy - Defination - Tutorial
 
@@ -77,12 +77,19 @@ BollywoodSARGAM does not provide any personally identifiable information to thes
 
 You should consult the respective privacy policies of these third-party ad servers or ad networks (see links below) for more information on their practices and for instructions on how to opt-out of certain practices. BollywoodSARGAM's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-Currently, BollywoodSARGAM has relationships with the following third-party ad servers or ad networks. We may or may not use these AD servers and we can anytime discontinue our partnership with them:
+Currently, BollywoodSARGAM has relationships with the following third-party search providers, ad servers or ad networks. We may or may not use these AD servers and we can anytime discontinue our partnership with them:
 
   
 
   * **Google, Inc.**   
 <http://www.google.com/privacypolicy.html>
+  
+
+  * **Google, Inc.**   
+Google, as a third party vendor, uses cookies to serve ads on our site.  
+Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet.   
+Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).   
+
   * **ValueClick Marketing Network Sites**   
 <http://www.cj.com/privacy.jsp>
   * **Amazon.com Associates**   
@@ -95,8 +102,19 @@ Currently, BollywoodSARGAM has relationships with the following third-party ad s
 <http://www.linkshare.com/home/privacy.shtml>
   * **clixGalore Netowrk**   
 <http://www.clixgalore.com/privacy.asp>
+  * **SEARCH PROVIDERS**
   * **TRUVEO Netowrk**   
 <http://www.truveo.com/privacy>
+  * **Yahoo! Search**   
+<http://www.yahoo.com/r/pv>
+  * **BING Search**   
+<http://go.microsoft.com/fwlink/?LinkId=74170>
+  * **Youtube Search**   
+<http://www.youtube.com/t/privacy>
+  * **Flickr Search**   
+<http://www.flickr.com/privacy_policy.gne>
+  * **Last.FM Search**   
+<http://www.last.fm/legal/privacy>
 
   
 
@@ -126,7 +144,7 @@ This Privacy Notice may be revised periodically and this will be reflected by th
 For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information.
 
 **Date Last Modified:**  
-This Privacy Notice was last modified June 05, 2006.
+This Privacy Notice was last modified June 29, 2009.
 
 **Contact Information:**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:  
