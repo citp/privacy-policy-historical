@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogsthatfollow.com privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221065044id_/http%3A//blog.blogsthatfollow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogsthatfollow.com privacy policy that was archived on 2009-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090919155400id_/http%3A//blog.blogsthatfollow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Blogsthatfollow.com
 
