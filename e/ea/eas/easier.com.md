@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easier.com privacy policy that was archived on 2009-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090216140729id_/http%3A//www.easier.com/ads/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easier.com privacy policy that was archived on 2009-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090919154330id_/http%3A//www.easier.com/ads/Privacy_Policy) for the most accurate reproduction.*
 
 # Easier.com Privacy Policy
 
@@ -19,6 +19,8 @@ We automatically collect and process certain information based upon your use of 
 We use data collection devices such as "cookies" on certain pages of the Site. "Cookies" are small files placed on your hard drive that assist us in providing customised services and to help promote safer trading. We also offer certain features that are only available through the use of a cookie. We also use cookies to allow you to enter your password less frequently while you are using the Easier.com web site. Most cookies are "session cookies", meaning that they are automatically deleted from your hard drive at the end of a session using the Easier.com web site. You are always free to decline our cookies if your browser permits, although in that case you may not be able to use certain features on the Easier.com web site and you may be required to re-enter your password more frequently while you are using the Easier.com web site. 
 
 If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the Easier.com web site, we may collect such information into a file specific to you. 
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
 
 **3\. Our Use of Your Information.**
 
