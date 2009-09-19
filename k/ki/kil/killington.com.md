@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the killington.com privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223202019id_/http%3A//www.killington.com/summer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the killington.com privacy policy that was archived on 2009-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090919233553id_/http%3A//www.killington.com/summer/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Killington Resort, Vermont - Privacy Policy
 
 Effective date: July/12/2007
 
