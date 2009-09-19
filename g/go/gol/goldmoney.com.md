@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldmoney.com privacy policy that was archived on 2009-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090208022314id_/http%3A//goldmoney.com/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldmoney.com privacy policy that was archived on 2009-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090919132745id_/http%3A//goldmoney.com/privacy-policy.html) for the most accurate reproduction.*
 
 # GoldMoney Privacy Policy
 
@@ -14,6 +14,6 @@ At any time you may access and change your personal information that is in the p
 
 GoldMoney does not sell, rent, loan, trade or lease any personal information collected, including application forms, financial data or email addresses. GoldMoney may ask for your permission by email to disclose your personal data to service providers not affiliated with GoldMoney, but you have the right to refuse.
 
-For security reasons, we do not recommend saving your Holding number and Passphrase in your computer's memory (do not allow your browser to remember your Passphrase). Consequently, we advise entering your Holding number and Passphrase each time you begin a new browser session and wish to view your Holding. Please read our [Security FAQ](http://support.goldmoney.com/category.php?id=10) for important tips on accessing GoldMoney securely.
+For security reasons, we do not recommend saving your Holding number and Passphrase in your computer's memory (do not allow your browser to remember your Passphrase). Consequently, we advise entering your Holding number and Passphrase each time you begin a new browser session and wish to view your Holding. Please read our [Security FAQ](https://web.archive.org/web/20090919132745id_/http%3A//goldmoney.com/faq.html?faq_cat=10) for important tips on accessing GoldMoney securely.
 
-Questions regarding the GoldMoney privacy policy should be directed to [Customer Support](https://web.archive.org/web/20090208022314id_/http%3A//goldmoney.com/en/contact-us.php).
+Questions regarding the GoldMoney privacy policy should be directed to [Customer Support](https://web.archive.org/web/20090919132745id_/http%3A//goldmoney.com/contact-us.html).
