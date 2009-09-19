@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unicef.org.uk privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601100731id_/http%3A//www.unicef.org.uk/legal/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unicef.org.uk privacy policy that was archived on 2009-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090919115420id_/http%3A//www.unicef.org.uk/legal/privacy_policy.asp) for the most accurate reproduction.*
 
 # UNICEF UK Privacy Policy Statement: Privacy statement for www.unicef.org.uk: UNICEF UK
 
