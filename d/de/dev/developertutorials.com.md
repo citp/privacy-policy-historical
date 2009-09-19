@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the developertutorials.com privacy policy that was archived on 2009-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090303074057id_/http%3A//www.developertutorials.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the developertutorials.com privacy policy that was archived on 2009-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090919051916id_/http%3A//www.developertutorials.com/privacy.php) for the most accurate reproduction.*
 
 # Developer Tutorials Privacy Policy
 
