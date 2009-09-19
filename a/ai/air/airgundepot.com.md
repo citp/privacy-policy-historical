@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airgundepot.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619085128id_/http%3A//www.airgundepot.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airgundepot.com privacy policy that was archived on 2009-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090919032959id_/http%3A//www.airgundepot.com/privacypolicy.html) for the most accurate reproduction.*
 
 # View Privacy Policy
 
