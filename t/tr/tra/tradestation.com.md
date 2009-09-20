@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradestation.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624214257id_/http%3A//www.tradestation.com/disclaimers/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradestation.com privacy policy that was archived on 2009-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090921015319id_/http%3A//www.tradestation.com/disclaimers/privacy.htm) for the most accurate reproduction.*
 
 # TradeStation Securities - Privacy Policy
 
