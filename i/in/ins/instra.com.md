@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instra.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227152535id_/http%3A//www.instra.com/en/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instra.com privacy policy that was archived on 2009-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090920204527id_/https%3A//www.instra.com/en/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Instra Corporation - Global Domain Name Registration Services
 
