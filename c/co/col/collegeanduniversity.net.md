@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegeanduniversity.net privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623034749id_/http%3A//www.collegeanduniversity.net/index.cfm%3Fevent%3Dp.pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegeanduniversity.net privacy policy that was archived on 2009-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090922001706id_/http%3A//www.collegeanduniversity.net/index.cfm%3Fevent%3Dp.pp) for the most accurate reproduction.*
 
 # CollegeAndUniversity.net - Privacy Policy
 
