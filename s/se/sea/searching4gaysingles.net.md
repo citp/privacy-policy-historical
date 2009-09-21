@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searching4gaysingles.net privacy policy that was archived on 2009-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090424064142id_/http%3A//www.searching4gaysingles.net/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searching4gaysingles.net privacy policy that was archived on 2009-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090921095951id_/http%3A//www.searching4gaysingles.net/Privacy.html) for the most accurate reproduction.*
 
 # Searching4GaySingles.net
 
