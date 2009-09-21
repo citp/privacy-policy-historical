@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the playgroundonline.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621091748id_/http%3A//www.playgroundonline.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playgroundonline.com privacy policy that was archived on 2009-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090921073300id_/http%3A//www.playgroundonline.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Playground Online - Online shopping for Sports goods, sports equipment, sports shoes, sports apparel, health & fitness equipment and more in India
+# Privacy Policy - Playgroundonline: online shopping India | buy sports goods, apparel, shoes, health & fitness, Toys & games.
 
 [**Playgroundonline.com**](http://www.playgroundonline.com/) is a website owned by Playground Sports (India) Private Limited, a company incorporated under the Indian Companies Act, 1956. Wherever the term "Playground" or “Playground Sports” or "Playgroundonline.com" is used it refers to Playground Sports (India) Private Limited, and its subsidiaries, controlled entities, affiliates and related parties. Playground provides the services through www.playgroundonline.com ('Website' or 'Site'). At Playground, we are highly committed to the privacy of your data and information and in providing excellent service to all of our customers and visitors of the Website. We have prepared this Data Protection and Privacy Policy ("Policy") to inform you of the privacy principles that govern this Website. 
 
