@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the attonlineoffers.com privacy policy that was archived on 2009-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090215110037id_/http%3A//attonlineoffers.com/FreeCellPhones/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the attonlineoffers.com privacy policy that was archived on 2009-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090921051633id_/http%3A//www.attonlineoffers.com/FreeCellPhones/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
