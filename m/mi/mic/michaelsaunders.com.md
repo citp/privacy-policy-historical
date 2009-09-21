@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the michaelsaunders.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611073754id_/http%3A//www.michaelsaunders.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaelsaunders.com privacy policy that was archived on 2009-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090921132702id_/http%3A//www.michaelsaunders.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy Keeping Your Information Safe and Secure - Michael Saunders and Company
 
