@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigtits.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417052458id_/http%3A//www.bigtits.com/static/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigtits.com privacy policy that was archived on 2009-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090921042501id_/http%3A//www.bigtits.com/static/privacy.htm) for the most accurate reproduction.*
 
 # Tits | Big Tits | Big Boobs | Huge Tits And Big Boobs Porn Tube
 
@@ -10,31 +10,31 @@ This site expressly and strictly limits its membership and/or viewing privliges 
 
 DATA COLLECTED 
 
-  * Personal Information:   
+  1. Personal Information:   
 
-    * Non-Registered users can watch videos without registering and without any information being collected and processed. Howverver the visitor's IP address will be recorded in the event that there is any misappropriationof information and/or content.
-    * Registered Members: Registration is required for uploading videos, and accessing a number of other features. The following personal information is requested at the time of registration: username (required), and email address (required). Additional personal information, such as year of birth, relationship status and sexual orientation may be added on a voluntary basis after registration, for members interested in identifying and potentially contacting other members meeting specific criteria. All this data with the exception of the email address and IP address becomes publicly accessible information.
-  * Content Uploaded to the site: Any personal information or video content that you voluntarily disclose online becomes publicly available and can be collected and used by others.
-  * Cookies: When you visit Bigtits.com, we may send one or more cookies to your computer that uniquely identifies your browser session. Bigtits.com uses both session cookies and persistent cookies. If you remove your persistent cookie, some of the site's features may not function properly.
-  * Log File Information: When you visit Bigtits.com, our servers automatically record certain information that your web browser sends such as your web request, IP address, browser type, browser language, referring URL, platform type, domain names and the date and time of your request.
-  * Emails: If you contact us, we may keep a record of that correspondence. 
+    1. Non-Registered users can watch videos without registering and without any information being collected and processed. Howverver the visitor's IP address will be recorded in the event that there is any misappropriationof information and/or content.
+    2. Registered Members: Registration is required for uploading videos, and accessing a number of other features. The following personal information is requested at the time of registration: username (required), and email address (required). Additional personal information, such as year of birth, relationship status and sexual orientation may be added on a voluntary basis after registration, for members interested in identifying and potentially contacting other members meeting specific criteria. All this data with the exception of the email address and IP address becomes publicly accessible information.
+  2. Content Uploaded to the site: Any personal information or video content that you voluntarily disclose online becomes publicly available and can be collected and used by others.
+  3. Cookies: When you visit Bigtits.com, we may send one or more cookies to your computer that uniquely identifies your browser session. Bigtits.com uses both session cookies and persistent cookies. If you remove your persistent cookie, some of the site's features may not function properly.
+  4. Log File Information: When you visit Bigtits.com, our servers automatically record certain information that your web browser sends such as your web request, IP address, browser type, browser language, referring URL, platform type, domain names and the date and time of your request.
+  5. Emails: If you contact us, we may keep a record of that correspondence. 
 
   
 USES 
 
-  * Your Personally identifiable information submitted to Bigtits.com is used to provide to the user the website's features and special personalised features. 
-  * Your chosen usernaname (not your email address) is displayed to other Users alongside the content you upload, including videos, comments, at, the messages you send through the Bigtits.com private mail, etc. Other Users can contact you through, private messages. 
-  * Any videos that you submit to Bigtits.com may be redistributed through the internet and other media channels, and may be viewed by the general public. 
-  * We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent. 
-  * We may use your email address without further consent for non-marketing or administrative purposes (such as notifying you of key website changes or for customer service purposes). 
-  * We analyse aggregated user traffic information to help streamline our marketing and hosting operations and to improve the quality of the Bigtits.com user-experience. 
+  1. Your Personally identifiable information submitted to Bigtits.com is used to provide to the user the website's features and special personalised features. 
+  2. Your chosen usernaname (not your email address) is displayed to other Users alongside the content you upload, including videos, comments, at, the messages you send through the Bigtits.com private mail, etc. Other Users can contact you through, private messages. 
+  3. Any videos that you submit to Bigtits.com may be redistributed through the internet and other media channels, and may be viewed by the general public. 
+  4. We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent. 
+  5. We may use your email address without further consent for non-marketing or administrative purposes (such as notifying you of key website changes or for customer service purposes). 
+  6. We analyse aggregated user traffic information to help streamline our marketing and hosting operations and to improve the quality of the Bigtits.com user-experience. 
 
   
 DISCLOSURE OF INFORMATION 
 
-  * if under duty to do so Bigtits.com may release data to comply with any legal obligation, or in order to enforce our Terms Of Service and other agreements; or to protect the rights, property or safety of Bigtits.com or our subscribers or others. This includes exchanging information with other companies and organisations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms Of Service. It is Bigtits.comâ€™s policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party. 
-  * Should you deliberatlly upload any illegal material Bigtits.com shall forward all available information to all relevant authrities and this without notice.   
-Â»We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. 
+  1. if under duty to do so Bigtits.com may release data to comply with any legal obligation, or in order to enforce our Terms Of Service and other agreements; or to protect the rights, property or safety of Bigtits.com or our subscribers or others. This includes exchanging information with other companies and organisations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms Of Service. It is Bigtits.comâ€™s policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party. 
+  2. Should you deliberatlly upload any illegal material Bigtits.com shall forward all available information to all relevant authrities and this without notice.   
+We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. 
 
   
 SECURITY 
