@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailypuppy.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224231503id_/http%3A//www.dailypuppy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailypuppy.com privacy policy that was archived on 2009-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090921235907id_/http%3A//www.dailypuppy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Daily Puppy
 
@@ -71,3 +71,5 @@ Copyright © 2008. Demand Media, Inc.
 
 
 ### Featured Puppies From the Past
+
+[ ](http://twitter.com/dailypuppy)
