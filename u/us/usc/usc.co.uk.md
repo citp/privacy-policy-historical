@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the usc.co.uk privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625041557id_/http%3A//www.usc.co.uk/Privacy-Policy/M116_EDITORIAL_CONTENT_PRIVACY_POLICY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usc.co.uk privacy policy that was archived on 2009-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090921032803id_/http%3A//www.usc.co.uk/Privacy-Policy/M116_EDITORIAL_CONTENT_PRIVACY_POLICY%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
-# Privacy Policy - USC, UK's No.1 Branded Fashion Retailer
+# Privacy Policy @ USC
 
 #### Privacy Policy
 
