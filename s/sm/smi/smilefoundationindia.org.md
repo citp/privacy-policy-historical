@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smilefoundationindia.org privacy policy that was archived on 2009-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090216222314id_/http%3A//www.smilefoundationindia.org/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smilefoundationindia.org privacy policy that was archived on 2009-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090922042455id_/http%3A//smilefoundationindia.org/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
