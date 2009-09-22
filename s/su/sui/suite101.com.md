@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suite101.com privacy policy that was archived on 2009-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090520032135id_/http%3A//www.suite101.com/info.cfm/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suite101.com privacy policy that was archived on 2009-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090922162331id_/http%3A//www.suite101.com/info.cfm/privacy_policy) for the most accurate reproduction.*
 
 # Suite101 Privacy Policy | Suite101.com
 
