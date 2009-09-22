@@ -1,8 +1,33 @@
-> *The following text is extracted and transformed from the voxy.co.nz privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504112630id_/http%3A//www.voxy.co.nz/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voxy.co.nz privacy policy that was archived on 2009-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090922190556id_/http%3A//www.voxy.co.nz/about-voxy) for the most accurate reproduction.*
 
-# Privacy Policy | Voxy.co.nz
+# About Voxy | Voxy.co.nz
 
-Your privacy on the Internet is important to us. Because the Internet offers the ability to collect certain types of information about users, we want you to understand the terms and conditions surrounding the capture and use of any information we gather. To that end, this privacy policy sets out what information we gather, how we may use it, and how to correct or change it. 
+**Jump to:** **Privacy Policy**, **Terms of Use**, **Community Guidelines**.
+
+## Introduction and Contacts
+
+Voxy.co.nz is updated throughout the day, seven days a week, with the latest New Zealand [national news](https://web.archive.org/national), [entertainment](https://web.archive.org/entertainment), [sport](https://web.archive.org/sport), [lifestyle](https://web.archive.org/lifestyle), [business](https://web.archive.org/business), [politics](https://web.archive.org/politics), and [technology news](https://web.archive.org/technology).
+
+Voxy's primary content sources of content are its [community of bloggers](https://web.archive.org/blog) and the New Zealand Press Association (NZPA) - though everyone with something to say is encouraged to contribute. 
+
+To submit news tips to Voxy please [use this online form](https://web.archive.org/submit-news), or email news@voxy.co.nz. 
+
+Voxy is owned by Wellington based online publisher [Digital Advance Limited](http://www.digitaladvance.co.nz/), which also publishes [Guide2.co.nz (personal finance news and 'how to' guides)](http://www.guide2.co.nz/), [expert and community recommendations website, Recommended.co.nz](http://www.recommended.co.nz/) and [competitions and giveaways search engine, gimme.co.nz](http://www.gimme.co.nz/).
+
+If you have any questions or feedback, Team Voxy can be [contacted through this form](https://web.archive.org/contact) or by phone - (04) 498 5359. 
+
+Find out about [advertising on Voxy](https://web.archive.org/advertise-voxyconz).
+
+Check out our [favourite sites](https://web.archive.org/links). **  
+**
+
+**Join Voxy on[](https://web.archive.org/join-voxy-twitter-or-facebook) or [](http://www.facebook.com/pages/Voxyconz/18852726526)**
+
+[Back to Top]
+
+## Privacy Policy
+
+Your privacy on the Internet is important to us. Because the Internet offers the ability to collect certain types of information about users, we want you to understand the terms and conditions surrounding the capture and use of any information we gather. To that end, this privacy policy sets out what information we gather, how we may use it, and how to correct or change it.
 
 **Collection**
 
@@ -14,7 +39,7 @@ Digital Advance Limited may gather the following types of information about user
 
 3\. other information that does not personally identify you.
 
-Failure to provide necessary personal information when requested may result in certain products or services not being available to you. 
+Failure to provide necessary personal information when requested may result in certain products or services not being available to you.
 
 **Disclosure of Information**
 
@@ -24,7 +49,7 @@ We may disclose:
 
 2\. your personal information to third parties when we believe in good faith that we are required to do so by law;
 
-3\. your personal information to other third parties provided we have your prior authorisation, which we will usually obtain at the time of collecting the information from you. 
+3\. your personal information to other third parties provided we have your prior authorisation, which we will usually obtain at the time of collecting the information from you.
 
 **Use**
 
@@ -40,7 +65,7 @@ We may use the personal information we collect:
 
 4\. for ensuring that you are shown the advertising and information that is most relevant to you and your interests; and
 
-5\. for any other uses that you authorise. 
+5\. for any other uses that you authorise.
 
 **Content Providers, Advertisers and Partners**
 
@@ -48,13 +73,13 @@ We do not control the practices of content providers, partners and advertisers c
 
 **Cookies, Clear GIFS and Tracking**
 
-We may use a cookie file containing information that can identify the computer you are working from. The cookie file is anonymous as it only gives us details of your IP address, PC platform (Windows, NT or Mac), Browser (e.g. Microsoft, Netscape or other, plus the version of Browser) and domain (whether you are accessing the site from NZ or elsewhere). We may use the information generated by "cookies" to: 
+We may use a cookie file containing information that can identify the computer you are working from. The cookie file is anonymous as it only gives us details of your IP address, PC platform (Windows, NT or Mac), Browser (e.g. Microsoft, Netscape or other, plus the version of Browser) and domain (whether you are accessing the site from NZ or elsewhere). We may use the information generated by "cookies" to:
 
 1\. track traffic patterns to and from our sites such as the pages you visit, the time you spend on each page, the date and time of your visit, and referring pages (pages you came from or go to);
 
 2\. ensure advertising is being shown to the most appropriate person and limit the frequency of display for certain ad formats; and
 
-3\. enable you to use certain services as a member without having to log on each time and to visit member-restricted areas of the site. 
+3\. enable you to use certain services as a member without having to log on each time and to visit member-restricted areas of the site.
 
 You can choose to refuse cookies by turning them off in your browser and/or deleting them from your hard drive. You do not need to have cookies turned on to use our websites, but you may need them for customisable areas of sites we may develop in the future. If your cookies are turned off we will not have any control over the frequency of display of certain ad formats. This could effect your reading experience.
 
@@ -62,11 +87,11 @@ Clear gifs are tiny graphics with a unique identifier, similar in function to co
 
 **Analytics**
 
-Digital Advance Limited currently contract with an online measurement company to manage and optimise our Internet business and communications. These companies collect non-personally identifiable information about visits to our site to assist us in analysing the site's performance and advertising effectiveness and optimising the site for readers and marketers. 
+Digital Advance Limited currently contract with an online measurement company to manage and optimise our Internet business and communications. These companies collect non-personally identifiable information about visits to our site to assist us in analysing the site's performance and advertising effectiveness and optimising the site for readers and marketers.
 
 **Third Party Ad Servers**
 
-Some of our advertisers use third party companies to serve advertisements when you visit our websites. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites, including information gathered by cookies, in order to provide advertisements about goods and services of interest to you. We do not control the practices of these companies and they may not follow the same privacy policies as us. We recommend that you check any relevant privacy policies before providing your personal information to any third party. 
+Some of our advertisers use third party companies to serve advertisements when you visit our websites. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites, including information gathered by cookies, in order to provide advertisements about goods and services of interest to you. We do not control the practices of these companies and they may not follow the same privacy policies as us. We recommend that you check any relevant privacy policies before providing your personal information to any third party.
 
 **Opting in and Opting Out**
 
@@ -84,8 +109,106 @@ We reserve the right to change this policy at any time by notifying site users o
 
 Any personal information that you provide to us will be collected and held by us at 93 Boulcott Street, Wellington, New Zealand. Under the Privacy Act 1993 you have rights of access to and correction of personal information that we hold. We offer the ability to correct or change the information collected at any time and as often as necessary.
 
-If you have any questions about how our services work or regarding this policy, contact us by [email](https://web.archive.org/contact) or by mail to Digital Advance, PO Box 1599, Wellington, New Zealand. 
+If you have any questions about how our services work or regarding this policy, contact us by [email](https://web.archive.org/contact) or by mail to Digital Advance, PO Box 1599, Wellington, New Zealand.
 
-For information about New Zealand's Privacy Act 1993 and how it protects the personal information of individuals in New Zealand, [ click here](http://www.privacy.org.nz/home.php). 
+For information about New Zealand's Privacy Act 1993 and how it protects the personal information of individuals in New Zealand, [ click here](http://www.privacy.org.nz/home.php).
+
+[Back to Top]
+
+## Terms of Use
+
+These terms and conditions (T&C) apply to all users of this Site and its associated services. By using the Site you will be deemed to agree to these T&C without qualification. If you do not agree to be bound by these T&C, please do not use the Site or continue to use the Site.
+
+**Username and Password**   
+Access to some services or content may require registration. This will result in you being allocated a user ID and password that must be used whenever requested. That username and password are personal to you and  ou agree at all times to maintain the confidentiality of your username and password and not to disclose them to any third party. You agree that you are solely responsible for any use of the Site by any person using your username and password. You agree to indemnify Digital Advance Limited (voxy.co.nz) against any and all claims arising out of your failure to maintain the confidentiality of your username or password.
+
+**Access**   
+You understand that voxy.co.nz may for security and technical reasons at any time in its sole discretion and without prior notice to you, prohibit or restrict your access to the Site. voxy.co.nz will notify you as soon as possible of any restriction to your access rights.
+
+**No Advice**   
+You agree that voxy.co.nz provide no advice or endorsement of any kind and nor do voxy.co.nz give any advice or offer any opinion with regard to the value or suitability of any particular transaction or course of action. The availability of information through the Site does not constitute a recommendation by voxy.co.nz to enter into any transaction or follow any course of action. Any decision that you make must be based solely on your own evaluation of your circumstances and objectives. voxy.co.nz recommends that you independently verify the accuracy, currency or reliability of any information made available via the Service and upon which you intend to rely.
+
+**Information and warranties**   
+voxy.co.nz and its information contributors and associated service providers do not give any warranty whatsoever, including without limitation, as to the availability, accuracy, completeness, currency or reliability of the information or services made available via the Site and expressly disclaim (to the maximum extent permitted in law) all liability for any damage or loss resulting from your use of, or reliance on the Site or the information provided via the Site. The site services and information are provided on an "as is" basis. voxy.co.nz make no warranty that the Site will be free from viruses or any kind of malicious code whatsoever.
+
+**Linked sites**   
+No link appearing in the Content and no linked site is endorsed by voxy.co.nz and no responsibility is taken for material on any linked site.  
+You agree that by accessing any linked site you are doing so at your own risk and you agree to fully indemnify voxy.co.nz against any liability arising out of your accessing any linked site.
+
+**Intellectual Property**   
+You acknowledge that voxy.co.nz is the proprietor or the authorised user of the copyright, trade marks and all other intellectual property rights (IP Rights) in the software, text, graphics and other material (Content) displayed or available through the Site.
+
+Unauthorised use of the Content is strictly prohibited and may infringe the IP Rights in the Content. No content may be reproduced, published or transmitted in any manner without the prior written consent of voxy.co.nz.
+
+In particular and without limitation, you may not without prior written permission from voxy.co.nz:   
+\- archive the Content or any part of it;   
+\- form a database whether electronically or otherwise by systematically downloading or storing all or any of the Content;   
+\- redistribute or republish the Content ; or   
+\- link to the Site including (without limitation) linking in any way which frames the Site; replicates the Site or misleads any person regarding any association with the Site; or your association with voxy.co.nz or otherwise whether implicitly or expressly.
+
+**User Generated Content**  
+Photographs and video may be sent to the site as user-generated content. Digital Advance Limited reserves the right to store electronically any pictures sent in by voxy.co.nz readers and to use the images free of charge in any of its online publications. Amateur photographers retain the copyright to their photographs or videos if they are to be published elsewhere.
+
+**Community Guidelines**  
+You acknowledge that you have read and understood and agree to the rules contained within the Community Guidelines.
+
+**Technical Difficulties  
+**You acknowledge that your use of the Site and associated services may be subject to interruption or delay. Due to the nature of the Internet and mobile phone communications, voxy.co.nz and it's service providers do not make any warranty that the Site or services will be error free, without interruption or delay or free from defects in design or engineering.
+
+**Liability**  
+To the maximum extent permitted in law you specifically agree to indemnify and hold voxy.co.nz harmless from any and all claims relating to your use of the Site or its use by any person on your behalf. For the purposes of this paragraph Site means and includes any linked site.
+
+**Privacy**  
+You acknowledge that you have read and understood and agree to the terms of the Privacy Policy.
+
+**Severability**   
+The illegality, invalidity or unenforceability of any part of the T&C will not affect the legality, validity or enforceability of the remainder.
+
+**Variations  
+**voxy.co.nz may vary these T&C from time to time. By continuing to use the Site after a Variation has been posted on the Site or after you have been notified of a Variation you will be deemed to agree to the varied T&C.
+
+**Termination**   
+voxy.co.nz may immediately terminate this agreement without liability if it reasonably believes you are in breach of these T&C or wishes to withdraw the Site or any part of it.
+
+**Law**  
+These T&C and your use of the Site will be governed by and construed in accordance with the laws of New Zealand and you submit to the exclusive jurisdiction of the New Zealand Courts.
+
+[Back to Top]
+
+## Community Guidelines
+
+**Who can submit content?**  
+All readers are welcome to submit content.  We try and publish as much of the material submitted as we can, however, we do not guarantee publication.
+
+**What are the main rules?**  
+\- Be courteous, respect other contributors' viewpoints.
+
+\- In accordance with New Zealand law, do not use language that can be considered discriminatory on the basis of race, religion, gender, sexual preference, nationality, age, disability, etc. Your contributions must not contain, defamatory, obscene, pornographic, or otherwise illegal material.
+
+\- Do not use this site to try and spread gossip, breach court orders or make allegations about people.
+
+\- Lively debate is encouraged but your contributions must not be personally abusive. Never use threatening language or terms.
+
+\- Do not use swear words.
+
+\- Do not put whole words or sentences in CAPITAL letters or make excessive use of exclamation marks.
+
+\- Do not use text messaging short forms.
+
+\- By submitting a story or comment you are consenting to its display on the site and for any related online and offline use we choose. By making a submission, you are agreeing to abide by the rules, take responsibility for your contributions and accept that your contributions may be edited, deleted or not used.
+
+\- Photographs and video may be sent to the site. Voxy reserves the right to store electronically any pictures sent in by readers and to use the images free of charge in any of its online publications. Amateur photographers retain the copyright to their photographs or videos if they are to be published elsewhere.
+
+\- We may add guidelines here from time and time as our community develops.
+
+**Why does material submitted not appear immediately?**  
+Currently all submitted content is reviewed by a moderator before posting.
+
+**What is the Voxy.co.nz privacy policy?**  
+For more information on the Voxy's privacy policy please click here.
+
+**If you have any questions, or believe an item on this website is in breach of Voxy's community guidelines, please get in touch through our[contact form](https://web.archive.org/contact). ** 
+
+ [Back to Top]
 
 Bookmark/Search this post with: 
