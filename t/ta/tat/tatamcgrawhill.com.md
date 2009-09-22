@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tatamcgrawhill.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523223852id_/http%3A//www.tatamcgrawhill.com/privacy/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tatamcgrawhill.com privacy policy that was archived on 2009-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090922191910id_/http%3A//www.tatamcgrawhill.com/privacy/index.jsp) for the most accurate reproduction.*
 
 # McGraw-Hill Education - Privacy Policy
 
