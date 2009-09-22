@@ -1,19 +1,20 @@
-> *The following text is extracted and transformed from the fasttrackfundraising.com privacy policy that was archived on 2009-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090312060836id_/http%3A//www.fasttrackfundraising.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fasttrackfundraising.com privacy policy that was archived on 2009-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090922050059id_/http%3A//www.fasttrackfundraising.com/privacy.php) for the most accurate reproduction.*
 
-# FastTrack privacy policy – FastTrack Fundraising
+# Fundraising Company Privacy Policy – FastTrack Fundraising
 
-[Home](http://www.fasttrackfundraising.com/) » FastTrack Fundraiser privacy policy
+[Home](http://www.fasttrackfundraising.com/) » **Fundraising Company Privacy Policy**
 
-[](http://www.addthis.com/bookmark.php)
+[](http://www.addthis.com/bookmark.php?v=250) [](http://www.fasttrackfundraising.com/tell-a-friend.php)
 
-[](http://www.freetellafriend.com/tell/?u=3785 "Tell a Friend")
+  
+
 
 **SECURITY & PRIVACY STATEMENT**  
 Effective November 20, 2002
 
 **I. General Information About Our Privacy Practices**
 
-FastTrack Fundraising Corporation is strongly committed to protecting the privacy of our users and maintaining a secure online environment for our online fundraising programs. Our Privacy Statement covers our World Wide Web sites found at:
+FastTrack Fundraising Company is strongly committed to protecting the privacy of our users and maintaining a secure online environment for our online fundraising programs. Our Privacy Statement covers our World Wide Web sites found at:
 
 [http://www.FastTrackFundraising.com](http://www.fasttrackfundraising.com/)
 
@@ -29,7 +30,7 @@ This Privacy Statement is effective as of the date written above and is designed
 
 In the more detailed description of our privacy practices below, when we use the term "you," we are referring to registered campaign organizers, participants, supporters and general users of our web sites who order campaign products or information from our web sites. When we use the term "personal information," we are referring to a user's first and last name, address, telephone number, and e-mail address. 
 
-Violating our privacy policy is cause for termination of your campaign. In addition, FastTrack Fundraising Corporation reserves the right to cooperate with municipal, state and federal officials in any law-enforcement investigation requiring either personal information or reports about lawful or unlawful user activities on this site.
+Violating our privacy policy is cause for termination of your campaign. In addition, FastTrack Fundraising company reserves the right to cooperate with municipal, state and federal officials in any law-enforcement investigation requiring either personal information or reports about lawful or unlawful user activities on this site.
 
 **II. FastTrack Fundraising Sections**
 
@@ -52,7 +53,7 @@ To purchase or order sample campaign products through any of our sites, you will
 
 **Information Sharing**
 
-As detailed above, FastTrack Fundraising Corporation does not give your personal information to third parties not associated with our campaign products or services. Our third-party suppliers use a variety of external delivery companies to ship orders, and a third-party firm processes the campaign supporters' credit cards for goods purchased. These companies, by contractual agreement with us, are not permitted to retain, store or use personally identifiable customer information except for order processing and fulfillment. 
+As detailed above, FastTrack Fundraising company does not give your personal information to third parties not associated with our campaign products or services. Our third-party suppliers use a variety of external delivery companies to ship orders, and a third-party firm processes the campaign supporters' credit cards for goods purchased. These companies, by contractual agreement with us, are not permitted to retain, store or use personally identifiable customer information except for order processing and fulfillment. 
 
 **Log Files and Cookies**
 
@@ -74,7 +75,7 @@ For online fundraising campaigns, campaign organizers may access and modify thei
 
 **Security**
 
-FastTrack Fundraising Corporation realizes that a secure online environment is of utmost importance to protect your personal and financial information. We take strong security precautions both online and offline. 
+FastTrack Fundraising company realizes that a secure online environment is of utmost importance to protect your personal and financial information. We take strong security precautions both online and offline. 
 
 All credit card information we collect online is encrypted using Secure Socket Layers (SSL) technology, a leading advanced network server security system. We decrypt the information only at the point of processing through FastTrack Fundraising's ordering system, further ensuring the security of your information. In order to protect your data offline, FastTrack Fundraising's employee access to sensitive information is restricted, and only authorized personnel may access specific information as needed . 
 
@@ -84,15 +85,15 @@ FastTrack Fundraising is to be used only for fundraising campaigns. FastTrack Fu
 
 **E-Mail Restrictions**
 
-FastTrack Fundraising Corporation is committed to responsible Internet commerce. We do not tolerate use of the FastTrack Fundraising system for non-campaign e-mails or any e-mail that includes material that FastTrack Fundraising, in its sole discretion, deems inappropriate. Sending non-fundraising or inappropriate e-mail from an FastTrack Fundraising account is cause for immediate termination of access to that account. 
+FastTrack Fundraising company is committed to responsible Internet commerce. We do not tolerate use of the FastTrack Fundraising system for non-campaign e-mails or any e-mail that includes material that FastTrack Fundraising, in its sole discretion, deems inappropriate. Sending non-fundraising or inappropriate e-mail from an FastTrack Fundraising account is cause for immediate termination of access to that account. 
 
 **Links to Other Sites**
 
-FastTrack Fundraising contains links to other sites on the Internet. Although FastTrack Fundraising Corporation is diligent about the selection of its partners and affiliates, we are neither responsible for the content or privacy practices of these sites or any other sites you may visit on the Internet. For your own information and security, we recommend that you carefully read a site's individual privacy policies prior to using that site. 
+FastTrack Fundraising contains links to other sites on the Internet. Although FastTrack Fundraising company is diligent about the selection of its partners and affiliates, we are neither responsible for the content or privacy practices of these sites or any other sites you may visit on the Internet. For your own information and security, we recommend that you carefully read a site's individual privacy policies prior to using that site. 
 
 **Changes to the FastTrack Fundraising Privacy Statement**
 
-We are dedicated to fair information practices and do not anticipate any changes in our privacy practices that would substantially change how we describe our practices to you. However, due to rapidly changing technology, and to ensure that we can provide the best service to our customers, FastTrack Fundraising reserves the right to modify or amend this Privacy Statement. We will always give you notice of such changes by prominently posting such changes on our website before they take effect. Nothing contained in this Statement is intended to create a contract or agreement between FastTrack Fundraising Corporation and any user visiting the site or providing identifying information in any form.
+We are dedicated to fair information practices and do not anticipate any changes in our privacy practices that would substantially change how we describe our practices to you. However, due to rapidly changing technology, and to ensure that we can provide the best service to our customers, FastTrack Fundraising reserves the right to modify or amend this Privacy Statement. We will always give you notice of such changes by prominently posting such changes on our website before they take effect. Nothing contained in this Statement is intended to create a contract or agreement between FastTrack Fundraising company and any user visiting the site or providing identifying information in any form.
 
 If you have questions or concerns regarding this statement, please contact [info@fasttrackfundraising.com](mailto:info@fasttrackfundraising.com). 
 
