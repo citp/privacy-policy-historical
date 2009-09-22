@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the evga.com privacy policy that was archived on 2006-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061202035714id_/http%3A//evga.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evga.com privacy policy that was archived on 2009-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090922051007id_/http%3A//www.evga.com/privacy.asp) for the most accurate reproduction.*
 
-# EVGA | Intelligent Innovation
+# EVGA | Intelligent Innovation | e-Store Policies
 
 **_Principles_  
 **  
@@ -45,7 +45,7 @@ The Industry Standard gives users options wherever necessary and practical. Such
 · Opting not to provide certain personal information when registering or when participating in surveys.   
 · Opting not to participate in certain interactive areas, which completely alleviates the need for any information from our users. 
 
-EVGA.com, Inc offers users the ability to correct or change the information collected during registration for any site (see above). Users may change this information at any time and as often as necessary. Users who are experiencing problems or who have any questions about how our services work can contact us at [help@EVGA.com](mailto:help@evga.com). 
+EVGA.com, Inc offers users the ability to correct or change the information collected during registration for any site (see above). Users may change this information at any time and as often as necessary. Users who are experiencing problems or who have any questions about how our services work can contact us at [webmaster@EVGA.com](mailto:webmaster@evga.com). 
 
 Users may unsubscribe to any of our electronic newsletters at anytime by following the instructions provided. 
 
