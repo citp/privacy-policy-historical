@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wso2.org privacy policy that was archived on 2009-05-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090525193506id_/http%3A//wso2.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wso2.org privacy policy that was archived on 2009-09-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090923124328id_/http%3A//wso2.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" class="js"><head>
   <title>
@@ -48,10 +48,21 @@ popUpCal.setDefaults({clearText: 'Clear', closeText: 'Close', prevText: '‹ Pre
   </script>
   <link rel="Shortcut Icon" href="/favicon.ico" type="image/x-icon">
 <link href="/themes/wso2-v2/prettify.css" type="text/css" rel="stylesheet">
- <link href="/themes/wso2-v4/library-styles.css" type="text/css" rel="stylesheet">
 <link href="/themes/wso2_v5/front-style.css" type="text/css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="/themes/wso2_v5/page-style.css">
+
 
   <script type="text/javascript" src="/themes/wso2-v2/prettify.js"></script>
+<script>
+var myimages=new Array()
+function preloadimages(){
+for (i=0;i<preloadimages.arguments.length;i++){
+myimages[i]=new Image();
+myimages[i].src="/themes/wso2-v5/images/"+preloadimages.arguments[i];
+}
+}
+preloadimages("ph_download_button_over.gif");
+</script>
 </head>
 
 <body onload="prettyPrint();download1();">
@@ -79,8 +90,10 @@ document.getElementById(id).className='block-user';
 document.getElementById(close).className='close';
 }
 		</script>
-<div id="header">
-			<div id="header-search"><div class="block block-block" id="login-close">
+<!-- START - main header section -->
+			<div id="header">
+				<div id="header-search">
+					<div class="block block-block" id="login-close">
   	 	<div class="block-title">Login Close</div>
  	    <div class="content"><div id="close-login" class="close"><a href="#" onclick="hide('user-login','close-login');">Close</a></div>
 </div>
@@ -99,7 +112,7 @@ document.getElementById(close).className='close';
 <div><input type="hidden" name="cx" id="edit-cx" value="015624078814985321972:rvi7ijgyg5s">
 <input type="hidden" name="cof" id="edit-cof" value="FORID:11">
 <div class="form-item">
- <input type="text" maxlength="128" name="query" id="edit-query" size="15" value="" title="Enter the terms you wish to search for." class="form-text" style="background: url(&quot;http://www.google.com/coop/images/google_custom_search_watermark.gif&quot;) left center no-repeat rgb(255, 255, 255);">
+ <input type="text" maxlength="128" name="query" id="edit-query" size="15" value="" title="Enter the terms you wish to search for." class="form-text">
 </div>
 <input type="submit" name="op" id="edit-sa" value="Search" class="form-submit">
 <input type="hidden" name="form_id" id="edit-google-cse-searchbox-form" value="google_cse_searchbox_form">
@@ -142,23 +155,58 @@ document.getElementById(close).className='close';
      </div>
 <div class="block block-block" id="login">
   	 	<div class="block-title">Login</div>
- 	    <div class="content"><a href="#" onclick="show('user-login','close-login');">Login</a></div>
+ 	    <div class="content"><style type="text/css" rel="stylesheet" media="all">
+#login .content ul {
+float:right;
+list-style-image:none;
+list-style-position:outside;
+list-style-type:none;
+margin:0;
+padding:0;
+}
+#login .content ul li {
+float:left;
+position:relative;
+}
+#login .content ul li a {
+border-left:1px solid #CCCCCC;
+color:#F47B20;
+font-size:125%;
+font-weight:bold;
+line-height:125%;
+padding:1px 10px 4px;
+text-decoration:none;
+}
+#login .content ul li a.register {
+border-left:0 solid #F1F1F1;
+color:#F47B20;
+font-size:125%;
+font-weight:bold;
+padding-left:10px;
+padding-right:5px;
+text-decoration:none;
+}
+</style>
+<ul><li><a href="/user/register" class="register">Register</a></li>
+<li><a href="#" onclick="show('user-login','close-login');">Login</a></li></ul>
+</div>
         <div class="block-container"></div>
      </div>
-</div>
-<div class="logo">
-				<a href="http://wso2.org"><img src="/themes/wso2-v4/images/ot-logo.gif" alt="Oxygen Tank"></a>
+				</div>
+				<div class="logo"><a href="http://wso2.org"><img alt="Oxygen Tank" src="/themes/wso2_v5/images/ot-logo.gif" border="0"></a>
 				<span class="tagline">THE DEVELOPER PORTAL FOR SOA</span>
+				</div>
 			</div>
+			<!-- END - main header section  -->
 			
-
-		</div>
-				
-		<div id="top-menu">
-<img src="/themes/wso2-v4/images/top-menu-right.gif" class="menu-right">
+			<!-- START - main horizontal navigation section  -->
+			<div id="top-menu">
+			<div class="block block-block" id="top-navigation">
+  	 	<div class="block-title">Top Navigation</div>
+ 	    <div class="content"><img src="/themes/wso2_v5/images/top-menu-right.gif" class="menu-right">
 <div class="nav-left">
 
-			<ul>
+<ul>
 
 			<li><a class="home" href="/">Home</a></li>
 		<li class="left-border"><a href="/projects">Projects</a></li>
@@ -166,17 +214,27 @@ document.getElementById(close).className='close';
 		<li class="left-border"><a href="/library">Library</a></li>
 		<li class="left-border"><a href="/forum">Forum</a></li>
 		<li class="left-border"><a href="/tools">Tools</a></li>
-		<li class="left-border"><a href="/interop">Interop</a></li>
+		<!--li class="left-border"><a  href="/interop">Interop</a></li-->
 		<!--li class="left-border"><a  href="/blog">Blog</a></li>
-		<li class="left-border"><a  href="/aggregator">Aggregator</a></li>
-		<li class="left-border"><a  href="/training">Training</a></li-->
+		<li class="left-border"><a  href="/aggregator">Aggregator</a></li -->
+		<li class="left-border"><a href="/training">Training</a></li>
 			</ul>
 </div></div>
+        <div class="block-container"></div>
+     </div>
+			</div>
+			<!-- END - main horizontal navigation section -->
+			
+			<div id="top-middle"></div>
 
-
-		<div id="middle">
-			<div id="middle-noright">
-			        	<h1 class="title">
+			<!-- START - left panel section  -->
+						<!-- END - left panel section  -->
+			
+			<!-- START - center panel section  -->
+									<div id="page-middle-noright">
+									<div id="page-middle-noright">
+				
+							        	<h1 class="title">
 			                 Privacy Policy			     			     </h1>
 								
 			        			        			        <div class="node">
@@ -211,46 +269,47 @@ document.getElementById(close).className='close';
 <li class="service_links_yahoo"><a href="http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http%3A%2F%2Fwso2.org%2Fprivacy&amp;t=Privacy+Policy" title="Bookmark this post on Yahoo." rel="nofollow" class="service_links_yahoo"><img src="/modules/service_links/yahoo.png" alt="Yahoo"></a></li>
 <li class="last service_links_technorati"><a href="http://technorati.com/cosmos/search.html?url=http%3A%2F%2Fwso2.org%2Fprivacy" title="Search Technorati for links to this post." rel="nofollow" class="service_links_technorati"><img src="/modules/service_links/technorati.png" alt="Technorati"></a></li>
 </ul></div>    	<div class="links">» <ul class="links inline"><li class="first print"><a href="/node/3946/print" title="Display a printer friendly version of this page." class="print">Printer friendly version</a></li>
-<li class="last statistics_counter"><span class="statistics_counter">2431 reads</span></li>
+<li class="last statistics_counter"><span class="statistics_counter">3700 reads</span></li>
 </ul></div>  	</div>
 </div>
 
 
-				</div>
-			</div>		
-
-			<div id="footer">
-				<img src="/themes/wso2-v4/images/footer-right.gif" class="footer-right">
-					<ul>
-						<li><a href="http://wso2.org/licenses" class="about">Licenses</a></li>
-						<li><a href="http://wso2.org/privacy">Privacy Policy</a></li>
-						<li><a href="http://wso2.org/terms">Terms of Use</a></li>
-						<li><a href="http://wso2.org/guidelines">Community Guidelines</a></li>
-						<!--li><a href="http://wso2.org/about" class="about">About</a></li-->
-						<li><a href="http://wso2.org/feedback">Feedback</a></li>
-						<li><a href="http://wso2.com">wso2.com</a></li>
-					</ul>
-			</div>
-			<div id="copy-right">
-				© 2009 WSO2 Inc.
- &nbsp;&nbsp;&nbsp;&nbsp;
-					Powered by &nbsp;<a href="http://drupal.org"><img src="/themes/wso2-v4/images/powered-black-80x15.png" alt="Powered by Drupal"></a>
-			</div>
-
-
+							</div>
+			<!-- END - center panel section  -->
+						
+			<!-- START - right panel section  -->
+						<!-- END - right panel section  -->
 			
-							
-			
-
-
-<script type="text/javascript" src="http://cheetara.wso2.com/st/res/stats.js"></script>
-
-<script>
-    var type="ot";
-    stat_init();
-    var i = new Image();
-    i.src = "http://cheetara.wso2.com/st/stats.php?name=&email=&desc=Privacy Policy&type=ot&url=" + window.location.href;
-</script><script type="text/javascript" src="/modules/google_cse/google_cse.js"></script>
-
+			<!-- START - footer section -->
+			<div id="footer">			
+			<div class="block block-block" id="footer">
+  	 	<div class="block-title">Footer</div>
+ 	    <div class="content"><img class="footer-right" src="/themes/wso2_v5/images/footer-right.gif">
+<ul>
+<li><a class="about" href="http://wso2.org/licenses">Licenses</a></li>
+<li><a href="http://wso2.org/privacy">Privacy Policy</a></li>
+<li><a href="http://wso2.org/terms">Terms of Use</a></li>
+<li><a href="http://wso2.org/guidelines">Community Guidelines</a></li>
+<!--li><a href="http://wso2.org/about" class="about">About</a></li-->
+<li><a href="http://wso2.org/feedback">Feedback</a></li>
+<li><a href="http://wso2.com">wso2.com</a></li>
+</ul>
+</div>
+        <div class="block-container"></div>
+     </div>
+			</div>
+			<!-- END - footer section -->
+	
+			<!-- START - copy right section -->
+			<div id="footer-bottom">
+			<div class="block block-block" id="copy-right">
+  	 	<div class="block-title">Copy Right</div>
+ 	    <div class="content">© 2009 WSO2 Inc. Powered by  <a href="http://drupal.org"><img alt="Powered by Drupal" src="/themes/wso2_v5/images/powered-black-80x15.png" border="0"></a></div>
+        <div class="block-container"></div>
+     </div>
+			</div>
+			<!-- END - copy right section -->
+		</div>
+		
 
 </body></html>
