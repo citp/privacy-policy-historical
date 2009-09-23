@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wso2.org privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525193506id_/http%3A//wso2.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wso2.org privacy policy that was archived on 2009-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090923124328id_/http%3A//wso2.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WSO2 Oxygen Tank
 
