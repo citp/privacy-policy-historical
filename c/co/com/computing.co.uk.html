@@ -1,672 +1,1359 @@
-<!--The following is the downloaded HTML source of the computing.co.uk privacy policy that was archived on 2007-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071225175854id_/http%3A//www.computing.co.uk/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the computing.co.uk privacy policy that was archived on 2009-09-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090923233718id_/http%3A//www.computing.co.uk/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html lang="en"><head>
-  
-	<title>Computing - About - Policy</title>
-<script language="JavaScript" type="text/javascript" src="/includes/v7_vnunet.js"></script>
-<link rel="stylesheet" type="text/css" href="/includes/v7_vnunet.css">
-<link rel="stylesheet" type="text/css" href="/includes/components.css">
-<meta name="DCSext.vnu_magazine" content="Computing">
+	  <title>Privacy policy - Computing</title>
+		
+		<link rel="stylesheet" type="text/css" href="/includes/css/ctg/layout.css">
+	  <link rel="stylesheet" type="text/css" href="/includes/css/ctg/about.css">	  		
+		<script type="text/javascript" src="/includes/v7_vnunet.js"></script>			
+	<meta name="DCSext.vnu_magazine" content="Computing">
 <meta name="WT.cg_n" content="">
-<link type="text/css" rel="stylesheet" href="/includes/site-ctg.css">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head>
 
-<body>
-<a name="top" id="top"></a>
+<link type="image/x-icon" href="http://www.vnunet.com/images/ctg/ctg_favourite.ico" rel="shortcut icon"><meta content="zMpOHE+j4BWUGTFE67pMGuYGEDIQFSnt2W6pRBf1TnE=" name="verify-v1"><!--GRAPESHOT DYNAMIC ADVERT HEADER-->
+<script language="Javascript" type="text/javascript">
+          //<!--
+              var GS_CATEGORY="DEFAULT";
+          //--></script><script src="http://ad-incisive.grapeshot.co.uk/IM_DynamicAds/BEH/beh.cgi" language="Javascript" type="text/javascript"></script>
+<!--GRAPESHOT END--><script language="Javascript" type="text/javascript">
+          //<!--
+               document.write('<meta name="DCSext.gs_cat" content="' + GS_CATEGORY + '"/>')   
+          //--></script><meta name="DCSext.gs_cat" content="DEFAULT"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></head>
+	
+	<body>
 
+		<div id="container">
+			
+			
+	
+	
 
-
-
-
-<!-- header here -->
-
-<div class="clearfix" style="background-color: #F2F5F7; margin-bottom: 3px; border-bottom: 3px solid #40668C;">
-    
-<!-- top ad -->
-<div style="padding-top: 6px; padding-bottom: 6px; padding-left: 8px; margin-right: 18px; height: 96px; z-index: 1; float: left;">
-<div style="width: 728px; height: 90px; background-color: #F2F5F7;">
-
+		<script type="text/javascript" src="/includes/vnu-header-tabs-header.js"></script>
+		
+		<div id="header">
+			
+			<h1 id="logo"><a href="/" title="computing.co.uk"><span class="hE">computing.co.uk</span></a></h1>
+			
+			<div id="searchPanel">
+				<h2 class="hE">Search</h2>
+				
+				<div class="tabbedPanels">
+					<form id="computingSearch" method="get" action="/search/" name="computingSearch" accept-charset="UTF-8">
+						<fieldset>
+							<legend>Search computing.co.uk</legend>
+							<input type="hidden" name="sort" value="date">
+							<input type="hidden" name="section" value="all">
+							<input type="hidden" name="category" value="all">
+							<input type="hidden" name="page" value="1">
+							<input type="hidden" name="source" value="all">
+							<label class="hE">Keywords:</label>
+							<input class="searchField" id="ctgSearchInput" type="text" name="q" value="Search computing.co.uk">
+							<input class="imageInput" id="ctgSearchSubmit" type="image" src="/images/ctg/btnGoSubmit.png" alt="Submit">
+						</fieldset>
+					</form>
+					
+					<form id="industrySearch" method="get" action="http://ithound.vnunet.com/search" name="industrySearch" accept-charset="UTF-8">
+						<fieldset>
+							<legend>Search industry</legend>
+							<label class="hE">Keywords:</label>
+							<input class="searchField" id="indSearchInput" type="text" name="query_text" value="Search industry">						
+							<input class="imageInput" id="indSearchSubmit" type="image" src="/images/vnu/btnArrowSubmit.png" alt="Submit">
+							<input type="hidden" name="ith_ref" value="Multi">
+						</fieldset>
+					</form>
+					
+					<form id="webSearch" method="get" action="/" name="webSearch" accept-charset="UTF-8">
+						<fieldset>
+							<legend>Search web</legend>
+							<label class="hE">Keywords:</label>
+							<input class="searchField" id="webSearchInput" type="text" name="webSearchInput" value="Search web">
+							<input class="imageInput" id="webSearchSubmit" type="image" src="/images/vnu/btnArrowSubmit.png" alt="Submit">
+						</fieldset>
+					</form>				
+					
+					<script type="text/javascript" src="/includes/js-libs/queryString.js"></script> 
+					<script type="text/javascript" src="/includes/js-libs/trim.js"></script> 
+					
+					<script type="text/javascript">
+						//identify form elements
+						var ctgSearchInput = document.getElementById('ctgSearchInput');
+						var indSearchInput = document.getElementById('indSearchInput');
+						var webSearchInput = document.getElementById('webSearchInput');
+						
+						var ctgSearchDefaultText = 'Search computing.co.uk';
+						var indSearchDefaultText = 'Search industry';
+						//var webSearchDefaultText = 'Search web';
+						var indSearchDefaultText = 'Search products';
+						var webSearchDefaultText = 'not working yet';
+						
+						//get a search term out of the query string
+						var queryString = new queryString();	
+						var searchTerm = searchTerm == null ? queryString.get('q') : searchTerm;
+						
+						//set the value of the search box to the search term
+						//if it is in the query string, or a sensible default value if not
+						//ooooh.... smoooooth usability
+						if (searchTerm != null)
+						{
+						ctgSearchInput.value = searchTerm;
+						indSearchInput.value = searchTerm;
+						webSearchInput.value = searchTerm;
+						}
+						else
+						{
+						ctgSearchInput.value = ctgSearchDefaultText;
+						indSearchInput.value = indSearchDefaultText;
+						webSearchInput.value = webSearchDefaultText;				
+						}
+						
+						//remove the current search term on focus
+						ctgSearchInput.onfocus = function() { if(ctgSearchInput.value==ctgSearchDefaultText){ctgSearchInput.value = ''}; }
+						indSearchInput.onfocus = function() { if(indSearchInput.value==indSearchDefaultText){indSearchInput.value = ''}; }
+						webSearchInput.onfocus = function() { if(webSearchInput.value==webSearchDefaultText){webSearchInput.value = ''}; }
+						
+						//define alert text (used in footer too)
+						var alertText = 'put in a search term!';						
+						
+						//add validation to the submit buttons						
+						function checkDoSearch(inputElement, defaultText)
+						{
+						//trim the input
+						inputElement.value = trim(inputElement.value);
+						
+						if((inputElement.value == '') || (inputElement.value == defaultText))
+						{
+						alert(alertText);
+						inputElement.focus();
+						return false;
+						}
+						else
+						{
+						return true;
+						}					
+						}
+						
+						//make sure user is searching for something useful
+						var ctgSearchSubmit = document.getElementById('ctgSearchSubmit');
+						var indSearchSubmit = document.getElementById('indSearchSubmit');
+						var webSearchSubmit = document.getElementById('webSearchSubmit');
+						
+						ctgSearchSubmit.onclick = function() { return checkDoSearch(ctgSearchInput, ctgSearchDefaultText); }
+						indSearchSubmit.onclick = function() { return checkDoSearch(indSearchInput, indSearchDefaultText); }
+						webSearchSubmit.onclick = function() { return checkDoSearch(webSearchInput, webSearchDefaultText); }				 	
+					</script>			
+				</div>
+				
+			</div>
+			
+			<div id="navigation">
+				<div id="subNav">
+					<h2 class="hE">Secondary Navigation</h2>
+					<ul>
+						<li id="tab20b" class="firstLi"><a href="/news/" title="News">News</a></li>
+						<li id="tab21b"><a href="/in-depth/" title="In-depth">In-depth</a></li>
+						<li id="tab22b"><a href="/reviews/" title="Reviews">Reviews</a></li>
+						<li id="tab23b"><a href="/audio-video/" title="Audio video">Audio/Video</a></li>
+					  <li id="tab24b"><a href="/events/" title="Web Seminars &amp; Events">Web Seminars &amp; Events</a></li>
+						<li id="tab25b"><a href="http://www.computingcareers.co.uk/" title="Jobs" target="_blank">Jobs</a></li>
+						<li id="tab26b"><a href="/blogs/" title="Blogs">Blogs</a></li>
+						<li id="tab27b"><a href="http://forums.computing.co.uk/index.jspa" title="Forums">Forums</a></li>
+						<li id="tab28b"><a href="/business/" title="Computing Business">Computing Business</a></li>
+						<li id="tab28b"><a href="http://www.ukitindustryawards.co.uk" title="Awards">Awards</a></li>
+						<li id="tab29b"><a href="http://www.wdis.co.uk/computing" title="Subscribe" target="_blank">Subscribe</a></li>	
+					</ul>
+					
+					
+				</div>
+				
+				<div id="mainNav">
+					<h2 class="hE">Primary Navigation</h2>
+					<ul>
+						<li id="tab00b"><a href="/" title="Homepage">Home</a></li>
+						<li id="tab01b"><a href="/tags/hardware" title="Hardware">Hardware</a></li>
+						<li id="tab02b"><a href="/tags/software" title="Software">Software</a></li>
+						<li id="tab03b"><a href="/tags/communications" title="Communications">Communications</a></li>
+						<li id="tab04b"><a href="/tags/internet" title="Internet">Internet</a></li>
+						<li id="tab05b"><a href="/tags/security" title="Security">Security</a></li>
+						<li id="tab06b"><a href="/tags/management" title="Management">Management</a></li>
+						<li id="tab07b"><a href="/tags/public-sector" title="Public sector">Public sector</a></li>
+					</ul>
+					
+					<ul class="tools2">
+						<li class="firstLi"><a href="/mobile-signup/" title="Mobile">Mobile</a></li>
+						<li class="rssBtn" title="RSS"><a href="/rss/" title="RSS"><span class="hE">RSS</span></a></li>
+					</ul>	
+				</div>  
+				
+			</div>
+			
+			<script type="text/javascript">				
+				var navTabSetter = new Object();
+				navTabSetter['home'] = 'tab00b';
+				navTabSetter['hardware'] = 'tab01b';
+				navTabSetter['software'] = 'tab02b';
+				navTabSetter['communications'] = 'tab03b';
+				navTabSetter['internet'] = 'tab04b';
+				navTabSetter['security'] = 'tab05b';
+				navTabSetter['management'] = 'tab06b';
+				navTabSetter['public sector'] = 'tab07b';
+				navTabSetter['none'] = 'xxxxxx';			
+			</script>	
+			
+			<h2 class="advertisement"><span class="hE">Advertisements</span></h2>			
+			
+			<div class="leaderboard">
+				
 <script type="text/javascript" language="JavaScript"><!--
-printAdvert("http://ad.uk.doubleclick.net/adj/ctg.uk/;chan=about;sect=privacy-policy;subsect=;topcat=;cat=;page=index;tile=1;pos=top;sz=468x60;dcopt=ist");
-//--></script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/ctg.uk/;chan=about;sect=privacy-policy;subsect=;topcat=;cat=;page=index;tile=1;pos=top;sz=468x60;dcopt=ist;ord=2727381280?"></script>
+printAdvert("http://ad.uk.doubleclick.net/adj/ctg.uk/;chan=about;sect=privacy-policy;subsect=;topcat=;cat=;page=index;tile=1;dcopt=ist;sz=468x60;pos=top;gs_cat="+GS_CATEGORY+"");
+//--></script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/ctg.uk/;chan=about;sect=privacy-policy;subsect=;topcat=;cat=;page=index;tile=1;dcopt=ist;sz=468x60;pos=top;gs_cat=DEFAULT;ord=3410931429?"></script>
 <noscript>
-<A target="_blank" href="http://ad.uk.doubleclick.net/jump/ctg.uk/;chan=about;sect=privacy-policy;subsect=;topcat=;cat=;page=index;tile=1;pos=top;sz=468x60;dcopt=ist;ord=123456789?"><IMG alt="advertisement" border="0" width="468" height="60" src="http://ad.uk.doubleclick.net/ad/ctg.uk/;chan=about;sect=privacy-policy;subsect=;topcat=;cat=;page=index;tile=1;pos=top;sz=468x60;dcopt=ist;ord=123456789?"></A>
-</noscript>
-
-</div>
-</div><!-- end -->
-
-<!--topRight --><div style="padding-top: 6px; float: left; height: 96px; width: 240px;">
-
-
-
-
-
-<div class="topRight">
-<div class="topRightPadding">
-    <p class="staticms">
-<font size="2"><font color="#cc0000"><b><a href="http://www.computing.co.uk/news" target="_blank"><img align="right" alt="Click here to read our reviews of 2007" border="0" height="60" hspace="0" src="http://ivory.vnunet.com/images/downloads/screensavers/xmas/3d-christmas-city/small.gif" width="60"></a>Happy
-Christmas to all our readers - Computing returns in 2008<br>
-</b></font></font><font size="2"><b><font color="#0000cc"><a href="http://www.computing.co.uk/news" target="_blank">Click
-here to read Computing's news reviews of 2007</a></font></b></font></p>
-</div>
-</div>	
-
-
-
-</div><!-- end -->
-
-<div style="width: 738px; position: relative; top: 0px; float: left;">
-
-<div id="mainlogo" onclick="location='/'" alt="Computing logo" title="Computing logo"></div>
-
-<div style="padding-left: 23px;">
-
-
-
-
-<div class="clearfix">
-<div id="brandhome" class="brandnav">
-<a href="/" accesskey="1" title="Home">home</a>
-</div>
-<div id="brandnews" class="brandnav">
-<a href="/news/" accesskey="2" title="News">news</a>
-</div>
-<div id="brandreviews" class="brandnav">
-<a href="/comment/" accesskey="3" title="Comment">comment</a>
-</div>
-<div id="branddownloads" class="brandnav">
-<a href="/audio-video/" accesskey="5" title="Audio/video">audio &amp; video</a>
-</div>
-<div id="brandreviews" class="brandnav">
-<a href="/community/" accesskey="3" title="Community">community</a>
-</div>
-<div id="brandforums" class="brandnav">
-<a href="http://www.computingcareers.co.uk" accesskey="6" title="Jobs" target="_blank">jobs</a>
-</div>
-<div class="brandnav">
-<a href="/knowledge/" accesskey="3" title="Knowledge centres">knowledge centres</a>
-</div>
-</div>	
-
-
-</div>
-
-</div>
-
-<div style="float: left; height: 56px; margin-top: 44px; width: 257px;">
-
-
-
-
-    
-<!-- The Quad Search functionality -->
-<script language="JavaScript">
- <!--//
-   var quadElement = document.getElementById('quadctg');
-
-   function over(el) {
-     quadElement = el;
-     var quadSearchItems = document.getElementsByTagName('span');
-     for(var i=0;i<quadSearchItems.length;i++) {
-         var item = quadSearchItems[i];
-         if(item.id.indexOf('quad')!=-1) {
-            item.className='quadsearchoff';
-         }
-     }
-
-     el.className = 'quadsearchon';
-
-     var form = document.forms['quad_search'];
-
-     if(el.id == 'quadctg') {
-        document.getElementById('quadsearchimg').src = 'http://images.vnunet.com/v7_images/ctg/quadSearch-ctgLogo.gif';
-     } else if(el.id == 'quadtech2find') {
-        document.getElementById('quadsearchimg').src = 'http://images.vnunet.com/v7_images/itw/quadSearch-techhoundLogo.gif';
-        form.action = 'http://www.tech2find.co.uk/';
-        form.sitesearch.value = null;
-        form.kAndEntire.value = null;
-     } else if(el.id == 'quadtechfinder') {
-        document.getElementById('quadsearchimg').src = 'http://images.vnunet.com/v7_images/itw/quadSearch-techFinderLogo.gif';
-        form.sitesearch.value = null;
-        form.kAndEntire.value = null;
-     } else if(el.id == 'quadgoogle') {
-        document.getElementById('quadsearchimg').src = 'http://images.vnunet.com/v7_images/itw/quadSearch-googleLogo.gif';
-        form.action = 'http://www.google.com/search';
-        form.kAndEntire.value = null;
-        form.sitesearch.value = 'www.computing.co.uk';
-     } else if(el.id == 'quadjobs') {
-        document.getElementById('quadsearchimg').src = 'http://images.vnunet.com/v7_images/ctg/quadSearch-ctcLogo.gif';
-        form.action = 'http://careers.computing.co.uk/careers/jobsearch/results';
-        form.sitesearch.value = null;
-     }
-   }
-   
-   function submitQuadSearch(f) {
-     if(f.q.value=='') {
-        alert('Please provide keywords for search');
-        return false;
-     }
-     if(!quadElement || (quadElement && quadElement.id=='quadctg')) {
-        location = '/search/?articlesMax=20&downloadsMax=20&forumsMax=20&reviewsMax=20&staticMax=20&source=+AND+%28information-technology%3ASOURCE%29&articlesMinscore=65&q='+f.q.value;
-        return false;
-     } else if(quadElement && quadElement.id=='quadtechfinder') {
-        location = 'http://techfinder.computing.co.uk/vnucomputing/SearchServlet?ksAction=Search&col=vnulive&rf=0&srchtype=key&stype=&bi=1&ei=0&oq=null&vf=null&tId=&sId=&sSeq=1&regId=&lsTime=null&type=kw&isAdv=false&kw='+f.q.value;
-        return false;
-     } else if(quadElement && quadElement.id=='quadjobs') {
-        f.action = 'http://careers.computing.co.uk/careers/jobsearch/results';
-        f.kAndEntire.value = f.q.value;
-     }
-     
-     return true;
-   }
- //-->
-</script>
-
-<div>
-<!--div class="quadsearchon"-->
-<div class="clearfix" style="width: 257px; padding: 0px; margi: 0px;">
-
-<div style="float; left;"><span style="position: relative; top: -2px; padding: 3px; font-size: 0.9em; font-family: tahoma; font-weight: bold; background-color: #7B9DB8; color: #fff;">&nbsp;SEARCH&nbsp;</span>
-<span id="quadctg" class="quadsearchon" onmouseover="over(this);">Computing</span>
-<span id="quadjobs" class="quadsearchoff" onmouseover="over(this);">Jobs</span>
-<!--span id="quadtech2find" class="quadsearchoff" onmouseover="over(this);">techhound</span-->
-<span id="quadtechfinder" class="quadsearchoff" onmouseover="over(this);">Products</span>
-<span id="quadgoogle" class="quadsearchoff" onmouseover="over(this);">Google</span>
-</div>
-
-</div>
-
-<div class="quadsearchbox">
-<div class="clearfix">
-<form name="quad_search" action="/search/" onsubmit="return submitQuadSearch(this)" target="_blank">
-<img style="float: left; margin-right: 2px;" id="quadsearchimg" src="http://images.vnunet.com/v7_images/ctg/quadSearch-ctgLogo.gif" width="70" height="22">
-<input type="text" name="q" style="position: relative; top: 3px; float: left; padding: 2px; font: normal 1em verdana; width: 55%; border: 1px #929BAA solid; margin-right: 5px;">
-<input type="hidden" name="sitesearch" value="www.computing.co.uk">
-<input type="hidden" name="kAndEntire" value="">
-<input style="position: relative; top: 1px; border: 0px;" type="image" src="http://images.vnunet.com/v7_images/jobsbutton.gif" alt="Search" title="Search" width="20" height="20" border="0">  
-</form>
-</div>
-</div>
-
-</div>
-<!-- End Quad Search -->
-
-
-
-</div>
-
-</div>
-
-<div style="margin-left: 695px; width: 300px; text-align: right;">
-
-
-
-
-<div class="clearfix">
-<div class="microgrey">
-<a href="http://www.vnuservices.co.uk/computing/" title="About IT Week">Register</a> . 
-<a href="/about/" title="About Computing">About</a> . 
-<a href="/digital-edition/" title="Computing Digital edition">Digital Edition</a> . 
-<a href="http://marketing.vnu.co.uk/computing" title="Advertise on Computing" target="_blank">Advertise</a> . 
-<a href="/about/pocket" title="Computing Pocket Edition">PDA</a> . 
-<a href="/about/rss" title="RSS feeds">RSS</a> &nbsp;<img border="0" style="position: relative; top: 3px;" height="16" width="16" title="Subscribe to our RSS feed" alt="Subscribe to our RSS feed" src="http://images.vnunet.com/v7_images/rssFeeds.gif"> 
-</div></div>
-
-
-</div>
-
-<!-- end header -->
-
-
-
-<!-- start main body -->
-<a name="skipnav" id="skipnav" href="#skipnav" accesskey="s"></a>
-
-
-
-
-
-
-<div class="topfurniture">
-<div id="breadcrumbs"><a href="/">Computing</a>&nbsp;&gt;&nbsp;<a href="/about/">About</a></div>
-
-
-</div>
-
-
-
-<!-- AUTONOMY START -->
-<div id="bodyholder">
-<div class="headingholder">
-<div class="headingbox">
-<h1 id="headingsmall">Privacy</h1>
-
-<div class="rulemid" id="headingline1"></div>
-<div class="rulemid" id="headingline2"></div>
-</div>
-</div><!-- end headingholder -->
-
-<div class="bodycol" id="bodymargin"></div>
-
-
-
-
-
-
-<div class="bodycol" id="bodyleftcol">
-
-
-
-
-
-<ul class="leftmarginlist">
-<li class="leftmarginlistitem"><a href="/about/editorial" title="Editorial">Editorial</a></li>
-<li class="leftmarginlistitem"><a href="/about/legal" title="Legal">Legal</a></li>
-<li class="leftmarginlistitem"><a href="/about/linkingtermsandconditions" title="Linking terms &amp; conditions">Linking terms &amp; conditions</a></li> 
-<li class="leftmarginlistitem"><a href="/about/linktous" title="Link to us">Link to us</a></li> 
-<li class="leftmarginlistitem"><a href="/about/subs" title="Magazines and subscriptions">Magazines and subscriptions</a></li>
-<li class="leftmarginlistitem"><a href="/about/marketing" title="Marketing">Marketing</a></li>
-<li class="leftmarginlistitem"><a href="/about/termsandconditions" title="Terms &amp; conditions">Terms &amp; conditions</a></li>
-<li class="leftmarginlistitem"><a href="/about/team" title="The Computing team">The Computing team</a></li>
-<li class="leftmarginlistitem"><a href="/about/pocket" title="Pocket edition">Pocket edition</a></li>
-<li class="leftmarginlistitem"><a href="/about/rss" title="RSS feeds">RSS feeds</a></li>
-<li class="leftmarginlistitem"><a href="/about/sitemap" title="Site map">Site map</a></li>
-</ul>
-
-
-
-
-
-
-
-
-
-
-<script type="text/javascript" language="JavaScript"><!--
-printAdvert("http://ad.uk.doubleclick.net/adj/ctg.uk/;chan=about;sect=privacy-policy;subsect=;topcat=;cat=;page=index;tile=4;pos=1;sz=120x60");
-//--></script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/ctg.uk/;chan=about;sect=privacy-policy;subsect=;topcat=;cat=;page=index;tile=4;pos=1;sz=120x60;ord=2727381280?"></script>
-<noscript>
-<A target="_blank" href="http://ad.uk.doubleclick.net/jump/ctg.uk/;chan=about;sect=privacy-policy;subsect=;topcat=;cat=;page=index;tile=4;pos=1;sz=120x60;ord=123456789?"><IMG alt="advertisement" border="0" width="120" height="60" src="http://ad.uk.doubleclick.net/ad/ctg.uk/;chan=about;sect=privacy-policy;subsect=;topcat=;cat=;page=index;tile=4;pos=1;sz=120x60;ord=123456789?"></A>
+<A target="_blank" href="http://ad.uk.doubleclick.net/jump/ctg.uk/;chan=about;sect=privacy-policy;subsect=;topcat=;cat=;page=index;tile=1;dcopt=ist;sz=468x60;pos=top;ord=123456789?"><IMG alt="advertisement" border="0" width="468" height="60" src="http://ad.uk.doubleclick.net/ad/ctg.uk/;chan=about;sect=privacy-policy;subsect=;topcat=;cat=;page=index;tile=1;dcopt=ist;sz=468x60;pos=top;ord=123456789?"></A>
 </noscript>
 
 
-<div class="boxgap"></div>
-
-
+			</div>
+			
+			<div class="specialAd175x90">
+				
 <script type="text/javascript" language="JavaScript"><!--
-printAdvert("http://ad.uk.doubleclick.net/adj/ctg.uk/;chan=about;sect=privacy-policy;subsect=;topcat=;cat=;page=index;tile=5;pos=2;sz=120x60");
-//--></script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/ctg.uk/;chan=about;sect=privacy-policy;subsect=;topcat=;cat=;page=index;tile=5;pos=2;sz=120x60;ord=2727381280?"></script>
+printAdvert("http://ad.uk.doubleclick.net/adj/ctg.uk/;chan=about;sect=privacy-policy;subsect=;topcat=;cat=;page=index;tile=13;sz=200x90;pos=top;gs_cat="+GS_CATEGORY+"");
+//--></script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/ctg.uk/;chan=about;sect=privacy-policy;subsect=;topcat=;cat=;page=index;tile=13;sz=200x90;pos=top;gs_cat=DEFAULT;ord=3410931429?"></script>
 <noscript>
-<A target="_blank" href="http://ad.uk.doubleclick.net/jump/ctg.uk/;chan=about;sect=privacy-policy;subsect=;topcat=;cat=;page=index;tile=5;pos=2;sz=120x60;ord=123456789?"><IMG alt="advertisement" border="0" width="120" height="60" src="http://ad.uk.doubleclick.net/ad/ctg.uk/;chan=about;sect=privacy-policy;subsect=;topcat=;cat=;page=index;tile=5;pos=2;sz=120x60;ord=123456789?"></A>
+<A target="_blank" href="http://ad.uk.doubleclick.net/jump/ctg.uk/;chan=about;sect=privacy-policy;subsect=;topcat=;cat=;page=index;tile=13;sz=200x90;pos=top;ord=123456789?"><IMG alt="advertisement" border="0" width="200" height="90" src="http://ad.uk.doubleclick.net/ad/ctg.uk/;chan=about;sect=privacy-policy;subsect=;topcat=;cat=;page=index;tile=13;sz=200x90;pos=top;ord=123456789?"></A>
 </noscript>
 
 
+			</div>
+			
+		</div>
+		
+	
+								
+			
+		  <div id="contents">
+		    
+		    <div class="breadcrumbs" id="breadcrumbsLeft">
+		      <ul>
+		        <li><a href="/" title="Home">Home</a> &gt;</li>
+		        <li><a href="/about/" title="About">About</a> &gt;</li>
+		        <li>Privacy Policy</li>
+		      </ul>
+		    </div>
+		    	    
+		    <div id="main">
+		      
+		      <div id="mainColumn01">
+		        
+		        <h1>Privacy policy</h1>
 
+		        <h2>Introduction</h2>
+		        <p>Respecting the privacy of our customers and ensuring the confidentiality of customer information is critical to Incisive Media ("Incisive Media"). The purpose of this Privacy Policy is to ensure that we interact with all of our customers in line with current legislation such as the Data Protection Act 1998 and in accordance with their wishes.</p>
+		        
+		        <h2>The policy</h2>
+		        
+		        <ol>
+		          <li>Incisive Media will use your contact details (postal address, email address, telephone, mobile and fax numbers) to contact you regarding the product and/or services you have requested. This includes re-registration/renewal notifications, surveys on improving our service to you and/or invitations to exhibitions, seminars and shows.</li>
+		          <li>From time to time Incisive Media may invite you to register in order to receive magazines, email newsletters, enter competitions, and receive services from Incisive Media websites. This will require you to confirm personal information such as your name, email address, home and work postcodes. This information is mandatory and is required by Incisive Media for security purposes and enable Incisive Media to supply a reasonable level of services to users and our advertisers. We will ask for information such as job function, company sector, company/ name and date of birth. During registration, you will also be asked to choose a password for future access to the relevant site(s).</li>
+		          <li>Incisive Media offers you the chance to opt in to receive additional information from Incisive Media and its associated companies by email, telephone and/or SMS. This includes other products/services that Incisive Media and its associated companies offer and that Incisive Media feels will be of interest to you.</li>
+		          <li>Incisive Media offers you the chance to opt in to receive marketing information from other carefully selected organisations by email, telephone and/or SMS. Incisive Media will only pass on these details if you opt in. Incisive Media takes all measures possible to ensure that the contact you receive will be from reputable organisations. Incisive Media however cannot accept any responsibility for use of the data once it has been passed on.</li>
+		          <li>Incisive Media offers you the chance to opt out of receiving additional information from Incisive Media and its associated companies by post. This includes all other products/services that Incisive Media and its associated companies offer.</li>
+		          <li>Incisive Media offers you the chance to opt out of receiving marketing information from other carefully selected organisations by post. Incisive Media takes all measures possible to ensure that the contact you receive will be from reputable organisations. Incisive Media cannot however accept any responsibility for use of the data once it has been passed on.</li>
+		          <li>Aggregate statistical information gathered from Incisive Media registration forms may be passed on to advertisers or others regarding sales or website usage. At no point will this include personal identifying information.</li>
+		          <li>At all times a recipient of a Incisive Media product and/or service will have the opportunity to amend their contact details and/or to opt in or out of any of the options listed above in points 3, 4, 5 and 6. You can also request, at any time, to have your personal details flagged on the Incisive Media databases to ensure you do not continue to receive such information. We will not actually delete your record from the Incisive Media databases as we would no longer be able to identify you, which could lead to you receiving information from us in the future. To action any of these requests please contact the relevant customer care department of the product/service you subscribe to.</li>
+		          <li>You have the right to be told what personal information we hold about you on our databases. You should write to Mr Sean Hayes, Incisive Media, 32-34 Broadwick Street, London W1A 2HG. In your letter you must state your full name, your address and all publications and/or services from Incisive Media to which you know you subscribe. A small administration charge of £5.00 will be made for fulfilling this request.</li>
+		          <li>Incisive Media may make anonymous use of information to help diagnose faults, manage the system and gather broad demographic information about our users in general. This information will be stripped of all details that could identify you personally. For example, we may use IP addresses to help fix performance problems with our server.</li>
+		          <li>Incisive Media uses all reasonable precautions to keep the personal information disclosed to it secure.</li>
+		        </ol>
+		        
+		        <h3>Information collected from site visitors</h3>
+		        
+		        <p>This statement discloses the privacy policy for the Incisive Media network of sites, which encompasses the following URLs:</p>
 
+		        <ul class="linkList">
+		          <li><a href="http://www.accountancyage.com" target="_blank" title="Accountancy Age">http://www.accountancyage.com</a></li>
+		          <li><a href="http://www.accountancyagejobs.com" target="_blank" title="Accountancy Age Jobs">http://www.accountancyagejobs.com</a></li>
+		          <li><a href="http://www.activehome.co.uk" target="_blank" title="Active Home">http://www.activehome.co.uk</a></li>
+		          <li><a href="http://www.businessgreen.com" target="_blank" title="Business Green">http://www.businessgreen.com</a></li>
+		          <li><a href="http://www.channelweb.co.uk" target="_blank" title="Channel Web">http://www.channelweb.co.uk</a></li>
+		          <li><a href="http://www.computeractive.co.uk" target="_blank" title="Computeractive">http://www.computeractive.co.uk</a></li>
+		          <li><a href="http://www.computercontractor.co.uk" target="_blank" title="Computer Contractor">http://www.computercontractor.co.uk</a></li>
+		          <li><a href="http://www.computing.co.uk" target="_blank" title="Computing">http://www.computing.co.uk</a></li>
+		          <li><a href="http://www.computingcareers.co.uk" target="_blank" title="Computing Careers">http://www.computingcareers.co.uk</a></li>
+		          <li><a href="http://www.financialdirector.co.uk" target="_blank" title="Financial Director">http://www.financialdirector.co.uk</a></li>
+		          <li><a href="http://www.infomaticsonline.co.uk" target="_blank" title="Infomatics">http://www.infomaticsonline.co.uk</a></li>
+		          <li><a href="http://www.itweek.co.uk" target="_blank" title="IT Week">http://www.itweek.co.uk</a></li>
+		          <li><a href="http://www.iwr.co.uk" target="_blank" title="Information world Review">http://www.iwr.co.uk</a></li>
+		          <li><a href="http://www.managementconsultancy.co.uk" target="_blank" title="Management Consultancy">http://www.managementconsultancy.co.uk</a></li>
+		          <li><a href="http://www.networknews.co.uk" target="_blank" title="Network IT Week">http://www.networknews.co.uk</a></li>
+		          <li><a href="http://www.pcmag.co.uk" target="_blank" title="PC Magazine">http://www.pcmag.co.uk</a></li>
+		          <li><a href="http://www.pcw.co.uk" target="_blank" title="Personal Computer World">http://www.pcw.co.uk</a></li>
+		       		<li><a href="http://www.v3.co.uk" target="_blank" title="V3.co.uk">http://www.v3.co.uk</a></li>
+		          <li><a href="http://www.webactivemagazine.co.uk" target="_blank" title="Webactive">http://www.webactivemagazine.co.uk</a></li>
+		          <li>and subdomains of these websites</li>
+		        </ul>
+		        
+		        <p>This statement does not extend to sites that are linked to Incisive Media sites but which are not part of the Incisive Media network. You should refer to those sites for further details about their use of your personal information.</p> 
+		        
+		        <p>If you use a Incisive Media website certain information is automatically collected so that delivery can be made of the service. Cookies may be stored on your machine by your browser. You can set your browser to disable cookies, but then you might find some website features will not work.</p> 
+		        
+		        <p>When you request a page from the site's web server, the server automatically collects some information about your system, including your IP address. Incisive Media collects the minimum information necessary to make the service work - this information is essential to send the pages back across the Internet to the right computer.</p> 
+		        
+		        <p>Incisive Media uses "WebTrends Live" to analyse traffic to the Incisive Media site. WebTrends Live does not create individual profiles for visitors as WebTrends Live only collects aggregate data. You can find out more information about the WebTrends Live privacy policy on their <a href="https://ondemand.webtrends.com/privacypolicy.asp" target="_blank">privacy policy</a> page.</p> 
+		        
+		        <p>In the course of serving advertisements to Incisive Media sites, a third party advertiser may place or recognise a unique cookie on your browser, but it will not collect any personally identifiable information about you. Incisive Media does not have control over the collection of information for advertising purposes. You can find out more information about the DoubleClick's privacy policy on their <a href="http://www.doubleclick.net/us/corporate/privacy" target="_blank">privacy policy</a> page.</p> 
+		        
+		        <p>Incisive Media is not responsible for the content or the privacy policies of third party web sites linked to this site.
+		          Dynamic Logic (Europe) will, from time to time, use tags on Incisive Media websites to enable branding research on behalf of Media Contacts and Microsoft. This tag will drop cookies and invite users to complete a survey through a pop-up window.<!-- For more information, please contact Matthew Gerry, tel. 020 7316 9000.--></p>
+		        
+		        <p><strong>Incisive Media reserves the right to change this privacy policy at any time by posting changes on this page. It is your responsibility to refer to this privacy policy on accessing this site. Incisive Media will however draw your attention to any material changes to this privacy policy by placing a notice on the site.</strong></p>
+		        
+		        <p>If you have any general questions or wish to report a technical error, please visit our <a href="/feedback/">feedback</a> page.</p>
 
-</div><!-- end body left col -->
+		      </div>			  
 
+		    </div><!-- end main -->
+				
+		    <div id="rhn">
+			    
+	
+	
+			
+		
+		
+	
+	
+	  
+		<div id="mostReadCommentedModule" class="module tab02c" classname="module tab02c">
+			<ul class="tabs">
+				<li id="tab01c">
+					<span>
+						<a href="#mostRead">most read</a>
+						<span><!--  --></span>
+					</span>
+				</li>
+				<li id="tab02c">
+					<span>
+						<a href="#mostCommented">most commented</a>
+						<span><!--  --></span>
+					</span>
+				</li>
+				<li id="tab03c">
+					<span>
+						<a href="#mostPopular">popular topics</a>
+						<span><!--  --></span>
+					</span>
+				</li>
+			</ul>
+			
+			<div id="mostRead" class="hE">
+				<h2 class="hE">Most read stories</h2>
+				<ul class="linkList"><li class="news"><a href="/computing/news/2249881/apple-rejects-tesco-iphone-app">Apple rejects Tesco iPhone app</a></li><li class="news"><a href="/computing/news/2249898/ellison-sun-losing-100-million">Ellison – "Sun losing $100m a month"</a></li><li class="news"><a href="/computing/news/2249846/online-shopping-reaches-nearly">Online shopping reaches £3.8bn in a month</a></li><li class="news"><a href="/computing/news/2249889/premier-league-chases-football">Premier League chases football pirates</a></li><li class="news"><a href="/computing/news/2249845/property-tax-agency-fails">Government property tax agency fails IT security checks</a></li></ul>
+				
+				<p class="moreLink">&gt; <a href="/news/" title="More">More</a></p>
+			</div>
+			
+			<div id="mostCommented" class="hE">
+				<h2 class="hE">Most commented stories</h2>
+				<ul class="linkList"><li class="news"><a href="/computing/news/2247128/marks-spencer-improves-customer#commentsModule">Marks &amp; Spencer improves customer feedback system</a></li><li class="comment"><a href="/computing/comment/2248817/help-tomorrow-staff-succeed-4797442#commentsModule">Help tomorrow's IT staff to succeed today</a></li><li class="news"><a href="/computing/news/2246149/windos-breaks-records-currys-pc#commentsModule">Windows 7 breaks records at Currys and PC World</a></li><li class="analysis"><a href="/computing/analysis/2249081/councils-urged-hasten-adoption-4809276#commentsModule">Councils urged to hasten adoption of social media  </a></li><li class="analysis"><a href="/computing/analysis/2249469/industry-lose-under-immigration-4821876#commentsModule">IT industry could lose out under immigration laws </a></li></ul>
+				
+				<p class="moreLink">&gt; <a href="/comments/latest" title="More">More</a></p>
+			</div>
+			
+			<div id="mostPopular" class="hE">
+				
+	
+			
+			
+		<!-- spec: //backend/tagcloud + source + no. of days (default:7) + length (default:15) + #popularityLevels (default:5) -->
+		<!-- vinc:include src="cocoon://backend/tagcloud/vnunet/days/10/length/7/popularityLevels/5" -->
+		
+		<!-- this will be alphabetically ordered -->
+		
+		<!-- Dynamic tagCloud -->
+		  
+  		<ol class="tagCloud">
+		<li class="popularity6"><a title="3 apple articles in last 7 days" href="/tags/apple">apple</a></li>
+		<li class="popularity2"><a title="9 cio articles in last 7 days" href="/tags/cio">cio</a></li>
+		<li class="popularity5"><a title="5 communications articles in last 7 days" href="/tags/communications">communications</a></li>
+		<li class="popularity4"><a title="6 database articles in last 7 days" href="/tags/database">database</a></li>
+		<li class="popularity7"><a title="3 dell articles in last 7 days" href="/tags/dell">dell</a></li>
+		<li class="popularity4"><a title="6 ecommerce articles in last 7 days" href="/tags/ecommerce">ecommerce</a></li>
+		<li class="popularity7"><a title="3 education articles in last 7 days" href="/tags/education">education</a></li>
+		<li class="popularity4"><a title="6 government articles in last 7 days" href="/tags/government">government</a></li>
+		<li class="popularity2"><a title="11 hardware articles in last 7 days" href="/tags/hardware">hardware</a></li>
+		<li class="popularity6"><a title="4 ibm articles in last 7 days" href="/tags/ibm">ibm</a></li>
+		<li class="popularity2"><a title="16 internet articles in last 7 days" href="/tags/internet">internet</a></li>
+		<li class="popularity3"><a title="9 leadership articles in last 7 days" href="/tags/leadership">leadership</a></li>
+		<li class="popularity1"><a title="33 management articles in last 7 days" href="/tags/management">management</a></li>
+		<li class="popularity6"><a title="4 microsoft articles in last 7 days" href="/tags/microsoft">microsoft</a></li>
+		<li class="popularity3"><a title="8 public-sector articles in last 7 days" href="/tags/public-sector">public-sector</a></li>
+		<li class="popularity5"><a title="6 retail articles in last 7 days" href="/tags/retail">retail</a></li>
+		<li class="popularity3"><a title="7 security articles in last 7 days" href="/tags/security">security</a></li>
+		<li class="popularity1"><a title="17 skills articles in last 7 days" href="/tags/skills">skills</a></li>
+		<li class="popularity1"><a title="17 software articles in last 7 days" href="/tags/software">software</a></li>
+		<li class="popularity5"><a title="6 strategy articles in last 7 days" href="/tags/strategy">strategy</a></li>
+		</ol>
+		
+		
+	
 
+			</div>
+			
+			<script type="text/javascript">
+				//define search panel tabs
+				var tab01c = document.getElementById('tab01c');
+				var tab02c = document.getElementById('tab02c');
+				var tab03c = document.getElementById('tab03c');
+				
+				//NO CYCLER: set onclick methods: no cycler, select tab by setting css class
+				tab01c.onclick = function() { return addCssClass('module tab01c', 'mostReadCommentedModule'); }
+				tab02c.onclick = function() { return addCssClass('module tab02c', 'mostReadCommentedModule'); }
+				tab03c.onclick = function() { return addCssClass('module tab03c', 'mostReadCommentedModule'); }
+				
+				//WITH CYCLER: set onclick methods: halt any cycler, select tab by setting css class
+				//tab01c.onclick = function() { window.clearInterval(cycler); return addCssClass('module tab01c', 'mostReadCommentedModule'); }
+				//tab02c.onclick = function() { window.clearInterval(cycler); return addCssClass('module tab02c', 'mostReadCommentedModule'); }
+				//tab03c.onclick = function() { window.clearInterval(cycler); return addCssClass('module tab03c', 'mostReadCommentedModule'); }
+				
+				//set default
+				addCssClass('module tab01c', 'mostReadCommentedModule');
+				
+				//set up array for either randomiser or cycler
+				var mostReadCommentedTabArray = new Array();
+				mostReadCommentedTabArray.push('module tab01c');
+				mostReadCommentedTabArray.push('module tab02c');
+				mostReadCommentedTabArray.push('module tab03c');	
+				
+				//randomise			
+				var randomNumber = Math.floor(Math.random() * mostReadCommentedTabArray.length);
+				addCssClass(mostReadCommentedTabArray[randomNumber], 'mostReadCommentedModule');
+				
+				//cycle				
+				//var cycleRepetitions = 2;							configurable - how many times thru the tabs
+				//var cyclePeriod = 10000;							configurable - millisecs
+				//var cycleCounter = 0;									
+				//var cycleLimit = (mostReadCommentedTabArray.length * cycleRepetitions) + 1;
+				//var cycler = window.setInterval('cycle()', cyclePeriod);				
+				//function cycle()
+				//{
+					//myNum = cycleCounter % mostReadCommentedTabArray.length;
+					//addCssClass(mostReadCommentedTabArray[myNum], 'mostReadCommentedModule');
+					//cycleCounter = cycleCounter + 1;
+					//if (cycleCounter == cycleLimit)
+					//{
+    				//window.clearInterval(cycler);
+    			//}
+				//}
+								
+			</script>
+			
+		</div>
+	
 
+		
+		
+	
 
+	
 
-
-
-
-
-
-<div class="bodycol" id="bodycol540">
-
-<div class="boxcol355">
-
-<div class="boxgap"></div>
-
-<div class="bold">Introduction</div>
-Respecting the privacy of our customers and ensuring the confidentiality of customer information is critical to VNU Business Publications Ltd ("VNU"). The purpose of this Privacy Policy is to ensure that we interact with all of our customers in line with current legislation such as the Data Protection Act 1998 and in accordance with their wishes.
-
-<div class="boxgap"></div><div class="rulehead"></div><div class="boxgap"></div>
-
-<div class="bold">The policy</div>
-<span class="bold">(1)</span> VNU will use your contact details (postal address, email address, telephone, mobile and fax numbers) to contact you regarding the product and/or services you have requested. This includes re-registration/renewal notifications, surveys on improving our service to you and/or invitations to exhibitions, seminars and shows.<br><br>
-
-<span class="bold">(2)</span> From time to time VNU may invite you to register in order to receive magazines, email newsletters, enter competitions, and receive services from VNU websites. This will require you to confirm personal information such as your name, email address, home and work postcodes. This information is mandatory and is required by VNU for security purposes and enable VNU to supply a reasonable level of services to users and our advertisers. We will ask for information such as job function, company sector, company/ name and date of birth. During registration, you will also be asked to choose a password for future access to the relevant site(s). 
-<br><br>
-
-<span class="bold">(3)</span> VNU offers you the chance to opt in to receive additional information from VNU and its associated companies by email, telephone and/or SMS. This includes other products/services that VNU and its associated companies offer and that VNU feels will be of interest to you.
-<br><br>
-<span class="bold">(4)</span> VNU offers you the chance to opt in to receive marketing information from other carefully selected organisations by email, telephone and/or SMS. VNU will only pass on these details if you opt in. VNU takes all measures possible to ensure that the contact you receive will be from reputable organisations. VNU however cannot accept any responsibility for use of the data once it has been passed on.
-<br><br>
-
-<span class="bold">(5)</span> VNU offers you the chance to opt out of receiving additional information from VNU and its associated companies by post. This includes all other products/services that VNU and its associated companies offer.<br><br>
-
-<span class="bold">(6)</span> VNU offers you the chance to opt out of receiving marketing information from other carefully selected organisations by post. VNU takes all measures possible to ensure that the contact you receive will be from reputable organisations. VNU cannot however accept any responsibility for use of the data once it has been passed on.
-<br><br>
-<span class="bold">(7)</span> Aggregate statistical information gathered from VNU registration forms may be passed on to advertisers or others regarding sales or website usage. At no point will this include personal identifying information.
-<br><br>
-<span class="bold">(8)</span> At all times a recipient of a VNU product and/or service will have the opportunity to amend their contact details and/or to opt in or out of any of the options listed above in points 3, 4, 5 and 6. You can also request, at any time, to have your personal details flagged on the VNU databases to ensure you do not continue to receive such information. We will not actually delete your record from the VNU databases as we would no longer be able to identify you, which could lead to you receiving information from us in the future. To action any of these requests please contact the relevant customer care department of the product/service you subscribe to.<br><br>
-
-<span class="bold">(9)</span> You have the right to be told what personal information we hold about you on our databases. You should write to Mr Sean Hayes, VNU Business Publications Ltd, VNU House, 32-34 Broadwick Street, London W1A 2HG. In your letter you must state your full name, your address and all publications and/or services from VNU to which you know you subscribe. A small administration charge of £5.00 will be made for fulfilling this request.
-<br><br>
-<span class="bold">(10)</span> VNU may make anonymous use of information to help diagnose faults, manage the system and gather broad demographic information about our users in general. This information will be stripped of all details that could identify you personally. For example, we may use IP addresses to help fix performance problems with our server. 
-<br><br>
-<span class="bold">(11)</span> VNU uses all reasonable precautions to keep the personal information disclosed to it secure.
-
-
-<div class="boxgap"></div><div class="rulehead"></div><div class="boxgap"></div>
-
-<div class="bold">Information collected from site visitors</div>
-
-This statement discloses the privacy policy for the VNU network of sites, which encompasses the following URLs: 
-
-<div class="boxgap"></div>
-
-<a href="http://www.accountancyage.com" target="_blank" title="Accountancy Age">http://www.accountancyage.com</a>,
-<a href="http://www.accountancyagejobs.com" target="_blank" title="Accountancy Age Jobs">http://www.accountancyagejobs.com</a>,
-<a href="http://www.activehome.co.uk" target="_blank" title="Active Home">http://www.activehome.co.uk</a>, <a href="http://www.computeractive.co.uk" target="_blank" title="Computeractive">http://www.computeractive.co.uk</a>, <a href="http://www.computercontractor.co.uk" target="_blank" title="Computer Contractor">http://www.computercontractor.co.uk</a>, <a href="http://www.computing.co.uk" target="_blank" title="Computing">http://www.computing.co.uk</a>, 
-<a href="http://www.computingcareers.co.uk" target="_blank" title="Computing Careers">http://www.computingcareers.co.uk</a>, 
-<a href="http://www.financialdirector.co.uk" target="_blank" title="Financial Director">http://www.financialdirector.co.uk</a>, <a href="http://www.infomaticsonline.co.uk" target="_blank" title="Infomatics">http://www.infomaticsonline.co.uk</a>, <a href="http://www.itweek.co.uk" target="_blank" title="IT Week">http://www.itweek.co.uk</a>, <a href="http://www.iwr.co.uk" target="_blank" title="Information world Review">http://www.iwr.co.uk</a>, <a href="http://www.managementconsultancy.co.uk" target="_blank" title="Management Consultancy">http://www.managementconsultancy.co.uk</a>, <a href="http://www.networknews.co.uk" target="_blank" title="Network IT Week">http://www.networknews.co.uk</a>, <a href="http://www.pcmag.co.uk" target="_blank" title="PC Magazine">http://www.pcmag.co.uk</a>, <a href="http://www.pcw.co.uk" target="_blank" title="Personal Computer World">http://www.pcw.co.uk</a>, <a href="http://www.vnunet.com" target="_blank" title="vnunet.com">http://www.vnunet.com</a>, <a href="http://www.vnuservices.co.uk" target="_blank" title="VNU Services">http://www.vnuservices.co.uk</a>, <a href="http://www.webactivemagazine.co.uk" target="_blank" title="Webactive">http://www.webactivemagazine.co.uk</a> <br>and subdomains of these websites.
-
-<div class="boxgap"></div>
-
-This statement does not extend to sites that are linked to VNU sites but which are not part of the VNU network. You should refer to those sites for further details about their use of your personal information.
-
-<div class="boxgap"></div>
-
-If you use a VNU website certain information is automatically collected so that delivery can be made of the service. Cookies may be stored on your machine by your browser. You can set your browser to disable cookies, but then you might find some website features will not work. 
-
-<div class="boxgap"></div>
-
-When you request a page from the site's web server, the server automatically collects some information about your system, including your IP address. VNU collects the minimum information necessary to make the service work - this information is essential to send the pages back across the Internet to the right computer. 
-
-<div class="boxgap"></div>
-
-VNU uses "WebTrends Live" to analyse traffic to the VNU site. WebTrends Live does not create individual profiles for visitors as WebTrends Live only collects aggregate data. For more information about the WebTrends Live privacy policy, <a href="https://ondemand.webtrends.com/privacypolicy.asp" target="_blank" title="Click here for the WebTrends Live privacy policy"><b>click here</b></a>.
-
-<div class="boxgap"></div>
-
-In the course of serving advertisements to VNU sites, a third party advertiser may place or recognise a unique cookie on your browser, but it will not collect any personally identifiable information about you. VNU does not have control over the collection of information for advertising purposes. For more Information regarding DoubleClick's privacy policy please <a href="http://www.doubleclick.net/us/corporate/privacy" target="_blank" title="Click here for more Information regarding DoubleClick's privacy policy"><b>click here</b></a>. 
-
-<div class="boxgap"></div>
-
-VNU is not responsible for the content or the privacy policies of third party web sites linked to this site.
-Dynamic Logic (Europe) will, from time to time, use tags on VNU websites to enable branding research on behalf of Media Contacts and Microsoft. This tag will drop cookies and invite users to complete a survey through a pop-up window. For more information, please contact Matthew Gerry, tel. 020 7316 9000.
-
-<div class="boxgap"></div><div class="rulehead"></div><div class="boxgap"></div>
-
-<div class="bold">VNU reserves the right to change this privacy policy at any time by posting changes on this page. It is your responsibility to refer to this privacy policy on accessing this site. VNU will however draw your attention to any material changes to this privacy policy by placing a notice on the site.</div>
-
-<div class="boxgap"></div><div class="rulehead"></div><div class="boxgap"></div>
-
-If you have any general questions or wish to report a technical error, please visit <a href="/feedback/" class="bold">Feedback</a>.<div class="boxgap"></div>
-
-</div><!-- end maincolumn  -->
-
-
-
-
-
-
-<div class="boxverticalinvis"></div>
-
-<div class="boxcol170">
-
-
-
-
-
-
-<div class="boxgap24"></div>
-<div class="adtop">ADVERTISEMENT</div>
-<div class="boxgap"></div>
-<div class="adbox">
+		<h2 class="ad">Advertisement</h2>
+		<div class="mpu">
+			<div align="center">
+				
 <script type="text/javascript" language="JavaScript"><!--
-printAdvert("http://ad.uk.doubleclick.net/adj/ctg.uk/;chan=about;sect=privacy-policy;subsect=;topcat=;cat=;page=index;tile=2;sz=120x600");
-//--></script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/ctg.uk/;chan=about;sect=privacy-policy;subsect=;topcat=;cat=;page=index;tile=2;sz=120x600;ord=2727381280?"></script>
+printAdvert("http://ad.uk.doubleclick.net/adj/ctg.uk/;chan=about;sect=privacy-policy;subsect=;topcat=;cat=;page=index;tile=3;sz=336x280;pos=top;gs_cat="+GS_CATEGORY+"");
+//--></script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/ctg.uk/;chan=about;sect=privacy-policy;subsect=;topcat=;cat=;page=index;tile=3;sz=336x280;pos=top;gs_cat=DEFAULT;ord=3410931429?"></script>
+<noscript>
+<A target="_blank" href="http://ad.uk.doubleclick.net/jump/ctg.uk/;chan=about;sect=privacy-policy;subsect=;topcat=;cat=;page=index;tile=3;sz=336x280;pos=top;ord=123456789?"><IMG alt="advertisement" border="0" width="336" height="280" src="http://ad.uk.doubleclick.net/ad/ctg.uk/;chan=about;sect=privacy-policy;subsect=;topcat=;cat=;page=index;tile=3;sz=336x280;pos=top;ord=123456789?"></A>
+</noscript>
+
+
+			</div>
+		</div>
+
+	
+
+		
+		
+	
+	
+		
+		<div id="newsletterModule" class="module tab01g" classname="module tab01g">
+			
+			<ul class="tabs">
+				<li id="tab01g">
+					<span>
+						<a href="#newsletter">newsletter signup</a>
+						<span><!-- --></span>
+					</span>
+				</li>
+				<li id="tab02g">
+					<span>
+						<a href="#existing user">existing users</a>
+						<span><!-- --></span>
+					</span>
+				</li>
+			</ul>
+			
+			<div id="newsletters" class="hE">
+				<fieldset class="computingNewsletters" id="computingNewsletters">
+					<form action="http://newswires.computing.co.uk/f/" method="post">
+						
+						<!--change current_brand_id value according to which brand this form is on-->
+						<input name="_form_id" value="78" type="hidden">
+						<input name="_account_id" value="421" type="hidden">
+						<input name="brand_id" value="3" type="hidden">
+						
+						<h2 class="hE">Newsletter signup</h2>
+						<p>Sign up for our range of FREE newsletters:</p>
+						
+						<ul class="linkList">
+						  <li><input name="3.computing_essentials" value="True" class="checkboxes" type="checkbox"><label>Essential weekly news</label></li> 
+						  <li><input name="3.it_week_insider" value="True" class="checkboxes" type="checkbox"><label>Technology Insider</label></li> 
+						  <li><input name="3.financial_service_news" value="True" class="checkboxes" type="checkbox"><label>Financial services news</label></li> 
+						  <li><input name="3.public_sector_news" value="True" class="checkboxes" type="checkbox"><label>Public sector news</label></li> 
+						  <li><input name="3.retail_chain_news" value="True" class="checkboxes" type="checkbox"><label>Retail &amp; supply chain news</label></li>
+						</ul>
+					  <p>More available - click 'submit' to view</p>
+						
+						<input alt="Submit" src="http://www.channelweb.co.uk/images/cw/btnSubmitRed.png" class="imageInput" value="Submit" type="image">
+						
+					</form>
+				</fieldset>
+				
+			</div>
+			
+			<div id="newsletterLogin" class="hE">
+				<h2 class="hE">Existing User</h2>
+				
+				<form action="http://newswires.channelweb.co.uk/q/loginsend" method="post" onsubmit="return validateForm(this)">  
+					<input name="_account_id" value="421" type="hidden">
+					<input name="_table_id" value="1" type="hidden">
+					<input name="_campaign_id" value="2683" type="hidden">
+					<input name="_launch_id" value="2655" type="hidden">
+					
+					<fieldset>
+						<legend>Newsletter user login:</legend>
+						<div>
+							<input value="http://newswires.computing.co.uk/incisive_newswires_ps/business_technology/computing/static_email_sent.html" name="_rp" type="hidden">
+							<input value="http://newswires.computing.co.uk/incisive_newswires_ps/business_technology/computing/static_email_not_found.html" name="_ep" type="hidden">
+							<input name="email_lookup" id="email_lookup" validate="email" maxlength="48" value="Enter email here" onclick="(this).value=''" type="text">
+						</div>	
+						<div>
+						</div>		
+						
+						<input class="imageInput" type="image" id="btnSendRed" src="/images/cw/btnSendRed.png" alt="Send">
+						
+					</fieldset>
+				</form>
+				
+			</div>
+			
+			<script type="text/javascript">
+				//define search panel tabs
+				var tab01g = document.getElementById('tab01g');
+				var tab02g = document.getElementById('tab02g');
+				
+				//set onclick methods
+				tab01g.onclick = function() { return addCssClass('module tab01g', 'newsletterModule'); }
+				tab02g.onclick = function() { return addCssClass('module tab02g', 'newsletterModule'); }
+				
+				//set default
+				addCssClass('module tab01g', 'newsletterModule');
+			</script>
+			
+		</div>
+		
+	
+
+		
+		
+	
+	
+		
+		<div class="hpu">
+			<h2>Advertisement</h2>
+			
+<script type="text/javascript" language="JavaScript"><!--
+printAdvert("http://ad.uk.doubleclick.net/adj/ctg.uk/;chan=about;sect=privacy-policy;subsect=;topcat=;cat=;page=index;tile=15;sz=300x600;gs_cat="+GS_CATEGORY+"");
+//--></script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/ctg.uk/;chan=about;sect=privacy-policy;subsect=;topcat=;cat=;page=index;tile=15;sz=300x600;gs_cat=DEFAULT;ord=3410931429?"></script>
+<noscript>
+<A target="_blank" href="http://ad.uk.doubleclick.net/jump/ctg.uk/;chan=about;sect=privacy-policy;subsect=;topcat=;cat=;page=index;tile=15;sz=300x600;ord=123456789?"><IMG alt="advertisement" border="0" width="300" height="600" src="http://ad.uk.doubleclick.net/ad/ctg.uk/;chan=about;sect=privacy-policy;subsect=;topcat=;cat=;page=index;tile=15;sz=300x600;ord=123456789?"></A>
+</noscript>
+
+
+		</div>
+		
+	
+
+		
+		
+	
+	
+	
+		
+		<!--start jobs module-->
+		<div id="jobsModuleRhn">
+			<div class="contentNavJobsRhn">
+				<h2 class="hE">Jobs</h2>
+				<ul>
+					<li class="contentNav01b">
+						<a href="http://www.computingcareers.co.uk" title="Jobs" target="_blank">Jobs</a>
+					</li>
+				</ul>
+				
+			</div><!-- end contentNav -->
+			<div class="contentContainerJobsRhn">
+				<div>
+					
+					<h3>Job of the week</h3>
+					
+					
+<script type="text/javascript" language="JavaScript"><!--
+printAdvert("http://ad.uk.doubleclick.net/adj/ctg.uk/;chan=about;sect=privacy-policy;subsect=;topcat=;cat=;page=index;tile=2;adtype=jofw;sz=120x300;gs_cat="+GS_CATEGORY+"");
+//--></script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/ctg.uk/;chan=about;sect=privacy-policy;subsect=;topcat=;cat=;page=index;tile=2;adtype=jofw;sz=120x300;gs_cat=DEFAULT;ord=3410931429?"></script>
+<noscript>
+<A target="_blank" href="http://ad.uk.doubleclick.net/jump/ctg.uk/;chan=about;sect=privacy-policy;subsect=;topcat=;cat=;page=index;tile=2;adtype=jofw;sz=120x300;ord=123456789?"><IMG alt="advertisement" border="0" width="120" height="300" src="http://ad.uk.doubleclick.net/ad/ctg.uk/;chan=about;sect=privacy-policy;subsect=;topcat=;cat=;page=index;tile=2;adtype=jofw;sz=120x300;ord=123456789?"></A>
+</noscript>
+
+					
+					
+					<p class="moreLink">&gt; More <a href="http://www.computingcareers.co.uk" title="More IT jobs" target="_blank">IT jobs</a></p>
+					
+					<h3>Job alerts</h3>
+					
+					<ul class="linkList">
+						<li>Latest jobs to your inbox</li>
+						<li>You set the job criteria</li>
+						<li>You set the frequency</li>
+					</ul>
+					
+					<div id="signUp">
+						<a href="http://www.computingcareers.co.uk/alerts" title="Sign up here" target="_blank"><img src="/images/ctg/btnSignUpRed.png" width="66" height="20" border="0" alt="Sign up here" title="Sign up here"></a>
+					</div>
+					
+					<h3>Find your next job here</h3>
+					
+					<!--script type="text/javascript" src="http://careers.computing.co.uk/ccincludes/javascript/default/jobsearch.js"/-->
+					
+					<!--form action="http://careers.computing.co.uk/js.php" method="get" name="advJobsearchForm">
+						
+						<input type="hidden" name="view" value=""/>
+						<input type="hidden" name="lookid" value="vnucompuk"/>
+						
+						<div>
+							<label class="hE">Search:</label>
+							<input class="field" id="keywords" type="text" name="q" onFocus="this.value=''" value="Search jobs" />
+						</div>
+						
+						<div><input class="imageInput" type="image" alt="Search" src="images/ctg/btnSearchRed.png" name="fromSearch"/></div>
+						
+					</form-->
+					
+					<!-- new madgex search -->
+					<form action="http://www.computingcareers.co.uk/advancedsearch/" method="get">
+						<div>
+							<label class="hE">Search:</label>
+							<input class="field" type="text" name="keyword" onfocus="this.value=''" value="Search jobs">
+						</div>
+						<div>
+							<input class="imageInput" type="image" alt="Search" src="/images/ctg/btnSearchRed.png" name="fromSearch">
+						</div>
+					</form>
+					
+					<div>
+						<h3>IT Salary Checker</h3>
+					</div>
+					
+					<ul class="linkList">
+						<li>Are you being paid what you are worth?</li>
+					</ul>
+					
+					<div id="checkSalary">
+						<a href="/it-salary-checker/" title="Check your salary here"><img src="/images/ctg/btnSubmitCheckSalary.png" width="96" height="20" border="0" alt="Check salary here" title="Check salary here"></a>
+					</div>
+					
+				</div>
+			</div>
+		</div>
+		
+	
+
+		
+		
+	
+
+	
+
+		<div id="superSky">
+			<h2 class="ad">Advertisement</h2>
+			<div class="superSkyscraper">
+				<div align="center">
+					
+<script type="text/javascript" language="JavaScript"><!--
+printAdvert("http://ad.uk.doubleclick.net/adj/ctg.uk/;chan=about;sect=privacy-policy;subsect=;topcat=;cat=;page=index;tile=2;sz=120x600;gs_cat="+GS_CATEGORY+"");
+//--></script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/ctg.uk/;chan=about;sect=privacy-policy;subsect=;topcat=;cat=;page=index;tile=2;sz=120x600;gs_cat=DEFAULT;ord=3410931429?"></script>
 <noscript>
 <A target="_blank" href="http://ad.uk.doubleclick.net/jump/ctg.uk/;chan=about;sect=privacy-policy;subsect=;topcat=;cat=;page=index;tile=2;sz=120x600;ord=123456789?"><IMG alt="advertisement" border="0" width="120" height="600" src="http://ad.uk.doubleclick.net/ad/ctg.uk/;chan=about;sect=privacy-policy;subsect=;topcat=;cat=;page=index;tile=2;sz=120x600;ord=123456789?"></A>
 </noscript>
-</div>
-<div class="boxgap24"></div>
 
 
-
-
-
-</div><!-- end rightcolumn  -->
-
-
-
-
-</div><!-- end body col 540 -->
-
-
-
-
-</div><!-- end body holder -->
-
-<!-- end main body -->
-<!-- AUTONOMY STOP -->
+				</div>
+			</div>
+		</div>
 
 	
+
+		
+		
 	
-	    
-<!-- start footer -->
 
-<script language="JavaScript">
- //<!--
-function addFavoutites() {
-  if( window.external && ( navigator.platform == 'Win32' || ( window.ScriptEngine && ScriptEngine().indexOf('InScript') + 1 ) ) ) {
-      window.external.AddFavorite(location.href, document.title ); // IE
-  } else {
-      window.alert( 'Please click OK then press Ctrl+D to create a bookmark' );
-  }
-  return false;
-}
-// -->
-</script>
- 
-<div class="footer" style="background-color: #EEF2F5; margin-left: 0px; width: 100%; font-size: 0.9em;">
-<div class="footerline"></div>
-<div class="clearfix" style="margin: 0px 10px 0px 10px; line-height: 175%; color: #333333;">
-    
-<div class="bold">Site Credentials:</div>
-<a href="/about/" title="About us">About us</a> . <a href="http://www.incisivemedia.com/public/showPage.html?page=11338" title="About Incisive Media">About Incisive Media</a> . <a href="/about/privacy" title="Privacy Policy">Privacy Policy</a> . <a href="/about/termsandconditions" title="Terms &amp; Conditions">Terms &amp; Conditions</a> . <a href="http://marketing.vnu.co.uk/computing" title="Advertise">Advertise</a> . <a href="/about/team" title="Contact Us">Contact Us</a> . <a href="/about/rss" title="RSS Feeds">RSS Feeds</a> . <!--vinc:a href="/about/rss/webmasters" title="Webmaster Tools">Webmaster Tools</vinc:a> . --><a href="/about/sitemap" title="Sitemap">Sitemap</a>
+	
+		
+		<!--start whitepaper box-->
+		<div class="contentNavRhn">
+			<h2 class="hE">White papers</h2>
+			<ul>
+				<li class="contentNav01b">
+				  <a href="http://www.ithound.com/computing/home" title="White papers">white papers</a>
+				</li>
+			</ul>
+		</div><!-- end contentNav -->
+		<div class="contentContainerItHoundRhn">
+			<div>
+				
+	
+	
+	
+		
+	  <form id="whitePapersSearch" method="get" action="http://www.ithound.com/computing/search" name="whitePapersSearch" accept-charset="UTF-8">
+			<fieldset>
+				<legend>Search white papers</legend>
+				<label class="hE">Search:</label>
+				<input class="field" id="whitePapersSearchInput" type="text" name="query_text" value="Search white papers">
+				<input type="hidden" name="ith_ref" value="SearchAndCatList">
+				<input class="imageInput" id="whitePapersSearchSubmit" type="image" src="/images/cw/btnSearchRed.png" alt="Search our white paper database" title="Search our white paper database">
+			</fieldset>
+		</form>				
+		
+		<script type="text/javascript">
+			//identify form elements
+			var whitePapersSearchInput = document.getElementById('whitePapersSearchInput');
+			
+			//remove the current search term on focus
+			whitePapersSearchInput.onfocus = function() { whitePapersSearchInput.value = ''; }					
+			
+			//make sure user is searching for something useful
+			var whitePapersSearchSubmit = document.getElementById('whitePapersSearchSubmit');				
+			whitePapersSearchSubmit.onclick = function() { return checkWhitePapersSearch(); }
+			
+			function checkWhitePapersSearch()
+			{
+			if((whitePapersSearchInput.value == '') || (whitePapersSearchInput.value == 'Search white papers'))
+			{
+			alert('put in a search term!');
+			whitePapersSearchInput.focus();
+			return false;
+			}
+			else
+			{
+			return true;
+			}			
+			}
+		</script>			
+		
+		<h3>Top categories</h3>
+	  <p><a href="http://www.ithound.com/computing/browse/251/ITSystemsManagement/NetworksCommunications/VPN?ith_ref=SearchAndCatList">VPN, Extranet and Intranet Solutions</a></p>
+	  <p><a href="http://www.ithound.com/computing/browse/252/ITSystemsManagement/NetworksCommunications/WAN?ith_ref=SearchAndCatList">WAN/ LAN Solutions</a></p>
+	  <p><a href="http://www.ithound.com/computing/browse/282/ITSystemsManagement/SecuritySolutions/NetworkSecurity?ith_ref=SearchAndCatList">Network Security</a></p>
+	  <p><a href="http://www.ithound.com/computing/browse/230/ITSystemsManagement/NetworksCommunications/Interoperability?ith_ref=SearchAndCatList">Interoperability-Connectivity</a></p>
+	  <p><a href="http://www.ithound.com/computing/browse/228/ITSystemsManagement/NetworksCommunications/GridComputing?ith_ref=SearchAndCatList">Grid/ Utility Computing</a></p>
+		
+	
 
-<div class="footerDivider"></div>
+			</div>
+			
+		</div>	  
+		
+	
 
-<div class="bold">Business &amp; Technology Websites:</div>
-<a href="http://www.computing.co.uk" title="Technology News">Technology News</a> . <a href="http://www.channelweb.co.uk/vendornews/" title="Computer Reseller News">Computer Reseller News</a> . <a href="http://www.vnunet.com" title="IT News">IT News</a> . <a href="http://www.iwr.co.uk" title="Information Science News">Information Science News</a> . <a href="http://www.theinquirer.net/default.aspx" title="Electronics News">Electronics News</a> . <a href="http://www.searchenginewatch.com" title="Search Engine News">Search Engine News</a> . <a href="http://www.clickz.com" title="Online Marketing News">Online Marketing News</a>
+		
+		
+	
+	
+		
+		<div id="pollEventModule" class="module tab01m" classname="module tab01m">
+			<ul class="tabs">
+				<li id="tab01m">
+					<span>
+						<a href="#poll">poll</a>
+						<span><!--  --></span>
+					</span>
+				</li>
+				<li id="tab02m">
+					<span>
+					  <a href="#events">web seminars &amp; events</a>
+						<span><!--  --></span>
+					</span>
+				</li>
+			</ul>
+			
+			<div id="poll" class="hE">
+				<h2 class="hE">Latest poll</h2>
+				<div><h3><a href="/articles/pollresults/2249732">Are you confident about the current career development opportunities in IT?</a></h3><form action="/actions/polls/2249732" method="post"><input value="/articles/pollresults/2249732" name="location" type="hidden"><input value="Tell us your views" name="poll_question" type="hidden"><fieldset><legend>Are you confident about the current career development opportunities in IT?</legend><p class="pollQuestion">Tell us your views</p><div class="radios"><input value="2" name="poll_ans_id" type="radio"><label>Yes: There has never been a better time to work in IT</label><input value="Yes: There has never been a better time to work in IT" name="poll_answer_2" type="hidden"></div><div class="radios"><input value="3" name="poll_ans_id" type="radio"><label>Maybe: It will be better once the downturn is over</label><input value="Maybe: It will be better once the downturn is over" name="poll_answer_3" type="hidden"></div><div class="radios"><input value="4" name="poll_ans_id" type="radio"><label>No: IT profession career prospects are receding</label><input value="No: IT profession career prospects are receding" name="poll_answer_4" type="hidden"></div><input alt="Vote" src="/images/ctg/btnVoteRed.png" class="imageInput" value="Vote" type="image"><p class="pollResults"><a href="/articles/pollresults/2249732">View poll results</a></p></fieldset></form></div>
+				
+				<p class="moreLink">&gt; <a href="/polls/" title="More polls">More polls</a></p>
+			</div>
+			
+			<div id="events" class="hE">
+				<h2 class="hE">Latest events and web seminars</h2>
+				
+				
+				<div class=""><a href="/computing/seminars/2248900/moving-cloud-build-existing"><img src="http://ivory.vnunet.com/images/shutterstock-cloud-computing/small.jpg" title="Cloud computing" alt="Cloud computing" border="0" xyz="shutterstock-cloud-computing/small.jpg" class=""></a><h3><a href="/computing/seminars/2248900/moving-cloud-build-existing" class="">Moving to the cloud – how to build on your existing IT strategy</a></h3><p>Watch a panel of experts discuss how cloud computing can fit into your IT plans </p><p><span class="date"><em>Date: </em>24 Sep 2009; <em>Time: </em>3.00pm</span></p></div>
+				
+				
+				
+				<div><a href="/computing/event/2247871/softworld-hr-payroll-solutions"></a><h3><a href="/computing/event/2247871/softworld-hr-payroll-solutions" class="">Softworld HR &amp; Payroll Solutions</a></h3><p>The leading event for HR and payroll software buyers </p><ul class="list"><li><em>Start Date: </em>13 Oct 2009</li><li><em>Venue: </em>London Olympia 2</li></ul></div>
+				
+				<p class="moreLink">&gt; <a href="/events/" title="More events">More events</a></p>
+			</div>
+			
+			<script type="text/javascript">
+				//define search panel tabs
+				var tab01m = document.getElementById('tab01m');
+				var tab02m = document.getElementById('tab02m');
+				
+				//NO CYCLER: set onclick methods: no cycler, select tab by setting css class
+				tab01m.onclick = function() { return addCssClass('module tab01m', 'pollEventModule'); }
+				tab02m.onclick = function() { return addCssClass('module tab02m', 'pollEventModule'); }
+				
+				//set default
+				addCssClass('module tab01m', 'pollEventModule');
+				
+				//set up array for either randomiser or cycler
+				var pollEventTabArray = new Array();
+				pollEventTabArray.push('module tab01m');
+				pollEventTabArray.push('module tab02m');
+				
+				//randomise			
+				var randomNumber = Math.floor(Math.random() * pollEventTabArray.length);
+				addCssClass(pollEventTabArray[randomNumber], 'pollEventModule');
+				
+			</script>
+			
+		</div>
+	
 
-<div class="footerDivider"></div>
+		
+		
+	
+	
+	
+		
+		<!--start subscribe box-->
+		<div class="contentNavRhn">
+			<h2 class="hE">Subscribe</h2>
+			<ul>
+				<li class="contentNav01b">
+					<a href="http://www.wdis.co.uk/computing" title="Subscribe" target="_blank">Subscribe</a>
+				</li>
+			</ul>
+		</div><!-- end contentNav -->
+		<div class="contentContainerSubscribeRhn">
+			<div id="subscribeLeft">
+				<p><a href="http://www.wdis.co.uk/computing" title="Subscribe" target="_blank">Sign up</a> to receive a weekly copy of Computing magazine</p>
+				<p>Preview the current edition in <a href="http://mag.digitalpc.co.uk/computing/" title="Preview the current edition of Computing" target="_blank">digital ebook format</a></p>
+				<p>Read this week’s cover stories below:</p>
+				</div>
+				<div id="subscribeRight"><a href="http://mag.digitalpc.co.uk/computing/" title="Read the digital version of Computing" target="_blank"><img src="http://ivory.vnunet.com/assets/binaries/computing/images/this-week.jpg" title="Read the digital version of Computing" alt="Read the digital version of Computing" width="125" height="155" border="0"></a>
+					</div>
 
-<div class="bold">Blogs &amp; Community:</div>
-<a href="http://backbytes.computing.co.uk/" title="BackBytes">BackBytes</a> . <a href="http://knowledge.computing.co.uk/" title="The Knowledge">The Knowledge</a> . <a href="http://comment.computing.co.uk/" title="Comment">Comment</a> . <a href="http://freeform.computing.co.uk/" title="Mainstream Matters">Mainstream Matters</a> . <a href="http://editor.computing.co.uk/" title="The Editor's Diary">The Editor's Diary</a> . <a href="http://letters.computing.co.uk/" title="Reader's Letters">Reader's Letters</a> . <a href="http://newsdesk.computing.co.uk/" title="From The Newsdesk">From The Newsdesk</a> . <a href="http://ariadne.computing.co.uk/" title="Innovation in IT">Innovation in IT</a> . <a href="http://peterskyte.computing.co.uk/" title="Employment Matters">Employment Matters</a> . <a href="http://intellect.computing.co.uk/" title="The Industry View">The Industry View</a> . <a href="http://computingblogs.typepad.com/denise_plumpton/" title="Information Management">Information Management</a> . <a href="http://cartoons.computing.co.uk/" title="Hack Cartoons">Hack Cartoons</a> . <a href="http://peterscargill.computing.co.uk/" title="Small Business Focus">Small Business Focus</a> . <a href="http://markkobayashihillary.computing.co.uk/" title="Talking Outsourcing">Talking Outsourcing</a> . <a href="http://techlaw.computing.co.uk/" title="Technology Law">Technology Law</a> . <a href="http://sandrasmith.computing.co.uk/" title="Get the Inside Track">Get the Inside Track</a> . <a href="http://governmentinsider.computing.co.uk/" title="Government Insider">Government Insider</a> . <a href="http://eskillsuk.computing.co.uk/" title="IT Skills Matters">IT Skills Matters</a> . <a href="http://sharmmanwani.computing.co.uk/" title="Leadership Strategy">Leadership Strategy</a> . <a href="http://comment.computing.co.uk" title="Leaders &amp; Opinion">Leaders &amp; Opinion</a> . <a href="http://roriedevine.computing.co.uk/" title="Management and IT">Management and IT</a> . <a href="http://forrester.computing.co.uk/" title="The analyst view">The analyst view</a> . <a href="http://cioconnect.computing.co.uk/" title="Technology leadership">Technology leadership</a>
+				
+				
+				<div id="thisWeek">
+					<div class="categoryLink"><a href="/tags/management">Management</a></div><h3><a href="/computing/analysis/2249472/central-whitbread-global-growth-4823197" class="">IT is central to Whitbread's global growth</a></h3><div class="date">17 Sep 2009</div><div class="categoryLink"><a href="/tags/management">Management</a></div><h3><a href="/computing/analysis/2249477/technology-chiefs-evolve-4822425" class="">Technology chiefs must evolve into information leaders</a></h3><div class="date">17 Sep 2009</div><div class="categoryLink"><a href="/tags/management">Management</a></div><h3><a href="/computing/analysis/2249469/industry-lose-under-immigration-4821876" class="">IT industry could lose out under immigration laws </a></h3><div class="date">17 Sep 2009</div>
+				</div>
 
-<div class="footerDivider"></div>
+		</div><!-- end subscribe box-->
+		
+	
 
-<div class="bold">Knowledge Centres:</div>
-<a href="/knowledge/mobile" title="Go to our Mobile knowledge centre">Mobile</a> . <a href="/knowledge/internet" title="Go to our Internet knowledge centre">Internet</a> . <a href="/knowledge/rfid" title="Go to our RFID knowledge centre">RFID</a> . <a href="/knowledge/retail" title="Go to our Retail knowledge centre">Retail</a> . <a href="/knowledge/finance" title="Go to our Finance knowledge centre">Finance</a> . <a href="/knowledge/education" title="Go to our Education knowledge centre">Education</a> . <a href="/knowledge/nhs" title="Go to our NHS knowledge centre">NHS</a> . <a href="/knowledge/police" title="Go to our Police knowledge centre">Police</a> . <a href="/knowledge/manufacturing" title="Go to our Manufacturing knowledge centre">Manufacturing</a> . <a href="/knowledge/transport" title="Go to our Transport knowledge centre">Transport</a> . <a href="/knowledge/utilities" title="Go to our Utilities knowledge centre">Utilities</a> . <a href="/knowledge/sport" title="Go to ourSport knowledge centre">Sport</a> . <a href="/knowledge/management" title="Go to our Management knowledge centre">Management</a> . <a href="/knowledge/pc" title="Go to our PC knowledge centre">PC</a> . <a href="/knowledge/storage" title="Go to our Storage knowledge centre">Storage</a> . <a href="/knowledge/idcards" title="Go to our ID cards knowledge centre">ID cards</a> . <a href="/knowledge/regulation" title="Go to our Regulation knowledge centre">Regulation</a> . <a href="/knowledge/sme" title="Go to our SME knowledge centre">SME</a>
-
-<div class="footerDivider"></div>
-
-<div class="bold">News Channels:</div>
-<a href="/categories/ecommerce" title="Ecommerce">Ecommerce</a> . <a href="/categories/it-management" title="IT Management">IT Management</a> . <a href="/categories/finance-and-reporting" title="Finance &amp; Reporting">Finance &amp; Reporting</a> . <a href="/categories/services-and-outsourcing" title="IT Services &amp; Outsourcing">IT Services &amp; Outsourcing</a> . <a href="/categories/applications" title="Applications">Applications</a> . <a href="/categories/developer" title="Developer">Developer</a> . <a href="/categories/licensing-and-piracy" title="Licensing &amp; piracy">Licensing &amp; piracy</a> . <a href="/categories/open-source" title="Open source">Open source</a> . <a href="/categories/operating-system" title="Operating systems">Operating systems</a> . <a href="/categories/it-management" title="IT management">IT management</a> . <a href="/categories/public-sector" title="Public sector">Public sector</a> . <a href="/categories/employment-and-skills" title="Employment &amp; skills">Employment &amp; skills</a> . <a href="/categories/services-and-outsourcing" title="Services &amp; outsourcing">Services &amp; outsourcing</a> . <a href="/categories/bugs-and-fixes" title="Bugs &amp; fixes">Bugs &amp; fixes</a> . <a href="/categories/enterprise-security-technology" title="Enterprise security technology">Enterprise security technology</a> . <a href="/categories/security" title="Security">Security</a> . <a href="/categories/hacking" title="Hacking">Hacking</a> . <a href="/categories/privacy-and-data" title="Privacy &amp; data">Privacy &amp; data</a> . <a href="/categories/appliances" title="Appliances">Appliances</a> . <a href="/categories/chips-and-components" title="Chips &amp; components">Chips &amp; components</a> . <a href="/categories/client" title="Client">Client</a> . <a href="/categories/peripherals" title="Peripherals">Peripherals</a> . <a href="/categories/portable" title="Portable">Portable</a> . <a href="/categories/server" title="Server">Server</a> . <a href="/categories/storage" title="Storage">Storage</a> . <a href="/categories/mobile-comms" title="Mobile">Mobile</a> . <a href="/categories/network-infrastructure" title="Network infrastructure">Network infrastructure</a> . <a href="/categories/telecoms" title="Telecoms">Telecoms</a> . <a href="/categories/wireless-networking" title="Wireless networking">Wireless networking</a> . <a href="/categories/voice-and-data" title="Voice &amp; Data">Voice &amp; Data</a> . <a href="/categories/communications" title="Communications">Communications</a>
-
-<div class="footerDivider"></div>
-
-<div class="bold">Tools &amp; Resources:</div>
-<a href="http://www.computingcareers.co.uk/" title="IT Jobs">IT Jobs</a> . <a href="http://www.computingcareers.co.uk/uk_jobs/" title="Search UK jobs by location">Search UK jobs by location</a> . <a href="http://www.computingcareers.co.uk/uk_job_roles/" title="Search UK jobs by role">Search UK jobs by role</a> . <a href="http://www.computingcareers.co.uk/recruitment-agency/" title="Recruitment Agency Directory">Recruitment Agency Directory</a> . <a href="http://www.computingcareers.co.uk/it-salary-checker/" title="IT Salary Calculator">IT Salary Calculator</a> . <a href="/audio-video/" title="Web Seminars">Web Seminars</a> . <a href="http://techfinder.computing.co.uk/vnucomputing/MainServlet?ksAction=Home" title="Whitepapers">Whitepapers</a>
-
-<div class="footerDivider"></div>
-
-
-  
-  
-    
-<div style="float: left; width: 99%;">
-© Incisive Media Ltd. 2007<br>
-Incisive Media Limited, Haymarket House, 28-29 Haymarket, London SW1Y 4RX, is a company registered in the United Kingdom with company registration number 04038503</div>
-
-
-
-</div>
-<br>
-</div>
+		
+	
+					
+			  </div>
+			  <!-- End rhn -->	
+			
+			</div>
+			
+      
+	
+	
+	
+		
+		
+		<div id="footerAdverts">
+			<h2 class="advertisement"><span class="hE">Advertisements</span></h2>
+			<div class="leaderboard">
+				
+<script type="text/javascript" language="JavaScript"><!--
+printAdvert("http://ad.uk.doubleclick.net/adj/ctg.uk/;chan=about;sect=privacy-policy;subsect=;topcat=;cat=;page=index;tile=12;dcopt=ist;sz=468x60;pos=bottom;gs_cat="+GS_CATEGORY+"");
+//--></script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/ctg.uk/;chan=about;sect=privacy-policy;subsect=;topcat=;cat=;page=index;tile=12;dcopt=ist;sz=468x60;pos=bottom;gs_cat=DEFAULT;ord=3410931429?"></script>
+<noscript>
+<A target="_blank" href="http://ad.uk.doubleclick.net/jump/ctg.uk/;chan=about;sect=privacy-policy;subsect=;topcat=;cat=;page=index;tile=12;dcopt=ist;sz=468x60;pos=bottom;ord=123456789?"><IMG alt="advertisement" border="0" width="468" height="60" src="http://ad.uk.doubleclick.net/ad/ctg.uk/;chan=about;sect=privacy-policy;subsect=;topcat=;cat=;page=index;tile=12;dcopt=ist;sz=468x60;pos=bottom;ord=123456789?"></A>
+</noscript>
 
 
+			</div>
+			
+			<div class="promo">
+				
+<script type="text/javascript" language="JavaScript"><!--
+printAdvert("http://ad.uk.doubleclick.net/adj/ctg.uk/;chan=about;sect=privacy-policy;subsect=;topcat=;cat=;page=index;tile=14;sz=200x90;pos=bottom;gs_cat="+GS_CATEGORY+"");
+//--></script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/ctg.uk/;chan=about;sect=privacy-policy;subsect=;topcat=;cat=;page=index;tile=14;sz=200x90;pos=bottom;gs_cat=DEFAULT;ord=3410931429?"></script>
+<noscript>
+<A target="_blank" href="http://ad.uk.doubleclick.net/jump/ctg.uk/;chan=about;sect=privacy-policy;subsect=;topcat=;cat=;page=index;tile=14;sz=200x90;pos=bottom;ord=123456789?"><IMG alt="advertisement" border="0" width="200" height="90" src="http://ad.uk.doubleclick.net/ad/ctg.uk/;chan=about;sect=privacy-policy;subsect=;topcat=;cat=;page=index;tile=14;sz=200x90;pos=bottom;ord=123456789?"></A>
+</noscript>
+
+
+			</div>
+		</div>
+		
+		
+		<div id="footerMainNav">
+			
+			<h2 class="hE">Primary Navigation</h2>
+			
+			<ul id="navLinks">
+				<li class="firstLi"><a href="/" title="Homepage">Home</a></li>
+				<li><a href="/tags/hardware" title="Hardware">Hardware</a></li>
+				<li><a href="/tags/software" title="Software">Software</a></li>
+				<li><a href="/tags/communications" title="Communications">Communications</a></li>
+				<li><a href="/tags/internet" title="Internet">Internet</a></li>
+				<li><a href="/tags/security" title="Security">Security</a></li>
+				<li><a href="/tags/management" title="Management">Management</a></li>
+				<li><a href="/tags/public-sector" title="Public sector">Public sector</a></li>
+			</ul>
+			
+			<ul class="tools2">
+				<li><a href="/mobile-signup/" title="Mobile">Mobile</a></li>
+				<li class="rssBtn" title="RSS"><a href="/rss/" title="RSS"><span class="hE">RSS</span></a></li>
+			</ul>	
+			
+		</div>
+		
+		<div id="footer">
+			
+			<h2 class="hE">Secondary navigation</h2>			
+			
+			<div id="links">
+				
+				<script type="text/javascript" src="/includes/js-libs/bookmarkSite.js"></script>
+				
+				<div id="footerLogo">
+					<a href="http://www.incisivemedia.com" title="Incisive Media"><img src="/images/ctg/picIncisiveLogo.gif" height="50" width="130" border="0" title="Incisive Media" alt="Incisive Media"></a>
+				</div>
+				<div id="footerAddress">
+					© Incisive Media Ltd. 2009 Incisive Media Limited, Haymarket House, 28-29 Haymarket, London SW1Y 4RX, is a company registered in England and Wales with company registration number 04038503
+				</div>
+				<div id="footerSearchSubmit">
+					
+					<form id="computingSearch" method="get" action="/search/" name="computingSearch" accept-charset="UTF-8">
+						<fieldset>
+							<legend>Search computing.co.uk</legend>
+							<input type="hidden" name="sort" value="date">
+							<input type="hidden" name="section" value="all">
+							<input type="hidden" name="category" value="all">
+							<input type="hidden" name="page" value="1">
+							<input type="hidden" name="source" value="computing">
+							<label class="hE">Keywords:</label>
+							<input id="ctgSearchInputFooter" type="text" name="q" onfocus="this.value=''" value="Search computing.co.uk">						
+							<input id="ctgSearchSubmit" class="imageInput" type="image" src="/images/ctg/btnGoSubmit.png" alt="Search computing.co.uk">
+						</fieldset>								
+					</form>
+					
+					<script type="text/javascript">
+						//identify form elements
+						var ctgSearchInput = document.getElementById('ctgSearchInput');
+						
+						var ctgSearchDefaultText = 'Search computing.co.uk';
+						
+						//set the value of the search box to the search term
+						//if it is in the query string, or a sensible default value if not
+						//ooooh.... smoooooth usability
+						if (searchTerm != null)
+						{
+							ctgSearchInput.value = searchTerm;
+						}
+						else
+						{
+							ctgSearchInput.value = ctgSearchDefaultText;			
+						}
+						
+						//remove the current search term on focus
+						ctgSearchInput.onfocus = function() { if(ctgSearchInput.value==ctgSearchDefaultText){ctgSearchInput.value = ''}; }										
+						
+						//make sure user is searching for something useful
+						var ctgSearchSubmit = document.getElementById('ctgSearchSubmit');
+						
+						ctgSearchSubmit.onclick = function() { return checkDoSearch(ctgSearchInput, ctgSearchDefaultText); }
+					</script>		
+					
+				</div>
+				
+				<div>
+					<div class="footerTitle">
+						<h3>Site credentials:</h3>
+					</div>
+					<div class="footerLinks">
+						<ul>
+							<li class="firstLi"><a href="/about/" title="About computing.co.uk/Contacts">About computing.co.uk / Contacts</a></li>
+							<li><a href="http://www.incisivemedia.com/" title="About Incisive Media">About Incisive Media</a></li>
+							<li><a href="/about/privacy" title="Privacy policy">Privacy policy</a></li>
+							<li><a href="/about/terms-and-conditions" title="Terms and conditions">Terms and conditions</a></li>					
+							<li><a href="http://www.incisivemedia.com/public/showPage.html?page=337699" title="Accessibility Statement" target="_blank">Accessibility</a></li>
+							<li><a href="/about/sitemap" title="Sitemap">Sitemap</a></li>
+						</ul>
+					</div>
+				</div>
+				
+				<div>
+					<div class="footerTitle">
+						<h3>Related Incisive Media<br>web sites:</h3>
+					</div>
+					<div class="footerLinks">
+						<ul>
+							<li class="firstLi"><a href="http://www.v3.co.uk" title="News and reviews for IT professionals">News and reviews for IT professionals</a></li>
+							<li><a href="http://www.theinquirer.net" title="News for IT staff and technologists">News for IT staff and technologists</a></li>
+							<li><a href="http://www.businessgreen.com" title="Green business news">Green business news</a></li>
+							<li><a href="http://www.channelweb.co.uk" title="News for the IT channel">News for the IT channel</a></li>
+						</ul>
+					</div>
+				</div>
+				
+				<div>
+					<div class="footerTitle">
+						<h3>Jobs:</h3>
+					</div>
+					<div class="footerLinks">
+						<ul>
+							<li class="firstLi"><a href="http://www.computingcareers.co.uk" title="Computing Careers">Computing Careers</a></li>
+							<li><a href="http://www.computingcareers.co.uk/it-jobs.html" title="IT Jobs">IT jobs</a></li>
+							<li><a href="http://www.computingcareers.co.uk/programmer-jobs.html" title="Programmer jobs">Programmer jobs</a></li>
+							<li><a href="http://www.computingcareers.co.uk/developer-jobs.html" title="Developer jobs">Developer jobs</a></li>
+							<li><a href="http://www.computingcareers.co.uk/it-manager-jobs.html" title="IT manager jobs">IT manager jobs</a></li>
+							<li><a href="http://www.computingcareers.co.uk/project-manager-jobs.html" title="Project manager jobs">Project manager jobs</a></li>
+							<li><a href="http://www.computingcareers.co.uk/sap-jobs.html" title="SAP jobs">SAP jobs</a></li>
+							<li class="firstLi"><a href="http://www.computingcareers.co.uk/oracle-jobs.html" title="Oracle Jobs">Oracle Jobs</a></li>
+							<li><a href="http://www.computingcareers.co.uk/java-jobs.html" title="Java Jobs">Java Jobs</a></li>
+							<li><a href="http://www.computingcareers.co.uk/employers" title="IT recruitment agency directory">IT recruitment agency directory</a></li>
+							<li><a href="http://www.computingcareers.co.uk/software-engineer-jobs.html" title="Software Engineer Jobs">Software engineer jobs</a></li>
+							<li><a href="http://www.inqjobs.co.uk/" title="Inquirer Jobs">Inquirer Jobs</a></li>
+							<li><a href="http://www.inqjobs.co.uk/job-roles/firmware-developer-jobs" title="Firmware developer jobs">Firmware developer jobs</a></li>
+							<li class="firstLi"><a href="http://www.inqjobs.co.uk/job-roles/firmware-developer-jobs" title="Electronics engineer jobs">Electronics engineer jobs</a></li>
+						</ul>
+					</div>
+				</div>
+				
+				<div>
+					<div class="footerTitle">
+						<h3>Article types:</h3>
+					</div>
+					<div class="footerLinks">
+						<ul>
+							<li class="firstLi"><a href="/news/" title="News">News</a></li>
+							<li><a href="/in-depth/" title="In-depth">In-depth</a></li>
+							<li><a href="/reviews/" title="Reviews">Reviews</a></li>
+							<li><a href="/audio-video/" title="Audio and video">Audio and video</a></li>
+							<li><a href="/events/" title="Events and web seminars">Events</a></li>
+							<li><a href="/business/" title="Computing Business">Computing Business</a></li>
+						</ul>
+					</div>
+				</div>
+				
+				<div>
+					<div class="footerTitle">
+						<h3>Technology categories:</h3>
+					</div>
+					<div class="footerLinks">
+						<ul>
+							<li class="firstLi"><a href="/categories/appliances" title="Appliances">Appliances</a></li>
+							<li><a href="/categories/applications" title="Applications">Applications</a></li>
+							<li><a href="/categories/bugs-and-fixes" title="Bugs and fixes">Bugs and fixes</a></li>
+							<li><a href="/categories/chips-and-components" title="Chips and components">Chips and components</a></li>
+							<li><a href="/categories/client" title="Client">Client</a></li>
+							<li><a href="/categories/communications" title="Communications">Communications</a></li>
+							<li><a href="/categories/developer" title="Developer">Developer</a></li>
+							<li><a href="/categories/ecommerce" title="Ecommerce">Ecommerce</a></li>
+							<li class="firstLi"><a href="/categories/employment-and-skills" title="Employment and skills">Employment and skills</a></li>
+							<li><a href="/categories/enterprise-security-technology" title="Enterprise security technology">Enterprise security technology</a></li>
+							<li><a href="/categories/finance-and-reporting" title="Finance and Reporting">Finance and Reporting</a></li>
+							<li><a href="/categories/hacking" title="Hacking">Hacking</a></li>
+							<li><a href="/categories/it-management" title="IT Management">IT Management</a></li>
+							<li class="firstLi"><a href="/categories/services-and-outsourcing" title="IT Services and Outsourcing">IT Services and Outsourcing</a></li>
+							<li><a href="/categories/licensing-and-piracy" title="Licensing and piracy">Licensing and piracy</a></li>
+							<li><a href="/categories/mobile" title="Mobile">Mobile</a></li>
+							<li><a href="/categories/network-infrastructure" title="Network infrastructure">Network infrastructure</a></li>
+							<li><a href="/categories/open-source" title="Open source">Open source</a></li>
+							<li><a href="/categories/operating-system" title="Operating systems">Operating systems</a></li>
+							<li class="firstLi"><a href="/categories/peripherals" title="Peripherals">Peripherals</a></li>
+							<li><a href="/categories/portable" title="Portable">Portable</a></li>
+							<li><a href="/categories/privacy-and-data" title="Privacy and data">Privacy and data</a></li>
+							<li><a href="/categories/public-sector" title="Public sector">Public sector</a></li>
+							<li><a href="/categories/security" title="Security">Security</a></li>
+							<li><a href="/categories/server" title="Server">Server</a></li>
+							<li><a href="/categories/services-and-outsourcing" title="Services and outsourcing">Services and outsourcing</a></li>
+							<li><a href="/categories/storage" title="Storage">Storage</a></li>
+							<li><a href="/categories/telecoms" title="Telecoms">Telecoms</a></li>
+							<li class="firstLi"><a href="/categories/voice-and-data" title="Voice and Data">Voice and Data</a></li>
+							<li><a href="/categories/wireless-networking" title="Wireless networking">Wireless networking</a></li>
+						</ul>
+					</div>
+				</div>
+				
+			</div>
+			
+		</div>
+		
+		
 	
 	
 		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 		<script type="text/javascript">
 			_uacct = 'UA-2448662-6';
+			_udn='computing.co.uk';
 			urchinTracker();
 		</script>
 	
 
+		
+	
+	
+		
+		<script type="text/javascript">
+			<!--
+			var wl_ord=new Date().getTime();
+			document.write('<img  width="1" height="1" src="' + 'http://tu.connect.wunderloop.net/TU/343/908/4630/?ord=' + wl_ord + '" />');
+			//-->
+		</script><img width="1" height="1" src="http://tu.connect.wunderloop.net/TU/343/908/4630/?ord=1582521100550">
+		<noscript>
+			<IMG width="1" height="1" src="http://tu.connect.wunderloop.net/TU/343/908/4630/?ord=12345">
+		</noscript>
+		
+	
 
-<!-- end footer -->
+		
+	
+	
+		<!-- Consilium Tracking code -->
+		<script src="/includes/javascript/consilium/consilium-computing.js" type="text/javascript"></script>
+	
 
+		
+	
 
+	
+		
+		<!-- START Nielsen//NetRatings SiteCensus V5.3 -->
+		<!-- COPYRIGHT 2007 Nielsen//NetRatings -->
+		<script type="text/javascript">
+			var _rsCI='us-bpaww';
+			var _rsCG='0';
+			var _rsDN='//secure-us.imrworldwide.com/';
+			var _rsPLfl=0;
+			var _rsSE=1;
+			var _rsSM=1.0;
+			var _rsCL=1;
+		</script>
+		<script type="text/javascript" src="//secure-us.imrworldwide.com/v53.js"></script>
+		<noscript>
+			<DIV><IMG src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-bpaww&amp;cg=0&amp;cc=1" alt=""></DIV>
+		</noscript>
+		<!-- END Nielsen//NetRatings SiteCensus V5.3 -->
+		
+	
 
-
-
-
-
+		
+	
+	  
+			
+		</div>
+		
+	
 <!-- START OF SDC Advanced Tracking Code -->
-<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
-<!-- $DateTime: 2005/12/15 15:37:36 $ -->
+<!-- Copyright (c) 1996-2008 WebTrends Inc.  All rights reserved. -->
+<!-- V8.0 -->
+<!-- $DateTime: 2007/02/20 09:30:16 $ -->
 <script type="text/javascript" language="JavaScript"><!--
-      var gService = true;
-      var gTimeZone = 0;
-      // Code section for Enable First-Party Cookie Tracking
-      function dcsCookie(){
-      	if (typeof(dcsOther)=="function"){
-      		dcsOther();
-      	}
-      	else if (typeof(dcsPlugin)=="function"){
-      		dcsPlugin();
-      	}
-      	else if (typeof(dcsFPC)=="function"){
-      		dcsFPC(gTimeZone);
-      	}
-      }
-      function dcsGetCookie(name){
-      	var pos=document.cookie.indexOf(name+"=");
-      	if (pos!=-1){
-      		var start=pos+name.length+1;
-      		var end=document.cookie.indexOf(";",start);
-      		if (end==-1){
-      			end=document.cookie.length;
-      		}
-      		return unescape(document.cookie.substring(start,end));
-      	}
-      	return null;
-      }
-      function dcsGetCrumb(name,crumb){
-      	var aCookie=dcsGetCookie(name).split(":");
-      	for (var i=0;i<aCookie.length;i++){
-      		var aCrumb=aCookie[i].split("=");
-      		if (crumb==aCrumb[0]){
-      			return aCrumb[1];
-      		}
-      	}
-      	return null;
-      }
-      function dcsGetIdCrumb(name,crumb){
-      	var cookie=dcsGetCookie(name);
-      	var id=cookie.substring(0,cookie.indexOf(":lv="));
-      	var aCrumb=id.split("=");
-      	for (var i=0;i<aCrumb.length;i++){
-      		if (crumb==aCrumb[0]){
-      			return aCrumb[1];
-      		}
-      	}
-      	return null;
-      }
-      function dcsFPC(offset){
-      	if (typeof(offset)=="undefined"){
-      		return;
-      	}
-      	if (document.cookie.indexOf("WTLOPTOUT=")!=-1){
-      		return;
-      	}
-      	var name=gFpc;
-      	var dCur=new Date();
-      	var adj=(dCur.getTimezoneOffset()*60000)+(offset*3600000);
-      	dCur.setTime(dCur.getTime()+adj);
-      	var dExp=new Date(dCur.getTime()+315360000000);
-      	var dSes=new Date(dCur.getTime());
-      	if (document.cookie.indexOf(name+"=")==-1){
-      		if ((typeof(gWtId)!="undefined")&&(gWtId!="")){
-      			WT.co_f=gWtId;
-      		}
-      		else if ((typeof(gTempWtId)!="undefined")&&(gTempWtId!="")){
-      			WT.co_f=gTempWtId;
-      			WT.vt_f="1";
-      		}
-      		else{
-      			WT.co_f="2";
-      			var cur=dCur.getTime().toString();
-      			for (var i=2;i<=(32-cur.length);i++){
-      				WT.co_f+=Math.floor(Math.random()*16.0).toString(16);
-      			}
-      			WT.co_f+=cur;
-      			WT.vt_f="1";
-      		}
-      		if (typeof(gWtAccountRollup)=="undefined"){
-      			WT.vt_f_a="1";
-      		}
-      		WT.vt_f_s="1";
-      		WT.vt_f_d="1";
-      	}
-      	else{
-      		var id=dcsGetIdCrumb(name,"id");
-      		var lv=parseInt(dcsGetCrumb(name,"lv"));
-      		var ss=parseInt(dcsGetCrumb(name,"ss"));
-      		if ((id==null)||(id=="null")||isNaN(lv)||isNaN(ss)){
-      			return;
-      		}
-      		WT.co_f=id;
-      		var dLst=new Date(lv);
-      		dSes.setTime(ss);
-      		if ((dCur.getTime()>(dLst.getTime()+1800000))||(dCur.getTime()>(dSes.getTime()+28800000))){
-      			dSes.setTime(dCur.getTime());
-      			WT.vt_f_s="1";
-      		}
-      		if ((dCur.getDay()!=dLst.getDay())||(dCur.getMonth()!=dLst.getMonth())||(dCur.getYear()!=dLst.getYear())){
-      			WT.vt_f_d="1";
-      		}
-      	}
-      	WT.co_f=escape(WT.co_f);
-      	WT.vt_sid=WT.co_f+"."+(dSes.getTime()-adj);
-      	var expiry="; expires="+dExp.toGMTString();
-      	document.cookie=name+"="+"id="+WT.co_f+":lv="+dCur.getTime().toString()+":ss="+dSes.getTime().toString()+expiry+"; path=/"+(((typeof(gFpcDom)!="undefined")&&(gFpcDom!=""))?("; domain="+gFpcDom):(""));
-      	if (document.cookie.indexOf(name+"=")==-1){
-      		WT.co_f=WT.vt_sid=WT.vt_f_s=WT.vt_f_d="";
-      		WT.vt_f=WT.vt_f_a="2";
-      	}
-      }
       
-      // Code section for Use the new first-party cookie generated with this tag.
-      var gFpc="WT_FPC";
-      var gConvert=true;
-      
-      function dcsAdv(){
-      	dcsFunc("dcsET");
-      	dcsFunc("dcsCookie");
-      	dcsFunc("dcsAdSearch");
-      	dcsFunc("dcsTP");
-      }
+        var gService = true;
+        var gTimeZone = 0;
+        // Code section for Enable First-Party Cookie Tracking
+        function dcsCookie(){
+        	if (typeof(dcsOther)=="function"){
+        		dcsOther();
+        	}
+        	else if (typeof(dcsPlugin)=="function"){
+        		dcsPlugin();
+        	}
+        	else if (typeof(dcsFPC)=="function"){
+        		dcsFPC(gTimeZone);
+        	}
+        }
+        function dcsGetCookie(name){
+        	var cookies=document.cookie.split("; ");
+        	var cmatch=[];
+        	var idx=0;
+        	var i=0;
+        	var namelen=name.length;
+        	var clen=cookies.length;
+        	for (i=0;i<clen;i++){
+        		var c=cookies[i];
+        		if ((c.substring(0,namelen+1))==(name+"=")){
+        			cmatch[idx++]=c;
+        		}
+        	}
+        	var cmatchCount=cmatch.length;
+        	if (cmatchCount>0){
+        		idx=0;
+        		if ((cmatchCount>1)&&(typeof(gFpc)!="undefined")&&(name==gFpc)){
+        			var dLatest=new Date(0);
+        			for (i=0;i<cmatchCount;i++){
+        				var lv=parseInt(dcsGetCrumb(cmatch[i],"lv"));
+        				var dLst=new Date(lv);
+        				if (dLst>dLatest){
+        					dLatest.setTime(dLst.getTime());
+        					idx=i;
+        				}
+        			}
+        		}
+        		return unescape(cmatch[idx].substring(namelen+1));
+        	}
+        	else{
+        		return null;
+        	}
+        }
+        function dcsGetCrumb(cval,crumb){
+        	var aCookie=cval.split(":");
+        	for (var i=0;i<aCookie.length;i++){
+        		var aCrumb=aCookie[i].split("=");
+        		if (crumb==aCrumb[0]){
+        			return aCrumb[1];
+        		}
+        	}
+        	return null;
+        }
+        function dcsGetIdCrumb(cval,crumb){
+        	var id=cval.substring(0,cval.indexOf(":lv="));
+        	var aCrumb=id.split("=");
+        	for (var i=0;i<aCrumb.length;i++){
+        		if (crumb==aCrumb[0]){
+        			return aCrumb[1];
+        		}
+        	}
+        	return null;
+        }
+        function dcsIsFpcSet(name,id,lv,ss){
+        	var c=dcsGetCookie(name);
+        	if (c){
+        		return ((id==dcsGetIdCrumb(c,"id"))&&(lv==dcsGetCrumb(c,"lv"))&&(ss==dcsGetCrumb(c,"ss")))?0:3;
+        	}
+        	return 2;
+        }
+        function dcsFPC(offset){
+        	if (typeof(offset)=="undefined"){
+        		return;
+        	}
+        	if (document.cookie.indexOf("WTLOPTOUT=")!=-1){
+        		return;
+        	}
+        	var name=gFpc;
+        	var dCur=new Date();
+        	var adj=(dCur.getTimezoneOffset()*60000)+(offset*3600000);
+        	dCur.setTime(dCur.getTime()+adj);
+        	var dExp=new Date(dCur.getTime()+315360000000);
+        	var dSes=new Date(dCur.getTime());
+        	WT.co_f=WT.vt_sid=WT.vt_f=WT.vt_f_a=WT.vt_f_s=WT.vt_f_d=WT.vt_f_tlh=WT.vt_f_tlv="";
+        	if (document.cookie.indexOf(name+"=")==-1){
+        		if ((typeof(gWtId)!="undefined")&&(gWtId!="")){
+        			WT.co_f=gWtId;
+        		}
+        		else if ((typeof(gTempWtId)!="undefined")&&(gTempWtId!="")){
+        			WT.co_f=gTempWtId;
+        			WT.vt_f="1";
+        		}
+        		else{
+        			WT.co_f="2";
+        			var cur=dCur.getTime().toString();
+        			for (var i=2;i<=(32-cur.length);i++){
+        				WT.co_f+=Math.floor(Math.random()*16.0).toString(16);
+        			}
+        			WT.co_f+=cur;
+        			WT.vt_f="1";
+        		}
+        		if (typeof(gWtAccountRollup)=="undefined"){
+        			WT.vt_f_a="1";
+        		}
+        		WT.vt_f_s=WT.vt_f_d="1";
+        		WT.vt_f_tlh=WT.vt_f_tlv="0";
+        	}
+        	else{
+        		var c=dcsGetCookie(name);
+        		var id=dcsGetIdCrumb(c,"id");
+        		var lv=parseInt(dcsGetCrumb(c,"lv"));
+        		var ss=parseInt(dcsGetCrumb(c,"ss"));
+        		if ((id==null)||(id=="null")||isNaN(lv)||isNaN(ss)){
+        			return;
+        		}
+        		WT.co_f=id;
+        		var dLst=new Date(lv);
+        		WT.vt_f_tlh=Math.floor((dLst.getTime()-adj)/1000);
+        		dSes.setTime(ss);
+        		if ((dCur.getTime()>(dLst.getTime()+1800000))||(dCur.getTime()>(dSes.getTime()+28800000))){
+        			WT.vt_f_tlv=Math.floor((dSes.getTime()-adj)/1000);
+        			dSes.setTime(dCur.getTime());
+        			WT.vt_f_s="1";
+        		}
+        		if ((dCur.getDay()!=dLst.getDay())||(dCur.getMonth()!=dLst.getMonth())||(dCur.getYear()!=dLst.getYear())){
+        			WT.vt_f_d="1";
+        		}
+        	}
+        	WT.co_f=escape(WT.co_f);
+        	WT.vt_sid=WT.co_f+"."+(dSes.getTime()-adj);
+        	var expiry="; expires="+dExp.toGMTString();
+        	var cur=dCur.getTime().toString();
+        	var ses=dSes.getTime().toString();
+        	document.cookie=name+"="+"id="+WT.co_f+":lv="+cur+":ss="+ses+expiry+"; path=/"+(((typeof(gFpcDom)!="undefined")&&(gFpcDom!=""))?("; domain="+gFpcDom):(""));
+        	var rc=dcsIsFpcSet(name,WT.co_f,cur,ses);
+        	if (rc!=0){
+        		WT.co_f=WT.vt_sid=WT.vt_f_s=WT.vt_f_d=WT.vt_f_tlh=WT.vt_f_tlv="";
+        		WT.vt_f=WT.vt_f_a=rc;
+        	}
+        }
+        
+        // Code section for Use the new first-party cookie generated with this tag.
+        var gFpc="WT_FPC";
+        var gConvert=true;
+        
+        function dcsAdv(){
+        	dcsFunc("dcsET");
+        	dcsFunc("dcsCookie");
+        	dcsFunc("dcsAdSearch");
+        	dcsFunc("dcsTP");
+        } 
       
       //-->
 </script>
 <!-- END OF SDC Advanced Tracking Code -->
 
 <!-- START OF SmartSource Data Collector TAG -->
-<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
-<!-- $DateTime: 2005/12/16 12:16:18 $ -->
+<!-- Copyright (c) 1996-2008 WebTrends Inc.  All rights reserved. -->
+<!-- V8.0 -->
+<!-- $DateTime: 2007/03/05 13:33:14 $ -->
+<!-- ----------------------------------------------------------------------------------- -->
+<!-- Warning: The two script blocks below must remain inline. Moving them to an external -->
+<!-- JavaScript include file can cause serious problems with cross-domain tracking.      -->
+<!-- ----------------------------------------------------------------------------------- -->
 <script type="text/javascript" language="JavaScript"><!--
       var gDomain="statse.webtrendslive.com";
       var gDcsId="dcsptou5of9xjy8pgpa4kos1s_1q6g";
@@ -677,256 +1364,296 @@ Incisive Media Limited, Haymarket House, 28-29 Haymarket, London SW1Y 4RX, is a 
       //-->
 </script>
 <script type="text/javascript" language="JavaScript"><!--
-      var gImages=new Array;
-      var gIndex=0;
-      var DCS=new Object();
-      var WT=new Object();
-      var DCSext=new Object();
-      var gQP=new Array();
-      var gI18n=false;
-      if (window.RegExp){
-      	var RE={"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
-      	var I18NRE={"%25":/\%/g};
-      }
-      
-      // Add customizations here
-
-      function dcsMultiTrack() {
-          if(arguments.length%2==0) {
-             for(var i=0;i<arguments.length;i+=2) {
-                 if(arguments[i].indexOf('WT.')==0) {
-                    WT[arguments[i].substring(3)] = arguments[i+1];
-                 } else if (arguments[i].indexOf('DCS.')==0) {
-                    DCS[arguments[i].substring(4)] = arguments[i+1];
-                 } else if (arguments[i].indexOf('DCSext.')==0) {
-                    DCSext[arguments[i].substring(7)] = arguments[i+1];
-                 }
-              }
-              var dCurrent=new Date();
-              DCS.dcsdat=dCurrent.getTime();
-              dcsTag();
-          }
-      }
-      // End dcsMultiTrack Function
-      
-      function dcsVar(){
-      	var dCurrent=new Date();
-      	WT.tz=dCurrent.getTimezoneOffset()/60*-1;
-      	if (WT.tz==0){
-      		WT.tz="0";
-      	}
-      	WT.bh=dCurrent.getHours();
-      	WT.ul=navigator.appName=="Netscape"?navigator.language:navigator.userLanguage;
-      	if (typeof(screen)=="object"){
-      		WT.cd=navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth;
-      		WT.sr=screen.width+"x"+screen.height;
-      	}
-      	if (typeof(navigator.javaEnabled())=="boolean"){
-      		WT.jo=navigator.javaEnabled()?"Yes":"No";
-      	}
-      	if (document.title){
-      		WT.ti=gI18n?dcsEscape(dcsEncode(document.title),I18NRE):document.title;
-      	}
-      	WT.js="Yes";
-      	WT.jv=dcsJV();
-      	if (document.body&&document.body.addBehavior){
-      		document.body.addBehavior("#default#clientCaps");
-      		if (document.body.connectionType){
-      			WT.ct=document.body.connectionType;
-      		}
-      		document.body.addBehavior("#default#homePage");
-      		WT.hp=document.body.isHomePage(location.href)?"1":"0";
-      	}
-      	if (parseInt(navigator.appVersion)>3){
-      		if ((navigator.appName=="Microsoft Internet Explorer")&&document.body){
-      			WT.bs=document.body.offsetWidth+"x"+document.body.offsetHeight;
-      		}
-      		else if (navigator.appName=="Netscape"){
-      			WT.bs=window.innerWidth+"x"+window.innerHeight;
-      		}
-      	}
-      	WT.fi="No";
-      	if (window.ActiveXObject){
-      		for(var i=10;i>0;i--){
-      			try{
-      				var flash = new ActiveXObject("ShockwaveFlash.ShockwaveFlash."+i);
-      				WT.fi="Yes";
-      				WT.fv=i+".0";
-      				break;
-      			}
-      			catch(e){
-      			}
-      		}
-      	}
-      	else if (navigator.plugins&&navigator.plugins.length){
-      		for (var i=0;i<navigator.plugins.length;i++){
-      			if (navigator.plugins[i].name.indexOf('Shockwave Flash')!=-1){
-      				WT.fi="Yes";
-      				WT.fv=navigator.plugins[i].description.split(" ")[2];
-      				break;
-      			}
-      		}
-      	}
-      	if (gI18n){
-      		WT.em=(typeof(encodeURIComponent)=="function")?"uri":"esc";
-      		if (typeof(document.defaultCharset)=="string"){
-      			WT.le=document.defaultCharset;
-      		} 
-      		else if (typeof(document.characterSet)=="string"){
-      			WT.le=document.characterSet;
-      		}
-      	}
-      	WT.sp="@@SPLITVALUE@@";
-      	DCS.dcsdat=dCurrent.getTime();
-      	DCS.dcssip=window.location.hostname;
-      	DCS.dcsuri=window.location.pathname;
-      	if (window.location.search){
-      		DCS.dcsqry=window.location.search;
-      		if (gQP.length>0){
-      			for (var i=0;i<gQP.length;i++){
-      				var pos=DCS.dcsqry.indexOf(gQP[i]);
-      				if (pos!=-1){
-      					var front=DCS.dcsqry.substring(0,pos);
-      					var end=DCS.dcsqry.substring(pos+gQP[i].length,DCS.dcsqry.length);
-      					DCS.dcsqry=front+end;
-      				}
-      			}
-      		}
-      	}
-      	if ((window.document.referrer!="")&&(window.document.referrer!="-")){
-      		if (!(navigator.appName=="Microsoft Internet Explorer"&&parseInt(navigator.appVersion)<4)){
-      			DCS.dcsref=gI18n?dcsEscape(window.document.referrer, I18NRE):window.document.referrer;
-      		}
-      	}
-      }
-      
-      function dcsA(N,V){
-      	return "&"+N+"="+dcsEscape(V, RE);
-      }
-      
-      function dcsEscape(S, REL){
-      	if (typeof(REL)!="undefined"){
-      		var retStr = new String(S);
-      		for (R in REL){
-      			retStr = retStr.replace(REL[R],R);
-      		}
-      		return retStr;
-      	}
-      	else{
-      		return escape(S);
-      	}
-      }
-      
-      function dcsEncode(S){
-      	return (typeof(encodeURIComponent)=="function")?encodeURIComponent(S):escape(S);
-      }
-      
-      function dcsCreateImage(dcsSrc){
-      	if (document.images){
-      		gImages[gIndex]=new Image;
-      		if ((typeof(gHref)!="undefined")&&(gHref.length>0)){
-      			gImages[gIndex].onload=gImages[gIndex].onerror=dcsLoadHref;
-      		}
-      		gImages[gIndex].src=dcsSrc;
-      		gIndex++;
-      	}
-      	else{
-      		document.write('<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="'+dcsSrc+'">');
-      	}
-      }
-      
-      function dcsMeta(){
-      	var elems;
-      	if (document.all){
-      		elems=document.all.tags("meta");
-      	}
-      	else if (document.documentElement){
-      		elems=document.getElementsByTagName("meta");
-      	}
-      	if (typeof(elems)!="undefined"){
-      		for (var i=1;i<=elems.length;i++){
-      			var meta=elems.item(i-1);
-      			if (meta.name){
-      				if (meta.name.indexOf('WT.')==0){
-      					WT[meta.name.substring(3)]=(gI18n&&(meta.name.indexOf('WT.ti')==0))?dcsEscape(dcsEncode(meta.content),I18NRE):meta.content;
-      				}
-      				else if (meta.name.indexOf('DCSext.')==0){
-      					DCSext[meta.name.substring(7)]=meta.content;
-      				}
-      				else if (meta.name.indexOf('DCS.')==0){
-      					DCS[meta.name.substring(4)]=(gI18n&&(meta.name.indexOf('DCS.dcsref')==0))?dcsEscape(meta.content,I18NRE):meta.content;
-      				}
-      			}
-      		}
-      	}
-      }
-      
-      function dcsTag(){
-      	if (document.cookie.indexOf("WTLOPTOUT=")!=-1){
-      		return;
-      	}
-      	var P="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+(gDcsId==""?'':'/'+gDcsId)+"/dcs.gif?";
-      	for (N in DCS){
-      		if (DCS[N]) {
-      			P+=dcsA(N,DCS[N]);
-      		}
-      	}
-      	for (N in WT){
-      		if (WT[N]) {
-      			P+=dcsA("WT."+N,WT[N]);
-      		}
-      	}
-      	for (N in DCSext){
-      		if (DCSext[N]) {
-      			P+=dcsA(N,DCSext[N]);
-      		}
-      	}
-      	if (P.length>2048&&navigator.userAgent.indexOf('MSIE')>=0){
-      		P=P.substring(0,2040)+"&WT.tu=1";
-      	}
-      	dcsCreateImage(P);
-      }
-      
-      function dcsJV(){
-      	var agt=navigator.userAgent.toLowerCase();
-      	var major=parseInt(navigator.appVersion);
-      	var mac=(agt.indexOf("mac")!=-1);
-      	var nn=((agt.indexOf("mozilla")!=-1)&&(agt.indexOf("compatible")==-1));
-      	var nn4=(nn&&(major==4));
-      	var nn6up=(nn&&(major>=5));
-      	var ie=((agt.indexOf("msie")!=-1)&&(agt.indexOf("opera")==-1));
-      	var ie4=(ie&&(major==4)&&(agt.indexOf("msie 4")!=-1));
-      	var ie5up=(ie&&!ie4);
-      	var op=(agt.indexOf("opera")!=-1);
-      	var op5=(agt.indexOf("opera 5")!=-1||agt.indexOf("opera/5")!=-1);
-      	var op6=(agt.indexOf("opera 6")!=-1||agt.indexOf("opera/6")!=-1);
-      	var op7up=(op&&!op5&&!op6);
-      	var jv="1.1";
-      	if (nn6up||op7up){
-      		jv="1.5";
-      	}
-      	else if ((mac&&ie5up)||op6){
-      		jv="1.4";
-      	}
-      	else if (ie5up||nn4||op5){
-      		jv="1.3";
-      	}
-      	else if (ie4){
-      		jv="1.2";
-      	}
-      	return jv;
-      }
-      
-      function dcsFunc(func){
-      	if (typeof(window[func])=="function"){
-      		window[func]();
-      	}
-      }
-      
-      dcsVar();
-      dcsMeta();
-      dcsFunc("dcsAdv");
-      dcsTag();
+       var gImages=new Array;
+        var gIndex=0;
+        var DCS=new Object();
+        var WT=new Object();
+        var DCSext=new Object();
+        var gQP=new Array();
+        var gI18n=false;
+        if (window.RegExp){
+        	var RE=gI18n?{"%25":/\%/g}:{"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g,"%22":/\"/g,"%7F":/\x7F/g,"%A0":/\xA0/g};
+        	if (gI18n){
+        		var EXRE=/dcs(uri)|(ref)|(aut)|(met)|(sta)|(sip)|(pro)|(byt)|(dat)|(p3p)|(cfg)|(redirect)|(cip)/i;
+        	}
+        }
+        
+        // Add customizations here
+        
+        function dcsVar(){
+        	var dCurrent=new Date();
+        	WT.tz=(dCurrent.getTimezoneOffset()/60*-1)||"0";
+        	WT.bh=dCurrent.getHours()||"0";
+        	WT.ul=navigator.appName=="Netscape"?navigator.language:navigator.userLanguage;
+        	if (typeof(screen)=="object"){
+        		WT.cd=navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth;
+        		WT.sr=screen.width+"x"+screen.height;
+        	}
+        	if (typeof(navigator.javaEnabled())=="boolean"){
+        		WT.jo=navigator.javaEnabled()?"Yes":"No";
+        	}
+        	if (document.title){
+        		if (window.RegExp){
+        			var tire=new RegExp("^"+window.location.protocol+"//"+window.location.hostname+"\\s-\\s");
+        			WT.ti=document.title.replace(tire,"");
+        		}
+        		else{
+        			WT.ti=document.title;
+        		}
+        	}
+        	WT.js="Yes";
+        	WT.jv=dcsJV();
+        	if (document.body&&document.body.addBehavior){
+        		document.body.addBehavior("#default#clientCaps");
+        		WT.ct=document.body.connectionType||"unknown";
+        		document.body.addBehavior("#default#homePage");
+        		WT.hp=document.body.isHomePage(location.href)?"1":"0";
+        	}
+        	else{
+        		WT.ct="unknown";
+        	}
+        	if (document.all){
+        		WT.bs=document.body?document.body.offsetWidth+"x"+document.body.offsetHeight:"unknown";
+        	}
+        	else{
+        		WT.bs=window.innerWidth+"x"+window.innerHeight;
+        	}
+        	WT.fi="No";
+        	if (window.ActiveXObject){
+        		for(var i=10;i>0;i--){
+        			try{
+        				var flash = new ActiveXObject("ShockwaveFlash.ShockwaveFlash."+i);
+        				WT.fi="Yes";
+        				WT.fv=i+".0";
+        				break;
+        			}
+        			catch(e){
+        			}
+        		}
+        	}
+        	else if (navigator.plugins&&navigator.plugins.length){
+        		for (var i=0;i<navigator.plugins.length;i++){
+        			if (navigator.plugins[i].name.indexOf('Shockwave Flash')!=-1){
+        				WT.fi="Yes";
+        				WT.fv=navigator.plugins[i].description.split(" ")[2];
+        				break;
+        			}
+        		}
+        	}
+        	if (gI18n){
+        		if (typeof(document.defaultCharset)=="string"){
+        			WT.le=document.defaultCharset;
+        		} 
+        		else if (typeof(document.characterSet)=="string"){
+        			WT.le=document.characterSet;
+        		}
+        		else{
+        			WT.le="unknown";
+        		}
+        	}
+        	WT.tv="8.0.3";
+        	WT.sp="@@SPLITVALUE@@";
+        	DCS.dcsdat=dCurrent.getTime();
+        	DCS.dcssip=window.location.hostname;
+        	DCS.dcsuri=window.location.pathname;
+        	if (window.location.search){
+        		DCS.dcsqry=window.location.search;
+        		if (gQP.length>0){
+        			for (var i=0;i<gQP.length;i++){
+        				var pos=DCS.dcsqry.indexOf(gQP[i]);
+        				if (pos!=-1){
+        					var front=DCS.dcsqry.substring(0,pos);
+        					var end=DCS.dcsqry.substring(pos+gQP[i].length,DCS.dcsqry.length);
+        					DCS.dcsqry=front+end;
+        				}
+        			}
+        		}
+        	}
+        	if ((window.document.referrer!="")&&(window.document.referrer!="-")){
+        		if (!(navigator.appName=="Microsoft Internet Explorer"&&parseInt(navigator.appVersion)<4)){
+        			DCS.dcsref=window.document.referrer;
+        		}
+        	}
+        }
+        
+        function dcsA(N,V){
+        	if (gI18n&&!EXRE.test(N)){
+        		if (N=="dcsqry"){
+        			var newV="";
+        			var params=V.substring(1).split("&");
+        			for (var i=0;i<params.length;i++){
+        				var pair=params[i];
+        				var pos=pair.indexOf("=");
+        				if (pos!=-1){
+        					var key=pair.substring(0,pos);
+        					var val=pair.substring(pos+1);
+        					if (i!=0){
+        						newV+="&";
+        					}
+        					newV+=key+"="+dcsEncode(val);
+        				}
+        			}
+        			V=V.substring(0,1)+newV;
+        		}
+        		else{
+        			V=dcsEncode(V);
+        		}
+        	}
+        	return "&"+N+"="+dcsEscape(V, RE);
+        }
+        
+        function dcsEscape(S, REL){
+        	if (typeof(REL)!="undefined"){
+        		S=S.toString();
+        		for (var R in REL){
+        			S=S.replace(REL[R],R);
+        		}
+        		return S;
+        	}
+        	else{
+        		return escape(S);
+        	}
+        }
+        
+        function dcsEncode(S){
+        	return (typeof(encodeURIComponent)=="function")?encodeURIComponent(S):escape(S);
+        }
+        
+        function dcsCreateImage(dcsSrc){
+        	if (document.images){
+        		gImages[gIndex]=new Image;
+        		gImages[gIndex].src=dcsSrc;
+        		gIndex++;
+        	}
+        	else{
+        		document.write('<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="'+dcsSrc+'">');
+        	}
+        }
+        
+        function dcsMeta(){
+        	var elems;
+        	if (document.all){
+        		elems=document.all.tags("meta");
+        	}
+        	else if (document.documentElement){
+        		elems=document.getElementsByTagName("meta");
+        	}
+        	if (typeof(elems)!="undefined"){
+        		var length=elems.length;
+        		for (var i=0;i<length;i++){
+        			var name=elems.item(i).name;
+        			var content=elems.item(i).content;
+        			var equiv=elems.item(i).httpEquiv;
+        			if (name.length>0){
+        				if (name.indexOf("WT.")==0){
+        					WT[name.substring(3)]=content;
+        				}
+        				else if (name.indexOf("DCSext.")==0){
+        					DCSext[name.substring(7)]=content;
+        				}
+        				else if (name.indexOf("DCS.")==0){
+        					DCS[name.substring(4)]=content;
+        				}
+        			}
+        		}
+        	}
+        }
+        
+        function dcsTag(){
+        	if (document.cookie.indexOf("WTLOPTOUT=")!=-1){
+        		return;
+        	}
+        	var P="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+(gDcsId==""?'':'/'+gDcsId)+"/dcs.gif?";
+        	if (gI18n){
+        		WT.dep="";
+        	}
+        	for (var N in DCS){
+        		if (DCS[N]){
+        			P+=dcsA(N,DCS[N]);
+        		}
+        	}
+        	var keys=["co_f","vt_sid","vt_f_tlv"];
+        	for (var i=0;i<keys.length;i++){
+        		var key=keys[i];
+        		if (WT[key]){
+        			P+=dcsA("WT."+key,WT[key]);
+        			delete WT[key];
+        		}
+        	}
+        	for (N in WT){
+        		if (WT[N]){
+        			P+=dcsA("WT."+N,WT[N]);
+        		}
+        	}
+        	for (N in DCSext){
+        		if (DCSext[N]){
+        			if (gI18n){
+        				WT.dep=(WT.dep.length==0)?N:(WT.dep+";"+N);
+        			}
+        			P+=dcsA(N,DCSext[N]);
+        		}
+        	}
+        	if (gI18n&&(WT.dep.length>0)){
+        		P+=dcsA("WT.dep",WT.dep);
+        	}
+        	if (P.length>2048&&navigator.userAgent.indexOf('MSIE')>=0){
+        		P=P.substring(0,2040)+"&WT.tu=1";
+        	}
+        	dcsCreateImage(P);
+        }
+        
+        function dcsJV(){
+        	var agt=navigator.userAgent.toLowerCase();
+        	var major=parseInt(navigator.appVersion);
+        	var mac=(agt.indexOf("mac")!=-1);
+        	var ff=(agt.indexOf("firefox")!=-1);
+        	var ff0=(agt.indexOf("firefox/0.")!=-1);
+        	var ff10=(agt.indexOf("firefox/1.0")!=-1);
+        	var ff15=(agt.indexOf("firefox/1.5")!=-1);
+        	var ff2up=(ff&&!ff0&&!ff10&!ff15);
+        	var nn=(!ff&&(agt.indexOf("mozilla")!=-1)&&(agt.indexOf("compatible")==-1));
+        	var nn4=(nn&&(major==4));
+        	var nn6up=(nn&&(major>=5));
+        	var ie=((agt.indexOf("msie")!=-1)&&(agt.indexOf("opera")==-1));
+        	var ie4=(ie&&(major==4)&&(agt.indexOf("msie 4")!=-1));
+        	var ie5up=(ie&&!ie4);
+        	var op=(agt.indexOf("opera")!=-1);
+        	var op5=(agt.indexOf("opera 5")!=-1||agt.indexOf("opera/5")!=-1);
+        	var op6=(agt.indexOf("opera 6")!=-1||agt.indexOf("opera/6")!=-1);
+        	var op7up=(op&&!op5&&!op6);
+        	var jv="1.1";
+        	if (ff2up){
+        		jv="1.7";
+        	}
+        	else if (ff15){
+        		jv="1.6";
+        	}
+        	else if (ff0||ff10||nn6up||op7up){
+        		jv="1.5";
+        	}
+        	else if ((mac&&ie5up)||op6){
+        		jv="1.4";
+        	}
+        	else if (ie5up||nn4||op5){
+        		jv="1.3";
+        	}
+        	else if (ie4){
+        		jv="1.2";
+        	}
+        	return jv;
+        }
+        
+        function dcsFunc(func){
+        	if (typeof(window[func])=="function"){
+        		window[func]();
+        	}
+        }
+        
+        dcsVar();
+        dcsMeta();
+        dcsFunc("dcsAdv");
+        dcsTag();
+       
     //-->
 </script>
 <noscript>
