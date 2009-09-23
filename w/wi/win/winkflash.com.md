@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winkflash.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618112257id_/http%3A//www.winkflash.com/content/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winkflash.com privacy policy that was archived on 2009-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090923190411id_/http%3A//www.winkflash.com/content/privacy.asp) for the most accurate reproduction.*
 
 # winkflash ;) your privacy is our top priority
 
@@ -48,7 +48,7 @@ What Information is Collected
 When creating an account we collect contact information, such as your name and email address. When making a purchase we will collect shipping and billing address, phone number and credit card information. We collect this information in order to create an online account to house your digital photos and to allow you to purchase items from the website. 
 
 Access to Personally Identifiable Information  
-If your personally identifiable information changes, or if you no longer desire our service, you may update or deactivate your account by making the change on our account information page or by [contacting us.](https://web.archive.org/web/20090618112257id_/http%3A//www.winkflash.com/content/contact.asp)
+If your personally identifiable information changes, or if you no longer desire our service, you may update or deactivate your account by making the change on our account information page or by [contacting us.](https://web.archive.org/web/20090923190411id_/http%3A//www.winkflash.com/content/contact.asp)
 
 Changes to this Policy  
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage. 
