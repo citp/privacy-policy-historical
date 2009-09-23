@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tcgplayer.com privacy policy that was archived on 2009-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090515143153id_/http%3A//www.tcgplayer.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcgplayer.com privacy policy that was archived on 2009-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090923201540id_/http%3A//www.tcgplayer.com/privacy.asp) for the most accurate reproduction.*
 
 # TCGplayer.com: Tradable and Collectible Game Player
 
@@ -45,7 +45,7 @@ In the course of serving advertisements to this site, our third-party ad server,
 
 **Third Party Advertising**
 
-We use Gorilla Nation Media, Max WorldWide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please <http://www.networkadvertising.org/optout_nonppii.asp>   
+We use third-party advertising companies to serve ads when you visit our Web site. The third-party advertising technology that we use on this Web site uses information derived from your visits to this site to target advertising within this site. In addition, our advertisers may use other third-party advertising technology to target advertising on this site and other sites. In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed your browser. In addition, we use Web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising. Web beacons enable us to recognize a browser's cookie when a browser visits this site, to learn which banner ads bring users to our Web site and to deliver more relevant advertising. To "opt-out," please click here. http://www.doubleclick.com/privacy/index.aspx.   
  
 
 **Registration Forms**
@@ -110,13 +110,23 @@ All rights reserved.
 |  | 
 
   
-| LATEST WoW TCG ARTICLE  
+
+
+| LATEST Magic ARTICLE  
 ---  
   
-|  **[RC Prep: The Final Push](http://wow.tcgplayer.com/db/article.asp?ID=3086)**  
+|  **[Endearing Pessimism](http://magic.tcgplayer.com/db/article.asp?ID=8555)**  
 ---  
   
-Realm Championships is now less than a week away, and it's time for finishing preparations. During this final week of prep you should take the time to familiarize yourself with your deck and its matchups.   
+Do you know how many “legit” builds of 5cc there are? Thousands and thousands. Do you know how many there should be? Two, maybe three, for specific metagames and disagreements over the last few cards.   
+  
+LATEST WoW TCG ARTICLE  
+---  
+  
+|  **[Druid Tokenz](http://wow.tcgplayer.com/db/article.asp?ID=3267)**  
+---  
+  
+Anyone who knows me and the rest of the Oregon crew knows we love our Druids. Druid is the king of the hat trick. It's good at everything and a master of nothing… except for making tokens.   
   
 LATEST DREAMBLADE ARTICLE  
 ---  
