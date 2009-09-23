@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centralpacificbank.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418044909id_/http%3A//www.centralpacificbank.com/content/additional/privacypolicy.shtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centralpacificbank.com privacy policy that was archived on 2009-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090923150542id_/http%3A//www.centralpacificbank.com/content/additional/privacypolicy.shtm) for the most accurate reproduction.*
 
 # Central Pacific Bank - Privacy Policy
 
@@ -148,7 +148,7 @@ If you have a joint account, we will treat an opt-out direction by any account o
 > 
 > 3This Privacy Policy applies to those companies in Central Pacific Financial Corp. that offer consumer products and services. These companies include Central Pacific Bank and Central Pacific HomeLoans, Inc., which we refer to collectively as “we,” “us,” or “our.”
 
-This privacy policy may change from time to time. You may obtain the most current copy at [Central Pacific Bank branches](https://web.archive.org/web/20090418044909id_/http%3A//www.centralpacificbank.com/content/branchandatm/index.shtm) or visit our web site.
+This privacy policy may change from time to time. You may obtain the most current copy at [Central Pacific Bank branches](https://web.archive.org/web/20090923150542id_/http%3A//www.centralpacificbank.com/content/branchandatm/index.shtm) or visit our web site.
 
 Effective Date  
 This privacy policy is effective as of September 2008.
