@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canvasondemand.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618141420id_/http%3A//www.canvasondemand.com/info-privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canvasondemand.com privacy policy that was archived on 2009-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090923180114id_/http%3A//www.canvasondemand.com/info-privacy.asp) for the most accurate reproduction.*
 
 # Photo To Painting, Canvas Photo Prints, Printing Canvas
 
