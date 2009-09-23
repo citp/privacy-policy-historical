@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the japantrendshop.com privacy policy that was archived on 2009-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090327141702id_/http%3A//www.japantrendshop.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japantrendshop.com privacy policy that was archived on 2009-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090924012052id_/http%3A//www.japantrendshop.com/privacy-policy-i-2.html) for the most accurate reproduction.*
 
 # Japan Trend Shop
 
-| Privacy Notice |   
----|---  
+|  |   
+---  
   
+
+
 **Privacy Policy**
 
 Last modified: September 03, 2008 
