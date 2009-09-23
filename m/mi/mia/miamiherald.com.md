@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the miamiherald.com privacy policy that was archived on 2008-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081112221241id_/http%3A//www.miamiherald.com/825/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miamiherald.com privacy policy that was archived on 2009-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090923173022id_/http%3A//www.miamiherald.com/825/index.html) for the most accurate reproduction.*
 
-# Privacy Policy - MiamiHerald.com
+# Privacy Policy | MiamiHerald.com
 
 ##### Effective Date: October 15th 2008.
 
