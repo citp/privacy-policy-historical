@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the nigeriannation.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224133019id_/http%3A//www.nigeriannation.com/legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nigeriannation.com privacy policy that was archived on 2009-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090923163658id_/http%3A//nigeriannation.com/legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Statement For Nigerian Nation - NigerianNation.Com Web Site
+# Nigerian Nation | Privacy Statement For NigerianNation.Com
 
-|  | 
+  
 
-**NigerianNation.Com Privacy Policy**  
-NigerianNation.Com offers an online place to meet friends. This Privacy Policy is intended to inform you of NigerianNation.Com's policies and practices regarding the collection, use and disclosure of any Personal Information you submit to us through our Website.
+
+This Privacy Policy is intended to inform you of NigerianNation.Com's policies and practices regarding the collection, use and disclosure of any Personal Information you submit to us through our Website.
 
 NigerianNation.Com ("NigerianNation.Com", "us" or "we") respects the privacy of the visitors to its Website, the home page of which is located at http://www.NigerianNation.Com ("Website"). 
 
@@ -83,12 +83,9 @@ Our provision of a link to any other website or location is for your convenience
 We do not intentionally gather Personal Information about visitors who are under the age of 13. 
 
 **Contact Us**  
-Should you have any questions or concerns regarding this Privacy Policy, please contact us:
-
-            NigerianNation.Com Networks, Inc.  
-            support@NigerianNation.Com
+Should you have any questions or concerns regarding this Privacy Policy, please [contact us](https://web.archive.org/contacts/contacts.aspx). 
 
 **Changes to this Privacy Policy**  
 NigerianNation.Com may update this policy from time to time. We will notify you about significant changes in the way we treat Personal Information by sending a notice to the primary email address specified in your NigerianNation.Com account or by placing a prominent notice on our Website. If you object to any such changes, you must cease using our Website. Continued use of our Website following notice of any such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
 
-**This Policy was last updated in September 7, 2006**
+| 
