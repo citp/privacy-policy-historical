@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the messengeroo.com privacy policy that was archived on 2009-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090408084806id_/http%3A//www.messengeroo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the messengeroo.com privacy policy that was archived on 2009-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090923181346id_/http%3A//www.messengeroo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MessengeRoo
 
