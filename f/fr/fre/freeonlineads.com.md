@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeonlineads.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618204322id_/http%3A//www.freeonlineads.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeonlineads.com privacy policy that was archived on 2009-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090923103558id_/http%3A//www.freeonlineads.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
