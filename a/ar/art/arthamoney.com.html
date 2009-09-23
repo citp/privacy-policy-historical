@@ -1,0 +1,362 @@
+<!--The following is the downloaded HTML source of the arthamoney.com privacy policy that was archived on 2009-09-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090923134928id_/http%3A//www.arthamoney.com/PrivacyPolicy.htm) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+    <link rel="shortcut icon" href="http://www.arthamoney.com/favicon.ico">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <title>Privacy Policy</title>
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <link href="http://www.arthamoney.com/styles/newdefault.css" rel="stylesheet" type="text/css">
+
+    <script type="text/javascript" src="http://www.arthamoney.com/script/URLContainsWWW.js"></script>
+
+    <!-- Start of StatCounter Code -->
+
+    <script type="text/javascript">
+        var sc_project=4944419;
+        var sc_invisible=1;
+        var sc_partition=57;
+        var sc_click_stat=1;
+        var sc_security="3e6be697";
+    </script>
+
+    <script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script>
+
+    <noscript>
+        <div class="statcounter">
+            <a title="hit counter" href="http://www.statcounter.com/free_hit_counter.html" target="_blank">
+                <img class="statcounter" src="http://c.statcounter.com/4944419/0/3e6be697/1/" alt="hit counter">
+            </a>
+        </div>
+    </noscript>
+    <!-- End of StatCounter Code -->
+
+    <script type="text/javascript">
+    window.onunload = function(){}; 
+    function SelectTab(curObj)
+    {
+        document.getElementById(curObj).className  = "new_tabClassSelect";
+    }
+    
+    function unSelectTab(curObj,intVar)
+    {
+    if(intVar == 1)
+    {
+        document.getElementById(curObj).className  = "new_tabClassUnSelect";
+    }
+    }
+function  IsValidLogin()
+        {
+           if(document.getElementById('txtUserId').value == '')
+           {
+                alert('Enter the Login ID');
+                document.getElementById('txtUserId').focus();
+           }
+          else if(document.getElementById('txtpassword').value == '')
+           {
+                alert('Enter the password');
+                document.getElementById('txtpassword').focus();
+           }
+           else
+           {
+                var UserId = document.getElementById('txtUserId').value;
+                var Password = document.getElementById('txtpassword').value;
+                var xmlObj = GetXmlHttpObject();
+                xmlObj.open("GET","http://www.arthamoney.com/LoginCheck.aspx?UserId=" + UserId + "&Password=" + Password + "&dummy=" + new Date().getTime(),false);
+                xmlObj.send(null);
+                
+                var UserName = xmlObj.responseText;
+
+                document.getElementById("dvDummy").style.display = "none";
+
+                if(UserName != "" && UserName != "<h1>Length Required</h1>")
+                {
+                   document.getElementById("dvLogin").style.display = "none";
+                   document.getElementById("dvUserName").style.display = "";
+                   document.getElementById("dvWelcomeName").innerHTML = "Welcome " + UserName;
+                }
+                else
+                {
+                   document.getElementById("dvLogin").style.display = "";
+                   document.getElementById("dvUserName").style.display = "none";
+                   alert("Invalid Login ID or Password, Please Try Again.");
+                   document.getElementById('txtUserId').value = "";
+                   document.getElementById('txtpassword').value = "";
+                   document.getElementById("txtUserId").focus();
+                }
+           }
+        }   
+        
+        function IsExpiredSession()
+        {
+if(IsURLContainsWWW() == 0){return;};
+            var xmlObj = GetXmlHttpObject();
+
+var url = 'http://www.arthamoney.com/SessionCheck.aspx?dummy=' + new Date().getTime();
+            xmlObj.open("GET",url,false);
+
+            xmlObj.send(null);
+            
+            var UserName = xmlObj.responseText;
+            document.getElementById("dvDummy").style.display = "none";
+            if(UserName != "" && UserName != "<h1>Length Required</h1>")
+            {
+               document.getElementById("dvLogin").style.display = "none";
+               document.getElementById("dvUserName").style.display = "";
+               document.getElementById("dvWelcomeName").innerHTML = "Welcome " + UserName;
+            }
+            else
+            {
+               document.getElementById("dvLogin").style.display = "";
+               document.getElementById("dvUserName").style.display = "none";
+            }
+        }   
+       
+        function GetXmlHttpObject()
+        {
+            
+            var xmlHttp=null;
+            if(window.XMLHttpRequest)
+            {
+                // Firefox, Opera 8.0+, Safari
+                xmlHttp=new XMLHttpRequest();
+            }
+            else
+            {
+                xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+            }
+            return xmlHttp;
+        } 
+        function isEnterKey(evt)
+        {        
+            var charCode = (evt.which) ? evt.which : event.keyCode
+            if(charCode != 13)
+            {
+            
+            }
+            else
+            { 
+            IsValidLogin();
+            }
+        }
+
+    
+    </script>
+
+</head>
+<body onload="IsExpiredSession();">
+<table border="0" cellspacing="0" cellpadding="0" width="1000" align="center">
+<tbody>
+<tr>
+<td><!--Header Table--> 
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="width: 238px; vertical-align: top;">
+<table class="tblContentSide" style="width: 233px;" border="0">
+<tbody>
+<tr>
+<td style="height: 25px;"><img src="http://www.arthamoney.com/images/side_navigation_callus.gif" alt="" width="20" height="17"></td>
+<td class="Sidenavigation_text">080 - 46 000 000</td>
+</tr>
+<tr>
+<td style="height: 25px;"><img src="http://www.arthamoney.com/images/side_navigation_sms.gif" alt="" width="23" height="17"></td>
+<td class="Sidenavigation_text">"Artha" to 58888</td>
+</tr>
+<tr>
+<td style="height: 25px;"><a href="mailto:customer@arthamoney.com"> <img src="http://www.arthamoney.com/images/side_navigation_email.gif" alt="" height="17"></a></td>
+<td class="Sidenavigation_text"><a href="mailto:customer@arthamoney.com">customer@arthamoney.com</a></td>
+</tr>
+<tr>
+<td style="height: 25px;"><a href="http://www.arthamoney.com/Locator.aspx"> <img src="http://www.arthamoney.com/images/side_navigation_branche.gif" alt="" width="21" height="17"></a></td>
+<td class="Sidenavigation_text" style="height: 19px;"><a href="http://www.arthamoney.com/Locator.aspx">Branch                                                         Locator</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="vertical-align: middle; text-align: center;" width="524"><a href="http://www.arthamoney.com/default.aspx"> <img src="http://www.arthamoney.com/images/arthamoney_logo.gif" alt=""></a></td>
+<td style="text-align: center; width: 238px; vertical-align: top;">
+<div id="dvLogin" style="display: none">
+<table class="tblContentSide" style="vertical-align: top;" border="0">
+<tbody>
+<tr align="center">
+<td class="logintext_bold" style="height: 25px;" colspan="2" width="233"><a href="http://www.arthamoney.com/UserRegistration.aspx"> New User? Sign Up</a></td>
+</tr>
+<tr align="center">
+<td class="logintext_normal" style="text-align: left; height: 25px;">Login ID</td>
+<td><input id="txtUserId" style="width: 119px;" type="text"></td>
+</tr>
+<tr align="center">
+<td class="logintext_normal" style="text-align: left; height: 25px;">Password</td>
+<td><input id="txtpassword" style="width: 119px;" onkeydown="isEnterKey(event);" type="password"></td>
+</tr>
+<tr style="vertical-align: middle;" align="center">
+<td class="logintext_bold" style="height: 25px;" colspan="2"><input class="btn" onclick="IsValidLogin();" type="button" value="Login"> &nbsp;<a href="http://www.arthamoney.com/ForgotPassword.aspx"> Forgot Password?</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dvUserName" style="text-align: center; color: #242158; display: none">
+<table class="tblContentSide" style="vertical-align: top;" border="0">
+<tbody>
+<tr>
+<td style="text-align: center; height: 75px; width: 233px;">
+<div id="dvWelcomeName">&nbsp;</div>
+</td>
+</tr>
+<tr>
+<td style="height: 25px; font-size: 11px;" align="center"><a href="http://www.arthamoney.com/MyAccount.aspx">My Account</a>&nbsp;|&nbsp;<a href="http://www.arthamoney.com/MyTransactions.aspx">My                                                             Transactions</a>&nbsp;|&nbsp;<a href="http://www.arthamoney.com/Logout.aspx">Logout</a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div id="dvDummy" style="text-align: center; color: #242158;">&nbsp;</div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr class="blue">
+<table border="0" cellspacing="0" cellpadding="0" width="1000">
+<tbody>
+<tr>
+<td style="vertical-align: top" width="1000">
+<table border="0">
+<tbody>
+<tr>
+<td width="1000">
+<table border="0">
+<tbody style="text-align: left;">
+<tr style="text-align: left;">
+<td style="text-align: left;" width="1000">
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody style="text-align: left;">
+<tr style="text-align: left;">
+<td style="width: 762px; height: 30px;">
+<table border="0" cellspacing="2">
+<tbody>
+<tr>
+<td id="tdHome" class="new_tabClassUnSelect" onclick="window.location.href='http://www.arthamoney.com/default.aspx'" onmouseover="SelectTab('tdHome')" onmouseout="unSelectTab('tdHome',1)">Home</td>
+<td id="tdInsurance" class="new_tabClassUnSelect" onclick="window.location.href='http://www.arthamoney.com/insurance.htm'" onmouseover="SelectTab('tdInsurance')" onmouseout="unSelectTab('tdInsurance',1)">Insurance</td>
+<td id="tdInvest" class="new_tabClassUnSelect" onclick="window.location.href='https://www.Arthatrade.com'" onmouseover="SelectTab('tdInvest')" onmouseout="unSelectTab('tdInvest',1)">Investments</td>
+<td id="tdLoan" class="new_tabClassUnSelect" onclick="window.location.href='http://www.arthamoney.com/Loans/Home-Bank-Loan-India.htm'" onmouseover="SelectTab('tdLoan')" onmouseout="unSelectTab('tdLoan',1)">Personal Loans</td>
+<td id="tdReal" class="new_tabClassUnSelect" onclick="window.location.href='http://www.arthaproperty.com'" onmouseover="SelectTab('tdReal')" onmouseout="unSelectTab('tdReal',1)">Real Estate</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="text-align: left;">
+<td style="vertical-align: top; text-align: left;" width="1000">
+<table class="tblBigContent" border="0" cellspacing="0">
+<tbody>
+<tr>
+<th>Privacy Policy</th>
+</tr>
+<tr>
+<td>
+<p>Artha Financial Services Limited respects your privacy. This Privacy Policy gives you details about our data collection methods and usage. You are advised to please read the Privacy Policy carefully. By accessing the services provided by Artha Financial Services you agree to the collection and use of your data by Artha Financial Services in the manner provided in this Privacy Policy.</p>
+<p>What data is collected from you automatically?</p>
+<p>We will automatically receive and collect certain anonymous information in standard usage logs through our Web server, including computer–identification information obtained from "cookies," sent to your browser from a</p>
+<ul>
+<li>web server cookie stored on your hard drive</li>
+<li> an IP address, assigned to the computer which you use</li>
+<li> the domain server through which you access our service</li>
+<li> the type of computer you use</li>
+<li> the type of web browser you use</li>
+</ul>
+<p>Data which we collect from you</p>
+<ul>
+<li>name including first and last name</li>
+<li> email address</li>
+<li> mobile phone number and contact details (Res Ph. No. &amp; Office Ph. No.)</li>
+<li> ZIP/Postal code</li>
+<li> demographic profile (like your age, gender, marital status, type of employment, company name, postal address)</li>
+<li> preferences (such as housing loan, personal loan, education loan, loan amount, insurance, credit card)</li>
+<li> financial information (like annual income).</li>
+<li> Other information depending on the product selected(No. of years in current employment &amp; address, type of industry, year of establishment, annual turnover, total experience, value of property, type of property)</li>
+</ul>
+<p>While you can terminate your account at any time, your information may remain stored in archive on our servers even after the deletion or the termination of your account. Why we collect the information?</p>
+We use your personal information to:        
+<ul>
+<li>to get in touch with you when necessary</li>
+<li> to provide the services requested by you </li>
+<li> to preserve social history as governed by existing law or policy</li>
+</ul>
+<p>We use contact information internally to:</p>
+<ul>
+<li>direct our efforts for product improvement</li>
+<li> contact you as a survey respondent</li>
+<li> send you promotional materials from our contest sponsors or advertisers</li>
+</ul>
+<p>The Site contains links to other Web sites. We are not responsible for the privacy practices of such Web sites which we do not own, manage or control.</p>
+<p>The information is shared with</p>
+<p>We will not use or rent your financial information for any purpose other than to complete a transaction with you. By giving us the information you are giving us permission:</p>
+<ul>
+<li>to provide products or services you've requested</li>
+<li> to help investigate violations of Artha Financial Services terms of use or to defend against legal claims;</li>
+<li> to disclose the information under special circumstances such as compliance with applicable local law, court summons, court orders, requests/order from legal authorities or law enforcement agencies requiring such disclosure.</li>
+</ul>
+<p>We will send information about you to other companies or people when:</p>
+<ul>
+<li>We need to share your information to provide the product or service you have requested to enable them to contact you; or</li>
+<li> We have your consent from you to share the information;</li>
+</ul>
+<p>We need to share your information with certain service partners in order to respond to your queries / comments or to resolve service issues and to serve you better.</p>
+<p>Security</p>
+<ul>
+<li> Your account information is password–protected for your privacy and security</li>
+</ul>
+<p>Changes to this Privacy Policy</p>
+<ul>
+<li> We may amend this policy from time to time. If we make any substantial changes in the way we use your information we will notify you by posting a prominent announcement on our web pages.</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--Footer--> 
+<hr class="blue">
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="height: 45px; width: 1000px;">
+<p class="blue_menu" align="center"><a href="http://www.arthamoney.com/insurance.htm">Insurance</a> | <a href="http://www.arthamoney.com/Loans/Home-Bank-Loan-India.htm"> Personal Loans</a> | <a href="https://www.Arthatrade.com"> Investments</a> | <a href="http://www.arthaproperty.com">Real Estate </a> <br> <a href="http://www.arthamoney.com/aboutus.htm" target="_blank"> About Us</a> | <a href="http://www.arthamoney.com/careers.htm" target="_blank">Careers</a> | <a href="http://www.arthamoney.com/pressroom1.htm" target="_blank">Press Room</a> | <a href="http://www.arthamoney.com/sitemap.htm" target="_blank">Site Map</a> | <a href="http://www.arthamoney.com/OurPartners.htm" target="_blank">Our Partners</a> | <a href="http://www.arthamoney.com/Locator.aspx" target="_blank">Branch Locator</a><br> <a href="http://www.arthamoney.com/disclaimer.htm" target="_blank"> Disclaimer</a> | <a href="http://www.arthamoney.com/PrivacyPolicy.htm" target="_blank">Privacy Policy</a> | <a href="http://www.arthamoney.com/TermsAndConditions.htm" target="_blank">Terms &amp; Conditions</a><br> <span style="color: Black;">Artha Insurance Broking services limited , IRDA code number                                                 – DB 385/07</span></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- google analytics code start-->
+<script type="text/javascript"><!--
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+// --></script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript"><!--
+var pageTracker = _gat._getTracker("UA-3989558-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+// --></script>
+<!-- google analytics code end -->
+
+
+</body></html>
