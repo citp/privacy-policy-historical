@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the legallyindia.com privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522094421id_/http%3A//www.legallyindia.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legallyindia.com privacy policy that was archived on 2009-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090924191846id_/http%3A//www.legallyindia.com/index.php/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy policy | Legally India | News for Lawyers | Indian law firm and legal market news, analysis and more
 
-[Home](http://www.legallyindia.com/) Privacy Policy
+##  Privacy policy 
 
-[](http://www.legallyindia.com/index.php/component/option,com_mailto/link,aHR0cDovL3d3dy5sZWdhbGx5aW5kaWEuY29tL2luZGV4LnBocC9wcml2YWN5LXBvbGljeQ==/tmpl,component/ "E-mail") [](http://www.legallyindia.com/index.php/privacy-policy/Print "Print")
+by KG 
+
+[](http://www.legallyindia.com/index.php/privacy-policy/Print "Print") [](http://www.legallyindia.com/index.php/pdf/privacy-policy.pdf "PDF")
 
 We are committed to protecting your privacy and we will do what we reasonably can to protect the identity and private details of all users on this site.
 
@@ -21,18 +23,24 @@ We are committed to protecting your privacy and we will do what we reasonably ca
   7. We will take reasonable care and adopt security precautions to safeguard your personal data and prevent its loss and misuse. However, we can not guarantee the security or privacy of information or data sent over internet connections, even if encrypted.
   8. If you have subscribed to our email newsletter we may contact you by email to send you the newsletters. 
   9. If you are not subscribed to our email newsletter we may get in touch very rarely by email if there is a major issue that needs your attention, concerning security, privacy or anything else that is important.
-  10. We will not share your personal information with third parties without your permission or unless: (i) our ownership changes, (ii) we are required to do so by law, or (iii) in connection with any legal proceedings and/or to defend our legal rights.
+  10. We will not share your personal information with third parties without your permission or unless: (i) our ownership changes or we merge or enter into a joint-venture with another party, (ii) we are required to do so by law, or (iii) in connection with any legal proceedings and/or to defend our legal rights.
   11. We may transfer any information we store and use between any of the countries in which we operate in order to assist us in providing our website and our services.
   12. We may use your personal information for advertising, marketing and public relations for our own business and we are committed to complying with the UK’s Data Protection Act 1998 and its eight principles.
-  13. We can change this privacy policy at any time but we will always notify you or give you the option of opting out if the new policy results in a fundamentally different use of the information from its use under the current policy.
+  13. We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
+  14. We can change this privacy policy at any time but we will always notify you or give you the option of opting out if the new policy results in a fundamentally different use of the information from its use under the current policy.
 
 
 
-### Latest job moves
+  
 
-[King Stubb eyes up Mumbai office, hires IP head](http://www.legallyindia.com/index.php/Job-moves/king-stubb-a-kasiva-eyes-up-mumbai-opening)  
-21 May 2009  
-Delhi-headquartered law firm King Stubb & Kasiva is set to open a new office in Mumbai within months and has added a new equity partner to its head office ranks.The firm is currently finalising...
+
+### Latest features
+
+[Miles to go: Prof Madhava Menon interview](http://www.legallyindia.com/index.php/20090918202/Interviews/Miles-to-go-Prof-Madhava-Menon-interview)  
+He has been called a "living legend of law" by the International Bar Association and is nothing less than the father of modern Indian legal education. But even...
+
+  
+
 
   
 
