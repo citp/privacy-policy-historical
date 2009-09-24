@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbre.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625103929id_/http%3A//www.cbre.com/EN/about%2Bus/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbre.com privacy policy that was archived on 2009-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090924194102id_/http%3A//www.cbre.com/EN/about%2Bus/legal/privacypolicy) for the most accurate reproduction.*
 
 # CB Richard Ellis - Privacy Policy
 
