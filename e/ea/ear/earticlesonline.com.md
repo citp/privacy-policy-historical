@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the earticlesonline.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617181635id_/http%3A//www.earticlesonline.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earticlesonline.com privacy policy that was archived on 2009-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090924043709id_/http%3A//www.earticlesonline.com/privacy.php) for the most accurate reproduction.*
 
-# eArticlesOnline.com - Publish Articles for Free - Ezine Publishers Get Free Article Reprints
+# eArticlesOnline.com Privacy Policy
 
 Your Article Directory Privacy Policy
 
@@ -26,4 +26,4 @@ Information will only be disclosed when ordered by the law or court.
 
 ### _Contact Information_
 
-[Contact Us](http://www.earticlesonline.com/contacts.php). 
+[Contact Us](http://www.earticlesonline.com/contacts.php).
