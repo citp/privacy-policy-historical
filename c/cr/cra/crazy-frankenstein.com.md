@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crazy-frankenstein.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603210553id_/http%3A//crazy-frankenstein.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazy-frankenstein.com privacy policy that was archived on 2009-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090924091326id_/http%3A//crazy-frankenstein.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Crazy Frankenstein
 
@@ -20,4 +20,4 @@ Any personal information about our visitors collected on Crazy Frankenstein(name
 We guarantee that all files hosted on Crazy Frankenstein are virus checked and do not contain any spyware, dialers, trojans or other malicious programs. However if any damage is caused to your computer we have no responsibility.
 
 Contacting the Web Site  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [**contact us**](https://web.archive.org/web/20090603210553id_/http%3A//crazy-frankenstein.com/contact-us.html).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [**contact us**](https://web.archive.org/web/20090924091326id_/http%3A//crazy-frankenstein.com/contact-us.html).
