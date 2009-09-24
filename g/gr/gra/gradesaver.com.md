@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gradesaver.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523211035id_/http%3A//www.gradesaver.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gradesaver.com privacy policy that was archived on 2009-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090924043907id_/http%3A//www.gradesaver.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GradeSaver
 
