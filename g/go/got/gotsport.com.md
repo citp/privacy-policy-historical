@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotsport.com privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530031741id_/http%3A//www.gotsport.com/asp/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotsport.com privacy policy that was archived on 2009-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090924025522id_/http%3A//www.gotsport.com/asp/help/privacy.asp) for the most accurate reproduction.*
 
 # GotSport | Help | Privacy Statement
 
