@@ -1,0 +1,102 @@
+> *The following text is extracted and transformed from the successgrants.com privacy policy that was archived on 2009-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090924030858id_/http%3A//www.successgrants.com/privacy.php) for the most accurate reproduction.*
+
+# SuccessGrants
+
+Thank you for visiting the www.successgrants.com website (“Website”). The Website is an Internet property of Farend Services Limited (“SuccessGrants™,” “we” or “us”). Your privacy and the security of your personal information are very important to us. We want you to be as comfortable as possible visiting the Website and purchasing and/or using our Online Products and/or the All-Access Program (as those terms are defined in the SuccessGrants™ Website Terms and Conditions (“Terms and Conditions”)). We are dedicated to protecting the privacy of those who visit the Website. By visiting the Website, you agree to the terms and conditions set forth in this privacy policy (“Privacy Policy”). This Privacy Policy governs our treatment of all information, including Non-Personally and Personally Identifiable Information (as those terms are defined below) that we collect on the Website. This Privacy Policy also details how we collect your personal information on the Website, how we protect such information and the choices that you have concerning the use and disclosure of such information. Please read this Privacy Policy carefully.
+
+We may amend this Privacy Policy from time to time. We will post any changes to this Privacy Policy on the Website so that you will always know what information we gather, how we might use that information, and whether we will disclose that information to anyone. Please refer back to this Privacy Policy on a regular basis. 
+
+**SuccessGrants™ IS NOT A COVERED ENTITY FOR PURPOSES OF THE HEALTH INSURANCE PORTABILITY AND ACCOUNTABILITY ACT OF 1996 (“HIPAA”), NOR IS THE INFORMATION PROVIDED BY YOU TO SuccessGrants™ CONSIDERED PROTECTED HEALTH INFORMATION UNDER HIPAA. AS SUCH, THE ADDITIONAL PRIVACY AND SECURITY PROTECTIONS AFFORDED TO CONSUMERS/PATIENTS UNDER HIPAA ARE NOT CONTEMPLATED BY, NOR CONTAINED WITHIN, THIS PRIVACY POLICY.**
+
+**If you are a resident of the State of California and would like to opt-out from the disclosure of your personal information to any third-party for marketing purposes, please Click Here. Please be advised that where California State residents opt-out from permitting their personal information to be shared, such individuals may still receive selected offers directly from us, in accordance with the law**  
+
+
+**INFORMATION COLLECTED ON THE WEBSITE**
+
+We collect two (2) types of information: (a) Personally Identifiable Information; and (b) Non-Personally Identifiable Information (collectively, “User Information”). 
+
+## Non-Personally Identifiable Information
+
+We may collect information about you when you visit the Website that, by itself, cannot be used to identify or contact you, such as demographic information (age, profession or gender) and physical information (current weight) (collectively, "Non-Personally Identifiable Information"). Non-Personally Identifiable Information may also include information gathered from Cookies and action tags, such as your IP address, browser type, domain name and other anonymous statistical data involving your use of the Website. Non-Personally Identifiable Information is used to help us understand the characteristics of people who use the Website, and to improve and market the Website in general, and our Online Products and All-Access Program in particular. 
+
+## Personally Identifiable Information
+
+When you register with or provide personal information to the Website, subscribe to or purchase any of the Online Products and/or enroll in the All-Access Program, we may collect information from or about you (“Personally Identifiable Information”). For purposes of this Privacy Policy, Personally Identifiable Information may include, but is not limited to: (a) your full name; (b) mailing address; (c) e-mail address; (d) phone number; (e) credit card information; (f) current weight; (g) goal weight; (h) height; (i) gender; (j) year of birth; (k) date of birth; and/or (l) any other information requested by us from time to time.
+
+In the event that we link any Non-Personally Identifiable Information with Personally Identifiable Information, we will treat such information as Personally Identifiable Information in accordance with this Privacy Policy.
+
+**USE OF USER INFORMATION**
+
+The User Information that you submit to us remains your property, but by submitting such information to us you grant us the right, subject to applicable state and federal law, to use the User Information (other than credit card information) for marketing purposes. Without limiting the generality of the foregoing, we reserve the right to share, sell, rent, lease and/or otherwise distribute any and all User Information with/to any third-party for any and all uses permitted by this Privacy Policy and applicable law. These third parties may include, but shall not be limited to: (a) providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation; (b) e-mail marketers; (c) telemarketers (where permitted by applicable law); (d) SMS text-based marketers (where permitted by applicable law); and (e) direct marketers. We may also use your User Information for any promotion-related purpose, and/or marketing and survey purpose, on our own behalf and on behalf of our affiliates and subsidiaries. We may disclose User Information to third-party agents and independent contractors that help us create and/or operate any promotions or surveys. You agree that we may contact you at any time with updates and/or any other information that we may deem appropriate for you to receive in connection with your continued use of the Website. 
+
+We are able to offer our Online Products to you, in part, based on your willingness to be reached by our third-party advertisers. Your User Information (other than credit card information) will be shared with advertisers on an aggregate and non-aggregate basis. We also use contact information from your User Information to send you information about us, our Online Products, the All-Access Program and to keep you informed of our other products and services that may be of interest to you and to contact you about your billing account status. Please keep in mind, though, that we do not control, and are not responsible for, the practices of our third-party advertisers. If you wish to stop receiving future communications from us and/or third party advertisers, or if you wish to prevent the transfer and/or sale of your User Information to third parties (subject to restrictions contained in applicable state and federal law), please see the Opt-Out/Unsubscribe section below.
+
+You agree that by submitting your User Information at the Website, you agree to receive e-mail marketing from SuccessGrants™ (including other Farend Services Limited properties) and our third-party advertisers. In addition, you agree that such act constitutes a purchase, an inquiry and/or an application for purposes of the Amended Telemarketing Sales Rule, 16 CFR §310 et seq. (the “ATSR”). With respect to the ATSR, and notwithstanding that your telephone number may be listed on the Federal Trade Commission’s Do-Not-Call List, we retain the right to contact you via telemarketing in accordance with the terms of the ATSR. 
+
+In addition, by submitting your User Information at the Website, you agree to receive mobile marketing including, but not limited to, text-message based marketing, from us and our third party advertisers and marketers (where, and to the extent that, such marketing is permitted by applicable law). As such, notwithstanding that your mobile telephone number may be listed on state and/or federal Do-Not-Call registries, we retain the right to contact you via text-message based marketing in accordance with applicable state and federal law. Further, you agree that we reserve the right to share, sell, rent, lease and/or otherwise distribute your mobile telephone and other mobile data with/to any third-party for any and all non-marketing uses permitted by this Privacy Policy and applicable law.
+
+We reserve the right to release current or past User Information: (a) in the event that we believe that the Website, the Online Products and/or the All-Access Program is/are being or has/have been used in violation of this Privacy Policy, the Terms and Conditions or to commit unlawful acts; (b) if the information is subpoenaed; or (c) if SuccessGrants™ is sold or acquired. Moreover, you hereby consent to the disclosure of any record or communication to any third-party when we, in our sole discretion, determine the disclosure to be appropriate including, without limitation, sharing your e-mail address with other third-parties for suppression purposes in compliance with the CAN-SPAM Act of 2003, as amended from time to time. Users should also be aware that courts of equity, such as U.S. Bankruptcy Courts, might have the authority under certain circumstances to permit Personally Identifiable Information to be shared or transferred to third parties without permission.
+
+We may also use the Non-Personally Identifiable Information gathered on the Website and through our Online Products to perform statistical analysis of user behavior, to analyze and evaluate issues relating to nutrition, weight loss, behavior and fitness, or to evaluate and improve our Online Products and/or the All-Access Program. We may link some of this Non-Personally Identifiable Information to Personally Identifiable Information for purposes such as understanding the characteristics of people who use the Website, to improve and market the Website in general and our Online Products in particular or to assist you in your personal weight loss efforts. 
+
+If you become a registered user of the Website, subscribe to or purchase one of our Online Products or enroll in the All-Access Program, we may use your User Information to send you a welcoming email that may confirm your user name and password. If you "opt-in," we may send you electronic newsletters, contact you about our Online Products and other products, services, information and news that may be of interest to you, and provide you with targeted feedback. In addition, if you identify yourself to us by sending us an email with questions or comments, we may use such information (including Personally Identifiable Information) to respond to your questions or comments, and we may file your questions or comments for future reference. 
+
+We may also supplement the information we collect with information from other sources to assist us in evaluating and improving the Website and Online Products, to determine your preferences so that we can tailor the Website and Online Products to your needs, and/or to study nutritional, weight-loss, behavioral and fitness questions in general
+
+## Correcting/Updating or Removing Information
+
+We provide registered users of the Website with several options for modifying or removing their User Information from our database. Please visit the Contact Us page for an explanation.
+
+**OPT OUT/UNSUBSCRIBE**
+
+When you submit personally identifiable information to us at the Site, you have opted-in to the sharing of your personal information with third parties to receive marketing communications. When contacted by any of these companies or third parties, you should notify them directly of your choices regarding their use and sharing of your information. To opt-out of having your information shared with third parties, please Click Here. To stop receiving future e-mail communications from SuccessGrants™, please Click Here. SuccessGrants™ may maintain separate e-mail lists for different purposes. If e-mail recipients wish to end their e-mail subscription from a particular list, they need to follow the instructions at the end of each e-mail message to unsubscribe from the particular list. To unsubscribe from all SuccessGrants™ e-mail lists, please Click Here.
+
+**COLLECTION OF INFORMATION THROUGH THE USE OF COOKIES AND ACTION TAGS**
+
+## Cookies and Action Tags
+
+We collect Non-Personally Identifiable Information passively using "cookies" and "action tags." 
+
+"Cookies" are small text files that are placed on your computer in order to identify: (a) your Web browser; (b) your activity on the Website; and (c) your activity in connection with our advertisements and other marketing and promotional efforts. Cookies may be used to: 
+
+  * personalize your experience on the Website (e.g., to dynamically generate content on web pages specifically designed for you); 
+  * assist you in using our Online Products (e.g., to save you time by not having to reenter your name upon each visit to the Website); and 
+  * allow us to statistically monitor how you are using the Website for purposes of improving our Online Products, All-Access Program and other offerings. 
+
+
+
+We also may use cookies to conduct marketing and promotional efforts, tailor certain advertisements to your browser that we think may be of interest to you, and to determine the popularity of certain content. 
+
+You do not have to accept cookies to use the Website, however, you may not be able to use certain products, offerings, features or resources of the Website (including our Online Products and/or the All-Access Program) if you do not accept cookies. Although most browsers are initially set to accept cookies, you may reset your browser to notify you when you receive a cookie or to reject cookies generally. Most browsers offer instructions on how to do so in the "Help" section of the toolbar.
+
+"Action tags," also known as web beacons or gif tags, are a web technology used to help track website usage information, such as how many times a specific page has been viewed. Action tags are invisible to you, and any portion of the Website, including advertisements, or e-mail sent on our behalf, may contain cookies that are associated with action tags that are located on the Website. Unlike cookies, action tags are not placed on your computer. 
+
+By using cookies and action tags together, we are able to gain valuable information to improve the Website and our Online Products and measure the effectiveness of our advertising and marketing campaigns.
+
+Finally, please note that advertisers and other third parties may also use their own cookies or action tags that track when you click on their advertisement or link to their website or service, on or from the Website. This Privacy Policy does not govern the privacy practices of such third-party websites or providers of third-party advertising.
+
+## Referral Programs
+
+Through third-party referral program operators and others, we offer referral programs through which websites can earn commissions through the referral of subscribers or other purchasers to the Website. To track the earning of such commissions, and to determine the effectiveness of the referral programs, the users who become subscribers to or purchasers of our Online Products, or enroll in our All-Access Program, through such referral websites are tracked using technologies that do not include Personally Identifiable Information (such as cookies and/or action tags). Our program operators and the referral websites themselves can only access Non-Personally Identifiable Information, such as data relating to the number of impressions served, the number of transactions completed and their resulting earnings. They cannot access our customers' Personally Identifiable Information. 
+
+Please note that if you choose to apply to be a referral website, we use the data that you provide in connection with the affiliate application process strictly for conducting business with you. 
+
+**LINKS TO OTHER WEBSITES**
+
+The Website contains links to other websites that are not owned or operated by SuccessGrants™ (for example, if you "click" on a banner advertisement, you will likely be taken to a third party website), including links to websites operated by franchisees of SuccessGrants™. We will attempt to make it obvious to you when you leave the Website and visit these websites by opening a new browser or otherwise notifying you that you are leaving the Website. However, please be aware that we are not responsible for the privacy practices of such websites. We encourage you to be aware when the Website links to other websites and to read the privacy policies or statements of these third party websites. This Privacy Policy applies solely to information collected on the Website. 
+
+**SECURITY**
+
+We want your User Information (including Personally Identifiable Information) to remain as secure as possible. We strive to provide secure transmission of your User Information from your computer to our servers through industry-standard techniques. To help ensure the integrity and privacy of the Personally Identifiable Information that you provide to us via the Internet at the time that you elect to become a registered user, enroll in the All-Access Program and/or subscribe to or purchase our Online Products, we use Secured Socket Layer (SSL) encryption technology in transmitting such Personally Identifiable Information to our servers. We secure the Personally Identifiable Information that you provide on servers located in controlled, secure environments, protected from unauthorized access, use or alteration. Only employees or agents who need access to your User Information to perform a specific task or function are granted access to such User Information. In addition, all SuccessGrants employees and agents must abide by this Privacy Policy and are kept up-to-date on our written security guidelines. Any employee who violates our written security guidelines and/or this Privacy Policy is subject to disciplinary action, up to and including termination. 
+
+Notwithstanding the above commitments to protect your User Information from loss, misuse or alteration by third parties, you should be aware that there is always some risk involved in transmitting information over the Internet. There is also some risk that others could find a way to thwart our security systems. As a result, while we strive to protect your information, we cannot ensure or warrant the security and privacy of any information that you transmit to us. If, however, we become aware of a breach of security that places your User Information at risk, we will notify you as required by law.
+
+**MINORS**
+
+No information should be submitted to, or posted at, the Website by visitors under eighteen (18) years of age. Persons eighteen (18) years of age and younger are not permitted to access the Website and we do not knowingly collect User Information (as that term is defined below) from such individuals. We encourage parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children.
+
+**PRIVACY QUESTIONS**
+
+If you have any questions about our Privacy Policy or feel that we are not abiding by the terms of our posted Privacy Policy, please contact us at 866-437-1621.
+
+**BY USING THE WEBSITE, YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU SHOULD NOT USE THE WEBSITE, ONLINE PRODUCTS AND/OR THE ALL-ACCESS PROGRAM. YOUR CONTINUED USE OF THE WEBSITE ONLINE PRODUCTS AND/OR THE ALL-ACCESS PROGRAM FOLLOWING THE POSTING OF CHANGES TO THIS PRIVACY POLICY WILL MEAN THAT YOU ACCEPT THOSE CHANGES.**
