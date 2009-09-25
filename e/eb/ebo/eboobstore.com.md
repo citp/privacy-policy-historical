@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eboobstore.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627130556id_/http%3A//www.eboobstore.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eboobstore.com privacy policy that was archived on 2009-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090925181850id_/http%3A//www.eboobstore.com/home/privacy) for the most accurate reproduction.*
 
 # EboobStore - Privacy & Security
 
