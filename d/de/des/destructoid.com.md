@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the destructoid.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623020524id_/http%3A//www.destructoid.com/privacy-policy-28114.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the destructoid.com privacy policy that was archived on 2009-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090925221831id_/http%3A//www.destructoid.com/privacy-policy-28114.phtml) for the most accurate reproduction.*
 
 # Destructoid - destructoid.com privacy policy
 
@@ -12,7 +12,7 @@ By becoming a member of the Destructoid video game community, you are only agree
 
 We also follow all rules set forth by the [Online Privacy Alliance](http://www.privacyalliance.org/resources/ppguidelines.shtml)
 
-**The Long Legal Version:**
+**The Long Version:**
 
 Destructoid.com is committed to protecting the privacy of Internet users. The following statement details our ongoing support for the responsible collection and management of Internet user information. 
 
@@ -22,7 +22,13 @@ When we display an advertisement on your computer, we do not collect any persona
 
 Furthermore, Destructoid.com does not divulge any information regarding the users who use email for correspondence with the webmaster or any representative of Destructoid.com. 
 
-**THAT SAID, USE COMMON SENSE IN ALL YOUR ONLINE ACTIVITIES  
+**Online Advertising**
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).  
+
+In layman's terms: it's just a cookie that says "hey you saw this ad already" or "ok, he clicked on a banner ad for leather rock pants, lets show this guy more of those."  We don't share any information from your personal account with advertisers.
+
+**HEY YOU - USE COMMON SENSE IN ALL YOUR ONLINE ACTIVITIES  
 **   
 Even the best policy can't protect your online privacy and security in all circumstances. Unscrupulous advertisers, hackers, and scam artists are constantly searching the Internet looking for new targets. Your best protection is to understand the limits to privacy on the Internet and use common sense in all of your on-line activities. 
 
