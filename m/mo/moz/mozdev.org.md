@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mozdev.org privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413231310id_/http%3A//www.mozdev.org/community/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mozdev.org privacy policy that was archived on 2009-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090925080151id_/http%3A//www.mozdev.org/community/privacy.html) for the most accurate reproduction.*
 
 # mozdev.org - www: community/privacy
 
