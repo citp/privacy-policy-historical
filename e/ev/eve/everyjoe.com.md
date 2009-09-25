@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the everyjoe.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523204050id_/http%3A//www.everyjoe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everyjoe.com privacy policy that was archived on 2009-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090925155736id_/http%3A//www.everyjoe.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : EveryJoe - Sports News - Tech Reviews - Entertainment - Life Tips for EveryJoe
+# Privacy Policy : EveryJoe - Sports News – Tech Reviews – Entertainment – Life Tips for EveryJoe
 
 Browse >
 
@@ -29,46 +29,46 @@ Protection of Visitors’ Personal Information: b5 protects the Personal Informa
 
 **Visitor’s Consent to Privacy Policy:** By visiting and using the Websites, the visitor agrees to the Privacy Policy and the Terms of Use included with this Privacy Policy. If you do not agree with the Privacy Policy or Terms of Use, do not use the Websites or provide Personal Information.
 
-b5 is compliant with the federal Personal Information Protection and Electronic Documents Act (”PIPEDA”). b5 takes compliance with the ten principles set out in the “Model Code for the Protection of Personal Information” which is included in PIPEDA - a summary of which is set out below.
+b5 is compliant with the federal Personal Information Protection and Electronic Documents Act (”PIPEDA”). b5 takes compliance with the ten principles set out in the “Model Code for the Protection of Personal Information” which is included in PIPEDA – a summary of which is set out below.
 
 ### TEN PRINCIPLES OF FAIR INFORMATION PRACTICES
 
-**PRINCIPLE 1 - ACCOUNTABILITY**
+**PRINCIPLE 1 – ACCOUNTABILITY**
 
 b5 is responsible for the Personal Information under its control and shall designate one or more individuals who shall be accountable for the company’s compliance with the procedures and principles set out in this Privacy Policy and relevant legislation. As such b5 has appointed a member of its management team as its Privacy Officer, who is responsible for reviewing, approving and administering this Privacy Policy and b5’s commitments hereunder. If you have any questions, concerns or comments, feel free to contact the Privacy Officer at privacy@b5media.com or in writing to: Privacy Officer, b5media Inc., 174 Spadina Ave., Suite 302, Toronto, Ontario, M5T 2C2, Canada.
 
-**PRINCIPLE 2 - IDENTIFYING PURPOSE**
+**PRINCIPLE 2 – IDENTIFYING PURPOSE**
 
 b5 will identify the purpose for which Personal Information is collected at or before the time the information is collected. The purposes for which information is collected, used or disclosed by b5 must be those that a reasonable person would consider are appropriate in the circumstances.
 
-**PRINCIPLE 3 - CONSENT**
+**PRINCIPLE 3 – CONSENT**
 
 The knowledge and consent of the individual are required for the collection, use or disclosure of Personal Information, except where consent is not required by law.
 
-**PRINCIPLE 4 - LIMITING COLLECTION**
+**PRINCIPLE 4 – LIMITING COLLECTION**
 
 b5 shall limit the collection of personal information to that which is necessary for the purposes identified. Personal Information will only be collected by fair and lawful means.
 
-**PRINCIPLE 5 - LIMITING USE, DISCLOSURE AND RETENTION**
+**PRINCIPLE 5 – LIMITING USE, DISCLOSURE AND RETENTION**
 
 Personal Information will not be used or disclosed for purposes other than those for which it was collected, except with the consent of the individual or as required by law. Personal Information will be retained only as long as necessary for the fulfillment of the purposes for which it was collected.
 
-**PRINCIPLE 6 - ACCURACY**
+**PRINCIPLE 6 – ACCURACY**
 
 Personal Information will be as accurate, complete and up-to-date as is necessary for the purposes for which it is to be used.
 
-**PRINCIPLE 7 - SAFEGUARDS**
+**PRINCIPLE 7 – SAFEGUARDS**
 
 Personal Information shall be protected by security safeguards appropriate to the sensitivity of the information. See “Protection of Visitors’ Personal Information” for more detail.
 
-**PRINCIPLE 8 - OPENNESS**
+**PRINCIPLE 8 – OPENNESS**
 
 b5 will make readily available to its Visitors specific information about its policies and practices relating to the management of personal information.
 
-**PRINCIPLE 9 - INDIVIDUAL ACCESS**
+**PRINCIPLE 9 – INDIVIDUAL ACCESS**
 
 Upon request, an individual will be informed of the existence, use and disclosure of his or her personal information and will be given access to that information, except where b5 may be permitted or required by law not to disclose personal information to the individual. An individual will be able to challenge the accuracy and completeness of the information disclosed to him or her and have it be amended as appropriate.
 
-**PRINCIPLE 10 - CHALLENGING COMPLIANCE**
+**PRINCIPLE 10 – CHALLENGING COMPLIANCE**
 
 An individual Visitor will be able to address a challenge concerning compliance with the principles in this Privacy Policy to b5’s Privacy Officer. b5 will investigate any complaint, and if the complaint is justified, b5 will remedy it.
