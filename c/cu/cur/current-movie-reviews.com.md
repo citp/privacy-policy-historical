@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the current-movie-reviews.com privacy policy that was archived on 2008-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080724195405id_/http%3A//www.current-movie-reviews.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the current-movie-reviews.com privacy policy that was archived on 2009-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090925033400id_/http%3A//www.current-movie-reviews.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy : CMR
+# Privacy | CMR
 
 This domain and all website content are owned by CMR Publishing LLC.
 
