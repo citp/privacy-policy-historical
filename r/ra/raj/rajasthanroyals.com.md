@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rajasthanroyals.com privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530184811id_/http%3A//www.rajasthanroyals.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rajasthanroyals.com privacy policy that was archived on 2009-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090925025018id_/http%3A//www.rajasthanroyals.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Rajasthan Royals - Privacy Policy
 
