@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the pennysaverusa.com privacy policy that was archived on 2009-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090410162151id_/http%3A//www.pennysaverusa.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennysaverusa.com privacy policy that was archived on 2009-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090925103742id_/http%3A//www.pennysaverusa.com/privacy) for the most accurate reproduction.*
 
-# PennySaverUSA.com - Privacy Policy
-
-**Last updated: June 26, 2006**
+# Free Online Classifieds in USA - find the best local values at PennySaverUSA.com - Privacy Policy
 
 This policy governs the information activities of Harte Hanks Shoppers, Inc., Harte Hanks Flyer, Inc., The Flyer Publishing Corporation and their Web sites, TheFlyer.com and PennySaverUSA.com, including subdomains of these URLs, for example, newspapername.PennySaverUSA.com (collectively "PennySaverUSA" or "us" or "we") and not any other activity of Harte Hanks, Inc. or any of its affiliated companies. This policy discusses our information collection, use and sharing practices.
 
-If you have any questions about this policy or our information handling practices, please contact us at [privacy@pennysaverusa.com](mailto:privacy@pennysaverusa.com?subject=Privacy+Policy).
+If you have any questions about this policy or our information handling practices, please contact us at [privacy@pennysaverusa.com](mailto:privacy@pennysaverusa.com?subject=Privacy+Policy).
 
   * **What Information About Individuals Do We Gather?**
   * **How Do We Use the Information That We Collect?**
@@ -28,13 +26,13 @@ If you have any questions about this policy or our information handling practice
 
 > **Personal Information** : Any personal information you give us, for example, by phone, credit card information, e-mail or postal mail, may be used, collected or stored by us or our service providers. For example, you may provide us with your name, address, phone number, and e-mail address, all of which we consider to be personal information. You can choose not to provide your personal information, but then you would not be able to take advantage of many of our services or place advertising with us.
 > 
-> **Nonpersonal Information** : We may receive, use and store certain types of nonpersonal information automatically whenever you interact with our Web site or online marketing, like our banner ads, or if you provide it to us upon request (like your zip code). For example, like many Web sites, we use "cookies," (click here for more about cookies) and we obtain certain types of information when your Web browser accesses our Web sites. Click here to see examples of the nonpersonal information we receive. We may also use clear gifs, which are also sometimes called Web bugs and 1x1 pixels, to monitor your interactions with our Web site or online marketing (such as, banners ads we place on other Web sites). The information that is collected in this process is the same information as with cookies. We may use persistent cookies to remember you when you come back for future visits. Such persistent cookies allow us to customize your visit, e.g., providing content directed to your ZIP Code if you had previously provided us with that ZIP Code.
+> **Nonpersonal Information** : We may receive, use and store certain types of nonpersonal information automatically whenever you interact with our Web site or online marketing, like our banner ads, or if you provide it to us upon request (like your zip code). For example, like many Web sites, we use "cookies," (click here for more about cookies) and we obtain certain types of information when your Web browser accesses our Web sites. Click here to see examples of the nonpersonal information we receive. We may also use clear gifs, which are also sometimes called Web bugs and 1x1 pixels, to monitor your interactions with our Web site or online marketing (such as, banners ads we place on other Web sites). The information that is collected in this process is the same information as with cookies. We may use persistent cookies to remember you when you come back for future visits. Such persistent cookies allow us to customize your visit, e.g., providing content directed to your ZIP Code if you had previously provided us with that ZIP Code.
 > 
-> For more information about the use of cookies and other similar technology, please visit [networkadvertising.org](http://www.networkadvertising.org/). You may also visit that website to opt out from nonpersonal data collection from various third party, online advertising service providers. To delete cookies on your computer, you can select "delete cookies" within your Web browser.
+> For more information about the use of cookies and other similar technology, please visit [networkadvertising.org](http://www.networkadvertising.org/). You may also visit that website to opt out from nonpersonal data collection from various third party, online advertising service providers. To delete cookies on your computer, you can select "delete cookies" within your Web browser.
 > 
 > **E-mail** : Generally, if you e-mail an advertiser in response to an ad you see on our Web site, the e-mail is processed by us, so we would have your e-mail by your submitting this e-mail. Additionally, we often receive a confirmation when you open e-mails we send you or when you respond to something in an e-mail we send you to help us make these e-mails more useful and interesting to you.
 
-We might obtain information about you from our sister companies and business partners and add it to information that you have previously provided to us in order to serve you better. Click here to see examples of the information we receive. We also compare our e-mail list to lists received from our sister companies and business partners, to try to avoid sending you unnecessary or duplicative messages.
+We might obtain information about you from our sister companies and business partners and add it to information that you have previously provided to us in order to serve you better. Click here to see examples of the information we receive. We also compare our e-mail list to lists received from our sister companies and business partners, to try to avoid sending you unnecessary or duplicative messages.
 
   
 
@@ -96,7 +94,7 @@ Unfortunately, no data security methodology is 100% safe. Hence, it is just as i
 
 ## What About Web Site Third-Party Advertisers and Links to Other Web sites?
 
-Our Web sites includes third-party advertising, links to other Web sites and Web pages hosted by third party business partners. These third-party partners, Web sites and advertisers, or Internet advertising companies working on their behalf, sometimes use technology to send (or "serve") the advertisements that appear on our Web site directly to your browser. They automatically receive your IP address when this happens. They also may use cookies, JavaScript, clear gifs, and other technologies to measure the effectiveness of their content and to personalize the content. We do not have access to or control over cookies or other features that they may use, and the information practices of these advertisers, their vendors and third-party Web sites are not covered by this Privacy Policy. We do require them by contract to take appropriate actions with regard to any personal data they may collect from you while you are on our Web site. Please contact them directly for more information about their privacy practices. In addition, the [Network Advertising Initiative](http://www.networkadvertising.org/) offers useful information about Internet advertising companies (also called "ad networks" or "network advertisers"), including information about how to opt out of their information collection.
+Our Web sites includes third-party advertising, links to other Web sites and Web pages hosted by third party business partners. These third-party partners, Web sites and advertisers, or Internet advertising companies working on their behalf, sometimes use technology to send (or "serve") the advertisements that appear on our Web site directly to your browser. They automatically receive your IP address when this happens. They also may use cookies, JavaScript, clear gifs, and other technologies to measure the effectiveness of their content and to personalize the content. We do not have access to or control over cookies or other features that they may use, and the information practices of these advertisers, their vendors and third-party Web sites are not covered by this Privacy Policy. We do require them by contract to take appropriate actions with regard to any personal data they may collect from you while you are on our Web site. Please contact them directly for more information about their privacy practices. In addition, the [Network Advertising Initiative](http://www.networkadvertising.org/) offers useful information about Internet advertising companies (also called "ad networks" or "network advertisers"), including information about how to opt out of their information collection.
 
   
 
@@ -116,23 +114,23 @@ If you believe we have other personal information about you that you wish to acc
 
 ## What Choices Do I Have?
 
-If you do not want to receive e-mail from us, please e-mail us at [privacy@pennysaverusa.com](mailto:privacy@pennysaverusa.com?subject=Privacy+Policy).
+If you do not want to receive e-mail from us, please e-mail us at [privacy@pennysaverusa.com](mailto:privacy@pennysaverusa.com?subject=Privacy+Policy).
 
 If you do not want to receive our print publications or telephone calls from us, call us toll free at (800) 422-4116 for California and South Florida or (813) 626-SELL for West Florida or write to us at:
 
 > **FOR CALIFORNIA & SOUTH FLORIDA**: 
 > 
 > Harte-Hanks Shoppers  
->  Attn: Consumer Preferences  
->  2830 Orbiter Street  
->  Brea, CA 92821 
+> Attn: Consumer Preferences  
+> 2830 Orbiter Street  
+> Brea, CA 92821
 > 
 > **FOR WEST FLORIDA** : 
 > 
 > Circulation  
->  The Flyer  
->  201 Kelsey Lane  
->  Tampa, FL 33619 
+> The Flyer  
+> 201 Kelsey Lane  
+> Tampa, FL 33619
 
 However, we will continue to contact you as necessary to process any transactions.
 
@@ -152,16 +150,16 @@ Our Web sites are not intended for children, although children's products are of
 
 ## Do We Participate in the European Safe Harbor Program?
 
-Since we collects and processes personal information in the United States, we are a participant through our parent company, Harte Hanks, Inc., in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and the E.U. For more information about the Safe Harbor and to view the certification of Harte-Hanks, visit the [U.S. Department of Commerce's Safe Harbor](http://www.export.gov/safeharbor/) Web site.
+Since we collects and processes personal information in the United States, we are a participant through our parent company, Harte Hanks, Inc., in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and the E.U. For more information about the Safe Harbor and to view the certification of Harte-Hanks, visit the [U.S. Department of Commerce's Safe Harbor](http://www.export.gov/safeharbor/) Web site.
 
 If you believe that we are not in compliance with the Safe Harbor principles, first contact our company by mail, e-mail, or telephone as noted in this policy. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you can then contact the DMA Safe Harbor Dispute Resolution Program. The DMA will then serve as a liaison to us to resolve your concerns. You can reach the DMA Safe Harbor Program at:
 
 > Safe Harbor Line  
->  Direct Marketing Association  
->  1111 19th Street, NW - Suite 1100  
->  Washington, DC 20036-3603
+> Direct Marketing Association  
+> 1111 19th Street, NW - Suite 1100  
+> Washington, DC 20036-3603
 > 
-> Tel. (202) 861-2445 
+> Tel. (202) 861-2445
 
   
 
@@ -170,7 +168,7 @@ If you believe that we are not in compliance with the Safe Harbor principles, fi
 
 ## Conditions of Use, Policies, and Revisions
 
-If you choose to visit our Web sites or advertise with us, your online visit and advertising is subject to this Policy and our [Terms and Conditions](http://www.pennysaverusa.com/tandc.aspx "Terms & Conditions"). If you have any concern about our privacy practices, please [contact us](mailto:privacy@pennysaverusa.com?subject=Privacy%20Policy).
+If you choose to visit our Web sites or advertise with us, your online visit and advertising is subject to our Policy which is available at the top of this page. If you have any concern about our privacy practices, please [contact us](mailto:privacy@pennysaverusa.com?subject=Privacy%20Policy).
 
 Our business is continuously evolving, and our Privacy Policy and the Terms and Conditions also may change. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.
 
@@ -201,4 +199,4 @@ Examples of information we receive from other sources include updated delivery a
 **Third-Party Advertisers and Links to Other Web sites**
     
 
-Examples of third-party advertisers and advertising companies that you can link to from this Web site or that serve advertising content directly to your browser on certain of our web pages include [247 Media](http://www.247media.com/), [MaxOnline](http://www.maxonline.com/), [Google](http://www.google.com/), [Mediaplex](http://www.mediaplex.com/), [Atlas](http://www.atlassolutions.com/) and [Doubleclick](http://www.doubleclick.com/). You can find out more about their information collection and use practices, including how to opt out of cookies and other collection techniques that they use, by clicking on the above links to their Web sites.
+Examples of third-party advertisers and advertising companies that you can link to from this Web site or that serve advertising content directly to your browser on certain of our web pages include [247 Media](http://www.247media.com/), [MaxOnline](http://www.maxonline.com/), [Google](http://www.google.com/), [Mediaplex](http://www.mediaplex.com/), [Atlas](http://www.atlassolutions.com/) and [Doubleclick](http://www.doubleclick.com/). You can find out more about their information collection and use practices, including how to opt out of cookies and other collection techniques that they use, by clicking on the above links to their Web sites.
