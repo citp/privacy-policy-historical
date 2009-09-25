@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the briscoes.co.nz privacy policy that was archived on 2009-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090521172214id_/http%3A//www.briscoes.co.nz/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the briscoes.co.nz privacy policy that was archived on 2009-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090925111226id_/http%3A//www.briscoes.co.nz/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Briscoes - Website Privacy Policy
 
@@ -30,7 +30,7 @@ We may share your personal information:
 1. To our group companies or service providers (e.g. in order to store the information).  
 2. Where the disclosure is in connection with one of the purposes for which the information was collected.  
 3. Where we are required or authorised by law to make disclosure.  
-Except as provided above, we will not share your personal information with any other third parties.  We may provide overall statistics about users, site sue, demand for relevant products, services, facilities and information, traffic patterns, and related site information to reputable third parties; however, these statistics will not include any information which personally identifies you. 
+Except as provided above, we will not share your personal information with any other third parties.  We may provide overall statistics about users, site use, demand for relevant products, services, facilities and information, traffic patterns, and related site information to reputable third parties; however, these statistics will not include any information which personally identifies you. 
 
 #### Retention and Security
 
