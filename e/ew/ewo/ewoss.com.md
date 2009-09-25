@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ewoss.com privacy policy that was archived on 2009-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090412041253id_/http%3A//www.ewoss.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewoss.com privacy policy that was archived on 2009-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090925063340id_/http%3A//www.ewoss.com/privacy.aspx) for the most accurate reproduction.*
 
 # eWoss Privacy Policy
 
