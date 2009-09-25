@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whorunsgov.com privacy policy that was archived on 2009-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090411042839id_/http%3A//www.whorunsgov.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whorunsgov.com privacy policy that was archived on 2009-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090925063025id_/http%3A//www.whorunsgov.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy policy - Who Runs Gov - Government directory
+# Privacy policy - WhoRunsGov.com, a Wash Post Co
 
 Last Updated: January 22, 2009
 
@@ -8,7 +8,7 @@ This Privacy Policy discloses the privacy practices for the Who Runs Gov website
 
 We respect the privacy of visitors to our Site.  In adopting this privacy policy, our intent is to balance our legitimate business interests in collecting and using personally identifiable information and your reasonable expectations of privacy.  This Privacy Policy governs our collection of information from you through your use of the Site.  It does not apply to any information you may provide to us through other means (for example, information gathered offline, such as information gathered via mail or telephone, or information gathered via another website operated by The Washington Post Company or any of its affiliates).
 
-By using this Site, you agree that your use of the Site and any disputes over our online privacy practices are governed by this Privacy Policy and our [User Agreement](http://www.whorunsgov.com/User_agreement).  If you have questions about this policy, please contact us at [profiles@whorunsgov.com](mailto:profiles@whorunsgov.com).  
+By using this Site, you agree that your use of the Site and any disputes over our online privacy practices are governed by this Privacy Policy and our [User Agreement](http://www.whorunsgov.com/User_agreement).  If you have questions about this policy, [click here to contact us](mailto:profiles@whorunsgov.com "mailto:profiles@whorunsgov.com").  
 
 **What personally identifiable information does Who Runs Gov collect?**
 
@@ -26,7 +26,7 @@ We may use the personally identifiable information that you provide to us in a v
 
 We also may use the information provided by you to: 1) contact you with legal notices, 2) to advise you of any material changes or additions to our Site, our User Agreement or this Privacy Policy, and 3) notify you of your account status (including confirmation of Site registration).  
 
-If you do not wish to receive the foregoing, you must unregister from the Site by emailing [profiles@whorunsgov.com](mailto:profiles@whorunsgov.com) and asking to have your registration account inactivated. Once your account has been inactivated, you will no longer have access to the Site.  To re-register, you will need to email us at [profiles@whorunsgov.com](mailto:profiles@whorunsgov.com) and ask to have your account re-activated. 
+If you do not wish to receive the foregoing, you must unregister from the Site [by emailing](mailto:profiles@whorunsgov.com "mailto:profiles@whorunsgov.com") and asking to have your registration account inactivated. Once your account has been inactivated, you will no longer have access to the Site.  To re-register, you will need to [email us](mailto:profiles@whorunsgov.com "mailto:profiles@whorunsgov.com") and ask to have your account re-activated. 
 
 In order to provide services free of charge, we may display advertisements on the Site, and may deliver targeted advertisements on behalf of advertisers. If we deliver targeted advertisements via the Site, advertisers will give us an advertisement and tell us the type of audience they want to reach (for example, females over 25 years old). We will then take the advertisement and display it to users meeting that criteria. In this process, the advertiser never has access to individual account information.
 
