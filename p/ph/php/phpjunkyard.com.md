@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phpjunkyard.com privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413020315id_/http%3A//www.phpjunkyard.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpjunkyard.com privacy policy that was archived on 2009-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090925074932id_/http%3A//www.phpjunkyard.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy statement
 
@@ -12,7 +12,7 @@ Klemen Stirn is the sole owner of the information collected on PHPJunkyard. Klem
 
 #### Order
 
-[2checkout Inc.](https://web.archive.org/web/20090413020315id_/http%3A//www.phpjunkyard.com/go/go.cgi?14) is authorized payment processor for PHPJunkyard. They request information from the user on our order form. A user must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill customer’s orders. If we have trouble processing an order, the information is used to contact the user.
+[2checkout Inc.](https://web.archive.org/web/20090925074932id_/http%3A//www.phpjunkyard.com/go/go.cgi?14) is authorized payment processor for PHPJunkyard. They request information from the user on our order form. A user must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill customer’s orders. If we have trouble processing an order, the information is used to contact the user.
 
 ### Information Use
 
@@ -27,6 +27,8 @@ A cookie is a piece of data stored on the user’s computer tied to information 
 By setting a cookie on our site, we can determine whether users were referred by our affiliates. If users reject the cookie, they may still use our site. Persistent cookies enable us to track and target the interests of our users to enhance the experience on our site.
 
 Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising.
+
+Google, one of our third-party advertisers, may add a cookie to determine targeted advertisements based on your preferences and your visit to our site and other sites on the internet. You can choose to opt out of Google's use of cookies by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 #### Third Party Advertising
 
