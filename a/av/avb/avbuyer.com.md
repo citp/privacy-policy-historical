@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the avbuyer.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219082449id_/http%3A//www.avbuyer.com/Privacy/Default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avbuyer.com privacy policy that was archived on 2009-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090925165256id_/http%3A//www.avbuyer.com/Privacy/Default.asp) for the most accurate reproduction.*
 
 # AvBuyer.com - Privicy
 
 ## AvBuyer.com: Privacy Policy 
 
 [](http://www.avbuyer.com/MainRedirect.asp?lt=11&aid=0&Id=1167&go=www.hillaero.com)  
-[](http://www.avbuyer.com/GaBuyer/digital.asp)  
-[](http://www.avbuyer.com/MainRedirect.asp?lt=11&aid=0&Id=3114&go=http://www.tri-jets.com)  
+[](http://www.avbuyer.com/MainRedirect.asp?lt=11&aid=0&Id=3799&go=www.aviationpartners.com/)  
+[](http://www.avbuyer.com/MainRedirect.asp?lt=11&aid=0&Id=0&go=www.jetexpo.ru/)  
 
 
 ### **** Avbuyer.com is committed to protecting your right to privacy as a user of our online service. Please read this information carefully as by using this site, you indicate your acceptance of AvBuyer’s online privacy policy. 
