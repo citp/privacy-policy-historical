@@ -1,6 +1,20 @@
-> *The following text is extracted and transformed from the trendmx.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604142822id_/http%3A//www.trendmx.com/search-engine-optimization-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendmx.com privacy policy that was archived on 2009-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090925104242id_/http%3A//www.trendmx.com/search-engine-optimization-privacy.aspx) for the most accurate reproduction.*
 
 # Trendmetrix Software Privacy Policy
+
+|  | SEO Company  
+---  
+[home](http://www.trendmx.com/ "SEO Company Home Page")  
+[in the news](http://www.trendmx.com/search-engine-optimization-news.aspx "Trendmetrix Software News")  
+[mission](http://www.trendmx.com/search-engine-optimization-mission.aspx "Trendmetrix Software Mission Statement")  
+[seo newsletters ](http://www.trendmx.com/newsletter/seo-newsletter.aspx "SEO Newsletter Archives")  
+[seo blog](http://www.trendmx.com/seo-blog/index.php "SEO Blog")  
+[seo resources](http://www.trendmx.com/search-engine-optimization-resources.aspx "Search Engine Optimization Resources")  
+[about us ](http://www.trendmx.com/about-our-seo-company.aspx "How we are")  
+[contact us](http://www.trendmx.com/contact/website-promotion-contact.aspx "Contact Us")[ ](http://www.trendmx.com/contact/website-promotion-contact.aspx)  
+[site map](http://www.trendmx.com/search-engine-optimization-site-map.aspx "Site Map")  
+   
+| 
 
 ## TrendMetrix Software Inc. Privacy Policy
 
@@ -44,3 +58,5 @@ We do not knowingly collect personal information from children under the age of 
 
 The TrendMetrix Web site uses cookies. Cookies help us to provide you with targeted information by measuring which Web site areas are of greatest interest. TrendMetrix also uses cookies when you register for certain Web promotions. In this situation, a cookie will store useful information that enables our Web site to remember you when you return. TrendMetrix can only read cookies from TrendMetrix Web sites. If you choose to disable cookies in your browser, you can still access most of our Web sites. Some Web sites will not allow you to complete certain activities if cookies are disabled. For example, our consumer e-commerce site uses session cookies and persistent cookies to process transactions. If you do not accept cookies, the associated shopping bag will not work and you would not be able to order.   
 
+
+| 
