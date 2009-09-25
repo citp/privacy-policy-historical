@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalinfosolution.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628175713id_/http%3A//www.digitalinfosolution.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalinfosolution.com privacy policy that was archived on 2009-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090925160208id_/http%3A//www.digitalinfosolution.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
