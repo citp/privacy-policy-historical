@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the znaturalfoods.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629054558id_/http%3A//www.znaturalfoods.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the znaturalfoods.com privacy policy that was archived on 2009-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090925110819id_/http%3A//www.znaturalfoods.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Notice : Buy Superfoods, Goji, Acai, Pomegranate, Noni, Maca, Mangosteen, Mesquite, Chlorella at ZNaturalFoods.com
+# Privacy Notice : Buy Superfoods, Goji, Acai, Noni, Maca, Mangosteen, Sea Buckthorn, Spirulina, Chlorella at ZNaturalFoods.com
 
 We dislike junk mail
 
