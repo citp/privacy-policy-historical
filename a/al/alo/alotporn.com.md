@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alotporn.com privacy policy that was archived on 2009-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090414182709id_/http%3A//alotporn.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alotporn.com privacy policy that was archived on 2009-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090926052945id_/http%3A//alotporn.com/pages/privacy.html) for the most accurate reproduction.*
 
-# aLOTporn.com - Free Porn Videos & Movies - Porn Tube, Free Porn, Free XXX Porn
+# Privacy Policy - AlotPorn.com
 
 This document details important information regarding the use and disclosure of User Data collected on aLOTporn.com 
 
@@ -45,4 +45,4 @@ Unfortunately, the transmission of information via the Internet is not completel
 
 YOUR RIGHTS 
 
-You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at ithewebmaster@yahoo.gr. 
+You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at ithewebmaster [at] yahoo.gr. 
