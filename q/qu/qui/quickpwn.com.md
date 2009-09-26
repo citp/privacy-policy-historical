@@ -1,23 +1,54 @@
-> *The following text is extracted and transformed from the quickpwn.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217065643id_/http%3A//www.quickpwn.com/2008/09/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickpwn.com privacy policy that was archived on 2009-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090926062824id_/http%3A//www.quickpwn.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | QuickPWN
+# Privacy Policy
 
-19Sep 
+**What information do we collect?**
 
-Author: QuickPWN // Category: 
+We collect information from you when you register on our site or subscribe to our newsletter.
 
-This is the web site of QuickPWN.
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
+**What do we use your information for?**
 
-We collect aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit.
+Any of the information we collect from you may be used in one of the following ways:
 
-The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site, http://www.quickpwn.com.
+• To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-With respect to cookies: We use cookies to store visitors preferences, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, ensure that visitors are not repeatedly sent the same banner ads, customize Web page content based on visitors' browser type or other information that the visitor sends.
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
-Google Adsense  
-Vibrant Media  
-Chitika  
-Burstnet 
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
+
+• To administer a contest, promotion, survey or other site feature
+
+• To send emails
+
+> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+
+**Do we use cookies?**
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+
+We use cookies to keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+
+**Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+**Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**Your Consent**
+
+By using our site, you consent to our privacy policy.
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
+
+_This policy was last modified on May 29, 2009_
