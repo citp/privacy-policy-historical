@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oedb.org privacy policy that was archived on 2009-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090220135216id_/http%3A//oedb.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oedb.org privacy policy that was archived on 2009-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090926230008id_/http%3A//oedb.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | OEDb
 
