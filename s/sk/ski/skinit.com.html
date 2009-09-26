@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the skinit.com privacy policy that was archived on 2009-03-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090301055022id_/http%3A//www.skinit.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the skinit.com privacy policy that was archived on 2009-09-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090927014359id_/http%3A//www.skinit.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<title>Skinit.com: Phone Skins, Laptop Skins, iPod Skins, Gaming Skins: Personalization on Demand</title>
@@ -21,10 +21,13 @@
 		<link href="/styles/screenDefault.css" rel="stylesheet" type="text/css">
 		<link href="/styles/webStylesNew.css" rel="stylesheet" type="text/css">
 		<link href="/styles/skinItLightbox.css" rel="stylesheet" type="text/css">
-		<!--[if lte IE 7]>
+		<!--[if lte IE 8]>
 			<link href="/styles/dig_ieFix.css" rel="stylesheet" type="text/css" />
 			<link href="/styles/ieFix.css" rel="stylesheet" type="text/css" />
-		<![endif'-->
+		<![endif]-->
+        <!--[if lte IE 6]>
+            <link href="/styles/ie6Fix.css" rel="stylesheet" type="text/css" />
+        <![endif]-->
 		<script type="text/javascript" src="/js/skinItLibrary.js"></script>
 		<script type="text/javascript" src="/js/doomScroller.js"></script>
 		<script type="text/javascript" src="/js/skinItLightBox.js"></script>
@@ -43,82 +46,108 @@
 			}
 		//-->
 		</script>
+
+		<script>
+		/* BackgroundImageCache on (for IE6).Remove blinking background. */
+			(function(){
+			  /*Use Object Detection to detect IE6*/
+			  var  m = document.uniqueID /*IE*/
+			  && document.compatMode  /*>=IE6*/
+			  && !window.XMLHttpRequest /*<=IE6*/
+			  && document.execCommand ;
+			  try{
+			    if(!!m){
+			      m("BackgroundImageCache", false, true) /* = IE6 only */
+			    }
+			  }catch(oh){};
+			})();
+		</script>
+
+		<link href="http://t.p.mybuys.com/css/mbstyles.css" type="text/css" rel="stylesheet" id="mybuysstyles">
+		<script type="text/javascript" src="http://t.p.mybuys.com/js/mybuys3.js">
+		</script>
+		<script type="text/javascript" src="http://t.p.mybuys.com/clients/SKINIT/js/setup.js">
+		</script>
 	</head>
 	<body>
 		<div id="wrapper" class="subPage generalContentPrivacyPolicy">
-                        
-			<div id="head">
-				<div id="logo">
-					<a href="http://www.skinit.com?pc=r" title="skinit express yourself">SkinIt</a>
-				</div>
-				<ul id="userNav">
-                <li class="shoppingCart"><a href="https://www.skinit.com/cart/cartProcessor.php" title="shopping cart" rel="cart" class="hoverLink">Shopping Cart <span id="cartTotal">(0 items)</span> <span class="expand">Expand</span></a></li>
-										<li class="logIn"><a href="https://www.skinit.com/sign_in.php?pc=r" title="log in">Log In</a></li>
-									</ul>
-                                    <ul id="cart" class="clearFix">
-                        <!-- empty -->
-                        <li class="top emptyMessage">There are no items in your cart.</li>
-                        <li class="top shopNow"><a href="http://www.skinit.com/devices/&amp;pc=r" title="shop now">Shop Now</a></li>
-                        <li class="emptyBottom"></li>
-                    </ul>
-                				<!-- calculate open -->
-				<!--
-					<ul id="cart" class="calculating">
-						<li class="top product first"><img src="$imageServer/placeholders/cartItem.jpg" alt="product" width="36px" height="69px" /> <strong>Phoenix Skin</strong> <span>Quantity:1</span> <span>Price: $12.45</span></li>
-						<li class="top product"><img src="$imageServer/placeholders/cartItem.jpg" alt="product" width="36px" height="69px" /> <strong>Phoenix Skin</strong> <span>Quantity:1</span> <span>Price: $12.45</span></li>
-						<li class="subtotal"><span class="price">$24.90</span> <span>Subtotal</span> <span>Tax &amp; Shipping:</span></li>
-						<li class="calculateShipping"><form action="" method="get">
-							<label for="zip">To Calculate Shipping</label>
-							<input type="text" value="Enter Zip Code" name="zip" id="zip" />
-							<button type="submit" class="calculate">Calculate</button>
-						</form></li>
-						<li class="total"><div><span class="price">$24.90</span> <span>TOTAL</span></div></li>
-						<li class="checkoutButtons"><a href="#" title="view cart" class="viewCart">View Cart</a> <a href="#" title="checkout" class="checkout">Checkout</a></li>
-						<li class="bottom"></li>
-					</ul>
-				//-->
-				<!-- calculate completed -->
-				<!--
-					<ul id="cart">
-						<li class="top product first"><img src="$imageServer/placeholders/cartItem.jpg" alt="product" width="36px" height="69px" /> <strong>Phoenix Skin</strong> <span>Quantity:1</span> <span>Price: $12.45</span></li>
-						<li class="top product"><img src="$imageServer/placeholders/cartItem.jpg" alt="product" width="36px" height="69px" /> <strong>Phoenix Skin</strong> <span>Quantity:1</span> <span>Price: $12.45</span></li>
-						<li class="subtotal"><span class="price">$24.90</span> <span>Subtotal</span> <span class="price">$2.99</span> <span>Tax &amp; Shipping:</span> <a href="#" title="calculate">Calculate</a></li>
-						<li class="total"><div><span class="price">$24.90</span> <span>TOTAL</span></div></li>
-						<li class="checkoutButtons"><a href="#" title="view cart" class="viewCart">View Cart</a> <a href="#" title="checkout" class="checkout">Checkout</a></li>
-						<li class="bottom"></li>
-					</ul>
-				//-->
-				<ul id="mainNav">
-					<li class="choose"><a href="http://www.skinit.com/selectDevice.php?pc=r" title="choose your device">Choose Your Device</a></li>
-					<!--li class="create"><a href="http://www.skinit.com/loadCustomizer.php?pc=r" title="create your own">Create Your Own</a></li--> 
-					
-										<li class="create"><a href="/loadCustomizerLightbox.php?pc=r" class="lightbox" title="Create Your Own">Create Your Own</a></li>
-				
-					<li class="explore"><a href="http://www.skinit.com/skins.php?pc=r" title="explore designs">Explore Designs</a></li>
-					<li class="pin"><a href="/pincard_initial.php?pc=r" class="lightbox" title="pin cards">Pin Cards</a></li>
-					<li class="help"><a href="http://www.skinit.com/faq.php?pc=r" title="help">Help</a></li>
-				</ul>
-				<form id="search" action="http://www.skinit.com/search.php" method="get">
-					<fieldset>
-						<label for="keyword">Keyword</label>
-						<input name="keyword" id="keyword" value="Enter Keyword">
-						<a class="hoverLink customSelect" rel="hoverCont">Devices</a>
-						<ul id="hoverCont">
-							<li><a href="#">Devices</a></li>
-							<li><a href="#">Designs</a></li>
-						</ul>
-						<label for="custSelect">Search for:</label>
-						<input type="hidden" name="custSelect" class="customSelectInput" value="Devices">
-						<button type="submit" class="go">Go</button>
-					</fieldset>
-				</form>
-			</div>
 
-            <div id="mainContent" class="clearFix">
+             <table id="tabs" cellspacing="0" cellpadding="0" style="width: 100%; padding: 0px; margin-top: -2px; height: 31px; font:bold 12px Verdana, sans-serif; font-weight: bold;">
+                <tbody><tr style="text-align: center;">
+                    <td style="padding-left: 10px; text-align: center;">
+                        <img style="border: none; margin-left: auto; margin-right: auto;" src="http://www.skinit.com/images/icons/ico_skinit.jpg">
+                    </td>
+                    <td style="padding: 0 5px; text-align: center; color: #98CC53; ">
+                        Phone, Laptop, Mp3 &amp; Game Skins
+                    </td>
+                    <td style="width:2px; text-align: center; background-image:url('http://www.skinit.com/images/backgrounds/bg_tophead.jpg');">
+                        <img src="http://www.skinit.com/images/icons/tophead_spacer.jpg">
+                    </td>
+                    <td style="padding: 0 5px; text-align: center; padding-left: 10px;background-image:url('http://www.skinit.com/images/backgrounds/bg_tophead.jpg');">
+                        <img style="border: none;" src="http://www.skinit.com/images/icons/ico_tailgate.jpg">
+                    </td>
+                    <td style="padding: 0 5px; text-align: center; padding-left: 10px;background-image:url('http://www.skinit.com/images/backgrounds/bg_tophead.jpg');">
+                        <a href="http://tailgatepacks.skinit.com/" title="Skinit Tailgate Packs">Tailgate Packs</a>
+                    </td>
+                    <td style="width:2px; text-align: center; padding-left: 10px;background-image:url('http://www.skinit.com/images/backgrounds/bg_tophead.jpg');">
+                        <img src="http://www.skinit.com/images/icons/tophead_spacer.jpg">
+                    </td>
+                    <td style="padding: 0 5px; text-align: center; padding-left: 10px;background-image:url('http://www.skinit.com/images/backgrounds/bg_tophead.jpg');">
+                        <img style="border: none;" src="http://www.skinit.com/images/icons/ico_wallskins.jpg">
+                    </td>
+                    <td style="padding: 0 5px; text-align: center; padding-left: 10px;background-image:url('http://www.skinit.com/images/backgrounds/bg_tophead.jpg');">
+                        <a href="http://wallskins.skinit.com" title="Skinit WallSkins">WallSkins</a>
+                    </td>
+                    <td style="width:2px; text-align: center; padding-left: 10px;background-image:url('http://www.skinit.com/images/backgrounds/bg_tophead.jpg');">
+                        <img src="http://www.skinit.com/images/icons/tophead_spacer.jpg">
+                    </td>
+                    <td style="width:381px; background-image:url('http://www.skinit.com/images/backgrounds/bg_tophead.jpg');">&nbsp;</td>
+                </tr>
+            </tbody></table>
+            <div id="head">
+                <div id="logo">
+                    <a href="http://www.skinit.com?pc=r" title="skinit express yourself">SkinIt</a>
+                </div>
+                <ul id="userNav">
+                    <li class="shoppingCart">
+                        <a href="https://cart.skinit.com/cart/cartProcessor.php" title="shopping cart" rel="cart" class="hoverLink">
+                            Shopping Cart                          </a></li>
+                    <li>
+                        <form id="fastorder" action="https://www.skinit.com/orderStatus.php" method="get">
+                            <input type="text" name="numorder" value="Enter Order # for Status" id="keyword" style="border: 1px solid #6C8DAC; ">
+                            <p style="height:30px; padding: 0; margin:0; display:inline;">
+                                <input type="submit" value="GO" style=" width:27px; height:21px; margin:0; padding:0; font-weight:bold;">
+                            </p>
+                        </form>
+                    </li>
+                    <li class="logIn"><a href="https://cart.skinit.com/sign_in.php?pc=r" title="log in">Log In</a></li>
+                </ul>
+                <ul id="cart"></ul>
+                <ul id="mainNav">
+                    <li class="choose"><a href="http://www.skinit.com/selectDevice.php?pc=r" title="choose your device">Choose Your Device</a></li>
+
+                    <li class="create"><a href="http://www.skinit.com/loadCustomizer.php?pc=r" title="create your own">Create Your Own</a></li>
+
+                    <li class="explore"><a href="http://www.skinit.com/skins.php?pc=r" title="explore designs">Explore Designs</a></li>
+                    <!--li class="create"><a  href="http://www.skinit.com/customergallery.php?pc=r" title="Get Inspired">Get Inspired</a></li-->
+                    <li class="pin"><a href="/pincard_initial.php?pc=r" class="lightbox" title="pin cards">Pin Cards</a></li>
+                    <li class="help"><a href="http://www.skinit.com/faq.php?pc=r" title="help">Help</a></li>
+                </ul>
+                <form id="search" action="http://www.skinit.com/search.php" method="get">
+                    <fieldset>
+                        <label for="keyword">Keyword</label>
+                        <input name="search" id="keyword" value="Enter Keyword">
+                        <button type="submit" class="go">Go</button>
+                    </fieldset>
+                </form>
+            </div>
+<div id="mainContent" class="clearFix">
 			<div id="banner">
+             <h1>Privacy Policy</h1>
+                    <p>Your personal information is kept safe and secure</p>
 			</div>
 			<ul id="breadcrumbsfaq">
-				<li><a href="/" title="home">Home</a></li>
+				<li><a style="text-decoration:underline" href="/" title="home">Home</a></li>
 				<li class="arrow">&gt;</li>
 				<li><h1>Privacy Policy</h1></li>
 			</ul>
@@ -163,29 +192,32 @@ If we are going to use your personal information differently from that stated at
 				var select = new HoverObject(constants);
 				var skinItLB = new TragicLightbox();  //automatically finds all links with a class of lightBox. Image tags must be wrapped in <a> with the href of the full size image, non-image tags must have a rel of the container id of the ajaxed page.
 			</script>
-			<div id="foot">
-				<ul>
-					<li><a href="http://www.skinit.com" title="home">Home</a></li>
-					<li><a href="http://www.skinit.com/press.php" title="press releases">Press Releases</a></li>
-					<li><a href="http://www.skinit.com/news.php" title="in the news">In the news</a></li>
-					<li><a href="http://www.skinit.com/privacy.php" title="privacy policy">Privacy Policy</a></li>
-					<li><a href="http://www.skinit.com/terms.php" title="terms and conditions">Terms and Conditions</a></li>
-					<li><a href="http://www.skinit.com/resellers.php" title="retailers">Retailers</a></li>
-					<li><a href="http://www.skinit.com/faq.php#19" title="contact">Contact</a></li>
-					<li><a href="http://www.skinit.com/aboutus.php" title="about us">About Us</a></li>
-				</ul>
-				<p>Copyright © 2008 Skinit.com. All Rights Reserved.</p>
-			</div>
-            
-            <script>
+            <div id="foot">
+                <ul>
+                    <li><a href="http://www.skinit.com" title="home">Home</a></li>
+                    <li><a href="http://www.skinit.com/press.php" title="press releases">Press Releases</a></li>
+                    <li><a href="http://www.skinit.com/news.php" title="in the news">In the news</a></li>
+                    <li><a href="http://www.skinit.com/privacy.php" title="privacy policy">Privacy Policy</a></li>
+                    <li><a href="http://www.skinit.com/terms.php" title="terms and conditions">Terms and Conditions</a></li>
+                    <li><a href="http://www.skinit.com/resellers.php" title="retailers">Retailers</a></li>
+                    <li><a href="http://www.skinit.com/landing_page.php?id=affiliates" title="Become an Affiliate">Become an Affiliate</a></li>
+                    <li><a href="http://www.skinit.com/faq.php#19" title="contact">Contact</a></li>
+                    <li><a href="http://www.skinit.com/aboutus.php" title="about us">About Us</a></li>
+                    <li><a href="http://www.skinit.com/facebook_exit" title="Skinit Facebook" target="_blank">Skinit Facebook</a></li>
+                </ul>
+                <p>Copyright © 2008 Skinit.com. All Rights Reserved.</p>
+            </div>
+
+
+            <!-- SCRIPT>
                 microsoft_adcenterconversion_domainid = 326986;
                 microsoft_adcenterconversion_cp = 5050;
             </script>
-                
-            <script src="https://0.r.msn.com/scripts/microsoft_adcenterconversion.js"></script>
-                
-            <noscript><IMG width=1 height=1 SRC="https://326986.r.msn.com/?type=1&cp=1"/></noscript>
-            
+
+            <SCRIPT SRC="https://0.r.msn.com/scripts/microsoft_adcenterconversion.js"></SCRIPT>
+
+            <NOSCRIPT><IMG width=1 height=1 SRC="https://326986.r.msn.com/?type=1&cp=1"/></NOSCRIPT-->
+
             <script type="text/javascript">
                 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
                 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -194,7 +226,12 @@ If we are going to use your personal information differently from that stated at
                 var pageTracker = _gat._getTracker("UA-773411-1");
                 pageTracker._trackPageview();
                 </script>
+            <script type="text/javascript" language="javascript1.1" src="http://cdn.tealium.com/social_media/skinit/liveManager.js"></script>
+
             			<div id="wrapperBottom"></div>
 		</div>
 	
+	<script type="text/javascript">
+  		mybuys.initPage();
+	</script>
 </body></html>
