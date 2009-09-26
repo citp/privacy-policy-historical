@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the trumphotelcollection.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629035407id_/http%3A//www.trumphotelcollection.com/Privacy_Policy/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trumphotelcollection.com privacy policy that was archived on 2009-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090927000648id_/http%3A//www.trumphotelcollection.com/Privacy_Policy/privacy_policy.asp) for the most accurate reproduction.*
 
-# Privacy Policy: Trump Hotel Collection Trump International Hotel Tower Properties Chicago Las Vegas New York Fort Lauderdale Soho New Orleans Waikiki Toronto Baja Cap Cana Panama Scotland Dubai
+# Privacy Policy – Luxury Hotels & Boutique Hotels by Trump
 
-**Introduction:** Trump Hotel Collection has a strong commitment to providing excellent service to all of our customers, including respecting their concerns about privacy. We understand that visitors to our website may have questions about how this website collects and uses information. We have prepared this statement to inform you of the privacy principles that govern trumphotelcollection.com. 
+**Introduction:** Trump® Hotel Collection has a strong commitment to providing excellent service to all of our customers, including respecting their concerns about privacy. We understand that visitors to our website may have questions about how this website collects and uses information. We have prepared this statement to inform you of the privacy principles that govern trumphotelcollection.com. 
 
 This statement contains numerous general and technical details about the steps we take to respect your privacy concerns. The bottom line is that meeting your needs and expectations form the foundation of everything we do - including protecting your privacy. 
 
