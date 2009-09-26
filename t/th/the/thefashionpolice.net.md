@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thefashionpolice.net privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629111222id_/http%3A//www.thefashionpolice.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefashionpolice.net privacy policy that was archived on 2009-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090926151031id_/http%3A//www.thefashionpolice.net/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - From The Fashion Police
+# Privacy Policy « The Fashion Police: Ugly shoes, pants, bags and prom dresses
 
 At TheFashionPolice.net we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit our site, and how we safeguard your information.  We never sell your personal information to third parties.
 
@@ -22,7 +22,7 @@ If you choose to leave a comment on TheFashionPolice.net your name, email addres
 You should be aware that when you voluntarily disclose personally identifiable information (e.g  e-mail address) via comments on TheFashionPolice.net, that information can be collected and used by third parties and may result in unsolicited messages from other posters or third parties.
 
   * Google, as a third-party vendor, uses cookies to serve ads on your site. 
-  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
+  * Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.co.uk/privacy_ads.html). 
 
 
