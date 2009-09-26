@@ -1,91 +1,38 @@
-> *The following text is extracted and transformed from the lhh.com privacy policy that was archived on 2007-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070629235958id_/http%3A//lhh.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lhh.com privacy policy that was archived on 2009-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090926051433id_/http%3A//www.lhh.com/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy | Global Career Services | Lee Hecht Harrison
+# Lee Hecht Harrison
 
-  
-Lee Hecht Harrison Website
+#### Privacy policy
 
-Lee Hecht Harrison wants you to feel confident using our website. In order to gain your confidence Lee Hecht Harrison's Website Privacy Statement has been included online so as to provide you with a clear indication of how Lee Hecht Harrison addresses this important issue. 
+Welcome to www.lhh.com (the "Site"). This website privacy policy ("Policy") describes how Lee Hecht Harrison (LHH) and its subsidiaries ("We", "we", or "Lee Hecht Harrison (LHH)") may use and disclose personally identifiable information that we may collect about you through the Site ("Personal Information"). 
 
-By visiting this site you are agreeing with and consenting to the practices described in this Privacy Statement. Should you not agree with this Privacy Statement you should cease using the website immediately. 
+**Collections and Uses of Personal Information**
 
-This Privacy Statement may be updated from time to time as the website and its content develops and matures. We encourage you to check this Privacy Statement regularly. 
+When you use or register with the Site, we may ask for certain Personal Information. The categories of Personal Information we may request include your name and contact information (email, address and phone number). Depending on the nature of your inquiry or activities on the Site, we may also ask for your preferences, and contact details. The Site also utilizes cookies to track your online activities, including, but not limited to, registration, submissions, and information requests. 
 
-_RESPECTING YOUR INTERNET PRIVACY_
+We use Personal Information and other data collected through the Site to provide you with information regarding our services, and to otherwise provide you with requested information or services. We may also from time to time use your Personal Information to send you automated email messages regarding our services, and marketing offers including promotional material. You may opt out of receiving such email messages by clicking on the opt-out message located at the bottom of the email or by contacting:
 
-If you visit an area of the Lee Hecht Harrison website to which you are not required to log on in order to read, browse or download information, Lee Hecht Harrison's systems may record the date and time of your visit, the pages visited and any information downloaded. Lee Hecht Harrison's systems will not record any information that would identify you personally. If you complete an online registration form via Resume Reserve™ on a Lee Hecht Harrison website, the information that you enter into the form will only be collected if you actually submit the form.
+Lee Hecht Harrison (LHH)   
+Attn: Sid Mehta   
+175 Broad Hollow Rd   
+Melville, NY 11747 
 
-Lee Hecht Harrison may also use the information collected to notify you about changes to our websites, and to inform you of services, opportunities and special events that Lee Hecht Harrison believes that you'll find valuable. 
+**Disclosures of Personal Information**
 
-From time to time we may also use the information to send you information about us, our related companies and possibly about third parties.
+As described in Section 4 of the Terms of Use, Lee Hecht Harrison (LHH) may disclose Personal Information to third parties. The disclosure to third parties would occur in the following circumstances: 
 
-To facilitate our efficient use of your information, and to provide you with the best services and/or opportunities, it may sometimes be necessary for Lee Hecht Harrison to disclose your information to third parties. However, this disclosure will only occur in the following circumstances:
+We will disclose information to our clients where necessary and appropriate in connection with the provision of our services.   
+We may disclose information to companies and individuals we employ to perform business functions and services on our behalf. Such functions may include, for example, hosting our Web servers, analyzing data, providing legal, accounting and marketing services.   
+We may disclose information to the extent necessary or appropriate to government agencies, advisors, and other third parties in order to comply with applicable laws, the service of legal process, or if we reasonably believe that such action is necessary to (a) comply with the law requiring such disclosure; (b) protect the rights or property of Lee Hecht Harrison (LHH) or its affiliated companies; (c) prevent a crime or protect national security or (d) protect the personal safety of the users or the public. 
 
-  * To our Employees, Contractors and Agents  
-From time to time we may engage or employ other companies and individuals to perform functions on our behalf. Examples may include, administrative functions associated with the Lee Hecht Harrison's business activities. Such parties will have access to only that personal information required by them to perform their functions, and may not use such information for any other purposes.
-  
+**Revisions to the Policy**
 
-  * Where required by Law  
-LHH will share information with government or law enforcement authorities in its sole discretion or as required by law. 
-  * To Clients who apply for a password through Lee Hecht Harrison to view resumes that are already posted on the site via ResumeReserve™. Clients' use information is subject to the Resume Reserve Terms of Use. 
+If we change this privacy policy we will post any updates here for your review. If we change material terms in this Policy, we will provide notice of the revised policy for 30 days on the home page at www.lhh.com with a link back to this page. 
 
-_COOKIES_
+This Policy is effective as of 04/27/2009. If you have any questions about our website privacy policies, please contact us at: 
 
-Lee Hecht Harrison uses "cookies" to enable its website to interact with your browser so as to provide you with better service and a more effective website.
+Lee Hecht Harrison (LHH)   
+Attn: Sid Mehta   
+175 Broad Hollow Rd   
+Melville, NY 11747   
 
-"Cookies" are small pieces of information stored by your browser on your computers hard drive. Cookies are used to maintain session information between your browser and Lee Hecht Harrison application, and are required for Lee Hecht Harrison's application to operate. The Lee Hecht Harrison Web server can later retrieve these cookies if you visit again. 
-
-Lee Hecht Harrison allocates a cookie to each Internet browser that visits its website. This cookie does not allow Lee Hecht Harrison to collect personally identifiable information about you. Lee Hecht Harrison's website server uses this cookie: 
-
-  * to allocate a unique identification number to your Internet browser; 
-  * to identify pages you have accessed on the Lee Hecht Harrison website
-  * to determine if you have previously visited that website. 
-
-If you wish to make full use of the Lee Hecht Harrison website, you should configure your browser to accept cookies. 
-
-Lee Hecht Harrison's website also uses cookies for its secure services. It is necessary for you to configure your browser to accept cookies if you wish to use these services. 
-
-_IP ADDRESS_
-
-Lee Hecht Harrison's website servers gather your IP address to help diagnose problems with our service, to administer our site, and to gather broad demographic information. Demographic information is gathered in aggregate only and cannot be traced to an individual user. 
-
-_REGISTRATION FORM_
-
-Registration with Lee Hecht Harrison is completely optional. A Lee Hecht Harrison registration form requires users to provide an e-mail address. 
-
-_USER FEEDBACK_
-
-Lee Hecht Harrison welcomes ideas and feedback from you about all aspects of the site. Lee Hecht Harrison stores feedback that users send to us. This feedback is used to administer and refine Lee Hecht Harrison's service, and, at times, may be shared with Lee Hecht Harrison's partners either in aggregate form or with specific identifying characteristics (e.g., e-mail address, name) removed. We may also use the information and ideas you send us to improve or promote the site, but we will not publish your name in association with any information you provide without contacting you and gaining your permission.
-
-_CONFIDENTIALITY OF PERSONAL INFORMATION_
-
-Lee Hecht Harrison recognizes that information related to your job search is highly personal and sensitive. Access to your personal information is provided by use of your username and password. You are responsible for ensuring the privacy and security of your username. You may choose to send or store personal information with a Lee Hecht Harrison representative. This could include job applications sent directly via e-mail to Lee Hecht Harrison, or making your resume available for searching by Lee Hecht Harrison Consultants, authorized third parties, recruiters authorized to access ResumeReserve™ (RR), and candidates via RR networking. These services are optional. Your resume privacy preferences may be edited at any time. Lee Hecht Harrison will not sell, trade, rent, lend or give your personal information to others without your authorization. If you contact us with a request for assistance in using site features or report an error, authorized Lee Hecht Harrison staff may access your user registration details solely in order to diagnose your problem and identify solutions. 
-
-_DELETE/UNSUBSCRIBE INFORMATION_
-
-Users can unsubscribe from services at any time, by following the instructions on the site or in e-mail sent to [info@lhh.com](mailto:info@lhh.com). 
-
-Lee Hecht Harrison is not responsible for removing information from third-party lists.
-
-_HOW SECURE IS YOUR INFORMATION?_
-
-We attempt to keep our server secure and free from unauthorized access and use, by enforcing physical security at the premises in which the server is located, and by using industry standard technological measures to prevent unauthorized remote access to the server.
-
-Unfortunately, no server on the Internet or any data transmission over the Internet can be guaranteed to be 100% secure. Despite our best efforts to keep our server and transmissions to and from our server secure, we are unable to absolutely guarantee security and there will always be a risk of unauthorized access to your information. Although we will take all reasonable steps to keep secure any information that we hold about you, we will not be held responsible for events arising from unauthorized access to such information.
-
-_CONTACTING US_
-
-If you have any questions about this Privacy Statement, the practices of this site, or your dealings with us, you can contact us:
-
-Via mail:  
-  
-|  Website Information   
-Lee Hecht Harrison, LLC  
-50 Tice Boulevard  
-Woodcliff Lake, New Jersey 07677 USA  
-  
----|---  
-Via e-mail:  
-  
-|  [info@lhh.com](mailto:info@lhh.com)  
-If you have any questions or comments about our legal statement, please [contact us](https://web.archive.org/web/20070629235958id_/http%3A//lhh.com/contact/index.cfm).
