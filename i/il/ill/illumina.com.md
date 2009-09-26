@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the illumina.com privacy policy that was archived on 2009-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090513004516id_/http%3A//www.illumina.com/pagesnrn.ilmn%3FID%3D127) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the illumina.com privacy policy that was archived on 2009-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090926080605id_/http%3A//www.illumina.com/pagesnrn.ilmn%3FID%3D127) for the most accurate reproduction.*
 
 # corporate - legal: privacy policy - Illumina, Inc.
 
@@ -11,9 +11,6 @@
   
 [join the illumina community](https://web.archive.org/pagesnrn.ilmn?ID=142&PageName=legal:%20privacy%20policy)
 
-[](https://web.archive.org/web/20090513004516id_/http%3A//www.illumina.com/stimulus/?source=leftnav)
-
-  
 |   
 |   
 legal: privacy policy **information collected**  
