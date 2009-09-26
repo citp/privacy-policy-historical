@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fapturboexpertguide.com privacy policy that was archived on 2009-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090225110849id_/http%3A//www.fapturboexpertguide.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fapturboexpertguide.com privacy policy that was archived on 2009-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090926072308id_/http%3A//www.fapturboexpertguide.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Forex Expert Advisor
+# Privacy Policy | FAP Turbo Expert Guide
 
 ## Privacy Policy
 
