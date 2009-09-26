@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homemade-porn-tube.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616161652id_/http%3A//www.homemade-porn-tube.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homemade-porn-tube.com privacy policy that was archived on 2009-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090926155727id_/http%3A//www.homemade-porn-tube.com/privacy) for the most accurate reproduction.*
 
 # homemade-porn-tube.com
 
