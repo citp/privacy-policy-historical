@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecpulse.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525080822id_/http%3A//www.ecpulse.com/en/CompanyProfile/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecpulse.com privacy policy that was archived on 2009-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090927155436id_/http%3A//www.ecpulse.com/en/CompanyProfile/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy , Company Profile - ecPulse.com
 
