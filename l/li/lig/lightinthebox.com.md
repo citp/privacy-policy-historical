@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightinthebox.com privacy policy that was archived on 2009-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090309132540id_/http%3A//www.lightinthebox.com/r/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightinthebox.com privacy policy that was archived on 2009-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090927033344id_/http%3A//www.lightinthebox.com/r/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice - www.LightInTheBox.com
 
