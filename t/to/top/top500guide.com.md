@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top500guide.com privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522013314id_/http%3A//www.top500guide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top500guide.com privacy policy that was archived on 2009-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090927182237id_/http%3A//www.top500guide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Top 500 Guide
 
