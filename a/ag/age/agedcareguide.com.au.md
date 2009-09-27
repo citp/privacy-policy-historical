@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agedcareguide.com.au privacy policy that was archived on 2009-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090225072517id_/http%3A//www.agedcareguide.com.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agedcareguide.com.au privacy policy that was archived on 2009-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090927192515id_/http%3A//www.agedcareguide.com.au/privacy.asp) for the most accurate reproduction.*
 
 # Aged Care Guide - Privacy Policy
 
