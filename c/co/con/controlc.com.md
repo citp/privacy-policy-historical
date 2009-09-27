@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the controlc.com privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413220726id_/http%3A//controlc.com/index.php%3Fdo%3Dabout%26code%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the controlc.com privacy policy that was archived on 2009-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090927172940id_/http%3A//controlc.com/index.php%3Fdo%3Dabout%26code%3Dprivacy) for the most accurate reproduction.*
 
 # ControlC
 
