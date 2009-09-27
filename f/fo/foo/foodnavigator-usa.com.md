@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodnavigator-usa.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626114356id_/http%3A//www.foodnavigator-usa.com/Publications/Info/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodnavigator-usa.com privacy policy that was archived on 2009-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090928001351id_/http%3A//www.foodnavigator-usa.com/Publications/Info/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -51,7 +51,7 @@ We may use IP addresses to help diagnose problems with our servers or to adminis
 ## Newsletters and Subscriber Offers
 
 We may use the information you provide us to send you e-mail on behalf of Decision News Media and selected marketing partners. These communications may include e-mail newsletters that are relevant to the Sites, as well as subscriber offers from selected marketing partners. All of these communications will include instructions explaining how you can request that we not send you (“ ** _opt out_** ” of) future communications of the same type.   
-When you register with and provide information to the Sites you will be given an opportunity to opt out of our sending you offer on behalf of third parties. In addition, each of these communications will include instructions for opting out of receiving future third party offers from us. You may also opt out of receiving third party offers from these Web Sites at any time by sending an e-mail to [privacypolicy@decisionnews.com](mailto:privacypolicy@decisionnews.com) with the subject line “opt out - third party.” 
+When you register with and provide information to the Sites you will be given an opportunity to opt out of our sending you offer on behalf of third parties. In addition, each of these communications will include instructions for opting out of receiving future third party offers from us. You may also opt out of receiving third party offers from these Web Sites at any time by sending an e-mail to **privacy-policy at decisionnews dot com** with the subject line “opt out - third party.” 
 
 ## Our Disclosure of Your Information
 
@@ -76,13 +76,13 @@ We use reasonable security safeguards to protect Personally Identifiable Informa
 
 ## Right to Access and Change Information
 
-You may view and update information that you previously submitted to the Sites by editing your registration profile or sending an email to [privacypolicy@decisionnews.com](mailto:privacypolicy@decisionnews.com) However, a request to change information may not be accommodated if the request would conflict with legal requirements or result in incorrect information. Requests to view or change personal information may take a few days to process. 
+You may view and update information that you previously submitted to the Sites by editing your registration profile or sending an email to privacy-policy at decisionnews dot com. However, a request to change information may not be accommodated if the request would conflict with legal requirements or result in incorrect information. Requests to view or change personal information may take a few days to process. 
 
 ## Opt-Out
 
 This Privacy Policy describes certain opportunities you will have to opt out of our using or disclosing your Personally Identifiable Information. 
 
-An opt out request will not be specific to a particular service or product. For example, if you opt out of receiving third party offers from the Sites, you will be removed from the marketing database of all other Decision News Media sites that you are registered with. We cannot guarantee that we will be able to accommodate opt out requests that apply to multiple web sites, products or services, but we will try to do so to the extent feasible. If you experience any problems or continue to receive marketing material please contact us immediately [privacypolicy@decisionnews.com](mailto:privacypolicy@decisionnews.com) . 
+An opt out request will not be specific to a particular service or product. For example, if you opt out of receiving third party offers from the Sites, you will be removed from the marketing database of all other Decision News Media sites that you are registered with. We cannot guarantee that we will be able to accommodate opt out requests that apply to multiple web sites, products or services, but we will try to do so to the extent feasible. If you experience any problems or continue to receive marketing material please contact us immediately at **privacy-policy at decisionnews dot com**. 
 
 Any opt out request will only be effective after a reasonable period of time for processing. 
 
@@ -92,7 +92,7 @@ The Sites contain content, services, advertising and other materials that link t
 
 ## Contact
 
-If you feel that this company is not abiding by its posted privacy policy, you should contact us by email at [privacypolicy@decisionnews.com](mailto:privacypolicy@decisionnews.com) . 
+If you feel that this company is not abiding by its posted privacy policy, you should contact us by email at **privacy-policy at decisionnews dot com**. 
 
 **The Sites are operated by:**
 
