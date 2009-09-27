@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the freeringtonelocker.com privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522003405id_/http%3A//www.freeringtonelocker.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeringtonelocker.com privacy policy that was archived on 2009-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090928012604id_/http%3A//www.freeringtonelocker.com/pp.php) for the most accurate reproduction.*
 
-# mbuzzy.com - images, ringtones, applications for your phone
-
-### mbuzzy Privacy Policy
+# mbuzzy.com - privacy policy
 
 **Policies**  
 A Note to Children and Parents: We intend the mbuzzy web site for use by adults. Children are not eligible to use our services and we ask that minors (under the age of 18) do not submit any personal information to us. If you are a minor, you can use this service only in conjunction with your parents or guardians.
