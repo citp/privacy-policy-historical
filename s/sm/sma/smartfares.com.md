@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the smartfares.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615162520id_/http%3A//www.smartfares.com/PRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartfares.com privacy policy that was archived on 2009-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090927142133id_/http%3A//smartfares.com/PRIVACY) for the most accurate reproduction.*
 
 # Smartfares.com Privacy Policy
 
-**Smartfares Privacy Policy**
-
-Smartfares.com  is a licensee of the TRUSTe Web Privacy Seal Program.  TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the Web site <http://www.smartfares.com/>. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. __
+Smartfares.com is a licensee of the TRUSTe Web Privacy Seal Program.  TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the Web site <http://www.smartfares.com/>. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. __
 
 If you have questions or concerns regarding this statement, you should first our Chief Privacy Officer at[privacy@smartfares.com](mailto:privacy@smartfares.com).  If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.
 
@@ -71,13 +69,17 @@ We do not sell individual customer names or other private profile information to
 
 At any time you may view and/or update your personal information and preferences through the "My Profile" link accessible on the Smartfares.com home page. You may also view, update, or delete saved itineraries by visiting the "Flight Status" page. 
 
-**Cookies and Other Web Technologies**
+**Cookies, Third Party Tracking, and Other Web Technologies**
 
-When you visit Smartfares.com, we may assign your computer a "cookie" (a small, unique identifier text file stored by your web browser on your computer's hard drive). For example, whenever you sign in as a Smartafres.com member, we record your member ID and the name on your member account in the cookie file on your computer. We also may record your password in this cookie file, if you checked the box entitled "Remember me next time." Cookies allow us to serve you better and more efficiently, and to personalize your experience at our site. 
+When you visit Smartfares.com, we may assign your computer a "cookie" (a small, unique identifier text file stored by your web browser on your computer's hard drive). For example, whenever you sign in as a Smartfares.com member, we record your member ID and the name on your member account in the cookie file on your computer. We also may record your password in this cookie file, if you checked the box entitled "Remember me next time." Cookies allow us to serve you better and more efficiently, and to personalize your experience at our site. 
 
 The use of cookies is very common on the Internet and Smartfares.com's use of cookies is very similar to that of Expedia and Travelocity, as well as Yahoo! and CN.com. Cookies are unable to do such things as run programs on your computer or plant viruses. 
 
-Note that member IDs, passwords, and any other account-related data in such cookies are encrypted for security purposes. No personal information about you is gathered or stored in the cookies placed by the Smarfares.com web site. You can always choose not to receive a cookie file by enabling your Web browser to refuse cookies or to prompt you before accepting a cookie. Please note that if you refuse to accept from Smartfares.com, you may not be able to access many of the travel tools offered by Smarfares.com
+We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective.  Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users.  In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information. 
+
+We use a third-party tracking service that uses cookies and log files to track non-personally identifiable information about visitors to our site in the aggregate. These tracking technologies are employed to measure traffic on the site in order to effectively manage and upgrade the site. ****
+
+Note that member IDs, passwords, and any other account-related data in such cookies are encrypted for security purposes. No personal information about you is gathered or stored in the cookies placed by the Smartfares.com web site. You can always choose not to receive a cookie file by enabling your Web browser to refuse cookies or to prompt you before accepting a cookie. Please note that if you refuse to accept from Smartfares.com, you may not be able to access many of the travel tools offered by Smartfares.com.
 
  **How We Protect Your Information?**
 
@@ -91,4 +93,4 @@ If you have any questions or concerns about this policy or our information handl
 
 Smartfares.com may update this Privacy Policy in the future. We will notify you about material changes to this Privacy Policy by sending a notice to the e-mail address you provided to us or by placing a prominent notice on our Web site. 
 
-**This Privacy Policy was last updated on September 30, 2008.**
+**This Privacy Policy was last updated on September 9, 2009.**
