@@ -1,14 +1,22 @@
-> *The following text is extracted and transformed from the gm.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418084654id_/http%3A//www.gm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gm.com privacy policy that was archived on 2009-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090927125857id_/http%3A//www.gm.com/privacy) for the most accurate reproduction.*
 
 # 
 
-Your privacy is important to General Motors Corporation (GM), as is your trust in GM products and services. We want you to know that the information you share with us will be treated with care.
+### New Privacy Statement for a new company – General Motors Company
+
+### Effective July 10th, 2009
+
+**On July 10th, 2009, General Motors Corporation, Saturn, LLC, Saturn Distribution Corporation and Chevrolet-Saturn of Harlem, Inc., sold most of their assets to a new legal entity, General Motors Company. These companies will be transferring personal information about you (for example your contact information and vehicle purchase history) to General Motors Company. General Motors Company has substantially the same privacy policies in place as General Motors Corporation did.**
+
+**For General Motors Corporation statement on Your California Privacy Rights[click here](https://web.archive.org/privacy/california.jsp).**
+
+Your privacy is important to General Motors Company (GM), as is your trust in GM products and services. We want you to know that the information you share with us will be treated with care.
 
 GM's Privacy Statement for U.S. Consumers lets you know how we handle personally identifiable information you share with GM through gm.com and certain other GM Websites (e.g., GMGoodwrench.com or Chevrolet.com); at events; on Business Reply Cards (BRCs) and sweepstakes entries; and through our customer call centers. It also applies to information about you and your vehicle we obtain from GM affiliates, GM dealers, GM licensees for consumer merchandise, GM credit card bank partners, and other sources such as those that provide lists of potential vehicle purchasers, current owners, or potential cardholders. We have also included answers to frequently asked questions about features of GM vehicles that record and transmit data regarding vehicle functions. Some GM Websites have supplemental information on privacy, and others have their own privacy statements, which may be accessed at those Websites. (Click for details on the Scope of the Statement).
 
-The information you share with us may be used by GM, our affiliates, our licensees, and dealers. It may be used by our suppliers exclusively to provide services for GM, and by our business partners to conduct joint marketing programs with GM. **We will not share your personal information with third parties other than these, or with any third party for their independent use without your permission.**
+The information you share with us may be used by GM, our affiliates, our licensees, and dealers. It may be used by our suppliers exclusively to provide services for GM, and by our business partners to conduct joint marketing programs with GM. It may also be shared in connection with the sale, transfer or financing of a significant part of a GM business. **We will not share your personal information with third parties other than these, or with any third party for their independent use without your permission.**
 
-For more information, please read GM's Privacy Statement for U.S. Consumers. For Frequently Asked Questions about privacy, please click here.
+For more information, please read GM's New Privacy Statement for U.S. Consumers. For Frequently Asked Questions about privacy, please click here. For information about how to opt-out of being contacted by GM for marketing purposes click here.
 
 ### Scope
 
@@ -16,22 +24,17 @@ This Privacy Statement explains how we handle personal information you share wit
 
 GM businesses covered by this Privacy Statement include:
 
-[GM.com](http://www.gm.com/)
-
 U.S. Automotive and Credit Card consumer pages on gm.com are covered by this Privacy Statement. The Education pages of GMobility at gm.com have their own privacy statements that address the pages of the Website directed at children. The Careers and Retiree Information sections of gm.com are not consumer sites and are not covered by this Privacy Statement.
 
 Other GM Websites and business units
 
 To provide services, some GM consumer Websites may request additional information or provide services not covered under this general statement. Please click on the links listed below to view the supplemental privacy information that should be read together with this Privacy Statement.
 
-  * GM Vehicle Showroom
-  * My GMLink
   * Investor Information
   * Saturn
   * GM Cardmember Services
   * Vehicle Purchase Programs
-    * GM Family First
-    * GM Supplier Discount
+  * Dealer Candidate Information
 
 
 
@@ -59,7 +62,7 @@ In addition, our GM affiliates, GM dealers, GM merchandise licensees, and other 
 
 Information about you or your vehicle may be used to respond to your requests for product brochures, to customize and improve communication content, or for marketing or product research. It may also be used to provide you with helpful offers and information on GM products and services.
 
-We may share information about you and your vehicle within GM, with our affiliates, and with our dealers. GM may also share personal information collected with our suppliers for the exclusive purpose of providing services for us (for example, mailing information in response to your request for a vehicle brochure) and with our business partners to conduct joint marketing programs with GM. Information regarding your GM Card will not be shared with GM dealers.
+We may share information about you and your vehicle within GM, with our affiliates, and with our dealers. GM may also share personal information collected with our suppliers for the exclusive purpose of providing services for us (for example, mailing information in response to your request for a vehicle brochure) and with our business partners to conduct joint marketing programs with GM. It may also be shared in connection with the sale, transfer or financing of a significant part of a GM business. Information regarding your GM Card will not be shared with GM dealers.
 
 **GM will not share information about you or your vehicle with any third party for their independent use without your permission.**
 
@@ -85,29 +88,21 @@ GM recognizes the importance of safeguarding consumer personal information in GM
 
 ### Privacy Inquiries
 
-If you have concerns or questions regarding GM's consumer privacy practices, please refer to the frequently asked questions that follow, or you may contact us at 1-866-MYPRIVACY (1-866-697-7482). California residents click for more information on Your California Privacy Rights.
+If you have concerns or questions regarding GM's consumer privacy practices, please refer to the frequently asked questions that follow, or you may contact us at 1-866-MYPRIVACY (1-866-697-7482). California residents click for more information on [Your California Privacy Rights](https://web.archive.org/privacy/california.jsp).
 
 ### Changes
 
 We retain the right to change this Privacy Statement. We will post changes to this page in a timely manner.
 
-This statement is effective as of 10/1/2008.
+This statement is effective as of 7/10/2009.
 
 ### Supplemental Privacy Information
 
 This information supplements the information provided in the GM Privacy Statement for U.S. Consumers.
 
-Choice and Updating Information \- GM Vehicle Showroom users may correct their contact information provided during a visit to GM Vehicle Showroom (name, Zip Code, e-mail address, and phone number) by calling GM at 1-800-462-8976. These updates will only be made in the GM Vehicle Showroom system.
-
-Personal Information Collection and Sharing \- Personal information such as vehicle insurance information is also requested in a section of My GMLink called Vehicle Reference Card. The Vehicle Reference Card is provided solely for your convenience and its use is optional. Vehicle Reference Card information will not be shared within GM or with GM dealers.
-
-Correcting Your Information \- You may correct your contact information (name, address, phone number, and e-mail address) through your profile on My GMLink at <https://www.mygmlink.com/main/US/en/gm/myprofile>, by sending an e-mail to [mygmlink@gm.com](mailto:mygmlink@gm.com) or by calling us at 1-866-MYGMLINK. These corrections will only affect your MyGMLink profile.
-
-Privacy Inquiries \- If you have a concern about the privacy practices of the MyGMLink.com Website, please contact us by sending an e-mail to [mygmlink@gm.com](mailto:mygmlink@gm.com) or by calling us at 1-866-MYGMLINK.
-
 Collection \- On the Investor Information Website we may collect your name, address, phone number, and e-mail address. GM may also receive personal information you provide to GM Stockholder Services through e-mail, written communications, or telephone calls, and from our stock transfer agent, such as account information.
 
-Uses \- This personal information may be used for providing you information you have requested. We may share this personal information with suppliers for the purpose of providing the services you request and to provide services for GM. We may also share your information with GM affiliates to provide you with information about GM products and services. GM will not share your personal information with other third parties for their independent use. We may disclose your personal information as required by law, in conjunction with a government inquiry, or in litigation or dispute resolution.
+Uses \- This personal information may be used for providing you information you have requested. We may share this personal information with suppliers for the purpose of providing the services you request and to provide services for GM. We may also share your information with GM affiliates to provide you with information about GM products and services. It may also be shared in connection with the sale, transfer or financing of a significant part of a GM business. GM will not share your personal information with other third parties for their independent use. We may disclose your personal information as required by law, in conjunction with a government inquiry, or in litigation or dispute resolution.
 
 Choice and Updating Information \- Stockholders wishing to update information with GM's stock transfer agent or their own stockbrokers should contact those parties directly. Opt-outs from GM marketing communications will not affect communications sent on or by or on behalf of GMs stock transfer agent or stockholders.
 
@@ -117,7 +112,7 @@ Personal Information Collection \- We may request personal information at certai
 
 Correcting Your Information \- You may correct the contact information (name, address, phone number, and e-mail address) you provide on the Saturn Website by using [My Profile](http://www.saturn.com/mysaturn/). These updates will only affect your data at the Saturn Website or call-center database.
 
-Privacy Inquiries \- If you have a question or concern about the privacy practices of the Saturn.com Website, please contact us by sending an e-mail from the [Contact Us](http://www.saturn.com/saturn/footer/contactus/index.jsp) page or by writing to us at: Saturn Privacy, 100 Saturn Parkway, MD 371-999-S24, Spring Hill, TN 37174.
+Privacy Inquiries \- If you have a question or concern about the privacy practices of the Saturn.com Website, please contact us by sending an e-mail from the [Contact Us](http://www.saturn.com/saturn/footer/contactus/index.jsp) page or by writing to us at: Saturn Customer Assistance Center, PO Box 33173, Detroit, MI 48232-5173.
 
 Correcting Your Information \- You may correct your contact information (name, address, phone number and e-mail address) by logging onto gmcard.com, gmflexcard.com, gmextendedfamily.com or gmbusinesscard.com and going to the "Account" or "Online Banking" portion of the Website. You can also call the Customer Center respective to your Account.
 
@@ -134,87 +129,19 @@ Correcting Your Information \- You may correct the contact information (name, ad
 
 Privacy Inquiries \- If you have a question or concern about the privacy practices of the GM Cardmember Services Website, please contact us by sending an e-mail from the Contact Us page or by writing to us at: GM Cardmember Services, 100 Renaissance Center, 482-A00-MAR, Detroit, MI 48265.
 
-This Supplemental Privacy Information explains how we handle personally identifiable information you share with GM through the GM Family First Website (gmfamilyfirst.com) and through our customer call centers. It also applies to personal information GM obtains for marketing purposes from GM Dealers and other sources for use in the Family First program.
+This Supplemental Privacy Information explains how we handle personally identifiable information you share with GM through the Vehicle Purchase Programs (VPP) websites: [GM Family First](http://www.gmfamilyfirst.com/), [GM Supplier Discount](http://www.gmsupplierdiscount.com/), [GM Dealership Employee Discount](http://www.gmded.com/), [GM College Discount](http://www.gmcollegediscount.com/), [GM Military Discount](http://www.gmmilitarydiscount.com/) and [Credit Union Member Discount from GM](http://www.gm.com/creditunion) and through our customer call centers. It also applies to personal information GM obtains for marketing purposes from GM Dealers and other sources for use in theVPP.
 
-Personal Information Collection \- You may use the GM Family First Website to learn about our products and services without disclosing any personal information. We may ask you to provide us with personal information to verify your eligibility for access to the Website or for participation in the vehicle purchase program. Information that may be requested on the GM Family First Website or at the call center includes: contact information such as name, e-mail address, and telephone number; Website eligibility verification information, including the last four digits of your Social Security number; and purchase verification information, including birth date, and last four digits of the purchaser's Social Security number. If you are requesting product information, you may be asked to provide information regarding your vehicle purchase plans, and other household information.
+Personal Information Collection \- You may use the VPP websites to learn about our products and services without disclosing any personal information. We may ask you to provide us with personal information to verify your eligibility for access to the Website or for participation in the vehicle purchase program. Information that may be requested on the VPP websites or at the call center includes: contact information such as name, e-mail address, and telephone number; Website eligibility verification information, such as college name, branch of service or credit union name; and purchase verification information, including birth date and zip code. If you are requesting product information, you may be asked to provide information regarding your vehicle purchase plans, and other household information.
 
-Uses \- Personal information about you may be used to respond to your requests for information; to verify your identity for access to the GM Family First Website and redemption of purchase authorization numbers; to customize and improve communication content; or for marketing research. It may also be used for providing you with helpful offers and information on GM products and services.
+Uses \- Personal information about you may be used to respond to your requests for information; to verify your identity for access to the VPP websites and redemption of purchase authorization numbers; to customize and improve communication content; or for marketing research. It may also be used for providing you with helpful offers and information on GM products and services, as well as offers and information from our affiliates and business partners to conduct joint marketing programs with GM.
 
-Personal information you supply about a participant in the employee vehicle purchase program is used only to verify eligibility for and redemption of purchase authorization numbers.
+Personal information supplied about a participant in the VPP is used only to verify eligibility for and redemption of purchase authorization numbers.
 
-Information Security \- Account information is encrypted when submitted on the GM Family First Website.
+Information Security \- We take steps to make personal information received from you secure against unauthorized access and use. Personal information submitted on the VPP websites is encrypted during transmission.
 
-Correcting Your Information and Privacy Inquiries \- If you would like to correct your personal information or if you have concerns or questions regarding GM's privacy practices relating only to the GM Family First Website, you may contact us by phone at 1-800-235-4646.
+Correcting Your Information and Privacy Inquiries \- If you would like to correct your personal information or if you have concerns or questions regarding GM's privacy practices, please refer to the frequently asked questions that follow, or you may contact us at 1-866-MYPRIVACY (1-866-697-7482). For GM Family First participants, you may correct your information by contacting your Human Resources representative. For other VPP participants, you may correct your personal information by visiting the following VPP websites. 
 
-This Supplemental Privacy Information explains how we handle personally identifiable information you share with GM through the GM Supplier Discount Website (gmsupplierdiscount.com) and through our customer call centers.
-
-Personal Information Collection and Use \- We may ask you to provide us with personal information, including contact information such as name, address, e-mail address, telephone number and the last four digits of your Social Security number.
-
-Personal information about you may be used to respond to your request for more information about a product or service, for future marketing of services or products, and to provide the products and services offered on the GM Supplier Discount Website.
-
-Information Security \- We take steps to make personal information received from you secure against unauthorized access and use. Personal information submitted on the GM Supplier Discount Website is encrypted during transmission.
-
-Correcting Your Information and Privacy Inquiries \- If you would like to correct your personal information or if you have concerns or questions regarding GM's privacy practices relating only to the GM Supplier Discount Website, please contact us by calling 1-800-960-3375.
-
-### 2007 Disclosure
-
-Under California Civil Code Section 1798.83, also known as Senate Bill 27, you are entitled to request and receive, free of charge, a copy of GM's California Information Sharing Disclosure Notice for the previous calendar year. You may print this page, or call 1-866-MYPRIVACY (1-866-697-7482) to request a copy.
-
-### California Information-Sharing Disclosure
-
-This Information-Sharing Disclosure Notice reflects the information-sharing practices of GM during the previous calendar year with third parties for their own commercial marketing purposes. You will notice that the "third parties" listed in this notice are General Motors affiliates. These affiliates are listed as "third parties" because, under Senate Bill 27, any business that is a separate legal entity must be listed as a "third party."
-
-**GM did not share your personal information with non-affiliated third parties for their independent commercial marketing use without your permission.**
-
-GM may have shared the following categories of information with the affiliates listed below so they could use it to offer you other valuable products and services as part of the GM family of companies:
-
-  * Contact information (including name, address, city, state, Zip Code, phone number, and e-mail address)
-  * Vehicle purchase information (including VIN, make, model, model year, selling dealer, purchase date)
-  * Other non-credit-related marketing profile information (including information you may have provided when expressing interest in, or during your purchase of, our products or services)
-
-
-
-Our GM affiliates who may have received your information are as follows:
-
-  * GMAC Bank
-  * 3710 Kennett Pike
-  * Greenville, DE 19807
-
-
-  * GMAC Insurance
-  * Personal Lines Group
-  * 13736 Riverport Drive,
-  * Suite 700
-  * Maryland Heights, MO 63043
-
-
-  * GMAC Insurance
-  * Dealer Products and Services
-  * GM Protection Plan
-  * 300 Galleria Officentre - Suite 300
-  * Southfield, MI 48034 
-
-
-  * GMAC Mortgage Corporation
-  * 100 Witmer Road
-  * Horsham, PA 19044
-
-
-  * OnStar
-  * 400 Renaissance Center
-  * P.O. Box 400
-  * Detroit, MI 48265-4000
-
-
-  * Saab Financial Services Corp.
-  * Customer Service Center
-  * P.O. Box 7101
-  * Little Rock, AR 72223-7101
-  * (888) 594-SAAB (7222)
-
-
-
-For the full GM Privacy Statement, click here.
+Collection and Use: if you apply to become a GM dealer, in the application process we will collect personal information to evaluate your application.
 
 ### Q1: 
 
@@ -222,7 +149,7 @@ What are "GM affiliates"?
 
 ### A: 
 
-As used in this privacy statement, GM affiliates are companies that are owned or controlled by GM, or those companies in which GM has a substantial ownership interest. Some examples include Saturn, Saab, GMAC, and OnStar.
+As used in this privacy statement, GM affiliates are companies that are owned or controlled by GM, or those companies in which GM has a substantial ownership interest. Some examples include Saturn, Saab, GMAC, GMAC Insurance, Nuvell Credit Company LLC, Nuvell Financial Services LLC and OnStar.
 
 ### Q2: 
 
@@ -258,11 +185,11 @@ GM dealers may use your personal information to contact you about your interest 
 
 ### Q6: 
 
-If I opt out of receiving communications from my dealer, will I still receive communications from GM?
+If I opt out of receiving communications from my dealer, will I still receive communications from GM? How can I opt-out of GM marketing communications?
 
 ### A: 
 
-Yes, you may continue to receive communications from us. GM and GM dealers are separate legal entities with their own privacy practices. If you don't want to receive marketing messages from GM regarding our vehicles, you should call 1-866-myprivacy (1-866-697-7482), or visit our Consumer Preference System Website at www.gmcontactpreferences.com.
+Yes, you may continue to receive communications from us. GM and GM dealers are separate legal entities with their own privacy practices. If you don't want to receive marketing messages from GM regarding our vehicles, you should call 1-866-MYPRIVACY (1-866-697-7482), or visit our Consumer Preference System Website at [www.gmcontactpreferences.com](http://www.gmcontactpreferences.com/).
 
 ### Q7: 
 
@@ -278,7 +205,7 @@ How do I opt out of receiving unsolicited marketing communications from GM or ch
 
 ### A: 
 
-If you do not want to receive unsolicited marketing communications from GM or GM business units, please visit our [Consumer Preference System Website](http://www.gmcontactpreferences.com/). This will allow you to opt out of telephone and e-mail communications and/or to change previously submitted opt-out preferences. You can also call 1-866-myprivacy (1-866-697-7482) to opt out of direct mail communications, as well as telephone and e-mail communications, and/or to change previously submitted opt-out preferences.
+If you do not want to receive unsolicited marketing communications from GM or GM business units, please visit our [Consumer Preference System Website](http://www.gmcontactpreferences.com/). This will allow you to opt out of telephone and e-mail communications and/or to change previously submitted opt-out preferences. You can also call 1-866-MYPRIVACY (1-866-697-7482) to opt out of direct mail communications, as well as telephone and e-mail communications, and/or to change previously submitted opt-out preferences.
 
 ### Q9: 
 
