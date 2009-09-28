@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ktvq.com privacy policy that was archived on 2009-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090511180316id_/http%3A//www.ktvq.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktvq.com privacy policy that was archived on 2009-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090929003601id_/http%3A//www.ktvq.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy - Q2 KTVQ - Billings, Montana - News, Weather, Sports -
 
