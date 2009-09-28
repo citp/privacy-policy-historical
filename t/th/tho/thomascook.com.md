@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thomascook.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503072907id_/http%3A//www.thomascook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thomascook.com privacy policy that was archived on 2009-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090928032125id_/http%3A//www.thomascook.com/privacy-policy) for the most accurate reproduction.*
 
-# Book cheap holidays and holiday deals at thomascook.com
+# Thomas Cook understands the importance of site privacy
 
-  * [Home](https://web.archive.org/;jsessionid=BD564382E78ABC1861D766C7E6B595C9.appa15)
+  * [ Home ](https://web.archive.org/)
   * 
 
 
@@ -23,6 +23,7 @@ We use third-party application service providers to perform some tracking functi
 
 Users who have subscribed to our e-mail service or visitors purchasing products on the Site who have not opted out, will receive promotional mailings and e-mails from Thomas Cook companies. Your personal details will not be passed to any other third parties except where necessary to process your booking or enquiry. Your details may be passed to countries outside of the UK and the European Economic Area in order to process and arrange for the products and services you request. When you submit your booking or request to us you agree that we may use and transfer your personal information in this manner.
 
-We will provide a summary of any personal information held upon request. This information will only be sent to the e-mail address on file for the subscriber name associated with it. To obtain an information summary please [e-mail ](http://thomascooknew.custhelp.com/cgi-bin/thomascooknew.cfg/php/enduser/std_alp.php)[us](http://thomascooknew.custhelp.com/cgi-bin/thomascooknew.cfg/php/enduser/std_alp.php). Thomas Cook Retail Ltd, its contractors, agents, owners, and employees are not responsible for the content or the privacy policies of other web sites to which this Site may link.
+We will provide a summary of any personal information held upon request. This information will only be sent to the e-mail address on file for the subscriber name associated with it. To obtain an information summary please [e-mail us](http://thomascooknew.custhelp.com/cgi-bin/thomascooknew.cfg/php/enduser/std_alp.php). Thomas Cook Retail Ltd, its contractors, agents, owners, and employees are not responsible for the content or the privacy policies of other web sites to which this Site may link.
 
-[](http://www.thomascook.com/)
+  
+
