@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercycorps.org privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618164727id_/http%3A//www.mercycorps.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercycorps.org privacy policy that was archived on 2009-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090928111157id_/http%3A//www.mercycorps.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Mercy Corps
 
@@ -30,7 +30,7 @@ Mercy Corps uses the services of outside vendors to send our email newsletters a
 
 **Donations by Mail**
 
-In order to increase our base of support and keep our costs low, Mercy Corps sometimes exchanges a segment of our mailing list with other carefully selected organizations. Donors who make their first gift to Mercy Corps in response to an appeal letter may be included on this exchange list; all other donors are automatically excluded from the exchange. All donors who made their first gift to Mercy Corps before January 31, 2004 are also excluded from the exchange. At least once a year, we will inform all donors who are eligible to be included on the exchange list, and give them an opportunity to opt out of future exchanges. Donors who wish to have their names removed from the exchange list can call 1-800-292-3355 ext. 250 or email [donorservices@mercycorps.org](mailto:donorservices@mercycorps.org).
+In order to increase our base of support and keep our costs low, Mercy Corps sometimes exchanges a segment of our mailing list with other carefully selected organizations. Donors who make their first gift to Mercy Corps in response to an appeal letter may be included on this exchange list; all other donors are automatically excluded from the exchange. All donors who made their first gift to Mercy Corps before January 31, 2004 are also excluded from the exchange. At least once a year, we will inform all donors who are eligible to be included on the exchange list, and give them an opportunity to opt out of future exchanges. Donors who wish to have their names removed from the exchange list can call 1-888-842-0842 or email [donorservices@mercycorps.org](mailto:donorservices@mercycorps.org).
 
 Use of Third-Party Software and Advertising Services
 
@@ -40,4 +40,4 @@ We may use third-party advertising companies to serve ads on our behalf. These c
 
 **Contact Mercy Corps**
 
-Thank you for your interest in Mercy Corps and our privacy policy. If you would like more information about the options discussed herein or simply have questions, please feel free to contact us via email at [donorservices@mercycorps.org](mailto:donorservices@mercycorps.org), or speak to a Donor Services Representative at 800.292.3355 x 250.
+Thank you for your interest in Mercy Corps and our privacy policy. If you would like more information about the options discussed herein or simply have questions, please feel free to contact us via email at [donorservices@mercycorps.org](mailto:donorservices@mercycorps.org), or speak to a Donor Services Representative at 1-888-842-0842.
