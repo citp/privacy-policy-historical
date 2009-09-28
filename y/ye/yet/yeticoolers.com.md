@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the yeticoolers.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429072228id_/http%3A//www.yeticoolers.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yeticoolers.com privacy policy that was archived on 2009-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090928041522id_/http%3A//www.yeticoolers.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Privacy Notice : Yeti Coolers | Ice Chest - Ice Box - Marine Cooler
+# Privacy Policy | YETI Coolers
 
-At **www.yeticoolers.com** , your privacy is our priority. We are committed to protecting your privacy at all times, in all situations. The information we collect about you when you become a member is used to process your orders and to provide a more personalized experience on our site. Our site uses a 128 bit encrypted SSL to increase the security of our customer’s information. However, we **Yeti Coolers** do not guarantee complete security on stored information, however, we have installed and applied our encrypted pages and installed our SSL certificate to prevent stolen information.
+At **www.yeticoolers.com** , your privacy is our priority. We are committed to protecting your privacy at all times, in all situations. The information we collect about you when you become a member is used to process your orders and to provide a more personalized experience on our site. Our site uses a 128 bit encrypted SSL to increase the security of our customer’s information. However, we YETI **Coolers** do not guarantee complete security on stored information, however, we have installed and applied our encrypted pages and installed our SSL certificate to prevent stolen information.
 
 **How Do We Use the Information We Collect?**  
 When you become an **www.yeticoolers.com** member, we ask you to fill out a form that requests your name, address and e-mail address as well as some demographic information such as gender and date of birth. **www.yeticoolers.com** will **NOT** share data with trusted partners to help us perform statistical analysis. Your name and address information is used solely to process orders unless your prior consent is given. Without your consent, this information will NEVER be sold, given, rented or traded to others for purposes other than order fulfillment. Your demographic information (gender, date of birth, etc.) will be used for several security purposes, to ensure you are who you say you are and in fact you are paying with your credit cards and not someone using your stolen credit cards.
@@ -36,9 +36,9 @@ Periodically, contests are run on our site. Sometimes contests are sponsored by 
 Cookies are pieces of information that your browser stores on your computer's hard drive which identify you when you enter. The ability to select samples on our site is not cookie-driven. We may use session cookies to provide a seamless experience on the site and to combine with our log files so that we can understand our site traffic and analyze our demographic information in aggregate form. If you have set your browser to reject cookies, our site will not identify you when you enter and you will need to manually type in your ID and password.
 
 **Your Feedback is Always Welcome**  
-We welcome your comments and questions about our privacy policy - or anything else you might want to talk about. To contact us _[**click here**](http://www.yeticoolers.com/index.php?main_page=contact_us). _
+We welcome your comments and questions about our privacy policy - or anything else you might want to talk about. To contact us _[**click here**](http://www.yeticoolers.com/dev/index.php?main_page=contact_us). _
 
-**Yeti Coolers**  
+YETI **Coolers**  
 275 Lotus Circle  
 Austin, TX 78737  
 (512) 394-9384
