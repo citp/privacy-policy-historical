@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pressandjournal.co.uk privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626224547id_/http%3A//www.pressandjournal.co.uk/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressandjournal.co.uk privacy policy that was archived on 2009-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090928220946id_/http%3A//www.pressandjournal.co.uk/Privacy.aspx) for the most accurate reproduction.*
 
 # Site Privacy Policy and Conditions of Use
 
