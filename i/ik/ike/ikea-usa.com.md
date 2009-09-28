@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ikea-usa.com privacy policy that was archived on 2009-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090206202555id_/http%3A//www.ikea.com/us/en/privacy_policy_new.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ikea-usa.com privacy policy that was archived on 2009-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090928053140id_/http%3A//www.ikea.com/us/en/privacy_policy_new.html) for the most accurate reproduction.*
 
 # IKEA | Privacy Policy
 
@@ -22,7 +22,9 @@ Website - Many web surfers are concerned about their privacy and the use of 'coo
 
 Kid's Ballroom - To take advantage of our supervised children's play area and ballroom while you shop, we require you to fill out a registration card that asks for the child's name and age, and the caretaker's name, address, telephone number and signature. We ask for this information to help ensure the safety and security of the child. 
 
-Other information you provide to us - Through surveys, you may provide us with information such as product preferences, reasons for purchasing a product, family and lifestyle information to help us learn more about your shopping preferences. You also may provide such information when you fill out a warranty card about a product you purchased from IKEA. In addition, you may give us such information if you register for or redeem IKEA special offers, discount coupons or other promotions. 
+Mobile - IKEA offers our customers the ability to find out what’s new at their local IKEA store through their mobile device, either by browsing our mobile web site or through SMS (short message service) messaging. Usage of the mobile web site follows similar standards employed by our standard web site; cookies may be employed to remember preferences or previous activity but do not reveal personal information and can be disabled using your mobile device’s Internet options. For SMS messaging, users will only receive messages if they have specifically opted in for them; standard text message rates will apply. To join IKEA Mobile, text the keyword "JOIN" to 62345. To unsubscribe from IKEA Mobile, text the keyword "STOP" to 62345. 
+
+Other information you provide to us - Through surveys, web forms, or SMS messages, you may provide us with information such as product preferences, reasons for purchasing a product, family and lifestyle information to help us learn more about your shopping preferences. You also may provide such information when you fill out a warranty card about a product you purchased from IKEA. In addition, you may give us such information if you register for or redeem IKEA special offers, discount coupons or other promotions. 
 
 #### How does IKEA protect personal information?
 
@@ -42,4 +44,12 @@ We recognize that having accurate and up-to-date information about you and your 
 
 #### How can I contact IKEA?
 
-If you have any other questions about IKEA's privacy practices or about your personal information, please [contact us here](http://info.ikea-usa.com/IkeaContactUs/Contact.aspx) or call 1-800-434-4532, or write us at: IKEA North America Services, LLC Attention: Privacy Notice 420 Alan Wood Rd Conshohocken, PA 19428 We will respond to your inquiry or investigate your concern as quickly as possible. DATED: May 29, 2008 
+If you have any other questions about IKEA's privacy practices or about your personal information, please [contact us here](http://info.ikea-usa.com/IkeaContactUs/Contact.aspx) or call 1-800-434-4532, or write us at:   
+IKEA North America Services, LLC   
+Attention: Privacy Notice   
+420 Alan Wood Rd   
+Conshohocken, PA 19428 
+
+We will respond to your inquiry or investigate your concern as quickly as possible. 
+
+DATED: June 22, 2009 
