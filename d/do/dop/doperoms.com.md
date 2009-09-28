@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the doperoms.com privacy policy that was archived on 2009-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090513072918id_/http%3A//www.doperoms.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doperoms.com privacy policy that was archived on 2009-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090928105003id_/http%3A//www.doperoms.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Doperoms.com
 
 [](http://www.doperoms.com/ "Dope Roms")
-
-502 Online
 
 **Language:** [](https://web.archive.org/select_language.php)
 
@@ -30,6 +28,6 @@ Doperoms.com does not guarantee any files linked on doperoms.com are clean and v
 [DMCA Policy](https://web.archive.org/dmca.php) \- [Advertise on DopeRoms](https://web.archive.org/advertise.php) \- [Site Map](https://web.archive.org/sitemap.php)
 
 Copyright DopeROMS.com 2009 All Rights Reserved | Content Copyright Respective Owners   
-Compression: No | Cache: On | Database: On | 9 Queries Used | 0.07316 Seconds.
+Compression: No | Cache: On | Database: Off | 7 Queries Used | 0.06177 Seconds.
 
 [ ](http://extremetracking.com/open?login=doperoms)
