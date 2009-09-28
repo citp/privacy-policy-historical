@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysuncoast.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618183341id_/http%3A//www.mysuncoast.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysuncoast.com privacy policy that was archived on 2009-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090928222628id_/http%3A//www.mysuncoast.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy - WWSB ABC 7 Florida - Sarasota, Bradenton, Venice, North Port, Siesta Key Breaking News, Weather, Sports and Traffic on the Suncoast |
 
