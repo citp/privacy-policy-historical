@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebay.ca privacy policy that was archived on 2009-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090409175918id_/http%3A//pages.ebay.ca/help/policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebay.ca privacy policy that was archived on 2009-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090928074321id_/http%3A//pages.ebay.ca/help/policies/privacy-policy.html) for the most accurate reproduction.*
 
 # eBay Privacy Policy
 
@@ -100,7 +100,7 @@ You agree to use user information only for:
 
   * eBay transaction-related purposes that are not unsolicited commercial messages; 
 
-  * using services offered through eBay ( _e.g._ escrow, insurance, shipping and fraud complaints), or
+  * using services offered through eBay (such as escrow, shipping and fraud complaints), or
 
   * other purposes that a user expressly chooses. 
 
