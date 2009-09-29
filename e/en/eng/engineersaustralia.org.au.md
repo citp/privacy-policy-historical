@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the engineersaustralia.org.au privacy policy that was archived on 2009-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090220225914id_/http%3A//www.engineersaustralia.org.au/privacy-statement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engineersaustralia.org.au privacy policy that was archived on 2009-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090929065703id_/http%3A//www.engineersaustralia.org.au/privacy-statement.cfm) for the most accurate reproduction.*
 
-# Privacy Statement
+# Engineers Australia Ι Privacy Statement
+
+## Privacy Policy
 
 Engineers Australia is an organisation that is, by nature, personal information-intensive. We rely on comprehensive and accurate personal information about our members and other people with whom we deal. We collect information from members and non-members so that we can provide you with our services, manage our relationship with you, communicate with you effectively and identify which of our services will best suit your needs. We have robust systems and procedures in place to protect your privacy whenever we collect, store, use or disclose your personal information. 
 
-**What kind of personal information do we collect?**
+### **What kind of personal information do we collect?**
 
 Personal information, including sensitive information, that Engineers Australia collects and holds includes, but is not limited to:
 
@@ -42,7 +44,8 @@ Personal information, including sensitive information, that Engineers Australia 
 
 
 
-**How we collect your personal information**
+### **Ho** **w we collect your personal information**  
+
 
 We collect most personal information direct from you, for example, when you fill in an application for admission, readmission, concession or direct debit, a qualifications assessment or Chartered Status assessment application. Information may also be collected direct from you when you deal with us personally, over the telephone, send a letter, or visit the web site. 
 
@@ -52,7 +55,8 @@ There may be occasions when a third party provides information about you, such a
 
 We also collect information about members and non-members who register for Engineers Australia events, seminars and conferences.
 
- **How we use your personal information**
+###  **How we use your personal information**  
+
 
 We will use your personal information to provide you with a particular product or service and to contact you about matters pertaining to membership of Engineers Australia. This includes (but is not limited to) the following: 
 
@@ -106,7 +110,7 @@ In the event of a complaint against you we use personal information provided to 
 
 As a not-for-profit organisation, Engineers Australia needs to enter into sponsorship arrangements with third parties from time to time. This allows us to keep membership fees at a low level, and to provide a greater range of services. When we enter a sponsorship agreement, we may use your personal information to provide you with information about products, services and promotions offered by our sponsors. 
 
-**Disclosure of your personal information**
+### **Disclosure of your personal information**
 
 Engineers Australia may disclose personal information and sensitive information as defined by the Privacy Act, held about you to:
 
@@ -121,9 +125,7 @@ Engineers Australia may disclose personal information and sensitive information 
 
 
   * Department of Immigration and Citizenship (DIAC) for migration related issues;
-
-Australian Education International - NOOSR for migration statistical reporting; 
-
+  * Australian Education International - NOOSR for migration statistical reporting; 
 
 
 
@@ -153,7 +155,7 @@ We treat all personal information held about you as confidential. This applies e
 
 In the event of a complaint against you, disclosure of personal information is restricted to those authorised under the Disciplinary Regulations and Manual of Investigation and Procedures. 
 
-**Consent**
+### **Consent**
 
 Members have been asked to agree or disagree with four basic questions regarding the use disclosure of personal information. The questions relate to:
 
@@ -179,17 +181,17 @@ Members have been asked to agree or disagree with four basic questions regarding
 
 For those who did not complete the survey, Engineers Australia has assumed a "no" response. Members may change their preferences at any time, by logging into the member services area of the website, www.engineersaustralia.org.au, or by contacting members services on (02) 62706555.
 
- **Accuracy of your personal information**
+###  **Accuracy of your personal information**
 
 If we have accurate personal information about you, it enables us to provide you with the best possible service. We take reasonable steps to ensure that your personal information is accurate, complete and up to date whenever we collect or use it. 
 
 If you find that the personal information we hold about you is inaccurate, incomplete or out of date, please contact us immediately. Alternatively, you may correct this yourself through the member services section of the website. 
 
-**Access to your personal information**
+### **Access to your personal information**
 
 You may access limited personal information through our secure the member services section on our website. Alternatively, on request, we will provide you with access to your personal information. Your request will be dealt with in a reasonable time and we may charge you a small administration fee for sending the information to you. 
 
-**Security of your personal information**
+### **Security of your personal information**
 
 Engineers Australia protects any personal information that we hold about you from misuse and loss. We protect your privacy by restricting access to your personal information to those staff or authorised office bearers who need it, either to process information or to provide you with membership services. Our staff and office bearers are responsible for handling personal information in accordance with the Privacy Act.
 
@@ -199,7 +201,7 @@ Engineers Australia will keep your information for as long as it is needed to pr
 
 Our online applications available to members from the website undergo extensive security testing by external professional companies to ensure your data is protected to the highest level against potential hacking. All data transmitted between web browsers and our online applications are protected by encryption.
 
- **Resolving your concerns**
+###  **Resolving your concerns**
 
 If you believe that the privacy of your personal information has been compromised, you are entitled to complain. If you have a complaint, contact the area where you believe the breach has occurred. If your complaint is not resolved to your satisfaction, forward a written complaint to: 
 
@@ -209,5 +211,3 @@ Engineers Australia
 Barton ACT 2600
 
 A written complaint must include a return address, and identify the conduct that is the basis for the complaint. There are no fees for lodging a complaint.
-
-1 July 2006 
