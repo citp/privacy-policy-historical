@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the infolink.com.au privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618140545id_/http%3A//www.infolink.com.au/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infolink.com.au privacy policy that was archived on 2009-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090929081456id_/http%3A//www.infolink.com.au/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Infolink - Australia's Architecture, Construction and Design Directory
 
 Reed Business Information Pty Limited (ABN 80 132 719 861) ("Catch") (an Australian company)
 
 This privacy policy applies to all personal information collected by Catch via the internet.
 
-Catch recognises the importance of your privacy, and that you have a right to control how your personal information is collected and used.  We know that providing personal information is an act of trust and we take that seriously.  Unless you directly give us consent to do otherwise, Catch will only collect and use your personal information as set out below.
+Catch recognises the importance of your privacy, and that you have a right to control how your personal information is collected and used. We know that providing personal information is an act of trust and we take that seriously. Unless you directly give us consent to do otherwise, Catch will only collect and use your personal information as set out below.
 
 Collection of information
 
 The four main ways we collect personal information about you are:
 
-  * when information about you is posted on a Catch website, either by you or by a third party; 
-  * when you log into a Catch website or otherwise submit personal information to Catch; 
-  * when you use a Catch website, in which case our system automatically collects information relating to your visit to that website, such as your IP address; and
-  * through the operation of CatchBot, Catch's web crawler (described in more detail below).
+  * When information about you is posted on a Catch website, either by you or by a third party; 
+  * When you log into a Catch website or otherwise submit personal information to Catch; 
+  * When you use a Catch website, in which case our system automatically collects information relating to your visit to that website, such as your IP address; and
+  * Through the operation of CatchBot, Catch's web crawler (described in more detail below).
 
 
 
@@ -31,18 +31,18 @@ Using and disclosing your personal information
 
 Our purpose in collecting information about you is to: 
 
-  * provide you with a better service experience with content and advertising that is more relevant to your interests; and
-  * create a business information database for use as part of Catch's online business.  Whilst Catch's business information database is designed to operate as a business directory (not a directory of individuals) it is possible that personal information may become included in the business information database.
+  * Provide you with a better service experience with content and advertising that is more relevant to your interests; and
+  * Create a business information database for use as part of Catch's online business.  Whilst Catch's business information database is designed to operate as a business directory (not a directory of individuals) it is possible that personal information may become included in the business information database.
 
 
 
 Catch will not use or disclose any information about you without your consent, unless:
 
-  * the use or disclosure is for one of the purposes described above or otherwise permitted by this policy;
-  * it is required or permitted by law (including by relevant privacy laws);
-  * we believe it necessary to provide you with a service which you have requested;
-  * to protect the rights, property or personal safety of another Catch website user, any member of the public or Catch; or
-  * any of the assets and/or operations of Catch are being transferred to another party.
+  * The use or disclosure is for one of the purposes described above or otherwise permitted by this policy;
+  * It is required or permitted by law (including by relevant privacy laws);
+  * We believe it necessary to provide you with a service which you have requested;
+  * To protect the rights, property or personal safety of another Catch website user, any member of the public or Catch; or
+  * Any of the assets and/or operations of Catch are being transferred to another party.
 
 
 
@@ -63,9 +63,9 @@ In seeking to give you the most worthwhile experience of our websites possible, 
 
 We may contact you at any email or other address or contact point which we have collected or obtained in order to:
 
-  * contact you about your business listing on a Catch website;
-  * provide you with updated information about Catch websites; or
-  * provide you with other information about other products or services which you may enjoy.
+  * Contact you about your business listing on a Catch website;
+  * Provide you with updated information about Catch websites; or
+  * Provide you with other information about other products or services which you may enjoy.
 
 
 
