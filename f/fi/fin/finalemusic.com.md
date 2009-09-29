@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the finalemusic.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217174124id_/http%3A//www.makemusic.com/privacy_statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finalemusic.com privacy policy that was archived on 2009-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090929020458id_/http%3A//www.makemusic.com/privacy_statement.aspx) for the most accurate reproduction.*
 
 # MakeMusic
-
-  
 
 PLEASE READ THIS PRIVACY STATEMENT CAREFULLY.  
 MakeMusic, Inc. (the “Company”) has a strong commitment to protecting personal privacy. We will respect certain privacy principles regarding the personal information that you provide. The purpose of this Privacy Statement is to tell you what information we gather on these websites, how we use the information, and how we protect your privacy.
