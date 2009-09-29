@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theoffside.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610104023id_/http%3A//www.theoffside.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theoffside.com privacy policy that was archived on 2009-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090929230817id_/http%3A//www.theoffside.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Offside
 
