@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartkiddies.com.au privacy policy that was archived on 2009-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090520183129id_/http%3A//www.smartkiddies.com.au/learn-maths/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartkiddies.com.au privacy policy that was archived on 2009-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090929133232id_/http%3A//www.smartkiddies.com.au/learn-maths/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy of Smartkiddies maths
 
