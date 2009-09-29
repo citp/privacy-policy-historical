@@ -1,12 +1,79 @@
-<!--The following is the downloaded HTML source of the infolink.com.au privacy policy that was archived on 2009-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090618140545id_/http%3A//www.infolink.com.au/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the infolink.com.au privacy policy that was archived on 2009-09-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090929081456id_/http%3A//www.infolink.com.au/privacy-policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
-	Privacy Policy
-</title>
+	Infolink - Australia's Architecture, Construction and Design Directory
+</title><meta name="keywords">
+<meta name="description">
+<meta name="robots" content="noindex, nofollow">
+
 <script type="text/javascript" src="/js/toggle.js"></script>
 
 <link href="/css/layout-base.css" rel="stylesheet" type="text/css">
+
+<script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>
+
+<script type="text/javascript" src="/js/jquery.lightbox-0.5.min.js"></script>
+
+<link href="/css/jquery.lightbox-0.5.css" rel="stylesheet" type="text/css">
+
+<style type="text/css">
+
+.page_master  .box .boxheader .boxheaderinner,
+ h2,
+ .Popup h2,
+ .title_2small,
+ .Popup h1,
+ .title_darkblue,
+ .FormHeading,
+ .title_2,
+ .dvSearchFoundTag,
+ .expert_question,
+.free_site .categorylist  .boxheader,
+.free_site .page_default .main_right  .boxheader,
+.free_site .page_default .main_right  .boxheader .boxheaderinner,
+.free_site .page_default .main_left  .boxheader,
+.free_site .page_default .main_left  .boxheader .boxheaderinner
+{
+    color: #00ACBF;
+}
+
+ #pagebody {
+	border-top: solid 10px #00ACBF;
+}
+           
+.free_site .categorylist  .boxheader,
+ a{
+	color: #17757F;
+}
+
+.paid_site  .boxheader a {
+    color: #ffffff;
+}
+
+.page_default .main_center  .boxheader,
+.page_master  .main_center  .boxheader,
+.paid_site  .boxheader {
+    background-color: #00ACBF;
+    border-top: solid 1px #99DBE9;
+    border-bottom: solid 1px #99DBE9;
+}
+
+.free_site  .divGoogleAdsTop,
+.free_site  .boxheader {
+    border-top: solid 2px #00ACBF;
+}
+
+ .deemphasisedboxheader {
+    border-top: solid 1px #00ACBF;
+}
+
+ .box .AdSlotWithinList .divGoogleAdsTop
+{
+    background-color: #DDFBFF;
+}
+      
+</style>
 
 <link href="/css/layout-infolink.css" rel="stylesheet" type="text/css">
 
@@ -17,117 +84,146 @@
 <link href="/favicon_infolink.ico" rel="shortcut icon" type="image/x-icon">
 
 <link href="/favicon_infolink.ico" rel="icon" type="image/x-icon">
-<meta name="keywords" content="privacy policy">
-<meta name="description" content="Australia's largest architecture, building and construction website">
-<meta name="robots" content="index, follow">
 <meta name="msvalidate.01" content="3B9BC78331234FA88FB354D0DF6BB7C0">
 </head>
 <body>
-    <form name="aspnetForm" method="post" action="privacy-policy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMzEzMDY1MzYzZGRG7QEM7IugmDQO1I4zWhv2tQzTxA==">
+	<form name="aspnetForm" method="post" action="/privacy-policy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTIxNzY1NjU1M2RkuE+jOvDhf/asUK121JLvy5C7eI8=">
 
 
 <script type="text/javascript">
 //<![CDATA[
-function openNewsletterPage(strSignupSource)
+function openNewsletterPage(strSignupSource,strEmailAddressId,strErrorInvalidID,strErrorRequiredID)
 {
-if($get('ctl00_ucNewsletterBox_NewsletterBox_EmailAddress').value != 'Enter email here') {if (isEmailAddress($get('ctl00_ucNewsletterBox_NewsletterBox_EmailAddress').value)) { 
-location.href='/enewsletter.aspx?EmailAddress=' + escape($get('ctl00_ucNewsletterBox_NewsletterBox_EmailAddress').value) + '&SignupSource=' + strSignupSource; 
+document.getElementById(strErrorRequiredID).style.display='none';
+document.getElementById(strErrorInvalidID).style.display='none';
+var eAddress = document.getElementById(strEmailAddressId)
+if(eAddress.value == 'Enter email here') {
+document.getElementById(strErrorRequiredID).style.display='block';
 } else {
-$get('NewsletterBox_ErrorInvalid').style.display='block'; }
+if (isEmailAddress(eAddress.value)) { 
+location.href='/enewsletter.aspx?EmailAddress=' + escape(eAddress.value) + '&ss=' + strSignupSource; 
+} else {
+document.getElementById(strErrorInvalidID).style.display='block'; }
 }
 return(false);
 }
 //]]>
 </script>
 
-<script src="/ScriptResource.axd?d=x23MOo14x3-Dx966MijtWoPEcDmbUxnN0L1w4hmKEJK03i-YQtY-LbBFmcNEe2mcfHWr8xZtebRuyTp0m3oIJ5RsBanb-Z2glOaiaRXfJTI1&amp;t=ffffffffbad1c234" type="text/javascript"></script>
-<script type="text/javascript">
-//<![CDATA[
-var PageMethods = function() {
-PageMethods.initializeBase(this);
-this._timeout = 0;
-this._userContext = null;
-this._succeeded = null;
-this._failed = null;
-}
-PageMethods.prototype = {
-_get_path:function() {
- var p = this.get_path();
- if (p) return p;
- else return PageMethods._staticInstance.get_path();},
-CaptchaAsynchValidate:function(strTypedInValue,succeededCallback, failedCallback, userContext) {
-return this._invoke(this._get_path(), 'CaptchaAsynchValidate',false,{strTypedInValue:strTypedInValue},succeededCallback,failedCallback,userContext); }}
-PageMethods.registerClass('PageMethods',Sys.Net.WebServiceProxy);
-PageMethods._staticInstance = new PageMethods();
-PageMethods.set_path = function(value) { PageMethods._staticInstance.set_path(value); }
-PageMethods.get_path = function() { return PageMethods._staticInstance.get_path(); }
-PageMethods.set_timeout = function(value) { PageMethods._staticInstance.set_timeout(value); }
-PageMethods.get_timeout = function() { return PageMethods._staticInstance.get_timeout(); }
-PageMethods.set_defaultUserContext = function(value) { PageMethods._staticInstance.set_defaultUserContext(value); }
-PageMethods.get_defaultUserContext = function() { return PageMethods._staticInstance.get_defaultUserContext(); }
-PageMethods.set_defaultSucceededCallback = function(value) { PageMethods._staticInstance.set_defaultSucceededCallback(value); }
-PageMethods.get_defaultSucceededCallback = function() { return PageMethods._staticInstance.get_defaultSucceededCallback(); }
-PageMethods.set_defaultFailedCallback = function(value) { PageMethods._staticInstance.set_defaultFailedCallback(value); }
-PageMethods.get_defaultFailedCallback = function() { return PageMethods._staticInstance.get_defaultFailedCallback(); }
-PageMethods.set_path("/privacy-policy.aspx");
-PageMethods.CaptchaAsynchValidate= function(strTypedInValue,onSuccess,onFailed,userContext) {PageMethods._staticInstance.CaptchaAsynchValidate(strTypedInValue,onSuccess,onFailed,userContext); }
-//]]>
-</script>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBQLTw5D6BgLN5YvACQLil/PbDQKV9+zpBAKXr6oJcHRSw6mwrwuPo/DscENqIRt9fCA=">
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBQKdoMjFAgLFw+CUDgLsp7jZDwL1mdH5BQLXkPeJB5I007V/QWVZ1QKnIskqfr5GSgi5">
-    
+	
+	<div id="ctl00_dvMain" class="paid_site">
+	<div id="ctl00_dvMain2" class="page_master">
+		<div id="pagebody">
+		    
 
-    
-    <div id="ctl00_dvMain" class="page_master paid_site">
-        <div id="pagebody">
-            <div id="header_top">
-                <div id="header_top_left">
-                    
+<div id="header_top">
+    <span id="ctl00_ucHeader_ucTopMenu_lblMenu"><a href="/">Home</a> | <a href="/about-us.aspx">About Infolink</a></span>
+
+
+</div>
+<div id="header_middle">
+	<div id="header_middle_left">
+		
 
 <div id="dvLogo">
-    <div id="ctl00_ucLogo_dvLogoHome" class="dvLogoHome">
-        <a id="ctl00_ucLogo_hlHome" href="/default.aspx">Home</a>
-    </div>
-    
-    <a id="ctl00_ucLogo_hlLogo" class="imgLogoImage" href="/default.aspx"><img src="/images/infolink/logo.png" border="0"></a>
+	<a id="ctl00_ucHeader_ucLogo_hlLogo" class="imgLogoImage" href="/"><img src="/images/infolink/logo.png" border="0"></a>
 
-    <div id="ctl00_ucLogo_dvLogoTagLineDiv" class="dvLogoTagline">
-        Australia's Architecture, Construction and Design Directory<br>
-    </div>
-    
+	<div id="ctl00_ucHeader_ucLogo_dvLogoTagLineDiv" class="dvLogoTagline">
+		Australia's Architecture, Construction and Design Directory
+	</div>
+	
 </div>
-
-
-                </div>
-                <div id="header_top_right">
-                    
+	</div>
+	<div id="header_middle_right">
+		
 <div class="paidad">
-<script language="javascript1.1" src="http://ad.au.doubleclick.net/adj/catch.infolink.com.au/other;sect=other;ssect=privacypolicy;pos=top_banner;sz=468x60,728x90;dcopt=ist;tile=1;ord=290954467?"></script>
+<script language="javascript1.1" src="http://ad.au.doubleclick.net/adj/catch.infolink.com.au/other;sect=other;ssect=privacypolicy;pos=top_banner;sz=468x60,728x90;tile=1;ord=198350465?"></script>
 <noscript>
-<a href="http://ad.au.doubleclick.net/jump/catch.infolink.com.au/other;sect=other;ssect=privacypolicy;pos=top_banner;sz=468x60,728x90;dcopt=ist;tile=1;ord=290954467?" target="_blank"
-><img src="http://ad.au.doubleclick.net/ad/catch.infolink.com.au/other;sect=other;ssect=privacypolicy;pos=top_banner;sz=468x60,728x90;dcopt=ist;tile=1;ord=290954467?" width="468" height="60" alt="Advertisement" border="0" /></a>
+<a href="http://ad.au.doubleclick.net/jump/catch.infolink.com.au/other;sect=other;ssect=privacypolicy;pos=top_banner;sz=468x60,728x90;tile=1;ord=198350465?" target="_blank"
+><img src="http://ad.au.doubleclick.net/ad/catch.infolink.com.au/other;sect=other;ssect=privacypolicy;pos=top_banner;sz=468x60,728x90;tile=1;ord=198350465?" width="468" height="60" alt="Advertisement" border="0" /></a>
 </noscript>
 </div>
 
 
+	</div>
+	<div class="clear"></div>
+</div>
+<div id="header_bottom">
+	<div id="header_bottom_left">
+		
 
-                </div>
-                <div class="clear"></div>
-            </div>
-            <div id="header_bottom">
-                <div id="header_bottom_left">
-                    <div id="ctl00_ucAddYourBusinessButton_Header_UcButton_dvButtonOuter">
-    <div id="ctl00_ucAddYourBusinessButton_Header_UcButton_dvButtonInner">
-        <div class="buttonleft"></div><div id="ctl00_ucAddYourBusinessButton_Header_UcButton_dvMiddle" class="buttoncenter"><a id="ctl00_ucAddYourBusinessButton_Header_UcButton_HyperLink1" href="/add-my-business.aspx">Add My Business - FREE</a></div><div class="buttonright"></div>
-        <div style="clear:both;"></div>
+
+
+
+    <div class="AddYourBusiness">
+        <div id="ctl00_ucHeader_ucHeaderBottomLeft_ucAddYourBusinessButton_UcButton_dvButtonOuter">
+	<div id="ctl00_ucHeader_ucHeaderBottomLeft_ucAddYourBusinessButton_UcButton_dvButtonInner">
+		<div class="buttonleft"></div><div id="ctl00_ucHeader_ucHeaderBottomLeft_ucAddYourBusinessButton_UcButton_dvMiddle" class="buttoncenter"><a id="ctl00_ucHeader_ucHeaderBottomLeft_ucAddYourBusinessButton_UcButton_HyperLink1" href="/add-my-business.aspx">Submit Your Listing</a></div><div class="buttonright"></div>
+		<div style="clear:both;"></div>
+	</div>
+	
+</div>
     </div>
-    
+
+
+
+    <div class="clear">
+    </div>
+
+
+
+
+
+	</div>
+	<div id="header_bottom_center">
+        
+		<div id="ctl00_ucHeader_UcNewsletterSignUpButton_dvButtonOuter">
+	<div id="ctl00_ucHeader_UcNewsletterSignUpButton_dvButtonInner">
+		<div class="buttonleft"></div><div id="ctl00_ucHeader_UcNewsletterSignUpButton_dvMiddle" class="buttoncenter"><a id="ctl00_ucHeader_UcNewsletterSignUpButton_HyperLink1" href="/enewsletter.aspx">Newsletter Sign Up</a></div><div class="buttonright"></div>
+		<div style="clear:both;"></div>
+	</div>
+	
+</div>
+	</div>
+	<div id="header_bottom_right">
+		<div class="dvSearchBox">
+	<div class="dvSearchBoxInput">
+	  <input name="ctl00$ucHeader$ucSearchbox$qu" type="text" value="Search product or company names" maxlength="200" id="ctl00_ucHeader_ucSearchbox_qu" class="textinput" onfocus="clearText(this);" onblur="checkText(this);" size="34" onkeypress="if(returnPressed(event)) {document.getElementById('ctl00_ucHeader_ucSearchbox_SearchBox_ErrorRequired').style.display='none';
+if(document.getElementById('ctl00_ucHeader_ucSearchbox_qu').value == 'Search product or company names') {
+document.getElementById('ctl00_ucHeader_ucSearchbox_SearchBox_ErrorRequired').style.display='block';
+} else {
+location.href='/search.aspx?qu=' + escape(escape(document.getElementById('ctl00_ucHeader_ucSearchbox_qu').value)); }return(false);} ; return true;">
+	</div>
+	<div class="dvSearchBoxButton">
+		<div id="ctl00_ucHeader_ucSearchbox_UcSearchButton_dvButtonOuter">
+	<div id="ctl00_ucHeader_ucSearchbox_UcSearchButton_dvButtonInner">
+		<div class="buttonleft"></div><div id="ctl00_ucHeader_ucSearchbox_UcSearchButton_dvMiddle" class="buttoncenter"><a onclick="document.getElementById('ctl00_ucHeader_ucSearchbox_SearchBox_ErrorRequired').style.display='none';
+if(document.getElementById('ctl00_ucHeader_ucSearchbox_qu').value == 'Search product or company names') {
+document.getElementById('ctl00_ucHeader_ucSearchbox_SearchBox_ErrorRequired').style.display='block';
+} else {
+location.href='/search.aspx?qu=' + escape(escape(document.getElementById('ctl00_ucHeader_ucSearchbox_qu').value)); }return(false);" id="ctl00_ucHeader_ucSearchbox_UcSearchButton_LinkButton1" href="javascript:__doPostBack('ctl00$ucHeader$ucSearchbox$UcSearchButton$LinkButton1','')">Search</a></div><div class="buttonright"></div>
+		<div style="clear:both;"></div>
+	</div>
+	
+</div>
+	</div>
+	<div style="clear:both;"></div>
+	<div id="ctl00_ucHeader_ucSearchbox_SearchBox_ErrorRequired" class="errortext" style="display:none;">missing search term</div>
+</div>
+
+	</div>
+	<div class="clear"></div>
 </div>
 
 
 
 
+			<div id="main">
+				<div class="main_left">
+					
 
 
 
@@ -137,239 +233,278 @@ PageMethods.CaptchaAsynchValidate= function(strTypedInValue,onSuccess,onFailed,u
 
 
 
-                </div>
-                <div id="header_bottom_center">
-                    <div id="ctl00_UcNewsletterSignUpButton_dvButtonOuter">
-    <div id="ctl00_UcNewsletterSignUpButton_dvButtonInner">
-        <div class="buttonleft"></div><div id="ctl00_UcNewsletterSignUpButton_dvMiddle" class="buttoncenter"><a id="ctl00_UcNewsletterSignUpButton_HyperLink1" href="/enewsletter.aspx">Newsletter Sign Up</a></div><div class="buttonright"></div>
-        <div style="clear:both;"></div>
-    </div>
-    
-</div>
+	    
+		
+        		
+		<div id="ctl00_ucInternalLeft1_ucCategoryList_rptrCategoryGroups_ctl00_dvGroupBox" class="categorylist groupclass__0">
+		    <div id="ctl00_ucInternalLeft1_ucCategoryList_rptrCategoryGroups_ctl00_dvBoxheader" class="boxheader">Infolink Categories</div>
+			<div class="box">
+
+				<ul>
+					
+							<li>
+							<a href="/z/Associations-Exhibitions">Associations &amp; Exhibitions</a>
+							
+							</li>
+						
+							<li>
+							<a href="/z/Bathrooms-Laundries">Bathrooms &amp; Laundries</a>
+							
+							</li>
+						
+							<li>
+							<a href="/z/Building-Construction-Equipment">Building &amp; Construction Equipment</a>
+							
+							</li>
+						
+							<li>
+							<a href="/z/Coatings-Paints">Coatings &amp; Paints</a>
+							
+							</li>
+						
+							<li>
+							<a href="/z/Commercial-Retail-Fitouts">Commercial &amp; Retail Fitouts</a>
+							
+							</li>
+						
+							<li>
+							<a href="/z/Doors-Door-Fittings">Doors &amp; Door Fittings</a>
+							
+							</li>
+						
+							<li>
+							<a href="/z/Environmental-Products">Environmental Products</a>
+							
+							</li>
+						
+							<li>
+							<a href="/z/Exterior-Finishes">Exterior Finishes</a>
+							
+							</li>
+						
+							<li>
+							<a href="/z/Floors-Flooring">Floors &amp; Flooring</a>
+							
+							</li>
+						
+							<li>
+							<a href="/z/Heating-Cooling">Heating &amp; Cooling</a>
+							
+							</li>
+						
+							<li>
+							<a href="/z/Insulation-Acoustics">Insulation &amp; Acoustics</a>
+							
+							</li>
+						
+							<li>
+							<a href="/z/Interiors-Furniture">Interiors &amp; Furniture</a>
+							
+							</li>
+						
+							<li>
+							<a href="/z/Kitchens-Kitchen-Hardware">Kitchens &amp; Kitchen Hardware</a>
+							
+							</li>
+						
+							<li>
+							<a href="/z/Landscaping-Outdoor">Landscaping &amp; Outdoor</a>
+							
+							</li>
+						
+							<li>
+							<a href="/z/Lighting-Electrical">Lighting &amp; Electrical</a>
+							
+							</li>
+						
+							<li>
+							<a href="/z/Roofing-Fittings">Roofing &amp; Fittings</a>
+							
+							</li>
+						
+							<li>
+							<a href="/z/Security">Security</a>
+							
+							</li>
+						
+							<li>
+							<a href="/z/Signage-Display-Systems">Signage &amp; Display Systems</a>
+							
+							</li>
+						
+							<li>
+							<a href="/z/Stairs-Elevators-Lifts">Stairs, Elevators &amp; Lifts</a>
+							
+							</li>
+						
+							<li>
+							<a href="/z/Structural-Materials">Structural Materials</a>
+							
+							</li>
+						
+							<li>
+							<a href="/z/Sun-Control-Shades">Sun Control &amp; Shades</a>
+							
+							</li>
+						
+							<li>
+							<a href="/z/Tiles-Pavers">Tiles &amp; Pavers</a>
+							
+							</li>
+						
+							<li>
+							<a href="/z/Walls-Ceilings">Walls &amp; Ceilings</a>
+							
+							</li>
+						
+							<li>
+							<a href="/z/Water-Preservation">Water Preservation</a>
+							
+							</li>
+						
+							<li>
+							<a href="/z/Waterproofing-Sealants">Waterproofing &amp; Sealants</a>
+							
+							</li>
+						
+							<li>
+							<a href="/z/Windows-Window-Fittings">Windows &amp; Window Fittings</a>
+							
+							</li>
+						
+				 </ul>
+
+			</div>
+		</div>
+	
 
 
 
 
-
-
-
-
-
-
-
-
-                </div>
-                <div id="header_bottom_right">
-                    <div class="dvSearchBox">
-    <div class="dvSearchBoxInput">
-      <input name="ctl00$ucSearchbox$qu" type="text" value="Search product or company names" maxlength="200" id="ctl00_ucSearchbox_qu" class="textinput" onfocus="clearText(this);" onblur="checkText(this);" size="34" onkeypress="if(returnPressed(event)) {if($get('ctl00_ucSearchbox_qu').value != 'Search product or company names') {location.href='/search.aspx?qu=' + escape($get('ctl00_ucSearchbox_qu').value); }return(false);} ; return true;">
-    </div>
-    <div class="dvSearchBoxButton">
-        <div id="ctl00_ucSearchbox_UcSearchButton_dvButtonOuter">
-    <div id="ctl00_ucSearchbox_UcSearchButton_dvButtonInner">
-        <div class="buttonleft"></div><div id="ctl00_ucSearchbox_UcSearchButton_dvMiddle" class="buttoncenter"><a onclick="if($get('ctl00_ucSearchbox_qu').value != 'Search product or company names') {location.href='/search.aspx?qu=' + escape($get('ctl00_ucSearchbox_qu').value); }return(false);" id="ctl00_ucSearchbox_UcSearchButton_LinkButton1" href="javascript:__doPostBack('ctl00$ucSearchbox$UcSearchButton$LinkButton1','')">Search</a></div><div class="buttonright"></div>
-        <div style="clear:both;"></div>
-    </div>
-    
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-    </div>
-    <div style="clear:both;"></div>
-</div>
-
-                </div>
-                <div class="clear"></div>
-            </div>
-            <div id="main">
-                <div id="main_left">
-                    
-
-
-                    
-
-<div class="categorylist">
-    <div class="boxheader">Infolink Categories</div>
-    <div class="box">
-        <ul>
-            <li><a href="/z/Associations-Exhibitions">Associations &amp; Exhibitions</a></li><li><a href="/z/Bathrooms-Laundries">Bathrooms &amp; Laundries</a></li><li><a href="/z/Building-Construction-Equipment">Building &amp; Construction Equipment</a></li><li><a href="/z/Coatings-Paints">Coatings &amp; Paints</a></li><li><a href="/z/Commercial-Retail-Fitouts">Commercial &amp; Retail Fitouts</a></li><li><a href="/z/Doors-Door-Fittings">Doors &amp; Door Fittings</a></li><li><a href="/z/Environmental-Products">Environmental Products</a></li><li><a href="/z/Exterior-Finishes">Exterior Finishes</a></li><li><a href="/z/Floors-Flooring">Floors &amp; Flooring</a></li><li><a href="/z/Heating-Cooling">Heating &amp; Cooling</a></li><li><a href="/z/Insulation-Acoustics">Insulation &amp; Acoustics</a></li><li><a href="/z/Interiors-Furniture">Interiors &amp; Furniture</a></li><li><a href="/z/Kitchens-Kitchen-Hardware">Kitchens &amp; Kitchen Hardware</a></li><li><a href="/z/Landscaping-Outdoor">Landscaping &amp; Outdoor</a></li><li><a href="/z/Lighting-Electrical">Lighting &amp; Electrical</a></li><li><a href="/z/Roofing-Fittings">Roofing &amp; Fittings</a></li><li><a href="/z/Security">Security</a></li><li><a href="/z/Signage-Display-Systems">Signage &amp; Display Systems</a></li><li><a href="/z/Stairs-Elevators-Lifts">Stairs, Elevators &amp; Lifts</a></li><li><a href="/z/Structural-Materials">Structural Materials</a></li><li><a href="/z/Sun-Control-Shades">Sun Control &amp; Shades</a></li><li><a href="/z/Tiles-Pavers">Tiles &amp; Pavers</a></li><li><a href="/z/Walls-Ceilings">Walls &amp; Ceilings</a></li><li><a href="/z/Water-Preservation">Water Preservation</a></li><li><a href="/z/Waterproofing-Sealants">Waterproofing &amp; Sealants</a></li><li><a href="/z/Windows-Window-Fittings">Windows &amp; Window Fittings</a></li>
-        </ul>
-    </div>
-</div>
-
-
-
-
-                    
-
-<div class="boxheader"><span id="ctl00_ucNewsletterBox_lblBoxHeader">Infolink Newsletter</span></div>
+<div class="boxheader"><span id="ctl00_ucInternalLeft1_ucNewsletterBox_lblBoxHeader">Infolink Newsletter</span></div>
 <div class="box newsletterbox">
-    <p>
-        <span id="ctl00_ucNewsletterBox_lblBoxText">Be the first to know about new products, services and developments. Sign up for Infolink Product News.</span>
-    </p>
-    <div>
-        <input name="ctl00$ucNewsletterBox$NewsletterBox_EmailAddress" type="text" id="ctl00_ucNewsletterBox_NewsletterBox_EmailAddress" onfocus="clearText(this);" size="12" onblur="checkText(this);" class="textinput" value="Enter email here" onkeypress="if(returnPressed(event)) {openNewsletterPage('2');return(false);} ; return true;">
-        <div id="NewsletterBox_ErrorInvalid" class="errortext" style="display:none;">invalid email address</div>
-        <div id="ctl00_ucNewsletterBox_UcSignupButton_dvButtonOuter" class="dvButtonOuter">
-    <div id="ctl00_ucNewsletterBox_UcSignupButton_dvButtonInner" style="float: right;">
-        <div class="buttonleft"></div><div id="ctl00_ucNewsletterBox_UcSignupButton_dvMiddle" class="buttoncenter"><a onclick="openNewsletterPage('2');return(false);" id="ctl00_ucNewsletterBox_UcSignupButton_LinkButton1" href="javascript:__doPostBack('ctl00$ucNewsletterBox$UcSignupButton$LinkButton1','')">Sign up</a></div><div class="buttonright"></div>
-        <div style="clear:both;"></div>
-    </div>
-    
-        <div>
-        &nbsp;
-        </div>
-        <div style="clear:both;"></div>
-    
+	<p>
+		<span id="ctl00_ucInternalLeft1_ucNewsletterBox_lblBoxText">Be the first to know about new products, services and developments. Sign up for Infolink Product News.</span>
+	</p>
+	<div>
+		<input name="ctl00$ucInternalLeft1$ucNewsletterBox$NewsletterBox_EmailAddress" type="text" id="ctl00_ucInternalLeft1_ucNewsletterBox_NewsletterBox_EmailAddress" onfocus="clearText(this);" size="12" onblur="checkText(this);" class="textinput" value="Enter email here" onkeypress="if(returnPressed(event)) {openNewsletterPage('2','ctl00_ucInternalLeft1_ucNewsletterBox_NewsletterBox_EmailAddress','ctl00_ucInternalLeft1_ucNewsletterBox_NewsletterBox_ErrorInvalid','ctl00_ucInternalLeft1_ucNewsletterBox_NewsletterBox_ErrorRequired');return(false);} ; return true;">
+		<div id="ctl00_ucInternalLeft1_ucNewsletterBox_NewsletterBox_ErrorInvalid" class="errortext" style="display:none;">invalid email address</div>
+		<div id="ctl00_ucInternalLeft1_ucNewsletterBox_NewsletterBox_ErrorRequired" class="errortext" style="display:none;">enter your email address</div>
+		<div id="ctl00_ucInternalLeft1_ucNewsletterBox_UcSignupButton_dvButtonOuter" class="dvButtonOuter">
+	<div id="ctl00_ucInternalLeft1_ucNewsletterBox_UcSignupButton_dvButtonInner" style="float: right;">
+		<div class="buttonleft"></div><div id="ctl00_ucInternalLeft1_ucNewsletterBox_UcSignupButton_dvMiddle" class="buttoncenter"><a onclick="openNewsletterPage('2','ctl00_ucInternalLeft1_ucNewsletterBox_NewsletterBox_EmailAddress','ctl00_ucInternalLeft1_ucNewsletterBox_NewsletterBox_ErrorInvalid','ctl00_ucInternalLeft1_ucNewsletterBox_NewsletterBox_ErrorRequired');return(false);" id="ctl00_ucInternalLeft1_ucNewsletterBox_UcSignupButton_LinkButton1" href="javascript:__doPostBack('ctl00$ucInternalLeft1$ucNewsletterBox$UcSignupButton$LinkButton1','')">Sign up</a></div><div class="buttonright"></div>
+		<div style="clear:both;"></div>
+	</div>
+	
+		<div>
+		&nbsp;
+		</div>
+		<div style="clear:both;"></div>
+	
+</div>
+	</div>
 </div>
 
 
 
 
-
-
-
-
-
-
-
-
-    </div>
-</div>
-
-
-
-
-
-                    
-
-
-                    
-<div class="paidad" style="width:300px; height:250px; ">
-<script language="javascript1.1" src="http://ad.au.doubleclick.net/adj/catch.infolink.com.au/other;sect=other;ssect=privacypolicy;pos=islandad_1;sz=300x250;tile=2;ord=290954467?"></script>
+<div class="paidad" style="width:300px; ">
+<script language="javascript1.1" src="http://ad.au.doubleclick.net/adj/catch.infolink.com.au/other;sect=other;ssect=privacypolicy;pos=islandad_1;sz=300x250,300x600;tile=2;ord=198350465?"></script>
 <noscript>
-<a href="http://ad.au.doubleclick.net/jump/catch.infolink.com.au/other;sect=other;ssect=privacypolicy;pos=islandad_1;sz=300x250;tile=2;ord=290954467?" target="_blank"
-><img src="http://ad.au.doubleclick.net/ad/catch.infolink.com.au/other;sect=other;ssect=privacypolicy;pos=islandad_1;sz=300x250;tile=2;ord=290954467?" width="300" height="250" alt="Advertisement" border="0" /></a>
+<a href="http://ad.au.doubleclick.net/jump/catch.infolink.com.au/other;sect=other;ssect=privacypolicy;pos=islandad_1;sz=300x250,300x600;tile=2;ord=198350465?" target="_blank"
+><img src="http://ad.au.doubleclick.net/ad/catch.infolink.com.au/other;sect=other;ssect=privacypolicy;pos=islandad_1;sz=300x250,300x600;tile=2;ord=198350465?" width="300" height="250" alt="Advertisement" border="0" /></a>
 </noscript>
 </div>
 
 
 
 
-                    
-
-
-                    
-
-
-                    
-
-<div class="dvCareersLink">
-    <p>
-        <a id="ctl00_ucCareersLink_hlCareersLink" href="/careers.aspx">Access over 2000 Construction and Architecture jobs online!</a>
-    </p>
-    <p>
-        <a id="ctl00_ucCareersLink_hlCareersImage" href="/careers.aspx" style="display:inline-block;"><img src="/images/Seek/powerdbyseek_wide.gif" border="0"></a>
-    </p>
-</div>
 
 
 
 
-                </div>
-                <div id="main_right">
-                    
-    
+
+				</div>
+				<div class="main_center">
+					
+	
 <h1 class="boxheader">Privacy Policy</h1>
 <div class="box">
-    <div class="textarea"><span class="title_2"></span><span class="title_2">
-<div class="" align="center"><br>Online Privacy Policy<br></div></span>
-<div align="center"><span class="title_2small">Reed Business Information Pty Limited (ABN 80 132 719 861) ("Catch") (an Australian company)</span></div><br>This privacy policy applies to all personal information collected by Catch via the internet.<br><br>Catch recognises the importance of your privacy, and that you have a right to control how your personal information is collected and used.&nbsp; We know that providing personal information is an act of trust and we take that seriously.&nbsp; Unless you directly give us consent to do otherwise, Catch will only collect and use your personal information as set out below.<br><br><span class="title_2small">Collection of information</span><br><br>The four main ways we collect personal information about you are:<br>
+	<div class="textarea"><span class="title_2"></span><span class="title_2"></span>
+<div align="center"><br>Online Privacy Policy<br></div>
+<div align="center"><span class="title_2small">Reed Business Information Pty Limited (ABN 80 132 719 861) ("Catch") (an Australian company)</span></div><br>This privacy policy applies to all personal information collected by Catch via the internet.<br><br>Catch recognises the importance of your privacy, and that you have a right to control how your personal information is collected and used.&nbsp;We know that providing personal information is an act of trust and we take that seriously.&nbsp;Unless you directly give us consent to do otherwise, Catch will only collect and use your personal information as set out below.<br><br><span class="title_2small">Collection of information</span><br><br>The four main ways we collect personal information about you are:<br>
 <ul>
-<li>when information about you is posted on a Catch website, either by you or by a third party; </li>
-<li>when you log into a Catch website or otherwise submit personal information to Catch; </li>
-<li>when you use a Catch website, in which case our system automatically collects information relating to your visit to that website, such as your IP address; and</li>
-<li>through the operation of CatchBot, Catch's web crawler (described in more detail below).</li></ul><span class="title_2small">Our use of cookies</span><br><br>Cookies are pieces of information that a website transfers to your computer's hard disk for record keeping purposes.&nbsp; Most web browsers are set to accept cookies.&nbsp; Catch uses cookies to make your use of our website and services as convenient as possible.&nbsp; Cookies in and of themselves do not personally identify users, although they do identify a user's browser.&nbsp; Cookies are useful to estimate our number of users and determine overall traffic patterns through our website.<br><br>If you do not wish to receive any cookies you may set your browser to refuse cookies.&nbsp; This may mean you will not be able to take full advantage of Catch's services.<br><br>Catch uses Google to serve advertisements when you visit a Catch website. Google may use cookies in relation to your visits to Catch websites in order to provide advertisements about goods and services which may be of interest to you. If you would like more information about this practice and to know your choices about Google not using cookies in this way, <a title="google ad and content network privacy policy" href="http://www.google.com.au/privacy_ads.html" target="_blank">click here</a>.<br><br><span class="title_2small">Using and disclosing your personal information</span><br><br>Our purpose in collecting information about you is to: <br>
+<li>When information about you is posted on a Catch website, either by you or by a third party; </li>
+<li>When you log into a Catch website or otherwise submit personal information to Catch; </li>
+<li>When you use a Catch website, in which case our system automatically collects information relating to your visit to that website, such as your IP address; and</li>
+<li>Through the operation of CatchBot, Catch's web crawler (described in more detail below).</li></ul><span class="title_2small">Our use of cookies</span><br><br>Cookies are pieces of information that a website transfers to your computer's hard disk for record keeping purposes.&nbsp; Most web browsers are set to accept cookies.&nbsp; Catch uses cookies to make your use of our website and services as convenient as possible.&nbsp; Cookies in and of themselves do not personally identify users, although they do identify a user's browser.&nbsp; Cookies are useful to estimate our number of users and determine overall traffic patterns through our website.<br><br>If you do not wish to receive any cookies you may set your browser to refuse cookies.&nbsp; This may mean you will not be able to take full advantage of Catch's services.<br><br>Catch uses Google to serve advertisements when you visit a Catch website. Google may use cookies in relation to your visits to Catch websites in order to provide advertisements about goods and services which may be of interest to you. If you would like more information about this practice and to know your choices about Google not using cookies in this way, <a title="google ad and content network privacy policy" href="http://www.google.com.au/privacy_ads.html" target="_blank">click here</a>.<br><br><span class="title_2small">Using and disclosing your personal information</span><br><br>Our purpose in collecting information about you is to: <br>
 <ul>
-<li>provide you with a better service experience with content and advertising that is more relevant to your interests; and</li>
-<li>create a business information database for use as part of Catch's online business.&nbsp; Whilst Catch's business information database is designed to operate as a business directory (not a directory of individuals) it is possible that personal information may become included in the business information database.</li></ul>Catch will not use or disclose any information about you without your consent, unless:<br>
+<li>Provide you with a better service experience with content and advertising that is more relevant to your interests; and</li>
+<li>Create a business information database for use as part of Catch's online business.&nbsp; Whilst Catch's business information database is designed to operate as a business directory (not a directory of individuals) it is possible that personal information may become included in the business information database.</li></ul>Catch will not use or disclose any information about you without your consent, unless:<br>
 <ul>
-<li>the use or disclosure is for one of the purposes described above or otherwise permitted by this policy;</li>
-<li>it is required or permitted by law (including by relevant privacy laws);</li>
-<li>we believe it necessary to provide you with a service which you have requested;</li>
-<li>to protect the rights, property or personal safety of another Catch website user, any member of the public or Catch; or</li>
-<li>any of the assets and/or operations of Catch are being transferred to another party.</li></ul>If you do not provide requested information, Catch may not be able to provide you with access to or full use of sections of the Catch website.<br><br><span class="title_2small">Disclosing information</span><br><br>Sometimes, the activities described above require us to share your personal information with other organisations.&nbsp; The types of situations in which Catch usually discloses personal information, and the types of organisations to which such disclosure is usually made, include the following:<br>
+<li>The use or disclosure is for one of the purposes described above or otherwise permitted by this policy;</li>
+<li>It is required or permitted by law (including by relevant privacy laws);</li>
+<li>We believe it necessary to provide you with a service which you have requested;</li>
+<li>To protect the rights, property or personal safety of another Catch website user, any member of the public or Catch; or</li>
+<li>Any of the assets and/or operations of Catch are being transferred to another party.</li></ul>If you do not provide requested information, Catch may not be able to provide you with access to or full use of sections of the Catch website.<br><br><span class="title_2small">Disclosing information</span><br><br>Sometimes, the activities described above require us to share your personal information with other organisations.&nbsp; The types of situations in which Catch usually discloses personal information, and the types of organisations to which such disclosure is usually made, include the following:<br>
 <ul>
 <li>The business information database is available via the internet to any member of the public.&nbsp; It is also disclosed in its entirety to Catch's related entities and to other entities with whom Catch has a business relationship, as part of Catch's online business.</li>
 <li>Catch discloses personal information to its service providers, advisers and other entities with whom Catch has a business relationship, in the course of operating the Catch websites and Catch online business and in the course of delivering the Catch services.</li></ul><span class="title_2small">Marketing</span><br><br>In seeking to give you the most worthwhile experience of our websites possible, Catch may use your personal information to send you information and product updates about Catch websites and services or to permit other parties to send other information about products or services which may be of interest to you.&nbsp; <br><br>We may contact you at any email or other address or contact point which we have collected or obtained in order to:<br>
 <ul>
-<li>contact you about your business listing on a Catch website;</li>
-<li>provide you with updated information about Catch websites; or</li>
-<li>provide you with other information about other products or services which you may enjoy.</li></ul>If you are receiving promotional information from Catch and do not wish to receive this information any longer, you may remove your name from our list by contacting the Catch Privacy Officer at <a href="mailto:legal@catch.com.au">legal@catch.com.au</a> and asking to be removed from our mailing list.&nbsp; Please allow 28 days for this request to be processed.&nbsp; <br><br><span class="title_2small">Access to the information we hold</span><br><br>You can request access to the personal information we hold about you by making a request to the Catch Privacy Officer via <a href="mailto:legal@catch.com.au">legal@catch.com.au</a>. We will provide you with access unless we are legally authorised not to do so.<br><br><span class="title_2small">Changing and deleting the information we have about you</span><br><br>If at any time you wish to change personal information that is inaccurate or out of date, please contact us by emailing our Catch Privacy Officer at <a href="mailto:legal@catch.com.au">legal@catch.com.au</a>.<br><br>If you wish to have your personal information deleted, please let us know in the same manner as referred to above.&nbsp; <br><br>We will take all reasonable steps to change or delete information in response to such a request.&nbsp; If there is a reason that we cannot make that change or deletion, we will inform you of that reason.&nbsp; <br><br><span class="title_2small">Storage and security of your personal information</span><br><br>Catch will endeavour to take all reasonable steps to keep secure any information which we hold about you, and to keep this information accurate and up to date.&nbsp; You should note that the internet is not a secure method of transmitting information and, as such, we are not responsible for the security of any information sent or received over the internet.<br><br>Please note that Catch may use overseas facilities to store, process or back up its information.&nbsp; As a result, we may transfer your personal information to our overseas facilities.&nbsp; However, this does not change our commitment to keep your information secure.<br><br><span class="title_2small">Third party websites</span><br><br>Catch websites contain links to websites that are not operated by Catch and the contact details for many businesses not operated by Catch.&nbsp; These linked sites and listed businesses are not under the control of Catch, and we are not responsible for the conduct of those businesses.&nbsp; Before disclosing your personal information on any other website or to any other company, we advise you to examine the Terms and Conditions / Privacy Policy of those organisations. <br><br><span class="title_2small">CatchBot</span><br><br>CatchBot is the web crawler for Catch.&nbsp; CatchBot investigates websites for publicly available information about companies.&nbsp; CatchBot is not designed to access or index any personal or other information about individuals.&nbsp; However, if any personal information is collected inadvertently through the use of CatchBot, that personal information will be held in accordance with this Privacy Policy.<br><br>More information about CatchBot is available at <a href="http://www.catchbot.com/">www.catchbot.com</a>.<br><br><span class="title_2small">Privacy inquiries</span><br><br>If you have any questions about this Privacy Policy or how Catch deals with your personal information you can contact:<br><br>Catch Privacy Officer<br><br>Email: <a href="mailto:legal@catch.com.au">legal@catch.com.au</a>&nbsp;&nbsp;&nbsp; <br><br>Or, Mail: <br>Catch <br>Locked Bag 2999<br>Chatswood Delivery Centre NSW 2067<br>Australia<br><br><span class="title_2small">Future changes</span><br><br>Our commitment to being a leading provider of online business directory services means that our business will continue to evolve as we introduce new services and features.&nbsp; Because of this, from time to time, our policies will be reviewed and may be revised.&nbsp; Catch reserves the right to change its Privacy Policy at any time and notify you by posting an updated version on each Catch website.&nbsp; The amended Privacy Policy will apply between us whether or not we have given you specific notice of any change.</div>
+<li>Contact you about your business listing on a Catch website;</li>
+<li>Provide you with updated information about Catch websites; or</li>
+<li>Provide you with other information about other products or services which you may enjoy.</li></ul>If you are receiving promotional information from Catch and do not wish to receive this information any longer, you may remove your name from our list by contacting the Catch Privacy Officer at <a href="mailto:legal@catch.com.au">legal@catch.com.au</a> and asking to be removed from our mailing list.&nbsp; Please allow 28 days for this request to be processed.&nbsp; <br><br><span class="title_2small">Access to the information we hold</span><br><br>You can request access to the personal information we hold about you by making a request to the Catch Privacy Officer via <a href="mailto:legal@catch.com.au">legal@catch.com.au</a>. We will provide you with access unless we are legally authorised not to do so.<br><br><span class="title_2small">Changing and deleting the information we have about you</span><br><br>If at any time you wish to change personal information that is inaccurate or out of date, please contact us by emailing our Catch Privacy Officer at <a href="mailto:legal@catch.com.au">legal@catch.com.au</a>.<br><br>If you wish to have your personal information deleted, please let us know in the same manner as referred to above.&nbsp; <br><br>We will take all reasonable steps to change or delete information in response to such a request.&nbsp; If there is a reason that we cannot make that change or deletion, we will inform you of that reason.&nbsp; <br><br><span class="title_2small">Storage and security of your personal information</span><br><br>Catch will endeavour to take all reasonable steps to keep secure any information which we hold about you, and to keep this information accurate and up to date.&nbsp; You should note that the internet is not a secure method of transmitting information and, as such, we are not responsible for the security of any information sent or received over the internet.<br><br>Please note that Catch may use overseas facilities to store, process or back up its information.&nbsp; As a result, we may transfer your personal information to our overseas facilities.&nbsp; However, this does not change our commitment to keep your information secure.<br><br><span class="title_2small">Third party websites</span><br><br>Catch websites contain links to websites that are not operated by Catch and the contact details for many businesses not operated by Catch.&nbsp; These linked sites and listed businesses are not under the control of Catch, and we are not responsible for the conduct of those businesses.&nbsp; Before disclosing your personal information on any other website or to any other company, we advise you to examine the Terms and Conditions / Privacy Policy of those organisations. <br><br><span class="title_2small">CatchBot</span><br><br>CatchBot is the web crawler for Catch.&nbsp; CatchBot investigates websites for publicly available information about companies.&nbsp; CatchBot is not designed to access or index any personal or other information about individuals.&nbsp; However, if any personal information is collected inadvertently through the use of CatchBot, that personal information will be held in accordance with this Privacy Policy.<br><br>More information about CatchBot is available at <a href="http://www.catchbot.com/">www.catchbot.com</a>.<br><br><span class="title_2small">Privacy inquiries</span><br><br>If you have any questions about this Privacy Policy or how Catch deals with your personal information you can contact:<br><br>Catch Privacy Officer<br><br>Email: <a href="mailto:legal@catch.com.au">legal@catch.com.au</a>&nbsp;&nbsp;&nbsp; <br><br>Or, Mail: <br>Catch <br>Locked Bag 2999<br>Chatswood Delivery Centre NSW 2067<br>Australia<br><br><span class="title_2small">Future changes</span><br><br>Our commitment to being a leading provider of online business directory services means that our business will continue to evolve as we introduce new services and features.&nbsp; Because of this, from time to time, our policies will be reviewed and may be revised.&nbsp; Catch reserves the right to change its Privacy Policy at any time and notify you by posting an updated version on each Catch website.&nbsp; The amended Privacy Policy will apply between us whether or not we have given you specific notice of any change.</div>
 </div>
 
+				</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+		
 
-                </div>
-                <div class="clear"></div>
-            </div>
-        </div>
-        <div id="footer">
-            
 <div id="footer">
-    <div id="footer_left"><a id="ctl00_Ucpagefooter_hlCatch" href="http://www.catch.com.au" target="_blank"><img src="/images/catch.png" border="0"></a></div>
-    <div id="footer_right">
+	<div id="footer_left"><a id="ctl00_Ucpagefooter_hlCatch" href="http://www.catch.com.au" target="_blank"><img src="/images/catch.png" border="0"></a></div>
+	<div id="footer_right">
+		<span id="ctl00_Ucpagefooter_lbHtmlRightOfMenus"></span>
+	</div>
+	<div id="footer_main">
+		<p>
+			<a href="/">Home</a> |
+			<a href="/add-my-business.aspx">Add My Business</a> |
+			<a href="/add-my-pressrelease.aspx">Submit Free Article</a> |
+			<a href="/advertise.aspx">Advertise On Infolink</a> |
+			<span id="ctl00_Ucpagefooter_NewsletterPageLink"><a href="/enewsletter.aspx">eNewsletter</a> |</span>
+			<a href="/article-archive.aspx">News Archive</a>
+			<br>
+			<a href="/about-us.aspx">About Us</a> |
+			<a href="/contact-us.aspx">Contact Us</a>
+			
+			| <a href="/privacy-policy.aspx">Privacy Policy</a> |
+			<a href="/termsofuse.aspx">Terms Of Use</a>
+			<span id="ctl00_Ucpagefooter_HelpfulLinksPageLink">| <a href="/helpful-links.aspx">Helpful Links</a></span>
+			
+			
+		</p>
+		<p>
+            <span id="ctl00_Ucpagefooter_lbSectionsCaption">Product/Service:</span><span id="ctl00_Ucpagefooter_lbSections"><a href="/browse-sections.aspx?c=%23">#</a> <a href="/browse-sections.aspx?c=A">A</a> <a href="/browse-sections.aspx?c=B">B</a> <a href="/browse-sections.aspx?c=C">C</a> <a href="/browse-sections.aspx?c=D">D</a> <a href="/browse-sections.aspx?c=E">E</a> <a href="/browse-sections.aspx?c=F">F</a> <a href="/browse-sections.aspx?c=G">G</a> <a href="/browse-sections.aspx?c=H">H</a> <a href="/browse-sections.aspx?c=I">I</a> <a href="/browse-sections.aspx?c=J">J</a> <a href="/browse-sections.aspx?c=K">K</a> <a href="/browse-sections.aspx?c=L">L</a> <a href="/browse-sections.aspx?c=M">M</a> <a href="/browse-sections.aspx?c=N">N</a> <a href="/browse-sections.aspx?c=O">O</a> <a href="/browse-sections.aspx?c=P">P</a> <a href="/browse-sections.aspx?c=Q">Q</a> <a href="/browse-sections.aspx?c=R">R</a> <a href="/browse-sections.aspx?c=S">S</a> <a href="/browse-sections.aspx?c=T">T</a> <a href="/browse-sections.aspx?c=U">U</a> <a href="/browse-sections.aspx?c=V">V</a> <a href="/browse-sections.aspx?c=W">W</a> <a href="/browse-sections.aspx?c=X">X</a> <a href="/browse-sections.aspx?c=Y">Y</a> <a href="/browse-sections.aspx?c=Z">Z</a> </span>
+            
+			    <br>
+			    <span id="ctl00_Ucpagefooter_lbCompaniesCaption">Companies:</span><span id="ctl00_Ucpagefooter_lbCompanies"><a href="/browse-companies.aspx?c=%23">#</a> <a href="/browse-companies.aspx?c=A">A</a> <a href="/browse-companies.aspx?c=B">B</a> <a href="/browse-companies.aspx?c=C">C</a> <a href="/browse-companies.aspx?c=D">D</a> <a href="/browse-companies.aspx?c=E">E</a> <a href="/browse-companies.aspx?c=F">F</a> <a href="/browse-companies.aspx?c=G">G</a> <a href="/browse-companies.aspx?c=H">H</a> <a href="/browse-companies.aspx?c=I">I</a> <a href="/browse-companies.aspx?c=J">J</a> <a href="/browse-companies.aspx?c=K">K</a> <a href="/browse-companies.aspx?c=L">L</a> <a href="/browse-companies.aspx?c=M">M</a> <a href="/browse-companies.aspx?c=N">N</a> <a href="/browse-companies.aspx?c=O">O</a> <a href="/browse-companies.aspx?c=P">P</a> <a href="/browse-companies.aspx?c=Q">Q</a> <a href="/browse-companies.aspx?c=R">R</a> <a href="/browse-companies.aspx?c=S">S</a> <a href="/browse-companies.aspx?c=T">T</a> <a href="/browse-companies.aspx?c=U">U</a> <a href="/browse-companies.aspx?c=V">V</a> <a href="/browse-companies.aspx?c=W">W</a> <a href="/browse-companies.aspx?c=X">X</a> <a href="/browse-companies.aspx?c=Y">Y</a> <a href="/browse-companies.aspx?c=Z">Z</a> </span>
+		</p>
         
-    </div>
-    <div id="footer_main">
-        <p>
-            <a href="/default.aspx">Home</a> |
-            <a href="/add-my-business.aspx">Add My Business</a> |
-            <a href="/add-my-pressrelease.aspx">Submit Free Article</a> |
-            <a href="/advertise.aspx">Advertise On Infolink</a> |
-            <span id="ctl00_Ucpagefooter_NewsletterPageLink"><a href="/enewsletter.aspx">eNewsletter</a> |</span>
-            <a href="/article-archive.aspx">News Archive</a>
-            <br>
-            <a href="/about-us.aspx">About Us</a> |
-            <a href="/contact-us.aspx">Contact Us</a> |
-            <a href="/careers.aspx">Careers</a> |
-            <a href="/privacy-policy.aspx">Privacy Policy</a> |
-            <a href="/termsofuse.aspx">Terms Of Use</a> |
-            <a href="/helpful-links.aspx">Helpful Links</a>
-        </p>
-        <p>
-            Product/Service: 
-            <span id="ctl00_Ucpagefooter_lbSections"><a href="/browse-sections.aspx?char=%23">#</a> <a href="/browse-sections.aspx?char=A">A</a> <a href="/browse-sections.aspx?char=B">B</a> <a href="/browse-sections.aspx?char=C">C</a> <a href="/browse-sections.aspx?char=D">D</a> <a href="/browse-sections.aspx?char=E">E</a> <a href="/browse-sections.aspx?char=F">F</a> <a href="/browse-sections.aspx?char=G">G</a> <a href="/browse-sections.aspx?char=H">H</a> <a href="/browse-sections.aspx?char=I">I</a> <a href="/browse-sections.aspx?char=J">J</a> <a href="/browse-sections.aspx?char=K">K</a> <a href="/browse-sections.aspx?char=L">L</a> <a href="/browse-sections.aspx?char=M">M</a> <a href="/browse-sections.aspx?char=N">N</a> <a href="/browse-sections.aspx?char=O">O</a> <a href="/browse-sections.aspx?char=P">P</a> <a href="/browse-sections.aspx?char=Q">Q</a> <a href="/browse-sections.aspx?char=R">R</a> <a href="/browse-sections.aspx?char=S">S</a> <a href="/browse-sections.aspx?char=T">T</a> <a href="/browse-sections.aspx?char=U">U</a> <a href="/browse-sections.aspx?char=V">V</a> <a href="/browse-sections.aspx?char=W">W</a> <a href="/browse-sections.aspx?char=X">X</a> <a href="/browse-sections.aspx?char=Y">Y</a> <a href="/browse-sections.aspx?char=Z">Z</a> </span>
-            <br>
-            Companies:
-            <span id="ctl00_Ucpagefooter_lbCompanies"><a href="/browse-companies.aspx?char=%23">#</a> <a href="/browse-companies.aspx?char=A">A</a> <a href="/browse-companies.aspx?char=B">B</a> <a href="/browse-companies.aspx?char=C">C</a> <a href="/browse-companies.aspx?char=D">D</a> <a href="/browse-companies.aspx?char=E">E</a> <a href="/browse-companies.aspx?char=F">F</a> <a href="/browse-companies.aspx?char=G">G</a> <a href="/browse-companies.aspx?char=H">H</a> <a href="/browse-companies.aspx?char=I">I</a> <a href="/browse-companies.aspx?char=J">J</a> <a href="/browse-companies.aspx?char=K">K</a> <a href="/browse-companies.aspx?char=L">L</a> <a href="/browse-companies.aspx?char=M">M</a> <a href="/browse-companies.aspx?char=N">N</a> <a href="/browse-companies.aspx?char=O">O</a> <a href="/browse-companies.aspx?char=P">P</a> <a href="/browse-companies.aspx?char=Q">Q</a> <a href="/browse-companies.aspx?char=R">R</a> <a href="/browse-companies.aspx?char=S">S</a> <a href="/browse-companies.aspx?char=T">T</a> <a href="/browse-companies.aspx?char=U">U</a> <a href="/browse-companies.aspx?char=V">V</a> <a href="/browse-companies.aspx?char=W">W</a> <a href="/browse-companies.aspx?char=X">X</a> <a href="/browse-companies.aspx?char=Y">Y</a> <a href="/browse-companies.aspx?char=Z">Z</a> </span>
-        </p>
-        <p>
-            Copyright © Reed Business Information (2.0.3-fsb). All material on this site is subject to copyright. All rights reserved.
-            <br>
-            No part of this material may be reproduced, translated, transmitted, framed or stored in a retrieval system
-            <br>
-            for public or private use without the written permission of the publisher.
-        </p>   
-    </div>
+		<div id="ctl00_Ucpagefooter_dvCopyright" class="dvCopyright">Copyright © Reed Business Information (2.4.1.001). All material on this site is subject to copyright. All rights reserved.
+			<br>
+			No part of this material may be reproduced, translated, transmitted, framed or stored in a retrieval system
+			<br>
+			for public or private use without the written permission of the publisher.</div>   
+	</div>
 </div>
+	</div>
+	</div>
 
+	
 
-        </div>
-    </div>
-
-    
-
-    
+	
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -379,15 +514,19 @@ var pageTracker = _gat._getTracker("UA-251822-3");
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>
-
-    
-
+	</form>
+	
+	<!-- START Nielsen//NetRatings SiteCensus V5.3 -->
+<!-- COPYRIGHT 2007 Nielsen//NetRatings -->
 <script type="text/javascript">
-//<![CDATA[
-Sys.Application.initialize();
-//]]>
+ var _rsCI="postclick";
+ var _rsCG="infolink";
+ var _rsDN="//secure-au.imrworldwide.com/";
 </script>
-</form>
-
+<script type="text/javascript" src="//secure-au.imrworldwide.com/v53.js"></script>
+<noscript>
+ <div><img src="//secure-au.imrworldwide.com/cgi-bin/m?ci=postclick&amp;cg=infolink&amp;cc=1" alt=""/></div>
+</noscript>
+<!-- END Nielsen//NetRatings SiteCensus V5.3 -->
 
 </body></html>
