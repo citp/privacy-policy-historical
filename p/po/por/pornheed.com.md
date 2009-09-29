@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pornheed.com privacy policy that was archived on 2009-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090521081340id_/http%3A//www.pornheed.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornheed.com privacy policy that was archived on 2009-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090929035550id_/http%3A//www.pornheed.com/privacypolicy.php) for the most accurate reproduction.*
 
-# Pornheed.com - Full free porn videos . Porn heed is your porn tv and community. - Privacy Policy
+# Privacy Policy - Pornheed.com
 
 This document details important information regarding the use and disclosure of User Data collected on PornHeed.com 
 
@@ -23,7 +23,7 @@ Emails: If you contact us, we may keep a record of that correspondence.
 USES
 
 Your Personally identifiable information submitted to PornHeed.com is used to provide to the user the website's features and special personalized features. Your chosen username (not your email address) is displayed to other Users alongside the content you upload, including videos, comments, at, the messages you send through the PornHeed.com private mail, etc. Other Users can contact you through, private messages.   
-Any videos that you submit to PornHeed.com may be redistributed through the internet and other media channels, and may be viewed by the general public.   
+Any videos that you submit to PornHeed.com may be redistributed through the internet and other media collections, and may be viewed by the general public.   
 We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent.   
 We may use your email address without further consent for non-marketing or administrative purposes (such as notifying you of key website changes or for customer service purposes).   
 We analyze aggregated user traffic information to help streamline our marketing and hosting operations and to improve the quality of the PornHeed.com user-experience. 
