@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindmeister.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227225321id_/http%3A//www.mindmeister.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindmeister.com privacy policy that was archived on 2009-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090929235901id_/http%3A//www.mindmeister.com/home/privacy) for the most accurate reproduction.*
 
 # Online Mind Mapping - MindMeister
 
