@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mindmeister.com privacy policy that was archived on 2009-02-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090227225321id_/http%3A//www.mindmeister.com/home/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mindmeister.com privacy policy that was archived on 2009-09-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090929235901id_/http%3A//www.mindmeister.com/home/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -16,14 +16,13 @@
   <link href="http://blog.mindmeister.com/feed/" rel="alternate" title="News on MindMeister" type="application/rss+xml">
   <link href="http://www.mindmeister.com/rss/public_maps" rel="alternate" title="New public maps on MindMeister" type="application/rss+xml">
 
-  
-  <link href="/stylesheets/skins/default/css/lang/common_en.css?1235672841" media="screen,print" rel="stylesheet" type="text/css">
-  <script src="/javascripts/bin/core.js?1235672836" type="text/javascript"></script>
+  <link href="/stylesheets/skins/default/css/lang/common_en.css?1254207907" media="screen,print" rel="stylesheet" type="text/css">
+  <script src="/javascripts/lang/en.js?1254207869" type="text/javascript"></script>
+  <script src="/javascripts/bin/core.js?1254207879" type="text/javascript"></script>
 
   
-    <link href="/stylesheets/skins/default/css/lang/standard_en.css?1235672841" media="screen,print" rel="stylesheet" type="text/css">
-  
-  
+    <link href="/stylesheets/skins/default/css/lang/standard_en.css?1254207910" media="screen,print" rel="stylesheet" type="text/css">
+      
   
   </head>
 <body id="standard" class=" anonymous">
@@ -33,17 +32,16 @@
       date_format: "%m/%D/%Y",
       hour_format: "1"
     },
-    cacheBuster: 1235672739
+    cacheBuster: 1254207757
   };
 </script>
 <div id="alert" style="display: none"></div>
 <div id="wrapper">
   <div id="header">
-  <a class="logo" href="/" title="Back to MindMeister - free online mind mapping"><img alt="free online mind mapping" src="/stylesheets/skins/default/images/logo.png?1235672757"></a>
+  <a class="logo" href="/" title="Back to MindMeister - free online mind mapping"><img alt="free online mind mapping" src="/stylesheets/skins/default/images/logo.png?1254207786"></a>
   
     
-  
-
+ 
   
 </div>
 
@@ -55,14 +53,35 @@
       <li><a href="/maps/public">Browse</a></li>
       <li><a href="/services/tools">Tools</a></li>
       <li><a href="http://blog.mindmeister.com" target="new">Blog</a></li>
-      <li><a href="/home/about">About</a></li>
+      <li><a href="/content/about">About</a></li>
     
     
-    <li id="buttons">
-      
-        <a href="/users/login?redirect_to=%2Fhome%2Fprivacy" class="signout">Sign In</a>
-      
-      <a href="/help/index" class="help" title="Open help in a new window" onclick="return MindMeister.ui.openHelpWindow()">Help</a>
+    
+    <li id="actions">
+      <ul id="language" class="action">
+        <li>
+          
+            <a class="lang" href="#" onclick="$(&quot;langmenu&quot;).toggle(); return false;"><span><em>English</em><em class="dd"></em></span></a>
+            <ul class="contextmenu" id="langmenu" style="display:none">
+              
+                <li><a href="/en/home/privacy" class="cm_link">English</a></li>
+              
+                <li><a href="/de/home/privacy" class="cm_link">Deutsch</a></li>
+              
+                <li><a href="/ja/home/privacy" class="cm_link">日本語</a></li>
+              
+            </ul>
+          
+        </li>
+      </ul>
+      <ul id="buttons" class="action">
+        <li>
+          
+            <a href="/users/login?redirect_to=%2Fhome%2Fprivacy" class="icon signout">Sign In</a>
+          
+          <a href="/help/index" class="icon help" title="Open help in a new window" onclick="return MindMeister.ui.openHelpWindow(null,null,'en');">Help</a>
+        </li>
+      </ul>
     </li>
   </ul>
 </div>
@@ -80,8 +99,21 @@
   
 </div>
 
- 
+
+
+
+
+
 </div>
+
+<script type="text/javascript">
+  document.observe('click', function(event) {
+    var element = event.element();
+    if (!element.hasClassName('contextmenu') && !element.hasClassName('cm_link') && !element.up('.lang')) {
+      $('langmenu').hide();
+    }
+  });
+</script>
 
   <div id="body">
   <div id="maincontent">
@@ -115,6 +147,7 @@ We will maintain all user created data and information in strict confidence (unl
       Copyright 2009 <a href="/home/imprint">MeisterLabs</a>
     </p>
     <ul>
+      
       <li><a href="/home/legal">Terms and Conditions</a>•</li>
       <li><a href="/home/privacy">Privacy Statement</a>•</li>
       <li><a href="/home/imprint">Imprint</a>•</li>
