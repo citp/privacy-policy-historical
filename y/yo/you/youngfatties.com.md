@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youngfatties.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615062044id_/http%3A//youngfatties.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youngfatties.com privacy policy that was archived on 2009-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090929182542id_/http%3A//youngfatties.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
