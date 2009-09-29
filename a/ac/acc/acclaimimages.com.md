@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acclaimimages.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619090708id_/http%3A//www.acclaimimages.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acclaimimages.com privacy policy that was archived on 2009-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090929041143id_/http%3A//www.acclaimimages.com/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Acclaim Images - Privacy Policy
 
