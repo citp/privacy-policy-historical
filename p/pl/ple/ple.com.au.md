@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ple.com.au privacy policy that was archived on 2008-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081004041856id_/http%3A//www.ple.com.au%3Fp%3Dprivacy%26s%3Dlr8un3dsdcm2fb467t4a22pcs0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ple.com.au privacy policy that was archived on 2009-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090929230917id_/http%3A//www.ple.com.au%3Fp%3Dprivacy%26s%3Dh7chs9o4i1pa9gnuoqev93onu0) for the most accurate reproduction.*
 
 # PLE Computers Perth, Online Shopping, Computers, Notebooks, Hardware, Service and Repairs
 
