@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jenkatgames.com privacy policy that was archived on 2009-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090605232346id_/http%3A//www.jenkatgames.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jenkatgames.com privacy policy that was archived on 2009-09-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090930185240id_/http%3A//www.jenkatgames.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://gmpg.org/xfn/11">
 
@@ -197,11 +197,11 @@ $(function() {
 
 
 
-                <form id="smallsearch" action="/search/" method="get">
+                <form id="smallsearch" action="/search/" method="get" class="button-help" title="Search - Search Games, News and Profiles">
                 <div>
                   <label for="search">search</label>
                   <input type="hidden" id="search" name="search" value="1">
-                  <input type="text" id="query" name="query" size="15" value="">
+                  <input type="text" id="query" name="query" size="15" onblur="if(this.value=='') this.value='Search Games';" onfocus="if(this.value=='Search Games') this.value='';" value="Search Games">
                   <input type="image" src="/images/button-go.gif" value="Submit" name="Submit" class="submit-small">
                 </div>
               </form>
@@ -430,39 +430,11 @@ products, or services. </p>
 
   </div><!-- /main -->
   
-<div id="signup" style="background-image:url(/images/bg-signup.jpg);">
-  
-  <div class="contain">
-
-	<div id="signup-left">
-	
-	  <h2>SIGN UP!</h2>
-	  <h3>Subscribe to the Jenkat Games Newsletter</h3>
-
-	  <form id="subscribe" action="/formproc.php" method="post">
-      		<div id="innerForm" style="display: block;">
-		  <label for="subscribe-input">email</label>
-		  <input type="text" id="subscribe-input" name="subscribe-input" value="enter your email address here" onfocus="if(this.value=='enter your email address here') this.value='';" onblur="if(this.value=='') this.value='enter your email address here';" size="30">
-		  <input type="image" id="subscribe-submit" src="/images/submit-small.gif" value="Submit" name="Submit" class="submit-small">
-		</div>
-        <div id="sentFeedback" style="display: none; font-size: 1.2em; font-weight:bold; color: #fff; padding-top: 1px;">
-        	Thanks for signing up!
-        </div>
-	  </form>
- 	</div>
-	
-	<div id="signup-right">
-	  <h2>START EARNING GAMES!</h2>
-	  <h3>Become a Jenkat Games Member</h3>
-	  <h3>Join Today for Free</h3>
-      	  <a href="/profile.php?mode=register" title=""><img src="/images/button-register.png" alt="Register!"></a>
-      	</div>
-
-  </div>
-
-  <hr>
-
-</div><!-- /signup -->
+<div style="background:transparent url(/images/bg-signup-notlogged.jpg) no-repeat; width:783px; height:120px">
+   <div style="padding-left:460px; padding-top:52px; ">
+        <a href="/profile.php?mode=register" title=""><img src="/images/button-register.png" alt="Register!"></a>
+   </div>
+</div>
     
 <div id="footer">
 
