@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourpatch.com.au privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524084335id_/http%3A//www.ourpatch.com.au/australia/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourpatch.com.au privacy policy that was archived on 2009-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091001005144id_/http%3A//www.ourpatch.com.au/australia/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Australia | OurPatch
 
@@ -8,7 +8,7 @@
 ABN 73 127 723 755  
 PRIVACY POLICY**
 
-Regional Media Networks Pty Limited (OurPatch) respects the privacy of individuals. This policy sets out how Ourpatch collects personal information on, from and in respect of the operation of [www.ourpatch.com.au](https://web.archive.org/web/20090524084335id_/http%3A//) (OurPatch Website). It also describes how OurPatch maintains, uses and discloses personal information and your rights of access and correction.
+Regional Media Networks Pty Limited (OurPatch) respects the privacy of individuals. This policy sets out how Ourpatch collects personal information on, from and in respect of the operation of [www.ourpatch.com.au](https://web.archive.org/web/20091001005144id_/http%3A//) (OurPatch Website). It also describes how OurPatch maintains, uses and discloses personal information and your rights of access and correction.
 
 If you have any questions concerning this privacy policy, please contact our OurPatch Customer Service: 
 
