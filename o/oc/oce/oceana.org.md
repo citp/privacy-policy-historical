@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oceana.org privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603105449id_/http%3A//oceana.org/north-america/who-we-are/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oceana.org privacy policy that was archived on 2009-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090930111318id_/http%3A//oceana.org/north-america/who-we-are/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Oceana – Protecting the World’s Oceans
 
