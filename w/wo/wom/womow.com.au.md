@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womow.com.au privacy policy that was archived on 2008-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080719055110id_/http%3A//www.womow.com.au/about.php%3Fopt%3DPrivacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womow.com.au privacy policy that was archived on 2009-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090930113926id_/http%3A//www.womow.com.au/about.php%3Fopt%3DPrivacy%2520Policy) for the most accurate reproduction.*
 
 # About WOMOW - Privacy Policy
 
@@ -36,7 +36,7 @@ For businesses, the Manage My Business page tells you which information is publi
 
 You can publish ratings, comments, advice forum entries, fundraisers, your business or member profile, and other content to the WOMOW website. Your ratings are displayed publicly, but you can opt whether or not you wish to remain anonymous for each rating you submit. When you do not choose to remain anonymous, other WOMOW users can see your Display Name, your suburb (if you enter one), and the photo that you upload (if you upload one). You can choose your own Display Name so this can be as anonymous, or as identifying as you like. You can also change your Display Name at any time (and this change will affect all past ratings you have submitted, as well as all subsequent ratings). Your Display Name is also shown automatically against any Advice Forum posts, comments to ratings, fundraisers, and any other content that you post on the WOMOW website.
 
-WOMOW, and our licensees, can republish your content as described in the [WOMOW Conditions of Use](https://web.archive.org/web/20080719055110id_/http%3A//www.womow.com.au/about.php?opt=Conditions%20of%20Use). We publish ratings, business, fundraiser and other content and aggregate these to provide the WOMOW website and service.  
+WOMOW, and our licensees, can republish your content as described in the [WOMOW Conditions of Use](https://web.archive.org/web/20090930113926id_/http%3A//www.womow.com.au/about.php?opt=Conditions%20of%20Use). We publish ratings, business, fundraiser and other content and aggregate these to provide the WOMOW website and service.  
  
 
 * ### Information Collected by Email
@@ -84,7 +84,7 @@ In addition, we may disclose personal information when we believe that we are la
 
 * ### Feedback
 
-We welcome your feedback. If you have any comments or concerns about this Privacy Policy or would like to contact us for any reason, please [click here for our contact details](https://web.archive.org/web/20080719055110id_/http%3A//www.womow.com.au/contactus.php).  
+We welcome your feedback. If you have any comments or concerns about this Privacy Policy or would like to contact us for any reason, please [click here for our contact details](https://web.archive.org/web/20090930113926id_/http%3A//www.womow.com.au/contactus.php).  
  
 
 * ### Policy Changes
