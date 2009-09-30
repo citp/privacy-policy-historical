@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the directspace.net privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625142437id_/http%3A//directspace.net/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directspace.net privacy policy that was archived on 2009-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090930031852id_/http%3A//www.directspace.net/privacy_statement.htm) for the most accurate reproduction.*
 
-# DirectSpace Networks | Dedicated Servers and Hosting Services
+# DirectSpace Networks | Dedicated Servers, Colocation and VPS Services
 
-Privacy Policy Last Modified - 01/07/2008
+Privacy Policy Last Modified - 06/01/2009
 
 **Website Visitors-**
 
