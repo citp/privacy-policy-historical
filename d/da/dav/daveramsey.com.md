@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daveramsey.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611050721id_/http%3A//www.daveramsey.com/etc/cms/privacy_policy_39.htmlc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daveramsey.com privacy policy that was archived on 2009-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090930091915id_/http%3A//www.daveramsey.com/etc/cms/privacy_policy_39.htmlc) for the most accurate reproduction.*
 
 # Privacy Policy
 
