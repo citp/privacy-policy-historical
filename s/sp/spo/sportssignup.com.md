@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportssignup.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417002224id_/http%3A//www.sportssignup.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportssignup.com privacy policy that was archived on 2009-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090930170410id_/http%3A//www.sportssignup.com/about/privacypolicy.aspx) for the most accurate reproduction.*
 
 # SportsSignup Privacy Policy
 
@@ -37,8 +37,7 @@ Registrant information is stored in Microsoft's SQL Server Database, which suppo
 
 For SportsSignup account holders and end users, personal information collected such as (name, address, phone numbers, etc.) can be update or modified by logging into your SportsSignup account and clicking on “Contact Info” at the top of the page.
 
-#### **Cookies and Tracking Technologies**  
-
+#### **Cookies and Tracking Technologies**
 
 A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do link the information we store in cookies to any personally identifiable information you submit while on our site.
 
@@ -79,7 +78,7 @@ If you use a bulletin board, blog, or chat room on this Web site, you should be 
 _SportsSignup reserves the right to modify or amend this Privacy Policy at any time and for any reason. If there are material changes to this statement or in how SportsSignup will use personally identifiable information, SportsSignup will post a prominent notice on the SportsSignup homepage at[www.SportsSignup.com](http://www.sportssignup.com/) prior to implementing the change. The amended Terms shall automatically become effective immediately after they are posted. Your continued use of the site or SportsSignup services after the posting of the amended Terms on the Site constitutes your affirmative: (a) acknowledgement of the terms and its modifications; and (b) agreement to abide and be bound by the terms, as amended. If you have additional questions about this Policy, please contact [privacy@sportssignup.com](mailto:privacy@sportssignup.com)._
 
 League Sports Services LLC (dba SportsSignup)  
-PO Box 54  
-Latham, NY 12110 
+18 Division Street, Suite 302  
+Saratoga Springs, NY 12866
 
-This Privacy Policy was last updated on **August 15, 2008**
+This Privacy Policy was last updated on **June 2, 2009**
