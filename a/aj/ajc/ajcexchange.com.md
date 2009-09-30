@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ajcexchange.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426080828id_/http%3A//www.ajc.com/search/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ajcexchange.com privacy policy that was archived on 2009-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090930221537id_/http%3A//www.ajc.com/search/content/shared/services/policies/privacypolicy.html) for the most accurate reproduction.*
 
-# Welcome to AJC! | ajc.com
+# Atlanta Metro News | ajc.com
 
-LAST UPDATED: March 17, 2006 
+LAST UPDATED: JULY 6, 2009
 
 We care about your privacy. We will not sell your name or email address to any third party advertisers without your permission. **Please read our privacy policy below for further details.**
 
@@ -44,7 +44,7 @@ We use cookies to help us tailor our site to your needs, to deliver a better, mo
 
 **Other Methods of Collecting Information**. Our web pages may contain electronic images (called "single-pixel GIFs" or "web beacons") that allow us and our vendors to count users who have visited particular pages or to access certain cookies. We may use these tools and other technologies to recognize which pages users visit, and which links they click on. These features may also be included in our email newsletters so that we can learn which messages have been opened and acted upon. We may also be able to verify your online purchases from us or from third party sites that have agreed to share such information with us. 
 
-**Browser Level Information and IP Addresses**. Our web servers automatically collect limited information about your computer configuration when you visit our site, including the type of browser software you use, the operating system you're running, the resolution of your computer monitor, the website that referred you, and your IP address. (Your IP address is a numerical address that is used by computers connected to the Internet to identify your computer so that data (such as the web pages you want to view) can be transmitted to you. We also use IP address information for systems administration and trouble shooting purposes. Your IP address does not tell us who you are.) We use this information to deliver our web pages to you upon request, to tailor our site to the interests of our users, and to measure traffic within our site. 
+**Browser Level Information and IP Addresses**. Our web servers automatically collect limited information about your computer configuration when you visit our site, including the type of browser software you use, the operating system you're running, the resolution of your computer monitor, the website that referred you, and your IP address. (Your IP address is a numerical address that is used by computers connected to the Internet to identify your computer so that data (such as the web pages you want to view) can be transmitted to you. We also use IP address information for systems administration and trouble shooting purposes. Your IP address does not tell us who you are.) We use this information to deliver our web pages to you upon request, to tailor our site (including our ads) to the interests of our users, and to measure traffic within our site. To improve your ad experience, we may send non-personal information to Yahoo!, an ad network partner that displays ads on this site. Such information is based on your browser's activities, such as type of pages viewed and categories of interests, so that the advertising you see is relevant to you. Yahoo! also may use information it gathers regarding its own users to select which ads to display on this site. Please click this link <http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html> to learn more about Yahoo!'s ad practices, including how to opt out of Yahoo! using anonymous information to select which ads to show you. 
 
 Back to top **
 
