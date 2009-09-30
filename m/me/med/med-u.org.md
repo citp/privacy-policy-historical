@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the med-u.org privacy policy that was archived on 2009-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090512022453id_/http%3A//www.med-u.org/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the med-u.org privacy policy that was archived on 2009-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091001000950id_/http%3A//www.med-u.org/about/privacy_policy) for the most accurate reproduction.*
 
 # medU | About Us
 
 ## Please review this privacy policy carefully before using the site.
 
-This site (“Site” or “case Sites” ) is owned and operated by The Institute for Innovative Technology In Medical Education, a 501(c)(3) organized under the laws of the State of New Hampshire (“iInTIME”). The purpose of this Site is to make available iInTIME's virtual patient cases designed to comprehensively teach the core third-year curriculum to individuals involved in health care education and practice.
+This site (“Site” or “case Sites” ) is owned and operated by The Institute for Innovative Technology In Medical Education ("iInTIME"), a 501(c)(3) organized under the laws of the State of New Hampshire. The purpose of this Site is to make available iInTIME's virtual patient cases designed to comprehensively teach the core third-year curriculum to individuals involved in health care education and practice.
 
 iInTIME is committed to fair information practices. iInTIME also respects the privacy and security of its users. To demonstrate our commitment to your privacy, we have prepared this statement disclosing our privacy practices. Here, you will learn what personal identifying information of yours is collected, how and when we might use your information, how we protect your information, who has access to your information, and how you can correct any inaccuracies in the information. Except as otherwise described in this Privacy Policy, we will not disclose it to any person or organization outside iInTIME. However, in connection with its educational mission, iInTIME does share information of the usage of those users who are authorized to use the site because of their affiliation with a subscribing institution with such institutions. See below for more details.
 
@@ -27,12 +27,12 @@ Web server logs: When you visit a case Site, we track information to administer 
   * the date and time of your visit
   * the Web page you linked to our site from
   * the pages you viewed on the site
-  * he number of links you click within the Site
+  * the number of links you click within the Site
   * the amount of time spent at each page and what you clicked on the page, including any answers clicked on the page.
 
 
 
-Cookies: The case Sites use cookies (i.e., small bits of text that our servers place into a file on your computer's hard drive). This is used to save your preferences and login information, and provide personalized functionality. You can reject cookies by changing your browser settings, but be aware that this will disable some of the functionality on our Site.
+Cookies: The case Sites use cookies (i.e., small bits of text that our servers place into a file on your computer's hard drive). These are used to save your preferences and login information, and provide personalized functionality. You can reject cookies by changing your browser settings, but be aware that this will disable some of the functionality on our Site.
 
 ## Information Shared with Third Parties
 
@@ -40,7 +40,7 @@ iInTIME will not share information it collects which personally identifies you o
 
   * With agents and contractors who use it on iInTIME's behalf or in connection with their relationship with us and the operation, administration and maintenance of the Site.
   * In the case of Authorized Users who have access to the site through a Subscribing Institution, with your Subscribing Institution (as described further below).
-  * As you specifically request us.
+  * At your specific request.
 
 
 
