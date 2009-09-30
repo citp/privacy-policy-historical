@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the accessplace.com privacy policy that was archived on 2009-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090611042813id_/http%3A//accessplace.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the accessplace.com privacy policy that was archived on 2009-10-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091001005802id_/http%3A//accessplace.com/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"><head>
 				<title>AccessPlace privacy policy, personal user data, third party sites, children and user consent</title>
@@ -8,7 +8,7 @@
 
 				function validate_required(field,alerttxt) {
 					with (field)  {
-						if (value==null||value=="") {
+						if (value==null||value==""||value=="company name or service"||value=="location or postcode") {
 							alert(alerttxt);return false;
 						} else {
 							return true;
@@ -48,20 +48,19 @@
 				
 				<div id="header-bottom" class="image">
 					<div id="header-bottom-container">
-						<div id="search" class="image">
-							<div id="search-labels">
+					    <div id="search" class="image">
+													<div id="search-labels">
 								<div id="search-for">Search for</div>
 								<div id="search-near">near</div>
 							</div>
 							<div id="search-form">
 								<form method="get" action="/search.php" onsubmit="return validate_form(this)">
 									<input type="hidden" value="/privacy.htm" name="callpage">
-									<div id="for" class="image"><input name="find" class="image" maxlength="50"></div>
-									<div id="near" class="image"><input name="place" class="image" maxlength="50"></div>
+									<div id="for" class="image"><input name="find" class="image" maxlength="50" value="company name or service" onfocus="if(this.value=='company name or service')this.value='';" onblur="if(this.value=='')this.value='company name or service';"></div>
+									<div id="near" class="image"><input name="place" class="image" maxlength="50" value="location or postcode" onfocus="if(this.value=='location or postcode')this.value='';" onblur="if(this.value=='')this.value='location or postcode';"></div>
 									<div id="submit-button"><input type="submit" class="image" value="" id="submit"></div>
 								</form>
-							</div>
-						</div>
+							</div>					    </div>
 					</div>
 				</div>
 				
@@ -144,6 +143,8 @@
 			
 			<div id="footer">
 				<div id="footer-content">
+
+				    <div id="footer-left">
 										 <a href="http://www.accessplace.com/" rel="sidebar" title="AccessPlace Web Directory" id="bm">Bookmark</a> | 
 					<!--[if IE]> 
 					<script type="text/javascript"> 
@@ -162,7 +163,28 @@
 		  	  		<a href="/welcome.htm#CopyrightNotice">Copyright</a> |
 		  	  		<a href="/privacy.htm">Privacy Policy</a><br><br>
 		  	  		© 1999-2009 accessplace.com - All Rights Reserved
-		  	  		
+				    </div>
+
+				    <div id="footer-right">
+
+					<div class="search">
+													<div id="search-labels">
+								<div id="search-for">Search for</div>
+								<div id="search-near">near</div>
+							</div>
+							<div id="search-form">
+								<form method="get" action="/search.php" onsubmit="return validate_form(this)">
+									<input type="hidden" value="/privacy.htm" name="callpage">
+									<div id="for" class="image"><input name="find" class="image" maxlength="50" value="company name or service" onfocus="if(this.value=='company name or service')this.value='';" onblur="if(this.value=='')this.value='company name or service';"></div>
+									<div id="near" class="image"><input name="place" class="image" maxlength="50" value="location or postcode" onfocus="if(this.value=='location or postcode')this.value='';" onblur="if(this.value=='')this.value='location or postcode';"></div>
+									<div id="submit-button"><input type="submit" class="image" value="" id="submit"></div>
+								</form>
+							</div>					</div>
+
+				    </div>
+
+				    <div class="clearboth"></div>
+
 	  	  		</div>
 			</div>
 			
