@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uhv.edu privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619032123id_/http%3A//www.uhv.edu/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uhv.edu privacy policy that was archived on 2009-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090930214710id_/http%3A//www.uhv.edu/privacy.asp) for the most accurate reproduction.*
 
 # Welcome to the University of Houston-Victoria
 
