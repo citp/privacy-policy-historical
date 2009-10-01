@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the olsen-twins-news.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601063729id_/http%3A//www.olsen-twins-news.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olsen-twins-news.com privacy policy that was archived on 2009-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091001142031id_/http%3A//www.olsen-twins-news.com/privacy) for the most accurate reproduction.*
 
 # » Privacy Statement » Olsen Twins NEWS © 2009
 
