@@ -1,239 +1,37 @@
-<!--The following is the downloaded HTML source of the xtend-life.com privacy policy that was archived on 2009-04-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090423132712id_/http%3A//xtend-life.com/aboutus/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the xtend-life.com privacy policy that was archived on 2009-10-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091001043310id_/http%3A//www.xtend-life.com/aboutus/Privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-
-
-
-
-
-
-	<script type="text/javascript">
-	<!--
-		if (top.location!= self.location) {
-			top.location = self.location.href
-		}
-	//-->
-	</script>
-
-
-
-    <title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml"><head><meta content="text/html; charset=utf-8" http-equiv="Content-Type"><meta http-equiv="X-UA-Compatible" content="IE=7"><meta name="verify-v1" content="xXp1TaLJ/IryC+WjAVRkxKnA1mv9dm5H1zkRCImyqX8="><title>
 	Privacy
-</title><meta content="text/html; charset=utf-8" http-equiv="Content-Type"><link rel="shortcut icon" href="/favicon.ico">
-
-    <!-- Rounded Corners -->
-    <script type="text/javascript" src="/JavaScript/niftycube.js"></script>
-    
-    
-    
-
+</title><link rel="shortcut icon" href="/favicon.ico">
+    <script type="text/javascript" src="/Javascript/smooth.js"></script>
+   
+    <!-- Comodo Image
     <script type="text/javascript">
-    window.onload=function(){
-        Nifty("div.LocalMenu", "big");
-        Nifty("div.RoundedCorner", "big transparent");
-        // Nifty("ul.nav a","normal transparent top");
-    }
-    
- /* Smooth scrolling
-   Changes links that link to other parts of this page to scroll
-   smoothly to those links rather than jump to them directly, which
-   can be a little disorienting.
-
-   sil, http://www.kryogenix.org/
-
-   v1.0 2003-11-11
-   v1.1 2005-06-16 wrap it up in an object
-*/
-
-var ss = {
-  fixAllLinks: function() {
-    // Get a list of all links in the page
-    var allLinks = document.getElementsByTagName('a');
-    // Walk through the list
-    for (var i=0;i<allLinks.length;i++) {
-      var lnk = allLinks[i];
-      if ((lnk.href && lnk.href.indexOf('#') != -1) && 
-          ( (lnk.pathname == location.pathname) ||
-          ('/'+lnk.pathname == location.pathname) ) && 
-          (lnk.search == location.search)) {
-        // If the link is internal to the page (begins in #)
-        // then attach the smoothScroll function as an onclick
-        // event handler
-        ss.addEvent(lnk,'click',ss.smoothScroll);
-      }
-    }
-  },
-
-  smoothScroll: function(e) {
-    // This is an event handler; get the clicked on element,
-    // in a cross-browser fashion
-    if (window.event) {
-      target = window.event.srcElement;
-    } else if (e) {
-      target = e.target;
-    } else return;
-
-    // Make sure that the target is an element, not a text node
-    // within an element
-    if (target.nodeType == 3) {
-      target = target.parentNode;
-    }
-
-    // Paranoia; check this is an A tag
-    if (target.nodeName.toLowerCase() != 'a') return;
-
-    // Find the <a name> tag corresponding to this href
-    // First strip off the hash (first character)
-    anchor = target.hash.substr(1);
-    // Now loop all A tags until we find one with that name
-    var allLinks = document.getElementsByTagName('a');
-    var allDivs = document.getElementsByTagName('div');
-    var all = [allLinks, allDivs];
-    var destinationLink = null;
-    for (var j=0; j<all.length; j++) {
-      for (var i=0;i<all[j].length;i++) {
-        var lnk = all[j][i];
-        if (lnk.name && (lnk.name == anchor)) {
-          destinationLink = lnk;
-          break;
-        } else if (lnk.id && (lnk.id == anchor)){
-        destinationLink = lnk;
-          break;
-      }
-      }
-    }
-    /*
-    var allLinks = document.getElementsByTagName('a');
-    var destinationLink = null;
-    for (var i=0;i<allLinks.length;i++) {
-      var lnk = allLinks[i];
-      if (lnk.name && (lnk.name == anchor)) {
-        destinationLink = lnk;
-        break;
-      }
-    }
-    */
-
-    // If we didn't find a destination, give up and let the browser do
-    // its thing
-    if (!destinationLink) return true;
-
-    // Find the destination's position
-    var destx = destinationLink.offsetLeft; 
-    var desty = destinationLink.offsetTop;
-    var thisNode = destinationLink;
-    while (thisNode.offsetParent && 
-          (thisNode.offsetParent != document.body)) {
-      thisNode = thisNode.offsetParent;
-      destx += thisNode.offsetLeft;
-      desty += thisNode.offsetTop;
-    }
-    var desty2 = desty;
-
-    // Stop any current scrolling
-    clearInterval(ss.INTERVAL);
-
-    cypos = ss.getCurrentYPos();
-
-    ss_stepsize = parseInt((desty2-cypos)/ss.STEPS);
-    ss.INTERVAL =
-setInterval('ss.scrollWindow('+ss_stepsize+','+desty2+',"'+anchor+'")',10);
-
-    // And stop the actual click happening
-    if (window.event) {
-      window.event.cancelBubble = true;
-      window.event.returnValue = false;
-    }
-    if (e && e.preventDefault && e.stopPropagation) {
-      e.preventDefault();
-      e.stopPropagation();
-    }
-  },
-
-  scrollWindow: function(scramount,dest,anchor) {
-    wascypos = ss.getCurrentYPos();
-    isAbove = (wascypos < dest);
-    window.scrollTo(0,wascypos + scramount);
-    iscypos = ss.getCurrentYPos();
-    isAboveNow = (iscypos < dest);
-    if ((isAbove != isAboveNow) || (wascypos == iscypos)) {
-      // if we've just scrolled past the destination, or
-      // we haven't moved from the last scroll (i.e., we're at the
-      // bottom of the page) then scroll exactly to the link
-      var dest2 = dest-30;
-      window.scrollTo(0,dest2);
-      // cancel the repeating timer
-      clearInterval(ss.INTERVAL);
-      // and jump to the link directly so the URL's right
-      //location.hash = anchor;
-    }
-  },
-
-  getCurrentYPos: function() {
-    if (document.body && document.body.scrollTop)
-      return document.body.scrollTop;
-    if (document.documentElement && document.documentElement.scrollTop)
-      return document.documentElement.scrollTop;
-    if (window.pageYOffset)
-      return window.pageYOffset;
-    return 0;
-  },
-
-  addEvent: function(elm, evType, fn, useCapture) {
-    // addEvent and removeEvent
-    // cross-browser event handling for IE5+,  NS6 and Mozilla
-    // By Scott Andrew
-    if (elm.addEventListener){
-      elm.addEventListener(evType, fn, useCapture);
-      return true;
-    } else if (elm.attachEvent){
-      var r = elm.attachEvent("on"+evType, fn);
-      return r;
-    } else {
-      alert("Handler could not be removed");
-    }
-  } 
-}
-
-ss.STEPS = 25;
-
-ss.addEvent(window,"load",ss.fixAllLinks);
-    </script>
-
-
-
-
-
-
-    <script type="text/javascript" src="/JavaScript/IE6Fix.js"></script>
-    
-    <!-- Comodo Image -->
-    <script type="text/javascript">
-    var cot_loc0=(window.location.protocol == "https:")? "https://secure.comodo.net/trustlogo/javascript/cot.js" :
-    "http://www.trustlogo.com/trustlogo/javascript/cot.js";
-    document.writeln('<script language="JavaScript" src="'+cot_loc0+'" type="text\/javascript"><\/script>');
-    </script><script language="JavaScript" src="https://secure.comodo.net/trustlogo/javascript/cot.js" type="text/javascript"></script>
-
-
-
-
-
+      var cot_loc0=(window.location.protocol == "https:")? "https://secure.comodo.net/trustlogo/javascript/cot.js" :
+        "http://www.trustlogo.com/trustlogo/javascript/cot.js";
+      document.writeln('<script language="JavaScript" src="'+cot_loc0+'" type="text\/javascript"><\/script>');
+    </script>  -->
 
     
 <link href="../App_Themes/DefaultTheme/bkps/Layout.css" type="text/css" rel="stylesheet"><link href="../App_Themes/DefaultTheme/bkps/Layout_bkp.css" type="text/css" rel="stylesheet"><link href="../App_Themes/DefaultTheme/CommonElements.css" type="text/css" rel="stylesheet"><link href="../App_Themes/DefaultTheme/IEFix.css" type="text/css" rel="stylesheet"><link href="../App_Themes/DefaultTheme/Layout.css" type="text/css" rel="stylesheet"><link href="../App_Themes/DefaultTheme/WarrenTheme.css" type="text/css" rel="stylesheet"></head>
 <body id="Body">
-
     <div id="BodyArea">
         <form name="aspnetForm" method="post" action="/aboutus/Privacy.aspx" id="aspnetForm" class="LeftPanel">
 <div>
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjgPZBYCZg9kFgJmD2QWAgIDEBYCHgVjbGFzcwUJTGVmdFBhbmVsZBYaAgMPZBYIAgEPEA9kFgIeCG9uY2hhbmdlBTJpZiAodGhpc1t0aGlzLnNlbGVjdGVkSW5kZXhdLnZhbHVlID09ICIiICkgcmV0dXJuO2QWAWZkAgUPEA9kFgIfAQUyaWYgKHRoaXNbdGhpcy5zZWxlY3RlZEluZGV4XS52YWx1ZSA9PSAiIiApIHJldHVybjtkFgFmZAIJDxAPZBYCHwEFMmlmICh0aGlzW3RoaXMuc2VsZWN0ZWRJbmRleF0udmFsdWUgPT0gIiIgKSByZXR1cm47ZBYBZmQCFw9kFgQCAQ8PFgQeC05hdmlnYXRlVXJsBSh+L0FkbWluL0FkZEVkaXRDb250ZW50UGFnZS5hc3B4P3BhZ2VpZD04HgdWaXNpYmxlZ2RkAgMPDxYEHwIFJH4vQWRtaW4vRWRpdFBhZ2VMYXlvdXQuYXNweD9wYWdlaWQ9OB8DZ2RkAgUPZBYCAgEPDxYCHghJbWFnZVVybAUwL0Fzc2V0cy9Vc2VyRmlsZXMvSW1hZ2UvQmFubmVycy9mYWRlX2Fib3V0dXMuanBnZGQCBw8WAh8AZWQCCQ8WAh8AZWQCCw8WAh8AZWQCDQ8WAh8AZWQCDw8WAh8AZWQCEQ8WAh8AZWQCEw8WAh8AZWQCFQ8WAh8ABQphY3RpdmVsaW5rZAIXDxYCHwBlFgICAQ8PFgQfAgUMfi9Mb2dpbi5hc3B4HgRUZXh0BQpNeSBBY2NvdW50ZGQCGQ8WAh8AZWQCGw9kFgICAQ9kFgYCAQ8PFgIfAgUBL2RkAgMPDxYEHwIFDn4vYWJvdXR1cy5hc3B4HwUFCEFib3V0IFVzZGQCBw8PFgIfBQUHUHJpdmFjeWRkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYEBRljdGwwMCRjdGwwMCRidG5Qcm9kdWN0c0dvBRxjdGwwMCRjdGwwMCRidG5IZWFsdGhDb25jZXJuBRljdGwwMCRjdGwwMCRidG5Ta2luY2FyZUdvBRZjdGwwMCRjdGwwMCRfYnRuU2VhcmNo70RCx9LhFkq6Jsf5qo0QcuOFTq8=">
 </div>
 
-<script src="https://www.google.com/coop/cse/brand?form=searchbox_018231607103210342318%3A3cglvjmcub4" type="text/javascript"></script><script language="javascript" src="https://server.iad.liveperson.net/hc/70668281/ x.js?cmd=file&amp;file=chatScript3&amp;site=70668281&amp;&amp;category=en;woman;5"> </script>
-<script src="/ScriptResource.axd?d=SsPo9ZHrcPr2GXfgLoomBUH-xLoFrvWPm43oHVxt6vHkfV7EP5ti_KDysjgw1vaem7zvY_N-rXfgHRY0sL87rwthtDAiLMhMZpEDM65ZGUs1&amp;t=633421483843593750" type="text/javascript"></script>
+
+<script src="/ScriptResource.axd?d=SsPo9ZHrcPr2GXfgLoomBdX_zXU0-Z7Laa5NOnORclBCLHJCkVQgw9lT4BFiELVBSjWfk3pjtUVGp9UgQhAe96v8K3fX2PjYx_xZnzZnZTw1&amp;t=ffffffffbf3c4852" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
             
-                <a name="Top&quot;" id="Top"></a>
+                <a name="Top" id="Top"></a>
                 <!-- Header Area -->
                 <div id="ctl00_ctl00_HeaderPanel">
 	
@@ -254,13 +52,13 @@ ss.addEvent(window,"load",ss.fixAllLinks);
 		<option value="Female_Rejuvenator">Female Rejuvenator</option>
 		<option value="Male_Rejuvenator">Male Rejuvenator</option>
 		<option value="Multi_Xtra">Multi Xtra</option>
-		<option value="GLM-Omega_3_Plus">GLM-Omega 3 Plus</option>
+		<option value="Green_Lipped_Mussel_Powder">Green Lipped Mussel Powder</option>
 		<option value="Natural_Energy_With_NZ_Bee_Pollen">Natural NZ Energy</option>
 		<option value="Neuro_Natural_General">Neuro Natural General</option>
 		<option value="Neuro_Natural_Memory">Neuro Natural Memory</option>
 		<option value="Neuro_Natural_Serenity">Neuro Natural Serenity</option>
 		<option value="Neuro_Natural_Sleep">Neuro Natural Sleep</option>
-		<option value="Omega_3_~_DHA_Esters">Omega 3 / DHA Esters</option>
+		<option value="Omega_3_DHA_Fish_Oil">Omega 3 / DHA Fish Oil</option>
 		<option value="Total_Balance_Women's">Total Balance Women's Standard</option>
 		<option value="Total_Balance_Women's_Premium">Total Balance Women's Premium</option>
 		<option value="Total_Balance_Men's">Total Balance Men's Standard</option>
@@ -348,7 +146,7 @@ ss.addEvent(window,"load",ss.fixAllLinks);
                     </div>
                     <div id="BannerImage">
                         
-    <img id="ctl00_ctl00_contentPageImage_imgBanner" src="/Assets/UserFiles/Image/Banners/fade_aboutus.jpg" style="border-width:0px;">
+    <img id="ctl00_ctl00_contentPageImage_imgBanner" src="/Assets/UserFiles/Image/Banners/fade_aboutus.jpg" alt="Banner" style="border-width:0px;">
 
                     </div>               
                 </div>
@@ -378,7 +176,6 @@ ss.addEvent(window,"load",ss.fixAllLinks);
                     <!-- Content Area -->
                     <div id="ContentArea">
                             
-
                         
     <div id="Breadcrumb">
         <!-- Breadcrumb trail -->
@@ -391,7 +188,7 @@ ss.addEvent(window,"load",ss.fixAllLinks);
 </div>
 
 
-        <img src="/Images/hr.png" id="ctl00_ctl00_contentBreadcrumb_siteNavUnderline">
+        <img src="/Images/hr.png" id="ctl00_ctl00_contentBreadcrumb_siteNavUnderline"> 
     </div>    
 
                         
@@ -481,7 +278,7 @@ HighlightLink();
         
         
         
-<font class="content"><strong><font color="#000080">Xtend-Life has created this privacy statement in order to demonstrate our firm commitment to privacy. <br>
+<p><font class="content"><strong><font color="#000080">Xtend-Life has created this privacy statement in order to demonstrate our firm commitment to privacy. <br>
 </font></strong><br>
 The following discloses the information gathering and dissemination practices for this Web site:<br>
 <br>
@@ -495,12 +292,15 @@ Our Site uses cookies to keep track of your shopping cart and to identify the si
 </strong>When you register for our newsletter we require only your first name and email address. These details are NEVER released to any third party. If your email 'bounces' or is 'full' we automatically delete your subscription. Deleted subscriptions are totally erased from our database.Subscribers can opt out of their subscription at any time and their requests are always honored promptly.<br>
 <br>
 <strong>Order Forms</strong><br>
-Our site uses secure encrypted forms for customers to place their product orders. Through these secure forms we collect contact information, shipping details and credit card info.SecurityThis site has security measures in place to protect the loss, misuse, and alteration of the information under our control.<br>
+Our site uses secure encrypted forms for customers to place their product orders. Through these secure forms we collect contact information, shipping details and credit card info.<br>
+<br>
+<strong>Security</strong><br>
+This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.<br>
 <br>
 <strong>Questions</strong><br>
 If you have any questions about this privacy statement, the practices of this site, or your dealings with us please either telephone us toll free on 1 800 224 4808 if in the US or Canada or, (64) 3 384 2116 if in another country. Or alternatively <a href="/contactus.aspx"><u>contact us</u></a>.&nbsp;&nbsp;<br>
 <br>
-</font>
+</font></p>
         
     </div>
     <!-- End Content Column -->
@@ -510,20 +310,19 @@ If you have any questions about this privacy statement, the practices of this si
     </div>
     <!-- End Right Column -->
 
-
+ 
                      </div>
                         
                     <!-- Footer -->
                     <div id="Footer">
                         <div id="FooterText">
                             <ul id="footerMenu">
-                                <li>© 1999-2008 Xtend-Life</li>
+                                <li>© 1999-2009 Xtend-Life</li>
                                 <li><a href="/aboutus/Privacy.aspx">Security &amp; Privacy Policy</a></li>
                                 <li><a href="/aboutus/Legal.aspx">Legal</a></li>
                                 <li><a href="/aboutus/Save+Money.aspx">Save Money</a></li>
                                 <li class="Menu-Leaf-Last"><a href="/aboutus.aspx">About Us</a></li>
                             </ul>
-
                         
                         </div>
                         <div id="FooterBanner" style="padding-top:5px; vertical-align:top;">
@@ -542,27 +341,15 @@ Sys.Application.initialize();
 </script>
 </form>
     </div>
-
     <!-- Pre-load images -->
-    <img src="/Images/GoButtonHover.png" style="display:none">
-    <img src="/Images/GoButton.png" style="display:none">
-    <img src="/Images/OrangeButton.png" style="display:none;">
-    <img src="/Images/YellowButton.png" style="display:none;">
-    <img src="/Images/Tabs/tab-left-orange.gif" style="display:none;">
-    <img src="/Images/Tabs/tab-right-orange.gif" style="display:none;">
-
-
-
-
-
-
-
+    <img src="/Images/GoButtonHover.png" style="display:none" alt="">
+    <img src="/Images/GoButton.png" style="display:none" alt="">
+    <img src="/Images/OrangeButton.png" style="display:none;" alt="">
+    <img src="/Images/YellowButton.png" style="display:none;" alt="">
+    <img src="/Images/Tabs/tab-left-orange.gif" style="display:none;" alt="">
+    <img src="/Images/Tabs/tab-right-orange.gif" style="display:none;" alt="">
     
-
-
-
-
-
+    <script type="text/javascript" src="https://server.iad.liveperson.net/hc/70668281/ x.js?cmd=file&amp;file=chatScript3&amp;site=70668281&amp;&amp;category=en;woman;5"> </script>
 
 
 </body></html>
