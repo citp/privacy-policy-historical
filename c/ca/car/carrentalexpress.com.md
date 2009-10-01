@@ -1,32 +1,32 @@
-> *The following text is extracted and transformed from the carrentalexpress.com privacy policy that was archived on 2009-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090318093247id_/http%3A//www.carrentalexpress.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carrentalexpress.com privacy policy that was archived on 2009-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091001150037id_/http%3A//www.carrentalexpress.com/privacy.htm) for the most accurate reproduction.*
 
 # Car Rental Express Privacy Policy
 
 ### CAR RENTAL EXPRESS PRIVACY POLICY
 
-Updated May 1, 2004 
+Updated March 9, 2009
 
-Information about Privacy on CarRentalExpress.com 
+Information about Privacy on CarRentalExpress.com
 
-Car Rental Express.com Inc. is committed to protecting your privacy. You can visit most pages on our site without giving us any information about yourself. But sometimes we do need information to provide services that you request, and this privacy statement explains data collection and use in those situations. 
+Car Rental Express.com Inc. is committed to protecting your privacy. You can visit most pages on our site without giving us any information about yourself. But sometimes we do need information to provide services that you request, and this privacy statement explains data collection and use in those situations.
 
-If you have questions or concerns regarding this statement, please contact our support department via email at [help@carrentalexpress.com ](mailto:help@carrentalexpress.com) This privacy policy statement covers only information that is collected through http://www.carrentalexpress.com, and does not cover information collected through any other site. 
+If you have questions or concerns regarding this statement, please contact our support department via email at [help@carrentalexpress.com ](mailto:help@carrentalexpress.com). This privacy policy statement covers only information that is collected through http://www.carrentalexpress.com, and does not cover information collected through any other site.
 
 Collection and Use of your Personal Information
 
 We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally, this information is requested when you are registering before entering a contest, ordering e-mail newsletters or securing a car rental reservation through our reservation system. 
 
-CarRentalExpress.com also collects certain information about your computer hardware and software. This information may include: your IP address, browser type, operating system, domain name, access times and referring Web site addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of CarRentalExpress.com. 
+CarRentalExpress.com also collects certain information about your computer hardware and software. This information may include: your IP address, browser type, operating system, domain name, access times and referring Web site addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of CarRentalExpress.com.
 
 Reservations
 
-If you reserve a vehicle through,http://www.carrentalexpress.com we request certain personally identifiable information from you on our reservation form. You must provide contact information (such as name, e-mail address, phone number, & street address) and may need to provide some financial information (such as credit card type, or credit card number & expiration date). We use this information to provide the rental agency with sufficient information to book the vehicle, and to contact you in advance if there is an issue concerning the rental. Also, we will be sending reminder emails etc from time to time to assist in the reservation process. 
+If you reserve a vehicle through http://www.carrentalexpress.com, we request certain personally identifiable information from you on our reservation form. You must provide contact information (such as name, e-mail address, phone number, & street address) and may need to provide some financial information (such as credit card type, or credit card number & expiration date). We use this information to provide the rental agency with sufficient information to book the vehicle, and to contact you in advance if there is an issue concerning the rental. Also, we will be sending reminder emails etc. from time to time to assist in the reservation process. 
 
-When we transmit sensitive information (such as a credit card numbers) over the internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol. We store the personal information you provide in computer servers with limited access that are located in controlled facilities Your information, other than financial information is sent to the rental agency via email or fax. Financial information is only accessible through a secure, controlled area of the site only accessible to the car rental agency through the administrative work station via a strict authentication process . Agencies are unable to alter the information in any way. 
+When we transmit sensitive information (such as a credit card numbers) over the internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol. We store the personal information you provide in computer servers with limited access that are located in controlled facilities Your information, other than financial information is sent to the rental agency via email or fax. Financial information is only accessible through a secure, controlled area of the site only accessible to the car rental agency through the administrative work station via a strict authentication process. Agencies are unable to alter the information in any way.
 
 Surveys or Contests
 
-From time-to-time we may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name, address, phone, zip, & e-mail address), We use this information to notify contest winners and award prizes, to monitor site traffic or personalize the site to send participants an email newsletter. 
+From time-to-time we may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name, address, phone, zip, & e-mail address). We use this information to notify contest winners and award prizes, to monitor site traffic or personalize the site to send participants an email newsletter. 
 
 Tell-A-Friend
 
@@ -38,29 +38,29 @@ We may occasionally send you information on car rental promotions. Out of respec
 
 Log Files
 
-As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole.
+As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. 
 
-We do not link this automatically-collected data to personally identifiable information. We use the third-party tracking software SurfStats Live that uses log files to track non-personally identifiable information about visitors to our site such as: 
+We do not link this automatically-collected data to personally identifiable information. We use the third-party tracking software SurfStats Live that uses log files to track non-personally identifiable information about visitors to our site such as:
 
-  * Traffic
+  * Traffic 
     * Hour of Day Activity, Day of Week Activity, Day of Month Activity, Detail Daily Activity, Detail Weekly Activity, Monthly Activity, Views Per Visit, & Length Of Visit .
-  * Visitors
+  * Visitors 
     * Who is on, Recent Spiders, Top Visitors, Top Spiders, Top Visitor Organizations, Top Spider Organizations, Top Visitors by Bandwidth, Top Spiders by Bandwidth, Authenticated Top Visitors, Top Visitor Countries, Top Spider Countries, Top Visitor Regions, & Top Spider Regions.
-  * Pages
+  * Pages 
     * Most Downloaded Files, Most Requested Pages, Top Static Pages, Top Dynamic Pages,
     * Top Entry Pages / Files, Top Exit Pages / Files, Most requested Images, Most Requested Audio, Files, Most Requested Video Files, Most Requested Unknown Files, Site Bookmarked, Single Access Pages / Files, Most Downloaded File Types, Most Accessed Directories, & URL Parameter Query
-  * Browsers
+  * Browsers 
     * Most Used Browsers, Netscape Browsers, Internet Explorer Browsers, Visiting Spiders, Download Managers, & Most Used Platforms
-  * Capabilities
+  * Capabilities 
     * Frame Support, VBScript Support, JavaScript Support, Java Applet Support, & ActiveX Support.
-  * Referrers
+  * Referrers 
     * Top Referring Site by IP, Top Referring URLs, Top Search Engines, No Hits from Search Engine, Top Search Phrases, Top Search Keywords, & Search Phrases Per Engine.
-  * Errors
+  * Errors 
     * Server Errors, Summary of HTTP Errors, Requests causing Errors, & Detail Daily Errors.
 
 
 
-This information is used to understand the demographic make-up of our web visitors. 
+This information is used to understand the demographic make-up of our web visitors.
 
 Disclosure
 
@@ -69,9 +69,9 @@ Car Rental Express will disclose your personal information only if required to d
 Control of your Personal Information
 
 **Choice and Opt-out**  
-We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you reserve a vehicle but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form. If you do not wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [optout@carrentalexpress.com](mailto:optout@carrentalexpress.com). We also offer an opportunity to opt-out on our member information page (http://www.carrentalexpress.com/memberinfo)
+We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you reserve a vehicle but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form. If you do not wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [optout@carrentalexpress.com](mailto:optout@carrentalexpress.com). We also offer an opportunity to opt-out on our member information page (http://www.carrentalexpress.com/memberinfo) 
 
-You will be notified before personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party. 
+You will be notified before personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
 
 Access to Personally Identifiable Information
 
@@ -101,6 +101,14 @@ Business Transitions
 
 In the event Car Rental Express goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via email and prominent notice on our Web site for 30 days of any such change in ownership or control of your personal information. You will be able to notify us if you do not wish your personally identifiable information to be transferred. You may email us at [info@carrentalexpress.com](mailto:info@carrentalexpress.com), write us at 3337 W 4th Ave, Vancouver, BC, Canada, V6R 1N6. 
 
+The Nature of Express Internet Technologies Inc. Business
+
+Express Internet Technologies Inc. (ExpressITech or EIT) is the parent company of Car Rental Express.com (CRX). ExpressITech provides reservation software services to Car-Rental Agencies (Agencies). This software system is called the Revolution Reservation System, and it powers reservations both on CRX and at private Agency web sites. 
+
+Car Rental Agencies are the direct customers of ExpressITech. Visitors to the Car Rental Express.com web site are direct customers of the Car Rental Agencies represented at the CRX site. ExpressITech functions much like the Yellow Pages does, enabling access to business services by the general public. The ExpressITech Better Business Bureau (BBB) accreditation is dependent on the relationship between ExpressITech and its Car Rental Agency customers. ExpressITech applies fair and reasonable business practices to its Agency customer base. ExpressITech.com support and contact information is directed to these Agencies.
+
+When a renter experiences a difficulty with a particular Agency, either at CRX, or at the Agency web site, then the renter must resolve that issue with the Agency, with whom the renter has a direct business relationship. Agency business policies appear online to assist with that process. In the case where a renter raises a concern to ExpressITech or Car Rental Express.com, regarding a specific Agency or renting experience, then it is ExpressITech's role to forward that concern to the specified Agency. ExpressITech's role is one of facilitating and monitoring communications, not one of intervention or problem resolution.
+
 Changes in this Privacy Statement
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
@@ -109,7 +117,7 @@ Contact Us
 
 If you have any questions or suggestions regarding our privacy policy, please contact us at: email at privacy [help@carrentalexpress.com](mailto:help@carrentalexpress.com). 
 
-Please click to view our [Terms of Use Policy](https://web.archive.org/web/20090318093247id_/http%3A//www.carrentalexpress.com/disclaimer.html) . 
+Please click to view our [Terms of Use Policy](https://web.archive.org/web/20091001150037id_/http%3A//www.carrentalexpress.com/disclaimer.html).
 
 © Car Rental Express.Com, Inc., 1999 - 2009. ALL RIGHTS RESERVED.  
-[Vancouver Law Firms: Piché & Company](http://www.pichelaw.com/)
+[Vancouver Law Firms: PichÃ© & Company](http://www.pichelaw.com/)
