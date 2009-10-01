@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashgallery.org privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430043403id_/http%3A//www.flashgallery.org/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashgallery.org privacy policy that was archived on 2009-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091001033634id_/http%3A//www.flashgallery.org/pp.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,6 +16,9 @@ We never use or share any of those information in ways unrelated to the ones des
 ### Cookies and Tracking Technology
 
 Our site may place a small file, called a cookie, on your hard drive to provide you with a better website. A cookie does not, in any way, give us access to your computer or to any personally identifiable information about you, other than the data you choose to share with us. It only helps us analyze web traffic or lets web applications respond to you as an individual. Our authorized third-party advertisers, in the course of serving ads to you, may also place and read cookies on your browser or use tracking technology to collect information. You can choose not to accept cookies by modifying your browser settings. At any time, you may remove any cookie stored on your hard drive by deleting them in your browser's settings section. 
+
+**DoubleClick DART Cookie**  
+Google, as a third party vendor, uses cookies to serve ads on this site. Google's use of the DART cookie enables it to serve ads to users based on their visit to this site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
 
 ### Links to other Websites
 
