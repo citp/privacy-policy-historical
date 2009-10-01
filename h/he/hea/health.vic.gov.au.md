@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the health.vic.gov.au privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626103949id_/http%3A//www.dhs.vic.gov.au/privstat.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the health.vic.gov.au privacy policy that was archived on 2009-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091001233714id_/http%3A//www.dhs.vic.gov.au/privstat.htm) for the most accurate reproduction.*
 
 # Privacy statement - Department of Human Services, Victoria, Australia
 
