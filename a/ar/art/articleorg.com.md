@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articleorg.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430194538id_/http%3A//www.articleorg.com/_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleorg.com privacy policy that was archived on 2009-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091001181624id_/http%3A//www.articleorg.com/_privacy.html) for the most accurate reproduction.*
 
 # 
 
