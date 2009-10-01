@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the environment.gov.au privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625103054id_/http%3A//www.environment.gov.au/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the environment.gov.au privacy policy that was archived on 2009-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091001213857id_/http%3A//www.environment.gov.au/about/privacy.html) for the most accurate reproduction.*
 
 # Department of the Environment, Water, Heritage and the Arts - Privacy Statement
 
@@ -57,7 +57,7 @@ privacy@environment.gov.au
 
 ## Full privacy notice
 
-For more information about our privacy practices, see our [full privacy notice](https://web.archive.org/web/20090625103054id_/http%3A//www.environment.gov.au/about/privacyfull.html).
+For more information about our privacy practices, see our [full privacy notice](https://web.archive.org/web/20091001213857id_/http%3A//www.environment.gov.au/about/privacyfull.html).
 
 ## Key
 
