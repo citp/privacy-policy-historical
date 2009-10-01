@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the ielts.org privacy policy that was archived on 2009-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090302100230id_/http%3A//www.ielts.org/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ielts.org privacy policy that was archived on 2009-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091001062947id_/http%3A//www.ielts.org/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
-
-  
-
-
-* * *
-
-  
-
 
 ## Privacy Statement
 
@@ -102,7 +94,7 @@ The company can refuse to provide access to personal information where the Priva
 IELTS partner's Privacy Representative is the Company Secretary. Any questions, concerns or complaints about the company's Privacy Policy or its practices related to privacy of personal information should be address to the Representative, as follows:
 
 IELTS Webmaster  
-[Contact IELTS](https://web.archive.org/contact_us.aspx)
+[**Contact IELTS**](https://web.archive.org/contact_us.aspx)
 
 ## Personal Information Management Policy Statement
 
@@ -111,22 +103,14 @@ IELTS Australia Limited (IELTS) is bound by the National Privacy Principles (NPP
 In general, IELTS partners hold the following types of personal information:
 
   * personal details of individuals who have enquired about study opportunities in Australia, or who have applied to undertake a course of study at an Australian educational institution, or an overseas education institution that has entered into a twinning arrangement with an Australian education institution. As IELTS partners operate in over 30 overseas countries, it is unavoidable that some of this personal information is sensitive information (ie the individual's racial or ethnic origin);
-
-
   * personal details of individuals who have applied to undertake, or have undertaken, an assessment service provided by, or through, IELTS. In the case of individuals who have completed such assessment, IELTS will also hold the results achieved by the individual;
-
-
   * personal details of individuals who have formally advised/registered their interest in being engaged as consultants, or individuals who have been, or are currently, engaged as consultants on projects/programs managed by IELTS partners (or IELTS partners in consortium with other organisations);
-
-
   * personal details about individuals who have registered their names with a service offered by the company (eg the Graduate Recruitment Service)
-
-
   * personal details about individuals who have registered to participate in an event organised, managed or presented by IELTS partners, whether in its own right, or under contract for another organisation.
 
 
 
-In general, IELTS partners use this personal information for the following purposes:
+**In general, IELTS partners use this personal information for the following purposes:**
 
   * assisting an individual to avail themselves of the opportunity to undertake studies in an Australian education institution;
   * assisting an individual to further their career after completing their studies at an Australian education institution, or an overseas education institution twinned to an Australian education institution
@@ -148,13 +132,13 @@ IELTS is a contractor to the Commonwealth and State governments, and contracts o
 Complaints about possible breaches of privacy should be marked as "Confidential", and addressed to:
 
 IELTS Webmaster  
-[Contact IELTS](https://web.archive.org/contact_us.aspx)
+[**Contact IELTS**](https://web.archive.org/contact_us.aspx).
 
 Requests for access to personal information should be addressed to the Company Secretary (as set out above).
 
-Where a request is limited to access to an individual's personal information, the company will take all reasonable steps to respond within five (5) working days of the receipt of the request. These steps will include verification of the identity of the individual concerned.
+Where a request is limited to access to an individual's personal information, the company will take all reasonable steps to respond within **five (5) working days** of the receipt of the request. These steps will include verification of the identity of the individual concerned.
 
-Where the request is in respect of correction of inaccuracies to an individual's personal information, the nature of the inaccuracy must be clearly stated, along with the information required to be entered in lieu of the inaccurate information. The company will take all reasonable steps to respond within five (5) working days of the receipt of the request. These steps will include verification of the identity of the individual concerned.
+Where the request is in respect of correction of inaccuracies to an individual's personal information, the nature of the inaccuracy must be clearly stated, along with the information required to be entered in lieu of the inaccurate information. The company will take all reasonable steps to respond within **five (5) working days** of the receipt of the request. These steps will include verification of the identity of the individual concerned.
 
 All requests for access to personal information (for whatever purpose) will be responded to in writing, and will be recorded in a register maintained for this purpose.
 
@@ -162,5 +146,5 @@ Where the individual's identity cannot be verified to the satisfaction of the Co
 
 For more information contact:
 
-IELTS Webmaster  
-[Contact IELTS](https://web.archive.org/contact_us.aspx)
+**IELTS Webmaster**  
+[**Contact IELTS**](https://web.archive.org/contact_us.aspx).
