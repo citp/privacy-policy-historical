@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the finditt.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216014415id_/http%3A//news.finditt.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finditt.com privacy policy that was archived on 2009-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091001035304id_/http%3A//www.yourfindit.com/privacy.aspx) for the most accurate reproduction.*
 
-# News and Press release service news
+# Advertising Marketing News Networking
 
 The privacy policy and statement below cover all websites owned and operated by TransWorldNews, Inc. ("TransWorldNews"). Websites included under "TransWorldNews" include Finditt.com, StockENews.com, StockFiling.com and TWNKeys.com. 
 
 TransWorldNews is committed to protecting your privacy. Below you will find our information practices regarding the collection and use of information that may uniquely identify an individual, business, organization, or other entity. 
-
-****
 
 TransWorldNews collects, distributes, and publishes a wide variety of information; however, we do not sell, barter, exchange, or otherwise share the information we collect to any third party, except as follows: 
 
@@ -14,9 +12,7 @@ TransWorldNews collects, distributes, and publishes a wide variety of informatio
 > 
 > 2\. TransWorldNews operates the TransWorldNews profiles section and the Finditt search directory, which consist of published information submitted by or on behalf of the originating entity. All information contained in the TransWorldNews profiles section and the Finditt search directory is either public knowledge or explicitly approved for dissemination by our registered users. 
 > 
-> 3\. TransWorldNews may be required to provide information to a law enforcement agency, but only as the result of a request relating to a specific legal proceeding. Users that have questions or concerns regarding this statement should contact TransWorldNews Support by calling 404-352-4949 or emailing [support@transworldnews.com](mailto:support@transworldnews.com). 
-
-****
+> 3\. TransWorldNews may be required to provide information to a law enforcement agency, but only as the result of a request relating to a specific legal proceeding. Users that have questions or concerns regarding this statement should contact TransWorldNews Support by calling 404-352-4949 or emailing [ support@yourfindit.com](mailto:support@yourfindit.com). 
 
 The information we collect during your account registration process is used to notify users about updates to our service and to inform users of developments or changes in company policy or procedure. This information is not shared with other organizations for any purpose. 
 
@@ -25,8 +21,6 @@ Should you wish to decline any particular form of communication from TransWorldN
 Persons who supply us with their telephone numbers may receive telephone contact from us with information regarding our products and services or upcoming events. If you do not wish to receive such telephone calls, please notify us by phone or email. 
 
 We may use customer information for new, unanticipated uses not previously disclosed in our privacy policy. Should our privacy policy change in the future we will post the policy changes to our website to notify you and we will provide you with the ability to opt out of these new uses. 
-
-****
 
 We will always use industry-standard encryption technologies when transferring and receiving user data exchanged with our site. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. We do not store credit card information in our systems. 
 
