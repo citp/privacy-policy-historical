@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecosmicmachine.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503031443id_/http%3A//thecosmicmachine.com/about.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecosmicmachine.com privacy policy that was archived on 2009-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091001022242id_/http%3A//thecosmicmachine.com/about.html%23privacy) for the most accurate reproduction.*
 
 # The Cosmic Machine - EventBox
 
@@ -15,10 +15,6 @@ TN13 1XT
 England 
 
 The Cosmic Machine LLP is registered in England and Wales, registration number [OC338622](http://wck2.companieshouse.gov.uk/). You can contact us at [cm-support@thecosmicmachine.com](mailto:cm-support@thecosmicmachine.com) regarding any support queries. Any pre-sales / business questions should be sent to [cm-sales@thecosmicmachine.com](mailto:cm-sales@thecosmicmachine.com). You can expect a response within 24 hours (usually we try to respond as soon as we can). If you need to contact customer support over the phone, you can call +441732740454. 
-
-### Beta Period Price Reduction
-
-Please visit [this page](https://web.archive.org/web/20090503031443id_/http%3A//thecosmicmachine.com/beta.html) for more information.
 
 ### Refund Policy
 
