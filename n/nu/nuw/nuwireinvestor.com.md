@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nuwireinvestor.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618140731id_/http%3A//www.nuwireinvestor.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuwireinvestor.com privacy policy that was archived on 2009-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091001060331id_/http%3A//www.nuwireinvestor.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
