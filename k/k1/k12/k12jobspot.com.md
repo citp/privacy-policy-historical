@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the k12jobspot.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523002928id_/http%3A//k12jobspot.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the k12jobspot.com privacy policy that was archived on 2009-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091001094918id_/http%3A//www.k12jobspot.com/Privacy) for the most accurate reproduction.*
 
 # Privacy - K12JobSpot.com
 
