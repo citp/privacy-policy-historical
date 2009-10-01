@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsahead.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624044546id_/http%3A//www.jobsahead.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsahead.com privacy policy that was archived on 2009-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091001044550id_/http%3A//www.jobsahead.com/privacy.html) for the most accurate reproduction.*
 
 # JobsAhead : Privacy Policy
 
@@ -73,7 +73,7 @@ Third parties are not permitted to use Web beacons on the JobsAhead Site.
 10\. Access to and Modification of Your Information  
 You may review, correct, update or change your My JobsAhead account information at any time.
 
-To change My JobsAhead account information, simply log into your My JobsAhead account, go to your Account Profile, review your account information and, if you wish, edit it with the options provided. [Click here](https://web.archive.org/web/20090624044546id_/http%3A//www.jobsahead.com/my/login.html) to access your My JobsAhead Account Profile page.
+To change My JobsAhead account information, simply log into your My JobsAhead account, go to your Account Profile, review your account information and, if you wish, edit it with the options provided. [Click here](https://web.archive.org/web/20091001044550id_/http%3A//www.jobsahead.com/my/login.html) to access your My JobsAhead Account Profile page.
 
 If you opted to receive newsletters, commercial e-mails or other communications from JobsAhead or third parties at the time you created a My JobsAhead account, but subsequently changed your mind, you may opt-out by editing My JobsAhead Account Profile as described above. If you previously opted not to receive such communications, you may later opt-in by editing My JobsAhead Account Profile as well.
 
