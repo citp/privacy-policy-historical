@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hindustantimes.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429052224id_/http%3A//www.hindustantimes.com/privacypolicy/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hindustantimes.com privacy policy that was archived on 2009-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091001201338id_/http%3A//www.hindustantimes.com/privacypolicy/privacypolicy.aspx) for the most accurate reproduction.*
 
 # PrivacyPolicy
 
