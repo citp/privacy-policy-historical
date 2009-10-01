@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkmarketservices.com.au privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524175605id_/http%3A//www.linkmarketservices.com.au/public/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkmarketservices.com.au privacy policy that was archived on 2009-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091001225307id_/http%3A//www.linkmarketservices.com.au/public/help/privacy.html) for the most accurate reproduction.*
 
 # Link Market Services: Share Registry and Financial Services Provider: Help@Link: Privacy policy
 
@@ -85,15 +85,15 @@ To provide you with access to your personal information, Link would ordinarily p
 
 To access and/or correct such information, you may write or call Link on the following:
 
-**Telephone:**   | Sydney    (02) 8280 7111 | Melbourne     (03) 9615 9999  
+**Telephone:**   | Sydney    (02) 8280 7111 | Melbourne     (03) 9615 9800  
 ---|---|---  
 **Facsimile:  ** | Sydney    (02) 9287 0303  | Melbourne    (03) 8614 2903  
-**In writing:** | Level 12, 680 George Street, SYDNEY NSW 2000 | Level 4, 333 Collins Street, MELBOURNE VIC 3000  
+**In writing:** | Level 12, 680 George Street, SYDNEY NSW 2000 | Level 1, 333 Collins Street, MELBOURNE VIC 3000  
   
 If you wish to correct current information about you which is inaccurate, incomplete or out-of-date then, for security purposes, you will need to prove your identity by confirming/providing the following information to us:
 
-  * Quote your Holder Identifier Number/Security Reference Number that appears on the latest documentation sent to you in relation to your security holding; OR 
-  * Quote/proof of your registered name (Note: supporting documentation eg. birth certificate, marriage certificate may also be required), AND quote/proof of your registered address, that match the details appearing on the register. 
+  * Quote your Holder Identifier Number/Security Reference Number that appears on the latest documentation sent to you in relation to your security holding; OR
+  * Quote/proof of your registered name (Note: supporting documentation eg. birth certificate, marriage certificate may also be required), AND quote/proof of your registered address, that match the details appearing on the register.
 
 
 
