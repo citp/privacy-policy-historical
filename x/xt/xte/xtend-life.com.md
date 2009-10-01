@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtend-life.com privacy policy that was archived on 2009-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090423132712id_/http%3A//xtend-life.com/aboutus/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtend-life.com privacy policy that was archived on 2009-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091001043310id_/http%3A//www.xtend-life.com/aboutus/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -16,7 +16,10 @@ Our Site uses cookies to keep track of your shopping cart and to identify the si
 **When you register for our newsletter we require only your first name and email address. These details are NEVER released to any third party. If your email 'bounces' or is 'full' we automatically delete your subscription. Deleted subscriptions are totally erased from our database.Subscribers can opt out of their subscription at any time and their requests are always honored promptly.
 
 **Order Forms**  
-Our site uses secure encrypted forms for customers to place their product orders. Through these secure forms we collect contact information, shipping details and credit card info.SecurityThis site has security measures in place to protect the loss, misuse, and alteration of the information under our control.
+Our site uses secure encrypted forms for customers to place their product orders. Through these secure forms we collect contact information, shipping details and credit card info.
+
+**Security**  
+This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.
 
 **Questions**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with us please either telephone us toll free on 1 800 224 4808 if in the US or Canada or, (64) 3 384 2116 if in another country. Or alternatively 
