@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ahm.com.au privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620072642id_/http%3A//www.ahm.com.au/content/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahm.com.au privacy policy that was archived on 2009-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091002002942id_/http%3A//www.ahm.com.au/content/privacy.asp) for the most accurate reproduction.*
 
 # Health Insurance Australia - privacy policy
 
