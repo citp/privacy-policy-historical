@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the articlecastle.com privacy policy that was archived on 2009-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090217041042id_/http%3A//www.articlecastle.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlecastle.com privacy policy that was archived on 2009-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091001040334id_/http%3A//www.articlecastle.com/privacy.php) for the most accurate reproduction.*
 
-# Article Castle - Article Resources
+# Free Article Content Resources - Article Castle
 
 Article Castle Privacy Policy
 
