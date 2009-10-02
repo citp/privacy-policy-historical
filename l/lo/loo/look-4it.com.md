@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the look-4it.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619131431id_/http%3A//www.look-4it.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the look-4it.com privacy policy that was archived on 2009-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091003000159id_/http%3A//www.look-4it.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - LOOK-4IT.COM Meta Search Engine
 
