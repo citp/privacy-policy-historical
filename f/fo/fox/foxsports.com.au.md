@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxsports.com.au privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011172238id_/http%3A//www.foxsports.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxsports.com.au privacy policy that was archived on 2009-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091002225016id_/http%3A//www.foxsports.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
