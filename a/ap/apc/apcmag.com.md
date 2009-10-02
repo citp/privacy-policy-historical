@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apcmag.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603171103id_/http%3A//apcmag.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apcmag.com privacy policy that was archived on 2009-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091003003554id_/http%3A//apcmag.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
