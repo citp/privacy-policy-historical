@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justnaturalskincare.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418140827id_/http%3A//www.justnaturalskincare.com/customer/privacy_security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justnaturalskincare.com privacy policy that was archived on 2009-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091002114210id_/http%3A//www.justnaturalskincare.com/customer/privacy_security.html) for the most accurate reproduction.*
 
 # Privacy and Security at JustNaturalSkinCare website
 
@@ -42,7 +42,7 @@ Layer (SSL), and maintained in a secure database that is not connected to the In
 security and fulfillment processes have been reviewed and approved by VeriSign, an independent   
 security accrediting group.
 
-| | **  ** **P** **RIVACY & POLICY**  
+| | **  ** **P** **r** **ivacy** ** & ****Security**  
 ---|---|---  
 | |   
   
@@ -77,15 +77,15 @@ We hope to bring the best services, and that you'll return often to visit and sh
 **JustNaturalSkinCare** does not sell, rent or share any personal information about our customers to   
 any third party. We realize that our customers trust us to protect their personal information. We take   
 that task seriously. Your Credit Card information is protected with SSL encryption through our Secure   
-Sever payment system ** _At no time will we ever release your credit card or personal information to anyone!  
+server payment system ** _At no time will we ever release your credit card or personal information to anyone!  
 _**
 
 **Questions?  
 **
 
-If you have a questions we are here to help. Leave us a detailed e-mail message by clicking   
+If you have questions we are here to help. Leave us a detailed e-mail message by clicking   
 here [**COMMENTS / QUESTIONS  
-**](https://web.archive.org/web/20090418140827id_/http%3A//www.justnaturalskincare.com/questions-ask-our-experts.html) We'll respond as  soon as possible to help you with your concerns.  
+**](https://web.archive.org/web/20091002114210id_/http%3A//www.justnaturalskincare.com/questions-ask-our-experts.html) We'll respond as  soon as possible to help you with your concerns.  
 
 
 **_Thank you for coming to visit._** _   
@@ -99,7 +99,7 @@ Copyright © 1999-2008 JustNatural® LLC
 All Rights Reserved  
 
 
-[](https://web.archive.org/web/20090418140827id_/http%3A//www.justnaturalskincare.com/index.html)
+[](https://web.archive.org/web/20091002114210id_/http%3A//www.justnaturalskincare.com/index.html)
 
 _____________________________________________________________________________________  
 
@@ -112,7 +112,7 @@ ________________________________________________________________________________
 
 [](http://order.store.yahoo.net/cgi-bin/wg-order?yhst-39215427130365)
 
-[](https://web.archive.org/web/20090418140827id_/http%3A//www.justnaturalskincare.com/index.html)
+[](https://web.archive.org/web/20091002114210id_/http%3A//www.justnaturalskincare.com/index.html)
 
 All UPS Ground Shipping  $5.99  
 
