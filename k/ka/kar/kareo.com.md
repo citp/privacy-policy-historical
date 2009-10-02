@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the kareo.com privacy policy that was archived on 2009-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090218193815id_/http%3A//www.kareo.com/terms/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kareo.com privacy policy that was archived on 2009-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091002220141id_/http%3A//www.kareo.com/terms/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Medical Billing Practice Management Software | Kareo.com
+# Privacy Policy - Medical Billing Software - Kareo.com
 
-### How we protect your personal information
+## Protecting your privacy on our web-based medical billing software
 
-##  What this privacy policy covers 
+###  What this privacy policy covers 
 
-This privacy policy pertains to the use of the Kareo web site at <http://www.kareo.com/> and the Kareo service. This privacy policy covers how Kareo treats personal information that Kareo collects and receives. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number. Children under 13 are not permitted to use the Kareo service, and so this privacy policy makes no provision for children's use of the site. 
+This privacy policy pertains to the use of the Kareo web site at <http://www.kareo.com/> and Kareo's web-based medical billing software service. This privacy policy covers how Kareo treats personal information that Kareo collects and receives. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number. Children under 13 are not permitted to use the Kareo service, and so this privacy policy makes no provision for children's use of the site. 
 
-##  Information collection and how it is used 
+###  Information collection and how it is used 
 
 **General Information**
 
@@ -36,15 +36,15 @@ To estimate the total number of users visiting Kareo from specific geographical 
 
 A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive. Kareo uses a "session" cookie that will get removed automatically when you close your web browser. 
 
-##  Protected Health Information 
+###  Protected Health Information 
 
 When using the web site, you will never provide Kareo with Protected Health Information (PHI), nor will Kareo show any PHI. 
 
-When you or other users at your company, or your company's customers, use the Kareo service, you may in the course of normal business operation provide Kareo with PHI. Kareo will only disclose the PHI to you, your customers, and your agents, as authorized by you in the service's operation and configuration. 
+When you or other users at your company, or your company's customers, use the Kareo web-based medical billing software service, you may in the course of normal business operation provide Kareo with PHI. Kareo will only disclose the PHI to you, your customers, and your agents, as authorized by you in the service's operation and configuration. 
 
 Kareo limits the ability to access your or your company's customers' PHI only to employees that are responsible for the development, provisioning or maintenance of the services, or in provisioning support. 
 
-##  Information sharing and disclosure 
+###  Information sharing and disclosure 
 
 Kareo may be required to disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the Kareo Terms of Service. 
 
@@ -56,20 +56,20 @@ It may be necessary to share information in order to investigate, prevent, or ta
 
 We will transfer information about you if Kareo is acquired by or merged with another company. In this event, Kareo will notify you by email or by putting a prominent notice on the Kareo web site before information about you is transferred and becomes subject to a different privacy policy. 
 
-##  Changes to this privacy policy 
+###  Changes to this privacy policy 
 
-Kareo may update this policy at any time for any reason. If there are any significant changes to how we handle personal information we will send a notice to the contact email address specified in your company's Kareo account or by placing a prominent notice on our site. 
+Kareo may update this policy at any time for any reason. If there are any significant changes to how we handle personal information we will send a notice to the contact email address specified in your company's Kareo web-based medical billing software account or by placing a prominent notice on our site. 
 
-##  Questions 
+###  Questions 
 
 If you have questions or suggestions you can contact us at: 
 
 Kareo Support - Privacy Policy  
-2102 Business Center Drive, Suite 220-F  
-Irvine, CA 92612  
+131 Innovation Drive, Suite 150  
+Irvine, CA 92617  
 [privacy@kareo.com](mailto:privacy@kareo.com)  
 
 
-##  Last Updated 
+###  Last Updated 
 
-This policy was last updated on April 11, 2005. 
+This policy was last updated on July 22, 2009. 
