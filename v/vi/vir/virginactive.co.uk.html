@@ -1,0 +1,724 @@
+<!--The following is the downloaded HTML source of the virginactive.co.uk privacy policy that was archived on 2009-10-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091002214206id_/http%3A//www.virginactive.co.uk/Content/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"><head id="ctl00_main"><title>
+	Virgin Active Health Clubs
+</title><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"><link rel="stylesheet" type="text/css" href="/VA/css/menu.css">
+<script type="text/javascript" src="/VA/script/menu.js"></script>
+<link href="../../css/websiteContent.css" rel="stylesheet" type="text/css"><link href="../../css/infobox.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/script/swfobject.js"></script>
+<script language="javascript">
+
+   function onLoad() {
+   
+   document.getElementById('img_Next').style.display = 'none';
+   
+   }
+   
+   function viewTimetable()
+{
+    if (!validateClub())
+       return;
+    var form=document.forms[0];
+    var params = "titlebar=0, statusbar=0, scrollbars=1";
+    var clubNo = form.ctl00$list_Clubs.value   
+    var clubName = form.ctl00$list_Clubs[form.ctl00$list_Clubs.selectedIndex].text
+    var clubcode =  form.ctl00$list_ClubSource[form.ctl00$list_Clubs.selectedIndex].text
+    
+    // THIS IS FOR HP CLUBS TO USE THEIR EXISTING TIMETABLES:
+   if(form.ctl00$list_ClubSource.value == "HP" && clubcode != "")
+   {
+          var URL = "http://www.virginactive2.co.uk/club/timetable.aspx?ClubCode=" + clubcode
+   }else{
+            var URL = "http://www.virginactive.co.uk/public/Timetable.aspx?clubid=" + clubcode + "&clubname=" + clubName;
+   }
+   var ttWin = window.open(URL,"ttWin",params)
+   ttWin.focus() 
+}
+
+function viewMyClub()
+{
+    var form=document.forms[0];
+    document.location = "/ClubInfo/default.aspx?ClubID=" + form.ctl00$list_Clubs.value 
+}
+
+function viewClubSpecials()
+{
+    var form=document.forms[0];
+    document.location = "/ClubInfo/default.aspx?ClubID=" + form.ctl00$ContentPlaceHolder1$list_ClubSpecials.value 
+}
+
+function loadClubSource()
+{
+   var form = document.forms[0];
+   
+   if(form.ctl00$list_Clubs && form.ctl00$list_ClubSource)
+   {
+        form.ctl00$list_ClubSource.selectedIndex = form.ctl00$list_Clubs.selectedIndex
+   } 
+}
+
+function checkMMEnter() 
+{ 
+    if (window.event.keyCode == 13) 
+    { 
+        document.getElementById('ctl00_btnMMSubmit').click(); 
+        return false;
+      }    
+} 
+
+function validateClub()
+{
+     if (document.forms[0].ctl00$list_Clubs[document.forms[0].ctl00$list_Clubs.selectedIndex].text == "--Select Club--")
+     {
+        alert ("Please select a valid club");
+        return false;
+     }
+     else
+     {
+        //alert (document.forms[0].ctl00$list_Clubs[document.forms[0].ctl00$list_Clubs.selectedIndex].text + " is not a valid club");
+        return true;
+      }
+}
+
+</script>
+
+
+</head>
+<body>
+<form name="aspnetForm" method="post" action="PrivacyPolicy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
+
+    <table style="FONT-SIZE: 8pt; FONT-FAMILY: Verdana" cellspacing="0" cellpadding="0" width="775" align="center" background="/VA/images/VA_Top.gif" border="0"><tbody><tr><td width="21" height="26"></td><td align="right" colspan="2" height="26"><map name="FPMap_Countries">
+<table border="0" cellpadding="0" cellspacing="0" width="452">
+    <tbody><tr>
+        <td valign="top" width="267">
+            <img alt="Virgin Active Health Clubs - Countries" border="0" src="/images/Country.gif" usemap="#FPMap_Countries" height="20" width="230">
+            <img id="ctl00_MasterSearch1_Image1" src="../../images/Top_Divider.gif" border="0"></td>
+        <td valign="middle" width="95" align="center">
+            <span style="color: #ffffff"> </span>
+            <img id="ctl00_MasterSearch1_Image2" src="../../images/Top_Search.gif" border="0">
+        </td>
+        <td align="left" valign="top" width="80">
+        <input name="ctl00$MasterSearch1$txtSearchCriteria" type="text" id="ctl00_MasterSearch1_txtSearchCriteria" class="searchtextbox"></td>
+        <td valign="top" width="50">
+            <input type="image" name="ctl00$MasterSearch1$ibtnSearch" id="ctl00_MasterSearch1_ibtnSearch" src="../../images/Buttons/btnSearch.gif" border="0"></td>
+    </tr>
+</tbody></table>      
+<area href="http://www.virginactive.com.au" shape="circle" coords="119, 9, 9" alt="Visit Virgin Active Health Clubs - Australia">
+<area shape="CIRCLE" alt="Visit Virgin Active Health Clubs - Italy" coords="138,9,9" href="http://www.virginactive.it"><area shape="CIRCLE" alt="Visit Virgin Active Health Clubs - Portugal" coords="157,9,9" href="http://www.virginactive.pt"><area shape="CIRCLE" alt="Visit Virgin Active Health Clubs - South Africa" coords="178,8,8" href="http://www.virginactive.co.za"><area shape="CIRCLE" alt="Visit Virgin Active Health Clubs - Spain" coords="195,9,9" href="http://www.virginactive.es"></map></td><td width="21" height="26"></td></tr><tr><td width="21" height="49"></td><td align="right" colspan="2" height="49"><a id="ctl00_HyperLink3" href="../../Content.aspx"><img src="http://www.virginactive.co.uk/images/VA_TopText.gif" alt="Virgin Active Health Clubs" border="0"></a><br><img id="ctl00_Image13" src="../../images/CustomerSupport.gif" border="0"></td><td width="21" height="49"></td></tr><tr><td width="21" height="30"></td><td valign="top" align="right" colspan="2" height="30">
+
+
+
+<ul id="qm0" class="qmmc">
+    <li><a href="/Content.aspx">Home</a></li>
+    <li><span class="qmdivider qmdividery"></span></li>
+    <li><a class="qmparent" href="javascript:void(0)">My Club</a>
+        <ul>
+            <li><a href="/ClubInfo/ClubFinder.aspx">Find a club</a></li>
+            <li><a href="/Content/Club/Classic.aspx">Classic clubs</a></li>
+            <li><a href="/Content/Club/ClubTour.aspx">What's inside</a></li>
+            <li><a href="/Timetables/Timetables.aspx">View timetables</a></li>
+            <li><a href="/TalkToUs/NewFeedback.aspx">Talk to us</a></li>
+            <li><a href="/TalkToUs/PublishedFeedback.aspx">Member Feedback</a></li>
+            <li><a href="javascript:top.location.href='/Public/LoginPage.aspx'">Book a class</a></li>
+            
+            <li><a href="/ClubAccess/AccessWizard.aspx">Club access guide</a></li>
+            <li><a href="/Content/Club/ClubRules.aspx">Club rules</a></li>
+            <li><a href="/Content/QandA/QA.aspx">Q &amp; A</a></li>
+        </ul>
+    </li>
+    
+    <li><span class="qmdivider qmdividery"></span></li>
+    <li><a class="qmparent" href="javascript:void(0)">Wanna Join</a>
+        <ul>
+            <li><a href="/Content/WhyJoin.aspx">Activate your life</a></li>
+            <li><a href="/Content/Membership/Membership.aspx">Memberships</a></li>
+            <li><a href="/JoinUp/JoinUp.aspx">Book a club visit</a></li>
+            <li><a href="/CorporateMembership/default.aspx">Corporate memberships</a></li>
+            <li><a href="/ClubAccess/AccessWizard.aspx">Club access guide</a></li>
+        </ul>
+    </li>
+    
+    <li><span class="qmdivider qmdividery"></span></li>
+    <li><a class="qmparent" href="javascript:void(0)">Know How</a>
+        <ul style="width:150px;">
+            <li><a href="/Content/Knowhow/Stretches/StretchIndex.aspx">Have a stretch</a></li>
+            <li><a href="/Content/Workouts/Beginner.aspx">Get a basic workout</a></li>
+            <li><a href="/Content/Workouts/Intermediate.aspx">Get an intermediate workout</a></li>
+            <li><a href="/Content/Workouts/Advanced.aspx">Get an advanced workout</a></li>
+            <li><a href="/Content/Exercise/index.aspx">Exercise</a></li>
+            <li><a href="/Content/Wellness/index.aspx">Wellness</a></li>
+        </ul>
+    </li>
+
+    <li><span class="qmdivider qmdividery"></span></li>
+    <li><a href="/Content/Kids/AboutKids.aspx">Kids Stuff</a></li>
+    
+    <li><span class="qmdivider qmdividery"></span></li>
+    <li><a href="/Content/Club/ClubTour.aspx">Facilities</a></li>
+    
+    <li><span class="qmdivider qmdividery"></span></li>
+    <li><a class="qmparent" href="javascript:void(0);">Health Check</a>
+        <ul>
+            <li><a href="/Tools/Healthcheck.aspx">Check my wellness</a></li>
+            <li><a href="/Tools/BMIOnly.aspx">Calculate my BMI</a></li>
+            <li><a href="/Tools/WHROnly.aspx">What is my waist-hip ratio?</a></li>
+            <li><a href="/Tools/Calories.aspx">How many calories do I need?</a></li>
+            <li><a href="/Tools/BMICharts.aspx">Ideal weight charts</a></li>
+        </ul>
+    </li>
+
+    <li><span class="qmdivider qmdividery"></span></li>
+    <li><a class="qmparent" href="javascript:void(0);">Careers</a>
+        <ul>
+            <li><a href="/Content/Careers/Careers.aspx">Virgin Active careers</a></li>
+            <li><a href="/Content/Careers/CurrentVacancies.aspx">Search current vacancies</a></li>
+            <li><a href="/Content/Careers/FAQcareers.aspx">Frequently asked questions</a></li>
+            <li><a href="/Content/Careers/Testimonials.aspx">What our staff say</a></li>
+            <li><a href="/Content/Careers/GivingBack.aspx">Giving back to the community</a></li>
+            <li><a href="/Content/Careers/WhatYouGet.aspx">What can you get from us</a></li>
+            <li><a href="/Content/Careers/OurCareerValues.aspx">Our values</a></li>
+        </ul>
+    </li>
+
+    <li><span class="qmdivider qmdividery"></span></li>
+    <li><a class="qmparent" href="javascript:void(0);">About Us</a>
+        <ul>
+            <li><a href="/Content/Club/WhatWeDo.aspx">About Virgin Active</a></li>
+            <li><a href="/Content/OurValues.aspx">Our values</a></li>
+            <li><a href="/Content/Partners/OurPartners.aspx">Our partners</a></li>
+            <li><a href="/Content/Partners/Honeypot.aspx">Our charity work</a></li>
+            <!-- li><a href="/TalkToUs/PublishedFeedback.aspx">Our transparency</a></li -->
+        </ul>
+    </li>
+
+    <li><span class="qmdivider qmdividery"></span></li>
+    <li><a href="/Content/PressRoom/PressRoom.aspx">Press Room</a></li>
+</ul>
+
+
+
+
+<!-- Create Menu Settings: (Menu ID, Is Vertical, Show Timer, Hide Timer, On Click ('all' or 'lev2'), Right to Left, Horizontal Subs, Flush Left, Flush Top) -->
+<script type="text/javascript">qm_create(0,false,0,250,false,false,false,false,false);</script>
+</td><td width="21" height="30"></td></tr></tbody></table>
+    <table border="0" cellpadding="0" cellspacing="0" align="center" width="773">
+        <tbody><tr>
+            <td colspan="2" rowspan="2">
+                <img id="ctl00_Image3" src="../../images/MasterTable/Left_Circle_Top.gif" border="0"></td>
+            <td background="/VA/images/MasterTable/Top_Shadow.gif" height="6" width="525">
+            </td>
+            <td height="6" width="206" background="/VA/images/MasterTable/Top_Shadow.gif">
+            </td>
+            <td colspan="2" rowspan="2">
+                <img id="ctl00_Image5" src="../../images/MasterTable/Right_Circle_Top.gif" border="0"></td>
+        </tr>
+        <tr>
+            <td background="/VA/images/MasterTable/Top_Table_Inner.gif" height="15" width="525">
+            </td>
+            <td height="15" width="206" background="/VA/images/MasterTable/Top_Table_Inner.gif">
+            </td>
+        </tr>
+        <tr>
+            <td background="/VA/images/MasterTable/Left_Shadow.gif" style="width: 6px">
+            </td>
+            <td background="/VA/images/MasterTable/Left_Table_Inner.gif" rowspan="1" valign="top" width="15">
+                <img id="ctl00_Image8" src="../../images/MasterTable/Left_TableTop_Inner.gif" border="0"></td>
+            <td bgcolor="#ffffff" rowspan="1" valign="top" width="525">
+        
+    <table id="table3" cellpadding="0" cellspacing="0" class="contentTable">
+        <tbody><tr>
+            <td colspan="2" class="contentHeader">
+                <img border="0" src="../Images/strapaboutus.gif" width="111" height="21"></td>
+        </tr>
+        <tr>
+            <td colspan="2" valign="top">
+                <h1>PRIVACY POLICY</h1></td>
+        </tr><tr>
+            <td colspan="2" valign="top">
+<ol>
+                    <li>Your information is safe with us. Rest assured, we collect and process your personal
+                        information in accordance with the Data Protection Act 1998, the Privacy and Electronic
+                        Communications (EC Directive) Regulations 2003 and all other applicable data protection
+                        legislation, as amended from time to time.<br>
+                    </li>
+                    <li>When you use our site or contact us by post, telephone, fax, email or SMS, we collect,
+                        store and use certain personal information that you disclose to us. This includes
+                        details such as your name, address, telephone, fax, email and mobile phone number.
+                        We may also collect details of your computer’s internet protocol address and other
+                        details about your computer, which is automatically collected by our web server.<br>
+                    </li>
+                    <li>Other than as set out in the rest of this paragraph we will not share your personal
+                        information with third parties for marketing or any other purposes without your
+                        consent, unless we are required to do so by law. We operate an automatic opt-in
+                        policy which means that when you request information from us on one of our clubs
+                        or make an enquiry, we add you to our database and:<br>
+                    </li>
+                    <li>
+                If, at any time, you would like us to stop contacting you, simply email us at:  
+                <a id="ctl00_ContentPlaceHolder1_HyperLink2" href="mailto:info@virginactive.co.uk">info@virginactive.co.uk</a>.<br>
+                        <br>
+                <ol type="a"><li>may contact you with relevant promotions, offers or information that we feel may
+                        be of interest to you, from time to time; and </li>
+               <li>
+               may pass your
+                    details to third parties offering services linked to your information request or
+                    enquiry who may contact you with relevant promotions, offers or information.</li></ol>
+                    </li>
+
+                <br>
+
+                    <li>Did you know that countries outside the European Union may have a lower standard
+                        of protection for personal information? If we send your data to a company outside
+                        the EU, we’ll do our best to ensure that they process your personal information
+                        in accordance with principles consistent with the Data Protection Act 1998 and the
+                        Privacy and Electronic Communications (EC Directive) Regulations 2003, as amended
+                        from time to time.<br>
+                    </li>
+                    <li>We have technical and organisational security measures in place to prevent the loss
+                        of or unauthorised access to your personal information. While we do our best to
+                        ensure the security of your data, we cannot guarantee the security of information
+                        transmitted over the Internet.</li></ol>
+                <h2>Last update: February 2007</h2>
+               
+                <p align="center">
+                    <a id="ctl00_ContentPlaceHolder1_link_Back" href="javascript:history.back()"><img src="../Images/Buttons/Back.gif" alt="Back to previous page" border="0"></a></p> 
+            </td>
+        </tr>
+    </tbody></table>
+
+                </td>
+            <td width="206" bgcolor="#ffffff" valign="top" height="432">
+                <table border="0" cellpadding="0" cellspacing="0" width="208">
+                    <tbody><tr>
+                        <td bgcolor="#c3c5c3" width="206" height="34">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td height="15" width="206">
+                        </td>
+                    </tr>
+                </tbody></table>
+                <div id="ctl00_panel_Main">
+	
+                    <div id="ctl00_Panel_JoinUp">
+		
+                        <table cellspacing="0" border="0" id="ctl00_FormViewJoinUp">
+			<tbody><tr>
+				<td colspan="2"><font color="White">
+                                <div style="text-align: left;">
+                                    <table background="/VA/images/MasterTable/Panel_Join.gif" border="0" cellpadding="0" cellspacing="0" height="156" width="206">
+                                        <tbody><tr>
+                                            <td height="23" width="15">
+                                            </td>
+                                            <td height="23" style="text-align: left" valign="top">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td width="15">
+                                            </td>
+                                            <td style="text-align: left" valign="top">
+                                            
+                                                <table border="0" class="JoinUpBox">
+                                                    <tbody><tr>
+                                                        <td align="right" class="JoinUpCell" nowrap="nowrap" style="text-align: left">
+                                                            &nbsp;Name:
+                                                        </td>
+                                                        <td align="right" class="JoinUpCell" nowrap="nowrap" style="text-align: right">
+                                                            <input name="ctl00$FormViewJoinUp$FirstnameTextBox" type="text" id="ctl00_FormViewJoinUp_FirstnameTextBox" class="textbox"></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="right" class="JoinUpCell" nowrap="nowrap" style="text-align: left">
+                                                            &nbsp;Club:
+                                                        </td>
+                                                        <td align="right" class="JoinUpCell" nowrap="nowrap" style="text-align: right">
+                                                            <select name="ctl00$FormViewJoinUp$list_Clubs" id="ctl00_FormViewJoinUp_list_Clubs" class="dropdown">
+					<option value="--select club--">--select club--</option>
+					<option value="1">Bank</option>
+					<option value="2">Barbican</option>
+					<option value="4">Birmingham Life</option>
+					<option value="3">Birmingham Star City</option>
+					<option value="5">Bolton</option>
+					<option value="6">Borehamwood</option>
+					<option value="7">Broadgate</option>
+					<option value="8">Bromley</option>
+					<option value="9">Canary Riverside</option>
+					<option value="10">Chelmsford</option>
+					<option value="11">Chelsea</option>
+					<option value="12">Chigwell</option>
+					<option value="13">Clapham</option>
+					<option value="14">Clements Hall</option>
+					<option value="15">Crawley</option>
+					<option value="16">Cricklewood</option>
+					<option value="17">Crouch End</option>
+					<option value="18">Croydon</option>
+					<option value="19">Derby</option>
+					<option value="20">Ealing</option>
+					<option value="21">East Dorset</option>
+					<option value="23">Edinburgh - Life</option>
+					<option value="22">Edinburgh - Omni</option>
+					<option value="24">Epsom</option>
+					<option value="25">Farnborough</option>
+					<option value="26">Fulham</option>
+					<option value="27">Glasgow</option>
+					<option value="28">Gloucester</option>
+					<option value="29">Hammersmith</option>
+					<option value="30">Hendon</option>
+					<option value="31">Holloway</option>
+					<option value="32">Islington</option>
+					<option value="33">Kensington</option>
+					<option value="34">Kingston</option>
+					<option value="35">Leeds City Centre</option>
+					<option value="36">Leeds Life Centre</option>
+					<option value="38">Manchester - Didsbury</option>
+					<option value="39">Manchester - Printworks</option>
+					<option value="37">Manchester Deansgate</option>
+					<option value="40">Marylebone</option>
+					<option value="41">Mayfair</option>
+					<option value="42">Medway</option>
+					<option value="43">Merton Abbey</option>
+					<option value="44">Mill Hill East</option>
+					<option value="45">Milton Keynes</option>
+					<option value="46">Moorgate</option>
+					<option value="47">Northampton</option>
+					<option value="48">Notting Hill</option>
+					<option value="49">Nottingham</option>
+					<option value="50">Oxford Street</option>
+					<option value="51">Preston</option>
+					<option value="52">Putney</option>
+					<option value="53">Rayleigh Leisure Centre</option>
+					<option value="54">Regents Park</option>
+					<option value="55">Rugby</option>
+					<option value="56">Sheffield</option>
+					<option value="57">Slough</option>
+					<option value="58">Solihull</option>
+					<option value="59">South Wimbledon</option>
+					<option value="60">Staines</option>
+					<option value="61">Stockley Park</option>
+					<option value="62">Strand</option>
+					<option value="63">Streatham</option>
+					<option value="64">Sunbury</option>
+					<option value="65">Thundersley</option>
+					<option value="66">Tower Bridge</option>
+					<option value="77">Twickenham</option>
+					<option value="67">Uxbridge</option>
+					<option value="68">Wandsworth</option>
+					<option value="69">West London (W3)</option>
+					<option value="70">Wokingham</option>
+					<option value="71">Wood Green</option>
+
+				</select></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="right" class="JoinUpCell" nowrap="nowrap" style="text-align: left">
+                                                            &nbsp;Tel:
+                                                        </td>
+                                                        <td align="right" class="JoinUpCell" nowrap="nowrap" style="text-align: right">
+                                                            <input name="ctl00$FormViewJoinUp$txt_ContactNo" type="text" id="ctl00_FormViewJoinUp_txt_ContactNo" class="textbox"></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="right" class="JoinUpCell" nowrap="nowrap" style="text-align: left">
+                                                            &nbsp;Email</td>
+                                                        <td align="right" class="JoinUpCell" nowrap="nowrap" style="text-align: right">
+                                                            <input name="ctl00$FormViewJoinUp$EmailTextBox" type="text" id="ctl00_FormViewJoinUp_EmailTextBox" class="textbox"></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="right" class="JoinUpCell" nowrap="nowrap" style="text-align: left" colspan="2">
+                                                            <select name="ctl00$FormViewJoinUp$list_Source" id="ctl00_FormViewJoinUp_list_Source" class="dropdown">
+					<option value="How did you find us?">How did you find us?</option>
+					<option value="Press">Press</option>
+					<option value="Email">Email</option>
+					<option value="Search engine">Search engine</option>
+					<option value="Venue/eatery">Venue/eatery</option>
+					<option value="Magazine">Magazine</option>
+					<option value="I'm rejoining">I'm rejoining</option>
+					<option value="Something through your door">Something through your door</option>
+					<option value="Billboard">Billboard</option>
+					<option value="Another website">Another website</option>
+					<option value="Event">Event</option>
+					<option value="SMS text message">SMS text message</option>
+					<option value="Referred by an existing member">Referred by existing member</option>
+					<option value="Corporate membership">Corporate membership</option>
+					<option value="Another Virgin company ">Another Virgin company </option>
+					<option value="Pru Health">Pru Health</option>
+					<option value="Club signage">Club signage</option>
+					<option value="Another company">Another company</option>
+
+				</select></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td align="right" class="JoinUpCell" nowrap="nowrap" style="text-align: right">
+                                                        </td>
+                                                        <td align="right" class="JoinUpCell" nowrap="nowrap" style="text-align: right">
+                                                            <input type="image" name="ctl00$FormViewJoinUp$img_Insert" id="ctl00_FormViewJoinUp_img_Insert" src="../../TalkToUs/images/btn_Send.gif" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$FormViewJoinUp$img_Insert&quot;, &quot;&quot;, true, &quot;FormViewJoinUp&quot;, &quot;&quot;, false, false))" border="0">&nbsp;&nbsp;&nbsp;
+                                                            &nbsp;</td>
+                                                    </tr>
+                                                </tbody></table>
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+                                    </div>
+                                
+                            </font></td>
+			</tr>
+		</tbody></table>
+                    
+	</div>
+                    
+                    <img id="ctl00_Image1" src="../../images/Hide.gif" height="12" border="0"><br>
+                    <table background="/VA/images/MasterTable/Panel_Quicklinks_Home2.gif" border="0" cellpadding="0" cellspacing="0" height="495" width="206">
+                        <tbody><tr>
+                            <td height="28" width="22">
+                            </td>
+                            <td height="28" valign="bottom" width="184">
+                                <img id="ctl00_Image2" src="../../images/SidePanel_Heading_Wellness.gif" alt="Virgin Active - Wellness Articles" border="0"></td>
+                        </tr>
+                        <tr>
+                            <td style="height: 490px" width="22">
+                            </td>
+                            <td height="408" style="text-align: left" valign="top" width="184">
+                                <a id="ctl00_HyperLink1" href="../Wellness/index.aspx"><img src="../../images/SidePanel_Wellness.gif" alt="Virgin Active - Wellness Articles" border="0"></a><br>
+                                <img id="ctl00_Image4" src="../../images/SidePanel_Heading_Exercise.gif" alt="Virgin Active - Exercise Articles" border="0"><br>
+                                <a id="ctl00_HyperLink2" href="../Exercise/Index.aspx"><img src="../../images/SidePanel_Exercise.jpg" alt="Virgin Active - Exercise Articles" border="0"></a><br>
+                                <img id="ctl00_Image11" src="../../images/SidePanel_Heading_FindClub.gif" alt="Virgin Active - Exercise Articles" border="0">
+                                <br>
+                                <div style="border:0px solid #ff00cc;">
+                                <input name="ctl00$txtMMPostcode1" type="text" value="post" id="ctl00_txtMMPostcode1" class="textbox" onclick="javascript:this.value=''" onkeypress="checkMMEnter()">
+                                <input name="ctl00$txtMMPostcode2" type="text" value="code" id="ctl00_txtMMPostcode2" class="textbox" onclick="javascript:this.value=''" onkeypress="checkMMEnter()">
+                                <input type="image" name="ctl00$btn_MMSubmit" id="ctl00_btn_MMSubmit" src="../../images/Buttons/btn_Find.gif" alt="Find a club near you." align="absmiddle" border="0" style="padding-left:25px">
+                                </div>
+                                <br>
+                                <a href="/VA/ClubInfo/ClubFinder.aspx">
+                                <img id="ctl00_Image10" src="../../images/MasterTable/Panel_Map.gif" align="middle" border="0"></a><br>
+                                <img id="ctl00_img_QuickLinkHeader" src="../../images/MasterTable/Heading_QuickLinks.gif" border="0"><br>
+                                <img id="ctl00_img_HideClubSpace" src="../../images/Hide.gif" height="14" width="8" border="0">
+                                <select name="ctl00$list_Clubs" id="ctl00_list_Clubs" class="dropdown" onchange="javascript:loadClubSource()" style="font-size: 7pt; font-family: verdana">
+		<option value="460">Bank</option>
+		<option value="461">Barbican</option>
+		<option value="463">Birmingham Life</option>
+		<option value="462">Birmingham Star City</option>
+		<option value="464">Bolton</option>
+		<option value="465">Borehamwood</option>
+		<option value="466">Broadgate</option>
+		<option value="467">Bromley</option>
+		<option value="468">Canary Riverside</option>
+		<option value="469">Chelmsford</option>
+		<option value="470">Chelsea</option>
+		<option value="471">Chigwell</option>
+		<option value="472">Clapham</option>
+		<option value="473">Clements Hall</option>
+		<option value="474">Crawley</option>
+		<option value="475">Cricklewood</option>
+		<option value="476">Crouch End</option>
+		<option value="477">Croydon</option>
+		<option value="478">Derby</option>
+		<option value="479">Ealing</option>
+		<option value="480">East Dorset</option>
+		<option value="482">Edinburgh - Life</option>
+		<option value="481">Edinburgh - Omni</option>
+		<option value="483">Epsom</option>
+		<option value="484">Farnborough</option>
+		<option value="485">Fulham</option>
+		<option value="486">Glasgow</option>
+		<option value="487">Gloucester</option>
+		<option value="488">Hammersmith</option>
+		<option value="489">Hendon</option>
+		<option value="490">Holloway</option>
+		<option value="491">Islington</option>
+		<option value="492">Kensington</option>
+		<option value="493">Kingston</option>
+		<option value="494">Leeds City Centre</option>
+		<option value="495">Leeds Life Centre</option>
+		<option value="496">Manchester - Deansgate</option>
+		<option value="497">Manchester - Didsbury</option>
+		<option value="498">Manchester - Printworks</option>
+		<option value="499">Marylebone</option>
+		<option value="500">Mayfair</option>
+		<option value="501">Medway</option>
+		<option value="502">Merton Abbey</option>
+		<option value="503">Mill Hill East</option>
+		<option value="505">Milton Keynes</option>
+		<option value="506">Moorgate</option>
+		<option value="507">Northampton</option>
+		<option value="508">Notting Hill</option>
+		<option value="509">Nottingham</option>
+		<option value="510">Oxford Street</option>
+		<option value="511">Preston</option>
+		<option value="512">Putney</option>
+		<option value="513">Rayleigh Leisure Centre</option>
+		<option value="514">Regents Park</option>
+		<option value="515">Rugby</option>
+		<option value="516">Sheffield</option>
+		<option value="517">Slough</option>
+		<option value="518">Solihull</option>
+		<option value="519">South Wimbledon</option>
+		<option value="520">Staines</option>
+		<option value="521">Stockley Park</option>
+		<option value="522">Strand</option>
+		<option value="523">Streatham</option>
+		<option value="524">Sunbury</option>
+		<option value="525">Thundersley</option>
+		<option value="526">Tower Bridge</option>
+		<option value="532">Twickenham</option>
+		<option value="527">Uxbridge</option>
+		<option value="528">Wandsworth</option>
+		<option value="529">West London</option>
+		<option value="530">Wokingham</option>
+		<option value="531">Wood Green</option>
+		<option selected="selected" value="0">--Select Club--</option>
+
+	</select><br>
+                                <input type="image" name="ctl00$btn_SetClub" id="ctl00_btn_SetClub" src="../../images/ClubLinks_MakeClub.gif" alt="Make this club" onclick="return validateClub();" border="0">
+                                <input type="image" name="ctl00$btn_ClubInfo" id="ctl00_btn_ClubInfo" src="../../images/ClubLinks_MyClubInfo.gif" alt="View my club's info" onclick="return validateClub();" border="0">
+                                <a href="javascript:viewTimetable()"><img id="ctl00_Image12" onclientclick="return validateClub()" src="../../images/ClubLinks_ClassTimetable.gif" alt="View my club's timetable" border="0"></a><br>
+                                <input type="image" name="ctl00$btnSwim" id="ctl00_btnSwim" src="../../images/ClubLinks_SwimTimetable.gif" alt="View my club's swim timetable" onclick="return validateClub();" border="0"><br>
+                                
+                                <a href="/VA/TalkToUs/NewFeedback.aspx"><img id="ctl00_img_TalkToUs" src="../../images/SidePanel_TalkToUs.gif" alt="Talk to us" border="0"></a><br>
+                                <a href="/VA/TalkToUs/PublishedFeedback.aspx">
+                                        <img id="ctl00_Member_Feedback" src="../../images/SidePanel_MemFeedback.gif" alt="Member Feedback" height="23" width="155" border="0"></a><br>
+                                <a id="ctl00_img_MemberLounge" href="http://www.virginactive.co.uk/Public/LoginPage.aspx"><img src="../../images/SidePanel_MembersLounge.gif" alt="The members lounge" border="0"></a>
+                             </td>
+                        </tr>
+                    </tbody></table>
+                
+</div>
+            </td>
+            <td background="/VA/images/MasterTable/Right_Table_Inner.gif" rowspan="1" valign="top" width="15">
+                <img id="ctl00_Image7" src="../../images/MasterTable/Right_TableTop_Inner.gif" border="0"></td>
+            <td width="6" background="/VA/images/MasterTable/Right_Shadow.gif">
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" rowspan="2">
+                <img id="ctl00_Image9" src="../../images/MasterTable/Left_Circle_Bottom.gif" border="0"></td>
+            <td background="/VA/images/MasterTable/Bottom_Table_Inner.gif" height="15" width="525">
+            </td>
+            <td height="15" width="206" background="/VA/images/MasterTable/Bottom_Table_Inner.gif">
+            </td>
+            <td colspan="2" rowspan="2">
+                <img id="ctl00_Image6" src="../../images/MasterTable/Right_Circle_Bottom.gif" border="0"></td>
+        </tr>
+        <tr>
+            <td background="/VA/images/MasterTable/Bottom_Shadow.gif" height="6" width="525">
+            </td>
+            <td height="6" width="206" background="/VA/images/MasterTable/Bottom_Shadow.gif">
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" rowspan="1">
+            </td>
+            <td width="525">
+            </td>
+            <td width="206">
+            </td>
+            <td colspan="2" rowspan="1">
+            </td>
+        </tr>
+        <tr>
+            <td colspan="6" rowspan="1" style="text-align: center">
+                <a id="ctl00_link_Legal" href="Terms.aspx" style="font-weight: normal; font-size: 8pt; color: white; text-decoration: none">Website terms of use | </a>
+                <a id="ctl00_HyperLink4" href="PrivacyPolicy.aspx" style="font-weight: normal; font-size: 8pt; color: white; text-decoration: none">Privacy Policy | </a>
+                <a id="ctl00_link_Memberships" href="../membership/membership.aspx" style="font-weight: normal; font-size: 8pt; color: white; text-decoration: none">Our memberships | </a>
+                <a id="ctl00_link_ContactUs" href="../../TalkToUs/NewFeedback.aspx" style="font-weight: normal; font-size: 8pt; color: white; text-decoration: none">Contact us | </a>
+                    <a id="ctl00_link_Sitemap" href="../../sitemap.aspx" target="_self" "="" style="font-weight: normal; font-size: 8pt; color: white; text-decoration: none">Sitemap</a>
+    <select name="ctl00$list_ClubSource" id="ctl00_list_ClubSource" style="visibility: hidden">
+	<option value="HP">CLIO</option>
+	<option value="HP">CBAR</option>
+	<option value="VA">25</option>
+	<option value="HP">CBIR</option>
+	<option value="VA">26</option>
+	<option value="HP">CELS</option>
+	<option value="HP">CBGL</option>
+	<option value="HP">CBRM</option>
+	<option value="HP">CCAN</option>
+	<option value="VA">27</option>
+	<option value="HP">CCHL</option>
+	<option value="HP">CCHG</option>
+	<option value="HP">CCLP</option>
+	<option value="HP">CCLE</option>
+	<option value="VA">22</option>
+	<option value="HP">CCRK</option>
+	<option value="HP">CCND</option>
+	<option value="HP">CCRO</option>
+	<option value="VA">5</option>
+	<option value="HP">CEAL</option>
+	<option value="HP">CDOR</option>
+	<option value="VA">19</option>
+	<option value="HP">CEDI</option>
+	<option value="HP">CEPS</option>
+	<option value="HP">CFAR</option>
+	<option value="HP">CFUL</option>
+	<option value="VA">17</option>
+	<option value="VA">23</option>
+	<option value="HP">CBRG</option>
+	<option value="HP">CHEN</option>
+	<option value="HP">CISL</option>
+	<option value="VA">12</option>
+	<option value="HP">CKEN</option>
+	<option value="HP">CKIN</option>
+	<option value="VA">10</option>
+	<option value="VA">9</option>
+	<option value="VA">1</option>
+	<option value="HP">CMDI</option>
+	<option value="HP">CMPR</option>
+	<option value="HP">CJUW</option>
+	<option value="HP">CMAY</option>
+	<option value="VA">28</option>
+	<option value="VA">20</option>
+	<option value="HP">CBIT</option>
+	<option value="VA">18</option>
+	<option value="HP">CMOR</option>
+	<option value="VA">2</option>
+	<option value="HP">CNOT</option>
+	<option value="HP">CNTG</option>
+	<option value="HP">COXF</option>
+	<option value="VA">8</option>
+	<option value="HP">CPUT</option>
+	<option value="HP">RLL</option>
+	<option value="HP">CREG</option>
+	<option value="VA">24</option>
+	<option value="VA">15</option>
+	<option value="HP">CSLG</option>
+	<option value="VA">6</option>
+	<option value="HP">CWIM</option>
+	<option value="HP">CSTA</option>
+	<option value="VA">11</option>
+	<option value="HP">CSHE</option>
+	<option value="HP">CSTR</option>
+	<option value="HP">CSUN</option>
+	<option value="VA">16</option>
+	<option value="HP">CMIN</option>
+	<option value="VA">75</option>
+	<option value="HP">CUXB</option>
+	<option value="VA">14</option>
+	<option value="VA">13</option>
+	<option value="HP">CWOK</option>
+	<option value="HP">CWGR</option>
+
+</select></td></tr></tbody></table>
+    <span id="ctl00_lbl_MyClub" style="visibility: hidden"><font color="WhiteSmoke"></font></span><br>
+    <br>
+    &nbsp;
+    
+    
+    
+    
+    &nbsp;
+    
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="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"></form>
+      <!-- Google Analytics: START --> 
+            <script type="text/javascript">
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+            </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+            <script type="text/javascript">
+            var pageTracker = _gat._getTracker("UA-4099178-1");
+            pageTracker._trackPageview();
+            </script> 
+<!-- Google Analytics END --> 
+ 
+
+
+</body></html>
