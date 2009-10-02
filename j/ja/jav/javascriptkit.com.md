@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the javascriptkit.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618112724id_/http%3A//javascriptkit.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the javascriptkit.com privacy policy that was archived on 2009-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091002213427id_/http%3A//javascriptkit.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for JavaScript Kit
 
