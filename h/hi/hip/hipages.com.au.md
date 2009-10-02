@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hipages.com.au privacy policy that was archived on 2008-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080720001858id_/http%3A//www.homeimprovementpages.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hipages.com.au privacy policy that was archived on 2009-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091002144100id_/http%3A//www.homeimprovementpages.com.au/privacy) for the most accurate reproduction.*
 
 # Home Improvement Pages, Privacy Policy
 
