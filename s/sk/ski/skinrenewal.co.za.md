@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skinrenewal.co.za privacy policy that was archived on 2009-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090225005421id_/http%3A//www.skinrenewal.co.za/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinrenewal.co.za privacy policy that was archived on 2009-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091002162336id_/http%3A//www.skinrenewal.co.za/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
-# Skin Renewal | Aesthetic Centres | Botox | Johannesburg, Sandton, Cape Town
+# Skin Renewal |Aesthetic Centre | MediSpa | Botox Clinic | Skin Care Centre |South Africa | Johannesburg |Sandton | Cape Town
 
 Skin Renewal is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Skin Renewal Web site and governs data collection and usage. By using the Skin Renewal website, you consent to the data practices described in this statement.
 
@@ -44,4 +44,4 @@ Skin Renewal will occasionally update this Statement of Privacy to reflect compa
 
 Contact Information
 
-Skin Renewal welcomes your comments regarding this Statement of Privacy. If you believe that Skin Renewal has not adhered to this Statement, please contact Skin Renewal at [admin@192.168.0.2](mailto:admin@192.168.0.2). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+Skin Renewal welcomes your comments regarding this Statement of Privacy. If you believe that Skin Renewal has not adhered to this Statement, please contact Skin Renewal at [laura@pixelzoo.co.za](mailto:laura@pixelzoo.co.za). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
