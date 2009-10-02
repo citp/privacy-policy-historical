@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the companieshouse.gov.uk privacy policy that was archived on 2009-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090626055420id_/http%3A//www.companieshouse.gov.uk/legal/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the companieshouse.gov.uk privacy policy that was archived on 2009-10-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091002211749id_/http%3A//www.companieshouse.gov.uk/legal/privacy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
 <title>Privacy Statement</title>
@@ -31,15 +31,16 @@
 <meta name="rights" content="Crown copyright http://www.opsi.gov.uk/advice/crown-copyright/index.htm">
 
 <link href="/css/main2.css" rel="stylesheet" type="text/css">
-
 <!--[if IE 7]>
 <style type="text/css"> 
-#cap_clock {padding-right:40px; padding-top:10px; margin-right:-40px;}
+#cap_clock {padding: 12px 0 12px 12px; margin: 0 -10px -10px 0;}
+#companies_act_bottom #cap_clock {padding: 0; margin: 0;}
 </style>
 <![endif]-->
 <!--[if IE 6]>
 <style type="text/css"> 
-#cap_clock {padding-right:0px; padding-top:10px;}
+#cap_clock {padding: 12px 0 12px 12px; margin: 0 -10px -10px 0;}
+#companies_act_bottom #cap_clock {padding: 0; margin: 0;}
 </style>
 <![endif]--><script language="JavaScript" type="text/javascript">
 <!--
@@ -115,7 +116,7 @@ function openurl(opt) {
 <input type="hidden" name="restrict" value="">
 <input type="hidden" name="exclude" value="">
 <div id="topNavDBlue"><a href="/about/functionsHistory.shtml" class="whitenav" title="the accesskey = '6'" accesskey="6">About us</a> | <a href="/forms/introduction.shtml" class="whitenav" title="the accesskey = '7'" accesskey="7">Forms</a> | <a href="/careers/careers.shtml" class="whitenav" title="the accesskey = '8'" accesskey="8">Careers</a> | <a href="/contact/contactUs.shtml" class="whitenav" title="the accesskey = '9'" accesskey="9">Contact us</a> | <a href="/pressDesk/introduction.shtml" class="whitenav" title="the accesskey = 'n'" accesskey="n">Press Desk</a> | 
-<a href="/legal/disclaimer.shtml" class="whitenav" title="the accesskey = 'i'" accesskey="i">Disclaimer</a> | <a href="/welsh/index.shtml" class="whitenav" title="the accesskey = 'c'" accesskey="c" lang="cym">Cymraeg</a></div>
+<a href="/legal/disclaimer.shtml" class="whitenav" title="the accesskey = 'i'" accesskey="i">Disclaimer</a> | <a href="http://www.tyrcwmniau.gov.uk/" class="whitenav" title="the accesskey = 'c'" accesskey="c" lang="cym">Cymraeg</a></div>
 <div id="topNavMBlue">
 
 <div id="search"><label for="words">Search</label>
@@ -133,45 +134,7 @@ function openurl(opt) {
 <tr>
 <td colspan="4" align="left" valign="top" class="padding36">
 <!-- Start of CAP Clock -->
-<div id="cap_clock">
-<form action="/companiesAct/companiesActCountdown.shtml" method="post" name="count">
-<input type="submit" name="count2" alt="Countdown to Companies Act" style="color:#FFFFFF; border:none; background-image:url(/images/companiesAct/ca_clock.gif); background-repeat:no-repeat; height:40px; width:212px; float:right; text-align:left; padding-left:5px; cursor:pointer;" value="Only -3774 days  to go...">
-</form>
-<script type="text/javascript">
-
-var before=" to go..."
-var current="Today is final implementation"
-var montharray=new Array("Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec")
-
-function countdown(yr,m,d){
-theyear=yr;themonth=m;theday=d
-var today=new Date()
-var todayy=today.getYear()
-if (todayy < 1000)
-todayy+=1900
-var todaym=today.getMonth()
-var todayd=today.getDate()
-var todayh=today.getHours()
-var todaymin=today.getMinutes()
-var todaysec=today.getSeconds()
-var todaystring=montharray[todaym]+" "+todayd+", "+todayy+" "+todayh+":"+todaymin+":"+todaysec
-futurestring=montharray[m-1]+" "+d+", "+yr
-dd=Date.parse(futurestring)-Date.parse(todaystring)
-dday=Math.floor(dd/(60*60*1000*24)*1)
-dhour=Math.floor((dd%(60*60*1000*24))/(60*60*1000)*1)
-dmin=Math.floor(((dd%(60*60*1000*24))%(60*60*1000))/(60*1000)*1)
-dsec=Math.floor((((dd%(60*60*1000*24))%(60*60*1000))%(60*1000))/1000*1)
-if(dday==0&&dhour==0&&dmin==0&&dsec==1){
-document.forms.count.count2.value=current
-return
-}
-else
-document.forms.count.count2.value="Only "+dday+ " days "+before
-setTimeout("countdown(theyear,themonth,theday)",1000)
-}
-countdown(2009,10,01)
-</script>
-</div>
+<a href="/companiesAct/companiesActCountdown.shtml" id="cap_clock">Implemented on 1st October 2009</a>
 <!-- end of CAP Clock --><h2>Privacy Statement</h2></td>
 </tr>
 
@@ -236,7 +199,7 @@ If you have any queries please contact the Companies House Contact Centre on +44
 </tbody></table>
 <table width="100%" border="0" cellpadding="0" cellspacing="0" class="mediumBlueBg" summary="Table containing contact centre telephone number and email address">
 <tbody><tr>
-<td align="left" valign="middle" class="padding53BottomNav2"><span class="smallwhitelink"><img src="/images/telephoneIcon.gif" alt="Telephone icon" width="11" height="7"> Contact Centre : +44 (0)303 1234 500 &nbsp;<span class="helpdeskPurple">Minicom - 02920381245 &nbsp; 08:30 to 18:00 (UK time) <a href="../contact/contactUs.shtml" class="helpdeskPurple">Mon-Fri</a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/emailIcon.gif" alt="Email icon" width="9" height="7"> Email:  <a href="mailto:enquiries@companies-house.gov.uk" class="helpdeskPurple"> 
+<td align="left" valign="middle" class="padding53BottomNav2"><span class="smallwhitelink"><img src="/images/telephoneIcon.gif" alt="Telephone icon" width="11" height="7"> Contact Centre : +44 (0)303 1234 500 (<a href="/about/miscellaneous/contactCentreNumber.shtml" class="textLink" style="color: #FFFFFF;">national call rate</a>)&nbsp;<span class="helpdeskPurple">Minicom - 02920381245 &nbsp; 08:30 to 18:00 (UK time) <a href="../contact/contactUs.shtml" class="helpdeskPurple">Mon-Fri</a></span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/images/emailIcon.gif" alt="Email icon" width="9" height="7"> Email:  <a href="mailto:enquiries@companies-house.gov.uk" class="helpdeskPurple"> 
 enquiries@companies-house.gov.uk</a></span></td>
 </tr>
 <tr>
@@ -253,7 +216,16 @@ enquiries@companies-house.gov.uk</a></span></td>
   </tr>
   <tr>
     <td align="left" valign="top" class="paddingTopBottom6"><span class="smallblack"><!--<a href="http://bobby.watchfire.com/" title="Bobby's Home Page"><img src="/images/AABobby.gif" alt="Bobby WorldWide Approved AA" border="0"></a>&nbsp;&nbsp;--><a href="http://www.w3.org/WAI/WCAG1A-Conformance" title="Explanation of Level Double-A Conformance"><img src="/images/AAW3C.gif" alt="Level Double-A conformance icon, W3C-WAI Web Content Accessibility Guidelines 1.0" width="66" height="23"></a>&nbsp;&nbsp;<a href="http://validator.w3.org/" target="_blank"><img src="/images/W3Chtml.gif" alt="This site is W3C compliant."></a>&nbsp;&nbsp;<a href="http://jigsaw.w3.org/css-validator/" target="_blank"><img src="/images/W3Ccss.gif" alt="This site uses valid CSS."></a>&nbsp;&nbsp;<a href="http://validator.w3.org/feed/" target="_blank"><img src="/images/RSSvalid.gif" alt="This site uses valid RSS feeds."></a>  </span></td>
-    <td align="right" valign="top" class="paddingTopBottom6"><a href="../accesskeys.shtml" class="whitenav" accesskey="0">.</a><span class="smallblack"><a href="http://www.berr.gov.uk" target="_blank"><img src="/images/berr_logo.gif" alt="http://www.berr.gov.uk" width="86" height="29"></a>&nbsp;&nbsp;<a href="/promo/businesslink/" target="_blank"><img src="/images/buslinkicon.jpg" alt="http://www.businesslink.gov.uk/" width="86" height="29"></a>&nbsp;&nbsp;<a href="http://www.direct.gov.uk" target="_blank"><img src="/images/ukonlineLogo.gif" alt="http://www.direct.gov.uk" width="70" height="31"></a>&nbsp;&nbsp;<!--<a href="http://www.berr.gov.uk/" target="_blank"><img src="/images/dti_logo.gif" alt="www.berr.gov.uk" width="83" height="31" border="0"></a>&nbsp;&nbsp;--><a href="http://www.cicregulator.gov.uk/" target="_blank"><img src="/images/cicsLogo.gif" alt="Community Interest Companies" height="29"></a></span></td>
+    <td align="right" valign="top" class="paddingTopBottom6">
+    <a href="../accesskeys.shtml" class="whitenav" accesskey="0">.</a>
+    <span class="smallblack">
+        <a href="/promo/ebr/" target="_blank"><img src="/images/ebr_logo.gif" alt="http://www.ebr.org"></a>&nbsp;
+        <a href="/promo/bis/" target="_blank"><img src="/images/berr_logo.gif" alt="http://www.bis.gov.uk" width="83" height="31"></a>&nbsp;
+        <a href="/promo/businesslink/" target="_blank"><img src="/images/buslinkicon.jpg" alt="http://www.businesslink.gov.uk/" width="86" height="29"></a>&nbsp;
+        <a href="/promo/directgov/" target="_blank"><img src="/images/ukonlineLogo.gif" alt="http://www.direct.gov.uk" width="70" height="31"></a>&nbsp;
+    <!--<a href="http://www.berr.gov.uk/" target="_blank"><img src="/images/dti_logo.gif" alt="www.berr.gov.uk" width="83" height="31" border="0"></a>&nbsp;&nbsp;-->
+    <a href="/promo/cics/" target="_blank"><img src="/images/cicsLogo.gif" alt="Community Interest Companies" height="29"></a>
+    </span></td>
   </tr>
 </tbody></table>
 <!-- End Disclaimer and DTI table -->
