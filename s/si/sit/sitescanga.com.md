@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sitescanga.com privacy policy that was archived on 2009-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090330021212id_/http%3A//www.sitescanga.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitescanga.com privacy policy that was archived on 2009-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091002090419id_/http%3A//www.sitescanga.com/privacy_policy) for the most accurate reproduction.*
 
-# SiteScan By EpikOne - A Google Analytics Help, Setup, and Configuration Tool
+# SiteScan™ By EpikOne - A Google Analytics Help, Setup, and Configuration Tool
 
 **SiteScan** **Privacy Policy**
 
