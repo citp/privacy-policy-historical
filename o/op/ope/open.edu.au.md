@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the open.edu.au privacy policy that was archived on 2008-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080718205048id_/https%3A//www.open.edu.au/wps/wcm/connect/OUA2/Home/Legals/Privacy%3Fpagedesign%3DPopup) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the open.edu.au privacy policy that was archived on 2009-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091002040758id_/https%3A//www.open.edu.au/wps/wcm/connect/migration/OUA2/Home/Legals/Privacy%3Fpagedesign%3DPopup) for the most accurate reproduction.*
 
 # Privacy Statement
 
