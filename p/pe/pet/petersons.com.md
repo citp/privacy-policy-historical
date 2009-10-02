@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petersons.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601205933id_/http%3A//www.petersons.com/common/terms.asp%3Fpath%3Dgr.home.overview%26sponsor%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petersons.com privacy policy that was archived on 2009-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091002124234id_/http%3A//www.petersons.com/common/terms.asp%3Fpath%3Dug.home.overview%26sponsor%3D1) for the most accurate reproduction.*
 
 # Peterson's - Privacy Policy
 
