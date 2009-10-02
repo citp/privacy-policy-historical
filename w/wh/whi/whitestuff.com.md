@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whitestuff.com privacy policy that was archived on 2009-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090510000959id_/http%3A//www.whitestuff.com/privacy-policy-Acs_security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitestuff.com privacy policy that was archived on 2009-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091002225718id_/http%3A//www.whitestuff.com/cid/XPQ9UUH96PY9K5OQ1O1LDL046XJPKZNS/privacy-policy-Acs_security) for the most accurate reproduction.*
 
 # privacy policy
 
