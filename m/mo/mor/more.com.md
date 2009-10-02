@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the more.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418081203id_/http%3A//www.more.com/more/file.jsp%3Fitem%3D/legal/privacy%26temp%3Dyes) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the more.com privacy policy that was archived on 2009-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091003015258id_/http%3A//www.more.com/help/privacy_policy) for the most accurate reproduction.*
 
-# More.com - MORE Magazine
+# Privacy Policy
 
   * Online Privacy Policy
   * [Offline Privacy Policy](http://www.more.com/more/file.jsp?item=/privacy/policy)
-  * [Visitor Agreement](http://more.com/more/file.jsp?item=/legal/terms)
+  * [Visitor Agreement](https://web.archive.org/help/terms)
   * Your California Privacy Rights
   * Meredith Corporation "Shine the Light" Customer Notice
 
 
 
-## ONLINE PRIVACY POLICY
+## Online Privacy Policy
 
 Welcome to our website! More.com is a service provided by Meredith Corporation ("Meredith," "we" or "us"). Since 1902, Meredith has been committed to providing our customers with products and services characterized by outstanding quality, customer service and value. Our Online Privacy Policy continues our commitment to serve you and to protect your privacy online. Please [click here](http://www.more.com/more/file.jsp?item=/privacy/policy) to see our Offline Privacy Policy.
 
-By visiting any of our sites, you agree that your visit, and any dispute over privacy, is governed by this Online Privacy Policy and our [Visitor Agreement](http://more.com/more/file.jsp?item=/legal/terms). Please take a few minutes to read them before using or registering with any of our sites.
+By visiting any of our sites, you agree that your visit, and any dispute over privacy, is governed by this Online Privacy Policy and our [Visitor Agreement](https://web.archive.org/help/terms). Please take a few minutes to read them before using or registering with any of our sites.
 
 PLEASE NOTE THAT THIS PRIVACY POLICY APPLIES ONLY TO OUR ONLINE COLLECTION AND USE OF INFORMATION AND DOES NOT APPLY TO ANY INFORMATION THAT YOU MAY PROVIDE TO US BY OTHER MEANS, SUCH AS VIA MAIL OR TELEPHONE. 
 
@@ -75,27 +75,27 @@ Our primary goal in collecting information is to provide you with a customized e
 
 **Postal Address Lists.** If you provide us with your postal address, we may include that address in postal address lists that we sell or rent to third parties. If you would like us to stop including your postal address in such lists, please send us a letter (which should be addressed to Meredith Corporation, Opt-Out Postal, Attn: Circulation, 1716 Locust Street, Des Moines, Iowa 50309), requesting that we remove your postal address from these lists. If we receive such a letter from you, we will act as promptly as possible to remove your postal address from future postal address lists that we sell or rent to third parties.
 
-**Other Disclosures.** We may occasionally release information about our visitors when release is appropriate to comply with law, to enforce our [Visitor Agreement](http://more.com/more/file.jsp?item=/legal/terms), or to protect the rights, property or safety of visitors to our sites, the public, or Meredith Corporation. As our business grows, we may buy or sell various assets. In the unlikely event that Meredith Corporation, substantially all of our assets, or one or more of our sites (or substantially all of its assets) is acquired by another company, information on our visitors would be among the transferred assets. 
+**Other Disclosures.** We may occasionally release information about our visitors when release is appropriate to comply with law, to enforce our [Visitor Agreement](https://web.archive.org/help/terms), or to protect the rights, property or safety of visitors to our sites, the public, or Meredith Corporation. As our business grows, we may buy or sell various assets. In the unlikely event that Meredith Corporation, substantially all of our assets, or one or more of our sites (or substantially all of its assets) is acquired by another company, information on our visitors would be among the transferred assets. 
 
 Return to top 
 
 ### How to Correct or Update Your Information:
 
-Meredith Corporation believes strongly in providing you with the ability to access and edit the personally identifying information that you have provided to us through our websites. To update this information, please visit our [](http://www.more.com/common/myaccount)[My Account](http://www.more.com/common/myaccount) area. 
+Meredith Corporation believes strongly in providing you with the ability to access and edit the personally identifying information that you have provided to us through our websites. To update this information, please visit our [My Account](https://secure.more.com/common/myaccount) area. 
 
 Return to top 
 
 ### Newsletters and Promotions:
 
-**Newsletters.** We may offer you the opportunity to subscribe to email newsletters on various topics that we believe are of interest to our visitors. If you have opted to receive a particular newsletter, you can always unsubscribe later either (1) by following the 'unsubscribe' link located near the bottom of each newsletter, or (2) by going to [My Account](http://www.more.com/common/myaccount) , selecting "Unsubscribe" from the Newsletter options, unchecking the relevant boxes and pressing the "Update" button.
+**Newsletters.** We may offer you the opportunity to subscribe to email newsletters on various topics that we believe are of interest to our visitors. If you have opted to receive a particular newsletter, you can always unsubscribe later either (1) by following the 'unsubscribe' link located near the bottom of each newsletter, or (2) by going to [My Account](https://secure.more.com/common/myaccount) , selecting "Unsubscribe" from the Newsletter options, unchecking the relevant boxes and pressing the "Update" button.
 
-**Promotional Emails.** If you provide us with your email address, from time to time we may send you emails about Meredith products, services and special offers (such as special Meredith magazine subscription offers) that we believe may be of interest to you. When you register, you will also be given an opportunity to tell us whether you would like to receive emails about products, services and special offers from third-party providers. Though we hope that you will find both types of promotional emails helpful, if you decide that you no longer wish to receive either or both types of emails, please go to the [Email Preferences](http://www.more.com/common/myaccount) page and update your preferences. Of course, you may change your preferences at any time. We will make any changes you request as quickly as we can.
+**Promotional Emails.** If you provide us with your email address, from time to time we may send you emails about Meredith products, services and special offers (such as special Meredith magazine subscription offers) that we believe may be of interest to you. When you register, you will also be given an opportunity to tell us whether you would like to receive emails about products, services and special offers from third-party providers. Though we hope that you will find both types of promotional emails helpful, if you decide that you no longer wish to receive either or both types of emails, please go to the [Email Preferences](https://secure.more.com/common/myaccount) page and update your preferences. Of course, you may change your preferences at any time. We will make any changes you request as quickly as we can.
 
 Return to top 
 
 ### Security:
 
-The personally identifying information we collect is stored within a database that we control. We use standard, industry-wide procedures such as firewalls and SSL (Secure Sockets Layer) encryption to protect your information. However, as effective as encryption technology is, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a message you post to any message board, discussion group, or other public posting area on our sites is available to anyone with Internet access. If you don't want people to know your name or email address, for example, make sure not to include it in any message you post publicly. Please see our [Visitor Agreement](http://more.com/more/file.jsp?item=/legal/terms) for more information related to posting materials on our sites, including our use of such materials.
+The personally identifying information we collect is stored within a database that we control. We use standard, industry-wide procedures such as firewalls and SSL (Secure Sockets Layer) encryption to protect your information. However, as effective as encryption technology is, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a message you post to any message board, discussion group, or other public posting area on our sites is available to anyone with Internet access. If you don't want people to know your name or email address, for example, make sure not to include it in any message you post publicly. Please see our [Visitor Agreement](https://web.archive.org/help/terms) for more information related to posting materials on our sites, including our use of such materials.
 
 Return to top 
 
@@ -105,7 +105,7 @@ The Internet is an evolving medium. If we need to change our Privacy Policy at s
 
 Return to top 
 
-## YOUR CALIFORNIA PRIVACY RIGHTS
+## Your California Privacy Rights
 
 **(As provided by California Civil Code Section 1798.83)**
 
@@ -117,7 +117,7 @@ Meredith Corporation qualifies for this latter exception. As further explained i
 
 Return to top 
 
-## MEREDITH CORPORATION "SHINE THE LIGHT" CUSTOMER NOTICE 
+## Meredith Corporation "Shine the Light" Customer Notice
 
 The following options are available to any customers who wish to prevent the disclosure of their personal information to third parties for direct marketing purposes:
 
