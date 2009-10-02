@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebwelove.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216234054id_/http%3A//www.celebwelove.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebwelove.com privacy policy that was archived on 2009-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091002084443id_/http%3A//www.celebwelove.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy : CelebWeLove.com
 
@@ -24,6 +24,6 @@ We use BUDS INC and other third-party advertising companies to serve ads when yo
 We use GOOGLE ADSENSE and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](https://www.google.com/adsense/policies)
 
 **Third Party Cookies**  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique �cookie� on your browser. 
+Google and the DoubleClick DART cookie:
 
 If you have any questions concerning the privacy policies of CelebWeLove.com which are not covered in this statement, please send email with your questions to [support@celebwelove.com](mailto:support@celebwelove.com) with the words "Privacy Policy" in the subject field.
