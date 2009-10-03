@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thingamajob.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629165506id_/http%3A//www.thingamajob.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thingamajob.com privacy policy that was archived on 2009-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091003080419id_/http%3A//www.thingamajob.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Thingamajob protects your privacy, learn more about our hiring policy.
 
