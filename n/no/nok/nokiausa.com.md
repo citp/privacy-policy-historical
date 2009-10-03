@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nokiausa.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602211619id_/http%3A//www.nokiausa.com/A4411013) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nokiausa.com privacy policy that was archived on 2009-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091003152256id_/http%3A//www.nokiausa.com/A4411013) for the most accurate reproduction.*
 
-# Nokia USA - Privacy policy - Default footer and common elements
+# 
 
 Effective from 03.12.2008
 
