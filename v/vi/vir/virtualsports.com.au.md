@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the virtualsports.com.au privacy policy that was archived on 2007-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071103204516id_/http%3A//www.virtualsports.com.au%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualsports.com.au privacy policy that was archived on 2009-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091003211301id_/http%3A//virtualsports.com.au%3Fp%3Dhelp%26m%3Dprivacy) for the most accurate reproduction.*
 
-# VirtualSPORTS - Play Dream Team Fantasy Sports FREE! The Leaders in Australasian Fantasy Sports
+# VirtualSPORTS 2009 | Play Dream Team Fantasy Sports FREE | The Leaders in Australasian Fantasy Sports
 
-**The VirtualSPORTS Dream Team is committed to responsible management of your information and abides by all rules, both ethical and legal, with respect to the use of consumer information. We strictly adhere to all industry guidelines, and are continuously monitoring and enhancing how we manage the use and security of consumer information to uphold your rights.**
+The VirtualSPORTS Dream Team is committed to responsible management of your information and abides by all rules, both ethical and legal, with respect to the use of consumer information. We strictly adhere to all industry guidelines, and are continuously monitoring and enhancing how we manage the use and security of consumer information to uphold your rights. 
 
 **INFORMATION COLLECTED**
 
@@ -22,4 +22,4 @@ To enhance your Web experience, this site may, from time to time, use anonymous 
 
 Users of the VirtualSPORTS Dream Team opt-in and registration services may choose, as appropriate, to correct member details or to be removed from selected services. On request, all data will be permanently deleted off our databases. Information on how to change details or be removed from any of our services is provided with each newsletter, or where the service may be used on the web site. 
 
-**Further enquiries and questions about the VirtualSPORTS Dream Team and its policies and procedures relating to its handling of personal user information, can be forwarded to the VirtualSPORTS Dream Team by[contacting us here.](https://web.archive.org/?p=contactus)**
+**Further enquiries and questions about the VirtualSPORTS Dream Team and its policies and procedures relating to its handling of personal user information, can be forwarded to the VirtualSPORTS Dream Team by contacting us[ **here**](https://web.archive.org/?p=help&m=contactus).**
