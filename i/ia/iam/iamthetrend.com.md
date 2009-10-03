@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iamthetrend.com privacy policy that was archived on 2009-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090528071849id_/http%3A//www.iamthetrend.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iamthetrend.com privacy policy that was archived on 2009-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091003195937id_/http%3A//iamthetrend.com/content/privacy-policy) for the most accurate reproduction.*
 
 # I Am The Trend: Privacy Policy
 
