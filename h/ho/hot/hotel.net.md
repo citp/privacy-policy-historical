@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotel.net privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626010325id_/http%3A//www.hotel.net/privacy-and-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotel.net privacy policy that was archived on 2009-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091003171251id_/http%3A//hotel.net/privacy-and-security.html) for the most accurate reproduction.*
 
 # Privacy and Security | Hotel.net
 
