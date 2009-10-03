@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodmatters.tv privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523220955id_/http%3A//foodmatters.tv/_webapp/privacy%2520policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodmatters.tv privacy policy that was archived on 2009-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091003130354id_/http%3A//www.foodmatters.tv/_webapp/privacy%2520policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
