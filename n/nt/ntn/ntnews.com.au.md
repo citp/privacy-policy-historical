@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ntnews.com.au privacy policy that was archived on 2008-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080719142007id_/http%3A//www.ntnews.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntnews.com.au privacy policy that was archived on 2009-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091003044004id_/http%3A//www.ntnews.com.au/privacy) for the most accurate reproduction.*
 
-# Northern Territory News
+# Privacy Statement - Northern Territory News
 
-The **Northern Territory News Pty Ltd** (NTN) recognises the importance of protecting the privacy of personally identifiable information collected about our customers. For the purposes of this Privacy Statement, the word customers includes visitors to our web sites, subscribers to and users of our services, purchasers of our products and advertising customers. 
+The **Northern Territory News** (NTN) recognises the importance of protecting the privacy of personally identifiable information collected about our customers. For the purposes of this Privacy Statement, the word customers includes visitors to our web sites, subscribers to and users of our services, purchasers of our products and advertising customers. 
 
 We are bound by the National Privacy Principles in the Privacy Act 1988 (Cth) in relation to the handling of personal information. Where appropriate we will handle personal information relying on the media exemption, related bodies corporate exemption and the employee exemption in the Privacy Act. 
 
