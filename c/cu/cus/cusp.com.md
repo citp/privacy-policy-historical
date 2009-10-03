@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the cusp.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628053429id_/http%3A//www.cusp.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cusp.com privacy policy that was archived on 2009-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091003041456id_/http%3A//www.cusp.com/privacy.aspx) for the most accurate reproduction.*
 
-# CUSP | Security &Amp; Privacy
+# CUSP | Security & Privacy
 
 ##### Security & Privacy
 
   * Security & privacy information
-  * Mac user advisory
+  * Browser advisory
   * Warranty information
   * Conditions of use, notices and disclaimers
 
@@ -148,11 +148,13 @@ Dallas, TX 75265-0589
 
 
 
-##### Mac user advisory
+##### Browser Advisory 
 
-Macintosh users must place their online orders using Safari or Firefox. These browsers allow us to offer our customers the highest level of security; other browsers prevent users from viewing secure pages during the checkout process. We apologize for any inconvenience. 
+PC users should place their online order using Internet Explorer or Firefox. Macintosh users should place their online orders using Safari or Firefox. These browsers allow us to offer our customers the highest level of security; some other browsers prevent users from viewing secure pages during the checkout process. We apologize for any inconvenience. 
 
-Download a free copy of Firefox by clicking [here](http://www.mozilla.com/en-US/firefox/). For the latest version of Safari, from the Apple menu, choose Software Update. 
+Download a free copy of Firefox by clicking [here](http://www.mozilla.com/firefox). For the latest version of Safari, from the Apple menu, choose Software Update. For the latest Internet Explorer version visit [here](http://windowsupdate.microsoft.com/). 
+
+Please be aware that CUSP.com uses rich media content to improve the user experience. [Download and Install Adobe Flash](http://www.adobe.com/go/getflashplayer/) to view the website as it was intended. 
 
 ##### Warranty information
 
