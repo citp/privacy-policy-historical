@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cartridgesave.co.uk privacy policy that was archived on 2009-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090203163717id_/http%3A//www.cartridgesave.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartridgesave.co.uk privacy policy that was archived on 2009-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091003133425id_/http%3A//www.cartridgesave.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
-# Cartridge SAVE -- Privacy Policy
-
-**Welcome!** Already a customer? [Log in](https://www.cartridgesave.co.uk/login.html)
+# None
 
 We are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998).
 
@@ -26,8 +24,8 @@ We may use technology to track the patterns of behaviour of visitors to our site
 
 We will not send any unsolicited commercial email (also known as spam) to personal email addresses and all marketing emails will include details of how to opt-out / unsubscribe.
 
-  * Cartridge SAVE
-  * Units 1&2 Oadby Place, Leicester Street
-  * Stockport, SK5 6NS, UK
+  1. Cartridge SAVE
+  2. Roland Road
+  3. Stockport, SK5 6TJ, UK
 
 
