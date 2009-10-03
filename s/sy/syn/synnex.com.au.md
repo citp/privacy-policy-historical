@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the synnex.com.au privacy policy that was archived on 2009-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090217203939id_/http%3A//synnex.com.au/Default.aspx%3Ftabid%3D1%26def%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synnex.com.au privacy policy that was archived on 2009-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091003031225id_/http%3A//www.synnex.com.au/Default.aspx%3Ftabid%3D1%26def%3DPrivacy) for the most accurate reproduction.*
 
-# Synnex Australia Pty Ltd : Home
+# Synnex Australia Pty Ltd : Home |
 
 Synnex Australia Pty Ltd is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Synnex Australia Pty Ltd Web site and governs data collection and usage. By using the Synnex Australia Pty Ltd website, you consent to the data practices described in this statement.
 
