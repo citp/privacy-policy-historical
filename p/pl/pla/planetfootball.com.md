@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetfootball.com privacy policy that was archived on 2008-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081120124826id_/http%3A//planetfootball.com/story/0%2C19528%2C12072_2443210%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetfootball.com privacy policy that was archived on 2009-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091003092228id_/http%3A//www.skysports.com/story/0%2C19528%2C12072_2443210%2C00.html) for the most accurate reproduction.*
 
 # Sky Sports | Corporate & Contact | Privacy | Privacy Statement
 
