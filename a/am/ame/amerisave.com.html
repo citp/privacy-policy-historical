@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the amerisave.com privacy policy that was archived on 2009-02-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090212153134id_/http%3A//www.amerisave.com/aboutus/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the amerisave.com privacy policy that was archived on 2009-10-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091003105828id_/http%3A//www.amerisave.com/aboutus/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 
@@ -28,7 +28,9 @@
 <script type="text/JavaScript" src="/resources/jscript/idrop.js"></script>
 
 
-	<link rel="STYLESHEET" type="text/css" href="/resources/main.css">
+	<link rel="stylesheet" type="text/css" href="/resources/main.css">
+	<link rel="stylesheet" type="text/css" href="/resources/common/css/panel.css">
+	<link rel="stylesheet" type="text/css" href="/resources/common/css/report.css">
 
 
 <script type="text/JavaScript">_ajaxConfig = {"_cfscriptLocation":"", "_jsscriptFolder":"/resources/common/ajax"};</script>
@@ -88,7 +90,7 @@ pageTracker._trackPageview();
 	<tbody><tr><td colspan="2"><span class="phone1">Questions?</span></td></tr>
 	
 		<tr><td colspan="2" nowrap=""><span class="phone2">866.970.SAVE</span></td></tr>
-		<tr><td><img src="/images/redesign/24_7_oval_static.gif" border="0"></td><td nowrap=""><span class="phone3">Call Now. Open 24/7</span></td></tr>
+		<tr><td><img src="/images/redesign/24_7_oval_pulse.gif" border="0"></td><td nowrap=""><span class="phone3">Call Now. Open 24/7</span></td></tr>
 	
 	</tbody></table></td>
   </tr>
@@ -164,10 +166,6 @@ YAHOO.util.Event.onContentReady("mainMenuBar", function ()
 			<script type="text/javascript">
 				addthis_pub  = 'mbass';
 			</script>
-			
-				<a href="http://www.addthis.com/bookmark.php" onmouseover="return addthis_open(this, '', 'http://www.amerisave.com', 'Amerisave Mortgage')" onmouseout="addthis_close()" onclick="return addthis_sendto()" rel="nofollow"><img src="http://s9.addthis.com/button1-bm.gif" width="125" height="16" border="0" alt=""></a>
-				<script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
-			
 		</td>
 	</tr>
 </tbody></table>
@@ -188,11 +186,11 @@ YAHOO.util.Event.onContentReady("mainMenuBar", function ()
 
 <div class="blankSubNavDiv"><a class="blankSubNavAnc" href="/aboutus/inthenews" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('SubNav2','','/images/redesign/blank_sub_nav_on.gif',1)"><img alt="In the News" src="/images/redesign/blank_sub_nav_off.gif" id="SubNav2"><span class="blankSubNavText">In the News</span></a></div>
 
-<div class="blankSubNavDiv"><a class="blankSubNavAnc" href="/aboutus/pressreleases" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('SubNav3','','/images/redesign/blank_sub_nav_on.gif',1)"><img alt="Press Releases" src="/images/redesign/blank_sub_nav_off.gif" id="SubNav3"><span class="blankSubNavText">Press Releases</span></a></div>
-
 <div class="blankSubNavDiv"><a class="blankSubNavAnc" href="/aboutus/employment" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('SubNav4','','/images/redesign/blank_sub_nav_on.gif',1)"><img alt="Employment" src="/images/redesign/blank_sub_nav_off.gif" id="SubNav4"><span class="blankSubNavText">Employment</span></a></div>
 
 <div class="blankSubNavDiv"><a class="blankSubNavAnc" href="/aboutus/licensing" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('SubNav5','','/images/redesign/blank_sub_nav_on.gif',1)"><img alt="State Licensure" src="/images/redesign/blank_sub_nav_off.gif" id="SubNav5"><span class="blankSubNavText">State Licensure</span></a></div>
+
+<div class="blankSubNavDiv"><a class="blankSubNavAnc" href="/aboutus/customer-service" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('SubNav6','','/images/redesign/blank_sub_nav_on.gif',1)"><img alt="Customer Service" src="/images/redesign/blank_sub_nav_off.gif" id="SubNav6"><span class="blankSubNavText">Customer Service</span></a></div>
 
         </td>
         
@@ -410,7 +408,7 @@ function myOnload()
 
 <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td>
 <table id="rateSearchControl" border="0" cellpadding="0" cellspacing="0" style="display:none;">
-<form name="rateSearchForm" method="post" action="https://web.archive.org/web/20090212153134id_/http%3A//www.amerisave.com/aboutus/privacy"></form>
+<form name="rateSearchForm" method="post" action="https://web.archive.org/web/20091003105828id_/http%3A//www.amerisave.com/aboutus/privacy"></form>
 <input type="hidden" name="bDoSearch" value="true">
 <tbody><tr>
 	<td colspan="3"><a href="http://www.amerisave.com"><img src="/images/redesign/rs_todays_rates_top.gif" border="0" alt="Mortgage Rates"></a></td>
@@ -556,14 +554,26 @@ function myOnload()
 				
 				<tbody><tr>
 					<td nowrap="" style="padding:3px;">
-					<select onchange="rsExpandForm(true);" name="tLoanPurp" id="loanPurpSelect" style="width: 179px; font-family: verdana, arial; font-size: 10px; ">
-							<option value="">-- Select loan type --</option>
+					<input type="hidden" name="tLoanPurp" id="loanPurpSelect" value=""><select onchange="rsExpandForm(true);" name="tAltLoanPurp" id="loanPurpAltSelect" style="width: 179px; font-family: verdana, arial; font-size: 10px; ">
+						<option value="">-- Select loan type --</option>
 						<option value="REFI">Refinance, no cash out</option>
 						<option value="CASHOUT">Refinance, take cash out</option>
-						<option value="PURC">Purchase, found a home</option>
-						<option value="PRE">Purchase, still looking</option>
-						<option value="HELOC">Home Equity Loan</option>
+						<option value="PRE">Purchase</option>
+						
+						
 					</select><span onmouseover="doTooltip(event,'Selecting &quot;Refinance, take cash out&quot; may increase your rate.  If you want some extra cash to pay the closing costs on your new loan, this would NOT be considered receiving extra cash.','width=225px')" onmouseout="hideTip()"><img src="/resources/common/images/icn_question.gif" hspace="4" align="bottom"></span></td>
+				</tr>
+			</tbody></table>
+			<table id="purcTypeQuestions" width="100%" border="0" cellpadding="0" cellspacing="0" align="center" style="display:none;">
+				
+				<tbody><tr>
+					<td nowrap="" style="padding:3px;">
+					<select onchange="rsExpandForm(true);" name="tPurcType" id="purcTypeSelect" style="width: 179px; font-family: verdana, arial; font-size: 10px; ">
+						<option value="">-- Select buying stage --</option>
+						<option value="SHOP">Shopping for home</option>
+						<option value="NEGO">Negotiating on a home</option>
+						<option value="CONT">Home under contract</option>
+					</select><span onmouseover="doTooltip(event,'Please indicate how far into the purchase process you are currently.','width=225px')" onmouseout="hideTip()"><img src="/resources/common/images/icn_question.gif" hspace="4" align="bottom"></span></td>
 				</tr>
 			</tbody></table>
 			<table id="helocQuestions" border="0" cellpadding="0" cellspacing="0" style="display:none;">
@@ -576,7 +586,7 @@ function myOnload()
 				<tbody><tr>
 					<td nowrap="" style="padding:3px;">
 					<select onchange="rsExpandForm(true);" name="nLockPeriod" id="lockPeriodSelect" style="width: 179px; font-family: verdana, arial; font-size: 10px; ">
-						<option value="15">15 day rate lock</option>
+						
 						<option value="30" selected="">30 day rate lock</option>
 						<option value="45">45 day rate lock</option>
 						<option value="60">60 day rate lock</option>
@@ -761,7 +771,7 @@ We apologize, but many features of our web site require that your browser have J
 Please go to your browser's help files to learn how to enable JavaScript. After you have enabled JavaScript, you may continue<br>
 <br>
 
-	Also, our Loan Advisors are standing by to help you – please call us at </span><span class="bigErrorMsg" style="font-size:16px;">866.970.SAVE 
+	Also, our Loan Advisors are standing by to help you - please call us at </span><span class="bigErrorMsg" style="font-size:16px;">866.970.SAVE 
 </span>
 		</td>
 	</tr>
@@ -780,7 +790,7 @@ We apologize, but many features of our web site require that your browser accept
 Please go to your browser's help files to learn how to accept first-party cookies. After you accept first-party cookies, you may continue<br>
 <br>
 
-	Also, our Loan Advisors are standing by to help you – please call us at </span><span class="bigErrorMsg" style="font-size:16px;">866.970.SAVE 
+	Also, our Loan Advisors are standing by to help you - please call us at </span><span class="bigErrorMsg" style="font-size:16px;">866.970.SAVE 
 </span>
 					</td>
 				</tr>
@@ -866,12 +876,6 @@ Please go to your browser's help files to learn how to accept first-party cookie
 				</tbody></table>
 			</td>
     </tr>
-    <tr>
-      <td width="12"><img src="/images/redesign/spacer.gif" width="12"></td>
-    </tr>
-    <tr>
-      <td><a href="http://learningcenter.amerisave.com/?mcID=amba01"><img src="/images/redesign/Learning-Center---Free.gif" alt="Free Online Classes" border="0"></a></td>
-    </tr>
 
     </tbody></table></td>
   </tr>
@@ -887,7 +891,6 @@ Please go to your browser's help files to learn how to accept first-party cookie
 			<td><a href="/why_amerisave/upfront_lender" rel="nofollow"><img src="/images/redesign/footer_upfront.gif" border="0"></a></td>
 			<td><a href="/aboutus/equal_housing_opp" rel="nofollow"><img src="/images/redesign/ehLogofooter.gif" height="55" border="0"></a></td>
 			<td><img src="/images/redesign/verisignfooter.gif" height="55" alt="" border="0"></td>
-			<td><img src="/images/redesign/bbbtips.jpg" border="0"></td>
 			
 		</tr>
 	</tbody></table>
@@ -897,11 +900,9 @@ Please go to your browser's help files to learn how to accept first-party cookie
 	<a href="/aboutus/privacy" class="text" rel="nofollow">Privacy Policy</a> |
 	<a href="/aboutus/security" class="text" rel="nofollow">Security</a> |
 	<a href="/aboutus/licensing" class="text" rel="nofollow">Licensing</a> |
-	<a href="/sitemap.cfm" class="text">Site Map</a><br>
-	<br>
-	<a href="http://www.yelp.com/biz/amerisave-atlanta">Amerisave RV</a> |
-	<a href="http://www.epinions.com/pr-Online_Stores_Services-Amerisave">Amerisave RV</a> |
-	<a href="http://www.kudzu.com/merchant/674865.html">Amerisave RV</a>
+	<a href="/sitemap.cfm" class="text">Site Map</a> |
+	<a href="/aboutus/customer-service" class="text">Customer Service</a><br>
+	
 </div>
 <br>
 
@@ -914,7 +915,7 @@ Please go to your browser's help files to learn how to accept first-party cookie
 	
 
 		
-			<div align="center"><font size="-1" color="666666">Your visitor ID: 21175531</font></div>
+			<div align="center"><font size="-1" color="666666">Your visitor ID: 28048896</font></div>
 		
 
 		
