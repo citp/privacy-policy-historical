@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodlifehealthclubs.com.au privacy policy that was archived on 2009-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090607223156id_/http%3A//www.goodlifehealthclubs.com.au/General/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodlifehealthclubs.com.au privacy policy that was archived on 2009-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091003021233id_/http%3A//www.goodlifehealthclubs.com.au/General/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
