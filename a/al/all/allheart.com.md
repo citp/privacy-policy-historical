@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allheart.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603214355id_/http%3A//www.allheart.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allheart.com privacy policy that was archived on 2009-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091004201142id_/http%3A//allheart.com/privacy.html) for the most accurate reproduction.*
 
 # AllHeart.com Privacy Statement
 
