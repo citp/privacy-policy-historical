@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ankenyschools.org privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413013613id_/http%3A//www.ankenyschools.org/privacy.phtml%3Fsessionid%3Dab5f1e740b1090eff7b298d186786ad1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ankenyschools.org privacy policy that was archived on 2009-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091004060529id_/http%3A//www.ankenyschools.org/privacy.phtml%3Fsessionid%3D015605ee31add2482f354827abe164bd) for the most accurate reproduction.*
 
 # Ankeny District Office
 
