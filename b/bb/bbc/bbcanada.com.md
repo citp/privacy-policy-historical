@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbcanada.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617065748id_/http%3A//www.bbcanada.com/bb_privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbcanada.com privacy policy that was archived on 2009-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091004091645id_/http%3A//www.bbcanada.com/bb_privacy.cfm) for the most accurate reproduction.*
 
 # Privacy
 
