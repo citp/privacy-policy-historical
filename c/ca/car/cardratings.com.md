@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardratings.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628225634id_/http%3A//www.cardratings.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardratings.com privacy policy that was archived on 2009-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091004190422id_/http%3A//www.cardratings.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -10,13 +10,13 @@ If you have questions or concerns regarding this privacy policy, please see our 
 
 U.S. Citizens for Fair Credit Card Terms, Inc., d/b/a CardRatings.com, has created this privacy policy in order to demonstrate our firm commitment to safeguarding the privacy of your personal information. The following discloses how we gather information, how that information is shared, and what practices CardRatings implements to ensure your information is safe and protected. 
 
-CardRatings does not require you to create an account or share any personally identifiable information in order to personally use the website www.CardRatings.com (the “Website”). By visiting, using and/or submitting information to the Website you indicate your agreement with this Privacy Policy and CardRatings' Terms of Use. 
+CardRatings does not require you to create an account or share any personally identifiable information in order to personally use the website www.CardRatings.com (the "Website"). By visiting, using and/or submitting information to the Website you indicate your agreement with this Privacy Policy and CardRatings' Terms of Use. 
 
 If you choose to apply for a credit card or other offer from the Website, you are taken directly to the card issuer or other vendor's website, and you will provide your information directly to the other party. This privacy policy does not apply to the practices of such websites or any other companies that CardRatings does not own or control or people who CardRatings does not employ.
 
 **Your California Privacy Rights**
 
-California has passed legislation requiring certain specific disclosures be made available to California residents who use the Internet and provide information that may be used for marketing purposes. That legislation requires any business that discloses a customer’s personal information (as defined by the act) to any third party for direct marketing purposes to provide the customer a method for obtaining the names, addresses and certain other specified details of anyone who might have received that personal information. 
+California has passed legislation requiring certain specific disclosures be made available to California residents who use the Internet and provide information that may be used for marketing purposes. That legislation requires any business that discloses a customer's personal information (as defined by the act) to any third party for direct marketing purposes to provide the customer a method for obtaining the names, addresses and certain other specified details of anyone who might have received that personal information. 
 
 If you are a California resident you may request this information from CardRatings or any of its affiliates by writing to us via email at feedback@cardratings.com or you may send us correspondence at the following address: CardRatings.com, Attn: Privacy, 201 W. Broadway, Suite #G12 North Little Rock, AR 72114. CardRatings is not obligated to respond to more than one such request from a customer per calendar year.
 
@@ -24,13 +24,13 @@ If you are a California resident you may request this information from CardRatin
 
 _Information Automatically Logged_
 
-Like most standard website servers, we gather information automatically from your browser or Internet session and store it in log files. This information includes your internet protocol (IP) address, the browser type that you are using, Internet service provider (ISP), referring/exit pages, platform or operating system on your computer, date/time stamp, and numberof clicks. We use this non-personally identifiable information to analyze trends, administer the site, track user’s movement in aggregate, and gather broad demographic information for aggregate use. We do not link this automatically collected data to personally identifiable information.
+Like most standard website servers, we gather information automatically from your browser or Internet session and store it in log files. This information includes your internet protocol (IP) address, the browser type that you are using, Internet service provider (ISP), referring/exit pages, platform or operating system on your computer, date/time stamp, and numberof clicks. We use this non-personally identifiable information to analyze trends, administer the site, track user's movement in aggregate, and gather broad demographic information for aggregate use. We do not link this automatically collected data to personally identifiable information.
 
 CardRatings also utilizes third party software to collect anonymous, non-personally identifiable information. These vendors collect information such as your IP address and do not allow us to identify you personally. We do not share this non-identifiable information.
 
 _Cookies_
 
-A cookie is a piece of data stored on the user’s computer tied to information about the user.We only use cookies in the polling section of our forums on our Website. Our site uses cookies to ensure the integrity of our polls. Cookies prevent participants in our poll from voting more than once. This is the only instance on our site that cookies are utilized by CardRatings.
+A cookie is a piece of data stored on the user's computer tied to information about the user.We only use cookies in the polling section of our forums on our Website. Our site uses cookies to ensure the integrity of our polls. Cookies prevent participants in our poll from voting more than once. This is the only instance on our site that cookies are utilized by CardRatings.
 
 This privacy policy covers the use of cookies by CardRatings only. Some of our business partners use cookies on our Website (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. You may disable or reject cookies if your browser permits. Please be advised that this may prevent you from accessing certain features of the Website.
 
@@ -40,11 +40,11 @@ _Registration Forms_
 
 Registration forms found on the Website, such as the forum registration collect information such as user name and e-mail address, and, in the case of the newsletter, only requires an e-mail address. Contact information from the registration forms is used to deliver our newsletter, which is usually done on a monthly basis, and for purposes of allowing users to post on our forum. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
 
-_Public Forums and Cardholders’ Card Review Section_
+_Public Forums and Cardholders Card Review Section_
 
-This Website offers a message board and a cardholders’ card review section, each under the Forum tab of the Website. Please remember that any information that is disclosed in these areas becomes public information, and you should exercise caution when deciding to disclose your personal information. Any information posted on the message board or the cardholders’ card review section is subject to CardRatings’ Terms of Use. Anonymous posts are welcome. If you choose to submit, post or transmit information through CardRatings' forums, CardRatings will collect the information as provided by you. CardRatings retains this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law and pursuant to CardRatings’ Terms of Use.
+This Website offers a message board and a cardholders card review section, each under the Forum tab of the Website. Please remember that any information that is disclosed in these areas becomes public information, and you should exercise caution when deciding to disclose your personal information. Any information posted on the message board or the cardholders card review section is subject to CardRatings Terms of Use. Anonymous posts are welcome. If you choose to submit, post or transmit information through CardRatings' forums, CardRatings will collect the information as provided by you. CardRatings retains this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law and pursuant to CardRatings Terms of Use.
 
-See CardRating’s Terms of Use for specific terms regarding user-generated content.
+See CardRating's Terms of Use for specific terms regarding user-generated content.
 
 **Use of Information**
 
@@ -86,21 +86,22 @@ Since CardRatings does not collect sensitive personal data, it does not encrypt 
 
 **Choice/Opt-Out**
 
-_Personally Identifiable Information – Opting out:_
+_Personally Identifiable Information' Opting out:_
 
 Our Website provides users the opportunity to opt-out of receiving the e-mail newsletter as well as promotional/marketing information from us. If you no longer wish to receive information from CardRatings, you may opt-out by following the instructions included with each mailing, or, you may write to us at CardRatings.com, Attn: Newsletter Unsubscribe, 201 W. Broadway, Suite #G12 North Little Rock, AR 72114 to opt-out.
 
 When you register for our newsletter or to make postings on our forum, you may receive responses to customer support, e-mail acknowledgments, and emails regarding media inquires. To opt out of receiving these communications, you must opt out of being a registered user.
 
-_Non-Personally Identifiable Information – Opting out:_
+_Non-Personally Identifiable Information' Opting out:_
 
 As noted above, our Website collects non-personally identifiable information about your website activities using cookies and other tracking devices. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser. Blocking cookies may result in a lower quality experience for you while you are visiting the Website.
 
-**Children’s Privacy**
+**Children's Privacy**
 
-In compliance with the Children’s Online Privacy Protection Act (COPPA), CardRatings is not structured to attract children. Accordingly, we do not intend to collect personally identifiableinformation from anyone we know to be under 13 years of age.
+In compliance with the Children's Online Privacy Protection Act (COPPA), CardRatings is not structured to attract children. Accordingly, we do not intend to collect personally identifiableinformation from anyone we know to be under 13 years of age.
 
-**Correcting/Updating/Deleting/Deactivating Personal Information**  
+**Correcting/Updating/Deleting/Deactivating Personal Information**
+
 You may at any time change your information or opt-out of CardRating's use of your personally identfiable information by contacting us by e-mail at feedback@cardratings.com or by mail at CardRatings.com, Attn: Privacy, 201 W. Broadway, Suite #G12 North Little Rock, AR 72114.
 
 **Changes to Privacy Policy**
