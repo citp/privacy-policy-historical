@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rsmart.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620184620id_/http%3A//www.rsmart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsmart.com privacy policy that was archived on 2009-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091004025248id_/http%3A//www.rsmart.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | rSmart
+# Privacy Policy | rSmart: Open source service provider for the Sakai LMS and Kuali Financial System
 
 rSmart recognizes and respects the privacy interests of its users. rSmart is committed to protecting that privacy and keeping users informed about our privacy policy. 
 
