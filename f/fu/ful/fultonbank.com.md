@@ -1,62 +1,89 @@
-> *The following text is extracted and transformed from the fultonbank.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616105135id_/http%3A//www.fult.com/privacy_prin.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fultonbank.com privacy policy that was archived on 2009-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091005010538id_/http%3A//www.fult.com/privacy_prin.asp) for the most accurate reproduction.*
 
 # Fulton Financial Corporation
 
-Fulton Financial Corporation ("FFC") is a financial holding company headquartered in Lancaster, Pennsylvania and engaged, through its banking and other subsidiaries, in the business of providing financial services to customers located primarily in Pennsylvania, New Jersey, Maryland, Delaware, and Virginia. FFC's banking subsidiaries include: Fulton Financial Advisors, N.A., Lancaster, Pennsylvania; Fulton Bank, Lancaster, Pennsylvania; FNB Bank, N.A., Danville, Pennsylvania; Lafayette Ambassador Bank, Easton, Pennsylvania; Swineford National Bank, Middleburg, Pennsylvania; Skylands Community Bank, Hackettstown, New Jersey; The Bank, Woodbury, New Jersey; Hagerstown Trust Company, Hagerstown, Maryland; The Peoples Bank of Elkton, Elkton, Maryland; Delaware National Bank, Georgetown, Delaware; The Columbia Bank, Columbia, Maryland. FFC's non-banking subsidiaries include: Fulton Life Insurance Company; Fulton Insurance Services Group, Inc.; Dearden, Macguire, Weaver and Barrett, Inc.; CW and Company of Virginia, d/b/a Real Estate Investment Protection Agency; Resource Service Corporation; Bankers Insurance, LLC; Mortgage Resources, LLP.  When used in these Privacy Principles, the terms "we," "our" and "us" refer to any one or more of FFC and its banking and other subsidiaries with which you maintain or have maintained account relationships or through which you have completed any financial transactions. The term "our affiliates" refers to any one or more of FFC and its banking and other subsidiaries with which you do not have an account or other relationship. The term customer refers, and these Privacy Principles apply only to individuals.
+**About Us**
 
-**The Importance of Trust and Privacy**
+Fulton Financial Corporation (FFC) is a financial holding company headquartered in Lancaster, Pennsylvania. We are engaged, through our banking and other subsidiaries, in the business of providing financial services to customers located primarily in Pennsylvania, New Jersey, Maryland, Delaware and Virginia. FFC's banking subsidiaries include: Fulton Bank, N.A., Lancaster, Pennsylvania; Fulton Financial Advisors, N.A., Lancaster, Pennsylvania; FNB Bank, N.A., Danville, Pennsylvania; Lafayette Ambassador Bank, Easton, Pennsylvania; Swineford National Bank, Middleburg, Pennsylvania; Skylands Community Bank, Hackettstown, New Jersey; The Bank, Woodbury, New Jersey; Delaware National Bank, Georgetown, Delaware; The Columbia Bank, Columbia, Maryland. FFC's non-banking subsidiaries include: Fulton Life Insurance Company; Fulton Insurance Services Group, Inc.; Dearden, Maguire, Weaver and Barrett, Inc.; CW and Company of Virginia, d/b/a Real Estate Investment Protection Agency; Resource Service Corporation; Bankers Insurance, LLC; Mortgage Resources, LLP.
 
-In order to fulfill our mission of creating financial success for our customers, we recognize that it is essential that we maintain the trust placed in us by our customers. We understand and respect, as we have for many years, our customers' expectations that we will safeguard and appropriately use the information our customers have shared with us. We recognize that satisfying those expectations is an important cornerstone in building and preserving our customers' trust in us. With that in mind, we have adopted the following Privacy Principles. These Principles represent our commitment to our customers concerning how we will collect, use and maintain the information our customers choose to share with us. We will collect, use and maintain information about our customers only in compliance with applicable state and federal law.
+**Terminology Used in This Notice**
 
-**Collection and Use of Customer Information**
+The term "our affiliates" refers to any one or more of FFC and its banking and non-banking affiliates (companies related to FFC by common ownership or control). The terms "we," "our" and "us" refer to each and all of FFC and its affiliates. The terms "you" and "your" refer to individuals who have a relationship with one or more of us. The term "nonpublic personal information" refers to nonpublic information about you that we obtain in connection with providing a financial product or service to you. For example, nonpublic personal information includes information regarding your account balance, payment history and overdraft history. The term "nonaffiliated third parties" refers to companies, other than our affiliates, that we do not own or control. 
 
-We will collect and use information about our customers only where we reasonably believe the information will be necessary or useful to provide to our customers the products and services they request from us, as well as to help us identify new opportunities to provide products, services and information to help our customers achieve financial success. The information we collect and use about our customers helps us to maintain the security of our customers' accounts with us, improve the customer service we provide, and operate more efficiently, so we can keep the cost of the products and services our customers obtain from us low.
+**Why We Collect Information About You**
 
-**Accuracy of Customer Information**
+We collect and use information about you only where we reasonably believe the information will be necessary or useful in providing you with the products and services you request from us, as well as to help us identify new opportunities to provide products, services and information to help you achieve financial success. The information we collect and use about you helps us to maintain the security of your accounts with us, improve the customer service we provide you, and operate more efficiently.
 
-The accuracy of the information we collect and maintain is important both to us, and to our customers. We have established procedures which we believe reasonably ensure that customer information is accurate, current and complete, consistent with the intended use of the information. We will respond promptly to requests to correct any information which is inaccurate.
+**How We Protect the Information We Collect**
 
-**Employee Access to Information**
+We take great care to safeguard the information we collect and use about you. We permit access to the nonpublic personal information we collect about you to only those employees who need to know that information to provide products or services to you. We maintain physical, electronic and procedural safeguards that comply with federal standards to guard your nonpublic personal information. 
 
-Our Code of Conduct sets forth our fundamental expectations concerning access to, and the proper use of customer information by our employees. Employees who violate our Code of Conduct are subject to disciplinary action. We have also established security and other procedures which we believe are reasonably designed to limit our employees' access to customer information to only that information necessary to perform their job functions. We provide training to our employees concerning the proper use of our customers' information and the security and other procedures we use to safeguard that information.
+**Categories of Information We Collect**
 
-**Confidentiality and Security of Customer Information**
+We collect nonpublic personal information about you from the following sources:
 
-We employ various physical, electronic and procedural safeguards which we believe reasonably protect the confidentiality and security of the information we collect and maintain concerning our customers.
-
-**Information We are Permitted to Share**
-
-**With Our Affiliates.** As we pursue our mission to create financial success for our customers, we may, as permitted by applicable law, from time to time share with one or more of our affiliates information concerning our experience and transactions with our customers. This information could include, for example, a customer's account balance and history with us and the length of time a customer has had an account with us. Sharing this information enables us and our affiliates to provide to our customers the products and services they request from us, as well as to help us identify new opportunities to provide products, services and information to help our customers achieve financial success.
-
-**With Certain Nonaffiliated Third Parties.** We may, as permitted by applicable law, share information concerning our customers with third parties not affiliated with us:
-
-  * where our customer has authorized us to share the information; 
-  * where it is necessary to process or complete any transaction a customer has initiated with us or which affects any of a customer's accounts with us; 
-  * where the nonaffiliated third party has been engaged by us to assist us in servicing our customers accounts, such as in providing data processing support, account statement preparation and mailing or providing other services on our behalf;
-  * where we have entered into a joint marketing agreement with the nonaffiliated third party to offer certain financial products, such as insurance, to our customers;
-  * in order to verify the existence and condition of a customer's account for a third party, such as a credit bureau or a merchant in connection with a transaction involving our customer; or 
-  * where we believe the disclosure is required or permitted by law, such as in response to a subpoena or court order. 
+  * Information we receive from you on applications or other forms;
+  * Information about your transactions with us, our affiliates or others;and 
+  * Information we receive from a consumer reporting agency. 
 
 
 
-When we provide access to information concerning our customers to unaffiliated third parties, such as data processing companies, who assist us in providing products and services to our customers, or companies who have entered into joint marketing agreements with us to offer certain financial products, we require those third parties to agree to protect the confidentiality of our customers' information and we prohibit those nonaffiliated third parties from using our customers' information for any other purpose.
+**Categories of Affiliates to Whom We Disclose Information**
 
-**Your Right to Direct Us not to Share Certain Information**
+We may disclose nonpublic personal information about you to the following types of our affiliates: 
 
-**With Our Affiliates.** As we pursue our mission to create financial success for our customers, we may, as permitted by applicable law, from time to time share with one or more of our affiliates information concerning our customers, such as information that may be obtained from an account application or consumer credit report. Sharing this information enables us and our affiliates to provide to our customers the products and services they request from us, as well as to help us identify new opportunities to provide products, services and information to help our customers achieve financial success. If you do not want us to share this information with our affiliates, please send us your request in writing, and include your name, address and social security number, to:
-
-  * Fulton Financial Corporation
-  * Administrative Services Center
-  * 1695 State Street
-  * East Petersburg, PA 17520
-  * Attention: Privacy Request Coordinator
+  * Financial service providers, such as mortgage bankers, securities broker-dealers and insurance agents. 
 
 
 
-**Medical Information**
+**Categories of Information We Disclose to Affiliates**
 
-We recognize that our customers have an important and legitimate interest in the privacy of their medical and health information. Except as is necessary in connection with our insurance activities, we do not routinely collect or maintain medical or health information concerning our customers. When we do obtain medical or health information concerning a customer, we will use that information solely for the purposes for which that customer provided the information, and we will not disclose that information to our affiliates or to nonaffiliated third parties, unless the disclosure is necessary to process transactions or provide services the customer has requested or initiated, or the customer has authorized the disclosure.
+We may disclose the following kinds of nonpublic personal information about you to our affiliates: 
 
-**Amendments**
+  * Information we receive from you on applications or other forms, such as your name, address and social security number, and information we may receive from you in connection with credit, investment and insurance products, such as your assets and income;
+  * Information about your transactions with us, our affiliates or others, such as the types of accounts you have with us, your account balance, payment history, parties to the transaction and credit card usage; and
+  * Information we receive from a consumer reporting agency, such as your creditworthiness and credit history.
 
-Our commitment to our customers concerning the collection, use and maintenance of information our customers share with us is an enduring one. We may, however, from time to time determine that a change in applicable law, our organization or our business requires an amendment to these Privacy Principles. Accordingly, we may amend from time to time all or any part of these Privacy Principles. 
+
+
+We disclose this information to our affiliates for a number of reasons, such as to assist us in administering your accounts or to identify products or services our affiliates may offer that may be of interest to you. Our affiliates observe the same practices we do to protect the privacy of information about you.
+
+**Your Rights Concerning Certain Information We Disclose to Our Affiliates**
+
+We are permitted by law to share information about our experiences and transactions with you (such as your account balance and your payment history with us) with our affiliates. We may also share “additional information” about you (such as information we receive from you on applications or from credit reporting agencies) with our affiliates. You may direct us not to disclose this additional information to our affiliates (see **How To Opt** out below.) Even if you opt out, we are allowed by law to share our experiences and transactions with you with our affiliates. 
+
+**How Our Affiliates Use Information to Market to You**
+
+Our affiliates may use all of the nonpublic personal information we disclose to them about you to market their products and services to you. 
+
+**Your Right To Limit Marketing**
+
+You may direct us not to allow our affiliates to use your nonpublic personal information to market their products or services (see **How To Opt Out** below). Your choice to stop marketing from our affiliates will apply until you tell us to change your choice. 
+
+**How to Opt Out**
+
+You may direct us not to disclose additional information about you to our affiliates and not to allow our affiliates to use your nonpublic personal information that we disclose to them to market their products or services to you by filling out and detaching the bottom portion of this Notice and mailing it to the address indicated on the form. _If you have previously directed us not to disclose additional information to our affiliates or not to allow our affiliates to use nonpublic personal information disclosed to them to market their products and services to you, you need not complete and return the form again._
+
+**Joint Accounts**
+
+If you have a joint account, and any joint accountholder directs us not to disclose information and/or not to allow affiliates to use your nonpublic personal information to market, that direction will apply to all joint accountholders. 
+
+**Categories of Certain Nonaffiliated Third Parties to Whom We Disclose Information and the Categories of Information We Disclose**
+
+We may disclose nonpublic personal information about you to certain nonaffiliated third parties that perform services or functions on our behalf, such as financial data processing companies that process and maintain your account records for us, or to financial institutions with whom we have written agreements to jointly offer, endorse or sponsor a financial product or service, such as securities brokerage or insurance services.
+
+We may disclose the following nonpublic personal information about you to those nonaffiliated third parties mentioned above: 
+
+  * Information we receive from you on applications or other forms, such as your name, address and social security number, and information we may receive from you in connection with credit, investment and insurance products, such as your assets and income; 
+  * Information about your transactions with us, our affiliates or others, such as the types of accounts you have with us, your account balance, payment history, parties to the transaction and credit card usage; and
+  * Information we receive from a consumer reporting agency, such as your creditworthiness and credit history. 
+
+
+
+When we disclose nonpublic personal information about you under these circumstances, we require that the nonaffiliated third party agree not to disclose the information, or to use the information for any other purpose. 
+
+Other than as described in this section, we do not disclose any nonpublic personal information about you to any nonaffiliated third parties, except as permitted by law. We do not disclose or sell nonpublic personal information about you to nonaffiliated third parties for the purpose of marketing non-financial products or services. 
+
+**Information Concerning Former and Inactive Customers**
+
+If you happen to close your account(s) with us at some point in time, or if you become an inactive customer, we will adhere to the privacy policies and practices as described in this Notice. 
