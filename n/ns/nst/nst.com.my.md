@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the nst.com.my privacy policy that was archived on 2006-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061209163419id_/http%3A//www.nst.com.my/Current_News/nst/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nst.com.my privacy policy that was archived on 2009-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091004084432id_/http%3A//www.nst.com.my/Current_News/NST/corpprivacy) for the most accurate reproduction.*
 
-# New Straits Times - Malaysia News Online ......
+# NST Online
 
-  
+##### PRIVACY POLICY
+
 Thank you for visiting the NST Online. Your privacy is important to us and to enable us to protect your privacy in relation to our interactive services and products, we set out this statement an overview explaining our online information practices and the choices available to you in respect of the way your information may be collected and used at this website. Please note however, that this statement only applies to us and not to other companies’ or organization’s websites to which we link. 
 
 **The Information We Collect**  
