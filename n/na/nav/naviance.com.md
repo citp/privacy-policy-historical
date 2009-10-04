@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the naviance.com privacy policy that was archived on 2009-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090226221925id_/http%3A//www.naviance.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naviance.com privacy policy that was archived on 2009-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091004063433id_/http%3A//www.naviance.com/privacy.html) for the most accurate reproduction.*
 
-# Naviance | Manage. Communicate. Analyze. | CONTACT
+# Privacy
 
 Naviance is committed to protecting your privacy and the privacy of data you entrust to us. This Privacy Statement explains that commitment and how we collect, retain, and use personal information.
 
@@ -20,12 +20,12 @@ Our websites contain links to other websites. In addition, Naviance provides an 
 
 ## Opt-Out Policy
 
-Except with respect to necessary communications regarding Client services and accounts, Naviance offers Clients a means to choose how we may use information provided to contact you. If, at any time after registering for information or ordering Services, you change your mind about receiving information from us, send us a request specifying your new choice. Please send your request to [support@naviance.com](mailto:support@naviance.com).
+Except with respect to necessary communications regarding Client services and accounts, Naviance offers Clients a means to choose how we may use information provided to contact you. If, at any time after registering for information or ordering Services, you change your mind about receiving information from us, send us a request specifying your new choice. Please send your request to [support@naviance.com](mailto:support@naviance.com) .
 
 ## Correcting and Updating Your Information
 
-Clients and users may update or change their information by contacting us, or in some cases, Clients may update their own records by signing into the relevant service and updating that information on-line. For assistance, please send your request to [support@naviance.com](mailto:support@naviance.com).
+Clients and users may update or change their information by contacting us, or in some cases, Clients may update their own records by signing into the relevant service and updating that information on-line. For assistance, please send your request to [support@naviance.com](mailto:support@naviance.com) .
 
 ## Additional Information
 
-For general questions or comments regarding this Privacy Statement, please contact Naviance at [privacy@naviance.com](mailto:privacy@naviance.com).
+For general questions or comments regarding this Privacy Statement, please contact Naviance at [privacy@naviance.com](mailto:privacy@naviance.com) .
