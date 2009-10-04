@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gatorzone.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618184622id_/http%3A//www.gatorzone.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatorzone.com privacy policy that was archived on 2009-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091004083517id_/http%3A//www.gatorzone.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Statement @ GatorZone.com
+# Privacy Statement - GatorZone.com
 
 GatorZone.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the website www.gatorzone.com.
 
