@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bistromd.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619055128id_/http%3A//www.bistromd.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bistromd.com privacy policy that was archived on 2009-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091004110253id_/http%3A//www.bistromd.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Bistro M.D. Privacy Policy
 
@@ -24,6 +24,6 @@ We know that your privacy is important to you and we promise to respect it.  At
 
 **PRIVACY DISCLAIMER** \- We are committed to helping you enjoy a positive email or web site experience and safeguarding your privacy, however, we cannot guarantee the security of any information transmitted over the internet, and you do so at your own risk. Further, our marketing partners have separate privacy and data collection practices that may be different than ours. We are not responsible or liable for these independent information-handling policies, and we recommend using caution when providing personal information while interacting online. 
 
-  © Copyright 2008 BistroMD, Inc. All rights reserved.  
+  © Copyright 2005 - 2009 BistroMD, Inc. All rights reserved.  
   1575 Pine Ridge Road Suite #19,   
   Naples, FL  34109
