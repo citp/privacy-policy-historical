@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carecredit.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624122840id_/http%3A//www.carecredit.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carecredit.com privacy policy that was archived on 2009-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091005045742id_/http%3A//www.carecredit.com/privacy.html) for the most accurate reproduction.*
 
 # CareCredit® Healthcare Finance - Privacy Policy (Payment Plans for Cosmetic Surgery, Dental, Vision, Hearing, Veterinary & More)
 
