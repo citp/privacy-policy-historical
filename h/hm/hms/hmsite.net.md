@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hmsite.net privacy policy that was archived on 2009-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090519004802id_/http%3A//hmsite.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hmsite.net privacy policy that was archived on 2009-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091005180202id_/http%3A//hmsite.net/privacy.htm) for the most accurate reproduction.*
 
 # Free Web Hosting with PHP, MySQL, FTP, POP and CPanel | HMSite
 
