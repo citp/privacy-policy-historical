@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the military-today.com privacy policy that was archived on 2009-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090130051649id_/http%3A//www.military-today.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the military-today.com privacy policy that was archived on 2009-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091005024153id_/http%3A//www.military-today.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Military-Today.com
 
@@ -17,6 +17,8 @@
    **Cookies**
 
    A 'cookie' is a small data text file that is placed in your browser and allows Military-Today to recognize you each time you visit this site (customization etc). Cookies themselves do not contain any personal information, and Military-Today does not use cookies to collect personal information. Cookies may also be used by 3rd party content providers such as newsfeeds.
+
+   We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
    **Remember The Risks Whenever You Use The Internet**
 
