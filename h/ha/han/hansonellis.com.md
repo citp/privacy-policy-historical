@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hansonellis.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615180230id_/http%3A//www.hansonellis.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hansonellis.com privacy policy that was archived on 2009-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091006011159id_/http%3A//www.hansonellis.com/privacypolicy.html) for the most accurate reproduction.*
 
 # hansonellis:
 
