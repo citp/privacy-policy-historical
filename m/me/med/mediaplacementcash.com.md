@@ -1,0 +1,55 @@
+> *The following text is extracted and transformed from the mediaplacementcash.com privacy policy that was archived on 2009-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091005212046id_/http%3A//mediaplacementcash.com/static/legal/privacypolicy.html) for the most accurate reproduction.*
+
+# 
+
+**PRIVACY POLICY**
+
+**_IMPORTANT -- PLEASE READ_**
+
+Thank you for visiting our website. Global Cash Flow Network ("Company") respects your privacy and we want you to understand the ways in which we do and do not use the information that you transmit when you visit globalcashflownetwork.com ("Website"). Please read this privacy policy before using the Website or submitting any personal information. By using the Website, you are accepting the practices described in this privacy policy ("Privacy Policy"). This Privacy Policy is a part of and subject to the Terms of Use Agreement for this Website. Accordingly, when you use or access the Website, you agree that you have read, understand and agree that we can collect, use and disclose your information in accordance with this Privacy Policy. If you do not agree or are not comfortable with any part of this Privacy Policy, you should indicate that you do not agree and you should not use the Website.
+
+These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive, basis. You are encouraged to review the Privacy Policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
+
+Note: the privacy practices set forth in this Privacy Policy are for this Website only. If you link to other sites, please review the privacy policies posted at those sites. The Company is not responsible for the privacy practices or content of other sites.
+
+**Collection of Information**  
+The information gathered by the Company falls into two categories: 1) information supplied by visitors to the Website ("Personal Information") and 2) tracking information gathered as visitors navigate through the Website ("Tracking Information").
+
+**Use of Personal Information**  
+To make use of certain services on our Website, visitors may need to register and to provide certain information as part of any registration process. We may ask for your name, email address, birth date, gender, zip code, occupation, and like information. Personal Information collected on our Website is used primarily for the purpose it is requested. In particular, contact information such as name and e-mail addresses is used to provide users services they have chosen on this Website. This information may be used to create or maintain your Company account information. The information you provide also allows us to make the site more useful to you by providing information tailored to your individual needs. While actual use of any Personal Information may be quite conservative, it may be used for general solicitation by this Website or other entities it is sold to, rented or shared with.
+
+Additionally, should you use our service, we will collect financial and tax return information from you ("Account Information"). This information is only used to fulfill your specific request, unless you give us permission to use it in another manner. Credit card information is not usually known to this Website. In the event it is known or otherwise disclosed, this information is not disclosed to anyone except to processing agencies or law enforcement agencies or to use it in fraud investigation or litigation.
+
+You agree that any communication which, in the sole discretion of the Company, is deemed to be a testimonial, may be used by the Company for commercial purposes.
+
+**Use of Tracking Information**  
+This Website collects information about your computer, your email address and your IP address. You must assume that your web-viewing or web-use activity is monitored, tracked, and information collected. This information is not usually of a personal nature, but it may help define your viewing habits and product preferences even though the website may or may not have any idea who you are.
+
+"Cookies" is web jargon for bits of computer code placed on your hard drive. Websites use this to keep you 'logged in', to keep track of search criteria, to monitor use, to password protect use of the site or use of products sold by the site. Cookies can also be used to obtain information about your computer configuration or your use of your computer.
+
+Cookies can be used to electronically gather information about you. Again, it may or may not be personal information, but it is information and by using this site you are expressly giving permission to use 'cookies' and to use the information gathered from their use to benefit you.
+
+You acknowledge that Tracking Information may be shared with third-parties. We may also use non-personal information Tracking Information such as demographic data to analyze and develop our marketing strategy and to determine how you found out about us, your interests regarding our services and how to further improve our Website based upon user data. We may share Tracking Information with our partners and third-parties. We also may collect IP addresses to analyze trends, administer the Website, track user’s movement, and gather broad demographic information for aggregate use. You also give permission to collect, archive, retrieve, and use any information collected for product design, product offers to you, and general commercial solicitation purposes by this site or joint venture partners, affiliates, and marketing organizations.
+
+**Information Obtained From Visitor Interaction With Banners, Popups Or Site Advertisers**  
+Visitors clicking on banners or pop-ups or hyperlinked advertising, appearing on this Website must assume that information is being collected about them. The Website is not responsible for the use of information collected in such a fashion. Visitors must assume that (1) information will be collected, (2) that "cookies" will usually be placed on their hard drive, (3) that website does not have any control over what happens with this information, (4) that website takes no responsibility over the accuracy or content of advertisers, (5) that website is not responsible for downloads from third party advertisers that contain viruses or worms or other computer code that causes their computer or software harm, and (6) that website assumes no responsibility for the data that is garnered from the click itself or that the advertiser collects.
+
+**Bulletin Boards and Public Forums**  
+Visitors, who use bulletin boards or other public forums provided by this Website, such as chat rooms, do so at their own risk. This Website does not monitor these services or provide you protection in any manner from information you post publicly or share with anyone else via these services.
+
+**Spam**  
+By providing information to this Website that forms the basis of communication from you, such as an email address, you waive all rights to file complaints concerning unsolicited email or spam from this Website since, by providing such information, you agree to receive communication from the Company or other marketing organizations. However, all email communication with you shall contain an 'unsubscribe' link where you may notify the Website that you no longer wish to receive solicitations or information from the Website and your name will be removed from the general solicitation database.
+
+**Commitment to Data Security**  
+This Website takes measures to protect its data that contains information related to you. However, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information will not be intercepted while being transmitted to us over the Internet. As a consideration for viewing this Website, you waive any and all claims for damages of any nature against the Company and you further acknowledge that the Company is not responsible for damages to you arising from any misuse of your Personal Information.
+
+**Children**  
+This Website, software and services are intended for users ages eighteen and older. Individuals under eighteen years of age are not allowed to use the Website. If you are under the age of eighteen, you must leave this Website immediately. We will not knowingly collect or use Personal Information from individuals we know to be under the age of eighteen.
+
+**Disputes**  
+In the event of any dispute, claim or controversy (collectively "Dispute") between you and the Company, including but not limited to Disputes arising from: use of this Website; the Privacy Policy herein; the Terms of Use herein, any purchases made in connection with this Website; or any other claims whether in contract, tort or otherwise; you hereby consent and agree that such Dispute shall be settled by binding arbitration by the American Arbitration Association in accordance with the Arbitration Rules then in effect. The hearing shall be conducted in the City of Phoenix, Arizona. The decision of the arbitrator shall be final and binding upon all parties and any award of the arbitrator(s) may be entered as a judgment in any court of competent jurisdiction.
+
+The prevailing party shall be awarded all of the filing fees and related administrative costs. Administrative and other costs of enforcing an arbitration award, including the costs of subpoenas, depositions, transcripts and the like, witness fees, payment of reasonable attorney's fees, and similar costs related to collecting an arbitrator's award, will be added to, and become a part of, the amount due pursuant to this provision. Any questions involving contract interpretation shall use the laws of Arizona.
+
+**Questions, Comments or Reports of Incidents**  
+You may direct questions, comments or reports to: support@globalcashflownetwork.com, or call us directly at 1-(800)-719-8270 or via Fax at (480) 967-2377. 
