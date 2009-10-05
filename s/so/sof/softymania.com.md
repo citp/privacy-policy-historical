@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softymania.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525193526id_/http%3A//softymania.com/101.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softymania.com privacy policy that was archived on 2009-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091005063217id_/http%3A//softymania.com/101.html) for the most accurate reproduction.*
 
 # Softymania.com - Privacy Policy » Softymania. Full Software. Graphics. Games. Movies. More...
 
