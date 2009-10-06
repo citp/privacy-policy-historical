@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamesvillas.co.uk privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617115454id_/http%3A//www.jamesvillas.co.uk/privacypolicy.cfm%3FCTA%3Dhomepage_footer_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamesvillas.co.uk privacy policy that was archived on 2009-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091006120351id_/http%3A//www.jamesvillas.co.uk/privacypolicy.cfm) for the most accurate reproduction.*
 
 # James Villa Holidays Privacy Policy
 
