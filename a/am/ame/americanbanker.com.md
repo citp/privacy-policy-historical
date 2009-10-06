@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanbanker.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422045944id_/http%3A//www.americanbanker.com/pagedisplay.html%3Fpagename%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanbanker.com privacy policy that was archived on 2009-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091006234305id_/http%3A//www.americanbanker.com/aboutus/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - American Banker
 
@@ -159,5 +159,5 @@ The personal information you provide to purchase American Banker, including your
 
 ## OTHER USEFUL LINKS
 
-[Subscriber Agreement & Terms of Use](https://web.archive.org/pagedisplay.html?pagename=subscriptionagreement)  
+[Subscriber Agreement & Terms of Use](https://web.archive.org/aboutus/subscriptionagreement.html)  
 
