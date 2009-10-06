@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blue-ex.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623062322id_/http%3A//www.blue-ex.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blue-ex.com privacy policy that was archived on 2009-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091006022452id_/http%3A//blue-ex.com/privacy.php) for the most accurate reproduction.*
 
 # Blue EX Couriers - benefits delivered ::: Privacy
 
