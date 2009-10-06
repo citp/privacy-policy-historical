@@ -1,72 +1,51 @@
-> *The following text is extracted and transformed from the dunkinathome.com privacy policy that was archived on 2008-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081229233522id_/http%3A//www.pg.com/privacy/english/privacy_notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dunkinathome.com privacy policy that was archived on 2009-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091006040035id_/http%3A//www.dunkinathome.com/privacy.aspx) for the most accurate reproduction.*
 
-# Procter & Gamble Privacy Notice
-
-Information We Collect                                                                                                                                                                                                                      [Click here](https://web.archive.org/privacy/english/privacy_statement.html#tab2) for more information 
-
-  * We collect information about you from a variety of sources, including:
-
-
-  * Information we collect from you directly.
-  * Information we collect about you when you visit our site, use our services, or view our online advertisements.
-  * Information we collect about you from other sources, such as commercially available sources.
-
-
-  * All the information we collect about you may be combined to help us tailor our communications to you and to develop world-class products and services.
+# Dunkin' Donuts Coffee | Privacy Policy
 
   
   
-Uses / Information Sharing                                                                                                                                                                                                           [Click here](https://web.archive.org/privacy/english/privacy_statement.html#tab3) for more information 
-
-  * We use the information we collect to provide the products and services you request, to tell you about other products and services offered by P&G, and to manage our sites and services.
-  * In general, we do not share your personal information with third-party marketers, unless we have asked for and obtained your explicit consent. 
-  * We may share your information: 
+**THE J.M. SMUCKER COMPANY**  
+**Privacy Policy Statement**   
 
 
-  * With our third-party service suppliers, including those who work on behalf of P&G and our business partners to send you joint communications that we hope you find of interest.
-  * If a P&G brand is sold to another company.
-  * To protect and defend the right and property of P&G (including enforcing our Terms and Conditions).
-  * When required by law, and / or public authorities.
+This is the Web site of The J.M. Smucker Company.
 
-  
-  
-Your Choices                                                                                                             [Click here](https://web.archive.org/privacy/english/privacy_statement.html#tab4) for more information 
+Our postal address is:  
+1 Strawberry Lane  
+Orrville, Ohio 44667
 
-  * We give you choices about how we communicate with you.   
+We can be reached via [e-mail](http://www.smuckers.com/contact/default.aspx) or by telephone at 1-330-682-3000.
 
-  * You can stop receiving promotional email or postal communications from a particular P&G brand or program through this Privacy Notice. Please [click here](https://web.archive.org/privacy/contact_us/privacy_country_list.html) to select your country and learn how to complete your request.  
+For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
 
-  * We take steps to keep your personal information accurate. You can view, correct, or update the contact information you provide P&G.   
+We collect the following information from visitors to our Web site:
 
-  * [Click here](https://web.archive.org/privacy/contact_us/privacy_country_list.html) to select your country and learn how to access and update the contact information you provided P&G. 
+  1. e-mail addresses of those who communicate with us via e-mail
+  2. aggregate information on what pages consumers access or visit
+  3. user-specific information on what pages consumers access or visit, and
+  4. information volunteered by the consumer, such as survey information and/or site registrations.
 
 
 
-Important Information
+**SURVEY RESPONSE USAGE**  
+The survey information we collect is used to improve the content of our Web page and may be used by us to contact consumers for marketing purposes. We do not share survey answers with other organizations for commercial purposes. If you do not want to receive e-mail from us in the future, please tell us so in an e-mail message to the above address.
 
-  * P&G is committed to working with consumers to obtain a fair resolution of any complaint or concern about privacy.
-  * P&G complies with country data protection laws.
-  * We cooperate with country data protection authorities if they believe a privacy problem has occurred.
-  * We participate in the US Council of [Better Business Bureau's (BBB)](https://www.bbb.org/online/consumer/cks.aspx?ID=292000103) Accredited Business Program.
+**VISITOR E-MAIL USAGE**  
+From time to time, we make the e-mail addresses of those who visit our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please tell us so in an e-mail message to the above address.
 
+**ONLINE CUSTOMER E-MAIL USAGE**  
+From time to time, we make our online customer e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please tell us so in an e-mail message to the above address.
 
+**POSTAL ADDRESS USAGE**  
+If you supply us with your postal address online you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please tell us so in an e-mail message to the above address. Also you may receive mailings from other reputable companies. You can, however, have your name and postal address put on our do-not-share list by sending e-mail to us at the above address. Please provide us with your exact name and address. We will be sure your postal address is removed from the list we share with other organizations.
 
-| 
+**TELEPHONE NUMBER USAGE**  
+Persons who supply us with their telephone numbers online may receive telephone contact from us with information regarding orders they have placed online. Please provide us with your correct phone number. You can, however, have your name and phone number put on our do-not-share list by telling us so in an e-mail message to the above address. We will be sure your phone number is removed from the list we share with other organizations.
 
-How to Contact Us
+**A SPECIAL NOTE TO PARENTS:**  
+We respect the privacy of all of our online users, especially children. We do not intend to collect personally identifiable information from children under 13. Our policy is intended to adhere to the Children's Advertising Review Unit (CARU) privacy guidelines.
 
-  * To contact us with a question [click here](https://web.archive.org/privacy/contact_us/privacy_country_list.html) (for country specific addresses)
-  
+We encourage parents to monitor, supervise and join their children in online activities.
 
-  * Or write to us at:  
-P&G Global Privacy Team  
-PO Box 599  
-Cincinnati, OH 45202   
-USA
-  
-
-  * To read our full Consumer Privacy Statement [click here.](https://web.archive.org/privacy/english/privacy_statement.html)
-  * To read our Global Privacy Policy [click here.](https://web.archive.org/company/our_commitment/privacy_policy/privacy_policy.shtml)
-  * [Click here ](https://web.archive.org/privacy/english/privacy_faq.html) to view Answers to Frequently Asked Questions
-
-
+® The J.M. Smucker Company  
+With a name like Smucker's, it has to be good.®
