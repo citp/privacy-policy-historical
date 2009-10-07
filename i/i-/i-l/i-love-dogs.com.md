@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i-love-dogs.com privacy policy that was archived on 2008-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080915034259id_/http%3A//www.i-love-dogs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-love-dogs.com privacy policy that was archived on 2009-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091007220734id_/http%3A//i-love-dogs.com/privacy.html) for the most accurate reproduction.*
 
 # I-Love-Dogs.com Privacy Policy
 
