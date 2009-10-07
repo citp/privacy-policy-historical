@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viraladsunleashed.com privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428002727id_/http%3A//www.viraladsunleashed.com/privacy.policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viraladsunleashed.com privacy policy that was archived on 2009-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091008001020id_/http%3A//www.viraladsunleashed.com/privacy.policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
