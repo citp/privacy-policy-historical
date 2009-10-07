@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the binglee.com.au privacy policy that was archived on 2009-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090324065606id_/http%3A//binglee.com.au/Page/Privacy%2BPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binglee.com.au privacy policy that was archived on 2009-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091007161238id_/http%3A//www.binglee.com.au/Page/Privacy%2BPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Bing Lee
 
@@ -9,12 +9,6 @@ The privacy of your personal information has always been important to us at Bing
 ## Our Privacy Policy 
 
 This Privacy Policy sets out how we manage your personal information. It also describes, in general terms, the types of personal information we hold, for what purposes and also sets out how that information is collected, used, stored and disclosed by us. Our Privacy Policy applies to all your dealings with Bing Lee whether through our stores, franchisees, warehouses or web sites. 
-
-## Security - Online Gift Card Purchase 
-
-We have security procedures in place to protect your personal information. We use the Secure Sockets Layer (SSL), an advanced security protocol that protects your credit card information and ensures secure online ordering. SSL internet connections are encrypted and thus protect all credit card ordering information, including your name, address and credit card number, so it can not be read in transit. We use secure technology, privacy protection controls and restrictions on employee access, to safeguard your personal information. 
-
-Any unwanted hardcopy (printed) personal information is disposed of via a professional security shredding/destruction service. Bing Lee does not accept responsibility for the security of information while it is being transmitted to us over the internet. 
 
 ## Collecting Your Personal Information 
 
