@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the parexel.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621202542id_/http%3A//www.parexel.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parexel.com privacy policy that was archived on 2009-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091009010141id_/http%3A//parexel.com/Privacy-Policy.html) for the most accurate reproduction.*
 
-# PAREXEL International - Privacy Policy
+# Privacy Policy - PAREXEL International
 
 **Privacy Commitment**   
 Your privacy is important to PAREXEL. To protect your privacy while you use our websites and let you know what types of information we are collecting and how we are using it, we have developed this Privacy Policy. As we update our services and technologies and as we expand or change our offerings, this Privacy Policy may change from time to time, so please check it periodically.
 
 **Your Personal Information and How We Use It  
-**PAREXEL will collect information through its websites that can identify you (if provided by you), such as your name, address, phone number, e-mail address, company name and position. PAREXEL International may use this information to respond to your requests for information, products or services. PAREXEL may also collect non-identifying information, such as information gathered through our weblogs and “cookies” (see below).
+**PAREXEL will collect information through its websites that can identify you (if provided by you), such as your name, address, phone number, e-mail address, company name and position. PAREXEL International may use this information to respond to your requests for information, products or services. PAREXEL may also collect non-identifying information, such as information gathered through our weblogs and "cookies" (see below).
 
 When you contact PAREXEL via its website to request or to access information, you are asked to provide personal information. By providing your personal information to PAREXEL via its website, you agree to receive communications from PAREXEL.
 
@@ -28,7 +28,7 @@ We may also receive IP addresses in the normal course of the operation of our we
 **Data Security**   
 PAREXEL maintains an appropriate level of physical, electronic and managerial procedures in order to protect the data that it collects from its website. This includes maintaining computer equipment, networks, programs and documentation to a high standard and restricting access to equipment and information to appropriate staff.
 
-**Children’s Privacy**   
+**Children's Privacy**   
 PAREXEL does not collect or maintain information at its websites from those it knows are under 13 years of age, and no parts of its websites are structured to attract anyone under 13.
 
 **Links to Other Websites**   
@@ -41,7 +41,7 @@ Our websites may contain links to other websites. Please keep in mind when you a
 To be removed from our contact lists, or to make a complaint or submit and inquiry, please write to PAREXEL at the following address:
 
 **PAREXEL International Corporation  
-Attn: Webmaster   
-200 West Street   
+Att: Webmaster   
+195 West Street   
 Waltham, MA 02451**  
-This Privacy Policy was last updated on June 8, 2007.
+This Privacy Policy was last updated on June, 8, 2007.
