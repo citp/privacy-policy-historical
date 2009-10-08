@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superjeweler.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620061100id_/http%3A//www.superjeweler.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superjeweler.com privacy policy that was archived on 2009-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091008225504id_/http%3A//www.superjeweler.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # superjeweler.com - protecting your personal information with VeriSign
 
