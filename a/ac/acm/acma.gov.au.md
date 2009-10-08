@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the acma.gov.au privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615154614id_/http%3A//www.acma.gov.au/WEB/STANDARD/1001/pc%3DPC_2830) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acma.gov.au privacy policy that was archived on 2009-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091008223138id_/http%3A//www.acma.gov.au/WEB/STANDARD/pc%3DPC_2830) for the most accurate reproduction.*
 
 # ACMA - Privacy notice
 
-All personal information collected by ACMA is protected by the _Privacy Act 1988_. We will only record your email address if you send us a message. Your personal information will be used for the purposes for which you have provided it and your email address will not be added to a mailing list unless you ask us to do so.  We will not use your personal information for any other purpose or disclose it to another person except where it is necessary for the performance of ACMA’s functions, where otherwise authorised or required by law or with your consent. 
+All personal information collected by the ACMA is protected by the _Privacy Act 1988_. We will only record your email address if you send us a message. Your personal information will be used for the purposes for which you have provided it and your email address will not be added to a mailing list unless you ask us to do so.  We will not use your personal information for any other purpose or disclose it to another person except where it is necessary for the performance of the ACMA’s functions, where otherwise authorised or required by law or with your consent. 
 
-**Note** : When you send ACMA email, or submit feedback using our feedback form, the content as it is transferred across the Internet may not be secure. Contact us by telephone, facsimile or post if you have concerns about the security of your message. 
+**Note** : When you send the ACMA email, or submit feedback using our feedback form, the content as it is transferred across the Internet may not be secure. Contact us by telephone, facsimile or post if you have concerns about the security of your message. 
 
 The staff who operate the ACMA website are subject to the Commonwealth _Privacy Act 1988_. This Act lays down strict privacy safeguards which Commonwealth Government departments and agencies must observe in handling personal information. More information about the Privacy Act can be obtained from the Privacy Commissioner's website at: [_http://www.privacy.gov.au/_](http://www.privacy.gov.au/). 
 
