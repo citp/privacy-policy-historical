@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devasp.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524151347id_/http%3A//www.devasp.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devasp.com privacy policy that was archived on 2009-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091008105136id_/http%3A//www.devasp.com/privacy.asp) for the most accurate reproduction.*
 
 # DevASP Privacy Policy
 
