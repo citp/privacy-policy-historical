@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the subaru.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608070714id_/http%3A//www.subaru.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subaru.com privacy policy that was archived on 2009-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091008180728id_/http%3A//www.subaru.com/company/privacy.html) for the most accurate reproduction.*
 
 # Subaru of America Company Privacy and Terms
 
