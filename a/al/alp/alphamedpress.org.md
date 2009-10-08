@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alphamedpress.org privacy policy that was archived on 2009-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090516033733id_/http%3A//www.alphamedpress.org/misc/privacypolicy.dtl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alphamedpress.org privacy policy that was archived on 2009-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091008162454id_/http%3A//www.alphamedpress.org/misc/privacypolicy.dtl) for the most accurate reproduction.*
 
 # AlphaMed Press -- Privacy Policy
 
