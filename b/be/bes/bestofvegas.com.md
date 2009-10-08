@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestofvegas.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618185601id_/http%3A//www.bestofvegas.com/pages/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestofvegas.com privacy policy that was archived on 2009-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091008042825id_/http%3A//www.bestofvegas.com/pages/Privacy_Policy) for the most accurate reproduction.*
 
 # Las Vegas Hotels, Vacations, Travel Deals & Show Tickets, Nevada
 
