@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the homefinder.com privacy policy that was archived on 2009-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090201054423id_/http%3A//www.homefinder.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homefinder.com privacy policy that was archived on 2009-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091008110135id_/http%3A//www.homefinder.com/company/privacy) for the most accurate reproduction.*
 
 # HomeFinder.com :: Company :: Privacy Policy
-
-[About Us](http://www.homefinder.com/company/about) [Agents & Brokers](http://www.homefinder.com/agents-and-brokers) [Our Network](http://www.homefinder.com/company/network) [Press](http://www.homefinder.com/company/press) [Terms of Use](http://www.homefinder.com/company/terms) [Privacy Policy](http://www.homefinder.com/company/privacy) [Careers](https://hostedjobs.openhire.com/epostings/jobs/submit.cfm?version=1&company_id=15937) [Contact Us](http://www.homefinder.com/company/contact)
 
 | 
 
@@ -50,6 +48,6 @@ HomeFinder.com, newspaper affiliates, business partners and other third parties 
 
 If you have any questions about this privacy statement, please [contact us](http://www.homefinder.com/company/contact).
 
-[^ Back to Top](http://www.homefinder.com/company/privacy#top)
-
-| 
+[^ Back to Top](http://www.homefinder.com/company/privacy#top)  
+  
+---|---
