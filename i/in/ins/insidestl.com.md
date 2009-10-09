@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidestl.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619034236id_/http%3A//www.insidestl.com/insideSTL/tabid/54/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidestl.com privacy policy that was archived on 2009-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091009150600id_/http%3A//www.insidestl.com/insideSTL/tabid/54/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # insideSTL
 
