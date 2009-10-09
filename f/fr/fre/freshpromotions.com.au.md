@@ -1,6 +1,35 @@
-> *The following text is extracted and transformed from the freshpromotions.com.au privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527235902id_/http%3A//freshpromotions.com.au/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshpromotions.com.au privacy policy that was archived on 2009-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091009133109id_/http%3A//www.freshpromotions.com.au/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Promotional Products, Promotional Items, Corporate Gifts - Fresh Promotions Australia
+
+  
+  
+  
+|   
+---  
+|  |  01 Oct 09  
+**Promotional Drink Coolers**  
+It's been the hottest September on record and naturally promotional products buyers' thoughts turn to insulated drink coolers. The range of promotiona...  
+---  
+| [ read more](https://web.archive.org/news/promotional-drink-coolers.html)  
+19 Sep 09  
+**Fresh Number 418**  
+Alexa, the international internet traffic and web ranking authority has listed Fresh Promotions as the 418th most popular site in Australia....  
+| [ read more](https://web.archive.org/news/fresh-number-418.html)  
+14 Sep 09  
+**Christmas Promo Gifts**  
+With the Christmas corporate gifts giving season upon us now if the time to start planning for your purchase of end of year promotional gifts...  
+| [ read more](https://web.archive.org/news/christmas-promo-gifts.html)  
+03 Sep 09  
+**Printed Hanes T Shirts**  
+The classic American T shirts have arrived! Screen printed Hanes promotional t shirts are made of the finest quality, 100% American cotton and are now...  
+| [ read more](https://web.archive.org/news/printed-hanes-t-shirts.html)  
+30 Aug 09  
+**Christmas Promotional Products**  
+It's already started, major companies organising their branded promotional products for the Christmas corporate gift giving season. As always the best...  
+| [ read more](https://web.archive.org/news/christmas-promotional-products.html)  
+|  |   
+| 
 
 **Fresh Promotions and Fresh Promotional Network Privacy Statement**
 
