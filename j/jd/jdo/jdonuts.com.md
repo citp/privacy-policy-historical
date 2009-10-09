@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jdonuts.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625131708id_/http%3A//www.jdonuts.com/2009/02/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jdonuts.com privacy policy that was archived on 2009-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091009191259id_/http%3A//www.jdonuts.com/2009/02/privacy-statement.html) for the most accurate reproduction.*
 
 # Mottekaero jDonuts: Privacy Statement
 
