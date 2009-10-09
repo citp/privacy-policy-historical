@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getrevising.co.uk privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626112935id_/http%3A//getrevising.co.uk/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getrevising.co.uk privacy policy that was archived on 2009-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091009044215id_/http%3A//getrevising.co.uk/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Get Revising
 
