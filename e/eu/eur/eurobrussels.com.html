@@ -1,12 +1,14 @@
-<!--The following is the downloaded HTML source of the eurobrussels.com privacy policy that was archived on 2009-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090617184951id_/http%3A//www.eurobrussels.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eurobrussels.com privacy policy that was archived on 2009-10-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091010043658id_/http%3A//www.eurobrussels.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><head>
 	  <title>EuroBrussels.com - Privacy policy</title>
 	  <base href="http://www.eurobrussels.com">
 	  <link href="/eurobrussels.css" rel="stylesheet" type="text/css">
 	  <link href="/eurobrussels_jobs.css" rel="stylesheet" type="text/css">
+	  <script type="text/javascript" src="jquery.js"></script>
 	  <script type="text/javascript" src="livesearch.js"></script>
+	  <script type="text/javascript" src="highlighted_job_infobox.js"></script>
 	  <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
 	  <link rel="icon" href="images/favicon.ico" type="image/x-icon">
 	  
@@ -34,7 +36,7 @@
 			  var adlZone     = 'others';
 			  var adlPro      = window.location.protocol == 'https:' ? 'https:' : 'http:';
 			  document.write('<'+'sc'+'ript type= "text/javascript" src="'+adlPro+'//js.adlink.net/js?lang=be&amp;s='+adlSite+'&amp;z='+adlZone+'&amp;d='+Math.floor(Math.random()*10000000000)+'"><\/'+'sc'+'ript>');
-			</script><script type="text/javascript" src="https://js.adlink.net/js?lang=be&amp;s=be.eurobrussels.en&amp;z=others&amp;d=1964720595"></script>
+			</script><script type="text/javascript" src="https://js.adlink.net/js?lang=be&amp;s=be.eurobrussels.en&amp;z=others&amp;d=6478889247"></script>
 			<!-- END AdLINK Media Settings - v1.1  -->
 
 		
@@ -105,9 +107,9 @@
 
 	  <div class="ebCategoryList" style="border-top: 0; padding-top: 4px;">
 		<ul>
-	 		<li><a href="http://www.brusselsjobs.com" title="Business, Secretarial, Office, Marketing, and IT Jobs in Brussels" target="_blank">Business, Secretarial, IT&gt;&gt;</a></li>
-	 		<li><a href="http://www.brusselslegal.com" title="Information about Legal Affairs in Brussels" target="_blank">Brussels Legal&gt;&gt;</a></li>
-	 		<li><a href="http://www.eurosciencejobs.com" title="European Science Research Jobs" target="_blank">Science Jobs&gt;&gt; <img alt="Eurobrussels Star Image" src="images/eb_star.gif"></a></li>
+	 		<li><a href="http://www.brusselsjobs.com" title="Business, Secretarial, Office, Marketing, and IT Jobs in Brussels" target="_blank"><span class="externalLink">Business, Secretarial, IT</span></a></li>
+	 		<li><a href="http://www.brusselslegal.com" title="Information about Legal Affairs in Brussels" target="_blank"><span class="externalLink">Brussels Legal</span></a></li>
+	 		<li><a href="http://www.eurosciencejobs.com" title="European Science Research Jobs" target="_blank"><span class="externalLink">Science Jobs </span></a></li>
 	 	</ul>
 	  </div>
 	</div>
@@ -139,9 +141,11 @@
 	<div style="margin-bottom: 10px;"></div>
 
 	<div class="sidebarInfoBox">
-	<h1><a href="jobs_law_firms_legal.php#promotion" title="Law Firm and Legal Organisation Profiles">Law Firms</a></h1>
+	<h1><a href="partners.php" title="EuroBrussels Partners - Top Organisations in European Affairs">Partners</a></h1>
 		<p>
-		<a href="jobs_law_firms_legal.php#mwes"><img src="images/McDWES.gif" alt="Law"></a><br>		</p>
+			<a href="jobs_law_firms_legal.php#latham" title="Latham &amp; Watkins"><img src="images/LathamWatkins_logo.gif" alt="Law"></a><br>		</p>
+		<p>
+			<a href="consultancies.php#hill" title="Hill &amp; Knowlton">  <img src="images/Hill_Knowlton.jpg" alt="Consultancies"></a>		</p>
 	</div>
 
   <div class="sidebarInfoBox">
@@ -167,7 +171,7 @@
   <div class="sidebarInfoBox">
   	<h1><a href="career_guide.php" title="Advance your career in EU and International Affairs">Career Guide</a></h1>
     <p>
-    	<img src="images/eb_people1.jpg" alt="Career Guide"><br> Control your career! <br> <a href="self_evaluation_guide.php">Self evaluation guide</a>  	</p>
+    	<img src="images/eb_woman_1438161.jpg" alt="Career Guide"><br> Pass the final test with our <a href="interview_guide.php">interview guide</a>  	</p>
   </div>
 
   <div class="sidebarInfoBox">
@@ -247,7 +251,7 @@
 </div>
 <div id="RightContent">
 	<div class="sidebarInfoBox" style="height:60px;overflow:visible;">
-		<h1>Search for EU Jobs</h1>
+		<h1><a href="job_search.php" title="Search for Jobs in Europe">Search for EU Jobs</a></h1>
 		<form method="post" action="/job_search.php"> <!-- Live search form -->
 		<p style="padding-top:10px;padding-bottom:0px;">
 		 	<input style="width:105px" id="liveSearchTextField" autocomplete="off" name="p_keyword" value="" type="text" onkeyup="showLiveSearchResult(this.value,event)">
@@ -258,38 +262,30 @@
 		</div>
 	</div>
 	<div class="sidebarInfoBox">
-		<h1><a href="consultancies.php" title="Profiles of EU Affairs Consultancies">Consultancies</a></h1>
+	<h1><a href="education.php" title="Education and Courses">Education &amp; Courses</a></h1>
 		<p>
-			<a href="consultancies.php#human">  <img src="images/HumDyn.jpg" alt="Consultancies"></a>		</p>
-	</div>
-	<div class="sidebarInfoBox">
-	<h1><a href="education.php" title="EU and International Affairs Relevant Education &amp; Courses">Education &amp; Courses</a></h1>
+			<a title="Maastricht University" href="count/UniMaasButtonCounter.php">	<img src="images/UniMaast_120x60.png" alt="Education &amp; Courses"></a><br><a title="Maastricht University" href="count/UniMaasButtonCounter.php">Maastricht University</a>		</p>
 		<p>
-			<a href="MBA_courses.php#cheung">	<img src="images/CheungKong120x60.jpg" alt="MBA Courses"></a>		</p>
+			<a title="Solvay Brussels School of Economics and Management" href="MBA_courses.php#solvay">	<img src="images/SolvayMBANew_120x60.gif" alt="MBA Courses"></a><br><a title="Solvay Brussels School of Economics and Management" href="MBA_courses.php#solvay">Solvay Brussels School of Economics and Management</a>		</p>
 	</div>
-	<div class="ebSkyscrAdBox">
-		
-		<table cellspacing="0" cellpadding="0" border="0" width="170" height="600"><tbody><tr>
-		<td valign="top" align="center" border="0" width="170" height="600">
-		<!-- BEGINN AdLINK Media AdTag - 160x600,120x600 - v1.1  -->
-		<div id="adl_multi-adsize">
-		<table cellspacing="0" cellpadding="0" border="0">
-		  <tbody><tr>
-		    <td valign="top">
-		      <script type="text/javascript">if (typeof getAdLinkAdTag =='function') getAdLinkAdTag( '160x600,120x600' );</script>
-		      <noscript>
-		        <a href="http://rd.adlink.net/be/jump/be.eurobrussels.en/others;sz=160x600,120x600;tile=2;ord=650905697226" target="_blank">
-		          <img src="http://rd.adlink.net/be/ad/be.eurobrussels.en/others;sz=160x600,120x600;tile=2;ord=650905697226?" border="0" alt="" />
-		        </a>
-		      </noscript>
-		    </td>
-		  </tr>
-		</tbody></table>
-		</div>
-		<!-- END AdLINK Media AdTag - 160x600,120x600 - v1.1  -->
-		</td></tr></tbody></table>
 
+	<!--div class="ebSkyscrAdBox">
+			</div-->
+
+	<div class="sidebarInfoBox">
+		<h1><a href="top_jobs.php" title="Top Jobs in  EU and International Affairs">Top Jobs</a></h1>
+		<div id="highlightedJobsInfoBoxContain">
+			<div id="highlightedJobsInfoboxWrapper" style="padding:0px;margin:0px">
+				<p id="highlightedJobsInfoboxImg" style="padding:5 5 0 5;margin:0px">
+				</p>
+				<p id="highlightedJobsInfoboxTxt" style="padding:0 5 0 5;margin:0px">
+				</p>
 			</div>
+		</div>
+		<p id="highlightedJobsInfoboxBtmText" style="padding:1 0 0 0;margin:0px;">
+			<a href="/send_highvis_job.php">Your job here</a>
+		</p>
+	</div>
 
 	<div class="sidebarInfoBox">
 		<h1><a href="newsletter.php" title="Subscribe to EuroBrussels' Jobs Newsletters and get jobs emailed to you">Free Newsletter</a></h1>
