@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the factoidz.com privacy policy that was archived on 2009-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090215215104id_/http%3A//factoidz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factoidz.com privacy policy that was archived on 2009-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091010101742id_/http%3A//factoidz.com/pages/privacy.php) for the most accurate reproduction.*
 
-# Factoidz | social knowledge
+# test
 
-## Factoidz Privacy Policy
+[](http://factoidz.com/)
 
 At Factoidz we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by Factoidz Inc. or its subsidiaries or affiliated companies (collectively, Factoidz’s “services”). In addition, where more detailed information is needed to explain our privacy practices, we post separate privacy notices to describe how particular services process personal information, which are accessible from the navigation bar to the left of this notice.
 
@@ -79,7 +79,7 @@ When you use Factoidz services, we make good faith efforts to provide you with a
 
 ### Enforcement
 
-Factoidz regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or Factoidz’s treatment of personal information by contacting us at contact@Factoidz.com. When we receive formal written complaints at this address, it is Factoidz’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Factoidz and an individual.
+Factoidz regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or Factoidz’s treatment of personal information by contacting us at contact@factoidz.com. When we receive formal written complaints at this address, it is Factoidz’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Factoidz and an individual.
 
 ### Changes to this policy
 
