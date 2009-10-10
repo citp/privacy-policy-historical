@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iie.org privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628160048id_/http%3A//iie.org/Content/NavigationMenu/Programs7/IIE_Copyright%2C_Privacy%2C_Terms_and_Conditions/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iie.org privacy policy that was archived on 2009-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091010221654id_/http%3A//www.iie.org/Content/NavigationMenu/Programs7/IIE_Copyright%2C_Privacy%2C_Terms_and_Conditions/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # IIE | Privacy Policy
 
