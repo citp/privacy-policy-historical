@@ -1,79 +1,156 @@
-> *The following text is extracted and transformed from the anime-expo.org privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913223616id_/http%3A//www.anime-expo.org/convention-info/attendee/rules-policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anime-expo.org privacy policy that was archived on 2009-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091010220647id_/http%3A//www.anime-expo.org/general-information/policies-procedures/legal-and-privacy-policies) for the most accurate reproduction.*
 
-# Privacy Policy at Anime Expo®
+# Legal and Privacy Policies - Anime Expo® [AX] 2010
 
-[日本語](http://www.anime-expo.org/jp/convention-info/attendee/rules-policies/privacy-policy/)
+  
+**Contents:**
 
-Society for the Promotion of Japanese Animation ("SPJA")  
-Anime Expo® 2008  
-PRIVACY POLICY for ONLINE REGISTRATION
-
-The following is the Anime Expo® 2008 Online Registration Privacy Policy ("Privacy Policy") located within the website, www.anime-expo.org. If you have objections to the Privacy Policy, you should not register for Anime Expo® 2008 using the online registration form. This Privacy Policy does not apply to offline activities or other online activities associated with The Society for the Promotion of Japanese Animation’s (“SPJA”) Anime Expo® 2008 website. Using the online registration form is your agreement to the terms of this Privacy Policy.  
-The SPJA respects your privacy and is committed to protecting the personal information that you may provide while using the online registration form. This Privacy Policy is intended to provide you with notice of the following: 
-
-  * The web site covered by this Privacy Policy
-  * Our policy concerning children
-  * What personal information we collect from you
-  * Information on "cookies" and related technology
-  * How we use and share the information that we collect from you
-  * How you may access or change the information you have provided to us
-  * Information for persons outside the United States
-  * Our commitment to secure the personal information we have collected
-  * Notice of changes to the Privacy Policy
+  * Information we collect and how we use it
+  * Choices for personal information
+  * Information sharing
+  * Information security
+  * Data integrity
+  * Accessing and updating personal information
+  * Enforcement
+  * Changes to this Privacy Policy
+  * National Pre-Registration Sweepstakes Rules/Regulations
 
 
 
-**• The web sites and services covered by this Policy**
+  
+At Anime Expo® we recognize that privacy is important. This Privacy Policy applies to all of the products, services and websites offered by Anime Expo® or its subsidiaries or affiliated companies.
 
-The following website contains the online registration form to which this Privacy Policy applies:  
-www.anime-expo.org
+If you have any questions about this Privacy Policy, please feel free to contact us via our website or write to us at
 
-**• Our policy concerning children**
+> Legal Department-Privacy  
+>  c/o Anime Expo  
+>  1733 S. Douglass Road, Suite F  
+>  Anaheim, California, 92806  
+>  USA
 
-Because our registration form is directed to a general audience including children above the age of 5, SPJA will collect personal information. **If you are between the ages of 5 and 18, please let your parent or guardian know about this policy and get his or her permission before you give us any of your personal identifiable information.**
+### Information we collect and how we use it
 
-SPJA encourages parents and guardians to register on behalf of their children. If you are a parent or guardian who has discovered that your child has submitted his or her personal information without your permission or consent, SPJA will take reasonable efforts to remove that information from the registration database at your request. To request removal of your child’s information, please send us an e-mail via the contact form on the Anime Expo® 2008 website and be sure to include in your message the registration name that your child submitted. If your child has used your credit card on our web sites without your permission, contact us immediately.
+In order to provide our full range of services, we may collect the following types of information:
 
-**• What personal information we collect from you**
+  * **Information you provide** — When you register as an attendee for Anime Expo® or other Anime Expo® service or promotion that requires registration, we ask you for personal information (such as name, email address, physical address, etc.). For certain services, such as our pre-registration process, we also request credit card or other payment account information that we maintain in encrypted form on secure servers. We may combine the information you submit under your account with information from other Anime Expo® services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information.
+  * **Log information** — When you access Anime Expo® services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
+  * **User communications** — When you send email or other communications to Anime Expo® and its representatives, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
+  * **Affiliated sites** — We offer some of our services in connection with other web sites. Personal information that you provide to those sites may be sent to Anime Expo® in order to deliver the service. We process such information in accordance with this Privacy Policy. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies.
+  * **Links** — Anime Expo® may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our search technology, customized content and advertising.
+  * **Other sites** — This Privacy Policy applies to Anime Expo® services only. We do not exercise control over the sites displayed as search results or links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you.
 
-We do not collect any personal information from you, unless you provide it to us voluntarily. If you decide to provide us your personal information (e.g., name, email address, and mailing address), we will only collect the identifying personal information which is needed to complete the registration process for Anime Expo® 2008. Nonidentifying personal information, such as from a survey, is used to compile demographics for marketing purposes only. If you refuse to provide your personal information on the registration form, your attendee registration may not be completed and you will not be able to attend Anime Expo® 2008.
 
-**• Information on cookies and related technology**
 
-SPJA’s Anime Expo® 2008 website may contain "cookies." A cookie is a piece of data that is sent to your browser, which will store the cookie on your computer if your browser is enabled to accept cookies. Clear gifs (also known as "web beacons") assist in the delivery of cookies.
+Anime Expo® only processes personal information for the purposes described in this Privacy Policy and/or the supplementary privacy notices for specific services. In addition to the above, such purposes include:
 
-SPJA may use cookies, clear gifs, frames, server log analysis or other technology to customize your experience with our site. Personal information collected through the use of these technologies will be handled according to this Privacy Policy.
+  * Providing our services to users, including the display of customized content and advertising;
+  * Auditing, research and analysis in order to maintain, protect and improve our services;
+  * Ensuring the technical functioning of our site; and
+  * Developing new services
 
-Most internet browsers will allow you to erase cookies from your computer hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. You should refer to your browser instructions or "Help" screen to learn more about how to manage cookies. Please note, however, that if you block cookies, the online registration form may not function properly.
 
-**• How we use and share the information that we collect from you**
 
-Personal information which we collect for a particular purpose will only be saved and used for that purpose. For example, when you register online for an attendee badge, and unless you have given us permission to do otherwise, we will only collect and save the personal information you provided to us, including your billing and delivery information, in order to (1) complete the sale, (2) comply with tax and other applicable statutes, (3) maintain accurate business and financial records (in accordance with accepted standards), and (4) assist with customer service and returns.
+You can find more information about how we process personal information by referring to the supplementary privacy notices for particular services.
 
-When you have provided personal information to us for a particular purpose, we may disclose your information to other companies that we have engaged to assist us in fulfilling your request. This may include, but is not limited to, fulfillment houses, transaction managers, credit verification services, and other service providers. We may also disclose your personal information to law enforcement or other appropriate third parties in connection with criminal investigations, investigation of fraud, infringement of intellectual property rights, or other suspected illegal activities, or as otherwise may be required by applicable law, or in order to protect the legitimate legal and business interests of SPJA.
+Anime Expo® processes personal information on our servers in the United States of America and in other countries. In some cases, we process personal information on a server outside your own country. We may process personal information to provide our own services. In some cases, we may process personal information on behalf of and according to the instructions of a third party, such as our advertising partners.
 
-We send e-mail to our registered attendees who want to receive e-mail from us. However, if you don’t want to receive e-mail from us, you can "opt out" of receiving it. If you change your mind and wish to stop receiving e-mails from us, you may also choose to opt out by contacting us via the online contact form found within the Anime Expo® 2008 website. (Select the Registration Department)
+Back to Top
 
-Except as described in this policy, we will not give any of your personal information to any third party without your express approval, and the only personal information we will ask you if you want us to share with third parties is your name, your mailing address and e-mail address. We sometimes share general, demographic, or aggregated (not personal) information with third parties about our user base, but that information does not include any personal information.
+### Choices for personal information
 
-**• How you may access or change the information you have provided to us**
+When you sign up for a particular service that requires registration, we ask you to provide personal information. If we use this information in a manner different than the purpose for which it was collected, then we will ask for your consent prior to such use.
 
-If you change your mind and do not want to receive e-mails from us, you may send an e-mail via the Anime Expo® 2008 contact form. Subject to security and privacy concerns (e.g., regarding your credit card number), we will give you the ability to review, correct and/or update your information. If you choose to have your personal information removed from our active databases, we will do so within a reasonable time after your request and we will take reasonable steps to ensure that your personal data is not used (except as may be required by law) by SPJA after your notification to us.
+If we propose to use personal information for any purposes other than those described in this Privacy Policy and/or in the specific service privacy notices, we will offer you an effective way to opt out of the use of personal information for those other purposes. We will not collect or use sensitive information for purposes other than those described in this Privacy Policy and/or in the supplementary service privacy notices, unless we have obtained your prior consent.
 
-Removal of your personal information from our database will require the cancellation of your registration as the information you provide is used as a security measure to protect your registration from theft or other forms of fraud.
+Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Anime Expo® features and services may not function properly if your cookies are disabled.
 
-**• Information for persons outside the United States**
+You can decline to submit personal information to any of our services, in which case Anime Expo® may not be able to provide those services to you.
 
-By consenting to this policy, you confirm that your command and knowledge of English is sufficient to understand the terms and conditions set forth herein.
+Back to Top
 
-**• Our commitment to secure the personal information we have collected**
+### Information sharing
 
-While SPJA takes precautions against possible breaches in its websites and attendee databases, no web site or Internet transmission is completely secure. Consequently, SPJA cannot guarantee that unauthorized access, hacking, data loss, or other breaches will never occur. Your use of the SPJA sites and services is at your own risk.
+Anime Expo® only shares personal information with other companies or individuals outside of Anime Expo® in the following limited circumstances:
 
-Whenever you give SPJA sensitive or confidential information (for example, credit card numbers for purchases), SPJA will take commercially reasonable efforts to protect the information by establishing a secure connection with your web browser. Unless otherwise specified herein or on the site where you make a purchase, credit card numbers are used only for payment processing and are not retained for marketing purposes.
+  * We have your consent. We require opt-in consent for the sharing of any sensitive personal information.
+  * We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
+  * We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of Anime Expo®, its users or the public as required or permitted by law.
 
-**• Notice of changes to the Privacy Policy**
 
-SPJA reserves the right to change this Privacy Policy at any time by notification via e-mail of the existence of a new Privacy Policy and/or posting the new Privacy Policy on the SPJA sites. All changes to the Privacy Policy will be effective when posted, and your continued use of any SPJA site or service after the posting will constitute your acceptance of, and agreement to be bound by those changes.
 
-_Last Updated: July 7, 2007_
+If Anime Expo® becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy.  
+We may share with third parties certain pieces of aggregated, non-personal, non-personal information, such as the number of users who searched for a particular term, for example, or how many users clicked on a particular advertisement. Such information does not identify you individually.
+
+Please contact us at the address below for any additional questions about the management or use of personal data.
+
+Back to Top
+
+### Information security
+
+We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
+
+We restrict access to personal information to Anime Expo® employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+
+Back to Top
+
+### Data integrity
+
+Anime Expo® processes personal information only for the purposes for which it was collected and in accordance with this Privacy Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
+
+Back to Top
+
+### Accessing and updating personal information
+
+When you use Anime Expo® services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our services have different procedures to access, correct or delete users’ personal information. We provide the details for these procedures in the specific privacy notices or FAQs for these services.
+
+Back to Top
+
+### Enforcement
+
+Anime Expo® regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or Anime Expo®’s treatment of personal information by contacting us through this web site or by writing to us at
+
+> Legal Department-Privacy  
+>  c/o Anime Expo  
+>  1733 S. Douglass Road, Suite F  
+>  Anaheim, California, 92806  
+>  USA
+
+When we receive formal written complaints at this address, it is Anime Expo®’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between Anime Expo® and an individual.
+
+Back to Top
+
+### Changes to this Privacy Policy
+
+Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Privacy Policy changes). Each version of this Privacy Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Privacy Policy in an archive for your review.
+
+If you have any additional questions or concerns about this Privacy Policy, please feel free to contact us any time through this web site or at
+
+> Legal Department-Privacy  
+>  c/o Anime Expo  
+>  1733 S. Douglass Road, Suite F  
+>  Anaheim, California, 92806  
+>  USA
+
+Back to Top
+
+### National Pre-Registration Sweepstakes Rules/Regulations
+
+“National Pre-Registration Sweepstakes” NO PURCHASE NECESSARY to enter. Sweepstakes open to al legal residents of the 50 US States and D.C. age 18 or older. Subject to National Pre-Registration Sweepstakes Rules/Regulations.
+
+OFFICIAL RULES
+
+NO PURCHASE NECESSARY TO ENTER OR WIN. A PURCHASE WILL NOT IMPROVE YOUR CHANCES OF WINNING.
+
+  1. ELIGIBILITY: Anime Expo® Pre-Registration Sweepstakes (”Promotion”) is open to individual legal residents of the fifty (50) United States and the District of Columbia, 18 years of age or older at the time of entry. Employees of Society for the Promotion of Japanese Animation and Anime Expo® and Anime Expo® Official Partners, each of their respective affiliates, and each of their respective employees, directors, shareholders, officers, members, assigns, agents, judges, advertising and promotion agencies and persons residing in the same households of each of these individuals, whether related or not (”Released Parties”), are ineligible to enter or win. All applicable federal, state and local laws apply. Void where prohibited by law.
+  2. HOW TO ENTER: Complete the official attendee pre-registration form available at [www.anime-expo.org](http://www.anime-expo.org/). Click on “Register,” and follow the on-screen instructions to proceed. You must provide all information requested to receive an entry into the Sweepstakes. Sweepstakes begins at 12:00:01 AM (ET) on March 1, 2009, and ends at 11:59:59 PM (ET) on June 30, 2009 (”Promotion Period”). Limit one entry per person/household/email address/per day. In the event of a dispute over the identity of an online entrant, entry will be deemed submitted by the holder of the e-mail account. Use of automated devices not valid for entry. Entries become the exclusive property of Sponsor and will not be returned. 
+    * Registration requires an entry code. In the event a consumer purchases an pre-registration attendance without a code, or if a consumer would like to enter without purchasing a pre-registration attendance, a free code is available via a mail request to Anime Expo® 2009 Pre-Registration Sweepstakes, 1733 S. Douglass Road, Suite F; Anaheim, CA 92806.
+  3. SELECTION AND NOTIFICATION OF WINNERS: Monthly Prize Winners will be determined from all eligible entries received in a random drawing to be conducted on or about the end of each month by the Society for the Promotion of Japanese Animation the official judging organization (”Administrator”), whose decisions are final and binding on all matters relating to this Sweepstakes. Winner will be notified by e-mail. Odds of winning depend upon the number of eligible entries received.
+  4. PRIZES: A selection of prizes will include at least one or more of the following-Anime or Anime related DVD, Anime themed trading cards, GUNDAM models, apparel, Gaia Online promotional items, t-shirts and other assortment of anime prized goods.
+  5. PRIZE RESTRICTIONS: Sponsor or its representative reserves the right to substitute prize of equal or greater value in the event offered prize or any portion thereof becomes unavailable for any reason. No other substitution or transfer of prize permitted. If the actual value of the prize is less than the stated ARV, the difference will not be awarded. Any depiction of prize is for illustrative purposes only. Prize elements may not be separated. Sponsor responsible only for prize delivery; not responsible for prize utility, quality or otherwise. Winners are solely responsible for all applicable income taxes including federal, state, and local taxes on prize and any expenses not listed herein relating to acceptance and use of prize.
+  6. ADDITIONAL TERMS: By participating, a participant (and if less than the age of majority in his/her jurisdiction of primary residence, his/her parent or legal guardian) agrees (and agrees to confirm in writing if requested) to a) the Official Rules and the decisions of the Sponsor and judges, which shall be final and binding in all respects; and to b) release, discharge, indemnify and hold harmless the Released Parties and any others engaged in the development, production or distribution of promotion materials for this Promotion from any and all liabilities, claims and/or damages arising out of his/her/their participation in the Sweepstakes and/or the acceptance, possession, use or misuse of a prize. The Released Parties are not responsible for late, lost, illegible, incomplete, misdirected, garbled, undelivered or otherwise ineligible registrations, e-mail, messages and/or other transmissions related to this Promotion. The Released Parties shall not be responsible for typographical, human and/or other errors, or for any electronic, network, computer or other technical malfunctions. Proof of submitting entries will not be deemed to be proof of receipt by Sponsor. The Promotion is not affiliated, associated or endorsed by any other party. Sponsor may disqualify any participant if, in its sole discretion, it determines that said participant is attempting to undermine the legitimate operation of the Promotion by cheating, deception, or other unfair playing practices or intending to annoy, abuse, threaten or harass any other participants or Sponsor representatives. If for any reason this Promotion is not capable of running as planned, including, but not limited to, infection by computer virus, bugs, tampering, unauthorized intervention, fraud or any other causes beyond the reasonable control of Sponsor which corrupt or affect the administration, security, fairness, integrity or proper conduct of the promotion, then Sponsor reserves the right at its sole discretion to cancel, terminate, modify or suspend the Promotion and to a select winner from among all eligible, non-suspect entries received up to the time of such action. In the event that the Promotion has to be cancelled for any reason, a notice will be posted on the website and the prize will be awarded in a random drawing from among all eligible sweepstakes entries already received. Any attempt by a participant to deliberately damage any website or undermine the legitimate operation of the Promotion may be a violation of criminal and civil laws, and should such an attempt be made, the Sponsor/Administrator reserve the right to seek damages from any such participant to the fullest extent of the law. By entering, each participant (and if less than the age of majority, his/her parent or legal guardian) agrees that all issues and questions concerning the construction, validity, interpretation and enforceability of these Official Rules, participant’s rights and obligations, or the rights and obligations of the Sponsor in connection with the Promotion, shall be governed by, and construed in accordance with, the laws of the Florida, without giving effect to any choice of law or conflict of law rules (whether of the Florida or any other jurisdiction), which would cause the application of the laws of any jurisdiction other than the Florida. CAUTION: ANY ATTEMPT BY AN ENTRANT TO DELIBERATELY UNDERMINE THE LEGITIMATE OPERATION OF THIS SWEEPSTAKES IS A VIOLATION OF CRIMINAL AND CIVIL LAWS. SHOULD SUCH AN ATTEMPT BE MADE, SPONSOR RESERVES THE RIGHT TO SEEK DAMAGES FROM ANY SUCH INDIVIDUAL TO THE FULLEST EXTENT PERMITTED BY LAW.
+  7. WINNERS LIST: To obtain the names of Prize Winners, mail a self-addressed, stamped envelope to: Anime Expo® 2009 Pre-Registration Sweepstakes, 1733 S. Douglass Road, Suite F; Anaheim, CA 92806. Requests must be received by July 31, 2009.
+  8. ADMINISTRATOR: BAM! Marketing, Publicity & Promotions, 9740 Sepulveda Blvd., Suite 13; North Hills, CA 91343.
+
+
+
+Back to Top
