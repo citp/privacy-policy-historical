@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genealogybank.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616223745id_/http%3A//www.genealogybank.com/gbnk/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genealogybank.com privacy policy that was archived on 2009-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091010044443id_/http%3A//www.genealogybank.com/gbnk/information/privacy_policy.html) for the most accurate reproduction.*
 
 # GenealogyBank.com - Privacy Policy
 
