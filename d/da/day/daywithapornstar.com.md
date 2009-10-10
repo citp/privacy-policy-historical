@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daywithapornstar.com privacy policy that was archived on 2009-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090323054459id_/http%3A//www.brazzers.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daywithapornstar.com privacy policy that was archived on 2009-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091010201401id_/http%3A//www.brazzers.com/pp.html) for the most accurate reproduction.*
 
 # 
 
@@ -75,3 +75,7 @@ Each subscriber should carefully read each of the terms and conditions of member
 The website is owned and operated by Manster Media Group Inc. and Softmallorca. 
 
 **International Payment Processing:**
+
+  
+Cordiacon Developments Ltd (P.V), 12 BURLEIGH TERRACE, ST IVES, CAMBS, UNITED KINGDOM, PE27 5PH   
+Gilboa Limited PO 299, London, N19DX, United Kingdom 
