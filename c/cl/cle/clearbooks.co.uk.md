@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clearbooks.co.uk privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605063858id_/http%3A//www.clearbooks.co.uk/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearbooks.co.uk privacy policy that was archived on 2009-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091010114831id_/http%3A//www.clearbooks.co.uk/static/privacy) for the most accurate reproduction.*
 
 # Clear Books Privacy Policy
 
@@ -6,21 +6,21 @@ At Clear Books we recognise the importance of your privacy. This policy outlines
 
 Clear Books may be required to revise this Privacy Policy in the future to comply with any applicable European regulations, in order to utilise new technologies or to improve your Clear Books experience, so please check back periodically. 
 
-This Privacy Policy forms part of, and should be read in conjuction with, our Terms and Conditions. Please [click here](http://www.clearbooks.co.uk/static/terms/) to access our Terms and Conditions. 
+This Privacy Policy forms part of, and should be read in conjuction with, our Terms and Conditions. Please [click here](https://web.archive.org/static/terms/) to access our Terms and Conditions. 
 
 ## When you access Clear Books
 
-Clear Books uses [cookies](http://www.clearbooks.co.uk/static/privacy-terms/) to store and collect information about your usage of the Website in order to enhance your online experience and to help us improve the quality of our services. 
+Clear Books uses [cookies](https://web.archive.org/static/privacy-terms/) to store and collect information about your usage of the Website in order to enhance your online experience and to help us improve the quality of our services. 
 
-When you access Clear Books, your computer automatically sends us information such as the URL on our Website that you have visited, your [IP address](http://www.clearbooks.co.uk/static/privacy-terms/), your browser type and language, and the date and time of your request. 
+When you access Clear Books, your computer automatically sends us information such as the URL on our Website that you have visited, your [IP address](https://web.archive.org/static/privacy-terms/), your browser type and language, and the date and time of your request. 
 
 ## When you subscribe to Clear Books
 
 Your personal details will never be passed on to any other companies or third parties including affiliates and will never be added to any third party mailing lists or databases. 
 
-Clear Books collects [personal information](http://www.clearbooks.co.uk/static/privacy-terms/) when you register on the Website. Your information will be stored confidentially by us and only used by Clear Books in order to provide you with access to our products, services and information that we believe will interest you. 
+Clear Books collects [personal information](https://web.archive.org/static/privacy-terms/) when you register on the Website. Your information will be stored confidentially by us and only used by Clear Books in order to provide you with access to our products, services and information that we believe will interest you. 
 
-Clear Books may also use information about our users in statistical aggregate form. This is [non personal information](http://www.clearbooks.co.uk/static/privacy-terms/) and simply refers to information such as the number of registrations, traffic patterns and Website user trends. 
+Clear Books may also use information about our users in statistical aggregate form. This is [non personal information](https://web.archive.org/static/privacy-terms/) and simply refers to information such as the number of registrations, traffic patterns and Website user trends. 
 
 ## When you contact us
 
@@ -54,10 +54,10 @@ The data collection and usage practices of any third party linked to Clear Books
 
 ## Protecting your information
 
-Clear Books uses Fubra's secure server cluster situated in a secure data centre to protect all the information you provide us with. Fubra has invested heavily in equipment and highly qualified staff to ensure all information you enter is protected from access by any third party and only necessary and restricted access is available internally. We also protect all our connections to the Internet using various security measures including firewalls and regular security audits on all our servers. 
+Clear Books uses Fubra’s secure server cluster situated in a secure data centre to protect all the information you provide us with. Fubra has invested heavily in equipment and highly qualified staff to ensure all information you enter is protected from access by any third party and only necessary and restricted access is available internally. We also protect all our connections to the Internet using various security measures including firewalls and regular security audits on all our servers. 
 
 As required by law Fubra is registered on the public register of data controllers and store and process all data in accordance with all UK legislation. Fubra is registered with the following number: Z5193400 
 
 ## Contacting Clear Books
 
-If you have any questions about this privacy statement, the practices of this Website, or your dealings with this Website, please [contact us](http://www.clearbooks.co.uk/static/contact-us/).
+If you have any questions about this privacy statement, the practices of this Website, or your dealings with this Website, please [contact us](https://web.archive.org/static/contact-us/).
