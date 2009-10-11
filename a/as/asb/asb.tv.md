@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asb.tv privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620164852id_/http%3A//www.airshowbuzz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asb.tv privacy policy that was archived on 2009-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091011082422id_/http%3A//www.asb.tv/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | www.airshowbuzz.com
+# Privacy Policy | www.asb.tv
 
 **We know people rarely read the fine print, but we thought we’d post it anyway. Without breaking out your magnifying glass, we’ll zealously guard your personal information and we’ll never compromise your integrity, or ours.**
 
@@ -8,7 +8,7 @@
 
 **1\. Policy**
 
-Airshowbuzz, LLC ("ASB") has created this privacy policy (the “Policy”) to explain our privacy practices so that you will understand when and how personal information is collected, used, disclosed and protected with respect to this website (the "Site"). ASB respects the privacy of its users, and this Policy explains what information we collect on our Site and how we use such information. Please read this Policy carefully. In addition, please review the [Rules of Engagement](http://www.airshowbuzz.com/rules.php) posted at the Site, which governs your use of the Site. Your use of our Site indicates to us that you have read and accepted our privacy practices, as outlined in this Policy.
+Airshowbuzz, LLC ("ASB") has created this privacy policy (the “Policy”) to explain our privacy practices so that you will understand when and how personal information is collected, used, disclosed and protected with respect to this website (the "Site"). ASB respects the privacy of its users, and this Policy explains what information we collect on our Site and how we use such information. Please read this Policy carefully. In addition, please review the [Rules of Engagement](http://www.asb.tv/rules.php) posted at the Site, which governs your use of the Site. Your use of our Site indicates to us that you have read and accepted our privacy practices, as outlined in this Policy.
 
 **2\. Applicability**
 
@@ -35,7 +35,7 @@ We do not store any PI in cookies, but we may link the cookie to any information
 
 (i) Third parties involved in analyzing data, providing marketing assistance and providing customer service: These third parties may have access to our users' PI in order to provide these services to us on our behalf solely for such purposes.  However, they are not permitted to use PI for any other purpose. 
 
-(ii) Third party providers of products and services:  We may disclose PI to third parties so they can inform you about their products or services. If you do not wish to receive these types of third party communications, you can click [here](http://www.airshowbuzz.com/contact.php) and complete a form to tell us your preferences. While you may choose not to receive direct marketing information from third parties, you will continue to receive marketing, promotional, and other information from ASB.
+(ii) Third party providers of products and services:  We may disclose PI to third parties so they can inform you about their products or services. If you do not wish to receive these types of third party communications, you can click [here](http://www.asb.tv/contact.php) and complete a form to tell us your preferences. While you may choose not to receive direct marketing information from third parties, you will continue to receive marketing, promotional, and other information from ASB.
 
 (c) Other Third Parties: ASB does not rent, sell or otherwise disclose your PI to third parties unless disclosed herein, or at the time such information is collected, or unless you otherwise give consent, other than in the following limited circumstances:
 
@@ -61,4 +61,4 @@ By using the Site, you agree to the terms of this Policy. ASB reserves the right
 
 **9\. Contact Us**
 
-If you have any questions, comments or concerns about our Policy, please contact us at info@airshowbuzz.com. Or you can send us mail to: Airshowbuzz, LLC, 1420 Ambassador St., Los Angeles, CA 90035.
+If you have any questions, comments or concerns about our Policy, please contact us at [info@asb.tv](mailto:info@asb.tv "info@asb.tv"). Or you can send us mail to: Airshowbuzz, LLC, 1420 Ambassador St., Los Angeles, CA 90035.
