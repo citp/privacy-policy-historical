@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the ktbs.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420040404id_/http%3A//www.ktbs.com/layouts/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktbs.com privacy policy that was archived on 2009-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091011110617id_/http%3A//www.ktbs.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-  
-
+# KTBS 3 News | Shreveport, LA: ArkLaTex News - Privacy Policy
 
 **Privacy Policy  
 **  
@@ -19,14 +16,20 @@ KTBS.com and KTBS, Inc. collects personally identifiable information when you re
 
 When you register with KTBS.com, we ask for your name, email address, physical address, zip code, phone and fax numbers, and comments. Once you register with KTBS.com and sign in to our services, you are not anonymous to us.
 
-KTBS.com uses information for two general purposes: to fulfill your requests for certain products and services, and to contact you about new products. 
+KTBS.com uses information for two general purposes: to fulfill your requests for certain products and services, and to contact you about new products.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, 
+
+[click here  <](http://www.networkadvertising.org/managing/opt_out.asp)
+
+<http://www.networkadvertising.org/managing/opt_out.asp>>. 
 
 **Information Sharing and Disclosure**  
 KTBS.com and KTBS, Inc. will not sell or rent your personally identifiable information to anyone.  
-KTBS.com and KTBS, Inc. may send personally identifiable information about you to other companies or people when: 
+KTBS.com and KTBS, Inc. may send personally identifiable information about you to other companies or people when:
 
   * We have your consent to share the information; We need to share your information to provide the product or service you have requested; We require opt-in consent to share your personally identifiable information. 
-  * We respond to subpoenas, court orders or legal process; or We find that your actions on our website violate the KTBS.com [Terms of Service](http://www.ktbs.com/layouts/Terms-of-Service) or any of our usage guidelines for specific products or services 
+  * We respond to subpoenas, court orders or legal process; or We find that your actions on our website violate the KTBS.com [Terms of Service](https://web.archive.org/layouts/Terms-of-Service) or any of our usage guidelines for specific products or services 
 
 
 
@@ -39,4 +42,4 @@ To request changes to or deletion of your KTBS.com account, and to read about wh
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
 
 **Changes to this Privacy Policy**  
-KTBS.com and KTBS, Inc. may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages. 
+KTBS.com and KTBS, Inc. may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages.
