@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the australiansuper.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218200621id_/http%3A//www.australiansuper.com/home_privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australiansuper.com privacy policy that was archived on 2009-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091011074719id_/http%3A//www.australiansuper.com/home_privacypolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - AustralianSuper
+# AustralianSuper - Privacy Policy
 
-##  AustralianSuper respects your privacy 
+## AustralianSuper respects your privacy.
 
 ### Protecting your personal information 
 
-The following is information about AustralianSuper’s Privacy Policy and the way in which AustralianSuper has implemented the requirements of the Privacy Act 1988. 
+The following is information about AustralianSuper’s Privacy Policy and the way in which AustralianSuper has implemented the requirements of the Privacy Act 1988.
 
 Protecting your personal information has always been important to AustralianSuper, and is now required by law. The Commonwealth Privacy Act determines that AustralianSuper must handle your personal information in accordance with a set of National Privacy Principles. 
 
-AustralianSuper only collects information that is necessary to administer your membership. By this, we mean managing your account and keeping you informed of opportunities available to you as a fund member. 
+AustralianSuper only collects information that is necessary to administer your membership. By this, we mean managing your account and keeping you informed of opportunities available to you as a fund member.
 
 ### Authorised use of information by others
 
-AustralianSuper has appointed a fund administrator, along with a life insurer and other organisations to provide services to you on our behalf. They are authorised to use your personal information only to administer your fund membership, under the strictest confidence. 
+AustralianSuper has appointed two administrators,one for corporate members and another for industry and all other members, along with a life insurer and other organisations to provide services to you on our behalf. They are authorised to use your personal information only to administer your fund membership, under the strictest confidence. 
 
 From time to time, AustralianSuper may also commission independent consultants to undertake research, which involves contacting members as part of random research methodology. For this purpose, AustralianSuper provides members’ names and contact details. The objective of surveying members is to ensure that AustralianSuper tracks member satisfaction and the effectiveness of AustralianSuper services and products. 
 
-Your personal information will not be used or disclosed for any other purpose without your consent, except where required by superannuation, taxation or other relevant law. For example, AustralianSuper’s fund administrator is required to report certain information to the Australian Taxation Office for tax related purposes. 
+Your personal information will not be used or disclosed for any other purpose without your consent, except where required by superannuation, taxation or other relevant law. For example, AustralianSuper’s fund administrator is required to report certain information to the Australian Taxation Office for tax related purposes.
 
 ### Your personal details
 
@@ -28,10 +28,10 @@ Additional information may be collected from medical practitioners or from your 
 
 AustralianSuper has strict security measures in place, and staff who handle your personal information have the knowledge, skills and commitment to protect it from unauthorised access or misuse. 
 
-### Use and storage of information 
+### Use and storage of information
 
 **Information provided when you join AustralianSuper**  
-When you fill out a Member Application form to join AustralianSuper, you are asked to provide information to assist us to administer and keep you informed about your account. Where you do not complete an Application, your name, date of birth and address will be provided to AustralianSuper by your employer to enable us to accept and process your superannuation contributions. The information we collect and store about you includes: 
+When you fill out a Member Application form to join AustralianSuper, you are asked to provide information to assist us to administer and keep you informed about your account. Where you do not complete an Application, your name, date of birth and address will be provided to AustralianSuper by your employer to enable us to accept and process your superannuation contributions. The information we collect and store about you includes:
 
   * Name 
   * Address 
@@ -64,9 +64,9 @@ In order to keep your information as current as possible, we ask that you let us
 **You decide about additional information  
 **If you decide at any time that you do not wish AustralianSuper to advise you of opportunities and additional services open to you as a member of AustralianSuper, you can request to not receive this additional information by writing to us at the address on the back of this brochure. 
 
-### Information provided to our insurer 
+### Information provided to our insurer
 
-Insurance cover in AustralianSuper CommInsure provides insurance cover for AustralianSuper members for Death only, Death and Total & Permanent Disablement (TPD), and for Income Protection. AustralianSuper will advise the insurer of the personal details about you that the insurer requires to administer and assess insurance-related matters. This information includes your name, date of birth, contact details and information about your health that you have provided to AustralianSuper. 
+Insurance cover in AustralianSuper CommInsure provides insurance cover for AustralianSuper members for Death only, Death and Total & Permanent Disablement (TPD), and for Income Protection. AustralianSuper will advise the insurer of the personal details about you that the insurer requires to administer and assess insurance-related matters. This information includes your name, date of birth, contact details and information about your health that you have provided to AustralianSuper.
 
 **Information about your health**  
 CommInsure may contact you to seek your consent to collect additional information about your health if you apply for higher levels of Death and TPD insurance cover. Your consent will always be obtained before any details are requested from your treating doctor or other health service providers. 
@@ -77,13 +77,13 @@ If you submit incomplete or inaccurate information to CommInsure, they may not b
 **Information required when making a claim  
 **In the event that you claim for either TPD or Income Protection (for temporary disablement), the relevant insurer may provide your personal information to AustralianSuper and our fund administrator, to assist with the assessment and administration of the insurance claim. The insurer may also pass information to claims investigators, medical practitioners, reinsurers, insurance reference bureaux and certain organisations to whom they outsource some functions. 
 
-If your claim is declined and you take legal action or complain to the [Superannuation Complaints Tribunal (SCT),](https://web.archive.org/web/20081218200621id_/http%3A//www.australiansuper.com/toolsandresources_glossary.aspx?g=Superannuation%20Complaints%20Tribunal%20\(SCT\)) AustralianSuper and our service providers must provide your personal details and information about your health to legal representatives of AustralianSuper and the insurer, officers of the SCT and court officials. 
+If your claim is declined and you take legal action or complain to the [Superannuation Complaints Tribunal (SCT),](https://web.archive.org/web/20091011074719id_/http%3A//www.australiansuper.com/toolsandforms_glossary.aspx?g=Superannuation%20Complaints%20Tribunal%20\(SCT\)) AustralianSuper and our service providers must provide your personal details and information about your health to legal representatives of AustralianSuper and the insurer, officers of the SCT and court officials. 
 
 In all cases where contractors and agents may become aware of your personal information, strict confidentiality arrangements apply. Personal information may only be used for the purpose of administering and assessing your insurance-related matters. 
 
-### Your rights 
+### Your rights
 
-As a member of AustralianSuper, you may ask to see the information we hold about you and to have it corrected if necessary. 
+As a member of AustralianSuper, you may ask to see the information we hold about you and to have it corrected if necessary.
 
 To find out more about the personal information we hold about you and how it is handled, please call AustralianSuper on 1300 300 273. 
 
@@ -94,7 +94,7 @@ If you believe your privacy has been breached, you should write to:
 AustralianSuper Privacy Officer   
 Level 33,   
 50 Lonsdale Street   
-Melbourne Vic 3000 
+Melbourne Vic 3000
 
 ### Your privacy and the internet
 
