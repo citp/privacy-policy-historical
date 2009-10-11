@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the codingstaff.com privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221042826id_/http%3A//www.codingstaff.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codingstaff.com privacy policy that was archived on 2009-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091011031547id_/http%3A//www.codingstaff.com/privacy) for the most accurate reproduction.*
 
-# Coding Staff > Home
+# Dotnetnuke Development | DotNetNuke Module Development | DNN Skinning
 
 Coding Staff is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Coding Staff Web site and governs data collection and usage. By using the Coding Staff website, you consent to the data practices described in this statement.
 
@@ -44,4 +44,4 @@ Coding Staff will occasionally update this Statement of Privacy to reflect compa
 
 Contact Information
 
-Coding Staff welcomes your comments regarding this Statement of Privacy. If you believe that Coding Staff has not adhered to this Statement, please contact Coding Staff at [marketing@codingstaff.com](mailto:marketing@codingstaff.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+Coding Staff welcomes your comments regarding this Statement of Privacy. If you believe that Coding Staff has not adhered to this Statement, please contact Coding Staff at [support@codingstaff.com](mailto:support@codingstaff.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
