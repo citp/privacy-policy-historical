@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funology.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626163343id_/http%3A//www.funology.com/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funology.com privacy policy that was archived on 2009-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091011023810id_/http%3A//www.funology.com/about/privacy.cfm) for the most accurate reproduction.*
 
 # Funology.Com : Privacy Policy
 
@@ -22,7 +22,7 @@ We do not request any credit card or other financial information. While we scree
 
 ##  Third Party Advertising 
 
-We use Burst Media and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here http://www.burstmedia.com/isl/privacy.asp 
+We use Burst Media and other third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit http://www.quantcast.com/docs/display/legal/Opt-out+of+Quantcast+Delivery or http://www.networkadvertising.org/managing/opt_out.asp 
 
 ##  Third Party Cookies 
 
@@ -40,6 +40,6 @@ ADVERTISEMENT
 
 [](https://web.archive.org/thats_odd/)
 
-Your thigh bone is stronger than concrete. 
+Roast turkey did not appear consistently on royal Christmas Day menus until 1851 when it replaced roast swan. The medieval dish of Boar's head remained popular with Royals for much longer. 
 
 |  [](https://web.archive.org/hotstuff)
