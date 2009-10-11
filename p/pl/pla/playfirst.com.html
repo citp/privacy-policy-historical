@@ -1,176 +1,355 @@
-<!--The following is the downloaded HTML source of the playfirst.com privacy policy that was archived on 2009-04-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090418032138id_/http%3A//www.playfirst.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the playfirst.com privacy policy that was archived on 2009-10-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091011100239id_/http%3A//www.playfirst.com/privacy-policy.html%3Ffooter) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
-<link rel="stylesheet" type="text/css" media="all" href="/static/865e1cac82625a06e4903f407c5617f3/css2/main.css">
 
+
+<link rel="stylesheet" type="text/css" media="all" href="http://p.playfirst.com/static/09da0a1ec43f73c09fe00f7942db2226/626/css2/main.css">
+<link rel="stylesheet" type="text/css" media="all" href="http://p.playfirst.com/static/1254933946000/626/pushup/css/pushup.css">
+<link rel="stylesheet" type="text/css" media="all" href="http://p.playfirst.com/static/1254933957000/626/css2/autocomplete.css">
 
  
 
 
 
 
-
-<style type="text/css">
-    body { margin:0px 0px 10px 0px; padding:0px; font-family:"helvetica neue", helvetica, arial, sans-serif; font-size:12px;
-        background:url(/img2/backgrounds/BG_Game_Dream3_final.jpg) no-repeat top center #001316;
-        color:#001316; 
-    }
-    #header_links{ height:28px; width:776px; text-align:right; padding-top:23px;  cursor:pointer; }
-</style>
-
-
     <link rel="shortcut icon" href="/favicon.ico">
     
         
-        <script type="text/javascript" src="http://p.playfirst.com/static/2cab5575ff23a71850c1eff460a8753c/js2/pf/libraries.js"></script>
-        <script type="text/javascript" src="/static/1239238120000/js2/jqmodal.js"></script>
-    <script type="text/javascript" src="/static/1239238136000/js2/jquery.ifixpng.js"></script>
-    <script type="text/javascript" src="/static/1239238124000/js2/jcarousellite_1.0.1.min.js"></script>
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js"></script>
+    <script type="text/javascript" src="http://p.playfirst.com/static/faef998f023bdcdd8598fc53df1bb648/626/js2/pf/libraries.js"></script>
+        <script type="text/javascript" src="http://p.playfirst.com/static/1254933949000/626/js2/jqmodal.js"></script>
+    <script type="text/javascript" src="http://p.playfirst.com/static/1254933966000/626/js2/jquery.ifixpng.js"></script>
+    <script type="text/javascript" src="http://p.playfirst.com/static/1254933954000/626/js2/jcarousellite_1.0.1.min.js"></script>
+    <script type="text/javascript" src="http://p.playfirst.com/static/1254933961000/626/pushup/js/pushup.js"></script>
+        <script type="text/javascript" src="http://p.playfirst.com/static/9887c793a86c594324cae080161a3b0a/626/js2/pf/gameInfo.js"></script>
 
     <script type="text/javascript"> 
 
         function __onload() {
+
                                         jQuery('#loginPopup').jqm({modal: false, overlay: '40', onHide: pf.popupOnHide, onLoad: pf.popupOnLoad, onShow: pf.popupOnShow, trigger: 'a.loginPopup_trigger'});
-                                             jQuery('#PopupTool_4068741').jqm({ajax: '/popups/newsletterSignup', modal: false, overlay: '40', onHide: pf.popupOnHide, onLoad: pf.popupOnLoad, onShow: pf.popupOnShow, trigger: 'a.PopupTool_4068741_trigger'});
-                                             jQuery('#createAcctPopup').jqm({modal: false, overlay: '40', onHide: pf.popupOnHide, onLoad: pf.popupOnLoad, onShow: pf.popupOnShow, trigger: 'a.createAcctPopup_trigger'});
+                                             jQuery('#leavingPlayFirstPopup').jqm({modal: false, overlay: '40', onHide: pf.popupOnHide, onLoad: pf.popupOnLoad, onShow: pf.popupOnShow, trigger: 'a.leavingPlayFirstPopup_trigger'});
+                                             jQuery('#PopupTool_1131795').jqm({modal: false, overlay: '40', onHide: pf.popupOnHide, onLoad: pf.popupOnLoad, onShow: pf.popupOnShow, trigger: 'a.PopupTool_1131795_trigger'});
+                                             jQuery('#emailSignupPopup').jqm({modal: false, overlay: '40', onHide: pf.popupOnHide, onLoad: pf.popupOnLoad, onShow: pf.popupOnShow, trigger: 'a.emailSignupPopup_trigger'});
+                                             jQuery('#PopupTool_1131794').jqm({modal: false, overlay: '40', onHide: pf.popupOnHide, onLoad: pf.popupOnLoad, onShow: pf.popupOnShow, trigger: 'a.PopupTool_1131794_trigger'});
                                            
-                        jQuery("#currentURI").attr("value", window.location.pathname + window.location.search);
                                             jQuery('.loginPopup_trigger').click(function()
                 {
-                    document.getElementById('handle_popup').focus();
+                	showGenericLoginPopup();
                     return false;
+                });
+                        
+                                            jQuery('.leavingPlayFirstPopup_trigger').click(function() {
+                    jQuery("#leavingPlayFirstLink").attr("href", jQuery(this).attr("href"));
                 });
                         
             
                              jQuery('a#tab_home').mouseover(function(){
-                    jQuery('a#tab_home').css({ backgroundImage : "url(http://p.playfirst.com/static/1239238122000/img2/layout/nav_tab_bg_on.gif)" });
+                    jQuery('a#tab_home').css({ backgroundImage : "url(http://p.playfirst.com/static/1254933951000/626/img2/layout/nav_tab_bg_on.gif)" });
                     jQuery('img#tab_left_img').attr("src",preload_curve.src);
                     jQuery('img#tab_left_img').ifixpng();
                 });
                 jQuery('a#tab_home').mouseout(function() {
                     jQuery('a#tab_home').css({ backgroundImage : "none" });
-                    jQuery('img#tab_left_img').attr("src","http://p.playfirst.com/static/1239238102000/img2/layout/nav_left_curve.png");
+                    jQuery('img#tab_left_img').attr("src","http://p.playfirst.com/static/1254933925000/626/img2/layout/nav_left_curve.png");
                     jQuery('img#tab_left_img').ifixpng();
                 });
-                                          jQuery('a#tab_games').mouseover(function(){ jQuery('a#tab_games').css({ backgroundImage : "url(http://p.playfirst.com/static/1239238122000/img2/layout/nav_tab_bg_on.gif)" }); });
+                                          jQuery('a#tab_games').mouseover(function(){ jQuery('a#tab_games').css({ backgroundImage : "url(http://p.playfirst.com/static/1254933951000/626/img2/layout/nav_tab_bg_on.gif)" }); });
                 jQuery('a#tab_games').mouseout(function() { jQuery('a#tab_games').css({ backgroundImage : "none" }); });
-                                          jQuery('a#tab_tips').mouseover(function(){ jQuery('a#tab_tips').css({ backgroundImage : "url(http://p.playfirst.com/static/1239238122000/img2/layout/nav_tab_bg_on.gif)" }); });
+                                          jQuery('a#tab_tips').mouseover(function(){ jQuery('a#tab_tips').css({ backgroundImage : "url(http://p.playfirst.com/static/1254933951000/626/img2/layout/nav_tab_bg_on.gif)" }); });
                 jQuery('a#tab_tips').mouseout(function() { jQuery('a#tab_tips').css({ backgroundImage : "none" }); });
-                                          jQuery('a#tab_dinertown').mouseover(function(){ jQuery('a#tab_dinertown').css({ backgroundImage : "url(http://p.playfirst.com/static/1239238122000/img2/layout/nav_tab_bg_on.gif)" }); });
+                                          jQuery('a#tab_dinertown').mouseover(function(){ jQuery('a#tab_dinertown').css({ backgroundImage : "url(http://p.playfirst.com/static/1254933951000/626/img2/layout/nav_tab_bg_on.gif)" }); });
                 jQuery('a#tab_dinertown').mouseout(function() { jQuery('a#tab_dinertown').css({ backgroundImage : "none" }); });
              
-            jQuery('.sliderarrow').mouseover(function(){ 
-                var src = $(this).attr("src");
-                if (src.indexOf('_down') >= 0) jQuery(this).attr("src","http://p.playfirst.com/static/1239238113000/img2/sliders/slider_down_o.gif");
-                else jQuery(this).attr("src","http://p.playfirst.com/static/1239238126000/img2/sliders/slider_up_o.gif");
-                
-            });
-            jQuery('.sliderarrow').mouseout(function(){ 
-                var src = $(this).attr("src");
-                if (src.indexOf('_down') >= 0) jQuery(this).attr("src","http://p.playfirst.com/static/1239238112000/img2/sliders/slider_down.gif");
-                else jQuery(this).attr("src","http://p.playfirst.com/static/1239238119000/img2/sliders/slider_up.gif");  
-                
-            });
-            jQuery('.sliderarrow').click(function(){
-                var src = $(this).attr("src");
-                if (src.indexOf('_down') >= 0) {
-                    jQuery(this).attr("src","/img2/sliders/slider_up.gif");
-                    jQuery(this).mouseover(function(){ jQuery(this).attr("src","http://p.playfirst.com/static/1239238126000/img2/sliders/slider_up_o.gif"); });
-                    jQuery(this).mouseout(function(){ jQuery(this).attr("src","http://p.playfirst.com/static/1239238119000/img2/sliders/slider_up.gif"); });
-                }
-                else {
-                    jQuery(this).attr("src","/img2/sliders/slider_down.gif");
-                    jQuery(this).mouseover(function(){ jQuery(this).attr("src","http://p.playfirst.com/static/1239238113000/img2/sliders/slider_down_o.gif"); });
-                    jQuery(this).mouseout(function(){ jQuery(this).attr("src","http://p.playfirst.com/static/1239238112000/img2/sliders/slider_down.gif"); });
-                }
-            });
-
                                                             jQuery(".tabs").tabs({fx:{opacity:'toggle'},cache:true,spinner:''});
+
+            pf.setupAutocomplete('query');
+
+            
+            
             
         };
 
-        if (/WebKit/i.test(navigator.userAgent)) {
-            var _timer = setInterval(function() {
-                if (/loaded|complete/.test(document.readyState)) {
-                    clearInterval(_timer);
-                    __onload();
-                }
-            }, 10);
-        }
-        else {
-            $(window).load(function() {
-                __onload();
-            });
-        }
-        
-        preload_curve = new Image(); 
-        preload_curve.src = "http://p.playfirst.com/static/1239238133000/img2/layout/nav_left_curve_on.png";
-        preload_tab = new Image();
-        preload_tab.src = "http://p.playfirst.com/static/1239238122000/img2/layout/nav_tab_bg_on.gif";
-
-                function clickBg(e)
-        {
-            var target;
-            if (e.target) target = e.target;
-            else if (e.srcElement) target = e.srcElement;
-            if (target.nodeType == 3) target = target.parentNode;             if (target.id == 'body' || target.id == 'header_links') window.location = "http://www.playfirst.com/game/dream-chronicles-chosen-child";
-        }
-         
-    function confirmVariant(gameHandle, variantHandle)
+        jQuery(function() {
+            __onload();
+        });
+       
+		   
+	function submitPopupForm(formId, popupId, destination)
+	{
+		var parameters = jQuery(formId).serializeArray();
+		jQuery(popupId + ' > .popup_body > .popup_content').load(destination, parameters);
+		return false;
+	}
+	
+    function confirmVariant(gameHandle, gameName, variantHandle, downloadPage)
     {
-        var callback = '/game/'+gameHandle+'/download/' + variantHandle;
+        var opts = {'gameHandle':gameHandle, 'gameName':gameName, 'variantHandle':variantHandle, 'downloadPage':downloadPage};
+    	    	        if (!downloadPage) {
+            downloadPage = "/pages2/download.vm?url=/game/" + gameHandle + "/download/" + variantHandle + "&game=" + gameHandle;
+        }
+		var installerLocation = '/game/'+gameHandle+'/download/' + variantHandle;
+		opts["installerLocation"] = installerLocation;
 
                 
         // if the user's OS doesn't match the variant type, display confirmation 
         if (variantHandle != "windows" )
         {
-            jQuery('#${confirmationPopup.id}').jqmShow().find('#confirmButton')
+                        
+            jQuery('#PopupTool_1131795').jqmShow().find('#confirmButton')
                     .click(function()
             {
                 if (this.id == 'confirmButton')
                 {
-                    if (typeof callback == 'string')
-                    {
-                        window.location.href = callback;
-                    }
-                    else
-                    {
-                        callback();
-                    }
+					setTimeout(function () {
+						cmCreatePageElementTag("Download and Forward", gameHandle);
+						document.location = downloadPage;
+					}, 1000);
+					window.location.href = installerLocation;
                 }
-                jQuery('#${confirmationPopup.id}').jqmHide();
+                jQuery('#PopupTool_1131795').jqmHide();
             });
             jQuery('.popup').ifixpng();
         }
-        // otherwise just go to the installer location
 
+        // otherwise display the newsletter popup
         else 
-            //window.location.href = callback;
-             
         {
-            							window.location.href = callback;
-                    }
+            			
+				            						showDownloadPopup(opts);
+	                                }
     }
-
-
-    function trackDownload(handle, downloadtype) {
-        if (false) {
-            cmCreateConversionEventTag(handle,"1",downloadtype+"_Download");
-            jQuery.cookie("download_"+handle, handle, {path:"/", expires: 30 });
+    
+    function mergeMaps(opts, defaultOpts) {
+        for (var prop in defaultOpts) {
+            opts[prop] = opts[prop] || defaultOpts[prop];
         }
     }
 
+	function showRedirectingLoginPopup(url, message)
+	{
+		var opts = {"url" : url, "helperText" : message};
+		showGenericLoginPopup(opts);
+	}
+	
+	function showGenericLoginPopup(opts)
+	{
+        if (!opts) var opts = {};
+        opts['showLogin'] = true;
+		showGenericAccountPopup(opts)
+	}
+	
+	function showGenericSignupPopup()
+    {
+    	showGenericAccountPopup(null)
+	}
+	
+    function showGenericAccountPopup(opts)
+    {
+		if (opts == null) var opts = {};
+        	
+		opts['iconPath'] = "url(http://p.playfirst.com/static/1254933945000/626/img2/icons/icon_popup_opendoor.gif)";
+        opts['title'] = 'Log In';
+		opts['trackingTag'] = 'login-popup';
+		opts['redirect_success'] = "/pages2/ajax/emailSignupSuccess.vm";
+		
+		if (opts.url == null)
+			var url = window.location.pathname + window.location.search;
+		else
+			var url = opts.url;
+		
+		opts['success_javascript'] = "window.location.href='" + url + "';";
 
+		showEmailPopup('/pages2/popups/emailSignup.vm', opts);
+	}    
+    
+    
+    
+    function showDownloadPopup(opts)
+    {
+		opts['header'] = opts.gameName;
+		opts['redirect_success'] = "/pages2/ajax/emailSignupSuccess.vm?runDownloadJavascript=true&gameHandle=" + opts.gameHandle + "&url=" + opts.installerLocation;
+		opts['trackSlowConnections'] = true;
+		opts['trackingTag'] = 'newsletter-signup';
+        opts['iconPath'] = "url(http://p.playfirst.com/static/1254933943000/626/img2/icons/icon_popup_download.gif)";
+        opts['title'] = "Preparing to Download...";
+        opts['newAcctHelperText'] = "Please provide your email to begin downloading your free trial game!";
+        opts['loginHelperText'] = "Please log in to download your trial game.";
+		showEmailPopup('/pages2/popups/newsletterSignup.vm', opts);
+	}    
+	
+    function showNotifyMePopup(gameHandle, gameIconPath)
+    {
+		var mailingList = "release_"+"$gameHandle";	
+		var subscribeUrl = "/action/subscribePage?mailingList=" + mailingList + "&redir=/game/" + gameHandle;
+	
+        gameIconPath = gameIconPath || "http://p.playfirst.com/static/1254933943000/626/img2/icons/icon_popup_download.gif";
+        var opts = {    'gameHandle' : gameHandle,
+                        'iconPath' : "url("+gameIconPath+")",
+                        'title' : "Notify Me!",
+                        'redirect_success' : "/pages2/ajax/emailSignupSuccess.vm",
+                        'success_javascript' : "window.location.href = '" + subscribeUrl + "'",
+                        'trackingTag' : 'notify-' + gameHandle,                     
+                        'helperText' : "Give us your email, and we'll email you as soon as the game is released!",
+                        'additionalMailingList' : mailingList
+                   }
+		showEmailPopup('/pages2/popups/notifyMe.vm', opts);
+	}    
 
+	function showForumsPopup()
+    {
+        iconPath = "http://p.playfirst.com/static/1254933940000/626/img2/search/search_icon_forums.gif";
+        var opts = {    'iconPath' : "url("+iconPath+")",
+                        'title' : "Complete your Post",
+                        'trackingTag' : 'posting',        
+						'redirect_success' : '/pages2/popups/verifyAddHandle.vm?submitForm=forumPostForm',
+                        'showLogin' : true
+                   }
+		showEmailPopup('/pages2/popups/tipsSignup.vm', opts);
+	}    
+
+	function showReviewPopup()
+    {
+        iconPath = "http://p.playfirst.com/static/1254933940000/626/img2/search/search_icon_forums.gif";
+        var opts = {    'iconPath' : "url("+iconPath+")",
+                        'title' : "Write a Review",
+                        'trackingTag' : 'posting',
+						'header' : 'Write a Review',
+						'redirect_success' : '/pages2/popups/verifyAddHandle.vm?submitForm=writeReviewForm',
+                        'showLogin' : true
+                   }
+		showEmailPopup('/pages2/popups/tipsSignup.vm', opts);
+	}    
+
+	function showQuestionPopup()
+    {
+        iconPath = "http://p.playfirst.com/static/1254933964000/626/img2/search/search_icon_tips.gif";
+        var opts = {    'iconPath' : "url("+iconPath+")",
+                        'title' : "Submit your Question",
+                        'trackingTag' : 'tips-ask',
+						'header' : 'Ask a Question',
+						'redirect_success' : '/pages2/popups/verifyAddHandle.vm?submitForm=createQuestion',
+                        'showLogin' : true
+                   }
+		showEmailPopup('/pages2/popups/tipsSignup.vm', opts);
+	}    
+
+	function showAnswerPopup()
+    {
+        iconPath = "http://p.playfirst.com/static/1254933964000/626/img2/search/search_icon_tips.gif";
+        var opts = {    'iconPath' : "url("+iconPath+")",
+                        'title' : "Submit your Answer",
+                        'trackingTag' : 'tips-answer',
+						'header' : 'Answer a Question',
+						'redirect_success' : '/pages2/popups/verifyAddHandle.vm?submitForm=submitAnswer',
+                        'showLogin' : true
+                   }
+		showEmailPopup('/pages2/popups/tipsSignup.vm', opts);
+	}    
+
+    function showVerifyPopup(formName)
+    {
+        iconPath = "http://p.playfirst.com/static/1254933940000/626/img2/search/search_icon_forums.gif";
+        var opts = {    'iconPath' : "url("+iconPath+")",
+                        'title' : "Complete your Post"
+                   }
+		showEmailPopup('/pages2/popups/verifyAddHandle.vm?submitForm=' + formName, opts);
+    }
+
+    function showPlayOnlineSignupPopup(handle, iconPath)
+    {
+        var opts = {};
+        opts['iconPath'] = "url("+iconPath+")";
+        opts['gameHandle'] = handle;
+        opts['title'] = "Play Online";
+        opts['newAcctHelperText'] = "Please provide your email to play your game free online!";
+        opts['loginHelperText'] = "Please log in to play your game free online.";
+		showEmailPopup('/pages2/popups/playOnlineSignup.vm?gameHandle='+handle, opts);
+	}    
+	
+                            							            	        function showEmailPopup(tile, opts)
+    {
+        var defaultOpts = { 
+                            'trackingTag'       :   'generic-popup',
+                            'trackSlowConnections' : false,
+                            'showLogin' : false
+                          }
+        mergeMaps(opts, defaultOpts);
+		if (opts['showLogin'])
+			opts['focusField'] = 'handle_popup';
+				if (jQuery('#emailSignupPopup').length)
+		{
+						jQuery('#emailSignupPopup > .popup_header > .popup_title').html(opts.title);
+			jQuery('#loginPopup > .popup_header > .popup_title').html(opts.title);
+			if (opts.iconPath)
+			{
+				jQuery('#emailSignupPopup > .popup_body > .popup_content').css("background-image", opts.iconPath);
+				jQuery('#loginPopup > .popup_body > .popup_content').css("background-image", opts.iconPath);
+			}
+			
+						var focus = 'signupPopup_email';
+			if (opts.focusField) focus = opts.focusField;
+			
+			if (opts.newAcctHelperText) opts['helperText'] = opts.newAcctHelperText; 
+			jQuery('#emailSignupPopup > .popup_body > .popup_content').load(tile, opts, function (){
+                if (document.getElementById(focus))
+                    document.getElementById(focus).focus();
+            });
+
+			if (opts.loginHelperText) opts['helperText'] = opts.loginHelperText;
+			jQuery('#loginPopup > .popup_body > .popup_content').load('/pages2/popups/login.vm', opts, function (){
+                if (document.getElementById(focus))
+                    document.getElementById(focus).focus();
+            });
+			
+			            if (opts['showLogin']) {
+                jQuery('#emailSignupPopup').jqmHide();
+                jQuery('#loginPopup').jqmShow();
+            } else {
+                jQuery('#emailSignupPopup').jqmShow();
+                jQuery('#loginPopup').jqmHide();
+            }
+			jQuery('.popup').ifixpng();
+			
+		}
+				else
+		{
+			if (opts.trackSlowConnections)
+				cmCreatePageElementTag("Download started slow_connection", "Newsletter Signup on Download");
+				
+			setTimeout(function () {
+				if (opts.gameHandle)
+				{
+					cmCreatePageElementTag("Download and Forward", opts.gameHandle);
+				}
+                document.location = opts.downloadPage;
+            }, 1000);
+            window.location.href = opts.landingPage;
+	    }
+	}
+	
+    function trackDownload(handle, downloadtype) {
+        pf.ClickTale.tag("Download");
+        cmCreateConversionEventTag(handle,"1",downloadtype+"_Download");
+        jQuery.cookie("download_"+handle, handle, {path:"/", expires: 30 });
+    }
+
+    
     </script>
     <title>PlayFirst® - Privacy Policy </title>
     
 
+        
     </head>
-<body onclick="clickBg(event)" id="body">
+
+    <body>
+
+
+
 
 
 
@@ -178,274 +357,462 @@
     <div id="container">
                     <div id="header" class="screenonly ">
                                     <div id="header_logo">
-                        <a href="/"><img src="http://p.playfirst.com/static/1239238136000/img2/layout/logo_main.png" width="212" height="95" alt=""></a>
+                        <a href="/"><img src="http://p.playfirst.com/static/1254933957000/626/img2/layout/logo_main_alt.png" width="145" height="58" alt="PlayFirst"></a>
                     </div>
                     <div id="header_nav">
-                        <div id="header_links">
-                            <!-- commented out per Case 10452 <a href="http://www.playfirst.com/survey/PublicBetaSurvey">Send Feedback</a>&nbsp;&nbsp; -->
-                                                                                                <a href="/secure/login.html" class="loginPopup_trigger">Sign in</a>
-                                    <a href="/secure/createAccount.html">Create your account</a>
-                                    <a href="/newsletter.html" class="PopupTool_4068741_trigger">Sign up for our newsletter</a>
-                                                             
-                                                                                                                             <a href="/playgold.html">Get PlayGold!</a>
-                                                                                                                                                                                                             <a href="/help.html">Support</a>
-                                                        <a href="/cart.html"><img src="http://p.playfirst.com/static/1239238111000/img2/cart/emptycart.png" width="28" height="28" class="middle relative" style="top:-3px;" alt="Cart"></a><br>
+                        <div id="header_account_links">
+                            <ul class="links">
+                                <li id="attention_section" class="link_head two_corners">
+                                    <div class="main">
+                                        <div class="corner left png"></div>
+                                        <form class="search" action="http://www.playfirst.com/action/search" name="queryForm" method="GET" onsubmit="pf.clearAllGamesCookies();">
+                                            <label for="query">Search</label>
+                                            <input type="text" name="query" id="query" value="" autocomplete="off">
+                                            <button title="Search" class="png">&nbsp;</button>
+                                        </form>
+                                        <div class="clear"></div>
+                                    </div>
+
+                                    <div class="clear"></div>
+                                </li>
+                                <li id="login_section" class="link_head">
+                                                                        <a href="/secure/login.html" id="login_link" class="loginPopup_trigger main">Log In</a>
+                                                                    </li>
+                                <li id="forums_section" class="link_head">
+                                    <a href="/forums" class="main">Forums</a>
+                                </li>
+                                <li id="tips_section" class="link_head">
+                                    <a href="/tips" class="main">Tips</a>
+                                </li>
+                                <li id="help_section" class="link_head right_corner">
+                                    <div class="main">
+                                        <a href="/help.html">Help</a>
+                                        <div class="corner right png"></div>
+                                        <div class="clear"></div>
+                                    </div>
+                                    <ul class="section_links">
+                                        <li><a href="/help.html">Support</a></li>
+                                        <li class="last"><a href="/help/support.html">Contact</a></li>
+                                    </ul>
+                                    <div class="filler"></div><div class="corner right png"></div>
+                                    <div class="clear"></div>
+                                </li>
+                            </ul>
+                            <div class="clear"></div>
                         </div>
-                        <div id="header_tabs">
-                            <div id="tab_left">
-                                <img src="http://p.playfirst.com/static/1239238102000/img2/layout/nav_left_curve.png" width="30" height="44" alt="" id="tab_left_img">
-                            </div>
-                            <div id="tab_right">
-                                <div class="tab">
-                                    <a href="/" id="tab_home" style="padding-left:0px;"><img src="http://p.playfirst.com/static/1239238127000/img2/icons/pf_home_iconhome.png" width="30" height="30" class="middle" alt=""> Home</a>
-                                </div>
-                                <div class="divider">
-                                    <img src="http://p.playfirst.com/static/1239238108000/img2/layout/nav_divider.gif" width="5" height="40" alt="">
-                                </div>
-                                <div class="tab">
-                                    <a href="/games.html" onclick="pf.clearAllGamesCookies()" id="tab_games"><img src="http://p.playfirst.com/static/1239238128000/img2/icons/pf_home_icongames.png" width="30" height="30" class="middle" alt=""> Games</a>
-                                </div>
-                                <div class="divider">
-                                    <img src="http://p.playfirst.com/static/1239238108000/img2/layout/nav_divider.gif" width="5" height="40" alt="">
-                                </div>
-                                <div class="tab">
-                                    <a href="/tips/" id="tab_tips"><img src="http://p.playfirst.com/static/1239238111000/img2/icons/pf_home_iconstips.png" width="30" height="30" class="middle" alt=""> Tips</a>
-                                </div>
-                                <div class="divider">
-                                    <img src="http://p.playfirst.com/static/1239238108000/img2/layout/nav_divider.gif" width="5" height="40" alt="">
-                                </div>
-                                <div class="tab">
-                                    <a href="/dinerdash/" id="tab_dinertown"><img src="http://p.playfirst.com/static/1239238104000/img2/icons/pf_home_icondinerdas.png" width="30" height="30" class="middle" alt=""> Diner Dash<span class="xsmall relative" style="top:-4px;">®</span></a>
-                                </div>
-                                <div class="divider">
-                                    <img src="http://p.playfirst.com/static/1239238108000/img2/layout/nav_divider.gif" width="5" height="40" alt="">
-                                </div>
-                                <div class="clear"></div>
-                            </div>
-                        </div>
-                        <div id="header_search">
-                                        <div class="searchform png">
-        <form name="searchForm" action="/action/search" method="get" style="right:-11px;">
-            <img src="http://p.playfirst.com/static/1239238104000/img2/forms/searchbox_leftcap.png" width="8" height="26" class="floatleft" alt="">
-            <input type="text" name="query" id="query" class="searchform_textbox" maxlength="80" value="Search PlayFirst" onclick="if(this.value=='Search PlayFirst')this.value='';" onblur="if(this.value=='')this.value='Search PlayFirst';">
-            <input type="image" src="http://p.playfirst.com/static/1239238116000/img2/forms/searchbox_go.png" class="floatleft">
-            <div class="clear"></div>
-            
-        </form>
-    </div>
-                            <img src="http://p.playfirst.com/static/1239238119000/img2/layout/nav_right_curve.png" width="17" height="44" alt="" class="floatright zminus1">
+                        <div id="header_cart">
+                                                        <a href="/cart.html" class="cart">
+                                <img src="http://p.playfirst.com/static/1254933935000/626/img2/cart/emptycart.png" width="28" height="28" alt="Cart" title="View your cart">
+                            </a>
+                            <a href="/cart.html">
+                                0 items in your Cart
+                            </a>
+                            <span class="paymentMethods">
+                                <img src="http://p.playfirst.com/static/1254933948000/626/img2/cart/logo_ccVisa.png" width="20" height="12" alt="Visa" title="We accept Visa">
+                                <img src="http://p.playfirst.com/static/1254933964000/626/img2/cart/logo_ccMC.png" width="20" height="12" alt="MasterCard" title="We accept MasterCard">
+                                <img src="http://p.playfirst.com/static/1254933940000/626/img2/cart/logo_ccAmex.png" width="20" height="12" alt="American Express" title="We accept American Express">
+                                <img src="http://p.playfirst.com/static/1254933946000/626/img2/cart/logo_ccDiscover.png" width="20" height="12" alt="Discover" title="We accept Discover">
+                                <img src="http://p.playfirst.com/static/1254933936000/626/img2/cart/logo_ccPaypal.png" width="20" height="12" alt="Paypal" title="We accept Paypal">
+                            </span>
                         </div>
                     </div>
+                    <div class="clear"></div>
                              </div>
                  <div class="clear"></div>
         
-                <div id="main_header" class="png">
-                            <div class="breadcrumb screenonly">
-                    <a href="/">PlayFirst</a> <span class="unbold">&gt;</span>
-                    						                             <span class="breadcrumb_active">Privacy Policy</span>
-                                                            </div>
-                     </div>
-                 
+                    <div id="global_nav" class="png">
+                <ul id="standard_links" class="links png">
+                    <li class="link_head"><a href="/" class="main">Home</a></li>
+                    
+                    <li class="link_head">
+                        <a href="/category/windows" class="main" onclick="pf.clearAllGamesCookies();">PC Games</a>
+                        <div class="moreOptions">
+                            <div class="header"></div>
+                            <ul class="first">
+                                <li><h3>by Category</h3></li>
+                                <li><a href="/category/windows/playfirstGames" onclick="pf.clearAllGamesCookies();">PlayFirst Originals</a></li>
+                                <li><a href="/category/windows/dash" onclick="pf.clearAllGamesCookies();">DASH™ &amp; Time Mgmt</a></li>
+                                <li><a href="/category/windows/action" onclick="pf.clearAllGamesCookies();">Action</a></li>
+                                <li><a href="/category/windows/adventure" onclick="pf.clearAllGamesCookies();">Adventure</a></li>
+                                <li><a href="/category/windows/card" onclick="pf.clearAllGamesCookies();">Classics and Cards</a></li>
+                                <li><a href="/category/windows/hidden_object" onclick="pf.clearAllGamesCookies();">Hidden Object</a></li>
+                                <li><a href="/category/windows/puzzle" onclick="pf.clearAllGamesCookies();">Puzzle and Match 3</a></li>
+                                <li><a href="/category/windows/strategy" onclick="pf.clearAllGamesCookies();">Simulation and Strategy</a></li>
+                                <li><a href="/category/windows/word" onclick="pf.clearAllGamesCookies();">Word and Trivia</a></li>
+                                <li><a href="/category/windows/episodes" onclick="pf.clearAllGamesCookies();">Episodes</a></li>
+                            </ul>
+                            <div class="clear"></div>
+                        </div>
+                    </li>
+                    <li class="link_head">
+                        <a href="/category/mac" class="main" onclick="pf.clearAllGamesCookies();">Mac Games</a>
+                        <div class="moreOptions">
+                            <div class="header"></div>
+                            <ul class="first">
+                                <li><h3>by Category</h3></li>
+                                <li><a href="/category/mac/playfirstGames" onclick="pf.clearAllGamesCookies();">PlayFirst Originals</a></li>
+                                <li><a href="/category/mac/dash" onclick="pf.clearAllGamesCookies();">DASH™ &amp; Time Mgmt</a></li>
+                                <li><a href="/category/mac/action" onclick="pf.clearAllGamesCookies();">Action</a></li>
+                                <li><a href="/category/mac/adventure" onclick="pf.clearAllGamesCookies();">Adventure</a></li>
+                                <li><a href="/category/mac/card" onclick="pf.clearAllGamesCookies();">Classics and Cards</a></li>
+                                <li><a href="/category/mac/hidden_object" onclick="pf.clearAllGamesCookies();">Hidden Object</a></li>
+                                <li><a href="/category/mac/puzzle" onclick="pf.clearAllGamesCookies();">Puzzle and Match 3</a></li>
+                                <li><a href="/category/mac/strategy" onclick="pf.clearAllGamesCookies();">Simulation and Strategy</a></li>
+                                <li><a href="/category/mac/word" onclick="pf.clearAllGamesCookies();">Word and Trivia</a></li>
+                                <li><a href="/category/mac/episodes" onclick="pf.clearAllGamesCookies();">Episodes</a></li>
+                            </ul>
+                            <div class="clear"></div>
+                        </div>
+                    </li>
+                    <li class="link_head morePlatforms">
+                        <a href="/category/mobile" class="main" onclick="pf.clearAllGamesCookies();">More Platforms</a>
+                        <div class="moreOptions">
+                            <div class="header"></div>
+                            <ul class="first">
+                                <li><a href="/category/mobile" onclick="pf.clearAllGamesCookies();">Mobile</a></li>
+                                <li><a href="/category/iPhone" onclick="pf.clearAllGamesCookies();">iPhone</a></li>
+                                <li><a href="/category/onlinePlay" onclick="pf.clearAllGamesCookies();">Online</a></li>
+                            </ul>
+                            <div class="clear"></div>
+                        </div>
+                    </li>
+                </ul>
+                <ul id="spotlight_links" class="links">
+                    <li class="link_head first"><img class="image" src="http://p.playfirst.com/static/1254933937000/626/img2/icons/our_hits.png" width="68" height="45" alt="Our Hits" style="position: absolute; margin-top: -5px;">                         &nbsp;</li>
+                    <li class="link_head" id="spotlight_link1"><a href="/dinerdash/">Diner Dash</a></li>
+                    <li class="link_head" id="spotlight_link2"><a href="/world/chocolatier">Chocolatier</a></li>
+                    <li class="link_head" id="spotlight_link3"><a href="/dream-chronicles/">Dream Chronicles</a></li>
+                    <li class="link_head" id="spotlight_link4">
+                        <a href="/wandering-willows/">More...</a>
+                        <div class="moreOptions rightAlign">
+                            <div class="header"></div>
+                            <ul class="first">
+                                <li><a href="/wandering-willows/">Wandering Willows</a></li>
+                            </ul>
+                            <div class="clear"></div>
+                        </div>
+                    </li>
+                </ul>
+                <div class="clear"></div>
+            </div>
+         
                                  <div id="main">
                                                 <div id="main_left">
-                                 
+                            
 
-<div class="box_small_top_green_solid "><h3 class="inverted">Quick Links</h3></div>
-<div class="box_small_middle">
-    <div class="onepix" style="height:10px;"></div>
-    <h4><a href="/games.html" onclick="pf.clearAllGamesCookies()" class="gray">»&nbsp;All Games</a></h4>
-    <h4 class="vertspacer"><a href="/category/playfirstGames" onclick="pf.clearAllGamesCookies()" class="gray">»&nbsp;PlayFirst Games</a></h4>
-    <h4 class="vertspacer"><a href="/category/episodes" onclick="pf.clearAllGamesCookies()" class="gray">»&nbsp;Episodes</a></h4>
-    <h4 class="vertspacer"><a href="/category/online" onclick="pf.clearAllGamesCookies()" class="gray">»&nbsp;Free Online Games</a></h4>
-         
-        <a href="" onclick="toggleCategories(); return false;" id="moreCategories" class="more right block vertspacerx2">»&nbsp;More Categories</a>
-    <div id="moregames" class="hidden">
-        <div class="onepix" style="height:4px;"></div>
-         
-                                            <h4 class="vertspacer">
-                	<a href="/category/action" onclick="pf.clearAllGamesCookies()" class="gray floatleft">
-		                <span class="floatleft">»&nbsp;</span>
-		                <span class="floatleft" style="width: 165px; cursor:pointer;">Action</span>
-	                </a>
-	                <div class="clear"></div>
-	            </h4>
-                                                 <h4 class="vertspacer">
-                	<a href="/category/adventure" onclick="pf.clearAllGamesCookies()" class="gray floatleft">
-		                <span class="floatleft">»&nbsp;</span>
-		                <span class="floatleft" style="width: 165px; cursor:pointer;">Adventure</span>
-	                </a>
-	                <div class="clear"></div>
-	            </h4>
-                                                 <h4 class="vertspacer">
-                	<a href="/category/card" onclick="pf.clearAllGamesCookies()" class="gray floatleft">
-		                <span class="floatleft">»&nbsp;</span>
-		                <span class="floatleft" style="width: 165px; cursor:pointer;">Classics and Cards</span>
-	                </a>
-	                <div class="clear"></div>
-	            </h4>
-                                                 <h4 class="vertspacer">
-                	<a href="/category/dash" onclick="pf.clearAllGamesCookies()" class="gray floatleft">
-		                <span class="floatleft">»&nbsp;</span>
-		                <span class="floatleft" style="width: 165px; cursor:pointer;">DASH® and Time Management</span>
-	                </a>
-	                <div class="clear"></div>
-	            </h4>
-                                                 <h4 class="vertspacer">
-                	<a href="/category/hidden_object" onclick="pf.clearAllGamesCookies()" class="gray floatleft">
-		                <span class="floatleft">»&nbsp;</span>
-		                <span class="floatleft" style="width: 165px; cursor:pointer;">Hidden Object</span>
-	                </a>
-	                <div class="clear"></div>
-	            </h4>
-                                                 <h4 class="vertspacer">
-                	<a href="/category/mac" onclick="pf.clearAllGamesCookies()" class="gray floatleft">
-		                <span class="floatleft">»&nbsp;</span>
-		                <span class="floatleft" style="width: 165px; cursor:pointer;">Mac Games</span>
-	                </a>
-	                <div class="clear"></div>
-	            </h4>
-                                                 <h4 class="vertspacer">
-                	<a href="/category/mobile" onclick="pf.clearAllGamesCookies()" class="gray floatleft">
-		                <span class="floatleft">»&nbsp;</span>
-		                <span class="floatleft" style="width: 165px; cursor:pointer;">Mobile Games</span>
-	                </a>
-	                <div class="clear"></div>
-	            </h4>
-                                                                                           <h4 class="vertspacer">
-                	<a href="/category/puzzle" onclick="pf.clearAllGamesCookies()" class="gray floatleft">
-		                <span class="floatleft">»&nbsp;</span>
-		                <span class="floatleft" style="width: 165px; cursor:pointer;">Puzzle and Match 3</span>
-	                </a>
-	                <div class="clear"></div>
-	            </h4>
-                                                 <h4 class="vertspacer">
-                	<a href="/category/strategy" onclick="pf.clearAllGamesCookies()" class="gray floatleft">
-		                <span class="floatleft">»&nbsp;</span>
-		                <span class="floatleft" style="width: 165px; cursor:pointer;">Simulation and Strategy</span>
-	                </a>
-	                <div class="clear"></div>
-	            </h4>
-                                                 <h4 class="vertspacer">
-                	<a href="/category/word" onclick="pf.clearAllGamesCookies()" class="gray floatleft">
-		                <span class="floatleft">»&nbsp;</span>
-		                <span class="floatleft" style="width: 165px; cursor:pointer;">Word and Trivia</span>
-	                </a>
-	                <div class="clear"></div>
-	            </h4>
-                          </div>
-    <br>
-</div>
-<div class="box_small_middle" style="margin-top: 1px;">
-<div style="padding: 5px; padding-bottom: 10px;">
-<h4 class="vertspacer"><a href="/dinerdash/" class="gray"><img src="http://p.playfirst.com/static/1239238137000/img2/quicklink_dinerdash.gif" width="22" height="22" alt=""> Diner Dash</a></h4>
-<h4 class="vertspacer"><a href="/world/chocolatier" class="gray"><img src="http://p.playfirst.com/static/1239238122000/img2/quicklink_chocolatier.gif" width="22" height="22" alt=""> Chocolatier</a></h4>
-<h4 class="vertspacer"><a href="/dream-chronicles/" class="gray"><img src="http://p.playfirst.com/static/1239238113000/img2/quicklink_dreamchronicles.gif" width="22" height="22" alt=""> Dream Chronicles</a></h4>
-<h4 class="vertspacer"><a href="/wandering-willows/" class="gray"><img src="http://p.playfirst.com/static/1239238111000/img2/quicklink_wanderingwillows.gif" width="22" height="22" alt=""> Wandering Willows</a></h4>
-</div>
-</div>
-    <div class="box_small_header">
-    	<h3 class="inverted nomargin floatleft">Top 10 Games</h3>
-    	<a href="/top-one-hundred-games.html" class="inverted floatright" style="margin-top: 3px;">»&nbsp;Top 100</a>
-    	<div class="clear"></div>
+
+<div class="catalogSidebar dynamicWrapper">
+
+
+        
+
+
+                                                                                            
+
+
+
+
+
+        
+<div class="pod controlPod">
+  <div style="width: 202px; padding-left:2px; margin-top:2px;">
+      <div class="flex_container_top main_bg" style="width:202px;">
+      <img src="http://p.playfirst.com/static/1254933956000/626/img2/boxes/flexible/stripebox_border_orange_topleft.gif" width="6" height="6" class="flex_leftCorner main_bg" alt="">
+      <img src="http://p.playfirst.com/static/1254933960000/626/img2/boxes/flexible/stripebox_border_orange_toprow_bg.gif" width="800" height="6" class="flex_rightSection main_bg" alt="">
     </div>
-                    <div class="box_small_topten" id="dream-chronicles-chosen-childContainer" title="/popups/topTenPopup">
-                <table border="0" cellpadding="0" cellspacing="0" width="204" class="box_small_topten_off" style="margin-bottom:1px;">
-                    <tbody><tr onclick="window.location.href='/game/dream-chronicles-chosen-child';" style="cursor:pointer;">
-                        <td class="topten_number" valign="middle">1</td>
-                        <td class="topten_image" style="background:url(http://p.playfirst.com/static/1233115040000/img/game/dream-chronicles-chosen-child/dream-chronicles-chosen-child_42x42.jpg) no-repeat center center"><a href="/game/dream-chronicles-chosen-child"><img src="http://p.playfirst.com/static/1239238113000/img2/topten_mask.png" width="50" height="50" alt=""></a></td>
-                        <td class="topten_desc"><a href="/game/dream-chronicles-chosen-child" class="block">Dream Chronicles - The Chosen Child</a></td>
-                    </tr>
-                </tbody></table>
-            </div>
-                    <div class="box_small_topten" id="wandering-willowsContainer" title="/popups/topTenPopup">
-                <table border="0" cellpadding="0" cellspacing="0" width="204" class="box_small_topten_off" style="margin-bottom:1px;">
-                    <tbody><tr onclick="window.location.href='/game/wandering-willows';" style="cursor:pointer;">
-                        <td class="topten_number" valign="middle">2</td>
-                        <td class="topten_image" style="background:url(http://p.playfirst.com/static/1232002475000/img/game/wandering-willows/wandering-willows_42x42.jpg) no-repeat center center"><a href="/game/wandering-willows"><img src="http://p.playfirst.com/static/1239238113000/img2/topten_mask.png" width="50" height="50" alt=""></a></td>
-                        <td class="topten_desc"><a href="/game/wandering-willows" class="block">Wandering Willows</a></td>
-                    </tr>
-                </tbody></table>
-            </div>
-                    <div class="box_small_topten" id="diaper-dashContainer" title="/popups/topTenPopup">
-                <table border="0" cellpadding="0" cellspacing="0" width="204" class="box_small_topten_off" style="margin-bottom:1px;">
-                    <tbody><tr onclick="window.location.href='/game/diaper-dash';" style="cursor:pointer;">
-                        <td class="topten_number" valign="middle">3</td>
-                        <td class="topten_image" style="background:url(http://p.playfirst.com/static/1236279216000/img/game/diaper-dash/diaper-dash_42x42.jpg) no-repeat center center"><a href="/game/diaper-dash"><img src="http://p.playfirst.com/static/1239238113000/img2/topten_mask.png" width="50" height="50" alt=""></a></td>
-                        <td class="topten_desc"><a href="/game/diaper-dash" class="block">Diaper Dash</a></td>
-                    </tr>
-                </tbody></table>
-            </div>
-                    <div class="box_small_topten" id="ice-cream-craze-tycoonContainer" title="/popups/topTenPopup">
-                <table border="0" cellpadding="0" cellspacing="0" width="204" class="box_small_topten_off" style="margin-bottom:1px;">
-                    <tbody><tr onclick="window.location.href='/game/ice-cream-craze-tycoon-takeover';" style="cursor:pointer;">
-                        <td class="topten_number" valign="middle">4</td>
-                        <td class="topten_image" style="background:url(http://p.playfirst.com/static/1237945463000/img/game/ice-cream-craze-tycoon/ice-cream-craze-tycoon_42x42.jpg) no-repeat center center"><a href="/game/ice-cream-craze-tycoon-takeover"><img src="http://p.playfirst.com/static/1239238113000/img2/topten_mask.png" width="50" height="50" alt=""></a></td>
-                        <td class="topten_desc"><a href="/game/ice-cream-craze-tycoon-takeover" class="block">Ice Cream Craze - Tycoon Takeover</a></td>
-                    </tr>
-                </tbody></table>
-            </div>
-                    <div class="box_small_topten" id="ranch-rushContainer" title="/popups/topTenPopup">
-                <table border="0" cellpadding="0" cellspacing="0" width="204" class="box_small_topten_off" style="margin-bottom:1px;">
-                    <tbody><tr onclick="window.location.href='/game/ranch-rush';" style="cursor:pointer;">
-                        <td class="topten_number" valign="middle">5</td>
-                        <td class="topten_image" style="background:url(http://p.playfirst.com/static/1216787795000/img/game/ranch-rush/ranch-rush_42x42.jpg) no-repeat center center"><a href="/game/ranch-rush"><img src="http://p.playfirst.com/static/1239238113000/img2/topten_mask.png" width="50" height="50" alt=""></a></td>
-                        <td class="topten_desc"><a href="/game/ranch-rush" class="block">Ranch Rush</a></td>
-                    </tr>
-                </tbody></table>
-            </div>
-                    <div class="box_small_topten" id="dreamchronicles2Container" title="/popups/topTenPopup">
-                <table border="0" cellpadding="0" cellspacing="0" width="204" class="box_small_topten_off" style="margin-bottom:1px;">
-                    <tbody><tr onclick="window.location.href='/game/dreamchronicles2';" style="cursor:pointer;">
-                        <td class="topten_number" valign="middle">6</td>
-                        <td class="topten_image" style="background:url(http://p.playfirst.com/static/1214886193000/img/game/dreamchronicles2/dreamchronicles2_42x42.jpg) no-repeat center center"><a href="/game/dreamchronicles2"><img src="http://p.playfirst.com/static/1239238113000/img2/topten_mask.png" width="50" height="50" alt=""></a></td>
-                        <td class="topten_desc"><a href="/game/dreamchronicles2" class="block">Dream Chronicles 2</a></td>
-                    </tr>
-                </tbody></table>
-            </div>
-                    <div class="box_small_topten" id="sallysspaContainer" title="/popups/topTenPopup">
-                <table border="0" cellpadding="0" cellspacing="0" width="204" class="box_small_topten_off" style="margin-bottom:1px;">
-                    <tbody><tr onclick="window.location.href='/game/sallysspa';" style="cursor:pointer;">
-                        <td class="topten_number" valign="middle">7</td>
-                        <td class="topten_image" style="background:url(http://p.playfirst.com/static/1214886046000/img/game/sallysspa/sallysspa_42x42.jpg) no-repeat center center"><a href="/game/sallysspa"><img src="http://p.playfirst.com/static/1239238113000/img2/topten_mask.png" width="50" height="50" alt=""></a></td>
-                        <td class="topten_desc"><a href="/game/sallysspa" class="block">Sallys Spa</a></td>
-                    </tr>
-                </tbody></table>
-            </div>
-                    <div class="box_small_topten" id="cookingdashContainer" title="/popups/topTenPopup">
-                <table border="0" cellpadding="0" cellspacing="0" width="204" class="box_small_topten_off" style="margin-bottom:1px;">
-                    <tbody><tr onclick="window.location.href='/game/cookingdash';" style="cursor:pointer;">
-                        <td class="topten_number" valign="middle">8</td>
-                        <td class="topten_image" style="background:url(http://p.playfirst.com/static/1217289596000/img/game/cookingdash/cookingdash_42x42.jpg) no-repeat center center"><a href="/game/cookingdash"><img src="http://p.playfirst.com/static/1239238113000/img2/topten_mask.png" width="50" height="50" alt=""></a></td>
-                        <td class="topten_desc"><a href="/game/cookingdash" class="block">Cooking Dash</a></td>
-                    </tr>
-                </tbody></table>
-            </div>
-                    <div class="box_small_topten" id="dreamchroniclesContainer" title="/popups/topTenPopup">
-                <table border="0" cellpadding="0" cellspacing="0" width="204" class="box_small_topten_off" style="margin-bottom:1px;">
-                    <tbody><tr onclick="window.location.href='/game/dreamchronicles';" style="cursor:pointer;">
-                        <td class="topten_number" valign="middle">9</td>
-                        <td class="topten_image" style="background:url(http://p.playfirst.com/static/1214886046000/img/game/dreamchronicles/dreamchronicles_42x42.jpg) no-repeat center center"><a href="/game/dreamchronicles"><img src="http://p.playfirst.com/static/1239238113000/img2/topten_mask.png" width="50" height="50" alt=""></a></td>
-                        <td class="topten_desc"><a href="/game/dreamchronicles" class="block">Dream Chronicles</a></td>
-                    </tr>
-                </tbody></table>
-            </div>
-                    <div class="box_small_topten" id="jessica-mysterious-journeyContainer" title="/popups/topTenPopup">
-                <table border="0" cellpadding="0" cellspacing="0" width="204" class="box_small_topten_off" style="margin-bottom:1px;">
-                    <tbody><tr onclick="window.location.href='/game/jessica-mysterious-journey';" style="cursor:pointer;">
-                        <td class="topten_number" valign="middle">10</td>
-                        <td class="topten_image" style="background:url(http://p.playfirst.com/static/1239243476000/img/game/jessica-mysterious-journey/jessica-mysterious-journey_42x42.jpg) no-repeat center center"><a href="/game/jessica-mysterious-journey"><img src="http://p.playfirst.com/static/1239238113000/img2/topten_mask.png" width="50" height="50" alt=""></a></td>
-                        <td class="topten_desc"><a href="/game/jessica-mysterious-journey" class="block">Jessica - Mysterious journey</a></td>
-                    </tr>
-                </tbody></table>
-            </div>
-                 <div class="box_small_middle">
-        	<a href="/top-one-hundred-games.html" class="floatright" style="margin-top: 3px;">»&nbsp;Top 100</a>
-	    	<div class="clear"></div>
-        </div>
-        <div class="box_small_bottom"></div>
-  
+                  <table style="width:202px;" cellpadding="0" cellspacing="0">
+            <tbody><tr>
+                                <td class="interior_bg catalogControls flex_content" style="">
+                        <div id="sectionControl" class="showContents">
+        <a title="Show/Hide All Categories" onclick="pf.toggleCatalogControls();">
+            <h3>Find a Game</h3>
+            <button title="Show/Hide"></button>
+            <div class="clear"></div>
+        </a>
+    </div>
+    <div id="platformSection">
+        <div>
+            <span>
+                <img id="windowsImg" src="http://p.playfirst.com/static/1254933963000/626/img2/icons/icon_windows.gif" width="16" height="16" alt="Windows Games">
+                <img class="hidden" id="macImg" src="http://p.playfirst.com/static/1254933965000/626/img2/icons/icon_apple.gif" width="16" height="16" alt="Mac Games">
+                <img class="hidden" id="onlinePlayImg" src="http://p.playfirst.com/static/1254933926000/626/img2/icons/icon_online.gif" width="16" height="16" alt="Online Play Games">
+                <img class="hidden" id="mobileImg" src="http://p.playfirst.com/static/1254933936000/626/img2/icons/icon_mobile.gif" width="16" height="16" alt="Mobile Games">
+                <img class="hidden" id="iPhoneImg" src="http://p.playfirst.com/static/1254933961000/626/img2/icons/iphone_16x16.png" width="16" height="16" alt="iPhone Games">
+            </span>
 
-<script type="text/javascript" src="/pages2/js/hoverpopup-top10.js"></script>
+            <select id="selectPlatform" onchange="pf.clearAllGamesCookies(); document.location = '/category/' + jQuery(this).val(); jQuery('img', jQuery('#platformSection')).addClass('hidden'); jQuery('#' + jQuery('#selectPlatform').val() + 'Img', jQuery('#platformSection')).removeClass('hidden');">
+                    <option value="allPlatforms">All Platforms</option>
+                    <option value="windows" selected="selected">PC Games</option>
+                    <option value="mac">Mac Games</option>
+                    <option value="onlinePlay">Free Online Games</option>
+                    <option value="mobile">Mobile Games</option>
+                    <option value="iPhone">iPhone Games</option>
+            </select>
+        </div>
+    </div>
+    <ul id="categorySection">
+        <li class="filter_inactive" id="allGames">
+            <div>
+                <a href="/category/windows/allGames" onclick="pf.clearAllGamesCookies();">
+                    All Games
+                </a>
+            </div>
+        </li>
+        <li id="playfirstGames" class="filter_inactive">
+            <div>
+                <a href="/category/windows/playfirstGames" onclick="pf.clearAllGamesCookies();">
+                    PlayFirst Originals
+                </a>
+            </div>
+        </li>
+        <li id="dash" class="filter_inactive">
+            <div>
+                <a href="/category/windows/dash" onclick="pf.clearAllGamesCookies();">
+                    DASH™ &amp; Time Mgmt
+                </a>
+            </div>
+        </li>
+        <li id="action" class="filter_inactive">
+            <div>
+                <a href="/category/windows/action" onclick="pf.clearAllGamesCookies();">
+                    Action
+                </a>
+            </div>
+        </li>
+        <li id="adventure" class="filter_inactive">
+            <div>
+                <a href="/category/windows/adventure" onclick="pf.clearAllGamesCookies();">
+                    Adventure
+                </a>
+            </div>
+        </li>
+        <li id="card" class="filter_inactive">
+            <div>
+                <a href="/category/windows/card" onclick="pf.clearAllGamesCookies();">
+                    Classics and Cards
+                </a>
+            </div>
+        </li>
+        <li id="hidden_object" class="filter_inactive">
+            <div>
+                <a href="/category/windows/hidden_object" onclick="pf.clearAllGamesCookies();">
+                    Hidden Object
+                </a>
+            </div>
+        </li>
+        <li id="puzzle" class="filter_inactive">
+            <div>
+                <a href="/category/windows/puzzle" onclick="pf.clearAllGamesCookies();">
+                    Puzzle and Match 3
+                </a>
+            </div>
+        </li>
+        <li id="strategy" class="filter_inactive">
+            <div>
+                <a href="/category/windows/strategy" onclick="pf.clearAllGamesCookies();">
+                    Simulation and Strategy
+                </a>
+            </div>
+        </li>
+        <li id="word" class="filter_inactive">
+            <div>
+                <a href="/category/windows/word" onclick="pf.clearAllGamesCookies();">
+                    Word and Trivia
+                </a>
+            </div>
+        </li>
+        <li id="episodes" class="filter_inactive">
+            <div>
+                <a href="/category/windows/episodes" onclick="pf.clearAllGamesCookies();">
+                    Episodes
+                </a>
+            </div>
+        </li>
+    </ul>
+    
+
+
+                </td>
+                            </tr>
+        </tbody></table>
+             
+      <div class="flex_container main_bg" style="width:202px;">
+                    <img class="main_bg flex_leftCorner" src="http://p.playfirst.com/static/1254933956000/626/img2/boxes/flexible/box_botleft_border_orange.gif" width="6" height="6" alt="">
+            <img class="flex_rightSection" src="http://p.playfirst.com/static/1254933952000/626/img2/boxes/flexible/box_botrow_border_orange.gif" width="800" height="6" alt="">
+            </div>
+    </div>
+</div>
+
+
+
+                                                                                                    
+
+
+
+
+
+    
+<div class="pod controlPod">
+  <div style="width: 204px; padding-left:4px; margin-top:14px;">
+                  <table style="width:204px;" cellpadding="0" cellspacing="0">
+            <tbody><tr>
+                                <td class=" catalogFilters flex_content" style="">
+                            <ul>
+            <li><a href="/games/newest" onclick="pf.clearAllGamesCookies();">Newest Releases</a></li>
+            <li><a href="/games/best-selling" onclick="pf.clearAllGamesCookies();">Best Selling</a></li>
+            <li><a href="/category/onlinePlay" onclick="pf.clearAllGamesCookies();">Free Online Games</a></li>
+        </ul>
+    
+
+
+                </td>
+                            </tr>
+        </tbody></table>
+             
+    </div>
+</div>
+</div>
+
+        
+
+
+    
+
+                                                                                                    
+
+
+
+
+
+        
+<div class="pod generalPod2 defaultPod">
+  <div style="width: 204px; padding-left:0px; margin-top:14px;">
+      <div class="flex_container_top main_bg" style="width:204px;">
+      <img src="http://p.playfirst.com/static/1254933961000/626/img2/boxes/flexible/stripebox_greenTopBorder_topleft.gif" width="6" height="6" class="flex_leftCorner main_bg" alt="">
+      <img src="http://p.playfirst.com/static/1254933949000/626/img2/boxes/flexible/stripebox_greenTopBorder_toprow_bg.gif" width="600" height="6" class="flex_rightSection main_bg" alt="">
+    </div>
+              <div class="interior_bg podHeader" style="width:186px; padding-left:8px; padding-right:8px;">
+            <h3 style="margin:0;">Top 10 Games</h3>
+                            <div class="titleAnchor">
+                        <a href="/top-one-hundred-games.html">»&nbsp;Top 100</a>
+
+                </div>
+                        <div class="clear"></div>
+            <div class="flex_separator" style="width:204px; margin-right: -8px; margin-left:-8px;">&nbsp;</div>
+        </div>
+                <table style="width:204px;" cellpadding="0" cellspacing="0">
+            <tbody><tr>
+                                <td class="interior_bg topTen flex_content" style="">
+                                                                                <div class="box_small_topten " id="cake-mania-main-streetContainer">
+                        <a href="/game/cake-mania-main-street">
+                            <span class="rank">1</span>
+                            <img class="imageMask" src="http://p.playfirst.com/static/1254933938000/626/img2/topten_mask.png" width="50" height="50" alt="mask">
+                            <img src="http://p.playfirst.com/static/1254329074000/626/img/game/cake-mania-main-street/cake-mania-main-street_42x42.jpg" width="42" height="42" alt="Cake Mania Main Street">
+                            <span class="gameName">Cake Mania Main Street</span>
+                            <div class="clear"></div>
+                        </a>
+                    </div>
+                                    <div class="box_small_topten " id="gemini-lostContainer">
+                        <a href="/game/gemini-lost">
+                            <span class="rank">2</span>
+                            <img class="imageMask" src="http://p.playfirst.com/static/1254933938000/626/img2/topten_mask.png" width="50" height="50" alt="mask">
+                            <img src="http://p.playfirst.com/static/1252450597000/626/img/game/gemini-lost/gemini-lost_42x42.jpg" width="42" height="42" alt="Gemini Lost">
+                            <span class="gameName">Gemini Lost</span>
+                            <div class="clear"></div>
+                        </a>
+                    </div>
+                                    <div class="box_small_topten " id="cooking-dash-2Container">
+                        <a href="/game/cooking-dash-dinertown-studios">
+                            <span class="rank">3</span>
+                            <img class="imageMask" src="http://p.playfirst.com/static/1254933938000/626/img2/topten_mask.png" width="50" height="50" alt="mask">
+                            <img src="http://p.playfirst.com/static/1248298682000/626/img/game/cooking-dash-2/cooking-dash-2_42x42.jpg" width="42" height="42" alt="Cooking Dash - DinerTown Studios">
+                            <span class="gameName">Cooking Dash - DinerTown Studios</span>
+                            <div class="clear"></div>
+                        </a>
+                    </div>
+                                    <div class="box_small_topten " id="monopoly-build-a-lotContainer">
+                        <a href="/game/monopoly-build-a-lot">
+                            <span class="rank">4</span>
+                            <img class="imageMask" src="http://p.playfirst.com/static/1254933938000/626/img2/topten_mask.png" width="50" height="50" alt="mask">
+                            <img src="http://p.playfirst.com/static/1253230753000/626/img/game/monopoly-build-a-lot/monopoly-build-a-lot_42x42.jpg" width="42" height="42" alt="Monopoly Build-a-lot">
+                            <span class="gameName">Monopoly Build-a-lot</span>
+                            <div class="clear"></div>
+                        </a>
+                    </div>
+                                    <div class="box_small_topten " id="farm-frenzy-3Container">
+                        <a href="/game/farm-frenzy-3">
+                            <span class="rank">5</span>
+                            <img class="imageMask" src="http://p.playfirst.com/static/1254933938000/626/img2/topten_mask.png" width="50" height="50" alt="mask">
+                            <img src="http://p.playfirst.com/static/1252110369000/626/img/game/farm-frenzy-3/farm-frenzy-3_42x42.jpg" width="42" height="42" alt="Farm Frenzy 3">
+                            <span class="gameName">Farm Frenzy 3</span>
+                            <div class="clear"></div>
+                        </a>
+                    </div>
+                                    <div class="box_small_topten " id="fishdom-spooky-splashContainer">
+                        <a href="/game/fishdom-spooky-splash">
+                            <span class="rank">6</span>
+                            <img class="imageMask" src="http://p.playfirst.com/static/1254933938000/626/img2/topten_mask.png" width="50" height="50" alt="mask">
+                            <img src="http://p.playfirst.com/static/1254873316000/626/img/game/fishdom-spooky-splash/fishdom-spooky-splash_42x42.jpg" width="42" height="42" alt="Fishdom - Spooky Splash">
+                            <span class="gameName">Fishdom - Spooky Splash</span>
+                            <div class="clear"></div>
+                        </a>
+                    </div>
+                                    <div class="box_small_topten " id="delicious-emilys-fameContainer">
+                        <a href="/game/delicious-emilys-taste-of-fame">
+                            <span class="rank">7</span>
+                            <img class="imageMask" src="http://p.playfirst.com/static/1254933938000/626/img2/topten_mask.png" width="50" height="50" alt="mask">
+                            <img src="http://p.playfirst.com/static/1245875079000/626/img/game/delicious-emilys-fame/delicious-emilys-fame_42x42.jpg" width="42" height="42" alt="Delicious - Emilys Taste of Fame">
+                            <span class="gameName">Delicious - Emilys Taste of Fame</span>
+                            <div class="clear"></div>
+                        </a>
+                    </div>
+                                    <div class="box_small_topten " id="princess-isabellaContainer">
+                        <a href="/game/princess-isabella">
+                            <span class="rank">8</span>
+                            <img class="imageMask" src="http://p.playfirst.com/static/1254933938000/626/img2/topten_mask.png" width="50" height="50" alt="mask">
+                            <img src="http://p.playfirst.com/static/1253220220000/626/img/game/princess-isabella/princess-isabella_42x42.jpg" width="42" height="42" alt="Princess Isabella">
+                            <span class="gameName">Princess Isabella</span>
+                            <div class="clear"></div>
+                        </a>
+                    </div>
+                                    <div class="box_small_topten " id="wedding-dash-ready-aim-loveContainer">
+                        <a href="/game/wedding-dash-ready-aim-love">
+                            <span class="rank">9</span>
+                            <img class="imageMask" src="http://p.playfirst.com/static/1254933938000/626/img2/topten_mask.png" width="50" height="50" alt="mask">
+                            <img src="http://p.playfirst.com/static/1238555575000/626/img/game/wedding-dash-ready-aim-love/wedding-dash-ready-aim-love_42x42.jpg" width="42" height="42" alt="Wedding Dash - Ready Aim Love">
+                            <span class="gameName">Wedding Dash - Ready Aim Love</span>
+                            <div class="clear"></div>
+                        </a>
+                    </div>
+                                    <div class="box_small_topten " id="cookingdashContainer">
+                        <a href="/game/cookingdash">
+                            <span class="rank">10</span>
+                            <img class="imageMask" src="http://p.playfirst.com/static/1254933938000/626/img2/topten_mask.png" width="50" height="50" alt="mask">
+                            <img src="http://p.playfirst.com/static/1229874039000/626/img/game/cookingdash/cookingdash_42x42.jpg" width="42" height="42" alt="Cooking Dash">
+                            <span class="gameName">Cooking Dash</span>
+                            <div class="clear"></div>
+                        </a>
+                    </div>
+                 
+                                    <div class="sectionFooter">
+                        <a href="/top-one-hundred-games.html">»&nbsp;Top 100</a>
+                        <div class="clear"></div>
+                    </div>
+                                    
+
+
+                </td>
+                            </tr>
+        </tbody></table>
+             
+      <div class="flex_container main_bg" style="width:204px;">
+                    <img class="main_bg flex_leftCorner" src="http://p.playfirst.com/static/1254933962000/626/img2/boxes/flexible/box_botleft_greenTopBorder.gif" width="6" height="6" alt="">
+            <img class="flex_rightSection" src="http://p.playfirst.com/static/1254933928000/626/img2/boxes/flexible/box_botrow_greenTopBorder.gif" width="600" height="6" alt="">
+            </div>
+    </div>
+</div>
+ 
+    <script type="text/javascript" src="http://p.playfirst.com/static/1254933939000/626/js2/hoverpopup-top10.js"></script>
 <script type="text/javascript">
 
     function toggleCategories() {
@@ -457,66 +824,17 @@
             $('#moreCategories').html("&#0187;&nbsp;More Categories");
         }
     }
-    
-    //preload the top ten mask
-    var preloadImages = new Array();
-    preloadImages[0] = new Image();
-    preloadImages[0].src = "http://p.playfirst.com/static/1239238135000/img2/boxes/sidebar_vert_bg_orn.gif";
-    preloadImages[1] = new Image();
-    preloadImages[1].src = "http://p.playfirst.com/static/1239238111000/img2/boxes/topten_botrow_on.gif";
-    
-    if (/WebKit/i.test(navigator.userAgent)) { // sniff
-        var _timerleft = setInterval(function() {
-            if (/loaded|complete/.test(document.readyState)) {
-                clearInterval(_timerleft);
-                topten();
-            }
-        }, 10);
-    }
-    else {
-        $(window).load(function() {
-            topten();
-        });
-    }
-        
-    function topten() {        
-        $('.box_small_topten table').each(function() {
-            $(this).mouseover( function()  {
-        		if ($(this).hasClass('box_small_topten_off') || $(this).hasClass('box_small_topten_on')) {
-        		    $(this).addClass('box_small_topten_on');
-        		    $(this).removeClass('box_small_topten_off');
-        		}
-        		else {
-        		    $(this).addClass('box_small_topten_bottom_on');
-        		    $(this).removeClass('box_small_topten_bottom_off');
-        		}
-        	});
-        	$(this).mouseout( function() { 
-        		if ($(this).hasClass('box_small_topten_off') || $(this).hasClass('box_small_topten_on')) {
-        		    $(this).addClass('box_small_topten_off');
-        		    $(this).removeClass('box_small_topten_on');
-        		}
-        		else {
-        		    $(this).addClass('box_small_topten_bottom_off');
-        		    $(this).removeClass('box_small_topten_bottom_on');
-        		}
-        	});
-        });
-    }
 
-    initRollovers(); 
- 
-    
 </script>
 
     
                     </div>
                                                     <div id="main_center_two">
-                                <div class="box_large_top"></div>
+                    	                                <div class="box_large_top"></div>
     <div class="box_large_middle">
             <a name="top"></a>
         <h1>PlayFirst, Inc. Online Privacy Policy</h1>
-<p>Last updated September 2, 2008</p>
+<p>Last updated September 16, 2009</p>
 
 Changes to our Privacy Policy are highlighted in <strong>Bold</strong>
 
@@ -532,7 +850,7 @@ Changes to our Privacy Policy are highlighted in <strong>Bold</strong>
     </td>
     <td id="esrbLogo">
       <a href="https://www.esrb.org/confirm/playfirst-confirmation.jsp" target="_new">
-        <img src="http://p.playfirst.com/static/1239238104000/img2/privacy_certified-click_to_confirm.gif" width="70" height="97">
+        <img src="http://p.playfirst.com/static/1254933926000/626/img2/privacy_certified-click_to_confirm.gif" width="70" height="97">
       </a>
     </td>
   </tr>
@@ -615,9 +933,9 @@ Changes to our Privacy Policy are highlighted in <strong>Bold</strong>
 
     <p>To optimize our website, when you visit our website we automatically collect and store: the Uniform Resource Locator (URL) of the website from which you linked directly to our website; the Internet protocol (IP) address of the computer you are using; the browser software you use and your operating system; the date and time you access our sites; and the URL of your destination after you leave our website.</p>
 
-    <p>We use "Cookies" to provide you with a more personal and interactive experience on our website.   Cookies are pieces of information that a website stores on your computer.  We use cookies to maintain your website preferences, to automate your log-ins to our website, <strong>to help analyze traffic to our websites,</strong> and to track downloads or referrals.  This information may be associated with the personal information available in your account.</p>
+    <p>We use "Cookies" to provide you with a more personal and interactive experience on our website.   Cookies are pieces of information that a website stores on your computer.  We use cookies to maintain your website preferences, to automate your log-ins to our website, to help analyze traffic to our websites, and to track downloads or referrals.  This information may be associated with the personal information available in your account.</p>
 
-<p><strong>Coremetrics: We are working with a service-provider, Coremetrics, that 
+<p>Coremetrics: We are working with a service-provider, Coremetrics, that 
 assists us in better understanding your use of our websites. PlayFirst will 
 place cookies on your computer upon a visit to our site to collect information 
 and we share that information with Coremetrics through "Clear GIFs" (see below). 
@@ -634,13 +952,15 @@ Coremetrics analyzes the information it collects on our behalf and returns
 its analysis to us through a secure web connection. Other than allowing use
 of collected data on an aggregate basis, Coremetrics is contractually required
 to maintain all information collected and its analyses in confidence.  You have
-the option to deactivate Coremetrics tracking–<a href="#q4">see below</a> to learn about your options.</strong></p>
+the option to deactivate Coremetrics tracking–<a href="#q4">see below</a> to learn about your options.</p>
 
-    <p>We <strong>and our service provider Coremetrics</strong> use "Clear GIFs" to analyze traffic on our websites, and within HTML e-mails to determine whether the e-mails have been opened.  Clear GIFs (also called Web Beacons, or Web Bugs) are small images embedded on web-pages and in email communications.  We do not use clear GIFS to collect or store any of your personal information.</p>
+    <p>We and our service provider Coremetrics use "Clear GIFs" to analyze traffic on our websites, and within HTML e-mails to determine whether the e-mails have been opened.  Clear GIFs (also called Web Beacons, or Web Bugs) are small images embedded on web-pages and in email communications.  We do not use clear GIFS to collect or store any of your personal information.</p>
 
     <p>We use "Digital Rights Management" (DRM) technology to control access to our products.  Upon expiration of the trial period for a game, DRM requires a user to submit a confirmation code or username/password.  Our DRM technology assigns a unique ID to your computer, in order to ensure that a user can have only one trial period.  In addition, we use DRM to allow a user to submit feedback including ratings, comments and game-play data.  This information may be associated with the personal information available in your account.</p>
 
     <p>We use "Game Play Tracking" technology to understand how our games are being played.  This technology logs information such as date, version, the timing and tracking of mouse clicks and keyboard actions, scoring, game progress, and system information.  This information is not associated with your personal information, except in the case of beta testers in the FirstPeek program.</p>
+
+    <p><strong>We use "ClickTale" technology to better understand how visitors navigate our website. This software allows us to track the user's mouse movement while on PlayFirst.com, and the information collected is associated with a unique ID assigned to each visitor. This information is not associated with your personal information.</strong></p>
 
     <p>We use "Game Updater" technology to ensure that the games being played on our website will function properly and are of the required version.   The Game Updater will send information about the game installation such as a unique installation identifier, game version, game name and operating system version to PlayFirst.  Game updater does not collect any personal information.  The Game Updater will also check your computer automatically for previously downloaded PlayFirst games so it may offer you available promotional upgrades.  In such instance, the Game Updater will only transmit information (such as the game version and the options that you have selected) to us if you click to sign up for the offer or to find out more about the offer.</p>
 
@@ -713,7 +1033,7 @@ the option to deactivate Coremetrics tracking–<a href="#q4">see below</a> to l
 
       <p>If you signed up to receive newsletters or other emails from us, you can opt-out any time simply by clicking the unsubscribe link at the bottom of the message, or by sending an email to our online customer support.  If you have opted-out from receiving communications from us, we may share that information with the third parties who perform services on our behalf so that they do not contact you on our behalf.  Note that you may have more than one email option (e.g., both newsletters and promotions) and unsubscribing from one will not unsubscribe you from the others.  You may change these options by accessing your account or through our support form http://www.PlayFirst.com/help/support.html.</p>
 
-<p><strong>As a visitor to PlayFirst.com, you have the option to deactivate the ability of Coremetrics to analyze your browsing and purchasing behavior on our site. You may also choose to continue to benefit from the improved shopping experience which the Coremetrics analysis allows us to provide to you, but maintain anonymity. If you delete your cookies, you will need to opt-out again. To learn more about the various levels of privacy and confidentiality you can select with respect to Coremetrics and to exercise your choice, <a href="/analytics-opt-out.html">click here</a>.</strong></p>
+<p>As a visitor to PlayFirst.com, you have the option to deactivate the ability of Coremetrics to analyze your browsing and purchasing behavior on our site. You may also choose to continue to benefit from the improved shopping experience which the Coremetrics analysis allows us to provide to you, but maintain anonymity. If you delete your cookies, you will need to opt-out again. To learn more about the various levels of privacy and confidentiality you can select with respect to Coremetrics and to exercise your choice, <a href="/analytics-opt-out.html">click here</a>.</p>
 
       <a name="california"></a>
       <h3>Your California Privacy Rights</h3>
@@ -804,32 +1124,124 @@ the option to deactivate Coremetrics tracking–<a href="#q4">see below</a> to l
              </div>
     <div class="box_large_bottom"></div>
     
-                    </div>
+                                            </div>
                                                              <div class="clear"></div>
             <br>
         </div>
-        <div id="footer" class="screenonly png">
-            <div id="footer_left">
-                <a href="/privacy-policy.html"><img src="http://p.playfirst.com/static/1239238127000/img2/privacy_certified-2008-117x44.gif" width="117" height="44" alt="ESRB Privacy Certified"></a>
+        <div class="base centerelement">
+    <div class="base_middle">
+                <div class="base_content">
+                        <div class="base_section1 floatleft">
+                <div class="centerelement">
+                    <img src="http://p.playfirst.com/static/1254933926000/626/img2/bottom/sitemap_logo.png" width="102" height="32" alt="PlayFirst">
+                </div>
+                <div style="padding-top:4px;line-height:1.2em;">
+                    PlayFirst is the creator of Diner Dash, Chocolatier, Dream Chronicles and other award-winning casual games.
+                                    </div>
+                <div class="paddingbtm16 " style="background:url(http://p.playfirst.com/static/1254933928000/626/img2/bottom/sitemap_hz_divider.png) no-repeat center center;width:199px;height:3px;font-size:0;line-height:0;"></div>
+                <div class="">
+                   <h4>Our Award-Winning Series:</h4>
+                   <a href="/dinerdash/?footer" class="more block">»&nbsp;Diner Dash</a>
+                   <a href="/world/chocolatier?footer" class="more block">»&nbsp;Chocolatier</a>
+                   <a href="/dream-chronicles/?footer" class="more block">»&nbsp;Dream Chronicles</a>
+                </div>
+                <div class="paddingbtm16 " style="background:url(http://p.playfirst.com/static/1254933928000/626/img2/bottom/sitemap_hz_divider.png) no-repeat center center;width:199px;height:3px;font-size:0;line-height:0;"></div>
+                <div style="line-height:1em;">
+                    <div class="floatleft" style="padding-right:6px;">
+                        <img src="http://p.playfirst.com/static/1254933960000/626/img2/icons/icon_qualityshield.png" width="25" height="26" alt="Quality Tested. Virus-free.">
+                    </div>
+                    All of our games are quality tested and virus-free.
+                </div>
+            </div>             
+                        <div class="base_section floatleft">
+                <div class="paddingbtm16">
+                    <h4>Create An Account</h4>
+                    <a href="/secure/createAccount.html?footer" class="block more">»&nbsp;Register for Free</a>
+                    <a href="/aboutPlayPass.html?footer" class="block more">»&nbsp;Join PlayPass</a>
+                </div>
+                <div class="paddingbtm16">
+                    <h4>PlayFirst Community</h4>
+                    <a href="/forums/forum/15?footer" class="block more">»&nbsp;PlayFirst Lounge</a>
+                    <a href="/forums?footer" class="block more">»&nbsp;Forums</a>
+                    <a href="/tips?footer" class="block more">»&nbsp;Game Tips</a>
+                    <a href="http://www.everydayherogear.com/floscloset" class="leavingPlayFirstPopup_trigger block more" target="_blank">»&nbsp;Flo's Closet</a>
+                </div>
+
+                <div class="">
+                    <h4>PlayFirst.com Account</h4>
+                    <a href="/myplayfirst.html?footer" class="block more">»&nbsp;Go To My Account</a>
+                    <a href="/secure/viewpaymentinfo.html?footer" class="block more">»&nbsp;View My Billing Information</a>
+                    <a href="/secure/unlockkeys.html?footer" class="block more">»&nbsp;Get My Unlock Keys</a>
+                    <a href="/secure/myPlayPass.html?footer" class="block more">»&nbsp;View My PlayPass Information</a>
+                </div>
+            </div>             
+                        <div class="base_section floatleft">
+                <div class="paddingbtm16">
+                    <h4>Find Games</h4>
+                    <a href="/games.html?cm_sp=browse_all_from_footer" class="block more" onclick="pf.clearAllGamesCookies();">»&nbsp;Browse All Game Downloads</a>
+                    <a href="/games/newest?cm_sp=browse_new_from_footer" class="block more" onclick="pf.clearAllGamesCookies()">»&nbsp;New Game Releases</a>
+                    <a href="/top-one-hundred-games.html?footer" class="block more">»&nbsp;Top 100 Download Games</a>
+                    <a href="/discounts?footer" class="block more">»&nbsp;Game Discounts &amp; Bundles</a>
+                </div>
+                <div class="">
+                    <h4>Games Categories</h4>
+                    <a onclick="pf.clearAllGamesCookies()" href="/category/dash?footer" class="block more">»&nbsp;DASH &amp; Time Management Games </a>
+                    <a onclick="pf.clearAllGamesCookies()" href="/category/action?footer" class="block more">»&nbsp;Action Games</a>
+                    <a onclick="pf.clearAllGamesCookies()" href="/category/adventure?footer" class="block more">»&nbsp;Adventure Games</a>
+                    <a onclick="pf.clearAllGamesCookies()" href="/category/card?footer" class="block more">»&nbsp;Classics and Card Games</a>
+                    <a onclick="pf.clearAllGamesCookies()" href="/category/hidden_object?footer" class="block more">»&nbsp;Hidden Object Games </a>
+                    <a onclick="pf.clearAllGamesCookies()" href="/category/puzzle?footer" class="block more">»&nbsp;Puzzle and Match 3 Games </a>
+                    <a onclick="pf.clearAllGamesCookies()" href="/category/strategy?footer" class="block more">»&nbsp;Simulation and Strategy Games</a>
+                    <a onclick="pf.clearAllGamesCookies()" href="/category/word?footer" class="block more">»&nbsp;Word and Trivia Games</a>
+                    <a onclick="pf.clearAllGamesCookies()" href="/category/episodes?footer" class="block more">»&nbsp;Episodes</a>
+                    <a onclick="pf.clearAllGamesCookies()" href="/category/online?footer" class="block more">»&nbsp;Free Online Games </a>
+                    <a onclick="pf.clearAllGamesCookies()" href="/content/nonav/iphone.html?footer" class="block more">»&nbsp;iPhone Games</a>
+                    <a onclick="pf.clearAllGamesCookies()" href="/category/mac?footer" class="block more">»&nbsp;Mac Games </a>
+                </div>
+            </div> 
+                        <div class="base_section floatleft">
+                <div class="paddingbtm16">
+                    <h4>Help &amp;  Info</h4>
+                    <a href="/help.html?footer" class="block more">»&nbsp;FAQ</a>
+                    <a href="/help/support.html?footer" class="block more">»&nbsp;Contact Support </a>
+                    <a href="/tos.html?footer" class="block more">»&nbsp;Terms of Service </a>
+                    <a href="/privacy-policy.html?footer" class="block more">»&nbsp;Privacy Policy</a>
+                </div>
+                <div class="paddingbtm16">
+                    <h4>Partners</h4>
+                    <a href="/about/partners.html?footer" class="more block">»&nbsp;Distribute Our Games</a>
+                    <a href="/affiliate?footer" class="more block">»&nbsp;Join Our Affiliate Program</a>
+                    <a href="http://developer.playfirst.com/?footer" class="more block">»&nbsp;Game Developer's Site</a>
+                    <a href="/about/partners.html?footer" class="more block">»&nbsp;General Partner Information</a>
+                </div>
+                <div class="">
+                    <h4>About Us</h4>
+                    <a href="http://twitter.com/PlayFirst" class="leavingPlayFirstPopup_trigger more block" target="_blank">»&nbsp;Follow us on Twitter</a>
+                    <a href="/about/index.html?footer" class="more block">»&nbsp;Corporate Information</a>
+                    <a href="/about/news.html?footer" class="more block">»&nbsp;News</a>
+                    <a href="/about/careers.html?footer" class="more block">»&nbsp;Careers</a>
+                </div>
             </div>
-            <div id="footer_middle" class="center">
-                <a href="/forums">Forums</a> | 
-                <a href="/blog/grapevine">PlayFirst Blog</a> | 
-                <a href="/about/index.html">About Us</a> | 
-                <a href="/about/careers.html">Careers</a> | 
-                <a href="http://affiliate.playfirst.com/">Affiliates</a> | 
-                <a href="/tos.html">Terms of Service</a> | 
-                <a href="/privacy-policy.html">Privacy Policy</a>
-                                <br>
-                <div class="small" style="margin-top:5px;">
-                ©2005-2009 PlayFirst, Inc. All rights reserved.<br>
-                PlayFirst, Diner Dash, and all related logos are trademarks of PlayFirst, Inc., registered in the U.S. and other countries.                 </div>
+        </div>         <div class="clear"> </div>
+    </div>    <div class="base_bottom screenonly png">
+                <div style="width:964px; height:66px; padding-top:10px;">
+                        <div style="padding-left:4px;" class="floatleft">
+                <a href="http://www.bbb.org/greater-san-francisco/business-reviews/video-games-dealers/playfirst-in-san-francisco-ca-117995" target="_blank">
+                    <img src="http://p.playfirst.com/static/1254933945000/626/img2/bbb_badge.png" width="135" height="44">
+                </a>
             </div>
-            <div id="footer_right">
-            
+            <div style="padding-left:12px;" class="floatleft">
+                <a href="/privacy-policy.html?footer"><img src="http://p.playfirst.com/static/1254933957000/626/img2/privacy_certified-2008-117x44.gif" width="117" height="44"></a>
             </div>
-            <div class="clear"></div>
+                        <div class="small right alt_gray">
+            ©2005-2009 PlayFirst, Inc. All rights reserved.<br>
+                <div>
+                    <a href="/tos.html?footer">»&nbsp;Terms of Service </a>
+                </div>
+            </div>
         </div>
+    </div>
+</div>
     </div>
             <div class="popup_small" id="loginPopup">
 
@@ -843,55 +1255,92 @@ the option to deactivate Coremetrics tracking–<a href="#q4">see below</a> to l
         </div>
          <div class="clear"></div>
 </div>
+
+		<div class="popup_tabs popup" style="background: url(http://p.playfirst.com/static/1254933925000/626/img2/popup/modal_small_tabs_b.png) no-repeat"> 
+		<div class="popup_tab_content">
+							<a href="#" onclick="javascript:jQuery('#loginPopup').jqmHide(); jQuery('#emailSignupPopup').jqmShow(); document.getElementById('signupPopup_email').focus(); return false">I'm New Here</a>
+					</div>
+		<div class="popup_tab_divider"></div>
+		<div class="popup_tab_content">
+							<div class="greenFont bold">I Have an Account</div>
+					</div>
+	</div>
+
 <div class="popup_body popup">
-            <div class="popup_content" style="background:url(http://p.playfirst.com/static/1239238117000/img2/icons/icon_popup_opendoor.gif) no-repeat top left;">
-                        <div id="loginPopupMessage"></div>
-            <!--beginForm-->
+            <div class="popup_content" style="background:url(http://p.playfirst.com/static/1254933945000/626/img2/icons/icon_popup_opendoor.gif) no-repeat top left;">
+            
+<h2 id="loginPopupHeader">Log In</h2>
+<div id="loginPopupMessage"></div>
 
 
-<form method="post" action="https://www.playfirst.com/action/login" id="loginForm" name="loginForm">
+
+<form method="post" action="https://www.playfirst.com/action/login" onsubmit="submitPopupForm('#popupLoginForm', '#loginPopup', '/action/login' ); pf.showProcessing('loginPopupSubmit'); return false;" id="popupLoginForm" name="popupLoginForm">
 <input type="hidden" name="formSubmitted" value="true">
 <div class="form_top"></div>
-<!--/beginForm-->
-
-            <strong>Username or Email:</strong><br>
-            <!--formElement-->
 
 
-            <input value="" type="hidden" id="currentURI" name="currentURI">        
-     <!--/formElement-->
+            <input value="" class="success_javascript" type="hidden" id="success_javascript" name="success_javascript">        
+         
 
-            <!--formElement-->
+            <input value="Log In" type="hidden" id="header" name="header">        
+         
+
+            <input value="loginPopup" type="hidden" id="popupName" name="popupName">        
+         
+
+            <input value="true" type="hidden" id="forwardOnly" name="forwardOnly">        
+         
+
+<table>
+	<tbody><tr><td>
+		 
+	</td></tr>
+	<tr><td>
+		<strong>Username or Email:</strong>
+	</td></tr>
+	<tr><td>
+		
+            <input autocomplete="off" maxlength="120" name="email" value="" class="textbox_med" type="text" id="handle_popup" tabindex="30">        
+         
+		 
+	</td></tr>
+	<tr><td>
+		<strong class="vertspacerx2">Password:</strong>
+	</td></tr>
+	<tr><td>
+		
+            <input class="textbox_med" type="password" maxlength="120" id="password" name="password" tabindex="31">        
+         
+		 
+		<div>
+			Don't have a password?<br>
+			Choose one now (6-20 characters).
+		</div>
+	</td></tr>
+	<tr><td>
+		<a href="/forgotPassword.html" class="more">»&nbsp;I forgot my password</a>
+	</td></tr>
+</tbody></table>
 
 
-            <input autocomplete="off" maxlength="120" name="handle" value="" class="textbox_med" type="text" id="handle_popup" tabindex="9">        
-     <!--/formElement-->
 
-            <br><br>
-            <strong class="vertspacerx2">Password:</strong><br>
-            <!--formElement-->
+            <input value="true" checked="checked" type="checkbox" id="remember" name="remember" tabindex="32">
+                  <label for="remember">Remember me</label>
+<br><br>
+             <input style="margin-left:48px;" value="Log In" class="submit button green medium-narrow" type="submit" id="loginPopupSubmit" tabindex="33">
 
-
-            <input class="textbox_med" type="password" maxlength="120" id="password" name="password" tabindex="10">        
-     <!--/formElement-->
-
-            <br><a href="/forgotPassword.html" class="more">»&nbsp;I forgot my password</a>
-            <br><br>
-            <!--formElement-->
+<div id="loginPopupSubmitProcessing" class="center" style="display:none;"><strong>Processing...</strong></div>
 
 
-            <input value="true" type="checkbox" id="remember" name="remember" tabindex="11">
-             <!--/formElement-->
- <label for="remember">Remember me</label>
-            <br>
-            <div id="loginPopupCreateAcct" class="vertspacerx2 hidden"><a href="createAccount.html" class="createAcctPopup_trigger">No account? Create one now!</a></div>
-            <br>
-                         <input style="margin-left:48px;" value="Log In" class="submit button_green_on_white_medium button_medium rollover" type="submit" tabindex="12">
+            <input value="" class="redirect_success" type="hidden" id="redirect_success" name="redirect_success">        
+         
 
-            <div class="form_bottom"></div>
+            <input value="/pages2/popups/login.vm" class="redirect_failure" type="hidden" id="redirect_failure" name="redirect_failure">        
+         
+<div class="form_bottom"></div>
 </form>
 
-        
+
         </div>  
         <br>
     <div class="center">
@@ -902,262 +1351,29 @@ $('.popup').ifixpng();
 </script>
 <!--/popupLayout-->
 </div><!--loginPopup-->
-            <div class="popup_small" id="PopupTool_4068741"></div><!--PopupTool_4068741-->
-            <div class="popup_big" id="createAcctPopup">
+            <div class="popup_small" id="leavingPlayFirstPopup">
 
 <!--popupLayout-->
 <div class="popup_header popup">
     <div class="popup_title">
-        Create Account
+        You're Leaving PlayFirst.com
     </div>
             <div class="popup_closer">
-            <a href="" class="popup_close_x popup_close" id="createAcctPopup_close"></a> 
+            <a href="" class="popup_close_x popup_close" id="leavingPlayFirstPopup_close"></a> 
         </div>
          <div class="clear"></div>
 </div>
+
+
 <div class="popup_body popup">
-            			
-		<div class="reduced_wide">
-			<h1>Create an Account</h1>
-            <!--beginForm-->
+            <div class="popup_content" style="background:url(http://p.playfirst.com/static/1254933945000/626/img2/icons/icon_popup_opendoor.gif) no-repeat top left;">
+                <p>You're about to leave PlayFirst.com. The next page will open in a new tab or new window.</p>
+    <div class="buttons">
+        <a href="/" class="button green medium-narrow popup_close">Cancel</a>
+        <a href="" id="leavingPlayFirstLink" class="button green medium-narrow" target="_blank" onclick="pf.hidePopup('leavingPlayFirstPopup')">Continue</a>
+    </div>
 
-
-<form method="post" action="https://www.playfirst.com/action/accountActions" class="form vertspacerx2 relative" id="createAccountForm" name="createAccountForm">
-<input type="hidden" name="formSubmitted" value="true">
-<div class="form_top"></div>
-<!--/beginForm-->
-
-            <!--formElement-->
-
-
-            <input value="createAccount" type="hidden" id="method" name="method">        
-     <!--/formElement-->
-
-            <!--formElement-->
-
-
-            <input type="hidden" id="redir" name="redir">        
-     <!--/formElement-->
-
-                        
-            <table>             	<tbody><tr>
-            		<td style="width: 400px; border-right: 1px solid #DEDEDE;">
-            
-            <div class="form_number">
-                &nbsp;
-            </div>
-            <div class="form_label_short">
-                Email address:
-            </div>
-            <div class="floatleft relative">
-                   <!--formElement-->
-
-
-            <input value="" class="textbox_med" type="text" maxlength="120" id="email" name="email" tabindex="1">        
-     <!--/formElement-->
-
-                    
-            </div>
-            <div></div>
-            <div class="clear"></div>
-            <div class="form_separator"></div>
-                        
-            <div class="form_number">
-                &nbsp;
-            </div>
-            <div class="form_label_short">
-                Choose a username: 
-            </div>
-            <div class="floatleft relative">
-                <!--formElement-->
-
-
-            <input class="textbox_med" type="text" maxlength="20" id="handle" name="handle" tabindex="2">        
-     <!--/formElement-->
-
-                                <div class="small">4-20 alphanumeric characters</div>
-                                
-            </div>
-            <div class="clear"></div>
-            <div class="form_separator"></div>
-                            
-            <div class="form_number">
-                &nbsp;
-            </div>
-            <div class="form_label_short">
-                Password:
-            </div>
-            <div class="floatleft relative">
-                 <!--formElement-->
-
-
-            <input class="textbox_med" type="password" maxlength="20" id="newPassword" name="newPassword" tabindex="3">        
-     <!--/formElement-->
-
-                 <div class="small">6-20 characters</div>
-                 <div style="width:215px;">
-                  
-            </div>
-            </div>
-            <div class="clear"></div>
-            <div class="form_separator"></div>
-                    
-            <div class="form_number">
-                &nbsp;
-            </div>
-            <div class="form_label_short">
-                Retype password:
-            </div>
-            <div class="floatleft relative">
-                <!--formElement-->
-
-
-            <input class="textbox_med" type="password" maxlength="20" id="passwordVerification" name="passwordVerification" tabindex="4">        
-     <!--/formElement-->
-
-                 
-            </div>
-            <div class="clear"></div>
-            <div class="form_separator"></div>
-                        
-            <div class="form_number">
-                &nbsp;
-            </div>
-            <div class="form_label_short">
-                            Date of birth: 
-                        </div>
-            <div class="floatleft relative">
-                 <!--dobEntry-->
-
-	
-		    
-		    
-		    
-		    
-		    
-		    
-		    
-		    
-		    
-		    
-		    
-		    
-	 	<!--formElement-->
-
-
-            <select id="monthOfBirth" name="monthOfBirth" tabindex="5"><option value="0">January</option><option value="1">February</option><option value="2">March</option><option value="3">April</option><option value="4">May</option><option value="5">June</option><option value="6">July</option><option value="7">August</option><option value="8">September</option><option value="9">October</option><option value="10">November</option><option value="11">December</option></select>        
-     <!--/formElement-->
-
-	
-	    	        
-	    	        
-	    	        
-	    	        
-	    	        
-	    	        
-	    	        
-	    	        
-	    	        
-	    	        
-	    	        
-	    	        
-	    	        
-	    	        
-	    	        
-	    	        
-	    	        
-	    	        
-	    	        
-	    	        
-	    	        
-	    	        
-	    	        
-	    	        
-	    	        
-	    	        
-	    	        
-	    	        
-	    	        
-	    	        
-	    	        
-	     	<!--formElement-->
-
-
-            <select id="dayOfBirth" name="dayOfBirth" tabindex="6"><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select>        
-     <!--/formElement-->
-
-	<!--formElement-->
-
-
-            <input class="textbox_tiny" type="text" id="yearOfBirth" name="yearOfBirth" tabindex="7">        
-     <!--/formElement-->
-
-	 
-        <!--/dobEntry-->
-            </div>
-            <div class="clear"></div>
-            <div class="form_separator"></div>
-            
-                                     
-            		</td>
-               		<td style="padding-top: 50px; vertical-align: top;">
-                                    		
-        	<div class="form_label_short" style="width: 30px;">
-	        	                <!--formElement-->
-
-
-            <input checked="checked" type="checkbox" id="pf-games" name="pf-games" tabindex="100">
-             <!--/formElement-->
- 
-            </div>
-            <div class="floatleft vertspacer">
-                <label for="pf-games" class="label">
-                	 PlayFirst Newsletter
-                	                </label><br>
-                <span class="small">Sign up and be the first to hear about hot, <br>new game releases and primo promos!</span>
-            </div>
-            
-            <div class="clear"></div>
-            
-            
-
-            <div class="form_label_short" style="width: 30px;">
-	                            <!--formElement-->
-
-
-            <input checked="checked" type="checkbox" id="trigger-emails" name="trigger-emails" tabindex="101">
-             <!--/formElement-->
-
-            </div>
-            <div class="floatleft vertspacer">
-                <label for="trigger-emails" class="label">Special Offers and Reminders</label><br>
-                <span class="small">Get the info you need most—offers, updates, <br>and reminders tailored just for you! </span>
-            </div>
-            
-            		</td>
-            	</tr>
-            </tbody></table>
-            
-            <div class="form_separator_defined"></div>
-            <div class="center">
-                  	<div class="center">
-<input value="Create Account" class="vertspacerx2 button_orange_on_white_large button_large rollover" type="submit" tabindex="8">
-	</div>
-
-                    <p class="submitText">By clicking on Create Account I agree to the <a href="/privacy-policy.html" target="_blank">Privacy Policy</a> and <a href="/tos.html" target="_blank">Terms of Service</a></p>
-                    <!--formElement-->
-
-
-            <input value="true" type="hidden" id="privacyAndToS" name="privacyAndToS">        
-     <!--/formElement-->
-
-            </div>
-            <div class="form_bottom"></div>
-</form>
-
-		</div>
-     
-        
+        </div>  
         <br>
     <div class="center">
                      </div> </div>
@@ -1166,7 +1382,107 @@ $('.popup').ifixpng();
 $('.popup').ifixpng();
 </script>
 <!--/popupLayout-->
-</div><!--createAcctPopup-->
+</div><!--leavingPlayFirstPopup-->
+            <div class="popup_small" id="PopupTool_1131795">
+
+<!--popupLayout-->
+<div class="popup_header popup">
+    <div class="popup_title">
+        Download Mac game to PC?
+    </div>
+            <div class="popup_closer">
+            <a href="" class="popup_close_x popup_close" id="PopupTool_1131795_close"></a> 
+        </div>
+         <div class="clear"></div>
+</div>
+
+
+<div class="popup_body popup">
+            <div class="popup_content" style="background:url(http://p.playfirst.com/static/1254933928000/626/img2/icons/icon_popup_check.gif) no-repeat top left;">
+            This is a Mac file; it won't install on a PC.  Please continue if you plan to save this file and install it elsewhere.  Or, cancel to go back and choose another format.
+        </div>  
+        <br>
+    <div class="center">
+                    <br>
+                            <form name="abortConfirmPopupForm" class="popup_button_form">
+                <input id="abortButton" type="button" value="Cancel" class="popup_close button green medium-narrow" style="position:relative;outline:none;">
+                <input id="confirmButton" type="button" value="Continue" class="button green medium-narrow" style="position:relative;outline:none;">
+            </form>
+             </div> </div>
+<div class="popup_footer popup"></div>
+<script type="text/javascript">
+$('.popup').ifixpng();
+</script>
+<!--/popupLayout-->
+</div><!--PopupTool_1131795-->
+            <div class="popup_small" id="emailSignupPopup">
+
+<!--popupLayout-->
+<div class="popup_header popup">
+    <div class="popup_title">
+        Preparing to Download...
+    </div>
+            <div class="popup_closer">
+            <a href="" class="popup_close_x popup_close" id="emailSignupPopup_close"></a> 
+        </div>
+         <div class="clear"></div>
+</div>
+
+		<div class="popup_tabs popup" style="background: url(http://p.playfirst.com/static/1254933940000/626/img2/popup/modal_small_tabs_a.png) no-repeat"> 
+		<div class="popup_tab_content">
+							<div class="greenFont bold">I'm New Here</div>
+					</div>
+		<div class="popup_tab_divider"></div>
+		<div class="popup_tab_content">
+							<a href="#" onclick="javascript:jQuery('#loginPopup').jqmShow(); jQuery('#emailSignupPopup').jqmHide(); document.getElementById('handle_popup').focus(); return false">I Have an Account</a>
+					</div>
+	</div>
+
+<div class="popup_body popup">
+            <div class="popup_content" style="background:url(http://p.playfirst.com/static/1254933943000/626/img2/icons/icon_popup_download.gif) no-repeat top left;">
+            <span class="large">Loading...</span>
+        </div>  
+        <br>
+    <div class="center">
+                     </div> </div>
+<div class="popup_footer popup"></div>
+<script type="text/javascript">
+$('.popup').ifixpng();
+</script>
+<!--/popupLayout-->
+</div><!--emailSignupPopup-->
+            <div class="popup_small" id="PopupTool_1131794">
+
+<!--popupLayout-->
+<div class="popup_header popup">
+    <div class="popup_title">
+        Download PC game to Mac?
+    </div>
+            <div class="popup_closer">
+            <a href="" class="popup_close_x popup_close" id="PopupTool_1131794_close"></a> 
+        </div>
+         <div class="clear"></div>
+</div>
+
+
+<div class="popup_body popup">
+            <div class="popup_content" style="background:url(http://p.playfirst.com/static/1254933928000/626/img2/icons/icon_popup_check.gif) no-repeat top left;">
+            This is a PC file; it won't install on a Mac.  Please continue if you plan to save this file and install it elsewhere.  Or, cancel to go back and choose another format.
+        </div>  
+        <br>
+    <div class="center">
+                    <br>
+                            <form name="abortConfirmPopupForm" class="popup_button_form">
+                <input id="abortButton" type="button" value="Cancel" class="popup_close button green medium-narrow" style="position:relative;outline:none;">
+                <input id="confirmButton" type="button" value="Continue" class="button green medium-narrow" style="position:relative;outline:none;">
+            </form>
+             </div> </div>
+<div class="popup_footer popup"></div>
+<script type="text/javascript">
+$('.popup').ifixpng();
+</script>
+<!--/popupLayout-->
+</div><!--PopupTool_1131794-->
              
 
     <script src="/coremetrics/v40/eluminate.js"></script>
@@ -1175,10 +1491,10 @@ $('.popup').ifixpng();
         cmSetProduction();
                  
 	     var pageId = document.location; 
-        	
+    
             
              
-	            
+	        
         
              cmCreatePageviewTag(pageId, "Support", null, null);
         
@@ -1188,6 +1504,1243 @@ $('.popup').ifixpng();
     
      </script>
 
+        
+            <div id="cake-mania-main-streetpopup" style="display:none;">
+            
+
+<!--popup-->
+
+<div class="top10-popup">
+    <div class="top"></div>
+    <div class="body">
+
+        <div class="container">
+            <h2>Game Details</h2>
+            <div class="row">
+                <div class="image">
+                    <a href="/game/cake-mania-main-street" class="glp">
+                                                <img height="56" width="75" src="http://p.playfirst.com/static/1254328992000/626/img/game/cake-mania-main-street/cake-mania-main-streetSmall.jpg" class="gameimage alignTarget">
+                    </a>
+                </div>
+                <div class="game-name">
+                    <div>
+                        <a href="/game/cake-mania-main-street" class="glp">Cake Mania Main Street</a>
+                    </div>
+                    <div>
+                        
+  <img height="16" width="85" src="http://p.playfirst.com/static/1254933925000/626/img2/stars/star_small_4.gif" alt="4.0" class="starRating">
+
+                    </div>
+                </div>             </div>             <div class="clear"></div>
+
+            <div class="row">
+                <span>
+                    Raise money to revitalize Jill Evans' hometown!
+                </span>
+            </div>
+             
+
+
+                                                                            
+                                                                                                                     <div class="windows row ">
+                                                                                                             <div class="floatleft" style="visibility:visible">
+                                <a href="/game/cake-mania-main-street/download/windows" onclick="confirmVariant('cake-mania-main-street', 'Cake Mania Main Street', 'windows', '');    trackDownload('cake-mania-main-street','Game');    ; cmCreatePageElementTag('Download from Top Ten Popup', 'Download');     return false;" class="button small-wide red">PC Download</a>
+
+                            </div>
+                                                                         </div>                     <div class="clear"></div>
+                                                     <div class="row gameinfo windows ">
+                                                    <strong>FREE</strong> 60 minute trial 
+                                                                            (91.2 MB)
+                                            </div>                                         
+
+        </div>    </div>    <div class="bottom"></div>
+</div><!--/popup-->
+
+        </div>
+            <div id="gemini-lostpopup" style="display:none;">
+            
+
+<!--popup-->
+
+<div class="top10-popup">
+    <div class="top"></div>
+    <div class="body">
+
+        <div class="container">
+            <h2>Game Details</h2>
+            <div class="row">
+                <div class="image">
+                    <a href="/game/gemini-lost" class="glp">
+                                                <img height="56" width="75" src="http://p.playfirst.com/static/1252450564000/626/img/game/gemini-lost/gemini-lostSmall.jpg" class="gameimage alignTarget">
+                    </a>
+                </div>
+                <div class="game-name">
+                    <div>
+                        <a href="/game/gemini-lost" class="glp">Gemini Lost</a>
+                    </div>
+                    <div>
+                        
+  <img height="16" width="85" src="http://p.playfirst.com/static/1254933943000/626/img2/stars/star_small_4_half.gif" alt="4.2" class="starRating">
+
+                    </div>
+                </div>             </div>             <div class="clear"></div>
+
+            <div class="row">
+                <span>
+                    Follow the stars to find your way home!
+                </span>
+            </div>
+             
+
+
+                                                                            
+                                                                                                                     <div class="windows row ">
+                                                                                                             <div class="floatleft" style="visibility:visible">
+                                <a href="/game/gemini-lost/download/windows" onclick="confirmVariant('gemini-lost', 'Gemini Lost', 'windows', '');    trackDownload('gemini-lost','Game');    ; cmCreatePageElementTag('Download from Top Ten Popup', 'Download');     return false;" class="button small-wide red">PC Download</a>
+
+                            </div>
+                                                                                                <div class="show-platform">
+                                        <a href="?platform=macosx" onclick=" $('.windows').hide(); $('.macosx').show(); return false;">»&nbsp;Show Mac</a>
+                                    </div>
+                                                                                                         </div>                     <div class="clear"></div>
+                                                     <div class="row gameinfo windows ">
+                                                    <strong>FREE</strong> 60 minute trial 
+                                                                            (45.9 MB)
+                                            </div>                                                             
+                                                                                                                     <div class="macosx row hidden">
+                                                                                                             <div class="floatleft" style="visibility:visible">
+                                <a href="/game/gemini-lost/download/macosx" onclick="confirmVariant('gemini-lost', 'Gemini Lost', 'macosx', '');    trackDownload('gemini-lost','Game');    ; cmCreatePageElementTag('Download from Top Ten Popup', 'Download');     return false;" class="button small-wide red">Mac Download</a>
+
+                            </div>
+                                                                                                <div class="show-platform">
+                                        <a href="?platform=windows" onclick=" $('.macosx').hide(); $('.windows').show(); return false;">»&nbsp;Show PC</a>
+                                    </div>
+                                                                                                         </div>                     <div class="clear"></div>
+                                                     <div class="row gameinfo macosx hidden">
+                                                    <strong>FREE</strong> 60 minute trial 
+                                                                            (57.4 MB)
+                                            </div>                                         
+
+        </div>    </div>    <div class="bottom"></div>
+</div><!--/popup-->
+
+        </div>
+            <div id="cooking-dash-2popup" style="display:none;">
+            
+
+<!--popup-->
+
+<div class="top10-popup">
+    <div class="top"></div>
+    <div class="body">
+
+        <div class="container">
+            <h2>Game Details</h2>
+            <div class="row">
+                <div class="image">
+                    <a href="/game/cooking-dash-2" class="glp">
+                                                <img height="56" width="75" src="http://p.playfirst.com/static/1248298658000/626/img/game/cooking-dash-2/cooking-dash-2Small.jpg" class="gameimage alignTarget">
+                    </a>
+                </div>
+                <div class="game-name">
+                    <div>
+                        <a href="/game/cooking-dash-2" class="glp">Cooking Dash - DinerTown Studios</a>
+                    </div>
+                    <div>
+                        
+  <img height="16" width="85" src="http://p.playfirst.com/static/1254933943000/626/img2/stars/star_small_4_half.gif" alt="4.4" class="starRating">
+
+                    </div>
+                </div>             </div>             <div class="clear"></div>
+
+            <div class="row">
+                <span>
+                    Lights, Camera, Cook!
+                </span>
+            </div>
+             
+
+
+                                                                            
+                                                                                                                     <div class="windows row ">
+                                                                                                             <div class="floatleft" style="visibility:visible">
+                                <a href="/game/cooking-dash-2/download/windows" onclick="confirmVariant('cooking-dash-2', 'Cooking Dash ®: DinerTown Studios ™', 'windows', '');    trackDownload('cooking-dash-2','Game');    ; cmCreatePageElementTag('Download from Top Ten Popup', 'Download');     return false;" class="button small-wide red">PC Download</a>
+
+                            </div>
+                                                                                                <div class="show-platform">
+                                        <a href="?platform=macosx" onclick=" $('.windows').hide(); $('.macosx').show(); return false;">»&nbsp;Show Mac</a>
+                                    </div>
+                                                                                                         </div>                     <div class="clear"></div>
+                                                     <div class="row gameinfo windows ">
+                                                    <strong>FREE</strong> 60 minute trial 
+                                                                            (28.8 MB)
+                                            </div>                                                             
+                                                                                                                     <div class="macosx row hidden">
+                                                                                                             <div class="floatleft" style="visibility:visible">
+                                <a href="/game/cooking-dash-2/download/macosx" onclick="confirmVariant('cooking-dash-2', 'Cooking Dash ®: DinerTown Studios ™', 'macosx', '');    trackDownload('cooking-dash-2','Game');    ; cmCreatePageElementTag('Download from Top Ten Popup', 'Download');     return false;" class="button small-wide red">Mac Download</a>
+
+                            </div>
+                                                                                                <div class="show-platform">
+                                        <a href="?platform=windows" onclick=" $('.macosx').hide(); $('.windows').show(); return false;">»&nbsp;Show PC</a>
+                                    </div>
+                                                                                                         </div>                     <div class="clear"></div>
+                                                     <div class="row gameinfo macosx hidden">
+                                                    <strong>FREE</strong> 60 minute trial 
+                                                                            (35.3 MB)
+                                            </div>                                         
+
+        </div>    </div>    <div class="bottom"></div>
+</div><!--/popup-->
+
+        </div>
+            <div id="monopoly-build-a-lotpopup" style="display:none;">
+            
+
+<!--popup-->
+
+<div class="top10-popup">
+    <div class="top"></div>
+    <div class="body">
+
+        <div class="container">
+            <h2>Game Details</h2>
+            <div class="row">
+                <div class="image">
+                    <a href="/game/monopoly-build-a-lot" class="glp">
+                                                <img height="56" width="75" src="http://p.playfirst.com/static/1253230731000/626/img/game/monopoly-build-a-lot/monopoly-build-a-lotSmall.jpg" class="gameimage alignTarget">
+                    </a>
+                </div>
+                <div class="game-name">
+                    <div>
+                        <a href="/game/monopoly-build-a-lot" class="glp">Monopoly Build-a-lot</a>
+                    </div>
+                    <div>
+                        
+  <img height="16" width="85" src="http://p.playfirst.com/static/1254933956000/626/img2/stars/star_small_2.gif" alt="2.0" class="starRating">
+
+                    </div>
+                </div>             </div>             <div class="clear"></div>
+
+            <div class="row">
+                <span>
+                    The housing market is booming again with the exciting new game that combines one of the most popular board games of all time with the hit real estate series!
+                </span>
+            </div>
+             
+
+
+                                                                            
+                                                                                                                     <div class="windows row ">
+                                                                                                             <div class="floatleft" style="visibility:visible">
+                                <a href="/game/monopoly-build-a-lot/download/windows" onclick="confirmVariant('monopoly-build-a-lot', 'MONOPOLY ™ Build-a-lot™ Edition', 'windows', '');    trackDownload('monopoly-build-a-lot','Game');    ; cmCreatePageElementTag('Download from Top Ten Popup', 'Download');     return false;" class="button small-wide red">PC Download</a>
+
+                            </div>
+                                                                                                <div class="show-platform">
+                                        <a href="?platform=macosx" onclick=" $('.windows').hide(); $('.macosx').show(); return false;">»&nbsp;Show Mac</a>
+                                    </div>
+                                                                                                         </div>                     <div class="clear"></div>
+                                                     <div class="row gameinfo windows ">
+                                                    <strong>FREE</strong> 60 minute trial 
+                                                                            (66.7 MB)
+                                            </div>                                                             
+                                                                                                                     <div class="macosx row hidden">
+                                                                                                             <div class="floatleft" style="visibility:visible">
+                                <a href="/game/monopoly-build-a-lot/download/macosx" onclick="confirmVariant('monopoly-build-a-lot', 'MONOPOLY ™ Build-a-lot™ Edition', 'macosx', '');    trackDownload('monopoly-build-a-lot','Game');    ; cmCreatePageElementTag('Download from Top Ten Popup', 'Download');     return false;" class="button small-wide red">Mac Download</a>
+
+                            </div>
+                                                                                                <div class="show-platform">
+                                        <a href="?platform=windows" onclick=" $('.macosx').hide(); $('.windows').show(); return false;">»&nbsp;Show PC</a>
+                                    </div>
+                                                                                                         </div>                     <div class="clear"></div>
+                                                     <div class="row gameinfo macosx hidden">
+                                                    <strong>FREE</strong> 60 minute trial 
+                                                                            (86.5 MB)
+                                            </div>                                         
+
+        </div>    </div>    <div class="bottom"></div>
+</div><!--/popup-->
+
+        </div>
+            <div id="farm-frenzy-3popup" style="display:none;">
+            
+
+<!--popup-->
+
+<div class="top10-popup">
+    <div class="top"></div>
+    <div class="body">
+
+        <div class="container">
+            <h2>Game Details</h2>
+            <div class="row">
+                <div class="image">
+                    <a href="/game/farm-frenzy-3" class="glp">
+                                                <img height="56" width="75" src="http://p.playfirst.com/static/1252110299000/626/img/game/farm-frenzy-3/farm-frenzy-3Small.jpg" class="gameimage alignTarget">
+                    </a>
+                </div>
+                <div class="game-name">
+                    <div>
+                        <a href="/game/farm-frenzy-3" class="glp">Farm Frenzy 3</a>
+                    </div>
+                    <div>
+                        
+  <img height="16" width="85" src="http://p.playfirst.com/static/1254933925000/626/img2/stars/star_small_4.gif" alt="4.2" class="starRating">
+
+                    </div>
+                </div>             </div>             <div class="clear"></div>
+
+            <div class="row">
+                <span>
+                    Manage five farms around the world!
+                </span>
+            </div>
+             
+
+
+                                                                            
+                                                                                                                     <div class="windows row ">
+                                                                                                             <div class="floatleft" style="visibility:visible">
+                                <a href="/game/farm-frenzy-3/download/windows" onclick="confirmVariant('farm-frenzy-3', 'Farm Frenzy 3', 'windows', '');    trackDownload('farm-frenzy-3','Game');    ; cmCreatePageElementTag('Download from Top Ten Popup', 'Download');     return false;" class="button small-wide red">PC Download</a>
+
+                            </div>
+                                                                         </div>                     <div class="clear"></div>
+                                                     <div class="row gameinfo windows ">
+                                                    <strong>FREE</strong> 60 minute trial 
+                                                                            (91.1 MB)
+                                            </div>                                         
+
+        </div>    </div>    <div class="bottom"></div>
+</div><!--/popup-->
+
+        </div>
+            <div id="fishdom-spooky-splashpopup" style="display:none;">
+            
+
+<!--popup-->
+
+<div class="top10-popup">
+    <div class="top"></div>
+    <div class="body">
+
+        <div class="container">
+            <h2>Game Details</h2>
+            <div class="row">
+                <div class="image">
+                    <a href="/game/fishdom-spooky-splash" class="glp">
+                                                <img height="56" width="75" src="http://p.playfirst.com/static/1254873295000/626/img/game/fishdom-spooky-splash/fishdom-spooky-splashSmall.jpg" class="gameimage alignTarget">
+                    </a>
+                </div>
+                <div class="game-name">
+                    <div>
+                        <a href="/game/fishdom-spooky-splash" class="glp">Fishdom - Spooky Splash</a>
+                    </div>
+                    <div>
+                        
+  <img height="16" width="85" src="http://p.playfirst.com/static/1254933952000/626/img2/stars/star_small_3_half.gif" alt="3.7" class="starRating">
+
+                    </div>
+                </div>             </div>             <div class="clear"></div>
+
+            <div class="row">
+                <span>
+                    Build up your spooky Fishdom! 
+                </span>
+            </div>
+             
+
+
+                                                                            
+                                                                                                                     <div class="windows row ">
+                                                                                                             <div class="floatleft" style="visibility:visible">
+                                <a href="/game/fishdom-spooky-splash/download/windows" onclick="confirmVariant('fishdom-spooky-splash', 'Fishdom: Spooky Splash ™', 'windows', '');    trackDownload('fishdom-spooky-splash','Game');    ; cmCreatePageElementTag('Download from Top Ten Popup', 'Download');     return false;" class="button small-wide red">PC Download</a>
+
+                            </div>
+                                                                         </div>                     <div class="clear"></div>
+                                                     <div class="row gameinfo windows ">
+                                                    <strong>FREE</strong> 60 minute trial 
+                                                                            (56.1 MB)
+                                            </div>                                         
+
+        </div>    </div>    <div class="bottom"></div>
+</div><!--/popup-->
+
+        </div>
+            <div id="delicious-emilys-famepopup" style="display:none;">
+            
+
+<!--popup-->
+
+<div class="top10-popup">
+    <div class="top"></div>
+    <div class="body">
+
+        <div class="container">
+            <h2>Game Details</h2>
+            <div class="row">
+                <div class="image">
+                    <a href="/game/delicious-emilys-fame" class="glp">
+                                                <img height="56" width="75" src="http://p.playfirst.com/static/1245875055000/626/img/game/delicious-emilys-fame/delicious-emilys-fameSmall.jpg" class="gameimage alignTarget">
+                    </a>
+                </div>
+                <div class="game-name">
+                    <div>
+                        <a href="/game/delicious-emilys-fame" class="glp">Delicious - Emilys Taste of Fame</a>
+                    </div>
+                    <div>
+                        
+  <img height="16" width="85" src="http://p.playfirst.com/static/1254933943000/626/img2/stars/star_small_4_half.gif" alt="4.5" class="starRating">
+
+                    </div>
+                </div>             </div>             <div class="clear"></div>
+
+            <div class="row">
+                <span>
+                    Emily's back and ready for prime time in the latest Delicious adventure!
+                </span>
+            </div>
+             
+
+
+                                                                            
+                                                                                                                     <div class="windows row ">
+                                                                                                             <div class="floatleft" style="visibility:visible">
+                                <a href="/game/delicious-emilys-fame/download/windows" onclick="confirmVariant('delicious-emilys-fame', 'Delicious: Emily\'s Taste of Fame', 'windows', '');    trackDownload('delicious-emilys-fame','Game');    ; cmCreatePageElementTag('Download from Top Ten Popup', 'Download');     return false;" class="button small-wide red">PC Download</a>
+
+                            </div>
+                                                                                                <div class="show-platform">
+                                        <a href="?platform=macosx" onclick=" $('.windows').hide(); $('.macosx').show(); return false;">»&nbsp;Show Mac</a>
+                                    </div>
+                                                                                                         </div>                     <div class="clear"></div>
+                                                     <div class="row gameinfo windows ">
+                                                    <strong>FREE</strong> 60 minute trial 
+                                                                            (79.9 MB)
+                                            </div>                                                             
+                                                                                                                     <div class="macosx row hidden">
+                                                                                                             <div class="floatleft" style="visibility:visible">
+                                <a href="/game/delicious-emilys-fame/download/macosx" onclick="confirmVariant('delicious-emilys-fame', 'Delicious: Emily\'s Taste of Fame', 'macosx', '');    trackDownload('delicious-emilys-fame','Game');    ; cmCreatePageElementTag('Download from Top Ten Popup', 'Download');     return false;" class="button small-wide red">Mac Download</a>
+
+                            </div>
+                                                                                                <div class="show-platform">
+                                        <a href="?platform=windows" onclick=" $('.macosx').hide(); $('.windows').show(); return false;">»&nbsp;Show PC</a>
+                                    </div>
+                                                                                                         </div>                     <div class="clear"></div>
+                                                     <div class="row gameinfo macosx hidden">
+                                                    <strong>FREE</strong> 60 minute trial 
+                                                                            (77.9 MB)
+                                            </div>                                         
+
+        </div>    </div>    <div class="bottom"></div>
+</div><!--/popup-->
+
+        </div>
+            <div id="princess-isabellapopup" style="display:none;">
+            
+
+<!--popup-->
+
+<div class="top10-popup">
+    <div class="top"></div>
+    <div class="body">
+
+        <div class="container">
+            <h2>Game Details</h2>
+            <div class="row">
+                <div class="image">
+                    <a href="/game/princess-isabella" class="glp">
+                                                <img height="56" width="75" src="http://p.playfirst.com/static/1253220181000/626/img/game/princess-isabella/princess-isabellaSmall.jpg" class="gameimage alignTarget">
+                    </a>
+                </div>
+                <div class="game-name">
+                    <div>
+                        <a href="/game/princess-isabella" class="glp">Princess Isabella</a>
+                    </div>
+                    <div>
+                        
+  <img height="16" width="85" src="http://p.playfirst.com/static/1254933925000/626/img2/stars/star_small_4.gif" alt="3.9" class="starRating">
+
+                    </div>
+                </div>             </div>             <div class="clear"></div>
+
+            <div class="row">
+                <span>
+                    Free the royal castle from the witch's curse!
+                </span>
+            </div>
+             
+
+
+                                                                            
+                                                                                                                     <div class="windows row ">
+                                                                                                             <div class="floatleft" style="visibility:visible">
+                                <a href="/game/princess-isabella/download/windows" onclick="confirmVariant('princess-isabella', 'Princess Isabella: A Witch\'s Curse', 'windows', '');    trackDownload('princess-isabella','Game');    ; cmCreatePageElementTag('Download from Top Ten Popup', 'Download');     return false;" class="button small-wide red">PC Download</a>
+
+                            </div>
+                                                                         </div>                     <div class="clear"></div>
+                                                     <div class="row gameinfo windows ">
+                                                    <strong>FREE</strong> 60 minute trial 
+                                                                            (103.5 MB)
+                                            </div>                                         
+
+        </div>    </div>    <div class="bottom"></div>
+</div><!--/popup-->
+
+        </div>
+            <div id="wedding-dash-ready-aim-lovepopup" style="display:none;">
+            
+
+<!--popup-->
+
+<div class="top10-popup">
+    <div class="top"></div>
+    <div class="body">
+
+        <div class="container">
+            <h2>Game Details</h2>
+            <div class="row">
+                <div class="image">
+                    <a href="/game/wedding-dash-ready-aim-love" class="glp">
+                                                <img height="56" width="75" src="http://p.playfirst.com/static/1238555575000/626/img/game/wedding-dash-ready-aim-love/wedding-dash-ready-aim-loveSmall.jpg" class="gameimage alignTarget">
+                    </a>
+                </div>
+                <div class="game-name">
+                    <div>
+                        <a href="/game/wedding-dash-ready-aim-love" class="glp">Wedding Dash - Ready Aim Love</a>
+                    </div>
+                    <div>
+                        
+  <img height="16" width="85" src="http://p.playfirst.com/static/1254933943000/626/img2/stars/star_small_4_half.gif" alt="4.3" class="starRating">
+
+                    </div>
+                </div>             </div>             <div class="clear"></div>
+
+            <div class="row">
+                <span>
+                    Help Quinn plan her own wedding!
+                </span>
+            </div>
+             
+
+
+                                                                            
+                                                                                                                     <div class="windows row ">
+                                                                                                             <div class="floatleft" style="visibility:visible">
+                                <a href="/game/wedding-dash-ready-aim-love/download/windows" onclick="confirmVariant('wedding-dash-ready-aim-love', 'Wedding Dash®: Ready, Aim, Love!™', 'windows', '');    trackDownload('wedding-dash-ready-aim-love','Game');    ; cmCreatePageElementTag('Download from Top Ten Popup', 'Download');     return false;" class="button small-wide red">PC Download</a>
+
+                            </div>
+                                                                                                <div class="show-platform">
+                                        <a href="?platform=macosx" onclick=" $('.windows').hide(); $('.macosx').show(); return false;">»&nbsp;Show Mac</a>
+                                    </div>
+                                                                                                         </div>                     <div class="clear"></div>
+                                                     <div class="row gameinfo windows ">
+                                                    <strong>FREE</strong> 60 minute trial 
+                                                                            (28.8 MB)
+                                            </div>                                                             
+                                                                                                                     <div class="macosx row hidden">
+                                                                                                             <div class="floatleft" style="visibility:visible">
+                                <a href="/game/wedding-dash-ready-aim-love/download/macosx" onclick="confirmVariant('wedding-dash-ready-aim-love', 'Wedding Dash®: Ready, Aim, Love!™', 'macosx', '');    trackDownload('wedding-dash-ready-aim-love','Game');    ; cmCreatePageElementTag('Download from Top Ten Popup', 'Download');     return false;" class="button small-wide red">Mac Download</a>
+
+                            </div>
+                                                                                                <div class="show-platform">
+                                        <a href="?platform=windows" onclick=" $('.macosx').hide(); $('.windows').show(); return false;">»&nbsp;Show PC</a>
+                                    </div>
+                                                                                                         </div>                     <div class="clear"></div>
+                                                     <div class="row gameinfo macosx hidden">
+                                                    <strong>FREE</strong> 60 minute trial 
+                                                                            (37.7 MB)
+                                            </div>                                         
+
+        </div>    </div>    <div class="bottom"></div>
+</div><!--/popup-->
+
+        </div>
+            <div id="cookingdashpopup" style="display:none;">
+            
+
+<!--popup-->
+
+<div class="top10-popup">
+    <div class="top"></div>
+    <div class="body">
+
+        <div class="container">
+            <h2>Game Details</h2>
+            <div class="row">
+                <div class="image">
+                    <a href="/game/cookingdash" class="glp">
+                                                <img height="56" width="75" src="http://p.playfirst.com/static/1229874039000/626/img/game/cookingdash/cookingdashSmall.jpg" class="gameimage alignTarget">
+                    </a>
+                </div>
+                <div class="game-name">
+                    <div>
+                        <a href="/game/cookingdash" class="glp">Cooking Dash</a>
+                    </div>
+                    <div>
+                        
+  <img height="16" width="85" src="http://p.playfirst.com/static/1254933943000/626/img2/stars/star_small_4_half.gif" alt="4.4" class="starRating">
+
+                    </div>
+                </div>             </div>             <div class="clear"></div>
+
+            <div class="row">
+                <span>
+                    Help Flo cook and deliver food from four DinerTown restaurants while Cookie the Chef courts culinary celebrity!
+                </span>
+            </div>
+             
+
+
+                                                                            
+                                                                                                                     <div class="windows row ">
+                                                                                                             <div class="floatleft" style="visibility:visible">
+                                <a href="/game/cookingdash/download/windows" onclick="confirmVariant('cookingdash', 'Cooking Dash®', 'windows', '');    trackDownload('cookingdash','Game');    ; cmCreatePageElementTag('Download from Top Ten Popup', 'Download');     return false;" class="button small-wide red">PC Download</a>
+
+                            </div>
+                                                                                                <div class="show-platform">
+                                        <a href="?platform=macosx" onclick=" $('.windows').hide(); $('.macosx').show(); return false;">»&nbsp;Show Mac</a>
+                                    </div>
+                                                                                                         </div>                     <div class="clear"></div>
+                                                     <div class="row gameinfo windows ">
+                                                    <strong>FREE</strong> 60 minute trial 
+                                                                            (24.5 MB)
+                                            </div>                                                             
+                                                                                                                     <div class="macosx row hidden">
+                                                                                                             <div class="floatleft" style="visibility:visible">
+                                <a href="/game/cookingdash/download/macosx" onclick="confirmVariant('cookingdash', 'Cooking Dash®', 'macosx', '');    trackDownload('cookingdash','Game');    ; cmCreatePageElementTag('Download from Top Ten Popup', 'Download');     return false;" class="button small-wide red">Mac Download</a>
+
+                            </div>
+                                                                                                <div class="show-platform">
+                                        <a href="?platform=windows" onclick=" $('.macosx').hide(); $('.windows').show(); return false;">»&nbsp;Show PC</a>
+                                    </div>
+                                                                                                         </div>                     <div class="clear"></div>
+                                                     <div class="row gameinfo macosx hidden">
+                                                    <strong>FREE</strong> 60 minute trial 
+                                                                            (32.2 MB)
+                                            </div>                                         
+
+        </div>    </div>    <div class="bottom"></div>
+</div><!--/popup-->
+
+        </div>
+    
+            <div id="cake-mania-main-streetpopup" style="display:none;">
+            
+
+<!--popup-->
+
+<div class="top10-popup">
+    <div class="top"></div>
+    <div class="body">
+
+        <div class="container">
+            <h2>Game Details</h2>
+            <div class="row">
+                <div class="image">
+                    <a href="/game/cake-mania-main-street" class="glp">
+                                                <img height="56" width="75" src="http://p.playfirst.com/static/1254328992000/626/img/game/cake-mania-main-street/cake-mania-main-streetSmall.jpg" class="gameimage alignTarget">
+                    </a>
+                </div>
+                <div class="game-name">
+                    <div>
+                        <a href="/game/cake-mania-main-street" class="glp">Cake Mania Main Street</a>
+                    </div>
+                    <div>
+                        
+  <img height="16" width="85" src="http://p.playfirst.com/static/1254933925000/626/img2/stars/star_small_4.gif" alt="4.0" class="starRating">
+
+                    </div>
+                </div>             </div>             <div class="clear"></div>
+
+            <div class="row">
+                <span>
+                    Raise money to revitalize Jill Evans' hometown!
+                </span>
+            </div>
+             
+
+
+                                                                            
+                                                                                                                     <div class="windows row ">
+                                                                                                             <div class="floatleft" style="visibility:visible">
+                                <a href="/game/cake-mania-main-street/download/windows" onclick="confirmVariant('cake-mania-main-street', 'Cake Mania Main Street', 'windows', '');    trackDownload('cake-mania-main-street','Game');    ; cmCreatePageElementTag('Download from Top Ten Popup', 'Download');     return false;" class="button small-wide red">PC Download</a>
+
+                            </div>
+                                                                         </div>                     <div class="clear"></div>
+                                                     <div class="row gameinfo windows ">
+                                                    <strong>FREE</strong> 60 minute trial 
+                                                                            (91.2 MB)
+                                            </div>                                         
+
+        </div>    </div>    <div class="bottom"></div>
+</div><!--/popup-->
+
+        </div>
+            <div id="gemini-lostpopup" style="display:none;">
+            
+
+<!--popup-->
+
+<div class="top10-popup">
+    <div class="top"></div>
+    <div class="body">
+
+        <div class="container">
+            <h2>Game Details</h2>
+            <div class="row">
+                <div class="image">
+                    <a href="/game/gemini-lost" class="glp">
+                                                <img height="56" width="75" src="http://p.playfirst.com/static/1252450564000/626/img/game/gemini-lost/gemini-lostSmall.jpg" class="gameimage alignTarget">
+                    </a>
+                </div>
+                <div class="game-name">
+                    <div>
+                        <a href="/game/gemini-lost" class="glp">Gemini Lost</a>
+                    </div>
+                    <div>
+                        
+  <img height="16" width="85" src="http://p.playfirst.com/static/1254933943000/626/img2/stars/star_small_4_half.gif" alt="4.2" class="starRating">
+
+                    </div>
+                </div>             </div>             <div class="clear"></div>
+
+            <div class="row">
+                <span>
+                    Follow the stars to find your way home!
+                </span>
+            </div>
+             
+
+
+                                                                            
+                                                                                                                     <div class="windows row ">
+                                                                                                             <div class="floatleft" style="visibility:visible">
+                                <a href="/game/gemini-lost/download/windows" onclick="confirmVariant('gemini-lost', 'Gemini Lost', 'windows', '');    trackDownload('gemini-lost','Game');    ; cmCreatePageElementTag('Download from Top Ten Popup', 'Download');     return false;" class="button small-wide red">PC Download</a>
+
+                            </div>
+                                                                                                <div class="show-platform">
+                                        <a href="?platform=macosx" onclick=" $('.windows').hide(); $('.macosx').show(); return false;">»&nbsp;Show Mac</a>
+                                    </div>
+                                                                                                         </div>                     <div class="clear"></div>
+                                                     <div class="row gameinfo windows ">
+                                                    <strong>FREE</strong> 60 minute trial 
+                                                                            (45.9 MB)
+                                            </div>                                                             
+                                                                                                                     <div class="macosx row hidden">
+                                                                                                             <div class="floatleft" style="visibility:visible">
+                                <a href="/game/gemini-lost/download/macosx" onclick="confirmVariant('gemini-lost', 'Gemini Lost', 'macosx', '');    trackDownload('gemini-lost','Game');    ; cmCreatePageElementTag('Download from Top Ten Popup', 'Download');     return false;" class="button small-wide red">Mac Download</a>
+
+                            </div>
+                                                                                                <div class="show-platform">
+                                        <a href="?platform=windows" onclick=" $('.macosx').hide(); $('.windows').show(); return false;">»&nbsp;Show PC</a>
+                                    </div>
+                                                                                                         </div>                     <div class="clear"></div>
+                                                     <div class="row gameinfo macosx hidden">
+                                                    <strong>FREE</strong> 60 minute trial 
+                                                                            (57.4 MB)
+                                            </div>                                         
+
+        </div>    </div>    <div class="bottom"></div>
+</div><!--/popup-->
+
+        </div>
+            <div id="cooking-dash-2popup" style="display:none;">
+            
+
+<!--popup-->
+
+<div class="top10-popup">
+    <div class="top"></div>
+    <div class="body">
+
+        <div class="container">
+            <h2>Game Details</h2>
+            <div class="row">
+                <div class="image">
+                    <a href="/game/cooking-dash-2" class="glp">
+                                                <img height="56" width="75" src="http://p.playfirst.com/static/1248298658000/626/img/game/cooking-dash-2/cooking-dash-2Small.jpg" class="gameimage alignTarget">
+                    </a>
+                </div>
+                <div class="game-name">
+                    <div>
+                        <a href="/game/cooking-dash-2" class="glp">Cooking Dash - DinerTown Studios</a>
+                    </div>
+                    <div>
+                        
+  <img height="16" width="85" src="http://p.playfirst.com/static/1254933943000/626/img2/stars/star_small_4_half.gif" alt="4.4" class="starRating">
+
+                    </div>
+                </div>             </div>             <div class="clear"></div>
+
+            <div class="row">
+                <span>
+                    Lights, Camera, Cook!
+                </span>
+            </div>
+             
+
+
+                                                                            
+                                                                                                                     <div class="windows row ">
+                                                                                                             <div class="floatleft" style="visibility:visible">
+                                <a href="/game/cooking-dash-2/download/windows" onclick="confirmVariant('cooking-dash-2', 'Cooking Dash ®: DinerTown Studios ™', 'windows', '');    trackDownload('cooking-dash-2','Game');    ; cmCreatePageElementTag('Download from Top Ten Popup', 'Download');     return false;" class="button small-wide red">PC Download</a>
+
+                            </div>
+                                                                                                <div class="show-platform">
+                                        <a href="?platform=macosx" onclick=" $('.windows').hide(); $('.macosx').show(); return false;">»&nbsp;Show Mac</a>
+                                    </div>
+                                                                                                         </div>                     <div class="clear"></div>
+                                                     <div class="row gameinfo windows ">
+                                                    <strong>FREE</strong> 60 minute trial 
+                                                                            (28.8 MB)
+                                            </div>                                                             
+                                                                                                                     <div class="macosx row hidden">
+                                                                                                             <div class="floatleft" style="visibility:visible">
+                                <a href="/game/cooking-dash-2/download/macosx" onclick="confirmVariant('cooking-dash-2', 'Cooking Dash ®: DinerTown Studios ™', 'macosx', '');    trackDownload('cooking-dash-2','Game');    ; cmCreatePageElementTag('Download from Top Ten Popup', 'Download');     return false;" class="button small-wide red">Mac Download</a>
+
+                            </div>
+                                                                                                <div class="show-platform">
+                                        <a href="?platform=windows" onclick=" $('.macosx').hide(); $('.windows').show(); return false;">»&nbsp;Show PC</a>
+                                    </div>
+                                                                                                         </div>                     <div class="clear"></div>
+                                                     <div class="row gameinfo macosx hidden">
+                                                    <strong>FREE</strong> 60 minute trial 
+                                                                            (35.3 MB)
+                                            </div>                                         
+
+        </div>    </div>    <div class="bottom"></div>
+</div><!--/popup-->
+
+        </div>
+            <div id="monopoly-build-a-lotpopup" style="display:none;">
+            
+
+<!--popup-->
+
+<div class="top10-popup">
+    <div class="top"></div>
+    <div class="body">
+
+        <div class="container">
+            <h2>Game Details</h2>
+            <div class="row">
+                <div class="image">
+                    <a href="/game/monopoly-build-a-lot" class="glp">
+                                                <img height="56" width="75" src="http://p.playfirst.com/static/1253230731000/626/img/game/monopoly-build-a-lot/monopoly-build-a-lotSmall.jpg" class="gameimage alignTarget">
+                    </a>
+                </div>
+                <div class="game-name">
+                    <div>
+                        <a href="/game/monopoly-build-a-lot" class="glp">Monopoly Build-a-lot</a>
+                    </div>
+                    <div>
+                        
+  <img height="16" width="85" src="http://p.playfirst.com/static/1254933956000/626/img2/stars/star_small_2.gif" alt="2.0" class="starRating">
+
+                    </div>
+                </div>             </div>             <div class="clear"></div>
+
+            <div class="row">
+                <span>
+                    The housing market is booming again with the exciting new game that combines one of the most popular board games of all time with the hit real estate series!
+                </span>
+            </div>
+             
+
+
+                                                                            
+                                                                                                                     <div class="windows row ">
+                                                                                                             <div class="floatleft" style="visibility:visible">
+                                <a href="/game/monopoly-build-a-lot/download/windows" onclick="confirmVariant('monopoly-build-a-lot', 'MONOPOLY ™ Build-a-lot™ Edition', 'windows', '');    trackDownload('monopoly-build-a-lot','Game');    ; cmCreatePageElementTag('Download from Top Ten Popup', 'Download');     return false;" class="button small-wide red">PC Download</a>
+
+                            </div>
+                                                                                                <div class="show-platform">
+                                        <a href="?platform=macosx" onclick=" $('.windows').hide(); $('.macosx').show(); return false;">»&nbsp;Show Mac</a>
+                                    </div>
+                                                                                                         </div>                     <div class="clear"></div>
+                                                     <div class="row gameinfo windows ">
+                                                    <strong>FREE</strong> 60 minute trial 
+                                                                            (66.7 MB)
+                                            </div>                                                             
+                                                                                                                     <div class="macosx row hidden">
+                                                                                                             <div class="floatleft" style="visibility:visible">
+                                <a href="/game/monopoly-build-a-lot/download/macosx" onclick="confirmVariant('monopoly-build-a-lot', 'MONOPOLY ™ Build-a-lot™ Edition', 'macosx', '');    trackDownload('monopoly-build-a-lot','Game');    ; cmCreatePageElementTag('Download from Top Ten Popup', 'Download');     return false;" class="button small-wide red">Mac Download</a>
+
+                            </div>
+                                                                                                <div class="show-platform">
+                                        <a href="?platform=windows" onclick=" $('.macosx').hide(); $('.windows').show(); return false;">»&nbsp;Show PC</a>
+                                    </div>
+                                                                                                         </div>                     <div class="clear"></div>
+                                                     <div class="row gameinfo macosx hidden">
+                                                    <strong>FREE</strong> 60 minute trial 
+                                                                            (86.5 MB)
+                                            </div>                                         
+
+        </div>    </div>    <div class="bottom"></div>
+</div><!--/popup-->
+
+        </div>
+            <div id="farm-frenzy-3popup" style="display:none;">
+            
+
+<!--popup-->
+
+<div class="top10-popup">
+    <div class="top"></div>
+    <div class="body">
+
+        <div class="container">
+            <h2>Game Details</h2>
+            <div class="row">
+                <div class="image">
+                    <a href="/game/farm-frenzy-3" class="glp">
+                                                <img height="56" width="75" src="http://p.playfirst.com/static/1252110299000/626/img/game/farm-frenzy-3/farm-frenzy-3Small.jpg" class="gameimage alignTarget">
+                    </a>
+                </div>
+                <div class="game-name">
+                    <div>
+                        <a href="/game/farm-frenzy-3" class="glp">Farm Frenzy 3</a>
+                    </div>
+                    <div>
+                        
+  <img height="16" width="85" src="http://p.playfirst.com/static/1254933925000/626/img2/stars/star_small_4.gif" alt="4.2" class="starRating">
+
+                    </div>
+                </div>             </div>             <div class="clear"></div>
+
+            <div class="row">
+                <span>
+                    Manage five farms around the world!
+                </span>
+            </div>
+             
+
+
+                                                                            
+                                                                                                                     <div class="windows row ">
+                                                                                                             <div class="floatleft" style="visibility:visible">
+                                <a href="/game/farm-frenzy-3/download/windows" onclick="confirmVariant('farm-frenzy-3', 'Farm Frenzy 3', 'windows', '');    trackDownload('farm-frenzy-3','Game');    ; cmCreatePageElementTag('Download from Top Ten Popup', 'Download');     return false;" class="button small-wide red">PC Download</a>
+
+                            </div>
+                                                                         </div>                     <div class="clear"></div>
+                                                     <div class="row gameinfo windows ">
+                                                    <strong>FREE</strong> 60 minute trial 
+                                                                            (91.1 MB)
+                                            </div>                                         
+
+        </div>    </div>    <div class="bottom"></div>
+</div><!--/popup-->
+
+        </div>
+            <div id="fishdom-spooky-splashpopup" style="display:none;">
+            
+
+<!--popup-->
+
+<div class="top10-popup">
+    <div class="top"></div>
+    <div class="body">
+
+        <div class="container">
+            <h2>Game Details</h2>
+            <div class="row">
+                <div class="image">
+                    <a href="/game/fishdom-spooky-splash" class="glp">
+                                                <img height="56" width="75" src="http://p.playfirst.com/static/1254873295000/626/img/game/fishdom-spooky-splash/fishdom-spooky-splashSmall.jpg" class="gameimage alignTarget">
+                    </a>
+                </div>
+                <div class="game-name">
+                    <div>
+                        <a href="/game/fishdom-spooky-splash" class="glp">Fishdom - Spooky Splash</a>
+                    </div>
+                    <div>
+                        
+  <img height="16" width="85" src="http://p.playfirst.com/static/1254933952000/626/img2/stars/star_small_3_half.gif" alt="3.7" class="starRating">
+
+                    </div>
+                </div>             </div>             <div class="clear"></div>
+
+            <div class="row">
+                <span>
+                    Build up your spooky Fishdom! 
+                </span>
+            </div>
+             
+
+
+                                                                            
+                                                                                                                     <div class="windows row ">
+                                                                                                             <div class="floatleft" style="visibility:visible">
+                                <a href="/game/fishdom-spooky-splash/download/windows" onclick="confirmVariant('fishdom-spooky-splash', 'Fishdom: Spooky Splash ™', 'windows', '');    trackDownload('fishdom-spooky-splash','Game');    ; cmCreatePageElementTag('Download from Top Ten Popup', 'Download');     return false;" class="button small-wide red">PC Download</a>
+
+                            </div>
+                                                                         </div>                     <div class="clear"></div>
+                                                     <div class="row gameinfo windows ">
+                                                    <strong>FREE</strong> 60 minute trial 
+                                                                            (56.1 MB)
+                                            </div>                                         
+
+        </div>    </div>    <div class="bottom"></div>
+</div><!--/popup-->
+
+        </div>
+            <div id="delicious-emilys-famepopup" style="display:none;">
+            
+
+<!--popup-->
+
+<div class="top10-popup">
+    <div class="top"></div>
+    <div class="body">
+
+        <div class="container">
+            <h2>Game Details</h2>
+            <div class="row">
+                <div class="image">
+                    <a href="/game/delicious-emilys-fame" class="glp">
+                                                <img height="56" width="75" src="http://p.playfirst.com/static/1245875055000/626/img/game/delicious-emilys-fame/delicious-emilys-fameSmall.jpg" class="gameimage alignTarget">
+                    </a>
+                </div>
+                <div class="game-name">
+                    <div>
+                        <a href="/game/delicious-emilys-fame" class="glp">Delicious - Emilys Taste of Fame</a>
+                    </div>
+                    <div>
+                        
+  <img height="16" width="85" src="http://p.playfirst.com/static/1254933943000/626/img2/stars/star_small_4_half.gif" alt="4.5" class="starRating">
+
+                    </div>
+                </div>             </div>             <div class="clear"></div>
+
+            <div class="row">
+                <span>
+                    Emily's back and ready for prime time in the latest Delicious adventure!
+                </span>
+            </div>
+             
+
+
+                                                                            
+                                                                                                                     <div class="windows row ">
+                                                                                                             <div class="floatleft" style="visibility:visible">
+                                <a href="/game/delicious-emilys-fame/download/windows" onclick="confirmVariant('delicious-emilys-fame', 'Delicious: Emily\'s Taste of Fame', 'windows', '');    trackDownload('delicious-emilys-fame','Game');    ; cmCreatePageElementTag('Download from Top Ten Popup', 'Download');     return false;" class="button small-wide red">PC Download</a>
+
+                            </div>
+                                                                                                <div class="show-platform">
+                                        <a href="?platform=macosx" onclick=" $('.windows').hide(); $('.macosx').show(); return false;">»&nbsp;Show Mac</a>
+                                    </div>
+                                                                                                         </div>                     <div class="clear"></div>
+                                                     <div class="row gameinfo windows ">
+                                                    <strong>FREE</strong> 60 minute trial 
+                                                                            (79.9 MB)
+                                            </div>                                                             
+                                                                                                                     <div class="macosx row hidden">
+                                                                                                             <div class="floatleft" style="visibility:visible">
+                                <a href="/game/delicious-emilys-fame/download/macosx" onclick="confirmVariant('delicious-emilys-fame', 'Delicious: Emily\'s Taste of Fame', 'macosx', '');    trackDownload('delicious-emilys-fame','Game');    ; cmCreatePageElementTag('Download from Top Ten Popup', 'Download');     return false;" class="button small-wide red">Mac Download</a>
+
+                            </div>
+                                                                                                <div class="show-platform">
+                                        <a href="?platform=windows" onclick=" $('.macosx').hide(); $('.windows').show(); return false;">»&nbsp;Show PC</a>
+                                    </div>
+                                                                                                         </div>                     <div class="clear"></div>
+                                                     <div class="row gameinfo macosx hidden">
+                                                    <strong>FREE</strong> 60 minute trial 
+                                                                            (77.9 MB)
+                                            </div>                                         
+
+        </div>    </div>    <div class="bottom"></div>
+</div><!--/popup-->
+
+        </div>
+            <div id="princess-isabellapopup" style="display:none;">
+            
+
+<!--popup-->
+
+<div class="top10-popup">
+    <div class="top"></div>
+    <div class="body">
+
+        <div class="container">
+            <h2>Game Details</h2>
+            <div class="row">
+                <div class="image">
+                    <a href="/game/princess-isabella" class="glp">
+                                                <img height="56" width="75" src="http://p.playfirst.com/static/1253220181000/626/img/game/princess-isabella/princess-isabellaSmall.jpg" class="gameimage alignTarget">
+                    </a>
+                </div>
+                <div class="game-name">
+                    <div>
+                        <a href="/game/princess-isabella" class="glp">Princess Isabella</a>
+                    </div>
+                    <div>
+                        
+  <img height="16" width="85" src="http://p.playfirst.com/static/1254933925000/626/img2/stars/star_small_4.gif" alt="3.9" class="starRating">
+
+                    </div>
+                </div>             </div>             <div class="clear"></div>
+
+            <div class="row">
+                <span>
+                    Free the royal castle from the witch's curse!
+                </span>
+            </div>
+             
+
+
+                                                                            
+                                                                                                                     <div class="windows row ">
+                                                                                                             <div class="floatleft" style="visibility:visible">
+                                <a href="/game/princess-isabella/download/windows" onclick="confirmVariant('princess-isabella', 'Princess Isabella: A Witch\'s Curse', 'windows', '');    trackDownload('princess-isabella','Game');    ; cmCreatePageElementTag('Download from Top Ten Popup', 'Download');     return false;" class="button small-wide red">PC Download</a>
+
+                            </div>
+                                                                         </div>                     <div class="clear"></div>
+                                                     <div class="row gameinfo windows ">
+                                                    <strong>FREE</strong> 60 minute trial 
+                                                                            (103.5 MB)
+                                            </div>                                         
+
+        </div>    </div>    <div class="bottom"></div>
+</div><!--/popup-->
+
+        </div>
+            <div id="wedding-dash-ready-aim-lovepopup" style="display:none;">
+            
+
+<!--popup-->
+
+<div class="top10-popup">
+    <div class="top"></div>
+    <div class="body">
+
+        <div class="container">
+            <h2>Game Details</h2>
+            <div class="row">
+                <div class="image">
+                    <a href="/game/wedding-dash-ready-aim-love" class="glp">
+                                                <img height="56" width="75" src="http://p.playfirst.com/static/1238555575000/626/img/game/wedding-dash-ready-aim-love/wedding-dash-ready-aim-loveSmall.jpg" class="gameimage alignTarget">
+                    </a>
+                </div>
+                <div class="game-name">
+                    <div>
+                        <a href="/game/wedding-dash-ready-aim-love" class="glp">Wedding Dash - Ready Aim Love</a>
+                    </div>
+                    <div>
+                        
+  <img height="16" width="85" src="http://p.playfirst.com/static/1254933943000/626/img2/stars/star_small_4_half.gif" alt="4.3" class="starRating">
+
+                    </div>
+                </div>             </div>             <div class="clear"></div>
+
+            <div class="row">
+                <span>
+                    Help Quinn plan her own wedding!
+                </span>
+            </div>
+             
+
+
+                                                                            
+                                                                                                                     <div class="windows row ">
+                                                                                                             <div class="floatleft" style="visibility:visible">
+                                <a href="/game/wedding-dash-ready-aim-love/download/windows" onclick="confirmVariant('wedding-dash-ready-aim-love', 'Wedding Dash®: Ready, Aim, Love!™', 'windows', '');    trackDownload('wedding-dash-ready-aim-love','Game');    ; cmCreatePageElementTag('Download from Top Ten Popup', 'Download');     return false;" class="button small-wide red">PC Download</a>
+
+                            </div>
+                                                                                                <div class="show-platform">
+                                        <a href="?platform=macosx" onclick=" $('.windows').hide(); $('.macosx').show(); return false;">»&nbsp;Show Mac</a>
+                                    </div>
+                                                                                                         </div>                     <div class="clear"></div>
+                                                     <div class="row gameinfo windows ">
+                                                    <strong>FREE</strong> 60 minute trial 
+                                                                            (28.8 MB)
+                                            </div>                                                             
+                                                                                                                     <div class="macosx row hidden">
+                                                                                                             <div class="floatleft" style="visibility:visible">
+                                <a href="/game/wedding-dash-ready-aim-love/download/macosx" onclick="confirmVariant('wedding-dash-ready-aim-love', 'Wedding Dash®: Ready, Aim, Love!™', 'macosx', '');    trackDownload('wedding-dash-ready-aim-love','Game');    ; cmCreatePageElementTag('Download from Top Ten Popup', 'Download');     return false;" class="button small-wide red">Mac Download</a>
+
+                            </div>
+                                                                                                <div class="show-platform">
+                                        <a href="?platform=windows" onclick=" $('.macosx').hide(); $('.windows').show(); return false;">»&nbsp;Show PC</a>
+                                    </div>
+                                                                                                         </div>                     <div class="clear"></div>
+                                                     <div class="row gameinfo macosx hidden">
+                                                    <strong>FREE</strong> 60 minute trial 
+                                                                            (37.7 MB)
+                                            </div>                                         
+
+        </div>    </div>    <div class="bottom"></div>
+</div><!--/popup-->
+
+        </div>
+            <div id="cookingdashpopup" style="display:none;">
+            
+
+<!--popup-->
+
+<div class="top10-popup">
+    <div class="top"></div>
+    <div class="body">
+
+        <div class="container">
+            <h2>Game Details</h2>
+            <div class="row">
+                <div class="image">
+                    <a href="/game/cookingdash" class="glp">
+                                                <img height="56" width="75" src="http://p.playfirst.com/static/1229874039000/626/img/game/cookingdash/cookingdashSmall.jpg" class="gameimage alignTarget">
+                    </a>
+                </div>
+                <div class="game-name">
+                    <div>
+                        <a href="/game/cookingdash" class="glp">Cooking Dash</a>
+                    </div>
+                    <div>
+                        
+  <img height="16" width="85" src="http://p.playfirst.com/static/1254933943000/626/img2/stars/star_small_4_half.gif" alt="4.4" class="starRating">
+
+                    </div>
+                </div>             </div>             <div class="clear"></div>
+
+            <div class="row">
+                <span>
+                    Help Flo cook and deliver food from four DinerTown restaurants while Cookie the Chef courts culinary celebrity!
+                </span>
+            </div>
+             
+
+
+                                                                            
+                                                                                                                     <div class="windows row ">
+                                                                                                             <div class="floatleft" style="visibility:visible">
+                                <a href="/game/cookingdash/download/windows" onclick="confirmVariant('cookingdash', 'Cooking Dash®', 'windows', '');    trackDownload('cookingdash','Game');    ; cmCreatePageElementTag('Download from Top Ten Popup', 'Download');     return false;" class="button small-wide red">PC Download</a>
+
+                            </div>
+                                                                                                <div class="show-platform">
+                                        <a href="?platform=macosx" onclick=" $('.windows').hide(); $('.macosx').show(); return false;">»&nbsp;Show Mac</a>
+                                    </div>
+                                                                                                         </div>                     <div class="clear"></div>
+                                                     <div class="row gameinfo windows ">
+                                                    <strong>FREE</strong> 60 minute trial 
+                                                                            (24.5 MB)
+                                            </div>                                                             
+                                                                                                                     <div class="macosx row hidden">
+                                                                                                             <div class="floatleft" style="visibility:visible">
+                                <a href="/game/cookingdash/download/macosx" onclick="confirmVariant('cookingdash', 'Cooking Dash®', 'macosx', '');    trackDownload('cookingdash','Game');    ; cmCreatePageElementTag('Download from Top Ten Popup', 'Download');     return false;" class="button small-wide red">Mac Download</a>
+
+                            </div>
+                                                                                                <div class="show-platform">
+                                        <a href="?platform=windows" onclick=" $('.macosx').hide(); $('.windows').show(); return false;">»&nbsp;Show PC</a>
+                                    </div>
+                                                                                                         </div>                     <div class="clear"></div>
+                                                     <div class="row gameinfo macosx hidden">
+                                                    <strong>FREE</strong> 60 minute trial 
+                                                                            (32.2 MB)
+                                            </div>                                         
+
+        </div>    </div>    <div class="bottom"></div>
+</div><!--/popup-->
+
+        </div>
+    
+
+    
 
  
         </body></html>
