@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the flybuys.com.au privacy policy that was archived on 2008-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080719182911id_/https%3A//www.flybuys.com.au/flybuys/content/information/privpol.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flybuys.com.au privacy policy that was archived on 2009-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091013015216id_/https%3A//www.flybuys.com.au/flybuys/content/information/privpol.html) for the most accurate reproduction.*
 
-# Information
+# Privacy Policy
 
-**Revised 1 January 2006**
+| 
+
+Revised 1 January 2006
 
 ## How we respect your privacy.
 
@@ -16,7 +18,9 @@ Members have the right to opt out of mailings other than their Points Summary. T
 
 Loyalty Pacific Pty Ltd as manager of the FlyBuys program respects and upholds the rights of members to privacy protection. The provisions of this Policy are evidence of Loyalty Pacific Pty Ltd's commitment to that protection. This Policy applies to all personal information held in the FlyBuys database. Refer section 5 of the FlyBuys Terms and Conditions. Words and phrases defined in the FlyBuys Terms and Conditions have the same meaning when used in this Policy. In this Policy "Coles Group Entities" means Coles Group Ltd. (ABN 11 004 089 936) and its related bodies corporate and "NAB Group Entities" means National Australia Bank Limited ABN 12 004 044 937 and its related bodies corporate including MLC Ltd. 
 
-go to top
+top
+
+  
 
   2. **Information - Collection**
 
@@ -43,7 +47,9 @@ We may also use your electronic addresses to send you from time to time various 
 
 If we send you an electronic message for a commercial purpose, we will give you the option of not receiving further communications of this nature.
 
-go to top
+top
+
+  
 
   3. **Information - Purpose and Usage**
 
@@ -70,7 +76,9 @@ Examples of the service providers referred to in paragraph 3.2(a) are data proce
 
 **3.5** On termination of membership, the member's contact details will be noted as closed, and after twelve months of non-card usage such contact details will be deleted from the FlyBuys database and the member's point balance cancelled. 
 
-go to top
+top
+
+  
 
   4. **Members' Right to Opt Out**
 
@@ -80,9 +88,7 @@ go to top
 
 **4.3** To unsubscribe from the FlyBuys e-mail database, please send an e-mail to unsubscribe@flybuys.com.au with "UNSUBSCRIBE" typed into the subject of the e-mail. For technical reasons you will not receive a notice when you unsubscribe from this list. 
 
-**4.4** To unsubscribe from the FlyBuys SMS database, please send an SMS to [# Mobile phone number to be inserted] with [# Desired message to be inserted e.g. "unsubscribe" ]. For technical reasons you will not receive a return SMS when you unsubscribe from the SMS service.
-
-go to top
+  
 
   5. **Security Safeguards**
 
@@ -90,7 +96,9 @@ go to top
 
 **5.2** FlyBuys assumes no responsibility for the information practices of third-party websites where a user is able to access their websites through the FlyBuys website, and encourages users to review each website's privacy policy before disclosing any personally identifying information. 
 
-go to top
+top
+
+  
 
   6. **Your privacy on the FlyBuys website**
 
@@ -100,7 +108,9 @@ If you are concerned about cookies, most browsers have an option which permits u
 
 In order to collect user statistics we may anonymously log information, and identify categories of users by items such as domains and browser types.
 
-go to top
+top
+
+  
 
   7. **Openness**
 
@@ -112,7 +122,9 @@ go to top
 
 **7.4** Members have the right to update any incorrect personal information.
 
-go to top
+top
+
+  
 
   8. **Information about additional cardholders and other persons**
 
@@ -123,7 +135,9 @@ Members that nominate an additional cardholder or provide personal information a
 
     * If the individual is under 18 years of age and does not have sufficient maturity and intelligence to understand this Policy on Information Privacy, the primary cardholder must ensure that the individuals parent or guardian agrees to this Policy on Information Privacy on the individuals' behalf.
 
-go to top
+top
+
+  
 
   9. **Accountability**
 
