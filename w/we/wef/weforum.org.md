@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weforum.org privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605095233id_/http%3A//www.weforum.org/en/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weforum.org privacy policy that was archived on 2009-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091012201809id_/http%3A//www.weforum.org/en/privacy/index.htm) for the most accurate reproduction.*
 
 # World Economic Forum
 
