@@ -1,0 +1,1090 @@
+<!--The following is the downloaded HTML source of the pharmacyescrow.com privacy policy that was archived on 2009-10-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091012045544id_/http%3A//www.pharmacyescrow.com/privacy.aspx) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+		<title>
+			
+			Online Pharmacy Privacy Policy</title>
+		<link href="css/new.css" type="text/css" rel="stylesheet">
+	</head>
+	<body>
+	<form name="Form1" method="post" action="privacy.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTM0NTk0MjE3MWRkBQACikXPhwJ1Zovsf6mwPhgzBLs=">
+
+
+<script type="text/javascript" src="/ajaxpro/prototype.ashx"></script>
+<script type="text/javascript" src="/ajaxpro/core.ashx"></script>
+<script type="text/javascript" src="/ajaxpro/ms.ashx"></script>
+<script type="text/javascript" src="/ajaxpro/converter.ashx"></script>
+<script type="text/javascript" src="/ajaxpro/dd.Header2,App_Web_cp6cf37m.ashx"></script>
+<script type="text/javascript">
+
+var getLocation = function(ele) {
+	var offsetX = 0;
+	var offsetY = 0;
+	var parent;
+
+	for(parent=ele; parent; parent=parent.offsetParent) {
+		if(parent.offsetLeft)
+			offsetX += parent.offsetLeft;
+		if(parent.offsetTop)
+			offsetY += parent.offsetTop;
+	}
+
+	return {x:offsetX,y:offsetY};
+}
+
+var getBounds = function(ele) {
+	var offset = getLocation(ele);
+	var width = ele.offsetWidth;
+	var height = ele.offsetHeight;
+
+	return {x:offset.x, y:offset.y, width:width, height:height};
+}
+
+function addEvent(o, evType, f, capture) {
+    if(o == null)
+	    return;	
+    if(o.addEventListener) {
+		o.addEventListener(evType, f, capture);
+		return true;
+	} else if (o.attachEvent) {
+		var r = o.attachEvent("on" + evType, f);
+		return r;
+	} else {
+		// alert("Handler could not be attached");
+	}
+} 
+
+function With(o, p) {
+	for(var prop in p) {
+		o[prop] = p[prop]; 
+	}
+}
+if(!window.addNamespace) {
+        window.addNamespace = function(ns) {
+            var nsParts = ns.split(".");
+            var root = window;
+
+            for(var i=0; i<nsParts.length; i++) {
+                    if(typeof root[nsParts[i]] == "undefined")
+                            root[nsParts[i]] = {};
+                    root = root[nsParts[i]];
+            }
+    }
+} 
+
+window.focusOnDiv = false;
+var blue = '#0000FF';
+var white = '#FFFFFF';
+var intListItemHeight = 13;
+var intMaxListItems = 12;
+
+addNamespace("AjaxPro.Web.Controls");
+AjaxPro.Web.Controls.AutoComplete = Class.create();
+
+AjaxPro.getInstance = function(className, o) {
+    if(o == null) o = window;
+    var c = className.split(".");
+    if(c.length > 1)
+        return AjaxPro.getInstance(className.substr(className.indexOf(".") +1), o[c[0]]);
+    return o[className];
+} 
+
+AjaxPro.Web.Controls.AutoComplete.prototype = {
+	callback: function(res) {
+		
+        this.cursorPos = -1;
+        this.list.innerHTML = '';
+        this.rows = [];
+        		
+        if(res.error != null) {
+			return;
+		}
+		
+        this.data = res.value;
+		if(res.value == null || res.value.length == null || res.value.length == 0) {
+			this.list.style.visibility = "hidden";
+			return;
+		}
+
+        this.list.style.visibility = "visible";
+		
+        this.list.style.height = "0px";
+		this.list.style.height = (res.value.length >= intMaxListItems
+                                    ? (intMaxListItems * intListItemHeight)
+                                    : (res.value.length * intListItemHeight) ) + "px";
+		
+
+        var i=0;
+
+		for(; i<res.value.length; i++) {
+			
+			var strDiv = "<div style='width:75%' ";
+            strDiv += "onmouseover='x.setCursor(" + i.toString() + ");window.focusOnDiv = true;this.style.backgroundColor=blue;' ";
+            strDiv += "onmouseout='window.focusOnDiv = false;this.style.backgroundColor=white;' ";
+            strDiv += "onclick='x.onselected(x.data[" + i.toString() + "]);' ";
+            strDiv += "onmouseenter='window.focusOnDiv = true;' >" + res.value[i] + "</div>";
+            
+            this.list.innerHTML += strDiv;
+		}
+		
+		for(var counter = 0; counter < this.list.childNodes.length;counter++)
+		    this.rows.push(this.list.childNodes[counter]);
+
+        if(this.cursorPos > i -1)
+			this.setCursor(i -1);
+	},
+    
+    fetchData: function() {
+		var o = AjaxPro.getInstance(this.className);
+		o[this.method](this.control.value, this.count, this.callback.bind(this));
+	},
+	setCursor: function(pos) {
+	    if(this.list.visibility == "hidden")
+	    {
+	        this.cursorPos = -1;
+	        return;
+	    }
+		if(this.cursorPos >= 0 && this.cursorPos < this.rows.length)
+			this.rows[this.cursorPos].style.backgroundColor = "";
+		this.cursorPos = pos;
+		if(this.cursorPos >= 0 && this.cursorPos < this.rows.length)
+		{
+			this.rows[this.cursorPos].style.backgroundColor = "blue";
+			window.focusOnDiv = true;
+		}
+	},
+	blur: function() {
+	    if(!window.focusOnDiv)
+	    {
+	        this.list.innerHTML = '';
+		    this.list.style.visibility = "hidden";
+		}
+	},
+	onselected: function(value) {
+		this.control.value = value;
+		window.focusOnDiv = false;
+		this.cursorPos = -1;
+		this.blur();
+	},
+	keyup: function(event) {
+		if(event.keyCode == 40 || event.keyCode == 38 || event.keyCode == 13)
+			return;
+
+		switch(event.keyCode) {
+			case 27:
+				this.list.style.visibility = "hidden";
+				break;
+			default:
+				window.status = event.keyCode;
+				if(event.keyCode >= 32)
+					this.fetchData();
+		}
+	},
+	keydown: function(event) {
+		switch(event.keyCode) {
+			case 40:
+				if(this.cursorPos < this.count -1 && this.cursorPos < this.data != null && this.data.length != null && this.data.length -1)
+					this.setCursor(this.cursorPos +1);
+				break;
+			case 38:
+				if(this.cursorPos > 0)
+					this.setCursor(this.cursorPos -1);
+				break;
+			case 13:
+				if(typeof this.onselected != "function")
+					return;
+                if(this.cursorPos == -1)
+					this.onselected(this.control.value);
+				else
+					this.onselected(this.data[this.cursorPos]);
+				break;
+		}
+	},
+    divMouseOver : function(event) { 
+        window.focusOnDiv = true;
+    },
+	load: function() {
+		addEvent(this.control, "keyup", this.keyup.bind(this));
+		addEvent(this.control, "keydown", this.keydown.bind(this));
+		addEvent(this.control, "blur", this.blur.bind(this));
+		
+        this.control.setAttribute("autocomplete", "off");
+		var list = document.createElement("div");
+        document.body.appendChild(list);
+		this.list = list;
+		addEvent(list, "mouseover", this.divMouseOver.bind(this));
+
+        var b = getBounds(this.control);
+		With(list.style, {
+			position:"absolute",
+			width:(b.width -2) + "px",
+			left:b.x + "px",
+			top:(b.y + b.height -1) + "px",
+			border:"1px solid black",
+			unselectable:"unselectable",
+			backgroundColor:"white",
+			visibility:"hidden",
+            //height:"150px",
+			overflowY:"auto"
+		});
+		this.rows = [];
+		for(var i=0; i<this.count; i++) {
+			var d = document.createElement("div");
+			list.appendChild(d);
+			this.rows.push(d);
+		}
+	},
+	initialize: function(control, count, className, method) {
+		this.control = control;
+		this.count = count;
+		this.className = className;
+		this.method = method;
+		this.cursorPos = -1;
+        addEvent(window, "load", this.load.bind(this));
+	}
+};
+
+</script>
+		
+
+
+
+
+
+
+
+<div id="header"> 
+<div id="newHeader">
+
+
+
+<table width="770px" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr><td colspan="3">&nbsp;</td>
+</tr>
+<tr>
+
+<td width="250" height="20" rowspan="3" valign="bottom">
+
+<a href="http://www.pharmacyescrow.com/" rel="nofollow" title="Pharmacy Escrow Canada - Online Canadian Pharmacy Escrow Service"><img src="/images/index/logo2-5.gif" alt="Pharmacy Escrow Canada - Online Canadian Pharmacy Escrow Service" border="0" style="padding-bottom:2px"></a>
+
+
+</td>
+
+<td width="504" align="right" valign="center">
+
+<div id="Header_Panel1">
+	
+
+<input name="Header$txtAutoComplete" type="text" id="Header_txtAutoComplete" maxlength="50" cssclass="autocomplete_textBox">
+<input type="submit" name="Header$btnSearchDrugs" value="Search" id="Header_btnSearchDrugs" class="redbutton">
+
+</div>
+
+
+
+
+
+
+</td>
+<td width="80" rowspan="2" align="center"><!-- START SCANALERT CODE -->
+<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.pharmacyescrow.com" rel="nofollow">
+
+<img id="Img1" width="65" height="37" border="0" src="//images.scanalert.com/meter/www.pharmacyescrow.com/63.gif" alt="DrugDelivery Canada is a hacker safe organization">
+
+
+</a>
+<!-- END SCANALERT CODE -->
+<script type="text/javascript" language="Javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" language="Javascript" src="/js/header2.js"></script>
+</td>
+</tr>
+<tr>
+<td align="right" style="padding-top:2px">
+
+
+<a href="/login.aspx" class="newHelpLinksT" rel="nofollow">Sign In</a>
+<font class="FooterLinks">
+| </font><a href="/?cur=usd&amp;url=/privacy.aspx" rel="nofollow" title="USD Prices"><img src="/images/flag/flag_usa.gif" alt="USD Prices" width="25" height="16" border="1" align="absmiddle" style="border-color:#4260b6; border:1px solid #4260b6 "></a><a href="/?cur=eur&amp;url=/privacy.aspx" rel="nofollow" title="Euro Prices"><img src="/images/flag/flag_euro.gif" alt="Euro Prices" width="25" height="16" border="0" align="absmiddle" style="border-color:#4260b6; border:0px "></a><a href="/?cur=gbp&amp;url=/privacy.aspx" rel="nofollow" title="British Pound Prices"><img src="/images/flag/flag_uk.gif" alt="British Pound Prices" width="25" height="16" border="0" align="absmiddle" style="border-color:#4260b6; border:0px "></a>&nbsp; 
+<a href="/cart2.aspx" class="newHelpLinksT" rel="nofollow">View Cart</a>
+(0) <font class="FooterLinks">|</font> <a href="/signup2.aspx" class="newHelpLinksT" rel="nofollow">
+Checkout</a> <a href="/signup2.aspx" class="newHelpLinksT" rel="nofollow" title="Checkout"><img alt="Checkout" src="/images/top/shoppingcart1.gif" border="0" align="top"></a>
+
+</td>
+</tr>
+<tr><td colspan="3">&nbsp;</td></tr>
+<tr>
+<td colspan="3">
+<table width="100%" cellspacing="0" cellpadding="0">
+<tbody><tr><td>
+<div id="newMaintabs">
+<table cellspacing="0" cellpadding="0">
+
+<tbody><tr>
+<td></td>
+
+<td id="current" style="display:inline; ">
+<a href="/" rel="nofollow">Home</a></td>
+<td style="display:inline; ">
+
+<a href="/medical-conditions.aspx">Medical Conditions
+
+</a></td>
+<td style="display:inline; ">
+
+<a href="/prescription-drugs.aspx">Prescription Drugs
+
+</a></td>
+
+
+<td style="display:inline; ">
+
+<a href="/herbal-medications.aspx">Herbal Medicine</a></td>
+
+
+<td style="display:inline; ">
+
+
+
+<a href="/health-fitness.aspx">Health &amp; Fitness
+
+</a></td>
+
+
+
+
+<td style="display:inline;">
+
+<a href="/bird-flu.aspx" style="color:#FFFFCC ">Bird &amp; Swine Flu</a></td>
+
+
+
+
+
+
+
+
+
+
+</tr>
+</tbody></table></div>
+
+
+</td>
+
+</tr></tbody></table>
+</td>
+
+</tr>
+<tr>
+<td colspan="3">
+<div id="NewSecondtabs">
+<table cellspacing="0" cellpadding="0">
+<tbody><tr>
+
+<td style="DISPLAY: inline; BORDER-LEFT: #ffffff 0px solid">
+<a href="/aboutus.aspx" rel="nofollow">About Us</a></td>
+<td style="DISPLAY:inline">
+<a href="http://www.pharmacyescrow.com/blog/">Our Blog (New!)</a></td>
+<td style="DISPLAY:inline">
+<a href="/howwework.aspx" rel="nofollow">How We Work</a></td>
+<td style="DISPLAY:inline">
+<a href="/guarantee.aspx" rel="nofollow">Our Guarantee</a></td>
+<td style="DISPLAY:inline">
+<a href="/canada-drugs-faq.aspx" rel="nofollow">Frequent Questions</a></td>
+<td style="DISPLAY:inline">
+<a href="/rvx-tt0-0-1-1-reviews.aspx">Testimonials</a></td>
+
+
+<td style="DISPLAY:inline">
+<a href="/howtoorder.aspx" rel="nofollow">How to Order</a></td>
+
+
+
+<td style="BORDER-RIGHT:#ffffff 0px solid; DISPLAY:inline">
+<a href="/contactus.aspx" rel="nofollow">Contact Us</a>
+</td>
+
+
+
+</tr>
+</tbody></table>
+</div>
+</td>
+</tr>
+<tr>
+<td colspan="3" align="center">
+
+
+<table width="100%" border="0" bgcolor="#FFFFCC" class="DarkGray" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td><img height="1" alt="Spacer" src="/images/spacer.gif" width="100%"></td>
+</tr>
+<tr>
+<td class="GreenBar"><img height="1" alt="Spacer" src="/images/spacer.gif" width="100%"></td>
+</tr>
+
+<tr>
+<td bgcolor="#ffcccc"><img height="3" alt="Spacer" src="/images/spacer.gif" width="100%"></td>
+</tr>
+
+<tr>
+<td bgcolor="#ffcccc"><div align="center"><a style="COLOR:#0000cc; TEXT-DECORATION:none" href="/namechange.aspx" class="FooterLinks" rel="nofollow"><font size="-1" style="COLOR:#0000cc; TEXT-DECORATION:none">Announcement: DrugDelivery.ca is now PharmacyEscrow.com - Click here for more information on this change.</font></a></div></td>
+</tr>
+<tr>
+<td bgcolor="#ffcccc"><img height="3" alt="Spacer" src="/images/spacer.gif" width="100%"></td>
+</tr>
+<tr>
+<td class="GreenBar"><img height="1" alt="Spacer" src="/images/spacer.gif" width="100%"></td>
+</tr>
+
+
+<tr>
+<td bgcolor="#ffcccc"><img height="1" alt="Spacer" src="/images/spacer.gif" width="100%"></td>
+</tr>
+<tr>
+<td class="GreenBar"><img height="1" alt="Spacer" src="/images/spacer.gif" width="100%"></td>
+</tr>
+<tr>
+<td bgcolor="#ffff99"><img height="3" alt="Spacer" src="/images/spacer.gif" width="100%"></td>
+</tr>
+
+<tr>
+<td bgcolor="#ffff99"><div align="center"><a style="COLOR:#0000cc; TEXT-DECORATION:none" href="/s3353-s-TAMIFLU.aspx" class="FooterLinks"><font size="-1">Tamiflu</font></a> <font size="-1"><a style="COLOR:#0000cc; TEXT-DECORATION:none" href="/bird-flu.aspx" class="FooterLinks" rel="nofollow">will protect your family from the H1N1 Swine Flu - Stock is running out, click here for more information!</a></font> </div></td>
+</tr>
+
+<tr>
+<td bgcolor="#ffff99"><img height="3" alt="Spacer" src="/images/spacer.gif" width="100%"></td>
+</tr>
+
+<tr>
+<td class="GreenBar"><img height="1" alt="Spacer" src="/images/spacer.gif" width="100%"></td>
+</tr>
+<tr>
+<td><img height="1" alt="Spacer" src="/images/spacer.gif" width="100%"></td>
+</tr>
+<tr>
+<td class="GreenBar"><img height="1" alt="Spacer" src="/images/spacer.gif" width="100%"></td>
+</tr>
+<tr>
+<td bgcolor="#FFFFCC"><img height="3" alt="Spacer" src="/images/spacer.gif" width="100%"></td>
+</tr>
+<tr>
+<td bgcolor="#FFFFCC"><div align="center"><a style="COLOR:#0000cc; TEXT-DECORATION:none" href="/contactus.aspx" rel="nofollow">Questions? Call us now at 1-877-888-3562 - We are available 24 hours a day, 7 days a week, 365 days a year.</a></div></td>
+</tr>
+<tr>
+<td bgcolor="#FFFFCC"><img height="3" alt="Spacer" src="/images/spacer.gif" width="100%"></td>
+</tr>
+<tr>
+<td class="GreenBar"><img height="1" alt="Spacer" src="/images/spacer.gif" width="100%"></td>
+</tr>
+<!--
+<tr>
+<td bgcolor="#ffcccc"><IMG height="3" alt="Spacer" src="/images/spacer.gif" width="100%"></td>
+</tr>
+<tr>
+<td bgcolor="#ffcccc"><div align="center"><a style="COLOR:#0000cc; TEXT-DECORATION:none" href="/update.aspx" rel="nofollow">We are currently updating our website and all systems will be back to normal in ~2 hours. Sorry for the inconvenience. </a></div></td>
+</tr>
+<tr>
+<td bgcolor="#ffcccc"><IMG height="3" alt="Spacer" src="/images/spacer.gif" width="100%"></td>
+</tr>
+<tr>
+<td class="GreenBar"><IMG height="1" alt="Spacer" src="/images/spacer.gif" width="100%"></td>
+</tr>
+-->
+
+
+<tr>
+<td><img height="1" alt="Spacer" src="/images/spacer.gif" width="100%"></td>
+</tr>
+</tbody></table>
+
+</td>
+</tr>
+</tbody></table>
+
+</div>
+
+
+
+
+
+		<table cellspacing="0" cellpadding="10" width="100%" bgcolor="#ffffff" border="0">
+			<tbody><tr>
+				<td class="DarkGray" valign="top">
+					
+						<h1>PharmacyEscrow.com Privacy Policy</h1>
+						<p>
+							At PharmacyEscrow.com carrying on business as “PharmacyEscrow.com”, safeguarding your 
+							confidentiality and protecting your personal information is a primary concern.
+						</p>
+						<p>
+							This Web site contains links to other sites that are not owned or controlled by 
+							PharmacyEscrow.com. Please be aware that we, PharmacyEscrow.com, are not responsible 
+							for the privacy practices of such other sites.
+						</p>
+						<p>We encourage you to be aware when you leave our site and to read the privacy 
+							statements of each and every Web site that collects personally identifiable 
+							information.
+						</p>
+						<p>This privacy statement applies only to information collected by PharmacyEscrow.com.<br>
+							<br>
+							<strong>The Types of Personal Information We Collect</strong><br>
+							<br>
+							PharmacyEscrow.com gathers and uses any information that is necessary for 
+							fulfilling your orders for our products and services. It typically includes the 
+							following personal information:</p>
+						<ul>
+							<li>
+								name, mailing address, e-mail address, telephone numbers, referral source, 
+								credit card information (including card type and number, expiry date and name 
+								of card holder), health profile (including weight, height, and other details of your medical history), and prescription information;
+							</li>
+						</ul>
+						<p>
+							Credit card details are not stored on company database or server. We process our transactions through and SSL environment. The choice to provide us with personal information is always yours. However, 
+							your decision to withhold particular details may limit the products and 
+							services PharmacyEscrow.com is able to provide and make it more difficult for us 
+							to advise you or suggest appropriate alternatives. If PharmacyEscrow.com is unable 
+							to accommodate your request based on the information that has been provided, we 
+							may ask for additional details in order to identify other ways to be of 
+							assistance. We may also maintain a file containing contact history that is used 
+							for customer inquiry purposes.<br>
+							<br>
+							PharmacyEscrow.com may collect anonymous/non-personal information. 
+							Anonymous/non-personal information is information that cannot be associated 
+							with or traced back to a specific individual or business entity. We collect 
+							this information for marketing and research purposes to help increase our 
+							efficiency and customer service.<br>
+							<br>
+							<strong>The Purposes for which we use Personal Information</strong><br>
+							<br>
+							PharmacyEscrow.com does not share, sell, rent or trade any information with third parties for 
+							their promotional purposes.
+						</p>
+						<p>If you purchase a product or service from us, we request certain personally 
+							identifiable information from you on our order form. You must provide contact 
+							information (such as name, email, and shipping address) and financial 
+							information (such as credit card number, expiration date). We use this 
+							information for billing purposes and to fill your orders. If we have trouble 
+							processing an order, we will use this information to contact you. When you 
+							place an order with us you will be sent an invoice as well as regular emails 
+							pertaining to the status of your order. All customers are automatically signed 
+							up to our mailing list of which they may remove membership from their account 
+							information page.
+						</p>
+						<p>We will occasionally send you information on products, services, special deals, 
+							and promotions. Out of respect for your privacy, we present the option not to 
+							receive these types of communications. <br>
+							<br>
+							PharmacyEscrow.com uses your personal information to communicate with you, enhance 
+							your visit to our site, process orders and effectively provide the products and 
+							services you have requested.
+				  </p>
+						<p>We will send you service-related announcements on rare occasions when it is 
+							necessary to do so. For instance, if our service is temporarily suspended for 
+							maintenance, we might send you an email. Generally, you may not opt-out of 
+							these communications, which are not promotional in nature. If you do not wish 
+							to receive them, you have the option to deactivate your account.<br>
+							<br>
+							PharmacyEscrow.com may use personal information to offer additional products and 
+							services sold by PharmacyEscrow.com. We will not furnish personal information to 
+							an outside organization for its use in marketing or solicitation, without your 
+							prior consent.<br>
+							<br>
+							PharmacyEscrow.com only uses personal information for the purposes that we have 
+							disclosed to you. If for any reason your information is required to fulfill a 
+							different purpose, we will notify you and ask you for your consent before we 
+							proceed.<br>
+							<br>
+							In some instances such as a legal proceeding or court order, PharmacyEscrow.com 
+							may also be required to disclose certain information to authorities. Only the 
+							information specifically requested is disclosed and we take precautions to 
+							satisfy ourselves that the authorities who are making the request have 
+							legitimate grounds to do so.</p>
+						<p>
+							We reserve the right to disclose your personally identifiable information as 
+							required by law and when we believe that disclosure is necessary to protect our 
+							rights and/or comply with a judicial proceeding, court order, or legal process 
+							served on our Web site.
+							<br>
+							<br>
+							There are some situations where we are legally permitted to disclose personal 
+							information such as employing reasonable and legal methods to collect a 
+							delinquent account, a medical emergency or suspicion of illegal activities.<br>
+							<br>
+							PharmacyEscrow.com sometimes contract outside organizations to perform specialized 
+							services. Our trusted service suppliers may at times be responsible for 
+							processing and handling some of the information we receive from you.<br>
+							<br>
+							When you visit our web site, information is not collected that could identify 
+							you personally unless you choose to provide it voluntarily. You are welcome to 
+							browse the web site at any time anonymously and privately without revealing any 
+							personal information about yourself.</p>
+						<p><strong>Opting Out</strong><br>
+							<br>
+							We provide you the opportunity to ‘opt-out’ of having your personally 
+							identifiable information used for certain purposes, when we ask for this 
+							information. For example, if you purchase a product/service but do not wish to 
+							receive any additional marketing material from us, you can indicate your 
+							preference in your account information by unchecking the "Send me emails for 
+							discounts and coupons" checkbox.</p>
+						<p><strong>Supplementation of Information </strong>
+						</p>
+						<p>
+							We use Third Party Software to verify your identity, in order to reduce the 
+							risk of fraudulent purchases and keep our prices low.
+						</p>
+						<p>We purchase marketing data from third parties and add it to our existing user 
+							database, to better target our advertising and to provide pertinent offers in 
+							which we think you would be interested. To enrich our Profiles of individual 
+							customers, we tie this information to the personally identifiable information 
+							they have provided to us.</p>
+						<p><strong>Agents</strong>
+							<br>
+							<br>
+							We use an outside shipping company to fulfill orders, and a credit card 
+							processing company to bill you for goods and services. These companies do not 
+							retain, share, store or use personally identifiable information for any other 
+							purposes. The types of information we share with these companies include: name, 
+							address, phone number, email address, and payment details in the event it is a 
+							bank processing your transaction.
+						</p>
+						<p><strong>Service Providers</strong></p>
+						<p>We use other third parties such as Live Chat and Hacker Safe to provide 
+							enhancements to customer service on our site. When you browse our website your 
+							information is being shared with the third party to provide that service. These 
+							third parties are prohibited from using your personally identifiable 
+							information for any other purpose. The types of information shared with these 
+							third parties can include your browser type, the search terms used to arrive to 
+							our web site, as well as where you have been while on our web site and how long 
+							you have been there for.<br>
+							<br>
+							<strong>Security Measures</strong><br>
+							<br>
+							PharmacyEscrow.com uses current technologies and maintain security standards to 
+							ensure that your personal information is protected against unauthorized access, 
+							disclosure, inappropriate alteration or misuse. All safety and security 
+							measures are also appropriate to the sensitivity level of your information. 
+							Electronic client files are kept in a secured environment with restricted 
+							access. Paper-based files are stored in restricted access areas.
+						</p>
+						<p>The security of your personal information is important to us. When you enter 
+							sensitive information (such as credit card number) on our registration or order 
+							forms, we encrypt that information using secure socket layer technology (SSL).
+							<br>
+							<br>
+							PharmacyEscrow.com manages our server environment appropriately and our firewall 
+							infrastructure is strictly adhered to. Our security practices are reviewed 
+							periodically and we employ current technologies to assist us in protecting the 
+							confidentiality and privacy of your information.<br>
+							<br>
+							In the course of daily operations, PharmacyEscrow.com attempts to restrict access 
+							to personal information to authorized employees who have a legitimate business 
+							purpose and reason for accessing it. As a condition of their employment, all 
+							employees of PharmacyEscrow.com are required to abide by the privacy standards we 
+							have established and to follow all applicable laws and regulations. 
+							Unauthorized access to and/or disclosure of client information by an employee 
+							of PharmacyEscrow.com is strictly prohibited. All employees are expected to 
+							maintain the confidentiality of personal information at all times and failing 
+							to do so will result in appropriate disciplinary measures, which may include 
+							dismissal.</p>
+						<p><strong>Cookies</strong></p>
+						<p>A cookie is a small text file that is stored on a user’s computer for 
+							record-keeping purposes. We use cookies on this site. We link the information 
+							we store in cookies to personally identifiable information you submit while on 
+							our site. The information that can be stored in a cookie can include your 
+							customer ID and password (if you chose to save the password when logging into 
+							your account), the contents of your shopping cart, and whether or not you were 
+							referred by an affiliate.</p>
+						<p>We use both session ID cookies and persistent cookies. We use session cookies to 
+							make it easier for you to navigate our site. A session ID cookie expires when 
+							you close you browser. A persistent cookie remains on your hard drive for an 
+							extended period of time. You can remove persistent cookies by following 
+							directions provided in your Internet browser’s “help” file.</p>
+						<p>We set a persistent cookie to store your passwords, so you don’t have to enter 
+							it more than once. Persistent cookies also enable us to track and target the 
+							interests of our users to enhance the experience on our site.</p>
+						<p>If you reject cookies, you may still use our site, but your ability to use some 
+							areas of our site, such as contests or surveys, will be limited.
+						</p>
+						<p>
+							Some of our business partners (e.g., advertisers) use cookies on our site. We 
+							have no access to or control over these cookies. This privacy statement covers 
+							the use of cookies by PharmacyEscrow.com only and does not cover the use of 
+							cookies by any advertisers.</p>
+						<p><strong>Log Files</strong></p>
+						<p>
+							As is true of most Web sites, we gather certain information automatically and 
+							store it in log files. This information includes internet protocol (IP) 
+							addresses, browser type, internet service provider (ISP), referring/exit pages, 
+							operating system, date/time stamp, and clickstream data.</p>
+						<p>We use this information, which does not identify individual users, to analyze 
+							trends, to administer the site, to track users’ movements around the site and 
+							to gather demographic information about our user base as a whole.</p>
+						<p>We do not link this automatically-collected data to personally identifiable 
+							information.
+							<br>
+							<br>
+							<strong>Accessing and Amending Your Information</strong><br>
+							<br>
+							Decisions are often made based on the information we have. Therefore, it is 
+							important that your personal information on record at PharmacyEscrow.com is 
+							accurate and complete. As a customer, you have the right to access, verify and 
+							amend the information held in your personal and financial files. To access this 
+							information simply login to your account from the homepage, then click on the 
+							"Go" button under the "Account Information" section.
+							<br>
+							<br>
+							To help PharmacyEscrow.com keep your personal information up-to-date, we encourage 
+							you to amend inaccuracies and make corrections as often as necessary. Despite 
+							our efforts, errors sometimes do occur. Should you identify any incorrect or 
+							out-of-date information in your file(s), we will make the proper changes and 
+							provide you with a copy of the corrected information. Where appropriate, we 
+							will communicate these changes to other parties who may have unintentionally 
+							received incorrect information from us.<br>
+							<br>
+							<strong>Privacy Officer</strong><br>
+							<br>
+							Customers may direct any questions or enquires with respect to our practices or 
+							your personal information by contacting PharmacyEscrow.com privacy officer, as 
+							follows:<br>
+							<br>
+							Email: privacy@pharmacyescrow.com
+							<br>
+							Phone: 1-877-888-3562<br>
+						  Facsimile: 1-866-848-1611<br>
+							Mailing Address:
+							<br>
+							PharmacyEscrow.com<br>
+							27 Old Gloucester Street,
+							<br>
+							London, WC1N 3XX,
+							<br>
+							United Kingdom<br>
+							<br>
+							<strong>Updating this Policy</strong><br>
+							<br>
+							If we decide to change our privacy policy, we will post those changes to this 
+							privacy statement, the home page, and other places we deem appropriate so that 
+							you are aware of what information we collect, how we use it, and under what 
+							circumstances, if any, we disclose it. We reserve the right to modify this 
+							privacy statement at any time, so please review it frequently. If we make 
+							material changes to this policy, we will notify you here, by email, or by means 
+							of a notice on our home page.						</p>
+						<p>Last Updated: March 29, 2008
+						</p>
+						<p><a href="#top" class="FooterLinks">Back to Top</a></p>
+					
+				</td>
+				<td valign="top" align="center" width="200" bgcolor="#ffffff"><br>
+					<div align="center">
+  
+  <!-- BEGIN LivePerson Button Code -->
+  <a id="_lpChatBtn" href="http://server.iad.liveperson.net/hc/73507357/?cmd=file&amp;file=visitorWantsToChat&amp;site=73507357&amp;byhref=1&amp;imageUrl=http://www.pharmacyescrow.com/images/timpani/" target="chat73507357" onclick="lpButtonCTTUrl = 'http://server.iad.liveperson.net/hc/73507357/?cmd=file&amp;file=visitorWantsToChat&amp;site=73507357&amp;imageUrl=http://www.pharmacyescrow.com/images/timpani/&amp;referrer='+escape(document.location); lpButtonCTTUrl = (typeof(lpAppendVisitorCookies) != 'undefined' ? lpAppendVisitorCookies(lpButtonCTTUrl) : lpButtonCTTUrl); window.open(lpButtonCTTUrl,'chat73507357','width=475,height=400,resizable=yes');return false;">
+    <img src="http://server.iad.liveperson.net/hc/73507357/?cmd=repstate&amp;site=73507357&amp;channel=web&amp;&amp;ver=1&amp;imageUrl=http://www.pharmacyescrow.com/images/timpani/" name="hcIcon" border="0">
+  </a>
+  <br>
+    <!-- END LivePerson Button code -->
+
+
+    <br>
+      <br>
+        <table width="190" border="0" cellspacing="0" cellpadding="0" align="center">
+          <tbody><tr>
+            <td align="center" width="50">
+              <a class="FooterLinks" href="/aboutus.aspx" rel="nofollow">
+                <img src="/images/video.gif" border="0">
+            </a>
+            </td>
+            <td align="left">
+              <strong>Watch our 2 videos!</strong>
+              <br>
+                - <a class="FooterLinks" href="/aboutus.aspx" rel="nofollow">
+                  Who are we?
+                </a><br>
+                  - <a class="FooterLinks" href="/howwework.aspx" rel="nofollow">What do we do?</a>
+            </td>
+
+          </tr>
+        </tbody></table>
+
+        
+</div></td>
+			</tr>
+		</tbody></table>
+		
+  <table class="darkgray" cellspacing="0" cellpadding="0" width="100%" align="center" bgcolor="#ffffff" border="0">
+							<tbody><tr>
+								<td valign="top" style="background-image: url(/images/dots/t2_hdots_180.gif)" height="1"><img alt="Spacer" height="1" src="/images/spacer.gif" width="1"></td>
+							</tr>
+						</tbody></table>
+  
+<table width="100%" border="0" cellspacing="0" cellpadding="2">
+  <tbody><tr>
+    <td valign="middle">
+     <a href="http://www.pharmacyescrow.com/guarantee.aspx" rel="nofollow" title="Satisfaction Guaranteed"><img align="absmiddle" src="http://www.pharmacyescrow.com/images/satisfactionGuarantee.gif" alt="Satisfaction Guaranteed"></a>
+
+        </td>
+    <td valign="middle">
+     <a href="http://www.pharmacyescrow.com/price-guarantee.aspx" rel="nofollow" title="Lowest Prices Guaranteed"><img align="absmiddle" src="http://www.pharmacyescrow.com/images/icon_pricematch.gif" alt="Lowest Prices Guaranteed"></a>
+     </td>
+    <td valign="middle"><img alt="Secured By RapidSSL and Trustico" title="Secured By RapidSSL and Trustico" src="https://secure.trustico.com/rapidssl/rapidssl-115x65.gif" width="115" height="65" border="0">
+</td>
+    <td valign="middle">
+<a target="_blank" href="http://www.safeshoppingnetwork.com/detail.cfm?lstid=16138" rel="nofollow" title="PharmacyEscrow.com is Safe Shopping Certified!"><img align="absmiddle" src="http://www.pharmacyescrow.com/images/safety8.gif" alt="PharmacyEscrow.com is Safe Shopping Certified!"></a>
+        </td>
+    <td valign="middle"><!-- VeriPayment.com Merchant Seal tag. Do not edit. --><script language="JavaScript" type="text/javascript" src="http://www.veripayment.com/merchantseallogo.php?seal_id=cwI42QC9tVcTp9TNEVxo2yHxH1tVYXOl"></script><!-- end VeriPayment.com Merchant Seal tag --></td>
+    <td valign="middle">
+    <a href="http://www.pharmacyescrow.com/faq-payment.aspx#3" rel="nofollow" title="We accept Visa and American Express for payment by credit card. Click here for a list of our other payment methods."><img align="absmiddle" src="http://www.pharmacyescrow.com/images/cc_box.gif" alt="We accept Visa and American Express for payment by credit card. Click here for a list of our other payment methods."></a>
+
+        </td>
+  </tr>
+</tbody></table>
+
+
+   <table style="" width="100%" border="0" bgcolor="#FFFFCC" class="DarkGray" cellpadding="0" cellspacing="0">
+	 <tbody><tr>
+	   <td align="center" class="GreenBar"><img height="1" alt="Spacer" src="/images/spacer.gif" width="100%"></td>
+	 </tr>
+	 <tr>
+	   <td><img height="1" alt="Spacer" src="/images/spacer.gif" width="100%"></td>
+	 </tr>
+   </tbody></table>
+   <div id="NewFootertabs">
+	
+  	<table cellspacing="0" cellpadding="0" border="0" width="100%">
+			<tbody><tr><td valign="top" style="border-left: 0px #ffffff solid;vertical-align:top;">Our Categories<br>
+			  <a href="/">Online Pharmacy</a>
+			<a href="/prescription-drugs.aspx">Prescription Drugs</a>
+			<a href="/herbal-medications.aspx">Herbal Medicine</a>
+			<a href="/health-fitness.aspx">Health &amp; Fitness</a>
+			<a href="/bird-flu.aspx">Bird Flu</a><br>
+			 Shortcuts<a href="/canadian-pharmacy-sitemap.aspx">Site Map</a><a href="/sitemap.aspx">Site Links</a></td>
+			<td valign="top" style="vertical-align:top;">Our Service<a href="/aboutus.aspx" rel="nofollow">About Us</a><a href="/howwework.aspx" rel="nofollow">How We Work</a><a href="/guarantee.aspx" rel="nofollow">Our Guarantee</a><a href="/canada-drugs-faq.aspx" rel="nofollow">Frequent Questions</a><a href="/rvx-tt0-0-1-1-reviews.aspx">Testimonials</a><a href="/howtoorder.aspx" rel="nofollow">How to Order</a><a href="/trackorder.aspx" rel="nofollow">Track Order</a><a href="/contactus.aspx" rel="nofollow">Contact Us</a>		   </td>
+			<td valign="top" style="vertical-align:top;">Our Policies<a href="/refund.aspx" rel="nofollow">Refund Policy</a><a href="/delivery.aspx" rel="nofollow">Delivery Policy</a><a href="/privacy.aspx" rel="nofollow">Privacy Policy</a><a href="/terms.aspx" rel="nofollow">Terms of Use</a><br>
+			  Partnership<a href="/online-pharmacy-affiliate-program.aspx">Pharmacy Affiliate <br>Program</a><a href="/faq-order.aspx#10" rel="nofollow">Refer a Friend</a><a href="/linktous.aspx" rel="nofollow">Link To Us</a></td>
+			 <td valign="top" style="vertical-align:top;">			 Advertising<a href="/faq-company.aspx#9" rel="nofollow">Your Products</a><a href="/faq-company.aspx#10" rel="nofollow">Your Business</a><a href="/faq-company.aspx#11" rel="nofollow">Joint Venture</a>			 <br>
+			  More Services<a href="/directory.aspx">Pharmacy Directory</a><a href="/pharmacynews/" rel="nofollow">Pharmacy News</a><a href="http://mobile.pharmacyescrow.com" rel="nofollow">Mobile Access</a></td>
+ 			  <td valign="top" style="vertical-align:top;"> Conditions
+				<table width="100" border="0" cellpadding="0" cellspacing="0" id="FooterTable">
+				  <tbody><tr>
+					<td><a rel="nofollow" href="/medical-conditions-a.aspx">A</a></td>
+					<td><a rel="nofollow" href="/medical-conditions-b.aspx">B</a></td>
+					<td><a rel="nofollow" href="/medical-conditions-c.aspx">C</a></td>
+					<td><a rel="nofollow" href="/medical-conditions-d.aspx">D</a></td>
+					<td><a rel="nofollow" href="/medical-conditions-e.aspx">E</a></td>
+				  </tr>
+				  <tr>
+					<td><a rel="nofollow" href="/medical-conditions-f.aspx">F</a></td>
+					<td><a rel="nofollow" href="/medical-conditions-g.aspx">G</a></td>
+					<td><a rel="nofollow" href="/medical-conditions-h.aspx">H</a></td>
+					<td><a rel="nofollow" href="/medical-conditions-i.aspx">I</a></td>
+					<td><a rel="nofollow" href="/medical-conditions-j.aspx">J</a></td>
+				  </tr>
+				  <tr>
+					<td><a rel="nofollow" href="/medical-conditions-k.aspx">K</a></td>
+					<td><a rel="nofollow" href="/medical-conditions-l.aspx">L</a></td>
+					<td><a rel="nofollow" href="/medical-conditions-m.aspx">M</a></td>
+					<td><a rel="nofollow" href="/medical-conditions-n.aspx">N</a></td>
+					<td><a rel="nofollow" href="/medical-conditions-o.aspx">O</a></td>
+				  </tr>
+				  <tr>
+					<td><a rel="nofollow" href="/medical-conditions-p.aspx">P</a></td>
+					<td><a rel="nofollow" href="/medical-conditions-q.aspx">Q</a></td>
+					<td><a rel="nofollow" href="/medical-conditions-r.aspx">R</a></td>
+					<td><a rel="nofollow" href="/medical-conditions-s.aspx">S</a></td>
+					<td><a rel="nofollow" href="/medical-conditions-t.aspx">T</a></td>
+				  </tr>
+				  <tr>
+					<td><a rel="nofollow" href="/medical-conditions-u.aspx">U</a></td>
+					<td><a rel="nofollow" href="/medical-conditions-v.aspx">V</a></td>
+					<td><a rel="nofollow" href="/medical-conditions-w.aspx">W</a></td>
+					<td><a rel="nofollow" href="/medical-conditions-x.aspx">X</a></td>
+					<td><a rel="nofollow" href="/medical-conditions-y.aspx">Y</a></td>
+				  </tr>
+				  <tr>
+					<td><a rel="nofollow" href="/medical-conditions-z.aspx">Z</a></td>
+					<td colspan="4" style="border-right: 0px #ffffff solid;border-left: 0px #ffffff solid;"><a rel="nofollow" href="/medical-conditions.aspx">ALL</a></td>
+					 
+				  </tr>
+				</tbody></table>
+			  <br>
+			  <span style="border-right: 0px #ffffff solid;vertical-align:top;">Careers <a href="/jobs.aspx" rel="nofollow">Current Jobs</a></span></td>
+						
+			  <td valign="top" style="border-right: 0px #ffffff solid;vertical-align:top;">Prescriptions
+	<table width="100" border="0" cellpadding="0" cellspacing="0" id="FooterTable">
+	<tbody><tr>
+	  <td><a rel="nofollow" href="/prescription-drugs-a.aspx">A</a></td>
+	  <td><a rel="nofollow" href="/prescription-drugs-b.aspx">B</a></td>
+	  <td><a rel="nofollow" href="/prescription-drugs-c.aspx">C</a></td>
+	  <td><a rel="nofollow" href="/prescription-drugs-d.aspx">D</a></td>
+	  <td><a rel="nofollow" href="/prescription-drugs-e.aspx">E</a></td>
+	</tr>
+	<tr>
+	  <td><a rel="nofollow" href="/prescription-drugs-f.aspx">F</a></td>
+	  <td><a rel="nofollow" href="/prescription-drugs-g.aspx">G</a></td>
+	  <td><a rel="nofollow" href="/prescription-drugs-h.aspx">H</a></td>
+	  <td><a rel="nofollow" href="/prescription-drugs-i.aspx">I</a></td>
+	  <td><a rel="nofollow" href="/prescription-drugs-j.aspx">J</a></td>
+	</tr>
+	<tr>
+	  <td><a rel="nofollow" href="/prescription-drugs-k.aspx">K</a></td>
+	  <td><a rel="nofollow" href="/prescription-drugs-l.aspx">L</a></td>
+	  <td><a rel="nofollow" href="/prescription-drugs-m.aspx">M</a></td>
+	  <td><a rel="nofollow" href="/prescription-drugs-n.aspx">N</a></td>
+	  <td><a rel="nofollow" href="/prescription-drugs-o.aspx">O</a></td>
+	</tr>
+	<tr>
+	  <td><a rel="nofollow" href="/prescription-drugs-p.aspx">P</a></td>
+	  <td><a rel="nofollow" href="/prescription-drugs-q.aspx">Q</a></td>
+	  <td><a rel="nofollow" href="/prescription-drugs-r.aspx">R</a></td>
+	  <td><a rel="nofollow" href="/prescription-drugs-s.aspx">S</a></td>
+	  <td><a rel="nofollow" href="/prescription-drugs-t.aspx">T</a></td>
+	</tr>
+	<tr>
+	  <td><a rel="nofollow" href="/prescription-drugs-u.aspx">U</a></td>
+	  <td><a rel="nofollow" href="/prescription-drugs-v.aspx">V</a></td>
+	  <td><a rel="nofollow" href="/prescription-drugs-w.aspx">W</a></td>
+	  <td><a rel="nofollow" href="/prescription-drugs-x.aspx">X</a></td>
+	  <td><a rel="nofollow" href="/prescription-drugs-y.aspx">Y</a></td>
+	</tr>
+	<tr>
+	  <td><a rel="nofollow" href="/prescription-drugs-z.aspx">Z</a></td>
+	  <td colspan="4" style="border-right: 0px #ffffff solid;border-left: 0px #ffffff solid;"><a rel="nofollow" href="/prescription-drugs-list.aspx">ALL</a></td>
+	  </tr>
+  </tbody></table>	
+	 <br>
+	Promotions <a href="/hcg-challenge.aspx">HCG Diet Challenge</a></td>
+ 
+			
+
+		
+		</tr>
+	</tbody></table>
+	
+	
+					
+   </div>
+<table width="100%" border="0" bgcolor="#FFFFCC" class="DarkGray" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td><img height="1" alt="Spacer" src="/images/spacer.gif" width="100%"></td>
+  </tr>
+				 <tr>
+					<td class="GreenBar"><img height="1" alt="Spacer" src="/images/spacer.gif" width="100%"></td>
+  </tr>
+  
+				  <tr>
+					<td><img height="3" alt="Spacer" src="/images/spacer.gif" width="100%"></td>
+				  </tr>
+				  <tr>
+					<td bgcolor="#FFFFCC"><div align="center">International: 
+					
+					English
+            
+							   | 
+							   
+							   
+							   <a style="COLOR:#0000cc; TEXT-DECORATION:none" href="/privacy-fr.aspx" class="FooterLinks">Français</a>
+							   
+					 | 
+					 
+							   
+							   <a style="COLOR:#0000cc; TEXT-DECORATION:none" href="/privacy-es.aspx" class="FooterLinks">Español</a>
+							   
+            
+							   | 
+							   
+							   
+							   <a style="COLOR:#0000cc; TEXT-DECORATION:none" href="/privacy-ro.aspx" class="FooterLinks">Română</a>
+							   
+				  <!--/privacy.aspx  | -->
+					
+					</div></td>
+				  </tr>
+				   <tr>
+					<td><img height="3" alt="Spacer" src="/images/spacer.gif" width="100%"></td>
+				  </tr>
+				   <tr>
+					<td class="GreenBar"><img height="1" alt="Spacer" src="/images/spacer.gif" width="100%"></td>
+				  </tr>
+				 
+				   <tr>
+					<td><img height="1" alt="Spacer" src="/images/spacer.gif" width="100%"></td>
+				  </tr>
+				  
+   </tbody></table>
+
+<br>
+<div style="clearvar
+    : both; width: 100%; padding: 5px 0px;">
+ 
+  <div align="center">By using this site you agree to our <a href="/terms.aspx" rel="nofollow">Terms and Conditions</a> © 2009, PharmacyEscrow.com<br>
+  Our pharmacy escrow service does not allow shipments to any Canadian address.<em><br>
+  ** Please note that all information provided on this site is for informational purposes only.<br>
+  Information is provided by the U.S. Food &amp; Drug Administration as well as each medications individual manufacturer.  <br>
+  Please consult your physician before using any information/medication you see listed on this site. ** </em><br>
+  <br>
+  <br>
+  PharmacyEscrow.com is an <a href="/">Online Pharmacy</a> Escrow Service that ships
+medications World Wide. Order today by calling 1-877-888-3562.</div>
+</div>
+ 
+<br>
+<div align="center" style="WIDTH:100%" class="DarkGray">
+	
+
+		<!--
+	<table width="100%" class="DarkGray" align="center">
+			<tbody>
+		
+			<tr>
+			<td>
+			</td>
+			</tr>
+			</tbody>
+	</table>-->
+	<p align="center">
+ <a href="http://jigsaw.w3.org/css-validator/" target="_blank" rel="nofollow">
+  <img style="border:0;width:88px;height:31px" src="/images/vcss.png" alt="Pharmacy Escrow Canada is a W3C valid CSS site">
+ </a>
+</p>
+</div>
+
+<script type="text/javascript" src="/PPSpeaking/swfobject.js"></script>
+<script type="text/javascript" src="/PPSpeaking/jumptop.js"></script><span id="logo" style="position: absolute; top: 737px; z-index: 100; left: 1315px;"><a href="#" onclick="playFLV()"><img src="/PPSpeaking/playvideo.gif" border="0"></a></span>
+
+
+<!-- BEGIN Invitation Positioning  -->
+<script language="javascript" type="text/javascript">
+var lpPosY = 100;
+</script>
+<!-- END Invitation Positioning  -->
+
+<!-- BEGIN HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG --><script language="javascript" src="http://server.iad.liveperson.net/hc/73507357/x.js?cmd=file&amp;file=chatScript3&amp;site=73507357&amp;&amp;imageUrl=http://www.pharmacyescrow.com/images/timpani/"> </script><!-- END HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
+<!-- BEGIN Invitation Sound  -->
+<script language="javascript" type="text/javascript">function lpShowTheImageHook() {var body = document.getElementsByTagName('body');var divE = document.createElement('bgsound');divE.id = 'lpInvitationSound';divE.style.position = 'absolute';divE.style.left = '0px';divE.style.top = '0px';divE.hidden = 'true';divE.src='https://server.iad.liveperson.net/hcp/Gallery/chime03.wav';divE.autostart='true';divE.loop='0';body[0].appendChild(divE);setTimeout("document.getElementsByTagName('body')[0].removeChild(document.getElementById('lpInvitationSound'))", 3000);lpOldShowTheImage();}
+if (document.all && typeof(hcShowTheImage) != 'undefined') {lpOldShowTheImage = hcShowTheImage;hcShowTheImage = lpShowTheImageHook;}</script>
+<!-- END Invitation Sound  -->
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-364082-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+
+
+		<br>
+		<div></div>
+		
+<script type="text/javascript">var x = new AjaxPro.Web.Controls.AutoComplete(document.getElementById('Header_txtAutoComplete'), 100, 'dd.Header2', 'GetCompletionList');</script>
+	
+
+</div></form></body></html>
