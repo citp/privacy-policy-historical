@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zopim.com privacy policy that was archived on 2009-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090302170734id_/http%3A//www.zopim.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zopim.com privacy policy that was archived on 2009-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091012193745id_/http%3A//www.zopim.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Simple, Effective Live Chat | Zopim Privacy Agreement
 
