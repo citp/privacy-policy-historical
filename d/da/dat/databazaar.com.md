@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the databazaar.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622034234id_/http%3A//www.databazaar.com/Inkjet_Cartridge/UserTemplate/Privacy_Policy_97.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the databazaar.com privacy policy that was archived on 2009-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091012025652id_/http%3A//www.databazaar.com/Inkjet_Cartridge/UserTemplate/Privacy_Policy_97.html) for the most accurate reproduction.*
 
 # Databazaar Privacy Policy
 
