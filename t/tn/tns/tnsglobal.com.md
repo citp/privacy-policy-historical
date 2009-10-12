@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tnsglobal.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617171937id_/http%3A//www.tnsglobal.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tnsglobal.com privacy policy that was archived on 2009-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091012133216id_/http%3A//www.tnsglobal.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy policy
 
