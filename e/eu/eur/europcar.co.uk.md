@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the europcar.co.uk privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603070052id_/http%3A//www.europcar.co.uk/EBE/module/render/security-and-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the europcar.co.uk privacy policy that was archived on 2009-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091013125347id_/http%3A//www.europcar.co.uk/EBE/module/render/security-and-privacy-policy) for the most accurate reproduction.*
 
 # Security and privacy policy
 
