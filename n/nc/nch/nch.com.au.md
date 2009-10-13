@@ -1,19 +1,21 @@
-> *The following text is extracted and transformed from the nch.com.au privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418044043id_/http%3A//www.nch.com.au/general/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nch.com.au privacy policy that was archived on 2009-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091013042910id_/http%3A//www.nch.com.au/general/privacy.html) for the most accurate reproduction.*
 
 # NCH Software Privacy Statement
 
 ## NCH Software Privacy Policy
 
-  Introduction  
-  Cookies and Other Tracking Technologies  
-  Choice  
-  Security  
-  Access/Accuracy  
-  Third Party Services  
-  Children's Privacy  
-  Commitment  
-  Your Consent  
-  Changes to this Privacy Policy
+  * Introduction
+  * Cookies and Other Tracking Technologies
+  * Choice
+  * Security
+  * Access/Accuracy
+  * Third Party Services
+  * Children's Privacy
+  * Commitment
+  * Your Consent
+  * Changes to this Privacy Policy
+
+
 
 ##### Introduction
 
@@ -29,7 +31,7 @@ NCH Software strives to comply with all applicable laws around the globe that ar
 
 ##### Cookies and Other Tracking Technologies
 
-Some of our Web pages utilize "cookies" and other tracking technologies. A "cookie" is a small text file that may be used, for example, to collect information about Web site activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a Web user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our site is accessed. Our use of cookies and other tracking technologies allows us to improve our Web site and your Web experience. We may also analyze information that does not contain Personal Information for trends and statistics. 
+Some of our Web pages utilize "cookies" and other tracking technologies. A "cookie" is a small text file that may be used, for example, to collect information about Web site activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a Web user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our site is accessed. Our use of cookies and other tracking technologies allows us to improve our Web site and your Web experience. We may also analyse information that does not contain Personal Information for trends and statistics. 
 
 We use cookies so we can track users through our website so we can improve our website (for example to assist us to decide the ordering the placement of links). We also use cookies to track from where visitors to our site find us. We never store personal information in cookies. We will never provide cookie information to third parties. 
 
@@ -69,7 +71,7 @@ NCH Software's website is not structured to attract children. Accordingly, we do
 
 Protecting your privacy online is an evolving area, and NCH Software's Web site is constantly evolving to meet these demands. 
 
-If you have any comments or questions regarding our Online Privacy Policy, please [Contact Us](https://web.archive.org/web/20090418044043id_/http%3A//www.nch.com.au/general/contact.html). While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible. 
+If you have any comments or questions regarding our Online Privacy Policy, please [Contact Us](https://web.archive.org/web/20091013042910id_/http%3A//www.nch.com.au/general/contact.html). While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible. 
 
   Back to top
 
