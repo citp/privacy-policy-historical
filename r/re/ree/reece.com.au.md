@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reece.com.au privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618151046id_/http%3A//www.reece.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reece.com.au privacy policy that was archived on 2009-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091013151512id_/http%3A//www.reece.com.au/privacy) for the most accurate reproduction.*
 
 # Reece™ | Plumbing
 
