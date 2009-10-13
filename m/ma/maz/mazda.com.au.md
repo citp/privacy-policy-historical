@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mazda.com.au privacy policy that was archived on 2009-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090405133119id_/http%3A//www.mazda.com.au/Meta%2520Data/Footer/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mazda.com.au privacy policy that was archived on 2009-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091013100638id_/http%3A//mazda.com.au/Meta%2520Data/Footer/Privacy.aspx) for the most accurate reproduction.*
 
 # Mazda Australia Zoom Zoom
 
@@ -8,7 +8,7 @@ Mazda Australia Pty Ltd ( **Mazda** ) and its dealer network are committed to pr
 
 Mazda and its Dealer network will only collect, use or disclose personal information in accordance with the Act and this Privacy Policy. 
 
-Mazda may amend this Privacy Policy at any time and for any reason. The updated version will be available by following the “Privacy” link on Mazda’s website homepage, at [www.mazda.com.au](http://www.mazda.com.au/). Mazda may highlight changes to this Privacy Policy on its homepage, but you should check the Privacy Policy regularly for changes.
+Mazda may amend this Privacy Policy at any time and for any reason. The updated version will be available by following the “Privacy” link on Mazda’s website homepage, at [www.mazda.com.au](https://web.archive.org/). Mazda may highlight changes to this Privacy Policy on its homepage, but you should check the Privacy Policy regularly for changes.
 
 In this Privacy Policy, “personal information” means information or an opinion about a person whose identity is apparent, or can be reasonably ascertained, from the information or opinion.
 
@@ -27,7 +27,7 @@ Mazda and its dealer network collect personal information in a number of ways. T
 
 
 
-## 3 What personal information do we collect?
+## 3\. What personal information do we collect?
 
 The types of personal information we collect from you will depend on the circumstances in which that information is collected. 
 
