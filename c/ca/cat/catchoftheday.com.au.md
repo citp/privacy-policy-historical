@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the catchoftheday.com.au privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227181623id_/http%3A//www.catchoftheday.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catchoftheday.com.au privacy policy that was archived on 2009-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091013070143id_/http%3A//www.catchoftheday.com.au/privacy.php) for the most accurate reproduction.*
 
-# Catch Of The Day - More Than You Bargained For
+# Catch Of The Day - One Deal, Everyday, Midday
 
 ## Privacy Policy
 
