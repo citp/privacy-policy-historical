@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theathletesfoot.com.au privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608012722id_/http%3A//theathletesfoot.com.au/content.cfm%3Fpid%3D4825) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theathletesfoot.com.au privacy policy that was archived on 2009-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091013152033id_/http%3A//www.theathletesfoot.com.au/content.cfm%3Fpid%3D4825) for the most accurate reproduction.*
 
 # The Athletes Foot
 
