@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aussiehq.com.au privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501194618id_/http%3A//www.aussiehq.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aussiehq.com.au privacy policy that was archived on 2009-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091014110650id_/http%3A//www.aussiehq.com.au/privacy) for the most accurate reproduction.*
 
 # AussieHQ Privacy Policy
 
@@ -6,15 +6,15 @@
 
 ##  Contents 
 
-  * [Introduction](http://www.aussiehq.com.au/privacy#intro)
-  * [General Disclaimer](http://www.aussiehq.com.au/privacy#general)
-  * [The Personal Information we hold](http://www.aussiehq.com.au/privacy#storage)
-  * [Security of Personal Information](http://www.aussiehq.com.au/privacy#security)
-  * [Disclosure of Personal Information](http://www.aussiehq.com.au/privacy#disclosure)
-  * [Accessing and correcting your Personal Information](http://www.aussiehq.com.au/privacy#accessing)
-  * [ Personal Information on Children and Young People](http://www.aussiehq.com.au/privacy#youngpeople)
-  * [Complaints](http://www.aussiehq.com.au/privacy#compliants)
-  * [Other Links](http://www.aussiehq.com.au/privacy#otherlinks)
+  * [Introduction](https://www.aussiehq.com.au/privacy#intro)
+  * [General Disclaimer](https://www.aussiehq.com.au/privacy#general)
+  * [The Personal Information we hold](https://www.aussiehq.com.au/privacy#storage)
+  * [Security of Personal Information](https://www.aussiehq.com.au/privacy#security)
+  * [Disclosure of Personal Information](https://www.aussiehq.com.au/privacy#disclosure)
+  * [Accessing and correcting your Personal Information](https://www.aussiehq.com.au/privacy#accessing)
+  * [ Personal Information on Children and Young People](https://www.aussiehq.com.au/privacy#youngpeople)
+  * [Complaints](https://www.aussiehq.com.au/privacy#compliants)
+  * [Other Links](https://www.aussiehq.com.au/privacy#otherlinks)
 
 
 
