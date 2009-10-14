@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ashop.com.au privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413152038id_/http%3A//www.ashop.com.au/g/2615/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashop.com.au privacy policy that was archived on 2009-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091014154335id_/http%3A//www.ashop.com.au/g/2615/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Shopping Cart Software Solutions by Ashop
 
-| **Information Collection and Use**  
+**Information Collection and Use**  
 Ashop Commerce is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Ashop Commerce collects information from our users at several different points on our web site.
 
 **Registration **  
@@ -44,13 +44,11 @@ We send all new members a welcoming email to verify password and username. Estab
 **Site and Service Updates**  
 We also send the user site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about the service. We communicate with the user to provide requested services and in regards to issues relating to their account via email or phone. 
 
+**Notification of Changes**  
+If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+
 **Correction/Updating Personal Information**  
 If a user's personally identifiable information changes (such as your address), or if a user no longer desires our service, we will endeavour to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done at the member information page or by emailing our Customer Support. 
 
 **Choice/Opt-out**  
 Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an 'opt-out' mechanism so users who buy a product from us, but don't want any marketing material, can keep their email address off of our lists. Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at [info@ashop.com.au](mailto:info@ashop.com.au) Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not. 
-
-**Notification of Changes**  
-If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
-
-| 
