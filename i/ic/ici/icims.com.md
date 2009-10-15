@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icims.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602172230id_/http%3A//www.icims.com/content/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icims.com privacy policy that was archived on 2009-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091015111653id_/http%3A//www.icims.com/content/privacy.asp) for the most accurate reproduction.*
 
 # iCIMS Privacy Policy
 
