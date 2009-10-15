@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genieknows.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525161956id_/http%3A//www.genieknows.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genieknows.com privacy policy that was archived on 2009-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091015083337id_/http%3A//www.genieknows.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GenieKnows.com
 
