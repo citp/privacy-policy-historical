@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the sunlife.ca privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617033117id_/http%3A//www.sunlife.ca/canada/v/index.jsp%3Fvgnextoid%3De0555ee947cce010VgnVCM1000006c90d09fRCRD%26vgnextfmt%3Ddefault%26vgnLocale%3Den_CA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunlife.ca privacy policy that was archived on 2009-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091015044121id_/http%3A//www.sunlife.ca/slfglobal/v/index.jsp%3Fvgnextoid%3De0555ee947cce010VgnVCM1000006c90d09fRCRD%26vgnextfmt%3Ddefault%26vgnLocale%3Den_CA) for the most accurate reproduction.*
 
-# Privacy
+# Sun Life Financial - Privacy
 
 **Respecting your Privacy**
 
-In this document, **you** and **your** mean the individual who is a customer or potential customer of a member of the [Sun Life Financial group of companies in Canada](https://web.archive.org/canada/v/index.jsp?vgnextoid=6a37de324abd0110VgnVCM1000006c90d09fRCRD&vgnextfmt=default&vgnLocale=en_CA) and **we** , **us** and **our** mean Sun Life Financial Inc., Sun Life Assurance Company of Canada, and their affiliates in Canada. 
+In this document, **you** and **your** mean the individual who is a customer or potential customer of a member of the [Sun Life Financial group of companies](http://www.sunlife.com/global/v/index.jsp?vgnextoid=5e48d284bf80e110VgnVCM100000abd2d09fRCRD&vgnextfmt=default&vgnLocale=en_CA) in Canada and **we** , **us** and **our** mean Sun Life Financial Inc., Sun Life Assurance Company of Canada, and their affiliates in Canada. 
 
-**_Our commitment to protecting your privacy, our policy_**
+_**Our commitment to protecting your privacy, our policy**_
 
 Collecting personal information about you is essential to our ability to offer you high-quality investment, retirement and insurance products and to provide you with on-going service relating to your lifetime financial needs. We take great care to keep your personal information which we collect accurate, confidential and secure.
 
