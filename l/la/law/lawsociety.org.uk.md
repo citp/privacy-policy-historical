@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawsociety.org.uk privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619050054id_/http%3A//www.lawsociety.org.uk/privacystatement.law) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawsociety.org.uk privacy policy that was archived on 2009-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091015060022id_/http%3A//www.lawsociety.org.uk/privacystatement.law) for the most accurate reproduction.*
 
 # The Law Society
 
