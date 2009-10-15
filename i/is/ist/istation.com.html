@@ -1,0 +1,624 @@
+<!--The following is the downloaded HTML source of the istation.com privacy policy that was archived on 2009-10-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091015034108id_/http%3A//www1.istation.com/utils/privacy.asp) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/corp_page.dwt" codeOutsideHTMLIsLocked="false" --><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link href="../styles/print.css" rel="stylesheet" type="text/css" media="print">
+<link href="../styles/layout.css" rel="stylesheet" type="text/css" media="screen">
+<!-- InstanceBeginEditable name="doctitle" -->
+<link href="../styles/red.css" rel="stylesheet" type="text/css">
+<title>istation | Privacy</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="robots" content="noindex, nofollow">
+<script language="JavaScript">
+/*****************************************/
+/*Function: HideMenu()                   */
+/**Purpose: Hide the menu popup          */
+/*****************************************/
+function HideMenu()
+{
+  var div;
+  var divMain = document.getElementById('divMenus');
+		
+  div = document.getElementById('divOverview');
+  div.style.display = "none";
+  div = document.getElementById('divResults');
+  div.style.display = "none";
+  div = document.getElementById('divResearch');
+  div.style.display = "none";
+  div = document.getElementById('divAbout');
+  div.style.display = "none";
+		  
+  divMain.style.left = -200;
+  divMain.style.top = -1000; 
+}
+
+/*****************************************/
+/*Function: SetLinkStyle                 */
+/**Purpose: Visual Clue for user         */
+/*****************************************/
+function SetLinkStyle(pg)
+{ 
+	if( pg != '' ) {
+	  pg = pg.toLowerCase();
+	  lnk = document.getElementById(pg).className = "selectedNav";
+	 // lnk.style.color = "black";
+	}
+}
+
+/*****************************************/
+/*Function: SetMenu()                    */
+/**Purpose: Reveal the menu under its    */
+/*          button                        */
+/*****************************************/
+function SetMenu()
+{
+  var txt = document.getElementById('txtMenu');
+  
+  switch (txt.value)
+  {
+    case 'divOverview':
+	  div = document.getElementById('div1');
+      div.style.display = "block";
+	  break;
+    case 'divResults':
+	  div = document.getElementById('div2');
+      div.style.display = "block";
+	  break;
+	case 'divResearch':
+	  div = document.getElementById('div3');
+      div.style.display = "block";
+	  break;
+	case 'divAbout':
+	  div = document.getElementById('div4');
+      div.style.display = "block";
+	  break;
+  }
+}
+
+/*************************************/
+/*Function: ShowMenu(Menu)           */
+/**Purpose: Display the menu popup   */
+/*************************************/
+function ShowMenu(LinkObj, Menu)
+{ 
+  var divMain = document.getElementById('divMenus');
+  var txt = document.getElementById('txtMenu');
+
+  if (divMain.style.left != "-200px")
+    {HideMenu();}
+	
+  //Don't show this sidemenu
+  if(txt.value == Menu)
+    return;
+
+  var divMenu = document.getElementById(Menu);
+  
+  divMenu.style.display = "block";
+
+  for(var xpos = 0, ypos = 0; LinkObj.offsetParent; LinkObj = LinkObj.offsetParent) 
+  {
+    xpos += LinkObj.offsetLeft;
+    ypos += LinkObj.offsetTop;
+  }  
+  
+  xpos += 145;
+
+  	var isMozilla = (document.all) ? 0 : 1;
+	var version = "noIE";    
+	var ver = getInternetExplorerVersion();    
+	if (ver > -1) {        
+		if (ver >= 8.0)  {           
+			version = "ie8"     
+		} else  {
+			version = "ie7";    
+		}    
+	} 
+
+  if(isMozilla)
+  {
+    divMain.style.left = xpos + 'px';
+    divMain.style.top = (ypos - 10) + 'px';   
+  } else if( version == "ie8" ) {
+	 divMain.style.left = xpos + 'px';
+    divMain.style.top = (ypos + -25) + 'px';
+  } else if( version == "ie7" ) {
+	 divMain.style.left = xpos + 'px';
+    divMain.style.top = (ypos + 2) + 'px';
+  } else
+  {
+    divMain.style.left = xpos + 'px';
+    divMain.style.top = (ypos + 5) + 'px';  
+  }
+}
+
+
+/*****************************************/
+/*Function: MouseOver(TD)                */
+/**Purpose: Change TR properties         */
+/*****************************************/
+function MouseOver(TR)
+{
+  TR.bgColor = "#D5E2E8";
+}
+
+/*****************************************/
+/*Function: MouseOut(TD)                 */
+/**Purpose: Reset TR defaults            */
+/*****************************************/
+function MouseOut(TR)
+{ 
+  TR.bgColor = "#FFFFFF";
+}
+
+/*****************************************/
+/*Function: GoToPage(Page)                                     */
+/**Purpose: Navigate to Page                                    */
+/*****************************************/
+function GoToPage(Page)
+{ 
+  window.location.href = Page;
+}
+
+function getInternetExplorerVersion() {
+	var rv = -1; // Return value assumes failure.
+	if (navigator.appName == 'Microsoft Internet Explorer') {
+		var ua = navigator.userAgent;        
+		var re = new RegExp("MSIE ([0-9]{1,}[\.0-9]{0,})");
+		if (re.exec(ua) != null)            
+		rv = parseFloat(RegExp.$1);    
+	}
+	return rv;
+}
+
+
+
+	
+</script>
+
+<!-- InstanceEndEditable -->
+ 
+<!-- InstanceBeginEditable name="head" -->
+
+
+<!-- InstanceEndEditable -->
+</head>
+
+<body onload="SetMenu();SetLinkStyle('');">
+<div id="content">
+<div id="wrap">
+	<div id="topLC">
+<div id="Login"> 
+ 
+  	<ul>
+  		<li><a href="https://www1.istation.com/en/iadmin/chooseDomain.asp">Login here to view student reports!</a></li> 
+    </ul> 
+     
+</div> 
+</div>
+  <table width="775" border="0" cellpadding="0" cellspacing="0">
+    <!--DWLayoutTable-->
+    <tbody><tr> 
+      <td height="168" colspan="5" valign="top">
+      	<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+          <!--DWLayoutTable-->
+          <tbody><tr> 
+            <td id="topBanner">
+            <div><a href="http://www1.istation.com/default.asp" name="top" id="istationLogoLink">&nbsp;</a></div>
+<div id="UtilButtons">
+	<a href="../support/default.asp" accesskey="6"><img src="../images/button_support.png" alt="istation Support" title="istation Support"></a><br>
+    <a href="../training/default.asp"><img src="../images/button_training.png" alt="istation Training" title="istation Training"></a> 
+</div>
+            </td>
+          </tr>
+        </tbody></table>
+      </td>
+    </tr>
+    <tr> 
+      <td bgcolor="#ffffff" colspan="2" valign="top">
+      	<table width="100%" border="0" cellpadding="0" cellspacing="0">
+          <!--DWLayoutTable-->
+          <tbody><tr> 
+            <td id="leftNav" bgcolor="#ffffff">
+<!-- Nav Buttons:  This is the static left nav -->
+<table border="0" cellpadding="0" cellspacing="1">
+    <tbody><tr> 
+        <td rowspan="9" onmouseover="HideMenu()" width="2px"><img src="http://www1.istation.com/images/spacer.gif" alt=""></td>
+        <td>
+        <a href="http://www1.istation.com/products/default.asp" onmouseover="ShowMenu(this, 'divOverview');">
+        <img border="0" src="http://www1.istation.com/images/button_overview_red.png" class="navButtons" alt=""></a>
+        </td>
+    </tr>
+	<tr> 
+  		<td align="right"> 
+  			<div id="div1" class="hideNav"> 
+                <table class="tbMenuFlat">
+                    <tbody><tr> 
+                        <td><a class="PlainLink" id="isip" href="#" onclick="GoToPage('http://www1.istation.com/products/isip.asp')"> 
+                          ISIP: istation′s Indicators of Progress</a></td>
+                    </tr>
+                    <tr> 
+                        <td><a class="PlainLink" id="eng" href="#" onclick="GoToPage('http://www1.istation.com/products/eng.asp')">istation Reading</a></td>
+                    </tr>
+                    <tr> 
+                        <td><a class="PlainLink" id="spanish" href="#" onclick="GoToPage('http://www1.istation.com/products/spanish.asp')">istation Reading in Spanish—<em>Leo el Mundo</em></a></td>
+                    </tr>
+                </tbody></table> 
+    		</div>
+    	</td>
+	</tr>
+	<tr> 
+  		<td>
+        <a href="http://www1.istation.com/results/default.asp" onmouseover="ShowMenu(this, 'divResults');"> 
+		<img border="0" src="http://www1.istation.com/images/button_results_green.png" class="navButtons" alt=""></a>
+        </td>
+	</tr>
+	<tr> 
+  		<td align="right"> 
+            <div id="div2" class="hideNav"> 
+                	<table class="tbMenuFlat">
+             			<tbody><tr> 
+                			<td><a class="PlainLink" href="#" id="ddr" onclick="GoToPage('http://www1.istation.com/results/ddr.asp')">Data-Driven Results</a></td>
+              			</tr>
+              			<tr> 
+                			<td> <a class="PlainLink" href="#" id="individual" onclick="GoToPage('http://www1.istation.com/results/individual.asp')">Individualized Instruction</a></td>
+              			</tr>
+              			<tr> 
+                			<td> <a class="PlainLink" href="#" id="response" onclick="GoToPage('http://www1.istation.com/results/response.asp')">Response to Intervention</a></td>
+              			</tr>
+            		</tbody></table>
+    		</div>
+		</td>
+	</tr>
+	<tr> 
+  		<td>
+        <a href="http://www1.istation.com/research/default.asp" onmouseover="ShowMenu(this, 'divResearch');">
+        <img border="0" src="http://www1.istation.com/images/button_research_blue.png" class="navButtons" alt=""></a>
+        </td>
+	</tr>
+	<tr> 
+  		<td align="right"> 
+    		<div id="div3" class="hideNav"> 
+                <table class="tbMenuFlat">
+                    <tbody><tr> 
+                        <td> <a class="PlainLink" id="basis" href="#" onclick="GoToPage('http://www1.istation.com/research/basis.asp')">Research Basis</a></td>
+                    </tr>
+                    <tr> 
+                        <td> <a class="PlainLink" id="effective" href="#" onclick="GoToPage('http://www1.istation.com/research/effective.asp')">Validity &amp; Effectiveness Studies</a></td>
+                    </tr>
+                    <tr> 
+                        <td><a class="PlainLink" id="white_papers" href="#" onclick="GoToPage('http://www1.istation.com/research/white_papers.asp')"> 
+                          White Papers</a></td>
+                    </tr>
+                	<tr> 
+                        <td><a class="PlainLink" id="correlation" href="#" onclick="GoToPage('http://www1.istation.com/research/correlation.asp')"> 
+                          Correlations</a></td>
+                    </tr>
+                    <tr> 
+                        <td> <a class="PlainLink" id="researchers" href="#" onclick="GoToPage('http://www1.istation.com/research/researchers.asp')">Researchers &amp; Advisors</a></td>
+                    </tr>
+                </tbody></table>
+    		</div>
+		</td>
+    </tr>
+    <tr> 
+  		<td>
+        <a href="http://www1.istation.com/about/default.asp" onmouseover="ShowMenu(this, 'divAbout');">
+        <img border="0" src="http://www1.istation.com/images/button_contact_orange.png" class="navButtons" alt=""></a>
+        </td>
+	</tr>
+    <tr> 
+  		<td align="right"> 
+    		<div id="div4" class="hideNav"> 
+                <table class="tbMenuFlat">
+                    <tbody><tr> 
+                        <td><a class="PlainLink" id="company" href="#" onclick="GoToPage('http://www1.istation.com/about/company.asp')">Company Overview</a></td>
+                    </tr>
+                    <tr> 
+                        <td><a class="PlainLink" id="authors" href="#" onclick="GoToPage('http://www1.istation.com/about/assessment_authors.asp')">Assessment Authors</a></td>
+                    </tr>
+                    <tr> 
+                        <td> <a class="PlainLink" id="news" href="#" onclick="GoToPage('http://www1.istation.com/about/news.asp')">News</a></td>
+                    </tr>
+                    <tr> 
+                        <td> <a class="PlainLink" id="careers" href="#" onclick="GoToPage('http://www1.istation.com/about/careers.asp')">Careers</a></td>
+                    </tr>
+                    <tr> 
+                        <td> <a class="PlainLink" id="contact" href="#" onclick="GoToPage('http://www1.istation.com/contact/default.asp')">Contact Us</a></td>
+                    </tr>
+                </tbody></table>
+    		</div>
+		</td>
+    </tr>
+    <tr> 
+          <td onmouseover="HideMenu()" colspan="2"><input type="hidden" id="txtMenu" value=""><br></td>
+    </tr>
+</tbody></table> 
+      	<!-- InstanceBeginEditable name="LeftNav" -->&nbsp;<!-- InstanceEndEditable -->
+        	</td>
+          </tr>
+        </tbody></table>
+      </td>
+      <td colspan="3" valign="top" onmouseover="HideMenu()"><!-- InstanceBeginEditable name="Body_of_Page" -->
+      <table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+          <!--DWLayoutTable-->
+          <tbody><tr> 
+            <td height="15" colspan="5" valign="top" bgcolor="#ffffff"><img src="../images/red_landing_spacer.jpg" width="15" height="15" alt=""></td>
+          </tr>
+          <tr> 
+            <td width="15" rowspan="2" valign="top" bgcolor="#ffffff"><img src="../images/spacer_15x15.gif" width="15" height="15" alt=""></td>
+            <td width="590" height="255" valign="top"><h2 class="PgTitle">Privacy</h2>
+          
+<p>This privacy statement (this "Privacy Statement") is incorporated in, and subject to, the Terms of Use and Service (the "Terms") for Imagination Station, Inc. (“istation”). Please refer to the <a href="terms.asp">Terms</a> for definitions of words with initial capitals letters that are not otherwise defined in this Privacy Statement.</p>
+
+<p>istation is committed to protecting Your privacy and that of students while providing You with the most useful and enjoyable experience possible. We strongly believe in protecting the privacy of any personally identifiable information provided to us. We also believe it is important to inform You about how we will use personal data and to give You choices about how those data will be used. Therefore, we encourage You to read this Privacy Statement carefully.</p>
+
+<p>This Privacy Statement explains data collection and use practices relating to access and use of the Resources and the Resource Materials. By accessing and using any Resource, You consent to the information collection and use practices described in this Privacy Statement.</p>
+
+<p>If You have any questions about this Privacy Statement, You may contact istation using the information below (the "Contact Information"):<br>
+
+Write to us at:<br>
+</p><blockquote class="address"><a href="mailto:info@istation.com">info@istation.com</a><br>
+800 E. Campbell Road, Suite 224<br>
+Richardson, TX 75081<br>
+Phone: (972) 643-3440<br>
+Fax: (972) 643-3441
+</blockquote>
+<p></p>
+
+<p>istation will only collect, store, and use Your personal information for defined purposes, such as to provide access to, and use of, the Resources and to provide customer service and support. istation will not sell Your personal information to any unaffiliated third party, except pursuant to a sale of all or substantially all of istation’s assets or pursuant to any business combination (such as a merger) to which istation is a party.   At any time You may contact istation with any privacy questions or concerns that You may have using the Contact Information above.
+</p>
+<ol class="anchors">
+	<li><a href="#1">What Information is Collected and how is it used?</a></li>
+    <li><a href="#2">How are Student Results and Student Information Made Available?</a></li>
+    <li><a href="#3">Does istation share my information with third parties?</a></li>
+    <li><a href="#4">How do I access my information?  How do I change my information? </a></li>
+    <li><a href="#6">How does istation protect kids’ privacy? </a></li>
+    <li><a href="#7">Support Services </a></li>
+    <li><a href="#8">Website security </a></li>
+    <li><a href="#9">Resource Security</a></li>
+    <li><a href="#10">Use of “Cookies”</a></li>
+    <li><a href="#11">Third Party Sites </a></li>
+    <li><a href="#12">Other Information </a></li>
+    <li><a href="#13">Can istation change this Privacy Statement? </a></li>
+</ol>
+<a name="1"></a>
+
+<p><strong>What Information is Collected?</strong><br>We collect information voluntarily submitted to istation. Example of such information include: 
+</p><ul>
+	<li>identifying information, such as school names and districts, first and last names of students, student district/school issued identification numbers, teacher and administrator names, and teacher and administrator email addresses;</li>
+	<li>responses, such as responses to interactive activities and assessments;</li>
+	<li>security information, such as usernames, passwords, and password hints;</li>
+	<li>contact information, such as names, mailing addresses, and phone numbers;</li>
+	<li>Resource use behavior, such as pages visited, downloads, or searches requested;</li>
+	<li>browser information, such as browser version, IP address, and presence of various plug-ins and tools; and</li>
+	<li>"Demographic Data," such as gender, race, special-education status, socio-economic status, and English language learner status.</li>
+</ul>
+<p>At least some of the above information may be provided by the classroom teacher and/or other school administrators using the Resources.</p>
+
+<a name="2"></a>
+<p><strong>How is information used?</strong><br>The personal information provided to istation will be used in furtherance of the Resources, such as to provide access to, and use of, the Resources and to provide customer service and support. </p>
+
+<a name="3"></a>
+<p><strong>How are Student Results and Student Information Made Available?</strong><br>Student results from usage of the Resources are available for review to Authorized Users on the Website. Student results may only be viewed as authorized by the applicable school district. Generally, teachers may only see the results of students in his/her classroom, principals may only see the results of all students in his/her school, and district level administrators may see the results of all students in the district. Student results are shared within istation on a need to know basis only. istation employees are required to keep the information confidential, and it may not be used for any purpose other than to carry out the services they are performing for istation. </p>
+<p>Student user identification (first name and last initial) and user passwords assigned by istation are available to applicable Authorized Users on the Website.</p>
+    
+<a name="4"></a>
+<p><strong>Does istation share my information with third parties?</strong><br>istation may engage third party agents, contractors, vendors, and service providers  to perform various functions on istation’s behalf ("Service Providers"). For example, istation may share personal information with istation’s research partners; provided, however, that students' names will not be shared with such researchers without your permission. The purpose of such research is to prove the validity and efficacy of the Resources and to improve the Resources where appropriate. Additionally, results may be aggregated and reported on a de-identified basis: no personal information (including, but not limited to, information on specific districts, schools, or students) is revealed in such aggregated results without Your prior permission.</p>
+
+<p>Other services provided by Service Providers may include, but are not limited to, (i) managing customer information, (ii) analyzing data, (iii) developing, hosting, and maintaining the Resources and any related databases, or (iv) communicating about istation. istation does not authorize any of the Service Providers to make any other use of any personal information or to contact You outside the context of the services related to the Resources.</p>
+
+<p>istation reserves the right to disclose personal information as required by law, in response to legal process and law enforcement requests, and as necessary to protect the property, interests, and rights of the aFFILIATED Group and others.</p>
+
+<a name="5"></a>
+<p><strong>How do I access my information?  How do I change my information? </strong><br>Your personal information can be accessed and changed by contacting istation using the Contact Information provided above.  Please be sure to include Your full contact information, such as Your name, address, and email address, as applicable, when contacting istation to access or change Your personal information.  Also, please allow one week for email requests and three weeks for postal mail requests to be fulfilled.</p>
+
+<a name="6"></a>     
+<p><strong>How does istation protect kids’ privacy?</strong><br>If You are a parent or legal guardian of a child under the age of 18, and Your child’s personal information has been provided to istation using the Resources, You may contact istation using the Contact Information provided above.  You may request a copy of Your child’s personal information, or to change or delete any and all personal information about Your child.  Please be sure to include Your full contact information, such as Your name, address, and email address, as applicable, when contacting istation to access, change, or delete Your child’s personal information.  Also, please allow one week for email requests and three weeks for postal mail requests to be fulfilled.</p>
+     
+<a name="7"></a>     
+<p><strong>Support Services</strong><br>In addition to being able to call istation’s support services department, users of the Resources may also email istation their questions using the Contact Information above.  Other than an email address, istation does not request that users submit any personal information online for support services inquiries.  istation may, however, ask for additional non-personal information to better help istation respond to support service questions.  istation uses the email address to communicate directly with administrators, teachers, and parents.</p>
+
+<p>Administrators and teachers may create student accounts used for participation in the Resources.  Creation of student accounts may occasionally require email exchanges between school personnel and istation support services.  These communications may include first name and last name of the student, district/school issued student identification numbers, and istation user identification.  This information is transmitted over a secure Internet connection and is used by istation only for the purpose of establishing user access.</p>
+
+<p>Administrators and teachers may also make support service inquiries directly by email using the Contact Information above or otherwise.  Such inquiries may occasionally include the first and last name of students using the Resources in their requests.  This information is used only by istation to respond to user requests and for no other purpose. </p>
+
+<p>The Resources may generate a log when an unexpected error condition in running the program is encountered. These logs may be automatically transmitted to istation for internal debugging purposes.  Other than the user identification (first name and last initial), this log does not contain any personal information.</p>
+
+<a name="8"></a>     
+
+<p><strong>Website security </strong><br>We recognize our responsibility to protect the information You entrust to istation.  istation uses a variety of secure techniques to protect Your information, including secure servers, firewalls, and encryption technologies.  The Website is registered with a High Assurance SSL Certificate to enable Your browser to confirm the identity of the Website before any transmission is sent.  With this technology, the identity of our site is automatically confirmed behind the scenes prior to the transmission of any personal information requested.  The information You send us may be encrypted, a process used to scramble information making it extremely difficult to read if wrongly intercepted.  We utilize industry standard Secure Sockets Layer (SSL) technology to allow for the encryption of Your personal information, including, but not limited to, Your name and address.</p>
+
+<a name="9"></a>     
+<p><strong>Resource Security</strong><br>istation has taken steps to ensure that personally identifiable information collected and access to usage results are secure, including, but not limited to, limiting access to istation’s database servers as well as password protections that guard against unauthorized access.  Student usage information and passwords are encrypted and stored on each local computer.  All personal information sent to us is encrypted during transmission, such as during login. Once the data reaches our server, personal information and student usage results are stored on a secure database. Access to this information is password protected and provided only to authorized users.</p>
+
+<a name="10"></a>    
+
+<p><strong>Use of "Cookies"</strong><br>"Cookies" are small pieces of information that some websites store on Your computer’s hard drive when You visit them.  This element of data is a piece of text, not a program, that contains information identifying a user.  When a user revisits a Website, his or her computer automatically "serves up" the cookie eliminating the need for the customer to reenter the information.  Like many other websites, istation uses cookies for this purpose.  Your user "domain" is the only data stored on Your hard drive by istation.  Most web browsers automatically accept cookies but allow You to modify security settings so You can approve or reject cookies on a case-by-case basis.  At a minimum, Your web browser must allow temporary cookies which are not stored on Your hard disk to log into the Website.  Please refer to the "Help" file of Your Internet Browser either to learn how to receive a warning before a cookie is stored.  To learn more about cookies, we encourage You to visit <a href="http://www.cookiecentral.com">www.cookiecentral.com</a>.</p>
+
+<a name="11"></a>
+<p><strong>Third Party Sites </strong><br>The Website may contain links to or reference third party websites, resources, and advertisers (collectively "<strong>Third Party Sites</strong>").  These Third Party Sites are not controlled by istation and, therefore, are not subject to this Privacy Statement.  You should check the privacy policies of these individual Third Party Sites to see how Your personal information will be utilized by the operators of those Third Party Sites before providing any personal information.  Please be aware that these Third Party Sites may collect personally identifiable information about You that may also send "cookies."  istation is not responsible for the content or practices of any linked Third Party Sites, and we provide these links solely for the convenience and information of our visitors.</p>
+
+<a name="12"></a>     
+
+<p><strong>Other Information </strong><br>istation may offer managers of accounts (school administrators and teachers) the opportunity to receive newsletters or other information about our products or services that we feel may be of interest.  Only istation or agents working on behalf of istation will send You these direct mailings.  If at any time You want to discontinue receiving this information, You can "unsubscribe" by following the instructions found at the end of istation email messages or by using the Contact information above.</p>
+
+<a name="13"></a>
+
+<p><strong>Can istation change this Privacy Statement? </strong><br>istation may change this Privacy Statement at any time without notice.  However, if the Privacy Statement changes, we will post an updated version on the Website.  The policy revision date will be posted at the bottom of the page.</p>
+
+<p>istation welcomes Your questions and comments about our Privacy Statement. You may contact us using the Contact Information above.</p>
+    
+<p><strong>Effective Date: September 24, 2009</strong></p>
+     
+      
+      		</td>
+            <td width="15" rowspan="2" valign="top"><img src="../images/spacer_15x15.gif" width="15" height="15" alt=""></td>
+          </tr>
+          <tr> 
+            <td height="30" colspan="1" valign="top"><div align="right"><img src="../images/logo_end_col.jpg" width="30" height="30" alt="istation Logo" title="Logo"></div></td>
+          </tr>
+        </tbody></table>
+	  
+	  
+	  
+	  <!-- InstanceEndEditable -->
+      </td>
+    </tr>
+    <tr bgcolor="#ffffff"> 
+      <td height="15" colspan="5" valign="top"><img src="../images/spacer_15x15.gif" width="15" height="15" alt=""></td>
+    </tr>
+    <tr> 
+      <td id="footerLt">&nbsp;</td>
+      <td id="footerInfo" colspan="2"><a href="../contact/default.asp" title="istation: Contact Us">Contact Us</a>&nbsp;|&nbsp;<a href="../cust/testimonials.asp" title="istation: Testimonials">Testimonials</a> 
+       &nbsp;|&nbsp;<a href="site_map.asp" accesskey="3" title="istation: Site Map">Site Map</a>&nbsp;|&nbsp;<a href="../default.asp" accesskey="1" title="istation: Home">Home</a></td>
+      <td id="footerLogo">
+
+<img src="../images/logo_text_red_footer.jpg" width="80" height="16" alt="istation">
+	
+      </td>
+      <td id="footerRt">&nbsp;</td>
+    </tr>
+    <tr> 
+      <td height="0"></td>
+      <td width="140"></td>
+      <td width="526"></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody></table>
+  <div id="copyright"><a href="http://www1.istation.com/utils/legal.asp" title="istation: Legal">Legal</a>&nbsp;|&nbsp;<a href="http://www1.istation.com/utils/privacy.asp" title="istation: Privacy">Privacy</a>&nbsp;|&nbsp;<a href="http://www1.istation.com/utils/terms.asp" accesskey="8" title="istation: Terms of Use">Terms of Use</a><br>
+Copyright © 1998-2009 istation.com  
+</div>
+  </div>
+</div>
+<!-- these are the flyout menus  -->
+<div id="divMenus">
+    <!-- Overview Menu -->
+      <div id="divOverview" class="hideNav">
+        <table class="tbMenu" cellspacing="0" cellpadding="0">
+	      <tbody><tr>
+	        <td>
+	          <table width="210" cellspacing="1" cellpadding="2">
+		        <tbody><tr onmouseover="MouseOver(this)" onmouseout="MouseOut(this)">
+                  <td onclick="GoToPage('http://www1.istation.com/products/isip.asp')" class="flyOut">
+                    <a class="FlatLink" href="#" onclick="GoToPage('http://www1.istation.com/products/isip.asp')">ISIP: istation′s Indicators of Progress</a>
+                  </td>
+                </tr>
+				<tr onmouseover="MouseOver(this)" onmouseout="MouseOut(this)">
+                  <td onclick="GoToPage('http://www1.istation.com/products/eng.asp')" class="flyOut">
+                    <a class="FlatLink" href="#" onclick="GoToPage('http://www1.istation.com/products/eng.asp')">istation Reading</a>
+                  </td>
+                </tr>
+				<tr onmouseover="MouseOver(this)" onmouseout="MouseOut(this)">
+                  <td onclick="GoToPage('http://www1.istation.com/products/spanish.asp')" class="flyOut">
+                    <a class="FlatLink" href="#" onclick="GoToPage('http://www1.istation.com/products/spanish.asp')">istation Reading in Spanish—<em>Leo el Mundo</em></a>
+                  </td>
+                </tr>
+	          </tbody></table>
+	        </td>
+	      </tr>
+	    </tbody></table>
+      </div>
+	   <!-- Results Menu -->
+      <div id="divResults" class="hideNav">
+        <table class="tbMenu" cellspacing="0" cellpadding="0">
+	      <tbody><tr>
+	        <td>
+	          <table width="170" cellspacing="1" cellpadding="2">
+		        <tbody><tr onmouseover="MouseOver(this)" onmouseout="MouseOut(this)">
+                  <td onclick="GoToPage('http://www1.istation.com/results/ddr.asp')" class="flyOut">
+                    <a class="FlatLink" href="#" onclick="GoToPage('http://www1.istation.com/results/ddr.asp')">Data-Driven Results</a>
+                  </td>
+                </tr>
+				<tr onmouseover="MouseOver(this)" onmouseout="MouseOut(this)">
+                  <td onclick="GoToPage('http://www1.istation.com/results/individual.asp')" class="flyOut">
+                    <a class="FlatLink" href="#" onclick="GoToPage('http://www1.istation.com/results/individual.asp')">Individualized Instruction</a>
+                  </td>
+                </tr>
+				<tr onmouseover="MouseOver(this)" onmouseout="MouseOut(this)">
+                  <td onclick="GoToPage('http://www1.istation.com/results/response.asp')" class="flyOut">
+                    <a class="FlatLink" href="#" onclick="GoToPage('http://www1.istation.com/results/response.asp')">Response to Intervention</a>
+                  </td>
+                </tr>
+	          </tbody></table>
+	        </td>
+	      </tr>
+	    </tbody></table>
+      </div>
+	   <!-- Research Menu -->
+      <div id="divResearch" class="hideNav">
+        <table class="tbMenu" cellspacing="0" cellpadding="0">
+	      <tbody><tr>
+	        <td>
+	          <table width="190" cellspacing="1" cellpadding="2">
+				<tbody><tr onmouseover="MouseOver(this)" onmouseout="MouseOut(this)">
+                  <td onclick="GoToPage('http://www1.istation.com/research/basis.asp')" class="flyOut">
+                    <a class="FlatLink" href="#" onclick="GoToPage('http://www1.istation.com/research/basis.asp')">Research Basis</a>
+                  </td>
+				</tr><tr onmouseover="MouseOver(this)" onmouseout="MouseOut(this)">
+                  <td onclick="GoToPage('http://www1.istation.com/research/effective.asp')" class="flyOut">
+                    <a class="FlatLink" href="#" onclick="GoToPage('http://www1.istation.com/research/effective.asp')">Validity &amp; Effectiveness Studies </a>
+                  </td>
+                </tr>
+
+		        <tr onmouseover="MouseOver(this)" onmouseout="MouseOut(this)">
+                  <td onclick="GoToPage('http://www1.istation.com/research/white_papers.asp')" class="flyOut">
+                    <a class="FlatLink" href="#" onclick="GoToPage('http://www1.istation.com/research/white_papers.asp')">White Papers</a>
+                  </td>
+                </tr>
+              	<tr onmouseover="MouseOver(this)" onmouseout="MouseOut(this)">
+                  <td onclick="GoToPage('http://www1.istation.com/research/correlation.asp')" class="flyOut">
+                    <a class="FlatLink" href="#" onclick="GoToPage('http://www1.istation.com/research/correlation.asp')">Correlations</a>
+                  </td>
+                </tr>
+                <tr onmouseover="MouseOver(this)" onmouseout="MouseOut(this)">
+                  <td onclick="GoToPage('http://www1.istation.com/research/researchers.asp')" class="flyOut">
+                    <a class="FlatLink" href="#" onclick="GoToPage('http://www1.istation.com/research/researchers.asp')">Researchers &amp; Advisors</a>
+                  </td>
+                </tr>
+	          </tbody></table>
+	        </td>
+	      </tr>
+	    </tbody></table>
+      </div>
+	   <!-- About Menu -->
+      <div id="divAbout" class="hideNav">
+      <table class="tbMenu" cellspacing="0" cellpadding="0">
+	      <tbody><tr>
+	        <td>
+	          <table width="140" cellspacing="1" cellpadding="2">
+				<tbody><tr onmouseover="MouseOver(this)" onmouseout="MouseOut(this)">
+                  <td onclick="GoToPage('http://www1.istation.com/about/company.asp')" class="flyOut">
+                    <a class="FlatLink" href="#" onclick="GoToPage('http://www1.istation.com/about/company.asp')">Company Overview</a>
+                  </td>
+                </tr>
+                <tr onmouseover="MouseOver(this)" onmouseout="MouseOut(this)">
+                  <td onclick="GoToPage('http://www1.istation.com/about/assessment_authors.asp')" class="flyOut">
+                    <a class="FlatLink" href="#" onclick="GoToPage('http://www1.istation.com/about/assessment_authors.asp')">Assessment Authors</a>
+                  </td>
+                </tr>
+		        <tr onmouseover="MouseOver(this)" onmouseout="MouseOut(this)">
+                  <td onclick="GoToPage('http://www1.istation.com/about/news.asp')" class="flyOut">
+                    <a class="FlatLink" href="#" onclick="GoToPage('http://www1.istation.com/about/news.asp')">News</a>
+                  </td>
+                </tr>
+                <tr onmouseover="MouseOver(this)" onmouseout="MouseOut(this)">
+                  <td onclick="GoToPage('http://www1.istation.com/about/careers.asp')" class="flyOut">
+                    <a class="FlatLink" href="#" onclick="GoToPage('http://www1.istation.com/about/careers.asp')">Careers</a>
+                  </td>
+                </tr>
+                <tr onmouseover="MouseOver(this)" onmouseout="MouseOut(this)">
+                  <td onclick="GoToPage('http://www1.istation.com/contact/default.asp')" class="flyOut">
+                    <a class="FlatLink" href="#" onclick="GoToPage('http://www1.istation.com/contact/default.asp')">Contact Us</a>
+                  </td>
+                </tr>
+	          </tbody></table>
+	        </td>
+	      </tr>
+	    </tbody></table>      
+      </div>
+</div> 
+
+<!-- InstanceEnd -->
+</body></html>
