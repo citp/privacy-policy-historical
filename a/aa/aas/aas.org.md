@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aas.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218012958id_/http%3A//aas.org/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aas.org privacy policy that was archived on 2009-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091015045846id_/http%3A//aas.org/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | American Astronomical Society
 
