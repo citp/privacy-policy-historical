@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highreplica.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616073122id_/http%3A//www.highreplica.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highreplica.com privacy policy that was archived on 2009-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091016012655id_/http%3A//www.highreplica.com/privacy.html) for the most accurate reproduction.*
 
 # LV Louis Vuitton Replica Handbag, Designer Chanel & Chloe Replica Handbags, Fendi & Gucci Fake Replicas, Dior Replica Shoulder Purse & Wallet, Vuitton Hand Bags - High Replica
 
