@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shaadi.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501004940id_/http%3A//www.shaadi.com/shaadi_info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shaadi.com privacy policy that was archived on 2009-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091015123939id_/http%3A//www.shaadi.com/shaadi_info/privacy.php) for the most accurate reproduction.*
 
 # Shaadi.com Matrimonials - The No.1 Matrimonial Services Provider - Privacy Policy
 
@@ -220,7 +220,7 @@ People Interactive (I) Pvt. Ltd.
 83/C , Hansraj Pragji Building,  
 Next to TATA Motors,  
 Off Dr. E. Moses Road,  
-Worli, Mumbai - 400018.  
+Worli, Mumbai - 400018  
 Phone: +91-22-44883456 |   
   
   
