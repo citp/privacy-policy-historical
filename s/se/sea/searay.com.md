@@ -1,56 +1,123 @@
-> *The following text is extracted and transformed from the searay.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606155447id_/http%3A//www.searay.com/index.asp%3Fdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searay.com privacy policy that was archived on 2009-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091015104347id_/http%3A//www.searay.com/Page.aspx/pageId/10837/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# Sea Ray Privacy Statement
+# Privacy Policy : Sea Ray Boats
 
-**PRIVACY POLICY**
+**EFFECTIVE DATE: AUGUST 20, 2008  
+**  
+The Sea Ray Division of Brunswick Corporation respects your concerns about privacy and values its relationship with you. This Privacy Notice applies to the online practices of [http://www.searay.com](http://www.searay.com/) website. The Notice describes the types of information we collect, how we may use that information and with whom we may share it. Our Privacy Notice also describes the measures we take to protect the security of the information. We also tell you how you can reach us to update your contact information, remove your name from our mailing lists or get answers to questions you may have about our privacy practices at these sites.
 
-**Our Commitment to Privacy**  
-Sea Ray Division of Brunswick Corporation, Sea Ray Boats, Inc., and its affiliates collectively "Sea Ray") are sensitive to privacy issues on the Internet. We believe that it is important you know how we treat the information about you that we receive during your visits to our Web site (the “Site”). This policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us so that you may make informed decisions when using our Site. This policy covers this Site only. Our parent company, Brunswick Corporation, and some of our affiliates have their own, possibly different, policies. We encourage you to take the time to read this policy and those of our parent company and any affiliate or third-party website you visit. This privacy policy applies only to online practices and data acquired online. For more information on offline data policies applicable to this Site, please contact Terry Domian, AVALA Marketing Group, 1078 Headquarters Park Drive, Fenton, MO 63026, Phone: 636-343-9988, Fax: 636-326-3282, E-mail: [terryd@avalamarketing.com](mailto:terryd@avalamarketing.com) or Suzi Rice, AVALA Marketing Group, 1078 Headquarters Park Drive, Fenton, MO 63026, Phone: 636-343-9988, Fax: 636-326-3282, E-mail: [suzir@avalamarketing.com](mailto:suzir@avalamarketing.com). You take online privacy seriously, and so does Sea Ray. It is our way of sustaining your trust in Sea Ray and our products and services. 
+**INFORMATION WE COLLECT AND HOW WE USE IT**
 
-**Your Consent**  
-We may revise this Privacy Policy from time to time. You are responsible for checking this policy when you visit our Site to review the current policy. By using this Site, you agree to our use of the information we collect about you as set forth in this Privacy Policy. If you do not agree with this policy, you should cease use of this Site immediately. Last update: 6/6/2004. 
+Personal Information We Collect About You
 
-**In General**  
-You may visit this Site without telling us who you are or revealing any personally identifiable information about you. Unless otherwise disclosed during the collection, personally identifiable information that may be collected in connection with visitors to this Site is retained by Sea Ray. We may process or store this personally identifiable information in our U.S. database. 
+You may choose to provide personal information (such as your name, address, telephone number and email address) online via our websites. Here are the ways in which you may provide the information and the types of information you may submit. We also tell you how we may use the information.
 
-**What Information We Collect and Why**   
-When you visit our Site you may provide us with two types of information: (1) personal information you knowingly choose to disclose that is collected on an individual basis, and (2) Site use information collected on an aggregate basis as you and others browse our Site. 
+**Information Request**
 
-Personally identifiable information, such as email and email address, first and last name, home or other physical address, telephone numbers, credit and/or debit card information and other similar information are collected only when voluntarily provided. For example, when a user orders a brochure online, the user voluntarily provides information about his current boat ownership, purchase plans and cruising or sportfishing preference. This information is used for targeted direct mail campaigns and follow up mailings. Both Sea Ray and a third party responsible for the mailings get this user information. 
+If you request information about our products (e.g., ordering a brochure, a catalogue or a magazine), we may ask you to provide details such as your name, email address, telephone number, intended use of the relevant product, center of interests, etc. You also may choose to provide additional comments and requests. We, or the authorized dealer in your area, will use your details to send you the information you request and to communicate with you in the future about our products and services.
 
-Our servers collect the following Web site use information: the domain names, operating system in use (e.g., Macintosh, Windows), browser (e.g., Netscape, Internet Explorer), and the web site that referred you to us. This information is aggregated to measure the number of visits, average time spent on the Site, pages viewed, time and date of visits, and other similar information. Sea Ray uses this information to measure the use of our Site and to improve the content of our Site. 
+**Newsletters and Other Communications**
 
-Sea Ray does not sell, share, transfer or otherwise disclose personally identifiable information to third parties, except to our affiliates, business partners, contractors, and marketing consultants or where disclosure is required by law. Consequently, we may transfer your information to countries throughout the world wherever we or such third parties conduct business. We may additionally use, store, disclose or otherwise process the personal information you provide for any of the following purposes: 
+From time to time, our site may offer online or offline newsletters and other communications about our products, services and promotions. To sign up, we will ask you for information such as your name, postal address and email address. We, or the authorized dealer in your area, use the information to send you the communications you request and to communicate with you about our products and services.
 
-  * to understand the use of our Site and make improvements;
-  * to respond to specific requests or inquiries from visitors;
-  * to obtain parental consent from visitors under 18 years of age, where necessary;
-  * to provide any necessary notices to our visitors or their parent or guardian;
-  * to protect the security or integrity of our Site when necessary;
-  * to send you notices and solicitations regarding the Site and the products and services of our businesses and those of our affiliates and business partners;
-  * to send brochures and other marketing materials, if requested; and
-  * in general, to promote, market, and distribute our various businesses and products, and those of our affiliates and business partners to you. 
+**Contact Us**  
+  
+If you e-mail the companies provided in the Contact Us page which are affiliated with Sea Ray, we will receive your e-mail address and any other information you choose to include in your e-mail to respond to your inquiry. If you choose to communicate with us through the "Contact Us Here" link on our websites, we may ask you for information such as your name, email address and telephone number so we can respond to your questions and comments. We, or the authorized dealer in your area, also may use the information you provide to evaluate the quality of our products and to communicate with you about our products and services.
 
+**Call Centers**
 
+You may choose to contact our call centers, to order parts, contact customer service, or contact us with questions on our boats. Depending on your request, we may ask for information such as your name, postal address, email address, telephone number, product serial number and customer number. We use this information to provide you with the service and assistance you requested. We also may use the information to communicate with you about our products and services.
 
-These solicitations may take the form of mailings via U.S. mail or other couriers, telephone calls, e-mail solicitations and other methods of contact. If you do not want to receive these solicitations from us using the personally identifiable information provided by you on this Site, you may specify this during registration where and if indicated, or you may notify Terry Domian, AVALA Marketing Group, 1078 Headquarters Park Drive, Fenton, MO 63026, Phone: 636-343-9988, Fax: 636-326-3282, E-mail: [terryd@avalamarketing.com](mailto:terryd@avalamarketing.com) or Suzi Rice, AVALA Marketing Group, 1078 Headquarters Park Drive, Fenton, MO 63026, Phone: 636-343-9988, Fax: 636-326-3282, E-mail: [suzir@avalamarketing.com](mailto:suzir@avalamarketing.com). 
+**Feedback, Surveys, or Contests**  
+  
+From time to time, we may ask you to participate in online surveys, solicitations, or contests. Additional information requested may include contact information (such as e-mail address) and demographic information (such as number of family members and income ranges). Participation in surveys, solicitations, or contests is completely voluntary. Therefore, you have a choice as to whether to disclose any information. We, or the authorized dealer in your area, will use the information provided to notify contest winners and award prizes, to monitor or improve the use of one or more sites or advertising, and to provide aggregated information for marketing analyses. This information will be used to analyze your present and future needs related to our products, to communicate with you about our products and services, and to send you further notices, promotions, solicitations, or brochures, and other marketing materials regarding our Site, our products, and the services of our businesses and the businesses of our affiliates, business partners, or authorized dealers, unless we have been notified that you do not wish to be contacted for marketing concerns. Solicitations may take the form of mailings via U.S. mail or other couriers, or e-mail (if provided).
 
-In some instances, we will make available through the Site the products and services of third parties. Such products and services include the Sea Ray-branded merchandise sold through this Site. When you request such products and services, we will disclose your information to those parties for the purpose of fulfilling your order or request. 
+**Locate A Dealer**
 
-**Email Information**  
-If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. 
+You may want to locate a dealer near you by completing a "find a dealer" request form. We ask you for information such as your first and last name, full postal address and telephone number. We use this information to locate a dealer near you, to evaluate your need and to give you the best and most relevant service. We, or the authorized dealer in your area, also may use the information to communicate with you about our products and services.
+
+**Ask for a Quote**
+
+Before purchasing one of our products, you may want to ask for a quote. We ask for certain information such as name, e-mail address, full postal address, telephone number, etc. We will use this information to create the quote and to send it to you. We, or the authorized dealer in your area, may also use this information to communicate with you in the future about our products and services.
+
+**Owner's Programs or Rewards Programs  
+**  
+If you would like to participate in our owners programs or reward programs and collect points under our reward process, we may ask for information such as name and email address so that we can enroll you in these programs and communicate with you.
+
+**Online Sales  
+**  
+Our branded merchandise is offered for sale by an authorized merchandise partner through a website they own and control, which is linked to our site. Your purchase will be conducted on our authorized merchandise partner's website and you should review the privacy notice and terms of use that apply to that website.
+
+**Credit Card Applications**
+
+If you choose to apply for a Sea Ray branded credit card, that application will be made on our finance partner's website and you should review the privacy notice and terms of use that apply to that website.
+
+**Careers**  
+  
+We may include a link to Brunswick Careers at Brunswick.com on our site for you to apply for a job with Brunswick and submit your resume and other information, such as your name, contact information, and job history. We use the information you submit to evaluate your interest in employment and to contact you regarding possible employment. See the Brunswick.com privacy statement for further information.
+
+**Other Features  
+**  
+We offer consumers and customers various features on our websites for their information and enjoyment, which we may change from time to time. We may ask you to submit certain personal information so we, or the authorized dealer in your area, may use this information to provide you with these features or to communicate with you in the future about our products and services.
+
+**Other Uses of Information**
+
+We may use the personal information you provide for internal purposes. These purposes include administration, data analytics and compliance with our legal obligations, policies and procedures.
+
+**INFORMATION WE COLLECT BY AUTOMATTED MEANS  
+**  
+We collect certain information by automated means when you visit our websites, such as how many users visited our sites and the pages accessed. By collecting this information, we learn how to best tailor our websites to our visitors. We collect this information through various means such as "cookies" and "web beacons." We may collect IP addresses, as explained below.
 
 **Cookies**  
-Similar to other commercial Web sites, a technology called “cookies” may be used to provide you with tailored information. A cookie is a small piece of data that a Web site can send to your browser, which may then be stored on your hard drive so we can recognize you when you return. You may be able to set your browser to notify you when you receive a cookie. Our cookies collect the operating system and browser that a visitor is using. The goal is to save you time and provide a more meaningful visit. 
+  
+Like many companies, we use "cookies" on our websites. Cookies are bits of text that are placed on your computer's hard drive when you visit certain websites. We use cookies to tell us, for example, whether you have visited us before or if you are a new visitor and to help us identify site features in which you may have the greatest interest. Cookies may enhance your online experience by saving your preferences while you are visiting a particular site.
 
-**Users Under Age 13**  
-It is our policy that visitors to our Site who are under the age of 13 should not post or provide information on our Site without the consent of their parents. For that reason, we never collect or maintain information at our Site from those we actually know are under 13, and no part of our Web Site is structured to attract anyone under 13. 
+Most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. Please note, however, that without cookies you may not be able to take full advantage of all our website features.
 
-**Links to Other Web Sites**  
-When you use a link to go from our Site to another Web site, our Privacy Policy is no longer in effect. We are not responsible for the privacy practices employed by Web sites linked to or from our Site nor for the information or content contained therein.
+**Web Beacons**  
+  
+Certain pages on our websites contain "web beacons" (also know as Internet tags, pixel tags and clear GIFs). These web beacons allow third parties to obtain information such as the IP address of the computer that downloaded the page on which the beacon appears, the URL of the page on which the beacon appears, the time the page containing the beacon was viewed, the type of browser used to view the page, and the information in cookies set by the third party.
 
-**How We Secure Information**  
-When you send confidential personal credit card information to us on our Site, it is encrypted and securely relayed to a third party credit card processor, who subsequently sends an authorization code back to the Site. Your confidential personal credit card information is not stored or otherwise retained by Sea Ray in any way. 
+**IP Addresses  
+**  
+An IP address is a unique identifier that certain electronic devices use to identify and communicate with each other on the Internet. When you visit our websites, we may view the IP address of the device you use to connect to the Internet. We use this information to determine the general physical location of the device and understand from what regions of the world our website visitors come. We also may use this information to enhance our websites.
 
-**Access Your Information and Ask Questions**  
-You may request access to or changes in all your personally identifiable information that we collect online and maintain in our database by contacting Terry Domian, AVALA Marketing Group, 1078 Headquarters Park Drive, Fenton, MO 63026, Phone: 636-343-9988, Fax: 636-326-3282, E-mail: [terryd@avalamarketing.com](mailto:terryd@avalamarketing.com) or Suzi Rice, AVALA Marketing Group, 1078 Headquarters Park Drive, Fenton, MO 63026, Phone: 636-343-9988, Fax: 636-326-3282, E-mail: [suzir@avalamarketing.com](mailto:suzir@avalamarketing.com). Questions regarding this Privacy Policy, our practices or your dealings with this Site should also be directed to Terry Domian or Suzi Rice. 
+**INFORMATION WE SHARE**
+
+We do not sell or otherwise disclose information about our website visitors, except as described here. We may share the information you provide among our subsidiaries and affiliates, and with Brunswick business partners, such as our joint marketing partners and dealers and distributors of our products. These service providers are not authorized by us to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements. In addition, we may disclose information about you (i) if we are required to do so by law or legal process, (ii) to law enforcement authorities or other government officials, (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity or (iv) if this is necessary to protect the vital interests of the a person.
+
+If you are a California resident, you may ask us to refrain from sharing your information with third parties and among our affiliates for their marketing purposes, if the affiliates are separate legal entities. Please tell us your preference by contacting us as indicated in the "How to Contact Us" section of this Notice.
+
+We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use information you have provided through our websites in a manner that is consistent with this Privacy Notice.
+
+**LINKS TO OTHER SITES**  
+  
+Our websites may provide links to other websites for your convenience and information. These websites may operate independently from this site. Linked sites may have their own privacy notices or policies, which we strongly suggest you review if you visit any linked websites. To the extent any linked websites you visit are not part of this site, we are not responsible for their content, any use of the sites, or the privacy practices of the sites.
+
+**HOW WE PROTECT PERSONAL INFORMATION**
+
+We maintain administrative, technical and physical safeguards to protect against loss, misuse or unauthorized access, disclosure, alteration or destruction of the information you provide on our websites.
+
+**INFORMATION WE TRANSFER**
+
+Websites to which this Privacy Notice applies are United States-based websites and are subject to United States law. We may transfer the personal information we collect on this site to other countries where we do business, which may not have the same data protection laws as the country in which you reside. When we transfer your information to other countries, we will protect that information as described here, even though a given country may not have the same privacy and data protection laws as the country in which you reside.
+
+**CANADA AND OTHER INTERNATIONAL JURISDICTIONS  
+**  
+This Privacy Policy also applies to citizens of Canada and other international jurisdictions not otherwise specifically covered by the jurisdiction-specific policies, except where the provisions of this Privacy Policy and the Canadian Policy cannot be construed consistently, then the provisions of the Canadian Policy will govern. [Click here](https://web.archive.org/page.aspx/pageid/12632/page.aspx) to view our Canadian Privacy Policy in English and French.
+
+**ACCESS AND CORRECTION**
+
+We provide website visitors with reasonable access to personal information they provide through our sites and the ability to review and correct it, as applicable. To help protect your privacy and security, we will take reasonable steps to verify your identity, such as requiring a password and user ID, before granting access to your information.
+
+**UPDATES TO OUR PRIVACY NOTICE  
+**  
+This Privacy Notice may be updated periodically and without prior notice to you to reflect changes in our online information practices. We will post a prominent notice on this site to notify you of any significant changes to our Privacy Notice and indicate at the top of the notice when it was most recently updated.
+
+**YOUR CHOICES - HOW TO CONTACT US**
+
+If you would like to update your contact information or preferences, have your information removed from our mailing lists, or no longer receive marketing e-mails resulting from information collected via product registration cards or other sources, please contact:
+
+Terry Domian, Vice President Client Services, AVALA Marketing Group,  
+1078 Headquarters Park Drive, Fenton, MO 63026,  
+Phone: 636-343-9988, Fax: 636-326-3282, E-mail: [terryd@avalamarketing.com](mailto:terryd@avalamarketing.com)
