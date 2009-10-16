@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greensboro-nc.gov privacy policy that was archived on 2009-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090507094335id_/http%3A//www.greensboro-nc.gov/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greensboro-nc.gov privacy policy that was archived on 2009-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091016054906id_/http%3A//www.greensboro-nc.gov/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
