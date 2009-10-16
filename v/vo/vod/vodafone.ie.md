@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vodafone.ie privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616183935id_/http%3A//www.vodafone.ie/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodafone.ie privacy policy that was archived on 2009-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091016060348id_/http%3A//www.vodafone.ie/terms/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Vodafone Ireland
 
@@ -95,7 +95,7 @@ The call detail element of your standard bill will be severed and deleted after 
 
 ## General
 
- **22.** If you have any query about Vodafone.s data protection policy or practices, please write to: Data Protection Officer, Vodafone Ireland Limited, MountainView, Leopardstown, Dublin 18 or send an email to dataprotection@vodafone.ie
+ **22.** If you have any query about Vodafone's data protection policy or practices, please write to: Data Protection Officer, Vodafone Ireland Limited, MountainView, Leopardstown, Dublin 18 or send an email to dataprotection@vodafone.ie
 
  **23.** This policy should be read in conjunction with the general terms and conditions of this website and the general terms and conditions that apply to your use of Vodafone’s mobile telephony services where more details of the use we make of your data is outlined.
 
