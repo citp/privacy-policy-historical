@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anypdftools.com privacy policy that was archived on 2009-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090414020343id_/http%3A//www.anypdftools.com/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anypdftools.com privacy policy that was archived on 2009-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091016065300id_/http%3A//www.anypdftools.com/about/privacy-policy.html) for the most accurate reproduction.*
 
 # AnyBizSoft PDF Software Privacy Policy
 
