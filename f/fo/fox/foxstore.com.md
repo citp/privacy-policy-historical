@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxstore.com privacy policy that was archived on 2009-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090521092155id_/http%3A//www.foxstore.com/privacy_storepolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxstore.com privacy policy that was archived on 2009-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091017001052id_/http%3A//www.foxstore.com/privacy_storepolicy.html) for the most accurate reproduction.*
 
 # FoxStore.com
 
@@ -108,4 +108,8 @@ Email: [privacypolicy@foxhome.com](mailto:privacypolicy@foxhome.com)
 Unless otherwise indicated by Fox Store, your usual operator rates apply to all telephone, email, SMS or other communications.
 
 |    
----|---|---|---
+---  
+FoxStore.com does not offer service outside of the United States.  
+™ and © Twentieth Century Fox Film Corporation and related entities. All rights reserved. Use of this web site assumes acceptance of the [Terms of Use and Privacy Policy](https://web.archive.org/privacy_storepolicy.html).  
+  
+ 
