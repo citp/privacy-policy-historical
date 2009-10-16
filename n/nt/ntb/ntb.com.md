@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ntb.com privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415223944id_/http%3A//www.ntb.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntb.com privacy policy that was archived on 2009-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091016172007id_/http%3A//www.ntb.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Private Prolicy from Tire Kingdom - Tires | Auto Repair Service | Brakes | Batteries | Wheels
 
