@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opentip.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619022920id_/http%3A//www.opentip.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opentip.com privacy policy that was archived on 2009-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091016093912id_/http%3A//www.opentip.com/privacy.php) for the most accurate reproduction.*
 
 # Opentip.com: Online shopping for promotional items, sporting goods, office products, home and garden, and apparel.
 
