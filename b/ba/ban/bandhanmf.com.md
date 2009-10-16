@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bandhanmf.com privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529022055id_/http%3A//www.bandhanmf.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bandhanmf.com privacy policy that was archived on 2009-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091016062330id_/http%3A//www.bandhanmf.com/privacy.html) for the most accurate reproduction.*
 
 # Site Map
 
