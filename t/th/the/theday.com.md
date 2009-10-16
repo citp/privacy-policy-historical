@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the theday.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616154549id_/http%3A//www.theday.com/theday/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theday.com privacy policy that was archived on 2009-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091016090052id_/http%3A//www.theday.com/theday/privacy.aspx) for the most accurate reproduction.*
 
 # theday.com Web Privacy Information
 
-This statement discloses the privacy practices for theday.com and The Day Publishing Company as it applies to theday.com"s web site and services.
+This statement discloses the privacy practices for theday.com and The Day Publishing Company as it applies to theday.com's web site and services.
 
 * * *
 
@@ -12,7 +12,7 @@ theday.com and The Day Publishing Company are not responsible for the content or
 
 **What information does theday.com gather/track about you?**
 
-**Registration (as applicable)** : During any registration process prior to using the site, theday.com requires that you supply a unique subscriber ID, e-mail address, and demographic information (country, zip code, age and sex may be required; household income is optional). Subscribers must be 18 years of age and agree to the [Subscriber Agreement](https://web.archive.org/web/20090616154549id_/http%3A//www.theday.com/theday/terms_of_usage.aspx). On occasion, theday.com also collects additional personal information from subscribers in optional contest and survey forms.
+**Registration (as applicable)** : During any registration process prior to using the site, theday.com requires that you supply a unique subscriber ID, e-mail address, and demographic information (country, zip code, age and sex may be required; household income is optional). Subscribers must be 18 years of age and agree to the [Subscriber Agreement](https://web.archive.org/web/20091016090052id_/http%3A//www.theday.com/theday/terms_of_usage.aspx). On occasion, theday.com also collects additional personal information from subscribers in optional contest and survey forms.
 
  **Cookies** : theday.com employs cookies to recognize you and your access privileges on theday.com website, as well as to track site usage. We use a third party application, WebTrends, to track ads on our site.  Some of these ads may contain cookies that are set by theday.com and/or third parties (i.e. advertising agencies or advertising clients). In the instance of third party cookies, we do not have access to these cookies or any information that they may contain; please contact the advertiser for more information on these cookies.  Acceptance of cookies from domains other than theday.com is optional. 
 
@@ -35,3 +35,7 @@ theday.com shares the information it gathers, in aggregate form, with advertiser
 **Opting-Out, Corrections and Cancellations**
 
 [Upon request](mailto:webadmin@theday.com?Subject=Privacy), theday.com will a) Remove you and your personal information from our database, thereby canceling any registration(s) that you may have; b) Correct personal information that you state is erroneous; or c) Permit you to "opt out" of further e-mail contact (excepting notification of major changes to the service) while still allowing access to the site. To request a correction or cancellation send e-mail to [Customer Service](mailto:cancel@theday.com?Subject=Corrections%20and%20Cancellations). 
+
+**About our Ads**
+
+The Day Publishing Company participates in the APT from Yahoo! platform and Yahoo! is an ad network partner to display ads on our sites. To improve your ad experience on The Day Publishing Company websites and elsewhere on the Internet, we may send non-personal information to Yahoo! based on your browser’s activities, such as type of pages viewed and categories of interests, so that the advertising you see is relevant to you. Yahoo! also may use information regarding its own users to select which ads to display. [Learn more](http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html) about Yahoo!’s ad practices, including how to opt out of using anonymous information to select which ads to show you. Yahoo! is a member of the [Network Advertising Initiative](http://www.networkadvertising.org/). 
