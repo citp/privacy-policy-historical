@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reliancemutual.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616202958id_/http%3A//reliancemutual.com/PrivacyPolicy.aspx%3FReportID%3DC70F72F6-296C-46FF-858D-4B6AAB3E832B) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reliancemutual.com privacy policy that was archived on 2009-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091016120912id_/http%3A//www.reliancemutual.com/PrivacyPolicy.aspx%3FReportID%3DC70F72F6-296C-46FF-858D-4B6AAB3E832B) for the most accurate reproduction.*
 
 # Reliance Mutual Fund - Privacy Policy
 
