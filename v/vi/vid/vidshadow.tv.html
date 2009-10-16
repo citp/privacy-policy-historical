@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the vidshadow.tv privacy policy that was archived on 2009-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090615204131id_/http%3A//www.vidshadow.tv/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vidshadow.tv privacy policy that was archived on 2009-10-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091016180819id_/http%3A//www.vidshadow.tv/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	Privacy Policy
-</title><meta name="keywords" content=" Vidshadow : Comedy, video"><meta name="description"><link rel="icon" type="image/x-icon" href="favicon.ico"><link rel="shortcut icon" type="image/x-icon" href="favicon.ico"><link rel="P3Pv1" href="/w3c/p3p.xml"><meta name="robots" content="all,index,follow">
+</title><meta name="keywords" content="Vidshadow, Comedy, video"><meta name="description"><link rel="icon" type="image/x-icon" href="favicon.ico"><link rel="shortcut icon" type="image/x-icon" href="favicon.ico"><link rel="P3Pv1" href="/w3c/p3p.xml"><meta name="robots" content="all,index,follow">
     <style type="text/css">
         @import url(http://vidshadow.vo.llnwd.net/o28/static/vidshadow/css/ui.css);
         @import url(http://vidshadow.vo.llnwd.net/o28/static/vidshadow/css/interior.css);
@@ -29,6 +29,7 @@
             <a target="_blank" href="http://vidshadowblog.blogspot.com">Blog</a>
             <div id="search_box">
                 <form method="get" action="/search.aspx">
+                    
                     <table cellpadding="0" cellspacing="0" border="0">
                         <tbody><tr>
                             <td><img src="http://vidshadow.vo.llnwd.net/o28/static/vidshadow/img/search_box/search.gif" alt="Search"></td>
@@ -148,11 +149,11 @@
             <div style="clear: both"></div>
             
             <div id="ad_bottom">
+            
                 <!-- BEGIN STANDARD TAG - 728 x 90 - ROS: Run-of-site - DO NOT MODIFY -->
-                <iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="728" height="90" src="http://ad.yieldmanager.com/st?ad_type=iframe&amp;ad_size=728x90&amp;section=286813"></iframe>
+                <!--<iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="728" height="90" src="http://ad.yieldmanager.com/st?ad_type=iframe&amp;ad_size=728x90&amp;section=286813"></iframe>-->
                 <!-- END TAG -->
             </div>
-            
         </div>
 
         <div id="bottom_nav">
@@ -203,11 +204,14 @@
     </script>
     <!-- // End Google Analytics -->
     
-    <script type="text/javascript">
-        var rid = $.getQueryString({id:"rid",defaultvalue:""});
-        var content = $.getQueryString({id:"cn",defaultvalue:""});
-        if(rid != "") {$.post("logger.ashx", {rid:rid,content:content});}
-    </script>
+     <script type="text/javascript">
+        var rid = $.getQueryString({ id: "rid", defaultvalue: "" });
+        var content = $.getQueryString({ id: "cn", defaultvalue: "" });
+        var cs = $.getQueryString({ id: "cs", defaultvalue: "" });
+        var cm = $.getQueryString({ id: "cm", defaultvalue: "" });
+        var cc = $.getQueryString({ id: "cc", defaultvalue: "" });
+        if (rid != "") { $.post("logger.ashx", { rid: rid, content: content, cs: cs, cm: cm, cc: cc, rurl: "" + document.referrer }); }
+   </script>
 
 
 </body></html>
