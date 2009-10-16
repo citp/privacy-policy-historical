@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the occourts.org privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417162907id_/http%3A//www.occourts.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the occourts.org privacy policy that was archived on 2009-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091016164321id_/http%3A//www.occourts.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Superior Court of California - County of Orange
 
@@ -38,7 +38,7 @@ No warranty of any kind, expressed or implied is made with respect to any inform
 
 If you have any questions about this privacy statement or our Website, you may contact us via the email links for Feedback and Webmaster at the bottom of this page. Please do not, however, ask for legal advice or specific information on a case.
 
-## Our Postal Address is: 
+## Our Postal Address is:
 
 700 Civic Center Drive West  
 Santa Ana, CA 92701
