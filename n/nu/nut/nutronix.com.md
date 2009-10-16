@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutronix.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617072715id_/http%3A//www.nutronix.com/sub.asp%3Fpageid%3D47) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutronix.com privacy policy that was archived on 2009-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091016160730id_/http%3A//www.nutronix.com/sub.asp%3Fpageid%3D47) for the most accurate reproduction.*
 
 # Welcome to Nutronix International - Privacy Policy
 
