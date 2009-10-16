@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insweb.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615201953id_/http%3A//www.insweb.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insweb.com privacy policy that was archived on 2009-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091016162121id_/http%3A//www.insweb.com/privacy_policy.html) for the most accurate reproduction.*
 
 # InsWeb.com - Privacy & Security
 
@@ -258,7 +258,7 @@ Questions and Answers about the Privacy Policy of InsWeb's AgentInsider® Progra
 
 **
 
-While this Privacy Policy shall apply to information submitted by insurance agents through InsWeb’s AgentInsider® program (located at [www.agentinsider.com](https://web.archive.org/web/20090615201953id_/http%3A//www.insweb.com/www.agentinsider.com)), the following shall also apply:
+While this Privacy Policy shall apply to information submitted by insurance agents through InsWeb’s AgentInsider® program (located at [www.agentinsider.com](http://www.agentinsider.com/)), the following shall also apply:
 
 **I’m an Insurance Agent. How does InsWeb use my personal information submitted through the AgentInsider® Program?**
 
