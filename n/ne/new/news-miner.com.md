@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the news-miner.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616011528id_/http%3A//newsminer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news-miner.com privacy policy that was archived on 2009-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091016120637id_/http%3A//newsminer.com/privacy) for the most accurate reproduction.*
 
 # newsminer.com • Privacy policy
 
