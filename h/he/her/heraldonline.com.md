@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the heraldonline.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218124809id_/http%3A//www.heraldonline.com/customer_service/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heraldonline.com privacy policy that was archived on 2009-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091017110856id_/http%3A//www.heraldonline.com/customer_service/privacy_policy) for the most accurate reproduction.*
 
-# The Herald | HeraldOnline.com - Privacy Policy - Rock Hill, SC
+# Privacy Policy | The Herald - Rock Hill, SC
 
 The Herald has a firm commitment to privacy. We take your privacy concerns seriously and want to make every effort to address them. That is why we have adopted the following policy, which explains our position on information-gathering and disclosure.
 
