@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nokia.com.au privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416235128id_/http%3A//www.nokia.com.au/A4522005) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nokia.com.au privacy policy that was archived on 2009-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091017231741id_/http%3A//www.nokia.com.au/A4522005) for the most accurate reproduction.*
 
-# Nokia Australia - Privacy policy - Default footer and common elements
+# 
 
 **WE CARE ABOUT YOUR PRIVACY**
 
