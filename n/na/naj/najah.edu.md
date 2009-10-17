@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the najah.edu privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617061440id_/http%3A//www.najah.edu/index.php%3Fpage%3D805) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the najah.edu privacy policy that was archived on 2009-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091017222408id_/http%3A//www.najah.edu/index.php%3Fpage%3D805) for the most accurate reproduction.*
 
 # Privacy Policy : An-Najah National University : Palestine
 
-[Home](https://web.archive.org/web/20090617061440id_/http%3A//www.najah.edu/index.php)[Privacy Policy](https://web.archive.org/web/20090617061440id_/http%3A//www.najah.edu/index.php?page=805)
+[Home](https://web.archive.org/web/20091017222408id_/http%3A//www.najah.edu/index.php)[Privacy Policy](https://web.archive.org/web/20091017222408id_/http%3A//www.najah.edu/index.php?page=805)
 
 * * *
 
@@ -46,5 +46,5 @@ If you have any questions or concerns about an-najah online policy for this site
 
 From time to time, we may update this privacy notice. We will notify you about material changes in the way we treat personally identifiable information by placing a notice on our site. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it. 
 
-Number of Views 4529  
-[](https://web.archive.org/web/20090617061440id_/http%3A//www.najah.edu/modules/content.php?ID=805&lang=en&print)
+Number of Views 5848  
+[](https://web.archive.org/web/20091017222408id_/http%3A//www.najah.edu/modules/content.php?ID=805&l=en&print)
