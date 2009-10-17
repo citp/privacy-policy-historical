@@ -1,311 +1,358 @@
-<!--The following is the downloaded HTML source of the vzaar.com privacy policy that was archived on 2009-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090618140219id_/http%3A//vzaar.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vzaar.com privacy policy that was archived on 2009-10-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091017170817id_/http%3A//www.vzaar.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="description" content="Add video to your ecommerce website and eBay Listings with vzaar's video hosting service. vzaar encodes, streams and hosts any video for businesses, eBay sellers or individuals. Increase sales, traffic and conversion by embedding video quickly and easily into your website, storefront and eBay auctions.">
-<meta name="keywords" content="Video, Hosting, Video Hosting, Streaming, ecommerce, Business, eBay, Video Player, Encoding, Video Embedding, Flash, Free, Video Service">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
+	
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="description" content="Add video to your website or eBay listings with vzaar. vzaar hosts and streams video for business sellers. Increase sales and traffic by easily embedding video.">
 <meta http-equiv="content-language" content="en">
-<title>vzaar | Privacy</title>
 
-  <link href="http://assets1.vzaar.com/stylesheets/vzaar_opt.css" media="screen" rel="stylesheet" type="text/css">
+	
+	<title>vzaar | Privacy</title>
+	
+	<!-- Stylesheets - Standard -->
+	<!-- vzaar_styles is the vzaar starndard cross page stylesheet -->
+	<!-- vzaar_styles_old are older styles sheets which are used in only a few pages and are being depricated -->
+	
 
-<!--[if IE]>
-     <link href="http://assets2.vzaar.com/stylesheets/ie_styles.css" media="screen" rel="stylesheet" type="text/css" />
-<![endif]-->
+	<link href="http://assets2.vzaar.com/stylesheets/vzaar_styles.css" media="screen" rel="stylesheet" type="text/css">
+	<link href="http://assets2.vzaar.com/stylesheets/vzaar_styles_old.css" media="screen" rel="stylesheet" type="text/css">
 
- <script src="http://assets2.vzaar.com/javascripts/all.js" type="text/javascript"></script>
+	
+	<script src="http://assets2.vzaar.com/javascripts/all.js" type="text/javascript"></script>
 
-<link href="http://vzaar.com/blog/atom.xml" rel="alternate" title="vzaar | blog feed" type="application/atom+xml">
-<link href="http://twitter.com/statuses/user_timeline/18549874.atom" rel="alternate" title="vzaar | twitter feed - general (@vzaar)" type="application/atom+xml">
-<link href="http://twitter.com/statuses/user_timeline/14783636.atom" rel="alternate" title="vzaar | twitter feed - status (@goingonatvzaar)" type="application/atom+xml">
-<link href="http://vzaar.com/videos.atom" rel="alternate" title="vzaar | latest videos feed" type="application/atom+xml">
+  <!-- Needed to get jQuery to not conflict with prototype -->
+  <!-- use $j for all jQuery calls -->
 
+  <script type="text/javascript">
+        var $j = jQuery.noConflict();
+        loadScriptsHeaders()
+  </script> 
 
-
-
- <link rel="icon" href="/favicon.ico">
+      <script type="text/javascript">
+//<![CDATA[
+window.authToken = 'e8d4e40fa666f3396b8e7c5596695671eee1d996';
+//]]>
+</script>
+  
 </head>
 
+<body class="" onload="echoAdjustHeight(); infoboxEffectPulsate()">
 
-<body class="pageNoSubmenu " onload=" ">
+
+
 
 <!-- opening wrapper div-->
+<div id="contentWrapperVzaar">
 
-<div id="contentWrapper">
-<div id="branding">
+	<!-- Brand, Navigation and Info (rails flash) Messages -->
+	<div id="vzaarLogoMain">
 <h1><a href="/" title="vzaar.com | powering video">vzaar.com | powering video</a></h1>
 <h2>Add video to your website or eBay listing today</h2>
 </div>
-<div id="topLinks">
-    <a href="http://vzaar.com/login" class="loginLink">Login</a>
-    
-    <a href="http://vzaar.com/register" class="signUpLink">Sign up</a>
+	<!--
 
+MENU DIV CONTAINER
+If submenu is being displayed, please add class="withSubmenu" like below
+<div id="vzaarMenu" class="withSubmenu">
+
+If submenu not being displayed remove class  class="withSubmenu" so it looks like this
+<div id="vzaarMenu" >
+
+TOP LEVEL TABS INFO
+when a top level menu tab is clicked, the corresponding page is displayed. The tab (a href clicked) class name must be changed to "tabActive"
+Also, we add class="active" to the parent tag "<li>" of the tab (a href) currently active. This class will display its submenu if there is one
+
+SUBMENU INFO
+add class="active" to the <a> tag of an active submenu
+
+//-->
+
+<!-- when submenu is displayed, add class="withSubmenu" to the line below. If not displayed, remove class="withSubmenu"-->
+
+
+
+<div id="vzaarMenu" style="position:relative">
+	<ul class="loggedOutMenuBackground ">
+		<!-- The home tab we never make it "active", I mean leave it black a the others-->
+		<li id="menu_home">
+                        <a href="/" class="homeTab">home</a>
+		</li>
+		<li id="menu_videos" class="">
+                        <a href="/videos" class="videosTab">videos</a>
+            <!-- logged out version needs to be 898px wide and submenu with bottom curves. Logged in N/A as menu is as wide as the page -->            
+			<ul class="submenu" style="width:898px; border-left:1px solid #c0c0c0; border-right:1px solid #c0c0c0; -moz-border-radius-bottomleft:4px; -moz-border-radius-bottomright:4px; -webkit-border-bottom-left-radius:4px; -webkit-border-bottom-right-radius:4px;">
+		          <li><a href="/videos?sort=most_recent" class="">most recent</a></li>
+		          <li><a href="/videos?cond=viewed_right_now" class="">viewed right now</a></li>
+		          <li><a href="/videos?sort=most_viewed" class="">most viewed</a></li>
+		          <li><a href="/auctions?cond=live" class="">live listings</a></li>
+		          <li><a href="/auctions?cond=ended" class="">ended listings</a></li>
+			</ul>				
+		</li>
+		<li id="menu_pricing">
+                        <a href="http://vzaar.com/pricing" class="pricingTab">pricing</a>
+		</li>
+		<li id="menu_features">
+                        <a href="http://vzaar.com/features" class="featuresTab">features</a>
+		</li>
+		<li id="menu_api">
+                        <a href="/about/api" class="apiTab">api</a>
+		</li>			
+		<li id="menu_blog">
+		                <a href="http://vzaar.com/blog" target="_blank" class="blogTab">blog</a>			
+		</li>
+
+		<li id="menu_contact">
+      <a href="http://vzaar.com/contact" class="contactTab">contact</a>
+		</li>				
+		
+		<li id="menu_help">
+      <a href="/help" class="helpTab">help</a>
+		</li>
+		
+		<li id="menu_login">
+                        <!-- a button that triggers the overlay. the 'rel' attribute is a jQuery selector to the overlay -->
+                        <a href="http://vzaar.com/login" class="loginTab" rel="div.loginWidget">login</a>
+		</li>		
+		<li id="menu_free_signUp">
+                        <a href="http://vzaar.com/signup" class="freeSignUpTab">register</a>
+
+		</li>						                                                                                    
+	</ul>
+	
+<br style="clear:both">
+</div>
+
+<!-- Trigger Login Box -->
+<script type="text/javascript">
+
+var buttonLocation = $('menu_login').cumulativeOffset() 
+var menuLocation = buttonLocation.left - 360;
+var loginWidget = null;
+$j ("a.loginTab ,a.loginTabSubDisplayed").click( function () { 
+  try {
+    if (loginWidget && !loginWidget._clicked) {
+      if (!loginWidget.overlay().isOpened()) {
+        loginWidget.overlay().load()
+        loginWidget._clicked = true
+      }
+    }
+  } catch(e) {}
+  return false;
+});
+$j(document).ready(function() {
+	// make all links with the 'rel' attribute open overlays 
+	loginWidget = $j("a.loginTab ,a.loginTabSubDisplayed").overlay({
+		// custom expose settings
+		expose: {
+			color: '#000',
+			opacity: 0.55,
+			closeSpeed: 600,
+			loadSpeed: 100
+		},
+                start: {
+                       top: buttonLocation.top,
+                       left: buttonLocation.left,
+                       absolute: false
+                       },
+		finish: {
+			top: 70,
+			left: menuLocation,			
+			absolute: false
+			},
+		speed: 500,
+		fadeInSpeed: 500,
+		onLoad: function() {$j("input:visible:enabled:first").focus();} 
+	});
+});
+</script>
+
+<!-- Login Box -->
+<div class="loginWidget">
+<div class="close"></div>
+	<div class="widgetContent dottedBg">
+                
+                
+		
+		<form action="/session" id="loginFormTop" method="post"><div style="margin:0;padding:0"><input name="authenticity_token" type="hidden" value="e8d4e40fa666f3396b8e7c5596695671eee1d996"></div>
+			<label>vzaar usename or email address</label>
+			<input class="inputField" type="text" name="email" tabindex="1">
+			<label>password <a href="/users/forgotten_password" class="textSmall">forgot password?</a></label>
+			<input class="inputField" type="password" name="password" tabindex="2">
+			<input id="remember_me" name="remember_me" type="checkbox" value="1" tabindex="5">&nbsp;<span class="textSmall">Keep me logged in for 2 weeks</span>
+			<div>
+				<br>
+				<a class="close button red" id="">cancel</a>
+				<button id="loginButtonTop" class="black floatRight" type="submit" tabindex="3" onclick="submitAndDisable('loginButtonTop','loginFormTop')">login</button>
+				<!-- button below shows up when button above is clicked. The visual is the stripes moving denoting "processing" -->
+				<a class="workingLoginWidgetButton floatRight" id="loginButtonTop_Processing" href="javascript://">&nbsp;</a>
+			</div>
+		</form>	</div>	
 </div>
 
 
-<div id="mainMenu" class="menu">
-    <ul>
-        
-
-        <li id="menu_home" class="">
-          <a href="/" class="homeLink ">home</a>
-        </li>
-       
-        <li id="menu_videos" class="">
-          <a href="/videos" class="videosLink ">videos</a>
-
-          <ul class="subMenu">
-              
-             
-            <li class="nil">
-              <span>
-                <a href="/videos" class="">most recent</a>
-              </span>
-            </li>
-
-             
-            <li class="nil">
-              <span>
-                <a href="/videos?cond=viewed_right_now" class="">viewed right now</a>
-              </span>
-            </li>
-
-             
-            <li class="nil">
-              <span>
-                <a href="/videos?sort=most_viewed" class="">most viewed</a>
-              </span>
-            </li>
-
-             
-            <li class="nil">
-              <span>
-                <a href="/auctions?cond=live" class="">live listings</a>
-              </span>
-            </li>
-            
-             
-            <li class="nil">
-              <span>
-                <a href="/auctions?cond=ended" class="">ended listings</a>
-              </span>
-            </li>
-
-          </ul>
-
-        </li>
-        
-        <li id="menu_myvzaar" class="">
-          <a href="/session/new" class="myvzaarLink ">my_vzaar</a>
-
-          <ul class="subMenu">
-
-             
-            <li class="nil">
-              <span>
-                <a href="/session/new" class="">dashboard</a>
-              </span>
-            </li>
-
-             
-            <li class="nil">
-              <span>
-                <a href="/session/new" class="">videos</a>
-              </span>
-            </li>
-
-             
-            <li class="nil">
-              <span>
-                <a href="/session/new" class="">ebay listings</a>
-              </span>
-            </li>
-
-             
-            <li class="nil">
-              <span>
-                <a href="/settings" class="">settings</a>
-              </span>
-            </li>
-
-             
-            <li class="nil">
-              <span>
-                <a href="/account" class="">account</a>
-              </span>
-            </li>
-
-          
-            <li class="nil">
-              <span>
-                <a href="/session/new" class="">encoding</a>
-              </span>
-            </li>
-
-          
-          </ul>
-
-        </li>
-
-        <li id="menu_pricing" class="">
-          <a href="/purchase/packages" class="pricingLink ">pricing</a>
-        </li>
-
-        <!-- <li id='menu_about' class=''>
-          <a href="/about" class="aboutLink ">about</a>
-        </li>
-
-        <li id='menu_blog' class=''>
-          <a href="http://blog.vzaar.com" class="blogLink ">blog</a>
-        </li>
-        -->
-
-       <li id="menu_videoproduction" class="">
-         <a href="/production" class="videoProductionLink ">video production</a>
-       </li>
-
- 
-        <li id="menu_contact" class="">
-          <a href="/contact" class="contactLink ">contact</a>
-        </li>
-
-        <li id="menu_help" class="">
-          <a href="/help" class="helpLink ">help</a>
-        </li>
-
-
-    </ul>  
-
-</div>
+	
 
 
 
 
-<div class="marginTopNoSub">
+	<!-- Page Content -->
+	<!-- This is for Pingdom so we can make sure the static pages are working -->
+<!-- DO NOT DELETE -->
+<!-- Feed the tree -->
+<!-- BY ORDER: AS -->
 
-  
-  
-
-
-  <div id="static" class="column static_content">
-
-  
-      <div class="box">
-    <div class="hd">
-    <div class="c">
-    </div>
-    </div>
-
-	<div class="boxContent">
-
-<h1 style="font-size:40px; color:#596079; font-weight:normal; letter-spacing:-2px; margin-bottom:30px;">privacy</h1>
+<div class="vBox">
+<div class="vBoxContent">
+<h1>privacy policy</h1>
 <p>We don’t want to misuse your data. We know how we like to be treated and we’ll respect your data (such as email address, name, address etc.).</p>
 
-<h2>What we won’t do</h2>
-<ul><li>We won’t ever sell your personal information to anyone else.</li>
+<h3>What we won’t do</h3>
+<ul style="list-style: disc; margin-left:30px;">
+<li>We won’t ever sell your personal information to anyone else.</li>
 <li>We won’t spam you (but we will send you useful updates and news from vzaar).</li>
-<li> We won't divulge your information to anyone you haven't asked us explicitly to reveal it to.</li></ul>
-
-<h2>What we will do with your data</h2>
-<ul><li> Aggregate anonymous information about how you use vzaar.</li>
+<li>We won't divulge your information to anyone you haven't asked us explicitly to reveal it to.</li>
+</ul>
+<br>
+<h3>What we will do with your data</h3>
+<ul style="list-style: disc; margin-left:30px;">
+<li>
+Aggregate anonymous information about how you use vzaar.</li>
 <li>Gather information about how you vote and view videos to see what's popular.</li>
 <li>Gather information on how videos are viewed so we can make sure our platform runs smoothly for you.</li>
 <li>Gather relevant information from your eBay account (e.g your location) to help us better insert video in your listings</li>
-<li>Delete all user identifiable data on request</li></ul>
-
-     </div>
-     <div class="ft">
-     <div class="c">
-     </div>
-
-     </div>
-
-    </div>
+<li>Delete all user identifiable data on request</li>
+</ul>
+<br>
 
 
-  
 </div>
-<div style="clear:both">
+</div>
+
+	<p id="clearFooter"></p>
+	<!-- closing wrapper div-->
+</div>
 	
-</div>
-</div>
+	<!-- footer -->
+	<!-- Global footer -->
 
-<!-- Footer -->
-<div id="siteFooter">
+<div id="vzaarFooter">
 
-    <div class="box">
-    <div class="hd">
-    <div class="c">    </div>
-    </div>
-	<div class="boxContent">
-            
- 
-            <!-- Content begins here -->      
-                <ul id="siteFooterCopyright">
-                <li><a class="copyrightLink" href="#">vzaar © 2007 - 2009</a></li>
-                </ul>
-          
-                <ul id="siteFooterMenu">
-					<li><a href="http://api.vzaar.com" class="footerMenuLink">api</a></li>					
-					<li>&nbsp;&nbsp;&nbsp;&nbsp;|</li>	
-					<li><a href="/blog" class="footerMenuLink">blog</a></li>
-					<li>&nbsp;&nbsp;&nbsp;&nbsp;·</li>
-					<li><a href="/info/about_faq" class="footerMenuLink">faq</a></li>					
-					<li>&nbsp;&nbsp;&nbsp;&nbsp;·</li>
-					<li><a href="http://vzaar.com/about" class="footerMenuLink">about</a></li>					
-					<!--<li><a href="http://vzaar.com/contact" class="footerMenuLink">contact</a></li>-->					
-					<li>&nbsp;&nbsp;&nbsp;&nbsp;|</li>								
-					<li><a href="http://vzaar.com/policies" class="footerMenuLink">policies</a></li>
-					<li>&nbsp;&nbsp;&nbsp;&nbsp;·</li>
-					<li><a href="http://vzaar.com/privacy" class="footerMenuLink">privacy</a></li>										
-					<li>&nbsp;&nbsp;&nbsp;&nbsp;·</li>
-					<li><a href="/partners" class="footerMenuLink">partners</a></li>
-                </ul>
-
-			<!-- Content ends here -->
-     </div>
-     <div class="ft">
-     <div class="c">     </div>
-     </div>
-    </div>
-</div>
+	<div id="vzaarFooterContent">
 
 
-<!-- closing wrapper div-->
-</div>
+<div class="vBox" style="background-color:#424242; background-image:none; border:none">
 
-<!-- Global footer -->
-<div id="globalFooter">
-    <div id="globalFooterWrapper">
+			<div class="vBoxContent">
+				<!-- Begin MailChimp Signup Form -->
+				<div id="mce-responses">
+					<div class="response" id="mce-error-response" style="display:none; text-align:right; padding:0px 0px 2px 0px; color: #ffff00; font-size:9px; font-weight:bold; -moz-border-radius:6px; -webkit-border-radius:6px; border-radius:6px;"></div>
+					<div class="response" id="mce-success-response" style="position:absolute; top:6px; left:450px; display:none; text-align:center; line-height:11px; font-size:10px; width:435px; height:24px; padding:2px; border:none; color:#000; background-color:#539fd5; -moz-border-radius:6px; -webkit-border-radius:6px; border-radius:6px;">this is it</div>
+				</div>
 
-	<!-- Content begins here -->
-	<ul id="globalFooterMenu">
-		<li><a class="globalFooterListingsActive" href="#">vzaar listings</a></li>
-		<!-- TODO AS Put back vzar integrate -->
-		<!-- <li><a class="globalFooterListingsActive" href="http://vzaarintegrate.com">vzaar integrate</a></li> -->
-	</ul>
-
-	<ul id="globalFooterLogo">
-		<li><a class="globalFooterLogoLink" href="#">vzaar logo</a></li>
-	</ul>
-	<!-- Content ends here -->
+        <script src="http://assets1.vzaar.com/javascripts/jquery.validate.js" type="text/javascript"></script>
+<script src="http://assets2.vzaar.com/javascripts/jquery.form.js" type="text/javascript"></script>
+		<script type="text/javascript" src="http://vzaar.us1.list-manage.com/subscribe/xs-js?u=adb83db57bd6710480abc71e0&amp;id=05ca6fb779"></script>
 	
-    </div>
+	<div id="mc_embed_signup">
+					<form action="http://vzaar.us1.list-manage.com/subscribe/post?u=adb83db57bd6710480abc71e0&amp;id=05ca6fb779" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="subscribeEmail" style="display:inline; margin-bottom:0px; width:auto" target="_blank">		
+            <div style="margin: 0pt; padding: 0pt;">
+      <input type="hidden" value="e8d4e40fa666f3396b8e7c5596695671eee1d996" name="authenticity_token">
+      </div>
+						<input type="text" value="enter email here" name="EMAIL" class="inputField" id="mce-EMAIL" onclick="this.focus();this.select()">
+						<button type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="small smallBlack">join our mailing list</button>
+				</form>
+				</div>
+				<!--mc_embed_signup-->
+				
+				<a href="/contact" class="contactLink">contact us</a>&nbsp;&nbsp;&nbsp;<span style="color:#fff; font-size:11px;">by phone, mail or twitter...</span>							
+			</div>
+		</div>
+	
+		<div class="vBox size25 transparent" style="background-color:#424242; height:115px;">
+			<div class="vBoxContent" style="padding:10px 15px; width:184px">
+				<h5 class="footerHeader">the product</h5>
+				<a href="/pricing">pricing</a>
+				<a href="/features">features</a>
+        
+				  <a href="/videos">customer videos</a>
+        
+				<a href="http://vzaar.com/about/api">developer/API</a>	
+			</div>
+		</div>
+		
+		<div class="vBox size25 transparent" style="background-color:#424242; height:115px">
+			<div class="vBoxContent" style="padding:10px 15px; width:184px">
+				<h5 class="footerHeader">support</h5>
+				<a href="/help">help</a>
+				<a href="/contact">contact</a>
+				<a href="/blog" target="_blank">blog</a>
+				<a href="/about">about</a>
+				<a href="http://help.vzaar.com/faqs/glossary/glossary">glossary</a>
+			</div>
+		</div>
+		
+		<div class="vBox size25 transparent" style="background-color:#424242; height:115px;">
+			<div class="vBoxContent" style="padding:10px 15px; width:184px">
+			<h5 class="footerHeader">videos</h5>	
+				<a href="/videos">most recent videos</a>
+	  			<a href="/videos?sort=most_viewed">most viewed</a>
+		  		<a href="/auctions?cond=live">videos with eBay listings</a>
+			</div>
+		</div>
+
+		<div class="vBox size25 transparent" style="background-color:#424242; height:115px; width:220px; margin-right:0px;">
+			<div class="vBoxContent" style="padding:10px 15px; width:184px">
+			<h5 class="footerHeader">policies</h5>	
+				<a href="/privacy">privacy policy</a>
+				<a href="/policies">terms &amp; conditions</a>
+				<a href="/about/affiliates">affiliate program</a>
+			</div>
+		</div>
+
+<div class="vBox" style="background-color:#424242; background-image:none; border:none">
+
+			<div class="vBoxContent">
+				<div class="footerLandingBox">
+					<h5 class="footerHeader">vzaar is also about ...</h5>
+					<a href="/about/hosting">online video hosting for your website</a> | <a href="/about/video_for_website">add video to your website</a> | <a href="/about/alternative_to_youtube">alternative to youtube</a> | <a href="/about/vimeo">alternative to Vimeo</a> | <a href="/about/add_video_to_ebay">add video to your ebay listings</a>
+				</div>
+			</div>
+		</div>
+
+		<div class="vBoxtransparent">
+			<div class="vBoxContent" style="text-align:center">
+				<br>
+				<img src="/images/interface/vzaar_logo_tiny.png" class="footerVzaarLogo" onclick="window.location='/'">
+			</div>
+		</div>		
+
+	
+	<br style="clear:both">
+	</div>
+
+
 </div>
 
 
+	<!-- Tracking code for google anylitcs -->
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-1761385-1");
-pageTracker._trackPageview();
+	try {
+			var pageTracker = _gat._getTracker("UA-1761385-1");
+			pageTracker._trackPageview();
+		} catch(err) {}
 </script>
 
-
+<!-- Tracking code for pluginseo -->
+<script src="http://stats.pluginseo.com/139332.js"></script><noscript><img height="1" width="1" src="http://stats.pluginseo.com/139332-db20.gif"></noscript>
+	
+  <script type="text/javascript">
+    echoRefresh.load(0, "production");
+  </script>
 
 
 </body></html>
