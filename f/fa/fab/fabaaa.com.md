@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fabaaa.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617080241id_/http%3A//www.fabaaa.com/conditions.php%3FosCsid%3Da5bdcad75e8e8850c725346563b1f2ec) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabaaa.com privacy policy that was archived on 2009-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091017121355id_/http%3A//www.fabaaa.com/conditions.php%3FosCsid%3Da94dce8917bb1e6cae3ee35a3b12df11) for the most accurate reproduction.*
 
-# FABAAA | Best source for fabulous AAA designer replica handbags & accessories.
+# FABAAA | Best Louis Vuitton Gucci Balenciaga Hermes Burberry Fendi YSL handbag replica.
 
 Privacy 
 
