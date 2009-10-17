@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loot.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617060903id_/http%3A//www.loot.com/rs6/homepage.asp%3Faction%3Dq%26t%3D/general/about_loot/company_information/tc/protection_privacy%26atp%3Dwww) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loot.com privacy policy that was archived on 2009-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091017110618id_/http%3A//www.loot.com/rs6/homepage.asp%3Faction%3Dq%26t%3D/general/about_loot/company_information/tc/protection_privacy%26atp%3Dwww) for the most accurate reproduction.*
 
 # Loot.com - Classified Ads. Buy, rent or place a free ad to sell anything.
 
