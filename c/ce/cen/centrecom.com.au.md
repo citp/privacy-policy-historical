@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centrecom.com.au privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615041509id_/http%3A//www.centrecom.com.au/catalog/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centrecom.com.au privacy policy that was archived on 2009-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091017193851id_/http%3A//www.centrecom.com.au/catalog/privacy.php) for the most accurate reproduction.*
 
 # Centre Com Online
 
