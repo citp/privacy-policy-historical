@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surepayroll.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616154421id_/http%3A//www.surepayroll.com/SecurityCenter/BcrhWare/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surepayroll.com privacy policy that was archived on 2009-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091017164131id_/http%3A//www.surepayroll.com/SecurityCenter/BcrhWare/default.asp) for the most accurate reproduction.*
 
 # Payroll - Payroll on the Web - Internet Payroll - SurePayroll - Security Center
 
