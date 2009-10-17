@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornimghost.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417031148id_/http%3A//www.pornimghost.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornimghost.com privacy policy that was archived on 2009-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091017061403id_/http%3A//www.pornimghost.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Porn Img Host » More Information » Privacy Policy
 
@@ -9,3 +9,7 @@ We may also collect the URL from which you linked into our site, your IP address
 User privacy is something we take very seriously at Porn Img Host. We do not, and have never, sold or disseminated (except in cases where required to by law by law enforcement agencies) the personal information of our users to any parties outside of Porn Img Host. We use account information for the purposes of creating and maintaining individual user accounts, contacting users in case of a problem with their account, sending personal information, for statistical purposes, to administer our systems, to conduct surveys, to administer drawings or contests, and to provide technical support. All of our development is done in-house, and hence no contracted parties will ever have access to individual account information. 
 
 If you have any question, please do not hesitate to [contact us](http://www.pornimghost.com/contact.php?act=contact_us). 
+
+* * *
+
+**[Privacy Policy](http://www.pornimghost.com/info.php?act=privacy_policy) | [Contact Us](http://www.pornimghost.com/contact.php?act=contact_us) **
