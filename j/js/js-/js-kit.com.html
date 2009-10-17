@@ -1,16 +1,18 @@
-<!--The following is the downloaded HTML source of the js-kit.com privacy policy that was archived on 2009-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090513005810id_/http%3A//js-kit.com/about/policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the js-kit.com privacy policy that was archived on 2009-10-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091017052459id_/http%3A//js-kit.com/about/policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><!-- InstanceBegin template="/Templates/basic.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <!-- InstanceBeginEditable name="doctitle" -->
 <title>JS-Kit Privacy Policy</title>
 <!-- InstanceEndEditable -->
-<link rel="stylesheet" href="/css/basic.css" type="text/css" media="screen">
+<link rel="stylesheet" href="/css/basic-new.css" type="text/css" media="screen">
+<!--[if IE]>  <link rel="stylesheet" href="/css/basic-ie.css" type="text/css" media="screen"> <![endif]-->
+<!--[if IE 6]><link rel="stylesheet" href="/css/basic-ie6.css" type="text/css" media="screen"><![endif]-->
 <!-- InstanceBeginEditable name="extra-css" -->
 <link rel="stylesheet" href="section.css" type="text/css" media="screen">
-<!--[if lte IE 7]>
-	<link rel="stylesheet" href="/css/basic-ie6.css" type="text/css" media="screen">
+<!--[if lte IE 8]>
+	<link rel="stylesheet" href="section-ie6.css" type="text/css" media="screen">
 <![endif]-->
 <!-- InstanceEndEditable -->
 <script type="text/javascript" src="/site.js"></script>
@@ -18,72 +20,38 @@
 
 <body>
 <div id="top">
-	<ul id="top-list-right">
-<!-- InstanceBeginEditable name="extra-top-items" -->
-<!-- InstanceEndEditable -->
-		<li><a href="http://wiki.js-kit.com/">Wiki</a></li>
-		<li><a href="/support/">Support</a></li>
-		<li class="navi-more"><a href="/settings/">Your settings</a></li>
-		<li class="navi-more" id="logout">[ <a href="/api/session/logout.js?frame=/settings/">Sign out</a> ]</li>		
-	</ul>
-
-	<ul id="top-list-left">
-		<li id="top-home"><a href="/">Home</a></li>
-		<li id="top-about"><a href="/about/">About</a></li>
-		<li id="top-pricing"><a href="/pricing/">Pricing</a></li>
-		<li id="top-partners"><a href="/about/partners/">Partners</a></li>
-		<li id="top-news"><a href="/news/">News</a></li>
-		<li id="top-blog"><a href="http://blog.js-kit.com/">Blog</a></li>
-	</ul>
-</div>
-
-<div id="header">
-	<div id="navi">
-		<ul id="navi-list">
-			<li id="navi-list-comments"><a href="/comments/"><img src="/images/spacer.png" width="100" height="24" alt="Comments"></a></li>
-			<li id="navi-list-ratings"><a href="/ratings/"><img src="/images/spacer.png" width="100" height="24" alt="Ratings"></a></li>
-			<li id="navi-list-navigator"><a href="/navigator/"><img src="/images/spacer.png" width="100" height="24" alt="Navigator"></a></li>
-			<li id="navi-list-polls"><a href="/polls/"><img src="/images/spacer.png" width="100" height="24" alt="Polls"></a></li>
-			<li id="navi-list-advisor"><a href="/advisor/"><img src="/images/spacer.png" width="100" height="24" alt="Advisor"></a></li>
-			<li id="navi-list-minichat"><a href="/minichat/"><img src="/images/spacer.png" width="100" height="24" alt="Minichat"></a></li>
-			<li style="display: none;"><img src="/images/navi-selected.png" width="100" height="24" alt=""></li>
-		</ul>
-		<script type="text/javascript">	mkList('navi-list'); </script>
-	</div>
-
+	<table width="936" cellpadding="0" cellspacing="8"><tbody><tr>
+	<td width="132" style="vertical-align: middle;">
 <!-- InstanceBeginEditable name="section-logo" -->
 	<div id="logo" onclick="javascript:goTo('/'); return true;"></div>
 <!-- InstanceEndEditable -->
+		<script type="text/javascript"> mkHref('logo', '/'); </script>	
+	</td><td align="right" style="vertical-align: top;">
+			<ul id="auth-yes">
+				<li id="auth-account"></li>
+				<li>-</li>
+				<li id="auth-db"><a href="/settings/">Dashboard</a></li>
+				<li>-</li>
+				<li id="auth-logout"><a href="/api/session/logout.js?frame=/settings/">Log out</a></li>
+			</ul><ul id="auth-not">
+				<li id="auth-login"><img src="/images/usergray-16x16.png" alt="[login]" class="login-icon"><a href="/settings/">Login</a></li>
+				<li>or</li>
+				<li id="auth-register"><a href="/settings/?register=1">Create an account</a></li>
+			</ul>
 
-	<div class="code-block" id="feature-code">
-		<div id="qmark"><a href="#" onclick="javascript: toggle('hint'); this.blur(); return false;"><img src="/images/qmark-wg.png" style="border: none; height: 15px; margin: 0; padding: 5px; width: 15px;" alt="?"></a></div>
-		<div id="hint" onclick="javascript: toggle('hint'); return true;" onselectstart="return false;">
-			Copy these lines of code into a page template using 
-			your favorite web authoring tool (FrontPage, Dreamweaver, vi). 
-			Then publish the site on the web.<br><br>
-<!-- InstanceBeginEditable name="section-hint" -->
-			For custom options visit the <a href="custom.html">Customization</a> and <a href="faq.html">FAQ</a> pages.
+			<ul id="top-list-left">
+				<li id="top-pricing"><div class="sec-fg"><a href="/pricing/">pricing</a></div><div class="bg"></div></li>
+				<li id="top-support"><div class="sec-fg"><a href="/support/">support</a></div><div class="bg"></div></li>
+				<li id="top-blog"><div class="sec-fg"><a href="http://blog.js-kit.com/">blog</a></div><div class="bg"></div></li>
+<!-- InstanceBeginEditable name="extra-top-items" -->
 <!-- InstanceEndEditable -->
-		</div>
-		<div class="code">
-<!-- InstanceBeginEditable name="section-code" -->
-		Click on the web service you want and the code will appear here
-<!-- InstanceEndEditable -->
-		</div><div class="code-block-corner"></div>
-	</div>
-
-	<ul id="sub-navi-list">
-<!-- InstanceBeginEditable name="sub-section-navi" -->
-		<li><a href="./">Company</a></li>
-		<li><a href="/pricing/">Pricing</a></li>
-		<li><a href="contact.html">Contacts</a></li>
-<!-- InstanceEndEditable -->
-	</ul>
-	<script type="text/javascript">	mkList('sub-navi-list', 'button', 'button-active'); </script>
+			</ul><script type="text/javascript"> mkList('top-list-left', 'section', 'section-active'); </script>
+	</td></tr></tbody></table>
 </div>
+<script type="text/javascript" src="/user-status"></script>
 
 <div id="content">
-<div id="columns" class="columns">
+<div id="columns">
 <!-- InstanceBeginEditable name="page-content" -->
 	
 <h2>JS-Kit Privacy Policy</h2>
@@ -147,16 +115,23 @@ Hillsborough, CA 94114</p>
 
 <!-- InstanceEndEditable -->
 	<div style="clear: both;">&nbsp;</div>
+</div><div id="footer">
+	<table width="920" cellpadding="0" cellspacing="0">
+		<tbody><tr><td align="left" style="color: #1291DB;">
+			<a href="/about/partners/">Partners</a> &nbsp;·&nbsp;
+			<a href="/about/">About</a> &nbsp;·&nbsp;
+			<a href="/about/policy.html">Privacy Policy</a> &nbsp;·&nbsp;
+			<a href="javascript:void(window.open('/pricing/tos.html', 'jskittos', 'width=720,height=600,location=no,menubar=no,resizable=yes,scrollbars=yes,toolbar=no,status=no'))">Terms of Service</a>
+		</td>
+			<td align="right">Creative Commons with Attribution (CC) JS-Kit.Com, 2006-2009.<br> Some Rights Reserved.</td></tr>
+	</tbody></table>
 </div>
-</div>
-
-<div id="footer">
-	Copyright <span>©</span> 2006-2009 JS-Kit.Com. All rights reserved.
-	<a href="/about/policy.html">Privacy Policy</a>
+	<div id="semibg1"></div>
+	<div id="semibg2"></div>
+	<div id="semibg3"></div>
 </div>
 <!-- InstanceBeginEditable name="scripts" -->
 <!-- InstanceEndEditable -->
-
 <script type="text/javascript">
 if(window.location.protocol == "http:") {
 	var sc = document.createElement("script");
