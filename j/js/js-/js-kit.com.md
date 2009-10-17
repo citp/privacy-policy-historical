@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the js-kit.com privacy policy that was archived on 2009-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090513005810id_/http%3A//js-kit.com/about/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the js-kit.com privacy policy that was archived on 2009-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091017052459id_/http%3A//js-kit.com/about/policy.html) for the most accurate reproduction.*
 
 # JS-Kit Privacy Policy
 
