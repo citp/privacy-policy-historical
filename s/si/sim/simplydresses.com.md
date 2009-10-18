@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplydresses.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615041508id_/http%3A//www.simplydresses.com/info/policies.cfm%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplydresses.com privacy policy that was archived on 2009-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091018134218id_/http%3A//www.simplydresses.com/info/policies.cfm%23privacy) for the most accurate reproduction.*
 
 # Prom Dresses Homecoming Dresses Prom Gowns Shoes Special Occasion Dresses and Accessories from Simplydresses.com
 
@@ -40,7 +40,7 @@ Customers may fax their order information by printing the [form linked here](htt
 Customers using money orders must fill out this [form linked here](http://simplydresses.com/pdfs/mo_form.pdf) and mail it with their money order. Before mailing the form, call us at 302-279-1052 for a final price quote and stock availability. Please mail all money orders to...
 
 Simply Dresses  
-7 Crenshaw Ct.  
+733 North Broad Street  
 Middletown DE 19709
 
 [\- top of page -](http://www.simplydresses.com/info/policies#top)
@@ -57,32 +57,38 @@ Please allow 6 additional weeks for customized dresses, and 5 days for dying han
 
 **Shipping**
 
-All prices are per item: 
-
 Orders of in stock merchandise placed before 9 AM EST will be shipped the same business day*. Orders placed after 9 AM EST will be shipped the following business day.
 
-UPS Ground - 3-7 Business Days $8.75  
-UPS 3 Day - 3 Business Days $17  
-UPS 2 Day - 2 Business Days $22  
-Overnight - 1 Business Day $30  
+Please Note: **All shipping prices are per item**
 
+**Continental United States  
+** UPS Ground - 3-7 Business Days $8.75  
+UPS 3 Day - 3 Business Days  $17  
+UPS 2 Day - 2 Business Days  $22  
+Overnight - 1 Business Day  $30
 
-APO/FPO and P.O. Boxes  
-Priority Mail - 5-7 Days $15
+**APO/FPO and P.O. Boxes  
+** Priority Mail - 5-7 Days $15
 
-Canada  
+**Alaska/Hawaii  
+** 2 Day - 2 Business   $  
+Next Day -  1 Business Day  $
+
+**Canada**  
 Standard Landed UPS - 5-9 Days $50**  
-Expedited - 2-5 Days $60***
+Expedited - 2-5 Days $75**
 
-International***  
-Expedited - 2-5 Days $70  
-Shipping prices are per item.
+**International***  
+** Expedited - 2-5 Days $70  
+
+
+Please note: **Depending on destination, chosen shipping method may be delayed.**
 
 * Business Days are Monday through Friday (non Holiday).
 
-**CANADA STANDARD LANDED CUSTOMERS ONLY - You are paying everything up front, also called a "Landed Cost." You are being charged the total cost of your entire order before it leaves the US. This total "Shipping Cost" for Canadian orders includes the shipping cost, the brokerage fee, the customs duty, and the GST. Your order will be delivered to your door and you owe nothing more.
+** CANADA CUSTOMERS ONLY - You are paying everything up front, also called a "Landed Cost." You are being charged the total cost of your entire order before it leaves the US. This total "Shipping Cost" for Canadian orders includes the shipping cost, the brokerage fee, the customs duty, and the GST. Your order will be delivered to your door and you owe nothing more.
 
-***All international shipments are subject to duties and taxes.  Custom and import charges are not included in our shipping charges. 
+*** All international shipments are subject to duties and taxes.  Custom and import charges are not included in our shipping charges. 
 
 [\- top of page -](http://www.simplydresses.com/info/policies#top)
 
