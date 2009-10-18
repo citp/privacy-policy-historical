@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jaylenosgarage.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617043055id_/http%3A//www.nbc.com/Footer/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaylenosgarage.com privacy policy that was archived on 2009-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091018184730id_/http%3A//www.nbc.com/Footer/Privacy) for the most accurate reproduction.*
 
 # NBC.com > Privacy Policy
 
