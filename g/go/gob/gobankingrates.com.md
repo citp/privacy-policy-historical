@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gobankingrates.com privacy policy that was archived on 2009-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090425190915id_/http%3A//gobankingrates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gobankingrates.com privacy policy that was archived on 2009-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091018071143id_/http%3A//www.gobankingrates.com/privacy-policy) for the most accurate reproduction.*
 
 # Go Banking Rates - Privacy Policy
 
@@ -60,7 +60,7 @@ If you would like to opt-out of third-party advertising companies' use of such i
 
 ## Newsletters and CAN-SPAM Compliance
 
-GoBanking.com sends only verified newsletters, specifically requested by Go Banking Rates subscribers. Subscriptions to GoBankingRates.com newsletters are verified by sending an e-mail. GoBankingRates.com is fully compliant with the Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003. 
+GoBankingRates.com sends only verified newsletters, specifically requested by Go Banking Rates subscribers. Subscriptions to GoBankingRates.com newsletters are verified by sending an e-mail. GoBankingRates.com is fully compliant with the Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003. 
 
 ## Cookie technology
 
