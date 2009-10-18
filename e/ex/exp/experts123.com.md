@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the experts123.com privacy policy that was archived on 2009-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090209173647id_/http%3A//experts123.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experts123.com privacy policy that was archived on 2009-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091018135023id_/http%3A//www.experts123.com/privacypolicy) for the most accurate reproduction.*
 
-# 
+# Experts123 - Privacy Policy
 
 **Effective October, 2008**
 
@@ -62,7 +62,7 @@ Please note that changing or deleting your information otherwise opting-out of r
 
 If you have any questions or concerns about this privacy policy, the practices of our Website(s), or your dealings with the Website(s), you can contact us as indicated below:
 
-E-mail: customerservice@experts123.com
+E-mail: [customerservice@experts123.com](mailto:customerservice@experts123.com)
 
 Mailing address: 
 
