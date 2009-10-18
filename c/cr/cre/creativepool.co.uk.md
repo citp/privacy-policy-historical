@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creativepool.co.uk privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193635id_/http%3A//www.creativepool.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativepool.co.uk privacy policy that was archived on 2009-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091018070511id_/http%3A//www.creativepool.co.uk/privacy.php) for the most accurate reproduction.*
 
 # creativepool.co.uk Privacy Statement
 
@@ -52,6 +52,6 @@ Our services are not available to children and we ask that persons under the age
 
 **privacy commitment changes**
 
-If we decide to change our privacy commitment for creativepool.co.uk, you will be sent an email outlining any changes. We will also update the changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If, at any time, you have questions or concerns about creativepool.co.uk's privacy commitment, please feel free to email us at [privacy@creativepool.co.uk](mailto:privacy@creativepool.co.uk)
+If we decide to change our privacy commitment for creativepool.co.uk, you will be sent an email outlining any changes. We will also update the changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If, at any time, you have questions or concerns about creativepool.co.uk's privacy commitment, please feel free to email us at [admin@creativepool.co.uk](mailto:admin@creativepool.co.uk)
 
 Thank you for using creativepool.co.uk.
