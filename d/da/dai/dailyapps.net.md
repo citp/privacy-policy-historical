@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyapps.net privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193245id_/http%3A//dailyapps.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyapps.net privacy policy that was archived on 2009-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091018064912id_/http%3A//dailyapps.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | dailyApps
 
