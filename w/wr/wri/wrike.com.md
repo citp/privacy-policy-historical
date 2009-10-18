@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wrike.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616180348id_/http%3A//www.wrike.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrike.com privacy policy that was archived on 2009-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091018083905id_/http%3A//www.wrike.com/privacy.html) for the most accurate reproduction.*
 
 # Wrike Privacy Policy
 
 Last update: July, 2006
 
-Wrike takes your privacy seriously. Please read the following to learn more about our privacy policy. 
+Wrike takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
 | 
 
@@ -64,13 +64,11 @@ Wrike takes your privacy seriously. Please read the following to learn more abou
 
   1.   2. We reserve the right to send you certain communications relating to the Wrike service, such as service announcements, administrative messages and the Wrike Newsletter, that are considered part of your Wrike account, without offering you the opportunity to opt-out of receiving them. 
 
-  3. You can delete your Wrike account by visiting our 
+  3. You can delete your Wrike account by visiting our Account Deletion page. Please note that
 
-Account Deletion page. Please note that 
+    * If you delete your account, we do not automatically delete tasks visible to other people;
 
-    * If you delete your account, we do not automatically delete tasks visible to other people; 
-
-    * Any information that we have copied may remain in back-up storage for some period of time after your deletion request. 
+    * Any information that we have copied may remain in back-up storage for some period of time after your deletion request.
 
 
   
