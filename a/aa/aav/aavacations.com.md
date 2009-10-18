@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aavacations.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617065536id_/http%3A//www.aavacations.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aavacations.com privacy policy that was archived on 2009-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091018140016id_/http%3A//www.aavacations.com/privacy.asp) for the most accurate reproduction.*
 
 # American Airlines Vacations Contact Us, AA Vacations Contact Us, Net SAAver Vacations, Vacation Packages - AAVacations.com
 
@@ -109,7 +109,7 @@ Return to Top
 
 Return to Top
 
-**Why Travel With Us?**
+Why Travel With Us?
 
   * Pay with AAdvantage® miles
   * Earn AAdvantage® bonus miles
@@ -121,10 +121,10 @@ Return to Top
 
 1-800-321-2121
 
-**Tools You Can Use**
+Tools You Can Use
 
 [](http://www.aavacations.com/ns_emailsub.asp)Sign up for our email and receive the latest news and special offers in your inbox every week.
 
-Use our RSS Feed [](http://www.aavacations.com/rss.asp) and get great deals streamed to your desktop.
+Use our RSS Feed [](https://web.archive.org/rss.asp) and get great deals streamed to your desktop.
 
-[](http://www.aavacations.com/destinations.asp)Destination Information to help with decisions and travel plans.
+[](https://web.archive.org/destinations.asp)Destination Information to help with decisions and travel plans.
