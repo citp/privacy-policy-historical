@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the leicester.gov.uk privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617194217id_/http%3A//www.leicester.gov.uk/redirectHandler.asp%3Furl%3Dhttp%253A%252F%252Fwww%252Eleicester%252Egov%252Euk%252Findex%252Easp%253Fpgid%253D3522%26lp%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leicester.gov.uk privacy policy that was archived on 2009-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091018080130id_/http%3A//www.leicester.gov.uk/redirectHandler.asp%3Furl%3Dhttp%253A%252F%252Fwww%252Eleicester%252Egov%252Euk%252Findex%252Easp%253Fpgid%253D3522%26lp%3Dfooter) for the most accurate reproduction.*
 
-# Leicester City Council - Internet Disclaimer
+# Internet DisclaimerLeicester City Council -
 
 **IMPORTANT - PLEASE READ**
 
@@ -33,5 +33,4 @@ Water Lane
 Wilmslow
 Cheshire
 SK9 5AF
-  
 
