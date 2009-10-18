@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chubbyparade.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617065648id_/http%3A//chubbyparade.com/forum/view.php%3Fpg%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chubbyparade.com privacy policy that was archived on 2009-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091018070109id_/http%3A//chubbyparade.com/forum/view.php%3Fpg%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Chubby Parade Privacy Policy
 
@@ -51,7 +51,7 @@ Chubbyparade.com has security measures in place to protect the loss, misuse and 
 
 **Termination**  
 You can elect to terminate your membership at the Chubbyparade at any time.  
-If you want your user account deleted, please contact [Admin](http://chubbyparade.com/forum/private.php?do=newpm&u=1).
+If you want your user account deleted, please contact [Admin](http://chubbyparade.com/forum/accountdeletion.php).
 
 **Summary**  
 In this electronic era, when personal information can easily be obtained through various sources, we appreciate the sensitivity of any private information that you disclose to us. It is our intention to treat your account information with the highest level of care.  
