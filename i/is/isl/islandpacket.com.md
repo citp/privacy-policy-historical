@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the islandpacket.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617172623id_/http%3A//www.islandpacket.com/services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the islandpacket.com privacy policy that was archived on 2009-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091019134830id_/http%3A//www.islandpacket.com/services/privacy) for the most accurate reproduction.*
 
-# islandpacket.com | Privacy Policy
+# | Privacy Policy
 
 ## The Island Packet Privacy Policy
 
