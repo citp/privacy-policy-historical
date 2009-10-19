@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the wordiq.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501175358id_/http%3A//www.wordiq.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordiq.com privacy policy that was archived on 2009-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091019112305id_/http%3A//www.wordiq.com/privacy.html) for the most accurate reproduction.*
 
-# WordIQ - Privacy Policy
+# Privacy Policy - WordIQ
 
 **On-line Privacy Policy of WordIQ.com**  
+---  
   
 We are committed to protecting the privacy and security of the users of our sites. This privacy policy will advise you about how we protect your personal information, and about what choices you have concerning our use of such information. Please read this policy carefully. We may need to change this policy from time to time in order to address new issues and reflect changes on our sites. We will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose that information to anyone. Please refer back to this policy regularly.
 
@@ -33,4 +34,6 @@ Protecting your privacy and your information is a top priority. We have taken ca
 
 By using any of the WordIQ Sites, you signify your acceptance of our Privacy Policy. If you do not agree to this policy, please do not use our sites. Your continued use of the WordIQ Sites following the posting of changes to these terms will mean that you accept those changes.
 
-(Last modified on 1/01/2004) 
+(Last modified on 1/01/2004)   
+  
+Copyright © 2009 WordIQ.com, All Rights Reserved.
