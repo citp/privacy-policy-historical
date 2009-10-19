@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the novapdf.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618100933id_/http%3A//www.novapdf.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novapdf.com privacy policy that was archived on 2009-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091019152349id_/http%3A//www.novapdf.com/privacy-policy.php) for the most accurate reproduction.*
 
 # novaPDF - Privacy Policy
 
@@ -14,4 +14,4 @@ Some of our pages use a feature of your browser called a "cookie." Cookies, by t
 
 **Contact us**
 
-Softland knows that your privacy is very important to you and we respect that. We welcome questions and comments regarding this policy, so feel free to contact us at [support@novapdf.com](mailto:support@novapdf.com?subject=novaPDF%20Privacy%20Policy). Because technologies on the Internet change so fast, Softland reserves the right to modify its Privacy Statement from time to time. More legal information can be found in Softland’s [Legal Notices](https://web.archive.org/web/20090618100933id_/http%3A//www.novapdf.com/legal-notices.php "Legal Notices") section. 
+Softland knows that your privacy is very important to you and we respect that. We welcome questions and comments regarding this policy, so feel free to contact us at [support@novapdf.com](mailto:support@novapdf.com?subject=novaPDF%20Privacy%20Policy). Because technologies on the Internet change so fast, Softland reserves the right to modify its Privacy Statement from time to time. More legal information can be found in Softland’s [Legal Notices](https://web.archive.org/web/20091019152349id_/http%3A//www.novapdf.com/legal-notices.php "Legal Notices") section. 
