@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the static-layouts.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618142100id_/http%3A//static-layouts.com/page.php%3Fid%3D72) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the static-layouts.com privacy policy that was archived on 2009-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091019192015id_/http%3A//static-layouts.com/page.php%3Fid%3D72) for the most accurate reproduction.*
 
 # STATIC-LAYOUTS.COM - Myspace Layouts, Default Layouts, Skinny Layouts, Bulletin Surveys, Skinny Defaults, Music Skins, Page Graphics
 
-| Updates  
+| | Updates  
 ---  
   
   
@@ -23,6 +23,19 @@ Myspace Content
 [Twilight Stuff](http://www.static-layouts.com/page.php?id=81)  
   
   
+  
+Friends  
+---  
+[Default Layouts](http://www.msnerdslayouts.com/)  
+[Damaged Scene](http://www.damagedscene.com/)  
+[Cute Layouts](http://www.transcriipts.com/)  
+[Moonbeam Layouts](http://www.moonbeam-layouts.com/)  
+[Cute Backgrounds](http://threewallpapers.com/)  
+[Default Layouts](http://trip-layouts.com/)  
+[Bebop Layouts](http://www.bebop-layouts.com/)  
+[Default Layouts](http://www.def-layouts.com/)  
+[Heartbreaker Layouts](http://www.hblyts.com/)  
+[Sunshine Layouts](http://www.sunshinee.com/)  
   
   
   
@@ -65,4 +78,11 @@ Your use of our site, including any dispute concerning privacy, is subject to th
 Last Revised March 22nd, 2006 
 
   
+  
+  
+[](http://www.adbrite.com/mb/commerce/purchase_form.php?opid=1274281&afsid=1) [](http://www.adbrite.com/mb/commerce/purchase_form.php?opid=1378523&afsid=1)
 
+2009 Static-Layouts.com. [Privacy Policy](http://static-layouts.com/page.php?id=72) All Rights Reserved. [ Online.](http://www.freeonlineusers.com/)   
+Static-Layouts.com is not affilated with myspace.com 
+
+[ ](http://extremetracking.com/open?login=flowdude)
