@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the masterresellrights.com privacy policy that was archived on 2009-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090216055121id_/http%3A//www.masterresellrights.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masterresellrights.com privacy policy that was archived on 2009-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091019223258id_/http%3A//www.masterresellrights.com/privacy_policy.html) for the most accurate reproduction.*
 
 # MRR Privacy Policy
 
 ---  
   
-**[Home](http://www.masterresellrights.com/)  |  *[Newest Products](http://www.masterresellrights.com/newest_products.html)*  |  [ Member Login](http://www.masterresellrights.com/mrr/login.php)  |  [ Join MRR!](http://www.masterresellrights.com/mrr/signup.php?price_group=2&product_id=1)  |  [Browse Archives](https://web.archive.org/web/20090216055121id_/http%3A//www.masterresellrights.com/browse_archives.html)  |  [FAQ](https://web.archive.org/web/20090216055121id_/http%3A//www.masterresellrights.com/frequently_asked_questions.html)  |  [Private Label Rights](https://web.archive.org/web/20090216055121id_/http%3A//www.masterresellrights.com/private_label_rights.html)  |   [MRR Support](http://www.mrrsupport.com/)  |  [MRR Blog](http://www.mrrblog.com/)  |  [Software Rebrand](https://web.archive.org/web/20090216055121id_/http%3A//www.masterresellrights.com/software_rebrand.html)**
+**[Home](http://www.masterresellrights.com/)  |  *[Newest Products](http://www.masterresellrights.com/newest_products.html)*  |  [ Member Login](http://www.masterresellrights.com/mrr/login.php)  |  [ Join MRR!](http://www.masterresellrights.com/mrr/signup.php?price_group=2&product_id=1)  |  [Browse Archives](https://web.archive.org/web/20091019223258id_/http%3A//www.masterresellrights.com/browse_archives.html)  |  [FAQ](https://web.archive.org/web/20091019223258id_/http%3A//www.masterresellrights.com/frequently_asked_questions.html)  |  [Private Label Rights](https://web.archive.org/web/20091019223258id_/http%3A//www.masterresellrights.com/private_label_rights.html)  |   [MRR Support](http://www.mrrsupport.com/)  |  [MRR Blog](http://www.mrrblog.com/)  |  [Software Rebrand](https://web.archive.org/web/20091019223258id_/http%3A//www.masterresellrights.com/software_rebrand.html)**
 
  
 
@@ -100,7 +100,7 @@ By using our Web site you consent to our collection and use of your personal inf
 __
 
 [Home](http://www.masterresellrights.com/)  |  [ Newest Products](http://www.masterresellrights.com/newest_products.html)  |  [Pro Store](http://www.masterresellrights.com/store)  |  [ Member Login](http://www.masterresellrights.com/mrr/login.php)  |  [ Join MRR](http://www.masterresellrights.com/mrr/signup.php?price_group=2&product_id=1)  |    
-[ Browse Archives](http://www.masterresellrights.com/browse_archives.html)  |  [ FAQ](http://www.masterresellrights.com/frequently_asked_questions.html)  |  [ Private Label Rights](http://www.masterresellrights.com/private_label_rights.html)  |  [MRR Support](http://www.mrrsupport.com/)  |  [Privacy Policy](https://web.archive.org/web/20090216055121id_/http%3A//www.masterresellrights.com/privacy_policy.html)  |  [ Terms Of Use](http://www.masterresellrights.com/terms_of_use.html)  |  [ Affiliates Earn](http://www.masterresellrights.com/MRR_affiliate_program.html)  ** |  [MRR Blog](http://www.mrrblog.com/)  |  [ Software Rebrand](http://www.masterresellrights.com/software_rebrand.html)**
+[ Browse Archives](http://www.masterresellrights.com/browse_archives.html)  |  [ FAQ](http://www.masterresellrights.com/frequently_asked_questions.html)  |  [ Private Label Rights](http://www.masterresellrights.com/private_label_rights.html)  |  [MRR Support](http://www.mrrsupport.com/)  |  [Privacy Policy](https://web.archive.org/web/20091019223258id_/http%3A//www.masterresellrights.com/privacy_policy.html)  |  [ Terms Of Use](http://www.masterresellrights.com/terms_of_use.html)  |  [ Affiliates Earn](http://www.masterresellrights.com/MRR_affiliate_program.html)  ** |  [MRR Blog](http://www.mrrblog.com/)  |  [ Software Rebrand](http://www.masterresellrights.com/software_rebrand.html)**
 
 __
 
