@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the faa.gov privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616064720id_/http%3A//www.faa.gov/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faa.gov privacy policy that was archived on 2009-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091019045928id_/http%3A//www.faa.gov/privacy) for the most accurate reproduction.*
 
 # FAA Privacy and Website Policy
+
+  * [Print](https://web.archive.org/privacy/index.cfm?print=go)
+  * [Email](https://web.archive.org/email_page/?title=FAA%20Privacy%20and%20Website%20Policy&pageurl=%2Fprivacy%2Findex%2Ecfm&sid=true)
+  * |  Updated: 3:41 pm ET August 10, 2009
+
+
 
 ## Our Commitment
 
@@ -55,7 +61,7 @@ On some of our webpages we offer interactive forms that let you voluntarily subm
 
 ## Information Practices for Children
 
-We have information for children on our [education web pages](https://web.archive.org/education_research). We do not intentionally collect information from children under the age of 13. If in the future we choose to collect personal information from children, we will comply with the [Children’s Online Privacy Protection Act (COPPA).](http://www.ftc.gov/privacy/privacyinitiatives/childrens.html)
+We have information for children on our [education web pages](https://web.archive.org/education/). We do not intentionally collect information from children under the age of 13. If in the future we choose to collect personal information from children, we will comply with the [Children’s Online Privacy Protection Act (COPPA).](http://www.ftc.gov/privacy/privacyinitiatives/childrens.html)
 
 ## Cookies or Other Tracking Devices
 
