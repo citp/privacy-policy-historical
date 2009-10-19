@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the divinecosmos.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617070715id_/http%3A//divinecosmos.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D38%26Itemid%3D32) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divinecosmos.com privacy policy that was archived on 2009-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091019081603id_/http%3A//divinecosmos.com/index.php/contact-us/privacy-policy) for the most accurate reproduction.*
 
-# Divine Cosmos - Privacy Policy
+# Privacy Policy
 
 **Our Commitment To Privacy**
 
@@ -8,33 +8,32 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 **The Information We Collect:**
 
-This notice applies to all information collected or submitted on any of the Divine Cosmos websites. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: 
+This notice applies to all information collected or submitted on any of the Divine Cosmos websites. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
 
 Name   
-Address 
-
-Email address 
-
-Phone number 
-
-Credit/Debit Card Information 
-
+Address   
+Email address   
+Phone number   
+Credit/Debit Card Information   
 (etc.)
 
 **The Way We Use Information:**
 
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. 
+We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.
 
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
+We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
 
-You can register with our website if you would like to receive our services as well as get updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form. 
+You can register with our website if you would like to receive our services as well as get updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form.
 
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
+We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
 **Our Commitment To Data Security**
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we use a secure Internet host, Ipower.com, Pay Pal and Authorize.net secure online transactions, in order to put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we use a secure Internet host, Ipower.com, Pay Pal and Authorize.net secure online transactions, in order to put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-[**How To Contact Us** ](http://www.divinecosmos.com/index.php?option=com_contact&Itemid=3)
+[**How To Contact Us** ](http://divinecosmos.com/index.php/contact-us)
+
+[Next >](http://divinecosmos.com/index.php/contact-us/privacy-policy/156-our-objectives-for-this-website)  
+---
