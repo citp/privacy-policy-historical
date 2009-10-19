@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bostonscientific.com privacy policy that was archived on 2009-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090619071159id_/http%3A//www.bostonscientific.com/SectionData.bsci/%2C%2C/navRelId/1008.1028/seo.serve) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bostonscientific.com privacy policy that was archived on 2009-10-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091019025621id_/http%3A//www.bostonscientific.com/SectionData.bsci/%2C%2C/navRelId/1008.1028/seo.serve) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta name="ROBOTS" content="NOARCHIVE">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -45,16 +45,8 @@
 <!-- using global top nav sectiondata/nav/sectionTopNav.jsp -->
 <!-- used by lucene/crawler to determine secure pages-->
 
-<script language="javascript">
- <!--
- function search(){
-  if(!document.getElementById("SearchFormTop").q.value == ''){
-   document.getElementById("SearchFormTop").currentPage.value="1";
- 	 document.getElementById("SearchFormTop").submit()
- 	}
- }
- -->
- </script>
+<script type="text/javascript" src="/js/autocomplete.js"></script>
+ 
 
 <div id="countryDiv" class="countryDiv" onmouseover="showHideElms('on','countryDiv')" onmouseout="showHideElms('off','countryDiv')" style="display:none; background-image:url(/images/spacer.gif);">
 <div class="Pointer" id="Pointer"></div>
@@ -82,44 +74,37 @@
     <a href="/home.bsci/,,/navRelId/.1000/seo.serve"><img src="/images/topnav/Boston_Scientific_Logo.gif" alt="Boston Scientific Logo" width="121" height="42" border="0"></a>
   </div>
   <div class="navTopPanel" id="navTopPanel">
-    <a href="javascript:search();"><img src="/images/buttons/blue_button.gif" alt="Search" name="searchButton" id="searchButton" class="searchButton" border="0"></a>
-    <input name="q" type="text" id="header_topnav_search" class="textfieldSearch" accesskey="s" tabindex="1" value="Enter Search Keywords" size="22" onfocus="if(this.value=='Enter Search Keywords')this.value='';" onblur="if(this.value=='')this.value='Enter Search Keywords';">
-    <input name="searchType" id="searchType" type="hidden" value="corpweb_all">
-	<input name="navRelId" id="navRelId" type="hidden" value="1000.1036">	       
-          <input name="currentPage" id="currentPage" type="hidden" value="1">    
-    <div id="topNav" class="topNav"> 
-	  
-
-		 <span id="navSep" class="navSep">|</span> <a href="/AboutUs.bsci/,,/navRelId/1000.1004/seo.serve">About Us </a>
-
-	  
-
-		 <span id="navSep" class="navSep">|</span> <a href="/NewsEvents/NewsEvents.bsci/,,/navRelId/1000.1006/seo.serve">Newsroom </a>
-
-	  
-
-		 <span id="navSep" class="navSep">|</span> <a href="/SectionData.bsci/,,/navRelId/1000.1042/seo.serve">Investor Relations </a>
-
-	  
-
-		 <span id="navSep" class="navSep">|</span> <a href="/Careers.bsci/,,/navRelId/1000.1007/seo.serve">Careers </a>
-
-	  
-	  
-
-		 <span id="navSep" class="navSep">|</span> <a href="/Utility.bsci/,,/method/FAQ/navRelId/1009.1024/seo.serve">FAQ </a>
-
-	  
-
-		 <span id="navSep" class="navSep">|</span> <a href="/ContactUs.bsci/,,/navRelId/1009.1026/seo.serve">Contact Us </a>
-
-	  
-	  
-    </div>  <!-- topNav -->
-    <a href="JavaScript:;" onclick="show_country(event);" id="Country" class="Country"><img src="/templatedata/imports/siteImages/flags/us_flag.gif" alt="Flag" name="flag" width="17" height="11" border="0" class="flag" id="flag" onclick="show_country(event);">United States</a>
+  	<div id="topNav" class="topNav"> 
+  		  
+  			<span id="navSep" class="navSep">|</span> <a href="/AboutUs.bsci/,,/navRelId/1000.1004/seo.serve">About Us </a>  
+  	  	  
+  			<span id="navSep" class="navSep">|</span> <a href="/NewsEvents/NewsEvents.bsci/,,/navRelId/1000.1006/seo.serve">Newsroom </a>  
+  	  	  
+  			<span id="navSep" class="navSep">|</span> <a href="/SectionData.bsci/,,/navRelId/1000.1042/seo.serve">Investor Relations </a>  
+  	  	  
+  			<span id="navSep" class="navSep">|</span> <a href="/Careers.bsci/,,/navRelId/1000.1007/seo.serve">Careers </a>  
+  	  	
+  	  	
+  	 		<span id="navSep" class="navSep">|</span> <a href="/Utility.bsci/,,/method/FAQ/navRelId/1009.1024/seo.serve">FAQ </a>
+ 	 	
+  	 		<span id="navSep" class="navSep">|</span> <a href="/ContactUs.bsci/,,/navRelId/1009.1026/seo.serve">Contact Us </a>
+ 	 	
+        </div>  <!-- topNav -->
+        <a href="JavaScript:;" onclick="show_country(event);" id="Country" class="Country"><img src="/templatedata/imports/siteImages/flags/us_flag.gif" alt="Flag" name="flag" width="17" height="11" border="0" class="flag" id="flag" onclick="show_country(event);">United States</a>
+		<div class="grayLine" id="grayLine">&nbsp;</div>
+        <div id="search_box">
+        	<input id="q" name="q" type="text" class="search" onkeydown="keypress(event, 'search_box')" onkeyup="if(event.keyCode != 13 &amp;&amp; event.keyCode != 38 &amp;&amp; event.keyCode != 40){autocomp(this.value, 'SITE', 'search_box', 'SearchFormTop');}" autocomplete="off" accesskey="s" tabindex="1" value="Enter Search Keywords" size="22" onfocus="searchtextFocus(); if(this.value=='Enter Search Keywords'){this.value='';searchAssistFocus('search_box');}" onblur="searchtextBlur(); if(this.value==''){this.value='Enter Search Keywords';searchAssistBlur('search_box');}">
+		<div class="autocomplete_site_suggestions empty"></div>
+		<a href="javascript:search('SearchFormTop');"><img src="/images/buttons/blue_button.gif" alt="Search" name="searchButton" class="searchButton" border="0"></a>
+		<input name="searchType" id="searchType" type="hidden" value="corpweb_all">
+		<input name="navRelId" id="navRelId" type="hidden" value="1000.1036">	       
+         	<input name="currentPage" id="currentPage" type="hidden" value="1">    
+         </div>
   </div> <!-- navTopPanel -->
 </div>  <!-- pageHeaderTop -->
 </form><!--   End - Top Nav  -->
+
+
 	
 
 
@@ -150,7 +135,6 @@
       <a href="/home.bsci"><img src="/images/topnav/Delivering_what_next.gif" alt="Boston Scientific Logo" width="135" height="13" border="0"></a>
     </div>
     <div class="mainNavDiv" id="mainNavDiv">
-	  <div class="grayLine" id="grayLine">&nbsp;</div>
       <div class="siteNavMenu" id="siteNavMenu">
        
 
@@ -381,7 +365,7 @@ If you would like to communicate with BSC regarding privacy issues or have quest
 
 		
     </span>
-    <span id="footerText" class="footerText">© 2009 Boston Scientific Corporation or its affiliates. All rights reserved.<script language="" javascript""="" src="" http:="" core.insightexpressai.com="" adserver="" adserveresi.aspx?bannerid="25109&quot;&quot;"></script>
+    <span id="footerText" class="footerText">© 2009 Boston Scientific Corporation or its affiliates. All rights reserved.<script language="javascript" src="http://core.insightexpressai.com/adServer/adServerESI.aspx?bannerID=25109"></script>
     	
 
 		  <span id="navSep" class="navSep">|&nbsp;</span><a href="/SectionData.bsci/,,/navRelId/1008.1027/seo.serve">Copyright Notice  </a>
