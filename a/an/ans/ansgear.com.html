@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ansgear.com privacy policy that was archived on 2009-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090617065837id_/http%3A//www.ansgear.com/terms_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ansgear.com privacy policy that was archived on 2009-10-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091019134827id_/http%3A//www.ansgear.com/terms_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta name="Description" content="Ansgear has Paintball guns and Paintball equipment for everyone.  Get your Paintball equipment for cheap.  All Paintball gear on sale!">
@@ -11,199 +11,76 @@
 <script type="text/javascript" src="/a/j/javascripts.js"></script>
 
 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <!-- 
 DYNAMIC PAGE-SPECIFIC META TAGS WILL BE PLACED HERE
-DO NOT ADD YOUR OWN META TAGS, ONLY PUT CSS/JAVSCRIPT INCLUDES IN YOUR HEAD TAG
+DO NOT ADD YOUR OWN META TAGS
+ONLY PUT CSS/JAVSCRIPT INCLUDES IN YOUR HEAD TAG
 -->
-<link href="/v/vspfiles/templates/contempo/css/Imports.css" rel="stylesheet" type="text/css">
+<link href="/v/vspfiles/templates/ANSgear/css/Imports.css" rel="stylesheet" type="text/css">
 
-<meta name="verify-v1" content="mN2nOSjx730dlAz3u9a+wRIQYPNRMbNda7qpTSrtyes=">
+<!-- [if lt IE 7.] 
+<script defer type="text/javascript" src="/v/vspfiles/V4_Backup/pngfix.js"></script>
+[endif]-->
+
+<script src="/v/vspfiles/templates/ANSgear/js/search_text_change.js" type="text/javascript"></script>
 
 </head>
-<body id="body" onload="">
-<!-- V-Contempo -->
 
-<!-- ================================= HEADER ================================= -->
+<!---------------------- FILE INFO ----------------------
+Company Name: ANS Gear
+Designer: Brandon Bouldin
+Coder: David Cummings
+URL: www.ansgear.com 
+Date: September 2009
+---------------------- END INFO ---------------------->
+
+<body id="body">
+<div id="page_wrapper">
+
+<!---------------------- HEADER ---------------------->
 <div id="header">
-	<h1 id="display_homepage_title" class="colors_homepage_title"><a href="http://www.ansgear.com/default.asp" title="ANS GEAR">ANS GEAR</a></h1>
+	<h1 id="display_homepage_title"><a href="http://www.ansgear.com/default.asp" title="ANS GEAR">ANS GEAR</a></h1>
     
-    <p id="phone">1-805-522-8700</p>
-
+    <div id="top-nav">
+    <img src="/v/vspfiles/templates/ANSgear/images/template/top-nav.gif" name="nav" width="600" height="35" border="0" usemap="#navMap" id="nav">
+    <map name="navMap" id="navMap">
+      <area shape="rect" coords="0,0,136,33" href="/" alt="Home">
+      <area shape="rect" coords="135,0,299,33" href="/shoppingcart.asp" alt="View Cart">
+      <area shape="rect" coords="299,0,463,33" href="/myaccount.asp" alt="My Account">
+      <area shape="rect" coords="461,0,600,33" href="/help.asp" alt="Help">
+    </map>
+    </div>
     
- 	<h5 id="home"><a href="/">Home</a></h5>
- 	<h5 id="about_us"><a href="/aboutus.asp">About Us</a></h5>
-  	<h5 id="cart"><a href="/shoppingcart.asp">View Cart</a></h5>
-  	<h5 id="login"><a href="/myaccount.asp">My Account</a></h5>
-  	<h5 id="help"><a href="/help.asp">Help</a></h5>
+    
+<!---------------------- SHOPPING CART DISPLAY
+    <div id="cart_wrapper">
+    	My Cart (<div id="view_cart_text_right"></div>)          
+		<div id="display_cart_summary"><div class="cartsummary_empty">(Your shopping cart is empty)</div></div>
+    </div> ---------------------->
+    
+<!---------------------- SEARCH BOX ---------------------->
+		<div id="display_search_wrapper">
+        <div id="display_search">
+          <form action="/SearchResults.asp" method="get" name="SearchBoxForm">
+            <input type="text" value="Search..." name="Search" class="txtbox" id="search_box" onfocus="check_searchbox_focus(this)" onblur="check_searchbox_blur(this)">                 
+            <img src="/v/vspfiles/templates/ANSgear/images/template/btn_go_search.gif" border="0" align="top" style="cursor: pointer;" onclick="document.forms['SearchBoxForm'].submit();">
+          </form>
+        </div>
+      </div>
+        
 </div>
-
-<!-- ================================= CONTENT ================================= -->
+<div class="clear"></div>
+<!---------------------- CONTENT ---------------------->
 <div id="content">
-    <table border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-            <td id="left_nav" valign="top">
-            <div id="search_box_container">
-                <div id="search_box">
-                    <h3>Search</h3>
-                    <div id="display_search_box"><form name="SearchBoxForm" method="get" action="/SearchResults.asp">
-<table border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td valign="middle"><input type="text" name="Search" value="" maxlength="50"></td>
-<td valign="middle">&nbsp;<img style="cursor: pointer;" border="0" src="/v/vspfiles/templates/contempo/images/template/btn_go.gif" onclick="document.forms['SearchBoxForm'].submit();"></td>
-</tr>
-</tbody></table>
-</form>
-</div>
-                    </div>
-                <div id="DropDown_ShopBy_Price"><script type="text/javascript">
-function DropDown_ShopBy_Price_onChange(arg_value) {
-	if (arg_value !== "") {
-	window.location.href = '/SearchResults.asp?RefineBy_Price=' + arg_value;
-	}
-}
-</script>
-<form name="shopbyprice" method="get" action="">
-<select name="lowpricedropdown" onchange="DropDown_ShopBy_Price_onChange(this.options[lowpricedropdown.selectedIndex].value)">
-<option value="" selected="">Shop By Price</option>
-<option value="0-25">$0 - $25</option><option value="25-50">$25 - $50</option><option value="50-100">$50 - $100</option><option value="100-250">$100 - $250</option><option value="250-500">$250 - $500</option><option value="500-">$500 and up</option></select></form></div>
-                <div id="DropDown_ShopBy_Manufacturer"><script type="text/javascript">
-function DropDown_ShopBy_Manufacturer_onChange(arg_value) {
-	if (arg_value !== "") {
-	window.location.href = '/SearchResults.asp?mfg=' + (arg_value);
-	}
-}
-</script>
-<form name="ShopByMfg" method="get" action="">
-<select name="mfg" onchange="DropDown_ShopBy_Manufacturer_onChange(this.options[mfg.selectedIndex].value)">
-<option value="" selected="">Shop By Brand</option>
-<option value="32+Degrees">32 Degrees</option>
-<option value="A%2EN%2ES">A.N.S</option>
-<option value="Adco">Adco</option>
-<option value="AGD">AGD</option>
-<option value="ANS">ANS</option>
-<option value="APE">APE</option>
-<option value="Atlanco">Atlanco</option>
-<option value="Azodin">Azodin</option>
-<option value="BESTEK">BESTEK</option>
-<option value="Bob+Long">Bob Long</option>
-<option value="BT">BT</option>
-<option value="Check+It+Products">Check It Products</option>
-<option value="Classic+Army">Classic Army</option>
-<option value="CMI">CMI</option>
-<option value="Code+242">Code 242</option>
-<option value="Crosman">Crosman</option>
-<option value="Crossfire">Crossfire</option>
-<option value="Custom+Products">Custom Products</option>
-<option value="Cyclone+Paintball">Cyclone Paintball</option>
-<option value="Dangerous+Power">Dangerous Power</option>
-<option value="Deathstix">Deathstix</option>
-<option value="Derder">Derder</option>
-<option value="Diablo">Diablo</option>
-<option value="DLX+Technology%2FLuxe+Paintball">DLX Technology/Luxe Paintball</option>
-<option value="Draxxus">Draxxus</option>
-<option value="DYE">DYE</option>
-<option value="Dye+Precision+Inc%2E">Dye Precision Inc.</option>
-<option value="echo+1">echo 1</option>
-<option value="Empire">Empire</option>
-<option value="Enkay">Enkay</option>
-<option value="Evil">Evil</option>
-<option value="Extreme+Rage">Extreme Rage</option>
-<option value="Fedex">Fedex</option>
-<option value="First+Endeavor+Paintball">First Endeavor Paintball</option>
-<option value="Gen+X+Global">Gen X Global</option>
-<option value="Grippers">Grippers</option>
-<option value="Guerrilla+Air">Guerrilla Air</option>
-<option value="GXG">GXG</option>
-<option value="HALO">HALO</option>
-<option value="Hater+Paintball">Hater Paintball</option>
-<option value="Hundredth+Monkey">Hundredth Monkey</option>
-<option value="Hybrid">Hybrid</option>
-<option value="Indian+Creek+Designs">Indian Creek Designs</option>
-<option value="Infinity">Infinity</option>
-<option value="Invert">Invert</option>
-<option value="Ion">Ion</option>
-<option value="JAG">JAG</option>
-<option value="JT">JT</option>
-<option value="JT+USA">JT USA</option>
-<option value="Kila+Products">Kila Products</option>
-<option value="Kingman">Kingman</option>
-<option value="Lapco">Lapco</option>
-<option value="MacDev">MacDev</option>
-<option value="MADBULL">MADBULL</option>
-<option value="modify">modify</option>
-<option value="Nexed">Nexed</option>
-<option value="Next+Level">Next Level</option>
-<option value="Ninja">Ninja</option>
-<option value="NPS">NPS</option>
-<option value="NXe">NXe</option>
-<option value="O%2DRings">O-Rings</option>
-<option value="Orange">Orange</option>
-<option value="Paintball+Assassin">Paintball Assassin</option>
-<option value="Paintball+Caddy">Paintball Caddy</option>
-<option value="PCS">PCS</option>
-<option value="PCS+Paintball">PCS Paintball</option>
-<option value="Pinokio">Pinokio</option>
-<option value="Piranha">Piranha</option>
-<option value="Planet+Eclipse">Planet Eclipse</option>
-<option value="PMI">PMI</option>
-<option value="Propper">Propper</option>
-<option value="PROTO">PROTO</option>
-<option value="PSI">PSI</option>
-<option value="Psychoballistic">Psychoballistic</option>
-<option value="Psychoballistics">Psychoballistics</option>
-<option value="RADARchron">RADARchron</option>
-<option value="RAP4">RAP4</option>
-<option value="Raven">Raven</option>
-<option value="Reds">Reds</option>
-<option value="Redz">Redz</option>
-<option value="RPS">RPS</option>
-<option value="Rufus+Dawg">Rufus Dawg</option>
-<option value="Scott">Scott</option>
-<option value="Shocktech">Shocktech</option>
-<option value="Smart+Parts">Smart Parts</option>
-<option value="Socom+gear">Socom gear</option>
-<option value="SPD">SPD</option>
-<option value="Speed+Feed">Speed Feed</option>
-<option value="Sports+Sensors">Sports Sensors</option>
-<option value="Spyder">Spyder</option>
-<option value="Suicide+Guys">Suicide Guys</option>
-<option value="Sup%27+Air+Ball">Sup' Air Ball</option>
-<option value="Tac%2DForce">Tac-Force</option>
-<option value="Tadao">Tadao</option>
-<option value="Team+SD">Team SD</option>
-<option value="TechT">TechT</option>
-<option value="The+Seventh+Element">The Seventh Element</option>
-<option value="Tiberius+Arms">Tiberius Arms</option>
-<option value="Tippmann">Tippmann</option>
-<option value="Toxic+Performance">Toxic Performance</option>
-<option value="USPS">USPS</option>
-<option value="UTG">UTG</option>
-<option value="V%2DForce">V-Force</option>
-<option value="Vballs">Vballs</option>
-<option value="VForce">VForce</option>
-<option value="ViewLoader">ViewLoader</option>
-<option value="Virtue">Virtue</option>
-<option value="Virtue+Paintball">Virtue Paintball</option>
-<option value="War+Gear">War Gear</option>
-<option value="Warrior">Warrior</option>
-<option value="Warrior+Paintball">Warrior Paintball</option>
-<option value="WDP">WDP</option>
-<option value="WGP">WGP</option>
-<option value="WPN">WPN</option>
-<option value="X+Radar">X Radar</option>
-<option value="XO+Industries">XO Industries</option>
-</select></form></div>
-            </div>
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+      <td valign="top" id="left_nav">        
+        
 
-<!-- Begin Volusion Live Chat -->
-<div align="center" id="VolusionLiveChat"><a href="http://www.volusion.com/livechat_software.asp">Live Chat Software</a></div>
-<script defer="" type="text/javascript" src="https://livechat.volusion.com/script.aspx?id=26262"></script>
-<!-- End Volusion Live Chat -->
-
-&nbsp;&nbsp;<span style="font-size: 11pt;"><a href="http://forums.ansgear.com/">ANSgear Forums</a></span>
-
-            <h3 style="color: #000000; background-color: ;">Paintball Categories</h3>
-            <div id="display_menu_1">
+<!---------------------- UL LAYOUT ---------------------->
+        <div id="paintball"></div>
+        <div id="display_menu_1">
 <script type="text/javascript">var breadCrumb="||";</script>
 <script type="text/javascript">
 function mOvr1(src)
@@ -269,7 +146,7 @@ function mClk1(src, popup)
 	<a href="http://www.ansgear.com/Seventh_Element_Board_s/786.htm" title="Seventh Element Board">Seventh Element Boards</a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
-	<a href="http://www.ansgear.com/category_s/381.htm" title="">GIFT CERTIFICATES</a>
+	<a href="/GiftCert_default.asp?sendvia=Email" title="">GIFT CERTIFICATES</a>
 </li>
 <li class="nav" onmouseover="mOvr1(this);" onmouseout="mOut1(this);" onclick="mClk1(this);">
 	<a href="http://www.ansgear.com/category_s/1336.htm" title="">Paintball Graveyard</a>
@@ -282,9 +159,9 @@ function mClk1(src, popup)
 </li>
 </ul>
 </div>
-
-            <h3 style="color: #000000; background-color: ;">AIRSOFT Categories</h3>
-            <div id="display_menu_3">
+        
+        <div id="airsoft"></div>
+                <div id="display_menu_3">
 <script type="text/javascript">var breadCrumb="||";</script>
 <script type="text/javascript">
 function mOvr3(src)
@@ -302,7 +179,7 @@ function mClk3(src, popup)
 	<a href="http://www.ansgear.com/category_s/565.htm" title="">Airsoft Guns</a>
 </li>
 <li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
-	<a href="http://www.ansgear.com/category_s/1312.htm" title="">Airsoft Magazines</a>
+	<a href="http://www.ansgear.com/category_s/1312.htm" title="">Airsoft Magazines and Batteries</a>
 </li>
 <li class="nav" onmouseover="mOvr3(this);" onmouseout="mOut3(this);" onclick="mClk3(this);">
 	<a href="http://www.ansgear.com/category_s/1313.htm" title="">Airsoft Upgrades &amp; Acc.</a>
@@ -315,9 +192,9 @@ function mClk3(src, popup)
 </li>
 </ul>
 </div>
-            
-            <h3 style="color: #000000; background-color: ;">Quick Links</h3>
-            <div id="display_menu_2">
+         
+         <div id="quick-links">Quick Links</div>
+                <div id="display_menu_2">
 <script type="text/javascript">var breadCrumb="||";</script>
 <script type="text/javascript">
 function mOvr2(src)
@@ -333,13 +210,13 @@ function mClk2(src, popup)
 	<a href="http://forums.ansgear.com" title="ANSgear.com Paintball Gun &amp; Support Forum">ANSgear Info Forums</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
+	<a href="http://www.ansgear.com/ANSgear_Retail_Store_s/1643.htm" title="ANSgear Retail Store">ANSgear Retail Store</a>
+</li>
+<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
 	<a href="http://www.ansgear.com/ANSgear_Paintball_Sponsorship_s/1008.htm" title="ANSgear Paintball Sponsorship">ANSgear Sponsorship</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2('http://www.youtube.com/user/ANSgearPaintball', true);">
 	<a href="javascript: void(0);" title="">ANSgear Youtube</a>
-</li>
-<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
-	<a href="http://www.ansgear.com/Live_Online_Paintball_Support_s/1473.htm" title="Live Online Paintball Support">Live Online Support</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
 	<a href="http://www.paintball-gloves.com" title="">Paintball Gloves Blog</a>
@@ -351,36 +228,42 @@ function mClk2(src, popup)
 	<a href="http://www.ansgear.com/Paintball_Manufacturers_s/1200.htm" title="Paintball Manufacturers">Paintball Manufacturers</a>
 </li>
 <li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
+	<a href="http://www.ansgear.com/Paintball_Price_Matching_s/1639.htm" title="Paintball Price Matching">Price Matching Info</a>
+</li>
+<li class="nav" onmouseover="mOvr2(this);" onmouseout="mOut2(this);" onclick="mClk2(this);">
 	<a href="http://www.myspace.com/ansgear" title="">ANSgear MySpace Page</a>
 </li>
 </ul>
 </div>
+                
+                <!---------------------- Mailing List Section ---------------------->
+                <div id="eList">
+              <form name="MailingList" method="post" action="MailingList_subscribe.asp">
+                <input id="elist_field" name="emailaddress" type="text" value="Email Address" onfocus="check_mailbox_focus(this)" onblur="check_mailbox_blur(this)">
+                <input id="elist_btn" name="Submit" type="image" src="/v/vspfiles/templates/ANSgear/images/template/mail_btn_search.gif" border="0" value="">
+              </form>
+        </div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.santabarbara.bbb.org/BusinessReport.aspx?CompanyID=5001261"><img src="http://www.santabarbara.bbb.org/images/clickratingsm.gif" width="135" height="52" border="0"></a>
-                            
-            <div id="display_promotions_999"><br><a href="javascript:void(0);" onclick="window.open('help_FreeShipping.asp', 'FreeShipping', 'scrollbars,status,resizable,width=300,height=300');"><img src="/v/vspfiles/images/free_shipping.jpg" border="0"></a><br><br><img src="/v/vspfiles/templates/contempo/images/logos/paypal.gif" border="0"><br><br>
-<form name="MailingList" method="post" action="/MailingList_subscribe.asp">
 
-<b><font color="FFFFFF">Join our mailing list!</font></b><br>
+<!-- Begin Volusion Live Chat -->
+<div align="center" id="VolusionLiveChat"><a href="http://www.volusion.com/livechat_software.asp">Live Chat 
+Software</a></div>
+<script defer="" type="text/javascript" src="https://livechat.volusion.com/script.aspx?id=26262"></script>
+<!-- 
+End Volusion Live Chat -->
 
-<script language="Javascript">
-if (is_nav4) {
-	document.write('<input type=text style="font-size:11px;" name=emailaddress size=13 maxlength=50>');
-} else if (is_nav5up) { 
-	document.write('<input type=text style="font-size:11px;" name=emailaddress size=20 maxlength=50>');
-} else { 
-	document.write('<input type=text style="font-size:11px;" name=emailaddress size=20 maxlength=50>');
-} 
-</script><input type="text" style="font-size:11px;" name="emailaddress" size="20" maxlength="50">
-
-<div align="right"><center>
-<input type="submit" name="Submit" value="Join Now">
-</center></div>
-
-</form>
-<br><br><img src="/v/vspfiles/templates/contempo/images/logos/cc_logo3.gif" border="0"><br><br><a href="javascript:void(0);" onclick="window.open('https://www.volusion.com/ssl.asp?url=www.ansgear.com', 'VolusionSSL', 'top=10,left=10,menubar=0,resizable=0,scrollbars=0,width=450,height=470')"><img src="/v/vspfiles/images/ssl/seal_volusion1_white.gif" border="0"></a><br></div>	    
-            </td>
-            <td id="content_area" valign="top">
+                       
+        <!--div id="DropDown_ShopBy_Manufacturer" param_defaultvalue="Shop By Brand">
+        <select><option>Shop By </option></select></div-->
+        <!--div id="DropDown_ShopBy_Price" param_defaultvalue="Shop By Price">
+        <select><option>Shop By </option></select></div-->
+        <!--div id="DropDown_ShopBy_Category" param_category="X" param_defaultvalue="Shop By Category">
+        <select><option>Shop By </option></select></div-->
+            
+        <div id="display_promotions_999"><br><img src="/v/vspfiles/templates/ANSgear/images/logos/paypal.gif" border="0"><br><br><a href="javascript:void(0);" onclick="window.open('https://www.volusion.com/ssl.asp?url=www.ansgear.com', 'VolusionSSL', 'top=10,left=10,menubar=0,resizable=0,scrollbars=0,width=450,height=470')"><img src="/v/vspfiles/images/ssl/seal.gif" border="0"></a><br><br><img src="/v/vspfiles/templates/ANSgear/images/logos/bbb.gif" border="0"><br><br><img src="/v/vspfiles/templates/ANSgear/images/logos/cc.gif" border="0"><br></div>
+        
+      </td>
+      <td id="content_area" valign="top">
     <table width="100%" border="0" cellspacing="5" cellpadding="5" align="center">
         <tbody><tr> 
           <td>
@@ -398,97 +281,56 @@ if (is_nav4) {
 
  
 </td>
-        </tr>
-    </tbody></table>
+      <td width="151" valign="top" id="content_right"><a href="https://livechat03.volusion.com/livechat.aspx?ID=26262&amp;location=http%3a//www.ansgear.com/default.asp%3fredirected%3dy&amp;auto=0&amp;cookieGuid=ffqctfve4d3mbqblhmgmmzbq&amp;DeptID=&amp;Agent=&amp;tType=" onclick="popup = window.open('https://livechat03.volusion.com/livechat.aspx?ID=26262&amp;location=http%3a//www.ansgear.com/default.asp%3fredirected%3dy&amp;auto=0&amp;cookieGuid=ffqctfve4d3mbqblhmgmmzbq&amp;DeptID=&amp;Agent=&amp;tType=', 'PopupPage', 'height=450,width=500,scrollbars=yes,resizable=yes'); return false" target="_blank"><img src="/v/vspfiles/templates/ANSgear/images/template/live-chat.gif" width="150" height="83"></a><br><br><a href="help_FreeShipping.asp"><img src="/v/vspfiles/templates/ANSgear/images/template/free-shipping.gif" width="150" height="102" alt="Free Shipping on orders over $100"></a><br><br><a href="/Paintball_Sale_Gear_All_Your_Discounted_Paintball_Gear_s/531.htm"><img src="/v/vspfiles/templates/ANSgear/images/template/paintball-sale.gif" width="150" height="100" alt="Paintball Sale"></a><br><br><a href="/category_s/1639.htm"><img src="/v/vspfiles/templates/ANSgear/images/template/price-matching.gif" width="150" height="100" alt="Price Matching"></a><br><br><a href="/aboutus.asp"><img src="/v/vspfiles/templates/ANSgear/images/template/contact-us.gif" width="150" height="100" alt="Contact Us"></a><br><br><a href="http://forums.ansgear.com/" target="_blank"><img src="/v/vspfiles/templates/ANSgear/images/template/ansgear-forums.gif" width="150" height="100" alt="ANSgear Forums"></a><br><br><a href="/ANSgear_Retail_Store_s/1643.htm"><img src="/v/vspfiles/templates/ANSgear/images/template/retail-showroom.gif" width="150" height="100" alt="Retail Showroom"></a></td>
+    </tr>
+  </tbody></table>
 </div>
 
-<!-- ================================= JAVASCRIPT ================================= -->
-<script language="JavaScript1.2">
-<!--
-var bookmarkurl=window.location.href.substr(0, window.location.href.indexOf('/', 8) + 1) + '';
-if (document.title) { var bookmarktitle=document.title; }
-else { var bookmarktitle="";}
-var bookmarktext="Bookmark Us"
-if (navigator.appName == "Netscape") {
- bookmarktext="Bookmark Us (CTRL+D)";
-}
-else if (navigator.appName == "Opera") {
-bookmarktext="Bookmark Us (CTRL+T)";
-}
-function addbookmark()
-{
- if (window.sidebar) {
- window.sidebar.addPanel(bookmarktitle, bookmarkurl, "");
-}
- else if (window.external) {
-window.external.AddFavorite(bookmarkurl, bookmarktitle);
-}
-}
-//-->
-</script>
-
-<!-- ================================= FOOTER ================================= -->
+<!---------------------- FOOTER ---------------------->
 <div id="footer">
 	<div id="footer_top">
-
-
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-287947-8");
-pageTracker._trackPageview();
-</script>
-
-
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-2879478-1");
-pageTracker._trackPageview();
-</script>
-
 		<ul>
-			<li><a href="/aboutus.asp">About Us</a> </li>
-			<li><a href="/affiliate_signup.asp">Become an Affiliate</a> </li>
-			<li><a href="/terms_privacy.asp">Privacy Policy</a> </li>
-			<li><a href="mailto:customer@ansxtreme.com?subject=Customer Feedback for WWW.ANSGEAR.COM">Send Us Feedback</a></li>
-			<li class="last"><a href="javascript:addbookmark()">Bookmark Us</a></li>
+		<li><a href="/aboutus.asp">About Us</a></li>
+        <li><a href="/terms_privacy.asp">Privacy Policy</a></li>
+        <li><a href="mailto:customer@ansxtreme.com?subject=Customer Feedback for WWW.ANSGEAR.COM">Send Us Feedback</a></li>
+        <li><a href="javascript:addbookmark()">Bookmark Us</a></li>
+        <li><a href="#">Us Company Info</a></li>
+        <li><a href="#">Advertising</a></li>
+        <li><a href="/pindex.asp">Product Index</a></li>
+        <li><a href="/cindex.asp">Category Index</a></li>
+		<li><a href="/help.asp">Help</a></li>
+		<li><a href="/terms.asp" class="end">Terms of Use</a></li>
 		</ul>
 	</div>
-<div id="footer_bottom">
-    <ul>
-       <li><a href="http://www.ansgear.com//aboutus.asp"> Company Info</a> | <a href="http://www.ansgear.com//articles.asp?ID=7"> Advertising</a> | <a href="http://www.ansgear.com//pindex.asp"> Product Index</a> | <a href="http://www.ansgear.com//cindex.asp"> Category Index</a> | <a href="http://www.ansgear.com//help.asp"> Help</a> | <a href="http://www.ansgear.com//terms.asp"> Terms of Use</a></li>
-    
-	<li><a href="http://www.ansgear.com//terms.asp">Copyright © <script type="text/javascript">document.write((new Date()).getYear());</script>120&nbsp; WWW.ANSGEAR.COM. All Rights Reserved.</a></li>
 	
-				
-				
-				
-				
-				
-	
-<!--				
-	===========================================================================================
-		VOLUSION LINK - BEGIN
-	===========================================================================================
-		Customer has agreed per Volusion’s Terms of Service (http://www.volusion.com/agreement_monthtomonth.asp)
-		to maintain a text hyperlink to "http://www.volusion.com" in the footer of the website. The link must be standard html, contain no javascript, and be approved by Volusion. Removing this link breaches the Volusion agreement.
-	-->
-		<li>Shopping Cart Powered by <a href="http://www.volusion.com" title="Shopping Cart Software" target="_blank">Volusion</a>.</li>
+    <div id="footer_bottom">
+	<p><a href="/terms.asp">Copyright © <script type="text/javascript">document.write((new Date()).getFullYear());</script>2020  &nbsp;WWW.ANSGEAR.COM. All Rights Reserved.</a>
 
-	<!--
-	===========================================================================================
-		VOLUSION LINK - END
-	===========================================================================================
-	-->
-    </ul>
-  </div>	    
-                
+<!--===========================================================================================
+				VOLUSION LINK - BEGIN
+===============================================================================================
+Customer has agreed per Volusion�s Terms of Service (http://www.volusion.com/agreement_monthtomonth.asp) to maintain a text hyperlink to "http://www.volusion.com" in the footer of the website. The link must be standard html, contain no javascript, and be approved by Volusion. Removing this link breaches the Volusion agreement.-->   
+
+	Ecommerce Site Design by <a href="http://www.volusion.com" title="Shopping Cart Software" target="_blank">Volusion</a>.<br>Other ANSgear.com web properties ANSgear. ANS Xtreme. Warrior Paintball. ANSgear Blog. YouTube Channel.</p>
+<!--===========================================================================================
+				VOLUSION LINK - END
+============================================================================================-->
+
+	</div>
 </div>
+</div>
+<!---------------------- BOOKMARK JS FILE ---------------------->
+<script src="/v/vspfiles/templates/ANSgear/js/bookmark.js" type="text/javascript"></script>
+<!---------------------- SHOPPING CART DISPLAY JS FILE
+<script src="/v/vspfiles/templates/custom/js/shopping_cart_summary.js" type="text/javascript"></script>
+<script src="/v/vspfiles/templates/custom/js/header_cart_summary.js" type="text/javascript"></script> ---------------------->
+<!---------------------- REMOVE BREAD CRUMB
+<script src="/v/vspfiles/templates/custom/js/removebreadcrumb.js" type="text/javascript"></script> ---------------------->
+<!---------------------- ACTIVE TAB
+<script src="/v/vspfiles/templates/custom/js/activetab.js" type="text/javascript"></script> ---------------------->
+<!---------------------- RANDOM IMAGE
+<script src="/v/vspfiles/templates/custom/js/activetab.js" type="text/javascript"></script> ---------------------->
+
 
 
 <script type="text/javascript">function store_init(event){protect_images1();} AttachEvent(window, 'load', store_init);</script>
@@ -497,5 +339,16 @@ pageTracker._trackPageview();
 	protect_images1();
 </script>
 
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-2879478-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
 
 </body></html>
