@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iomoio.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618192128id_/http%3A//www.iomoio.com/help/3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iomoio.com privacy policy that was archived on 2009-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091019111228id_/http%3A//www.iomoio.com/help/3) for the most accurate reproduction.*
 
 # Mp3 Music Downloads Store
 
