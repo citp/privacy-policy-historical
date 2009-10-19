@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datacenterknowledge.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617063759id_/http%3A//www.datacenterknowledge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datacenterknowledge.com privacy policy that was archived on 2009-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091019045955id_/http%3A//www.datacenterknowledge.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Data Center Knowledge
 
