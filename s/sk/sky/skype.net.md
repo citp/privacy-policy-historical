@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skype.net privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428221103id_/http%3A//www.skype.com/go/legal.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skype.net privacy policy that was archived on 2009-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091019093707id_/http%3A//www.skype.com/go/legal.privacy) for the most accurate reproduction.*
 
 # Skype Privacy Statement
 
@@ -92,7 +92,7 @@ Our primary purpose in collecting information is to provide you with a safe, smo
 
 • organise and carry out Skype’s and/or the eBay Group’s marketing or promotional operations/offers, contests, games and similar events; and
 
-• rotect your, Skype and the eBay Group’s interests, including in particular to enforce our Terms of Service and fight against fraud,
+• protect your, Skype and the eBay Group’s interests, including in particular to enforce our Terms of Service and fight against fraud,
 
 (together, the **Purposes** ).
 
@@ -164,7 +164,7 @@ Skype reserves the right to modify the provisions of this Privacy Statement if d
 
 **12\. WHAT RIGHTS DO YOU HAVE AND HOW CAN YOU CONTACT SKYPE?**
 
-You have the right to access and, where relevant, to amend your personal information. Some of your information may be viewed or edited online by logging into your My Account page on www.skype.com. We will respond to requests to view, correct, complete or remove your personal information within a reasonable period of time and upon verification of your identity. Please address any questions to [support@skype.net](mailto:support@skype.net).
+You have the right to access and, where relevant, to amend your personal information. Some of your information may be viewed or edited online by logging into your My Account page on www.skype.com. We will respond to requests to view, correct, complete or remove your personal information within a reasonable period of time and upon verification of your identity. Please address any questions to our [customer support team](https://support.skype.com/support_request).
 
 Skype will use its best endeavours to accommodate requests to delete personal information unless it is required to be retained by law or for lawful business purposes. However, please note that due to the technical nature of the peer to peer network, it can sometimes take up to two weeks before your Skype ID disappears completely from the peer to peer network. Your details may still appear in the search directory during this time.
 
