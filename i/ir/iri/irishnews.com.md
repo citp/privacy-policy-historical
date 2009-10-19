@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irishnews.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619070654id_/http%3A//www.irishnews.com/privacyst.asp%3Fcatid%3D5834) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishnews.com privacy policy that was archived on 2009-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091019110135id_/http%3A//www.irishnews.com/privacyst.asp%3Fcatid%3D5834) for the most accurate reproduction.*
 
 # The Irish News - Online Newspaper for Ireland - irishnews.com
 
@@ -34,12 +34,12 @@ If you would like more information about this practice and to know your choices 
 
 For further information contact:
 
-**Martin Falvey**  
-Internet Technician  
-[martin@irishnews.com](mailto:martin@irishnews.com)  
-
-
 **Ruairí ONeill**  
 Web Designer  
 [r.oneill@irishnews.com](mailto:r.oneill@irishnews.com)   
+
+
+**Michael Mathews**  
+Junior Web Designer  
+[m.mathews@irishnews.com](mailto:m.mathews@irishnews.com)  
 
