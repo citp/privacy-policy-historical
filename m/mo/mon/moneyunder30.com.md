@@ -1,11 +1,23 @@
-> *The following text is extracted and transformed from the moneyunder30.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417223028id_/http%3A//www.moneyunder30.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyunder30.com privacy policy that was archived on 2009-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091019112130id_/http%3A//www.moneyunder30.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Money Under 30 Privacy Policy : Personal Finance for the Young and Ambitious
+# Privacy Policy | Money Under 30
 
-Money Under 30 cares about your privacy. Money Under 30 does not use cookies or otherwise collect personal information about our visitors. 
+## Privacy Policy
 
-All content on Money Under 30 is provided free of charge as the site is supported by advertising. Due to the nature of online advertising, certain non-personal information is collected by third-parties, including Money Under 30 visitors’ geographic location. This information may be used to display relevant advertising to each visitor. This information is otherwise strictly confidential. 
+_Last Update: May 1, 2008_
 
-The email addresses of visitors who choose to subscribe to Money Under 30’s [free personal finance newsletter](http://www.moneyunder30.com/personal-finance-newsletter) are strictly confidential. Subscriber email addresses will only be used to deliver relevant personal finance news directly from Money Under 30, and will never be shared will any third party.
+Money Under 30 is committed to protecting the privacy of your personal information.
 
-If you have any questions about this privacy policy, please [get in touch](mailto:david@moneyunder30.com).
+Money Under 30 will never require you to create an account or share any personally identifiable information with us in order to use the site.
+
+When you choose to apply for a credit card or other financial product featured at Money Under 30, you are taken directly to a secure page on the financial institution’s website where you will provide the information required to be considered for a financial product.
+
+Money Under 30 does automatically collect some non-personally identifiable information. This information may include your IP address and geographic location, which is used to diagnosis problems and enhance our services based upon our user demographics. This information will NEVER be connected to you or your individual computer.
+
+Additionally, Money Under 30 allows third party partners to place session cookies on your computer to collect non-personally identifiable information such as aggregate use statistics for internal evaluation of the site. No personally identifiable information is collected, and all data is deleted periodically.
+
+Money Under 30 does not sell or share any information about our visitors.
+
+If you have any questions or concerns regarding your privacy on our site, please contact us.
+
+The Money Under 30 privacy policy is subject to change, and any modifications will be reflected on this page.
