@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the infosalons.biz privacy policy that was archived on 2008-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080919001025id_/https%3A//www.infosalons.com.au/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infosalons.biz privacy policy that was archived on 2009-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091019220937id_/http%3A//www.infosalons.com.au/privacy-policy.html) for the most accurate reproduction.*
 
-# Info Salons - The Registration People
+# Info Salons - Privacy Policy
 
   | 
 
@@ -30,7 +30,6 @@ Linda Haughton
 Executive Manager – Events/Operations   
 28 June 2007 
 
-|  [](https://web.archive.org/web/20080919001025id_/https%3A//www.infosalons.com.au/RequestaQuoteForm.html)  
-[  
-](http://infosalons.biz/InfoTracker_AUS/)[](http://control.viostream.com/play/preview.asp?play=185C1B27-19A3-499C-943E-2CA62FCCE190&setplay=no)  
-[](https://web.archive.org/web/20080919001025id_/https%3A//www.infosalons.com.au/mediacentre-subscribetoiex.html)[](https://web.archive.org/web/20080919001025id_/https%3A//www.infosalons.com.au/aboutus_careers.html)
+| 
+
+[](http://meetingsreview.com/news/2009/09/30/Technology_means_there_is_life_after_your_event)
