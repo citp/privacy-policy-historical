@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sony.com.au privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611145800id_/http%3A//www.sony.com.au/section/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sony.com.au privacy policy that was archived on 2009-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091019100825id_/http%3A//www.sony.com.au/section/privacypolicy) for the most accurate reproduction.*
 
 # Sony Australia Limited Privacy Policy : Privacy Policy : Sony Australia
 
