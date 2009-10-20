@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phoenixnewtimes.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620193847id_/http%3A//www.phoenixnewtimes.com/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phoenixnewtimes.com privacy policy that was archived on 2009-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091021014113id_/http%3A//phoenixnewtimes.com/about/privacyPolicy) for the most accurate reproduction.*
 
 # Phoenix Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Privacy Policy
 
-[](http://www.phoenixnewtimes.com/karaokeidol)
+[](http://polls.phoenixnewtimes.com/polls/phx/listings/)
 
 ## Village Voice Media
 
