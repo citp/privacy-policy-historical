@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the sfweekly.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619200816id_/http%3A//www.sfweekly.com/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfweekly.com privacy policy that was archived on 2009-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091020123836id_/http%3A//www.sfweekly.com/about/privacyPolicy) for the most accurate reproduction.*
 
 # San Francisco Privacy Policy
 
 [](https://web.archive.org/)
 
 Privacy Policy
-
-[](http://www.sfweekly.com/about/index)
 
 ## Village Voice Media
 
@@ -70,6 +68,6 @@ In the event of a sale of SF Weekly or a sale of substantially all SF Weekly's a
 
 If you have any questions about this privacy policy, e-mail them to [privacyadministrator@villagevoicemedia.com](mailto:privacyadministrator@villagevoicemedia.com), and be sure to indicate the specific site you're visiting and the nature of your question or concern. If your personally identifiable information changes, you may correct and/or update it by sending us an email at [web@newtimes.com](mailto:web@newtimes.com). 
 
-[](http://www.sfweekly.com/microsites/txtalerts/)
+[](http://www.sfweekly.com/readers/register/)
 
 foam order.com 
