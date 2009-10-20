@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovein90days.com privacy policy that was archived on 2009-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090528160323id_/http%3A//lovein90days.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovein90days.com privacy policy that was archived on 2009-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091020082612id_/http%3A//lovein90days.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Love in 90 Days - lovein90days.com
 
@@ -42,6 +42,6 @@ This site gives the following options for changing and modifying information pre
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [**contact us**](https://web.archive.org/web/20090528160323id_/http%3A//lovein90days.com/contact_drdiana.php) by filling out the [**contact form**](https://web.archive.org/web/20090528160323id_/http%3A//lovein90days.com/contact_drdiana.php).   
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [**contact us**](https://web.archive.org/web/20091020082612id_/http%3A//lovein90days.com/contact_drdiana.php) by filling out the [**contact form**](https://web.archive.org/web/20091020082612id_/http%3A//lovein90days.com/contact_drdiana.php).   
   
 Copyright © 2008 **\- Love in 90 Days -** All rights reserved
