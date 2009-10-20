@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intralinks.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619201209id_/http%3A//www.intralinks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intralinks.com privacy policy that was archived on 2009-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091020113428id_/http%3A//www.intralinks.com/privacy-policy) for the most accurate reproduction.*
 
 # IntraLinks Legal Notices
 
@@ -100,3 +100,8 @@ If a complaint that cannot be resolved through our internal processes, we agree 
 
 **How do the Safe Harbor principles apply to information posted by IntraLinks’ clients in a Workspace?**  
 We adhere to the applicable Safe Harbor principles in connection with information uploaded to our Service by End Users and maintained in a Workspace. Our Service provides our clients with a central location where they can post information and make it accessible to any party they authorize. We do not undertake to know, and clients have no obligation to inform us, whether the information contained in a Workspace includes personal data. We are not responsible for the content of the information posted in a Workspace nor do we decide who has access to such information. We perform limited processing of information for our clients and accordingly not all of the Safe Harbor principles are applicable to our Service. For more information, please visit: <http://www.export.gov/safeharbor/>. [Top](https://web.archive.org/privacy-policy/#top)
+
+[We self-certify compliance with:](http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list)
+
+[](http://www.export.gov/safeharbor)  
+ 
