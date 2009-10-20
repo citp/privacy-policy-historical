@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alsearsmd.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618142313id_/http%3A//www.alsearsmd.com/content/index.php%3Fid%3D122) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alsearsmd.com privacy policy that was archived on 2009-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091020153635id_/http%3A//www.alsearsmd.com/content/index.php%3Fid%3D122) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,8 +31,13 @@ Dr. Sears' Books**
 
 [](https://web.archive.org/content/index.php?id=116)
 
-|  |  | [](http://www.alsearsmd.com/content/index.php?id=121&no_cache=1&sword_list\[\]=glycemic&sword_list\[\]=index)  
----|---  
+|  |  | 
+
+**Sign up TODAY!**   
+Simply sign up to receive Dr. Al Sears' FREE Health e-letter (5 x per week) and we'll immediately send you his most recent research report, **_Seven Steps to a More Youthful Life..._** absolutely FREE:  
+  
+---  
+[](http://www.alsearsmd.com/content/index.php?id=121&no_cache=1&sword_list\[\]=glycemic&sword_list\[\]=index)  
   
 Dr. Sears recognizes the importance of protecting your personal information and your trust in us. Therefore, we take the responsibility of handling your personal information extremely seriously.
 
