@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the progress.com privacy policy that was archived on 2009-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090217113557id_/http%3A//www.progress.com/privacy/index.ssp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the progress.com privacy policy that was archived on 2009-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091020225402id_/http%3A//web.progress.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy: Progress Software Corporation
-
-[](https://web.archive.org/web/20090217113557id_/http%3A//www.progress.com/privacy/index.ssp?printable=true)
+# Privacy Policy | Progress Software
 
 **Last update: Monday, October 4, 2004**
 
