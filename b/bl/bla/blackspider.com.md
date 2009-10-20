@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the blackspider.com privacy policy that was archived on 2009-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090425073859id_/http%3A//www.websense.com/site/footer/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackspider.com privacy policy that was archived on 2009-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091020095423id_/http%3A//www.websense.com/site/footer/privacypolicy.html) for the most accurate reproduction.*
 
-# Websense.com — Evaluate
-
-## Privacy Policy
+# Websense.com — Privacy Policy
 
 **Websense Inc. Privacy Policy**
 
