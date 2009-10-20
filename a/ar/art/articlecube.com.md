@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the articlecube.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618142946id_/http%3A//www.articlecube.com/site.php%3Fview%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlecube.com privacy policy that was archived on 2009-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091020153310id_/http%3A//www.articlecube.com/site.php%3Fview%3Dprivacypolicy) for the most accurate reproduction.*
 
-# Article Directory - Free Articles - ArticleCube
+# About Us - Contact Us - TOS - Privacy Policy - ArticleCube
 
 ArticleCube.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period. 
 
