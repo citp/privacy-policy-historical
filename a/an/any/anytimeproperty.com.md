@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the anytimeproperty.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422052125id_/http%3A//anytimeproperty.com/index.php%3Fpg%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anytimeproperty.com privacy policy that was archived on 2009-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091021035738id_/http%3A//www.anytimeproperty.com/index.php%3Fpg%3Dpolicy) for the most accurate reproduction.*
 
-# Real Estate Property India | Leading Real Estate Portal | Properties for Sale in Chennai India | Buy Sell Rent Residential Property India | Commercial Property in India | Real Estate Listings.
+# Real Estate Property India | Buy Sell Rent Real Estate Property India | Real Estate Portal | Properties for Sale in Chennai India | Commercial Property in India.
 
 Anytimeproperty.com website is owned and operated by Anytime Infotech Pvt Ltd (Formerly known as Anytimeproperty.Com Pvt Ltd). We have created this privacy policy statement in order to demonstrate our commitment to our user's privacy.
 
@@ -29,11 +29,11 @@ We may use IP address to help diagnose problems with our server, and to administ
 
 **Links to third party companies**
 
-We may use a third party ad company to display ads on [anytimeproperty.com](http://anytimeproperty.com/index.php). These ads may contain cookies. While we may use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.  
+We may use a third party ad company to display ads on [anytimeproperty.com](http://www.anytimeproperty.com/index.php). These ads may contain cookies. While we may use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.  
 
 
 **Notice**
 
 We may change this Privacy Policy from time to time based on your comments or as a result of a change of policy in our company. We will prominently post a link to those changes on our Homepage so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-If you have any questions regarding this statement, please write to us: [Contact Us](http://anytimeproperty.com/index.php?pg=contactus)             
+If you have any questions regarding this statement, please write to us: [Contact Us](http://www.anytimeproperty.com/index.php?pg=contactus)             
