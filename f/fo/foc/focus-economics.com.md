@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the focus-economics.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617142523id_/http%3A//focus-economics.com/en_UK/est/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the focus-economics.com privacy policy that was archived on 2009-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091021185330id_/http%3A//www.focus-economics.com/en_UK/est/privacy.php) for the most accurate reproduction.*
 
 # Focuseconomics
 
