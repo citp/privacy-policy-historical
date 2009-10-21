@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wiserearth.org privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619212539id_/http%3A//www.wiserearth.org/article/a1ac3659e7976b931c38660fa4921a95) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiserearth.org privacy policy that was archived on 2009-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091021060959id_/http%3A//www.wiserearth.org/article/a1ac3659e7976b931c38660fa4921a95) for the most accurate reproduction.*
 
 # Article: Privacy Policy - WiserEarth
 
