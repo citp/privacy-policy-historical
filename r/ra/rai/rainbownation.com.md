@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rainbownation.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420043824id_/http%3A//www.rainbownation.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rainbownation.com privacy policy that was archived on 2009-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091021210946id_/http%3A//www.rainbownation.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement for RainbowNation.com
 
