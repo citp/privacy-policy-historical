@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolestone.com privacy policy that was archived on 2009-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090425160124id_/http%3A//www.coolestone.com/index.php%3Fview%3Dinfo_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolestone.com privacy policy that was archived on 2009-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091022012206id_/http%3A//www.coolestone.com/index.php%3Fview%3Dinfo_privacy) for the most accurate reproduction.*
 
 # The Coolest One -
 
