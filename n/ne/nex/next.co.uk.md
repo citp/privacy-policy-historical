@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the next.co.uk privacy policy that was archived on 2009-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090307055714id_/http%3A//www.next.co.uk/help/WinHelpSC.asp%23LID%3D01_99_01) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the next.co.uk privacy policy that was archived on 2009-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091021030016id_/http%3A//www.next.co.uk/help/WinHelpSC.asp%23LID%3D01_99_01) for the most accurate reproduction.*
 
 # Next: Official Site - Privacy Policy
 
@@ -119,6 +119,10 @@ We may also use your information, including shopping habits, to open and run you
 We may contact you for marketing purposes by email, mail or telephone with relevant offers from the following Next Group Companies: Next Retail Limited and Lipsy Limited.
 
 Next Directory is a trading name of Next Retail Ltd and a member of Next Group Plc. Some of the information you provide may be transferred outside the European Economic Area for processing. However, strict rules regarding the confidentiality of security of your information are in place to safeguard it.
+
+### Changes to the Privacy Policy
+
+We keep our privacy policy under regular review and we will place any updates in this webpage. This privacy policy was last updated on 26th April 2009.
 
 ### Head Office Contact Details
 
