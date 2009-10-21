@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thestate.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617063738id_/http%3A//www.thestate.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestate.com privacy policy that was archived on 2009-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091021090015id_/http%3A//www.thestate.com/privacy_policy) for the most accurate reproduction.*
 
 # The State Privacy
 
