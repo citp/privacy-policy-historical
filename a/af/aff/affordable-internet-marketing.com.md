@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the affordable-internet-marketing.com privacy policy that was archived on 2009-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090519050554id_/http%3A//www.affordable-internet-marketing.com/2004/06/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affordable-internet-marketing.com privacy policy that was archived on 2009-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091021131617id_/http%3A//www.affordable-internet-marketing.com/2004/06/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Affordable Internet Marketing
+# Privacy Policy – Affordable Internet Marketing
 
 This is the web site of Affordable Internet Marketing.  
 This site is owned by Case Stevens  
@@ -49,8 +49,12 @@ If you send us an email we will store your information such as name and email ad
 
 In case of a survey or site registration we will store your information with the highest care for your personal data and we will only use such data for as long as strictly necessary.
 
-Welcome to Affordable Internet Marketing Blog.  
-You may want to [Subscribe to my Updates](http://www.affordable-internet-marketing.com/subscribe.php) or to my [RSS feed](http://www.affordable-internet-marketing.com/feed/). Thanks for visiting!
+**Data collection of non-personally identifying information**  
+We use third-party advertising companies to serve ads when you visit our website.  
+These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.  
+If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
+
+Popularity: 5% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
 
 **Bookmark for later reading:**
 
