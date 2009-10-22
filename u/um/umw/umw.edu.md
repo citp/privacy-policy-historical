@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the umw.edu privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623084429id_/http%3A//www.umw.edu/policies/web/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umw.edu privacy policy that was archived on 2009-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091022140510id_/http%3A//www.umw.edu/policies/web/privacy) for the most accurate reproduction.*
 
 # UMW - Internet Privacy Policy
 
