@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the frappr.com privacy policy that was archived on 2009-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090619153844id_/http%3A//www.frappr.com/%3Fa%3Ddoc%26section%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the frappr.com privacy policy that was archived on 2009-10-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091022062001id_/http%3A//www.frappr.com/%3Fa%3Ddoc%26section%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
     <title>Platial.com</title>
@@ -8,35 +8,121 @@
 
     <meta name="description" content="Make maps of unique places on Platial.com, a socially networked mapping platform which makes it easy to find, create, share, and publish maps and places.">
 <meta name="tags" content="geo, geotag, map, mapping, atlas, people's atlas, places, maps, locations, sharing, autobiography, autobiogeography, neogeography, platial, geospatial, collective mapping, collaborative mapping, social, social software, georss, metadata, tagging, folksonomy, groupmaps, mashups, web2.0, google, tools, geotagging, googlemaps, community, rdf, json, cartography">
-        <script src="/scripts/mootools/mootools.v1.11.js?v=5.9" type="text/javascript" charset="utf-8"></script>
-            <link href="/css/non_map_c.css" rel="stylesheet" type="text/css">
-                <link rel="stylesheet" type="text/css" href="/css/nav_c.css?v=5.9">
+      <script src="/scripts/mootools/mootools.v1.11.js?v=6.66" type="text/javascript" charset="utf-8"></script>
+          <link href="/css/non_map_c.css" rel="stylesheet" type="text/css">
+                    
+    
+    <link rel="stylesheet" type="text/css" href="/css/nav_c.css?v=6.66">
     <!--[if lte IE 6]>
-      <link href="/css/ie6_c.css?v=5.9" media="screen" rel="Stylesheet" type="text/css" />
+      <link href="/css/ie6_c.css?v=6.66" media="screen" rel="Stylesheet" type="text/css" />
     <![endif]-->
     <!--[if IE 7]>
-      <link href="/css/ie7_c.css?v=5.9" media="screen" rel="Stylesheet" type="text/css" />
+      <link href="/css/ie7_c.css?v=6.66" media="screen" rel="Stylesheet" type="text/css" />
     <![endif]-->
-            <script src="/scripts/platial_site.js?v=5.9" type="text/javascript" charset="utf-8"></script>
-            <script type="text/javascript">
-    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-    <script type="text/javascript">
-    var pageTracker = _gat._getTracker("UA-734433-1");
-    pageTracker._trackPageview();
-    </script>
+    
+
+          <script src="/scripts/platial_site.js?v=6.66" type="text/javascript" charset="utf-8"></script>
         
-        
+                <script type="text/javascript">
+          var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+          document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+        </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+        <script type="text/javascript">
+          var pageTracker = _gat._getTracker("UA-734433-1");
+          pageTracker._trackPageview();
+        </script>
+          
+    
+            
+    
+    <!-- GOOGLE/FIREFOX CURRENT LOCATION SCRIPT -->
+    <script type="text/javascript" charset="utf-8" src="/scripts/current_location.js"></script>
+
+    
+    
   </head>
   <body>
   <div id="page_content_wrapper">
           
 
-<div id="header" class="png">
-<a href="http://platial.com"><div id="logo" class="">Platial | Who and What's Nearby</div><div id="logo_small" class="PlatialHidden">Platial | Who and What's Nearby</div></a>
 
- <div id="divider_header_1" class=""></div>
+<script type="text/javascript" charset="utf-8">
+  // js for geolocation
+  var geoProfile = null;
+  
+  function detectLocationAwareness() {
+    geoProfile = getGeoProfile();
+    if (geoProfile) {
+      document.getElementById('CurrentPositionImg').className = '';
+      document.getElementById('gettingPositionImg').className = 'PlatialHidden';
+    } else {
+      document.getElementById('CurrentPositionImg').className = 'PlatialHidden';
+      document.getElementById('gettingPositionImg').className = 'PlatialHidden';
+    }
+  }
+
+  function getCurrentPositionOld(positionRequestCount) {
+    searchWhereText = document.googleSearchForm.where.value;
+    document.getElementById('CurrentPositionImg').className = 'PlatialHidden';
+    document.getElementById('gettingPositionImg').className = '';
+    document.googleSearchForm.where.value = "locating you";
+    getCurrentPosition(geoProfile);
+  }
+  
+  function replaceLocation(locString) {
+    document.googleSearchForm.where.value = locString;
+    document.googleSearchForm.map.value = 1;// there is a lot more to handle around this hack! bouncing between text and map searches :| -jsn
+    document.getElementById('gettingPositionImg').className = 'PlatialHidden';
+    document.getElementById('CurrentPositionImg').className = '';
+  }
+  
+  var positionRequestCount = 0;
+  
+  function getPositionCallback(position) {
+    // var geoProfile = getGeoProfile();
+    if (geoProfile == 'w3c') {
+      var locString = position.coords.latitude+', '+position.coords.longitude;
+      replaceLocation(locString);
+    } else {
+      if (position.coords.accuracy < 500 || positionRequestCount > 9) {
+        if (positionRequestCount > 9) {
+          alert("Sometimes the location oracle is less precise than other times. \n\nWe just tried "+positionRequestCount+" requests and the location servers couldn't get any closer than "+position.coords.accuracy+" meters. That should at least put you in the right city.\n\nFeel free to try again though, it might come back with something better.");
+          positionRequestCount = 0;
+        }
+        if (position.gearsAddress) {
+          var add = position.gearsAddress;
+          var locString = '';
+          if (add.premises) locString += add.premises+ ' ';
+          if (add.streetNumber) locString += add.streetNumber+ ' ';
+          if (add.street) locString += add.street+ ', ';
+          if (add.city) locString += add.city+ ', ';
+          if (add.region) locString += add.region;
+          if (add.country != 'United States' && add.country != undefined && add.country != null && add.country != '') locString += ', '+add.country;
+        } else {
+          var locString = position.coords.latitude+', '+position.coords.longitude;
+        }
+        replaceLocation(locString);
+      } else {
+        positionRequestCount++;
+        getCurrentPositionOld(positionRequestCount); 
+      }  
+    }
+  }
+
+  function handleError(err) {
+    document.getElementById('CurrentPositionImg').src = '/images/CurrentPosition.png';    
+    // put the old search location back in place
+    document.googleSearchForm.where.value = searchWhereText;
+    alert("A Location Services error occured: error.code = 2");
+  }
+</script>
+
+
+<div id="header" class="png">
+  
+  <a href="http://platial.com"><div id="logo" class="">Platial | Who and What's Nearby</div><div id="logo_small" class="PlatialHidden">Platial | Who and What's Nearby</div></a>
+
+<div id="divider_header_1" class=""></div>
 
 <div id="input_area_wrapper">
 
@@ -44,19 +130,22 @@
 <div id="search_box">
   <!-- <form id="header_search_form" name="header_search_form" method="get"> -->
     <div id="search_form_wrapper">
-      <form id="search_form" action="/search" onsubmit="PlatialUI.search();return false;">
+      <form name="googleSearchForm" id="search_form" action="/search" method="get">
         <div id="search_form_text">I'm&nbsp;looking&nbsp;for&nbsp;</div>
         <div id="field_header">
-          <input id="looking_for" tabindex="1" onclick="if(this.value == 'Search...') $(this).setProperty('value', '');" name="looking_for" type="text" value="Search...">
+          <input id="looking_for" tabindex="1" onclick="if(this.value == 'Search...') $(this).setProperty('value', '');" name="what" type="text" value="Search...">
         </div>
         <div id="search_form_text">near</div>
         <div id="field_header">
-          <input name="near" tabindex="2" type="text" id="near" value="Portland, OR" onfocus="select(this);">
+          <input name="where" tabindex="2" type="text" id="near" value="Portland, OR" onfocus="select(this);">
           <!-- <a id="lokiFinder" href="javascript:;" onclick="loadLoki();"><img src="/images/loading_animation_black.gif" id="lokispinner" class="PlatialHidden" width=18 height=18 /><img id="loki_icon" src="/images/lokilogo_20.png" width=18 height=18 title="Locate Yourself with the Loki Find Me Plugin" /></a> -->
+          <a id="CurrentPosition" title="Get Your Current Location" href="javascript:;" onclick="positionRequestCount = 0; getCurrentPositionOld(positionRequestCount);"><img id="CurrentPositionImg" src="/images/CurrentPosition.png" class="PlatialHidden" onload="detectLocationAwareness();"><img id="gettingPositionImg" src="/images/platial_loading_tiny.gif" class="PlatialHidden" style="width:18px; height:18px;"></a>
+          <input type="hidden" name="map" value="" id="map">
         </div>
+        
         <!-- do not remove the following, needed for javascript interaction -->
-        <input type="submit" class="PlatialHidden">
-        <input type="image" tabindex="3" id="searchButton" src="/images/buttons/BTN_search_large.gif" alt="Search" onclick="PlatialUI.search();">
+                <input type="image" tabindex="3" id="searchButton" src="/images/buttons/BTN_search_large.gif" alt="Search" onclick="document.googleSearchForm.submit();">
+        
                 <input type="hidden" id="notSearchMode">
               </form>
     </div><!-- search_form_wrapper -->
@@ -101,7 +190,7 @@
         </ul>
       </li>
     </ul>
-        
+    
 
             <div id="page_content">
         <div id="sidebar_dispatch">
@@ -173,43 +262,20 @@
   <p> <strong>Links</strong></p>
   <p> The Sites may contain links to other websites. Please be aware that Platial is not responsible for the privacy practices of other websites. We encourage our users to be aware when they leave the Sites and to read the privacy statements of each and every website that collects personally identifiable information to learn more about their information practices. </p>
   <p><strong>Contacting Us With Questions or Concerns:</strong></p>
-  <p>If you have any questions about this privacy statement, you can contact: <a href="mailto:privacy@platial.com">privacy</a>.</p>        
-        </div><!-- page_content -->
+  <p>If you have any questions about this privacy statement, you can contact: <a href="mailto:privacy@platial.com">privacy</a>.</p>        </div><!-- page_content -->
     
 
               
-  <div id="footer_wrapper">
-    <div id="footer_link_bar">
-      <div id="footer_links">
-        <a href="/about">About</a> <a href="/help">Help</a> <a href="/privacy">Privacy</a> <a href="/terms">Terms of Use</a> <a href="/services">Services</a> <a href="/feedback">Feedback</a> © 2009 Platial, Inc.
-      </div><!-- footer_links -->
-      <div id="footer_divider"></div>
-      <div id="footer_breadcrumbs">
-        Where I've been: <a href="/map/lssales-s-places/559763" class="most_recent">lssales's places</a> <a href="/map/SOS-Mapping/566697">SOS Mapping</a> <a href="/map/Roadside-Attractions/33200">Roadside Attractions</a> <a href="/map/GEMPA/555494">GEMPA</a>       </div><!-- footer_breadcrumbs -->
-    </div><!-- footer_link_bar -->
-    <div id="footer_ad_bar">
-                &nbsp;
-          <script type="text/javascript"><!--
-          google_ad_client = "pub-9040044950747466";
-          /* 728x90, created 12/16/08 */
-          google_ad_slot = "8924478868";
-          google_ad_width = 728;
-          google_ad_height = 90;
-          //-->
-          </script>
-          <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-          </script>
-             </div> <!-- footer_ad_bar -->
-  </div><!-- footer_wrapper -->
+  
        </div><!-- page_content_wrapper -->
-  <script type="text/javascript">
-  _qoptions={
-  qacct:"p-edoPAF1D8ErkQ"
-  };
-  </script>
-  <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-  <noscript>
-  <img src="http://pixel.quantserve.com/pixel/p-edoPAF1D8ErkQ.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
-  </noscript>
-
+      <script type="text/javascript">
+    _qoptions={
+    qacct:"p-edoPAF1D8ErkQ"
+    };
+    </script>
+    <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+    <noscript>
+    <img src="http://pixel.quantserve.com/pixel/p-edoPAF1D8ErkQ.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+    </noscript>
+  
 </body></html>
