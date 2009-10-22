@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sfmoma.org privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618114927id_/http%3A//www.sfmoma.org/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfmoma.org privacy policy that was archived on 2009-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091022221746id_/http%3A//www.sfmoma.org/pages/privacy_policy) for the most accurate reproduction.*
 
 # SFMOMA | About Us | About SFMOMA | About the Site | Privacy Policy
 
@@ -26,7 +26,7 @@ SFMOMA may provide links to other third party websites, and other websites may p
 
 ### Children
 
-SFMOMA does not solicit personal information from children. Visitors 12 years of age and under must obtain an adult's permission before submitting any personal information to this site.
+SFMOMA does not solicit personal information from children except in connection with the interactive feature [The Country Dog Gentlemen Travel to Extraordinary Worlds](https://web.archive.org/multimedia/interactive_features/81), an educational activity for children, students, and families. Users of this feature provide nicknames and email addresses, which are used only to allow them to save their pictures to the Dogs' Best Friend Gallery and send the pictures by email to the user and to her/his friends and family. We do not retain or disclose these email addresses, which are deleted immediately after sending the pictures. We do not condition a child's participation in the Dogs' Best Friend Gallery upon the child's disclosure of more personal information than is reasonably necessary to participate in the activity. If you have any questions or concerns, please contact us at [edu@sfmoma.org](mailto:edu@sfmoma.org?subject=Country%20Dog%20Gentleman). 
 
 ### Changes to Our Policy
 
