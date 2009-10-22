@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the careerbuilder.ca privacy policy that was archived on 2008-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081202182052id_/http%3A//www.careerbuilder.ca/INTL/Share/Info/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerbuilder.ca privacy policy that was archived on 2009-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091022100551id_/http%3A//www.careerbuilder.ca/INTL/Share/Info/Privacy.aspx) for the most accurate reproduction.*
 
-# 
+# Find Jobs on CareerBuilder.com
 
 ** Protect your privacy and safety: ** These days, we all need to be smart about the way we use our own personal data. CareerBuilder.com has always been on the forefront of privacy issues, and we're constantly refining our Privacy Policy to ensure that you can get your job done - all on your own terms and completely anonymously if you so desire. So that you can be smarter about the way you manage your career, CareerBuilder.com continues to strive to provide the safest possible environment for you to search and apply to jobs. 
 
