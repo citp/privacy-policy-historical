@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exercisetv.tv privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618192118id_/http%3A//www.exercisetv.tv/about/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exercisetv.tv privacy policy that was archived on 2009-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091022090457id_/http%3A//www.exercisetv.tv/about/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - About - ExerciseTV
 
@@ -21,7 +21,7 @@ This statement discloses the privacy practices for this website only, including 
 Questions regarding this statement should be directed to ExerciseTV through one of the Contact Us forms you will find on the Web site, or by sending a notice by U.S. Mail to:
 
 ExerciseTV  
-11611 San Vicente Blvd #505  
+11611 San Vicente Blvd #850  
 Los Angeles, Ca 90049  
 Attention: ExerciseTV / Programming Privacy Feedback. 
 
