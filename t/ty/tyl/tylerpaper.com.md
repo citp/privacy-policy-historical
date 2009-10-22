@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tylerpaper.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620134939id_/http%3A//www.tylerpaper.com/section/PRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tylerpaper.com privacy policy that was archived on 2009-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091022134805id_/http%3A//www.tylerpaper.com/section/PRIVACY) for the most accurate reproduction.*
 
 # Tyler Paper - Tyler Morning Telegraph
 
