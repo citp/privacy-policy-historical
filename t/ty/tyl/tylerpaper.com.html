@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tylerpaper.com privacy policy that was archived on 2009-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090620134939id_/http%3A//www.tylerpaper.com/section/PRIVACY) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tylerpaper.com privacy policy that was archived on 2009-10-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091022134805id_/http%3A//www.tylerpaper.com/section/PRIVACY) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <title>Tyler Paper - Tyler Morning Telegraph</title>
@@ -13,7 +13,8 @@
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/prototype/1.6.0.2/prototype.js"></script>
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.1/scriptaculous.js?load=builder,effects"></script>
 <script type="text/javascript" src="http://www.tylerpaper.com/scripts/IndyScripts.js"></script>
-<!--<script type="text/javascript" src="/js/testCookie.js"></script>-->
+<script type="text/javascript" src="/js/swfobject.js"></script>
+
 <script language="JavaScript" type="text/javascript">
 function getQueryString(variable) {
 var query = window.location.search.substring(1);
@@ -50,21 +51,20 @@ var query = window.location.search.substring(1);
 				<div id="headerBarExtras">
 					<div id="searchbar">
 					<table><tbody><tr>
-						<script language="javascript" type="text/javascript">
-function doSearch(){
-
-doit = 0
-
-for (i=0;i<document.searchForm.searchType.length;i++){
-if (document.searchForm.searchType[i].checked){
-	
-	if (i==2){
-		var Q = document.searchForm.crit.value;
+						<script language="javascript">
+function doSearch(FormName){
+ doit = 0
+ var Form = document.forms[FormName]; 
+ var FormsearchType = Form.elements["searchType"];
+ for (i=0;i<FormsearchType.length;i++){
+ if (FormsearchType[i].checked){
+ 	if (i==2){
+		var Q = Form.crit.value;
 		window.location = 'http://www.google.com/search?hl=en&q=' + Q
 		doit = 0
 	}
 	else{
-	document.searchForm.daterange.value = document.searchForm.searchType[i].value
+	Form.daterange.value = Form.searchType[i].value
 	doit = 1
 	}
 }
@@ -73,21 +73,15 @@ if (doit==1){
 	return true
 	}
 	else{
-	return false
-	
+	return false	
 	}
-
 return true
 }
 </script>
 <td id="searchbar">
-<form name="searchForm" id="searchForm" onsubmit="return doSearch()" method="post" action="/apps/pbcs.dll/search?Category=SEARCH">
+<form name="searchForm" id="searchForm" onsubmit="return doSearch('searchForm')" method="post" action="/apps/pbcs.dll/search?Category=SEARCH">
 <input type="hidden" name="daterange">
-<b>Search</b>&nbsp;
-<input type="radio" name="searchType" value="20090606,20090620" checked="">Recent News&nbsp;&nbsp;
-<!--<input type=radio name="searchType" value="19820202,20090605">Archives&nbsp;&nbsp;-->
-<input type="radio" name="searchType" value="googlesearch">Web&nbsp;&nbsp;<b>for</b><br><input type="text" name="crit" id="searchCrit" size="35">
-<input type="submit" value="Go">
+<b>Search</b>&nbsp;<input type="radio" name="searchType" value="20091008,20091022" checked="">Recent News&nbsp;&nbsp;<input type="radio" name="searchType" value="19820606,20091007>Archives&nbsp;&nbsp;<input type=radio name=" searchtype"="">Web&nbsp;&nbsp;<b>for</b><br><input type="text" name="crit" id="searchCrit" size="35"> <input type="submit" value="Go">
 </form>
 </td>
 					</tr></tbody></table>
@@ -137,6 +131,7 @@ return true
 									<li><a href="http://www.tylerpaper.com/weather/">WEATHER</a></li>		
 									<li><a href="http://tyler.zebramm.com/" target="_blank">MOBILE</a></li>
 									<li><a href="/section/RSS">RSS</a></li>
+									<li><a href="/section/TWITTER">TWITTER</a></li>
 									<li><a href="/section/ENEWSLETTER">E-NEWSLETTER</a></li>								
 								</ul>
 								<ul class="service_links">
@@ -265,19 +260,7 @@ return true
 						<div id="submenu5" class="sub_off">
 								<ul>
 									<li><a href="http://celebrations.tylerpaper.com/TylerPaper/Celebrations.asp" target="_blank">WEDDINGS &amp; CELEBRATIONS</a></li>
-									<li><a href="/section/FEATURES02">ROSE FESTIVAL 2008</a>
-										<div id="tmenu15" class="submenu">
-											<ul>
-												<li><a href="/section/FEATURES0201">QUEEN</a></li>
-												<li><a href="/section/FEATURES0202">DUCHESSES</a></li>
-												<li><a href="/section/FEATURES0203">ESCORTS</a></li>
-												<li><a href="/section/FEATURES0204">LADIES IN WAITING</a></li>
-												<li><a href="/section/FEATURES0205">ATTENDANTS</a></li>
-												<li><a href="/section/FEATURES0207">ROSE FESTIVAL MAPS</a></li>
-												<li><a href="/section/FEATURES0206">2008-2007 STORY ARCHIVE</a></li>
-											</ul>
-										</div>
-									</li>					
+									<li><a href="/section/FEATURES02">ROSE FESTIVAL</a></li>
 									<li><a href="/section/FEATURES06">FOOD</a></li>
 									<li><a href="/section/FEATURES05">ACHIEVERS</a></li>																						
 									<li><a href="/section/FEATURES01">DISCOVER</a></li>													
@@ -391,10 +374,10 @@ return true
 
 	<div id="leftPhoto" style="float: left; padding-right: 10px; padding-top:20px;">
 	
-	<a href="/article/20090618/OPINION0310/906170332/-1/PRIVACY"><img src="/apps/pbcsi.dll/bilde?Avis=TP&amp;Dato=20090618&amp;Kategori=OPINION0310&amp;Lopenr=906170332&amp;Ref=AR&amp;MaxH=80" border="0" alt=""></a>
+	<a href="/article/20091020/OPINION0317/910209987/-1/PRIVACY"><img src="/apps/pbcsi.dll/bilde?Avis=TP&amp;Dato=20091020&amp;Kategori=OPINION0317&amp;Lopenr=910209987&amp;Ref=AR&amp;MaxH=80" border="0" alt=""></a>
 	</div>
 	<div id="level2Title" style="text-decoration: none; color: #000000; font-size: .8em; padding-top: 25;">
-	<span id="title" style="text-decoration: none; color: #000000;"><a href="/article/20090618/OPINION0310/906170332/-1/PRIVACY">Help Dad Save Money On Prescriptions</a></span>
+	<span id="title" style="text-decoration: none; color: #000000;"><a href="/article/20091020/OPINION0317/910209987/-1/PRIVACY">Tax-And-Spend Radical In GOP Clothing</a></span>
 	</div>
 
 </div>
@@ -432,7 +415,7 @@ return true
 							<div id="categoryBKG" style="background: url('http://www.tylerpaper.com/graphics/centerSM_blue.gif') top left no-repeat; width: 180px;">
 								<div id="categoryTopJobs" style="width: 175px; height: 115px; padding-top: 5px; border-bottom: 5px solid darkblue; text-align:left;">						
 								<div id="centerRailList">
-								<ul><li><a href="http://www.thejobnetwork.com/default.asp?NoFrameApplay=1&amp;URlType=external&amp;AffiliateID=1495&amp;compPosId=3914947" target="_blank">Certified Nursing Assistant</a></li>                          <li><a href="http://www.thejobnetwork.com/default.asp?NoFrameApplay=1&amp;URlType=external&amp;AffiliateID=1495&amp;compPosId=3914948" target="_blank">Licensed Code Enforcement Officer/Fire Marshal</a></li>                          <li><a href="http://www.thejobnetwork.com/default.asp?NoFrameApplay=1&amp;URlType=external&amp;AffiliateID=1495&amp;compPosId=3914953" target="_blank">Case Manager/HCS Service Coordinator</a></li>                          </ul>
+								<ul><li><a href="http://www.thejobnetwork.com/default.asp?NoFrameApplay=1&amp;URlType=external&amp;AffiliateID=1495&amp;compPosId=4100696" target="_blank">Communication Cable Installer</a></li>                          <li><a href="http://www.thejobnetwork.com/default.asp?NoFrameApplay=1&amp;URlType=external&amp;AffiliateID=1495&amp;compPosId=4104174" target="_blank">Bookkeeper</a></li>                          <li><a href="http://www.thejobnetwork.com/default.asp?NoFrameApplay=1&amp;URlType=external&amp;AffiliateID=1495&amp;compPosId=4106002" target="_blank">Shipping/Receiving Supervisor</a></li>                          </ul>
 								</div>							
 								</div>
 							</div>			
@@ -451,7 +434,7 @@ return true
 							<div id="categoryTexNews" style="width: 180px; border-bottom: 5px solid darkblue; text-align:left;">
 			
 								<div id="centerRailList" style="margin-top: 10px;">
-								<ul><li><a href="http://hosted.ap.org/dynamic/stories/T/TX_PERRY_BUDGET_VETOES_TXOL-?SITE=TXTYL&amp;SECTION=HOME&amp;TEMPLATE=DEFAULT" target="_blank">Perry vetoes almost $300M in state budget</a></li>                          <li><a href="http://hosted.ap.org/dynamic/stories/U/US_STANFORD_SURRENDERS_HEARING_TXOL-?SITE=TXTYL&amp;SECTION=HOME&amp;TEMPLATE=DEFAULT" target="_blank">Judge in Va. orders Stanford to return to Texas</a></li>                          <li><a href="http://hosted.ap.org/dynamic/stories/U/US_OBAMA_HISPANICS_TXOL-?SITE=TXTYL&amp;SECTION=HOME&amp;TEMPLATE=DEFAULT" target="_blank">Obama says immigration overhaul is essential</a></li>                          <li><a href="http://hosted.ap.org/dynamic/stories/T/TX_TEXAS_JP_ARREST_TXOL-?SITE=TXTYL&amp;SECTION=HOME&amp;TEMPLATE=DEFAULT" target="_blank">Brazos County justice of peace resigns</a></li>                          <li><a href="http://hosted.ap.org/dynamic/stories/U/US_FEDERAL_JUDGE_IMPEACHMENT_TXOL-?SITE=TXTYL&amp;SECTION=HOME&amp;TEMPLATE=DEFAULT" target="_blank">House impeaches federal judge from Texas</a></li>                          <li><a href="http://hosted.ap.org/dynamic/stories/T/TX_SOLDIER_KILLED_TXOL-?SITE=TXTYL&amp;SECTION=HOME&amp;TEMPLATE=DEFAULT" target="_blank">Police: Fort Bliss soldier killed in car crash</a></li>                          </ul>
+								<ul><li><a href="http://hosted.ap.org/dynamic/stories/T/TX_MEXICAN_OFFICIAL_DETAINED_TXOL-?SITE=TXTYL&amp;SECTION=HOME&amp;TEMPLATE=DEFAULT" target="_blank">Mexican official who didn't want asylum released</a></li>                          <li><a href="http://hosted.ap.org/dynamic/stories/U/US_EARNS_ATT_TXOL-?SITE=TXTYL&amp;SECTION=HOME&amp;TEMPLATE=DEFAULT" target="_blank">AT&amp;T profit dips but wireless results strong</a></li>                          <li><a href="http://hosted.ap.org/dynamic/stories/U/US_FARM_SCENE_HISPANIC_FARMERS_TXOL-?SITE=TXTYL&amp;SECTION=HOME&amp;TEMPLATE=DEFAULT" target="_blank">Hispanic farmers fight to sue USDA over lost land</a></li>                          <li><a href="http://hosted.ap.org/dynamic/stories/U/US_EARNS_KIMBERLY_CLARK_TXOL-?SITE=TXTYL&amp;SECTION=HOME&amp;TEMPLATE=DEFAULT" target="_blank">Kimberly-Clark 3Q profit rises 41 percent</a></li>                          <li><a href="http://hosted.ap.org/dynamic/stories/F/FL_CITRUS_SHIPPING_TXOL-?SITE=TXTYL&amp;SECTION=HOME&amp;TEMPLATE=DEFAULT" target="_blank">USDA ends ban on Florida citrus shipments</a></li>                          <li><a href="http://hosted.ap.org/dynamic/stories/O/OK_GIRL_KILLED_TXOL-?SITE=TXTYL&amp;SECTION=HOME&amp;TEMPLATE=DEFAULT" target="_blank">11-year-old found dead was likely strangled</a></li>                          </ul>
 								</div>									
 							</div>
 						</div>
@@ -465,9 +448,9 @@ return true
 <!--
 var rnd = Math.random() + "";
 var idn = rnd * 100000000000000000;
-document.write('<S'+'CR'+'IP'+'T LANGU'+'AGE="JavaScript1.1" SRC="http://TPads.sx.atl.publicus.com/apps/OAMS.dll/src/TP001/SKYSCRAPER01/PRIVACY/70013177809059747/-1/-/;idn=' + idn + ';Type=1?"><\/SCRIPT>');
+document.write('<S'+'CR'+'IP'+'T LANGU'+'AGE="JavaScript1.1" SRC="http://TPads.sx.atl.publicus.com/apps/OAMS.dll/src/TP001/SKYSCRAPER01/PRIVACY/50023168422640107/-1/-/;idn=' + idn + ';Type=1?"><\/SCRIPT>');
 //-->
-</script><script language="JavaScript1.1" src="http://TPads.sx.atl.publicus.com/apps/OAMS.dll/src/TP001/SKYSCRAPER01/PRIVACY/70013177809059747/-1/-/;idn=95282184103859410;Type=1?"></script>
+</script><script language="JavaScript1.1" src="http://TPads.sx.atl.publicus.com/apps/OAMS.dll/src/TP001/SKYSCRAPER01/PRIVACY/50023168422640107/-1/-/;idn=99894440014558610;Type=1?"></script>
 		
 					</div>
 					</center>
@@ -483,10 +466,10 @@ document.write('<S'+'CR'+'IP'+'T LANGU'+'AGE="JavaScript1.1" SRC="http://TPads.s
 
 	<div id="leftPhoto" style="float: left; padding-right: 10px; padding-top:20px;">
 	
-	<a href="/article/20090618/OPINION0303/906180303/-1/PRIVACY"><img src="/apps/pbcsi.dll/bilde?Avis=TP&amp;Dato=20090618&amp;Kategori=OPINION0303&amp;Lopenr=906180303&amp;Ref=AR&amp;MaxH=80" border="0" alt=""></a>
+	<a href="/article/20091019/OPINION0303/910199985/-1/PRIVACY"><img src="/apps/pbcsi.dll/bilde?Avis=TP&amp;Dato=20091019&amp;Kategori=OPINION0303&amp;Lopenr=910199985&amp;Ref=AR&amp;MaxH=80" border="0" alt=""></a>
 	</div>
 	<div id="level2Title" style="text-decoration: none; color: #000000; font-size: .8em; padding-top: 25;">
-	<span id="title" style="text-decoration: none; color: #000000;"><a href="/article/20090618/OPINION0303/906180303/-1/PRIVACY">Growth A Truly American Obsession</a></span>
+	<span id="title" style="text-decoration: none; color: #000000;"><a href="/article/20091019/OPINION0303/910199985/-1/PRIVACY">'Don't Ask' Decision Starts With Citizens</a></span>
 	</div>
 
 </div>
@@ -504,10 +487,10 @@ document.write('<S'+'CR'+'IP'+'T LANGU'+'AGE="JavaScript1.1" SRC="http://TPads.s
 
 	<div id="leftPhoto" style="float: left; padding-right: 10px; padding-top:20px;">
 	
-	<a href="/article/20090617/OPINION0317/906169981/-1/PRIVACY"><img src="/apps/pbcsi.dll/bilde?Avis=TP&amp;Dato=20090617&amp;Kategori=OPINION0317&amp;Lopenr=906169981&amp;Ref=AR&amp;MaxH=80" border="0" alt=""></a>
+	<a href="/article/20091018/OPINION0330/910170380/-1/PRIVACY"><img src="/apps/pbcsi.dll/bilde?Avis=TP&amp;Dato=20091018&amp;Kategori=OPINION0330&amp;Lopenr=910170380&amp;Ref=AR&amp;MaxH=80" border="0" alt=""></a>
 	</div>
 	<div id="level2Title" style="text-decoration: none; color: #000000; font-size: .8em; padding-top: 25;">
-	<span id="title" style="text-decoration: none; color: #000000;"><a href="/article/20090617/OPINION0317/906169981/-1/PRIVACY">Obama’s AmeriCrooks and Cronies Scandal</a></span>
+	<span id="title" style="text-decoration: none; color: #000000;"><a href="/article/20091018/OPINION0330/910170380/-1/PRIVACY">The Audacity Of Change, Necessity Of Hope</a></span>
 	</div>
 
 </div>
@@ -548,9 +531,9 @@ document.write('<S'+'CR'+'IP'+'T LANGU'+'AGE="JavaScript1.1" SRC="http://TPads.s
 <!--
 var rnd = Math.random() + "";
 var idn = rnd * 100000000000000000;
-document.write('<S'+'CR'+'IP'+'T LANGU'+'AGE="JavaScript1.1" SRC="http://TPads.sx.atl.publicus.com/apps/OAMS.dll/src/TP001/RECTANGLE01/PRIVACY/70013177809059747/-1/-/;idn=' + idn + ';Type=1?"><\/SCRIPT>');
+document.write('<S'+'CR'+'IP'+'T LANGU'+'AGE="JavaScript1.1" SRC="http://TPads.sx.atl.publicus.com/apps/OAMS.dll/src/TP001/RECTANGLE01/PRIVACY/50023168422640107/-1/-/;idn=' + idn + ';Type=1?"><\/SCRIPT>');
 //-->
-</script><script language="JavaScript1.1" src="http://TPads.sx.atl.publicus.com/apps/OAMS.dll/src/TP001/RECTANGLE01/PRIVACY/70013177809059747/-1/-/;idn=51084543356196660;Type=1?"></script>
+</script><script language="JavaScript1.1" src="http://TPads.sx.atl.publicus.com/apps/OAMS.dll/src/TP001/RECTANGLE01/PRIVACY/50023168422640107/-1/-/;idn=10409819846945446;Type=1?"></script>
 
 	</div>
 <br>	
@@ -568,15 +551,15 @@ document.write('<S'+'CR'+'IP'+'T LANGU'+'AGE="JavaScript1.1" SRC="http://TPads.s
 			<!--Begin Spotted-->
 			<center><div id="spottedPhotos" style="margin-top: 0px; margin-left: 5px; background-color: #e3deb3;">			
 			<div id="topThumbnails" style="float:left; width: 300px; margin-left: 7px; margin-top: 10px; font-size: .7em;">
-				<div id="thumbGal1" style="float:left; width: 90px;"><center><a href="http://spotted.tylerpaper.com/galleries/index.php?id=323943"><img src="/graphics/spotted1.gif" width="85" height="85"><br>Robert E. Lee High School Graduation</a></center></div>				
-				<div id="thumbGal2" style="float:left; width: 90px;"><center><a href="http://spotted.tylerpaper.com/galleries/index.php?id=324268"><img src="/graphics/spotted2.gif" width="85" height="85"><br>Dancin' Horse Saloon in Whitehouse Burns</a></center></div>								
-				<div id="thumbGal3" style="float:left; width: 90px;"><center><a href="http://spotted.tylerpaper.com/galleries/index.php?id=323348"><img src="/graphics/spotted3.gif" width="85" height="85"><br>Chapel Hill High School Graduation</a></center></div>				
+				<div id="thumbGal1" style="float:left; width: 90px;"><center><a href="http://spotted.tylerpaper.com/galleries/index.php?id=328953"><img src="/graphics/spotted1.gif" width="85" height="85"><br>Mineola vs. Van 7th-8th Grade Football</a></center></div>				
+				<div id="thumbGal2" style="float:left; width: 90px;"><center><a href="http://spotted.tylerpaper.com/galleries/index.php?id=328508"><img src="/graphics/spotted2.gif" width="85" height="85"><br>2009 Rose Festival Parade</a></center></div>								
+				<div id="thumbGal3" style="float:left; width: 90px;"><center><a href="http://spotted.tylerpaper.com/galleries/index.php?id=328903"><img src="/graphics/spotted3.gif" width="85" height="85"><br>Mineola at Van Football</a></center></div>				
 			</div>
 			<div class="clear:both"></div>
 			<div id="topThumbnails" style="float:left; width: 300px; margin-left: 7px; margin-top: 5px; font-size: .7em;">
-				<div id="thumbGal4" style="float:left; width: 90px;"><center><a href="http://spotted.tylerpaper.com/galleries/index.php?id=324263"><img src="/graphics/spotted4.gif" width="85" height="85"><br>Tyler Indoor Sports</a></center></div>
-				<div id="thumbGal5" style="float:left; width: 90px;"><center><a href="http://spotted.tylerpaper.com/galleries/index.php?id=324003"><img src="/graphics/spotted5.gif" width="85" height="85"><br>Jacksonville Tomato Festival</a></center></div>
-				<div id="thumbGal6" style="float:left; width: 90px;"><center><a href="http://spotted.tylerpaper.com/galleries/index.php?id=324113"><img src="/graphics/spotted6.gif" width="85" height="85"><br>Habitat for Humanity Women Who Build</a></center></div>
+				<div id="thumbGal4" style="float:left; width: 90px;"><center><a href="http://spotted.tylerpaper.com/galleries/index.php?id=328893"><img src="/graphics/spotted4.gif" width="85" height="85"><br>Light The Night Walk</a></center></div>
+				<div id="thumbGal5" style="float:left; width: 90px;"><center><a href="http://spotted.tylerpaper.com/galleries/index.php?id=329108"><img src="/graphics/spotted5.gif" width="85" height="85"><br>Gold Rush Monster Bash 2009</a></center></div>
+				<div id="thumbGal6" style="float:left; width: 90px;"><center><a href="http://spotted.tylerpaper.com/galleries/index.php?id=329208"><img src="/graphics/spotted6.gif" width="85" height="85"><br>Whitehouse Chamber Awards Banquet</a></center></div>
 			</div>
 			</div></center>
 			<!-- End Spotted -->
@@ -629,21 +612,21 @@ document.write('<S'+'CR'+'IP'+'T LANGU'+'AGE="JavaScript1.1" SRC="http://TPads.s
 <td colspan="7" align="center" bgcolor="darkblue"><b>Browse Event Calendar</b></td>
 </tr>
 <tr>
-<td colspan="7" align="center" bgcolor="#e4e4e4"><b><font size=".8em" color="#000699">June - 2009</font></b></td>
+<td colspan="7" align="center" bgcolor="#e4e4e4"><b><font size=".8em" color="#000699">October - 2009</font></b></td>
 </tr>
 <tr class="calendarhed">
 <td align="left" colspan="3" class="calendarhed">
 
-« <a class="calendarhed" href="javascript:calChange('200905')">
-May
+« <a class="calendarhed" href="javascript:calChange('200909')">
+September
 </a>
 
 </td>
 <td class="calendarhed">&nbsp;</td>
 <td align="right" colspan="3" class="calendarhed">
 
-<a class="calendarhed" href="javascript:calChange('200907')">
-July »
+<a class="calendarhed" href="javascript:calChange('200911')">
+November »
 </a>
 
 </td>
@@ -667,7 +650,22 @@ July »
 	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
 	  	
         
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20090601&amp;CalDate=20090601">
+               
+      </td>  
+	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
+	  	
+        
+               
+      </td>  
+	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
+	  	
+        
+               
+      </td>  
+	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
+	  	
+        
+        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091001&amp;CalDate=20091001">
         1
         </a>
         
@@ -676,7 +674,7 @@ July »
 	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
 	  	
         
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20090602&amp;CalDate=20090602">
+        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091002&amp;CalDate=20091002">
         2
         </a>
         
@@ -685,35 +683,8 @@ July »
 	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
 	  	
         
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20090603&amp;CalDate=20090603">
+        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091003&amp;CalDate=20091003">
         3
-        </a>
-        
-               
-      </td>  
-	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
-	  	
-        
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20090604&amp;CalDate=20090604">
-        4
-        </a>
-        
-               
-      </td>  
-	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
-	  	
-        
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20090605&amp;CalDate=20090605">
-        5
-        </a>
-        
-               
-      </td>  
-	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
-	  	
-        
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20090606&amp;CalDate=20090606">
-        6
         </a>
         
                
@@ -723,7 +694,34 @@ July »
 	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
 	  	
         
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20090607&amp;CalDate=20090607">
+        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091004&amp;CalDate=20091004">
+        4
+        </a>
+        
+               
+      </td>  
+	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
+	  	
+        
+        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091005&amp;CalDate=20091005">
+        5
+        </a>
+        
+               
+      </td>  
+	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
+	  	
+        
+        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091006&amp;CalDate=20091006">
+        6
+        </a>
+        
+               
+      </td>  
+	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
+	  	
+        
+        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091007&amp;CalDate=20091007">
         7
         </a>
         
@@ -732,7 +730,7 @@ July »
 	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
 	  	
         
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20090608&amp;CalDate=20090608">
+        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091008&amp;CalDate=20091008">
         8
         </a>
         
@@ -741,7 +739,7 @@ July »
 	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
 	  	
         
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20090609&amp;CalDate=20090609">
+        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091009&amp;CalDate=20091009">
         9
         </a>
         
@@ -750,16 +748,18 @@ July »
 	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
 	  	
         
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20090610&amp;CalDate=20090610">
+        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091010&amp;CalDate=20091010">
         10
         </a>
         
                
-      </td>  
+      </td>
+</tr><tr bgcolor="#EEEEEE">
+	  
 	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
 	  	
         
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20090611&amp;CalDate=20090611">
+        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091011&amp;CalDate=20091011">
         11
         </a>
         
@@ -768,7 +768,7 @@ July »
 	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
 	  	
         
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20090612&amp;CalDate=20090612">
+        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091012&amp;CalDate=20091012">
         12
         </a>
         
@@ -777,8 +777,44 @@ July »
 	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
 	  	
         
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20090613&amp;CalDate=20090613">
+        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091013&amp;CalDate=20091013">
         13
+        </a>
+        
+               
+      </td>  
+	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
+	  	
+        
+        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091014&amp;CalDate=20091014">
+        14
+        </a>
+        
+               
+      </td>  
+	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
+	  	
+        
+        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091015&amp;CalDate=20091015">
+        15
+        </a>
+        
+               
+      </td>  
+	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
+	  	
+        
+        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091016&amp;CalDate=20091016">
+        16
+        </a>
+        
+               
+      </td>  
+	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
+	  	
+        
+        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091017&amp;CalDate=20091017">
+        17
         </a>
         
                
@@ -788,43 +824,7 @@ July »
 	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
 	  	
         
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20090614&amp;CalDate=20090614">
-        14
-        </a>
-        
-               
-      </td>  
-	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
-	  	
-        
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20090615&amp;CalDate=20090615">
-        15
-        </a>
-        
-               
-      </td>  
-	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
-	  	
-        
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20090616&amp;CalDate=20090616">
-        16
-        </a>
-        
-               
-      </td>  
-	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
-	  	
-        
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20090617&amp;CalDate=20090617">
-        17
-        </a>
-        
-               
-      </td>  
-	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
-	  	
-        
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20090618&amp;CalDate=20090618">
+        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091018&amp;CalDate=20091018">
         18
         </a>
         
@@ -833,7 +833,7 @@ July »
 	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
 	  	
         
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20090619&amp;CalDate=20090619">
+        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091019&amp;CalDate=20091019">
         19
         </a>
         
@@ -842,18 +842,16 @@ July »
 	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
 	  	
         
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20090620&amp;CalDate=20090620">
+        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091020&amp;CalDate=20091020">
         20
         </a>
         
                
-      </td>
-</tr><tr bgcolor="#EEEEEE">
-	  
+      </td>  
 	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
 	  	
         
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20090621&amp;CalDate=20090621">
+        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091021&amp;CalDate=20091021">
         21
         </a>
         
@@ -862,7 +860,7 @@ July »
 	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
 	  	
         
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20090622&amp;CalDate=20090622">
+        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091022&amp;CalDate=20091022">
         22
         </a>
         
@@ -871,7 +869,7 @@ July »
 	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
 	  	
         
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20090623&amp;CalDate=20090623">
+        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091023&amp;CalDate=20091023">
         23
         </a>
         
@@ -880,35 +878,8 @@ July »
 	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
 	  	
         
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20090624&amp;CalDate=20090624">
+        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091024&amp;CalDate=20091024">
         24
-        </a>
-        
-               
-      </td>  
-	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
-	  	
-        
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20090625&amp;CalDate=20090625">
-        25
-        </a>
-        
-               
-      </td>  
-	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
-	  	
-        
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20090626&amp;CalDate=20090626">
-        26
-        </a>
-        
-               
-      </td>  
-	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
-	  	
-        
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20090627&amp;CalDate=20090627">
-        27
         </a>
         
                
@@ -918,7 +889,34 @@ July »
 	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
 	  	
         
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20090628&amp;CalDate=20090628">
+        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091025&amp;CalDate=20091025">
+        25
+        </a>
+        
+               
+      </td>  
+	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
+	  	
+        
+        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091026&amp;CalDate=20091026">
+        26
+        </a>
+        
+               
+      </td>  
+	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
+	  	
+        
+        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091027&amp;CalDate=20091027">
+        27
+        </a>
+        
+               
+      </td>  
+	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
+	  	
+        
+        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091028&amp;CalDate=20091028">
         28
         </a>
         
@@ -927,7 +925,7 @@ July »
 	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
 	  	
         
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20090629&amp;CalDate=20090629">
+        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091029&amp;CalDate=20091029">
         29
         </a>
         
@@ -936,7 +934,7 @@ July »
 	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
 	  	
         
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20090630&amp;CalDate=20090630">
+        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091030&amp;CalDate=20091030">
         30
         </a>
         
@@ -945,20 +943,9 @@ July »
 	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
 	  	
         
-               
-      </td>  
-	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
-	  	
-        
-               
-      </td>  
-	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
-	  	
-        
-               
-      </td>  
-	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
-	  	
+        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091031&amp;CalDate=20091031">
+        31
+        </a>
         
                
       </td>
@@ -992,23 +979,23 @@ July »
 			<div id="latestTylerTalk" style="width: 290px; float: left; font-weight: normal; margin-left: 10px; margin-top: 15px;">
 				<div class="leftCenterTitle" style="width: 290; font-size: .8em;"><a href="/apps/pbcs.dll/news_themes?Category=PHPForums&amp;ShowGroups=1">Latest Tyler Talk</a></div>
 					<div id="commentsList" style="padding: 10px 10px 10px 0px; width: 290px; font-size: .8em;">
-						<table><tbody><tr><td style="font-size:.8em; font-weight:normal;">June 18: Reader Lauds Berman's Fiscal Index Rank<br>
-<a href="/forum_message/2559t769105g446166i/PRIVACY">Re: Excellent Job? Yep!</a> - <b><small>06/19/09 05:52:00 PM</small></b></td></tr>
+						<table><tbody><tr><td style="font-size:.8em; font-weight:normal;">October 21: Health Bill Says Something About All Of Us<br>
+<a href="/forum_message/2559t805860g570125i/PRIVACY">satisfactory, sufficient, enough or excellent, distinguished, unrivaled, first-rate, matchless?</a> - <b><small>10/21/09 08:54:00 PM</small></b></td></tr>
 
-<tr><td style="font-size:.8em; font-weight:normal;">June 17: Energy Plan Working?<br>
-<a href="/forum_message/2559t768826g446048i/PRIVACY">Re: How easily we forget.</a> - <b><small>06/19/09 03:52:00 PM</small></b></td></tr>
+<tr><td style="font-size:.8em; font-weight:normal;">October 20: Demonic Activity<br>
+<a href="/forum_message/2561t802059g570048i/PRIVACY">re: Demons and such....</a> - <b><small>10/21/09 07:26:00 PM</small></b></td></tr>
 
-<tr><td style="font-size:.8em; font-weight:normal;">Keep The Spin Straight<br>
-<a href="/forum_message/2559t769472g445992i/PRIVACY">(No heading)</a> - <b><small>06/19/09 02:53:00 PM</small></b></td></tr>
+<tr><td style="font-size:.8em; font-weight:normal;">October 20: Insurance Nightmare<br>
+<a href="/forum_message/2561t801585g569884i/PRIVACY">You're Kidding</a> - <b><small>10/21/09 05:15:00 PM</small></b></td></tr>
 
-<tr><td style="font-size:.8em; font-weight:normal;">Capitalism Imperfect, But Still Best System<br>
-<a href="/forum_message/2891t768834g445962i/PRIVACY">Re: Capitalism isn't the problem.</a> - <b><small>06/19/09 02:12:00 PM</small></b></td></tr>
+<tr><td style="font-size:.8em; font-weight:normal;">October 20: Demonic Activity<br>
+<a href="/forum_message/2561t802059g569850i/PRIVACY">One Experience</a> - <b><small>10/21/09 04:51:00 PM</small></b></td></tr>
 
-<tr><td style="font-size:.8em; font-weight:normal;">June 16: Fire Letterman<br>
-<a href="/forum_message/2561t768666g445888i/PRIVACY">Re: letterman</a> - <b><small>06/19/09 01:15:00 PM</small></b></td></tr>
+<tr><td style="font-size:.8em; font-weight:normal;">October 20: Demonic Activity<br>
+<a href="/forum_message/2561t802059g569340i/PRIVACY">Don't answer that door</a> - <b><small>10/21/09 10:43:00 AM</small></b></td></tr>
 
-<tr><td style="font-size:.8em; font-weight:normal;">June 17: Energy Plan Working?<br>
-<a href="/forum_message/2559t768826g445862i/PRIVACY">Re: How easily we forget- No Need To Spin</a> - <b><small>06/19/09 12:43:00 PM</small></b></td></tr>
+<tr><td style="font-size:.8em; font-weight:normal;">Man Shot By Homeowner While Trying To Break In House<br>
+<a href="/forum_message/2354t804272g569336i/PRIVACY">Swift justice</a> - <b><small>10/21/09 10:39:00 AM</small></b></td></tr>
 
 </tbody></table>
 					</div>			
@@ -1017,15 +1004,15 @@ July »
 				<div id="topReadStories" style="font-size: .8em; font-weight: normal; font-style: normal; margin-top: 0px; margin-left: 0px; float: left; text-align: left; width: 315px;">						
 					<div id="topReadStoryList" style="list-style: none; position: outside;">
 <ul><div id="mostReadAtricles" style="list-style: none; position: outside; margin-left: -25px; padding-top: 5px; padding-bottom: 5px;">
-<li><span class="mostTitle" style="font-weight: normal; font-style: normal;"><a href="/article/20090620/NEWS01/906190378/0/PRIVACY">Man Dies When Motorcycle Collides With Suburban</a></span><span class="date" style="font-size: .7em; color: #eoeoeo;">&nbsp;&nbsp;&nbsp;06/20/09</span></li>
+<li><span class="mostTitle" style="font-weight: normal; font-style: normal;"><a href="/article/20091021/NEWS08/910219992/0/PRIVACY">Capital Murder Trial Resumes After Threat Made Outside Courtroom</a></span><span class="date" style="font-size: .7em; color: #eoeoeo;">&nbsp;&nbsp;&nbsp;10/21/09</span></li>
 </div><div id="mostReadAtricles" style="list-style: none; position: outside; margin-left: -25px; padding-top: 5px; padding-bottom: 5px;">
-<li><span class="mostTitle" style="font-weight: normal; font-style: normal;"><a href="/article/20090620/NEWS01/906200304/0/PRIVACY">Nestle Toll House Cookie Dough Recalled For E. Coli</a></span><span class="date" style="font-size: .7em; color: #eoeoeo;">&nbsp;&nbsp;&nbsp;06/20/09</span></li>
+<li><span class="mostTitle" style="font-weight: normal; font-style: normal;"><a href="/article/20091022/NEWS08/910220324/0/PRIVACY">Testimony Continues In Day Three Of Capital Murder Trial</a></span><span class="date" style="font-size: .7em; color: #eoeoeo;">&nbsp;&nbsp;&nbsp;10/22/09</span></li>
 </div><div id="mostReadAtricles" style="list-style: none; position: outside; margin-left: -25px; padding-top: 5px; padding-bottom: 5px;">
-<li><span class="mostTitle" style="font-weight: normal; font-style: normal;"><a href="/article/20090620/NEWS01/906200303/0/PRIVACY">Cloutier Announces Rusk County Judge Candidacy</a></span><span class="date" style="font-size: .7em; color: #eoeoeo;">&nbsp;&nbsp;&nbsp;06/20/09</span></li>
+<li><span class="mostTitle" style="font-weight: normal; font-style: normal;"><a href="/article/20091022/NEWS01/910220310/0/PRIVACY">Bullard Red, White And Blue Festival Approaching</a></span><span class="date" style="font-size: .7em; color: #eoeoeo;">&nbsp;&nbsp;&nbsp;10/22/09</span></li>
 </div><div id="mostReadAtricles" style="list-style: none; position: outside; margin-left: -25px; padding-top: 5px; padding-bottom: 5px;">
-<li><span class="mostTitle" style="font-weight: normal; font-style: normal;"><a href="/article/20090618/NEWS08/906170342/0/PRIVACY">Child Sex Offender's Probation Revoked</a></span><span class="date" style="font-size: .7em; color: #eoeoeo;">&nbsp;&nbsp;&nbsp;06/18/09</span></li>
+<li><span class="mostTitle" style="font-weight: normal; font-style: normal;"><a href="/article/20091022/NEWS08/910220348/0/PRIVACY">Patients Hit Web To Seek Top Care, Travel To Tyler To Get It</a></span><span class="date" style="font-size: .7em; color: #eoeoeo;">&nbsp;&nbsp;&nbsp;10/22/09</span></li>
 </div><div id="mostReadAtricles" style="list-style: none; position: outside; margin-left: -25px; padding-top: 5px; padding-bottom: 5px;">
-<li><span class="mostTitle" style="font-weight: normal; font-style: normal;"><a href="/article/20090618/NEWS08/906189993/0/PRIVACY">UPDATE: Man Killed in Early A.M. Accident in Tyler Identified</a></span><span class="date" style="font-size: .7em; color: #eoeoeo;">&nbsp;&nbsp;&nbsp;06/18/09</span></li>
+<li><span class="mostTitle" style="font-weight: normal; font-style: normal;"><a href="/article/20091022/NEWS01/910220322/0/PRIVACY">Upshur County Man Gets 15 Months For DWI</a></span><span class="date" style="font-size: .7em; color: #eoeoeo;">&nbsp;&nbsp;&nbsp;10/22/09</span></li>
 </div></ul>
 </div>
 				</div>							
@@ -1081,16 +1068,19 @@ July »
 		<div id="rightRailTitle" style="width:330px; background-color:#FFFFFF; color: #215e94; margin-top: 5px; text-align: left; font-style: normal; font-family: georgia, serif; font-weight:bold; padding-left: 20px;">
 			POLLS &amp; QUIZZES
 		</div>
-				<div id="rightPolls" style="width: 330px; height: 260px; background-color: #e3deb3; margin-top: 10px;">
+				<div id="rightPolls" style="width: 330px; height: 260px; background-color: #e3deb3; margin-top: 10px; border-bottom: solid darkblue 5px;">
 					<div id="miniPoll" style="margin-top: 10px; padding-top: 5px;">
 					<strong><small>What's Your Opinion?</small></strong>
 					<hr width="275" color="darkred">
-					<nolayer>
-<iframe frameborder="0" marginwidth="0" marginheight="0" width="260" height="200" scrolling="no" src="/apps/pbcs.dll/miniquery?NoStat=1&amp;TARGET=_top&amp;W=200&amp;H=150&amp;Labels=leading&amp;Kategori=Frontpage&amp;BGColor=">
-<a href="/apps/pbcs.dll/poll?Kategori=Frontpage">Do You Favor Conservative Boycott Of GM?</a><br>
-</iframe>
-</nolayer>
-<ilayer id="poll_layer" visibility="hide" width="260" height="200"></ilayer>
+					<style type="text/css">
+	div.ovrRightBoxContent			{ font-size:.8em;font-weight:normal;font-family: Helvetica, Verdana, sans-serif;width:250}
+	div.ovrRightBoxContent li			{ font-weight:normal;color:darkred;list-style-type:none; }
+	div.more 									{ color:darkred; font-size:.9em; padding-top:20px;}
+</style>
+		<div class="ovrRightBoxContent">
+		Should America Rise Up To Go Forward In Space?<br>
+		<img src="/apps/chart.dll/tinystat?Labels=%22Yes%22%20%22No%22&amp;Values=168,59&amp;Values=168,59&amp;Width=200&amp;Height=150&amp;3D=0" border="0" alt="">		
+
 
 					</div>	
 				</div>
@@ -1192,7 +1182,7 @@ July »
 			</div>
 	<!--End Bottom Footer-->	
 	
-<!--End Page Wrapper-->
+</div><!--End Page Wrapper-->
 
 <!-- Start Quantcast tag -->
 <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
@@ -1206,14 +1196,12 @@ July »
 <script language="JavaScript" type="text/javascript" src="/js/s_code.js"></script><script language="JavaScript" type="text/javascript">
 s.Account="saxotechtylerpaper"
 s.cookieDomainPeriods="2"
-s.pageName="Section: Privacy PolicySection Overview"
-s.server="S260608AT1VW728"
+s.pageName="Section: Privacy Policy,Section Overview"
+s.server="S260608AT1VW731"
 s.channel="Privacy"
 /* Traffic Variables */
 s.prop1="Section"
 /* E-commerce Variables */
-s.events="event3"
-s.products="Poll;Do You Favor Conservative Boycott Of GM?/Do You Favor Conservative Boycott Of GM?"
 /* Hierarchy Variables */
 s.hier1="Privacy Policy,Section Overview,No Profile"
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
