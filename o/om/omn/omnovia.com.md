@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the omnovia.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620071744id_/http%3A//www.omnovia.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omnovia.com privacy policy that was archived on 2009-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091022160909id_/http%3A//www.omnovia.com/privacy_policy) for the most accurate reproduction.*
 
-# Web Conferencing | Web Conference | Web Meeting | Webinar | omNovia
+# Web Conferencing | Web Conference Software| Webinar Software | Online Meeting Services - omNovia Web Conference
 
 This privacy notice discloses the privacy practices for www.omNovia.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
 
