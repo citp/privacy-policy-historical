@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frappr.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619153844id_/http%3A//www.frappr.com/%3Fa%3Ddoc%26section%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frappr.com privacy policy that was archived on 2009-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091022062001id_/http%3A//www.frappr.com/%3Fa%3Ddoc%26section%3Dprivacy) for the most accurate reproduction.*
 
 # Platial.com
 
