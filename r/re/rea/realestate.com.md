@@ -1,142 +1,142 @@
-> *The following text is extracted and transformed from the realestate.com privacy policy that was archived on 2006-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061222183914id_/http%3A//realestate.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realestate.com privacy policy that was archived on 2009-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091022083907id_/http%3A//ts.realestate.com/content/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# RealEstate.com -- Customer Service Center
+# Privacy Policy - RealEstate.com's Town Square
 
-Legal Information
+### RealEstate.com / iNest / Domania Privacy Policy for Consumers  
+Your Privacy Rights  
+Last Updated: 08/20/2008
 
-* * *
+RealEstate.com, iNest Realty Inc., and Domania respect the privacy of our consumer users and have developed this Privacy Policy to demonstrate our commitment to protecting your privacy. As an individual who is a user of our websites (including, but not limited to, RealEstate.com, iNest.com, Domania.com, and HomePriceCheck.com), or otherwise use the services provided by Tree.com, Inc.'s real estate divisions and subsidiaries (RealEstate.com, iNest Realty Inc., and Domania), this Privacy Policy is intended to describe for you:
 
-|   
----  
-[Customer Service](https://web.archive.org/customer-service/)  
-[Terms and Conditions](https://web.archive.org/legal/terms-of-use.asp)  
-[Privacy Policy](https://web.archive.org/legal/privacy.asp)  
-[Security](https://web.archive.org/legal/security.asp)  
-[Licenses and Disclosures](https://web.archive.org/legal/licenses.asp)  
+  * the information we collect about you,
+  * how that information may be used,
+  * with whom it may be shared,
+  * how you may access the information you provide us,
+  * and your choices about such uses and disclosures.
+
+
+
+We encourage you to read this Privacy Policy carefully when using our websites or services or when transacting business with us. By using our websites, you are accepting the practices described in this Privacy Policy.
+
+If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us.
+
+RealEstate.com, iNest Realty Inc., and Domania are divisions and/or subsidiaries of Tree.com, Inc. that engage in real estate and real estate brokerage activities. The privacy practices and policies relating to Tree.com, Inc.'s other activities are described in a separate document. For information about Tree.com, Inc.'s privacy policies and practices, click here.
+
+### INFORMATION WE COLLECT ABOUT YOU
+
+**In General.** We may collect personal information that can identify you such as your name and e-mail address, as well as other information that does not identify you. When you provide personal information through our websites, the information may be sent to RealEstate.com / iNest / Domania servers located in the United States and other countries around the world.
+
+  * **Information you provide.** We may collect and store any personal information you enter on our websites or provide to us in some other manner. This includes identifying information (such as your name, home or mailing address, e-mail address, and telephone number), information about your home or prospective home, personal information (such as age and gender), and responses you voluntarily provide to surveys.
+  * **Information from other sources.** We may also periodically obtain both personal and non-personal information about you from other Tree.com, Inc. businesses, business partners, contractors and other third parties. Examples of information that we may receive include information about your home and additional demographic information.
+  * **Information about others.** We may also collect and store personal information that you provide to us about another person, including name, address, phone number, or other personal information.
+  * **Use of cookies and other technologies to collect information.** We use various technologies to collect information from your computer and about your activities on our sites. We automatically collect information from your browser when you visit our websites. This information includes your IP address, your browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from us (see "Cookies" below), and the referring website address.
+  * **Cookies.** When you visit our websites, we may assign your computer one or more cookies, to facilitate access to our websites, to personalize your online experience, and to record information about your visit to our websites. Through the use of a cookie, we also may automatically collect information about your online activity on our websites, such as the web pages you visit, the links or advertisements you click, or the other actions you conduct while on our websites. The cookies do not store any personally identifiable information about you. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline cookies, please note that you may not be able to sign in or use some of the interactive features offered on our websites.
+  * **Other Technologies.** We may use standard Internet technology, such as web beacons and other similar technologies, to track your use on our websites. We also may include web beacons in promotional e-mail messages or newsletters to determine whether messages have been opened and acted upon. The information we obtain in this manner enables us to customize the services we offer our websites' visitors to deliver targeted advertisements and to measure the overall effectiveness of our online advertising, content, programming or other activities.
+  * **Information collected by third-parties.** We may allow third-parties, including our authorized service providers, Tree.com, Inc. companies, advertising companies, and ad networks, to display advertisements on our site. RealEstate.com / iNest / Domania and these companies may use tracking technologies, such as cookies, to collect information about users who view or interact with these advertisements and connect to our websites. Our websites do not provide any personal information to these third parties. This information allows RealEstate.com / iNest / Domania and these companies to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies ([http://www.networkadvertising.org](http://www.networkadvertising.org/)). For a list of other third-party advertising companies we typically use, click here.
+
+
+
+### HOW WE USE THE INFORMATION WE COLLECT
+
+**In general.** We may use information that we collect about you to:
+
+  * deliver the products and services that you have requested;
+  * manage your customer relationship and provide you with customer support;
+  * perform research and analysis about your use of, or interest in, our products, services, or content, or products, services or content offered by others;
+  * communicate with you by e-mail, chat, text message, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us, other Tree.com,Inc. companies or other third parties;
+  * develop and display content and advertising tailored to your interests on our site and other websites;
+  * verify your eligibility and deliver prizes in connection with promotions, contests and sweepstakes;
+  * enforce our terms and conditions;
+  * manage our business and
+  * perform functions as otherwise described to you at the time of collection.
+
+
+
+**Financial information.** We may use financial (or home) information to match you with real estate agents and/or brokers, to verify your identify, to protect against or identify possible fraudulent transactions, otherwise as needed to manage our business, and, if you request real estate brokerage services through a RealEstate.com -affiliated agent, to provide real estate brokerage services directly to you. If you submit an iNest form, we may use home price information to match you with appropriate home builders.
+
+**Job applicants.** If your personal information is submitted through our websites when applying for a position with our company, the information will be used solely in connection with considering and acting upon your application. We may retain your personal information for a period of time, but only for the purpose of considering your application for current or future available positions. This information may be shared with the other Tree.com,Inc. companies for the purpose of evaluating your qualifications for the particular position or other available positions, as well as with third-party service providers retained by us to collect, maintain and analyze candidate submissions for job postings.
+
+Please review "Your choices about collection and use of your information" below.
+
+### WITH WHOM WE SHARE YOUR INFORMATION
+
+We want you to understand when and with whom we may share personal or other information we have collected about you or your activities on our websites or while using our services.
+
+**Personal information.** We do not share your personal information with others except as indicated below or when we inform you and give you an opportunity to opt out of having your personal information shared. We may share all types of personal information with:
+
+  * **Authorized service providers.** We may share your personal information with our authorized service providers that perform certain services on our behalf in connection with your request for real estate brokerage services. These service providers may include marketing and customer services firms, credit card payment processors, as well as companies that support contests, sweepstakes, surveys, or other features offered through our websites, or that provide business analysis or website support. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes.
+  * **Real estate agents / brokers and home builders.** If you submit a Find-a-REALTOR or iNest form, we may share your personal information with real estate agents / brokers or home builders on our network with which you have expressed interest. We will not share information with other real estate agents / brokers or home builders not disclosed to you. Because these parties may retain or use your personal information whether or not you obtain services from them, you should contact these parties directly concerning their privacy and information sharing practices.
+  * **Business partners.** When you express interest in promotions or services offered through our websites, we may share your expression of interest with the businesses with which we partner to offer you those products, services, promotions, contests and/or sweepstakes, and, as applicable, their affiliates. When you elect to engage in a particular offer or program, you authorize us to provide your e-mail address and other information to the business providing that offer or program.
+  * **Other Tree.com,Inc. businesses.** We may share information we collect, including personal information, with the other Tree.com, Inc. companies (some of which are nonfinancial companies). Sharing information with the other Tree.com, Inc. companies enables us to provide you with information about a variety of products and services that might interest you. All Tree.com, Inc. companies comply with the Tree.com, Inc. Privacy Policy. The other Tree.com, Inc. companies also will comply with applicable privacy and security laws and, at a minimum, in any commercial e-mail they send to you, will give you the opportunity to choose not to receive such e-mail messages from that company in the future. However, in no circumstance will RealEstate.com / iNest / Domania share with other Tree.com, Inc. companies any personally identifiable information that you provide to us if that information bears on your creditworthiness.
+  * _**Special notice to California residents: RealEstate.com / iNest / Domania will not share any personal information about you with other Tree.com,Inc. companies to the extent prohibited by applicable California law or to the extent your prior consent to share is required by applicable California law.**_
+  * _**Special notice to Vermont residents: RealEstate.com / iNest / Domania will not share any personal information about you with other Tree.com,Inc. companies to the extent prohibited by applicable Vermont law or to the extent your prior consent to share is required by applicable Vermont law.**_
+  * **Other Situations.** We also may disclose your information: 
+    * In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us.
+    * When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our websites' terms and conditions or other agreements or policies.
+    * In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.
+
+
+
+Any third parties to whom we may disclose personal information may have their own privacy policies which describe how they use and disclose personal information. Those policies will govern use, handling and disclosure of your personal information once we have shared it with those third parties as described in this Privacy Policy. If you want to learn more about their privacy practices, we encourage you to visit the websites of those third parties. These entities or their servers may be located either inside or outside the United States.
+
+**Aggregated and non-personal information.** We may share aggregated information (i.e., information about you and other customers collectively, but not specifically identifiable to you) and other non-personal information we collect under any of the above circumstances. We may also share it with third parties and Tree.com,Inc. companies to develop and deliver targeted advertising on our websites and on websites of third parties. We may combine non-personal information we collect with additional non-personal information collected from other sources. We also may share aggregated information with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis. For example, we may tell our advertisers the number of visitors to our websites and the most popular features or services accessed. This information does not contain any personal information and may be used to develop website content and services that we hope you and other users will find of interest and to target content and advertising.
+
+**Third-party websites.** There are a number of places on our websites where you may click on a link to access other websites that do not operate under this Privacy Policy. For example, if you click on an advertisement or a search result on our websites, you may be taken to a website that we do not control. These third-party websites may independently solicit and collect information, including personal information, from you and, in some instances, provide us with information about your activities on those websites. We recommend that you consult the privacy statements of all third-party websites you visit by clicking on the "privacy" link typically located at the bottom of the webpage you are visiting.
+
+### HOW YOU CAN ACCESS YOUR INFORMATION
+
+If you have submitted a RealEstate.com or iNest Form to us, you can update your personal information by contacting our Customer Care Department at 704-944-2110 for assistance. More information about how to contact us is provided below.
+
+### YOUR CHOICES ABOUT COLLECTION AND USE OF YOUR INFORMATION
+
+  * You can choose not to provide us with certain information, but that may result in you being unable to use certain features of our websites because such information may be required in order for you to obtain services from us.
+  * Federal and state regulations require that we store certain customer information for various periods of time. In order to comply with these requirements, we may be unable to delete your information from our database, until the expiration of the applicable period.
+  * When you initially use our websites, you may be given a choice as to whether you want to receive e-mail messages or newsletters from us. You may later modify your choice by contacting our Customer Care Department at 704-944-2110. You also will be given the opportunity, in any commercial e-mail that we send to you, to opt out of receiving such messages in the future. It may take up to 10 days for us to process an opt-out request. We may send you other types of transactional and relationship e-mail communications, such as loan offers, requests for additional information, service updates or announcements, administrative notices, and surveys, without offering you the opportunity to opt out of receiving them. Please note that opting out of receipt of promotional e-mail communications will only affect future activities or communications from us. If we have already provided your information to a third party before you have changed your preferences or updated your information, you may have to change you preferences directly with that third party.
+  * Under our Do Not Call policy you may instruct us not to call you for marketing purposes by calling our Customer Care Department at 704-944-2110. We will implement your instructions within 30 days. We have policies and procedures in place and train our employees to honor your request. Please note that we may still need to call you for servicing or other non-marketing purposes.
+  * If you do not want us to send you postal mail for marketing purposes, you may remove your name from current and future mailing lists by contacting our Customer Care Department at 704-944-2110.
+
+
+
+### HOW WE PROTECT YOUR PERSONAL INFORMATION
+
+We take appropriate security measures (including physical, electronic and procedural measures) to help safeguard your personal information from unauthorized access and disclosure. For example, only authorized employees and authorized third-party service providers are permitted to access personal information, and they may do so only for permitted business functions. In addition, we use encryption in the transmission of your sensitive personal information between your system and ours, and we use firewalls to help prevent unauthorized persons from gaining access to your personal information.
+
+We want you to feel confident using our websites to transact business. However, no system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure. Users should also take care with how they handle and disclose their personal information. Please refer to the Federal Trade Commission's website at <http://www.ftc.gov/bcp/menus/consumer/data.shtm> for information about how to protect yourself against identity theft.
+
+### OTHER INFORMATION ABOUT OUR PRIVACY PRACTICES
+
+**Notice to California Residents**
+
+If you are a resident of California, in addition to the rights set forth in this Privacy Policy, you have the right to request information from us regarding the manner in which we share certain categories of personal information with third parties and the Tree.com,Inc. companies for their direct marketing purposes. California law gives you the right to send us a request at a designated address to receive the following information:
+
+  1. the categories of information we disclosed to third parties for their direct marketing purposes during the preceding calendar year
+  2. the names and addresses of the third parties that received that information; and
+  3. if the nature of the third party's business cannot be determined from their name, examples of the products or services marketed.
+
+
+
+We may provide this information in a standardized format that is not specific to you. The designated e-mail address for these requests is [privacy@lendingtree.com](mailto:privacy@lendingtree.com)
+
+**Children's privacy**  
+Our websites are general audience sites, and we do not knowingly collect personal information from children under the age of 13.
+
+**Visiting our websites from outside the United States**  
+This Privacy Policy is intended to cover collection of information on our websites from residents of the United States. If you are visiting our websites from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. Please be assured that we seek to take reasonable steps to ensure that your privacy is protected. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this privacy policy.
+
+**No Rights of Third Parties**  
+This Privacy Policy does not create rights enforceable by third parties or require disclosure of any personal information relating to users of our websites.
+
+**Changes to this Privacy Policy**  
+We will occasionally update this Privacy Policy to reflect changes in our practices and services. When we post changes to this Privacy Policy, we will revise the "last updated" date at the top of this Privacy Policy. If we make any material changes in the way we collect, use, and/or share personal information that may impact you, we will notify you by sending an e-mail to the e-mail address you most recently provided us in your account, profile or registration (unless we do not have such an e-mail address), and/or by prominently posting notice of the changes on our websites. We recommend that you check our websites from time to time to inform yourself of any changes in this Privacy Policy or any of our other policies.
+
+**How to contact us**
+
+If you have any questions about this Privacy Policy or our information-handling practices, or if you would like to request information about our disclosure of personal information to third parties for their direct marketing purposes, please contact us by e-mail or postal mail as follows:
+
   
-Find a REALTOR®
-
-* * *
-
-[](https://web.archive.org/realtor/)Buy or sell your home and you may receive a **Gift Card worth up to $1,000.**
-
-Finance Your Home
-
-* * *
-
-Search Homes for Sale 
-
-* * *
-
-  
-**You are here:**[Home](https://web.archive.org/) | [Customer Service Center](https://web.archive.org/customer-service/) | Privacy Policy 
-
-RealEstate.com is a wholly-owned unit of LendingTree, LLC LendingTree’s privacy policy will govern information gathered on the RealEstate.com site. Throughout the Privacy Policy we refer only to LendingTree to make reading the policy easier.
-
-RealEstate.com  
-c/o LendingTree, LLC  
-11115 Rushmore Dr.  
-Charlotte, NC 28277  
-General Information: 704-541-5351  
-Customer Service: 704-944-2110  
-Fax: 704-541-1824  
-E-Mail: [customercare@lendingtree.com](mailto:customercare@lendingtree.com)
-
-LendingTree, LLC is a Delaware limited liability company (formerly known as LendingTree, Inc.) with its corporate headquarters in Charlotte, North Carolina. For purposes of this privacy statement, "LendingTree" means LendingTree, LLC.
-
-**Your Privacy is Important to Us.** At LendingTree, your privacy is our chief concern. We understand that you entrust us with your private financial information to help us match you with a bank, lender or loan broker (we refer to all of these as "Lenders") or real estate professional who can meet your needs. In exchange for your trust, you expect and deserve our commitment to treat your information with respect. Rest assured that we protect your privacy. Under no circumstances will LendingTree sell or share any personal information about you to or with any person or organization except: as authorized by you, to participating lenders, real estate professionals or other parties involved in your transaction, or as may be required by law or court order. The Privacy Policy below describes the standards we adhere to in handling information about you and your loan request.
-
-**We want you to be aware of:**
-
-  * Who we are 
-  * Information we may collect on a LendingTree Web site 
-  * How your information is used 
-  * Altering the information you submit through a LendingTree Web site 
-  * How our Privacy Policy is monitored 
-
-
-  1. **Who We Are.** LendingTree is the leading online lending marketplace that connects consumers to Lenders that compete for their business across a variety of loan types. There are more than 140 participating banks and Lenders on the LendingTree Exchange. LendingTree also maintains a nationwide network of more than 7,000 real estate professionals that the Company matches with consumers in the process of buying or selling a home. [More details…](https://web.archive.org/web/20061222183914id_/http%3A//realestate.com/legal/security.asp)
-  2. **Information We Collect.** There are several areas on a LendingTree site where you may be asked to enter both personal and non-personal information. We DO NOT sell or share any personal information about you to or with any person or organization except: as authorized by you, to participating Lenders, real estate professionals or other parties involved in your transaction, or as may be required by law or court order.
-    * **Information we receive from you on loan or realty requests.** When you come to a LendingTree site to complete a qualification form you'll need to provide personal and financial information such as your name, phone number, Social Security Number, e-mail address, income and other financial information depending upon your expressed loan or real estate referral preference. More details… Supplementary information for your loan or realty request. When you complete a loan or realty request at a LendingTree site, it may be necessary for us to supplement the information you provide with information from third party sources. More details… 
-    * **Information we collect when you use the LendingTree Home Price Check SM.** LendingTree and our authorized partners may collect information from you through our Home Price Check SM Plus service. Participation in this service is completely voluntary and it is your choice whether or not you wish to disclose your personal information to us. More details… Technical information we collect. In order for us to ensure that we are providing the best possible consumer experience on a LendingTree Web site, we collect and track certain user information. More details… Information from surveys. You may complete a survey from LendingTree online. Participation in surveys is completely voluntary and it is your choice whether or not you wish to disclose your personal information to us. More details… 
-    * **Information from the "Customer Service" section of a LendingTree Web site.** You may contact LendingTree through the "Customer Service" feature. Participation in this area is completely voluntary and it is your choice whether or not you wish to disclose your personal information to us. More details… Information we collect when you are a member of the LendingTree Privileges. LendingTree and our authorized Privileges partners may collect information from you through our membership center. Participation in this area is completely voluntary and it is your choice whether or not you wish to disclose your personal information to us. More details… 
-    * **Information gathered from Lenders.** The "Lenders" section of our Web sites contain information for Lenders who wish to join The LendingTree Network or license our Lend-XSM technology. More details… 
-    * Information gathered from Real Estate brokers. The "Real Estate Network" section of our Web sites contain information for Real Estate brokers who wish to join the LendingTree Realty Services Network. More details… 
-
-Information gathered from the "Affiliates" section of a LendingTree Web site. The "Affiliates" section contains information for affiliates who wish to join the LendingTree Affiliate Program and advertise LendingTree's service on their site. If you would like to be an affiliate, you may submit an application containing personal information such as your name, e-mail address, telephone number and address. If you use LendingTree's service through an affiliate site, under no circumstances will an affiliate ever see your information. More details… 
-
-    * **Information collected from the "Calculators" section of our site.** LendingTree makes several resources available to you to help you complete a qualification form. One of these resources is the "Calculators" section of our site. We do not collect any personal data you may input into to any calculators on our site. 
-    * **Information we collect when you apply for a job at LendingTree.** LendingTree may collect information from job applicants via the "Employment Opportunities at LendingTree" feature. Participation in this area is completely voluntary and it is your choice whether or not you wish to disclose your personal information to us. More details… 
-  3. **How your information is used.** We use the information you provide on your loan or realty request to match you with up to four participating Lenders, real estate professionals or authorized agents. We may also send your information to other third parties relevant to your transaction. Lenders will also receive your credit history when they review your request. LendingTree may also share certain aggregated data with our Lenders and other third parties for general marketing and demographic purposes; however, this data DOES NOT include any of your personal identifying information. 
-    * **Sharing information with our participating Lenders and real estate professionals.** At your direction (when you click on the "Submit" button), the information that you provide to us on the loan or realty request will be sent through the LendingTree system and presented to up to four participating Lenders who offer the types of loan products you have identified, other parties relevant to your transaction and/or participating real estate professionals. Lenders will also receive your credit history when they review your request. As our Lenders and real estate professionals may keep and use your information whether or not you qualify for a loan with them or use their services, we recommend that you contact them directly for more information about their specific privacy policies. More details… 
-    * **Sharing information with third parties.** We may also act as an agent for our participating Lenders and real estate professionals, sharing information on their behalf and pursuant to their instructions with providers of services related to your transaction. In addition, LendingTree may notify you about a special offer from one of our promotional partners. We do not reveal your name, address or any other identifying information to that promotional partner unless you request us to do so. More details… 
-    * **Sharing information with authorized agents.** At your direction (when you click on the "Submit" button), the information you provide to us on the loan or realty request will be sent through the LendingTree system and may be presented to our authorized agents. Our authorized agents do not sell or share your personal information with any person or organization. 
-  4. **Altering Information You Submit Through a LendingTree Web Site.** LendingTree puts you in control of your experience on our Web sites. You'll find our sites easy to navigate to find all the information you need to complete your transaction. 
-    * **Changing your information.** You may be able to review and change personal information in an active loan or realty request that you completed through LendingTree online. If you are unable to complete this online, you may contact our Customer Care Department for assistance. More details… Deleting your information. Federal and state regulations require that we store completed loan and real estate requests for various periods of time. In order to comply with these regulations, we cannot delete information from our databases. More details… 
-    * **Request to stop receiving emails from us.** Periodically, LendingTree may send you emails to alert you to money saving tips or special offers. If you do not wish to receive any of these offers, please visit our subscription area where you can remove yourself from our mailing list. 
-    * **Security.** LendingTree sites have security measures in place to protect the loss, misuse and alteration of the information under our control. Please visit our Security page for a detailed explanation. 
-  5. **How Our Policy is Monitored.**
-
-If you have questions or concerns regarding this statement, you should first contact our Customer Care Department. If we make a change to our Privacy Policy in the future that will affect how we treat your information, we will notify you of the change. In that case, your ability to opt out of the new policy will be determined by applicable laws and we will include that information in our notification. If the change impacts how we use your information, we will notify you even if you have requested that we not contact you.
-
-
-**More Details**
-
-  1. **Who We Are.** When you visit a LendingTree Web site to request a loan, you will complete one simple loan or realty request. Based on the information you supply, LendingTree will transmit your data to participating lenders who are best suited to meet your financial needs. When you request the services of a real estate professional through a LendingTree Web site, we will transmit your data, including your credit history, to participating real estate brokers to complete your transaction. LendingTree is a computerized loan originator and is licensed or exempt as a mortgage and/or loan broker and real estate broker in most states. See our State Licenses section for additional information. 
-  2. **Information We Collect.**
-
-Information we receive from you on loan or realty requests. Some of the information you supply to us on the loan or realty request may be optional. If you supply this information, it will not be sold or shared to or with any person or organization except: as authorized by you, to participating Lenders, real estate professionals or other parties involved in your transaction, or as may be required by law or court order. 
-
-    * **Supplementary information for your loan or realty request.** In order for us to match you with participating Lenders and real estate professionals, we may need to obtain additional data. For example, we may use your name and Social Security Number to request a credit report to help us determine which lenders are best suited to compete for your business. 
-    * **Information we collect when you use the LendingTree Home Price Check SM Plus.** When you use our Home Price Check SM Plus, we may ask you for personally identifiable information such as your name, mailing address, email address, credit card number, etc. The LendingTree Home Price Check SM Plus is produced with authorized partners who will only use the information specifically to provide you with the detailed information you have requested. Your information will not be sold or shared with any person or organization for marketing purposes. 
-    * **Technical information we collect. When you visit a LendingTree Web site, our Web server sends a cookie to your computer**. This cookie merely stores a limited amount of information about your site visit. The cookie merely tracks aggregate information on how our site is being used, including session counts, navigation patterns, pages visited, etc. These cookies, however, do not store any personally identifiable information such as your name, email address, phone number, etc. as you browse the site. These cookies cannot be related to you as an individual unless you complete a loan or realty request.
-
-When you complete a loan or realty request, we store your cookie identification in our system. If you request that we remember you during a loan or realty request, we use this cookie to allow our site to recognize you when you return.
-
-LendingTree also utilizes Web Logs to track aggregate information about how our site is being used. Web Logs track anonymous user information, including the number of visitors to our site, operating systems, Internet Provider addresses (if publicly available), and browser type. Unlike cookies, Web Logs are maintained only on LendingTree servers and do not store or place anything on the user's computer.
-
-If you come to the LendingTree web site from an online banner ad, an anonymous identification number may be passed to our site. This information cannot be used to gather any personally identifiable information about you. It will only allow us to track the overall effectiveness of our online advertising campaigns. Our partners in this program are listed below, along with links to their sites to access privacy policies and opt-out information.
-
-Advertising.com: <http://www.advertising.com/Privacy.html>
-
-Commission Junction: <http://www.cj.com/privacy.jsp>
-
-BeFree: <http://www.befree.com/privacy.htm>
-
-Yahoo: <http://privacy.yahoo.com/privacy/us/>
-
-24-7 Real Media: <http://www.247media.com/privacy.html>
-
-    * **Information from surveys.** Every survey presented to you will include specific instructions regarding how your information may be shared. By clicking the "Submit" button at the end of the survey, you authorize LendingTree to share your data in the manner outlined on the survey. 
-    * **Information from the "Customer Service" section of a LendingTree Web site.** In the "Customer Service" form, we may ask you for personally identifiable information such as your name, mailing address, email address, etc. This information will not be sold to any person or organization. However, your information may be shared with other parties relevant to your transaction to help resolve any issues you report to us. 
-    * **Information we collect when you use LendingTree Privileges.** When you use our Privileges program, we may ask you for personally identifiable information such as your name, mailing address, email address, etc. The LendingTree Privileges is produced with partners who will only use the information to provide the Privileges services and benefits. This information will not be sold or shared with any person or organization for marketing purposes. 
-    * **Information gathered from Lenders.** If you are a Lender and you submit one or both of the forms requesting more information, your name and other identifying information will not be sold or shared with any person or organization. Your e-mail address or telephone number may be used by authorized LendingTree employees to contact you concerning your request. 
-    * **Information gathered from Real Estate brokers.** If you are a Real Estate broker and you submit the form requesting more information, your name and other identifying information will not be sold or shared with any person or organization. Your e-mail address or telephone number may be used by authorized LendingTree employees to contact you concerning your request. 
-    * **Information gathered from the "Affiliates" section of a LendingTree Web site.** Information submitted through the "Affiliate" section of our Web sites will be shared with BeFree, our affiliate software provider. BeFree provides the software that enables LendingTree to develop and manage our LendingTree Affiliate Program. LendingTree and BeFree do not sell or share your information with any other person or organization. You can review BeFree's privacy policy at their website  
-[http://www.befree.com/privacy.htm] 
-    * **You will receive an e-mail from LendingTree indicating whether or not you have been approved to participate in the Affiliate Program.** If approved, we will use your e-mail address to inform you of Affiliate Program news and updates. You may withdraw your membership from the Affiliate Program at any time by sending an e-mail to affiliates@lendingtree.com. If you choose to withdraw, you will not receive any further e-mails regarding the LendingTree Affiliate Program. 
-    * **LendingTree also enrolls affiliates through Commission Junction.** Your affiliate information will only be shared with Commission Junction if you enroll in the LendingTree Affiliate Program through Commission Junction. LendingTree and Commission Junction do not sell or share your information with any other person or organization. You can review Commission Junction's privacy policy at their website   
-[http://www.cj.com/privacy.jsp] 
-    * **If you come to a LendingTree site through an affiliate site, LendingTree will never sell or share your information with that, or any other, affiliate.** All transactions take place on LendingTree's servers. Please see our security page for more information on how we protect the integrity of your data. 
-    * **Information we collect when you apply for a job at LendingTree.** When you apply for a job through a LendingTree Web site, we may ask you for personally identifiable information such as your name, mailing address, email address, etc. This information will not be sold or shared with any person or organization. All data collected will be used for the purposes of evaluating your application for employment. Your e-mail address or telephone number may be used by authorized LendingTree employees to contact you concerning your application. 
-  3. **How your information is used.**
-    * **Sharing information with our participating Lenders and real estate professionals.** After up to four participating Lenders and/or real estate professionals receive your information, they may contact you directly via phone, e-mail or other communications. All of our Lenders and real estate agents operate under federal and/or state laws and regulations and believe, as we do, that the Internet is an exciting and secure place to do business. If you are matched with any participating Lenders, the Lender with which you choose to close your loan and/or obtain your credit card will report certain information about your loan and/or credit card to LendingTree, and LendingTree will treat that information in the manner it treats the information you provided on your loan or realty request. As our Lenders and real estate professionals may keep and use your information whether or not you qualify for a transaction with them, we recommend that you contact them directly for more information about their specific privacy policies. 
-    * **Sharing information with third parties.** Following is an example of how LendingTree may act as an agent for our participating Lenders and real estate professionals. A Lender may instruct us to share information with an appraiser to prepare an appraisal of the property to be mortgaged, with a flood certification provider to determine whether the property lies in a flood plain, or with a prospective secondary market purchaser of the mortgage loan the lender may make. In such situations, we will be acting on behalf of the Lender, under the authority of the Lender's privacy policy, a copy of which you will receive from the Lender. All of the information-sharing we do as agent for the Lender would be permissible under applicable federal law for the Lender to do directly.
-
-From time to time, LendingTree may notify you about a special offer from one of our promotional partners. At your request, LendingTree will not send you any information or offers unrelated to your request for financing. If you do not wish to receive any of these offers, please visit our subscription area where you can remove yourself from our mailing list. 
-
-  4. **Altering Information You Submit Through a LendingTree Web Site.**
-    * **Changing your information.** If you want to change the type of loan or make other significant changes to your loan or realty request, you might need to make another request through our Web site. If you wish to change your subscriptions to LendingTree emails, you can visit our subscription page. 
-    * **Deleting your information.** Even if your loan or realty request was withdrawn, by law, we cannot delete that information. We store all of the information you might provide securely. You can visit our Security section to learn more about how we do this. 
-  5. **How Our Policy is Monitored.**
-
-If you have questions or concerns regarding this statement, you should first contact our Customer Care Department. If we make a change to our Privacy Policy in the future that will affect how we treat your information, we will notify you of the change. In that case, your ability to opt out of the new policy will be determined by applicable laws and we will include that information in our notification. If the change impacts how we use your information, we will notify you even if you have requested that we not contact you. 
-
-
-**This Privacy Policy was last updated on January 11, 2005**
-
-**PLEASE PRINT AND RETAIN A COPY OF THIS AGREEMENT FOR YOUR RECORDS.**
-
-© 2020 LendingTree, LLC All Rights Reserved. 
-
-This site is directed at, and made available to, persons in the continental U.S., Alaska and Hawaii only. 
+Privacy Officer  
+Tree.com, Inc.  
+11115 Rushmore Drive  
+Charlotte, North Carolina 28277  
+[[privacy@lendingtree.com](mailto:privacy@lendingtree.com)]  
+© 2008 Tree.com,Inc. All rights reserved. 
