@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the healthpartners.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618140141id_/http%3A//www.healthpartners.com/portal/208.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthpartners.com privacy policy that was archived on 2009-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091022090819id_/http%3A//www.healthpartners.com/portal/208.html) for the most accurate reproduction.*
 
 # HealthPartners.com - Our Privacy Policy
 
 If you are a member of a HealthPartners health plan, please consult the [Health Plan Privacy Notice](https://web.archive.org/files/22750.pdf) for a description of our privacy practices and the rights of our health plan members. If you are a self-insured member (that is, if your employer is self-insured), please check with your employer for more information about your employer's health plans privacy practices. 
 
-If you are a patient at a HealthPartners clinic, please consult the [Medical and Dental Clinics Privacy Notice](https://web.archive.org/files/22751.pdf) for a description of our privacy practices and the rights of our clinic patients. 
-
-If you are a patient at Regions Hospital, please consult the [Hospital Privacy Notice](https://web.archive.org/files/22752.pdf) for a description of our privacy practices and the rights of our hospital patients. 
+If you are a patient at a HealthPartners clinic or Regions Hospital, please consult the [Medical and Dental Clinics and Hospital Privacy Notice](https://web.archive.org/files/22751.pdf) for a description of our privacy practices and the rights of our clinic and hospital patients. 
 
 **WEB SITE PRIVACY POLICY**
 
