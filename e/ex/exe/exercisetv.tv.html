@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the exercisetv.tv privacy policy that was archived on 2009-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090618192118id_/http%3A//www.exercisetv.tv/about/privacy_policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the exercisetv.tv privacy policy that was archived on 2009-10-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091022090457id_/http%3A//www.exercisetv.tv/about/privacy_policy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta name="description" content="ExerciseTV is your single source for online and Video on Demand workouts, tips, sports training and motivational advice for all fitness levels. ExerciseTV On Demand is the easiest and most convenient way to workout to your favorite exercise routines - all on your schedule, all for FREE."><meta name="keywords" content="ExerciseTV, Exercise, free fitness videos, free exercise videos, on-demand workouts, at home workouts, exercise plans, ab workouts, aerobics exercise, cardio workouts, yoga workouts, fitness training, sports training, football workouts, baseball workouts, basketball workouts, lacrosse workouts, running workouts, muscle fitness, strength training"><title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta name="description" content="ExerciseTV is your single source for online and Video on Demand workouts, tips, sports training and motivational advice for all fitness levels. ExerciseTV On Demand is the easiest and most convenient way to workout to your favorite exercise routines - all on your schedule, all for FREE."><meta name="keywords" content="ExerciseTV, Exercise, free fitness videos, free exercise videos, on-demand workouts, at home workouts, exercise plans, ab workouts, aerobics exercise, cardio workouts, yoga workouts, fitness training, sports training, football workouts, baseball workouts, basketball workouts, lacrosse workouts, running workouts, muscle fitness, strength training"><meta name="verify-v1" content="zTdkT92MEJwkOGw092VgfjzjGDW540hJPCNJxzL959c="><meta name="google-site-verification" content="gieB5YuzLGUdtbS9xtj8hKEMWvClRQZix7oI3pgZ_HQ"><meta name="y_key" content="cd40239a8442441a"><meta name="msvalidate.01" content="1EB477330E68D8ECDE08DC58AF2962D9"><title>
 	Privacy Policy - About - ExerciseTV
 </title><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"><link type="text/css" rel="stylesheet" href="/includes/styles.css">
     <script src="/includes/jquery.js" type="text/javascript"></script>
@@ -22,6 +22,27 @@
 		    else
 		    return true;
 	    }
+	    
+	    function searchResults()
+	    {
+	       document.location.href = "/search.aspx?term=" + document.getElementById("txtHeaderSearch").value;
+	    }
+
+        function searchResults_enter(myfield,e)
+        {
+            var keycode;
+            if (window.event) keycode = window.event.keyCode;
+            else if (e) keycode = e.which;
+            else return true;
+
+            if (keycode == 13)
+               {
+                   document.location.href = "/search.aspx?term=" + document.getElementById("txtHeaderSearch").value;
+                   return false;
+               }
+            else
+               return true;
+        }
     </script>
     <script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script>
     <script type="text/javascript"> 
@@ -37,19 +58,27 @@
     <script src="http://thesearchagency.net/tsawaypoint.php?siteid=500&amp;wayid=1385" language="JavaScript" type="text/javascript"></script>
 </head>
 <body id="">
+
+<center>
+	<div style="width:980px; background-color:White;">
+		<!-- DoubleClick Homepage Ad Banner (728x90) -->
+		<script language="Javascript" src="http://ad.doubleclick.net/adj/home.exercisetv/home;tile=1;pos=;sz=728x90;!category=default;name=;title=;ord=7288236001157747773?"></script>
+		<noscript><a href='http://ad.doubleclick.net/ad/home.exercisetv/home;tile=1;pos=;sz=728x90;!category=default;name=;title=;ord=7288236001157747773?'><img src='http://ad.doubleclick.net/ad/home.exercisetv/home;tile=2;pos=;sz=728x90;!category=default;name=;title=;ord=7288236001157747773?' width='728' height='90' border='0'></a></noscript>
+		<!-- DoubleClick Homepage Ad Banner (728x90) -->
+	</div>
+</center>
+
     <div id="bodyContainer">
         <div id="bodyContent">
 			<div id="BodyHeaderContent">
 				<a href="http://www.exercisetv.tv/" id="headerLogo"><img src="/images/headerLogo.gif" alt="Exercise TV"></a>
-				<form id="form1" method="get" action="/results.aspx">
 					<div id="headerSearch">
-							<input type="text" name="search" id="txtHeaderSearch"> <input type="image" id="btnHeaderSearch" src="/images/btnHeaderSearch.jpg">
+							<input type="text" name="search" id="txtHeaderSearch" onkeypress="return searchResults_enter(this,event)"> <input type="image" name="submit" value="submit" id="btnHeaderSearch" src="/images/btnHeaderSearch.jpg" onclick="javascript:searchResults()">
 							<br>
 							<div id="wgtText">
 								<a href="/widget/"><b>Get the ExerciseTV Video Widget!</b></a>
 							</div>
 					</div>
-				</form>
 				<div class="clear"></div><div id="topNavGap"></div>
 				<ul id="topNav">
 					<li><a href="/"><img src="/images/nav/home.gif" alt="Home"></a><br></li>
@@ -92,7 +121,7 @@
                     <p>
                     Questions regarding this statement should be directed to ExerciseTV through one of the Contact Us forms you will find on the Web site, or by sending a notice by U.S. Mail to:<br><br>
                     ExerciseTV<br>
-                    11611 San Vicente Blvd #505<br>
+                    11611 San Vicente Blvd #850<br>
                     Los Angeles, Ca  90049<br>
                     Attention: ExerciseTV / Programming Privacy Feedback. <br><br>
 
@@ -152,9 +181,9 @@
         
 
 <!-- DoubleClick Skyscraper (160x600) -->
-<script language="Javascript" src="http://ad.doubleclick.net/adj/about.exercisetv/privacy;tile=3;pos=;sz=160x600;!category=default;name=;title=;ord=16687207671636125883?"></script>
+<script language="Javascript" src="http://ad.doubleclick.net/adj/about.exercisetv/privacy;tile=3;pos=;sz=160x600;!category=default;name=;title=;ord=20601855191750887413?"></script>
 
-<noscript><a href='http://ad.doubleclick.net/ad/about.exercisetv/privacy;tile=3;pos=;sz=160x600;!category=default;name=;title=;ord=16687207671636125883?'><img src='http://ad.doubleclick.net/ad/about.exercisetv/privacy;tile=3;pos=;sz=160x600;!category=default;name=;title=;ord=16687207671636125883?' width='160' height='600' border='0'></a></noscript>
+<noscript><a href='http://ad.doubleclick.net/ad/about.exercisetv/privacy;tile=3;pos=;sz=160x600;!category=default;name=;title=;ord=20601855191750887413?'><img src='http://ad.doubleclick.net/ad/about.exercisetv/privacy;tile=3;pos=;sz=160x600;!category=default;name=;title=;ord=20601855191750887413?' width='160' height='600' border='0'></a></noscript>
 <!-- DoubleClick Skyscraper (160x600) --> 
 
     </div>
@@ -240,5 +269,17 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
             </div>
         </div>
     </div>
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-42YAbjTKHxtEI"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-42YAbjTKHxtEI.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+
 
 </body></html>
