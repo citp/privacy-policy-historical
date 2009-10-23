@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the domyownpestcontrol.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621081758id_/http%3A//www.domyownpestcontrol.com/privacy.php%3FosCsid%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domyownpestcontrol.com privacy policy that was archived on 2009-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091023041620id_/http%3A//www.domyownpestcontrol.com/privacy.php%3FosCsid%3D) for the most accurate reproduction.*
 
-# DoMyOwnPestControl.com - Do It Yourself Pest Control Products and Pest Control Supplies
+# DoMyOwnPestControl.com: Do It Yourself Pest Control Products, Pest Control Supplies
 
 Because your privacy is important to us, we have created the following Privacy and Security Policy to let you know what information we collect when you visit our web site, [DoMyOwnPestControl.com](http://www.domyownpestcontrol.com/?osCsid=), why we collect it, and how it is used. This Privacy and Security Policy also addresses our data security practices, the options you have to access and control any personally identifiable information you provide to us, and other matters. We may periodically make changes to this Privacy and Security Policy which will be included on this page. It is your responsibility to review this Privacy and Security Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often. 
 
