@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpsc.gov privacy policy that was archived on 2009-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090514195744id_/http%3A//www.cpsc.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpsc.gov privacy policy that was archived on 2009-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091023024304id_/http%3A//www.cpsc.gov/privacy.html) for the most accurate reproduction.*
 
 # Privacy and Security Notice
 
@@ -17,7 +17,7 @@ Questions
 
 ### Copyright
 
-> Providing the public with vital safety information over the Internet and the World Wide Web is an essential part of the U.S. Consumer Product Safety Commission's (CPSC) effort to carry out its mission. Information presented on these pages is public information. You may freely distribute, copy, or link to any of the information presented. If you do so, please use appropriate byline/photo/image credit.
+> Providing the public with vital safety information over the Internet and the World Wide Web is an essential part of the U.S. Consumer Product Safety Commission's (CPSC) effort to carry out its mission. Information presented on these pages is public information. You may freely distribute, copy, or link to any of the information presented. If you do so, please use appropriate byline/photo/image credit. However, the information may not be used in a way that states or implies CPSC endorsement.
 
 * * *
 
