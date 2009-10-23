@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lookery.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616180454id_/http%3A//www.lookery.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lookery.com privacy policy that was archived on 2009-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091023200621id_/http%3A//www.lookery.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Lookery
 
