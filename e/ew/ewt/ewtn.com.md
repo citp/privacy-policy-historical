@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ewtn.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617192910id_/http%3A//www.ewtn.com/general/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewtn.com privacy policy that was archived on 2009-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091023054136id_/http%3A//www.ewtn.com/general/privacy_policy.asp) for the most accurate reproduction.*
 
 # EWTN Internet Privacy Policy
 
