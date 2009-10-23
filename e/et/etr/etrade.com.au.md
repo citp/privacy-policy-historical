@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the etrade.com.au privacy policy that was archived on 2007-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070830135605id_/https%3A//invest.etrade.com.au/Privacy/EtradePrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etrade.com.au privacy policy that was archived on 2009-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091023120658id_/https%3A//invest.etrade.com.au/Privacy/EtradePrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# E*TRADE Australia
+# E*TRADE Australia | Online Share Trading
 
 | **We Respect Your Privacy**  
 ---  
