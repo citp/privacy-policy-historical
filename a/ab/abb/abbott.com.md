@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abbott.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619160614id_/http%3A//www.abbott.com/global/url/content/en_US/0%3A0/general_content/General_Content_00029.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abbott.com privacy policy that was archived on 2009-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091024135156id_/http%3A//www.abbott.com/global/url/content/en_US/0%3A0/general_content/General_Content_00029.htm) for the most accurate reproduction.*
 
 # Abbott Laboratories Privacy Policy - US Residents Only
 
@@ -61,6 +61,9 @@ In all communications to Abbott, please include the e–mail address used for re
 
 **How will I know whether Abbott has updated this policy?**  
 Abbott reserves the right to amend this Privacy Policy without prior notice to reflect technological advancements, legal and regulatory changes and good business practices.  If Abbott changes its privacy practices, a new Privacy Policy will reflect those changes and the effective date of the revised Privacy Policy will be set forth in this paragraph.  This Privacy Policy was last updated on October 2, 2008 and is effective as of that date.
+
+  
+
 
   
 
