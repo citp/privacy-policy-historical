@@ -1,27 +1,156 @@
-> *The following text is extracted and transformed from the fox8live.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305225607id_/http%3A//www.fox8live.com/other1.jsp%3FcatID%3D51) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox8live.com privacy policy that was archived on 2009-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091024172011id_/http%3A//www.fox8live.com/sites/wvue/content/legal/PRIVACY_STATEMENT.pdf) for the most accurate reproduction.*
 
-# Fox 8 Live WVUE-TV New Orleans
+# 
 
-**PRIVACY POLICY**
+                                            PRIVACY STATEMENT
+This Privacy Statement operates in conjunction with and constitutes a part of Louisiana Media Company,
+LLC.’s Terms of Use (the “Agreement”) and informs you of Louisiana Media Company, LLC’s practices
+with respect to the online collection, use, and disclosure of personal information from this Louisiana
+Media Company, LLC Website. Personal information is information that allows us to contact you (such as
+email address, home address, or telephone number) or other information that, when linked to your name
+or contact information, allows us to personalize your visit to our site by providing you with information that
+suits your interests.
+Louisiana Media Company, LLC is the owner of this website and retains all ownership rights to the
+information collected at this site. Louisiana Media Company, LLC reserves the right to change, modify,
+add, or remove provisions of this Privacy Statement. Any changes to this Privacy Statement will be
+posted here, and we encourage you to check back from time to time.
+THIS POLICY DOES NOT APPLY TO THE PRACTICES OF COMPANIES THAT LOUISIANA MEDIA
+COMPANY, LLC DOES NOT OWN OR CONTROL, OR TO PEOPLE THAT LOUISIANA MEDIA
+COMPANY, LLC DOES NOT EMPLOY OR MANAGE.
+Personalization
+Although you may use many features of this site without completing a registration or sign-up form, visitors
+who do register and/or sign up for special services may have access to additional features of the site and
+are more likely to receive information suited to their interests. For example, a registered user is eligible for
+additional services provided by this website, such as personalized content. Our registration and special
+services sign-up forms may ask you for contact information (like name or email address) and
+demographic information (like zip code or age). You must provide the information in order to receive the
+benefits of registration or of the special service.
+We may use the contact information you give us to better tailor your website experience to your interests,
+and to send you information about Louisiana Media Company, LLC and its services as well as
+promotional material on behalf of some of our partners. We use other information that you provide to us to
+show you content in which you may be interested and to display the content according to your
+preferences. We will also share this information within the Louisiana Media Company, LLC family and
+with our affiliates and business partners in order to enhance your experience on this and other Louisiana
+Media Company, LLC Websites.
+In addition, we may share this information with advertisers or other third parties that are not part of the
+Louisiana Media Company, LLC family.
+Online Surveys/Contests
+From time to time, we may conduct online surveys and contests. These ask you for contact information
+(like name or email address) and demographic information (like zip code or age). We may use this
+contact information from our surveys and contests to provide you with information about our company and
+promotional material on behalf of some of our partners, and to contact you.
+Supplemental Information
+To enhance Louisiana Media Company, LLC’ ability to tailor this site to your preferences, we may
+combine information that you provide us on registration and other online sign-up forms with other
+information about you that we may obtain.
+Shopping/Commercial Services
+This Louisiana Media Company, LLC site may offer shopping services, which may be offered by us or by
+a firm that operates a store under contract with us. If our site offers shopping or other commercial
 
-**Kinds of Information**  
-There are two kinds of information web sites can obtain about you: 
 
-1) **Aggregate Information:** Aggregate Information is anonymous data that web sites use to diagnose problems on the sites' servers, administer the sites, and to help improve the quality of the Web pages. It may be your domain name (i.e. "XYZ.com") or your IP address.
+services, you will use a customer order form to request information, products, and services. The order
+form will ask you to give us contact information (like name or email address), financial information (like
+account or credit card numbers), and demographic information (like zip code or age).
+We will use the financial information that you provide to bill you for products and services. By giving our
+site your credit card and related personal information, you are authorizing our store to give that
+information to the merchant and credit card company in order to confirm and fulfill your order.
+We will use contact information from the order form to fulfill your orders. We may also use contact data to
+get in touch with you. We will not otherwise use or distribute your financial information without your prior
+approval.
+Public Forums
+This site may make available chat rooms, blogs, forums, message boards, and news groups. Please
+remember that any information that you disclose in these areas becomes public information. You should
+exercise caution when deciding to disclose your personal information in any chat room, blog, forum,
+message board, or news group.
+Information Sharing With Third Parties
+From time to time we may enter into a special relationship with another company that is not owned by
+Louisiana Media Company, LLC to provide additional features at this site. These special relationships
+may include “powered by” partners, business partners, sponsors, and co-branded sites (referred to here
+as “co-branded pages”). These might include, for example, pages that share our name and that of
+another entity. You should look for a specific privacy statement on any such co-branded page. Any
+personal information that you provide when signing up at one of those co-branded pages may be shared
+with our third party partner, whose privacy practices we do not control. You should check our partner’s
+website for information regarding its privacy policies, as its policies, not ours, will govern the information
+that it receives from you.
+Also, the nature of some features of our site may require that we share personal information about you
+with other persons or other companies. For example, this may occur at a feature that enables you, via our
+site, to ask questions of persons or entities that are not part of Louisiana Media Company, LLC. By
+responding to those features of the site, whether by email or direct entry of information on the Louisiana
+Media Company, LLC Website, you are consenting to our transfer of that information to such persons or
+entities, whose privacy policy or practices will apply to the information it receives.
+IP Address and Log Files
+We may use your IP address to administer the Louisiana Media Company, LLC Website, to help
+diagnose problems with our server, to analyze trends, to track users’ webpage movements, to help
+identify you and your shopping cart, and to gather broad demographic information for aggregate use.
+Cookies
+This Louisiana Media Company, LLC site may use a standard technology called a “cookie” to collect
+information about how you use the site. Cookies reside on your computer and help the Louisiana Media
+Company, LLC Website as well as other websites operated by third parties, including our vendors and
+advertisers, to recognize your computer’s browser as a previous visitor. This information allows us to
+customize delivery of information. For example, our site may use cookies to save and remember
+registration information or preferences that you may have set while browsing the site, to keep track of
+your shopping cart, to ensure you don’t see the same ad content repeatedly, to deliver content specific to
+your interests, and to save your password so you don’t have to re-enter it each time you visit our site. We
+use cookies only to gather information as indicated in this policy; however, the use of cookies, web
+beacons, or similar technologies by our vendors, advertisers, and affiliates, is subject to their own privacy
+policies, not ours. For additional information about ad network providers, visit
+http://www.networkadvertising.org. Disabling cookies may result in receiving less than the full benefit from
+the use of this Louisiana Media Company, LLC Website.
 
-2) **Personally Identifiable Information:** Personally Identifiable Information is any information that personally identifies you. It can be your first and last name, your email address, your home address, or your telephone number. Sometimes this personal information is needed when you order products online or subscribe to an email newsletter. Other times, web sites collect this information to help target advertising and marketing.
+
+Children’s Personal Information
+Consistent with the Children’s Online Privacy Protection Act:
+ This site does NOT knowingly collect, use, or disclose personal information (including online contact
+information) of children under the age of 13.
+ In the event that a child under the age of 13 attempts to register on our site, we will NOT knowingly
+accept the registration, and if we become aware that a child has registered through the use of false
+registration information, we will attempt to cancel the user account and to delete the information received
+from the child.
+ In the event that a child posts personal information in a public forum such as a chat room, we will attempt
+to delete that information once we become aware of it.
+ Louisiana Media Company, LLC does not knowingly contact children under age 13 about special offers
+or for marketing purposes without a parent's permission.
+Your Choices
+This Louisiana Media Company, LLC site provides you the opportunity to opt-out of receiving email
+communications from us and our special relationship partners. To opt-out of receiving email
+communications, you may:
+ Modify your registered user information on the Louisiana Media Company, LLC Website; or Send an
+email to fox8news@fox8tv.net.
+Please include the web address, call letters or station’s name. (Please note that this email address should
+only be used for specific technical issues related to the website such as unsubscribing from a database.
+The recipients of these emails will not be able, in general to answer concerns regarding
+programming, promotions or other non-web related issues.)
+Access to Personal Information
+Louisiana Media Company, LLC gives you the opportunity to modify or remove personal information that
+you have provided to us. You may do so by modifying your password-protected registered user
+information on the Louisiana Media Company, LLC Website.
+Security of Your Personal Information
+Louisiana Media Company, LLC employs reasonable security measures consistent with standard industry
+practice for information collected through this website.
+Disclosure of Personal Information
+Louisiana Media Company, LLC may disclose or transfer your personal information in the following
+circumstances:
+ To enforce the Terms of Use Agreement;
+ To defend the property and rights of Louisiana Media Company, LLC, our corporate parents and/or our
+affiliates;
+ When we reasonably believe that it is justifiable in order to investigate, prevent, or take action regarding
+illegal or harmful activities, suspected fraud, or threats to the safety, security, and/or welfare of users,
+employees, third-parties, and property;
+ With our agents, advisors, and partners for the foregoing reasons and/or for other legitimate business
+purposes;
+ As compelled or authorized by applicable law or in connection with legal or regulatory proceedings;
+ To a new and/or successor entity, in the event that Louisiana Media Company, LLC or any of the
+broadcast stations licensed to it and its corporate subsidiaries, are acquired by, transferred to, or merged
+with another company, in whole or in part; and
+ As may be required by third-party specialists that provide technical support for this website, in connection
 
 
-
-
-We Collect Aggregate Information ? such as your IP address (a number that's automatically assigned to your computer whenever you're surfing the Internet), browser type (e.g., Netscape or Internet Explorer), and domain (e.g., "XYZ.com"). We do this in the background so it does not interrupt your cruising speed. We use this information to help diagnose problems with our servers, to administer our site, and to gather broad demographic information. We share Aggregate Information with third parties for advertising and promotional purposes. None of this information is connected with Personally Identifiable Information. So, when you enter our site, you are anonymous and will remain that way unless you choose otherwise. **Cookies**  
-We will never use cookies to retrieve information from your computer. We do not use information transferred through cookies for any promotional or marketing purposes.
-
-You may occasionally get cookies from our advertisers and our vendors. We do not control these cookies, and these cookies are not subject to our privacy policy. The use of advertising cookies sent by third-party servers is standard in the Internet industry.
-
-Most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some parts of the site, such as the polls, surveys, contest, and game areas, will not function properly if you do so. **Subpoenas and Law Enforcement Agencies**  
-We reserve the right to cooperate with government and law enforcement agencies engaged in investigations of activities that are, or are believed to be, illegal. Further, we may share your Personally Identifiable Information with such agencies if we believe that a crime or any act that endangers the health and safety of others may have been or may be committed. We may also share your Personally Identifiable Information in response to an appropriate subpoena. **Community and Public Area**  
-Information posted to message boards or chat areas is available to the general public. Please use caution when posting any such information. Users under the age of 18 should be particularly careful not to provide any personally identifying information while using chat rooms or message boards. We reserve the right to, but are not obligated to, refuse or delete any content that in our sole discretion is considered inappropriate. Please see our Terms of Service for additional information. **Feedback and Email**  
-On every page at fox8live.com there is a link to a "CONTACT US" email form so you can comment, complaint, make suggestions, and ask questions. Your email address is required on this form so we can answer your questions, and we want your name, too, so we can address our answer in a mannerly way. We may also track your browser type and referring URL to better diagnose technical issues you may be having. We do not share this information with third parties and we will use it only to answer your correspondence. **Links To Other Sites**  
-When you visit our site, you may be directed to other sites outside our service. For example, if you click on a banner advertisement, you will leave our site. This includes links to sites operated by advertisers, sponsors and partners that may use our logo as part of an agreement with us. These other sites may send their own cookies to users, collect data, or solicit personal information. These other sites are not subject to our privacy policy and we are not responsible for the privacy policies for these other sites, nor for the use of any information that these sites may collect. **Security of Private Information**  
-Any personal information you give us is kept in secure files. Access is limited to the few employees who have a need to know. We would like to tell you that your information is as safe with us as it is in your head, but, as hackers have proved worldwide, no computer security system is entirely foolproof. The most any web site can do is make reasonable efforts, which is what we do at fox8live.com, to protect your information from theft, misuse and alteration.
+with website maintenance, modification, and/or repairs.
+Contacting the Website
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this
+website, you can contact fox8news@fox8tv.net. Please include the web address, call letters or station’s
+name. Please note that this email address should only be used for specific technical issues related to the
+website such as unsubscribing from a database. The recipients of these emails will not be able, in
+general to answer concerns regarding programming, promotions or other non-web related issues.
+Effective Date: February 17, 2009
+© 2009 Louisiana Media Company, LLC Media Group, LLC
