@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the australiangeographic.com.au privacy policy that was archived on 2009-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090630020803id_/http%3A//www.australiangeographic.com.au/journal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australiangeographic.com.au privacy policy that was archived on 2009-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091024045928id_/http%3A//www.australiangeographic.com.au/journal/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Australian Geographic
 
