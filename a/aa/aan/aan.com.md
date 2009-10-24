@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aan.com privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530042802id_/http%3A//www.aan.com/globals/axon/assets/3269.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aan.com privacy policy that was archived on 2009-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091024174845id_/http%3A//www.aan.com/globals/axon/assets/3269.pdf) for the most accurate reproduction.*
 
 # Privacy Statement
 
