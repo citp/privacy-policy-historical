@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the coloradotech.edu privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628045430id_/http%3A//www.coloradotech.edu/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coloradotech.edu privacy policy that was archived on 2009-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091024083538id_/http%3A//www.coloradotech.edu/Privacy.aspx) for the most accurate reproduction.*
 
 # Colorado Technical University - CTU
 
   * Print
-  * [ Email](http://www.addthis.com/bookmark.php)
+  * [ Email ](http://www.addthis.com/bookmark.php)
   * Bookmark
 
 
@@ -57,11 +57,3 @@ Career Education Corporation
 Suite 600  
 Hoffman Estates, Illinois 60195  
 Phone: 847-781-3600
-
-Request More Info!
-
-Tell us more about yourself and specify your campus and program of interest. An admissions representative will contact you to provide you with more information.
-
- 
-
-*Required Fields
