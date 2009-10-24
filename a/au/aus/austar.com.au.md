@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the austar.com.au privacy policy that was archived on 2009-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090517081833id_/http%3A//www.austar.com.au/terms/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the austar.com.au privacy policy that was archived on 2009-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091024105221id_/http%3A//www.austar.com.au/terms/privacy.asp) for the most accurate reproduction.*
 
 # AUSTAR Television - Privacy Statement
 
