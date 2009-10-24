@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostingfarms.com privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428125903id_/http%3A//www.hostingfarms.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostingfarms.com privacy policy that was archived on 2009-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091024075121id_/http%3A//www.hostingfarms.com/privacy.htm) for the most accurate reproduction.*
 
 # Web Hosting India | Unlimited Domain Hosting | Windows/Linux Web hosting | Best and fast Hosting in India
 
@@ -23,6 +23,6 @@
 | Contacting Us |   
 | If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please contact us. You can also correct any factual errors in that information or require us to remove your details form any list under our control.  |   
   
-[Home](https://web.archive.org/web/20090428125903id_/http%3A//www.hostingfarms.com/index.htm)  |  [Hosting](https://web.archive.org/web/20090428125903id_/http%3A//www.hostingfarms.com/hosting.htm)  |  [Affiliates](https://web.archive.org/web/20090428125903id_/http%3A//www.hostingfarms.com/affiliates.htm)  |  [ Payment Info](https://web.archive.org/web/20090428125903id_/http%3A//www.hostingfarms.com/payment_info.htm) | [Contact Us](https://web.archive.org/web/20090428125903id_/http%3A//www.hostingfarms.com/contact.htm)
+[Home](https://web.archive.org/web/20091024075121id_/http%3A//www.hostingfarms.com/index.htm)  |  [Hosting](https://web.archive.org/web/20091024075121id_/http%3A//www.hostingfarms.com/hosting.htm)  |  [Affiliates](https://web.archive.org/web/20091024075121id_/http%3A//www.hostingfarms.com/affiliates.htm)  |  [ Payment Info](https://web.archive.org/web/20091024075121id_/http%3A//www.hostingfarms.com/payment_info.htm) | [Contact Us](https://web.archive.org/web/20091024075121id_/http%3A//www.hostingfarms.com/contact.htm)
 
-©2007. HostingFarms.com. All rights reserved.  [Terms of use](https://web.archive.org/web/20090428125903id_/http%3A//www.hostingfarms.com/tos.htm)  |  [Privacy policy](https://web.archive.org/web/20090428125903id_/http%3A//www.hostingfarms.com/privacy.htm)
+©2007. HostingFarms.com. All rights reserved.  [Terms of use](https://web.archive.org/web/20091024075121id_/http%3A//www.hostingfarms.com/tos.htm)  |  [Privacy policy](https://web.archive.org/web/20091024075121id_/http%3A//www.hostingfarms.com/privacy.htm)
