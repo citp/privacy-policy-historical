@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myvodafone.com.au privacy policy that was archived on 2009-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090107105426id_/http%3A//www.vodafone.com.au/aboutvodafone/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myvodafone.com.au privacy policy that was archived on 2009-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091024100202id_/http%3A//www.vodafone.com.au/aboutvodafone/legal/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -33,7 +33,7 @@ The personal information you provide Vodafone may be used for a number of purpos
 
 
 
-We may also use your personal information for purposes related to those described above which would be reasonably expected by you. For example, we may use your personal information to keep you informed about features of our telecommunications services or conducting analysis in order to provide better service to you. To opt-out of receiving certain Vodafone marketing materials, please **complete and submit this[form](https://web.archive.org/web/20090107105426id_/http%3A/help/unsubscribe/index.htm)** or contact **1555 from your Vodafone mobile** or **1300 650 410**. Please note that Vodafone will still need to send you essential information about your account or changes to your service.
+We may also use your personal information for purposes related to those described above which would be reasonably expected by you. For example, we may use your personal information to keep you informed about features of our telecommunications services or conducting analysis in order to provide better service to you. To opt-out of receiving certain Vodafone marketing materials, please **complete and submit this[form](https://web.archive.org/web/20090925102915id_/http://www.vodafone.com.au/help/unsubscribe/index.htm)** or contact **1555 from your Vodafone mobile** or **1300 650 410**. Please note that Vodafone will still need to send you essential information about your account or changes to your service.
 
 We will not use your information for purposes other than described above unless we have your consent or there are specified law enforcement or public health and safety reasons.
 
