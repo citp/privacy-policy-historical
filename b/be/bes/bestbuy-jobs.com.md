@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestbuy-jobs.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618143128id_/http%3A//www.bestbuy.com/site/olspage.jsp%3Fid%3Dcat12101%26type%3Dpage%26contentId%3D1043363533588%26entryURLID%3Dcat00000%26entryURLType%3Dnull%26h%3D287) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestbuy-jobs.com privacy policy that was archived on 2009-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091024040323id_/http%3A//www.bestbuy.com/site/olspage.jsp%3Fid%3Dcat12101%26type%3Dpage%26contentId%3D1043363533588%26entryURLID%3Dcat00000%26entryURLType%3Dnull%26h%3D287) for the most accurate reproduction.*
 
 # BestBuy.com Help: <Topic>
 
@@ -69,7 +69,7 @@ The Best Buy Companies follow these privacy principles both online and offline i
 
 
 
-Best Buy Co., Inc. is the parent company of the Best Buy Companies, and as such, if you provide information to any of the businesses, stores or Web sites owned or operated by Best Buy, this information may be combined or shared among current or future Best Buy Co., Inc. entities and subsidiaries. The Best Buy Companies operate businesses, retail stores and Web sites under the names Best Buy (BestBuy.com), Best Buy Mobile, (BestBuyMobile.com), Future Shop (FutureShop.ca), Best Buy Canada (BestBuyCanada.ca), Magnolia Audio Video (Magnoliaav.com), Geek Squad (GeekSquad.com), Pacific Sales (PacificSales.com), Speakeasy, (Speakeasy.net), Audio Visions (Avisions.com), Best Buy China (BestBuy.com.cn), Jiangsu Five Star Appliance Co. (Five-Star.cn), among others. 
+Best Buy Co., Inc. is the parent company of the Best Buy Companies, and as such, if you provide information to any of the businesses, stores or Web sites owned or operated by Best Buy, this information may be combined or shared among current or future Best Buy Co., Inc. entities and subsidiaries. The Best Buy Companies operate businesses, retail stores and Web sites under the names Best Buy (BestBuy.com), Best Buy Mobile, (BestBuyMobile.com), Future Shop (FutureShop.ca), Best Buy Canada (BestBuyCanada.ca), Magnolia Audio Video (Magnoliaav.com), Geek Squad (GeekSquad.com), Pacific Sales (PacificSales.com), Speakeasy, (Speakeasy.net), Audio Visions (Avisions.com), Best Buy China (BestBuy.com.cn), Jiangsu Five Star Appliance Co. (Five-Star.cn), Napster (Napster.com) among others. 
 
 Each member of the Best Buy Companies, and/or each Web site established by a member of the Best Buy companies, may have its own Privacy Policy which it may modify as needed consistent with these principles. 
 
@@ -140,7 +140,7 @@ PERSONAL INFORMATION **PROVIDED** TO BEST BUY FROM THIRD PARTIES
 
 _**Information From/About Friends or Family**_
 
-If you provide us information about others, or if others give us your information, we will only use that information for the specific reason it was provided. Examples include providing a friend's shipping address or using our Send-to-a-Friend option in our marketing e-mails. 
+If you provide us information about others, or if others give us your information, we will only use that information for the specific reason it was provided. Examples include providing a friend's shipping address, e-mailing our weekly ad to a friend, and e-mailing friends a link to your Wish List. 
 
 **_Information from Third Parties_**
 
@@ -179,11 +179,13 @@ Back to Top
 
 **CHOICES** REGARDING YOUR PERSONAL INFORMATION 
 
-Once you provide your personal information, we may use it to send you offers, promotions and other marketing and customer experience content. 
+Best Buy communicates with our customers through multiple channels and vehicles to keep you up-to-date on promotions, offers, customer experience content and new products or services.
+
+Once you provide your personal information, we may contact you through direct mail, e-mail or phone. We may continue to communicate with you through these channels unless you request to stop receiving these communications by opting out. Before sending you mobile marketing (e.g., text messages) we will require your express consent by requesting that you opt-in. 
 
 If you no longer wish to receive these communications, let us know by using whichever of the following methods is appropriate under the circumstances: 
 
-  1. Follow the directions on a marketing e-mail or direct mail marketing communication you receive from us. 
+  1. Follow the directions on an e-mail or direct mail marketing communication you receive from us. 
   2. Call 1-888-BEST BUY (1-888-237-8289) with your request and current contact information. 
   3. Send an e-mail with your request and current contact information to: [PrivacyManager@bestbuy.com](mailto:privacymanager@bestbuy.com).
   4. Send a letter with your request and current contact information to:
@@ -191,6 +193,8 @@ Best Buy Corporate Campus
 Attn: Customer Care/Privacy  
 7601 Penn Avenue South  
 Richfield, MN 55423-3645 
+  5. For mobile marketing, you may opt-out by following the instructions provided in the text messages you receive.
+
 
 
 If you send an e-mail or letter request, please be sure to include your full name, address, phone number and e-mail address, as well as the specific changes you would like to make. This will ensure we correctly identify you in our systems and accurately process your request. 
@@ -198,12 +202,11 @@ If you send an e-mail or letter request, please be sure to include your full nam
 Best Buy will take the appropriate steps to modify your preferences with respect to our marketing communications. Due to production, mailing and system timelines, it may take some time to process your request. The following guidelines are provided for your convenience: 
 
   * 10 business days for e-mails
-  * 30 business days for phone calls
-  * 90 business days for direct mail
+  * 30 business days for direct mail and phone
 
 
 
-Until your requested change takes effect, you may still receive marketing communications from us. If you send us your request by regular mail, please allow extra time for us to receive your notice. 
+Until your requested change takes effect, you may still receive marketing communications from us. If you send us your request by regular mail, please allow extra time for us to receive and process your notice. 
 
 Although you may have opted not to receive marketing communications, you may still receive business-related communications such as order confirmations, product recall notices, RewardZone program membership information or other organization-related communications. 
 
@@ -230,7 +233,7 @@ If you send an e-mail or letter request, please be sure to include your current 
 
 Back to Top
 
-**SECURITY OF YOUR** PERSONAL INFORMATION
+**SECURITY** OF YOUR PERSONAL INFORMATION
 
 Whether you are shopping online or in our stores, we use reasonable security measures to protect the confidentiality of personal information under our control and appropriately limit access to it. Best Buy cannot ensure or warrant the security of any information you transmit to us by e-mail, and you do so at your own risk. 
 
@@ -244,7 +247,7 @@ When you create an account on BestBuy.com you are required to establish a passwo
 
 Back to Top
 
-COOKIES, CLICKSTREAM TECHNOLOGY AND THIRD PARTY AD PROVIDERS
+**COOKIES, CLICKSTREAM TECHNOLOGY, THIRD PARTY AD PROVIDERS AND INTEREST-BASED ADVERTISING**
 
 _**Cookies**_
 
@@ -260,19 +263,23 @@ Our Web server automatically collects clickstream information such as the addres
 
 Our Web site may also use other technologies to track which pages our visitors view. This anonymous clickstream data provides our customers with a better shopping experience and helps Best Buy understand how visitors use our Web site. 
 
-_**Third Party Ad Providers**_
+_**Third Party Ad Providers and Interest-Based Advertising**_
 
-The Best Buy Web site uses third party service providers to serve ads across the Internet and to analyze Web site traffic on our behalf. They may collect anonymous information about your visits to our Web site and your interaction with our ads. These companies may use technologies similar to those outlined above to measure the effectiveness of ads and e-mails. They may also use information about your visits to our Web site so that we can provide advertisements about goods and services. 
+We use third-party advertising companies to serve ads when you visit our Web site or other sites across the Internet. These companies may use anonymous information (not including your name, address, e-mail address, or telephone number) about your visits to this and other Web sites. We may also share anonymous information with these companies in aggregate form. In either case, the purpose of the sharing is to provide advertisements about goods and services of interest to you, analyzing and improving the effectiveness of ads and e-mails, and improving and enhancing our site and its content. 
 
-No personally identifiable information is collected in this process. We may share anonymous information with this service provider in an aggregate form, for purposes of analysis and improvement of our site. 
-
-If you would like more information about this practice and to know your choices about not having this information used by our third-party advertiser, visit <http://www.atlasdmt.com/privacy/>. 
+To learn more about interest-based advertising and your privacy, including opting out of such advertising, visit our partner's site [Atlas Solutions](http://www.atlasdmt.com/privacy/). 
 
 Back to Top
 
 COLLECTION OF **CHILDREN'S** PERSONAL INFORMATION
 
 We are committed to protecting the privacy of children. We do not knowingly or intentionally collect personal information online from children under the age of 13. 
+
+Back to Top
+
+U.S. - **EU SAFE HARBOR** FRAMEWORK
+
+We adhere to the U.S.-EU Safe Harbor Framework ("Safe Harbor Framework") Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and are registered with the U.S. Department of Commerce's Safe Harbor Program. 
 
 Back to Top
 
@@ -297,8 +304,8 @@ PRIVACY POLICY **CHANGES**
 
 As Best Buy continues to improve the services, products and the features we provide, this policy is subject to change. If there are changes or additions to this Privacy Policy, we will post those changes here or in other formats for you to review. If we change our information practices or this Privacy Policy in such a way that your personal information may be used or shared in a manner not described in the Privacy Policy at the time you provided it, we will give you the opportunity to opt-out of having your information used or shared in that new manner. 
 
-**Changes** : Modified language describing security measures taken to protect personal information to enhance readability, increase clarity, and ensure compliance with law.
+**Changes** : Included additional details concerning the use of third party providers that deliver interest-based advertising, including links to more information about how interest-based advertising works and how to opt-out of receiving such advertising. Provided instructions on how to opt-out of mobile marketing communications.
 
-Last revision date: October 17, 2008 
+Last revision date: September 29, 2009 
 
 Back to Top
