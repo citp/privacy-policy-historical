@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cltampa.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620134855id_/http%3A//tampa.creativeloafing.com/gyrobase/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cltampa.com privacy policy that was archived on 2009-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091025031533id_/http%3A//tampa.creativeloafing.com/gyrobase/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Creative Loafing Tampa
 
