@@ -1,0 +1,469 @@
+<!--The following is the downloaded HTML source of the tracked.com privacy policy that was archived on 2009-10-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091025115007id_/http%3A//www.tracked.com/legal/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en"><head>
+    <title>Privacy Policy - Tracked.com</title>
+    <link type="text/css" media="all" href="http://69.167.119.56/static/rakedin_com/css/rakedin_sky/rakedin.20091021.01.css" rel="stylesheet">
+<link type="text/css" media="all" href="http://69.167.119.56/static/rakedin_com/css/3rdparty/ui.all.20090508.css" rel="stylesheet">
+<link rel="shortcut icon" href="http://69.167.119.56/static/rakedin_com/images/favicon.ico" type="image/x-icon"> 
+
+
+<link rel="canonical" href="http://www.tracked.com/legal/privacy/">
+
+<style type="text/css">
+/* Netscape 4, IE 4.x-5.0/Win and other lesser browsers will use this */
+#fixedcorner {position: absolute;  right: 10px;  bottom: 0px;  text-align:right;  z-index:101; }
+/* used by Opera 5+, Netscape6+/Mozilla, Konqueror, Safari, OmniWeb 4.5+, iCab, ICEbrowser */
+body > div#fixedcorner {  position: fixed;  text-align:right;  z-index:101; }
+</style>
+
+<!--[if gte IE 5.5]>
+<![if lt IE 7]>
+<style type="text/css">
+/* IE5.5+/Win - this is more specific than the IE 5.0 version */
+div#fixedcorner {  right: auto; bottom: auto;  text-align:right;  z-index:101;
+
+  left: expression( ( -10 - fixme.offsetWidth + ( document.documentElement.clientWidth ? document.documentElement.clientWidth : document.body.clientWidth ) + ( ignoreMe2 = document.documentElement.scrollLeft ? document.documentElement.scrollLeft : document.body.scrollLeft ) ) + 'px' );
+  top: expression( ( -0 - fixme.offsetHeight + ( document.documentElement.clientHeight ? document.documentElement.clientHeight : document.body.clientHeight ) + ( ignoreMe = document.documentElement.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop ) ) + 'px' );
+}
+</style>
+<![endif]>
+<![endif]-->
+
+<style type="text/css">
+/* Netscape 4, IE 4.x-5.0/Win and other lesser browsers will use this */
+#fixeddock {position: absolute;  right: 0px;  bottom: 0px;  text-align:right;  z-index:101; }
+/* used by Opera 5+, Netscape6+/Mozilla, Konqueror, Safari, OmniWeb 4.5+, iCab, ICEbrowser */
+body > div#fixeddock {  position: fixed;  text-align:right;  z-index:101; }
+</style>
+
+<!--[if gte IE 5.5]>
+<![if lt IE 7]>
+<style type="text/css">
+/* IE5.5+/Win - this is more specific than the IE 5.0 version */
+div#fixeddock {  right: auto; bottom: auto;  text-align:right;  z-index:101;
+
+  left: expression( ( -0 - fixme.offsetWidth + ( document.documentElement.clientWidth ? document.documentElement.clientWidth : document.body.clientWidth ) + ( ignoreMe2 = document.documentElement.scrollLeft ? document.documentElement.scrollLeft : document.body.scrollLeft ) ) + 'px' );
+  top: expression( ( -0 - fixme.offsetHeight + ( document.documentElement.clientHeight ? document.documentElement.clientHeight : document.body.clientHeight ) + ( ignoreMe = document.documentElement.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop ) ) + 'px' );
+}
+</style>
+<![endif]>
+<![endif]-->
+
+<meta http-equiv="P3P" href="http://www.tracked.com/w3c/p3p.xml" content="CP=&quot;CAO CURa ADMa DEVa TAIa OUR BUS IND UNI COM NAV INT&quot;">
+
+<meta name="google-site-verification" content="gBjHNKOtwX7NrfJgb-EG355z8PeyTiNFMpMYzZtLHmg">
+
+    <script type="text/javascript" language="javascript" src="http://69.167.119.56/static/rakedin_com/js/3rdparty/jquery-1.3.1.min.20090518.01.js"></script>
+<script type="text/javascript" language="javascript" src="http://69.167.119.56/static/rakedin_com/js/rakedin.20091021.01.js"></script>
+
+<script type="text/javascript" language="javascript">
+
+expandImg = 'http://69.167.119.56/static/rakedin_com/images/feed_expanded.gif';
+collapseImg = 'http://69.167.119.56/static/rakedin_com/images/feed_collapsed.gif';
+
+inactivityMS = 600000;
+asyncRefreshRates["activity"] = inactivityMS;
+asyncTimers["activity"] = setTimeout("setActive(false);", asyncRefreshRates["activity"]);
+//asyncRefreshRates['tickerWatchlist'] = 5000;        
+//asyncRefreshRates['recentEntities'] = 5000;        
+
+asyncRefreshRates['all_tickers'] = 5000;        
+asyncTimers["all_tickers"] = setTimeout("doUpdateAllTickers();", asyncRefreshRates['all_tickers'] + myRand(1,10));
+
+
+j(window).resize(function(){
+    adjustWatchlistHeight();
+});
+
+// use jQuery object instantiated in rakedin.css, called j
+j(document).ready(function(){
+    adjustWatchlistHeight();
+    
+    j("#sortable_watchlists").sortable({
+        // distance: 5,
+        placeholder: 'watchlist_drag_placeholder',
+        forcePlaceholderSize: 'true',
+        handle: '.draggable_image',
+        stop: function(event, ui) {
+            saveNewWatchlistOrder();
+        }
+    });
+    j("#sortable_watchlists").disableSelection();
+
+    
+    /*
+    j("#ticker_watchlist_corner").draggable({
+        drag: function(event, ui) {
+            var reset = getElem("resettickercorner");
+            if (reset != null) {
+                j("#resettickercorner").show();
+            }
+        },
+        handle: ".ticker_corner_handle",
+        zIndex: 102,
+        opacity: 0.75,
+        axis: 'x',
+        containment: ".page",
+        scroll: false
+    });
+    */
+
+    // attach onclick event for every tag with the emkcart class
+    j(".emkcart").click(function(e) {
+        var url = window.location.href;
+        // capture the href and save it
+        var html = j(this).text();
+        var href = j(this).attr("href");
+    
+        var sessionId = "e39b7458277d10fb6c234df5e1acf511";
+        
+        // remove the href
+        //j(this).attr("href", "javascript:void(0); return false;");
+        
+        //e.pageX + "," + e.pageY + " " + date + " " + this.id + " " + window.location + " " + $(this).html() + " " + $(this).attr("href").replace(/^http\:\/\/(www\.)*/i, ""));
+        j.get("/track/click", {sessionId: sessionId, url: url.replace(/^http\:\/\/(www\.)*/i, ""), viewWidth: j(window).width(), viewHeight: j(window).height(), mouseX: e.pageX, mouseY: e.pageY, linkId: this.id, linkHtml: html, linkHref: href.replace(/^http\:\/\/(www\.)*/i, "")});
+
+        // remove the href
+        //j(this).attr("href", href);
+        
+        /*
+        if (j(this).attr("target") == "_new") {
+            window.open(href);
+        } else {
+            window.location = href;
+        }
+        */
+        return true;
+    });
+    
+    // j(".flyover").ri_fly()
+    
+	j.fn.createDialog.defaults = {
+		progress: true,
+		center: true,
+		opacity: 0.7,
+		bg: '#000',
+        index: 2000
+	}
+    
+	j("#feedback_handle").createDialog({
+		progress: false,
+		//addr: '/feedback/',
+		addr: '/contactus/',
+		opacity: 0.6
+	});
+
+    
+
+	j("#contactus_link").createDialog({
+		progress: false,
+		addr: '/contactus/',
+		opacity: 0.6
+	});
+    
+	j("#contactus_link_404").createDialog({
+		progress: false,
+		addr: '/contactus/',
+		opacity: 0.6
+	});
+    
+	j("#login_handle").createDialog({
+		progress: false,
+		addr: '/personal/login',
+		opacity: 0.6
+	});
+
+    j('.tooltip_link').tooltip({
+        track: false,
+        delay: 0,
+        showURL: false,
+        showBody: " - ",
+        fade: 250
+    });
+    
+});        
+
+setInterval(function() {updateMinutes();}, 30000);
+
+</script>
+
+
+</head>
+
+<body>
+<!--[if lte IE 6]><table border="0" cellpadding="0" cellspacing="0" width="100%"><tr><td class="ie6page"><img class="ie6page" src="http://69.167.119.56/static/rakedin_com/images/space.gif" height="1" alt="" /><td></tr><tr><td><![endif]-->
+
+<!-- search bar and stuff on the top -->
+<div class="page">
+   <div style="padding-left:8px" class="content headercontent">
+    
+        <div id="logo_search">    
+            <a id="logo::" class="emkcart" href="/">
+               <img id="ri_logo" src="http://69.167.119.56/static/rakedin_com/images/tracked_logo.jpg">
+            </a>
+            <div id="search_text_box">
+                <div id="input_text">
+                   <input onfocus="javascript:changeStyle(1);" onblur="javascript:closeSuggestions(); changeStyle(0);" onkeydown="javascript:navigateSuggestions(event);" onkeyup="javascript:loadSuggestions(event, this.value);" class="inputBox inputNotSelected" type="text" id="q" name="q" autocomplete="off">
+                   <div id="drop_down_container"><div id="drop_down"></div></div>
+                </div>
+                <!--<div class="search_helper_text">Over 200K companies, 600K people, and 5 million pages. Growing daily.</div>-->
+            </div>
+            <div class="search_button_and_dropdown">
+                <div class="search_button" id="search_button" onclick="javascript:submitTypeAndSearch();">
+                    <div class="text">
+                        <span id="search_text">Search&nbsp;All</span>
+                        
+                        &nbsp;&nbsp;&nbsp;<a href="javascript:void(0);" onclick="javascript:toggleSearchDropdown(); event.cancelBubble=true;"><img src="http://69.167.119.56/static/rakedin_com/images/nav_dropdown_white.gif"></a></div>
+                    <div class="highlight">&nbsp;</div>
+                    <div onclick="javascript:toggleSearchDropdown(); event.cancelBubble=true;" class="divider">&nbsp;</div>
+                </div>
+                <div id="search_dropdown">
+                        <div id="search_dropdown_item_all" class="item selected"><a href="javascript:void(0);" onclick="javascript:changeSearchType('all');">Search&nbsp;All</a></div>
+                        <div id="search_dropdown_item_company" class="item"><a href="javascript:void(0);" onclick="javascript:changeSearchType('company');">Search&nbsp;Companies</a></div>
+                        <div id="search_dropdown_item_person" class="item"><a href="javascript:void(0);" onclick="javascript:changeSearchType('person');">Search&nbsp;People</a></div>
+                    
+                </div>
+            </div>
+            <div id="search_loading">
+                <img id="search_loading_img" src="http://69.167.119.56/static/rakedin_com/images/loading-small.gif">
+            </div>
+            
+            <div class="mainnav" id="nav">
+    <div class="navitem"><a id="nav::" href="/" class="navlink emkcart">Home</a></div>
+    <div class="navitem"><a id="nav::" href="/companies/" class="navlink emkcart">Companies</a></div>
+    <div class="navitem"><a id="nav::" href="/people/" class="navlink emkcart">People</a></div>
+    <div class="navitem"><a id="nav::" href="/industries/" class="navlink emkcart">Industries</a></div>
+    <div class="navdivider">|</div>
+    <div class="navitem"><a id="feedback_handle" class="navlink" href="javascript:void(0);">Feedback</a></div>
+    <div class="navitem"><a id="nav::" href="/tour/" class="navlink emkcart">Tour</a></div>
+</div>
+
+<div class="sign_up_nav">
+    <a id="nav:settings:" href="javascript:void(0);" onclick="javascript:signup(); return false;" class="emkcart">Create account</a>
+    &nbsp;
+    <a id="nav:settings:" href="javascript:void(0);" onclick="javascript:login(); return false;" class="emkcart">Login</a>
+</div>
+    
+            
+            <input type="hidden" id="search_entity_type" value="all">
+            <input type="hidden" id="search_entity_type_button" value="all">
+        </div>
+    
+    
+    </div>
+   
+    <div class="personal_nav" style="padding-top:0px; background-color:#FDF7E1; border:1px solid #B47B01; border-width: 1px 0px;">
+    <div onclick="javascript:event.cancelBubble=true;" class="personal_nav_table">
+
+        <div style="display:none" id="tracker_promotion_nav_bubble" class="promotion_nav_bubble">
+            <div class="helpertooltip promotion_nav_bubble_content">
+                <div class="filter_firehose_close">
+                    <a href="javascript:void(0);" onclick="javascript:toggleNavPromotion('tracker_promotion_nav_bubble');"><img src="http://69.167.119.56/static/rakedin_com/images/dropdown_close.jpg"></a>
+                </div>
+                <img style="position: absolute; top: -20px; left: 20px;" src="http://69.167.119.56/static/rakedin_com/images/helpertooltip_arrow_up.png">
+                <img style="float:left; margin:0px 10px 10px 0px" src="http://69.167.119.56/static/rakedin_com/images/account_setup_track.png">
+                <div style="margin-top:10px" class="signup_bullet">•&nbsp;<strong>Track</strong> news, wires, and business data</div>
+                <div class="signup_bullet">•&nbsp;700,000+ business people</div>
+                <div class="signup_bullet">•&nbsp;200,000+ public and private companies</div>
+                <div style="text-align:center">
+                    <a href="javascript:void(0);" onclick="javascript:signup();">Create an account</a>
+                    or
+                    <a href="/tour/tracker">Learn more</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="item"><a onclick="javascript:toggleNavPromotion('tracker_promotion_nav_bubble');" href="javascript:void(0);">My Tracker</a></div>
+
+        <div style="display:none" id="profile_promotion_nav_bubble" class="promotion_nav_bubble">
+            <div class="helpertooltip promotion_nav_bubble_content">
+                <div class="filter_firehose_close">
+                    <a href="javascript:void(0);" onclick="javascript:toggleNavPromotion('profile_promotion_nav_bubble');"><img src="http://69.167.119.56/static/rakedin_com/images/dropdown_close.jpg"></a>
+                </div>
+                <img style="position: absolute; top: -20px; left: 20px;" src="http://69.167.119.56/static/rakedin_com/images/helpertooltip_arrow_up.png">
+                <img style="float:left; margin:0px 10px 10px 0px" src="http://69.167.119.56/static/rakedin_com/images/account_setup_organize.png">
+                <div style="margin-top:10px" class="signup_bullet">•&nbsp;<strong>Organize</strong> data you need to track</div>
+                <div class="signup_bullet">•&nbsp;Connections you need to make</div>
+                <div class="signup_bullet">•&nbsp;Communications you need to send</div>
+                <div style="text-align:center">
+                    <a href="javascript:void(0);" onclick="javascript:signup();">Create an account</a>
+                    or
+                    <a href="/tour/profile">Learn more</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="item"><a onclick="javascript:toggleNavPromotion('profile_promotion_nav_bubble');" href="javascript:void(0);">My Profile</a></div>
+        
+        <div style="display:none" id="connect_promotion_nav_bubble" class="promotion_nav_bubble">
+            <div class="helpertooltip promotion_nav_bubble_content">
+                <div class="filter_firehose_close">
+                    <a href="javascript:void(0);" onclick="javascript:toggleNavPromotion('connect_promotion_nav_bubble');"><img src="http://69.167.119.56/static/rakedin_com/images/dropdown_close.jpg"></a>
+                </div>
+                <img style="position: absolute; top: -20px; left: 20px;" src="http://69.167.119.56/static/rakedin_com/images/helpertooltip_arrow_up.png">
+                <img style="float:left; margin:0px 10px 10px 0px" src="http://69.167.119.56/static/rakedin_com/images/account_setup_connect.png">
+                <div style="margin-top:10px" class="signup_bullet">•&nbsp;Make business <strong>connections</strong></div>
+                <div class="signup_bullet">•&nbsp;Show connections what you are tracking</div>
+                <div class="signup_bullet">•&nbsp;See what information others are tracking</div>
+                <div style="text-align:center">
+                    <a href="javascript:void(0);" onclick="javascript:signup();">Create an account</a>
+                    or
+                    <a href="/tour/connections">Learn more</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="item"><a onclick="javascript:toggleNavPromotion('connect_promotion_nav_bubble');" href="javascript:void(0);">My Connections</a></div>
+        
+        <div style="display:none" id="settings_promotion_nav_bubble" class="promotion_nav_bubble">
+            <div class="helpertooltip promotion_nav_bubble_content">
+                <div class="filter_firehose_close">
+                    <a href="javascript:void(0);" onclick="javascript:toggleNavPromotion('settings_promotion_nav_bubble');"><img src="http://69.167.119.56/static/rakedin_com/images/dropdown_close.jpg"></a>
+                </div>
+                <img style="position: absolute; top: -20px; left: 20px;" src="http://69.167.119.56/static/rakedin_com/images/helpertooltip_arrow_up.png">
+                <div style="text-indent:0px; margin-left:10px" class="signup_bullet">Build your professional profile by uploading employment, autobiographical and geographical information. Also manage the privacy of the messages and information you share on Tracked.</div>
+                <div style="text-align:center">
+                    <a href="javascript:void(0);" onclick="javascript:signup();">Create an account</a>
+                    or
+                    <a href="/tour/profile">Learn more</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="item"><a onclick="javascript:toggleNavPromotion('settings_promotion_nav_bubble');" href="javascript:void(0);">My Settings</a></div>
+        
+        <div style="display:none" id="message_promotion_nav_bubble" class="promotion_nav_bubble">
+            <div class="helpertooltip promotion_nav_bubble_content">
+                <div class="filter_firehose_close">
+                    <a href="javascript:void(0);" onclick="javascript:toggleNavPromotion('message_promotion_nav_bubble');"><img src="http://69.167.119.56/static/rakedin_com/images/dropdown_close.jpg"></a>
+                </div>
+                <img style="position: absolute; top: -20px; left: 20px;" src="http://69.167.119.56/static/rakedin_com/images/helpertooltip_arrow_up.png">
+                <img style="float:left; margin:0px 10px 10px 0px" src="http://69.167.119.56/static/rakedin_com/images/account_setup_share.png">
+                <div style="margin-top:10px" class="signup_bullet">•&nbsp;<strong>Share</strong> messages publicly or privately</div>
+                <div class="signup_bullet">•&nbsp;Group your connections</div>
+                <div class="signup_bullet">•&nbsp;See what connections are saying in real-time</div>
+                <div style="text-align:center">
+                    <a href="javascript:void(0);" onclick="javascript:signup();">Create an account</a>
+                    or
+                    <a href="/tour/messages">Learn more</a>
+                </div>
+            </div>
+        </div>
+
+        
+        <div class="item">
+            <img src="http://69.167.119.56/static/rakedin_com/images/edit.gif">
+            <a onclick="javascript:toggleNavPromotion('message_promotion_nav_bubble');" href="javascript:void(0);">Post Message</a>
+        </div>
+        
+        <div style="font-weight:bold;" class="item">
+            <img src="http://69.167.119.56/static/rakedin_com/images/descarrow_left.png">
+            <a href="javascript:void(0);" onclick="javascript:signup(); return false;">Create a free account</a> to unlock these features!
+        </div>
+        <div style="clear:left"></div>
+    </div>
+</div>
+
+    
+</div> <!-- end id="header" -->
+
+
+
+    <div class="page">
+        <div class="content maincontent indexcontent">
+            <div class="list_column privacy_content">
+                <h1>Privacy Policy</h1>
+<p class="date">Last Updated: October 19, 2009</p>
+
+<p>Your privacy, and the privacy of all registered users of Tracked.com ("Tracked.com"), is important to us. Accordingly, we have adopted the following privacy policy. Our policy is based on the principles of notice, choice, access and security in the collection and use of all information regarding our users and their activities at our site.</p>
+
+<p>This policy tells you, among other things, what information we gather from you, how we may use or disclose that information and our efforts to protect it. Please read this policy carefully, and feel free to contact us at privacy-at-Tracked-dot-com if you have any questions regarding its contents.</p>
+
+<p class="section">Types of Information Collected</p>
+
+<p>In connection with your use of our site, we ask for and may collect a variety of information from and about you in different ways. For example, if you register to use our site, we ask for and store information such as your email, first name, last name, username, industry, job title, company, year of birth, gender, country, postal code, photo and a brief description of yourself. Only email, first name, last name, username, industry, postal code and country are required entries.</p>
+
+<p>When you use Tracked.com, you may set up your personal profile, form relationships, send messages, perform searches and queries, form groups, set up events, and transmit information through various channels. We collect this information so that we can provide you the service and offer personalized features. In most cases, we retain it so that, for instance, you can return to view prior messages you have sent or easily see your contact list. When you update information, we usually keep a backup copy of the prior version for a reasonable period of time to enable reversion to the prior version of that information.</p>
+
+<p>You post content on the Site at your own risk. Although we allow you to set privacy options that limit access to your pages, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other Users with whom you may choose to share your pages and information. Therefore, we cannot and do not guarantee that content you post on the Site will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Site. You understand and acknowledge that, even after removal, copies of content you post may remain viewable in cached and archived pages or if other Users have copied or stored content you post.</p>
+
+<p>Any improper collection or misuse of information provided on Tracked.com is a violation of the Tracked.com Terms of Use and should be reported to the contact identified on the Tracked.com website. </p>
+
+<p>If you choose to use our invitation service to tell a contact about our site, we will ask you for information needed to send the invitation, such as your contact's email address. We will send your contact an email or instant message in your name inviting him or her to visit the site, and may send up to two reminders to them. Tracked.com stores this information to send invitations and reminders, to register a contact connection if your invitation is accepted, to allow you to see invitations you have sent, and to track the success of our referral program. Your friend may contact us through the Tracked.com website to request that we remove this information from our database.
+</p>
+
+<p class="section">Use of Cookies</p>
+
+<p>Use of certain features on Tracked.com requires that you accept the use of cookies, which are small data files that our Web site sends to your browser for storage on your computer"s hard drive. We use cookies to protect confidential data, track activity at our site and better serve your needs and interests.</p>
+
+<p>Third party ads displayed on Tracked.com may also contain cookies set by the advertiser or their agent. Tracked.com does not control these cookies. Users of Tracked.com should consult the privacy policies of the advertiser or their agent to learn how they use cookies.
+</p>
+
+<p class="section">Use of Information</p>
+<p>We use your personally identifying information to identify and register you as a user of the site and to customize the various features of the website, such as news headline updates. When you register with Tracked.com, you create your own profile and privacy settings. Your profile information, as well as your name, email and photo, are displayed to people in the networks specified in your privacy settings to enable you to connect with people on Tracked.com.  We may use your email address to contact you directly regarding services or products that we believe may be of interest to you, only if you opt for such use during the registration process. You can opt out at any time using the settings section of the website. We may also associate your personally identifying information with information we collect about your preferences and activities at the site, such as the particular pages you request at the site. We may vary the content you receive in future visits to the site based on your preferences and activities.</p>
+
+<p>We may combine your personally identifying information, and information about your preferences and activities, with those of all or a particular group of our users to prepare collective profiles of our users and their activities. For example, we may track the number of our users who view certain pages or use certain features. Such information, and other information we derive from individual users' information, allows us to continue to grow and improve our Web site.</p>
+
+<p>Profile information is used by Tracked.com primarily to be presented back to and edited by you when you access the service and to be presented to others permitted to view that information by your privacy settings. In some cases where your privacy settings permit it (e.g., posting insights), other Tracked.com users may be able to supplement your profile.</p>
+
+<p>Profile information you submit to Tracked.com will be available to users of Tracked.com who belong to at least one of the networks you allow to access the information through your privacy settings (e.g., coworkers, friends, contacts, etc.). Your name, company, and profile picture thumbnail will be available in search results Tracked.com and those limited pieces of information may be made available to third party search engines. This is primarily so your friends can find you and send a friend request. People who see your name in searches, however, will not be able to access your profile information unless they have a relationship to you (contact, coworker, etc.) that allows such access based on your privacy settings.</p>
+
+<p>Tracked.com may send you service-related announcements from time to time through the general operation of the service. For instance, if a friend sends you a new message, you may receive an email alerting you to that fact.</p>
+
+<p>Tracked.com reserves the right to send you notices about your account even if you opt out of all voluntary email notifications.</p>
+
+<p>We may use information about you that we collect from other sources, including but not limited to newspapers and Internet sources such as blogs, instant messaging services, and other users of Tracked.com, to supplement your profile.</p>
+
+<p class="section">Disclosure of Information</p>
+
+<p>We may provide your personally identifying information, and information about your activities and preferences, to other companies wishing to contact you about products or services, but only to those that we believe impose reasonable safeguards on the privacy of your information. We may also provide third parties with collective profiles of our user groups and their activities and preferences. Such collective profiles may also be disclosed in describing our site and services to prospective partners, advertisers and other third parties, and for other lawful purposes.</p>
+
+<p>Finally, we may disclose information to fulfill certain legal and regulatory requirements or if we believe, in good faith, that such disclosure is legally required or necessary to protect others' rights or to prevent harm.</p>
+
+<p class="section">Security</p>
+
+<p>Tracked.com uses reasonable administrative, technical, personnel and physical measures to safeguard personally identifying information in its possession against loss, theft and unauthorized use, disclosure or modification. In addition, Tracked.com uses reasonable methods to make sure that personally identifying information is accurate, up-to-date and appropriately complete. Regardless of the precautions taken by you or by us, "perfect security" does not exist on the Internet. We cannot ensure or warrant the security of any information you transmit to us, and you transmit such information at your own risk.</p>
+
+<p class="section">Changes to Privacy Policy</p>
+
+<p>It may be necessary from time to time for us to modify this policy to reflect changes in the way we collect and use information or changes in privacy-related laws, regulations, and industry standards. Accordingly, we reserve the right to change this policy at any time by posting the revised policy on this web site. This policy was posted on October 19, 2009. Data will be handled in accordance with the policy in effect at the time the data is used, subject to the user's right to opt out of revisions to this policy implemented since the data was first collected.</p>
+    
+            </div>            
+        </div> <!-- profile box -->
+    </div>
+    
+
+<div class="page">
+    <div class="content footercontent footercontent2">
+        
+© 2009 Tracked.com. All Rights Reserved.
+&nbsp;&nbsp;<a class="emkcart" id="footer:faq:" href="/aboutus/">About Us</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;<a class="emkcart" id="footer:faq:" href="/tour/">Tour</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;<a id="contactus_link" href="javascript:void(0);">Contact Us</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;<a class="emkcart" id="footer:tos:" href="/legal/tos/">Terms of Use</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;<a class="emkcart" id="footer:privacy:" href="/legal/privacy/">Privacy Policy</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;<a class="emkcart" id="footer:rakedinsights:" href="http://insights.tracked.com">Tracked.com Insights</a>
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-7401092-4");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+    </div>
+</div> <!-- end id="header" -->
+
+<input id="prev_url" name="prev_url" type="hidden" value="">
+
+<!--[if lte IE 6]></td></tr></table><![endif]-->
+
+<div id="put_contacts_here"></div>
+
+
+</body></html>
