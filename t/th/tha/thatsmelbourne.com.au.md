@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thatsmelbourne.com.au privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617041153id_/http%3A//thatsmelbourne.com.au/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatsmelbourne.com.au privacy policy that was archived on 2009-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091025174014id_/http%3A//www.thatsmelbourne.com.au/Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # That's Melbourne - Privacy
 
