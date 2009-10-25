@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unomatch.com privacy policy that was archived on 2009-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090310225721id_/http%3A//www.unomatch.com/page/general/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unomatch.com privacy policy that was archived on 2009-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091025173523id_/http%3A//www.unomatch.com/page/general/pp) for the most accurate reproduction.*
 
-# 100% Free Online Dating at unoMatch.com, come experience true freedom! | unoMatch Privacy Policy
+# Premier Online Dating and matchmaking services for singles at unoMatch.com | unoMatch Privacy Policy
 
 PRIVACY STATEMENT: unoMatch.com is where adults come to meet other adults online. All users must be 18 years or older. When you visit unoMatch.com and register as a member you will be submitting certain information which may include your name, address, email address, phone number, payment information and personal preferences in order to use unoMatch.com service and web site. The information you submit cannot be accessed by the public to identify you as a specific individual, and will only be used to find your unoMatch.
 
