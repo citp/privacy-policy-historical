@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tidbits.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609001404id_/http%3A//db.tidbits.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tidbits.com privacy policy that was archived on 2009-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091025183700id_/http%3A//db.tidbits.com/privacy.html) for the most accurate reproduction.*
 
 # TidBITS: Mac news for the rest of us
 
-(Last updated 03-Jan-08.) 
+(Last updated 10-Jun-2009.) 
 
 TidBITS Publishing Inc. takes online privacy very seriously. We actively protect the privacy of users of TidBITS Web sites and people who subscribe to TidBITS publications and mailing lists.
 
@@ -38,13 +38,15 @@ We may record information about queries submitted to TidBITS search facilities t
 
 **Editorial Mail** \-- Email messages sent to TidBITS editorial addresses are considered public statements and become the property of TidBITS Publishing Inc. Unless noted otherwise in the message itself, TidBITS may publish such messages (including the author's name and email address) in whole or in part on TidBITS Web sites and/or in TidBITS publications. TidBITS will generally try to contact correspondents before any such publication, but makes no guarantee to do so. TidBITS will honor any request not to publish a message, or not to publish the correspondent's name or email address. 
 
+**Web Site Comments** \-- To post a comment on an article, you must provide your name and email address. Your name will appear on all of your comments. We use your email address only to send you a one-time verification message confirming that you posted the comment. We also store your address to allow you to verify using other Web browsers in the future. TidBITS holds these email addresses in the strictest confidence, and will not disclose specific subscriber information under any circumstances unless required by law. TidBITS databases can be accessed by only a few members of the TidBITS staff and are well protected against theft, tampering, and misuse (electronic or otherwise). 
+
 **Discussion Lists & Archives** \-- TidBITS maintains email discussion lists. Although subscriber information is maintained in the strictest confidence (see above), participating in discussion lists will reveal information about yourself such as your email address and (possibly) your name to all subscribers. This information could be collected by a third party. Additionally, users should consider any discussion list a public forum, and exercise caution in disclosing any personal information.
 
 Web-based archives of discussion lists maintained by TidBITS will also include information disclosed by discussion participants; however, we go to some effort to ensure information such as email addresses can't easily be harvested by automated programs. 
 
 **Surveys** \-- TidBITS may ask readers and/or Web site users to participate in surveys. In all cases, participation will be voluntary. If a survey asks for personal information, answering those questions will be optional. 
 
-**DealBITS Drawings** \-- To participate in DealBITS drawings, you must provide us with your email address and name. We will use that information for necessary administrative communications, such as notification of all the participants of the winning entry. We will publish the name (but not the email address) of the winner in TidBITS and in an email message to all DealBITS participants. Lastly, we will share the name and email address of the winner with company providing the prize for purposes of registration or delivery (in which case the winner may be required to provide a postal address to the sponsoring company as well). 
+**DealBITS Drawings** \-- To participate in DealBITS drawings, you must provide us with your email address and name. We will use that information for necessary administrative communications, such as notification of all the participants of the winning entry. We will publish the name (but not the email address) of the winner(s) in TidBITS and in an email message to all DealBITS participants. Lastly, we will share the name and email address of the winner(s) with company providing the prize for purposes of registration or delivery (in which case the winner(s) may be required to provide a postal address to the sponsoring company as well). 
 
 We will not share names or email addresses of any other DealBITS participants with any third party, including the sponsoring company. 
 
