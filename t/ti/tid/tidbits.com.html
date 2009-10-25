@@ -1,27 +1,189 @@
-<!--The following is the downloaded HTML source of the tidbits.com privacy policy that was archived on 2008-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080609001404id_/http%3A//db.tidbits.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tidbits.com privacy policy that was archived on 2009-10-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091025183700id_/http%3A//db.tidbits.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
+	<meta http-equiv="content-type" content="text/html;charset=utf-8">
+	<meta http-equiv="Content-Language" content="en">
 	<title>TidBITS: Mac news for the rest of us</title>
 
-	<meta http-equiv="content-type" content="text/html;charset=utf-8">
 	<meta name="description" content="TidBITS is a free email and Web publication covering the Macintosh Internet community.">
 	<meta name="keywords" content="Apple, Mac, Macintosh, Mac OS, Mac OS X, newsletter, Internet, analysis, reviews, technology, news, TidBITS, TidBITS Talk, Engst">
 	<link rel="Help" href="http://www.tidbits.com/about/about-tidbits.html" title="About TidBITS">
 	<link rel="Search" href="http://www.tidbits.com/search/" title="Search All TidBITS Content">
-	<link rel="Author" href="http://db.tidbits.com/contact.html" title="Contact Information">
+	<link rel="Author" href="http://www.tidbits.com/about/contact-info.html" title="Contact Information">
 	<link rel="Contents" href="tb-issues/" title="TidBITS Issue Archive">
-
 	<link rel="alternate" type="application/rss+xml" href="http://db.tidbits.com/feeds/tidbits.rss" title="TidBITS Full Text Feed">
+	<link rel="alternate" type="application/rss+xml" href="http://db.tidbits.com/commentfeeds/firehose.xml" title="TidBITS Full Comments Feed">
 
-	<link rel="stylesheet" href="/tb-master_v23.css" type="text/css">
+	<link rel="stylesheet" href="/tidbits_2009_002.css" type="text/css">
 	<link rel="stylesheet" type="text/css" media="print" href="/tb-new-print.css">
 	<script src="/javascript/prototype.js" type="text/javascript"></script>
+	<script src="/javascript/scriptaculous.js" type="text/javascript"></script>
 	<script src="/javascript/tb.js" type="text/javascript"></script>
+	<script src="/js-global/FancyZoom.js" type="text/javascript"></script>
+	<script src="/js-global/FancyZoomHTML.js" type="text/javascript"></script>
 	<meta name="viewport" content="width:940">
-</head>
+	<script type="text/javascript" src="http://api.recaptcha.net/js/recaptcha_ajax.js"></script>
+	<script type="text/javascript" src="http://db.tidbits.com/ads/delivery/spcjs.php?id=2"></script></head>
+<body onload="setupZoom()"><div id="ZoomSpin" style="position: absolute; left: 10px; top: 10px; visibility: hidden; z-index: 525;"><img id="SpinImage" src="/images-global/zoom/zoom-spin-1.png"></div><div id="ZoomBox" style="position: absolute; left: 10px; top: 10px; visibility: hidden; z-index: 499;"><img src="/images-global/zoom/spacer.gif" id="ZoomImage" border="0" style="box-shadow: rgba(0, 0, 0, 0) 0px 5px 25px; display: block; width: 10px; height: 10px; cursor: pointer;"><div id="ZoomClose" style="position: absolute; left: -15px; top: -15px; visibility: hidden;"><img src="/images-global/zoom/closebox.png" width="30" height="30" border="0" style="cursor: pointer;"></div></div><div id="ZoomCapDiv" style="position: absolute; visibility: hidden; margin-left: auto; margin-right: auto; z-index: 501;"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right"><img src="/images-global/zoom/zoom-caption-l.png" width="13" height="26" style="display: block;"></td><td background="/images-global/zoom/zoom-caption-fill.png" id="ZoomCaption" valign="middle" style="font-size: 14px; font-family: Helvetica; font-weight: bold; color: rgb(255, 255, 255); text-shadow: rgb(0, 0, 0) 0px 2px 4px; white-space: nowrap;"></td><td><img src="/images-global/zoom/zoom-caption-r.png" width="13" height="26" style="display: block;"></td></tr></tbody></table></div>
+<!-- popup query -->
+<div id="big_ole_background" style="display:none">&nbsp;</div>
 
-<body onload="load_votes('')">
+<div id="tipbits_enclosure_preview" style="display:none">
+<div class="tearoffbox_wide_container">
+<div class="tearoffbox_wide_tips">
+
+<div class="tip_display">
+<div class="preview">
+<h6><span id="p_tips_title"></span></h6>
+<p id="p_tips_text"></p>
+<p>Visit <a href="javascript:void(0)" id="p_url"><span id="p_label"></span></a></p>
+<p class="credit">Submitted by <span id="p_reader"></span></p>
+<p><input type="submit" value="Back" name="preview_tip" onclick="preview_box('ts','tipbits_enclosure_preview'); return false;"></p>
+</div>
+</div>
+<div class="tearoffbox_wide_bottom_tips">
+</div>
+
+</div><!-- end tearoffbox_wide_tips -->
+</div><!-- end tearoffbox_wide_container for tips-->
+<!-- end tearoff box wide -->
+</div><!-- end enclosure -->
+
+<div class="popup_box_with_captcha" id="ts" style="display:none">
+	<div id="popup_box_thanks" style="display:none" onclick="close_popup_thanks('popup_box_thanks', 'ts')"><br>Thanks for submitting your tip! All submissions are moderated by an editor before appearing online. We've reset the form so you can enter another tip. Or you can close the tip submission box.	<div class="x_close" id="thanks_upper_right"><a href="javascript:void(0)" onmousedown="close_popup_thanks('popup_box_thanks', 'ts'); return true;">Close</a></div></div>
+	<div class="tip_box_format">
+	<div id="ts_innards" onclick="close_popup_thanks('popup_box_thanks', 'ts')">
+		<div class="tip_box_head">TipBITS Submission</div>
+		<div class="tip_box_form">		
+				
+			<div class="tbf_row" id="ts_message_box" style="display:none">
+				<div class="tbf_wide"><div class="tbf_alert" id="ts_top_message"></div></div>
+			</div>
+			<div class="spacer"></div>
+
+			<form action="foobar.cgi" method="get" name="submit_tip">
+			<div class="tbf_row">
+				<div class="tbf_left">Tip title<span class="required_field">*</span></div><div class="tbf_right"><input type="text" value="" id="tip_title_id" name="tip_title" tabindex="1"></div>
+			</div>
+			<div class="spacer"></div>
+			<div class="tbf_row">
+				<div class="tbf_left">Your tip<span class="required_field">*</span></div><div class="tbf_right"><textarea name="tip_text" rows="3" cols="40" tabindex="2"></textarea></div>
+			</div>
+			<div class="spacer"></div>
+			<div class="tbf_row">
+				<div class="tbf_left">URL</div><div class="tbf_right"><input type="text" value="" name="tip_link_url" tabindex="3"><span class="tip_description"><br>Enter the URL to a Web page that supports your tip.</span></div>
+			</div>
+			<div class="spacer"></div>
+			<div class="tbf_row">
+				<div class="tbf_left">Linked text</div><div class="tbf_right"><input type="text" value="" name="tip_link_label" tabindex="4"><span class="tip_description"><br>Enter the name of the page linked above.</span></div>
+			</div>
+			<div class="spacer"></div>
+			<div class="tbf_row">
+				<div class="tbf_left">Your name<span class="required_field">*</span></div><div class="tbf_right"><input type="text" value="" name="tip_reader_name" tabindex="5"></div>
+			</div>
+			<div class="spacer"></div>
+			<div class="tbf_row">
+				<div class="tbf_left">Your email<span class="required_field">*</span></div><div class="tbf_right"><input type="text" value="" name="tip_reader_email" tabindex="6"></div>
+			</div>
+			<div class="spacer"></div>
+			<div class="spacer"></div>
+				<div class="tbf_wide"><span class="fine_print"><span class="required_field">* indicates required fields</span></span></div>
+			<div class="spacer"></div>
+			<div class="tbf_row">
+				<div class="tbf_wide_extra_top"><span class="fine_print">To help us avoid automated posts and spam, please enter the words below.</span></div>
+			</div>
+			<div class="spacer"></div>
+			<div class="tbf_row">
+				<div class="tbf_wide"><div id="ts_recaptcha"></div></div>
+			</div>
+			<div class="spacer"></div>
+			<div class="tbf_row">
+				<div class="tbf_wide"><input type="submit" value="Preview Your Tip" name="preview_tip" onclick="fill_preview('tipbits_enclosure_preview', 'ts', this.form); return false;" tabindex="7">&nbsp;<input type="submit" value="Send Us Your Tip!" name="submit_this_tip" onclick="handle_tip_submission('ts', '', this.form, 'tip'); return false;" tabindex="8"></div>
+			</div>
+			<div class="spacer"></div>
+			<div class="tbf_row">
+				<div class="tbf_wide"><span class="fine_print">When you submit a tip, you give us permission to use it. Read <a href="javascript:void(0)" onclick="generic_show_hide('tip_terms')">our terms</a> for more details. All submissions are reviewed before publication.</span></div>
+			</div>
+			
+			<div class="tbf_row" id="tip_terms" style="display: none">
+				<div class="tbf_wide"><span class="fine_print">Our terms: By submitting a tip, you agree to assign TidBITS Publishing Inc., a non-exclusive, worldwide, perpetual license to reproduce, publish, and distribute your tip in connection with the TidBITS Web site and associated products in any media. You agree that you created the content you submitted, and that you have the right to assign us this license. You give us permission to use your name, but your email address won't be publicly displayed or shared. We review all submissions before publication, and reserve the right to select which submissions we feel are appropriate for our readers and to edit those we publish.</span></div>
+			</div>
+			<div class="spacer"></div>
+			</form>
+		</div><!-- end tip_box_form -->
+	</div><!-- end tip box innards -->
+	</div><!-- end tip box format -->
+	
+	<div class="x_close" id="ts_upper_right"><a href="javascript:void(0)" onmousedown="HidePopupContent('ts', 'ts', ''); return true;">Close</a></div>
+	
+</div><!-- end tip_submit box-->
+
+<div class="popup_box_with_captcha" id="comm" style="display:none">
+	<div class="tip_box_format">
+	<div id="comment_thanks" style="display:none" onclick="close_popup_thanks('comment_thanks', 'comm')"><br>Thanks for submitting a comment! Please check your email for a link that, when clicked, will verify that you're a real person and cause your comment to appear immediately. <div class="x_close" id="comment_upper_right"><a href="javascript:void(0)" onmousedown="close_popup_thanks('comment_thanks', 'comm'); return true;">Close</a></div></div>
+	<div id="comm_innards" onclick="close_popup_thanks('comment_thanks', 'comm')">
+		<div class="tip_box_head" id="comm_headline">Post a Comment</div>
+		<div class="tip_box_form">		
+				
+			<div class="tbf_row" id="comm_message_box" style="display:none">
+				<div class="tbf_wide"><div class="tbf_alert" id="comm_top_message"></div></div>
+			</div>
+			<div class="spacer"></div>
+
+			<form action="foobar.cgi" method="get" name="post_comment" id="post_comment">
+			<input type="hidden" name="comment_nest" value="">
+			<input type="hidden" name="comment_id" value="">
+			<input type="hidden" name="article_id" value="">
+			<input type="hidden" name="edit" value="">
+			<div class="tbf_row">
+				<div class="tbf_left">In reply to</div>
+				<div class="tbf_right">
+					<div id="cb_quoted_row">
+						<div class="cb_open_quote">“</div>
+						<div id="cb_quoted"></div>
+						<div class="cb_close_quote">”</div>
+					</div>
+					<div class="spacer"></div>
+				</div>
+			</div>
+			<div class="spacer"></div>
+
+			<div class="tbf_row">
+				<div class="tbf_left" style="padding-top:0">Your comment</div>
+				<div class="tbf_right"><textarea tabindex="1" name="cb_item_add" id="cb_item_add" rows="4" cols="50" onkeydown="count_insert('cb_item_add','cb_char_count')"></textarea><br><div class="cb_char_count" id="cb_add_count">Remaining characters: <span id="cb_char_count">0</span></div></div>
+			</div>
+			<div class="spacer"></div>			
+
+			<div class="tbf_row">
+				<div class="tbf_left">Your name</div><div class="tbf_right" style="margin-top:8px"><input tabindex="2" type="text" value="" name="cb_add_name" id="cb_add_name" style="margin-top: -4px"></div>
+			</div>
+			<div class="spacer"></div>
+			
+			<div class="tbf_row">
+				<div class="tbf_left">Your email</div><div class="tbf_right"><input tabindex="3" type="text" name="cb_add_email" id="cb_add_email"></div>
+			</div>
+			<div class="spacer"></div>
+			
+			<div class="tbf_row">
+				<div class="tbf_left">&nbsp;</div><div class="tbf_right"><input id="comm_post_comment" tabindex="4" type="submit" value="Post Comment" name="submit_this_comment" style="width:100px; float:right" onclick="cb_post_submit(); return false;"></div>
+			</div>
+			<div class="spacer"></div>
+			
+			<div class="tbf_row" id="comment_terms">
+				<div class="tbf_wide"><span class="fine_print">Our terms: We reserve the right to edit or delete any comment, so please post thoughtfully. We use your email address <i>only</i> to send you a one-time verification message confirming that you posted this comment. We also store your address to allow you to verify using other Web browsers in the future. For more info, see our <a href="http://db.tidbits.com/privacy.html">privacy policy</a>.</span></div>
+			</div>
+			<div class="spacer"></div>
+
+			</form>
+		</div><!-- end comm_form -->
+	</div><!-- end comm box innards -->
+	</div><!-- end comm box format -->
+	
+	<div class="x_close" id="comm_upper_right"><a href="javascript:void(0)" onmousedown="HidePopupContent('comm', 'comm', ''); return true;">Close</a></div>
+	
+</div><!-- end comm_submit box-->
+
 
 <!-- start mainbody -->
 <div id="mainbody">
@@ -30,58 +192,20 @@
 <div id="header">
 
 
-<!-- start logo_staff container -->
-<div id="logo_staff">
 
 	<div id="tblogo">
-	<a href="/"><img src="/images/tblogo8.png" alt="TidBITS: Mac News for the Rest of Us" width="210" height="82" border="0"></a>
+	<a href="/"><img src="/images/tblogo9.gif" alt="TidBITS: Mac News for the Rest of Us" width="177" height="68" border="0"></a>
 
 	</div><!-- end tblogo -->
 
-	<!-- start staffbits -->
-	<div id="staffbits">
-	<div id="stafftext">Brought to you by the disembodied heads of the TidBITS staff.</div><!-- end stafftext -->
-	
-	<div id="staffheads">
-	<div class="mugshot">
-	<a href="/blog/ace" onmouseover="show_head('stafftext', 'ace')" onmouseout="kill_head('stafftext', 'ace')"><img class="sb_image" src="/images/staffbits_adam3.gif" alt="Adam Engst, Publisher" width="45" height="55" border="0"><br>Adam<span id="blog_ace"></span></a></div>
-	
-	<div class="mugshot">
-	<a href="/blog/tonya" onmouseover="show_head('stafftext', 'tonya')" onmouseout="kill_head('stafftext', 'tonya')"><img class="sb_image" src="/images/staffbits_tonya3.gif" alt="Tonya Engst, Editor in Chief" width="69" height="55" border="0"><br>Tonya<span id="blog_tonya"></span></a></div>
-	
-	<div class="mugshot">
-	<a href="/blog/jeffc" onmouseover="show_head('stafftext', 'jeff')" onmouseout="kill_head('stafftext', 'jeff')"><img class="sb_image" src="/images/staffbits_jeff3.gif" alt="Jeff Carlson, Managing Editor" width="48" height="55" border="0"><br>Jeff<span id="blog_jeff"></span></a></div>
-	
-	<div class="mugshot">
-	<a href="/blog/jk" onmouseover="show_head('stafftext', 'joe')" onmouseout="kill_head('stafftext', 'joe')"><img class="sb_image" src="/images/staffbits_joe3.gif" alt="Joe Kissell, Senior Editor" width="43" height="55" border="0"><br>Joe<span id="blog_joe"></span></a></div>
-	
-	<div class="mugshot">
-	<a href="/blog/glennf" onmouseover="show_head('stafftext', 'glenn')" onmouseout="kill_head('stafftext', 'glenn')"><img class="sb_image" src="/images/staffbits_glenn3.gif" alt="Glenn Fleishman, Contributing Editor" width="46" height="55" border="0"><br>Glenn<span id="blog_glenn"></span></a></div>
-	
-	<div class="mugshot">
-	<a href="/blog/mha" onmouseover="show_head('stafftext', 'mark')" onmouseout="kill_head('stafftext', 'mark')"><img class="sb_image" src="/images/staffbits_mark3.gif" alt="Mark Anbinder, Contributing Editor" width="44" height="55" border="0"><br>Mark<span id="blog_mark"></span></a></div>
 
-	<div class="mugshot">
-	<a href="/blog/richm" onmouseover="show_head('stafftext', 'rich', 1)" onmouseout="kill_head('stafftext', 'rich', 1)"><img class="sb_image" src="/images/staffbits_rich.gif" alt="Rich Mogull, Contributing Editor" width="39" height="55" border="0"><br>Rich<span id="blog_rich"></span></a></div>
-
-	</div><!-- end staffheads -->
-
-<div id="staffhead_msg">Empty space
-</div>
-
-	</div>
-	<!-- end staffbits -->
-	
-</div><!-- end logo_staff container -->
-
-<!-- begin takecontrolhead -->
-
-<div id="takecontrolhead">
-
-<a href="http://www.takecontrolbooks.com/"><img src="/images/tc_header_text04.gif" alt="Publishers of Take Control electronic books" width="237" height="67" border="0"></a>
-
-</div>
-<!-- end takecontrolhead -->
+<!-- leaderboard ad -->
+<div id="top_banner">
+<script type="text/javascript"><!--// <![CDATA[
+    OA_show(3);
+// ]]> --></script><noscript><a target='_blank' href='http://db.tidbits.com/ads/delivery/ck.php?n=TBe5f7021'><img border='0' alt='' src='http://db.tidbits.com/ads/delivery/avw.php?zoneid=3&amp;n=TBe5f7021'></a></noscript>
+</div><!-- end top_banner style -->
+<!-- end leaderboard ad -->
 
 
 </div><!-- end header  -->
@@ -97,26 +221,38 @@
 <!-- begin leftnav /left navigation -->
 <div>
 	<ul class="leftnav">
-		<li class="topcorner">Get TidBITS via</li>
+		<!-- start search -->
+		<li class="topcorner">
+			<form action="http://db.tidbits.com" method="POST" name="search_form"><input type="hidden" name="advanced_search" value=""><input type="text" name="search_text" size="8" maxlength="70" value="Search" onfocus="this.value=''" onblur="if (this.value == '') { this.value = 'Search'; }">&nbsp;<span style="margin: 0 5px 0 5px; vertical-align: -2px"><span style="vertical-align: -2px"><input type="image" name="submit_search" src="/images/go_search_button.gif"></span>&nbsp;&nbsp;<img src="/images/adv_search_button.gif" title="Click for Advanced Search" onclick="var f = document.search_form; f.search_text.value =''; f.advanced_search.value = '1'; f.submit();"></span></form>
+		</li>
+	</ul>
+</div>
+<!-- end search -->
+
+<!-- Get TidBITS box (temp) -->
+<div>
+	<ul class="leftnav">
+		<li class="gettb"><strong>Get TidBITS via...</strong></li>
 	
 		<li><a href="http://www.tidbits.com/list" title="Subscribe via email" class="gettb">Email&nbsp;<img src="/images/gettb_button_email.gif" width="12" height="12" border="0" class="nav_img" alt="Email subscription options"></a></li>
 		<li><a href="/feeds/tidbits.rss" title="Subscribe via RSS" class="gettb">RSS&nbsp;<img src="/images/feed-icon-12x12.gif" width="12" height="12" border="0" class="nav_img" alt="Subscribe via RSS"></a></li>
-		<li><a href="http://www.itunes.com/podcast?id=276986548" title="Subscribe to the podcast" class="gettb">Podcast&nbsp;<img src="/images/feed-icon-12x12_podcast.gif" width="12" height="12" border="0" class="nav_img" alt="Subscribe to the postcast"></a></li>
+		<li><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=276986548" title="Subscribe to the podcast" class="gettb">Podcast&nbsp;<img src="/images/feed-icon-12x12_podcast.gif" width="12" height="12" border="0" class="nav_img" alt="Subscribe to the postcast"></a></li>
 		<li><a href="http://www.twitter.com/TidBITS" title="Get Article Updates via Twitter" class="gettb">Twitter&nbsp;<img src="/images/feed_icon_12x12_twitter.png" width="12" height="12" border="0" class="nav_img" alt="Get Article Updates via Twitter"></a></li>
-	
-		<li><a href="#" title="Sections" class="tabhead" onclick="return showhide('articleslist')"><span id="articleslist_triangle"><img src="/images/nav_triangle_closed.gif" width="9" height="9" border="0" class="navtriangle" id="articleslist_tri_image" alt="Click to show or hide the contents of this section."></span>Sections</a></li>
-	
-		<!-- start search -->
-		<li class="search">
-			<form action="http://db.tidbits.com/" method="POST" name="search_form"><input type="text" name="search_text" size="10" maxlength="70" value="Search" onfocus="this.value=''" onblur="if (this.value == '') { this.value = 'Search'; }">&nbsp;<input type="submit" name="submit_search" value="Go"><input type="hidden" value="1" name="redesign"></form>
-		</li>
-	<!-- end search -->
 	</ul>
 </div>
+<!-- end Get TidBITS box -->
+	
+	<ul class="leftnav">
+		<li><a href="/" class="tabhead">TidBITS Home</a></li>
 
-<div id="articleslist" style="display: none;"><ul class="leftnav"><li><a href="/section/latest">TidBITS Home</a></li>
-<li><a href="/section/business">Business Apps</a></li>
+		<li><a href="javascript:void(0)" title="Sections" class="tabhead" onclick="return showhide('articleslist')">Sections&nbsp;<span id="articleslist_triangle"><img src="/images/nav_triangle_closed.gif" width="9" height="9" border="0" class="navtriangle" id="articleslist_tri_image" alt="Click to show or hide the contents of this section."></span></a></li>
+	
+	
+	</ul>
+
+<div id="articleslist" style="display: none;"><ul class="leftnav"><li><a href="/section/business">Business Apps</a></li>
 <li><a href="/section/entertainment">Entertainment</a></li>
+<li><a href="/section/links">External Links</a></li>
 <li><a href="/section/home">Home Macs</a></li>
 <li><a href="/section/inside">Inside TidBITS</a></li>
 <li><a href="/section/ipod-iphone">iPod &amp; iPhone</a></li>
@@ -128,43 +264,45 @@
 <li><a href="/section/support">Problem Solving</a></li>
 <li><a href="/section/security">Safe Computing</a></li>
 <li><a href="/section/tech">Tech News</a></li>
+<li><a href="/section/watchlist">Watchlist</a></li>
 </ul></div>
 
 <div>
 <ul class="leftnav">
-	<li><a href="#" onclick="return showhide('stafflist')" title="Staff Blogs" class="tabhead"><span id="stafflist_triangle"><img src="/images/nav_triangle_closed.gif" width="9" height="9" border="0" class="navtriangle" id="stafflist_tri_image" alt="Click to show or hide the contents of this section."></span>Staff Blogs</a></li>
+	<li><a href="javascript:void(0)" onclick="return showhide('stafflist')" title="Staff" class="tabhead">Staff&nbsp;<span id="stafflist_triangle"><img src="/images/nav_triangle_closed.gif" width="9" height="9" border="0" class="navtriangle" id="stafflist_tri_image" alt="Click to show or hide the contents of this section."></span></a></li>
 </ul>
 </div>
 
-<div id="stafflist" style="display:none"><ul class="leftnav"><li><a href="/blog/ace" title="Adam Engst, Publisher">Adam Engst</a></li>
-	<li><a href="/blog/tonya" title="Tonya Engst, Editor in Chief">Tonya Engst</a></li>
-	<li><a href="/blog/jeffc" title="Jeff Carlson, Managing Editor">Jeff Carlson</a></li>
-	<li><a href="/blog/jk" title="Joe Kissell, Senior Editor">Joe Kissell</a></li>
-	<li><a href="/blog/glennf" title="Glenn Fleishman, Contributing Editor">Glenn Fleishman</a></li>
-	<li><a href="/blog/mha" title="Mark Anbinder, Contributing Editor">Mark H. Anbinder</a></li>
-	<li><a href="/blog/matt" title="Matt Neuburg, Contributing Editor">Matt Neuburg</a></li>
-	<li><a href="/blog/richm" title="Rich Mogull, Contributing Editor">Rich Mogull</a></li>
+<div id="stafflist" style="display:none"><ul class="leftnav"><li><a href="/author/Adam+C+Engst" title="Adam Engst, Publisher">Adam Engst</a></li>
+	<li><a href="/author/Tonya+Engst" title="Tonya Engst, Editor in Chief">Tonya Engst</a></li>
+	<li><a href="/author/Jeff+Carlson" title="Jeff Carlson, Managing Editor">Jeff Carlson</a></li>
+	<li><a href="/author/Joe+Kissell" title="Joe Kissell, Senior Editor">Joe Kissell</a></li>
+	<li><a href="/author/Glenn+Fleishman" title="Glenn Fleishman, Contributing Editor">Glenn Fleishman</a></li>
+	<li><a href="/author/Mark+Anbinder" title="Mark Anbinder, Contributing Editor">Mark H. Anbinder</a></li>
+	<li><a href="/author/Matt+Neuburg" title="Matt Neuburg, Contributing Editor">Matt Neuburg</a></li>
+	<li><a href="/author/Rich+Mogull" title="Rich Mogull, Contributing Editor">Rich Mogull</a></li>
 	</ul>
 	</div>
 
-
 <div>
 <ul class="leftnav">
 
-	<li><a href="#" title="Issues" class="tabhead" onclick="return showhide('issuelist')"><span id="issuelist_triangle"><img src="/images/nav_triangle_closed.gif" width="9" height="9" border="0" class="navtriangle" id="issuelist_tri_image" alt="Click to show or hide the contents of this section."></span>Issues</a></li>
+	<li><a href="javascript:void(0)" title="Issues" class="tabhead" onclick="return showhide('issuelist')">Weekly Issues&nbsp;<span id="issuelist_triangle"><img src="/images/nav_triangle_closed.gif" width="9" height="9" border="0" class="navtriangle" id="issuelist_tri_image" alt="Click to show or hide the contents of this section."></span></a></li>
 </ul>
 </div>
 
-	<div id="issuelist" style="display:none"><ul class="leftnav"><li><a href="/issue/931">#931, 02 Jun 08</a></li>
-<li><a href="/issue/930">#930, 26 May 08</a></li>
-<li><a href="/issue/929">#929, 19 May 08</a></li>
-<li><a href="/issue/928">#928, 12 May 08</a></li>
-<li><a href="/issue/927">#927, 05 May 08</a></li>
-<li><a href="/issue/926">#926, 28 Apr 08</a></li>
-<li><a href="/issue/925">#925, 21 Apr 08</a></li>
-<li><a href="/issue/924">#924, 14 Apr 08</a></li>
-<li><a href="/issue/923">#923, 07 Apr 08</a></li>
-</ul></div>
+<div id="issuelist" style="display:none"><ul class="leftnav"><li><div class="special"><form method="post" action="noaction.cgi" onsubmit="return false" id="issue_search_form" name="issue_search_form">Issue # <input type="text" onkeydown="if (event.keyCode == 13) { redirect_issue(this.form); }" id="issue_searchvalue" name="issue_number" style="width:35px; height: 10px">&nbsp;<input onclick="redirect_issue(this.form)" type="image" name="submit_search" src="/images/go_search_button_blk.gif"></form></div></li><li><a href="/issue/1000">#1000, 19 Oct 09</a></li>
+<li><a href="/issue/999">#999, 12 Oct 09</a></li>
+<li><a href="/issue/998">#998, 05 Oct 09</a></li>
+<li><a href="/issue/997">#997, 28 Sep 09</a></li>
+<li><a href="/issue/996">#996, 21 Sep 09</a></li>
+<li><a href="/issue/995">#995, 14 Sep 09</a></li>
+<li><a href="/issue/994">#994, 07 Sep 09</a></li>
+<li><a href="/issue/993">#993, 31 Aug 09</a></li>
+<li><a href="/issue/992">#992, 24 Aug 09</a></li>
+
+
+<li><a href="/index.cgi?back_issues=1">Back Issues</a></li></ul></div>
 
 
 <div>
@@ -174,18 +312,16 @@
 </ul>
 </div>
 
+
+
 <div>	
 <ul class="leftnav">
-	<li><a href="#" onclick="return showhide('abouttidbits')" title="About TidBITS" class="tabhead"><span id="abouttidbits_triangle"><img src="/images/nav_triangle_open.gif" width="9" height="9" border="0" class="navtriangle" id="abouttidbits_tri_image" alt="Click to show or hide the contents of this section."></span>About TidBITS</a></li>
+	<li><a href="javascript:void(0)" onclick="return showhide('abouttidbits')" title="About TidBITS" class="tabhead">About TidBITS&nbsp;<span id="abouttidbits_triangle"><img src="/images/nav_triangle_open.gif" width="9" height="9" border="0" class="navtriangle" id="abouttidbits_tri_image" alt="Click to show or hide the contents of this section."></span></a></li>
 </ul>
 </div>
 
 <div id="abouttidbits" style="display: block;">
-<ul class="leftnav"><li><a href="http://www.tidbits.com/about/" title="What We Do">What We Do</a></li>
-	<li><a href="http://db.tidbits.com/contact.html" title="The best ways to contact us">Contact</a></li>
-	<li><a href="/privacy.html" title="Read our privacy statement">Privacy</a></li>
-	<li><a href="http://db.tidbits.com/advertising.html" title="Advertising">Advertising</a></li>
-	<li><a href="http://www.tidbits.com/terms/" title="Copyright">Copyright</a></li>
+<ul class="leftnav"><li><a href="/about.html" title="About TidBITS">About Us</a></li><li><a href="/account.html" title="Account Help">Account Help</a></li><li><a href="/advertising.html" title="Advertise with TidBITS!">Advertise</a></li><li><a href="/contact.html" title="Contact Info">Contact</a></li><li><a href="/copyright.html" title="Copyright Terms">Copyright</a></li>
 </ul>
 </div>
 
@@ -206,45 +342,29 @@
 
 <ul>
 
-<li><a href="http://www.markspace.com/bits">Mark/Space, Inc.</a></li>
-
-<li><a href="http://www.tidbits.com/about/support/contributors.html">Readers Like You!</a></li>
-
 <li><a href="http://www.webcrossing.com/">Web Crossing</a></li>
 
 <li><a href="http://fetchsoftworks.com/">Fetch Softworks</a></li>
 
-<li><a href="http://www.markspace.com/bits">Mark/Space, Inc.</a></li>
-
 <li><a href="http://www.tidbits.com/about/support/vmware-fusion.html">VMware</a></li>
+
+<li><a href="http://www.microsoft.com/mac/downloads.mspx">Microsoft</a></li>
+
+<li><a href="http://www.barebones.com/">Bare Bones Software</a></li>
+
+<li><a href="http://www.macspeech.com/">MacSpeech</a></li>
+
+<li><a href="http://www.smithmicro.com/tidbits">Smith Micro</a></li>
+
+<li><a href="http://markspace.com/bits?source=tidbits">Mark/Space, Inc.</a></li>
+
+<li><a href="http://www.tidbits.com/about/support/contributors.html">Readers Like You!</a></li>
 
 </ul><div class="sponsor_sidebox_bottom">&nbsp;</div>
 </div>
 
 
 <!-- end sponsor_sidebox -->
-
-
-<!-- begin left-column ad -->
-		<div id="ad_skyscraper_left">
-<!--/* OpenX Javascript Tag v2.4.4 */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://db.tidbits.com/ads/delivery/ajs.php':'http://db.tidbits.com/ads/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=6");
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://db.tidbits.com/ads/delivery/ajs.php?zoneid=6&amp;cb=39007240104&amp;loc=https%3A//web.archive.org/web/20080609001404id_/http%253A//db.tidbits.com/privacy.html"></script><noscript><a href='http://db.tidbits.com/ads/delivery/ck.php?n=ac50e153&amp;cb=23452345235' target='_blank'><img src='http://db.tidbits.com/ads/delivery/avw.php?zoneid=6&amp;cb=5346567456&amp;n=ac50e153' border='0' alt='' /></a></noscript>
-		</div>
-<!-- end left-column ad -->
 
 
 </div> <!-- end leftcolumn div -->
@@ -256,34 +376,11 @@
 
 <div id="centercolumn_border">
 
-<div class="center_top">Your source for indispensable Apple and Macintosh news, reviews, tips, and commentary since 1990.</div>
-
+<div class="center_top">Your source for indispensable Apple and Macintosh news and reviews, plus the best-selling <a href="http://www.takecontrolbooks.com/?pt=TB-TAGLINE" style="color:yellow">Take Control</a> ebooks.</div>
 
 <!-- begin centercolumn -->
 <div id="centercolumn">
 
-
-<!-- leaderboard ad -->
-<div id="top_banner">
-<!--/* OpenX Javascript Tag v2.4.4 */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://db.tidbits.com/ads/delivery/ajs.php':'http://db.tidbits.com/ads/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=3");
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://db.tidbits.com/ads/delivery/ajs.php?zoneid=3&amp;cb=11612853047&amp;loc=https%3A//web.archive.org/web/20080609001404id_/http%253A//db.tidbits.com/privacy.html"></script><noscript><a href='http://db.tidbits.com/ads/delivery/ck.php?n=acaf306d&amp;cb=21341234234' target='_blank'><img src='http://db.tidbits.com/ads/delivery/avw.php?zoneid=3&amp;n=acaf306d' border='0' alt='' /></a></noscript>
-
-</div><!-- end top_banner style -->
-<!-- end leaderboard ad -->
 
 
 <!-- begin rightcolumn_container -->
@@ -296,34 +393,69 @@
 <p class="top">&nbsp;</p>
 
 
-<!-- end tearoff box wide for bio -->
 
 
 
 
 
+
+
+
+<!-- Watchlist items -->
+<div class="tearoffbox_wide_container">
+<div class="tearoffbox_wide_watchlist">
+<p class="tearoffbox_wide_top_watchlist">&nbsp;</p>
+
+<h6>TidBITS Watchlist</h6>
+<ul>
+
+<li><a href="/article/10672">iPhoto2Twitter 1.6.1</a></li>
+
+<li><a href="/article/10671">Business Card Composer 5</a></li>
+
+<li><a href="/article/10669">SpamSieve 2.7.7</a></li>
+
+<li><a href="/article/10667">CrashPlan 10.19.2009</a></li>
+
+</ul>
+
+<div class="tearoffbox_wide_bottom_watchlist">&nbsp;</div>
+
+</div><!-- end tearoffbox_wide -->
+
+</div><!-- end tearoffbox_wide_container for watchlist items -->
 
 <!-- begin tearoff box wide -->
 
 <div class="tearoffbox_wide_container">
+<div class="tearoffbox_wide_tips">
 
-<div class="tearoffbox_wide">
-<div class="tearoffbox_wide_top">&nbsp;</div>
+<div class="tip_display">
+<div class="tips_sponsor_logo">
+<a href="http://www.microsoft.com/mac/"><img src="/images/sponsors/tearoffbox_wide_tips_logo_ms.gif" height="58" width="164" border="0" alt="sponsor logo"></a>
+</div>
+<h6>Mysteriously Moving Margins in Word</h6>
+<p></p><p>In Microsoft Word 2008 (and older versions), if you put your cursor in a paragraph and then move a tab or indent marker in the ruler, the change applies to just that paragraph. If your markers are closely spaced, you may have trouble grabbing the right one, and inadvertently work with tabs when you want to work with indents, or vice-versa. The solution is to hover your mouse over the marker until a yellow tooltip confirms which element you're about to drag.</p><p>I recently came to appreciate the importance of waiting for those tooltips: a document mysteriously reset its margins several times while I was under deadline pressure, causing a variety of problems. After several hours of puzzlement, I had my "doh!" moment: I had been dragging a margin marker when I thought I was dragging an indent marker.</p><p>When it comes to moving markers in the Word ruler, the moral of the story is always to hover, read, and only then drag.</p><p></p>
 
-<h5>Most Popular Articles</h5>
-<ul>
-<li><a href="/article/9608">Back to My Mac Leads to Recovery of Stolen Mac</a> (10&nbsp;May&nbsp;2008)</li>
-<li><a href="/article/9641">No, David Pogue, Ebook Piracy is Not a Given</a> (05&nbsp;Jun&nbsp;2008)</li>
-<li><a href="/article/9632">Mac OS X 10.5.3 Update Resolves Numerous Issues</a> (29&nbsp;May&nbsp;2008)</li>
-<li><a href="/article/9639">The Evolving World of Mac Backup Software</a> (31&nbsp;May&nbsp;2008)</li>
+</div>
 
-</ul>
+<div class="tearoffbox_wide_bottom_tips">
+<div style="padding-bottom:35px"><div class="tip_display" style="float:left"><p><br><a href="/tipbits/101">Link to this tip</a></p></div><div class="tip_display" style="float:right; width:150px">
 
-<div class="tearoffbox_wide_bottom">&nbsp;</div>
+<p class="credit">Written by<br><a href="/author/Tonya%20Engst">Tonya Engst</a></p></div></div>
 
-</div><!-- end tearoffbox_wide -->
-</div><!-- end tearoffbox_wide_container for popular articles-->
+</div>
 
+<div class="tearoffbox_wide_tips_submit">
+<form method="post" onsubmit="return false" id="tipbits_form" name="tipbits_form" action="noaction.cgi"><p><a href="javascript:void(0)" onmousedown="ShowTipBox('ts','ts_recaptcha', 50, 'tip_title_id'); return true;">Share your own tip!</a> | <a href="javascript:void(0)" onclick="generic_show_hide('search_tipbits'); document.tipbits_form.tipbits_searchvalue.focus()">Search TipBITS</a></p>
+<p style="display:none" id="search_tipbits"><input type="text" onkeydown="if (event.keyCode == 13) { search_tipbits('tipbits_searchvalue'); }" id="tipbits_searchvalue" name="tipbits_searchvalue">&nbsp;<a href="javascript:void(0)" onclick="search_tipbits('tipbits_searchvalue')">Search</a></p></form>
+</div>
+<div class="tearoffbox_wide_bottom_tips_submit">
+&nbsp;
+</div>
+
+</div><!-- end tearoffbox_wide_tips -->
+</div><!-- end tearoffbox_wide_container for tips-->
 <!-- end tearoff box wide -->
 
 
@@ -331,22 +463,9 @@
 <!-- begin 300 x 250 ad -->
 
 <div id="content_ad_square">
-<!--/* OpenX Javascript Tag v2.4.4 */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://db.tidbits.com/ads/delivery/ajs.php':'http://db.tidbits.com/ads/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=5");
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://db.tidbits.com/ads/delivery/ajs.php?zoneid=5&amp;cb=35594774865&amp;loc=https%3A//web.archive.org/web/20080609001404id_/http%253A//db.tidbits.com/privacy.html"></script><noscript><a href='http://db.tidbits.com/ads/delivery/ck.php?n=a229c173&amp;cb=28937879' target='_blank'><img src='http://db.tidbits.com/ads/delivery/avw.php?zoneid=5&amp;n=a229c173' border='0' alt='' /></a></noscript>
+<script type="text/javascript"><!--// <![CDATA[
+    OA_show(5);
+// ]]> --></script><noscript><a target='_blank' href='http://db.tidbits.com/ads/delivery/ck.php?n=TB7671f69'><img border='0' alt='' src='http://db.tidbits.com/ads/delivery/avw.php?zoneid=5&amp;n=TB7671f69'></a></noscript>
 </div><!-- end 300 x 250 ad -->
 
 <!-- TBTalk items -->
@@ -358,13 +477,13 @@
 <h5>Recent TidBITS Talk Discussions</h5>
 <ul>
 
-<li><a href="http://emperor.tidbits.com/webx?50@@.3cc444ed">Service Scrubber Cleans Services Menu</a> (1 message)</li>
+<li><a href="http://emperor.tidbits.com/webx?50@@.3cf53016">New MacBook vs. MacBook Pro</a> (2 messages)</li>
 
-<li><a href="http://emperor.tidbits.com/webx?50@@.3cc444ee">Are Time Capsule backups encrypted during transmission?</a> (1 message)</li>
+<li><a href="http://emperor.tidbits.com/webx?50@@.3cf53017">Used Mac Prices</a> (2 messages)</li>
 
-<li><a href="http://emperor.tidbits.com/webx?50@@.3cc424aa">Thoughts on illicit ebook copying</a> (19 messages)</li>
+<li><a href="http://emperor.tidbits.com/webx?50@@.3cf52031">Apple release a Mac mini server</a> (28 messages)</li>
 
-<li><a href="http://emperor.tidbits.com/webx?50@@.3cc405ec">What Windows software is still in use?</a> (20 messages)</li>
+<li><a href="http://emperor.tidbits.com/webx?50@@.3cf50ec8">Quicken's Future?</a> (17 messages)</li>
 
 </ul>
 
@@ -374,28 +493,10 @@
 
 </div><!-- end tearoffbox_wide_container for TBtalk items -->
 
-
 <!-- start takecontrol_ad -->
-
-<div id="takecontrol_ad">
-<p class="takecontrol_ad_text"><a href="http://www.takecontrolbooks.com/leopard-apple-mail.html?14@@!pt=TB-BOX"><img src="http://www.takecontrolbooks.com/tc-graphics/cover_apple_mail_leopard.gif" width="75" height="88" border="0" alt="Take Control Books"></a>In <a href="http://www.takecontrolbooks.com/leopard-apple-mail.html?14@@!pt=TB-BOX">Take Control of Apple Mail in Leopard</a>, by Joe Kissell, you'll learn how to make your email come and go as it should and easily find the email that you want to read. You'll also get help with Time Machine backups of email and much more. $10.  </p>
-
-
- <p></p>
-</div>
-
-
-<div class="takecontrol_ad_bottom">
-<p class="takecontrol_ad_permalinks"><a href="http://www.takecontrolbooks.com/samples/TCoAppleMailLeopardSample-1.0.pdf">View Sample</a> | <a href="http://www.takecontrolbooks.com/leopard-apple-mail.html?14@@!pt=TB-BOX">Buy Ebook Now!</a></p> 
-</div>
-
-<!-- Normal src tag is src="/images/tc_ad_logo1.gif"-->
-
-<!-- end takecontrol_ad -->
-
-
-
-
+<script type="text/javascript"><!--// <![CDATA[
+    OA_show(7);
+// ]]> --></script><noscript><a target='_blank' href='http://db.tidbits.com/ads/delivery/ck.php?n=TBe46d56f'><img border='0' alt='' src='http://db.tidbits.com/ads/delivery/avw.php?zoneid=7&amp;n=TBe46d56f'></a></noscript><!-- end takecontrol_ad -->
 
 
 
@@ -424,6 +525,9 @@
 
 <!-- featured articles -->
 
+<div id="center_ajax_sub">
+
+<!-- google_ad_section_start -->
 
 
 <!-- start pagehead -->
@@ -435,7 +539,7 @@
 </div><!-- end pagehead -->
 
 <div class="static"><p>
-(Last updated 03-Jan-08.)
+(Last updated 10-Jun-2009.)
 </p>
 
 <p>TidBITS Publishing Inc. takes online privacy very seriously. We actively protect the privacy of users of TidBITS Web sites and people who subscribe to TidBITS publications and mailing lists.</p>
@@ -461,6 +565,7 @@
 
 <p>Contribution processing is handled for TidBITS by Kagi and PayPal. To process your payment, Kagi collects information including your name, postal address, email address, and credit card number. Use of that information is governed by their <a href="http://www.kagi.com/purchase/purchase_privacy.html">privacy policy</a>. Kagi offers both <a href="https://order.kagi.com/?2WL">secure</a> and <a href="http://order.kagi.com/?2WL">insecure</a> Web payment forms. To process payments via PayPal, PayPal collects contact and financial information; for more details, see their <a href="http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside">privacy policy</a>.</p>
 
+
 <p><strong><a name="TakeControl">Take Control Books</a></strong> -- If you purchase one of our Take Control electronic books, TidBITS receives and records information related to your purchase, including your name, email address, and postal address, but <em>not</em> your credit card number. As with our subscriber databases and subscription lists, this information is held in the strictest confidence. The information can be accessed by only a few members of the TidBITS staff and is well protected against theft, tampering, and misuse (electronic or otherwise). We use your email address to inform you of updates to products you've purchased; other communications are governed by you agreeing to be contacted during the order process or signing up for the double opt-in Take Control announcement list.
 </p>
 
@@ -481,6 +586,7 @@
 <p><strong>Editorial Mail</strong> -- Email messages sent to TidBITS editorial addresses are considered public statements and become the property of TidBITS Publishing Inc. Unless noted otherwise in the message itself, TidBITS may publish such messages (including the author's name and email address) in whole or in part on TidBITS Web sites and/or in TidBITS publications. TidBITS will generally try to contact correspondents before any such publication, but makes no guarantee to do so. TidBITS will honor any request not to publish a message, or not to publish the correspondent's name or email address.
 </p>
 
+<p><strong>Web Site Comments</strong> -- To post a comment on an article, you must provide your name and email address. Your name will appear on all of your comments. We use your email address only to send you a one-time verification message confirming that you posted the comment. We also store your address to allow you to verify using other Web browsers in the future. TidBITS holds these email addresses in the strictest confidence, and will not disclose specific subscriber information under any circumstances unless required by law. TidBITS databases can be accessed  by only a few members of the TidBITS staff and are well protected against theft, tampering, and misuse (electronic or otherwise). </p>
 
 
 <p><strong>Discussion Lists &amp; Archives</strong> -- TidBITS maintains email discussion lists. Although subscriber information is maintained in the strictest confidence (see above), participating in discussion lists will reveal information about yourself such as your email address and (possibly) your name to all subscribers. This information could be collected by a third party. Additionally, users should consider any discussion list a public forum, and exercise caution in disclosing any personal information.</p>
@@ -493,7 +599,7 @@
 </p>
 
 <p>
-<strong>DealBITS Drawings</strong> -- To participate in DealBITS drawings, you must provide us with your email address and name. We will use that information for necessary administrative communications, such as notification of all the participants of the winning entry. We will publish the name (but not the email address) of the winner in TidBITS and in an email message to all DealBITS participants. Lastly, we will share the name and email address of the winner with company providing the prize for purposes of registration or delivery (in which case the winner may be required to provide a postal address to the sponsoring company as well).
+<strong>DealBITS Drawings</strong> -- To participate in DealBITS drawings, you must provide us with your email address and name. We will use that information for necessary administrative communications, such as notification of all the participants of the winning entry. We will publish the name (but not the email address) of the winner(s) in TidBITS and in an email message to all DealBITS participants. Lastly, we will share the name and email address of the winner(s) with company providing the prize for purposes of registration or delivery (in which case the winner(s) may be required to provide a postal address to the sponsoring company as well).
 </p>
 
 <p>
@@ -532,6 +638,8 @@ We will not share names or email addresses of any other DealBITS participants wi
 
 
 
+
+
 <!-- issue, article, or series -->
 <!-- article_plus end -->
 <!--
@@ -539,6 +647,20 @@ We will not share names or email addresses of any other DealBITS participants wi
 --><!-- end main_column DIV -->
 
 
+<!-- google_ad_section_end -->
+
+</div><!-- end center AJAX insert -->
+
+<!-- TipBITS Search Results Lozenge -->
+<div id="tipbits_results_loz" style="display:none">
+<form method="post" onsubmit="return false" id="tipbits_form_loz" name="tipbits_form_loz" action="noaction.cgi">
+<div class="tip_footer">
+<p id="search_tipbits_loz"><input type="text" onkeydown="if (event.keyCode == 13) { search_tipbits('tipbits_searchvalue_loz', 'tipbits_results_loz'); }" id="tipbits_searchvalue_loz" name="tipbits_searchvalue_loz">&nbsp;<a href="javascript:void(0)" onclick="search_tipbits('tipbits_searchvalue_loz', 'tipbits_results_loz')">Search</a></p>
+</div>
+<div class="tip_footer_bottom">
+&nbsp;</div>
+</form>
+</div><!-- end TipBITS Search Results lozenge -->
 
 
 
@@ -549,10 +671,10 @@ We will not share names or email addresses of any other DealBITS participants wi
 <p>Special thanks to <a href="http://www.forest.net/">digital.forest</a>, our
 Web and mailing list host.</p>
 
-<p>TidBITS is copyright © 2008 TidBITS Publishing Inc.</p>
+<p>TidBITS is copyright © 2009 TidBITS Publishing Inc.</p>
 <p>Reuse governed by <a href="http://www.tidbits.com/terms/">Creative Commons License</a>.</p>
-<p><a href="http://www.tidbits.com/about/">About TidBITS</a> | <a href="http://db.tidbits.com/contact.html" title="The best ways to contact us">Contact Us</a> | <a href="/privacy.html" title="Read our privacy statement">Privacy Statement</a> | <a href="http://www.tidbits.com/about/support.html">Advertise in TidBITS</a></p>
 
+<p><a href="/about.html" title="About TidBITS">About TidBITS</a> | <a href="/account.html" title="Account Help">Account Help</a> | <a href="/advertising.html" title="Advertise with TidBITS!">Advertise with TidBITS!</a> | <a href="/contact.html" title="Contact Info">Contact Info</a> | <a href="/copyright.html" title="Copyright Terms">Copyright Terms</a></p>
 
 </div><!-- end footer -->
 
