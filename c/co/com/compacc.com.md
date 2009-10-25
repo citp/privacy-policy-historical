@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compacc.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620054212id_/http%3A//www.compacc.com/service/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compacc.com privacy policy that was archived on 2009-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091025143448id_/http%3A//www.compacc.com/service/privacy.cfm) for the most accurate reproduction.*
 
 # Competition Accessories: Privacy Statement
 
