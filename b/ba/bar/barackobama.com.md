@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the barackobama.com privacy policy that was archived on 2007-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070627191747id_/http%3A//www.barackobama.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barackobama.com privacy policy that was archived on 2009-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091026171330id_/http%3A//www.barackobama.com/privacypolicy) for the most accurate reproduction.*
 
-# BarackObama.com | Terms of Service
+# Organizing for America | BarackObama.com | Privacy Policy
 
 We at BarackObama.com are committed to protecting the privacy and security of your visits to this website. Outlined below is our online privacy policy. If you have questions about this policy, please let us know.
 
@@ -44,7 +44,7 @@ It is possible that by fraud or deception we may receive information pertaining 
 
 We maintain a variety of physical, electronic and procedural safeguards to protect your personal information. For example, we use commercially reasonable tools and techniques to protect against unauthorized access to our systems. Also, we restrict access to Personal Information to those who need such access in the course of their duties for us.
 
-In addition, we work to protect the security of your personal information when transmitted via our site by using Secure Sockets Layer (SSL) software, which encrypts information you input. You should know that we have no control over the security of other sites on the Internet you might visit, interact with, or from which you engage in financial transactions.
+In addition, we protect the security of your credit card information when transmitted via our site by using Secure Sockets Layer (SSL) software, which encrypts information you enter. You should know that we have no control over the security of other sites on the Internet you might visit, interact with, or from which you engage in financial transactions.
 
 Your own efforts to protect against unauthorized access play an important role in protecting the security of your personal information. You should be sure to sign off when finished using a shared computer, and always log out of any site when viewing personal information.
 
