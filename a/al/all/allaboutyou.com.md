@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allaboutyou.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419163415id_/http%3A//www.allaboutyou.com/Privacy-policy/v1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaboutyou.com privacy policy that was archived on 2009-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091026155824id_/http%3A//www.allaboutyou.com/Privacy-policy/v1) for the most accurate reproduction.*
 
 # privacy policy :: All About You
 
