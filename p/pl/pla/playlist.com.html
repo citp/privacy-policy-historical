@@ -1,18 +1,18 @@
-<!--The following is the downloaded HTML source of the playlist.com privacy policy that was archived on 2009-04-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090410122152id_/http%3A//www.playlist.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the playlist.com privacy policy that was archived on 2009-10-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091026171530id_/http%3A//www.playlist.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="verify-v1" content="9gAYqcGrg4zjSPRcyGwL7NyX1P2BVJv0D4na4RIFZY8=">
-	    <title>Privacy Policy :: Create playlists, search music playlists, listen to music online and share playlists on social networks with Playlist.com</title>
-    <meta name="description" content="Privacy Policy for Playlist.com.  Playlist.com is committed to protecting our users' privacy, get information on the information we collect and the way we use it here.">            <meta name="robots" content="index,follow">		<meta http-equiv="Content-Language" content="en-us">
+	    <title>Playlist | Privacy Policy</title>
+    <meta name="description" content="Playlist.com is a free music social network that allows you to search songs, artists, and albums, create playlists &amp; share them with your friends and family.">    <meta name="keywords" content="music, music songs, music video, free music, songs, albums, new music, listen music, play music, song music, search music, pop music, share, cover, remix">        <meta name="robots" content="index,follow">		<meta http-equiv="Content-Language" content="en-us">
 		<meta http-equiv="imagetoolbar" content="no">
     <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
     <meta http-equiv="PRAGMA" content="NO-CACHE">
     <link rel="search" type="application/opensearchdescription+xml" href="http://www.playlist.com/opensearch.xml" title="Playlist.com Music Search">
-    <link rel="stylesheet" type="text/css" media="all" href="http://static.pplaylist.com/styles/opt/std_opt_v77.css">
+    <link rel="stylesheet" type="text/css" media="all" href="http://static.pplaylist.com/styles/opt/std_opt_v103.css">
 
-<link rel="stylesheet" type="text/css" media="all" href="http://static.pplaylist.com/styles/sections/about/about_v77.css">
+<link rel="stylesheet" type="text/css" media="all" href="http://static.pplaylist.com/styles/sections/about/about_v103.css">
 
         <script type="text/javascript">
     //<![CDATA[
@@ -22,48 +22,51 @@ var DOMAIN_MAIN = 'http://www.playlist.com';
 var DOMAIN_SEARCH = 'http://www.playlist.com/search';
 var DOMAIN_SEARCHBETA = 'http://www.playlist.com/searchbeta';
 var DOMAIN_STATIC = 'http://static.pplaylist.com';
+var DOMAIN_LOGGING = 'http://static.pplaylist.com';
 var DOMAIN_JAVASCRIPT = 'http://www.he.playlist.com/scripts';
 var DOMAIN_FORUMS = 'http://www.playlist.com/forum';
 var DOMAIN_API = 'http://www.playlist.com/api';
 var DOMAIN_PLAYLIST = 'http://www.playlist.com/playlist';
+var DOMAIN_VIDEO_PLAYLIST = 'http://www.playlist.com/video';
 var DOMAIN_USERS = 'http://www.playlist.com/user';
 var DOMAIN_PRE_XSPF = 'http://pl.playlist.com/pl.php?e=1%26playlist=';
-var DOMAIN_POST_XSPF = '';
+var DOMAIN_PLAYLIST_BASEURL= 'http://pl.playlist.com/pl.php';
 var DOMAIN_PLAYERSTATIC = 'http://static.pplaylist.com/players';
 var DOMAIN_SEARCHPLAYER_STATIC = '';
 var DOMAIN_TOOLBAR = 'http://toolbar.playlist.com';
 var MAX_PLAYLIST_TRACKLINKS = '200';
-var JAVASCRIPT_REVISION = 'r11';
+var JAVASCRIPT_REVISION = 'r45';
+var STATIC_REVISION = '103';
 var MIN_FLASH_VERSION = 8;
 var ADS_ON = '1';
-var ADS_REFRESH = 420;
-var BETA_DESIGN = 1;
-var BETA_AJAX_OFF_NAME = 'ajax_off_1';
-var BETA_AJAX_OFF = 0;
-var FLASH_MINREV = '9.0.28';
+var ADS_REFRESH = 300;
+var FLASH_MINREV = '9.0.115';
 var FLASH_GOODREV = '9.0.115';
-var USER_COMPAT = 'false';
 var JS_TEST = '';
+var ECOM = '';
 var global_firstError = "";
+var global_videosEnabled = 0;
+var global_ticketOffersEnabled = 0;
     //]]>
   </script>
-              <script src="http://www.he.playlist.com/scripts/prod/r11/opt/std_opt.js" type="text/javascript"></script>
+              <script src="http://www.he.playlist.com/scripts/prod/r45/opt/std_protofree_opt.js" type="text/javascript"></script>
         
 
     
       </head>
   <body id="privacyPage" class="other_os in_unknown">
-	<div id="wrapper">
+				<div id="wrapper">
 		<div id="container">
 		  <div id="top">
 				<div id="accountNav">
 					
+
 <h6><a href="http://www.playlist.com">Playlist</a></h6>
 
 <p>
-    <a id="navSignUp" href="http://www.playlist.com/user/register" class="bold">Sign Up</a>
+    <a id="navSignUp" href="http://www.playlist.com/user/register" onclick="RemoteLogger.logEvent('registration', 'click_sign_up_link', 'location', 'top_nav_signup');" class="bold">Sign Up</a>
     <span>|</span>
-    Already a member? <a id="navLogIn" href="http://www.playlist.com/user/login">Log in</a>
+    Already a member? <a id="navLogIn" href="http://www.playlist.com/user/login" onclick="RemoteLogger.logEvent('login', 'click_login_link', 'location', 'top_nav_signup');">Log in</a>
 
 <span>|</span>
 <a href="http://www.playlist.com/help">Help</a>
@@ -82,7 +85,7 @@ var global_firstError = "";
 								  					<input id="txtGlobalSearch" type="text" name="searchfor" class="textbox" maxlength="100" value="Search for a song or artist">
 					<input id="globalSearchType" type="hidden" name="t" value="tracks">
 				                                    
-				  <input type="image" class="image_button" src="http://static.pplaylist.com/img/layouts/application/btn-search.gif">
+				  <input type="button" class="image_button" id="nav_search_button" src="http://static.pplaylist.com/img/layouts/application/btn-search.gif" onclick="this.form.submit()">
 					<a id="btnSearchType" href="#" title="Choose a search type">Choose search type</a>
 				</form>
 			  </div>
@@ -101,10 +104,10 @@ var global_firstError = "";
                       <div id="leftAdBar" class="three columns">
       
     <div id="skyscraperAd">
-      <iframe id="ad_left" class="ad" src="http://ad.doubleclick.net/adi/proj.playlist/site;tile=2;sz=160x600;ord=670988191;?" width="160" height="600" marginwidth="0" marginheight="0" frameborder="0" scrolling="no">
-<script type="text/javascript" src="http://ad.doubleclick.net/adj/proj.playlist/site;tile=2;sz=160x600;abr=!ie;ord=670988191;?"></script>
+      <iframe id="ad_left" class="ad" src="http://ad.doubleclick.net/adi/proj.playlist/site;tile=2;sz=160x600;ord=471271420;mtfIFPath=/ext/doubleclick/;a=26;g=h;dcopt=ist;?" width="160" height="600" marginwidth="0" marginheight="0" frameborder="0" scrolling="no">
+<script type="text/javascript" src="http://ad.doubleclick.net/adj/proj.playlist/site;tile=2;sz=160x600;abr=!ie;ord=471271420;mtfIFPath=/ext/doubleclick/;a=26;g=h;dcopt=ist;?"></script>
 </iframe>
-<noscript><a href="http://ad.doubleclick.net/jump/proj.playlist/site;tile=2;sz=160x600;ord=670988191;?"><img src="http://ad.doubleclick.net/ad/proj.playlist/site;tile=2;sz=160x600;ord=670988191;?" border="0" alt="A word from our sponsors" /></a></noscript>
+<noscript><a href="http://ad.doubleclick.net/jump/proj.playlist/site;tile=2;sz=160x600;ord=471271420;a=26;g=h;dcopt=ist;?"><img src="http://ad.doubleclick.net/ad/proj.playlist/site;tile=2;sz=160x600;ord=471271420;?" border="0" alt="A word from our sponsors" /></a></noscript>
 
     </div>
   
@@ -114,6 +117,7 @@ var global_firstError = "";
                   
                         <div id="rightContentBar" class="thirteen columns last">
           
+
 
 <h1>Project Playlist, Inc. Privacy Policy</h1>
 <h2>Last Updated:  January 7, 2009</h2>
@@ -286,7 +290,7 @@ collection, use and disclosure of personal information.</p>
 
 <address>
 Project Playlist<br>
-165 University Avenue<br>
+444 High St. Suite 300<br>
 Palo Alto, CA 94301</address>
 <strong>Attention: Privacy Officer</strong>
 
@@ -360,24 +364,6 @@ Palo Alto, CA 94301</address>
 
     
 
-       
-<div id="ad_left_top_content" style="display:none;"><iframe id="" class="ad" src="http://ad.doubleclick.net/adi/proj.playlist/site;tile=2;sz=160x600;ord=670988191;?" width="160" height="600" marginwidth="0" marginheight="0" frameborder="0" scrolling="no">
-<script type="text/javascript" src="http://ad.doubleclick.net/adj/proj.playlist/site;tile=2;sz=160x600;abr=!ie;ord=670988191;?"></script>
-</iframe>
-<noscript><a href="http://ad.doubleclick.net/jump/proj.playlist/site;tile=2;sz=160x600;ord=670988191;?"><img src="http://ad.doubleclick.net/ad/proj.playlist/site;tile=2;sz=160x600;ord=670988191;?" border="0" alt="A word from our sponsors" /></a></noscript>
-</div>
-
-<script type="text/javascript">
-/*<![CDATA[*/
-var __ads = ['left_top', ];
-
-for(var i=0;i<__ads.length;i++) {
-	try {
-		document.getElementById('ad_' + __ads[i]).innerHTML = document.getElementById('ad_' + __ads[i] + '_content').innerHTML;
-	} catch(e){}
-}
-/*]]>*/
-</script>
     
         <script type="text/javascript" src="http://www.google-analytics.com/ga.js"></script>
     <script type="text/javascript"> 
@@ -385,7 +371,7 @@ for(var i=0;i<__ads.length;i++) {
         var pageTracker = _gat._getTracker("UA-363647-1"); 
         pageTracker._setDomainName('playlist.com');
         pageTracker._initData(); 
-        pageTracker._trackPageview(); 
+		RemoteLogger.logGAPageview('/about/privacy');
       /*]]>*/
     </script>
     
@@ -394,7 +380,7 @@ for(var i=0;i<__ads.length;i++) {
       /*<![CDATA[*/
 	_qoptions={
 		qacct:"p-ac-VBpr418cZw"
-	};
+  	};
       /*]]>*/
     </script>
     <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
