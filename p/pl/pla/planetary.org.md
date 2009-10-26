@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetary.org privacy policy that was archived on 2009-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090305025842id_/http%3A//www.planetary.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetary.org privacy policy that was archived on 2009-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091026160102id_/http%3A//www.planetary.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Planetary Society
 
