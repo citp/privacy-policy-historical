@@ -1,18 +1,19 @@
-<!--The following is the downloaded HTML source of the miniclip.com privacy policy that was archived on 2008-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081221165842id_/http%3A//www.miniclip.com/games/en/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the miniclip.com privacy policy that was archived on 2009-10-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091026171742id_/http%3A//www.miniclip.com/games/en/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
-<!-- S: cms
- -->
-		<title>Privacy Policy - Games at Miniclip.com - Play Free Games</title>
-	<meta name="description" content="Play Free Online Games, sports games, massive multiplayer games, action games, puzzle games, flash games and more, casual games.">
+	<title>Privacy Policy - Games at Miniclip.com - Play Free Games</title>
+	<meta name="description" content="Play Free Online Games, sports games, massive multiplayer games, action games, puzzle games, flash games and more">
 	<meta name="keywords" content="games, game, gaming, online games, free games, flash games, miniclip.com, miniclip, multiplayer games, cash games, free website content, free, fun, casual, casual games,">
 	<meta name="verify-v1" content="wamQiZIEzNwWVOAL1vPDb98Q42ry2PusgPV5zIb4gSc=">
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-	<link rel="stylesheet" type="text/css" href="/styles/css.php?f=styles,games&amp;dc=214">
+	<meta http-equiv="X-UA-Compatible" content="IE=7">
+	<link rel="stylesheet" type="text/css" href="/styles/css.php?f=styles,games&amp;dc=26511">
 	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.miniclip.com/games/en/feed.xml">
 	<!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="/styles/ie_bug_fix.css" /><![endif]-->
 	<!--[if IE 7]><link rel="stylesheet" type="text/css" href="/styles/ie_bug_fix7.css" /><![endif]-->
+	
+<!-- HIDE NON-SKETCHSTAR CHANNELS IF VISITOR IS BROWSING FROM SKETCHSTAR.COM -->
 	
 	<script type="text/javascript">
 		var language = new Array();
@@ -28,8 +29,9 @@
 		language[ 9 ] = "Jump to Games here";			
 		language[ 10 ] = "In order to see all of your saved Games you must download and install the toolbar.\\n\\nWould you like to install the toolbar now?";
 	</script>
-	<script src="/scripts/js.php?f=global,AC_RunActiveContent,AC_ActiveX,tooltips&amp;dc=21" type="text/javascript"></script>
-	<script src="/scripts/js.php?f=oas/oas_home_games&amp;dc=214" type="text/javascript"></script>	
+	<script src="/scripts/js.php?f=global,AC_RunActiveContent,AC_ActiveX,tooltips&amp;dc=2614" type="text/javascript"></script>
+	<script src="/scripts/js.php?f=oas/oas_home_games&amp;dc=265" type="text/javascript"></script>
+	<script type="text/javascript" src="http://Ads1.msn.com/library/dap.js"></script>
 	<script type="text/javascript">
 		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -37,25 +39,53 @@
 	<script type="text/javascript">
 		var pageTracker = _gat._getTracker("UA-687294-1");
 		pageTracker._initData();
+		pageTracker._setDomainName(".miniclip.com");
 		pageTracker._trackPageview();
 		
 		var clickTracker = _gat._getTracker("UA-687294-6");
 		clickTracker._setDomainName("none");
 		clickTracker._setAllowLinker(true);
 		clickTracker._initData();
-		
 		var adKeyword = ";gName=page156;gChannel=channel1;gLanguage=en;gPageType=page";
 		var adPropertiesBanner = "exp=yes;ovl=no;pop=no;";
 		var adPropertiesBox = "exp=yes;ovl=yes;pop=yes;dcopt=ist;";
-		var adKeywordsAdtech = "page_156+channel_1+language_en+pagetype_page";	
+		var adKeywordsAdtech = "page_156+channel_1+language_en+pagetype_page";
+		var adKeywordsAtlas = "/NAME1=PAGE156/CHANNEL=CHANNEL1/LANGUAGE1=EN/PAGETYPE=PAGE";
+		var adServerProperties = "channel1/page";
+		var sr_keyword = "page_156,channel_1,language_en,pagetype_page";
+		
 		var ord = Math.random() * 10000000000000000;
 	</script>
-	</head>
-<!-- page : en -->
+	<script language="VBScript">
+		function detectUnityWebPlayerActiveX
+			on error resume next
+			dim tControl, res, ua, re, matches, major
+			res = 0
+			set tControl = CreateObject("UnityWebPlayer.UnityWebPlayer.1")
+			if IsObject(tControl) then
+				if tControl.GetPluginVersion() = "2.5.0f5" then
+					ua = Navigator.UserAgent
+					set re = new RegExp
+					re.Pattern = "Windows NT (\d+)\."
+					set matches = re.Execute(ua)
+					if matches.Count = 1 then
+						major = CInt(matches(0).SubMatches(0))
+						if major < 6 then
+							res = 1
+						end if
+					end if
+				else
+					res = 1
+				end if
+			end if
+			detectUnityWebPlayerActiveX = res
+		end function
+	</script>
+	</head><!-- page : en -->
 <body class="H_game page156">
 	<div id="blackOverlay"></div>
 	<div id="shockwaveInstallBar"></div>
-	
+	<div id="toolbarPush"></div>
 	<div id="wrapper">
 		<div class="ad_728_90">
 			<script language="JavaScript" type="text/javascript">OAS_AD('Bottom2');</script>
@@ -65,10 +95,10 @@
 		<div id="wrapperNav">
 			<ul id="subNav">
 				<li><a href="/games/en/">Games Home</a></li>
-				<li><a href="/games/en/christmas.php">Christmas Games</a></li>
 				<li><a href="/games/en/action.php">Action Games</a></li>
 				<li><a href="/games/en/sport.php">Sports Games</a></li>
-				<li><a href="/games/en/multiplayer.php" style="background:none;">Multiplayer Games</a></li>
+				<li><a href="/games/en/halloween.php">Halloween Games</a></li>
+				<li><a href="/games/en/puzzle.php" style="background:none;">Puzzle Games</a></li>
 				<li class="more"><a href="#" onclick="more_display();">More</a></li>
 			</ul>
 			
@@ -83,7 +113,7 @@
 
 			<div class="box">
 				<h2>Search for Games</h2>
-				<form action="/php/en/search_results.php" method="get">
+				<form action="/games/en/search.php" method="get">
 					<input type="text" name="query">
 					<input type="submit" value="Go!" class="button">
 				</form>
@@ -100,7 +130,7 @@
 					<li><a href="/games/en/3d.php?open" class="35">3D</a></li>
 					<li><a href="/games/en/5-minute-in-a-hurry.php?open" class="33">5 Minute (In a hurry)</a></li>
 					<li><a href="/games/en/brain-training.php?open" class="476">Brain Training</a></li>
-					<li><a href="/games/en/china-2008.php?open" class="487">China 2008</a></li>
+					<li><a href="/games/en/buzz.php?open" class="497">Buzz</a></li>
 					<li><a href="/games/en/dancing-and-shows.php?open" class="15">Dancing &amp; Shows</a></li>
 					<li><a href="/games/en/e-rated-everyone.php?open" class="24">E-Rated (Everyone)</a></li>
 					<li><a href="/games/en/education.php?open" class="491">Education</a></li>
@@ -112,26 +142,27 @@
 					<li><a href="/games/en/learning.php?open" class="16">Learning</a></li>
 					<li><a href="/games/en/mmog.php?open" class="479">MMOG</a></li>
 					<li><a href="/games/en/motorsports.php?open" class="26">Motorsports</a></li>
-					<li><a href="/games/en/nintendo-wii.php?open" class="475">Nintendo Wii</a></li>
+					<li><a href="/games/en/multiplayer.php?open" class="2">Multiplayer</a></li>
+					<li><a href="/games/en/wii.php?open" class="475">Nintendo Wii</a></li>
 					<li><a href="/games/en/platform.php?open" class="40">Platform</a></li>
 					<li><a href="/games/en/political.php?open" class="14">Political</a></li>
-					<li><a href="/games/en/puzzle.php?open" class="1">Puzzle</a></li>
+					<li><a href="/games/en/premium-.php?open" class="495">Premium </a></li>
 					<li><a href="/games/en/racing.php?open" class="477">Racing</a></li>
 					<li><a href="/games/en/retro.php?open" class="17">Retro</a></li>
 					<li><a href="/games/en/shoot-em-up.php?open" class="5">Shoot 'Em Up</a></li>
 					<li><a href="/games/en/soccer.php?open" class="18">Soccer</a></li>
 					<li><a href="/games/en/tennis.php?open" class="484">Tennis</a></li>
 					<li><a href="/games/en/top-100.php?open" class="23">Top 100</a></li>
-					<li><a href="/games/en/us-election-2008.php?open" class="478">US Election 2008</a></li>
 					<li><a href="/games/en/virtual-worlds.php?open" class="481">Virtual Worlds</a></li>
 					<li><a href="/games/en/web-toys.php?open" class="483">Web Toys</a></li>
+					<li><a href="/games/en/christmas.php?open" class="4">Winter</a></li>
 				</ul>
 			</div>
 			
 			<div class="col medium">
 				<h2>Other Sections</h2>
 				<ul>
-					<li><a href="/games/en/toolbar/?open">New Game Alerts</a></li>
+					<li><a href="/games/en/toolbar/?open">New Games Alerts</a></li>
 					<li><a href="/games/en/games-store.php?open">Games Store</a></li>
 					<li><a href="/games/en/faq/?open">Help</a></li>
 					<li><a href="/games/en/shop.php?open">Merchandise</a></li>
@@ -149,31 +180,26 @@
 					<!--<li><a href="/games/en/mobile/">Mobile / Cell Phone</a></li>-->		
 					<!-- <li><a href="/toons/?open">Toons</a></li> -->
                     <li><a href="/sketch-star/en/">SketchStar</a></li>
-					<li><a href="/ecards/?open">Ecards</a></li>
+					<!--<li><a href="/ecards/?open">Ecards</a></li>-->
 				</ul>
 			</div>
 			
 			<p class="clear"></p>
 			</div>		
 		<!-- CONTENT -->
-		
 		<div class="mainContent">
-		
 			<div class="corner_tl"><div class="corner_tr">&nbsp;</div></div>
 
 			<div class="breadcrumb">
-			
 				<div class="channeHolder">
-					                    <a href="/players/en/" class="channel players">Players</a>
-                    				</div>			
+                    <a href="/players/en/" class="channel players">Players</a>
+				</div>			
 			
 				<div class="support">
-					
 					<span>
-					<a href="/games/en/faq/">Help</a>					
-					<a href="http://forums.miniclip.com/" class="last">Forum</a>	
+						<a href="/games/en/faq/">Help</a>					
+						<a href="http://forums.miniclip.com/" class="last">Forum</a>	
 					</span>
-					
 				</div>				
 
 				<a href="/games/en/">Games</a> /
@@ -181,29 +207,23 @@
 			</div>
 			
 			<div class="holder">
-
 				<div class="corner_tl bb"><div class="corner_tr bb">&nbsp;</div></div>
 		
 				<div class="holderborder">
-		
-				<!-- The content goes in here -->
-				
-				<div class="holdercontainer">
+					<!-- The content goes in here -->		
+					<div class="holdercontainer">
 
 <h2><em>1-30-08</em>MINICLIP PRIVACY POLICY</h2>
 
-<p>Miniclip is committed to providing an entertaining, fun and educational service.  Miniclip.com is a property of Miniclip Limited "Miniclip".  Miniclip respects the privacy concerns of visitors to Miniclip.com.  Miniclip does not target its website or services to under 13 year olds, but does take measures to help protect those that happen to be under 13.  We take measures to help children protect their privacy while online. For example, we do not ask children to disclose more personal information than is necessary for them to participate in a particular activity.</p>
-
+<p>Miniclip is committed to providing an entertaining, fun and educational service.  Miniclip.com is a property of Miniclip SA "Miniclip".  Miniclip respects the privacy concerns of visitors to Miniclip.com.  Miniclip does not target its website or services to under 13 year olds, but does take measures to help protect those that happen to be under 13.  We take measures to help children protect their privacy while online. For example, we do not ask children to disclose more personal information than is necessary for them to participate in a particular activity.</p>
 
 <p><strong>Information we collect</strong></p>
 
 <p>We may log IP addresses and/or drop cookies to prevent abuse of our website and/or to enhance services. Email addresses of under 13 year olds are not stored. They are encrypted into an unrecoverable format using a one way hash.</p>
 
-
-
 <p><strong>How we use the information</strong></p>
 
-<p>We have an internal notification system to communicate with under 13 players and do not send them emails.    We do not retain any personal information beyond the time it is needed.  We may use information to ensure that users are compliance with our terms.  Over 13's may authorize and receive email notifications related to Miniclip services. Miniclip Limited may disclose information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with Miniclip's property, visitors, or anyone else that could be harmed by such activities.  </p>
+<p>We have an internal notification system to communicate with under 13 players and do not send them emails.    We do not retain any personal information beyond the time it is needed.  We may use information to ensure that users are compliance with our terms.  Over 13's may authorize and receive email notifications related to Miniclip services. Miniclip SA may disclose information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with Miniclip's property, visitors, or anyone else that could be harmed by such activities.</p>
 
 
 <p>We may sometimes use non-personally identifiable information that we collect to improve the design and content of our site, to personalize our visitors' experience or to offer products, programs, and services. We may also use this information in the aggregate to analyze site usage, as well as to offer products, programs, or services.</p>
@@ -211,7 +231,7 @@
 
 <p><strong>Collection of Information and Third-Party Sites and Sponsors</strong></p>
 
-<p>We do not disclose personally identifiable information of under 13's to third parties.  We use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies and Miniclip Limited may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. Third parties and or Miniclip may be placing and reading cookies on your browser, or using web beacons to collect information, in the course of ads being served.  We may also share the anonymous information that we collect from you with our business partners or clients so that they may improve their services.  We may use anonymous information that we collect from you to improve our services. You may manage your cookies via your web browser and if you would like more information about this practice and to know your choices about not having this information used by these companies, please click here <a href="http://www.networkadvertising.org/optout_nonppii.asp">http://www.networkadvertising.org/optout_nonppii.asp</a></p>
+<p>We do not disclose personally identifiable information of under 13's to third parties.  We use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies and Miniclip SA may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. Third parties and or Miniclip may be placing and reading cookies on your browser, or using web beacons to collect information, in the course of ads being served.  We may also share the anonymous information that we collect from you with our business partners or clients so that they may improve their services.  We may use anonymous information that we collect from you to improve our services. You may manage your cookies via your web browser and if you would like more information about this practice and to know your choices about not having this information used by these companies, please click here <a href="http://www.networkadvertising.org/optout_nonppii.asp">http://www.networkadvertising.org/optout_nonppii.asp</a></p>
 
 
 <p><strong>Information that is reasonably necessary</strong></p>
@@ -227,12 +247,12 @@
 
 <p><strong>Parental Review</strong></p>
 
-<p>Parents, if you would like to review your child's personal information, ask to have it deleted, and refuse to allow any further collection or use of the child's information then please send a letter to our Privacy Manager at Suite 223, Rosden House, 372 Old Street, London, EC1V 9AU, United Kingdom.   Please be sure to include your email address and a telephone number where we can reach you. Our phone number is 1-(646)-827-9817.  To protect your child's privacy and security, we will take reasonable steps to help verify your identity before granting you access to the personal information that we collect and maintain about your child.</p>
+<p>Parents, if you would like to review your child's personal information, ask to have it deleted, and refuse to allow any further collection or use of the child's information then please send a letter to our Privacy Manager at Miniclip SA, Case Postale 2671, 2001 Neuchâtel, Switzerland.   Please be sure to include your email address and a telephone number where we can reach you. Our phone number is 1-(646)-827-9817.  To protect your child's privacy and security, we will take reasonable steps to help verify your identity before granting you access to the personal information that we collect and maintain about your child.</p>
 
 
 <p><strong>Changes to this Privacy Policy</strong></p>
 
-<p>This Privacy Policy is part of the Miniclip main Terms and Conditions which you agree to by accessing the Miniclip.com webstie and/or services.  You agree that Miniclip Limited may change this Privacy Policy and the main Miniclip Terms and Conditions at any time. Our current Privacy Policy will be posted here: http://www.miniclip.com/en/privacy-policy.php which is part of our Terms and Conditions posted here: <a href="http://www.miniclip.com/games/en/terms-and-conditions.php">http://www.miniclip.com/games/en/terms-and-conditions.php</a></p>
+<p>This Privacy Policy is part of the Miniclip main Terms and Conditions which you agree to by accessing the Miniclip.com webstie and/or services.  You agree that Miniclip SA may change this Privacy Policy and the main Miniclip Terms and Conditions at any time. Our current Privacy Policy will be posted here: http://www.miniclip.com/en/privacy-policy.php which is part of our Terms and Conditions posted here: <a href="http://www.miniclip.com/games/en/terms-and-conditions.php">http://www.miniclip.com/games/en/terms-and-conditions.php</a>. Our contact email for questions is <a href="mailto:support@miniclip.com">support@miniclip.com</a>.</p>
 
 
 <p><strong>Internet Safety</strong></p>
@@ -241,45 +261,55 @@
 
 
 </div>
-				
-				</div>
+
+<div class="holdercontainer">
+	<a href="http://www.caru.org/caru.aspx?id=275582381"><img src="http://www.caru.org/css/images/SafeHarborSeal.gif" alt="CARU Kid's Privacy Safe Harbor"></a>
+</div>				</div>
 		
 				<div class="corner_bl bb"><div class="corner_br bb">&nbsp;</div></div>
-
 			</div>
 
 			<div class="corner_bl"><div class="corner_br">&nbsp;</div></div>
-			
 		</div>
-
-
-
 
 		<!-- SIDE BAR -->		
 		<div id="sideBar">
-		
-			<div class="block_300x250" id="sidebarBoxBackground"></div>	<div class="block_300x250_holder" id="sidebarBoxForeground">
+	<div class="block_300x250" id="sidebarBoxBackground">
+	<div id="takeoverMPU"></div>
+	<div class="block_300x250_holder">
 		<script language="JavaScript" type="text/javascript">
 			OAS_AD('Middle');
 		</script>
+	</div>	</div>
+	<div class="letterbox">
+		<script type="text/javascript" src="/scripts/adserver/serve.php?t=3&amp;p=US,1,,"></script><a href="/games/big-snow-tricks/" id="banner_pushad_small" title="" style="border:none;"><img src="https://web.archive.org/web/20100401003904/http://www.miniclip.com/i/banners/ps/big-snow-tricks_324x76.jpg" alt="" width="324" height="76" style="border:none;"></a>
 	</div>
-		
-				<!-- Mini Panel -->
+
+<!--
+	<div class="letterbox" style="height:215px;" id="commandoPush">
+		<a href="/games/commando-2">
+			<img src="/images/banners/commando2_324x215.jpg" />
+		</a> 
+        <a href="/games/club-penguin">
+			<img src="/images/banners/club-penguin_324x215_general.jpg" />
+		</a>		
+	</div>
+-->		<!-- Mini Panel -->
 		<div id="miniPanel">
 			<div class="topTen_2">
 				<h2>Top Ten Games</h2>
-				<ol><li><a href="/games/club-penguin/en/">Club Penguin</a></li><li><a href="/games/commando-2/en/">Commando 2</a></li><li><a href="/games/polar-jump/en/">Polar Jump</a></li><li><a href="/games/monster-trucks-nitro/en/">Monster Trucks Nitro</a></li><li><a href="/games/viking-defense/en/">Viking Defense</a></li><li><a href="/games/quick-fire-pool/en/">Quick Fire Pool</a></li><li><a href="/games/frost-bite-2/en/">Frost Bite 2</a></li><li><a href="/games/the-scruffs/en/">The Scruffs</a></li><li><a href="/games/cab-driver/en/">Cab Driver</a></li><li><a href="/games/governor-of-poker/en/">Governor of Poker</a></li></ol>
+				<ol><li><a href="/games/club-penguin/en/">Club Penguin</a></li><li><a href="/games/commando-2/en/">Commando 2</a></li><li><a href="/games/disc-pool/en/">Disc Pool</a></li><li><a href="/games/sketch-star/en/">Sketch Star</a></li><li><a href="/games/8-ball-quick-fire-pool/en/">8 Ball Pool</a></li><li><a href="/games/ice-breaker/en/">Ice Breaker</a></li><li><a href="/games/jet-ski-racing/en/">Jet Ski Racing</a></li><li><a href="/games/doodle-2/en/">Doodle 2</a></li><li><a href="/games/age-of-speed-2/en/">Age of Speed 2</a></li><li><a href="/games/spineworld/en/">Spineworld</a></li></ol>
 			</div>
 			<div class="col">
 				<h2>Latest</h2>
 				<ul>
 					<li>
-						<a href="/games/viking-defense/en/"><img src="http://www.miniclip.com/images/icons/vikingdefensesmallicon.jpg" width="70" height="59" alt="Viking Defense">
-						<strong>Viking Defense</strong></a>
+						<a href="/games/pumpkin-push/en/"><img src="http://e.miniclip.com/images/icons/pumpkinpushsmallicon.jpg" width="70" height="59" alt="Latest Game Pumpkin Push">
+						<strong>Pumpkin Push</strong></a>
 					</li>
 					<li>
-						<a href="/games/polar-jump/en/"><img src="http://www.miniclip.com/images/icons/polarjumpsmallicon.jpg" width="70" height="59" alt="Polar Jump">
-						<strong>Polar Jump</strong></a>
+						<a href="/games/obama-alien-defense/en/"><img src="http://e.miniclip.com/images/icons/obamaaliendefensesmallicon.jpg" width="70" height="59" alt="Latest Game Obama Alien Defense">
+						<strong>Obama Alien Defense</strong></a>
 					</li>
 				</ul>
 			</div>
@@ -288,17 +318,63 @@
 				<h2> &nbsp; &nbsp; Hot</h2>
 				<ul>
 					<li>
-						<a href="/games/club-penguin/en/"><img src="http://www.miniclip.com/images/icons/clubpenguinNew_smallicon.jpg" width="70" height="59" alt="Club Penguin">
+						<a href="/games/club-penguin/en/"><img src="http://e.miniclip.com/images/icons/cp_halloweensmallicon.jpg" width="70" height="59" alt="Hot Games Club Penguin">
 						<strong>Club Penguin</strong></a>
 					</li>
 					<li>
-						<a href="/games/christmas-games/en/"><img src="http://www.miniclip.com/images/icons/christmas2007smallicon.jpg" width="70" height="59" alt="Christmas Games">
-						<strong>Christmas Games</strong></a>
+						<a href="/games/sketch-star/en/"><img src="http://e.miniclip.com/images/icons/sketchstarsmallicon.jpg" width="70" height="59" alt="Hot Game Sketch Star">
+						<strong>Sketch Star</strong></a>
 					</li>
 				</ul>
 			</div>
-		</div>		
-				<div class="myGames">
+		</div>		<div id="playersLogin">
+<div id="miniclipLoginBox102">
+<div class="loggedOutProfile fem LoginSignupBoxId-102">
+	<h2>Miniclip Players</h2>
+	<p>Save your game stats &amp; create a YoMe!</p>
+	<ul>
+		<li class="buttonSignup"><a href="/players/en/login.php" class="SignupButton" onclick="loadLoginbox102('signup'); return false;">Sign Up For Free Now!</a></li>
+		<li class="buttonLogin"><a href="/players/en/login.php" class="LoginButton" onclick="loadLoginbox102('login'); return false;">Log In</a></li>
+	</ul>
+</div>
+
+</div>
+
+<script type="text/javascript">
+
+	function loadLoginbox102 (screen) {
+		
+		loginBoxDiv = $("miniclipLoginBox102");
+
+		if (loginBoxDiv) {
+		
+			if (loginBoxDiv.innerHTML.indexOf('<object') >= 0) {
+				return;
+			}
+			
+			loginboxDetails = AC_FL_GetContent(
+				'id','loginbox',
+				'classid','clsid:D27CDB6E-AE6D-11cf-96B8-444553540000',
+				'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0',
+				'width','324',
+				'height','200',
+				'src','/players/swf/components/loginbox',
+				'flashvars','sessid=t6eqd4nelml979p15enta40ah5&loggedin=0&ua=bdc6f5c&screen=player&cfg=stop&screen=' + screen,
+				'menu','true',
+				'wmode', 'window'
+			);
+			
+			loginBoxDiv.innerHTML = loginboxDetails;
+			
+		}
+		
+		return false;
+		
+	}
+	
+
+</script>		</div>
+		<div class="myGames">
 			<div class="col">
 				<h2>Latest Games Played</h2>
 				<div id="mg_latest"></div>
@@ -309,71 +385,815 @@
 			</div>
 			<div class="clear"></div>
 		</div>
-	
 		</div>
-
-				<!-- FULL GAME LIST - ON EVERY PAGE -->
-			
-		<div class="complete">		
+		<!-- FULL GAME LIST - ON EVERY PAGE -->
+		<div class="complete">
 			<div class="corner_tl"><div class="corner_tr">&nbsp;</div></div>
-		
-			<a href="#" onclick="list_toggle(); return false;" id="listToggle" class="collapse">Hide all Games Sections and Full Games List</a>			
-			<div id="WrapperComplete"></div>
+			<a href="#" onclick="list_toggle(); return false;" id="listToggle" class="collapse">Hide all Games Sections and Full Games List</a>
+			
+			<div id="WrapperComplete">
+			
+			<!-- start full game list -->
+			
+			<div id="catList">
+			
+			<!-- Category listing -->
+			
+			<div class="header">
+				<div class="corner_tl b"><div class="corner_tr b">&nbsp;</div></div>
+				<h2>&nbsp;&nbsp;All Categories</h2>
+				<div class="corner_bl b"><div class="corner_br b">&nbsp;</div></div></div>
+			
+				<div class="gameWrapper">
+					<div class="corner_tl b"><div class="corner_tr b">&nbsp;</div></div>
+					<ul class="catItems">
+						<li><a href="/games/en/3d.php">3D</a></li>
+						<li><a href="/games/en/5-minute-in-a-hurry.php">5 Minute (In a hurry)</a></li>
+						<li><a href="/games/en/action.php">Action</a></li>
+						<li><a href="/games/en/brain-training.php">Brain Training</a></li>
+						<li><a href="/games/en/buzz.php">Buzz</a></li>
+						<li><a href="/games/en/dancing-and-shows.php">Dancing &amp; Shows</a></li>
+						<li><a href="/games/en/e-rated-everyone.php">E-Rated (Everyone)</a></li>
+						<li><a href="/games/en/education.php">Education</a></li>
+						<li><a href="/games/en/girls.php">Girls</a></li>
+						<li><a href="/games/en/golf.php">Golf</a></li>
+						<li><a href="/games/en/halloween.php">Halloween</a></li>
+						<li><a href="/games/en/hot-games.php">Hot</a></li>
+						<li><a href="/games/en/kids.php">Kids</a></li>
+						<li><a href="/games/en/latest.php">Latest</a></li>
+						<li><a href="/games/en/learning.php">Learning</a></li>
+						<li><a href="/games/en/mmog.php">MMOG</a></li>
+						<li><a href="/games/en/motorsports.php">Motorsports</a></li>
+						<li><a href="/games/en/multiplayer.php">Multiplayer</a></li>
+						<li><a href="/games/en/wii.php">Nintendo Wii</a></li>
+						<li><a href="/games/en/platform.php">Platform</a></li>
+						<li><a href="/games/en/political.php">Political</a></li>
+						<li><a href="/games/en/premium-.php">Premium </a></li>
+						<li><a href="/games/en/puzzle.php">Puzzle</a></li>
+						<li><a href="/games/en/racing.php">Racing</a></li>
+						<li><a href="/games/en/retro.php">Retro</a></li>
+						<li><a href="/games/en/shoot-em-up.php">Shoot 'Em Up</a></li>
+						<li><a href="/games/en/soccer.php">Soccer</a></li>
+						<li><a href="/games/en/sport.php">Sports</a></li>
+						<li><a href="/games/en/tennis.php">Tennis</a></li>
+						<li><a href="/games/en/top-100.php">Top 100</a></li>
+						<li><a href="/games/en/virtual-worlds.php">Virtual Worlds</a></li>
+						<li><a href="/games/en/web-toys.php">Web Toys</a></li>
+						<li><a href="/games/en/christmas.php">Winter</a></li>
+					</ul>
+					<div class="corner_bl b"><div class="corner_br b">&nbsp;</div></div>
+				</div>
+			
+			<!-- Other pages listing -->
+			
+			<div class="header" style="margin-top:5px;">
+				<div class="corner_tl b"><div class="corner_tr b">&nbsp;</div></div>
+				<h2>&nbsp;&nbsp;Other Sections</h2>
+				<div class="corner_bl b"><div class="corner_br b">&nbsp;</div></div></div>
+			
+				<div class="gameWrapper">
+					<div class="corner_tl b"><div class="corner_tr b">&nbsp;</div></div>
 
-			<div class="corner_bl"><div class="corner_br">&nbsp;</div></div>
-		</div>		
-		<div class="corner_bl g"><div class="corner_br g">&nbsp;</div></div>
-	
+					<ul class="catItems">
+						<li><a href="/games/en/games-store.php">Games Store</a></li>
+						<li><a href="/games/en/shop.php">Merchandise</a></li>
+						<li><a href="/games/en/toolbar/">New Games Alerts</a></li>
+						<li><a href="/games/en/webmaster-games.php">Free Website Games</a></li>
+						<li><a href="/games/en/downloadable-games.php?open">Downloadable Games</a></li>
+						<li><a href="/games/en/toolbar/">Toolbar</a></li>
+					</ul>
 
+					<div class="corner_bl b"><div class="corner_br b">&nbsp;</div></div>
+				</div>
+			</div>
+			
+			<div id="gameList">
+				<div class="header">
+					<div class="corner_tl b"><div class="corner_tr b">&nbsp;</div></div>
+					<h2>&nbsp;&nbsp;Full Games List</h2>
+					<div class="corner_bl b"><div class="corner_br b">&nbsp;</div></div>
+				</div>
+			
+				<div class="gameWrapper">
+					<div class="corner_tl b"><div class="corner_tr b">&nbsp;</div></div>
+<div class="col">
+<h3>#</h3>
+<ul>
+<li><a href="/games/3-foot-ninja/en/" id="tid_1">3 Foot Ninja</a></li>
+<li><a href="/games/3-foot-ninja-ii/en/" id="tid_2">3 Foot Ninja II</a></li>
+<li><a href="/games/8-ball-quick-fire-pool/en/" id="tid_1966" class="challengeGame">8 Ball Pool</a></li>
+<li><a href="/games/9-ball-quick-fire-pool/en/" id="tid_2083" class="challengeGame">9 Ball Pool</a></li>
+</ul>
+<h3>A</h3>
+<ul>
+<li><a href="/games/aaron-stones-ultimate-gamer-challenge/en/" id="tid_2138" class="challengeGame">Aaron Stone</a></li>
+<li><a href="/games/acid-factory/en/" id="tid_1733" class="challengeGame">Acid Factory</a></li>
+<li><a href="/games/acnos-energizer/en/" id="tid_4">Acno's Energizer</a></li>
+<li><a href="/games/adrenaline-bundle/en/" id="tid_2115">Adrenaline Bundle</a></li>
+<li><a href="/games/adventure-elf/en/" id="tid_5">Adventure Elf</a></li>
+<li><a href="/games/adventures-in-italy/en/" id="tid_2035">Adventures in Ital</a></li>
+<li><a href="/games/adventures-of-bloo/en/" id="tid_2141" class="challengeGame">Adventures of Bloo</a></li>
+<li><a href="/games/age-of-speed/en/" id="tid_1722">Age Of Speed</a></li>
+<li><a href="/games/age-of-speed-2/en/" id="tid_2011" class="challengeGame">Age of Speed 2</a></li>
+<li><a href="/games/air-barons/en/" id="tid_1963">Air Barons</a></li>
+<li><a href="/games/air-show/en/" id="tid_2145" class="challengeGame">Air Show</a></li>
+<li><a href="/games/alex-in-danger/en/" id="tid_207">Alex in Danger</a></li>
+<li><a href="/games/alien-abduction/en/" id="tid_6">Alien Abduction</a></li>
+<li><a href="/games/alien-attack/en/" id="tid_7">Alien Attack</a></li>
+<li><a href="/games/alien-clones/en/" id="tid_8">Alien Clones</a></li>
+<li><a href="/games/alien-disorder/en/" id="tid_1790">Alien Disorder</a></li>
+<li><a href="/games/alien-hive/en/" id="tid_1799" class="challengeGame">Alien Hive</a></li>
+<li><a href="/games/aliens-must-die/en/" id="tid_1934" class="challengeGame">Aliens Must Die</a></li>
+<li><a href="/games/all-out/en/" id="tid_9">All Out</a></li>
+<li><a href="/games/alphattack/en/" id="tid_303" class="challengeGame">Alphattack</a></li>
+<li><a href="/games/anagrammatic/en/" id="tid_244">Anagrammatic</a></li>
+<li><a href="/games/anikas-odyssey/en/" id="tid_1981">Anika's Odyssey</a></li>
+<li><a href="/games/aqua-energizer/en/" id="tid_12">Aqua Energizer</a></li>
+<li><a href="/games/aquanaut/en/" id="tid_1828" class="challengeGame">Aquanaut</a></li>
+<li><a href="/games/armada-tanks/en/" id="tid_1921">Armada Tanks</a></li>
+<li><a href="/games/ask-guru-joe/en/" id="tid_13">Ask Guru Joe</a></li>
+<li><a href="/games/astro-boy/en/" id="tid_2179">Astro Boy</a></li>
+</ul>
+<h3>B</h3>
+<ul>
+<li><a href="/games/baby-blimp/en/" id="tid_1938" class="challengeGame">Baby Blimp</a></li>
+<li><a href="/games/backfire/en/" id="tid_1881">Backfire</a></li>
+<li><a href="/games/bad-apple/en/" id="tid_16">Bad Apple</a></li>
+<li><a href="/games/badaboom/en/" id="tid_15">Badaboom</a></li>
+<li><a href="/games/balance/en/" id="tid_1783" class="challengeGame">Balance</a></li>
+<li><a href="/games/bang-howdy/en/" id="tid_1761">Bang Howdy</a></li>
+<li><a href="/games/bank-robber/en/" id="tid_1782">Bank Robber</a></li>
+<li><a href="/games/base-jumper/en/" id="tid_2092" class="challengeGame">Base Jumper</a></li>
+<li><a href="/games/base-jumping/en/" id="tid_317" class="challengeGame">Base Jumping</a></li>
+<li><a href="/games/baseball/en/" id="tid_18" class="challengeGame">Baseball</a></li>
+<li><a href="/games/basketball-slam/en/" id="tid_1758" class="challengeGame">Basketball Slam</a></li>
+<li><a href="/games/battle-wheels/en/" id="tid_1787" class="challengeGame">Battle Wheels</a></li>
+<li><a href="/games/battleships/en/" id="tid_20">Battleships</a></li>
+<li><a href="/games/battlesphere/en/" id="tid_1900">Battlesphere</a></li>
+<li><a href="/games/bears-and-bees/en/" id="tid_23">Bears &amp; Bees</a></li>
+<li><a href="/games/beat-the-wall/en/" id="tid_332">Beat The Wall</a></li>
+<li><a href="/games/bee-boxing/en/" id="tid_344" class="challengeGame">Bee Boxing</a></li>
+<li><a href="/games/big-catch/en/" id="tid_338">Big Catch</a></li>
+<li><a href="/games/big-jump-challenge/en/" id="tid_288" class="challengeGame">Big Jump Challenge</a></li>
+<li><a href="/games/bionic-bugz/en/" id="tid_2052" class="challengeGame">Bionic Bugz</a></li>
+<li><a href="/games/black-knight/en/" id="tid_278">Black Knight</a></li>
+<li><a href="/games/blackjack-elf/en/" id="tid_27">Blackjack Elf</a></li>
+<li><a href="/games/blair-the-motivator/en/" id="tid_28">Blair The Motivator</a></li>
+<li><a href="/games/blobs/en/" id="tid_29">Blobs</a></li>
+<li><a href="/games/blobs-2/en/" id="tid_30">Blobs 2</a></li>
+<li><a href="/games/block-drop/en/" id="tid_2112" class="challengeGame">Block Drop</a></li>
+<li><a href="/games/bloomin-gardens/en/" id="tid_264">Bloomin' Gardens</a></li>
+<li><a href="/games/blox-forever/en/" id="tid_31">Blox Forever</a></li>
+<li><a href="/games/bloxorz/en/" id="tid_1819" class="challengeGame">Bloxorz</a></li>
+<li><a href="/games/blues-bikers/en/" id="tid_1871" class="challengeGame">Blues Bikers</a></li>
+<li><a href="/games/bmx-freestyle/en/" id="tid_263">BMX Freestyle</a></li>
+<li><a href="/games/board/en/" id="tid_32">Board</a></li>
+<li><a href="/games/bomba/en/" id="tid_1975" class="challengeGame">Bomba</a></li>
+<li><a href="/games/boom-boom-volleyball/en/" id="tid_33">Boom Volleyball</a></li>
+<li><a href="/games/bow-master/en/" id="tid_2110" class="challengeGame">Bow Master</a></li>
+<li><a href="/games/bp-gas-mania/en/" id="tid_1794">BP Gas Mania</a></li>
+<li><a href="/games/bp-ultimate-rally-challenge/en/" id="tid_305">BP Rally</a></li>
+<li><a href="/games/bubble-trouble/en/" id="tid_194">Bubble Trouble</a></li>
+<li><a href="/games/bug-on-a-wire/en/" id="tid_195" class="challengeGame">Bug On A Wire</a></li>
+<li><a href="/games/bullseye/en/" id="tid_196">Bullseye</a></li>
+<li><a href="/games/bunch/en/" id="tid_197">Bunch</a></li>
+<li><a href="/games/bush-aerobics/en/" id="tid_198">Bush Aerobics</a></li>
+<li><a href="/games/bush-shoot-out/en/" id="tid_200">Bush Shoot-Out</a></li>
+</ul>
+<h3>C</h3>
+<ul>
+<li><a href="/games/cab-driver/en/" id="tid_1910" class="challengeGame">Cab Driver</a></li>
+<li><a href="/games/cable-capers-2/en/" id="tid_34">Cable Capers 2</a></li>
+<li><a href="/games/candy-and-clyde/en/" id="tid_1789" class="challengeGame">Candy and Clyde</a></li>
+</ul>
+</div>
+<div class="col">
+<ul><li><a href="/games/cannon-blast/en/" id="tid_35">Cannon Blast</a></li>
+<li><a href="/games/canyon-defense/en/" id="tid_1848" class="challengeGame">Canyon Defense</a></li>
+<li><a href="/games/canyon-glider/en/" id="tid_36">Canyon Glider</a></li>
+<li><a href="/games/canyon-shooter/en/" id="tid_1888" class="challengeGame">Canyon Shooter</a></li>
+<li><a href="/games/caravan-racers/en/" id="tid_265">Caravan Racers</a></li>
+<li><a href="/games/carnival-jackpot/en/" id="tid_37">Carnival Jackpot</a></li>
+<li><a href="/games/castle-conquest/en/" id="tid_304">Castle Conquest</a></li>
+<li><a href="/games/castle-corp/en/" id="tid_2114" class="challengeGame">Castle Corp</a></li>
+<li><a href="/games/cave-chaos/en/" id="tid_2171" class="challengeGame">Cave Chaos</a></li>
+<li><a href="/games/cave-of-despair/en/" id="tid_1766" class="challengeGame">Cave of Despair</a></li>
+<li><a href="/games/caveman/en/" id="tid_1835">Caveman</a></li>
+<li><a href="/games/cell-out/en/" id="tid_38">Cell Out</a></li>
+<li><a href="/games/challenge-churchill/en/" id="tid_1830">Challenge Churchil</a></li>
+<li><a href="/games/championship-rally/en/" id="tid_1768">Championship Rally</a></li>
+<li><a href="/games/chasm/en/" id="tid_250">Chasm</a></li>
+<li><a href="/games/cheese-dreams/en/" id="tid_1869" class="challengeGame">Cheese Dreams</a></li>
+<li><a href="/games/cherie-disco-blair/en/" id="tid_40">Cherie 'Disco' Blair</a></li>
+<li><a href="/games/chick-flick/en/" id="tid_313" class="challengeGame">Chick Flick</a></li>
+<li><a href="/games/china-2008/en/" id="tid_1898" class="challengeGame">China 2008</a></li>
+<li><a href="/games/chronotron/en/" id="tid_2051" class="challengeGame">Chronotron</a></li>
+<li><a href="/games/clash-n-slash/en/" id="tid_280">Clash N Slash</a></li>
+<li><a href="/games/classroom-pilot/en/" id="tid_1839" class="challengeGame">Classroom Pilot</a></li>
+<li><a href="/games/click-and-slide/en/" id="tid_42">Click &amp; Slide</a></li>
+<li><a href="/games/clickplay/en/" id="tid_2119" class="challengeGame">ClickPLAY</a></li>
+<li><a href="/games/clowning-around/en/" id="tid_1719">Clowning Around</a></li>
+<li><a href="/games/club-penguin/en/" id="tid_310">Club Penguin</a></li>
+<li><a href="/games/coign-of-vantage/en/" id="tid_1953" class="challengeGame">Coign of Vantage</a></li>
+<li><a href="/games/commander-n-chief/en/" id="tid_1947" class="challengeGame">Commander n Chief</a></li>
+<li><a href="/games/commando/en/" id="tid_1740">Commando</a></li>
+<li><a href="/games/commando-2/en/" id="tid_1874" class="challengeGame">Commando 2</a></li>
+<li><a href="/games/commando-2-trailer/en/" id="tid_1951">Commando 2 Trailer</a></li>
+<li><a href="/games/couronne-deluxe/en/" id="tid_43">Couronne Deluxe</a></li>
+<li><a href="/games/cranergy-ball/en/" id="tid_2036" class="challengeGame">Cranergy Ball</a></li>
+<li><a href="/games/crash-course-football/en/" id="tid_329">Crash Football</a></li>
+<li><a href="/games/crashdown/en/" id="tid_45">Crashdown</a></li>
+<li><a href="/games/crazy-karts/en/" id="tid_1797" class="challengeGame">Crazy Karts</a></li>
+<li><a href="/games/creepy-pong/en/" id="tid_1838" class="challengeGame">Creepy Pong</a></li>
+<li><a href="/games/cricket-defend-the-wicket/en/" id="tid_2059" class="challengeGame">Cricket</a></li>
+<li><a href="/games/crimson-viper/en/" id="tid_202">Crimson Viper</a></li>
+<li><a href="/games/criss-crossed-rally/en/" id="tid_1944">Criss Cross Rally</a></li>
+<li><a href="/games/crossword-daily/en/" id="tid_1731">Crossword Daily</a></li>
+<li><a href="/games/crypt-raider/en/" id="tid_46">Crypt Raider</a></li>
+<li><a href="/games/cube-buster/en/" id="tid_47">Cube Buster</a></li>
+<li><a href="/games/cyber-mice-party/en/" id="tid_48">Cyber Mice Party</a></li>
+</ul>
+<h3>D</h3>
+<ul>
+<li><a href="/games/da-numba/en/" id="tid_52">Da Numba</a></li>
+<li><a href="/games/dance-2-the-beat/en/" id="tid_243">Dance 2 the Beat</a></li>
+<li><a href="/games/dancing-blair/en/" id="tid_49">Dancing Blair</a></li>
+<li><a href="/games/dancing-bush/en/" id="tid_50">Dancing Bush</a></li>
+<li><a href="/games/dancing-hillary/en/" id="tid_51">Dancing Hillary</a></li>
+<li><a href="/games/dancing-palin/en/" id="tid_1972">Dancing Palin</a></li>
+<li><a href="/games/david/en/" id="tid_299">David</a></li>
+<li><a href="/games/deep-freeze/en/" id="tid_1749">Deep Freeze</a></li>
+<li><a href="/games/deep-sea-patrol/en/" id="tid_1906" class="challengeGame">Deep Sea Patrol</a></li>
+<li><a href="/games/defenders/en/" id="tid_53">Defenders</a></li>
+<li><a href="/games/deluxe-pool/en/" id="tid_1736" class="challengeGame">Deluxe Pool</a></li>
+<li><a href="/games/desert-ambush/en/" id="tid_298">Desert Ambush</a></li>
+<li><a href="/games/detonator/en/" id="tid_54">Detonator</a></li>
+<li><a href="/games/digital-switch/en/" id="tid_1827" class="challengeGame">Digital Switch</a></li>
+<li><a href="/games/dino-run/en/" id="tid_1932" class="challengeGame">Dino Run</a></li>
+<li><a href="/games/dirk-valentine/en/" id="tid_1883" class="challengeGame">Dirk Valentine</a></li>
+<li><a href="/games/disc-golf/en/" id="tid_226">Disc Golf</a></li>
+<li><a href="/games/disc-pool/en/" id="tid_1983">Disc Pool</a></li>
+<li><a href="/games/doeo/en/" id="tid_1984" class="challengeGame">Doeo</a></li>
+<li><a href="/games/dofus/en/" id="tid_1880">Dofus</a></li>
+<li><a href="/games/doodle/en/" id="tid_1781" class="challengeGame">Doodle</a></li>
+<li><a href="/games/doodle-2/en/" id="tid_2130" class="challengeGame">Doodle 2</a></li>
+<li><a href="/games/dr-compactor/en/" id="tid_343" class="challengeGame">Dr Compactor</a></li>
+<li><a href="/games/dream-racer/en/" id="tid_1986" class="challengeGame">Dream Racer</a></li>
+<li><a href="/games/dune-buggy/en/" id="tid_1834" class="challengeGame">Dune Buggy</a></li>
+</ul>
+<h3>E</h3>
+<ul>
+<li><a href="/games/egg-run/en/" id="tid_274">Egg Run</a></li>
+<li><a href="/games/elastic-soccer/en/" id="tid_324">Elastic Soccer</a></li>
+<li><a href="/games/electro-air-hockey/en/" id="tid_205">Electro Air Hockey</a></li>
+<li><a href="/games/elfquilibrium/en/" id="tid_2024" class="challengeGame">Elfquilibrium</a></li>
+<li><a href="/games/evac/en/" id="tid_1873">Evac</a></li>
+<li><a href="/games/exile/en/" id="tid_297">Exile</a></li>
+<li><a href="/games/extreme-pamplona/en/" id="tid_1805">Extreme Pamplona</a></li>
+<li><a href="/games/extreme-trial/en/" id="tid_2086">Extreme Trial</a></li>
+</ul>
+<h3>F</h3>
+<ul>
+<li><a href="/games/family-feud/en/" id="tid_341">Family Feud</a></li>
+</ul>
+</div>
+<div class="col">
+<ul><li><a href="/games/fancy-pants-adventure-2/en/" id="tid_2048">Fancy Pants 2</a></li>
+<li><a href="/games/farmer/en/" id="tid_2027" class="challengeGame">Farmer</a></li>
+<li><a href="/games/fat-cat/en/" id="tid_2013" class="challengeGame">Fat Cat</a></li>
+<li><a href="/games/feather-keeper/en/" id="tid_345">Feather Keeper</a></li>
+<li><a href="/games/feed-me/en/" id="tid_342" class="challengeGame">Feed Me</a></li>
+<li><a href="/games/field-goal/en/" id="tid_56">Field Goal</a></li>
+<li><a href="/games/fighter-pilot/en/" id="tid_2066">Fighter Pilot</a></li>
+<li><a href="/games/final-fortress/en/" id="tid_316">Final Fortress</a></li>
+<li><a href="/games/final-ninja/en/" id="tid_1929" class="challengeGame">Final Ninja</a></li>
+<li><a href="/games/final-ninja-zero/en/" id="tid_2095" class="challengeGame">Final Ninja Zero</a></li>
+<li><a href="/games/fire-storm/en/" id="tid_1812">Fire Storm</a></li>
+<li><a href="/games/fireworks/en/" id="tid_1756" class="challengeGame">Fireworks</a></li>
+<li><a href="/games/flatbread-express/en/" id="tid_1909">Flatbread Express</a></li>
+<li><a href="/games/flea-world/en/" id="tid_258">Flea World</a></li>
+<li><a href="/games/flingo/en/" id="tid_1798" class="challengeGame">Flingo</a></li>
+<li><a href="/games/flip-words/en/" id="tid_208">Flip Words</a></li>
+<li><a href="/games/fly-guy/en/" id="tid_2084" class="challengeGame">Fly Guy</a></li>
+<li><a href="/games/formula-g1/en/" id="tid_59">Formula G1</a></li>
+<li><a href="/games/formula-racing/en/" id="tid_1872">Formula Racing</a></li>
+<li><a href="/games/fowl-words/en/" id="tid_60">Fowl Words</a></li>
+<li><a href="/games/fowl-words-2/en/" id="tid_61">Fowl Words 2</a></li>
+<li><a href="/games/frantic/en/" id="tid_1811" class="challengeGame">Frantic</a></li>
+<li><a href="/games/free-kick-challenge/en/" id="tid_62">Free Kick Challeng</a></li>
+<li><a href="/games/free-realms/en/" id="tid_2030">Free Realms</a></li>
+<li><a href="/games/free-wheels/en/" id="tid_1814" class="challengeGame">Free Wheels</a></li>
+<li><a href="/games/frendz/en/" id="tid_63">Frendz</a></li>
+<li><a href="/games/frost-bite/en/" id="tid_1764" class="challengeGame">Frost Bite</a></li>
+<li><a href="/games/frost-bite-2/en/" id="tid_1764" class="challengeGame">Frost Bite 2</a></li>
+<li><a href="/games/fruit-smash/en/" id="tid_64">Fruit Smash</a></li>
+</ul>
+<h3>G</h3>
+<ul>
+<li><a href="/games/galactic-goobers/en/" id="tid_65">Galactic Goobers</a></li>
+<li><a href="/games/galactic-warrior/en/" id="tid_66">Galactic Warrior</a></li>
+<li><a href="/games/gamma-bros/en/" id="tid_1722" class="challengeGame">Gamma Bros</a></li>
+<li><a href="/games/gateway/en/" id="tid_1744">Gateway</a></li>
+<li><a href="/games/gingerbread-circus/en/" id="tid_1949" class="challengeGame">Gingerbread Circus</a></li>
+<li><a href="/games/glassworks/en/" id="tid_1979" class="challengeGame">Glassworks</a></li>
+<li><a href="/games/go-karts/en/" id="tid_1984" class="challengeGame">Go Karts</a></li>
+<li><a href="/games/golf-ace/en/" id="tid_1754" class="challengeGame">Golf Ace</a></li>
+<li><a href="/games/golf-ace-hawaii/en/" id="tid_1793" class="challengeGame">Golf Ace Hawaii</a></li>
+<li><a href="/games/golfish/en/" id="tid_1962" class="challengeGame">Golfish</a></li>
+<li><a href="/games/governor-of-poker/en/" id="tid_1926" class="challengeGame">Governor of Poker</a></li>
+<li><a href="/games/graveyard-shift/en/" id="tid_2076" class="challengeGame">Graveyard Shift</a></li>
+<li><a href="/games/gravity/en/" id="tid_67">Gravity</a></li>
+<li><a href="/games/gripz-globe-skater/en/" id="tid_2081" class="challengeGame">Gripz Globe Skater</a></li>
+<li><a href="/games/gun-run/en/" id="tid_287">Gun Run</a></li>
+<li><a href="/games/gutterball/en/" id="tid_68">Gutterball</a></li>
+<li><a href="/games/gyroball/en/" id="tid_326">Gyroball</a></li>
+</ul>
+<h3>H</h3>
+<ul>
+<li><a href="/games/hangaroo/en/" id="tid_69">Hangaroo</a></li>
+<li><a href="/games/hangaroo-2/en/" id="tid_70">Hangaroo 2</a></li>
+<li><a href="/games/hard-boiled/en/" id="tid_2106" class="challengeGame">Hard Boiled</a></li>
+<li><a href="/games/harvey-wallbanger/en/" id="tid_71">Harvey Wallbanger</a></li>
+<li><a href="/games/heli-attack-2/en/" id="tid_72">Heli Attack 2</a></li>
+<li><a href="/games/heli-attack-3/en/" id="tid_260" class="challengeGame">Heli Attack 3</a></li>
+<li><a href="/games/hen-coops/en/" id="tid_1897">Hen Coops</a></li>
+<li><a href="/games/hexxagon/en/" id="tid_73">Hexxagon</a></li>
+<li><a href="/games/hill-billy-flea/en/" id="tid_1729">Hill Billy Flea</a></li>
+<li><a href="/games/hip-hop-debate/en/" id="tid_75">Hip-Hop Debate</a></li>
+<li><a href="/games/hive-hero/en/" id="tid_2053" class="challengeGame">Hive Hero</a></li>
+<li><a href="/games/hockey-showdown/en/" id="tid_76">Hockey Showdown</a></li>
+<li><a href="/games/hostile-skies/en/" id="tid_219">Hostile Skies</a></li>
+<li><a href="/games/hot-air/en/" id="tid_293" class="challengeGame">Hot Air</a></li>
+<li><a href="/games/hot-air-2/en/" id="tid_1826" class="challengeGame">Hot Air 2</a></li>
+<li><a href="/games/hot-rods/en/" id="tid_1757" class="challengeGame">Hot Rods</a></li>
+<li><a href="/games/hunter/en/" id="tid_1721">Hunter</a></li>
+<li><a href="/games/hurricane/en/" id="tid_78">Hurricane</a></li>
+</ul>
+<h3>I</h3>
+<ul>
+<li><a href="/games/ice-breaker/en/" id="tid_2062" class="challengeGame">Ice Breaker</a></li>
+<li><a href="/games/ice-slide/en/" id="tid_1753" class="challengeGame">Ice Slide</a></li>
+<li><a href="/games/icy-slicy/en/" id="tid_1940" class="challengeGame">Icy Slicy</a></li>
+<li><a href="/games/in-the-doghouse/en/" id="tid_1917" class="challengeGame">In The Doghouse</a></li>
+<li><a href="/games/insane-ski-jump/en/" id="tid_1845">Insane Ski Jump</a></li>
+</ul>
+<h3>J</h3>
+<ul>
+<li><a href="/games/jet-ski/en/" id="tid_254">Jet Ski</a></li>
+<li><a href="/games/jet-ski-racing/en/" id="tid_2131" class="challengeGame">Jet Ski Racing</a></li>
+<li><a href="/games/jigsaw-car/en/" id="tid_79">Jigsaw - Car</a></li>
+<li><a href="/games/jigsaw-ocean/en/" id="tid_80">Jigsaw - Ocean</a></li>
+<li><a href="/games/jingo/en/" id="tid_1727">Jingo</a></li>
+</ul>
+<h3>K</h3>
+<ul>
+<li><a href="/games/karaoke/en/" id="tid_309">Karaoke</a></li>
+<li><a href="/games/karate-king/en/" id="tid_1985" class="challengeGame">Karate King</a></li>
+</ul>
+</div>
+<div class="col">
+<ul><li><a href="/games/kerry-workout/en/" id="tid_82">Kerry Workout</a></li>
+<li><a href="/games/kickboxing/en/" id="tid_1807">Kickboxing</a></li>
+<li><a href="/games/kindergarten/en/" id="tid_1818">Kindergarten</a></li>
+<li><a href="/games/king-of-the-hill/en/" id="tid_266">King of the Hill</a></li>
+<li><a href="/games/kingpin-bowling/en/" id="tid_83">KingPin Bowling</a></li>
+<li><a href="/games/kung-fu-statesmen/en/" id="tid_253">Kung Fu Statesmen</a></li>
+</ul>
+<h3>L</h3>
+<ul>
+<li><a href="/games/lamb-chop-drop/en/" id="tid_1878">Lamb Chop Drop</a></li>
+<li><a href="/games/last-christmas-2/en/" id="tid_212">Last Christmas 2</a></li>
+<li><a href="/games/lead-storm/en/" id="tid_2092" class="challengeGame">Lead Storm</a></li>
+<li><a href="/games/leo-steel/en/" id="tid_259">Leo Steel</a></li>
+<li><a href="/games/letter-lasso/en/" id="tid_85">Letter Lasso</a></li>
+<li><a href="/games/letter-rip/en/" id="tid_86">Letter Rip</a></li>
+<li><a href="/games/light-heroes/en/" id="tid_1836" class="challengeGame">Light Heroes</a></li>
+<li><a href="/games/little-dancer-contest/en/" id="tid_2169">Little Dancer Contest</a></li>
+<li><a href="/games/little-wheel/en/" id="tid_2124">Little Wheel</a></li>
+<li><a href="/games/loves-arrow/en/" id="tid_1765" class="challengeGame">Love's Arrow</a></li>
+<li><a href="/games/lunar-command/en/" id="tid_87">Lunar Command</a></li>
+</ul>
+<h3>M</h3>
+<ul>
+<li><a href="/games/magic-balls/en/" id="tid_88">Magic Balls</a></li>
+<li><a href="/games/magic-pen/en/" id="tid_1903">Magic Pen</a></li>
+<li><a href="/games/magic-pen-2/en/" id="tid_2118" class="challengeGame">Magic Pen 2</a></li>
+<li><a href="/games/mahjong-daily/en/" id="tid_1957" class="challengeGame">Mahjong Daily</a></li>
+<li><a href="/games/mallet-mania/en/" id="tid_1905" class="challengeGame">Mallet Mania</a></li>
+<li><a href="/games/mars-patrol/en/" id="tid_91">Mars Patrol</a></li>
+<li><a href="/games/masters-of-wrestling/en/" id="tid_1904" class="challengeGame">Masters of Wrestli</a></li>
+<li><a href="/games/max-speed/en/" id="tid_2087" class="challengeGame">Max Speed</a></li>
+<li><a href="/games/merlins-christmas/en/" id="tid_1864" class="challengeGame">Merlin's Christmas</a></li>
+<li><a href="/games/merry-christmas/en/" id="tid_333">Merry Christmas</a></li>
+<li><a href="/games/michael-jackson-tribute/en/" id="tid_2126">Michael Jackson</a></li>
+<li><a href="/games/milk-shake/en/" id="tid_1771">Milk Shake</a></li>
+<li><a href="/games/mini-golf/en/" id="tid_92">Mini Golf</a></li>
+<li><a href="/games/mini-soccer/en/" id="tid_257">Mini Soccer</a></li>
+<li><a href="/games/miniclip-rally/en/" id="tid_252">Miniclip Rally</a></li>
+<li><a href="/games/minilympics/en/" id="tid_93">Minilympics</a></li>
+<li><a href="/games/mission-mars/en/" id="tid_94">Mission Mars</a></li>
+<li><a href="/games/mister-easter/en/" id="tid_1840" class="challengeGame">Mister Easter</a></li>
+<li><a href="/games/monkey-kick-off/en/" id="tid_1774" class="challengeGame">Monkey Kick Off</a></li>
+<li><a href="/games/monkey-lander/en/" id="tid_95">Monkey Lander</a></li>
+<li><a href="/games/monkey-snowfight/en/" id="tid_96">Monkey Snowfight</a></li>
+<li><a href="/games/monster-bash/en/" id="tid_1912" class="challengeGame">Monster Bash</a></li>
+<li><a href="/games/monster-basher/en/" id="tid_97">Monster Basher</a></li>
+<li><a href="/games/monster-invasion/en/" id="tid_2010" class="challengeGame">Monster Invasion</a></li>
+<li><a href="/games/monster-sumo/en/" id="tid_98">Monster Sumo</a></li>
+<li><a href="/games/monster-trucks/en/" id="tid_229">Monster Trucks</a></li>
+<li><a href="/games/monster-trucks-nitro/en/" id="tid_2023">Monster Trucks Nitro</a></li>
+<li><a href="/games/moon-rush/en/" id="tid_1870">Moon Rush</a></li>
+<li><a href="/games/moonshadow/en/" id="tid_1804">Moonshadow</a></li>
+<li><a href="/games/most-wanted/en/" id="tid_216">Most Wanted</a></li>
+<li><a href="/games/motherload/en/" id="tid_276">MotherLoad</a></li>
+<li><a href="/games/motocross-fever/en/" id="tid_335">Motocross Fever</a></li>
+<li><a href="/games/motocross-urban-fever/en/" id="tid_1815">MotoX Urban Fever</a></li>
+<li><a href="/games/mountain-bike/en/" id="tid_1808" class="challengeGame">Mountain Bike</a></li>
+<li><a href="/games/movie-munchies/en/" id="tid_1832" class="challengeGame">Movie Munchies</a></li>
+<li><a href="/games/mr-bounce/en/" id="tid_1931" class="challengeGame">Mr Bounce</a></li>
+<li><a href="/games/mr-men-pinball/en/" id="tid_1824" class="challengeGame">Mr Men Pinball</a></li>
+<li><a href="/games/music-cube/en/" id="tid_1877">Music Cube</a></li>
+</ul>
+<h3>N</h3>
+<ul>
+<li><a href="/games/nano-recon/en/" id="tid_1936" class="challengeGame">Nano Recon</a></li>
+<li><a href="/games/narnia-prince-caspian/en/" id="tid_1907">Narnia Prince Casp</a></li>
+<li><a href="/games/need-for-madness/en/" id="tid_270">Need for Madness</a></li>
+<li><a href="/games/nerf-n-strike/en/" id="tid_1978">Nerf N-Strike</a></li>
+<li><a href="/games/nfl-conga-chaos/en/" id="tid_1943">NFL Conga Chaos</a></li>
+<li><a href="/games/nfl-lateral-collateral/en/" id="tid_1942">NFL lateral Collat</a></li>
+<li><a href="/games/nordic-chill/en/" id="tid_214">Nordic Chill</a></li>
+<li><a href="/games/numbskull/en/" id="tid_1976" class="challengeGame">Numbskull</a></li>
+</ul>
+<h3>O</h3>
+<ul>
+<li><a href="/games/obama-alien-defense/en/" id="tid_2183" class="challengeGame">Obama Alien Defense</a></li>
+<li><a href="/games/off-the-rails/en/" id="tid_1820" class="challengeGame">Off The Rails</a></li>
+<li><a href="/games/on-the-run/en/" id="tid_255" class="challengeGame">On The Run</a></li>
+<li><a href="/games/one-man-band/en/" id="tid_1817">One Man Band</a></li>
+<li><a href="/games/onekey/en/" id="tid_1882">Onekey</a></li>
+<li><a href="/games/ourworld/en/" id="tid_2067">OurWorld</a></li>
+<li><a href="/games/overkill-apache/en/" id="tid_1773" class="challengeGame">Overkill Apache</a></li>
+</ul>
+<h3>P</h3>
+<ul>
+<li><a href="/games/paintball/en/" id="tid_100">Paintball</a></li>
+<li><a href="/games/panik-in-chocoland/en/" id="tid_101">Panik in Chocoland</a></li>
+<li><a href="/games/papa-louie/en/" id="tid_1750">Papa Louie</a></li>
+<li><a href="/games/parachute-plunder/en/" id="tid_1829">Parachute Plunder</a></li>
+<li><a href="/games/park-a-lot/en/" id="tid_102">Park a Lot</a></li>
+<li><a href="/games/park-a-lot-2/en/" id="tid_103">Park a Lot 2</a></li>
+</ul>
+</div>
+<div class="col">
+<ul><li><a href="/games/peanut/en/" id="tid_104">Peanut</a></li>
+<li><a href="/games/pearl-diver/en/" id="tid_242">Pearl Diver</a></li>
+<li><a href="/games/pebble-dash/en/" id="tid_1816" class="challengeGame">Pebble Dash</a></li>
+<li><a href="/games/pencak-silat/en/" id="tid_105">Pencak Silat</a></li>
+<li><a href="/games/pengapop/en/" id="tid_215">Pengapop</a></li>
+<li><a href="/games/penguin-arcade/en/" id="tid_106">Penguin Arcade</a></li>
+<li><a href="/games/penguin-push/en/" id="tid_107">Penguin Push</a></li>
+<li><a href="/games/penguin-rush/en/" id="tid_1842" class="challengeGame">Penguin Rush</a></li>
+<li><a href="/games/pest-control/en/" id="tid_1851" class="challengeGame">Pest Control</a></li>
+<li><a href="/games/phantom-mansion-red/en/" id="tid_1846">Phantom Mansion </a></li>
+<li><a href="/games/pharaohs-tomb/en/" id="tid_108">Pharaoh's Tomb</a></li>
+<li><a href="/games/ping-pong/en/" id="tid_349" class="challengeGame">Ping Pong</a></li>
+<li><a href="/games/pipsoh/en/" id="tid_110">Pipsoh!</a></li>
+<li><a href="/games/piranhas/en/" id="tid_247">Piranhas</a></li>
+<li><a href="/games/pirate-chains/en/" id="tid_2055" class="challengeGame">Pirate Chains</a></li>
+<li><a href="/games/pizza-hot/en/" id="tid_308" class="challengeGame">Pizza Hot</a></li>
+<li><a href="/games/planet-cruncher/en/" id="tid_2063" class="challengeGame">Planet Cruncher</a></li>
+<li><a href="/games/plant-pong/en/" id="tid_2103" class="challengeGame">Plant Pong</a></li>
+<li><a href="/games/platypus/en/" id="tid_111">Platypus</a></li>
+<li><a href="/games/pod-panic/en/" id="tid_1747" class="challengeGame">Pod Panic</a></li>
+<li><a href="/games/polar-dash/en/" id="tid_301" class="challengeGame">Polar Dash</a></li>
+<li><a href="/games/polar-hockey/en/" id="tid_2024" class="challengeGame">Polar Hockey</a></li>
+<li><a href="/games/polar-jump/en/" id="tid_1922" class="challengeGame">Polar Jump</a></li>
+<li><a href="/games/polar-rescue/en/" id="tid_112">Polar Rescue</a></li>
+<li><a href="/games/police-chopper/en/" id="tid_311">Police Chopper</a></li>
+<li><a href="/games/police-pursuit/en/" id="tid_1868" class="challengeGame">Police Pursuit</a></li>
+<li><a href="/games/pop-pirates/en/" id="tid_1928">Pop Pirates</a></li>
+<li><a href="/games/power-boat/en/" id="tid_1724" class="challengeGame">Power Boat</a></li>
+<li><a href="/games/power-soccer/en/" id="tid_1788">Power Soccer</a></li>
+<li><a href="/games/presidential-knockout/en/" id="tid_117">President Knockout</a></li>
+<li><a href="/games/presidential-paintball/en/" id="tid_1856" class="challengeGame">Presidential Paint</a></li>
+<li><a href="/games/presidential-pounding/en/" id="tid_1935" class="challengeGame">Presidential Pound</a></li>
+<li><a href="/games/pressure-shot/en/" id="tid_116">Pressure Shot</a></li>
+<li><a href="/games/puker/en/" id="tid_1899">Puker</a></li>
+<li><a href="/games/pumpkin-push/en/" id="tid_2153" class="challengeGame">Pumpkin Push</a></li>
+<li><a href="/games/puzzle-pirates/en/" id="tid_218">Puzzle Pirates</a></li>
+</ul>
+<h3>Q</h3>
+<ul>
+<li><a href="/games/quesadilla-breaks/en/" id="tid_2082" class="challengeGame">Quesadilla Breaks</a></li>
+<li><a href="/games/quick-fire-pool/en/" id="tid_1966" class="challengeGame">Quick Fire Pool</a></li>
+</ul>
+<h3>R</h3>
+<ul>
+<li><a href="/games/radical-aces/en/" id="tid_119">Radical Aces</a></li>
+<li><a href="/games/raft-wars/en/" id="tid_1849">Raft Wars</a></li>
+<li><a href="/games/rails-of-war/en/" id="tid_1763">Rails of War</a></li>
+<li><a href="/games/rally-championship/en/" id="tid_1725" class="challengeGame">Rally Championship</a></li>
+<li><a href="/games/rapid-wars/en/" id="tid_1965" class="challengeGame">Rapid Wars</a></li>
+<li><a href="/games/rc-time-trial/en/" id="tid_348">RC Time Trial</a></li>
+<li><a href="/games/real-space-2/en/" id="tid_120">Real Space 2</a></li>
+<li><a href="/games/red-beard/en/" id="tid_121">Red Beard</a></li>
+<li><a href="/games/red-bugs-puzzle/en/" id="tid_1913">Red Bugs Puzzle</a></li>
+<li><a href="/games/red-cross-eru/en/" id="tid_2028" class="challengeGame">Red Cross ERU</a></li>
+<li><a href="/games/reel-gold/en/" id="tid_271">Reel Gold</a></li>
+<li><a href="/games/rich-racer/en/" id="tid_2109">Rich Racer</a></li>
+<li><a href="/games/ricochet-lost-worlds/en/" id="tid_239">Ricochet</a></li>
+<li><a href="/games/rifleman/en/" id="tid_1776">Rifleman</a></li>
+<li><a href="/games/rigelian-hotshots/en/" id="tid_122">Rigelian Hotshots</a></li>
+<li><a href="/games/ringshot/en/" id="tid_1886" class="challengeGame">Ringshot</a></li>
+<li><a href="/games/rocketman/en/" id="tid_123">Rocketman</a></li>
+<li><a href="/games/rockitty/en/" id="tid_2142" class="challengeGame">Rockitty</a></li>
+<li><a href="/games/rockstarter/en/" id="tid_124">Rockstarter</a></li>
+<li><a href="/games/rollercoaster/en/" id="tid_125">Rollercoaster</a></li>
+<li><a href="/games/rollo-and-flex/en/" id="tid_272">Rollo and Flex</a></li>
+<li><a href="/games/rollon/en/" id="tid_126">RollOn</a></li>
+<li><a href="/games/roly-poly/en/" id="tid_327">Roly Poly</a></li>
+<li><a href="/games/rooftop-hop/en/" id="tid_294">Rooftop-Hop</a></li>
+<li><a href="/games/bush-royal-rampage/en/" id="tid_199">Royal Rampage</a></li>
+<li><a href="/games/rugby-challenge/en/" id="tid_127">Rugby Challenge</a></li>
+<li><a href="/games/rule-the-beach-volleyball/en/" id="tid_128">Rule The Beach</a></li>
+<li><a href="/games/run-the-rapids/en/" id="tid_346">Run The Rapids</a></li>
+<li><a href="/games/runescape/en/" id="tid_129">RuneScape</a></li>
+<li><a href="/games/rural-racer/en/" id="tid_130">Rural Racer</a></li>
+</ul>
+<h3>S</h3>
+<ul>
+<li><a href="/games/samsung-football/en/" id="tid_1825">Samsung Football</a></li>
+<li><a href="/games/samurai-sam/en/" id="tid_306">Samurai Sam</a></li>
+<li><a href="/games/samurai-warrior/en/" id="tid_131">Samurai Warrior</a></li>
+<li><a href="/games/sandman/en/" id="tid_307" class="challengeGame">Sandman</a></li>
+<li><a href="/games/santa-balls-2/en/" id="tid_132">Santa Balls 2</a></li>
+<li><a href="/games/santa-ski-jump/en/" id="tid_134">Santa Ski Jump</a></li>
+<li><a href="/games/santas-cannon/en/" id="tid_1866">Santa's Cannon</a></li>
+<li><a href="/games/santas-factory/en/" id="tid_133">Santa's Factory</a></li>
+<li><a href="/games/save-the-sheriff/en/" id="tid_135">Save the Sheriff</a></li>
+<li><a href="/games/scraper-caper/en/" id="tid_302">Scraper Caper</a></li>
+</ul>
+</div>
+<div class="col">
+<ul><li><a href="/games/scribble/en/" id="tid_1737" class="challengeGame">Scribble</a></li>
+<li><a href="/games/sewer-run/en/" id="tid_1769">Sewer Run</a></li>
+<li><a href="/games/shadow-factory/en/" id="tid_2056" class="challengeGame">Shadow Factory</a></li>
+<li><a href="/games/shanghai-mahjongg/en/" id="tid_89">Shanghai Mahjongg</a></li>
+<li><a href="/games/shark-bait/en/" id="tid_136">Shark Bait</a></li>
+<li><a href="/games/sheep-game/en/" id="tid_138">Sheep Game</a></li>
+<li><a href="/games/sheepish/en/" id="tid_137">Sheepish</a></li>
+<li><a href="/games/shell-le-mans/en/" id="tid_1822">Shell: Le Mans</a></li>
+<li><a href="/games/sheriff-tripeaks/en/" id="tid_315">Sheriff Tripeaks</a></li>
+<li><a href="/games/shootin-hoops/en/" id="tid_140">Shootin' Hoops</a></li>
+<li><a href="/games/shove-it/en/" id="tid_142">Shove It</a></li>
+<li><a href="/games/show-jumping/en/" id="tid_339">Show Jumping</a></li>
+<li><a href="/games/shrunken-heads/en/" id="tid_190">Shrunken Heads</a></li>
+<li><a href="/games/silversphere/en/" id="tid_1759">Silversphere</a></li>
+<li><a href="/games/simon-says/en/" id="tid_143">Simon Says</a></li>
+<li><a href="/games/skateboard-jam/en/" id="tid_1739" class="challengeGame">Skateboard Jam</a></li>
+<li><a href="/games/sketch-star/en/" id="tid_1802">Sketch Star</a></li>
+<li><a href="/games/ski-run/en/" id="tid_290" class="challengeGame">Ski Run</a></li>
+<li><a href="/games/skies-of-war/en/" id="tid_1792">Skies of War</a></li>
+<li><a href="/games/sky-golf/en/" id="tid_1780" class="challengeGame">Sky Golf</a></li>
+<li><a href="/games/skyboard/en/" id="tid_1727" class="challengeGame">Skyboard</a></li>
+<li><a href="/games/skywire/en/" id="tid_1767" class="challengeGame">Skywire</a></li>
+<li><a href="/games/skywire-2/en/" id="tid_1919" class="challengeGame">Skywire 2</a></li>
+<li><a href="/games/a-day-of-slacking/en/" id="tid_145">Slacking</a></li>
+<li><a href="/games/sleigh-shot/en/" id="tid_2026" class="challengeGame">Sleigh Shot</a></li>
+<li><a href="/games/sling/en/" id="tid_1741">Sling</a></li>
+<li><a href="/games/slingfire/en/" id="tid_1843" class="challengeGame">Slingfire</a></li>
+<li><a href="/games/slingshot/en/" id="tid_146">Slingshot</a></li>
+<li><a href="/games/small-fry/en/" id="tid_1884" class="challengeGame">Small Fry</a></li>
+<li><a href="/games/smashing/en/" id="tid_147">Smashing</a></li>
+<li><a href="/games/smokin-barrels/en/" id="tid_2057" class="challengeGame">Smokin' Barrels</a></li>
+<li><a href="/games/snake/en/" id="tid_148">Snake</a></li>
+<li><a href="/games/snap-n-spooky/en/" id="tid_1974" class="challengeGame">Snap n Spooky</a></li>
+<li><a href="/games/sneeze/en/" id="tid_2061" class="challengeGame">Sneeze</a></li>
+<li><a href="/games/sniper/en/" id="tid_149">Sniper</a></li>
+<li><a href="/games/snow-day/en/" id="tid_1752">Snow Day</a></li>
+<li><a href="/games/snow-drift/en/" id="tid_1861" class="challengeGame">Snow Drift</a></li>
+<li><a href="/games/snow-line/en/" id="tid_1755" class="challengeGame">Snow Line</a></li>
+<li><a href="/games/snow-line-2/en/" id="tid_2018" class="challengeGame">Snow Line 2</a></li>
+<li><a href="/games/snow-riders/en/" id="tid_1844" class="challengeGame">Snow Riders</a></li>
+<li><a href="/games/snowball-warfare/en/" id="tid_289">Snowball Warfare</a></li>
+<li><a href="/games/snowboard-madness/en/" id="tid_1745">Snowboard Madness</a></li>
+<li><a href="/games/snowboarder-xs/en/" id="tid_150">Snowboarder XS</a></li>
+<li><a href="/games/snowfight/en/" id="tid_151">Snowfight</a></li>
+<li><a href="/games/snowman-stacker/en/" id="tid_296">Snowman Stacker</a></li>
+<li><a href="/games/snowmen-invaders/en/" id="tid_2017" class="challengeGame">Snowmen Invaders</a></li>
+<li><a href="/games/soap-bubble/en/" id="tid_152">Soap Bubble</a></li>
+<li><a href="/games/soap-bubble-2/en/" id="tid_1743" class="challengeGame">Soap Bubble 2</a></li>
+<li><a href="/games/space-escape/en/" id="tid_237">Space Escape</a></li>
+<li><a href="/games/space-fighter-rebellion/en/" id="tid_153">Space Fighter</a></li>
+<li><a href="/games/space-hopper/en/" id="tid_1770" class="challengeGame">Space Hopper</a></li>
+<li><a href="/games/spectral-wizard/en/" id="tid_1730">Spectral Wizard</a></li>
+<li><a href="/games/spider-game/en/" id="tid_2064" class="challengeGame">Spider Game</a></li>
+<li><a href="/games/spineworld/en/" id="tid_1891">Spineworld</a></li>
+<li><a href="/games/sportbike-sprint/en/" id="tid_1858" class="challengeGame">Sportbike Sprint</a></li>
+<li><a href="/games/sqrl-golf/en/" id="tid_156">SQRL Golf</a></li>
+<li><a href="/games/sqrl-golf-2/en/" id="tid_157">SQRL Golf 2</a></li>
+<li><a href="/games/square-meal/en/" id="tid_1785" class="challengeGame">Square Meal</a></li>
+<li><a href="/games/squiggle-squid/en/" id="tid_2025" class="challengeGame">Squiggle Squid</a></li>
+<li><a href="/games/stackopolis/en/" id="tid_251">Stackopolis</a></li>
+<li><a href="/games/stan-skates/en/" id="tid_159">Stan Skates</a></li>
+<li><a href="/games/starship-eleven/en/" id="tid_160">Starship Eleven</a></li>
+<li><a href="/games/starship-gunner/en/" id="tid_1855" class="challengeGame">Starship Gunner</a></li>
+<li><a href="/games/starship-seven/en/" id="tid_161">Starship Seven</a></li>
+<li><a href="/games/stay-the-distance/en/" id="tid_236">Stay the Distance</a></li>
+<li><a href="/games/storybook/en/" id="tid_2093" class="challengeGame">Storybook</a></li>
+<li><a href="/games/street-fight/en/" id="tid_1890" class="challengeGame">Street Fight</a></li>
+<li><a href="/games/street-luge/en/" id="tid_284" class="challengeGame">Street Luge</a></li>
+<li><a href="/games/stunt-driver/en/" id="tid_340" class="challengeGame">Stunt Driver</a></li>
+<li><a href="/games/stunt-pilot/en/" id="tid_1894" class="challengeGame">Stunt Pilot</a></li>
+<li><a href="/games/stuntman/en/" id="tid_325">Stuntman</a></li>
+<li><a href="/games/sub-commander/en/" id="tid_204">Sub Commander</a></li>
+<li><a href="/games/sudoku/en/" id="tid_267">Sudoku</a></li>
+<li><a href="/games/summer-athletics-2009/en/" id="tid_2125" class="challengeGame">Summer Athletics</a></li>
+<li><a href="/games/super-gerball/en/" id="tid_241">Super Gerball</a></li>
+<li><a href="/games/super-trucks/en/" id="tid_1760">Super Trucks</a></li>
+<li><a href="/games/superbike-gp/en/" id="tid_164" class="challengeGame">Superbike GP</a></li>
+<li><a href="/games/superstar-racing/en/" id="tid_2012">Superstar Racing</a></li>
+<li><a href="/games/surfs-up/en/" id="tid_166">Surf's Up</a></li>
+<li><a href="/games/sushi-go-round/en/" id="tid_1837" class="challengeGame">Sushi Go Round</a></li>
+<li><a href="/games/sveerz/en/" id="tid_167">Sveerz</a></li>
+</ul>
+</div>
+<div class="col">
+<ul></ul>
+<h3>T</h3>
+<ul>
+<li><a href="/games/trick-or-treat-smash/en/" id="tid_191">T. or Treat Smash</a></li>
+<li><a href="/games/table-tennis-tournament/en/" id="tid_1795">Table Tennis</a></li>
+<li><a href="/games/table-tennis/en/" id="tid_168">Table Tennis</a></li>
+<li><a href="/games/tabletop-cricket/en/" id="tid_273">Tabletop Cricket</a></li>
+<li><a href="/games/tank-attack/en/" id="tid_2047" class="challengeGame">Tank Attack</a></li>
+<li><a href="/games/tanked-up/en/" id="tid_1723">Tanked Up</a></li>
+<li><a href="/games/tarnation/en/" id="tid_1915" class="challengeGame">Tarnation</a></li>
+<li><a href="/games/tennis-ace/en/" id="tid_169">Tennis Ace</a></li>
+<li><a href="/games/tennis-doubles/en/" id="tid_1823" class="challengeGame">Tennis Doubles</a></li>
+<li><a href="/games/tennis-grand-slam/en/" id="tid_1779">Tennis Grand Slam</a></li>
+<li><a href="/games/tennis-titans/en/" id="tid_261">Tennis Titans</a></li>
+<li><a href="/games/the-ashes/en/" id="tid_1746" class="challengeGame">The Ashes</a></li>
+<li><a href="/games/the-scruffs/en/" id="tid_1964">The Scruffs</a></li>
+<li><a href="/games/thin-ice/en/" id="tid_1852" class="challengeGame">Thin Ice</a></li>
+<li><a href="/games/thunder-plunder/en/" id="tid_246">Thunder Plunder</a></li>
+<li><a href="/games/tiger-golf/en/" id="tid_1728">Tiger Golf</a></li>
+<li><a href="/games/tmnt-double-damage/en/" id="tid_2173">TMNT:Double Damage</a></li>
+<li><a href="/games/toboggan-run/en/" id="tid_1800">Toboggan Run</a></li>
+<li><a href="/games/top-cop/en/" id="tid_1801">Top Cop</a></li>
+<li><a href="/games/topsy-turvy/en/" id="tid_172">Topsy Turvy</a></li>
+<li><a href="/games/traps-mines-and-a-sheep/en/" id="tid_286">Traps, Mines, Sheep</a></li>
+<li><a href="/games/trapshoot/en/" id="tid_173">Trapshoot</a></li>
+<li><a href="/games/trech/en/" id="tid_225">Trech</a></li>
+<li><a href="/games/trech-2/en/" id="tid_318">Trech 2</a></li>
+<li><a href="/games/trial-bike/en/" id="tid_174">Trial Bike</a></li>
+<li><a href="/games/trial-bike-bundle/en/" id="tid_176">Trial Bike Bundle</a></li>
+<li><a href="/games/trial-bike-pro/en/" id="tid_175">Trial Bike PRO</a></li>
+<li><a href="/games/trials-2/en/" id="tid_1859">Trials 2</a></li>
+<li><a href="/games/trials-construction-yard/en/" id="tid_209">Trials Constructio</a></li>
+<li><a href="/games/trials-dynamite/en/" id="tid_1924">Trials Dynamite</a></li>
+<li><a href="/games/trials-mountain-heights/en/" id="tid_292">Trials Mountain</a></li>
+<li><a href="/games/tribe/en/" id="tid_1725" class="challengeGame">Tribe</a></li>
+<li><a href="/games/trivia-machine/en/" id="tid_281">Trivia Machine</a></li>
+<li><a href="/games/tropi-golf/en/" id="tid_1901">Tropi Golf</a></li>
+<li><a href="/games/twiddlestix/en/" id="tid_177">Twiddlestix</a></li>
+<li><a href="/games/twisted-city/en/" id="tid_1923" class="challengeGame">Twisted City</a></li>
+</ul>
+<h3>U</h3>
+<ul>
+<li><a href="/games/ufo-joe/en/" id="tid_312" class="challengeGame">UFO Joe</a></li>
+<li><a href="/games/under-arms/en/" id="tid_1916" class="challengeGame">Under Arms</a></li>
+<li><a href="/games/united-we-dance/en/" id="tid_178">United We Dance</a></li>
+</ul>
+<h3>V</h3>
+<ul>
+<li><a href="/games/vectoroids/en/" id="tid_1902" class="challengeGame">Vectoroids</a></li>
+<li><a href="/games/verti-golf/en/" id="tid_179">Verti Golf</a></li>
+<li><a href="/games/verti-golf-2/en/" id="tid_217">Verti Golf 2</a></li>
+<li><a href="/games/viking-defense/en/" id="tid_1945" class="challengeGame">Viking Defense</a></li>
+<li><a href="/games/viper/en/" id="tid_2060">Viper</a></li>
+</ul>
+<h3>W</h3>
+<ul>
+<li><a href="/games/wacky-ballz/en/" id="tid_1831" class="challengeGame">Wacky Ballz</a></li>
+<li><a href="/games/waffle-mania/en/" id="tid_2021" class="challengeGame">Waffle Mania</a></li>
+<li><a href="/games/wakeboard-pro/en/" id="tid_1772">Wakeboard Pro</a></li>
+<li><a href="/games/wakeboarding-xs/en/" id="tid_180">Wakeboarding XS</a></li>
+<li><a href="/games/waterslide-slalom/en/" id="tid_277">Waterslide Slalom</a></li>
+<li><a href="/games/wave-jumper/en/" id="tid_2033" class="challengeGame">Wave Jumper</a></li>
+<li><a href="/games/weirdville/en/" id="tid_2054" class="challengeGame">Weirdville</a></li>
+<li><a href="/games/whack-a-ground-hog/en/" id="tid_183">Whack a Ground Hog</a></li>
+<li><a href="/games/wheels-of-salvation/en/" id="tid_268">Wheels of Salvatio</a></li>
+<li><a href="/games/winter-workout/en/" id="tid_285">Winter Workout</a></li>
+<li><a href="/games/wood-runner/en/" id="tid_1939" class="challengeGame">Wood Runner</a></li>
+<li><a href="/games/word-sailing/en/" id="tid_1841">Word Sailing</a></li>
+<li><a href="/games/word-vine/en/" id="tid_1933" class="challengeGame">Word Vine</a></li>
+<li><a href="/games/wordo/en/" id="tid_187">Wordo</a></li>
+<li><a href="/games/world-domination-2/en/" id="tid_1777">World Domination 2</a></li>
+<li><a href="/games/world-soccer/en/" id="tid_321">World Soccer</a></li>
+<li><a href="/games/wrap-attack/en/" id="tid_1973" class="challengeGame">Wrap Attack</a></li>
+</ul>
+<h3>X</h3>
+<ul>
+<li><a href="/games/xbox-party-mansion/en/" id="tid_2069">Xbox Party Mansion</a></li>
+<li><a href="/games/xraye/en/" id="tid_227">XRaye</a></li>
+</ul>
+<h3>Y</h3>
+<ul>
+<li><a href="/games/yogos-rollers/en/" id="tid_1847">Yo–gos Rollers</a></li>
+<li><a href="/games/yome-creator/en/" id="tid_2127">YoMe Creator</a></li>
+<li><a href="/games/youda-camper/en/" id="tid_1863">Youda Camper</a></li>
+<li><a href="/games/youda-legend/en/" id="tid_2137" class="challengeGame">Youda Legend</a></li>
+<li><a href="/games/youda-marina/en/" id="tid_2107" class="challengeGame">Youda Marina</a></li>
+<li><a href="/games/youda-sushi-chef/en/" id="tid_2117" class="challengeGame">Youda Sushi Chef</a></li>
+</ul>
+<h3>Z</h3>
+<ul>
+<li><a href="/games/zed/en/" id="tid_189">Zed</a></li>
+<li><a href="/games/zubo-zurfing/en/" id="tid_1970" class="challengeGame">Zubo Zurfing</a></li>
+</ul>
+</div>
+			
+			<div class="listLegend">
+				<strong>Legend : </strong>
+				<span style="color:#f60;">Orange Links</span> = <a href="/players/en/challenge-games.php">Players challenge game</a>
+				<span style="color:#036;">Blue Links</span> = normal game
+			</div>
+				<div class="corner_bl b"><div class="corner_br b">&nbsp;</div></div>
+			</div>
 		</div>
+		<!-- end full game list -->
+			
+		</div>
+		<div class="corner_bl"><div class="corner_br">&nbsp;</div></div>
+	</div>
+		<div class="corner_bl g"><div class="corner_br g">&nbsp;</div></div>
+	</div>
 
 	<div id="footer">
 		<ul class="left flags">
 			<li class="normal">&nbsp;&nbsp;Select language :</li>
-			<li class="en"><a href="http://www.miniclip.com/?language=en">English</a></li>
-			<li class="fr"><a href="http://www.miniclip.com/?language=fr">Français</a></li>
-			<li class="es"><a href="http://www.miniclip.com/?language=es">Español</a></li>
-			<li class="de"><a href="http://www.miniclip.com/?language=de">Deutsch</a></li>
-			<li class="pt"><a href="http://www.miniclip.com/?language=pt">Português</a></li>
-			<li class="it"><a href="http://www.miniclip.com/?language=it">Italiano</a></li>
-            <li class="pl"><a href="http://www.miniclip.com/?language=pl">Polski</a></li>
-            <li class="ro"><a href="http://www.miniclip.com/?language=ro">Română</a></li>
-            <li class="hu"><a href="http://www.miniclip.com/?language=hu">Magyar</a></li>
-			<li class="br"><a href="http://www.miniclip.com/?language=br">Brasil</a></li>
-			<li class="kr"><a href="http://www.miniclip.com/?language=kr">한국어</a></li>
-			<li class="cn"><a href="http://www.miniclip.com/?language=cs">漢語</a></li>
-			<li class="jp"><a href="http://www.miniclip.com/?language=jp">日本語</a></li>
+			<li class="en"><a href="http://www.miniclip.com/?language=en" target="_top" rel="nofollow">English</a></li>
+			<li class="fr"><a href="http://www.miniclip.com/?language=fr" target="_top" rel="nofollow">Français</a></li>
+			<li class="es"><a href="http://www.miniclip.com/?language=es" target="_top" rel="nofollow">Español</a></li>
+			<li class="de"><a href="http://www.miniclip.com/?language=de" target="_top" rel="nofollow">Deutsch</a></li>
+			<li class="pt"><a href="http://www.miniclip.com/?language=pt" target="_top" rel="nofollow">Português</a></li>
+			<li class="it"><a href="http://www.miniclip.com/?language=it" target="_top" rel="nofollow">Italiano</a></li>
+            <li class="pl"><a href="http://www.miniclip.com/?language=pl" target="_top" rel="nofollow">Polski</a></li>
+            <li class="ro"><a href="http://www.miniclip.com/?language=ro" target="_top" rel="nofollow">Română</a></li>
+            <li class="hu"><a href="http://www.miniclip.com/?language=hu" target="_top" rel="nofollow">Magyar</a></li>
+			<li class="br"><a href="http://www.miniclip.com/?language=br" target="_top" rel="nofollow">Brasil</a></li>
+			<li class="kr"><a href="http://www.miniclip.com/?language=kr" target="_top" rel="nofollow">한국어</a></li>
+			<li class="cn"><a href="http://www.miniclip.com/?language=cs" target="_top" rel="nofollow">漢語</a></li>
+			<li class="jp"><a href="http://www.miniclip.com/?language=jp" target="_top" rel="nofollow">日本語</a></li>
 			<!-- <li style="padding-left:0;"><script type="text/javascript">SetHomepage();</script></li> -->
 		</ul>
 		
-		<div class="welcome">Welcome to Miniclip.com the largest online games site where you can play free games, sports games,
- massive multiplayer games, action games, puzzle games, <br>flash games and more. Updated frequently.</div>
+		<div class="welcome">Welcome to Miniclip.com the largest online games site where you can play a large range of free online games including sports games, massive multiplayer games, action games, puzzle games,<br> and flash games. Games players can save game statistics on their games pages and receive awards for playing games.</div>
  		<div class="center">
-			<a href="/players/en/signup.php">Join Now</a>
-			| <a href="http://corporate.miniclip.com/" target="_blank">Corporate</a>
-			| <a href="http://corporate.miniclip.com/about-miniclip.htm" target="_blank">About Us</a>
-			| <a href="http://corporate.miniclip.com/advertising/" target="_blank">Advertisers</a>
+			<a href="/players/en/signup.php" title="Sign up to Miniclip Players" rel="nofollow">Join Now</a>
+			| <a href="http://www.sketchstar.com/" target="_blank" title="SketchStar animation - create animations">Sketch Star</a>
+			| <script>writeEmail("submitgame", "Submit Game");</script>
+			| <a href="http://corporate.miniclip.com/" target="_blank" rel="nofollow">Corporate</a>
+			| <a href="http://corporate.miniclip.com/about-miniclip.htm" target="_blank" title="Information about Miniclip Ltd">About Us</a>
+			| <a href="http://www.miniclip.com/games/en/webmaster-games.php" target="_blank">Free Website Games</a>			
+			| <a href="http://corporate.miniclip.com/advertising/" target="_blank" rel="nofollow">Advertisers</a>
+			| <a href="http://www.miniclip.com/games/en/full-sitemap.php" target="_blank">Sitemap</a>
 			<!-- | <a href="/games/en/webmaster-games.php">Free Website Games</a> -->
-			| <a href="/games/en/toolbar/">New Game Alerts</a>
-			| <a href="http://corporate.miniclip.com/jobs/">Jobs</a>
-			| <a href="/games/en/terms-and-conditions.php">Terms and Conditions</a>
-			| <a href="http://www.miniclip.com/games/en/privacy-policy.php">Privacy</a>
-			| <a href="/games/en/feed.xml" id="icon_feed" class="icon">Miniclip.com games feed</a>
+			| <a href="/games/en/toolbar/">New Games Alerts</a>
+			| <a href="http://corporate.miniclip.com/jobs/" title="get a job at Miniclip">Jobs</a>
+			| <a href="/games/en/terms-and-conditions.php" rel="nofollow">Terms and Conditions</a>
+			| <a href="http://www.miniclip.com/games/en/privacy-policy.php" rel="nofollow">Privacy</a>
+			| <a href="/games/en/feed.xml" id="icon_feed" class="icon" rel="nofollow">Games Feed</a>
 		</div>
 
-		<p style="color:#aaa;">© Copyright 2000 - 2008 Miniclip Ltd. All rights reserved.</p>
+		<p style="color:#aaa;">© Copyright 2000 - 2009 Miniclip SA. All rights reserved.</p>
 	</div>
+	<div id="footerTakeover"></div>
 	
 	<script type="text/javascript">
+	
 		OAS_AD( 'Position2' );
 		clearCurrentLink();
 		recent_write();
 		anim_init();
 		anim_set(1);
 		toolbar_list();
-		list_init( "en", "games" );
+		//list_init( "en", "games" );
 		cb_init();
-		initRotator();
+		toolbarPush();
+		attachTracking();
+		setBodyMargin();
+		list_ready();
+		if (hpto.ImageURL != undefined) {
+			runTakeover(hpto);
+		}
+		if (detectUnityWebPlayer()) {
+			statTracker("/unity/installed/");
+		} else {
+			statTracker("/unity/not-installed/");
+		}
 	</script>
 	<script language="JavaScript" type="text/javascript">
 		document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/miniclip.gofish.dart/' + adKeyword + ';tile=4;sz=1x1;ord=' + ord + '?" type="text/javascript"><\/script>');
@@ -381,7 +1201,7 @@
 	<noscript>
 		<a href="http://ad.doubleclick.net/jump/miniclip.gofish.dart/;[keyword];tile=4;sz=1x1;ord=[timestamp]?" target="_blank"><img src="http://ad.doubleclick.net/ad/miniclip.gofish.dart/;[keyword];tile=4;sz=1x1;ord=[timestamp]?" width="1" height="1" border="0" alt="Click Here!" />Click Here!</a>
 	</noscript>
-	
 
 
+<!-- webftl115 -->
 </body></html>
