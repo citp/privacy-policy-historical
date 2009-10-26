@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the playlist.com privacy policy that was archived on 2009-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090410122152id_/http%3A//www.playlist.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playlist.com privacy policy that was archived on 2009-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091026171530id_/http%3A//www.playlist.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy :: Create playlists, search music playlists, listen to music online and share playlists on social networks with Playlist.com
+# Playlist | Privacy Policy
 
 ## Last Updated: January 7, 2009
 
@@ -77,7 +77,7 @@ We may occasionally update this policy. When we do, we will also revise the "las
 Should you have other questions or concerns about this privacy policy, please send us an email at [privacy@playlist.com](mailto:privacy@playlist.com). You can also write to us at:
 
 Project Playlist  
-165 University Avenue  
+444 High St. Suite 300  
 Palo Alto, CA 94301
 
 **Attention: Privacy Officer**
