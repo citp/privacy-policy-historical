@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pandora.com privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612210700id_/http%3A//www.pandora.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pandora.com privacy policy that was archived on 2009-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091026171454id_/http%3A//www.pandora.com/privacy) for the most accurate reproduction.*
 
 # Pandora Radio - Listen to Free Internet Radio, Find New Music
 
@@ -119,8 +119,9 @@ You may modify your registration information at any time by following the instru
 If you have elected to receive newsletters or promotional or marketing correspondence from us previously and later decide that you no longer wish to receive such correspondence from us in the future, you may opt-out from further receipt by sending an email to [opt-out@pandora.com](mailto:opt-out@pandora.com) or by following the opt-out instructions provided in such correspondence. (If you use more than one email address, then send your opt-out email from each of your email addresses.) You may opt out of receiving mobile text messages by sending an email to [support@pandora.com](mailto:support@pandora.com). You can also opt out of mobile text messages and/or non-Service-related emails by sending mail to the following postal address:
 
 Customer Support  
-Pandora, Inc.   
-360 22nd St, Suite 440  
+Pandora Media, Inc.   
+2101 Webster Street  
+Suite 1650  
 Oakland, CA 94612
 
 Your election not to receive newsletters, mobile text messages, or promotional and marketing correspondence from us will not: (a) preclude us from corresponding with you, by email or otherwise, regarding your existing or past relationship with us, and (b) preclude us, including our employees, contractors, agents and other representatives, from accessing and viewing your personal information in the course of maintaining and improving the Pandora Services.
