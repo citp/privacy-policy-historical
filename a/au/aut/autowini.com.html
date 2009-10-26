@@ -1,0 +1,400 @@
+<!--The following is the downloaded HTML source of the autowini.com privacy policy that was archived on 2009-10-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091026220810id_/http%3A//www.autowini.com/100_ET/103_LN/et_ln_privacy_policy.jsp) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+    <title>Autowini</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <script language="javascript" type="text/javascript" src="https://api.paygate.net/ajax/common/OpenPayAPI.js"></script>
+    <link rel="stylesheet" type="text/css" href="http://www.autowini.com/CSS/autowini.css">
+    <script language="JavaScript">
+    <!--
+	  var	jsRootPATH	= "http://www.autowini.com/";
+	  
+    //-->
+    </script>
+    <script language="JavaScript" src="http://www.autowini.com/SCRIPT/cm_function.js"></script>
+    <script language="JavaScript" src="http://www.autowini.com/SCRIPT/prototype-1.6.0.2.js"></script>
+    <script language="VBScript" src="http://www.autowini.com/SCRIPT/cm_function.vbs"></script>
+	
+	<script>
+	<!--
+	function business_verify() { 
+		setPGIOElement('apilog','100');
+		setPGIOElement('tid','test');
+		//verifyReceived(); 
+		verifyReceived('','fnbusinessverifySeccess()','fnbusinessverifyFail()'); 
+	}
+
+	-->
+	</script>
+	
+    <script language="VBScript">
+    //문자열 길이 체크 - 한글, 영문, 숫자 토털 정확한 길이 구하기
+    Public Function GetStrLengthUTF(i_sInVals)
+        For iCnt = 1 to Len(i_sInVals)
+            sCharAt = Mid(i_sInVals, iCnt, 1)
+            If Asc(sCharAt) > 0 And Asc(sCharAt) < 255 Then
+                GetStrLengthUTF = GetStrLengthUTF + 1
+            Else
+                If "" = "UTF8" Then
+                    GetStrLengthUTF = GetStrLengthUTF + 3
+                Else
+                    GetStrLengthUTF = GetStrLengthUTF + 2
+                End If
+            End If
+        Next
+    End Function
+
+	
+    </script>
+  </head>
+  <body><input type="hidden" name="txt_menuid" value="">
+  <input type="hidden" name="txt_help_file" value="">
+
+
+
+
+
+<script type="text/javascript" src="http://www.autowini.com/dwr/interface/ClsCmGetCode.js"></script>
+<script type="text/javascript" src="http://www.autowini.com/dwr/engine.js"></script>
+<script type="text/javascript" src="http://www.autowini.com/dwr/util.js"></script>
+<script language="javascript">
+
+	var bLangLoadding	= false;
+
+    function fnLangLayer()
+    {
+        var obj     = document.getElementById("main_langLay");
+        var obj2    = document.getElementById("secondMenu");
+
+        if ( obj.style.visibility == "hidden" )
+        {
+            obj.style.visibility    = "visible";
+
+            if (!bLangLoadding)
+            {
+        		ClsCmGetCode.getDwrLocalCode("PC0001", "en", fnLangDwrResult);
+            }
+        }
+        else
+        {
+            obj.style.visibility    = "hidden";
+        }
+    }
+
+    function fnLangDwrResult ( list )
+    {
+        var layer_obj		= document.getElementById("main_langLay");
+        var len				= 0;
+        var inHTML			= "";
+        var nowLang			= "en";
+        var langNm			= "";
+
+        if (list != null)
+        {
+            len	= list.size();
+
+            inHTML	+= "<ul>\n";
+
+			for (var i = 0 ; i < len ; i++)
+			{
+				if (nowLang == list[i].v_BUFFER1)
+					langNm	= "<strong>" + list[i].v_SUB_CODENM + "</strong>";
+                else
+                	langNm	= list[i].v_SUB_CODENM;
+                
+                if (list[i].v_BUFFER3 == "N")
+    				inHTML	+= "<li><a href=\"javascript:fnConstruction();\">" + langNm + "</a></li>\n";
+                else
+    				inHTML	+= "<li><a href=\"javascript:fnLangChange('" + list[i].v_BUFFER1 + "')\">" + langNm + "</a></li>\n";
+			}
+            inHTML	+= "</ul>\n";
+
+            layer_obj.innerHTML	= inHTML;
+
+            bLangLoadding	= true;
+            
+            
+        }
+    }
+    
+    function fnConstruction(){
+    	alert('Under construction');
+    	document.getElementById("main_langLay").style.visibility    = "hidden";
+    }
+
+    function fnLangChange( lang )
+    {
+		var url		= "/INCLUDE/cm_lang_change_ajax.jsp";
+		var pars	= "&H_V_LANG=" + lang;
+
+		if (lang != null && lang != "")
+		{
+			new Ajax.Request (
+				url,
+				{
+					method: 'post',
+					parameters: pars,
+					onSuccess:fnLangChangeResult
+	          	}
+	      	);
+		}
+    }
+
+    function fnLangChangeResult ( xmlHttp )
+    {
+    	var serverData = xmlHttp.responseText;
+        var evalData = eval('(' + serverData + ')');
+
+        if ( evalData.result == "success")
+        {
+            document.location.reload();
+        }
+        else
+        {
+            alert("Language change error!!");
+        }
+    }
+
+</script>
+
+
+
+<!-- top Line / layer -->
+<div id="topLine"><img src="http://www.autowini.com/IMG/EN/topLine_left.gif"></div>
+<div id="topLine2"><img src="http://www.autowini.com/IMG/EN/topLine_right.gif"></div>
+
+<div id="wrap">
+
+    <!-- header All -->
+	<div id="header">
+		<!-- logo -->
+		<div class="logo"><a href="http://www.autowini.com/"><img src="http://www.autowini.com/IMG/EN/logo.gif" alt="logo"></a></div>
+		<hr>
+		<!-- top menu  -->
+		<ul class="topMenu" style="z-index:3">
+			<li class="menu">
+			
+				<a href="javascript:cmBookmark('http://autowini.com/', 'autowini')"><strong>Bookmark</strong></a>
+			
+				| <a href="http://www.autowini.com/070_MW/72_UI/mw_ui_join_free_input_step0.jsp">Join Free</a>
+				| <a href="http://www.autowini.com/070_MW/72_UI/mw_ui_join_free_user_login.jsp">Sign In</a>
+				| <a href="http://www.autowini.com/070_MW/71_OV/mw_ov_overview.jsp">My Wini</a>
+            
+			</li>
+            <li class="language">
+                <div>
+                    <a href="javascript:fnLangLayer();"><img src="http://www.autowini.com/IMG/EN/btnLanguage.gif" alt="language" title="language"></a>
+                </div>
+                <span id="main_langLay" style="visibility:hidden;z-index:3">
+                    <div style="width:100%;height:100%;text-align:center;"><img src="http://www.autowini.com/IMG/EN/ajax-loader1.gif"></div>
+                </span>
+            </li>
+		</ul>
+		<hr>
+		<!-- global menu  -->
+		<ul class="global">
+			<li class="cars">
+				<a href="http://www.autowini.com/010_CA/11_SE/ca_se_car_all_photo_search.jsp">
+					<img src="http://www.autowini.com/IMG/EN/global_1cars.gif" alt="Cars">
+				</a>
+			</li>
+			<li class="truck"><a href="http://www.autowini.com/030_TR/31_SE/tr_se_truck_photo_search.jsp"><img src="http://www.autowini.com/IMG/EN/global_3truck.gif" alt="Truck/Equipment"></a></li>
+			<li class="parts" style="z-index:1"><a href="http://www.autowini.com/020_PA/21_SE/pa_se_part_photo_search.jsp"><img src="http://www.autowini.com/IMG/EN/global_2parts.gif" alt="Parts/Accessories"></a></li>
+
+		</ul>
+
+		<!-- second menu  -->
+		<ul class="secondMenu" id="secondMenu">
+			<li class="sell"><p><a href="http://www.autowini.com/040_SL/41_RG/sl_rg_selling_guide.jsp"><img src="http://www.autowini.com/IMG/EN/secondMenu_sell.gif" alt="Sell" title="Sell"></a></p></li>
+			<li class="help"><p><a href="http://www.autowini.com/090_HP/91_HB/hp_hb_how_to_buy.jsp"><img src="http://www.autowini.com/IMG/EN/secondMenu_help.gif" alt="Help" title="Help"></a></p></li>
+			<li class="automap"><p><a href="http://www.autowini.com/050_WM/51_OV/wm_ov_over_view.jsp"><img src="http://www.autowini.com/IMG/EN/secondMenu_autoMap.gif" alt="AutoMap" title="AutoMap"></a></p></li>
+			<li class="visual"><a href="http://www.autowini.com/060_BY/61_BS/by_bs_backyard_space.jsp"><img src="http://www.autowini.com/IMG/EN/topVisual.gif" alt="Back yard" title="Back yard"></a></li>
+		</ul>
+
+	</div>
+
+	<div id="contentbody">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <!-- columLeft All -->
+        <div id="columLeft">
+
+            <!-- Sell All -->
+            <div class="groupBox">
+                <div class="subTitle">
+                    <table>
+                    <tbody><tr><td><p>Legal Notice</p></td></tr>
+                    </tbody></table>
+                </div>
+                <ul>
+<li><a href="http://www.autowini.com/100_ET/103_LN/et_ln_terms_of_use.jsp">Terms of Use             </a></li>
+<li><a href="http://www.autowini.com/100_ET/103_LN/et_ln_privacy_policy.jsp" class="on">Privacy Policy</a></li>
+<li><a href="http://www.autowini.com/100_ET/103_LN/et_ln_disclaimer.jsp">Disclaimer</a></li>
+<li><a href="http://www.autowini.com/100_ET/103_LN/et_ln_ad_policy.jsp">Ad Policy</a></li>
+
+                </ul>
+                <div class="end"><img src="http://www.autowini.com/IMG/EN/rootForm_img01.gif"></div>
+            </div>
+        </div>
+        <!-- columLeft end.. -->
+
+
+
+
+        <hr>
+		<!-- columRight All -->
+		<div id="columRight">
+            
+            <!-- content All -->
+            <!-- sub Title / info -->
+            <div class="contTitle">
+                <div class="Title"><h1>Privacy Policy</h1></div>
+                <div class="info">Home &gt;  Legal Notice &gt; Privacy Policy</div>
+            </div>
+            <!-- sub Title / info end.. -->
+            
+            <!-- comment -->
+            
+            <!-- comment end.. -->
+            
+            
+            <!-- notic / etc.css -->
+            <div id="notic">
+                <p class="comment">
+                    AutoWini.com respects the privacy of visitors to our website. Please read this Privacy Statement carefully so that you understand what information we collect through our website and what we do with that information. This Privacy Statement applies only to information collected online through the AutoWini.com website and does not describe the ways in which we may collect or use information obtained offline or through any means other than our website. <br>Basically, AutoWini.com does not publish or open your personal information to the public. However, AutoWini.com may use your private information such as your name or email address for events or promotions in which you might be interested.
+                </p>
+                <dl class="privacy">
+                    <dt><p><strong>1.   THE INFORMATION WE COLLECT </strong></p></dt>
+                    <dd>
+                        <p>The information we gather falls into two categories: <br>(1) Information supplied by visitors to the site when they list a car for sale, perform a search, enter a sweepstakes or other promotional contest, or inquire about a item listed for sale or about another product or service offered through our website.<br>(2) Tracking information gathered as visitors navigate through our website. Third-party providers featured on or linked to by our website, such as vendors of products and services offered through our site, may be gathering information, as well, through processes we don't control.</p>
+                        <dl class="depth2">
+                            <dt><strong>Searches and Listings</strong></dt>
+                            <dd>To make use of certain features on our site, visitors need to provide limited information about themselves and their interests so that we can tailor the information we provide to their needs. For example, to help you find the item you want, we need to know what kind of item you're searching for. We will get this kind of information when you perform a search. If you find a listing that interests you and choose to send the seller an email through our website, we'll share with the seller the contact information you supply through our online "Send Request This Seller" form.<br></dd>
+                        </dl>
+                        <dl class="depth2">
+                            <dt><strong>Online Surveys</strong></dt>
+                            <dd>
+								<p>From time to time, we survey our users to measure their satisfaction with our site and other sites and to help us learn more about our audience and how they interact with our site. Third-party research firms will conduct these surveys on our behalf. We use the survey results to help us improve the services we offer to you. Except in the circumstances described below in the "Other Disclosures" section of this policy, we will not share, without your consent, any personally-identifying information you submit in response to an AutoWini.com survey with any company other than the research firm conducting the survey. We will, however, take the information you provide and aggregate it on an anonymous basis with data collected from other survey participants. We may use and disclose that pool of anonymous information as we see fit, without identifying you personally.<br><br></p>
+								<p>From time to time, we survey our users to measure their satisfaction with our site and other sites and to help us learn more about our audience and how they interact with our site. Third-party research firms will conduct these surveys on our behalf. We use the survey results to help us improve the services we offer to you. Except in the circumstances described below in the "Other Disclosures" section of this policy, we will not share, without your consent, any personally-identifying information you submit in response to an AutoWini.com survey with any company other than the research firm conducting the survey. We will, however, take the information you provide and aggregate it on an anonymous basis with data collected from other survey participants. We may use and disclose that pool of anonymous information as we see fit, without identifying you personally.<br><br></p>
+                            </dd>
+                        </dl>
+                        <dl class="depth2">
+                            <dt><strong>Email Addresses</strong></dt>
+                            <dd>
+                                <p>If you provide us your email address, we may email you about our website or our services, or to inquire about your experience using our website or sites operated by others. From time to time, we'll also send you emails that may include automotive information, special promotions and other commercial offers that we think may be of interest to you. Though we hope you'll find these communications informative and useful, if you don't, you can always unsubscribe by the simple instructions included in each email.</p>
+                            </dd>
+                        </dl>
+                        <dl class="depth2">
+                            <dt><strong>Cookies</strong></dt>
+                            <dd>
+                                <p>To help us tailor our website to the needs and interests of our visitors, we keep track of the pages visited by our users by placing a cookie, a small entry in text file, on your hard drive. The cookie contains an ID number that allows us to track the pages you've visited. We aggregate this data with data on the pages visited by other users to track overall visitor traffic patterns. We use this information to improve our site by making it more responsive to the needs of our users. We also use cookies to make sure you don't see the same ad repeatedly during a single visit to our site. Cookies don't reveal personally identifying information; the only personal information a cookie can contain is information you supply yourself. Cookies can't read unrelated data off your hard drive. Our advertisers and third parties that provide products and/or services through our site may also assign their own cookies, a process we don't control. The help function on most web browsers contains information on how to set your browser to notify you before accepting a cookie or to disable cookies entirely. However, if you don't accept cookies, you won't be able to take advantage of various features on our site that are available to other visitors.</p>
+                            </dd>
+                        </dl>
+                        <dl class="depth2">
+                            <dt><strong>Browser Information Collecting</strong></dt>
+                            <dd>
+                                <p>Our web server automatically collects limited information about your computer configuration when you visit our site such as your IP address. We use this information to give site users specific statistical information such as item exposure count or click count, and also to make our site as useful as we can for as many users as possible.</p>
+                                <p>* Your IP address is a numerical address that is used by computers connected to the Internet to identify your computer so that data (such as the web pages you want to view) can be transmitted to you. We also use IP address information for systems administration and troubleshooting purposes. Your IP address does not tell us who you are.</p>
+                            </dd>
+                        </dl>
+                        
+                    </dd>
+                </dl>
+                <dl class="privacy">
+                    <dt><p><strong>2.   USE AND DISCLOSURE OF INFORMATION</strong></p></dt>
+                    <dd>
+                        <p>When AutoWini.com present information to our advertisers to help them understand our visitors, and to confirm the value of advertising on our website, it is usually in the form of aggregated statistics on traffic to various pages within our site. AutoWini.com may collect, or have a third party collect on our behalf, aggregated statistical information about how visitors use and navigate around our site, such as the number of users who visit various pages within the site, what they click on, how many times inventory lists are exposed to the users, filling out 'Send Request This Seller' forms, etc. This aggregated information does not identify you personally. AutoWini.com uses this information to improve our site. AutoWini.com may also disclose this aggregated information to third parties to make more user-friendly website.</p>
+                    </dd>
+                </dl>
+                
+                 <dl class="privacy">
+                    <dt><p><strong>3.   LINKS AND FEATURES OFFERED FROM OTHER PROVIDERS</strong></p></dt>
+                    <dd>
+                        <p>To make our website more valuable to our visitors, AutoWini.com features some products and services that come from other providers. AutoWini.com may include links to other websites, and provide access to products and services offered by third parties, whose privacy policies we don't control. When you access another website or purchase products or services or conduct other transactions through our website, use of any information you provide is governed by the privacy policy of the operator of the site you're visiting or the provider of such products or services. When you provide information in the course of obtaining products or services through our site, use of any information you provide may be governed by the privacy policy of the provider of those products or services. The provider's privacy policy may differ from ours.</p>
+                    </dd>
+                </dl>
+                
+                 <dl class="privacy">
+                    <dt><p><strong>4.   OTHER DISCLOSURES</strong></p></dt>
+                    <dd>
+                        <p>AutoWini.com may occasionally release information about our visitors when release is appropriate to comply with law, to enforce our Terms of Use, or to protect the rights, property or safety of visitors to our site, our customers, the public or AutoWini.com. As our business grows, we may buy or sell various assets. Furthermore, information on our visitors would be the transferred assets. If you choose to unsubscribe in response to an email message that we send on behalf of an advertiser, we will share your email address and opt-out instructions with the advertiser to ensure that your email privacy preferences are honored. Similarly, if we ask a third-party company to send its customers email offers on our behalf, we will share with that company (or its agent) a list of email addresses collected from website visitors who have opted out of our email program to ensure that their privacy preferences are honored. We may allow others to search some of our databases (our listings database, for example) and to analyze the data they find there or aggregate it with other data, either for their business purposes, or ours. Though some of the information in our databases may be personally identifying (such as the contact information included in an item listing), we'll only allow searches of the portions of our database that contain information that is otherwise publicly available on our website. When we use other companies to help us operate our site or improve the services we offer to you, we may provide them with information about our visitors that is necessary for them to perform their services. AutoWini.com requires that these companies commit to use the information only to perform the services that we request.</p>
+                    </dd>
+                </dl>
+                
+                 <dl class="privacy">
+                    <dt><p><strong>5.   SECURITY</strong></p></dt>
+                    <dd>
+                        <p>Information we gather on our website is stored within AutoWini.com-controlled databases (or databases hosted on our behalf) on servers maintained in protected environments. However, no physical or electronic security system is impenetrable. We cannot guarantee the security of our servers or databases, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet. And, of course, any information you include in an item listing is available to anyone with Internet access. </p>
+                    </dd>
+                </dl>
+                
+                 <dl class="privacy">
+                    <dt><p><strong>6.   PROTECTING THE PRIVACY OF CHILDREN</strong></p></dt>
+                    <dd>
+                        <p>Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. Our website is not directed at children, and we won't allow them to provide us any personal information on purpose.</p>
+                    </dd>
+                </dl>
+                
+                 <dl class="privacy">
+                    <dt><p><strong>7.   CHANGES TO THIS PRIVACY POLICY</strong></p></dt>
+                    <dd>
+                        <p>The website is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes to this Privacy Statement on this website and update the reference to the effective date to reflect the date of the amendment. By visiting AutoWini.com, you agree that your visit, and any dispute over privacy, is governed by this Privacy Policy and our Terms of Use.</p>
+                    </dd>
+                </dl>
+                
+                 <dl class="privacy">
+                    <dt><p><strong>8.   QUESTIONS AND SUGGESTIONS</strong></p></dt>
+                    <dd>
+                        <p>If you have any questions regarding your privacy, security, opt-out of email subscription or understanding how your personal information is being used, please contact us by email. Also you can email us whenever you have something to ask or suggest on AutoWini.com.</p>
+                    </dd>
+                </dl>
+                
+            </div>
+            <!-- notic end.. -->
+
+		</div>
+		<!-- columRight end.. -->
+
+	</div>
+
+</div>
+
+
+<hr>
+
+<!-- Footer All -->
+<div id="footer">
+	<div class="copy">
+		<ul>
+			<li class="about"><a href="http://www.autowini.com/100_ET/101_AA/et_aa_company_profile.jsp" class="about">About AutoWini.com</a></li>
+			<li><a href="http://www.autowini.com/100_ET/102_WN/et_wn_congratulations_list.jsp">Wini News</a></li>
+			<li><a href="http://www.autowini.com/100_ET/104_SM/et_sm_site_map.jsp">Site Map</a></li>
+			<li><a href="http://www.autowini.com/100_ET/103_LN/et_ln_disclaimer.jsp">Disclaimer</a></li>
+			<li><a href="http://www.autowini.com/100_ET/103_LN/et_ln_terms_of_use.jsp">Terms of Use</a></li>
+			<li><a href="http://www.autowini.com/100_ET/103_LN/et_ln_privacy_policy.jsp">Privacy Policy</a></li>
+			<li><a href="http://www.autowini.com/100_ET/103_LN/et_ln_ad_policy.jsp">Ad Policy</a></li>
+			<li><a href="http://www.autowini.com/100_ET/101_AA/et_aa_contact_us.jsp">Contact Us</a></li>
+		</ul>
+		<p>Copyrightⓒ2009 Encar Networks Limited. All Rights Reserved</p>
+	</div>
+</div>
+
+
+
+
+
+
+</body></html>
