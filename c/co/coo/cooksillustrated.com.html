@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cooksillustrated.com privacy policy that was archived on 2009-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090626055844id_/http%3A//www.cooksillustrated.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cooksillustrated.com privacy policy that was archived on 2009-10-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091026040754id_/http%3A//www.cooksillustrated.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -7,11 +7,12 @@
 		
 		<link rel="stylesheet" type="text/css" href="../css/cooks.css">
 		<!-- Scripts Files -->
-<script type="text/javascript" src="/js/s_code.js"></script>
 <script type="text/javascript" src="/js/jquery-1.2.6.js"></script>
 <script type="text/javascript" src="/js/thickbox.js"></script>
 <script type="text/javascript" src="/js/page_util.js"></script>
+
 <script type="text/javascript" src="/js/swfobject.js"></script>
+
 
 
 
@@ -167,7 +168,7 @@ caprivacy@bcpress.com</a>.
 
 		<div id="leftContentCol">
 			<div id="leftNavCol">
-				<a href="/magazine/"><img src="/images/covers/137x166_JA09_Cover.jpg"></a>
+				<a href="/magazine/"><img src="/images/covers/ND09.jpg"></a>
 
 		
 	
@@ -176,19 +177,54 @@ caprivacy@bcpress.com</a>.
 					<li><a href="/byissue/">Browse Previous Issues</a></li>
 				</ul>
 				<!-- MARK: Only display of LOGGED OUT -->
-		
+
+		            <iframe src="http://img-cdn.mediaplex.com/0/13386/universal.html?page_name=landing_page_non-logged_in&amp;Landing_Page_Non_Logged_In=1&amp;mpuid=" height="1" width="1" frameborder="0"></iframe>
+
+		<script language="javascript">
+		    function GetCookie(fieldID) 
+		    {
+                  theField = document.getElementById(fieldID);
+                  var arg = theField.name + "=";
+                  var alen = arg.length;
+                  var clen = document.cookie.length;
+                  
+                  cooksWebCookiePosition = document.cookie.indexOf("CooksWebSite")
+                  if (cooksWebCookiePosition != -1)
+                  {
+                      cooksWebCookie = getCookieVal(";", cooksWebCookiePosition, document.cookie)
+                      firstOccurance = cooksWebCookie.indexOf(arg);
+                      if (firstOccurance != -1)
+                      {
+                        if (firstOccurance < clen)
+                        {
+                            cookieValue = getCookieVal("&", firstOccurance+alen, cooksWebCookie);
+                            theField.value = cookieValue
+                        }
+                      }
+                  }
+            }
+            function getCookieVal(symbol, offset, theCookie) 
+            {
+                var endstr = theCookie.indexOf(symbol, offset);
+                if (endstr == -1) { endstr = theCookie.length; }
+                return unescape(theCookie.substring(offset, endstr));
+            }            
+		</script>
 				<div id="loginSignupBox">
 					<h4>Web Member Login</h4>
-					<form action="/cds_auth/login_process.asp" method="POST">
+					<form id="loginForm" action="/cds_auth/login_process.asp" method="POST">
 							
 						<input type="hidden" name="docid" id="docid" value="">
 						
 						<input type="hidden" name="redirectURL" id="redirectURL" value="http://www.cooksillustrated.com/privacy/Default.asp?">							
 						
 						E-mail
-						<input type="text" name="email" class="shadowedInput" value=""><br>
+						<input type="text" name="Email" id="loginEmail" class="shadowedInput"><br>
+						<script>GetCookie("loginEmail")</script>
 						Password
-						<input type="password" name="password" class="shadowedInput" value=""><br>
+						<input type="password" name="Password" id="loginPassword" class="shadowedInput"><br>
+						<script>GetCookie("loginPassword")</script>
+						<input type="checkbox" name="rememberme" id="remembermeCheckbox" value="checkbox" checked="">Remember Me<br>
 						<a href="/cds_auth/forgot_password.asp">Forget your password?</a><br>
 						<input type="image" alt="Login" src="/images/text/btn_login.gif" class="loginButton">
 					</form>
@@ -199,7 +235,7 @@ caprivacy@bcpress.com</a>.
 				
 				<img src="/images/marketing/ads/cio_ft_startNow.gif" width="137" height="84" border="0" usemap="#cioFTMap" style="margin-top: 6px;">
 
-	
+
 
 
 			</div>
@@ -253,7 +289,8 @@ caprivacy@bcpress.com</a>.
 				<li><a href="/aboutus/">About Us</a></li>
 				<li><a href="/cds_auth/signup/default/join_step1.asp?incode=M00CHFA00">Join Our Website</a></li>
 				<li><a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=CID&amp;cds_page_id=13331&amp;cds_response_key=ICH08LF00">Magazine Subscriptions</a></li>
-				<li><a href="http://americastestkitchen.com/corp/events.asp">News &amp; Events</a></li>
+				<li><a href="http://www.americastestkitchen.com/sweepstakes/winners.aspx">Sweepstakes</a></li>
+				<li><a href="http://www.americastestkitchen.com/corp/events.asp">News &amp; Events</a></li>
 				<li><a href="http://www.americastestkitchen.com/corp/jobs.asp">Jobs</a></li>
 				<li><a href="http://recipes.cooksillustrated.com/">Recipes</a></li>
 			</ul>
@@ -261,6 +298,7 @@ caprivacy@bcpress.com</a>.
 				<li class="row2"><a href="/faq/web/default.asp">Web Customer Service</a></li>
 				<li><a href="/faq/mag/default.asp">Magazine Customer Service</a></li>
 				<li><a href="/privacy/">Privacy Policy</a></li>
+				<li><a href="http://www.americastestkitchen.com/corp/reporting-policy.asp">Re-Use Policy</a></li>
 				<li><a href="/sitemap/">Site Map</a></li>
 				<li class="copyright">© 2009 America's Test Kitchen. All rights reserved.</li>			
 			</ul>
