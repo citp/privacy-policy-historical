@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlsaskguys.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628143143id_/http%3A//www.girlsaskguys.com/content/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsaskguys.com privacy policy that was archived on 2009-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091026120100id_/http%3A//www.girlsaskguys.com/content/privacy-policy.html) for the most accurate reproduction.*
 
 # Girls Ask Guys Privacy Policy
 
@@ -26,15 +26,15 @@ Any improper collection or misuse of information provided on GirlsAskGuys is a v
 
 By using GirlsAskGuys, you are consenting to have your personal data transferred to and processed in the United States.
 
- **Children Under Age 13**
+ **Children Under Age 16**
 
-GirlsAskGuys does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to register for GirlsAskGuys or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to or on GirlsAskGuys. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [privacy@girlsaskguys.com](mailto:privacy@girlsaskguys.com).
+GirlsAskGuys does not knowingly collect or solicit personal information from anyone under the age of 16 or knowingly allow such persons to register. If you are under 16, please do not attempt to register for GirlsAskGuys or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 16 may provide any personal information to or on GirlsAskGuys. In the event that we learn that we have collected personal information from a child under age 16 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 16, please contact us at [privacy@girlsaskguys.com](mailto:privacy@girlsaskguys.com).
 
- **Children Between the Ages of 13 and 18**
+ **Children Between the Ages of 16 and 18**
 
-We recommend that minors over the age of 13 ask their parents for permission before sending any information about themselves to anyone over the Internet, including GirlsAskGuys.
+We recommend that minors over the age of 16 ask their parents for permission before sending any information about themselves to anyone over the Internet, including GirlsAskGuys.
 
-By agreeing to the [Terms of Use](https://web.archive.org/content/terms-of-use.html) and posting any such personal information to GirlsAskGuys, users agree that they are not 13 or under, that they are older than 13 and got parental consent, or that they are of legal age to sign up.
+By agreeing to the [Terms of Use](https://web.archive.org/content/terms-of-use.html) and posting any such personal information to GirlsAskGuys, users agree that they are not 15 or under, that they are 16 or older and got parental consent, or that they are of legal age to sign up.
 
  **PART II. INFORMATION USAGE**
 
