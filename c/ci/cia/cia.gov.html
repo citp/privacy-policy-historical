@@ -1,9 +1,11 @@
-<!--The following is the downloaded HTML source of the cia.gov privacy policy that was archived on 2009-05-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090505230653id_/https%3A//www.cia.gov/kids-page/privacy-statement/index.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cia.gov privacy policy that was archived on 2009-10-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091026171907id_/https%3A//www.cia.gov/kids-page/privacy-statement/index.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+
+    <meta name="LastModified" content="Oct 25, 2007">
 
     
       
@@ -485,21 +487,17 @@ For more on the Agency's mission, visit our <a title="Strategic Intent 2007-2011
 									</div>
 									<div id="ciaWorkSearchBar">
 										<div id="ciaWork">The Work of a Nation. The Center of Intelligence</div>
-										<form id="ciaSearchForm" method="post" action="/search?NS-search-page=results">
+										<form id="ciaSearchForm" method="get" action="/search">
 											<label class="hiddenStructure" for="searchBox">Search Field</label>
-											<input id="searchBox" name="NS-query" type="text" maxlength="2047" value="Search" onfocus="clearSearch(this);" onblur="showSearch(this)">
-											
-											<label class="hiddenStructure" for="searchBox">Search Type</label>
-											<input type="hidden" name="NS-search-type" id="NS-search-type" value="NS-boolean-query">
-											
-											<label class="hiddenStructure" for="searchBox">Max Records</label>
-											<input type="hidden" name="NS-max-records" id="NS-max-records" value="20">
-											
-											<label class="hiddenStructure" for="searchBox">Collection</label>
-											<input type="hidden" name="NS-collection" id="NS-collection" value="Everything">
-											
+											<input id="searchBox" name="q" type="text" maxlength="2047" value="Search" onfocus="clearSearch(this);" onblur="showSearch(this)">
 											<label class="hiddenStructure" for="searchBtn">Search Button</label>
 											<input id="searchBtn" type="image" alt="Search" src="/images/searchBtn.gif">		
+											<input type="hidden" name="site" value="CIA">
+											<input type="hidden" name="output" value="xml_no_dtd">
+											<input type="hidden" name="client" value="CIA">
+											<input type="hidden" name="myAction" value="/search">
+											<input type="hidden" name="proxystylesheet" value="CIA">
+											<input type="hidden" name="submitMethod" value="get">
 										</form>
 									</div>
 									<div class="floatClear"></div>
