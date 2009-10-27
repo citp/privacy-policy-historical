@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hoseasons.co.uk privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619160627id_/http%3A//www.hoseasons.co.uk/V3/WebPages/shared/SecurityAndPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoseasons.co.uk privacy policy that was archived on 2009-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091027071434id_/http%3A//www.hoseasons.co.uk/V3/WebPages/shared/SecurityAndPrivacy.aspx) for the most accurate reproduction.*
 
 # Hoseasons
 
