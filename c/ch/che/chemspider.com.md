@@ -1,55 +1,80 @@
-> *The following text is extracted and transformed from the chemspider.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619205023id_/http%3A//www.chemspider.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chemspider.com privacy policy that was archived on 2009-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091027011500id_/http%3A//www.rsc.org/help/privacy.asp) for the most accurate reproduction.*
 
-# ChemSpider™ Privacy Policy
+# Privacy
 
-[ ](https://web.archive.org/Consultancy.aspx)
-
-[ ](https://web.archive.org/ad/13)
-
-| 
-
-March 13th, 2007
-
-Here at the ChemSpider Website we understand that privacy is important. This document outlines the types of information we receive and collect when you use the ChemSpider service, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
-
-##  Scope
-
-This notice describes the privacy practices that apply to the ChemSpider service and website worldwide.
-
-##  Personal information and other data we collect
-
-  * ChemSpider allows you to VOLUNTARILY PROVIDE personal information when you register as a user of ChemSpider. We may combine personal information collected from you with information from other third parties to provide a better user experience, including customizing content for you.
-  * ChemSpider uses cookies and other technologies to enhance your online experience and to learn about how you use ChemSpider in order to improve the quality of our services.
-  * The ChemSpider servers automatically record information when you visit our website including the URL, IP address, browser type and language, and the date and time of your request.
-
-
-
-##  Uses
-
-  * We may use personal information to provide the services you've requested, including services that display customized content and advertising.
-  * We may also use personal information for auditing, research and analysis to operate and improve the ChemSpider technologies and services.
-  * We may share aggregated non-personal information with third parties.
-  * We may also share information with third parties in limited circumstances, including when complying with legal process and ensuring the security of our network and services.
-  * ChemSpider processes personal information on our servers in North America.
-
-
-
-##  Your choices
-
-  * We offer you choices when we ask for personal information, whenever reasonably possible.
-  * You may decline to provide personal information to us and/or refuse cookies in your browser, although some of our features or services may not function properly as a result.
-  * We make good faith efforts to provide you access to your personal information upon request and to let you correct such data if it is inaccurate and delete it, when reasonably possible.
-
-
-
-##  Opt-out
-
-If you no longer wish to receive e-mail communications as a result of registering on our web site, you may opt-out of receiving them by following the instructions included in each communication. To be removed from all future mailings or change your personal information e-mail us at _info-at-chemspider-dot-com_.
-
-##  Contact Us
-
-If you have any questions, comments, or suggestions regarding our Privacy Policy or ChemSpider's use of your personal information, please contact us at _info-at-chemspider-dot-com_.
-
-The management of ChemSpider reserves the right to modify this Privacy Policy at any time. Changes to this policy will be posted on our web site, [www.chemspider.com](http://www.chemspider.com/).  
   
----|---
+
+
+### How does the RSC use your Data?
+
+The RSC uses your personal data (e.g. name, address, email address, country of residence) to administer its activities, products, and services and to send information about them to you. The RSC may undertake communications on behalf of other organisations to selected contacts, customers, and members but only to those who have given their agreement to receiving such communications.
+
+### The Data We Collect about Users
+
+The RSC logs the Internet Protocol (IP) address of your PC to be able to receive and send information on the Internet.
+
+The RSC collects personal data when your register or update your personal details using online forms.
+
+### Inaccuracies and corrections
+
+You can correct or update your personal data using the appropriate online form, by contacting the RSC using the email address on an online form, or if you are not sure whom to contact by emailing webmaster.
+
+### Security
+
+The RSC takes care to protect the data it collects about site users, using Secure Site License-approved technology where appropriate. Pages that use this technology are flagged with a padlock symbol as shown.  
+
+### Cookies
+
+A cookie is a text-only string of information that a website transfers to the cookie file of the browser on your computer's hard disk so that the website can remember who you are. A cookie will typically contain the name of the domain from which the cookie has come, the "lifetime" of the cookie, and a value, usually a randomly generated unique number.
+
+Cookies can help a website to arrange content to match your preferred interests more quickly. Most major websites use cookies. Cookies cannot be used by themselves to identify you. 
+
+The RSC uses several types of cookie on its websites:  ** _Session Cookies_** are temporary cookies that remain in the cookie file of your browser until you leave the site, 
+
+  * To allow you to carry information across pages of our site and avoid having to re-enter information;
+  * To allow you to maintain a shopping basket;
+  * Within registration to allow you to access stored information.      
+
+
+
+ ** _Persistent cookies_** remain in the cookie file of your browser for much longer (though how long will depend on the lifetime of the specific cookie). 
+
+  * To help us recognise you as a unique visitor (just a number) when you return to our website and to allow us to tailor content or advertisements to match your preferred interests or to avoid showing you the same adverts repeatedly;
+  * To compile anonymous, aggregated statistics that allow us to understand how users use our site and to help us improve the structure of our website. We cannot identify you personally in this way;
+  * Within research surveys to ensure you are not invited to complete a questionnaire too often or after you have already done so.      
+
+
+
+ ** _Third-party cookies_** are used to control page content for a specific user: 
+
+  * To serve advertisements on our sites and track whether these advertisements are clicked on by users;
+  * To control how often you are shown a particular advertisement;
+  * To tailor content to your preferences;
+  * To count the number of anonymous users of our sites;
+  * To provide security within shopping baskets, e.g. to pay for a membership subscription or a journal pay-per-view.      
+
+
+
+ ** _Disabling/Enabling Cookies_**. You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of our site if cookies are disabled. 
+
+To find out how to disable/enable cookies, please consult the Help features of your browser.
+
+### Email communications
+
+Email communications are sent using secure technology that does not disclose your email address to any other recipient. 
+
+### Disclosure of Personal Data
+
+The RSC does not give or sell personal data about any of its contacts, collaborators, customers, or members to any individual or organisation unless they are involved in providing the RSC activities, products, or services. Such contractors are subject to a non-disclosure agreement and have to maintain the same security as does the RSC itself.
+
+### Direct marketing
+
+You can opt out of receiving information about any of these by changing your details using the appropriate online form or, if you are unsure, by contacting webmaster.
+
+### Links
+
+This privacy policy does not cover the links within this site linking to other sites.
+
+### Changes to this policy
+
+This policy is updated from time to time without notice. You may wish to bookmark this page for changes.
