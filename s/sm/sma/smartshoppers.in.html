@@ -1,0 +1,1162 @@
+<!--The following is the downloaded HTML source of the smartshoppers.in privacy policy that was archived on 2009-10-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091027032217id_/http%3A//www.smartshoppers.in/index.php%3Fukey%3Dauxpage_5) for the most accurate reproduction.-->
+
+<html><head>
+		<script language="javascript" type="text/javascript">
+			function fnValidate1() {
+				if(notChecked(document.MainForm[1].rdoGateway,"payment option")){
+					return false;
+				}	
+			}
+			
+			function fnChangeAddress(arg1,arg,arg2){
+				var url='http://www.smartshoppers.in/';
+				window.open(arg1+"/change_address.php?add_id="+arg+"&cust_id="+arg2+"&URL="+url, "", "menubar=0,resizable=yes,scrollbars=yes,width=700,height=600");
+			 } 
+			
+			function fnCheckAvailable(arg1,arg){
+				window.open(arg1+"/check_availiablity.php?add_id="+arg,"","menubar=0,resizable=yes,scrollbars=yes,width=0,height=0");
+			 } 
+			
+			function fnValidate2() {
+				var oLogin	= document.getElementById("login");
+				var oPass 	= document.getElementById("cust_password1");
+				var oMobile	= document.getElementById("additional_field_2");
+				var oPinCode= document.getElementById("shipping_address_reg");
+				var oBdate	= document.getElementById("bDate");
+				if(isNull(oLogin,"e-mail address"))  {  
+					return (false);
+				 }  
+				
+				if(notEmail(oLogin,"e-mail address"))  {  
+					return (false);
+				 } 
+				
+				if(isNull(oPass,"password"))  {  
+					return (false);
+				 }  
+				
+				if(isLen(oPass,"6","password"))  {  
+					return (false);
+				 }  
+				
+				if(isNull(oMobile,"mobile number"))  {  
+					return (false);
+				 }  
+	
+				if(fnChkNum1(oMobile,"mobile number"))  {  
+					return (false);
+				 } 
+				
+				if(fnChkNum3(oMobile,"mobile"))  {  
+					return (false);
+				 }  
+	
+				if(isLen2(oMobile,"10","Mobile"))  {  
+					return (false);
+				 }  
+				
+				if(isLen3(oMobile,"10","Mobile"))  {  
+					return (false);
+				 }  
+				
+				if(isNull(oBdate,"birth date"))  {  
+					return (false);
+				 }  
+	
+				if(isNull(oPinCode,"pin code"))  {  
+					return (false);
+				 }  
+	
+				if(fnChkNum1(oPinCode,"Pin code"))  {  
+					return (false);
+				 } 
+				
+				if(isLen4(oPinCode,"6","Pin code"))  {  
+					return (false);
+				 } 
+				
+				if(isLen5(oPinCode,"6","Pin code"))  {  
+					return (false);
+				 }  
+			
+
+				if(document.getElementById("chkAgree").checked==false){
+					alert("Please select the terms and conditions");
+				}
+			}
+			
+			
+			function FnValidate3() {
+				if(document.getElementById("txtEmail").value==""){
+					alert("Please enter friend email");
+					return false;	
+				}
+				
+				var mm=document.getElementById("txtEmail").value;
+				var nameList = mm.split (",");
+				for(i=0; i < (nameList.length); i++){
+					var exp=/^\w+((-\w+)|(\.\w+))*\@[A-Za-z0-9]+((\.|-)[A-Za-z0-9]+)*\.[A-Za-z0-9]+$/;
+					if (!exp.test(nameList[i])){
+						alert("Please enter valid email  "+i);
+						document.getElementById("txtEmail").focus();
+						return false;		
+					}					
+				}
+
+				if(document.getElementById("txtSubject").value==""){
+					alert("Please enter subject");
+					return false;	
+				}
+				if(document.getElementById("txtMessage").value==""){
+					alert("Please enter message");
+					return false;	
+				}
+			}
+			
+		function fnopen(arg,arg1){
+			var strURL = arg+"/check_availiablity.php";
+			window.open(strURL,'','width=300,Height=300');
+		}
+		
+		function fnOpenwindow(url){
+			window.open(url+"/secure_internet.html","",'width=700,height=650,resizable=yes,scrollbars=yes,status=no,toolbar=no,top=0,left=0');
+		}
+		
+		function fnOpenwindow2(url){
+			window.open(url+"/orders.html","",'width=500,height=200,resizable=yes,scrollbars=yes,status=no,toolbar=no,top=0,left=0');
+		}
+		
+		function fnOpenwindow1(url){
+			window.open(url+"/corporate.php","",'width=774,height=650,resizable=yes,scrollbars=yes,status=no,toolbar=no,top=0,left=0');
+		}
+		
+		function fnGetHelp(url){
+			window.open(url+"/gethelp.html","",'width=411,height=290,resizable=yes,scrollbars=yes,status=no,toolbar=no,top=0,left=0');
+		}
+		
+		function fnPageSort(arg){
+			document.frmSearch.action=arg;
+			document.frmSearch.submit();
+		}
+		</script>
+		<!--include for subbu and vijay  [end]-->	
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<link rel="shortcut icon" href="/published/SC/html/scripts/images/favicon.ico" type="image/x-icon">
+		<base href="http://www.smartshoppers.in/">
+		       <script type="text/javascript" language="javascript">
+       	var WAROOT_URL = '/';		       </script>
+
+		<!-- Head start -->
+		<title>Privacy policy ― Smart Shoppers | Online Shopping India to buy Digital Camera, MP3 Players, Laptop, Mobile, apple ipods, Camcorders, pendrives, Storage Devices at Lowest prices at Smartshoppers</title>
+<meta name="Description" content="PRIVACY POLICY">
+<meta name="KeyWords" content="PRIVACY POLICY">
+
+		<!-- Head end -->
+		<link rel="stylesheet" href="/published/SC/html/scripts/repo_themes/smart/overridestyles.css" type="text/css">		
+		<link rel="stylesheet" href="/published/SC/html/scripts/repo_themes/smart/main.css" type="text/css">
+		<link rel="stylesheet" href="/published/SC/html/scripts/css/general.css" type="text/css">
+		<link rel="stylesheet" href="/published/SC/html/scripts/css/example.css" type="text/css">
+		<script language="javascript" type="text/javascript" src="/published/SC/html/scripts/js/functions.js"></script>
+		<script language="javascript" type="text/javascript" src="/published/SC/html/scripts/js/behavior.js"></script>
+		<script language="javascript" type="text/javascript" src="/published/SC/html/scripts/js/widget_checkout.js"></script>
+		<script language="javascript" type="text/javascript" src="/published/SC/html/scripts/js/frame.js"></script>
+		<script language="javascript" type="text/javascript" src="/published/SC/html/scripts/js/validate.js"></script>
+		<script language="javascript" type="text/javascript" src="/published/SC/html/scripts/js/tabber.js"></script>
+		<script language="javascript" type="text/javascript">
+			
+			var defaultCurrency = {
+			
+				display_template: 'Rs.{value}',
+				
+				decimal_places: '2',
+				decimal_symbol: '.',
+				thousands_delimiter: ',',
+				
+				getView: function (price){
+				
+					return this.display_template.replace(/\{value\}/, number_format(price, this.decimal_places, this.decimal_symbol, this.thousands_delimiter));
+				}
+			};
+			
+			var ORIG_URL = 'http://www.smartshoppers.in/';
+	
+			var ORIG_LANG_URL = '/';
+			window.currDispTemplate = defaultCurrency.display_template;
+			
+			var translate = {};
+			
+			translate.cnfrm_unsubscribe = 'Are you sure you want to delete your account?';
+			translate.err_input_email = 'Enter valid email address';
+			translate.err_input_nickname = 'Please enter your nickname';
+			translate.err_input_message_subject = 'Please enter message subject';
+			translate.err_input_price = 'Price should be a positive number';
+			
+			function position_this_window(){
+				var x = (screen.availWidth - 600) / 2;
+				window.resizeTo(600, screen.availHeight - 100);
+				window.moveTo(Math.floor(x),50);
+			}
+			
+						
+			/*  Registration form validation .*/
+			
+			function fnValidateRegister(arg)  { 
+				/* For Registration form :START */
+				if (arg=="register")  { 
+					var oLogin	= document.getElementById("login");
+					var oPass 	= document.getElementById("cust_password1");
+					var oMobile	= document.getElementById("additional_field_2");
+					var oPinCode	= document.getElementById("address_reg");
+					var oBdate	= document.getElementById("bDate");
+					
+					if(isNull(oLogin,"e-mail address"))  {  
+						return (false);
+					 }  
+					
+					if(notEmail(oLogin,"e-mail address"))  {  
+						return (false);
+					 } 
+					
+					if(isNull(oPass,"password"))  {  
+						return (false);
+					 }  
+					
+					if(isLen(oPass,"6","password"))  {  
+						return (false);
+					 }  
+					
+					if(isNull(oMobile,"mobile number"))  {  
+						return (false);
+					 }  
+					
+					if(fnChkNum1(oMobile,"mobile number"))  {  
+						return (false);
+					 } 
+					
+					if(fnChkNum3(oMobile,"mobile"))  {  
+						return (false);
+					 }  
+		
+					if(isLen2(oMobile,"10","Mobile"))  {  
+						return (false);
+					 }  
+					
+					if(isLen3(oMobile,"10","Mobile"))  {  
+						return (false);
+					 } 
+					
+					if(isNull(oBdate,"birth date"))  {  
+						return (false);
+					 }  
+		
+					if(isNull(oPinCode,"pin code"))  {  
+						return (false);
+					 }  
+		
+					if(fnChkNum1(oPinCode,"Pin code"))  {  
+						return (false);
+					 }  
+					
+					if(isLen4(oPinCode,"6","Pin code"))  {  
+						return (false);
+					 } 
+					
+					if(isLen5(oPinCode,"6","Pin code"))  {  
+						return (false);
+					 } 
+				 } 
+				/* For Registration form :END */
+				
+				/* For contact form :END */
+				if (arg=="contact")  { 
+					var oLogin	= document.getElementById("login");
+					var oPass 	= document.getElementById("cust_password1");
+					var oMobile	= document.getElementById("additional_field_2");
+					var oBdate	= document.getElementById("bDate");
+					if(isNull(oLogin,"e-mail address"))  {  
+						return (false);
+					 }  
+					
+					if(notEmail(oLogin,"e-mail address"))  {  
+						return (false);
+					 } 
+					
+					if(isNull(oPass,"password"))  {  
+						return (false);
+					 }  
+					
+					if(isLen(oPass,"6","password"))  {  
+						return (false);
+					 }  
+					
+					if(isNull(oMobile,"mobile number"))  {  
+						return (false);
+					 }  
+		
+					if(fnChkNum1(oMobile,"mobile number"))  {  
+						return (false);
+					 }  
+					
+					if(fnChkNum3(oMobile,"mobile"))  {  
+						return (false);
+					 }  
+		
+					if(isLen2(oMobile,"10","Mobile"))  {  
+						return (false);
+					 }  
+					
+					if(isLen3(oMobile,"10","Mobile"))  {  
+						return (false);
+					 } 
+					
+					if(isNull(oBdate,"birth date"))  {  
+						return (false);
+					 }  
+				 } 
+				/* For contact form :END */
+				
+				/* For Address Editor :START */
+				if (arg=="add_edit")  { 
+					var oPinCode	= document.getElementById("address_reg");
+					if(isNull(oPinCode,"pin code"))  {  
+						return (false);
+					 }  
+		
+					if(fnChkNum1(oPinCode,"Pin code"))  {  
+						return (false);
+					 } 
+					
+					if(isLen4(oPinCode,"6","Pin code"))  {  
+						return (false);
+					 } 
+					
+					if(isLen5(oPinCode,"6","Pin code"))  {  
+						return (false);
+					 }  
+						
+				 } 
+				/* For Address Editor :END */
+				
+			 } 
+		
+		</script>
+
+<!--Start Kampyle Exit-Popup Code--> 
+<script type="text/javascript" language="javascript">
+var k_push_vars =  { 
+     "display_after": 100000000,
+	"view_percentage": 30,
+	"popup_font_color": "#000000",
+	"popup_background": "#D4E2F0",
+	"header": "Your feedback is important to us!",
+	"question": "Would you be willing to give us a short (1 minute) feedback?",
+	"footer": "Thank you for helping us improve our website",
+	"remind": "Remind me later",
+	"remind_font_color": "#3882C3",	
+	"yes": "Yes",
+	"no": "No",
+	"text_direction": "ltr",
+	"images_dir": "http://cf.kampyle.com/",
+	"yes_background": "#76AC78",
+	"no_background": "#8D9B86",
+	"site_code": 3365480
+ } 
+</script>
+<!--End Kampyle Exit-Popup Code-->
+
+<!-- Start Kampyle Css -->
+<link rel="stylesheet" type="text/css" media="screen" href="http://cf.kampyle.com/k_button.css">
+<!-- End Kampyle Css -->		
+		
+		
+	</head>
+	<body>
+			<!--/*
+********************************************************************************
+Project Name       : Smartshoppers					 							*
+Last Modified By	: Vijayakumar. S 											*
+Modified On		: 18.04.2009												*
+Version            : 1.0														*
+Description        : Code for include the files for left,right,top navigation 	*
+********************************************************************************
+*/-->
+	<table cellspacing="0" cellpadding="0" border="0" bgcolor="#EEEEF1" align="center" width="100%" height="100%">
+	<tbody><tr bgcolor="#EEEEF1">
+		<td valign="top">
+			<table cellspacing="0" cellpadding="0" width="1000" border="0" align="center" bgcolor="#FFFFFF">
+			<tbody><tr><td class="top">
+	<table cellspacing="0" cellpadding="0" width="100%" border="0">	
+	<tbody><tr>
+		<td width="213"><a href="http://www.smartshoppers.in/"><img src="/published/SC/html/scripts/images/logo.gif" width="213" height="55" border="0" title="Smart Shoppers"></a></td>
+		<td align="center">
+			<table width="533" cellspacing="0" cellpadding="0" border="0">
+    <!--DWLayoutTable-->
+    <tbody>
+        <tr>
+            <td width="500" valign="middle" height="1" align="center"><img width="533" height="1" border="0" alt="" src="http://www.smartshoppers.in/published/publicdata/SSLIVESSLIVE/attachments/SC/images/spacer.gif"></td>
+        </tr>
+    </tbody>
+</table>
+<!-- Powered by: Crafty Syntax Live Help        http://www.craftysyntax.com/ -->
+<div style="overflow: auto; position: absolute; width: 204px; height: 32px; left: 1000px; top: 124px;" id="craftysyntax"><script type="text/javascript" src="http://chat.smartshoppers.in/livehelp_js.php?eo=1&amp;department=1&amp;serversession=1&amp;pingtimes=15"></script></div>
+<!-- copyright 2003 - 2008 by Eric Gerdes -->
+			<!--<img src="/published/SC/html/scripts/images/adtBBBOTop.jpg" width="531" height="94" border="0" title="Best Buy!! Best Offers!!!" />-->
+		</td>
+		<td valign="top">
+			<table cellpadding="0" cellspacing="0" width="270" border="0">
+			<tbody><tr><td style="padding-left:20px;" align="center">
+				<!--<center><img src="/published/SC/html/scripts/images/iconTopLinks.jpg" width="200" height="10" border="0" title="" />-->
+				<table border="0" cellpadding="0" cellspacing="0">
+					<tbody><tr align="center">
+						<td>
+								<img src="/published/SC/html/scripts/images/icohome.jpg" alt="" title="Home" width="12" border="0" align="middle" height="10">
+						</td>
+						<td></td>
+						<td>		
+								<img src="/published/SC/html/scripts/images/icocontus.jpg" alt="" title="Contact Us" width="11" border="0" align="middle" height="10">
+						</td>
+													<td></td>
+						<td>	
+								<img src="/published/SC/html/scripts/images/icologin.jpg" alt="" title="Login" width="18" border="0" height="10" align="middle">
+						<br>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<a href="http://www.smartshoppers.in/" class="topLinks">Home</a></td><td>&nbsp; | &nbsp; 
+						</td> 
+						<td>
+							<a href="auxpage_11" class="topLinks">Contact Us</a></td><td> &nbsp; | &nbsp; 
+						</td>
+												<td>
+						<a href="http://www.smartshoppers.in/auth" class="topLinks">Login</a>
+						</td>
+										
+				</tr>
+				</tbody></table>	
+			</td></tr>
+			<tr><td height="8"></td></tr>
+			<tr><td class="blueTxt1" style="padding-left:15px;" align="center">  
+				<div style="width:190px;">     
+					<div align="center" style="padding:0px 0px 0px 2px; width:19px; float:left;"><img src="/published/SC/html/scripts/images/iconCall.jpg" width="19" height="20" border="0" title=""></div> &nbsp; 
+					<a class="AES_email" style="cursor:pointer; font-weight:bold;" onclick="javascript:fnOpenwindow2('/published/SC/html/scripts');">Call us to Place Your Orders</a>
+				</div>
+			</td></tr>	
+			<tr><td style="padding-left:14px;" align="center"><b class="blueTxt1">044-45590370 &nbsp; Mob: +91 9025255222</b></td></tr>
+			<tr><td class="blueTxt1" style="padding-left:14px; font-weight:bold;" align="center">Email : <a href="mailto:customercare@smartshoppers.in" class="AES_email">customercare@smartshoppers.in</a></td>
+			</tr></tbody></table>
+		</td>
+	</tr>
+	<tr><td colspan="3" height="5"></td></tr>
+	<tr>
+		<td colspan="3">
+			<table cellpadding="0" cellspacing="0" border="0" align="center">
+				<tbody><tr>
+					<td width="100%">
+						<ul class="tabs" style=" border:0px solid #FF9900; text-align:center;">
+												
+																			<li><a href="http://www.smartshoppers.in/category/best-digital-cameras" class="menulnk">Digital Cameras</a></li>
+																		
+																			<li><a href="http://www.smartshoppers.in/category/pen-drives" class="menulnk">Pen Drives</a></li>
+																		
+																			<li><a href="http://www.smartshoppers.in/category/best-digital-camcorders" class="menulnk">Camcorders</a></li>
+																		
+																			<li><a href="http://www.smartshoppers.in/category/mp3-players" class="menulnk">MP3 Players</a></li>
+																		
+																			<li><a href="http://www.smartshoppers.in/category/best-memory-cards" class="menulnk">Memory Cards</a></li>
+																		
+																			<li><a href="http://www.smartshoppers.in/category/desktops-laptops-online" class="menulnk">Desktops &amp; Laptops</a></li>
+																		</ul>
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+	</tbody></table>
+</td></tr>
+
+<tr><td class="bgSearch" align="center">
+	<table cellspacing="0" cellpadding="0" border="0" width="100%" align="center" height="100%">
+	<tbody><tr>
+		<td width="222" style="padding:0px 0px 1px 10px;" height="30"><font style="color:#FFFFFF; font-family:Arial; font-size:12px; font-weight:bold;"> Welcome, Guest</font></td>
+		<td width="60" style="padding:0px 0px 1px 10px;"><!--<b class="whitetxt">Search</b>--><img src="/published/SC/html/scripts/images/search_img.jpg" height="18" width="53"></td>
+		<td width="575" align="center" valign="middle">
+			<div class="cpt_product_search "> <!--/*
+�********************************************************************************
+�Project Name       : Smartshoppers					 							*
+�Last Modified By	: Vijayakumar. S 											*
+�Modified On		: 18.04.2009												*
+�Version            : 1.0														*
+�Description        : Code for search tab                               		*
+�********************************************************************************
+*/-->
+<form action="/search/" method="post">
+<table cellpadding="0" cellspacing="0" border="0" width="100%">
+	<tbody><tr>
+		<td width="30%"><input type="text" id="searchstring" name="searchstring" value="What you are looking for..." rel="What you are looking for..." class="input_message"></td>
+		<!--<td><input type="submit" value="Find" /></td-->
+		<td width="70%" style="padding-left:15px;" valign="middle">
+		<input type="image" src="/published/SC/html/scripts/images/search_go_button.gif" name="btnGo" align="middle">
+		<!--<img src="/published/SC/html/scripts/images/buttonGo.jpg" width="29" height="20" border="0" title="Go" />--></td>
+	</tr>
+</tbody></table>
+</form>
+</div>		</td>
+	</tr>
+	</tbody></table>
+</td></tr>
+
+<tr><td height="9"></td></tr>			<tr><td>
+				<table cellspacing="0" cellpadding="0" border="0" width="100%">
+				<tbody><tr>
+										<!-- START : LEFT Container -->
+							<td width="240" valign="top">
+			<table cellspacing="1" cellpadding="0" border="0" width="94%" align="center" style="border:#D6D6D6 1px solid;">
+				<tbody><tr>
+					<td class="bgTitle" colspan="4">
+						Categories
+					</td>
+				</tr>
+																				
+					<!--tr bgcolor="#f6f6f6"><td style="border-bottom: 1px solid rgb(231, 231, 231);"><a href="customer/account/edit" class="account">Account Information</a></td></tr-->
+
+						<tr>
+							 <td width="5"><img src="/published/SC/html/scripts/images/spacer.gif" width="1" height="1"></td>
+							 <td width="25" align="center">
+																	<img src="/published/SC/html/scripts/images/aeroGray.jpg" width="5" height="5">
+								&nbsp;
+							</td>
+							<td tyle="border-bottom: 1px solid #FF0000;">
+																					
+																																<a lass="lnkBlak" href="category/electronic-accessories" class="lnkBlak">
+										Accessories
+									</a>
+																	&nbsp;
+																	<br>
+												
+						</td>
+																
+					<!--tr bgcolor="#f6f6f6"><td style="border-bottom: 1px solid rgb(231, 231, 231);"><a href="customer/account/edit" class="account">Account Information</a></td></tr-->
+
+						</tr><tr>
+							 <td width="5"><img src="/published/SC/html/scripts/images/spacer.gif" width="1" height="1"></td>
+							 <td width="25" align="center">
+																	<img src="/published/SC/html/scripts/images/aeroGray.jpg" width="5" height="5">
+								&nbsp;
+							</td>
+							<td tyle="border-bottom: 1px solid #FF0000;">
+																					
+																																<a lass="lnkBlak" href="category/bluetooth-headsets" class="lnkBlak">
+										Bluetooth
+									</a>
+																	&nbsp;
+																	<br>
+												
+						</td>
+																
+					<!--tr bgcolor="#f6f6f6"><td style="border-bottom: 1px solid rgb(231, 231, 231);"><a href="customer/account/edit" class="account">Account Information</a></td></tr-->
+
+						</tr><tr>
+							 <td width="5"><img src="/published/SC/html/scripts/images/spacer.gif" width="1" height="1"></td>
+							 <td width="25" align="center">
+																	<img src="/published/SC/html/scripts/images/aeroGray.jpg" width="5" height="5">
+								&nbsp;
+							</td>
+							<td tyle="border-bottom: 1px solid #FF0000;">
+																					
+																																<a lass="lnkBlak" href="category/best-digital-camcorders" class="lnkBlak">
+										Camcorders
+									</a>
+																	&nbsp;
+																	<br>
+												
+						</td>
+																
+					<!--tr bgcolor="#f6f6f6"><td style="border-bottom: 1px solid rgb(231, 231, 231);"><a href="customer/account/edit" class="account">Account Information</a></td></tr-->
+
+						</tr><tr>
+							 <td width="5"><img src="/published/SC/html/scripts/images/spacer.gif" width="1" height="1"></td>
+							 <td width="25" align="center">
+																	<img src="/published/SC/html/scripts/images/aeroGray.jpg" width="5" height="5">
+								&nbsp;
+							</td>
+							<td tyle="border-bottom: 1px solid #FF0000;">
+																					
+																																<a lass="lnkBlak" href="category/computer-peripherals" class="lnkBlak">
+										Computer Peripherals
+									</a>
+																	&nbsp;
+																	<br>
+												
+						</td>
+																
+					<!--tr bgcolor="#f6f6f6"><td style="border-bottom: 1px solid rgb(231, 231, 231);"><a href="customer/account/edit" class="account">Account Information</a></td></tr-->
+
+						</tr><tr>
+							 <td width="5"><img src="/published/SC/html/scripts/images/spacer.gif" width="1" height="1"></td>
+							 <td width="25" align="center">
+																	<img src="/published/SC/html/scripts/images/aeroGray.jpg" width="5" height="5">
+								&nbsp;
+							</td>
+							<td tyle="border-bottom: 1px solid #FF0000;">
+																					
+																																<a lass="lnkBlak" href="category/desktops-laptops-online" class="lnkBlak">
+										Desktops &amp; Laptops
+									</a>
+																	&nbsp;
+																	<br>
+												
+						</td>
+																
+					<!--tr bgcolor="#f6f6f6"><td style="border-bottom: 1px solid rgb(231, 231, 231);"><a href="customer/account/edit" class="account">Account Information</a></td></tr-->
+
+						</tr><tr>
+							 <td width="5"><img src="/published/SC/html/scripts/images/spacer.gif" width="1" height="1"></td>
+							 <td width="25" align="center">
+																	<img src="/published/SC/html/scripts/images/aeroGray.jpg" width="5" height="5">
+								&nbsp;
+							</td>
+							<td tyle="border-bottom: 1px solid #FF0000;">
+																					
+																																<a lass="lnkBlak" href="category/digital-photo-frames" class="lnkBlak">
+										Photo Frames
+									</a>
+																	&nbsp;
+																	<br>
+												
+						</td>
+																
+					<!--tr bgcolor="#f6f6f6"><td style="border-bottom: 1px solid rgb(231, 231, 231);"><a href="customer/account/edit" class="account">Account Information</a></td></tr-->
+
+						</tr><tr>
+							 <td width="5"><img src="/published/SC/html/scripts/images/spacer.gif" width="1" height="1"></td>
+							 <td width="25" align="center">
+																	<img src="/published/SC/html/scripts/images/aeroGray.jpg" width="5" height="5">
+								&nbsp;
+							</td>
+							<td tyle="border-bottom: 1px solid #FF0000;">
+																					
+																																<a lass="lnkBlak" href="category/best-digital-cameras" class="lnkBlak">
+										Digital Cameras
+									</a>
+																	&nbsp;
+																	<br>
+												
+						</td>
+																
+					<!--tr bgcolor="#f6f6f6"><td style="border-bottom: 1px solid rgb(231, 231, 231);"><a href="customer/account/edit" class="account">Account Information</a></td></tr-->
+
+						</tr><tr>
+							 <td width="5"><img src="/published/SC/html/scripts/images/spacer.gif" width="1" height="1"></td>
+							 <td width="25" align="center">
+																	<img src="/published/SC/html/scripts/images/aeroGray.jpg" width="5" height="5">
+								&nbsp;
+							</td>
+							<td tyle="border-bottom: 1px solid #FF0000;">
+																					
+																																<a lass="lnkBlak" href="category/dvd-player-online" class="lnkBlak">
+										DVD Player
+									</a>
+																	&nbsp;
+																	<br>
+												
+						</td>
+																
+					<!--tr bgcolor="#f6f6f6"><td style="border-bottom: 1px solid rgb(231, 231, 231);"><a href="customer/account/edit" class="account">Account Information</a></td></tr-->
+
+						</tr><tr>
+							 <td width="5"><img src="/published/SC/html/scripts/images/spacer.gif" width="1" height="1"></td>
+							 <td width="25" align="center">
+																	<img src="/published/SC/html/scripts/images/aeroGray.jpg" width="5" height="5">
+								&nbsp;
+							</td>
+							<td tyle="border-bottom: 1px solid #FF0000;">
+																					
+																																<a lass="lnkBlak" href="category/video-games" class="lnkBlak">
+										Gaming
+									</a>
+																	&nbsp;
+																	<br>
+												
+						</td>
+																
+					<!--tr bgcolor="#f6f6f6"><td style="border-bottom: 1px solid rgb(231, 231, 231);"><a href="customer/account/edit" class="account">Account Information</a></td></tr-->
+
+						</tr><tr>
+							 <td width="5"><img src="/published/SC/html/scripts/images/spacer.gif" width="1" height="1"></td>
+							 <td width="25" align="center">
+																	<img src="/published/SC/html/scripts/images/aeroGray.jpg" width="5" height="5">
+								&nbsp;
+							</td>
+							<td tyle="border-bottom: 1px solid #FF0000;">
+																					
+																																<a lass="lnkBlak" href="category/best-hard-disks" class="lnkBlak">
+										Hard Disks
+									</a>
+																	&nbsp;
+																	<br>
+												
+						</td>
+																
+					<!--tr bgcolor="#f6f6f6"><td style="border-bottom: 1px solid rgb(231, 231, 231);"><a href="customer/account/edit" class="account">Account Information</a></td></tr-->
+
+						</tr><tr>
+							 <td width="5"><img src="/published/SC/html/scripts/images/spacer.gif" width="1" height="1"></td>
+							 <td width="25" align="center">
+																	<img src="/published/SC/html/scripts/images/aeroGray.jpg" width="5" height="5">
+								&nbsp;
+							</td>
+							<td tyle="border-bottom: 1px solid #FF0000;">
+																					
+																																<a lass="lnkBlak" href="category/home-appliances" class="lnkBlak">
+										Home Appliances
+									</a>
+																	&nbsp;
+																	<br>
+												
+						</td>
+																
+					<!--tr bgcolor="#f6f6f6"><td style="border-bottom: 1px solid rgb(231, 231, 231);"><a href="customer/account/edit" class="account">Account Information</a></td></tr-->
+
+						</tr><tr>
+							 <td width="5"><img src="/published/SC/html/scripts/images/spacer.gif" width="1" height="1"></td>
+							 <td width="25" align="center">
+																	<img src="/published/SC/html/scripts/images/aeroGray.jpg" width="5" height="5">
+								&nbsp;
+							</td>
+							<td tyle="border-bottom: 1px solid #FF0000;">
+																					
+																																<a lass="lnkBlak" href="category/home-theatres-speakers" class="lnkBlak">
+										Home Theatres &amp; Speakers
+									</a>
+																	&nbsp;
+																	<br>
+												
+						</td>
+																
+					<!--tr bgcolor="#f6f6f6"><td style="border-bottom: 1px solid rgb(231, 231, 231);"><a href="customer/account/edit" class="account">Account Information</a></td></tr-->
+
+						</tr><tr>
+							 <td width="5"><img src="/published/SC/html/scripts/images/spacer.gif" width="1" height="1"></td>
+							 <td width="25" align="center">
+																	<img src="/published/SC/html/scripts/images/aeroGray.jpg" width="5" height="5">
+								&nbsp;
+							</td>
+							<td tyle="border-bottom: 1px solid #FF0000;">
+																					
+																																<a lass="lnkBlak" href="category/electronic-hot-deals" class="lnkBlak">
+										Hot Deals
+									</a>
+																	&nbsp;
+																	<br>
+												
+						</td>
+																
+					<!--tr bgcolor="#f6f6f6"><td style="border-bottom: 1px solid rgb(231, 231, 231);"><a href="customer/account/edit" class="account">Account Information</a></td></tr-->
+
+						</tr><tr>
+							 <td width="5"><img src="/published/SC/html/scripts/images/spacer.gif" width="1" height="1"></td>
+							 <td width="25" align="center">
+																	<img src="/published/SC/html/scripts/images/aeroGray.jpg" width="5" height="5">
+								&nbsp;
+							</td>
+							<td tyle="border-bottom: 1px solid #FF0000;">
+																					
+																																<a lass="lnkBlak" href="category/best-memory-cards" class="lnkBlak">
+										Memory Cards
+									</a>
+																	&nbsp;
+																	<br>
+												
+						</td>
+																
+					<!--tr bgcolor="#f6f6f6"><td style="border-bottom: 1px solid rgb(231, 231, 231);"><a href="customer/account/edit" class="account">Account Information</a></td></tr-->
+
+						</tr><tr>
+							 <td width="5"><img src="/published/SC/html/scripts/images/spacer.gif" width="1" height="1"></td>
+							 <td width="25" align="center">
+																	<img src="/published/SC/html/scripts/images/aeroGray.jpg" width="5" height="5">
+								&nbsp;
+							</td>
+							<td tyle="border-bottom: 1px solid #FF0000;">
+																					
+																																<a lass="lnkBlak" href="category/mobile-phones" class="lnkBlak">
+										Mobile Phones
+									</a>
+																	&nbsp;
+																	<br>
+												
+						</td>
+																
+					<!--tr bgcolor="#f6f6f6"><td style="border-bottom: 1px solid rgb(231, 231, 231);"><a href="customer/account/edit" class="account">Account Information</a></td></tr-->
+
+						</tr><tr>
+							 <td width="5"><img src="/published/SC/html/scripts/images/spacer.gif" width="1" height="1"></td>
+							 <td width="25" align="center">
+																	<img src="/published/SC/html/scripts/images/aeroGray.jpg" width="5" height="5">
+								&nbsp;
+							</td>
+							<td tyle="border-bottom: 1px solid #FF0000;">
+																					
+																																<a lass="lnkBlak" href="category/mp3-players" class="lnkBlak">
+										MP3 Players
+									</a>
+																	&nbsp;
+																	<br>
+												
+						</td>
+																
+					<!--tr bgcolor="#f6f6f6"><td style="border-bottom: 1px solid rgb(231, 231, 231);"><a href="customer/account/edit" class="account">Account Information</a></td></tr-->
+
+						</tr><tr>
+							 <td width="5"><img src="/published/SC/html/scripts/images/spacer.gif" width="1" height="1"></td>
+							 <td width="25" align="center">
+																	<img src="/published/SC/html/scripts/images/aeroGray.jpg" width="5" height="5">
+								&nbsp;
+							</td>
+							<td tyle="border-bottom: 1px solid #FF0000;">
+																					
+																																<a lass="lnkBlak" href="category/pen-drives" class="lnkBlak">
+										Pen Drives
+									</a>
+																	&nbsp;
+																	<br>
+												
+						</td>
+																
+					<!--tr bgcolor="#f6f6f6"><td style="border-bottom: 1px solid rgb(231, 231, 231);"><a href="customer/account/edit" class="account">Account Information</a></td></tr-->
+
+						</tr><tr>
+							 <td width="5"><img src="/published/SC/html/scripts/images/spacer.gif" width="1" height="1"></td>
+							 <td width="25" align="center">
+																	<img src="/published/SC/html/scripts/images/aeroGray.jpg" width="5" height="5">
+								&nbsp;
+							</td>
+							<td tyle="border-bottom: 1px solid #FF0000;">
+																					
+																																<a lass="lnkBlak" href="category/photography-lenses" class="lnkBlak">
+										Photography Lenses
+									</a>
+																	&nbsp;
+																	<br>
+												
+						</td>
+																
+					<!--tr bgcolor="#f6f6f6"><td style="border-bottom: 1px solid rgb(231, 231, 231);"><a href="customer/account/edit" class="account">Account Information</a></td></tr-->
+
+						</tr><tr>
+							 <td width="5"><img src="/published/SC/html/scripts/images/spacer.gif" width="1" height="1"></td>
+							 <td width="25" align="center">
+																	<img src="/published/SC/html/scripts/images/aeroGray.jpg" width="5" height="5">
+								&nbsp;
+							</td>
+							<td tyle="border-bottom: 1px solid #FF0000;">
+																					
+																																<a lass="lnkBlak" href="category/projectors" class="lnkBlak">
+										Projectors
+									</a>
+																	&nbsp;
+																	<br>
+												
+						</td>
+																
+					<!--tr bgcolor="#f6f6f6"><td style="border-bottom: 1px solid rgb(231, 231, 231);"><a href="customer/account/edit" class="account">Account Information</a></td></tr-->
+
+						</tr><tr>
+							 <td width="5"><img src="/published/SC/html/scripts/images/spacer.gif" width="1" height="1"></td>
+							 <td width="25" align="center">
+																	<img src="/published/SC/html/scripts/images/aeroGray.jpg" width="5" height="5">
+								&nbsp;
+							</td>
+							<td tyle="border-bottom: 1px solid #FF0000;">
+																					
+																																<a lass="lnkBlak" href="category/systems-softwares" class="lnkBlak">
+										Softwares
+									</a>
+																	&nbsp;
+																	<br>
+												
+						</td>
+																
+					<!--tr bgcolor="#f6f6f6"><td style="border-bottom: 1px solid rgb(231, 231, 231);"><a href="customer/account/edit" class="account">Account Information</a></td></tr-->
+
+						</tr><tr>
+							 <td width="5"><img src="/published/SC/html/scripts/images/spacer.gif" width="1" height="1"></td>
+							 <td width="25" align="center">
+																	<img src="/published/SC/html/scripts/images/aeroGray.jpg" width="5" height="5">
+								&nbsp;
+							</td>
+							<td tyle="border-bottom: 1px solid #FF0000;">
+																					
+																																<a lass="lnkBlak" href="category/televisions-sale" class="lnkBlak">
+										Television
+									</a>
+																	&nbsp;
+																	<br>
+												
+						</td>
+														
+					
+				</tr>
+			</tbody></table>
+			
+						
+		</td>
+		<td width="8"></td> 
+					<!-- END : Left Container -->
+										<!-- START : CONTENT Container -->
+					<!--/*
+********************************************************************************
+Project Name       : Smartshoppers					 							*
+Last Modified By	: Vijayakumar. S 											*
+Modified On		: 20.04.2009												*
+Version            : 1.0														*
+Description        : Code for display center content details           		*
+********************************************************************************
+*/-->
+
+	<td width="791" valign="top">
+		<table cellspacing="0" cellpadding="0" border="0" width="791" style="border:#919191 1px solid;">
+			<tbody><tr><td style="padding-left:12px; padding-top:3px;">
+				<div class="cpt_maincontent "><table border="0" cellspacing="0" cellpadding="0" width="97%">
+  <tbody><tr> 
+    <td height="10"><img src="http://www.smartshoppers.in/published/publicdata/SMARTSHOPPERLIVE/attachments/SC/images/others/spacer.gif" alt="" width="1" height="1"></td>
+  </tr>
+  <tr> 
+    <td height="18" background="http://www.smartshoppers.in/published/publicdata/SMARTSHOPPERLIVE/attachments/SC/images/others/greay_bckgrnd.gif"><font face="Arial, Helvetica, sans-serif" size="2" color="#ffffff"><strong>&nbsp;&nbsp;<font color="#000000">PRIVACY 
+      POLICY:</font></strong> </font></td>
+  </tr>
+  <tr> 
+    <td><font face="Arial, Helvetica, sans-serif" size="2"><strong><br>
+      <div align="justify"><font color="#333333">1. GENERAL PRINCIPLES</font></div>
+      </strong> </font> <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="#333333">Protecting 
+        your privacy is very important to us. We have accordingly developed this 
+        Privacy Policy to protect your personal information and keep it confidential. 
+        We endeavour to comply with laws of other countries but cannot and do 
+        not warrant that we do. We do everything we reasonably can to protect 
+        your rights of privacy on systems and the Website controlled by us, but 
+        we are not liable for any unauthorised or unlawful disclosures of your 
+        personal and confidential information made by third parties who are not 
+        subject to our control, for example advertisers and websites that have 
+        links to our Website. You should take note that the information and privacy 
+        practices of our business partners, advertisers, sponsors or other sites 
+        to which we provide hyperlinks, may be different from ours.</font></p>
+      <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="#333333"><br>
+        We want you to </font></p>
+      <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="#333333">• 
+        feel comfortable using our web sites <br>
+        • feel secure submitting information to us <br>
+        • contact us with your questions or concerns about privacy on this 
+        site <br>
+        • know that by using our sites you are consenting to the collection 
+        of certain data</font></p>
+      <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="#333333">We 
+        categorise information about you (collectively referred to as "Personal 
+        Information") as follows: </font></p>
+      <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="#333333"><br>
+        (a) Profiling Information: Information which you provide when you register 
+        for a Service, which may include some or all of the following:<br>
+        - Information about your personal identity such as gender, marital status, 
+        age etc.;<br>
+        - Your financial information such as your banking details and any information 
+        relating to your income and lifestyle levels; and<br>
+        - Your contact details such as your physical addresses, postal addresses, 
+        telephone and fax numbers and the like.<br>
+        (b) Payment and Account Information: Your account history with us including 
+        (without limitation) all billing information and communications, payment 
+        history etc. We maintain this in encrypted form on secure servers.<br>
+        (c) Service Usage: Information about your navigation using our Services, 
+        for example the URLs of websites, which you visit and from which you request 
+        downloads.<br>
+        (d) Log information: Information such as your web request, IP address, 
+        browser type, browser language, date and time of request.<br>
+        (e) Transactional Information: Transactional history (other than banking 
+        details) about your e-commerce activities.<br>
+        (f) Correspondence Information: Content, information about your correspondents, 
+        and the destination/origin of communications between you and any other 
+        person using our Services, which include email communications, blog, chat 
+        room and discussion board communications, instant message communications, 
+        experts forum communications, faxmail communications, membership of mailing 
+        lists etc.<br>
+        (g) User IDs: Your usernames, passwords, email addresses and other security-related 
+        information used by you in relation to our Services.<br>
+        (h) Stored Information: Data either created by you or by a third party 
+        and which you wish to store on our servers such as image files, documents 
+        etc.</font> </p>
+      <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="#333333">We 
+        only collect your Personal Information to conduct our business and to 
+        enable us to deliver and improve our Services. We do not for any reason 
+        whatsoever sell your Personal Information to any third party or otherwise 
+        trade on it. </font></p>
+      <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="#333333"><br>
+        We will only disclose your Personal Information in accordance with this 
+        Privacy Policy. If we want to use it for any other purpose, we will obtain 
+        your prior written consent.<br>
+        If you decline to submit personal information to us, then we will unfortunately 
+        not be in a position to provide the Services to you.<br>
+        Any of your information which you provide when you use certain Services 
+        and are to an open, public environment or forum including (without limitation) 
+        any blog, community or discussion board, is not confidential, does not 
+        constitute Personal Information, and is not subject to protection under 
+        Privacy Policy. <br>
+        Since such public environments are accessible by third parties, it is 
+        possible that third parties may collect and collate and use such information 
+        for their own purposes. You should accordingly be careful when deciding 
+        to share any of your Personal Information in such public environments. 
+        <br>
+        Information, which is disclosed publicly, is also shared with our affiliates, 
+        third party service providers, sponsors of competitions etc. unless expressly 
+        stated otherwise.<br>
+        We are not liable to you or any third party for any damages that you or 
+        any third party may suffer howsoever arising from your disclosure of Personal 
+        Information in any public environment. You accordingly disclose information 
+        in a public environment at your own risk.</font></p>
+      <p align="justify">&nbsp;</p>
+      <p align="justify">&nbsp;</p>
+      <p align="justify"><font color="#333333"><strong><font face="Arial, Helvetica, sans-serif" size="2">2. 
+        RIGHT TO COLLECT</font></strong></font></p>
+      <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="#333333"> 
+        By accepting the Terms of Service you agree that we may collect and store 
+        your Personal Information as long as you use our Services subject to the 
+        limitations set out in this Privacy Policy. </font></p>
+      <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="#333333"> 
+        2.1 We collect your Profiling and Account Information for the following 
+        reasons:<br>
+        (a) We need your identity details, contact details, banking information 
+        and account history to manage our relationship with you and provide Services 
+        to you. We will only disclose this information as provided below. <br>
+        (b) We use certain of your information in an aggregated form to compile 
+        statistical and demographical profiles for our business and marketing 
+        activities. We may disclose such information about you, provided that 
+        the information is in an aggregated form that is not capable of being 
+        used or interpreted in such a manner as to identify you. <br>
+        2.2 We collect and store your Service Usage and Transactional Information 
+        to:<br>
+        (a) determine and verify the Service Charges payable by you and to administer 
+        our relationship with you. <br>
+        (b) comply with any statutory or regulatory requirement. <br>
+        (c) compile statistical and demographical profiles about you for our business 
+        and marketing activities and to customise our Services to you. While we 
+        are entitled to use such information about you for our own internal business 
+        purposes without limitation, we will only disclose it in an aggregated 
+        form which is not capable of being used or interpreted in such a manner 
+        as to identify you; and<br>
+        (d) monitor your use of our Services for the purposes of ensuring compliance 
+        with our Terms of Service.<br>
+        2.3 We collect and store your Correspondence Information and Personal 
+        Identifiers to:<br>
+        (a) comply with our obligations under law; and<br>
+        (b) monitor your use of our Services in order to ensure your compliance 
+        with our Terms of Service.<br>
+        Any Personal Information which we collect and which we may use in an aggregated 
+        format ensuring you are not individually identified is our property. We 
+        may use it, in our sole discretion and without any compensation to you, 
+        for any legitimate purpose including (without limitation) the commercial 
+        sale thereof to third parties. </font></p>
+      <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="#333333">Sometime 
+        we use "cookies" so that we can provide you with more customised 
+        information when you return to our website. "Cookies" are used 
+        to store user preferences and to track user trends, so as to enhance your 
+        interactive experience and generally improve our Services to you. You 
+        can set your browser to notify you when you are sent a "cookie", 
+        giving you the chance to decide whether or not to accept it. If you do 
+        accept a "cookie", you thereby agree to our use of any Personal 
+        Information collected by us using that Cookie.<br>
+        You may update your Profiling Information at any time on the website. 
+        <br>
+        You acknowledge and agree that in the interests of improving personalisation 
+        and Service efficiency, we may, under controlled and secure circumstances, 
+        share your Personal Information with our affiliates (an entity which is 
+        our subsidiary or holding company or a subsidiary of our holding company 
+        or an entity which controls, is controlled by or is under common control 
+        with us).</font></p>
+      <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="#333333"><br>
+        <strong>3. GENERAL EXCEPTIONS</strong></font></p>
+      <p align="justify"><font face="Arial, Helvetica, sans-serif" size="2" color="#333333"> 
+        If we are required to intercept, disclose, monitor and/or store your Personal 
+        Information:<br>
+        (a) by law; <br>
+        (b) to conduct our business; <br>
+        (c) to secure our systems; or<br>
+        (d) to enforce our own rights,<br>
+        we will do so in the manner as prescribed by law.</font><font color="#333333"><br>
+        <br>
+        <font face="Arial, Helvetica, sans-serif" size="2">Such interception, 
+        disclosure, monitoring and storage may take place without your knowledge. 
+        In that case, we will not be liable to you or any third party for any 
+        damages howsoever arising from such interception, disclosure, monitoring 
+        and storage. In order to ensure that all our Users comply with the Terms 
+        of Service, we may monitor your Personal Information to the extent that 
+        this may be required to determine compliance and/or to identify instances 
+        of non-compliance. To ensure that the security and integrity of our Services 
+        are safeguarded, we may monitor your Personal Information. This monitoring 
+        may include (without limitation) the filtering of incoming and outgoing 
+        electronic data messages to identify, limit and/or prevent the transmission 
+        of spam, viruses and/or unlawful, defamatory, obscene or otherwise undesirable 
+        material or content. We may under certain circumstances procure an element 
+        of the Services from a third party service provider. To the extent that 
+        it may be necessary, and solely for the purposes of providing the Service 
+        to you, you agree that we may disclose to such third party any of your 
+        Personal Information that may be necessary for the procurement of services 
+        from the third party.</font></font></p>
+      <p>&nbsp;</p></td>
+  </tr>
+</tbody></table>
+
+</div>
+			</td></tr>
+			
+		</tbody></table>
+	</td>
+					<!-- END : CONTENT Container -->
+										
+				</tr>
+				</tbody></table>
+			</td></tr>	
+			
+			
+				
+			
+			<!-- START : Footer Container -->	
+				<tr bgcolor="#FFFFFF">
+<td>&nbsp;</td>
+</tr>
+<tr bgcolor="#FFFFFF">
+	<td height="2" bgcolor="#d6d6d6"></td>
+</tr>
+<tr bgcolor="#FFFFFF"><td class="bgFooter">
+copyright @2008 smartshoppers.in All right Reserved
+	<br><a href="http://www.smartshoppers.in/" class="topLinks">Home</a> &nbsp; | &nbsp;
+ 	<a href="http://www.smartshoppers.in/auxpage_1" class="topLinks">About Us</a> &nbsp; | &nbsp;
+ 	<a href="http://www.smartshoppers.in/auxpage_5" class="topLinks">Privacy Policy</a> &nbsp; | &nbsp;
+ 	<a href="http://www.smartshoppers.in/auxpage_6" class="topLinks">Help / FAQ</a> &nbsp; | &nbsp;
+ 	<a href="http://www.smartshoppers.in/auxpage_7" class="topLinks">Shipping Policy</a> &nbsp; | &nbsp; 
+ 	<a href="http://www.smartshoppers.in/auxpage_8" class="topLinks">Disclaimer</a> &nbsp; | &nbsp; 
+ 	<a href="http://www.smartshoppers.in/auxpage_4" class="topLinks">Terms &amp; Condition</a> &nbsp; | &nbsp; 
+ 	<a href="http://www.smartshoppers.in/feedback" class="topLinks">Feed Back</a>
+ </td></tr>
+ 
+			<!-- END : Footer Container -->
+			
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+		
+		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+		</script>
+		<script type="text/javascript">
+		  _uacct="UA-9750770-1";
+		  urchinTracker();
+		</script>
+	
+	<!--Start Kampyle Feedback Form Button-->
+	<div id="k_close_button" class="k_float kc_bottom kc_right"></div><div><a href="http://www.smartshoppers.in/index.php?ukey=feedback" id="kampylink" class="k_float k_bottom k_right"><img src="/published/SC/html/scripts/images/smart_feedback.gif" alt="Feedback Form" border="0"></a></div>
+<!--	<div id="k_close_button" class="k_float kc_bottom kc_right"></div><div><a href="http://www.smartshoppers.in/index.php?ukey=feedback"><img src="/published/SC/html/scripts/images/smart_feedback.gif" alt="Feedback Form" border="0"/></a></div>-->
+	<script src="http://cf.kampyle.com/k_button.js" type="text/javascript"></script>
+	<script type="text/javascript" src="http://cf.kampyle.com/k_push.js"></script>
+	<!--End Kampyle Feedback Form Button-->	
+	
+
+</body></html>
