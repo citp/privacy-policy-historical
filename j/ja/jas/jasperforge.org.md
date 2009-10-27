@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the jasperforge.org privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417180739id_/http%3A//jasperforge.org/displaypage.php%3Fact%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jasperforge.org privacy policy that was archived on 2009-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091027183409id_/http%3A//jasperforge.org/displaypage.php%3Fact%3D4%26content%3Dfooter) for the most accurate reproduction.*
 
 # JasperForge
+
+| 
 
 **Privacy Policy**
 
@@ -77,3 +79,12 @@ San Francisco, CA 94107
 
   
 
+
+|   | |   
+---  
+|   
+---  
+  
+Drupal for Content Management Great news announced this week from our colleagues at Acquia, the commercial open source backers of the Drupal web content management tool. The White House’s...[ MORE](https://web.archive.org/plugins/wpress/)>  
+  
+[](http://jasperforge.org/plugins/project/external_links.php?loc=front&band=MzQ= "New in the Jaspersoft Store!")
