@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supersimplemarketing.com privacy policy that was archived on 2009-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090401073634id_/http%3A//supersimplemarketing.com/%3Fpage_id%3D14) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supersimplemarketing.com privacy policy that was archived on 2009-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091027020947id_/http%3A//supersimplemarketing.com/14) for the most accurate reproduction.*
 
 # Privacy Policy | Super Simple Marketing
 
