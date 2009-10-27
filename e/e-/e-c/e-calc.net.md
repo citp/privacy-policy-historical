@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-calc.net privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627205218id_/http%3A//www.e-calc.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-calc.net privacy policy that was archived on 2009-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091027135446id_/http%3A//www.e-calc.net/privacy.php) for the most accurate reproduction.*
 
 # Free Articles, Tutorials and Calculators - business,computers,health,family,travel
 
