@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the optizmo.net privacy policy that was archived on 2009-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090627004157id_/http%3A//www.optizmo.net/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the optizmo.net privacy policy that was archived on 2009-10-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091027222338id_/http%3A//www.optizmo.net/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Optizmo Technologies</title>
@@ -9,7 +9,14 @@
 <meta name="keywords" content="Suppression List Management - Global CAN-SPAM and Email Compliance Company. Solution for automating suppression file management and streamlining all of your subscribers OPT-IN and OPT-OUT preferences">
 <link rel="stylesheet" type="text/css" media="screen" href="tmpl_main.css">
 <meta name="verify-v1" content="ZxqhcdegLIEoNSXoHrwG3WicpDQAcwanPnEoFYc8gOM=">
-<!-- <link rel="Shortcut Icon" href="favicon.ico" type="image/x-icon" /> -->
+
+<link rel="Shortcut Icon" href="favicon.ico" type="image/x-icon">
+
+<!--[if lt IE 7]>
+<style>
+#container { height: 100%; }
+</style>
+<![endif]-->
 
 <!--[if IE]>
 <style>
@@ -23,65 +30,81 @@
 <script type="text/javascript" src="include/mootools-1.2.1-core-yc.js"></script>
 <script type="text/javascript">
 window.addEvent('domready',function(){
-	$('loginLink').addEvent('click', function(e){
+	$('login').getChildren('a')[0].addEvent('click', function(e){
 		e.preventDefault();
 		window.location=unescape("https://client.optizmo.net/client.html%26s=Login");
 	});
 });
 </script>
 
+<link rel="stylesheet" href="include/sifr/css/sifr.css" type="text/css">
+<script src="include/sifr/js/sifr.js" type="text/javascript"></script>
+<script type="text/javascript">
+var steinem = {
+	src: 'museosans.swf',
+	ratios: [7,1.32,11,1.31,13,1.24,14,1.25,19,1.23,27,1.2,34,1.19,42,1.18,47,1.17,48,1.18,69,1.17,74,1.16,75,1.17,1.16]
+};
+
+sIFR.domains = ['*','www.optizmo.net'];
+sIFR.useStyleCheck = true;
+sIFR.activate(steinem);
+
+sIFR.replace(steinem, {
+	selector: 'h1',
+	wmode: 'transparent',
+	forceWidth: true,
+	css: {
+		'.sIFR-root': { 'color': '#FFFFFF' }
+	},
+	offsetTop: 4,
+	filters: {
+		DropShadow: { distance: 1, color: '#000000', strength: 2 }
+	}
+});
+
+sIFR.replace(steinem, {
+	selector: '.homeFeatures h2, .homeLeft h2, .box1 h2, h2.replace',
+	wmode: 'transparent',
+	forceWidth: true,
+	css: [
+		'.sIFR-root { color: #FFFFFF }',
+		'a { text-decoration: none; }',
+		'a:link { color: #ffffff; }',
+		'a:hover { color: #ffa019; }'
+		
+	],
+	tuneHeight: '+2',
+	offsetTop: 4
+});
+</script>
+
 </head>
-<body style="padding: 0; margin: 0; background: #151515 url(images/banner-bg.png) repeat-x 0 85px">
+<body style="padding: 0; margin: 0; background: #000000 url(images/body-bg.jpg) repeat-y center center; height: 100%">
 
-<div id="container" class="clearfix">
+<div id="container" class="flagBanner">
+<div id="subcontainer">
 
-<div id="loginBox">
- <a href="#" id="loginLink">Client Login</a>
-</div>
 
 <div id="header">
  <ul id="nav" class="clearfix ">
-  <li><a href="/" class="home">Home</a></li>
-  <li><a href="solutions.html" class="solutions">Solutions</a></li>
-  <li><a href="oursystem.html" class="oursystem">Our System</a></li>
-  <li><a href="canspam.html" class="canspam">CAN-SPAM</a></li>
-  <li><a href="resources.html" class="resources">Resources</a></li>
-  <li><a href="faq.html" class="faq">FAQ</a></li>
-  <li><a href="contact.html" class="contact">Contact</a></li>
+  <li id="oursystem"><a href="oursystem.html">Our System</a></li>
+  <li id="solutions"><a href="solutions.html">Solutions</a></li>
+  <li id="canspam"><a href="canspam.html">CAN-SPAM</a></li>
+  <li id="resources"><a href="resources.html">Resources</a></li>
+  <li id="faq"><a href="faq.html">FAQ</a></li>
+  <li id="contact"><a href="contact.html">Contact</a></li>
+  <li id="login"><a href="#">Client Login</a></li>
  </ul>
  <a href="/"><img src="images/logo.png" alt="Optizmo Suppression List Management" class="logo"></a>
 </div>
+
+
 <div class="banner">
- <ul class="bannerBox">
-  <li class="box">
-   <h2>Optimum<span>Security</span></h2>
-   <ul>
-   <li>File Encryption (MD5)*</li>
-   <li>Secure Login</li>
-   <li>User Hierarchy</li>
-   </ul>
-   <p class="more"><a href="optout.html" title="Opt-Out Packages">Learn More »</a></p>
-  </li>
-  <li class="box">
-   <h2>Optimum<span>Visibility</span></h2>
-   <ul>
-   <li>Monitoring &amp; Analytics</li>
-   <li>Individual Download Seeding</li>
-   <li>System Dashboard</li>
-   </ul>
-   <p class="more"><a href="oursystem.html" title="Our System">Learn More »</a></p>
-  </li>
-  <li class="box">
-   <h2>Optimum<span>Compliance</span></h2>
-   <ul>
-   <li>CAN-SPAM ACT (FTC)</li>
-   <li>Brand Integrity</li>
-   <li>Intelligent Marketing</li>
-   </ul>
-   <p class="more"><a href="canspam.html" title="About the CAN-SPAM Act">Learn More »</a></p>
-  </li>
- </ul>
+ 
+ <div class="demo"><a href="demo.html">Request a Demo</a></div>
 </div>
+
+
 <div class="content clearfix">
 
 
@@ -118,7 +141,16 @@ window.addEvent('domready',function(){
 <p><span>From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If we make such a change, we will post a notice on our Website home page, or notify you by email, at which time you will be able to "opt out" of these new practices by contacting us (using the contact information above). If you are concerned about how your information is used, please check our Website periodically to review our current privacy policy.</span></p>
 
 </div> <!-- /content -->
-<div id="footer" class="clearfix">
+</div> <!-- /subcontainer -->
+<div id="clearfooter"></div>
+</div> <!-- /container -->
+
+
+<div id="footer">
+ <div style="margin: 0 auto; width: 968px; padding: 0 20px">
+ <ul>
+ <li>Copyright © 2009 Optizmo Technologies LLC</li>
+ </ul>
  <ul>
   <li><a href="/">Home</a></li> <li>|</li>
   <li><a href="solutions.html">Solutions</a></li> <li>|</li>
@@ -128,12 +160,12 @@ window.addEvent('domready',function(){
   <li><a href="faq.html">FAQ</a></li> <li>|</li>
   <li><a href="contact.html">Contact</a></li> <li>|</li>
   <li><a href="glossary.html">Glossary</a></li> <li>|</li>
+  <li><a href="demo.html">Demo</a></li> <li>|</li>
   <li><a href="privacy.html">Privacy</a></li> <li>|</li>
   <li><a href="terms.html">Terms</a></li>
  </ul>
- © 2009 Optizmo Technologies
+ </div>
 </div><!-- /footer -->
-</div> <!-- /container -->
 
 <!-- Google Analytics -->
 <script type="text/javascript">
