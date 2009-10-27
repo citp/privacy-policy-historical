@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepictures.us privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625123246id_/http%3A//www.thepictures.us/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepictures.us privacy policy that was archived on 2009-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091027032109id_/http%3A//www.thepictures.us/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # ThePictures.us » More Information » Privacy Policy
 
