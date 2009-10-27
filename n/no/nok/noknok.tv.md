@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noknok.tv privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625120437id_/http%3A//noknok.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noknok.tv privacy policy that was archived on 2009-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091027020942id_/http%3A//noknok.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | NokNok.tv
 
@@ -58,7 +58,7 @@ We ensure that your personal data will not be disclosed to State institutions an
 ### Access to the personal data we may hold about you
 
 You can ask us, by sending an email to jbc@noknok.tv asking whether we are keeping personal data about you.  
-Upon request, which you can indicate by sending an an email to jbc@noknok.tv we will provide you with a readable copy of the personal data which we keep about you, within a month. - although we may before require proof of your identity -. We will provide the information without any charge.  
+Upon request, which you can indicate by sending an an email to jbc@noknok.tv we will provide you with a readable copy of the personal data which we keep about you, within a month. – although we may before require proof of your identity -. We will provide the information without any charge.  
 We allow you to challenge the data that we hold about you and, where appropriate, you may have the data:  
 • erased  
 • rectified or amended  
