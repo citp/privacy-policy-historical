@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landandfarm.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626043225id_/http%3A//landandfarm.com/lf/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landandfarm.com privacy policy that was archived on 2009-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091027182730id_/http%3A//www.landandfarm.com/lf/about/privacy.asp) for the most accurate reproduction.*
 
 # LandAndFarm.com - Land for sale, Farms for sale, Rural Property for sale
 
@@ -42,12 +42,17 @@ Visit the following real estate pros for the best properties from around the wor
 
 * * *
 
-Debra Dodd, TENNESSEE](https://web.archive.org/lf/asp/search_results.asp?clientsid=2154)  
+_(Jacskon)_ Jackson Real Estate and Auction Firm#2789, Other](https://web.archive.org/lf/asp/search_results.asp?clientsid=106377)  
 [
 
 * * *
 
-Anne Barnett, FLORIDA](https://web.archive.org/lf/asp/search_results.asp?clientsid=2426)  
+ _(Goode)_ AlaLandCo, Other](https://web.archive.org/lf/asp/search_results.asp?clientsid=102774)  
+[
+
+* * *
+
+Debra Dodd, TENNESSEE](https://web.archive.org/lf/asp/search_results.asp?clientsid=2154)  
 [
 
 * * *
@@ -57,12 +62,22 @@ Thomas Woodyard, FL](https://web.archive.org/lf/asp/search_results.asp?clientsid
 
 * * *
 
-Jackson Bone, GEORGIA](https://web.archive.org/lf/asp/search_results.asp?clientsid=23233)  
+ _(Davis)_ THE LAND SOURCE, Other](https://web.archive.org/lf/asp/search_results.asp?clientsid=94008)  
 [
 
 * * *
 
-Leslie Armstrong, MO](https://web.archive.org/lf/asp/search_results.asp?clientsid=81013)  
+Anne Barnett, FLORIDA](https://web.archive.org/lf/asp/search_results.asp?clientsid=2426)  
+[
+
+* * *
+
+ _(Johnson)_ ERA Crunk Real Estate, TENNESSEE](https://web.archive.org/lf/asp/search_results.asp?clientsid=25440)  
+[
+
+* * *
+
+Jackson Bone, GEORGIA](https://web.archive.org/lf/asp/search_results.asp?clientsid=23233)  
 [
 
 * * *
@@ -72,112 +87,12 @@ Leslie Armstrong, MO](https://web.archive.org/lf/asp/search_results.asp?clientsi
 
 * * *
 
+Dan Tate, CA](https://web.archive.org/lf/asp/search_results.asp?clientsid=80734)  
+[
+
+* * *
+
 Grant Glasgow, KS](https://web.archive.org/lf/asp/search_results.asp?clientsid=81008)  
-[
-
-* * *
-
-The Bryant Green Team, GA](https://web.archive.org/lf/asp/search_results.asp?clientsid=80618)  
-[
-
-* * *
-
-Fred Kermani Ccim Aia, FL](https://web.archive.org/lf/asp/search_results.asp?clientsid=80922)  
-[
-
-* * *
-
-Ty-Par Commercial Realty, NC](https://web.archive.org/lf/asp/search_results.asp?clientsid=80637)  
-[
-
-* * *
-
-Roy Horn Iii, TX](https://web.archive.org/lf/asp/search_results.asp?clientsid=80869)  
-[
-
-* * *
-
-Karen Chapman, OHIO](https://web.archive.org/lf/asp/search_results.asp?clientsid=22124)  
-[
-
-* * *
-
-Bill Gaughan, KANSAS](https://web.archive.org/lf/asp/search_results.asp?clientsid=24913)  
-[
-
-* * *
-
-C. Marshall Kibler, SC](https://web.archive.org/lf/asp/search_results.asp?clientsid=81434)  
-[
-
-* * *
-
- _(Atkins)_ State Wide Realty, VIRGINIA](https://web.archive.org/lf/asp/search_results.asp?clientsid=72705)  
-[
-
-* * *
-
-Art Barry Iii Sior, GA](https://web.archive.org/lf/asp/search_results.asp?clientsid=80615)  
-[
-
-* * *
-
-David Duke, ALABAMA](https://web.archive.org/lf/asp/search_results.asp?clientsid=25571)  
-[
-
-* * *
-
-Bill Korek, CA](https://web.archive.org/lf/asp/search_results.asp?clientsid=81556)  
-[
-
-* * *
-
-Ron Bogie Walker, GA](https://web.archive.org/lf/asp/search_results.asp?clientsid=81514)  
-[
-
-* * *
-
-michael Silverman, SC](https://web.archive.org/lf/asp/search_results.asp?clientsid=81602)  
-[
-
-* * *
-
-Matthew Cravey Ccimsiorrecs, TX](https://web.archive.org/lf/asp/search_results.asp?clientsid=81716)  
-[
-
-* * *
-
- _(Shankar)_ Keller Williams Benchmark Properties, Other](https://web.archive.org/lf/asp/search_results.asp?clientsid=98033)  
-[
-
-* * *
-
-Terry Bomier, WI](https://web.archive.org/lf/asp/search_results.asp?clientsid=80915)  
-[
-
-* * *
-
-Real Estate For Sale, IA](https://web.archive.org/lf/asp/search_results.asp?clientsid=34346)  
-[
-
-* * *
-
-Hope Emore, TENNESSEE](https://web.archive.org/lf/asp/search_results.asp?clientsid=28068)  
-[
-
-* * *
-
-Damon Wright, AR](https://web.archive.org/lf/asp/search_results.asp?clientsid=80893)  
-[
-
-* * *
-
- _(Mitchell (B) SIOR, EVP)_ Colliers Monroe Friedlander, Other](https://web.archive.org/lf/asp/search_results.asp?clientsid=96060)  
-[
-
-* * *
-
-Duane Watson, FL](https://web.archive.org/lf/asp/search_results.asp?clientsid=82353)  
 [
 
 * * *
@@ -187,7 +102,77 @@ Steve Fineberg, AR](https://web.archive.org/lf/asp/search_results.asp?clientsid=
 
 * * *
 
-Scott Hensley Ccim Sior, NC](https://web.archive.org/lf/asp/search_results.asp?clientsid=82236)  
+Fred Kermani Ccim Aia, FL](https://web.archive.org/lf/asp/search_results.asp?clientsid=80922)  
+[
+
+* * *
+
+C. Marshall Kibler, SC](https://web.archive.org/lf/asp/search_results.asp?clientsid=81434)  
+[
+
+* * *
+
+Karen Chapman, OHIO](https://web.archive.org/lf/asp/search_results.asp?clientsid=22124)  
+[
+
+* * *
+
+Timothy Maceachen Ccim Sior, NM](https://web.archive.org/lf/asp/search_results.asp?clientsid=81422)  
+[
+
+* * *
+
+Randy Mcmillan, NM](https://web.archive.org/lf/asp/search_results.asp?clientsid=81478)  
+[
+
+* * *
+
+Roy Horn Iii, TX](https://web.archive.org/lf/asp/search_results.asp?clientsid=80869)  
+[
+
+* * *
+
+Ron Bogie Walker, GA](https://web.archive.org/lf/asp/search_results.asp?clientsid=81514)  
+[
+
+* * *
+
+Art Barry Iii Sior, GA](https://web.archive.org/lf/asp/search_results.asp?clientsid=80615)  
+[
+
+* * *
+
+Kent Arnold, AR](https://web.archive.org/lf/asp/search_results.asp?clientsid=80821)  
+[
+
+* * *
+
+michael Silverman, SC](https://web.archive.org/lf/asp/search_results.asp?clientsid=81602)  
+[
+
+* * *
+
+Bill Korek, CA](https://web.archive.org/lf/asp/search_results.asp?clientsid=81556)  
+[
+
+* * *
+
+Ty-Par Commercial Realty, NC](https://web.archive.org/lf/asp/search_results.asp?clientsid=80637)  
+[
+
+* * *
+
+Hope Emore, TENNESSEE](https://web.archive.org/lf/asp/search_results.asp?clientsid=28068)  
+[
+
+* * *
+
+Matthew Cravey Ccimsiorrecs, TX](https://web.archive.org/lf/asp/search_results.asp?clientsid=81716)  
+[
+
+* * *
+
+ _(Atkins)_ State Wide Realty, VIRGINIA](https://web.archive.org/lf/asp/search_results.asp?clientsid=72705)  
 [
 
 * * *
@@ -197,32 +182,32 @@ Jeff Garrett, SOUTH DAKOTA](https://web.archive.org/lf/asp/search_results.asp?cl
 
 * * *
 
-Jim or Dan McEwen, TENNESSEE](https://web.archive.org/lf/asp/search_results.asp?clientsid=3875)  
+ _(Adame)_ Joe Adame & Associates, Inc, Other](https://web.archive.org/lf/asp/search_results.asp?clientsid=93756)  
 [
 
 * * *
 
-Kurt Zschau, VERMONT](https://web.archive.org/lf/asp/search_results.asp?clientsid=30666)  
+Duane Watson, FL](https://web.archive.org/lf/asp/search_results.asp?clientsid=82353)  
 [
 
 * * *
 
-Kevin Watt, TX](https://web.archive.org/lf/asp/search_results.asp?clientsid=86507)  
+ _(Reichert)_ Aspen Group Real Estate, Other](https://web.archive.org/lf/asp/search_results.asp?clientsid=106389)  
 [
 
 * * *
 
-Lee and Nicole Shortt, SOUTH CAROLINA](https://web.archive.org/lf/asp/search_results.asp?clientsid=5671)  
+Tammy Tengs, CA](https://web.archive.org/lf/asp/search_results.asp?clientsid=84218)  
 [
 
 * * *
 
-Steve Ebbert, GEORGIA](https://web.archive.org/lf/asp/search_results.asp?clientsid=5908)  
+Bill Gaughan, KANSAS](https://web.archive.org/lf/asp/search_results.asp?clientsid=24913)  
 [
 
 * * *
 
-Judith Parcel, MISSOURI](https://web.archive.org/lf/asp/search_results.asp?clientsid=6197)  
+Rodney Ghan, AR](https://web.archive.org/lf/asp/search_results.asp?clientsid=80678)  
 [
 
 * * *
@@ -237,42 +222,7 @@ Virginia R. Reid, MAINE](https://web.archive.org/lf/asp/search_results.asp?clien
 
 * * *
 
-Tom Bell, GEORGIA](https://web.archive.org/lf/asp/search_results.asp?clientsid=5834)  
-[
-
-* * *
-
-Walker Cate, SC](https://web.archive.org/lf/asp/search_results.asp?clientsid=83393)  
-[
-
-* * *
-
-Thornton Oliver Keller Commercial Real Estate, ID](https://web.archive.org/lf/asp/search_results.asp?clientsid=83232)  
-[
-
-* * *
-
-Randy Mcmillan, NM](https://web.archive.org/lf/asp/search_results.asp?clientsid=81478)  
-[
-
-* * *
-
- _(Eason)_ Ben Fitzgerald Real Estate Services, LLC, TEXAS](https://web.archive.org/lf/asp/search_results.asp?clientsid=1)  
-[
-
-* * *
-
-John Kardum, CA](https://web.archive.org/lf/asp/search_results.asp?clientsid=83839)  
-[
-
-* * *
-
-Mark Graham, OHIO](https://web.archive.org/lf/asp/search_results.asp?clientsid=21318)  
-[
-
-* * *
-
- _(Brown)_ Brown Realty Co. , LOUISIANA](https://web.archive.org/lf/asp/search_results.asp?clientsid=21517)  
+Johnny Owens, OK](https://web.archive.org/lf/asp/search_results.asp?clientsid=80941)  
 [
 
 * * *
@@ -282,32 +232,7 @@ Susan Clift Brown Ccim, NC](https://web.archive.org/lf/asp/search_results.asp?cl
 
 * * *
 
-Michael Frye, FL](https://web.archive.org/lf/asp/search_results.asp?clientsid=80827)  
-[
-
-* * *
-
-Rodney Ghan, AR](https://web.archive.org/lf/asp/search_results.asp?clientsid=80678)  
-[
-
-* * *
-
-Jane Wyatt, WEST VIRGINIA](https://web.archive.org/lf/asp/search_results.asp?clientsid=6087)  
-[
-
-* * *
-
- _(Kidder (S) CCIM, SIOR)_ Colliers Monroe Friedlander, Other](https://web.archive.org/lf/asp/search_results.asp?clientsid=96461)  
-[
-
-* * *
-
-Charity Boyer, GA](https://web.archive.org/lf/asp/search_results.asp?clientsid=83128)  
-[
-
-* * *
-
-Harold Galm, TX](https://web.archive.org/lf/asp/search_results.asp?clientsid=81770)  
+Jane Wyatt-Realtor, WEST VIRGINIA](https://web.archive.org/lf/asp/search_results.asp?clientsid=6087)  
 [
 
 * * *
@@ -317,112 +242,67 @@ Jon Daggett, CA](https://web.archive.org/lf/asp/search_results.asp?clientsid=836
 
 * * *
 
+Kurt Zschau, VERMONT](https://web.archive.org/lf/asp/search_results.asp?clientsid=30666)  
+[
+
+* * *
+
+David Duke, ALABAMA](https://web.archive.org/lf/asp/search_results.asp?clientsid=25571)  
+[
+
+* * *
+
+Lee and Nicole Shortt, SOUTH CAROLINA](https://web.archive.org/lf/asp/search_results.asp?clientsid=5671)  
+[
+
+* * *
+
+Thornton Oliver Keller Commercial Real Estate, ID](https://web.archive.org/lf/asp/search_results.asp?clientsid=83232)  
+[
+
+* * *
+
+Kevin Watt, TX](https://web.archive.org/lf/asp/search_results.asp?clientsid=86507)  
+[
+
+* * *
+
 Joey Bowman, TENNESSEE](https://web.archive.org/lf/asp/search_results.asp?clientsid=25998)  
 [
 
 * * *
 
-Mark Miller, IN](https://web.archive.org/lf/asp/search_results.asp?clientsid=81190)  
+Mark Graham, OHIO](https://web.archive.org/lf/asp/search_results.asp?clientsid=21318)  
 [
 
 * * *
 
-Johnny Bernhardt, SC](https://web.archive.org/lf/asp/search_results.asp?clientsid=84553)  
+Janie Hooker, FL](https://web.archive.org/lf/asp/search_results.asp?clientsid=80829)  
 [
 
 * * *
 
-Bill Ming, AL](https://web.archive.org/lf/asp/search_results.asp?clientsid=82526)  
+ _(Markle)_ CB Richard Ellis, Other](https://web.archive.org/lf/asp/search_results.asp?clientsid=107659)  
 [
 
 * * *
 
- _(or James Guajardo)_ PTE Real Estate Group, LLC, Other](https://web.archive.org/lf/asp/search_results.asp?clientsid=95598)  
+ _(Brown)_ Brown Realty Co. , LOUISIANA](https://web.archive.org/lf/asp/search_results.asp?clientsid=21517)  
 [
 
 * * *
 
-Johnny Owens, OK](https://web.archive.org/lf/asp/search_results.asp?clientsid=80941)  
+Real Estate For Sale, IA](https://web.archive.org/lf/asp/search_results.asp?clientsid=34346)  
 [
 
 * * *
 
-David Lefemine, TN](https://web.archive.org/lf/asp/search_results.asp?clientsid=81444)  
+Steve Ebbert, GEORGIA](https://web.archive.org/lf/asp/search_results.asp?clientsid=5908)  
 [
 
 * * *
 
-Kent Arnold, AR](https://web.archive.org/lf/asp/search_results.asp?clientsid=80821)  
-[
-
-* * *
-
-Ryan Gableman, IN](https://web.archive.org/lf/asp/search_results.asp?clientsid=83519)  
-[
-
-* * *
-
- _(Unger CCIM)_ Burris, Hennessy & Company, Other](https://web.archive.org/lf/asp/search_results.asp?clientsid=93879)  
-[
-
-* * *
-
-Reagan Crabtree, NC](https://web.archive.org/lf/asp/search_results.asp?clientsid=87679)  
-[
-
-* * *
-
-Glenn E. Palmer, FL](https://web.archive.org/lf/asp/search_results.asp?clientsid=81995)  
-[
-
-* * *
-
- _(Davis)_ THE LAND SOURCE, Other](https://web.archive.org/lf/asp/search_results.asp?clientsid=94008)  
-[
-
-* * *
-
-Casey Oldham, TX](https://web.archive.org/lf/asp/search_results.asp?clientsid=81712)  
-[
-
-* * *
-
-Randy Reid, TX](https://web.archive.org/lf/asp/search_results.asp?clientsid=80914)  
-[
-
-* * *
-
-Bob Sullivan, OK](https://web.archive.org/lf/asp/search_results.asp?clientsid=81563)  
-[
-
-* * *
-
-Kevin Wright, KENTUCKY](https://web.archive.org/lf/asp/search_results.asp?clientsid=24602)  
-[
-
-* * *
-
-Tim Clay, TX](https://web.archive.org/lf/asp/search_results.asp?clientsid=82059)  
-[
-
-* * *
-
-Western Land, AZ](https://web.archive.org/lf/asp/search_results.asp?clientsid=80799)  
-[
-
-* * *
-
-Sue Pellegrino, TX](https://web.archive.org/lf/asp/search_results.asp?clientsid=82300)  
-[
-
-* * *
-
-Brad Henley, TEXAS](https://web.archive.org/lf/asp/search_results.asp?clientsid=64280)  
-[
-
-* * *
-
-Paul Grisanti, KY](https://web.archive.org/lf/asp/search_results.asp?clientsid=91236)  
+ _(Derrick)_ Jackson Real Estate and Auction Firm#2789, Other](https://web.archive.org/lf/asp/search_results.asp?clientsid=106393)  
 [
 
 * * *
@@ -432,12 +312,62 @@ Insight Commercial, OK](https://web.archive.org/lf/asp/search_results.asp?client
 
 * * *
 
-Craig Kelly, MO](https://web.archive.org/lf/asp/search_results.asp?clientsid=86548)  
+John Kardum, CA](https://web.archive.org/lf/asp/search_results.asp?clientsid=83839)  
 [
 
 * * *
 
-Tim Carlson, GA](https://web.archive.org/lf/asp/search_results.asp?clientsid=82720)  
+Damon Wright, AR](https://web.archive.org/lf/asp/search_results.asp?clientsid=80893)  
+[
+
+* * *
+
+ _(Smith)_ Klickitat Valley Realty, Inc, Other](https://web.archive.org/lf/asp/search_results.asp?clientsid=107079)  
+[
+
+* * *
+
+Randy Reid, TX](https://web.archive.org/lf/asp/search_results.asp?clientsid=80914)  
+[
+
+* * *
+
+Bill Ming, AL](https://web.archive.org/lf/asp/search_results.asp?clientsid=82526)  
+[
+
+* * *
+
+Harold Galm, TX](https://web.archive.org/lf/asp/search_results.asp?clientsid=81770)  
+[
+
+* * *
+
+Judith Parcel, MISSOURI](https://web.archive.org/lf/asp/search_results.asp?clientsid=6197)  
+[
+
+* * *
+
+Michael Dreyer, FL](https://web.archive.org/lf/asp/search_results.asp?clientsid=62398)  
+[
+
+* * *
+
+Mark Miller, IN](https://web.archive.org/lf/asp/search_results.asp?clientsid=81190)  
+[
+
+* * *
+
+Myers Jackson, GEORGIA](https://web.archive.org/lf/asp/search_results.asp?clientsid=62209)  
+[
+
+* * *
+
+Jim or Dan McEwen, TENNESSEE](https://web.archive.org/lf/asp/search_results.asp?clientsid=3875)  
+[
+
+* * *
+
+Kevin Wright, KENTUCKY](https://web.archive.org/lf/asp/search_results.asp?clientsid=24602)  
 [
 
 * * *
@@ -447,7 +377,97 @@ Joe Rust, TX](https://web.archive.org/lf/asp/search_results.asp?clientsid=81157)
 
 * * *
 
+Van Billings, NEW YORK](https://web.archive.org/lf/asp/search_results.asp?clientsid=27460)  
+[
+
+* * *
+
+Lisa Hundt, IN](https://web.archive.org/lf/asp/search_results.asp?clientsid=80783)  
+[
+
+* * *
+
+Jimmy Barnard, TX](https://web.archive.org/lf/asp/search_results.asp?clientsid=84355)  
+[
+
+* * *
+
+Ryan Gableman, IN](https://web.archive.org/lf/asp/search_results.asp?clientsid=83519)  
+[
+
+* * *
+
+David Lefemine, TN](https://web.archive.org/lf/asp/search_results.asp?clientsid=81444)  
+[
+
+* * *
+
+Craig Kelly, MO](https://web.archive.org/lf/asp/search_results.asp?clientsid=86548)  
+[
+
+* * *
+
  _(Haves)_ Grubb & Ellis Newport Beach, Other](https://web.archive.org/lf/asp/search_results.asp?clientsid=97783)  
+[
+
+* * *
+
+ _(Unger CCIM)_ Burris, Hennessy & Company, Other](https://web.archive.org/lf/asp/search_results.asp?clientsid=93879)  
+[
+
+* * *
+
+Paul Grisanti, KY](https://web.archive.org/lf/asp/search_results.asp?clientsid=91236)  
+[
+
+* * *
+
+Charity Boyer, GA](https://web.archive.org/lf/asp/search_results.asp?clientsid=83128)  
+[
+
+* * *
+
+ _(Properties)_ TRI Outdoor Properties, Inc., Other](https://web.archive.org/lf/asp/search_results.asp?clientsid=94263)  
+[
+
+* * *
+
+ _(Grimaldi)_ Grimaldi Commercial Realty, Other](https://web.archive.org/lf/asp/search_results.asp?clientsid=100575)  
+[
+
+* * *
+
+Glenn E. Palmer, FL](https://web.archive.org/lf/asp/search_results.asp?clientsid=81995)  
+[
+
+* * *
+
+Charles Mussorici, MO](https://web.archive.org/lf/asp/search_results.asp?clientsid=82812)  
+[
+
+* * *
+
+Ron Silva, CA](https://web.archive.org/lf/asp/search_results.asp?clientsid=86413)  
+[
+
+* * *
+
+Sue Pellegrino, TX](https://web.archive.org/lf/asp/search_results.asp?clientsid=82300)  
+[
+
+* * *
+
+Reagan Crabtree, NC](https://web.archive.org/lf/asp/search_results.asp?clientsid=87679)  
+[
+
+* * *
+
+Paul A. Sands, FL](https://web.archive.org/lf/asp/search_results.asp?clientsid=83515)  
+[
+
+* * *
+
+Western Land, AZ](https://web.archive.org/lf/asp/search_results.asp?clientsid=80799)  
 [
 
 * * *
@@ -457,35 +477,15 @@ Scott Langdon, IN](https://web.archive.org/lf/asp/search_results.asp?clientsid=8
 
 * * *
 
-Jerry Gunstream, ID](https://web.archive.org/lf/asp/search_results.asp?clientsid=81065)  
+Michael Frye, FL](https://web.archive.org/lf/asp/search_results.asp?clientsid=80827)  
 [
 
 * * *
 
- _(Davenport)_ Davenport Realty United Country , VIRGINIA](https://web.archive.org/lf/asp/search_results.asp?clientsid=22166)  
+Jerry Messonnier, FL](https://web.archive.org/lf/asp/search_results.asp?clientsid=82381)  
 [
 
 * * *
 
-John Hayden, KS](https://web.archive.org/lf/asp/search_results.asp?clientsid=86492)  
-[
-
-* * *
-
-Stacey Varner Admin, GA](https://web.archive.org/lf/asp/search_results.asp?clientsid=82011)  
-[
-
-* * *
-
-No Fences Land Co, TX](https://web.archive.org/lf/asp/search_results.asp?clientsid=90077)  
-[
-
-* * *
-
-Elizabeth Shultis, NEW YORK](https://web.archive.org/lf/asp/search_results.asp?clientsid=27386)  
-[
-
-* * *
-
-Jimmy Barnard, TX](https://web.archive.org/lf/asp/search_results.asp?clientsid=84355)  
+Gerry Schuetzenhofer, IL](https://web.archive.org/lf/asp/search_results.asp?clientsid=82249)  
 
