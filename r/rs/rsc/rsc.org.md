@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rsc.org privacy policy that was archived on 2009-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090106201409id_/http%3A//www.rsc.org/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsc.org privacy policy that was archived on 2009-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091027011500id_/http%3A//www.rsc.org/help/privacy.asp) for the most accurate reproduction.*
 
 # Privacy
 
@@ -33,7 +33,7 @@ The RSC uses several types of cookie on its websites:  ** _Session Cookies_** a
 
   * To allow you to carry information across pages of our site and avoid having to re-enter information;
   * To allow you to maintain a shopping basket;
-  * Within registration to allow you to access stored information.     
+  * Within registration to allow you to access stored information.      
 
 
 
@@ -41,7 +41,7 @@ The RSC uses several types of cookie on its websites:  ** _Session Cookies_** a
 
   * To help us recognise you as a unique visitor (just a number) when you return to our website and to allow us to tailor content or advertisements to match your preferred interests or to avoid showing you the same adverts repeatedly;
   * To compile anonymous, aggregated statistics that allow us to understand how users use our site and to help us improve the structure of our website. We cannot identify you personally in this way;
-  * Within research surveys to ensure you are not invited to complete a questionnaire too often or after you have already done so.     
+  * Within research surveys to ensure you are not invited to complete a questionnaire too often or after you have already done so.      
 
 
 
@@ -51,7 +51,7 @@ The RSC uses several types of cookie on its websites:  ** _Session Cookies_** a
   * To control how often you are shown a particular advertisement;
   * To tailor content to your preferences;
   * To count the number of anonymous users of our sites;
-  * To provide security within shopping baskets, e.g. to pay for a membership subscription or a journal pay-per-view.     
+  * To provide security within shopping baskets, e.g. to pay for a membership subscription or a journal pay-per-view.      
 
 
 
@@ -63,7 +63,7 @@ To find out how to disable/enable cookies, please consult the Help features of y
 
 Email communications are sent using secure technology that does not disclose your email address to any other recipient. 
 
-### Disclose of Personal Data
+### Disclosure of Personal Data
 
 The RSC does not give or sell personal data about any of its contacts, collaborators, customers, or members to any individual or organisation unless they are involved in providing the RSC activities, products, or services. Such contractors are subject to a non-disclosure agreement and have to maintain the same security as does the RSC itself.
 
