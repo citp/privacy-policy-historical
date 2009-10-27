@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datelonelymoms.com privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614142209id_/http%3A//www.datelonelymoms.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datelonelymoms.com privacy policy that was archived on 2009-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091027194816id_/http%3A//www.datelonelymoms.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Date Lonely Moms - Meet Local Single Sexy Moms
 
