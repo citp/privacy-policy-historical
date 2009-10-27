@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the three.com.au privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625115854id_/http%3A//www.three.com.au/cs/ContentServer%3Fpagename%3DThree%252FPage%252FBusinessVideoCallingTemplate%26cid%3D1165929072440%26c%3DPage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the three.com.au privacy policy that was archived on 2009-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091027125834id_/http%3A//www.three.com.au/cs/ContentServer%3Fpagename%3DThree%252FPage%252FBusinessVideoCallingTemplate%26cid%3D1165929072440%26c%3DPage) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,8 +26,9 @@ To opt out of receiving marketing messages from 3 contact 13 33 20
 (e) monitor and record calls between you and 3 Customer Care for training, quality and contractual purposes;  
 (f) capture personal information when we are obligated to if you are the purchaser of a prepaid telephone service (even if you are not the end user)  
 (g) pass your personal information on to other parties for the purposes of supplying telecommunications services or fixing network and/or service faults;  
-(h) provide your personal information to government agencies as required by law (e.g. Australian enforcement and revenue protection agencies, the Australian Government and ACMA);.and  
-(i) share your information with other members of our group of companies, and with our or their, partners, associates, agents and contractors and with people who are interested in buying our business. These may include people and companies outside of Australia.  
+(h) provide your personal information to government agencies as required by law (e.g. Australian enforcement and revenue protection agencies, the Australian Government and ACMA);  
+(i) share your information with other members of our group of companies, and with our or their, partners, associates, agents and contractors and with people who are interested in buying our business. These may include people and companies outside of Australia; and  
+(j) contact you about our group companies' products and services.   
 Your application for 3 services or a ‘Handset Instalment Plan’ may be subject to a credit assessment, verification of your personal details and an employment check. If we regard these checks as unsatisfactory, we will not enter into an agreement with you.  
 We may provide information about you to a credit-reporting agency for the purpose of obtaining a consumer credit report about you and allowing the credit-reporting agency to create or maintain a credit information file containing information about you. This is limited to identifying information, general particulars of your account, notice of payments more than 60 days overdue, cheques dishonoured more than once and serious credit infringements. This information may be given before, during or after the provision of credit to you.  
 Where relevant, we may obtain information about you from a business that provides information about the commercial credit-worthiness of persons for the purpose of assessing your application for credit and collecting any overdue payments. If you apply for commercial credit, we may obtain a consumer credit report about you from a credit-reporting agency for the purpose of assessing your application for commercial credit and collecting overdue payments.
