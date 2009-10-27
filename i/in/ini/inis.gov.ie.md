@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inis.gov.ie privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627193040id_/http%3A//www.inis.gov.ie/en/INIS/Pages/WP07000012) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inis.gov.ie privacy policy that was archived on 2009-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091027021909id_/http%3A//www.inis.gov.ie/en/INIS/Pages/WP07000012) for the most accurate reproduction.*
 
 # Irish Naturalisation and Immigration Service Privacy policy
 
