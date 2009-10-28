@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scholarships4moms.net privacy policy that was archived on 2009-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090307021219id_/http%3A//www.scholarships4moms.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarships4moms.net privacy policy that was archived on 2009-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091028085807id_/http%3A//www.scholarships4moms.net/privacy.htm) for the most accurate reproduction.*
 
 # Scholarships4moms.net
 
@@ -32,6 +32,10 @@ Additionally, scholarships4moms.net may disclose your information if required to
 ##### Registry Compliance:
 
 By submitting your personal and/or financial information on our site, you are hereby granting written permission to us, our affiliated sites, sponsors, etc. for contact information. You are also consenting to receive phone calls from scholarships4moms.net, our affiliates, and our partners for contact via telephone and/or sms messages, and thereby, you waive your right to file a claim with the FTC or any other agency in regards to these contacts or calls. 
+
+##### Third Party Offers
+
+In addition to the information collected by us and registration information submitted by you, we may employ both first-party and third-party cookies.  A cookie is a piece of data stored on your hard drive containing activity-based information about you, and it is designed to facilitate the receipt of targeted and relevant advertisements.  The cookie is not associated with your personally identifiable information. To opt out of our third party cookie-based marketing program, click here: <http://rt.displaymarketplace.com/optout.html>
 
 ##### We do not collect Information from Children:
 
