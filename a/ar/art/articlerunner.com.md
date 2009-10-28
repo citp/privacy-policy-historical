@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the articlerunner.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218051403id_/http%3A//articlerunner.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlerunner.com privacy policy that was archived on 2009-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091028072246id_/http%3A//articlerunner.com/privacy.php) for the most accurate reproduction.*
 
-# ArticleRunner.com
+# hacked By M0µ34d
+
+H4ck3d By M0µ34d  
+!
 
 Privacy Policy
 
@@ -64,3 +67,18 @@ Changes to this Policy
 ArticleRunner.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
 
 This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+
+**Don't wait, join now!!**
+
+[ ](http://www.articlerunner.com/hosting.html)
+
+> ArticleRunner.com Copyright © 2008. All rights under applicable laws reserved.   
+> 
+> 
+> [Terms of Service](http://www.articlerunner.com/terms.php) | [Submission Guidelines](http://www.articlerunner.com/submitguidelines.php) | [Contact Us](http://www.articlerunner.com/contacts.php) | [Link to Us](http://www.articlerunner.com/linkus.php)| [Privacy Policy](http://www.articlerunner.com/privacy.php) | [About Us ](http://www.articlerunner.com/aboutus.php)
+
+[WebRing](http://dir.webring.com/rw).
+
+This site is a member of WebRing. To browse visit [ here](http://ss.webring.com/navbar?f=l;y=peterboro;u=defurl1).
+
+Powered by [Article Dashboard](http://www.articledashboard.com/)
