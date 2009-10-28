@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scheduleonce.com privacy policy that was archived on 2009-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090214122548id_/http%3A//www.scheduleonce.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scheduleonce.com privacy policy that was archived on 2009-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091028141615id_/http%3A//www.scheduleonce.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -34,7 +34,7 @@ Our Service is not intended to be used by children under the age of 13, and we d
 
 All contact information and content submitted by you is stored in our database and may be archived elsewhere. Our records are stored indefinitely. 
 
-At least our system administrators and support personnel will have access to your personal information. In general, we use personal information internally to serve our users and enable them to take maximum advantage of our Service. For example, personal information is used to conduct marketing analysis, to create an individual profile and provide personalized services, to provide services or complete transactions you have requested, to anticipate and resolve problems with our Service, to respond to customer support inquiries, and to create and inform you of new products and services that better meet your needs. By registering with our Service, you give consent for us to communicate with you at any of the contact points you provide to us for any of the aforementioned purposes. 
+At least our system administrators and support personnel will have access to your personal information. In general, we use personal information internally to serve our users and enable them to take maximum advantage of our Service. For example, personal information is used to conduct marketing analysis, to create an individual profile and provide personalized services, to provide services or complete transactions you have requested, to anticipate and resolve problems with our Service, to respond to customer support inquiries, and to create and inform you of new products and services that better meet your needs. By using our Service, you give consent for us to communicate with you at any of the contact points you provide to us for any of the aforementioned purposes. 
 
 **Disclosure of Personal Information.**
 
@@ -56,7 +56,7 @@ Please be aware that we provide links to third-party Web sites as a service to o
 
 **NETWORK AND INFORMATION SECURITY**
 
-We use commercially reasonable efforts to protect your personal information, including safeguards such as back-ups, encryption, and transaction recording to avoid loss, misuse, alteration, or destruction of collected information. In addition, ScheduleOnce may utilize secure technology to transfer information provided by users, and additional measures in the processing of sensitive information. While we have taken efforts to guard your personal information, we cannot guarantee that your information may be not be disclosed or accessed by accidental circumstances or by the unauthorized acts of others. 
+We use commercially reasonable efforts to protect your personal information, including safeguards such as back-ups, encryption, and transaction recording to avoid loss, misuse, alteration, or destruction of collected information. In addition, ScheduleOnce may utilize secure technology to transfer information provided by users, and additional measures in the processing of sensitive information. While we have taken efforts to guard your personal information, we cannot guarantee that your information may not be disclosed or accessed by accidental circumstances or by the unauthorized acts of others. 
 
 **ACCESS AND CONTROL OF PERSONAL INFORMATION**
 
@@ -72,4 +72,4 @@ We may revise and update this Policy if our practices change, as technology chan
 
 **CONTACTING US**
 
-If you have any questions or comments about this Policy, the privacy practices of the Service, or your dealings with ScheduleOnce, please [contact us](https://web.archive.org/web/20090214122548id_/http%3A//www.scheduleonce.com/contactus.aspx) via our contact form. 
+If you have any questions or comments about this Policy, the privacy practices of the Service, or your dealings with ScheduleOnce, please [contact us](https://web.archive.org/web/20091028141615id_/http%3A//www.scheduleonce.com/contactus.aspx) via our contact form. 
