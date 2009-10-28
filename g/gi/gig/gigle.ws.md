@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gigle.ws privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627052009id_/http%3A//gigle.ws/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigle.ws privacy policy that was archived on 2009-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091028184328id_/http%3A//gigle.ws/privacy) for the most accurate reproduction.*
 
 # privacy - gigle.ws
 
