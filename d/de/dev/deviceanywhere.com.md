@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deviceanywhere.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623135730id_/http%3A//www.deviceanywhere.com//index.aspx%3Fsid%3D13%26ssid%3D72) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deviceanywhere.com privacy policy that was archived on 2009-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091028011540id_/http%3A//deviceanywhere.com/index.aspx%3Fsid%3D13%26ssid%3D72) for the most accurate reproduction.*
 
 # DeviceAnywhere – The Source for Mobile Application Testing and Development
 
