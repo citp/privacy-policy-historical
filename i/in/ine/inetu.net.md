@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inetu.net privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614181313id_/http%3A//www.inetu.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inetu.net privacy policy that was archived on 2009-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091028164956id_/http%3A//www.inetu.net/privacy.php) for the most accurate reproduction.*
 
 # INetU Managed Hosting - Privacy
 
@@ -24,7 +24,7 @@ We share personally identifiable information with Third Parties. However, we do 
 
 ## Service Providers
 
-We use Emma® Inc. as our third party mail agent for all newsletter correspondences. We will share your email address and name.
+We use Trimark Internet Marketing Solutions as our third party mail agent for all newsletter correspondences. We will share your email address and name.
 
 Third parties are prohibited from using your personally identifiable information for any other purpose.
 
