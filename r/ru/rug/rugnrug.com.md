@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rugnrug.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619154445id_/http%3A//www.rugnrug.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rugnrug.com privacy policy that was archived on 2009-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091028195231id_/http%3A//www.rugnrug.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy police - Rug n rug
+# Privacy police - Rugnrug
 
 |   | 
 
