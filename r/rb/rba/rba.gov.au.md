@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rba.gov.au privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619051728id_/http%3A//www.rba.gov.au/PrivacyStatement/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rba.gov.au privacy policy that was archived on 2009-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091028093904id_/http%3A//www.rba.gov.au/PrivacyStatement/index.html) for the most accurate reproduction.*
 
 # RBA: Privacy Statement
 
@@ -95,7 +95,7 @@ If you wish to amend or correct personal information that you have submitted via
 
 ####  For amendments to job applications:
 
-  | **E-mail** | [recruitment@rba.gov.au](mailto:recruitment@rba.gov.au)  
+  | **E-mail** | [careers@rba.gov.au](mailto:careers@rba.gov.au)  
 ---|---|---  
   | **  
 Phone** |   
