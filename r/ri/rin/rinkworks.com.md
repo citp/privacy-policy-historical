@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the rinkworks.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627202245id_/http%3A//www.rinkworks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rinkworks.com privacy policy that was archived on 2009-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091028065614id_/http%3A//www.rinkworks.com/privacy) for the most accurate reproduction.*
 
 # RinkWorks: Privacy Policy
 
-[](http://www.rinkworks.com/filmmaker/)
+[](http://www.rinkworks.com/stupid/)
 
 * * *
 
-[](http://www.rinkworks.com/fnovel/)
+[](http://www.rinkworks.com/namegen/)
 
 _RinkWorks_ respects the privacy and confidentially of its associates and readers. Below is our policy regarding the privacy of Internet users.
 
@@ -26,6 +26,6 @@ _RinkWorks_ respects the privacy and confidentially of its associates and reader
 
 * * *
 
-Back to the [_RinkWorks home page_](https://web.archive.org/web/20090627202245id_/http://www.rinkworks.com/).
+Back to the [_RinkWorks home page_](https://web.archive.org/web/20091028065614id_/http://www.rinkworks.com/).
 
-[](http://www.rinkworks.com/monster/)
+[](http://www.rinkworks.com/graffiti/)
