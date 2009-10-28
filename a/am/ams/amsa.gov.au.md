@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amsa.gov.au privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626043839id_/http%3A//www.amsa.gov.au/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amsa.gov.au privacy policy that was archived on 2009-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091028130243id_/http%3A//www.amsa.gov.au/Privacy.asp) for the most accurate reproduction.*
 
 # Internet Privacy Policy
 
@@ -70,7 +70,7 @@ Any personal information you choose to provide will only be used for the purpose
 
 The Internet is an insecure medium and users should be aware that there are inherent risks transmitting information across the Internet.
 
-Information submitted unencrypted via electronic mail or web forms may be at risk of being intercepted, read or modified. If you do not wish to email or send an online form to AMSA, you can send mail by _[post.](https://web.archive.org/web/20090626043839id_/http%3A//www.amsa.gov.au/About_AMSA/AMSA_Offices.asp)_
+Information submitted unencrypted via electronic mail or web forms may be at risk of being intercepted, read or modified. If you do not wish to email or send an online form to AMSA, you can send mail by _[post.](https://web.archive.org/web/20091028130243id_/http%3A//www.amsa.gov.au/About_AMSA/AMSA_Offices.asp)_
 
 ### **Other sites**
 
