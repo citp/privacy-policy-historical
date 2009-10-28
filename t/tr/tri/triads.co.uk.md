@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the triads.co.uk privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626000436id_/http%3A//triads.co.uk/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triads.co.uk privacy policy that was archived on 2009-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091028021203id_/http%3A//www.triads.co.uk/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Triads
 
