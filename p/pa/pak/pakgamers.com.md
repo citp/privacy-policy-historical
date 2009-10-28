@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pakgamers.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617200410id_/http%3A//www.pakgamers.com/forums/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakgamers.com privacy policy that was archived on 2009-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091028104215id_/http%3A//www.pakgamers.com/forums/%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Pakistan's Gamers Community - Privacy
 
@@ -40,7 +40,7 @@ With respect to security: We have appropriate security measures in place in our 
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
 
-All times are GMT +6. The time now is 01:56 AM.
+All times are GMT +6. The time now is 04:26 PM.
 
 |   
 ---|---
