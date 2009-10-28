@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebige.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623174117id_/http%3A//thebige.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebige.com privacy policy that was archived on 2009-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091028103939id_/http%3A//www.thebige.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
