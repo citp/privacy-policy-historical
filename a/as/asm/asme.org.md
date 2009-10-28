@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asme.org privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627094521id_/http%3A//www.asme.org/terms/Privacy_Security_Statement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asme.org privacy policy that was archived on 2009-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091028021139id_/http%3A//www.asme.org/terms/Privacy_Security_Statement.cfm) for the most accurate reproduction.*
 
 # Privacy and Security Statement - Terms
 
