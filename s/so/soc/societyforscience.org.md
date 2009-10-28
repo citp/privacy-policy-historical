@@ -1,13 +1,60 @@
-> *The following text is extracted and transformed from the societyforscience.org privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618091903id_/http%3A//www.societyforscience.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the societyforscience.org privacy policy that was archived on 2009-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091028012414id_/http%3A//www.societyforscience.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
-|  |  |  |  |  |   
+ABOUT SSP
+
+[About SSP ](https://web.archive.org/web/20091028012414id_/http%3A//www.societyforscience.org/aboutus.html)
+
+[Board of Trustees & Staff ](https://web.archive.org/web/20091028012414id_/http%3A//www.societyforscience.org/trustees.html)
+
+[Contact Us ](https://web.archive.org/web/20091028012414id_/http%3A//www.societyforscience.org/contactus.html)
+
+[History](https://web.archive.org/web/20091028012414id_/http%3A//www.societyforscience.org/history.html)
+
+[Membership ](https://web.archive.org/web/20091028012414id_/http%3A//www.societyforscience.org/membership/signup.cfm)
+
+[Outreach](https://web.archive.org/web/20091028012414id_/http%3A//www.societyforscience.org/outreach/Index.asp)
+
+[Press Information](https://web.archive.org/web/20091028012414id_/http%3A//www.societyforscience.org/pressreleases.html)
+
+Program Information
+
+[**Intel Science Talent Search 2010 (Intel STS 2010)**](http://www.societyforscience.org/sts/index.asp)[](https://web.archive.org/web/20091028012414id_/http%3A//www.societyforscience.org/sts/index.asp)  
+Science Talent Institute  
+March 11-17, 2010  
+Washington, DC
+
+[**Intel International Science and Engineering Fair 2010  
+(Intel ISEF 2010)**](http://www.societyforscience.org/isef/index.asp)[](https://web.archive.org/web/20091028012414id_/http%3A//www.societyforscience.org/isef/index.asp)  
+May 9-14, 2010  
+San Jose, CA 
+
+SSP on the Web
+
+[****](http://www.societyforscience.org/sts/index.asp)**[ Find us on Facebook](http://www.facebook.com/pages/Society-for-Science-the-Public/68096845180)**
+
+[****](http://www.societyforscience.org/sts/index.asp)**[ LinkedIn Group](http://www.linkedin.com/groups?gid=1785120)**
+
+[****](http://www.societyforscience.org/sts/index.asp)**[ SSP Video Channel](http://www.facebook.com/pages/Society-for-Science-the-Public/68096845180)**
+
+******[ Flickr Photostream](http://www.youtube.com/SocietyforScience)**
+
+| 
+
+Privacy Statement 
+
+  
+
+
+[Society for Science & the Public Home](https://web.archive.org/web/20091028012414id_/http%3A//index.html) > Privacy Statement
+
+|  |  |  |  |  |  |   
 ---|---|---|---|---|---|---  
   |  |  |  |  |  |    
 |  |  | 
 
-U.S. Senator Barack Obama listens in 2006 as Sukrit Ranjan, of Northbrook, IL, explains his project concerning The Influence of Topography on Martian Polar Clouds, his Intel STS 2006 project in earth and planetary science. The Intel STS is the nation’s premier pre-college science contest and is a program of Society for Science & the Public. 
+Elizabeth Flores and Christina Izatt teamed up to compete in the Intel ISEF 2007, a program of Society for Science & the Public. 
 
 |  |  |   
   |  |  |   |  |  |    
@@ -28,4 +75,7 @@ Our internet policy is:
 
 
 
-Please address inquiries to [webmaster@societyforscience.org](mailto:webmaster@societyforscience.org)
+Please address inquiries to [webmaster@societyforscience.org](mailto:webmaster@societyforscience.org)  
+  
+© 2008 Society for Science & the Public. All Rights Reserved.  
+Society for Science & the Public 1719 N Street N.W. , Washington, DC 20036, 202-785-2255.
