@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the emeditor.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618103954id_/http%3A//www.emeditor.com/modules/about3/rewrite/tc_6.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emeditor.com privacy policy that was archived on 2009-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091028093318id_/http%3A//www.emeditor.com/modules/about3/rewrite/tc_6.html) for the most accurate reproduction.*
 
 # EmEditor text editor - Privacy Policy
 
-|  |  Certified for Windows Vista  
+|  |  Compatible with Windows 7  
 ---  
 |   
 ---  
-EmEditor is Certified for Windows Vista.   
+EmEditor is Compatible with Windows 7   
  BBB Accredited  
 ---  
 | [](https://www.bbb.org/online/consumer/cks.aspx?id=1081003173537)  
