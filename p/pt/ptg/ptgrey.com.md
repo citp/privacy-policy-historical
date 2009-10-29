@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ptgrey.com privacy policy that was archived on 2009-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090423070934id_/http%3A//www.ptgrey.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ptgrey.com privacy policy that was archived on 2009-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091029150214id_/http%3A//www.ptgrey.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # Point Grey Research Inc. - Privacy Policy
 
@@ -26,7 +26,7 @@ Point Grey Research may disclose personal information if required to do so by la
 
 Opt Out
 
-Your privacy is important to us. If you do not wish to receive future communication from Point Grey Research, [go to our Unsubscribe page](https://web.archive.org/web/20090423070934id_/http%3A//www.ptgrey.com/legal/unsubscribe.asp).
+Your privacy is important to us. If you do not wish to receive future communication from Point Grey Research, [go to our Unsubscribe page](https://web.archive.org/web/20091029150214id_/http%3A//www.ptgrey.com/legal/unsubscribe.asp).
 
 Comments on the Point Grey Privacy Statement
 
