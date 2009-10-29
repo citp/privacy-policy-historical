@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the how-do.co.uk privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628192418id_/http%3A//www.how-do.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the how-do.co.uk privacy policy that was archived on 2009-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091029135102id_/http%3A//www.how-do.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - - How-Do
 
@@ -22,8 +22,6 @@ We may also ask you to provide personal information on a voluntary basis in orde
 
 In the course of entering competitions, promotions and other online offers you will be asked to give some details about yourself. You may also choose to e-mail us or make contact with us in other ways. Such contact gives us information about you.
 
-If you have any financial dealings or make purchases with our trading partners on co-branded sites, they will ask for certain information. This information may be shared with us.
-
  **"For what purposes do you collect and use this information?"**
 
 We use aggregate audience details (where no individual is identifiable) to help us improve our understanding of our users and their preferences. We use it to assist us in arranging relevant advertising, commercial opportunities and competitions, as well as ensuring the best editorial coverage. It also helps us develop the Website and audit its use.
@@ -36,19 +34,12 @@ The information about you as an identifiable individual, including contact detai
 
 * to be shared with advertisers, trading partners and other commercial entities with whom we have or might have an association. We may also share the information that they obtain about their users, which may include you.
 
- **"How private are my details?"**
+ **Credit/debit cards**
 
-How-Do only shares personal information about you with third parties whom we have selected carefully and with whom we have, or may have, a commercial relationship. How-Do complies with the relevant legal requirements and takes all reasonable care to ensure that your information is secure and private and is only seen by responsible third parties. However we cannot be held responsible for the actions of any third party who receives or obtains access to the information, nor for any breach of security.
+We do not store credit card details, nor do we share customer details with any third parties   
 
-If you tell us that you do not want us to use your details, then data about your use of the Web Site would then only form part of aggregated statistics and would not be related to you as an individual.
 
-You can ask to see the information we have about you by e-mailing a request to [contact@how-do.co.uk](mailto:contact@how-do.co.uk).
-
- **"What do I do if I am not happy for you to share information about me with others?"**
-
-You may not wish us to share personal details about you with third parties outside How-Do, or to use your information in the other ways we have described in this Privacy Policy. You can e-mail [contact@how-do.co.uk](mailto:contact@how-do.co.uk) at any time to let us know of any objections you may have to how we use or disclose your data in the ways set out in this Privacy Policy. Your personal details may in any event be shared with third party organisations we have contracted to provide services to us, on an agency basis, which include processing data. We may also have to release information (which could include the contents of e-mail communications between any persons) because of a legal requirement on us or pursuant to a court order.
-
- **Use of cookies on a website:**
+**Use of cookies on a website:**
 
  **The basic principles  
 **  
@@ -80,7 +71,14 @@ If you want further information, or wish to communicate with us about this Priva
 
 How-Do is a company registered in England and Wales under company number 6103268 whose registered office is at Hollins Chambers, 64A Bridge Street, Manchester, M3 3BA, UK.
 
-You can mail us at contact@how-do.co.uk with any comments or for further information. **Something to add? Then[leave a comment](http://www.how-do.co.uk/privacy-policy/#commentform) below or [email us now](mailto:contact@how-do.co.uk).**
+You can mail us at contact@how-do.co.uk with any comments or for further information.
+
+ **Contact information**
+
+How-Do's trading address is 40 Lapwing Lane, Manchester M20 2WR. Tel: 0161 445 1499
+
+**Something to add? Then[leave a comment](http://www.how-do.co.uk/privacy-policy/#commentform) below or [email us now](mailto:contact@how-do.co.uk).**  
+
 
 * * *
 
