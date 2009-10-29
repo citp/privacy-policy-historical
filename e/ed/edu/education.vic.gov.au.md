@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the education.vic.gov.au privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604202514id_/http%3A//www.education.vic.gov.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the education.vic.gov.au privacy policy that was archived on 2009-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091029015249id_/http%3A//www.education.vic.gov.au/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement - Department of Education and Early Childhood Development
 
