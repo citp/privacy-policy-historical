@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesudburystar.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622005733id_/http%3A//www.thesudburystar.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesudburystar.com privacy policy that was archived on 2009-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091029184707id_/http%3A//www.thesudburystar.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
