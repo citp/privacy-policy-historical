@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amazonwatch.org privacy policy that was archived on 2009-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090427011130id_/http%3A//www.amazonwatch.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazonwatch.org privacy policy that was archived on 2009-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091029062325id_/http%3A//www.amazonwatch.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Amazon Watch
 
@@ -29,7 +29,7 @@ Tel: 415-487-9600     Fax: 415-487-9601
 
 **Southern California office:**  
 P.O. Box 2421 Malibu, CA 90265  
-Tel: 310-456-9158     Fax: 310-421-0473
+Tel: 310-456-9158     Fax: 415-373-9435
 
 **Washington, DC office:**  
 1350 Connecticut Avenue, NW Suite 1100 Washington, DC 20036  
