@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weyak.ae privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616175610id_/http%3A//www.weyak.ae/privacy.php%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weyak.ae privacy policy that was archived on 2009-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091029174153id_/http%3A//www.weyak.ae/privacy.php%3Flang%3Den) for the most accurate reproduction.*
 
 # weyak – Activates my life
 
