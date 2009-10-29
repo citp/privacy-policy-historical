@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zuora.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629114759id_/http%3A//www.zuora.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zuora.com privacy policy that was archived on 2009-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091029112830id_/http%3A//zuora.com/privacy.html) for the most accurate reproduction.*
 
 # On-Demand Subscription Management - Zuora Privacy Statement
 
