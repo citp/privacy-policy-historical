@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the redheart.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618193947id_/http%3A//www.redheart.com/Home/tabid/56/ctl/Privacy/Default.aspx%3FSkinSrc%3D%255bL%255dSkins%252fMain%252fRedHeart_103) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redheart.com privacy policy that was archived on 2009-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091029084137id_/http%3A//redheart.com/Home/tabid/56/ctl/Privacy/Default.aspx%3FSkinSrc%3D%255bL%255dSkins%252fMain%252fRedHeart_103) for the most accurate reproduction.*
 
-# RedHeart.com : Yarn & Designs for Real Life
+# Home
 
 Red Heart Yarns is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Red Heart Yarns Web site and governs data collection and usage. By using the Red Heart Yarns website, you consent to the data practices described in this statement.
 
