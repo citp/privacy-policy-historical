@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telligent.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629165455id_/http%3A//telligent.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telligent.com privacy policy that was archived on 2009-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091029050607id_/http%3A//telligent.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement : Enterprise Collaboration Software by Telligent-Online Community, Enterprise Collaboration, Social Analytics
 
