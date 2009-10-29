@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discountcell.com privacy policy that was archived on 2007-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070210124123id_/http%3A//www.discountcell.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountcell.com privacy policy that was archived on 2009-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091029125721id_/http%3A//www.discountcell.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for Discountcell.com
 
@@ -17,137 +17,92 @@ We invite you to contact us if you have questions about this policy. You may con
 
 You may contact us by e-mail at [ Info@discountcell.com](mailto:Info@discountcell.com). You may call us at 1-800-422-1814. 
 
-## Dispute Resolution and Privacy Seals
+**What information do we collect?**
 
-We are a member of the Better Business Bureau and in good standing as well as allow customers to rate us through Bizrate.com. 
+We collect information from you when you place an order, subscribe to our newsletter or fill out a form. 
 
-## Additional Information
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
-This policy is valid for 104 weeks from the time that it is loaded by a client. 
+Like most websites, we use cookies and/or web beacons to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the 'do we use cookies?' section below for information about cookies and how we use them.
 
-## Data Collection
+ **What do we use your information for?**
 
-P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 4 data groups. The data practices of each group will be explained separately. 
+Any of the information we collect from you may be used in one of the following ways: 
 
-* * *
+• To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-### Group "Access log information"
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-We collect the following information: 
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-  * Click-stream data
-  * HTTP protocol elements
+• To process transactions  
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer. 
 
+• To send periodic emails
 
+The email address you provide for order processing will only be used to send you information and updates pertaining to your order.
 
-This data will be used for the following purposes:
+If you choose to subscribe to our newsletter you may be sent occasional company news, updates, related product or service information, etc.
 
-  * Completion and support of the current activity.
-  * Web site and system administration.
-  * Research and development.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
+ **How do we protect your information?**
 
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-This data will be used by ourselves and our agents (only those necessary to complete the order such as the shipping company). 
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Database to be only accessed by those authorized with special access rights to our systems, and are required to keep the information confidential. 
 
-The following explanation is provided for why this data is collected:
+After a transaction, your private information (credit card information) will not be kept on file for more than 30 days.
 
-> Our Web server collects access logs containing this information.
+ **Do we use cookies?**
 
-* * *
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-### Group "Cookies"
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-We collect the following information: 
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone.
 
-  * HTTP cookies
+ **Do we disclose any information to outside parties?**
 
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. 
 
+**Third party links**
 
-This data will be used for the following purposes:
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-  * Research and development.
-  * One-time tailoring.
+ **California Online Privacy Protection Act Compliance**
 
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
+ **Childrens Online Privacy Protection Act Compliance**
 
-This data will be used by ourselves only. 
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-The following explanation is provided for why this data is collected:
+ **Terms and Conditions**
 
-> Cookies are used to track visitors to our site, so we can better understand what portions of our site best serve you. We also use cookies to allow our server to maintain information about the contents of your shopping cart.
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.discountcell.com/legal.htm.
 
-* * *
+ **Your Consent**
 
-### Group "Transaction info (required if placing order)"
+By using our site, you consent to our privacy policy.
 
-We collect the following information: 
+ **Changes to our Privacy Policy**
 
-  * Physical contact information
-  * Online contact information
-  * Demographic data
-  * Purchase information
+If we decide to change our privacy policy, we will post those changes on this page. 
 
+**Contacting Us**
 
+If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-This data will be used for the following purposes:
-
-  * Completion and support of the order placed.
-  * Research and development.
-
-
-
-This data will be used by ourselves and our agents. In addition, the following types of entities will receive this information: 
-
-  * Delivery services.
-
-
-
-The following explanation is provided for why this data is collected:
-
-> Information we collect in order to process your purchase.
-
-* * *
-
-### Group "Transaction info (optional as only necessary when placing order)"
-
-At the user's option, we will collect the following data: 
-
-  * Physical contact information
-  * Online contact information
-  * Demographic data
-  * Purchase information
-
-
-
-This data will be used for the following purposes:
-
-  * Completion and support of the order placed.
-
-
-
-This data will be used by ourselves and our agents. In addition, the following types of entities will receive this information: 
-
-  * Delivery services.
-
-
-
-The following explanation is provided for why this data is collected:
-
-> Information we collect in order to process your purchase.
-
-* * *
-
-## Cookies
-
-Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. 
-
-Our site makes use of cookies. Cookies are used for the following purposes: 
-
-  * User targeting 
-  * Research and development 
-
-
+www.discountcell.com  
+350 West 500 South  
+Provo, UT 84601  
+United States  
+info@discountcell.com  
+801-235-9809
 
 * * *
 
@@ -161,7 +116,7 @@ The compact policy which corresponds to this policy is:
 
 The following table explains the meaning of each field in the compact policy. 
 
-| **Field**|  **Meaning**  
+**Field**|  **Meaning**  
 ---|---  
 `CP=` | This is the compact policy header; it indicates that what follows is a P3P compact policy.  
 `IDC` |  Access is available to contact information.   
@@ -186,3 +141,25 @@ The following table explains the meaning of each field in the compact policy.
 The compact policy is sent by the Web server along with the cookies it describes. For more information, see the P3P deployment guide at <http://www.w3.org/TR/p3pdeployment>. 
 
 * * *
+
+* * *
+
+[Apple Accessories ](http://www.discountcell.com/cellular/apple.htm) |  [Audiovox Accessories](http://www.discountcell.com/cellular/cavx.htm) |  [Blackberry Accessories](http://www.discountcell.com/Blackberry-Accessories.htm)  |  [Boost Mobile Accessories](http://www.discountcell.com/cellular/cboost.htm)  |  [HTC Accessories](http://www.discountcell.com/cellular/htc.htm)  |  [Kyocera Accessories](http://www.discountcell.com/cellular/ckyocera.htm)  |  [LG Accessories](http://www.discountcell.com/cellular/clgic.htm)  |  [Motorola Accessories](http://www.discountcell.com/cellular/cmotoh2.asp)  |  [Nextel Accessories](http://www.discountcell.com/cellular/cnext.htm)   
+[Nokia Accessories](http://www.discountcell.com/cellular/cnokia.htm)  |  [Palm Treo Accessories](http://www.discountcell.com/cellular/ctreo.htm)  |  [Pantech Accessories](http://www.discountcell.com/cellular/Pantech.htm)  |  [Samsung Accessories](http://www.discountcell.com/cellular/csam.htm)  |  [Sanyo Accessories](http://www.discountcell.com/sanyo-accessories.htm)  |  [Siemens Accessories](http://www.discountcell.com/cellular/csiemens.htm)  |  [Sony Ericsson Accessories](http://www.discountcell.com/cellular/ceric.htm)  |  [UTStarcom Accessories](http://www.discountcell.com/cellular/UTStarcom.htm)
+
+[Antennas and Signal Boosters](http://www.discountcell.com/cellular/cell-phone-antennas.htm)  |  [ Batteries](http://www.discountcell.com/cellular/cell-phone-batteries.htm)  |  [ Bluetooth](http://www.discountcell.com/cellular/cell-phone-bluetooth.htm)  |  [Cases](http://www.discountcell.com/cellular/cell-phone-cases.htm)  |  [ Chargers](http://www.discountcell.com/cellular/cell-phone-chargers.htm)  |  [Covers and Gels](http://www.discountcell.com/cellular/phoneMakeCat/12)  |  [Data Accessories](http://www.discountcell.com/cellular/phoneMakeCat/5)  |  [Holsters](http://www.discountcell.com/cellular/cell-phone-holsters.htm)
+
+   [Terms and Conditions](http://www.discountcell.com/legal.htm)  |  [Warranty Information](http://www.discountcell.com/warranty.htm)  |  [Return Authorization](https://www.discountcell.com/secure/cust/Ra.htm)   |  [Site Map](http://www.discountcell.com/sitemap.htm)  |  [Privacy Policy](http://www.discountcell.com/privacy.htm) 
+
+*$.99 cent shipping (free over $50) only applies to orders shipping within the Continental US.
+
+Discountcell is a certified woman owned company through the WBENC.
+
+We keep your device running with only authentic, top quality **[cell phone accessories](http://www.discountcell.com/)**.  Buy with confidence knowing every item we offer is covered by our satisfaction guarantee and the manufacturers warranty.
+
+For questions or comments please contact Info@DiscountCell.com.  
+Copyright 1997-2008 Discountcell all Rights Reserved.   Discountcell is a trademark of Discountcell Inc.  
+350 West 500 South, Provo UT 84601  
+ 
+
+[ ](https://www.bbb.org/online/consumer/cks.aspx?id=1061117125131937)     [ ](https://secure.trust-guard.com/certificates/www.discountcell.com)
