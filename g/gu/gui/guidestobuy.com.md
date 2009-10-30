@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the guidestobuy.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626100524id_/http%3A//guidestobuy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guidestobuy.com privacy policy that was archived on 2009-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091030104040id_/http%3A//guidestobuy.com/privacy-policy) for the most accurate reproduction.*
 
-# guidestobuy » Privacy Policy
+# Privacy Policy | guidestobuy
 
-**[Guidestobuy](http://guidestobuy.com/guidestobuy "Guidestobuy").com Privacy Statement**  
+### [Privacy Policy](http://guidestobuy.com/privacy-policy)
+
+**Guidestobuy.com Privacy Statement**  
 What follows is the Privacy Statement for all Guidestobuy.com websites (a.k.a. blogs) including all the websites run under the Guidestobuy.com domain. Please read this statement regarding our blogs. If you have questions please ask us via [our contact form](http://www.guidestobuy.com/contact-us).
 
 **Email Addresses**  
-You may choose to add your email address to our contact list via the forms on our websites. We agree that we will never share you email with any third party and that we will remove your email at your request. We don?t currently send advertising via email, but in the future our email may contain advertisements and we may send dedicated email messages from our advertisers without revealing your email addresses to them. If you have any problem removing your email address please [contact us](http://guidestobuy.com/contact-us "contact us") via [our contact form](http://www.guidestobuy.com/contact-us).
+You may choose to add your email address to our contact list via the forms on our websites. We agree that we will never share you email with any third party and that we will remove your email at your request. We don?t currently send advertising via email, but in the future our email may contain advertisements and we may send dedicated email messages from our advertisers without revealing your email addresses to them. If you have any problem removing your email address please [contact us](http://guidestobuy.com/contact-us "contact us") via [our contact form](http://guidestobuy.com/contact-us).
 
 **Ownership of Information**  
 Guidestobuy.com is the sole owner of any information collected on our websites.
@@ -36,4 +38,4 @@ Guidestobuy.com websites frequently link to other websites. We are not responsib
 When Guidestobuy.com makes changes to this privacy policy we will post those changes here.
 
 **Contact Information**  
-If you have any questions regarding our privacy policy, please [contact us](http://www.guidestobuy.com/contact-us).
+If you have any questions regarding our privacy policy, please [contact us](http://guidestobuy.com/contact-us).
