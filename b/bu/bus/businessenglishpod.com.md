@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessenglishpod.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620145024id_/http%3A//www.businessenglishpod.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessenglishpod.com privacy policy that was archived on 2009-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091030222135id_/http%3A//www.businessenglishpod.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Business English Pod :: Learn Business English Online
 
@@ -36,7 +36,7 @@ We also sometimes will store copies of correspondence between you and us in your
 This is the minimum amount of information necessary to properly conduct our subscription systems. We may store other information that you have provided to us in the course of the provision of the BEP Service. 
 
 **4\. Cookies**  
-Cookies are small pieces of information stored by web sites on your computer. Very many sites use them, for a range of purposes. If you have configured your web browser not to warn about cookies, you probably have quite a few already stored on your hard drive. You must have cookies enabled in your browser in order to use this web site - we use the cookie to track whether you are logged in, and to store your log in details, and these are used to enhance your experience of the site. 
+Cookies are small pieces of information stored by web sites on your computer. Very many sites use them, for a range of purposes. If you have configured your web browser not to warn about cookies, you probably have quite a few already stored on your hard drive. You must have cookies enabled in your browser in order to use this web site – we use the cookie to track whether you are logged in, and to store your log in details, and these are used to enhance your experience of the site. 
 
 **5\. Sharing of Your Personal Information**  
 Except as described in this statement, we will not disclose your personal information outside of BEP and its controlled subsidiaries and affiliates without your consent.
