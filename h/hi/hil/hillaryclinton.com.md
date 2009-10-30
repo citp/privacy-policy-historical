@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hillaryclinton.com privacy policy that was archived on 2009-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090630094852id_/http%3A//www.hillaryclinton.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hillaryclinton.com privacy policy that was archived on 2009-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091030132928id_/http%3A//www.hillaryclinton.com/privacy) for the most accurate reproduction.*
 
 # HillaryClinton.com - Privacy Policy
 
