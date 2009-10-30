@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spanish.cl privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620200552id_/http%3A//www.spanish.cl/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spanish.cl privacy policy that was archived on 2009-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091030060316id_/http%3A//www.spanish.cl/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Spanish.cl
 
