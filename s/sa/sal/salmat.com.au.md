@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salmat.com.au privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619203457id_/http%3A//www.salmat.com.au/index.php%3FpageID%3D3245) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salmat.com.au privacy policy that was archived on 2009-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091030025843id_/http%3A//www.salmat.com.au/index.php%3FpageID%3D3245) for the most accurate reproduction.*
 
 # Salmat - Salmat’s privacy policy. Guidelines pertaining to how Salmat adheres to the Privacy Act 1988 (Australia).
 
@@ -74,15 +74,17 @@ Salmat requires strict compliance with the National Privacy Principles by all of
 
 Any questions or comments concerning Salmat’s privacy policies and practices, any requests for access to an individual’s personal information held by Salmat and any general privacy inquiries can be addressed to: 
 
-Contact: Privacy Officer   
-Address: Salmat   
-14-16 Chandos Street   
-St Leonards NSW 2065   
+Contact:
+
+Att: Privacy Officer   
+Salmat Limited  
+Level 17, 100 Arthur Street  
+North Sydney NSW 2060  
 Australia   
 Phone: (02) 9928 6500   
 Fax: (02) 9928 6652   
 E-mail: [privacy@salmat.com.au](mailto:privacy@salmat.com.au "email privacy at salmat")
 
-This Privacy Statement was last updated on 30 June 2003 <
+This Privacy Statement was last updated on 1 July 2009
 
 ­­­­ 
