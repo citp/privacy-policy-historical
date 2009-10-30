@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fedbid.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619085936id_/http%3A//www.fedbid.com/tools/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fedbid.com privacy policy that was archived on 2009-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091030145105id_/http%3A//www.fedbid.com/tools/privacy) for the most accurate reproduction.*
 
 # Privacy / Policies
 
@@ -20,7 +20,7 @@ We may disclose user Information in special cases when we have reason to believe
 
 ## Control of Passwords
 
-You are required to control your password as described in the [Terms of Use](http://www.fedbid.com/about/terms/). If you have forgotten your password, please contact us at clientservices@fedbid.com. Your password will be emailed to you shortly thereafter. **_Note that FedBid will never ask for your password in an unsolicited phone call or email._**
+You are required to control your password as described in the [Terms of Use](http://www.fedbid.com/marketplace/terms/). If you have forgotten your password, please contact us at clientservices@fedbid.com. Your password will be emailed to you shortly thereafter. **_Note that FedBid will never ask for your password in an unsolicited phone call or email._**
 
 ## Security
 
