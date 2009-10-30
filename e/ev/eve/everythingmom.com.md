@@ -1,0 +1,84 @@
+> *The following text is extracted and transformed from the everythingmom.com privacy policy that was archived on 2009-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091030164557id_/http%3A//www.everythingmom.com/EverythingMom/privacy-policy.html) for the most accurate reproduction.*
+
+# Privacy Policy
+
+##  Privacy Policy 
+
+**Overview**
+
+EverythingMom considers the protection of personal privacy to be one of our most important values.  This privacy policy (" Policy ") gives you specific information on how we protect your privacy, how we treat personal information, and the choices you have.  This privacy policy is compliant with federal and provincial privacy laws including the federal Personal Information Protection and Electronic Documents Act.   A summary of the ten principles of fair information practices is included at the end of this Privacy Statement.
+
+This Policy applies to all web sites and services owned or provided by EverythingMom and its subsidiaries, which we refer to here collectively as "EverythingMom Sites".  From time to time we may add new sites, domain names or services to those listed above.  Please note that this Policy applies only to sites owned and services maintained by EverythingMom or its corporate subsidiaries and not to web sites or services provided by other companies or organizations to which we link.  [](http://www.paypal.com/)
+
+As a condition of using the EverythingMom Sites, you agree to be bound by the terms of this Policy.  Additional terms and conditions which govern your use of the EverythingMom Sites are contained in our User Agreement, and, as applicable, in certain other service-specific license agreements or terms of use, which you will be notified of at the time of your registration for the applicable services.
+
+The Policy is accessible through the EverythingMom Sites in several ways, including from a link entitled "Privacy" at the bottom of every EverythingMom.com page.  You acknowledge that this Policy may change over time.  If we make a material change to the terms of this Policy, we will give you 30 days notice of those changes ("Notice Period") through reasonably prominent disclosure, including via email.  However, you should check the EverythingMom Sites (and EverythingMom.com in particular) regularly for these and other important announcements.  Your continued use of the EverythingMom Sites following the Notice Period will signify that you agree to these changes.
+
+**Children**
+
+The EverythingMom Sites are not directed to children under the age of 13.  The EverythingMom Sites prohibit registration by, and EverythingMom will not knowingly collect personally identifiable information from, anyone under 13.  This requirement will be posted at points of data collection within the EverythingMom Sites, such as registration for services.
+
+Note to Parents.  If you have any concerns about the EverythingMom Sites, please contact us directly.  EverythingMom encourages parents to spend time online with their children.  We also urge parents to instruct their children never to give out their real names, addresses or phone numbers without parental permission when using the Internet.
+
+**Information Collection, Storage and Use**
+
+We refer to information that identifies an individual as "Personal Information. " In general, EverythingMom collects Personal Information from users of the EverythingMom Sites in connection with access to certain online areas or services, including during (i) registration for certain online community services and tools such as message boards, chat rooms or other community services; (ii) registration for special communications, such as email updates and newsletters; (iii) subscription registration; (iv) user surveys; and (v) events, sweepstakes, contests or promotions.  Your Personal Information is stored on EverythingMom computer servers (or those of its service providers) located in Canada.
+
+We may gather data about the areas of the EverythingMom Sites you visit or access.  We do not use any of this navigational data about where you "as an individual user" go on EverythingMom Sites or share any of this data with third parties.  However, we do use and share navigational data in aggregate, non-personal form to understand how our users as a group use the EverythingMom Sites.
+
+Please keep in mind that whenever you voluntarily disclose personal information in public areas of an EverythingMom Site, such as the member home pages and message boards, your information can be viewed and possibly used by others.  We advise users to be especially careful in such public areas about disclosing Personal Information, such as full name, home address, or phone number.
+
+Below are more details about the Personal Information we, or third parties may gather from you and how we may use it.
+
+_**A.   Email Notifications.**_ EverythingMom offers email notifications links for its monthly online newsletter to its registered users.  We will use your email address to send you only the specific notifications for the newsletter(s) that you signed up for.  If you want to update your email address or stop receiving the links to the newsletter, follow the procedures to unsubscribe at the bottom of any newsletter link email we send you or simply visit [http://www.everythingmom.com](http://www.everythingmom.com/) to update your profile.
+
+_**B.   Membership Information. **_ When you register for membership on a EverythingMom site, we will ask you for certain minimum required information, such as your name, email address, mailing address and postal/zip code.  We may also ask for additional information about you and your interests.  We do this so we can better understand your preferences and tailor the EverythingMom Sites to suit you better.  The more information you volunteer, the more we can tailor the EverythingMom Site and promotions to your interests.  Additionally, third-party service providers may require you to assent to their privacy party as a condition to receiving their service.
+
+_**C.   Email Updates to Members.**_ We may contact you regarding account status, changes to this Policy, our User Agreement or other terms of use, to confirm your registration or for any other business reason related to your use of EverythingMom Sites.  If you want to update your email address or stop receiving these types of promotional emails, please follow the procedures to unsubscribe at the bottom of any email we send you or simply visit [http://www.everythingmom.com](http://www.everythingmom.com/) to update your profile.
+
+_**D.   Promotions. **_ We may ask you for Personal Information at other times, including, but not limited to, when you enter sweepstakes, contests or promotions sponsored by EverythingMom or a third party.  If you choose to enter sweepstakes, contests or promotions sponsored by a third party, the Personal Information you provide will be subject to the privacy policy of the third party sponsor.  We encourage you to check the applicable third party policy before providing any Personal Information.
+
+_**E.   Surveys and User Research.**_ EverythingMom conducts email and web-delivered surveys from time to time, as well as instant polls, to gather information about our users.  Taking these surveys and polls is entirely optional.  You have no obligation to respond to them.  We share only the aggregate results of these surveys, not Personal Information, with our advertisers and partners to help them better understand our services and monitor the reach of their advertising or other offerings on our service.  We also use some of the Personal Information that you provide in these surveys to help us understand your interests and to make the EverythingMom Sites more useful to you.
+
+_**F.   Use of Cookies.**_ On the Internet, a "cookie" is a piece of information (a file) that a Web site transfers to a user's computer for record-keeping purposes.  The use of cookies is common on the Internet.  The process we use to serve advertisements and to track use of the EverythingMom Sites involves cookies.  We use cookies to recognize users who have already registered for a EverythingMom Site, allowing those users to speed up their future activities on the EverythingMom Sites.  Cookies help EverythingMom and our advertising service (discussed below) track the frequency and placement of advertisements.  Cookies also enable us to measure aggregate (total) usage and traffic to the EverythingMom Sites and to specific offerings.  This aids us in producing content that best meets our users' preferences.  In order to implement new services, we may use other types of cookies as well.  We also may use cookies to understand better what parts of the EverythingMom Sites you like best.  We may use that information to display advertisements that we think will be of particular interest to you.  You may configure your browser to reject cookies, but this may interfere with some functionality of the EverythingMom Sites.
+
+_**G.   Purchase of Products or Services.**_ When you purchase products or services from or through the EverythingMom Sites we may require Personal Information such as name, address, telephone number and billing information, including credit card, debit card or bank account data.   ALL PAYMENT INORMATION IS HANDLED THROUGH OUR GATEWAY PARTNER , [www.paypal.com](http://www.paypal.com/).  WE DO NOT STORE ANY FINANICIAL INFORMATION ON OUR SERVERS.  We ask that you refer to Paypal's specific privacy policy for more information .
+
+_**H.   Software Updates; Interactive Material.**_ EverythingMom automatically updates software used in conjunction with certain of the services available on the EverythingMom Sites.  In order to update this software, EverythingMom collects a user's current version information from the user's computer.  This information is not archived and is only used to determine which software requires updating.
+
+_**I.   Sites You Visit. **_ As you access our Partner Sites and browse around the EverythingMom Sites, EverythingMom may store information about which pages and which Partner Sites you visit and other information presented in your browser's URL address line.  EverythingMom will use this information to help determine what our users are most interested in.
+
+_**J.   Sharing Non-Personal Information.**_ EverythingMom may share information that is not Personal Information -- meaning non-personal, aggregate, or summary, information regarding our users -- with other third parties not mentioned in this Policy.  This kind of information does not identify you individually.
+
+_**K.   Merger or Acquisition.**_ In the event of a merger, acquisition, reorganization, sale of all or substantially all of its assets, or the sale of an individual website owned by EverythingMom, EverythingMom may transfer your Personal Information to a third party as a part of such merger, acquisition, reorganization, or sale.
+
+_**L.   Legal Authorities. **_ We may also disclose Personal Information in cases when we reasonably believe that it is necessary to identify someone who may be violating EverythingMom policies or EverythingMom Sites User Agreements or other terms of use, or who may be a threat to EverythingMom or third party rights, property, or personal safety.  The EverythingMom Sites may disclose Personal Information to comply with valid legal process such as a duly issued search warrant, subpoena or court order.
+
+**Access to Other Sites through EverythingMom**
+
+**Our Partner Sites.** You should be aware that when you are on an EverythingMom Site, you will have the opportunity to visit, or link to, other sites associated with EverythingMom .  These sites are identified as our "Partner Sites".  These sites are not owned or operated by EverythingMom, but are part of a larger network of sites with which the EverythingMom Sites share content and advertising opportunities.  We do not share your Personal Information with these Partner Sites.
+
+**Linking to Other Sites.** You may also visit independent web sites, not owned or operated by EverythingMom, through links on the EverythingMom ce Sites.  Such sites are operated by external, third-party service providers.  Some of these sites will have their own separate membership processes and privacy policies.  We do not control sites that are operated by others and are not responsible for the information practices of these sites.  Other sites may set their own cookies, collect data or solicit personal information.  It is always a good idea to check the privacy policy and terms of use of any site before offering any of your Personal Information.  We do not share your Personal Information with these independent web sites.
+
+**Information Storage and Security**
+
+Your Personal Information is stored on EverythingMom computer servers (or those of its service providers) located in the Canada.  We protect your Personal Information with technical, administrative and physical safeguards to protect against loss, unauthorized access, destruction, misuse, modification and improper disclosure.  No computer system or information can ever be fully protected against every possible hazard.  But EverythingMom is committed to providing reasonable and appropriate security controls to protect our EverythingMom Sites and all Personal Information against foreseeable hazards.
+
+Notwithstanding these security measures, please be aware that when you submit Personal Information to the EverythingMom Sites over the Internet, the information may travel over many systems that are not under the EverythingMom's control.  We take the protection of user data very seriously and to that end take reasonable safeguards to prevent interception of any Personal Information.  In the case of shopping pages, for example, the credit card information you submit is protected by secure servers.
+
+**Accessing, Correcting and Updating Your Information**
+
+To access, correct or update your account or other Personal Information such as your city or interests, please use the "Edit profile page" at the EverythingMom Site on which you are registered.If you have any other questions, comments or complaints about this Policy, please contact us via our contact page or at:
+
+www.EverythingMom.com  
+Phone:403.705.4863
+
+**Protection of Intellectual Rights and License**
+
+You acknowledge that content available through the Web Site, including, without limitation, content in the form of text, graphics, software, music, sound, photographs, and videos, and content provided by suppliers, sponsors, or third-party advertisers ("Intellectual Property Rights"), is protected by copyrights, trademarks, patents, or other proprietary rights and laws. Except as expressly authorized by EverythingMom herein, you agree not to copy, modify, rent, lease, loan, sell, assign, distribute, license, reverse engineer, or create derivative works based on the Web Site or any content (including, without limitation, any software) available through the Web Site. You are hereby granted a nonexclusive, nontransferable, revocable, limited license to view, copy, print, and distribute content retrieved from the Web Site for your personal, noncommercial purposes, provided that you do not remove or obscure the copyright notice or other notices displayed on the content. You may not copy, reprint, modify, distribute, or sell content retrieved from the Web Site in any way, for any commercial use or provide it to any commercial source, including other Web sites, regardless of whether you receive compensation, without the prior written permission of EverythingMom. You may not frame any trademark, logo, or other proprietary information on this Web Site without the express written consent of EverythingMom. Except as expressly provided in the Agreement, nothing contained in the Agreement or on the Web Site shall be construed as conferring any other license or right, expressly, by implication, by estoppel, or otherwise under any of EverythingMom's Intellectual Property Rights or under any third party's Intellectual Property Rights. Any rights not expressly granted herein are reserved.
+
+**Anonymous Content on EverythingMom.com Forums  
+**Forum messages that are posted without a EverythingMom.com username are anonymous to the members and viewers of EverythingMom.com forum content. All anonymous messags must adhere to the Privacy Policy of EverythingMom.com. Although anonymous to all members, administrators of EverythingMom.com track each message to a IP address and will keep them private according to the Privacy Policy.
+
+  
+
