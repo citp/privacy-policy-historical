@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nevadaart.org privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608190619id_/http%3A//www.nevadaart.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nevadaart.org privacy policy that was archived on 2009-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091030063420id_/http%3A//www.nevadaart.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy of the NMA
 
