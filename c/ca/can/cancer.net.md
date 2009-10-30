@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the cancer.net privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623063546id_/http%3A//www.cancer.net/portal/site/patient/menuitem.034b98abc65a8f566343cc10ee37a01d/%3Fvgnextoid%3D441b03e8448d9010VgnVCM100000f2730ad1RCRD%26vgnextfmt%3Ddefault) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cancer.net privacy policy that was archived on 2009-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091030011600id_/http%3A//www.cancer.net/portal/site/patient/menuitem.034b98abc65a8f566343cc10ee37a01d/%3Fvgnextoid%3D441b03e8448d9010VgnVCM100000f2730ad1RCRD%26vgnextfmt%3Ddefault) for the most accurate reproduction.*
 
 # Privacy Policy | Cancer.Net
+
+##  Privacy Policy  
 
 **American Society of Clinical Oncology** (last updated May 22, 2007)
 
@@ -46,7 +48,8 @@ Your privacy is important to the American Society of Clinical Oncology (hereafte
   8. how we comply with the Children’s Online Privacy Protection Act, and
   9. where you can get questions answered about this Privacy Policy
 
-  
+
+
 We hope that reading this Privacy Policy gives you a clear idea of how we manage information about you. Throughout this Privacy Policy, we have underlined various terms and hot-linked them to our Glossary (Section 13 of this Privacy Policy), or hot-linked to a relevant Section within this Privacy Policy, to help you better understand their meaning.
 
 **2\. Certain General Principles, Terms, and Disclaimers**
@@ -62,7 +65,8 @@ While information is critical to our ability to provide high quality service to 
   3. require any other organization that we retain or engage to provide support services to us to conform to our privacy standards, and
   4. keep visitor files, if any, complete, up to date, and accurate.
 
-  
+
+
 Some features on the Website may require you to register as a user and to receive our authorization before you can use those particular features. Whether you are an individual or a corporation, partnership, or other form of commercial enterprise, in order for you obtain our authorization to use those features and to be considered a registered user, you may be required to provide us with certain information about you or your business and, if a business, any or all individuals you designate to represent that business in connection with your use of the Website (e.g. names, addresses, e-mail addresses, telephone numbers, and other Personally Identifiable Information of each individual who will use the Website). Once we have authorized you as a registered user, we may provide you with a customer identification number and you will select a unique username and password. Generally, you will be able to change your password and any Personally Identifiable Information you have given us in order to protect the security of your password and reflect updates to your information (instructions on how to make these changes can be found in Section 6 of this Privacy Policy). If you are a designated representative of a business, keep in mind that a properly authorized representative of that business may revoke your status and, if we are notified of this revocation, ASCO will immediately terminate your right to use the Website as a registered user representing that business. Please note that submitting information to us is not a guarantee or assurance that we will grant authorization to you or permit you, or anyone you designate, to use any or all of the services of the Website. If for any reason you are not granted authorization we will retain the information you submit to us only in order to communicate with you regarding your application; we may, however, request additional or follow-up information for audit purposes or as may be required by law or regulation.
 
 If you are submitting Personally Identifiable Information on behalf of others in your family, business or other organization for registration purposes or otherwise, you represent that you have their permission, agreement and full authorization to provide this information to us. We reserve the right (a) to ask you to provide evidence of your authority at any time during, or even after, the submission process and (b) to contact those individuals to confirm your authority at any time. If we determine that your authority has not been properly obtained, we may immediately and without notice to you discontinue your authorized use of those features of the Website for which you have registered.
@@ -89,7 +93,8 @@ The following list provides examples of how we may use your Non-Personal Informa
   8. To assess and monitor usage of the Website and specific features or services.
   9. To monitor compliance with the Terms and Conditions, this Privacy Policy, and any other rules, agreements, or policies governing your use of the Website.
 
-  
+
+
 **How we collect NPI.** We collect Non-Personal Information about your use of the Website through our use of Cookies and through other technical means (e.g. Click Stream Information such as log files, Web Beacons, etc.). We encourage you to research online resources and learn about not only Cookies but also the other technical means through which information about you may be collected through Web sites you visit. Your browser software can be set to reject all Cookies. A “help” section of most browsers’ toolbar usually offers instructions on how to reset the browser to reject Cookies. If you reject our Cookies, certain functions and conveniences of the Website may not work properly, but we believe you do not have to accept our Cookies in order to productively use the Website.
 
 **Anonymous nature of NPI; linking of NPI and PII.** Generally, the NPI we collect about you is attached to arbitrary, anonymous system names that are assigned to visitors when then enter the Website. Please note, however, that during the registration process, or at other times during your use of the Website, we may ask for your permission to link your NPI with your PII.
@@ -105,7 +110,8 @@ The following list provides examples of how we may use your Non-Personal Informa
   7. To facilitate users’ log-in and navigation and as session timers.
   8. To restrict underage use of our services.
 
-  
+
+
 **Disclosure of Aggregate Information.** ASCO may provide Aggregate Information to third parties. For example, we might inform third parties regarding the number of users of the Website and the activities they conduct while on the Website. We might for example inform a pharmaceutical company (that may or may not be sponsor of the Website) that “30% of our users live east of the Mississippi” or that “25% of our users have tried alternative medicine.” We require parties with whom we share Aggregate Information to agree that they will not attempt to make this information Personally Identifiable Information, such as by combining it with other databases.
 
 **How we collect PII.** The PII that we collect and store generally consists of information gathered when you register with the Website for specific services and/or when you update any registration or profile information, but may also include other data input, forms, and information you provide to us whether electronically, by phone, by telecopier, in writing, in person, or by any other means. Your PII may also include information about your transactions and experiences with ASCO, including account balances and purchasing activity. If you provide us with PII through the Website, we will give you the opportunity to “Opt-Out” of receiving future communications from us related to the specific service for which we requested that information. Section 7 of this Privacy Policy more specifically describes how to Opt-Out from and Opt-In to communications from us.
