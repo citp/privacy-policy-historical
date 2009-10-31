@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the changemakers.net privacy policy that was archived on 2009-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090519094518id_/http%3A//www.changemakers.net/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the changemakers.net privacy policy that was archived on 2009-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091031124216id_/http%3A//www.changemakers.com/en-us/legal) for the most accurate reproduction.*
 
 # Legal & Privacy Policy | Changemakers
 
@@ -26,11 +26,11 @@ We also enable you to submit personally identifiable information about other peo
 
 We use and disclose Personal Information to process and complete donations and to provide information about our organization or other issues of interest.
 
-WE WILL NOT SELL ANY PERSONAL INFORMATION THAT YOU PROVIDE THROUGH THE SITE WITHOUT YOUR PRIOR CONSENT. We may use Personal Information that you provide to update you on our activities or to let you know about new projects that we believe may be of interest to you. If you do not want to receive this information in the future, please contact us at privacy@changemakers.net.
+WE WILL NOT SELL ANY PERSONAL INFORMATION THAT YOU PROVIDE THROUGH THE SITE WITHOUT YOUR PRIOR CONSENT. We may use Personal Information that you provide to update you on our activities or to let you know about new projects that we believe may be of interest to you. If you do not want to receive this information in the future, please contact us at [privacy@changemakers.net](mailto:privacy@changemakers.net).
 
-From time to time, we may share certain Personal Information with other non-profits (including other Changemakers affiliates) to enable them to share information that may be of interest to you. If you do not want us to share Personal Information with these entities, please contact us at privacy@changemakers.net and we will take reasonable measures to avoid sharing such information in the future. Please note that these other parties are sometimes independent from Changemakers, and if you wish to stop all communications from such parties, you will need to address such issues with them directly. We may share Personal Information with our consultants or service providers who help us operate more efficiently and serve our stakeholders better. We also contract other companies and individuals (collectively "Suppliers") to perform functions on our behalf, including without limitation, fulfilling and processing orders, processing credit card payments, handling shipping and returns, sending communications to you, and providing customer services. [We require the Suppliers to keep your Personal Information confidential and only use your Personal Information to the extent necessary to perform their functions and not for any other purpose.] We may disclose Personal Information in response to legal process or when we believe in good faith that the law requires it, for example, in response to a court order, subpoena or a law enforcement agency's request. We also reserve the right to disclose Personal Information to protect the security of the Site, to protect ourselves and our affiliated non-profits against liability, and/or in connection with any sale, assignment, or other transfer of some or all of our operations.
+From time to time, we may share certain Personal Information with other non-profits (including other Changemakers affiliates) to enable them to share information that may be of interest to you. If you do not want us to share Personal Information with these entities, please contact us at [privacy@changemakers.net](mailto:privacy@changemakers.net) and we will take reasonable measures to avoid sharing such information in the future. Please note that these other parties are sometimes independent from Changemakers, and if you wish to stop all communications from such parties, you will need to address such issues with them directly. We may share Personal Information with our consultants or service providers who help us operate more efficiently and serve our stakeholders better. We also contract other companies and individuals (collectively "Suppliers") to perform functions on our behalf, including without limitation, fulfilling and processing orders, processing credit card payments, handling shipping and returns, sending communications to you, and providing customer services. [We require the Suppliers to keep your Personal Information confidential and only use your Personal Information to the extent necessary to perform their functions and not for any other purpose.] We may disclose Personal Information in response to legal process or when we believe in good faith that the law requires it, for example, in response to a court order, subpoena or a law enforcement agency's request. We also reserve the right to disclose Personal Information to protect the security of the Site, to protect ourselves and our affiliated non-profits against liability, and/or in connection with any sale, assignment, or other transfer of some or all of our operations.
 
-Donations that are made to Changemakers on the Site are processed via a third-party payment gateway. Credit / Debit card details will only be retained by the party providing the payment services and its affiliated bank only until payment for your donation is processed, unless you authorize the information to be stored for future visits. If you later decide that you do not want us to store such information, you may contact us at privacy@changemakers.net and ask us to delete such information. In the case of a suspected fraudulent transaction, card details may be disclosed for the sole purpose of performing further checks.
+Donations that are made to Changemakers on the Site are processed via a third-party payment gateway. Credit / Debit card details will only be retained by the party providing the payment services and its affiliated bank only until payment for your donation is processed, unless you authorize the information to be stored for future visits. If you later decide that you do not want us to store such information, you may contact us at [privacy@changemakers.net](mailto:privacy@changemakers.net) and ask us to delete such information. In the case of a suspected fraudulent transaction, card details may be disclosed for the sole purpose of performing further checks.
 
 The Site is not directed to persons under the age of 13 and we do not knowingly collect Personal Information from anyone under 13 years of age. If you are under the age of 13, please do not disclose Personal Information on the Site.
 
@@ -70,9 +70,12 @@ Ashoka complies fully with all US laws and regulations, including Office of Fore
 
 Your privacy is very important to us. Should you have any questions or concerns about our privacy policies, please address them to:
 
-Changemakers  
-1700 North Moore Street  
-Suite 2000  
-Arlington, VA 22209
+> Changemakers
+> 
+> 1700 North Moore Street
+> 
+> Suite 2000
+> 
+> Arlington, VA 22209
 
 You may also send us an email at [privacy@changemakers.net](mailto:privacy@changemakers.net)
