@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the learningmarkets.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617040838id_/http%3A//www.learningmarkets.com/index.php/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learningmarkets.com privacy policy that was archived on 2009-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091031130138id_/http%3A//www.learningmarkets.com/index.php/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Can't find what you want? Search here: 
 
 **Learning Markets, LLC Privacy Policy**
 
