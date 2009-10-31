@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the overture.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627015517id_/http%3A//info.yahoo.com/privacy/us/biz/yas) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overture.com privacy policy that was archived on 2009-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091031144128id_/http%3A//info.yahoo.com/privacy/us/biz/yas) for the most accurate reproduction.*
 
 # Yahoo! Privacy Policy
 
