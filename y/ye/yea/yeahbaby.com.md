@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yeahbaby.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627212803id_/http%3A//www.yeahbaby.com/bottom-links.php%3Fpage%3D161) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yeahbaby.com privacy policy that was archived on 2009-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091031202406id_/http%3A//www.yeahbaby.com/bottom-links.php%3Fpage%3D161) for the most accurate reproduction.*
 
 # Privacy Policy for YeahBaby.com
 
@@ -28,9 +28,12 @@ In developing our business, we might sell certain assets or the company, or part
 **Use of Cookies**  
 Our site uses a technology called "cookies," which are small files that are placed on your computer by our servers stored by your browser to help keep track of your user profile. We use temporary cookies to remember your personal profile for your convenience, to deliver content specific to your needs and interests, and to ensure you don't see the same advertisement repeatedly. We also use cookies to track user trends and improve areas of our sites that our users find valuable. We do not share cookie information with anyone without your permission. 
 
-YeahBaby.com may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. 
+**Third Party Advertising**  
+YeahBaby.com use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
-Some advertisers or third party ad servers may also use their own cookies. We do not have access to this information collected by third parties. 
+Some third party advertisers may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. 
+
+Some advertisers or third party ad servers may also use their own cookies. We do not have access to this information collected by third parties.
 
 You have the ability to accept or decline cookies by modifying your browser and our web sites are viewable even if you disable the cookie function on your browser. However, if you disable cookies, some advanced and customized features of our site, as well as other web sites, will not be available to you. 
 
