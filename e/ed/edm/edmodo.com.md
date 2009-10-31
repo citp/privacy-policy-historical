@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edmodo.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627214807id_/http%3A//www.edmodo.com/legal/privacy.php%3FTB_iframe%3Dtrue%26height%3D400%26width%3D500) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edmodo.com privacy policy that was archived on 2009-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091031014059id_/http%3A//www.edmodo.com/legal/privacy.php%3FTB_iframe%3Dtrue%26height%3D400%26width%3D500) for the most accurate reproduction.*
 
 # edmodo - Privacy Policy
 
