@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freakingnews.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627140718id_/http%3A//www.freakingnews.com/help.asp%3Fhelp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freakingnews.com privacy policy that was archived on 2009-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091031083321id_/http%3A//www.freakingnews.com/help.asp%3Fhelp%3Dprivacy) for the most accurate reproduction.*
 
 # FreakingNews.com - News Photoshop Pictures Contests - home page
 
@@ -48,7 +48,7 @@ Children below thirteen years of age may use our website by complying with our p
 **Updating or Deleting Your Information  
 **
 
-You can change or delete your "optional" information in the [User Profile](https://web.archive.org/user_profile.asp) section, if you would like to change or hide from the public your "required" information. Any required information (with the exception of your username), will be completely hidden from the public, or an option to hide it from the public will be available.  
+You can change or delete your "optional" information in the User Profile section, if you would like to change or hide from the public your "required" information. Any required information (with the exception of your username), will be completely hidden from the public, or an option to hide it from the public will be available.  
   
 **Security**  
 We understand that many consumers are concerned about security on the Internet. The security of the information that you provide to us is also very important to us. To prevent unauthorized disclosure, maintain data accuracy and ensure the correct use of information, we have in place reasonable physical, electronic and managerial procedures to safeguard and secure any information we collect online. Our payment systems vendor uses Secure Sockets Layer (SSL), an advanced encryption protocol, to scramble credit card information that you enter so that it cannot be read as it is transmitted across the Internet. SSL is the recognized industry standard worldwide for such sensitive transactions, enhancing safety when you shop with a credit card on the web. It is important for you to protect against unauthorized access to your password and to your computer. 
