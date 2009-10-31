@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the style-hair-magazine.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624235525id_/http%3A//www.style-hair-magazine.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the style-hair-magazine.com privacy policy that was archived on 2009-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091031142327id_/http%3A//www.style-hair-magazine.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
