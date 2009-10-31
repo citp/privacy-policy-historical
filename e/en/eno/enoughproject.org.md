@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enoughproject.org privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623172646id_/http%3A//www.enoughproject.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enoughproject.org privacy policy that was archived on 2009-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091031203149id_/http%3A//www.enoughproject.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Enough
 
@@ -21,8 +21,6 @@ What The Parties Will Do With Your Information**
 American Progress will neither sell nor share the personal information you provide or we collect through the website for Enough to any unaffiliated organization without your permission, with the following exceptions. We may share personal information with third parties who provide services, such as website hosting or other services of an administrative or technical nature, solely for the purpose of providing such services and subject to confidentiality obligations. In addition, we reserve the right to disclose personal information about visitors: if we believe in good faith that the law permits it; to protect the rights, property, safety or security of the Parties, our visitors, our registered users or the public; to respond to an emergency; or to enforce any terms of use agreement governing use of a website controlled or operated by us.
 
 From time to time, we may send you information from other like-minded organizations whose products or services we think subscribers might find interesting, but we do not exchange, trade, rent, or give email lists to unaffiliated third parties.
-
-* Special Ante Up for Africa Note: For the special [Ante Up for Africa](https://ssl1.americanprogress.org/dia/organizationsCAP/americanprogress/) event on July 2, 2008 and the associated unique donation page, we will share limited contact and donation information with the Ante Up for Africa organizers, Don Cheadle, Annie Duke, and Norman Epstein (the "Organizers") and Not On Our Watch. The Organizers have agreed not to share or sell your information with anybody.
 
 **If You Sign Up For One Of Our Mailing Lists**
 
