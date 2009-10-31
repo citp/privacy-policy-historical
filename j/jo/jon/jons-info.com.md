@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jons-info.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622041427id_/http%3A//www.jons-info.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jons-info.com privacy policy that was archived on 2009-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091031143500id_/http%3A//www.jons-info.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
