@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tiresplus.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619224900id_/http%3A//tiresplus.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiresplus.com privacy policy that was archived on 2009-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091031081015id_/http%3A//www.tiresplus.com/privacy_statement) for the most accurate reproduction.*
 
 # Tires Plus Total Car Care - Privacy statement
 
