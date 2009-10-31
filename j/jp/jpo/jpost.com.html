@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jpost.com privacy policy that was archived on 2009-02-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090210192548id_/http%3A//info.jpost.com/2000/PrivacyStatement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jpost.com privacy policy that was archived on 2009-10-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091031071228id_/http%3A//info.jpost.com/2000/PrivacyStatement) for the most accurate reproduction.-->
 
 <html><head>
 <title>Jerusalem Post | Breaking News from Israel, the Middle East and the Jewish World</title>
@@ -11,7 +11,69 @@
 <link rel="alternate" type="application/rss+xml" title="JPost.com Headlines RSS" href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/RSS&amp;cid=1123495333389">
 <meta name="Description" content="Latest news from The Jerusalem Post, the world's top English-language daily newspaper covering Israel, the Middle East and the Jewish World.">
 <meta name="Keywords" content="Abbas, Olmert, Israel, Israel News, Jerusalem, Jew, Jews, Jewish, Judaism, Middle East, Gaza, Palestinians, Hamas, Zionism, West Bank, Holy Land, Arafat, terrorism, Iran, Syria, Lebanon, Iraq">
-</head>
+<script type="text/javascript">
+var errorID='errorMessage';
+  var errorClass='lead red';
+  var errorMsg='Please enter the fields marked with an asterisk';
+  
+function checkform(of){
+var reqfields=document.getElementById('required').value.split(',');
+if(!document.getElementById || !document.createTextNode){return;}
+  if(!document.getElementById('required')){return;}
+  if(!document.getElementById(errorID)){return;}
+  // Cleanup old mess
+  // if there is an old errormessage field, delete it
+ document.getElementById(errorID).innerHTML = "";
+  // loop over required fields
+  for(var i=0;i<reqfields.length;i++)
+  {
+    // check if required field is there
+    var f=document.getElementById(reqfields[i]);
+
+  if(!f){continue;}
+
+  // test if the required field has an error, 
+  // according to its type
+
+    switch(f.type.toLowerCase())
+    {
+      case 'text':
+        if(f.value=='' && f.name!='email'){cf_adderr(of);}              
+  // email is a special field and needs checking
+        if(f.name=='email' && 
+        !cf_isEmailAddr(f.value)){cf_emailerr(f)}              
+      break;
+      case 'textarea':
+        if(f.value==''){cf_adderr(f)}              
+      break;
+      case 'checkbox':
+        if(!f.checked){cf_adderr(f)}              
+      break;
+      case 'select-one':
+        if(!f.selectedIndex && f.selectedIndex==0){cf_adderr(f)}              
+      break;
+    }
+    
+  }
+ return document.getElementById(errorID).innerHTML=="";
+ }
+ /* Tool methods */
+  function cf_adderr(o)
+  {
+   var err = document.getElementById(errorID);
+   err.innerHTML = errorMsg;
+  }
+function cf_emailerr(o)
+  {
+   var err = document.getElementById(errorID);
+   err.innerHTML = 'Email field is invalid. Please fix it';
+  }
+  function cf_isEmailAddr(str) 
+  {
+      return str.match(/^[\w-]+(\.[\w-]+)*@([\w-]+\.)+[a-zA-Z]{2,7}$/);
+  }
+
+</script></head>
 
 <body bgcolor="#FFFFFF">
 <a name="top"></a>
@@ -22,7 +84,7 @@
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-	<td class="bottomline" height="16px"><b><a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/InnerPage&amp;cid=1123495333275" onfocus="this.blur()" class="rss">RSS</a> | <a href="http://blogcentral.jpost.com/" target="_top">Blogs</a> | <a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/IndexParMult&amp;cid=1145961369337" class="alertFF0"><img src="http://static.jpost.com/images/2008/site/ic/ic.nuke.gif" border="0" width="17" height="13" align="absmiddle">Iran News</a></b>&nbsp;</td>
+	<td class="bottomline" height="16px"><b><a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/InnerPage&amp;cid=1123495333275" onfocus="this.blur()" class="rss">RSS</a> | <a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/SimplePage&amp;cid=1245228922078" target="_top">Advertise with Us</a> | <a href="http://blogcentral.jpost.com/" target="_top">Blogs</a> | <a href="http://judaica.jpost.com/" target="_blank">Judaica Gifts</a></b>&nbsp;</td>
 	<td width="520" class="bottomline" align="RIGHT"><b> 
 			<script language="JavaScript">
 
@@ -65,7 +127,7 @@
 			<td class="topnavdiv"></td>
 			<td width="118"><a href="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/MyKehila_top.nav/ClickTracking.gif/999" target="_top" onfocus="this.blur()"><img src="http://static.jpost.com/images/2007/promos/tnbar/tnavbar.mykehila.gif" width="118" height="18" border="0"></a></td>
 			<td class="topnavdiv"></td>
-			<td width="100"><a href="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/services_ChristianEdition_HP/ClickTracking.gif/999" onfocus="this.blur()" target="_top"><img src="http://static.jpost.com/images/2007/promos/tnbar/tnb.cworld.gif" width="100" height="18" border="0"></a></td>
+			<td width="87"><a href="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/learn_hebrew_jpost_navigation/ClickTracking.gif/999" onfocus="this.blur()" target="_top"><img src="http://static.jpost.com/images/2007/promos/tnbar/tnb.learnhebrew.gif" width="87" height="18" border="0"></a></td>
 			<td class="topnavdiv"></td>
 			<td class="bg_EEE" align="center"><a href="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/BookHotel_top.nav/ClickTracking.gif/999" onfocus="this.blur()" target="_blank"><img src="http://static.jpost.com/images/2007/promos/tnbar/tnb.BookHotel.gif" width="105" height="18" border="0"></a></td>
 			<td class="topnavdiv"></td>
@@ -76,9 +138,29 @@
 	  <div class="bg_FFF"><table width="925" border="0" cellspacing="9" cellpadding="0" class="brdtopbanner">
 		  <tbody><tr> 
 			<td width="728" height="90"> 
-			  <script language="JavaScript">
-OAS_AD('LeaderBrd');
-</script>
+			 <script type="text/javascript">
+   var m3_u = (location.protocol=='https:'?'https://solutions.vaizata.com/adserver/www/delivery/ajs.php':'http://solutions.vaizata.com/adserver/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<script type='text/javascript' src='"+m3_u);
+   if (typeof zoneId == 'undefined')
+      zoneId = 78;
+   document.write ("?zoneid=" + zoneId);
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/script>");
+</script><script type="text/javascript" src="https://solutions.vaizata.com/adserver/www/delivery/ajs.php?zoneid=78&amp;cb=66957799851&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20091031071228id_/http%253A//info.jpost.com/2000/PrivacyStatement"></script>
+<script type="text/javascript">
+var randomnumber=Math.floor(Math.random()*99999999999);
+document.write("<a target='_blank' href='http://solutions.vaizata.com/adserver/www/delivery/ck.php?n=a306be28&amp;cb="+randomnumber);
+document.write("'><img width=0 style=border: none ; src='http://solutions.vaizata.com/adserver/www/delivery/ck.php?zoneid=30&amp;n=a306be28&amp;cb="+randomnumber);
+document.write("'></a>");
+</script><a target="_blank" href="http://solutions.vaizata.com/adserver/www/delivery/ck.php?n=a306be28&amp;cb=17190273074"><img width="0" style="border:" none="" ;="" src="http://solutions.vaizata.com/adserver/www/delivery/ck.php?zoneid=30&amp;n=a306be28&amp;cb=17190273074"></a>
 			</td>
 			<td id="topservblock"> 
 			  <div class="entryone" align="center"><a href="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/services_Subscribe_HP/ClickTracking.gif/999" onfocus="this.blur()" target="_top"><img src="http://static.jpost.com/images/2007/site/2.0/subs.topservblock.gif" height="25" width="146" border="0"></a></div>
@@ -86,7 +168,7 @@ OAS_AD('LeaderBrd');
 				<table border="0" cellspacing="0" cellpadding="0">
 				  <tbody><tr> 
 					<td class="smallTxt" width="80"><a href="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/services_Subscribe_HP/ClickTracking.gif/999" class="topserv" target="_top">Subscribe!</a></td>
-					<td class="smallTxt" width="80"><a href="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/services_NewsTicker_HP/ClickTracking.gif/999" class="topserv" target="_top">News Ticker</a></td>
+					<td class="smallTxt" width="80"><a href="http://judaica.jpost.com/" class="topserv" target="_top">Judaica Gifts</a></td>
 				  </tr>
 				</tbody></table>
 			  </div>
@@ -134,57 +216,58 @@ OAS_AD('LeaderBrd');
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 		  <tbody><tr>
 			<td id="txtnavblock">
-			  <table border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr>
-<td id="txtnav1"><a href="http://www.jpost.com" class="txtnavsect" target="_top">Home</a></td>
-<td id="txtnav1"><a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/IndexList&amp;cid=1123495333395" class="txtnavsect" target="_top">Headlines</a></td>
-<td id="txtnav1"><a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/IndexParMult&amp;cid=1145961369337" class="txtnavsect" target="_top">Iranian Threat</a></td>
-<td id="txtnav1"><a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/IndexParMult&amp;cid=1124114124309" class="txtnavsect" target="_top">Jewish World</a></td>
-<td id="txtnav1"><a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/IndexParMult&amp;cid=1150885851781" class="txtnavsect" target="_top">Opinion</a></td>
-<td id="txtnav1"><a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/IndexParMult&amp;cid=1123495332996" class="txtnavsect" target="_top">Business</a></td>
-<td id="txtnav1"><a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/IndexPhoto&amp;cid=1123495333187" class="txtnavsect" target="_top">Real Estate</a></td>
-<td id="txtnav1"><a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/IndexParMult&amp;cid=1123495333405" class="txtnavsect" target="_top">Local Israel</a></td>
-<td id="txtnav1"><a href="http://blogcentral.jpost.com/" class="txtnavsect" target="_top">Blogs</a></td>
-<td id="txtnav1"><a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/IndexParMult&amp;cid=1123495333424" class="txtnavsect" target="_top">Arts &amp; Culture</a></td>
-<td id="txtnav1"><a href="http://fr.jpost.com/" class="txtnavserv fra" target="_top">Français</a></td>
+			  
+	  <table border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr> 
+		  <td id="txtnav1"><a href="http://www.jpost.com" class="txtnavsect" target="_top">Home</a></td>
+		  <td id="txtnav1"><a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/IndexList&amp;cid=1123495333395" class="txtnavsect" target="_top">Headlines</a></td>
+		  <td id="txtnav1"><a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/IndexParMult&amp;cid=1145961369337" class="txtnavsect" target="_top">Iranian Threat</a></td>
+		  <td id="txtnav1"><a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/IndexParMult&amp;cid=1124114124309" class="txtnavsect" target="_top">Jewish World</a></td>
+		  <td id="txtnav1"><a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/IndexParMult&amp;cid=1150885851781" class="txtnavsect" target="_top">Opinion</a></td>
+		  <td id="txtnav1"><a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/IndexParMult&amp;cid=1123495332996" class="txtnavsect" target="_top">Business</a></td>
+		  <td id="txtnav1"><a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/IndexPhoto&amp;cid=1123495333187" class="txtnavsect" target="_top">Real Estate</a></td>
+		  <td id="txtnav1"><a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/IndexParMult&amp;cid=1123495333405" class="txtnavsect" target="_top">Local Israel</a></td>
+		  <td id="txtnav1"><a href="http://blogcentral.jpost.com/" class="txtnavsect" target="_top">Blogs</a></td>
+		  <td id="txtnav1"><a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/IndexParMult&amp;cid=1123495333424" class="txtnavsect" target="_top"><nobr>Arts &amp; Culture</nobr></a></td>
+		  <td id="txtnav1"><a href="http://fr.jpost.com/" class="txtnavserv fra" target="_top">Français</a></td>
 		  <td id="txtnav1last"><a href="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/services_Classifieds_HP/ClickTracking.gif/999" class="txtnavserv" target="_blank">Classifieds<img src="http://static.jpost.com/images/2007/pdf/pdfsize/4.6mb.gif" align="ABSMIDDLE" border="0" class="margleft3"></a></td>
-				</tr>
-				<tr>
-<td id="txtnav2"><a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/IndexPhoto&amp;cid=1123495333335" class="txtnavsect" target="_top">Israel</a></td>
-<td id="txtnav2"><a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/IndexPhoto&amp;cid=1123495333292" class="txtnavsect" target="_top">Middle East</a></td>
-<td id="txtnav2"><a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/IndexPhoto&amp;cid=1123495333281" class="txtnavsect" target="_top">International</a></td>
-<td id="txtnav2"><a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/IndexSpecials&amp;cid=1227168197428" class="txtnavsect il" style="color:#CC0000" target="_top"><nobr>Elections '09</nobr></a></td>
-<td id="txtnav2"><a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/IndexParMult&amp;cid=1123495333264" class="txtnavsect" target="_top">Features</a></td>
-<td id="txtnav2"><a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/IndexParMult&amp;cid=1123495333055" class="txtnavsect" target="_top">Travel</a></td>
-<td id="txtnav2"><a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/IndexParMult&amp;cid=1123495332908" class="txtnavsect" target="_top">Cafe Oleh</a></td>
-<td id="txtnav2"><a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/IndexParMult&amp;cid=1192380796879" class="txtnavsect" target="_top">Magazine</a></td>
-<td id="txtnav2"><a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/IndexPhoto&amp;cid=1123495333120" class="txtnavsect" target="_top">Sports</a></td>
-<td id="txtnav2"><a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/IndexParMult&amp;cid=1123495333151" class="txtnavsect" target="_top"><nobr>Health &amp; Sci-Tech</nobr></a></td>
-<td id="txtnav2"><a href="http://info.jpost.com/C008/Services/Israel_guide/" class="txtnavserv" target="_top">Israel Guide</a></td>
-<td id="txtnav2last">
-					<form name="ServiceLinks" style="margin:0">
-					 <select name="dropdownmenu" onchange="formRedirect(this.form)" class="servdd">
-<option value="" selected="">Services</option>
-<option value="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/services_eEdition_HP/ClickTracking.gif/999">E-mail Edition</option>
-<option value="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/services_Archives_HP/ClickTracking.gif/999">Archives</option>
-<option value="https://secure.jpost.com/Products/CD/">JPost CD-Rom</option>
-<option value="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/services_Toolbar_HP/ClickTracking.gif/999">JP Toolbar</option>
-<option value="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/services_AllJobsIL_HP/ClickTracking.gif/999">AllJobs Israel</option>
-<option value="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/services_ChristianEdition_HP/ClickTracking.gif/999">Christian World</option>
-<option value="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/services_Youth_HP/ClickTracking.gif/999">Youth Magazines</option>
-<option value="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/services_ePaper_HP/ClickTracking.gif/999">ePaper</option>
-<option value="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/InnerPage&amp;cid=1123495333275">RSS Feeds</option>
-<option value="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/services_Podcasts_HP/ClickTracking.gif/999">Podcasts</option>
-<option value="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/services_NewsTicker_HP/ClickTracking.gif/999">NewsTicker</option>
-<option value="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/Jp_smsAlert_txt/ClickTracking.gif/999">SMS Alerts</option>
-<option value="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/Jp_mobile_txt/ClickTracking.gif/999">JP Mobile</option>
-<option value="">- - - - - -</option>
-<option value="http://info.jpost.com/C006/Services/">ALL SERVICES</option>
-				     </select>
-					</form>
-</td>
-				</tr>
-			  </tbody></table>
+		</tr>
+		<tr> 
+		  <td id="txtnav2"><a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/IndexPhoto&amp;cid=1123495333335" class="txtnavsect" target="_top">Israel</a></td>
+		  <td id="txtnav2"><a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/IndexPhoto&amp;cid=1123495333292" class="txtnavsect" target="_top">Middle East</a></td>
+		  <td id="txtnav2"><a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/IndexPhoto&amp;cid=1123495333281" class="txtnavsect" target="_top">International</a></td>
+		  <td id="txtnav2"><a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/IndexParMult&amp;cid=1123495333151" class="txtnavsect" target="_top"><nobr>Health &amp; Sci-Tech</nobr></a></td>
+		  <td id="txtnav2"><a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/IndexParMult&amp;cid=1123495333264" class="txtnavsect" target="_top">Features</a></td>
+		  <td id="txtnav2"><a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/IndexParMult&amp;cid=1123495333055" class="txtnavsect" target="_top">Travel</a></td>
+		  <td id="txtnav2"><a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/IndexParMult&amp;cid=1123495332908" class="txtnavsect" target="_top">Cafe Oleh</a></td>
+		  <td id="txtnav2"><a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/IndexParMult&amp;cid=1192380796879" class="txtnavsect" target="_top">Magazine</a></td>
+		  <td id="txtnav2"><a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/IndexPhoto&amp;cid=1123495333120" class="txtnavsect" target="_top">Sports</a></td>
+		  <td id="txtnav2"><a href="http://www.jposttravel.com/" class="txtnavsect" target="_top"><nobr>Israel Guide</nobr></a></td>
+		  <td id="txtnav2"><a href="https://secure.jpost.com/Subscribe/" class="txtnavserv" target="_top">Subscribe</a></td>
+		  <td id="txtnav2last"> 
+			<form name="ServiceLinks" style="margin:0">
+			  <select name="dropdownmenu" onchange="formRedirect(this.form)" class="servdd">
+				<option value="" selected="">Services</option>
+				<option value="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/services_eEdition_HP/ClickTracking.gif/999">E-mail Edition</option>
+				<option value="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/services_Archives_HP/ClickTracking.gif/999">Archives</option>
+				<option value="https://secure.jpost.com/Products/CD/">JPost CD-Rom</option>
+				<option value="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/services_Toolbar_HP/ClickTracking.gif/999">JP Toolbar</option>
+				<option value="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/services_AllJobsIL_HP/ClickTracking.gif/999">AllJobs Israel</option>
+				<option value="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/services_ChristianEdition_HP/ClickTracking.gif/999">Christian World</option>
+				<option value="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/services_Youth_HP/ClickTracking.gif/999">Youth Magazines</option>
+				<option value="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/services_ePaper_HP/ClickTracking.gif/999">ePaper</option>
+				<option value="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/InnerPage&amp;cid=1123495333275">RSS Feeds</option>
+				<option value="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/services_Podcasts_HP/ClickTracking.gif/999">Podcasts</option>
+				<option value="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/services_NewsTicker_HP/ClickTracking.gif/999">NewsTicker</option>
+				<option value="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/Jp_smsAlert_txt/ClickTracking.gif/999">SMS Alerts</option>
+				<option value="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/Jp_mobile_txt/ClickTracking.gif/999">JP Mobile</option>
+				<option value="">- - - - - -</option>
+				<option value="http://info.jpost.com/C006/Services/">ALL SERVICES</option>
+			  </select>
+			</form>
+		  </td>
+		</tr>
+	  </tbody></table>
 			</td>
 		  </tr>
 		</tbody></table>
@@ -197,7 +280,7 @@ OAS_AD('LeaderBrd');
   <tbody><tr>
 	<td valign="top" width="125" height="990">
 <!-- START jhappening button -->
-<div class="margbot10"><a href="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/jhappening_fp_btn/ClickTracking.gif/999" target="_blank" onfocus="this.blur()"><img src="http://static.jpost.com/images/2008/promos/jhap.topleft.gif" width="125" height="48" border="0" alt="Jhappening"></a></div>
+<div class="margbot10"><a href="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/jhappening.btn_125/ClickTracking.gif/999" target="_blank" onfocus="this.blur()"><img src="http://static.jpost.com/images/2009/promos/jhap.btn_125.gif" width="125" height="48" border="0" alt="Jhappening.com"></a></div>
 
 <div class="margbot5">
 <table width="100%" border="0" cellspacing="0" cellpadding="0" id="extranav">
@@ -206,7 +289,8 @@ OAS_AD('LeaderBrd');
 			  <div class="hdr9 extraHdr">JPOST.COM EXTRA!</div>
 			  <ul>
 				<li><a href="http://info.jpost.com/C001/Supplements/" class="sansic extra" target="_top">Special Reports</a></li>
-<li><a href="http://info.jpost.com/C009/BrainGames/" class="extra" target="_top">Brain Games<img src="http://static.jpost.com/images/2006/site/ic/ic.new.tiny.gif" border="0" width="16" height="9" align="absmiddle" class="margleft3"></a></li>
+<li><a href="http://hebrew.jpost.com/" class="extra" target="_top">Learn Hebrew<img src="http://static.jpost.com/images/2006/site/ic/ic.new.tiny.gif" border="0" width="16" height="9" align="absmiddle" class="margleft3"></a></li>
+<li><a href="http://info.jpost.com/C009/BrainGames/" class="extra" target="_top">Brain Games</a></li>
 				<li><a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/RadioSectionIndex&amp;cid=1123495333223" class="sansic extra" target="_top">Audio Programs</a></li>
 				<li><a href="http://info.jpost.com/C006/Supplements/MapOfIsrael/" class="sansic extra" target="_top">Map of Israel</a></li>
 				<li><a href="http://info.jpost.com/C005/Supplements/CafeOleh/listings.html" class="sansic extra" target="_top">Israel Resources</a></li>
@@ -229,38 +313,50 @@ OAS_AD('LeaderBrd');
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin:0px 0px 10px 0px; table-layout:fixed; overflow:hidden" class="brd666">
 <tbody><tr><td valign="TOP" align="CENTER" class="bg_203 divider">Specials</td></tr>
 <tr><td valign="TOP" class="bg_FAF announcement" style="padding:5px 5px 0px 5px">
+
+
 <div class="specials"><a href="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/Eldan_text/ClickTracking.gif/999" target="_blank"><b>Eldan Rent a Car</b></a><br>Israel's leading car rental company offers a 20% discount on online reservations
 </div>
 
-<div class="specials"><a href="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/Triangle_Internet_TV_txt/ClickTracking.gif/999" target="_blank"><b>Israeli Basketball</b></a><br>Watch Live Israeli Premier Basketball Games</div>
+
+<div class="specials"><a href="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/Minerals_May09_txt_B/ClickTracking.gif/999" target="_blank"><b>Think Healthy</b></a><br>Minerals Dead Sea cosmetics, special offers online!</div>
+
 
 <div class="specials"><a href="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/Efrat_txt_Aug08.danny/ClickTracking.gif/999" target="_blank"><b>The Best Jewish Charity</b></a><br>Learn how Efrat saved 30,000 lives of Jewish children</div>
 
-<div class="specials"><a href="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/AlonLevin_txt/ClickTracking.gif/999" target="_blank"><b>Send flowers to someone</b></a><br>Send flowers to someone in Gush Dan with Alon Levin - floral design</div>
 
-<div class="specials"><a href="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/TamirRent_txt/ClickTracking.gif/999" target="_blank"><b>Tamir Rent a car</b></a><br>Car rental in Israel, special prices</div>
+<div class="specials"><a href="http://www.tamir-rental.com/rent_car_israel/?utm_source=Jpost&amp;utm_medium=Text%2BAd&amp;utm_content=Home%2BPage%20Left&amp;utm_campaign=Jpost_Text_Left" target="_blank"><b>Tamir Rent a car</b></a><br>Car rental in Israel, special prices</div>
 
-<div class="specials"><a href="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/JChuppah_txt/ClickTracking.gif/999" target="_blank"><b>Find love at JChuppah.com</b></a><br>Use your mouse to findyour spouse!</div>
+
+<div class="specials"><a href="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/JChuppah_txt/ClickTracking.gif/999" target="_blank"><b>Find love at JChuppah.com</b></a><br>Use your mouse to find
+your spouse!</div>
+
 
 <div class="specials"><a href="http://info.jpost.com//C008/Services/Israel_guide/attractions.html" target="_blank"><b>Attractions In Israel</b></a></div>
 
+
 <div class="specials"><a href="http://info.jpost.com/C008/Services/Israel_guide/Israel-hotels.html" target="_blank"><b>Hotels In Israel</b></a></div>
+
 
 <div class="specials"><a href="http://info.jpost.com//C008/Services/Israel_guide/" target="_blank"><b>Israel guide</b></a><br>Your guide to Israel</div>
 
+
 <div class="specials"><a href="http://www.simpletoremember.com" target="_blank"><b>Judaism</b></a></div>
 
+
 <div class="specials"><a href="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/Toolbar_txt/ClickTracking.gif/999" target="_blank"><b>Download JPost.com's toolbar and listen to Israeli radio 24/7</b></a></div>
+
 
 <div class="specials"><a href="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/KKL_green_israel_txt/ClickTracking.gif/999" target="_blank"><b>Green Israel</b></a><br>Protecting Israel's environment</div> 
 
 <div class="specials"><a href="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/Canaan_Aug07_txt_specials/ClickTracking.gif/999" target="_blank"><b>Unique gifts from Israel</b></a></div>
 
+
 <div class="specials"><a href="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/song_text_2007/ClickTracking.gif/999" target="_blank"><b>The future of music</b></a><br>Global community of music makers discover new music</div>
 
-<div class="specials"><a href="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/Jerusalem_gold_hotel_txt/ClickTracking.gif/999" target="_blank"><b>Jerusalem Gold Hotel</b></a><br>Your Home in Jerusalem Pay 6 Stay 7 days</div>
 
 <div class="specials"><a href="http://info.jpost.com/C005/Services/jobs/index.html" target="_blank"><b>Careers at JPost</b></a></div>
+
 
 </td></tr></tbody></table>
 </td>
@@ -328,10 +424,6 @@ OAS_AD('WideTower');
 </div>
 	  <div class="toprul smMkitLinks" align="center"><a href="http://info.jpost.com/C002/Services/Feedback/Sales/" target="_top">Advertise with Us</a><span class="div_vrt">&nbsp; | &nbsp;</span><a href="http://www.jpost.com/MediaKit/" target="_top">Media Kit</a></div>
 
-<div align="center">
-<iframe align="left" frameborder="0" width="160" height="350" scrolling="NO" src="http://www.jpost.com/Extern/Design/Classifieds/jglo.160.spotlight.html"></iframe>
-</div>
-
 	</td>
   </tr>
 </tbody></table>
@@ -359,8 +451,11 @@ OAS_AD('WideTower');
 		</tr>
 		<tr>
 		  <td align="RIGHT" class="menu" valign="TOP"><b>Sites of Interest:</b></td>
-		  <td class="menu"><a href="http://www.kars4kids.org/" target="_blank">Car Donations</a> · <a href="http://info.jpost.com/C005/Info/Organizations/DonateCar/" target="_blank">Donate Car</a> · <a href="http://breitbart.com/" target="_blank">BreitBart.com</a> · <a href="http://www.songweavers.com/default.asp?s=jpsl" target="_blank">The future of music</a> · <a href="http://www.eyeonisrael.com/" target="_blank">Maps of Israel</a> · <a href="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/Kadisha_kukoo_ser_txt/ClickTracking.gif/999" target="_blank"> Gravesite Services </a> · <a href="http://www.canaan-online.com/" target="_blank">Unique Jewish Gifts</a> · <a href="http://www.abcfundraising.com/" target="_blank">Fundraising Ideas</a> · <a href="http://www.tamir-rental.com/" target="_blank">Car Rentals in Israel</a> · <a href="http://www.hosting-review.com/" target="_blank">Web Hosting Providers</a> · <a href="http://www.dentalplans.com/" target="_blank">Dental Plans</a> ·  <a href="http://www.4prom.com/" target="_blank">Prom dresses and gowns</a> · <a href="http://www.promgirl.net/" target="_blank">Prom dresses Jovani</a> · <a href="http://www.tiza.com/" target="_blank">Dresses</a> · <a href="http://www.phoneinfotracer.com/" target="_blank">Trace Phone Number</a> · <a href="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/poalim_splinks/ClickTracking.gif/999" target="_blank">Poalim 
-			Online</a></td>
+		  <td class="menu">
+		  <a href="http://www.shlomo.co.il/PagesEn/RentalNew/SearchAdvance.asp?RT=AIsrael&amp;it=1" target="_blank">Car Rental Israel</a> ·
+       <a href="http://www.tamir-rental.com/" target="_blank">Car Rental in Israel</a> · <a href="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/Joodayoh_May09_Site_Of_Interest/ClickTracking.gif/999" target="_blank">Pioneer Songs Fight Cancer</a>
+  · <a href="http://www.thedavidcitadel.com" target="_blank">Jerusalem hotels</a> · <a href="http://www.israelhotels.org/" target="_blank">Israel Hotels</a> · <a href="https://www.deadseapremium.com/" target="_blank">Dead Sea Salt</a> · <a href="http://breitbart.com/" target="_blank">BreitBart.com</a> · <a href="http://www.songweavers.com/default.asp?s=jpsl" target="_blank">The future of music</a> · <a href="http://www.eyeonisrael.com/" target="_blank">Maps of Israel</a> · <a href="http://www.canaan-online.com/" target="_blank">Unique Jewish Gifts</a> · <a href="http://www.abcfundraising.com/" target="_blank">Fundraising Ideas</a> · <a href="http://www.hosting-review.com/" target="_blank">Web Hosting Providers</a> · <a href="http://www.dentalplans.com/" target="_blank">Dental Plans</a> · 
+			<a href="http://www.4prom.com/" target="_blank">Prom dresses and gowns</a> · <a href="http://www.promgirl.net/" target="_blank">Prom dresses Jovani</a> · <a href="http://www.tiza.com/" target="_blank">Dresses</a> · <a href="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/poalim_splinks/ClickTracking.gif/999" target="_blank">Poalim Online</a></td>
 		  <td class="announcement">&nbsp;</td>
 		</tr>
 		<tr>
@@ -371,12 +466,12 @@ OAS_AD('WideTower');
 		</tr>
 		<tr>
 		  <td align="RIGHT" class="menu" valign="TOP"><b>JPost Guides:</b></td>
-		  <td class="menu"><a href="http://info.jpost.com/C002/Supplements/CharitableFunds/" target="_top">Charitable Funds</a> · <a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/IndexParMult&amp;cid=1173173943177" onfocus="this.blur()" class="green tree" target="_top">Green Israel</a> · <a href="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/jpost_guide_realestate/ClickTracking.gif/999" target="_blank">Real Estate Index</a> · <a href="http://info.jpost.com//C008/Services/Israel_guide/" target="_blank">Israel Tour Guide</a> · <a href="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/Philanthropy_txt/ClickTracking.gif/999" target="_blank" class="newtinyR">Philanthropy Guide</a></td>
+		  <td class="menu"><a href="http://info.jpost.com/C002/Supplements/CharitableFunds/" target="_top">Charitable Funds</a> · <a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/IndexParMult&amp;cid=1173173943177" onfocus="this.blur()" class="green tree" target="_top">Green Israel</a> · <a href="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/jpost_guide_realestate/ClickTracking.gif/999" target="_blank">Real Estate Index</a> · <a href="http://www.jposttravel.com/" target="_blank">Israel Tour Guide</a> · <a href="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/Philanthropy_txt/ClickTracking.gif/999" target="_blank" class="newtinyR">Philanthropy Guide</a> · <a href="http://Hebrew.jpost.com/" class="newtinyR" target="_blank">Learn Hebrew</a></td>
 		  <td class="announcement">&nbsp;</td>
 		</tr>
 		<tr>
 		  <td align="RIGHT" class="menu" valign="TOP"><b>Information:</b></td>
-		  <td class="menu"><a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/AboutUs&amp;cid=1123495332668" onfocus="this.blur()" target="_top">About Us</a> · <a href="http://info.jpost.com/C002/Services/Feedback/" target="_top">Feedback</a> · <a href="http://www.jpost.com/MediaKit/" target="_blank">Media Kit</a> · <a href="http://info.jpost.com/C002/Services/Feedback/Sales/" target="_top">Sales</a> · <a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/Email&amp;cid=1123495333217" onfocus="this.blur()" target="_top">Staff E-mails</a> · <a href="http://info.jpost.com/2000/PrivacyStatement/" target="_top">Privacy Statement</a> · <a href="http://info.jpost.com/C001/Services/Copyright/" target="_top">Copyright</a> · <a href="http://info.jpost.com/C002/Help/termsofuse.html" target="_top">Terms of Use</a> · <a href="http://info.jpost.com/C008/news.partners/" target="_blank">News Partners</a></td>
+		  <td class="menu"><a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/AboutUs&amp;cid=1123495332668" onfocus="this.blur()" target="_top">About Us</a> · <a href="http://info.jpost.com/C002/Services/Feedback/" target="_top">Feedback</a> · <a href="http://www.jpost.com/MediaKit/" target="_blank">Media Kit</a> · <a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/SimplePage&amp;cid=1245228922078" target="_top">Sales</a> · <a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/Email&amp;cid=1123495333217" onfocus="this.blur()" target="_top">Staff E-mails</a> · <a href="http://info.jpost.com/2000/PrivacyStatement/" target="_top">Privacy Statement</a> · <a href="http://info.jpost.com/C001/Services/Copyright/" target="_top">Copyright</a> · <a href="http://info.jpost.com/C002/Help/termsofuse.html" target="_top">Terms of Use</a> · <a href="http://info.jpost.com/C008/news.partners/" target="_blank">News Partners</a> · <a href="http://www.worldnewspaperonline.com/" target="_blank">newspaper online</a></td>
 		  <td class="announcement"></td>
 		</tr>
 	  </tbody></table>
@@ -392,7 +487,7 @@ OAS_AD('WideTower');
 	<td><img src="http://static.jpost.com/images/2002/site/pixel.gif" width="1" height="5"></td>
   </tr>
   <tr>
-	<td class="bottomline" valign="TOP"><b>© 1995 - 2009 The Jerusalem Post. All rights reserved.</b>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/AboutUs&amp;cid=1123495332668" onfocus="this.blur()" target="_top">About Us</a> | <a href="http://www.jpost.com/MediaKit/" target="_blank">Media Kit</a> | <a href="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/jpost_membership_bottom_txt/ClickTracking.gif/999" target="_blank">Exclusive Content</a> | <a href="http://info.jpost.com/C002/Services/Feedback/Sales/" target="_top">Advertise with Us</a> | <a href="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/services_Subscribe_HP/ClickTracking.gif/999" target="_blank">Subscribe</a> | <a href="http://info.jpost.com/C002/Services/Feedback/" target="_top">Contact Us</a> | <a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/InnerPage&amp;cid=1123495333275" onfocus="this.blur()" class="rss"><b>RSS</b></a>
+	<td class="bottomline" valign="TOP"><b>© 1995 - 2009 The Jerusalem Post. All rights reserved.</b>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/AboutUs&amp;cid=1123495332668" onfocus="this.blur()" target="_top">About Us</a> | <a href="http://www.jpost.com/MediaKit/" target="_blank">Media Kit</a> | <a href="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/jpost_membership_bottom_txt/ClickTracking.gif/999" target="_blank">Exclusive Content</a> | <a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/SimplePage&amp;cid=1245228922078" target="_top">Advertise with Us</a> | <a href="http://ads.jpost.com/RealMedia/ads/click_lx.ads/www.jpost.com/index.html/999/TopLeft/services_Subscribe_HP/ClickTracking.gif/999" target="_blank">Subscribe</a> | <a href="http://info.jpost.com/C002/Services/Feedback/" target="_top">Contact Us</a> | <a href="http://www.jpost.com/servlet/Satellite?pagename=JPost/Page/InnerPage&amp;cid=1123495333275" onfocus="this.blur()" class="rss"><b>RSS</b></a>
         
 	  <div class="seoTxt">The online edition of The Jerusalem Post – JPost.com – provides first class news and analysis about Israel, the Middle East and the Jewish world. Whether news about Iran, Gaza, Syria, Fatah, Hamas or Hezbollah, JPost.com covers the burning issues of the Middle East and the Israeli-Arab conflict.</div>	
 	</td>
