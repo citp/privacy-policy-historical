@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the punknews.org privacy policy that was archived on 2009-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090131234130id_/http%3A//www.punknews.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the punknews.org privacy policy that was archived on 2009-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091031015607id_/http%3A//www.punknews.org/privacy) for the most accurate reproduction.*
 
 # Punknews.org | Privacy Policy
 
 ## Introduction.
 
-We take your right to privacy seriously and want you to feel comfortable using our web site. This Privacy Policy deals with personally identifiable information (referred to as "Data" below) that may be collected by us on our site. This Policy does not apply to other entities that we do not own or control or persons that are not our employees, agents or within our control. Please take time to read our [Terms of Use](https://web.archive.org/web/20090131234130id_/http%3A//www.punknews.org/legal.php). 
+We take your right to privacy seriously and want you to feel comfortable using our web site. This Privacy Policy deals with personally identifiable information (referred to as "Data" below) that may be collected by us on our site. This Policy does not apply to other entities that we do not own or control or persons that are not our employees, agents or within our control. Please take time to read our [Terms of Use](https://web.archive.org/web/20091031015607id_/http%3A//www.punknews.org/legal.php). 
 
 ## 1\. Collection of Data.
 
@@ -20,11 +20,11 @@ Like many web sites, we set and use cookies to enhance your user experience, suc
 
 ## 4\. Children.
 
-We do not knowingly allow persons who are ages thirteen or younger to become members of this site without parental or guardian consent. For more information, please contact [our webmaster](https://web.archive.org/web/20090131234130id_/http%3A//www.punknews.org/contactus.php?op=specific&subject=6). Our activities on this site are carried out in compliance with the Children's Online Privacy Protection Act of 1998. Under that Act, we may not ask a child to provide more personal information than is reasonably necessary in order to participate in an activity on this site. We comply with this requirement, and any personally identifiable information collected from a visitor on this site is used only for the purpose of enabling the visitor's participation in activities on this site. 
+We do not knowingly allow persons who are ages thirteen or younger to become members of this site without parental or guardian consent. For more information, please contact [our webmaster](https://web.archive.org/web/20091031015607id_/http%3A//www.punknews.org/contactus.php?op=specific&subject=6). Our activities on this site are carried out in compliance with the Children's Online Privacy Protection Act of 1998. Under that Act, we may not ask a child to provide more personal information than is reasonably necessary in order to participate in an activity on this site. We comply with this requirement, and any personally identifiable information collected from a visitor on this site is used only for the purpose of enabling the visitor's participation in activities on this site. 
 
 ## 5\. Editing or Deleting Your Account Information.
 
-We provide you with the ability to edit the information in your user account information that you provided to us in registration by using [your personal page configuration area](https://web.archive.org/web/20090131234130id_/http%3A//www.punknews.org/user.php). You may request deletion of your user account by contacting [our webmaster](https://web.archive.org/web/20090131234130id_/http%3A//www.punknews.org/contactus.php?op=specific&subject=6). Content or other data that you may have provided to us and that is not contained within your user account, such as posts that may appear within our forums, may continue to remain on our site at our discretion even though your user account is deleted. Please see our [Terms of Use](https://web.archive.org/web/20090131234130id_/http%3A//www.punknews.org/legal.php) for more information. 
+We provide you with the ability to edit the information in your user account information that you provided to us in registration by using [your personal page configuration area](https://web.archive.org/web/20091031015607id_/http%3A//www.punknews.org/user.php). You may request deletion of your user account by contacting [our webmaster](https://web.archive.org/web/20091031015607id_/http%3A//www.punknews.org/contactus.php?op=specific&subject=6). Content or other data that you may have provided to us and that is not contained within your user account, such as posts that may appear within our forums, may continue to remain on our site at our discretion even though your user account is deleted. Please see our [Terms of Use](https://web.archive.org/web/20091031015607id_/http%3A//www.punknews.org/legal.php) for more information. 
 
 ## 6\. Preservation of Data
 
@@ -38,10 +38,14 @@ This privacy policy conforms to the _[Personal Information Protection and Electr
 
 We may make changes to this Policy from time to time. We will notify you of substantial changes to this Policy either by posting a prominent announcement on our site and/or by sending a message to the e-mail address you have provided to us that is contained within your user settings. 
 
-## 9\. NO GUARANTEES.
+## 9\. Third Parties.
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/). Some advertising providers may use a [DoubleClick DART Cookie](http://www.doubleclick.com/privacy/faq.aspx) and you can opt out of that cookie [here](http://www.google.com/privacy_ads.html). 
+
+## 10\. NO GUARANTEES.
 
 While this Privacy Policy states our standards for maintenance of Data and we will make efforts to meet them, we are not in a position to guarantee these standards. There may be factors beyond our control that may result in disclosure of data. As a consequence, we disclaim any warranties or representations relating to maintenance or nondisclosure of Data. 
 
-## 10\. Contact Information.
+## 11\. Contact Information.
 
-If you have any questions about this Policy or our web site, please feel free to contact [our webmaster](https://web.archive.org/web/20090131234130id_/http%3A//www.punknews.org/contactus.php?op=specific&subject=6). 
+If you have any questions about this Policy or our web site, please feel free to contact [our webmaster](https://web.archive.org/web/20091031015607id_/http%3A//www.punknews.org/contactus.php?op=specific&subject=6). 
