@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the writingclasses.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629150804id_/http%3A//writingclasses.com/InformationPages/index.php/PageID/113) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the writingclasses.com privacy policy that was archived on 2009-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091031140429id_/http%3A//www.writingclasses.com/InformationPages/index.php/PageID/113) for the most accurate reproduction.*
 
 # Our Privacy Policy at WritingClasses.com
 
