@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qsc.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619204311id_/http%3A//www.qsc.com/registration/privacy/website_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qsc.com privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101181023id_/http%3A//www.qsc.com/registration/privacy/website_privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -15,7 +15,7 @@ QSC Audio Products, LLC gathers and stores personal information in the following
 QSC gathers the email addresses of users who voluntarily subscribe. Users may remove themselves from this mailing list by following the link provided in every email that points users to the subscription management page. QSC will periodically send advertising and promotional message to these subscribers. 
 
 **2\. Message boards/forums**  
-Users of the site's Forums must register separately for these services (free of charge) in order to post messages, although they needn't register to visit the site and read posts. During registration the user is required to supply a username, password, and email address. Through the "View/Update Profile" link, you can decide to have your email adress displayed in the forum or hidden. Additionally, you have the option to allow notification upon receiving a Private Message. Information used to register for the forums is not used for advertising or shared with third parties.
+Users of the site's Forums must register separately for these services (free of charge) in order to post messages, although they needn't register to visit the site and read posts. During registration the user is required to supply a username, password, and email address. Through the "View/Update Profile" link, you can decide to have your email address displayed in the forum or hidden. Additionally, you have the option to allow notification upon receiving a Private Message. Information used to register for the forums is not used for advertising or shared with third parties.
 
 **3\. Surveys**  
 QSC may occasionally conduct user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our partners. We never share any of this information about specific individuals with any third party.
@@ -27,7 +27,7 @@ Information gathered for the purposes of fulfilling an online order are never di
 Data gathered with regards to website usage is only used as aggregate data and is not used to identify or track individual users. We sometimes share this data with our partners but not information about specific individuals.
 
 **6\. Warranty and Product Registration**  
-We collect name, address, model & serial number, where the product was purchased and optionally, phone number and email address as a requirement for product registration. To qualify for our 6 year extended warranty promotion, we also ask some questions about your intended usage and optionally some demographic questions. This information is used in aggregate for marketing purposes. QSC does not use product registration information to contact end-users.
+We collect name, address, model & serial number, where the product was purchased and optionally, phone number and email address as a requirement for product registration. To qualify for our 6 year extended warranty promotion, we also ask some questions about your intended usage and optionally some demographic questions. This information is used in aggregate for marketing purposes. QSC may contact you for satisfaction surveys, product recalls or to notify you of rebates and special offers. This information is not shared with third parties. 
 
 **7\. Registration for web training**  
 QSC gathers email addresses and personal information as a condition to access some training materials. This information is used to help improve our training efforts and is not used for advertising or shared with third parties.   
