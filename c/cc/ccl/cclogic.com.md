@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cclogic.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620171058id_/http%3A//www.cclogic.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cclogic.com privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101135136id_/http%3A//www.cclogic.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy| Offshore Company Formation |
 
