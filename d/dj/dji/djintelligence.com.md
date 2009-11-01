@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the djintelligence.com privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526023506id_/http%3A//www.djintelligence.com/pages/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djintelligence.com privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101180614id_/http%3A//www.djintelligence.com/pages/privacy.asp) for the most accurate reproduction.*
 
 # DJ Intelligence® - Privacy Statement
 
 |   
   
 ---  
-**Monday, May 25, 2009   **  
+**Sunday, November 1, 2009   **  
    
 | **   [Home Page](http://www.djintelligence.com/)**  
 | **   [Live Demo Sites](http://www.djintelligence.com/pages/demo.asp)**  
@@ -14,6 +14,7 @@
 | **   [Common Questions](http://www.djintelligence.com/pages/questions.asp)**  
 | **   [How It Works](http://www.djintelligence.com/pages/works.asp)**  
 | **   [True DJ Stories](http://www.djintelligence.com/pages/success.asp)**  
+| **   [Why It Pays](http://www.djintelligence.com/pages/pays.asp)**  
 | **   [Sign Up Now](https://www.djintelligence.com/signup/signup.asp)**  
 | **   [Start Your Trial](https://www.djintelligence.com/signup/trial.asp)**  
 | **   [Contact Us](http://www.djintelligence.com/pages/contact.asp)**  
@@ -25,11 +26,11 @@
 **Professional DJs Speak Up   **  
  
 
-|  "I already have approximately 10 clients on my site doing all their forms and this has already improved my business." |    
+|  "I have now secured regular bookings with one of the UK major hotel chains. The best investment I have made in years!" |    
 ---|---  
   
    
-[Professional DJ Services](http://www.djintelligence.com/pages/success.asp)    
+[Starsound UK](http://www.djintelligence.com/pages/success.asp)    
    
   
 ---  
@@ -98,6 +99,6 @@ Intelligence, Inc. takes your privacy seriously. Please read the following to le
 
 **Questions and Suggestions**
 
-  * If you have questions or suggestions, please [contact us](https://web.archive.org/web/20090526023506id_/http%3A//www.djintelligence.com/pages/contact.asp).
+  * If you have questions or suggestions, please [contact us](https://web.archive.org/web/20091101180614id_/http%3A//www.djintelligence.com/pages/contact.asp).
 
 
