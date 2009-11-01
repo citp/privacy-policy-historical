@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spartantailgate.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419114228id_/http%3A//www.spartantailgate.com/forums/faq.php%3Ffaq%3Dvb_faq%23faq_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spartantailgate.com privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101214948id_/http%3A//www.spartantailgate.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D14%26Itemid%3D38) for the most accurate reproduction.*
 
-# SpartanTailgate.com - Michigan State Spartans Athletics Forums - FAQ: vBulletin FAQ
+# Privacy Policy
 
 SpartanTailgate.com is deeply committed to protecting the privacy of it's users. Absolutely no user-identifiable information is released to any 3rd parties without the user's consent unless required by law. 
 
@@ -58,8 +58,7 @@ When Spartan Tailgate, LLC makes changes to this privacy policy we will post tho
 
 **Contact Information**
 
-If you have any questions regarding our privacy policy, please [contact us](http://www.spartantailgate.com/forums/sendmessage.php). 
+If you have any questions regarding our privacy policy, please [contact us](http://www.spartantailgate.com/forums/sendmessage.php).
 
-Spartan Tailgate, LLC  
-P.O Box 8391  
-Ann Arbor, MI 48104
+  |   
+---|---
