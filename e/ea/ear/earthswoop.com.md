@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earthswoop.com privacy policy that was archived on 2009-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090217174332id_/http%3A//www.earthswoop.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthswoop.com privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101091421id_/http%3A//www.earthswoop.com/privacy.php) for the most accurate reproduction.*
 
 # EarthSwoop - Privacy
 
