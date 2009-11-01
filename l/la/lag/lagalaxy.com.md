@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lagalaxy.com privacy policy that was archived on 2006-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061229095537id_/http%3A//www.mlsnet.com/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lagalaxy.com privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101231139id_/http%3A//la.galaxy.mlsnet.com/about/privacy.jsp) for the most accurate reproduction.*
 
 # Major League Soccer: About: Privacy
 
