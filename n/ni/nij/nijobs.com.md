@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nijobs.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617203336id_/http%3A//www.nijobs.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nijobs.com privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101204944id_/http%3A//www.nijobs.com/about/privacy.asp) for the most accurate reproduction.*
 
 # NIJobs.com - Privacy Policy
 
@@ -89,7 +89,7 @@ Employers can contact you if you choose to make your CV searchable. You have 2 o
 **Allow recruiters to search this CV** ( _Hide details_ ) Select this option if you want recruiters to find your CV but wish to keep your contact details private. Recruiters can contact you via NIjobs.com if they have a position that matches your selected criteria.   
 **Allow recruiters to search this CV** ( _Show details_ ) Select this option if you want recruiters to find your CV and relevant contact details. Recruiters will be able to contact you by phone or by email should a position arise that matches your experience and requirements. 
 
-We endeavour to grant access to the CV database only to recruiters who agree to abide by our [Terms and Conditions](https://web.archive.org/web/20090617203336id_/http%3A//www.nijobs.com/about/terms.asp). However, should a third party gain access to your CV by evading our security measures, we cannot be held responsible. 
+We endeavour to grant access to the CV database only to recruiters who agree to abide by our [Terms and Conditions](https://web.archive.org/web/20091101204944id_/http%3A//www.nijobs.com/about/terms.asp). However, should a third party gain access to your CV by evading our security measures, we cannot be held responsible. 
 
 You may remove your CV from our database at any time. However, recruiters who have already accessed your CV may have kept a copy of it in their own files. Please note that we cannot be held responsible for the retention, use, or privacy of your CV in these instances.
 
