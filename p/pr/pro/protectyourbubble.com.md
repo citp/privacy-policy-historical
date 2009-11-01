@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the protectyourbubble.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619015004id_/http%3A//www.protectyourbubble.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protectyourbubble.com privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101130557id_/http%3A//www.protectyourbubble.com/privacy.html) for the most accurate reproduction.*
 
 # Protectyourbubble Privacy Policy
 
@@ -88,9 +88,9 @@ However, you can contact us at any time to have your details removed from lists 
 
 The Marketing Department,  
 Protect your bubble,  
-117-119, Whitby Road,  
-Slough,  
-SL1 3DR. 
+Assurant House, 6-12 Victoria Street,  
+Windsor,  
+SL4 1EN. 
 
 **Sensitive information**   
 Some of the personal information we ask you for may be sensitive personal data, as defined by the Data Protection Act 1998 (such as information about health or criminal convictions) We will not use such sensitive personal data about you or others except for the specific purpose for which you provide it and to provide the services described in your policy documents. 
