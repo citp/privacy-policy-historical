@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotimportnights.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619130314id_/http%3A//hotimportnights.com/events/content.asp%3Fid%3D9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotimportnights.com privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101152926id_/http%3A//www.hotimportnights.com/events/content.asp%3Fid%3D9) for the most accurate reproduction.*
 
 # Hot Import Nights - car shows, car models, music and lifestyle events
 
