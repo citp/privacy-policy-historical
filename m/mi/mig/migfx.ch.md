@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the migfx.ch privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612182738id_/http%3A//www.migfx.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the migfx.ch privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101042902id_/http%3A//www.migfx.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # MIG Investments SA - Privacy Policy
 
