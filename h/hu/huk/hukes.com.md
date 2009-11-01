@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hukes.com privacy policy that was archived on 2009-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090606121816id_/http%3A//www.hukes.com/help-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hukes.com privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101040407id_/http%3A//www.hukes.com/help-privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
