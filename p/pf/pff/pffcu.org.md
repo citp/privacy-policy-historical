@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pffcu.org privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625121935id_/http%3A//www.pffcu.org/disclosures/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pffcu.org privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101220310id_/http%3A//www.pffcu.org/disclosures/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
