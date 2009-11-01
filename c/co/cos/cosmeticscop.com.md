@@ -1,6 +1,18 @@
-> *The following text is extracted and transformed from the cosmeticscop.com privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502182640id_/http%3A//www.cosmeticscop.com/help-privacy-security-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosmeticscop.com privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101175523id_/http%3A//www.cosmeticscop.com/help-privacy-security-policy.aspx) for the most accurate reproduction.*
 
 # Privacy & Security Policy: Cosmetics Cop: Skin Care & Makeup Tips & Reviews
+
+SHOP PAULA'S CHOICE
+
+ABOUT US
+
+[](http://www.cosmeticscop.com/paula-begoun-videos.aspx)   
+[](http://www.paulaschoice.com/category/books) | 
+
+Privacy & Security Policy
+
+  
+
 
 We respect your privacy and the information you provide will NOT be sold, shared, or disseminated in any way.
 
@@ -43,7 +55,4 @@ If you have any questions about this privacy statement, the practices of this si
 
 [top of page](http://www.cosmeticscop.com/help-privacy-security-policy.aspx#top)
 
-Have any questions about Paula's Choice products or need to talk to a real person?   
-Contact Customer Service via phone 1.800.831.4088, email [custserv@paulaschoice.com](mailto:custserv@paulaschoice.com), or 
-
-. 
+| 
