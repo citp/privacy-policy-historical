@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moviescapital.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620061948id_/http%3A//www.moviescapital.com/main.php%3Fdo%3Dhome%26action%3Dinsert_pages%26flag%3DPRIVACY%2520POLICY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviescapital.com privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101143956id_/http%3A//www.moviescapital.com/main.php%3Fdo%3Dhome%26action%3Dinsert_pages%26flag%3DPRIVACY%2520POLICY) for the most accurate reproduction.*
 
-# MoviesCapital.com - Download DVD Quality movies, Legally!
+# Online Movies - Download Full Movies & Watch movies Online
 
 We have created this Privacy Policy to demonstrate our firm commitment to your privacy and security.
 
