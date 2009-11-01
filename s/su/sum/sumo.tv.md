@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sumo.tv privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628134356id_/http%3A//www.sumo.tv/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sumo.tv privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101175524id_/http%3A//www.sumo.tv/privacy_policy.php) for the most accurate reproduction.*
 
 # SUMO.tv - Video Sharing, User Generated Content, Viral Video
 
