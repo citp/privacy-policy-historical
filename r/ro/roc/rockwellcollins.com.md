@@ -1,45 +1,45 @@
-> *The following text is extracted and transformed from the rockwellcollins.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618081533id_/http%3A//www.rockwellcollins.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockwellcollins.com privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101093644id_/http%3A//www.rockwellcollins.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
-**Last updated February 2008**
+**Last updated September 2009**
 
 **Introduction**
 
-Rockwell Collins Inc. is committed to protecting your privacy. This statement details the steps we take to protect your personal information when you visit our websites. It describes the personal information that we collect, the purposes for which we use such information, and your choices regarding our use of it. The steps we take to protect your personal information and how you can review and correct your personal information are also covered here. By accessing our websites, you are consenting to the information collection and use practices described in this policy. 
+Rockwell Collins Inc. is committed to protecting your privacy. This statement details the steps we take to protect your personal information when you visit our Web sites. It describes the personal information that we collect, the purposes for which we use such information, and your choices regarding our use of it. The steps we take to protect your personal information and how you can review and correct your personal information are also covered here. By accessing our Web sites, you are consenting to the information collection and use practices described in this policy. 
 
 **Our collection of information**
 
-_Information collected directly from you._ Generally, you can visit Rockwell Collins websites without entering any personal information. On certain pages, we may ask you for personal information to provide a service or carry out a transaction that you have requested. The personal information we collect may include: 
+_Information collected directly from you._ Generally, you can visit Rockwell Collins Web sites without entering any personal information. On certain pages, we may ask you for personal information to provide a service or carry out a transaction that you have requested. The personal information we collect may include: 
 
   * Contact details, such as your name, title, company/organization name, email address, telephone and fax numbers, and physical address; 
   * Information about your company and job function;
   * Your email marketing preference;
   * Financial information (including credit card or account information);
   * Information such as your nationality and country of residence that allows us to determine your eligibility under export control regulations to receive information about certain technologies; 
-  * Information used to customize and facilitate your use of our websites, including login and technical information;
+  * Information used to customize and facilitate your use of our Web sites, including login and technical information;
   * Inquiries about and orders for our products and services;
   * Information that assists us in identifying the products and services that best meet your requirements;
   * Event registration information; and
-  * Feedback from you about our websites and our products and services generally.
+  * Feedback from you about our Web sites and our products and services generally.
 
 
 
 You are not required to provide any of this information, but if you do not, we may not be able to provide you the requested service or complete your transaction. 
 
-_Information collected automatically._ We collect information about your visit to our sites, including what pages you view, the date and time you access the site, the number of bytes transferred, links you click, the materials you access, and other actions taken within Rockwell Collins' sites. On sites that you enter with a user ID, we may connect this information with your identity to determine your potential interests in our products and services. We also collect certain standard information that your browser sends to every website you visit, such as your Internet Protocol (IP) address, your browser type and capabilities and language, your operating system, and the website from which you linked to our site. We do not link this information to your identity. 
+_Information collected automatically._ We collect information about your visit to our sites, including what pages you view, the date and time you access the site, the number of bytes transferred, links you click, the materials you access, and other actions taken within Rockwell Collins' sites. On sites that you enter with a user ID, we may connect this information with your identity to determine your potential interests in our products and services. We also collect certain standard information that your browser sends to every Web site you visit, such as your Internet Protocol (IP) address, your browser type and capabilities and language, your operating system, and the Web site from which you linked to our site. We do not link this information to your identity. 
 
 **Use of information**
 
-_Services and transactions._ We use your personal information to deliver services or carry out transactions you have requested, such as providing information on Rockwell Collins products, registering purchased products, processing product orders, handling warranty claims, providing product manuals, answering customer service requests, receiving Rockwell Collins purchase orders and managing supplier information, facilitating use of our websites, and so forth. In order to offer you a more consistent experience in your interactions with Rockwell Collins, information collected by our websites may be combined with information we collect by other means. 
+_Services and transactions._ We use your personal information to deliver services or carry out transactions you have requested, such as providing information on Rockwell Collins products, registering purchased products, processing product orders, handling warranty claims, providing product manuals, answering customer service requests, receiving Rockwell Collins purchase orders and managing supplier information, facilitating use of our Web sites, and so forth. In order to offer you a more consistent experience in your interactions with Rockwell Collins, information collected by our Web sites may be combined with information we collect by other means. 
 
-_Website improvement._ We may use your personal information to improve our websites and related Rockwell Collins products and services, or to make our websites easier to use by eliminating the need for you to repeatedly enter the same information or by customizing our websites to your particular preferences or interests. 
+_Web site improvement._ We may use your personal information to improve our Web sites and related Rockwell Collins products and services, or to make our Web sites easier to use by eliminating the need for you to repeatedly enter the same information or by customizing our Web sites to your particular preferences or interests. 
 
-_Employment applications._ We ask you for personal information in connection with a job application or inquiry, such as information about yourself, a resume or curriculum vitae. We may use this information throughout Rockwell Collins and its controlled subsidiaries and affiliates for the purpose of employment consideration. We will keep the information for future consideration unless you direct us not to do so. By accessing our websites, you are consenting to the information collection and use practices described in this privacy statement. 
+_Employment applications._ We ask you for personal information in connection with a job application or inquiry, such as information about yourself, a resume or curriculum vitae. We may use this information throughout Rockwell Collins and its controlled subsidiaries and affiliates for the purpose of employment consideration. We will keep the information for future consideration unless you direct us not to do so. By accessing our Web sites, you are consenting to the information collection and use practices described in this privacy statement. 
 
-_Disclosure of your personal information._ Except as described below, personal information you provide to Rockwell Collins through our websites will not be shared outside of Rockwell Collins and its controlled subsidiaries and affiliates without your permission. 
+_Disclosure of your personal information._ Except as described below, personal information you provide to Rockwell Collins through our Web sites will not be shared outside of Rockwell Collins and its controlled subsidiaries and affiliates without your permission. 
 
-_Disclosure to service providers._ Rockwell Collins contracts with other companies to provide services on our behalf, such as hosting websites, sending out information, processing transactions, and analyzing our websites. We provide these companies with only those elements of your personal information they need to deliver those services. These companies and their employees are prohibited from using that personal information for any other purpose. 
+_Disclosure to service providers._ Rockwell Collins contracts with other companies to provide services on our behalf, such as hosting Web sites, sending out information, processing transactions, and analyzing our Web sites. We provide these companies with only those elements of your personal information they need to deliver those services. These companies and their employees are prohibited from using that personal information for any other purpose. 
 
 _Disclosure to distributors._ In responding to a request made by you, we may share your personal information with companies that distribute our products or services. In those cases, we provide these companies with only those elements of your personal information they need to respond to your request, and these companies and their employees are prohibited from using that personal information for any other purpose. In some cases, we may seek your permission to share your information with distributors for marketing purposes other than responding to a request from you. However, we will not share your information for such marketing purposes unless we have obtained your express consent to do so. 
 
@@ -55,15 +55,15 @@ Rockwell Collins is committed to protecting the security of your personal inform
 
 **Reviewing your personal information**
 
-In some cases, you can review and correct personal information provided through our websites by going to the page on which you provided the information. In all cases, you can make a request to review and correct your personal information collected via our websites or ask Rockwell Collins to stop using it by completing our "Contact Us" form. We may take steps to verify your identity before providing you access to your personal information. You can help us to maintain the accuracy of your information by notifying us of any change to your mailing address, phone number, or email address. 
+In some cases, you can review and correct personal information provided through our Web sites by going to the page on which you provided the information. In all cases, you can make a request to review and correct your personal information collected via our Web sites or ask Rockwell Collins to stop using it by completing our "Contact Us" form. We may take steps to verify your identity before providing you access to your personal information. You can help us to maintain the accuracy of your information by notifying us of any change to your mailing address, phone number, or email address. 
 
 **International transfers of personal information**
 
-Personal information collected on our websites may be stored and processed in the United States or any other country in which Rockwell Collins or its affiliates, subsidiaries or agents maintain facilities. By using our websites, you consent to any such transfer of information outside of your country. 
+Personal information collected on our Web sites may be stored and processed in the United States or any other country in which Rockwell Collins or its affiliates, subsidiaries or agents maintain facilities. By using our Web sites, you consent to any such transfer of information outside of your country. 
 
 **Links to other sites**
 
-Our websites may contain links to other sites such as professional and government organizations. We also link to third-party providers that host, maintain and operate on-line training or services. While we try to link only to sites that share our high standards and respect for privacy, we are not responsible for the content, security, or privacy practices employed by other sites. 
+Our Web sites may contain links to other sites such as professional and government organizations. We also link to third-party providers that host, maintain and operate on-line training or services. While we try to link only to sites that share our high standards and respect for privacy, we are not responsible for the content, security, or privacy practices employed by other sites. 
 
 **Enforcement of this privacy statement**
 
@@ -73,4 +73,4 @@ If you have questions regarding this statement or our handling of your personal 
 
 Rockwell Collins may occasionally update this privacy statement. If we do, we will revise the "last updated" date at the top and bottom of the privacy statement. We will obtain your opt-in consent for any updates to this privacy statement that materially expand the sharing or use of your personal information in ways not disclosed in this privacy statement at the time of collection. 
 
-**Last Updated February 2008**  
+**Last Updated September 2009**
