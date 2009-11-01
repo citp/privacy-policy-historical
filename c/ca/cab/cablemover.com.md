@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cablemover.com privacy policy that was archived on 2009-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090326010856id_/http%3A//www.cablemover.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cablemover.com privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101060633id_/http%3A//www.cablemover.com/privacy.html) for the most accurate reproduction.*
 
 # MoverHotline.com: Privacy Policy
 
