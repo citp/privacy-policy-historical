@@ -1,1144 +1,428 @@
-<!--The following is the downloaded HTML source of the newyorkcomiccon.com privacy policy that was archived on 2009-04-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090419115256id_/http%3A//www.nycomiccon.com/app/homepage.cfm%3Fappname%3D100453%26moduleID%3D2570%26LinkID%3D17915) for the most accurate reproduction.-->
-
-<html><head><meta name="WT.alias" content="New York Comic-Con Privacy Policy">
-			
-				<meta name="WT.langid" content="1">
-			
-
-			
-			<script language="Javascript"><!--
-			gVersion="1.0";
-			//-->
-			</script>
-			<script language="Javascript1.1"><!--
-			gVersion="1.1";
-			//-->
-			</script>
-			<script language="Javascript1.2"><!--
-			gVersion="1.2";
-			var RE={"%09":/\t/g, "%20":/ /g, "%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
-			//-->
-			</script>
-			<script language="Javascript1.3"><!--
-			gVersion="1.3";
-			//-->
-			</script>
-			<script language="Javascript1.4"><!--
-			gVersion="1.4";
-			//-->
-			</script>
-			<script language="Javascript1.5"><!--
-			gVersion="1.5";
-			//-->
-			</script>
-			<script language="Javascript">gDomain = '12.47.195.94';</script>
-			<script language="Javascript" src="/app/js/dcs_tag.js"></script>
-			<noscript>
-				<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://12.47.195.94/njs.gif?dcsuri=/nojavascript&WT.js=No">
-			</noscript>
-		
-
-
-
-	
-	
-
-	<script language="Javascript">
-  		// convert all characters to lowercase to simplify testing
-	    var agt=navigator.userAgent.toLowerCase();
-
-	 	// *** BROWSER VERSION ***
-	    // Note: On IE5, these return 4, so use is_ie5up to detect IE5.
-	    var is_major = parseInt(navigator.appVersion);
-	    var is_minor = parseFloat(navigator.appVersion);
-
-	    // Note: Opera and WebTV spoof Navigator.  We do strict client detection.
-	    // If you want to allow spoofing, take out the tests for opera and webtv.
-	    var is_nav  = ((agt.indexOf('mozilla')!=-1) && (agt.indexOf('spoofer')==-1)
-	                && (agt.indexOf('compatible') == -1) && (agt.indexOf('opera')==-1)
-	                && (agt.indexOf('webtv')==-1));
-	    var is_nav2 = (is_nav && (is_major == 2));
-	    var is_nav3 = (is_nav && (is_major == 3));
-	    var is_nav4 = (is_nav && (is_major == 4));
-	    var is_nav4up = (is_nav && (is_major >= 4));
-	    var is_navonly      = (is_nav && ((agt.indexOf(";nav") != -1) ||
-	                          (agt.indexOf("; nav") != -1)) );
-	    var is_nav5 = (is_nav && (is_major == 5));
-	    var is_nav5up = (is_nav && (is_major >= 5));
-
-	    var is_ie   = (agt.indexOf("msie") != -1);
-	    var is_ie3  = (is_ie && (is_major < 4));
-	    var is_ie4  = (is_ie && (is_major == 4) && (agt.indexOf("msie 5.0")==-1) );
-	    var is_ie4up  = (is_ie  && (is_major >= 4));
-	    var is_ie5  = (is_ie && (is_major == 4) && (agt.indexOf("msie 5.0")!=-1) );
-	    var is_ie5up  = (is_ie  && !is_ie3 && !is_ie4);
-
-	    // KNOWN BUG: On AOL4, returns false if IE3 is embedded browser
-	    // or if this is the first browser window opened.  Thus the
-	    // variables is_aol, is_aol3, and is_aol4 aren't 100% reliable.
-	    var is_aol   = (agt.indexOf("aol") != -1);
-	    var is_aol3  = (is_aol && is_ie3);
-	    var is_aol4  = (is_aol && is_ie4);
-
-	    var is_opera = (agt.indexOf("opera") != -1);
-	    var is_webtv = (agt.indexOf("webtv") != -1);
-
-	   	var is_js;
-	    if (is_nav2 || is_ie3) is_js = 1.0
-	    else if (is_nav3 || is_opera) is_js = 1.1
-	    else if ((is_nav4 && (is_minor <= 4.05)) || is_ie4) is_js = 1.2
-	    else if ((is_nav4 && (is_minor > 4.05)) || is_ie5) is_js = 1.3
-	    else if (is_nav5) is_js = 1.4
-	    // NOTE: In the future, update this code when newer versions of JS
-	    // are released. For now, we try to provide some upward compatibility
-	    // so that future versions of Nav and IE will show they are at
-	    // *least* JS 1.x capable. Always check for JS version compatibility
-	    // with > or >=.
-	    else if (is_nav && (is_major > 5)) is_js = 1.4
-	    else if (is_ie && (is_major > 5)) is_js = 1.3
-	    // HACK: no idea for other browsers; always check for JS version with > or >=
-	    else is_js = 0.0;
-
-		//For email validation on forms, use onSubmit="return isReady(this)"
-		function isEmail(elm) {
-			if (elm.value.indexOf("@") != "-1" &&
-				elm.value.indexOf(".") != "-1" &&
-				elm.value != "")
-			return true;
-			else return false;
-		}
-		function isReady(form) {
-			if (isEmail(form.email) == false) {
-				alert("Please enter a valid email address");
-				form.email.focus();
-				return false;
-			}
-			return true;
-		}
-
-		//issue 5759 MM 13 April For email validation on email group forms"
-		function isReadyNow(button) {
-			var form = button.form;
-			if (isEmail(form.email) == false) {
-				alert("Please enter a valid email address");
-				form.email.focus();
-			return false;
-			}
-			var postPage = "NewsLetterSubscribe.cfm?appname=100453&action=action&";
-			postPage = postPage + "&" + button.name + "=" + button.name;
-			var URLLink = postPage + '&email=' + form.email.value;
-			newwindow = window.open(URLLink,"Information","width=400, height=300, toolbar=no ,menubar=no");
-			return false;
-			}
-		//END MM 13 April email group
-
-		//For PopUp Window for ICR 348 for Add to Outlook window.
-		function AddtoOutlook(iID){
-			var contentPage = "AddtoOutlook/ACT_ADDTOOUTLOOK.cfm?appname=100453";
-			var URLLink = contentPage + '&iOutlookID=' + iID;
-			var width1=2;
-			var height1=2;
-			newwindow = window.open(URLLink,"AddtoOutlook","toolbar = no, width="+width1+", height="+height1+", status=no, location = no, scrollbars = no, resizable = no, menubar = no, screenx=0,left=1000 screeny=0,top=1000");
-		}
-
-		//For PopUp Window displaying the module content
-		function openpopup1(width1,height1,moduleid1){
-			var contentPage = "popupcontent.cfm?appname=100453";
-			var URLLink = contentPage + '&moduleid=' + moduleid1;
-			newwindow = window.open(URLLink,"Content","toolbar = no, width="+width1+", height="+height1+", status=no, scrollbars = yes, resizable = yes, menubar = no");
-		}
-
-		//For PopUp Window displaying module and link content
-		function openpopup2(width1,height1,moduleid1,linkid1) {
-			var contentPage = "popupcontent.cfm?appname=100453";
-			var URLLink = contentPage + '&moduleid=' + moduleid1 +'&linkid=' + linkid1;
-			Popup1 = window.open(URLLink,"Content","toolbar = no, width="+width1+", height="+height1+", status=no, scrollbars = yes, resizable = yes, menubar = no");
-		}
-
-		
-		//For PopUp Window displaying module, link and form content
-		function openpopup3(width1,height1,moduleid1,linkid1,date1) {
-			var contentPage = "popupcontent.cfm?appname=100453";
-			var URLLink = contentPage + '&moduleid=' + moduleid1 + '&linkid=' + linkid1 + '&date=' + date1;
-			Popup1 = window.open(URLLink,"Content","toolbar = no, width="+width1+", height="+height1+", status=no, scrollbars = yes, resizable = yes, menubar = no");
-		}
-
-		
-		// This handles all the PDF creation for any given link in the system
-		function generatePDFSample (pdftogenerate,eventid,issample) {
-		var urlToOpen = 'pdfengine/generatepdf.cfm?pdf=' + pdftogenerate + '&appname=' + eventid + '&sample=' + issample;
-		window.open(urlToOpen,'filegen','toolbars=no, scrollbars=yes, resizable = yes');
-		}
-
-		
-
-		function openReferAFriend(){
-			ReferThis=window.open("ReferAFriend.cfm?appname=100453&querystring=appname=100453@moduleID=2570@LinkID=17915","ReferThis","status=yes,toolbar=no,scrollbars=no,height=600,width=460,resizable=yes"); 
-			
-			
-		}
-	</script>
-
-	
-	
-	
-
-		
-		
-	
-
-		
-		
-			
-			
-				
-			
-			
-			
-			
-		
-		
-		
-		
-	
-
-		
-		
-			
-			
-				
-			
-			
-				
-			
-			
-				
-			
-			
-		
-		
-		
-		
-		
-		
-			
-				
-			
-		
-		
-			
-		
-		
-			
-		
-		
-		
-	<title>New York Comic Con - February 6-8, 2009</title>
-	<meta name="Description" content="New York ComicCon, New York's Comic Convention 2008, has the inside scoops on hundreds of the entertainment world’s most cutting-edge products, from comics and anime  and manga to graphic novels and games and gaming.">
-	<meta name="Keywords" content="Comics, comic convention, new york comic con, new york comiccon, ny comiccon, comic show, comic book show, anime convention, new york anime, new york comics, anime con, nyc comics, ny comicon, new york comicon, comic con new york, new york comiccon, ny comiccon, east coast comic show, new york comic show, comic book artists, comic book creators">
-	      
-				<style>
-				<!--
-				div {font: 8pt Arial}
-				div.white {font: 8pt Arial; color:white}
-				a.white {font: 8pt Arial; color:white;font-weight:bold}
-				a.blue {font: 8pt Arial; color:blue;font-weight:bold}
-				a.black {TEXT-DECORATION:none; color:black;}
-				A.black:visited  {TEXT-DECORATION:none; color:black;}
-				b.thick {font-weight: bold;}
-				PrevewTxt {}
-
-				/* INCLUDE STANDARD STYLES FOR RSS */
-				.main {
-					background-color:white;
-					border:1px solid black;
-					text-align:center;
-					margin-bottom:5px;
-				}
-				.feedContent {
-					color:black;
-					text-align:left;
-					background-color:white;
-					border-top:1px solid black;
-				}
-				.feedTable {
-					color:black;
-					text-align:left;
-					background-color:white;
-				}
-				.feedHeader {
-					background-color:white;
-					padding-left:2px;
-					color:black;
-					font-weight:bold;
-				}
-				.feedLink {
-					color:black;
-				}
-				.feedDiv {
-					font-weight: bold;
-					text-align:left;
-					color:black;
-				}
-				-->
-				</style>
-	
-	<style type="text/css">
-	  <!--
-	  .redtext {color: Red;}
-	.blacktext {color: Black;}
-	  BODY  {
-	  	font-family : 12pt Arial;
-		}
-	   BODY {color: }
-
-	  td  {
-	  	font-family : Arial;
-		color : 
-	      }
-
-	  
-	  	 td.background {
-	   		background-repeat : repeat;
-	   		}
-	  
-
-	    td.Headercell{
-	   font : 9pt;
-	   color :  
-	   }
-		tr.HeaderRow{
-		background : ;
-		}
-		tr.OnRow{
-		background : #eeeeee;
-		}
-		tr.OffRow{
-		background : #ffffff;
-		}
-	  td.small {
-	  	font : 9pt Arial;
-		color : 
-		}
-
-	  SELECT  {
-	  	font : 9pt Arial;
-	  }
-
-	   A.side  {font: 9pt Arial;
-	  	text-decoration : none;
-	  	color : Blue;
-	  }
-
-	  A.side:active {color: Red; }
-
-	   A.navi  {
-	   	color : ;
-	   }
-	  A.navi:visited  {
-	  	color : Purple;}
-
-	    A.navi:hover{
-	   	text-decoration : underline;
-	   	color : ;
-	   }
-
-	  A.side:visited  {
-	  	color : Purple;
-	  }
-
-	   A  {
-	  	text-decoration : none;
-	  	color : Blue;
-	  }
-
-	  A:active {color: Red; }
-
-	  A:visited  {
-	  	color : Purple;
-	  }
-
-	  td.test {background-color: blue;}
-	   td.infobarCustom{
-		 background-color : #b5111b;
-		}
-	   table.infobar{
-			padding : 0px 0px 0px 0px;
-			width : 150px;
-			border: 0px inset ;
-		}
-		td.infobarHeader{
-		 background-color : ;
-		 color : ;
-		}
-		td.infobarEventsLeft{
-		background-color : White;
-		border-bottom: 1px solid Black;
-		}
-		td.infobarEventsRight{
-		background-color : White;
-		border-bottom: 1px solid Black;
-		border-left: 1px solid Black;
-		}
-		span.infoBarDate{
-		background-color : White;
-		}
-		span.infoBarVenue{
-		background-color : White;
-		}
-		A.EventList  {
-	   	text-decoration : none;
-	   	color : Blue;
-	   }
-	   A.EventList :active {color: Red; }
-
-	   A.EventList :visited  {
-	   	color : Purple;
-	   }
-
-	   A.EventList :hover  {
-	   	text-decoration : underline;
-	   	color : Red;
-	   }
-		tr.fsspacer{
-			height : 5px;
-		}
-	  -->
-
-
-	  </style>
-	
-				<style>
-				
-div#websitesearch {font-family: Arial; font-size: 9px; font-weight: bold ; width: 100%;}
-
-div#websitesearch-header { font-size: 9px; color: #999999; margin-bottom:10px; margin-top:5px; }
-div#websitesearch-footer { font-size: 9px; color: #999999; margin-bottom:10px; margin-bottom:5px; }
-.websitesearch-title { font-weight: bold; font-size: 15px;  text-transform:uppercase; }
-.websitesearch-space {height: 10px; }
-.websitesearch-line { color:#000000; margin-top:10px; margin-bottom:10px; clear: both; border-bottom: 1px solid gray;}
-
-/* START Below header and below shortline styles for basic search */
-div#websitesearch-basic { text-align: right; color:Blue; font-family: Arial;  font-size: 11px; font-weight: bold; }
-div#websitesearch-basic TABLE {width: 100%;  padding-bottom: 0px; padding-top: 0px;}	
-div#websitesearch-basic TD { text-align: right; color:Blue; font-family: Arial;  font-size: 11px; font-weight: bold; padding-bottom: 5px; padding-top: 5px;}
-div#websitesearch-basic a { text-align: right; text-decoration: underline; font-family:  Arial;  font-size: 11px; font-weight: bold ; color:Blue; padding-bottom: 5px; padding-top: 5px;}
-div#websitesearch-basic a:hover { text-align: right; text-decoration: underline; font-family:  Arial;  font-size: 11px; font-weight: bold ; color:Red; padding-bottom: 5px; padding-top: 5px;}
-div#websitesearch-basic INPUT.keyword {font-family:  Arial; font-size: 11px; color: #000000; font-weight: normal; height: 19px; width: 115px; background-color: #FFFFFF; padding-left: 2px;}
-div#websitesearch-basic INPUT.go {font-family:  Arial; font-size: 11px; font-weight: normal; color: #000000; font-weight: normal; cursor: hand; margin-right: 5px;}		
-/* END Below header, below shortline, content area top & bottom styles for basic search */
-
-/* START Content area top & bottom styles for basic search */
-/* RI 11963: Style sheet issue for Shot show fixed with the clear property */
-div#websitesearch-basiccontentarea { text-align: right; color:Black; font-family: Arial;  font-size: 11px; font-weight: bold; margin-top: 5px; }
-div#websitesearch-basiccontentarea TABLE {width: 100%;  padding-bottom: 0px; padding-top: 0px; border-top: 1px solid; border-bottom: 1px solid;}	
-div#websitesearch-basiccontentarea TD { text-align: right; color:Black; font-family: Arial;  font-size: 11px; font-weight: bold; padding-bottom: 5px; padding-top: 5px;}
-div#websitesearch-basiccontentarea a { text-align: right; text-decoration: none; font-family:  Arial;  font-size: 11px; font-weight: bold ; color:Blue; padding-bottom: 5px; padding-top: 5px;}
-div#websitesearch-basiccontentarea a:hover { text-align: right; text-decoration: underline; font-family:  Arial;  font-size: 11px; font-weight: bold ; color:Red; padding-bottom: 5px; padding-top: 5px;}
-div#websitesearch-basiccontentarea INPUT.keyword {font-family:  Arial; font-size: 11px; color: #000000; font-weight: normal; height: 19px; width: 115px; background-color: #FFFFFF; padding-left: 2px;}
-div#websitesearch-basiccontentarea INPUT.go {font-family:  Arial; font-size: 11px; font-weight: normal; color: #000000; font-weight: normal; cursor: hand; margin-right: 5px;}		
-/* END Below header, below shortline, content area top & bottom styles for basic search */
-
-/* START side bar styles for basic search */
-div#websitesearch-basicsidebar { font-family: Arial;  color:Black; text-align: left; font-size: 11px; font-weight: bold; margin-top: 5px; }
-div#websitesearch-basicsidebar TABLE {width: 95%;  padding-bottom: 0px; padding-top: 0px; border-bottom: 1px solid;}	
-div#websitesearch-basicsidebar TD { text-align: left; color:Black; font-family: Arial;  font-size: 11px; font-weight: bold; }
-div#websitesearch-basicsidebar TD.header {text-align: left; width: 95%; font-family: Arial;  font-size: 8pt; font-weight: bold ; }
-div#websitesearch-basicsidebar a { text-align: left; text-decoration: none; font-family: Arial;  font-size: 11px; font-weight: bold ; color:Blue; padding-bottom: 5px; padding-top: 5px;}
-div#websitesearch-basicsidebar a:hover { text-align: left; text-decoration: underline; font-family: Arial;  font-size: 11px; font-weight: bold ; color:Red; padding-bottom: 5px; padding-top: 5px;}
-div#websitesearch-basicsidebar INPUT.keyword {font-family: Arial; font-size: 11px; color: #000000; font-weight: normal; height: 19px; width: 100px; background-color: #FFFFFF; padding-left: 2px;}
-div#websitesearch-basicsidebar INPUT.go {font-family: Arial; font-size: 11px; font-weight: normal; color: #000000; font-weight: normal; cursor: hand; margin-right: 1px;}		
-.websitesearch-space {height: 10px; }
-/* END side bar styles for basic search */
-
-/* START navigation styles for basic search */
-div#websitesearch-basicnavigation { text-align: left; color:Blue; font-family: Arial;  font-size: 11px; font-weight: bold; margin-bottom: 5px;}
-div#websitesearch-basicnavigation TABLE {width: 95%; border-top: 1px solid; border-bottom: 1px solid;}	
-div#websitesearch-basicnavigation TD { text-align: left; color:Blue; font-family: Arial;  font-size: 11px; font-weight: bold; padding-bottom: 2px; padding-top: 2px;}
-div#websitesearch-basicnavigation TD.header {text-align: left; width: 95%; font-family: Arial;  color:Blue; font-size: 8pt; font-weight: bold ;}
-div#websitesearch-basicnavigation a { text-align: left; text-decoration: none; font-family:  Arial;  font-size: 11px; font-weight: bold ; color:Blue; }
-div#websitesearch-basicnavigation a:hover { text-align: left; text-decoration: underline; font-family:  Arial;  font-size: 11px; font-weight: bold ; color:Red; }
-div#websitesearch-basicnavigation INPUT.keyword {font-family:  Arial; font-size: 11px; color: #000000; font-weight: normal; height: 19px; width: 90px; }
-div#websitesearch-basicnavigation INPUT.go {font-family:  Arial; font-size: 11px; font-weight: normal; color: #000000; font-weight: normal; cursor: hand; }		
-.websitesearch-space {height: 10px; }
-/* END navigation styles for basic search */
-
-div#websitesearch-advsearch TD { padding-right: 10px; padding-bottom: 10px; vertical-align: top;}
-div#websitesearch-advsearch INPUT.text {height: 22px; width: 175px; }
-div#websitesearch-advsearch INPUT.checkboxes {background-color: #FFFFFF; margin-right: 8px;}
-div#websitesearch-advsearch INPUT.buttons {}
-div#websitesearch-advsearch SELECT {}
-
-div#websitesearch-result { font-family:  Arial;  font-size: 12px; color:#000000; font-weight: normal;  margin-bottom:20px; clear: both; padding-right: 10px; padding-bottom: 5px;}
-div#websitesearch-result a { text-decoration: none; color: #LinkColor#; font-weight: bold; }
-div#websitesearch-result a:hover { text-decoration: underline; color: #HoverColor#; font-weight: bold; }
-.websitesearch-othercategories {  font-size: 12px; font-weight: bold; color:#000000; text-transform:uppercase;}
-
-div#websitesearch-left { font-family:  Arial;  font-size: 12px; color:#000000; font-weight: normal ; text-align: justify; margin-right: 20px; display: block; }
-div#websitesearch-left a { text-decoration: none; color: Blue; font-weight: bold;}
-div#websitesearch-left a:hover { text-decoration: underline; color: Red; font-weight: bold;}
-.websitesearch-category { font-size: 12px; font-weight: bold; color:#000000; text-transform:uppercase; margin-bottom:10px;}
-.websitesearch-category2 { font-size: 10px; font-weight: bold; color:#4D4D4D;}
-.websitesearch-document {font-size: 9px; text-decoration: none; color: #888888;}
-.websitesearch-document a {font-size: 9px; text-decoration: none; color: Blue;}
-.websitesearch-document a:hover {font-size: 9px; text-decoration: none; color: Red;}
-
-div#websitesearch-right { font-family:  Arial; font-size: 12px; color:#000000; font-weight: normal ; display: block; }
-div#websitesearch-right ul { list-style-type: none; padding: 0; margin: 0; }
-div#websitesearch-right ul li { margin-top: 4px; }
-div#websitesearch-right ul li a	{font-weight: bold; display: block; width: 120px; text-decoration: none; color: Blue; }
-div#websitesearch-right ul li a:hover {font-weight: bold;  text-decoration: underline; color: Red;  }
-				</style>
-			
-		<link rel="StyleSheet" href="../images/100453/2009_css/comiccon_08.css" type="text/css">
-		
-
-
-
-	<script language="JavaScript">
-		
-
-		function openModuleHelp(){
-			appletwin2=window.open("remote.cfm?appname=100453&moduleid=2570","appletwin3","status=yes,toolbar=no,scrollbars=yes,width=300,height=400");
-		}
-	</script>
-
-	
-		<script language="javascript">
-			function openBoothSalesWin(){
-				appletwin2=window.open
-			   ("BoothSales/BoothSales.cfm?appname=100453","appletwin2","status=yes,toolbar=no,scrollbars=yes,width=650,height=550,top=0,left=0")
-			}
-		</script>
-
-		<script language="javascript">
-			function openthewin(){
-				appletwin=window.open
-			   ("ExhibitHall/ExhibitHallvisual.cfm?appname=100453&moduleid=2570&linkid=17915","appletwin","status=yes,toolbar=no,scrollbars=yes,width=650,height=550,top=0,left=0")
-			}
-		</script>
-
-		<script>
-			
-			<!--
-			function openPrintFriendly(){
-				lastwin=window.open
-				("http://www.nycomiccon.com/app/PrintFriendly.cfm?LinkID=17915&moduleID=2570&appname=100453","printFrindly","width=620,menubar=yes,scrollbars=yes");
-			}
-			//-->
-		</script>
-	
-</head>
-
-
-<body bgcolor="#b5111b" topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0" background="../images/100453/2008_NEWGraphics/nycc_bg.jpg">
-
-
-	
-	
-	
-
-
-	
-	
-
-
-
-
-
-
-
-
-		
-		<a name="top">
-		
-		<table border="0" align="Center" width="920" bgcolor="" cellpadding="0" cellspacing="0" id="custom_main_borders">
-		
-
-			<tbody><tr>
-				<td width="100%" valign="top">
-					<table align="center" cellpadding="0" border="0" cellspacing="0" width="100%">
-
-
-
-
-
-
-
-
-						
-						
-						
-						
-							<tbody><tr>
-								<td>
-								  
-								  	<!-- top --> 
-<nobr>
-	
-	<table border="0" cellpadding="0" cellspacing="0" width="100%">
-		<tbody><tr align="CENTER" bgcolor="">
-			<td align="left"><a href="http://www.nycomiccon.com" target="_top" class="side"></a></td>
-			
-				<td align="right">
-				<div style="width:920px; "><img src="http://www.nycomiccon.com/images/100453/2008_NEWGraphics/buy_tickets_header1.gif" width="66" height="130" border="0"><a href="http://www.nycomiccon.com/app/main.cfm?appname=100453&amp;moduleID=4698"><img src="http://www.nycomiccon.com/images/100453/2008_NEWGraphics/buy_tickets_header2.jpg" alt="Buy tickets NOW!" title="Buy tickets NOW" width="175" height="130" border="0"></a><a href="http://www.nycomiccon.com/App/homepage.cfm?moduleid=2577&amp;appname=100453"> <img src="http://www.nycomiccon.com/images/100453/2008_NEWGraphics/main_header1.gif" alt="Home!" width="495" height="164" border="0"></a><a href="http://www.nycomiccon.com/app/homepage.cfm?appname=100453&amp;moduleID=2577&amp;LinkID=28730" target="_self"> <img src="http://www.nycomiccon.com/images/100453/2008_NEWGraphics/date_header.jpg" alt="April 18-20, 2008 @ the Jacob Javits Center, NYC" title="April 18-20, 2008 @ the Jacob Javits Center, NYC" width="175" height="104" border="0"></a>
-  <div style="text-align:center; padding:5px 0 0 58px;">
-    <!-- begin ad tag-->
-    <script language="JavaScript" src="http://ad.doubleclick.net/adj/comic.rx/;sz=728x90;ord=[timestamp]?" type="text/javascript"></script>
-    <noscript>
-    <a href="http://ad.doubleclick.net/jump/comic.rx/;sz=728x90;ord=[timestamp]?" target="_blank"><img src="http://ad.doubleclick.net/ad/comic.rx/;sz=728x90;ord=[timestamp]?" alt="" width="728" height="90" border="0"></a>
-    </noscript>
-    <!-- End ad tag -->
-  </div>
-</div> 
-				</td>
-			
-			
-		</tr>
-		
-		</tbody></table>
-</nobr>
-<!-- /top -->
-								  
-
-								</td>
-							</tr>
-						
-					</tbody></table>
-
-
-					
-					
-					
-					
-					<table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" class="ControlNavigationCellHeight">
-					
-						
-
-						<tbody><tr valign="top" height="325">
-							
-							
-							
-							
-									
-									
-									
-									<td width="0px" bgcolor="" class="ControlNavigationCellHeight">
-										
-										
-											<table width="0px" cellspacing="0" cellpadding="0" class="ControlNavigationCellHeight">
-										
-											<tbody><tr>
-												<!-- navigationcustom -->
-												<td class="ControlNavigationCellHeight"> 
-
-
- <script>
-	TYPEID =  0 
+<!--The following is the downloaded HTML source of the newyorkcomiccon.com privacy policy that was archived on 2009-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091101181320id_/http%3A//www.newyorkcomiccon.com/en/Privacy-Policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+    <!-- Style Sheets -->
+    <link href="/Css/Core/Screen.css" rel="stylesheet" media="screen" type="text/css">
+    <!--[if lte IE 6]><link href="/Css/Core/IE.css" rel="stylesheet" type="text/css" media="screen" /><![endif]-->
+    <!--[if IE 7]><link href="/Css/Core/IE7.css" rel="stylesheet" type="text/css" media="screen" /><![endif]-->
+    <link href="/Css/Core/Print.css" media="print" rel="stylesheet" type="text/css"><link href="/Css/Core/Controls.css" media="screen" rel="stylesheet" type="text/css"><link href="/Css/Core/Modules.css" media="screen" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" media="all" href="/Css/Layout/MainPage2Column.css?1.8.3574.6">
+<link rel="stylesheet" type="text/css" media="all" href="/Css/Core/TopNavigation.css?1.8.3574.6">
+<link rel="stylesheet" type="text/css" media="all" href="/Css/Core/LeftNavigation.css?1.8.3574.6"><link id="ctl00_lnkStyleSheet" href="/v1/Templates/Framework/Pages/SiteStyleSheet.aspx?v=633912213376030000" media="screen" rel="stylesheet" type="text/css"><link href="/css/site/site.css" media="screen" rel="stylesheet" type="text/css">
+    <!--[if IE]><link href="/css/site/hacks/site_IE.css" rel="stylesheet" type="text/css" media="screen" /><![endif]-->
+    <!--[if lte IE 6]><link href="/css/site/hacks/site_IE6.css" rel="stylesheet" type="text/css" media="screen" /><![endif]-->
+    <!--[if IE 7]><link href="/css/site/hacks/site_IE7.css" rel="stylesheet" type="text/css" media="screen" /><![endif]-->    
+        
+    <!-- END: Style Sheets -->
+
+    <!-- Verification Tags -->
+    
+    <!-- End Verification Tags -->
+    
+    <!-- Google Scripts -->
+    
+    <!-- END: Google Scripts -->
+    
+    <!--// ADDITIONAL INFORMATION -->
+<script language="javascript" type="text/javascript">
+    var wa_SiteName = document.domain;
+    var wa_UniqueUserID = "anonymous";
+    var wa_UniquePageName = "Privacy Policy";
+    var wa_SiteBreadCrumb = "Home > Privacy Policy";
+    var autoTagTrustedDomain = ""; 
 </script>
+        
+    <script src="/Scripts/Libraries/webabacus-tag.js" type="text/javascript"></script>
+    
+<meta http-equiv="ImageToolbar" content="no"><meta name="DC.date" content="2009-08-20T20:53:46.357Z"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
+	Privacy Policy - New York Comic Con
+</title></head>
+<body>
+    <form name="aspnetForm" method="post" action="/en/Privacy-Policy/" id="aspnetForm">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE4ODc0NzcwNzQPZBYCZg9kFgQCARBkZBYGAgwPFgIeBGhyZWYFRi92MS9UZW1wbGF0ZXMvRnJhbWV3b3JrL1BhZ2VzL1NpdGVTdHlsZVNoZWV0LmFzcHg/dj02MzM5MTIyMTMzNzYwMzAwMDBkAhUPFgIeBFRleHRlZAIXDxYCHgdWaXNpYmxlaGQCAw9kFgZmEGRkFg4CAw9kFgQCAw8WAh8CaBYCZg8WAh4LXyFJdGVtQ291bnQCARYCAgEPZBYEAgEPDxYCHwJoZGQCAw8PFgQfAQUYPHN0cm9uZz5FbmdsaXNoPC9zdHJvbmc+HgdFbmFibGVkaBYCHgV0aXRsZQUHRW5nbGlzaGQCBQ8WAh8CaBYEZg8PFgIfAWRkZAICDxBkZBYAZAIFD2QWAgICDxYCHwJnFgQCAQ8WAh8CaGQCAg8WBB4EdGV4dAUHU2lnbi11cB4LbmF2aWdhdGVVcmxkZAIHD2QWBmYPDxYCHwJoZBYCAgEPFgIfAmcWBGYPDxYCHwJoZBYCZg8PFgIfAmhkZAIBDw8WAh8CaGQWAmYPDxYCHwJoZGQCAg9kFgJmDxYCHwEFthE8IS0tW2lmIElFIDZdPg0KPHNjcmlwdCBzcmM9Ii4uLy4uLy4uLy4uLy4uL1JOQS9STkFfTmV3WW9ya0NvbWljQ29uLzIwMDlfc2NyaXB0cy9ERF9iZWxhdGVkUE5HXzAuMC44YS5qcyI+PC9zY3JpcHQ+DQo8c2NyaXB0Pg0KICBERF9iZWxhdGVkUE5HLmZpeCgnI0Zvb3RlcicpOw0KPC9zY3JpcHQ+DQo8IVtlbmRpZl0tLT4gDQo8ZGl2IGlkPSJ0b3BfY29udGFpbmVyIj4NCiAgPGRpdiBpZD0idG9wIj4NCiAgICA8ZGl2IGlkPSJuZXR3b3JrX2xpbmtzIj4gPGEgaHJlZj0iaHR0cDovL3d3dy5uZXd5b3JrYW5pbWVmZXN0aXZhbC5jb20iPjxzdHJvbmc+TllBRjwvc3Ryb25nPjwvYT4mbmJzcDsmbmJzcDsmbmJzcDt8Jm5ic3A7Jm5ic3A7Jm5ic3A7PGEgaHJlZj0iLi4vLi4vLi4vLi4vLi4vIiB0YXJnZXQ9Il9ibGFuayI+PHN0cm9uZz5OWUNDPC9zdHJvbmc+PC9hPiZuYnNwOyZuYnNwOyZuYnNwO3wmbmJzcDsmbmJzcDsmbmJzcDs8YSBocmVmPSJodHRwOi8vd3d3LmNoaWNhZ29jb21pY2FuZGVudGVydGFpbm1lbnRleHBvLmNvbSIgdGFyZ2V0PSJfYmxhbmsiPjxzdHJvbmc+QzJFMjwvc3Ryb25nPjwvYT4mbmJzcDsmbmJzcDsmbmJzcDt8Jm5ic3A7Jm5ic3A7Jm5ic3A7PGEgaHJlZj0iaHR0cDovL3d3dy5ib29rZXhwb2FtZXJpY2EuY29tLyIgdGFyZ2V0PSJfYmxhbmsiPjxzdHJvbmc+QkVBPC9zdHJvbmc+PC9hPiZuYnNwOyZuYnNwOyZuYnNwO3wmbmJzcDsmbmJzcDsmbmJzcDs8YSBocmVmPSJodHRwOi8vd3d3Lm1lZGl1bWF0bGFyZ2UubmV0IiB0YXJnZXQ9Il9ibGFuayI+PHN0cm9uZz5CTE9HPC9zdHJvbmc+PC9hPjwvZGl2Pg0KICAgIDxkaXYgaWQ9ImRheXNfbGVmdCI+PHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPg0KCQkvKiA8IVtDREFUQVsgKi8NCgkJVGFyZ2V0RGF0ZSA9ICIxMC84LzIwMTAgMTowMCBQTSI7DQoJCUJhY2tDb2xvciA9ICJ0cmFuc3BhcmVudCI7DQoJCUZvcmVDb2xvciA9ICIjRkZGIjsNCgkJQ291bnRBY3RpdmUgPSB0cnVlOw0KCQlDb3VudFN0ZXBwZXIgPSAtMTsNCgkJTGVhZGluZ1plcm8gPSB0cnVlOw0KCQlEaXNwbGF5Rm9ybWF0ID0gIiUlRCUlIERheXMsICUlSCUlIEhvdXJzLCAlJU0lJSBNaW51dGVzLCAlJVMlJSBTZWNvbmRzIFRvIEdvIjsNCgkJRmluaXNoTWVzc2FnZSA9ICJJdCBpcyBmaW5hbGx5IGhlcmUhIjsNCgkJLyogXV0+ICovDQoJPC9zY3JpcHQ+PHNjcmlwdCBzcmM9Imh0dHA6Ly9zY3JpcHRzLmhhc2hlbWlhbi5jb20vanMvY291bnRkb3duLmpzIiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPjwvc2NyaXB0Pg0KICAgIDwvZGl2PjxzcGFuIGNsYXNzPSJjbGVhciI+PC9zcGFuPjwvZGl2Pg0KICA8ZGl2IGlkPSJiYW5uZXIiPjxzY3JpcHQgc3JjPSIuLi8uLi8uLi8uLi8uLi9STkEvUk5BX05ld1lvcmtDb21pY0Nvbi8yMDA5X3NjcmlwdHMvYmFubmVyczIuanMiIHR5cGU9InRleHQvamF2YXNjcmlwdCI+PC9zY3JpcHQ+PC9kaXY+DQogIDxkaXYgaWQ9ImFkX2NvbnRhaW5lciIgc3R5bGU9ImZvbnQtc2l6ZTowcHg7Ij4NCiAgICA8ZGl2IGlkPSJidXlfdGlja2V0cyI+PGEgaHJlZj0iL2VuL1RpY2tldHMvIiB0YXJnZXQ9Il9zZWxmIj48aW1nIHNyYz0iLi4vLi4vLi4vLi4vLi4vUk5BL1JOQV9OZXdZb3JrQ29taWNDb24vMjAwOV9pbWFnZXMvYnV5X3RpY2tldHMucG5nIiBhbHQ9IkJ1eSBZb3VyIFRpY2tldHMgZm9yIE5ZQUYiIHdpZHRoPSIyMzIiIGhlaWdodD0iOTAiIGJvcmRlcj0iMCIgLz48L2E+PC9kaXY+DQogICAgPGRpdiBpZD0iYWRzcG90MSI+PCEtLSBiZWdpbiBhZCB0YWctLT48c2NyaXB0IGxhbmd1YWdlPSJKYXZhU2NyaXB0IiBzcmM9Imh0dHA6Ly9hZC5kb3VibGVjbGljay5uZXQvYWRqL2NvbWljLnJ4Lztzej03Mjh4OTA7b3JkPVt0aW1lc3RhbXBdPyIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48L3NjcmlwdD48bm9zY3JpcHQ+PGEgaHJlZj0iaHR0cDovL2FkLmRvdWJsZWNsaWNrLm5ldC9qdW1wL2NvbWljLnJ4Lztzej03Mjh4OTA7b3JkPVt0aW1lc3RhbXBdPyIgdGFyZ2V0PSJfYmxhbmsiPjxpbWcgc3JjPSJodHRwOi8vYWQuZG91YmxlY2xpY2submV0L2FkL2NvbWljLnJ4Lztzej03Mjh4OTA7b3JkPVt0aW1lc3RhbXBdPyIgd2lkdGg9IjcyOCIgaGVpZ2h0PSI5MCIgYm9yZGVyPSIwIiBhbHQ9IiI+PC9hPjwvbm9zY3JpcHQ+PCEtLSBFbmQgYWQgdGFnIC0tPjwvZGl2Pg0KICA8c3BhbiBjbGFzcz0iY2xlYXIiPjwvc3Bhbj48L2Rpdj4NCjwvZGl2Pg0KZAIEDxYCHwJoZAIJDw8WAh8CaGRkAgsPZBYCAgEPDxYCHwFkZGQCEQ9kFgoCAQ9kFgJmD2QWAgIBDxYCHglfUGFnZUxpbmsoKW5FUGlTZXJ2ZXIuQ29yZS5QYWdlUmVmZXJlbmNlLCBFUGlTZXJ2ZXIsIFZlcnNpb249NS4yLjM3NS4xMzMsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49OGZlODNkZWE3MzhiNDViNwU2Mjg0MxYeZg9kFgJmDxUBDCBpZD0iTGV2ZWwxImQCAQ9kFgRmDxUBI2NsYXNzPSIgbmF2VHJlZUl0ZW0tTG9yZG9mVGhlUmluZ3MiZAIBDw8WBh4LX2lzRWRpdGFibGVoHg5fYm91bmRQYWdlTGluawLYrAQeCV9sYXN0VHlwZQUHRGVmYXVsdGRkAgIPZBYEZg8VAR1jbGFzcz0iIG5hdlRyZWVJdGVtLU92ZXJ2aWV3ImQCAQ8PFgYfCWgfCgLirAQfCwUHRGVmYXVsdGRkAgMPZBYEZg8VARtjbGFzcz0iIG5hdlRyZWVJdGVtLUd1ZXN0cyJkAgEPDxYGHwloHwoC8KwEHwsFB0RlZmF1bHRkZAIED2QWBGYPFQEbY2xhc3M9IiBuYXZUcmVlSXRlbS1FdmVudHMiZAIBDw8WBh8JaB8KAvKsBB8LBQdEZWZhdWx0ZGQCBQ9kFgRmDxUBHGNsYXNzPSIgbmF2VHJlZUl0ZW0tVGlja2V0cyJkAgEPDxYGHwloHwoChK0EHwsFB0RlZmF1bHRkZAIGD2QWBGYPFQEfY2xhc3M9IiBuYXZUcmVlSXRlbS1FeGhpYml0b3JzImQCAQ8PFgYfCWgfCgKQrQQfCwUHRGVmYXVsdGRkAgcPZBYEZg8VASBjbGFzcz0iIG5hdlRyZWVJdGVtLUFydGlzdEFsbGV5ImQCAQ8PFgYfCWgfCgKarQQfCwUHRGVmYXVsdGRkAggPZBYEZg8VAR9jbGFzcz0iIG5hdlRyZWVJdGVtLUF1dG9ncmFwaHMiZAIBDw8WBh8JaB8KAqStBB8LBQdEZWZhdWx0ZGQCCQ9kFgRmDxUBHmNsYXNzPSIgbmF2VHJlZUl0ZW0tU2hvd1N0b3JlImQCAQ8PFgYfCWgfCgKurQQfCwUHRGVmYXVsdGRkAgoPZBYEZg8VASFjbGFzcz0iIG5hdlRyZWVJdGVtLUhvdGVsc1RyYXZlbCJkAgEPDxYGHwloHwoCsK0EHwsFB0RlZmF1bHRkZAILD2QWBGYPFQEiY2xhc3M9IiBuYXZUcmVlSXRlbS1Qcm9mZXNzaW9uYWxzImQCAQ8PFgYfCWgfCgK6rQQfCwUHRGVmYXVsdGRkAgwPZBYEZg8VARpjbGFzcz0iIG5hdlRyZWVJdGVtLVByZXNzImQCAQ8PFgYfCWgfCgLArQQfCwUHRGVmYXVsdGRkAg0PZBYEZg8VAR1jbGFzcz0iIG5hdlRyZWVJdGVtLUludGVyYWN0ImQCAQ8PFgYfCWgfCgLIrQQfCwUHRGVmYXVsdGRkAg4PZBYEZg8VAR1jbGFzcz0iIG5hdlRyZWVJdGVtLVNwb25zb3JzImQCAQ8PFgYfCWgfCgLYrQQfCwUHRGVmYXVsdGRkAgMPZBYCZg9kFgJmDxYCHwEFmAQ8ZGl2IGlkPSJiZWxvd19uYXYiPg0KICA8cD7CoDwvcD4NCiAgPHA+DQogICAgPCEtLSBiZWdpbiBhZCB0YWctLT4NCiAgICA8c2NyaXB0IGxhbmd1YWdlPSJKYXZhU2NyaXB0IiBzcmM9Imh0dHA6Ly9hZC5kb3VibGVjbGljay5uZXQvYWRqL2NvbWljLnJ4Lztrdz1wb3M1O3N6PTIwMHgxNTA7b3JkPVt0aW1lc3RhbXBdPyIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48L3NjcmlwdD4NCiAgICA8L3A+PG5vc2NyaXB0Pg0KICAgIDxhIGhyZWY9Imh0dHA6Ly9hZC5kb3VibGVjbGljay5uZXQvanVtcC9jb21pYy5yeC87a3c9cG9zNTtzej0yMDB4MTUwO29yZD1bdGltZXN0YW1wXT8iIHRhcmdldD0iX2JsYW5rIj48aW1nIHNyYz0iaHR0cDovL2FkLmRvdWJsZWNsaWNrLm5ldC9hZC9jb21pYy5yeC87a3c9cG9zNTtzej0yMDB4MTUwO29yZD1bdGltZXN0YW1wXT8iIHdpZHRoPSIyMDAiIGhlaWdodD0iMTUwIiBib3JkZXI9IjAiIGFsdD0iIiAvPjwvYT4NCiAgICA8L25vc2NyaXB0Pg0KICAgIDwhLS0gRW5kIGFkIHRhZyAtLT4NCiAgDQo8L2Rpdj4NCmQCBQ8WAh8BBSRNYWluUGFnZTJDb2x1bW4gQ29udGFpbmVyV2l0aExlZnROYXZkAgcPZBYCAgEPZBYCZg9kFgZmDxYCHwJoZAIBDxYEHwZkHwJoZAICDxYCHwEFzzIgIDxoMT5Qcml2YWN5IFBvbGljeTwvaDE+DQogIDxwPlRoZSBlZmZlY3RpdmUgZGF0ZSBvZiB0aGlzIHBvbGljeSBhcyBwb3N0ZWQgaXMgTWFyY2ggMjIsIDIwMDQuPC9wPg0KICA8cD5SZWVkIEV4aGliaXRpb25zIGFuZCBOZXcgWW9yayBDb21pYy1Db24gcmVzcGVjdCB0aGUgaW5mb3JtYXRpb24gcHJvdmlkZWQgYnkgb3VyIGN1c3RvbWVycy4gQmVjYXVzZSB3ZSBnYXRoZXIgY2VydGFpbiB0eXBlcyBvZiBpbmZvcm1hdGlvbiB3aGVuIG91ciBjdXN0b21lcnMgY29tbXVuaWNhdGUgd2l0aCB1cywgd2UgYmVsaWV2ZSB5b3Ugc2hvdWxkIGZ1bGx5IHVuZGVyc3RhbmQgdGhlIHRlcm1zIGFuZCBjb25kaXRpb25zIHN1cnJvdW5kaW5nIHRoZSBpbmZvcm1hdGlvbiB3ZSBjYXB0dXJlIGFuZCB0aGUgdXNlIG9mIHRoYXQgaW5mb3JtYXRpb24uIFRoaXMgcHJpdmFjeSBzdGF0ZW1lbnQgZGlzY2xvc2VzIHRoZSB0eXBlIG9mIGluZm9ybWF0aW9uIHdlIGNhcHR1cmUgYWJvdXQgb3VyIGN1c3RvbWVycywgaG93IHdlIHVzZSBpdCB0byBjb21tdW5pY2F0ZSB3aXRoIG91ciBjdXN0b21lcnMsIGFuZCBob3cgeW91IGNhbiByZXF1ZXN0IHRvIG5vIGxvbmdlciByZWNlaXZlIGNvbW11bmljYXRpb25zIGZyb20gTmV3IFlvcmsgQ29taWMtQ29uLjwvcD4NCiAgPGgyPlVTIFBvbGljeTwvaDI+DQogIDxwPiBOZXcgWW9yayBDb21pYy1Db24gaXMgcHJvZHVjZWQgYW5kIG1hbmFnZWQgYnkgUmVlZCBFeGhpYml0aW9ucyBVbml0ZWQgU3RhdGVzIChSZWVkLVVTKSwgYSBkaXZpc2lvbiBvZiBSZWVkIEVsc2V2aWVyLCBJbmMuIFRoaXMgcHJpdmFjeSBwb2xpY3kgYXBwbGllcyB0byBhbGwgUmVlZC1VUyBvZmZpY2VzIGFuZCBjb25mb3JtcyB0byB0aGUgc3Bpcml0IG9mIHRoZSBSZWVkIEV4aGliaXRpb25zIENvcnBvcmF0ZSBQcml2YWN5IFBvbGljeSwgd2hpY2ggY2FuIGJlIGZvdW5kIGF0IDxhIGhyZWY9Imh0dHA6Ly93d3cucmVlZGV4cG8uY29tLyIgdGFyZ2V0PSJfYmxhbmsiPnd3dy5yZWVkZXhwby5jb208L2E+LjwvcD4NCiAgPGgyPk91ciBDdXN0b21lcnM8L2gyPg0KICA8cD4gVGhpcyBwb2xpY3kgYXBwbGllcyB0byBhbGwgY3VzdG9tZXJzIG9mwqAgTmV3IFlvcmsgQ29taWMtQ29uIGFuZCBSZWVkLVVTLCB3aG8gaW5jbHVkZSBidXQgYXJlIG5vdCBsaW1pdGVkIHRvLCBvdXIgc2hvdyBleGhpYml0b3JzLCBzaG93IHZpc2l0b3JzLCBjb25mZXJlbmNlIHZpc2l0b3JzLCBjdXN0b21lciBpbnF1aXJpZXMsIHNwZWFrZXJzLCBwcmVzcywgYW5kIG90aGVyIGluZGl2aWR1YWxzIHdpdGggd2hvbSBSZWVkLVVTIG1haW50YWlucyBidXNpbmVzcyByZWxhdGlvbnNoaXBzIG9yIGNvbW11bmljYXRpb25zLjwvcD4NCiAgPGgyPkN1c3RvbWVyIEluZm9ybWF0aW9uIGFuZCBVc2U8L2gyPg0KICA8cD4gVHdvIHByaW1hcnkgdHlwZXMgb2YgaW5mb3JtYXRpb24gYXJlIGdhdGhlcmVkIGFib3V0IG91ciBjdXN0b21lcnM6PC9wPg0KICA8cD5GaW5hbmNpYWwgSW5mb3JtYXRpb24gaXMgcGF5bWVudCBpbmZvcm1hdGlvbiB1c2VkIGZvciBvciBnYXRoZXJlZCBkdXJpbmcgdGhlIHJlZ2lzdHJhdGlvbiBwcm9jZXNzIGFuZCBpbmNsdWRlcywgYnV0IGlzIG5vdCBsaW1pdGVkIHRvLCBjcmVkaXQgY2FyZCBudW1iZXJzLCBmaW5hbmNpYWwgaW5zdGl0dXRpb25zLCBhbmQgZXhwaXJhdGlvbiBkYXRlcy4gVGhpcyBpbmZvcm1hdGlvbiBpcyBub3QgdXNlZCBmb3IgYW55IHB1cnBvc2Ugb3RoZXIgdGhhbiB0aGF0IGZvciB3aGljaCBpdCBpcyBiZWluZyBwcm92aWRlZCB0byB1cywgYW5kIGlzIHVzZWQgb25seSB0byB0aGUgZXh0ZW50IG5lY2Vzc2FyeSBmb3IgcHJvY2Vzc2luZyB0aGUgdHJhbnNhY3Rpb24gb3IgdG8gZmFjaWxpdGF0ZSBmdXR1cmUgdHJhbnNhY3Rpb25zLjwvcD4NCiAgPHA+UHJvZmVzc2lvbmFsIEluZm9ybWF0aW9uIGluY2x1ZGVzLCBidXQgaXMgbm90IGxpbWl0ZWQgdG8sIG5hbWUsIGFkZHJlc3MsIGNvbXBhbnkgbmFtZSwgY29tcGFueSBhZGRyZXNzLCBwaG9uZSBudW1iZXIsIGZheCBudW1iZXIsIGFuZCBlbWFpbCBhZGRyZXNzLCBhcyB3ZWxsIGFzIHF1ZXN0aW9ucyBhbnN3ZXJlZCBvbiBzdXJ2ZXkgb3IgcmVnaXN0cmF0aW9uIGZvcm1zLiBEYXRhIGNhcHR1cmVkIGR1cmluZyBhIGN1c3RvbWVy4oCZcyB2aXNpdCB0byB0aGUgTmV3IFlvcmsgQ29taWMtQ29uIHdlYiBzaXRlLCBhcyB3ZWxsIGFzIGR1cmluZyBhIHZpc2l0IHdpdGggYSBOZXcgWW9yayBDb21pYy1Db24gY3VzdG9tZXIgaXMgYWxzbyBjb25zaWRlcmVkIHByb2Zlc3Npb25hbCBpbmZvcm1hdGlvbiBhbmQgbWF5IGFsc28gYmUgc3RvcmVkIGluIG91ciBjdXN0b21lciBkYXRhYmFzZSBmb3Igb3VyIGludGVybmFsIHVzZS4gUHJvZmVzc2lvbmFsIGluZm9ybWF0aW9uIG1heSBiZSwgdXBvbiB0aGUgY29uc2VudCBvZsKgIE5ldyBZb3JrIENvbWljLUNvbiwgc2hhcmVkIHdpdGggb3RoZXIgb3JnYW5pemF0aW9ucyBvciBOZXcgWW9yayBDb21pYy1Db24gY3VzdG9tZXJzIGZvciB0aGUgcHVycG9zZSBvZiBmYWNpbGl0YXRpbmcgYnVzaW5lc3MgcmVsYXRpb25zaGlwcyBiZWxpZXZlZCBieSBSZWVkLVVTIHRvIGJlIGluIG91ciBjdXN0b21lcnPigJkgYmVzdCBpbnRlcmVzdHMuPC9wPg0KICA8aDI+T3B0aW5nIE91dDwvaDI+DQogIDxwPiBSZWVkLVVTIHdpbGwgYWNjZXB0LCBpbXBsZW1lbnQgYW5kIG1haW50YWluIGFueSBjdXN0b21lciByZXF1ZXN0IHRvIG9wdCBvdXQgb2YgZnV0dXJlIGNvbW11bmljYXRpb24gZnJvbSBOZXcgWW9yayBDb21pYy1Db24sIFJlZWQtVVMsIG9yIGEgdGhpcmQgcGFydHkgdG8gd2hvbSBOZXcgWW9yayBDb21pYy1Db24gcHJvdmlkZWQgdGhlIGN1c3RvbWVy4oCZcyBpbmZvcm1hdGlvbi4gSWYgeW91IHdvdWxkIGxpa2UgdG8gb3B0IG91dCBvZiBjb21tdW5pY2F0aW9ucyB5b3UgYXJlIHJlY2VpdmluZyBmcm9tIE5ldyBZb3JrIENvbWljLUNvbiwgUmVlZC1VUywgb3IgYSB0aGlyZCBwYXJ0eSBjb250YWN0aW5nIHlvdSBvbiBiZWhhbGYgb2YgTmV3IFlvcmsgQ29taWMtQ29uLCBwbGVhc2UgdmlzaXQgdGhlwqA8YSBocmVmPSJodHRwOi8vd3d3LnJlY3VzcHJpdmFjeS5jb20vIiB0YXJnZXQ9Il9ibGFuayI+cHJpdmFjeSB3ZWJzaXRlPC9hPsKgYW5kIGVudGVyIHRoZSBpbmZvcm1hdGlvbiByZXF1ZXN0ZWQgc28gd2UgbWF5IHRob3JvdWdobHkgaW1wbGVtZW50IHlvdXIgcmVxdWVzdCB3aXRoaW4gMTAgZGF5cyBvZiByZWNlaXB0LjwvcD4NCiAgPGgyPlNlY3VyaXR5PC9oMj4NCiAgPHA+IFRoaXMgc2l0ZSB1dGlsaXplcyBhIHNlY3VyZSBzZXJ2ZXIgdG8gcHJvdGVjdCB5b3VyIGZpbmFuY2lhbCBhbmQgcHJvZmVzc2lvbmFsIGluZm9ybWF0aW9uLiBTZWN1cmUgc2VydmVyIHNvZnR3YXJlIGlzIHVzZWQgdG8gZW5jcnlwdCB0aGUgaW5mb3JtYXRpb24gc2VudCBiZXR3ZWVuIHlvdXIgSW50ZXJuZXQgYnJvd3NlciBhbmQgb3VyIEludGVybmV0IHNpdGUuIFRoaXMgZW5zdXJlcyB0aGUgc2VjdXJpdHkgb2YgeW91ciBwcm9mZXNzaW9uYWwgYW5kIGZpbmFuY2lhbCB0cmFuc2FjdGlvbiBkZXRhaWxzIHdoZW4gdXNpbmcgdGhlIHNpdGUuIFdlIGZvbGxvdyBzdHJpY3Qgc2VjdXJpdHkgcHJvY2VkdXJlcyBpbiB0aGUgc3RvcmFnZSBhbmQgZGlzY2xvc3VyZSBvZiBpbmZvcm1hdGlvbiB5b3UgaGF2ZSBnaXZlbiB0byB1cyBhbmQgbWF5LCBvbiBvY2Nhc2lvbiwgcmVxdWVzdCBwcm9vZiBvZiBpZGVudGl0eSBiZWZvcmUgd2UgZGlzY2xvc2UgYW55IHByb2Zlc3Npb25hbCBpbmZvcm1hdGlvbiB0byB5b3UuPC9wPg0KICA8aDM+TWV0aG9kIG9mIFRyYW5zYWN0aW9uIFNlY3VyaXR5PC9oMz4NCiAgPHA+IFByb2R1Y3RzIG9mIE5ldyBZb3JrIENvbWljIENvbiB1c2UgU2VjdXJlIFNvY2tldHMgTGF5ZXIgKFNTTCkgcHJvdG9jb2wgdG8gc2FmZWd1YXJkIGN1c3RvbWVyIGluZm9ybWF0aW9uIGR1cmluZyBvbmxpbmUgdHJhbnNhY3Rpb25zLiBTU0wgZW5jcnlwdGlvbiBpcyB0aGUgZ2VuZXJhbGx5IGFjY2VwdGVkIG1ldGhvZCBvZiB0cmFuc2FjdGlvbiBzZWN1cml0eSBpbiBvbmxpbmUgb3JkZXJpbmcuPGJyIC8+DQogIDwvcD4NCiAgPGgzPkNvb2tpZXM8L2gzPg0KICA8cD4gQSAmcXVvdDtjb29raWUmcXVvdDsgaXMgYSBiaXQgb2YgZGF0YSBzZW50IGJ5IGEgd2Vic2l0ZSB0aHJvdWdoIHRoZSBicm93c2VyIHRvIHRoZSBjb21wdXRlciBvZiB0aGUgdXNlciB2aXNpdGluZyB0aGUgc2l0ZSwgYW5kIGVuYWJsZXMgdGhlIHNpdGUgdG8gcmV0dXJuIHRoZSByZXN1bHRzIHRoZSBicm93c2VyIGV4cGVjdHMuIFRoZSBOZXcgWW9yayBDb21pYy1Db24gd2Vic2l0ZSB1c2VzIHRlbXBvcmFyeSwgc2Vzc2lvbi1zcGVjaWZpYyBjb29raWVzIHRvIGVuc3VyZSB2aXNpdHMgdG8gaXRzIHdlYnNpdGVzIGFyZSBzbW9vdGggYW5kIGN1c3RvbWl6ZWQgZm9yIHRoZSB2aXNpdG9yLiBTdWNoIGNvb2tpZXMgYWxsb3cgdXMgdG8gcHJvdmlkZSBhIHZpc2l0b3IncyBicm93c2VyIHdpdGggaW5mb3JtYXRpb24gdGFpbG9yZWQgdG8gdGhlIHZpc2l0b3IncyBwcmVmZXJlbmNlcyBhbmQgbmVlZHMuIFdlIHVzZSBwZXJtYW5lbnQgb3IgcGVyc2lzdGVudCBjb29raWVzIHRoYXQgcmVtYWluIG9uIGEgdmlzaXRvcidzIGNvbXB1dGVyIGFmdGVyIHRoZSB2aXNpdG9yIGxlYXZlcyB0aGUgTmV3IFlvcmsgQ29taWMtQ29uIHdlYnNpdGUuIEhvd2V2ZXIsIG91ciBjb29raWVzIG5laXRoZXIgcmV2ZWFsIG5vciBjb250YWluIGFueSBpZGVudGlmeWluZyBvciBwZXJzb25hbCBkYXRhLiBDb29raWVzIGFsc28gY2Fubm90IHJlYWQgYW55IGluZm9ybWF0aW9uIG9uIGEgdmlzaXRvcidzIGNvbXB1dGVyIG9yIGludGVyYWN0IHdpdGggb3RoZXIgY29va2llcyBvbiB0aGUgdmlzaXRvcidzIGhhcmQgZHJpdmUuPC9wPg0KICA8cD5JZiB5b3UgZG8gbm90IHdhbnQgeW91ciBicm93c2VyIHRvIGFjY2VwdCBjb29raWVzLCB5b3UgY2FuIHR1cm4gb2ZmIHRoZSBjb29raWUgYWNjZXB0YW5jZSBvcHRpb24gaW4gdGhlIGJyb3dzZXIncyBzZXR0aW5ncy4gSG93ZXZlciwgZGlzYWJsaW5nIHRoZSBjb29raWUgc3VwcG9ydCBmdW5jdGlvbiBvZiB0aGUgYnJvd3NlciB3aWxsIHByZXZlbnQgb3VyIHdlYnNpdGUgZnJvbSBmdW5jdGlvbmluZyBwcm9wZXJseSBhbmQgeW91IG1heSBub3QgYmUgYWJsZSB0byB1dGlsaXplIGZ1bGx5IGFsbCBvZiB0aGUgc2l0ZSdzIGZlYXR1cmVzIGFuZCBpbmZvcm1hdGlvbi48L3A+DQogIDxoMj5Qb2xpY3kgQ2hhbmdlczwvaDI+DQogIDxwPiBSZWVkLVVTIHJlc2VydmVzIHRoZSByaWdodCB0byByZXZpZXcgYW5kIGNoYW5nZSB0aGlzIFBvbGljeS4gUG9saWN5IGNoYW5nZXMgbWF5IGJlIG1hZGUgd2l0aG91dCBwcmlvciBub3RpY2UgdG8gZXhpc3RpbmcgY3VzdG9tZXJzLiBQb2xpY3kgcmV2aXNpb25zIG9ubHkgYXBwbHkgdG8gaW5mb3JtYXRpb24gZ2F0aGVyZWQgYXMgb2YgdGhlIGVmZmVjdGl2ZSBkYXRlIG9mIHRoZSByZXZpc2VkIHBvbGljeSwgdW5sZXNzIHdlIGdpdmUgeW91IG5vdGljZSBhbmQgY2hvaWNlIGFzIHRvIHRoZSBjaGFuZ2VzIGluIHVzZSwgaW4gd2hpY2ggY2FzZSBhbGwgaW5mb3JtYXRpb24gaXMgc3ViamVjdCB0byB0aGUgbmV3IHBvbGljeS48L3A+DQogIDxoMj5SZXZpZXcgYW5kIENvcnJlY3Rpb24gb2YgQ3VzdG9tZXIgSW5mb3JtYXRpb24gb3IgT3RoZXIgUXVlc3Rpb25zPC9oMj4NCiAgPHA+IElmIHlvdSBoYXZlIGFueSBxdWVzdGlvbnMgb3IgY29uY2VybnMgYWJvdXQgeW91ciBjdXN0b21lciBpbmZvcm1hdGlvbiBvciB5b3VyIHJlcXVlc3QgdG8gb3B0LW91dCBvZiBjb21tdW5pY2F0aW9ucyBmcm9tIE5ldyBZb3JrIENvbWljLUNvbiBvciBpdHMgdGhpcmQgcGFydHkgcGFydG5lcnMsIG9yIGlmIHlvdSB3b3VsZCBsaWtlIHRvIHJldmlldyB0aGUgaW5mb3JtYXRpb24gd2XigJl2ZSBjb2xsZWN0ZWQgYWJvdXQgeW91LCBwbGVhc2UgY2FsbCBvciB3cml0ZSBvdXIgUHJpdmFjeSBBZG1pbmlzdHJhdG9yOjwvcD4NCiAgPHA+UmVlZCBFeGhpYml0aW9uczxiciAvPg0KICAgIFVTIFByaXZhY3kgQWRtaW5pc3RyYXRvci9EYXRhYmFzZSBEZXB0PGJyIC8+DQogICAgMzgzIE1haW4gQXZlLjxiciAvPg0KICAgIE5vcndhbGssIENUIDA2ODUxPC9wPg0KICA8dGFibGUgYm9yZGVyPSIwIiBjZWxscGFkZGluZz0iMCIgY2VsbHNwYWNpbmc9IjAiIGNsYXNzPSJwYWQ1Ij4NCiAgICA8dHI+DQogICAgICA8dGQ+UGhvbmU6PC90ZD4NCiAgICAgIDx0ZD5XaXRoaW4gdGhlIFVTIGF0IDg4OC0zMDYtMjM0NDxiciAvPg0KICAgICAgICBPdXRzaWRlIHRoZSBVUyBhdCAyMDMtODQwLTU4MTA8L3RkPg0KICAgIDwvdHI+DQogICAgPHRyPg0KICAgICAgPHRkPkVtYWlsOjwvdGQ+DQogICAgICA8dGQ+PGEgaHJlZj0ibWFpbHRvOnByaXZhY3lAcmVlZGV4cG8uY29tIj5wcml2YWN5QHJlZWRleHBvLmNvPC9hPjwvdGQ+DQogICAgPC90cj4NCiAgPC90YWJsZT4NCmQCCQ9kFgJmD2QWAmYPFgIfAQXwEDxwPjxhIGhyZWY9Imh0dHA6Ly93d3cucmVlZGV4cG8uY29tIj48aW1nIHNyYz0iLi4vLi4vLi4vLi4vLi4vUk5BL1JOQV9VRkMvSW1hZ2VzL3Byb2R1Y2VkX2J5X3JlZWRleHBvLmdpZiIgYWx0PSJSZWVkIEV4aGliaXRpb25zIiB3aWR0aD0iMTEyIiBoZWlnaHQ9IjM0IiAvPjwvYT48YnIgLz4NCjwvcD4NCjxwIGNsYXNzPSJjbGVhciIgc3R5bGU9Im1hcmdpbi10b3A6NXB4OyI+DQogIDwhLS0gYmVnaW4gYWQgdGFnLS0+DQogIDxzY3JpcHQgbGFuZ3VhZ2U9IkphdmFTY3JpcHQiIHNyYz0iaHR0cDovL2FkLmRvdWJsZWNsaWNrLm5ldC9hZGovY29taWMucngvO2t3PXBvczE7c3o9MjAweDE1MDtvcmQ9W3RpbWVzdGFtcF0/IiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPjwvc2NyaXB0Pg0KICA8L3A+PG5vc2NyaXB0Pg0KICA8YSBocmVmPSJodHRwOi8vYWQuZG91YmxlY2xpY2submV0L2p1bXAvY29taWMucngvO2t3PXBvczE7c3o9MjAweDE1MDtvcmQ9W3RpbWVzdGFtcF0/IiB0YXJnZXQ9Il9ibGFuayI+PGltZyBzcmM9Imh0dHA6Ly9hZC5kb3VibGVjbGljay5uZXQvYWQvY29taWMucngvO2t3PXBvczE7c3o9MjAweDE1MDtvcmQ9W3RpbWVzdGFtcF0/IiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjE1MCIgYm9yZGVyPSIwIiBhbHQ9IiIgLz48L2E+DQogIDwvbm9zY3JpcHQ+DQogIDwhLS0gRW5kIGFkIHRhZyAtLT4NCiAgPGJyIC8+DQoNCjxwPg0KICA8IS0tIGJlZ2luIGFkIHRhZy0tPg0KICA8c2NyaXB0IGxhbmd1YWdlPSJKYXZhU2NyaXB0IiBzcmM9Imh0dHA6Ly9hZC5kb3VibGVjbGljay5uZXQvYWRqL2NvbWljLnJ4Lztrdz1wb3MyO3N6PTIwMHgxNTA7b3JkPVt0aW1lc3RhbXBdPyIgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij48L3NjcmlwdD4NCiAgPC9wPjxub3NjcmlwdD4NCiAgPGEgaHJlZj0iaHR0cDovL2FkLmRvdWJsZWNsaWNrLm5ldC9qdW1wL2NvbWljLnJ4Lztrdz1wb3MyO3N6PTIwMHgxNTA7b3JkPVt0aW1lc3RhbXBdPyIgdGFyZ2V0PSJfYmxhbmsiPjxpbWcgc3JjPSJodHRwOi8vYWQuZG91YmxlY2xpY2submV0L2FkL2NvbWljLnJ4Lztrdz1wb3MyO3N6PTIwMHgxNTA7b3JkPVt0aW1lc3RhbXBdPyIgd2lkdGg9IjIwMCIgaGVpZ2h0PSIxNTAiIGJvcmRlcj0iMCIgYWx0PSIiIC8+PC9hPg0KICA8L25vc2NyaXB0Pg0KICA8IS0tIEVuZCBhZCB0YWcgLS0+DQogIDxiciAvPg0KDQo8cD4NCiAgPCEtLSBiZWdpbiBhZCB0YWctLT4NCiAgPHNjcmlwdCBsYW5ndWFnZT0iSmF2YVNjcmlwdCIgc3JjPSJodHRwOi8vYWQuZG91YmxlY2xpY2submV0L2Fkai9jb21pYy5yeC87a3c9cG9zMztzej0yMDB4MTUwO29yZD1bdGltZXN0YW1wXT8iIHR5cGU9InRleHQvamF2YXNjcmlwdCI+PC9zY3JpcHQ+DQogIDwvcD48bm9zY3JpcHQ+DQogIDxhIGhyZWY9Imh0dHA6Ly9hZC5kb3VibGVjbGljay5uZXQvanVtcC9jb21pYy5yeC87a3c9cG9zMztzej0yMDB4MTUwO29yZD1bdGltZXN0YW1wXT8iIHRhcmdldD0iX2JsYW5rIj48aW1nIHNyYz0iaHR0cDovL2FkLmRvdWJsZWNsaWNrLm5ldC9hZC9jb21pYy5yeC87a3c9cG9zMztzej0yMDB4MTUwO29yZD1bdGltZXN0YW1wXT8iIHdpZHRoPSIyMDAiIGhlaWdodD0iMTUwIiBib3JkZXI9IjAiIGFsdD0iIiAvPjwvYT4NCiAgPC9ub3NjcmlwdD4NCiAgPCEtLSBFbmQgYWQgdGFnIC0tPg0KICA8YnIgLz4NCg0KPHA+DQogIDwhLS0gYmVnaW4gYWQgdGFnLS0+DQogIDxzY3JpcHQgbGFuZ3VhZ2U9IkphdmFTY3JpcHQiIHNyYz0iaHR0cDovL2FkLmRvdWJsZWNsaWNrLm5ldC9hZGovY29taWMucngvO2t3PXBvczQ7c3o9MjAweDE1MDtvcmQ9W3RpbWVzdGFtcF0/IiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPjwvc2NyaXB0Pg0KICA8L3A+PG5vc2NyaXB0Pg0KICA8YSBocmVmPSJodHRwOi8vYWQuZG91YmxlY2xpY2submV0L2p1bXAvY29taWMucngvO2t3PXBvczQ7c3o9MjAweDE1MDtvcmQ9W3RpbWVzdGFtcF0/IiB0YXJnZXQ9Il9ibGFuayI+PGltZyBzcmM9Imh0dHA6Ly9hZC5kb3VibGVjbGljay5uZXQvYWQvY29taWMucngvO2t3PXBvczQ7c3o9MjAweDE1MDtvcmQ9W3RpbWVzdGFtcF0/IiB3aWR0aD0iMjAwIiBoZWlnaHQ9IjE1MCIgYm9yZGVyPSIwIiBhbHQ9IiIgLz48L2E+DQogIDwvbm9zY3JpcHQ+DQogIDwhLS0gRW5kIGFkIHRhZyAtLT4NCiAgPGJyIC8+DQoNCmQCFw9kFgQCAQ8WAh8CaBYCZg9kFgZmD2QWAgIBDxYCHwZkZAICD2QWAgIBDxYCHwNmZAIED2QWCAIBDxYCHwJoZAIDD2QWBAIBDxYCHglpbm5lcmh0bWxkZAIDDxYCHwJoZAIFDxYCHwJoZAIHD2QWBAIBDxYCHwxkZAIDDxYCHwJoZAIDD2QWAmYPZBYCZg8WAh8BBYoFPGRpdiBpZD0iY29weXJpZ2h0Ij48YSBocmVmPSIuLi8uLi8uLi8uLi8uLi9lbi9Db3B5cmlnaHQtU3RhdGVtZW50LyI+Q29weXJpZ2h0ICZjb3B5OyAyMDA5IE5ldyBZb3JrIENvbWljIENvbiAgQWxsIFJpZ2h0cyBSZXNlcnZlZC48L2E+PC9kaXY+DQo8ZGl2IGlkPSJib3R0b21fbGlua3MiPjxhIGhyZWY9Ii4uLy4uLy4uLy4uLy4uL2VuL0NvbnRhY3QvIj5Db250YWN0PC9hPiZuYnNwOyZuYnNwOyZuYnNwO3wmbmJzcDsmbmJzcDsmbmJzcDs8YSBocmVmPSIuLi8uLi8uLi8uLi8uLi9lbi9TaXRlbWFwLyI+U2l0ZW1hcDwvYT4mbmJzcDsmbmJzcDsmbmJzcDt8Jm5ic3A7Jm5ic3A7Jm5ic3A7PGEgaHJlZj0iLi4vLi4vLi4vLi4vLi4vZW4vUHJpdmFjeS1Qb2xpY3kvIj5Qcml2YWN5IFBvbGljeTwvYT4mbmJzcDsmbmJzcDsmbmJzcDt8Jm5ic3A7Jm5ic3A7Jm5ic3A7PGEgaHJlZj0iaHR0cDovL3d3dy5yZWVkZXhwby5jb20vIiB0YXJnZXQ9Il9ibGFuayI+UmVlZCBFeGhpYml0aW9uczwvYT4mbmJzcDsmbmJzcDsmbmJzcDt8Jm5ic3A7Jm5ic3A7Jm5ic3A7PGEgaHJlZj0iaHR0cDovL3d3dy5yZWVkZWxzZXZpZXIuY29tLyIgdGFyZ2V0PSJfYmxhbmsiPlJlZWQgRWxzZXZpZXI8L2E+PC9kaXY+DQo8ZGl2IGNsYXNzPSJjbGVhciI+PC9kaXY+DQpkAgIPFgIfAWVkAgMPFgIfAWVkZHI9gE1xB1suP5/GQHLVslOO/YH8">
+</div>
 
-
-
-
-<table border="0" height="361" cellpadding="0" cellspacing="0">
-
-	
-	<tbody><tr><td class="ControlNavigationCellHeight"><script type="text/javascript" src="http://www.nycomiccon.com/images/100453/2009_JS/jquery_1.2.2.pack.js"></script>
-<script type="text/javascript" src="http://www.nycomiccon.com/images/100453/2009_JS/rollover.js"></script>
-<script type="text/javascript" src="http://www.nycomiccon.com/images/100453/2009_JS/ddaccordion.js">
-
-/***********************************************
-* Accordion Content script- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
-* Visit http://www.dynamicDrive.com for hundreds of DHTML scripts
-* This notice must stay intact for legal use
-***********************************************/
-
-</script>
-<script type="text/javascript">
-ddaccordion.init({
-	headerclass: "submenuheader", //Shared CSS class name of headers group that are expandable
-	contentclass: "submenu", //Shared CSS class name of contents group
-	revealtype: "click", //Reveal content when user clicks or onmouseover the header? Valid value: "click" or "mouseover
-	collapseprev: true, //Collapse previous content (so only one open at any time)? true/false 
-	defaultexpanded: [0], //index of content(s) open by default [index1, index2, etc]. [] denotes no content
-	onemustopen: false, //Specify whether at least one header should be open always (so never all headers closed)
-	animatedefault: false, //Should contents open by default be animated into view?
-	persiststate: true, //persist state of opened contents within browser session?
-	toggleclass: ["", "openheader"], //Two CSS classes to be applied to the header when it's collapsed and expanded, respectively ["class1", "class2"]
-	togglehtml: ["prefix", "", ""], //Additional HTML added to the header when it's collapsed and expanded, respectively  ["position", "html1", "html2"] (see docs)
-	animatespeed: "normal", //speed of animation: "fast", "normal", or "slow"
-	oninit:function(headers, expandedindices){ //custom code to run when headers have initalized
-		//do nothing
-	},
-	onopenclose:function(header, index, state, isuseractivated){ //custom code to run whenever a header is opened or closed
-		//do nothing
-	}
-})
-
-</script>
-<script src="js/form_validation.js" type="text/javascript"></script>
-<script type="text/javascript">
-function checkBasicSearchForm(form) {
-	// validate ticket entries (which fields are requried)
-	form.keywords.required = true;
- 	form.keywords.requiredError = 'Please enter the keyword(s).';
-
-	var errors = getFormErrors(form);
-    if (errors.length > 0) {
-    	var errorMessage = '';
-        for (var errorIndex = 0; errorIndex < errors.length; errorIndex++) {
-        	errorMessage += '* ' + errors[errorIndex] + '\n';
-        }
-        errorMessage += '';
-        alert(errorMessage);
-        return false;
-	}
-
-	return true;
-}
-//-->
-</script>
-<div id="left">
-  <div id="nav">
-    <div id="nav_top">&nbsp;</div>
-    <div id="nav_content">
-<!--      <form action="homepage.cfm?appname=100453&moduleid=2577&siteadvsearch=1&collections=1,10,2,3,4,5,6,7,8&searchtype=all&displaytype=relevance&fuseaction=search.results" method="get" id="frmBasicSearch" onsubmit="return checkBasicSearchForm(this);">
-        <input type="hidden" name="appname" value="100453" />
-        <input type="hidden" name="moduleid" value="2577" />
-        <input type="hidden" name="campaignid" value="42917" />
-        <input type="hidden" name="iusercampaignid" value="25080207" />
-        <input type="hidden" name="siteadvsearch" value="1" />
-        <input type="hidden" name="collections" value="1,10,2,3,4,5,6,7,8" />
-        <input type="hidden" name="searchtype" value="all" />
-        <input type="hidden" name="displaytype" value="relevance" />
-        <input type="hidden" name="searchmethod" value="basic" />
-        <input type="hidden" name="fuseaction" value="search.results" />
-        <input name="keywords" type="text" class="searchbox" value="Search" size="20" />
-        <br />
-        <input type="submit" value="Go" name="submit232" class="submit_button" />
-      </form>
--->      <!--Dropdown Begins-->
-      <div class="glossymenu"> <a headerindex="0h" class="menuitem submenuheader" href="#">Buy Tickets</a>
-        <div contentindex="0c" class="submenu">
-          <ul>
-            <li><a href="http://www.nycomiccon.com/app/homepage.cfm?moduleid=4698&amp;appname=100453&amp;submenuheader=0">Buy Tickets</a></li>
-            <li><a href="http://www.nycomiccon.com/app/homepage.cfm?appname=100453&amp;moduleID=2528&amp;submenuheader=0">For Professionals</a></li>
-            <li><a href="https://www.compusystems.com/servlet/ar?evt_uid=2871&amp;site=INQ" target="_blank">For Consumers</a></li>
-            <li><a href="http://www.nycomiccon.com/app/homepage.cfm?appname=100453&amp;moduleID=2526&amp;LinkID=29759">Retailer Tickets</a></li>
-            <li><a href="http://www.nycomiccon.com/app/homepage.cfm?appname=100453&amp;moduleID=2526&amp;LinkID=31129&amp;submenuheader=0">VIP Tickets</a></li>
-          </ul>
-        </div>
-      </div>
-      <div class="glossymenu"> <a headerindex="1h" class="menuitem submenuheader" href="#">Guests &amp; Artists</a>
-        <div contentindex="1c" class="submenu">
-          <ul>
-            <li><a href="http://www.nycomiccon.com/app/homepage.cfm?moduleid=2920&amp;appname=100453&amp;submenuheader=1">Guests</a></li>
-            <li><a href="http://www.nycomiccon.com/app/homepage.cfm?moduleid=4568&amp;appname=100453&amp;submenuheader=1">Artist Alley</a></li>
-          </ul>
-        </div>
-      </div>
-      <div class="glossymenu"> <a headerindex="2h" class="menuitem submenuheader" href="#">Screenings &amp; Panels</a>
-        <div contentindex="2c" class="submenu">
-          <ul>
-            <li><a href="http://www.nycomiccon.com/App/homepage.cfm?moduleid=2525&amp;appname=100453&amp;submenuheader=2">Programming</a></li>
-            <li><a href="http://www.nycomiccon.com/app/homepage.cfm?appname=100453&amp;moduleID=2525&amp;LinkID=31514&amp;submenuheader=2">Screenings</a></li>
-            <li><a href="http://www.nycomiccon.com/app/homepage.cfm?appname=100453&amp;moduleID=2517&amp;LinkID=31067&amp;submenuheader=2">ICv2 Conference</a></li>
-            <li><a href="http://www.nycomiccon.com/app/homepage.cfm?appname=100453&amp;moduleID=2525&amp;LinkID=31226&amp;submenuheader=2">Hero Initiative</a></li>
-          </ul>
-        </div>
-      </div>
-      <div class="glossymenu"> <a class="menuitem" href="http://www.nycomiccon.com/app/homepage.cfm?moduleid=4524&amp;appname=100453&amp;submenuheader=15">Kids Day</a>
-        <!--
-    <div contentindex="5c" class="submenu">
-      <ul>
-        <li><a href="#&submenuheader=5">Link 1</a></li>
-        <li><a href="#&submenuheader=5">Link 2</a></li>
-      </ul>
+    <script type="text/javascript" src="/Scripts/Libraries/jquery-1.2.6.min.js"></script>
+    <!-- link for "back to top" -->
+    <div>
+        <a name="Top"></a>
     </div>
--->
-      </div>
-      <div class="glossymenu"> <a headerindex="3h" class="menuitem submenuheader" href="#">Exhibit Hall</a>
-        <div contentindex="3c" class="submenu">
-          <ul>
-            <li><a href="http://www.nycomiccon.com/app/homepage.cfm?appname=100453&amp;moduleID=2523&amp;LinkID=31641&amp;submenuheader=3">Exhibitor List</a></li>
-            <li><a href="http://www.nycomiccon.com/app/homepage.cfm?appname=100453&amp;moduleID=2523&amp;LinkID=29733&amp;submenuheader=3">Show Exclusives</a></li>
-            <li><a href="http://www.nycomiccon.com/app/homepage.cfm?appname=100453&amp;moduleID=2523&amp;LinkID=31576&amp;submenuheader=3">I-Con</a></li>
-            <li><a href="http://www.nycomiccon.com/app/homepage.cfm?moduleid=4058&amp;appname=100453&amp;submenuheader=3">Product Gallery</a></li>
-            <!--<li><a href="#&submenuheader=3">In Booth Activities</a></li>-->
-            <li><a href="http://www.nycomiccon.com/app/homepage.cfm?moduleid=4568&amp;appname=100453&amp;submenuheader=3">Artist Alley</a></li>
-            <li><a href="http://www.nycomiccon.com/app/homepage.cfm?moduleid=2521&amp;appname=100453&amp;submenuheader=3">For The Anime Lover</a></li>
-            <li><a href="http://www.nycomiccon.com/app/homepage.cfm?appname=100453&amp;moduleID=2525&amp;LinkID=31553&amp;submenuheader=3">For The Hardcore Gamer</a></li>
-            <!--<li><a href="#&submenuheader=3">For The Hard Core Gamer</a></li>-->
-            <li><a href="http://www.nycomiccon.com/app/homepage.cfm?moduleid=4580&amp;appname=100453&amp;submenuheader=3">Podcasting</a></li>
-            <li><a href="http://www.nycomiccon.com/app/homepage.cfm?appname=100453&amp;moduleID=2523&amp;LinkID=31663&amp;submenuheader=3">Hollywood and TV Explodes at NYCC</a></li>
-            <li><a href="http://www.mapyourshow.com/shows/mys_v4_01/mys_v4_01.cfm?SHOW_ID=NYCC09" target="_blank">Floorplan</a></li>
-          </ul>
-        </div>
-      </div>
-      <div class="glossymenu"> <a headerindex="4h" class="menuitem submenuheader" href="#">Autographing</a>
-        <div contentindex="4c" class="submenu">
-          <ul>
-            <!--<li><a href="#&submenuheader=3">Ticketed Signings</a></li>-->
-            <li><a href="http://www.nycomiccon.com/app/homepage.cfm?appname=100453&amp;moduleID=2525&amp;LinkID=29980&amp;submenuheader=4">Autographing Area</a></li>
-          </ul>
-        </div>
-      </div>
-      <div class="glossymenu"> <a class="menuitem" href="http://www.nycomiccon.com/app/homepage.cfm?moduleid=4565&amp;appname=100453&amp;submenuheader=15">Hotel &amp; Travel</a>
-        <!--
-    <div contentindex="5c" class="submenu">
-      <ul>
-        <li><a href="#&submenuheader=5">Link 1</a></li>
-        <li><a href="#&submenuheader=5">Link 2</a></li>
-      </ul>
-    </div>
--->
-      </div>
-      <div class="glossymenu"> <a class="menuitem" href="http://www.nycomiccon.com/App/homepage.cfm?moduleid=2529&amp;appname=100453&amp;submenuheader=15">Press</a>
-        <!--
-    <div contentindex="6c" class="submenu">
-      <ul>
-        <li><a href="#&submenuheader=6">Link 1</a></li>
-        <li><a href="#&submenuheader=6">Link 2</a></li>
-      </ul>
-    </div>
--->
-      </div>
-      <div class="glossymenu"> <a headerindex="5h" class="menuitem submenuheader" href="#">Spread The Word</a>
-        <div contentindex="5c" class="submenu">
-          <ul>
-            <li><a href="http://www.nycomiccon.com/App/homepage.cfm?moduleid=4156&amp;appname=100453&amp;submenuheader=5">Spread The Word</a></li>
-            <li><a href="http://reedexpoinvitations.com/090206/menu.html" target="_blank">Send a Free Invitation</a></li>
-            <li><a href="http://twitter.com/NY_Comic_Con" target="_blank">Follow Me On Twitter</a></li>
-          </ul>
-        </div>
-      </div>
-      <div class="glossymenu"> <a headerindex="6h" class="menuitem submenuheader" href="#">Sponsors &amp; Partners</a>
-        <div contentindex="6c" class="submenu">
-          <ul>
-            <li><a href="http://www.nycomiccon.com/app/homepage.cfm?moduleid=4563&amp;appname=100453&amp;submenuheader=6">Sponsors</a></li>
-            <li><a href="http://www.nycomiccon.com/app/homepage.cfm?appname=100453&amp;moduleID=2577&amp;LinkID=31207&amp;submenuheader=6">Charities</a></li>
-          </ul>
-        </div>
-      </div>
-      <div class="glossymenu"> <a headerindex="7h" class="menuitem submenuheader" href="#">Viral Videos/Vlogs</a>
-        <div contentindex="7c" class="submenu">
-          <ul>
-            <li><a href="http://www.nycomiccon.com/app/homepage.cfm?appname=100453&amp;moduleID=2577&amp;LinkID=31204&amp;submenuheader=7">Staff Vlogs</a></li>
-            <li><a href="http://www.nycomiccon.com/app/homepage.cfm?moduleid=4728&amp;appname=100453&amp;submenuheader=7">Viral Vids</a></li>
-          </ul>
-        </div>
-      </div>
-      <!--<div class="glossymenu"> <a class="menuitem" href="http://www.nycomiccon.com/App/homepage.cfm?moduleid=3277&appname=100453&submenuheader=15">NYCC Show Store</a>
-
-    <div contentindex="10c" class="submenu">
-      <ul>
-        <li><a href="#&submenuheader=10">Link 1</a></li>
-        <li><a href="#&submenuheader=10">Link 2</a></li>
-      </ul>
-    </div>
-
-      </div>-->
-      <div class="glossymenu"> <a headerindex="8h" class="menuitem submenuheader" href="#">FAQ's</a>
-        <div contentindex="8c" class="submenu">
-          <ul>
-            <li><a href="http://www.nycomiccon.com/App/homepage.cfm?moduleid=2524&amp;appname=100453&amp;submenuheader=8">About</a></li>
-            <li><a href="http://www.nycomiccon.com/app/homepage.cfm?moduleid=2697&amp;appname=100453&amp;submenuheader=8">Volunteers</a></li>
-          </ul>
-        </div>
-      </div>
-      <div class="glossymenu"> <a class="menuitem" href="http://www.nycomiccon.com/app/homepage.cfm?moduleid=3109&amp;appname=100453&amp;submenuheader=15">For Exhibitors</a>
-        <!--
-    <div contentindex="13c" class="submenu">
-      <ul>
-        <li><a href="#&submenuheader=13">Link 1</a></li>
-        <li><a href="#&submenuheader=13">Link 2</a></li>
-      </ul>
-    </div>
--->
-      </div>
-        <!-- <div class="glossymenu"> <a class="menuitem" href="http://www.nycomiccon.com/app/homepage.cfm?appname=100453&moduleID=2577&LinkID=31598&submenuheader=15">Pre-Con Party</a>
-     
-    <div contentindex="13c" class="submenu">
-      <ul>
-        <li><a href="#&submenuheader=13">Link 1</a></li>
-        <li><a href="#&submenuheader=13">Link 2</a></li>
-      </ul>
-    </div>
-
-      </div>-->
-
-      <!--Dropdown Ends-->
-    </div>
-    <div id="nav_bottom">&nbsp;</div>
-  </div>
-  <div id="email_block">
-    <form action="http://www.nycomiccon.com/app/homepage.cfm?appname=100453&amp;moduleid=2592&amp;linkid=21350&amp;date=1636&amp;campaignid=42917&amp;iUserCampaignID=32689527" method="post" id="CFForm_1" onsubmit="return _CF_checkCFForm_1(this)">
-      <input name="afb_20923" type="text" class="searchbox" id="search2" size="20">
-      <br>
-      <input name="submit" type="submit" class="submit_button" value="Submit" style="margin-top:3px;">
-      <input type="hidden" name="formID" value="1636">
-      <input type="hidden" name="FormName" value="New York Comic Con Newsletter">
-      <input type="hidden" name="fuseaction" value="submitForm">
-    </form>
-  </div>
-  <div id="left_bottom"> <a href="http://www.nycomiccon.com/app/homepage.cfm?moduleid=4421&amp;appname=100453"><img src="http://www.nycomiccon.com/images/100453/2008_NEWGraphics/show_hours.gif" alt="Show Hours!" title="Show Hours!" width="175" height="41" border="0"></a><br>
-    <a href="http://www.nycomiccon.com/app/homepage.cfm?appname=100453&amp;moduleID=3109&amp;LinkID=30733"><img src="http://www.nycomiccon.com/images/100453/2008_NEWGraphics/reservespace.gif" alt="Reserve Your Space!" width="175" height="43" border="0" title="Reserve Your Space!"></a> </div>
-  <div id="dc_nav">
-    <!-- begin ad tag-->
-    <script src="http://ad.doubleclick.net/adj/comic.rx/;kw=POS2;sz=120x300;ord=[timestamp]?" type="text/javascript"></script>
-    <noscript>
-    <a href="http://ad.doubleclick.net/jump/comic.rx/;kw=POS2;sz=120x300;ord=[timestamp]?" target="_blank"><img src="http://ad.doubleclick.net/ad/comic.rx/;kw=POS2;sz=120x300;ord=[timestamp]?" width="120" height="300" border="0" alt="" /></a>
-    </noscript>
-    <!-- End ad tag -->
-  </div>
-  <p align="center"><img src="http://www.nycomiccon.com/images/100453/2009_Graphics/Follow_Us_On.jpg" alt="Follow Us" width="123" height="202" border="0" usemap="#Follow_Us_Map">
-    <map name="Follow_Us_Map" id="Follow_Us_Map">
-      <area shape="rect" coords="6,65,115,104" href="http://www.myspace.com/nycomiccon" target="_blank" alt="NYCC on MySpace.com">
-      <area shape="rect" coords="7,155,117,198" href="http://twitter.com/NY_Comic_Con" target="_blank" alt="NYCC On Twitter">
-      <area shape="rect" coords="6,108,116,152" href="http://www.facebook.com/pages/New-York-Comic-Con/10852735578" target="_blank" alt="NYCC On Facebook">
-    </map>
-  </p>
-</div></td> </tr>
-
-	
-	
-</tbody></table>
-</td>
-											</tr>
-										</tbody></table>
-									</td>
-								
-
-							
-							
-							
-							<!-- Include Center -->
-							
-							
-							
-							
-							
-							<td valign="top" rowspan="2" width="100%" class="background" background="../images/100453/2008_NEWGraphics/nycc_bg.jpg" bgcolor="White">
-							
-
-	<!-- link content -->
-	
-	
-		<table width="100%" height="100%" cellspacing="0" cellpadding="0" border="0" id="content_right_borders">
+    <div id="Container">
+    <!--googleoff: all-->
+        <ul class="adn" id="accessibility-links">
+            <li><a href="#ContentPrimary" accesskey="s">Skip to page content</a></li>
+        </ul>
+    <!--googleon: all-->
+        <div id="Header">
+            <div id="HeaderTopBar">
+                <div class="fc unit LanguageSelector">
 		
-			<tbody><tr>
-				<td width="75%" valign="top"> 
-					
-					
-					
-					
-					<table width="100%" cellspacing="0" cellpadding="0" border="0">
-						
-						<tbody><tr>
-							
-								<td width="0%"></td>
-							
-							<td width="100%" valign="top">
-							
-							
-							
-							<div id="corpsitecontent" name="corpsitecontent">
 
-									
-									
-										
-										<!--Template Start Start Content from here-->
-										
+<div id="LanguageSelector">
+    
+    <div id="LanguageLinks">
+    
+    
+    </div>
+</div>
 
-										<div id="content_container">
-  <!-- begin ad tag-->
-  <div align="center" style="padding:5px 0;">
-    <script language="JavaScript" src="http://ad.doubleclick.net/adj/comic.rx/;sz=468x60;ord=[timestamp]?" type="text/javascript"></script>
-    <noscript>
-    <a href="http://ad.doubleclick.net/jump/comic.rx/;sz=468x60;ord=[timestamp]?" target="_blank"><img src="http://ad.doubleclick.net/ad/comic.rx/;sz=468x60;ord=[timestamp]?" alt="" width="468" height="60" border="0"></a>
-    </noscript>
-  </div>
-  <!-- End ad tag -->
-  <div id="content_top">&nbsp;</div>
-  <div id="content_body">
-    <h1>Privacy Policy</h1>
-    <p>The effective date of this policy as posted is March 22, 2004.</p>
-    <p>Reed Exhibitions and New York Comic-Con respect the information provided by our customers. Because we gather certain types of information when our customers communicate with us, we believe you should fully understand the terms and conditions surrounding the information we capture and the use of that information. This privacy statement discloses the type of information we capture about our customers, how we use it to communicate with our customers, and how you can request to no longer receive communications from New York Comic-Con.</p>
-    <p><strong>US Policy</strong><br>
-    New York Comic-Con is produced and managed by Reed Exhibitions United States (Reed-US), a division of Reed Elsevier, Inc. This privacy policy applies to all Reed-US offices and conforms to the spirit of the Reed Exhibitions Corporate Privacy Policy, which can be found at <a href="http://www.reedexpo.com/" target="_blank">www.reedexpo.com</a>.</p>
-    <p><strong>Our Customers</strong><br>
-    This policy applies to all customers of&nbsp; New York Comic-Con and Reed-US, who include but are not limited to, our show exhibitors, show visitors, conference visitors, customer inquiries, speakers, press, and other individuals with whom Reed-US maintains business relationships or communications.</p>
-    <p><strong>Customer Information and Use</strong><br>
-    Two primary types of information are gathered about our customers:</p>
-    <p>Financial Information is payment information used for or gathered during the registration process and includes, but is not limited to, credit card numbers, financial institutions, and expiration dates. This information is not used for any purpose other than that for which it is being provided to us, and is used only to the extent necessary for processing the transaction or to facilitate future transactions.</p>
-    <p>Professional Information includes, but is not limited to, name, address, company name, company address, phone number, fax number, and email address, as well as questions answered on survey or registration forms. Data captured during a customer’s visit to the New York Comic-Con web site, as well as during a visit with a New York Comic-Con customer is also considered professional information and may also be stored in our customer database for our internal use. Professional information may be, upon the consent of&nbsp; New York Comic-Con, shared with other organizations or New York Comic-Con customers for the purpose of facilitating business relationships believed by Reed-US to be in our customers’ best interests.</p>
-    <p><strong>Opting Out</strong><br>
-    Reed-US will accept, implement and maintain any customer request to opt out of future communication from New York Comic-Con, Reed-US, or a third party to whom New York Comic-Con provided the customer’s information. If you would like to opt out of communications you are receiving from New York Comic-Con, Reed-US, or a third party contacting you on behalf of New York Comic-Con, please visit the&nbsp;<a href="http://www.recusprivacy.com/" target="_blank">privacy website</a>&nbsp;and enter the information requested so we may thoroughly implement your request within 10 days of receipt.</p>
-    <p><strong>Security</strong><br>
-    This site utilizes a secure server to protect your financial and professional information. Secure server software is used to encrypt the information sent between your Internet browser and our Internet site. This ensures the security of your professional and financial transaction details when using the site. We follow strict security procedures in the storage and disclosure of information you have given to us and may, on occasion, request proof of identity before we disclose any professional information to you.</p>
-    <p><strong>Method of Transaction Security</strong><br>
-      Products of New York Comic Con use Secure Sockets Layer (SSL) protocol to safeguard customer information during online transactions. SSL encryption is the generally accepted method of transaction security in online ordering.<br>
-    </p>
-    <p><strong>Cookies</strong><br>
-    A "cookie" is a bit of data sent by a website through the browser to the computer of the user visiting the site, and enables the site to return the results the browser expects. The New York Comic-Con website uses temporary, session-specific cookies to ensure visits to its websites are smooth and customized for the visitor. Such cookies allow us to provide a visitor's browser with information tailored to the visitor's preferences and needs. We use permanent or persistent cookies that remain on a visitor's computer after the visitor leaves the New York Comic-Con website. However, our cookies neither reveal nor contain any identifying or personal data. Cookies also cannot read any information on a visitor's computer or interact with other cookies on the visitor's hard drive.</p>
-    <p>If you do not want your browser to accept cookies, you can turn off the cookie acceptance option in the browser's settings. However, disabling the cookie support function of the browser will prevent our website from functioning properly and you may not be able to utilize fully all of the site's features and information.</p>
-    <p><strong>Policy Changes</strong><br>
-    Reed-US reserves the right to review and change this Policy. Policy changes may be made without prior notice to existing customers. Policy revisions only apply to information gathered as of the effective date of the revised policy, unless we give you notice and choice as to the changes in use, in which case all information is subject to the new policy.</p>
-    <p><strong>Review and Correction of Customer Information or Other Questions</strong><br>
-    If you have any questions or concerns about your customer information or your request to opt-out of communications from New York Comic-Con or its third party partners, or if you would like to review the information we’ve collected about you, please call or write our Privacy Administrator:</p>
-    <p>Reed Exhibitions<br>
-      US Privacy Administrator/Database Dept<br>
-      383 Main Ave.<br>
-      Norwalk, CT 06851</p>
-    <p>Phone:&nbsp;<br>
-      Within the US at 888-306-2344<br>
-      Outside the US at 203-840-5810<br>
-      Email:&nbsp;&nbsp;<a href="mailto:privacy@reedexpo.com">privacy@reedexpo.co</a></p>
-  </div>
-  <div id="content_bottom">&nbsp;</div>
-</div> 
+	</div>
+                
+            </div>
+            <div class="fc unit PageHeader">
+		
 
-										
-										<!--Template End -->
-									
-										
+<div class="fc unit PageHeaderCustom">
+			<!--[if IE 6]>
+<script src="../../../../../RNA/RNA_NewYorkComicCon/2009_scripts/DD_belatedPNG_0.0.8a.js"></script>
+<script>
+  DD_belatedPNG.fix('#Footer');
+</script>
+<![endif]--> 
+<div id="top_container">
+  <div id="top">
+    <div id="network_links"> <a href="http://www.newyorkanimefestival.com"><strong>NYAF</strong></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="../../../../../" target="_blank"><strong>NYCC</strong></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.chicagocomicandentertainmentexpo.com" target="_blank"><strong>C2E2</strong></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.bookexpoamerica.com/" target="_blank"><strong>BEA</strong></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.mediumatlarge.net" target="_blank"><strong>BLOG</strong></a></div>
+    <div id="days_left"><script type="text/javascript">
+		/* <![CDATA[ */
+		TargetDate = "10/8/2010 1:00 PM";
+		BackColor = "transparent";
+		ForeColor = "#FFF";
+		CountActive = true;
+		CountStepper = -1;
+		LeadingZero = true;
+		DisplayFormat = "%%D%% Days, %%H%% Hours, %%M%% Minutes, %%S%% Seconds To Go";
+		FinishMessage = "It is finally here!";
+		/* ]]> */
+	</script><script src="http://scripts.hashemian.com/js/countdown.js" type="text/javascript"></script>
+    </div><span class="clear"></span></div>
+  <div id="banner"><script src="../../../../../RNA/RNA_NewYorkComicCon/2009_scripts/banners2.js" type="text/javascript"></script></div>
+  <div id="ad_container" style="font-size:0px;">
+    <div id="buy_tickets"><a href="/en/Tickets/" target="_self"><img src="../../../../../RNA/RNA_NewYorkComicCon/2009_images/buy_tickets.png" alt="Buy Your Tickets for NYAF" width="232" height="90" border="0"></a></div>
+    <div id="adspot1"><!-- begin ad tag--><script language="JavaScript" src="http://ad.doubleclick.net/adj/comic.rx/;sz=728x90;ord=[timestamp]?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/comic.rx/;sz=728x90;ord=[timestamp]?" target="_blank"><img src="http://ad.doubleclick.net/ad/comic.rx/;sz=728x90;ord=[timestamp]?" width="728" height="90" border="0" alt="" /></a></noscript><!-- End ad tag --></div>
+  <span class="clear"></span></div>
+</div>
 
-							
-							</div>
+		</div>
 
-							
-							
-							</td>
-						</tr>
-						
-					</tbody></table>
 
-					
-					
-
-				</td>
-
-				<!-- /Include Center -->
-				
-								<td valign="top" width="30%">
-							
-									<table>
-								
-				<tbody><tr>
-					<td>
-						
-			<table class="infobar" cellspacing="0">
+	</div>
+            
+            
+            <div id="HeaderBottomBar">
+                <div class="fc unit SiteStrapLine">
+		
+<div id="EventLocation">
+    <span id="ctl00_SiteStapLineControl_SiteStrapLineLabel"></span>
+    
+</div>
+	</div>
+                <div class="fc unit Search">
+		
+<div id="SearchForm">
+    <div id="ctl00_SearchControl_SearchFormPanel">
 			
-			
-			
-			
-			<tbody><tr>
-				<td class="infobarCustom" width="2%">&nbsp;</td>
-				<td class="infobarCustom" width="98%"><script language="javascript" src="http://www.mapyourshow.com/includes/floorplan.js"></script>
-<div style="text-align:center; padding:5px 0; width:175px;">
-  <p style="margin-top:0px;"><a href="http://www.reedexpo.com" target="_blank"><img src="http://www.nycomiccon.com/images/100453/2008_NEWGraphics/reed_logo.gif" alt="Reed Exhibitions" width="112" height="35" vspace="1" border="0"></a></p>
-  <p style="margin-top:0px;"><a onclick=" OpenMapYourShowMax(this.href,this.target);return false" target="floorplan" href="http://www.mapyourshow.com/shows/index.cfm?Show_ID=NYCC09"></a><a onclick=" OpenMapYourShowMax(this.href,this.target);return false" target="floorplan" href="http://www.mapyourshow.com/shows/index.cfm?Show_ID=NYCC09"><img src="http://www.nycomiccon.com/images/100453/2009_Graphics/MYS_ICON_FINALV2.gif" alt="MYS" width="155" height="125" border="0"></a></p>
+        <input name="ctl00$SearchControl$_txtSearch" type="text" id="ctl00_SearchControl__txtSearch" class="value-replace" value="Search the site...">
+        <input type="submit" name="ctl00$SearchControl$_btnSearch" value="Search" id="ctl00_SearchControl__btnSearch" title="Search the site" class="SearchButton">
+    
+		</div>
+</div>
+	</div>
+                <div class="fc unit ExtendedHeader">
+		
+
+<div id="ExtendedHeaderLinks">
+    
+</div>
+	</div>
+            </div>
+        </div>
+        
+        
+    <div id="LeftNavigation">
+        <div class="fc unit LeftNavigation">
+		
+        <div id="left">
+            
+                    <ul id="Level1">
+                
+                    <li class=" navTreeItem-LordofTheRings">
+                       <a href="/en/Lord-of-The-Rings/">Lord of The Rings</a>
+                    </li>
+                
+                    <li class=" navTreeItem-Overview">
+                       <a href="/en/Overview/">Overview</a>
+                    </li>
+                
+                    <li class=" navTreeItem-Guests">
+                       <a href="/en/Guests/">Guests</a>
+                    </li>
+                
+                    <li class=" navTreeItem-Events">
+                       <a href="/en/Events/">Events</a>
+                    </li>
+                
+                    <li class=" navTreeItem-Tickets">
+                       <a href="/en/Tickets/">Tickets</a>
+                    </li>
+                
+                    <li class=" navTreeItem-Exhibitors">
+                       <a href="/en/Exhibitors/">Exhibitors</a>
+                    </li>
+                
+                    <li class=" navTreeItem-ArtistAlley">
+                       <a href="/en/Artist-Alley/">Artist Alley</a>
+                    </li>
+                
+                    <li class=" navTreeItem-Autographs">
+                       <a href="/en/Autographs/">Autographs</a>
+                    </li>
+                
+                    <li class=" navTreeItem-ShowStore">
+                       <a href="/en/Show-Store/">Show Store</a>
+                    </li>
+                
+                    <li class=" navTreeItem-HotelsTravel">
+                       <a href="/en/Hotels--Travel/">Hotels &amp; Travel</a>
+                    </li>
+                
+                    <li class=" navTreeItem-Professionals">
+                       <a href="/en/Professionals/">Professionals</a>
+                    </li>
+                
+                    <li class=" navTreeItem-Press">
+                       <a href="/en/Press/">Press</a>
+                    </li>
+                
+                    <li class=" navTreeItem-Interact">
+                       <a href="/en/Interact/">Interact</a>
+                    </li>
+                
+                    <li class=" navTreeItem-Sponsors">
+                       <a href="/en/Sponsors/">Sponsors</a>
+                    </li>
+                
+                        </ul>
+                    
+                
+        </div> 
+<br>
+	</div>
+        <div style="position: relative;">
+            
+<div class="cb fc JSBlock">
+<div class="jsBlock">
+    <div id="below_nav">
+  <p>&nbsp;</p>
   <p>
     <!-- begin ad tag-->
-    <script src="http://ad.doubleclick.net/adj/comic.rx/;sz=120x600;ord=[timestamp]?" type="text/javascript"></script>
-    <noscript>
-    <a href="http://ad.doubleclick.net/jump/comic.rx/;sz=120x600;ord=[timestamp]?" target="_blank"><img src="http://ad.doubleclick.net/ad/comic.rx/;sz=120x600;ord=[timestamp]?" alt="" width="120" height="600" vspace="5" border="0" /></a>
+    <script language="JavaScript" src="http://ad.doubleclick.net/adj/comic.rx/;kw=pos5;sz=200x150;ord=[timestamp]?" type="text/javascript"></script>
+    </p><noscript>
+    <a href="http://ad.doubleclick.net/jump/comic.rx/;kw=pos5;sz=200x150;ord=[timestamp]?" target="_blank"><img src="http://ad.doubleclick.net/ad/comic.rx/;kw=pos5;sz=200x150;ord=[timestamp]?" width="200" height="150" border="0" alt="" /></a>
     </noscript>
     <!-- End ad tag -->
+  
+</div>
+
+</div>
+</div>
+        </div>
+    </div>
+    <div id="ContentContainer" class="MainPage2Column ContainerWithLeftNav">
+        <div id="Content">
+            <a name="ContentPrimary"></a>
+            <div id="ContentPrimary">
+                <div id="ctl00_MainContentPlaceHolder_Column1Container" class="Column1WithLeftNav">
+		
+                    <div style="position: relative;">
+                        
+<div class="cb fc BodyContent">
+<div class="bodyContent">
+    
+        
+    <div class="bodyContentMainBody">
+        <div>  <h1>Privacy Policy</h1>
+  <p>The effective date of this policy as posted is March 22, 2004.</p>
+  <p>Reed Exhibitions and New York Comic-Con respect the information provided by our customers. Because we gather certain types of information when our customers communicate with us, we believe you should fully understand the terms and conditions surrounding the information we capture and the use of that information. This privacy statement discloses the type of information we capture about our customers, how we use it to communicate with our customers, and how you can request to no longer receive communications from New York Comic-Con.</p>
+  <h2>US Policy</h2>
+  <p> New York Comic-Con is produced and managed by Reed Exhibitions United States (Reed-US), a division of Reed Elsevier, Inc. This privacy policy applies to all Reed-US offices and conforms to the spirit of the Reed Exhibitions Corporate Privacy Policy, which can be found at <a href="http://www.reedexpo.com/" target="_blank">www.reedexpo.com</a>.</p>
+  <h2>Our Customers</h2>
+  <p> This policy applies to all customers of&nbsp; New York Comic-Con and Reed-US, who include but are not limited to, our show exhibitors, show visitors, conference visitors, customer inquiries, speakers, press, and other individuals with whom Reed-US maintains business relationships or communications.</p>
+  <h2>Customer Information and Use</h2>
+  <p> Two primary types of information are gathered about our customers:</p>
+  <p>Financial Information is payment information used for or gathered during the registration process and includes, but is not limited to, credit card numbers, financial institutions, and expiration dates. This information is not used for any purpose other than that for which it is being provided to us, and is used only to the extent necessary for processing the transaction or to facilitate future transactions.</p>
+  <p>Professional Information includes, but is not limited to, name, address, company name, company address, phone number, fax number, and email address, as well as questions answered on survey or registration forms. Data captured during a customer’s visit to the New York Comic-Con web site, as well as during a visit with a New York Comic-Con customer is also considered professional information and may also be stored in our customer database for our internal use. Professional information may be, upon the consent of&nbsp; New York Comic-Con, shared with other organizations or New York Comic-Con customers for the purpose of facilitating business relationships believed by Reed-US to be in our customers’ best interests.</p>
+  <h2>Opting Out</h2>
+  <p> Reed-US will accept, implement and maintain any customer request to opt out of future communication from New York Comic-Con, Reed-US, or a third party to whom New York Comic-Con provided the customer’s information. If you would like to opt out of communications you are receiving from New York Comic-Con, Reed-US, or a third party contacting you on behalf of New York Comic-Con, please visit the&nbsp;<a href="http://www.recusprivacy.com/" target="_blank">privacy website</a>&nbsp;and enter the information requested so we may thoroughly implement your request within 10 days of receipt.</p>
+  <h2>Security</h2>
+  <p> This site utilizes a secure server to protect your financial and professional information. Secure server software is used to encrypt the information sent between your Internet browser and our Internet site. This ensures the security of your professional and financial transaction details when using the site. We follow strict security procedures in the storage and disclosure of information you have given to us and may, on occasion, request proof of identity before we disclose any professional information to you.</p>
+  <h3>Method of Transaction Security</h3>
+  <p> Products of New York Comic Con use Secure Sockets Layer (SSL) protocol to safeguard customer information during online transactions. SSL encryption is the generally accepted method of transaction security in online ordering.<br>
   </p>
-  <p style="margin:0;"> </p>
+  <h3>Cookies</h3>
+  <p> A "cookie" is a bit of data sent by a website through the browser to the computer of the user visiting the site, and enables the site to return the results the browser expects. The New York Comic-Con website uses temporary, session-specific cookies to ensure visits to its websites are smooth and customized for the visitor. Such cookies allow us to provide a visitor's browser with information tailored to the visitor's preferences and needs. We use permanent or persistent cookies that remain on a visitor's computer after the visitor leaves the New York Comic-Con website. However, our cookies neither reveal nor contain any identifying or personal data. Cookies also cannot read any information on a visitor's computer or interact with other cookies on the visitor's hard drive.</p>
+  <p>If you do not want your browser to accept cookies, you can turn off the cookie acceptance option in the browser's settings. However, disabling the cookie support function of the browser will prevent our website from functioning properly and you may not be able to utilize fully all of the site's features and information.</p>
+  <h2>Policy Changes</h2>
+  <p> Reed-US reserves the right to review and change this Policy. Policy changes may be made without prior notice to existing customers. Policy revisions only apply to information gathered as of the effective date of the revised policy, unless we give you notice and choice as to the changes in use, in which case all information is subject to the new policy.</p>
+  <h2>Review and Correction of Customer Information or Other Questions</h2>
+  <p> If you have any questions or concerns about your customer information or your request to opt-out of communications from New York Comic-Con or its third party partners, or if you would like to review the information we’ve collected about you, please call or write our Privacy Administrator:</p>
+  <p>Reed Exhibitions<br>
+    US Privacy Administrator/Database Dept<br>
+    383 Main Ave.<br>
+    Norwalk, CT 06851</p>
+  <table border="0" cellpadding="0" cellspacing="0" class="pad5">
+    <tbody><tr>
+      <td>Phone:</td>
+      <td>Within the US at 888-306-2344<br>
+        Outside the US at 203-840-5810</td>
+    </tr>
+    <tr>
+      <td>Email:</td>
+      <td><a href="mailto:privacy@reedexpo.com">privacy@reedexpo.co</a></td>
+    </tr>
+  </tbody></table>
+</div>
+    </div>
+</div>
+</div>
+                    </div>
+                
+	</div>
+                <div id="Column2">
+<div class="cb fc JSBlock">
+<div class="jsBlock">
+    <p><a href="http://www.reedexpo.com"><img src="../../../../../RNA/RNA_UFC/Images/produced_by_reedexpo.gif" alt="Reed Exhibitions" width="112" height="34"></a><br>
+</p>
+<p class="clear" style="margin-top:5px;">
   <!-- begin ad tag-->
-  <script src="http://ad.doubleclick.net/adj/comic.rx/;kw=POS1;sz=120x300;ord=[timestamp]?" type="text/javascript"></script>
-  <noscript>
-  <a href="http://ad.doubleclick.net/jump/comic.rx/;kw=POS1;sz=120x300;ord=[timestamp]?" target="_blank"><img src="http://ad.doubleclick.net/ad/comic.rx/;kw=POS1;sz=120x300;ord=[timestamp]?" width="120" height="300" border="0" alt="" /></a>
+  <script language="JavaScript" src="http://ad.doubleclick.net/adj/comic.rx/;kw=pos1;sz=200x150;ord=[timestamp]?" type="text/javascript"></script>
+  </p><noscript>
+  <a href="http://ad.doubleclick.net/jump/comic.rx/;kw=pos1;sz=200x150;ord=[timestamp]?" target="_blank"><img src="http://ad.doubleclick.net/ad/comic.rx/;kw=pos1;sz=200x150;ord=[timestamp]?" width="200" height="150" border="0" alt="" /></a>
   </noscript>
   <!-- End ad tag -->
-</div></td>
-			</tr>
-			</tbody></table>
+  <br>
+
+<p>
+  <!-- begin ad tag-->
+  <script language="JavaScript" src="http://ad.doubleclick.net/adj/comic.rx/;kw=pos2;sz=200x150;ord=[timestamp]?" type="text/javascript"></script>
+  </p><noscript>
+  <a href="http://ad.doubleclick.net/jump/comic.rx/;kw=pos2;sz=200x150;ord=[timestamp]?" target="_blank"><img src="http://ad.doubleclick.net/ad/comic.rx/;kw=pos2;sz=200x150;ord=[timestamp]?" width="200" height="150" border="0" alt="" /></a>
+  </noscript>
+  <!-- End ad tag -->
+  <br>
+
+<p>
+  <!-- begin ad tag-->
+  <script language="JavaScript" src="http://ad.doubleclick.net/adj/comic.rx/;kw=pos3;sz=200x150;ord=[timestamp]?" type="text/javascript"></script>
+  </p><noscript>
+  <a href="http://ad.doubleclick.net/jump/comic.rx/;kw=pos3;sz=200x150;ord=[timestamp]?" target="_blank"><img src="http://ad.doubleclick.net/ad/comic.rx/;kw=pos3;sz=200x150;ord=[timestamp]?" width="200" height="150" border="0" alt="" /></a>
+  </noscript>
+  <!-- End ad tag -->
+  <br>
+
+<p>
+  <!-- begin ad tag-->
+  <script language="JavaScript" src="http://ad.doubleclick.net/adj/comic.rx/;kw=pos4;sz=200x150;ord=[timestamp]?" type="text/javascript"></script>
+  </p><noscript>
+  <a href="http://ad.doubleclick.net/jump/comic.rx/;kw=pos4;sz=200x150;ord=[timestamp]?" target="_blank"><img src="http://ad.doubleclick.net/ad/comic.rx/;kw=pos4;sz=200x150;ord=[timestamp]?" width="200" height="150" border="0" alt="" /></a>
+  </noscript>
+  <!-- End ad tag -->
+  <br>
+
+
+</div>
+</div></div>
+            </div>
+        </div>
+    </div>
+
+        <div class="fc unit SponsorshipFooterLinks">
 		
-					</td>
-				</tr>
-				
-			<tr>
-				<td>
-					
-					
-				</td>
-			</tr>
-			
-			<tr>
-				<td>
-					
-					
-				</td>
-			</tr>
-			
-			<tr>
-				<td>
-					
-					
-				</td>
-			</tr>
-				
+<div id="SponsorshipFooterLinks">
+    <h3></h3>
+    
+    <div class="clear"></div>
+</div>
+	</div>
+        <div class="fc unit ExtendedFooter">
 		
-	
-								</tbody></table>
-							</td>
-						
-			</tr>
+
+<div id="ExFoot1">
+    <div class="fc unit ExtendedFooterLinks">
 			
-		</tbody></table>
-	
-	<!-- /link content -->
-	
-	
 
-							</td>
-						</tr>
-					</tbody></table>
-				</td>
-			</tr>
-
+<div class="ExtendedFooterLinks">
+    <h2></h2>
+    
+</div>
+		</div>
+</div>
+<div id="ExFoot2">
+    <div class="fc unit ExtendedFooterLinks">
 			
+
+<div class="ExtendedFooterLinks">
+    <h2></h2>
+    
+</div>
+		</div>
+</div>
+<div id="ExFoot3">
+    <div class="fc unit ExtendedFooterLinks">
 			
-						<tr>
-							<td bgcolor="">
-								
-	
 
-	
+<div class="ExtendedFooterLinks">
+    <h2></h2>
+    
+</div>
+		</div>
+</div>
+<div class="fc unit SponsorshipBlock">
+			
+<div class="SponsorshipImageBlock">
+ 
+</div>
 
-	<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td width="60" align="left" valign="top" class="footer" style="padding-top:5px"> </td>
-    <td align="left" valign="top" class="footer" style="padding-top:5px"><div align="center"><a href="http://www.nycomiccon.com/app/homepage.cfm?appname=100453&amp;moduleID=2570&amp;LinkID=17916" class="footer">Sitemap</a> | <a href="http://www.nycomiccon.com/app/homepage.cfm?appname=100453&amp;moduleID=2570&amp;LinkID=17915" class="footer">Privacy Policy</a> | <a href="http://www.reedexpo.com/" target="_blank" class="footer">Reed Exhibitions</a> | <a href="http://www.reed-elsevier.com/" target="_blank" class="footer">Reed Elsevier</a> | <a href="http://www.nycomiccon.com/app/homepage.cfm?moduleid=2592&amp;appname=100453" class="footer">Contact Us</a><br>
-        <br>
-    </div> </td>
-  </tr>
-  <tr>
-    <td width="60" align="left" valign="top" class="footer" style="padding-top:5px"> </td>
-    <td align="left" valign="top" class="footer" style="padding-top:5px"><div align="center">New York Comic Con is not affiliated with any other comic convention event having Comic Con in its name.</div></td>
-  </tr>
-</tbody></table> 
-	
+		</div>
 
-	
+<div class="clear"></div>
 
-	
-							</td>
-						</tr>
-					
-		</tbody></table>
+	</div>
+        <div class="fc unit PageFooter">
 		
-		
-				
+
+<div id="Footer">
+    
+    <div class="fc unit PageFooterCustom">
+			<div id="copyright"><a href="../../../../../en/Copyright-Statement/">Copyright © 2009 New York Comic Con  All Rights Reserved.</a></div>
+<div id="bottom_links"><a href="../../../../../en/Contact/">Contact</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="../../../../../en/Sitemap/">Sitemap</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="../../../../../en/Privacy-Policy/">Privacy Policy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.reedexpo.com/" target="_blank">Reed Exhibitions</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.reedelsevier.com/" target="_blank">Reed Elsevier</a></div>
+<div class="clear"></div>
+
+		</div>
+</div>
 
 
 
+	</div>        
+    </div>
+    </form>
+    
+    <!-- Global Scripts -->
+    <script src="/Scripts/Core.js" type="text/javascript"></script>
+    <script src="/Scripts/Libraries/swfobject.js" type="text/javascript"></script>
+    <!-- END: Global Scripts -->
+    
+    
+    <script type="text/javascript">
+        jQuery(document).ready(function() {
+            // do stuff when DOM is ready
+            
+        });
+    </script>
+    
+    
+    
 
-<!-- RXWEB02
--->
 
-</a></body></html>
+</body></html>
