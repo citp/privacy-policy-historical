@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doctorswithoutborders.org privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629030851id_/http%3A//www.doctorswithoutborders.org/privacy.cfm%3Fref%3Dnav-footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doctorswithoutborders.org privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101152116id_/http%3A//doctorswithoutborders.org/privacy.cfm%3Fref%3Dnav-footer) for the most accurate reproduction.*
 
 # Doctors Without Borders | Privacy Policy
 
