@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inlovewithfashion.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625191315id_/http%3A//www.inlovewithfashion.com/index.php%3Ftarget%3Dpages%26page_id%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inlovewithfashion.com privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101072429id_/http%3A//www.inlovewithfashion.com/index.php%3Ftarget%3Dpages%26page_id%3Dprivacy_policy) for the most accurate reproduction.*
 
-# In Love With Fashion - Privacy Policy
+# In Love With Fashion - Women's Clothing Store, Online Fashion, Just As Found In Topshop. Our Privary Policy.
 
 **Our Commitment To Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage.
