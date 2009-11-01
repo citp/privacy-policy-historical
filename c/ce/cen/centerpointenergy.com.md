@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centerpointenergy.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623181440id_/http%3A//www.centerpointenergy.com/about/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centerpointenergy.com privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101091252id_/http%3A//www.centerpointenergy.com/about/legal/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
