@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turnermotorsport.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628132939id_/http%3A//www.turnermotorsport.com/html/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turnermotorsport.com privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102135245id_/http%3A//www.turnermotorsport.com/html/privacy.shtml) for the most accurate reproduction.*
 
 # Turner Motorsport: Privacy Policy
 
