@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the merkleinc.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419160105id_/http%3A//www.merkleinc.com/wmspage.cfm%3Fparm1%3D284) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merkleinc.com privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102170720id_/http%3A//www.merkleinc.com/wmspage.cfm%3Fparm1%3D284) for the most accurate reproduction.*
 
 # Merkle | Privacy Policy
 
