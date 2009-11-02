@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachershealth.com.au privacy policy that was archived on 2009-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090327104611id_/http%3A//www.teachershealth.com.au/Default.aspx%3Ftabid%3D103) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachershealth.com.au privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102154201id_/http%3A//www.teachershealth.com.au/Default.aspx%3Ftabid%3D103) for the most accurate reproduction.*
 
 # Privacy
 
