@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ssm-einfo.my privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502211805id_/http%3A//www.ssm-einfo.my/page.php%3Fac%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ssm-einfo.my privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102170642id_/http%3A//www.ssm-einfo.my/page.php%3Fac%3D10) for the most accurate reproduction.*
 
-# e-Info Ver 2 - Home (Best viewed with IE7 & Mozilla Firefox)
+# e-Info Ver 2.7 - Home (Best viewed with IE7 & Mozilla Firefox)
 
 Thank you for using SSM e-Info Services. 
 
