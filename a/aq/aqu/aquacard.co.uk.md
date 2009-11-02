@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the aquacard.co.uk privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619203615id_/http%3A//www.aquacard.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aquacard.co.uk privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102073140id_/http%3A//www.aquacard.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy policy
 
 ### Why we need your information and where we obtain it
 
-Our main use of your personal information is to look after your account or to provide the specific service you require. Some details we obtain elsewhere – from credit reference agencies or your employer for instance. If you apply to us for insurance, we will pass your details to the insurer.
+The aqua card is underwritten and managed by SAV Credit Limited, and the card is issued and administered by Bank of Scotland, which is part of Lloyds Banking Group plc. Our main use of your personal information is to look after your account or to provide the specific service you require. Some details we obtain elsewhere – from credit reference agencies or your employer for instance. If you apply to us for insurance, we will pass your details to the insurer.
 
 If you make a claim, any information you give to us, or to the insurer, may be put onto a register of claims and shared with other insurers to prevent fraudulent claims. A list of the participants is available from the insurer. We may also disclose your information to our agents and other insurers to investigate or prevent fraud.
 
