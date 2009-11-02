@@ -1,1179 +1,824 @@
-<!--The following is the downloaded HTML source of the eircom.net privacy policy that was archived on 2009-04-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090426142157id_/http%3A//www.eircom.net/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eircom.net privacy policy that was archived on 2009-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091102064546id_/http%3A//www.eircom.ie/privacystatement) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<html><head><script language="JavaScript">
+//==================================================================
+//Function	: getBrowserCompatibility
+//
+//Description	: Retrieves the compatibility version number
+//
+//Parameters	: 
+//
+//Returns	: version number
+//
+//==================================================================
+function getBrowserCompatibility() {
+	var compatibilityVersion = parseInt(navigator.appVersion);
+return compatibilityVersion;
+}
 
+//==================================================================
+//Function	: getBrowserName
+//
+//Description	: Retrieves the browser name
+//
+//Parameters	: 
+//
+//Returns	: browser name
+//
+//==================================================================
+function getBrowserName() {
+	var browsername = navigator.appName;
+return browsername;
+}
 
+//==================================================================
+//Function	: getBrowserVersionMajor
+//
+//Description	: gets the browser major version number
+//
+//Parameters	: 
+//
+//Returns	: major version
+//
+//==================================================================
+function getBrowserVersionMajor() {
+	var browser = getBrowserName();
+	var browserVersion = navigator.appVersion;
+	if (browser == "Microsoft Internet Explorer") {
+		string = browserVersion.match(/MSIE\s\d+.\d+/g).join();
+		string = string.match(/\d+/g);
+		string = string[0];
+	}
+	else
+	{
+		string = browserVersion.match(/\d+.\d+/g).join();
+		string = string.match(/\d+/g);
+		string = string[0];
+	}
+browserVersionMajor = string;
+return browserVersionMajor;
+}
 
+//==================================================================
+//Function	: getBrowserVersionMinor
+//
+//Description	: gets the browser minor version number
+//
+//Parameters	: 
+//
+//Returns	: minor version
+//
+//==================================================================
 
+function getBrowserVersionMinor() {
+	var browser = getBrowserName();
+	var browserVersion = navigator.appVersion;
+	if (browser == "Microsoft Internet Explorer") {
+		string = browserVersion.match(/MSIE\s\d+.\d+/g).join();
+		string = string.match(/\.\d+/g).join();
+	}
+	else
+	{
+		string = browserVersion.match(/\d+.\d+/g).join();
+		string = string.match(/\.\d+/g).join();
+	}
+browserVersionMinor = string;
+return browserVersionMinor;
+}
 
+//==================================================================
+//Function	: getBrowserVersionFull
+//
+//Description	: gets the browser full version number
+//
+//Parameters	: 
+//
+//Returns	: full version number
+//
+//==================================================================
 
-
-<!-- BEGIN htmlOpeningAndMetaContent global pageFrame tag at  <!DOC...  above (there should be no html content above the declaration otherwise some browsers will fail to render correctly!) -->
-<!-- channel:  | section:  | subSection:  | provider:  | secureUrls:  -->
-
-
-
-
-
-	<!-- BEGIN global meta tags -->
-	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-	<meta name="author" content="eircom net">
-	<meta name="doc-type" content="public">
-	<meta name="robots" content="all">
-	<meta name="rating" content="general">
-
-	<meta name="DC.Creator" content="eircom net">
-	<meta name="DC.Coverage" content="Ireland">
-	<meta name="DC.Format" content="text/xhtml">
-	<meta name="DC.Language" content="en">
-	<meta name="DC.Copyright" content="http://www.eircom.net/about/legal/">
-	<meta name="DC.Rights" content="http://www.eircom.net/about/legal/">
-	<link rel="copyright" href="http://www.eircom.net/about/legal/">
-
-	<meta http-equiv="imagetoolbar" content="no">
-	<meta name="MSSmartTagsPreventParsing" content="true">
-
-	<link rel="top" title="eircom net homepage" href="http://www.eircom.net">
-	<link rel="section" title="News" href="http://news.eircom.net">
-	<link rel="section" title="Sport" href="http://sports.eircom.net">
-	<link rel="section" title="Entertainment" href="http://entertainment.eircom.net">
-	<link rel="section" title="Lifestyle" href="http://lifestyle.eircom.net">
-	<link rel="search" title="Search" href="http://news.eircom.net/googlesearch/advancedsearch/index.jsp">
-
-	<link rel="shortcut icon" type="image/vnd.microsoft.icon" href="http://siteassets.eircom.net/assets/static/images/global/icons/favicon.ico">
-	<!-- END global meta tags -->
-
-	<!-- BEGIN global JS and CSS -->
-	<script type="text/javascript" src="http://siteassets.eircom.net/assets/static/js/global/frameworks/jquery/jquery.min.js"></script>
-	<script type="text/javascript" src="http://siteassets.eircom.net/assets/static/js/global/frameworks/jquery/plugins/jquery.bgiframe.min.js"></script>
-	<script type="text/javascript" src="http://siteassets.eircom.net/assets/static/js/global/frameworks/jquery/ui/ui.core.min.js"></script>
-	<script type="text/javascript" src="http://siteassets.eircom.net/assets/static/js/global/frameworks/jquery/ui/ui.tabs.min.js"></script>
-
-	<script type="text/javascript" src="http://siteassets.eircom.net/assets/static/js/global/libraries/jquery/plugins/jquery.tooltip.js"></script>
-	<script type="text/javascript" src="http://siteassets.eircom.net/assets/static/js/global/libraries/jquery/plugins/lightbox/jlightbox.js"></script>
-
-	<script type="text/javascript" src="http://siteassets.eircom.net/assets/static/js/global/commonEventHandlers.js"></script>
-	<script type="text/javascript" src="http://siteassets.eircom.net/assets/static/js/global/usefulFunctions.js"></script>
-	<script type="text/javascript" src="http://siteassets.eircom.net/assets/static/js/global/tracking.js"></script>
-	
-	<!-- STYLESHEETS NOTE: Global css is not defined here, instead it is imported at the top of each channel-specific css file (eg assets/static/css/news/default.css) which should be placed after htmlOpeningAndMetaContent.jsp -->
-	<link rel="stylesheet" type="text/css" media="print" href="http://siteassets.eircom.net/assets/static/css/global/default/print.css">
-	<!-- END global JS and CSS -->
-
-<!-- END htmlOpeningAndMetaContent global pageFrame tag -->
-
-
-	<!-- BEGIN page-specific JS and CSS -->
-	<style type="text/css" media="all">
-		@import url(http://siteassets.eircom.net/assets/static/css/about/default.css);
-	</style>
-	<!-- END page-specific JS and CSS -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-	<title>Privacy Policy • eircom net</title>
-	<meta name="DC.Title" content="Privacy Policy • eircom net">
-	<meta name="description" content="About eircom - Privacy">
-	<meta name="keywords" content="eircom, privacy, legal">
-	<meta name="DC.Subject" content="about">
-</head>
-<body>
-
-
-
-	<!-- BEGIN ad code -->
-	<script type="text/javascript">
-		try{
-			var adVar_site = "eircom";
-			var adVar_area = "SiteInfo";
-			
-			// Cache-busting and pageid value
-			var adVar_random = Math.round(Math.random() * 10000000000);
-			if (!adVar_pageId) var adVar_pageId = adVar_random;
-			
-			// Adserver URL
-			
-			var adVar_adServer = ((window.location.protocol.indexOf('http') > -1) ? window.location.protocol : 'http:'); //handle local files
-				
-			adVar_adServer += "//ads.eircom.net/bserver";
-
-	
-			// Ad tag targeting values which will be appended to each ad request section in the bserver ad call
-			var adVar_allAdTags = "/AAMALL/acc_random=" + adVar_random + "/pageid=" + adVar_pageId;
-			
-			// Define individual ad parameters
-			
-			var AAMB1 = "";
-			var adVar_ad1 = "/AAMB1/site=" + adVar_site + "/area=" + adVar_area + "/aamsz=728x90/pos=1/acc_random=" + adVar_random + "/pageid=" + adVar_pageId; //adContent
-			var AAMB2 = "";
-			var adVar_ad2 = "/AAMB2/site=" + adVar_site + "/area=" + adVar_area + "/aamsz=300x250/pos=2/acc_random=" + adVar_random + "/pageid=" + adVar_pageId; //adContent
-			var AAMB5 = "";
-			var adVar_ad3 = "/AAMB5/site=" + adVar_site + "/area=" + adVar_area + "/aamsz=200x50/pos=5/acc_random=" + adVar_random + "/pageid=" + adVar_pageId; //adContent
-			var AAMB6 = "";
-			var adVar_ad4 = "/AAMB6/site=" + adVar_site + "/area=" + adVar_area + "/aamsz=200x50/pos=6/acc_random=" + adVar_random + "/pageid=" + adVar_pageId; //adContent
-			var AAMB7 = "";
-			var adVar_ad5 = "/AAMB7/site=" + adVar_site + "/area=" + adVar_area + "/aamsz=200x50/pos=7/acc_random=" + adVar_random + "/pageid=" + adVar_pageId; //adContent
-
-			
-			// Generate bserver request URL
-			var adVar_bserverCallUrl = adVar_adServer + adVar_allAdTags + adVar_ad1 + adVar_ad2 + adVar_ad3 + adVar_ad4 + adVar_ad5 
-			
-			document.writeln('<scr' + 'ipt src="' + adVar_bserverCallUrl + '?" type="text/javascr' + 'ipt">');
-			document.writeln('</scr' + 'ipt>');
-		} catch(e){
-			var adError = e; //use this to find out what went wrong - javascript:alert(adError);
-		}
-	</script><script src="https://ads.eircom.net/bserver/AAMALL/acc_random=7009888964/pageid=7009888964/AAMB1/site=eircom/area=SiteInfo/aamsz=728x90/pos=1/acc_random=7009888964/pageid=7009888964/AAMB2/site=eircom/area=SiteInfo/aamsz=300x250/pos=2/acc_random=7009888964/pageid=7009888964/AAMB5/site=eircom/area=SiteInfo/aamsz=200x50/pos=5/acc_random=7009888964/pageid=7009888964/AAMB6/site=eircom/area=SiteInfo/aamsz=200x50/pos=6/acc_random=7009888964/pageid=7009888964/AAMB7/site=eircom/area=SiteInfo/aamsz=200x50/pos=7/acc_random=7009888964/pageid=7009888964?" type="text/javascript">
+function getBrowserVersionFull() {
+	var browser = getBrowserName();
+	var browserVersion = navigator.appVersion;
+	if (browser == "Microsoft Internet Explorer") {
+		string = browserVersion.match(/MSIE\s\d+.\d+/g).join();
+		string = string.match(/\d+\.\d+/g).join();
+	}
+	else
+	{
+		string = browserVersion.match(/\d+.\d+/g).join();
+	}
+browserVersionMinor = string;
+return browserVersionMinor;
+}
 </script>
 
-	<!-- END ad code -->
 
 
-
-
-
-
-
-
-
-
-
-
-<!-- BEGIN topContent pageFrame tag -->
-<!-- channel:  | section:  | subSection:  | provider:  | secureUrls:  -->
-
-
-
-
-	<div id="wrapper" class="clearfix"><!-- BEGIN #wrapper -->
-
-		<div id="header" class="clearfix"><!-- BEGIN #header -->
-			<div id="logo">
-				<a href="http://www.eircom.net" title="Click here to go to the eircom net homepage"><img src="http://siteassets.eircom.net/assets/static/images/global/logos/eircom/eircom.net-2colour.png" alt="eircom.net"></a>
-			</div>
-			<div id="accessibility">
-				<p><a href="#nav">Jump to Navigation</a> | <a href="#content">Jump to Content</a></p>
-			</div>
-			<div id="leaderboard-ad" class="ad leaderboard"><!-- BEGIN #leaderboard-ad -->
-				<script type="text/javascript">document.writeln(AAMB1);</script>
-
-			</div><!-- END #leaderboard-ad -->
-
-<!-- BEGIN header.tag -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-			<div id="nav" class="clearfix"><!-- BEGIN #nav -->
-				<ul>
-				
-					
-					
-					
-					
-					<li class="nv1"><a href="http://news.eircom.net">News</a>
-						
-							<ul>
-							
-							
-							<li><a href="http://news.eircom.net/breakingnews">Breaking News</a></li>
-							
-						
-							
-							
-							
-							<li><a href="http://news.eircom.net/topstories">Top Stories</a></li>
-							
-						
-							
-							
-							
-							<li><a href="http://news.eircom.net/national">National News</a></li>
-							
-						
-							
-							
-							
-							<li><a href="http://news.eircom.net/international">International News</a></li>
-							
-						
-							
-							
-							
-							<li><a href="http://news.eircom.net/business">Business News</a></li>
-							</ul>
-						
-					</li>
-				
-					
-					
-					
-					
-					<li class="nv2"><a href="http://sports.eircom.net">Sport</a>
-						
-							<ul>
-							
-							
-							<li><a href="http://sports.eircom.net/breakingnews/">Breaking News</a></li>
-							
-						
-							
-							
-							
-							<li><a href="http://soccerrepublic.eircom.net">Soccer Republic</a></li>
-							
-						
-							
-							
-							
-							<li><a href="http://sports.eircom.net/irishhighlights">Irish Highlights</a></li>
-							
-						
-							
-							
-							
-							<li><a href="http://sports.eircom.net/rugby/">Rugby</a></li>
-							
-						
-							
-							
-							
-							<li><a href="http://sports.eircom.net/soccer">Soccer</a></li>
-							
-						
-							
-							
-							
-							<li><a href="http://sports.eircom.net/setanta/">Setanta</a></li>
-							</ul>
-						
-					</li>
-				
-					
-					
-					
-					
-					<li class="nv3"><a href="http://entertainment.eircom.net/">Entertainment</a>
-						
-							<ul>
-							
-							
-							<li><a href="http://entertainment.eircom.net/music/">Music</a></li>
-							
-						
-							
-							
-							
-							<li><a href="http://entertainment.eircom.net/watchOnline">Watch Online</a></li>
-							
-						
-							
-							
-							
-							<li><a href="http://www.screenclick.com/1/eircom/">Rent DVDs</a></li>
-							
-						
-							
-							
-							
-							<li><a href="http://entertainment.eircom.net/gossip/">Gossip</a></li>
-							
-						
-							
-							
-							
-							<li><a href="http://entertainment.eircom.net/movies/">Movies</a></li>
-							</ul>
-						
-					</li>
-				
-					
-					
-					
-					
-					<li class="nv4"><a href="http://lifestyle.eircom.net">Lifestyle</a>
-						
-							<ul>
-							
-							
-							<li><a href="http://motoring.eircom.net">Motoring</a></li>
-							
-						
-							
-							
-							
-							<li><a href="http://dating.eircom.net">Dating</a></li>
-							
-						
-							
-							
-							
-							<li><a href="http://travel.eircom.net">Travel</a></li>
-							
-						
-							
-							
-							
-							<li><a href="http://www.daft.ie/index.daft?fr=eircomnet">Property</a></li>
-							
-						
-							
-							
-							
-							<li><a href="http://lifestyle.eircom.net/lifestyle/photoprint/">Photoprint</a></li>
-							</ul>
-						
-					</li>
-				
-					
-					
-					
-					
-					<li class="nv5"><a href="http://clk.tradedoubler.com/click?p=17132&amp;a=1037749&amp;g=17118894">Products</a>
-						
-							<ul>
-							
-							
-							<li><a href=" http://clk.tradedoubler.com/click?p=17132&amp;a=1037749&amp;g=17118894">Products For Home</a></li>
-							
-						
-							
-							
-							
-							<li><a href="http://clk.tradedoubler.com/click?p=17132&amp;a=1037749&amp;g=17552850">Products For Business</a></li>
-							</ul>
-						
-					</li>
-				
-					
-					
-					
-					
-					<li class="nv6"><a href="http://support.eircom.net">Support</a>
-						
-					</li>
-				
-					
-					
-					
-					
-					<li class="nv7"><a href="http://clk.tradedoubler.com/click?p=17132&amp;a=1037749&amp;g=17121040">my bill</a>
-						
-							<ul>
-							
-							
-							<li><a href="http://clk.tradedoubler.com/click?p=17132&amp;a=1037749&amp;g=17121040">Billing For Home</a></li>
-							
-						
-							
-							
-							
-							<li><a href=" http://clk.tradedoubler.com/click?p=17132&amp;a=1037749&amp;g=17552858">Billing For Business</a></li>
-							</ul>
-						
-					</li>
-				
-					
-					
-					
-					
-					<li class="nv8"><a href="http://widgets.eircom.net/">my eircom</a>
-						
-					</li>
-				
-					
-					
-					
-					
-					<li class="nv9"><a href="https://secure.eircom.net/email">my e-mail</a>
-						
-					</li>
-				
-				</ul>
-			</div><!-- END #nav -->
-<!-- END header.tag -->
-
-<!-- BEGIN topBar.tag -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-				
-
-
-			<div id="super-nav"><!-- BEGIN #super-nav -->
-				<!-- CMTBC - these links are currently HARDCODED -->
-				<ul>
-					<li><a href="http://www.eircom.net">home</a></li>
-					<li><a href="http://clk.tradedoubler.com/click?p=17132&amp;a=1037749&amp;g=17569430">eircom Group</a></li>
-					<li><a href="http://clk.tradedoubler.com/click?p=17132&amp;a=1037749&amp;g=17569432">small business</a></li>
-					<li><a href="http://enterprise.eircom.net">enterprise</a></li>
-					<li><a href="http://government.eircom.net">government</a></li>
-					<li><a href="http://clk.tradedoubler.com/click?p=17132&amp;a=1037749&amp;g=17121154">phonebook</a></li>
-				</ul>
-				<div id="favourites">
-					<span id="addBookmarkLink"><a href="javascript:addBookmark(null, null);" class="bookmark-link" title="Click here to bookmark / add this page to your favourites">add to favourites</a></span>
-					<span class="header-date" title="26/04/09  Day 116  Week 17">Sunday 26th Apr 2009</span>
-				</div>
-			</div><!-- END #super-nav -->
-<!-- END topBar.tag -->
-		</div><!-- END #header -->
-
-<!-- BEGIN breadCrumb.tag -->
-
-
-
-
-
-
-
-
-
-
-		<div id="crumbs"><!-- BEGIN #crumbs -->
-			You are here: 
-				<a href="http://www.eircom.net">eircom.net homepage</a>
-				
-					
-						
-						
-							
-						
-					
-					» <a href="http://www.eircom.net/about">about</a>
-					
-						» privacy
-						
-					
-				
-		</div><!-- END #crumbs -->
-
-<!-- END breadCrumb.tag -->
-
-
-		<a name="content"></a>
-		<div id="content"><!-- BEGIN #content -->
-<!-- END topContent pageFrame tag -->
-
-
-			<div id="col2">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-				<div id="multi-search-bar-v2" class="clearfix">
-
-<script type="text/javascript" src="http://siteassets.eircom.net/assets/static/js/global/frameworks/jquery/plugins/jquery.selectboxes.min.js"></script>
-<script type="text/javascript" src="http://siteassets.eircom.net/assets/static/js/global/search/searchOptions.js"></script>
-					
-					<!-- Set default tab active -->
-					<script type="text/javascript">
-						jQuery(document).ready(function($){
-							var selectTab = 'search-web';
-							$('#msb-tabs').parent().tabs('select', selectTab);
-						});
-					</script>
-
-					<ul id="msb-tabs" class="ui-tabs-nav">
-						<li id="msb-tab-web"><a href="#search-web">web</a></li>
-						<li id="msb-tab-dating"><a href="#search-dating">dating</a></li>
-						<li id="msb-tab-motoring"><a href="#search-motoring">motoring</a></li>
-						<li id="msb-tab-property"><a href="#search-property">property</a></li>
-						<li id="msb-tab-music"><a href="#search-music">music</a></li>
-						<li id="msb-tab-supportsite"><a href="#search-supportsite">support</a></li>
-						<li id="msb-tab-phonebook"><a href="#search-phonebook">phonebook</a></li>
-						<!-- li id="msb-tab-more" class="more"><a href="#web">more</a>
-							<ul>
-								<li><a href="#search-music">music</a></li>
-							</ul>
-						</li -->
-					</ul>
-
-					<div id="search-web" class="ui-tabs-panel">
-						<form name="searchBarFormWeb" action="http://news.eircom.net/googlesearch/websearch/index.jsp" method="get">		 
-							<fieldset>
-								<label for="msb-web-keywords" class="primary-label">Search:</label>
-								<input type="text" name="q" id="msb-web-keywords" class="msb-keywords" maxlength="2048" value="">
-								
-								<input type="radio" name="meta" id="msb-web-meta-web" value="cr=" checked="checked">
-								<label for="msb-web-meta-web">web</label>
-								
-								<input type="radio" name="meta" value="cr=countryIE" id="msb-web-meta-Ireland">
-								<label for="msb-web-meta-Ireland">Ireland</label>
-
-								<input type="submit" class="msb-submit msb-button" value="search web">
-								
-								&nbsp;&nbsp;<a href="http://news.eircom.net/googlesearch/advancedsearch/index.jsp">advanced search</a>
-							</fieldset>
-							<input type="hidden" name="ie" value="utf8">
-							<input type="hidden" name="oe" value="utf8">
-							<input type="hidden" name="client" value="eircom">
-							<input type="hidden" name="output" value="xml_no_dtd">
-							<input type="hidden" name="source" value="searchbar">
-							<input type="hidden" name="searchTab" value="web">
-						</form>
-						<div class="msb-logo" title="enhanced by Google"></div>
-					</div><!-- END #web -->
-
-<!-- ***************************************************************************************** -->
-
-					<div id="search-dating" class="ui-tabs-panel ui-tabs-hide">
-						<form name="datingSearchBarForm" action="http://dating.eircom.net/search/" method="get">
-							<fieldset>
-								<label class="primary-label">Search:</label>
-								<label>I am</label>
-								<select name="iam">
-									<option value="">----</option>
-								</select>
-								<label>seeking</label>
-								<select name="seeking">
-									<option value="">----</option>
-								</select>
-								<label>Age</label>
-								<select name="LowAge">
-									<option value="">Any</option>
-								</select>  
-								<label>to</label>
-								<select name="HighAge" class="TextInput">
-									<option value="">Any</option>
-								</select>
-								<label>in</label>
-								<select name="ulocation">
-									<option value="">Any county</option>
-								</select>
-								&nbsp;
-								<input type="submit" class="msb-submit msb-button" value="search">
-								<!--a href="#" style="font-size: 10px;">advanced search</a-->
-							</fieldset>
-							<input type="hidden" name="tab" value="2">
-							<input type="hidden" name="source" value="searchbar">
-							<input type="hidden" name="searchTab" value="dating">
-						</form>
-						<div class="msb-logo" title="enhanced by maybefriends"></div>
-					</div><!-- END #dating -->
-
-<!-- ***************************************************************************************** -->
-
-					<div id="search-motoring" class="ui-tabs-panel ui-tabs-hide">
-							<!-- due to their large size, makeModelYear.js, NewMakeModelBody.js and BodyTypes js are pulled via searchOptions.js on pageload! -->
-							<form name="motoringSearchBarForm" action="http://motoring.eircom.net/usedcars/index.cfm" method="get">
-							<fieldset>
-								<label class="primary-label">Search:</label>
-								<select name="searchType" id="msb-motoring-search-type">
-									<option value="newcars" selected="selected">New cars</option>
-									<option value="usedcars">Used cars</option>
-								</select>
-								<span id="msb-motoring-usedcars">
-									<select name="MakeID" onchange="WZ_fillChild(MakeModelYearList, this.form.ModelID, this.form.MakeID.selectedIndex, 0, true, true);" class="msb-motoring-make">
-										<option selected="selected" value="">Select Make</option>
-									</select>
-									<select name="ModelID" disabled="disabled" onchange="WZ_fillGrandChild(MakeModelYearList, this.form.Year, this.form.MakeID.selectedIndex, 3, this.form.ModelID.selectedIndex, 3, 0, 1);" class="msb-motoring-model">
-										<option selected="selected" value="">Select Model</option>
-									</select>
-									<select name="Year" disabled="disabled" class="msb-motoring-extra">
-										<option selected="selected" value="">Any Year</option>
-									</select>
-								</span>
-								<span id="msb-motoring-newcars">
-									<select name="make" onchange="WZ_fillChild(MakeModelBodyList_SSCIRL2002, this.form.model, this.form.make.selectedIndex, 1, false, true); body_makemodelbody(this.form, MakeModelBodyList_SSCIRL2002, '');" class="msb-motoring-make">
-										<option selected="selected" value="">Select Make</option>
-									</select>
-									<select name="model" disabled="disabled" onchange="body_makemodelbody(this.form, MakeModelBodyList_SSCIRL2002, '');" class="msb-motoring-model">
-										<option selected="selected" value="">Select Model</option>
-									</select>
-									<select name="Body" class="msb-motoring-extra">
-										<option selected="selected" value="">Any Body Type</option>
-									</select>
-								</span>
-								<input type="submit" class="msb-submit msb-button" value="search">
-								<a href="http://eircom.webzone.ie/usedcars/">advanced search</a>
-							</fieldset>
-							<input name="source" type="hidden" value="searchbar">
-							<input name="searchTab" type="hidden" value="motoring">
-							<input name="fuseaction" type="hidden" value="search">
-							<input name="xMakeID" type="hidden" value="">
-							<input name="xMake" type="hidden" value="">
-							<input name="xModelID" type="hidden" value="">
-							<input name="xModel" type="hidden" value="">
-							<input name="xYear" type="hidden" value="">
-							<input name="xBody" type="hidden" value="">
-						</form>
-						<div class="msb-logo" title="enhanced by carzone"></div>
-					</div><!-- END #motoring -->
-
-<!-- ***************************************************************************************** -->
-
-					<div id="search-property" class="ui-tabs-panel ui-tabs-hide">
-						<form name="propertySearchBarForm" action="http://www.daft.ie/search.daft" method="get">
-							<fieldset>
-								<label class="primary-label">Search:</label>
-								<select name="s[search_type]" id="msb-property-search-type">
-									<option value="sale" selected="selected">Sale</option>
-									<option value="rental">Rent</option>
-									<option value="sharing">Share</option>
-								</select>
-								<label>in</label>
-								<select name="s[cc_id]" id="msb-property-location">
-									<option value="">Select a location</option>
-								</select>
-								<select name="s[mnp]" id="msb-property-minprice">
-									<option value="">No Min</option>
-								</select>
-								<select name="s[mxp]" id="msb-property-maxprice">
-									<option value="">No Max</option>
-								</select>
-								<select name="s[bd_no]" id="msb-property-bedrooms">
-									<option value="">Any Number</option>
-								</select>
-								<input type="submit" class="msb-submit msb-button" name="search" value="search">
-							</fieldset>
-							<!-- input type="hidden" name="search" value="1" / -->
-							<input type="hidden" name="fr" value="eircomnet">
-							<input type="hidden" name="source" value="searchbar">
-							<input type="hidden" name="searchTab" value="property">
-						</form>
-						<div class="msb-logo" title="enhanced by Daft"></div>
-					</div><!-- END #property -->
-
-<!-- ***************************************************************************************** -->
-
-					<div id="search-supportsite" class="ui-tabs-panel ui-tabs-hide">
-						<form name="supportSearchBarForm" action="http://support.eircom.net/search" method="get" target="supportResults">
-							<fieldset>
-								<label class="primary-label">Search:</label>
-								<input type="text" name="query" id="msb-support-keywords" class="msb-keywords" maxlength="2048" value="">
-								
-								<input type="radio" name="kb" id="msb-support-meta-broadband" value="bb" checked="checked">
-								<label for="msb-support-meta-broadband">broadband</label>
-								
-								<input type="radio" name="kb" value="nb" id="msb-support-meta-dialup">
-								<label for="msb-support-meta-dialup">dial-up</label>
-
-								<input type="submit" class="msb-submit msb-button" value="search">
-							</fieldset>
-							<input name="source" type="hidden" value="searchbar">
-							<input type="hidden" name="searchTab" value="supportsite">
-						</form>
-						<div class="msb-logo" title="enhanced by Ben"></div>
-					</div><!-- END #support -->
-
-<!-- ***************************************************************************************** -->
-
-					<div id="search-music" class="ui-tabs-panel ui-tabs-hide">
-						<form name="musicSearchBarForm" action="http://www.7digital.com/stores/search2.aspx" method="get">
-							<fieldset>
-								<label class="primary-label">Search:</label>
-							
-								<input type="text" name="search" id="msb-music-keywords" class="msb-keywords" maxlength="2048" value="">
-								
-								<select name="searchtype" id="msb-music-searchtype">
-									<option value="4">Artist</option>
-									<option value="3">Track</option>
-									<option value="2">Album</option>
-									<option value="1">All</option>
-								</select>
-								
-								<input type="submit" class="msb-submit msb-button" value="search">
-							</fieldset>
-							<input type="hidden" name="partner" value="629">
-							<input type="hidden" name="shop" value="656">
-							<input name="source" type="hidden" value="searchbar">
-							<input type="hidden" name="searchTab" value="music">
-						</form>
-						<div class="msb-logo" title="enhanced by 7digital"></div>
-					</div><!-- END #music -->
-
-<!-- ***************************************************************************************** -->
-
-					<div id="search-phonebook" class="ui-tabs-panel ui-tabs-hide">
-						<form name="phonebookSearchBarForm" action="http://www.eircomphonebook.ie/search.ds?source=searchbar&amp;searchTab=phonebook" method="post" target="phonebookResults">
-							<fieldset>
-								<label class="primary-label">Search:</label>
-								<label>Who</label>
-								<input type="text" name="what" id="msb-phonebook-what" class="msb-keywords" maxlength="200" autocomplete="off" value="" title="Enter a person or company's name">
-								<label>Where</label>
-								<input type="text" name="where" id="msb-phonebook-where" class="msb-keywords" maxlength="200" autocomplete="off" value="" title="Enter a Suburb, Town or County">
-								<input type="radio" name="residential" value="false" id="msb-phonebook-residential-false">
-								<label for="msb-phonebook-residential-false">business</label>
-								<input type="radio" name="residential" value="true" id="msb-phonebook-residential-true" checked="checked">
-								<label for="msb-phonebook-residential-true">residential</label>
-
-								<input type="submit" class="msb-submit msb-button" value="search">
-							</fieldset>
-							<input type="hidden" name="newSearch" value="true">
-						</form>
-						<div class="msb-logo" title="enhanced by eircom"></div>
-					</div><!-- END #phonebook -->
-
-				</div><!-- END multi-search-bar-v2 -->
-
-
-
-
-
-
-
-<!-- ~# BEGIN global tracking:webTrends tag #~ -->
-
-
-																																																																									
-
-	<script type="text/javascript" src="http://siteassets.eircom.net/assets/static/js/global/tracking/webTrends.js"></script>
+<script language="JavaScript">
+
+// Declare all local variables
+var isNav = "";			// True if browser is netscape navogator
+var isIE = "";			// true if browser is internet explorer
+var versionNumberMajor = 0;	// Holds the major version number
+var versionNumberMinor = 0;	// Holds the minor version number
+var showMessage = false;	// Holds true if user is using incompatible browser version
+
+// Set the browser name
+var browser = getBrowserName();	// Get the browser name
+
+// Set the isNav and isIE values
+browser == "Netscape"? isNav = true: isIE = true;
+
+// Set the major verison number
+versionNumberMajor = getBrowserVersionMajor();
+
+// Set the minor version number
+versionNumberMinor = getBrowserVersionMinor();
+
+if(isNav == true)
+{
+	if (versionNumberMajor <= '4')
+	{
+		showMessage = true;
+	}
+}
+else if (isIE == true)
+{
+	if (versionNumberMajor < '5')
+	{
+		showMessage = true;
+	}
+}
+
+if (showMessage == true)
+{
+	alert('In order to best view the eircom.ie site you must upgrade your browser \nto Netscape Navigator 6.0, Internet Explorer 5.0, 5.5 or 6.0.');
+}
 	
-	<!-- START OF SmartSource Data Collector TAG -->
-	<!-- Copyright (c) 1996-2009 WebTrends Inc.  All rights reserved. -->
-	<!-- Version: 8.6.0 -->
-	<!-- Tag Builder Version: 2.1.0  -->
-	<!-- Created: 1/15/2009 1:21:11 PM -->
+</script>
+
+
+
+
+
+
+
+  
+    	
+    	
+  	
+
+
+
+
+
+<link rel="StyleSheet" href="/bveircom/stylesheets/res_ie.css" type="text/css">
+
+  	
+  	
+  	<title>Legal</title>
+  
+  	
+
+  	
+
+  </head>
+
+   <body bgcolor="#ffffff">
+ 
 	
-	<!-- ----------------------------------------------------------------------------------- -->
-	<!-- Warning: The two script blocks below must remain inline. Moving them to an external -->
-	<!-- JavaScript include file can cause serious problems with cross-domain tracking.      -->
-	<!-- ----------------------------------------------------------------------------------- -->
-	<span id="webtrends-web-bug" class="web-bug webtrends">
-		<script type="text/javascript">
-		//<![CDATA[
-			var _tag=new WebTrends();
-			_tag.dcsGetId();
-		//]]>>
-		</script>
-		<script type="text/javascript">
-		//<![CDATA[
-			// Add custom parameters here.
-			//_tag.DCSext.param_name=param_value;
+
+
+
+
+
+
 	
-			_tag.WT.cg_n = "About";
-			_tag.WT.cg_s = "Privacy";
+
+
+
+
+
+
+
+
+
+
+<script language="javascript">
+	
+	function goHeader(element)
+	{
+		
+	}
+	
+	function goGateway(element)
+	{
+		
+	}
+	
+	function goUseful(element)
+	{
+	
+	}
+	
+	function goUsefulDropDown(elementTo)
+	{
+	
+	}
+	
+	
+
+
+		
+</script>
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table cellspacing="0" cellpadding="0" width="720" background="/bveircom/images/resHeader.gif">
+	<tbody><tr height="68">
+		<td width="144">
+			<table width="144">
+				<tbody><tr>
+					<td align="center" valign="middle" width="144%">
+						
+							 <a href="/cgi-bin/bvsm/bveircom/mainPage.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;site=Res&amp;chanId=0"><img border="1" src="/bveircom/images/resEircomLogo.gif"></a>
+						
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+		
+		<td width="4">
+			&nbsp;
+		</td>
+		
+		<td valign="bottom" align="right" width="100%">
 			
+	 		
+	 		
+	 		
+	 		
+	 		
+	 		
 			
-			_tag.dcsCollect();
-		//]]>>
-		</script>
-		<noscript>
-			<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://webcollector.eircom.net/dcsg7czncek4r4hrhexsvzp06_1x8k/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.6.0"/></div>
-		</noscript>
-	</span>
-	<!-- END OF SmartSource Data Collector TAG -->
-	
-<!-- ~# END global tracking:webTrends tag #~ -->
+			<table>
+				<tbody><tr width="100%">
+					<td><img src="/bveircom/images/thinWhiteArrow.gif"></td><form name="headerForm1" action="" method="POST"></form><input type="hidden" name="clickIdAction" value=""><input type="hidden" name="clickIdTo" value=""><input type="hidden" name="flashDetected" value="False"><input type="hidden" name="site" value="Res"><input type="hidden" name="cid" value="Legal"><input type="hidden" name="store" value="Res"><input type="hidden" name="ProductID" value="null"><input type="hidden" name="newsItemId" value="null"><input type="hidden" name="shopCategory" value="null"><input type="hidden" name="Title" value="null"><input type="hidden" name="extranet" value="null"><input type="hidden" name="chanId" value="0"><td align="left" valign="middle" title="Business"><a class="headerLinks" id="1" name="/bveircom/mainPage.jsp?site=Bus&amp;chanId=0" href="/cgi-bin/bvsm/bveircom/mainPage.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;site=Bus&amp;chanId=0&amp;clickIdAction=addClickID_header&amp;clickIdTo=/bveircom/mainPage.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal" target="">Business</a></td><td><img src="/bveircom/images/thinWhiteArrow.gif"></td><form name="headerForm2" action="" method="POST"></form><input type="hidden" name="clickIdAction" value=""><input type="hidden" name="clickIdTo" value=""><input type="hidden" name="flashDetected" value="False"><input type="hidden" name="site" value="Res"><input type="hidden" name="cid" value="Legal"><input type="hidden" name="store" value="Res"><input type="hidden" name="ProductID" value="null"><input type="hidden" name="newsItemId" value="null"><input type="hidden" name="shopCategory" value="null"><input type="hidden" name="Title" value="null"><input type="hidden" name="extranet" value="null"><input type="hidden" name="chanId" value="0"><td align="left" valign="middle" title="Contact Us"><a class="headerLinks" id="2" name="/bveircom/bladerunner/showContent.jsp?cid=ContactUsRes2&amp;site=Res&amp;chanId=0" href="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;cid=ContactUsRes2&amp;site=Res&amp;chanId=0&amp;clickIdAction=addClickID_header&amp;clickIdTo=/bveircom/bladerunner/showContent.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal" target="">Contact Us</a></td><td><img src="/bveircom/images/thinWhiteArrow.gif"></td><form name="headerForm3" action="" method="POST"></form><input type="hidden" name="clickIdAction" value=""><input type="hidden" name="clickIdTo" value=""><input type="hidden" name="flashDetected" value="False"><input type="hidden" name="site" value="Res"><input type="hidden" name="cid" value="Legal"><input type="hidden" name="store" value="Res"><input type="hidden" name="ProductID" value="null"><input type="hidden" name="newsItemId" value="null"><input type="hidden" name="shopCategory" value="null"><input type="hidden" name="Title" value="null"><input type="hidden" name="extranet" value="null"><input type="hidden" name="chanId" value="0"><td align="left" valign="middle" title="PhoneBook (NB:This link will open in a new window)"><a class="headerLinks" id="3" name="http://www.eircomphonebook.ie" href="http://www.eircomphonebook.ie?clickIdAction=addClickID_header&amp;clickIdTo=http://www.eircomphonebook.ie&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal" target="_newPage">PhoneBook</a></td><td><img src="/bveircom/images/thinWhiteArrow.gif"></td><form name="headerForm4" action="" method="POST"></form><input type="hidden" name="clickIdAction" value=""><input type="hidden" name="clickIdTo" value=""><input type="hidden" name="flashDetected" value="False"><input type="hidden" name="site" value="Res"><input type="hidden" name="cid" value="Legal"><input type="hidden" name="store" value="Res"><input type="hidden" name="ProductID" value="null"><input type="hidden" name="newsItemId" value="null"><input type="hidden" name="shopCategory" value="null"><input type="hidden" name="Title" value="null"><input type="hidden" name="extranet" value="null"><input type="hidden" name="chanId" value="0"><td align="left" valign="middle" title="Broadband Extras (NB:This link will open in a new window)"><a class="headerLinks" id="4" name="http://home.eircom.net/broadbandservices/" href="http://home.eircom.net/broadbandservices/?clickIdAction=addClickID_header&amp;clickIdTo=http://home.eircom.net/broadbandservices/&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal" target="_newPage">Broadband Extras</a></td><td><img src="/bveircom/images/thinWhiteArrow.gif"></td><form name="headerForm5" action="" method="POST"></form><input type="hidden" name="clickIdAction" value=""><input type="hidden" name="clickIdTo" value=""><input type="hidden" name="flashDetected" value="False"><input type="hidden" name="site" value="Res"><input type="hidden" name="cid" value="Legal"><input type="hidden" name="store" value="Res"><input type="hidden" name="ProductID" value="null"><input type="hidden" name="newsItemId" value="null"><input type="hidden" name="shopCategory" value="null"><input type="hidden" name="Title" value="null"><input type="hidden" name="extranet" value="null"><input type="hidden" name="chanId" value="0"><td align="left" valign="middle" title="Pricing"><a class="headerLinks" id="5" name="/bveircom/bladerunner/showContent.jsp?store=Res&amp;site=Res&amp;cid=EircomPricing&amp;chanId=-536882377&amp;storeChanId=-536883513" href="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;store=Res&amp;site=Res&amp;cid=EircomPricing&amp;chanId=-536882377&amp;storeChanId=-536883513&amp;clickIdAction=addClickID_header&amp;clickIdTo=/bveircom/bladerunner/showContent.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal" target="">Pricing</a></td><td>&nbsp;</td><form name="searchForm" action="/cgi-bin/bvsm/bveircom/search/eircom_search_results.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;site=Res&amp;chanId=0" method="POST"></form><input type="hidden" name="BV_SessionID" value="@@@@1093366767.1257144345@@@@">
+<input type="hidden" name="BV_EngineID" value="ccchadeikdhigekcefeceiedfgodfik.0">
+<td title="Search"><input type="hidden" name="chanId" value="0"><input type="hidden" name="search" value="true"><input type="hidden" name="clickIdAction" value="addClickID_header"><input type="hidden" name="clickIdToSearch" value="/bveircom/search/eircom_search_results.jsp"><input type="hidden" name="clickFrom" value="/bveircom/bladerunner/showContent.jsp"><input type="hidden" name="clickFromCID" value="Legal"></td><td><input type="text" style="width:100" class="inputBox" name="words" size="10" maxlength="30" tabindex="1" onfocus="clearSearchBox()" value="Search..."></td><input type="hidden" name="searchText" value="Search..."><td><input type="image" name="Submit" src="/bveircom/images/resGoButton.gif" width="28" height="20"></td><td>&nbsp;</td>
+				</tr>
+				<tr height="5">
+					<td>
+					</td>
+				</tr>
+			</tbody></table>
+					
+		</td>
+	</tr>
+</tbody></table>
 
-			
-				<div id="section-content">
+
+<table cellspacing="0" cellpadding="0" width="720">
+	<tbody><tr height="8" width="100%" class="headerGradient">
+		<td>
+		</td>
+	</tr><tr>
+</tr></tbody></table>
+
+
+
+<script language="JavaScript">
+
+	function clearSearchBox()
+	{
+		ns4 = (document.layers) ? true : false;
+		
+		if(ns4)
+		{
+	    	if (window.document.Layer1.document.searchForm.words.value==document.searchForm.searchText.value)
+	    	{
+				window.document.Layer1.document.searchForm.words.value='';
+			}
+	    }
+	    else
+		{
+			if (document.searchForm.words.value==document.searchForm.searchText.value)
+			{
+				document.searchForm.words.value='';
+			}
+		}
+	}
+	
+</script>
+
+	
+	
+
+	<table cellpadding="0" cellspacing="0" width="720" border="0">
+		<tbody><tr>
+			<td valign="top" align="left" width="144"> 
 				
-					<div class="wide-widget clearfix safesurfing very-long-bg">
-						<h2>
-Privacy Policy
-						</h2>						
-        <h3>Privacy Policy for eircom net Online Publications</h3>
-                       <p>The website from which you linked (the "Site") is operated by eircom ltd trading as eircom net ("eircom net"). eircom net respects your right to privacy and our Privacy Policy is designed to inform you of the methods and purposes for which we gather and use your data. eircom net is a registered data controller with the Data Protection Commissioner and uses your personal data in accordance with its obligations under the Data Protection Act, 1988. By visiting the Site, you are accepting the practices described in this Privacy Notice.<br></p>
-                       <h3>Information Collected by eircom net</h3>
-<p>Each time you visit the Site, two general levels of information about your visit may be retained by eircom net: (1) non-personal information and (2) personal information.</p>
-<h3>(1) Non-personal Information</h3>
-<p>Like most websites, we gather statistical and other analytical information collected on an aggregate basis of all browsers who visit the site. We use this information gathered from visitors to our websites in an aggregate form to get a better understanding of where our visitors come from and to help us better design and organize our website.</p><p>
-                       <br>The Site uses "cookie" technology. A cookie is a little piece of text stored by your browser on your computer, at the request of our server. We may use cookies to deliver content specific to your interests and to save your personal preferences so you don't have to re-enter them each time you connect to the Internet. You are always free to decline our cookies, if your browser permits, or to ask your browser to indicate when a cookie is being sent. You can also delete cookie files from your computer at your discretion. Note that if you decline our cookies or ask for notification each time a cookie is being sent, this may affect your ease of use of the Site.</p><h3>(2) Personal Information</h3>
-                       <p>Personal information is information which is personal or particular to a specific visitor who chooses to provide that information. This category would typically include information provided by you for subscriptions or competitions including your name, postal and email address and contact phone number.</p>
-<h3>Purposes for which we hold your data</h3>
-                       <p>We keep your personal and non-personal data for the following purposes:</p><br>
 
-<ul>
-                        <li><p> (1) To communicate with you and provide you with marketing and product information;</p></li>
-<li><p> (2) To personalise your visit to the Site;</p></li>
-<li><p> (3) To track your movement through the Site (for marketing and advertising purposes);</p></li>
-<li><p> (4) To notify you of competitions, ezines or other promotions;</p></li>
-<li><p> (5) To provide information to our advertisers and business partners; and</p></li>
-<li><p> (6) For the performance of any request by or contract with you.</p></li>
-                       </ul>    
 
-<p>We will process your personal information to administer your registration or subscription, determine your eligibility for certain services, provide services to you, and enable you to take advantage of other member benefits. Your information may also be used to verify your identity, to protect against fraud, and to send you updates about your account.</p>
-                       <p>If you do not wish to receive communications from us or our business partners, please email us at <a href="mailto:info@eircom.net" class="grey-links">info@eircom.net</a>.</p> 
-                    <h3>Message Boards</h3>
-<p>If you utilize a message board operated by eircom net, your use of those services is governed by the Terms and Conditions attaching to those services. If you choose to publish your e-mail address or publish other personal data, you do so at your own risk.</p>
 
-<h3>Transfer of Data</h3>
-<p>Your data will be held in Ireland by eircom ltd trading as eircom net which includes any subsequent purchasers, successors or assigns of eircom net. We will share non-personal information with our advertisers and business partners. We will only share personal information with our business partners if we are satisfied that it will only be used in accordance with the purposes described above. We will also disclose your personal information if we are legally required to do so or if it is reasonably necessary to protect and defend the rights or property of eircom net.</p>
-<br><p>We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. These companies have access to personal information needed to perform their functions, but may not use it for other purposes.</p>
-<h3>Security</h3>
-                       <p>Your personal data is held on secure servers hosted by eircom ltd. Unfortunately,no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, eircom net cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission, we use our reasonable commercial efforts to ensure its security on our systems.</p>
-<h3>Access to Your Information</h3>
-<p>If you wish to obtain a copy of the personal information, which is held by eircom net about you, please email us at <a href="mailto:info@eircom.net" class="grey-links">info@eircom.net</a>. It is up to you to inform us of any changes in your personal information so that we can keep it accurate and up to date.</p>
-					</div>
-				</div><!-- END #section-content -->
-		  
-				<div id="section-subcontent">
-				<div id="section-subcontent">
-					<div id="mpu-ad" class="ad mpu">
-						<script type="text/javascript">document.writeln(AAMB2);</script>
 
-					</div><!-- END #mpu-ad -->
-				</div>
 
-				</div><!-- END #section-subcontent -->
+
+
+
+
+	
+
+
+
+
+
+<script language="javascript">
+
+var arrowWhiteImage = new Image(18,7);
+arrowWhiteImage.src= "/bveircom/images/arrowWhite.gif";
+var arrowImage = new Image(18,7);
+arrowImage.src= "/bveircom/images/menuArrow.gif";
+
+</script>
+
+
+
+
+
+
+<table width="144" border="0" cellpadding="2" cellspacing="0" style="">
+	<form method="post" action="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;cid=Legal&amp;site=Res&amp;chanId=0&amp;store=Res" name="gatewayForm"></form>
+		<input type="hidden" name="BV_SessionID" value="@@@@1093366767.1257144345@@@@">
+<input type="hidden" name="BV_EngineID" value="ccchadeikdhigekcefeceiedfgodfik.0">
+
+		<input type="hidden" name="clickIdAction" value="">
+		<input type="hidden" name="gateway_clickIdTo" value="">
+
+		<input type="hidden" name="flashDetected" value="False"><input type="hidden" name="site" value="Res"><input type="hidden" name="cid" value="Legal"><input type="hidden" name="store" value="Res"><input type="hidden" name="ProductID" value="null"><input type="hidden" name="newsItemId" value="null"><input type="hidden" name="shopCategory" value="null"><input type="hidden" name="Title" value="null"><input type="hidden" name="extranet" value="null"><input type="hidden" name="chanId" value="0">
+    	
+    	<tbody><tr height="20"><td id="menu1" onmouseover="hover(1)" onmouseout="hover_off(1)" class="menuRes"><table width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td width="1"><img border="0" width="1" src="/bveircom/images/spacer.gif"></td><td align="right" valign="middle" width="15"><a style="width:100%" class="leftNavGeneral" name="/bveircom/bladerunner/showContent.jsp?cid=AboutEircom&amp;site=Res&amp;chanId=-536882377&amp;storeChanId=-536882377" href="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;cid=AboutEircom&amp;site=Res&amp;chanId=-536882377&amp;storeChanId=-536882377clickIdAction=addClickID_gateway&amp;clickIdTo=/bveircom/bladerunner/showContent.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null" target=""><img border="2" width="0" src="/bveircom/images/spacer.gif"><img valign="center" id="imgmenu1" border="0" src="/bveircom/images/menuArrow.gif"></a></td><td id="menuItemName1" align="left" class="menuRes" title="About Us"><a style="width:100%" class="leftNavGeneral" name="/bveircom/bladerunner/showContent.jsp?cid=AboutEircom&amp;site=Res&amp;chanId=-536882377&amp;storeChanId=-536882377" href="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;cid=AboutEircom&amp;site=Res&amp;chanId=-536882377&amp;storeChanId=-536882377&amp;clickIdAction=addClickID_gateway&amp;clickIdTo=/bveircom/bladerunner/showContent.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null" target="">About Us</a></td></tr></tbody></table></td></tr><tr height="3"><td></td></tr><tr height="20"><td id="menu2" onmouseover="hover(2)" onmouseout="hover_off(2)" class="menuRes"><table width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td width="1"><img border="0" width="1" src="/bveircom/images/spacer.gif"></td><td align="right" valign="middle" width="15"><a style="width:100%" class="leftNavGeneral" name="/bveircom/bladerunner/showContent.jsp?site=Res&amp;cid=ProductService1Res&amp;chanId=-536882378&amp;storeChanId=-536882378" href="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;site=Res&amp;cid=ProductService1Res&amp;chanId=-536882378&amp;storeChanId=-536882378clickIdAction=addClickID_gateway&amp;clickIdTo=/bveircom/bladerunner/showContent.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null" target=""><img border="2" width="0" src="/bveircom/images/spacer.gif"><img valign="center" id="imgmenu2" border="0" src="/bveircom/images/menuArrow.gif"></a></td><td id="menuItemName2" align="left" class="menuRes" title="Products &amp; Services"><a style="width:100%" class="leftNavGeneral" name="/bveircom/bladerunner/showContent.jsp?site=Res&amp;cid=ProductService1Res&amp;chanId=-536882378&amp;storeChanId=-536882378" href="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;site=Res&amp;cid=ProductService1Res&amp;chanId=-536882378&amp;storeChanId=-536882378&amp;clickIdAction=addClickID_gateway&amp;clickIdTo=/bveircom/bladerunner/showContent.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null" target="">Products &amp; Services</a></td></tr></tbody></table></td></tr><tr height="3"><td></td></tr><tr height="20"><td id="menu3" onmouseover="hover(3)" onmouseout="hover_off(3)" class="menuRes"><table width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td width="1"><img border="0" width="1" src="/bveircom/images/spacer.gif"></td><td align="right" valign="middle" width="15"><a style="width:100%" class="leftNavGeneral" name="/bveircom/bladerunner/showContent.jsp?cid=Bill_Intro_Page&amp;site=Res&amp;chanId=-536882380&amp;storeChanId=-536882380" href="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;cid=Bill_Intro_Page&amp;site=Res&amp;chanId=-536882380&amp;storeChanId=-536882380clickIdAction=addClickID_gateway&amp;clickIdTo=/bveircom/bladerunner/showContent.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null" target=""><img border="2" width="0" src="/bveircom/images/spacer.gif"><img valign="center" id="imgmenu3" border="0" src="/bveircom/images/menuArrow.gif"></a></td><td id="menuItemName3" align="left" class="menuRes" title="Your Bill"><a style="width:100%" class="leftNavGeneral" name="/bveircom/bladerunner/showContent.jsp?cid=Bill_Intro_Page&amp;site=Res&amp;chanId=-536882380&amp;storeChanId=-536882380" href="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;cid=Bill_Intro_Page&amp;site=Res&amp;chanId=-536882380&amp;storeChanId=-536882380&amp;clickIdAction=addClickID_gateway&amp;clickIdTo=/bveircom/bladerunner/showContent.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null" target="">Your Bill</a></td></tr></tbody></table></td></tr><tr height="3"><td></td></tr><tr height="20"><td id="menu4" onmouseover="hover(4)" onmouseout="hover_off(4)" class="menuRes"><table width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td width="1"><img border="0" width="1" src="/bveircom/images/spacer.gif"></td><td align="right" valign="middle" width="15"><a style="width:100%" class="leftNavGeneral" name="/bveircom/bladerunner/showContent.jsp?cid=CustomerServiceResNew&amp;store=Res&amp;chanId=-536882381&amp;storeChanId=-536882381" href="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;cid=CustomerServiceResNew&amp;store=Res&amp;chanId=-536882381&amp;storeChanId=-536882381clickIdAction=addClickID_gateway&amp;clickIdTo=/bveircom/bladerunner/showContent.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null" target=""><img border="2" width="0" src="/bveircom/images/spacer.gif"><img valign="center" id="imgmenu4" border="0" src="/bveircom/images/menuArrow.gif"></a></td><td id="menuItemName4" align="left" class="menuRes" title="Customer Services"><a style="width:100%" class="leftNavGeneral" name="/bveircom/bladerunner/showContent.jsp?cid=CustomerServiceResNew&amp;store=Res&amp;chanId=-536882381&amp;storeChanId=-536882381" href="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;cid=CustomerServiceResNew&amp;store=Res&amp;chanId=-536882381&amp;storeChanId=-536882381&amp;clickIdAction=addClickID_gateway&amp;clickIdTo=/bveircom/bladerunner/showContent.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null" target="">Customer Services</a></td></tr></tbody></table></td></tr><tr height="3"><td></td></tr><tr height="20"><td id="menu5" onmouseover="hover(5)" onmouseout="hover_off(5)" class="menuRes"><table width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td width="1"><img border="0" width="1" src="/bveircom/images/spacer.gif"></td><td align="right" valign="middle" width="15"><a style="width:100%" class="leftNavGeneral" name="/bveircom/bladerunner/showContent.jsp?cid=EircomWinBackRes&amp;site=Res&amp;chanId=-536888453&amp;storeChanId=-536888453" href="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;cid=EircomWinBackRes&amp;site=Res&amp;chanId=-536888453&amp;storeChanId=-536888453clickIdAction=addClickID_gateway&amp;clickIdTo=/bveircom/bladerunner/showContent.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null" target=""><img border="2" width="0" src="/bveircom/images/spacer.gif"><img valign="center" id="imgmenu5" border="0" src="/bveircom/images/menuArrow.gif"></a></td><td id="menuItemName5" align="left" class="menuRes" title="Switch to eircom"><a style="width:100%" class="leftNavGeneral" name="/bveircom/bladerunner/showContent.jsp?cid=EircomWinBackRes&amp;site=Res&amp;chanId=-536888453&amp;storeChanId=-536888453" href="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;cid=EircomWinBackRes&amp;site=Res&amp;chanId=-536888453&amp;storeChanId=-536888453&amp;clickIdAction=addClickID_gateway&amp;clickIdTo=/bveircom/bladerunner/showContent.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null" target="">Switch to eircom</a></td></tr></tbody></table></td></tr><tr height="3"><td></td></tr><tr height="20"><td id="menu6" onmouseover="hover(6)" onmouseout="hover_off(6)" class="menuRes"><table width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td width="1"><img border="0" width="1" src="/bveircom/images/spacer.gif"></td><td align="right" valign="middle" width="15"><a style="width:100%" class="leftNavGeneral" name="/bveircom/bladerunner/showContent.jsp?cid=MobileRedirect&amp;site=Bus&amp;chanId=-536889613&amp;storeChanId=-536889613" href="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;cid=MobileRedirect&amp;site=Bus&amp;chanId=-536889613&amp;storeChanId=-536889613clickIdAction=addClickID_gateway&amp;clickIdTo=/bveircom/bladerunner/showContent.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null" target=""><img border="2" width="0" src="/bveircom/images/spacer.gif"><img valign="center" id="imgmenu6" border="0" src="/bveircom/images/menuArrow.gif"></a></td><td id="menuItemName6" align="left" class="menuRes" title="eircom mobile for business"><a style="width:100%" class="leftNavGeneral" name="/bveircom/bladerunner/showContent.jsp?cid=MobileRedirect&amp;site=Bus&amp;chanId=-536889613&amp;storeChanId=-536889613" href="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;cid=MobileRedirect&amp;site=Bus&amp;chanId=-536889613&amp;storeChanId=-536889613&amp;clickIdAction=addClickID_gateway&amp;clickIdTo=/bveircom/bladerunner/showContent.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null" target="">eircom mobile for business</a></td></tr></tbody></table></td></tr><tr height="3"><td></td></tr><tr height="20"><td id="menu7" onmouseover="hover(7)" onmouseout="hover_off(7)" class="menuRes"><table width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td width="1"><img border="0" width="1" src="/bveircom/images/spacer.gif"></td><td align="right" valign="middle" width="15"><a style="width:100%" class="leftNavGeneral" name="/bveircom/bladerunner/showContent.jsp?site=Res&amp;cid=DisabilityServicesInfo&amp;chanId=-536889673&amp;storeChanId=-536889673" href="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;site=Res&amp;cid=DisabilityServicesInfo&amp;chanId=-536889673&amp;storeChanId=-536889673clickIdAction=addClickID_gateway&amp;clickIdTo=/bveircom/bladerunner/showContent.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null" target=""><img border="2" width="0" src="/bveircom/images/spacer.gif"><img valign="center" id="imgmenu7" border="0" src="/bveircom/images/menuArrow.gif"></a></td><td id="menuItemName7" align="left" class="menuRes" title="Disability Services"><a style="width:100%" class="leftNavGeneral" name="/bveircom/bladerunner/showContent.jsp?site=Res&amp;cid=DisabilityServicesInfo&amp;chanId=-536889673&amp;storeChanId=-536889673" href="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;site=Res&amp;cid=DisabilityServicesInfo&amp;chanId=-536889673&amp;storeChanId=-536889673&amp;clickIdAction=addClickID_gateway&amp;clickIdTo=/bveircom/bladerunner/showContent.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null" target="">Disability Services</a></td></tr></tbody></table></td></tr><tr height="3"><td></td></tr><tr height="20"><td id="menu8" onmouseover="hover(8)" onmouseout="hover_off(8)" class="menuRes"><table width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td width="1"><img border="0" width="1" src="/bveircom/images/spacer.gif"></td><td align="right" valign="middle" width="15"><a style="width:100%" class="leftNavGeneral" name="" href="http://government.eircom.netclickIdAction=addClickID_gateway&amp;clickIdTo=&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null" target="_newPage"><img border="2" width="0" src="/bveircom/images/spacer.gif"><img valign="center" id="imgmenu8" border="0" src="/bveircom/images/menuArrow.gif"></a></td><td id="menuItemName8" align="left" class="menuRes" title="Government Site (NB:This link will open in a new window)"><a style="width:100%" class="leftNavGeneral" name="" href="http://government.eircom.net?clickIdAction=addClickID_gateway&amp;clickIdTo=&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null" target="_newPage">Government Site</a></td></tr></tbody></table></td></tr><tr height="3"><td></td></tr><tr height="20"><td id="menu9" onmouseover="hover(9)" onmouseout="hover_off(9)" class="menuRes"><table width="100%" cellspacing="0" cellpadding="0"><tbody><tr><td width="1"><img border="0" width="1" src="/bveircom/images/spacer.gif"></td><td align="right" valign="middle" width="15"><a style="width:100%" class="leftNavGeneral" name="" href="http://enterprise.eircom.netclickIdAction=addClickID_gateway&amp;clickIdTo=&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null" target="_newPage"><img border="2" width="0" src="/bveircom/images/spacer.gif"><img valign="center" id="imgmenu9" border="0" src="/bveircom/images/menuArrow.gif"></a></td><td id="menuItemName9" align="left" class="menuRes" title="Enterprise Site (NB:This link will open in a new window)"><a style="width:100%" class="leftNavGeneral" name="" href="http://enterprise.eircom.net?clickIdAction=addClickID_gateway&amp;clickIdTo=&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null" target="_newPage">Enterprise Site</a></td></tr></tbody></table></td></tr><tr height="3"><td></td></tr>
+    	
+</tbody></table>
+
+<table width="144" border="0" cellpadding="2" cellspacing="0" style="">
+     	<form name="usefulForm1" action="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0" method="POST"></form><input type="hidden" name="BV_SessionID" value="@@@@1093366767.1257144345@@@@">
+<input type="hidden" name="BV_EngineID" value="ccchadeikdhigekcefeceiedfgodfik.0">
+<input type="hidden" name="clickIdAction" value=""><input type="hidden" name="useful_clickIdTo" value=""><input type="hidden" name="flashDetected" value="False"><input type="hidden" name="site" value="Res"><input type="hidden" name="cid" value="Legal"><input type="hidden" name="store" value="Res"><input type="hidden" name="ProductID" value="null"><input type="hidden" name="newsItemId" value="null"><input type="hidden" name="shopCategory" value="null"><input type="hidden" name="Title" value="null"><input type="hidden" name="extranet" value="null"><input type="hidden" name="chanId" value="0"><tbody><tr height="20"><td class="otherSiteBar"><a class="otherSiteLink"><table cellspacing="1" cellpadding="0"><tbody><tr><td align="RIGHT" width="15"><img valign="center" border="0" src="/bveircom/images/menuArrow.gif" width="18" height="7"></td><td align="left" title="Business Site"><a class="otherSiteLink" id="1" name="/bveircom/mainPage.jsp?site=Bus&amp;chanId=0" href="/cgi-bin/bvsm/bveircom/mainPage.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;site=Bus&amp;chanId=0&amp;clickIdAction=addClickID_useful&amp;clickIdTo=/bveircom/mainPage.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null" target="">Business Site</a></td></tr></tbody></table></a></td></tr><tr height="3"><td></td></tr><form name="loginForm" action="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0" method="POST" onsubmit="return false;"></form><input type="hidden" name="BV_SessionID" value="@@@@1093366767.1257144345@@@@">
+<input type="hidden" name="BV_EngineID" value="ccchadeikdhigekcefeceiedfgodfik.0">
+<input type="hidden" name="action" value="MemberLogin"><input type="hidden" name="flashDetected" value="False"><input type="hidden" name="site" value="Res"><input type="hidden" name="cid" value="Legal"><input type="hidden" name="store" value="Res"><input type="hidden" name="ProductID" value="null"><input type="hidden" name="newsItemId" value="null"><input type="hidden" name="shopCategory" value="null"><input type="hidden" name="Title" value="null"><input type="hidden" name="extranet" value="null"><input type="hidden" name="chanId" value="0"><input type="hidden" name="justLoggedIn" value="true"><tr height="137"><td class="greybackground" align="left" valign="middle"><table cellpadding="0" cellspacing="0"><tbody><tr><td class="labelText">username</td></tr><tr><td><input type="text" name="username" value="" onfocus="clearEmail()" style="width:135" class="inputBox"><input type="hidden" name="usernameText" value="enter email address"><input type="hidden" name="sessionUsername" value="null"></td></tr><tr><td class="labelText">password</td></tr><tr><td><input type="password" name="password" style="width:135" class="inputBox"></td></tr><tr><td align="right" title="Login"><input onclick="javascript:go(&quot;MemberLogin&quot;)" type="image" name="Submit" src="/bveircom/images/loginButton.gif" width="52" height="20"></td></tr><input type="hidden" name="action" value="ForgottenUsername"><tr height="20"><td><a class="generalLinksBold" href="/cgi-bin/bvsm/bveircom/register/UsernameReminder.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;site=Res&amp;undefined"><table cellspacing="1" cellpadding="0"><tbody><tr><td align="RIGHT" width="15"><img valign="center" border="0" src="/bveircom/images/menuArrow.gif" width="18" height="7"></td><td align="left" title="Forgotten Username?"><a class="generalLinksBold" href="/cgi-bin/bvsm/bveircom/register/UsernameReminder.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;site=Res&amp;undefined">Forgotten Username?</a></td></tr></tbody></table></a></td></tr><input type="hidden" name="action" value="ForgottenPassword"><tr height="20"><td><a class="generalLinksBold" href="javascript:forgottenPasswordSelected();"><table cellspacing="1" cellpadding="0"><tbody><tr><td align="RIGHT" width="15"><img valign="center" border="0" src="/bveircom/images/menuArrow.gif" width="18" height="7"></td><td align="left" title="Forgotten Password?"><a class="generalLinksBold" href="javascript:forgottenPasswordSelected();">Forgotten Password?</a></td></tr></tbody></table></a></td></tr><form name="usefulForm5" action="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0" method="POST"></form><input type="hidden" name="BV_SessionID" value="@@@@1093366767.1257144345@@@@">
+<input type="hidden" name="BV_EngineID" value="ccchadeikdhigekcefeceiedfgodfik.0">
+<input type="hidden" name="clickIdAction" value=""><input type="hidden" name="useful_clickIdTo" value=""><input type="hidden" name="flashDetected" value="False"><input type="hidden" name="site" value="Res"><input type="hidden" name="cid" value="Legal"><input type="hidden" name="store" value="Res"><input type="hidden" name="ProductID" value="null"><input type="hidden" name="newsItemId" value="null"><input type="hidden" name="shopCategory" value="null"><input type="hidden" name="Title" value="null"><input type="hidden" name="extranet" value="null"><input type="hidden" name="chanId" value="0"><tr height="20"><td><a class="generalLinksBold" href="/cgi-bin/bvsm/bveircom/register/registerLogin.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;site=Res&amp;chanId=0&amp;"><table cellspacing="1" cellpadding="0"><tbody><tr><td align="RIGHT" width="15"><img valign="center" border="0" src="/bveircom/images/menuArrow.gif" width="18" height="7"></td><td align="left" title="Register Now"><a class="generalLinksBold" id="5" name="/bveircom/register/registerLogin.jsp?site=Res&amp;chanId=0" href="/cgi-bin/bvsm/bveircom/register/registerLogin.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;site=Res&amp;chanId=0&amp;clickIdAction=addClickID_useful&amp;clickIdTo=/bveircom/register/registerLogin.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null" target="">Register Now</a></td></tr></tbody></table></a></td></tr></tbody></table></td></tr><tr height="3"><td></td></tr><form name="quickFind" action="" method="POST"></form><input type="hidden" name="clickIdAction" value=""><input type="hidden" name="useful_clickIdTo" value=""><tr height="20"><td valign="bottom" class="darkGreyBar">&nbsp;&nbsp; Quick Find</td></tr><tr height="40"><td align="center" valign="top" class="darkGreyBar"><select class="quickfind" name="dropdown" onchange="return quickFindSelected()"><option value="invalid">One click away</option><option value="/cgi-bin/bvsm/bveircom/acctmgt/viewbill.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;cid=viewBill&amp;site=Res&amp;chanId=Res_aa:View Your Bill&amp;clickIdAction=addClickID_useful&amp;clickIdTo=/cgi-bin/bvsm/bveircom/acctmgt/viewbill.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null">View Bill Summary</option><option value="/cgi-bin/bvsm/bveircom/acc-details.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;cid=viewBill&amp;site=Res&amp;chanId=Res_ab:View Your Account Summary&amp;clickIdAction=addClickID_useful&amp;clickIdTo=/cgi-bin/bvsm/bveircom/acc-details.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null">View Account Summary</option><option value="/cgi-bin/bvsm/bveircom/payBill/laserPayment.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;site=Res&amp;chanId=Res_c:Pay your bill&amp;clickIdAction=addClickID_useful&amp;clickIdTo=/cgi-bin/bvsm/bveircom/payBill/laserPayment.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null">Pay Your Bill</option><option value="/cgi-bin/bvsm/bveircom/store/entrance.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;store=Res&amp;site=Res&amp;storeChanId=c:Online Store&amp;chanId=c:Online Store&amp;clickIdAction=addClickID_useful&amp;clickIdTo=/cgi-bin/bvsm/bveircom/store/entrance.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null">Online Store</option><option value="/cgi-bin/bvsm/bveircom/fault/fault-track.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;site=Res&amp;chanId=Res_b:Fault Status Checker&amp;clickIdAction=addClickID_useful&amp;clickIdTo=/cgi-bin/bvsm/bveircom/fault/fault-track.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null">Fault Status Checker</option><option value="http://www.eircom.ie/broadband?clickIdAction=addClickID_useful&amp;clickIdTo=http://www.eircom.ie/broadband&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null">Buy Broadband</option><option value="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;cid=NewPstnFaultForm2008&amp;site=Res&amp;clickIdAction=addClickID_useful&amp;clickIdTo=/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp&amp;clickFrom=/bveircom/bladerunner/showContent.jsp&amp;clickFromCID=Legal&amp;clickFromCategory=null">Log A Fault</option></select></td></tr><tr height="3"><td></td></tr>
+	 		<script src="/bveircom/javascript/RelatedSitesMenu.js"></script>
+
+	 		<script language="JavaScript1.2">
+
+				relSitesMenu = new RelatedSitesMenu();
+
+				// Defines the size of the main menu items, width and height
+				relSitesMenu.mainmenuitemsize(142,25);
+
+				// Defines the size of the sub menu items, width and height
+				relSitesMenu.submenuitemsize(-1, 24);
+
+				// Defines the position of the sub menus in relation to the parent
+				relSitesMenu.submenuplacing(0,1);
 				
-			</div><!-- END #col2 -->
+				// Images that make up the border of the main menu. Optional.
+				relSitesMenu.mainborderimages("/bveircom/images/newBorderSpacer.gif","/bveircom/images/newBorderSpacer.gif","/bveircom/images/newBorderSpacer.gif","/bveircom/images/newBorderSpacer.gif");
 
+				// Corners of the images that make up the main menu border.
+				relSitesMenu.mainbordercorners("/bveircom/images/newBorderSpacer.gif","/bveircom/images/newBorderSpacer.gif","/bveircom/images/newBorderSpacer.gif","/bveircom/images/newBorderSpacer.gif");
 
-			<div id="col1">
+				// Left width, right width and height of the top and bottom of the border
+				relSitesMenu.mainborderdimensions(1,1,1);
+				
+				// These lines are for the sub menu borders
+				relSitesMenu.subborderimages("/bveircom/images/newBorderSpacer.gif","/bveircom/images/newBorderSpacer.gif","/bveircom/images/newBorderSpacer.gif","/bveircom/images/newBorderSpacer.gif");
+				relSitesMenu.subbordercorners("/bveircom/images/newBorderSpacer.gif","/bveircom/images/newBorderSpacer.gif","/bveircom/images/newBorderSpacer.gif","/bveircom/images/newBorderSpacer.gif");
+				relSitesMenu.subborderdimensions(1,1,1);
 
+				// Main menu cell color
+				relSitesMenu.mainmenucolor("#ECECEC");
+				
+				// Sub menu cell color
+				relSitesMenu.submenucolor("#ECECEC");
+				
+				// Arrow gif
+				relSitesMenu.mainpreimage("/bveircom/images/menuArrowWide.gif","",22,7);
+				
+				// pop out graphic
+				relSitesMenu.subpreimage("/bveircom/images/menuArrow.gif","",18,7);
 
+				// Graphical "join" between a menu and its sub menu. Optional
+				relSitesMenu.definejoin("/bveircom/images/newBorderSpacer.gif",0);
 
+				// Centers text for Netscape 4.7
+				relSitesMenu.netscapeadjust(3,3);
 
+				// The image that is show between the main menu items
+				relSitesMenu.definemainspacer("/bveircom/images/newBorderSpacer.gif",1);
+				
+				// The image that is shown between the sub menu items
+				relSitesMenu.definesubspacer("/bveircom/images/newBorderSpacer.gif",1);
 
+				// This line is required here
+				relSitesMenu.startMenu();
 
+				// Define the main menu.
+				relSitesMenu.addMenu("frontpage","<a class=otherEircomSitesLink href=\"#\">Other eircom sites</a>", "");
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a name="section-navigation"></a>
-<div id="section-navigation">
-	<ul id="sections">
-	
-	
-	
-		
-		
-		
-		
-		
-		<li id="section-navigation-item-contact-contact_eircom" class="first">
-			<a href="http://www.eircom.net/about/contact/">Contact eircom</a>
-			
-			</li>
-	
-		
-		
-		
-		
-		
-		<li id="section-navigation-item-contact-abuse">
-			<a href="http://www.eircom.net/about/contact/abuse/">Abuse</a>
-			
-			</li>
-	
-		
-		
-		
-		
-		
-		<li id="section-navigation-item-contact-advertising">
-			<a href="http://www.salesonline.ie/contact.html?tduid=3119d0cddb26e6783be2ae11fbb1f07a">Advertising</a>
-			
-			</li>
-	
-		
-		
-		
-		
-		
-		<li id="section-navigation-item-contact-billing">
-			<a href="http://www.eircom.net/about/contact/billing/">Billing</a>
-			
-			</li>
-	
-		
-		
-		
-		
-		
-		<li id="section-navigation-item-contact-broadband_support">
-			<a href="http://broadbandsupport.eircom.net">Broadband Support</a>
-			
-			</li>
-	
-		
-		
-		
-		
-		
-		<li id="section-navigation-item-contact-business_customers">
-			<a href="http://business.eircom.net/SME/contacts/">Business Customers</a>
-			
-			</li>
-	
-		
-		
-		
-		
-		
-		<li id="section-navigation-item-contact-web_team">
-			<a href="http://www.eircom.net/about/contact/webteam/">Web Team</a>
-			
-			</li>
-	
-		
-		
-		
-		
-		
-		<li id="section-navigation-item-contact-business_support">
-			<a href="http://business.eircom.net/SME/contacts/">Business Support</a>
-			
-			</li>
-	
-		
-		
-		
-		
-		
-		<li id="section-navigation-item-contact-dial-up_support">
-			<a href="http://www.eircom.net/about/contact/narrowband/">Dial-up Support</a>
-			
-			</li>
-	
-		
-		
-		
-		
-		
-		<li id="section-navigation-item-contact-sales" class="last">
-			<a href="http://www.eircom.net/about/contact/sales/">Sales</a>
-			
-			</li>
-	
-	</ul><!-- END #sections -->
-</div><!-- END #section-navigation -->
-
-<!-- ~ BEGIN Global/leftColAds.jspf ~ -->
-				<p>
-					<a href="http://clk.tradedoubler.com/click?p=17132&amp;a=1037749&amp;g=16709686" title="http://www.eircom.net/bundles"><img src="http://home.eircom.net/Images/portal/global/_dev/home/bundle-save.png" alt="Bundle &amp; Save"></a>
-				</p>
-				<div id="sideNavSmall1" class="ad side-bar-ad"></div>
-				<div id="sideNavSmall2" class="ad side-bar-ad"></div>
-				<div id="sideNavSmall3" class="ad side-bar-ad"></div>
-<!-- ~ END Global/leftColAds.jspf ~ -->
-
-			</div><!-- END #col1 -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- BEGIN bottomContentAndHtmlClosing pageFrame tag -->
-<!-- channel: About | section: Privacy | subSection:  | provider:  | secureUrls:  -->
-
-
-
-
-
-<!-- ~# BEGIN global tracking:other tag #~ -->
-
-			
-
-	<!-- BEGIN additional tracking -->
-	<!-- BEGIN Bluemetrix -->
-	<span id="bluemetrix-web-bug" class="web-bug bluemetrix">
-		<script type="text/javascript" src="http://t.bmmetrix.com/ie/eircom_ie/bmv13.js"></script>
-		<script type="text/javascript">
-			<!--
-			//1.3.0.7
-			var bmsec = new Array ();
-			getBMqs('', '', '', 'eircom_ie', 'ie', 'UTF-8', bmsec);
-			//-->
 			</script>
-		<noscript><img src="http://ie-stat.bmmetrix.com/V13a****eircom_ie/ie/UTF-8//" alt="" /></noscript>
-	</span>
-	<!-- End Bluemetrix -->
-	<!-- END additional tracking -->
+
+			
+</tbody></table>
+
+
+<div id="vrsub2" style="position: absolute; visibility: visible;"></div><table width="144" border="0" cellpadding="2" cellspacing="0" style="">
+     	<form name="relatedSites" action="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0" id="relatedSites"></form><input type="hidden" name="BV_SessionID" value="@@@@1093366767.1257144345@@@@">
+<input type="hidden" name="BV_EngineID" value="ccchadeikdhigekcefeceiedfgodfik.0">
+<input type="hidden" name="clickIdAction" value=""><input type="hidden" name="useful_clickIdTo" value=""><input type="hidden" name="flashDetected" value="False"><input type="hidden" name="site" value="Res"><input type="hidden" name="cid" value="Legal"><input type="hidden" name="store" value="Res"><input type="hidden" name="ProductID" value="null"><input type="hidden" name="newsItemId" value="null"><input type="hidden" name="shopCategory" value="null"><input type="hidden" name="Title" value="null"><input type="hidden" name="extranet" value="null"><input type="hidden" name="chanId" value="0"><script language="JavaScript1.2">relSitesMenu.showMainMenu(); </script></table><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><img src="/bveircom/images/newBorderSpacer.gif" border="0" width="1" height="25"></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="center" width="142" height="25" bgcolor="#ECECEC"><div class="menu" id="noimx2" onmouseover="a4(2)" onmouseout="a7(2)" style="position:relative; visibility: visible"><img name="imx2" align="absmiddle" border="0" src="/bveircom/images/menuArrowWide.gif" width="22" height="7"><a class="otherEircomSitesLink" href="#">Other eircom sites</a></div></td></tr></tbody></table></td><td><img src="/bveircom/images/newBorderSpacer.gif" border="0" width="1" height="25"></td></tr><tr><td colspan="3"><img src="/bveircom/images/newBorderSpacer.gif" border="0" width="1" height="1"><img src="/bveircom/images/newBorderSpacer.gif" border="0" width="142" height="1"><img src="/bveircom/images/newBorderSpacer.gif" border="0" width="1" height="1"></td></tr></tbody></table><script language="JavaScript1.2">relSitesMenu.addSubMenu("frontpage", "", "eircom.net", "http://www.eircom.net"); </script><script language="JavaScript1.2">relSitesMenu.addSubMenu("frontpage", "", "Investor relations", "http://investorrelations.eircom.net"); </script><script language="JavaScript1.2">relSitesMenu.addSubMenu("frontpage", "", "eircom business extranet", "http://www.eircom.ie/extnet"); </script><script language="JavaScript1.2">relSitesMenu.addSubMenu("frontpage", "", "eircom pricelist", "http://www.eircom.ie/pricing"); </script><script language="JavaScript1.2">relSitesMenu.addSubMenu("frontpage", "", "eircom wholesale", "http://www.eircomwholesale.ie"); </script><script language="JavaScript1.2">relSitesMenu.addSubMenu("frontpage", "", "eircom phonewatch", "http://www.phonewatch.ie"); </script><script language="JavaScript1.2">relSitesMenu.addSubMenu("frontpage", "", "eircom business systems", "http://www.eircombusinesssystems.ie"); </script><script language="JavaScript1.2">relSitesMenu.addSubMenu("frontpage", "", "Email", "https://secure.eircom.net/email/"); </script><script language="JavaScript1.2">relSitesMenu.addSubMenu("frontpage", "", "eircom NI", "http://www.eircom.co.uk/niinfo/"); </script><script language="JavaScript1.2">relSitesMenu.addSubMenu("frontpage", "", "Broadband A to Z", "http://www.broadbandatoz.ie"); </script><script language="JavaScript1.2">relSitesMenu.showMenu(); </script><div class="menu" id="vrsub3" onmouseover="a6(3)" onmouseout="c2[c3[3].d4].b4=0;a5(3)" style="position:absolute; z-index:2; top:-400;left:-400;visibility: hidden;"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td height="1"><img src="/bveircom/images/newBorderSpacer.gif" border="0" width="1" height="1"></td><td height="1"><img src="/bveircom/images/newBorderSpacer.gif" border="0" width="100%" height="1"></td><td height="1"><img src="/bveircom/images/newBorderSpacer.gif" border="0" width="1" height="1"></td></tr><tr><td><img src="/bveircom/images/newBorderSpacer.gif" border="0" width="1" height="249"></td><td><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td class="menu" valign="center" width="-1" height="24" bgcolor="#ECECEC"><div class="menu" id="noimx3" onmouseover="a4(3)" onmouseout="a7(3)" style="position:relative; width:-1;"><img align="absmiddle" border="0" src="/bveircom/images/menuArrow.gif" width="18" height="7"><a class="otherEircomSitesLink" href="http://www.eircom.net" target="blank">eircom.net</a>&nbsp;&nbsp;</div></td></tr><tr><td width="-1" height="1"><img border="0" src="/bveircom/images/newBorderSpacer.gif" width="100%" height="1"></td></tr><tr><td class="menu" valign="center" width="-1" height="24" bgcolor="#ECECEC"><div class="menu" id="noimx4" onmouseover="a4(4)" onmouseout="a7(4)" style="position:relative; width:-1;"><img align="absmiddle" border="0" src="/bveircom/images/menuArrow.gif" width="18" height="7"><a class="otherEircomSitesLink" href="http://investorrelations.eircom.net" target="blank">Investor relations</a>&nbsp;&nbsp;</div></td></tr><tr><td width="-1" height="1"><img border="0" src="/bveircom/images/newBorderSpacer.gif" width="100%" height="1"></td></tr><tr><td class="menu" valign="center" width="-1" height="24" bgcolor="#ECECEC"><div class="menu" id="noimx5" onmouseover="a4(5)" onmouseout="a7(5)" style="position:relative; width:-1;"><img align="absmiddle" border="0" src="/bveircom/images/menuArrow.gif" width="18" height="7"><a class="otherEircomSitesLink" href="http://www.eircom.ie/extnet" target="blank">eircom business extranet</a>&nbsp;&nbsp;</div></td></tr><tr><td width="-1" height="1"><img border="0" src="/bveircom/images/newBorderSpacer.gif" width="100%" height="1"></td></tr><tr><td class="menu" valign="center" width="-1" height="24" bgcolor="#ECECEC"><div class="menu" id="noimx6" onmouseover="a4(6)" onmouseout="a7(6)" style="position:relative; width:-1;"><img align="absmiddle" border="0" src="/bveircom/images/menuArrow.gif" width="18" height="7"><a class="otherEircomSitesLink" href="http://www.eircom.ie/pricing" target="blank">eircom pricelist</a>&nbsp;&nbsp;</div></td></tr><tr><td width="-1" height="1"><img border="0" src="/bveircom/images/newBorderSpacer.gif" width="100%" height="1"></td></tr><tr><td class="menu" valign="center" width="-1" height="24" bgcolor="#ECECEC"><div class="menu" id="noimx7" onmouseover="a4(7)" onmouseout="a7(7)" style="position:relative; width:-1;"><img align="absmiddle" border="0" src="/bveircom/images/menuArrow.gif" width="18" height="7"><a class="otherEircomSitesLink" href="http://www.eircomwholesale.ie" target="blank">eircom wholesale</a>&nbsp;&nbsp;</div></td></tr><tr><td width="-1" height="1"><img border="0" src="/bveircom/images/newBorderSpacer.gif" width="100%" height="1"></td></tr><tr><td class="menu" valign="center" width="-1" height="24" bgcolor="#ECECEC"><div class="menu" id="noimx8" onmouseover="a4(8)" onmouseout="a7(8)" style="position:relative; width:-1;"><img align="absmiddle" border="0" src="/bveircom/images/menuArrow.gif" width="18" height="7"><a class="otherEircomSitesLink" href="http://www.phonewatch.ie" target="blank">eircom phonewatch</a>&nbsp;&nbsp;</div></td></tr><tr><td width="-1" height="1"><img border="0" src="/bveircom/images/newBorderSpacer.gif" width="100%" height="1"></td></tr><tr><td class="menu" valign="center" width="-1" height="24" bgcolor="#ECECEC"><div class="menu" id="noimx9" onmouseover="a4(9)" onmouseout="a7(9)" style="position:relative; width:-1;"><img align="absmiddle" border="0" src="/bveircom/images/menuArrow.gif" width="18" height="7"><a class="otherEircomSitesLink" href="http://www.eircombusinesssystems.ie" target="blank">eircom business systems</a>&nbsp;&nbsp;</div></td></tr><tr><td width="-1" height="1"><img border="0" src="/bveircom/images/newBorderSpacer.gif" width="100%" height="1"></td></tr><tr><td class="menu" valign="center" width="-1" height="24" bgcolor="#ECECEC"><div class="menu" id="noimx10" onmouseover="a4(10)" onmouseout="a7(10)" style="position:relative; width:-1;"><img align="absmiddle" border="0" src="/bveircom/images/menuArrow.gif" width="18" height="7"><a class="otherEircomSitesLink" href="https://secure.eircom.net/email/">Email</a>&nbsp;&nbsp;</div></td></tr><tr><td width="-1" height="1"><img border="0" src="/bveircom/images/newBorderSpacer.gif" width="100%" height="1"></td></tr><tr><td class="menu" valign="center" width="-1" height="24" bgcolor="#ECECEC"><div class="menu" id="noimx11" onmouseover="a4(11)" onmouseout="a7(11)" style="position:relative; width:-1;"><img align="absmiddle" border="0" src="/bveircom/images/menuArrow.gif" width="18" height="7"><a class="otherEircomSitesLink" href="http://www.eircom.co.uk/niinfo/" target="blank">eircom NI</a>&nbsp;&nbsp;</div></td></tr><tr><td width="-1" height="1"><img border="0" src="/bveircom/images/newBorderSpacer.gif" width="100%" height="1"></td></tr><tr><td class="menu" valign="center" width="-1" height="24" bgcolor="#ECECEC"><div class="menu" id="noimx12" onmouseover="a4(12)" onmouseout="a7(12)" style="position:relative; width:-1;"><img align="absmiddle" border="0" src="/bveircom/images/menuArrow.gif" width="18" height="7"><a class="otherEircomSitesLink" href="http://www.broadbandatoz.ie" target="blank">Broadband A to Z</a>&nbsp;&nbsp;</div></td></tr></tbody></table></td><td><img src="/bveircom/images/newBorderSpacer.gif" border="0" width="1" height="249"></td></tr><tr><td><img src="/bveircom/images/newBorderSpacer.gif" border="0" width="1" height="1"></td><td><img src="/bveircom/images/newBorderSpacer.gif" border="0" width="100%" height="1"></td><td><img src="/bveircom/images/newBorderSpacer.gif" border="0" width="1" height="1"></td></tr><tr height="3"><td></td></tr>
+</tbody></table>
+
+
+<script language="javascript">
+
+function hover(elementNumber)
+{
+	document.getElementById("menu" + elementNumber).className = "menuHover";
+	document.getElementById("menuItemName" + elementNumber).className = "menuHover";
+	document.getElementById("imgmenu" + elementNumber).src = arrowWhiteImage.src;
+}
+
+function hover_off(elementNumber)
+{
+	document.getElementById("menu" + elementNumber).className = "menuRes";
+	document.getElementById("menuItemName" + elementNumber).className = "menuRes";
+	document.getElementById("imgmenu" + elementNumber).src = arrowImage.src;
+}
+
+function hover_offSecondary(elementNumber)
+{
+	document.getElementById("menu" + elementNumber).className = "menuResSecondary";
+	document.getElementById("menuItemName" + elementNumber).className = "menuResSecondary";
+	document.getElementById("imgmenu" + elementNumber).src = arrowImage.src;
+}
+
+function hover_offTertiary(elementNumber)
+{
+	document.getElementById("menu" + elementNumber).className = "menuResTertiary";
+	document.getElementById("menuItemName" + elementNumber).className = "menuResTertiary";
+	document.getElementById("imgmenu" + elementNumber).src = arrowImage.src;
+}
+
+//====================================================
+// ECHS3341
+// New function added for 4th display level
+//====================================================
+function hover_offFour(elementNumber)
+{
+	document.getElementById("menu" + elementNumber).className = "menuResFour";
+	document.getElementById("menuItemName" + elementNumber).className = "menuResFour";
+	document.getElementById("imgmenu" + elementNumber).src = arrowImage.src;
+}
+
+function forgottenPasswordSelected()
+{
+    ns4 = (document.layers)? true:false;
+	if(ns4)
+	{
+            	window.document.Layer1.document.loginForm.username.value = window.document.Layer1.document.loginForm.username.value.toLowerCase();
+	}
+	else
+	{
+            	document.loginForm.username.value = document.loginForm.username.value.toLowerCase();
+        }
+
+       go("ForgottenPassword");
+}
+
+function refreshPage()
+{
+	window.history.go(0);
+}
+
+
+function go(action_value)
+{
+	ns4 = (document.layers)? true:false
+	ie4 = (document.all)? true:false
+
+	if(ns4)
+	{
+    		window.document.Layer1.document.loginForm.action.value=action_value;
+    		window.document.Layer1.document.loginForm.submit();
+    	}
+    	else
+	{
+		document.loginForm.action.value=action_value;
+		document.loginForm.submit();
+	}
+
+	var username = document.loginForm.username.value;
+	// Now check if we need to set the username cookie
+	setUsernameCookie(username);
+}
+
+// Funciton that sets the username cookie if the username is different for this session
+function setUsernameCookie(username)
+{
+	if (username != null && username != ""  && username != "enter email address")
+	{
+		// Set the cookie if different from the 1 already stored
+		var cookie_name = "EIRCOM_USERNAME";
+
+		if(document.cookie != document.cookie)
+		{
+			index 	= document.cookie.indexOf(cookie_name);
+		}
+		else
+		{
+			index 	= -1;
+		}
+
+		if (index == -1)
+		{
+			document.cookie = cookie_name + "=" + username + "; path=/; expires=Monday, 04-Apr-2010 05:00:00 GMT";
+		}
+	}
+}
+
+
+function clearEmail()
+{
+	ns4 = (document.layers)? true:false;
+	if(ns4)
+	{
+    		if (window.document.Layer1.document.loginForm.username.value==document.loginForm.usernameText.value)
+    		{
+			window.document.Layer1.document.loginForm.username.value='';
+		}
+    	}
+    	else
+	{
+		if (document.loginForm.username.value==document.loginForm.usernameText.value)
+		{
+			document.loginForm.username.value='';
+		}
+	}
+}
+
+//==============================================================================
+// EWEB3807 
+// Function for quick find drop down list
+//==============================================================================
+function quickFindSelected() 
+{
+	var chosenListOption = document.quickFind.dropdown.options[document.quickFind.dropdown.selectedIndex].value;
 	
-<!-- ~# END global tracking:other tag #~ -->
+	if("invalid" != chosenListOption)
+	{
+		location.href = document.quickFind.dropdown.options[document.quickFind.dropdown.selectedIndex].value;
+	}
+}
 
 
-		</div><!-- END #content -->
+</script>
+
+			</div></td>
+
+			<td width="4">
+				&nbsp;
+			</td>
+
+			<td valign="top" width="100%">
+				<table cellpadding="0" cellspacing="0">
+					
+					
+					<tbody><tr>
+						<td width="572" valign="top" align="left">
+
+
+
+
+
+
+
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" valign="top" height="25" width="100%">
+
+<tbody><tr>
+<td valign="top">
+	<table border="0" cellpadding="0" cellspacing="0" valign="top">
+		<tbody><tr>
+			<td valign="top">
+				</td><td valign="top"><a class="generalLinksNoUL" href="/cgi-bin/bvsm/bveircom/mainPage.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;site=Res&amp;chanId=0"><script src="/bveircom/images/eircomnet_redirect.js"></script>You are here :</a></td>
+			
 		
-<!-- BEGIN footer.tag -->
+			
+			<td class="content" valign="top">&nbsp;</td><td class="breadCrumbEnd" valign="top">Legal</td>
+		</tr>
+	</tbody></table>
+	
+</td>
+</tr>
+</tbody></table>
+
+
+
+  
+<table border="0" cellpadding="0" cellspacing="4" width="100%" valign="top">
+          
+        <tbody><tr valign="top">
+          	<td align="left" valign="top" width="100%">
+          
+          		<!--PageContent-->
+<eircomgenericitem></eircomgenericitem>     <h3>eircom privacy statement:</h3>    <p>We have developed this privacy statement because we want you to feel confident about the privacy and security of your personal details when you visit or use the eircom.ie website. We operate a strict opt-in policy for residential customers. We will not send you any information unless you have requested it, or unless someone, who we will identify, has requested that we pass that information on to you. We will not pass on your details to any&nbsp;third party for email or marketing purposes.</p>    <p>eircom Limited is registered with the Data Protection Commissioner as a Data Controller and all handling and processing of your personal data is strictly in accordance with the data protection principles contained in the Data Protection Acts, 1988-2003.</p>    <p>The eircom.ie servers are located in a secure facility and any access to your personal data is strictly controlled and limited only to persons who are authorised and have appropriate security clearance to access the servers.</p>    <p>Credit card and Laser card details are stored by eircom in an encrypted form to provide extra security for your online transactions.</p>    <h4>How we collect information:</h4>    <p>You have the option to register on the eircom.ie website where you will need to provide us with some personal details to complete registration such as a username, password, telephone number and account number. This will allow us to provide you with value add services such as viewing and paying your bill online, ability to order products and services and log and track a fault when you fully register with the site. You can also provide us with additional information, which will allow us to provide you with a more personalised experience whenever you visit our website.</p>    <p>Customers should note that, while eircom makes all commercial efforts to protect our customers’ privacy, customers should be aware that information disclosed while connected to the Internet is transferred to the eircom servers over a publicly available telecommunications network.&nbsp;eircom cannot be held responsible, and accept no liability, for unauthorised access to the public network beyond its reasonable control and all information provided by customers is done entirely at the customers’ own risk.</p>    <h4>How we use your information:</h4>    <p>We use your information provided to offer you a more personalised online experience and to inform you of products and services relevant to your needs. Registration also allows you access to value-add services such as e-billing, fault logging and ordering products in the online store. Your personal information may also be used to verify your identity, to protect against fraud, and to send you relevant updates e.g. notification of your bill. eircom does not share your information with any&nbsp;third party.</p>    <h4>Opt-in / Opt-out:</h4>    <p>We operate a strict&nbsp;opt-in policy for our residential customers. That means we will not send you any information unless you have requested to receive email updates from us.&nbsp; For business customers, we operate, in compliance with the relevant legislation, an opt-out policy.</p>    <p>If you (whether a residential or business customer) wish to be removed from our list, at any time, (opt-out) you can do so by clicking on the link at the bottom of each email communication you receive from us, and if it is to do with billing notification you can turn this option off by selecting email notifications in the&nbsp;<a href="/cgi-bin/bvsm/bveircom/register/registerLogin.jsp?site=Res&amp;cid=viewBill&amp;BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0">View Your Bill</a> &nbsp;section.</p>    <h4>Use of cookie technology:</h4>    <p>The eircom website creates a "cookie" when you first register online. A cookie is a piece of information, like a tag, which some websites create against your profile. Our cookie will store some basic information, which helps us to identify if you have visited the site before. This will allow us provide you with personalised content or present you with product and service information based on your previous behaviour on the site.</p>    <h4>How to disable cookies:</h4>    <p>If you do not want a cookie to be created on your PC, web browsers such as Netscape and Internet Explorer provide the option to disable them. Please bear in mind that some personalised services on eircom.ie, or from other non-eircom websites, may not be available if you choose to disable cookies. You can find out more about cookies on&nbsp;<a title="" target="_blank" href="http://www.cookiecentral.com/">www.cookiecentral.com</a>.</p>    <h4>Contact us:</h4>    <p>If you have any additional questions about our privacy policy or how we collect and use your personal data, please contact webmaster@eircom.ie or visit our <a target="" href="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;cid=OurServicesRes&amp;store=Res&amp;chanId=-536882381" type="hyperlink">Contact Us</a> section.</p>    <h4>Update information:</h4>    <p>If you would like to update your registration profile at any stage you can do so by logging into to the website with your username and password and select "Your registration details" link on the left-hand navigation to update your personal details or to register a new account number.</p>    &nbsp; &nbsp; &nbsp; &nbsp;			 
+      			
+            		<p></p>
+           		<!--End PageContent-->
+            	</td>
+        </tr>
+            
+        <tr>
+        	<td align="right" class="content">
+        		
+			 Last updated: Dec 09, 2008<br>
+			
+        	</td>
+        </tr>
+            
+</tbody></table>
+  
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-				
-				
-		<div id="footer" class="clearfix">
-			<div id="footer-links" style="width:400px;">
-				
-					
-					
-					<a href="http://www.eircom.net/labs">eircom Labs</a> | 
-				
-					
-					
-					<a href="http://www.eircom.net/about/contact/">Contact Us</a> | 
-				
-					
-					
-					<a href="http://www.eircom.net/about/legal/">Legal Disclaimer</a> | 
-				
-					
-					
-					<a href="http://www.eircom.net/safesurfing/">Safe Surfing</a> | 
-				
-					
-					
-						
-					
-					<a target="_blank" href="http://clk.tradedoubler.com/click?p=17132&amp;a=1037749&amp;g=17119040">ISPai</a> | 
-				
-					
-					
-						
-					
-					<a target="_blank" href="http://clk.tradedoubler.com/click?p=17132&amp;a=1037749&amp;g=17119190">hotline.ie</a>
-				
-			</div>
-			<div id="footer-terms">
-				
-					
-					
-						
-					
-					<a target="_blank" href="http://clk.tradedoubler.com/click?p=17132&amp;a=1037749&amp;g=17119202">Ad info</a> | 
-				
-					
-					
-					<a href="http://www.eircom.net/policy">Acceptable Usage Policy</a> | 
-				
-					
-					
-					<a href="http://www.eircom.net/about/privacy/">Privacy Statement</a>
-				
-			</div>
-		</div><!-- END #footer -->
-
-<!-- BEGIN footer.tag -->
-
-		<p class="company-info">eircom Limited. Private Company Limited by Shares.
-			Registered in Dublin. Registration Number 98789. <br>Registered Office 
-			<!-- 114 St. Stephen's Green West, Dublin 2.-->
-			1 Heuston South Quarter, St. John's Road, Dublin 8.
-		</p>
-		<p class="company-info">© 2009 eircom. All rights reserved.</p>
-
-	</div><!-- END #wrapper -->
 	
 
 
-<!-- END bottomContentAndHtmlClosing.tag pageFrame tag --></body></html>
+
+
+
+
+
+
+
+
+<script language="javascript">
+
+	var  BUS_ACC_DOESNT_MATCH_G = 	"The account number you have chosen is a business account.\n\n" +
+					"To be re-directed to the correct order page for your chosen account click 'ok'. To cancel and choose another account click 'cancel'.";
+
+	var RES_ACC_DOESNT_MATCH_G = 	"The account number you have chosen is a residential account.\n\n" +
+					"To be re-directed to the correct order page for your chosen account click 'ok'. To cancel and choose another account click 'cancel'.";
+
+	var NO_ALTERNATIVE_RES_PRODUCT_G ="You must have a business account to avail of this product. " +
+					  "\n\nTo be re-directed to register a business account click 'ok'. To cancel and choose another account click 'cancel'.";
+
+	var NO_ALTERNATIVE_BUS_PRODUCT_G ="You must have a residential account to avail of this product. " +
+					  "\n\nTo be re-directed to register a residential account click 'ok'. To cancel and choose another account click 'cancel'.";
+
+	var ACCOUNT_INACTIVE_PENDING_G = "Your account must be fully active to order this product. \n\nTo be re-directed to register another account click 'ok'. " +
+					 "To cancel and choose another account click 'cancel'.";
+
+	var NO_PSTN_OR_ISDN_LINES_G =   "Apologies, but we are currently upgrading this section, if you wish to order this product at this time please freefone 1901.";
+
+</script>
+
+<script language="javascript">
+	var MSG_ISDN_NOT_AVAIL_G = 	"Unfortunately eircom ISDN is not available in your area currently.\n\n" +
+							"Please phone 1901 who will record your interest in this product.";
+
+	var MSG_NO_PSTN_ON_ACC_G = 	"There are no PSTN lines associated with this account number.\n\n" +
+							"Please select another account number.";
+
+	var MSG_RES_CANT_SELECT_MAILBOX_GOTO_BASKET_G = 	"Family mailbox cannot be selected while call answering (1 mailbox) / internet divert is selected." +
+								"\n\nCall answering (1 mailbox) / internet divert must be removed from the shopping basket before you can continue. ";
+
+	var MSG_RES_CANT_SELECT_CALL_ANSWERING_GOTO_BASKET_G = 	"Call answering (1 mailbox)/ internet divert cannot be selected while family mailbox is selected." +
+								"\n\nFamily mailbox must be removed from the shopping basket before you can continue. ";
+
+	var MSG_BUS_CANT_SELECT_MAILBOX_GOTO_BASKET_G = 	"Call answering (up to 4 mailboxes) cannot be selected while call answering (1 mailbox)/ internet divert is selected." +
+								"\n\nCall answering (1 mailbox)/ internet divert must be removed from the shopping basket before you can continue. ";
+
+	var MSG_BUS_CANT_SELECT_CALL_ANSWERING_GOTO_BASKET_G = 	"Call answering (1 mailbox)/ internet divert cannot be selected while call answering (up to 4 mailboxes) is selected." +
+								"\n\nCall answering (up to 4 mailboxes) must be removed from the shopping basket before you can continue. ";
+
+	var MSG_NO_NONADSL_PSTN_ON_ACC_G			= " Broadband has been detected on all PSTN lines on this account. \n\n"+
+								" Please select another account number or call 1800 503 303.";
+
+
+	var MSG_NO_VALID_PSTN_ON_ACC_G			= " There are no PSTN lines associated with this account number. \n\n"+
+							" Please select another account number or call 1800 503 303.";
+
+	var MAX_PSTN_LINES_FOR_ADSL_G			= "There are too many PSTN lines associated with this account number. \n\n"+
+							" Please select another account number or call 1800 503 303.";
+
+
+</script>
+
+
+<script language="JavaScript">
+//----------------------------------------------------------------------
+//
+//  Function Name   -   opens a blade runner link
+//
+//----------------------------------------------------------------------
+function openBladeRunnerDocs(urlLink)
+{
+	window.open(urlLink);
+}
+
+// If there is a login form then set the username using the appropriate information.
+if (document.loginForm)
+{
+	var eircomUsername 	= "";
+	var formUsername 	= document.loginForm.username.value;
+	var loginUsername	= document.loginForm.usernameText.value;
+	var sessionUsername	= document.loginForm.sessionUsername.value;
+	var cookieUsername	= "";
+
+	if(document.cookie)
+	{
+		index = document.cookie.indexOf("EIRCOM_USERNAME");
+		if (index != -1)
+		{
+			namestart 	= (document.cookie.indexOf("=", index) + 1);
+			nameend 	= document.cookie.indexOf(";", index);
+
+			if (nameend == -1)
+			{
+				nameend = document.cookie.length;
+			}
+
+			cookieUsername = document.cookie.substring(namestart, nameend);
+		}
+	}
+
+	// Set the username value to be displayed on page load
+	if (formUsername != null && formUsername != "" && formUsername != "null" && formUsername != loginUsername)
+	{
+		eircomUsername = formUsername;
+
+	}
+	else if (sessionUsername != null && sessionUsername != "" && sessionUsername != "null" && sessionUsername != loginUsername)
+	{
+		eircomUsername = sessionUsername;
+	}
+	else if (cookieUsername != null && cookieUsername != "" && cookieUsername != "null")
+	{
+		eircomUsername = cookieUsername;
+	}
+	else
+	{
+		eircomUsername = loginUsername;
+	}
+
+	// Set the username value
+	document.loginForm.username.value = eircomUsername;
+}
+
+</script>
+
+
+
+</td>
+
+
+
+</tr>
+
+</tbody></table><table cellspacing="0" cellpadding="0" width="100%"><tbody><tr height="4"><td>&nbsp;</td></tr><tr><td width="100%" align="center"><a href="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;cid=Legal" class="generalLinks">Privacy Statement</a></td></tr><tr><td width="100%" align="center"><a href="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;cid=DisabilityServicesInfo " class="generalLinks">Disability Services</a><br>
+<font size="1">eircom Limited. Private Company Limited by Shares. Registered in Dublin. Registration Number 98789.Registered Office - 1 Heuston South Quarter, St. John's Road, Dublin 8.  </font><br><a href="/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&amp;BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&amp;cid=Legal" class="generalLinks">©  2009 eircom All rights reserved</a>
+</td></tr></tbody></table>
+
+</td></tr></tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+</body></html>
