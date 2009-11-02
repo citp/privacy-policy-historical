@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winealign.com privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502093407id_/http%3A//www.winealign.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winealign.com privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102052039id_/http%3A//www.winealign.com/privacy) for the most accurate reproduction.*
 
 # WineAlign
 
