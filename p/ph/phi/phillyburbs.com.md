@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phillyburbs.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616205314id_/http%3A//www.phillyburbs.com/tools/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phillyburbs.com privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102083850id_/http%3A//www.phillyburbs.com/tools/privacy_policy) for the most accurate reproduction.*
 
 # phillyBurbs.com: Privacy Policy
 
@@ -25,3 +25,7 @@ We don't mind if you share stories from our sites with friends and family, or if
 ** From the AP: "Associated Press text, photo, graphic, audio and/or video material shall not be published, broadcast, rewritten for broadcast or publication or redistributed directly or indirectly in any medium. Neither these AP materials nor any portion thereof may be stored in a computer except for personal and non-commercial use. The AP will not be held liable for any delays, inaccuracies, errors or omissions therefrom or in the transmission or delivery of all or any part thereof or for any damages arising from any of the foregoing." 
 
 I still don't get it or I have more questions.Contact Executive Editor Karl Smith by phone (215.269.5061) or e-mail.
+
+Yahoo! is an ad network partner that displays ads on Calkins Media sites. To improve your ad experience on Calkins Media sites and elsewhere on the Internet, we may send non-personal information to Yahoo! based on your browser’s activities, such as type of pages viewed and categories of interests, so that the advertising you see is relevant to you. Yahoo! also may use information regarding its own users to select which ads to display. 
+
+[Learn more](http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html) about Yahoo!’s ad practices, including how to opt out of using anonymous information to select which ads to show you.
