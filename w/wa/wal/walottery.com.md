@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walottery.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416041645id_/http%3A//www.walottery.com/sections/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walottery.com privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102074548id_/http%3A//www.walottery.com/sections/Privacy) for the most accurate reproduction.*
 
 # Washington's Lottery -- Press Room
 
@@ -29,7 +29,7 @@ If you do nothing during your visit to our website but browse, read pages or dow
 
 
 
-The information we automatically collect or store is logged by Publicis and is used by Washington's Lottery to improve the content of our Web services and to help us understand how people are using our services. The Lottery analyzes this information to determine how our website is being used, so that we may continually improve the site's usefulness to the public.
+The information we automatically collect or store is logged by Cole & Weber and is used by Washington's Lottery to improve the content of our Web services and to help us understand how people are using our services. The Lottery analyzes this information to determine how our website is being used, so that we may continually improve the site's usefulness to the public.
 
 ## What we collect if you volunteer information. 
 
@@ -74,7 +74,7 @@ Applets are tools downloaded to your computer to work with the software you have
 
 ## Security
 
-Publicis, as developer of the Washington's Lottery website, and Washington's Lottery, as manager, have taken several steps to safeguard the integrity of its data and prevent unauthorized access to information maintained by Washington's Lottery. These measures are designed and intended to prevent corruption of data, to block unknown or unauthorized access to our systems and information, and to provide reasonable protection of private information in our possession. This information should not be construed in any way as giving business, legal, or other advice, or warranting as foolproof, the security of information provided via Washington's Lottery websites. 
+Cole & Weber, as developer of the Washington's Lottery website, and Washington's Lottery, as manager, have taken several steps to safeguard the integrity of its data and prevent unauthorized access to information maintained by Washington's Lottery. These measures are designed and intended to prevent corruption of data, to block unknown or unauthorized access to our systems and information, and to provide reasonable protection of private information in our possession. This information should not be construed in any way as giving business, legal, or other advice, or warranting as foolproof, the security of information provided via Washington's Lottery websites. 
 
 ## Disclaimer
 
