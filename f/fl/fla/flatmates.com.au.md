@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flatmates.com.au privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618071215id_/http%3A//flatmates.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flatmates.com.au privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102031939id_/http%3A//www.flatmates.com.au/privacy.html) for the most accurate reproduction.*
 
 # Flatmates.com.au - Privacy
 
