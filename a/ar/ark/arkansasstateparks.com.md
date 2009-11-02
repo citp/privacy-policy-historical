@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arkansasstateparks.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426002744id_/http%3A//www.arkansasstateparks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arkansasstateparks.com privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102134019id_/http%3A//www.arkansasstateparks.com/privacy) for the most accurate reproduction.*
 
 # Untitled Page
 
