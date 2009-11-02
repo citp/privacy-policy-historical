@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestdealinsurance.co.uk privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618073035id_/http%3A//www.bestdealinsurance.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestdealinsurance.co.uk privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102160736id_/http%3A//www.bestdealinsurance.co.uk/privacy) for the most accurate reproduction.*
 
 # Best Deal Insurance - Privacy Policy
 
