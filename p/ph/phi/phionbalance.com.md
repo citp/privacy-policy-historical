@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the phionbalance.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913215230id_/http%3A//www.phionbalance.com/App_UI/site/pHion/Public/Info.aspx%3Fc%3DOZ2zalwHBir7dURf/0icSw205Kj7SmYr) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phionbalance.com privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102050601id_/http%3A//www.phionbalance.com/App_UI/site/pHion/Public/Info.aspx%3Fc%3DOZ2zalwHBir7dURf/0icSw205Kj7SmYr) for the most accurate reproduction.*
 
 # Privacy Policy of pHion, Scottsdale (AZ)
 
 ## Your Privacy
 
-Last Updated: October 1, 2007
-
-pHion’s commitment to privacy is straight-forward: Your personal information is your personal and private property. We never sell or share your information with third-party marketers unless you explicitly instruct us to do so. To demonstrate our commitment to your privacy, we work with TRUSTe to have them audit our Web site and e-mail applications, while they are not done yet we will update the site when the final results are. In addition, every one of our employees is required to sign a Privacy Pledge upon starting a new job with us.
+Our commitment to privacy is straight-forward: Your personal information is your personal and private property. We never sell or share your information with third-party marketers unless you explicitly instruct us to do so. To demonstrate our commitment to your privacy, we work with TRUSTe to have them audit our Web site and e-mail applications, while they are not done yet we will update the site when the final results are. In addition, every one of our employees is required to sign a Privacy Pledge upon starting a new job with us.
 
 ### Scope and Changes
 
-Apex Wellness Group, LLC., dba pHion ("pHion" or "we") operates the websites, www.ph-ion.com, www.phionbalance.com, www.phioninc.com, and various other related sites that refer to this Website Privacy Statement in a direct hyperlink (the "Websites"). pHion respects your privacy and we want you to be confident in sharing your information with us. This Website Privacy Statement is designed to inform you of the types of information we collect from users, how we use that information, and the circumstances under which we will share it with third parties. This Privacy Statement applies only to the Websites. It does not apply to your use of any other websites (whether or not operated by us), including any websites which we provide links to or websites of our partners or advertisers, or to any activities which are not online.
+Apex Wellness Group, LLC., dba pHion ("pHion", "essential pH" or "we") operates the websites, www.ph-ion.com, www.phionbalance.com, www.essentialph.com, and various other related sites that refer to this Website Privacy Statement in a direct hyperlink (the "Websites"). pHion respects your privacy and we want you to be confident in sharing your information with us. This Website Privacy Statement is designed to inform you of the types of information we collect from users, how we use that information, and the circumstances under which we will share it with third parties. This Privacy Statement applies only to the Websites. It does not apply to your use of any other websites (whether or not operated by us), including any websites which we provide links to or websites of our partners or advertisers, or to any activities which are not online.
 
 Please note that some features and/or services referenced may not be available on some Websites. Therefore, portions of this Privacy Statement which pertain to such features or services may not be applicable on each of the Websites.
 
-pHion is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. Because pHion wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices governing the Websites reviewed for compliance by TRUSTe
+pHion is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. Because pHion wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices governing the Websites reviewed for compliance by TRUSTe.
 
 This Privacy Statement is effective as of the date listed above. Even if you read and/or agreed to a prior policy statement, you need to review this updated version. We reserve the right to revise this Privacy Statement at any time and at our discretion. If we decide to change our Privacy Statement, we will post those changes to this Privacy Statement accessible on the homepage of the Websites, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users via either email or by posting a notice on the Websites for 30 days.
 
@@ -32,7 +30,7 @@ Generally it is possible to use the Websites without providing us with any perso
 
 **Complete Contact Info:** When a user wishes to purchase an item directly through one of our Websites, we collect full name, e-mail address, phone number(s), shipping/billing address related credit card information. All credit card information is encrypted.
 
-On some of the Websites a registered user may decide to become a distributor. When registering as a distributor, we collect complete contact information, i.e., full name, address, e-mail address, and phone number, as well as credit card number and expiration date. We use this information to validate the distributor’s identity and to bill the distributor for products ordered from pHion. All credit card information is encrypted.
+On some of the Websites a registered user may decide to become a business partner. When registering as a business partner, we collect complete contact information, i.e., full name, address, e-mail address, and phone number, and in some instances a credit card number and expiration date. We use this information to validate the the business partner’s identity and in some instances to bill for products ordered from pHion. All credit card information is encrypted.
 
 **Service User Information:** On the Websites where it is available, if a user wants to receive information about how our products perform for a specific lifestyle or condition, pHion requests that users of certain Website services complete a questionnaire, which includes personal and contact information ("Service User Information"). Service User Information enables pHion to provide Service Users with information specifically about requested products and services.
 
@@ -52,13 +50,15 @@ We collect certain information on the Websites through the user's experience and
 
 In addition to the uses described above, we may use your personal information for any of the following:
 
-    * To contact you in response to a customer service question from you, or in relation to any issue arising in respect of the agreement between pHion and you, or to resolve or attempt to resolve a dispute between users or between pHion and you.
-    * To process credit card payments approved in advance by you.
-    * To allow you to send an email to another user through the Send To A Friend feature on our Websites, where available.
-    * To assist law enforcement or other governmental agencies investigating cases of possible illegal activities by third parties.
-    * To improve the experience of using the Websites, improve pHion’s products and services, improve marketing and promotion of our products and services, customize the Websites' content and layout, and generally improve the Websites to meet your needs better.
+To contact you in response to a customer service question from you, or in relation to any issue arising in respect of the agreement between pHion and you, or to resolve or attempt to resolve a dispute between users or between pHion and you.
 
+To process credit card payments approved in advance by you.
 
+To allow you to send an email to another user through the Send To A Friend feature on our Websites, where available.
+
+To assist law enforcement or other governmental agencies investigating cases of possible illegal activities by third parties.
+
+To improve the experience of using the Websites, improve pHion’s products and services, improve marketing and promotion of our products and services, customize the Websites' content and layout, and generally improve the Websites to meet your needs better.
 
 ### Who We Share Your Personal Information With
 
@@ -74,9 +74,9 @@ In addition to the uses described above, we may use your personal information fo
 
 ### Accessing and Changing your Personal Information
 
-For registered users on some of the Website, a user can review personal identifiable information by logging in with the user email and password and then clicking on the "My Account" link located at the top right of each page. After accessing the user's My Account page, click the appropriate link under the Account Information section to make changes as necessary.
+For registered users on some of the Websites, a user can review personal identifiable information by logging in with the user email and password and then clicking on the "My Account" link located on each page. After accessing the user's My Account page, click the appropriate link under the Account Information section to make changes as necessary.
 
-For access and changes of any other data, please [contact us](https://web.archive.org/contact-us). Upon receipt of your request, and possibly subject to identification measures, we will provide you with reasonable access and comply with appropriate data correction requests in accordance with applicable law. For access requests, we will respond within thirty (30) days upon receiving your request.
+For access and changes of any other data, please contact us. Upon receipt of your request, and possibly subject to identification measures, we will provide you with reasonable access and comply with appropriate data correction requests in accordance with applicable law. For access requests, we will respond within thirty (30) days upon receiving your request.
 
 You should also note that if we have provided your information to third parties, you will have to make a separate request to them directly if you want to have your information removed from, or corrected in, their databases.
 
@@ -106,7 +106,7 @@ If you have any questions about this Privacy Policy, the practices of the Websit
 Attn: Privacy Matters  
 14201 N. Hayden Rd., Suite A-4  
 Scottsdale, AZ 85260  
-[privacymatters@phionbalance.com](mailto:privacymatters@phionbalance.com)  
+[privacymatters@ph-ion.com](mailto:privacymatters@ph-ion.com)  
 
 
 If you do not receive acknowledgment of your inquiry or your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will serve as a liaison with pHion to resolve users concerns.
