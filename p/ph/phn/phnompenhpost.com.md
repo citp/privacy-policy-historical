@@ -1,20 +1,22 @@
-> *The following text is extracted and transformed from the phnompenhpost.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602234040id_/http%3A//www.phnompenhpost.com/index.php/Privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phnompenhpost.com privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102170603id_/http%3A//www.phnompenhpost.com/index.php/privacy-policy.html) for the most accurate reproduction.*
 
-# The Phnom Penh Post - Privacy policy
+# Privacy policy | The Phnom Penh Post - Cambodia's Newspaper of Record
 
 Effective **April 1rst, 2008**
 
 **Privacy Notice Table Of Contents:**
 
-  * [Our Commitment To Privacy](http://www.phnompenhpost.com/#1)
-  * [The Information We Collect](http://www.phnompenhpost.com/#2)
-  * [How We Use Information](http://www.phnompenhpost.com/#3)
-  * [Our Commitment To Data Security](http://www.phnompenhpost.com/#4)
-  * [Our Commitment To Children's Privacy](http://www.phnompenhpost.com/#5)
-  * [How To Access Or Correct Your Information](http://www.phnompenhpost.com/#6)
-  * [How To Contact Us](http://www.phnompenhpost.com/#7)
+  * [Our Commitment To Privacy](http://www.phnompenhpost.com/index.php/privacy-policy.html#1)
+  * [The Information We Collect](http://www.phnompenhpost.com/index.php/privacy-policy.html#2)
+  * [How We Use Information](http://www.phnompenhpost.com/index.php/privacy-policy.html#3)
+  * [Our Commitment To Data Security](http://www.phnompenhpost.com/index.php/privacy-policy.html#4)
+  * [Our Commitment To Children's Privacy](http://www.phnompenhpost.com/index.php/privacy-policy.html#5)
+  * [How To Access Or Correct Your Information](http://www.phnompenhpost.com/index.php/privacy-policy.html#6)
+  * [How To Contact Us](http://www.phnompenhpost.com/index.php/privacy-policy.html#7)
 
-[](http://www.phnompenhpost.com/#7)**Our Commitment To Privacy**
+[](http://www.phnompenhpost.com/index.php/privacy-policy.html#7)
+
+**Our Commitment To Privacy**
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
 
@@ -66,4 +68,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, send us an email at [admin@thepppost.com.](mailto:admin@thepppost.com.)
+Should you have other questions or concerns about these privacy policies, send us an email at [admin@thepppost.com](mailto:admin@thepppost.com) . 
