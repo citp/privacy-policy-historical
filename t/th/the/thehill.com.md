@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thehill.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627211233id_/http%3A//thehill.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D15720%26Itemid%3D137) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehill.com privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102045908id_/http%3A//thehill.com/privacy-policy) for the most accurate reproduction.*
 
-# TheHill.com - Privacy Policy
+# Privacy Policy - TheHill.com
 
 **A **THE HILL’S PRIVACY POLICY****
 
@@ -60,10 +60,12 @@ Information Privacy Manager
 Washington, DC 20006  
 e-mail: [help@thehill.com](mailto:help@thehill.com)
 
- **Changes To The Privacy Policy**
+**Changes To The Privacy Policy**
 
 This Privacy Policy is effective as of March 21, 2005. We reserve the right to change this Privacy Policy at any time by notifying users. We may notify you by posting a notice on the Site or by contacting you through electronic mail or other means. Your continued use of the Site following the posting of changes to this Privacy Policy means you accept those changes.
 
  **What If You Do Not Agree To The Terms Of This Privacy Policy?**
 
 As a subscriber to the Site, or otherwise by using the Site, you signify that you agree to this Privacy Policy. If you do not agree to this Privacy Policy, please do not make any use of the Site.
+
+The contents of this site are © 2009 Capitol Hill Publishing Corp., a subsisiary of News Communications, Inc.
