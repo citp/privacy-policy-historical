@@ -1,69 +1,47 @@
-> *The following text is extracted and transformed from the eircom.net privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426142157id_/http%3A//www.eircom.net/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eircom.net privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102064546id_/http%3A//www.eircom.ie/privacystatement) for the most accurate reproduction.*
 
-# Privacy Policy • eircom net
+# Legal
 
-##  Privacy Policy 
+### eircom privacy statement:
 
-### Privacy Policy for eircom net Online Publications
+We have developed this privacy statement because we want you to feel confident about the privacy and security of your personal details when you visit or use the eircom.ie website. We operate a strict opt-in policy for residential customers. We will not send you any information unless you have requested it, or unless someone, who we will identify, has requested that we pass that information on to you. We will not pass on your details to any third party for email or marketing purposes.
 
-The website from which you linked (the "Site") is operated by eircom ltd trading as eircom net ("eircom net"). eircom net respects your right to privacy and our Privacy Policy is designed to inform you of the methods and purposes for which we gather and use your data. eircom net is a registered data controller with the Data Protection Commissioner and uses your personal data in accordance with its obligations under the Data Protection Act, 1988. By visiting the Site, you are accepting the practices described in this Privacy Notice.  
+eircom Limited is registered with the Data Protection Commissioner as a Data Controller and all handling and processing of your personal data is strictly in accordance with the data protection principles contained in the Data Protection Acts, 1988-2003.
 
+The eircom.ie servers are located in a secure facility and any access to your personal data is strictly controlled and limited only to persons who are authorised and have appropriate security clearance to access the servers.
 
-### Information Collected by eircom net
+Credit card and Laser card details are stored by eircom in an encrypted form to provide extra security for your online transactions.
 
-Each time you visit the Site, two general levels of information about your visit may be retained by eircom net: (1) non-personal information and (2) personal information.
+#### How we collect information:
 
-### (1) Non-personal Information
+You have the option to register on the eircom.ie website where you will need to provide us with some personal details to complete registration such as a username, password, telephone number and account number. This will allow us to provide you with value add services such as viewing and paying your bill online, ability to order products and services and log and track a fault when you fully register with the site. You can also provide us with additional information, which will allow us to provide you with a more personalised experience whenever you visit our website.
 
-Like most websites, we gather statistical and other analytical information collected on an aggregate basis of all browsers who visit the site. We use this information gathered from visitors to our websites in an aggregate form to get a better understanding of where our visitors come from and to help us better design and organize our website.
+Customers should note that, while eircom makes all commercial efforts to protect our customers’ privacy, customers should be aware that information disclosed while connected to the Internet is transferred to the eircom servers over a publicly available telecommunications network. eircom cannot be held responsible, and accept no liability, for unauthorised access to the public network beyond its reasonable control and all information provided by customers is done entirely at the customers’ own risk.
 
-  
-The Site uses "cookie" technology. A cookie is a little piece of text stored by your browser on your computer, at the request of our server. We may use cookies to deliver content specific to your interests and to save your personal preferences so you don't have to re-enter them each time you connect to the Internet. You are always free to decline our cookies, if your browser permits, or to ask your browser to indicate when a cookie is being sent. You can also delete cookie files from your computer at your discretion. Note that if you decline our cookies or ask for notification each time a cookie is being sent, this may affect your ease of use of the Site.
+#### How we use your information:
 
-### (2) Personal Information
+We use your information provided to offer you a more personalised online experience and to inform you of products and services relevant to your needs. Registration also allows you access to value-add services such as e-billing, fault logging and ordering products in the online store. Your personal information may also be used to verify your identity, to protect against fraud, and to send you relevant updates e.g. notification of your bill. eircom does not share your information with any third party.
 
-Personal information is information which is personal or particular to a specific visitor who chooses to provide that information. This category would typically include information provided by you for subscriptions or competitions including your name, postal and email address and contact phone number.
+#### Opt-in / Opt-out:
 
-### Purposes for which we hold your data
+We operate a strict opt-in policy for our residential customers. That means we will not send you any information unless you have requested to receive email updates from us.  For business customers, we operate, in compliance with the relevant legislation, an opt-out policy.
 
-We keep your personal and non-personal data for the following purposes:
+If you (whether a residential or business customer) wish to be removed from our list, at any time, (opt-out) you can do so by clicking on the link at the bottom of each email communication you receive from us, and if it is to do with billing notification you can turn this option off by selecting email notifications in the [View Your Bill](https://web.archive.org/cgi-bin/bvsm/bveircom/register/registerLogin.jsp?site=Res&cid=viewBill&BV_SessionID=@@@@1093366767.1257144345@@@@&BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0)  section.
 
-  
+#### Use of cookie technology:
 
+The eircom website creates a "cookie" when you first register online. A cookie is a piece of information, like a tag, which some websites create against your profile. Our cookie will store some basic information, which helps us to identify if you have visited the site before. This will allow us provide you with personalised content or present you with product and service information based on your previous behaviour on the site.
 
-  * (1) To communicate with you and provide you with marketing and product information;
+#### How to disable cookies:
 
-  * (2) To personalise your visit to the Site;
+If you do not want a cookie to be created on your PC, web browsers such as Netscape and Internet Explorer provide the option to disable them. Please bear in mind that some personalised services on eircom.ie, or from other non-eircom websites, may not be available if you choose to disable cookies. You can find out more about cookies on [www.cookiecentral.com](http://www.cookiecentral.com/).
 
-  * (3) To track your movement through the Site (for marketing and advertising purposes);
+#### Contact us:
 
-  * (4) To notify you of competitions, ezines or other promotions;
+If you have any additional questions about our privacy policy or how we collect and use your personal data, please contact webmaster@eircom.ie or visit our [Contact Us](https://web.archive.org/cgi-bin/bvsm/bveircom/bladerunner/showContent.jsp?BV_SessionID=@@@@1093366767.1257144345@@@@&BV_EngineID=ccchadeikdhigekcefeceiedfgodfik.0&cid=OurServicesRes&store=Res&chanId=-536882381) section.
 
-  * (5) To provide information to our advertisers and business partners; and
+#### Update information:
 
-  * (6) For the performance of any request by or contract with you.
+If you would like to update your registration profile at any stage you can do so by logging into to the website with your username and password and select "Your registration details" link on the left-hand navigation to update your personal details or to register a new account number.
 
-
-
-
-We will process your personal information to administer your registration or subscription, determine your eligibility for certain services, provide services to you, and enable you to take advantage of other member benefits. Your information may also be used to verify your identity, to protect against fraud, and to send you updates about your account.
-
-If you do not wish to receive communications from us or our business partners, please email us at [info@eircom.net](mailto:info@eircom.net).
-
-### Message Boards
-
-If you utilize a message board operated by eircom net, your use of those services is governed by the Terms and Conditions attaching to those services. If you choose to publish your e-mail address or publish other personal data, you do so at your own risk.
-
-### Transfer of Data
-
-Your data will be held in Ireland by eircom ltd trading as eircom net which includes any subsequent purchasers, successors or assigns of eircom net. We will share non-personal information with our advertisers and business partners. We will only share personal information with our business partners if we are satisfied that it will only be used in accordance with the purposes described above. We will also disclose your personal information if we are legally required to do so or if it is reasonably necessary to protect and defend the rights or property of eircom net.
-
-We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. These companies have access to personal information needed to perform their functions, but may not use it for other purposes.
-
-### Security
-
-Your personal data is held on secure servers hosted by eircom ltd. Unfortunately,no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, eircom net cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission, we use our reasonable commercial efforts to ensure its security on our systems.
-
-### Access to Your Information
-
-If you wish to obtain a copy of the personal information, which is held by eircom net about you, please email us at [info@eircom.net](mailto:info@eircom.net). It is up to you to inform us of any changes in your personal information so that we can keep it accurate and up to date.
+       
