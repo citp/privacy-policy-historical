@@ -1,24 +1,6 @@
-> *The following text is extracted and transformed from the iberiabank.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618174426id_/http%3A//www.iberiabank.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iberiabank.com privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102162719id_/http%3A//www.iberiabank.com/privacy.cfm) for the most accurate reproduction.*
 
 # IBERIABANK
-
-[](https://web.archive.org/web/20090618174426id_/http%3A//www.iberiabank.com/default.cfm)
-
-Thursday, June 18, 2009
-
-##  New Deposit Insurance Limits 
-
-On May 20, 2009, FDIC insured institutions will insure deposits up to $250,000 per depositor through December 31, 2013.
-
-##  Easy Switch Kit 
-
-Click for our [Easy Switch Kit](http://www.iberiabank.com/pdfs/pdfLibrary/Switchkitonline.pdf).
-
-  * [Reorder Checks Online](https://web.archive.org/web/20090618174426id_/http%3A//www.iberiabank.com/checkReorder.cfm)
-  * [Learn More About Online Banking](https://web.archive.org/web/20090618174426id_/http%3A//www.iberiabank.com/onlineFeatures.cfm)
-  * Deluxe Gift Card
-
-
 
 This is IBERIABANK’s Privacy Notice for our consumer customers also referred to in this Notice as our client or clients. IBERIABANK is committed to providing quality products and services in an environment that protects consumer privacy rights. We respect the right to privacy of our clients, applicants for our products and services and individuals visiting us on-line. We are committed to protecting confidentiality of the information furnished to us by our clients and our former clients. 
 
@@ -49,9 +31,9 @@ How? | All financial companies need to share clients’ personal information to 
 **For our marketing purposes** – to offer our products and services to you  | Yes | No  
 **For joint marketing with other financial companies** | Yes | No  
 **For our affiliates’ everyday business purposes** – information about your transactions and experiences  | Yes | No  
-**For affiliates to market to you** | Yes | Yes [_(Complete opt out form)_](https://web.archive.org/web/20090618174426id_/http%3A//www.iberiabank.com/pdfs/pdfLibrary/foronlineib.pdf)  
-**For our affiliates’ everyday business purposes –** information about your creditworthiness or from your applications with us | Yes | Yes [_(Complete opt out form)_](https://web.archive.org/web/20090618174426id_/http%3A//www.iberiabank.com/pdfs/pdfLibrary/foronlineib.pdf)  
-**For non-affiliates to market to you** | Yes | Yes [_(Complete opt out form)_](https://web.archive.org/web/20090618174426id_/http%3A//www.iberiabank.com/pdfs/pdfLibrary/foronlineib.pdf)  
+**For affiliates to market to you** | Yes | Yes [_(Complete opt out form)_](https://web.archive.org/web/20091102162719id_/http%3A//www.iberiabank.com/pdfs/pdfLibrary/foronlineib.pdf)  
+**For our affiliates’ everyday business purposes –** information about your creditworthiness or from your applications with us | Yes | Yes [_(Complete opt out form)_](https://web.archive.org/web/20091102162719id_/http%3A//www.iberiabank.com/pdfs/pdfLibrary/foronlineib.pdf)  
+**For non-affiliates to market to you** | Yes | Yes [_(Complete opt out form)_](https://web.archive.org/web/20091102162719id_/http%3A//www.iberiabank.com/pdfs/pdfLibrary/foronlineib.pdf)  
 **Sharing practices**  
 ---  
 **How often does IBERIABANK notify me about their practices?** | We must notify you about our sharing practices when you open an account and each year while you are a client.   
@@ -109,7 +91,7 @@ A formal agreement between nonaffiliated financial companies that together marke
 **Sharing practices**  
 **Contact us** | 
 
-**By mail:**[Print this mail-in form](https://web.archive.org/web/20090618174426id_/http%3A//www.iberiabank.com/pdfs/pdfLibrary/foronlineib.pdf) (PDF), mark your choices, fill in and send form to: 
+**By mail:**[Print this mail-in form](https://web.archive.org/web/20091102162719id_/http%3A//www.iberiabank.com/pdfs/pdfLibrary/foronlineib.pdf) (PDF), mark your choices, fill in and send form to: 
 
 Customer Privacy Control Desk  
 IBERIABANK  
