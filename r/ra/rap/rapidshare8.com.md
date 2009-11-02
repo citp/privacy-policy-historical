@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapidshare8.com privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504081736id_/http%3A//rapidshare8.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidshare8.com privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102152036id_/http%3A//www.rapidshare8.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy-Rapidshare8-Unlimited Rapidshare Search
 
