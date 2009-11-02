@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the profootballhof.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218020918id_/http%3A//www.profootballhof.com/hall/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profootballhof.com privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102064733id_/http%3A//www.profootballhof.com/hall/privacy_policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Pro Football Hall of Fame
+# Privacy Policy
 
 Revised August 29, 2007
 
