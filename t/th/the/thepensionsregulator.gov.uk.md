@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepensionsregulator.gov.uk privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629174814id_/http%3A//www.thepensionsregulator.gov.uk/aboutSite/yourPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepensionsregulator.gov.uk privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102013817id_/http%3A//www.thepensionsregulator.gov.uk/aboutSite/yourPrivacy.aspx) for the most accurate reproduction.*
 
 # Your privacy
 
