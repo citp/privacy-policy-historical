@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bayshoresolutions.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617184451id_/http%3A//www.bayshoresolutions.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bayshoresolutions.com privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102194436id_/http%3A//www.bayshoresolutions.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -71,7 +71,7 @@ Fax: [813.839.9022](livecall:813.839.9022) **
 **Ft. Lauderdale  
 20801 Biscayne Blvd.  4th Floor  
 Aventura, FL 33180  
-Phone: [954.928.2840](livecall:954.928.2840)  
+Phone: [305.937.4536](livecall:305.937.4536)  
 Fax: [813.839.9022](livecall:813.839.9022) **
 
 **Dallas     
