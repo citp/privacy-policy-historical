@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wmbfnews.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501060723id_/http%3A//www.wmbfnews.com/global/story.asp%3Fs%3D8774923) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wmbfnews.com privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102053027id_/http%3A//www.wmbfnews.com/global/story.asp%3Fs%3D8774923) for the most accurate reproduction.*
 
-# Privacy Policy - WMBF News | Myrtle Beach/Florence,SC | News, Weather and Sports-
+# Privacy Policy - WMBFNews.com | Myrtle Beach/Florence, SC | News, Weather, Sports
 
 **This Website's Privacy Policy**
 
@@ -67,5 +67,3 @@ We use third-party advertising companies to serve ads when you visit this Websit
 Questions regarding this Privacy Policy should be directed to us at _[](mailto:)[info@raycommedia.com](mailto:info@raycommedia.com)_.  Please include the URL of this Website in your email.
 
 _Effective date: January 13, 2009_
-
-[](http://www.addthis.com/bookmark.php)
