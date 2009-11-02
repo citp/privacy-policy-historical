@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the high-logic.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618141013id_/http%3A//www.high-logic.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the high-logic.com privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102103121id_/http%3A//www.high-logic.com/privacypolicy.html) for the most accurate reproduction.*
 
-# High-Logic Typography Software - Privacy Policy
+# High-Logic - Privacy Policy
 
-###### [Home](https://web.archive.org/index.html)Privacy Policy
+###### [Home](https://web.archive.org/index.html) Privacy Policy
 
 ###### 
 
-#### Updated: Tuesday, August 3, 2004
+#### Updated: Thursday, July 23, 2009
 
 ### Philosophy
 
@@ -14,7 +14,7 @@
 
 ### IP Addresses & Cookies
 
-## High-Logic uses IP addresses for statistical and system administration purposes. IP addresses are anonymously logged to track a users session. We do not link IP addresses with personally identifiable information. This means that a users session will be logged but that user will remain anonymous to us.
+## High-Logic uses IP addresses and cookies for statistical and system administration purposes.
 
 ## Our Forum uses cookies to keep track of registered members preferences and to provide you with information on posts since your last visit. We do not use this information to track your individual behavior.
 
@@ -34,7 +34,7 @@
 
 ### Ordering
 
-## In our own customer database we store only your name, e-mail address and order details, but not your address and phone number. All our online orders are encrypted and secured and processed by Kagi and RegNow so we never receive your credit card information. See [Kagi's privacy page](http://www.kagi.com/purchase/purchase_privacy.html) and [RegNow's privacy page](http://www.regnow.com/privacy.html) for more information. 
+## In our own customer database we store your name, e-mail address, order details, as well as your address. All our online orders are encrypted, secured, and processed by our online payment procesor so we never receive your credit card information.
 
 ### Outside Links
 
