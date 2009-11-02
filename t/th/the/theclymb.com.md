@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the theclymb.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620145823id_/http%3A//theclymb.com/index.php/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theclymb.com privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102070826id_/http%3A//www.theclymb.com/privacy) for the most accurate reproduction.*
 
-# The Clymb.com
+# The Clymb >> Member Pricing On the Planet's Most Sought-After Outdoor Brands ™
 
-## PRIVACY POLICY
+Starting November 4th at 9AM PST, we'll be bringing you exclusive sale events on apparel, footwear and gear from the planet's most sought-after outdoor brands. 
 
 ### OVERVIEW
 
