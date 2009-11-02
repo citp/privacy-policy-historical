@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bestdealinsurance.co.uk privacy policy that was archived on 2009-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090618073035id_/http%3A//www.bestdealinsurance.co.uk/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bestdealinsurance.co.uk privacy policy that was archived on 2009-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091102160736id_/http%3A//www.bestdealinsurance.co.uk/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
  <title>Best Deal Insurance - Privacy Policy</title>
@@ -76,9 +76,9 @@ function showDebug(obj)
 <!-- ClickTale Top part --><script type="text/javascript">var WRInitTime=(new Date()).getTime();</script><!-- ClickTale end of Top part --><div id="Header1_logo" class="logo_hacksafe"><a href="/"><img src="/images/logo.gif" id="Header1_img_bdiLogo" width="141" height="44" alt="Best Deal Insurance"></a></div>
 
         
-        <div style="position:absolute;left:330px;top:20px;width:229px;">
-          <a target="_blank" href="/awards/">
-            <img src="/cre3/images/logos/what_mortgage_2.gif" align="bottom" alt="What mortgage award" width="65" height="91" class="award_1">
+        <div style="position:absolute;left:300px;top:20px;width:229px;">
+          <a target="_blank" href="/callbacks/ExternalLink.ashx?u=WOW">
+            <img src="/cre3/images/logos/wow_awards_2.gif" alt="The WOW awards" width="160" height="96" class="award_2">
           </a>
         </div>
         
@@ -141,7 +141,7 @@ function showDebug(obj)
 				<li class="drop_image"><a href="/mortgage/" id="Header1_MainMenu1_A75"></a><a href="/mortgage/" id="Header1_MainMenu1_A64" class="image_click"></a></li>
 				<li><a href="/mpp.htm" id="Header1_MainMenu1_A12">Mortgages</a></li>
 				<li><a href="/forms/mortgage/BuyToLet.aspx" id="Header1_MainMenu1_A13">Buy To Let Mortgages</a></li>
-				<li><a href="/forms/mortgage/mpp.aspx" id="Header1_MainMenu1_A14">Income Payment Protection</a></li>
+				<li><a href="/forms/mortgage/mpp.aspx" id="Header1_MainMenu1_A14">Mortgage Payment Protection</a></li>
 				<li class="last"><a href="/Forms/Mortgage/SecuredLoan.aspx" id="Header1_MainMenu1_A21">Secured<br>Loans</a></li>
 			</ul>
 		</li>
@@ -473,7 +473,7 @@ function checkUrl(href)
     // add in more things to include in the line above as you see fit
 
 	leaving = (reg.exec(href)) ? true : false;
-	if (checkOpener()) leaving = (window.opener.imabestdealpage == null);
+	if (checkOpener()) try {leaving = (window.opener.imabestdealpage == null);} catch(err) { leaving=true;};
 	if (leaving)
 	{
 	    for (i=0;i<safeSites.length;i++)
