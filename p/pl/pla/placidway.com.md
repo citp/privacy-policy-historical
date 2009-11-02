@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the placidway.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525081939id_/http%3A//www.placidway.com/privacystatement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the placidway.com privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102163434id_/http%3A//www.placidway.com/privacystatement.php) for the most accurate reproduction.*
 
 # PlacidWay Privacy Policy | Medical Tourism
 
