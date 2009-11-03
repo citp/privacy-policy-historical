@@ -1,15 +1,18 @@
-> *The following text is extracted and transformed from the techprocess.co.in privacy policy that was archived on 2008-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081226115654id_/http%3A//www.techprocess.co.in/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techprocess.co.in privacy policy that was archived on 2009-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091103165648id_/http%3A//www.techprocess.co.in/privacyPolicy.html) for the most accurate reproduction.*
 
-# 
+# Techprocess Solutions Ltd | Privacy Policy
 
 We at TechProcess acknowledge and accept that the personal details that the customer imparts to us are to be kept in strict confidentiality and the information is to be used only in a manner that would be beneficial to our customers. We consider our relationship with our customers invaluable and strive to respect and safeguard the customer's right to privacy. 
 
 It is the policy of TechProcess never to sell customer's name, address, or any other information to third parties for marketing or other purposes without the customer's consent. 
 
-TechProcess will only disclose information to third parties about customer's account or the transfers or payments the customer makes:   
-a) when it is necessary for opening or maintaining customer's accounts,  
+TechProcess will only disclose information to third parties about customer's account or the transfers or payments the customer makes: 
+
+  * a) when it is necessary for opening or maintaining customer's accounts,  
 b) if lawfully required or,   
 c) if the customer requests or authorizes it.
+
+
 
 TechProcess will never ask for any information about its customers that is not needed for the customers to enjoy the benefits of TechProcess services. During the sign-up process TechProcess asks for contact information such as name, address, phone number, email address and other such information, all of which is collected for the purpose of our service. 
 
@@ -21,4 +24,6 @@ Targeted advertisements may appear on web-site pages as the customer navigates t
 
 **Linked Sites** \- TechProcess has not reviewed all of the sites linked to TechProcess. Linkages to or from another site do not indicate any approval or endorsement of any material contained in a linked site, and TechProcess is not responsible for the contents and privacy policy of such linked websites. 
 
-**Changes in the Privacy Statement** \- TechProcess may make changes to its Privacy Policy at any time, but it will notify the customers of any substantive or material change (by way of email) and provide them with the opportunity to opt-out. 
+**Changes in the Privacy Statement** \- TechProcess may make changes to its Privacy Policy at any time, but it will notify the customers of any substantive or material change (by way of email) and provide them with the opportunity to opt-out.
+
+[](https://web.archive.org/web/20091103165648id_/http%3A//www.techprocess.co.in/servicerequisition.asp)
