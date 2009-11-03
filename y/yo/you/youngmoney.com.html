@@ -1,309 +1,403 @@
-<!--The following is the downloaded HTML source of the youngmoney.com privacy policy that was archived on 2008-07-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080723141458id_/http%3A//www.youngmoney.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the youngmoney.com privacy policy that was archived on 2009-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091103085016id_/http%3A//www.youngmoney.com/privacy-statement) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
-    <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--<META HTTP-EQUIV="Refresh" CONTENT="30">-->
+<title>Privacy Statement</title>
+<meta name="google-site-verification" content="1cBFNuLx-XOVx_iYRUg0jLssec5dI6_wojIjjOlEybw">
+<meta name="generator" content="WordPress 2.7.1"> <!-- leave this for stats -->
+<!--including the style sheets-->
+<link href="http://www.youngmoney.com/wp-content/themes/youngmoney/youngmoney.css" rel="stylesheet" type="text/css">
+<link href="http://www.youngmoney.com/wp-content/themes/youngmoney/SpryTabbedPanels.css" rel="stylesheet" type="text/css">
+<link href="http://www.youngmoney.com/wp-content/themes/youngmoney/TJK_dropDown.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="http://www.youngmoney.com/wp-content/themes/youngmoney/all.css" type="text/css" media="all" title="all" charset="utf-8">
+<!--end of including the style sheets-->
+<!--including the js files-->
+<script src="http://www.youngmoney.com/wp-content/themes/youngmoney/scripts/prototype.js" type="text/javascript"></script>
+<script src="http://www.youngmoney.com/wp-content/themes/youngmoney/scripts/effects.js" type="text/javascript"></script>
+<script src="http://www.youngmoney.com/wp-content/themes/youngmoney/scripts/slideshow.js" type="text/javascript"></script>
+<script src="http://www.youngmoney.com/wp-content/themes/youngmoney/scripts/css_browser_selector.js" type="text/javascript"></script>
 
+<script src="http://www.youngmoney.com/wp-content/themes/youngmoney/scripts/TJK_dropDown.js" type="text/javascript"></script>
+<script src="http://www.youngmoney.com/wp-content/themes/youngmoney/scripts/script.js" type="text/javascript"></script>
+<script src="http://www.youngmoney.com/wp-content/themes/youngmoney/scripts/AC_RunActiveContent.js" type="text/javascript"></script>
 
-  <title>YOUNG MONEY - Website Privacy Policy Statement</title>
-  <meta name="description" content="">
-  <meta name="keywords" content="YOUNG MONEY Magazine, the college student resource for career planning, money management, investment and entrepreneurial issues.">
+<!--end of including the js files-->
+<script language="JavaScript">
 
+function nameDefined(ckie,nme)
+{
+   var splitValues
+   var i
+   for (i=0;i<ckie.length;++i)
+   {
+      splitValues=ckie[i].split("=")
+      if (splitValues[0]==nme) return true
+   }
+   return false
+}
+function delBlanks(strng)
+{
+   var result=""
+   var i
+   var chrn
+   for (i=0;i<strng.length;++i) {
+      chrn=strng.charAt(i)
+      if (chrn!=" ") result += chrn
+   }
+   return result
+}
+function getCookieValue(ckie,nme)
+{
+   var splitValues
+   var i
+   for(i=0;i<ckie.length;++i) {
+      splitValues=ckie[i].split("=")
+      if(splitValues[0]==nme) return splitValues[1]
+   }
+   return ""
+}
+function testCookie(cname, cvalue) {  //Tests to see if the cookie 
+   var cookie=document.cookie           //with the name and value 
+   var chkdCookie=delBlanks(cookie)  //are on the client computer
+   var nvpair=chkdCookie.split(";")
+   if(nameDefined(nvpair,cname))       //See if the name is in any pair
+   {   
+      tvalue=getCookieValue(nvpair,cname)  //Gets the value of the cookie
+      if (tvalue == cvalue) return true
+	   else return false
+   }
+   else return false
+}
+function redirectLink() {
+	var futdate = new Date();
 
-<link rel="Shortcut Icon" type="image/ico" href="/images/youngmoney_16x16.gif">
-<link href="/stylesheets/application.css" media="screen" rel="Stylesheet" type="text/css">
-
-<script src="/javascripts/application.js" type="text/javascript"></script>
-<script language="JavaScript" type="text/javascript" src="http://icadhub.com/adx.js"></script>
-
-<!-- Hack to enable clickable subnav in browsers that don't fully support :hover -->
-<script type="text/javascript"> function show_hide_subnav(link) {} </script>
-<!--[if lt IE 7]><script src="/javascripts/subnav.js" type="text/javascript"></script><![endif]-->
-<!-- end hack -->
-
-
-
-
-
-<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://feeds.feedburner.com/YoungMoneyLatestArticles">
-
-  </head>
-  <body>  
-    <div id="container">
-  
-  
-  <div id="leaderboard">
-    <div class="ad">
-<script language="JavaScript" type="text/javascript">
-<!--
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+	var day=futdate.getDate();
+	
+   if (!testCookie("ispopup", ""+day)) {
    
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://icadhub.com/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;what=zone:320");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referrer)
-      document.write ("&amp;referer=" + escape(document.referrer));
-   document.write ("'><" + "/script>");
-//-->
-</script><script language="JavaScript" type="text/javascript" src="http://icadhub.com/adjs.php?n=804953055&amp;what=zone:320&amp;exclude=,"></script><noscript><a href='http://icadhub.com/adclick.php?n=afbe03ca' rel='nofollow' target='_blank'><img src='http://icadhub.com/adview.php?what=zone:320&amp;n=afbe03ca' border='0' alt=''></a></noscript>
-</div><div class="ad">
-<script language="JavaScript" type="text/javascript">
-<!--
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-   
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://icadhub.com/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;what=zone:309");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referrer)
-      document.write ("&amp;referer=" + escape(document.referrer));
-   document.write ("'><" + "/script>");
-//-->
-</script><script language="JavaScript" type="text/javascript" src="http://icadhub.com/adjs.php?n=917065813&amp;what=zone:309&amp;exclude=,"></script><noscript><a href='http://icadhub.com/adclick.php?n=aaab0ca5' rel='nofollow' target='_blank'><img src='http://icadhub.com/adview.php?what=zone:309&amp;n=aaab0ca5' border='0' alt=''></a></noscript>
-</div>
-  </div>
+   var newCookie="ispopup="+day;
+  	document.cookie=newCookie;
+    /*window.open('http://www.youngmoney.com/adpopup.html','mywindow','width=809,height=609')		//Go to the location indicating the user has been here*/
+   }
 
-  <div class="clear"></div>
-  
-  <div id="header">
-    <a href="/"><img src="/images/layout/logo.gif" alt="YOUNG MONEY Magazine"></a>
-    <form method="get" action="/search" name="search" id="search">
-      <input type="text" name="search" size="30">
-      <a href="" onclick="document.forms['search'].submit();return false;">Search</a>
-    </form>
-    
-    
-      <ul id="nav">
-        <li class="corner"><img src="/images/layout/topnav-left.gif" alt=""></li>
-        <li class="first">
-  <a href="#" onclick="show_hide_subnav(this);return false;">Articles</a>
-  
-    <span class="subnav">
-      
-        <a href="/careers">Careers</a><br>
-      
-        <a href="/credit_debt">Credit &amp; Debt</a><br>
-      
-        <a href="/entertainment">Entertainment</a><br>
-      
-        <a href="/entrepreneur">Entrepreneurship</a><br>
-      
-        <a href="/financial_aid">Financial Aid</a><br>
-      
-        <a href="/investing">Investing</a><br>
-      
-        <a href="/lifestyles">Lifestyles</a><br>
-      
-        <a href="/money_management">Money Management</a><br>
-      
-        <a href="/technology">Technology</a><br>
-      
-        <a href="/shopping">Shopping</a><br>
-      
-        <a href="/travel">Travel</a><br>
-      
-        <a href="/wheels">Wheels</a><br>
-      
-    </span>
-  
-</li>
+   }
 
-<li><a href="http://www.youngmoney.com/blog">Blog</a></li><li><a href="/contact">Contact Us</a></li><li><a href="/radio">Radio</a></li><li><a href="/calculators">Calculators</a></li><li><a href="/subscribe">Subscribe</a></li><li><a href="/members">Members</a></li><li><a href="/aboutus">About Us</a></li><li><a href="/mediakit">Advertise</a></li>
-
-      </ul>
-    
-
-  </div>
-
-    <div id="left-col">
-  <div class="node">
-    
-      <h3>Member Login:</h3>
-<form method="post" id="login" action="/members/login">
-  <label>Email:</label> <input type="text" name="email"><br>
-  <label>Password:</label> <input type="password" name="password"><br>
-  <div class="submit">
-    <input type="submit" value="Login"><br>
-    <a href="/forgotpassword">Forgot password?</a><br><br>
-  </div>
-</form>
-Not a member?
-<strong><a href="http://youngmoney.com/signup">Signup!</a></strong>
-    
-  </div>
-  <div class="node">
-  <h3>YOUNG MONEY Blog</h3> <a href="../../../../blog">Our editor shares news, tips, rants and musings.</a><br><br> <a href="http://feeds.feedburner.com/youngmoney/blog"><img border="0" alt="RSS 2.0" src="../../../../images/feed_icons/rss-20.gif"></a>
-</div>
-<div class="node">
-  <h3><a href="/classroom">EDUCATORS:</a></h3>
-  Add YOUNG MONEY to your classroom activities or school library.&nbsp;&nbsp; <strong><a href="../../../../classroom">Free evaluation copy for teachers and librarians.</a></strong>
-</div><p align="center">
-<script language="JavaScript" type="text/javascript">
-<!--
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-   
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://icadhub.com/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;what=zone:475");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referrer)
-      document.write ("&amp;referer=" + escape(document.referrer));
-   document.write ("'><" + "/script>");
-//-->
-</script><script language="JavaScript" type="text/javascript" src="http://icadhub.com/adjs.php?n=814608043&amp;what=zone:475&amp;exclude=,"></script><noscript><a href='http://icadhub.com/adclick.php?n=ad906ffa' rel='nofollow' target='_blank'><img src='http://icadhub.com/adview.php?what=zone:475&amp;n=ad906ffa' border='0' alt=''></a></noscript>
-</p><div class="ad">
-<script language="JavaScript" type="text/javascript">
-<!--
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-   
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://icadhub.com/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;what=zone:476");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referrer)
-      document.write ("&amp;referer=" + escape(document.referrer));
-   document.write ("'><" + "/script>");
-//-->
-</script><script language="JavaScript" type="text/javascript" src="http://icadhub.com/adjs.php?n=444197116&amp;what=zone:476&amp;exclude=,"></script><noscript><a href='http://icadhub.com/adclick.php?n=a664eea5' rel='nofollow' target='_blank'><img src='http://icadhub.com/adview.php?what=zone:476&amp;n=a664eea5' border='0' alt=''></a></noscript>
-</div>
-  
-  
-</div>
-
-    <div id="center-col">
-  
-
-  
-    <h1 class="top">
-      
-      Website Privacy Policy Statement
-    </h1>
-  
-  
-  
-    
-  
-
-  <div class="clear"></div>  
-  
-  
-    
-      <div id="breadcrumbs"><a href="/">Home</a> » Privacy Statement</div>
-    
-  
-  
-  
-    
-  
-    
-  
-
-  This website ("Company Website") is operated by Young Money Media, LLC ("Company") and this policy applies to all websites owned, operated, controlled and otherwise made available by Company, its affiliates and supported organizations (including, but not limited to, mirrored, co-branded and successor sites).&nbsp; Our office address is:<br><br>      <p>Young Money Media, LLC<br>12200 West Colonial Drive, Suite 300-I<br>Winter Garden, FL 34787<br>United States of America<br></p><br>We may be reached via email at admin@youngmoney.com.<br><br><h2>Introduction</h2><br>Company respects the privacy and security of your personal information. The following privacy policy describes the information we collect, how we use it and what rights you have to it.&nbsp; By using this Company Website, you acknowledge and agree to the terms and conditions of this Website Privacy Policy Statement ("Privacy Policy").&nbsp; If you do not agree to these terms and conditions, please do not use this Company Website.<br><br>We reserve the right to change or modify our privacy practices that are described herein from time to time simply by posting a revised Privacy Policy on this Company Website.&nbsp; Any such change shall be effective immediately upon posting of the revised Privacy Policy on this Company Website.&nbsp; We reserve the right to make the revised or changed Privacy Policy effective for information we already have about you, as well as any information we receive in the future.&nbsp; We encourage you to refer to this Privacy Policy on an ongoing basis so that you understand our current privacy practices.<br><br><h2>Privacy Policy</h2><br>Like many websites, we gather information about how visitors use this Company Website. In general, you can visit many of the web pages on this Company Website without telling us who you are or revealing any personal information about yourself.&nbsp; We, however, may track your Internet Protocol (IP) address and other anonymous information from your web browser for trends and statistics (including, but not limited to, browser version, pages requested and pages visited), but you will remain anonymous unless you provide us with personal information during your visit to this Company Website or during an earlier or subsequent visit and we are able to link your IP address between your current visit and one of these other visits.<br><br>We also work with service providers who use tracking technologies to serve ads across the Internet or track email communication response rates on our behalf.&nbsp; These companies may collect personal information about your visits to this Company Website and your interaction with our communications, including advertising.<br><br>In addition to anonymous information, we also collect personal information from you at this Company Website when you voluntarily submit it to us.&nbsp; We request personal information from you (which may include your name, address, telephone number, email address, gender, year of birth, and when necessary, credit account information) when you:<br><br><ul class="unIndentedList"><li> Complete a request, registration, survey, application or other form;</li><li> Request a product or service from us or from one of our vendors, suppliers or other agents;</li><li> Sign-up to receive email newsletters or other correspondence;</li><li> Submit materials to this Website;</li><li> Participate in a promotion, contest, sweepstakes or similar promotional activity;</li><li> Request materials from us; and/or</li><li> Request e-mail, fax, mail or telephone support or services.</li></ul><br>We also collect information about your activities on and through this Company Website from other third parties.<br><br>You may choose not to provide us with any personal information.&nbsp; In such event, you can still access and use many portions of this Company Website; however, you will not be able to access and use those portions of this Company Website or the services available on or through this Company Website that require your personal information.<br><br><h2>Using Information</h2><br>We may use the information we collect to:<br><br><ul class="unIndentedList"><li> Customize and/or personalize your communications, surfing, viewing, and user experience; </li><li> Better respond to your customer service inquiries; </li><li> Communicate with you about your account information, or customer service needs; </li><li> Communicate with you about our services and events, and for other promotional purposes; </li><li> Improve our service; </li><li> Administer contests, promotions, surveys or other website features; </li><li> Provide technical support to you; and </li><li> Perform any other lawful acts except for those acts expressly prohibited by the terms and conditions set forth herein.</li></ul><br><h2>Sharing Information </h2><br>Except as expressly set forth herein, we do not loan, give away, sell, distribute or rent your personal information to any third party.<br><br>We will disclose your personal information to third parties if you have previously consented to such disclosures and in special circumstances, including, but not limited to, the sale of Company or any portion thereof; during the due diligence in connection with a potential sale of Company or any portion thereof; during any bankruptcy, insolvency or liquidation of Company; or in other similar circumstances.<br><br>For the purpose of fulfilling our mission and providing you with certain services and products and to process your requests, purchases, and payments, we may disclose your personal information to one or more of our affiliates, service providers or other third parties who are assisting Company in performing such services.&nbsp; Without limiting the foregoing, these third parties may provide Company with payment processing, shipping, data management, email distribution, live text chat, email response, market research, information analysis, and promotions management services.&nbsp; We provide such parties with the personal information they need to perform their respective services and we use commercially reasonable efforts to require them to safeguard your personal information and limit their use of it. <br><br>We also may provide your personal information to other Company-affiliated companies which may be outside the United States, and who may use your personal information for any legal purposes whatsoever. <br><br>We also may disclose personal information about you upon request by the government; in response to a court order; when required by law or when we believe in good faith is required by law; to enforce our Privacy Policy, terms and conditions or other agreements and polices on this Company Website; upon your request; or to contact, identify or bring legal action against someone who may be causing injury to or interference with our or others' rights or property including, but not limited to, claims for infringement of intellectual property, invasions of privacy or situations involving threats or alleged threats to the physical safety of a person's property.&nbsp; We may also share information with companies assisting in fraud protection or investigation.&nbsp; We do not provide information to these agencies or companies for marketing purposes.<br><br>We may also provide aggregated, non-personally identifiable information to third parties for any legal purposes whatsoever.<br><br><h2>Protecting Your Information </h2><br>We use commercially reasonable efforts to safeguard and secure your personal information while stored on our computer systems.&nbsp; We use a variety of industry standard security measures, including encryption and authentication tools, to maintain the confidentiality of your personal information.&nbsp; Your personal information is stored behind industry standard firewalls and is only accessible by a limited number of persons who are authorized to access such systems, and are required to keep the information confidential.&nbsp; Regardless of these efforts by us, no system connected to the internet can be guaranteed to be 100% secure.<br><br>We use commercially reasonable effort to safeguard and secure the transmission of your personal information from your computer to our computers.&nbsp; When you access your personal information or place orders, we offer the use of a secure server.&nbsp; To the extent you select the secure server method or your browser supports such functionality, all credit account information you supply is transmitted via Secure Socket Layer (SSL) technology.&nbsp; Regardless of these efforts by us, no data transmission over the public Internet can be guaranteed to be 100% secure. <br><br><h2>Cookies and Pixel Tags </h2><br>This Company Website uses cookies.&nbsp; A cookie is a small, removable data file that is stored by your web browser on your computer.&nbsp; Cookies allow you to place an order on this Company Website and allow us to enhance, facilitate and personalize your online surfing and user experience.&nbsp; For example, we use cookies to: <br><br><ul class="unIndentedList"><li> Recognize you when you return to this Company Website; </li><li> Present relevant content to you when you visit this Company Website;</li><li> Analyze visitor behavior; and</li><li> Facilitate other similar types of activities.</li></ul><br>You can choose to have your computer warn you each time a cookie is being sent or you can choose to turn off all cookies. You do this through your web browser settings.&nbsp; If you turn cookies off, you won't have access to many features that make your visit to this Company Website more efficient and enjoyable, and in some cases, some of our services will not function or will function with limited capability. &nbsp;<br><br>We also use pixel tags- tiny graphic images- to help us analyze your online behavior and information about visitors to this Company Website and our customers.&nbsp; Pixel tags also allow us to send you email in a format you can read and let us know when you have opened an email message from us. &nbsp;<br><br><h2>Tell a Friend&nbsp;&nbsp; &nbsp;</h2><br>If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. Company collects the email address of your friend for the sole purpose of automatically sending the friend an email inviting them to visit the site but does not store this information. <br><br><h2>Children's Online Privacy</h2><br>We do not knowingly collect personal information from children under the age of 13.&nbsp; This Company Website is not intended to solicit information of any kind from children under the age of 13, and we have made commercially reasonable efforts to design this Company Website to prevent our knowing acceptance of any such information.<br><br>It is possible that by fraud, deception or error, we may receive information pertaining to children under the age of 13.&nbsp; If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers.&nbsp; If you want to notify us of our receipt of personal information belonging to a child under the age of 13, please do so at admin@youngmoney.com. <br><br><h2>Chat Rooms and Forums</h2><br>This Company Website may now or in the future include web logs (i.e., blogs), chat rooms, forums, message boards, and/or news groups.&nbsp; Any information that is disclosed in these areas becomes public information.&nbsp; You should exercise caution before disclosing your personal information via these public venues, which you do at your own risk.&nbsp; If you do so, you may receive, among other things, unsolicited emails or "spam" from others.&nbsp; Company cannot safeguard the privacy of personal information that is disclosed online in this manner. <br><br><h2>Other Websites</h2><br>When browsing this Company Website, you may be directed to other websites that are beyond our control.&nbsp; These other websites may use cookies and pixel tags, collect data, or solicit personal information.&nbsp; Even though Company may be affiliated with these websites, we have no control over them or how they collect, distribute or otherwise use your personal information or how they safeguard and secure your personal information.&nbsp; Company is not responsible or liable for the conduct, policies or actions of the owners of such websites or the content displayed on these websites.&nbsp; These websites are linked to this Company Website only for your convenience and you access them at your own risk.<br><br><h2>Unsubscribing, Removing or Modifying Your Information </h2><br>We want to communicate with you only if you want to hear from us. &nbsp;<br><br>To modify or delete any or all of the personal information you have provided to us, please login and update your profile. <br><br>You may unsubscribe from receiving emails from us at any time by using the link included at the bottom of each email communication. You may also unsubscribe by sending us an email at admin@youngmoney.com.&nbsp; &nbsp;<br><br>In some limited circumstances, such as to resolve disputes, troubleshoot problems and enforce our Website Terms and Conditions of Use Agreement, we may retain in our files information you have requested to remove.&nbsp; Further, your personal information is never completely removed from our databases due to technical constraints and the fact that we back up our systems.&nbsp; Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your requests. &nbsp;<br><br>We reserve the right to send you certain communications related to this Company Website that are considered part of your account, such as technical alerts, without offering you the opportunity to opt out of receiving them. &nbsp;<br><br><h2>Terms and Conditions </h2><br>Company has a Terms and Conditions Agreement that sets forth the terms and conditions under which we provide products, services and information to you from this Company Website.&nbsp; Please review the terms and conditions governing your use of, and access to, this Company Website.&nbsp; It is your responsibility to read, understand and comply with the terms and conditions set forth therein.<br><br><h2>Questions and Feedback </h2><br>We welcome your questions, comments, and concerns about this Privacy Policy and our privacy practices.&nbsp; Please send us feedback at admin@youngmoney.com pertaining to these matters or any other issue you may have with Company or this Company Website. &nbsp;<br><br>If you feel that we are not following our stated Privacy Policy, you may also contact state or local chapters of the Better Business Bureau, your state or local consumer protection office, or The Federal Trade Commission by phone at 202-FTC-HELP (202.382.4357) or at http://www.ftc.gov/ftc/complaint.htm.<br><br>Last Updated:&nbsp; April 2, 2008<br><br>  
-
-<div id="center-left">
-  
-  
-  
-</div>
-
-<div id="center-right">
-  <h1>
-  <a href="http://api.flickr.com/services/feeds/photos_public.gne?id=71209412@N00&amp;lang=en-us&amp;format=rss2">
-    <img src="/images/feed_icons/rss-small.gif" alt="YOUNG MONEY Live! RSS">
-  </a>
-  YOUNG MONEY Live!
-</h1>
-
-<div class="node">
-  <img src="/images/layout/ym_live.jpg" class="content-image">
-  We may be visiting your campus! Check out our event schedule and photo albums of past events.
-  <div class="clear"></div>
-</div>
-
-<p class="note">
-  <a href="/events">View schedule</a> |
-  <a href="http://flickr.com/photos/youngmoneymag">Visit us on Flickr »</a>
-</p>
-
-  
-</div>
-
-
-  <div class="clear"></div><br>  
-  
-
-  <div id="footer">
-    
-      <a href="/privacy">Privacy Statement</a> | <a href="/mediakit">Advertise</a> | <a href="/aboutus">About Us</a> | <a href="/subscribe">Subscribe</a> | <a href="/terms">Terms Of Use</a> | <a href="/contact">Contact Us</a>
-
-    
-    <p id="copyright">
-      © 2008, Young Money Media, LLC<br>
-      12200 West Colonial Drive, Suite 300-I<br>
-      Winter Garden, FL 34787. All rights reserved.
-    </p>
-  </div>
-
-</div>
-
-    <div id="right-col">
-  <div class="ad">
-<script language="JavaScript" type="text/javascript">
-<!--
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-   
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://icadhub.com/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;what=zone:348");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referrer)
-      document.write ("&amp;referer=" + escape(document.referrer));
-   document.write ("'><" + "/script>");
-//-->
-</script><script language="JavaScript" type="text/javascript" src="http://icadhub.com/adjs.php?n=568357042&amp;what=zone:348&amp;exclude=,"></script><noscript><a href='http://icadhub.com/adclick.php?n=a1ef7bcf' rel='nofollow' target='_blank'><img src='http://icadhub.com/adview.php?what=zone:348&amp;n=a1ef7bcf' border='0' alt=''></a></noscript>
-</div>
-  
-  
-  
-  
-</div>
-
-    </div>
-
-
-
-
-<!-- Start Quantcast tag -->
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<script type="text/javascript">
-_qacct="p-88sWyilYcyaLU";quantserve();</script>
-<noscript>
-<img src="http://pixel.quantserve.com/pixel/p-88sWyilYcyaLU.gif" style="display: none" height="1" width="1" alt="Quantcast"/></noscript>
-<!-- End Quantcast tag -->
-
-<script src="http://services.nuconomy.com/n.js" type="text/javascript"></script>
-<script type="text/javascript">NUCONOMY.ProjectToken = "ad68d575-64";</script>
-<script type="text/javascript">
-NUCONOMY.Logger.LogActivity("", "", document.location, 1, 1);
 </script>
+<script type="text/javascript">
+function menuStart(){
+	redirectLink();
+	var nodeID=["nav-main"];
+	for(var j=0;j<nodeID.length;j++){
+		if(document.getElementById(nodeID[j])){
+			var mainnode=document.getElementById(nodeID[j]).getElementsByTagName("ul");
+			var node = document.getElementById(nodeID[j]).getElementsByTagName("li");
+				for (var i=0; i<node.length; i++){
+						node[i].className="trigger CF";
+					
+					
+													}
+				}
+		}
+	}
 
+</script>
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.youngmoney.com/feed/">
+<link rel="alternate" type="text/xml" title="RSS .92" href="http://www.youngmoney.com/feed/rss/">
+<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="http://www.youngmoney.com/feed/atom/">
+
+<link rel="pingback" href="http://www.youngmoney.com/xmlrpc.php">
+
+
+<link rel="icon" href="http://www.youngmoney.com/wp-content/themes/youngmoney/images/favicon.ico">
+<link rel="shortcut icon" href="http://www.youngmoney.com/wp-content/themes/youngmoney/images/favicon.ico">
+
+<link rel="stylesheet" href="http://www.youngmoney.com/wp-content/plugins/author-avatars/css/shortcode.css?ver=0.7.4" type="text/css" media="all">
+<link rel="stylesheet" href="http://www.youngmoney.com/wp-content/plugins/author-avatars/css/widget.css?ver=0.7.4" type="text/css" media="all">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.youngmoney.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.youngmoney.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 2.7.1">
+
+<style type="text/css">.addtoany_share_save img{border:0;}</style>
+
+<!-- All in One SEO Pack 1.6.4 by Michael Torbert of Semper Fi Web Design[347,393] -->
+<link rel="canonical" href="http://www.youngmoney.com/privacy-statement/">
+<!-- /all in one seo pack -->
+
+<!-- Start Of Script Generated By WP-EMail 2.40 -->
+<script type="text/javascript">
+/* <![CDATA[ */
+	var email_ajax_url = 'http://www.youngmoney.com/wp-content/plugins/wp-email/wp-email.php';
+	var email_max_allowed = '5';
+	var email_verify = '';
+	var email_text_error = 'The Following Error Occurs:';
+	var email_text_name_invalid = '- Your Name is empty/invalid';
+	var email_text_email_invalid = '- Your Email is empty/invalid';
+	var email_text_remarks_invalid = '- Your Remarks is invalid';
+	var email_text_friend_names_empty = '- Friend Name(s) is empty';
+	var email_text_friend_name_invalid = '- Friend Name is empty/invalid:';
+	var email_text_max_friend_names_allowed = '- Maximum 5 Friend Names allowed';
+	var email_text_friend_emails_empty = '- Friend Email(s) is empty';
+	var email_text_friend_email_invalid = '- Friend Email is invalid:';
+	var email_text_max_friend_emails_allowed = '- Maximum 5 Friend Emails allowed';
+	var email_text_friends_tally = '- Friend Name(s) count does not tally with Friend Email(s) count';
+	var email_text_image_verify_empty = '- Image Verification is empty';
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.youngmoney.com/wp-includes/js/tw-sack.js?ver=1.6.1"></script>
+<script type="text/javascript" src="http://www.youngmoney.com/wp-content/plugins/wp-email/email-js-packed.js?ver=2.40"></script>
+<link rel="stylesheet" href="http://www.youngmoney.com/wp-content/plugins/wp-email/email-css.css?ver=2.40" type="text/css" media="all">
+<!-- End Of Script Generated By WP-EMail 2.40 -->
+
+<!-- Start Of Script Generated By WP-Polls 2.40 -->
+<script type="text/javascript">
+/* <![CDATA[ */
+	var polls_ajax_url = 'http://www.youngmoney.com/wp-content/plugins/wp-polls/wp-polls.php';
+	var polls_text_wait = 'Your last request is still being processed. Please wait a while ...';
+	var polls_text_valid = 'Please choose a valid poll answer.';
+	var polls_text_multiple = 'Maximum number of choices allowed:';
+	var poll_show_loading = 1;
+	var poll_show_fading = 1;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.youngmoney.com/wp-content/plugins/wp-polls/polls-js-packed.js?ver=2.40"></script>
+<link rel="stylesheet" href="http://www.youngmoney.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.40" type="text/css" media="all">
+<style type="text/css">
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 6px;
+	line-height: 8px;
+	height: 8px;
+	background-image: url('http://www.youngmoney.com/wp-content/plugins/wp-polls/images/default/pollbg.gif');
+	border: 1px solid #c8c8c8;
+}
+</style>
+<!-- End Of Script Generated By WP-Polls 2.40 -->
+
+</head>
+
+<body onload="menuStart();">
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
+try {
 var pageTracker = _gat._getTracker("UA-4544529-1");
-pageTracker._initData();
+pageTracker._setDomainName("youngmoney.com");
+pageTracker._setAllowLinker(true);
+pageTracker._setAllowHash(false);
 pageTracker._trackPageview();
-</script>
+} catch(err) {}</script>
 
-
+<!-- Main container starts here -->
+ <div id="main_container">
+ <div id="global_container">
+  <!-- Header starts here -->
+   <div id="header">
+		<div id="logo">
+	   		<a href="http://www.youngmoney.com/"><img src="http://www.youngmoney.com/wp-content/themes/youngmoney/images/logo.jpg" width="177px" border="0" alt=""></a>	
+		</div>
+	 	<div id="header_right">
+      		<div class="hdr_top">
+      			<p class="hdr_txt">Tuesday | November 03, 2009</p>
+      			 <div class="login_signup">
+      			       			 	<img src="http://www.youngmoney.com/wp-content/themes/youngmoney/images/login_signup.jpg" alt="LOGIN" usemap="#Map" border="0">      			 	
+			          <map name="Map" id="Map">			          
+			            <area shape="rect" coords="1,2,43,21" href="http://www.youngmoney.com/members" alt="LOGIN">
+			            <area shape="rect" coords="49,2,96,20" href="http://www.youngmoney.com/members?action=register" alt="SIGN UP">			            
+			          </map>
+			                  		</div>       		
+          			 <form id="cse-search-box" action="/search/" name="search">
+   <input type="hidden" name="cx" value="partner-pub-7148367039965331:k5avzkjtb3q">
+    <input type="hidden" name="cof" value="FORID:9"> 
+   <input type="hidden" name="ie" value="ISO-8859-1"> <input class="form_field" name="q" value=""> <a onclick="siteSearch();return false" href="http://www.youngmoney.com/search/">
+   <img src="http://www.youngmoney.com/wp-content/themes/youngmoney/images/search.jpg" alt="SEARCH" align="top" border="0"></a><br>
+   <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script></form></div>
   
 
-</body></html>
+
+
+
+            		<div class="hdr_btm" align="left">
+          			 <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"> </script> <script type="text/javascript"> GS_googleAddAdSenseService("ca-pub-7148367039965331"); GS_googleEnableAllServices(); </script> <script type="text/javascript"> GA_googleAddSlot("ca-pub-7148367039965331", "Home-Page-728x90-Leaderboard"); </script> <script type="text/javascript"> GA_googleFetchAds(); </script> <!-- END OF TAG FOR head SECTION -->  <script type="text/javascript"> GA_googleFillSlot("Home-Page-728x90-Leaderboard"); </script>
+          		</div>
+        	 </div>        		<!-- header_right ends here -->
+     		</div>	     	  <!-- Header ends here -->
+     		<!--Navigation Starts Here -->       		
+   			<div id="nav-main">   
+			  	 
+				  	 <ul class="TJK_dropDownMenu">
+				  	 
+				  	 
+				  	 <li class="trigger CF" id="catid"><a href="http://www.youngmoney.com">Home</a></li>
+							<li id="catid71" class="trigger CF"><a href="http://www.youngmoney.com/calculators_tools/" title="Calculator/Tools">Calculator/Tools</a>
+</li>
+	<li id="catid1" class="trigger CF"><a href="http://www.youngmoney.com/careers/" title="Careers">Careers</a>
+</li>
+	<li id="catid5" class="trigger CF"><a href="http://www.youngmoney.com/entrepreneur/" title="Entrepreneurship">Entrepreneurship</a>
+</li>
+	<li id="catid2" class="trigger CF"><a href="http://www.youngmoney.com/investing/" title="Investing">Investing</a>
+</li>
+	<li id="catid4" class="trigger CF"><a href="http://www.youngmoney.com/credit_debt/" title="Personal Finance">Personal Finance</a>
+</li>
+					 <li class="trigger CF" id="catid"><a href="http://www.youngmoney.com/stock-market-game">Stock Market Game</a></li>
+				  	 </ul>
+			  		  
+			 </div>
+
+			   <!--Body Container Starts Here -->
+			  <div id="body_container"><div id="content">
+<div style="padding: 25px 25px 0px 25px;">
+			<b> </b>
+		<div class="post" id="post_3629">
+	<div class="entry clearfloat">
+		<div class="breadcrumbs"><a href="http://www.youngmoney.com">Home</a> » Privacy Statement
+</div>
+<h1>Privacy Statement</h1>
+<p>This website (”Company Website”) is operated by Young Money Media, LLC (”Company”) and this policy applies to all websites owned, operated, controlled and otherwise made available by Company, its affiliates and supported organizations (including, but not limited to, mirrored, co-branded and successor sites).  Our office address is:</p>
+<p>Young Money Media, LLC<br>
+10950 Gilroy Road<br>
+Suite D<br>
+Hunt Valley, MD 21031<br>
+United States of America<br>
+We may be reached via <a href="mailto:admin@youngmoney.com">email</a>.</p>
+<p><span class="static_page_headings">Introduction</span></p>
+<p>Company respects the privacy and security of your personal information. The following privacy policy describes the information we collect, how we use it and what rights you have to it.  By using this Company Website, you acknowledge and agree to the terms and conditions of this Website Privacy Policy Statement (”Privacy Policy”).  If you do not agree to these terms and conditions, please do not use this Company Website.</p>
+<p>We reserve the right to change or modify our privacy practices that are described herein from time to time simply by posting a revised Privacy Policy on this Company Website.  Any such change shall be effective immediately upon posting of the revised Privacy Policy on this Company Website.  We reserve the right to make the revised or changed Privacy Policy effective for information we already have about you, as well as any information we receive in the future.  We encourage you to refer to this Privacy Policy on an ongoing basis so that you understand our current privacy practices.</p>
+<p><span class="static_page_headings">Privacy Policy</span></p>
+<p>Like many websites, we gather information about how visitors use this Company Website. In general, you can visit many of the web pages on this Company Website without telling us who you are or revealing any personal information about yourself.  We, however, may track your Internet Protocol (IP) address and other anonymous information from your web browser for trends and statistics (including, but not limited to, browser version, pages requested and pages visited), but you will remain anonymous unless you provide us with personal information during your visit to this Company Website or during an earlier or subsequent visit and we are able to link your IP address between your current visit and one of these other visits.</p>
+<p>We also work with service providers who use tracking technologies to serve ads across the Internet or track email communication response rates on our behalf.  These companies may collect personal information about your visits to this Company Website and your interaction with our communications, including advertising.</p>
+<p>In addition to anonymous information, we also collect personal information from you at this Company Website when you voluntarily submit it to us.  We request personal information from you (which may include your name, address, telephone number, email address, gender, year of birth, and when necessary, credit account information) when you:</p>
+<ul style="padding:0 0 0 25px;">
+<li> Complete a request, registration, survey, application or other form;</li>
+<li> Request a product or service from us or from one of our vendors, suppliers or other agents;</li>
+<li> Sign-up to receive email newsletters or other correspondence;</li>
+<li> Submit materials to this Website;</li>
+<li> Participate in a promotion, contest, sweepstakes or similar promotional activity;</li>
+<li> Request materials from us; and/or</li>
+<li> Request e-mail, fax, mail or telephone support or services.</li>
+</ul>
+<p><br><br>
+We also collect information about your activities on and through this Company Website from other third parties.</p>
+<p>You may choose not to provide us with any personal information.  In such event, you can still access and use many portions of this Company Website; however, you will not be able to access and use those portions of this Company Website or the services available on or through this Company Website that require your personal information.</p>
+<p><span class="static_page_headings">Using Information</span></p>
+<p>We may use the information we collect to:</p>
+<ul style="padding:0 0 0 25px;">
+<li> Customize and/or personalize your communications, surfing, viewing, and user experience;
+</li><li> Better respond to your customer service inquiries;</li>
+<li> Communicate with you about your account information, or customer service needs;</li>
+<li> Communicate with you about our services and events, and for other promotional purposes;</li>
+<li> Improve our service;</li>
+<li> Administer contests, promotions, surveys or other website features;</li>
+<li> Provide technical support to you; and</li>
+<li> Perform any other lawful acts except for those acts expressly prohibited by the terms and conditions set forth herein.</li>
+</ul>
+<p><br></p>
+<p><span class="static_page_headings">Sharing Information</span></p>
+<p>Except as expressly set forth herein, we do not loan, give away, sell, distribute or rent your personal information to any third party.</p>
+<p>We will disclose your personal information to third parties if you have previously consented to such disclosures and in special circumstances, including, but not limited to, the sale of Company or any portion thereof; during the due diligence in connection with a potential sale of Company or any portion thereof; during any bankruptcy, insolvency or liquidation of Company; or in other similar circumstances.</p>
+<p>For the purpose of fulfilling our mission and providing you with certain services and products and to process your requests, purchases, and payments, we may disclose your personal information to one or more of our affiliates, service providers or other third parties who are assisting Company in performing such services.  Without limiting the foregoing, these third parties may provide Company with payment processing, shipping, data management, email distribution, live text chat, email response, market research, information analysis, and promotions management services.  We provide such parties with the personal information they need to perform their respective services and we use commercially reasonable efforts to require them to safeguard your personal information and limit their use of it.</p>
+<p>We also may provide your personal information to other Company-affiliated companies which may be outside the United States, and who may use your personal information for any legal purposes whatsoever.</p>
+<p>We also may disclose personal information about you upon request by the government; in response to a court order; when required by law or when we believe in good faith is required by law; to enforce our Privacy Policy, terms and conditions or other agreements and polices on this Company Website; upon your request; or to contact, identify or bring legal action against someone who may be causing injury to or interference with our or others’ rights or property including, but not limited to, claims for infringement of intellectual property, invasions of privacy or situations involving threats or alleged threats to the physical safety of a person’s property.  We may also share information with companies assisting in fraud protection or investigation.  We do not provide information to these agencies or companies for marketing purposes.</p>
+<p>We may also provide aggregated, non-personally identifiable information to third parties for any legal purposes whatsoever.</p>
+<p><span class="static_page_headings">Protecting Your Information</span></p>
+<p>We use commercially reasonable efforts to safeguard and secure your personal information while stored on our computer systems.  We use a variety of industry standard security measures, including encryption and authentication tools, to maintain the confidentiality of your personal information.  Your personal information is stored behind industry standard firewalls and is only accessible by a limited number of persons who are authorized to access such systems, and are required to keep the information confidential.  Regardless of these efforts by us, no system connected to the internet can be guaranteed to be 100% secure.</p>
+<p>We use commercially reasonable effort to safeguard and secure the transmission of your personal information from your computer to our computers.  When you access your personal information or place orders, we offer the use of a secure server.  To the extent you select the secure server method or your browser supports such functionality, all credit account information you supply is transmitted via Secure Socket Layer (SSL) technology.  Regardless of these efforts by us, no data transmission over the public Internet can be guaranteed to be 100% secure.</p>
+<p><span class="static_page_headings">Cookies and Pixel Tags</span></p>
+<p>This Company Website uses cookies.  A cookie is a small, removable data file that is stored by your web browser on your computer.  Cookies allow you to place an order on this Company Website and allow us to enhance, facilitate and personalize your online surfing and user experience.  For example, we use cookies to:</p>
+<ul style="padding:0 0 0 25px;">
+<li> Recognize you when you return to this Company Website;</li>
+<li> Present relevant content to you when you visit this Company Website;</li>
+<li> Analyze visitor behavior; and</li>
+<li> Facilitate other similar types of activities.</li>
+</ul>
+<p><br><br>
+You can choose to have your computer warn you each time a cookie is being sent or you can choose to turn off all cookies. You do this through your web browser settings.  If you turn cookies off, you won’t have access to many features that make your visit to this Company Website more efficient and enjoyable, and in some cases, some of our services will not function or will function with limited capability.  </p>
+<p>We also use pixel tags- tiny graphic images- to help us analyze your online behavior and information about visitors to this Company Website and our customers.  Pixel tags also allow us to send you email in a format you can read and let us know when you have opened an email message from us.  </p>
+<p><span class="static_page_headings">Tell a Friend</span></p>
+<p>If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. Company collects the email address of your friend for the sole purpose of automatically sending the friend an email inviting them to visit the site but does not store this information.</p>
+<p><span class="static_page_headings">Children’s Online Privacy</span></p>
+<p>We do not knowingly collect personal information from children under the age of 13.  This Company Website is not intended to solicit information of any kind from children under the age of 13, and we have made commercially reasonable efforts to design this Company Website to prevent our knowing acceptance of any such information.</p>
+<p>It is possible that by fraud, deception or error, we may receive information pertaining to children under the age of 13.  If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers.  If you want to notify us of our receipt of personal information belonging to a child under the age of 13, please do so by emailing us.</p>
+<p><span class="static_page_headings">Chat Rooms and Forums</span></p>
+<p>This Company Website may now or in the future include web logs (i.e., blogs), chat rooms, forums, message boards, and/or news groups.  Any information that is disclosed in these areas becomes public information.  You should exercise caution before disclosing your personal information via these public venues, which you do at your own risk.  If you do so, you may receive, among other things, unsolicited emails or “spam” from others.  Company cannot safeguard the privacy of personal information that is disclosed online in this manner.</p>
+<p><span class="static_page_headings">Other Websites</span></p>
+<p>When browsing this Company Website, you may be directed to other websites that are beyond our control.  These other websites may use cookies and pixel tags, collect data, or solicit personal information.  Even though Company may be affiliated with these websites, we have no control over them or how they collect, distribute or otherwise use your personal information or how they safeguard and secure your personal information.  Company is not responsible or liable for the conduct, policies or actions of the owners of such websites or the content displayed on these websites.  These websites are linked to this Company Website only for your convenience and you access them at your own risk.</p>
+<p><span class="static_page_headings">Unsubscribing, Removing or Modifying Your Information</span></p>
+<p>We want to communicate with you only if you want to hear from us.  </p>
+<p>To modify or delete any or all of the personal information you have provided to us, please login and update your profile.</p>
+<p>You may unsubscribe from receiving emails from us at any time by using the link included at the bottom of each email communication. You may also unsubscribe by sending us an <a href="mailto:admin@youngmoney.com">email</a>.   </p>
+<p>In some limited circumstances, such as to resolve disputes, troubleshoot problems and enforce our Website Terms and Conditions of Use Agreement, we may retain in our files information you have requested to remove.  Further, your personal information is never completely removed from our databases due to technical constraints and the fact that we back up our systems.  Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your requests.  </p>
+<p>We reserve the right to send you certain communications related to this Company Website that are considered part of your account, such as technical alerts, without offering you the opportunity to opt out of receiving them.  </p>
+<p><span class="static_page_headings">Terms and Conditions</span></p>
+<p>Company has a Terms and Conditions Agreement that sets forth the terms and conditions under which we provide products, services and information to you from this Company Website.  Please review the terms and conditions governing your use of, and access to, this Company Website.  It is your responsibility to read, understand and comply with the terms and conditions set forth therein.</p>
+<p><span class="static_page_headings">Questions and Feedback</span></p>
+<p>We welcome your questions, comments, and concerns about this Privacy Policy and our privacy practices.  Please send us <a href="mailto:admin@youngmoney.com">feedback</a> pertaining to these matters or any other issue you may have with Company or this Company Website.  </p>
+<p>If you feel that we are not following our stated Privacy Policy, you may also contact state or local chapters of the Better Business Bureau, your state or local consumer protection office, or The Federal Trade Commission by phone at 202-FTC-HELP (202.382.4357) or at <a href="http://www.ftc.gov/ftc/complaint.htm">http://www.ftc.gov/ftc/complaint.htm.</a></p>
+<p>Last Updated:  April 2, 2008</p>
+	</div>
+</div>
+		</div>
+	</div>
+	
+
+<script type="text/javascript" src="scripts/css_browser_selector.js"></script>
+ <!-- Footer Starts Here -->
+  <div id="footer">
+  
+	
+	<!-- Kontera ContentLink(TM) -->
+    <div class="index">
+      <!-- Dynamic Footer Links -->
+<div style="padding:0 0 10px 200px;">
+    <ul class="footerUl">
+<li class="cat-item"><a href="http://www.youngmoney.com">Home</a></li>
+  	<li id="catid71" class="cat-item cat-item-71"><a href="http://www.youngmoney.com/calculators_tools/" title="Calculator/Tools">Calculator/Tools</a>
+</li>
+	<li id="catid1" class="cat-item cat-item-1"><a href="http://www.youngmoney.com/careers/" title="Careers">Careers</a>
+</li>
+	<li id="catid5" class="cat-item cat-item-5"><a href="http://www.youngmoney.com/entrepreneur/" title="Entrepreneurship">Entrepreneurship</a>
+</li>
+	<li id="catid2" class="cat-item cat-item-2"><a href="http://www.youngmoney.com/investing/" title="Investing">Investing</a>
+</li>
+	<li id="catid4" class="cat-item cat-item-4"><a href="http://www.youngmoney.com/credit_debt/" title="Personal Finance">Personal Finance</a>
+</li>
+    </ul></div>
+      <!-- End of Dynamic Footer Links -->
+
+      <p style="float:left;" class="small_txt"><a href="http://www.youngmoney.com/privacy-statement">Privacy Statement</a> | <a href="http://www.youngmoney.com/mediakit">Advertise</a> | <a href="http://www.youngmoney.com/about-us">About Us</a> | <a href="http://www.youngmoney.com/mediakit/financial-literacy/">Financial Literacy</a> | <a href="http://www.youngmoney.com/jobs">Jobs</a> | <a href="http://www.youngmoney.com/subscribe">Subscribe</a> | <a href="http://www.youngmoney.com/terms">Terms Of Use</a> | <a href="http://www.youngmoney.com/write-for-us">Write For Us</a> | <a href="http://www.youngmoney.com/contact-us">Contact Us</a> | <a href="http://www.youngmoney.com/sitemap">Site Map</a><br>
+        <span class="copy_right">© 2009, Young Money, LLC 10950 Gilroy Road, Suite D Hunt Valley, MD 21031. All rights reserved. 
+	</span></p><div style="display:none;">Stat Counter: 1697656</div> <p></p>
+    </div>
+  </div>
+  <!-- Footer Ends Here -->
+  <div id="avatar_footer" style="display: none;"><a href="http://www.sterling-adventures.co.uk/blog/">Adventures</a></div><!-- AdSense Manager v3.2.13 (0.287 seconds.) -->
+<script type="text/javascript">
+try {
+_uacct = "UA-4544529-1";
+urchinTracker();
+} catch(err) {}</script>
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-8b_OEUBzMLPcs"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-8b_OEUBzMLPcs.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+
+
+ 
+  <!-- Kontera ContentLink(TM);-->
+	<script type="text/javascript">
+	var dc_AdLinkColor = 'blue' ;
+	var dc_PublisherID = 6860 ;
+	</script>
+	<script type="text/javascript" src="http://kona.kontera.com/javascript/lib/KonaLibInline.js">
+	</script>
+</div></div></div></body></html>
