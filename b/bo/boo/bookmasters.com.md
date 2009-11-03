@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmasters.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626093505id_/http%3A//www.bookmasters.com/services/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmasters.com privacy policy that was archived on 2009-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091103070059id_/http%3A//www.bookmasters.com/services/privacy.htm) for the most accurate reproduction.*
 
 # Other Services - Privacy Policy
 
