@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allkidsnetwork.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626121205id_/http%3A//www.allkidsnetwork.com/about/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allkidsnetwork.com privacy policy that was archived on 2009-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091103145549id_/http%3A//www.allkidsnetwork.com/about/privacy-policy.asp) for the most accurate reproduction.*
 
 # AllKidsNetwork.com Privacy Policy
 
