@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the evernote.com privacy policy that was archived on 2009-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090305232056id_/http%3A//evernote.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evernote.com privacy policy that was archived on 2009-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091103160040id_/http%3A//www.evernote.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Evernote Corporation
 
-**Effective Date: July 23, 2008**
+**Effective Date: May 5, 2009**
 
 Evernote Corporation values the privacy of those who use our web site, products and services and makes all commercially reasonable efforts to protect it. This Privacy Policy covers the collection, use and disclosure of personal information that may be collected any time you interact with Evernote, such as when you visit our web site, use or purchase our products and services, or communicate with Evernote employees. Please read the following to learn more about what information we collect, what we do with that information, and how we may use your personal information.
 
@@ -90,5 +90,5 @@ Evernote welcomes your feedback regarding this Privacy Policy and our [Terms of 
 
 Evernote Corporation  
 Attn: Compliance Manager  
-710 Lakeway Dr. #290  
-Sunnyvale, CA 94085
+333 Evelyn Ave  
+Mountain View, CA 94041
