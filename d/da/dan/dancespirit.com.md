@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dancespirit.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623063030id_/http%3A//dancespirit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dancespirit.com privacy policy that was archived on 2009-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091103142635id_/http%3A//www.dancespirit.com/privacy) for the most accurate reproduction.*
 
 # Dance Spirit Magazine
 
