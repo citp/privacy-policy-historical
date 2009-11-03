@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weatherzone.com.au privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616185709id_/http%3A//www.weatherzone.com.au/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weatherzone.com.au privacy policy that was archived on 2009-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091103045630id_/http%3A//www.weatherzone.com.au/about/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
