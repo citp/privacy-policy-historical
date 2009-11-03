@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the taste.com.au privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502180832id_/http%3A//www.taste.com.au/page/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taste.com.au privacy policy that was archived on 2009-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091103142732id_/http%3A//www.taste.com.au/page/privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy - Taste.com.au
 
-[Taste.com.au](http://www.taste.com.au/) Privacy Policy statement was last updated: March 26, 2008
+[Taste.com.au](http://www.taste.com.au/) Privacy Policy statement was last updated: May 13, 2009
 
 This statement has been produced with reference to the guidelines set out by the Office of the Federal Privacy Commissioner, Australia. For more information visit: [www.privacy.gov.au](http://www.privacy.gov.au/)
 
@@ -75,6 +75,10 @@ Our websites provide links to other third party websites outside our network and
 
 We understand the importance of protecting the privacy of children, especially in an online environment. Our websites are not intentionally designed for or directed at children, and we do not intentionally collect or maintain information about children.
 
+## User Agreement
+
+Users of this website are also bound by the conditions of the Taste.com.au [user agreement](https://web.archive.org/web/20091103142732id_/http://taste.com.au/forums/viewtopic.php?t=2).
+
 ## How to contact us for more information
 
 If you have any questions or comments regarding this policy, please email us at:
@@ -89,4 +93,4 @@ News Magazines
 Alexandria NSW 2015  
 Australia
 
-[Contact us](http://www.taste.com.au/page/contactus/) through this online form.
+[Contact us](https://web.archive.org/page/contactus/) through this online form.
