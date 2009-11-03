@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the japan-talk.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627045028id_/http%3A//www.japan-talk.com/jt/PrivacyServlet) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japan-talk.com privacy policy that was archived on 2009-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091103102327id_/http%3A//www.japan-talk.com/jt/PrivacyServlet) for the most accurate reproduction.*
 
 # Japan Talk - Privacy Policy
 
-[](https://web.archive.org/jt/photo/7247/photosOfJapan.html)
+[](https://web.archive.org/jt/photo/7244/photosOfJapan.html)
 
 Recent Photos   
-[ ](https://web.archive.org/jt/people/natalee) [ ](https://web.archive.org/jt/people/natalee) [ ](https://web.archive.org/jt/people/natalee) [ ](https://web.archive.org/jt/people/natalee) [ ](https://web.archive.org/jt/people/natalee) [ ](https://web.archive.org/jt/people/natalee) [ ](https://web.archive.org/jt/people/choihb) [ ](https://web.archive.org/jt/people/lokoxsiempre) [ ](https://web.archive.org/jt/people/lokoxsiempre) [ ](https://web.archive.org/jt/people/friend75604) [ ](https://web.archive.org/jt/people/friend75604) [ ](https://web.archive.org/jt/people/friend75604) [ ](https://web.archive.org/jt/people/friend75604) [ ](https://web.archive.org/jt/people/friend75604) [ ](https://web.archive.org/jt/people/friend75604) [ ](https://web.archive.org/jt/people/friend75604) [ ](https://web.archive.org/jt/people/friend75604) [ ](https://web.archive.org/jt/people/friend75604) [ ](https://web.archive.org/jt/people/friend75604) [ ](https://web.archive.org/jt/people/friend75604) [ ](https://web.archive.org/jt/people/zushi99) [ ](https://web.archive.org/jt/people/zushi99) [ ](https://web.archive.org/jt/people/ciddester) [ ](https://web.archive.org/jt/people/fvnbab) [ ](https://web.archive.org/jt/people/kai157) [ ](https://web.archive.org/jt/people/KeixKei29) [ ](https://web.archive.org/jt/people/KeixKei29) [ ](https://web.archive.org/jt/people/Fenix73) [ ](https://web.archive.org/jt/people/zunaryuhaimeev) [ ](https://web.archive.org/jt/people/zunaryuhaimeev)
+[ ](https://web.archive.org/jt/people/choocot) [ ](https://web.archive.org/jt/people/Sival) [ ](https://web.archive.org/jt/people/friend9985) [ ](https://web.archive.org/jt/people/different84) [ ](https://web.archive.org/jt/people/tankerthoma) [ ](https://web.archive.org/jt/people/Meian) [ ](https://web.archive.org/jt/people/sushiroll) [ ](https://web.archive.org/jt/people/coolboytolga) [ ](https://web.archive.org/jt/people/coolboytolga) [ ](https://web.archive.org/jt/people/coolboytolga) [ ](https://web.archive.org/jt/people/coolboytolga) [ ](https://web.archive.org/jt/people/coolboytolga) [ ](https://web.archive.org/jt/people/friend75604) [ ](https://web.archive.org/jt/people/friend75604) [ ](https://web.archive.org/jt/people/friend75604) [ ](https://web.archive.org/jt/people/friend75604) [ ](https://web.archive.org/jt/people/friend75604) [ ](https://web.archive.org/jt/people/friend75604) [ ](https://web.archive.org/jt/people/ChubbyNinja) [ ](https://web.archive.org/jt/people/wildcav) [ ](https://web.archive.org/jt/people/wildcav) [ ](https://web.archive.org/jt/people/Yolanda) [ ](https://web.archive.org/jt/people/Yolanda) [ ](https://web.archive.org/jt/people/deenesh04) [ ](https://web.archive.org/jt/people/dred) [ ](https://web.archive.org/jt/people/nhoabcn) [ ](https://web.archive.org/jt/people/nhoabcn) [ ](https://web.archive.org/jt/people/nhoabcn) [ ](https://web.archive.org/jt/people/HikaruChan) [ ](https://web.archive.org/jt/people/HikaruChan)
 
   
   
@@ -13,6 +13,13 @@ Recent Photos
 
 |  |  Questions  
 ---|---  
+  
+  
+  
+  
+  
+  
+  
   
   
 
