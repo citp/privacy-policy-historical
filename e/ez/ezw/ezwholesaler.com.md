@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezwholesaler.com privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502234302id_/http%3A//www.ezwholesaler.com/Terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezwholesaler.com privacy policy that was archived on 2009-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091103154910id_/http%3A//www.ezwholesaler.com/Terms_privacy.asp) for the most accurate reproduction.*
 
 # EZwholesaler.com offering wholesale, As Seen On TV, Security and Defense, Gift Baskets and More!
 
@@ -65,7 +65,7 @@ This online privacy policy applies only to information collected through our web
 
 Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20090502234302id_/http%3A//www.ezwholesaler.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20091103154910id_/http%3A//www.ezwholesaler.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 Your consent
 
