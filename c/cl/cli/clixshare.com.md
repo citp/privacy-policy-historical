@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clixshare.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426062938id_/http%3A//www.clixshare.com/%3Fmode%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clixshare.com privacy policy that was archived on 2009-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091103104614id_/http%3A//www.clixshare.com/%3Fmode%3Dpolicy) for the most accurate reproduction.*
 
 # clixShare.com - PPC Advertising Network - Partnership Application
 
