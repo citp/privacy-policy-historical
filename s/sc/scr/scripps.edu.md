@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scripps.edu privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430012600id_/http%3A//www.scripps.edu/philanthropy/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scripps.edu privacy policy that was archived on 2009-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091103120653id_/http%3A//www.scripps.edu/philanthropy/privacypolicy.html) for the most accurate reproduction.*
 
 # The Scripps Research Institute - Privacy Policy
 
