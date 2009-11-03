@@ -1,996 +1,277 @@
-<!--The following is the downloaded HTML source of the henryford.com privacy policy that was archived on 2006-04-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060418033049id_/http%3A//henryford.com/body.cfm%3Fid%3D39775) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the henryford.com privacy policy that was archived on 2009-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091103102649id_/http%3A//www.henryford.com/body.cfm%3Fid%3D39113) for the most accurate reproduction.-->
 
-<html><head><script type="text/javascript">
-var dtCurrentDate = new Date();
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 
-//example below we set a Date object to a specific date (14th July 2006), for testing
-//dtCurrentDate = new Date("December 25, 2006 11:00:00");
+					<meta name="description" content="Privacy and Security on Henryford.com Using the Internet-The Choice is Yours Using the Internet to communicate with Henry Ford&amp;nbsp;through www.henryford.com is completely voluntary. You should read this statement to understand">
+				
+<title>Privacy Policy, Henry Ford Hospital, Detroit, MI</title>
+<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">	
 
-var hfDay = dtCurrentDate.getDate();
-var hfMonth = dtCurrentDate.getMonth();
-var hflogo_dir = "1";
+<meta name="modulename" content="Web Pages">
 
-// if month is January
-if (hfMonth == 0){ hflogo_dir = "1";} // snow
-// if month is february
-if (hfMonth == 1) {
-	// and day is LT 9 --->
-	if(hfDay < 8) {hflogo_dir = "1";} // snow	
-	// and day is GTE 10 
-	if(hfDay >= 9){hflogo_dir = "2";} // hearts
-	// and day is GTE 16 
-	if(hfDay >= 15){hflogo_dir = "3";} // snow
-}
-// if month EQ march 
-if(hfMonth == 2){
-	// and day is LTE 10 
-	if(hfDay <= 9){hflogo_dir = "3";} // snow
-	// and day is GTE 11
-	if(hfDay >= 10){hflogo_dir = "4";} // shamrocks
-	// and day is GTE 19 
-	if(hfDay >= 18){hflogo_dir = "5";} // yellow tulips
-}
-// if month EQ april 
-if(hfMonth == 3){hflogo_dir = "5";} // yellow tulips
-// if month EQ may 
-if(hfMonth == 4){
-	// and day LTE 24 
-	if(hfDay <= 23){hflogo_dir = "5";} // yellow tulips
-	// and day GTE 25 
-	if(hfDay >= 24){hflogo_dir = "6";} // flag motif
-}
-// if month EQ june
-if(hfMonth == 5){hflogo_dir = "7";} // black eyed susan flowers
-// if month EQ july
-if(hfMonth == 6){
-	// and day EQ 1 
-	if(hfDay == 0){hflogo_dir = "7";} // back eyed susan flowers
-	// and day GTE 2 
-	if(hfDay >= 1){hflogo_dir = "8";} // flag 
-	// and day GTE 8 
-	if(hfDay >= 7){hflogo_dir = "7";} // black eyed susan flowers 
-}
-//if month EQ august 
-if(hfMonth == 7){
-	// and day LTE 15 
-	if(hfDay <= 14){hflogo_dir = "7";} // black eyed susan flowers
-	//and day GTE 16
-	if(hfDay >= 15){hflogo_dir = "11";} // back to school
-}
-//if month EQ september
-if(hfMonth == 8){
-	// and day LTE 15
-	if(hfDay <= 14){hflogo_dir = "11";} // back to school
-	// and day GTE 16
-	if(hfDay >= 15){hflogo_dir = "10";} // leafs
-}
-//if month EQ october
-if(hfMonth == 9){hflogo_dir = "10";} // leafs
-//if month EQ november 
-if(hfMonth == 10){
-	// and day LTE 25 
-	if(hfDay <= 24){hflogo_dir = "10";} // leafs
-	// and day GTE 26 
-	if(hfDay >= 25){hflogo_dir = "12";} // christmas
-}
-//if month EQ december 
-if(hfMonth == 11){hflogo_dir = "12";} // christmas
+<meta name="sitename" content="henryford">
 
-var hfdir = 'images/seasonal_2006/' + hflogo_dir + '/';
-var imgDay = ''
-var imgNight = '_night'
-var hours = dtCurrentDate.getHours();
-if (hours >=12){ var xm = 'P' } else { var xm = 'A' }
-var hours = ((hours >12) ? hours -12 :hours)
-if (hours == "0") hours = 12;
-var time = hours + "" + xm
-if (time == '12A'){var imode = imgNight}
-if (time == '1A'){var imode = imgNight}
-if (time == '2A'){var imode = imgNight}
-if (time == '3A'){var imode = imgNight}
-if (time == '4A'){var imode = imgNight}
-if (time == '5A'){var imode = imgNight}
-if (time == '6A'){var imode = imgNight}
-if (time == '7A'){var imode = imgDay}
-if (time == '8A'){var imode = imgDay}
-if (time == '9A'){var imode = imgDay}
-if (time == '10A'){var imode = imgDay}
-if (time == '11A'){var imode = imgDay}
-if (time == '12P'){var imode = imgDay}
-if (time == '1P'){var imode = imgDay}
-if (time == '2P'){var imode = imgDay}
-if (time == '3P'){var imode = imgDay}
-if (time == '4P'){var imode = imgDay}
-if (time == '5P'){var imode = imgDay}
-if (time == '6P'){var imode = imgDay}
-if (time == '7P'){var imode = imgDay}
-if (time == '8P'){var imode = imgNight}
-if (time == '9P'){var imode = imgNight}
-if (time == '10P'){var imode = imgNight}
-if (time == '11P'){var imode = imgNight}
 
-function img_(name, ext){  
-	document.write('<img src="' + hfdir + name + imode + ext + '" border="0">');
-}
-function bg_(name, ext){
-	document.write(hfdir + name + imode + ext);
-}
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+			
+		
+		 
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+
+		
+
+		
+		
+		
+
+			
+				
+			
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+			
+
+		
+		
+		
+		
+				
+		
+		
+		
+				
+		
+			
+		
+
+		
+		
+		
+		
+		
+		
+	
+		
+			
+			
+			
+		
+		
+		
+	
+		
+			
+			
+		
+
+		
+		
+		
+		
+			
+
+		
+
+		
+		
+		
+
+			
+				
+			
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+
+		
+					
+						
+		
+		
+				
+		
+		
+		
+		
+		
+				
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+			
+			
+				
+			
+		
+		
+		
+		
+		
+			
+			
+		
+		
+		
+		
+		
+			
+			
+		
+
+		
+		
+		
+			
+			
+		
+		
+		
+
+		
+			
+
+			
+		
+		
+
+		
+		
+
+		
+				
+		 
+		
+			
+		
+		
+		
+
+		
+			
+			
+		
+		
+		
+			
+
+		
+
+		
+		
+		
+		
+
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+<script type="text/javascript">
+<!--//
+	var intSeasonalBasePath	=	0;
+//-->
 </script>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-	
-	
-
-
-<script language="JavaScript" type="text/JavaScript">
-<!--
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
-
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-//-->
+<script type="text/javascript" src="seasonal.js"></script>
+<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+	var pageTracker = _gat._getTracker("UA-3675414-1");
+	pageTracker._initData();
+	pageTracker._trackPageview();
 </script>
-
-
-
-
-
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-
-		
-		
-		
-		
-		
-		
-		
-
-		
-		
-			
-
-		
-
-		
-		
-		
-
-		
-		
-
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-
-		
-
-
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-
-		
-		
-		
-		
-		
-		
-		
-
-		
-		
-			
-
-		
-
-		
-		
-		
-
-		
-		
-
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-
-		
-
-
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-
-		
-		
-		
-		
-		
-		
-		
-
-		
-		
-			
-
-		
-
-		
-		
-		
-
-		
-		
-
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-
-		
-
-
-	
-
-
-	
-
-
-
-	
-	
-
-
-
-
-
-
-	
-	<title>Henry Ford Hospital - A Best Ranked Hospital in Detroit, Michigan</title>
-<meta name="description" content="Henry Ford Hospital in Detroit Michigan offers breakthrough treatments including robotic prostatectomy (prostate surgery), bariatric (weight loss) surgery, advanced cancer treatment, brain tumor treatments and heart care.">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-	<style type="text/css">
-		@import url(hfhs.css);
-	</style>
-	
-	<script language="JavaScript" type="text/javascript">
-<!--
-function sm_ValidateForm(f) {
-	return true;
-}
-//-->
-</script><script language="JavaScript1.2" type="text/javascript">
-<!--
-var sm_reEmpty = /^\s*$/;
-var sm_reLeading = /^(\s+)/i;
-var sm_reEnding = /(\s+)$/i;
-var sm_reCRLF = /\s+/g;
-var sm_reInteger = /^\d+$/;
-var sm_reIsRequired = /^(\S+)_required$/i;
-var sm_reIsInteger = /^(\S+)_integer$/i;
-var sm_reIsFloat = /^(\S+)_float$/i;
-var sm_reIsDate = /^(\S+)_date$/i;
-var sm_reIsEuroDate = /^(\S+)_eurodate$/i;
-var sm_reIsTime = /^(\S+)_time$/i;
-var sm_reIsRange = /^(\S+)_range$/i;
-var sm_reIsEmail = /^(\S+)_email$/i;
-var sm_reIsMultiEmails = /^(\S+)_multiemails$/i;
-var sm_reMinRange = /MIN\s*=\s*(\d+\.?\d*|\.?\d+)/i;
-var sm_reMaxRange = /MAX\s*=\s*(\d+\.?\d*|\.?\d+)/i;
-// var sm_reEmail = /^\s*[-.:\w]+@([a-zA-Z0-9]{1,2}|[a-zA-Z0-9][-a-zA-Z0-9]+[a-zA-Z0-9])(\.([a-zA-Z0-9]{1,2}|[a-zA-Z0-9][-a-zA-Z0-9]+[a-zA-Z0-9]))+\s*$/i;
-var sm_reEmail = /^\s*[-.:\w]+@([a-zA-Z0-9][-a-zA-Z0-9]+[a-zA-Z0-9]|[a-zA-Z0-9]{1,2})(\.([a-zA-Z0-9][-a-zA-Z0-9]+[a-zA-Z0-9]|[a-zA-Z0-9]{1,2}))+\s*$/i;
-var sm_reMultiEmails = /^\s*([-.:\w]+@([a-zA-Z0-9][-a-zA-Z0-9]+[a-zA-Z0-9]|[a-zA-Z0-9]{1,2})(\.([a-zA-Z0-9][-a-zA-Z0-9]+[a-zA-Z0-9]|[a-zA-Z0-9]{1,2}))+)(\s*[,;]\s*[-.:\w]+@([a-zA-Z0-9][-a-zA-Z0-9]+[a-zA-Z0-9]|[a-zA-Z0-9]{1,2})(\.([a-zA-Z0-9][-a-zA-Z0-9]+[a-zA-Z0-9]|[a-zA-Z0-9]{1,2}))+)*\s*$/i;
-var sm_reDate = /^(0?[1-9]|1[012])[-/.](0?[1-9]|[12][0-9]|3[01])[-/.](19|20)?\d\d$/i;
-var sm_reEuroDate = /^(0?[1-9]|[12][0-9]|3[01])[-/.](0?[1-9]|1[012])[-/.](19|20)?\d\d$/i;
-function sm_Trim(s) {
-	var mystr = s;
-	var myArr = sm_reEmpty.exec(mystr);
-	if (myArr != null) {
-		return "";
-	}
-	var myArr = sm_reLeading.exec(mystr);
-	if (myArr != null) {
-		if (RegExp.rightContext) {
-			mystr = RegExp.rightContext;
-		} else {
-			mystr = mystr.substring(RegExp.$1.length, mystr.length);
-		}
-	}
-	myArr = sm_reEnding.exec(mystr);
-	if (myArr != null) {
-		if (RegExp.leftContext) {
-			mystr = RegExp.leftContext;
-		} else {
-			mystr = mystr.substring(0, (mystr.length - RegExp.$1.length));
-		}
-	}
-	return mystr;
-}
-function sm_StripCRLF(s) {
-	return s.replace(sm_reCRLF, " ");
-}
-function sm_IsArray(o) {
-	return (typeof(o) == "object" && typeof(o.length) == "number");
-}
-function sm_IsRadio(o) {
-	return (o.type == "radio");
-}
-function sm_IsCheckBox(o) {
-	return (o.type == "checkbox");
-}
-function sm_IsFileUpload(o) {
-	return (o.type == 'file');
-}
-function sm_IsSelectMulti(o) {
-	return (o.type == "select-multiple");
-}
-function sm_IsSelectOne(o) {
-	return (o.type == "select-one");
-}
-function sm_IsSelect(o) {
-	return (sm_IsSelectMulti(o) || sm_IsSelectOne(o));
-}
-function sm_IsHidden(o) {
-	return (o.type == "hidden");
-}
-function sm_IsInputText(o) {
-	return (o.type == "text");
-}
-function sm_IsTextarea(o) {
-	return (o.type == "textarea");
-}
-function sm_IsPassword(o) {
-	return (o.type == "password");
-}
-function sm_IsSubmit(o) {
-	return (o.type == "submit");
-}
-function sm_IsDate(s) {
-	if (sm_reDate.test(s))
-	{
-		var oDate = Date.parse(s);
-		if (isNaN(oDate)) {
-			return false;
-		}
-		oDate = new Date(s);
-		if (oDate.getFullYear() < 1900) {
-			return false;
-		}
-		return true;
-	}
-	return false;
-}
-function sm_IsEuroDate(s) {
-	if (sm_reEuroDate.test(s))
-	{
-		return true;
-	}
-	return false;
-}
-function sm_IsTime(s) {
-	var dtToday = new Date();
-	var strToday = (dtToday.getMonth()+1) + "/" + dtToday.getDate() + "/" + dtToday.getFullYear();
-
-	var lgnTest = Date.parse(strToday+" "+s);
-	if (isNaN(lgnTest)) return false;
-	var datTest = new Date();
-	datTest.setTime(lgnTest);
-	if (datTest.getFullYear() < 1900) return false;
-	return true;
-}
-function sm_IsFloat(s) {
-	return (!isNaN(parseFloat(s)));
-}
-function sm_IsInt(s) {
-	return (sm_reInteger.test(s));
-}
-function sm_IsWithinRange(n, lower, upper) {
-	var f = parseFloat(n);
-	if (isNaN(f)) return true;
-	var isOK = true;
-	var l = parseFloat(lower);
-	if (!isNaN(l) && (l > f)) {
-		isOK = false;
-	}
-	var u = parseFloat(upper);
-	if (!isNaN(u) && (f > u)) {
-		isOK = false;
-	}
-	return isOK;
-}
-function sm_IsEmail(s) {
-	return (sm_reEmail.test(s));
-}
-function sm_IsMultiEmails(s) {
-	return (sm_reMultiEmails.test(s));
-}
-function sm_IsACheckObj(o, re) {
-	if (!o.name) return false;
-	return re.test(o.name);
-}
-function sm_IsRequired(o) {
-	return sm_IsACheckObj(o, sm_reIsRequired);
-}
-function sm_IsIntegerObj(o) {
-	return sm_IsACheckObj(o, sm_reIsInteger);
-}
-function sm_IsFloatObj(o) {
-	return sm_IsACheckObj(o, sm_reIsFloat);
-}
-function sm_IsDateObj(o) {
-	return sm_IsACheckObj(o, sm_reIsDate);
-}
-function sm_IsEuroDateObj(o) {
-	return sm_IsACheckObj(o, sm_reIsEuroDate);
-}
-function sm_IsTimeObj(o) {
-	return sm_IsACheckObj(o, sm_reIsTime);
-}
-function sm_IsRangeObj(o) {
-	return sm_IsACheckObj(o, sm_reIsRange);
-}
-function sm_IsEmailObj(o) {
-	return sm_IsACheckObj(o, sm_reIsEmail);
-}
-function sm_IsMultiEmailsObj(o) {
-	return sm_IsACheckObj(o, sm_reIsMultiEmails);
-}
-function sm_GetAnObjToCheck(o, re) {
-	if (!sm_IsACheckObj(o, re)) return null;
-	var arrName = re.exec(o.name);
-	if (arrName == null) return null;
-	return (o.form[arrName[1]]);
-}
-function sm_GetRequiredObj(o) {
-	return sm_GetAnObjToCheck(o, sm_reIsRequired);
-}
-function sm_GetIntegerObj(o) {
-	return sm_GetAnObjToCheck(o, sm_reIsInteger);
-}
-function sm_GetFloatObj(o) {
-	return sm_GetAnObjToCheck(o, sm_reIsFloat);
-}
-function sm_GetDateObj(o) {
-	return sm_GetAnObjToCheck(o, sm_reIsDate);
-}
-function sm_GetEuroDateObj(o) {
-	return sm_GetAnObjToCheck(o, sm_reIsEuroDate);
-}
-function sm_GetTimeObj(o) {
-	return sm_GetAnObjToCheck(o, sm_reIsTime);
-}
-function sm_GetRangeObj(o) {
-	return sm_GetAnObjToCheck(o, sm_reIsRange);
-}
-function sm_GetEmailObj(o) {
-	return sm_GetAnObjToCheck(o, sm_reIsEmail);
-}
-function sm_GetMultiEmailsObj(o) {
-	return sm_GetAnObjToCheck(o, sm_reIsMultiEmails);
-}
-function sm_CheckRequiredElement(o) {
-	if (typeof(o) != "object") return false;
-	if (sm_IsSelectOne(o)) {
-		if (o.selectedIndex < 0) return false;
-		var objoption = o.options[o.selectedIndex];
-		return (objoption.value.length > 0);
-	} else if (sm_IsSelectMulti(o)) {
-		if (o.selectedIndex < 0) return false;
-		var x;
-		var isOK = false;
-		for (x = 0; x < o.length && !isOK; x++) {
-			isOK = o.options[x].selected && o.options[x].value.length > 0;
-		}
-		return isOK;
-	} else if (sm_IsRadio(o) || sm_IsCheckBox(o)) {
-		return o.checked;
-	} else if (sm_IsHidden(o) || sm_IsInputText(o) || sm_IsTextarea(o) || sm_IsPassword(o)) {
-		var strValue = sm_Trim(o.value);
-		return (strValue.length > 0);
-	} else if (sm_IsSubmit(o)) {
-		return true;
-	} else if (sm_IsArray(o)) {
-		var x;
-		var isOK = false;
-		for (x = 0; x < o.length && !isOK; x++) {
-			isOK = sm_CheckRequiredElement(o[x]);
-		}
-		return isOK;
-	} else if (sm_IsFileUpload(o)) {
-		// we don't know for sure due to client-side security.
-		// depend on server side checks.
-		return true;
-	} else {
-		return false;
-	}
-}
-function sm_IsThisRequired(ho, re) {
-	var arrName = re.exec(ho.name);
-	if (arrName == null) return null;
-	var strName = arrName[1];
-	if (ho.form[strName+"_required"]) {
-		return true;
-	} else {
-		return false;
-	}
-}
-function sm_CheckValueTypeElement(o, fn, breq) {
-	if (typeof(o) != "object") return true;
-	if (sm_IsSelectOne(o)) {
-		if (o.selectedIndex < 0) return true;
-		var objoption = o.options[o.selectedIndex];
-		if (fn(objoption.value)) {
-			return true;
-		} else if (breq) {
-			return false;
-		} else {
-			// Not required but it is not of this type.
-			return (objoption.value.length == 0);
-		}
-	} else if (sm_IsSelectMulti(o)) {
-		if (o.selectedIndex < 0) return true;
-		var x;
-		var isOK = true;
-		for (x = 0; x < o.length && isOK; x++) {
-			if (o.options[x].selected) {
-				isOK = fn(o.options[x].value);
-				if (!(isOK || breq)) {
-					isOK = (o.options[x].value.length == 0);
-				}
-			}
-		}
-		return isOK;
-	} else if (sm_IsRadio(o) || sm_IsCheckBox(o)) {
-		if (o.checked) {
-			if (fn(o.value)) {
-				return true;
-			} else if (breq) {
-				return false;
-			} else {
-				// Not required but it is not of this type.
-				return (o.value.length == 0);
-			}
-		} else {
-			return true;
-		}
-	} else if (sm_IsHidden(o) || sm_IsInputText(o) || sm_IsTextarea(o) || sm_IsPassword(o)) {
-		if (fn(o.value)) {
-			return true;
-		} else if (breq) {
-			return false;
-		} else {
-			// Not required but it is not of this type.
-			return (o.value.length == 0);
-		}
-	} else if (sm_IsArray(o)) {
-		var x;
-		var isOK = true;
-		for (x = 0; x < o.length && isOK; x++) {
-			// Possible Recursion
-			isOK = sm_CheckValueTypeElement(o[x], fn, breq);
-		}
-		return isOK;
-	} else {
-		return true;
-	}
-}
-function sm_CheckIntegerElement(ho, fn) {
-	var o = fn(ho);
-	o.value = sm_Trim(o.value);
-	var breq = sm_IsThisRequired(ho, sm_reIsInteger);
-	return sm_CheckValueTypeElement(o, sm_IsInt, breq);
-}
-function sm_CheckFloatElement(ho, fn) {
-	var o = fn(ho);
-	o.value = sm_Trim(o.value);
-	var breq = sm_IsThisRequired(ho, sm_reIsFloat);
-	return sm_CheckValueTypeElement(o, sm_IsFloat, breq);
-}
-function sm_CheckDateElement(ho, fn) {
-	var o = fn(ho);
-	o.value = sm_Trim(o.value);
-	var breq = sm_IsThisRequired(ho, sm_reIsDate);
-	return sm_CheckValueTypeElement(o, sm_IsDate, breq);
-}
-function sm_CheckEuroDateElement(ho, fn) {
-	var o = fn(ho);
-	o.value = sm_Trim(o.value);
-	var breq = sm_IsThisRequired(ho, sm_reIsEuroDate);
-	return sm_CheckValueTypeElement(o, sm_IsEuroDate, breq);
-}
-function sm_CheckTimeElement(ho, fn) {
-	var o = fn(ho);
-	o.value = sm_Trim(o.value);
-	var breq = sm_IsThisRequired(ho, sm_reIsTime);
-	return sm_CheckValueTypeElement(o, sm_IsTime, breq);
-}
-function sm_CheckRangeElement(ho, fn) {
-	var r = ho.value;
-	var o = fn(ho);
-	var breq = sm_IsThisRequired(ho, sm_reIsRange);
-	var lower = "null";
-	var upper = "null";
-	var arrRange;
-	arrRange = sm_reMinRange.exec(r);
-	if (arrRange != null) {
-		lower = parseFloat(arrRange[1]);
-	}
-	arrRange = sm_reMaxRange.exec(r);
-	if (arrRange != null) {
-		upper = parseFloat(arrRange[1]);
-	}
-
-	var fnBody = "return sm_IsWithinRange(n,"+lower+","+upper+");";
-
-	var rfn = new Function("n", fnBody);
-	return sm_CheckValueTypeElement(o, rfn, breq);
-}
-function sm_CheckEmailElement(ho, fn) {
-	var o = fn(ho);
-	var breq = sm_IsThisRequired(ho, sm_reIsEmail);
-	return sm_CheckValueTypeElement(o, sm_IsEmail, breq);
-}
-function sm_CheckMultiEmailsElement(ho, fn) {
-	var o = fn(ho);
-	var breq = sm_IsThisRequired(ho, sm_reIsMultiEmails);
-	return sm_CheckValueTypeElement(o, sm_IsMultiEmails, breq);
-}
-// Takes care of checkboxes, radio buttons, and hidden forms
-function sm_IsDeleteActionForm(f) {
-	var i = 0;
-	var o = null;
-	for (i = 0; i < f.elements.length; i++) {
-		o = f.elements[i];
-		if (o.name.toLowerCase() == "action" && (o.value.toLowerCase() == "postdelete")) {
-			if (sm_IsRadio(o) || sm_IsCheckBox(o)) {
-				return o.checked;
-			} else if (sm_IsHidden(o)) {
-				return true;
-			}
-		}
-	}
-	return false;
-}
-var sm_DisabledHiddenFieldNameSuffix = "_smdisabled";
-function sm_removeALLrequiredhiddenfields(f) {
-	var i = 0;
-	var o = null;
-	for (i = 0; i < f.elements.length; i++) {
-		o = f.elements[i];
-		if (	sm_IsHidden(o)
-			&&	(	sm_IsRequired(o)
-				||	sm_IsIntegerObj(o)
-				||	sm_IsFloatObj(o)
-				||	sm_IsDateObj(o)
-				||	sm_IsEuroDateObj(o)
-				||	sm_IsTimeObj(o)
-				||	sm_IsRangeObj(o)
-				||	sm_IsEmailObj(o)
-				||	sm_IsMultiEmailsObj(o)
-				)
-		)
-		{
-			o.name += sm_DisabledHiddenFieldNameSuffix;
-		}
-	}
-	return true;
-}
-var sm_DeleteConfirmationPromptText = "Are you sure you want to delete this record?\nClick 'OK' to delete, or click 'Cancel' otherwise.";
-function sm_ValidateForm(f, confirmDelete) {
-	var obj = f.elements;
-	var x, o;
-	var errmsg = "";
-	var confDel = (confirmDelete == undefined || confirmDelete == null) ? false : confirmDelete;
-	var bDeleteConfirmed = false;
-	
-	if (confDel && sm_IsDeleteActionForm(f)) {
-		bDeleteConfirmed = window.confirm(sm_DeleteConfirmationPromptText);
-		if (bDeleteConfirmed) {
-			sm_removeALLrequiredhiddenfields(f);
-		}
-		return bDeleteConfirmed;
-	}
-	
-	for (x = 0; x < obj.length; x++) {
-		o = obj[x];
-		if (sm_IsHidden(o)) {
-			if (sm_IsRequired(o)) {
-				var oreq = sm_GetRequiredObj(o);
-				if (!sm_CheckRequiredElement(oreq)) {
-					errmsg += "* " + o.value + "\n";
-				}
-			} else if (sm_IsIntegerObj(o)) {
-				if (!sm_CheckIntegerElement(o, sm_GetIntegerObj)) {
-					errmsg += "* " + o.value + "\n";
-				}
-			} else if (sm_IsFloatObj(o)) {
-				if (!sm_CheckFloatElement(o, sm_GetFloatObj)) {
-					errmsg += "* " + o.value + "\n";
-				}
-			} else if (sm_IsDateObj(o)) {
-				if (!sm_CheckDateElement(o, sm_GetDateObj)) {
-					errmsg += "* " + o.value + "\n";
-				}
-			} else if (sm_IsEuroDateObj(o)) {
-				if (!sm_CheckEuroDateElement(o, sm_GetEuroDateObj)) {
-					errmsg += "* " + o.value + "\n";
-				}
-			} else if (sm_IsTimeObj(o)) {
-				if (!sm_CheckTimeElement(o, sm_GetTimeObj)) {
-					errmsg += "* " + o.value + "\n";
-				}
-			} else if (sm_IsRangeObj(o)) {
-				if (!sm_CheckRangeElement(o, sm_GetRangeObj)) {
-					errmsg += "* " + o.name + " is restricted to " + sm_StripCRLF(o.value) + "\n";
-				}
-			} else if (sm_IsEmailObj(o)) {
-				if (!sm_CheckEmailElement(o, sm_GetEmailObj)) {
-					errmsg += "* " + o.value + "\n";
-				}
-			} else if (sm_IsMultiEmailsObj(o)) {
-				if (!sm_CheckMultiEmailsElement(o, sm_GetMultiEmailsObj)) {
-					errmsg += "* " + o.value + "\n";
-				}
-			}
-		}
-	}
-	if (errmsg.length > 0) {
-		window.alert(errmsg);
-		return false;
-	}
-	return true;
-}
-//-->
-</script><script language="JavaScript" type="text/javascript">
-<!--
-function getCookie(Name) {
-	var search = Name + "=";
-	if (document.cookie.length > 0) { // if there are any cookies
-		var offset = document.cookie.indexOf(search);
-		if (offset != -1) { // if cookie exists
-			offset += search.length; // set index of beginning of value
-			var end = document.cookie.indexOf(";", offset); // set index of end of cookie value
-			if (end == -1)
-				end = document.cookie.length;
-				return unescape(document.cookie.substring(offset, end));
-		}
-	}
-	return null;
-}
-function setCookie(name, value, expire, domain, path) {
-	var escval = escape(value);
-	if ((escval.length + name.length) > 4096) return false;
-	document.cookie = name + "=" 
-		+ escval
-		+ ((expire == null || expire.length == 0) ? "" : ("; EXPIRES=" + expire.toUTCString()))
-		+ ((domain == null || domain.length == 0) ? "" : ("; DOMAIN=" + domain))
-		+ ((path == null || path.length == 0) ? "" : ("; PATH=" + path));
-	return true;
-}
-function StoreCookie(f) {
-	var expireDate;
-	var userName;
-	
-	expireDate = new Date();
-	expireDate.setMonth(expireDate.getMonth() + 6);
-	userName = f.strUserName.value;
-	setCookie("un", userName, expireDate, window.location.host, "");
-}
-function ReadCookie() {
-	var data = getCookie("un");
-	if (data != null) {
-		if (document.frmLogin.strUserName.value.length > 0) {
-			var expireDate= new Date();
-			setCookie("un", "", expireDate, window.location.host, "");
-		} else {
-			document.frmLogin.strUserName.value = data;
-		}
-	}
-}
-var jsMyHealthRememberUserNameOnloadBackup = null;
-function jsMyHealthRememberUserNameOnload() {
-	if (jsMyHealthRememberUserNameOnloadBackup != null) {
-		jsMyHealthRememberUserNameOnloadBackup();
-	}
-	ReadCookie();
-	return true;
-}
-if (window.onload) {
-	jsMyHealthRememberUserNameOnloadBackup = window.onload;
-}
-window.onload = jsMyHealthRememberUserNameOnload;
-//-->
-</script><script>var wiCountVer11="34323130327c68656e7279666f72646865616c74682e6f72677c68656e7279666f72642e636f6d7c";function wiSLD(host){if(host.search(/[a-z]/i)!=-1){var out;return((out=host.match(/(?:^|\.)([\w-]+\.[\w-]+)$/))!=null)?out[1].toLowerCase():"";}else return host;}function wiIsLocal(url,localSLDs){var urlDom;urlDom=((urlDom=url.match(/^https?:\/\/([\w\.-]+)/i))!=null)?urlDom[1]:"";return localSLDs.indexOf("|"+wiSLD(urlDom)+"|")!=-1;}function wiSetCookie(){document.cookie="wi=true; path=/; domain="+wiSLD(location.host);}function wiCookiePresent(){return (document.cookie.search(/\bwi=true\b/)!=-1);}function wiU(a){return unescape(a.replace(/((?:[\da-f]{2})|(?:u[\da-f]{4}))/g,'%$1'));}function wiCount(){var pg=escape(location.href);var ref=escape(document.referrer);var url="http://www.wicountserver.com/count.asp?typ=load&pg="+pg+"&ac="+wiU(wiCountVer11.substr(0,10))+"&ref="+ref;pixel=new Image(1,1);pixel.src=url.replace(/\.[^\.]*\./,unescape('%2e%77%69%63%34%2e'));}function wiCountIfEntry(){var thisSLD=wiSLD(location.host);var localSLDs=wiU(wiCountVer11.substr(10));if(localSLDs.indexOf("|"+thisSLD+"|")!=-1){if(document.referrer==''){if(!wiCookiePresent()){wiSetCookie();wiCount();}}else if(wiIsLocal(document.referrer,localSLDs)){if(!wiCookiePresent())wiSetCookie();}else{wiCount();if(!wiCookiePresent())wiSetCookie();}}}wiCountIfEntry();</script><base target="_top"><title>Henry Ford Health System</title><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><script language="JavaScript" type="text/JavaScript">
-  <!--
-  function MM_openBrWindow(theURL,winName,features) { //v2.0
-  window.open(theURL,winName,features);
-  }
-//-->
-</script><script>var wiCountVer11="34323130327c68656e7279666f72646865616c74682e6f72677c68656e7279666f72642e636f6d7c";function wiSLD(host){if(host.search(/[a-z]/i)!=-1){var out;return((out=host.match(/(?:^|\.)([\w-]+\.[\w-]+)$/))!=null)?out[1].toLowerCase():"";}else return host;}function wiIsLocal(url,localSLDs){var urlDom;urlDom=((urlDom=url.match(/^https?:\/\/([\w\.-]+)/i))!=null)?urlDom[1]:"";return localSLDs.indexOf("|"+wiSLD(urlDom)+"|")!=-1;}function wiSetCookie(){document.cookie="wi=true; path=/; domain="+wiSLD(location.host);}function wiCookiePresent(){return (document.cookie.search(/\bwi=true\b/)!=-1);}function wiU(a){return unescape(a.replace(/((?:[\da-f]{2})|(?:u[\da-f]{4}))/g,'%$1'));}function wiCount(){var pg=escape(location.href);var ref=escape(document.referrer);var url="http://www.wicountserver.com/count.asp?typ=load&pg="+pg+"&ac="+wiU(wiCountVer11.substr(0,10))+"&ref="+ref;pixel=new Image(1,1);pixel.src=url.replace(/\.[^\.]*\./,unescape('%2e%77%69%63%34%2e'));}function wiCountIfEntry(){var thisSLD=wiSLD(location.host);var localSLDs=wiU(wiCountVer11.substr(10));if(localSLDs.indexOf("|"+thisSLD+"|")!=-1){if(document.referrer==''){if(!wiCookiePresent()){wiSetCookie();wiCount();}}else if(wiIsLocal(document.referrer,localSLDs)){if(!wiCookiePresent())wiSetCookie();}else{wiCount();if(!wiCookiePresent())wiSetCookie();}}}wiCountIfEntry();</script><base target="_top"></head>
- 
-
-
-	 
-	 
-	 
-	 
-
-	
-	
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-	
-	
-
-
-	
-	
-
-	
-	
-
-	
-	
-	
-	
-	
-
-	
-	
-
-	
-	
-
-	
+<script type="text/javascript" src="header.js"></script>
 	
+<!--~ hit counter wi --><script>var wiCountVer13="34323130327c68656e7279666f72646865616c74682e6f72677c68656e7279666f72642e636f6d7c";function wiSLD(host){if(host.search(/[a-z]/i)!=-1){var out;return((out=host.match(/(^|\.)([\w-]+\.[\w-]+)$/))!=null)?out[2].toLowerCase():"";}else return host;}function wiIsLocalURL(url){var urlDom;urlDom=((urlDom=url.match(/^https?:\/\/([\w\.-]+)/i))!=null)?urlDom[1]:"";return wiU(wiCountVer13.substr(10)).indexOf("|"+wiSLD(urlDom)+"|")!=-1;}function wiSetCookieTo(n){document.cookie="wi="+n+"; path=/; domain="+wiSLD(location.host);}function wiU(a){return unescape(a.replace(/(([\da-f]{2})|(u[\da-f]{4}))/g,'%$1'));}function wiUK(str){var x=0;for(var i=0;i<str.length;i++)x=((x+str.charCodeAt(i))*16807)%2147483647;return x+'';}function wiCountNoReloadEntry(){if(wiIsLocalURL(location.href)){var Cookie=document.cookie;var Referrer=document.referrer;var noCookie=Cookie.search(/\bwi=\d+\b/)==-1;if(wiIsLocalURL(Referrer)){if(noCookie)wiSetCookieTo('1');}else if(Referrer!=''||noCookie){var pg=escape(location.href);var ref=escape(Referrer);var UkPgRef=wiUK(pg+ref);var RePgRef=new RegExp('\\bwi='+UkPgRef+'\\b');if(Cookie.search(RePgRef)==-1){wiSetCookieTo(UkPgRef);var url="http://www.wicountserver.com/count.asp?typ=load&pg="+pg+"&ac="+wiU(wiCountVer13.substr(0,10))+"&ref="+ref;if(location.protocol=='http:'){pixel=new Image(1,1);pixel.src=url.replace(/\.[^\.]*\./,unescape('%2e%77%69%63%34%2e'));}}}}}wiCountNoReloadEntry();</script><!-- HC henryfordhealth.org ~--><base target="_top">
+<meta name="verify-v1" content="tkoYDdZ97TOKrSS4lTAyUPto6pZ5q2aGAbcS6wCS4BA=">
+<meta name="verify-v1" content="dsshVWFa5DzAx9dUivqibf/Icx1LFP93IomB65djG5E=">
+<meta name="verify-v1" content="H8sYR/5oe+hX4mw20J8/gNIEpaa3AlaAYAioFP9CF0o="><!-- hitcounter ok -->
+<link href="2008_live.css" rel="stylesheet" type="text/css">
+<link href="default.css" rel="stylesheet" type="text/css">
 
-	
-	
 
-	
-		
-		
-	
-		
 
 	
-		
-
 	
-		
-
 	
-		
 
 
-<!-- B henryfordhealth.org --><!-- body ok -->
 
 
 
@@ -1012,10 +293,9 @@ window.onload = jsMyHealthRememberUserNameOnload;
 
 
 
+    
+    
 
-
-
-
 	
 	
 	
@@ -1030,46 +310,19 @@ window.onload = jsMyHealthRememberUserNameOnload;
 	
 	
 	
-	
-
-
-
 	
-
-
 
 
 
 	
-	
-
-
-
-
 
 
 
- 
 
 
-
-
-
-
-
-<!-- hit counter wi --><!-- hitcounter ok -->
-
-
 	
-		
 	
- 
-
-
 
-<!-- hit counter wi --><!-- hitcounter ok -->
-<body bgcolor="#8D837B" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="MM_preloadImages('images_2006/btn_top_home_on.gif','images_2006/btn_top_about_on.gif','images_2006/btn_top_careers_on.gif','images_2006/top_press_on.gif','images_2006/top_contactus_on.gif','images_2006/btn_top_contact_on.gif')" style="scrollbar-face-color: #9D948D" "scrollbar-arrow-color:="" #9d948d"="">
-<!-- hit counter wi --><script>var wiCountVer11="34323130327c68656e7279666f72646865616c74682e6f72677c68656e7279666f72642e636f6d7c";function wiSLD(host){if(host.search(/[a-z]/i)!=-1){var out;return((out=host.match(/(?:^|\.)([\w-]+\.[\w-]+)$/))!=null)?out[1].toLowerCase():"";}else return host;}function wiIsLocal(url,localSLDs){var urlDom;urlDom=((urlDom=url.match(/^https?:\/\/([\w\.-]+)/i))!=null)?urlDom[1]:"";return localSLDs.indexOf("|"+wiSLD(urlDom)+"|")!=-1;}function wiSetCookie(){document.cookie="wi=true; path=/; domain="+wiSLD(location.host);}function wiCookiePresent(){return (document.cookie.search(/\bwi=true\b/)!=-1);}function wiU(a){return unescape(a.replace(/((?:[\da-f]{2})|(?:u[\da-f]{4}))/g,'%$1'));}function wiCount(){var pg=escape(location.href);var ref=escape(document.referrer);var url="http://www.wicountserver.com/count.asp?typ=load&pg="+pg+"&ac="+wiU(wiCountVer11.substr(0,10))+"&ref="+ref;pixel=new Image(1,1);pixel.src=url.replace(/\.[^\.]*\./,unescape('%2e%77%69%63%34%2e'));}function wiCountIfEntry(){var thisSLD=wiSLD(location.host);var localSLDs=wiU(wiCountVer11.substr(10));if(localSLDs.indexOf("|"+thisSLD+"|")!=-1){if(document.referrer==''){if(!wiCookiePresent()){wiSetCookie();wiCount();}}else if(wiIsLocal(document.referrer,localSLDs)){if(!wiCookiePresent())wiSetCookie();}else{wiCount();if(!wiCookiePresent())wiSetCookie();}}}wiCountIfEntry();</script><base target="_top"><!-- hitcounter ok -->
 
 
 
@@ -1078,53 +331,15 @@ window.onload = jsMyHealthRememberUserNameOnload;
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
 	
-	
-	
-
-
-
-
-	
-		
-	
-	
-	
-	
-
-
-
-	
-
 
 
 
-
-	
-	
 
 
 
 
+<script type="text/javascript" src="http://chi-hf-sm6-02.medseek.com/sm_FormValidation.js"></script> 
 
 
 <script language="JavaScript" type="text/javascript">
@@ -1164,7 +379,7 @@ function StoreCookie(f) {
 }
 function ReadCookie() {
 	var data = getCookie("un");
-	if (data != null) {
+	if (data != null && document.frmLogin) {
 		if (document.frmLogin.strUserName.value.length > 0) {
 			var expireDate= new Date();
 			setCookie("un", "", expireDate, window.location.host, "");
@@ -1189,627 +404,40 @@ window.onload = jsMyHealthRememberUserNameOnload;
 </script>
 
 
-<link href="hfhs.css" rel="stylesheet" type="text/css">
-<table width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td>
+	
+	
+</head>
+<body bgcolor="224A73" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><!--~ Dynamic website caching for reduced server load and increased crawlability. --><!-- links to cached pages --><noscript><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr><td align="right"><a href="http://www.henryfordhealth.org/125157.cfm"><img src="http://www.henryfordhealth.org/HenryFordHealthSystem3.GIF" border="0"></a><a href="http://www.henryfordhealth.org/152378.cfm"><img src="http://www.henryfordhealth.org/HenryFordHealthSystem3.GIF" border="0"></a><a href="http://www.henryfordhealth.org/19438.cfm"><img src="http://www.henryfordhealth.org/HenryFordHealthSystem3.GIF" border="0"></a><a href="http://www.henryfordhealth.org/19147.cfm"><img src="http://www.henryfordhealth.org/HenryFordHealthSystem3.GIF" border="0"></a><a href="http://www.henryfordhealth.org/1.cfm"><img src="http://www.henryfordhealth.org/HenryFordHealthSystem3.GIF" border="0"></a><a href="http://www.henryfordhealth.org/101.cfm"><img src="http://www.henryfordhealth.org/HenryFordHealthSystem3.GIF" border="0"></a><a href="http://www.henryfordhealth.org/19085.cfm"><img src="http://www.henryfordhealth.org/HenryFordHealthSystem3.GIF" border="0"></a></td></tr></table></noscript><!-- B henryfordhealth.org ~--><!-- body ok -->
+  <table width="980" border="0" cellpadding="0" cellspacing="0" align="center" bgcolor="e0dfde" id="seasonalHeader">
+	<tbody><tr>
+		<td width="100%" valign="top">
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF"><tbody><tr>
-	<td valign="top" style="background-image:url(images_2006/leftsidetile.gif); background-repeat: repeat-y; background-position: top left;"><script>img_("a",".jpg");</script><img src="images/seasonal_2006/3/a_night.jpg" border="0">
-	</td>
-	<td width="100%" rowspan="2" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
-			<tbody><tr> 
-				<td width="0%" colspan="4" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
-						<tbody><tr> 
-							<td width="0%" valign="top"><a href="default.cfm"><script>img_("b",".jpg");</script><img src="images/seasonal_2006/3/b_night.jpg" border="0"></a></td>
-							<td width="0%" valign="top" align="left"><a href="default.cfm"><script>img_("e",".jpg");</script><img src="images/seasonal_2006/3/e_night.jpg" border="0"></a></td>
-							<td width="100%" valign="top" align="right" style="background-image:url(images_2006/headertile.gif); background-repeat: repeat-x; background-position: top left;"><img src="images_2006/headermiddle.gif" border="0"></td>
+<table style="border-collapse:collapse;marign:0;padding:0;width:100%;">
+	<tbody><tr>
+		<td style="border-collapse:collapse;margin:0;padding:0;vertical-align:top;"><a href="http://www.henryford.com/"><img src="images/2008/logo_clear_body.gif" border="0" alt="Henry Ford Health System"></a></td>
+		<td style="border-collapse:collapse;margin:0;padding:0;text-align:right;vertical-align:top;">
+			<table style="border-collapse:collapse;float:right;margin:15px 0 0 0;padding:0;vertical-align:top;">
+				<tbody><tr>
+					<td style="margin:0;padding:0 30px 0 0;">
+						<form action="body.cfm?id=38433" method="post" name="taxonomy" style="margin:0;padding:0;">
+							<input type="hidden" name="includewhat" value="Webpages,modnews,modNews1,modNews2,Websites,Articles">
+							<input type="hidden" name="action" value="search">
 							
-									<td width="0%" valign="top" bgcolor="C1BBB8" align="right" style="background-image:url(images_2006/searchbkgrd.gif); background-repeat: no-repeat; background-position: top left;">
-									<table width="100%" border="0" cellpadding="0" cellspacing="0">
-									  <tbody><tr>
-									    <td align="right"><table width="100%" border="0" cellpadding="0" cellspacing="0"><form method="post" action="body.cfm?id=38433" name="taxonomy"></form>
-	 
-		<input type="hidden" name="includewhat" value="Webpages,modnews,modNews1,modNews2,Websites,Articles"><input type="hidden" name="action" value="search">
-	    <tbody><tr><td width="0%" align="right" valign="top" nowrap=""><img src="images_2006/abovesearch.gif"><br><br><input type="text" name="keywords" value="Search Henry Ford" align="absmiddle" onblur="if(!this.value)this.value='Search Henry Ford';" onfocus="if(this.value=='Search Henry Ford')this.value='';" style="background-color:#FFFFFF; border: 1px solid #776B5F; font-size:10px; font-family: arial; color: #000000; padding-bottom: 0px;"><input type="image" src="images_2006/go.gif" width="27" height="17" hspace="3" name="submit" align="absmiddle" style="border: 0px"><input type="hidden" name="DebugMe" value=""><!-- crawlable search results --><noscript><a href="http://www.henryfordhealth.org/Prostate-Cancer.cfm"><img src="HenryFordHealthSystem3.GIF" border="0" alt="Prostate Cancer Search"></a></noscript></td>
-	</tr></tbody></table></td></tr></tbody></table>
-	
-	</td></tr></tbody></table></td></tr>
-			<tr> 
-				<td width="0%" colspan="4" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
-						<tbody><tr> 
-							<td width="0%" valign="top"><a href="default.cfm"><script>img_("d",".jpg");</script><img src="images/seasonal_2006/3/d_night.jpg" border="0"></a></td>
-							<td width="0%" valign="top"><script>img_("c",".jpg");</script><img src="images/seasonal_2006/3/c_night.jpg" border="0"></td>
-							<td width="100%" valign="top" align="right" style="background-image:url(images_2006/topnavtile.gif); background-repeat: repeat-x; background-position: top left;"><a href="default.cfm?oTopID=0" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image21','','images_2006/btn_top_home_on.gif',1)"><img src="images_2006/btn_top_home.gif" alt="Henry Ford Homepage" name="Image21" width="48" height="19" border="0"></a><a href="body.cfm?id=37460&amp;oTopID=0" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image22','','images_2006/btn_top_about_on.gif',1)"><img src="images_2006/btn_top_about.gif" alt="About Us" name="Image22" width="67" height="19" border="0"></a><a href="http://careers.peopleflow.com/hfcareers/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image23','','images_2006/btn_top_careers_on.gif',1)"><img src="images_2006/btn_top_careers.gif" alt="Careers" name="Image23" width="64" height="19" border="0"></a><a href="body.cfm?id=46294" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image19','','images_2006/btn_top_press_on.gif',1)"><img src="images_2006/btn_top_press.gif" name="Image19" width="84" height="19" border="0"></a><a href="body.cfm?id=40156&amp;oTopID=0" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image24','','images_2006/btn_top_contact_on.gif',1)"><img src="images_2006/btn_top_contact.gif" alt="Contact Us" name="Image24" width="85" height="19" border="0"></a></td>
-						</tr>
-					</tbody></table></td>
-			</tr><tr>
-			<td width="0%" height="560" valign="top" bgcolor="F2F2F2"><table width="100%" border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr> 
-						<td width="0%" valign="top"><a href="default.cfm"><script>img_("f",".jpg");</script><img src="images/seasonal_2006/3/f_night.jpg" border="0"></a></td>
-					</tr>
-					<tr> 
-						<td width="0%" valign="top" bgcolor="F2F2F2">
-		<style>				
-			table.mainCont1 {padding:0px;}
-			tr.clTop1 {padding:0px;}	
-			th.clTop1 {align:left; width:1%;}	
-			td.clTop1 {padding:0px;}		
-			table.clSub1 {width:100%; padding:0px; background-image: url(images_2006/bdy_lft_nav_gradient.gif); background-repeat: repeat-y; top left; border-bottom: 0px solid #FFFFFF;}			
-			tr.clSub1 {}
-			th.clSub1 {vertical-align:top;}
-			td.clSub1 {}				
-			tr.pclTop1 {}
-			td.pclTop1 {background-color:#F2F2F2; border-bottom: 2px solid #E4E4E4; padding: 0px;}		
-			A.clMain1:link {font-family:Verdana; font-size:10pt; text-decoration:none; font-weight:normal; color:#000000; text-align:left;}
-			A.clMain1:visited {font-family:Verdana; font-size:10pt; text-decoration:none; font-weight:normal; color:#000000; text-align:left;} 
-			A.clMain1:hover {font-family:Verdana; font-size:10pt; text-decoration:hover; font-weight:normal; color:#FF0000; text-align:left;} 	
-			A.clMain1:active {font-family:Verdana; font-size:10pt; text-decoration:none; font-weight:normal; color:#000000; text-align:left;}	
-			A.clSubb1:link {font-family:arial; font-size:11px; text-decoration:none; font-weight:normal; color:#5E5349; text-align:left;}
-			A.clSubb1:visited {font-family:arial; font-size:11px; text-decoration:none; font-weight:normal; color:#5E5349; text-align:left;}
-			A.clSubb1:hover {background-color:#FFFFFF; font-family:arial; font-size:11px; text-decoration:hover; font-weight:normal; color:#000000; text-align:left;}	
-			A.clSubb1:active {font-family:arial; font-size:11px; text-decoration:none; font-weight:normal; color:#5E5349; text-align:left;}		
-			td.pHTMLbetween1 {padding:0px;}
-			td.cHTMLbetween1 {padding:0px;}
-			td.pHTMLbefore1 {padding:0px;}
-			td.cHTMLbefore1 {padding:0px;}
-			td.pHTMLafter1 {padding:0px;}
-			td.cHTMLafter1 {padding:0px;}
-		</style>
-	
-			<script language="JavaScript">
-			//<!--	
-			
-			//Begin: Graphic Mouseover functions				
-			function slidingTbl_preloadImages(){ 				
-				var d=document; 
-			 	if(d.images){ 
-					if(!d.slidingTbl_p){
-						d.slidingTbl_p=new Array();	
-					}	
-				}		
-			   var i,j=d.slidingTbl_p.length,a=slidingTbl_preloadImages.arguments; 
-				for(i=0; i<a.length; i++){				
-			   	if (a[i].indexOf("#")!=0){ 
-						d.slidingTbl_p[j]=new Image; 
-						d.slidingTbl_p[j++].src=a[i];
-					}
-				}				
-			}
-			function slidingTbl_swapImgRestore(){ 				
-				var i,x,a=document.slidingTbl_sr;
-				for(i=0; a && i<a.length && (x=a[i]) && x.oSrc; i++){
-					x.src = x.oSrc;
-				}				
-			}			
-			function slidingTbl_findObj(n, d){ 				
-				var p,i,x;  
-				if(!d) d=document; 
-				if((p=n.indexOf("?"))>0 && parent.frames.length){				
-			  		d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);
-				}				
-				if(!(x=d[n]) && d.all) x=d.all[n]; 
-				for (i=0;!x && i<d.forms.length;i++){
-					x=d.forms[i][n];
-				}				
-				for(i=0;!x && d.layers && i<d.layers.length;i++){
-					x=slidingTbl_findObj(n,d.layers[i].document);
-				}				
-			  if(!x && d.getElementById) x=d.getElementById(n); 
-			  return x;			
-			}				
-			function slidingTbl_swapImage(){ 				
-				var i,j=0,x,a=slidingTbl_swapImage.arguments; 
-				document.slidingTbl_sr=new Array; 
-				for(i=0;i<(a.length-2);i+=3){				
-			   	if ((x=slidingTbl_findObj(a[i]))!=null){
-						document.slidingTbl_sr[j++]=x; 
-						if(!x.oSrc) x.oSrc=x.src; 
-						x.src=a[i+2];
-					}
-				}				
-			}
-			//End: Graphic Mouseover functions	
-			
+							<!--~ crawlable search results --><noscript><a href="http://www.henryfordhealth.org/search.cfm"><img src="http://www.henryfordhealth.org/HenryFordHealthSystem3.GIF" border="0"></a></noscript><!-- SL henryfordhealth.org ~--><!-- searchlinks ok -->
+							<table style="border-collapse:collapse;margin:0;padding:0;">
+								<tbody><tr>
+									<td style="border-collapse:collapse;margin:0;padding:0;" nowrap=""><input type="text" name="keywords" value="Search Henry Ford" align="middle" onblur="if(!this.value)this.value='Search Henry Ford';" onfocus="if(this.value=='Search Henry Ford')this.value='';" style="background-color:#FFFFFF; border: 1px solid #776B5F; font-size:12px; padding-top: 0px; font-family: arial; color: #000000; padding-bottom: 0px; height:17px;margin-bottom:0px;padding-bottom:0px;"></td>
+									<td style="border-collapse:collapse;margin:0;padding:0;"><input type="image" src="images/2008/go.gif" name="submit" align="middle" style="border:0px;background:transparent!important;width:71px;height:22px;margin-left:3px;margin-bottom:0px;margin-top:1px;margin-right:0px;"><input type="hidden" name="DebugMe" value=""></td>
+								</tr>
+							</tbody></table>
+						</form>
+					</td>
+				</tr>
+			</tbody></table>	
+			<table style="border-collapse:collapse;clear:both;float:right;margin:0 50px 0 0;padding:0;vertical-align:top;">
+				<tbody><tr>
+					<td id="navigationTop" style="border-collapse:collapse;margin:0;padding:0;padding-top:59px;">
 						
-			
-			var SlidingTableTempOnload1 = null;
-			if(window.onload && window.onload != null){
-				SlidingTableTempOnload1 = window.onload;
-			}
-			function initsliding1(){				
-				if(SlidingTableTempOnload1 != null){
-					SlidingTableTempOnload1();
-				}	
-			
-				
-					slidingTbl_preloadImages('images_2006/btn_lft_make_on.gif','images_2006/btn_lft_find_on.gif','images_2006/btn_lft_locations_on.gif','images_2006/btn_lft_sign_on.gif','images_2006/btn_lft_refer_on.gif','images_2006/btn_lft_gift_on.gif','images_2006/btn_lft_services_on.gif','images_2006/btn_hospitals2_on.gif','images_2006/btn_lft_health_on.gif','images_2006/btn_lft_patient_on.gif','images_2006/btn_lft_research_on.gif','images_2006/btn_lft_medical_on.gif','images_2006/btn_lft_classesevents_on.gif','images_2006/btn_lft_heart_on.gif','images_2006/btn_lft_neuroscience_on.gif','images_2006/btn_lft_orthopaedics_on.gif','images_2006/btn_lft_cancer_on.gif','images_2006/btn_lft_organ_on.gif','images_2006/btn_lft_prostate_on.gif');
-								
-			
-				onloadFunctions1();
-				return true;	
-			}
-			window.onload = initsliding1;
-			//-->
-			</script>
-		
-			<table class="mainCont1" cellspacing="0">			
-							
-				<tbody><tr class="clTop1" id="pLinkTR_46472_1">
-			
-					<td class="clTop1" id="pLinkTD_46472_1"><a href="body.cfm?id=46472&amp;oTopID=46472" class="clMain1"><img src="images_2006/btn_lft_make.gif" border="0" name="pButton_46472_1" id="pButton_46472_1" onmouseover="slidingTbl_swapImage('pButton_46472_1','','images_2006/btn_lft_make_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Make an Appointment"></a></td>
-			
-				</tr>	
-								
-				<tr class="clTop1" id="pLinkTR_38441_1">
-			
-					<td class="clTop1" id="pLinkTD_38441_1"><a href="body.cfm?id=38441&amp;oTopID=38441" class="clMain1"><img src="images_2006/btn_lft_find.gif" border="0" name="pButton_38441_1" id="pButton_38441_1" onmouseover="slidingTbl_swapImage('pButton_38441_1','','images_2006/btn_lft_find_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Find A Physician"></a></td>
-			
-				</tr>	
-								
-				<tr class="clTop1" id="pLinkTR_33690_1">
-			
-					<td class="clTop1" id="pLinkTD_33690_1"><a href="body.cfm?id=33690&amp;oTopID=33690" class="clMain1"><img src="images_2006/btn_lft_locations.gif" border="0" name="pButton_33690_1" id="pButton_33690_1" onmouseover="slidingTbl_swapImage('pButton_33690_1','','images_2006/btn_lft_locations_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Find Us Now: Maps &amp; Tours"></a></td>
-			
-				</tr>	
-								
-				<tr class="clTop1" id="pLinkTR_40536_1">
-			
-					<td class="clTop1" id="pLinkTD_40536_1"><a href="body.cfm?id=40536&amp;oTopID=40536" class="clMain1"><img src="images_2006/btn_lft_sign.gif" border="0" name="pButton_40536_1" id="pButton_40536_1" onmouseover="slidingTbl_swapImage('pButton_40536_1','','images_2006/btn_lft_sign_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Sign Up for Health Newsletters"></a></td>
-			
-				</tr>	
-								
-				<tr class="clTop1" id="pLinkTR_40691_1">
-			
-					<td class="clTop1" id="pLinkTD_40691_1"><a href="body_referpatient.cfm?id=40691&amp;oTopID=40691" class="clMain1"><img src="images_2006/btn_lft_refer.gif" border="0" name="pButton_40691_1" id="pButton_40691_1" onmouseover="slidingTbl_swapImage('pButton_40691_1','','images_2006/btn_lft_refer_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Refer a Patient"></a></td>
-			
-				</tr>	
-								
-				<tr class="clTop1" id="pLinkTR_37115_1">
-			
-					<td class="clTop1" id="pLinkTD_37115_1"><a href="body.cfm?id=37115&amp;oTopID=37115" class="clMain1"><img src="images_2006/btn_lft_gift.gif" border="0" name="pButton_37115_1" id="pButton_37115_1" onmouseover="slidingTbl_swapImage('pButton_37115_1','','images_2006/btn_lft_gift_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Make a Gift"></a></td>
-			
-				</tr>	
-			
-					<tr class="clTop1" id="pLinkHeaderTR_33677_1">
-						<td class="clTop1" id="pLinkHeaderTD_33677_1" colspan="2"><img src="images/slidingnavspacer.gif"></td>
-					</tr>
-									
-				<tr class="clTop1" id="pLinkTR_33677_1">
-			
-					<td class="clTop1" id="pLinkTD_33677_1"><a href="body.cfm?id=33677&amp;oTopID=33677" class="clMain1"><img src="images_2006/btn_lft_services.gif" border="0" name="pButton_33677_1" id="pButton_33677_1" onmouseover="slidingTbl_swapImage('pButton_33677_1','','images_2006/btn_lft_services_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Services &amp; Departments"></a></td>
-			
-				</tr>	
-								
-				<tr class="clTop1" id="pLinkTR_45404_1">
-			
-					<td class="clTop1" id="pLinkTD_45404_1"><a href="body.cfm?id=45404&amp;oTopID=45404" class="clMain1"><img src="images_2006/btn_hospitals2.gif" border="0" name="pButton_45404_1" id="pButton_45404_1" onmouseover="slidingTbl_swapImage('pButton_45404_1','','images_2006/btn_hospitals2_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Hospital Directory"></a></td>
-			
-				</tr>	
-								
-				<tr class="clTop1" id="pLinkTR_39110_1">
-			
-					<td class="clTop1" id="pLinkTD_39110_1"><a href="body.cfm?id=46332&amp;oTopID=39110" class="clMain1"><img src="images_2006/btn_lft_health.gif" border="0" name="pButton_39110_1" id="pButton_39110_1" onmouseover="slidingTbl_swapImage('pButton_39110_1','','images_2006/btn_lft_health_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Health Encyclopedia"></a></td>
-			
-				</tr>	
-								
-				<tr class="clTop1" id="pLinkTR_46593_1">
-			
-					<td class="clTop1" id="pLinkTD_46593_1"><a href="body.cfm?id=46593&amp;oTopID=46593" class="clMain1"><img src="images_2006/btn_lft_patient.gif" border="0" name="pButton_46593_1" id="pButton_46593_1" onmouseover="slidingTbl_swapImage('pButton_46593_1','','images_2006/btn_lft_patient_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Patient Quality and Safety"></a></td>
-			
-				</tr>	
-								
-				<tr class="clTop1" id="pLinkTR_45206_1">
-			
-					<td class="clTop1" id="pLinkTD_45206_1"><a href="body.cfm?id=45206&amp;oTopID=45206" class="clMain1"><img src="images_2006/btn_lft_research.gif" border="0" name="pButton_45206_1" id="pButton_45206_1" onmouseover="slidingTbl_swapImage('pButton_45206_1','','images_2006/btn_lft_research_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Research &amp; Clinical Trials"></a></td>
-			
-				</tr>	
-								
-				<tr class="clTop1" id="pLinkTR_45425_1">
-			
-					<td class="clTop1" id="pLinkTD_45425_1"><a href="body_meded.cfm?id=45425&amp;oTopID=45425" class="clMain1"><img src="images_2006/btn_lft_medical.gif" border="0" name="pButton_45425_1" id="pButton_45425_1" onmouseover="slidingTbl_swapImage('pButton_45425_1','','images_2006/btn_lft_medical_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Medical Education"></a></td>
-			
-				</tr>	
-								
-				<tr class="clTop1" id="pLinkTR_40994_1">
-			
-					<td class="clTop1" id="pLinkTD_40994_1"><a href="body.cfm?id=40994&amp;oTopID=40994" class="clMain1"><img src="images_2006/btn_lft_classesevents.gif" border="0" name="pButton_40994_1" id="pButton_40994_1" onmouseover="slidingTbl_swapImage('pButton_40994_1','','images_2006/btn_lft_classesevents_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Classes &amp; Events"></a></td>
-			
-				</tr>	
-			
-					<tr class="clTop1" id="pLinkHeaderTR_33704_1">
-						<td class="clTop1" id="pLinkHeaderTD_33704_1" colspan="2"><img src="images/specialtycenters.gif"></td>
-					</tr>
-									
-				<tr class="clTop1" id="pLinkTR_33704_1">
-			
-					<td class="clTop1" id="pLinkTD_33704_1"><a href="body.cfm?id=33704&amp;oTopID=33704" class="clMain1"><img src="images_2006/btn_lft_heart.gif" border="0" name="pButton_33704_1" id="pButton_33704_1" onmouseover="slidingTbl_swapImage('pButton_33704_1','','images_2006/btn_lft_heart_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Heart Disease"></a></td>
-			
-				</tr>	
-								
-				<tr class="clTop1" id="pLinkTR_33708_1">
-			
-					<td class="clTop1" id="pLinkTD_33708_1"><a href="body.cfm?id=33708&amp;oTopID=33708" class="clMain1"><img src="images_2006/btn_lft_neuroscience.gif" border="0" name="pButton_33708_1" id="pButton_33708_1" onmouseover="slidingTbl_swapImage('pButton_33708_1','','images_2006/btn_lft_neuroscience_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Neuroscience"></a></td>
-			
-				</tr>	
-								
-				<tr class="clTop1" id="pLinkTR_41168_1">
-			
-					<td class="clTop1" id="pLinkTD_41168_1"><a href="body.cfm?id=41168&amp;oTopID=41168" class="clMain1"><img src="images_2006/btn_lft_orthopaedics.gif" border="0" name="pButton_41168_1" id="pButton_41168_1" onmouseover="slidingTbl_swapImage('pButton_41168_1','','images_2006/btn_lft_orthopaedics_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Orthopaedics and Rehabilitation"></a></td>
-			
-				</tr>	
-								
-				<tr class="clTop1" id="pLinkTR_33700_1">
-			
-					<td class="clTop1" id="pLinkTD_33700_1"><a href="body.cfm?id=33700&amp;oTopID=33700" class="clMain1"><img src="images_2006/btn_lft_cancer.gif" border="0" name="pButton_33700_1" id="pButton_33700_1" onmouseover="slidingTbl_swapImage('pButton_33700_1','','images_2006/btn_lft_cancer_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Josephine Ford Cancer Center"></a></td>
-			
-				</tr>	
-								
-				<tr class="clTop1" id="pLinkTR_45264_1">
-			
-					<td class="clTop1" id="pLinkTD_45264_1"><a href="body.cfm?id=45264&amp;oTopID=45264" class="clMain1"><img src="images_2006/btn_lft_organ.gif" border="0" name="pButton_45264_1" id="pButton_45264_1" onmouseover="slidingTbl_swapImage('pButton_45264_1','','images_2006/btn_lft_organ_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Organ Transplants"></a></td>
-			
-				</tr>	
-								
-				<tr class="clTop1" id="pLinkTR_41144_1">
-			
-					<td class="clTop1" id="pLinkTD_41144_1"><a href="body.cfm?id=41144&amp;oTopID=41144" class="clMain1"><img src="images_2006/btn_lft_prostate.gif" border="0" name="pButton_41144_1" id="pButton_41144_1" onmouseover="slidingTbl_swapImage('pButton_41144_1','','images_2006/btn_lft_prostate_on.gif',1)" onmouseout="slidingTbl_swapImgRestore()" alt="Prostate Cancer"></a></td>
-			
-				</tr>	
-			
-			</tbody></table>
-		
-			<script language="JavaScript" type="text/javascript">
-			//<!--			
-			function onloadFunctions1(){
-			
-								
-					
-								
-			return true;
-			}			
-			//-->
-			</script>
-		</td>
-					</tr>
-					<tr> 
-						<td valign="top"><br>
-							<img src="images_2006/wecanspacer.gif"></td>
-					</tr>
-				</tbody></table></td>
-				<script language="JavaScript">
-				document.write('<td width="100%" valign="top" style="background-image:url(');
-				bg_("g",".jpg");
-				document.write('); background-repeat: no-repeat; background-position: top left;">');
-				</script><td width="100%" valign="top" style="background-image:url(images/seasonal_2006/3/g_night.jpg); background-repeat: no-repeat; background-position: top left;">
-			<table width="100%" border="0" cellpadding="0" cellspacing="8">
-					<tbody><tr> 
-						<td width="100%" valign="top"><br>
-							<br><img src="images_2006/contentclear.gif"></td>
-					</tr>
-					<tr> 
-						<td width="1%"><table width="100%" height="1" border="0" cellspacing="0" cellpadding="0">
-								<tbody><tr valign="top"> 
-									<td width="1%" valign="top"><img src="images_2006/box_topleft.gif"></td>
-									<td width="98%" valign="top" background="images_2006/box_top.gif"><img src="images_2006/box_top.gif"></td>
-									<td width="1%" valign="top"><img src="images_2006/box_topright.gif"></td>
-								</tr>
-								<tr valign="top"> 
-									<td width="1%" valign="top" background="images_2006/box_left.gif"><img src="images_2006/box_left.gif"></td>
-									<td width="98%" valign="top">
- 
-
- 
- 
-
- 
-
-
-
- 
-	
-
-
-
-
-	
-
-	
-
-
-
-
-
-	<style>
-		td.breadcrumb {font-size: 11px; font-weight: normal;}
-		a.breadcrumb:link { color: 005994; text-decoration:none;}
-		a.breadcrumb:visited { color: 005994; text-decoration:none;}
-		a.breadcrumb:hover { color: 000000; text-decoration:none;}
-		a.breadcrumb:visited:hover { color: 000000; text-decoration:none;}
-	</style>
-	
-<table style="border:solid #000000 0px; width:100%;" cellpadding="1" cellspacing="0" class="breadcrumb">
-		<tbody><tr>
-			<td class="breadcrumb">
-			
-			
-			<img src="images/arrowtop.gif">&nbsp;<a href="body.cfm?id=39775" class="breadcrumb">Notice&nbsp;of&nbsp;Privacy&nbsp;Practices</a> 
-			
-			</td>
-		</tr>
-</tbody></table> 
-
-</td>
-									<td width="1%" valign="top" background="images_2006/box_right.gif"><img src="images_2006/box_right.gif"></td>
-								</tr>
-								<tr valign="top"> 
-									<td width="1%" valign="top"><img src="images_2006/box_bottomleft.gif"></td>
-									<td width="98%" valign="top" background="images_2006/box_bottom.gif"><img src="images_2006/box_bottom.gif"></td>
-									<td width="1%" valign="top"><img src="images_2006/box_bottomright.gif"></td>
-								</tr>
-							</tbody></table></td>
-					</tr>
-					<tr> 
-						<td width="100%" valign="top"> 
-							
-							
-								
-									
-									
-									
-										
-										
-									
-									
-										<h1>Notice of Privacy Practices</h1>
-										
-									 
-								
-							 
-							
-							
-
-
-
-
-	
-	
-
-
-
-	
-	
-	
-	
-	
-
-
-
-
-
-
-
-
-
-
-
-
-	
-		<h3>Effective Date April 14, 2003</h3>
-
-<p><b>THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.</b></p>
-
-<p><b>OUR COMMITMENT TO PRIVACY</b></p>
-
-<p>You have entrusted Henry Ford Health System with the responsibility of providing health care for you and your family. We are dedicated to maintaining your trust. We know that the privacy of your personal medical information is important to you. That's why we take our responsibility to protect the privacy of your personal medical information very seriously.</p>
-
-<p>This privacy notice describes how we safeguard your privacy as we provide coverage and services to you. It describes the personal information we collect about patients, how we use it, and with whom we share it. This notice also explains your rights and certain obligations we have regarding the use and disclosure of health information.</p>
-
-<p>This notice applies to all of the records of your care generated by the Henry Ford Health System, including&nbsp;our Hospitals and Medical Staff at BiCounty Community Hospital, Henry Ford Hospital, Henry Ford Wyandotte Hospital and Kingswood Hospital,&nbsp;and Henry Ford Behavioral Health and Community Care Services, which includes Center&nbsp;for Senior Independence, Dialysis, Home Health Care, Home Medical&nbsp;Equipment, Hospice,&nbsp;JFCC - Downriver, Nursing&nbsp;homes, Occupational Health and Pharmacy, and their employees, medical staffs, staff personnel, volunteers, students and trainees, as well as those outside the organization with whom we’ve contracted for assistance for health care services. All of these entities, sites and locations may share your medical information for treatment, payment or health care operations, as described in this Notice and by law. Your doctor may have different notices and policies about the use and disclosure of your medical information created in his or her office or clinic. We are required by law to make sure that medical information that identifies you is kept private, give you this notice of our legal duties and privacy practices concerning your medical information, and follow the terms of the notice that is currently in effect.</p>
-
-<p>If you have any questions about this Notice of Privacy Practices, or questions or complaints about how we handle your medical information, please contact:</p>
-
-<center><b>Henry Ford Health System Office of Corporate Compliance<br>
-One Ford Place, 4B<br>
-Detroit, Michigan 48202<br>
-313.874.9561, <a href="mailto:hipaa@hfhs.org">hipaa@hfhs.org</a></b></center>
-
-<a href="#top"><img height="25" alt="back to top" src="images/top-arrow.gif" width="41" border="0"></a> 
-
-<p><b>OUR USE AND DISCLOSURE OF YOUR MEDICAL INFORMATION FOR TREATMENT, PAYMENT AND HEALTH CARE OPERATIONS</b> Each time you receive services from a hospital, physician or other health care provider, a record of your encounter is made. Typically this record contains your symptoms, examination and test results, diagnoses, treatment and a plan for future care or treatment. This information is often referred to as your health or medical record. This information, linked with your name or other identifying information is used in many ways such as providing care, obtaining payment for your care and running our business.</p>
-
-<p>As permitted by HIPAA and Michigan State law, we may use or disclose your medical information for several purposes. Here are some examples of how we may use or disclose your medical information. Except as listed below, we will not use or disclose your medical information without your written authorization. If you give us written authorization, you can cancel that authorization except for uses and disclosures already made based on your authorization.</p>
-
-<p><b>Treatment:</b> We may use your medical information to provide you with medical care in our facilities or in your home. We also may share your medical information with others who provide care to you, such as hospitals, nursing homes, doctors, nurses, physician assistants, medical and nursing students, therapists, technicians, emergency service and transportation providers, medical equipment providers, pharmacies, and others involved in your care. For example, different hospital departments may share your medical information to coordinate your prescriptions, laboratory, x-rays and other medical needs.</p>
-
-<p><b>Payment:</b> We may use and disclose your medical information as needed to get paid for the medical care that we provide to you or to assist others who care for you to get paid for that care. For example, we may share your medical information with a billing company or with your health insurance plan to obtain prior approval for your care or to make sure your plan will cover your care.</p>
-
-<p><b>Health Care Operations:</b> We may use or disclose your medical information for our quality assurance activities and as needed to run our health care facilities. We also may use or disclose your medical information to get legal, auditing, accounting and other services and for teaching, business management and planning purposes. We may use your medical information in combination with other patients’ medical information to compare our efforts and to learn where we can improve our care and services. We may disclose your information to businesses and individuals (e.g., medical transcription service) who perform services for us involving medical information as long as they agree to protect the privacy of that information.</p>
-
-<p><b>Appointments/On-site contacts:</b> We may use your medical information to contact you about upcoming appointments and to obtain your registration information. In the course of business, we may need to contact you by overhead page or ask you to write your name on a sign-in sheet. In these instances, we take reasonable precautions to protect your privacy.</p>
-
-<p><b>Treatment Alternatives, Health Benefits, Fundraising, and Marketing:</b> We may use and disclose your medical information to tell you about treatment alternatives, and health-related benefits and services. We may contact you to raise funds for Henry Ford Health System. We may use your information to tell you about our products or services or to provide gifts of nominal value to you or your family.</p>
-
-<p><b>Hospital Directory:</b> We may include certain limited information about you in the hospital directory while you are a patient at the hospital. This information may include your name, location in the hospital, your general condition and your religious affiliation. The directory information, except for your religious affiliation if included in the directory, may also be released to people who ask for you by name.</p>
-
-<p><b>Individuals Involved in Your Care or Payment for Care:</b> We may release health information about you to a friend or family member who is involved in your medical care. We may also give information to someone who helps pay for your care. If you are an inpatient or in the emergency room, we may also tell your family or friends about your condition and location, with authorization when required. In addition, we may disclose information about you to an entity assisting in a disaster relief effort so that your family can be notified about your condition, status and location.</p>
-
-<p><b>Research:</b> Under certain circumstances, we may access health information about you for research purposes. All research projects are subject to approval by the Henry Ford Health System Institutional Review Board. The Board reviews the risks and benefits of a proposed research project including the use of health information in accordance with federal regulations. Before we use or disclose health information for research, the project will have been approved through this review process. We may disclose your health information in preparation for conducting research (e.g., to help look for patients with specific medical conditions). Health information used in preparation for conducting research will not leave the institution.</p>
-
-<p><b>To Avert a Serious Threat to Health and Safety:</b> We may use and disclose health information about you when necessary to prevent a serious threat to your health and safety or the health and safety of another person.</p>
-
-<a href="#top"><img height="25" alt="back to top" src="images/top-arrow.gif" width="41" border="0"></a> 
-
-<p><b>DISCLOSURES AS REQUIRED BY LAW OR TO ASSIST IN LAW ENFORCEMENT OR NATIONAL SECURITY</b></p>
-
-We may disclose health information as required by State and Federal laws and regulations including: 
-
-<p><b>Community/public health activities and reports</b> such as disease control, abuse or neglect, and health and vital statistics.</p>
-
-<p><b>Administrative oversight</b> activities such as audits, investigations, licensure, or determining cause of death.</p>
-
-<p><b>Court Order or legal processes</b> related to law enforcement activities including custody of inmates, legal actions or national security activities.</p>
-
-<p><b>Organ and Tissue Donation and Transplant reports</b> as required by regulatory organizations as necessary to facilitate organ or tissue donation and transplant.</p>
-
-<p><b>Workers compensation or other rehabilitative activities</b> reporting as required by law or insurers to provide benefits for work-related or victim injuries or illnesses.</p>
-
-<p><b>Law enforcement release of information</b> if asked to do so by a law enforcement individual.</p>
-
-<p><b>Coroners, Medical Examiners, and Funeral Directors.</b> We may release health information to a coroner, medical examiner or funeral director. National Security and Intelligence Activities. We may release health information about you to authorized federal officials for intelligence, counterintelligence and other national security activities authorized by law.</p>
-
-<p><b>Protective Services for the President of the United States and Others.</b> We may disclose medical information about you to authorized federal officials so they may provide protection to the President, other authorized persons or foreign heads of state or conduct special investigations.</p>
-
-<p><b>Inmates:</b> If you are an inmate of a correctional institution or under the custody of a law enforcement official, we may release medical information about you to the correctional institution or law enforcement official.</p>
-
-<a href="#top"><img height="25" alt="back to top" src="images/top-arrow.gif" width="41" border="0"></a> 
-
-<p><b>YOUR INDIVIDUAL RIGHTS</b></p>
-
-<p><b>Access and Copies:</b> Generally, you have the right to look at or receive a copy of medical information that we keep about you. We may charge you for our costs related to your request. We may deny your request to inspect and copy your records in certain, very limited, circumstances. For example, a request may be denied if review of the records is reasonably likely to endanger the life or physical safety of the individual or another person. If you are denied access to health information, you may request that the denial be reviewed. A licensed health care professional will be chosen by the hospital to review the request and denial.</p>
-
-<p><b>Disclosure list:</b> You have the right to receive a list of your medical information disclosures we made without your authorization. The request can be for a time period up to six years from the date of disclosure. Your first request in a 12-month period is free. After that, we may charge for additional requests.</p>
-
-<p><b>Amendments:</b> If you believe that information in your record is incorrect, or that information is missing, you have the right to ask us to amend the record by including your position. We may deny your request if it is not in writing or if it does not include a reason to support the request. In addition, we may deny the request if our information is complete and accurate, was not created by us, is not part of the health information kept by or for the hospital or is not part of the information that you would be permitted to inspect and copy under certain circumstances.</p>
-
-<p><b>Confidentiality:</b> You have the right to request that your medical information be shared with you in a confidential manner, such as at home rather than at work. Restrictions: You may submit a written request to restrict how we use or disclose medical information about you. We will send you a written response informing you about our ability to honor your request.</p>
-
-<p><b>Copies of our Notice of Privacy Practices:</b> You can ask for a copy of our current Notice of Privacy Practices at any time. If this Notice of Privacy Practices was sent to you electronically, you may request a paper copy.</p>
-
-<p><b>Who to Contact:</b> To exercise any of the rights described above, please send a written request to our Privacy Official/Contact Person listed on page one of this Notice.</p>
-
-<p><b>CHANGES TO OUR NOTICE OF PRIVACY PRACTICES</b> We may change our Notice of Privacy Practices from time to time. The changes will apply to all medical information about you that we have at the time of the change, and to all medical information about you that we keep in the future. Generally, the changes will take effect when they appear in a revised Notice of Privacy Practices. A copy of our current notice will be posted in our facilities and be available to all patients. To learn more about our privacy practices, contact our Privacy Official/Contact Person listed on the first page of this Notice.</p>
-
-<p><b>COMPLAINTS</b> If you are concerned about a violation of your privacy rights, you may contact the Privacy Official/Contact Person listed on the first page of this Notice. You may also send a written complaint to the Secretary of the United States Department of Health and Human Services. You will not be penalized for filing a complaint.</p>
-
-<a href="#top"><img height="25" alt="back to top" src="images/top-arrow.gif" width="41" border="0"></a>
-
-	
-	
-
-
-
-
-
-
-
-
-
-
-
-								<br>
-							</td>
-						
-					</tr>
-					<tr> 
-						<td valign="top" width="100%"> <br>   
-							  
-							   
-							 
-							    
-							<font style="font-family:arial; font-size:14px; font-weight:bold; font-style:italic; color:306E92; padding-top: 10px;"> 
-							  
-							</font> </td>
-					</tr>
-					<style>
-				tr.CMteaser {vertical-align: top}
-				th.CMteaser {text-align: left}
-				span.CMteaser {font-family: verdana; font-weight: bold; color: #656565; font-style: normal;}
-				span.related {font-family: verdana; font-weight: bold; color: #794A6A; font-style: normal;}
-				a.CMteaser {font-family: verdana; font-size:10px; color:000000; text-decoration:none; font-weight:normal;}
-				a:link.CMteaser {font-family: verdana; font-size:10px; color:000000; text-decoration:none; font-weight:normal; line-height: 20px;}
-				a:visited.CMteaser {font-family: verdana; font-size:10px; color:000000; text-decoration:none; font-weight:normal;line-height: 20px;}
-				a:hover.CMteaser {font-family: verdana; font-size:10px; color:000000; text-decoration:none; font-weight:normal;line-height: 20px;}
-				tr.CMteaser {font-family: verdana; font-size:10px; color:000000; text-decoration:none; font-weight:normal;}
-				th.CMteaser {font-family: arial; font-size:10px; color:000000; text-decoration:none; font-weight:normal;}
-				td.CMteaser {font-family: arial; font-size:10px; color:000000; text-decoration:none; font-weight:normal;}
-				table.CMteaser {font-family: verdana; font-size:10px; color:000000; text-decoration:none; font-weight:normal;}						
-				span.related {font-family: verdana; font-weight: bold; color: #794A6A; font-style: normal; text-align:}
-				tr.related {font-family: verdana; vertical-align: top;}
-				th.related {font-family: verdana; color: #8A9CAC; font-size: 12px; font-weight: normal; background-color:C4E3F8;}
-				td.related {font-family: verdana;}
-				table.related {font-family: verdana;}
-				.tax_teaser li, .tax_search li {font-size: 10px;}
-			</style>
-				</tbody></table></td>
-			<td valign="top" bgcolor="F2F2F2" style="background-image:url(images_2006/hf_wecan.gif); background-repeat: no-repeat; background-position: bottom left;"><table width="100%" border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr> 
-						<td width="0%" valign="top"><img src="images_2006/rtnavtile.gif"></td>
-					</tr>
-					<tr>
-					<td valign="top" width="1%"><table width="100%" border="0" cellspacing="0" cellpadding="8">
-							<form action="https://www.henryford.com/./myhealth/login_action.cfm" method="post" enctype="application/x-www-form-urlencoded" name="frmLogin" id="frmLogin" onsubmit="StoreCookie(this); return sm_ValidateForm(this);"></form>
-								<input type="hidden" name="strUserName_required" value="Please enter a valid username.">
-								<tbody><tr> 
-									<td valign="top" align="left"> <img src="images_2006/bdy_field_myhealth_username.gif" border="0"><br>
-										<input type="text" name="strUserName" id="strUserName" align="absmiddle" style="background-color:EDF4FA; border: 1px solid ACD3F2; font-size:9px; font-family: arial; color: 000000; padding-bottom: 2px; width:120px;">
-										<br>
-										<img src="images_2006/bdy_field_password.gif"><br>
-										<input type="password" name="strPWD" id="strPWD" align="absmiddle" style="background-color:EDF4FA; border: 1px solid ACD3F2; font-size:9px; font-family: arial; color: 000000; padding-bottom: 2px; width:120px;">
-										&nbsp;&nbsp;
-										<input type="image" name="btnSubmit" id="btnSubmit" src=" images/redesign2/bdy_field_go.gif" width="25" height="17" alt="Login" style="border:0px;" align="absmiddle">
-										<br>
-										<a href="myhealth/forgotpassword.cfm"><img src="images_2006/forgetyourpassword.gif" border="0"></a> 
-									</td>
-								</tr>
-							
-							<tr> 
-								<td valign="top" align="left"><img src="images_2006/rightsidedots.gif"></td>
-							</tr>
-							<tr>
-
-							  <td valign="top" align="left"><a href="javascript:history.back()"><img src="images_2006/previouspage.gif" border="0"></a>
-							  
-							  <script language="Javascript">
-									function DoPrintEmail(type){		// This function still requires the import of the email tag in blank.cfm
-										var ThePage = location.href;
-										var arrPortions = ThePage.split('?');
-										var i=0;
-										var arrSuffix = arrPortions[1].split('&');
-										var j=0;
-										while(i<arrPortions.length){
-											j = arrPortions[i].indexOf("body")
-											if(j > -1){
-												arrPortions[i] = arrPortions[i].substr(0,j) + "blank.cfm";
-											}
-											i++;
-										}
-										
-										i=0;
-										while(i<arrSuffix.length){
-											if((arrSuffix[i].indexOf("action") > -1) && (type=="action=EmailFriend")){
-												arrSuffix.splice(i,1);
-											}
-											if(arrSuffix[i].indexOf("Adam") > -1){
-												arrSuffix.push("&displayheader=No&originalAction=detail");
-											}
-										i++;
-										}
-										
-										if(type == "action=EmailFriend"){
-											arrSuffix.splice(1,0,type);
-										}else{
-											arrSuffix.splice(0,0,type);											
-										}
-										i = arrPortions[0] + "?" + arrSuffix.join('&');
-										window.open(i);
-									}		//Function DoPrint
-									
-
-							  </script>
-							  	
-
-
-
-									<a href="javascript:void(0)" onclick="DoPrintEmail('print=yes')"><img src="images_2006/printthispage.gif" border="0"></a><br>
- 									<a href="javascript:void(0)" onclick="DoPrintEmail('action=EmailFriend')"><img src="images_2006/emailtoafriend.gif" border="0"></a>  
-								
-								</td>
-							</tr>
-							<tr> 
-								<td valign="top"><img src="images_2006/rightsidedots.gif"><br>
-									<br> 
-									
-									  
-										
 	<!-- Begin NavBar Output  -  Version:  v0.77r 06/21/2001  -->
 	
 								
@@ -2078,49 +706,3976 @@ We may disclose health information as required by State and Federal laws and reg
 			
 		<!-- Begin NavBar Bar #1 Content Output... -->
 		<table background="" border="0" cellspacing="0" cellpadding="0">
-</table>
+	<tbody><tr class="" background="">
+		<td class="" valign="middle" align="center" background="" title=""><a href="http://www.henryford.com" class="">Home</a></td>
+		<td class="" valign="middle" align="center" background="" title=""><img src="images/2008/topnavline.gif"></td>
+		<td class="" valign="middle" align="center" background="" title=""><a href="body.cfm?id=48446" class="">After Hours &amp; Urgent Care</a></td>
+		<td class="" valign="middle" align="center" background="" title=""><img src="images/2008/topnavline.gif"></td>
+		<td class="" valign="middle" align="center" background="" title=""><a href="body.cfm?id=45404" class="">Hospitals</a></td>
+		<td class="" valign="middle" align="center" background="" title=""><img src="images/2008/topnavline.gif"></td>
+		<td class="" valign="middle" align="center" background="" title=""><a href="body.cfm?id=37839" class="">Medical Centers</a></td>
+		<td class="" valign="middle" align="center" background="" title=""><img src="images/2008/topnavline.gif"></td>
+		<td class="" valign="middle" align="center" background="" title=""><a href="body.cfm?id=40194" class="">Emergency Rooms</a></td>
+		<td class="" valign="middle" align="center" background="" title=""><img src="images/2008/topnavline.gif"></td>
+		<td class="" valign="middle" align="center" background="" title=""><a href="body.cfm?id=38557" class="">Pharmacies</a></td>
+	</tr>
+
+</tbody></table>
 	
 		<!-- End NavBar Output -->
-	  
-									
-								</td>
-							</tr>
-							<tr> 
-								<td align="top"></td>
-							</tr>
-						</tbody></table></td></tr>
+	
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+		</td>
+   </tr>
+	<tr>
+	  <td width="100%" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+	    <tbody><tr>
+		  <td width="100%" valign="top" style="padding: 0px 0px 0px 217px;">
+ 
+
+ 
+ 
+
+ 
+
+
+
+
+	
+	
+	
+		
+	
+	
+				
+		
+			
+				
+				
+				
+				
+				
+				
+			
+			
+		
+		
+	
+				
+		
+			
+			
+		
+		
+	
+
+
+
+	<style>
+		td.breadcrumb {font-size: 11px; font-weight: normal;}
+		a.breadcrumb:link { color: 005994; text-decoration:none;}
+		a.breadcrumb:visited { color: 005994; text-decoration:none;}
+		a.breadcrumb:hover { color: 000000; text-decoration:none;}
+		a.breadcrumb:visited:hover { color: 000000; text-decoration:none;}
+	</style>
+	
+<table style="border:solid #000000 0px; width:100%;" cellpadding="1" cellspacing="0" class="breadcrumb">
+		<tbody><tr>
+			<td class="breadcrumb">
+			
+			
+			<img src="images/arrowtop.gif">&nbsp;<a href="body.cfm?id=39113" class="breadcrumb">Privacy&nbsp;Policy</a> 
+			
+			</td>
+		</tr>
+</tbody></table> 
+
+</td>
+		</tr></tbody></table></td>
+		</tr>
+    <tr> 
+      <td height="345" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+          <tbody><tr> 
+            <td width="144" height="345" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0" id="navigationLeft">
+                <tbody><tr> 
+                  <td width="144" valign="top"><img src="images/2008/leftnav_top.gif"></td>
+                </tr>
+                <tr> 
+                  <td height="254" valign="top" style="background-image:url(images/2008/leftnav_tile.gif); background-repeat: repeat-y; background-position: top left;"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+				      <tbody><tr>
+					    <td valign="top" style="padding: 0px 0px 0px 25px;">
+	<!-- Begin NavBar Output  -  Version:  v0.77r 06/21/2001  -->
+	
+		<!-- Begin NavBar Bar #2 Content Output... -->
+		<table background="" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr background="">
+		<td class="" valign="top" align="left" background="" title=""><a href="body.cfm?id=38441" onmouseover="RestoreAll();BillzMouseover('btn_findadoctor_2_2','images/2008/btn_findadoctor.gif');" onmouseout="BillzMouseoverRestore();" class=""><img src="images/2008/btn_findadoctor.gif" border="0" alt="Find a Doctor" id="btn_findadoctor_2_2" name="btn_findadoctor_2_2" onload="BillzImagePreload('btn_findadoctor_2_2','images/2008/btn_findadoctor_on.gif');"></a></td>
+	</tr>
+	<tr background="">
+		<td class="" valign="top" align="left" background="" title=""><a href="body.cfm?id=47822" onmouseover="RestoreAll();BillzMouseover('btn_findservices_2_3','images/2008/btn_findservices.gif');" onmouseout="BillzMouseoverRestore();" class=""><img src="images/2008/btn_findservices.gif" border="0" alt="Services &amp; Departments" id="btn_findservices_2_3" name="btn_findservices_2_3" onload="BillzImagePreload('btn_findservices_2_3','images/2008/btn_findservices_on.gif');"></a></td>
+	</tr>
+	<tr background="">
+		<td class="" valign="top" align="left" background="" title=""><a href="body.cfm?id=40691" onmouseover="RestoreAll();BillzMouseover('btn_referringphys_2_4','images/2008/btn_referringphys.jpg');" onmouseout="BillzMouseoverRestore();" class=""><img src="images/2008/btn_referringphys.jpg" border="0" alt="Find Referring Physician Services" id="btn_referringphys_2_4" name="btn_referringphys_2_4" onload="BillzImagePreload('btn_referringphys_2_4','images/2008/btn_referringphys_on.jpg');"></a></td>
+	</tr>
+</tbody></table>
+	
+		<!-- End NavBar Output -->
+	</td>
+                      </tr>
+                      <tr> 
+                        <td width="150" height="400" valign="top" style="padding: 0px 0px 0px 22px;" align="left"><img src="images/2008/title_schedule.gif"><br>
+								
+	<!-- Begin NavBar Output  -  Version:  v0.77r 06/21/2001  -->
+	
+		<!-- Begin NavBar Bar #3 Content Output... -->
+		<table background="" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr background="">
+		<td width="0%" class="" valign="top" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Doctor Appointments" id="Nav_Bullet_3_1" name="Nav_Bullet_3_1">&nbsp;</td>
+		<td class="" valign="top" align="left" background=""><a href="body.cfm?id=46472" class="">Doctor Appointments</a></td>
+	</tr>
+	<tr class="" background="">
+		<td class="" colspan="2" valign="top" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
+	</tr>
+	<tr background="">
+		<td width="0%" class="" valign="top" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Cancel Appointments" id="Nav_Bullet_3_2" name="Nav_Bullet_3_2">&nbsp;</td>
+		<td class="" valign="top" align="left" background=""><a href="body.cfm?id=50407" class="">Cancel Appointments</a></td>
+	</tr>
+	<tr class="" background="">
+		<td class="" colspan="2" valign="top" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
+	</tr>
+	<tr background="">
+		<td width="0%" class="" valign="top" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Mammogram Appointments" id="Nav_Bullet_3_3" name="Nav_Bullet_3_3">&nbsp;</td>
+		<td class="" valign="top" align="left" background=""><a href="body.cfm?id=52650" class="">Mammogram Appointments</a></td>
+	</tr>
+</tbody></table>
+	
+		<!-- End NavBar Output -->
+	<br>
+								  <img src="images/2008/title_find.gif"><br>
+								
+	<!-- Begin NavBar Output  -  Version:  v0.77r 06/21/2001  -->
+	
+		<!-- Begin NavBar Bar #4 Content Output... -->
+		<table background="" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr background="">
+		<td class="" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Careers" id="Nav_Bullet_4_1" name="Nav_Bullet_4_1">&nbsp;</td>
+		<td class="" valign="middle" align="left" background=""><a href="home_careers.cfm?id=49647" class="">Careers</a></td>
+	</tr>
+	<tr class="" background="">
+		<td class="" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
+	</tr>
+	<tr background="">
+		<td class="" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Canadian Patient Information" id="Nav_Bullet_4_2" name="Nav_Bullet_4_2">&nbsp;</td>
+		<td class="" valign="middle" align="left" background=""><a href="body.cfm?id=46244" class="">Canadian Patient Information</a></td>
+	</tr>
+	<tr class="" background="">
+		<td class="" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
+	</tr>
+	<tr background="">
+		<td class="" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Accommodations for Patients and Families" id="Nav_Bullet_4_3" name="Nav_Bullet_4_3">&nbsp;</td>
+		<td class="" valign="middle" align="left" background=""><a href="body.cfm?id=46245" class="">Accommodations for Patients and Families</a></td>
+	</tr>
+	<tr class="" background="">
+		<td class="" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
+	</tr>
+	<tr background="">
+		<td class="" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Medical Education" id="Nav_Bullet_4_4" name="Nav_Bullet_4_4">&nbsp;</td>
+		<td class="" valign="middle" align="left" background=""><a href="home_medicaleducation.cfm?id=45425" class="">Medical Education</a></td>
+	</tr>
+	<tr class="" background="">
+		<td class="" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
+	</tr>
+	<tr background="">
+		<td class="" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Classes and Events" id="Nav_Bullet_4_5" name="Nav_Bullet_4_5">&nbsp;</td>
+		<td class="" valign="middle" align="left" background=""><a href="body.cfm?id=47693" class="">Classes and Events</a></td>
+	</tr>
+	<tr class="" background="">
+		<td class="" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
+	</tr>
+	<tr background="">
+		<td class="" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Health Products" id="Nav_Bullet_4_6" name="Nav_Bullet_4_6">&nbsp;</td>
+		<td class="" valign="middle" align="left" background=""><a href="http://www.henryfordhealthproducts.com/" target="_blank" class="">Health Products</a></td>
+	</tr>
+	<tr class="" background="">
+		<td class="" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
+	</tr>
+	<tr background="">
+		<td class="" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Henry Ford at Home" id="Nav_Bullet_4_7" name="Nav_Bullet_4_7">&nbsp;</td>
+		<td class="" valign="middle" align="left" background=""><a href="body.cfm?id=37092" class="">Henry Ford at Home</a></td>
+	</tr>
+	<tr class="" background="">
+		<td class="" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
+	</tr>
+	<tr background="">
+		<td class="" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Henry Ford OptimEyes" id="Nav_Bullet_4_8" name="Nav_Bullet_4_8">&nbsp;</td>
+		<td class="" valign="middle" align="left" background=""><a href="homepage_optimeyes.cfm?id=51936" class="">Henry Ford OptimEyes</a></td>
+	</tr>
+</tbody></table>
+	
+		<!-- End NavBar Output -->
+	<br>
+								  <img src="images/2008/title_learn.gif"><br>
+								
+	<!-- Begin NavBar Output  -  Version:  v0.77r 06/21/2001  -->
+	
+		<!-- Begin NavBar Bar #5 Content Output... -->
+		<table background="" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr background="">
+		<td class="" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Health Encyclopedia" id="Nav_Bullet_5_1" name="Nav_Bullet_5_1">&nbsp;</td>
+		<td class="" valign="middle" align="left" background=""><a href="body.cfm?id=39115" class="">Health Encyclopedia</a></td>
+	</tr>
+	<tr class="" background="">
+		<td class="" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
+	</tr>
+	<tr background="">
+		<td class="" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Patient Library" id="Nav_Bullet_5_2" name="Nav_Bullet_5_2">&nbsp;</td>
+		<td class="" valign="middle" align="left" background=""><a href="body_nologin.cfm?id=39330" class="">Patient Library</a></td>
+	</tr>
+	<tr class="" background="">
+		<td class="" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
+	</tr>
+	<tr background="">
+		<td class="" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Health Newsletters" id="Nav_Bullet_5_3" name="Nav_Bullet_5_3">&nbsp;</td>
+		<td class="" valign="middle" align="left" background=""><a href="body.cfm?id=40536" class="">Health Newsletters</a></td>
+	</tr>
+	<tr class="" background="">
+		<td class="" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
+	</tr>
+	<tr background="">
+		<td class="" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Research" id="Nav_Bullet_5_4" name="Nav_Bullet_5_4">&nbsp;</td>
+		<td class="" valign="middle" align="left" background=""><a href="body.cfm?id=45206" class="">Research</a></td>
+	</tr>
+	<tr class="" background="">
+		<td class="" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
+	</tr>
+	<tr background="">
+		<td class="" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Nursing at Henry Ford" id="Nav_Bullet_5_5" name="Nav_Bullet_5_5">&nbsp;</td>
+		<td class="" valign="middle" align="left" background=""><a href="body.cfm?id=47794" class="">Nursing at Henry Ford</a></td>
+	</tr>
+	<tr class="" background="">
+		<td class="" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
+	</tr>
+	<tr background="">
+		<td class="" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Clinical Trials" id="Nav_Bullet_5_6" name="Nav_Bullet_5_6">&nbsp;</td>
+		<td class="" valign="middle" align="left" background=""><a href="body.cfm?id=50274" class="">Clinical Trials</a></td>
+	</tr>
+	<tr class="" background="">
+		<td class="" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
+	</tr>
+	<tr background="">
+		<td class="" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Information on our Quality" id="Nav_Bullet_5_7" name="Nav_Bullet_5_7">&nbsp;</td>
+		<td class="" valign="middle" align="left" background=""><a href="body.cfm?id=46593" class="">Information on our Quality</a></td>
+	</tr>
+	<tr class="" background="">
+		<td class="" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
+	</tr>
+	<tr background="">
+		<td class="" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Pricing Information" id="Nav_Bullet_5_8" name="Nav_Bullet_5_8">&nbsp;</td>
+		<td class="" valign="middle" align="left" background=""><a href="body.cfm?id=47774" class="">Pricing Information</a></td>
+	</tr>
+	<tr class="" background="">
+		<td class="" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
+	</tr>
+	<tr background="">
+		<td class="" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Volunteering" id="Nav_Bullet_5_9" name="Nav_Bullet_5_9">&nbsp;</td>
+		<td class="" valign="middle" align="left" background=""><a href="body.cfm?id=47742" class="">Volunteering</a></td>
+	</tr>
+	<tr class="" background="">
+		<td class="" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
+	</tr>
+	<tr background="">
+		<td class="" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Podcasts from Henry Ford Experts" id="Nav_Bullet_5_10" name="Nav_Bullet_5_10">&nbsp;</td>
+		<td class="" valign="middle" align="left" background=""><a href="body.cfm?id=48646" class="">Podcasts from Henry Ford Experts</a></td>
+	</tr>
+</tbody></table>
+	
+		<!-- End NavBar Output -->
+	<br>
+								  <img src="images/2008/title_donate.gif"><br>
+								
+	<!-- Begin NavBar Output  -  Version:  v0.77r 06/21/2001  -->
+	
+		<!-- Begin NavBar Bar #6 Content Output... -->
+		<table background="" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr background="">
+		<td class="" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Make a Gift" id="Nav_Bullet_6_1" name="Nav_Bullet_6_1">&nbsp;</td>
+		<td class="" valign="middle" align="left" background=""><a href="https://henryfordgiving.com/NetCommunity/SSLPage.aspx?pid=191&amp;srcid=191" class="">Make a Gift</a></td>
+	</tr>
+	<tr class="" background="">
+		<td class="" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
+	</tr>
+	<tr background="">
+		<td class="" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Learn More About Giving" id="Nav_Bullet_6_2" name="Nav_Bullet_6_2">&nbsp;</td>
+		<td class="" valign="middle" align="left" background=""><a href="body.cfm?id=48179" class="">Learn More About Giving</a></td>
+	</tr>
+	<tr class="" background="">
+		<td class="" colspan="2" valign="middle" align="left" background="" title=""><img src="images/2008/leftnavspacer.gif"></td>
+	</tr>
+	<tr background="">
+		<td class="" valign="middle" align="left" background="" title="">&nbsp;<img src="images/2008/left_arrow.gif" border="0" alt="Register for an Event" id="Nav_Bullet_6_3" name="Nav_Bullet_6_3">&nbsp;</td>
+		<td class="" valign="middle" align="left" background=""><a href="body.cfm?id=48130" class="">Register for an Event</a></td>
+	</tr>
+</tbody></table>
+	
+		<!-- End NavBar Output -->
+	<br>
+								  <img src="images/2008/title_arabic.gif"><br>
+								
+
+	
+	
+	<a href="http://www.trans4.motionpoint.net/henryford/enar/24/_henryford_com/body.cfm?id=47222" class="clMain1"><img src="images_2006/btn_lft_arabic.gif" border="0" name="pButton_46484_2" id="pButton_46484_2" alt="Content for our Arabic Speaking Patients"></a>
+
+
+
+
+
+<br>
+                          <a href="http://www.henryford.com/body.cfm?id=46333" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image43','','images/2008/btn_espanol_on.gif',1)"><img src="images/2008/btn_espanol.gif" alt="Espanol" name="Image43" width="168" height="12" border="0"></a></td>
+                      </tr>
+                    </tbody></table></td>
+                </tr>
+                <tr> 
+                  <td valign="top"><img src="images/2008/leftnav_bottom.gif"></td>
+                </tr>
+				<tr>
+				  <td valign="top"><img src="images/2008/yeswecan.gif"></td></tr>
+              </tbody></table></td>
+            <td width="100%" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                <tbody><tr> 
+                  <td width="100%" colspan="2" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                      <tbody><tr> 
+                        <td width="100%" valign="top"><img src="images/2008/clear.gif" alt=""></td>
+                      </tr>
+                    </tbody></table>
+						</td>
+                </tr>
+                <tr>
+                  <td height="596" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                      <tbody><tr> 
+                        <td width="171" valign="top"><img src="images/2008/bodycontent_top.gif"></td>
+                      </tr>
+					   
+                      <tr> 
+                        <td width="100%" valign="top" style="background-image:url(images/2008/bodycontent_tile.gif); background-repeat: repeat-y; background-position: top left;" height="614"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                            <tbody><tr> 
+                              <td width="100%" valign="top" style="padding: 0px 15px 0px 15px;">
+							  
+							  <div style="float:right;">
+<a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=henry1"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=henry1"></script>
+<!-- AddThis Button END --> <a href="javascript:void(0)" onclick="DoPrintEmail('action=EmailFriend')"><img src="images_2006/emailtoafriend.gif" border="0" alt="Email to a friend"></a><a href="javascript:void(0)" onclick="DoPrintEmail('print=yes')"><img src="images_2006/printthispage.gif" border="0" alt="Print this page"></a></div><br><br>
+
+
+
+
+						<span class="pageName">Privacy Policy</span>
+						
+						
+							
+
+
+	
+
+
+
+
+	
+	
+
+
+
+	
+	
+	
+	
+	
+ 
+
+
+
+
+
+		
+		
+		
+		
+
+		
+
+		
+		
+		
+
+			
+				
+			
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+
+		
+
+		
+		
+		
+
+			
+				
+			
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+
+		
+
+		
+		
+		
+
+			
+				
+			
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+
+		
+
+		
+		
+		
+
+			
+				
+			
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+
+		
+
+		
+		
+		
+
+			
+				
+			
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+
+		
+
+		
+		
+		
+
+			
+				
+			
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+
+		
+
+		
+		
+		
+
+			
+				
+			
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+
+		
+
+		
+		
+		
+
+			
+				
+			
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+				
+		
+		
+		
+				
+		
+			
+		
+
+		
+		
+		
+		
+		
+		
+	
+		
+			
+			
+			
+		
+		
+		
+	
+		
+			
+			
+		
+
+		
+		
+		
+		
+			
+
+		
+
+		
+		
+		
+
+			
+				
+			
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+
+		
 					
-					<tr> 
-						<td valign="top"><br>
-							<img src="images_2006/wecanspacer.gif"></td>
-					</tr>
-				</tbody></table></td></tr>
-		</tbody></table></td>
-	<td width="20" bgcolor="#8D837B" rowspan="2" valign="top" style="background-image:url(images_2006/rightsidetile.gif); background-repeat: repeat-y; background-position: top left;"><table width="100%" border="0" cellpadding="0" cellspacing="0">
-			<tbody><tr> 
-				<td width="0%" valign="top"><img src="images_2006/rightside.jpg"><br> 
-				</td>
-			</tr>
-		</tbody></table></td>
+						
+		
+		
+				
+		
+		
+		
+		
+		
+				
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+			
+			
+				
+			
+		
+		
+		
+		
+		
+			
+			
+		
+		
+		
+		
+		
+			
+			
+		
+
+		
+		
+		
+			
+			
+		
+		
+		
+
+		
+			
+
+			
+		
+		
+
+		
+		
+
+		
+				
+		 
+		
+			
+		
+		
+		
+
+		
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+		
+		
+		
+		
+		
+		
+		
+	
+
+
+	
+
+	
+	
+	
+		
+		
+		
+			
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+			
+	 
+	 
+	 
+	 
+
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+
+	
+	
+
+	
+	
+
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+		
+		
+	
+		
+
+	
+		
+
+	
+		
+
+	
+		
+
+	 
+	 
+	 
+	 
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+	
+	
+	
+
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+		
+	
+	
+	
+	
+	
+	
+		
+	
+	
+	
+
+			
+			
+			
+
+			
+	 
+	 
+	 
+	 
+
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+
+	
+	
+
+	
+	
+
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+		
+		
+	
+		
+
+	
+		
+
+	
+		
+
+	
+		
+
+	 
+	 
+	 
+	 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+
+
+			
+	 
+	 
+	 
+	 
+
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+
+	
+	
+
+	
+	
+
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+		
+		
+	
+		
+
+	
+		
+
+	
+		
+
+	
+		
+
+	 
+	 
+	 
+	 
+
+	
+	
+	
+	
+	
+	
+	
+	
+		
+	
+
+	
+	 
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+		
+		
+	
+		
+
+	
+		
+
+	
+		
+
+	
+		
+	
+	
+		
+		
+	
+		
+	
+	
+		
+	
+	
+	
+		
+	
+	
+	
+	
+	
+	
+	
+	
+
+			
+
+			
+				
+			
+			
+			
+			
+			
+				
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+			
+		
+		 
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+
+		
+
+		
+		
+		
+
+			
+				
+			
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+			
+
+		
+		
+		
+		
+				
+		
+		
+		
+				
+		
+			
+		
+
+		
+		
+		
+		
+		
+		
+	
+		
+			
+			
+			
+		
+		
+		
+	
+		
+			
+			
+		
+
+		
+		
+		
+		
+			
+
+		
+
+		
+		
+		
+
+			
+				
+			
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+
+		
+					
+						
+		
+		
+				
+		
+		
+		
+		
+		
+				
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+			
+			
+				
+			
+		
+		
+		
+		
+		
+			
+			
+		
+		
+		
+		
+		
+			
+			
+		
+
+		
+		
+		
+			
+			
+		
+		
+		
+
+		
+			
+
+			
+		
+		
+
+		
+		
+
+		
+				
+		 
+		
+			
+		
+		
+		
+
+		
+			
+			
+		
+		
+		
+			
+
+		
+
+		
+		
+		
+		
+
+		
+		
+			
+
+		
+		
+		
+		
+
+		
+
+		
+		
+		
+
+			
+				
+			
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+				
+		
+		
+		
+				
+		
+			
+		
+
+		
+		
+		
+		
+		
+		
+	
+		
+			
+			
+			
+		
+		
+		
+	
+		
+			
+			
+		
+
+		
+		
+		
+		
+			
+
+		
+
+		
+		
+		
+
+			
+				
+			
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+
+		
+					
+						
+		
+		
+				
+		
+		
+		
+		
+		
+				
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+			
+			
+				
+			
+		
+		
+		
+		
+		
+			
+			
+		
+		
+		
+		
+		
+			
+			
+		
+
+		
+		
+		
+			
+			
+		
+		
+		
+
+		
+			
+
+			
+		
+		
+
+		
+		
+
+		
+				
+		 
+		
+			
+		
+		
+		
+
+		
+			
+			
+			
+				
+			
+			
+			
+
+		
+		
+		
+		
+
+		
+
+		
+		
+		
+
+			
+				
+			
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+			
+
+		
+		
+		
+		
+				
+		
+		
+		
+				
+		
+			
+		
+
+		
+		
+		
+		
+		
+		
+	
+		
+			
+			
+			
+		
+		
+		
+	
+		
+			
+			
+		
+
+		
+		
+		
+		
+			
+
+		
+
+		
+		
+		
+
+			
+				
+			
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+
+		
+					
+						
+		
+		
+				
+		
+		
+		
+		
+		
+				
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+			
+			
+				
+			
+		
+		
+		
+		
+		
+			
+			
+		
+		
+		
+		
+		
+			
+			
+		
+
+		
+		
+		
+			
+			
+		
+		
+		
+
+		
+			
+
+			
+		
+		
+
+		
+		
+
+		
+				
+		 
+		
+			
+		
+		
+		
+
+		
+			
+
+				
+					
+					
+					
+					
+					
+
+				
+					
+					
+					
+					
+					
+
+				
+					
+					
+					
+					
+					
+
+				
+					
+					
+					
+					
+					
+
+				
+					
+					
+					
+					
+					
+
+				
+					
+					
+					
+					
+					
+
+				
+					
+					
+					
+					
+					
+
+				
+					
+					
+					
+					
+					
+
+				
+					
+					
+					
+					
+					
+
+				
+					
+					
+					
+					
+					
+
+				
+					
+					
+					
+					
+					
+
+				
+					
+					
+					
+					
+					
+
+				
+					
+					
+					
+					
+					
+
+				
+					
+					
+					
+					
+					
+
+				
+					
+					
+					
+					
+					
+
+				
+					
+					
+					
+					
+					
+
+				
+					
+					
+					
+					
+					
+
+				
+					
+					
+					
+					
+					
+
+				
+					
+					
+					
+					
+					
+
+				
+				
+				
+
+		
+
+		
+		
+		
+
+	
+				
+			
+			
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+			
+			
+			
+				
+				
+				
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+			
+		
+		 
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+
+		
+
+		
+		
+		
+
+			
+				
+			
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+			
+
+		
+		
+		
+		
+				
+		
+		
+		
+				
+		
+			
+		
+
+		
+		
+		
+		
+		
+		
+	
+		
+			
+			
+			
+		
+		
+		
+	
+		
+			
+			
+		
+
+		
+		
+		
+		
+			
+
+		
+
+		
+		
+		
+
+			
+				
+			
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+
+		
+					
+						
+		
+		
+				
+		
+		
+		
+		
+		
+				
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+			
+			
+				
+			
+		
+		
+		
+		
+		
+			
+			
+		
+		
+		
+		
+		
+			
+			
+		
+
+		
+		
+		
+			
+			
+		
+		
+		
+
+		
+			
+
+			
+		
+		
+
+		
+		
+
+		
+				
+		 
+		
+			
+		
+		
+		
+
+		
+			
+			
+		
+		
+		
+			
+
+		
+
+		
+		
+		
+		
+
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+				
+					
+				
+			
+			
+			
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+	
+ 
+
+
+
+ 
+
+
+
+
+	
+
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+		
+		
+		
+		
+		
+		
+		
+	
+
+
+	
+
+	
+	
+	
+		
+		
+		
+			
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+			
+	 
+	 
+	 
+	 
+
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+
+	
+	
+
+	
+	
+
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+		
+		
+	
+		
+
+	
+		
+
+	
+		
+
+	
+		
+
+	 
+	 
+	 
+	 
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+	
+	
+	
+
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+		
+	
+	
+	
+	
+	
+	
+		
+	
+	
+	
+
+			
+			
+			
+
+			
+	 
+	 
+	 
+	 
+
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+
+	
+	
+
+	
+	
+
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+		
+		
+	
+		
+
+	
+		
+
+	
+		
+
+	
+		
+
+	 
+	 
+	 
+	 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+
+
+			
+	 
+	 
+	 
+	 
+
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+
+	
+	
+
+	
+	
+
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+		
+		
+	
+		
+
+	
+		
+
+	
+		
+
+	
+		
+
+	 
+	 
+	 
+	 
+
+	
+	
+	
+	
+	
+	
+	
+	
+		
+	
+
+	
+	 
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+	
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+	
+
+	
+		
+		
+	
+		
+
+	
+		
+
+	
+		
+
+	
+		
+	
+	
+		
+		
+	
+		
+	
+	
+		
+	
+	
+	
+		
+	
+	
+	
+	
+	
+	
+	
+	
+
+			
+
+			
+				
+			
+			
+			
+			
+			
+				
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+			
+		
+		 
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+
+		
+
+		
+		
+		
+
+			
+				
+			
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+			
+
+		
+		
+		
+		
+				
+		
+		
+		
+				
+		
+			
+		
+
+		
+		
+		
+		
+		
+		
+	
+		
+			
+			
+			
+		
+		
+		
+	
+		
+			
+			
+		
+
+		
+		
+		
+		
+			
+
+		
+
+		
+		
+		
+
+			
+				
+			
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+
+		
+					
+						
+		
+		
+				
+		
+		
+		
+		
+		
+				
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+			
+			
+				
+			
+		
+		
+		
+		
+		
+			
+			
+		
+		
+		
+		
+		
+			
+			
+		
+
+		
+		
+		
+			
+			
+		
+		
+		
+
+		
+			
+
+			
+		
+		
+
+		
+		
+
+		
+				
+		 
+		
+			
+		
+		
+		
+
+		
+			
+			
+		
+		
+		
+			
+
+		
+
+		
+		
+		
+		
+
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+			
+			
+			
+				
+				
+				
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+			
+		
+		 
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+
+		
+
+		
+		
+		
+
+			
+				
+			
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+			
+
+		
+		
+		
+		
+				
+		
+		
+		
+				
+		
+			
+		
+
+		
+		
+		
+		
+		
+		
+	
+		
+			
+			
+			
+		
+		
+		
+	
+		
+			
+			
+		
+
+		
+		
+		
+		
+			
+
+		
+
+		
+		
+		
+
+			
+				
+			
+		
+		
+		
+		
+		
+
+		
+		
+		
+		
+		
+		
+
+		
+					
+						
+		
+		
+				
+		
+		
+		
+		
+		
+				
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+			
+			
+				
+			
+		
+		
+		
+		
+		
+			
+			
+		
+		
+		
+		
+		
+			
+			
+		
+
+		
+		
+		
+			
+			
+		
+		
+		
+
+		
+			
+
+			
+		
+		
+
+		
+		
+
+		
+				
+		 
+		
+			
+		
+		
+		
+
+		
+			
+			
+		
+		
+		
+			
+
+		
+
+		
+		
+		
+		
+
+		
+		
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+				
+					
+				
+			
+			
+			
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+		
+		
+		
+	
+	
+ 
+
+
+
+ 
+
+				
+	
+
+
+
+
+
+	
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+	
+	
+
+
+
+	
+	
+
+	
+	
+	
+	
+	
+  
+
+
+	
+		<p>Privacy and Security on Henryford.com</p>
+
+<p><strong>Using the Internet-The Choice is Yours<br>
+</strong>Using the Internet to communicate with Henry Ford&nbsp;through www.henryford.com is completely voluntary. You should read this statement to understand the benefits and risks of communicating over the Internet. If you do not choose to communicate with us over the Internet, you may browse our web site anonymously.</p>
+
+<p><strong>Signing Up for My Health<br>
+</strong>Communicating with Henry Ford&nbsp;using My Health provides greater Internet security because communications will then be protected by Secure Socket Layer (SSL) 128-bit encrypting software and by use of a PIN (personal identification number).</p>
+
+<p>To use this service, you must sign up by submitting a registration form available at <a href="http://www.henryford.com/">www.henryford.com</a>.</p>
+
+<p>You can submit the form electronically, by fax or mail. Once we receive a completed form and verify your information, we will mail to you by regular US Mail a PIN for you to use when accessing My Health. When you sign on for the first time, you'll be asked for your login ID and PIN. You must use the PIN that was mailed to you and then will be prompted to change it. The registration process, login ID and PIN help us verify who you are. This is important because some of the My Health features give access to confidential personal and health information. If you share your PIN with others, they will also be able to access some of this confidential information. We strongly encourage you not to share your PIN. Protect your PIN at least as carefully as you would protect your bank's ATM PIN.<br>
+</p>
+
+<p><strong>Using Email<br>
+</strong>There are a number of risks you should consider before using email to communicate with us: email can be circulated, forwarded and stored in numerous paper and electronic files; email can be intercepted, altered, forwarded or used without authorization or detection; email senders can easily misaddress an email; backup copies of email may exist even after the sender deletes the email; employers and online services have the right to inspect email transmitted through their systems; email is easier to falsify than handwritten or signed documents; and email can be used to introduce viruses into computer systems. Confidentiality of Internet communications cannot be guaranteed by Henry Ford. Use of the Internet is solely at your own risk.</p>
+
+<p><strong>Information We Collect When you Visit</strong> <strong><a href="http://www.henryford.com/">www.HenryFord.com<br>
+</a>Our web server automatically recognizes your domain name. Our web server does not recognize your e-mail address. We use "cookies" to personalize our site for you and to collect aggregate information about site usage by all of our users. A cookie is a text file that our web site transfers to your computer's hard drive for record keeping purposes. We use this information to evaluate and improve our web site. The cookie assigns a random, unique number to your computer. We do not collect any information that can be used to personally identify you unless you voluntarily register for My Health, subscribe to a newsletter, request information, order a product or service, or send an email to us. IF YOU USE MY HEALTH, SUBSCRIBE TO A NEWSLETTER, REQUEST INFORMATION, REQUEST A PRODUCT OR SERVICE, OR SEND US AN E-MAIL, WE WILL HAVE YOUR E-MAIL ADDRESS AT OUR SITE.<br>
+</strong></p>
+
+<p><strong>Information We Collect When You Communicate with Us Over the Internet<br>
+</strong>Henry Ford is committed to protecting the privacy of the personal information you provide to us over the Internet. All information is protected by our privacy policies, which we periodically review and update. If you choose to communicate with us over the Internet, we may request personally identifiable information from you necessary for us to process your request for information, respond to your questions or deliver a product or service. Personally identifiable information is any information that can be used to identify you, such as your name, address, web address or medical record number. When you send information to us, the information may be shared with our employees and contractors who need to know the information to respond to your request and as permitted by law. We keep some of this information for a period of time as determined necessary by us. Information collected when you respond to surveys and promotions on our web site will be used for internal purposes, including developing web site information and services. We may inform you of new products and services from Henry Ford&nbsp;based on the information you provide us.<br>
+</p>
+
+<p><strong>Security<br>
+</strong>Henry Ford&nbsp;takes steps to make all information received from our online visitors secure against unauthorized access and use. All information is protected by our security measures, which we periodically review and update. We use security technology to protect you during your Internet communications with us. This security includes server authentication, encryption and data integrity. Your personal information is protected from unauthorized access by a secure firewall and security infrastructure. During transmission of information using My Health, your privacy is protected by Secure Socket Layer (SSL) 128-bit encrypting software. We employ physical, electronic and procedural safeguards to maintain the security of your information.<br>
+<br>
+<strong>Links To Other Web Sites<br>
+</strong>We have links from our web site to a number of different health care related web sites. When you click on one of these links, you leave www.henryford.com and link to another web site not controlled by Henry Ford. We do not control the privacy policies or security measures of any these health care related sites. You should read the privacy statements on the other sites you visit to understand their privacy practices.</p>
+
+<p><strong>Here's What You Can Do To Protect Your Internet Communications<br>
+</strong>There are things you can do to improve the privacy and security of your Internet communications. Here are a few of them: Register for My Health, which is more secure than e-mail. Do not communicate sensitive or confidential information to us over the Internet from work. Your employer has the right to inspect your email, co-workers may see the information on a computer screen and you can inadvertently forward the email to co-workers or others. After you submit or receive information online, end your browser session before leaving your computer. This helps preserve the confidentiality of your data by ensuring that you are not leaving personally identifiable information on the computer for those who use the computer after you. This is especially important if you are using a computer in a public area. If you communicate with us over the Internet, tell us when your email address changes.<br>
+</p>
+
+<p><strong>Changes to This Statement<br>
+</strong>We periodically review and update our privacy policies and security measures. When we do so we may need to change or update this statement and reserve the right to do so. All updates and changes automatically apply to you without notice. If you do not believe that this policy gives you the Internet privacy and security protection you need, you have the ability and right to stop interacting with Henry Ford over the Internet by exiting this web site now.</p>
+	
+	
+
+
+
+
+
+
+
+
+
+
+						
+						
+
+ 
+
+
+										</td>
+                            </tr>
+									 <tr>
+										<td style="padding:5px 15px 0 15px;"></td>
+									 </tr>
+									 <tr>
+										<td style="padding:5px 15px 0 15px;">
+
+
+</td>
+									 </tr>
+									 
+                          </tbody></table>
+								</td>
+                      </tr>
+                      <tr> 
+                        <td valign="top"><img src="images/2008/bodycontent_bottom.gif"></td>
+                      </tr>
+                    </tbody></table>
+						</td>
+						
+						
+                  <td width="252" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+                      
+					  
+					 
+												<tbody><tr> 
+													<td width="252" valign="top"><img src="images/2008/myhealth_top_body.gif"></td>
+												</tr>
+												<tr> 
+													<td valign="top" style="background-image:url(images/2008/myhealth_tile.gif); background-repeat: repeat-y; background-position: top left;"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+															<tbody><tr> 
+																<td width="252" align="center" valign="top" style="padding: 0px 15px 0px 6px;"><img src="images/2008/title_myhealthlogin.gif"><br><a href="https://myhealth.henryford.com/default.aspx"><img src="images/2008/btn_login_body.gif" alt="MyHealth Login" style="border:0;"></a></td>
+															</tr>
+														</tbody></table></td>
+												</tr>
+												<tr> 
+													<td valign="top"><img src="images/2008/myhealth_bottom.gif"></td>
+												</tr>
+												
+												
+												
+											
+											
+											
+											
+											
+											
+											
+												
+												
+													<tr>
+														<td valign="top"><img src="images/2008/myhealth_top.gif"></td>
+													</tr>
+													<tr>
+														<td height="32" valign="top" style="background-image:url(images/2008/myhealth_tile.gif); background-repeat: repeat-y; background-position: top left;">
+															<img src="images/2008/title_inthissection_wide.gif" alt="In This Section" style="margin:0 0 0 15px">
+															
+													
+	<!-- Begin NavBar Output  -  Version:  v0.77r 06/21/2001  -->
+	
+		<!-- Begin NavBar Bar #7 Content Output... -->
+		<table background="" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr background="">
+		<td class="navigation-sub" valign="top" align="left" background="" title=""><a href="body.cfm?id=39775" class="navigation-sub">Notice of Privacy Practices</a></td>
 	</tr>
 </tbody></table>
-
-<table width="100%" border="0" bgcolor="#8D837B" cellpadding="0" cellspacing="0" style="background-image:url(images_2006/footertile.gif); background-repeat: repeat-x; background-position: top left;">
-	<tbody><tr> 
-		<td width="0%" align="left"><img src="images_2006/footerleft.gif"></td>
-		<td width="100%" align="right"><img src="images_2006/footer.gif"><br>
-			<font style="color:D0CDC9; font-weight:bold; font-size:11px; text-decoration: none;"><a href="body.cfm?id=45567" class="footer">Terms 
-			of Use</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="body.cfm?id=39775" class="footer">Privacy 
-			Policy</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="body.cfm?id=39011" class="footer">Take 
-			a 3-D Tour Inside Henry Ford Hospital</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.henryfordhealth.org/101.cfm" onmouseover="this.href='body.cfm?id=46340';" class="footer">Table 
-			of Contents</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Copyright 
-			1997-2006</font></td>
-		<td width="0%" align="right"><img src="images_2006/footerright.gif"></td>
+	
+		<!-- End NavBar Output -->
+	
+												
+														</td>
+													</tr>
+													<tr>
+														<td valign="top"><img src="images/2008/myhealth_bottom.gif"></td>
+													</tr>
+												
+											
+											
+											
+																						
+											
+											
+											
+											
+                    </tbody></table>
+									</td>
+									
+									
+                </tr>
+              </tbody></table></td>
+          </tr>
+        </tbody></table></td>
+    </tr>
+    <tr> 
+      <td height="140" valign="top" style="background-image:url(images/2008/footer.jpg); background-repeat: no-repeat; background-position: top left;"><table width="100%" border="0" cellpadding="0" cellspacing="0">
+          <tbody><tr> 
+            <td width="100%" height="140" valign="top" align="center" style="color:#fff!important;"><br><br><br>
+								
+	<!-- Begin NavBar Output  -  Version:  v0.77r 06/21/2001  -->
+	
+		<!-- Begin NavBar Bar #8 Content Output... -->
+		<table background="" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr class="" background="">
+		<td class="" valign="middle" align="center" background="" title=""><a href="body.cfm?id=50029" class="">Billing/Insurances Accepted</a></td>
+		<td class="" valign="middle" align="center" background="" title=""><img src="images/2008/footermark.gif"></td>
+		<td class="" valign="middle" align="center" background="" title=""><a href="body.cfm?id=37460" class="">About Henry Ford</a></td>
+		<td class="" valign="middle" align="center" background="" title=""><img src="images/2008/footermark.gif"></td>
+		<td class="" valign="middle" align="center" background="" title=""><a href="body.cfm?id=46294" class="">Press Room</a></td>
+		<td class="" valign="middle" align="center" background="" title=""><img src="images/2008/footermark.gif"></td>
+		<td class="" valign="middle" align="center" background="" title=""><a href="body.cfm?id=45567" class="">Terms of Use</a></td>
+		<td class="" valign="middle" align="center" background="" title=""><img src="images/2008/footermark.gif"></td>
+		<td class="" valign="middle" align="center" background="" title=""><a href="body.cfm?id=39113" class="">Privacy Policy</a></td>
+		<td class="" valign="middle" align="center" background="" title=""><img src="images/2008/footermark.gif"></td>
+		<td class="" valign="middle" align="center" background="" title=""><a href="body.cfm?id=48183" class="">Vendor Information</a></td>
+		<td class="" valign="middle" align="center" background="" title=""><img src="images/2008/footermark.gif"></td>
+		<td class="" valign="middle" align="center" background="" title=""><a href="body.cfm?id=40156" class="">Contact Us</a></td>
 	</tr>
+
 </tbody></table>
+	
+		<!-- End NavBar Output -->
+	<br>1-800-HENRYFORD (800-436-7936)&nbsp;&nbsp;&nbsp;&nbsp;Copyright 1997 - 2009</td>
+          </tr>
+        </tbody></table></td>
+    </tr>
+  </tbody></table>
+  
 
-</td></tr></tbody></table>
-
-
-
-</body></html>
+ </body></html>
