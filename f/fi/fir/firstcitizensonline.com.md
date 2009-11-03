@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstcitizensonline.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617063800id_/http%3A//www.firstcitizensonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstcitizensonline.com privacy policy that was archived on 2009-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091103161257id_/http%3A//www.firstcitizensonline.com/privacy) for the most accurate reproduction.*
 
 # First Citizens Bank | Privacy and Security
 
@@ -18,7 +18,7 @@ Read our [Privacy Policy](https://web.archive.org/privacy/policy.html) to learn 
 
 ## Search our site:
 
-## Earn reward points  
-every time you shop.
+## Save more today.  
+Worry less tomorrow.
 
-## Is an IRA part of your retirement plan?
+## First home or dream home, we can help.
