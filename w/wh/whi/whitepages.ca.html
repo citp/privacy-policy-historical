@@ -1,551 +1,285 @@
-<!--The following is the downloaded HTML source of the whitepages.ca privacy policy that was archived on 2009-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090616190622id_/http%3A//www.whitepages.ca/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the whitepages.ca privacy policy that was archived on 2009-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091103093553id_/http%3A//www.whitepages.ca/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>WhitePages.ca - Canadian Online Directory Assistance</title>
-<meta name="description" content="Free searches for people and businesses in Canada and the U.S.">
-<meta name="keywords" content="Canada white pages, business search, find people, free people search, phone directory, area code maps, postal code finder">
-<script type="text/javascript"><!--
-			// Free searches for people and businesses in Canada and the U.S.--></script><meta name="wpn_pagename" content="PRIVACY">
-<meta name="timestamp" content="06/16/2009, 12:05:45">
+<title>Free People Search | WhitePages</title>
+<meta name="description" content="Welcome to WhitePages! The world's largest and most trusted source for people's contact information, with more than 180 million U.S. adults and growing!">
+<meta name="keywords" content="white pages, free people search, phone directory number">
+<meta name="wpn_pagename" content="X_PRIVACY">
+<meta name="timestamp" content="10/07/2008, 13:47:46">
+
+<link rel="shortcut icon" href="http://www.whitepages.ca/common/images/favicon.ico">
+
 <script type="text/javascript">
-					var jsStart = (new Date()).getTime();
-					var JiffyParams = {
-						jsStart: jsStart,
-                    	pname: 'PRIVACY',
-						sid: '10002',
-						THROTTLE: '0',
-						uid: '5906281128' + '' + Math.abs(jsStart)
-					};
-                </script><script type="text/javascript" src="/static/1245135595/common.js?stg=prod&amp;omni_account=whitepages"></script><script type="text/javascript">
-			var common_ad = new COMMON_AD();
+  self.name = 'WhitepagesMain';
+</script>
 
-			<!--
-			var segQS = '';
-			var rsi_data = '';
-			var rdb_data = common_ad.get_rdb_params( get_rdb_cookie( ) );
-			// -->
 
-		</script><script type="text/javascript">
+
+
 
 <!--
+  Atlas debug data
+    ADMIN SITE NAME: WHITEPAGES_CA
+    ATLAS PAGE NAME: X_PRIVACY
+    ADMIN PAGE NAME: X_PRIVACY
+-->
 
-//var rsi_data = null;
+<script type="text/javascript">
+		    // this is set in config/conf/target/dev-ubuntu/wpn_rails/omniture.yml
+		    var omni_wpn_account = 'whitepagesprod';
+	    </script>
+<link href="/cache/stylesheets/all.css?1256856302" media="screen" rel="stylesheet" type="text/css">
+<link href="/common/stylesheets/static_docs.css?1256856302" media="screen" rel="stylesheet" type="text/css">
+<link href="/wpca/stylesheets/common_ca.css?1256856302" media="screen" rel="stylesheet" type="text/css">
+<script src="/cache/javascripts/all.js?1256856302" type="text/javascript"></script>
 
-function DM_onSegsAvailable(rsinetsegs) 
-{
-	// required to get data from the array, but we're using the cookie for now.
-	// rsi_data = getRSIDataFromArray(rsinetsegs);
-}
 
-function getRSISegs()
-{
-	var rsi_segs = [];
-    var segs_beg = document.cookie.indexOf('rsi_segs=');
-    if (segs_beg >= 0) {
-    	segs_beg = document.cookie.indexOf('=', segs_beg) + 1;
-        if (segs_beg > 0) {
-            var segs_end = document.cookie.indexOf(';', segs_beg);
-            if (segs_end == -1) segs_end = document.cookie.length;
-        	    rsi_segs = document.cookie.substring(segs_beg, segs_end).split('|');
-        }
-    }
-	return rsi_segs;
-}
 
-function getRSIDataFromCookie()
-{
-	try {
-        var rsi_regex = /(?:A06546|(\w{1})\d+)_(\d+)/;
-
-        rsi_segs = getRSISegs();
-
-        var segLen = rsi_segs.length < 20 ? rsi_segs.length : 20;
-        var rsi_data = '/keyword=';
-        for (var i = 0; i < segLen; i++) {
-            rsi_data += (rsi_segs[i].replace(rsi_regex, '$1$2') + '+');
-        }
-
-        rsi_data = trimRSIData(rsi_data);
-    }
-    catch ( err ) {
-		//alert(err + '\n' + err.description);
-    }
-
-    return rsi_data ? rsi_data : '';
-}
-
-function getRSIDataFromArray(rsinetsegs)
-{
-    try {
-        var rsi_regex = /(?:A06546|(\w{1})\d+)_(\d+)/;
-        my_rsi_data = rsinetsegs.length > 0
-            ? '/keyword=' + rsinetsegs[0].replace(rsi_regex, "$1$2") + '+'
-            : '';
-        for (var i=1, len=rsinetsegs.length; i < len; i++) {
-            my_rsi_data +=  rsinetsegs[i].replace( rsi_regex, "$1$2" ) + '+';
-        }
-        my_rsi_data = trimRSIData(my_rsi_data);
-    }
-    catch ( err ) { 
-		/*
-		var printable = '';
-		for (k in err) {
-			printable += k + ': ' + err[k] + '\n';
-		}
-		*/
-    }
-
-    return my_rsi_data ? my_rsi_data : '';
-
-}
-
-function trimRSIData(rsi_data)
-{
-    /** WP:
-        Atlas has capped the KEYWORD parameter in the URL to have a maximum
-        of 100 characters. By end of 2008 they should have raised this to
-        a max of 254 charaters. Need to remember to change this to cap at
-        254 once Atlas has made this enhancement.
-    */
-
-    /** WP:
-        Account for "keyword=" in the string. Adds 8 extra characters
-    */
-    var rsi_truncate_regex = /(.*)?\+[\w\d]+$/;
-	var max_len = 65; //108;
-    if (rsi_data.length > max_len) {
-        rsi_data = rsi_data.substring(0,max_len - 1);
-		// substring may result in an invalid tail code, so chop it off.
-	    rsi_data = rsi_data.replace(rsi_truncate_regex, '$1');
-    }
-    return rsi_data.replace(/\+$/, ''); // chop off trailing plus sign.
-}
-
-rsi_data = getRSIDataFromCookie();
-
-			// -->
-
-					</script><script type="text/javascript"><!--
-				 
-				// SITE: WhitePages.ca
-				// PAGE: PRIVACY
-				wpn_ad = new WPN_AD(
-					'http://atl.whitepages.com',
-					'WHITEPAGES_CA',
-					'PRIVACY',
-					'', 
-					"_RM_HTML_FIRST_ESC_=&_RM_HTML_XF_ESC_=&_RM_HTML_LAST_ESC_=&_RM_HTML_XL_ESC_=&_RM_HTML_HOUSE_ESC_=&_RM_HTML_XHN_ESC_=&_RM_HTML_STREET_ESC_=&_RM_HTML_XST_ESC_=&_RM_HTML_CITY_ESC_=&_RM_HTML_XC_ESC_=&_RM_HTML_STATE_ESC_=&_RM_HTML_XS_ESC_=&_RM_HTML_ZIP_ESC_=&_RM_HTML_XZ_ESC_=&_RM_HTML_ADDRESS_ESC_=&_RM_HTML_PHONE_ESC_=&_RM_HTML_PHONE_FORMATTED_ESC_=&CITY=&STATE=&_RM_HTML_SEARCH_ID_ESC_=&_RM_HTML_ELEMENT_ID_ESC_="
-					+ ((segQS != '') ? "&" + segQS : ''),
-					false,
-					"/bserver/AAMALL",
-					(rsi_data + rdb_data + "")
-				);
-		
-				if (common_ad){wpn_ad.header();}
-				
-			// --></script><link rel="stylesheet" type="text/css" href="/static/whitepages/1245135595/common-ca.css">
-<style type="text/css" media="print">
-			#form_content_wrapper,
-			#wp_inc_footer,
-			#results_single_ad_house,
-			#results_single_local_info,
-			#results_single_ad_sfe_teaser,
-			#wp_inc_navigation,
-			#supernav_container,
-			#wp_ad_right_rail,
-			div.wp_x70_wrapper,
-			#featured_link4_ad,
-			#results_ad_heading_text,
-			#wrapper_x60,
-			#results_ad_mi_icon_1,
-			#results_single_results_link_ads,
-			div.results_single_listing_validation,
-			#results_single_actions,
-			#results_single_enlarge_map,
-			#results_ad_results_page_module,
-			#results_multiple_choose_view,
-			#results_multiple_bottom_navpage,
-			#wp_banner_ad,
-			#results_ad_results_module,
-			#wp_runner
-			{display:none;}
-			
-			
-			.results_single_listing_part{
-				width:auto;
-				background:green;
-			}
-			
-			.part_right, dl.results_multiple_work_info dt, dl.results_multiple_work_info dd{
-				float:none;
-			}
-						
-			#results_single_conent_horizontal_flex {
-				height:300px;
-				clear:both;
-				position:relative;
-			}
-			
-		</style>
 <script type="text/javascript">
 
+  if (typeof(whitepages.page) == 'undefined') { whitepages.page = function() {} };
+  whitepages.page.data =  {"admin_page_name":"X_PRIVACY","admin_site_name":"WHITEPAGES_CA","ad_server":"http:\/\/atl.whitepages.com","disable_claim_home_address":null,"atlas_page_name":"X_PRIVACY","environment":"prod","wildcard_cookie_domain":".whitepages.ca"};
 
-			
-				var obj = null;
-				var customarray = new Array(
-					'AL - Alabama','AK - Alaska','AR - Arkansas','AZ - Arizona','CA - California',
-					'CO - Colorado','CT - Connecticut','DC - District Of Columbia','DE - Delaware',
-					'FL - Florida','GA - Georgia','HI - Hawaii','IA - Iowa','ID - Idaho',
-					'IL - Illinois','IN - Indiana','KS - Kansas','KY - Kentucky','LA - Louisiana',
-					'MA - Massachusetts','MD - Maryland','ME - Maine','MI - Michigan','MN - Minnesota',
-					'MO - Missouri','MS - Mississippi','MT - Montana','NC - North Carolina',
-					'ND - North Dakota','NE - Nebraska','NH - New Hampshire','NJ - New Jersey',
-					'NM - New Mexico','NV - Nevada','NY - New York','OH - Ohio','OK - Oklahoma',
-					'OR - Oregon','PA - Pennsylvania','PR - Puerto Rico','RI - Rhode Island',
-					'SC - South Carolina','SD - South Dakota','TN - Tennessee','TX - Texas','UT - Utah',
-					'VA - Virginia','VT - Vermont','WA - Washington','WI - Wisconsin',
-					'WV - West Virginia','WY - Wyoming','AB - Alberta','BC - British Columbia',
-					'MB - Manitoba','NB - New Brunswick','NL - Newfoundland and Labrador',
-					'NS - Nova Scotia','NT - Northwest Territories','NU - Nunavut','ON - Ontario',
-					'PE - Prince Edward Island','QC - Quebec','SK - Saskatchewan','YT - Yukon Territory'
-				);
-			
-			
-			
-				addLoadEvent(function(){ /*load saved city/zip and state into business form*/
-					var biz_search_form = document.getElementById('business_search');
-					var cookie_zip = getCookieData( 'persistent', 'production', 'p_session_default_zip');
-					var cookie_city = getCookieData( 'persistent', 'production', 'p_session_default_city');
-					var cookie_state = getCookieData( 'persistent', 'production', 'p_session_default_state_id');
-					if (cookie_zip && cookie_zip != '') {
-						var biz_city_state_value = cookie_zip;
-						} else {
-						var biz_city_state = unescape(cookie_city);
-						var biz_city_state_value = biz_city_state.replace("\+"," ");
-					};
-					if(biz_search_form && biz_city_state_value != '' && cookie_state != ''){
-						try{
-							document.getElementsByName('city_zip_npa')[0].value = biz_city_state_value;
-							document.getElementById('business_search_state_id').value = cookie_state;
-						}catch(err){};
-					}
-				});
-			
-			
-			addLoadEvent(function(){/* toggle form type onload */
-				var refering_link = '';
-				var wpnpagename = 'PRIVACY';
-				var person_form = document.getElementById('people_search');
-				if(document.getElementById('person_tab_advanced') || document.getElementById('person_tab_basic'))
-				{
-					if(person_form)
-					{
-						var person_search_type = getCookieData( 'session', 'production', 't_session_form_mode' );
-						
-						if(person_search_type == 'opt_a' || refering_link == 'advanced'){
-							tabMode({a:document.getElementById('person_tab_advanced').getElementsByTagName('a')[0],
-							 b:'opt_b', c:'opt_a', d:'person_tab_basic', h:'form_mode'});
-						}else{
-							tabMode({a:document.getElementById('person_tab_basic').getElementsByTagName('a')[0],
-							b:'opt_a', c:'opt_b', d:'person_tab_advanced', h:'form_mode'});
-						}
-					}
-				}
-			});
-			
-		</script><script type="text/javascript"><!--
-			function trialPop(set_origin, end_path) {
-				var site_id = "";
-				var set_origin_stuff = "/set_origin/" + set_origin;
-				var fdata = ''; if ( end_path == 'update_contact' ) { fdata = appendParams(document.mform); }
-				var url = site_id + set_origin_stuff + "/myinfo/trial/" + end_path + "?trial_item=" + set_origin + fdata;
-				trialWindow = window.open(url, 'trial', "width=480,height=275,toolbars=no,location=no,scrollbars=yes,resizable=yes");
-			}
-			//--></script>
+</script>
+
 </head>
-<body id="body" class="wpca PRIVACY">
-<div id="custom_doc" class="wide"><div id="wp_main_wrapper">
-<div id="wp_hd">
-<div class="wp_logo"><a href="http://www.whitepages.ca/"><img src="/static/common/images/1x1_trans.gif" border="0" id="wp_logo" alt="WhitePages.ca"></a></div>
-<div id="wp_banner_ad"><div id="wp_banner_ad_valign_helper_outer"><div id="wp_banner_ad_valign_helper_inner"><img src="/static/common/trans.gif" width="1" height="1" border="0" alt=""></div></div></div>
-</div>
-<div id="wp_inc_navigation">
-<div id="wp_inc_navigation_sub_pre"></div>
-<div id="wp_inc_navigation_sub_post"><img src="/static/common/trans.gif"></div>
-<ul>
-<li class="tab" id="home_tab"><a class="tab_link" href="/" onclick="s_objectID='Home Page Tab';" title="Home page">Home</a></li>
-<li class="tab"><a class="tab_link" href="/person" onclick="s_objectID='People Search Tab';" title="Find People">People Search</a></li>
-<li class="tab"><a class="tab_link" href="/business" onclick="s_objectID='Business Search Tab';" title="Find businesses">Business Search</a></li>
-<li class="tab"><a class="tab_link" href="/reverse-lookup" onclick="" title="Reverse phone and address searches">Reverse Lookup</a></li>
-<li class="tab last">
-<a class="tab_link" href="/area_zip_codes" onclick="s_objectID='Area &amp; Zip Codes Search Tab';" title="Area and Postal code searches">Area &amp; Postal Codes</a><img src="/static/common/images/trans.gif" height="10" width="1" border="0">
-</li>
-</ul>
-</div>
-<div id="wp_bd" class="wide"><div id="yui-main">
-<div id="wp_main_content_container">
-<div class="main_content yui-b"></div>
-<div class="main_content yui-b" id="wrapper_x60"></div>
-<div class="main_content yui-b" id="content"><div style="width:95%;padding-left:5px;">
-<div class="subtext" style="float:right"><p class="etrust"><a target="_blank" href="http://www.etrust.org/cert/783904.html"><img src="/static/common/etrust_icon.gif" border="0"></a></p></div>
-<div class="searchbox_title" style="font-size:130%"><p><strong>Privacy Policy</strong></p></div>
-<div class="searchbox_title" style="font-size:110%"><p><strong>Our Approach to Privacy</strong></p></div>
-<div class="subtext" style="font-size:0.8em;text-align:justify;"><p>It is our goal to make it fantastically simple for everyone to connect with confidence through our network of WhitePages websites. The key word here is “confidence.” We want you to understand how your information is collected and used.</p></div>
-<div class="searchbox_title" style="font-size:100%"><p><strong>Information Published on WhitePages Websites</strong></p></div>
-<div class="subtext" style="font-size:0.8em;text-align:justify;"><p>It’s important for you to know that we acquire much of the information published on our websites from third-party data suppliers and other sources. Our Privacy Policy does not apply to that information. It applies only to the information that you provide directly to us. We detail the specifics below.</p></div>
-<div class="searchbox_title" style="font-size:100%"><p><strong>Remove Published Listing Information</strong></p></div>
-<div class="subtext" style="font-size:0.8em;text-align:justify;"><p>If you want to remove listing information - such as your name, address and phone number - from being shown on WhitePages websites, click <a href="/10001/privacy_central#remove">here</a>. For specific information about how you can control the listing information we may publish about you, click <a href="/10001/privacy_central">here</a>.</p></div>
-<div class="searchbox_title" style="font-size:110%"><p><strong>WhitePages Privacy Policy</strong></p></div>
-<div class="subtext" style="font-size:0.8em;"><p><strong>This policy is effective as of May 20, 2009.</strong></p></div>
-<div class="subtext" style="font-size:0.8em;text-align:justify;"><p>Our privacy policy will help you understand the different types of information we collect when you use our services (the "Services"). By using our Services, you agree to our privacy policy and terms of service. We may change or update this policy from time to time. Any updated policy shall be effective immediately after it is posted.</p></div>
-<div class="searchbox_title" style="font-size:110%"><p><strong>The Information We Collect &amp; How We Use It</strong></p></div>
-<div class="subtext" style="font-size:0.8em;text-align:justify;">
-<p>There are three categories of information that we collect from you:</p>
-<ul>
-<li>Member Contributed Information</li>
-<li>Personal Information</li>
-<li>General Information</li>
-</ul>
-<p>In addition to the specific uses noted below, we may use, store and review information we collect from you for a variety of internal business purposes, such as to provide, monitor and maintain the Services, provide you with a better user experience and develop new services. We also may use this information to deliver advertisements that match your interests (though not unsolicited third-party email).</p>
-</div>
-<div class="searchbox_title" style="font-size:100%"><p><strong>1. Member Contributed Information</strong></p></div>
-<div class="subtext" style="font-size:0.8em;text-align:justify;">
-<p>This is any information that you voluntarily send, post, upload, or display to others through the Services. For example, a name, phone number or address that you choose to add to your listing is Member Contributed. Information that you send or post to others via text message, SMS, or email is also Member Contributed.</p>
-<p><strong>How we use it:</strong></p>
-<p>Our use of Member Contributed Information is straightforward – we publish it, send it to the intended recipient or use it in accordance with any terms and conditions you agree upon when you submit the information. Although we allow you to set privacy options that limit access to certain information, you should assume that Member Contributed Information may be accessible by anyone.</p>
-</div>
-<div class="searchbox_title" style="font-size:100%"><p><strong>2. Personal Information</strong></p></div>
-<div class="subtext" style="font-size:0.8em;text-align:justify;">
-<p>This is information that you provide when using the Services which is not provided for publication, transmission or display through the site AND identifies you by full name, full postal address, phone number or email address, or includes information necessary to process payment for the Services. Examples of Personal Information include your username and password and payment information such as a credit card number, expiration date, and billing address.</p>
-<p>To be very clear, Personal Information does not include any contact information you choose to publish on WhitePages websites. That's Member Generated Information.</p>
-<p><strong>How we use it:</strong></p>
-<ul>
-<li>We may use Personal Information for the purposes for which it was provided, such as to process transactions and to send text messages or emails to other members.</li>
-<li>We may use your email address to send email about your account or marketing messages to any email address you provide us.</li>
-<li>You can always choose not to receive any marketing email. We offer an "unsubscribe" in the marketing emails we send. If you choose not to receive marketing email, you may still receive WhitePages email and other communication (e.g. SMS, text messages, etc.) from us based on Services you may have signed up for.</li>
-</ul>
-</div>
-<div class="searchbox_title" style="font-size:100%"><p><strong>3. General Information</strong></p></div>
-<div class="subtext" style="font-size:0.8em;text-align:justify;">
-<p>This information includes things like your browser type, IP address, the date and time of your visits, locality (your city and state), which web pages you viewed, searches you conducted, and other communications through the Services. Through surveys we may collect General Information, such as your age, gender or interests.</p>
-<p>We use cookies, web beacons and GPS information (for mobile devices) to collect General Information.</p>
-<p><strong>A cookie</strong> is a small file that we send to your computer to identify your web browser.  Most browsers allow you to disable cookies (not allow our servers to send cookies to your browser). However, some of the Services may not function properly if you disable cookies.</p>
-<p><strong>A web beacon</strong> is a small graphic file used to identify if a page has been viewed.</p>
-<p><strong>GPS Information</strong> includes city, state and other information when you use our services on a GPS-enabled mobile device.</p>
-<p><strong>How we use it:</strong></p>
-<p>We use General Information to facilitate your use of our Services and to help us understand how people like you use our Services. For example, we may use cookies to keep you logged in to your account, track your use of our Services, pre-populate certain fields (like your default location), and to deliver advertising that matches your interests. We may use GPS information to pre-populate certain search fields on your GPS-enabled mobile device.</p>
-</div>
-<div class="searchbox_title" style="font-size:110%"><p><strong>How Third Parties Collect &amp; Use Your Information</strong></p></div>
-<div class="subtext" style="font-size:0.8em;text-align:justify;"><p>WhitePages may host or display third-party advertising or work with companies who do so. These third parties may collect and use General Information to deliver more relevant advertising to you and for their own business purposes.</p></div>
-<div class="searchbox_title" style="font-size:100%"><p><strong>Opt-Out Option:</strong></p></div>
-<div class="subtext" style="font-size:0.8em;text-align:justify;"><p>To stop information collection and targeted advertising from Audience Science and other third-party companies, <a href="http://www.networkadvertising.org/optout_nonppii.asp">click here</a>.</p></div>
-<div class="searchbox_title" style="font-size:100%"><p><strong>Advertising Forms &amp; Surveys</strong></p></div>
-<div class="subtext" style="font-size:0.8em;text-align:justify;">
-<p>Some third-party advertisements include surveys or forms, which prompt you to enter search criteria or other General Information, such as your age or gender. An advertiser may receive the information you enter into a form or survey contained in an advertisement. Similarly, advertisements typically link to third-party websites.</p>
-<p>It's important to remember that we do not have control over the privacy policies of advertisers or other third-party websites. So before you enter any information into a form or survey contained in an advertisement, or click through to a third-party website linked from an advertisement, we encourage you to read the privacy policy of the advertiser or third-party website.</p>
-<p>Websites that contain a "Powered by WhitePages" logo may not be controlled by WhitePages, therefore please review the privacy policies on such web pages as our privacy policy might not apply.</p>
-</div>
-<div class="searchbox_title" style="font-size:100%"><p><strong>Analysis of Your Data</strong></p></div>
-<div class="subtext" style="font-size:0.8em;text-align:justify;"><p>We may use third parties to help measure the effectiveness of our advertising and to analyze usage of the Services. Third parties help us analyze General Information we obtain from you (we generally place restrictions on those third parties' use of such information). Third parties may also use the General Information for their business purposes, such as to report aggregate, non-personally identifiable information about the use of their services and technologies in connection with the Services.</p></div>
-<div class="searchbox_title" style="font-size:100%"><p><strong>Opt-Out Option:</strong></p></div>
-<div class="subtext" style="font-size:0.8em;text-align:justify;"><p>To stop certain companies from analyzing your data, <a href="http://www.omniture.com/privacy/policy#optout">click here</a>.</p></div>
-<div class="searchbox_title" style="font-size:110%"><p><strong>When We Share Information With Third Parties</strong></p></div>
-<div class="subtext" style="font-size:0.8em;text-align:justify;">
-<p>In addition to the information we talked about above, WhitePages may disclose the information subject to this policy to third parties under the following circumstances:</p>
-<p><strong>1. To help us provide the Services to you.</strong> We may share information with third parties to complete transactions you've requested or to perform services on our behalf. Third parties who perform services on our behalf are obligated to use the information for the purpose it was provided.</p>
-<p><strong>2. To comply with the law.</strong>  We may disclose information we collect (including Personal Information) when we believe it is appropriate to comply with the law, such as in response to a subpoena or court order.</p>
-<p><strong>3. For safety reasons or to protect our interests.</strong> We may disclose information we collect (including Personal Information) in order to prevent damage to our property (tangible and intangible), for safety reasons or in the course of collecting amounts owed to us.</p>
-<p><strong>4. Business transfers.</strong> We will not sell Personal Information unless it is in the context of a merger, acquisition, business reorganization, debt financing or sale of company assets, or in the event of an insolvency, bankruptcy or receivership. In these transactions, the information which we collect may be transferred to third parties as one of our business assets.</p>
-<p><strong>5. You authorize it.</strong> We may disclose information if you authorize it. Sometimes, your authorization may be implicit. For example, if you use our "Send Listing to Email" or SMS message service, information you provide, which may include your name, email address and phone number, as well as any message content, may be sent to the recipient.</p>
-</div>
-<div class="searchbox_title" style="font-size:110%"><p><strong>The Security of Your Personal Information</strong></p></div>
-<div class="subtext" style="font-size:0.8em;text-align:justify;"><p>We use reasonable security measures to protect your Personal Information from unauthorized use and disclosure while in our control. We use Secure Socket Layer (SSL) encryption to protect certain Personal Information. However, no security measures are perfect, and we cannot guarantee that any information will be secure from unauthorized access or use.</p></div>
-<div class="searchbox_title" style="font-size:110%"><p><strong>Children &amp; WhitePages</strong></p></div>
-<div class="subtext" style="font-size:0.8em;text-align:justify;"><p>Our Services are not intended for children under the age of 13. We do not knowingly publish information for anyone under the age of 18 through our Services. If you know of anyone under the age of 18 whose information is published through our Services, or have other concerns about children's privacy, please write to us at <a href="mailto:childrensprivacy@whitepages.com" title="Send email to childrensprivacy@whitepages.com">childrensprivacy@whitepages.com</a>.</p></div>
-<div class="searchbox_title" style="font-size:110%"><p><strong>Contact Us</strong></p></div>
-<div class="subtext" style="font-size:0.8em;text-align:justify;"><p>If you have any questions about this policy, email us at <a href="mailto:privacy@whitepages.com" title="Send email to privacy@whitepages.com">privacy@whitepages.com</a> or write to WhitePages Privacy Manager, 1301 Fifth Ave, Suite 1600, Seattle, WA 98101.</p></div>
-</div></div>
-</div>
-<div class="yui-b bottom_bar_left"><div class="bottom_bar_right"><div class="bottom_bar_middle"><div class="subnav_bar"></div></div></div></div>
-</div></div>
-<div id="wp_inc_footer">
-<div id="topline">
-<a href="http://www.whitepagesinc.com/about/" title="About Us">About Us</a>&nbsp;|&nbsp;
-				<a href="http://www.whitepagesinc.com/advertise/" title="Advertise">Advertise</a>&nbsp;|&nbsp;
-				<a href="https://affiliates.whitepages.com/affiliates" title="How to become an affiliate">Affiliate Program</a>&nbsp;|&nbsp;
-				<a href="http://www.whitepagesinc.com/careers/" title="Jobs">Jobs</a>&nbsp;|&nbsp;
-				<a href="http://www.whitepages.com/corporate/contact_us" title="Send us your feedback">Contact Us</a>&nbsp;|&nbsp;
-				<a href="http://developer.whitepages.com" title="Developer API" target="_blank">Developer API</a>&nbsp;|&nbsp;
-				<a href="http://blog.whitepages.com" title="WhitePages.com Blog">Blog</a>&nbsp;|&nbsp;
-				<a href="/privacy_central" title="More about privacy">Privacy</a>&nbsp;|&nbsp;
-				<a href="javascript:HelpCenter('help/white_pages');" title="Frequently asked questions">Help</a>&nbsp;|&nbsp;
-				<a href="/site_map" title="Site Map">Site Map</a>
-</div>
-<div id="bottomline">
-<a href="/reverse_phone" title="Find people using a phone number">Reverse Phone</a>&nbsp;|&nbsp;
-				<a href="/reverse_address" title="Find a person using an address">Reverse Address</a>&nbsp;|&nbsp;
-				<a href="/area_zip_codes" title="Find area codes">Area Codes</a>&nbsp;|&nbsp;
-				<a href="/area_zip_codes" title="Find Postal Codes">Postal Codes</a>
-					&nbsp;|&nbsp;
-					<a href="http://names.whitepages.com" title="Name Popularity">Name Popularity</a>&nbsp;|&nbsp;
-					<a href="http://www.whitepages.com/" title="U.S. Directory Assitance">WhitePages.com</a>
-</div>
-</div>
-<div id="cities_cto_list" style="display:none;"><div class="nr_cities">
-<p class="state_search"><a href="/white-pages">Search by State</a></p>
-<p class="close_button" onclick="this.parentNode.style.display = 'none'"><span>Close</span> X</p>
-<h2>City White Pages</h2>
-<ul class="cities">
-<li><a href="/10001/white-pages/Atlanta-GA/">Atlanta</a></li>
-<li><a href="/10001/white-pages/Boston-MA/">Boston</a></li>
-<li><a href="/10001/white-pages/Chicago-IL/">Chicago</a></li>
-<li><a href="/10001/white-pages/Cleveland-OH/">Cleveland</a></li>
-<li><a href="/10001/white-pages/Dallas-TX/">Dallas</a></li>
-</ul>
-<ul class="cities">
-<li><a href="/10001/white-pages/Denver-CO/">Denver</a></li>
-<li><a href="/10001/white-pages/Detroit-MI/">Detroit</a></li>
-<li><a href="/10001/white-pages/Houston-TX/">Houston</a></li>
-<li><a href="/10001/white-pages/Las_Vegas-NV/">Las Vegas</a></li>
-<li><a href="/10001/white-pages/Los_Angeles-CA/">Los Angeles</a></li>
-</ul>
-<ul class="cities">
-<li><a href="/10001/white-pages/Miami-FL/">Miami</a></li>
-<li><a href="/10001/white-pages/Minneapolis-MN/">Minneapolis</a></li>
-<li><a href="/10001/white-pages/New_York-NY/">New York</a></li>
-<li><a href="/10001/white-pages/Philadelphia-PA/">Philadelphia</a></li>
-<li><a href="/10001/white-pages/Phoenix-AZ/">Phoenix</a></li>
-</ul>
-<ul class="cities">
-<li><a href="/10001/white-pages/San_Diego-CA/">San Diego</a></li>
-<li><a href="/10001/white-pages/San_Francisco-CA/">San Francisco</a></li>
-<li><a href="/10001/white-pages/Seattle-WA/">Seattle</a></li>
-<li><a href="/10001/white-pages/Tampa-FL/">Tampa</a></li>
-<li><a href="/10001/white-pages/Washington-DC/">Washington, DC</a></li>
-</ul>
-</div></div>
-<div id="wp_runner"></div>
-<div id="wp_footer_legalese">
-<span>Copyright © 1996-2009 Whitepages.com. All rights reserved.</span><div>
-<a href="/privacy" title="Privacy policy">Privacy Policy</a>,&nbsp;<a href="/legal_notice" title="Legal notice">Legal Notice</a>&nbsp;and&nbsp;<a href="/terms" title="Terms">Terms</a>&nbsp;under which this service is provided to you.<p>
-		Microsoft MapPoint <a href="http://go.microsoft.com/fwlink/?LinkID=21969" target="_blank">
-		Terms of Use</a> and <a href="http://go.microsoft.com/fwlink/?LinkId=21970" target="_blank">Privacy Statement</a>.</p>
-</div>
-</div>
-</div></div>
-				<script type="text/javascript">Jiffy.measure('adFooterStart','load');</script><script type="text/javascript">
-				var wpn_ad_div_names = new Array('');var aamb_tags = new Array('');
+<body id="body">
+  <script type="text/javascript">
+		    whitepages.common.hide_omniture_tracking_img('whitepagesprod');
+	    </script>
+  
 
-					
-						if (common_ad) { 
-							var aamb_code1 = [], 
-								aamb_code2 = [], 
-								aamb_code3 = [], 
-								aamb_code4 = [], 
-								aamb_code5 = [],
-								i,j,k,l,link,nolink,vert,tmp;
-							
-							for (i=0, ad_count=wpn_ad_div_names.length; i < ad_count; i++) {
-								if (wpn_ad_div_names[i].match('text_link1')){
-									aamb_code1.push(aamb_tags[i]);
-									common_ad.render_wpn_ad(wpn_ad_div_names[i], aamb_code1[0]);
-									
-								} else if (wpn_ad_div_names[i].match('text_link2')) {
-									aamb_code2.push(aamb_tags[i]);
-									common_ad.render_wpn_ad(wpn_ad_div_names[i], aamb_code2[0]);
-									
-								} else if (wpn_ad_div_names[i].match('text_link3')) {
-									aamb_code3.push(aamb_tags[i]);
-									common_ad.render_wpn_ad(wpn_ad_div_names[i], aamb_code3[0]);
-									
-								} else if (wpn_ad_div_names[i].match('text_link_logo')) {
-									aamb_code4.push(aamb_tags[i]);
-									common_ad.render_wpn_ad(wpn_ad_div_names[i], aamb_code4[0]);
-									
-								} else if (wpn_ad_div_names[i].match('teaser_link')) {
-									aamb_code5.push(aamb_tags[i]);
-									common_ad.render_wpn_ad(wpn_ad_div_names[i], aamb_code5[0]);
-								} else {
-									common_ad.render_wpn_ad(wpn_ad_div_names[i], aamb_tags[i]);
-								}
-							}
-							
-							if (link=document.getElementById('resultslink_1')) {
-								for(j=2; j < 11; j++) {
-									if(tmp=document.getElementById('resultslink_'+j)) {
-										tmp.innerHTML =link.innerHTML;tmp=null;
-									}
-								}
-							}
-							
-							if (nolink=document.getElementById('no_resultslink_1')) {
-								for(l=2; l < 11; l++) {
-									if(tmp=document.getElementById('no_resultslink_'+l)) {
-										tmp.innerHTML = nolink.innerHTML;tmp=null;
-									}
-								}
-							}
-							
-							if (vert=document.getElementById('form_vert_house_ad_1')) {
-								for(k=2; k < 11; k++) {
-									if(tmp=document.getElementById('form_vert_house_ad_'+k)) {
-										tmp.innerHTML = vert.innerHTML;tmp=null
-									}
-								}
-							}
-							
-							common_ad.swap_after_content();
-						}
-					
-				
-				</script><script type="text/javascript">
-			if (WPScript.get('printer_friendly_link')) {
-			WPScript.on('printer_friendly_link','click', function() {
-			try {
-			var opts = {};
-			opts.address2 = WPScript.get('address2').value;
-			opts.city_zip2 = WPScript.get('city_zip2').value;
-			opts.state_id2 = WPScript.get('virth_directions_form_state_id2').value;
-			opts.rbRouteType = document.virth_directions_form.rbRouteType[0].checked ?
-			VERouteType.Quickest : VERouteType.Shortest;
 
-			var url_appends = WPScript.serialize(opts);
+  <div id="wrap">
+    <div id="content">
+      
+<div id="logo"><a href="/" title="WhitePages Home">WhitePages</a></div>
 
-			var el = WPScript.get('printer_friendly_link');
+<div id="top_ad">
+    
+</div>
+<div id="header">
+  <ul class="">
+    <li class="people_business"><a href="/people_business" title="People Search and Business Search">People &amp; Business</a></li>
+    <li class="reverse_lookup"><a href="/reverse-lookup" title="Reverse Phone and Reverse Address Searches">Reverse Lookup</a></li>
+    <li class="more"><a href="/more_searches" title="Area Code and ZIP Searches, Mobile Carrier Lookup, Neighbor Search">More Searches</a></li>
+    
+  </ul>
+  <p id="account_links">
+        
+    <a href="#" onclick="whitepages.common.open_help('http://www.whitepages.ca:80/help'); return false;">Help</a>
+  </p>
+	
+		<div id="login_panel" class="standard_box" style="display:none;">
+			<div class="standard_box_inner">
+				<p class="login_close"><span onclick="whitepages.ui.open_sign_in('login_panel')"><a href="javascript:void(0);">close</a> <img src="/common/images/details/login_close_icon.gif" border="0"></span></p>
+				<strong id="loading_el" style="display:none;">Loading...</strong>
+				<iframe src="" frameborder="0" scrolling="auto" width="100%" id="login_iframe"></iframe>
+			</div>
+		</div>
+	
+</div>
 
-			el.setAttribute('href', el.getAttribute('href') + '&' + url_appends );
-			}
-			catch (e) {
-			alert(e);
-			}
-			});
-			};
-		</script><div style="display:none;"><img id="img_random" src="/clear/159062811280.gif" width="1" height="1" alt=""></div>
-<script type="text/javascript" src="http://js.revsci.net/gateway/gw.js?csid=A06546"></script><script type="text/javascript">
-				try {
-					DM_cat('Whitepages Homepage');
-					DM_tag();
+      <div id="main">
+        <div id="subnav" class=""> </div>
+        
+<div class="static_content_wrap">
+  <div class="static_content">
+    <div id="etrust_logo" style="float: right; margin-top: 12px; margin-right: 4px;"><a href="http://www.etrust.org/cert/783904.html" id="etrust_logo" target="_blank"><img alt="Etrust" border="0" src="/common/images/connectory/etrust.gif?1256856302"></a></div>
+    <h1><span>Privacy Policy</span></h1>
+    
+    <h2 class="first">Our Approach to Privacy</h2>
+    
+    <p>It is our goal to make it fantastically simple for everyone to connect with confidence through our network of WhitePages websites. The key word here is "confidence." We want you to understand how your information is collected and used.</p>
+    
+    <h3>Information Published on WhitePages Websites</h3>
 
-					
-				}
-				catch ( err ) { }
-			</script><noscript><img src="http://pix01.revsci.net/A0001/a3/0/0/0/0/0/0/0/0/0/noscript.gif"></noscript>
-<script type="text/javascript"><!--
-				omni_refer('');
-				omni_settings(
-					'Corporate - Privacy',
-					'WhitePages.ca (10002)',
-					'Corporate',
-					null,
-					'About',
-					'Valid',
-					'event4'
-				);
-				
-				omni_execute();
-			// --></script>
+    <p>It's important for you to know that we acquire much of the information published on our websites from third-party data suppliers and other sources. Our Privacy Policy does not apply to that information. It applies only to the information that you provide directly to us. We detail the specifics below.</p>
+
+    <h3>Remove Published Listing Information</h3>
+
+    <p>If you want to remove listing information - such as your name, address and phone number - from being shown on WhitePages websites, <a href="/help/privacy_central#6">click here</a>. For specific information about how you can control the listing information we may publish about you, <a href="/help/privacy_central">click here</a>.</p>
+
+    <h2>WhitePages Privacy Policy</h2>
+
+    <p><strong>This policy is effective as of May 6, 2009.</strong></p>
+  
+    <p>Our privacy policy will help you understand the different types of information we collect when you use our services (the "Services"). By using our Services, you agree to our privacy policy and <a href="/terms">terms of service</a>. We may change or update this policy from time to time. Any updated policy shall be effective immediately after it is posted.</p>
+
+    <h2>The Information We Collect &amp; How We Use It</h2>
+
+    <p>There are three categories of information that we collect from you:</p>
+    <ul>
+      <li>Member Contributed Information</li>
+      <li>Personal Information</li>
+      <li>General Information</li>
+    </ul>
+    <p>In addition to the specific uses noted below, we may use, store and review information we collect from you for a variety of internal business purposes, such as to provide, monitor and maintain the Services, provide you with a better user experience and develop new services. We also may use Member Contributed and General Information to deliver advertisements that match your interests (though not unsolicited third-party email).</p>
+
+    <h3>1. Member Contributed Information</h3>
+
+    <p>This is any information that you voluntarily send, post, upload, or display to others through the Services. For example, a name, phone number or address that you choose to add to your listing is Member Contributed. Information that you send or post to others via text message, SMS, or email is also Member Contributed.</p>
+
+    <p><strong>How we use it:</strong></p>
+
+    <p>Our use of Member Contributed Information is straightforward – we publish it, send it to the intended recipient or use it in accordance with any terms and conditions you agree upon when you submit the information. Although we allow you to set privacy options that limit access to certain information, you should assume that Member Contributed Information may be accessible by anyone.</p>
+
+    <h3>2. Personal Information</h3>
+
+    <p>This is information that you provide when using the Services which is not provided for publication, transmission or display through the site AND identifies you by full name, full postal address, phone number or email address, or includes information necessary to process payment for the Services. Examples of Personal Information include your username and password and payment information such as a credit card number, expiration date, and billing address.</p>
+    <p>To be very clear, Personal Information does not include any contact information you choose to publish on WhitePages websites. That's Member Generated Information.</p>
+
+    <p><strong>How we use it:</strong></p>
+
+    <ul>
+      <li>We may use Personal Information for the purposes for which it was provided, such as to process transactions and to send text messages or emails to other members.</li>
+      <li>We may use your email address to send email about your account or marketing messages to any email address you provide us.</li>
+      <li>You can always choose not to receive any marketing email. We offer an "unsubscribe" in the marketing emails we send. If you choose not to receive marketing email, you may still receive WhitePages email and other communication (e.g. SMS, text messages, etc.) from us based on Services you may have signed up for.</li>
+    </ul>
+
+    <h3>3. General Information</h3>
+
+    <p>This information includes things like your browser type, IP address, the date and time of your visits, locality (your city and state), which web pages you viewed, searches you conducted, and other communications through the Services. Through surveys we may collect General Information, such as your age, gender or interests.</p>
+    <p>We use cookies, web beacons and GPS information (for mobile devices) to collect General Information.</p>
+    <p><strong>A cookie</strong> is a small file that we send to your computer to identify your web browser.  Most browsers allow you to disable cookies (not allow our servers to send cookies to your browser). However, some of the Services may not function properly if you disable cookies.</p>
+    <p><strong>A web beacon</strong> is a small graphic file used to identify if a page has been viewed.</p>
+    <p><strong>GPS Information</strong> includes city, state and other information when you use our services on a GPS-enabled mobile device.</p>
+
+    <p><strong>How we use it:</strong></p>
+
+    <p>We use General Information to facilitate your use of our Services and to help us understand how people like you use our Services. For example, we may use cookies to keep you logged in to your account, track your use of our Services, pre-populate certain fields (like your default location), and to deliver advertising that matches your interests. We may use GPS information to pre-populate certain search fields on your GPS-enabled mobile device.</p>
+
+    <h2>How Third Parties Collect &amp; Use Your Information</h2>
+
+    <p>WhitePages works with Audience Science and other third party companies to deliver advertisements on our websites. These third parties may collect and use General Information to deliver more relevant advertising to you and for their own business purposes.</p>
+
+    <h3>Opt-Out Option:</h3>
+
+    <p>To stop information collection and targeted advertising from Audience Science and other third-party companies, <a href="http://www.networkadvertising.org/optout_nonppii.asp">click here</a>.</p>
+
+    <h3>Advertising Forms &amp; Surveys</h3>
+
+    <p>Some third-party advertisements include surveys or forms, which prompt you to enter search criteria or other General Information, such as your age or gender. An advertiser may receive the information you enter into a form or survey contained in an advertisement. Similarly, advertisements typically link to third-party websites.</p>
+    <p>It's important to remember that we do not have control over the privacy policies of advertisers or other third-party websites. So before you enter any information into a form or survey contained in an advertisement, or click through to a third-party website linked from an advertisement, we encourage you to read the privacy policy of the advertiser or third-party website.</p>
+    <p>Websites that contain a "Powered by WhitePages" logo may not be controlled by WhitePages, therefore please review the privacy policies on such web pages as our privacy policy might not apply.</p>
+
+    <h3>Analysis of Your Data</h3>
+
+    <p>We may use third parties to help measure the effectiveness of our advertising and to analyze usage of the Services. Third parties help us analyze General Information we obtain from you (we generally place restrictions on those third parties' use of such information). Third parties may also use the General Information for their business purposes, such as to report aggregate, non-personally identifiable information about the use of their services and technologies in connection with the Services.</p>
+
+    <h3>Opt-Out Option:</h3>
+
+    <p>To stop certain companies from analyzing your data, <a href="http://www.omniture.com/privacy/policy#optout">click here</a>.</p>
+
+
+
+    <h2>When We Share Information With Third Parties</h2>
+
+    <p>We do not sell your Personal Information or Member Contributed Information to third parties. We may share the information subject to this policy, but only in the following circumstances:</p>
+    <p><strong>1. To help us provide the Services to you.</strong> We may share information with third parties to complete transactions you've requested or to perform services on our behalf. Third parties who perform services on our behalf are obligated to use the information for the purpose it was provided.</p>
+    <p><strong>2. To comply with the law.</strong>  We may disclose information we collect (including Personal Information) when we believe it is appropriate to comply with the law, such as in response to a subpoena or court order.</p>
+    <p><strong>3. For safety reasons or to protect our interests.</strong> We may disclose information we collect (including Personal Information) in order to prevent damage to our property (tangible and intangible), for safety reasons or in the course of collecting amounts owed to us.</p>
+    <p><strong>4. Business transfers.</strong> We will not sell Personal Information unless it is in the context of a merger, acquisition, business reorganization, debt financing or sale of company assets, or in the event of an insolvency, bankruptcy or receivership. In these transactions, the information which we collect may be transferred to third parties as one of our business assets.</p>
+    <p><strong>5. You authorize it.</strong> We may disclose information if you authorize it. Sometimes, your authorization may be implicit. For example, if you use our "Send Listing to Email" or SMS message service, information you provide, which may include your name, email address and phone number, as well as any message content, may be sent to the recipient.</p>
+
+
+
+    <h2>The Security of Your Personal Information</h2>
+
+    <p>We use reasonable security measures to protect your Personal Information from unauthorized use and disclosure while in our control. We use Secure Socket Layer (SSL) encryption to protect certain Personal Information. However, no security measures are perfect, and we cannot guarantee that any information will be secure from unauthorized access or use.</p>
+
+
+
+    <h2>Children &amp; WhitePages</h2>
+
+    <p>Our Services are not intended for children under the age of 13. We do not knowingly publish information for anyone under the age of 18 through our Services. If you know of anyone under the age of 18 whose information is published through our Services, or have other concerns about children's privacy, please write to us at <a href="mailto:childrensprivacy@whitepages.com" title="Send email to childrensprivacy@whitepages.com">childrensprivacy@whitepages.com</a>.</p>
+
+
+
+    <h2>Contact Us</h2>
+
+    <p>If you have any questions about this policy, email us at <a href="mailto:privacy@whitepages.com" title="Send email to privacy@whitepages.com">privacy@whitepages.com</a> or write to WhitePages Privacy Manager, 1301 Fifth Ave, Suite 1600, Seattle, WA 98101.</p>
+
+  </div>
+</div>
+
+        <div class="clear"><!-- --></div>
+      </div>
+      <div id="footer">
+  <div id="footer_content">
+    <ul>
+      <li><a href="http://www.whitepagesinc.com/about/" title="About Us">About Us</a></li>
+      <li><a href="http://www.whitepagesinc.com/advertise/" rel="nofollow" title="Advertise">Advertise</a></li>
+      <li><a href="https://affiliates.whitepages.com/" rel="nofollow" title="How to become an affiliate">Affiliate Program</a></li>
+      <li><a href="http://www.whitepagesinc.com/careers/" rel="nofollow" title="Jobs">Jobs</a></li>
+      <li><a href="http://blog.whitepages.com/" title="WhitePages Blog">Blog</a></li>
+      <li><a href="http://www.whitepages.ca:80/privacy_central" title="Privacy">Privacy</a></li>
+      
+      <li><a href="#" onclick="whitepages.common.open_help('http://www.whitepages.ca:80/help'); return false;" title="Help">Help</a></li>
+      <li><a href="/site_map" title="Site Map">Site Map</a></li>
+    </ul>
+    
+    <p>
+      <a href="/person">People Search</a> |
+      <a href="/business">Business Search</a> |
+      <a href="/reverse-lookup">Reverse Lookup</a> |
+      <a href="/area-codes">Area Codes</a> |
+      <a href="/maps">Area Code Maps</a> |
+      <a href="/zip-codes">Postal Codes</a> |
+      <a href="/intl_resources">International Lookup</a> |
+      <a href="#" id="more_link" onclick="whitepages.ui.show_div('footer_more_div'); return false;">More...</a>
+    </p>
+  </div>
+  <div id="footer_more_div" class="shown_div" style="display: none;">
+    <a href="/find_neighbors">Neighbour Search</a>
+    <a href="/reverse_phone">Reverse Phone</a>
+    <a href="/reverse_address">Reverse Address</a>
+    <a href="http://www.411.com/">411.com</a>
+    <a href="http://www.whitepages.com/">Whitepages.com</a>
+  </div>
+  
+
+  
+</div>
+
+            <script type="text/javascript">
+      omni_refer('');
+      omni_settings(
+      'Corporate - Privacy',
+      'WhitePages.ca (10002)',
+      'Corporate',
+      null,
+      'About',
+      'Invalid',
+      'event4'
+      );
+      omni_debugging();
+      omni_execute();
+      </script>
+
+    </div>
+  </div>
+  
+
+  
+<div id="br"></div>
+
+<p class="copyright">
+  © 2009 WhitePages Inc. - 
+  <a href="/privacy">Privacy Policy</a> and <a href="/terms" rel="nofollow">Terms of Use</a><br>
+  Microsoft MapPoint <a href="http://go.microsoft.com/fwlink/?LinkID=21969" rel="nofollow" target="_blank">Terms of Use</a> and <a href="http://go.microsoft.com/fwlink/?LinkId=21970" rel="nofollow" target="_blank">Privacy Statement</a>
+</p>
+
+
+  
+
+  
+  
+  
+  <div style="display: none;"><script>document.write("<img id='img_random' alt='' height='1' width='1' src='/common/images/clear/" + (Math.random().toString()).substr(2,12) + ".gif'/>");</script><img id="img_random" alt="" height="1" width="1" src="/common/images/clear/384069000939.gif"></div>
+  <script type="text/javascript">_qoptions={qacct:"p-13CZptiqAcX_w",labels:wpQuantcast()};function wpQuantcast(){var lb = ""; if(s_wpn.server != null && typeof(s_wpn.server)=="string" && s_wpn.server.length > 0) {var sub = new Array(".com",".net",".org");var length = sub.length;for (var i = 0; i < length; i++) {s_wpn.server = s_wpn.server.replace(sub[i], "");}lb += "Site." + s_wpn.server; } lb+=(s_wpn.channel != null && typeof(s_wpn.channel)=="string" && s_wpn.channel.length > 0 ) ? ",Channel." + s_wpn.channel:""; lb+=(s_wpn.pageName != null && typeof(s_wpn.pageName)=="string" && s_wpn.pageName.length > 0) ? ",Page Name." + s_wpn.pageName:""; return lb;}</script><script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script><noscript><img src="http://pixel.quantserve.com/pixel/p-13CZptiqAcX_w.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></noscript>
 
 
 </body></html>
