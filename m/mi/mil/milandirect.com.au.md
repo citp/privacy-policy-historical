@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milandirect.com.au privacy policy that was archived on 2009-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090424190450id_/http%3A//www.milandirect.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milandirect.com.au privacy policy that was archived on 2009-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091103113625id_/http%3A//www.milandirect.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Milan Direct - Wholesale Designer Furniture
 
