@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globallinker.com privacy policy that was archived on 2009-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090331183234id_/http%3A//www.globallinker.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globallinker.com privacy policy that was archived on 2009-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091105004939id_/http%3A//www.globallinker.com/privacy-policy.php) for the most accurate reproduction.*
 
 # GlobalLinker - Privacy Policy for Small Business Networking
 
@@ -60,5 +60,5 @@ Lawrenceville, NJ 08648.
   
    
   
-[ ](http://www.kqzyfj.com/click-2988671-10491735)   
+[ ](http://www.kqzyfj.com/click-2988671-10482127)   
 
