@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the start4all.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429053429id_/http%3A//start4all.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the start4all.com privacy policy that was archived on 2009-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091104153805id_/http%3A//start4all.com/privacy) for the most accurate reproduction.*
 
 # Start4all.com
 
