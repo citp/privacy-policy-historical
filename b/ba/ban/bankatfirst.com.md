@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankatfirst.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617041236id_/http%3A//www.bankatfirst.com/pdfs/Privacy_Notice_WEB_07.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankatfirst.com privacy policy that was archived on 2009-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091104060541id_/http%3A//www.bankatfirst.com/pdfs/Privacy_Notice_WEB_07.pdf) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -84,4 +84,4 @@ First Financial Bank, N.A., First Financial Life Insurance, Inc., First Financia
 Insurance Services, Inc., First Financial Capital Advisors, LLC
 Some products and services offered by these companies may be subject to separate privacy policies. This
 policy will apply to your relationships with these companies unless you are notified otherwise.
-March 2008.
+April 2009.
