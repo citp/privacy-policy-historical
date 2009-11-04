@@ -1,65 +1,45 @@
-> *The following text is extracted and transformed from the netkushi.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220001141id_/http%3A//netkushi.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netkushi.com privacy policy that was archived on 2009-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091104115615id_/http%3A//netkushi.com/pg/expages/read/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy Statement
+# netkushi.com Social networking site (Friends Community)
 
-This is the web site of **Netkushi.com**. 
+Netkushi.com endeavors to be as up front as possible about the personal information collected in our site. In an effort to maintain this stance, we provide this privacy statement.
 
-Our postal address is   
-**39-33-89/2,phase-1,madhavadhra vuda colony,  
-Visakhapatnam,Andhra Pradesh,530018,India**
+ **Site Content**
 
-We can be reached via e-mail at [contact@netkushi.com](mailto:contact@netkushi.com)  
-or you can reach us by telephone at 91-0891-5527723 - 91+9885545552 
+This site may contain links and content to other sites outside our control. Netkushi.com is not responsible for the privacy practices or the content of such websites.
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
+ **Security**
 
-We collect the domain name, e-mail address, residence address from our Web page, the domain name and e-mail address (where possible) of visitors to our Web page.
+This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.
 
-The information we collect is used to improve the content of our Web page, used to notify consumers about updates to our Web site, used by us to contact consumers for marketing purposes.
+ **Information Collected**
 
-With respect to cookies: We use cookies to store visitors preferences, record past activity at a site in order to provide better service when visitors return to our site , customize Web page content based on visitors' browser type or other information that the visitor sends.
+1\. THIS SITE USES cookies to store personal data. This practice is in no way an effort to compromise privacy but instead simplifies site administration and site use by recording commonly used data.  
+2\. WE WILL collect the personal data that you may volunteer while using our services.  
+3\. WE WILL NOT collect information about our visitors from other sources, such as public records or bodies, or private organizations.  
+4\. WE WILL NOT disclose your personal data to our subsidiaries or other organizations. 
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
+**Children's Guidelines**
 
-From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above.
+1\. WE WILL NOT collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent.  
+2\. WE WILL NOT collect personally identifiable offline contact information without prior parental consent.  
+3\. WE WILL NOT distribute to third parties any personally identifiable information without prior parental consent.  
+4\. WE WILL NOT give the ability to publicly post or otherwise distribute personally identifiable contact information without prior parental consent.
 
-From time to time, we make our _customer_ e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above.
+ **Choice/Opt-Out**
 
-If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
+This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
 
-calling us at the number and contact address provided above.
+You can send us e-mail to roveralex18@yahoo.com or contact@netkushi.com 
 
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line. 
+**Correct/Update**
 
-Persons who supply us with their telephone numbers on-line sending us e-mail at the above address.Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations 
+This site gives users the following options for changing and modifying information previously provided.
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information.  
-For further information, consult the privacy policies of: 
+You can send us e-mail to roveralex18@yahoo.com or contact@netkushi.com 
 
-http://www.maxonline.com/privacy_policy/index.php ( MaxOnline)  
-http://budsinc.com/privacy.htm (Buds Inc)  
-http://ozonemedia.co.in/privacypolicy.html (Ozonemedia)  
-http://www.mamma.com/info/privacy.html (Mamma Media)  
-http://www.cpxinteractive.com/privacy_policy.htm  
-http://www.google.com/privacy.html   
-http://www.sulekha.com/adnetwork/ 
+**Contacting the website**
 
-Third Party Advertising  
-We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact:
 
-<http://www.maxonline.com/privacy_policy/index.php>
-
-Third Party Cookies  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
-
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses.
-
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by calling us at the number provided above. 
-
-Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them.
-
-Consumers can access this information by e-mail us at the above address. 
-
-With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site.
-
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
+roveralex18@yahoo.com or contact@netkushi.com
