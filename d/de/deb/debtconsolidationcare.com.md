@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the debtconsolidationcare.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618090028id_/http%3A//www.debtconsolidationcare.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debtconsolidationcare.com privacy policy that was archived on 2009-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091104151647id_/http%3A//www.debtconsolidationcare.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Debt Consolidation Care Knowledge Base
 
@@ -20,4 +20,4 @@ For example, we may provide a feature on our web site as a service or as a conve
 
 Debt Consolidation care uses your personal information solely to assist you. All information received from this site is stored in a secure database. So far so, that if an individual does not sign up for our program, we destroy any personal information they have sent us. We do not sell contact information to other parties or agencies.
 
-If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 800-601-1579 or via email at denny (at) debtconsolidationcare.com.
+If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 800-debt-913 or via email at vikas (at) debtconsolidationcare.com.
