@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nintendolife.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618141240id_/http%3A//www.nintendolife.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nintendolife.com privacy policy that was archived on 2009-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091104085858id_/http%3A//www.nintendolife.com/privacy) for the most accurate reproduction.*
 
 # Nintendo Life - Privacy Policy
 
