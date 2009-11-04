@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wsop.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616063804id_/http%3A//www.worldseriesofpoker.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsop.com privacy policy that was archived on 2009-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091104044901id_/http%3A//wsop.com/legal/privacy.asp) for the most accurate reproduction.*
 
-# World Series of Poker Presented by Jack Link's Beef Jerky - Official Tournament Coverage and Results -
+# World Series of Poker - Official Tournament Coverage and Results
 
   
 Effective Date: March 1, 2006
