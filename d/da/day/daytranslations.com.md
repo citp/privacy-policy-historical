@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daytranslations.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616235912id_/http%3A//daytranslations.com/Documents/Day%2520Translations%2520Privacy%2520policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daytranslations.com privacy policy that was archived on 2009-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091104072409id_/http%3A//daytranslations.com/Documents/Day%2520Translations%2520Privacy%2520policy.pdf) for the most accurate reproduction.*
 
 # Security & Privacy Policy
 
