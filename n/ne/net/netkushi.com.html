@@ -1,152 +1,297 @@
-<!--The following is the downloaded HTML source of the netkushi.com privacy policy that was archived on 2008-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081220001141id_/http%3A//netkushi.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the netkushi.com privacy policy that was archived on 2009-11-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091104115615id_/http%3A//netkushi.com/pg/expages/read/Privacy) for the most accurate reproduction.-->
 
-<html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="ElggRelease" content="1.6.1">
+	<meta name="ElggVersion" content="2009072201">
+	<title>netkushi.com Social networking site (Friends Community)</title>
+
+	<script type="text/javascript" src="http://netkushi.com/vendors/jquery/jquery-1.3.2.min.js"></script> 
+	<script type="text/javascript" src="http://netkushi.com/vendors/jquery/jquery-ui-1.7.2.custom.min.js"></script>
+	<script type="text/javascript" src="http://netkushi.com/vendors/jquery/jquery.form.js"></script>
+	<script type="text/javascript" src="http://netkushi.com/_css/js.php?lastcache=1257335668&amp;js=initialise_elgg&amp;viewtype=default"></script>
+	<!-- include the default css file -->
+	<link rel="stylesheet" href="http://netkushi.com/_css/css.css?lastcache=1257335668&amp;viewtype=default" type="text/css">
+	
+	
+		
+		<script type="text/javascript">
+		 jQuery(document).ready(function($) {
+		  $('a[rel*=facebox]').facebox()
+		});
+		</script>
+<script src="http://www.google.com/jsapi"></script>
+<script type="text/javascript">
+  google.load('friendconnect', '0.8');
+</script>
+
+<script type="text/javascript">    
+
+	function setGFC(){
+		
+		var target=document.getElementById("gfc_login_icon");
+		if(!target) return;
+		
+		google.friendconnect.container.setParentUrl('mod/gfc/');
+		  google.friendconnect.container.loadOpenSocialApi({
+		    site: '18379722610590161991',
+		    onload: function(securityToken) {
+		    	 if (!window.timesloaded) {
+		    	      window.timesloaded = 1;
+		    	    } else {
+		    	      window.timesloaded++;
+		    	    }
+		    	    if (window.timesloaded > 1) {
+		    	      window.top.location.reload();
+		    	    }
+		        }
+		  });
+
+		  google.friendconnect.renderSignInButton({ 'id': 'gfc_login_icon', 'text' : 'Click here to join ', 'style': 'standard' });
+				
+	}
+
+  $(document).ready(function() {
+      setGFC();
+  });
+</script>
 
 
+    <script type="text/javascript" src="http://netkushi.com/mod/fivestar/js/ui.stars.js"></script>
 
-<title>Privacy Policy Statement</title>
+    <script type="text/javascript">
+        function fivestar(id, token, ts) {
+            $("#fivestar-form-"+id).children().not("select").hide();
 
+            // Create stars for: Rate this
+            $("#fivestar-form-"+id).stars({
+                cancelShow: 1,
+                cancelValue: 0,
+                captionEl: $("#caption"),
+                callback: function(ui, type, value)
+                {
+                    // Disable Stars while AJAX connection is active
+                    ui.disable();
 
+                    // Display message to the user at the begining of request
+                    $("#fivestar-messages-"+id).text("Saving ...").stop().css("opacity", 1).fadeIn(30);
 
+                    $.post("http://netkushi.com/action/fivestar/rate", {id: id, vote: value, __elgg_token: token, __elgg_ts: ts}, function(db)
+                    {
+                        // Select stars from "Average rating" control to match the returned average rating value
+                        $("#fivestar-form-"+id).stars("select", Math.round(db.rating));
+
+                        // Update other text controls...
+                        $("#fivestar-votes-"+id).text(db.votes);
+                        $("#fivestar-rating-"+id).text(db.rating);
+
+                        // Display confirmation message to the user
+                        if (db.msg) {
+                            $("#fivestar-messages-"+id).text(db.msg).stop().css("opacity", 1).fadeIn(30);
+                        } else {
+                            $("#fivestar-messages-"+id).text("Rating Saved").stop().css("opacity", 1).fadeIn(30);
+                        }
+
+                        // Hide confirmation message and enable stars for "Rate this" control, after 2 sec...
+                        setTimeout(function(){
+                                $("#fivestar-messages-"+id).fadeOut(1000, function(){ui.enable()})
+                        }, 2000);
+                    }, "json");
+                }
+            });
+
+            // Create element to use for confirmation messages
+            $('<div class="fivestar-messages" id="fivestar-messages-'+id+'"/>').appendTo("#fivestar-form-"+id);
+        };
+    </script>
+<script type="text/javascript" src="http://netkushi.com/mod/blogwatch/lib/js/thickbox.js"></script>
+<style type="text/css" media="all">
+@import "http://netkushi.com/mod/blogwatch/lib/js/thickbox-elgg.css";
+</style>
+	<script type="text/javascript" src="http://netkushi.com/mod/izap_videos/views/default/izap_videos/js/izap.js"></script>	<!--[if lt IE 7]>
+<script language="JavaScript">
+function correctPNG() // correctly handle PNG transparency in Win IE 5.5 & 6.
+{
+   var arVersion = navigator.appVersion.split("MSIE")
+   var version = parseFloat(arVersion[1])
+   if ((version >= 5.5) && (document.body.filters)) 
+   {
+      for(var i=0; i<document.images.length; i++)
+      {
+         var img = document.images[i]
+         var imgName = img.src.toUpperCase()
+         if (imgName.substring(imgName.length-3, imgName.length) == "PNG")
+         {
+            var imgID = (img.id) ? "id='" + img.id + "' " : ""
+            var imgClass = (img.className) ? "class='" + img.className + "' " : ""
+            var imgTitle = (img.title) ? "title='" + img.title + "' " : "title='" + img.alt + "' "
+            var imgStyle = "display:inline-block;" + img.style.cssText 
+            if (img.align == "left") imgStyle = "float:left;" + imgStyle
+            if (img.align == "right") imgStyle = "float:right;" + imgStyle
+            if (img.parentElement.href) imgStyle = "cursor:hand;" + imgStyle
+            var strNewHTML = "<span " + imgID + imgClass + imgTitle
+            + " style=\"" + "width:" + img.width + "px; height:" + img.height + "px;" + imgStyle + ";"
+            + "filter:progid:DXImageTransform.Microsoft.AlphaImageLoader"
+            + "(src=\'" + img.src + "\', sizingMethod='scale');\"></span>" 
+            img.outerHTML = strNewHTML
+            i = i-1
+         }
+      }
+   }    
+}
+window.attachEvent("onload", correctPNG);
+</script>
+<![endif]-->
+<script type="text/javascript" src="http://netkushi.com/mod/buddytalk/views/default/pageshells/ddsmoothmenu.js"></script>
 </head>
 
-
-
-<body bgcolor="FFFFFF">
-
-
-
-<h1 align="center">Privacy Policy Statement</h1>
-
-This is the web site of <b>Netkushi.com</b>.<br>
-<p>Our postal address is <br>
-  <b>39-33-89/2,phase-1,madhavadhra vuda colony,<br>
-  Visakhapatnam,Andhra Pradesh,530018,India</b></p>
-We can be reached via e-mail at <a href="mailto:contact@netkushi.com">contact@netkushi.com</a><br>
-or you can reach us by telephone at 91-0891-5527723 - 91+9885545552<br>
-
-<p>For each visitor to our Web page, our Web server automatically recognizes 
-
-only the consumer's domain name, but not the e-mail address (where possible).</p>
-
-<p>We collect the domain name, e-mail address, residence address from our Web 
-  page, the domain name and e-mail address (where possible) of visitors to our 
-  Web page.</p>
-
-<p>The information we collect is used to improve the content of our Web 
-
-page, used to notify consumers about updates to our Web site, used by us 
-
-to contact consumers for marketing purposes.</p>
-
-<p>With respect to cookies: We use cookies to store visitors preferences, 
-
-record past activity at a site in order to provide better service when visitors 
-
-return to our site , customize Web page content based on visitors' browser 
-
-type or other information that the visitor sends.</p>
-
-<p>If you do not want to receive e-mail from us in the future, please let 
-
-us know by sending us e-mail at the above address.</p>
-
-<p>From time to time, we make the e-mail addresses of those who access our 
-
-site available to other reputable organizations whose products or services 
-
-we think you might find interesting. If you do not want us to share your 
-
-e-mail address with other companies or organizations, please let us know 
-
-by calling us at the number provided above.</p>
-
-<p>From time to time, we make our <i>customer</i> e-mail list available 
-
-to other reputable organizations whose products or services we think you 
-
-might find interesting. If you do not want us to share your e-mail address 
-
-with other companies or organizations, please let us know by calling us 
-
-at the number provided above.</p>
-
-<p>If you supply us with your postal address on-line you will only receive 
-
-the information for which you provided us your address.</p>
-
-calling us at the number and contact address provided above.<br>
-<br>
-Persons who supply us with their telephone numbers on-line will only receive telephone 
-contact from us with information regarding orders they have placed on-line. <br>
-<br>
-Persons who supply us with their telephone numbers on-line sending us e-mail at 
-the above address.Please provide us with your name and phone number. We will be 
-sure your name is removed from the list we share with other organizations 
-<p>With respect to Ad Servers: To try and bring you offers that are of interest 
-  to you, we have relationships with other companies that we allow to place ads 
-  on our Web pages. As a result of your visit to our site, ad server companies 
-  may collect information such as your domain type, your IP address and clickstream 
-  information.<br>
-  For further information, consult the privacy policies of: 
-</p><p>http://www.maxonline.com/privacy_policy/index.php ( MaxOnline)<br>
-  http://budsinc.com/privacy.htm (Buds Inc)<br>
-  http://ozonemedia.co.in/privacypolicy.html (Ozonemedia)<br>
-  http://www.mamma.com/info/privacy.html (Mamma Media)<br>
-  http://www.cpxinteractive.com/privacy_policy.htm<br>
-  http://www.google.com/privacy.html <br>
-  http://www.sulekha.com/adnetwork/ <br>
-  <br>
-  Third Party Advertising<br>
-  We use MaxOnline and other third-party advertising companies to serve ads when 
-  you visit our Web site. These companies may use information (not including your 
-  name, address, email address or telephone number) about your visits to this 
-  and other Web sites in order to provide advertisements on this site and other 
-  sites about goods and services that may be of interest to you. If you would 
-  like more information about this practice and to know your choices about not 
-  having this information used by these companies, please click here
-</p><p><a href="http://www.maxonline.com/privacy_policy/index.php">http://www.maxonline.com/privacy_policy/index.php</a></p>
-<p>Third Party Cookies<br>
-  In the course of serving advertisements to this site, our third-party advertiser 
-  may place or recognize a unique “cookie” on your browser.<br>
-  <br>
-  From time to time, we may use customer information for new, unanticipated uses 
-  not previously disclosed in our privacy notice. If our information practices 
-  change at some time in the future we will contact you before we use your data 
-  for these new purposes to notify you of the policy change and to provide you 
-  with the ability to opt out of these new uses.</p>
-Customers may prevent their information 
-from being used for purposes other than those for which it was originally collected 
-by calling us at the number provided above. 
-<p></p>
-
-<p>Upon request we provide site visitors with access to all information 
-
-[including proprietary information] that we maintain about them.</p>
-
-Consumers can access this information by e-mail us at the above address.<p></p>
-
-<p>With respect to security: We always use industry-standard encryption 
-
-technologies when transferring and receiving consumer data exchanged with 
-
-our site.</p>
-
-<p>If you feel that this site is not following its stated information policy, 
-
-you may contact us at the above addresses or phone number, The DMA's Committee 
-
-on Ethical Business Practices at <a href="mailto:mgoldberger@the-dma.org">mgoldberger@the-dma.org</a>, 
-
-state or local chapters of the Better Business Bureau, The Federal Trade 
-
-Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at 
-
-<a href="http://www.ftc.gov/ftc/complaint.htm">http://www.ftc.gov/ftc/complaint.htm</a>.</p>
+<body>
 
 
 
 
+
+
+<div id="gfc_validate" style="display:none;">
+	<h3>Validate GFC User Requests</h3>
+	<div id="content" style="">
+			</div>
+	<div id="close>"><a href="javascript:close_it();" id="close_btn">Close</a></div>
+</div>
+
+<script type="text/javascript">
+	function send_it(url){
+		$.get(url,"",delete_it);
+	}
+
+	function delete_it(json){
+		var res;
+		eval("res=" + json);
+		if(res.action=='OK'){
+			$('#gfc_validate #content #'+res.username).fadeOut(500);
+		}
+	}
+	
+	function close_it(){
+			$('#gfc_validate').fadeOut(600);
+	}
+</script><style type="text/css">
+<!--
+.style2 {color: #FFFFFF}
+-->
+</style>
+
+<div id="page_container">
+<div id="page_wrapper">
+
+<table width="947" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td width="222"><div align="center"><a href="http://netkushi.com/"><img src="http://netkushi.com/mod/buddytalk/graphics/logo.png" width="222" height="72" border="0"></a></div></td>
+    <td width="725"><div align="center">
+	
+	<script type="text/javascript"><!--
+google_ad_client = "pub-9200402689461730";
+/* 728x90, created 8/28/09 */
+google_ad_slot = "9293571140";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+	
+	</div></td>
+  </tr>
+</tbody></table>
+<!-- /#layout_header -->
+
+<!-- main contents -->
+            <div id="smoothmenu1" class="ddsmoothmenu">
+<ul>
+<li><a href="http://netkushi.com/">Home</a></li>
+<li><a href="http://netkushi.com/pg/friends/">Friends</a></li>
+<li><a href="http://netkushi.com/mod/blog/everyone.php">Blogs</a></li>
+<li><a href="http://netkushi.com/pg/photos/world/"><span>Photos</span></a></li>
+<li><a href="http://netkushi.com/pg/izap_videos"><span>Videos</span></a></li>
+<li><a href="http://netkushi.com/mod/pages/world.php">Pages</a></li>
+<li><a href="http://netkushi.com/pg/groups/world/">Groups</a></li>
+<li><a href="http://netkushi.com/mod/file/world.php">Files</a></li>
+<li><a href="http://netkushi.com/mod/thewire/everyone.php">The wire</a></li>
+<li><a href="http://netkushi.com/mod/news/everyone.php">News</a></li>
+<li><a href="http://netkushi.com/mod/ad/everyone.php">Classifieds</a></li>
+<li><a href="http://netkushi.com/directory"><span>Directory</span></a></li>
+
+</ul>
+<br style="clear: left">
+</div>
+  
+<!-- display any system messages -->
+
+
+<!-- canvas -->
+<div id="layout_canvas">
+
+<!-- main content -->
+<div id="one_column">
+
+<div id="content_area_user_title"><h2>Privacy</h2></div><div class="contentWrapper">
+<p>Netkushi.com endeavors to be as up front as possible about the personal information collected in our site. In an effort to maintain this stance, we provide this privacy statement.<br><br><strong>Site Content</strong><br><br>This site may contain links and content to other sites outside our control. Netkushi.com is not responsible for the privacy practices or the content of such websites.<br><br><strong>Security</strong><br><br>This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.<br><br><strong>Information Collected</strong><br><br>1. THIS SITE USES cookies to store personal data. This practice is in no way an effort to compromise privacy but instead simplifies site administration and site use by recording commonly used data.<br>2. WE WILL collect the personal data that you may volunteer while using our services.<br>3. WE WILL NOT collect information about our visitors from other sources, such as public records or bodies, or private organizations.<br>4. WE WILL NOT disclose your personal data to our subsidiaries or other organizations. <br><br><strong>Children's Guidelines</strong><br><br>1. WE WILL NOT collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent.<br>2. WE WILL NOT collect personally identifiable offline contact information without prior parental consent.<br>3. WE WILL NOT distribute to third parties any personally identifiable information without prior parental consent.<br>4. WE WILL NOT give the ability to publicly post or otherwise distribute personally identifiable contact information without prior parental consent.<br><br><strong>Choice/Opt-Out</strong><br><br>This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.<br><br>You can send us e-mail to roveralex18@yahoo.com or contact@netkushi.com <br><br><br><strong>Correct/Update</strong><br><br>This site gives users the following options for changing and modifying information previously provided.<br><br>You can send us e-mail to roveralex18@yahoo.com or contact@netkushi.com <br><br><strong>Contacting the website</strong><br><br>If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact:<br><br>roveralex18@yahoo.com or contact@netkushi.com</p></div>
+</div><!-- /one_column -->	
+<div class="clearfloat"></div>
+</div><!-- /#layout_canvas -->
+
+
+<!-- footer -->
+
+<div class="clearfloat"></div>
+
+<div id="layout_footer">
+<table style="margin:0 auto;" width="930" height="79" border="0" align="center" cellpadding="0" cellspacing="0">
+<tbody><tr>
+		<td width="480" height="50">
+		<div align="center">
+		<script type="text/javascript"><!--
+google_ad_client = "pub-9200402689461730";
+/* 468x60, created 8/28/09 */
+google_ad_slot = "3462011839";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+		</div>	  </td>
+		
+		<td width="450" height="50" align="right">
+		<p class="footer_toolbar_links">
+		
+</p><div class="footer_toolbar_links">| 
+<a href="http://netkushi.com/pg/expages/read/About/">About</a> |
+<a href="http://netkushi.com/pg/expages/read/Terms/">Terms</a> |
+<a href="http://netkushi.com/pg/expages/read/Privacy/">Privacy</a> |
+</div>		<p></p>	  </td>
+	</tr>
+	
+	<tr>
+		<td height="28" colspan="2">
+		  <p align="right" class="footer_legal_links">
+	    <a href="http://netkushi.com/mod/blog/everyone.php">Blogs</a> | <a href="http://netkushi.com/pg/photos/world/">Photos</a> | <a href="http://netkushi.com/pg/izap_videos">Videos</a> | <a href="http://netkushi.com/pg/groups/world/">Groups</a> | <a href="http://netkushi.com/mod/pages/world.php">Pages</a> | <a href="http://netkushi.com/mod/ad/everyone.php">Classifieds</a> | <a href="http://netkushi.com/mod/file/world.php">Files</a> | <a href="http://netkushi.com/mod/news/everyone.php">News</a> | <a href="http://netkushi.com/directory">Directory</a> </p></td>
+    </tr>
+</tbody></table>
+</div><!-- /#layout_footer -->
+
+<div class="clearfloat"></div>
+
+</div><!-- /#page_wrapper -->
+</div><!-- /#page_container -->
+<!-- insert an analytics view to be extended -->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+try {
+_uacct = "UA-5061574-2";
+urchinTracker();
+} catch(err) {}</script>
 
 </body></html>
