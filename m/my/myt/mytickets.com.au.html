@@ -1,72 +1,141 @@
-<!--The following is the downloaded HTML source of the mytickets.com.au privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216071451id_/http%3A//www.mytickets.com.au/static/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mytickets.com.au privacy policy that was archived on 2009-11-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091104120123id_/http%3A//www.mytickets.com.au/static/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><link rel="Shortcut Icon" type="image/x-icon">
-    <!-- public stylesheets -->
-    
+  
     <!-- public javascript -->
     <script type="text/javascript">
         function getApplicationPath() { return '/'; }
         function getSearchPath() { return '/search/search.aspx'; }
         function getGoogleMapsApiKey() { return 'ABQIAAAAmnrfOZ6yF6Wmzg9HQO6GeBRrzohM7_txzM4D3PIx00L9LlDHZBSYdtTNJ3lWYH8SphppJXauCFtz1Q' };
     </script>
-    <script type="text/javascript" src="/scripts/framework.js?1"></script>
-    <script type="text/javascript" src="/scripts/range.js"></script>
-    <script type="text/javascript" src="/scripts/help.js"></script>
-    <script type="text/javascript" src="/scripts/refine.js?1"></script>
-    <script type="text/javascript" src="/scripts/search.js?3"></script>
-    <script type="text/javascript" src="/scripts/alerts.js"></script>
+    <script type="text/javascript" src="/scripts/framework.js?182"></script>
+    <script type="text/javascript" src="/scripts/range.js?182"></script>
+    <script type="text/javascript" src="/scripts/help.js?182"></script>
+    <script type="text/javascript" src="/scripts/refine.js?182"></script>
+    <script type="text/javascript" src="/scripts/search.js?182"></script>
+    <script type="text/javascript" src="/scripts/alerts.js?182"></script>
     <script type="text/javascript" src="/scripts/getSessionId.aspx"></script>
-    <script type="text/javascript" src="/scripts/bookmarks.js"></script>
-    <script type="text/javascript" src="/scripts/selector.js"></script>
-    <script type="text/javascript" src="/scripts/cookies.js"></script>
-    <script type="text/javascript" src="/scripts/performancepopup.js"></script>
-    <script type="text/javascript" src="/scripts/searchmanagement.js"></script>
-    <script type="text/javascript" src="/scripts/validation.js"></script>
-    <script type="text/javascript" src="/scripts/action.js"></script>
-    <script type="text/javascript" src="/scripts/venuepopup.js?2"></script>
-    <script type="text/javascript" src="/scripts/buynowpopup.js?3"></script>
-    <script type="text/javascript" src="/scripts/calendar.js"></script>
-    <script type="text/javascript" src="/scripts/login.js?1"></script>
-    <script type="text/javascript" src="/scripts/when.js"></script>
-    <script type="text/javascript" src="/scripts/message.js?1"></script>
-    <script type="text/javascript" src="/scripts/swfobject.js"></script>
-    <script type="text/javascript" src="/scripts/jquery.pack.js"></script>
+    <script type="text/javascript" src="/scripts/bookmarks.js?182"></script>
+    <script type="text/javascript" src="/scripts/selector.js?182"></script>
+    <script type="text/javascript" src="/scripts/cookies.js?182"></script>
+    <script type="text/javascript" src="/scripts/performancepopup.js?182"></script>
+    <script type="text/javascript" src="/scripts/searchmanagement.js?182"></script>
+    <script type="text/javascript" src="/scripts/validation.js?182"></script>
+    <script type="text/javascript" src="/scripts/action.js?182"></script>
+    <script type="text/javascript" src="/scripts/venuepopup.js?182"></script>
+    <script type="text/javascript" src="/scripts/buynowpopup.js?180"></script>
+    <script type="text/javascript" src="/scripts/calendar.js?182"></script>
+    <script type="text/javascript" src="/scripts/login.js?182"></script>
+    <script type="text/javascript" src="/scripts/when.js?182"></script>
+    <script type="text/javascript" src="/scripts/message.js?182"></script>
+    <script type="text/javascript" src="/scripts/swfobject.js?182"></script>
+    <script type="text/javascript" src="/scripts/jquery.pack.js?182"></script>
     <script type="text/javascript">
-		var $j = jQuery.noConflict(); // :)
-	</script>
+	var $j = jQuery.noConflict(); // :)
 
- 	
+	$j( 
+		function() { 
+			$j("#tile1info").after("<iframe id='tile1' width='1000' height='60' class='doubleclick' frameborder='0' hspace='0' vspace='0' marginheight='0' marginwidth='0' scrolling='no'></iframe>"); $j('#tile1').attr('src', $j('#tile1info').attr('cachedsrc') + ord);
+
+			resize(); 
+		}
+	);
+
+
+	function resize() {
+		if ($j(window).width() < 1240) {
+			$j('#takeover-container').width(1000);
+			$j('#takeover-left').hide();
+			$j('#takeover-right').hide();
+		}
+		else
+		{
+			$j( function() { $j("#tile2info").after("<iframe id='tile2' width='160' height='600' class='doubleclick' frameborder='0' hspace='0' vspace='0' marginheight='0' marginwidth='0' scrolling='no'></iframe>"); $j('#tile2').attr('src', $j('#tile2info').attr('cachedsrc') + ord); });
+			$j( function() { $j("#tile3info").after("<iframe id='tile3' width='160' height='600' class='doubleclick' frameborder='0' hspace='0' vspace='0' marginheight='0' marginwidth='0' scrolling='no'></iframe>"); $j('#tile3').attr('src', $j('#tile3info').attr('cachedsrc') + ord); });
+		}
+	}
+
+
+getViewportWidth = function() {
+  var width = 0;
+  if( document.documentElement && document.documentElement.clientWidth ) {
+    width = document.documentElement.clientWidth;
+  }
+  else if( document.body && document.body.clientWidth ) {
+    width = document.body.clientWidth;
+  }
+  else if( window.innerWidth ) {
+    width = window.innerWidth - 18;
+  }
+  return width;
+};
+
+
+	</script>
+<style type="text/css">
+        #container 
+        {
+	        background: #fff;
+        }
+
+        #takeover-container 
+        {
+	        margin: 0px auto;
+	        width: 1320px;
+        }
+
+        #takeover-left 
+        {
+	        float: left;
+	        height: 600px;
+	        position:relative;
+	        width: 160px;
+        }
+
+        #takeover-content 
+        {
+	        background: #fff;
+	        float: left;
+	        position: relative;
+	        width: 1000px;
+        }
+
+        #takeover-right 
+        {
+	        float: right;
+	        height: 600px;
+	        position:relative;
+	        width: 160px;
+        }
+    </style>
     <!-- public jquery document.ready ContentPlaceHolder -->
     
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<base href="http://www.mytickets.com.au/static/privacy.aspx">
     <meta name="copyright" content="Copyright (c) 2007 MyTickets"><meta name="description" content="My Tickets.com.au">	
 	<!-- stylezzz -->
-	<link rel="stylesheet" type="text/css" href="../style_details.css?1">	
-	<link rel="stylesheet" type="text/css" href="../style_main2.css?2">
-    <link rel="stylesheet" type="text/css" href="../style_provider.css?2">
-	<link rel="stylesheet" type="text/css" href="../style_calendar.css">	
-    <link rel="stylesheet" type="text/css" href="../style_main_new.css?3">
-    <link rel="stylesheet" type="text/css" href="../i/footer.css?2">
-    <link rel="stylesheet" type="text/css" href="../i/layout.css?3">
-    <link rel="stylesheet" type="text/css" href="../i/header.css?4">
-    <link rel="stylesheet" type="text/css" href="../i/event-list.css?3">
-    <link rel="stylesheet" type="text/css" href="../i/whats-on-right.css?3">
+	<link rel="stylesheet" type="text/css" href="/i/style_details.css?182">	
+	<link rel="stylesheet" type="text/css" href="/i/style_main2.css?182">
+    <link rel="stylesheet" type="text/css" href="/i/style_provider.css?182">
+	<link rel="stylesheet" type="text/css" href="/i/style_calendar.css?182">	
+    <link rel="stylesheet" type="text/css" href="/i/style_main_new.css?182">
+    <link rel="stylesheet" type="text/css" href="/i/footer.css?182">
+    <link rel="stylesheet" type="text/css" href="/i/layout.css?182">
+    <link rel="stylesheet" type="text/css" href="/i/header.css?182">
+    <link rel="stylesheet" type="text/css" href="/i/event-list.css?182">
+    <link rel="stylesheet" type="text/css" href="/i/whats-on-right.css?182">
+    <link rel="stylesheet" type="text/css" href="/i/jquery.lightbox-0.5.css?182">
     
-    
-    <link rel="stylesheet" type="text/css" href="../style_static_pages.css?3">
-	<link rel="stylesheet" type="text/css" href="../style_hdda.css">
-
-	<script type="text/javascript" src="../scripts/jquery.scrollto.js"></script>
-	<script type="text/javascript" src="../scripts/jquery.modal.js"></script>
-	<script type="text/javascript" src="../scripts/jquery.cookie.js"></script>
+    <link rel="stylesheet" type="text/css" href="/i/style_static_pages.css?182">
+	<script type="text/javascript" src="/scripts/jquery.scrollto.js?182"></script>
+	<script type="text/javascript" src="/scripts/jquery.modal.js?182"></script>
+	<script type="text/javascript" src="/scripts/jquery.cookie.js?182"></script>
 	
 	<!-- jQuery Consumable scripts -->
-	<script type="text/javascript" src="../scripts/tracking.js"></script>
-	<script type="text/javascript" src="../scripts/interface.js"></script>
-    <script type="text/javascript" src="../i/headerCalendar.js"></script>
-    <script type="text/javascript" src="../i/public.js?1"></script>
+	<script type="text/javascript" src="/scripts/tracking.js?182"></script>
+	<script type="text/javascript" src="/scripts/interface.js?182"></script>
+    <script type="text/javascript" src="/i/headerCalendar.js?182"></script>
+    <script type="text/javascript" src="/i/public.js?182"></script>
 
 	<script type="text/javascript">
         $j(document).ready(function () {
@@ -127,7 +196,7 @@ window.attachEvent("onload", correctPNG);
            // init search forms and tracking services
            
            initializeSearchFields(document.getElementById("head_search"));
-           preloadImages(new Array('../images/shadow_ie.gif'));
+           preloadImages(new Array('/i/shadow_ie.gif'));
            TrackingAggregateServices.addTrackingAggregateDetails("http://www.mytickets.com.au/static/privacy.aspx",null);
            autoLogin();           
         });	
@@ -137,134 +206,131 @@ window.attachEvent("onload", correctPNG);
     
 
     <!--[if lte IE 6]>
-		<link rel="stylesheet" type="text/css" href="/style_ie_new.css?2" />
+		<link rel="stylesheet" type="text/css" href="/i/style_ie_new.css?182" />
     <![endif]-->
     <!--[if IE 7]>
-		<link rel="stylesheet" type="text/css" href="/style_ie7.css?1" />
+		<link rel="stylesheet" type="text/css" href="/i/style_ie7.css?182" />
     <![endif]-->
 <title>
 	Privacy - MyTickets
 </title></head>
-<body>
+<body style="background:#fff;">
     
 <script type="text/javascript">
 var ord = (new Date().getTime());
 </script>
     
-<div id="container">
-    <div class="spacer"></div>
-    
+	<div id="takeover-container">
 
+		<div id="takeover-left">
+			<div style="display:none;" id="tile2info" cachedsrc="http://ad.au.doubleclick.net/adi/tickets.com.au/;kw=australia2;swhat=;swhere=;swhen=;sect1=;sect2=;loc=australia;tile=2;sz=160x600;ord="></div> 
+		</div>
+		<div id="takeover-content">
+			<div style="display:none;" id="tile1info" cachedsrc="http://ad.au.doubleclick.net/adi/tickets.com.au/;kw=australia1;swhat=;swhere=;swhen=;sect1=;sect2=;loc=australia;tile=1;sz=1000x60;ord="></div> 
+            <div id="container" class="">
+                <div class="spacer"><!-- --></div>
+                
 <div class="content-header">
-    <div id="header-left-section">
-        <div class="header-tagline">If it's on ... it's on here<span class="trademark">™</span></div>
+    <div class="action-bar">
         <div class="header-subtagline">MyTickets.com.au - Australia's # 1 event guide</div>
-    </div>
-    <div id="header-centre-section">
-        <a title="mytickets.com.au" href="/">
-            <img alt="mytickets.com.au logo" src="/i/homepage-logo-180x90.jpg" border="0">
-        </a>
-    </div>
-    <div id="header-right-section">
-        
+        <div id="user-access-container">
 <div id="user_access_main">
     <div id="login_unauthorized"><a href="/user/myprofile.aspx" title="Sign in">Sign in</a> | <a href="/user/alertshub.aspx" title="Alerts">Alerts</a> | <a href="/competitions/list.aspx" title="Competitions">Competitions</a> | <a href="/static/aboutus.aspx" title="About Us">About Us</a> | <a href="/blog/" title="Blog">Blog</a></div><div id="login_member" style="display:none"><span>Welcome</span> <a href="/user/mytickets.aspx" id="login_member_label" title="Welcome"></a> | <a href="javascript:logout()" title="Logout">Logout</a> | <a href="/user/alertshub.aspx" title="Alerts">Alerts</a> | <a href="/competitions/list.aspx" title="Competitions">Competitions</a> | <a href="/static/aboutus.aspx" title="About Us">About Us</a> | <a href="/blog/" title="Blog">Blog</a></div>
-</div>
-        <div class="header-tagline">We're 100% free</div>
-        <div class="header-subtagline"><a href="/static/aboutus.aspx">Five things</a> you didn't 
-            know about us</div>
+</div></div>
+        <div class="clear"><!-- --></div>
+    </div>
+    <div>
+        <div id="logo-container">
+            <a title="mytickets.com.au" href="/"><img alt="mytickets.com.au logo" src="/i/homepage-logo-180x90.jpg?182" border="0"></a>
+            <div class="header-tagline">If it's on ... it's on here<span class="trademark">™</span></div>    
+        </div>
+        <div id="leaderboard-container"><script type="text/javascript">$j( function() { $j("#tile14info").after("<iframe id='tile14' width='728' height='90' class='doubleclick' frameborder='0' hspace='0' vspace='0' marginheight='0' marginwidth='0' scrolling='no'></iframe>"); $j('#tile14').attr('src', $j('#tile14info').attr('cachedsrc') + ord); });</script><div style="display:none;" id="tile14info" cachedsrc="http://ad.au.doubleclick.net/adi/tickets.com.au/;kw=;swhat=;swhere=;swhen=;sect1=;sect2=;loc=australia;tile=14;sz=728x90;ord="></div></div>
+        <div class="clear"><!-- --></div>
     </div>
 </div>
-
-    <div class="spacer"></div>
-
-  
-	<div class="nav-box"><div class="primary-nav-box"><div class="primary-navigation"><ul><li class="whats-on-on"><div class="whats-on-on-bg"><div></div><a href="/">What's On</a></div></li><li class="coming-soon-off"><div class="coming-soon-off-bg"><div></div><a href="/coming-soon/">Coming Soon</a></div></li><li class="vip-off"><div class="vip-off-bg"><div></div><a href="/vip/">VIP Tix</a></div></li><li class="category-off"><div class="category-off-bg"><div></div><a href="/music/landing.aspx">Categories</a></div></li></ul></div><div class="header_search">
+                <div class="spacer"><!-- --></div>
+                <div class="nav-box"><div class="primary-nav-box"><div class="primary-navigation"><ul><li class="whats-on-on"><div class="whats-on-on-bg"><div></div><a href="/">What's On</a></div></li><li class="coming-soon-off"><div class="coming-soon-off-bg"><div></div><a href="/coming-soon/">Coming Soon</a></div></li><li class="vip-off"><div class="vip-off-bg"><div></div><a href="/vip/">VIP Tix</a></div></li><li class="category-off"><div class="category-off-bg"><div></div><a href="/music/">Categories</a></div></li><li class="reviews-off"><div class="reviews-off-bg"><div></div><a href="http://thetruthbooth.com.au/">Reviews</a></div></li></ul></div><div class="header_search">
 <div id="head_search_pane">
     <form id="head_search" action="/search/search.aspx" method="get" onsubmit="return checkSearchForm(this);">
         <div class="box">
             <div class="field_label">What:</div>
             <div class="spacer"></div>
-            <input class="watermarked" name="what" tabindex="1" id="what" value="" type="text" autocomplete="off" onkeyup="javascript:autocompUp(event, 'SearchService.WhatWithType');" onkeydown="javascript:if(event.keyCode == 13 &amp;&amp; ($('autocompleteLayer') == null || $('autocompleteLayer').style.visibility=='hidden')){return true;};return autocompDown(event, 'what',true);" onblur="javascript:searchFieldBlur(event,true);" onfocus="javascript:searchFieldFocus(event,true);" readonly="readonly">
+            <input class="watermarked" name="what" tabindex="1" id="what" value="" type="text" autocomplete="off" onkeyup="javascript:autocompUp(event, 'SearchService.WhatWithType');" onkeydown="javascript:return searchFieldKeyDown(event, 'what', true);" onblur="javascript:searchFieldBlur(event,true);" onfocus="javascript:searchFieldFocus(event,true);" disabled="disabled">
         </div><!-- box -->
         <div class="box">
             <div class="field_label">Where:</div>
             <div class="spacer"></div>
-            <input class="watermarked" name="where" tabindex="2" value="" id="where" type="text" autocomplete="off" onkeyup="javascript:autocompUp(event, 'SearchService.WhereWithDetail');" onkeydown="javascript:if(event.keyCode == 13 &amp;&amp; ($('autocompleteLayer') == null || $('autocompleteLayer').style.visibility=='hidden')){return true;};return autocompDown(event, 'where',true);" onblur="javascript:searchFieldBlur(event,true);" onfocus="javascript:searchFieldFocus(event,true);" readonly="readonly">
+            <input class="watermarked" name="where" tabindex="2" value="" id="where" type="text" autocomplete="off" onkeyup="javascript:autocompUp(event, 'SearchService.WhereWithDetail');" onkeydown="javascript:return searchFieldKeyDown(event, 'where', true);" onblur="javascript:searchFieldBlur(event,true);" onfocus="javascript:searchFieldFocus(event,true);" disabled="disabled">
         </div><!-- box -->
         <div class="box">
             <div class="field_label">When:</div>
             <div class="spacer"></div>
-            <input class="watermarked" name="when" tabindex="3" value="" id="when" type="text" autocomplete="off" onkeyup="javascript:autocompUpWhen(event);" onkeydown="javascript:if(event.keyCode == 13 &amp;&amp; ($('autocompleteLayer') == null || $('autocompleteLayer').style.visibility=='hidden')){return true;};return autocompDown(event, 'when');" onblur="javascript:searchFieldBlur(event,true);" onfocus="javascript:searchFieldFocus(event,true);" readonly="readonly">
-                        <!-- CALENDAR -->
-			            <div class="cal_wrap">
-				            <img id="calendar_icon" src="/i/header-search-calendar.gif" onclick="javascript:showHeaderCalendar();" title="open the calendar" border="0" alt="calendar" class="icon_calendar">
+            <input class="watermarked" name="when" tabindex="3" value="" id="when" type="text" autocomplete="off" onkeyup="javascript:autocompUpWhen(event);" onkeydown="javascript:return searchFieldKeyDown(event, 'when');" onblur="javascript:searchFieldBlur(event,true);" onfocus="javascript:searchFieldFocus(event,true);" disabled="disabled">
+<!-- CALENDAR -->
+<div class="cal_wrap">
+    <img id="calendar_icon" src="/i/header-search-calendar.gif" onclick="javascript:showHeaderCalendar();" title="open the calendar" border="0" alt="calendar" class="icon_calendar">
+    <!-- calendar divs -->
+    <div class="popup_shadow" style="display:none;" id="calendarDiv">
+        <div class="cal_popup">
+            <div class="closeWrap"><img class="close" onclick="javascript:hideCalendars();" src="/i/button_cross.gif"></div>
+            <div id="heading_from">From</div>
+            <div id="heading_until">Until</div>
+            <div class="spacer"><!-- empty div --></div>
 
-				            <!-- calendar divs -->
-                            <div class="popup_shadow" style="display:none;" id="calendarDiv">
-			                    <div class="cal_popup">
-			                        <div class="closeWrap"><img class="close" onclick="javascript:hideCalendars();" src="../images/button_cross.gif"></div>
-			                        <div id="heading_from">From</div>
-			                        <div id="heading_until">Until</div>
-			                        <div class="spacer"><!-- empty div --></div>
+            <div class="cal" id="startCalDiv"></div>
+            <div class="cal" id="endCalDiv" style="margin-left:10px;"></div>
+            <div class="spacer"><!-- empty div --></div>
 
-				                    <div class="cal" id="startCalDiv"></div>
-				                    <div class="cal" id="endCalDiv" style="margin-left:10px;"></div>
-			                        <div class="spacer"><!-- empty div --></div>
+            <div id="date_from"><span id="startDate"></span></div>
+            <div id="date_until"><span id="endDate"></span></div>
+            <div class="spacer"><!-- empty div --></div>
 
-                                    <div id="date_from"><span id="startDate"></span></div>
-                                    <div id="date_until"><span id="endDate"></span></div>
-			                        <div class="spacer"><!-- empty div --></div>
-
-				                    <div id="cal_submit">
-				                        <input type="image" src="../images/button_ok_noarrow.gif" value="OK" onclick="javascript:selectCalDate();">
-				                        <!--
-				                        <input type="image" src="../images/button_cancel.gif" value="Cancel" onclick="javascript:hideCalendars();" />
-				                        -->
-				                    </div>
-			                    </div>
-			                </div>
-			            </div><!-- cal_wrap -->
-                        <!-- END CALENDAR -->
+            <div id="cal_submit">
+                <input type="image" src="/i/button_ok_noarrow.gif" value="OK" onclick="javascript:selectCalDate();">
+            </div>
+        </div>
+    </div>
+</div><!-- cal_wrap -->
+<!-- END CALENDAR -->
         </div>
         <div class="box">
-            <input src="../i/go.gif" name="ctl00$ctl00$ctl00$PublicBody$HeaderNavigation1$SearchHeaderInstance$ctl01" type="image" tabindex="4" value="GO" class="button">
+            <input src="/i/go.gif" name="ctl00$ctl00$ctl00$HeaderNavigationInstance$SearchHeaderInstance$ctl01" type="image" tabindex="4" value="GO" class="button">
         </div>
         <input type="hidden" id="head_when_start" name="whenStart" value="">
         <input type="hidden" id="head_when_end" name="whenEnd" value="">
     </form>
 </div>
-</div><div style="clear:both;"></div></div><div class="nav-2-container-whats-on"><img src="/i/nav-2-whats-on-w.gif" align="left" alt="" title=""><div class="nav-2-whats-on"><ul><li class="selected-li"><a href="/" class="selected-a">Home</a></li><li><a href="/search/search.aspx?what=&amp;where=&amp;country=&amp;region=0&amp;radius=0&amp;basic=False&amp;price=&amp;category=&amp;view=0&amp;when=Today&amp;postcode=&amp;state=&amp;ticketAvailability=">Today</a></li><li class="snd-nav-separator">|</li><li><a href="/search/search.aspx?what=&amp;where=&amp;country=&amp;region=0&amp;radius=0&amp;basic=False&amp;price=&amp;category=&amp;view=0&amp;when=Tomorrow&amp;postcode=&amp;state=&amp;ticketAvailability=">Tomorrow</a></li><li class="snd-nav-separator">|</li><li><a href="/search/search.aspx?what=&amp;where=&amp;country=&amp;region=0&amp;radius=0&amp;basic=False&amp;price=&amp;category=&amp;view=0&amp;when=This+Weekend&amp;postcode=&amp;state=&amp;ticketAvailability=">This Weekend</a></li></ul></div><img src="/i/nav-2-whats-on-e.gif" align="right" alt="" title=""><div class="on-site-advertising"><a href="/">What's On</a><span> guides in your city</span></div></div></div>
-    
+</div><div style="clear:both;"></div></div><div class="nav-2-container-whats-on"><div class="nav-2-whats-on"><ul><li class="selected-li"><a href="/" class="selected-a">Home</a></li><li><a href="/search/search.aspx?what=&amp;where=&amp;country=&amp;region=0&amp;radius=0&amp;basic=False&amp;price=&amp;category=&amp;view=0&amp;when=Today&amp;postcode=&amp;state=&amp;ticketAvailability=">Today</a></li><li class="snd-nav-separator">|</li><li><a href="/search/search.aspx?what=&amp;where=&amp;country=&amp;region=0&amp;radius=0&amp;basic=False&amp;price=&amp;category=&amp;view=0&amp;when=Tomorrow&amp;postcode=&amp;state=&amp;ticketAvailability=">Tomorrow</a></li><li class="snd-nav-separator">|</li><li><a href="/search/search.aspx?what=&amp;where=&amp;country=&amp;region=0&amp;radius=0&amp;basic=False&amp;price=&amp;category=&amp;view=0&amp;when=This+Weekend&amp;postcode=&amp;state=&amp;ticketAvailability=">This Weekend</a></li><li class="snd-nav-separator">|</li><li><a href="/search/search.aspx?what=&amp;where=&amp;country=&amp;region=0&amp;radius=0&amp;basic=False&amp;price=&amp;category=&amp;view=0&amp;when=This+Month&amp;postcode=&amp;state=&amp;ticketAvailability=">In November</a></li></ul></div><div class="on-site-advertising"><a href="/">What's On</a><span> guides in your city</span></div></div><div class="clear"><!-- --></div></div>
+                
     <div class="spacer"></div>
-
-
     
-    <!-- MyTickets Content -->
-    <form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEzOTM2NTc4NjMPZBYCZg9kFgJmD2QWAmYPZBYCAgcPFgIeCWlubmVyaHRtbAWmBDx0YWJsZSBpZD0iY3RsMDBfRGF0YUxpc3QiIGNlbGxzcGFjaW5nPSIwIiBib3JkZXI9IjAiPg0KCTx0cj4NCgkJPHRkPiANCiAgICA8YSBpZD0iY3RsMDBfRGF0YUxpc3RfY3RsMDBfTGluayIgaHJlZj0iaHR0cDovL3d3dy5teXRpY2tldHMuY29tLmF1L2NvbWVkeS9sYW5kaW5nLmFzcHgiPkNvbWVkeTwvYT4NCjwvdGQ+DQoJPC90cj48dHI+DQoJCTx0ZD4gDQogICAgPGEgaWQ9ImN0bDAwX0RhdGFMaXN0X2N0bDAxX0xpbmsiIGhyZWY9Imh0dHA6Ly93d3cubXl0aWNrZXRzLmNvbS5hdS9mZXN0aXZhbHMvbGFuZGluZy5hc3B4Ij5GZXN0aXZhbHM8L2E+DQo8L3RkPg0KCTwvdHI+PHRyPg0KCQk8dGQ+IA0KICAgIDxhIGlkPSJjdGwwMF9EYXRhTGlzdF9jdGwwMl9MaW5rIiBocmVmPSJodHRwOi8vd3d3Lm15dGlja2V0cy5jb20uYXUvbGlmZXN0eWxlL2xhbmRpbmcuYXNweCI+TGlmZXN0eWxlPC9hPg0KPC90ZD4NCgk8L3RyPjx0cj4NCgkJPHRkPg0KPGRpdiBjbGFzcz0ic3BhY2VyIj48IS0tIFNQQUNFUiAtLT48L2Rpdj4NCjwvdGQ+DQoJPC90cj4NCjwvdGFibGU+DQpkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBUljdGwwMCRjdGwwMCRjdGwwMCRQdWJsaWNCb2R5JEhlYWRlck5hdmlnYXRpb24xJFNlYXJjaEhlYWRlckluc3RhbmNlJGN0bDAxVjnLT+y3FwX6f3Nyyt5OwsrXvh8=">
+    <div id="content">
+	    <form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEzOTM2NTc4NjMPZBYCZg9kFgJmD2QWAmYPZBYCAgcPFgIeCWlubmVyaHRtbAWCBDx0YWJsZSBpZD0iY3RsMDBfRGF0YUxpc3QiIGNlbGxzcGFjaW5nPSIwIiBib3JkZXI9IjAiPg0KCTx0cj4NCgkJPHRkPiANCiAgICA8YSBpZD0iY3RsMDBfRGF0YUxpc3RfY3RsMDBfTGluayIgaHJlZj0iaHR0cDovL3d3dy5teXRpY2tldHMuY29tLmF1L2NvbWVkeS8iPkNvbWVkeTwvYT4NCjwvdGQ+DQoJPC90cj48dHI+DQoJCTx0ZD4gDQogICAgPGEgaWQ9ImN0bDAwX0RhdGFMaXN0X2N0bDAxX0xpbmsiIGhyZWY9Imh0dHA6Ly93d3cubXl0aWNrZXRzLmNvbS5hdS9mZXN0aXZhbHMvIj5GZXN0aXZhbHM8L2E+DQo8L3RkPg0KCTwvdHI+PHRyPg0KCQk8dGQ+IA0KICAgIDxhIGlkPSJjdGwwMF9EYXRhTGlzdF9jdGwwMl9MaW5rIiBocmVmPSJodHRwOi8vd3d3Lm15dGlja2V0cy5jb20uYXUvbGlmZXN0eWxlLyI+TGlmZXN0eWxlPC9hPg0KPC90ZD4NCgk8L3RyPjx0cj4NCgkJPHRkPg0KPGRpdiBjbGFzcz0ic3BhY2VyIj48IS0tIFNQQUNFUiAtLT48L2Rpdj4NCjwvdGQ+DQoJPC90cj4NCjwvdGFibGU+DQpkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBUVjdGwwMCRjdGwwMCRjdGwwMCRIZWFkZXJOYXZpZ2F0aW9uSW5zdGFuY2UkU2VhcmNoSGVhZGVySW5zdGFuY2UkY3RsMDG+hE78XWqHP4YhNZ1W0S7qfvUMnA==">
 
 
 <script type="text/javascript">
 //<![CDATA[
-var __d = {"pageName":"privacy","campaign":"","channel":"privacy","eVar3":"","events":"","products":"","server":""};//]]>
+var __d = {"pageName":"privacy","campaign":"","channel":"privacy","eVar3":"","events":"","products":"","server":""};
+var s_account = 'mytickets-prd';//]]>
 </script>
 
-<script src="/ScriptResource.axd?d=vfcwVLKzGZjSZMsBXt3JkNwCUO7LIRz1NgX6w-1cjIMctqw49grqqctURwT0mIFcfbzfDr-ITgPqKIF4HTigZlQfl4VajmOKbll6CaWej3o1&amp;t=633392346636381523" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=Fd3Ir0IUc74MCIjV3LOx6CW_0sLHt1FrEyXUQyQAdv6d17EdwBN4x59-j1eIU1j7KHHYzQOgk44uyqAWLnpBew8w7uL40Ivk1ZVgtvo1-LQ1&amp;t=633392346636381523" type="text/javascript"></script>
 <script src="/SearchService.asmx/js" type="text/javascript"></script>
 <script src="/TicketsServices.asmx/js" type="text/javascript"></script>
 <script src="/Tracking.asmx/js" type="text/javascript"></script>
 <script src="/TrackingAggregateServices.asmx/js" type="text/javascript"></script>
-	    
-    	<div id="content">
             
     
-
-<div>
-    <div id="my-region" onclick="clickedDDL(event);"><a id="region-select-toggle" href="javascript:void(0)"><span class="current-region">Select your state</span><img src="/i/drop-down.gif" border="0"></a><div id="region-list"><ul><li><a class="whats-on-state" onclick="setCookies('909','1');" href="/whats-on/sydney/">NSW</a></li><li><a class="whats-on-state" onclick="setCookies('911','3');" href="/whats-on/melbourne/">VIC</a></li><li><a class="whats-on-state" onclick="setCookies('910','2');" href="/whats-on/brisbane/">QLD</a></li><li><a class="whats-on-state" onclick="setCookies('913','8');" href="/whats-on/perth/">WA</a></li><li><a class="whats-on-state" onclick="setCookies('912','5');" href="/whats-on/adelaide/">SA</a></li><li><a class="whats-on-state" onclick="setCookies('260','7');" href="/whats-on/canberra/">ACT</a></li><li><a class="whats-on-state" onclick="setCookies('','4');" href="/search/search.aspx?what=&amp;where=&amp;country=&amp;region=&amp;radius=0&amp;basic=False&amp;price=&amp;category=&amp;view=0&amp;when=&amp;postcode=&amp;state=TAS&amp;ticketAvailability=">TAS</a></li><li><a class="whats-on-state" onclick="setCookies('','6');" href="/search/search.aspx?what=&amp;where=&amp;country=&amp;region=&amp;radius=0&amp;basic=False&amp;price=&amp;category=&amp;view=0&amp;when=&amp;postcode=&amp;state=NT&amp;ticketAvailability=">NT</a></li><li><a onclick="setCookies('','');" class="whats-on-state" href="/">Australia</a></li></ul></div></div>
+<div class="regional-breadcrumb">
+    <div id="my-region" onclick="clickedDDL(event);"><a id="region-select-toggle" href="javascript:void(0)"><span class="current-region">Select your state</span><img src="/i/drop-down.gif" border="0"></a><div id="region-list"><ul><li><a class="whats-on-state" onclick="setCookies('909','1');" href="/whats-on/sydney/">NSW</a></li><li><a class="whats-on-state" onclick="setCookies('911','3');" href="/whats-on/melbourne/">VIC</a></li><li><a class="whats-on-state" onclick="setCookies('910','2');" href="/whats-on/brisbane/">QLD</a></li><li><a class="whats-on-state" onclick="setCookies('913','8');" href="/whats-on/perth/">WA</a></li><li><a class="whats-on-state" onclick="setCookies('912','5');" href="/whats-on/adelaide/">SA</a></li><li><a class="whats-on-state" onclick="setCookies('260','7');" href="/whats-on/canberra/">ACT</a></li><li><a class="whats-on-state" onclick="setCookies('402','4');" href="/search/search.aspx?what=&amp;where=&amp;country=&amp;region=&amp;radius=0&amp;basic=False&amp;price=&amp;category=&amp;view=0&amp;when=&amp;postcode=&amp;state=TAS&amp;ticketAvailability=">TAS</a></li><li><a class="whats-on-state" onclick="setCookies('501','6');" href="/search/search.aspx?what=&amp;where=&amp;country=&amp;region=&amp;radius=0&amp;basic=False&amp;price=&amp;category=&amp;view=0&amp;when=&amp;postcode=&amp;state=NT&amp;ticketAvailability=">NT</a></li><li><a onclick="setCookies('','');" class="whats-on-state" href="/">Australia</a></li></ul></div></div>
+    <div class="sponsorship-advert">
+        <script type="text/javascript">$j( function() { $j("#tile4info").after("<iframe id='tile4' width='234' height='60' class='doubleclick' frameborder='0' hspace='0' vspace='0' marginheight='0' marginwidth='0' scrolling='no'></iframe>"); $j('#tile4').attr('src', $j('#tile4info').attr('cachedsrc') + ord); });</script><div style="display:none;" id="tile4info" cachedsrc="http://ad.au.doubleclick.net/adi/tickets.com.au/;kw=;swhat=;swhere=;swhen=;sect1=;sect2=;loc=australia;tile=4;sz=234x60;ord="></div>
+    </div>
     <div id="breadcrumb-area">
         <h1>Privacy</h1>
     </div>
+    <div class="clear"></div>
 </div>
 <div class="clear"></div>
 	<div id="privacyContent">
@@ -342,9 +408,8 @@ var __d = {"pageName":"privacy","campaign":"","channel":"privacy","eVar3":"","ev
 	</div><!-- END privacyContent -->
 
 
-        </div>
-    
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgLDzpuKDQKb2KKsDCrZLLFPss4/Nfa+oiBNhXOFVJ+z">
+            
+        
 
 <script type="text/javascript">
 //<![CDATA[
@@ -352,13 +417,15 @@ Sys.Application.initialize();
 //]]>
 </script>
 </form>
+    </div>
 
-    
+
+                
 <div class="spacer"></div>
 <div class="content-footer">
     <div class="fill">
         <div class="leaderboard">
-            <script type="text/javascript">$j( function() { $j("#tile4info").after("<iframe id='tile4' width='728' height='90' class='doubleclick' frameborder='0' hspace='0' vspace='0' marginheight='0' marginwidth='0' scrolling='no'></iframe>"); $j('#tile4').attr('src', $j('#tile4info').attr('cachedsrc') + ord); });</script><div style="display:none;" id="tile4info" cachedsrc="http://ad.au.doubleclick.net/adi/tickets.com.au;kw=;swhat=;swhere=;swhen=;sect1=;sect2=;loc=australia;tile=4;sz=728x90;ord="></div>
+            <script type="text/javascript">$j( function() { $j("#tile11info").after("<iframe id='tile11' width='728' height='90' class='doubleclick' frameborder='0' hspace='0' vspace='0' marginheight='0' marginwidth='0' scrolling='no'></iframe>"); $j('#tile11').attr('src', $j('#tile11info').attr('cachedsrc') + ord); });</script><div style="display:none;" id="tile11info" cachedsrc="http://ad.au.doubleclick.net/adi/tickets.com.au/;kw=;swhat=;swhere=;swhen=;sect1=;sect2=;loc=australia;tile=11;sz=728x90;ord="></div>
         </div>
         <div class="navigation-lists">
             <div class="sections">
@@ -383,15 +450,15 @@ Sys.Application.initialize();
             <div class="categories">
                 <h4>Categories</h4>
                 <ul class="categories">
-                    <li><a href="/music/landing.aspx" title="Music">Music</a></li>
-                    <li><a href="/sport/landing.aspx" title="Sport">Sport</a></li>
-                    <li><a href="/arts-_-theatre/landing.aspx" title="Arts &amp; Theatre">Arts &amp; Theatre</a></li>
-                    <li><a href="/movies/landing.aspx" title="Movies">Movies</a></li>
-                    <li><a href="/family-_-kids/landing.aspx" title="Family &amp; Kids">Family &amp; Kids</a></li>
-                    <li><a href="/tourist-attractions/landing.aspx" title="Tourist Attractions">Tourist Attractions</a></li>                    
-                    <li><a href="/comedy/landing.aspx" title="Comedy">Comedy</a></li>
-                    <li><a href="/festivals/landing.aspx" title="Festivals">Festivals</a></li>
-                    <li><a href="/lifestyle/landing.aspx" title="Lifestyle">Lifestyle</a></li>
+                    <li><a href="/music/" title="Music">Music</a></li>
+                    <li><a href="/sport/" title="Sport">Sport</a></li>
+                    <li><a href="/arts-_-theatre/" title="Arts &amp; Theatre">Arts &amp; Theatre</a></li>
+                    <li><a href="/movies/" title="Movies">Movies</a></li>
+                    <li><a href="/family-_-kids/" title="Family &amp; Kids">Family &amp; Kids</a></li>
+                    <li><a href="/tourist-attractions/" title="Tourist Attractions">Tourist Attractions</a></li>                    
+                    <li><a href="/comedy/" title="Comedy">Comedy</a></li>
+                    <li><a href="/festivals/" title="Festivals">Festivals</a></li>
+                    <li><a href="/lifestyle/" title="Lifestyle">Lifestyle</a></li>
                 </ul>
             </div>
             <div class="regions">
@@ -410,7 +477,7 @@ Sys.Application.initialize();
             <br style="clear: left;">
 
             <div class="copyright">
-                © Copyright 2005-2008 Tickets PTY LTD. | 
+                © Copyright 2005-2009 Tickets PTY LTD. | 
                 <a href="/static/termsofuse.aspx" title="Terms of Use">Terms of Use</a>
                 <a href="/static/privacy.aspx" title="Privacy">Privacy</a>
             </div>                    
@@ -439,6 +506,7 @@ Sys.Application.initialize();
             <h4>About</h4>
             <ul class="about">
                 <li><a href="/static/aboutus.aspx" title="About Us">About Us</a></li>
+                <li><a href="/static/faq.aspx" title="FAQ">FAQ</a></li>
                 <li><a href="/static/aboutus.aspx#contact-mytickets" title="Contact Us">Contact Us</a></li>
             </ul>
         </div>
@@ -466,20 +534,27 @@ Sys.Application.initialize();
     <div class="bottom"><div class="sw"></div><div class="se"></div></div>
 </div>
 <br>
-</div><!-- end container -->
-
+            </div>
+            <div id="popup-advert-container">
+                <script type="text/javascript">function loadPopupAdvert (){ $j("#tile12info").after("<iframe id='tile12' width='234' height='60' class='doubleclick' frameborder='0' hspace='0' vspace='0' marginheight='0' marginwidth='0' scrolling='no'></iframe>"); $j('#tile12').attr('src', $j('#tile12info').attr('cachedsrc') + ord); }</script><div style="display:none;" id="tile12info" cachedsrc="http://ad.au.doubleclick.net/adi/tickets.com.au/;kw=;swhat=;swhere=;swhen=;sect1=;sect2=;loc=australia;tile=12;sz=234x60;ord="></div>
+            </div>
+		</div>
+		<div id="takeover-right">
+			<div style="display:none;" id="tile3info" cachedsrc="http://ad.au.doubleclick.net/adi/tickets.com.au/;kw=australia3;swhat=;swhere=;swhen=;sect1=;sect2=;loc=australia;tile=3;sz=160x600;ord="></div> 
+		</div>
+	</div>
     <div id="ctl00_ctl00_ctl00_AllCategoryList" style="display:none;"><table id="ctl00_DataList" cellspacing="0" border="0">
 	<tbody><tr>
 		<td> 
-    <a id="ctl00_DataList_ctl00_Link" href="http://www.mytickets.com.au/comedy/landing.aspx">Comedy</a>
+    <a id="ctl00_DataList_ctl00_Link" href="http://www.mytickets.com.au/comedy/">Comedy</a>
 </td>
 	</tr><tr>
 		<td> 
-    <a id="ctl00_DataList_ctl01_Link" href="http://www.mytickets.com.au/festivals/landing.aspx">Festivals</a>
+    <a id="ctl00_DataList_ctl01_Link" href="http://www.mytickets.com.au/festivals/">Festivals</a>
 </td>
 	</tr><tr>
 		<td> 
-    <a id="ctl00_DataList_ctl02_Link" href="http://www.mytickets.com.au/lifestyle/landing.aspx">Lifestyle</a>
+    <a id="ctl00_DataList_ctl02_Link" href="http://www.mytickets.com.au/lifestyle/">Lifestyle</a>
 </td>
 	</tr><tr>
 		<td>
@@ -495,13 +570,12 @@ Sys.Application.initialize();
 		urchinTracker();
 	</script>
 	
-	
 
 <!-- OmnitureFooter -->
 <!-- SiteCatalyst code version: H.17.
 Copyright 1997-2008 Omniture, Inc. More info available at 
 http://www.omniture.com -->
-<script language="JavaScript" type="text/javascript" src="/i/s_code.js"></script>
+<script language="JavaScript" type="text/javascript" src="/i/s_code.js?182"></script>
 <script language="JavaScript" type="text/javascript"><!--
 
 if(!window['__d']) __d = {};
@@ -517,7 +591,6 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 src="http://mytickets.122.2o7.net/b/ss/mytickets-prd/1/H.17--NS/0?[AQB]&cdp=3&[AQE]"
 height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: H.17. -->
-	<img alt="" width="1" height="1" src="http://pixel1436.everesttech.net/1436/p?ev_PageViews=1">
-
+	<!-- 1.70.3590.0 -->
 
 </body></html>
