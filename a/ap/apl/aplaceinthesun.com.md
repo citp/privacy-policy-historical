@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aplaceinthesun.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419044938id_/http%3A//www.aplaceinthesun.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aplaceinthesun.com privacy policy that was archived on 2009-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091104032655id_/http%3A//www.aplaceinthesun.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | A Place in the Sun Live
+# Privacy Policy | A Place in the Sun
 
 This site is owned and operated by APITS Ltd. Your privacy on the Internet is of the utmost importance to us and we want to make your experience online satisfying and safe. We gather certain types of information about our users and this privacy policy discloses what information we gather and how we use it. 
 
