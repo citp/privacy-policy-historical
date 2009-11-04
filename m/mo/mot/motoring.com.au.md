@@ -1,0 +1,114 @@
+> *The following text is extracted and transformed from the motoring.com.au privacy policy that was archived on 2009-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091104144757id_/http%3A//www.carpoint.com.au/carpoint-info/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy - carpoint.com.au
+
+  
+**About this Policy**  
+This policy sets out how carsales.com Limited (carsales) collects, uses and discloses your personal information.
+
+If you disclose personal information to third parties this policy will not apply and you will be subject to the privacy policy of that third party.
+
+By accessing or using carsales services, including the carsales Network you agree to the use and disclosure of your personal information in the manner described in this policy.
+
+Words defined in the carsales Terms and Conditions of Use have the same meaning in this Privacy Policy.
+
+**Carsales and privacy**  
+carsales.com.au is bound by the Privacy Act (1988).
+
+**What personal information is collected**  
+carsales collects personal information that it considers necessary for it, or its related bodies corporate to provide the range of services they offer.
+
+Personal information collected by carsales may include:
+
+  * your name, address and contact details
+  * bank account and credit account details
+  * user ID's and passwords
+  * the services provided to you
+  * records of communications with carsales including records using Communications Services
+
+
+
+**How is personal information collected**  
+carsales collects personal information in a number of ways, including:
+
+  * directly from you when you provide information directly to carsales in person, by phone or in writing (whether electronic or otherwise)
+  * directly from you when you communicate with carsales or any other person using carsales Communications Services
+  * from third parties such as:
+    * carsales related companies; resellers of carsales services and service providers to carsales
+    * operators of linked or served web sites, applications and advertising on the carsales network
+  * from organisations identified or described under the heading "How is personal information disclosed"
+
+
+
+**How is personal information used**  
+Your personal Information may used for the following purposes:
+
+  * to provide the services requested by you
+  * to manage those services including, customer service and billing
+  * to research, develop and improve carsales services
+  * to conduct surveys to determine use and satisfaction with carsales services
+  * to generate statistics in relation to the carsales Network
+  * to promote and market special offers and other services to you  
+
+    * If you do not want to receive these please let us know by clicking on the "contact us" link at the bottom of this page and advising us that you would like to "opt out". In addition, if we email you we will include a way for you to "opt out" of receiving further emails.
+  * for purposes connected with the operation of the carsales Network
+  * to personalise the advertising you see when you visit sites within the carsales Network
+
+
+
+**How is personal information disclosed**  
+carsales may disclose personal information to individuals and organisations other than carsales. The organisations to which we may disclose personal information include:
+
+  * carsales staff and carsales bodies corporate
+  * the public if you advertise with carsales or use publicly available Communications Services
+  * individuals and organisations that advertise with carsales if you submit an enquiry with carsales. Depending on your enquiry these may include:
+    * private advertisers
+    * licensed car dealers
+    * car brokers
+    * operators of Linked Sites
+    * financial service providers
+    * insurance service providers
+    * vehicle inspection service providers
+      * If you do not want carsales to disclose your personal information to these individuals and organisations do not submit enquires
+  * outsourced service providers who assist carsales to provide its services including:
+    * information technology providers
+    * marketing and market research advisers
+    * professional advisers
+  * resellers of carsales services
+  * organisations involved in a sale/transfer of carsales assets, business or shares
+  * government and regulatory authorities as required by law
+
+
+
+**How to access your personal information**  
+You generally have a right to access your personal Information. If you wish to access your personal information please Click here or on the "contact us" link at the bottom of this page. Please remember to provide as much detail as you can as this will help us to find the information. There is no charge for this service.
+
+**What if you don't provide personal information?**  
+If you choose not to provide personal information when requested, carsales may not be able to provide you with the full range of carsales services.
+
+**carsales Network, Linked Sites and personal information**  
+
+
+When you visit a website or use an application on the carsales Network, carsales records anonymous information such as IP address, time, date, referring url, pages accessed and documents downloaded, type of browser and operating system.  
+Carsales also uses “cookies”. A cookie is a small file that stays on your computer until, depending on whether it is a sessional or persistent cookie, you turn your computer off or it expires (typically between 30and 90 days). Cookies may be used by carsales to provide you with the full range of services it offers, remember your preferences, remember the sites you visit on the carsales Network, measure and analyse usage of the carsales Network and for security. Persistent cookies may be used to identify the sites you visit on the carsales Network and to personalise the advertising that you see when you make future visits to that site or other sites within the carsales Network. You may adjust your Internet browser to disable cookies **.** If cookies are disabled carsales may not be able to provide you with the full range of carsales services. 
+
+Cookies may collect and store your personal information. This policy applies to personal information collected via cookies. The carsales Network may include links to third party web sites, co branded web sites and applications and advertising served to the carsales Network by third parties (Linked Sites). Companies who operate Linked Sites may collect personal information through the use of cookies and otherwise. Carsales is not responsible for Linked Sites and recommends you read the privacy policy of Linked Sites before disclosing your personal information.
+
+**What if I have a problem?**  
+If you have a problem, complaint, want to change your personal information or just wish to enquire about privacy please contact us.
+
+Location: | Level 1, 109 Burwood Road, Hawthorn VIC 3122   
+---|---  
+Postal Address: | Locked Bag 3333, Hawthorn VIC 3122   
+Phone: | +61 (03) 9093 8600 (Business Hours EST)  
+Contact: | Janet Gillam  
+Email: | Click here to contact us by email  
+  
+  
+**How this policy changes**  
+This policy may change over time. All changes will be published on this website.
+
+**About security and personal Information**  
+carsales takes reasonable steps to protect personal information collected from misuse, loss, unauthorised access, modifications or disclosure.
+
+_Version 2.2 (August 2009)_
