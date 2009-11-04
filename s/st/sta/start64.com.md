@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the start64.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430153525id_/http%3A//www.start64.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D1963%26Itemid%3D125) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the start64.com privacy policy that was archived on 2009-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091104233548id_/http%3A//www.start64.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D1963%26Itemid%3D125) for the most accurate reproduction.*
 
 # 64bit and x64 - Privacy Policy
 
@@ -15,6 +15,13 @@ Like most standard Web site servers we use log files. This includes internet pro
 ##### Cookies
 
 A cookie is a piece of data stored on the user's computer tied to information about the user. Our site doesn't use cookies. However, Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. If you wish to disable cookies, you may do so through your individual browser options. 
+
+  * Google, as a third party vendor, uses cookies to serve ads on your site. 
+
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
+
+  * 
+
 
 ##### Links
 
