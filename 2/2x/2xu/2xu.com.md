@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 2xu.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621185849id_/http%3A//www.2xu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2xu.com privacy policy that was archived on 2009-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091104223259id_/http%3A//www.2xu.com/privacy) for the most accurate reproduction.*
 
-# 2XU :: Human Performance. Multiplied ::
+# 2XU :: Human Performance. Multiplied :: Privacy
 
 Protecting Your Privacy
 
@@ -61,4 +61,5 @@ This policy may change from time to time. If it does, we will update it on our w
 
 **And Finally…**
 
-Queries or comments regarding our Privacy Policy? Simply call us on +613 98199700, email us at [privacy@2XU.com.au](mailto:privacy@2XU.com.au) or write to us at 2XU, P.O. Box 2010 Hawthorn VIC 3122.
+Queries or comments regarding our Privacy Policy? Simply call us on +613 98199700, email us at [privacy@2XU.com.au](mailto:privacy@2XU.com.au) or write to us at 2XU, P.O. Box 2010 Hawthorn VIC 3122.  
+
