@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imccinemas.ie privacy policy that was archived on 2008-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081223122601id_/http%3A//www.imccinemas.ie/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imccinemas.ie privacy policy that was archived on 2009-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091104094758id_/http%3A//www.imccinemas.ie/privacypolicy.asp) for the most accurate reproduction.*
 
-# IMC Cinema Group Privacy Policy
+# Irish Multiplex Cinemas - Privacy Policy
 
 The IMC Cinema Group highly values the privacy of our customers. This policy is intended to explain to you how we use any information that you may provide to us when visiting our website. 
 
@@ -57,5 +57,3 @@ Lower Georges Street
 Dun Laoghaire  
 Co. Dublin.  
 
-
-[info@imc-cinemas.com](mailto:info@imc-cinemas.com)
