@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the audiko.net privacy policy that was archived on 2009-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090325025945id_/http%3A//audiko.net/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiko.net privacy policy that was archived on 2009-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091104045109id_/http%3A//audiko.net/info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Audiko
+# Privacy policy - Audiko - create free mobile and iPhone ringtones
 
 We reserve the right, at our discretion, to modify or remove portions of this Privacy Policy at any time. This Internet Privacy Policy is in addition to any other terms and conditions applicable to the web site. We do not make any representations about third party web sites that may be linked to the web site.
 
