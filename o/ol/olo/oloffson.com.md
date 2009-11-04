@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oloffson.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627093230id_/http%3A//www.oloffson.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oloffson.com privacy policy that was archived on 2009-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091104013813id_/http%3A//www.oloffson.com/privacy.php) for the most accurate reproduction.*
 
 # Oloffson Directory - Privacy Policy
 
