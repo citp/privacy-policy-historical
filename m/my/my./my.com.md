@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the my.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503055607id_/http%3A//www.my.com/cms/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my.com privacy policy that was archived on 2009-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091104102417id_/http%3A//www.my.com/cms/policy) for the most accurate reproduction.*
 
 # My.com
 
