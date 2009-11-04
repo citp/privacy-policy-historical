@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kogan.com.au privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530014257id_/http%3A//www.kogan.com.au/media/uploads/kogan-privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kogan.com.au privacy policy that was archived on 2009-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091104172605id_/http%3A//www.kogan.com.au/media/uploads/kogan-privacy-policy.pdf) for the most accurate reproduction.*
 
 # Kogan Privacy Policy
 
