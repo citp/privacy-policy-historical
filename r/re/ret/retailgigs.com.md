@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retailgigs.com privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428051809id_/http%3A//www.retailgigs.com/mkt/content/js/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retailgigs.com privacy policy that was archived on 2009-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091104053709id_/http%3A//www.retailgigs.com/mkt/content/js/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # Search Merchandising, Purchasing & Retail Jobs & Resumes, Find Career Resources - RetailGigs.com
 
