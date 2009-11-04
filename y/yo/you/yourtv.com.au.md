@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourtv.com.au privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611012622id_/http%3A//yourtv.com.au/legal/index.cfm%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourtv.com.au privacy policy that was archived on 2009-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091104063408id_/http%3A//www.yourtv.com.au/legal/index.cfm%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy - yourTV.com.au
 
