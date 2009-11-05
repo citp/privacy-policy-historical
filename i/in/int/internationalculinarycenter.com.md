@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internationalculinarycenter.com privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505123221id_/http%3A//www.internationalculinarycenter.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internationalculinarycenter.com privacy policy that was archived on 2009-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091105142711id_/http%3A//www.internationalculinarycenter.com/privacy.htm) for the most accurate reproduction.*
 
 # Tour the International Culinary Center
 
@@ -94,6 +94,6 @@ The International Culinary Center grants you a limited license to access and mak
 
 | 
 
-[](https://web.archive.org/landings/moreinfo/index_1.asp)  
+[](https://web.archive.org/contact.asp)  
 [](http://www.frenchculinary.com/)  
 [](http://www.italianculinaryacademy.com/) 
