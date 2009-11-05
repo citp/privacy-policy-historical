@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the energyblogs.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626052712id_/http%3A//www.energyblogs.com/site/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the energyblogs.com privacy policy that was archived on 2009-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091105201200id_/http%3A//www.energyblogs.com/site/privacy_policy.cfm) for the most accurate reproduction.*
 
 # EnergyBlogs.com
 
