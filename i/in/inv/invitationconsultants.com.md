@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the invitationconsultants.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503073134id_/http%3A//www.invitationconsultants.com/cs-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invitationconsultants.com privacy policy that was archived on 2009-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091105232218id_/http%3A//www.invitationconsultants.com/cs-privacy.aspx) for the most accurate reproduction.*
 
 # Help Center at InvitationConsultants.com - Security & Privacy
 
@@ -16,15 +16,15 @@ Click here to verify: 
 
 ## Privacy Notice: 
 
-_Last updated: 12/23/2008_ | [ ](http://www.truste.org/ivalidate.php?url=www.invitationconsultants.com&sealid=101) | 
+_Last updated: 6/22/2009_ | [ ](http://www.truste.com/ivalidate.php?url=www.invitationconsultants.com&sealid=101) | 
 
-Invitation Consultants, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.invitationconsultants.com.   
+Invitation Consultants, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers www.invitationconsultants.com and www.graduation-announcements-store.com (collectively "the site").   
   
 ---|---  
   
 Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first contact Customer Service at [customerservice@invitationconsultants.com](mailto:customerservice@invitationconsultants.com).  
   
-If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe - [http://www.truste.org/consumers/watchdog_complaint.php](https://www.truste.org/pvr.php?page=complaint) TRUSTe will then serve as a liaison with the Web site to resolve your concerns. Thanks for shopping at www.invitationconsultants.com. We've done our best to ensure the security and privacy of your transactions with us. Be confident that your credit card information and other personal data will be regarded with the highest standards of confidentiality, safety, and security.  
+If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe - [http://www.truste.com/consumers/watchdog_complaint.php](https://www.truste.com/pvr.php?page=complaint) TRUSTe will then serve as a liaison with the Web site to resolve your concerns. Thanks for shopping at www.invitationconsultants.com. We've done our best to ensure the security and privacy of your transactions with us. Be confident that your credit card information and other personal data will be regarded with the highest standards of confidentiality, safety, and security.  
   
   
 (back to top)
@@ -55,6 +55,8 @@ Credit card numbers and expiration dates are processed immediately and are not s
 
 Your friend may contact us at [customerservice@invitationconsultants.com](mailto:customerservice@invitationconsultants.com) to request that we remove this information from our database. 
 
+In the "My Account" Address Book functionality when you enter names and addresses for a third party, we will collect that third party's name and mailing address information, so that we can facilitate the mailing per your request. We will not use this information for any other purpose. 
+
 (back to top)
 
 * * *
@@ -76,29 +78,19 @@ _Customer Service_
 Based upon the personally identifiable information you provide us, we will send you a welcoming email to confirm your order. We will also communicate with you in response to your inquiries and to provide the services you request. We will communicate with you by email or telephone, in accordance with your wishes. You will also get an email to let you know when your proof is ready, when your order ships out. You might also get an e-mail requesting your feedback, after you have received your order.
 
   
-**Information Sharing and Disclosure** _Agents_
+**Information Sharing and Disclosure** _Agents/Service Providers_
 
-****We use an outside shipping company to fulfill orders, and a credit card processing company to bill you for goods and services. These companies do not retain, share, store or use personally identifiable information for any other purposes.
+****We use an outside shipping company to fulfill orders, and a credit card processing company to bill you for goods and services, and a third party service provider to provide live chat service. We use iContact to provide you with e-mails about special offers and promotions. When you place an order with us, we will share your e-mail address as necessary for them to provide that service. These companies do not retain, share, store or use personally identifiable information for any other purposes.
 
- _Service Providers_
+ _BLOG/Testimonial_
 
-****We use iContact to provide you with e-mails about special offers and promotions. When you place an order with us, we will share your e-mail address as necessary for them to provide that service.
-
-They are prohibited from using your personally identifiable information for any other purpose. 
-
-_Live Chat_
-
-****We use a third party service provider to provide for chat service. If you use a bulletin board or chat room on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
-
- _BLOG_
-
-****If you post a comment to our blog, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
+****If you post a comment to our blog or post a testimonial on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
 
  _Legal Disclaimer_
 
 ****We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.
 
-We do not share, sell, rent or trade personally identifiable information with third parties for our promotional purposes. 
+We do not share, sell, rent or trade personally identifiable information with third parties for any promotional purpose. 
 
 (back to top)
 
@@ -112,7 +104,7 @@ We do not share, sell, rent or trade personally identifiable information with th
   
 ****If you no longer wish to receive our promotional communications, you may opt-out of receiving them by following the instructions included in each communication or by emailing us at customerservice@invitationconsultants.com.
 
-In addition you can update or correct your information by emailing us at the same address.
+You can also opt-out of promotional communications and update or correct your information by logging into "My Account" on the site and clicking on "Account Settings".
 
 (back to top)
 
@@ -125,6 +117,8 @@ In addition you can update or correct your information by emailing us at the sam
 We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole.
 
 We do not link this automatically-collected data to personally identifiable information, except to prevent fraud or abuse of our systems. 
+
+We use a third-party tracking service that uses cookies to track non-personally identifiable information about visitors to our site in the aggregate usage volume statistics to track website performance. 
 
   
   
@@ -140,6 +134,8 @@ We use both session ID cookies and persistent cookies. We use session cookies to
 We use persistent cookies set by one of our service providers only to measure and track the effectiveness of certain marketing campaigns.
 
 If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as your shopping cart, will be limited. 
+
+Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by this site only. 
 
   
   
