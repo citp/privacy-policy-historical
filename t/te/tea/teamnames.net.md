@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teamnames.net privacy policy that was archived on 2009-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090506061254id_/http%3A//www.teamnames.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamnames.net privacy policy that was archived on 2009-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091105135920id_/http%3A//www.teamnames.net/privacy-policy) for the most accurate reproduction.*
 
-# TeamNames.net Privacy Policy
+# Privacy Policy - TeamNames.net
 
 Your access and usage of TeamNames.net ("we", "us", or "the website") is subject to the following privacy policy, [Terms & Conditions of Use](https://web.archive.org/terms-and-conditions "Read the website Terms & Conditions") and all other applicable laws.
 
@@ -17,3 +17,7 @@ On occasion, we may collaborate with third parties in order to complete tasks su
 ### Opt-Out From Further Messages or Communications
 
 If you have previously opted-in to receive further communications from us, then you can opt-out of such messages by logging into your account and un-subscribing from the service. Should you experience any issues with un-subscribing then you can [contact us](https://web.archive.org/contact).
+
+### Website Advertisments
+
+We use Google as a third party vendor for serving advertisements, which may rely upon cookies to function. Google use the DART cookie to enable itself, and its partners to serve adverts based upon users' visits to this and/or other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
