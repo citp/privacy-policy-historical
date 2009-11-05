@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dearfoams.com privacy policy that was archived on 2009-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090621230331id_/http%3A//www.dearfoams.com/info/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dearfoams.com privacy policy that was archived on 2009-11-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091105120946id_/http%3A//www.dearfoams.com/info/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
    <title>Privacy Policy - Dearfoams</title>
@@ -97,7 +97,7 @@
                <tr>
                   <td class="search_label">SEARCH</td>
                   <td class="search_textbox">
-                     <input type="text" class="textbox" name="Search" onblur="if (this.value == '') {this.value = 'Enter Search';}" onfocus="if(this.value == 'Enter Search') {this.value = '';}" value="Enter Search">
+                     <input type="text" class="textbox" name="Search" id="search">
                   </td>
                   <td class="search_button">
                      <input type="image" src="/images/siteimgs/dearfoams/btn_go.gif" align="absmiddle" onclick="if (document.search.Search.value == &quot;&quot; || document.search.Search.value == &quot;Enter Search&quot;) return false">
@@ -116,6 +116,8 @@
 
 <table border="0" cellspacing="0" cellpadding="0" class="breadcrumbtable">
 <tbody><tr align="left"><td id="pbar" height="1px" valign="top" align="left"></td></tr>
+
+
 
 
 
@@ -344,6 +346,7 @@ This Privacy Policy was last updated on: January 5, 2009.
 <map name="footer-brands">
 <area shape="rect" coords="0,1,112,32" href="http://www.superga-usa.com" target="_blank">
 <area shape="rect" coords="147,1,236,35" href="http://www.terrasoles.com" target="_blank">
+<area shape="rect" coords="262,0,337,34" href="http://www.mycollegefootwear.com" target="_blank">
 </map>
 
       
@@ -359,7 +362,7 @@ This Privacy Policy was last updated on: January 5, 2009.
                   </td>
                   <td class="subscription_spacer">&nbsp;</td>
                   <td class="subscription_textbox">
-                     <input type="text" onblur="if (this.value == '') {this.value = 'Enter e-mail address';}" onfocus="if(this.value == 'Enter e-mail address') {this.value = '';}" value="Enter e-mail address" class="textbox" name="email">
+                     <input type="text" class="textbox subscribe" name="email">
                   </td>
                   <td class="subscription_spacer">&nbsp;</td>
                   <td class="subscription_button">
@@ -407,7 +410,12 @@ This Privacy Policy was last updated on: January 5, 2009.
                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                   
                
-         <a href="/info/sponsor.jsp">Making Memories Breast Cancer Foundation™</a>
+         <a href="/info/sponsor.jsp">Making Memories Foundation™</a>
+         
+                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                  
+               
+         <a href="/SiteGuide.jsp">Site Guide</a>
          
          </div>
          <br>
@@ -445,8 +453,16 @@ This Privacy Policy was last updated on: January 5, 2009.
 
 <script type="text/javascript">
 
+jQuery("#search").inputPrompt({prompt:'Enter Search'});
+
+
+jQuery(".subscribe").inputPrompt({prompt:'Enter Email Address'});
 
 </script>
+
+
+   
+<!-- j2009-10-20a / [islive] -->
 
 
 
