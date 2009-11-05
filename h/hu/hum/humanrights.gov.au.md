@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the humanrights.gov.au privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620090530id_/http%3A//www.humanrights.gov.au/site/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humanrights.gov.au privacy policy that was archived on 2009-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091105180919id_/http%3A//www.humanrights.gov.au/site/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy - Australian Human Rights Commission
 
 ## Privacy Policy 
 
-The Australian Human Rights Commission seeks to adhere to the [Guidelines for Federal and ACT Government World Wide Websites](http://www.privacy.gov.au/internet/web/index.html) developed by the Australian Privacy Commissioner. 
+The Australian Human Rights Commission seeks to adhere to the [Guidelines for Federal and ACT Government World Wide Websites](http://www.privacy.gov.au/materials/types/guidelines/view/6057) developed by the Australian Privacy Commissioner. 
 
 This section explains the type of information that is collected by the Commission, how such information is used, under what circumstances and to whom it may be disclosed, and describes security measures in place on the website. 
 
@@ -23,7 +23,7 @@ When you use this web site, our Internet Service Provider makes a record of your
 
 We will only record your e-mail address if you send us a message. It will only be used for the purpose for which you have provided it and will not be added to a mailing list unless you request that this occur. We will not use your e-mail address for any other purpose, and will not disclose it, without your consent.
 
-The Internet is an insecure medium however, and users should be aware that there are inherent risks in transmitting information across the Internet. Information submitted unencrypted via email may be at risk of being intercepted, read or modified. If you do not want your message sent by email you can [post it to the Commission](https://web.archive.org/web/20090620090530id_/http%3A//www.humanrights.gov.au/about/contacts/index.html). 
+The Internet is an insecure medium however, and users should be aware that there are inherent risks in transmitting information across the Internet. Information submitted unencrypted via email may be at risk of being intercepted, read or modified. If you do not want your message sent by email you can [post it to the Commission](https://web.archive.org/web/20091105180919id_/http%3A//www.humanrights.gov.au/about/contacts/index.html). 
 
 ### Access to information collected 
 
@@ -35,7 +35,9 @@ This site contains links to other sites. The Australian Human Rights Commission 
 
 ### Cookies 
 
-A 'cookie' is a small piece of information that is placed on the user's hard drive while navigating a website. The Australian Human Rights Commission website is a cookie-free site. 
+A 'cookie' is a small piece of information that is placed on the user's hard drive while navigating a website. Cookies are used on this website for the internal function of our site navigation scripts, events calendar scripts and browser size determination. They have no function beyond those elements.
+
+The cookies do not send any identifying information about the user to the Commission.
 
 ### Further Information 
 
@@ -50,6 +52,6 @@ Sydney NSW 2001
 
 Last updated 
 
-May 19, 2009
+August 5, 2009
 
 . 
