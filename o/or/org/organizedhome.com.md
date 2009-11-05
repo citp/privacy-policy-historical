@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the organizedhome.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605202821id_/http%3A//organizedhome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organizedhome.com privacy policy that was archived on 2009-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091105084939id_/http%3A//organizedhome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Organized Home
 
@@ -12,7 +12,7 @@ This information pertains to the following sites, all of which are wholly owned 
 
   * [OrganizedHome.Com](http://organizedhome.com/)
   * [OrganizedScrapbooks.Com](http://organizedscrapbooks.com/)
-  * [OrganizedChristmas.Com](http://organizedchristmas.com/)
+  * [OrganizedChristmas.Com](http://christmas.organizedhome.com/)
   * [ChristmasPlanner.Com](http://christmasplanner.com/)
 
 
@@ -50,5 +50,6 @@ Privacy Policy
 1262 Llandwood Ave STE: 1209  
 Richland WA 99352
 
+  
   
 
