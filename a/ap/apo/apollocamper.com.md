@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apollocamper.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422085127id_/http%3A//www.apollocamper.com/campervan-hire-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apollocamper.com privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106000127id_/http%3A//www.apollocamper.com/campervan-hire-privacy-policy.aspx) for the most accurate reproduction.*
 
 # Apollo Motorhome Holidays Privacy Policy
 
@@ -10,16 +10,16 @@ Please refer to the section in this policy titled “What you consent and agree 
 
 Topics
 
-  * [About Apollo](https://web.archive.org/web/20090422085127id_/http%3A//www.apollocamper.com/campervan-hire-privacy-policy.aspx#1)
-  * [ What personal information does Apollo collect about me and how is it collected?](https://web.archive.org/web/20090422085127id_/http%3A//www.apollocamper.com/campervan-hire-privacy-policy.aspx#2)
-  * [How is my personal information used or disclosed by Apollo?](https://web.archive.org/web/20090422085127id_/http%3A//www.apollocamper.com/campervan-hire-privacy-policy.aspx#3)
-    * [General purposes](https://web.archive.org/web/20090422085127id_/http%3A//www.apollocamper.com/campervan-hire-privacy-policy.aspx#4)
-    * [Use or disclosure for direct marketing purposes ](https://web.archive.org/web/20090422085127id_/http%3A//www.apollocamper.com/campervan-hire-privacy-policy.aspx#5)
-  * [How does Apollo protect my information? ](https://web.archive.org/web/20090422085127id_/http%3A//www.apollocamper.com/campervan-hire-privacy-policy.aspx#6)
-  * [ How to access your information ](https://web.archive.org/web/20090422085127id_/http%3A//www.apollocamper.com/campervan-hire-privacy-policy.aspx#7)
-  * [Who can I contact for further information? ](https://web.archive.org/web/20090422085127id_/http%3A//www.apollocamper.com/campervan-hire-privacy-policy.aspx#8)
-  * [What you consent and agree to](https://web.archive.org/web/20090422085127id_/http%3A//www.apollocamper.com/campervan-hire-privacy-policy.aspx#9)
-  * [ Changes to this Policy](https://web.archive.org/web/20090422085127id_/http%3A//www.apollocamper.com/campervan-hire-privacy-policy.aspx#10)
+  * [About Apollo](https://web.archive.org/web/20091106000127id_/http%3A//www.apollocamper.com/campervan-hire-privacy-policy.aspx#1)
+  * [ What personal information does Apollo collect about me and how is it collected?](https://web.archive.org/web/20091106000127id_/http%3A//www.apollocamper.com/campervan-hire-privacy-policy.aspx#2)
+  * [How is my personal information used or disclosed by Apollo?](https://web.archive.org/web/20091106000127id_/http%3A//www.apollocamper.com/campervan-hire-privacy-policy.aspx#3)
+    * [General purposes](https://web.archive.org/web/20091106000127id_/http%3A//www.apollocamper.com/campervan-hire-privacy-policy.aspx#4)
+    * [Use or disclosure for direct marketing purposes ](https://web.archive.org/web/20091106000127id_/http%3A//www.apollocamper.com/campervan-hire-privacy-policy.aspx#5)
+  * [How does Apollo protect my information? ](https://web.archive.org/web/20091106000127id_/http%3A//www.apollocamper.com/campervan-hire-privacy-policy.aspx#6)
+  * [ How to access your information ](https://web.archive.org/web/20091106000127id_/http%3A//www.apollocamper.com/campervan-hire-privacy-policy.aspx#7)
+  * [Who can I contact for further information? ](https://web.archive.org/web/20091106000127id_/http%3A//www.apollocamper.com/campervan-hire-privacy-policy.aspx#8)
+  * [What you consent and agree to](https://web.archive.org/web/20091106000127id_/http%3A//www.apollocamper.com/campervan-hire-privacy-policy.aspx#9)
+  * [ Changes to this Policy](https://web.archive.org/web/20091106000127id_/http%3A//www.apollocamper.com/campervan-hire-privacy-policy.aspx#10)
 
 
 
@@ -126,4 +126,4 @@ When you provide us with your personal information, you consent and agree to our
 
 Changes to this Policy 
 
-This is our current privacy policy outlining our personal information management practices. It replaces any other privacy policy published by us to date. We may change this policy at any time. To obtain an up to date copy of the policy, please contact Apollo (see "[Who can I contact for further information?](https://web.archive.org/web/20090422085127id_/http%3A//www.apollocamper.com/campervan-hire-privacy-policy.aspx#8)" above). 
+This is our current privacy policy outlining our personal information management practices. It replaces any other privacy policy published by us to date. We may change this policy at any time. To obtain an up to date copy of the policy, please contact Apollo (see "[Who can I contact for further information?](https://web.archive.org/web/20091106000127id_/http%3A//www.apollocamper.com/campervan-hire-privacy-policy.aspx#8)" above). 
