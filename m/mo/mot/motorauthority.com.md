@@ -1,60 +1,112 @@
-> *The following text is extracted and transformed from the motorauthority.com privacy policy that was archived on 2009-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090511223111id_/http%3A//www.motorauthority.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorauthority.com privacy policy that was archived on 2009-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091105174004id_/http%3A//www.motorauthority.com/privacypolicy) for the most accurate reproduction.*
 
-# MotorAuthority.com - Car news, reviews, spy shots and videos
+# Privacy Policy - MotorAuthority - MotorAuthority
 
-Access to the MotorAuthority website is conditional upon the user's acceptance of the terms, conditions, notices and disclaimers herein. Use of, and/or access to MotorAuthority operates as an agreement to all terms and conditions listed below. 
+Thank you for your interest in this website's services and privacy information. This privacy policy applies to all websites within the [High Gear Media Network](http://www.highgearmedia.com/oursites/). Because the network sites share a common platform and registration system, the information that you provide on one site may be used when you visit any other site within the network.
 
-All information, text, material, graphics, software and advertisements on the website, hereafter labeled 'Content,' are strictly the property of MotorAuthority, its suppliers, and/or licensors unless stated otherwise. 
+This privacy policy does not apply to information that you choose to publicly post to or display on the site. Please note that you grant us a license to all publicly-posted content and it can be syndicated to other sites and content partners.
 
-By submitting information to the website, including any messages, comments or other submissions, the submitter gives MotorAuthority the right to unrestricted use of the information. 
+**What may this site collect?**  
+You can visit the site and use many of its features without having to identify yourself or reveal any personal information.
 
-The comments section on MotorAuthority is designed as a place to voice opinion, express feelings and hold a conversation with other members of the site. Keeping this in mind, MotorAuthority can choose to enforce certain guidelines in order to protect the interests of all users and to ensure discussions stay on topic. These guidelines are in place to ensure that users are given the most enjoyable reading experience possible. Therefore we ask that you please: 
+If you register with the site, participate or participate in various other features of the site (such as post a comment or enroll in a contest), you may be asked to provide personally identifiable information such as your name, email address, or address ("Personal Information"). In addition, you may be asked to provide non-personally identifiable information such as location, personal or professional interests, demographic information (such as age and gender), or to comment on your experience with our site and/or services. We may also get data about users from third parties.
 
-  * Do not post threatening, harassing, defamatory, or libelous material. 
-  * Do not make false, misleading or inflammatory statements on purpose. 
-  * Do not offer to sell or buy any products or services. 
-  * Do not post material that infringes copyright. 
-  * Do not post information that you know to be confidential, sensitive or illegal in any manner. 
-  * Understand that MotorAuthority takes no responsibility for information posted in the Comments. 
+If you register with the site through Facebook Connect, we will receive information from your Facebook profile from Facebook.
+
+We may also collect data based on users' usage of the site and its various features, but it is not personally identifiable except as described below under the IP Addresses section ("Aggregate Data"). In addition, we may take your personal information and create anonymized information by excluding information that makes it personally identifiable to you ("Anonymized Data").
+
+**What about IP addresses?**  
+We compile logs of IP addresses of site users for administrative and analytical purposes. We do not routinely collect any personally identifiable information through our compilation of IP addresses. However, in cases of suspected abuse or service problems, we may use an IP address in conjunction with other personally identifiable information to enforce our terms of use and/or to protect or troubleshoot the site, its users or others who may be affected. Except as provided in "How does this site use the data it collects?" we will not share personally identifiable information associated with IP addresses with third parties.
+
+**How does this site use and share the data it collects?**  
+We use the data we collect from our users in the following manner: 
+
+  1. a) to help us improve our content and services
+  2. b) to allow readers to participate in site-related activities and events
+  3. c) to show advertising and content that we think may be of interest to a particular user
+  4. d) to enforce our terms of service
+  5. e) to send mailings, as described under "How do you communicate with me?"
 
 
 
-Links to external websites from MotorAuthority are in no way an endorsement of the content, nature or material of that website. MotorAuthority does not control, monitor, or guarantee the information contained in any external website and cannot be held liable for any loss incurred as a result of visiting an external website. 
+We may share Aggregated Data and Anonymized Data with third parties.
 
-MotorAuthority, its employees and agents cannot guarantee the accuracy or timeliness of Content on its website, nor can it be held liable for any of the Content provided by outside users. However, every reasonable effort is made to present the most current and accurate Content at all times. 
+We will not provide your Personal Information to a third party in the absence of your express approval, except as follows: 
 
-Anyone reading MotorAuthority does so at their own will and agrees not to hold MotorAuthority, its employees and agents liable for any of the Content provided or any consequence of the provision of the Content. 
+  1. a) With trusted third party service providers who help us in the operation of our business and who have agreed to maintain the confidentiality of the data
+  2. b) In cases of abusive behavior or suspected violations of our terms of use in order to investigate the violation and to take appropriate action
+  3. c) Where we have a good faith belief that it is required in order to respond to subpoenas, court orders, or other legal process, to prevent fraud or imminent harm, or to establish or exercise our legal rights or defend against legal claims
+  4. d) If this site is sold or transferred to another company, your Personal Information will also be transferred. We will notify you if your information will be subject to a different privacy policy.
 
-All Content on MotorAuthority, including these terms and conditions, are subject to change without notice. Please fill out the form below if you have any questions concerning the site or complaints. 
 
-We at MotorAuthority are dedicated to preserving and protecting your privacy, and we will not collect any information without your consent. In order to better serve our readership, however, we may from time to time use information about our readers to improve, customize, or otherwise benefit the website. Under some circumstances, we will also allow third parties access to this information. 
 
-#### Use by Third Parties
+**How may you communicate with me?**  
+We may send you administrative announcements communicating information about the site, your account or content that you have posted to the account. You may not opt out of these messages. If we are required by law to provide you with any notice, such as in the event of a security breach, you consent to receiving notice to the email address you have provided us. If you sign up to receive any newsletters, you will be able to opt-out of those newsletters by following the procedures described in the newsletter.
 
-MotorAuthority may disclose your information to its service providers and contractors from time to time. We may also share your information with third parties that provide prizes for competitions or reader offers. We generally require these third parties to protect your information in the same way we do, although this is in no way a guarantee of any actions undertaken by a third party. 
+**What are our policies regarding third parties?**  
+This privacy policy does not apply to information collected by advertisers, vendors or other third parties whose content, ads or promotions appear on our website but who operate independently of this site. It is advised that readers first check the individual privacy policies of such third parties before providing personal information.
 
-#### Use of Aggregate Data
+Links to third party sites are provided solely as a convenience to our readers. If you use these links, you will leave this site. It is not possible to review all such sites and we have no control over, nor do we take responsibility for, their individual content or privacy policies.
 
-We may collect certain non-personal information and aggregate data to optimise our Web page for you. We may use such non-personal information for internal purposes, including but not limited to improving the content of our sites. 
+Advertisers, survey groups and other sites linked to or from this site may seek to obtain additional information from users. For example, they may serve "cookies," conduct surveys, request personal information or take actions not covered by our privacy policy. This information will not be gathered by or on behalf of this site unless clearly authorized and stated in such solicitations. If you choose to do business with vendors on this site, you may be asked to provide personal information, including credit and credit card data. Any information you share will be covered only by that party's own privacy policy.
 
-This statistical compilation and analysis of information may also be used by MotorAuthority or provided to others for purposes including, but not limited to, marketing, advertising or research purposes. 
+If you decide to provide any of these outside parties with credit information and other personal information, you do so entirely at your own risk.
 
-#### Public Information
+**What About "Cookies"?**  
+"Cookies" are small pieces of information that may be served to you while visiting a Web site, and which are then stored on your computer's hard drive.
 
-Any information posted in Comments or in Forums is available for the public at large to read and view. MotorAuthority cannot guarantee the security of any information you disclose in Comments or Forums. For our policy on comments posted on MotorAuthority please read our guidelines in our Terms and Conditions. 
+It is possible you will be served cookies by us, by our advertisers or by the companies that help us deliver advertising on this site. Cookies help us and advertisers identify users on our site and on other sites. Please see below under "What are your advertising practices" to see how these cookies are used.
 
-#### Legal proceedings
+Web browsers, including Internet Explorer and Netscape Navigator, automatically accept cookies. But they also offer a user the ability to block them, as well. Doing so will prevent you from using few, if any of the features of this site. Instructions for blocking cookies can be found in your browser help tab.
 
-We will make every effort to preserve user privacy but MotorAuthority will disclose information if compelled by law. 
+**What are the site's advertising practices?**  
+We use some third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites, including information collected through cookies, in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here. <http://www.networkadvertising.org/managing/opt_out.asp>
 
-#### Business Transitions
+You can also learn more about specific companies we may allow to place cookies on our site and their policies regarding use of that data and advertising targeting by visiting the following additional links: 
 
-If MotorAuthority is acquired by or merges with another firm, the assets of our website, including but not limited to any personal information or aggregate data collected, will likely be transferred to the new firm, though no guarantee can be made on whether this same privacy policy and its terms will be preserved. 
+  * Exelate:  
+<http://exelate.com/new/consumers-optoutpreferencemanager.html>
+  
 
-#### Online Links to Third Parties
+  * Tacoda/Platform-A:  
+<http://www.platform-a.com/advertiser-solutions/audience-targeting/behavioral-targeting/consumer-notice>
+  
 
-MotorAuthority may establish relationships with business partners that allow visitors to link directly to sites operated by these partners. These sites may collect personal information from you that may be shared with us. This Privacy Statement will apply to any personal information we obtain in this manner, although as stated above we cannot guarantee the actions of any third party in relation to your information. 
+  * Audience Science:  
+<http://audiencescience.com/privacy.asp>
+  
 
-Motor Authority is not responsible for the content or practices of Web sites operated by third parties that are linked to our sites. These links are meant for the user's convenience only. Links to third party sites do not constitute sponsorship, endorsement or approval by MotorAuthority of the content, policies or practices of those third party sites. Once you have left our site via such a link, you should check the applicable privacy policy of the third party site. 
+  * Blue Kai:  
+<http://www.bluekai.com/optout.html>
+  
 
-#### Contact us
+  * Google/Doubleclick:  
+<http://www.google.com/intl/en/privacy_ads.html>
+  
+
+
+
+If you do not wish to receive targeted advertising on our site, you can always elect to block cookies as described under "What about cookies?"
+
+**How about children's privacy?**  
+We are committed to protecting the privacy needs of children and we encourage parents and guardians to take an active role in their children's online activities. This site is not intended for under the age of 13. We do not knowingly collect information from children under the age of 13 and we do not target the Sites to children under the age of 13.
+
+**What are the site's security practices?**  
+We have implemented reasonable measures to help protect your user Information from loss, misuse, or unauthorized access or disclosure. Unfortunately, however, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your user Information, we cannot guarantee its security.
+
+**How will changes to this policy be communicated?**  
+We may update this Policy from time to time. If we make any material change to the way in which we treat your User Information, we will inform you of such change by posting an updated privacy policy at this location or through email notification, at our option. Any updated version of this Privacy Policy will be effective as soon as it is posted on this site.
+
+**How may users change or terminate their account?**  
+You have the right to terminate your account or update any Personal Information collected by this site by contacting us at [feedback@highgearmedia.com](http://www.highgearmedia.com/contact/). If you terminate your account, your Personal Information will be removed from our system, subject to our right to retain any data necessary to investigate any violation of terms of use or alleged harmful or illegal activity.
+
+For some features, such as newsletter mailings, specified procedures to update your personal information or opt out of the service can be found in your account settings or on the page where you signed up for that service.
+
+**How may users communicate with the site?**  
+You can contact us for additional information by visiting this page: <http://www.highgearmedia.com/contact/>
+
+You may also correspond by standard post at:  
+Privacy Policy,   
+High Gear Media   
+385 Forest Ave   
+Palo Alto, CA 94301 
