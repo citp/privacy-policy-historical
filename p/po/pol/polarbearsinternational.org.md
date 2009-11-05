@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the polarbearsinternational.org privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617035113id_/http%3A//www.polarbearsinternational.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polarbearsinternational.org privacy policy that was archived on 2009-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091105163826id_/http%3A//www.polarbearsinternational.org/privacy-policy) for the most accurate reproduction.*
 
-# Polar Bears International - Privacy Policy
+# Privacy Policy - Polar Bears International
 
 Polar Bears International respects your privacy. We do not knowingly or willingly share information with any third party about our membership, online store customers, or about visitors to our web site.
 
