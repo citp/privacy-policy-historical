@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the expopromoter.com privacy policy that was archived on 2009-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090606065533id_/http%3A//expopromoter.com/Static/lang/en/page/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expopromoter.com privacy policy that was archived on 2009-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091105141440id_/http%3A//www.expopromoter.com/Static/lang/en/page/privacyPolicy) for the most accurate reproduction.*
 
-# ExpoPromoter: trade shows and fairs database for your website
+# ExpoPromoter: Business Trade Shows, Exhibitions, Trade Fairs, Events - International Trade Show Directory 2009
 
 ExpoPromoter is committed to protecting your privacy and ensuring you have a fruitful experience on our website. This privacy policy was created in order to explain you what information and why may be collected by ExpoPromoter and how it will be used and disclosed to our users.   
 All information relating the events dates and the location is subject to change. ExpoPromoter is not responsible for notifying its users about any amendments, so you may have to contact the events organizers for the updated information. 
