@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bringfido.com privacy policy that was archived on 2009-06-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090619161749id_/http%3A//www.bringfido.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bringfido.com privacy policy that was archived on 2009-11-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091105134432id_/http%3A//www.bringfido.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -14,10 +14,14 @@
 		<script type="text/javascript" src="/site_media/yui/container/container-min.js"></script>
 		<script type="text/javascript" src="/site_media/yui/calendar/calendar-min.js"></script> 
 		<script type="text/javascript" src="/site_media/yui/autocomplete/autocomplete-min.js"></script>
+		<script type="text/javascript" src="/site_media/yui/dragdrop/dragdrop-min.js"></script> 
+		<script type="text/javascript" src="/site_media/yui/slider/slider-min.js"></script> 
 		
+		<script type="text/javascript" src="/site_media/js/utils.js"></script>
 		<script type="text/javascript" src="/site_media/js/autocomplete.js"></script>
 		<script type="text/javascript" src="/site_media/js/cal.js"></script>
 		<script type="text/javascript" src="/site_media/js/tab_search.js"></script>
+		<script type="text/javascript" src="/site_media/js/default_text.js"></script>
 	
 	
 	<title>BringFido.com Privacy Policy</title>
@@ -32,49 +36,38 @@
 	<div id="main">
 		<div id="header">
 			
-			<div id="top_bar">
-				<form method="get" action="/search/">
-					<input type="text" name="terms" style="width:120px;padding:2px;">
-					<input type="image" name="search" src="/site_media/images/go_search_b.gif" style="vertical-align:bottom;">
-					<span style="padding-left:10px;">
-						<a href="/promo/tellafriend/five_bucks">Tell a Friend</a> |
-						<a href="/promo/newsletter">Newsletter</a> |
-						<a href="/help">Customer Service</a>
-					</span>
-				</form>
-			</div>
 			<div id="logo">
 				<a href="/"><img src="/site_media/images/bf_logo.gif" alt="Bring Fido Logo"></a>
 			</div>
-			<div id="call"></div>
-			<div id="dog_walk"></div>
-			<div id="grass_strip"></div>
+			<div id="call">
+				<img src="/site_media/images/bf_call.gif" alt="Speak to a Pet Friendly Travel Expert | 877-411-FIDO">
+			</div>
 			<div id="header_nav">
 				<ul>
-					<li><a href="/destination">DESTINATIONS</a></li>
-					<li><a href="/lodging">HOTELS</a></li>
-					<li><a href="/attraction">PARKS &amp; BEACHES</a></li>
-					<li><a href="/restaurant">RESTAURANTS</a></li>
-					<li><a href="/event">EVENTS</a></li>
-					<li><a href="/travel">AIRLINE POLICIES</a></li>
-					<li><a href="/photo">PHOTOS</a></li>
-					<li><a href="/forum">FORUM</a></li>
-					<li><a href="/promo/freebies">FREEBIES</a></li>
-					<li><a href="/resource">RESOURCES</a></li>
+					<li><a href="/destination/">DESTINATIONS</a></li>
+					<li><a href="/lodging/">LODGING</a></li>
+					<li><a href="/travel/">AIR TRAVEL</a></li>
+					<li><a href="/attraction/">ATTRACTIONS</a></li>
+					<li><a href="/restaurant/">RESTAURANTS</a></li>
+					<li><a href="/resource/">SERVICES</a></li>
+					<li><a href="/event/">EVENTS</a></li>
+					<li><a href="/photo/">PHOTOS</a></li>
+					<li><a href="/forum/">FORUM</a></li>
 				</ul>
+				<div id="tab_left"></div>
+				<div id="tab_right"></div>
 			</div>
 			
 		</div>
 		<div id="body">
-			<div id="left_edge"></div>
-			<div id="right_edge"></div>
-			<div id="panel" style="background-image:url('/site_media/images/panoramic/static/newsletter.jpg');">
-				<div id="panel_bg"></div>
-				
-					<div id="content_wide">
+			<div id="body_inner">
+				<div id="panel" style="background-image:url('/site_media/images/panoramic/static/newsletter.jpg');">
 					
-						<div class="content_inner">
+						<div id="content_wide">
 						
+							<div class="content_inner">
+							
+							
 	<div id="detail_header">
 		<div class="title">Privacy Policy</div>
 
@@ -312,31 +305,23 @@
 		travel reservations) from our records. You can submit concerns regarding our Privacy Policy 
 		or our privacy practices by sending an email to privacy@bringfido.com. Please reference the 
 		privacy policy in your subject line. You can also write to us in care of BringFido.com, 
-		PO Box 2607, Winter Park, FL 32790 Attn: Privacy Team.</p> 
+		2144 Radnor Court, North Palm Beach, FL 33408 Attn: Privacy Team.</p> 
 
 		<p style="font-weight:bold;">Thank you for using BringFido.com!</p>
 	</div>
 
-						</div>
-					
-					</div>
-					<div id="content_narrow">
-						<div class="content_inner">
+							</div>
 						
+						</div>
+						<div id="content_narrow">
+							<div class="content_inner">
 							
-							<div id="search_container">
-								<div id="search_controls">
-									<div id="btn_stay" class="tab hover" style="left:20px;">STAY</div>
-									<div style="position:absolute;left:60px;color:#ddd;">|</div>
-									<div id="btn_play" class="tab" style="left:69px;">PLAY</div>
-									<div style="position:absolute;left:110px;color:#ddd;">|</div>
-									<div id="btn_eat" class="tab" style="left:118px;">EAT</div>
-								</div>
-								<div id="search_box">
-									<div class="sidebar_top"></div>
-									<div class="sidebar_bottom"></div>
-									<form id="tab_search" action="/lodging/search/" method="post">
-										<div id="search_box_contents">
+								
+								<div class="search_container">
+									<div class="search_border">
+										<div class="search_box">
+											<form id="tab_search" action="/lodging/search/" method="post">
+												<div id="search_box_contents">
 
 <script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
 <script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app56.us.archive.org';v.server_ms=705;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/_static/js/ait-client-rewrite.js" charset="utf-8"></script>
@@ -360,11 +345,165 @@ __wbhack.init('https://web.archive.org/web');
 	
 
 	<input name="arrival" default="Arrival Date (optional)" value="Arrival Date (optional)" class="cleardefault" type="text" id="id_arrival">
-    <div id="cal_arrive_box" class="calendar"></div>
+    <div id="cal_arrive_box" class="calendar yui-calcontainer single withtitle"><iframe src="javascript:false;" style="opacity: 0;"></iframe><div class="title">Check-in Date</div><table cellspacing="0" class="yui-calendar y2020" id="widget_id_arrival">
+<thead>
+<tr>
+<th colspan="7" class="calhead">
+<div class="calheader">
+<a class="calnavleft">&nbsp;</a>
+January 2020
+<a class="calnavright">&nbsp;</a>
+</div>
+</th>
+</tr>
+<tr class="calweekdayrow">
+<th class="calweekdaycell">Su</th>
+<th class="calweekdaycell">Mo</th>
+<th class="calweekdaycell">Tu</th>
+<th class="calweekdaycell">We</th>
+<th class="calweekdaycell">Th</th>
+<th class="calweekdaycell">Fr</th>
+<th class="calweekdaycell">Sa</th>
+</tr>
+</thead>
+<tbody class="m1 calbody">
+<tr class="w1">
+<td class="calcell oom calcelltop calcellleft" id="widget_id_arrival_cell0">29</td>
+<td class="calcell oom calcelltop" id="widget_id_arrival_cell1">30</td>
+<td class="calcell oom calcelltop" id="widget_id_arrival_cell2">31</td>
+<td class="calcell wd3 d1 previous calcelltop" id="widget_id_arrival_cell3">1</td>
+<td class="calcell wd4 d2 previous calcelltop" id="widget_id_arrival_cell4">2</td>
+<td class="calcell wd5 d3 previous calcelltop" id="widget_id_arrival_cell5">3</td>
+<td class="calcell wd6 d4 previous calcelltop calcellright" id="widget_id_arrival_cell6">4</td>
+</tr>
+<tr class="w2">
+<td class="calcell wd0 d5 previous calcellleft" id="widget_id_arrival_cell7">5</td>
+<td class="calcell wd1 d6 previous" id="widget_id_arrival_cell8">6</td>
+<td class="calcell wd2 d7 previous" id="widget_id_arrival_cell9">7</td>
+<td class="calcell wd3 d8 previous" id="widget_id_arrival_cell10">8</td>
+<td class="calcell wd4 d9 previous" id="widget_id_arrival_cell11">9</td>
+<td class="calcell wd5 d10 previous" id="widget_id_arrival_cell12">10</td>
+<td class="calcell wd6 d11 previous calcellright" id="widget_id_arrival_cell13">11</td>
+</tr>
+<tr class="w3">
+<td class="calcell wd0 d12 previous calcellleft" id="widget_id_arrival_cell14">12</td>
+<td class="calcell wd1 d13 previous" id="widget_id_arrival_cell15">13</td>
+<td class="calcell wd2 d14 previous" id="widget_id_arrival_cell16">14</td>
+<td class="calcell wd3 d15 previous" id="widget_id_arrival_cell17">15</td>
+<td class="calcell wd4 d16 previous" id="widget_id_arrival_cell18">16</td>
+<td class="calcell wd5 d17 previous" id="widget_id_arrival_cell19">17</td>
+<td class="calcell wd6 d18 previous calcellright" id="widget_id_arrival_cell20">18</td>
+</tr>
+<tr class="w4">
+<td class="calcell wd0 d19 previous calcellleft" id="widget_id_arrival_cell21">19</td>
+<td class="calcell wd1 d20 previous" id="widget_id_arrival_cell22">20</td>
+<td class="calcell wd2 d21 previous" id="widget_id_arrival_cell23">21</td>
+<td class="calcell wd3 d22 previous" id="widget_id_arrival_cell24">22</td>
+<td class="calcell wd4 d23 previous" id="widget_id_arrival_cell25">23</td>
+<td class="calcell wd5 d24 previous" id="widget_id_arrival_cell26">24</td>
+<td class="calcell wd6 d25 previous calcellright" id="widget_id_arrival_cell27">25</td>
+</tr>
+<tr class="w5">
+<td class="calcell wd0 d26 previous calcellleft" id="widget_id_arrival_cell28">26</td>
+<td class="calcell wd1 d27 previous" id="widget_id_arrival_cell29">27</td>
+<td class="calcell wd2 d28 previous" id="widget_id_arrival_cell30">28</td>
+<td class="calcell wd3 d29 previous" id="widget_id_arrival_cell31">29</td>
+<td class="calcell wd4 d30 today selectable" id="widget_id_arrival_cell32"><a href="#" class="selector">30</a></td>
+<td class="calcell wd5 d31 selectable" id="widget_id_arrival_cell33"><a href="#" class="selector">31</a></td>
+<td class="calcell oom calcellright" id="widget_id_arrival_cell34">1</td>
+</tr>
+<tr class="w6">
+<td class="calcell oom calcellleft calcellbottom" id="widget_id_arrival_cell35">2</td>
+<td class="calcell oom calcellbottom" id="widget_id_arrival_cell36">3</td>
+<td class="calcell oom calcellbottom" id="widget_id_arrival_cell37">4</td>
+<td class="calcell oom calcellbottom" id="widget_id_arrival_cell38">5</td>
+<td class="calcell oom calcellbottom" id="widget_id_arrival_cell39">6</td>
+<td class="calcell oom calcellbottom" id="widget_id_arrival_cell40">7</td>
+<td class="calcell oom calcellright calcellbottom" id="widget_id_arrival_cell41">8</td>
+</tr>
+</tbody>
+</table><a href="#" class="link-close"><span class="close-icon calclose"></span></a></div>
 	<div class="error"></div>
 
 	<input name="departure" default="Departure Date (optional)" value="Departure Date (optional)" class="cleardefault" type="text" id="id_departure">
-    <div id="cal_depart_box" class="calendar"></div>
+    <div id="cal_depart_box" class="calendar yui-calcontainer single withtitle"><iframe src="javascript:false;" style="opacity: 0;"></iframe><div class="title">Check-out Date</div><table cellspacing="0" class="yui-calendar y2020" id="widget_id_departure">
+<thead>
+<tr>
+<th colspan="7" class="calhead">
+<div class="calheader">
+<a class="calnavleft">&nbsp;</a>
+January 2020
+<a class="calnavright">&nbsp;</a>
+</div>
+</th>
+</tr>
+<tr class="calweekdayrow">
+<th class="calweekdaycell">Su</th>
+<th class="calweekdaycell">Mo</th>
+<th class="calweekdaycell">Tu</th>
+<th class="calweekdaycell">We</th>
+<th class="calweekdaycell">Th</th>
+<th class="calweekdaycell">Fr</th>
+<th class="calweekdaycell">Sa</th>
+</tr>
+</thead>
+<tbody class="m1 calbody">
+<tr class="w1">
+<td class="calcell oom calcelltop calcellleft" id="widget_id_departure_cell0">29</td>
+<td class="calcell oom calcelltop" id="widget_id_departure_cell1">30</td>
+<td class="calcell oom calcelltop" id="widget_id_departure_cell2">31</td>
+<td class="calcell wd3 d1 previous calcelltop" id="widget_id_departure_cell3">1</td>
+<td class="calcell wd4 d2 previous calcelltop" id="widget_id_departure_cell4">2</td>
+<td class="calcell wd5 d3 previous calcelltop" id="widget_id_departure_cell5">3</td>
+<td class="calcell wd6 d4 previous calcelltop calcellright" id="widget_id_departure_cell6">4</td>
+</tr>
+<tr class="w2">
+<td class="calcell wd0 d5 previous calcellleft" id="widget_id_departure_cell7">5</td>
+<td class="calcell wd1 d6 previous" id="widget_id_departure_cell8">6</td>
+<td class="calcell wd2 d7 previous" id="widget_id_departure_cell9">7</td>
+<td class="calcell wd3 d8 previous" id="widget_id_departure_cell10">8</td>
+<td class="calcell wd4 d9 previous" id="widget_id_departure_cell11">9</td>
+<td class="calcell wd5 d10 previous" id="widget_id_departure_cell12">10</td>
+<td class="calcell wd6 d11 previous calcellright" id="widget_id_departure_cell13">11</td>
+</tr>
+<tr class="w3">
+<td class="calcell wd0 d12 previous calcellleft" id="widget_id_departure_cell14">12</td>
+<td class="calcell wd1 d13 previous" id="widget_id_departure_cell15">13</td>
+<td class="calcell wd2 d14 previous" id="widget_id_departure_cell16">14</td>
+<td class="calcell wd3 d15 previous" id="widget_id_departure_cell17">15</td>
+<td class="calcell wd4 d16 previous" id="widget_id_departure_cell18">16</td>
+<td class="calcell wd5 d17 previous" id="widget_id_departure_cell19">17</td>
+<td class="calcell wd6 d18 previous calcellright" id="widget_id_departure_cell20">18</td>
+</tr>
+<tr class="w4">
+<td class="calcell wd0 d19 previous calcellleft" id="widget_id_departure_cell21">19</td>
+<td class="calcell wd1 d20 previous" id="widget_id_departure_cell22">20</td>
+<td class="calcell wd2 d21 previous" id="widget_id_departure_cell23">21</td>
+<td class="calcell wd3 d22 previous" id="widget_id_departure_cell24">22</td>
+<td class="calcell wd4 d23 previous" id="widget_id_departure_cell25">23</td>
+<td class="calcell wd5 d24 previous" id="widget_id_departure_cell26">24</td>
+<td class="calcell wd6 d25 previous calcellright" id="widget_id_departure_cell27">25</td>
+</tr>
+<tr class="w5">
+<td class="calcell wd0 d26 previous calcellleft" id="widget_id_departure_cell28">26</td>
+<td class="calcell wd1 d27 previous" id="widget_id_departure_cell29">27</td>
+<td class="calcell wd2 d28 previous" id="widget_id_departure_cell30">28</td>
+<td class="calcell wd3 d29 previous" id="widget_id_departure_cell31">29</td>
+<td class="calcell wd4 d30 selectable" id="widget_id_departure_cell32"><a href="#" class="selector">30</a></td>
+<td class="calcell wd5 d31 selectable" id="widget_id_departure_cell33"><a href="#" class="selector">31</a></td>
+<td class="calcell oom calcellright" id="widget_id_departure_cell34">1</td>
+</tr>
+<tr class="w6">
+<td class="calcell oom calcellleft calcellbottom" id="widget_id_departure_cell35">2</td>
+<td class="calcell oom calcellbottom" id="widget_id_departure_cell36">3</td>
+<td class="calcell oom calcellbottom" id="widget_id_departure_cell37">4</td>
+<td class="calcell oom calcellbottom" id="widget_id_departure_cell38">5</td>
+<td class="calcell oom calcellbottom" id="widget_id_departure_cell39">6</td>
+<td class="calcell oom calcellbottom" id="widget_id_departure_cell40">7</td>
+<td class="calcell oom calcellright calcellbottom" id="widget_id_departure_cell41">8</td>
+</tr>
+</tbody>
+</table><a href="#" class="link-close"><span class="close-icon calclose"></span></a></div>
 	<div class="error"></div>
 
 	<select name="rooms" id="id_rooms">
@@ -504,137 +643,653 @@ playback timings (ms):
   LoadShardBlock: 417.643 (3)
   exclusion.robots: 0.213
 --></div>
-									</form>
+											</form>
+										</div>
+										<script type="text/javascript">
+										
+											init_search_tabs();
+										
+										</script>
+									</div>
 								</div>
-								<script type="text/javascript">
 								
-									init_search_tabs();
 								
-								</script>
-							</div>
-							
-							
-							
-							
-							
-							<div id="sidebar_promo_container">
-								<a href="/travel/">
-									<img src="/site_media/images/promo/sidebar/policies.jpg">
-								</a>
-							</div>
-							
-							
-							
-							<div id="small_calendar_container">
-								<div id="small_calendar"><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
-<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app22.us.archive.org';v.server_ms=1265;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/_static/js/ait-client-rewrite.js" charset="utf-8"></script>
-<script type="text/javascript">
-WB_wombat_Init("https://web.archive.org/web/", "20100826005052", "www.bringfido.com");
-</script>
-<script type="text/javascript" src="/_static/js/wbhack.js" charset="utf-8"></script>
-<script type="text/javascript">
-__wbhack.init('https://web.archive.org/web');
-</script>
-<link rel="stylesheet" type="text/css" href="/_static/css/banner-styles.css">
-<link rel="stylesheet" type="text/css" href="/_static/css/iconochive.css">
-<!-- End Wayback Rewrite JS Include -->
-<table border="0" cellpadding="0" cellspacing="0" class="month">
-<tbody><tr><th colspan="7" class="month">August 2010</th></tr>
-<tr><th class="sun">Sun</th><th class="mon">Mon</th><th class="tue">Tue</th><th class="wed">Wed</th><th class="thu">Thu</th><th class="fri">Fri</th><th class="sat">Sat</th></tr>
-<tr><td class="sun">1</td><td class="mon">2</td><td class="tue">3</td><td class="wed">4</td><td class="thu">5</td><td class="fri">6</td><td class="sat">7</td></tr>
-<tr><td class="sun">8</td><td class="mon">9</td><td class="tue">10</td><td class="wed">11</td><td class="thu">12</td><td class="fri">13</td><td class="sat">14</td></tr>
-<tr><td class="sun">15</td><td class="mon">16</td><td class="tue">17</td><td class="wed">18</td><td class="thu">19</td><td class="fri">20</td><td class="sat">21</td></tr>
-<tr><td class="sun">22</td><td class="mon">23</td><td class="tue">24</td><td class="wed">25</td><td class="thu">26</td><td class="fri">27</td><td class="sat">28</td></tr>
-<tr><td class="sun">29</td><td class="mon">30</td><td class="tue">31</td><td class="noday">&nbsp;</td><td class="noday">&nbsp;</td><td class="noday">&nbsp;</td><td class="noday">&nbsp;</td></tr>
-</tbody></table>
-<!--
-     FILE ARCHIVED ON 00:50:52 Aug 26, 2010 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 23:08:39 Jan 30, 2020.
-     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+								
 
-     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
-     SECTION 108(a)(3)).
--->
-<!--
-playback timings (ms):
-  CDXLines.iter: 18.455 (3)
-  RedisCDXSource: 34.847
-  captures_list: 923.129
-  exclusion.robots.policy: 0.288
-  load_resource: 331.821
-  PetaboxLoader3.resolve: 273.476 (2)
-  exclusion.robots: 0.31
-  esindex: 0.015
-  PetaboxLoader3.datanode: 379.754 (4)
-  LoadShardBlock: 863.985 (3)
---></div>
+								
+								<div class="side_links">
+									<div class="title">Quick Links</div>
+									<div class="body">
+										
+											
+												
+
+
+	<div class="item_wrap">
+	<div class="item">
+		<a href="/destination/" style="font-weight:bold;">Destination Guides</a>
+	</div>
+</div>
+
+	
+
+	<div class="item_wrap">
+	<div class="item">
+		<a href="/lodging/" style="font-weight:bold;">Pet Friendly Accommodations</a>
+	</div>
+</div>
+
+	
+		
+
+
+
+	
+		<div class="item_wrap">
+			<div class="item">
+				<img src="/site_media/images/wedge.gif" class="bullet">
+				<a href="/lodging/hotels/">Hotels &amp; Motels (29,167)</a>
+			</div>
+		</div>
+	
+
+
+	
+		
+
+
+
+	
+		<div class="item_wrap">
+			<div class="item">
+				<img src="/site_media/images/wedge.gif" class="bullet">
+				<a href="/lodging/bandbs/">Bed &amp; Breakfasts (46)</a>
+			</div>
+		</div>
+	
+
+
+	
+		
+
+
+
+	
+		<div class="item_wrap">
+			<div class="item">
+				<img src="/site_media/images/wedge.gif" class="bullet">
+				<a href="/lodging/rentals/">Vacation Rentals (31)</a>
+			</div>
+		</div>
+	
+
+
+	
+		
+
+
+
+	
+		<div class="item_wrap">
+			<div class="item">
+				<img src="/site_media/images/wedge.gif" class="bullet">
+				<a href="/lodging/campgrounds/">Campgrounds (35)</a>
+			</div>
+		</div>
+	
+
+
+	
+		
+
+
+
+	<div class="item_wrap">
+		<div class="item">
+			<img src="/site_media/images/wedge.gif" class="bullet">
+			<a href="/lodging/post/">Post a New Property</a>
+		</div>
+	</div>
+
+
+	
+
+	<div class="item_wrap">
+	<div class="item">
+		<a href="/attraction/" style="font-weight:bold;">Dog Friendly Attractions</a>
+	</div>
+</div>
+
+	
+		
+
+
+
+	
+		<div class="item_wrap">
+			<div class="item">
+				<img src="/site_media/images/wedge.gif" class="bullet">
+				<a href="/attraction/parks/">Dog Parks (378)</a>
+			</div>
+		</div>
+	
+
+
+	
+		
+
+
+
+	
+		<div class="item_wrap">
+			<div class="item">
+				<img src="/site_media/images/wedge.gif" class="bullet">
+				<a href="/attraction/beaches/">Dog Beaches (92)</a>
+			</div>
+		</div>
+	
+
+
+	
+		
+
+
+
+	
+		<div class="item_wrap">
+			<div class="item">
+				<img src="/site_media/images/wedge.gif" class="bullet">
+				<a href="/attraction/trails/">Dog Friendly Hiking Trails (66)</a>
+			</div>
+		</div>
+	
+
+
+	
+		
+
+
+
+	
+		<div class="item_wrap">
+			<div class="item">
+				<img src="/site_media/images/wedge.gif" class="bullet">
+				<a href="/attraction/tours/">Dog Friendly Tours (20)</a>
+			</div>
+		</div>
+	
+
+
+	
+		
+
+
+
+	
+		<div class="item_wrap">
+			<div class="item">
+				<img src="/site_media/images/wedge.gif" class="bullet">
+				<a href="/attraction/shops/">Pet Friendly Shopping (48)</a>
+			</div>
+		</div>
+	
+
+
+	
+		
+
+
+
+	<div class="item_wrap">
+		<div class="item">
+			<img src="/site_media/images/wedge.gif" class="bullet">
+			<a href="/attraction/post/">Post a New Attraction</a>
+		</div>
+	</div>
+
+
+	
+
+	<div class="item_wrap">
+	<div class="item">
+		<a href="/restaurant/" style="font-weight:bold;">Outdoor Restaurants</a>
+	</div>
+</div>
+
+	
+		
+
+
+
+	
+		
+	
+
+
+	
+		
+
+
+
+	
+		
+	
+
+
+	
+		
+
+
+
+	
+		
+	
+
+
+	
+		
+
+
+
+	<div class="item_wrap">
+		<div class="item">
+			<img src="/site_media/images/wedge.gif" class="bullet">
+			<a href="/restaurant/post/">Post a New Restaurant</a>
+		</div>
+	</div>
+
+
+	
+
+	<div class="item_wrap">
+	<div class="item">
+		<a href="/event/" style="font-weight:bold;">Dog Events</a>
+	</div>
+</div>
+
+	
+		
+
+
+
+	
+		
+	
+
+
+	
+		
+
+
+
+	
+		
+	
+
+
+	
+		
+
+
+
+	
+		
+	
+
+
+	
+		
+
+
+
+	<div class="item_wrap">
+		<div class="item">
+			<img src="/site_media/images/wedge.gif" class="bullet">
+			<a href="/event/post/">Post a New Event</a>
+		</div>
+	</div>
+
+
+	
+
+	<div class="item_wrap">
+	<div class="item">
+		<a href="/resource/" style="font-weight:bold;">Pet Services</a>
+	</div>
+</div>
+
+	
+		
+
+
+
+	
+		<div class="item_wrap">
+			<div class="item">
+				<img src="/site_media/images/wedge.gif" class="bullet">
+				<a href="/resource/pet_sitters_dog_walkers/">Pet Sitting and Dog Walking (77)</a>
+			</div>
+		</div>
+	
+
+
+	
+		
+
+
+
+	
+		<div class="item_wrap">
+			<div class="item">
+				<img src="/site_media/images/wedge.gif" class="bullet">
+				<a href="/resource/online_resources/">Online Resources (40)</a>
+			</div>
+		</div>
+	
+
+
+	
+		
+
+
+
+	
+		<div class="item_wrap">
+			<div class="item">
+				<img src="/site_media/images/wedge.gif" class="bullet">
+				<a href="/resource/animal_shelters/">Animal Shelters (6)</a>
+			</div>
+		</div>
+	
+
+
+	
+		
+
+
+
+	
+		<div class="item_wrap">
+			<div class="item">
+				<img src="/site_media/images/wedge.gif" class="bullet">
+				<a href="/resource/dog_training/">Dog Training (1,156)</a>
+			</div>
+		</div>
+	
+
+
+	
+		
+
+
+
+	
+		<div class="item_wrap">
+			<div class="item">
+				<img src="/site_media/images/wedge.gif" class="bullet">
+				<a href="/resource/dog_grooming/">Dog Grooming (1,139)</a>
+			</div>
+		</div>
+	
+
+
+	
+		
+
+
+
+	
+		<div class="item_wrap">
+			<div class="item">
+				<img src="/site_media/images/wedge.gif" class="bullet">
+				<a href="/resource/pet_stores/">Pet Stores (2,010)</a>
+			</div>
+		</div>
+	
+
+
+	
+		
+
+
+
+	
+		<div class="item_wrap">
+			<div class="item">
+				<img src="/site_media/images/wedge.gif" class="bullet">
+				<a href="/resource/veterinarians/">Veterinary Clinics (754)</a>
+			</div>
+		</div>
+	
+
+
+	
+		
+
+
+
+	
+		<div class="item_wrap">
+			<div class="item">
+				<img src="/site_media/images/wedge.gif" class="bullet">
+				<a href="/resource/doggie_daycare_boarding/">Dog Boarding Kennels (259)</a>
+			</div>
+		</div>
+	
+
+
+	
+		
+
+
+
+	
+		<div class="item_wrap">
+			<div class="item">
+				<img src="/site_media/images/wedge.gif" class="bullet">
+				<a href="/resource/other_pet_services/">Other Pet Services (52)</a>
+			</div>
+		</div>
+	
+
+
+	
+		
+
+
+
+	<div class="item_wrap">
+		<div class="item">
+			<img src="/site_media/images/wedge.gif" class="bullet">
+			<a href="/resource/post/">Post a New Business</a>
+		</div>
+	</div>
+
+
+	
+
+	<div class="item_wrap">
+	<div class="item">
+		<a href="/photo/" style="font-weight:bold;">Dog Pictures</a>
+	</div>
+</div>
+
+	
+		
+
+
+
+	
+		
+	
+
+
+	
+		
+
+
+
+	
+		
+	
+
+
+	
+		
+
+
+
+	<div class="item_wrap">
+		<div class="item">
+			<img src="/site_media/images/wedge.gif" class="bullet">
+			<a href="/photo/upload/">Post a New Photo</a>
+		</div>
+	</div>
+
+
+	
+
+	<div class="item_wrap">
+	<div class="item">
+		<a href="/forum/" style="font-weight:bold;">Dog Forum</a>
+	</div>
+</div>
+
+	
+		
+
+
+
+	
+		
+	
+
+
+	
+		
+
+
+
+	
+		
+	
+
+
+	
+		
+
+
+
+	
+		
+	
+
+
+	
+		
+
+
+
+	
+		
+	
+
+
+	
+		
+
+
+
+	
+		
+	
+
+
+	
+		
+
+
+
+	
+		
+	
+
+
+	
+		
+
+
+
+	<div class="item_wrap">
+		<div class="item">
+			<img src="/site_media/images/wedge.gif" class="bullet">
+			<a href="/forum/">Post a New Topic</a>
+		</div>
+	</div>
+
+
+	
+
+											
+										
+									</div>
+								</div>
+								
+
+								
+								
+																
 							</div>
-							<script type="text/javascript">
-								load_small_calendar('small_calendar');
-								YAHOO.util.Event.on('small_calendar_container', 'click', function() { window.location='/event'; });
-							</script>
-							
-							
-							
-							
-							
-							
 							
 						</div>
+					
+	
+					
+						<div id="bookmarks">
+							<a href="javascript:window.print();"><img src="/site_media/images/print.gif" alt="Print" class="footer_action"></a>
+							<div class="footer_separator"></div>
+							<a href="/promo/tellafriend/five_bucks/"><img src="/site_media/images/email.gif" alt="Tell a Friend" class="footer_action"></a>
+							<div class="footer_separator"></div>
 						
-					</div>
-				
+							<form id="signup" action="/signup/" method="get">
+								Free Pet Samples &amp; Travel Discounts
+								<input type="text" class="bf_input cleardefault" style="vertical-align:middle;padding:2px;width:120px;" name="email" default="Email Address">
+								<input type="image" style="vertical-align:middle;" src="/site_media/images/signup.gif" name="signup">
+							</form>
 
-				<div style="text-align:center;">
-					<div id="bookmarks">
-					
-						<span style="color:#888;">
-							<span style="font-family:'Century Gothic';font-size:18pt;letter-spacing:3px;">BOOKMARK</span>
-							<span style="font-family:'Century Gothic';font-size:11pt;">this page:</span>
-						</span>
-						<div style="padding-top:5px;margin-top:3px;border-top:1px solid #ccc;">
-							<a href="http://del.icio.us/" onclick="window.open('http://del.icio.us/post?v=2&amp;url='+encodeURIComponent(location.href)+'&amp;notes=&amp;tags=&amp;title='+encodeURIComponent(document.title));return false;" title="Del.icio.us"><img style="padding-bottom:1px;" src="/site_media/images/bookmark/del_trans.gif" alt="Del.icio.us" name="Delicious" border="0" id="Delicious"></a>
-							<a href="http://digg.com/" onclick="window.open('http://digg.com/submit?phase=2&amp;url='+encodeURIComponent(location.href)+'&amp;bodytext=&amp;tags=&amp;title='+encodeURIComponent(document.title));return false;" title="Digg"><img style="padding-bottom:1px;" src="/site_media/images/bookmark/digg_trans.gif" alt="Digg" name="Digg" border="0" id="Digg"></a>
-							<a href="http://www.furl.net/" onclick="window.open('http://www.furl.net/storeIt.jsp?u='+encodeURIComponent(location.href)+'&amp;keywords=&amp;t='+encodeURIComponent(document.title));return false;" title="Furl"><img style="padding-bottom:1px;" src="/site_media/images/bookmark/furl_trans.gif" alt="Furl" name="Furl" border="0" id="Furl"></a>
-							<a href="http://www.netvouz.com/" onclick="window.open('http://www.netvouz.com/action/submitBookmark?url='+encodeURIComponent(location.href)+'&amp;description=&amp;tags=&amp;title='+encodeURIComponent(document.title)+'&amp;popup=yes');return false;" title="Netvouz"><img style="padding-bottom:1px;" src="/site_media/images/bookmark/netvouz_trans.gif" alt="Netvouz" name="Netvouz" border="0" id="Netvouz"></a>
-							<a href="http://www.mister-wong.de/" onclick="window.open('http://www.mister-wong.de/index.php?action=addurl&amp;bm_url='+encodeURIComponent(location.href)+'&amp;bm_notice=&amp;bm_description='+encodeURIComponent(document.title)+'&amp;bm_tags=');return false;" title="Mr. Wong"><img style="padding-bottom:1px;" src="/site_media/images/bookmark/wong_trans.gif" alt="Mr. Wong" name="wong" border="0" id="wong"></a>
-							<a href="http://www.netscape.com/" onclick="window.open('http://www.netscape.com/submit/?U='+encodeURIComponent(location.href)+'&amp;T='+encodeURIComponent(document.title));return false;" title="Netscape"><img style="padding-bottom:1px;" src="/site_media/images/bookmark/netscape_trans.gif" alt="Netscape" name="Netscape" border="0" id="Netscape"></a>
-							<a href="http://reddit.com/" onclick="window.open('http://reddit.com/submit?url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title));return false;" title="Reddit"><img style="padding-bottom:1px;" src="/site_media/images/bookmark/reddit_trans.gif" alt="Reddit" name="Reddit" border="0" id="Reddit"></a>
-							<a href="http://slashdot.org/" onclick="window.open('http://slashdot.org/bookmark.pl?url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title));return false;" title="Slashdot"><img style="padding-bottom:1px;" src="/site_media/images/bookmark/slashdot_trans.gif" alt="Slashdot" name="Slashdot" border="0" id="Slashdot"></a>
-							<a href="http://www.stumbleupon.com/" onclick="window.open('http://www.stumbleupon.com/submit?url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title));return false;" title="StumbleUpon"><img style="padding-bottom:1px;" src="/site_media/images/bookmark/stumbleupon_trans.gif" alt="StumbleUpon" name="StumbleUpon" border="0" id="StumbleUpon"></a>
-							<a href="http://www.technorati.com/" onclick="window.open('http://technorati.com/faves?add='+encodeURIComponent(location.href)+'&amp;tag=');return false;" title="Technorati"><img style="padding-bottom:1px;" src="/site_media/images/bookmark/technorati_trans.gif" alt="Technorati" name="Technorati" border="0" id="Technorati"></a>
-							<a href="http://www.yahoo.com/" onclick="window.open('http://myweb2.search.yahoo.com/myresults/bookmarklet?t='+encodeURIComponent(document.title)+'&amp;d=&amp;tag=&amp;u='+encodeURIComponent(location.href));return false;" title="Yahoo"><img style="padding-bottom:1px;" src="/site_media/images/bookmark/yahoo_trans.gif" alt="Yahoo" name="Yahoo" border="0" id="Yahoo"></a>
-							
-							<script>function fbs_click() {u=location.href;t=document.title;window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');return false;}</script>
-							<a href="http://www.facebook.com/share.php?u=http://www.bringfido.com" onclick="return fbs_click()" target="_blank"><img src="http://b.static.ak.fbcdn.net/images/share/facebook_share_icon.gif?8:26981" alt="facebook" style="padding:2px;"></a>
+							<a href="http://twitter.com/BringFido" target="_blank"><img src="/site_media/images/twitter.gif" alt="Follow us on Twitter" class="footer_action_large"></a>
+							<a href="http://www.facebook.com/pages/BringFidocom/92703702876?ref=s" target="_blank"><img src="/site_media/images/facebook.gif" alt="Follow us on Facebook" class="footer_action_large"></a>
+
+							<div class="bottom_edge"></div>
 						</div>
 					
-					</div>
 				</div>
 			</div>
 			<div id="bottom_edge"></div>
 		</div>
+
 		<div id="footer">
 			
 			<div id="footer_nav">
 				<p>
-					<a href="/about">About Us</a>
-					| <a href="/advertise">Advertising</a>
-					| <a href="/contact">Contact Us</a>
-					| <a href="/press">Media</a>
-					| <a href="/affiliate/petcharity">Pet Charities</a>
-					| <a href="/affiliate">Affiliates</a>
-					| <a href="/affiliate/link">Link to Us</a>
-					| <a href="/resource/online_resources">Sites We Like</a>
-					| <a href="/sitemap">Site Map</a>
-					| <a href="/privacy">Privacy Policy</a>
-					| <a href="/terms">Terms &amp; Conditions</a>
+					<a href="/about/">About Us</a>
+					| <a href="/help/">Customer Service</a>
+					| <a href="/contact/">Contact Us</a>
+					| <a href="/advertise/">Advertising</a>
+					| <a href="/affiliate/petcharity/">Pet Charities</a>
+					| <a href="/affiliate/">Affiliates</a>
+					| <a href="/press/">Media</a>
+					| <a href="/affiliate/link/">Link to Us</a>
+					| <a href="/resource/online_resources/">Sites We Like</a>
+					| <a href="/sitemap/">Site Map</a>
+					| <a href="/privacy/">Privacy Policy</a>
+					| <a href="/terms/">Terms &amp; Conditions</a>
 				</p>
 				<p>
-					© 2005-2008 Kendall Media, Inc.<br>
+					© 2005-2009 Kendall Media, Inc.<br>
 					BringFido.com is a trademark of Kendall Media, Inc.
 				</p>
-				<p>784 Cherry Street, Suite B | Winter Park, FL 32789 | (877) 411-3436</p>
+				<p>2144 Radnor Court | North Palm Beach, FL 33408 | (877) 411-3436</p>
 			</div>
 			
 		</div>
