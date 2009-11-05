@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the online-soccer.tv privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418001201id_/http%3A//online-soccer.tv/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-soccer.tv privacy policy that was archived on 2009-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091105084502id_/http%3A//online-soccer.tv/privacy.asp) for the most accurate reproduction.*
 
 # online-soccer.tv - Watch Live Soccer directly on your PC
 
@@ -57,4 +57,4 @@ This Site is not directed to children under 18. If a parent or guardian becomes 
 
 **Contacting Us**
 
-If you have any questions about this Privacy Policy, please [contact us](https://web.archive.org/web/20090418001201id_/http%3A//online-soccer.tv/support.asp)
+If you have any questions about this Privacy Policy, please [contact us](https://web.archive.org/web/20091105084502id_/http%3A//online-soccer.tv/support.asp)
