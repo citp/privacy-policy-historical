@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the cspinet.org privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623233723id_/http%3A//www.cspinet.org/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cspinet.org privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106001627id_/http%3A//www.cspinet.org/about/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy ~ Center for Science in the Public Interest
 
 |    
 ---  
-[](https://web.archive.org/web/20090623233723id_/http%3A//www.cspinet.org/about/index.html)  
-[](https://web.archive.org/web/20090623233723id_/http%3A//www.cspinet.org/about/board.html)  
-[](https://web.archive.org/web/20090623233723id_/http%3A//www.cspinet.org/about/contact_us.html)  
+[](https://web.archive.org/web/20091106001627id_/http%3A//www.cspinet.org/about/index.html)  
+[](https://web.archive.org/web/20091106001627id_/http%3A//www.cspinet.org/about/board.html)  
+[](https://web.archive.org/web/20091106001627id_/http%3A//www.cspinet.org/about/contact_us.html)  
 [](https://web.archive.org/donate/index.html)  
-[](https://web.archive.org/web/20090623233723id_/http%3A//www.cspinet.org/about/jobs.html)  
-[](https://web.archive.org/web/20090623233723id_/http%3A//www.cspinet.org/about/mission.html)  
-[](https://web.archive.org/web/20090623233723id_/http%3A//www.cspinet.org/about/funding.html)  
-[](https://web.archive.org/web/20090623233723id_/http%3A//www.cspinet.org/about/accomplishments.html)  
+[](https://web.archive.org/web/20091106001627id_/http%3A//www.cspinet.org/about/jobs.html)  
+[](https://web.archive.org/web/20091106001627id_/http%3A//www.cspinet.org/about/mission.html)  
+[](https://web.archive.org/web/20091106001627id_/http%3A//www.cspinet.org/about/funding.html)  
+[](https://web.archive.org/web/20091106001627id_/http%3A//www.cspinet.org/about/accomplishments.html)  
 [](https://www.cspinet.org/cgi-bin/subscribe.cgi)  
   
   
