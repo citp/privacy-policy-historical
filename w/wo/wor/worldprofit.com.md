@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worldprofit.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430154151id_/http%3A//www.worldprofit.com/policy.cfm%3Fid%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldprofit.com privacy policy that was archived on 2009-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091105232243id_/http%3A//www.worldprofit.com/policy.cfm%3Fid%3D0) for the most accurate reproduction.*
 
-# Worldprofit.com - Privacy Statement
+# Worldprofit - Home Business and Work at Home Resources
 
   
 **Our Commitment to Protect Your Personal Information** Worldprofit has been helping businesses online since 1994, longer than any other online business support company. The reason we're still here is clear: people like what we do for their business and bottom line!
