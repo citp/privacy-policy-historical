@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tuitalk.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605185150id_/http%3A//www.tuitalk.com/provisioning/end-user/zhtml/privacy.zhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tuitalk.com privacy policy that was archived on 2009-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091105172438id_/http%3A//tuitalk.com/phone-calls-services/internet-phone-calls-policy.zhtml) for the most accurate reproduction.*
 
-# tuitalk - Privacy Policy
+# Free Internet Online Phone Calls TUITALK
 
 ## tuitalk™ SERVICE PRIVACY POLICY
 
