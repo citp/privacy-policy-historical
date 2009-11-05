@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comparethemarket.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430101532id_/http%3A//www.comparethemarket.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comparethemarket.com privacy policy that was archived on 2009-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091105023914id_/http%3A//www.comparethemarket.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Compare the Market
 
@@ -67,11 +67,9 @@ We are continually looking to adopt and implement certain practices and technolo
 
 BGL Group Ltd works with third parties to research certain usage and activities on our website on our behalf. No personal information about you is shared, however in the course of conducting this research these third parties may place a unique 'cookie' on your browser.
 
-### Webtrends
+### Speed-Trap
 
-In order to develop our website in line with customer needs BGL Group Ltd is working with WebTrends to track usage on our website. Webtrends provide us with statistics to show us which pages on our website are visited most frequently and how long visitors spend on our website. We use this information to help us plan how we should improve the website.
-
-WebTrends uses a cookie to track the number of unique users of the site. It basically tells us whether we have a small number of regular visitors to the website or a large number of infrequent visitors. None of the information can be traced to an individual - we do not know who you are as a unique user, merely that there are a certain number of people using the website. The cookie only relates to what goes on in the BGL Group Ltd website and quote engine and the information cannot be used for marketing on an individual basis. For more information about how WebTrends collects data, please read their privacy policy - [Proceed to WebTrends](http://www.webtrends.com/).
+This site is being monitored by Speed-Trap Limited's monitoring software which may capture information about your visit that will help us improve the quality of our service.  Speed-Trap may use cookies for this purpose.   None of the information collected can be traced to an individual, we do not know who you are as a unique user merely that a certain number of people are using the website.
 
 Back to top
 * ## 6\. How can I stop cookies and what effect will this have?
