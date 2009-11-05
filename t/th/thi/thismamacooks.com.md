@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thismamacooks.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628004429id_/http%3A//www.thismamacooks.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thismamacooks.com privacy policy that was archived on 2009-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091105200056id_/http%3A//www.thismamacooks.com/privacy_policy.html) for the most accurate reproduction.*
 
-# This Mama Cooks! On a Diet: Privacy policy for This Mama Cook! On a Diet and This Mama Cooks! Reviews
+# Privacy policy for This Mama Cook! On a Diet and This Mama Cooks! Reviews - This Mama Cooks! On a Diet
 
 **This Mama Cooks! On a Diet and This Mama Cooks! Reviews** has created this privacy statement in order to demonstrate a firm commitment to privacy. The following discloses our information gathering and dissemination practices for these Web sites: [www.thismamacooks.com](http://www.thismamacooks.com/) and [www.thismamacooks.net](http://www.thismamacooks.net/). 
 
