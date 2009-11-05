@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the photonicsonline.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603153752id_/http%3A//www.photonicsonline.com/content/Membership/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photonicsonline.com privacy policy that was archived on 2009-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091105095127id_/http%3A//photonicsonline.com/Static.mvc/Privacy) for the most accurate reproduction.*
 
-# M E M B E R S H I P R E G I S T R A T I O N
+# Photonics Online: Online Resource For Engineers in the Optics and Photonics Industry.
 
 **PRIVACY STATEMENT**  
 Your privacy on the Internet is important to us. Because we gather certain types of information about the users of VertMarkets' network of sites and services, we believe you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it. 
