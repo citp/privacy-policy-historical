@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the robinsharma.com privacy policy that was archived on 2009-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090616094805id_/http%3A//www.robinsharma.com/canada_success_coach_privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the robinsharma.com privacy policy that was archived on 2009-11-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091106222856id_/http%3A//www.robinsharma.com/canada_success_coach_privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><title>Privacy and Security | Robin Sharma | Sharma Leadership International</title>
 	
@@ -24,7 +24,7 @@
 	<link href="http://www.robinsharma.com/css/blue.css" rel="stylesheet" title="blue" type="text/css">
 	<link href="http://www.robinsharma.com/css/thickbox.css" rel="stylesheet" media="screen,projection" type="text/css">
 	<!-- 	end here		-->
-	
+
 		<script language="javascript" src="http://www.robinsharma.com/scripts/js/setcookie.js"></script>
 	<script language="javascript1.2" type="text/javascript">
 
@@ -33,13 +33,13 @@
 		Set_Cookie( 'style_gallery', 'blue', '', '/', '', '' );
 
 		var imgFol		=	"http://www.robinsharma.com/images/blue/";
-		var seo_domain	=	"http://www.robinsharma.com/";	
+		var seo_domain	=	"http://www.robinsharma.com/";
 		function trim(str)
 		{
 			return str.replace(/^\s*|\s*$/g,"");
 		}
 		function refresh(clr)
-		{				
+		{
 		    setActiveStyleSheet(clr);
 			call_ajax(clr);
 		}
@@ -49,7 +49,7 @@
 			if(browser.indexOf("msie")!=-1)
 			{
 				xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
-			}	
+			}
 			else
 			{
 				xmlhttp=new XMLHttpRequest();
@@ -62,22 +62,22 @@
 				if(xmlhttp.readyState==4)
 				{
 					var result=trim(xmlhttp.responseText);
-					//alert('**'+result+'**');	
-					if(result!='')			
+					//alert('**'+result+'**');
+					if(result!='')
 						window.location.reload();
 					else
 						call_ajax(colr);
 				}
 			}
 		}
-	
+
 		function newsignup2(txtEmail)
 		{
 			browser=navigator.userAgent.toLowerCase();
 			if(browser.indexOf("msie")!=-1)
 			{
 				xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
-			}	
+			}
 			else
 			{
 				xmlhttp=new XMLHttpRequest();
@@ -91,30 +91,30 @@
 				if(xmlhttp.readyState==4)
 				{
 					var result=trim(xmlhttp.responseText);
-					
+
 					if(result=='success'){
 						alert("Thank you for subscribing.");
 						document.getElementById('newsAjaxr').style.display="";
-						document.getElementById('newsAjax').style.display="none";					
+						document.getElementById('newsAjax').style.display="none";
 					}
 				}
 			}
-		
+
 		}
-	
+
 	function newsignup1(txtEmail)
 		{
 			browser=navigator.userAgent.toLowerCase();
 			if(browser.indexOf("msie")!=-1)
 			{
 				xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
-			}	
+			}
 			else
 			{
 				xmlhttp=new XMLHttpRequest();
 			}
 			loginurl="http://www.robinsharma.com/newsajax2.php?email="+txtEmail;
-		
+
 			xmlhttp.open("GET",loginurl,true);
 			xmlhttp.send(null);
 			xmlhttp.onreadystatechange=function()
@@ -126,44 +126,44 @@
 						alert("Thank You for subscribing to the Robin Sharma Report Newsletter.\nPlease make sure to add  wisdom@robinsharma.com to your email address book to prevent the newsletter from being blocked by a spam filter.");
 						document.getElementById('newsAjaxrf').style.display="";
 						document.getElementById('newsAjaxf').style.display="none";
-					
+
 					}
 				}
 			}
-		
+
 		}
-	
-	
+
+
 	</script>
 	<script type="text/javascript">
-		function go(thatform){			
+		function go(thatform){
 			if(validateEmail(thatform.txt_email.value))
-			{	
+			{
 				newsignup2(thatform.txt_email.value);
-				return false;			
+				return false;
 			}
 			else
 			{
 				alert("Please Enter Valid Email Address");
 				return false;
 			}
-	
+
 		}
-		
-		function go1(thatform){			
+
+		function go1(thatform){
 			if(validateEmail(thatform.txt_email.value))
-			{	
+			{
 				newsignup1(thatform.txt_email.value);
-				return false;			
+				return false;
 			}
 			else
 			{
 				alert("Please Enter Valid Email Address");
 				return false;
 			}
-	
+
 		}
-		
+
 	</script>
 	<script language="Javascript1.2" src="http://www.robinsharma.com/scripts/js/__DOM__.js" type="text/javascript"></script>
 	<script language="Javascript1.2" src="http://www.robinsharma.com/scripts/js/linkcounter.js" type="text/javascript"></script>
@@ -187,7 +187,7 @@
 		<!-- free google urchin tracker -->
 		<script type="text/javascript" language="JavaScript1.2">
 			var $seo_domain_path="http://www.robinsharma.com/";
-			
+
 			function changeLanguage(lang)
 			{
 				var date = new Date();
@@ -197,16 +197,16 @@
 				//alert(document.cookie);
 				document.location=document.location;
 			}
-		
+
 			function show_hide(id)
-			{		
+			{
 				if(document.getElementById(id)) {
 					if(document.getElementById(id).style.display=="none") {
-						document.getElementById(id).style.display="";	
+						document.getElementById(id).style.display="";
 					}else{
-						document.getElementById(id).style.display="none";	
-					}			
-				}	
+						document.getElementById(id).style.display="none";
+					}
+				}
 			}
 		</script>
 	
@@ -216,9 +216,9 @@
 	width:1px;background:#FFFFB5;
 	}
 	</style>
-	
-	
-	
+
+
+
 
 
 
@@ -236,9 +236,9 @@ var WRInitTime=(new Date()).getTime();
 <tr>
 	<td>
 		<div class="headertoplinks">
-		
-		
-			
+
+
+
 				<div class="toplinks">
 					<div style="text-align:left;"><a href="http://www.robinsharma.com/personal-development.htm"><img src="http://www.robinsharma.com/images/blue/personal-success.jpg" border="0"></a></div><br>
 
@@ -249,15 +249,15 @@ var WRInitTime=(new Date()).getTime();
 								if(document.all)
 								{
 									var fav_obj=document.getElementById("make_home_fav");
-								
+
 									fav_obj.innerHTML+='Make <a href="" class="Fav" onClick="makeHome(this);return false;" >robin<strong>sharma</strong>.com</a> your home page';
 								}
-								</script>					
+								</script>
 					</div>
 				</div>
 				<div class="toplinksright">
-					<div class="external_header_images" style="margin-right:20px;"><a target="_blank" href="http://www.twitter.com/_robin_sharma"><img border="0" src="http://www.robinsharma.com/images/blue/../twitter28.png" style="padding-top:0px; padding-right:0px;" align="absbottom"></a><span style="padding-left:5px;">&nbsp;</span><a target="_blank" href="http://www.youtube.com/sharmaleadership"><img border="0" src="http://www.robinsharma.com/images/blue/../youtube4.png" style="padding-top:0px; padding-right:0px;" align="absbottom"></a><span style="padding-left:5px;">&nbsp;</span><a target="_blank" href="http://www.facebook.com/home.php?#/group.php?sid=ccd49be1cdc77819029ec4eb10272f0f&amp;gid=2249628323"><img border="0" src="http://www.robinsharma.com/images/blue/../facebook-alt.png" style="padding-top:0px; padding-right:0px;" align="absbottom"></a></div>
-					<div class="arial11greenmenu"><a href="http://www.robinsharma.com/scripts/contact_us_leader.php">Contact Us</a> | <a href="#" onclick="javascript:window.open('/scripts/awebersubscribe.php', 'popupwindow', 'scrollbars=yes,width=300,height=200');" style="color:red;"><!-- Subscribe to The Robin Sharma Report Monthly Newsletter -->Subscribe to Newsletter</a> | <a href="http://www.robinsharma.com/leadership_development_seminar_sli-upcoming.htm">Upcoming Public Events</a><span style="padding-left:100px;">&nbsp;</span>
+					<div class="external_header_images" style="margin-right:20px;"><a target="_blank" href="http://www.twitter.com/_robin_sharma"><img border="0" src="http://www.robinsharma.com/images/blue/../twitter28.png" style="padding-top:0px; padding-right:0px;" align="absbottom"></a><span style="padding-left:5px;">&nbsp;</span><a target="_blank" href="http://www.youtube.com/sharmaleadership"><img border="0" src="http://www.robinsharma.com/images/blue/../youtube4.png" style="padding-top:0px; padding-right:0px;" align="absbottom"></a><span style="padding-left:5px;">&nbsp;</span><a target="_blank" href="http://www.facebook.com/home.php#/pages/Robin-Sharma/105875750039"><img border="0" src="http://www.robinsharma.com/images/blue/../facebook-alt.png" style="padding-top:0px; padding-right:0px;" align="absbottom"></a></div>
+					<div class="arial11greenmenu"><a href="http://www.robinsharma.com/scripts/contact_us_leader.php">Contact Us</a> | <a href="#" onclick="javascript:window.open('/scripts/awebersubscribe.php', 'popupwindow', 'scrollbars=yes,width=300,height=200');" style="color:red;"><!-- Subscribe to The Robin Sharma Report Monthly Newsletter -->Subscribe to Newsletter</a> | <a href="http://www.robinsharma.com/leadership_development_seminar_sli-upcoming.htm">Seminar Schedule</a><span style="padding-left:100px;">&nbsp;</span>
 					<a onclick="window.open('/swf/cnn-projectlife.swf','flash_player1','width=510,height=350');return false;" class="getinsidemore" style="cursor:pointer;"><img src="http://www.robinsharma.com/images/blue/cnn.jpg" style="padding-top:0px; padding-right:0px;" align="absbottom"></a></div>
 				</div>
 		</div>
@@ -276,7 +276,7 @@ var WRInitTime=(new Date()).getTime();
 			<embed src="http://www.robinsharma.com/images/blue/1.swf" menu="false" wmode="opaque" salign="" quality="high" pluginspage="https://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="592" height="123">
 			
 		</object>
-		
+
 		</div>
 	</td>
 </tr>
@@ -286,41 +286,40 @@ var WRInitTime=(new Date()).getTime();
 			<div class="spaces"><a href="http://www.robinsharma.com/index.htm"><img src="http://www.robinsharma.com/images/home_icon.gif"></a></div>
 			<div class="menusapceleft"><img src="http://www.robinsharma.com/images/blue/pixel.gif" width="15" height="46"></div>
 						 <div class="leadershiphome"><a href="http://www.robinsharma.com/leadership.htm" title="Home">Leadership Home</a></div>
-				
 		
+
 			<div class="menudivider"><img src="http://www.robinsharma.com/images/blue/pixel.gif" width="1" height="46"></div>
 
-			
+
 							<div class="bookrobin"> <a href="http://www.robinsharma.com/leadership_speaker_sli.htm" title="Personal Development Resources">Book Robin to Speak</a></div>
 			
 
 			<div class="menudivider"><img src="http://www.robinsharma.com/images/blue/pixel.gif" width="1" height="46"></div>
 
-			
+
 							<div class="blog"> <a href="http://www.robinsharma.com/leadership_blog.htm" title="Blogs">Blogs</a></div>
 			
 
 
 			<div class="menudivider">
 			<img src="http://www.robinsharma.com/images/blue/pixel.gif" width="1" height="46"></div>
-		
+
 							<div class="organizationalleadership"><a href="http://www.robinsharma.com/leadership_coaching_sli_9.htm" title="Leadership Coaching">Organizational Leadership</a></div>
 			
 			<div class="menudivider"><img src="http://www.robinsharma.com/images/blue/pixel.gif" width="1" height="46"></div>
-		
+
 			<div class="store"><a href="https://www.robinsharma.com/shop/" title="The Robin Sharma Store" target="_blank"><img src="http://www.robinsharma.com/images/blue/store_blue.jpg" border="0"></a></div>
-		
+
 			<div class="menudivider"><img src="http://www.robinsharma.com/images/blue/pixel.gif" width="1" height="46"></div>
 
 					<div class="gallery"><a href="http://www.robinsharma.com/gallery/index.php" title="The Robin Sharma Gallery">Backstage Gallery</a></div>
-				
+		
 		<div class="menudivider"><img src="http://www.robinsharma.com/images/blue/pixel.gif" width="1" height="46"></div>
-			
+
 
 
 					<div class="aboutus"><a href="http://www.robinsharma.com/executive_coaching_about_sli.htm" title="About SLI">About Us</a></div>
-				
-		</div>
+				</div>
 	</td>
 </tr>
  <tr>
@@ -439,7 +438,7 @@ var WRInitTime=(new Date()).getTime();
 									</form>	
 				<form name="sendReport" method="POST" action="http://www.robinsharma.com/scripts/send_report.php" target="EmailReport">
 					<input type="hidden" name="id" value="">			
-					<!-- <a href="#" onClick="javascript:submitForm(document.sendReport,'160',true);return false;" title="Robin's report">Email Robin's Latest Report to a Friend</a> -->
+					<!-- <a href="#" onClick="javascript:submitForm(document.sendReport,'167',true);return false;" title="Robin's report">Email Robin's Latest Report to a Friend</a> -->
 				</form>
 			</div>
 				<div style="float:left; "><img src="http://www.robinsharma.com/images/blue/new-right.jpg"></div>
