@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learner.org privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625115803id_/http%3A//www.learner.org/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learner.org privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106110015id_/http%3A//learner.org/about/privacy_policy.html) for the most accurate reproduction.*
 
 # Annenberg Media: Privacy Policy
 
