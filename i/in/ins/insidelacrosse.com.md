@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the insidelacrosse.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220102846id_/http%3A//www.insidelacrosse.com/page.cfm%3FpageRID%3D6%26news%3Dfdetail%26storyid%3D1648%26archive%3Dyes) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidelacrosse.com privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106064946id_/http%3A//www.insidelacrosse.com/privacypolicy) for the most accurate reproduction.*
 
-# None
+# Inside Lacrosse - Recruiting
 
 **INSIDE LACROSSE PRIVACY POLICY**   
 August 29, 2008  Kids and parents click here!
 
-The following Privacy Policy summarizes the various ways that bizjournals.com, Inc. (“Service Provider,” “we” or “our”) treats the information you provide while using www.InsideLacrosse.com (“Website”). It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy. 
+The following Privacy Policy summarizes the various ways that Street & Smith's Sports Group, a division of American City Business Journals, Inc. ("Service Provider," "we" or "our") treats the information you provide while using www.insidelacrosse.com  ("Website"). It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy. 
 
 Please read this Privacy Policy carefully. You can access the Privacy Policy any time at [http://www.InsideLacrosse.com/privacypolicy](http://www.insidelacrosse.com/privacypolicy/). **Your use of and/or registration on any aspect of the Website will constitute your agreement to this Privacy Policy.** If you cannot agree with the terms and conditions of this Privacy Policy, please do not use the Website. This Privacy Policy does not cover information collected elsewhere, including without limitation offline and on sites linked to from the Website. 
 
@@ -35,7 +35,7 @@ You may have read about "cookies," nuggets of information that are placed by a W
 
 Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. 
 
-We may also use advertising service vendors to help present advertisements on the Website.  These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith. If you do not want the benefits of these advertising cookies, you may be able to opt-out by visiting [http://www.networkadvertising.org/optout_nonppii.asp](http://www.networkadvertising.org/optout_nonppii.asp.). 
+We may also use advertising service vendors to help present advertisements on the Website. These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith. If you do not want the benefits of these advertising cookies, you may be able to opt-out by visiting [http://www.networkadvertising.org/optout_nonppii.asp](http://www.networkadvertising.org/optout_nonppii.asp.). 
 
 If you don't want any cookies, your Web browser likely includes an option that allows you to not accept them. However, if you set your browser to refuse cookies, some portions of the Website may not function properly. 
 
