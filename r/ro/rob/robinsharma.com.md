@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the robinsharma.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616094805id_/http%3A//www.robinsharma.com/canada_success_coach_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robinsharma.com privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106222856id_/http%3A//www.robinsharma.com/canada_success_coach_privacy.htm) for the most accurate reproduction.*
 
 # Privacy and Security | Robin Sharma | Sharma Leadership International
 
