@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefixers.com privacy policy that was archived on 2009-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090506220038id_/http%3A//www.unileverus.com/privacy/policy.html%3Fsite%3Dwww.thefixers.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefixers.com privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106070515id_/http%3A//www.unileverus.com/privacy/policy.html%3Fsite%3Dwww.thefixers.com) for the most accurate reproduction.*
 
 # Unilever Privacy Policy
 
