@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uwcfx.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430151750id_/http%3A//www.uwcfx.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwcfx.com privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106142109id_/http%3A//www.uwcfx.com/privacy-policy.html) for the most accurate reproduction.*
 
 # UWC — United World Capital | Privacy Policy
 
