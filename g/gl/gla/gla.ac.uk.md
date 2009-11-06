@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gla.ac.uk privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617175454id_/http%3A//www.gla.ac.uk/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gla.ac.uk privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106103448id_/http%3A//www.gla.ac.uk/legal/privacy) for the most accurate reproduction.*
 
 # University of Glasgow :: legal statements :: Privacy ::
 
