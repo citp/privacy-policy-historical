@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tigernet.com privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504092853id_/http%3A//www.tigernet.com/disclaimer.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigernet.com privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106220708id_/http%3A//www.tigernet.com/disclaimer.do) for the most accurate reproduction.*
 
-# TigerNet -- Disclaimer
+# TigerNet.com -- Disclaimer
 
 ### DISCLAIMER
 
