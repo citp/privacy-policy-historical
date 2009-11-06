@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldbook.ca privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618140710id_/http%3A//www.goldbook.ca/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldbook.ca privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106131915id_/http%3A//www.goldbook.ca/privacy.php) for the most accurate reproduction.*
 
 # 
 
