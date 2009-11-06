@@ -1,29 +1,31 @@
-> *The following text is extracted and transformed from the slipknot1.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619195116id_/http%3A//slipknot1.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slipknot1.com privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106190000id_/http%3A//www.slipknot1.com/privacy) for the most accurate reproduction.*
 
 # Slipknot × Privacy Policy
 
 ### Introduction
 
-Clique (“Clique”), a business unit of Sparkart Group, Inc., cares deeply about your privacy and the protection of your personal information, which is why we have devised this Privacy Policy. This policy statement describes how Clique helps protect your personal information. By using the Clique Services, you consent to the data practices described in this policy statement. Defined terms designated in the Terms of Use shall have the same definitions in this Privacy Policy.
+Clique (“Clique”), a business unit of Sparkart Group, Inc., cares deeply about your privacy and the protection of your personal information, which is why we have devised this Privacy Policy. This policy statement describes how Clique helps protect your personal information. By using the Clique Services, you consent to the data practices described in this policy statement. Defined terms designated in the Terms of Service shall have the same definitions in this Privacy Policy.
 
 ### Collection of Personal Information
 
-When you register for the Clique Services, you will be asked to provide certain personal information that will be stored as part of your registration data. The registration data contains various personal information which may include, but not be limited to, the following: (1) e-mail address, (2) first and last name, (3) country or region, (4) state or territory, (5) city, (6) zip code or postal code, (7) street address, (8) time zone, (9) gender, (10) language, (11) birth date and age, and (12) occupation. In addition to the above information, Clique may also collect and store the IP address of your computer or other networking device, which may be needed to operate various features of the Clique Services. We may also collect data pertaining to your online transactions, purchase history, and Clique Site and Clique Services usage patterns. Further, when you register for the Clique Services, you may be asked to create a password for your account. You may also be requested to provide secret questions and secret answers. You use your secret questions and answers, if applicable, to help verify your identity to Clique when there are account issues, such as needing to reset your password. You may also be requested to answer various questions about your consumer preferences or other information. Finally, we and some participating sites may require added security. In these cases, you may be asked to create a Clique ID security key.
+When you register for the Clique Services, you may be asked to provide certain personal information that may be stored as part of your registration data. The registration data contains various personal information which may include, but not be limited to, the following: (1) e-mail address, (2) first and last name, (3) country or region, (4) state or territory, (5) city, (6) zip code or postal code, (7) street address, (8) time zone, (9) gender, (10) language, (11) birth date and age, and (12) occupation. In addition to the above information, Clique may also collect and store the IP address of your computer or other networking device, which may be needed to operate various features of the Clique Services. We may also collect data pertaining to your online transactions, purchase history, and Clique Site and Clique Services usage patterns. Further, when you register for the Clique Services, you may be asked to create a password for your account. You may also be requested to provide secret questions and secret answers. You use your secret questions and answers, if applicable, to help verify your identity to Clique when there are account issues, such as needing to reset your password. You may also be requested to answer various questions about your consumer preferences or other information. Finally, we and some participating sites may require added security. In these cases, you may be asked to create a Clique ID security key.
 
 ### Use of Your Personal Information
 
 #### How We Will **Not** Use Your Personal Information:
 
-  * Except as stated in the next sentence, Clique will not sell or rent your personal information to third parties. Clique may sell, rent and disclose your personal information to the following third parties: artists and organizations for whom we operate a Web site (for example, a music group for whom we are operating a fan club Web site), and artists and organizations for whom we are selling concert tickets or merchandise. Please be aware that these third parties may have their own policies governing how they will use and disclose your personal information which may be different from this Privacy Policy.
+  * Except as stated in the next sentence, Clique will not sell or rent your personal information to third parties. Clique may provide, sell, rent and/or disclose your personal information to the following third parties: the recording artist, performer or other public figure, organization or other third party for whom we operate this Clique Site or Clique Service (for example, without limitation, a music group for whom we are operating a fan club Web site), or for whom we are selling concert tickets, merchandise and/or other products or services. Please be aware that these third parties may have their own policies governing how they will use and disclose your personal information which may be different from this Privacy Policy.
+
   * Clique will not use or share your personal information in a manner that differs from what is described in this Privacy Policy without your prior consent.
+
 
 
 
 Clique uses your personal information for the operation and maintenance of your Clique account and the Clique Services. For example, we may use your e-mail address to send you a welcome e-mail message when you first register informing you about the service and telling you how to manage your Clique account. You may be required to respond to this e-mail in order to validate that you are the owner of the email address associated with the Clique account. If applicable, failure to respond to the email and verify the address within the time stated in the email will cause the Clique account to become inactive. This process is designed to verify the validity of the email address and to help prevent email addresses from being used without permission in the creation of Clique accounts.
 
-As part of the Clique Services, we may recommend for your consideration various products and merchandise. Accordingly, we may analyze data pertaining to your online transactions, purchase history, and Clique Site and Clique Services usage patterns so that we can make recommendations suited especially to you.
+As part of the Clique Services, we may recommend for your consideration various services, products and merchandise. Accordingly, we may analyze data pertaining to your online transactions, purchase history, and Clique Site and Clique Services usage patterns so that we can make recommendations suited especially to you.
 
-We may also send you e-mail about periodic service or recommended security updates or surveys related to the Clique Service. These periodic e-mails are considered essential to the provision of the service you have requested. You cannot unsubscribe from these mailings. You may, however, choose not to participate in the surveys.
+We may also send you e-mail about periodic service updates, recommended security updates, or surveys related to the Clique Service. These periodic e-mails are considered essential to the provision of the service you have requested. You cannot unsubscribe from these mailings. You may, however, choose not to participate in the surveys.
 
 ### General Disclosure of Personal Information
 
@@ -35,7 +37,7 @@ Clique may disclose personal information if required to do so by law or in the g
 
 ### Disclosure of Personal Information to Clique ID Participating Sites
 
-The information about you stored in the Clique ID system is not shared with a Clique ID participating site, service or system unless you explicitly choose to use your Clique ID to register or sign in with the participating site. When you use your Clique ID to register or sign in with the participating site, service or system, the participating site, will receive some or all of the information about you stored in the Clique ID system. It is important for you to read the privacy statement for each Clique ID participating site, service or system that you visit before you register or sign in, so that you understand how that site may use your personal Clique ID information. Also, if you registered for a Clique ID through a participating site, service or system, then that registering site will receive the profile information at the time of registration.
+The information about you stored in the Clique ID system is not shared with a Clique ID participating site, service or system unless you explicitly choose to use your Clique ID to register or sign in with the participating site. When you use your Clique ID to register or sign in with the participating site, service or system, the participating site will receive some or all of the information about you stored in the Clique ID system. It is important for you to read the privacy statement for each Clique ID participating site, service or system that you visit before you register or sign in, so that you understand how that site may use your personal Clique ID information. Also, if you registered for a Clique ID through a participating site, service or system, then that registering site will receive the profile information at the time of registration.
 
 ### Use of Information by Clique ID Participating Sites
 
@@ -47,7 +49,7 @@ If Clique becomes aware of ongoing, site-specific privacy issues with a Clique I
 
 ### Managing Your Personal Information
 
-You can always add, update, or make other changes to the registration information stored in relation to your Clique ID. This is accessible by signing in to any Clique ID site in which you are registered. If you have a Clique ID, you may close your Clique ID account by contacting [Clique Customer Service](mailto:customersupport@cliqueinc.com).
+You can always add, update, or make other changes to the registration information stored in relation to your Clique ID. This is accessible by signing in to any Clique ID site in which you are registered. If you have a Clique ID, you may close your Clique ID account by [contacting Clique Customer Service](mailto:customersupport@cliqueinc.com).
 
 ### Sharing Your Personal Information
 
@@ -55,7 +57,7 @@ If you choose, you may opt-in to various features which may be available as part
 
 ### Security and Storage of Your Personal Information
 
-Clique is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access, that are located in controlled facilities.
+Clique is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access that are located in controlled facilities.
 
 You must type the correct password to access your information. It is your responsibility to ensure the security of your Clique account password and not to reveal this information to others.
 
@@ -79,10 +81,17 @@ You may have the ability to accept or decline cookies using the settings on your
 
 ### Change to This Privacy Policy
 
-Clique may occasionally update this Privacy Policy. When we do, Clique will endeavor to provide notice to users in the following ways: (1) Clique will update the “last updated” date at the bottom of the Privacy Policy; (2) Clique will post notice of the change as a news post on the Clique Site; and (3) Clique may email notice of the change to all Registered Users. Clique will obtain your consent for any updates to this Privacy Policy that expand the sharing or use of your personal information in ways not disclosed in this Privacy Policy.
+Clique may occasionally update this Privacy Policy. When we do, Clique will endeavor to provide notice to users in one or more of the following ways: (1) Clique will update the “last updated” date at the bottom of the Privacy Policy; (2) Clique may post notice of the update as a news post on the Clique Site; and (3) Clique may email notice of the update to all Registered Users. Clique will obtain your consent for any updates to this Privacy Policy that expand the sharing or use of your personal information in ways not disclosed in this Privacy Policy.
 
 ### Contact Us
 
-If you have questions regarding this Privacy Policy, please contact [Clique Customer Service](mailto:customersupport@cliqueinc.com).
+If you have questions regarding this Privacy Policy, please [contact Clique Customer Service](mailto:customersupport@cliqueinc.com).
+
+### Consumer Notice
+
+Sparkart Group, Inc. is a California corporation. Pursuant to California Civil Code § 1789.3, Sparkart Group, Inc. sets forth the following: (a) Sparkart Group, Inc. is located at 1714 Franklin Street, 2nd Floor, Oakland, CA 94612; (b) the fees and charges imposed on consumers of Sparkart Group, Inc. vary depending on the services you choose; and (c) if you have any complaints about Sparkart Group, Inc. or wish to receive further information about Sparkart Group, Inc., please [contact Customer Support](mailto:customersupport@cliqueinc.com). For complaints against Sparkart Group, Inc., you may also contact the Complaint Assistance Unit of the Division of Consumer Services of the Department of Consumer Affairs by (1) visiting www.dca.ca.gov/about_dca/contactus.shtml; (2) sending an email to dca@dca.ca.gov; (3) calling (800) 952-5210; or (4) writing to Department of Consumer Affairs, Consumer Information Division, 
+
+1625 North Market Blvd., Suite N, 112  
+Sacramento, CA 95834.
 
 **Last Updated: December 4, 2007**
