@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the webdeveloperplus.com privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505204219id_/http%3A//webdeveloperplus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webdeveloperplus.com privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106102748id_/http%3A//webdeveloperplus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Web Developer Plus
-
-## Privacy Policy
 
 Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
 
@@ -17,7 +15,7 @@ The type of personal information we collect are:
   * Email address (Comments)
   * Google AdSense that stores tracking cookies on your computer
   * 3rd party advertisements that may store tracking cookies on your computer to recognize repeated visits (only)
-  * Tracking cookies by various traffic counting services for statistical purposes - this data is not traceable back to you except for your IP address
+  * Tracking cookies by various traffic counting services for statistical purposes – this data is not traceable back to you except for your IP address
 
 
 
