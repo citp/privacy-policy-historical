@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoutfactory.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619045859id_/http%3A//www.shoutfactory.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoutfactory.com privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106151606id_/http%3A//www.shoutfactory.com/privacy.aspx) for the most accurate reproduction.*
 
 # Shout! Factory - Online Privacy Policy
 
