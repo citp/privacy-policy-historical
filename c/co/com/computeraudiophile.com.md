@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the computeraudiophile.com privacy policy that was archived on 2009-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090507061801id_/http%3A//www.computeraudiophile.com/content/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computeraudiophile.com privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106131416id_/http%3A//www.computeraudiophile.com/content/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Computer Audiophile
 
