@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pramac.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621060048id_/http%3A//www.pramac.com/europe/en/privacy-statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pramac.com privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106101704id_/http%3A//pramac.com/Europe/en/privacy-statement.asp) for the most accurate reproduction.*
 
 # PRAMAC - Privacy statement
 
