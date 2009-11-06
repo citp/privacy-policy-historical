@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rcseng.ac.uk privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429211706id_/http%3A//www.rcseng.ac.uk/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rcseng.ac.uk privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106072537id_/http%3A//www.rcseng.ac.uk/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement — The Royal College of Surgeons of England
 
 Privacy statement for users of this website. The website of The Royal College of Surgeons of England does not store or capture personal information, but merely logs the users IP address which is automatically recognised by the Web server.
 
-The website of The Royal College of Surgeons of England does not store or capture personal information, but merely logs the users IP address which is automatically recognised by the Web server.
+The website of The Royal College of Surgeons of England does not store or capture personal information, but merely logs the user's IP address which is automatically recognised by the Web server.
 
 We do not use cookies for collecting user information from the site and we will not collect any information about you except that required for system administration of the Web server.
 
@@ -14,7 +14,7 @@ This privacy policy only covers the Website of The Royal College of Surgeons of 
 
 ### Browser
 
-Used to locate and display Web pages via a software application. The most popular ones are Microsoft Internet Explorer and Netscape Navigator. 
+Used to locate and display Web pages via a software application. The most popular ones are Microsoft Internet Explorer and Mozilla Firefox.
 
 ### Cookie
 
@@ -24,9 +24,9 @@ Message given to a web browser by a web server. The message is then stored by th
 
 All networks connected to the Internet speak IP, the technical standard which allows data to be transmitted between two devices. TCP/IP (Transmission Control Protocol/Internet Protocol) is responsible for making sure messages get from one host to another and that the messages are understood.
 
-### IP address 
+### IP address
 
-If you are connected to the Internet your computer will have an IP address. For example, it may look something like this 198.184.98.9 
+If you are connected to the Internet your computer will have an IP address. For example, it may look something like this 198.184.98.9
 
 ### Web Server
 
