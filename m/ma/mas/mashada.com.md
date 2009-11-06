@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mashada.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617171656id_/http%3A//www.mashada.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mashada.com privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106133119id_/http%3A//www.mashada.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Mashada
+# Privacy Policy - Mashada.com
+
+## Privacy Policy
 
 Thank you for visiting Mashada.com site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this Mashada.com site. 
 
@@ -34,7 +36,7 @@ Although we take appropriate measures to safeguard against unauthorized disclosu
 
 If a Mashada.com site discloses personally identifiable information to companies not owned by Mashada.com who want to market products or services to you, it will provide you with an opportunity to opt out or block such uses. For instructions on how to opt out from such disclosures, please [privacy@mashada.com](mailto:privacy@mashada.com) or go to: <http://www.mashada.com/contact.php>.
 
-Mashada.com may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive marketing information from this site, [privacy@mashada.com](mailto:privacy@mashada.com) or go to: <http://www.mashada.com/contact.php>.
+Mashada.com may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive marketing information from this site, [privacy@mashada.com](mailto:privacy@mashada.com) or go to: [http://www.mashada.com/contact](https://web.archive.org/contact).
 
 Finally, Mashada.com sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
 
@@ -60,10 +62,10 @@ We have put in place appropriate physical, electronic, and managerial procedures
 
 **How You can Access or Correct Information**
 
-For instructions on how you can access the personally identifiable information that this Mashada.com site has collected about you online, or how to correct factual errors in such information, please go to: <http://www.mashada.com/contact.php>.
+For instructions on how you can access the personally identifiable information that this Mashada.com site has collected about you online, or how to correct factual errors in such information, please go to: [http://www.mashada.com/contact](https://web.archive.org/contact).
 
 To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
 
 **How to Contact Us**
 
-If you have any questions or concerns about the Mashada.com online policy for this site or its implementation you may contact us at [privacy@mashada.com](mailto:privacy@mashada.com), or by going to: <http://www.mashada.com/contact.php>.
+If you have any questions or concerns about the Mashada.com online policy for this site or its implementation you may contact us at [privacy@mashada.com](mailto:privacy@mashada.com), or by going to: [http://www.mashada.com/contact](https://web.archive.org/contact).
