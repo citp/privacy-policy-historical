@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the spruz.com privacy policy that was archived on 2009-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090506175437id_/http%3A//spruz.com/%3Fpage%3Dcsm%26cmd%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spruz.com privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106220751id_/http%3A//www.spruz.com/%3Fpage%3Dcsm%26cmd%3Dprivacy) for the most accurate reproduction.*
 
-# Spruz - Make a Website ,Build your own website. Easy Free Website
+# Spruz - Make a Free Website ,Social websites. Your own social network
 
 **PRIVACY POLICY - COMMITMENT TO YOUR PRIVACY**
 
-This site owned by Spruz Inc. and is Operating as  Spruz. Your privacy on the Internet is of the utmost importance to us. At Spruz Inc, we want to make your experience online satisfying and safe.
+This site by the Spruz Social Website Platform and is Operating as  Spruz. Your privacy on the Internet is of the utmost importance to us. At Spruz Inc, we want to make your experience online satisfying and safe.
 
 Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
 
