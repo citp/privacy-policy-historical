@@ -1,32 +1,10 @@
-> *The following text is extracted and transformed from the unwired.com.au privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428150337id_/http%3A//www.unwired.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unwired.com.au privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106103355id_/http%3A//www.unwired.com.au/privacy.php) for the most accurate reproduction.*
 
-# Unwired - Privacy Policy
+# Privacy Policy | www.unwired.com.au
 
-This privacy policy and collection statement applies to the www.unwired.com.au website and sets out the information handling policies of Unwired Australia Pty Limited ABN 78 094 107 589. By accessing this website you agree to the terms of this privacy policy and collection statement.
+* * *
 
-Unwired has adopted this privacy policy to demonstrate its commitment to handling personal information about individuals responsibly and in compliance with legal requirements of privacy protection.
-
-We comply with the National Privacy Principles contained in the Privacy Act 1988.
-
-  
-
-
-  * What personal information we collect
-  * How we collect personal information
-  * We do not collect information from children
-  * How we use personal information
-  * We do not share your personal information
-  * Your personal information is secure
-  * Your credit card details
-  * Identifying yourself over the phone
-  * Cookies
-  * Email and spam
-  * Help us to ensure we hold accurate information
-  * Your rights
-  * What to do if you think we have made a mistake
-  * How to contact us
-
-
+* * *
 
 ## What personal information we collect
 
