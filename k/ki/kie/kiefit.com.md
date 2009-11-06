@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiefit.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420003133id_/http%3A//www.kiefit.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiefit.com privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106102741id_/http%3A//www.kiefit.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
