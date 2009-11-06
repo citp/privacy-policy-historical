@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the equitynet.com privacy policy that was archived on 2009-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090519212128id_/http%3A//equitynet.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equitynet.com privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106145401id_/http%3A//www.equitynet.com/privacy.aspx) for the most accurate reproduction.*
 
 # EquityNet
 
