@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrsupplement.com.au privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622172855id_/http%3A//www.mrsupplement.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrsupplement.com.au privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106113227id_/http%3A//www.mrsupplement.com.au/privacy.php) for the most accurate reproduction.*
 
 # MrSupplement Australia - Privacy Policy
 
