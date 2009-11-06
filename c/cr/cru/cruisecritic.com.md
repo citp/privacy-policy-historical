@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cruisecritic.com privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502103236id_/http%3A//www.cruisecritic.com/aboutus/%3FID%3D11) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisecritic.com privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106234504id_/http%3A//www.cruisecritic.com/aboutus/%3FID%3D11) for the most accurate reproduction.*
 
 # CruiseCritic.com - About Us
 
@@ -8,7 +8,7 @@ Privacy Policy
 
 We have adopted the following Principles of Privacy, which summarize and clarify that commitment: how we safeguard your privacy and how we treat personal information. We understand that for you to take full advantage of our interactive medium, we must do everything we can to ensure that your privacy is secure. 
 
-1\. If we at any time ask for any personal information, we will not give it out to anyone unless you tell us to do so or unless specifically noted on contest entry forms that it will be shared with a contest sponsor. Also, if you choose to subscribe to our newsletter or make a purchase from our store, Cruise Critic may send you information about updates to our site, invitations to special events, promotions and fun stuff about Cruise Critic! 
+1\. If we at any time ask for any personal information, we will not give it out to anyone unless you tell us to do so or unless specifically noted on contest entry forms that it will be shared with a contest sponsor. Also, if you choose to subscribe to our newsletter, join our forums or make a purchase from our store, Cruise Critic may send you information about updates to our site, invitations to special events and promotions we feel may be of interest to you. 
 
 2\. We do not give out to others information about where you personally go on Cruise Critic. 
 
