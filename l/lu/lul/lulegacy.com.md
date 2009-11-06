@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lulegacy.com privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612212854id_/http%3A//www.lulegacy.com/user/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lulegacy.com privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106024319id_/http%3A//www.lulegacy.com/user/privacypolicy) for the most accurate reproduction.*
 
 # The Legacy
 
@@ -18,7 +18,7 @@ This Privacy Policy is intended to explain our privacy practices and inform you 
 
 
 
-This Site is offered and made available only to users 16 years of age or older who reside in the United States of America, its territories and possessions (“U.S.”). **If you are not yet 16 years old, or do not reside in the U.S., please discontinue using the Site immediately, or if, for any reason, you do not agree with this Privacy Policy, please do not participate in the features, activities and services that require you to provide your Personal Information.** This Privacy Policy is a part of the terms and conditions which are set forth in our _[Terms of Use Agreement](http://www.lulegacy.com/user/terms)_. Any terms that are not defined in this Privacy Policy shall have the meaning given in the Terms of Use Agreement. Both the Privacy Policy and Terms of Use Agreement are legally binding on all users. 
+This Site is offered and made available only to users 16 years of age or older who reside in the United States of America, its territories and possessions (“U.S.”) and certain features on this Site (including, but not limited to, user registration and newsletter signups) may be subject to heightened age and/or other eligibility requirements. **If you are not yet 16 years old or the required greater age for certain features, or do not reside in the U.S., and/or do not meet any other eligibility requirements, please discontinue using the Site immediately, or if, for any reason, you do not agree with this Privacy Policy, please do not participate in the features, activities and services that require you to provide your Personal Information.** This Privacy Policy is a part of the terms and conditions which are set forth in our _[Terms of Use Agreement](http://www.lulegacy.com/user/terms)_. Any terms that are not defined in this Privacy Policy shall have the meaning given in the Terms of Use Agreement. Both the Privacy Policy and Terms of Use Agreement are legally binding on all users. 
 
 We reserve the right to revise this Privacy Policy at any time by updating this posting without advance notice to you. Such revisions shall be effective to you immediately upon posting. Notice of material changes to either document will be posted on the Site’s homepage. However, we encourage you to check this Privacy Policy and Terms of Use Agreement often for updates. We may also e-mail you, at our discretion, about these changes.
 
@@ -142,6 +142,6 @@ We reserve the right to deny access, use and registration privileges to any user
 
 **11\. Sole Statement:** This document is the sole statement of the Site’s Privacy Policy and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, without limitation, machine-generated, is valid.
 
-This Privacy Policy was last modified on April 27, 2009 and is effective immediately.
+This Privacy Policy was last modified on September 9, 2009 and is effective immediately.
 
 Copyright ©2009 MTV Networks, a division of Viacom International Inc. - All Rights Reserved.
