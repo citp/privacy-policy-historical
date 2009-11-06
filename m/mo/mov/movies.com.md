@@ -1,11 +1,14 @@
-> *The following text is extracted and transformed from the movies.com privacy policy that was archived on 2008-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080910164903id_/http%3A//www.fandango.com/redirect.aspx%3Fsearchby%3Durl%26a%3D11828%26dte%3D0%26url%3Dhttp%3A//www.fandango.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movies.com privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106020449id_/http%3A//www.fandango.com/redirect.aspx%3Fsearchby%3Durl%26a%3D11828%26dte%3D0%26url%3Dhttp%3A//www.fandango.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Fandango | Privacy Policy
+
+  
+
 
   * [Purchase Policy](http://www.fandango.com/PurchasePolicy.aspx)
   * Privacy Policy
   * [Terms of Use](http://www.fandango.com/TermsOfUse.aspx)
-  * [Fandango Bucks](https://www.fandango.com/FBTerms.aspx)
+  * [Fandango Bucks](https://www.fandango.com/fbs/FBTerms.aspx)
   * [Fandango Mobile](http://www.fandango.com/fmterms.aspx)
 
 
