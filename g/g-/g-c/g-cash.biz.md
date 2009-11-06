@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the g-cash.biz privacy policy that was archived on 2009-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090425223242id_/http%3A//www.g-cash.biz/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the g-cash.biz privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106152200id_/http%3A//www.g-cash.biz/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,4 +15,4 @@ G-CASH.BIZ!
 You will receive ID and PW instantly after filling up the form. 
 
 If you already have a website,   
-please click [here](https://web.archive.org/web/20090425223242id_/http%3A//www.g-cash.biz/ready.html).
+please click [here](https://web.archive.org/web/20091106152200id_/http%3A//www.g-cash.biz/ready.html).
