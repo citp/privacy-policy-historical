@@ -1,21 +1,8 @@
-> *The following text is extracted and transformed from the wtrf.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430163930id_/http%3A//www.wtrf.com/page.cfm%3Fpageid%3D316) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtrf.com privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106151342id_/http%3A//www.wtrf.com/page.cfm%3Fpageid%3D316) for the most accurate reproduction.*
 
 # WTRF-TV – News for Wheeling, West Virginia and the Ohio Valley - WTRF.com
 
-|   
----  
-  
-|  |  | **Polls**  
----  
-There are currently no active polls at this time. 
-
-[Click here](https://web.archive.org/web/20090430163930id_/http%3A//www.wtrf.com/poll.cfm?func=viewoldpolls) to view other polls on our site and past poll results.
-
-* * *  
-  
-| 
-
-[Home](https://web.archive.org/web/20090430163930id_/http%3A//www.wtrf.com/index.cfm) > Privacy Policy
+[Home](https://web.archive.org/web/20091106151342id_/http%3A//www.wtrf.com/index.cfm) > Privacy Policy
 
 Privacy Policy
 
