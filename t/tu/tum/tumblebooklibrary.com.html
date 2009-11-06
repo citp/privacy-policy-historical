@@ -1,17 +1,25 @@
-<!--The following is the downloaded HTML source of the tumblebooklibrary.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216160613id_/http%3A//www.tumblebooks.com/library/asp/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tumblebooklibrary.com privacy policy that was archived on 2009-11-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091106235854id_/http%3A//www.tumblebooks.com/library/asp/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>TumbleBooks - eBooks for eKids!</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <link rel="stylesheet" href="../../mystylesheets.css" type="text/css">
+
 <style>
  #Layer1 { position:absolute; width:134px; height:99px; z-index:1; left: 26px; top: 180px}
   .bookTitle{ font-size : 14pt;color : #003982;font-weight : bold; }
  .bookpageTitle {color: #fe792c}
+.msgSet
+{
+	color: #003982;
+	font-size: 12px;
+    }
 </style>
 
-<script language="JavaScript">
+<script type="text/javascript" src="../../public/cookie.js"></script>
+<script type="text/javascript" src="includes/JScript.js"></script>
+<script type="text/javascript">
 <!--
 
 function MM_swapImgRestore() { //v3.0
@@ -42,9 +50,62 @@ function changeimg(m,nme) {
 function MM_openBrWindow(theURL,winName,features) { //v2.0
   window.open(theURL,winName,features);
 }
+function selectChange() {
+    if (document.getElementById('Select2')) {
+        if (document.getElementById('Select2').value == 'Reading Level Automatic') {
+            document.getElementById('Select3').style.display = 'inline';
+            document.getElementById('Select4').style.display = 'none';
+            document.getElementById('categoryText').style.display = 'none';
+            document.getElementById('Select5').style.display = 'none';
+            document.getElementById('Select6').style.display = 'none';
+            document.getElementById('SelectSubject').style.display = 'none';
+        }
+        else if (document.getElementById('Select2').value == 'Reading Level Manual') {
+            document.getElementById('Select3').style.display = 'none';
+            document.getElementById('Select4').style.display = 'inline';
+            document.getElementById('categoryText').style.display = 'none';
+            document.getElementById('Select5').style.display = 'none';
+            document.getElementById('Select6').style.display = 'none';
+            document.getElementById('SelectSubject').style.display = 'none';
+        }
+        else if (document.getElementById('Select2').value == 'Publisher') {
+            document.getElementById('Select3').style.display = 'none';
+            document.getElementById('Select4').style.display = 'none';
+            document.getElementById('categoryText').style.display = 'none';
+            document.getElementById('Select5').style.display = 'inline';
+            document.getElementById('Select6').style.display = 'none';
+            document.getElementById('SelectSubject').style.display = 'none';
+        }
+        else if (document.getElementById('Select2').value == 'book_lang_id') {
+            document.getElementById('Select3').style.display = 'none';
+            document.getElementById('Select4').style.display = 'none';
+            document.getElementById('categoryText').style.display = 'none';
+            document.getElementById('Select5').style.display = 'none';
+            document.getElementById('Select6').style.display = 'inline';
+            document.getElementById('SelectSubject').style.display = 'none';
+        }
+        else if (document.getElementById('Select2').value == 'Status') {
+            document.getElementById('Select3').style.display = 'none';
+            document.getElementById('Select4').style.display = 'none';
+            document.getElementById('categoryText').style.display = 'inline';
+            document.getElementById('Select5').style.display = 'none';
+            document.getElementById('Select6').style.display = 'none';
+            document.getElementById('SelectSubject').style.display = 'inline';
+        }
+        else {
+            document.getElementById('Select3').style.display = 'none';
+            document.getElementById('Select4').style.display = 'none';
+            document.getElementById('categoryText').style.display = 'inline';
+            document.getElementById('Select5').style.display = 'none';
+            document.getElementById('Select6').style.display = 'none';
+            document.getElementById('SelectSubject').style.display = 'none';
+        }
+    }
+}
+
+window.onload = selectChange;
 //-->
 </script>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 </head>
 <body bgcolor="#6699FF" text="#000000" onload="MM_preloadImages('../images/tumblebooks_button-over.gif','../images/tumblereader_button-over.gif','../images/tumblekids_button-over.gif','../images/info_button-over.gif','../images/myaccount_down.gif','../images/contact_button-over.gif','../images/help_button-over.gif','../images/home_down.gif','../../images/goarrow_down.gif')" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center" name="outer_table" bgcolor="#FFFFFF" height="100%" id="Table1">
@@ -71,13 +132,14 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
                 <td align="center">
 				<table cellpadding="0" cellspacing="0" border="0" width="100%" id="Table5">
 				<tbody><tr>
-					<td align="center"><img src="../../images/tagline_stacked2.gif" width="134" height="99" border="0"></td> 
+                
+                    <td></td>
+                    
                     <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
                     <td>
 						<table cellpadding="0" cellspacing="0">
 						<tbody><tr>
 						<td><img src="../../images/header_logo2.gif" width="368" height="100" border="0">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td><td>
-						<img src="../../images/spacer.gif" width="134" height="99" border="0">
 						</td>
 						</tr>
 						<tr>
@@ -214,14 +276,97 @@ function changePage(newLoc)
     </td>
     <td bgcolor="#000000" height="141"><img src="../../images/spacer.gif" width="6" height="6"></td>
   </tr>
-            <tr>
+<script type="text/javascript">
+<!--
+function ajaxCounter( options ) {
+    options = {
+        type: options.type || "POST",
+        url: options.url || "",
+        data: options.data || "",
+        timeout: options.timeout || 5000,
+        onComplete: options.onComplete || function(){},
+        onError: options.onError || function(){},
+        onSuccess: options.onSuccess || function(){}
+    };
+
+	if ( typeof XMLHttpRequest == "undefined" )
+			XMLHttpRequest = function(){
+					return new ActiveXObject(
+							navigator.userAgent.indexOf("MSIE 5") >= 0 ?
+							"Microsoft.XMLHTTP" : "Msxml2.XMLHTTP"
+					);
+			};
+
+	var xml = new XMLHttpRequest();
+
+    xml.open(options.type, options.url, true);
+
+    var timeoutLength = options.timeout;
+
+    var requestDone = false;
+
+    setTimeout(function(){
+         requestDone = true;
+    }, timeoutLength);
+
+    xml.onreadystatechange = function(){
+        if ( xml.readyState == 4 && !requestDone ) {
+
+            if ( httpSuccess( xml ) ) {
+
+                options.onSuccess( httpData( xml, options.data ) );
+
+            } else {
+                options.onError();
+            }
+
+            options.onComplete();
+
+            xml = null;
+        }
+    };
+
+    xml.send(null);
+
+    function httpSuccess(r) {
+        try {
+            return !r.status && location.protocol == "file:" ||
+
+                ( r.status >= 200 && r.status < 300 ) ||
+
+                r.status == 304 ||
+
+                navigator.userAgent.indexOf("Safari") >= 0 && typeof r.status == "undefined";
+        } catch(e){}
+
+        return false;
+    }
+
+    function httpData(r,data) {
+        var ct = r.getResponseHeader("content-type");
+
+        var isXML = !data && ct && ct.indexOf("xml") >= 0;
+
+        var responseValue = data == "xml" || isXML ? r.responseXML : r.responseText;
+
+        if ( data == "script" )
+            eval.call( window, responseValue );
+
+        return responseValue;
+    }
+
+}
+//-->
+</script>
+			<tr>
                 <td bgcolor="#000000" height="50">
                     &nbsp;</td>
                 <td bgcolor="#000000" background="../../images/indexbg2.gif" valign="center" height="50">
-                    
-                        <div align="center" valign="center">
-                            
-                            <font face="Arial, Helvetica, sans-serif" size="-2"><a href="home_tumblebooks.asp">Home</a>
+				   <div align="center" valign="center">
+				   <img src="../../images/spacer.gif" width="150" height="50"><a href="Testimonials/Testimonials_home.htm"><img src="../../images/Icon_testimonials3.gif" border="0"></a>
+				    
+                            <br>
+							<font face="Arial, Helvetica, sans-serif" size="-2"><a href="home_tumblebooks.asp">Home</a>
                                 •<a href="contact.asp">Contact Us</a> • <a href="help.asp">Help</a>•<a href="privacy.asp">Privacy Statement</a>• <a href="termsofuse.asp">Terms of Use</a></font></div>
                 </td>
                 <td bgcolor="#000000" height="50">
