@@ -1,21 +1,29 @@
-> *The following text is extracted and transformed from the texasguntrader.com privacy policy that was archived on 2008-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081205045854id_/http%3A//www.texasguntrader.com/classifieds/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texasguntrader.com privacy policy that was archived on 2009-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091107133646id_/http%3A//www.texasguntrader.com/privacy.htm) for the most accurate reproduction.*
 
 # 
 
 [Home](http://www.texasguntrader.com/classifieds/index.php)
 
-**Privacy Policy Statement      Created June 14, 2007**
+The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized.
+
+-U.S. Constitution, 4th amendment.
+
+**Privacy Policy Statement      Created December 9, 2008**
 
 We will take all reasonable steps to protect your personal information. 
 
-We will **not** distribute your personal information (including email address) to any third party. 
+We will **not** distribute your personal information (including email address) to any third party*. 
 
-IRC channels, forums, blogs, and wiki pages are available to our community. Any information that you disclosed in these areas becomes public information. Please exercise caution when deciding to disclose any personal information in those areas. 
+IRC channels, classified ads, forums, blogs, wiki pages, RSS feeds, and other components are available to our community. Any information that you disclose(d) in these areas becomes public information. Please exercise caution when deciding to disclose any personal information on this website. 
 
-We may from time to time update this Policy. We ask that you bookmark and periodically review this page to ensure continuing familiarity with the most current version of the Policy. You can determine when this Policy was last revised by checking the "Effective Date of Current Policy" legend at the top of the Policy.
+Our servers are located in a highly secure complex, and incorporate all industry standard measures for both physical and data security. 
 
-Our servers are located in a highly secure complex and incorporate all necessary security precautions, both physical and data security. 
+We may use your IP address or MAC address information for internal uses such as gathering demographic information. Other examples of the information we automatically collect include login name, email address, password, computer and connection information such as browser type and version, operating system, and platform. This information will **not** be shared with third parties*. This information can be used for statistical analysis. 
 
-We may use your IP address to administer our website, or to gather broad demographic information. Other examples of the information we automatically collect include login name, email address, password, computer and connection information such as browser type and version, operating system, and platform. This information will **not** be shared with third parties. This information can be used for statistical analysis. 
+IP Address, email, and initial user communications are logged and may be reviewed internally for dispute resolution.
 
-We respect your privacy!
+We may from time to time update this Policy. We ask that you bookmark and periodically review this page to ensure continuing familiarity with the most current version of the Policy. You can determine when this Policy was last revised by checking the "Created" date at the top of the Policy.
+
+**We respect your privacy.**
+
+*In the event of a court ordered criminal investigation Texas Gun Trader will cooperate with law enforcement officials. We will submit only information relevent to the investigation. We support your individual liberties.
