@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the pup.edu.ph privacy policy that was archived on 2008-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080621125422id_/http%3A//www.pup.edu.ph/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pup.edu.ph privacy policy that was archived on 2009-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091107090913id_/http%3A//www.pup.edu.ph/help/privacy.aspx) for the most accurate reproduction.*
 
-# PUPWebSite : Help and Support : Privacy Statement
+# PUP : Help and Support Center : Privacy Statement
 
 PUPWebSite is very much aware in protecting your privacy and personal information. This statement discloses how PUPWebSite helps protect your personal information while using PUPWebSite. This Privacy Statement only applies to PUPWebSite.  Other sites that has a link from this site may have a separate privacy statement. Please read the PUPWebSite Privacy Statement carefully.
+
+* * *
 
 PUPWebSite uses PUPWebSite Connect ("Connect") as its registration and authentication service. When you sign-up to Connect, you will be asked to provide your username and a password. This same Connect Account allows you to access many other Connect Services.
 
@@ -22,7 +24,7 @@ We keep this information on file with any information you've already given us on
 
 **Collection of Other Information**
 
-Aside from the Personal Information, PUPWebSite also collects certain information about your computer system. This information includes your (1) IP address, (2) browser type, (3) operating system, (4) domain name, (5) access times, and (6) referring Web site addresses. The collection of these data only occurs every initial access to PUPWebSite.  This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding the use of PUPWebSite.
+Aside from the Personal Information, PUPWebSite (together with Google® Analytics) also collects certain information about your computer system. This information includes your (1) IP address, (2) browser type, (3) operating system, (4) domain name, (5) access times, and (6) referring Web site addresses. The collection of these data may occur every initial access and specific pages within PUPWebSite.  This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding the use of PUPWebSite.
 
 PUPWebSite also collects information about which pages you visit within the site. This site visitation data is identified only by a unique ID number, and it is never linked with any Personal Information unless you give your consent, as described below.
 
@@ -44,14 +46,14 @@ Connect also temporarily logs individual sign-ins for the purpose of ensuring th
 
 **Collection of Optional Information in MyProfile**
 
-Optional Information is also collected in the MyProfile. You have the option to fill-in the information or not.  Optional Information includes: (1) Home Information (Address, City/Municipality, Country, State/Province, Zip Code, Contact Number, Fax Number), and (2) Work Information (Company Name, Address, City/Municipality, Country, State/Province, Zip Code, Contact Number, Fax Number).
+Optional Information is also collected in the MyProfile. You have the option to fill-in the information or not.  Optional Information includes: (1) Home Information (Address, City/Municipality, Country, State/Province, Zip Code, Contact Number, Fax Number), and (2) Work Information (Company Name, Address, City/Municipality, Country, State/Province, Zip Code, Contact Number, Fax Number). These information are shared only upon your approval should any of your former classmates or friends wants to contact you.
 
 * * *
 
 **Use of your Personal Information**
 
 **How PUPWebSite Will NOT Use Your Personal Information  
-**PUPWebSite will not sell or rent your Personal Information to third parties; and PUPWebSite will not use or share your Personal Information in a manner that differs from what is described in this Privacy Statement without your prior consent. 
+**PUPWebSite will not give, sell or rent your Personal Information to third parties; and PUPWebSite will not use or share your Personal Information in a manner that differs from what is described in this Privacy Statement without your prior consent. 
 
 **How PUPWebSite Uses Your Personal Information  
 **PUPWebSite uses your Personal Information for the operation and maintenance of your Connect Account and the Connect Service. For example, Connect uses your e-mail address to send you a welcome e-mail message when you first sign-up informing you about the Service, telling you how to manage your Connect Account. You will receive a separate e-mail to which you must respond in order to validate that you are the owner of the e-mail address associated with the Connect Account.  This process is designed to verify the validity of the e-mail address and to help prevent e-mail addresses from being used without permission in the creation of Connect Accounts. 
@@ -83,13 +85,13 @@ The information stored by PUPWebSite is not shared.  The specific details of wh
 
 **Shared Information between PUPWebSite, PUPWebSite Connect, and the PUP Centennial Site**
 
-Your Connect information may be shared with PUPWebSite and the PUP Centennial Site when you sign-in Connect. This will enable integration, ease of access, and unified behavior between the three sites, and use available information to deliver relevant content to you wherever the three sites you are in.  If you prefer not to use this option, you can always deactivate it in PUPWebSite > Tools > Site Options.
+Your Connect information may be shared with PUPWebSite when you sign-in Connect. This will enable integration, ease of access, and unified behavior between services within PUPWebSite, and use available information to deliver relevant content to you wherever the online service you are in PUPWebSite.  If you prefer not to use this option, you can always deactivate it in PUPWebSite > Tools > Site Options.
 
 * * *
 
 **Connect Services That Require Your Account**
 
-Currently, there are a few Connect Services that require your Account in order to provide you with its corresponding service. For example, PUPWebSite Instant Messaging requires your Account to provide your requested messaging services.
+Currently, there are a few Connect Services that require your Account in order to provide you with its corresponding service. For example, PUPWebSite Connect Messenger requires your Account to provide your requested messaging services.
 
 * * *
 
@@ -107,7 +109,7 @@ If PUPWebSite becomes aware of issues concerning its Privacy Statement, we will 
 
 We will provide you with the means to ensure that your Personal Information is correct and current.
 
-If you signed-up on PUPWebSite Connect, you can always add, update, delete, or make other changes to your information in the MyProfile. You need to sign-in first before viewing your Personal Information.
+If you signed-up with PUPWebSite Connect, you can always add, update, delete, or make other changes to your information in the MyProfile. You need to sign-in first before viewing your Personal Information.
 
 * * *
 
@@ -115,15 +117,13 @@ If you signed-up on PUPWebSite Connect, you can always add, update, delete, or m
 
 You may terminate your Connect Account by contacting the PUPWebSite Technical Support through e-mail. 
 
-If you attempt to sign-up for Connect Account and find that someone else has already created a Connect Account with your e-mail address, you have the option of contacting the PUPWebSite Technical Support and requesting that the Connect Account using your e-mail address be forced to change so that you may use your e-mail address in your Connect Account.
+If you attempt to sign-up for Connect Account and find that someone else has already created a Connect Account with your e-mail address, you have the option of contacting the PUPWebSite Technical Support and requesting that the Connect Account using your e-mail address be forced to change so that you may use your e-mail address in your Connect Account. Terms and conditions may apply.
 
 * * *
 
-**Inactivation and Deletion of Account**
+**Closing, Inactivation and Deletion of Account**
 
-PUPWebSite will delete your Connect Account if it remains inactive for an extended period of time. Inactivity is defined as a failure to sign-in to your Connect Account. 
-
-Your Connect Account will be made inaccessible if it remains inactive for sixty (60) days, and any account or profile information you have provided will be deleted.
+PUPWebSite will mark your Connect Account as "closed" if it remains inactive for an extended period of time. Inactivity is defined as a failure to sign-in to your Connect Account. Your Connect Account will be made inaccessible if it remains inactive for sixty (60) days, and any account or profile information you have provided will be stored in archives.
 
 * * *
 
@@ -139,13 +139,13 @@ Your information are stored and processed in the Philippines, and, by using PUPW
 
 **Use of Cookies**
 
-When you visit PUPWebSite, a cookie is placed on your machine (if your computer system accepts cookies) or is read if you have visited the site previously.  A cookie is a very small text file that a Web site saves to your computer's hard disk to store information relevant to the operations of PUPWebSite.  Another use of cookies is to assist in the collection of the site visitation statistics described above.
+When you visit PUPWebSite, a cookie is placed on your machine (if your computer system accepts cookies) or is read if you have visited the site previously.  A cookie is a very small text file that a Web site saves to your computer's hard disk to store information relevant to the operations of PUPWebSite.  Another use of cookies is to assist in the collection of the site visitation statistics as described above.
 
-If you choose not to have your browser accept cookies from PUPWebSite, you will be able to view the Web pages, however you will not experience a personalized visit nor will you be able to subscribe to the online service offerings on the site. 
+If you choose not to have your browser accept cookies from PUPWebSite, you will be able to view the Web pages, however you will not have a personalized experience nor will you be able to subscribe to the online service offerings on the site. 
 
 Connect also uses cookies whenever you browse the site or sign-in using your Account. Connect stores your unique identifier and your Connect Account information in an encrypted cookie on your hard disk. This cookie allows you to move from page to page within Connect without having to sign-in again on each page. When you sign-out of Connect, these cookies are deleted from your computer.  When you use automatic sign-in, these cookies remain in your computer until you sign-out of Connect.
 
-You have the ability to accept or decline cookies using the settings on your browser or computer system. However, if you choose to decline cookies, you will not be able to sign-in using your Connect Account. 
+You have the ability to accept or decline cookies using the settings on your Web browser or computer system. However, if you choose to decline cookies, you will not be able to sign-in using your Connect Account. 
 
 * * *
 
@@ -159,7 +159,7 @@ If you do not receive acknowledgment of your inquiry or your inquiry has not bee
 
 **Changes to this Statement**
 
-PUPWebSite will occasionally update this Privacy Statement. When we do, we will also revise the "last updated" date at the top and bottom of the Privacy Statement.  For material changes to this statement, PUPWebSite will notify you by placing prominent notice on the Web site.
+PUPWebSite will occasionally update this Privacy Statement. When we do, we will also revise the "last updated" date at the bottom of the Privacy Statement.  For material changes to this statement, PUPWebSite will notify you by placing prominent notice on the Web site.
 
 * * *
 
@@ -175,4 +175,9 @@ A. Mabini Campus, Sta. Mesa, Manila, Philippines 01008
     Fax Number: +632.338.74.15
     inquire@pup.edu.ph
 
-This document was last updated on April 10, 2007
+This document was updated last Tuesday, September 22, 2009  
+ 
+
+Contents
+
+Other Information
