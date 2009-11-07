@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsearch.gov.au privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625222357id_/http%3A//jobsearch.gov.au/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsearch.gov.au privacy policy that was archived on 2009-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091107220313id_/http%3A//jobsearch.gov.au/Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - Australian JobSearch
 
@@ -10,38 +10,39 @@ DEEWR must comply with the Privacy Act 1988 (Cth), and specifically the Informat
 
  [Federal Privacy Commissioner’s website](http://www.privacy.gov.au/ "External link. Opens in a new window.").
 
-## Who DEEWR discloses your personal information to
+## How DEEWR uses your personal information
 
-DEEWR collects personal information about you so you can take full advantage of JobSearch services and to assist you to find employment. The relevant personal information collected by DEEWR includes, but is not limited to, your name, date of birth, home phone, other phone, mobile phone, fax, email and personal website.
+DEEWR collects personal information about you so you can take full advantage of JobSearch services and to assist you to find employment. The relevant personal and protected information collected by DEEWR includes, but is not limited to, your name, date of birth, Job Seeker ID, Centrelink reference number, home phone, other phone, mobile phone, fax, email and personal website.
 
 Your personal information is used to:
 
-  * determine if you are eligible to take part in services provided by a Job Network member (JNM) or Job Placement Organisation (JPO)
+  * determine if you are eligible to take part in services provided by a Job Services Australia provider 
   * give you employment opportunities
-  * make sure correct payments are made to JNMs and JPOs for services they provide
-  * evaluate and monitor outcomes, programs and services delivered by JNMs and JPOs
-  * assist in resolving complaints made by you or your employment services provider
-  * include you in surveys conducted by DEEWR and its contracted providers
-  * help in the administration of programs
+  * make sure correct payments are made to Job Services Australia providers for services they provide 
+  * evaluate and monitor outcomes, programs and services delivered by Job Services Australia providers 
+  * assist in resolving complaints made by you or your Job Services Australia provider 
+  * include you in surveys conducted by DEEWR and its contracted providers 
+  * help in the administration of programs 
   * help DEEWR improve its service to job seekers.
 
 
 
-By using JobSearch you consent to your personal information being used for the above purposes. 
+By using JobSearch you consent to your personal information being used for the above purposes.
 
 ## Who has access to your personal information?
 
-DEEWR may share job seekers’ personal information with third parties to deliver its employment services.
+DEEWR may share job seekers’ personal and protected information with third parties to deliver its employment services and assist you to find employment.
 
 By applying for a position advertised on JobSearch you are requesting and authorising that DEEWR pass your personal information to the employer as a part of your application.
 
 Job seekers’ personal information may be disclosed by DEEWR to:
 
-  * Department of Human Services
-  * Department of Family, Housing, Community Services and Indigenous Affairs
-  * Centrelink
-  * employment service providers - to assist them provide employment services
-  * Telstra and Salmat SalesForce (under contract to DEEWR) – limited information to enable Telstra/Salmat SalesForce to re-issue passwords and assist job seekers
+  * Department of Human Services 
+  * Department of Family, Housing, Community Services and Indigenous Affairs 
+  * Centrelink 
+  * employment service providers - to assist them provide employment services 
+  * recruitment organisations (whether contracted to the Commonwealth or not)
+  * Telstra and Salmat/SalesForce (under contract to DEEWR) – limited information to enable Telstra/Salmat/SalesForce to re-issue passwords and assist job seekers 
   * employers.
 
 
@@ -50,8 +51,8 @@ When DEEWR contracts third parties to assist in performing employment services, 
 
 DEEWR may disclose job seekers’ personal information to third parties in certain limited circumstances authorised under the Privacy Act. This includes:
 
-  * to prevent or lessen a serious and imminent threat to the life or health of the individual concerned or another person
-  * when disclosure is required or authorised by law; or for the enforcement of criminal law or of a law imposing a fine
+  * to prevent or lessen a serious and imminent threat to the life or health of the individual concerned or another person 
+  * when disclosure is required or authorised by law; or for the enforcement of criminal law or of a law imposing a fine
   * for the protection of public revenue.
 
 
@@ -90,9 +91,9 @@ A cookie is a small text file that a server places on your hard drive to identif
 
 DEEWR only identifies users by their browsing activities in cases where a law enforcement agency exercises a warrant to inspect DEEWR's logs, or for the purposes of market research conducted by DEEWR or its contractors.
 
-### Personally identifiable information
+### Personal and Protected Information
 
-The personally identifiable information JobSearch collects includes your name, address and gender. This information is protected, and it is up to you to decide whether to disclose any relevant personal details. 
+The personal and protected information JobSearch collects includes your name, address, gender, Centrelink Reference Number and Job Seeker ID. This information is handled by DEEWR in accordance with privacy and social security law. 
 
 ### Email address
 
