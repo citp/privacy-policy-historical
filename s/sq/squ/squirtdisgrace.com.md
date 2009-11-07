@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the squirtdisgrace.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616151807id_/http%3A//squirtdisgrace.com/terms_conditions/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squirtdisgrace.com privacy policy that was archived on 2009-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091107085120id_/http%3A//squirtdisgrace.com/terms_conditions/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
