@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aqua-fish.net privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505081339id_/http%3A//www.aqua-fish.net/index.php%3Fcur_lang%3D2%26count%3Dno%26secured%3D%26section%3D53) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aqua-fish.net privacy policy that was archived on 2009-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091107091943id_/http%3A//www.aqua-fish.net/index.php%3Fcur_lang%3D2%26count%3Dno%26secured%3D%26section%3D53) for the most accurate reproduction.*
 
 # Tropical freshwater aquarium fish: [EN] Privacy Policy
 
-This page is available in English only, however it applies to each available language. 
+##### This page is available in English only, however it applies to each available language.
 
 ### Aqua-Fish.Net: Privacy Policy
 
@@ -12,9 +12,9 @@ Aqua-Fish.Net is committed to ensuring that your privacy is protected. Should we
 
 Aqua-Fish.Net may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 04/26/2007.
 
-**What we collect**
+#### What we collect
 
-We may collect the following information:
+We may collect the following information: 
 
   * name
   * contact information including email address
@@ -22,16 +22,16 @@ We may collect the following information:
 
 
 
-**What we do with the information we gather**
+#### What we do with the information we gather
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
 
   * Internal record keeping.
   * We may use the information to improve our services.
 
 
 
-**What we do NOT do with the information we gather**
+#### What we do NOT do with the information we gather
 
   * We do not share your information with third parties.
   * We do not send any unrequested emails.
@@ -39,11 +39,11 @@ We require this information to understand your needs and provide you with a bett
 
 
 
-**Security**
+#### Security
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-**How we use cookies**
+#### How we use cookies
 
 A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
@@ -53,27 +53,31 @@ Overall, cookies help us provide you with a better website, by enabling us to mo
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-**Links to other websites**
+#### Links to other websites
 
 Our website may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
-**Controlling your personal information**
+#### Controlling your personal information
 
-You may choose to restrict the collection or use of your personal information in the following ways:
+You may choose to restrict the collection or use of your personal information in the following ways: 
 
   * Edit your profile and modify/leave blank fields which you consider to be potentially harmful.
   * Contact us through form which is available at our web site.
 
 
 
-We will not sell, distribute or lease your personal information to third parties unless it is required by law. You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to
+We will not sell, distribute or lease your personal information to third parties unless it is required by law. 
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to 
 
 Jan Hvizdak  
 Budapestianska 8  
 Kosice  
 04013  
-Slovakia
+Slovakia 
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+the largest tropical freshwater aquarium fish & plants & biotopes resource available online
