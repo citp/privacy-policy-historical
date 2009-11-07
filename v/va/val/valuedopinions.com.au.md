@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valuedopinions.com.au privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628081915id_/http%3A//www.valuedopinions.com.au/index.php%3Fid%3D12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuedopinions.com.au privacy policy that was archived on 2009-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091107222455id_/http%3A//www.valuedopinions.com.au/index.php%3Fid%3D12) for the most accurate reproduction.*
 
 # Privacy Statement
 
