@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the links2love.com privacy policy that was archived on 2009-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090421035938id_/http%3A//www.links2love.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the links2love.com privacy policy that was archived on 2009-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091107195050id_/http%3A//www.links2love.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Your Privacy is Completely Protected
 
