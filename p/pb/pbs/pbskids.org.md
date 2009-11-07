@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pbskids.org privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605173409id_/http%3A//pbskids.org/privacy/index.html%3Fcampaign%3Dfkhp_prv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbskids.org privacy policy that was archived on 2009-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091107222708id_/http%3A//pbskids.org/privacy/index.html%3Fcampaign%3Dfkhp_prv) for the most accurate reproduction.*
 
 # PBS KIDS . Privacy Policy
 
@@ -12,7 +12,7 @@ You have trusted us for many years to make safe and quality content that family 
   * If you ask PBS Kids to send an electronic postcard or e-mail message, we will ask for your first name and e-mail address as well as the e-mail address of the person who will receive the postcard. We will only use this information to send the postcard or message and we will delete the information when the postcard or message is sent.
   * No one will be excluded from our site for not giving us personal information. When we do ask for personal information (like an e-mail address), we will only keep it until that particular activity is complete. We will not share this information with a third party.
   * If we know a visitor is under the age of thirteen, we will collect a parent's permission offline (by postal mail, fax or phone) before we mail any prizes, or collect or share personal information with anyone else.
-  * When you create a [username and password](https://web.archive.org/web/20090605173409id_/http%3A//pbskids.org/help/faq_usernames.html) on PBS KIDS GO!, we do not collect any information that would allow us or anyone else to identify you. When prompted to create a username, we recommend you use non-personally identifiable information. Your login information is only used in games and activities where users might want to save points and creations, such as [EekoWorld](https://web.archive.org/web/20090605173409id_/http%3A//pbskids.org/eekoworld/).  
+  * When you create a [username and password](https://web.archive.org/web/20091107222708id_/http%3A//pbskids.org/help/faq_usernames.html) on PBS KIDS GO!, we do not collect any information that would allow us or anyone else to identify you. When prompted to create a username, we recommend you use non-personally identifiable information. Your login information is only used in games and activities where users might want to save points and creations, such as [EekoWorld](https://web.archive.org/web/20091107222708id_/http%3A//pbskids.org/eekoworld/).  
 
 
   
@@ -33,7 +33,7 @@ We also promise to help families and communities find the information they need 
 
   * When a PBS Kids site is partially funded by outside sponsors, we will mark any underwriter logos with a "sponsored by" tag. We choose our underwriters carefully, to make sure that the company's products and services fit PBS standards. PBS Kids sites will not contain advertisements promoting e-commerce or direct links to e-commerce.
   * All links to third party sites are insulated with a PBS Kids bridge page. These pages clearly notify the visitor that he or she is leaving PBS Kids, and offers an opportunity to return to PBS Kids. Each bridge page displays a Web literacy tip, educating visitors how to be safe on the Internet. In the case of a sponsor's link, the bridge page will provide more information about the sponsor's relationship to PBS. Since we cannot be assured that links to outside sites follow our safety or privacy guidelines, we encourage families to discuss these choices together. We are not responsible for the content or safety and privacy practices at any sites linked from our pages.
-  * With areas of our site like "[Get Your Web License](https://web.archive.org/license/)," and our "[Know Before You Go](https://web.archive.org/web/20090605173409id_/http%3A//pbskids.org/privacy/literacytips.html)" Web literacy tips, we will continue to empower our visitors by helping them to make informed choices.  
+  * With areas of our site like "[Get Your Web License](https://web.archive.org/license/)," and our "[Know Before You Go](https://web.archive.org/web/20091107222708id_/http%3A//pbskids.org/privacy/literacytips.html)" Web literacy tips, we will continue to empower our visitors by helping them to make informed choices.  
 
 
   
@@ -45,6 +45,6 @@ If you have any questions or concerns regarding this policy, send us an e-mail a
 
 You may also contact us at 2100 Crystal Drive, Arlington, VA 22202 (703 739-5127).
 
-Please read the [Terms of Use](https://web.archive.org/web/20090605173409id_/http%3A//pbskids.org/privacy/termsofuse.html) for Terms and Conditions for using this site. Read the [PBS Online Privacy Policy](https://web.archive.org/cgi-registry/kidsbridge.cgi?context=pbskids_pbsonline_privacy) for the sites hosted on pbs.org.
+Please read the [Terms of Use](https://web.archive.org/web/20091107222708id_/http%3A//pbskids.org/privacy/termsofuse.html) for Terms and Conditions for using this site. Read the [PBS Online Privacy Policy](https://web.archive.org/cgi-registry/kidsbridge.cgi?context=pbskids_pbsonline_privacy) for the sites hosted on pbs.org.
 
 Last modified: April 20, 2006
