@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the merrillcorp.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620193649id_/http%3A//www.merrillcorp.com/cps/rde/xchg/merrillcorp/hs.xsl/1003.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merrillcorp.com privacy policy that was archived on 2009-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091107222313id_/http%3A//www.merrillcorp.com/cps/rde/xchg/merrillcorp/hs.xsl/1003.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Merrill Corporation
 
@@ -16,7 +16,7 @@ We are continually improving our methods of communication and adding new functio
 
 ## Collection of personal data including e-mail addresses
 
-You may choose to buy products from us or receive additional information or services from us. When you purchase our products or request additional information, we request personal information about you such as your name, postal address, e-mail address, telephone number and payment details. We may also ask for demographic information to enable us to provide a personalised service to you. The information you provide is either manually or electronically stored in our databases. We sometimes supplement the information that you provide with information that is received from third parties. For instance, if inaccurate postal or zip codes are received, we may use third party software to fix them. 
+You may choose to buy products from us or receive additional information or services from us. When you purchase our products or request additional information, we request personal information about you such as your name, postal address, e-mail address, telephone number and payment details. We may also ask for demographic information to enable us to provide a personalized service to you. The information you provide is either manually or electronically stored in our databases. We sometimes supplement the information that you provide with information that is received from third parties. For instance, if inaccurate postal or zip codes are received, we may use third party software to fix them. 
 
 ## Use of personal data
 
@@ -55,7 +55,7 @@ We do not share, sell or distribute your personal data with unrelated third part
   * In order to provide you with the information or products which you have requested, personal data may occasionally be transferred or shared with other companies within our group of companies and third parties who act for us for further processing in accordance with the purposes for which the data was originally collected or for purposes to which you have subsequently consented. For example, sometimes a third party may have access to your personal data in order to support our information technology or to handle mailings on our behalf. 
   * We will keep your contact details on our database and may where you have consented deliver via e-mail or post information about our other products and services which may be of interest to you. If you do not wish to receive e-mails or post from us for these purposes, please let us know by following the “unsubscribe” procedure described herein. 
   * Where you have consented, we may also share your personal data with other companies within our group of companies or disclose your personal data to other businesses who may contact you about their products or services that may interest you. 
-  * We may share, transfer or disclose the information in our databases and server logs to comply with a legal requirement, for the administration of justice, to interact with anti-fraud databases, to protect your vital interests, to protect the security or integrity of our databases or this Web site, to take precautions against legal liability, or in the event of our sale, merger, reorganisation, dissolution or similar event.
+  * We may share, transfer or disclose the information in our databases and server logs to comply with a legal requirement, for the administration of justice, to interact with anti-fraud databases, to protect your vital interests, to protect the security or integrity of our databases or this Web site, to take precautions against legal liability, or in the event of our sale, merger, reorganization, dissolution or similar event.
 
 
 
@@ -83,7 +83,7 @@ This Privacy Statement forms part of our _Web site_[ _Terms of Use_](https://web
 
 ## Contact us; mail unsubscribe
 
-If you no longer wish to receive electronic mail, please reply to the e-mail with the word “remove” in the subject heading, or, by writing to us at: Merrill Corporation, One Merrill Circle, St. Paul, MN 55108, Attn: Opt-Out Listmaster
+If you no longer wish to receive electronic mail, please reply to the e-mail with the word “remove” in the subject heading, or, by writing to us at: Merrill Corporation, One Merrill Circle, St. Paul, MN 55108, Attn: Opt-Out List Master
 
 ## Feedback 
 
