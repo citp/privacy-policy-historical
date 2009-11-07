@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backyardbargain.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626213229id_/http%3A//backyardbargain.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backyardbargain.com privacy policy that was archived on 2009-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091107085048id_/http%3A//www.backyardbargain.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
