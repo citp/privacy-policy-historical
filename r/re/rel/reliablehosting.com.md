@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reliablehosting.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620124801id_/http%3A//www.reliablehosting.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reliablehosting.com privacy policy that was archived on 2009-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091107040745id_/http%3A//reliablehosting.com/privacy.htm) for the most accurate reproduction.*
 
 # Reliable Hosting.com
 
