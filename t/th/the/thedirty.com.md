@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedirty.com privacy policy that was archived on 2009-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090310000116id_/http%3A//thedirty.com%3Fpage_id%3D229) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedirty.com privacy policy that was archived on 2009-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091107023739id_/http%3A//thedirty.com%3Fpage_id%3D229) for the most accurate reproduction.*
 
 # Privacy Policy - Nik Richie + Dirty Army intel, opinions, gossip, satire, and celebrities
 
