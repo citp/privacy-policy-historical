@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teacherscreditunion.com.au privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618165335id_/http%3A//teacherscreditunion.com.au/LandingPages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teacherscreditunion.com.au privacy policy that was archived on 2009-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091107162045id_/http%3A//www.teacherscreditunion.com.au/LandingPages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,8 +11,7 @@ Teachers Credit Union has always respected members' rights to Privacy. It is fun
 ##   
 Our commitment
 
-In handling your personal information, Teachers Credit Union is committed to complying with the Privacy Act 1988, the National Privacy Principles and the Credit Union Code of Practice.  
-
+In handling your personal information, Teachers Credit Union is committed to complying with the Privacy Act 1988, the National Privacy Principles and the Mutual Banking Code of Practice.
 
 ## Why do we require your personal information?
 
@@ -28,7 +27,8 @@ In line with new technology, we are continually improving the security of the in
 
 We do not generally collect information that is 'sensitive personal information' as defined by the Privacy Act 1988. However, we may on occasion collect information relating to your health and trade union membership. Such information will only be collected from you and will only be used for the purpose for which it was collected.
 
-## Providing your personal information to other organisations
+##   
+Providing your personal information to other organisations
 
 Personal information is treated as confidential within the credit union and is used by us for the purpose for which it was collected or for a related purpose. Related purposes may include:  
 
@@ -58,7 +58,8 @@ Receiving marketing information
 We may provide you with information from time to time about new products and services available to you from Teachers Credit Union, or other businesses with whom we have a relationship. Your consent to our providing this information to you will be implied unless you notify us that you do not wish to receive this information. You may do this by contacting us and advising that you do not wish to receive marketing information.  
 
 
-## Information we are required to send to you
+##   
+Information we are required to send to you
 
 Under our Constitution, which members have adopted and only they can agree to amend, we are required to provide you with certain information. This information includes notices of meetings, elections and any proposed changes to the Constitution. As we are legally obliged to provide this detail to you it is not possible for you to be excluded from receiving it. 
 
@@ -69,7 +70,8 @@ We are also legally bound to provide statements to members and notices of variat
 In order to provide products and services to you we require information about you. If you do not provide us with all of the information we require we may be unable to provide products or services to you. If you do not provide us with your Tax File Number there may also be taxation implications for you.  
 
 
-## Your rights to access information
+##   
+Your rights to access information
 
 Under the Privacy Act you have the right to access personal information we hold about you. Where we incur a cost in copying and retrieving documents and files, this cost may be passed on to you. If the information is incorrect, you have the right to require us to amend the information.
 
@@ -77,6 +79,6 @@ We rely on the accuracy of the information you provide to us. If you believe or 
 
 ## Further information
 
-Should you require further information about our Privacy Policy or access to your personal information, please contact us on **13 12 21** between 8.00am and 7.00pm EST, Monday to Friday. 
+Should you require further information about our Privacy Policy or access to your personal information, please contact us on **13 12 21** between 8am and 7pm, weekdays. 
 
 NSW Teachers Credit Union Ltd. ABN 30 087 650 459 AFSL No 238981 
