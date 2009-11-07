@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the taipanpublishinggroup.com privacy policy that was archived on 2009-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090406044258id_/http%3A//www.taipanpublishinggroup.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taipanpublishinggroup.com privacy policy that was archived on 2009-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091107132742id_/http%3A//www.taipanpublishinggroup.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Taipan Publishing Group Privacy Policy
 
 This is the privacy statement for Taipan Publishing Group, LLC., located at 16 West Madison Street, Baltimore, MD 21201.
 
