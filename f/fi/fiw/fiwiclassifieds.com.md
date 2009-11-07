@@ -1,7 +1,17 @@
-> *The following text is extracted and transformed from the fiwiclassifieds.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615115415id_/http%3A//fiwiclassifieds.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiwiclassifieds.com privacy policy that was archived on 2009-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091107180852id_/http%3A//www.fiwiclassifieds.com/privacy_policy.php) for the most accurate reproduction.*
 
-# FiWi Classifieds | Privacy Policy
+# Free Online Classified Ads | FiWi Classifieds Privacy Policy
 
+Create you own advertisment at no charge!  
+  
+Find what you are looking for here.
+
+Looking for something? 
+
+Well, we provide free online classified advertising for cars, real estate, employment, services, electronics, items, and many more category listings. Find it the fast and easy way. So, stop circling, stop cutting and start clicking. 
+
+[ ](http://www.addthis.com/bookmark.php?v=20)  
+  
 Privacy Policy
 
 This document was last updated on March 27, 2009.
@@ -79,4 +89,7 @@ Furture Internet and Web Innovation has the discretion to occasionally update th
 If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us. [support@fiwiclassifieds.com](mailto:support@fiwiclassifieds.com).
 
 
-Furture Internet and Web Innovation will use commercially reasonable efforts to promptly respond and resolve any problem or question. 
+Furture Internet and Web Innovation will use commercially reasonable efforts to promptly respond and resolve any problem or question.   
+  
+  
+
