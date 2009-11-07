@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dwell.com privacy policy that was archived on 2009-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090513072334id_/http%3A//www.dwell.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dwell.com privacy policy that was archived on 2009-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091107055412id_/http%3A//www.dwell.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Dwell
 
