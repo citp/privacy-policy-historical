@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bontrager.com privacy policy that was archived on 2009-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090204065752id_/http%3A//www.bontrager.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bontrager.com privacy policy that was archived on 2009-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091107161123id_/http%3A//www.bontrager.com/support/privacy) for the most accurate reproduction.*
 
-# Bontrager: Support — Privacy Policy
+# Bontrager: Privacy Policy
 
 Please read carefully before using this site. This site is owned and operated by Trek Bicycle Corporation together with its subsidiaries and affiliates including but not limited to eTrek LLC, which operates, if applicable, the online store ("Store") portion of the site, (collectively "We", "Us" or "Our"). By using this site, you signify your agreement to the Privacy Policy and [Terms of Use](https://web.archive.org/support/terms_of_use/en). If you do not agree with these terms, please do not use this site. We reserve the right, at Our discretion, to change, modify, add, or remove portions of these terms at any time. Please check periodically for changes. Your continued use of this site following the posting of changes to these terms will signify your acceptance of the revised terms. They were last updated on December 12, 2008.
 
