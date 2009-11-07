@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelistauction.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627212050id_/http%3A//thelistauction.com/content/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelistauction.com privacy policy that was archived on 2009-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091107123951id_/http%3A//www.thelistauction.com/content/privacy_policy.php) for the most accurate reproduction.*
 
 # The List Auction - Privacy Policy
 
