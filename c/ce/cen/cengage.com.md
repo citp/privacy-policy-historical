@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cengage.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617071056id_/http%3A//www.cengage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cengage.com privacy policy that was archived on 2009-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091107181837id_/http%3A//www.cengage.com/privacy) for the most accurate reproduction.*
 
 # Cengage Learning - Privacy Statement
 
@@ -8,9 +8,9 @@ Cengage Learning, Inc., and its subsidiaries and divisions, are committed to pro
 
 ####  Scope
 
-This privacy statement applies to the Cengage Learning, Inc. (Cengage Learning) website ([www.cengage.com](https://web.archive.org/)) and all Cengage Learning company and brand websites that link to it. Some Cengage Learning websites may have different privacy statements, so please read the privacy notice posted on each such website. For example, Cengage Learning has created a number of websites for the schools we serve, and those websites are subject to the school’s own privacy policy. 
+This privacy statement applies to the Cengage Learning, Inc. (Cengage Learning) website ([www.cengage.com](https://web.archive.org/)) and all Cengage Learning company and brand websites that link to it. Some Cengage Learning websites may have different privacy statements, so please read the privacy notice posted on each such website. For example, Cengage Learning has created a number of websites for the schools we serve, and those websites are subject to the school�s own privacy policy. 
 
-Additionally, some Cengage Learning websites may provide direct links to various sponsor and marketing partner sites. This privacy statement does not describe the practices of our partners. Before disclosing personal information to any other company’s website, you should also read the privacy statement associated with that site. 
+Additionally, some Cengage Learning websites may provide direct links to various sponsor and marketing partner sites. This privacy statement does not describe the practices of our partners. Before disclosing personal information to any other company�s website, you should also read the privacy statement associated with that site. 
 
 ####  Information That We Collect
 
@@ -28,7 +28,7 @@ In general, we use all of the information we collect in order to:
 
 
 
-We will tailor the materials we provide you based on the information in your profile, such as your professional interests. Also, certain products (such as teachers’ guides) are only available to qualified educational professionals, so you may not receive access to all of the services we offer if we cannot confirm your qualification. 
+We will tailor the materials we provide you based on the information in your profile, such as your professional interests. Also, certain products (such as teachers� guides) are only available to qualified educational professionals, so you may not receive access to all of the services we offer if we cannot confirm your qualification. 
 
 If you purchase a product from us (such as a book or newsletter subscription), you may provide us with a credit card number or other payment information. Payment information will only be used for transaction processing. 
 
@@ -50,7 +50,7 @@ We encourage parents and teachers to spend time online with children and to moni
 
 ####  Information Collected on Behalf of Educational Institutions
 
-Some Cengage Learning companies administer websites that provide course materials and services for educational institutions. Information collected on these websites is only used by Cengage Learning as needed to support the educational institution and provide the services requested by the course instructors. We do not use this information for our own purposes. Most student course records are also protected by the Family and Educational Rights Privacy Act (FERPA). For information on your school’s privacy statement and FERPA, please contact that school’s administration. 
+Some Cengage Learning companies administer websites that provide course materials and services for educational institutions. Information collected on these websites is only used by Cengage Learning as needed to support the educational institution and provide the services requested by the course instructors. We do not use this information for our own purposes. Most student course records are also protected by the Family and Educational Rights Privacy Act (FERPA). For information on your school�s privacy statement and FERPA, please contact that school�s administration. 
 
 ####  Cookies and Website Information
 
@@ -90,7 +90,7 @@ or email us at: [corporatecommunications@cengage.com](mailto:corporatecommunicat
 
 Cengage Learning, Inc. and its United States and Canadian affiliates (collectively, "Cengage") collects Social Security numbers and other sensitive personal information in the ordinary course of its business. Cengage has implemented reasonable technical, physical and administrative safeguards to help protect the Social Security numbers and other sensitive personal information from unlawful use and unauthorized disclosure. All Cengage workers are required to follow these established safeguards, which include the following: 
 
-  * Access to Social Security numbers and other sensitive personal information is limited to those workers and service providers who have a need to access the information to perform tasks for Cengage. Social Security numbers and other sensitive personal information are only disclosed to third parties in accordance with Cengage’s established privacy and security policy.
+  * Access to Social Security numbers and other sensitive personal information is limited to those workers and service providers who have a need to access the information to perform tasks for Cengage. Social Security numbers and other sensitive personal information are only disclosed to third parties in accordance with Cengage�s established privacy and security policy.
   * Cengage will only disclose Social Security numbers and other sensitive personal information (i) to those service providers, auditors, advisors and/or successors in interest who are legally or contractually obligated to protect them, or (ii) as required or permitted by law.
 
 
