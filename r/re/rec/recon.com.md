@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recon.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622025753id_/http%3A//www.recon.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recon.com privacy policy that was archived on 2009-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091107223524id_/http%3A//www.recon.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -83,3 +83,6 @@ The terms of this policy are governed and construed in accordance with the laws 
 
 **Registered Company Address**  
 The Company is registered in England, UK at: Avaland House, 110 London Road, Apsley, Hemel Hempstead, Herts, HP3 9SD, United Kingdom 
+
+  
+
