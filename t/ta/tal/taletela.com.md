@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taletela.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626101128id_/http%3A//www.taletela.com/info%3Fid%3D62) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taletela.com privacy policy that was archived on 2009-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091107185508id_/http%3A//www.taletela.com/info%3Fid%3D62) for the most accurate reproduction.*
 
 # Celebrity Gossip, R&B, Hip Hop News & Photos - TaleTela
 
