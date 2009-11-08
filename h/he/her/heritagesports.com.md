@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heritagesports.com privacy policy that was archived on 2009-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090427002149id_/http%3A//www.heritagesports.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heritagesports.com privacy policy that was archived on 2009-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091108163532id_/http%3A//www.heritagesports.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Heritage Sports is the best online wagering sports book authority.
 
