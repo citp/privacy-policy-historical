@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usmleworld.com privacy policy that was archived on 2009-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090509210122id_/http%3A//www.usmleworld.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usmleworld.com privacy policy that was archived on 2009-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091108063714id_/http%3A//www.usmleworld.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # USMLEWorld Privacy Policy - Website users Privacy Policy
 
