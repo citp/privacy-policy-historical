@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uta.edu privacy policy that was archived on 2009-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090630120531id_/http%3A//www.uta.edu/oit/policies/Internet-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uta.edu privacy policy that was archived on 2009-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091108105544id_/http%3A//www.uta.edu/oit/policies/Internet-privacy.php) for the most accurate reproduction.*
 
 # Internet Privacy Policy - UT Arlington Office of Information Technology
 
