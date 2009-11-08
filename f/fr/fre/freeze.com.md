@@ -1,116 +1,51 @@
-> *The following text is extracted and transformed from the freeze.com privacy policy that was archived on 2006-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060615214309id_/http%3A//www.freeze.com/Policies/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeze.com privacy policy that was archived on 2009-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091108152232id_/http%3A//policy.freeze.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Welcome to Freeze.com - Your Access to the Coolest Downloads
+# Highlights of Privacy Policy
 
-**Effective Date: February 2, 2006**
+**HIGHLIGHTS OF PRIVACY POLICY  
+EFFECTIVE: JANUARY 5, 2007**
 
-**PRIVACY POLICY STATEMENT  
-Version 2.0**
+We want you to be informed of our privacy practices. The following applies to our websites, and products, and covers how we collect and use the information we receive. This is only a summary, for more information, please read our complete [Privacy Policy](https://web.archive.org/web/20091108152232id_/http%3A//policy.freeze.com/PrivacyPolicy_Full.html).
 
-Freeze.com, LLC ("Freeze") is committed to safeguarding your privacy online and respects the privacy of its customers and the users of this website. This Privacy Policy ("Privacy Policy") discloses how we collect and use information, and the choices that you can make about the way your information is collected and used. 
+**Information We Collect**     [Additional details](https://web.archive.org/web/20091108152232id_/http%3A//policy.freeze.com/PrivacyPolicy_Full.html#InfoCollect)
 
-**I. _Overview_.**
-
-Freeze is the Internet's premier supplier of free entertainment software, screensavers, wallpapers, ringtones and other free content ("Download Offers"). Additionally, Freeze is an online leader in delivering relevant promotions, content, offers and contests both through the Internet through surveys and registration offers and by e-mail to its members and subscribers, either directly from Freeze, or through one of Freeze's partners or affiliates ("Online Offers"). Freeze's provision of and your use of Online Offers and/or Download Offers are referred to as the "Service". 
-
-Our Download Offers are often offered to you free in exchange for your agreement to also install third party software from our trusted business partners to further enhance your computer desktop or online experience ("Third Party Software"). 
-
-Freeze is committed to making your use of [www.freeze.com](http://www.freeze.com/), [www.screensaver.com](http://www.screensaver.com/), [www.ringtone.com](http://www.ringtone.com/), [www.wallpapers.com](http://www.wallpapers.com/), [www.risoftsystems.com](http://www.risoftsystems.com/), and other Freeze owned sites (collectively the "Site") as easy and enjoyable as possible. Please take a moment to read the following Privacy Policy to determine how your personal information will be treated as you make full use of our many offerings. By using the Site and/or the Service, or providing the information requested by the Site and/or Service, or by continuing to use the Site and/or Service after having an opportunity to review this Privacy Policy, you agree to accept the terms of our Privacy Policy and Freeze's use of the information it collects. If you do not agree to the terms of this Privacy Policy, please do not use the Site or participate in the Service. 
-
-**Freeze reserves the right to modify this Privacy Policy at any time without giving you prior notice. Your use of the Site or the Service following any such modification constitutes your agreement to be bound by this Privacy Policy as modified. The last date this Privacy Policy was revised or modified is February 2, 2006 ("Effective Date").**
-
-**II. What information does Freeze collect from me?**
-
-In order to effectively provide the Service and to continue to provide you with relevant Online Offers and popular Download Offers, Freeze collects personal information at various times during your use of the Service. Wherever Freeze collects personal information, we make an effort to include a link to this Privacy Policy on that specified page. 
-
-_Registration_. During registration for Download Offers and/or Online Offers, Freeze will require your e-mail address in order to use the Service. Download Offers and some Online Offers will also require your name, date of birth, zip code, country and gender, as well as a username, password and password reminder question. Freeze may require, your credit card for our premium content (credit card information is collected through a SSL secure connection). Additionally, you may at times be requested to provide your personal interests in order to better provide the Service. The more information you volunteer (and the more accurate it is), the better we are able to customize your experience and the Service that you receive. _Installation of Download Offers_. When you agree to download our Download Offers, you will be asked to provide your email address, name, date of birth, zip code and country. Freeze may require, your credit card for our premium content (credit card information is collected through a SSL secure connection). During the installation process you will be requested to complete surveys and/or offer forms for valuable offers from our business partners. If you request additional information or offers from our business partners, your personal information will be provided to these business partners upon completion of the business partners offer form and your acknowledgment to submit such information to the business partner. Additionally, during the installation process you will have the opportunity to download other valuable software from our business partners to support our free content and to enhance your computer desktop or online experience. Freeze will share your personal information with those business partners that you elect to download software or content from. _Surveys, Contests and Online Offers_. From time-to-time, our Site or the Service may request you to participate in occasional surveys or enter contests or other Online Offers (either by e-mail or directly through the Site). Your participation in these surveys or contests is voluntary and accordingly you have the choice to disclose any information that may be requested in a survey or contest. Information collected in these surveys and contests (including personal information) will be shared with the business partner that sponsors the survey or contest, as well as our other trusted business partners. _Contacts/IP Information_. If you voluntarily submit information or contact Freeze (e.g. password request, technical support), we may keep a record of that correspondence. This information is not merged with other personally identifiable information that may have been collected by Freeze. Freeze also collects IP addresses for system administration and to report aggregate information to our advertisers. _Cookies_. For more information on cookies, please see part III below. 
-
-**III. What are cookies and how does Freeze use them?**
-
-As part of offering and providing customizable and personalized services, Freeze uses cookies to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. Typically, Internet sites which ask you to log-in or that are customizable require that you accept cookies. Freeze utilizes both session ID cookies and persistent cookies. For the session ID cookie, once you close your browser, the cookie will terminate. A persistent cookie is a small text file stored on your hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. For more information on your choices regarding Freeze's use of cookies, please click here. 
-
-Generally, Freeze uses cookies to: 
-
-(1) Remind us of who you are and to access your account information (stored on our computers) in order to deliver to you a better and more personalized service. This cookie is set when you register or "Login" and is modified when you "Customize" or "Logout" of our services. Freeze also uses cookies to store your zip code and other information you have submitted for other services, such as displaying your local weather. 
-
-(2) Estimate our audience size. Each browser accessing Freeze is given a unique cookie which is then used to determine the extent of repeat usage, usage by a registered user versus by an unregistered user, and to help target advertisements based on user interests and behavior. 
-
-(3) Assist affiliates and merchants associated with Freeze to track visits to and business at their sites and stores. This information collected by cookies is sometimes called "clickstream" or "click trail" and may also describe which pages you have seen in each merchant's store. 
-
-(4) Measure certain traffic patterns, for example areas of Freeze's network of sites you have visited, and your visiting patterns in the aggregate. We use this research to understand how our users' habits are similar or different from one another so that we can make each new experience on a Freeze Site a better one. We may use this information to better personalize the content, banners, and promotions that you and other users will see on our sites. 
-
-Some of our business partners and the advertisers that serve ads onto Freeze may also use their own cookies on the Site. We have no access over these cookies once we have given permission for them to set cookies for advertising. The information collected and the uses to which that information can be used in the respective partner's and/or advertiser's privacy policies. This Privacy Policy only covers the use of cookies by Freeze and does not cover the use of cookies by our advertisers and business partners. 
-
-**IV. How does Freeze use my information?**
-
- _Customized Service_. Freeze's primary goal in collecting personal information is to provide you, the user, with a customized experience on our Sites. In order to provide Services free of charge, we display advertisements and encourage your participation in Online Offers and Download Offers. By knowing a little about you, Freeze is able to deliver more relevant advertisements, content and Online Offers, and hence better service, to you. _Third Party Advertising_. In our role of delivering targeted Online Offers, Freeze plays the middleman. Third-party advertisers give us an advertisement or offer and tell us the type of audience they want to reach (for example, males over 35 years old). Freeze takes the advertisement or offer and displays it to users meeting that criteria based on your personal information. In other cases, personal information may be shared with Freeze's affiliates and trusted business partners so that they may directly deliver advertisements and offers. This kind of targeted advertising is done with banner ads, Online Offers from Freeze, as well as offers from Freeze's affiliates and trusted business partners. You will only receive special offers via email from Freeze, its affiliates and trusted business partners if you have indicated in your account preferences, or at some other time, that you would like to receive them. For more information on Freeze's e-mail policies, please [click here](http://www.freeze.com/Policies/EmailBestPractices.aspx). _Research_. Freeze does research on our users' demographics, interests, and behavior based on the information provided to us upon registration, during a promotion, from our server log files or from surveys. We do this to better understand and serve our users. This research is compiled and analyzed on an aggregated basis. Freeze shares this aggregated data with advertisers or business partners. _Third Party Newsletters_. By participating in the Service, you agree to receive third party newsletters from Freeze Finders. There is no cost to receive this newsletter. Should you have any questions or concerns or if you would like to discontinue receipt of the Freeze Finders newsletter, simply e-mail us at [support@teamfreeze.com](mailto:support@teamfreeze.com) and ask to be removed from the Freeze Finders newsletter. 
-
-**V. With Whom Does Freeze Share My Information?**
-
-When you are on a Site and are asked for personal information, you are sharing that information with Freeze and our trusted business partners. For example, certain information like name, e-mail address and address, as well as your responses to survey questions, may be shared with affiliates and trusted business partners to better provide the Services and to provide you with timely Online Offers (from Freeze or our business partners) or products that interest you. 
-
-Promotions that run on Freeze may be sponsored by companies other than Freeze or may be co-sponsored by Freeze and another company. Some or all data collected during a promotion may be shared with the sponsor of that promotion. 
-
-Please be aware that Freeze partners, sponsors, advertisers, and web sites that have links on our site may collect personally identifiable information about you once you leave the Site and access such third party content. 
-
-The information practices of Freeze's Internet access partners, advertisers, trusted business partners and web sites linked from Freeze are not covered by this Privacy Policy. Once you have submitted personal information to a third party or Freeze has transferred your personal information to a third party, your personal information is subject to such third party's privacy policy. Freeze has no liability or responsibility for these independent privacy policies or the use of any personally identifiable information transferred to trusted business partners. 
-
-The following describes some of the ways that your information may be disclosed. 
-
-_Search Partners_. We may transmit your search queries (made on the Site or within one of our Software Offers) to search partners, who use this information to provide us with search results and other information, which we then will display to you. _Third-Party Advertisements and Software_. 
-
-By accessing this Site and providing Freeze with personally identifying information about you such as your name, mailing address, phone number or any financial information such as a credit card number (assuming we have it), you agree that Freeze may share this information with affiliates and trusted business partners. By downloading software from a Freeze business partner or sponsor or submitting information on an Online Offer to a third party business partner or sponsor, you specifically consent to the transfer of your personally identifiable information to such business partner or sponsor. Our free desktop enhancement software (wallpaper, screensavers, games, etc.) and the free version of ScreenMate® are supported by third-party software products. During the installation process of ScreenMate® or our free desktop enhancement software, you will be prompted to install additional third-party software products from trusted business partners. We may share information collected during the registration and installation process with these third party software distributors, provided that you elect to install their software. By downloading third party software, you are specifically consenting to the transfer of your information to such third party business partner. Once your personal information is transferred to a third party business partner, such information becomes subject to that business partners privacy policy. Our trusted business partners and sponsors will change from time to time, and therefore it is not possible to provide an exhaustive list of our sponsors and business partners; however, some of the trusted business partners or sponsors that Freeze may disclose your personal information to include, without limitation: 
-
-  * Relevant Knowledge, an Internet customer of Knowledge Company and a service of Comscore Networks, Inc. For more information regarding Relevant Knowledge, please visit its web site at [http://www.relevantknowledge.com](http://www.relevantknowledge.com/). The Relevant Knowledge Privacy Policy and User License Agreement is available at <http://www.relevantknowledge.com/RKPrivacy.aspx>. 
-  * Your personal information will be shared with subsidiaries of Freeze, including without limitation, Freeze Media, LLC and Gamepoint, Inc. for purposes of sending you the Email Offers. 
-
-Many promotions offer opportunities to request additional information from sponsors. By requesting more information, you give Freeze permission to transfer your personal information to the sponsor so they can fulfill your request. In many instances, only your email address will be shared, in other cases, additional personally identifiable information or demographic information may be shared. 
-  1. _Freeze Shopping_ : If you make a purchase from a store hosted by Freeze, or a merchant associated with Freeze, the information obtained during your visit to those stores, and the information you give such as your credit card number and contact information, is provided to the merchants. This is to enable transactions to take place. Merchants associated with Freeze have separate privacy and data collection practices. Freeze has no responsibility or liability for these independent policies. For more information regarding the merchant, their store, and their privacy policies, return to that store's home page and click on their information or privacy policy links, if any. 
-  2. _Third Party Data_ : From time to time, you may be offered the opportunity to receive materials or special offers from third parties. If you opt-in to receive information from these third parties, you agree that Freeze may share your name, email address and other information you provide with these third parties. 
-  3. _Other Limited Circumstances_. From time to time, Freeze may validate the information in its database by employing a validation service. In those instances, Freeze will disclose your personally identifiable information to third party validation services pursuant to confidentiality agreements. Under confidentiality agreements, Freeze may match user information with third party data. Also, Freeze discloses aggregated user statistics (for example, 45% of our users are female) in order to describe our services to current and prospective partners, advertisers, and other third parties, and for other lawful purposes. 
-  4. _Legal Disclosure_ : Freeze may also disclose account information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating Freeze's policies or may be causing injury to or interference with (either intentionally or unintentionally) Freeze's rights or property, other Freeze users, or anyone else that could be harmed by such activities. Freeze may disclose or access account information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service, and improve our products and services. 
-  5. _E-Mail Suppression Lists_. Lastly, Freeze may disclose a users e-mail address as part of a suppression file or do-not-e-mail list to its partners and affiliates to make sure that a users unsubscribe requests are forwarded to the appropriate parties to insure removal of the user from partner and affiliate databases in compliance with law, including without limitation, the Can-Spam Act of 2003. For more information about Freeze's E-Mail Policies, please [click here](http://www.freeze.com/Policies/EmailBestPractices.aspx). 
-  6. _Sale, Merger or Asset Transfer_. Freeze may buy other businesses or their assets or sell our business assets. Customer information is generally one of the business assets involved in such transactions. Thus, in the event that Freeze or all of its assets are acquired, customer information, including any visitor information collected through the Site or the Service, would be one of the transferred assets. 
-
-**VI. What are my choices regarding collections, use and distribution of my information?** _Postal Mailings_. Freeze and third party business partners may occasionally send you direct postal mail about products and services that we feel may be of interest to you. If you do not wish to receive postal mailings from Freeze you can send us an email at [support@teamfreeze.com](mailto:support@teamfreeze.com) along with the information you submitted during your initial registration and that you no longer wish to receive such offers and mailings. You will need your initial registration information including postal address and email address. _Email Offers_. When you participate in the Service, you automatically receive promotion-related email from Freeze, its affiliates and business partners, unless you choose the no-email option or unsubscribe from Online Offers. If you wish to unsubscribe from Online Offers sent by Freeze, please send an e-mail to [support@teamfreeze.com](mailto:support@teamfreeze.com) along with the information you submitted during your initial registration and that you no longer wish to receive Email Offers from Freeze. You also have the option of unsubscribing from Online Offers by clicking on the unsubscribe link at the bottom of every Email Offer from Freeze. _Cookies_. You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies you will be unable to use those Freeze services that require registration in order to participate. These services include, without limitation, Freeze's free or contributing memberships, ScreenSaver.com's club, and creating a portfolio or cart in any Freeze Site or affiliated family member. 
-
-**VII. What is Freeze's policy on allowing me to access, update, correct, or delete my personally identifiable information?**
-
-You may deactivate or delete your Freeze paid subscription at any time, but doing so will result in not being able to access any members-only area of the Freeze network or ScreenMate. To deactive or delete your Freeze paid subscription at any time contact [support@teamfreeze.com](mailto:support@teamfreeze.com) along with your ID and password. If you have forgotten your ID and Password, please contact [support@teamfreeze.com](mailto:support@teamfreeze.com) with as much information as you can remember. If you are a paying member and can't remember your password use our retrieve a password link at <http://www.freeze.com/Login.aspx>. If you are a paying contributing member and can't remember your ID please contact [support@teamfreeze.com](mailto:support@teamfreeze.com). 
-
-If you are participating in a Freeze promotion and you wish to update your email address on the promotions mailing list or to quit a promotion and cease receiving promotion-related email, please contact [support@teamfreeze.com](mailto:support@teamfreeze.com). 
-
-At any time you may send us an email to [support@teamfreeze.com](mailto:support@teamfreeze.com) or by postal mail addressed to: Freeze.com, LLC Attention: Customer Care - Privacy Policy Issues, PO Box 1142, St. Cloud, MN 56302 to request a listing of all the types of your personal information disclosed by Freeze to third parties, business partners and sponsors. If requested, Freeze will provide an e-mail response within thirty (30) days informing you of the recipients of your personally identifiable information and the information disclosed to third parties, business partners or sponsors. 
-
-**VIII. What security precautions are in place to protect the loss, misuse, or alteration of my information?**
-
-Account information for Freeze members are password-protected so that you and only you have access to this personal information. You may edit your Freeze account information and Freeze user profile by using your Freeze ID and password. 
-
-We recommend that you do not divulge your password to anyone. Freeze will never ask you for your password in an unsolicited phone call or in an unsolicited email. Also remember to sign out of your Freeze account and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet café. 
-
-Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, Freeze cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. 
-
-**IX. Children's Online Privacy Protection Act**
-
-The Site is not intended for use by children. Freeze encourages parents and guardians to be familiar with the web sites that their children visit. The Federal Trade Commission ("FTC") regulates the means by which web site operators collect and use personal information from children under 13, pursuant to the Children's Online Privacy Protection Act of 1998 (the "Act"). For more information about the Act and children's on-line privacy in general, visit the FTC's web site at [http://www.ftc.gov](http://www.ftc.gov/). 
-
-**X. Miscellaneous Provisions.**
-
-  1. Disclaimer of Liability. Under no circumstances shall Freeze be liable for any damages, including, but not limited to, indirect, special, incidental, consequential or exemplary damages, that result from the use of the information or materials posted to or collected as a result of the user's accessing the Site or use of the Service, even if Freeze has been advised of the possibility of such damages. 
-  2. Enforcement/Redress. If for some reason you believe that Freeze has not adhered to this Privacy Policy, please notify us at the addresses below. Freeze will endeavor to respond to your concerns and, when appropriate, take steps to correct a problem. 
-  3. Security of the Data Collected. The Site is not a secure web site. Freeze cannot and does not ensure or warrant the security of any information collected by use, transmitted over the Internet, or maintained in your user profile. You agree that any data transmission you make or receive through the Site or the Service is at your own risk. 
-
-**XI. Additional Information.**
-
-If you have a question that was not addressed in this Privacy Policy, you may contact us by: 
-
-  1. sending an e-mail request to [support@teamfreeze.com](mailto:support@teamfreeze.com); or 
-  2. sending a letter via U.S. Mail to: 
-
-Freeze.com, LLC  
-Attention: Customer Care - Privacy Policy Issues  
-PO Box 1142  
-St. Cloud, MN 56302 
+  * We collect information you choose to submit, for example, when you download one of our products, subscribe to our online services, or participate in a survey or contest.
+  * We may obtain additional information about you, such as updated address, demographic or lifestyle information, from other sources.
+  * We use common Internet technologies, such as cookies, on our Web sites and in our e-mails.
 
 
+
+**Uses of information**     [Additional details](https://web.archive.org/web/20091108152232id_/http%3A//policy.freeze.com/PrivacyPolicy_Full.html#UsesofInfo)
+
+  * We use the information you submit to provide our services including the presentation of personalized content.
+  * We use your information to inform you of other products or services offered by us and our partners.
+  * We may share information about you with vendors we have hired to provide services on our behalf.
+  * We may share information about you with our partners and companies that provide online content, if those companies host that content.
+  * We will share your e-mail address with other companies, if you consent.
+  * We may share your name and postal address with our subsidiaries and selected other companies for mail offers of their products and services, if you consent.
+
+
+
+**Your Choices**     [Additional details](https://web.archive.org/web/20091108152232id_/http%3A//policy.freeze.com/PrivacyPolicy_Full.html#YourChoices)
+
+  * You may unsubscribe from our e-mail list.
+  * You may direct us not to share your e-mail with other companies for offers of their products and services. You may also turn off cookies in your browser.
+
+
+
+**Important information**
+
+  * For information and tips on children’s online privacy visit [www.ftc.gov/privacy](http://www.ftc.gov/privacy) and [www.OnGuardOnline.gov](http://www.onguardonline.gov/)
+  * Any personal information you provide will be maintained in the United States
+  * We encourage you to read our full [Privacy Policy](https://web.archive.org/web/20091108152232id_/http%3A//policy.freeze.com/PrivacyPolicy_Full.html)
+
+
+
+**How to contact us**  
+Questions about our Privacy policy or about Freeze’s handling of your information may be sent via e-mail to: either by accessing [http://support.freeze.com](http://support.freeze.com/) or by sending a message to [privacy@support.w3i.com](mailto:privacy@support.w3i.com). If you would prefer to write to us please send your correspondence to:
+
+W3i, LLC  
+Attention: Customer Care – Privacy Policy Issues  
+1900 Medical Arts Ave. S. Ste. 200  
+Sartell, MN 56377  
 
