@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the twomenandatruck.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509141355id_/http%3A//www.twomen.com/companyinfo/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twomenandatruck.com privacy policy that was archived on 2009-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091108052128id_/http%3A//www.twomenandatruck.com/companyinfo/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy
 
-## INTRODUCTION: 
+##  INTRODUCTION: 
 
 The purpose of this website is to provide visitors useful information and allow them to request additional information regarding moving/relocation needs.  
 We want our visitors to be aware of any information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
-## INFORMATION COLLECTION AND USE
+##  INFORMATION COLLECTION AND USE
 
 **This site does not collect cookies. ([Definition of Cookies](http://www.netlingo.com/right.cfm?term=cookies)) **
 
@@ -23,17 +23,17 @@ An individual may choose to fill out a estimate request form, a customer service
 
 **From time-to-time, our website operates online surveys, during these times, we do not sell or share our subscribers' email addresses.**
 
-## NOTIFICATION OF CHANGES
+##  NOTIFICATION OF CHANGES
 
 We reserve the right to revise our privacy policy at any time without advance notice. Any change to this policy will be posted on this site and the new policy will apply only to information collected following the posting of the new policy.
 
-## CONFLICT RESOLUTION
+##  CONFLICT RESOLUTION
 
 We are committed to resolving disputes within five (5) business days. If problems arise, visitors may contact us by mail, email, telephone or fax. 
 
-## WEBSITE ADMINISTRATION/CONTACT INFORMATION
+##  WEBSITE ADMINISTRATION/CONTACT INFORMATION
 
-|   
+|    
 Business name:  | 
 
 **TWO MEN AND A TRUCK®/INTERNATIONAL, Inc.**  
