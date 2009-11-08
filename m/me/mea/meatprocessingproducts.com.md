@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the meatprocessingproducts.com privacy policy that was archived on 2009-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090404141347id_/http%3A//www.meatprocessingproducts.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meatprocessingproducts.com privacy policy that was archived on 2009-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091108033124id_/http%3A//www.meatprocessingproducts.com/privacypolicy.html) for the most accurate reproduction.*
 
-# MeatProcessingProducts.com
+# Meat Processing Products Privacy Policy
 
 _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/details.html) for more information about how Yahoo! uses this information._
 
@@ -68,6 +68,9 @@ You may request access to all your personally identifiable information that we c
 
  **What About Other Web Sites Linked to Our Web Site?**  
 We are not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site. Please remember that when you use a link to go from our Web site to another Web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other Web site, including Web sites which have a link on our Web site, is subject to that Web site's own rules and policies. Please read over those rules and policies before proceeding.
+
+ **Third-Party Web Beacons** :   
+We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com).
 
  **Your Consent**  
 By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. At any time you may request to view any and all changes and updates, via surface mail.
