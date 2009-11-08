@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the epson.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050200id_/http%3A//www.epson.co.uk/corporate/details/EUL_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epson.co.uk privacy policy that was archived on 2009-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091108234733id_/http%3A//www.epson.co.uk/Privacy-Policy) for the most accurate reproduction.*
 
-# EPSON privacy policy
+# Epson - Privacy Policy.
 
-|  **Information about Epson's privacy policy.**
+### Privacy Policy
 
-In general, you can visit this web site without telling us who you are or giving any information about yourself. 
+#### Privacy & Customer Protection Policy
 
-We are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998). 
+Information about Epson's privacy policy. 
+
+In general, you can visit this web site without telling us who you are or giving any information about yourself. We are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998). 
 
 We will never collect sensitive information about you. 
 
@@ -16,23 +18,12 @@ If you choose to give us personal information, such as your name, address and e-
 
 If you permit us to use your personal information for our marketing or promotional activities, please indicate this when you first register your details. 
 
-You may ask us at any time to remove your name and address from any future mailings, including new product announcements and special offers, by sending us an e-mail. Please send your request, showing your full name and address using [this form](https://web.archive.org/contact/general_enquiry.htm). 
-
 If you have any questions/comments about privacy, you should contact the person responsible for privacy: 
 
 The Company Secretary   
-Epson UK   
+Epson UK Limited  
 Campus 100   
 Maylands Avenue   
 Hemel Hempstead   
-Herts   
+Hertfordshire   
 HP2 7TJ 
-
-Alternatively, you can e-mail any questions/comments using [this form](https://web.archive.org/contact/general_enquiry.htm). 
-
-If you would like to view Epson's privacy and customer protection policy, please click the links below to download the relevant files:-
-
-  * [EMEA standard Privacy Policy Web Tel.pdf](https://web.archive.org/web/20081217050200id_/http%3A//www.epson.co.uk/corporate/details/Appendix1_EMEA_standard_Privacy_Policy_Web_Tel.pdf)
-
-|   
----|---
