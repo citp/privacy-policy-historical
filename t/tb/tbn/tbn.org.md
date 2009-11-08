@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tbn.org privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617051740id_/http%3A//www.tbn.org/index.php/3/19.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tbn.org privacy policy that was archived on 2009-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091108075617id_/http%3A//www.tbn.org/about-us/privacy-policy) for the most accurate reproduction.*
 
-# TBN - Trinity Broadcasting Network
-
-[](http://www.tbn.org/index.php/3/.html)
+# Privacy Policy - About Us
 
 TRINITY BROADCASTING NETWORK  
 ONLINE PRIVACY POLICY
