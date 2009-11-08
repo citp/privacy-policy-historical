@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 4qsurvey.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605034359id_/http%3A//www.4qsurvey.com/en/para-nav/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4qsurvey.com privacy policy that was archived on 2009-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091109000029id_/http%3A//www.4qsurvey.com/en/para-nav/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Free 4Q Website Survey: an Avinash Kaushik and iPerceptions Collaboration | 4Q Survey
+# Privacy policy | Free 4Q Online Survey - © iPerceptions 2008 | 4Q Survey
 
 This privacy statement covers iPerceptions Inc.’s (“iPerceptions” or “us”) “4Q” service (the “Service”) available at 4q.iperceptions.com
 
