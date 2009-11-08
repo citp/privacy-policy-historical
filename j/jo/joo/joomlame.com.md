@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the joomlame.com privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530064530id_/http%3A//www.joomlame.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D167%253Aprivacy-notice%26catid%3D43%253Aannouncements%26Itemid%3D26%26lang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlame.com privacy policy that was archived on 2009-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091108134648id_/http%3A//jvitals.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D45%26Itemid%3D29) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Thank you for visiting JoomlaMe. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used. 
+Thank you for visiting jVitals. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used. 
 
 Note, the privacy practices set forth in this privacy policy are for this web site only. If you link to other web sites, please review the privacy policies posted at those sites.
 
@@ -10,7 +10,7 @@ Note, the privacy practices set forth in this privacy policy are for this web si
 
 We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill your specific request. This information is only used to fulfill your specific request and add you to our mailing lists as specified herein, unless you give us permission to use it in another manner  
 .  
-The use of your information will only be used within the branches of JoomlaMe. 
+The use of your information will only be used within the branches of jVitals. 
 
 ### Cookie/Tracking Technology
 
@@ -28,7 +28,7 @@ Your personally identifiable information is kept secure. Only authorized employe
 
 If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:
 
-  * By E-Mail: [admin@joomlame.com](mailto:admin@joomlame.com)
+  * By E-Mail: [admin@jVitals.com](mailto:admin@jVitals.com)
   * By Phone: 712-255-5243
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted.  
