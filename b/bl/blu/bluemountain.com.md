@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the bluemountain.com privacy policy that was archived on 2009-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090508190348id_/http%3A//www.bluemountain.com/new_warrants.pd) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluemountain.com privacy policy that was archived on 2009-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091108192304id_/http%3A//www.bluemountain.com/new_warrants.pd) for the most accurate reproduction.*
 
 # Blue Mountain- Privacy Policy
 
   
-**last updated: April 2008**
+**last updated: August 2009**
 
 **GENERAL MATTERS**
 
@@ -60,7 +60,7 @@ This program is conducted strictly on an opt-in basis. In order to receive the o
 Blue Mountain reserves the right to communicate with you from time to time about important administrative, policy, legal, credit card, and billing matters, which will affect your use of our web sites, including without limitation any alleged violations of our [Terms of Service](http://www.bluemountain.com/legal.pd). These communications are mandatory.
 
 **_Information Gathered From Members_**  
-If you elect to purchase a Membership on Blue Mountain, you will be required to provide us with certain personal information, including your name, e-mail address, phone number, credit card number, expiration date, and billing address (this required information is subject to change from time to time). There will also be opportunities for you to provide us with additional information regarding your preferences and interests. This information, however, is not required and is completely optional on your part.
+If you elect to purchase a Membership or redeem a promotional membership on Blue Mountain, you may be required to provide us with certain personal information, including your name, e-mail address, phone number, credit card number, expiration date, and billing address (this required information is subject to change from time to time). There will also be opportunities for you to provide us with additional information regarding your preferences and interests. This information, however, is not required and is completely optional on your part.
 
 Additional data may be collected from Members based upon certain services they elect to utilize on our web site. For example, we may track the categories of greetings you send in order to make appropriate recommendations for products or services available on our site or those of our Business Partners. Members may register for Blue Mountain Reminders, which are e-mail alerts to track important dates and occasions they specify. Blue Mountain Membership allows you to store greetings for future delivery, bookmark favorite greetings, and save greetings received in an online scrapbook. By obtaining this information, we can provide our Members with specific content and advertising in which they might be interested. None of this information is required to use our service or to become a Member; however, the omission of certain types of data will limit the value of your membership.
 
@@ -114,7 +114,7 @@ If you are a registered member, you have the ability to review and correct your 
 **OTHER MATTERS  
 Protection For Children - COPPA Compliance**  
 We are committed to protecting the privacy and rights of children online. We believe that children should be able to use the Internet in a safe, productive, and efficient manner and should be afforded the highest protection available with respect to their personal information. To that end, we have made it our policy to not collect any individually identifiable information from users whom we know are under the age of 13.   
-The Children's Online Privacy Protection Act ("COPPA") imposes certain requirements upon web sites and online services that are directed toward children. To learn more about COPPA, [click here](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html) for the Federal Trade Commission COPPA Web Site. 
+The Children's Online Privacy Protection Act ("COPPA") imposes certain requirements upon web sites and online services that are directed toward children. To learn more about COPPA, [click here](http://www.ftc.gov/ogc/coppa1.htm) for the Federal Trade Commission COPPA Web Site. 
 
 **Contests and Promotions**  
 Occasionally, Blue Mountain may sponsor contests and/or promotions on our sites or in our e-mail products. Participation in such contests is purely voluntary. In order to enter a contest or promotion, you may be asked to provide personally identifiable information. By entering, you agree to all of its terms and conditions, which will be clearly outlined in the rules. Where a contest or promotion is not sponsored by Blue Mountain, the identity of the sponsor will be clearly disclosed in the rules. Blue Mountain cannot be responsible for actions or policies of third-party contest sponsors. Users are encouraged to review the relevant privacy policy of the sponsor before entering.
