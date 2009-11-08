@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creation.com privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505171014id_/http%3A//creation.com/article/2035) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creation.com privacy policy that was archived on 2009-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091108122426id_/http%3A//creation.com/article/2035) for the most accurate reproduction.*
 
 # Privacy
 
