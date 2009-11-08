@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gamasutra.com privacy policy that was archived on 2009-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090508191053id_/http%3A//www.gamasutra.com/static/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamasutra.com privacy policy that was archived on 2009-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091108190634id_/http%3A//www.gamasutra.com/static/privacy_policy.html) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
 Privacy Policy    
 
@@ -89,4 +89,4 @@ Manhasset NY 11030
 516-562-5000 Ext. 5107  
 
 
-For questions specific to the Gamasutra site, contact us at: . 
+For questions specific to the Gamasutra site, contact us at [help@gamasutra.com](mailto:help@gamasutra.com). 
