@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the privacyrights.org privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529151810id_/http%3A//www.privacyrights.org/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privacyrights.org privacy policy that was archived on 2009-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091108130959id_/http%3A//www.privacyrights.org/policy.htm) for the most accurate reproduction.*
 
 # PRC's Privacy Policy
 
@@ -27,6 +27,6 @@ We do not sell, rent, share, or otherwise disclose mailing lists or other person
 
 On occasion , the media or legislators ask us for names and contact information of individuals who have experienced particular privacy abuses. We do not share such information unless you specifically authorize us to do so. 
 
-If you have given consent for us to release your information, whether to a reporter or legislator or otherwise, and later decide you no longer wish to consent, send an email to [bethg@privacyrights.org](mailto:bethg@privacyrights.org), or contact us by phone or mail.
+If you have given consent for us to release your information, whether to a reporter or legislator or otherwise, and later decide you no longer wish to consent, send an email to **bethg*at*privacyrights.org** , or contact us by phone or mail.
 
-Please contact PRC director Beth Givens, [bethg@privacyrights.org](mailto:bethg@privacyrights.org), if you have any questions or comments about the PRC privacy policy. 
+Please contact PRC director Beth Givens, **bethg*at*privacyrights.org** , if you have any questions or comments about the PRC privacy policy. 
