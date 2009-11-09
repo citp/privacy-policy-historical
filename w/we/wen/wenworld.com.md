@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the wenworld.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227001554id_/http%3A//wenatcheeworld.com/article/20070314/SANDR/70314001/1001) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wenworld.com privacy policy that was archived on 2009-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091109142533id_/http%3A//www.wenatcheeworld.com/privacy) for the most accurate reproduction.*
 
-# The Wenatchee World Online - Online services for Wenatchee, Washington readers
+# | Local news, sports, weather, blogs, opinion, crime, obituaries, business, directory, marketplace, education, high school, family, shopping, arts, entertainment, movies, books, cooking, auto, real estate, jobs, classifieds, photos, videos, comics, contests, and mountain pass webcams from Wenatchee, East Wenatchee, Chelan, Leavenworth, Waterville, Cashmere, Quincy, Entiat, North Central Washington newspaper
 
-wenatcheeworld.com Privacy Policy  
----  
-Updated March 2007  
-  
+## Updated March 2007
+
 Wenatcheeworld.com is committed to the privacy of individuals on the Internet. The policy of wenatcheeworld.com and World Publishing Company in regards to information gathered through our Web sites is is as follows:
 
 Wenatcheeworld.com collects identifying information about individuals only when those individuals provide that information on a voluntary basis, by registering for comments, contests, e-mail notifications and other like services.
@@ -18,9 +16,6 @@ Some activity on wenatcheeworld.com, such as the individual posting identifying 
 
 Wenatcheeworld.com uses 'cookies' in circumstances that require session data or require user verification. Cookies were designed to help a Web site recognize a user's browser as a previous visitor and thus save and remember any preferences that may have been set while the user was browsing the site. A cookie cannot retrieve any other data from your hard drive, pass on a computer virus, or capture your e-mail address. We use cookies to enhance your experience with wenatcheeworld.com.
 
-If you want to remove your personal information from our site/sites, please use the unsubscribe or delete registration alternatives on our site or send an e-mail detailing your request to [webmaster@wenatcheeworld.com](mailto:webmaster@wenatcheeworld.com).
+If you want to remove your personal information from our site/sites, please use the unsubscribe or delete registration alternatives on our site or send an e-mail detailing your request to webmaster@wenatcheeworld.com.
 
 We reserve the right to change this policy at any time. The date of any revision will be noted by the date at the top of the page.
-
-  
-
