@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixorial.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620201451id_/http%3A//www.pixorial.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixorial.com privacy policy that was archived on 2009-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091109233232id_/http%3A//www.pixorial.com/company/privacy.html) for the most accurate reproduction.*
 
 # Pixorial, Inc - Privacy - How we use and protect the information we collect. E-mail policy
 
@@ -144,6 +144,6 @@ If you have questions or concerns about your privacy when using this site, pleas
 
 Pixorial, Inc.  
 
-7670 S. Chester St, Unit 225 
+7670 S. Chester St, Unit 100 
 
 Englewood, CO 80112-3479 
