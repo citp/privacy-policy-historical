@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dmipartners.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608084956id_/http%3A//www.dmipartners.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dmipartners.com privacy policy that was archived on 2009-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091109184502id_/http%3A//www.dmipartners.com/privacy.aspx) for the most accurate reproduction.*
 
 # DMi Partners, Inc.
 
