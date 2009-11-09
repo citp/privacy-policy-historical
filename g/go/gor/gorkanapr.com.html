@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gorkanapr.com privacy policy that was archived on 2009-04-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090427160234id_/http%3A//www2.gorkanapr.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gorkanapr.com privacy policy that was archived on 2009-11-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091109105534id_/http%3A//www.gorkanapr.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -7,55 +7,57 @@
 
 <link href="/css/main.gpr.css.php" rel="stylesheet" type="text/css">
 
-<link href="/css/main.gpr.tabs.css.php" rel="stylesheet" type="text/css">
+            <link href="/css/main.gpr.tabs.css.php" rel="stylesheet" type="text/css">
+                
+                <link href="/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+                <link href="/css/jqModal.css" rel="stylesheet" type="text/css">
+                <link href="/css/datePicker.css" rel="stylesheet" type="text/css">
+                <link href="/css/jquery.lightbox-0.5.css" rel="stylesheet" type="text/css">
 
-<link href="/css/jquery.autocomplete.css" rel="stylesheet" type="text/css">
-<link href="/css/jqModal.css" rel="stylesheet" type="text/css">
-<link href="/css/datePicker.css" rel="stylesheet" type="text/css">
-<link href="/css/jquery.lightbox-0.5.css" rel="stylesheet" type="text/css">
+                <script type="text/javascript" src="/jscript/f93f6cfcd3e2607bdbf05eed2dd6581a.js"></script>
+                
+                
+                
+                
+                
+                
+                
+                
 
-<script type="text/javascript" src="/jscript/jquery-1.2.6.min.js"></script>
-<script type="text/javascript" src="/jscript/jqModal.js"></script>
-<script type="text/javascript" src="/jscript/jquery-ui-personalized-1.5.2.min.js"></script>
-<script type="text/javascript" src="/jscript/jquery.form.js"></script>
-<script type="text/javascript" src="/jscript/jquery.cookie.js"></script>
-<script type="text/javascript" src="/jscript/jquery.autocomplete.js"></script>
-<script type="text/javascript" src="/jscript/date.js"></script>
-<script type="text/javascript" src="/jscript/jquery.datePicker.js"></script>
-<script type="text/javascript" src="/jscript/jquery.lightbox-0.5.js"></script>
+                <script type="text/javascript">
 
-<script type="text/javascript">
+// counters
+var numForwardFeaturesFlagged = 0;
+var numMediaRequestsFlagged = 0;
 
-  // counters
-  var numForwardFeaturesFlagged = 0;
-  var numMediaRequestsFlagged = 0;
+var BASE_HREF = '/';
 
 $().ready(function() {
- 
-   // modal
-  $('#modalWindow').jqm({ajax: '@href', trigger: 'a.modalTrigger', ajaxText: 'Please wait...', toTop: true, cache: false});
-  $('#modalWindow').jqmAddClose('.modalClose'); 
-      $(".resultsTable tr:even").css("background-color", "#fff");
-      $(".resultsTable tr:odd").css("background-color", "#F9F9F9");
-  
-  $('a[@rel*=lightbox]').lightBox();
-  
-    
-     //searches for list of tabs and applies styling
-    var $lista = $("ul"); // Search for all the ULs in the document
 
-    for( var i = 0, n = $lista.length;  i < n;  ++i ) {
-      var ulElement = $lista[i];
-      if ($(ulElement).hasClass("ui-tabs-nav")) {  // Check if the ULs have a tab style
-        listBorder($(ulElement).parent().attr("id")); // Get the id of the div wrapping the ul
-      }
-    }
+          // modal
+          $('#modalWindow').jqm({ajax: '@href', trigger: 'a.modalTrigger', ajaxText: 'Please wait...', toTop: true, cache: false});
+          $('#modalWindow').jqmAddClose('.modalClose'); 
+          $(".resultsTable tr:even").css("background-color", "#fff");
+          $(".resultsTable tr:odd").css("background-color", "#F9F9F9");
+
+          $('a[@rel*=lightbox]').lightBox();
+
+          
+          //searches for list of tabs and applies styling
+          var $lista = $("ul"); // Search for all the ULs in the document
+
+          for( var i = 0, n = $lista.length;  i < n;  ++i ) {
+              var ulElement = $lista[i];
+              if ($(ulElement).hasClass("ui-tabs-nav")) {  // Check if the ULs have a tab style
+                  listBorder($(ulElement).parent().attr("id")); // Get the id of the div wrapping the ul
+              }
+          }
 });
 
 function statusWindow(){
-	$('#statusWindow').show();
-	
-	return false;
+    $('#statusWindow').show();
+
+    return false;
 }
 function logout(){
     if(navigator.appName == "Microsoft Internet Explorer"){
@@ -76,172 +78,172 @@ function listBorder(ListID){
     var $lists = $('#' + ListID + ' li'); // Search for all the list items
     for( var i = 0, n = $lists.length;  i < n;  ++i ) {
 
-      var element = $lists[i];
-      var elementPosition = $(element).position(); // Get the element position
+        var element = $lists[i];
+        var elementPosition = $(element).position(); // Get the element position
 
-      if (i<1) {var FirstRowPosition = elementPosition.top;}  // Get the vertical position of the fist row
+        if (i<1) {var FirstRowPosition = elementPosition.top;}  // Get the vertical position of the fist row
 
-      if (elementPosition.top > FirstRowPosition) { // Detect if there is a second row
-        element = $lists[i-1];
-        $(element).css("border-right","none");
-        break;
-      }
+        if (elementPosition.top > FirstRowPosition) { // Detect if there is a second row
+            element = $lists[i-1];
+            $(element).css("border-right","none");
+            break;
+        }
 
-      if (i == ($lists.length -1)) { // If we reach here, there is just one row
-        element = $lists[i];
-        $(element).css("border-right","none"); // Eliminate the right border of the last element
-        break;
-      }
+        if (i == ($lists.length -1)) { // If we reach here, there is just one row
+            element = $lists[i];
+            $(element).css("border-right","none"); // Eliminate the right border of the last element
+            break;
+        }
     }
 }
 
 
 
-	// Quick Search
-   function formatItem(row) {
-		//return row[0] + " (id: " + row[1] + ")";
-			return row[0];
-	 }
-	 function findValue(li) {
-			if( !!li.extra )
-				var sValue = li.extra[0];
-			else
-				var sValue = li.selectValue;
-	 }
-   
-   function selectItem(li) {
-	   if( !!li.extra ) {
-				var sValue = li.extra;
-				
-				if (li.extra[0]) {
-					if ($("#quick_search_id").length == 0) {
-						var inpID = document.createElement('input');
-						inpID.id = 'quick_search_id';
-						inpID.name = 'quick_search_id';
-						inpID.type= 'hidden';
-						inpID.value = li.extra[0];
-					} else {
-						$("#quick_search_id").attr('value', li.extra[0]);
-					}
-		
-					if ($("#quick_search_type").length == 0) {
-						var inpType = document.createElement('input');
-						inpType.id = 'quick_search_type';
-						inpType.name = 'quick_search_type';
-						inpType.type= 'hidden';
-						inpType.value = li.extra[1];
-					} else {
-						$("#quick_search_type").attr('value', li.extra[0]);
-					}
-				}
-	
-	
-				$('#searchForm').append(inpType);
-				$('#searchForm').append(inpID);
-				$("#qsearch").focus();
-	
-			}
-	
-	                // otherwise, let's just display the value in the text box
-	                else var sValue = li.selectValue;
-	
-	}
-	
-	
-	// prepare the form when the DOM is ready 
-	$(document).ready(function() {
-		$("#qsearch").autocomplete(
-				"/windows/quick/search/",
-				{
-					delay:10,
-					minChars:2,
-					matchSubset:1,
-					matchContains:1,
-					cacheLength:1,
-		
-                    onItemSelect:selectItem,
-                    onFindValue:findValue,
-                    formatItem:formatItem,
-		
-					autoFill:true
-		
-				}
-			);
-			   
-	});
+// Quick Search
+function formatItem(row) {
+    //return row[0] + " (id: " + row[1] + ")";
+    return row[0];
+}
+    function findValue(li) {
+        if( !!li.extra )
+            var sValue = li.extra[0];
+        else
+            var sValue = li.selectValue;
+    }
+
+function selectItem(li) {
+    if( !!li.extra ) {
+        var sValue = li.extra;
+
+        if (li.extra[0]) {
+            if ($("#quick_search_id").length == 0) {
+                var inpID = document.createElement('input');
+                inpID.id = 'quick_search_id';
+                inpID.name = 'quick_search_id';
+                inpID.type= 'hidden';
+                inpID.value = li.extra[0];
+            } else {
+                $("#quick_search_id").attr('value', li.extra[0]);
+            }
+
+            if ($("#quick_search_type").length == 0) {
+                var inpType = document.createElement('input');
+                inpType.id = 'quick_search_type';
+                inpType.name = 'quick_search_type';
+                inpType.type= 'hidden';
+                inpType.value = li.extra[1];
+            } else {
+                $("#quick_search_type").attr('value', li.extra[0]);
+            }
+        }
+
+
+        $('#searchForm').append(inpType);
+        $('#searchForm').append(inpID);
+        $("#searchQuickString").focus();
+
+    }
+
+    // otherwise, let's just display the value in the text box
+    else var sValue = li.selectValue;
+
+}
+
+
+// prepare the form when the DOM is ready 
+$(document).ready(function() {
+                  $("#searchQuickString").autocomplete(
+                                                       "/windows/quick/search/",
+                                                       {
+delay:10,
+minChars:2,
+matchSubset:1,
+matchContains:1,
+cacheLength:1,
+
+onItemSelect:selectItem,
+onFindValue:findValue,
+formatItem:formatItem,
+
+autoFill:true
+
+}
+);
+
+                  });
 
 </script>
 
 </head>
 <body>
-  <div id="MainWrapper">
-    <div id="Header" style="background-image: url(/img/header.jpg)">
-       <h1>GorkanaPR</h1>
-       <a href="/" class="homeLink"></a>
-       <div class="rightCol">
-         <form id="searchForm" action="/search/" method="get">
-                  </form>
-       
-         <div style="clear:right;"></div>
-                  <div id="topnav">
-           <ul>
-            	      	<li><a href="/user/join">register</a></li>
-	      		      	<li><a href="/news/pr/news/nli">PR news</a></li>
-	      		      	<li><a href="/jobs/pr">PR jobs</a></li>
-	      		      	<li><a href="/jobs/journalist">journo jobs</a></li>
-	      		      	<li><a href="/about/contact">contact us</a></li>
-	      	           </ul>
-         </div>
-                </div>
-       <div style="clear:both;"></div>
-    </div>
-    <div id="navBar" style="height: 20px;">
-        <div id="loggedInAs">You are not logged in <a href="/login" onclick="if ($('#login_box').length>0) {$('#login_box').fadeIn(); return false;}">[login]</a></div>
-    
-    <div id="subNav" style="margin-right:0px">
-        </div>
-      <div style="clear:both;"></div>
-    </div> <!-- / #navBar -->
-    
-<div id="login_box" style="display:none;"> 
- <div id="LoginCol" style="margin-top: 0; padding:5px;
-background:URL(//img/texture.gif) ; padding-left:10px; border:solid 1px #999;">
-      <form action="/login" method="post">
-          <label for="login_username">username:</label>
-      <input type="text" name="login_username" id="login_username" value="" class="itext">
-          <label for="login_password">password:</label>
-          <input type="password" name="login_password" id="login_password" value="" class="itext">
+<div id="MainWrapper">
+<div id="Header" style="background-image: url(/img/header.jpg)">
+<h1>GorkanaPR</h1>
+<a href="/" class="homeLink"></a>
+<div class="rightCol">
+<form id="searchForm" action="/search/" method="get">
+        </form>
 
-      <input type="submit" name="loginBtn" id="loginBtn2" value="Login" style="float:right;margin:10px 10px 0px 0px;background:url(img/btn_qsearch.gif) no-repeat center center;border:0;width:54px;height:22px;color:#FFF;">
-    <input type="hidden" name="fSubmitted" id="fSubmittedLogin" value="1">
-
-      <input type="submit" name="loginBtn" id="loginBtn" value="Login" class="buttonRedSmall">
-      </form>
-
-
-  </div><!-- / LoginCol -->
+        <div style="clear:right;"></div>
+                    <div id="topnav">
+                <ul>
+                                        <li><a href="/user/join">register</a></li>
+                                                <li><a href="/news/pr/news/nli">PR news</a></li>
+                                                <li><a href="/jobs/pr">PR jobs</a></li>
+                                                <li><a href="/jobs/journalist">journo jobs</a></li>
+                                                <li><a href="/about/contact">contact us</a></li>
+                                                </ul>
+                        </div>
+                        </div>
+<div style="clear:both;"></div>
 </div>
-      
-  <div id="menu">
-      <ul>
+<div id="navBar" style="height: 20px;">
+            <div id="loggedInAs">You are not logged in <a href="/login" onclick="if ($('#login_box').length>0) {$('#login_box').fadeIn(); return false;}">[login]</a></div>
+                
+                <div id="subNav" style="margin-right:0px">
+                                            </div>
+                            <div style="clear:both;"></div>
+                            </div> <!-- / #navBar -->
+                            
+    <div id="login_box" style="display:none;"> 
+        <div id="LoginCol" style="margin-top: 0; padding:5px;
+background:URL(//img/texture.gif) ; padding-left:10px; border:solid 1px #999;">
+               <form action="/login" method="post">
+               <label for="login_username">username:</label>
+               <input type="text" name="login_username" id="login_username" value="" class="itext">
+               <label for="login_password">password:</label>
+               <input type="password" name="login_password" id="login_password" value="" class="itext">
 
-      
-            <li><a href="/index" class="active">home</a>
-            </li>
-            <li class="sp">&nbsp;</li>
-                <li><a href="/jobs/journalist">journo jobs</a>
-            </li>
-            <li class="sp">&nbsp;</li>
-                <li><a href="/jobs/pr">PR jobs</a>
-            </li>
-            
-    </ul>
-       </div>
- 
-    <div id="content">
+               <input type="submit" name="loginBtn" id="loginBtn2" value="Login" style="float:right;margin:10px 10px 0px 0px;background:url(img/btn_qsearch.gif) no-repeat center center;border:0;width:54px;height:22px;color:#FFF;">
+               <input type="hidden" name="fSubmitted" id="fSubmittedLogin" value="1">
 
-    <form id="mainForm" name="mainForm" action="/about/privacy" method="post" enctype="multipart/form-data">
-    
+               <input type="submit" name="loginBtn" id="loginBtn" value="Login" class="buttonRedSmall">
+               </form>
+
+
+               </div><!-- / LoginCol -->
+               </div>
+                                
+                   <div id="menu">
+                                                          <ul>
+
+
+                                                                                  <li><a href="/index" class="active">home</a>
+                                                                                  </li>
+                                                                                          <li class="sp">&nbsp;</li>
+                                                                                                                                                 <li><a href="/jobs/journalist">journo jobs</a>
+                                                                                  </li>
+                                                                                          <li class="sp">&nbsp;</li>
+                                                                                                                                                 <li><a href="/jobs/pr">PR jobs</a>
+                                                                                  </li>
+                                                                                                
+                                                   </ul>
+                                                                                                      </div>
+
+                                                   <div id="content">
+
+<form id="mainForm" name="mainForm" action="/about/privacy" method="post" enctype="multipart/form-data">
+
 
 
 <h1>Privacy</h1>
@@ -308,7 +310,7 @@ $(document).ready(function(){
 				</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 				<script type="text/javascript">
 				try {
-					var pageTracker = _gat._getTracker("UA-6318988-1");
+					var pageTracker = _gat._getTracker("UA-790312-2");
 					pageTracker._trackPageview();
 				} catch(err) {}</script>
 			
