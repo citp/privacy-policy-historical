@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gorkanapr.com privacy policy that was archived on 2009-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090427160234id_/http%3A//www2.gorkanapr.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gorkanapr.com privacy policy that was archived on 2009-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091109105534id_/http%3A//www.gorkanapr.com/about/privacy) for the most accurate reproduction.*
 
 # gorkanapr
 
