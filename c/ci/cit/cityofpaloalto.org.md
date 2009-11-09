@@ -1,10 +1,67 @@
-> *The following text is extracted and transformed from the cityofpaloalto.org privacy policy that was archived on 2009-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090105193136id_/http%3A//www.cityofpaloalto.org/knowzone/web_site_help/default.asp%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityofpaloalto.org privacy policy that was archived on 2009-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091109213738id_/http%3A//www.cityofpaloalto.org/knowzone/web_site_help/default.asp%23privacy) for the most accurate reproduction.*
 
 # City of Palo Alto Website - Web Site Help
+
+Web Site Help  
+  
+
+
+Choose your comment type  
+  
+---  
+  
+Web Site Comments 
+
+Use the Web Site Comment form if... 
+
+  * You would like to report a broken link
+  * You have a problem viewing a page 
+  * You would like to relate your opinion
+  * You would like to make a suggestion
+
+
+
+If you can't find what you are looking for, and believe that important content is missing from the web site, please submit a Web SIte Content Request. 
+
+| 
+
+Web Site Content Request 
+
+Use the Web Site Content Request form if... 
+
+  * You can't find what you're looking for
+  * You believe information is incorrectly classified on the site
+  * Information is incomplete or unclear 
+
+
+
+If your comment seems more technical in nature, or is not specifically about the information content on the web site, please use the Web Site Comments form.   
+  
+[](https://web.archive.org/forms/web-site-feedback.lasso?-Token.linktype=incontext)
+
+| 
+
+[](https://web.archive.org/forms/web-site-request.lasso?-Token.linktype=incontext)  
+  
+Contact by Telephone 
+
+  * [Link to the Phone Directory](https://web.archive.org/depts/phone/default.asp)
+  * [Link to the Emergency Information "Whom to Contact" Page](https://web.archive.org/info/contacts.asp)  
+
+
+
+
+Browser 
+
+Best viewed in 1024x768, Internet Explorer 7.
+
+Search Engine 
 
 Search is a crucial component of the City of Palo Alto web site. Search provides connectivity to all web site file types, News Details, Departmental PDFs, Minutes, Agendas and Reports, and Contacts for easy and quick aggregated searching of all web site documents. When a citizen, business, or municipality needs information or services that don't emerge through site navigation, search often provides the most efficient path to the desired result. 
 
 Our [Family Resources](https://web.archive.org/depts/csd/community_and_family_resources/default.asp) pages provide a traditional and indexed search of Palo Alto community resources. Traditional search offers many filters and lists to help you identify the type of resources you desire. Additionally Family Resources offers a categorical search based on the industry-standard InfoLine taxonomy.
+
+Your Privacy 
 
 Privacy Notice Information   
 The City of Palo Alto Administrative Services, Information Technology Division, developed and manages this web site. This web site is the gateway for providing direct government-to-citizen public service provision and interaction through the use of information technology. We are dedicated to protecting your privacy on-line. The following privacy statement outlines how individual information will be handled by the City of Palo Alto while using this site. 
@@ -40,8 +97,9 @@ If personal information is requested on the Web site or volunteered by the user,
 
 Users are cautioned that the collection of personal information requested from or volunteered by children on-line or by email will be treated the same as information given by an adult, and may be subject to public access. 
 
-Public Disclosure   
-In the State Of California, laws exist to ensure that government is open and that the public has a right to access appropriate records and information possessed by municipalities. At the same time, there are exceptions to the public's right to access public records that serve various needs including the privacy of individuals. Exceptions are provided by both State and Federal laws. 
+Public Disclosure 
+
+In the State Of California, laws exist to ensure that government is open and that the public has a right to access appropriate records and information possessed by municipalities. At the same time, there are exceptions to the public's right to access public records that serve various needs including the privacy of individuals. Exceptions are provided by both State and Federal laws.
 
 All information collected at this site becomes public records that may be subject to inspection and copying by the public, unless an exemption in law exists. 
 
