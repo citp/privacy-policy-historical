@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vacationsmadeeasy.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627011749id_/http%3A//www.vacationsmadeeasy.com/privacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vacationsmadeeasy.com privacy policy that was archived on 2009-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091109063315id_/http%3A//www.vacationsmadeeasy.com/privacyPolicy.cfm) for the most accurate reproduction.*
 
 # Vacations Made Easy Disclaimers
 
