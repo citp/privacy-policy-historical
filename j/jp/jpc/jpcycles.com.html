@@ -1,25 +1,22 @@
-<!--The following is the downloaded HTML source of the jpcycles.com privacy policy that was archived on 2009-05-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090507183811id_/http%3A//www.jpcycles.com/Home/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jpcycles.com privacy policy that was archived on 2009-11-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091109212854id_/http%3A//www.jpcycles.com/home/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-        <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-        
-        
-        <title>J&amp;P&nbsp;Cycles® - Keeping the World on Two Wheels!!</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>
+	
+J&amp;P Cycles | Our Security and Privacy Policy
+
+</title>
         <meta name="Keywords" content="exhaust, sportster, seats, mirrors, honda, helmets, frames, lights, tires, wheels, clutch, motorbike parts">
         <meta name="Description" content="J&amp;P Cycles - Motorcycle ,motorbike parts, exhausts, seats, mirrors, tires, wheels, clutches, risers, helmets, handlebars, lights, windshields, shocks, frames, saddlebags and more are available for your Harley-Davidson Sportster, Honda, Yamaha, Kawasaki or Suzuki motorcycle.">
         
-        
         <link rel="stylesheet" href="/Content/css/base.css">
-        <link rel="stylesheet" href="/Content/css/screen.css">
-        <link rel="stylesheet" href="/Content/css/misc.css">    
         <script language="javascript" src="/Content/js/endeca.js.aspx" type="text/javascript"></script>
         <script language="javascript" src="/Content/js/utils.js" type="text/javascript"></script>
         <script language="javascript" src="/Content/js/swfobject.js" type="text/javascript"></script>
         <script language="javascript" src="/Content/js/jquery.js" type="text/javascript"></script>
         <script language="javascript" src="/Content/js/jquery.ui.js" type="text/javascript"></script>
         <script language="javascript" src="/Content/js/jquery.ui.drop.js" type="text/javascript"></script>
-        
+        <script language="javascript" src="/Content/js/jquery.watermark.pack.js" type="text/javascript"></script>
         <script type="text/javascript">
         //<!--
           $(document).ready(function() {
@@ -28,14 +25,32 @@
                 $("#messageContainer").slideUp("slow");
               })
             );
+            $("#Ntt").keydown(function() { $(this).trigger("focus"); }).val("Enter keywords or part numbers here").watermark();
+            $('#slideToggle').click(function(){
+                
+            }); 
+            var pusher = $('.pusher');
+            var quickShopDropDown = $('.quickshopdropdown');
+            pusher.toggle(function(){
+                quickShopDropDown.addClass('quickshopbackground');
+                pusher.removeClass('pusherinactive').addClass('pusheractive');
+                $(this).siblings('.quickshop').fadeIn(50);
+            },function() {
+                pusher.removeClass('pusheractive').addClass('pusherinactive');
+                $(this).siblings('.quickshop').fadeOut(50, function() {
+                    quickShopDropDown.removeClass('quickshopbackground');
+                });
+            });
+            $("#livechat").click(function() {
+                window.open('http://jpcycles.custhelp.com/app/utils/chat_popup/#rn_maincolumn', 'LiveChatWindow', 'toolbar=no,resizable=no,scrollbars=no,width=650,height=510,left=0,top=0');
+                return false;
+            });
           });
           //-->
         </script>
-       
         
     <link rel="stylesheet" href="/Content/css/home.css">
 
-        
 <script type="text/javascript">
 var mbJsHost = (("https:" == document.location.protocol) ? "https:" : "http:");
 document.write(unescape("%3Clink href='" + mbJsHost + "//t.p.mybuys.com/css/mbstyles.css' type='text/css' rel='stylesheet' id='mybuysstyles'%3E%3C/link%3E"));
@@ -43,297 +58,297 @@ document.write(unescape("%3Cscript src='" + mbJsHost + "//t.p.mybuys.com/js/mybu
 document.write(unescape("%3Cscript src='" + mbJsHost + "//t.p.mybuys.com/clients/JPCYCLES/js/setup.js' type='text/javascript'%3E%3C/script%3E"));
 </script><link href="https://t.p.mybuys.com/css/mbstyles.css" type="text/css" rel="stylesheet" id="mybuysstyles"><script src="https://t.p.mybuys.com/js/mybuys3.js" type="text/javascript"></script><script src="https://t.p.mybuys.com/clients/JPCYCLES/js/setup.js" type="text/javascript"></script>
 <script type="text/javascript">
-$(document).ready(function() {
-    $("a").click(function() {
-        if(pageTracker)
-            pageTracker._trackEvent(document.location.href, $(this).text());
+    $(document).ready(function() {
+        $("#QuickShop .button").click(function() {
+            var sku = $("#quickShopProductSku").val();
+            if (pageTracker) { pageTracker._trackEvent("QuickShop", "Click", sku); }
+        });
+        $("a[href^='http']").click(function() {
+            if (pageTracker) { pageTracker._trackPageview($(this).attr("href")); }
+        });
+        $("#livechat").click(function() {
+            if (pageTracker) { pageTracker._trackEvent("LiveChat", "Initiate", location.href.toLowerCase()) };
+        });
+        $("#signout").click(function() {
+            if (pageTracker) { pageTracker._trackEvent("SignOut", "Click", location.href.toLowerCase()) };
+        });
     });
-});
-</script>
-    </head>
+</script></head>
     <body>
-        
         <div style="margin: auto; width: 1000px; " id="wrapper">
-            <div id="userStatus">
-                <div>
-                    
+            
+<div class="header">
+    <p class="phonenumber">24/7 Customer Service <span class="bold">1-800-397-4844</span>
+        <a id="livechat" href="http://jpcycles.custhelp.com/app/utils/chat" target="_blank">Live Chat</a>
+    </p>
+    <div id="userStatus">
+         
         
         <p id="signedIn">
-            You are <strong>not signed in</strong> (
-            <a href="/Account/Login">Sign In</a>
-            or
-            <a href="/Account/Register">Register</a>
-            )
+            You are <span class="bold">not signed in</span>&nbsp;
+            (<a href="/account/login">Sign In</a> or <a href="/account/register">Register</a>)
         </p>
+
+    </div>
+</div>
+<div class="header">
+    <div class="cartsummary">
         
 
-	            </div>
-            </div>
-            
-            
-<div id="container_uc_navtabs" style="float:left;clear:both;">
-    <div class="container_logo">
-        <a href="/">
-            <img src="/Content/images/30logo.jpg" border="0" alt="J&amp;P Cycles - Aftermarket Parts &amp; Accessories for your motorcycle!">
-        </a>
+<a href="/cart"><img src="/content/images/header/ico_cart.png" alt="Shopping Cart Icon" class="cart"> My Cart</a>
+<p class="bold">0 Items</p>
     </div>
-    <div class="secondary_links">
-        <div>
-            <strong>Call Toll-Free to Order</strong><br>
-            <strong class="phonenumber">1-800-397-4844</strong>
-        </div>
+    <a href="/" class="logo">
+        <img src="/Content/images/header/30logo.jpg" alt="J&amp;P Cycles - Aftermarket Parts &amp; Accessories for your motorcycle!">
+    </a>
+    <p class="tagline">
+        <strong>
+        World's Largest Aftermarket Motorcycle Parts and Accessories Superstore!
+        </strong>
+    </p>
+    <ul class="secondarylinks">
+        <li class="first"><a href="/giftcard" title="Gift Cards for Motorcycle Parts and Accessories from J&amp;P Cycles®">Gift Cards</a></li>
+        <li><a href="/goldclubinfo" title="Save on Motorcycle Parts with the J&amp;P Gold Club">Gold Club</a></li>
+        <li><a href="http://video.jpcycles.com" rel="nofollow" title="Motorcycle Videos and Clips">Videos</a></li>
+        <li><a href="/catalogrequest" title="Free Catalogs for your Harley Davidson® or Metric Cruiser">Free Catalogs</a></li>            
+        <li><a href="/account" title="Sign in to your J&amp;P Cycles® web account">My Account</a></li>
+    </ul>
+    <div class="topnavbar">
         <ul>
-            <li class="first"><a href="/GiftCard">Gift Cards</a></li>
-            <li><a href="/goldclubinfo/">Gold Club</a></li>
-            <li><a href="http://video.jpcycles.com">JPTV</a></li>
-            <li><a href="/CatalogRequest">Free Catalogs</a></li>
-            <li><a href="/Account">My Account</a></li>
+            <li class="first"></li>
+            <li><a href="/">Home</a></li>
+            <li><a href="/home/about" title="About J&amp;P Cycles®">About Us</a></li>
+            <li><a href="/search/newproducts" title="New Parts for Harley Davidson® and Metric Bikes">New Products</a></li>
+            <li><a href="/clearance" title="Discount Motorcycle Parts for Sale">Clearance</a></li>
+            <li><a href="/search/specialbuys">Special Buys</a></li>
+            <li><a href="/scratchanddent" title="Out-of-Box or Slightly Damage Motorcycle Parts and Motorcycle Accessories">Scratch &amp; Dent</a></li>
+            <li><a href="http://community.jpcycles.com" rel="nofollow" title="Join our Community of riders and share photos">Community</a></li>
+            <li><a href="http://community.jpcycles.com/articles/tech-articles/default.aspx" rel="nofollow" title="Browse our Motorcycle Tech Articles written by experts">Tech Articles</a></li>
+            <li><a href="/events" title="Our list of motorcycle rallies, shows and swap meets">Events</a></li>
+            <li><a href="http://jpcycles.custhelp.com/app/answers/list" rel="nofollow" title="Find frequently asked questions or ask your own">Customer Service</a></li>
+            <li class="lastdivide"></li>
+            <li class="last"></li>
         </ul>
     </div>
-    <div class="container_cart">
-        
-<div class="container_cart_top">
-    Shopping Cart
-</div>
-<div class="container_cart_middle ">
-    <strong id="cartSumaryQuantityTotal">0</strong>&nbsp;&nbsp;items&nbsp;<strong id="cartSummarySubTotal">$0.00</strong><br>
-    
-        $299.99&nbsp;to free shipping.
-    
-</div>
-<div class="container_cart_links">
-    <ul>
-        <li><a href="/Cart">View</a></li>
-        <li><a href="/Checkout/Payment">Checkout</a></li>
-    </ul>
-</div>
-    </div>
-    <div class="container_topnavbar">
-        <div style="float: left; clear: left;">
-            <img src="/Content/images/navl.jpg" alt="">
+    <div class="formbar">
+        <form id="SearchForm" action="/search/search" method="get" onsubmit="if(document.getElementById('Ntt').value=='')return false;">
+            <input type="hidden" name="N" value="0">
+            <input type="hidden" name="Ne" value="0">
+            <input type="hidden" name="Ntk" value="All">
+            <input type="hidden" name="Ntx" value="mode matchallany">
+            <label for="Ntt">Search:</label>
+            <input type="text" id="Ntt" name="Ntt" size="55" class="textbox" value="" basecolor="rgb(0, 0, 0)" base="Enter keywords or part numbers here" iswatermark="1" style="color: rgb(153, 153, 153);">
+            <input type="image" src="/Content/images/btn_go.jpg" class="button" alt="" id="btnSearch">
+        </form>
+        <div class="quickshopdropdown">
+            <span class="pusher pusherinactive" id="slideToggle">Know Your Part Number?</span> 
+            <form id="QuickShop" class="quickshop" action="/cart/additem" method="post">
+                <span>Input the part number and quantity to add a part directly to your cart.</span>
+                <label for="productSku">Part Number</label>
+                <input type="text" name="productSku" id="quickShopProductSku" class="textbox">
+                <label for="productQty">Quantity</label>
+                <input type="text" name="quantity" id="productQty" class="textbox" value="1">
+                <input type="image" src="/Content/images/btn_paddcart.jpg" class="button" alt="Add this product to your cart" name="btnAddToCart">
+            </form>
         </div>
-        <div class="navbar" style="border-bottom: solid 1px #b0b0b0;">
-            <ul style="width:100%;">
-                <li class="first"><a href="/Home">Home</a></li>
-                <li><a href="/Search/NewProducts">New Products</a></li>
-                <li><a href="/Clearance">Clearance</a></li>
-                <li><a href="/ScratchAndDent">Scratch &amp; Dent</a></li>
-                <li><a href="http://community.jpcycles.com">Community</a></li>
-                <li><a href="http://community.jpcycles.com/articles/tech-articles/default.aspx">Tech Articles</a></li>
-                <li><a href="/Events/">Events</a></li>
-                <li><a href="http://jpcycles.custhelp.com/app/answers/list">Customer Service</a></li>
-                <li class="last"></li>
-            </ul>
-        </div>
-        <div class="navbar" style="border-top: solid 1px #ececec;">          
-                <div style="float: left; margin: 0 5px 0 0;">
-                    <form id="SearchForm" action="/Search/Search" method="get" onsubmit="if(document.getElementById('Ntt').value=='')return false;">
-                        <input type="hidden" name="N" value="0">
-                        <input type="hidden" name="Ne" value="0">
-                        <input type="hidden" name="Ntk" value="All">
-                        <input type="hidden" name="Ntx" value="mode matchallany">
-                        <label for="Ntt" style="float:left;margin-top:3px;"><strong>Search:</strong></label>
-                        <input type="text" id="Ntt" name="Ntt" style="font-style: italic; float:left; margin-left: 4px;" size="32" class="textbox" value="">
-                        <input type="image" src="/Content/images/btn_go.jpg" style="float:left; margin: 0 0 0 4px;" class="button" alt="">
-                    </form>
-                </div>
-                <div style="float:right;margin: 0 0px 0 5px;">
-                    <form id="Form2" action="/cart/AddItem/" method="post">
-                        <label for="productSku" style="float:left;margin-top:3px;"><strong>Quick Shop:</strong></label>
-                        <input type="text" name="productSku" id="productSku" class="textbox" style="width: 140px;float:left; margin: 0 0 0 5px;">
-                        <input type="text" name="quantity" class="textbox" value="1" style="width: 20px; float:left;margin: 0 0 0 1px;">
-                        <input type="image" src="/Content/images/btn_paddcart.jpg" class="button" style="float:left; margin: 0px 0 0 5px;" alt="Add this product to your cart" name="btnAddToCart">
-                    </form>
-                </div>
-            <div id="div2" style="display: none; z-index: +9000; position: absolute;
-                width: 177px; background-color: #FFFFFF; border: 1px solid #000">
-            </div>
-        </div>
+        <div id="div2" style="display: none; z-index: +9000; position: absolute;width: 177px; background-color: #FFFFFF; border: 1px solid #000"></div>
     </div>
 </div>
-
-            
             <div style="clear: both;">
                 
-<div class="page" style="border-bottom: solid 1px #cccccc;">
-    <h2>Security and Privacy</h2>
-        <div class="legaltext" style="float:left;width:65%;border-right:solid 1px #cccccc;padding:0 5px;">
-            <p style="padding: 5px; margin-top: 0; background-color: #ececec;color:#07447c;">
-                <strong>Ordering Online at WWW.JPCYCLES.COM</strong><br> 
-                All of the products in our catalogs, plus thousands more, are available for purchase 
-                online 24 hours a day, 7 days a week. We offer a secured environment for your privacy 
-                and protection.
-            </p>
-            <p>
-                J&amp;P Cycles® collects the email addresses of those who communicate with us via email, the email addresses of those 
-                who make postings in our Rider's Forum area and email addresses of those who choose to receive email from a catalog or 
-                merchandise request. Those who fill out a merchandise order or catalog request are added to the mailing list.</p>
-            <p>The information we collect is used for internal review and is then discarded, used to improve the content of our website, 
-            and used to notify consumers about updates to our Website. J&amp;P Cycles® will not sell your email address to another company, 
-            nor do we make our email database available to the public.</p>
-         </div>
-         <div class="legaltext" style="width: 30%; float: left; margin-left: 15px;">
-             <span>Contact Us:</span>
-             <p>
-                 J&amp;P Cycles® <br>
-                 13225 Circle Drive PO Box 138 <br>
-                 Anamosa, IA <br>
-                 52205
-                 <br> <br>
-                 We can be contacted
-                 via email at: customerservice@jpcycles.com<br><br>
-                 You can also reach us by telephone at<br>1-800-338-1747.
-             </p>
-         </div>
+<div class="page-content">
+    <h1>Security and Privacy</h1>
+    <div class="supplementary-content col-thick">
+        <p class="accent">
+            <strong>Ordering Online at WWW.JPCYCLES.COM</strong><br>
+            All of the products in our catalogs, plus thousands more, are available for purchase
+            online 24 hours a day, 7 days a week. We offer a secured environment for your privacy
+            and protection.
+        </p>
+        <p>
+            J&amp;P Cycles® collects the email addresses of those who communicate with us
+            via email, the email addresses of those who make postings in our Rider's Forum area
+            and email addresses of those who choose to receive email from a catalog or merchandise
+            request. Those who fill out a merchandise order or catalog request are added to
+            the mailing list.
+        </p>
+        <p>
+            The information we collect is used for internal review and is then discarded, used
+            to improve the content of our website, and used to notify consumers about updates
+            to our Website. J&amp;P Cycles® will not sell your email address to another
+            company, nor do we make our email database available to the public.
+        </p>
+    </div>
+    <div class="supplementary-content col-thin">
+        <p>
+            <strong>Contact Us:</strong><br>
+            J&amp;P Cycles®<br>
+            13225 Circle Drive PO Box 138<br>
+            Anamosa, IA<br>
+            52205
+        </p>
+        <p>
+            We can be contacted via email <a href="http://jpcycles.custhelp.com/app/contactus">here</a>.
+        </p>
+        <p>
+            You can also reach us by telephone at
+            1-800-338-1747.
+        </p>
+    </div>
+    <div class="supplementary-content col-full">
+        <p>
+            We make portions of our customer mailing lists available to carefully screened companies that offer products and services we 
+            believe you may enjoy. If you do not want to receive those offers and/or information, please let us know by contacting us.
+        </p>
+        <p class="accent">
+            If you supply us with your postal address online you may receive periodic mailings from us with information on new products and services 
+            or upcoming events. If you do not wish to receive such mailings, please let us know by providing us with your exact name and address. 
+            We will be sure your name is removed from the list.
+        </p>
+        <p>
+            When you visit this web site, we collect information about your visit. We collect your IP address, browser type, domain name, where in 
+            our site you visit, and the length of time of your visit. We assign you a unique internal identifier to help keep track of your future 
+            visits. Except where listed elsewhere in this privacy statement, we keep this information for our internal use; we do not share it with others. 
+            This information helps us better our service by showing our peak usage, busiest times, and server needs.
+        </p>
+        <p>
+            We use cookies to store information between visits to our site. Cookies are a mechanism to remember information about a visitor from one 
+            page to another. Web browsers store cookies so that the browser itself can remember some information and then, on request, pass all that 
+            information up to the server at one time. We use cookies to remember your name and the contents of your shopping cart. Our website requires 
+            the use of cookies. Turning off cookies or rejecting the jpcycles.com cookie will prevent you from making purchases from the website. The 
+            information contained in the cookies only contains information about your visit to our website, and no other personal information. We cannot 
+            and do not track your actions on any Internet locations other than the jpcycles.com web site.
+        </p>
+        <p class="accent">
+            If you place an <a href="/home/ordering">order online</a>, our secure order form requests contact, billing, and financial information (such as your credit card numbers 
+            for purchases). Contact information from the order form (email address, name, billing and shipping address, and phone number) is used to send 
+            orders and information about our company to you. Your contact information is also used to get in touch with you should we have questions regarding 
+            your order or should we need to notify you of the status of your order. And yes, you can opt not to get email from us except for the order 
+            confirmation we send after an order was received by us. The financial information we collect is used ONLY to bill you for products you purchase.
+        </p>
+        <p>
+            We may run contests and promotions on our site in which we ask visitors for contact information (such as their email address). We use this information 
+            to contact the winners and to send visitors information about our company. Users may opt-out of receiving future mailings.
+        </p>
+        <p>
+            J&amp;P Cycles® is constantly striving to improve its service to you. To assist us with this process, your call to our sales and service department could be 
+            monitored (if you do not want your conversation to be monitored, just let your representative know). Our purpose for this procedure is to coach our staff 
+            to provide you with outstanding customer service. At J&amp;P Cycles®, <a href="/home/missionstatement">we believe excellence</a> is a continuous process, not a goal.
+            </p> 
+        <p>
+            We will cooperate with law enforcement and judicial authorities, and we may provide personally identifiable information to appropriate government authorities upon 
+            receipt of a subpoena or court order, or to cooperate with a law enforcement investigation. We will fully cooperate with law enforcement agencies in identifying 
+            those who use our services for illegal activities. We also reserve the right to report to law enforcement agencies activities that we in good faith believe to be 
+            illegal.
+        </p> 
+    </div>
          <div class="legaltext" style="width:100%;float:left;">
-            <p style="background-color: #ececec;color:#07447c;padding: 5px;">
-                We make portions of our customer mailing lists available to carefully screened companies that offer products and services we 
-                believe you may enjoy. If you do not want to receive those offers and/or information, please let us know by contacting us.
-            </p>
-            <p>
-                If you supply us with your postal address online you may receive periodic mailings from us with information on new products and services 
-                or upcoming events. If you do not wish to receive such mailings, please let us know by providing us with your exact name and address. 
-                We will be sure your name is removed from the list.
-            </p>
-            <p>
-                When you visit this web site, we collect information about your visit. We collect your IP address, browser type, domain name, where in 
-                our site you visit, and the length of time of your visit. We assign you a unique internal identifier to help keep track of your future 
-                visits. Except where listed elsewhere in this privacy statement, we keep this information for our internal use; we do not share it with others. 
-                This information helps us better our service by showing our peak usage, busiest times, and server needs.
-            </p>
-            <p>
-                We use cookies to store information between visits to our site. Cookies are a mechanism to remember information about a visitor from one 
-                page to another. Web browsers store cookies so that the browser itself can remember some information and then, on request, pass all that 
-                information up to the server at one time. We use cookies to remember your name and the contents of your shopping cart. Our website requires 
-                the use of cookies. Turning off cookies or rejecting the jpcycles.com cookie will prevent you from making purchases from the website. The 
-                information contained in the cookies only contains information about your visit to our website, and no other personal information. We cannot 
-                and do not track your actions on any Internet locations other than the jpcycles.com web site.
-            </p>
-            <p style="background-color:#ececec;color:#07447c;padding: 5px;">
-                If you place an order online, our secure order form requests contact, billing, and financial information (such as your credit card numbers 
-                for purchases). Contact information from the order form (email address, name, billing and shipping address, and phone number) is used to send 
-                orders and information about our company to you. Your contact information is also used to get in touch with you should we have questions regarding 
-                your order or should we need to notify you of the status of your order. And yes, you can opt not to get email from us except for the order 
-                confirmation we send after an order was received by us. The financial information we collect is used ONLY to bill you for products you purchase.
-            </p>
-            <p>
-                We may run contests and promotions on our site in which we ask visitors for contact information (such as their email address). We use this information 
-                to contact the winners and to send visitors information about our company. Users may opt-out of receiving future mailings.
-            </p>
-            <p>
-                J&amp;P Cycles® is constantly striving to improve its service to you. To assist us with this process, your call to our sales and service department could be 
-                monitored (if you do not want your conversation to be monitored, just let your representative know). Our purpose for this procedure is to coach our staff 
-                to provide you with outstanding customer service. At J&amp;P Cycles®, we believe excellence is a continuous process, not a goal.
-                </p> 
-            <p style="background-color:#ececec;color:#07447c;padding:5px;">
-                We will cooperate with law enforcement and judicial authorities, and we may provide personally identifiable information to appropriate government authorities upon 
-                receipt of a subpoena or court order, or to cooperate with a law enforcement investigation. We will fully cooperate with law enforcement agencies in identifying 
-                those who use our services for illegal activities. We also reserve the right to report to law enforcement agencies activities that we in good faith believe to be 
-                illegal.
-            </p>            
+
+           
         </div>
         
     </div>
 
             </div>
             
-            
 <div class="page" style="width: 980px;">
-    <div class="bottomCol">
-        <span>Ordering</span><br>
-        <a href="/Home/Ordering">Ordering Options</a><br>
-        <a href="/Home/Privacy">Security And Privacy</a><br>
-        <a href="/Home/Returns">Return Information</a><br>
-        <a href="/Home/Shipping">Shipping Information</a><br>
-        <a href="/Home/Satisfaction">Satisfaction Guarantee</a><br>
-        <a href="/Home/Disclaimer">Disclaimer</a><br>
+    <div class="footer">
+        <div class="col" style="width:170px;">
+            <span class="header">J&amp;P Cycles®<br>
+            13225 Circle Drive<br>
+            Anamosa, IA 52205</span><br>
+            <span class="bold">Toll free 1-800-397-4844</span>
+            <span style="font-style:italic; margin: 5px 0;">Prices and misprints subject to change.</span>
+            <span>Copyright © 2009 J&amp;P Cycles®</span>
+        </div>
+        <div class="col" style="width:125px;">
+            <span class="header">Ordering</span>
+            <a href="/home/ordering">Ordering Options</a>
+            <a href="/home/privacy">Security And Privacy</a>
+            <a href="/home/returns">Return Information</a>
+            <a href="/home/shipping">Shipping Information</a>
+            <a href="/home/satisfaction">Satisfaction Guarantee</a>
+            <a href="/home/disclaimer">Disclaimer</a>
+        </div>
+        <div class="col" style="width:160px;">
+            <span class="header">Company Information</span>
+            <a href="/home/about">About Us</a>
+            <a rel="nofollow" href="http://jpcycles.custhelp.com">Contact Us</a>
+            <a rel="nofollow" href="http://jpcycles.custhelp.com/app/answers/list">Motorcycle Tech Support</a>
+            <a rel="nofollow" href="http://jpcycles.custhelp.com/app/answers/list">Motorcycle Customer Service</a>
+            <a href="/home/jpteam">The J&amp;P Team</a>
+            <a href="/home/missionstatement">Mission Statement</a>
+            <a href="http://jobs.jpcycles.com/">Careers at J&amp;P</a>
+        </div>
+        <div class="col" style="width:115px;">
+            <span class="header">General Information</span>
+            <a rel="nofollow" href="/home/links">Links</a>
+            <a rel="nofollow" href="/pressrelease">Press Releases</a>
+            <a rel="nofollow" href="http://jpcycles.custhelp.com" target="_blank">FAQ</a>
+            <a rel="nofollow" href="/home/affiliate">Become an Affiliate</a>
+            <a rel="nofollow" href="/home/linktous">Link to Us</a>
+            <a rel="nofollow" href="/home/sizing">Apparel Sizing</a>
+            <a href="/home/sitemap">Sitemap</a>
+        </div>
+        <div class="col" style="width:300px;border-right:none;">
+            <span class="header">Sign Up For E-Mails</span> 
+            <span>Sign up for the latest information
+                on great new products, special offers, product recommendations, and savings opportunities
+                from J&amp;P Cycles®</span> 
+            <span style="margin-top: 15px;" class="bold">Enter E-Mail Address:</span>
+            <form action="/email/emailsignup" method="get" id="emailSubscribe" target="_blank">
+            <input name="e" type="text" style="width: 200px; float: left;margin: 5px 0 0;" class="TextGetEmails">
+            <input type="image" src="/Content/images/btn_signup.gif" class="SubmitGetEmails" style="border: 0;
+                float: left; margin: 4px 0 0 5px;">
+            </form>
+        </div>
+        <div class="footerimgs" style="width:307px;">
+            <img src="/Content/images/mastercard.jpg" border="0" alt="Mastercard Logo">
+            <img src="/Content/images/discover.jpg" border="0" alt="Discover Logo">
+            <img src="/Content/images/amex.jpg" border="0" alt="Amex Logo">
+            <img src="/Content/images/visa.jpg" border="0" alt="Visa Logo">
+            <img src="/Content/images/dinersClub.jpg" border="0" alt="Diners Club Logo"><br>
+            <img src="/Content/images/paypal.jpg" border="0" alt="Paypal Logo">
+            <img src="/Content/images/check.jpg" border="0" alt="Cheque Logo">
+            <img src="/Content/images/giftCert.jpg" border="0" alt="Gift Certificate Logo">
+            <img src="/Content/images/giftcardsm.jpg" border="0" alt="BML Logo">
+            <img src="/Content/images/bmlsm.jpg" border="0" alt="BML Logo">
+        </div>
+        <div class="footerimgs" style="width:235px;">
+            <a rel="nofollow" href="http://www.bbbonline.org/cks.asp?id=10505239129">
+            <img src="/Content/images/BBB.jpg" border="0" alt="BBB Logo"></a>
+        </div>
+        <div class="footerimgs" style="width:165px;">
+            <a rel="nofollow" href="http://www.the-dma.org/index.php">
+            <img src="/Content/images/DMA.jpg" border="0" alt="DMALogo"></a>
+        </div>
+        <div class="footerimgs" id="Div2" style="margin-top: 0px;width:195px;height:75px;">
+            <script src="https://seal.verisign.com/getseal?host_name=www.jpcycles.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=YES"></script> 
+        </div>
+        <div class="footerimgs">
+            <a href="http://www.nationalmcmuseum.org/" rel="nofollow" target="_blank">
+            <img src="/Content/images/nmmuseum.jpg" border="0" alt="National Motorcycle Museum"></a>
+        </div>
     </div>
-    <div class="bottomCol" align="center">
-        <span>Company Information</span><br>
-        <a href="/Home/About">About Us</a><br>
-        <a href="http://jpcycles.custhelp.com">Contact Us</a><br>
-        <a href="http://jpcycles.custhelp.com/app/answers/list">Motorcycle Tech Support</a><br>
-        <a href="http://jpcycles.custhelp.com/app/answers/list">Motorcycle Customer Service</a><br>
-        <a href="/Home/JPTeam">The J&amp;P Team</a><br>
-        <a href="/Home/MissionStatement">Mission Statement</a><br>
-        <a href="http://jobs.jpcycles.com/">Careers at J&amp;P</a><br>
-    </div>
-    <div class="bottomCol" align="right">
-        <span>General Information</span><br>
-        <a href="/Home/Links">Links</a><br>
-        <a href="/PressRelease">Press Releases</a><br>
-        <a href="http://jpcycles.custhelp.com" target="_blank">FAQ</a><br>
-        <a href="/Home/Affiliate">Become an Affiliate</a><br>
-        <a href="/Home/LinkToUs">Link to Us</a><br>
-        <a href="/Home/Sizing">Apparel Sizing</a><br>
-        <a href="/Home/Sitemap">Sitemap</a><br>
-    </div>
-    <div class="bottomCol" style="width: 980px; text-align: center;">
-        <span>J&amp;P Cycles® 13225 Circle Drive Anamosa, IA 52205</span><br>
-        <span style="font-size: 9pt;">Prices &amp; misprints subject to change.</span>
-    </div>
-    <div class="container_bottom_imgs">
-        <a href="http://www.bbbonline.org/cks.asp?id=10505239129">
-            <img src="/Content/images/BBB.gif" border="0" alt="BBB Logo"></a>
-        <a href="http://www.the-dma.org/index.php" style="margin-left: 120px;">
-            <img src="/Content/images/DMALogo.gif" width="75" height="50" border="0" alt="DMALogo"></a>
-<div id="verisign" style="margin-left: 120px;">
-
-<script src="https://seal.verisign.com/getseal?host_name=www.jpcycles.com&amp;size=S&amp;use_flash=NO&amp;use_transparent=YES"></script> 
-
 </div>
-
-    </div>
-    <div style="float: left; margin-top: 10px;">
-        <a href="/Home/Ordering">
-            <img src="/Content/images/mastercard_c.gif" border="1" alt="Mastercard Logo"></a>
-        <a href="/Home/Ordering">
-            <img src="/Content/images/discover_c.gif" width="39" height="24" hspace="1" border="1" alt="Discover Logo"></a> <a href="/Home/Ordering">
-                    <img src="/Content/images/amex_c.gif" width="39" height="24" border="1" alt="Amex Logo"></a><br>
-        <a href="/Home/Ordering">
-            <img src="/Content/images/visa_c.gif" width="39" height="24" vspace="1" border="1" alt="Visa Logo"></a> <a href="/Home/Ordering">
-                    <img src="/Content/images/dinersClub_c.gif" width="39" height="24" hspace="1" border="1" alt="Diners Club Logo"></a> <a href="/Home/Ordering">
-                            <img src="/Content/images/paypal.gif" width="39" height="24" border="1" alt="Paypal Logo"></a><br>
-        <a href="/Home/Ordering">
-            <img src="/Content/images/cheque.gif" width="39" height="24" vspace="1" border="1" alt="Cheque Logo"></a> <a href="/Home/Ordering">
-                    <img src="/Content/images/giftCert.gif" width="39" height="24" hspace="1" border="1" alt="Gift Certificate Logo"></a> <a href="/Home/Ordering">
-                            <img src="/Content/images/billMeLater.gif" width="39" height="24" border="1" alt="BML Logo"></a><br>
-    </div>
-</div>
-
         </div>
         
-
-<!-- Fireclick, Inc - COPYRIGHT 1999-2008 - Please do not modify this code-->
-<script type="text/javascript">
-//<!--
-function handle(){return true;}
-window.onerror=handle;
-var fc_host='www.jpcycles.com';
-document.write('<scr'+'ipt '
-+'src="'+((location.protocol=='http:')?'http:':'https:')
-+'//a248.e.akamai.net/f/248/5462/3h/hints.netflame.cc/service/sc'+'ript/'+fc_host+'"></scr'+'ipt>');
-function fcce(){if (typeof(fcnf)!="undefined") fcnf();}
-var fcfn=window.onload;
-function fcco(){window.setTimeout("fcce();", 100);fcfn();}
-window.onload= null==fcfn ? fcce:fcco;
-// -->
-</script><script src="https://a248.e.akamai.net/f/248/5462/3h/hints.netflame.cc/service/script/www.jpcycles.com"></script>
-<!-- Fireclick, Inc - COPYRIGHT 1999-2008 - Please do not modify this code-->
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
+try {
 var pageTracker = _gat._getTracker("UA-326360-1");
-pageTracker._initData();
 pageTracker._trackPageview();
-</script>
+} catch(err) {}</script>
+
+
+
 <script type="text/javascript">
 mybuys.initPage();
 </script>
     
     <!-- AB-JPCYCLES-BIT -->
-
 </body></html>
