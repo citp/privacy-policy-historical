@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miaplaza.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625121618id_/http%3A//www.miaplaza.com/help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miaplaza.com privacy policy that was archived on 2009-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091109113012id_/http%3A//www.miaplaza.com/help/Privacy.aspx) for the most accurate reproduction.*
 
 # miaplaza - Privacy Policy
 
@@ -29,7 +29,7 @@ Please read this privacy policy to learn more about:
 
 Please note that his privacy policy is provided under, and subject to, the **mia** plaza User Agreement.
 
-**Effective Date:** This policy was last updated on 8/9/2007. 
+**Effective Date:** This policy was last updated on 9/22/2009. 
 
 **mia** plaza enables members to more effectively link to families and friends, as well as to serve their communities. **mia** plaza is a commercial enterprise that collects or may in the future collect revenues through advertising, commissions for sales through affiliate programs such as through Amazon.com, and upgrades to premium member services.
 
@@ -105,4 +105,4 @@ You can review the personal information you provided us and make any desired cha
 
 **Questions or Comments**
 
-If you have questions or comments about this privacy policy, please contact us. We can be reached by mail at 428 El Verano Ave.; Palo Alto, California 94306, USA.
+If you have questions or comments about this privacy policy, please contact us. We can be reached by mail at 750 Cambridge; Menlo Park, CA 94025, USA.
