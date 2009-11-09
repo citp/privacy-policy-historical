@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the apexsql.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621041534id_/http%3A//www.apexsql.com/comp_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apexsql.com privacy policy that was archived on 2009-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091109014937id_/http%3A//www.apexsql.com/comp_privacy.asp) for the most accurate reproduction.*
 
 # Apex SQL Tools Privacy Policy
+
+Sales Question? 
+
+Call us M-F 9:00 AM - 5:00 PM U.S. Eastern Time. 
+
+**U.S. and Canada**  
+866-665-5500
+
+**International**  
+919-968-8444
 
 Why ApexSQL? 
 
@@ -14,35 +24,33 @@ FREE SQL Tools
 
 **[](http://www.apexsql.com/sql_tools_free.asp) FREE** ApexSQL Tools and Add-ins. [Learn More](http://www.apexsql.com/sql_tools_free.asp)
 
-Killer Discounts 
+Killer Upgrades 
 
-[ ](http://www.apexsql.com/killer_upgrades.asp) Unbeatable Killer Upgrades and Discounts. [Learn More](http://www.apexsql.com/killer_upgrades.asp)
+[ ](http://www.apexsql.com/killer_upgrades.asp) Unbeatable Killer Upgrades. [Learn More](http://www.apexsql.com/killer_upgrades.asp)
 
-ApexSQL Gear 
+What's New 
 
-[ ](http://www.apexsql.com/gear.asp)Click [Here](http://www.apexsql.com/gear.asp) for our ApexSQL Gear Store. 
+[ ](http://www.apexsql.com/headline_news.asp)Click [Here](http://www.apexsql.com/headline_news.asp) to Learn about new Versions and new Products. 
 
 SUCCESS STORIES 
 
-"... I forgot to mention that I have personally evaluated 10-15 SQL administration utilities for SQL & yours are some of the best I've seen, keep up the good work." 
-
-Lee Davies   
-Software engineer   
-Occam direct marketing   
-www.occam-dm.com 
-
-"As your product offers the best set of features i've seen so far and your customer-service has fully convinced me (couldn't be better ... keep it going like this)" 
-
-Martin Schwier   
-Proj. Manager   
-WDT Datentechnik   
-GmbH, Germany 
-
-"Thanks for the quick (and honest) reply. I am impressed. Your company sounds like it's truly different from the rest ..." 
+"Thanks for the quick (and honest) reply. I am impressed. Your company sounds like its truly different from the rest ..." 
 
 Paul Barbin   
 DBA   
 Lewis, Inc. 
+
+"SQL Diff paid for itself in the first hour of using it. I synced 12 different databases to a common rev and man am I happy" 
+
+Casey Kirt   
+Bell Mortgage   
+Project Manager 
+
+"Hey thanks for the quick response. This tool is awesome." 
+
+Curtis Potts   
+Chief Technical Officer   
+Focus Systems Inc 
 
 Apex SQL Privacy Policy
 
