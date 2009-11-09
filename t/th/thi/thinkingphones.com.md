@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkingphones.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426105044id_/http%3A//thinkingphones.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkingphones.com privacy policy that was archived on 2009-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091109032817id_/http%3A//www.thinkingphones.com/privacy.html) for the most accurate reproduction.*
 
 # Thinking Phone Networks
 
