@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the philanthropy.com privacy policy that was archived on 2009-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090630033117id_/http%3A//philanthropy.com/help/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philanthropy.com privacy policy that was archived on 2009-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091109063115id_/http%3A//philanthropy.com/help/privacy.htm) for the most accurate reproduction.*
 
 # The Chronicle of Philanthropy: Privacy statement
 
