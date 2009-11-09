@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the apexsql.com privacy policy that was archived on 2009-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090621041534id_/http%3A//www.apexsql.com/comp_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the apexsql.com privacy policy that was archived on 2009-11-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091109014937id_/http%3A//www.apexsql.com/comp_privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title> Apex SQL Tools Privacy Policy </title>
@@ -12,84 +12,7 @@
 <link href="http://www.apexsql.com/include/apexsql.css" rel="stylesheet" type="text/css">
 <link rel="icon" href="images/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
-<script>
-  
-  function subMenuShow(param) {
-    oItem=getDivObj(param);
-    oItem.style.display="block";
-
-    var ua = navigator.userAgent.toLowerCase();
-    this.ua = ua;
-
-    // browser name
-    this.isOpera     = (ua.indexOf("opera") != -1);
-    var isSubMenu = false;
-    if (!this.isOpera) {        
-      c_param = 'c_'+ param;      
-      p_param = 'p_' + param;
-      oItem=getDivObj(c_param);
-      if(!IsSubMenu(param))
-      {
-        oItem.className='top_menu_rollover';
-      }      
-    }
-  }
-
-  function subMenuHide(param, flag) {    
-    getDivObj(param).style.display="none";
-    
-    var ua = navigator.userAgent.toLowerCase();
-    this.ua = ua;
-
-    // browser name
-    this.isOpera     = (ua.indexOf("opera") != -1);
-
-    if (!this.isOpera && flag != 1) {
-      c_param = 'c_'+ param;
-      oItem=getDivObj(c_param);      
-      if(!IsSubMenu(param))
-      {
-          oItem.className='top_menu_inactive';
-      }      
-    }
-  }
-  
-  function IsSubMenu(param)
-  {
-      var lastInd = param.lastIndexOf('_sub')
-      
-      if(lastInd == -1)
-      {
-           return false;
-      }
-      else
-      {
-           return true; 
-      }      
-  }
-  
-  function getDivObj(name) {
-    obj=document.getElementById(name);
-  
-    return obj; 
-  }  
-
-function popUp(vrr) {
-props=window.open(vrr, 'poppage', 'toolbars=0, scrollbars=1, location=0, statusbars=0, menubars=0, resizable=1, width=1250, height=900, left = 20, top = -10');
-}
-
-function popUpSm(vrr) {
-props=window.open(vrr, 'poppage', 'toolbars=0, scrollbars=1, location=0, statusbars=0, menubars=0, resizable=0, width=400, height=200, left = 200, top = 200');
-}
-
-function popUpWindow(url, width, height)
-{
- var x = window.open(url,'popUpWindow','toolbars=0, scrollbars=1, location=0, statusbars=0, menubars=0, resizable=0, width=' + width + ',height=' + height);
- x.moveTo((screen.width-width)/2, (screen.height-height-100)/2);
- x.opener = self;
-}
-</script>
-
+<script src="http://www.apexsql.com/include/functions.js" language="javascript" type="text/javascript"></script>
 
 <script type="text/javascript">
 
@@ -122,11 +45,11 @@ pageTracker._trackPageview();
   <script type="text/javascript">
       function getFlash()
       {
-        var randomnumber=Math.floor(Math.random()*5)
+        var randomnumber=Math.floor(Math.random()*3)
 		
         //var randomnumber=Math.floor(Math.random()*8)
                     
-        var sFlashFiles = "Studio Blue.swf,frog.swf,shark.swf,redink_corrected.swf,doc_2008.swf"
+        var sFlashFiles = "Studio Blue.swf,shark.swf,doc_2008.swf"
 		
         //var sFlashFiles = "studioblue.swf,clean.swf,code.swf,diff.swf,doc.swf,edit.swf,log.swf,studioblue2.swf"
 
@@ -142,8 +65,8 @@ pageTracker._trackPageview();
         sFlash += '</object>'
         return sFlash
       }
-      document.write(getFlash())
-    </script><object id="objFlash" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://active.macromedia.com/flash2/cabs/swflash.cab#version=4,0,0,0" width="468" height="60" viewastext=""><param name="movie" value="http://www.apexsql.com/flash/doc_2008.swf"><param name="loop" value="false"><param name="menu" value="false"><param name="quality" value="best"><param name="bgcolor" value="white"><embed id="objFlash" src="http://www.apexsql.com/flash/doc_2008.swf" quality="best" bgcolor="#639ECE" loop="false" menu="false" width="468" height="60" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"></object>        
+      //document.write(getFlash())
+    </script>        
   </div>
 </div>
 <!-- /header --><!-- top menu -->
@@ -250,7 +173,15 @@ pageTracker._trackPageview();
     </div>
     <a href="http://www.apexsql.com/solution_center.asp">Products</a>
   </td>
-  
+  <td id="c_downloads" class="top_menu_inactive" onmouseover="javascript:subMenuShow('downloads');" onmouseout="javascript:subMenuHide('downloads', 0);">
+    <div id="downloads" class="drop" onmouseover="javascript:subMenuShow('downloads');" onmouseout="javascript:subMenuHide('downloads', 0);">
+    <table class="table_drop_in">        
+        <tbody><tr><td class="td_drop_in" style="border-bottom: none" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/version.asp">Version Info</a></td></tr>
+        <tr><td class="td_drop_in" style="border-bottom: none" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/requirements.asp">Sys Requirements</a></td></tr>
+    </tbody></table>
+    </div>
+    <a href="http://www.apexsql.com/download.aspx">Download</a>
+  </td>
   <td id="c_purchase" class="top_menu_inactive" onmouseover="javascript:subMenuShow('purchase');" onmouseout="javascript:subMenuHide('purchase', 0);">
     <div id="purchase" class="drop" onmouseover="javascript:subMenuShow('purchase');" onmouseout="javascript:subMenuHide('purchase', 0);">
     <table class="table_drop_in">
@@ -332,6 +263,7 @@ pageTracker._trackPageview();
 		
       
         <tr><td class="td_drop_in">&nbsp;</td></tr>
+		<tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/reseller_list.asp#international">Locate a Reseller</a></td></tr>
 		<tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/PricingList.pdf" target="_blank">Price List</a></td></tr>
         <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/sales_faq.asp">Sales FAQs</a></td></tr>
         <tr><td class="td_drop_in">&nbsp;</td></tr>
@@ -349,12 +281,10 @@ pageTracker._trackPageview();
     		
 		<tbody><tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/forum/default.asp?C=1">Support Forum</a></td></tr>		
 		<tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/general_faqs.asp">FAQs</a></td></tr>		
-		<tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/general_troubleshooting.asp">Troubleshooting</a></td></tr>		
+		<tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/knowledgebase/labels/General.htm">Troubleshooting</a></td></tr>		
 		<tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/training/labels/General.htm">Knowledgebase</a></td></tr>	
 		<tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/help_files.asp">Documentation</a></td></tr>		
-		<tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/training.asp">Videos</a></td></tr>		
-		<tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/step-by-step_index.asp">Step-by-step</a></td></tr>		
-			
+		<tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/training.asp">Tutorials</a></td></tr>		
 		<tr><td class="td_drop_in">&nbsp;</td></tr>		
 		<tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';" style="border-bottom: none"><a href="http://www.apexsql.com/requirements.asp">Sys Requirements</a></td></tr>		
 	</tbody></table>
@@ -369,9 +299,9 @@ pageTracker._trackPageview();
 	    <tbody><tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"> <a href="http://www.apexsql.com/blog/index.htm">ApexSQL News</a></td></tr>    	
         <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/newsletter_subscribe.asp">Newsletter Subscribe</a></td></tr> 	
         <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/headline_news.asp">What's New</a></td></tr>
-			<tr><td class="td_drop_in">&nbsp;</td></tr>	
-			
-       <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/devblog/index.htm">Developer Diary</a></td></tr>
+		<tr><td class="td_drop_in">&nbsp;</td></tr>				
+        <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/devblog/index.htm">Developer Diary</a></td></tr>
+        <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/poweruser/index.htm">Power User Blog</a></td></tr>
 		<tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';" style="border-bottom: none"><a href="http://www.apexsql.com/blog/labels/Articles.htm">Articles</a></td></tr>
    </tbody></table>
     </div><a href="http://www.apexsql.com/news.asp">News</a></td>
@@ -381,7 +311,7 @@ pageTracker._trackPageview();
     <div id="members" class="drop" onmouseover="javascript:subMenuShow('members');" onmouseout="javascript:subMenuHide('members', 0);">
     <table class="table_drop_in">
         <tbody><tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/forum/login_user.asp">Login Page</a></td></tr>
-        <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/forum/register.asp">My Profile</a></td></tr>
+        <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/forum/profile.asp">My Profile</a></td></tr>
         <tr><td class="td_drop_in">&nbsp;</td></tr>        
         <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/VIP_Benefits.asp">ApexSQL VIP Program</a></td></tr>
         <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/MyPoints.aspx">My ApexSQL Points</a></td></tr>
@@ -397,8 +327,7 @@ pageTracker._trackPageview();
                 </div>
                 <a href="http://www.apexsql.com/lawlibrary/default.aspx">Code Libraries</a>
             </td>
-        </tr>
-		
+        </tr>		
 		<tr><td class="td_drop_in">&nbsp;</td></tr>
 		          
 	    <tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/lostkey.asp">Get Activation Key(s)</a></td></tr>
@@ -410,7 +339,7 @@ pageTracker._trackPageview();
   </td>
   
   <td id="c_company" class="top_menu_active" onmouseover="javascript:subMenuShow('company');" onmouseout="javascript:subMenuHide('company', 1);">
-    <div id="company" class="drop" onmouseover="javascript:subMenuShow('company');" onmouseout="javascript:subMenuHide('company', 0);">
+    <div id="company" class="drop" onmouseover="javascript:subMenuShow('company');" onmouseout="javascript:subMenuHide('company', 1);">
     <table class="table_drop_in">
         <tbody><tr><td class="td_drop_in" onmouseover="javascript:this.className='td_drop_in_active';" onmouseout="javascript:this.className='td_drop_in';"><a href="http://www.apexsql.com/comp_contact.asp">Contact Info</a></td></tr>    
         <tr><td class="td_drop_in">&nbsp;</td></tr>
@@ -447,12 +376,29 @@ pageTracker._trackPageview();
 <div class="main">
 <!-- right column -->
   <div class="rightblock">
-        <div class="right_title">
+         <div class="right_title">
+      <img src="http://www.apexsql.com/images/right_title_bullet.png" width="8" height="8"> Sales Question?
+    </div>
+    <div class="right_text">
+      Call us M-F 9:00 AM - 5:00 PM U.S. Eastern Time.
+	  <div style="padding-top: 6px">
+	  <b>U.S. and Canada</b><br>
+	  866-665-5500</div>
+	  <div style="padding-top: 6px">
+	  <b>International</b><br>
+	  919-968-8444</div>
+	  <div style="padding-top: 6px">
+	  <b>Email</b><br>
+	  <a href="mailto:sales@apexsql.com">sales@apexsql.com</a></div>
+	  
+	  
+    </div>
+	<div class="right_title">
       <img src="http://www.apexsql.com/images/right_title_bullet.png" width="8" height="8"> Why ApexSQL?
     </div>
     <div class="right_text">
       <a target="_self" href="http://www.apexsql.com/10reasons2buy.asp">
-        <img height="32" src="http://www.apexsql.com/images/help.jpg" width="32" align="left" border="0"></a>To See the Top Reasons to Buy Apex SQL Software tools: Click
+        <img height="36" src="http://www.apexsql.com/images/as_why_apexsql.png" width="36" align="left" border="0"></a>To See the Top Reasons to Buy Apex SQL Software tools: Click
 		<a target="_self" href="http://www.apexsql.com/10reasons2buy.asp">Here</a>.
     </div>
     <!--<div class="right_title">
@@ -466,7 +412,7 @@ pageTracker._trackPageview();
     </div>
     <div class="right_text">
         <b><a target="_self" href="http://www.apexsql.com/sql_tools_s.asp">
-        <img height="32" src="http://www.apexsql.com/images/Univ_Studio32x32.gif" width="32" align="left" border="0"></a><font color="#D02424">$1,999</font></b>
+        <img src="http://www.apexsql.com/images/as_value_bundles.png" align="left" border="0"></a><font color="#D02424">$1,999</font></b>
         All  ApexSQL Tools with 1 yr Maint and all New tools Free for 1 yr. 		
 		<a target="_self" href="http://www.apexsql.com/sql_tools_s.asp">Learn More</a>
     </div>
@@ -476,7 +422,7 @@ pageTracker._trackPageview();
     </div>
     <div class="right_text">
         <b><a target="_self" href="http://www.apexsql.com/sql_tools_free.asp">
-        <img height="32" src="http://www.apexsql.com/images/refactor_sm.gif" width="32" align="left" border="0"></a><font color="#D02424">FREE</font></b>
+        <img height="36" src="http://www.apexsql.com/images/as_free_tools.png" width="36" align="left" border="0"></a><font color="#D02424">FREE</font></b>
          ApexSQL Tools and Add-ins. <a target="_self" href="http://www.apexsql.com/sql_tools_free.asp">Learn More</a></div>
     <!--<div class="right_title">
       <img src=http://www.apexsql.com/images/right_title_bullet.png width=8 height=8> SALES FAQs
@@ -485,21 +431,21 @@ pageTracker._trackPageview();
       Click <a target="_self" href=http://www.apexsql.com/sales_faq.asp>Here</a> for a Comprehensive Sales and Ordering FAQs.
     </div>-->
     <div class="right_title">
-        <img height="8" src="http://www.apexsql.com/images/right_title_bullet.png" width="8"> Killer Discounts
+        <img height="8" src="http://www.apexsql.com/images/right_title_bullet.png" width="8"> Killer Upgrades
     </div>
     <div class="right_text">
         <a target="_self" href="http://www.apexsql.com/killer_upgrades.asp">
-        <img border="0" src="http://www.apexsql.com/images/sharkey_32x32_tr.png" width="32" height="32" align="left"></a>
-        Unbeatable Killer Upgrades and Discounts. 
+        <img border="0" src="http://www.apexsql.com/images/as_upgrade_center.png" width="36" height="36" align="left"></a>
+        Unbeatable Killer Upgrades. 
 		<a target="_self" href="http://www.apexsql.com/killer_upgrades.asp">Learn More</a>
     </div>
 	
 	<div class="right_title">
-        <img height="8" src="http://www.apexsql.com/images/right_title_bullet.png" width="8"> ApexSQL Gear 
+        <img height="8" src="http://www.apexsql.com/images/right_title_bullet.png" width="8"> What's New
     </div>
     <div class="right_text">
-        <a target="_self" href="http://www.apexsql.com/gear.asp">
-        <img border="0" src="http://www.apexsql.com/images/bee32x27.png" width="32" height="27" align="left"></a>Click <a target="_self" href="http://www.apexsql.com/gear.asp">Here</a> for our ApexSQL Gear Store.
+        <a target="_self" href="http://www.apexsql.com/headline_news.asp">
+        <img border="0" src="http://www.apexsql.com/images/as_whatsnew.png" width="36" height="36" align="left"></a>Click <a target="_self" href="http://www.apexsql.com/headline_news.asp">Here</a> to Learn about new Versions and new Products.
     </div>
 
 
@@ -507,27 +453,25 @@ pageTracker._trackPageview();
       <img src="http://www.apexsql.com/images/right_title_bullet.png" width="8" height="8"> SUCCESS STORIES  
     </div>
     <div class="right_text">
-      "... I forgot to mention that I have personally evaluated 10-15 SQL administration utilities for SQL &amp; yours are some of the best I've seen, keep up the good work."
-      <p class="gray">
-      Lee Davies
-      <br>Software engineer
-      <br>Occam direct marketing
-      <br>www.occam-dm.com
-      </p>
-
-      "As your product offers the best set of features i've seen so far and your customer-service has fully convinced me (couldn't be better ... keep it going like this)"
-      <p class="gray">
-      Martin Schwier
-      <br>Proj. Manager
-      <br>WDT Datentechnik
-      <br>GmbH, Germany
-      </p>
-
-      "Thanks for the quick (and honest) reply. I am impressed. Your company sounds like it's truly different from the rest ..."
+      "Thanks for the quick (and honest) reply. I am impressed. Your company sounds like its truly different from the rest ..."
       <p class="gray">
       Paul Barbin
       <br>DBA
-      <br>Lewis, Inc.      
+      <br>Lewis, Inc.
+      </p>
+
+      "SQL Diff paid for itself in the first hour of using it. I synced 12 different databases to a common rev and man am I happy"
+      <p class="gray">
+      Casey Kirt
+      <br>Bell Mortgage
+      <br>Project Manager
+      </p>
+
+      "Hey thanks for the quick response. This tool is awesome."
+      <p class="gray">
+      Curtis Potts
+      <br>Chief Technical Officer
+      <br>Focus Systems Inc
       </p>
     </div>
 
