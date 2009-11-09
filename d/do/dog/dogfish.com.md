@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogfish.com privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505160711id_/http%3A//www.dogfish.com/community/help/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogfish.com privacy policy that was archived on 2009-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091109112144id_/http%3A//www.dogfish.com/community/help/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Dogfish Head Craft Brewed Ales
 
@@ -44,5 +44,6 @@ Dogfish Head Craft Brewed Ales operates secure data networks protected by indust
 
 By using this site, you consent to the collection and use of this information by Dogfish Head Craft Brewed Ales. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
-  * 
+  * [](http://www.addthis.com/bookmark.php)
+
 
