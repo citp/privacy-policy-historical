@@ -1,92 +1,49 @@
-> *The following text is extracted and transformed from the fpsb.co.in privacy policy that was archived on 2009-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090421090832id_/http%3A//www.fpsb.co.in/scripts/FPSBIndiaPrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fpsb.co.in privacy policy that was archived on 2009-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091109045103id_/http%3A//www.fpsb.co.in/scripts/FPSBIndiaPrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # FPSB India - FPSB India Team
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.   
   
-   
+(Version 1.0, effective 01 November 2008)
+
+This privacy policy sets out how Financial Planning Standards Board India (FPSB India) uses and protects information that you give us when you use this website. FPSB India is committed to ensuring that your privacy is protected. Any information we ask for will only be used in accordance with this privacy policy. FPSB India may change this policy from time to time by updating this page. Make sure that you are familiar with our current privacy policy. If you have questions or concerns, please contact us at:
+
+Financial Planning Standards Board India   
+702, 7th Floor, Leela Business Park,  
+Andheri-Kurla Road, Andheri (East).  
+Mumbai. India - 400 059.  
+Tel : +91 22 6171 2424  
+Fax : +91 22 6171 2444  
+Email : [admin@fpsbindia.org](mailto:admin@fpsb.org)
+
   
+Your privacy is important to us. To protect your privacy, we provide this notice explaining our online information practices and the choices you can make about how your information is collected and used. Our privacy policy is accessible from our homepage and at every point where your personal information may be requested.
+
   
-This notice applies to all information collected or submitted on the [company name] website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:   
+For users of the public portions of FPSB India’s website, we do not collect any personally identifiable information from you as you visit our website. Our Privacy Policy applies to information collected or submitted by you in certain other sections of FPSB India’s website. We only collect information from you that are relevant to our needs.
+
+The type of personal information that FPSB may collect includes:
+
+First Name  
+Last Name  
+Organization Name  
+Contact Address  
+Phone  
+E-mail address  
+Credit Card No. etc. 
+
   
-   
+FPSB India does not share, sell, distribute or transfer your personal information to outside parties unless we have your permission to do so or are required by law. We gather personal information from you to populate our contact management system so that we can better track our one-time or ongoing dealings with you. We use return email addresses to answer emails we receive and to confirm that the personal information we have collected from you is accurate, complete and current. Such addresses are not used for any other purpose and are not shared with outside parties, including FPSB India’s Certificants or Students unless FPSB India needs one or more of its Certificants or Students to assist in responding to your request. We never use or share personal information you provide to us online in ways unrelated to the ones described in this section without your consent.
+
   
-Name   
+We are committed to ensuring that your information is secure. To protect against loss, misuse, unauthorized access, disclosure, alteration or destruction, maintain data accuracy, and ensure the correct use of information, FPSB India has put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
   
-Address   
+Our website contains links to other websites that may be of interest to you. When using these links to exit our site, recognize that FPSB India does not have any control over these other websites. FPSB India is not responsible for the protection and privacy of any personal information you provide when visiting these sites, which are not governed by FPSB India’s privacy policy. You should familiarize yourself with the privacy policies of these other sites prior to providing personal information.
+
   
-Email address   
+FPSB India’s Students and Certificants can access personal information online using FPSB India’s Online Certification Management System (OCMS). Members can correct factual errors in personal information by sending us a request that shows error. To protect the privacy and security, we take reasonable steps to verify your identity before granting you access to the Online Certification Management system (OCMS) or making corrections. The users of other services e.g. Financial Planning Journal Subscribers can have their information corrected by sending a request to [journal@fpsbindia.org](mailto:journal@fpsbindia.org) or [info@fpsbindia.org](mailto:info@fpsbindia.org) or [admin@fpsbindia.org](mailto:admin@fpsbindia.org).
+
+Due to the burden that would be placed on FPSB India by allowing casual contacts access to correct, amend or delete personal information provided to FPSB India during one-time website inquiries, FPSB India does not provide these individuals with access to information stored by FPSB India. If you are not comfortable with this policy, you should not use our website.
+
   
-Phone number   
-  
-Credit/Debit Card Information   
-  
-(etc.)   
-  
-   
-  
-On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient's address. In this circumstance, the types of personal information collected are:   
-  
-   
-  
-Name   
-  
-Address   
-  
-Phone Number   
-  
-(etc.)   
-  
-   
-  
-  
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.   
-  
-   
-  
-We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order.   
-  
-   
-  
-We offer gift-cards by which you can personalize a product you order for another person. Information you provide to us to create a gift-card is only used for that purpose, and it is only disclosed to the person receiving the gift.   
-  
-   
-  
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.   
-  
-   
-  
-You can register with our website if you would like to receive our catalog as well as updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form.   
-  
-   
-  
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.   
-  
-   
-  
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.   
-  
-   
-  
-  
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.   
-  
-   
-  
-  
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.   
-  
-   
-  
-  
-You can access all your personally identifiable information that we collect online and maintain by [description of the company access procedure]. We use this procedure to better safeguard your information.   
-  
-   
-  
-You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.   
-  
-   
-  
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.   
-  
- 
+If you have questions or concerns about our privacy policy, or if you would like to complain to FPSB India, please write to us at [admin@fpsbindia.org](mailto:admin@fpsbindia.org)
