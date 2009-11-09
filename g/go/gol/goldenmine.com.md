@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldenmine.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429095833id_/http%3A//www.goldenmine.com/index.asp%3FPageAction%3DCustom%26ID%3D9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenmine.com privacy policy that was archived on 2009-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091109081324id_/http%3A//www.goldenmine.com/index.asp%3FPageAction%3DCustom%26ID%3D9) for the most accurate reproduction.*
 
 # Goldenmine- Privacy Policy
 
