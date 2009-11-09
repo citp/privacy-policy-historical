@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jimtrade.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621065317id_/http%3A//www.jimtrade.com/corporate/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jimtrade.com privacy policy that was archived on 2009-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091109210029id_/http%3A//www.jimtrade.com/corporate/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -235,3 +235,11 @@ Some of our siteservices or features require cookies. If you disable or do not a
 |   
   
   |  | 
+
+Trade Alert  
+  
+---  
+  
+| Receive FREE e-mail updates on Indian Products.   
+---  
+[](http://www.jimtrade.com/corporate/joinfree.htm)
