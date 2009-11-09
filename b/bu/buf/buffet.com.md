@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the buffet.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525042247id_/http%3A//www.buffet.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buffet.com privacy policy that was archived on 2009-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091109234519id_/http%3A//www.buffet.com/legal/privacy_policy) for the most accurate reproduction.*
 
-# Old Country Buffet, Hometown Buffet & Country Buffet - Privacy Policy
+# Hometown Buffet, Old Country Buffet and Country Buffet
 
-We can be reached by writing to Buffets, Inc., 1460 Buffet Way, Eagan, MN 55121, or you can reach us by telephone at 651-994-8608. This Policy is effective as of 7/1/05.
+We can be reached by writing to Ryan's Restaurant Group, Inc., 1460 Buffet Way, Eagan, MN 55121, or you can reach us by telephone at 651-994-8608. This Policy is effective as of 11/1/07.
 
 Our web server automatically recognizes each visitor's domain name. For visitors merely browsing our site, we generally collect only the domain name and user-specific browsing data regarding what pages consumers access or visit. With respect to on-line orders or other pages that specifically request the visitor to supply a name and address, telephone number, and payment information (e.g., credit card number and billing address), the data collected is used for processing the order or otherwise fulfilling the page-specific purpose shown unless otherwise provided in this privacy policy.
 
