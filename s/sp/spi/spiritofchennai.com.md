@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spiritofchennai.com privacy policy that was archived on 2009-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090510152524id_/http%3A//spiritofchennai.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiritofchennai.com privacy policy that was archived on 2009-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091110203213id_/http%3A//www.spiritofchennai.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
