@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bgs.ac.uk privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605021209id_/http%3A//www.bgs.ac.uk/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bgs.ac.uk privacy policy that was archived on 2009-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091110160529id_/http%3A//www.bgs.ac.uk/help/privacy.html) for the most accurate reproduction.*
 
 # BGS Privacy Policy
-
-The British Geological Survey is committed to protecting your privacy online. We will treat any personal information that you provide to us, or that we obtain from you, in accordance with the provisions of the Data Protection Act of 1998\. 
 
 The British Geological Survey is committed to protecting your privacy online. We will treat any personal information (which means data from which you can be identified, including your name, address, e-mail address and the like) that you provide to us, or that we obtain from you, in accordance with the provisions of the Data Protection Act of 1998. This Privacy Policy sets out the way we deal with personal information.
 
