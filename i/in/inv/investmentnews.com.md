@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investmentnews.com privacy policy that was archived on 2009-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090421042352id_/http%3A//www.investmentnews.com/apps/pbcs.dll/qwikNavsearch%3FQwikNav%3DPRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investmentnews.com privacy policy that was archived on 2009-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091110214003id_/http%3A//www.investmentnews.com/apps/pbcs.dll/qwikNavsearch%3FQwikNav%3DPRIVACY) for the most accurate reproduction.*
 
 # Privacy Policy - Investment News
 
@@ -20,4 +20,4 @@ This Web site is operated in the United States. If you are located in the Europe
 
 If you have any questions or concerns about the substance or implementation of this Privacy Policy, please contact the Crain Communications Inc Legal Department at [privacyhelp@crain.com](mailto:privacyhelp@crain.com) or 313-446-6000.
 
-Policy Last Updated: January 1, 2005
+Policy Last Updated: January 1, 2005 
