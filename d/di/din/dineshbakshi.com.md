@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dineshbakshi.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619053003id_/http%3A//www.dineshbakshi.com/privacy_policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dineshbakshi.com privacy policy that was archived on 2009-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091110202837id_/http%3A//www.dineshbakshi.com/privacy-policy.html) for the most accurate reproduction.*
 
-# www.dineshbakshi.com PRIVACY POLICY
+# Privacy Policy | dineshbakshi.com
 
 The following statement explains our policy regarding the personal information we collect about you.
 
-##  Introduction
+## Introduction
 
 This policy covers the dineshbakshi.com's use of personal information that dineshbakshi.com collects when you use dineshbakshi.com. The policy also gives you information about cookies; dineshbakshi.com and third parties' use of cookies; and how you may reject such cookies.
 
@@ -14,7 +14,9 @@ By entering your details in the fields requested, you enable the dineshbakshi.co
 
 During the course of any visit to dineshbakshi.com, the pages you see, along with a short text file called a 'cookie' may be downloaded to your computer. Many websites do this, because cookies enable website publishers to do useful things like find out whether the computer (and probably its user) has visited the website before. This is done on a repeat visit by checking to see, and finding, the cookie left there on the last visit.
 
-Information supplied by cookies can help us to provide you with a better online user experience. For example: if on a previous visit you went to our forum, we might find this out from your cookie and let you use it without logging in. 
+Information supplied by cookies can help us to provide you with a better online user experience. For example: if on a previous visit you went to our forum, we might find this out from your cookie and let you use it without logging in.
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
 ## What is a cookie?
 
@@ -38,7 +40,7 @@ If you are notified on the dineshbakshi.com site that your information may be us
 
 ## How to see your cookie code
 
-Just click on a cookie to open it. You'll see a short string of text and numbers. The numbers are your identification card, which can only be seen by the server that gave you the cookie. 
+Just click on a cookie to open it. You'll see a short string of text and numbers. The numbers are your identification card, which can only be seen by the server that gave you the cookie.
 
 ## List of www.dineshbakshi.com cookies
 
@@ -46,4 +48,9 @@ This is a list of the main cookies that dineshbakshi.com sets, and what each is 
 
 www.dineshbakshi.com cookie
 
-Allows you to auto-login when you have registered to use the Forum. 
+Allows you to auto-login when you have registered to use the Forum.
+
+  
+
+
+Custom Search 
