@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vangraaf.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622135813id_/http%3A//www.vangraaf.com/en/35) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vangraaf.com privacy policy that was archived on 2009-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091110141114id_/http%3A//www.vangraaf.com/en/35) for the most accurate reproduction.*
 
-# van Graaf: Privacy Policy
+# VAN GRAAF: Privacy Policy
 
-van Graaf attaches high priority to the protection of your personal data and rights to confidentiality and privacy in the Internet. Please read our policy on data security. Our aim is to make clear to you how we handle personal details, which information we store and how we use it. 
+VAN GRAAF attaches high priority to the protection of your personal data and rights to confidentiality and privacy in the Internet. Please read our policy on data security. Our aim is to make clear to you how we handle personal details, which information we store and how we use it. 
 
 ### Collection and use of personal details
 
@@ -14,11 +14,11 @@ When you visit our website, or indeed any other website, certain data is automat
 
 ### Right of cancellation, RIGHT OF ACCESS
 
-You are entitled to object the use of your data for purposes of advertising or of market- or opinion research at any time. Furthermore you have the right of access to stored personal information. Should you want to make use of either or both of these rights, please inform us per e-mail to: [info@vangraaf.com](mailto:info@vangraaf.com) or send us a letter to van Graaf, Traungasse 14, A-1030 Vienna. 
+You are entitled to object the use of your data for purposes of advertising or of market- or opinion research at any time. Furthermore you have the right of access to stored personal information. Should you want to make use of either or both of these rights, please inform us per e-mail to: [info@vangraaf.com](mailto:info@vangraaf.com) or send us a letter to VAN GRAAF, Traungasse 14, A-1030 Vienna. 
 
 ### Data security
 
-van Graaf feels responsible for protecting your privacy in the Internet. We take great care to update our Internet pages in accordance with the latest technical and organizational security measures in order to protect your personal details from illicit use or distribution to third parties. 
+VAN GRAAF feels responsible for protecting your privacy in the Internet. We take great care to update our Internet pages in accordance with the latest technical and organizational security measures in order to protect your personal details from illicit use or distribution to third parties. 
 
 ### Cookies
 
@@ -26,9 +26,9 @@ Cookies are small parcels of text stored on the computer of the visitors of a we
 
 ### Statement on Processing of Online Job Applications
 
-van Graaf GmbH & Co. KG (van Graaf) will process the personal data included in your online application mainly in order to deal with your application for its own recruiting purposes.Furthermore van Graaf may transfer your online application to its [associated companies](http://www.vangraaf.com/en/269/ "Opens internal link in current window"), which may then process it for their own recruiting purposes only. van Graaf or its [associated companies](http://www.vangraaf.com/en/269/ "Opens internal link in current window") may in certain cases also hand over your online application to service providers assisting them in sorting out appropriate candidates. For some vacancies on offer van Graaf might also request you to send your online application directly to such a service provider. These service providers only act on behalf of van Graaf respectively its [associated companies](http://www.vangraaf.com/en/269/ "Opens internal link in current window") and are not allowed to use your data for any other purposes or transfer it to third parties. 
+VAN GRAAF GmbH & Co. KG (VAN GRAAF) will process the personal data included in your online application mainly in order to deal with your application for its own recruiting purposes.Furthermore VAN GRAAF may transfer your online application to its [associated companies](http://www.vangraaf.com/en/269/ "Opens internal link in current window"), which may then process it for their own recruiting purposes only. VAN GRAAF or its [associated companies](http://www.vangraaf.com/en/269/ "Opens internal link in current window") may in certain cases also hand over your online application to service providers assisting them in sorting out appropriate candidates. For some vacancies on offer VAN GRAAF might also request you to send your online application directly to such a service provider. These service providers only act on behalf of VAN GRAAF respectively its [associated companies](http://www.vangraaf.com/en/269/ "Opens internal link in current window") and are not allowed to use your data for any other purposes or transfer it to third parties. 
 
-Please note that van Graaf does not wish to receive via your CV or attached documents any information on special categories of personal data (which means information on your racial or ethnic origin, your political opinions, religious or philosophical convictions, union membership, health or sex life) and will not take this information into account when reviewing your application. However, if you should include such information in your online-application, you allow van Graaf and its [associated companies](http://www.vangraaf.com/en/269/ "Opens internal link in current window") to process this data along with your application. 
+Please note that VAN GRAAF does not wish to receive via your CV or attached documents any information on special categories of personal data (which means information on your racial or ethnic origin, your political opinions, religious or philosophical convictions, union membership, health or sex life) and will not take this information into account when reviewing your application. However, if you should include such information in your online-application, you allow VAN GRAAF and its [associated companies](http://www.vangraaf.com/en/269/ "Opens internal link in current window") to process this data along with your application. 
 
 ### Questions and comments
 
