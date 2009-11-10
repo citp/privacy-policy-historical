@@ -1,31 +1,22 @@
-> *The following text is extracted and transformed from the joyofrunning.in privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216052043id_/http%3A//airtel.in/wps/wcm/connect/Airtel.in/airtel.in/home/privacy%2Bstatement/pg_home_privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joyofrunning.in privacy policy that was archived on 2009-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091110103631id_/http%3A//www.joyofrunning.in/privacypolicy.html) for the most accurate reproduction.*
 
-# :: Airtel :: Privacy Statement
+# Airtel Delhi Half Marathon 2009
 
-Airtel is committed to providing you with the highest levels of customer service. This includes protecting your privacy. This privacy statement sets out the approach of Airtel in relation to the treatment of your personal information. It includes information on how Airtel collects, uses, discloses and keeps secure, individuals' personal information. 
+**Joyforrunning Privacy statement**
 
-**Your personal information**
+**Information About Our Organization and Website:** This Privacy Statement applies to [ **www.joyofrunning.in**](http://www.joyofrunning.in/).  [ **www.joyofrunning.in**](http://www.joyofrunning.in/) is owned and maintained by Animonlive New Delhi, on behalf of Bharti Airtel Ltd.  
 
-"Personal Information" is any data that identifies you. The personal information given to us is presumed to be true, complete and accurate in all respects and you agree to notify us immediately of any changes to that. Personal information held by Airtel may include your name, date of birth, current and previous addresses, telephone/mobile phone number, email address, bank account or credit card details, occupation, driver's licence number and your Airtel PIN, username or password. Airtel also holds details of your Airtel account . 
 
-**How do we use personal Information**
+**Personally Identifiable Information We Collect From You:** During a visit to our site, personally identifiable information may be collected through any means or data flow channels.  
 
-Your personal information may be used to: 
 
-|  | Verify your identity   
----|---  
- | Assist you to subscribe to Airtel's services   
- | Provide the services you require   
- | Administer and manage those services, including charging, billing and collecting debts   
- | Inform you of ways the services provided to you could be improved   
- | Conduct appropriate checks for credit-worthiness   
- | Gain an understanding of your information and communication needs in order for Airtel to provide you with a better service   
-  
-Also, your personal information is collected , processed and used by Airtel for the purposes of promoting and marketing Airtel services (by way of direct mail, telemarketing, SMS and MMS messages) which w e consider may be of interest to you and benefit you. Airtel also does this to keep you informed of its products, services and special offers. Personal information may also be processed and used by such other organizations on our behalf for the purpose of providing Airtel services to you. The use of information will remain under the control of Airtel at all times.  
-We however,assure you, that Airtel does not disclose your personal information to any other Cellular Service Providers, Banks, Credit Card companies etc. or their agents, affiliates which could lead to invasion of your privacy.   
-If you do not wish to receive information SMS on Airtel products, services and special offers, please SMS us at 121(toll-free) or call at 121(toll-free). 
+**Sharing Your Information** : [**www.joyofrunning.in**](http://www.joyofrunning.in/)  does not sell, rent, share or otherwiseprovide any of your information to anyone other than for site analytics as described in this policy.
 
-**Privacy Support**
+We will only share your personally identifiable information with third parties to carry out your instructions or to provide specific services or information.
 
-Airtel reserves the right to amend or modify this privacy statement at any time and in response to changes in privacy legislation.   
-Airtel is committed to protecting your privacy however if you have any query about the handling or protection of your personal information or about A irtel's privacy statement, please write to: [121@airtelindia.com](mailto:121@airtelindia.com)
+**_Legal Disclaimer_**  
+
+
+Under no circumstances Bharti Airtel Limited or any of its affiliates, subsidiaries or group companies alongwith its officers or employees are responsible or liable, in whatsoever manner, for maintenance and operations of this website or any material provided thereon. 
+
+It is possible that we may need to disclose personal information when required by law, such as responses to civil or criminal subpoenas, or other requests by law enforcement personnel. We will disclose such information wherein we have a good-faith belief that it is necessary to comply with a court order, ongoing judicial proceeding or other legal process or to exercise our legal rights or defend against legal claims.
