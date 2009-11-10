@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lavalife.ca privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523210150id_/http%3A//www.lavalife.ca/singles/trusted/privacy%3Flocale%3D%24js.locale%21%26context%3D%24js.sessContextKey%21%26a%3D%24js.reqAdcodeKey%21) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lavalife.ca privacy policy that was archived on 2009-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091110103237id_/http%3A//www.lavalife.ca/singles/trusted/privacy%3Flocale%3Den_CA%26context%3Danrr%26a%3D0) for the most accurate reproduction.*
 
 # Online adult dating service and personals - Lavalife - Where Singles Click.
 
@@ -10,19 +10,19 @@ Lavalife is firmly committed to privacy. The following discloses our information
 
 The protection of your privacy being very important, we have adopted the following practices to safeguard the confidentiality of your personal information. We will notify all registered users via email of any material change to this Privacy Statement, unless you have opted-out of receiving email from us. From time to time, changes to this Privacy Statement will also be communicated on this site.
 
-**What information do you gather automatically from visitors?**
+ **What information do you gather automatically from visitors?**
 
 We use your IP address (the series of numbers associated with your individual computer) to help us maintain our site and identify problems with our server. Your IP address does not disclose any personally revealing information about you. 
 
 We do use cookies to identify traffic that comes through advertising and to facilitate a more user friendly experience. Cookies are small pieces of information that a web site places on your computer's hard drive so we know it's you when you visit. This helps us to create a personalized experience for you when you visit our site. The use of cookies is a very common practice on the Internet. If you are uncomfortable with this, you can disable all cookies through your browser settings. Your enjoyment of our site won't be affected if you have set your browser to reject cookies.
 
-**What information will you ask me for?**
+ **What information will you ask me for?**
 
 When you register to use any Lavalife service you will be asked for some general identifying information which will enable us to provide you with this individualized service. We gather contact information (like your email address), demographic information (like your city of residence or age). We may share some of this information for our own research purposes with our professional advisors or consultants and third party partners, however the information shared will be limited to non-personally identifying demographic information shared under cover of a confidentiality agreement. If you choose to become a Full Member, we collect financial information (like your credit card number and expiry date). We will only use this information in the course of providing our service to you. 
 
 Once you have registered, you will be given the option of creating a pseudonymous profile (nickname and personal description) within any of our communities where your gender is applicable. Depending on which community you choose, you will be asked for some personal but non-identifying information to complete your profile (i.e. whether you have dependants, height, body type, race, religion, whether you smoke, etc). This information is not linked in any way to your personally identifiable information, for other members to see. Obviously, if you provide us with a photograph or video some of your information may become personally identifiable information.
 
-**How will this information be used and who has access to it?**
+ **How will this information be used and who has access to it?**
 
 If you choose to have them sent to you, we may use your contact information to send you valuable updates and timely notices of promotions and mailbox status reports. Our site provides you with the opportunity to opt-in to receiving different types of communications from us at the point where we request registration information. You may modify this choice at any time by selecting "Preferences" from the member home page. We reserve the right to use your contact information at any time to advise you of any updates that may materially affect your rights or status on our site. 
 
@@ -34,23 +34,23 @@ The personally identifiable information we collect from you is used for internet
 
 Although Lavalife makes use of up to date technology in order to protect your pictures and video recordings from being copied or captured by unauthorized third parties, please keep in mind that we cannot ensure complete protection. When we use your pictures in our service or our marketing materials we include the Lavalife logo to serve as notice to third parties not to copy or use the pictures. The presence of this logo, or watermark does not in anyway imply copyright or other proprietary rights in and to the picture by Lavalife and is merely provided to discourage the unauthorized use of the picture.
 
-**How long do you keep the information I've given you?**
+ **How long do you keep the information I've given you?**
 
 We keep the information you have given us for as long as you are a member on the siteor for as long as we are required to do so by law, which ever is longer..
 
-**Can I change the information I have already given you?**
+ **Can I change the information I have already given you?**
 
 You can always verify or request the removal of the personally identifiable information we have collected and change your registration information by selecting "My Account" from the main menu on the site. 
 
 Any such request may also be made by contacting the Lavalife Privacy Officer at the co-ordinates listed at the bottom of this page.
 
-**Do you monitor online behavior?**
+ **Do you monitor online behavior?**
 
 Our members communicate with each other through instant messages and onsite mail. While we do not, as a rule, moderate or monitor members' private exchanges, we reserve the right to do so if we suspect users of being under 18 or of using our service for the purpose of solicitation or any other violation of our terms of use or Privacy Statement. Member submissions that appear on the public area of the site are moderated and, if necessary, we reserve the right to edit, delete, remove or not use any communication on a public area of the site. 
 
 Members may choose to participate in community polls. The results of these polls are tracked by gender only and do not reveal any personal identifiable information linked to the individual voters.
 
-**What security features do you have?**
+ **What security features do you have?**
 
 The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). SSL is the leading security protocol on the Internet, it ensures that information being transferred over the network is private through a process called encryption. Once encrypted the information is an unintelligible code until it is decoded upon arrival at the authorized destination. 
 
@@ -58,25 +58,25 @@ We follow generally accepted industry standards to protect the personal informat
 
 If you have any questions about security on our Web site, you can contact us at the co-ordinates listed below.
 
-**Advertisers**
+ **Advertisers**
 
 When you inquire about advertising opportunities on our site, you will be asked for contact information and information related to your advertising objectives. This information will be used to provide you with the business information you are seeking. Your information is only shared with internal staff and the external ad representation agencies that sell media space on the site, on our behalf. Lavalife sites may contain links to other sites not affiliated with Lavalife. Please note that these other sites may have privacy policies that differ from those of Lavalife. We have no control over any personal information that you provide to these sites. 
 
 We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, [click here](http://www.networkadvertising.org/optout_nonppii.asp).
 
-**Associates**
+ **Associates**
 
 When you register to become an Associate of our site, you will be asked for contact information and information related to your site. Your information will only be used by internal staff and will never be shared with anyone external to the company other than our advisors and representatives without your consent, unless required to do so by operation of law. Your information will be used to secure your approval as an Associate, to facilitate communication between our two sites and to send you payment, based on your site's performance.
 
-**Contacting us for privacy issues ONLY**
+ **Contacting us for privacy issues ONLY**
 
-_**Please note that this phone number will NOT connect you to a customer service representative.**_
+ _**Please note that this phone number will NOT connect you to a customer service representative.**_
 
 Attn: Privacy Officer 
 
 Lavalife Inc.  
-905 King Street West, Ste 500  
-Toronto, Ontario M6K 3G9 
+2200 Yonge Street, Suite 300  
+Toronto, Ontario M4S 2C6 
 
 Fax: (416) 263-8338  
 Toll Free: 1-888-265-1633
