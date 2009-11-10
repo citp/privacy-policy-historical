@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the einstruction.com privacy policy that was archived on 2009-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090507044828id_/http%3A//www.einstruction.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the einstruction.com privacy policy that was archived on 2009-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091110203143id_/http%3A//www.einstruction.com/privacy_policy.html) for the most accurate reproduction.*
 
 # eInstruction - Privacy Policy
 
 eInstruction has created this privacy statement to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices for all eInstruction websites.
 
-  * Information Collected by FSC
+  * Information Collected by eInstruction®
   * Security
   * Supplemental Information
   * Choice/Opt-Out
