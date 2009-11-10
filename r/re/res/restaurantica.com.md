@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the restaurantica.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608111752id_/http%3A//www.restaurantica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the restaurantica.com privacy policy that was archived on 2009-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091110044920id_/http%3A//www.restaurantica.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -66,11 +66,11 @@ We may transfer Personal Information to certain advertisers that you have explic
 
 #### Personal Information Always Shown
 
-Registered Member information is displayed to people in order to facilitate user interaction in the EMEDIA Website communities. The following Personal Information is always viewable by Visitors and Registered Members: your display name and your Main Profile Picture. To facilitate searching and finding friends and acquaintances on the service (discussed in more detail below), the Website allows users to search for other members using certain limited criteria, such as, but not limited to, first and last name, age, and email address; but only if and to the extent that you provide such information. The following sections describe additional information that may be viewable by others.
+Registered Member information is displayed to people in order to facilitate user interaction in the EMEDIA Website communities. The following Personal Information is always viewable by Visitors and Registered Members: your nickname and your Main Profile Picture. To facilitate searching and finding friends and acquaintances on the service (discussed in more detail below), the Website allows users to search for other members using certain limited criteria, such as, but not limited to, first and last name, age, and email address; but only if and to the extent that you provide such information. The following sections describe additional information that may be viewable by others.
 
 #### Searching Personal Profiles
 
-The Website includes features that allow Visitors and Registered Members to search for your profile based on your first name, last name, display name, email address, province, state, city, zip code, country, date of birth, gender, age, your "friends" and all your Personal Profile information. If your Profile matches the search criteria it will be listed in the search results. As noted above, the information presented with your Profile depends upon your privacy settings, and whether the person conducting the search is a Visitor, Registered Member or your "friend". (Note: certain information about you, while not displayed, may be discoverable by specific or repeated searches).
+The Website includes features that allow Visitors and Registered Members to search for your profile based on your first name, last name, nickname, email address, province, state, city, zip code, country, date of birth, gender, age, your "friends" and all your Personal Profile information. If your Profile matches the search criteria it will be listed in the search results. As noted above, the information presented with your Profile depends upon your privacy settings, and whether the person conducting the search is a Visitor, Registered Member or your "friend". (Note: certain information about you, while not displayed, may be discoverable by specific or repeated searches).
 
 #### Service Providers
 
