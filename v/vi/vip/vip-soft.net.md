@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vip-soft.net privacy policy that was archived on 2009-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090511135819id_/http%3A//www.vip-soft.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vip-soft.net privacy policy that was archived on 2009-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091110075132id_/http%3A//vip-soft.net/privacy.html) for the most accurate reproduction.*
 
 # SoftArchive.NET - Privacy Policy
 
