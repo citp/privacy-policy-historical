@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nichepass.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616153326id_/http%3A//www.nichepass.com/page.php%3Fsect%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nichepass.com privacy policy that was archived on 2009-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091110101620id_/http%3A//www.nichepass.com/page.php%3Fsect%3Dprivacy) for the most accurate reproduction.*
 
 # NichePass - privacy policy
 
