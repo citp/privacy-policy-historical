@@ -1,56 +1,81 @@
-<!--The following is the downloaded HTML source of the audioboo.fm privacy policy that was archived on 2009-05-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090517223119id_/http%3A//www.audioboo.fm/static/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the audioboo.fm privacy policy that was archived on 2009-11-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091110233224id_/http%3A//audioboo.fm/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml"><head profile="http://www.w3.org/2006/03/hcard">
+<!DOCTYPE html><html lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
     <title>AudioBoo</title>
-    <link href="/stylesheets/all.css?1242317568" media="screen" rel="stylesheet" type="text/css">
-    <script src="/javascripts/all.js?1242317550" type="text/javascript"></script>
+    <link href="/stylesheets/desktop_all.css?1257876446" media="screen" rel="stylesheet" type="text/css">
+    <script src="/javascripts/desktop_all.js?1257526476" type="text/javascript"></script>
+    <meta content="chrome=1" http-equiv="X-UA-Compatible">
+    <!--[if IE]>
+      <style type='text/css'>
+        .stackedForm.excessivelyRounded input {
+          padding-top: 0.25em;
+          padding-bottom: 0.25em; }
+        
+        .buttonWrapper input {
+          font-weight: bold; }
+      </style>
+    <![endif]-->
+    <!--[if lte IE 7]>
+      <style type='text/css'>
+        .popup_prompt .tooltip .line {
+          padding-right: 4em; }
+          .popup_prompt .tooltip .line .alignBlockRight {
+            float: none;
+            position: absolute;
+            right: 13px;
+            margin-top: -2px; }
+        
+        .sharing .line .unit {
+          float: right; }
+          .sharing .line .unit.alignBlockRight>* {
+            float: none; }
+        
+        .mapContainer {
+          position: relative;
+          overflow: hidden; }
+        
+        input.iefix {
+          overflow: visible;
+          width: auto;
+          display: inline;
+          padding: 0 0.25em; }
+        
+        .mapContainer .search input {
+          margin-top: -1px!important;
+          margin-bottom: -1px!important; }
+      </style>
+    <![endif]-->
     <link href="/favicon.png" rel="icon" type="image/png">
     <link href="http://audioboo.fm/" rel="home" title="Home">
     <link href="http://audioboo.fm/boos/everyone.atom" rel="alternate" title="All Recent Boos" type="application/atom+xml">
+    <script type="text/javascript">
+      //<![CDATA[
+        var googleAnalyticKeys = ["UA-6532967-1"];
+      //]]>
+    </script>
+    
   </head>
   <body class="bgDarkGrey">
-    <div class="fixedTop centered bgPink">
-      <div class="smallInset">
-        <span>
-          Don't have an AudioBoo account?
-          <strong>&nbsp;Sign up now</strong>
-        </span>
-        <form action="/signup" class="inlineForm padLeft" id="new_user" method="post"><div style="margin:0;padding:0"><input name="authenticity_token" type="hidden" value="Ck/W0piD6+hODQJP4VZqHBm7LWK9AkChI10rqqr4Ebw="></div>
-          <div class="inputWrapper">
-            <label class="placeholder" for="user_username">Username</label>
-            <input id="user_username" name="user[username]" size="30" type="text">
-          </div>
-          <div class="inputWrapper">
-            <label class="placeholder" for="user_email">Email</label>
-            <input id="user_email" name="user[email]" size="30" type="text">
-          </div>
-          <div class="inputWrapper">
-            <label class="placeholder" for="user_password">Password</label>
-            <input id="user_password" name="user[password]" size="30" type="password">
-          </div>
-          <div class="buttonWrapper padLeft">
-            <input id="user_submit" name="commit" type="submit" value="Join now">
-          </div>
-        </form>
-      </div>
-    </div>
     <div id="page">
+      <div class="fixedTop centered bgPink innerShadow" id="flash" style="margin-top:-2px; padding-top:2px">
+        <div class="smallInset">
+          <strong>You must log in to view that page</strong>
+        </div>
+      </div>
       <div class="roundedMedium bgGrey" id="header">
         <div class="inset">
           <div class="line">
             <div class="unit size3of4">
               <div class="halfPadRight">
-                <div class="roundedSmall bgBlue">
-                  <div id="speechBubble">
-                    <a href="/"><img alt="Logo" class="logo" src="/images/logoWithSpeechBubble.png?1242317550"></a>
-                  </div>
+                <div class="logoWrapper roundedSmall bgBlue">
+                  <h1><a href="/"><img alt="AudioBoo" class="logo" src="/images/logoWithSpeechBubble.png?1251809606"></a></h1>
                 </div>
               </div>
             </div>
             <div class="unit lastUnit size1of4 halfPadLeft">
-              <div class="roundedSmall bgWhite alignBlockRight" id="nav">
+              <div class="roundedSmall bgWhite alignBlockRight spaceAfter" id="nav">
                 <ul class="inlineLinkList">
                   <li>
                     <a href="/profile">my boos</a>
@@ -63,12 +88,20 @@
                   </li>
                 </ul>
               </div>
+              <div style="background:url(/images/searchBackground.png?1251809606) no-repeat">
+                <form action="/search" method="get">
+                  <div class="line">
+                    <div class="unit"><input id="q" name="q" placeholder="Search" style="background-color:transparent; height:15px; line-height:15px; border:0; margin:0; outline:0px none; padding:3px 3px 3px 5px; width:198px" type="text"></div>
+                    <div class="unit lastUnit"><input style="background-color:transparent; border:0; width:25px; height:21px; cursor:pointer" type="submit" value=""></div>
+                  </div>
+                </form>
+              </div>
             </div>
           </div>
-          <div class="line noExtraPadding" id="headerBottom">
+          <div class="noExtraPadding" id="headerBottom">
             <div class="rightAligned" id="littleMessage">
               <p class="tight">
-                <a href="/login?redirect=http%3A%2F%2Faudioboo.fm%2Fstatic%2Fprivacy">log in</a>
+                <a href="/login?redirect=http%3A%2F%2Faudioboo.fm%2Fprivacy">log in</a>
                 /
                 <a href="/signup">sign up</a>
               </p>
@@ -78,9 +111,9 @@
       </div>
       <div id="bd">
         <div class="line">
-          <div class="size1of1 lastUnit unit">
+          <div class="lastUnit size1of1 unit">
             <div class="">
-              <div class="roundedMedium bgGrey spaceAfter outlinedPanel" id="boosListView">
+              <div class="roundedMedium bgGrey spaceAfter" id="boosListView">
                 <div class="document inset">
                   <h1>AudioBoo Privacy Policy</h1>
                   <h2>Summary:</h2>
@@ -144,6 +177,8 @@
           <a href="http://forum.audioboo.fm">Support/Discussion</a>
           –
           <a href="http://blog.audioboo.fm">Blog</a>
+          –
+          <a href="http://code.google.com/p/audioboo-api/">Developers</a>
         </div>
         <div class="legalese">
           <div>
@@ -160,15 +195,32 @@
       </div>
     </div>
     <script type="text/javascript">
-    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      //<![CDATA[
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+      //]]>
     </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
     <script type="text/javascript">
-    var pageTracker = _gat._getTracker("UA-6532967-1");
-    pageTracker._setDomainName("none");
-    pageTracker._setAllowLinker(true);
-    pageTracker._trackPageview();
+      //<![CDATA[
+        for(var i=googleAnalyticKeys.length-1; i>=0; i--) {
+        // we're going downwards so that the resulting global pageTracker is the one for our own stats
+          try {
+            var userkey = googleAnalyticKeys[i];
+            pageTracker = _gat._getTracker(userkey);
+            pageTracker._setDomainName("none");
+            pageTracker._setAllowLinker(true);
+            pageTracker._trackPageview();
+          } catch(err) {}
+        }
+      //]]>
     </script>
   
 
+<!-- You were served by 'audioboo1.vm.tdhserve.net'. -->
+<!--
+  Hat tips to:
+  famfamfam.com/lab/icons/silk & pinvoke.com for icons
+  Matt Kruse for date formatting js
+  Tim Berners-Lee for these new-fangled "hyperlinks"
+-->
 </body></html>
