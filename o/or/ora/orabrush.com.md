@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the orabrush.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620202244id_/http%3A//orabrush.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orabrush.com privacy policy that was archived on 2009-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091110234258id_/http%3A//www.orabrush.com/store/privacy.php) for the most accurate reproduction.*
 
-# Orabrush: the most effective cure to get rid of bad breath.
+# OraBrush Privacy Policy
 
 ## INFORMATION USAGE: 
 
@@ -21,7 +21,8 @@ This site is updated periodically. If you have questions or concerns about Priva
 Effective Date:  
 This policy is effective and was last updated April, 2009. 
 
-| 
+  
+
 
 Option 1: One OraBrush
 
@@ -41,11 +42,15 @@ OraBrush
 
 For Only
 
-$4.99
+$5.00
 
-Shipping/Handling ~~$1.99~~ FREE!
+Shipping/Handling ~~$3.95~~ FREE!
+
+[](http://www.orabrush.com/store/checkout/cart/add/product/167/qty/1/uenc/aHR0cDovL3d3dy5vcmFicnVzaC5jb20vc3RvcmUvY2hlY2tvdXQvY2FydC9lc3RpbWF0ZVBvc3QvY291bnRyeV9pZC9VUy9lc3RpbWF0ZV9wb3N0Y29kZS84MzMxOC91ZW5jL2FIUjBjRG92TDNkM2R5NXZjbUZpY25WemFDNWpiMjB2YzNSdmNtVXZZMmhsWTJ0dmRYUXZZMkZ5ZEM5bGMzUnBiV0YwWlZWd1pHRjBaVkJ2YzNRdlpYTjBhVzFoZEdWZmJXVjBhRzlrTDJaeVpXVnphR2x3Y0dsdVoxOW1jbVZsYzJocGNIQnBibWN2ZFdWdVl5OWhTRkl3WTBoTk5reDVPVE5rTTJOMVlqTkthRmx1U2pGak1tZDFXVEk1ZEV3elRqQmlNMHBzVEROQ2FHVllRbWhpUXpsc1pVaENlVnBZVG5wTU0wNXZZak5LTUZrelZqQk1keXdz "Checkout with PayPal")
 
 Or
+
+[](http://www.orabrush.com/store/checkout/cart/add/product/167/qty/1/uenc/aHR0cDovL3d3dy5vcmFicnVzaC5jb20vc3RvcmUvY2hlY2tvdXQvY2FydC9pbmRleC91ZW5jL2FIUjBjRG92TDNkM2R5NXZjbUZpY25WemFDNWpiMjB2YzNSdmNtVXZZMmhsWTJ0dmRYUXZZMkZ5ZEM5bGMzUnBiV0YwWlZCdmMzUXZZMjkxYm5SeWVWOXBaQzlWVXk5d2IzTjBZV3hmWTI5a1pTODRNek14T0M5MVpXNWpMMkZJVWpCalJHOTJURE5rTTJSNU5YWmpiVVpwWTI1V2VtRkROV3BpTWpCMll6TlNkbU50VlhaWk1taHNXVEowZG1SWVVYWlpNa1o1WkVNNWJHTXpVbkJpVjBZd1dsWldkMXBIUmpCYVZrSjJZek5SZGxwWVRqQmhWekZvWkVkV1ptSlhWakJoUnpsclRESmFlVnBYVm5waFIyeDNZMGRzZFZveE9XMWpiVlpzWXpKb2NHTklRbkJpYldOMlpGZFdkVmw1T1doVFJrbDNXVEJTZG1ScmQzcGFSRTVyWlZSV01sa3lNVWRoVjA1MVZtNXdhRkY2Vm5GWmFrbDNaRzFOZWxWdVdtcGlWbFl5VjFSS2IySkdhM2xrU0ZwclYwWkdNbGRVU2tkbFYxSkVUME4zTEEsLA,, "Checkout with Amazon")
 
 | 
 
@@ -55,9 +60,13 @@ Save 20%
 
 $7.99
 
-Shipping/Handling ~~$2.29~~ FREE!
+Shipping/Handling ~~$3.95~~ FREE!
+
+[](http://www.orabrush.com/store/checkout/cart/add/product/167/qty/2/uenc/aHR0cDovL3d3dy5vcmFicnVzaC5jb20vc3RvcmUvY2hlY2tvdXQvY2FydC9lc3RpbWF0ZVBvc3QvY291bnRyeV9pZC9VUy9lc3RpbWF0ZV9wb3N0Y29kZS84MzMxOC91ZW5jL2FIUjBjRG92TDNkM2R5NXZjbUZpY25WemFDNWpiMjB2YzNSdmNtVXZZMmhsWTJ0dmRYUXZZMkZ5ZEM5bGMzUnBiV0YwWlZWd1pHRjBaVkJ2YzNRdlpYTjBhVzFoZEdWZmJXVjBhRzlrTDJaeVpXVnphR2x3Y0dsdVoxOW1jbVZsYzJocGNIQnBibWN2ZFdWdVl5OWhTRkl3WTBoTk5reDVPVE5rTTJOMVlqTkthRmx1U2pGak1tZDFXVEk1ZEV3elRqQmlNMHBzVEROQ2FHVllRbWhpUXpsc1pVaENlVnBZVG5wTU0wNXZZak5LTUZrelZqQk1keXdz "Checkout with PayPal")
 
 Or
+
+[](http://www.orabrush.com/store/checkout/cart/add/product/167/qty/2/uenc/aHR0cDovL3d3dy5vcmFicnVzaC5jb20vc3RvcmUvY2hlY2tvdXQvY2FydC9pbmRleC91ZW5jL2FIUjBjRG92TDNkM2R5NXZjbUZpY25WemFDNWpiMjB2YzNSdmNtVXZZMmhsWTJ0dmRYUXZZMkZ5ZEM5bGMzUnBiV0YwWlZCdmMzUXZZMjkxYm5SeWVWOXBaQzlWVXk5d2IzTjBZV3hmWTI5a1pTODRNek14T0M5MVpXNWpMMkZJVWpCalJHOTJURE5rTTJSNU5YWmpiVVpwWTI1V2VtRkROV3BpTWpCMll6TlNkbU50VlhaWk1taHNXVEowZG1SWVVYWlpNa1o1WkVNNWJHTXpVbkJpVjBZd1dsWldkMXBIUmpCYVZrSjJZek5SZGxwWVRqQmhWekZvWkVkV1ptSlhWakJoUnpsclRESmFlVnBYVm5waFIyeDNZMGRzZFZveE9XMWpiVlpzWXpKb2NHTklRbkJpYldOMlpGZFdkVmw1T1doVFJrbDNXVEJTZG1ScmQzcGFSRTVyWlZSV01sa3lNVWRoVjA1MVZtNXdhRkY2Vm5GWmFrbDNaRzFOZWxWdVdtcGlWbFl5VjFSS2IySkdhM2xrU0ZwclYwWkdNbGRVU2tkbFYxSkVUME4zTEEsLA,, "Checkout with Amazon")
 
 | 
 
@@ -67,13 +76,20 @@ Get One
 
 FREE
 
-$14.97
+$14.99
 
-Shipping/Handling ~~$2.99~~ FREE!
+Shipping/Handling ~~$4.99~~ FREE!
 
-Or  
+[](http://www.orabrush.com/store/checkout/cart/add/product/167/qty/4/uenc/aHR0cDovL3d3dy5vcmFicnVzaC5jb20vc3RvcmUvY2hlY2tvdXQvY2FydC9lc3RpbWF0ZVBvc3QvY291bnRyeV9pZC9VUy9lc3RpbWF0ZV9wb3N0Y29kZS84MzMxOC91ZW5jL2FIUjBjRG92TDNkM2R5NXZjbUZpY25WemFDNWpiMjB2YzNSdmNtVXZZMmhsWTJ0dmRYUXZZMkZ5ZEM5bGMzUnBiV0YwWlZWd1pHRjBaVkJ2YzNRdlpYTjBhVzFoZEdWZmJXVjBhRzlrTDJaeVpXVnphR2x3Y0dsdVoxOW1jbVZsYzJocGNIQnBibWN2ZFdWdVl5OWhTRkl3WTBoTk5reDVPVE5rTTJOMVlqTkthRmx1U2pGak1tZDFXVEk1ZEV3elRqQmlNMHBzVEROQ2FHVllRbWhpUXpsc1pVaENlVnBZVG5wTU0wNXZZak5LTUZrelZqQk1keXdz "Checkout with PayPal")
+
+Or
+
+[](http://www.orabrush.com/store/checkout/cart/add/product/167/qty/4/uenc/aHR0cDovL3d3dy5vcmFicnVzaC5jb20vc3RvcmUvY2hlY2tvdXQvY2FydC9pbmRleC91ZW5jL2FIUjBjRG92TDNkM2R5NXZjbUZpY25WemFDNWpiMjB2YzNSdmNtVXZZMmhsWTJ0dmRYUXZZMkZ5ZEM5bGMzUnBiV0YwWlZCdmMzUXZZMjkxYm5SeWVWOXBaQzlWVXk5d2IzTjBZV3hmWTI5a1pTODRNek14T0M5MVpXNWpMMkZJVWpCalJHOTJURE5rTTJSNU5YWmpiVVpwWTI1V2VtRkROV3BpTWpCMll6TlNkbU50VlhaWk1taHNXVEowZG1SWVVYWlpNa1o1WkVNNWJHTXpVbkJpVjBZd1dsWldkMXBIUmpCYVZrSjJZek5SZGxwWVRqQmhWekZvWkVkV1ptSlhWakJoUnpsclRESmFlVnBYVm5waFIyeDNZMGRzZFZveE9XMWpiVlpzWXpKb2NHTklRbkJpYldOMlpGZFdkVmw1T1doVFJrbDNXVEJTZG1ScmQzcGFSRTVyWlZSV01sa3lNVWRoVjA1MVZtNXdhRkY2Vm5GWmFrbDNaRzFOZWxWdVdtcGlWbFl5VjFSS2IySkdhM2xrU0ZwclYwWkdNbGRVU2tkbFYxSkVUME4zTEEsLA,, "Checkout with Amazon")  
   
-To purchase outside U.S. and Canada go to our [International Order Page](https://web.archive.org/web/20090620202244id_/http%3A//orabrush.com/international.php)
+  
 
-Use our secure Google or PayPal Checkout. Either method will ensure that you will receive exactly what you ordered.  
+
+## To purchase outside U.S. and Canada go to our [International Order Page](http://www.orabrush.com/store/international.php)
+
+Use our secure Amazon or PayPal Checkout. Either method will ensure that you will receive exactly what you ordered.  
 All shipments are sent by United States Postal Service.
