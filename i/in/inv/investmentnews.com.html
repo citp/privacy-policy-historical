@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the investmentnews.com privacy policy that was archived on 2009-04-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090421042352id_/http%3A//www.investmentnews.com/apps/pbcs.dll/qwikNavsearch%3FQwikNav%3DPRIVACY) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the investmentnews.com privacy policy that was archived on 2009-11-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091110214003id_/http%3A//www.investmentnews.com/apps/pbcs.dll/qwikNavsearch%3FQwikNav%3DPRIVACY) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 	<link rel="shortcut icon" href="http://www.investmentnews.com/favicon.ico" type="image/vnd.microsoft.icon"> 
@@ -9,7 +9,12 @@
 	
 	<title>Privacy Policy - Investment News 
 </title>
+		<link rel="canonical" href="http://www.investmentnews.com/article/20010101/STATIC/101010738">
+<!--SET HEADLINE-->
+<meta name="headline" content="Privacy Policy">
+
 	<link rel="alternate" type="application/rss+xml" title="RSS feed" href="http://www.investmentnews.com/apps/pbcs.dll/section?Category=RSS02&amp;mime=xml">
+		
 	<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
 	  <meta name="verify-v1" content="XO0sIv+34CJ1oEqkxeAjMLaI/Eo1zYfHF3tCCpZPTJ8="> 
     <!--<META name="verify-v1" content="ZFb8GG4OuBV9zjwy8OlaGk67ZsKgu1oQznQtfvG0qo8=" />-->
@@ -26,6 +31,11 @@
 //configuration
 ///apps/pbcs.dll/article?AID=/20010101/STATIC/101010738;
 //;
+//
+//
+//
+//
+//
 //
 //
 //
@@ -81,15 +91,9 @@ input.calendarDateInput {letter-spacing:.06em;font-family:Verdana,Sans-Serif;fon
 	<script language="JavaScript" type="text/javascript" src="/includes/javascript/highlight.js"></script>
 	<script language="javascript" type="text/javascript" src="/includes/javascript/textLimit.js"></script>
 
-<meta name="dailyissuedate" value="20090420">
-<meta name="issuedate" value="20090419">
-<meta name="regalertissuedate" value="20090407">
-
-<link rel="canonical" href="http://www.investmentnews.com/article/20010101/STATIC/101010738">
-<!--GET ART TAXONOMY-->
-<!--SET HEADLINE-->
-<meta name="headline" content="Privacy Policy">
-<script language="Javascript" src="/includes/crownpeak.js"></script>
+<meta name="dailyissuedate" value="20091110">
+<meta name="issuedate" value="20091108">
+<meta name="regalertissuedate" value="20091103">
 
 	<!--PLUCK JS-->
 	<script>
@@ -101,101 +105,16 @@ input.calendarDateInput {letter-spacing:.06em;font-family:Verdana,Sans-Serif;fon
 	<!-- load up the Nyx parts (and any other libraries) needed -->
 	<script type="text/javascript" src="/pluck/nyxMain.js"></script>
 	<script type="text/javascript" src="/pluck/nyxDisco.js"></script>
-		<script type="text/javascript">
-		function addArticlesToRequest(idArray, requestBatch) {
-			/* creates the DAAPI request for the featured articles;
-			 * pass in:
-			 * 		array of IDs 
-			 * 		optionally: an existing request batch (if not passed, one will be created)
-			 * 
-			 * DAAPI limits us to 20 items per batch, so that's the 
-			 * absolute maximum number of featured articles
-			 */
-			if (typeof requestBatch != "object") requestBatch = new RequestBatch();
-			//loop over the array and create the requests
-			for (var itemIdx = 0; itemIdx < idArray.length; itemIdx++) {
-				requestBatch.AddToRequest( new ArticleKey(idArray[itemIdx]) );
-			}
-			return requestBatch;
-		}
-		//callback manager
-		function daapiCallback(responseBatch) {
-			/* loops through the responses, finds the article keys, and if there's a target element
-			 * for the Nyx output, calls the DiscoWriter for that article
-			 */
-			var thisResponse, domTarget, respIdx;
-			//log the response -- for whatever reason (some scope issue), we have to re-fix the Safari console on async callbacks
-			NYX.fixConsole();
-			console.dir(responseBatch);
-			/* now we loop over the responses, find a matching DIV per our naming convention,
-			 * and call the gadget each time with only one article (unlike other uses of DiscoWriter)
-			 * 
-			 * we have to fake the object expected by Nyx.DiscoWriter 
-			 * -- it expects a DiscoveredContent array, so we put our one article inside an array literal
-			 */
-			for (respIdx = 0; respIdx < responseBatch.Responses.length; respIdx++) {
-				var thisResponse = responseBatch.Responses[respIdx];
-				if (typeof thisResponse.Article == "object") {
-					thisResponse = thisResponse.Article;
-					domTarget = document.getElementById("nyx_" + thisResponse.ArticleKey.Key + "_output");
-					if (domTarget != null) {
-						myGadget.idRoot = "nyx_" + thisResponse.ArticleKey.Key;
-						myGadget.writeGui([thisResponse]);
-					}
-				}
-			}
-		}
-		//instantiate the gadget and set any parameters we want
-		var myGadget = new NYX.DiscoWriter();	//unlike other instantiations, we leave the idRoot undefined... it will be set later
-		myGadget.discoLimit = 6;
-		myGadget.unnamedSection = "none";
-			/*
-		 * The Nyx gadget allows us to override some methods that are called during the gui-writing process,
-		 * so let's say we want to replace a 0-comments situation with by hiding the whole part of the result
-		 * that shows the comment count; because of our cleverness in the template HTML, we
-		 * can just do a search-and-replace to add a style attribute that hides the element
-		 * -- this code gets that done
-		 */
-			myGadget.customizeItem = function(dataObj, itemHtml, domElemThisWritesTo, itemIndex) {
-				//override this method as needed to add your own GUI customizations
-				//if no comments no need to show the count
-				if ( Math.abs(dataObj.NumberOfComments) < 1 ) 
-				{
-					//poll archive styling
-					if(itemHtml.indexOf("pollComments") > 0)
-					{
-						//var templateMarker = 'class="pollComments"';	
-						//itemHtml = itemHtml.replace(templateMarker, templateMarker + ' style="display: none !important"');
-						var templateMarker = /(class="?'?pollComments"?'?)/gi;
-						itemHtml = itemHtml.replace(templateMarker, '$1 style="display: none !important"');
-					}
-					else
-					{
-						//var templateMarker = 'class="comments"';	
-						//itemHtml = itemHtml.replace(templateMarker, templateMarker + ' style="display: none !important"');
-						var templateMarker = /(class="?'?comments"?'?)/gi;
-						itemHtml = itemHtml.replace(templateMarker, '$1 style="display: none !important"');
-					}
-				}
-				//if no recommendations no need to show the count
-				if ( Math.abs(dataObj.NumberOfRecommendations) < 1 ) {
-						var templateMarker = /(class="?'?recommend"?'?)/gi;
-						itemHtml = itemHtml.replace(templateMarker, '$1 style="display: none !important"');
-				}
-				//if no reviews no need to show the count
-				if ( Math.abs(dataObj.NumberOfRatings) < 1 ) {
-						var templateMarker = /(class="?'?rating"?'?)/gi;
-						itemHtml = itemHtml.replace(templateMarker, '$1 style="display: none !important"');
-				}
-				return itemHtml;
-			}
-		//instantiate article ids array for loading
-		var articleIds = [];                                 	
-		var fobArticleIds = [];
-		</script>
-	<!--END PLUCK JS-->
+	<script type="text/javascript" src="/pluck/addArticlesToRequest.js"></script>
 
-	<script type="text/javascript"><!--//--><![CDATA[//><!--
+
+
+	<script type="text/javascript">
+function click(which) {
+    document.multiSearch.searchType[which].checked = true;}
+		
+		
+		<!--//--><![CDATA[//><!--
 
 sfHover = function() {
 	var sfEls = document.getElementById("nav").getElementsByTagName("LI");
@@ -241,7 +160,7 @@ hbx.acct="DM5407217JBD83EN3";
 //
 //
 //
-hbx.mlc='/101010738';
+hbx.mlc='/' + '101010738';
 hbx.pn='static/index.html';
 hbx.pndef="title";
 hbx.ctdef="full";
@@ -278,25 +197,24 @@ hbx.gpn="DBGP";
                         <tbody><tr>
                             <td>
                                 <div id="TodaysDate">
-                                    Monday,&nbsp;April&nbsp;20,&nbsp;2009
+                                    Tuesday,&nbsp;November&nbsp;10,&nbsp;2009
                                 </div>
                             </td>
 
                             <td align="left" valign="bottom">
                                 <div class="link6s">								
-                                    <!--<a href="#">Login</a> | --> <a href="https://home.investmentnews.com/clickshare/myhome.do" rel="nofollow">Register</a> | <a href="https://sec.crain.com/IN/" rel="nofollow">Subscribe / Renew</a> | <a href="/help" rel="nofollow">Customer Service</a> | <img src="/images/icon-rss.gif" alt="Rss Icon" width="12" height="12" align="top"> <a href="/apps/pbcs.dll/section?category=RSS">RSS</a>
+                                    <!--<a href="#">Login</a> | --> <a href="https://home.investmentnews.com/clickshare/myhome.do" rel="nofollow">Register</a> &nbsp;|&nbsp; <a href="https://sec.crain.com/IN/" rel="nofollow">Subscribe</a>  &nbsp;|&nbsp; <img src="/images/icon-rss.gif" alt="Rss Icon" width="12" height="12" align="top"> <a href="/apps/pbcs.dll/section?category=RSS">RSS</a>  &nbsp;|&nbsp; <a href="/apps/pbcs.dll/section?category=TOC">Current Issue</a>
                                 </div>
                             </td>
 							
 							<td rowspan="2" align="center" valign="bottom">
-							
-								 	<a href="/apps/pbcs.dll/section?category=TOC"><img name="FrontPage" id="FrontPage-header" src="/apps/pbcsi.dll/bilde?Avis=CI&amp;Dato=20090419&amp;Kategori=FREE&amp;Lopenr=904179957&amp;Ref=AR&amp;MaxW=77&amp;MaxH=106&amp;border=0&amp;quality=100" alt="Cover Image"></a>
-
+							<a href="/html/moss-adams/"><img src="/images/moss-adams-study3.jpg" border="0"></a>
+								 <!--<p b s:!m a c r o name="getissuebydepartment" CacheTime="60" CacheQualifiers="IssueDate,MyProfile,MyObject,MyCount" MyProfile="1040" MyObject="65" MyCount="1">-->
 
 							
                                 <div class="link6s" style="padding-bottom:5px; text-align:center">
                                   
-                                     <a href="/apps/pbcs.dll/section?category=TOC">Current Issue</a>                                 
+                                     <a href="/html/moss-adams/">Adviser Compensation <br>and Staffing Study</a>                                 
                                    
                                 </div>
 							</td>
@@ -307,7 +225,7 @@ hbx.gpn="DBGP";
                         <td valign="bottom" align="left">
 							 <ul id="mainLogo">
                           <li id="logoImage"><a href="http://www.investmentnews.com"><img src="http://www.investmentnews.com/images/2009Logo.jpg" alt="Investment News" width="380" height="73" border="0"></a></li>
-                        <li id="tagLine">The Leading News Source for Financial Advisers</li>
+                        <li id="tagLine"><h2>The Leading News Source for Financial Advisers</h2></li>
                         </ul>
 							</td>
 							
@@ -316,7 +234,11 @@ hbx.gpn="DBGP";
 						
 							 <form name="multiSearch" action="#" method="get" onsubmit="submitSearch();" style="margin:0; padding:0;">                    
                                       <input name="q" type="text" size="30" class="ie" value="">
-									  <input type="image" style="margin:0 0 0 10px; padding:0;" src="/images/search3.gif" alt="Search" value="GO">
+                                      <input type="hidden" name="INDA" value="1">
+                                      <input name="crit" type="hidden" size="30" class="ie" value="">
+                                      <input type="hidden" name="SearchCategory" value="CHART;REG;FREE;SUB">
+                                      <input type="hidden" name="SearchProfile" value="1119">
+									  <input type="image" style="margin:0 0 0 10px; padding:0;" src="/images/search_small.gif" alt="Search" value="GO">
 									  <br>
                                       
                                       <!--QUOTE MEDIA FIELDS-->
@@ -329,21 +251,20 @@ hbx.gpn="DBGP";
                                       
                                       <!--END LIPPER FIELDS-->
                                       
+                                     
+                                      	<input type="hidden" name="category" value="advancedsearch">
                                       
-                                      <!--CROWNPEAK SEARCH FIELDS-->
-                                      	<input type="hidden" name="category" value="#">
-                                      <!--END CROWNPEAK SEARCH FIELDS-->
                                       
                                                
                                     
 			        <input name="searchType" type="radio" value="archive" checked="" class="radio">
-                                    Archives 
+                                    <a href="javascript:click(0)">Archives</a> 
                               
                                     <input name="searchType" type="radio" value="stock" class="radio"> 
-                                    Stock Lookup 
+                                    <a href="javascript:click(1)">Stock Lookup</a> 
                                     
                                     <input name="searchType" type="radio" value="etf" class="radio"> 
-                                    ETF/Fund Lookup
+                                    <a href="javascript:click(2)">ETF/Fund Lookup</a>
 									
 									</form>
                                   
@@ -366,7 +287,6 @@ hbx.gpn="DBGP";
         <li><a href="#" target="_self" class="daddy">News by Topic/Section</a>
 		  <ul>
 					  <li><a href="/apps/pbcs.dll/section?profile=1085" target="_self">Associations/Trade Groups</a></li>
-					  <li><a href="/apps/pbcs.dll/section?profile=1001" target="_self">At the Bell</a></li>
 					  <li><a href="/apps/pbcs.dll/section?profile=1086" target="_self">Broker-Dealers/Independents/Wirehouses</a></li>
 					  <li><a href="/apps/pbcs.dll/section?profile=1024" target="_self">Compliance/Regulation</a></li>
 					  <li><a href="/apps/pbcs.dll/section?profile=1087" target="_self">Financial/Estate Planning</a></li>
@@ -374,7 +294,7 @@ hbx.gpn="DBGP";
 		    <li><a href="/apps/pbcs.dll/section?profile=1042" target="_self">Investments</a></li>
 					  <li><a href="/apps/pbcs.dll/section?profile=1088" target="_self">Managed Money/SMAs/Hedge Funds</a></li>
 					  <li><a href="/apps/pbcs.dll/section?profile=1089" target="_self">Mutual Funds/ETFs</a></li>
-					  <li><a href=" /apps/pbcs.dll/section?category=RetirementCenterNews &#10;" target="_self">Retirement</a></li>
+					  <li><a href=" /apps/pbcs.dll/section?category=RetirementCenterNews" target="_self">Retirement</a></li>
 					  <li><a href="/apps/pbcs.dll/section?profile=1032" target="_self">RIAs/Custodians</a></li>
 					  <li><a href="/apps/pbcs.dll/section?profile=1017" target="_self">Short Interests</a></li>
 					  <li><a href="/apps/pbcs.dll/section?profile=1034" target="_self">Taxes</a></li>
@@ -421,6 +341,7 @@ hbx.gpn="DBGP";
 						
 					</li>
 					<li><a href="/apps/pbcs.dll/section?profile=1016" target="_self">Roundtables</a></li>
+					<li><a href="/apps/pbcs.dll/article?AID=/20090601/STATIC/906019985" target="_self">Top RIA Rankings</a></li>
 					<li><a href="/apps/pbcs.dll/article?AID=/20080130/STATIC/773386236" target="_self">Wealth Management Market Reports</a></li>
 					<li><a href="/apps/pbcs.dll/section?category=specialreports" target="_self">More Special Reports</a></li>
 				</ul>
@@ -443,6 +364,8 @@ hbx.gpn="DBGP";
 					<li><a href="/apps/pbcs.dll/section?category=2008QuestionsAnswersIndex" target="_self">Ask the CPA</a></li>
 					<li><a href="/apps/pbcs.dll/section?template=EVENTS" target="_self">Conference Calendar</a></li>
 					<li><a href="/apps/pbcs.dll/section?category=ETFCENTER" target="_self">ETF Center</a></li>
+					<li><a href="/apps/pbcs.dll/section?category=FROMTHEFIDUCIARY" target="_self">From the Fiduciary</a></li>
+					<li><a href="/apps/pbcs.dll/section?category=FROMTHEHEADHUNTER" target="_self">From the Headhunter</a></li>
 					<li><a href="/apps/pbcs.dll/article?AID=/20090125/STATIC/901239985" target="_self">Interactive Independent Broker-Dealer Profiles</a>
 					</li>
 					<li><a href="#" target="_self" class="daddy">Online Columns</a>
@@ -457,32 +380,35 @@ hbx.gpn="DBGP";
 					<li><a href="/apps/pbcs.dll/section?category=practicemanagementcenter" target="_self">Practice Management</a></li>
 					<li><a href="http://www.investmentnews.com/retirementcenter" target="_self">Retirement Center</a></li>
 					<li><a href="/apps/pbcs.dll/section?category=INDAILYOPINION&amp;profile=1100" target="_self">Tax INsight</a></li>
+					<li><a href="/apps/pbcs.dll/article?AID=/20090601/STATIC/906019985" target="_self">Top RIA Rankings</a></li>
 					<li><a href="#" target="_blank" class="daddy">Video</a>
 						<ul>
-							<li><a href="http://cistage.sv.publicus.com/apps/pbcs.dll/section?category=wealthtrack" target="_blank">Wealth Track</a></li>
+							<li><a href="/apps/pbcs.dll/section?category=wealthtrack" target="_blank">Wealth Track</a></li>
 						</ul>
 					</li>
 					<li><a href="/apps/pbcs.dll/section?category=WHITEPAPERS" target="_self">White Papers</a></li>
   </ul>	</li> 
   <li class="newsletters"><a href="/apps/pbcs.dll/article?AID=/20080103/STATIC/184201369">NEWSLETTERS</a>
   <ul>
-						<li><a href="/apps/pbcs.dll/section?category=INDAILY03" target="_self">IN Daily</a></li>
-						<li><a href="/apps/pbcs.dll/section?category=TOC">Issue Alert</a></li>
-						<li><a href="/apps/pbcs.dll/section?category=INREGULATORYALERT03" target="_self">IN Reg Alert</a></li>
+						<li><a href="/apps/pbcs.dll/section?category=INDAILY03" target="_self">InvestmentNews Daily</a></li>
+						<li><a href="/apps/pbcs.dll/section?category=TOC">Weekly Issue Alert</a></li>
+						<li><a href="/apps/pbcs.dll/section?category=INREGULATORYALERT03" target="_self">InvestmentNews Regulatory Alert</a></li>
 						<li><a href="/apps/pbcs.dll/section?category=INTechnologyNews03" target="_self">IN Tech</a></li>						
 						<li><a href="https://home.investmentnews.com/clickshare/myhome.do" target="_self">Subscribe</a></li>
 	</ul>
 </li> 
   <li class="events"><a href="/apps/pbcs.dll/section?template=EVENTS">EVENTS</a>
   <ul>
+						<li><a href="http://www.investmentnews.com/html/moss-adams/">Adviser Compensation Workshops</a></li>
 						<li><a href="#" target="_self" class="daddy">Awards</a>
 							<ul>
 								<li><a href="http://www.investmentnews.com/communityawards" target="_self">Community Leadership Awards</a></li>
-								<li><a href="/apps/pbcs.dll/section?category=RIIAAwards" target="_self">Retirement Income Communications Awards</a></li>
+								<li><a href="http://www.investmentnews.com/RIIAAward " target="_self">Retirement Income Communications Awards</a></li>
 								<li><a href="/apps/pbcs.dll/section?category=LIPPERFAMILY2009" target="_self">US Lipper Fund Family Award Winners</a></li>
 							</ul>
 						</li>
 						<li><a href="/apps/pbcs.dll/section?template=EVENTS" target="_self">Conference Calendar</a></li>
+						<li><a href="/etfinsights" target="_self">ETF Insights Online Conference</a></li>
 						<li><a href="http://www.investmentnews.com/indyworkshop" target="_self">Going Independent Workshop</a></li>
 						<li><a href="http://www.investmentnews.com/summit" target="_self">Retirement Income Summit</a></li>
 						<li><a href="/apps/pbcs.dll/qwikNavsearch?QwikNav=WEBCASTS" target="_self">Webcasts</a></li>
@@ -514,8 +440,8 @@ hbx.gpn="DBGP";
                           <td width="160" bgcolor="#FFFFFF">
 
                   	<div id="video-pic">
-																<a href="/wealthtrack" onmouseover="document.image.src='/assets/graphics/CI60188225.JPG'" onmouseout="document.image.src='/assets/graphics/CI60184225.JPG'" target="_blank">
-																				<img src="/assets/graphics/CI60184225.JPG" width="158" height="244" alt="Wealth Track" title="Wealth Track" name="image"></a>
+														<a href="/wealthtrack" onmouseover="document.image.src='/apps/pbcsi.dll/cceimg?Site=CI&amp;Module=21&amp;Class=21&amp;Type=WEALTHTRACK&amp;Date=20091026&amp;ID=2320904&amp;Element=2'" onmouseout="document.image.src='/apps/pbcsi.dll/cceimg?Site=CI&amp;Module=21&amp;Class=21&amp;Type=WEALTHTRACK&amp;Date=20091026&amp;ID=2320904&amp;Element=1'" target="_blank">
+<img src="/apps/pbcsi.dll/cceimg?Site=CI&amp;Module=21&amp;Class=21&amp;Type=WEALTHTRACK&amp;Date=20091026&amp;ID=2320904&amp;Element=1" width="158" height="244" alt="Wealth Track - Consuelo Mack" title="Wealth Track - Consuelo Mack" name="image"></a>
 													</div>
 <script language="JavaScript1.1" src="http://oas-central.realmedia.com/RealMedia/ads/adstream_jx.cgi/www.investmentnews.com/34159961307@Top1"></script>
 			
@@ -536,25 +462,35 @@ hbx.gpn="DBGP";
                                         <li><a href="https://home.investmentnews.com/clickshare/myhome.do">Sign-Up For Free e-Newsletters</a></li>
                                     </ul>
                                 </div>
+                                 <div class="h3">
+                                    Surveys
+                                </div>
+                                 <div class="Bullet">
+                                    <ul>
+                                        <li><a href="http://www.investmentnews.com/html/moss-adams/">2009 Moss Adams / InvestmentNews Adviser Compensation and Staffing Study</a></li>
+
+                                       
+                                    </ul>
+                                </div>
 
                                  <div class="h3">
                         Events
                          </div>
 
-                    <div class="Bullet">
-             <ul>
-                <li><a href="http://www.investmentnews.com/summit">2009 Retirement Income Summit</a></li>
+   <div class="Bullet">
+       <ul>       
+        <li><a href="/etfinsights">ETF Insights: An online conference for financial advisers</a></li>
+        <li><a href="/apps/pbcs.dll/article?AID=/20090817/MASTUDY/908189978">Adviser Compensation and Staffing Study Workshops</a></li>   
 				
 				<li><a href="/apps/pbcs.dll/qwikNavsearch?QwikNav=WEBCASTS">Webcasts</a>										
 						<ul class="subBullet">
-							<li><a href="/apps/pbcs.dll/article?AID=/20090406/STATIC/904069985">Practice Management Series - Part 1: Behavioral Finance</a></li>
-							<li><a href="/apps/pbcs.dll/article?AID=/20090408/STATIC/904089963">Surviving an SEC Audit after Madoff</a></li>
+							<li><a href="/apps/pbcs.dll/article?AID=/20091009/STATIC/310099998">RIA/Broker Model</a></li>
 						</ul>
 				</li>
 									
 				<li><a href="http://www.investmentnews.com/communityawards">Community Leadership Awards</a></li>
 				<li><a href="http://www.investmentnews.com/RIIAaward">Retirement Income Communications Award</a></li>
-				                
+        <li><a href="http://www.investmentnews.com/summit">2009 Retirement Income Summit</a></li>        
 			</ul>
 					</div>
 
@@ -564,8 +500,8 @@ hbx.gpn="DBGP";
 
                                 <div class="Bullet">
                                     <ul>
-                                    		<li><span style="color:#161862;font-weight:bold;font-size:11px;">NEW:</span> <a href="/apps/pbcs.dll/section?category=ETFCenter">ETF Center</a></li>
-                                    		 <li><a href="/apps/pbcs.dll/article?AID=/20081130/SPECIALREPORTINDEX/811259879">RIA Rundown</a></li>
+                                    		<li><a href="/apps/pbcs.dll/section?category=ETFCenter">ETF Center</a></li>
+                                    		 <li><a href="/apps/pbcs.dll/article?AID=/20090601/STATIC/906019985">Top RIA Rankings</a></li>
                                     		<li><a href="/apps/pbcs.dll/section?category=AdviserCommunity">IN Community</a></li>
                                     		<li><a href="/retirementcenter">Retirement Center</a></li>
                                         <li><a href="/apps/pbcs.dll/article?AID=/20090125/STATIC/901239985">Broker-Dealer Profiles</a></li>
@@ -597,9 +533,9 @@ hbx.gpn="DBGP";
 
 
 		
-                                <h1>
-                                    Privacy Policy
-                                </h1>
+                                <div id="heading">
+                                    <h1>Privacy Policy</h1>
+                                </div>
                                 
                                
 
@@ -608,8 +544,7 @@ hbx.gpn="DBGP";
 									<br><br>
 																	
 									<div class="b6">									
-										<i>InvestmentNews.com</i> is the Web site of<i> InvestmentNews</i>, a publication of the InvestmentNews Group, a business unit of Crain Communications Inc.  Our postal address is 711 Third Avenue, New York, NY 10017-4036.  We can be reached by e-mail at <a href="mailto:in_webmaster@investmentnews.com">in_webmaster@investmentnews.com</a> or by telephone at 212-210-0100.  Your use of our Web site indicates to us that you have read and accepted our Privacy Policy and our Terms and Conditions. <br><br>We have developed this Privacy Policy to advise subscribers and users of our products about our possible uses of information collected by us and to inform you on how to modify your marketing preferences.  This Privacy Policy is subject to change.  When we make any material change to this Privacy Policy, we will inform you by posting a notice on the home page of this site and by changing the date on this page noting when the Privacy Policy was last updated.<br><br>When you subscribe, register, make purchases or at other times, we collect and store personally identifiable information from you that may include your name, postal and e-mail addresses, credit card information, facts about your profession, company and responsibilities and information regarding your computer system. For each visitor to this Web site, our web server may automatically attempt to identify the user through a cookie set within your browser. This is done to provide access to the site. From time to time we may also track information, in aggregate, on pages and features that users access or view. The activity is collected and stored in our server's log files. Our email alerts utilize tracking technology that allows us to see how many newsletter e-mails are opened and the e-mail address of users who have clicked on a given story, feature or advertisement.  We use this information for internal purposes to measure the aggregate number of people who view a given newsletter item.<br><br>We may also set cookies to your computer to allow subscribers and users to store login information, set personalization and navigate easily through the site.   Additionally, through the use of an additional cookies or technology, we will have the ability to track users by their behavior profile and geographic location for the purpose of pushing advertising that matches their interests and/or specific location.  We may conduct online surveys and contests or generate content that is presented by aggregating activity of users on the site. These surveys and contests are entirely voluntary and you may decline to participate. <br><br>Information collected about subscribers and users may be used by us and our affiliates and partnering third-party companies to provide subscribers and users with the features of the site, to enable us to provide the products you requested, to personalize content and advertising, to send you e-mail notifications about our services and products, for audits, to perform statistical analysis of user behavior in order to measure interest in the various areas of our site (such as for product development purposes), to enforce our user agreement and to inform advertisers as to how many users have seen or "clicked" their advertising banners. We will disclose site usage information to third parties only in aggregate. <br><br>From time to time, we may make individual subscriber or user information available to carefully selected third parties to send you information through e-mail or postal mail about their products or services.  If you prefer not to have your personal information disclosed to third parties for direct marketing purposes, please send an e-mail stating this preference and including your full name and e-mail address to <a href="mailto:in_webmaster@investmentnews.com">in_webmaster@investmentnews.com</a> or, if you are a print subscriber, please call 1-800-678-9595.  Also, during the registration process, a user can indicate on the registration form that he or she does not wish to receive such marketing materials.  Registrants can opt out of future contact or change/correct personal information by altering the settings on the "EDIT PROFILE" page of this Web site.  We retain the right to contact a subscriber or registered user regarding account status, orders for products or services, changes to the registration agreement or to enforce our subscription agreement. <br><br>We will remove any registrant (and their personal information) from our database pursuant to a request from the registrant, including full name and e-mail address, to <a href="mailto:in_webmaster@investmentnews.com">in_webmaster@investmentnews.com</a>. You may not be able to fully access this Web site if you request removal of your personal information. <br><br>This Web site is operated in the United States.  If you are located in the European Union or elsewhere outside of the United States, please be aware that any information you provided to us will be transferred to the United States.  By using our Web site, participating in any of our services and/or providing us with your information, you consent to this transfer. <br><br>If you have any questions or concerns about the substance or implementation of this Privacy Policy, please contact the Crain Communications Inc Legal Department at <a href="mailto:privacyhelp@crain.com">privacyhelp@crain.com</a> or 313-446-6000.<br><br><br>Policy Last Updated:  January 1, 2005<br>
-
+										<i>InvestmentNews.com</i> is the Web site of<i> InvestmentNews</i>, a publication of the InvestmentNews Group, a business unit of Crain Communications Inc.  Our postal address is 711 Third Avenue, New York, NY 10017-4036.  We can be reached by e-mail at <a href="mailto:in_webmaster@investmentnews.com">in_webmaster@investmentnews.com</a> or by telephone at 212-210-0100.  Your use of our Web site indicates to us that you have read and accepted our Privacy Policy and our Terms and Conditions. <br><br>We have developed this Privacy Policy to advise subscribers and users of our products about our possible uses of information collected by us and to inform you on how to modify your marketing preferences.  This Privacy Policy is subject to change.  When we make any material change to this Privacy Policy, we will inform you by posting a notice on the home page of this site and by changing the date on this page noting when the Privacy Policy was last updated.<br><br>When you subscribe, register, make purchases or at other times, we collect and store personally identifiable information from you that may include your name, postal and e-mail addresses, credit card information, facts about your profession, company and responsibilities and information regarding your computer system. For each visitor to this Web site, our web server may automatically attempt to identify the user through a cookie set within your browser. This is done to provide access to the site. From time to time we may also track information, in aggregate, on pages and features that users access or view. The activity is collected and stored in our server's log files. Our email alerts utilize tracking technology that allows us to see how many newsletter e-mails are opened and the e-mail address of users who have clicked on a given story, feature or advertisement.  We use this information for internal purposes to measure the aggregate number of people who view a given newsletter item.<br><br>We may also set cookies to your computer to allow subscribers and users to store login information, set personalization and navigate easily through the site.   Additionally, through the use of an additional cookies or technology, we will have the ability to track users by their behavior profile and geographic location for the purpose of pushing advertising that matches their interests and/or specific location.  We may conduct online surveys and contests or generate content that is presented by aggregating activity of users on the site. These surveys and contests are entirely voluntary and you may decline to participate. <br><br>Information collected about subscribers and users may be used by us and our affiliates and partnering third-party companies to provide subscribers and users with the features of the site, to enable us to provide the products you requested, to personalize content and advertising, to send you e-mail notifications about our services and products, for audits, to perform statistical analysis of user behavior in order to measure interest in the various areas of our site (such as for product development purposes), to enforce our user agreement and to inform advertisers as to how many users have seen or "clicked" their advertising banners. We will disclose site usage information to third parties only in aggregate. <br><br>From time to time, we may make individual subscriber or user information available to carefully selected third parties to send you information through e-mail or postal mail about their products or services.  If you prefer not to have your personal information disclosed to third parties for direct marketing purposes, please send an e-mail stating this preference and including your full name and e-mail address to <a href="mailto:in_webmaster@investmentnews.com">in_webmaster@investmentnews.com</a> or, if you are a print subscriber, please call 1-800-678-9595.  Also, during the registration process, a user can indicate on the registration form that he or she does not wish to receive such marketing materials.  Registrants can opt out of future contact or change/correct personal information by altering the settings on the "EDIT PROFILE" page of this Web site.  We retain the right to contact a subscriber or registered user regarding account status, orders for products or services, changes to the registration agreement or to enforce our subscription agreement. <br><br>We will remove any registrant (and their personal information) from our database pursuant to a request from the registrant, including full name and e-mail address, to <a href="mailto:in_webmaster@investmentnews.com">in_webmaster@investmentnews.com</a>. You may not be able to fully access this Web site if you request removal of your personal information. <br><br>This Web site is operated in the United States.  If you are located in the European Union or elsewhere outside of the United States, please be aware that any information you provided to us will be transferred to the United States.  By using our Web site, participating in any of our services and/or providing us with your information, you consent to this transfer. <br><br>If you have any questions or concerns about the substance or implementation of this Privacy Policy, please contact the Crain Communications Inc Legal Department at <a href="mailto:privacyhelp@crain.com">privacyhelp@crain.com</a> or 313-446-6000.<br><br><br>Policy Last Updated:  January 1, 2005
 									</div>
 								</div>
 															
@@ -689,8 +624,8 @@ hbx.gpn="DBGP";
 					<br><br>
                                		
                                		<span class="b5">Subscriber Services:&nbsp;</span>
-	                                <a href="https://sec.crain.com/IN/QuickOrder.aspx?PromotionCode=W8INWBN" rel="nofollow">Subscribe</a> |
-	                                <a href="https://sec.crain.com/IN/LaunchPad.aspx?d=Renew&amp;p=W8INWBR" rel="nofollow">Renew</a> | 
+	                                <a href="https://sec.crain.com/IN/QuickOrder.aspx?PromotionCode=W9INWBN" rel="nofollow">Subscribe</a> |
+	                                <a href="https://sec.crain.com/IN/LaunchPad.aspx?d=Renew&amp;p=W9INWBR" rel="nofollow">Renew</a> | 
 					<a href="https://sec.crain.com/IN/Login.aspx?ReturnUrl=/IN/Customers/SiteSubscriptions.aspx" rel="nofollow">Subscription Status</a> | 
 					<a href="https://sec.crain.com/IN/Login.aspx?ReturnUrl=/IN/Customers/OpenInvoices.aspx" rel="nofollow">Pay an Invoice</a> | 
 					<a href="https://sec.crain.com/IN/Login.aspx?ReturnUrl=/IN/Customers/ChangeAddress.aspx" rel="nofollow">Change Mail Address</a>
@@ -714,8 +649,7 @@ hbx.gpn="DBGP";
 
 	                                <span class="b5">
 	                                     Copyright © 2009 <a href="http://www.crain.com" target="_blank">Crain Communications Inc.</a><br>
-	                                    Use of editorial content without permission is strictly prohibited. All rights reserved. 711 Third Ave., 3rd Floor, New York, NY 10017<br><br>
-	                                    Site Design by <a href="http://www.karenmorstad.com" rel="nofollow">Karen Morstad &amp; Associates.</a>
+	                                    Use of editorial content without permission is strictly prohibited. All rights reserved. 711 Third Ave., 3rd Floor, New York, NY 10017
 	                                    </span><br><br>
 	                                                                   </div>
                                 
@@ -812,5 +746,7 @@ urchinTracker();
 
 
     </div>
+
+
 
 </body></html>
