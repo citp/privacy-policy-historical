@@ -1,153 +1,178 @@
-> *The following text is extracted and transformed from the wallmart.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212115237id_/http%3A//www.networksolutions.com/legal/privacy-policy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallmart.com privacy policy that was archived on 2009-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091110233213id_/http%3A//www.wallmart.com/catalog/catalog.gsp%3Fcat%3D121240) for the most accurate reproduction.*
 
-# Service Agreement | Network Solutions
+# Walmart.com: Help: Full Privacy Policy
 
-Updated September 30, 2004
+Privacy Policy
 
-Version 2.4
+Walmart recognizes the importance of information privacy. We believe that privacy is more than an issue of compliance – it is one of trust. We strive to manage your personal information in accordance with our basic belief of respect for the individual. This policy describes: 
 
-#### Privacy Topics
+  * How and why we collect your personal information.
+  * How your information is used and protected.
+  * When and with whom we share your information.
+  * The choices you can make about how we collect, use, and share your information.
 
-  * Why A Privacy Policy?
-  * Getting to Know our Customers
-  * Third Party Advertising and Cookies
-  * Information Corrections or Changes
-  * How We Put Information to Good Use
-  * With Whom We May Share Information
-  * How Do I Get My Name Removed from Bulk Access
-  * Our Accountability to You
-  * Employee Accountability
-  * The Accountability of Network Solutions' Agents and Business Partners
-  * Notification of Changes
 
 
+We do not sell or rent your personal information to third parties. If you have any questions about our privacy policy, please contact us as described in the section entitled “Contact Us” below. 
 
-#### Why A Privacy Policy?
+### Notice and Scope of Our Privacy Practices
 
-Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
+Walmart provides customers with clear, prominent, and easily accessible information about its privacy practices. This policy applies to Walmart operations, both in stores and online, in the United States and Puerto Rico. Examples include Walmart, Supercenters, Neighborhood Markets, and Walmart.com. Sam's Club has its own privacy policy for its members. Read more about the [Sam's Club Privacy Policy](http://www.samsclub.com/privacy). 
 
-#### This Privacy Policy protects your privacy by:
+### Our Pledge of Accountability
 
-#### Informing you about:
+Walmart expects our associates and business partners to manage your personal information properly and maintain your trust. We are accountable for complying with this policy and take reasonable and timely steps to ensure compliance. 
 
-  * The types of personal information Network Solutions collects about you through its Web sites;
-  * How it collects that information;
-  * The general purposes for which it collects such information;
-  * The types of organizations to which it discloses the information;
-  * The choices and means by which individuals may limit its use and disclosure.
+### Information We Collect
 
+We collect personal information about you to deliver the products and services you request and to help improve your shopping experience. We do this using lawful and fair methods. We strive to limit the amount of personal information collected to support the intended purpose of the collection. Information You Give Us We collect personal information from you in a variety of ways when you interact with Walmart, both in stores and online. Some examples are when you: 
 
+  * Create an account on one of our websites;
+  * Make an online or in-store purchase from us;
+  * Use a gift registry;
+  * Request check cashing, apply for credit, or purchase certain financial products;
+  * Conduct a transaction where we collect information required by law (such as the sale of pseudoephedrine);
+  * Request customer service or contact us;
+  * Submit a Walmart related story or testimonial;
+  * Participate in a contest, sweepstake, promotion, or survey; or
+  * Otherwise submit personal information to us.
 
-#### Empowering you to choose:
 
-  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and
-  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it).
 
+Personal information is information that identifies you specifically. The personal information we collect may include contact and payment information like your name, email and physical addresses, phone numbers, and credit and debit card numbers. When you ask us to ship an order, we may collect information you provide us such as the name, address, and phone number of recipients. We may collect your Social Security Number where required for certain transactions, such as to purchase firearms, or to help provide credit or other financial products and services. Information from Other Sources We may receive personal information about you from other sources as well. Examples of these sources are entities that can help us correct our records, improve the quality or personalization of our service to you, and help prevent or detect fraud. In addition, we may collect information from consumer reporting agencies, affiliates, or other service providers if you apply for credit or purchase certain financial products. Automated Information Collection We receive and store certain types of information when you interact with our websites, emails, and online advertising. Our purpose is to allow the websites to work correctly, to evaluate use of the website, and to support website analytics and marketing campaigns. Some examples include: 
 
+  * We may collect technical information such as your internet protocol address, your computer's operating system and browser type, the address of a referring website, if any, and the path you take through our web pages.
+  * We use “cookies” to recognize you as you use or return to our sites. This is done so that we can provide a continuous and more personalized shopping experience for you. A cookie is a small text file that a website or email may save to your browser and store on your hard drive.
+  * We may also use web beacons. Beacons allow us to know if a certain page was visited, an email was opened, or if ad banners on our website and other sites were effective.
 
-#### Assuring you that Network Solutions:
 
-  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction;
-  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered;
-  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and
-  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate.
 
+We operate cameras in stores for security and operational purposes, such as to measure traffic patterns. When used for operational purposes, we do not use these cameras to identify you personally. 
 
+### How We Use Your Information
 
-**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles.
+Walmart uses your information to provide requested products and services and to support core business functions. These include fulfillment, internal business processes, marketing, authentication and fraud prevention, and public safety and legal functions. Some examples include: 
 
-#### Getting to Know Our Customers
+  * To fulfill your requests for products and services and communicate with you about those requests;
+  * To register and service your account;
+  * To administer surveys, sweepstakes, contests, and promotions;
+  * To provide customer service and alert you to product information, including recalls;
+  * To help us improve and customize our service offerings, websites, and advertising;
+  * To send you information about our products, services and promotions;
+  * To protect the security or integrity of our websites and our business; and
+  * With regard to credit qualification and applications.
 
-Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
 
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at [www.networksolutions.com](https://web.archive.org/web/20051212115237id_/http%3A//www.networksolutions.com/legal/www.networksolutions.com;jsessionid=N3RH0B5WOWFYOCWMEAPSFEQ) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
 
-After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
+To accomplish these purposes, we may combine personal and non-personal information we collect online with offline information, including information from third parties. We may also share your information within our family of corporate affiliates, including Sam's Club, to accomplish these and our affiliates' purposes. However, we do not share with affiliates information that you provide to purchase a financial product or service like check cashing, money orders, money transfers, or bill pay. 
 
-For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
+### How We Share Your Information Outside Walmart
 
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates.
+Walmart does not sell or rent your personal information to third parties. We may share your personal information, whether you are a current or former customer, only under the following limited circumstances. Service Providers We may share information about you with service providers or suppliers that help with our business operations. Examples are shipping vendors, billing and refund vendors, credit card processors, and companies that help us improve our product and service offerings and our websites. We require these service providers and suppliers to keep the information secure. We also prohibit them from using your information for any purposes other than those requested by us. Credit Applications If you apply for a Walmart credit card, such as a co-branded or private label card, we may share your information with the financial institution(s) that we partner with to offer the credit card. Our partner may only use the information you give to us to provide the credit card. Similarly, if you qualify for a credit account and are not offered credit by Walmart, we may share your information with our partner so that they may extend the offer of credit as required by law. Legal Requirements and Protection of Our Company and Others We may share your information in other special circumstances. These include situations when we believe in good faith that the law requires it or that the sharing is necessary to protect the safety, property, or other rights of Walmart, our customers, our associates, or any other person. Examples include protecting the health or safety of customers, or addressing crimes committed on Walmart property. Data from in-store security cameras may also be provided to law enforcement upon written request. Marketing Purposes Based only on your express consent, we may share information with carefully selected vendors who may offer you products and services of interest. You may opt-in to this sharing under the “Your Choices” section below. Aggregate Information We may share aggregate and statistical data that does not identify you personally. We may do this for research and marketing purposes, for instance to describe our services to prospective partners or advertisers, and for other lawful purposes. Business Transfers In the unlikely event that Walmart or substantially all of its assets are acquired by an unrelated third party, your personal information may be one of the transferred assets. 
 
-#### Third Party Advertising and Cookies
+### Your Choices
 
-We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit <http://www.doubleclick.net/us/corporate/privacy>.
+Marketing Preferences We want to communicate with you in ways you want to hear from us. Examples are newsletters, special offers, and new product announcements. We use the following standards for marketing communications: 
 
-Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click [here](http://www.privacychoices.org/ "http://www.privacychoices.org/").
+  * We use an opt-in standard for phone and text messages. We also use an opt-in standard for sharing information with third parties for marketing purposes. Opt-in means we will only conduct the activity with your express consent.
+  * We use an opt-out standard for all other communications. Opt-out means we will conduct the activity unless you tell us not to.
 
-#### Information Corrections or Changes
 
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at <https://www.networksolutions.com/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com).
 
-#### How We Put Information to Good Use
+You can provide us your marketing preferences by visiting the [Privacy Preference Center](https://web.archive.org/privacypreferences). The Preference Center allows you to update or change your preferences about receiving marketing materials at any time. 
 
-We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
+Or you may contact us as described in the Contact Us section below. 
 
-We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
+If you contact us by email or mail, please be sure to include your full name, the types of communications you would like to receive or not receive, and your related contact information. For instance, if you would like to opt-out of mail, include your mailing address. 
 
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
+Please allow sufficient time for your preferences to be processed. It may take up to 10 days to process your requests related to email and 4-6 weeks for other requests. You can also change your mind about your marketing preferences. To do so, you can visit the [Privacy Preference Center](https://web.archive.org/privacypreferences) or contact us at one of the above addresses. 
 
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
+Please be aware that, even if you have opted out of receiving marketing communications from us, we may still contact you for transactional purposes. Some examples are contacts for customer service, product information, service or reminder notices, or recalls. We may also need to contact you with questions or information regarding your order, such as regarding order status, shipment, or refunds. Credit offerings The above marketing preferences do not apply to our credit card offerings since these are provided through our financial institution partner(s). However, you can choose to stop receiving prescreened offers of credit from all companies, including our prescreened offers, by calling 1-888-567-8688 or by going to [www.optoutprescreen.com](http://www.optoutprescreen.com/). Online Operations and Advertising You may exercise choices related to our online operations and advertising. For instance, you can choose to browse our websites without accepting cookies. Please know that cookies allow us to recognize you from page to page, and they support your transactions with us. Without cookies enabled, you will still be able to browse our websites, but will not be able to complete a purchase or take advantage of certain website features. 
 
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
+To learn more about cookies, including how to refuse cookies on your computer, follow these links: 
 
-#### With Whom We May Share Information
+  * [Microsoft Internet Explorer](http://www.microsoft.com/info/cookies.htm)
+  * [Netscape Navigator](http://wp.netscape.com/legal_notices/cookies.html)
+  * [Mozilla Firefox](http://www.mozilla.org/support/firefox/options#privacy)
+  * [Apple Safari](http://www.apple.com/support/safari/)
+  * [All About Cookies](http://www.allaboutcookies.org/cookies/)
 
-Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
 
-When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name.
 
-We may share certain information about you with those of our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share sensitive financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors where necessary and appropriate, we will not share such information with other third parties, except in response to formal requests (e.g., subpoena or court order) made in connection with litigation, arbitration, or criminal proceedings directly relating to a domain name registration or other services we provide, or as directed by you or your agent.
+You may also opt-out of certain online advertising. Walmart.com participates in an ad network for some of the advertising found on the site. The ad network allows us to display advertisements that are tailored to your browsing interests on our websites and other sites. It also allows us to avoid sending you duplicate ads and to control the frequency of the ads you see. Walmart uses one or more partners to participate in the ad network. The partners use cookies, web beacons, or similar technologies to display these advertisements. We do not permit our ad serving partners to collect personal information about you on our websites. Rather, we provide them non-personal information about you such as browsing information like types of pages viewed and categories of interests. Our partners may use this information, as well as information they have collected when you are on other sites within their network, to help select which ads to display. We or our partners only retain ad network data for legitimate business purposes. [Learn more about ad network business practices and the privacy policies of our partners](https://web.archive.org/cservice/contextual_help_popup.gsp?modId=971879). The information includes how to opt-out of participating in ad networks in this manner. 
 
-Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
+### How to Access and Update Your Information
 
-  1. Log into Account Manager at [www.networksolutions.com](https://web.archive.org/web/20051212115237id_/http%3A//www.networksolutions.com/legal/www.networksolutions.com;jsessionid=N3RH0B5WOWFYOCWMEAPSFEQ "www.networksolutions.com");
-  2. Click “Edit User Info” in the left menu;
-  3. Scroll to the bottom of the page;
-  4. Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and
-  5. Click “SAVE.”
+Walmart takes reasonable steps to keep your personal information accurate and complete, so we can treat your information properly and effectively under this policy. You can access or update your information, including contact or account information, in the following ways: 
 
+  * If you have created an account on one of our websites, log into your account. Once you do, you will be able to enter and update your own contact information and payment information, as well as contact information for recipients you have designated.
+  * Contact us at the email or postal address listed in the “Contact Us” section of this policy. Please include your current contact information, the information you are interested in accessing, and your requested changes. We will provide you the information requested if reasonably available, or will describe the types of information we typically collect. We will make changes you request or will provide an explanation of what actions we will be able to take with regard to the request.
+  * If you need help accessing your information related to a financial product offered by a Walmart partner, we will assist you with that request if you contact us via the “Contact Us” section below.
+  * If you need assistance with your Optical or Pharmacy information, please visit the Pharmacy or Optical section below for instructions on accessing these records.
 
 
-Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
 
-#### How Do I Get My Name Removed from Bulk Access
+### How We Secure Your Information
 
-As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
+Securing your information is a company priority. Whether you are shopping online or in our stores, we use reasonable security measures to protect the confidentiality of personal information. When we do have to collect your most private personal information, such as Social Security Numbers, we will protect its confidentiality, prohibit its unlawful disclosure, and limit access to authorized personnel only. Online Protections Your account information is protected by the password you use to access your online account. Please keep this password confidential. We also use an encryption technology called Secure Sockets Layer (SSL). When you enter a secure portion of a website, you will see https (instead of http) in the address bar, and an image of a closed lock or a solid key should appear in the address bar or bottom bar of your browser window. If you click on this image, website security information will appear. This indicates that your personal information is transmitted in encrypted form, not to some unknown or unauthorized server. Walmart.com has also obtained a digital certificate from Verisign, Inc., a leading provider of Internet trust services. Hard Copy and Electronic Storage Protections Personal information that is maintained in our offices or stores is subject to physical, administrative, and technical controls as well. Hard copies of private information are maintained in locked locations or cabinets with similar restrictions for electronic storage of private information. When disposed of, the information is shredded, destroyed, erased, or otherwise made unreadable. 
 
-  1. Log into Account Manager at [www.networksolutions.com](https://web.archive.org/web/20051212115237id_/http%3A//www.networksolutions.com/legal/www.networksolutions.com;jsessionid=N3RH0B5WOWFYOCWMEAPSFEQ "www.networksolutions.com");
-  2. Click “Edit User Info” in the left menu;
-  3. Scroll to the bottom of the page;
-  4. Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and
-  5. Click “SAVE.”
+### Privacy Protections for Specific Types of Information
 
+Pharmacy and Optical Departments When you use our Pharmacies or Vision Centers, you may provide us with your health information so that we may process your request. We understand the sensitive nature of such information and respect your privacy by keeping it confidential. This includes complying with federal law (the Health Insurance Portability & Accountability Act or HIPAA) and applicable state laws. Our Notice of Privacy Practices describes how we protect your information maintained by our Pharmacies and Vision Centers, and how you can access your records. A copy of the Notice of Privacy Practices is available online by visiting [Pharmacy](https://web.archive.org/catalog/catalog.gsp?cat=538447&fromPageCatId=538446&catNavId=538446) or [Vision Center](https://web.archive.org/catalog/catalog.gsp?cat=538450&fromPageCatId=538446&catNavId=538446). A copy of the Notice is also provided to you by the Pharmacy or Vision Center at the first time of service, or can be requested at any time at your local Walmart. Financial Products and Services As you use Walmart financial products and services, the privacy of your personal information is protected under the federal Gramm-Leach-Bliley Act (GLB) and applicable state laws. Your personal information is protected whether you are a current or former customer. These financial products and services include money orders, money transfers, credit card offerings, bill payment, and check cashing. 
 
+Walmart provides you check cashing services directly. This privacy policy describes how we collect, use, disclose, and protect your information related to this service. 
 
-#### Our Accountability to You
+For all other services, we serve as an agent for suppliers to offer you financial products and services. Even though we are an agent for these services, we work with our partners to ensure they provide appropriate privacy policies and protections. Below is the list of our financial services partners, along with a link to their privacy policies: 
 
-By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
+  * Credit Cards offered through [GE Money Bank](https://www.onlinecreditcenter2.com/walmartstorecard/csgen2w2/WFWprivacy.htm)
+  * Money Transfers, Money Orders, and Express Bill Pay offered through [MoneyGram](http://www.moneygram.com/MGICorp/Legal/PrivacyPolicy/index.htm)
+  * Money Card offered through [Green Dot and GE Money](https://www.walmartmoneycard.com/AcctMgmt/Controls/Walmart/Support/CardholderAgreement.aspx?siteid=walmart)
+  * Bill Payment offered through [CheckFreePay](http://www.checkfreepay.com/walmartprivacynotice)
 
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below.
 
-#### Employee Accountability
 
-Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
+We also protect the credit or debit card information we collect during transactions. We comply with industry requirements known as the Payment Card Industry Data Security Standards (PCI Standards). These standards require safeguards for handling and securing customer information. These include using secure networks; encryption or other protection of cardholder data; physical and technical access controls; monitors and tests of security systems; and information security policies. 
 
-Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access.
+### Privacy of Children Online
 
-#### The Accountability of Network Solutions' Agents and Business Partners
+We are committed to protecting children's online privacy. In order to protect children's personal information, and to meet the standards of the Children's Online Privacy Protection Act (COPPA), we do not knowingly collect personally identifiable information from children under the age of 13 on Walmart websites without prior parental consent. 
 
-Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
+Walmart.com is a general audience website not geared towards children. In several areas of Walmart.com, such as when customers contact us via email, create a Walmart.com account, or sign up for e-mail newsletters and alerts, we ask for birth year information. We ask for this to help us ensure that children do not provide us personal information on the site. Please contact us at the email or postal address provided in the “Contact Us” section of this policy if you believe we may have collected information from your child and we will work to delete it. 
 
-If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at [privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
+### International
 
-Network Solutions, LLC  
-Attention: General Counsel  
-13200 Woodland Park Drive  
-Herndon, VA 20171  
-(703) 668-4600 
+As a global company, Walmart has separate privacy policies for its international offices. When you give us personal information on a website or in a store, the information may be sent to servers outside of the country where you provided the information. Walmart takes steps to ensure that your information is treated securely and in accordance with this privacy policy or any privacy policy that applies to a Walmart international site or store where you provided your information. 
 
-#### Notification of Changes
+### Changes to the Walmart Privacy Policy
 
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to [privacy@networksolutions.com](mailto:privacy@networksolutions.com).
+Please check our privacy policy periodically for changes. We will also notify you of significant updates and will post the date it was last updated at the bottom of the privacy policy. 
 
-**If you have any questions regarding this Privacy Policy, please contact[privacy@networksolutions.com](mailto:privacy@networksolutions.com).**
+### Contact Us
+
+Please feel free to contact us with any questions or comments about this policy or about how your information is handled. You can contact us via the addresses below: 
+
+#### E-mail:
+
+[Privacy@wal-mart.com](mailto:privacy@wal-mart.com "mailto:privacy@wal-mart.com")
+
+#### Mail:
+    
+    
+    Walmart Corporate
+    Privacy Office, MS #505
+    508 SW 8th Street
+    Bentonville, AR 72716-0505
+    
+
+### Your California Privacy Rights
+
+Our privacy policy describes how we share information for marketing purposes. The policy and rights apply to all customers, including California residents: 
+
+  * We share information with others outside of Walmart only if we have your express consent (opt-in). See How We Share Your Information Outside Walmart.
+  * We also share information with other businesses within our corporate family, such as Sam's Club. See How We Use Your Information.
+
+
+
+Please contact us with any questions, or to request a list of third parties to whom we may disclose information for marketing purposes and the categories of information we may disclose, via the Contact Us section above. 
+
+Effective: August 23, 2009
