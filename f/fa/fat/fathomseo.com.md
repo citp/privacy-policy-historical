@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fathomseo.com privacy policy that was archived on 2009-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090129132047id_/http%3A//www.fathomseo.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fathomseo.com privacy policy that was archived on 2009-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091110233151id_/http%3A//www.fathomseo.com/Privacy.asp) for the most accurate reproduction.*
 
 # Fathom SEO Privacy Policy
 
