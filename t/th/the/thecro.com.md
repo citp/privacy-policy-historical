@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecro.com privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428150122id_/http%3A//www.thecro.com/%3Fq%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecro.com privacy policy that was archived on 2009-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091110131743id_/http%3A//www.thecro.com/%3Fq%3Dprivacy_policy) for the most accurate reproduction.*
 
 # The CRO Privacy Policy | the CRO
 
