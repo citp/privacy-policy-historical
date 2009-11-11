@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wannabebig.com privacy policy that was archived on 2009-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090507191341id_/http%3A//www.wannabebig.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wannabebig.com privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111103158id_/http%3A//www.wannabebig.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wannabebig
 
