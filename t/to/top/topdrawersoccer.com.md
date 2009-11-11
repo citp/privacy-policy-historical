@@ -1,24 +1,14 @@
-> *The following text is extracted and transformed from the topdrawersoccer.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616131638id_/http%3A//www.topdrawersoccer.com/component/option%2Ccom_topdrawer/Itemid%2C251/nid%2C2835) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topdrawersoccer.com privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111130340id_/http%3A//www.topdrawersoccer.com/content/nid-2835) for the most accurate reproduction.*
 
 # TopDrawerSoccer.com, Articles
 
-|   
----  
-  
-Written by United States Football Club, LLC
-
-March 18, 2008 
-
-|  [ ](http://www.topdrawersoccer.com/index2.php?option=com_content&do_pdf=1&id=2835 "PDF")    
-   
-  
 ## TopDrawerSoccer.com Website Privacy Statement
 
 This document was last updated on 12.05.2008.
 
   1. **ACKNOWLEDGEMENT AND ACCEPTANCE OF TERMS**
 
-TopDrawerSoccer.com is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing TopDrawerSoccer.com, you acknowledge and fully understand TopDrawerSoccer.com’s Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
+TopDrawerSoccer.com is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing TopDrawerSoccer.com, you acknowledge and fully understand TopDrawerSoccer.com's Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
 
   
 
@@ -80,11 +70,11 @@ Some of these Web beacons may be placed by third party service providers to help
 
   5. **ACCESSING WEB ACCOUNT INFORMATION**
 
-We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant [topdrawersoccer@usfcsoccer.com.](mailto:topdrawersoccer@usfcsoccer.com.)
+We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant [topdrawersoccer@usfcsoccer.com](mailto:topdrawersoccer@usfcsoccer.com) .
 
   6. **CHANGES TO THIS STATEMENT**
 
-TopDrawerSoccer.com has the discretion to occasionally update this privacy statement. When we do, we will also revise the “updated” date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
+TopDrawerSoccer.com has the discretion to occasionally update this privacy statement. When we do, we will also revise the "updated" date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
 
   7. **CONTACTING US**
 
@@ -96,12 +86,4 @@ If you have questions regarding our Privacy Statement, its implementation, failu
 TopDrawerSoccer.com  
 **Attention: Privacy Statement Personnel**  
 444 West Ocean Blvd., Suite 1070, Long Beach, CA 90802  
-TopDrawerSoccer.com will use commercially reasonable efforts to promptly respond and resolve any problem or question.   
-  
-|   
----  
-|  Customize your Game! Adidas f50 Tunit - Navy
-
-$152.99  
-  
-[ ](http://www.elitesoccershop.com/9999m42250811.html) [ ](http://www.elitesoccershop.com/9999m42250811.html)
+TopDrawerSoccer.com will use commercially reasonable efforts to promptly respond and resolve any problem or question. 
