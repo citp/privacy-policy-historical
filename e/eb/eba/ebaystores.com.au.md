@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebaystores.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216090800id_/http%3A//pages.ebay.com.au/help/policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebaystores.com.au privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111234824id_/http%3A//pages.ebay.com.au/help/policies/privacy-policy.html) for the most accurate reproduction.*
 
 # eBay Privacy Policy
 
@@ -44,13 +44,13 @@ For a chart showing what information we collect from or about you, and for who h
 
 ### Our Use of Your Information
 
-We use personal information about you (including but not limited to the information in the file we maintain about you, and other information we obtain from your current and past activities on the Site) to resolve disputes, troubleshoot problems, help ensure safe trading on our Site, and enforce our User Agreement. At times, we may look across multiple users to identify problems or resolve disputes, and in particular we may examine your information to identify users using multiple User IDs or aliases.We may also share your information with our parent companies, affiliates, subsidiaries and joint ventures to help coordinate the services we provide to you, enforce our terms and conditions, prevent fraud and promote trust and safety and allow eBay and these related companies to provide better customer service to joint customers. Some of these related companies are outside of Australia, including eBay Inc. (in the USA), eBay CS Vancouver Inc. (in Canada), PayPal Singapore (Private) Limited (in Singapore) and PayPal, Inc. (in the USA). By accepting this Privacy Policy you are consenting to the transfer of your personal information to the entities described in this section in accordance with this Privacy Policy.
+We use personal information about you (including but not limited to the information in the file we maintain about you, and other information we obtain from your current and past activities on the Site) to resolve disputes, troubleshoot problems, help ensure safe trading on our Site, and enforce our User Agreement. At times, we may look across multiple users to identify problems or resolve disputes, and in particular we may examine your information to identify users using multiple User IDs or aliases.We may also share your information with our parent companies, affiliates, subsidiaries and joint ventures to help coordinate the services we provide to you, enforce our terms and conditions, prevent fraud and promote trust and safety and allow eBay and these related companies to provide better customer service to joint customers. Some of these related companies are outside of Australia, including eBay Inc. (in the USA), PayPal Singapore (Private) Limited (in Singapore) and PayPal, Inc. (in the USA). By accepting this Privacy Policy you are consenting to the transfer of your personal information to the entities described in this section in accordance with this Privacy Policy.
 
 If you choose to list an item for sale on our Site or open a credit account, we use your address and billing information to bill you and provide associated support. 
 
 You agree that we may use personal information about you to improve our marketing and promotional efforts, to analyse site usage, to improve our content and product offerings and customise our Site's content, layout, and services. These uses improve our Site and better tailor it to meet your needs, so as to provide you with a smooth, efficient, safer and customised experience while using our services. You expressly agree, until you notify us otherwise, to us contacting you by telephone to offer you promotions or information on behalf of us or our related entities including PayPal. 
 
-You agree that we may use your information to contact you and deliver information to you that, in some cases, is targeted to your interests, such as targeted banners, administrative notices, product offerings, and communications relevant to your use of the Site. By accepting the User Agreement and Privacy Policy you expressly agree to receive this information. If you do not wish to receive these communications, we encourage you to opt-out of the receipt of certain communications on the [notification preferences](http://cgi4.ebay.com.au/ws/eBayISAPI.dll?OptinLoginShow) page. You may make changes to your notification preferences page at any time. You can remove yourself from receiving some of this information by changing the appropriate option on the preferences page. 
+You agree that we may use your information to contact you and deliver information to you that, in some cases, is targeted to your interests, such as targeted banners, administrative notices, product offerings, and communications relevant to your use of the Site. By accepting the User Agreement and Privacy Policy you expressly agree to receive this information. If you do not wish to receive these communications, we encourage you to opt-out of the receipt of certain communications on the [communication preferences](http://cgi4.ebay.com.au/ws/eBayISAPI.dll?OptinLoginShow) page. You may make changes to your communication preferences page at any time. You can remove yourself from receiving some of this information by changing the appropriate option on the preferences page. 
 
 ### Our Disclosure of Your Information
 
@@ -111,9 +111,7 @@ Following registration, you can review and change the information you submitted 
 
   * [Your password](http://cgi4.ebay.com.au/ws/eBayISAPI.dll?ChangePasswordAndCreateHint) (if you have supplied such information).. 
 
-  * [Your credit card number and expiration date, and other financial information](https://arbd.ebay.com.au/ws/eBayISAPI.dll?SetupCCPayment). 
-
-
+  * 
 
 
 You must promptly update your personal information if it changes. Once posted, you cannot change or remove any public postings made in our chat rooms or other message areas or the feedback area. 
@@ -132,4 +130,4 @@ Your Information is stored on eBay Inc.'s server located in the United States. W
 
 ### Notice
 
-We may change this Privacy Policy from time to time based on your comments and our need to accurately reflect our data collection and disclosure practices. All changes to this policy are effective after we provide you with at least thirty (30) days' notice of the changes by posting the changes on the announcements board and sending email to users who select such [notification preference](http://cgi4.ebay.com.au/ws/eBayISAPI.dll?OptinLoginShow) We provide you with thirty (30) days notice to allow you the opportunity to notify eBay if you do not agree to such changes as described in [Section 8](http://pages.ebay.com.au/help/policies/privacy-policy.html#change_info). 
+We may change this Privacy Policy from time to time based on your comments and our need to accurately reflect our data collection and disclosure practices. All changes to this policy are effective after we provide you with at least thirty (30) days' notice of the changes by posting the changes on the announcements board and sending email to users who select such [communication preference](http://cgi4.ebay.com.au/ws/eBayISAPI.dll?OptinLoginShow) We provide you with thirty (30) days notice to allow you the opportunity to notify eBay if you do not agree to such changes as described in [Section 8](http://pages.ebay.com.au/help/policies/privacy-policy.html#change_info). 
