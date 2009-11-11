@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vindy.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615193442id_/http%3A//www.vindy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vindy.com privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111044852id_/http%3A//www.vindy.com/privacy) for the most accurate reproduction.*
 
-# Vindy.com - Vindy.com - Privacy Policy
+# Vindy.com - The Vindicator Web Site Privacy Policy
 
 **Please read this entire notice.**   The purpose of our privacy policy is to inform you that we do collect certain kinds of information about your use of Vindy.com and Vindicator.com (for purposes of this Policy, these shall be called “the Sites”); what kinds of information we gather; how we may use that information; whether we disclose it to anyone; and the choices you have regarding our use of, and your ability to correct, the information.   The Vindicator Printing Company (referred to as “The Vindicator” in this policy) owns and operates the Sites.
 
