@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fretplay.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621030631id_/http%3A//www.fretplay.com/privacy-statement-) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fretplay.com privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111200632id_/http%3A//www.fretplay.com/privacy-statement-) for the most accurate reproduction.*
 
-# Privacy statement
+# fretplay.com - Privacy statement
 
 Sem Hadland AS is the sole owner of the information collected on Fretplay.com. Fretplay.com collects information from our users at several different points on our Web site. 
 
@@ -81,6 +81,3 @@ Markveien 2
 Norway 
 
 [_sem(a)fretplay.com_](mailto:sem\(a\)fretplay.com) (change (a) with @ - antispam) 
-
-  
-
