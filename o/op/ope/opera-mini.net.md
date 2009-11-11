@@ -1,72 +1,81 @@
-> *The following text is extracted and transformed from the opera-mini.net privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417082041id_/http%3A//www.opera.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opera-mini.net privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111183435id_/http%3A//www.opera.com/privacy) for the most accurate reproduction.*
 
 # Opera: Privacy Statement
 
-The Opera browser offers excellent features for the protection of privacy and security when using Opera in the internet environment. It is the policy of Opera Software to process personal data for purposes that are objectively justified by Opera Software's service and to perform the processing in accordance with fundamental respect for the right to privacy, including the need to protect personal integrity and private life and to ensure that personal data are of adequate quality.
+The Opera browser offers excellent features for the protection of privacy and security when using Opera in the Internet environment. It is the policy of Opera Software to process personal data for purposes that are objectively justified by Opera Software’s service and to perform the processing in accordance with fundamental respect for the right to privacy, including the need to protect personal integrity and private life and to ensure that personal data are of adequate quality.
 
-## Privacy policies
+### Privacy policies
 
-This policy contains general information regarding privacy in Opera. For privacy policies and questions specifically related to OperaBrowser, MyOpera, OperaMini and OperaMail, please see the links below:
+This general part of Opera’s privacy policy contains information regarding privacy in Opera. 
 
-  * Privacy in the Opera desktop browser
+For privacy policies and questions specifically related to the Opera Web browser, Opera Unite, the My Opera community, Opera Mini and Opera Mail, please see the appropriate section below:
+
+  * Privacy on Opera’s Web services
+  * Privacy in the Opera Web browser
+  * Privacy in Opera Link
+  * Privacy in Opera Unite
   * Privacy in the Opera Mini browser
-  * Privacy on MyOpera.com 
-  * Privacy on Opera Web Mail
-  * Privacy of customer data
-  * Privacy on Our Web Sites
+  * Privacy on the My Opera community
+  * Privacy on Opera Mail
+  * Privacy on our Web Sites
 
 
 
-## Processing
+#### Changes to this Privacy Statement
 
-Personal data is only collected, stored, used and transferred for specific purposes mentioned in the privacy policies. Opera collects user submitted information, IP-addresses, usage patterns and the point in time when the user visits Operas website or uses Operas services.
+We will occasionally update this Privacy Statement. When we post changes to this Privacy Statement, we will include the date when the Privacy Statement was last updated. If there are material changes to this statement or in how we will use your personal information, we will notify you either by prominently posting a notice of such changes prior to implementing the change or by directly sending you a notification. We encourage you to review this Privacy Statement periodically. 
 
-## Purposes
+Top
 
-Processing of personal data shall only be done for purposes of running, debugging, maintenance and/or optimization of service and/or to maintain customer relationship.
+### Privacy on Opera’s Web services
 
-Analysis of web usage (for purposes of debugging, maintenance and optimization of service) shall never be done on a basis that reveal usage patterns of individual users, but shall be done by aggregating data, anonymizing individual identities.
+Opera Software offers Web-based services including but not limited to My Opera, Opera Link, Opera Unite, Opera Widgets, Dev.Opera, and Opera Labs. We reserve the right to add, remove, or edit any of these services. Opera Software strictly protects the security of your personal information within the confines of these domains and honors your choices for their intended use. We have safeguards in place to protect your data from loss, misuse, unauthorized access, alteration, or destruction. All users should handle their and other’s personal information with care. We protect your data from disclosure, with the exception of matters where designated by law or court order.
 
-## Access
+#### Processing
 
-Opera Software has strict restriction on access to user data. Only a limited number of Opera employees have access.
+Personal data is collected, stored, used, and transferred only for the specific purposes mentioned in the privacy policies. Opera collects user-submitted information, IP addresses, usage patterns, and the point in time when the user visits Opera’s Web sites or uses Opera’s services.
 
-## Transfer
+#### Purposes
 
-Please note: Opera Software cooperates with Hitslink.com, Advertising.com and E-journal. Hitslink is established in USA and have entered into the Safe Harbor-agreement, which entail that Hitslink must ensure an adequate standard for privacy protection. Advertising.com and E-journal are Norwegian companies that must comply with Norwegian Personal Data laws and regulations.
+Processing of personal data shall be done for purposes of running, debugging, maintenance, and/or optimization of the service and/or to maintain customer relationships. Additionally, in some instances, we may also use personal data to send users information regarding update downloading, upgrades, enhancements, surveys, or advertisements. 
 
-Opera Software does not control and has no responsibility for the privacy and security practices and policies of these third parties and their sites. Check the particular site and/or business for more information. It is the responsibility of the user to use caution before sharing personal information via forms and other methods used by third parties and their websites.
+Analysis of Web or service usage (for purposes of debugging, maintenance, and optimization of service) shall never be done on a basis that reveals usage patterns of individual users, but it shall be done by aggregating data, anonymizing individual identities. Opera will not share or disclose such details except as required by law or law enforcement.
 
-Users can choose not to use Hitslink.com services, **see link to instructions.**
+#### Access
 
-## Correction and rectification
+Opera Software has strict restrictions on access to user data. Only a limited number of Opera employees have access.
 
-Users of Opera Software's products and services have the following options for changing and modifying information previously provided:
+#### Transfer
 
-  * Registered users can use this [form](https://web.archive.org/support/new2opera/buy/changemail/)
-  * All visitors can send mail to the postal address listed on the [contact page](https://web.archive.org/company/contact/)
+Please note: Opera Software cooperates with HitsLink.com, Google Analytics, addthis.com, AdMob, and Otrs.org. HitsLink and Google Analytics is established in the United States and has entered into the Safe Harbor agreement, which entails that they must ensure an adequate standard for privacy protection in light of applicable EU rules and regulations.
 
+Opera Software does not control and has no responsibility for the privacy and security practices and policies of these third parties and their sites. Check the particular site and/or business for more information. Here you will regularly also find information on how you can opt out from the services of Opera’s cooperation partners mentioned above. It is the responsibility of the user to use caution before sharing personal information via forms and other methods used by third parties and their Web sites.
 
+Some of Opera’s Web sites and services use Google Analytics, a web analytics service provided by Google, Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer, to help the Web site analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this Web site. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
 
-## Rentention and deletion
+#### Correction and rectification
 
-Opera Software deletes personal information when all purposes of the processing of the personal information are fulfilled.
+Users of Opera Software’s products and services who have provided personal information may change and modify their information at any time.
 
-## Reviews
+#### Retention and deletion
 
-Policies are reviewed regularly to ensure that the policies are followed. Any non conformance regards the policies will be corrected without unnecessary delay.
+Opera Software deletes personal information when all purposes of the personal-information processing have been fulfilled.
 
-## Security
+#### Reviews
 
-Opera Software strictly protects the security of personal information within the confines of the Opera domain, and honors the users' choices for its intended use. We carefully protect users' data from loss, misuse, unauthorized access, alteration, or destruction. We protect user data from disclosure, with exception only in matters where designated by law or court order.
+Procedures are reviewed regularly to ensure that the policies are followed. Any nonconformance regarding the policies will be corrected without unnecessary delay.
 
-## Children's guidelines
+#### Security
 
-Opera Software provides interactive environments on the Internet to enable members to express themselves and share their ideas and interests by creating and participating in discussion-based virtual communities. Opera.com, Opera.no, and OperaSoftware.com make no guarantees that children can not enter these sites and present both online and offline contact information without parental consent or notification. Further, there is no guarantee that children will not post such information in a public forum. Therefore, we encourage children to include their parents in the registration process, and we encourage parents to read this privacy statement before allowing their children on line.
+Opera Software strictly protects the security of personal information within the confines of Opera’s products and services and honors the users’ choices for its intended use. We have safeguards in place to protect users’ data from loss, misuse, unauthorized access, alteration, or destruction. We protect user data from disclosure, with exceptions only in matters where designated by law or court order.
 
-## Contact information
+#### Children’s guidelines
 
-If you have any questions about this privacy statement, privacy issues regarding Opera Software and our products, or privacy on our Web sites please use our contact form
+Opera Software provides interactive environments on the Internet to enable members to express themselves and to share their ideas and interests by creating and participating in discussion-based virtual communities. Opera Software’s corporate and community Web sites make no guarantees that children cannot enter these sites and present both online and offline contact information without parental consent or notification. Further, there is no guarantee that children will not post such information in a public forum. Therefore, we encourage children to include their parents in the registration process, and we encourage parents to read this Privacy Statement before allowing their children to use Opera Software’s services or any other Internet service.
+
+#### Contact information
+
+If you have any questions about this Privacy Statement, privacy issues regarding Opera Software and our products, or privacy on our Web sites, we can be reached at:
 
 Postal address:  
 Opera Software ASA  
@@ -74,180 +83,129 @@ P.O. Box 2648 St Hanshaugen
 NO-0131 OSLO  
 Norway
 
-## Privacy in the Opera desktop browser
+Top
 
-Opera Software has taken much care in the development so that user privacy and security are not compromised. No personal information is collected or shared. The Opera user's Web usage is not tracked.
+### Privacy in the Opera Web browser
 
-### Opera's built-in Web search
+Opera Software has taken much care in the development process so that user privacy and security are not compromised. No personal information is collected or shared. The Opera user’s Web usage is not tracked.
 
-Opera has a built-in Web search feature. This gives the user the option to utilize external Web search engines directly from the browser interface. Opera relies on third parties for this service. Follow the link below for more information about Opera's search feature.
+#### Opera’s built-in Web search
 
-Please see [www.opera.com/privacy](http://www.opera.com/privacy/) for Opera Software's general privacy policies.
+Opera has a built-in Web-search feature. This gives the user the option to utilize external Web search engines directly from the browser interface. Opera relies on third parties for this service. The Opera Web browser sends the user’s search requests (in a specially designed URL string) directly to third-party Web sites that handle the actual search queries. What is sent to the third-party site is only the information needed to perform the particular search query. No personal information is sent.
 
-## Privacy in the Opera Mini browser
+Some third-party sites may monitor data traffic from copies of the Opera Web browser, such as numbers of hits and the search terms used. No personally identifiable information is made available to these services by the Opera Mini browser nor by Opera Software.
 
-Opera Mini will keep a record of the user's phone number, make, and model for use with maintaining the history, cache and cookies. This is done for the purposes of debugging, maintenance, optimization of the service, or maintaining the customer relationship. The history, cache and cookie information can be removed using Tools > History > Clear from the menu in Opera Mini.
+Please note: Opera Software does not control the privacy and security practices and policies of these third parties and their sites. Check the particular site and/or business for more information. It is the responsibility of the browser user to use caution before sharing personal information via forms and other methods used by third parties and their Web sites. 
 
-### Opera Mini's built-in Web search
+Top
 
-Opera Mini has a built-in Web search feature. This gives the user the option to utilize external Web search engines directly from the browser interface. Opera Mini relies on third parties for this service. Opera Mini sends the user's search requests (in a specially designed URL string) directly to third party Web sites which handle the actual search queries. What is sent to the third party site is the special Opera Mini search string along with the text terms needed to perform the particular search query. No personal information is sent.
+### Privacy in Opera Link
 
-When using the built-in search-related features, Opera Mini will receive cookies, including third party cookies, from thirds party sites. These can be removed using Tools > History > Clear from the menu in Opera Mini.
+Opera Link allows registered users to synchronize some data, such as bookmarks, among their Opera Web browser and Opera Mini Web browsers. Opera will never disclose, share, or distribute an individual’s Linked data to any third party except where required by law or regulation. Opera restricts internal access to this information exclusively to those who need it for the operation of the Link service.
 
-Some third party sites may monitor data traffic from copies of the Opera Mini browser, such as numbers of hits and the search terms used. No personally identifiable information is made available to these services by the Opera Mini browser nor by Opera Software.
+Opera may retain IP addresses, user ID, and anonymous traffic data as may be useful in the debugging, optimization, and ongoing improvement of this service.
 
-Please note: Opera Software does not control the privacy and security practices and policies of these third parties and their sites. Check the particular site and/or business for more information. It is the responsibility of the browser user to use caution before sharing personal information via forms and other methods used by third parties and their Websites.
+Top
 
-Please see [www.opera.com/privacy](http://www.opera.com/privacy/) for Opera Software's general privacy policies.
+### Privacy in Opera Unite
 
-## Privacy on MyOpera.com 
+Opera Unite allows users to run Web services directly from the Opera desktop browser. No personally identifiable data is stored by the Opera Unite proxy or other server-side components. Users may opt to share which services they are running; in such cases, these will be associated only with a user ID and such personal data as may have been volunteered by the user via the My Opera community, Web forums, or similar public venues.
 
-Opera Software strictly protects the security of your personal information within the confines of the My Opera domain, and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access, alteration, or destruction. All My Opera users should also handle their and other person's personal information with care. We protect your data from disclosure, with exception only in matters where designated by law or court order.
+Opera does not log, track, or store any information served via an Opera Unite service. Opera may retain IP addresses, user ID, and anonymous traffic data as may be useful in the debugging, optimization, and ongoing improvement of this service.
 
-### Information Collected and Shared IP Addresses
+Top
 
-Opera Software collects visitors' IP addresses to help diagnose problems with servers, to administer Web sites, and for statistical purposes (aggregated). IP addresses will not be shared to other than Opera Software's partner for handling statistical analyses (see further information below under "Partners") or used for any purposes other than these.
+### Privacy in the Opera Mini browser
 
-### Voluntary Information Sources
+Opera Mini will keep a record of the user’s phone make and model for use with maintaining the history, cache, and cookies. The user’s phone number is not stored except where required by the operator. Make and model data may be used for the purposes of debugging, maintenance, optimization of the service, or maintaining the customer relationship. The history, cache, and cookie information can be removed using Tools > History > Clear from the menu in Opera Mini. Additionally, as authorized, we may also use personal data to send users information regarding update downloading, upgrades, enhancements, surveys, or advertisements about our products.
 
-My Opera supports functions that require the submission of relatively personal information given the user's choice of participation. These submissions are gathered by means of forms, surveys, contests, forums, subscribing or unsubscribing mailings and correcting or updating personal information and are only used for their presented purpose. Forms which require financial information to process purchases for products or services are also protected.
+#### Opera Mini’s built-in Web search
 
-### Links to Other Sites
+Opera Mini has a built-in, Web-search feature. This gives the user the option to utilize external Web search engines directly from the browser interface. Opera Mini relies on third parties for this service. Opera Mini sends the user’s search requests (in a specially designed URL string) directly to third-party Web sites that handle the actual search queries. What is sent to the third-party site is the special Opera Mini search string along with the text terms needed to perform the particular search query. No personal information is sent.
 
-y.Opera.com contain links to other sites. Opera Software is not responsible for the privacy practices or the content of such Web sites.
+When using the built-in, search-related features, Opera Mini will receive cookies, including third-party cookies, from third- party sites. These can be removed using _Tools > History > Clear_ from the menu in Opera Mini.
 
-### Child Protection
+Some third-party sites may monitor data traffic from copies of the Opera Mini browser, such as numbers of hits and the search terms used. No personally identifiable information is made available to these services by the Opera Mini browser nor by Opera Software.
 
-Opera Software provides interactive environments on the Internet to enable members to express themselves and share their ideas and interests by creating and participating in discussion-based virtual communities. Opera.com, Opera.no, and OperaSoftware.com make no guarantees that children can not enter these sites and present both online and offline contact information without parental consent or notification. Further, there is no guarantee that children will not post such information in a public forum. Therefore, we encourage children to include their parents in the registration process, and we encourage parents to get familiar with relevant privacy and data security laws and regulations and to read this privacy statement before allowing their children on line.
+Please note: Opera Software does not control the privacy and security practices and policies of these third parties and their sites. Check the particular site and/or business for more information. It is the responsibility of the browser user to use caution before sharing personal information via forms and other methods used by third parties and their Web sites.
 
-### Choice/opt-out
+Top
 
-My.Opera.com provide users the opportunity to opt-out of receiving communications from Opera Software and its partners at the point where information is requested about the visitor. Opera Software gives users the following options for removing their information from our database in order to not receive future communications:
+### Privacy on the My Opera community
 
-  * Visitors can send e-mail to [list-admin@opera.com](mailto:list-admin@opera.com) list-admin[at]opera.com
-  * Visitors can visit the following URL: [list.opera.com](http://list.opera.com/)
-  * Visitors can send mail to the following postal address: 
-    * Opera Software ASA
-    * Waldemar Thranesgt. 98
-    * N-0175 OSLO
-    * Norway
-  * Visitors can call the following telephone number: +47 24 16 40 00
+#### Information collected and shared IP addresses
 
+Opera Software collects visitors’ IP addresses to help diagnose problems with servers, to administer Web sites, and for statistical purposes (aggregated). IP addresses will not be shared with anyone other than Opera Software’s partners for handling statistical analyses or used for any purposes other than these.
 
+#### Voluntary information sources
 
-### Correction, Updating or Deletion of Personal Information
+The My Opera community supports functions that allow the user, by their own choice, to submit information of a personal character. These submissions are gathered by means of forms, surveys, contests, forums, subscribing or unsubscribing mailings, and correcting or updating personal information, and the submissions are used only for their presented purpose. Forms that require financial information to process purchases for products or services are also protected.
 
-This site gives users the following options for changing and modifying information previously provided:
+#### Correcting, updating or deleting personal information
 
-To change your My Opera membership, login to your account and click the Account link at the top of the page.
+This site gives users multiple options for changing and modifying information previously provided.
 
-  * Furthermore, users have the following options for changing , modifying and requesting deletion of information previously provided: [form](https://web.archive.org/support/new2opera/buy/changemail/)
-  * All visitors can send mail to the postal address listed on the [contact pages](https://web.archive.org/contact/offline/)
-  * Visitors can send mail to the following postal address: 
-    * Opera Software ASA
-    * Waldemar Thranesgt. 98
-    * N-0175 OSLO
-    * Norway
-  * All visitors can call the following telephone number: +47 24 16 40 00
+  * To change your My Opera membership, log in to your account and click the Account link at the top of the page.
+  * To change, modify and request deletion of information previously provided, users have the following options: <http://my.opera.com/community/contact/>
 
 
 
-### Privacy of customer data
+Top
 
-If a customer places a request for customer service, the information that may be collected is: e-mail address, name, phone number, correspondence records, and technical information such as system hardware, operating system, and the version of Opera being used. This information is voluntarily given by the customer, and is used by Opera Software only for the purpose of assisting the customer with his or her problems. This information is not used for any other purpose. Information collected by our customer service department is not shared nor it is sold to other parties. We do not sell or share this information with our advertising partners or advertising agencies.
+### Privacy Statement for Opera Web Mail
 
-### Questions?
+This statement discloses our information gathering and dissemination practices for Opera Web Mail, a third-party administered service by Outblaze Limited. Please see [Outblaze Limited general privacy policy](http://www.outblaze.com/index.php/privacy_policy/).
 
-Please use our contact form if you got questions about this privacy statement, privacy issues regarding Opera Software and our products, or privacy on our Web sites.
+#### Collection of IP addresses
 
-Please see [www.opera.com/privacy](http://www.opera.com/privacy/) for Opera Software's general privacy policies.
+Opera Software collects visitors’ IP addresses to help diagnose problems with servers and to administer the service. IP addresses will not be used for any purposes other than these.
 
-## Privacy Statement for Opera Web Mail
+#### Information collected from registration forms
 
-Opera Software has created this privacy statement in order to demonstrate our firm commitment to privacy. This statement discloses our information gathering and dissemination practices for Opera Web Mail.
+Opera Web Mail’s registration form requires visitors to provide contact information (e.g., e-mail addresses or telephone numbers) and demographic information (e.g., age, occupation). Visitors’ contact information is used to contact them when necessary. Demographic data is used to tailor visitors’ experience at the site.
 
-This privacy statement does not include privacy information for the websites:
+#### Customer Support
 
-  * My.Opera
-  * Opera.com
-  * Opera.no
-  * OperaSoftware.com
+If a customer places a request for customer service for Opera Web Mail from Opera Software, the information that may be collected includes e-mail address, name, phone number, correspondence records, and technical information such as system hardware, operating system, and the version of Opera being used. This information is voluntarily given by the customer and is used by Opera Software only for the purpose of assisting the customer with his or her problems. This information is not used for any other purpose. Information collected by our customer service department is not shared nor is it sold to other parties. We do not sell or share this information with our advertising partners or advertising agencies.
 
+Top
 
+### Privacy on our Web sites
 
-Please consult the privacy statements of My Opera or Opera.com, Opera.no, and OperaSoftware.com for information regarding their privacy policies.
+The following statement discloses the information gathering and dissemination practices for Opera.com and other Opera domains. Please consult the privacy statements of My Opera Community or Opera Web Mail for information specific to those services.
 
-### Collection of IP Addresses
+#### Collection of data
 
-Opera Software collects visitors' IP addresses to help diagnose problems with servers and to administer Web sites. IP addresses will not be used for any purposes other than these.
+##### IP Addresses
 
-### Information collected from registration forms
+Opera Software will occasionally collect visitors’ IP addresses to help diagnose problems with servers and to administer Web sites. IP addresses will not be used for any other purpose.
 
-Opera Web Mail's registration form requires visitors to provide contact information (e.g. e-mail addresses or telephone numbers) and demographic information (e.g. age, occupation). Visitors' contact information is used to get in touch with them when necessary. Demographic data is used to tailor visitors' experience at the site.
+##### Information collected from forms
 
-### Links 
+Opera.com and other Opera domains use forms for visitors to request information, products, and services. Depending on the service, product, or information that visitors request, visitors’ contact information (e.g., e-mail addresses or telephone numbers) or financial information (e.g.. credit-card numbers) may be collected. Contact information from these forms is used to send orders and information about Opera Software to customers. Visitors’ contact information is also used to contact them when necessary. Visitors may opt out of receiving future mailings; see the Choice/opting out section. Financial information that is collected is used to bill the user for products and services.
 
-Opera Web Mail contains links to other sites. Opera Software is not responsible for the privacy practices or the content of such Web sites.
+##### Cookies
 
-Please see [www.opera.com/privacy](http://www.opera.com/privacy/) for Opera Software's general privacy policies.
+Opera Software does not have access to any information about visitors from cookies received while visiting Opera Software’s sites. While Opera Web sites generally do use cookies, they are used primarily for such purposes as session management and retaining the user’s custom settings or preferences.
 
-If a customer places a request for customer service from Opera Software, the information that may be collected is: e-mail address, name, phone number, correspondence records, and technical information such as system hardware, operating system, and the version of Opera being used. This information is voluntarily given by the customer, and is used by Opera Software only for the purpose of assisting the customer with his or her problems. This information is not used for any other purpose. Information collected by our customer service department is not shared nor is it sold to other parties. We do not sell or share this information with our advertising partners or advertising agencies.
+##### Survey 
 
-## Privacy on Our Web Sites
+Opera Software’s online surveys ask visitors for demographic information (e.g., age, Internet usage, or income level). This is not personally identifying information and is used to tailor the visitors’ experience at Opera’s Web sites.
 
-The following statement discloses the information gathering and dissemination practices for Opera.com, Opera.no, and OperaSoftware.com. This privacy statement does not include privacy information for the Web sites My Opera or Opera Web Mail. Please consult the privacy statements of My Opera or Opera Web Mail for information regarding their privacy policies.
+##### Contests
 
-### Collection of data
-
-#### IP Addresses
-
-Opera Software will on occasion collect visitors' IP addresses to help diagnose problems with servers and to administer Web sites. IP addresses will not be used for any purposes other than these.
-
-#### Information collected from forms
-
-Opera.com, Opera.no, and OperaSoftware.com use forms for visitors to request information, products, and services. Depending on the the service, product, or information visitors request, visitors' contact information (e.g. e-mail addresses or telephone numbers) or financial information (e.g. credit card numbers) may be collected. Contact information from these forms is used to send orders and information about Opera Software to customers. Visitors' contact information is also used to get in touch with them when necessary. Visitors may opt out of receiving future mailings; see the choice/opt-out section. Financial information that is collected is used to bill the user for products and services.
-
-#### Cookies
-
-Opera.com, Opera.no, and OperaSoftware.com generally do not use cookies, with the following exceptions: The pages on support.opera.no and support.opera.com, called "The Opera Software Support Desk", use technology created by eJournal, which employs cookies to make the service function smoothly. For more information about eJournal, see the links below. Elsewhere on Opera Software's support site, one may encounter the option to voluntarily save a cookie used for subsequent visits. Opera Software does not have access to any information about visitors from cookies received while visiting Opera Software's sites.
-
-#### Survey 
-
-Opera Software's online surveys ask visitors for demographic information (e.g. age, internet usage, or income level). This is not personally-identifying information and is used to tailor visitors' experience at Opera.com, Opera.no, and OperaSoftware.com.
-
-#### Contests
-
-Opera Software runs contests on Opera.com, Opera.no, and OperaSoftware.com in which visitors are requested to provide contact information (e.g. e-mail addresses). Visitors' contact information is used to contact the visitor when necessary. This information will not be shared with or sold to other parties. Users may opt-out of receiving future mailings; see the choice/opt-out section.
-
-#### Contests
-
-Opera Software runs contests on Opera.com, Opera.no, and OperaSoftware.com in which visitors are requested to provide contact information (e.g. e-mail addresses). Visitors' contact information is used to contact the visitor when necessary. This information will not be shared with or sold to other parties. Users may opt-out of receiving future mailings; see the choice/opt-out section.
+Opera Software runs contests in which visitors are requested to provide contact information (e.g., e-mail addresses). Visitors’ contact information is used to contact the visitor when necessary and is deleted after its purpose is fulfilled. This information will not be shared with nor sold to other parties. Users may opt out of receiving future mailings.
 
 #### Public forums
 
-These sites make a Web forum, mailing lists, and news groups available to visitors. Please remember that any information that is disclosed in these areas becomes public information, and visitors should exercise caution when deciding to disclose personal information.
+Various Opera Web sites make Web forums, mailing lists, and news groups available to visitors. Please remember that any information that is disclosed in these areas becomes public information, and visitors should exercise caution when deciding to disclose personal information.
 
-### Unsubscribing from mailings
+#### Links to other sites
 
-Visitors may opt-out of receiving future mailings; see the choice/opt-out section.
+Opera Web sites contain links to other sites. Opera Software is not responsible for the privacy practices or the content of such Web sites.
 
-### Links to other sites
+#### Choice/opting out
 
-Opera.com, Opera.no, and OperaSoftware.com contain links to other sites. Opera Software is not responsible for the privacy practices or the content of such Web sites.
+Opera.com provides users the opportunity to op out of receiving communications from Opera Software and its partners at the point where information is requested about the visitor. 
 
-### Choice/opt-out
-
-Opera.com, Opera.no, and OperaSoftware.com provide users the opportunity to opt-out of receiving communications from Opera Software and its partners at the point where information is requested about the visitor. Opera Software gives users the following options for removing their information from our database in order to not receive future communications:
-
-  * Visitors can send e-mail to [list-admin@opera.com](mailto:list-admin@opera.com) list-admin[at]opera.com
-  * Visitors can visit the following URL: [list.opera.com](http://list.opera.com/)
-  * Visitors can send mail to the postal address listed at the bottom of this page.
-  * Visitors can call the following telephone number: +47 24 16 40 00
-
-
-
-## Privacy of customer data
-
-In order to process the purchases of licenses for copies of our software, certain information is necessarily collected by Opera Software. We retain records of licensed users of our software, and these records may contain any or all of the following information: names, addresses, phone numbers, credit card numbers, or other relative identifying information. We do not sell or share this information with other parties. We do not sell or share this information with our advertising partners or advertising agencies.
-
-If a customer places a request for customer service, the information that may be collected is: e-mail address, name, phone number, correspondence records, and technical information such as system hardware, operating system, and the version of Opera being used. This information is voluntarily given by the customer, and is used by Opera Software only for the purpose of assisting the customer with his or her problems. This information is not used for any other purpose. Information collected by our customer service department is not shared nor it is sold to other parties. We do not sell or share this information with our advertising partners or advertising agencies.
+Top
