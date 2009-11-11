@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the linkedin.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160951id_/http%3A//www.linkedin.com./static%3Fkey%3Dprivacy_policy%26trk%3Dhb_ft_priv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkedin.com privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111235912id_/http%3A//www.linkedin.com/static%3Fkey%3Dprivacy_policy%26trk%3Dhb_ft_priv) for the most accurate reproduction.*
 
-# LinkedIn: Privacy Policy
+# Privacy Policy | LinkedIn
 
 This page summarizes the key highlights from our privacy policy. For more information, read our full privacy policy.
 
@@ -70,15 +70,11 @@ You have a right to access, modify, correct and eliminate the data about you whi
 
 We take your rights seriously and encourage you to use them if you deem this to be appropriate. You may exercise these rights by emailing us at privacy@linkedin.com or by contacting us at:
 
-LinkedIn Corporation
-
-Attn: Privacy Policy Issues
-
-2029 Stierlin Court
-
-Mountain View, CA 94043
-
-United States of America
+LinkedIn Corporation  
+Attn: Privacy Policy Issues  
+2029 Stierlin Court  
+Mountain View, CA 94043  
+United States of America 
 
 * ### Uses of personal information
 
@@ -146,11 +142,9 @@ We may also disclose your personal and other information you provide, to another
 
 You can review the personal information you provided us and make any desired changes to the information you publish, or to the settings for your LinkedIn account including your email, and contact preferences, at any time by logging in to [your account](https://www.linkedin.com/secure/settings) on the LinkedIn website. Please be aware that even after your request for a change is processed, LinkedIn may, for a time, retain residual information about you in its backup and/or archival copies of its database.
 
-You can also close your account through the LinkedIn website. If you close your LinkedIn account, we will remove your name and other personally identifiable information from our publicly viewable data. We may retain certain data contributed by you if it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally-identifiable data, account recovery, or if required by law. All retained data will continue to be subject to the terms of the LinkedIn Privacy Policy in effect at the time of your request. To request that we close your account and remove your information from the LinkedIn service, please send your request to [customer_service@linkedin.com](mailto:customer_service@linkedin.com). Please send your request using an email account that you have registered with LinkedIn under your name. You will receive a response to requests sent to [customer_service@linkedin.com](mailto:customer_service@linkedin.com) within three business days of our receiving it.
+#### Closing Your Account
 
-#### Closing your account
-
-You can also close your account through the LinkedIn website. If you close your LinkedIn account, we will remove your name and other personally identifiable information from our publicly viewable database. We may retain certain data contributed by you if we believe it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally identifiable data, account recovery, or if required by law. To request that we close your account and remove your information from the LinkedIn website, please send your request to customer_service@linkedin.com. Please send your request using an email account that you have registered with LinkedIn under your name. You will receive a response to requests sent to customer_service@linkedin.com within five business days of its receipt.
+You can also close your account through the LinkedIn website. If you close your LinkedIn account, we will remove your name and other personally identifiable information from our publicly viewable database. We may retain certain data contributed by you if we believe it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally identifiable data, account recovery, or if required by law. To request that we close your account and remove your information from the LinkedIn website, please send your request to [customer_service@linkedin.com](mailto:customer_service@linkedin.com). Please send your request using an email account that you have registered with LinkedIn under your name. You will receive a response to requests sent to [customer_service@linkedin.com](mailto:customer_service@linkedin.com) within five business days of its receipt.
 
 * ### Your Obligations
 
@@ -159,6 +153,7 @@ As a User, you have certain obligations toward the other Users with whom you wil
   * You must, at all times, respect the terms and conditions of the then-current Privacy Policy and the User Agreement. This includes respecting all intellectual property rights which may belong to third parties (such as photographs).
   * You must not download or otherwise disseminate any information which may be deemed to be injurious, violent, offensive, racist or xenophobic or which may otherwise violate the purpose and spirit of LinkedIn and its community of Users.
   * You must not provide information to LinkedIn and /or other Users which you believe might be injurious or detrimental to your person, professional or social status.
+  * LinkedIn has also self-certified its privacy practices as consistent with U.S.-E.U. Safe Harbor principles: Notice, Choice, Onward Transfer, Access and Accuracy, Security, Data Integrity and Enforcement. More information about the U.S. Department of Commerce Safe Harbor Program can be found at [http://www.export.gov/safeharbor/](http://www.linkedin.com/redirect?url=http%3A%2F%2Fwww%2Eexport%2Egov%2Fsafeharbor%2F&urlhash=XXR4 "New window will open")
 
 
 
