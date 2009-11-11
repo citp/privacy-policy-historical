@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nashville.org privacy policy that was archived on 2009-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090424020940id_/http%3A//www.nashville.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nashville.org privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111180157id_/http%3A//www.nashville.org/privacy.asp) for the most accurate reproduction.*
 
 # Nashville.gov - Privacy Statement
 
