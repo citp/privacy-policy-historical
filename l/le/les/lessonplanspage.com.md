@@ -1,6 +1,34 @@
-> *The following text is extracted and transformed from the lessonplanspage.com privacy policy that was archived on 2009-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090511160359id_/http%3A//www.lessonplanspage.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lessonplanspage.com privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111103628id_/http%3A//www.lessonplanspage.com/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for The Lesson Plans Page
+
+* * *
+
+[](http://www.concordiaonline.net/?source=site-LPP-lightbox_v1-logolink)
+
+## LessonPlansPage.com would like to take a moment to let you know about [Concordia University's](http://www.concordiaonline.net/?source=site-LPP-lightbox_v1-textink) new Master’s Degrees in Education that you can complete online in just one year! 
+
+Available Master's Degrees in Education include:
+
+  * Curriculum & Instruction: Reading 
+  * Curriculum & Instruction: Methods & Curriculum
+  * Curriculum & Instruction: English to Speakers   
+of Other Languages
+  * Educational Leadership
+
+
+
+These programs can help you: 
+
+  * Open the door to a variety of **school leadership** career opportunities like higher education teaching, department chair, ELL consultant, literacy coach, or curriculum coordinator
+  * Complete your degree **in one year** , on **your schedule** ,  
+from the comfort of **your home**
+  * A Master's Degree could mean an **automatic salary increase** in your school district!
+
+
+
+_  
+A national university system with 10 campuses throughout the United States, Concordia was founded more than 100 years ago and is accredited by the Northwest Commission on Colleges and Universities._
 
 **PRIVACY POLICY SUMMARY:**  
 The Lesson Plans Page respects your privacy and will not do anything in violation of your privacy. No personally identifiable information is collected by LessonPlansPage.com. You have the opportunity to subscribe your email address to our newsletter. If you do, your email address will never be given to any third party. You're welcome to read the details of our privacy policy below: 
