@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the milanoo.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619070356id_/http%3A//www.milanoo.com/en/help/Privacy-Policy--module-index-id-72.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milanoo.com privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111111115id_/http%3A//www.milanoo.com/help/Privacy-Policy--module-index-id-72.html) for the most accurate reproduction.*
 
-# China Wholesale - Wholesale Cheap Wedding Dresses, Sexy Lingerie,Lolita Dresses,Cosplay Costumes,Mascot Costumes,PVC Catsuits,Latex clothes - Milanoo.com
+# China Wholesale - Wholesale Cheap sexy lingerie, mascot costumes, Lolita dresses, swimsuits and women's shoes - Milanoo.com
 
 Thank you for accessing the web site ("Site") of Milanoo.com, Limited. ("Milanoo.com," that's us). We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy.  
 This Privacy Policy explains how we collect, use and (under certain conditions) disclose your personal information. This Privacy Policy also explains the steps we have taken to secure your personal information. Finally, this Privacy Policy explains your options regarding the collection, use and disclosure of your personal information. By visiting our Site, you accept the practices described in this Policy.  
