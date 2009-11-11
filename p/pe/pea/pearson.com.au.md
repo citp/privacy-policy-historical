@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pearson.com.au privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430103105id_/http%3A//www.pearson.com.au/General/Privacy/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearson.com.au privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111103118id_/http%3A//www.pearson.com.au/General/Privacy/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Pearson Australia - Privacy Policy
 
@@ -66,18 +66,12 @@ Access and Correction
 
 You can access your personal details held by us by contacting the Privacy Officer: 
 
-  * by telephone (02) 9454 2200; or
-  * by facsimile (02) 9453 0089; or
-  * by e-mail [privacy@pearson.com.au](mailto:privacy@pearson.com.au); or
-  * by letter to:
-
-The Privacy Officer  
-Pearson Australia  
-Locked Bag 507  
-FRENCHS FOREST NSW 2086
-
-
-
+Privacy Officer   
+Pearson Australia Group Pty Ltd  
+250 Camberwell Road  
+Camberwell VIC 3124  
+Phone: (03) 9811 2400  
+Email:[privacy.officer@pearson.com.au](mailto:%20privacy.officer@pearson.com.au)
 
 On receiving your request we give you a time at which you can expect a response and this time will be not later than 14 days after receiving your request. 
 
