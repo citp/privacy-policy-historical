@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swin.edu.au privacy policy that was archived on 2009-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090511205645id_/http%3A//www.swinburne.edu.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swin.edu.au privacy policy that was archived on 2009-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091112004017id_/http%3A//www.swinburne.edu.au/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
@@ -47,7 +47,7 @@ You have a right of access to, and alteration of personal information concerning
 
 **Privacy Policy**
 
-Swinburne University has a Privacy Policy that can be found on its Policies and Procedures Database, which outlines the ways in which we intends to meet our privacy commitments and details the procedures for making complaints under the Act. The Privacy Policy can be located at: [ http://ppd.swinburne.edu.au/uniorg/Privacy.htm](http://ppd.swinburne.edu.au/uniorg/Privacy.htm)
+Swinburne University has a Privacy Policy that can be found on its Policies and Procedures Database, which outlines the ways in which we intends to meet our privacy commitments and details the procedures for making complaints under the Act. The Privacy Policy can be located at:  <http://policies.swinburne.edu.au/ppdonline/showdoc.aspx?recnum=POL/2008/166>
 
 **Contact**
 
