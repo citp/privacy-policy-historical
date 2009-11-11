@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the matrixgames.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615162705id_/http%3A//www.matrixgames.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matrixgames.com privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111173114id_/http%3A//www.matrixgames.com/privacy.asp) for the most accurate reproduction.*
 
 # Matrix Games - What's Your Strategy?
 
