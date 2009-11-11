@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sciquest.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503084346id_/http%3A//www.sciquest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciquest.com privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111174246id_/http%3A//www.sciquest.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
