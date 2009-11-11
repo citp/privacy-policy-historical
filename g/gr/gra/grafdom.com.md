@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grafdom.com privacy policy that was archived on 2009-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090508103444id_/http%3A//grafdom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grafdom.com privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111085205id_/http%3A//grafdom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Grafdom
 
@@ -9,7 +9,7 @@ Your privacy is very important to us. We do not sell or otherwise provide your p
 
 However, certain activities on our site require you to provide personal information. For example you need to fill in the job application form or register on the blog section. As part of the registration process, we ask you to create an account by providing your name, title, phone number and e-mail address.
 
-  * During the registration process, if you request to be contacted by [Grafdom](http://www.grafdom.com/ "Grafdom") when new resources are available, we will use the information to send you e-mail or mail when new whitepapers, articles, news or seminars are available. You can unsubscribe at any time.
+  * During the registration process, if you request to be contacted by Grafdom when new resources are available, we will use the information to send you e-mail or mail when new whitepapers, articles, news or seminars are available. You can unsubscribe at any time.
   * During the registration process, if you selected to not be contacted or notified of new resources, or if you later unsubscribed we will respect your privacy.
 
 
