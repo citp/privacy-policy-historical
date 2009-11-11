@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naxosmusiclibrary.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617203844id_/http%3A//www.naxosmusiclibrary.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naxosmusiclibrary.com privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111151427id_/http%3A//www.naxosmusiclibrary.com/privacy.asp) for the most accurate reproduction.*
 
 # 
 
