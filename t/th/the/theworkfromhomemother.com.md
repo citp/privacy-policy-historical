@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the theworkfromhomemother.com privacy policy that was archived on 2009-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090511041959id_/http%3A//www.theworkfromhomemother.com/2007/10/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theworkfromhomemother.com privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111140053id_/http%3A//coloradoathome.blogspot.com/2008/09/i-respect-your-privacy-and-i-am.html) for the most accurate reproduction.*
 
-# The Work From Home Mother: Privacy Policy
+# My Life In Colorado: Privacy Policy
 
-I respect your privacy and I am committed to safeguarding your privacy while online at this site www.theworkfromhomemother.com. The following discloses how I gather and disseminate information for this Blog.
+I respect your privacy and I am committed to safeguarding your privacy while online at this site http://coloradoathome.blogspot.com. The following discloses how I gather and disseminate information for this Blog.
 
 RSS Feeds and Email Updates
 
@@ -22,7 +22,7 @@ This Blog contains links to other sites. Please be aware that I am not responsib
 
 Advertisers
 
-I use outside ad companies to display ads on this blog. These ads may contain cookies and are collected by the advertising companies and I do not have access to this information. I work with the following advertising companies: Google Adsense, Project Wonderful, Entrecard and Commision Junction. Please check the advertisers websites for respective privacy policies.
+I use outside ad companies to display ads on this blog. These ads may contain cookies and are collected by the advertising companies and I do not have access to this information. I work with the following advertising companies: Google Adsense. Please check the advertisers websites for respective privacy policies.
 
 Update for Privacy Policy As Of April 8, 2009
 
