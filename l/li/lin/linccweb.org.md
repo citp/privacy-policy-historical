@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the linccweb.org privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419084525id_/http%3A//www.linccweb.org/faqs/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linccweb.org privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111094313id_/http%3A//www.linccweb.org/cmn/privacy.asp) for the most accurate reproduction.*
 
-# LINCCWeb - Privacy Statement
+# College Center for Library Automation - Privacy Statement
 
-The College Center for Library Automation (CCLA) provides LINCC (Library Information Network for Community Colleges) and associated Web sites: LINCCWeb ([ _www.linccweb.org_](https://web.archive.org/linccweb/)) and the CCLA Web site ([ _www.cclaflorida.org_](https://web.archive.org/)). LINCC supports local library operations at Florida's 28 public community colleges.
+The College Center for Library Automation (CCLA) provides LINCC (Library Information Network for Community Colleges) and associated Web sites: LINCCWeb ([ _www.linccweb.org_](https://web.archive.org/linccweb/)) and the CCLA Web site ([ _www.cclaflorida.org_](https://web.archive.org/CCLA/)). LINCC supports local library operations at Florida's 28 public community colleges.
 
 CCLA is committed to protecting the privacy of registered users of LINCC services and visitors to our Web sites. CCLA does not collect personally identifiable information about users of LINCC services or visitors to our Web sites except as needed to provide services you request, services to which you are entitled by your affiliation with a Florida public community college, or if you choose to disclose that information to us. We do not share information about individual users with any third party except as needed to provide services you request or for authorized law enforcement activities. CCLA staff use registration and statistical information to improve services and tailor them to suit your needs, to provide easier access to advanced features, and to help us serve you better.  
   
@@ -24,7 +24,7 @@ CCLA considers any information that could reasonably be used to identify you ind
 
 You will need an ID to borrow library materials or to login to LINCCWeb services. For secure access to LINCCWeb services, you may also need to enter a Personal Identification Number (PIN). The ID can range from 8 to 20 characters and may be a mixture of alpha or numeric characters as determined by the institution with which you are affiliated. Some institutions choose a 9-digit number which may be based on your Social Security Number (SSN). Your PIN is initially assigned when your ID is added to the LINCC system and usually consists of the last 4 digits of your SSN. Since PINs may vary by institution, please check with your local library. You should change your PIN immediately when you use it for the first time. CCLA periodically receives personally identifiable information from your local institution to create and update your ID, or an employee of that institution enters the information directly into the LINCC system.
 
-Some personal information is accessible to you on LINCCWeb through a secure login to services such as My Account. Personally identifiable information, library materials currently checked out or requested, and fines owed, may be displayed on the screen during your session. Although some online sessions are set to time out automatically after a period of inactivity, you should always close the browser window promptly after any session in which personally identifiable information was entered or displayed. Closing the browser window will prevent another person from viewing your personal information. For more information on how you can protect your personal information on LINCCWeb, please see our [FAQ](http://www.linccweb.org/FAQs/linccweb.asp#question_13).
+Some personal information is accessible to you on LINCCWeb through a secure login to services such as My Account. Personally identifiable information, library materials currently checked out or requested, and fines owed, may be displayed on the screen during your session. Although some online sessions are set to time out automatically after a period of inactivity, you should always close the browser window promptly after any session in which personally identifiable information was entered or displayed. Closing the browser window will prevent another person from viewing your personal information. For more information on how you can protect your personal information on LINCCWeb, please see our [FAQ](https://web.archive.org/linccweb/Help/linccweb.asp#question_13).
 
 If you submit personally identifiable information when requesting information or services from CCLA (as in an e-mail message or an electronic form) we will use this information to respond to your request. Your e-mail may be forwarded within CCLA for our staff to assist you. We may also forward requests for assistance to another appropriate institution (such as your local community college) for response. Other than the foregoing reasons, we do not share e-mail or other personally identifiable information with outside organizations without obtaining your permission except for authorized law enforcement activities.
 
@@ -46,7 +46,7 @@ Back to Top
 
 **Links to Other Web Sites**
 
-Transactions within the CCLA/LINCC network are transmitted within a protected environment. Once you link from CCLA's Web sites to another site, you are subject to the privacy policy and security practices of the new site. Such linking does not constitute CCLA's endorsement of the new site's privacy policy. Please refer to [CCLA's Terms of Use Statement](https://web.archive.org/web/20090419084525id_/http%3A//www.linccweb.org/faqs/terms_of_use.asp) for more information about links from CCLA's Web sites to other Web sites.
+Transactions within the CCLA/LINCC network are transmitted within a protected environment. Once you link from CCLA's Web sites to another site, you are subject to the privacy policy and security practices of the new site. Such linking does not constitute CCLA's endorsement of the new site's privacy policy. Please refer to CCLA's [Terms of Use](https://web.archive.org/cmn/terms_of_use.asp) for more information about links from CCLA's Web sites to other Web sites.
 
 Back to Top
 
@@ -58,7 +58,7 @@ Back to Top
 
 **Contact**
 
-Please [contact CCLA](http://www.cclaflorida.org/crm/ContactUs.asp) if you have questions about this Privacy Statement.
+Please [contact CCLA](https://web.archive.org/ccla/crm/ContactUs.asp) if you have questions about this Privacy Statement.
 
 Only authorized CCLA or library staff with assigned password may access personally identifiable information maintained in LINCC or LINCCWeb and then only for the purpose of performing work related to the delivery of services as described here.
 
