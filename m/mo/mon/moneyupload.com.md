@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the moneyupload.com privacy policy that was archived on 2008-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080401071129id_/http%3A//www.moneyupload.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyupload.com privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111102135id_/http%3A//www.moneyupload.com/policy.php) for the most accurate reproduction.*
 
-# Share your files for get the money: It's free! 100MB
-
-#### Privacy Policy :
+# Register for getting Free Download File Hosting Free Upload Free File Sharing, Register to be rich
 
 When you register with us, we may ask you to provide us with certain personal information, including, but not limited to, your name and email address. 
 
