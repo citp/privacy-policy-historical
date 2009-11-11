@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fortinet.com privacy policy that was archived on 2009-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090509183148id_/http%3A//www.fortinet.com/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortinet.com privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111013135id_/http%3A//www.fortinet.com/aboutus/privacy.html) for the most accurate reproduction.*
 
 # Fortinet, Inc. : Multi-threat Security Systems For Real Time Network Protection, Network Virus Protection, VPN, Intrusion Detection & Prevention
 
