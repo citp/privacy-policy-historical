@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the skdtac.com privacy policy that was archived on 2009-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090406014224id_/http%3A//www.skdtac.com/Articles.asp%3FID%3D147) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skdtac.com privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111164520id_/http%3A//www.skdtac.com/skd_tactical_terms_a/147.htm) for the most accurate reproduction.*
 
-# 
+# Slings, Chest Rigs, Plate Carrier, Pouches ::SKD TACTICAL:: MultiCam Gear, BDU, AR15 Accessories
 
-[](http://www.skdtac.com/default.asp) |   
----|---  
-  
 | 
 
 **SKD respects your privacy, and we are committed to protecting it.**
@@ -80,7 +77,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20090406014224id_/http%3A//www.skdtac.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20091111164520id_/http%3A//www.skdtac.com/skd_tactical_terms_a/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
@@ -91,95 +88,98 @@ By using our site, you consent to our privacy policy.
 | | ALL CATEGORIES:  
 ---  
   
-  * [AR15 X: Sights, Grips, Mounts, Rails, Stocks, Slings ](https://web.archive.org/SearchResults.asp?Cat=440)
-  * [BAGS/PACKS: Backpacks, Gun Cases, Bags](https://web.archive.org/SearchResults.asp?Cat=443)
-  * [CHEST RIGS: Chest Rigs](https://web.archive.org/SearchResults.asp?Cat=2346)
-  * [CLOTHING: BDU'S, T-shirts, Gloves, Hats](https://web.archive.org/SearchResults.asp?Cat=384)
-  * [HOLSTERS: Belt, Drop Leg, Modular](https://web.archive.org/SearchResults.asp?Cat=444)
-  * [HYDRATION: Bladders, Packs, Bottles](https://web.archive.org/SearchResults.asp?Cat=445)
-  * [ILLUMINATION: Flashlights, Infra-Red, Bulbs, LED](https://web.archive.org/SearchResults.asp?Cat=437)
-  * [KNIVES: Folders, Fixed, Automatic, Sheaths](https://web.archive.org/SearchResults.asp?Cat=436)
-  * [LAW ENFORCEMENT/ MILITARY: Armor, Firearms](https://web.archive.org/SearchResults.asp?Cat=439)
-  * [MULTICAM: Chest Rigs, Plate Carriers, BDU's](https://web.archive.org/SearchResults.asp?Cat=387)
-  * [OUTDOOR GEAR: Sleeping Pads, Water, Towels](https://web.archive.org/SearchResults.asp?Cat=2347)
-  * [PATCHES: Bloodtype, IR, Flags, Morale, Police](https://web.archive.org/SearchResults.asp?Cat=385)
-  * [PLATE CARRIERS: Plate Carriers](https://web.archive.org/SearchResults.asp?Cat=2348)
-  * [POUCHES: Medical, Dump, Admin, Mag](https://web.archive.org/SearchResults.asp?Cat=473)
-  * [PROTECTIVE GEAR: Glasses, Armor, Pads, Gloves](https://web.archive.org/SearchResults.asp?Cat=386)
-  * [SNIPER GEAR: Cases, Covers, Bean Bags](https://web.archive.org/SearchResults.asp?Cat=2349)
-  * [SUBLOADS: Panels, Pouches, Holsters](https://web.archive.org/SearchResults.asp?Cat=2350)
-  * [WEAPONS X: AK47, AR10, Handgun, M14, Shotgun](https://web.archive.org/SearchResults.asp?Cat=3895)
+  * [AR15 X: Slings, Sights, Grips, Mounts, Rails, Stocks ](https://web.archive.org/AR15_s/3828.htm)
+  * [BAGS/PACKS: Backpacks, Gun Cases, Bags](https://web.archive.org/Bags_Packs_s/177.htm)
+  * [CHEST RIGS: Chest Rigs](https://web.archive.org/All_Chest_Rigs_s/2346.htm)
+  * [CLOTHING: BDU'S, T-shirts, Gloves, Hats](https://web.archive.org/Clothing_s/201.htm)
+  * [HOLSTERS: Belt, Drop Leg, Modular](https://web.archive.org/Holsters_s/200.htm)
+  * [HYDRATION: Bladders, Packs, Bottles](https://web.archive.org/Hydration_s/199.htm)
+  * [ILLUMINATION: Flashlights, Infra-Red, Bulbs, LED](https://web.archive.org/Lights_s/207.htm)
+  * [KNIVES: Folders, Fixed, Automatic, Sheaths](https://web.archive.org/Knives_s/203.htm)
+  * [LAW ENFORCEMENT/ MILITARY: Armor, Firearms](https://web.archive.org/LE_Mil_s/204.htm)
+  * [MULTICAM: Chest Rigs, Plate Carriers, BDU's](https://web.archive.org/MultiCam_Gear_s/206.htm)
+  * [OUTDOOR GEAR: Sleeping Pads, Water, Towels](https://web.archive.org/All_Outdoor_Gear_s/2347.htm)
+  * [PATCHES: Bloodtype, IR, Flags, Morale, Police](https://web.archive.org/Patches_Velcro_s/210.htm)
+  * [PLATE CARRIERS: Plate Carriers](https://web.archive.org/Plate_Carriers_All_s/2348.htm)
+  * [POUCHES: Medical, Dump, Admin, Mag](https://web.archive.org/Pouches_s/457.htm)
+  * [PROTECTIVE GEAR: Glasses, Armor, Pads, Gloves](https://web.archive.org/Protective_Gear_s/208.htm)
+  * [SLINGS: mounts, padded, single, double, triple ](https://web.archive.org/Slings_AR15_s/214.htm)
+  * [SNIPER GEAR: Cases, Covers, Bean Bags](https://web.archive.org/Sniper_Gear_All_s/2349.htm)
+  * [SUBLOADS: Panels, Pouches, Holsters](https://web.archive.org/Subloads_All_s/2350.htm)
+  * [WEAPONS X: AK47, AR10, Handgun, M14, Shotgun](https://web.archive.org/Weapons_s/215.htm)
 
   
 | ALL BRANDS:  
 ---  
   
-  * [aimpoint, ](https://web.archive.org/SearchResults.asp?Cat=326)
-  * [alta industries, ](https://web.archive.org/SearchResults.asp?Cat=3541)
-  * [Bals, ](https://web.archive.org/SearchResults.asp?Cat=422)
+  * [aimpoint, ](https://web.archive.org/aimpoint_s/326.htm)
+  * [alta industries, ](https://web.archive.org/alta_industr3541)
   * [  
-Benchmade, ](https://web.archive.org/SearchResults.asp?Cat=327)
-  * [blackhawk CQC, ](https://web.archive.org/SearchResults.asp?Cat=3542)
+Bals, ](https://web.archive.org/bals_s/422.htm)
+  * [Blue Force Gear, ](https://web.archive.org/blue_force_gear_s/12273.htm)
   * [  
-Bobro, ](https://web.archive.org/SearchResults.asp?Cat=423)
-  * [Bolle, ](https://web.archive.org/SearchResults.asp?Cat=3543)
+Benchmade, ](https://web.archive.org/benchmade_s/327.htm)
+  * [blackhawk CQC, ](https://web.archive.org/blackhawk_s/3542.htm)
   * [  
-Camelbak, ](https://web.archive.org/SearchResults.asp?Cat=329)
-  * [Cyalume, ](https://web.archive.org/SearchResults.asp?Cat=3544)
+Bobro, ](https://web.archive.org/bobro_s/423.htm)
+  * [Bolle, ](https://web.archive.org/bolle_s/3543.htm)
   * [  
-Eagle industries, ](https://web.archive.org/SearchResults.asp?Cat=331)
-  * [EGL, ](https://web.archive.org/SearchResults.asp?Cat=340)
+Camelbak, ](https://web.archive.org/camelbak_s/329.htm)
+  * [Cyalume, ](https://web.archive.org/cyalume_s/3544.htm)
   * [  
-Eotech, ](https://web.archive.org/SearchResults.asp?Cat=342)
-  * [Esstac, ](https://web.archive.org/SearchResults.asp?Cat=343)
-  * [Hawkepaks, ](https://web.archive.org/SearchResults.asp?Cat=3545)
+Daniel Defense, ](https://web.archive.org/daniel_defense_s/163.htm)
   * [  
-HSGI, ](https://web.archive.org/SearchResults.asp?Cat=344)
-  * [Insight Tech, ](https://web.archive.org/SearchResults.asp?Cat=346)
-  * [Larue Tactical, ](https://web.archive.org/SearchResults.asp?Cat=347)
+Eagle industries, ](https://web.archive.org/eagle_industries_s/331.htm)
+  * [EGL, ](https://web.archive.org/extreme_gear_labs_s/340.htm)
   * [  
-Magpul, ](https://web.archive.org/SearchResults.asp?Cat=348)
-  * [Maxpedition, ](https://web.archive.org/SearchResults.asp?Cat=426)
-  * [Meopta, ](https://web.archive.org/SearchResults.asp?Cat=427)
+Eotech, ](https://web.archive.org/eotech_s/342.htm)
+  * [Esstac, ](https://web.archive.org/essential_tactical_s/343.htm)
+  * [Hawkepaks, ](https://web.archive.org/hawkepaks_s/3545.htm)
   * [  
-Midwest Industries, ](https://web.archive.org/SearchResults.asp?Cat=370)
-  * [MSR,](https://web.archive.org/category_s/3548.htm)
+HSGI, ](https://web.archive.org/hsgi_s/344.htm)
+  * [Insight Tech, ](https://web.archive.org/insight_tech_s/346.htm)
+  * [Larue Tactical, ](https://web.archive.org/larue_tactical_s/347.htm)
   * [  
-OUTDOOR RESEARCH, ](https://web.archive.org/category_s/3549.htm)
+Magpul, ](https://web.archive.org/magpul_s/348.htm)
+  * [Maxpedition, ](https://web.archive.org/maxpedition_s/426.htm)
+  * [Meopta, ](https://web.archive.org/meopta_s/427.htm)
   * [  
-Patrol Incident Gear (PIG)](https://web.archive.org/SearchResults.asp?Cat=428)
+Midwest Industries, ](https://web.archive.org/midwest_industries_s/370.htm)
+  * [MSR,](https://web.archive.org/msr_s/3548.htm)
   * [  
-Petzl, ](https://web.archive.org/SearchResults.asp?Cat=3550)
-  * [PPI, ](https://web.archive.org/SearchResults.asp?Cat=3551)
-  * [PRI, ](https://web.archive.org/SearchResults.asp?Cat=3552)
+OUTDOOR RESEARCH, ](https://web.archive.org/outdoor_research_s/3549.htm)
   * [  
-PWS, ](https://web.archive.org/SearchResults.asp?Cat=3553)
-  * [ Ready Tactical, ](https://web.archive.org/SearchResults.asp?Cat=350)
+Patrol Incident Gear (PIG)](https://web.archive.org/PIG_s/428.htm)
   * [  
-Rite in the rain, ](https://web.archive.org/SearchResults.asp?Cat=3554)
-  * [SKD Tactical, ](https://web.archive.org/SearchResults.asp?Cat=429)
+Petzl, ](https://web.archive.org/petzl_s/3550.htm)
+  * [PPI, ](https://web.archive.org/ppi_s/3551.htm)
+  * [PRI, ](https://web.archive.org/precision_reflex_inc_s/3552.htm)
   * [  
-Skydex, ](https://web.archive.org/SearchResults.asp?Cat=3555)
-  * [Slip2000, ](https://web.archive.org/SearchResults.asp?Cat=3556)
-  * [S.O.Tech, ](https://web.archive.org/SearchResults.asp?Cat=394)
+PWS, ](https://web.archive.org/primary_weapons_systems_s/3553.htm)
+  * [ Ready Tactical, ](https://web.archive.org/ready_tactical_s/350.htm)
   * [  
-Spec-OPS, ](https://web.archive.org/SearchResults.asp?Cat=3557)
-  * [Specter, ](https://web.archive.org/SearchResults.asp?Cat=3558)
-  * [Surefire, ](https://web.archive.org/SearchResults.asp?Cat=353)
+Rite in the rain, ](https://web.archive.org/rite_in_the_rain_s/3554.htm)
+  * [SKD Tactical, ](https://web.archive.org/skd_tactical_s/429.htm)
   * [  
-Tangodown, ](https://web.archive.org/SearchResults.asp?Cat=355)
-  * [Trijicon, ](https://web.archive.org/SearchResults.asp?Cat=430)
+Skydex, ](https://web.archive.org/skydex_s/3555.htm)
+  * [Slip2000, ](https://web.archive.org/slip_2000_s/3556.htm)
+  * [S.O.Tech, ](https://web.archive.org/sotech_s/394.htm)
   * [  
-Troy, ](https://web.archive.org/SearchResults.asp?Cat=357)
-  * [Viking Tactics, ](https://web.archive.org/SearchResults.asp?Cat=358)
+Spec-OPS, ](https://web.archive.org/specops_s/3557.htm)
+  * [Specter, ](https://web.archive.org/specter_s/3558.htm)
+  * [Surefire, ](https://web.archive.org/surefire_s/353.htm)
   * [  
-Vltor, ](https://web.archive.org/SearchResults.asp?Cat=359)
-  * [WARREN TACTICAL, ](https://web.archive.org/SearchResults.asp?Cat=360)
+Tangodown, ](https://web.archive.org/tangodown_s/355.htm)
+  * [Trijicon, ](https://web.archive.org/trijicon_s/430.htm)
   * [  
-Zero tolerance](https://web.archive.org/SearchResults.asp?Cat=431)
+Troy, ](https://web.archive.org/troy_s/357.htm)
+  * [Viking Tactics, ](https://web.archive.org/viking_tactics_s/358.htm)
+  * [  
+Vltor, ](https://web.archive.org/vltor_s/359.htm)
+  * [WARREN TACTICAL, ](https://web.archive.org/warren_tactical_s/360.htm)
+  * [  
+Zero tolerance](https://web.archive.org/zero_tolerance_s/431.htm)
 
   
    
  |  | 
-
-[Sell Online](http://www.volusion.com/) with Volusion.
