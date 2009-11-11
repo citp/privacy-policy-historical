@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sesamecommunications.com privacy policy that was archived on 2009-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090427194147id_/http%3A//sesamecommunications.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sesamecommunications.com privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111020144id_/http%3A//www.sesamecommunications.com/privacy.php) for the most accurate reproduction.*
 
 # Sesame Communications™ | Online Patient Communications Appointment Reminder Services | Privacy Policy
 
@@ -86,6 +86,6 @@ Sesame Communications™
 
 Renton, WA 98057
 
-[privacy@sesamecommunications.com](http://sesamecommunications.com/# "privacy@sesamecommunications.com")
+[privacy@sesamecommunications.com](http://www.sesamecommunications.com/# "privacy@sesamecommunications.com")
 
-[Top](http://sesamecommunications.com/privacy.php# "Return to the top of this page")
+[Top](http://www.sesamecommunications.com/privacy.php# "Return to the top of this page")
