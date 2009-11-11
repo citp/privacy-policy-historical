@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailyaddictinggames.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616063634id_/http%3A//www.dailyaddictinggames.com/index.php%3Fpageid%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyaddictinggames.com privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111061725id_/http%3A//www.dailyaddictinggames.com/index.php%3Fpageid%3D3) for the most accurate reproduction.*
 
-# Daily Addicting Games - Privacy Policy
+# Privacy Policy // DailyAddictingGames.com
 
 WEB ENTERTAINMENT PRODUCTIONS, INC. PRIVACY POLICY
 
