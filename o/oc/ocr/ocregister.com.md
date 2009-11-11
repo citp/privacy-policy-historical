@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ocregister.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628135631id_/http%3A//www.freedom.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ocregister.com privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111012904id_/http%3A//www.ocregister.com/privacy) for the most accurate reproduction.*
 
 # Freedom Communications, Inc. - Privacy Policy
 
-[en Español](https://web.archive.org/web/20090628135631id_/http%3A//www.freedom.com/privacidad.html)
+[en Español](https://web.archive.org/web/20091107172042id_/http://www.freedom.com/privacidad.html)
 
-This is the Privacy Policy for all Web sites owned or operated by Freedom Communications, Inc. ("Freedom" "we" or "our"), including, without limitation the Web sites listed [here](https://web.archive.org/web/20090628135631id_/http%3A//www.freedom.com/ppsites.html) (collectively, the "Site"). We respect your privacy and appreciate the confidence you have placed in the Site. We are committed to protecting your privacy and preserving your trust. Please carefully review this Privacy Policy to learn about how we collect, use, and protect any personal information you provide us and your choices for managing your personal information. This Privacy Policy is subject to the [User Agreement](https://web.archive.org/web/20090628135631id_/http%3A//www.freedom.com/eula.html) posted on the Site.
+This is the Privacy Policy for all Web sites owned or operated by Freedom Communications, Inc. ("Freedom" "we" or "our"), including, without limitation the Web sites listed [here](https://web.archive.org/web/20091107172042id_/http://www.freedom.com/ppsites.html) (collectively, the "Site"). We respect your privacy and appreciate the confidence you have placed in the Site. We are committed to protecting your privacy and preserving your trust. Please carefully review this Privacy Policy to learn about how we collect, use, and protect any personal information you provide us and your choices for managing your personal information. This Privacy Policy is subject to the [User Agreement](https://web.archive.org/web/20091107172042id_/http://www.freedom.com/eula.html) posted on the Site.
 
 **Managing Information Preferences**
 
