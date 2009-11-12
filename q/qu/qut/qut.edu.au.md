@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qut.edu.au privacy policy that was archived on 2009-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090123172846id_/http%3A//www.qut.edu.au/general/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qut.edu.au privacy policy that was archived on 2009-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091112041503id_/http%3A//www.qut.edu.au/general/privacy.jsp) for the most accurate reproduction.*
 
 # QUT | QUT's privacy and security statement
 
@@ -9,7 +9,7 @@ Further information about privacy
 
 Thank you for visiting QUT's website. QUT is committed to protecting the privacy of users of our website. We understand that visitors to and users of this website are concerned about their privacy and the security of any information that they may provide. 
 
-The Queensland Government has established a privacy regime for Queensland public sector departments and agencies, including statutory authorities such as QUT. The privacy regime has been implemented by administrative means, with the issue of [Information Standard No 42-Information Privacy (IS42)](http://www.qgcio.qld.gov.au/qgcio/architectureandstandards/informationstandards/toolbox/Pages/Information%20Privacy.aspx). IS42 states that personal information held by Queensland agencies must be responsibly collected and managed in accordance with 11 Information Privacy Principles adapted from the _Commonwealth Privacy Act 1988_. 
+QUT ensures that personal information is responsibly collected and managed in accordance with 11 Information Privacy Principles of the _Information Privacy Act 2009_. 
 
 Like many other websites, we monitor usage of the QUT site to help us to make it useful to as many visitors as possible. Consequently, our website does collect some information about users of the site, and we may also ask you for information in order to provide a service to you. Details of what we collect and how it is used are contained in this statement. 
 
@@ -52,7 +52,7 @@ Email messages may be monitored by our website support staff for system trouble 
 
 ####  Further information about privacy
 
-Information on how QUT manages personal privacy can be found at [QUT's Privacy Plan](http://www.governance.qut.edu.au/compliance/privacy/plan/index.jsp) in the Governance Services website. If you have any questions about QUT's privacy and security practices, you can contact the QUT Privacy Contact Officer at the following address:
+Details on how QUT manages the privacy of personal information can be found in the [Information Privacy](http://www.governance.qut.edu.au/compliance/privacy/) section of the Governance Services website. If you have any questions about QUT's privacy and security practices, you can contact the QUT Privacy Officer at the following address:
 
 Policy and Compliance Manager  
 Governance Services   
