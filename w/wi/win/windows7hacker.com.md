@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the windows7hacker.com privacy policy that was archived on 2009-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090508083130id_/http%3A//www.windows7hacker.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windows7hacker.com privacy policy that was archived on 2009-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091112124818id_/http%3A//www.windows7hacker.com/index.php/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Windows 7 Hacker
+# Privacy Policy | Windows 7 hacker
 
 ## Privacy Policy
-
-Written by [kent](http://www.windows7hacker.com/index.php/author/kent/ "Posts by kent") on May 4, 2009 under [General](http://www.windows7hacker.com/index.php/category/general/ "View all posts in General"). 
 
 Privacy Policy for windows7hacker.com
 
