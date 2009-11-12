@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the australia.gov.au privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604083347id_/http%3A//www.australia.gov.au/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the australia.gov.au privacy policy that was archived on 2009-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091112024751id_/http%3A//www2.australia.gov.au/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - australia.gov.au
 
@@ -42,12 +42,13 @@ We also follow the Guidelines for Federal and ACT Government Websites issued by 
 
 Alternatively, write to us at:
 
-**Manager, australia.gov.au**  
-Australian Government Information Management Office  
+Manager, australia.gov.au  
+Australian Government Information Management Office,   
 Department of Finance and Deregulation  
 John Gorton Building  
 King Edward Terrace  
 Parkes ACT 2600  
-AUSTRALIA
+Australia
 
-For more information about our privacy practices, see our [full privacy statement.](https://web.archive.org/privacy-statement/full-privacy-statement)
+For more information about our privacy practices, see our [full privacy statement.](https://web.archive.org/about/privacy-statement/full-privacy-statement)
+  *[ACT]: Australian Capital Territory
