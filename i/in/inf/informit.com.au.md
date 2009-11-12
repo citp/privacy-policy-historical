@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the informit.com.au privacy policy that was archived on 2009-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090515154438id_/http%3A//www.informit.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the informit.com.au privacy policy that was archived on 2009-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091112045318id_/http%3A//www.informit.com.au/privacy.html) for the most accurate reproduction.*
 
 # Informit
 
