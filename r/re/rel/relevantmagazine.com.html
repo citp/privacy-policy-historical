@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the relevantmagazine.com privacy policy that was archived on 2009-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090608164636id_/http%3A//www.relevantmagazine.com/footer/15835-privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the relevantmagazine.com privacy policy that was archived on 2009-11-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091112041433id_/http%3A//www.relevantmagazine.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D15835) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr"><head>
-  <base href="http://www.relevantmagazine.com/footer/15835-privacy-policy">
+  <base href="http://www.relevantmagazine.com/index.php">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="author" content="Tim Dikun">
   <meta name="description" content="">
@@ -16,10 +16,57 @@
   <link rel="stylesheet" href="http://www.relevantmagazine.com/modules/mod_yoo_toppanel/mod_yoo_toppanel.css.php" type="text/css">
   <script type="text/javascript" src="/templates/yoo_waybeyond/lib/js/mootools.js.php"></script>
   <script type="text/javascript" src="/media/system/js/caption.js"></script>
+  <script type="text/javascript" src="/plugins/content/avreloaded/silverlight.js"></script>
+  <script type="text/javascript" src="/plugins/content/avreloaded/wmvplayer.js"></script>
+  <script type="text/javascript" src="/plugins/content/avreloaded/swfobject.js"></script>
+  <script type="text/javascript" src="/plugins/content/avreloaded/avreloaded.js"></script>
   <script type="text/javascript" src="http://www.relevantmagazine.com/modules/mod_yoo_search/mod_yoo_search.js"></script>
   <script type="text/javascript" src="/media/system/js/openid.js"></script>
   <script type="text/javascript" src="http://www.relevantmagazine.com/modules/mod_yoo_toppanel/mod_yoo_toppanel.js"></script>
   <script type="text/javascript">
+window.addEvent("domready", function() {
+	 					/// Get all redirect links
+						var links = $$("a[href*=com_ijoomla_seo]");
+	 					
+						/*links.each(function(link){
+	 						alert(link.innerHTML);
+	 					});*/
+	 					
+	 					links.addEvents({
+	 						'click' : function (ev){
+	 							ev = new Event(ev).stop();
+	 							hr = this.href;
+	 							/// Get the seo redirect id from link url
+	 							if(hr.contains("id=")){
+	 								arr = hr.split("id=");
+	 								var id = arr[1];
+	 							}
+	 							if(hr.contains("/id,")){
+	 								arr = hr.split("/id,");
+	 								var id = arr[1].charAt(0);	 								
+	 							}
+	 							obj = this;
+	 							
+	 							var url = "administrator/components/com_ijoomla_seo/ajax.php?tasks=redirect&amp;id="+id;
+	 							new Ajax(url, {
+									method: 'post',									
+									onComplete: function(resp){					 									 					
+					 					changeURL(obj, resp)
+					 				}.bind(this) 
+								}).request();
+									 							
+	 						   }
+	 					    });
+	 					    
+	 					    function changeURL(obj, resp){	 							
+	 							var prop = resp.split(",");	 							
+	 							if(prop[1] == "_blank")	 									 							
+	 					    			window.open(prop[0], "name");
+	 					    		else 
+	 					    			window.location = prop[0];
+	 						}
+	 					
+					}); 
 var YtSettings = { tplurl: '/templates/yoo_waybeyond', color: 'white', itemColor: 'red', layout: 'right' };
   </script>
   <script type="text/javascript">
@@ -50,11 +97,32 @@ var jc_commentForm;
 <link rel="apple-touch-icon" href="/templates/yoo_waybeyond/apple_touch_icon.png">
 <link rel="alternate" title="RELEVANTMagazine.com Slices" type="application/rss+xml" href="http://feeds2.feedburner.com/RelevantmagazinecomSlices">  
 <link rel="alternate" title="The RELEVANT Podcast" type="application/rss+xml" href="http://www.relevantmagazine.com/index.php?option=com_podcast&amp;view=feed&amp;format=raw">  
-<script type="text/javascript" src="http://www.relevantmagazine.com/newsite/templates/yoo_waybeyond/js/bc.js"></script>
+<script type="text/javascript" src="http://www.relevantmagazine.com/templates/yoo_waybeyond/js/bc.js"></script>
+<style type="text/css">
+
+/* Layout */
+@import "http://www.relevantmagazine.com/templates/yoo_waybeyond/css/dropdown/dropdown.css";
+@import "http://www.relevantmagazine.com/templates/yoo_waybeyond/css/dropdown/dropdown.vertical.css";
+@import "http://www.relevantmagazine.com/templates/yoo_waybeyond/css/dropdown/dropdown.vertical.rtl.css";
+@import "http://www.relevantmagazine.com/templates/yoo_waybeyond/css/dropdown/dropdown.upward.css";
+@import "http://www.relevantmagazine.com/templates/yoo_waybeyond/css/dropdown/dropdown.linear.css";
+
+/* Theme */
+@import "http://www.relevantmagazine.com/templates/yoo_waybeyond/css/dropdown/themes/_template/default.css";
+
+</style>
+
+<!--[if lte IE 7]>
+<script type="text/javascript" src="http://www.relevantmagazine.com/templates/yoo_waybeyond/js/jquery/jquery.js"></script>
+<script type="text/javascript" src="http://www.relevantmagazine.com/templates/yoo_waybeyond/js/jquery/jquery.dropdown.js"></script>
+<link rel="stylesheet" type="text/css" href="http://www.relevantmagazine.com/templates/yoo_waybeyond/css/iehacks.css"/>
+<![endif]-->
 
 </head>
 
-<body id="page" class="yoopage right  red footer">
+<body id="page" class="yoopage   red    
+      ">
+      
 
 		<div id="absolute">
 		<div class="transparent">
@@ -66,7 +134,7 @@ var jc_commentForm;
 					<div class="content" style="width: 400px;">
 																		<div class="article">
 	
-<form action="/footer" method="post" name="login">
+<form action="/component/content/" method="post" name="login">
 
 <span class="niftyquick" style="display: block;">
 	<span class="yoo-login">
@@ -109,8 +177,8 @@ var jc_commentForm;
 						
 			<input type="hidden" name="option" value="com_user">
 			<input type="hidden" name="task" value="login">
-			<input type="hidden" name="return" value="aHR0cDovL3d3dy5yZWxldmFudG1hZ2F6aW5lLmNvbS9mb290ZXIvMTU4MzUtcHJpdmFjeS1wb2xpY3k=">
-			<input type="hidden" name="11f7fac00453de273bc74e53522e0cd4" value="1">
+			<input type="hidden" name="return" value="aHR0cDovL3d3dy5yZWxldmFudG1hZ2F6aW5lLmNvbS9pbmRleC5waHA/b3B0aW9uPWNvbV9jb250ZW50JnZpZXc9YXJ0aWNsZSZpZD0xNTgzNQ==">
+			<input type="hidden" name="5cde3dfefdb73837ba60251f4d9aa4de" value="1">
 		</span>
 		
 				
@@ -147,19 +215,10 @@ panelFx1.addTriggerEvent('#yoo-toppanel-1 .close');
 					<div class="floatbox ie_fix_floats">
 					
 												<div id="date">
-							Monday, 08 June 2009						</div>
+							Wednesday, 11 November 2009						</div>
 							
-												<div id="topmenu">
-							<ul class="menu"><li class="level1 item3 first"><a href="/forum" class="level1 item3 first"><span>Forums</span></a></li><li rel="223" class="level1 item4"><a href="/community/blogs" class="level1 item4"><span>Blogs</span></a></li><li rel="229" class="level1 item5 last"><a href="/main/church-directory" class="level1 item5 last"><span>Church Directory</span></a></li></ul>
-						</div>
 						
-									<div class="mod-blank">
-				<div class="module deepest">
-				
-										<img src="/images/yootheme/toolbar_flags.png" class="correct-png" width="123" height="15" alt="Languages" style="margin-top: 5px; float: right">					
-				</div>
-			</div>
-			
+						
 	
 					</div>
 				</div>
@@ -168,15 +227,11 @@ panelFx1.addTriggerEvent('#yoo-toppanel-1 .close');
 					<div class="floatbox ie_fix_floats">
 								
 						<div id="logo">
-							<a href="/index.php" title="Home"><img class="correct-png" src="/images/yootheme/logo.png" border="0" alt="Logo"></a>
+												<iframe id="af8e9b28" name="af8e9b28" src="http://www.relevantmagazine.com/ads/www/delivery/afr.php?n=af8e9b28&amp;zoneid=3&amp;cb=INSERT_RANDOM_NUMBER_HERE" framespacing="0" frameborder="no" scrolling="no" width="728" height="90"></iframe>
+<script type="text/javascript" src="http://www.relevantmagazine.com/ads/www/delivery/ag.php"></script>
+													<a href="http://www.relevantmagazine.com/index.php" title="Home"><img class="correct-png" src="http://www.relevantmagazine.com/images/yootheme/logo.png" alt="Logo" border="0"></a>
 						</div>
-												<object width="250" height="100" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0" title="">
-<param name="scale" value="showall">
-<param name="bgcolor" value="">
-<param name="wmode" value="">
-<param name="flashvars" value="">
-<param name="movie" value="/media/fp_flipper.swf">
-<param name="quality" value="high"><embed width="250" height="100" scale="showall" quality="high" src="/media/fp_flipper.swf" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash"></object>
+												
 					</div>
 				</div>
 
@@ -187,7 +242,7 @@ panelFx1.addTriggerEvent('#yoo-toppanel-1 .close');
 				</div>
 
 								<div id="menu">
-					<ul class="menu"><li class="level1 item33 first parent"><a href="http://www.relevantmagazine.com/" class="level1 item33 first parent"><span>Main</span></a><ul class="level2"><li rel="168" class="level2 item1 first"><a href="/forum" class="level2 item1 first"><span>Forums</span></a></li><li class="level2 item2 parent"><a href="/main/slices" class="level2 item2 parent"><span>Slices</span></a><ul class="level3"><li class="level3 item1 first"><a href="/main/slices/culture" class="level3 item1 first"><span>Culture</span></a></li><li class="level3 item2"><a href="/main/slices/misc" class="level3 item2"><span>Misc.</span></a></li><li class="level3 item3"><a href="/main/slices/movies" class="level3 item3"><span>Movies</span></a></li><li class="level3 item4"><a href="/main/slices/music" class="level3 item4"><span>Music</span></a></li><li class="level3 item5"><a href="/main/slices/politics" class="level3 item5"><span>Politics</span></a></li><li class="level3 item6"><a href="/main/slices/reject-apathy" class="level3 item6"><span>Reject Apathy</span></a></li><li class="level3 item7"><a href="/main/slices/religion" class="level3 item7"><span>Religion</span></a></li><li class="level3 item8"><a href="/main/slices/tech" class="level3 item8"><span>Tech</span></a></li><li class="level3 item9 last"><a href="/main/slices/weird" class="level3 item9 last"><span>Weird</span></a></li></ul></li><li class="level2 item3"><a href="/main/church-directory" class="level2 item3"><span>Church Directory</span></a></li><li class="level2 item5"><a href="http://www.relevantmediagroup.com" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,');return false;" class="level2 item5"><span>Relevant Media Group</span></a></li><li class="level2 item6"><a href="/main/advertising" class="level2 item6"><span>Advertising</span></a></li><li class="level2 item7"><a href="http://www.relevantmediagroup.com/our-team/" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,');return false;" class="level2 item7"><span>Our Team</span></a></li><li class="level2 item8"><a href="http://www.relevantmediagroup.com/jobs/" class="level2 item8"><span>Jobs</span></a></li><li class="level2 item9"><a href="https://subforms.com/relevant/gift.asp?promocode=sit" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,');return false;" class="level2 item9"><span>Give RELEVANT</span></a></li><li class="level2 item10 last"><a href="/main/loginregister" class="level2 item10 last"><span>Login/Register</span></a></li></ul></li><li rel="238" class="level1 item34 parent"><a href="/columns/columns-main" class="level1 item34 parent"><span>Columns</span></a><ul class="level2"><li class="level2 item1 first"><a href="/columns/columns-main" class="level2 item1 first"><span>Columns Main</span></a></li><li class="level2 item2"><a href="/columns/deeper-walk" class="level2 item2"><span>Deeper Walk</span></a></li><li class="level2 item3"><a href="/columns/church-today" class="level2 item3"><span>Church Today</span></a></li><li class="level2 item4"><a href="/columns/editors-note" class="level2 item4"><span>Editor's Note</span></a></li><li class="level2 item5"><a href="/columns/film" class="level2 item5"><span>Film Columns</span></a></li><li class="level2 item6"><a href="/columns/intentional-living" class="level2 item6"><span>Intentional Living</span></a></li><li class="level2 item7"><a href="/columns/music" class="level2 item7"><span>Music Columns</span></a></li><li class="level2 item8"><a href="/columns/op-ed" class="level2 item8"><span>Op Ed</span></a></li><li class="level2 item9"><a href="/columns/politics" class="level2 item9"><span>Politics</span></a></li><li class="level2 item10"><a href="/columns/reject-apathy" class="level2 item10"><span>Reject Apathy</span></a></li><li class="level2 item11"><a href="/columns/relationship" class="level2 item11"><span>Relationship</span></a></li><li rel="223" class="level2 item12 last"><a href="/community/blogs" class="level2 item12 last"><span>Community Blogs</span></a></li></ul></li><li class="level1 item36 parent"><a href="/features-reviews" class="level1 item36 parent"><span>Features</span></a><ul class="level2"><li class="level2 item1 first"><a href="/features-reviews/features-main" class="level2 item1 first"><span>Features Main</span></a></li><li class="level2 item2"><a href="/features-reviews/god" class="level2 item2"><span>God</span></a></li><li class="level2 item3"><a href="/features-reviews/life" class="level2 item3"><span>Life</span></a></li><li class="level2 item4 parent"><a href="/features-reviews/progressive-culture" class="level2 item4 parent"><span>Progressive Culture</span></a><ul class="level3"><li class="level3 item1 first"><a href="/features-reviews/progressive-culture/music" class="level3 item1 first"><span>Music</span></a></li><li class="level3 item2"><a href="/features-reviews/progressive-culture/film" class="level3 item2"><span>Film</span></a></li><li class="level3 item3 last"><a href="/features-reviews/progressive-culture/books" class="level3 item3 last"><span>Books</span></a></li></ul></li><li class="level2 item5"><a href="/features-reviews/reject-apathy" class="level2 item5"><span>Reject Apathy</span></a></li><li class="level2 item6 last parent"><a href="/features-reviews/reviews" class="level2 item6 last parent"><span>Reviews</span></a><ul class="level3"><li class="level3 item1 first"><a href="/features-reviews/reviews/music-reviews" class="level3 item1 first"><span>Music Reviews</span></a></li><li class="level3 item2"><a href="/features-reviews/reviews/film-reviews" class="level3 item2"><span>Film Reviews</span></a></li><li class="level3 item3 last"><a href="/features-reviews/reviews/book-reviews" class="level3 item3 last"><span>Book Reviews</span></a></li></ul></li></ul></li><li rel="181" class="level1 item37 parent"><a href="/magazine/current-issue" class="level1 item37 parent"><span>Magazine</span></a><ul class="level2"><li class="level2 item1 first"><a href="https://subforms.com/relevant/usa_sub.asp?promocode=CD_sit" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,');return false;" class="level2 item1 first"><span style="background-image: url(http://www.relevantmagazine.com/images/stories/submenu_flame.png);">Subscribe</span></a></li><li class="level2 item2"><a href="/magazine/current-issue" class="level2 item2"><span>Current Issue</span></a></li><li class="level2 item3"><a href="https://subforms.com/relevant/gift.asp?promocode=sit" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,');return false;" class="level2 item3"><span>Give RELEVANT</span></a></li><li class="level2 item4"><a href="https://subforms.com/relevant/subservices/sub_login.asp" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,');return false;" class="level2 item4"><span>Subscriber Services</span></a></li><li class="level2 item5"><a href="/magazine/archive" class="level2 item5"><span>Archives</span></a></li><li class="level2 item6 last"><a href="http://www.relevantstore.com/SearchResults.asp?Cat=30" class="level2 item6 last"><span>Buy Back Issues</span></a></li></ul></li><li rel="227" class="level1 item40 parent"><a href="/media/the-drop" class="level1 item40 parent"><span>Media</span></a><ul class="level2"><li class="level2 item2 first"><a href="/media/tv" class="level2 item2 first"><span>RELEVANT.tv</span></a></li><li class="level2 item7"><a href="/media/the-drop" class="level2 item7"><span>The Drop</span></a></li><li class="level2 item8"><a href="/media/relevant-podcast" class="level2 item8"><span>RELEVANT Podcast</span></a></li><li class="level2 item9"><a href="/media/podcast-archives" class="level2 item9"><span>Podcast Archives</span></a></li><li class="level2 item10 last"><a href="/media/music-downloads" class="level2 item10 last"><span>Music Downloads</span></a></li></ul></li><li class="level1 item41 parent"><a href="/community" class="level1 item41 parent"><span>Community</span></a><ul class="level2"><li class="level2 item1 first"><a href="/community/main" class="level2 item1 first"><span>Main</span></a></li><li class="level2 item3"><a href="/community/blogs" class="level2 item3"><span>Blogs</span></a></li><li class="level2 item4"><a href="/community/groups" class="level2 item4"><span>Groups</span></a></li><li class="level2 item5"><a href="/community/photos" class="level2 item5"><span>Photos</span></a></li><li class="level2 item6"><a href="/community/friends" class="level2 item6"><span>Friends</span></a></li><li class="level2 item7"><a href="/community/inbox" class="level2 item7"><span>Inbox</span></a></li><li class="level2 item8 last"><a href="/community/register" class="level2 item8 last"><span>Register</span></a></li></ul></li><li class="level1 item42 parent"><a href="/forum" class="level1 item42 parent"><span>Forums</span></a><ul class="level2"><li class="level2 item1 first"><a href="http://www.relevantmagazine.com/forum/" class="level2 item1 first"><span style="background-image: url(http://www.relevantmagazine.com/images/stories/submenu_flame.png);">Main</span></a></li><li class="level2 item2"><a href="http://www.relevantmagazine.com/forum/viewforum.php?f=4" class="level2 item2"><span>God</span></a></li><li class="level2 item3"><a href="http://www.relevantmagazine.com/forum/viewforum.php?f=3" class="level2 item3"><span>Life</span></a></li><li class="level2 item4"><a href="http://www.relevantmagazine.com/forum/viewforum.php?f=5" class="level2 item4"><span>Culture</span></a></li><li class="level2 item5"><a href="http://www.relevantmagazine.com/forum/viewforum.php?f=8" class="level2 item5"><span>Open</span></a></li><li class="level2 item6"><a href="http://www.relevantmagazine.com/forum/viewforum.php?f=10" class="level2 item6"><span>Politics</span></a></li><li class="level2 item7"><a href="http://www.relevantmagazine.com/forum/viewforum.php?f=12" class="level2 item7"><span>Podcast Fodder</span></a></li><li class="level2 item8"><a href="http://www.relevantmagazine.com/forum/viewforum.php?f=7" class="level2 item8"><span>Talk to RELEVANT</span></a></li><li class="level2 item9 last"><a href="http://www.relevantmagazine.com/main/loginregister" class="level2 item9 last"><span>Log In/Register</span></a></li></ul></li><li class="level1 item44 last parent"><a href="http://www.relevantstore.com" class="level1 item44 last parent"><span>Store</span></a><ul class="level2"><li class="level2 item1 first"><a href="http://www.relevantstore.com/SearchResults.asp?Cat=9" target="_blank" class="level2 item1 first"><span>Men's Apparel</span></a></li><li class="level2 item2"><a href="http://www.relevantstore.com/SearchResults.asp?Cat=10" target="_blank" class="level2 item2"><span>Women's Apparel</span></a></li><li class="level2 item3"><a href="http://www.relevantstore.com/SearchResults.asp?Cat=39" target="_blank" class="level2 item3"><span>Art</span></a></li><li class="level2 item4"><a href="http://www.relevantstore.com/SearchResults.asp?Cat=107" target="_blank" class="level2 item4"><span>CDs/DVDs</span></a></li><li class="level2 item5"><a href="http://www.relevantstore.com/SearchResults.asp?Cat=27" target="_blank" class="level2 item5"><span>Books</span></a></li><li class="level2 item6"><a href="http://www.relevantstore.com/SearchResults.asp?Cat=109" target="_blank" class="level2 item6"><span>Magazines/Bookzines</span></a></li><li class="level2 item7"><a href="http://www.relevantstore.com/SearchResults.asp?Cat=94" target="_blank" class="level2 item7"><span>Shop For A Cause</span></a></li><li class="level2 item8 last"><a href="http://www.relevantstore.com/SearchResults.asp?Cat=105" target="_blank" class="level2 item8 last"><span>SALE</span></a></li></ul></li></ul>
+					<ul class="menu"><li class="level1 item1 first parent"><a href="http://www.relevantmagazine.com/" class="level1 item1 first parent"><span>Main</span></a><ul class="level2"><li class="level2 item1 first parent"><a href="/main/slices" class="level2 item1 first parent"><span>Slices</span></a><ul class="level3"><li rel="303" class="level3 item1 first"><a href="/main/slices" class="level3 item1 first"><span>Main</span></a></li><li class="level3 item2"><a href="/main/slices/weird" class="level3 item2"><span>Weird</span></a></li><li class="level3 item3"><a href="/main/slices/music" class="level3 item3"><span>Music</span></a></li><li class="level3 item4"><a href="/main/slices/tech" class="level3 item4"><span>Tech</span></a></li><li class="level3 item5"><a href="/main/slices/culture" class="level3 item5"><span>Culture</span></a></li><li class="level3 item6"><a href="/main/slices/movies" class="level3 item6"><span>Movies</span></a></li><li class="level3 item7"><a href="/main/slices/politics" class="level3 item7"><span>Politics</span></a></li><li class="level3 item8"><a href="/main/slices/religion" class="level3 item8"><span>Religion</span></a></li><li class="level3 item9"><a href="/main/slices/reject-apathy" class="level3 item9"><span>Reject Apathy</span></a></li><li class="level3 item10 last"><a href="/main/slices/misc" class="level3 item10 last"><span>Misc.</span></a></li></ul></li><li class="level2 item2 parent"><a href="/main/question-of-the-day" class="level2 item2 parent"><span>Question of the Day</span></a><ul class="level3"><li class="level3 item1 first last"><a href="/main/question-of-the-day/question-archives" class="level3 item1 first last"><span>Question Archives</span></a></li></ul></li><li rel="440" class="level2 item3 parent"><a href="/main/cameron-strang/blog" class="level2 item3 parent"><span>Cameron Strang</span></a><ul class="level3"><li class="level3 item1 first"><a href="/main/cameron-strang/blog" class="level3 item1 first"><span>Blog</span></a></li><li class="level3 item2 last"><a href="/main/cameron-strang/tweets" class="level3 item2 last"><span>Tweets</span></a></li></ul></li><li class="level2 item4"><a href="http://www.relevantstreetteam.com/index.php?paged=2" class="level2 item4"><span>Street Teams</span></a></li><li class="level2 item5"><a href="http://www.relevantmagazine.com/subscribe" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,');return false;" class="level2 item5"><span style="background-image: url(http://www.relevantmagazine.com/images/stories/submenu_flame.png);">Subscribe</span></a></li><li class="level2 item6"><a href="https://subforms.com/relevant/subservices/sub_login.asp" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,');return false;" class="level2 item6"><span>Subscriber Services</span></a></li><li class="level2 item7"><a href="https://subforms.com/relevant/gift.asp?promocode=sit" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,');return false;" class="level2 item7"><span>Give RELEVANT</span></a></li><li class="level2 item8"><a href="/main/advertising" class="level2 item8"><span>Advertise</span></a></li><li class="level2 item9"><a href="http://www.relevantmediagroup.com" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,');return false;" class="level2 item9"><span>Relevant Media Group</span></a></li><li class="level2 item10 last"><a href="/main/promote-relevant" class="level2 item10 last"><span>Promote RELEVANT</span></a></li></ul></li><li class="level1 item3 parent"><a href="/god" class="level1 item3 parent"><span>God</span></a><ul class="level2"><li rel="301" class="level2 item1 first"><a href="/god" class="level2 item1 first"><span>Main</span></a></li><li class="level2 item2 parent"><a href="/god/deeper-walk" class="level2 item2 parent"><span>Deeper Walk</span></a><ul class="level3"><li class="level3 item1 first"><a href="/god/deeper-walk/features" class="level3 item1 first"><span>Features</span></a></li><li class="level3 item2 last"><a href="/god/deeper-walk/blog" class="level3 item2 last"><span>Blog</span></a></li></ul></li><li class="level2 item3 parent"><a href="/god/mission" class="level2 item3 parent"><span>Mission</span></a><ul class="level3"><li class="level3 item1 first last"><a href="/god/mission/features" class="level3 item1 first last"><span>Features</span></a></li></ul></li><li class="level2 item5 parent"><a href="/god/church" class="level2 item5 parent"><span>Church</span></a><ul class="level3"><li class="level3 item1 first"><a href="/god/church/features" class="level3 item1 first"><span>Features</span></a></li><li class="level3 item2 last"><a href="/god/church/blog" class="level3 item2 last"><span>Blog</span></a></li></ul></li><li class="level2 item7 parent"><a href="/god/worship" class="level2 item7 parent"><span>Worship</span></a><ul class="level3"><li class="level3 item1 first last"><a href="/god/worship/features" class="level3 item1 first last"><span>Features</span></a></li></ul></li><li class="level2 item10"><a href="/god/church-directory" class="level2 item10"><span>Church Directory</span></a></li><li class="level2 item11"><a href="http://www.neueresources.com" class="level2 item11"><span>Neue Church Leadership</span></a></li><li class="level2 item12 last"><a href="/god/searchable-tniv" class="level2 item12 last"><span>Searchable TNIV</span></a></li></ul></li><li class="level1 item5 parent"><a href="/life" class="level1 item5 parent"><span>Life</span></a><ul class="level2"><li rel="414" class="level2 item1 first"><a href="/life" class="level2 item1 first"><span>Main</span></a></li><li class="level2 item2 parent"><a href="/life/current-events" class="level2 item2 parent"><span>Current Events</span></a><ul class="level3"><li class="level3 item1 first"><a href="/life/current-events/features" class="level3 item1 first"><span>Features</span></a></li><li class="level3 item2 last"><a href="/life/current-events/op-ed-blog" class="level3 item2 last"><span>Op Ed Blog</span></a></li></ul></li><li class="level2 item4 parent"><a href="/life/whole-life" class="level2 item4 parent"><span>Whole Life</span></a><ul class="level3"><li class="level3 item1 first last"><a href="/life/whole-life/features" class="level3 item1 first last"><span>Features</span></a></li></ul></li><li rel="530" class="level2 item5 parent"><a href="/reject-apathy" class="level2 item5 parent"><span>Reject Apathy</span></a><ul class="level3"><li class="level3 item1 first"><a href="/life/reject-apathy/worldview" class="level3 item1 first"><span>Worldview</span></a></li><li class="level3 item2"><a href="/life/reject-apathy/unjust-war" class="level3 item2"><span>Unjust War</span></a></li><li class="level3 item3"><a href="/life/reject-apathy/loss-of-innocence" class="level3 item3"><span>Loss of Innocence</span></a></li><li class="level3 item4"><a href="/life/reject-apathy/creation-care" class="level3 item4"><span>Creation Care</span></a></li><li class="level3 item5"><a href="/life/reject-apathy/preventable-disease" class="level3 item5"><span>Preventable Disease</span></a></li><li class="level3 item6"><a href="/life/reject-apathy/poverty" class="level3 item6"><span>Poverty</span></a></li><li class="level3 item7 last"><a href="/life/reject-apathy/rejectapathy-magazine" class="level3 item7 last"><span>Magazine</span></a></li></ul></li><li class="level2 item9 parent"><a href="/life/relationship" class="level2 item9 parent"><span>Relationship</span></a><ul class="level3"><li class="level3 item1 first"><a href="/life/relationship/features" class="level3 item1 first"><span>Features</span></a></li><li class="level3 item2 last"><a href="/life/relationship/blog" class="level3 item2 last"><span>Blog</span></a></li></ul></li><li class="level2 item11 last parent"><a href="/life/career-money" class="level2 item11 last parent"><span>Career/Money</span></a><ul class="level3"><li class="level3 item1 first"><a href="/life/career-money/features" class="level3 item1 first"><span>Features</span></a></li><li class="level3 item2 last"><a href="/life/career-money/blog" class="level3 item2 last"><span>Blog</span></a></li></ul></li></ul></li><li class="level1 item6 parent"><a href="/culture" class="level1 item6 parent"><span>Culture</span></a><ul class="level2"><li rel="415" class="level2 item1 first"><a href="/culture" class="level2 item1 first"><span>Main</span></a></li><li class="level2 item2 parent"><a href="/culture/music" class="level2 item2 parent"><span>Music</span></a><ul class="level3"><li class="level3 item1 first"><a href="/culture/music/features" class="level3 item1 first"><span>Features</span></a></li><li class="level3 item2"><a href="/culture/music/reviews" class="level3 item2"><span>Reviews</span></a></li><li class="level3 item3"><a href="/culture/music/blog" class="level3 item3"><span>Blog</span></a></li><li rel="374" class="level3 item4"><a href="/media/rtv" class="level3 item4"><span>RELEVANT.tv</span></a></li><li rel="379" class="level3 item5 last"><a href="/media/the-drop" class="level3 item5 last"><span>The Drop</span></a></li></ul></li><li class="level2 item4 parent"><a href="/culture/film" class="level2 item4 parent"><span>Film</span></a><ul class="level3"><li class="level3 item1 first"><a href="/culture/film/features" class="level3 item1 first"><span>Features</span></a></li><li class="level3 item2"><a href="/culture/film/reviews" class="level3 item2"><span>Reviews</span></a></li><li class="level3 item3 last"><a href="/culture/film/blog" class="level3 item3 last"><span>Blog</span></a></li></ul></li><li class="level2 item6 parent"><a href="/culture/tv" class="level2 item6 parent"><span>TV</span></a><ul class="level3"><li class="level3 item1 first"><a href="/culture/tv/features" class="level3 item1 first"><span>Features</span></a></li><li class="level3 item3 last"><a href="/culture/tv/blog" class="level3 item3 last"><span>Blog</span></a></li></ul></li><li class="level2 item8 parent"><a href="/culture/books" class="level2 item8 parent"><span>Books</span></a><ul class="level3"><li class="level3 item1 first"><a href="/culture/books/features" class="level3 item1 first"><span>Features</span></a></li><li class="level3 item2 last"><a href="/culture/books/reviews" class="level3 item2 last"><span>Reviews</span></a></li></ul></li><li class="level2 item10 last parent"><a href="/culture/tech" class="level2 item10 last parent"><span>Tech</span></a><ul class="level3"><li class="level3 item1 first"><a href="/culture/tech/features" class="level3 item1 first"><span>Features</span></a></li><li class="level3 item2 last"><a href="/culture/tech/blog" class="level3 item2 last"><span>Blog</span></a></li></ul></li></ul></li><li rel="405" class="level1 item8 parent"><a href="/magazine/current-issue" class="level1 item8 parent"><span>Magazine</span></a><ul class="level2"><li class="level2 item1 first"><a href="/magazine/current-issue" class="level2 item1 first"><span>Current Issue</span></a></li><li class="level2 item2"><a href="http://www.relevantmagazine.com/subscribe" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,');return false;" class="level2 item2"><span style="background-image: url(http://www.relevantmagazine.com/images/stories/submenu_flame.png);">Subscribe</span></a></li><li class="level2 item3"><a href="/magazine/magazinearchive" class="level2 item3"><span>Digital Issue Archives</span></a></li><li class="level2 item4"><a href="https://subforms.com/relevant/gift.asp?promocode=sit" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,');return false;" class="level2 item4"><span>Give RELEVANT</span></a></li><li class="level2 item5"><a href="http://www.relevantstore.com/SearchResults.asp?Cat=30" class="level2 item5"><span>Buy Back Issues</span></a></li><li class="level2 item6 last"><a href="https://subforms.com/relevant/subservices/sub_login.asp" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,');return false;" class="level2 item6 last"><span>Subscriber Services</span></a></li></ul></li><li rel="374" class="level1 item9 parent"><a href="/media/rtv" class="level1 item9 parent"><span>Media</span></a><ul class="level2"><li class="level2 item1 first parent"><a href="/media/rtv" class="level2 item1 first parent"><span>RELEVANT TV</span></a><ul class="level3"><li class="level3 item1 first"><a href="/media/rtv/music-videos" class="level3 item1 first"><span>Music Videos</span></a></li><li class="level3 item2"><a href="/media/rtv/interviews" class="level3 item2"><span>Interviews</span></a></li><li class="level3 item4"><a href="/media/rtv/performances" class="level3 item4"><span>Performances</span></a></li><li class="level3 item5"><a href="/media/rtv/extras" class="level3 item5"><span>Extras</span></a></li><li class="level3 item6 last"><a href="http://www.relevantmagazine.com/media/rtv" class="level3 item6 last"><span>All</span></a></li></ul></li><li class="level2 item2"><a href="/media/the-drop" class="level2 item2"><span>The Drop</span></a></li><li class="level2 item3 parent"><a href="/media/podcast-archives" class="level2 item3 parent"><span>RELEVANT Podcast</span></a><ul class="level3"><li rel="395" class="level3 item1 first"><a href="/media/podcast-archives" class="level3 item1 first"><span>Main</span></a></li><li class="level3 item2"><a href="/media/podcast-archives/music-downloads" class="level3 item2"><span>Music Downloads</span></a></li><li class="level3 item3 last"><a href="/media/podcast-archives/relevant-podcast" class="level3 item3 last"><span>Podcast FAQ</span></a></li></ul></li><li class="level2 item4 last parent"><a href="/media/festivals" class="level2 item4 last parent"><span>Festivals</span></a><ul class="level3"><li class="level3 item1 first"><a href="/media/festivals/band-interviews" class="level3 item1 first"><span>Band Interviews</span></a></li><li class="level3 item2"><a href="/media/festivals/lollapalooza" class="level3 item2"><span>Lollapalooza</span></a></li><li class="level3 item3"><a href="/media/festivals/alive-2009" class="level3 item3"><span>Alive 2009</span></a></li><li class="level3 item4"><a href="/media/festivals/cornerstone" class="level3 item4"><span>Cornerstone</span></a></li><li class="level3 item5"><a href="/media/festivals/creation-east" class="level3 item5"><span>Creation East</span></a></li><li class="level3 item6"><a href="/media/festivals/kingdom-bound" class="level3 item6"><span>Kingdom Bound</span></a></li><li class="level3 item7"><a href="/media/festivals/purple-door" class="level3 item7"><span>Purple Door</span></a></li><li class="level3 item8"><a href="/media/festivals/road-blog" class="level3 item8"><span>Road Blog</span></a></li><li class="level3 item9 last"><a href="/media/festivals/soulfest" class="level3 item9 last"><span>SoulFest</span></a></li></ul></li></ul></li><li class="level1 item10 parent"><a href="/forum" class="level1 item10 parent"><span>Forums</span></a><ul class="level2"><li class="level2 item1 first"><a href="http://www.relevantmagazine.com/forum/" class="level2 item1 first"><span style="background-image: url(http://www.relevantmagazine.com/images/stories/submenu_flame.png);">Main</span></a></li><li class="level2 item2"><a href="http://www.relevantmagazine.com/forum/viewforum.php?f=4" class="level2 item2"><span>God</span></a></li><li class="level2 item3"><a href="http://www.relevantmagazine.com/forum/viewforum.php?f=3" class="level2 item3"><span>Life</span></a></li><li class="level2 item4"><a href="http://www.relevantmagazine.com/forum/viewforum.php?f=5" class="level2 item4"><span>Culture</span></a></li><li class="level2 item5"><a href="http://www.relevantmagazine.com/forum/viewforum.php?f=8" class="level2 item5"><span>Open</span></a></li><li class="level2 item6"><a href="http://www.relevantmagazine.com/forum/viewforum.php?f=10" class="level2 item6"><span>Politics</span></a></li><li class="level2 item7"><a href="http://www.relevantmagazine.com/forum/viewforum.php?f=13&amp;sid=b1939d7e68eafb7fa90540a903f26fc7" class="level2 item7"><span>Sports</span></a></li><li class="level2 item8"><a href="http://www.relevantmagazine.com/forum/viewforum.php?f=7" class="level2 item8"><span>Talk to RELEVANT</span></a></li><li class="level2 item9 last"><a href="http://www.relevantmagazine.com/forum/ucp.php?mode=login" class="level2 item9 last"><span>Log In/Register</span></a></li></ul></li><li class="level1 item12 parent"><a href="/community" class="level1 item12 parent"><span>Community</span></a><ul class="level2"><li class="level2 item1 first"><a href="/community/main" class="level2 item1 first"><span>Main</span></a></li><li class="level2 item2"><a href="/community/blogs" class="level2 item2"><span>Blogs</span></a></li><li class="level2 item3"><a href="/community/photos" class="level2 item3"><span>Photos</span></a></li><li class="level2 item4"><a href="/community/groups" class="level2 item4"><span>Groups</span></a></li><li class="level2 item5"><a href="/community/friends" class="level2 item5"><span>Friends</span></a></li><li class="level2 item6"><a href="/community/inbox" class="level2 item6"><span>Inbox</span></a></li><li class="level2 item7 last"><a href="/community/register" class="level2 item7 last"><span>Register</span></a></li></ul></li><li class="level1 item13 last parent"><a href="http://www.relevantstore.com" class="level1 item13 last parent"><span>Store</span></a><ul class="level2"><li class="level2 item1 first"><a href="http://www.relevantstore.com" class="level2 item1 first"><span>Main</span></a></li><li class="level2 item2"><a href="http://www.relevantstore.com/SearchResults.asp?Cat=9" target="_blank" class="level2 item2"><span>Men's Apparel</span></a></li><li class="level2 item3"><a href="http://www.relevantstore.com/SearchResults.asp?Cat=10" target="_blank" class="level2 item3"><span>Women's Apparel</span></a></li><li class="level2 item4"><a href="http://www.relevantstore.com/SearchResults.asp?Cat=109" target="_blank" class="level2 item4"><span>Back Issues</span></a></li><li class="level2 item5"><a href="http://www.relevantstore.com/SearchResults.asp?Cat=94" target="_blank" class="level2 item5"><span>Shop For A Cause</span></a></li><li class="level2 item6"><a href="http://www.relevantstore.com/SearchResults.asp?Cat=27" target="_blank" class="level2 item6"><span>Books</span></a></li><li class="level2 item7"><a href="http://www.relevantstore.com/SearchResults.asp?Cat=107" target="_blank" class="level2 item7"><span>CDs/DVDs</span></a></li><li class="level2 item8 last"><a href="http://www.relevantstore.com/SearchResults.asp?Cat=39" target="_blank" class="level2 item8 last"><span>Art</span></a></li></ul></li></ul>
 				</div>
 					
 								<div id="search" class="yootools-black">
@@ -209,7 +264,7 @@ panelFx1.addTriggerEvent('#yoo-toppanel-1 .close');
 	</div>
 </div><script type="text/javascript">
 // <!--
-window.addEvent('domready', function(){ new YOOsearch('yoo-search-1', { 'url': 'http://www.relevantmagazine.com/index.php?option=com_search&tmpl=raw&type=json&ordering=&searchphrase=all&Itemid=230', 'fieldText': 'search...', 'msgResults': 'Search results', 'msgCategories': 'Search categories', 'msgNoResults': 'No results found', 'msgMoreResults': 'More results' }); });
+window.addEvent('domready', function(){ new YOOsearch('yoo-search-1', { 'url': 'http://www.relevantmagazine.com/index.php?option=com_search&tmpl=raw&type=json&ordering=&searchphrase=all&Itemid=0', 'fieldText': 'search...', 'msgResults': 'Search results', 'msgCategories': 'Search categories', 'msgNoResults': 'No results found', 'msgMoreResults': 'More results' }); });
 // -->
 </script>
 
@@ -223,51 +278,6 @@ window.addEvent('domready', function(){ new YOOsearch('yoo-search-1', { 'url': '
 			<div id="middle">
 				<div class="background">
 		
-										<div id="left">
-						<div id="left_container" class="clearfix">
-										<div class="mod-black">
-				<div class="module">
-					
-														
-					<div class="box-container-t">
-						<div class="box-tl"></div>
-						<div class="box-tr"></div>
-						<div class="box-t"></div>
-					</div>
-
-					<div class="box-1">
-												<h3 class="header"><span class="header-2"><span class="header-3">RELEVANT<span class="color"> Weekly Newsletter</span></span></span></h3>
-												
-						<div class="box-2">
-							<div class="box-3">
-								<div class="box-4">
-									<div class="box-5">
-										<div class="box-6 deepest">
-											<p style="color: white">Your Weekly Source for God, Life and Progressive Culture</p>
-<form action="http://www.relevantmagazine.com/oempro4/subscribe.php" method="post">
-<input type="text" name="FormValue_Fields[EmailAddress]" value="Email Address" id="FormValue_EmailAddress">
-<input type="submit" name="FormButton_Subscribe" value="Subscribe" id="FormButton_Subscribe">
-<input type="hidden" name="FormValue_ListID" value="2" id="FormValue_ListID">
-<input type="hidden" name="FormValue_Command" value="Subscriber.Add" id="FormValue_Command">
-</form>										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-
-					<div class="box-container-b">
-						<div class="box-bl"></div>
-						<div class="box-br"></div>
-						<div class="box-b"></div>
-					</div>
-					
-				</div>
-			</div>
-			
-						</div>
-					</div>
-					<!-- left end -->
 							
 					<div id="main">
 						<div id="main_container" class="clearfix">
@@ -291,16 +301,21 @@ window.addEvent('domready', function(){ new YOOsearch('yoo-search-1', { 'url': '
 																
 											<div class="floatbox">
 												
-												
-<div class="joomla ">
-	
+												<div class="joomla ">
+
+				
+				<!--FESTIVAL CODE-->
+					
 	<div class="article_text">
 	
+				<h1 class="pagetitle">
+					</h1>
 				
 				<div class="headline">
 		
 						<h1 class="title">
-									Privacy Policy							</h1>
+									<a href="/component/content/article/109-footer/15835-privacy-policy">Privacy Policy</a>
+							</h1>
 						
 						
 							
@@ -318,10 +333,23 @@ window.addEvent('domready', function(){ new YOOsearch('yoo-search-1', { 'url': '
 						
 					
 						
-					
+						<div id="sharethis" style="margin-left:10px;">
+				<script type="text/javascript" src="http://w.sharethis.com/button/sharethis.js#publisher=16868fdb-44a7-449b-99e8-f514983c723b&amp;type=website"></script>
+			</div>
 		</div>
 		
-				
+				<div class="fbShare" style="position:absolute;top:15px;right:75px;">
+		<script>var fbShare = {
+		google_analytics: 'true',
+		}</script>
+		<script src="http://widgets.fbshare.me/files/fbshare.js"></script></div>
+		<div class="tweetmebutton" style="position:absolute;top:15px;right:15px;">
+		<script type="text/javascript">
+		tweetmeme_source = 'RELEVANTMag';
+		</script>
+		<script type="text/javascript" src="http://tweetmeme.com/i/scripts/button.js"></script>
+		</div>
+		
 		<h6>PRIVACY POLICY</h6>
 <p>RELEVANT Media Group, Inc. ("RELEVANT," “we” or “our”) respects
 the privacy concerns of the visitors to RELEVANTmagazine.com (the
@@ -414,15 +442,15 @@ on our site, we encourage you to contact us as described below.</p>
 <p>Address: Attn: Webmaster/RELEVANTmagazine.com<br>
 RELEVANT Media Group, 1220 Alden Road, Orlando, FL 32803</p>
 <p>Fax: (407) 401-9100</p>
-<p>Email: <a href="mailto:%&#10; &lt;script language='JavaScript' type='text/javascript'&gt;&#10; &lt;!--&#10; var prefix = 'ma' + 'il' + 'to';&#10; var path = 'hr' + 'ef' + '=';&#10; var addy55717 = '20webmaster' + '@';&#10; addy55717 = addy55717 + 'relevantmagazine' + '.' + 'com';&#10; document.write( '&lt;a ' + path + '\'' + prefix + ':' + addy55717 + '\'&gt;' );&#10; document.write( addy55717 );&#10; document.write( '&lt;\/a&gt;' );&#10; //--&gt;\n &lt;/script&gt; &lt;script language='JavaScript' type='text/javascript'&gt;&#10; &lt;!--&#10; document.write( '&lt;span style=\'display: none;\'&gt;' );&#10; //--&gt;&#10; &lt;/script&gt;This e-mail address is being protected from spambots. You need JavaScript enabled to view it&#10; &lt;script language='JavaScript' type='text/javascript'&gt;&#10; &lt;!--&#10; document.write( '&lt;/' );&#10; document.write( 'span&gt;' );&#10; //--&gt;&#10; &lt;/script&gt;">
+<p>Email: <a href="mailto:%&#10; &lt;script language='JavaScript' type='text/javascript'&gt;&#10; &lt;!--&#10; var prefix = 'ma' + 'il' + 'to';&#10; var path = 'hr' + 'ef' + '=';&#10; var addy55556 = '20webmaster' + '@';&#10; addy55556 = addy55556 + 'relevantmagazine' + '.' + 'com';&#10; document.write( '&lt;a ' + path + '\'' + prefix + ':' + addy55556 + '\'&gt;' );&#10; document.write( addy55556 );&#10; document.write( '&lt;\/a&gt;' );&#10; //--&gt;\n &lt;/script&gt; &lt;script language='JavaScript' type='text/javascript'&gt;&#10; &lt;!--&#10; document.write( '&lt;span style=\'display: none;\'&gt;' );&#10; //--&gt;&#10; &lt;/script&gt;This e-mail address is being protected from spambots. You need JavaScript enabled to view it&#10; &lt;script language='JavaScript' type='text/javascript'&gt;&#10; &lt;!--&#10; document.write( '&lt;/' );&#10; document.write( 'span&gt;' );&#10; //--&gt;&#10; &lt;/script&gt;">
  <script language="JavaScript" type="text/javascript">
  <!--
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy66218 = 'w&#101;bm&#97;st&#101;r' + '&#64;';
- addy66218 = addy66218 + 'r&#101;l&#101;v&#97;ntm&#97;g&#97;z&#105;n&#101;' + '&#46;' + 'c&#111;m';
- document.write( '<a ' + path + '\'' + prefix + ':' + addy66218 + '\'>' );
- document.write( addy66218 );
+ var addy25431 = 'w&#101;bm&#97;st&#101;r' + '&#64;';
+ addy25431 = addy25431 + 'r&#101;l&#101;v&#97;ntm&#97;g&#97;z&#105;n&#101;' + '&#46;' + 'c&#111;m';
+ document.write( '<a ' + path + '\'' + prefix + ':' + addy25431 + '\'>' );
+ document.write( addy25431 );
  document.write( '<\/a>' );
  //-->\n </script></a><a href="mailto:webmaster@relevantmagazine.com">webmaster@relevantmagazine.com</a> <script language="JavaScript" type="text/javascript">
  <!--
@@ -439,9 +467,12 @@ RELEVANT Media Group, 1220 Alden Road, Orlando, FL 32803</p>
 
 		
 		
+		
 	</div>
 	
-</div>
+		
+	</div>
+
 											</div>
 			
 														
@@ -469,53 +500,22 @@ RELEVANT Media Group, 1220 Alden Road, Orlando, FL 32803</p>
 			</div>
 			<!-- middle end -->
 			
-						<div id="bottom">
-				<div class="floatbox ie_fix_floats">
-					
-										
-										<div class="bottomblock width100 float-left">
-									<div class="-leaderboardBottom">
-				<div class="module deepest">
-				
-											<table cellpadding="0" cellspacing="0" class="moduletable-leaderboardBottom">
-			<tbody><tr>
-			<td>
-				
-<div style="display:table; width:100%"><table align="0" width="728" cellspacing="0" cellpadding="0" style="border: none; background-color: #FFFFFF;"><tbody><tr><td style=""><a href="/component/adagency/adagencyAds/click/57/8/128" target="_blank"><img src="http://www.relevantmagazine.com//images/stories/ad_agency/8/RELEVANT Live_728x90_Leaderboard.gif" border="0" alt="Footer"></a></td></tr></tbody></table></div>			</td>
-		</tr>
-		</tbody></table>
-		<table cellpadding="0" cellspacing="0" class="moduletable-bottomRightAd">
-			<tbody><tr>
-			<td>
-				
-<div style="display:table; width:100%"><table align="0" width="244" cellspacing="0" cellpadding="0" style="border: none; background-color: #FFFFFF;"><tbody><tr><td style=""><a href="/component/adagency/adagencyAds/click/74/5/4" target="_blank"><img src="http://www.relevantmagazine.com//images/stories/ad_agency/5/relstore_bottomad.jpg" border="0" alt="Visit the Relevant Store!"></a></td></tr></tbody></table></div>			</td>
-		</tr>
-		</tbody></table>
-						
-				</div>
-			</div>
-			
-					</div>
-												
-				</div>
-			</div>
-			<!-- bottom end -->
 			
 			<div id="footer">
 				<div class="floatbox"><a class="anchor" href="#page"></a></div>
 				<ul class="menu">
 <li>Copyright © 2009 <a href="http://www.relevantmediagroup.com" title="" target="_blank">Relevant Media Group</a>&nbsp;&nbsp;&nbsp;|</li>
-<li><a href="http://www.relevantmagazine.com/footer/15835-privacy-policy">Privacy</a> &nbsp; |</li>
-<li><a href="http://www.relevantmagazine.com/footer/15837-terms-of-use">Terms of Use</a>&nbsp;&nbsp;&nbsp;|</li>
-<li><a href="http://www.relevantmagazine.com/footer/15838-contact-us">Contact Us</a>&nbsp;&nbsp;&nbsp;|</li>
+<li><a href="http://www.relevantmagazine.com/index.php?option=com_content&amp;view=article&amp;id=15835">Privacy</a> &nbsp; |</li>
+<li><a href="http://www.relevantmagazine.com/index.php?option=com_content&amp;view=article&amp;id=15837">Terms of Use</a>&nbsp;&nbsp;&nbsp;|</li>
+<li><a href="http://www.relevantmagazine.com/index.php?option=com_content&amp;view=article&amp;id=15838">Contact Us</a>&nbsp;&nbsp;&nbsp;|</li>
 <li><a href="http://www.relevantmagazine.com/main/advertising">Advertise</a>&nbsp;&nbsp; |</li>
-<li><a href="https://subforms.com/relevant/usa_sub.asp?promocode=CD_sit">Subscribe</a>&nbsp;&nbsp; |</li>
+<li><a href="http://www.relevantmagazine.com/subscribe">Subscribe</a>&nbsp;&nbsp; |</li>
 <li><a href="https://subforms.com/relevant/subservices/sub_login.asp">Subscriber Services</a>&nbsp;&nbsp;&nbsp;|</li>
-<li><a href="http://www.relevantmagazine.com/footer/15839-how-to-write-for-relevant">Write For Relevant</a>&nbsp;|</li>
+<li><a href="http://www.relevantmagazine.com/index.php?option=com_content&amp;view=article&amp;id=15839">Write For Relevant</a>&nbsp;|</li>
 <li>Connect:</li>
-<li><a href="http://www.twitter.com/relevantmag"><img alt="" src="http://www.relevantmagazine.com/templates/yoo_waybeyond/images/footerMenu_twitter.jpg" target="_blank=" border="0" height="17" width="17"></a></li>
-<li><a href="http://www.facebook.com/relevantmagazine#/pages/RELEVANT-Magazine/10697316018?sid=a7ae0cfb13d08cd67f1f0f8417b7e657&amp;ref=s" target="_blank"><img alt="" src="http://www.relevantmagazine.com/templates/yoo_waybeyond/images/footerMenu_facebook.jpg" border="0" height="17" width="17"></a></li>
-<li><a href="http://www.myspace.com/relevantmagazine"><img alt="" src="http://www.relevantmagazine.com/templates/yoo_waybeyond/images/footerMenu_myspace.jpg" target="_blank=" border="0" height="17" width="15"></a></li></ul>
+<li><a href="http://www.twitter.com/relevantmag"><img alt="" src="http://www.relevantmagazine.com/templates/yoo_waybeyond/images/footerMenu_twitter.jpg" target="_blank=" height="17" width="17" border="0"></a></li>
+<li><a href="http://www.facebook.com/relevantmagazine#/pages/RELEVANT-Magazine/10697316018?sid=a7ae0cfb13d08cd67f1f0f8417b7e657&amp;ref=s" target="_blank"><img alt="" src="http://www.relevantmagazine.com/templates/yoo_waybeyond/images/footerMenu_facebook.jpg" height="17" width="17" border="0"></a></li>
+<li><a href="http://www.myspace.com/relevantmagazine"><img alt="" src="http://www.relevantmagazine.com/templates/yoo_waybeyond/images/footerMenu_myspace.jpg" target="_blank=" height="17" width="15" border="0"></a></li></ul>
 				
 			</div>
 			<!-- footer end -->
