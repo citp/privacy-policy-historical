@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fideliscare.org privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420054219id_/http%3A//www.fideliscare.org/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fideliscare.org privacy policy that was archived on 2009-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091112154503id_/http%3A//www.fideliscare.org/privacy.aspx) for the most accurate reproduction.*
 
-# Fidelis Care - New York State Catholic Health Plan
+# Welcome to FidelisCare.org!
 
 Notice of Privacy Practices of Fidelis Care New York
 
