@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liberal.org.au privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628140851id_/http%3A//liberal.org.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liberal.org.au privacy policy that was archived on 2009-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091112062140id_/http%3A//www.liberal.org.au/privacy.php) for the most accurate reproduction.*
 
 # Online privacy. Liberal Party of Australia.
 
