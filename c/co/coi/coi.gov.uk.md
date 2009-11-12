@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coi.gov.uk privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502030537id_/http%3A//www.coi.gov.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coi.gov.uk privacy policy that was archived on 2009-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091112174302id_/http%3A//coi.gov.uk/privacy.php) for the most accurate reproduction.*
 
 # COI - Privacy Policy
 
@@ -16,11 +16,13 @@ This privacy policy applies only to the Central Office of Information website at
 
 ## Recent significant changes to this policy
 
+For version 3 - Data protection information replaced with a link to COI's Information Charter, which now covers this
+
 For version 2 - following the introduction of Google Analytics code onto the site the section 'Information not collected by this website' of this policy was removed and the 'Cookies' section updated.
 
-This policy was last revised on 29 September 2006.
+This policy was last revised on 7 May 2009.
 
-This is version 2 of the Central Office of Information's privacy policy.
+This is version 3 of the Central Office of Information's privacy policy.
 
 ## Changes to this policy
 
@@ -105,20 +107,6 @@ The Central Office of Information will not attempt to associate IP addresses and
 
 ### The Data Protection Act 1998
 
-The Data Protection Act requires us to protect any information we collect from you. We do this by ensuring:
+The Data Protection Act requires us to protect any information we collect from you.
 
-  * Information collected from feedback forms is not stored on the website, but is instead sent to an email address accessible only by authorised Central Office of Information staff
-  * Website log files are stored securely on the website using industry best practice methods for safeguarding information and server functions
-
-
-
-The Data Protection Act also gives you the right to request a copy of any personal data held by the Central Office of Information at any time so that you can check its accuracy. If you wish to do this, please write (explaining that your interest is in personal data maintained by the Central Office of Information) to:
-
-> The Data Protection Officer  
->  Central Office of Information  
->  Hercules House  
->  Hercules Road  
->  London  
->  SE1 7DU
-
-More information about the Data Protection Act can be found on the Information Commissioner's website at <http://www.ico.gov.uk/Home/what_we_cover/data_protection.aspx>.
+For details of the standards that you can expect from the Central of Information when we request or hold personal information about you; how you can get access to your personal data; and what you can do if you think standards are not being met, see COI's [Information Charter](https://web.archive.org/information.php?page=).
