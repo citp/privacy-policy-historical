@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milecards.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621121353id_/http%3A//www.milecards.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milecards.com privacy policy that was archived on 2009-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091113004054id_/http%3A//www.milecards.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - MileCards.com
 
