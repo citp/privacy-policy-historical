@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seeklearning.com.au privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620061714id_/http%3A//www.seeklearning.com.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seeklearning.com.au privacy policy that was archived on 2009-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091112061809id_/http%3A//www.seeklearning.com.au/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement - SEEK Learning Australia
 
