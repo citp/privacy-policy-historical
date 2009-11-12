@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the survivalstraps.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629191818id_/http%3A//www.survivalstraps.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the survivalstraps.com privacy policy that was archived on 2009-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091112172623id_/http%3A//www.survivalstraps.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # Survival Straps - Paracord Survival Bracelets, Lanyards, Belts and Accessories... Be Prepared!
 
@@ -76,7 +76,7 @@ This online privacy policy applies only to information collected through our web
 
 Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20090629191818id_/http%3A//www.survivalstraps.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20091112172623id_/http%3A//www.survivalstraps.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 Your consent
 
