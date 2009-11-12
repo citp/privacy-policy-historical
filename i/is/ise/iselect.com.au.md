@@ -1,27 +1,55 @@
-> *The following text is extracted and transformed from the iselect.com.au privacy policy that was archived on 2005-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051231033513id_/http%3A//www.iselect.com.au/health_insurance_privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iselect.com.au privacy policy that was archived on 2009-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091112052814id_/http%3A//www.iselect.com.au/private-health-insurance/snop/health_insurance_privacy_statement.jsp) for the most accurate reproduction.*
 
-# iSelect Privacy Statement for health insurance advice
+# Health Insurance Privacy Statement - iSelect
 
-iSelect values you as a client and respects your right to the privacy of the information you provide to us. 
+iSelect is committed to protecting the confidentiality of your personal information. This policy explains the steps we have taken to ensure that we comply with the _Privacy Act_ 1988 and any relevant Health Privacy Principles under State legislation.
 
-iSelect is a decision support service that helps you choose a health insurance policy that best suits your needs. In order for iSelect to assist you, it is necessary for us to request information about your health insurance preferences and general contact details. 
+For the purposes of this policy, iSelect/we means each of iSelect Pty Ltd, iSelect Life Pty Ltd and iSelect General Pty Ltd, which operate the iSelect Health, Life and General Insurance businesses respectively.
 
-It is important to us that you feel comfortable that our site is secure and that any details you provide us will be treated confidentially.
+If you any questions regarding iSelect’s Privacy Policy, please call us on 03-9276 8000 or email us at [**privacy@iselect.com.au**](mailto:privacy@iselect.com.au).
 
-All personal information collected through this site such as personal details, questionnaire results, e-mail details and any correspondence will be kept confidential and carefully guarded.
+## Why do we collect your personal information?
 
-**Security and Access**
+We collect personal information in order to provide services and products to you, ensure we comply with the requirements of our participating insurers and service providers, maintain and improve customer services, meet our legal obligations and advise you of other iSelect products or services which may be of interest to you. 
 
-The iSelect service is professionally hosted and operates in a secure environment. The utmost care is taken to ensure the security of your information once received. While we take all reasonable care to protect your personal information, we cannot guarantee that information sent and received over the Internet is 100% secure. Sending and receiving information over the iSelect Internet site is therefore at the users own risk. 
+Whilst you may opt not to provide us with your personal information, you should be aware that without this personal information, we may not be able to provide you with the services and/or products you are applying for.
 
-Only authorised persons employed by iSelect will have access to your personal information. This is kept in a secure environment and all employees are required to adhere to strict confidentiality policies. 
+## What Personal Information do we Collect?
 
-**Personal Information**
+We collect personal information about you and/or your family, where applicable, when you apply for or purchase a product offered on  [www.iselect.com.au](http://www.iselect.com.au/) or when you enquire  about or purchase a product or service offered by an iSelect business via our contact centre. Where possible, we will collect personal information directly from you, or from a person authorised by you.  
 
-iSelect will not disclose or sell any personally identifiable information received through our web site, e-mail, call centre, fax and mail. We will only disclose specific information if required by law. 
+The types of personal information we collect may include:
 
-iSelect has requested that its participating [health insurers](https://web.archive.org/web/20051231033513id_/http%3A//www.iselect.com.au/health_insurance_funds_participating.htm) ensure client data is kept in strict confidence by maintaining appropriate privacy procedures. iSelect is not responsible, nor can we guarantee use of information required by the health insurance funds for the purposes of membership application or potential membership validation where members have not joined directly through iSelect. iSelect will not disclose individual client data regarding health insurance preferences to health insurers unless required as part of the normal membership application or validation process. 
+  * identifying and contact information, such as name, date of birth, residential address, email address and contact telephone numbers;
+  * information about you, your partner/family members (including date of birth, employment (where applicable), claims history and insurance coverage status);
+  * financial information, such as credit card details;
+  * where applicable, sensitive information, for example information about the health of prospective insured customers and whether there are any medical conditions and/or family medical history; and
+  * information about your activities, including but not limited to sporting and other lifestyle interests.
 
-We may use the information we collect from you in aggregate to help us analyse the quality of our service and help design better health insurance products for our clients. 
 
- 
+
+## How Might we use or disclose your Personal Information? 
+
+We may use or disclose your personal information to: another iSelect business, our participating insurers, professional advisers, service providers, payment systems operators and financial institutions, and organisations authorized by iSelect to conduct promotional, research or marketing activities.
+
+In some circumstances iSelect is entitled to disclose your personal information to third parties without your authorization such as law enforcement agencies or government authorities. 
+
+## Correction and Access to your information
+
+We aim to ensure that the personal information collected, used or disclosed is accurate, complete and up-to-date. We will take reasonable steps to ensure this occurs. If you believe that your personal information is not accurate, complete or up to date, please contact us by telephone on 03-9276-8000, via email to privacy@iselect.com.au or address your request to the Privacy Officer, Level 4 973 Nepean Highway, Moorabbin Victoria 3189. 
+
+You will not be charged for accessing your information, although we might have to charge the reasonable cost of processing your request, including photocopying, administration and postage. 
+
+## Security - Website Usage
+
+Our website is professionally hosted and operates in a secure environment. But you should be aware that there remains inherent risks associated with transmitting information via the Internet. Cookies are pieces of information that a website transfers to your computer for record-keeping purposes. The information collected may be used by iSelect to improve your experience on our website.
+
+In addition, we collect aggregated non-personally identifiable data from our website to help us maintain and improve delivery of the iSelect online service and marketing. This aggregated information assists iSelect to improve content and website navigation.
+
+Like a number of commercial web site operators, iSelect use Omniture to measure and analyse internet usage across our web sites. All pages on our web sites are coded with Omniture tracking. This enables iSelect to track the number of unique browsers to our web sites. This information is collected and aggregated and in no way does this identify a user personally. 
+
+## Links to Third Party Sites
+
+Whilst links to third party websites are provided on our website, we are not responsible for the content or practices of these third party websites. These links are provided for your convenience and do not represent iSelect’s endorsement of any linked third party website. We recommend that you check the privacy policies of these third party websites.
+
+_Updated: July 2009_.
