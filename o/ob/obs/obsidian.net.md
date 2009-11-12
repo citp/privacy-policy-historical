@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the obsidian.net privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627092338id_/http%3A//www.obsidian.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the obsidian.net privacy policy that was archived on 2009-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091112232712id_/http%3A//www.obsidian.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,7 +21,7 @@ Obsidian is not responsible for the content or practices of third party Web site
 
 Guests of the Site are solely responsible for the content of messages they post on public forums, such as chat rooms and bulletin boards. Users should be aware that when they voluntarily disclose personal information (e.g., user name, e-mail address, phone number) on the bulletin boards or in the chat areas, that information can be collected and used by others and may result in unsolicited messages from other people.
 
-The Site may provide you the opportunity to opt-in to receive communications from us at the point where we request information about you. You always have the option of removing your name from any e-mail list in order to discontinue any such future communications. In order to ensure immediate removal from any list, please follow the specific instructions set forth within the communications you receive from Obsidian which you no longer wish to receive. If you are unsuccessful in completing the instructions specified in any such communication, please e-mail us at [info@obsidian.net](mailto:info@obsidian.net), including a copy of the undesired email attached to the request, and state you wish to be removed from the mailing list.
+The Site may provide you the opportunity to opt-in to receive communications from us at the point where we request information about you. You always have the option of removing your name from any e-mail list in order to discontinue any such future communications. In order to ensure immediate removal from any list, please follow the specific instructions set forth within the communications you receive from Obsidian which you no longer wish to receive. If you are unsuccessful in completing the instructions specified in any such communication, please e-mail us at [info@obsidian.net](mailto:info@obsidian.net) , including a copy of the undesired email attached to the request, and state you wish to be removed from the mailing list.
 
   
 If you have any questions, comments or complaints about [www.obsidian.net](http://www.obsidian.net/) or about this privacy statement, please contact:
