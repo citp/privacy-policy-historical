@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the eloqua.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619235459id_/http%3A//www.eloqua.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eloqua.com privacy policy that was archived on 2009-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091112095350id_/http%3A//www.eloqua.com/about/privacy) for the most accurate reproduction.*
 
-# Privacy - Marketing Automation, Demand Generation, Lead Management, Eloqua
+# Privacy - Email Marketing Automation | Demand Generation | Eloqua
 
-About Eloqua » Privacy
-
-Privacy Policy
-
-Eloqua believes strongly that every person has the right to privacy.
+## Eloqua believes strongly that every person has the right to privacy.
 
 Effective Date: 19 May 2009
 
@@ -157,6 +153,3 @@ Eloqua reserves the right to change the terms of this privacy policy at any time
 Eloqua participates in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce.  As part of our participation in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us at [privacy@eloqua.com](mailto:privacy@eloqua.com) or write us directly at 1921 Gallows Road, Suite 250, Vienna, VA 22182 or call us Toll-free in North America: 866-327-8764 or one of our other phone numbers listed at <http://www.eloqua.com/about/locations/>
 
 If contacting us does not resolve your complaint, you submit your complaint to TRUSTe by Internet at <http://www.truste.org/consumers/watchdog_complaint.php>, fax at 415-520-3420, or mail at Watchdog Complaints, TRUSTe, 55 2nd Street 2nd Floor, San Francisco, CA, USA 94105. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see <http://www.truste.org/consumers/watchdog_complaint.php> or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. 
-
-  
-Copyright 2009 Eloqua Corporation. All Rights Reserved. 
