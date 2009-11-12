@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hays.com.au privacy policy that was archived on 2009-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090208023317id_/http%3A//www.hays.com.au/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hays.com.au privacy policy that was archived on 2009-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091112043658id_/http%3A//hays.com.au/about/privacy.aspx) for the most accurate reproduction.*
 
-# Hays Recruitment
+# Hays Privacy Policy | Hays Australia
 
 ### Your privacy is important to Hays
 
