@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worketc.com privacy policy that was archived on 2009-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090516065020id_/http%3A//www.worketc.com/Privacy_Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worketc.com privacy policy that was archived on 2009-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091112205535id_/http%3A//www.worketc.com/Privacy_Statement) for the most accurate reproduction.*
 
 # Privacy Policy - we hate spam too.
 
@@ -93,7 +93,7 @@ Veetro undertakes to disclose Your Data only under the following circumstances:
   * in other circumstances that are directly implied by the purpose agreed between You and Veetro at the time of data collection or subsequently, where Your Data is disclosed in this way, Veetro undertakes to exercise control over Veetro's contractors to ensure that their actions are compliant with these Terms;
   * with your consent, or at your request;
   * where required by law, such as a provision of a statute, or a court order such as a search warrant or subpoena. In these circumstances, Veetro will take any reasonable steps available to it to communicate to You that the disclosure has occurred, unless it is precluded from doing so by law;
-  * where permitted by law (e.g. the [reporting](http://www.worketc.com/Features/Management_Reports "Management reports for your small business") of suspected breach of the criminal law to a law enforcement agency; and in an emergency, where Veetro believes on reasonable grounds that the disclosure of Your Data will materially assist in the protection or the life of health of some person), provided that Veetro will apply due diligence to ensure that the exercise of the permission is justifiable. 
+  * where permitted by law (e.g. the reporting of suspected breach of the criminal law to a law enforcement agency; and in an emergency, where Veetro believes on reasonable grounds that the disclosure of Your Data will materially assist in the protection or the life of health of some person), provided that Veetro will apply due diligence to ensure that the exercise of the permission is justifiable. 
 
 
 
@@ -217,5 +217,4 @@ Your Data does not refer to data that can no longer be associated with you. This
 Consent means your concurrence with an action to be taken by Veetro. Consent may be express or implicit, but in either case must be informed and freely-given. 
 
   
-|  |     
----|---|---
+
