@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the connectioncafe.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420200424id_/http%3A//www.convio.com/convio/policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectioncafe.com privacy policy that was archived on 2009-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091112154101id_/http%3A//www.convio.com/convio/policies/privacy-policy.html) for the most accurate reproduction.*
 
-# Convio | Privacy Policy | Convio
+# Policies | Convio
+
+  
+
+
+  *   * 
+
+
+### Privacy Policy
 
 Registering with us allows you to take advantage of all our unique services as a Convio.com registered user, including reports on critical developments affecting the world of nonprofits, stories on Internet technology for nonprofits from leading consultants in the field, best practices in technology for nonprofits, tips and strategies from your peers in nonprofits on how to get the most out of technology, and announcements of new Convio releases. 
 
@@ -101,3 +109,15 @@ Austin, TX 78758
 888-528-9501 Toll-free Phone 
 
 You can also send an email to [webmaster@convio.com](mailto:webmaster@convio.com "E-mail webmaster@convio.com").
+
+Back to top
+
+### Client Engagement Principles
+
+Convio is committed to serving the entire nonprofit community. Our clients include charities, educational institutions, faith-based organizations, humanitarian groups, political campaigns, health organizations, advocacy groups and many others. We take great pride in providing nonprofits with the Internet technology and services they need to operate and communicate more efficiently and effectively. 
+
+Convio is non-partisan and does not take a position on its clients' missions, beliefs or advocacy objectives. 
+
+Convio seeks to work with organizations that share our commitment to equal opportunity and nondiscrimination. Convio will not work with groups that promote violence, hatred, or racial or religious intolerance. Convio will exercise its judgment in determining whether an organization violates the spirit of these principles.
+
+In addition, the use of Convio products or services for illegal purposes or in connection with activities that the company determines to be harmful to its reputation may be grounds for Convio to terminate its relationship with a customer. Convio's Acceptable Use Policy includes a more complete statement of our standards on these matters. 
