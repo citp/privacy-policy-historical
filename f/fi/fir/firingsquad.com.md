@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firingsquad.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617052752id_/http%3A//www.firingsquad.com/pages/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firingsquad.com privacy policy that was archived on 2009-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091112203610id_/http%3A//www.firingsquad.com/pages/%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # FiringSquad: Home of the Hardcore Gamer - Games, Hardware, Reviews and News
 
