@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the fox19.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429195000id_/http%3A//www.fox19.com/global/story.asp%3Fs%3D8774923) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox19.com privacy policy that was archived on 2009-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091112194211id_/http%3A//www.fox19.com/global/story.asp%3Fs%3D8774923) for the most accurate reproduction.*
 
 # Privacy Policy - FOX19.com and FOX19 News, weather, traffic, and sports for Cincinnati and Northern Kentucky |
 
-|   
----  
-  
 **This Website's Privacy Policy**
 
 This Website (the "Website") provides a variety of online services, from interactive entertainment to electronic commerce via its relationship with Gannaway Web Holdings, LLC d/b/a WorldNow ("WorldNow"). WorldNow is the host of this Website. Because the success of this Website is dependent on building and maintaining goodwill with our customers, this Website and WorldNow (hereinafter collectively referred to as "we" or "us" or "our") are committed to implementing measures designed to protect the privacy of those using our services. Moreover, we see it as our responsibility to set examples and help establish the standards for privacy on the Internet. 
@@ -70,5 +67,3 @@ We use third-party advertising companies to serve ads when you visit this Websit
 Questions regarding this Privacy Policy should be directed to us at _[](mailto:)[info@raycommedia.com](mailto:info@raycommedia.com)_.  Please include the URL of this Website in your email.
 
 _Effective date: January 13, 2009_
-
-[](http://www.addthis.com/bookmark.php)
