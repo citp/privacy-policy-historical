@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the thehorse.com privacy policy that was archived on 2009-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090630085053id_/http%3A//www.thehorse.com/ViewArticle.aspx%3FID%3D2545) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehorse.com privacy policy that was archived on 2009-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091112021716id_/http%3A//www.thehorse.com/ViewArticle.aspx%3FID%3D2545) for the most accurate reproduction.*
 
 # The Horse | TheHorse.com Privacy Policy
+
+##  TheHorse.com Privacy Policy
 
 Thank you for visiting **TheHorse.com**. As a guest to our site, your privacy is important to us. Following are our online information practices and the way your information is collected and used at this site. 
 
