@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the gomy.co.uk privacy policy that was archived on 2009-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090620093127id_/http%3A//www.gomy.co.uk/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gomy.co.uk privacy policy that was archived on 2009-11-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091112015730id_/http%3A//www.gomy.co.uk/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta name="verify-v1" content="2Vf5vg+AeugXAPQv4tBCiW5rOwKYRNEMz02Lkn19QTM=">
+<meta name="verify-v1" content="THsauHjDuUQBWgIkH5sCZdhXLoFQHAOKasfYyEIMF8U=">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="title" content="Privacy Policy - gomy.co.uk">
 <meta name="description" content="Find out about the online yellow pages privacy policy.">
@@ -10,14 +11,15 @@
 <title>Privacy Policy - gomy.co.uk</title>
 <link rel="shortcut icon" href="http://assets.gomy.co.uk/images/templates/favicon.ico">
 <!--[if lte IE 6]> <link rel="stylesheet" href="http://assets2.gomy.co.uk/css/iesucks.css" type="text/css" media="screen" /> <![endif]-->
-<script type="text/javascript" src="http://assets2.gomy.co.uk/js/acctype0/jquery_1.js?20090616"></script>
-<script type="text/javascript" src="http://assets2.gomy.co.uk/sf/prototype/js/prototype.js?20090616"></script>
-<script type="text/javascript" src="http://assets2.gomy.co.uk/sf/prototype/js/builder.js?20090616"></script>
-<script type="text/javascript" src="http://assets2.gomy.co.uk/sf/prototype/js/effects.js?20090616"></script>
-<script type="text/javascript" src="http://assets2.gomy.co.uk/sf/prototype/js/dragdrop.js?20090616"></script>
-<link rel="stylesheet" type="text/css" media="screen" href="http://assets2.gomy.co.uk/css/base_version_V0.css?20090616">
-<link rel="stylesheet" type="text/css" media="screen" href="http://assets2.gomy.co.uk/css/popup.css?20090616">
-<link rel="stylesheet" type="text/css" media="screen" href="http://assets2.gomy.co.uk/css/text-pages.css?20090616">
+<script type="text/javascript" src="http://assets2.gomy.co.uk/js/acctype0/jquery_1.js?20090909"></script>
+<script type="text/javascript" src="http://assets2.gomy.co.uk/js/search.js?20090909"></script>
+<script type="text/javascript" src="http://assets2.gomy.co.uk/sf/prototype/js/prototype.js?20090909"></script>
+<script type="text/javascript" src="http://assets2.gomy.co.uk/sf/prototype/js/builder.js?20090909"></script>
+<script type="text/javascript" src="http://assets2.gomy.co.uk/sf/prototype/js/effects.js?20090909"></script>
+<script type="text/javascript" src="http://assets2.gomy.co.uk/sf/prototype/js/dragdrop.js?20090909"></script>
+<link rel="stylesheet" type="text/css" media="screen" href="http://assets2.gomy.co.uk/css/base_version_V0.css?20090909">
+<link rel="stylesheet" type="text/css" media="screen" href="http://assets2.gomy.co.uk/css/popup.css?20090909">
+<link rel="stylesheet" type="text/css" media="screen" href="http://assets2.gomy.co.uk/css/text-pages.css?20090909">
 </head>
 <body>
       
@@ -111,14 +113,71 @@
 
 		});
 	</script> 
+	<div id="TopNav">
+	<div class="nav">
+	        	<div class="leftsection">
+             Welcome back to GoMy. To find out whats been happening.
+             <a title="Click here to login" href="/login" rel="nofollow">Login</a>
+            </div>
+            <div class="rightsection">
+                <div style="float: right;">
+                 or <a title="Click here to join GoMy" href="/join-gomy" rel="nofollow">Create a new account</a>
+                </div>
+                <div id="fb_image" style="padding: 2px 5px 0px 0px; float: right;">
+                    <a rel="nofollow" onclick="FB.Connect.requireSession();return Fbconnecttome();" style="cursor:pointer;"><img id="fb_login_image" src="http://static.ak.fbcdn.net/images/fbconnect/login-buttons/connect_dark_medium_long.gif?8:121638" alt="Facebook Connect" title="Please make sure your logged into Facebook 1st"></a>
+                </div>
+            </div>
+        
+	</div>
+</div>
+<center>
+<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
+<script type="text/ecmascript">
+FB.init("f0511e6892f4740010554d29914e23df", "http://www.gomy.co.uk/xd_receiver.htm",{"reloadIfSessionStateChanged":true}); 
+function Fbconnecttome(){
+	var api = FB.Facebook.apiClient;
+	
+	if(api.get_session()){
+		session_key = api.get_session().session_key;
+		user_uid = api.get_session().uid;
+		if(user_uid>0){
+			if(readCookie("symfony")){
+				eraseCookie("symfony");
+			}
+			new Ajax.Request("/popup/fbuserconnectionwithsite?fbuserid="+user_uid, {asynchronous:true, evalScripts:false, onComplete:function(request, json){returnFBconnectStatusForlogin(request)}});
+			return true;
+		}else {
+			return false;
+		}
+	}
+}
+
+function  returnFBconnectStatusForlogin(request){
+	var _var = request.responseText;
+	if(_var=='0'){
+		new Ajax.Updater("popupmessage", "/popup/fbconnect?pop=1&fbuserid="+user_uid, {asynchronous:true, evalScripts:true, onComplete:function(request, json){styledPopupOpen('popupmessage')}, onLoading:function(request, json){load_popup('Facebook Login',0);}});; return false;
+	}else{
+		window.location= _var;
+	}
+}
+
+function  returnFBconnectStatus(request){
+	var _var = request.responseText;
+	if(_var=='0'){
+		new Ajax.Updater("popupmessage", "/popup/fbconnect?pop=1&fbuserid="+user_uid, {asynchronous:true, evalScripts:true, onComplete:function(request, json){styledPopupOpen('popupmessage')}, onLoading:function(request, json){load_popup('Facebook Login',0);}});; return false;
+	}
+}
+</script>
     <div id="container">
 		<div id="header">
 			<div id="header-right">
-				<div id="info-bar">
-					<span id="info-bar-right">					New User? <a href="/join-gomy" rel="nofollow">Sign Up</a> | <a href="/login" rel="nofollow">Log In</a></span>
+				<!--<div id="info-bar">
+					<span id="info-bar-right">
+                   	
+					New User? <a href='/join-gomy' rel='nofollow'>Sign Up</a> | <a href='/login' rel='nofollow'>Log In</a></span>
 
 					<span id="info-bar-left"></span>
-				</div><!-- info-bar -->
+				</div> --><!-- info-bar -->
 			
 				<div id="search-bar">
 					 <form action="#" method="post" accept-charset="utf-8" onsubmit="return validate_search();" name="search_form123">  
@@ -126,7 +185,7 @@
 							<h2>SEARCH FOR <span>(e.g. Pub, Dentist, Florist)</span></h2>
 							<p>
                                <input type="text" class="full_input ac_input" name="keyword" id="search_keyword" autocomplete="off" value="" maxlength="75">
-                               <img src="//assets1.gomy.co.uk/images/templates/icons/ShowSugg.gif" name="imgkeyword" id="imgkeyword" title="Show Suggestions" alt="Show Suggestions" onclick="testShow();" style="display:none;cursor:pointer">
+                               <img src="http://assets1.gomy.co.uk/images/templates/icons/ShowSugg.gif" name="imgkeyword" id="imgkeyword" title="Show Suggestions" alt="Show Suggestions" onclick="testShow();" style="display:none;cursor:pointer">
                             </p>
                            	<p>Business Name or Keyword</p>
 						</div>
@@ -135,7 +194,7 @@
 							<h2>NEAR <span>(e.g. Manchester, London, M1 3BE)</span></h2>
 							<p>
    							  <input class="full_input ac_input" autocomplete="off" id="search_location" name="location" type="text" value="Manchester, Greater Manchester">
-                              <img src="//assets1.gomy.co.uk/images/templates/icons/ShowSugg.gif" name="imglocation" id="imglocation" title="Show Suggestions" alt="Show Suggestions" onclick="testShow2();" style="display:none;cursor:pointer">
+                              <img src="http://assets1.gomy.co.uk/images/templates/icons/ShowSugg.gif" name="imglocation" id="imglocation" title="Show Suggestions" alt="Show Suggestions" onclick="testShow2();" style="display:none;cursor:pointer">
                             </p>
                             <p>Town, City or Postcode</p>
 						</div>
@@ -177,7 +236,7 @@
 			
 			<li class="listing"><a href="/advertise">LISTING INFO<!--[if IE 7]><!--></a><!--<![endif]-->
 			<!--[if lte IE 6]><table><tr><td><![endif]-->
-				<ul>
+				<ul style="z-index:100">
 					<li><a href="/advertise">Advertise Info</a></li>
 					<li><a href="/advertise/free-listings">More about free</a></li>
 					<li><a href="/advertise/silver-listings">More about silver</a></li>
@@ -256,20 +315,16 @@
  <div id="PopupFrame" style="height:495px;display: none;position:absolute;z-index: 9999;left: 175px;">
       <table>
         <tbody>
+          <tr><td class="tl"></td><td class="b"></td><td class="tr"></td></tr>
           <tr>
-            <td class="tl"></td><td class="b"></td><td class="tr">
-
-          </td></tr>
-          <tr>
-            <td class="b">
-            </td><td>
+            <td class="b"></td><td>
            <h3><span id="popupmessagehead">Popular Locations</span><img alt="Close" title="Close" onclick="styledPopupClose('PopupFrame')" style="cursor:pointer" src="http://assets2.gomy.co.uk/images/templates/popups/PopupClose.gif" class="PopClose"></h3>
 	<div id="popupmessage" style="background-color:#FFFFFF">
 		<p class="PopupLoading">Loading...</p>
    </div>
 
 			<div class="clear"></div>
-	</td>
+			</td>
             <td class="b">
           </td></tr>
           <tr>
@@ -278,7 +333,6 @@
 
         </tbody>
       </table>
-
 </div>
  
 <div id="anchor"></div>
@@ -462,7 +516,7 @@ new Draggable('eventpopup', {})
 		</div><!-- footer -->
 	
 </div><!-- container -->
-
+</center>
 <script type="text/javascript"> var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script> <script type="text/javascript"> try { var pageTracker = _gat._getTracker("UA-7076704-1"); pageTracker._trackPageview(); } catch(err) {}</script> 
 <script language="javascript" type="text/javascript">
 
@@ -567,9 +621,31 @@ function readCookie(name) {
 function eraseCookie(name) {
 	createCookie(name,"",-1);
 }
+
 </script>
+
 <script type="text/javascript" src="http://assets2.gomy.co.uk/js/search.js"></script>
 <script type="text/javascript" src="http://assets2.gomy.co.uk/js/acctype0/jquery_autocomplete.js"></script>
+ 
+
+<script type="text/javascript">
+	J$().ready(function() {
+		var api = FB.Facebook.apiClient;
+		if(api.get_session()){
+			session_key = api.get_session().session_key;
+			user_uid = api.get_session().uid;
+			if(user_uid>0){
+				if(!readCookie('showfbconnectpopup')){
+					createCookie('showfbconnectpopup','1',7);
+					new Ajax.Request("/popup/fbuserconnectionwithsite?fbuserid="+user_uid, {asynchronous:true, evalScripts:false, onComplete:function(request, json){returnFBconnectStatus(request)}});
+				}
+			}
+		}else{
+			document.getElementById("fb_image").innerHTML='<a rel="nofollow" onclick="FB.Connect.requireSession();return Fbconnecttome();" style="cursor:pointer;"><img id="fb_login_image" src="http://static.ak.fbcdn.net/images/fbconnect/login-buttons/connect_dark_medium_long.gif?8:121638" alt="Facebook Connect" title="Please make sure your logged into Facebook 1st"/></a>';
+			return false;
+		}
+	})
+</script>
  
 
 </body></html>
