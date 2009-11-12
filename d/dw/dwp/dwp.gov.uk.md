@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dwp.gov.uk privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605194947id_/http%3A//www.dwp.gov.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dwp.gov.uk privacy policy that was archived on 2009-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091112105320id_/http%3A//www.dwp.gov.uk/privacy-policy) for the most accurate reproduction.*
 
-# DWP - Privacy policy
+# Privacy policy - DWP
 
 This page explains the privacy policy for the Department for Work and Pensions and how we will use and protect any information we collect about you when you visit this website.
 
@@ -13,7 +13,7 @@ This page explains the privacy policy for the Department for Work and Pensions a
 
 
 
-### How DWP collects and uses information 
+## How DWP collects and uses information 
 
 The Department for Work and Pensions collects information to deal with social security (including Housing Benefit and Council Tax Benefit), child support, vaccine damage, employment and training, the Financial Assistance Scheme, promoting financial planning for retirement, and policy relating to occupational and personal pension schemes. The information we collect about you depends on the reason for your business with us, but we may use the information for any of these purposes.
 
@@ -30,13 +30,13 @@ These other organisations include other government departments, local authoritie
 
 top of page
 
-### The Data Protection Act
+## The Data Protection Act
 
 The Department for Work and Pensions is the Data Controller for the purposes of the Data Protection Act. Our website does not enable our visitors to communicate with other visitors or for them to post information to be accessed by others.
 
-If you want to know more about what information we have about you, or the way we use your information see [DWP and your personal information](https://web.archive.org/web/20090605194947id_/http%3A//www.dwp.gov.uk/DWP-your-personal-information.pdf) (58KB)
+If you want to know more about what information we have about you, or the way we use your information see [DWP and your personal information](https://web.archive.org/docs/dwp-your-personal-information.pdf) (58KB)
 
-To find out how we look after the personal information we hold about you, see our [Information charter](https://web.archive.org/web/20090605194947id_/http%3A//www.dwp.gov.uk/dwp-information-charter.pdf) (42KB)
+To find out how we look after the personal information we hold about you, see our [Information charter](https://web.archive.org/docs/dwp-information-charter.pdf) (42KB)
 
   * [Get help with PDFs](https://web.archive.org/accessibility/#pdf)
 
@@ -44,13 +44,13 @@ To find out how we look after the personal information we hold about you, see ou
 
 top of page
 
-### Email
+## Email
 
 Internet email is a way of making general enquiries but it is not a secure way to send personal information. DWP regrets that it cannot deal with specific enquiries by email. If you send us an email, we may keep a copy for reference and audit purposes.
 
 top of page
 
-###  Cookies
+##  Cookies
 
 Cookies are small pieces of information sent to your computer or other device when you visit a website. We may use cookies to store information which we can access when you visit our site in future. We do this to:
 
@@ -68,13 +68,13 @@ There is more information about cookies at [AboutCookies.org](http://www.aboutco
 
 top of page
 
-### Links to other websites
+## Links to other websites
 
 The DWP website contains links to other sites. This privacy policy applies only to the DWP site. When you move to another website, you will need to read the privacy statement of that site.
 
 top of page
 
-### Changes to this privacy policy
+## Changes to this privacy policy
 
 If this privacy policy changes, we will update this page. Check this page to make sure you are aware of what information we collect, how we use it and the circumstances we may share it with other organisations.
 
