@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the satac.edu.au privacy policy that was archived on 2009-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090217221845id_/http%3A//www.satac.edu.au/satac/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satac.edu.au privacy policy that was archived on 2009-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091112044719id_/http%3A//satac.edu.au/satac/privacy.htm) for the most accurate reproduction.*
 
-# SATAC Disclaimer
+# Privacy
 
 deals with enquiries relating to the application and assessment processes.
 
