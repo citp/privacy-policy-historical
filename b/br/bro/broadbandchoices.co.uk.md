@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadbandchoices.co.uk privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617065804id_/http%3A//www.broadbandchoices.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadbandchoices.co.uk privacy policy that was archived on 2009-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091113081237id_/http%3A//www.broadbandchoices.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - BroadbandChoices.co.uk
 
@@ -6,7 +6,7 @@
 
 ## General
 
-Broadband Choices.co.uk and ConsumerChoices are trading names of Decision Technologies Limited (Company Number 05341159) whose registered address is Unit 4.19 United House, North Road, London N7 9DP. Decision Technologies Limited is the data controller in relation to this website and your personal data. If you have any queries relating to our use of your personal data or any other data protection or privacy policy issues then please contact our Data Protection Officer at [dpo@consumerchoices.co.uk](mailto:dpo@consumerchoices.co.uk "dpo@consumerchoices.co.uk") or by writing to the Data Protection Officer at the registered address.
+BroadbandChoices.co.uk and ConsumerChoices.co.uk are trading names of Decision Technologies Limited (Company Number 05341159) whose registered address is Unit 4.19 United House, North Road, London N7 9DP. Decision Technologies Limited is the data controller in relation to this website and your personal data. If you have any queries relating to our use of your personal data or any other data protection or privacy policy issues then please contact our Data Protection Officer at [dpo@consumerchoices.co.uk](mailto:dpo@consumerchoices.co.uk "dpo@consumerchoices.co.uk") or by writing to the Data Protection Officer at the registered address.
 
 Please read the Privacy Policy carefully as once you use our website you will be regarded as having read and accepted its terms.
 
@@ -35,7 +35,7 @@ We will not share your personal details with third parties, other than for the s
 
 ## Informing you of special offers and services which may be of interest
 
-We would like to keep you updated by e-mail or text of other products and services which we feel you may benefit from or which you have specifically indicated that you have an interest in through our registration process.
+We would like to keep you updated by e-mail or text of other products and services which we feel you may benefit from or which you have specifically indicated that you have an interest in through our registration process. We obtain additional personal information from third parties to enable us to improve the relevance of these communications to you.
 
 ## Broadband availability check
 
@@ -43,15 +43,19 @@ If you carry out a broadband availability check on our website, we will only use
 
 ## Registering with BroadbandChoices.co.uk
 
-If you register BroadbandChoices.co.uk then we will keep your details solely for the purpose of sending you the information you have requested. You can easily unsubscribe at any time, either through your personal log in; by clicking the “unsubscribe” link at the bottom of any electronic correspondence; or by emailing us at [support@broadbandchoices.co.uk](mailto:support@broadbandchoices.co.uk "support@broadbandchoices.co.uk").
+If you register with BroadbandChoices.co.uk then we will keep your details solely for the purpose of sending you the information you have requested. You can easily unsubscribe at any time, either through your personal log in; by clicking the “unsubscribe” link at the bottom of any electronic correspondence; or by emailing us at [support@broadbandchoices.co.uk](mailto:support@broadbandchoices.co.uk "support@broadbandchoices.co.uk").
 
 ## Improving our Service
 
-So that we can continually improve our services, we may ask you for feedback on your experience of using the site. This information is only used internally and will not be published on the site. We may also use your data to perform statistical analysis to help understand how people are using our services so that we can improve them in the future.
+So that we can continually improve our services, we may ask you for feedback on your experience of using the site. Unless otherwise stated, this information is only used internally and will not be published on the site. We may also use your data to perform statistical analysis to help understand how people are using our services so that we can improve them in the future.
 
 ## Ask the Expert
 
-We may republish extracts of emails sent to [ourexpert@broadbandchoices.co.uk](mailto:ourexpert@broadbandchoices.co.uk "ourexpert@broadbandchoices.co.uk") in articles and features on our website. We will not disclose any user's email address or any level of personal information that would enable any third party to contact or identify a particular individual (for example a full name or area of residency). If you do not want us to republish any extracts from correspondence with Ask the Expert then this should be indicated in the body text of the email and we will fully comply with your request.
+We may republish extracts of emails sent to [ourexpert@broadbandchoices.co.uk](mailto:ourexpert@broadbandchoices.co.uk "ourexpert@broadbandchoices.co.uk") in articles and features on our website and in other media. We will not disclose any user's email address or any level of personal information that would enable any third party to contact or identify a particular individual (for example a full name and full area of residency). If you do not want us to republish any extracts from correspondence with Ask the Expert then this should be indicated in the body text of the email and we will fully comply with your request.
+
+## Testimonials, Case Studies and Surveys
+
+We may republish comments and testimonials sent to us by our users when they provide information by way of Case Study application forms and survey responses. These comments and testimonials may appear in articles and features on our website and other media. We will not disclose any user's email address or any level of personal information that would enable any third party to contact or identify a particular individual (for example a full name and full area of residency). If you do not want us to republish any comments or testimonials then this should be clearly indicated and we will fully comply with your request.
 
 ## Third party providers and personal information policies
 
@@ -67,7 +71,11 @@ However, no data transmission over the Internet can be guaranteed to be totally 
 
 We collect information about users visiting our website by analysing site traffic, which includes the use of cookies. A cookie is text file which is stored on your computer and is sent by a web server to a web browser, which enables the server to collect information back from the browser. This enables us to identify if you have visited BroadbandChoices.co.uk before, for example.
 
-Most web browsers automatically accept cookies, but normally you can alter your browser settings to prevent automatic acceptance, if you prefer. If you opt not to receive our cookies, we cannot guarantee that your experience with our website will be as quick or responsive as if you do receive cookies.
+To improve our users' experience, some ad and affiliate networks use cookies to show ads based on visits to this and other websites within the network. This type of targeted advertising is known as interest-based advertising. You can learn more or choose not to be shown ads selected using interest-based advertising by visiting the information page on [interest based advertising](http://www.broadbandchoices.co.uk/goto.asp?type=1&LinkTrackerID=740 "interest based advertising").
+
+Some of the user information collected by cookies whilst using our websites is shared with third parties. Information collected by cookies and other tracking methods is anonymous and does not contain any information that can personally identify you.
+
+Most web browsers automatically accept cookies, but normally you can alter your browser settings to prevent automatic acceptance or you can manually delete your cookie history whenever you wish. If you opt not to receive our cookies, we cannot guarantee that your experience with our website will be as quick or responsive as if you do receive cookies.
 
 ## Your rights
 
