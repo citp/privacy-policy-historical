@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onlineeducation.net privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608173553id_/http%3A//www.onlineeducation.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineeducation.net privacy policy that was archived on 2009-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091114000012id_/http%3A//www.onlineeducation.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Online Education
+# Privacy Policy | Online Education.net: The Best Online Education Programs
 
 ## Privacy Policy
 
