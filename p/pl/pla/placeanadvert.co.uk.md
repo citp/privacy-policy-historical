@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the placeanadvert.co.uk privacy policy that was archived on 2009-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090412204550id_/http%3A//www.placeanadvert.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the placeanadvert.co.uk privacy policy that was archived on 2009-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091113230731id_/http%3A//www.placeanadvert.co.uk/privacy.php) for the most accurate reproduction.*
 
 # 
 
