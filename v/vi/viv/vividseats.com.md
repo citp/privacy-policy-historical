@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vividseats.com privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612083401id_/http%3A//www.vividseats.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vividseats.com privacy policy that was archived on 2009-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091113191759id_/http%3A//www.vividseats.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Vivid Seats
 
@@ -31,7 +31,7 @@ The amount and type of information we collect from you depends on your activitie
 
 
   
-**When you create an[Account](https://web.archive.org/web/20090612083401id_/http%3A//www.vividseats.com/account/loginForm.shtml) on our Web site**
+**When you create an[Account](https://web.archive.org/web/20091113191759id_/http%3A//www.vividseats.com/account/loginForm.shtml) on our Web site**
 
   * We collect your user name, password, e-mail address, secret question, and answer to your secret question to protect your Account. We use your secret question and answer to identify you as the account user if you have forgotten your password. You can help us ensure your privacy by not sharing your user name or password. 
 
