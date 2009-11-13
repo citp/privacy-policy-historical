@@ -1,37 +1,85 @@
-> *The following text is extracted and transformed from the mrmisupercashsystem.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616203848id_/http%3A//www.mrmisupercashsystem.com/site.php/spol/view/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrmisupercashsystem.com privacy policy that was archived on 2009-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091113192912id_/http%3A//www.mrmisupercashsystem.com/index.php%3Fpage_id%3D25) for the most accurate reproduction.*
 
-# MRMI Super Cash System - Welcome To Our Website!
+# MRMI Super Cash System » Privacy
 
-### What information do you collect automatically?
+**PRIVACY POLICY**
 
-For each visitor to our web page, our web server automatically recognizes the consumer's domain name but not the e-mail address. It also logs aggregate information on what pages consumers access or visit, but does not record. which pages individual consumers access or visit. 
+**1\. HOW WE PROTECT YOUR PRIVACY.**
 
-### What other information do you collect?
+This privacy policy tells you how we collect, use, and protect your personal information. By visiting our website, you accept and agree to the terms and conditions of this privacy policy. In particular, you consent to our collection and use of your personal information as described in this privacy policy.
 
-You can voluntarily chose to become a registered member. In doing so, we collect the name, e-mail address, city, state, zip code, date of birth, and certain voluntary personal information. We also collect the email addresses of those who communicate with us via e-mail, and profile information volunteered by the consumer. 
+**2\. MINORS.**
 
-### What do you do with this information?
+We do not provide services or sell products to children. If you are below the age of 18, you may use our website only with the permission and active involvement of a parent or legal guardian. If you are a minor, please do not provide us or other website visitors with any personal information.
 
-The information we collect is used for internal review and to improve the content of our web page. The information we collect is not shared with other persons, companies, or organizations except when required by a law enforcement agency in the process of a criminal investigation. 
+**  
+3\. POLICY IS PART OF OUR TERMS AND CONDITIONS OF USE.**
 
-### Do you use cookies?
+Our privacy policy is part of, and subject to, our websiteâ€™s terms and conditions of use. You may view these terms and conditions on our website.
 
-We use cookies to store certain information about registered members, visitors preferences, and to customize web page content based on the visitors' browser type or other information that the visitor sends. All cookies are encrypted so they can't be used by another website. 
+**4\. THE TYPE OF INFORMATION WE COLLECT FROM YOU**.
 
-### What do you do with my personal information?
+Like most places on the Internet, simply by visiting our website you automatically tell us certain information. This includes basic information such as your IP address, when you visited, the website from where you came prior to visiting us, the website where you go when you leave our website, your computerâ€™s operating system, and the type of web browser that you are using. Our website automatically records this basic information about you.
 
-All of the information collected remains confidential and is not shared with anyone other than the web site administrators. All of our web site administrators are instructed to maintain this confidentiality and are terminated if they are found in violation of this privacy policy. We do not sell your personal information, but we do use it for marketing purposes. We send newsletters and other important system messages via email, but you have the option of not receiving these messages. You also have the option of which information is shared publicly in your profile. This information is used for internal marketing purposes and to provide services to our members. 
+And like many other websites, we may use cookies. In plain English, this means information that our websiteâ€™s server transfers to your computer. This information can be used to track your session on our website. Cookies may also be used to customize our website content for you as an individual. If you are using one of the common Internet web browsers, you can set up your browser to either let you know when you receive a cookie or to deny cookie access to your computer.
 
-### Do you partner with ad services which may collect information about me?
+We may also collect any data that you provide us by posting it at our website or by e-mail. You can always choose not to provide us with information. However, if you do withhold information, we may deny you access to some or all of our websiteâ€™s services and features.  
+Some transactions between you and our website may involve payment by credit card, debit card, checks, money orders, and/or third party online payment services. In such transactions, we will collect information related to the transaction as part of the course of doing business with you, including your billing address, telephone number, and other information related to the transaction.
 
-While we may partner with some ad services from time to time, they will only have access to information you consent to provide them. 
+**5\. WHAT WE DO WITH YOUR INFORMATION.**
 
-### What will happen if this privacy policy changes?
+We use your information to operate our websiteâ€™s business activities. For example, we may use this data to contact you about changes to our website, new services, or special offers, resolve disputes, troubleshoot issues, and enforce our websiteâ€™s terms and conditions.
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in this privacy notice. If our information practices change at some time in the future we will post the policy changes to our web site and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our web site periodically. For these new purposes, we will use only data collected from the time of the policy change forward. 
+As a general rule, we will not give your data to third parties without your permission. However, there are some important exceptions to this rule that are described in the following paragraphs.
 
-### Can I find out what information you have about me?
+We may, in our sole discretion, provide information about you to law enforcement or other government officials for purposes of fraud investigations, alleged intellectual property infringement, or any other suspected illegal activity or matters that may expose us to legal liability.
 
-Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them, including unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, contact information (e.g., name, address, phone number) that we maintain about them, and a complete description of all of the information that we maintain about them. 
+Although we do not disclose individually identifiable information, we may disclose aggregate data about our websiteâ€™s visitors to advertisers or other third parties for marketing and promotional purposes.
 
-Consumers can access this information by sending us a message. We will attempt to verify the identity of the person requesting your information before we provide said information. Consumers can have this information corrected by sending us e-mail at the above address.
+From time to time, we may use third party suppliers to provide services on our website. If a supplier wants to collect information about you, you will be notified. However, you will never be required to give information to a third party supplier. We restrict the way third party suppliers can use your information. They are not allowed to sell or give your information to others.
+
+**6\. USER NAMES AND PASSWORDS.**
+
+Your access to parts of our website may be protected by a user name and a password. Do not give your password to anyone. If you enter a section of our website that requires a password, you should log out when you leave. As a safety precaution, you should also close out of your web browser completely and re-open it before viewing other parts of the Internet.
+
+**7\. YOUR USE OF INFORMATION AND UNSOLICITED JUNK E-MAIL.**
+
+If you obtain personally identifiable information about another website user, you are not allowed to disclose this information to anyone else without the consent of the user and our consent too.
+
+We hate junk e-mail (Spam). Information you obtain from our website about us or other site users cannot be used by you or others to send unsolicited commercial e-mail or to send unsolicited commercial communications via our websiteâ€™s posting or other communication systems.
+
+**  
+8\. YOUR VOLUNTARY DISCLOSURE OF INFORMATION TO THIRD PARTIES WHO ARE NOT OUR SUPPLIERS.**
+
+You may choose to provide personal information to website visitors or other third parties who are not our suppliers. Please use caution when doing so. The privacy policies and customs of these third parties determine what is done with your information.
+
+**  
+9\. AUTORESPONDERS.**
+
+We may use autoresponders to communicate with you by e-mail. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us by sending an e-mail to support@piercesupport.com, or sending us mail to the address listed below.
+
+**10\. POLICY CHANGES.**
+
+The terms of this policy may change from time to time. If such changes are made, we will notify you by a notice posted on our websiteâ€™s home page of the changes that have been made. If you disagree with the changes that have been made, please contact us (by e-mail, using a website contact form, or in writing by mail), and any changes made to this policy will not apply to information we have collected from you prior to making the changes.
+
+If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention by sending an e-mail to support(at)piercesupport.com and providing us with information relating to your concern.
+
+You may also mail your concerns to us at the following address:
+
+Impulsive Profits, Inc.  
+101 Washington Ave, #214  
+Whitney, Texas 76692  
+United States
+
+**11\. CALIFORNIA PRIVACY RIGHTS.**
+
+If you are a California resident and our customer, Cal. Civ. Code Â§ 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail to support(at)piercesupport.com or write us at the following address:
+
+Impulsive Profits, Inc.  
+101 Washington Ave, #214  
+Whitney, Texas 76692  
+United States
+
+This policy was last updated on 01-14-2009.
+
+Copyright Â© 2008Law Office of Michael E. Young PLLC , and licensed for use by the owner of this website at MRMI SuperCash . All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
