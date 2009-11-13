@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lillypulitzer.com privacy policy that was archived on 2009-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090610033903id_/http%3A//www.lillypulitzer.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lillypulitzer.com privacy policy that was archived on 2009-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091113045034id_/http%3A//www.lillypulitzer.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at Lilly Pulitzer
 
