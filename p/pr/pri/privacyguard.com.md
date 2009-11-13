@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the privacyguard.com privacy policy that was archived on 2009-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090630084942id_/http%3A//www.privacyguard.com/Content.aspx%3Fcontent%3DCustomerService%252fFinInfoPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privacyguard.com privacy policy that was archived on 2009-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091113091418id_/http%3A//www.privacyguard.com/Content.aspx%3Fcontent%3DCustomerService%252fFinInfoPolicy) for the most accurate reproduction.*
 
 # PrivacyGuard
 
