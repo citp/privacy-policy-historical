@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the plugcomputer.org privacy policy that was archived on 2009-03-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090323140424id_/http%3A//www.plugcomputer.org/index.php/component/content/article/63) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the plugcomputer.org privacy policy that was archived on 2009-11-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091113083302id_/http%3A//www.plugcomputer.org/index.php/us/component/content/article/63) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><!--start head--><head>
   <base href="http://www.plugcomputer.org/index.php/component/content/article/63">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="robots" content="index, follow">
@@ -14,187 +14,136 @@
   <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
   <link rel="stylesheet" href="/plugins/system/jceutilities/css/jceutilities-217.css" type="text/css">
   <link rel="stylesheet" href="/plugins/system/jceutilities/themes/standard/css/style.css" type="text/css">
-  <style type="text/css">
-    <!--
-
-	.dropdown {
-		font-size: 11px;
-		font-weight: normal;
-		margin-top: 0px;
-		margin-left: 0px;
-		float: left;
-	}
-	.dropdown dt {border:0px solid #9ac1c9; padding:0px; font-weight:bold; cursor:pointer; }
-	.dropdown dt:hover {}
-	.dropdown dd {padding:0px; margin: 0px; position:absolute; overflow:hidden; display:none; background:#FFFFFF; z-index:200; opacity:1.0; filter:alpha(opacity=100)}
-	.dropdown ul {padding:0px; margin: 0px;border:1px solid #ccc; list-style:none; border-top:none; border-bottom: none;}
-	.dropdown li {display:inline}
-	.dropdown a {display:block; padding:5px; text-decoration:none; }
-	.dropdown a:active {display:block; padding:5px; text-decoration:none; }
-	.dropdown a:visited {display:block; padding:5px; text-decoration:none; }
-	.dropdown a:hover {text-decoration: none; }
-	.dropdown .underline {border-bottom:0px solid #646464}
-	.clr {display:block;height:100%}
-	.separator {
-		font-size: 11px;
-		font-weight: normal;
-		margin-top: 5px;
-		margin-left: 0px;
-		float: left;
-		color: transparent;
-	}
-    -->
-  </style>
+  <link rel="stylesheet" href="http://www.plugcomputer.org/modules/mod_superfishmenu/tmpl/css/superfish.css" type="text/css">
   <script type="text/javascript" src="/plugins/system/jceutilities/js/mediaobject.js"></script>
   <script type="text/javascript" src="/plugins/system/jceutilities/js/jquery-126.js"></script>
   <script type="text/javascript" src="/plugins/system/jceutilities/js/jceutilities-217.js"></script>
   <script type="text/javascript" src="/media/system/js/mootools.js"></script>
   <script type="text/javascript" src="/media/system/js/caption.js"></script>
+  <script type="text/javascript" src="http://www.plugcomputer.org/modules/mod_superfishmenu/tmpl/js/jquery.js"></script>
+  <script type="text/javascript" src="http://www.plugcomputer.org/modules/mod_superfishmenu/tmpl/js/jquery.event.hover.js"></script>
+  <script type="text/javascript" src="http://www.plugcomputer.org/modules/mod_superfishmenu/tmpl/js/jquery.bgiframe.min.js"></script>
+  <script type="text/javascript" src="http://www.plugcomputer.org/modules/mod_superfishmenu/tmpl/js/superfish.js"></script>
   <script type="text/javascript">
 	MediaObject.init({'flash':"9,0,124,0",'windowmedia':"5,1,52,701",'quicktime':"6,0,2,0",'realmedia':"7,0,0,0",'shockwave':"8,5,1,0"});jQuery(document).ready(function(){jceutilities({'popup':{'legacy':0,'resize':1,'icons':1,'overlay':1,'overlayopacity':0.8,'overlaycolor':"#000000",'fadespeed':500,'scalespeed':500,'width':640,'height':480,'hideobjects':1,'scrollpopup':1,'theme':"standard",'themecustom':"",'themepath':"plugins/system/jceutilities/themes"},'tootlip':{'classname':"tooltip",'opacity':1,'speed':150,'position':"br",'offsets':"{'x': 16, 'y': 16}"},'imgpath':"plugins/system/jceutilities/img",'pngfix':1,'wmode':0});});
+jQuery.noConflict();
+jQuery(function($){ $("ul.sf-menu").superfish({hoverClass:'sfHover', pathClass:'active', pathLevels:0, delay:600, animation:{opacity:'show', height:'show'}, speed:200, autoArrows:0, dropShadows:0}).find('ul').bgIframe({top:'auto', left:'auto', width:'auto', height:'auto', opacity:1, src:'javascript:false;'}) });
+jQuery.event.special.hover.delay = 100;
+jQuery.event.special.hover.speed = 100;
 
-	var DDSPEED = 10;
-	var DDTIMER = 15;
-	
-	// main function to handle the mouse events //
-	function ddMenu(id,d){
-	  var h = document.getElementById(id + '-ddheader');
-	  var c = document.getElementById(id + '-ddcontent');
-	  clearInterval(c.timer);
-	  if(d == 1){
-		clearTimeout(h.timer);
-		if(c.maxh && c.maxh <= c.offsetHeight){return}
-		else if(!c.maxh){
-		  c.style.display = 'block';
-		  c.style.height = 'auto';
-		  c.maxh = c.offsetHeight;
-		  c.style.height = '0px';
-		}
-		c.timer = setInterval(function(){ddSlide(c,1)},DDTIMER);
-	  }else{
-		h.timer = setTimeout(function(){ddCollapse(c)},50);
-	  }
-	}
-	
-	// collapse the menu //
-	function ddCollapse(c){
-	  c.timer = setInterval(function(){ddSlide(c,-1)},DDTIMER);
-	}
-	
-	// cancel the collapse if a user rolls over the dropdown //
-	function cancelHide(id){
-	  var h = document.getElementById(id + '-ddheader');
-	  var c = document.getElementById(id + '-ddcontent');
-	  clearTimeout(h.timer);
-	  clearInterval(c.timer);
-	  if(c.offsetHeight < c.maxh){
-		c.timer = setInterval(function(){ddSlide(c,1)},DDTIMER);
-	  }
-	}
-	
-	// incrementally expand/contract the dropdown and change the opacity //
-	function ddSlide(c,d){
-	  var currh = c.offsetHeight;
-	  var dist;
-	  if(d == 1){
-		dist = (Math.round((c.maxh - currh) / DDSPEED));
-	  }else{
-		dist = (Math.round(currh / DDSPEED));
-	  }
-	  if(dist <= 1 && d == 1){
-		dist = 1;
-	  }
-	  c.style.height = currh + (dist * d) + 'px';
-	  c.style.opacity = currh / c.maxh;
-	  c.style.filter = 'alpha(opacity=' + (currh * 100 / c.maxh) + ')';
-	  if((currh < 2 && d != 1) || (currh > (c.maxh - 2) && d == 1)){
-		clearInterval(c.timer);
-	  }
-	}
   </script>
 
-<link href="/templates/mp_tellix/css/template_css.css" rel="stylesheet" type="text/css">
+
+<!--main css template load-->
+
+<link href="/templates/ww_mindforce_v2/css/template_css.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/templates/ww_mindforce_v2/js/browserdetect.js"></script>
 <!--[if IE ]>
-<link href="/templates/mp_tellix/css/ie.css" rel="stylesheet" type="text/css" />
+<link href="/templates/ww_mindforce_v2/css/ie.css" rel="stylesheet" type="text/css" />
 <![endif]-->
+
+
+
+
+
 <!--Loads FavIcon-->
-<link rel="shortcut icon" href="/images/favicon.ico">
+<link rel="shortcut icon" href="/templates/ww_mindforce_v2/images/favicon.ico">
+
+<script language="JavaScript">
+    <!--
+    if (document.images)
+    {
+      preload_image = new Image; 
+      preload_image.src="/templates/ww_mindforce_v2/images/buynowover.png"; 
+      preload_image1 = new Image; 
+      preload_image1.src="/templates/ww_mindforce_v2/images/headerbottomover.png"; 
+    }
+    //-->
+    </script>
+
 </head>
+<!--End Head-->
+
+<!--Start Body-->
+
 <body>
-<div class="out">
+
+<!--Full Site Background-->
+
+<div class="bg">
 
 <!--Template Internal Area Start-->
-	<div class="int">
-    
+	<div class="in">
 <!--Top Area Start-->
     	<div class="top">
-        	<div class="logo"><a href="/index.php"><img alt="plugcomputer.org" src="/templates/mp_tellix/images/logo.jpg"></a></div>
-                        <div class="login"><img src="/templates/mp_tellix/images/loginleft.jpg" alt="login" align="left">  
-            <div class="loginint">
-				<form action="/index.php/component/content/" method="post" name="login" id="form-login">
-		
-	
-		<label for="modlgn_username">Username</label>
-		<input id="modlgn_username" type="text" name="username" class="inputbox" alt="username" size="10">
-	
-	
-		<label for="modlgn_passwd">Password</label>
-		<input id="modlgn_passwd" type="password" name="passwd" class="inputbox" size="10" alt="password">
-	
-	
-	<input type="submit" name="Submit" class="button" value="Login">
-	
-	
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<input type="hidden" name="option" value="com_user">
-	<input type="hidden" name="task" value="login">
-	<input type="hidden" name="return" value="aHR0cDovL3d3dy5wbHVnY29tcHV0ZXIub3JnL2luZGV4LnBocC9jb21wb25lbnQvY29udGVudC9hcnRpY2xlLzYz">
-	<input type="hidden" name="8030ef1dc6dbcd266b1dca0c615ebe71" value="1"></form>
+        	
+			
+			<!--loads logo into top area.  If no logo then name of company displayed-->
+			<div class="logo">
+				<a href="/index.php"><img alt="plugcomputer.org" src="/templates/ww_mindforce_v2/images/logo.png"></a>
+			</div>
+			
+			<!--Top Menu Start This is the main menu that is left floated to be horizontal--> 
+        	<div class="topmenu" id="topmenuid">
+        	
+							<ul class="menu sf-menu sf-horizontal"><li class="first-child item1"><a href="http://www.plugcomputer.org/"><span>home</span></a></li><li class="item41"><a href="/index.php/us/faq"><span>faq</span></a></li><li class="item50"><a href="/index.php/us/the-news"><span>the news</span></a></li><li class="item94"><a href="/index.php/us/events"><span>events</span></a></li><li class="parent item65"><a href="/index.php/us/resources"><span>resources</span></a><ul><li class="first-child item58"><a href="http://plugcomputer.org/plugforum/index.php?action=forum" target="_blank"><span>forum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></a></li><li class="item62"><a href="http://plugcomputer.org/plugwiki/index.php?title=Main_Page" target="_blank"><span>wiki</span></a></li><li class="item60"><a href="/index.php/us/resources/innovation-plans"><span>application ideas</span></a></li><li class="item97"><a href="/index.php/us/resources/accessories"><span>accessories</span></a></li><li class="item63"><a href="/index.php/us/resources/third-parties"><span>commercial software</span></a></li><li class="item59"><a href="/index.php/us/resources/plugtop-documentation"><span>documentation</span></a></li><li class="item83"><a href="/index.php/us/resources/downloads"><span>downloads</span></a></li><li class="last-child item64"><a href="/index.php/us/resources/plug-providers"><span>plug providers</span></a></li></ul></li><li class="parent item66"><a href="/index.php/us/about-plugtop"><span>about</span></a><ul><li class="first-child item91"><a href="/index.php/us/about-plugtop/site-map"><span>site map</span></a></li><li class="item92"><a href="/index.php/us/about-plugtop/terms-of-use"><span>terms of use</span></a></li><li class="last-child item93"><a href="/index.php/us/about-plugtop/privacy-policy"><span>privacy policy</span></a></li></ul></li><li class="last-child item90"><a href="/index.php/us/buy"><span>buy</span></a></li></ul>
 
-            </div>  
-        </div>
-        	<!--Top Menu Start--> 
-        <div class="topmenu">
-							<dl class="dropdown"><dt id="menu0-ddheader" onmouseover="ddMenu('menu0',1)" onmouseout="ddMenu('menu0',-1)"><li><a href="/index.php/home">Home</a></li></dt><dd id="menu0-ddcontent" onmouseover="cancelHide('menu0')" onmouseout="ddMenu('menu0',-1)"><ul></ul></dd></dl><div class="separator"></div><dl class="dropdown"><dt id="menu1-ddheader" onmouseover="ddMenu('menu1',1)" onmouseout="ddMenu('menu1',-1)"><li><a href="/index.php/faq">FAQ</a></li></dt><dd id="menu1-ddcontent" onmouseover="cancelHide('menu1')" onmouseout="ddMenu('menu1',-1)"><ul></ul></dd></dl><div class="separator"></div><dl class="dropdown"><dt id="menu2-ddheader" onmouseover="ddMenu('menu2',1)" onmouseout="ddMenu('menu2',-1)"><li><a href="/index.php/the-news">The News</a></li></dt><dd id="menu2-ddcontent" onmouseover="cancelHide('menu2')" onmouseout="ddMenu('menu2',-1)"><ul></ul></dd></dl><div class="separator"></div><dl class="dropdown"><dt id="menu3-ddheader" onmouseover="ddMenu('menu3',1)" onmouseout="ddMenu('menu3',-1)"><li><a href="/index.php/web-links">Web Links</a></li></dt><dd id="menu3-ddcontent" onmouseover="cancelHide('menu3')" onmouseout="ddMenu('menu3',-1)"><ul></ul></dd></dl><div class="separator"></div><dl class="dropdown"><dt id="menu4-ddheader" onmouseover="ddMenu('menu4',1)" onmouseout="ddMenu('menu4',-1)"><li><a href="/index.php/resources">Resources</a></li></dt><dd id="menu4-ddcontent" onmouseover="cancelHide('menu4')" onmouseout="ddMenu('menu4',-1)"><ul><div class="clr"><li><a class="underline" href="/index.php/resources/innovation-plans">Application Ideas</a></li></div><div class="clr"><li><a class="underline" href="/index.php/resources/third-parties">Commercial Software</a></li></div><div class="clr"><li><a class="underline" href="/index.php/resources/plugtop-documentation">Documentation</a></li></div><div class="clr"><li><a class="underline" href="/index.php/resources/downloads">Downloads</a></li></div><div class="clr"><li><a class="underline" href="http://openplug.org/plugforum/index.php?action=forum" target="_blank">Forum</a></li></div><div class="clr"><li><a class="underline" href="/index.php/resources/plug-providers">Plug Providers</a></li></div><div class="clr"><li><a class="underline" href="http://www.openplug.org/plugwiki/index.php?title=Main_Page" target="_blank">Plug WiKi</a></li></div></ul></dd></dl><div class="separator"></div><dl class="dropdown"><dt id="menu5-ddheader" onmouseover="ddMenu('menu5',1)" onmouseout="ddMenu('menu5',-1)"><li><a href="/index.php/about-plugtop">About</a></li></dt><dd id="menu5-ddcontent" onmouseover="cancelHide('menu5')" onmouseout="ddMenu('menu5',-1)"><ul></ul></dd></dl><div class="separator"></div><dl class="dropdown"><dt id="menu6-ddheader" onmouseover="ddMenu('menu6',1)" onmouseout="ddMenu('menu6',-1)"><li><a href="/index.php/register">Register</a></li></dt><dd id="menu6-ddcontent" onmouseover="cancelHide('menu6')" onmouseout="ddMenu('menu6',-1)"><ul><div class="clr"><li><a class="underline" href="/index.php/register/your-details">Your Details</a></li></div><div class="clr"><li><a class="underline" href="/index.php/register/forgot-username">Forgot Username</a></li></div><div class="clr"><li><a class="underline" href="/index.php/register/forgot-password">Forgot Password</a></li></div></ul></dd></dl><div class="separator"></div><dl class="dropdown"><dt id="menu7-ddheader" onmouseover="ddMenu('menu7',1)" onmouseout="ddMenu('menu7',-1)"><li><a href="http://www.globalscaletechnologies.com/p-22-sheevaplug-dev-kit.aspx">Buy</a></li></dt><dd id="menu7-ddcontent" onmouseover="cancelHide('menu7')" onmouseout="ddMenu('menu7',-1)"><ul></ul></dd></dl>
-			            
-<!--Small Right Side Menu -->
-          <div class="topmenuright">
+						</div>
+			
+			<!--Small Right Side Menu for advertisements or search bar (which this is used for) and the like-->
+          	<div class="topmenuright">
+          	<div class="searchbg">
 		  					<form action="index.php" method="post">
 	<div class="search">
-		<input name="searchword" id="mod_search_searchword" maxlength="25" alt="Search" class="inputbox" type="text" size="25" value="search..." onblur="if(this.value=='') this.value='search...';" onfocus="if(this.value=='search...') this.value='';"><input type="submit" value="Search" class="button" onclick="this.form.searchword.focus();">	</div>
+		<input name="searchword" id="mod_search_searchword" maxlength="300" alt="Search" class="inputbox" type="text" size="300" value="search..." onblur="if(this.value=='') this.value='search...';" onfocus="if(this.value=='search...') this.value='';">	</div>
 	<input type="hidden" name="task" value="search">
 	<input type="hidden" name="option" value="com_search">
 </form>
-			          </div>
-        </div>
+						</div>
+          	</div>
+         </div>
+       		
+			
+	
+            <!--sees what modules are engaged for inset position and then puts login jpg and login module if module is present-->
+                    	
+        	
+        	
+
+            
+
         
-<!--Templates Main Content Area Start-->
+<!--Main Content Area Start-->
         <div class="main">
         
         
-<!--Big Header Image Area Start-->
- 			            	            <!--Top Content Area Start-->
+<!--Big Header Image Area Start where the main big ad lives-->
+
+
+ 			            	                        
+            
+<!--Top Content Area Start  This comes before the main content if wanted.  Currently no modules use this section. -->
                                        
-<!--Core Content Area including right column-->
-            <!--Core Content Area excluding right column-->
-            <div class="left2">
-            								<div class="moduletable">
-					<span class="breadcrumbs pathway">
-Home</span>
-		</div>
-	
-				 									<table class="contentpaneopen">
+            
+            
+<!--Biggest content area.  Most modules assigned to left position-->
+            
+            
+    
+            
+            
+    	            
+<!--if there are no left assigned modules then you check for left2 assigned modules-->
+
+		<div class="left2half">
+            <div class="left2" id="left2id">
+            	<!--then, you show the component for the page-->				
+ 									<table class="contentpaneopen">
 <tbody><tr>
 		<td class="contentheading" width="100%">
 					Privacy Policy			</td>
-						<td align="right" width="100%" class="buttonheading">
-		<a href="/index.php/component/content/article/63-privacy-policy?format=pdf" title="PDF" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/pdf_button.png" alt="PDF"></a>		</td>
+				
 		
-				<td align="right" width="100%" class="buttonheading">
-		<a href="/index.php/component/content/article/63-privacy-policy?tmpl=component&amp;print=1&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/printButton.png" alt="Print"></a>		</td>
-		
-				<td align="right" width="100%" class="buttonheading">
-		<a href="/index.php/component/mailto/?tmpl=component&amp;link=aHR0cDovL3d3dy5wbHVnY29tcHV0ZXIub3JnL2luZGV4LnBocC9jb21wb25lbnQvY29udGVudC9hcnRpY2xlLzYzLXByaXZhY3ktcG9saWN5" title="E-mail" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><img src="/images/M_images/emailButton.png" alt="E-mail"></a>		</td>
 					</tr>
 </tbody></table>
 
@@ -227,11 +176,11 @@ Home</span>
  <!--
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy35552 = 'pr&#105;v&#97;cy' + '&#64;';
- addy35552 = addy35552 + 'm&#97;rv&#101;ll' + '&#46;' + 'c&#111;m';
- var addy_text35552 = 'pr&#105;v&#97;cy' + '&#64;' + 'm&#97;rv&#101;ll' + '&#46;' + 'c&#111;m';
- document.write( '<a ' + path + '\'' + prefix + ':' + addy35552 + '\'>' );
- document.write( addy_text35552 );
+ var addy36972 = 'pr&#105;v&#97;cy' + '&#64;';
+ addy36972 = addy36972 + 'm&#97;rv&#101;ll' + '&#46;' + 'c&#111;m';
+ var addy_text36972 = 'pr&#105;v&#97;cy' + '&#64;' + 'm&#97;rv&#101;ll' + '&#46;' + 'c&#111;m';
+ document.write( '<a ' + path + '\'' + prefix + ':' + addy36972 + '\'>' );
+ document.write( addy_text36972 );
  document.write( '<\/a>' );
  //-->\n </script><a href="mailto:privacy@marvell.com">privacy@marvell.com</a> <script language="JavaScript" type="text/javascript">
  <!--
@@ -260,11 +209,11 @@ Home</span>
  <!--
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy6925 = 'pr&#105;v&#97;cy' + '&#64;';
- addy6925 = addy6925 + 'm&#97;rv&#101;ll' + '&#46;' + 'c&#111;m';
- var addy_text6925 = 'pr&#105;v&#97;cy' + '&#64;' + 'm&#97;rv&#101;ll' + '&#46;' + 'c&#111;m';
- document.write( '<a ' + path + '\'' + prefix + ':' + addy6925 + '\'>' );
- document.write( addy_text6925 );
+ var addy69796 = 'pr&#105;v&#97;cy' + '&#64;';
+ addy69796 = addy69796 + 'm&#97;rv&#101;ll' + '&#46;' + 'c&#111;m';
+ var addy_text69796 = 'pr&#105;v&#97;cy' + '&#64;' + 'm&#97;rv&#101;ll' + '&#46;' + 'c&#111;m';
+ document.write( '<a ' + path + '\'' + prefix + ':' + addy69796 + '\'>' );
+ document.write( addy_text69796 );
  document.write( '<\/a>' );
  //-->\n </script><a href="mailto:privacy@marvell.com">privacy@marvell.com</a> <script language="JavaScript" type="text/javascript">
  <!--
@@ -288,21 +237,63 @@ Home</span>
 <span class="article_separator">&nbsp;</span>
 
            		            </div>
+<!--end main content area if-->
 			     	</div>
+     	<!--Footer Start Used for the Terms of Use Guidelines-->
+
+		<div class="footer"> 
+    								<div class="moduletable">
+					Copyright © 2009 plugcomputer.org | All Rights Reserved | <a href="/index.php/us/component/content/article/62">Terms of use</a> | <a href="/index.php/us/component/content/article/63">Privacy Policy</a>		</div>
+	
+			            Copyright 2009 by plugcomputer.org, design by <a href="http://www.whittyworldwide.com" target="_blank">whittyworldwide.com</a>
+    		Based on valid <a href="http://validator.w3.org/check?uri=referer" target="_blank">XHTML 1.0</a> and <a href="http://jigsaw.w3.org/css-validator/check/referer" target="_blank">CSS 2.0</a> code
+		</div>
+		
+		
+	</div>
+
+        
         
  <!--Three module positions below the main area-->
                  
-<!--Footer Area Start-->
-		<div class="footer"> 
-    								<div class="moduletable">
-					Copyright © 2009 plugcomputer.org | All Rights Reserved | <a href="/index.php/component/content/article/62">Terms of use</a> | <a href="/index.php/component/content/article/63">Privacy Policy</a>		</div>
-	
-			            Copyright 2008 by plugcomputer.org, design by <a href="http://www.pixelsparadise.com" target="_blank">pixelsparadise.com</a>
-    		Based on valid <a href="http://validator.w3.org/check?uri=referer" target="_blank">XHTML 1.0</a> and <a href="http://jigsaw.w3.org/css-validator/check/referer" target="_blank">CSS 2.0</a> code
-		</div>
-	</div>
+
+
+
 </div>
-</div>
+     	
+    </div>   
+<!--[if IE ]>
+<script type="text/javascript" >
+if(BrowserDetect.browser=="Explorer")
+{
+document.getElementById('topmenuid').style.listStyle='none';
+}
+</script>
+<![endif]-->
+
+
+
+<script type="text/javascript">
+
+
+if(BrowserDetect.browser=="Safari")
+{
+document.getElementById('mod_search_searchword').style.marginTop='30px';
+document.getElementById('mod_search_searchword').style.marginLeft='-5px';
+document.getElementById('menu0-ddheader').style.marginRight='6px';
+document.getElementById('menu1-ddheader').style.marginRight='6px';
+document.getElementById('menu2-ddheader').style.marginRight='6px';
+document.getElementById('menu3-ddheader').style.marginRight='6px';
+document.getElementById('menu4-ddheader').style.marginRight='6px';
+document.getElementById('menu5-ddheader').style.marginRight='6px';
+document.getElementById('menu6-ddheader').style.marginRight='6px';
+
+}
+
+
+
+
+</script>
 
 <!-- Google Analytics Tracking Code -->
 
