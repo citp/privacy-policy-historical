@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the justhealth.in privacy policy that was archived on 2009-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090323011834id_/http%3A//www.justhealth.in/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D18%26Itemid%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justhealth.in privacy policy that was archived on 2009-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091113090423id_/http%3A//www.justhealth.in/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy policy
+# Online Health Portal Directory - Privacy Policies
 
 Your privacy is important to us, and we go to great lengths to protect it. Justhealth.in, an iMarketing Advantage website, is dedicated to fair information practices. We respect the privacy and information security of our users. Our aim is to provide our users with personalised experience delivering relevant information and resource. 
 
@@ -34,4 +34,4 @@ As per our company policy, we never use or share any personally identifiable inf
 
 ## Customer Feedback and Complaints
 
-We welcome your questions and comments about our web site. Please email us at support@justhealth.in 
+We welcome your questions and comments about our web site. Please email us at [support@justhealth.in](mailto:support@justhealth.in)
