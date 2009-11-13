@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dghs.gov.bd privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501220020id_/http%3A//www.dghs.gov.bd/App_Pages/Client/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dghs.gov.bd privacy policy that was archived on 2009-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091113211530id_/http%3A//www.dghs.gov.bd/App_Pages/Client/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -6,45 +6,41 @@
    
 | 
 
-   [Government Hospital ](https://web.archive.org/web/20090501220020id_/http%3A//www.dghs.gov.bd/App_Pages/Client/ViewCategoryRecords.aspx?showID=1&name=Government%20Hospital)
+   [Government Hospital ](https://web.archive.org/web/20091113211530id_/http%3A//www.dghs.gov.bd/App_Pages/Client/ViewCategoryRecords.aspx?showID=1&name=Government%20Hospital)
 
 | 
 
-   [Private Hospital ](https://web.archive.org/web/20090501220020id_/http%3A//www.dghs.gov.bd/App_Pages/Client/ViewCategoryRecords.aspx?showID=2&name=Private%20Hospital)
+   [Private Hospital ](https://web.archive.org/web/20091113211530id_/http%3A//www.dghs.gov.bd/App_Pages/Client/ViewCategoryRecords.aspx?showID=2&name=Private%20Hospital)
 
 | 
 
-   [Diagonostic Centre ](https://web.archive.org/web/20090501220020id_/http%3A//www.dghs.gov.bd/App_Pages/Client/ViewCategoryRecords.aspx?showID=5&name=Diagonostic%20Centre)
+   [Line Directors ](https://web.archive.org/web/20091113211530id_/http%3A//www.dghs.gov.bd/App_Pages/Client/ViewCategoryRecords.aspx?showID=10&name=Line%20Directors)
 
 | 
 
-   [Line Directors ](https://web.archive.org/web/20090501220020id_/http%3A//www.dghs.gov.bd/App_Pages/Client/ViewCategoryRecords.aspx?showID=10&name=Line%20Directors)  
+   [Civil Surgeon ](https://web.archive.org/web/20091113211530id_/http%3A//www.dghs.gov.bd/App_Pages/Client/ViewCategoryRecords.aspx?showID=11&name=Civil%20Surgeon)  
   
 ---|---|---|---  
   
-   [Civil Surgeon ](https://web.archive.org/web/20090501220020id_/http%3A//www.dghs.gov.bd/App_Pages/Client/ViewCategoryRecords.aspx?showID=11&name=Civil%20Surgeon)
+   [Divisional Director ](https://web.archive.org/web/20091113211530id_/http%3A//www.dghs.gov.bd/App_Pages/Client/ViewCategoryRecords.aspx?showID=13&name=Divisional%20Director)
 
 | 
 
-   [Divisional Director ](https://web.archive.org/web/20090501220020id_/http%3A//www.dghs.gov.bd/App_Pages/Client/ViewCategoryRecords.aspx?showID=13&name=Divisional%20Director)
+   [Government Medical College ](https://web.archive.org/web/20091113211530id_/http%3A//www.dghs.gov.bd/App_Pages/Client/ViewCategoryRecords.aspx?showID=14&name=Government%20Medical%20College)
 
 | 
 
-   [Government Medical College ](https://web.archive.org/web/20090501220020id_/http%3A//www.dghs.gov.bd/App_Pages/Client/ViewCategoryRecords.aspx?showID=14&name=Government%20Medical%20College)
+   [Private Medical College ](https://web.archive.org/web/20091113211530id_/http%3A//www.dghs.gov.bd/App_Pages/Client/ViewCategoryRecords.aspx?showID=15&name=Private%20Medical%20College)
 
 | 
 
-   [Private Medical College ](https://web.archive.org/web/20090501220020id_/http%3A//www.dghs.gov.bd/App_Pages/Client/ViewCategoryRecords.aspx?showID=15&name=Private%20Medical%20College)  
+   [Government Dental College ](https://web.archive.org/web/20091113211530id_/http%3A//www.dghs.gov.bd/App_Pages/Client/ViewCategoryRecords.aspx?showID=16&name=Government%20Dental%20College)  
   
-   [Government Dental College ](https://web.archive.org/web/20090501220020id_/http%3A//www.dghs.gov.bd/App_Pages/Client/ViewCategoryRecords.aspx?showID=16&name=Government%20Dental%20College)
+   [Private Dental College ](https://web.archive.org/web/20091113211530id_/http%3A//www.dghs.gov.bd/App_Pages/Client/ViewCategoryRecords.aspx?showID=17&name=Private%20Dental%20College)
 
 | 
 
-   [Private Dental College ](https://web.archive.org/web/20090501220020id_/http%3A//www.dghs.gov.bd/App_Pages/Client/ViewCategoryRecords.aspx?showID=17&name=Private%20Dental%20College)
-
-| 
-
-   [Medical University ](https://web.archive.org/web/20090501220020id_/http%3A//www.dghs.gov.bd/App_Pages/Client/ViewCategoryRecords.aspx?showID=18&name=Medical%20University)  
+   [Medical University ](https://web.archive.org/web/20091113211530id_/http%3A//www.dghs.gov.bd/App_Pages/Client/ViewCategoryRecords.aspx?showID=18&name=Medical%20University)  
   
    
    
