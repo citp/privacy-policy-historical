@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pega.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618113928id_/http%3A//www.pega.com/tools/privacysecurity/privacysecurity.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pega.com privacy policy that was archived on 2009-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091113140123id_/http%3A//www.pega.com/tools/privacysecurity/privacysecurity.asp) for the most accurate reproduction.*
 
-# Privacy & Security » Pegasystems Inc. » Build For Change ®
+# Privacy & Security » Business Process Management » Pegasystems Inc.
 
 #### Pegasystems is committed to protecting your privacy. 
 
