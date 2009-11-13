@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the splunk.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624171657id_/http%3A//www.splunk.com/view/SP-CAAAAAG) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splunk.com privacy policy that was archived on 2009-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091113161322id_/http%3A//www.splunk.com/view/SP-CAAAAAG) for the most accurate reproduction.*
 
 # Splunk : Splunk Websites Privacy Policy
 
-Splunk Inc. owns and operates the Splunk websites Splunk.com and SplunkForge.org. We take privacy seriously. Please read the following to learn more about our privacy policy. You may also want to review our [Terms of Use](http://www.splunk.com/index.php/articles/news/8).
+Splunk Inc. owns and operates the Splunk websites Splunk.com and SplunkForge.org. We take privacy seriously. Please read the following to learn more about our privacy policy. You may also want to review our [Terms of Use](http://www.splunk.com/view/SP-CAAAAAH).
 
   
 
@@ -43,10 +43,10 @@ If you do not want your personal information to be stored by cookies, you can co
 **Security.** The Splunk websites have security measures in place to protect the loss, misuse, and alteration of the information under our control. All personal information and aggregate information is stored on a server. This server is located in a locked and guarded place and only authorized Splunk personnel have access to the database containing user names and passwords.  
 
 
-**Notification of Changes** If we change our Privacy Policy, we will post an updated privacy policy at <http://www.splunk.com/index.php/articles/news/7>. If we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users via email. Users will be able to opt out of any new use of their personal information.   
+**Notification of Changes.** If we change our Privacy Policy, we will post an updated privacy policy at <http://www.splunk.com/view/SP-CAAAAAG>. If we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users via email. Users will be able to opt out of any new use of their personal information.   
 
 
-**Choice/Opt-Out** The Splunk websites provide users the opportunity to opt-out of receiving communications from us and from our partners any time we collect personal information.  
+**Choice/Opt-Out.** The Splunk websites provide users the opportunity to opt-out of receiving communications from us and from our partners any time we collect personal information.  
 
 
 #### Contact Splunk
