@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ononesoftware.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227042553id_/http%3A//www.ononesoftware.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ononesoftware.com privacy policy that was archived on 2009-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091113091423id_/http%3A//www.ononesoftware.com/privacy.php) for the most accurate reproduction.*
 
-# onOne Software - Privacy Policy
-
-### Your Information
+# Privacy Policy - onOne Software
 
 onOne Software's privacy policy covers the collection and use of personal information that may be collected by onOne Software anytime you interact with onOne Software such as when you purchase an onOne Software product, contact a technical support or sales associate, sign up for an e-newsletter or request a download of demonstration software.
 
@@ -14,13 +12,9 @@ onOne Software will send notifications regarding product updates and technical s
 
 If you do not want onOne Software or onOne Software representatives to contact you, you may "opt-out" at any time. You may "opt-out" by contacting onOne Software's Customer Service Department or by following the instructions included in the email correspondence.
 
-### Our Web Site and Cookies
-
 onOne Software's website utilizes visitor log files or cookies as well as hosted tracking with our website. The information collected with visitor cookies and through the hosted tracking is used to gain a better understanding of which sections of our site are most important to our users as well as identify possible navigation issues. This allows us to enhance your user experience in the future. The data collected from these visitor cookies and hosted tracking does not collect any personally identifiable information and is used in aggregate form only.
 
-### Protecting Your Personal Information
-
-Where personal information is required, the onOne Software website uses Secure Sockets Layer (SSL) encryption to transmit this data. This is done to prevent the loss, misuse or alteration of the information you have offered. While onOne Software strives to protect the personal information you submit to us, no data transmission over the Internet is 100% secure. As such, onOne Software cannot guarantee or warrant the security of any information you transmit to us or from our from our products and you do so at your own risk. Once your information has been received by onOne Software, we will make our best effort to ensure the safety and security on our systems.
+Where personal information is required, the onOne Software website uses Secure Sockets Layer (SSL) encryption to transmit this data. This is done to prevent the loss, misuse or alteration of the information you have offered. While onOne Software strives to protect the personal information you submit to us, no data transmission over the Internet is 100% secure. As such, onOne Software cannot guarantee or warrant the security of any information you transmit to us or from our products and you do so at your own risk. Once your information has been received by onOne Software, we will make our best effort to ensure the safety and security on our systems.
 
 At times, onOne Software may hire other companies to provide limited services on our behalf. Such limited services include, but are not limited to, order fulfillment, direct mail services and answering customer questions about products and services. These companies will only be provided the information they need to perform the service, and they are strictly prohibited from using that information for any other purpose.
 
