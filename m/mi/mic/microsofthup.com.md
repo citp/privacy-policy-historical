@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the microsofthup.com privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505173601id_/http%3A//www.microsofthup.com/hupus/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microsofthup.com privacy policy that was archived on 2009-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091114110324id_/http%3A//www.microsofthup.com/hupus/privacy.aspx) for the most accurate reproduction.*
 
 # Microsoft Home Use Program
 
