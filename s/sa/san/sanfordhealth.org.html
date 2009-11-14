@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sanfordhealth.org privacy policy that was archived on 2009-05-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090524151438id_/http%3A//www.sanfordhealth.org/Legal/PrivacyStatement.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sanfordhealth.org privacy policy that was archived on 2009-11-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091114125958id_/http%3A//www.sanfordhealth.org/Legal/PrivacyStatement.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><!-- Design & Programming Provided by Lawrence & Schiller (www.l-s.com) --><head>
 <title>About System: Privacy Statement</title>
@@ -17,6 +17,12 @@
 	<!--[if lte IE 6]>
 		<link rel="stylesheet" type="text/css" href="/_styles/iehacks06.css" />
 	<![endif]-->
+
+	<script language="javascript" type="text/javascript" src="/_ls/js/jquery/jquery-1.3.2.min.js"></script>
+	<script language="javascript" type="text/javascript" src="/_scripts/main06.js"></script>
+
+<!-- AddThis -->
+<script type="text/javascript" src="http://s7.addthis.com/js/200/addthis_widget.js"></script>
 </head>
 <body topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
 
@@ -24,73 +30,32 @@
 
 <div id="svmain_maincolumn">
 	
-	<script type="text/javascript">
-	/* <![CDATA[ */
-		function validateSearch(theForm) {
-			if ((theForm.qt.value === "") || (theForm.qt.value == "keyword search")) {return false;}
-			else {return true;}
-		}
-		function deactivateSearch(theInput) {
-			if (theInput.value === "") {theInput.value = "keyword search";}
-		}
-		function activateSearch(theInput) {
-			theInput.value = "";
-		}
-		
-		var enform;
-		var entrigger;
-		var eninput;
-		var timeout1 = 0;
-		addLoadEvent(function() {
-				enform = document.getElementById("enewsentry");
-				entrigger = document.getElementById("enewstrigger");
-				entrigger.onmouseover = function() {
-						toggleDisplay(enform,true);
-						delayHideENews(10000);
-					};
-				eninput = document.getElementById("enemail");
-				eninput.onfocus = function() {
-						delayHideENews(10000);
-						this.select();
-					};
-				eninput.onkeyup = function() {
-						delayHideENews(15000);
-					};
-			});
-		function delayHideENews(ms) {
-			window.clearInterval(timeout1);
-			timeout1 = window.setInterval(hideENews,ms);
-		}
-		function hideENews() {
-			toggleDisplay(enform,false);
-			window.clearInterval(timeout1);
-		}
-	 /* ]]> */
-	</script>
 	<div id="topnavigation_container">
 		<ul id="topnavigation">
 			<li class="left">&nbsp;</li>
 			<li class="right">&nbsp;</li>
-			
-			
-			
-			<li class="nav"><a href="/Newsroom/">Newsroom</a></li>
-			<li class="nav"><a href="/eNews/" id="enewstrigger">Sign Up to Receive eNews</a>
-					<form action="/eNews/index.cfm" method="post" id="enewsentry" onsubmit="javascript: return true;">
+			<li class="nav"><a href="/newsroom/">Newsroom</a></li>
+			<li class="nav"><a href="/enews/" id="enewstrigger">Sign Up to Receive eNews</a>
+					<form action="/enews/index.cfm" method="post" id="enewsentry" onsubmit="javascript: return true;">
 						<input type="text" name="enemail" id="enemail" size="25" maxlength="100" value="enter e-mail address">
 						<input type="image" src="/_images/sitesearch_go.gif" alt="Go">
 					</form>
 				</li>
-			<li class="nav"><a href="/ContactUs/">Contact Us</a></li>
+			<li class="nav"><a href="/contactus/">Contact Us</a></li>
 			<li>&nbsp;</li>			
 		</ul>
 		
-		<form action="http://208.53.201.162:8765/svh2/query.html" method="get" id="sitesearch" name="sitesearch" onsubmit="javascript: return validateSearch(this);">
-			<input type="hidden" name="col" value="svh2">
-			<input type="hidden" name="sc" value="1">
-			<input type="text" name="qt" id="qt" size="25" maxlength="100" value="keyword search" onblur="javascript: deactivateSearch(this);" onfocus="javascript: activateSearch(this);">
-			<input type="image" src="/_images/sitesearch_go.gif" value="Go">
+		<div id="sitesearch">
+		<form action="/search" id="cse-search-box">
+		    <input type="hidden" name="cx" value="003880912531612832380:cwe-9yxlkes">
+		    <input type="hidden" name="cof" value="FORID:10">
+		    <input type="hidden" name="ie" value="UTF-8">
+		    <input type="text" name="q" size="31">
+		    
+			<input type="image" name="sa" src="/_images/sitesearch_go.gif" value="Search">
 		</form>
+		<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en&amp;sitesearch=true"></script>
+		</div>
 	</div>
 
 	<div class="maincolumn_content"> <img src="/ClassLibrary/Page/Images/Data/1933.jpg" width="660" height="100" alt="none" title="none" border="0"><br>
@@ -98,10 +63,23 @@
 	<div class="rb_onwhite">&nbsp;</div>
 	<br>
 	<div id="advertising_content" style="display: none;">
-		<script language="JavaScript" src="http://www.sanfordhealth.org/ClassLibrary/Page/Advertising/displayAdBanner.cfm?PageId=322&amp;PageRegionId=11706" type="text/javascript"></script> <script language="JavaScript" src="http://www.sanfordhealth.org/ClassLibrary/Page/Advertising/displayAdBanner.cfm?PageId=322&amp;PageRegionId=11707" type="text/javascript"></script> <script language="JavaScript" src="http://www.sanfordhealth.org/ClassLibrary/Page/Advertising/displayAdBanner.cfm?PageId=322&amp;PageRegionId=11708" type="text/javascript"></script> <script language="JavaScript" src="http://www.sanfordhealth.org/ClassLibrary/Page/Advertising/displayAdBanner.cfm?PageId=322&amp;PageRegionId=11709" type="text/javascript"></script> 
+		<script language="javascript" src="http://www.sanfordhealth.org/ClassLibrary/Page/Advertising/displayAdBanner.cfm?PageId=322&amp;PageRegionId=11706" type="text/javascript"></script> <script language="javascript" src="http://www.sanfordhealth.org/ClassLibrary/Page/Advertising/displayAdBanner.cfm?PageId=322&amp;PageRegionId=11707" type="text/javascript"></script> <script language="javascript" src="http://www.sanfordhealth.org/ClassLibrary/Page/Advertising/displayAdBanner.cfm?PageId=322&amp;PageRegionId=11708" type="text/javascript"></script> <script language="javascript" src="http://www.sanfordhealth.org/ClassLibrary/Page/Advertising/displayAdBanner.cfm?PageId=322&amp;PageRegionId=11709" type="text/javascript"></script> 
 	</div>
 	<div id="information_content" style="width: 660px;">
-		<div id="pagetrail">
+		
+		<script type="text/javascript">
+			var addthis_pub = "lands"; var addthis_options = "email,digg,delicious,facebook,twitter,more"; 
+		</script>
+		
+		<div class="addthis">
+			<a href="http://www.addthis.com/bookmark.php?v=20" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]');" onmouseout="addthis_close();" onclick="return addthis_sendto();">
+				
+						<img src="/images/socialmedia/share.gif" border="0" alt="Share graphic">
+					
+			</a>
+        </div>
+			
+	<div id="pagetrail">
 		<a href="/" title="Sanford Health Homepage">Home</a> <span>»</span> <a href="/Legal/" title="Legal">Legal</a> <span>»</span> <a>Privacy Statement</a>
 	</div> <h1 class="headline">Privacy Statement</h1> 
 		
@@ -332,51 +310,18 @@
 	<div id="footer_container">
 		<div id="footer_content">
 			<a href="/"><img src="/_images/footer_siouxvalley.gif" class="floatleft2" alt="Sanford Health" width="60" height="35" border="0"></a>
-			<p><a href="/Legal/Legal.cfm" class="whitelink">Legal Information</a> |
-				<a href="/Legal/PrivacyStatement.cfm" class="whitelink">Privacy Statement</a> |
-				<a href="/Legal/SVHHSNoticeofPrivacyPractices.cfm" class="whitelink">Privacy of Health Information</a> |
-				<a href="/Employees/" class="whitelink">Employees</a> |
-				<a href="/SiteMap.cfm" class="whitelink">Site Map</a><br>
-				© <em>2009 Sanford. All rights reserved.</em></p>
+			<a href="https://www.hon.ch/HONcode/Conduct.html?HONConduct337343" class="honlogo" target="_blank"><img height="72" width="49" src="/images/hon.gif" alt="This website is certified by Health On the Net Foundation. Click to verify." title="This website is certified by Health On the Net Foundation. Click to verify."></a>
+			<p><a href="/legal/legal.cfm" class="whitelink">Legal Information</a> |
+				<a href="/legal/privacystatement.cfm" class="whitelink">Privacy Statement</a> |
+				<a href="/legal/svhhsnoticeofprivacypractices.cfm" class="whitelink">Privacy of Health Information</a> |
+				<a href="/employees/" class="whitelink">Employees</a> |
+				<a href="/sitemap.cfm" class="whitelink">Site Map</a><br>
+			Stronger Together: <a class="whitelink" href="http://www.sanfordmeritcare.com">sanfordmeritcare.com</a> •
+				<a class="whitelink" href="http://www.sanfordhealth.org">sanfordhealth.org</a> •
+				<a class="whitelink" href="http://www.meritcare.com">meritcare.com</a><br>
+			© <em>2009 Sanford. All rights reserved.</em></p>
 		</div>
 	</div>
-	<script type="text/javascript" language="javascript">
-		/* <![CDATA[ */
-		addLoadEvent(function () {
-			/* hide repeated banners */
-			var advcontainer = document.getElementById("advertising_content");
-			if(advcontainer !== null) {
-				var advbanners = advcontainer.getElementsByTagName("img");
-				if (advbanners.length === 0) {
-					toggleDisplay(advcontainer,false);
-					var infcontainer = document.getElementById("information_content");
-					infcontainer.style.width = "660px";
-				} else {
-					var uniqueflag = 1;
-					var uniqueimgs = [advbanners[0].src];
-					for(var i=1; i<advbanners.length; i++) {
-						uniqueflag = 1;
-						for(var j=0; j<uniqueimgs.length; j++) {
-							if(advbanners[i].src == uniqueimgs[j]) {
-								advbanners[i].style.display = "none";
-								uniqueflag = 0;
-								break;
-							}
-						}
-						if(uniqueflag) {uniqueimgs.push(advbanners[i].src);}
-					}
-				}
-			}
-			/* set information_content height */
-			var icontent = document.getElementById("information_content");
-			var navcontent = document.getElementById("svmain_leftcolumn");
-			var newheight = "" + navcontent.offsetHeight-icontent.offsetHeight-215;
-			if (newheight > 0) {
-				icontent.style.paddingBottom = newheight + "px";
-			}
-		});
-		/* ]]> */
-	</script>
 
 </div>
 <div id="svmain_leftcolumn">
@@ -384,132 +329,128 @@
 	<img src="/_images/sitenavigation_absoc.gif" alt="Improving the Human Condition" width="180" height="28" border="0"><br> 
 			<ul class="sitenavigation" id="snset2">
 				
-						<li><a href="/PhysicianFacilityLocator/" target="_self">Find a Physician / Facility</a>
+						<li><a href="/physicianfacilitylocator/" target="_self">Find a Physician / Facility</a>
 							
 						</li>
 					
-						<li><a href="/VisitorsPatients/" target="_self">Patients / Visitors</a>
+						<li><a href="/visitorspatients/" target="_self">Patients / Visitors</a>
 							
 								<ul class="rollover">
-									<li><a href="/VisitorsPatients/EmailPatients/" target="_self">E-mail Patients</a></li>
-									<li><a href="/VisitorsPatients/ERvsAcuteCare/" target="_self">ER vs. Acute Care</a></li>
-									<li><a href="/VisitorsPatients/HealthResources/" target="_self">Health Resources</a></li>
-									<li><a href="/VisitorsPatients/HealthcareDecisions/" target="_self">Healthcare Decisions</a></li>
-									<li><a href="/VisitorsPatients/Maps/" target="_self">Maps</a></li>
-									<li><a href="/VisitorsPatients/MemorialGardenandChapelVirtualTour/" target="_self">Memorial Garden and Chapel Virtual Tour</a></li>
-									<li><a href="/VisitorsPatients/PatientPreRegistration/" target="_self">Patient Pre-Registration</a></li>
-									<li><a href="/VisitorsPatients/PreventativeGuidelines/" target="_self">Preventative Guidelines</a></li>
-									<li><a href="/VisitorsPatients/TobaccoFree/" target="_self">Tobacco Free</a></li>
-									<li><a href="/VisitorsPatients/VisitingCafeteriaHours.cfm" target="_self">Visiting &amp; Cafeteria Hours</a></li>
+									<li><a href="/visitorspatients/emailpatients/" target="_self">E-mail Patients</a></li>
+									<li><a href="/visitorspatients/ervsacutecare/" target="_self">ER vs. Acute Care</a></li>
+									<li><a href="/visitorspatients/healthresources/" target="_self">Health Resources</a></li>
+									<li><a href="/visitorspatients/healthcaredecisions/" target="_self">Healthcare Decisions</a></li>
+									<li><a href="/visitorspatients/maps/" target="_self">Maps</a></li>
+									<li><a href="/visitorspatients/memorialgardenandchapelvirtualtour/" target="_self">Memorial Garden and Chapel Virtual Tour</a></li>
+									<li><a href="/visitorspatients/mysanfordchart/" target="_self">My Sanford Chart</a></li>
+									<li><a href="/visitorspatients/patientpreregistration/" target="_self">Patient Pre-Registration</a></li>
+									<li><a href="/visitorspatients/preventativeguidelines/" target="_self">Preventative Guidelines</a></li>
+									<li><a href="/visitorspatients/tobaccofree/" target="_self">Tobacco Free</a></li>
+									<li><a href="/visitorspatients/visitingcafeteriahours.cfm" target="_self">Visiting &amp; Cafeteria Hours</a></li>
 								</ul> 
 						</li>
 					
-						<li><a href="/Services/" target="_self">Services / Departments</a>
+						<li><a href="/services/" target="_self">Services / Departments</a>
 							
 						</li>
 					
-						<li><a href="/CentersofExcellence/" target="_self">Centers of Excellence</a>
+						<li><a href="/centersofexcellence/" target="_self">Centers of Excellence</a>
 							
 								<ul class="rollover">
-									<li><a href="/CentersofExcellence/Womens/" target="_self">Women's</a></li>
-									<li><a href="/CentersofExcellence/Cancer/" target="_self">Cancer</a></li>
-									<li><a href="/CentersofExcellence/Childrens/" target="_self">Children's</a></li>
-									<li><a href="/CentersofExcellence/HeartVascular/" target="_self">Heart &amp; Vascular</a></li>
-									<li><a href="/CentersofExcellence/Neurosciences/" target="_self">Neurosciences</a></li>
-									<li><a href="/CentersofExcellence/Orthopedics/" target="_self">Orthopedics</a></li>
-									<li><a href="/services/spinecenter/" target="_self">Spine Center</a></li>
-									<li><a href="/CentersofExcellence/TraumaIntensiveAir/" target="_self">Trauma/Intensive Air</a></li>
+									<li><a href="/centersofexcellence/cancer/" target="_self">Cancer</a></li>
+									<li><a href="/centersofexcellence/childrens/" target="_self">Children's</a></li>
+									<li><a href="/centersofexcellence/heartvascular/" target="_self">Heart &amp; Vascular</a></li>
+									<li><a href="/centersofexcellence/neurosciences/" target="_self">Neurosciences</a></li>
+									<li><a href="/centersofexcellence/orthopedics/" target="_self">Orthopedics</a></li>
+									<li><a href="/services/spinecenter" target="_self">Spine Center</a></li>
+									<li><a href="/centersofexcellence/traumaintensiveair/" target="_self">Trauma/Intensive Air</a></li>
+									<li><a href="/centersofexcellence/womens/" target="_self">Women's</a></li>
 								</ul> 
 						</li>
 					
-						<li><a href="/EventsClasses/" target="_self">Events / Classes</a>
+						<li><a href="/eventsclasses/" target="_self">Events / Classes</a>
 							
 								<ul class="rollover">
-									<li><a href="/EventsClasses/Cancer/" target="_self">Cancer</a></li>
-									<li><a href="/EventsClasses/CenterforLearningInnovation/" target="_self">Center for Learning &amp; Innovation</a></li>
-									<li><a href="/EventsClasses/ChildcareProviders/" target="_self">Childcare Providers</a></li>
-									<li><a href="/EventsClasses/Childrens/" target="_self">Children's</a></li>
-									<li><a href="/EventsClasses/Foundation/" target="_self">Foundation</a></li>
-									<li><a href="/EventsClasses/Heart/" target="_self">Heart</a></li>
-									<li><a href="/EventsClasses/Neurosciences/" target="_self">Neurosciences</a></li>
-									<li><a href="/EventsClasses/Orthopedics/" target="_self">Orthopedics</a></li>
-									<li><a href="/EventsClasses/PregnancyChildbirth/" target="_self">Pregnancy &amp; Childbirth</a></li>
-									<li><a href="/EventsClasses/Seniors/" target="_self">Seniors</a></li>
-									<li><a href="/EventsClasses/TraumaEmergencyPreparedness/" target="_self">Trauma/Emergency Preparedness</a></li>
-									<li><a href="/EventsClasses/Vascular/" target="_self">Vascular</a></li>
-									<li><a href="/EventsClasses/Volunteers/" target="_self">Volunteers</a></li>
-									<li><a href="/EventsClasses/WellnessCenter/" target="_self">Wellness Center</a></li>
-									<li><a href="/EventsClasses/Womens/" target="_self">Women's</a></li>
+									<li><a href="/eventsclasses/cancer/" target="_self">Cancer</a></li>
+									<li><a href="/eventsclasses/centerforlearninginnovation/" target="_self">Center for Learning &amp; Innovation</a></li>
+									<li><a href="/eventsclasses/childcareproviders/" target="_self">Childcare Providers</a></li>
+									<li><a href="/eventsclasses/childrens/" target="_self">Children's</a></li>
+									<li><a href="/eventsclasses/foundation/" target="_self">Foundation</a></li>
+									<li><a href="/eventsclasses/heart/" target="_self">Heart</a></li>
+									<li><a href="/eventsclasses/neurosciences/" target="_self">Neurosciences</a></li>
+									<li><a href="/eventsclasses/orthopedics/" target="_self">Orthopedics</a></li>
+									<li><a href="/eventsclasses/perinatalnursefellowship/" target="_self">Perinatal Nurse Fellowship</a></li>
+									<li><a href="/eventsclasses/pregnancychildbirth/" target="_self">Pregnancy &amp; Childbirth</a></li>
+									<li><a href="/eventsclasses/seniors/" target="_self">Seniors</a></li>
+									<li><a href="/eventsclasses/traumaemergencypreparedness/" target="_self">Trauma/Emergency Preparedness</a></li>
+									<li><a href="/eventsclasses/vascular/" target="_self">Vascular</a></li>
+									<li><a href="/eventsclasses/volunteers/" target="_self">Volunteers</a></li>
+									<li><a href="/eventsclasses/wellnesscenter/" target="_self">Wellness Center</a></li>
+									<li><a href="/eventsclasses/womens/" target="_self">Women's</a></li>
 								</ul> 
 						</li>
 					
-						<li><a href="/Employment/" target="_self">Employment</a>
+						<li><a href="/employment/" target="_self">Employment</a>
 							
 								<ul class="rollover">
-									<li><a href="http://microsite.silkroad.com/sanfordhealth/Home.html" target="_self">Career Opportunities</a></li>
-									<li><a href="/Employment/HealthcareCareerExploration/" target="_self">Healthcare Career Exploration</a></li>
-									<li><a href="/classlibrary/page/_staticinclude/HowtoApplyQ&amp;A.pdf" target="_self">How to Apply Q &amp; A</a></li>
-									<li><a href="/Employment/JobShadowForm/" target="_self">Job Shadow Form</a></li>
-									<li><a href="/Employment/PhysicianRecruitment/" target="_self">Physician Recruitment</a></li>
-									<li><a href="/Services/Volunteers/" target="_self">Volunteer Opportunities</a></li>
+									<li><a href="https://sanfordhealthcareers.silkroad.com/" target="_self">Career Opportunities</a></li>
+									<li><a href="/employment/healthcareexplorationforstudents/" target="_self">Healthcare Exploration for Students</a></li>
+									<li><a href="/classlibrary/page/_staticinclude/howtoapplyq&amp;a.pdf" target="_self">How to Apply Q &amp; A</a></li>
+									<li><a href="/employment/jobshadowform/" target="_self">Job Shadow Form</a></li>
+									<li><a href="/employment/physicianrecruitment/" target="_self">Physician Recruitment</a></li>
+									<li><a href="/services/volunteers/" target="_self">Volunteer Opportunities</a></li>
 								</ul> 
 						</li>
 					
-						<li><a href="/Research/" target="_self">Research</a>
+						<li><a href="/research/" target="_self">Research</a>
 							
 								<ul class="rollover">
-									<li><a href="/Research/CentersofResearch/" target="_self">Centers of Research</a></li>
-									<li><a href="/Research/ClinicalResearch/" target="_self">Clinical Research</a></li>
-									<li><a href="/Research/ContactUs/" target="_self">Contact Us</a></li>
-									<li><a href="/Research/IntroductiontoSanfordHealth/" target="_self">Introduction to Sanford Health</a></li>
-									<li><a href="/Research/OConnellLab/" target="_self">OConnell Lab</a></li>
-									<li><a href="/Research/ParkHighlights/" target="_self">Park Highlights</a></li>
-									<li><a href="/Newsroom/SanfordInitiatives/" target="_self">Sanford Initiatives</a></li>
-									<li><a href="/Research/SanfordJDRFPartnership/" target="_self">Sanford JDRF Partnership</a></li>
-									<li><a href="/research/TheProject/" target="_self">Sanford Project</a></li>
-									<li><a href="/Research/SanfordResearchPark/" target="_self">Sanford Research Park</a></li>
-									<li><a href="/Research/Staff/" target="_self">Staff</a></li>
-									<li><a href="/Research/WhySanfordHealth/" target="_self">Why Sanford Health</a></li>
+									<li><a href="/research/about/" target="_self">About</a></li>
+									<li><a href="/research/careers/" target="_self">Careers</a></li>
+									<li><a href="/research/clinicalresearch/" target="_self">Clinical Research</a></li>
+									<li><a href="/research/commercialization/" target="_self">Commercialization</a></li>
+									<li><a href="/research/facilities/" target="_self">Facilities</a></li>
+									<li><a href="/research/researchcenters/" target="_self">Research Centers</a></li>
+									<li><a href="/research/sitemap.cfm" target="_self">Site Map</a></li>
 								</ul> 
 						</li>
 					
-						<li><a href="/AboutSanford/" target="_self">About Sanford</a>
+						<li><a href="/aboutsanford/" target="_self">About Sanford</a>
 							
 								<ul class="rollover">
-									<li><a href="/Research/" target="_self">Research</a></li>
-									<li><a href="/AboutSanford/Foundation/" target="_self">Foundation</a></li>
-									<li><a href="/AboutSanford/HealthPlan/" target="_self">Health Plan</a></li>
-									<li><a href="/AboutSanford/SanfordClinic/" target="_self">Sanford Clinic</a></li>
-									<li><a href="/AboutSanford/Hospital/" target="_self">Hospital</a></li>
-									<li><a href="/AboutSanford/PatientTestimonials/" target="_self">Patient Testimonials</a></li>
-									<li><a href="/AboutSanford/Recognition/" target="_self">Recognition</a></li>
-									<li><a href="/classlibrary/page/_staticinclude/2009AnnualReport.pdf" target="_self">Annual Report</a></li>
-									<li><a href="/AboutSanford/RegionalFacilities/" target="_self">Regional Facilities</a></li>
-									<li><a href="/AboutSanford/SanfordLeaders/" target="_self">Sanford Leaders</a></li>
+									<li><a href="/aboutsanford/foundation/" target="_self">Foundation</a></li>
+									<li><a href="/aboutsanford/healthplan/" target="_self">Health Plan</a></li>
+									<li><a href="/aboutsanford/sanfordclinic/" target="_self">Sanford Clinic</a></li>
+									<li><a href="/aboutsanford/hospital/" target="_self">Hospital</a></li>
+									<li><a href="/aboutsanford/patienttestimonials/" target="_self">Patient Testimonials</a></li>
+									<li><a href="/aboutsanford/recognition/" target="_self">Recognition</a></li>
+									<li><a href="/classlibrary/page/_staticinclude/2009annualreport.pdf" target="_self">Annual Report</a></li>
+									<li><a href="/aboutsanford/regionalfacilities/" target="_self">Regional Facilities</a></li>
+									<li><a href="/aboutsanford/sanfordinitiatives/" target="_self">Sanford Initiatives</a></li>
+									<li><a href="/aboutsanford/sanfordleaders/" target="_self">Sanford Leaders</a></li>
 								</ul> 
 						</li>
 					
-						<li><a href="/Newsroom/" target="_self">Newsroom</a>
+						<li><a href="/newsroom/" target="_self">Newsroom</a>
 							
 								<ul class="rollover">
-									<li><a href="http://www.sanfordhealth.org/research/TheProject/" target="_self">The Project</a></li>
-									<li><a href="/Newsroom/ContactMediaRelations/" target="_self">Contact Media Relations</a></li>
-									<li><a href="/Newsroom/MediaRelationsPolicy/" target="_self">Media Relations Policy</a></li>
-									<li><a href="/Newsroom/ReceiveNewsAlerts/" target="_self">Receive News Alerts</a></li>
-									<li><a href="/Newsroom/ReleaseofPatientInformation/" target="_self">Release of Patient Information</a></li>
-									<li><a href="/Newsroom/TheGift/" target="_self">The Gift</a></li>
-									<li><a href="/Newsroom/AudioLibrary/" target="_self">Audio Library</a></li>
-									<li><a href="/Newsroom/VideoLibrary/" target="_self">Video Library</a></li>
-									<li><a href="/Newsroom/eNews/" target="_self">eNews</a></li>
-									<li><a href="/Newsroom/enewsroom/" target="_self">enewsroom</a></li>
+									<li><a href="http://www.sanfordhealth.org/research/theproject/" target="_self">The Project</a></li>
+									<li><a href="/newsroom/contactmediarelations/" target="_self">Contact Media Relations</a></li>
+									<li><a href="/newsroom/mediarelationspolicy/" target="_self">Media Relations Policy</a></li>
+									<li><a href="/newsroom/receivenewsalerts/" target="_self">Receive News Alerts</a></li>
+									<li><a href="/newsroom/releaseofpatientinformation/" target="_self">Release of Patient Information</a></li>
+									<li><a href="/newsroom/thegift/" target="_self">The Gift</a></li>
+									<li><a href="/newsroom/audiolibrary/" target="_self">Audio Library</a></li>
+									<li><a href="/newsroom/videolibrary/" target="_self">Video Library</a></li>
+									<li><a href="/newsroom/enews/" target="_self">eNews</a></li>
 								</ul> 
 						</li>
 					
-						<li><a href="/SanfordCharges/" target="_self">Hospital Prices</a>
+						<li><a href="/sanfordcharges/" target="_self">Hospital Prices</a>
 							
 						</li>
 					
-						<li><a href="/AboutSanford/Foundation/" target="_self">Foundation / CMN</a>
+						<li><a href="/aboutsanford/foundation/" target="_self">Foundation / CMN</a>
 							
 						</li>
 					
@@ -536,12 +477,22 @@
 		
 		
 			<br>
+					<div class="socialmedia"><div class="wrapper">
+						<ul>
+
+							<li><a href="http://www.flickr.com/photos/sanfordhealth"><img src="/images/socialmedia/flickr.gif" alt="Flickr" width="16" height="16"></a></li>
+							<li><a href="http://twitter.com/sanfordhealth"><img src="/images/socialmedia/twitter.gif" alt="Twitter" width="16" height="16"></a></li>
+							<li><a href="http://www.youtube.com/sanfordhealth"><img src="/images/socialmedia/youtube.gif" alt="YouTube" width="16" height="16"></a></li>
+							<li><a href="http://www.facebook.com/pages/Sioux-Falls-SD/Sanford-Health/121223035525"><img src="/images/socialmedia/facebook.gif" alt="Facebook" width="16" height="16"></a></li>
+						</ul>
+					</div></div>
+					<br>
 					<div class="navigationbuttons"><div><div><div>
-						<a href="/CradleRoll/" title="Search the Babies on Cradle Roll"><img src="/_images/sitenavbuttons/cradleroll.gif" alt="Search the Babies on Cradle Roll" width="165" height="39" border="0"></a><br>
-						<a href="/VisitorsPatients/EmailPatients/" title="Email a Patient at Sanford"><img src="/_images/sitenavbuttons/emailpatient.gif" alt="Email a Patient at Sanford" width="165" height="39" border="0"></a><br>
+						<a href="/cradleroll/" title="Search the Babies on Cradle Roll"><img src="/_images/sitenavbuttons/cradleroll.gif" alt="Search the Babies on Cradle Roll" width="165" height="39" border="0"></a><br>
+						<a href="/visitorspatients/emailpatients/" title="Email a Patient at Sanford"><img src="/_images/sitenavbuttons/emailpatient.gif" alt="Email a Patient at Sanford" width="165" height="39" border="0"></a><br>
 						<a href="/shopping/" title="Send a Gift from the Gift Shop"><img src="/_images/sitenavbuttons/giftshop.gif" alt="Send a Gift from the Gift Shop" width="165" height="39" border="0"></a><br>
-						<a href="/iValley/" title="iValley: Track Healthcare Online"><img src="/_images/sitenavbuttons/ivalley.gif" alt="iValley: Track Healthcare Online" width="165" height="39" border="0"></a><br>
-						<a href="/OnlineBillPayment/" title="Pay Your Bill Online Today"><img src="/_images/sitenavbuttons/billpayment.gif" alt="Pay Your Bill Online Today" width="165" height="39" border="0"></a><br>
+						<a href="/ivalley/" title="iValley: Track Healthcare Online"><img src="/_images/sitenavbuttons/ivalley.gif" alt="iValley: Track Healthcare Online" width="165" height="39" border="0"></a><br>
+						<a href="/onlinebillpayment/" title="Pay Your Bill Online Today"><img src="/_images/sitenavbuttons/billpayment.gif" alt="Pay Your Bill Online Today" width="165" height="39" border="0"></a><br>
 						
 						<a href="http://www.kidshealth.org/PageManager.jsp?lic=199&amp;ps=101" title="KidsHealth Education Partner" target="_blank"><img src="/_images/sitenavbuttons/kidshealth.gif" alt="KidsHealth Education Partner" width="165" height="39" border="0"></a><br>
 					</div></div></div></div><br>
@@ -579,7 +530,6 @@ var hs_salog_version = "2.00";
 var hs_ppa = "sanfordhealth.demo.hubspot.com"
 document.write(unescape("%3Cscript src='" + document.location.protocol + "//" + hs_ppa + "/salog.js.aspx' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://sanfordhealth.demo.hubspot.com/salog.js.aspx" type="text/javascript"></script>
-
 
 
 </body></html>
