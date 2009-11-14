@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thefablife.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625184211id_/http%3A//www.thefablife.com/privacy-policy-and-your-california-privacy-rights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefablife.com privacy policy that was archived on 2009-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091114065641id_/http%3A//www.thefablife.com/privacy-policy-and-your-california-privacy-rights) for the most accurate reproduction.*
 
 # Privacy Policy and Your California Privacy Rights | The Fab Life - Celebrity Gossip, Fashion & Style | TFL Main
 
 Go to [Terms of Use Agreement](http://www.scandalist.com/terms-of-use-agreement/)
 
-This is the official privacy policy (”Privacy Policy“) for www.scandalist.com (”Site,” “we,” “us,” or “our“), an Internet website offered in cooperation with the VH1 television channel or programming service (”VH1 Channel“). The VH1 Channel and the Site (together, “VH1″) are provided by MTV Networks (”MTVN“), a division of Viacom International Inc. (together, MTVN and Viacom International Inc., the “Parent Companies“). This Privacy Policy governs only the personally identifiable information (”Personal Information“) collected by the Site and does not cover any such information collected in any other manner or for any other purpose, or for or by any other MTVN programming channel, MTVN’s “Jobhunt” website, the Parent Companies and any subsidiaries and affiliates of the Parent Companies (collectively, “Affiliates“), or any other company, unless specifically stated.
+This is the official privacy policy (“Privacy Policy”) for VH1.com (”Site,” “we,” “us,” or “our“), an Internet website offered in cooperation with the VH1 Television channel (“VH1 Channel”).  The VH1 Channel and VH1.com are provided by MTV Networks (”MTVN“), a division of Viacom International Inc. (collectively “Parent Companies”). This Privacy Policy governs only the personally identifiable information (”Personal Information“) collected by this Site and does not cover any such information collected in any other manner or for any other purpose, any other MTVN programming channel, MTVN’s “Jobhunt” website, by **the Parent Companies** and any subsidiaries and affiliates of the Parent Companies (collectively, “Affiliates”) **, or any other company, unless specifically stated2.**
 
 ****
 
@@ -18,7 +18,7 @@ This is the official privacy policy (”Privacy Policy“) for www.scandalist.co
 
 
 
-This Site is offered and made available only to users 13 years of age or older who reside in the United States of America, its territories and possessions (”U.S.“). **If you are not yet 13 years old** **or the required greater age for certain features** **, or do not reside in the U.S., please discontinue using the Site immediately, or if, for any reason, you do not agree with this Privacy Policy,** **please do not participate in the features, activities and services that require you to provide your Personal Information.** This Privacy Policy is a part of the terms and conditions which are set forth in our [**Terms of Use Agreement**](http://www.scandalist.com/terms-of-use-agreement/). Any terms that are not defined in this Privacy Policy shall have the meaning given in the Terms of Use Agreement. Both the Privacy Policy and Terms of Use Agreement are legally binding on all users. ********
+This Site is offered and made available only to users 14 years of age or older who reside in the United States of America, its territories and possessions (“U.S.”) and certain features on this Site (including, but not limited to, user registration and newsletter signups) may be subject to heightened age and/or other eligibility requirements. If you are not yet 14 years old or the required greater age for certain features, do not reside in the U.S. and/or do not meet any other eligibility requirements, please discontinue using the Site immediately or, if for any reason, you do not agree with all of the terms and conditions contained in this Agreement, please discontinue using the Site immediately, because by using or attempting to use the Site, you certify that you are at least 14 years of age or other required greater age for certain features and meet any other eligibility and residency requirements of the Site. This Privacy Policy is a part of the terms and conditions which are set forth in our [**Terms of Use Agreement**](http://www.scandalist.com/terms-of-use-agreement/).  Any terms that are not defined in this Privacy Policy shall have the meaning given in the Terms of Use Agreement. Both the Privacy Policy and Terms of Use Agreement are legally binding on all users. ************
 
 ****
 
@@ -28,14 +28,14 @@ We are committed to protecting users’ privacy. Keeping the Personal Informatio
 
 **YOUR CALIFORNIA PRIVACY RIGHTS**
 
-If you are a resident of the State of California, under the California Civil Code, you have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed Personal Information during the preceding year for direct marketing purposes. Alternatively, the law provides that if a company has a Privacy Policy that gives either an opt-out (which we may sometimes refer to as “unsubscribe“) or opt-in choice for use of your Personal Information by third parties (such as advertisers or affiliated companies) for marketing purposes, the company may instead provide you with information on how to exercise your disclosure choice options.
+If you are a resident of the State of California, under the California Civil Code, you have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed Personal Information during the preceding year for direct marketing purposes. Alternatively, the law provides that if a company has a Privacy Policy that gives either an opt-out (which we may sometimes refer to as “unsubscribe”) or opt-in choice for use of your Personal Information by third parties (such as advertisers or affiliated companies) for marketing purposes, the company may instead provide you with information on how to exercise your disclosure choice options. 
 
-VH1 qualifies for the alternative option; it has a comprehensive Privacy Policy and provides you with details on how you may either opt-out or opt-in to the use of your Personal Information by third parties for direct marketing purposes. Therefore, we are not required to maintain or disclose a list of the third parties that received your Personal Information for marketing purposes during the preceding year.
+VH1 qualifies for the alternative option; it has a comprehensive Privacy Policy and provides you with details on how you may either opt-out or opt-in to the use of your Personal Information by third parties for direct marketing purposes. Therefore, we are not required to maintain or disclose a list of the third parties that received your Personal Information for marketing purposes during the preceding year. 
 
-If you are a California resident and request information about how to exercise your third party disclosure choices you must send a request to the following address with a preference on how our response to your request should be sent (email or postal mail). Send an email to the [Privacy Administrator](mailto:editor@scandalist.com) ****, or you may contact us via regular mail at: ****
+If you are a California resident and request information about how to exercise your third party disclosure choices you must send a request to the following address with a preference on how our response to your request should be sent (email or postal mail). Send an email to the [privacy-admin@vh1.com](mailto:privacy-admin@vh1.com), or you may contact us via regular mail at:
 
 **VH1**  
-**www.scandalist.com**  
+**VH1.com**  
 1515 Broadway  
 New York, New York 10036 ****  
 **Attn: Your California Privacy Rights  
@@ -43,18 +43,21 @@ c/o Privacy Administrator**
 
 **All requests sent via regular mail must be labeled “Your California Privacy Rights” on the envelope or post card and clearly stated on the actual request.** For all requests, please include your name, street address, city, state, and zip code (your street address is optional if you wish to receive a response to your request via email. Please include your zip code for our own recordkeeping). **We will not accept requests via the telephone or by facsimile.** We are not responsible for notices that are not labeled or sent properly, or do not have complete information.
 
-To all other users of this Site, if you have other questions about this Privacy Policy, please contact our [Privacy Administrator](mailto:editor@scandalist.com) or:
+To all other users of this Site, if you have other questions about this Privacy Policy, please contact our [privacy-admin@vh1.com](mailto:privacy-admin@vh1.com) or:
 
 **VH1**  
-**www.scandalist.com**  
+**VH1.com**  
 1515 Broadway  
 New York, New York 10036  
-**c/o Privacy Administrator**
+**Attn: Your California Privacy Rights  
+c/o Privacy Administrator**
 
 **  
 ****GENERAL PRIVACY INFORMATION**
 
 ****
+
+<!– /* Font Definitions */ @font-face {font-family:Verdana; panose-1:2 11 6 4 3 5 4 4 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:536871559 0 0 0 415 0;} /* Style Definitions */ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-parent:”"; margin:0in; margin-bottom:.0001pt; line-height:12.0pt; mso-line-height-rule:exactly; mso-pagination:widow-orphan; font-size:12.0pt; font-family:”Times New Roman”; mso-fareast-font-family:”Times New Roman”;} span.blkpnkhover {mso-style-name:blkpnkhover;} @page Section1 {size:8.5in 11.0in; margin:1.0in 1.25in 1.0in 1.25in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.Section1 {page:Section1;} –>
 
 The Site is designed and targeted to U.S. audiences and is governed by and operated in accordance with the laws of the U.S. We make no representation that this Site is operated in accordance with the laws or regulations of, or governed by, other nations. By your participation in our Site activities, you certify that you are at least 13 **** years of age or the required greater age for certain features and a resident of the U.S. If you are located in the European Union or elsewhere outside of the U.S. and you participate in activities on this Site contrary to our policy that only U.S. residents are eligible for certain activities, you do so at your own risk and initiative, and you, not us, are responsible for compliance with any applicable local and national laws. Please be aware that any Personal Information you provide to us or we obtain as a result of your use of this Site will be transferred to the U.S. and subject to U.S. law. By using this Site, participating in any Site activities, and/or providing us with your Personal Information, you consent to this transfer and processing of Personal Information to and in the U.S., and in other countries that may not have an equivalent level of protection or a level of data protection considered adequate in the European Union or European Economic Area. Consequently, you hereby waive any claims that may arise under the laws and regulations that apply to you in or of any other country or jurisdiction. All users of the Site are required to provide true, current, complete and accurate Personal Information when prompted and we will reject and delete any entry that we believe in good faith to be false, fraudulent, or inconsistent with this Privacy Policy.
 
@@ -180,10 +183,10 @@ Children under the age of 13, or others who do not meet the greater age requirem
 
 We reserve the right to deny access, use and registration privileges to any user, including without limitation, a registered user, of any services, features or functions of the Site if we believe there is a question about the identity of the person trying to access the user’s account or any services, features or functions. And if the burden or expense of providing access to your Personal Information is disproportionate to the risks to your privacy, or if the legitimate rights of others would be violated, we may decide not to provide access to such information. In such cases, we will provide to you an explanation of why access cannot be provided and contact information for further inquiries.
 
-**10\. Questions:** If you have questions about this Privacy Policy or if you do not understand any information about how we collect, maintain, use or share your Personal Information, [you may contact us here](mailto:editor@scandalist.com).
+**10\. Questions:** <!– /* Font Definitions */ @font-face {font-family:Verdana; panose-1:2 11 6 4 3 5 4 4 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:536871559 0 0 0 415 0;} /* Style Definitions */ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-parent:”"; margin:0in; margin-bottom:.0001pt; line-height:12.0pt; mso-line-height-rule:exactly; mso-pagination:widow-orphan; font-size:12.0pt; font-family:”Times New Roman”; mso-fareast-font-family:”Times New Roman”;} span.blkpnkhover {mso-style-name:blkpnkhover;} @page Section1 {size:8.5in 11.0in; margin:1.0in 1.25in 1.0in 1.25in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.Section1 {page:Section1;} –> If you have questions about this Privacy Policy or if you do not understand any information about how we collect, maintain, use or share your Personal Information, you may contact us directly by sending an email to [privacy-admin@vh1.com](mailto:privacy-admin@vh1.com)
 
 **11\. Sole Statement:** This document is the sole statement of the Site’s Privacy Policy and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, without limitation, machine-generated, is valid.
 
-This Privacy Policy was last modified on July 31, 2008 and is effective immediately.
+This Privacy Policy was last modified on September 12, 2008 and is effective immediately.
 
-Copyright © 2008 MTV Networks, a division of Viacom International Inc. - All Rights Reserved.
+Copyright © 2009 MTV Networks, a division of Viacom International Inc. - All Rights Reserved.
