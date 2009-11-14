@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the digi.com privacy policy that was archived on 2009-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090601012834id_/http%3A//www.digi.com/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the digi.com privacy policy that was archived on 2009-11-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091114175134id_/http%3A//www.digi.com/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -7,7 +7,13 @@
 <meta name="category" content="corporate">
 	
 <link href="/css/SpryMenuBarHorizontal2.css" rel="stylesheet" type="text/css" media="screen, print">
-<link href="/css/stylesheet5.css" rel="stylesheet" type="text/css" media="screen, print">
+<link href="/css/stylesheet7.css" rel="stylesheet" type="text/css" media="screen, print">
+
+
+
+<!--[if IE 6]>
+	<link rel="stylesheet" type="text/css" href="/css/ie6specific.css" />
+<![endif]-->
 
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
@@ -76,7 +82,7 @@ function MM_callJS(jsStr) { //v2.0
 <body>
 <div id="maincontainer">
 <div id="topnav">
-<div id="topabove"><a href="/partner/" class="white">Partner Login</a> | <a href="/international/" class="white">International Sites</a>
+<div id="topabove"><a href="/government/enter.jsp" class="white">Enter Government Website</a> | <a href="/partner/" class="white">Partner Login</a> | <a href="/international/" class="white">International Sites</a>
 </div>
 <div id="logo"><a href="/"><img src="/images2/logo_digi_m2m.gif" alt="Digi International" border="0"></a></div>
 <div id="toptab">
@@ -87,13 +93,16 @@ Contact us:
 </div>
 <div id="search">
 <form id="searchform" name="searchform" method="get" action="/search/" onkeyup="load('/includes2/livesearch.jsp','searchframe');return false;">
-<input type="text" maxlength="100" value="Search Digi" name="simplequerystring" id="simplequerystring" onfocus="MM_setTextOfTextfield('simplequerystring','','')">
-<input type="submit" class="btn" value="Search">
+<img src="/images2/search-arrow.gif" alt="" align="right" onclick="load('/includes2/livesearch-select.jsp','searchselect');return false;" style="cursor: pointer;" id="searcharrow">
+<input type="submit" class="btnsearch" value="Search" id="searchbutton">
+<input type="hidden" name="EQ_category" id="EQ_category" value="">
+
+<input type="text" maxlength="100" value="Search: All Digi" name="simplequerystring" id="simplequerystring" onfocus="MM_setTextOfTextfield('simplequerystring','','')">
 </form>
-<img src="/images2/btn-search-clear.gif" alt="Clear" onclick="document.searchform.simplequerystring.value='';load('/includes2/livesearch.jsp','searchframe');return false;" id="clearbtn" style="display: none;">
+<img src="/images2/btn-search-clear.gif" alt="Clear" onclick="clearsearchform();" id="clearbtn" style="display: none;">
 </div>
-<div id="searchframe" style="display: none; position: absolute; top: 63px; right: 0; z-index: 1002; text-align: left;">
-</div>
+<div id="searchframe" style="display: none; position: absolute; top: 63px; right: 11px; z-index: 1107; text-align: left;"></div>
+<div id="searchselect" style="display: none; position: absolute; top: 63px; right: 0; z-index: 1108; text-align: left;"></div>
 <div id="dropdownmenu">
 <ul class="MenuBarHorizontal" id="MenuBar2">
 <li><a href="/products/" id="topnavproducts" class="MenuBarItemSubmenu"><span>Products</span></a>
@@ -101,7 +110,7 @@ Contact us:
 		<li class="menuproducts"><a href="/products/wirelessdropinnetworking/" class="MenuBarItemSubmenu">Drop-in Networking</a>
 		<ul>
 			<li class="menusubdin"><a href="/products/wirelessdropinnetworking/drop-in-networking-kits/">Drop-in Networking Kits</a></li>
-			<li class="menusubdin"><a href="/products/wirelessdropinnetworking/connectportx8.jsp">Gateways</a></li>
+			<li class="menusubdin"><a href="/products/wirelessdropinnetworking/gateways/">Gateways</a></li>
 			<li class="menusubdin"><a href="/products/wirelessdropinnetworking/cellularconnectivity/">Endpoint Connectivity - Cellular</a></li>
 			<li class="menusubdin"><a href="/products/wirelessdropinnetworking/embeddedconnectivity/">Endpoint Connectivity - Embedded</a></li>
 			<li class="menusubdin"><a href="/products/wirelessdropinnetworking/externalconnectivity/">Endpoint Connectivity - External Adapter/Modems</a></li>
@@ -115,6 +124,7 @@ Contact us:
             <li class="menusubembedded"><a href="/products/embeddedsolutions/microprocessors.jsp">NET+ARM Microprocessors</a></li>
             <li class="menusubembedded"><a href="/products/embeddedsolutions/softwareservices/">Software and Support</a></li>
             <li class="menusubembedded"><a href="/products/embeddedsolutions/zigbeesolutions/">ZigBee®/Mesh/Point-to-Multipoint Modules</a></li>
+            <li class="menusubembedded"><a href="/products/wireless/satellite/">Embedded Satellite Modules</a></li>
         </ul></li>
         <li class="menuproducts"><a href="/products/wireless/" class="MenuBarItemSubmenu">Wireless</a>
         <ul>   
@@ -123,6 +133,7 @@ Contact us:
 			<li class="menusubcellular"><a href="/products/wireless/zigbee-mesh/">ZigBee®/Mesh</a></li>
 			<li class="menusubcellular"><a href="/products/wireless/point-multipoint/">Point‑to‑Multipoint</a></li>
 			<li class="menusubcellular"><a href="/products/wireless/long-range-multipoint/">Long Range Point‑to‑Multipoint/Mesh</a></li>
+			<li class="menusubcellular"><a href="/products/wireless/satellite/">Satellite</a></li>
         </ul></li>
 		<li class="menuproducts"><a href="/products/zeroclients/">Remote Display Connectivity</a></li>
 		<li class="menuproducts"><a href="/products/consoleservers/">Console Servers</a></li>
@@ -140,7 +151,7 @@ Contact us:
             <li class="menusubserial"><a href="/products/usb/edgeusb.jsp">USB Software Stack for Windows NT</a></li>
         </ul></li>
         <li class="menuproducts"><a href="/products/accessories/">Accessories</a></li>
-        <li class="menuproducts"><a href="/products/literature/">Literature</a></li>
+        <li class="menuproducts"><a href="/learningcenter/literature/">Literature</a></li>
 	</ul></li>
 	<li><a href="/services/" id="topnavservices" class="MenuBarItemSubmenu"><span>Services</span></a>
 	<ul>
@@ -148,66 +159,68 @@ Contact us:
 		<li class="menuservices"><a href="/services/on-site-services/">Digi RF Product Services</a></li>
 		<li class="menuservices"><a href="http://www.idigi.com" onclick="javascript:urchinTracker('/topnav/subidigi');">iDigi</a></li>
     </ul></li>
-	<li><a href="http://www.idigi.com" id="topnavsolutions" class="MenuBarItemSubmenu" onclick="javascript:urchinTracker('/topnav/idigi');"><span>iDigi Solutions</span></a></li>
+	<li><a href="http://www.idigi.com" id="topnavsolutions" class="MenuBarItemSubmenu" onclick="javascript:urchinTracker('/topnav/idigi');"><span>iDigi Solutions</span></a>
+	<ul>
+    	<li class="menunews"><a href="http://www.idigi.com/solutions/energy.jsp">iDigi Energy</a></li>
+		<li class="menunews"><a href="http://www.idigi.com/solutions/tank.jsp">iDigi Tank</a></li>
+    </ul></li>
 	
 </ul>
 
 <ul class="MenuBarHorizontal" id="MenuBar1">
-    <li><a href="/applications/" id="topnavapplications" class="MenuBarItemSubmenu">Applications</a>
-	<ul>
-    	<li class="menuapplications"><a href="/applications/remotedevicemanagement/" onclick="javascript:urchinTracker('/home/topnav/rdm');">Remote Device Management</a></li>
-		<li class="menuapplications"><a href="/applications/datacentermanagement/" onclick="javascript:urchinTracker('/home/topnav/dcm');">Data Center Management</a></li>
-		<li class="menuapplications"><a href="/applications/medical/" onclick="javascript:urchinTracker('/home/topnav/mh');">Medical/Healthcare</a></li>
-		<li class="menuapplications"><a href="/applications/retailpos/" onclick="javascript:urchinTracker('/home/topnav/retail');">Retail/POS</a></li>
-		<li class="menuapplications"><a href="/applications/hazardous/" onclick="javascript:urchinTracker('/home/topnav/haz');">Hazardous Environments</a></li>
-		<li class="menuapplications"><a href="/applications/buildingautomationsecurity/" onclick="javascript:urchinTracker('/home/topnav/bas');">Building Automation &amp; Security</a></li>
-		<li class="menuapplications"><a href="/applications/trafficmanagement/" onclick="javascript:urchinTracker('/home/topnav/tm');">Traffic Management</a></li>
-		<li class="menuapplications"><a href="/applications/utilities/" onclick="javascript:urchinTracker('/home/topnav/util');">Utilities</a></li>
-		<li class="menuapplications"><a href="/applications/industrialautomation/" onclick="javascript:urchinTracker('/home/topnav/ia');">Industrial Automation</a></li>
-		<li class="menuapplications"><a href="/applications/digital-signage/" onclick="javascript:urchinTracker('/home/topnav/ds');">Digital Signage</a></li>
-		<li class="menuapplications"><a href="/applications/government/" onclick="javascript:urchinTracker('/home/topnav/gov');">Government</a></li>
-    </ul></li>
-    <li><a href="/technology/" id="topnavtechnology" class="MenuBarItemSubmenu">Technology</a>
-    <ul>
-    	<li class="menutech"><a href="/technology/drop-in-networking/" class="MenuBarItemSubmenu">Drop-in Networking</a>
-    	<ul>
-			<li class="menusubdintech"><a href="/technology/drop-in-networking/howitworks.jsp">How it works</a></li>
-			<li class="menusubdintech"><a href="/technology/drop-in-networking/products.jsp">Products</a></li>
-			<li class="menusubdintech"><a href="/technology/drop-in-networking/documentation.jsp">Documentation</a></li>
-			<li class="menusubdintech"><a href="/technology/drop-in-networking/partners.jsp">Partners</a></li>
-			<li class="menusubdintech"><a href="/technology/drop-in-networking/pdr.jsp">Python developer resources</a></li>
-			<li class="menusubdintech"><a href="/technology/drop-in-networking/relatedinfo.jsp">Related information</a></li>
-			<li class="menusubdintech"><a href="/technology/drop-in-networking/testimonials.jsp">Testimonials</a></li>
-		</ul></li>
-		<li class="menutech"><a href="/technology/wireless/products.jsp">2.4 GHz and 900 MHz RF Products Overview</a></li>
-		<li class="menutech"><a href="/technology/rfmodems/">Choosing a Radio Modem</a></li>
-		<li class="menutech"><a href="/technology/rf-applications/">RF Applications</a></li>
-		<li class="menutech"><a href="/technology/rf-articles/">RF Feature Articles</a></li>
-		<li class="menutech"><a href="/technology/rf-tips/">Use the Schwartz</a></li>
-		</ul></li>
+	<li><a href="/learningcenter/" id="topnavlearning" class="MenuBarItemSubmenu">Learning Center</a>
+		<ul>
+    	<li class="menuslearning"><a href="/learningcenter/" class="MenuBarItemSubmenu">Applications</a>
+    		<ul>
+			<li class="menusubapps"><a href="/learningcenter/applications/remotedevices">Remote Devices</a></li>
+            <li class="menusubapps"><a href="/learningcenter/applications/datacenter">Data Center</a></li>
+            <li class="menusubapps"><a href="/learningcenter/applications/medical">Medical</a></li>
+            <li class="menusubapps"><a href="/learningcenter/applications/retailpos">Retail/POS</a></li>
+            <li class="menusubapps"><a href="/learningcenter/applications/buildingautomation">Building Automation</a></li>
+            <li class="menusubapps"><a href="/learningcenter/applications/transportation">Transportation</a></li>
+            <li class="menusubapps"><a href="/learningcenter/applications/smartenergy">Smart Energy</a></li>
+            <li class="menusubapps"><a href="/learningcenter/applications/industrialautomation">Industrial Automation</a></li>
+        	</ul></li>
+    	<li class="menuslearning"><a href="/learningcenter/digi-technologies.jsp" class="MenuBarItemSubmenu">Digi Technologies</a>
+    		<ul>
+			<li class="menusubtech"><a href="/technology/drop-in-networking/">Drop-in Networking</a></li>
+			</ul></li>
+    	<li class="menuslearning"><a href="/learningcenter/industry-standards.jsp" class="MenuBarItemSubmenu">Industry Standards</a>
+    		<ul>
+    		<li class="menusubtech"><a href="/technology/rf-articles/wireless-zigbee.jsp">ZigBee®</a></li>
+			<li class="menusubtech"><a href="/standards/smart-energy/">Smart Energy</a></li>
+			<li class="menusubtech"><a href="/standards/pci-dss/">PCI DSS</a></li>
+			</ul></li>
+		<li class="menuslearning"><a href="/news/videos.jsp?sdate=0&amp;sproduct=18">Prerecorded Wireless Webinars</a></li>
+		<li class="menuslearning"><a href="/news/events.jsp?scompany=1&amp;sproduct=18">Upcoming Wireless Events</a></li>
+    	<li class="menuslearning"><a href="/learningcenter/literature/">Literature</a></li>
+    	</ul>
+	</li>
+
+    
 	<li><a href="/support/" id="topnavsupport" class="MenuBarItemSubmenu">Support</a>
 	<ul>
 		<li class="menusupport"><a href="/support/supporttype.jsp?tp=1">Drivers</a></li>
 		<li class="menusupport"><a href="/support/supporttype.jsp?tp=2">Firmware upgrades</a></li>
 		<li class="menusupport"><a href="/support/supporttype.jsp?tp=3">Documentation</a></li>
-		<li class="menusupport"><a href="/support/supporttype.jsp?tp=4">Diagnostics, Utilities and MIBs</a></li>
-		<li class="menusupport"><a href="/support/supporttype.jsp?tp=5">Cabling</a></li>
+		<li class="menusupport"><a href="/support/supporttype.jsp?tp=5">Diagnostics, Utilities and MIBs</a></li>
+		<li class="menusupport"><a href="/support/supporttype.jsp?tp=4">Cabling</a></li>
 		<li class="menusupport"><a href="/support/eservice/">Online Support Request</a></li>
 		<li class="menusupport"><a href="/support/kbase/?pid=0&amp;osvid=0">Knowledge Base</a></li>
 		<li class="menusupport"><a href="/support/customerservices/warranty.jsp">Warranty Registration</a></li>
 		<li class="menusupport"><a href="/support/forum/">Support Forum</a></li>
-    </ul></li>  
-	<li><a href="/news/" id="topnavnews" class="MenuBarItemSubmenu">News</a>
-    <ul>
-    	<li class="menunews"><a href="/news/">Press Releases</a></li>
-    	<li class="menunews"><a href="/news/articles.jsp">In the News</a></li>
-    	<li class="menunews"><a href="/news/events.jsp">Webinars &amp; Events</a></li>
-    	<li class="menunews"><a href="/news/videos.jsp">Videos &amp; Recordings</a></li>
-    	<li class="menunews"><a href="/news/graphics.jsp">Images for Media</a></li>
-    	<li class="menunews"><a href="/news/contacts.jsp">Press Contacts</a></li>
     </ul></li>
 	<li><a href="/aboutus/" id="topnavaboutus" class="MenuBarItemSubmenu">About us</a>
     <ul>
+    	<li class="menuabout"><a href="/news/" class="MenuBarItemSubmenu">News</a>
+    		<ul>
+    			<li class="menunews"><a href="/news/">Press Releases</a></li>
+    			<li class="menunews"><a href="/news/articles.jsp">In the News</a></li>
+    			<li class="menunews"><a href="/news/events.jsp">Webinars &amp; Events</a></li>
+    			<li class="menunews"><a href="/news/videos.jsp">Videos &amp; Recordings</a></li>
+    			<li class="menunews"><a href="/news/graphics.jsp">Images for Media</a></li>
+    			<li class="menunews"><a href="/news/contacts.jsp">Press Contacts</a></li>
+    		</ul></li>
     	<li class="menuabout"><a href="/aboutus/">History</a></li>
     	<li class="menuabout"><a href="/aboutus/products.jsp">Products</a></li>
     	<li class="menuabout"><a href="/aboutus/managementteam.jsp">Management Team</a></li>
@@ -217,12 +230,12 @@ Contact us:
     	<li class="menuabout"><a href="/aboutus/investorrelations/">Investor Relations</a></li>
     	<li class="menuabout"><a href="/aboutus/environment/">Environment</a></li>
     </ul></li>
-    <li><a href="/wheretobuy/" id="topnavhowtobuy" class="MenuBarItemSubmenu">How to buy</a>
+    <li><a href="/howtobuy/" id="topnavhowtobuy" class="MenuBarItemSubmenu">How to buy</a>
     <ul>
-    	<li class="menuwtb"><a href="/wheretobuy/distributors.jsp">Find a distributor</a></li>
-    	<li class="menuwtb"><a href="/wheretobuy/resellers.jsp">Find a reseller</a></li>
-    	<li class="menuwtb"><a href="/wheretobuy/?bd=1">Buy direct from Digi</a></li>
+    	<li class="menuwtb"><a href="/howtobuy/find-a-distributor.jsp">Find a distributor</a></li>
+    	<li class="menuwtb"><a href="/howtobuy/?bd=1">Buy direct from Digi</a></li>
     </ul></li>
+    <li><a href="/government/enter.jsp" id="topnavgovernment" class="MenuBarItemSubmenu">Government</a></li>
 </ul>
 </div>
 <script type="text/javascript">
@@ -318,7 +331,8 @@ var MenuBar2 = new Spry.Widget.MenuBar("MenuBar2", {imgDown:"/images2/SpryMenuBa
 <div id="btmnavcontent">
 <p>&nbsp;</p>
 <a href="/privacy.jsp">Privacy Policy</a> | <a href="/wheretobuy/terms.jsp">Terms &amp; Conditions</a> | <a href="/contactus/" id="btmnavcontactus">Contact Us</a> | <a href="/aboutus/careers/">Careers</a> | <a href="/sitemap.jsp">Site Map</a> | <a href="/newsletter/">Newsletter Signup</a><br>
-Copyright © 1996-2009 Digi International Inc. All rights reserved.
+Copyright © 1996-2009 Digi International Inc. All rights reserved.<br>
+<a href="http://www.facebook.com/group.php?gid=61250577790" onclick="javascript:urchinTracker('/btmnav/facebook');" target="_blank"><img src="/images2/facebook.gif" alt="Facebook" border="0" style="margin-right: 5px; margin-left: 5px;"></a> <a href="http://twitter.com/digidotcom" onclick="javascript:urchinTracker('/btmnav/twitter');" target="_blank"><img src="/images2/twitter.gif" alt="" border="0" style="margin-right: 5px;"></a> <a href="http://www.youtube.com/digidotcom" onclick="javascript:urchinTracker('/btmnav/youtube');" target="_blank"><img src="/images2/youtube.gif" alt="YouTube" style="margin-right: 5px;" border="0"></a>
 </div>
 
 </body></html>
