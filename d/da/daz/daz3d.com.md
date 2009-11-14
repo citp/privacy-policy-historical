@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daz3d.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628001144id_/http%3A//www.daz3d.com/i/aboutus/privacy%3F_m%3Dd) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daz3d.com privacy policy that was archived on 2009-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091114163414id_/http%3A//www.daz3d.com/i/aboutus/privacy%3F_m%3Dd) for the most accurate reproduction.*
 
 # DAZ 3D - Free 3D Software and 3D Model Providers
 
