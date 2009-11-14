@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eyeoneducation.com privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430063455id_/http%3A//www.eyeoneducation.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeoneducation.com privacy policy that was archived on 2009-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091114132754id_/http%3A//www.eyeoneducation.com/privacy.asp) for the most accurate reproduction.*
 
-# Eye on Education
+# Eye On Education
 
   ** _Privacy Policy_**
 
