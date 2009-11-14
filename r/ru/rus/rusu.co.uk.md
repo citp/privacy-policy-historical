@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rusu.co.uk privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501232739id_/http%3A//www.rusu.co.uk/RUSU/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rusu.co.uk privacy policy that was archived on 2009-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091114035241id_/http%3A//www.rusu.co.uk/RUSU/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,10 +13,10 @@ Reading University Students' Union is committed to protecting the rights and pri
 
 When you register on [www.rusu.co.uk](http://www.rusu.co.uk/) RUSU, or a data processor operating on behalf of RUSU, will collect personal data from you such as:
 
-  * Name and contact details â€" for instance, your e-mail address and telephone number; 
-  * HTTP protocol elements â€" such as, the server address, the IP address and browser details; 
+  * Name and contact details for instance, your e-mail address and telephone number; 
+  * HTTP protocol elements such as, the server address, the IP address and browser details; 
   * Click-stream data (the type of computer and browsing software you use, and originating website etc.; 
-  * Demographic data â€" such as, country and telephone area code where your computer is located; 
+  * Demographic data such as, country and telephone area code where your computer is located; 
   * Preference data: search items of our website, any advertisements you clicked on.. 
 
 
@@ -93,10 +93,10 @@ RUSU reserves the right to access and disclose individually identifiable informa
 
 To ensure strict security procedures covering all aspects of processing your personal data and to prevent unauthorised access or disclosure we may ask for proof of identity before we disclose your personal information to you. 
 
-We welcome your questions and comments about privacy issues. Should you have such comments or have a complaint about how we are using your personal data, please contact Nicole Fox ([n.c.fox@reading.ac.uk](mailto:n.c.fox@reading.ac.uk)) or by letter.
+We welcome your questions and comments about privacy issues. Should you have such comments or have a complaint about how we are using your personal data, please contact Andrew R. Makowsky ([a.makowsky@reading.ac.uk](mailto:a.makowsky@reading.ac.uk)) or by letter.
 
 **Reading University Students' Union  
-** FAO: **Nicole Fox**  
+** FAO: **Andrew R. Makowsky**  
 Whiteknights  
 Reading  
 RG6 6AZ
@@ -104,4 +104,4 @@ RG6 6AZ
 **Tel:** 0118 378 4100  
  **Fax:** 0118 378 4115
 
-Page Last Modified: 08 Mar 2009
+Page Last Modified: 17 Aug 2009
