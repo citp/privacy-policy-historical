@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the britishexpat.com privacy policy that was archived on 2009-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090216171545id_/http%3A//www.britishexpat.com/Policies_-_Privacy.53.0.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britishexpat.com privacy policy that was archived on 2009-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091114045746id_/http%3A//britishexpat.com/Policies_-_Privacy.53.0.html) for the most accurate reproduction.*
 
 # British Expat: About the site: Policies - Privacy
 
@@ -22,7 +22,7 @@ Registered users of our forum are asked to supply a username (which need not be 
 
 The forum uses cookies to offer registered users the option to retain their login details for quicker access. We make no further use of any information stored by cookies.
 
-Third parties (advertisers) may be placing and reading cookies on your browser, or using web beacons to collect information, in the course of ads being served on this website. We have no access to the information thus gained.
+Third-party companies (advertisers) may be placing and reading cookies on your browser, or using web beacons to collect information (not including your name, address, email address or telephone number), in the course of ads being served on this website. These companies may use information about your visits to this and other websites in order to provide advertisements about goods and services likely to be of interest to you. We have no access to the information thus gained.
 
 Web browsers can generally be configured to refuse some or all cookies, or to ask you before accepting cookies. You can find more information on how to configure your own particular browser at the browser's website.
 
@@ -32,7 +32,7 @@ From time to time (every week or so) we send round an opt-in newsletter by email
 
 #### Security
 
-Britishexpat.com is hosted by BetterWebSpace. Their servers are protected by a range of measures against physical and technical attack.
+Britishexpat.com is hosted by UKWebDev. Their servers are protected by a range of measures against physical and technical attack.
 
 British Expat Ltd operates its own computers from behind a firewall and from within a secure compound.
 
