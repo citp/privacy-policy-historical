@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the synnd.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503093244id_/http%3A//www.synnd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synnd.com privacy policy that was archived on 2009-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091114072124id_/http%3A//www.synnd.com/privacy) for the most accurate reproduction.*
 
 # Synnd.com: The Content Synndication Network | Privacy Policy
 
