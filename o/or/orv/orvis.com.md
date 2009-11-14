@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orvis.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228213019id_/http%3A//www.orvis.com/intro.asp%3Fsubject%3D107) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orvis.com privacy policy that was archived on 2009-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091114090351id_/http%3A//www.orvis.com/intro.aspx%3Fsubject%3D107) for the most accurate reproduction.*
 
 # Orvis Privacy Policy
 
@@ -81,11 +81,17 @@ For example, when you make a purchase from Orvis with a credit card, you may cho
 
 b. Third Parties 
 
-From time to time, we make our postal mailing list (names and postal addresses only) available to carefully screened companies whose products we believe will be of interest to you. If you prefer that we do not share any information with these companies, please contact us at: 
+i. Postal Mailing Partners 
+
+From time to time, we make our postal mailing list (names and postal addresses only) available to carefully screened companies whose products we believe will be of interest to you. If you prefer that we do not share any information with these companies, [complete the following form.](https://web.archive.org/intro.aspx?dir_id=2204&subject=6085)
+
+You may also make this request by mail by writing us at the following address:
 
 The Orvis Company  
 Attn: Customer Service: 1711 Blue Hills Drive, Roanoke, VA 24012  
 888-235-9763 
+
+ii. Web Advertising Partners 
 
 We may also share your personally-identifiable information, including your name, address, e-mail address, as well as a record of any transactions you conduct on our website or offline with us, with a third-party advertising partner that we contract with, and its service providers, in order to deliver banner advertisements and other advertising tailored to your interests when you visit certain websites. In these instances, it will use the data we provide it anonymously, that is, without any of your identifying information. Our advertising partner is able to do this, in part, by using “cookies” to collect anonymous information about your visits to our Website, and your interaction with our products and services. As with the information we provide, no personally identifiable information is collected in this process and no personal information will be shared further with any other party. To choose not to have this information used by our third-party advertising partner, [click here](http://usucmweb.dotomi.com/2182/optout.html).
 
@@ -105,7 +111,9 @@ Notwithstanding the above policies, we reserve the right to disclose your person
 
 ****Your Choices
 
-We offer choices about the types of information you receive from us. If you prefer not to receive catalogs or other communications from Orvis or if you prefer to receive them less frequently, please contact us at the address shown below. If you no longer wish to receive our E-mail Newsletter you also may contact us at the address below or unsubscribe using the link provided in each edition of the e-mail. 
+We offer choices about the types of information you receive from us. If you prefer not to receive catalogs or other communications from Orvis or if you prefer to receive them less frequently, [use the following form to request a change or cancellation](https://web.archive.org/intro.aspx?dir_id=15256&subject=6085) in your catalog mailing subscription. If you no longer wish to receive our E-mail Newsletter, you may [unsubscribe online](https://web.archive.org/store/unsub.aspx), or unsubscribe using the link provided in each edition of the e-mail. 
+
+You may also make a subscription change or cancellation request for catalogs or E-mail newsletters by mail, by writing to us at the following address: 
 
 The Orvis Company  
 Attn: Customer Service: 1711 Blue Hills Drive, Roanoke, VA 24012  
@@ -153,6 +161,6 @@ Attn: Customer Service: 1711 Blue Hills Drive, Roanoke, VA 24012
 
 Additional Topics of Interest
 
-In addition to our Privacy Policy, read our [E-Mail Usage Policy](https://web.archive.org/intro.asp?subject=3717) and our [Website Terms and Conditions](https://web.archive.org/intro.asp?subject=3907). 
+In addition to our Privacy Policy, read our [E-Mail Usage Policy](https://web.archive.org/intro.aspx?subject=3717) and our [Website Terms and Conditions](https://web.archive.org/intro.aspx?subject=3907). 
 
 Back to Previous Page 
