@@ -1,91 +1,69 @@
-<!--The following is the downloaded HTML source of the calvinseminary.edu privacy policy that was archived on 2009-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090626233807id_/http%3A//www.calvinseminary.edu/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the calvinseminary.edu privacy policy that was archived on 2009-11-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091114055103id_/http%3A//www.calvinseminary.edu/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/base.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <!-- InstanceBeginEditable name="doctitle" -->
 <title>Privacy Statement</title>
 <!-- InstanceEndEditable -->
-
 <script language="javascript" src="/css/slideMenu/ypslideoutmenus/ypSlideOutMenusC.js"></script>
 <script language="javascript">
- 		var myMenu1 = new ypSlideOutMenu("menu1", "down", 0, 155, 123, 350);
-				var myMenu2 = new ypSlideOutMenu("menu2", "down", 0, 155, 123, 350);
-				var myMenu3 = new ypSlideOutMenu("menu3", "down", 0, 155, 123, 350);
-				var myMenu4 = new ypSlideOutMenu("menu4", "down", 0, 155, 123, 350);
-						myMenu1.onactivate = function() { repositionMenu(myMenu1, -126); }
-								myMenu2.onactivate = function() { repositionMenu(myMenu2, 0); }
-								myMenu3.onactivate = function() { repositionMenu(myMenu3, 126); }
-								myMenu4.onactivate = function() { repositionMenu(myMenu4, 252); }
-						// the number you pass to initLeft doesn't matter since it will get
-		// changed onactivate
-		//var myMenu1 = new ypSlideOutMenu("menu1", "down", 0, 155, 123, 250)
-	//	var myMenu2 = new ypSlideOutMenu("menu2", "down", 0, 155, 123, 250)
-	//	var myMenu3 = new ypSlideOutMenu("menu3", "down", 0, 155, 123, 250)
-		//var myMenu4 = new ypSlideOutMenu("menu4", "down", 0, 155, 123, 250)
-     
-    // for each menu, we set up hte onactivate event to call repositionMenu with the amount offset from center, in pixels
-		//myMenu1.onactivate = function() { repositionMenu(myMenu1, 0); }
-		//myMenu2.onactivate = function() { repositionMenu(myMenu2, 0); }
-		//myMenu3.onactivate = function() { repositionMenu(myMenu3, 126); }
-		//myMenu4.onactivate = function() { repositionMenu(myMenu4, 252); }
+                var myMenu1 = new ypSlideOutMenu("menu1", "down", 0, 155, 123, 350);
+                        var myMenu2 = new ypSlideOutMenu("menu2", "down", 0, 155, 123, 350);
+                        var myMenu3 = new ypSlideOutMenu("menu3", "down", 0, 155, 123, 350);
+                        var myMenu4 = new ypSlideOutMenu("menu4", "down", 0, 155, 123, 350);
+                        myMenu1.onactivate = function() { repositionMenu(myMenu1, -126); }
+                        myMenu2.onactivate = function() { repositionMenu(myMenu2, 0); }
+                        myMenu3.onactivate = function() { repositionMenu(myMenu3, 126); }
+                        myMenu4.onactivate = function() { repositionMenu(myMenu4, 252); }
+                // this function repositions a menu to the specified offset from center
+    function repositionMenu(menu, offset) {
+        var browserName=navigator.appName; 
+        if (browserName=="Microsoft Internet Explorer") {
+              // the new left position should be the center of the window + the offset
+            var newLeft = getWindowWidth() - 365 -  20 + offset;
+            // 20 is width of right hand margin
+            // 
 
-		
-
-    // this function repositions a menu to the speicified offset from center
-		function repositionMenu(menu, offset)
-		{
-			var browserName=navigator.appName; 
-			if (browserName=="Microsoft Internet Explorer") {
-				  // the new left position should be the center of the window + the offset
-				var newLeft = getWindowWidth() - 365 -  20 + offset;
-				// 20 is width of right hand margin
-				// 
-
-				 // setting the left position in netscape is a little different than IE
-				menu.container.style ? menu.container.style.left = newLeft + "px" : menu.container.left = newLeft;
-			}else{
-					 // the new left position should be the center of the window + the offset
-					var newLeft = getWindowWidth() - 365 -  38 + offset;
-					// 20 is width of right hand margin
-					// 
-					var newVert = 140;
-					 // setting the left position in netscape is a little different than IE
-					menu.container.style ? menu.container.style.left = newLeft + "px" : menu.container.left = newLeft;
-					menu.container.style ? menu.container.style.top = newVert + "px" : menu.container.top = newVert;
-			}
-
-
-
-     
-		}
+             // setting the left position in netscape is a little different than IE
+            menu.container.style ? menu.container.style.left = newLeft + "px" : menu.container.left = newLeft;
+        }else{
+                 // the new left position should be the center of the window + the offset
+                var newLeft = getWindowWidth() - 365 -  38 + offset;
+                // 20 is width of right hand margin
+                // 
+                var newVert = 140;
+                 // setting the left position in netscape is a little different than IE
+                menu.container.style ? menu.container.style.left = newLeft + "px" : menu.container.left = newLeft;
+                menu.container.style ? menu.container.style.top = newVert + "px" : menu.container.top = newVert;
+        }
+    }
 		 
     // this function calculates the window's width - different for IE and netscape
-		function getWindowWidth()
-		{
-			return window.innerWidth ? window.innerWidth : document.body.offsetWidth;
-		}	
-
-
+    function getWindowWidth() {
+        return window.innerWidth ? window.innerWidth : document.body.offsetWidth;
+    }	
     ypSlideOutMenu.writeCSS();
-	</script><style type="text/css">
+</script><style type="text/css">
 #menu1Container{visibility:hidden;left:0px;top:155px;overflow:hidden;z-index:10000;}#menu1Container,#menu1Content{position:absolute;width:123px;height:350px;clip:rect(0 123 350 0);}
 #menu2Container{visibility:hidden;left:0px;top:155px;overflow:hidden;z-index:10000;}#menu2Container,#menu2Content{position:absolute;width:123px;height:350px;clip:rect(0 123 350 0);}
 #menu3Container{visibility:hidden;left:0px;top:155px;overflow:hidden;z-index:10000;}#menu3Container,#menu3Content{position:absolute;width:123px;height:350px;clip:rect(0 123 350 0);}
 #menu4Container{visibility:hidden;left:0px;top:155px;overflow:hidden;z-index:10000;}#menu4Container,#menu4Content{position:absolute;width:123px;height:350px;clip:rect(0 123 350 0);}
 </style>
 
-
-		</head><body onload="javascript:onLoadHook();"><div id="menu1Container" style="visibility: hidden;">
-				<div id="menu1Content" class="navDrop" style="top: -350px;"><p class="navDrop"><a href="/admissions/about.php?pNav=prospective">About Us</a></p><p class="navDrop"><a href="/admissions/index.php?pNav=prospective">Admissions</a></p><p class="navDrop"><a href="/admissions/academics.php?pNav=prospective">Academics</a></p><p class="navDrop"><a href="/admissions/community.php?pNav=prospective">Community</a></p><p class="navDrop"><a href="/admissions/discerning.php?pNav=prospective">Discerning Your Call</a></p><p class="navDrop"><a href="/financialAid/index.php?pNav=prospective">Financing Your Education</a></p></div>
-			</div>		<div id="menu2Container" style="visibility: hidden;">
-				<div id="menu2Content" class="navDrop" style="top: -350px;"><p class="navDrop"><a href="/applications/index.php?pNav=current">Applications</a></p><p class="navDrop"><a href="/studentLife/handbook/index.php#academicPolicies?pNav=current">Academic Information &amp; Policies</a></p><p class="navDrop"><a href="/calendar/index.php?pNav=current">Calendar</a></p><p class="navDrop"><a href="/candidacy/index.php?pNav=current">Candidacy</a></p><p class="navDrop"><a href="/events/commencement/2009/index.php?pNav=current">Commencement 2009</a></p><p class="navDrop"><a href="/continuingEd/index.php?pNav=current">Continuing Education</a></p><p class="navDrop"><a href="/degrees/index.php?pNav=current">Degrees &amp; Programs</a></p><p class="navDrop"><a href="/directory/index.php?pNav=current">Directories</a></p><p class="navDrop"><a href="/financialAid/index.php?pNav=current">Financial Aid</a></p><p class="navDrop"><a href="/studentLife/handbook/library.php?pNav=current">Hekman Library</a></p><p class="navDrop"><a href="/currentStudents/international/index.php?pNav=current">International Students</a></p><p class="navDrop"><a href="/resources/licensure/index.php?pNav=current">Licensure to Exhort</a></p><p class="navDrop"><a href="/mentoredMinistries/index.php?pNav=current">Mentored Ministries</a></p><p class="navDrop"><a href="/ministryPartners/index.php?pNav=current">Ministry Partners</a></p><p class="navDrop"><a href="/pulpitSupply/index.php?pNav=current">Preaching Opportunities/Pulpit Supply</a></p><p class="navDrop"><a href="/pubs/index.php?pNav=current">Publications</a></p><p class="navDrop"><a href="/registrar/index.php?pNav=current">Registrar's Office</a></p><p class="navDrop"><a href="/studentLife/index.php?pNav=current">Student Life</a></p><p class="navDrop"><a href="/resources/currentStudentResources.php?pNav=current">Tools &amp; Resources</a></p><p class="navDrop"><a href="/worship/index.php?pNav=current">Worship</a></p></div>
-			</div>		<div id="menu3Container" style="visibility: hidden;">
-				<div id="menu3Content" class="navDrop" style="top: -350px;"><p class="navDrop"><a href="/studentLife/handbook/positionsLiaisons.php?pNav=staff">Administrative Positions &amp; Liaisons</a></p><p class="navDrop"><a href="/calendar/index.php?pNav=staff">Calendar</a></p><p class="navDrop"><a href="/continuingEd/index.php?pNav=staff">Continuing Education</a></p><p class="navDrop"><a href="/directory/index.php?pNav=staff">Directories</a></p><p class="navDrop"><a href="/aboutUs/facultyStaff/index.php?pNav=staff">Faculty &amp; Staff Bios</a></p><p class="navDrop"><a href="/studentLife/handbook/facultyLeaves.php?pNav=staff">Faculty Leaves</a></p><p class="navDrop"><a href="/ministryPartners/index.php?pNav=staff">Ministry Partners</a></p><p class="navDrop"><a href="/pubs/index.php?pNav=staff">Publications</a></p><p class="navDrop"><a href="/registrar/index.php?pNav=staff">Registrar's Office</a></p><p class="navDrop"><a href="/aboutUs/jobDescriptions/index.php?pNav=staff">Staff Position Openings</a></p><p class="navDrop"><a href="/resources/facultyStaffResources.php?pNav=staff">Tools &amp; Resources</a></p><p class="navDrop"><a href="/worship/index.php?pNav=staff">Worship</a></p></div>
-			</div>		<div id="menu4Container" style="visibility: hidden;">
-				<div id="menu4Content" class="navDrop" style="top: -350px;"><p class="navDrop"><a href="http://www.crcna.org/pages/candidates.cfm?pNav=community">Current Candidates for Ministry</a></p><p class="navDrop"><a href="/community/alumni/alumniNews.php?pNav=community">Alumni News</a></p><p class="navDrop"><a href="/community/alumni/index.php?pNav=community">Alumni Services</a></p><p class="navDrop"><a href="/calendar/index.php?pNav=community">Calendar</a></p><p class="navDrop"><a href="http://cep.calvinseminary.edu/index.php?pNav=community">Center for Excellence in Preaching</a></p><p class="navDrop"><a href="/events/commencement/2009/index.php?pNav=community">Commencement 2009</a></p><p class="navDrop"><a href="/continuingEd/index.php?pNav=community">Continuing Education</a></p><p class="navDrop"><a href="/news/ctsInTheNews/index.php?pNav=community">CTS In The News</a></p><p class="navDrop"><a href="/development/index.php?pNav=community">Development Office</a></p><p class="navDrop"><a href="/directory/index.php?pNav=community">Directories</a></p><p class="navDrop"><a href="/mci/index.php?pNav=community">Making Connections</a></p><p class="navDrop"><a href="/ministryPartners/index.php?pNav=community">Ministry Partners</a></p><p class="navDrop"><a href="/development/supportOpportunities.php?pNav=community">Opportunities for Giving</a></p><p class="navDrop"><a href="/onlineCourses/index.php?pNav=community">Online Courses</a></p><p class="navDrop"><a href="/pubs/index.php?pNav=community">Publications</a></p><p class="navDrop"><a href="/pulpitSupply/index.php?pNav=community">Pulpit Supply/Preaching Opportunities</a></p><p class="navDrop"><a href="/resources/communityResources.php?pNav=community">Resources</a></p><p class="navDrop"><a href="/aboutUs/facultyStaff/speakers.php?pNav=community">Seminary Speakers</a></p><p class="navDrop"><a href="/worship/index.php?pNav=community">Worship</a></p></div>
-			</div>
-<script type="text/javascript">
+            </head><body onload="javascript:onLoadHook();"><div id="menu1Container" style="visibility: hidden;">
+                <div id="menu1Content" class="navDrop" style="top: -350px;"><p class="navDrop"><a href="/admissions/about.php?pNav=prospective">About Us</a></p><p class="navDrop"><a href="/admissions/index.php?pNav=prospective">Admissions</a></p><p class="navDrop"><a href="/admissions/academics.php?pNav=prospective">Academics</a></p><p class="navDrop"><a href="/admissions/community.php?pNav=prospective">Community</a></p><p class="navDrop"><a href="/admissions/discerning.php?pNav=prospective">Discerning Your Call</a></p><p class="navDrop"><a href="/financialAid/index.php?pNav=prospective">Financing Your Education</a></p></div>
+            </div>
+                    <div id="menu2Container" style="visibility: hidden;">
+                <div id="menu2Content" class="navDrop" style="top: -350px;"><p class="navDrop"><a href="/applications/index.php?pNav=current">Applications</a></p><p class="navDrop"><a href="/studentLife/handbook/index.php#academicPolicies?pNav=current">Academic Information &amp; Policies</a></p><p class="navDrop"><a href="/calendar/index.php?pNav=current">Calendar</a></p><p class="navDrop"><a href="/candidacy/index.php?pNav=current">Candidacy</a></p><p class="navDrop"><a href="/events/commencement/2009/index.php?pNav=current">Commencement 2009</a></p><p class="navDrop"><a href="/continuingEd/index.php?pNav=current">Continuing Education</a></p><p class="navDrop"><a href="/degrees/index.php?pNav=current">Degrees &amp; Programs</a></p><p class="navDrop"><a href="/directory/index.php?pNav=current">Directories</a></p><p class="navDrop"><a href="/financialAid/index.php?pNav=current">Financial Aid</a></p><p class="navDrop"><a href="/studentLife/handbook/library.php?pNav=current">Hekman Library</a></p><p class="navDrop"><a href="/currentStudents/international/index.php?pNav=current">International Students</a></p><p class="navDrop"><a href="/resources/licensure/index.php?pNav=current">Licensure to Exhort</a></p><p class="navDrop"><a href="/mentoredMinistries/index.php?pNav=current">Mentored Ministries</a></p><p class="navDrop"><a href="/ministryPartners/index.php?pNav=current">Ministry Partners</a></p><p class="navDrop"><a href="/pulpitSupply/index.php?pNav=current">Preaching Opportunities/Pulpit Supply</a></p><p class="navDrop"><a href="/pubs/index.php?pNav=current">Publications</a></p><p class="navDrop"><a href="/registrar/index.php?pNav=current">Registrar's Office</a></p><p class="navDrop"><a href="/studentLife/index.php?pNav=current">Student Life</a></p><p class="navDrop"><a href="/resources/currentStudentResources.php?pNav=current">Tools &amp; Resources</a></p><p class="navDrop"><a href="/worship/index.php?pNav=current">Worship</a></p></div>
+            </div>
+                    <div id="menu3Container" style="visibility: hidden;">
+                <div id="menu3Content" class="navDrop" style="top: -350px;"><p class="navDrop"><a href="/studentLife/handbook/positionsLiaisons.php?pNav=staff">Administrative Positions &amp; Liaisons</a></p><p class="navDrop"><a href="/calendar/index.php?pNav=staff">Calendar</a></p><p class="navDrop"><a href="/continuingEd/index.php?pNav=staff">Continuing Education</a></p><p class="navDrop"><a href="/directory/index.php?pNav=staff">Directories</a></p><p class="navDrop"><a href="/aboutUs/facultyStaff/index.php?pNav=staff">Faculty &amp; Staff Bios</a></p><p class="navDrop"><a href="/aboutUs/facultySearch/index.php?pNav=staff">Faculty Search</a></p><p class="navDrop"><a href="/ministryPartners/index.php?pNav=staff">Ministry Partners</a></p><p class="navDrop"><a href="/pubs/index.php?pNav=staff">Publications</a></p><p class="navDrop"><a href="/registrar/index.php?pNav=staff">Registrar's Office</a></p><p class="navDrop"><a href="/aboutUs/jobDescriptions/index.php?pNav=staff">Staff Position Openings</a></p><p class="navDrop"><a href="/resources/facultyStaffResources.php?pNav=staff">Tools &amp; Resources</a></p><p class="navDrop"><a href="/worship/index.php?pNav=staff">Worship</a></p></div>
+            </div>
+                    <div id="menu4Container" style="visibility: hidden;">
+                <div id="menu4Content" class="navDrop" style="top: -350px;"><p class="navDrop"><a href="http://www.crcna.org/candidates?pNav=community">Current Candidates for Ministry</a></p><p class="navDrop"><a href="/community/alumni/alumniNews.php?pNav=community">Alumni News</a></p><p class="navDrop"><a href="/community/alumni/index.php?pNav=community">Alumni Services</a></p><p class="navDrop"><a href="/calendar/index.php?pNav=community">Calendar</a></p><p class="navDrop"><a href="http://cep.calvinseminary.edu/index.php?pNav=community">Center for Excellence in Preaching</a></p><p class="navDrop"><a href="/events/commencement/2009/index.php?pNav=community">Commencement 2009</a></p><p class="navDrop"><a href="/continuingEd/index.php?pNav=community">Continuing Education</a></p><p class="navDrop"><a href="/news/ctsInTheNews/index.php?pNav=community">CTS In The News</a></p><p class="navDrop"><a href="/development/index.php?pNav=community">Development Office</a></p><p class="navDrop"><a href="/directory/index.php?pNav=community">Directories</a></p><p class="navDrop"><a href="/mci/index.php?pNav=community">Making Connections</a></p><p class="navDrop"><a href="/ministryPartners/index.php?pNav=community">Ministry Partners</a></p><p class="navDrop"><a href="/development/supportOpportunities.php?pNav=community">Opportunities for Giving</a></p><p class="navDrop"><a href="/onlineCourses/index.php?pNav=community">Online Courses</a></p><p class="navDrop"><a href="/pubs/index.php?pNav=community">Publications</a></p><p class="navDrop"><a href="/pulpitSupply/index.php?pNav=community">Pulpit Supply/Preaching Opportunities</a></p><p class="navDrop"><a href="/resources/communityResources.php?pNav=community">Resources</a></p><p class="navDrop"><a href="/aboutUs/facultyStaff/speakers.php?pNav=community">Seminary Speakers</a></p><p class="navDrop"><a href="/worship/index.php?pNav=community">Worship</a></p></div>
+            </div>
+        <script type="text/javascript">
 	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
@@ -164,24 +142,19 @@ function onLoadHook() { //v6.0
 <!-- ***************************************** -->
 
 <div id="navArea">
-		<table width="100%" cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr align="center" valign="middle"><td align="left">&nbsp;</td>		
-		<td width="3"><img src="/images/blank.gif" width="3" height="20" border="0"></td>
-		<td width="123" bgcolor="#033021" onmouseover="javascript:style.backgroundColor='#496159'" onmouseout="javascript:style.backgroundColor='#033021'"><span class="navPrimary"><a href="/admissions/index.php" onmouseover="ypSlideOutMenu.showMenu('menu1');" onmouseout="ypSlideOutMenu.hideMenu('menu1')">Prospective Students</a></span></td>
-
-				
-		<td width="3"><img src="/images/blank.gif" width="3" height="20" border="0"></td>
-		<td width="123" bgcolor="#033021" onmouseover="javascript:style.backgroundColor='#496159'" onmouseout="javascript:style.backgroundColor='#033021'"><span class="navPrimary"><a href="/currentStudents/index.php" onmouseover="ypSlideOutMenu.showMenu('menu2');" onmouseout="ypSlideOutMenu.hideMenu('menu2')">Current Students</a></span></td>
-
-				
-		<td width="3"><img src="/images/blank.gif" width="3" height="20" border="0"></td>
-		<td width="123" bgcolor="#033021" onmouseover="javascript:style.backgroundColor='#496159'" onmouseout="javascript:style.backgroundColor='#033021'"><span class="navPrimary"><a href="/facultyStaff/index.php" onmouseover="ypSlideOutMenu.showMenu('menu3');" onmouseout="ypSlideOutMenu.hideMenu('menu3')">Faculty &amp; Staff</a></span></td>
-
-				
-		<td width="3"><img src="/images/blank.gif" width="3" height="20" border="0"></td>
-		<td width="123" bgcolor="#033021" onmouseover="javascript:style.backgroundColor='#496159'" onmouseout="javascript:style.backgroundColor='#033021'"><span class="navPrimary"><a href="/community/index.php" onmouseover="ypSlideOutMenu.showMenu('menu4');" onmouseout="ypSlideOutMenu.hideMenu('menu4')">Alumni &amp; Friends</a></span></td>
-
-		</tr>
+	
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+    <tbody><tr align="center" valign="middle">
+                            <td align="left">&nbsp;</td>
+                                                    <td width="3"><img src="/images/blank.gif" width="3" height="20" border="0"></td>
+                                <td width="123" bgcolor="#033021" onmouseover="javascript:style.backgroundColor='#496159'" onmouseout="javascript:style.backgroundColor='#033021'"><span class="navPrimary"><a href="/admissions/index.php?pNav=prospective" onmouseover="ypSlideOutMenu.showMenu('menu1');" onmouseout="ypSlideOutMenu.hideMenu('menu1')">Prospective Students</a></span></td>
+                                                            <td width="3"><img src="/images/blank.gif" width="3" height="20" border="0"></td>
+                                <td width="123" bgcolor="#033021" onmouseover="javascript:style.backgroundColor='#496159'" onmouseout="javascript:style.backgroundColor='#033021'"><span class="navPrimary"><a href="/currentStudents/index.php" onmouseover="ypSlideOutMenu.showMenu('menu2');" onmouseout="ypSlideOutMenu.hideMenu('menu2')">Current Students</a></span></td>
+                                                            <td width="3"><img src="/images/blank.gif" width="3" height="20" border="0"></td>
+                                <td width="123" bgcolor="#033021" onmouseover="javascript:style.backgroundColor='#496159'" onmouseout="javascript:style.backgroundColor='#033021'"><span class="navPrimary"><a href="/facultyStaff/index.php" onmouseover="ypSlideOutMenu.showMenu('menu3');" onmouseout="ypSlideOutMenu.hideMenu('menu3')">Faculty &amp; Staff</a></span></td>
+                                                            <td width="3"><img src="/images/blank.gif" width="3" height="20" border="0"></td>
+                                <td width="123" bgcolor="#033021" onmouseover="javascript:style.backgroundColor='#496159'" onmouseout="javascript:style.backgroundColor='#033021'"><span class="navPrimary"><a href="/community/index.php" onmouseover="ypSlideOutMenu.showMenu('menu4');" onmouseout="ypSlideOutMenu.hideMenu('menu4')">Alumni &amp; Friends</a></span></td>
+                                                </tr>
 </tbody></table>
 
 </div>
