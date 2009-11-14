@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pkr.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050604id_/http%3A//www.pkr.com/footer/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pkr.com privacy policy that was archived on 2009-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091114073117id_/http%3A//www.pkr.com/en/about-pkr/privacy) for the most accurate reproduction.*
 
-# PKR
+# PKR | Privacy
 
 PRIVACY POLICY
 
-This Privacy Policy governs the [www.pkr.com](http://www.pkr.com/) website ("the Site").
+This Privacy Policy governs the www.pkr.com website ("the Site").
 
 This Privacy Policy explains how we collect your personal information on the Site, how we protect such information, our processing of and your choices concerning the use of such information. Please read this Privacy Policy carefully. For the purposes of this Privacy Policy, "We", "Us" and "Our" means PKR Limited.
 
