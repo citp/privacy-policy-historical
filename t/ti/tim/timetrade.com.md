@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the timetrade.com privacy policy that was archived on 2009-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090610003823id_/http%3A//www.timetrade.com/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timetrade.com privacy policy that was archived on 2009-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091114074052id_/http%3A//www.timetrade.com/privacy_statement.aspx) for the most accurate reproduction.*
 
 # TimeTrade - Privacy Statement
-
-  | 
-
-|   | 
 
 TimeTrade Systems, Inc. ("TimeTrade") respects your privacy and values your trust. The following Privacy Statement outlines how TimeTrade will treat information as you use our products and services. Please direct any questions that you may have regarding our Privacy Statement at any time to our privacy coordinator at privacy@timetrade.com.
 
@@ -20,7 +16,7 @@ At times, we may collect information about you that is not personally-identifiab
 
 **Cookies**
 
-When you log onto our Web sites or advertisements, we use cookies to provide customizable and personalized services, such as changing your personal profile. By modifying your browser preferences, you may accept all cookies, be notified when a cookie is set, or reject all cookies. Even if you reject the use of cookies, you will still be able to use our products and services. This policy does not cover the use of cookies by any advertisers. TimeTrade does not have control or access to information contained in the advertisers' cookies. 
+When you log onto our Web sites or advertisements, we use cookies to provide customizable and personalized services, such as changing your personal profile. By modifying your browser preferences, you may accept all cookies, be notified when a cookie is set, or reject all cookies. Even if you reject the use of cookies, you will still be able to use our products and services. This policy does not cover the use of cookies by any advertisers. TimeTrade does not have control or access to information contained in the advertisers' cookies.
 
 **Scheduling & Appointment Confidentiality**
 
@@ -45,5 +41,3 @@ Credit card transactions are processed by Cybercash which has confidentiality of
 **Communication of Changes**
 
 Protecting your privacy and information is a top priority of TimeTrade. We will make reasonable efforts to communicate any changes to our Privacy Statement to our customers, but in any event our Privacy Statement may change from time to time and we invite you to review this Policy at any time.
-
-|  
