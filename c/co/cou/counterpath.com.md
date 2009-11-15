@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the counterpath.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617172850id_/http%3A//www.counterpath.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the counterpath.com privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115190615id_/http%3A//www.counterpath.net/privacy.html) for the most accurate reproduction.*
 
 # CounterPath Corporation | Privacy
 
