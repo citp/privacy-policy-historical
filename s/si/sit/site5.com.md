@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the site5.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912174457id_/http%3A//www.site5.com/support/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the site5.com privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115210627id_/http%3A//www.site5.com/support/privacy) for the most accurate reproduction.*
 
-# Site5 General Purpose Privacy Policy
+# Site5 - Privacy Policy
 
-Site5 Internet Solutions, Inc. ("Site5") has created this privacy statement in order to demonstrate our commitment to privacy to our customers and users of our consulting services, online services, websites, and web services ("Services").
+Site5 LLC ("Site5") has created this privacy statement in order to demonstrate our commitment to privacy to our customers and users of our consulting services, online services, websites, and web services ("Services").
 
 This privacy policy governs the manner in which Site5 uses, maintains and discloses information collected from its customers and users of our Services.
 
 ## 1\. Privacy
 
-Site5 is committed to developing long lasting relationships based on trust. As such, Site5 will do everything in its power to ensure that your right to privacy is maintained and protected. �Our Services are not directed at children under 13 years of age.
+Site5 is committed to developing long lasting relationships based on trust. As such, Site5 will do everything in its power to ensure that your right to privacy is maintained and protected. Our Services are not directed at children under 13 years of age.
 
 ## 2\. Information We Collect
 
@@ -70,7 +70,11 @@ The information provided to Site5 is saved indefinitely and may be stored on one
 
 While we cannot guarantee that loss, misuse or alteration to data will not occur; we make every effort to prevent such occurrences. Any other particularly sensitive information, such as credit card numbers collected for commercial transactions, is encrypted prior to transmission by you to Site5.
 
-## 11\. Your Responsibility
+## 11\. Safe Harbor
+
+Site5 has certified its participation and compliance with the US-EU Safe Harbor Framework and the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the transfer of personal information from European Union member countries and Switzerland to the United States. The principles of Safe Harbor compliance are notice, choice, onward transfer, security, data integrity, access, and enforcement. Additional information about the Safe Harbor principles and certification process can be found at the US Department of Commerce's [Safe Harbor](http://www.export.gov/safeharbor/) website.
+
+## 12\. Your Responsibility
 
 You are responsible for the security of the login information, such as usernames and passwords, which give you access to your private information maintained by Site5. Make sure you keep login information in a safe place and do not share it with others.
 
@@ -78,8 +82,4 @@ Note that key-loggers, viruses, or other surveillance devices can intercept logi
 
 ## 12\. Questions
 
-Any questions concerning this Privacy Policy may be directed to privacy@site5.com.
-
-## Have questions?
-
-> Please contact [privacy@site5.com](mailto:privacy@site5.com) with any questions regarding this privacy policy.
+Any questions concerning this Privacy Policy may be directed to .
