@@ -1,12 +1,9 @@
-> *The following text is extracted and transformed from the myitforum.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429233319id_/http%3A//www.myitforum.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myitforum.com privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115061758id_/http%3A//www.myitforum.com/privacy.asp) for the most accurate reproduction.*
 
 # myITforum.com : Privacy Statement
 
 |  | Privacy Statement  
 ---  
-  
-[ ](http://www.myitforum.com/rssfeed/)  
-  
   
 myITforum.com reserves the right to change this policy at any time by notifying users through a notice posted on myITforum.com or by email, of the existence of a new privacy policy or any updates.
 
