@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desihits.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605193912id_/http%3A//www.desihits.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desihits.com privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115201005id_/http%3A//www.desihits.com/privacy) for the most accurate reproduction.*
 
 # DesiHits!
 
