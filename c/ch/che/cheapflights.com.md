@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapflights.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618062500id_/http%3A//www.cheapflights.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapflights.com privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115101945id_/http%3A//www.cheapflights.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -84,4 +84,8 @@ Cheapflights (USA) Inc.
 24 School Street  
 Boston MA 02108
 
-March 2008
+ **13\. Widgets**
+
+We use the sharethis widget on this site to allow our users to tell their friends about the site, by allowing them to send a onetime email within the widget, inviting their friend to visit site. We do not have access to any of the Personal Information collected within this widget. We also use the sharethis widget to allow users to log into their third party social networking accounts and share a link to cheapflights with their friends.
+
+Updated: September 2009
