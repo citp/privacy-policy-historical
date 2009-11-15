@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familyfriendlysites.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418060306id_/http%3A//www.familyfriendlysites.com/ffStatipPages.asp%3Fstindex%3D31) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familyfriendlysites.com privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115093319id_/http%3A//www.familyfriendlysites.com/ffStatipPages.asp%3Fstindex%3D31) for the most accurate reproduction.*
 
 # Family Friendly Sites - Privacy Policy
 
