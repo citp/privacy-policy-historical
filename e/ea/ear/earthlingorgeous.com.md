@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the earthlingorgeous.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627150428id_/http%3A//www.earthlingorgeous.com/about-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthlingorgeous.com privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115215148id_/http%3A//www.earthlingorgeous.com/about-2) for the most accurate reproduction.*
 
-# Privacy Policy - Earthlingorgeous.com
+# Earthlingorgeous.com » Privacy Policy
+
+[ ](http://www.earthlingorgeous.com/)
 
 I respect your privacy and I am committed to safeguarding your privacy while online at my site http://www.earthlingorgeous.com . The following discloses the information gathering and dissemination practices for this Web site.
 
@@ -17,7 +19,7 @@ Links
 This Web site contains links to other sites. Please be aware that I am not responsible for the privacy practices of such other sites. I encourage my users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
 Advertisers  
-I use outside ad companies to display ads on my site. These ads may contain cookies and are collected by the ad companies, and I do not have access to these information. I work with the ad companies: Google Adsense, Project Wonderful, Nuffnang Philippines, and Adbrite. Please check their websites for respective privacy policies.
+I use outside ad companies to display ads on my site. These ads may contain cookies and are collected by the ad companies, and I do not have access to these information. I work with the ad companies: Google Adsense, Project Wonderful, and Adbrite. Please check their websites for respective privacy policies.
 
 Contact Information  
-If users have any questions or suggestions regarding my privacy policy, please contact me @ mearthcedes(at)yahoo.com
+If users have any questions or suggestions regarding my privacy policy, please contact me @ **earthlingorgeous (at) hotmail.com or mearthcedes (at) yahoo.com**
