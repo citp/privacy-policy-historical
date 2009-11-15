@@ -1,111 +1,79 @@
-> *The following text is extracted and transformed from the gameshadow.com privacy policy that was archived on 2007-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071025060838id_/http%3A//www.gameshadow.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameshadow.com privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115095812id_/http%3A//www.gameshadow.com/information/privacy-policy) for the most accurate reproduction.*
 
-# GameShadow.com – Get the latest patch, demo or trailer for your games
+# GameShadow.com - get the latest patch, trailer or demo for your games
 
-GameShadow is a Service and Software Product. When we refer to "we" or "our" we are referring to GameShadow Limited.When we refer in this Privacy Policy to "our website" we are referring to the website at http://www.gameshadow.com.
+GameShadow is fully committed to respecting your privacy and to protecting any information you provide to it. We treat both privacy and security as a priority and make every effort to ensure that all the information provided by you is protected. This Privacy Policy (the "Policy") respects and protects the privacy of all visitors to GameShadow and intends to give you as much information and control as possible.
 
-GameShadow Limited is registered in England number 5502662 and its registered address is 37 MAIN STREET,OVER NORTON, OXFORDSHIRE, OX7 5PR, UNITED KINGDOM. 
+The Policy explains how GameShadow collects and uses information. We hope that our candour will remove any concerns you may have and will make visiting GameShadow a rewarding experience.
 
-**Why do we have a Privacy Policy?**  
-GameShadow Limited is registered under the data protection laws in the United Kingdom and takes all reasonable care to prevent any unauthorised access to your personal information.When we refer to "personal information" in this Privacy Policy, we mean information which identifies, or is capable of identifying, you as an individual. 
+Although we endeavour to keep you up-to-date on all changes made to the website, this Policy may be amended from time to time without notice to you. It is your responsibility to read the Policy carefully and review any changes that may have been made. 
 
-However, in addition to our legal obligations, we have developed this Privacy Policy because we want you to feel confident about the privacy and security of the personal information you disclose to us when you register for our services or, as a visitor, enter into any of our competitions or promotions.If you only browse our website we do not collect any personal information from you but we may gather anonymous information (using cookies) to help make your visit to our website more satisfying.Please see "Other information we collect" for more information on how we do this. 
+What information does GameShadow collect and how does GameShadow use this information?
 
-Please read this Privacy Policy carefully.If you are visiting our website or using our services, you indicate your agreement to our use of your personal information as set out in this Privacy Policy by continuing to use our website.If you want to register for or order one of our services, you will also be asked to accept this Privacy Policy during registration. 
+## 1\. Personal Information
 
-**What does this Privacy Policy cover?**  
-This Privacy Policy only applies to our website and services.It does not apply to any third party or other GameShadow Limited sites whichGameShadow Limited may host or which you may access from our website or any other GameShadow Limited or third party services. If you choose to disclose your personal information directly to other companies, your personal information will be dealt with according to those companies' privacy practices. 
+In order to join the GameShadow Community will need to create a profile and you need to register to use the software. When registering or creating the profile you will be asked to provide an email address and create a username and password to the personal details. If you choose to purchase music or other goods or service by clicking on a third party link (i.e. Amazon) provided on the website, we will not collect any personal information related to the transaction (i.e. credit card number, address, etc.). The only information that we will collect with respect to such third party links is (a) the number of generic GameShadow users who utilised such links and (b) the number of purchases made by these generic users.
 
-As our website is an evolving, developing website, some parts of our website have their own privacy policies, in which case those policies will apply when you visit those areas or use the services offered there. 
+## 2\. Your Game Data
 
-**When do we collect personal information from you?**  
-If you register to become a subscriber or a customer of GameShadow, we may ask you for information such as your name, address, contact telephone numbers, email address, credit card details and other (optional) information.We may also ask you for personal information if you subscribe to our newsletter and if you enter one of the competitions or promotions on our website. 
+From the moment you install our software we will begin to create and maintain the details of the games you own and trailers or demos you view. This is accomplished by monitoring your activity on the website and in the software (i.e. which games you own, which demos and trailers you view). In the future we may also monitor any reviews or feedback you give to features and reviews written by others.
 
-Once in a while we may receive personal information about you from third parties.Except in the cases where we are merely processing such information on their behalf, such third parties should have requested your consent for us to use this information. 
+GameShadow does not process any personally identifiable information related to your games and/or profile in any manner other than as described in the previous paragraph. We do not, for example, provide third parties with your name, location (if we know it), or a list of the games you own. However this data may be viewed by all other users of GameShadow (who may include other organisations or representatives of other organisations who have registered GameShadow users) and that they may easily associate this information with your GameShadow username. Please see the Statistical Information section below to learn more on this subject and to learn how we log and use information related to your record collection and/or profile in the aggregate.
 
-**What do we use your personal information for?**  
-If you are a registered customer we may use your personal information to: 
+## 3\. Location-based Information
 
-  * Communicate with you about your access to or use of our service
-  * Check that you are a registered customer if you call the GameShadow Limited offices, or use the email support facility.Should you make contact by telephone, for security reasons we will ask you some of the information you gave us when you registered and check this against our records.
-  * Collect payment from you
-  * Let you know (by post, telephone or e-mail) about any changes to our services or our website
-  * Contact you to ask whether you would like to join in one of our research groups to help us improve our service to you but not by disclosing your details to third parties
-  * Improve our understanding of the type of customers we are attracting to our services and how they use our services
-  * Subject to your agreement, provide you with information about GameShadow Limited and/or third party products and services
-  * Manage our network.
+We keep track of the domains from which people visit GameShadow, but we cannot see a user's zip code, post code, city or country unless the user chooses to explicitly provide this information to us.
 
+## 4\. Browser Information
 
+We collect data regarding the anonymous users of GameShadow, including: a. The Internet Protocol (IP) address of the user's computer. This may or may not be associated with a particular Internet Service Provider (ISP).? b. The referring URL, if any.? c. The browser software identification (i.e. the brand and version of your browser software).
 
-If you enter one of our competitions or promotions, we use the personal information you provide to manage the competition or promotion you have entered. 
+## 5\. Statistical Information
 
-We may sometimes ask other companies to provide any of the above services on our behalf. If we do this, we share your personal information with them for this purpose.Please see "Do we share your personal information with anyone else?" for more information on this. 
+As discussed above, we log (but do not use) personally identifiable information with respect to the games you own and the game related activities you make on the site (such as downloading demos, patches, trailers etc). For example, we know the games you have loaded on your PC, which games you have added to your ‘most wanted’ list, and the demos trailers etc you have viewed. We do not use this information in any manner in conjunction with your personal information (i.e. although we here at GameShadow can connect your username to your email address, we don't use a personally identifiable activity log in any manner whatsoever and no third parties are given access to it). Please note, however, that this information may be viewed by all other users (who may include other organisations or representatives of other organisations who have registered as GameShadow users) in conjunction with your GameShadow username. Thus, with respect to other users, we don't view this information as personally identifiable because of the veil of anonymity afforded by your username. If you take any action which destroys the anonymity of your username, we cannot be held responsible for the fact that others may as a result be able to personally identify you with your username (and therefore with your games information and GameShadow profile). If you realise that you have taken action which has destroyed or may destroy the anonymity of your username, please notify us and we will issue you either a new username and/or password. 
 
-**What other information do we collect?**  
-We have information about your use of our GameShadow services (such as the amount of time you are connected to the service). We mainly use this information to manage our network. However, we may also use this information for marketing GameShadow Limited's services.We do not disclose this information to anyone other than to our agents who process it on our behalf. Your decision on whether you want to receive details of other GameShadow Limited products and services made when you register for or order a service also applies to this information. Consequently, if you do not wish us to use this information for marketing purposes but during registration elected to receive details on other GameShadow Limited products and services, you will need to write to [marketing@gameshadow.com ](mailto:marketing@gameshadow.com) and request that you opt-out from us using your information for marketing purposes. 
+Please note that we do log and use statistical information in the aggregate. For example, we know the number of users who own a game or view a particular trailer. From this information we are able to compile statistics in the form of percentages of all users (i.e. 29% of our users own game XYZ). We can of course compare the ownership of one game to those of another. We are also able to perform more sophisticated statistical operations based on the information collected. For example, we can know the raw number (and associated percentages) of users who own one particular game that also own another game in the same or another genre. From this information we are able to determine which games are "related" in terms of overall ownership and we can see which genres of games or family of products tend to be related. As a service, we may supply certain aggregate statistical information to game developers and publishers in order to help them understand the likes and dislikes of the game owners.
 
-When you use the GameShadow service, all the deductive logic to determine the versions of your games is conducted locally on your PC. We do not transfer or transmit any game related information held on your computer or network to the GameShadow servers. 
+## 6\. Data Feeds/Messaging/Scrawler/Nudges and Communications With Other Users
 
-As with most (if not all) website operators, we also collect anonymous information from visitors to our website and registered customers to help us improve our website and the services we make available. This anonymous information tells us, for instance, how many visitors there were to our website, when they visited, for how long and which areas of our website they went visited. This information helps us to assess which parts of our website are popular or need improving. We may share this aggregate data with our advertisers and other companies which offer their goods or services on our website so that they can see how effective our website is as a sales channel for their products. Remember though that they, and we, cannot see which individuals this data relates to - it only shows the usage patterns of a particular PC. 
+We currently offer functionality that enables community members to communicate with each other and automatically see details on their Friends, Groups and Games. In the future we may offer other interactive features such as instant messaging and chat. Please note that all personal information you display, communicate using such functionality and the automatic ‘What you have been doing’ feed becomes public information and we are not responsible for any information you choose to make public or is automatically generated by your activities. Whilst we do not currently monitor this we may in the future monitor such traffic via electronic software or otherwise in order to check for obscenity, defamation or abusive language, which we reserve the right to remove at any time. In addition, if you choose to personally communicate or meet with any other GameShadow user by exchanging postal/email addresses, telephone numbers or otherwise via the interactive functionality of GameShadow, you do so at your own risk. GameShadow cannot be held responsible for any consequences which flow from your decision to communicate or interact with other GameShadow users in places or under circumstances which we do not control. We advise you to use extreme caution whenever you socialise or interact with people whom you have met via the internet.
 
-We **do not** use this anonymous information to: 
+## 7\. Software Updates
 
-  * identify individuals visiting our website
-  * analyse your visits to any other websites (except that we do track you if you go to websites carrying our banner, but we do not identify personal details while we do this)
-  * track any internet searches which you may make while on our website.
+In order to ensure that GameShadow is functioning at its best, from time to time we may ask you to upgrade to a newer version of our software. In addition, we may find it necessary to send you automatic fixes or support files. If we make a modification that materially affects your privacy, we will endeavour to notify you of such modification and we will update the Policy accordingly. 
 
+## 8\. Links
 
+We may display links to third party sites, however we cannot control and cannot be held responsible for those other sites, their privacy policies or how they treat information about their users. We advise you to check their privacy policies to find out how they are treating your personal information. 
 
-**How do we collect anonymous information?**  
-We use "cookies" on our Forums to collect anonymous information from visitors to our website and registered customers. A "cookie" is a text file which is allocated by our server to your PC when you visit our website. The text file contains a random number which, unless the cookie is deleted, allows us to identify your PC if you visit our website again. 
+## 9\. Data Protection
 
-Our servers use two different types of cookies.The first type is known as a "session-based" cookie and is allocated to your PC only for the duration of your visit to our website. It helps you to move around the website faster and, if you are a registered customer or subscriber, it allows us to give you information relevant to GameShadow. This cookie automatically expires when you close down your browser. 
+GameShadow complies with the Data Protection Act 1998, including all UK amending legislation and EU directives. Pursuant to the Act, you have the right to be informed of and to have access to all of the personally identifiable information we hold about you.
 
-Other companies which advertise or offer their products or services on our website may also allocate cookies to your PC. The types of cookies they use and how they use the information generated by them will be governed by those companies' privacy policies, not ours. 
+## 10\. GameShadow Software
 
-All types of cookies can be removed from your PC. However, if you do this there is likely to be a deterioration of your experience of our website (e.g.: you may end up being shown endless numbers of pop up boxes containing the same advertisements or not being able to see a personalised page).Your browser lets you choose whether to accept, not to accept, or to be warned before accepting cookies.These settings can be found in the advanced preferences -   
-**In Internet Explorer select:** Tools menu / Internet options / Security / Custom Level   
-**In Netscape 4.x select:** Edit menu / Preferences / Advanced 
+If you choose to download the GameShadow software, it will monitor all the games you have installed on your computer (even if you are not online). This information will then be integrated into your GameShadow Community profile. (Downloader IP action here) The GameShadow software cannot and will not collect and transfer any other information from your computer other than as described in the EULA. For the avoidance of doubt, however, please be advised that GameShadow cannot be held liable for any damage which may occur to your computer as a result of downloading the GameShadow software, nor shall it be liable for any invasion of privacy related to the same. 
 
-**Do we share your personal information with anyone else?**  
-We sometimes have to share your personal information with other companies which we use to provide some of our own services. For example, we use specialist companies to conduct market research on our behalf to see how we can improve the services we offer to our customers. We would need to give those companies your personal information so that they can contact you to see if you'd like to participate in our market research. However, those companies can only process this information according to the instructions we give them. 
+## 11\. Does GameShadow Use Cookies?
 
-We also share your personal information with other parts of GameShadow Limited or other companies so that they (or we, on their behalf) can contact you with details of other products or services you may be interested in.We will only do this if you have agreed to receive this information.During your registration as a GameShadow customer, or if you enter a promotion or competition on our website, you can decide whether you would like this information. 
+We use cookies to help you use GameShadow but do not use cookies to capture personally identifiable information. Currently, we only use “session” cookies, which means that they only last for as long as you are online. We use these cookies to identify you as a valid user, to ensure that no one else can simultaneously log in and use your profile and to help personalise your GameShadow experience in conjunction with your profile. In the future we may decide to employ "persistent" cookies which stay on your computer after you have gone offline. In the event that we introduce “persistent” cookies we will update this Policy accordingly so that you are made aware of such a change. Most browsers have cookies turned on as a default, but you can always disable cookies via your browser preferences. If you choose to disable cookies, however, you won't be able enjoy a significant proportion of GameShadow’s functionality. Please remember that cookies cannot read your hard drive or give any information collected to any third party. A cookie can only be read by the organisation that sets it.
 
-If you agree to receive information about other companies' products and services, we will only share your personal information with those companies if they agree to use your personal information only for that purpose. 
+## 12\. Security
 
-If you are a subscriber to our newsletter and no longer wish to receive the newsletter please go to: [www.gameshadow.com ](http://www.gameshadow.com/) and use the 'My Account' area once you have logged in.  You may unsubscribe by unticking the newsletter check-box. 
+GameShadow endeavours to protect the security of your information as much as we endeavour to protect our own information and network. We employ firewalls and store all of our files and information on secure terminals. In addition, all user passwords are protected by encryption technology. 
 
-To the extent required by law, we will disclose your personal information to law enforcement and other government agencies. You should also be aware that if you are a registered customer and we find that you are using our services for illegal purposes, we may investigate how you are doing so and prohibit you from using the service.  We may ultimately notify the police. If we receive a Court Order requesting us to reveal your identity to someone complaining that you have used our service abusively, we will do so. 
+## 13\. GameShadow Policy for Young People
 
-If there is a change (or prospective change) in the ownership of GameShadow Limited or any of its assets, we may have to disclose personal information to the new (or prospective) owner. 
+We realise and understand that many young people love computer games and will therefore visit GameShadow, however we encourage all persons under 16 to consult with their parents before submitting any information to the GameShadow Community website and indeed any other website. However the GameShadow Software does require a separate registration in order to use the enhanced features such as receiving newsletters, customizing your profile and remote downloading. Having said this, we believe that ultimately it is the responsibility of parents to supervise children when online and we therefore recommend that parental control tools be put in place. 
 
-**How can I change the personal information GameShadow Limited holds about me?**  
-If you are a registered customer, you have direct control over the personal information GameShadow Limited holds about you.If you need to make any changes to the personal details GameShadow Limited holds about you, please send details of the changes to [contact@gameshadow.com ](mailto:contact@gameshadow.com)
+## 14\. Disclaimer
 
-You may always log into the 'My Account' area of the www.gameshadow.com website and change any of your details online, following the instructions laid out in that part of the website. 
+We believe in privacy and therefore will take all reasonable measures to ensure that your personally identifiable information remains private. However, in the event that we are forced to disclose personally identifiable information by law (i.e. by court order), we will make such a disclosure without being in violation of this Policy. 
 
-**How can I find out what personal information GameShadow Limited holds about me?**  
-If you want to know what personal information GameShadow Limited holds about you, you can obtain it, as long as you are a GameShadow customer.Please write to the following address, stating that you are a GameShadow customer or subscriber and enclose a cheque for the administration fee of £10 made payable to "GameShadow Limited" under the terms of the Data Protection Act: 
+## 15\. Business Transitions
 
-GameShadow Limited  
-37 Main Street   
-Over Norton   
-Oxfordshire  
-OX7 5PR, UK 
+If GameShadow is acquired by another company or sells a portion of its assets to another company, it is likely that user information will be a part of the assets transferred. If as a result of such a business transition information is to be collected, used or disclosed in a manner or for a purpose different from that stated above, GameShadow will endeavour to notify all users of such changes. 
 
-If the information we hold about you is inaccurate, please let us know and we will make the necessary amendments and confirm that these have been made. 
+## 16\. Consent
 
-**How do we protect your personal information?**  
-We use a secure server to store the information you give us when you register (including your credit card details and your password).Any personal data you send us is securely encrypted. 
-
-Over and above what GameShadow Limited does to safeguard your privacy and security, there are a number of things you can do to protect yourself from Internet fraud: 
-
-  * Choose a password you can remember but others will not guess, and, if you do write it down, keep it somewhere safe and secure.
-  * When you have finished your session on our website, make sure you prevent your details being seen by anyone that you do not wish to see them. So, if you have registered and logged in, remember to log off.  
-Clear any cache so there is no record of any transactions left on screen - both Netscape and Internet Explorer let you do this. We also recommend you then close your browser so any history of the session is cleared.
-
-
-
-**Changes to our Privacy Policy**  
-We may change our Privacy Policy from time to time. If we do change this Privacy Policy we will post the changes on this page and may place notices on other pages of our website, so that you will be aware of the information we collect and how we use it at all times. Continued use of the service will signify that you agree to such changes. If you are a registered customer or a subscriber, we will notify you of the changed policy.
+By disclosing any information to GameShadow through the website you consent to the collection, storage and use of such information by GameShadow as set out in this Policy and the Terms and Conditions. If GameShadow makes any changes to this Policy these changes will be detailed on this page in order to ensure that you are fully aware of what information is collected, how it is used and under what circumstances it will be disclosed. If you are concerned about how your information is collected, used or disclosed, you should periodically check back at this page. If you have any specific concerns not addressed in the Policy, please contact us using the feedback page on the website. 
