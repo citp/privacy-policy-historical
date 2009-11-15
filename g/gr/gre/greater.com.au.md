@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the greater.com.au privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627191727id_/http%3A//www.greater.com.au/PrivacyStatement/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greater.com.au privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115070817id_/http%3A//www.greater.com.au/About-Us/Privacy-Policy) for the most accurate reproduction.*
 
-# Greater Building Society Ltd
-
-[Print this Page](https://web.archive.org/Print_this_Page "This Page is Printer Friendly")
+# Your Privacy - Greater Building Society Ltd
 
 ### PRIVACY POLICY STATEMENT  
 GREATER BUILDING SOCIETY LTD  
@@ -10,7 +8,7 @@ GREATER BUILDING SOCIETY LTD
 
 The Greater takes your privacy very seriously and we are committed to ensuring the confidentiality of your personal information. We happily do this because we know that if you are pleased with us, you will want to come back and tell your friends and family about us.
 
-From December 21, 2001 we will comply with the 'National Privacy Principles' as set out in the Privacy Amendment (Private Sector) Act 2000.
+From December 21, 2001 we will comply with the 'National Privacy Principles' as set out in the Privacy Amendment (Private Sector) Act 2000.
 
 This Privacy Policy Statement tells you how we manage personal information.
 
@@ -22,7 +20,7 @@ We only collect information that is necessary to provide you with a product or s
 
 We may use your information for other purposes that are permitted by the Privacy Act and relevant laws or for which you would reasonably expect us to use the information.
 
-The only personal information which we collect about you when you use our website ([www.greater.com.au](http://www.greater.com.au/)) is what you tell us about yourself, for example, by completing an online form such as a loan application or sending us an email. When completing an online form, a small data file known as a "cookie" is written to your hard drive to help the website customise the pages you request. The cookie is deleted once you close the browser or end the session. When using our Online Banking, a cookie is used to help the system ensure your session security. This cookie is removed when the session ends and/or you close the browser. We also use cookies to collect anonymous traffic data on our website. This helps us to determine viewing trends, like the number of people who visit our site, the pages that they find the most interesting and the time and duration of their visit.
+The only personal information which we collect about you when you use our website ([www.greater.com.au](http://www.greater.com.au/)) is what you tell us about yourself, for example, by completing an online form such as a loan application or sending us an email. When completing an online form, a small data file known as a "cookie" is written to your hard drive to help the website customise the pages you request. The cookie is deleted once you close the browser or end the session. When using our Online Banking, a cookie is used to help the system ensure your session security. This cookie is removed when the session ends and/or you close the browser. We also use cookies to collect anonymous traffic data on our website. This helps us to determine viewing trends, like the number of people who visit our site, the pages that they find the most interesting and the time and duration of their visit.
 
 #### Use and Disclosure
 
@@ -34,7 +32,7 @@ We collect and use your personal information for the primary purpose of:
 
 
 
-We may use or disclose your personal information for purposes related to the main reason for which we collect it, such as:
+We may use or disclose your personal information for purposes related to the main reason for which we collect it, such as:
 
   * Administering, monitoring, evaluating and managing the product or service you have with us 
   * Internal accounting and administration 
@@ -52,7 +50,7 @@ If you do not wish to receive direct marketing information from us, you can tell
 
 Furthermore, we may disclose your personal information if, for example:
 
-  * You have given us your permission or implied consent to disclose the information 
+  * You have given us your permission or implied consent to disclose the information 
   * The disclosure is required by law (e.g. under a court order or subpoena or a law that allows a Government agency, such as the Australian Taxation Office, to demand that we disclose information about your account) 
   * The disclosure is permitted or authorised by law (e.g. under the Privacy Act 1988) 
   * We need to protect our interest (e.g. in legal proceedings to which we are a party) 
@@ -70,11 +68,11 @@ We will take reasonable precautions and security measures to keep your personal 
 
 Generally, if you request us to do so, we will amend any personal information about you held by us which is inaccurate, incomplete or out of date. If we disagree with you about the accuracy, completeness or currency of a record of your personal information held by us, we will, if you request us to do so, take reasonable steps to associate with that record a statement to the effect that you claim this to be the case.
 
-#### Obtaining Access to your Personal Information
+#### Obtaining Access to you Personal Information
 
 You can ask us to provide you with access to your personal information. Requests for a large amount of information that is not currently in use may attract a fee and require additional time before a response can be given. In some cases, we are entitled under the National Privacy Principles to refuse to give you access to your personal information. This includes circumstances where giving you access would prejudice negotiations we are having with you, prejudice investigations of unlawful activity or prejudice activities carried out by or for a law enforcement agency.
 
-You can contact us by calling **1300 651 400**.
+You can contact us by calling **1300 651 400.**
 
 If we deny your request for access to information, we will advise you why we have denied you access.
 
@@ -82,7 +80,7 @@ There are certain types of information that cannot be provided to you, but we wi
 
 #### Changes to this Privacy Policy Statement
 
-We may change this Privacy Policy Statement from time to time, but will remain bound by any legislative requirements. We may notify you about changes to this Privacy Statement by posting an updated version on our Website ([www.greater.com.au](https://web.archive.org/)).
+We may change this Privacy Policy Statement from time to time, but will remain bound by any legislative requirements. We may notify you about changes to this Privacy Statement by posting an updated version on our Website ([www.greater.com.au](http://www.greater.com.au/Home/Home.aspx)).
 
 #### Further Information on How to Contact Us
 
@@ -103,12 +101,12 @@ Fax us on 02 4921 9112
 
 Mail your correspondence to
 
-PO Box 173  
-Hamilton NSW 2303
+_PO Box 173_  
+_Hamilton_ _NSW 2303_
 
 **OR**
 
 If you have access to the Document Exchange send correspondence to:
 
-DX 7863  
-Newcastle
+_DX 7863  
+Newcastle_
