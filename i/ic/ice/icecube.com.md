@@ -1,83 +1,115 @@
-> *The following text is extracted and transformed from the icecube.com privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522121430id_/http%3A//www.icecube.com/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icecube.com privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115082910id_/http%3A//groundctrl.com/privacy) for the most accurate reproduction.*
 
-# icecube Privacy Policy
+# Privacy Policy // ground(ctrl)
 
-For the purposes of this document "company" is defined as icecube
+## Privacy PolicyUpdated October 1, 2007
 
-### PRIVACY POLICY
+This Privacy Policy, effective October 1st, 2007, is designed to help you, the user, understand how Ground(ctrl)™ (“us”, “we”, or “our”) collects and then uses the personal information you provide us when signing up as a new “member.” We do this so you can make informed decisions both when deciding whether to become a member and when using this service. 
 
-Company is committed to respecting your privacy. Please read the following privacy policy to understand how your personal information will be treated if it is collected through this Web site (the “Site”) by Company. Except as explicitly provided herein, this Privacy Policy does not apply to the practices of companies that Company does not own or control, or to people that Company does not employ or manage. This Privacy Policy may change from time to time so please check back periodically. The current version of this Privacy Policy is dated February 11, 2008. 
+By accessing and/or using this web site, you are (1) becoming a member of the Ground(ctrl)™ social networking community (the “network”) and (2) accepting the practices described in this Privacy Policy.
 
-Any dispute over privacy is subject to this Privacy Policy and our Terms of Service. Please note that the use of information that we gather is subject to the Privacy Policy in effect at the time of use. You should check this Site frequently to see recent changes in this Site’s Privacy Policy and its Terms of Service.
+We would like to thank you for becoming a member of the network—a network that takes each member’s privacy rights seriously. If you have any questions concerning the network’s Privacy Policy, please contact us at support@groundctrl.com. 
 
-### 1\. What personal information is collected from me?
+## About Ground(ctrl)™
 
-The types of personal information collected on these pages may include, but are not limited to, your name, email address, standard contact information including addresses and phone numbers, transactional information, and financial information such as credit card or bank account numbers. You also may provide additional information to us when you conduct a search on this Site, place an order for merchandise, complete a questionnaire or an entry form for sweepstakes or contests, and participate in forums and chat rooms or other community features. We may also ask you to voluntarily provide us with information regarding, for example, your personal or professional interests, demographics, experiences with the services we provide and contact preferences. Wherever Company collects personal information, we make an effort to include a link to this Privacy Policy on that page.
+Ground(ctrl)™, as a third-party administrator, maintains and administers the network and this web site. The intent of this web site, and other similar sites maintained and administered by us, is to create a social networking community wherein members can communicate with each other as well as interact with and promote their favorite musicians’ careers. 
 
-Company may gather and collect any of the following: (1) IP addresses (the Internet address of a computer) to track a user’s session while the user remains anonymous, (2) computer and connection information such as browser type and version, operating system, and platform, (3) purchase history, (4) the full Uniform Resource Locator (URL) clickstream to, through, and from this Site, including date and time, (5) cookie number, and (6) Web pages and/or products you viewed or searched. Company analyzes this data for certain trends in statistics, such as which parts of this Site users visit and how long they spend there. In general, we do not link your IP addresses to anything personally identifiable to you. During some visits Company may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.
+To enhance each member’s social networking experience, we request and display personal information to other members and visitors. This information is necessary to allow members to identify each other, expand their network of friends, promote each member’s favorite musicians through contests and other incentives, and to repay members for their interaction with the network through contests and prizes.
 
-Company gathers and stores certain types of information whenever you use this Site or the services made available hereon (the “Services”). For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses this Site. Various third party companies offer utilities that are designed to allow or help you visit and use Web sites anonymously; Please note, however, that Company may not be able to provide you with a personalized experience on this Site if you choose to utilize any such utilities.
+## The Information We Collect
 
-### 2\. What are cookies and how are they used by Company?
+When you visit this web site, you provide us with three types of information: 
 
-Company may place Internet cookies on your hard drive. Internet cookies are small files that may be placed on your hard disk for record-keeping purposes. Cookies are used to (a) remind us of who you are in order to deliver you better service, (b) estimate our audience size by determining repeat usage of the Web site to help target advertisements based on user interests and behavior, (c) track your progress and entries in promotions, sweepstakes and contests, if any, and (d) measure certain traffic patterns for use as a research tool to understand how our users’ habits are similar or different from one another. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. By not accepting cookies, some Web pages of this Site may not display properly or you may not be permitted to access certain information.
+  1. web site information collected by us through your interaction with this web site;
+  2. personal information you knowingly and voluntarily disclose to us when signing up as a member and through the continued use of this service; and 
+  3. personal information you knowingly and voluntarily disclose to use when using this service.
 
-### 3\. Does Company use Web beacons, and, if so, how?
 
-Company may employ Web beacons (also called single-pixel gifs), which are customized links or similar technologies, when sending you newsletters or promotional emails. Web beacons allow Company to (a) determine whether you have opened, or acted upon, a promotional email and which links you have clicked on in order to deliver to you more focused email communications and other information, (b) allow Company to count the number of users who have visited certain Web pages and effectively deliver co-branded services, and (c) enable Company to compile aggregated statistics and determine the efficacy of promotions by using Web beacons from third parties, without allowing such third parties to use Web beacons on this Site to collect or access your personal information.
 
-We may allow third-parties, including our authorized service providers, IAC companies, advertising companies, and ad networks, to display advertisements or provide applications and services on our site. These companies may use tracking technologies, such as [cookies](http://www.google.com/Top/Computers/Programming/Internet/Cookies/) or [web beacons](http://www.webopedia.com/TERM/W/Web_beacon.html), to collect information about users who view or interact with their advertisements or use their applications and services. Our website does not provide any personal information to these third parties. This information allows them to deliver targeted advertisements and personalized online experiences and gauge their effectiveness. Some of the third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies ([www.networkadvertising.org](http://www.networkadvertising.org/)).
+First, when you or any member signs on to this service, we collect your IP address, your browser type, and certain information from your browser using “cookies”. A cookie is a piece of data stored on a computer that is tied to information about the user. You can easily remove or block this cookie using the settings in your browser if you wish to disable this feature. To confirm that you are logged into the service, we use session ID cookies that immediately terminate once you close your browser.
 
-### 4\. How is my information used?
+Second, when signing up as a member to this web site, and during membership, we collect several pieces of personal information to enhance the network including your first name, last name, email address, password, location, birthday, AIM, Yahoo screen name, Jabber, ICQ, street address, city, state, postal code, country, Flicker Feed, third-party links, and avatar image. 
 
-Company will not sell, rent or lease your personally identifiable information to others without your consent, except as provided in this Privacy Policy. In general, the information you provide will be used to support your customer relationship with Company. 
+Third, when using this service, you may change your member profile, send messages to other members, receive messages from other members, form relationships, view photos, share photos, post blog comments, post links to other web sites (including web sites not controlled by Ground(ctrl)™), transmit information through various channels, participate in musician campaigns, earn points toward promotional items, and redeem those points for promotional items (collectively the “User Content”).
 
-We want to help you quickly find information regarding the Services on this Site and alert you to specific offers, updated information, and other new products and Services that are available. Accordingly, we may send you direct mailings or contact you by telephone about our various products and Services or other products and services we feel may be of interest to you. If you do not want to receive such mailings, simply “opt-out” by the means provided for (if any) in the mailings or by contacting [tou@ helloecho.com](mailto:tou@%20helloecho.com). 
+Children’s Online Privacy Protection Act of 1998
 
-Notwithstanding the foregoing, Company does research on our users’ demographics, interests and behavior based on the information provided to us during your use of this Site. This research is compiled and analyzed on an aggregated basis. Aggregated data does not include personally identifiable information. Company may share this aggregated data with others. Company also may combine your information with information we collect or receive from other companies and sources (such as demographic data) to improve and personalize our services.
+This privacy policy is provided in conformity with the Children’s Online Privacy Protection Act of 1998 (“COPPA”). COPPA requires that we notify parents and legal guardians and obtain consent from parents and legal guardians before we collect, use and/or disclose personal information from children under thirteen (13) years of age. 
 
-### 5\. What does “opt-out” mean?
+If parents or legal guardians have any questions regarding their child’s use of this web site, they may contact us at the address, phone number or email address provided at the end of this Privacy Policy. 
 
-To “opt-out” means that you have notified Company that we no longer have permission to use your information for a particular purpose. For example, when we send you information on a new product, you will be given the opportunity to “opt-out” of receiving such information in the future.
+The personal information we collect from children under thirteen (13) years of age, and the manner in which we use such information, is identical to the collection and use of any other member’s information. Please refer to sections entitled “The Information We Collect” and “How We Use the Information” for a detailed discussion of how we collect and use personal information from all members, including children under thirteen (13).
 
-### 6\. Who is collecting my information?
+As a means of verifying parental consent, we may require that verification be given to us in one of two ways. First, we may require permission by email from what we are told is the parent’s email address. Thereafter, we will respond to that email address to verify that we have received such permission. Second, we may require that the parent consent by providing us with their full name, a valid credit card number and an expiration date. We will not charge your credit card. We will merely use the information to confirm your consent and once verification is or is not made, we will immediately destroy such information. 
 
-Information is collected on the Site by or on behalf of Company. If data is being collected and/or maintained by any company other than Company or an agent for Company, you will be notified prior to the time of the data collection or transfer. If you do not want your data to be shared, you can choose not to allow the transfer by not using that particular Service or purchasing those particular goods.
+We do not require any additional information from children under thirteen (13) other than the minimum amount of information we need in order for the child to participate. Parents may review the personal information we collect on that parent’s child by mailing a request to us at the address listed at the end of this Privacy Policy. The parent, after reviewing such information from us, may have it deleted and/or refuse to allow further collection by sending us an email using the password sent with the physical file that we mail to you.
 
-Please be aware that advertisers that may have links on this Site may collect personal information about you through the use of cookies, JavaScript, Web beacons, and other technologies. Company does not have any control over or access to such technologies that may be used by these advertisers, and the information practices of those Web sites linked to this Site either through advertisements or other hyperlinks are not covered by this Privacy Policy. Company does not, however, provide any personally identifiable information about you to these advertisers.
+## Correcting, Updating or Removing Your Information
 
-### 7\. With whom does Company share my information?
+At any time, members can correct, update, or remove any of their personal information by logging into their account and accessing the “Edit Profile” feature. 
 
-Company may share the personal data you provide or the information gathered by Company to any party with your consent or, in any event, to Company subsidiaries, agents, contractors and our business partners. Company also may share information with the following groups: (a) affiliated business which Company does not control but with which it engages in joint and co-branded offerings, (b) third party service providers in order to facilitate the performance of only those functions which are assigned to them, such as website operation and maintenance, order fulfillment, data analysis, marketing assistance, provision of search results and links, credit card payment processing, and customer service, and (c) entities with which Company may merge or which may acquire all or substantially all of Company’s assets, as customer information likely will be one of the transferred assets. 
+## How We Use the Information
 
-In addition, Company believes it is necessary to share information in order to (x) investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, and violations of the Terms of Service, (y) respond to subpoenas, court orders, or legal process, and (z) establish or exercise our legal rights, or defend against legal claims, and as otherwise required by law. Except as provided above or in the event of a merger, consolidation, or sale of all or substantially all of Company’s assets, we will not share any of your information with any third party without your permission.
+We collect the personal information listed above so that we can provide you with personalized features and an enhanced and efficient web site experience. We usually retain this information so you can, for example, view messages you have already read or check campaign dates you are already aware of. You understand and acknowledge that copies of your User Content may remain viewable in cached and/or archived pages or if other members have copied and/or stored your User Content, even after your information has been removed.
 
-### 8\. How do I access, update or delete my information?
+When you sign up as a member to the network, you create your own profile. Your profile information, including your name and your photo are displayed to other members in the network so that you may interact and communicate with them. On occasion, we may use your name and email address to send you notifications about the network’s new services, promotional items, merchandise, band news, and transactions involving your accumulated points. Generally, you may opt out of such emails by clicking on the “unsubscribe” link in the email. However, the network expressly reserves the right to send you notices about your account even if you opt out of all voluntary email notifications. 
 
-You can request the individual information that Company has collected about you, correct factual inaccuracies in your information, remove personal information from Company’s databases and/or update your personal information here or by contacting [tou@ helloecho.com](mailto:tou@%20helloecho.com).
+Without identifying you as an individual, the network may provide third parties with information contained in your profile for data gathering purposes (ex: gathering data on how many members like both band A and band B so that personalized advertisements, promotions, etc. can be sent to those particular members). We believe that this information gathering allows each member to get the most out of the network’s benefits—i.e. the distribution of band information that, based on your profile, matters to you.
 
-### 9\. What else should I know about my privacy?
+## Sharing Your Information with Third Parties
 
-Third party Internet Web sites and services accessible through this Site have separate privacy and data collection practices, independent of us. Company has no responsibility or liability for these independent policies or actions. Please be careful and responsible online. If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. While we strive to protect your information, Company cannot ensure or warrant the security of any information through the transmission process, and any transmission by you of information is done at your own risk.
+This web site is about sharing information with others of your choosing, and a limited number of third parties, to enhance each member’s promotional and informational-sharing experience. Except as otherwise described in this Privacy Policy, the network does not disclose personal information to any third party unless the network believes that disclosure is necessary to:
 
-### 10\. Children.
+  1. enforce the network’s Terms and Conditions of Use Agreement;
+  2. protect the network’s rights;
+  3. coincide with legal requirements (ex: responding to a subpoena, search warrant, or any other legal process served upon Ground(ctrl)™). We will not reveal information until we have a good faith belief that the law enforcement information and/or private litigant request meets the applicable legal standards; 
+  4. protect the safety of it’s member; or
+  5. enhance each member’s promotional and informational-sharing experience. 
 
-The Site is not intended for use by children. We will not knowingly collect any personal information submitted by visitors to the Site who are under the age of 13.
 
-### 11\. Security.
 
-Company uses its best efforts to protect your personal information and, to that end, uses tools such as encryption, passwords, and physical security to protect your personal information against unauthorized access and disclosure. However, no website can be absolutely secure, and third parties may unlawfully intercept or access transmissions or private communications, and other users may abuse or misuse your personal information that they collect from this Site. Therefore, although Company works very hard to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain absolutely private.
+The network may provide services jointly with other companies and we may share customer information with that company in connection with your use of that service. 
 
-### 12\. Other legal notices.
+Your name, network names, and profile picture thumbnail will be available in search results across the network and those limited pieces of information may be made available to third party search engines. This is primarily so your friends can find you and send a friend request. People who see your name in searches, however, will not be able to access your profile information unless they have a relationship to you that allows access based on the privacy settings.
 
-Any dispute over privacy is subject to this Privacy Policy and our Terms of Service, including limitations on damages and application of the law of the State Tennessee.
+Ground(ctrl)™ expressly reserves the right to transfer personal information to a successor in interest that acquires the rights to that information as a result of the sale of Ground(ctrl)™, or the sale of a substantial portion of its assets to that successor in interest. 
 
-### 13\. Contact us
+## Third-Party Advertising
 
-If you have any concern about your privacy in connection with this policy, please send a thorough description to [tou @ helloecho.com](mailto:tou@helloecho.om), and we will try to resolve it.
+Advertising may appear on this web site and may be delivered to members by one of our web advertising partners. Those web advertising partners may download cookies to your computer that allow the ad server to recognize your computer each time they send you an online advertisement. The web advertising partners may also use other technologies such as JavaScript and “web beacons” (also known as “1x1 gifs”) to measure the effectiveness of their ads and to personalize advertising content. As a consequence, ad servers may compile information about where you, or others using your computer, saw their advertisements and determine which ads you, or others using your computer, clicked on. The purpose of this information is to allow an ad network to deliver targeted advertisements that they believe will interest you. This privacy policy covers the use of cookies by our network only and does not cover the use of cookies by any third-party advertiser.
 
-echomusic, LLC (echo)  
-1101 17th Ave S.  
-Nashville, TN 37212  
-p. 615-371-5119  
-f. 615-777-5119
+Comments, Blogs, Messages, and Links
+
+Please be aware that whenever you voluntarily post any information as a comment, blog, message, link, photo, video, and/or other information, that information can be accessed by the public and can then be used by those people to send you unsolicited communications. Additionally, if you post a link to your network web site on any third party site, your public profile will be viewable by any third party that clicks on your link. If you do not wish to have your public profile viewable to any third party, you should not post links to your network web site on third party sites. 
+
+This web site may contain links to other sites, including links posted by you or other members. We are not responsible for the privacy practices of other web sites. As such, we encourage our members to read the privacy statements of each and every web site they visit after clicking on these third-party links. This Privacy Policy applies solely to the information collected in the use of our network and this web site. 
+
+## Security
+
+Each member’s account is secured by a member-created password. The network employs reasonable measures to protect member information that is stored within our database, and we restrict the access to member information only to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. 
+
+Note: We cannot guarantee the security of each member’s account information as unauthorized entry or use, software or hardware failure, and other uncontrollable factors may compromise the security of each member’s personal information at any time. The network does, however, consider security of each member’s personal information a priority and we take reasonable security steps to protect that information. 
+
+Disclaimer of Liability for Unauthorized Viewing of Personal Information
+
+You post User Content, as described above, on this web site at your own risk. Despite our reasonable efforts to keep your User Content inaccessible to those not authorized to view it, be aware that no perfect security measure(s) exist to insure impenetrability. Additionally, we cannot control the actions of other members that you may choose to share your page and User Content with. We are not responsible for the circumvention of any privacy settings or security measures contained in this web site. Consequently, we cannot and do not guarantee that the User Content you provide and/or post on this web site will not be viewed by unauthorized individuals.
+
+Changes in the Privacy Policy’s Terms of Use, Notices and Revisions
+
+We may change this privacy policy from time to time. We reserve the right to change our Privacy Policy and our Terms of Use Agreement at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site. If we do make changes, we will post those changes and indicate at the top of this page the Privacy Policy’s new effective date.
+
+Through this process, members will always be aware of what information we collect, how we use it, and who we may disclose it to. Each member is bound by any change to this Privacy Policy if he or she uses the site after said changes have been posted. If, however, we change this Privacy Policy so that we are using personal information in a manner materially different from the manner as stated at the time of collection, we will notify the members here, by email, or through notice on our home page.
+
+Your use of this web site and our network, and any disputes arising from it, is subject to this Privacy Policy and our Terms of Use Agreement and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law. We strongly encourage you to refer to this Policy on an ongoing basis so that you understand the most current Privacy Policy terms. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. 
+
+## Contacting this Web Site
+
+If you have any questions regarding this Privacy Policy, the practices of this web site, or your dealings with this web site, please contact us at [support@groundctrl.com](mailto:support@groundctrl.com).
+
+ground(ctrl)™
+    
+
+1300 S. Street.
+
+Sacramento, CA 95814
+    1-877-GND-CTRL
