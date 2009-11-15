@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the globeofblogs.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618105924id_/http%3A//www.globeofblogs.com%3Fx%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globeofblogs.com privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115222810id_/http%3A//www.globeofblogs.com%3Fx%3Dprivacy) for the most accurate reproduction.*
 
 # Globe of Blogs
 
 ### Random Weblog
 
-[Diary of an Ad Man](http://diary-of-an-ad-man.blogspot.com/) ::: The blog journals the launch of a start-up communications agency in the Washington, DC metro area. Specifcally, founder Geoff Livingston discusses the progress of his efforts as he moves forward in the start up.  
+[One Player](http://one-player.blogspot.com/) ::: Just a player playing games!  
 
 
 ## Statement of Policy
