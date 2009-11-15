@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthcabin.net privacy policy that was archived on 2009-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090508125929id_/http%3A//www.healthcabin.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthcabin.net privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115090956id_/http%3A//www.healthcabin.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice : Healthcabin Electronic Cigarettes - Wholesale and Retail
 
