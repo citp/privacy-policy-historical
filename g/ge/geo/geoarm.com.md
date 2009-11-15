@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the geoarm.com privacy policy that was archived on 2009-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090514061457id_/http%3A//www.geoarm.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geoarm.com privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115121128id_/http%3A//www.geoarm.com/privacy.html) for the most accurate reproduction.*
 
-# GeoArm Security Systems - Privacy Policy
+# Privacy Policy | GeoArm Security Solutions
 
 Your privacy is very important to us. GeoArm prides itself in our commitment to the security of your data and the process by which we handle your personal information. This site has measures in place to protect against loss, misuse, and alteration of the information under our control. To better protect your privacy the following notice explains the information we collect, how it is used, how it is safeguarded, and how to contact us if you have any concerns.
 
@@ -13,8 +13,8 @@ Information that you submit is used to fill your order, to contact you in the ev
 If you have any questions about our privacy policy, or the safety and security of your data, please feel free to contact us at any time.
 
  **By Mail:**  
-GeoArm Security Inc.  
-1133 Old Okeechobee Rd.  
+GeoArm Security Solutions  
+1133 Old Okeechobee Road  
 West Palm Beach, FL 33401
 
  **By Phone:**  
