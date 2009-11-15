@@ -1,23 +1,26 @@
-> *The following text is extracted and transformed from the westfield.com.au privacy policy that was archived on 2007-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070915204040id_/http%3A//westfield.com/aucentres/site/yourprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westfield.com.au privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115153837id_/http%3A//westfield.com.au/aucentres/site/yourprivacy) for the most accurate reproduction.*
 
 # Westfield - Your Privacy
-
-Your Privacy 
 
 Westfield recognises the trust you are placing in us through your dealings with us. We are committed to the protection of your personal information. Our policies comply with our legal obligations and are intended to protect your privacy in respect of any personal information that you may provide to us.
 
 ## What information we collect and why
 
-When you become a registered user of westfield.com, in particular when you subscribe to Westfield's Email Newsletters service, we ask for: 
+When you become a registered user of westfield.com, in particular when you subscribe to Westfield's Email Newsletters service, we ask for:
 
-       \- your name and
+  * your name and
+  * your email address.
 
-       \- your email address.
+
 
 On the site we invite you to:
 
-       \- submit your Resume to us for consideration of job vacancies  
-       \- tell us about your shopping experiences at Westfield by completing a customer service survey.
+  * submit your Resume to us for consideration of job vacancies
+
+  * tell us about your shopping experiences at Westfield by completing a customer service survey.
+
+
+
 
 If you submit your Resume to us, we will keep it in a database for consideration of particular jobs that arise within Westfield.
 
@@ -106,6 +109,6 @@ We will try to satisfy any privacy questions that you have and correct any error
 
 This privacy policy relates to our current privacy standards. We may vary our privacy policy from time to time. We will notify you of any changes by publishing the latest policy from time to time on our site.
 
-  * [ \- General Privacy Policy ](https://web.archive.org/site/yourprivacy/GeneralPrivacyPolicy.html)
+  * [ General Privacy Policy ](https://web.archive.org/site/yourprivacy/GeneralPrivacyPolicy.html)
 
 
