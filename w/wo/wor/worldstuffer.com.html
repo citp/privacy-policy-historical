@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the worldstuffer.com privacy policy that was archived on 2009-05-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090515014832id_/http%3A//www.worldstuffer.com/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the worldstuffer.com privacy policy that was archived on 2009-11-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091115184152id_/http%3A//www.worldstuffer.com/page/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<base href="www.worldstuffer.com">
@@ -11,7 +11,28 @@
 	<meta name="Description" content="Privacy Policy Page Free Local Classifieds and Social Networking Site in your city">
 	<title>Worldstuffer | Privacy Policy Page Free Local Classifieds and Social Networking Site</title>
 	<link href="/style/layout.css" rel="stylesheet" type="text/css">
-	<script src="/script.js" runat="server" type="text/javascript" charset="utf-8"></script>
+	<script src="/script.js" type="text/javascript"></script>
+	<script src="/libs/jquery/jquery.js" type="text/javascript"></script>
+	<script src="/libs/tween/tween.js" type="text/javascript"></script>
+	<script src="/libs/jquery/dragsort/dragsort-0.2.js" type="text/javascript"></script>
+	
+	<script type="text/javascript">
+	var open_comments;
+	var close_comments;
+	$(document).ready(function()
+	{
+		if (document.getElementById("collapsible_comment"))
+		{
+			open_comments = new Tween(document.getElementById("collapsible_comment").style, "height", Tween.strongEaseOut, 0, 235, 1, "px");
+			close_comments = new Tween(document.getElementById("collapsible_comment").style, "height", Tween.strongEaseOut, 235, 0, 1, "px");
+			
+			open_comments.onMotionChanged = function()
+			{
+				window.scrollTo(0, document.body.scrollHeight + document.body.clientHeight);
+			}
+		}
+	});
+	</script>
 </head>
 
 <body>
@@ -27,18 +48,18 @@
 		<td colspan="5"></td>
     </tr>
 	<tr>
-		<td colspan="5" valign="bottom" style="width:100%; height:41px;">
+		<td colspan="5" style="width:100%; height:41px;">
 			<table style="width:100%; " cellspacing="0" cellpadding="0">
 				<tbody><tr class="headLine">
 
 						<td width="100%">
-								<table vertical-align="middle">
+								<table>
 										<tbody><tr>
 											<td class="currentCity" style="padding-left:6px; text-align:left;">
 												<nobr>
 													<h1>																								
 													Free Classifieds in
-													Seattle													
+													Seattle												
 													</h1>
 												</nobr>
 													</td><td class="yellowButtonSmall" style="padding-left:4px; vertical-align:middle; text-align:left;">
@@ -104,11 +125,11 @@
 			<table>
 				<tbody><tr>
 					<td>
-						<div class="catalogItems" style="font-weight: normal; width: 100%; text-align: left">
+						<div class="catalogItems" style="font-weight: normal; width: 100%; text-align: left;">
 <p><strong>Privacy Policy</strong></p>
 <p>This privacy policy explains the way WorldStuffer website collect, store, use, share and protect users’ personal information.</p>
-<p><strong>Collection</strong></p>
-<p>Information posted on WorldStuffer is publicly available. Therefore, if you choose to provide us with personal information, you are accepting to the transfer and storage of that information on our servers. <br>
+<p><strong>Collection</strong><br>
+Information posted on WorldStuffer is publicly available. Therefore, if you choose to provide us with personal information, you are accepting to the transfer and storage of that information on our servers. <br>
 We collect and store the following personal information: <br>
 • email address, personal contact information<br>
 • login information, including users IP address<br>
@@ -116,12 +137,12 @@ We collect and store the following personal information: <br>
 • statistics on page views<br>
 • all classifieds, events, forum postings, account page and profiles are stored in our database</p>
 <p>We collect information from your browser using "cookies." A cookie is a piece of data stored on the computer maintaining user’s information. We use session ID cookies to verify that users are logged in. You can remove or block this cookie using the browser settings.</p>
-<p><strong>Use</strong></p>
+<p><strong>Use</strong><br>
 We use users’ personal information to:<br>
 • provide our services <br>
 • support safe trading and enforce our policies<br>
 • resolve disagreements and other problems<br>
-• develop new features and services and inform users about updates
+• develop new features and services and inform users about updates</p>
 <p>We store user’s emails for registration approval, passwords recovery, ads and events posting and expiry notifications. Site also informs through emails about:<br>
 • comments to your ads, events, profile and images received from other users;<br>
 • received messages<br>
@@ -130,39 +151,38 @@ We use users’ personal information to:<br>
 <br>
 Registered users can create their own profiles and privacy settings. When you agree to make your profile active, your name, age and profile picture thumbnail will be available for users. Detailed information in your profile will be available only for registered users. There are two ways to participate in forums and discussions, post your ads or events: using nickname or full name linked to your profile.</p>
 <p>If you choose to use our invitation service to tell a friend about Worldstuffer, we will ask you for your friend's email address needed to send the invitation. We will send your friend an email in your name inviting you friend to visit the site.</p>
-<p><strong>Protection</strong></p>
+<p><strong>Protection</strong><br>
 • your account information is password-protected. Keep always your password safe<br>
 • we or other users may provide links to third party websites, which have different privacy policies. We are not responsible for the privacy policies of those third party websites, and suggest to all users to read the privacy policies of every visited websites. <br>
-• please do not share any personal information with WorldStuffer that you want to keep private
-<p>&nbsp;</p>
-<p>Although we use lots of tools to protect your personal information, we cannot guarantee complete security.<br>
+• please do not share any personal information with WorldStuffer that you want to keep private</p>
+<p>&nbsp;Although we use lots of tools to protect your personal information, we cannot guarantee complete security.<br>
 We cannot control the actions of other users, we cannot and do not guarantee that information you post on the site will not be viewed by unauthorized persons. You should know and realize that even removed data may be viewable in cached and archived or copied pages.</p>
-<p>Disclosure<br>
+<p><strong>Disclosure</strong><br>
 We don’t share users personal information to third parties for any marketing purposes without users permission. We may reveal personal data to respond to legal requirements; react to claim postings or any content against anyone’s rights, property, or safety. We may also disclose personal information to:<br>
 • corporate affiliates who help detect and prevent potentially illegal acts and provide joint services with users permission<br>
 • service providers who help with our business operations</p>
 <p>Please keep in mind that if you disclose personal information in your profile or when posting comments, pictures or other items, this information may become publicly available and you share it at your own risk.</p>
-<p>Using Information from WorldStuffer<br>
+<p><strong>Using Information from WorldStuffer</strong><br>
 You may not use personal information taken from WorldStuffer to send spam or collect personal information from user without his/her permission.</p>
 <p>Worldstuffer limits access to site information by third party search engine "crawlers" (e.g. Google, Yahoo, MSN, Ask). Worldstuffer takes action to block access by these engines to personal information beyond your name, profile picture, age and city.</p>
-<p>Children under Age 13<br>
+<p><strong>Children under Age 13</strong><br>
 WorldStuffer does not knowingly collect personal information from anyone under the age of 13. If you are under 13, please do not register with WorldStuffer or send any information about yourself to us. In case we find out that we have collected personal information from a child under age 13, that information will be deleted as quickly as possible.</p>
-<p>Children between the Ages of 13 and 18<br>
+<p><strong>Children between the Ages of 13 and 18</strong><br>
 We advise minors over the age of 13 ask their parents for permission to send personal information to Worldstuffer.</p>
-<p>International Users<br>
+<p><strong>International Users</strong><br>
 By visiting our international web site, you acknowledge and agree that Worldsuffer may use your shared data outside your resident jurisdiction in conjunction with our policy. By providing us with your data, you agree to the transfer of such data.</p>
-<p>Changing or Removing Information<br>
+<p><strong>Changing or Removing Information</strong><br>
 Worldstuffer users may access any of their profile information at any time by logging into their account and modify or delete data using profile editing tools. Information will be updated immediately. Users may deactivate their profiles on the Account or remove their account completely.</p>
-<p>General<br>
+<p><strong>General</strong><br>
 We reserve the right to change our Privacy Policy at any time with updates taking effect when you next post or within 30 days of its posting on this site.</p>
-<p>Other Posting Policies:<br>
+<p><strong>Other Posting Policies:</strong><br>
 It’s not eligible to post the link to another web site for only purpose of directing visitors to that web site. However, you may include a link in your post if it gives more information about the offered item.</p>
-<p>Worldstuffer Policies</p>
-<p>The following actions are prohibited on Worldstuffer:<br>
+<p><strong>Worldstuffer Policies</strong><br>
+The following actions are prohibited on Worldstuffer:<br>
 • Posting an item for sale that is:<br>
-not located in you city<br>
-illegal to own, buy or sell in your area of residence<br>
-in the prohibited items list<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • not located in you city<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • illegal to own, buy or sell in your area of residence<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • in the prohibited items list<br>
 • Posting multiple Ads with too similar content <br>
 • Posting a multi-level marketing or other prohibited job<br>
 • Posting an Ad which defames anyone or contains abusive content <br>
@@ -171,7 +191,7 @@ in the prohibited items list<br>
 <p>Any Ads or users that do not accept the Worldstuffer Policy will be removed from the site. <br>
 You may not buy or sell items or services that are illegal to own, buy or sell in your area of residence or that are not bought or sold in compliance with laws.<br>
 You are responsible for keeping within the local laws relating to the item you buy or sell.</p>
-<p>The following general list of items is prohibited on Worldstuffer, list may vary with applicable laws and regulations in your area of residence:<br>
+<p><strong>The following general list of items is prohibited on Worldstuffer, list may vary with applicable laws and regulations in your area of residence:</strong><br>
 • Alcoholic Beverages <br>
 • Blood, Bodily Fluids and Body Parts <br>
 • Burglary Tools<br>
@@ -196,34 +216,33 @@ You are responsible for keeping within the local laws relating to the item you b
 • Tobacco Products <br>
 • Used Cosmetics <br>
 • Weapons and related items (such as firearms, firearm parts and magazines, ammunition, BB and pellet guns, tear gas, stun guns, switchblade knives, and martial arts weapons)</p>
-<p>The following types of Job ads are prohibited on the site:<br>
+<p><strong>The following types of Job ads are prohibited on the site:</strong><br>
 • Multi-level marketing or pyramid schemes<br>
 • Business or job opportunities that require upfront or periodic payments <br>
 • Ads that are not clear regarding what type of work would be required</p>
-<p>Other Posting Policies:<br>
+<p><strong>Other Posting Policies:</strong><br>
 It’s not eligible to post the link to another web site for only purpose of directing visitors to that web site. However, you may include a link in your post if it gives more information about the offered item.</p>
-<p>Worldstuffer Safety Tips</p>
-<p>One of the best ways to avoid becoming a victim of fraud is to make sure that all deals take place locally and in-person.</p>
+<p><em><strong>Worldstuffer Safety Tips</strong></em><br>
+One of the best ways to avoid becoming a victim of fraud is to make sure that all deals take place locally and in-person.</p>
 <p>You should take the following recommendations: <br>
 • When buying or selling, you should meet in-person to see the product and exchange funds. <br>
 • Do not ever send or wire money to sellers. Do not ever send a cheque or use payment services (e.g. Western Union, Bidpay or Money Gram) to pay for items found on Worldstuffer. <br>
 • Worldstuffer does not offer any sort of buyer protection programs or secure payment systems. If you receive any emails promoting these services, please contact us. <br>
 • Do not ever provide your financial or banking information to others over the Internet. <br>
 • In case of fraud, inform police and contact us.</p>
-<p>Common scams and fraud: <br>
+<p><em><strong>Common scams and fraud: </strong></em><br>
 • You may get an email as if from Worldstuffer, Western Union or another company claiming those sites offer buyer protection or online payment systems. They usually ask for money transfer using this site or provide personal information. Worldstuffer never send out such emails and if you send money relying on this email, you most likely sending money to the scammers. <br>
 • You may receive a cheque and then ask for money to be returned to them. Often the cheque could be rejected and you lose any money you sent.<br>
 • A seller claims that import duties or other such fees required getting an item into your country. Do not pay such fees otherwise you will probably never get the product and lose any money you paid. We encourage you to make all the deals locally and in-person.<br>
 • A buyer or seller suggests using an escrow service to complete the transaction. Often these escrow web sites are run by fraudsters and they take your money and never get the product. <br>
 • An ad promises you can make a money working from your home. The information, your received, generally tells you how to set up a similar scam to trick other people.<br>
 • You receive an email from a foreign official or attorney. They ask you to send money in return for a large lump sum being transferred to your bank account. Once you pay you will never hear from them again.</p>
-<p>How to report scams and fraud: <br>
+<p><em><strong>How to report scams and fraud: </strong></em><br>
 • If you find an ad on the Worldstuffer site that you suspect is scam, illegal, or otherwise violate Worldstuffer policies, please contact us. <br>
 • If you reply to an ad and the person who posted the ad emails you with a suspicious request, please stop all communications with that person and contact us.<br>
 • If you are the victim of fraud, inform Worldstuffer and your local police service.</p>
-<p>Feedback<br>
+<p><strong>Feedback</strong><br>
 We welcome your feedback on this document or if you have any other security questions that aren't answered above, please contact us.</p>
-<p>&nbsp;</p>
 </div>
 					</td>
 				</tr>
@@ -264,6 +283,19 @@ We welcome your feedback on this document or if you have any other security ques
 							</tr>
 						</tbody></table>
 					</div>
+					<div style="float:left; clear:none;">
+						<table cellspacing="0" cellpadding="0" style="width:auto;">
+							<tbody><tr>
+								<td style="text-align:left; padding-left:5px;">									
+										<a href="http://www.facebook.com/worldstuffer"><img src="/style/Worldstuffer_facebook.gif " alt="Join Us on Facebook.com" height="16"></a>
+									</td>
+									<td style="text-align:left; padding-left:10px;">
+										<a href="http://www.twitter.com/worldstuffer"><img src="/style/Worldstuffer_twitter.gif " alt="Join Us on Twitter.com" height="15"></a>
+									</td>
+								
+							</tr>
+						</tbody></table>
+				   </div>
 					<div style="float:right; clear:none;">
 						<table cellspacing="0" cellpadding="0" class="footerTable" style="width:auto;">
 							<tbody><tr>
@@ -283,7 +315,7 @@ We welcome your feedback on this document or if you have any other security ques
 			<table>
 				<tbody><tr><td style="color: #FFFFFF">
 	
-					Generated in 0.784610033035 seconds
+					Generated in 1.35425901413 seconds
 				</td>
 			</tr></tbody></table>
 		
@@ -299,7 +331,6 @@ try {
 var pageTracker = _gat._getTracker("UA-7671004-1");
 pageTracker._trackPageview();
 } catch(err) {}</script>
-
 
 
 
