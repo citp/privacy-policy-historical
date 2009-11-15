@@ -1,13 +1,12 @@
-<!--The following is the downloaded HTML source of the desihits.com privacy policy that was archived on 2009-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090605193912id_/http%3A//www.desihits.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the desihits.com privacy policy that was archived on 2009-11-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091115201005id_/http%3A//www.desihits.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<!--	<script type="text/javascript" src="http://www.desihits.com/assets/js/jquery/jquery-1.3.2.js"></script>  -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head>
 <script type="text/javascript" src="http://static.desihits.com/assets/js/jquery/jquery-1.3.2.js"></script>
-	<script type="text/javascript">
-var jQ = jQuery.noConflict();
-	</script>
-	<script type="text/javascript" src="http://static.desihits.com/assets/js/jquery/jquery.simplemodal-1.2.3.js"></script>
+<script type="text/javascript">
+   var jQ = jQuery.noConflict();
+</script>
+<script type="text/javascript" src="http://static.desihits.com/assets/js/jquery/jquery.simplemodal-1.2.3.js"></script>
 <link rel="SHORTCUT ICON" href="http://www.desihits.com/favicon.ico" type="image/x-icon">
 <link rel="alternate" type="application/rss+xml" title="Desi Hits! RSS" href="http://www.desihits.com/rss/feed/1">
 <link rel="stylesheet" type="text/css" href="http://www.desihits.com/assets/css/main.css">
@@ -18,8 +17,25 @@ var jQ = jQuery.noConflict();
 <meta name="keywords" content="">
 <meta name="robots" content="index,follow">
 <meta http-equiv="revisit-after" content="1 days">
+<!--
+<script type="text/javascript" src="http://www.desihits.com/assets/js/jquery/jquery.ui.draggable.js"></script>
+<script type="text/javascript" src="http://www.desihits.com//assets/js/jquery/jquery.imgareaselect-0.8.min.js"></script>
+<script type="text/javascript" src="http://www.desihits.com//assets/js/jquery/jquery.ocupload-1.1.2.packed.js"></script>
+<script type="text/javascript" src="http://www.desihits.com/assets/js/jquery/jquery.blockUI.js"></script>
+<script type="text/javascript" src="http://www.desihits.com/assets/js/jquery/jquery.form.js"></script>
 <script type="text/javascript" src="http://static.desihits.com/assets/js/prototype-1.6.0.2.001.js"></script>
 <script type="text/javascript" src="http://www.desihits.com/assets/js/util.js"></script>
+-->
+<script type="text/javascript" src="http://static.desihits.com/assets/js/jquery/jquery.ui.draggable.js"></script>
+<script type="text/javascript" src="http://static.desihits.com/assets/js/jquery/jquery.imgareaselect-0.8.min.js"></script>
+<script type="text/javascript" src="http://static.desihits.com/assets/js/jquery/jquery.ocupload-1.1.2.packed.js"></script>
+<script type="text/javascript" src="http://static.desihits.com/assets/js/jquery/jquery.blockUI.js"></script>
+<script type="text/javascript" src="http://static.desihits.com/assets/js/jquery/jquery.form.js"></script>
+<script type="text/javascript" src="http://static.desihits.com/assets/js/prototype-1.6.0.2.001.js"></script>
+<script type="text/javascript" src="http://www.desihits.com/assets/js/util.js"></script>
+<meta name="verify-v1" content="bkxVWtPMeJuQmdPaRydmpwSTrgdBpVkLjR+IbP4Cca4=">
+
+
 <script type="text/javascript">
 /*<![CDATA[*/
 var MTA=1;
@@ -31,12 +47,132 @@ var BU='http://www.desihits.com/';
 var BIU='http://static.desihits.com/assets/images/static/';
 var BPU='http://images.desihits.com/assets/images/';
 var MT=0;
+var FAID = 'e72a57d7ae32912c36b94647c32bfcfa';
 /*]]>*/
 </script>
 <!-- <script src="http://static.getclicky.com/8264.js" type="text/javascript"></script> -->
 <!-- Start Quantcast tag -->
 <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
 <!-- End Quantcast tag -->
+<script language="javascript">
+// function for the confirmation dialog of Become a Fan
+function openConfirmation(login_status,id,url)
+{
+	if(login_status!="")
+	{
+		jConfirm('Are you want to Become a Fan?', 'Confirmation Dialog', function(x){
+			if(x)
+			{
+				// Calling of ajax function 
+				becomeFan(id,url);
+			}
+		});
+	}
+	else
+	{
+		jConfirm('Please login to become a fan', 'Confirmation Dialog', function(x){
+			if(x)
+			{
+				// Calling of ajax function 
+				window.location='http://www.desihits.com/user/signin_form';
+			}
+		});
+	}
+}
+// function for Become a Fan
+function becomeFan(id,url)
+{
+	var pageUrl = url;
+	var str = "id="+id;
+	// showing loading icon
+	J('#mybody').block('<img src="http://www.desihits.com/assets/images/static/loadingAnimation.gif"', { border: '2px solid #000', width: '223px', color: '#000000', height: '12px' });
+
+	var myAjax = new Ajax.Request(
+	pageUrl,
+	{
+		method: 'post',
+		parameters: str,
+		onComplete: processUpdate
+	});
+}
+// function for the updating follower
+function update_follow(nickname,action,return_url)
+{
+	var pageUrl = "http://www.desihits.com/user/update_follow/"+nickname;
+	var str = "action=" + action + "&return_url=" +return_url;
+	//alert(str);
+	J('#mybody').block('<img src="http://www.desihits.com/assets/images/static/loadingAnimation.gif"', { border: '2px solid #000', width: '223px', color: '#000000', height: '12px' });
+
+	var myAjax = new Ajax.Request(
+	pageUrl,
+	{
+		method: 'post',
+		parameters: str,
+		onComplete: processUpdate
+	});
+}
+//this is the common return function for become a fan and updateign followers
+function processUpdate(originalRequest)
+{
+	var msg=originalRequest.responseText;
+	var arr=msg.split("999xxx");
+	//alert(msg);
+	//for normal message
+	if((arr[0]=="1")||(arr[0]=="2"))
+	{
+		jAlert(arr[1], 'Alert Dialog', function(x){
+			if(x)
+			{
+				J('#mybody').unblock(); 
+			}
+		});
+	}
+	// asking for login
+	else if(arr[0]=="3")
+	{
+		jAlert(arr[1], 'Alert Dialog', function(x){
+			if(x)
+			{
+				// redirect to the login page
+				window.location='http://www.desihits.com/user/signin_form';
+			}
+		});
+	}
+	// after follwer addition
+	else if(arr[0]=="4")
+	{
+		jAlert('Follower has been added into your follower list', 'Alert Dialog', function(x){
+			if(x)
+			{
+				// redirect to the profile page
+				window.location='http://www.desihits.com/'+arr[1];
+			}
+		});
+	}
+	// after follwer deletion	
+	else if(arr[0]=="5")
+	{
+		jAlert('Follower has been deleted from the list', 'Alert Dialog', function(x){
+			if(x)
+			{
+				// redirect to the profile page
+				window.location='http://www.desihits.com/'+arr[1];
+			}
+		});
+	}
+	// other unwanted error
+	else
+	{
+		jAlert('System is busy now. Please try later.', 'Alert Dialog', function(x){
+			if(x)
+			{
+				J('#mybody').unblock(); 
+			}
+		});
+	}
+	
+}
+</script>
 </head>
 <body id="privacy">
 <script type="text/javascript">
@@ -53,7 +189,7 @@ _qacct="p-66fpcpQ8CdKsc";quantserve();
 		<div class="panel_links_top">
 			<div class="panel_links_top2">
 				<ul>
-					<li id="login_msg"><a href="http://www.desihits.com/user/signup" title="Register Free DesiHits account">Sign Up</a> / <a href="http://www.desihits.com/user/signin_form" title="Sign in">Sign in</a></li>
+					<li><span id="login_msg"><span><a href="http://www.desihits.com/user/signup">Sign up</a> / <a href="http://www.desihits.com/user/signin_form">Sign in</a></span>&nbsp;&nbsp;|&nbsp;&nbsp;You can also&nbsp;&nbsp;<fb:login-button size="medium" length="long"></fb:login-button></span></li>
 					<li class="mdleftbd"><a href="http://www.desihits.com/contact" title="Contact us">Contact us</a></li>
 					<li class="mdleftbd"><a href="http://www.desihits.com/rss/feed/1" title="Subscribe to RSS">Subscribe <img src="http://static.desihits.com/assets/images/static//icon_rss.jpg" alt="" title=""></a></li>
 				</ul>
@@ -67,7 +203,7 @@ _qacct="p-66fpcpQ8CdKsc";quantserve();
 		<!-- LOGO old masthead -->
 		<div class="panel_logo">
 			<div class="flo"><a href="http://www.desihits.com/"><img src="http://static.desihits.com/assets/images/static//desihits-logo.gif" alt="Desihits.com Home"></a></div>
-			<div class="search">
+	  		<div class="search">
 				<div class="panel_search">
 					<div class="panel_input">
 						<form action="http://www.desihits.com/search" name="global_search" id="global_search" method="post">
@@ -76,7 +212,7 @@ _qacct="p-66fpcpQ8CdKsc";quantserve();
 					</div>
 					<div class="btn" onmouseover="this.className='btn_over'" onmouseout="this.className='btn'" onclick="search('global_search')">Search</div>
 				</div>
-			</div>
+			</div> 
 			<br class="clear">
 		</div>
 		<!--LOGO ENDS old masthead -->
@@ -175,20 +311,20 @@ _qacct="p-66fpcpQ8CdKsc";quantserve();
 
 <div class="c2cc2">
 <!-- <div class="static-cc2">  -->
-	<div class="cc2mod3">
-<script type="text/javascript"><!--
-google_ad_client = "pub-0300828911492096";
-/* 3rd bottom ad - 336x280, created 3/17/09 */
-google_ad_slot = "4538881589";
-google_ad_width = 336;
-google_ad_height = 280;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>
-</div><!-- cc2mod3 -->
-	<div class="cc2mod2"><!-- Jai Ho Video Banner -->
-		<a href="http://www.desihits.com/blog/article/nicole-scherzinger-reveals-why-she-never-wanted-to-do-the-jai-ho-remix-20090320" title="AR Rahman and the Pussycat Dolls Remix Jai Ho Video"><img src="http://static.desihits.com/assets/images/banners//banner_nicole.jpg" alt="AR Rahman and the Pussycat Dolls Remix Jai Ho Video" title="AR Rahman and the Pussycat Dolls Remix Jai Ho Video"></a>
+				<div class="cc2mod3">
+			<script type="text/javascript"><!--
+			google_ad_client = "pub-0300828911492096";
+			/* 3rd bottom ad - 336x280, created 3/17/09 */
+			google_ad_slot = "4538881589";
+			google_ad_width = 336;
+			google_ad_height = 280;
+			//-->
+			</script>
+			<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+			</script>
+			</div><!-- cc2mod3 -->
+		 	<div class="cc2mod2">
+	<a href="http://www.vanityfair.com/online/style/2009/10/desi-hits-lights-up-new-york-city.html" target="_blank" title="Vanity Fair Dishes on Desi Hits Diwali Party"><img src="http://static.desihits.com/assets/images/banners//diwaliPartyBanner.jpg" alt="Vanity Fair Dishes on Desi Hits Diwali Party" title="Vanity Fair Dishes on Desi Hits Diwali Party"></a>
 </div><!-- cc2mod2 -->	<div class="cc2mod3">
 	<script type="text/javascript"><!--
 google_ad_client = "pub-0300828911492096";
@@ -201,29 +337,23 @@ google_ad_height = 280;
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
 </div><!-- cc2mod3 -->
-	<div class="cc2mod2"><!-- Jai Ho Banner -->
-		<a href="http://www.desihits.com/blog/article/ar-rahman-and-pussycat-dolls-remix-jai-ho-20090223" title="AR Rahman and the Pussycat Dolls Remix Jai Ho"><img src="http://static.desihits.com/assets/images/banners//jai-ho-banner01.jpg" alt="AR Rahman and the Pussycat Dolls Remix Jai Ho" title="AR Rahman and the Pussycat Dolls Remix Jai Ho"></a>
-</div><!-- cc2mod2 --></div>		<div class="divider"><!--  --></div>
+	<div class="cc2mod2"><!-- Gym Class Heroes  -->
+		<a href="http://www.desiwear.com" title="desiwear"><img src="http://static.desihits.com/assets/images/banners/dw_322x277_03.jpg" alt="Bayje"></a>
+</div><!-- cc2mod2 -->
+</div>		<div class="divider"><!--  --></div>
 		
 		<div class="footer" id="footer">
 			<div style="margin:0 0 1px 0;">
-		<!--		class="menu" onmouseover="this.className='menu_over'" onmouseout="this.className='menu'"	onClick="javascript:location.replace('http://www.desihits.com/channel/urban')">Urban Desi</div><span> | </span>
-			<div class="menu" onmouseover="this.className='menu_over'" onmouseout="this.className='menu'"	onClick="javascript:location.replace('http://www.desihits.com/channel/bollywood')">Bollywood</div>
-		</div>	
-		-->
-				<a href="http://www.desihits.com/">Desi Hits! Home</a><span> | </span> <a href="http://www.desihits.com/channel/urban">Urban Desi</a><span> | </span> <a href="http://www.desihits.com/channel/bollywood">Bollywood</a><span> | </span> <a href="http://www.desihits.com/channel/bhangra">Bhangra</a><span> | </span> <a href="http://www.desihits.com/channel/block">HipHop/R&amp;B</a><span> | </span> <a href="http://www.desihits.com/channel/mix">The Mix</a><span> | </span> <a href="http://www.desihits.com/video">Video</a><span> | </span> <a href="http://www.desihits.com/radio">Radio</a><span> | </span> <a href="http://www.desihits.com/photo">Photos</a><span> | </span> <a href="http://www.desihits.com/celebs/category/moviestar">Celebs</a><span> | </span> <a href="http://www.desihits.com/movies">Movies</a> |  <a href="http://www.desihits.com/celebs/category/artist">Artists</a> |  <a href="http://www.desihits.com/free_downloads">Free Music</a> |  <a href="http://www.desihits.com/itunes">iTunes Store</a>
+				<a href="http://www.desihits.com/">Desi Hits! Home</a><span> | </span> <a href="http://www.desihits.com/channel/urban">Urban Desi</a><span> | </span> <a href="http://www.desihits.com/channel/bollywood">Bollywood</a><span> | </span> <a href="http://www.desihits.com/channel/bhangra">Bhangra</a><span> | </span> <a href="http://www.desihits.com/channel/block">HipHop/R&amp;B</a><span> | </span> <a href="http://www.desihits.com/channel/mix">The Mix</a><span> | </span> <a href="http://www.desihits.com/video">Video</a><span> | </span> <a href="http://www.desihits.com/radio">Radio</a><span> | </span> <a href="http://www.desihits.com/photo">Photos</a><span> | </span> <a href="http://www.desihits.com/celebs/category/moviestar">Celebs</a><span> | </span> <a href="http://www.desihits.com/movies">Movies</a><span> | </span> <a href="http://www.desihits.com/celebs/category/artist">Artists</a><span> | </span> <a href="http://www.desihits.com/free_downloads">Free Music</a><span> | </span> <a href="http://www.desihits.com/itunes">iTunes Store</a>
 					</div>
-		
-			<div><a href="http://www.desihits.com/about">About Us</a><span> | </span> <a href="http://www.desihits.com/contact">Contact Us</a><span> | </span> <a href="http://www.desihits.com/dmca">DMCA</a><span> | </span> <a href="http://www.desihits.com/privacy">Privacy Policy</a><span> | </span> <a href="http://www.desihits.com/terms">Terms of Use</a>
+					<div><a href="http://www.desihits.com/about">About Us</a><span> | </span> <a href="http://www.desihits.com/press_features">Press Page</a><span> | </span> <a href="http://www.desihits.com/contact">Contact Us</a><span> | </span> <a href="http://www.desihits.com/dmca">DMCA</a><span> | </span> <a href="http://www.desihits.com/privacy">Privacy Policy</a><span> | </span> <a href="http://www.desihits.com/terms">Terms of Use</a>
 			</div>
-			<div>Copyright © 2009 Desi Hits! Inc. All rights reserved.</div>
-		<!--	<img src="http://tracking.percentmobile.com/pixel/70ff2d48-345b-11de-bd00-12313900c5b8" alt="." width="2" height="2" />  -->
+			<div>Copyright © 2009 Desi Hits! Inc. All rights reserved. - us - http://www.desihits.com/</div>
 		</div>
 		</div>
 	</div>
 	<!--MAIN PANEL ENDS old wrapper id-->
 </div> <!-- wrapper -->
-<!-- Begin: 4q.iperceptions.com <script src="http://4qinvite.4q.iperceptions.com/1.aspx?sdfc=ce4c4293-5175-09986b35-8eb5-4b79-a2cd-f775b6072e56&lID=1&loc=4q-web1" type="text/javascript" defer="defer" ></script> End: 4q.iperceptions.com -->    
 <!-- Start of Google Analytics Embed -->
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -234,8 +364,24 @@ var pageTracker = _gat._getTracker("UA-1028957-2");
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>
- <!-- End of Google Analytics Code -->	
- 
+<!-- End of Google Analytics Code -->
+
+<script type="text/javascript">
+window.onload=execOnloadFuncs;
+</script>
+<script type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php"></script>
+<script type="text/javascript">
+FB_RequireFeatures(["XFBML","Connect"], function() {
+	FB.init(FAID, "/xd_receiver.htm", {"ifUserConnected" : postFBLogin});
+});
+</script>
+<!-- vzSense -->
+<script type="text/javascript" src="http://vizisense.net/pixel.js"></script>
+<script type="text/javascript">_vz_accountID="CDSahIq4DaudatBJDbEicg=="; if(typeof(_vz_sense) == "function") _vz_sense();</script>
+<noscript>
+  <img src="http://vizisense.net/cgi-bin/trail.fcgi?accountID=CDSahIq4DaudatBJDbEicg==&isScript=false" style="display: none;" border="0" height="1" width="1" alt="vzSense"/>
+</noscript>
+<!-- /vzSense -->
 
 
 </body></html>
