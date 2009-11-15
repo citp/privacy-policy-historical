@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flashgamespy.com privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505061838id_/http%3A//www.flashgamespy.com/index.php%3Fpageid%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashgamespy.com privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115010828id_/http%3A//www.flashgamespy.com/index.php%3Fpageid%3D2) for the most accurate reproduction.*
 
-# Flash Game Spy - Privacy Policy
+# Privacy Policy // FlashGameSpy.com
 
 WEB ENTERTAINMENT PRODUCTIONS, INC. PRIVACY POLICY
 
