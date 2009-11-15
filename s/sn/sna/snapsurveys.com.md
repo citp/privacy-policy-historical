@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapsurveys.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616171013id_/http%3A//www.snapsurveys.com/legal/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapsurveys.com privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115165506id_/http%3A//www.snapsurveys.com/legal/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
