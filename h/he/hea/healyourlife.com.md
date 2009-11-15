@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healyourlife.com privacy policy that was archived on 2009-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090512044859id_/http%3A//www.healyourlife.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healyourlife.com privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115134613id_/http%3A//www.healyourlife.com/index/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Heal Your Life
+# Privacy - Heal Your Life
 
 ## your PRIVACY
 
@@ -24,8 +24,8 @@ Carlsbad, CA 92018-5100
 (800) 654-5126
 
   
-[](https://web.archive.org/members/login)
+[](https://web.archive.org/mylife/login)
 
-[](https://web.archive.org/members/signup)
+[](https://web.archive.org/mylife/begintoday)
 
 Not signed up yet? It’s free! Join now to save, share and revisit favorites.
