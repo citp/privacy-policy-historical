@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driverguide.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626003400id_/http%3A//members.driverguide.com/index.php%3Faction%3Ddoc%26page%3Dhome__docs__privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverguide.com privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115063821id_/http%3A//www.driverguide.com/index.php%3Faction%3Ddoc%26page%3Dhome__docs__privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -86,9 +86,7 @@ c/o iCentric Corporation
 6601 Center Drive West, Suite 500  
 Los Angeles, CA 90045, USA
 
-(310) 348-8120 
-
-## **10\. Reporting Abuse**
+##  **10\. Reporting Abuse**
 
 To report email abuse, please use our [Feedback Form](http://members.driverguide.com/index.php?action=feedback)
 
