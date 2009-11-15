@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tubely.com privacy policy that was archived on 2009-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090508192851id_/http%3A//www.tubely.com/index.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubely.com privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115140445id_/http%3A//www.tubely.com/index.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
 
 # Tubely
 
