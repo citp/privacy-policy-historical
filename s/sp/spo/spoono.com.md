@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spoono.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620065448id_/http%3A//www.spoono.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spoono.com privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115113644id_/http%3A//www.spoono.com/privacy.php) for the most accurate reproduction.*
 
 # Spoono - Privacy Policy
 
