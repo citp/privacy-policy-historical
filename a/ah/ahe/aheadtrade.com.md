@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aheadtrade.com privacy policy that was archived on 2009-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090606162103id_/http%3A//www.aheadtrade.com/page.html%3Fid%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aheadtrade.com privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115021745id_/http%3A//www.aheadtrade.com/page.html%3Fid%3D4) for the most accurate reproduction.*
 
-# Privacy Notice : Puma,Nike,Converse,New Balance, Brand Sneakers Wholesale | AheadTrade,Inc.
+# Privacy Notice : Nike Shox,Nike Air Max,Air force 1,jordan shoes, All Sneakers Wholesale | AheadTrade,Inc.
 
 aheadtrade Web Site Privacy Policy  
 THIS VERSION IN EFFECT SINCE JULY 1, 2007   
