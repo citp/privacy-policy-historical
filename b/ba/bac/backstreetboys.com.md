@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the backstreetboys.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426065249id_/http%3A//www.gctrl.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backstreetboys.com privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115082910id_/http%3A//groundctrl.com/privacy) for the most accurate reproduction.*
 
-# ground(ctrl)™ Privacy Policy
+# Privacy Policy // ground(ctrl)
 
-October 1, 2007
+## Privacy PolicyUpdated October 1, 2007
 
 This Privacy Policy, effective October 1st, 2007, is designed to help you, the user, understand how Ground(ctrl)™ (“us”, “we”, or “our”) collects and then uses the personal information you provide us when signing up as a new “member.” We do this so you can make informed decisions both when deciding whether to become a member and when using this service. 
 
@@ -113,5 +113,3 @@ ground(ctrl)™
 
 Sacramento, CA 95814
     1-877-GND-CTRL
-
-[Back to: ]()
