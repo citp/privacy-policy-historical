@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the addforums.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417230853id_/http%3A//addforums.com/forums/showthread.php%3Fp%3D236963%23post236963) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addforums.com privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115105143id_/http%3A//addforums.com/forums/showthread.php%3Fp%3D236963%23post236963) for the most accurate reproduction.*
 
-# Privacy Policy - ADHD Forums - Attention Deficit Hyperactivity Disorder Support and Information Resources Community
+# Privacy Policy - ADD Forums - Attention Deficit Hyperactivity Disorder Support and Information Resources Community
 
 This privacy statement covers [www.addforums.com](http://www.addforums.com/) and all of its properties and subsidiaries. Because we want to demonstrate our commitment to our users' privacy, we have agreed to disclose our information practices to our users. ADD Forums is the sole owner of all information collected from our site.
 
@@ -17,4 +17,4 @@ If a user's personally identifiable information changes (i.e. email address), or
 __________________  
 To review the ADD Forums Guidelines, please [**click here.**](http://www.addforums.com/forums/forumdisplay.php?f=75)  
   
-Andi says I'm cute...I think bribing her with shoes is working. [](http://www.modmyprofile.com/)
+The end is near...I don't have time to shoe shop for Andi! [](http://www.boardoo.com/)
