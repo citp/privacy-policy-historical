@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ljworld.com privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529055113id_/http%3A//www2.ljworld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ljworld.com privacy policy that was archived on 2009-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091116234716id_/http%3A//www.ljworld.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy / LJWorld.com
 
