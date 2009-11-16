@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the playerauctions.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216020805id_/http%3A//www.playerauctions.com/Help/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playerauctions.com privacy policy that was archived on 2009-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091116173856id_/http%3A//www.playerauctions.com/help/policy) for the most accurate reproduction.*
 
 # Privacy Policy - PlayerAuctions
 
-|  |  **Privacy Policy - PlayerAuctions**  
----|---  
-  
+###  Privacy Policy - PlayerAuctions
+
 This is the Privacy Policy governing your use of the PlayerAuctions.com ("PlayerAuctions") web site which is identified by the uniform resource locator PlayerAuctions.com (the "Site"). This policy tells you about how we use and protect your personal information. This policy covers only information that is collected through the Site. This policy does not apply to the practices of third parties that we do not own or control, or to individuals that we do not employ or manage. This policy may change from time to time, so please check back periodically. 
 
 Scope
