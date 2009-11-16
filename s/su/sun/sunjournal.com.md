@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sunjournal.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217072746id_/http%3A//www.sunjournal.com/contact/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunjournal.com privacy policy that was archived on 2009-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091116130609id_/http%3A//www.sunjournal.com/privacy) for the most accurate reproduction.*
 
-# SJOnline.com - Privacy Policy
-
-**SunJournal.com Privacy Policy**
+# SunJournal.com Privacy Policy | Sun Journal
 
 SunJournal.com is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the Web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At SunJournal.com, we intend to give you as much control as possible over your personal information. 
 
@@ -12,7 +10,7 @@ Our site(s) may contain links to other Web sites, including Web sites directed t
 
 **I. Membership and Registration**
 
-If you become a Member of SunJournal.com, you accept responsibility for all activities that occur under your account or password, and agree not to sell, transfer or assign your Membership or any Membership rights. We reserve the right to terminate your Membership at any time for any reason. You are responsible for maintaining the confidentiality of your password and for restricting access to your computer so others outside your household may not access SunJournal.com using your name in whole or in part without our permission. If you believe someone has accessed SunJournal.com using your member name and password without your authorization, e-mail us immediately at webmaster@SunJournal.com. 
+If you become a Member of SunJournal.com, you accept responsibility for all activities that occur under your account or password, and agree not to sell, transfer or assign your Membership or any Membership rights. We reserve the right to terminate your Membership at any time for any reason. You are responsible for maintaining the confidentiality of your password and for restricting access to your computer so others outside your household may not access SunJournal.com using your name in whole or in part without our permission. If you believe someone has accessed SunJournal.com using your member name and password without your authorization, e-mail us immediately at [webmaster@SunJournal.com](mailto:webmaster@SunJournal.com). 
 
 Some areas within our network of sites may require a credit card payment before access is granted. If you sign up for these services, you agree to pay all subscription fees and any other charges incurred in connection with your member name and password (including any applicable taxes) at the rates in effect when the charges were incurred. We may bill charges automatically to your credit card. All fees will be billed at the beginning of your subscription or any renewal (or as soon thereafter as fees or charges are incurred) and are nonrefundable. You are responsible for all fees and charges incurred to access SunJournal.com through an Internet access provider or other third party service. Your subscription will renew automatically, unless we terminate it or you notify us by e-mail of your decision to terminate your subscription. You must cancel your subscription before it renews in order to avoid billing of fees for the renewal term to your credit card. 
 
@@ -56,7 +54,7 @@ Please be careful and responsible whenever you are online. Should you choose to 
 
 **VII. Children**
 
-SunJournal.com does not knowingly collect or solicit Personally Identifiable Information from or about children under the age of 13 except as permitted by law. If we discover we have received any information from a child under the age of 13 in violation of this policy, we will delete that information immediately. If you believe SunJournal.com has any information from or about anyone under the age of 13, please contact us at webmaster@SunJournal.com. 
+SunJournal.com does not knowingly collect or solicit Personally Identifiable Information from or about children under the age of 13 except as permitted by law. If we discover we have received any information from a child under the age of 13 in violation of this policy, we will delete that information immediately. If you believe SunJournal.com has any information from or about anyone under the age of 13, please contact us at [webmaster@SunJournal.com](mailto:webmaster@SunJournal.com). 
 
 **VIII. Disclosure to Third Parties**
 
@@ -64,7 +62,7 @@ We do not share personal identifying information with any third party without yo
 
 **IX. Accuracy of User Information**
 
-In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time. Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to webmaster@SunJournal.com, or you can reach us by telephone in at 1-800-482-0753 or at 207-784-5411. You can also write us at: 
+In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time. Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to [webmaster@SunJournal.com](mailto:webmaster@SunJournal.com), or you can reach us by telephone in at 1-800-482-0753 or at 207-784-5411. You can also write us at: 
 
 SunJournal.com  
 104 Park Street  
@@ -79,4 +77,4 @@ We use our best efforts to ensure the security of personal information submitted
 
 **XI. Use of Materials**
 
-The right to download and store or output the materials in our site(s) is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us via e-mail at: feedback@sunjournal.com. 
+The right to download and store or output the materials in our site(s) is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us via e-mail at: [feedback@sunjournal.com](mailto:feedback@sunjournal.com). 
