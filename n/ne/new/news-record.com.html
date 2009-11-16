@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the news-record.com privacy policy that was archived on 2009-05-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090518090252id_/http%3A//www.news-record.com/help/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the news-record.com privacy policy that was archived on 2009-11-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091116202937id_/http%3A//www.news-record.com/help/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:phptal="http://phptal.motion-twin.com/manual/en/#phptal-namespace" xmlns:nri="http://www.nrinteractive.com/xml/ns/nri" class="js"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -11,10 +11,10 @@
 	
 	
 	<meta name="Keywords" content="help,privacy,NRCOM,GTCOM,TCARS,THOMES,TJOBS,TMKTP,GOGEO,SITINS,FAQ,Help,North Carolina,Greensboro,High Point,Winston-Salem,Burlington,Asheboro,Reidsville,Guilford County,Rockingham County,Forsyth County,Alamance County,Randolph County,Davidson County,local greensboro news,newspaper,events,opinion,blogs,obituaries,advertising,News &amp; Record,News and Record,News-Record,Triad,Piedmont,business,calendar,weddings,engagement announcements,article,news,entertainment,autos,cars,news stories,classifieds,sports,employment,jobs,restaurants,features,comments,special reports,breaking news,editorial,editorial blogs,letters,homes,houses,real estate,Lexington,Kernersville">
-	
+
 	<link rel="stylesheet" href="/sites/all/modules/nri_comment/style.css" media="screen" type="text/css">
-<link rel="stylesheet" href="/files/www.news-record.com/css/bfeb5bd56db6003e40a66df56fb1569d.css" media="all" type="text/css">
-<link rel="stylesheet" href="/files/www.news-record.com/css/22c9326d81e053bb03232e03d398c07d.css" media="screen" type="text/css">
+<link rel="stylesheet" href="/files/www.news-record.com/css/60dfc2e717826746f649d9cc915161d5.css" media="all" type="text/css">
+<link rel="stylesheet" href="/files/www.news-record.com/css/50ae90c64cc753aab93be1610303aec6.css" media="screen" type="text/css">
 <link rel="stylesheet" href="/files/www.news-record.com/css/c1e8138d172d0c5554266c7bc29ba30f.css" media="print" type="text/css">
 <link rel="stylesheet" href="/sites/all/themes/custom/nrcom09/style/nrcom09-screen-article.css" media="screen" type="text/css">
 	
@@ -24,11 +24,9 @@
 	<script src="/sites/all/modules/jquery_update/compat.js" type="text/javascript"></script>
 	<script src="/misc/collapse.js" type="text/javascript"></script>	<script src="/sites/all/jslib/jquery_cookie.js" type="text/javascript"></script>
 	<script src="/sites/all/jslib/json.js" type="text/javascript"></script>
-	<script src="/sites/all/modules/thickbox/thickbox.js" type="text/javascript"></script>	<script src="/sites/all/modules/nri_ureg/nri_ureg.js" type="text/javascript"></script>	<script src="/sites/all/jslib/swfobject/swfobject.js" type="text/javascript"></script>	<script src="/sites/all/jslib/nri_std_lib.js?rev5472" type="text/javascript"></script>
+	<script src="/sites/all/modules/thickbox/thickbox.js" type="text/javascript"></script>	<script src="/sites/all/modules/nri_ureg/nri_ureg.js" type="text/javascript"></script>	<script src="/sites/all/jslib/swfobject/swfobject.js" type="text/javascript"></script>	<script src="/sites/all/jslib/nri_std_lib.js?rev=6578" type="text/javascript"></script>
 	
-	<script src="/sites/all/modules/nri_utilities/scripts/nri_feedback_thickbox.js" type="text/javascript"></script>
-	
-	<script src="/sites/all/themes/custom/nrcom09/scripts/nrcom09-scripts-core.js" type="text/javascript"></script>
+	<script src="/sites/all/themes/custom/nrcom09/scripts/nrcom09-scripts-core.js?rev=" type="text/javascript"></script>
 	
 		<script type="text/javascript">Drupal.extend({ settings: { "thickbox": { "close": "Close", "next": "Next \x3e", "prev": "\x3c Prev", "esc_key": "or Esc Key", "next_close": "Next / Close on last", "image_count": "Image !current of !total" } } });</script>
 	<script type="text/javascript">nri._ours =true;nri.url_prefix=""</script>
@@ -39,7 +37,7 @@
 	// <![CDATA[
 		OAS_url="http://oascentral.news-record.com/RealMedia/ads/";
 		OAS_sitepage="news-record.com/story";
-		OAS_listpos="Top,x13,TopRight,Top1,x11,Middle3,Bottom";
+		OAS_listpos="Top,x13,TopRight,Middle3,Bottom";
 		OAS_basedir="/sites/all/jslib";
 	// ]]>
 	</script>
@@ -48,7 +46,12 @@
 	<script type="text/javascript">
 	// <![CDATA[
 		//configuration
-		OAS_query = window.location.search.substr(1);
+		OAS_query = '';
+		OAS_keywords = "help,privacy,NRCOM,GTCOM,TCARS,THOMES,TJOBS,TMKTP,GOGEO,SITINS,FAQ,Help".toLowerCase().replace(/\s+/g,'_').split(',');
+
+		for (var i = 0; i < OAS_keywords.length; i++) OAS_query += encodeURIComponent(OAS_keywords[i]) + "&";
+		
+		OAS_query = OAS_query + window.location.search.substr(1).toLowerCase();
 		OAS_target = '_top';
 		//end of configuration
 		OAS_version = 10;
@@ -69,7 +72,7 @@
 		if (OAS_version >= 11)
 		  document.write('<scr' + 'ipt type="text/javascript" src="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/script>');
 	// ]]>
-	</script><script type="text/javascript" src="http://oascentral.news-record.com/RealMedia/ads/adstream_mjx.ads/news-record.com/story/1596715506@Top,x13,TopRight,Top1,x11,Middle3,Bottom?"></script>
+	</script><script type="text/javascript" src="http://oascentral.news-record.com/RealMedia/ads/adstream_mjx.ads/news-record.com/story/1080088624@Top,x13,TopRight,Middle3,Bottom?help&amp;privacy&amp;nrcom&amp;gtcom&amp;tcars&amp;thomes&amp;tjobs&amp;tmktp&amp;gogeo&amp;sitins&amp;faq&amp;help&amp;"></script>
 
 	<script type="text/javascript">
 	// <![CDATA[
@@ -89,7 +92,7 @@
 	<link rel="shortcut icon" href="/sites/all/themes/custom/nrcom/favicon.ico" type="image/x-icon">
 	
 </head>
-<body class="nrcSec_">
+<body class="nrcSec_ nrcPg_story">
 	<div id="nrcRgn_PgBody">
 	
 		<!-- START Branding elements -->
@@ -120,8 +123,8 @@
 						// ]]>
 						</script>
 						<noscript>
-							<a href="http://oascentral.news-record.com/RealMedia/ads/click_nx.ads/news-record.com/story/706467376@Top,x13,TopRight,Top1,x11,Middle3,Bottom!TopRight?x">
-								<img src="http://oascentral.news-record.com/RealMedia/ads/adstream_nx.ads/news-record.com/story/706467376@Top,x13,TopRight,Top1,x11,Middle3,Bottom!TopRight?x"/>
+							<a href="http://oascentral.news-record.com/RealMedia/ads/click_nx.ads/news-record.com/story/6721678@Top,x13,TopRight,Middle3,Bottom!TopRight?x">
+								<img src="http://oascentral.news-record.com/RealMedia/ads/adstream_nx.ads/news-record.com/story/6721678@Top,x13,TopRight,Middle3,Bottom!TopRight?x"/>
 							</a>
 						</noscript>
 					</div>
@@ -327,8 +330,8 @@ timely manner.</p>
 						// ]]>
 						</script>
 						<noscript>
-							<a href="http://oascentral.news-record.com/RealMedia/ads/click_nx.ads/news-record.com/story/706467376@Top,x13,TopRight,Top1,x11,Middle3,Bottom!Middle3?x">
-								<img src="http://oascentral.news-record.com/RealMedia/ads/adstream_nx.ads/news-record.com/story/706467376@Top,x13,TopRight,Top1,x11,Middle3,Bottom!Middle3?x"/>
+							<a href="http://oascentral.news-record.com/RealMedia/ads/click_nx.ads/news-record.com/story/6721678@Top,x13,TopRight,Middle3,Bottom!Middle3?x">
+								<img src="http://oascentral.news-record.com/RealMedia/ads/adstream_nx.ads/news-record.com/story/6721678@Top,x13,TopRight,Middle3,Bottom!Middle3?x"/>
 							</a>
 						</noscript>
 					</div>
@@ -342,6 +345,7 @@ timely manner.</p>
 
 				
 				<style type="text/css" media="screen">@import url(http://mm.news-record.com/plunkables/triadcareers.com/plunkable_topjobs.css);</style>
+<!-- Non-Scrolling Version -->
 <div id="jobswidgeshift">
 	<div id="tjFeatJobsWidget">
 		<h3><a href="http://www.triadcareers.com" title="Visit TriadCareers.com">
@@ -371,28 +375,28 @@ timely manner.</p>
 			</form>
 	</div>
 </div>
-<script type="text/javascript">
-// <![CDATA[
-var tjobs_feat_widget = false;
-
-jQuery(
-	function()
-	{
-		tjobs_feat_widget = new xmlFetcher();
-		tjobs_feat_widget.setOutPutElement("tjFeatJobsWidget_body");
-		tjobs_feat_widget.setOutputFormat("customHTML");
-		tjobs_feat_widget.setItemUrlTag('Url');
-		tjobs_feat_widget.setItemRoot('Job', '<div onmouseover="this.style.background=\'#c9dbe9\';tjobs_feat_widget.scroller.stopScroll();" onmouseout="this.style.background=\'\';tjobs_feat_widget.scroller.startScroll();" onclick=window.open(\'itemUrlTagValue\') style="cursor:hand;cursor:pointer;"><br>', '<br><' + '/' + 'div>\n\n');
-		tjobs_feat_widget.addOutputTag('Title', '<span class="title"><b>', '</b></span><br>');
-		tjobs_feat_widget.addOutputTag('Employer', '<span class="employer">', '</span>   -   ');
-		tjobs_feat_widget.addOutputTag('Location', '<span class="location">', '</span> <br>');
-		//tjobs_feat_widget.setRootHTML('<div style="height:10px"><' + '/' + 'div>', '<div style="height:10px">' + '<' + '/' + 'div>');
-		tjobs_feat_widget.setScrollSpeed(30);
-		tjobs_feat_widget.initFromString(xmlString);
-	}
-);
-// ]]>
-</script>
+				<script type="text/javascript">
+		          	// <![CDATA[
+		          	
+		          	var tjobs_feat_widget = false;
+		          	
+					$(window).load(
+						function()
+						{
+							var myFeaturedFrame = new xmlFetcher();
+							myFeaturedFrame.setOutPutElement('tjFeatJobsWidget_body');
+							myFeaturedFrame.setOutputFormat('customHTML');
+							myFeaturedFrame.setItemUrlTag('Url');
+							myFeaturedFrame.setItemRoot('Job', '<div onmouseover="this.style.background=\'#c9dbe9\';" onmouseout="this.style.background=\'\';" onclick=window.open(\'itemUrlTagValue\') style="cursor:hand;cursor:pointer;"><br>', '<br><' + '/' + 'div>\n\n');
+							myFeaturedFrame.addOutputTag('Title', '<span class="title"><b>', '</b></span><br>');
+							myFeaturedFrame.addOutputTag('Employer', '<span class="employer">', '</span>   -   ');
+							myFeaturedFrame.addOutputTag('Location', '<span class="location">', '</span> <br>');
+							myFeaturedFrame.disableScroll();
+							myFeaturedFrame.initFromString(xmlString);
+						}
+					);	
+					// ]]>
+				</script>
 			
 					<style type="text/css" media="screen">@import url(http://mm.news-record.com/plunkables/triadcars.com/plunkable_topcars.css);</style>
 	<div id="featuredAutoWidget">
@@ -429,24 +433,37 @@ jQuery(
 	</div>
 
 				
-								
 				<!-- START AD "Middle" 300x250 Ad -->
 								<!-- END AD "Middle" 300x250 Ad -->
 				
 				<!-- Side Rail Promo Tiles : Begin -->
-				<div id="nrcMod_SiderailPromoTiles">
-					<a href="panel/" class="nrcLnk_ram">
-						<img title="Reader Survey" src="http://mm.news-record.com/drupal/sites/all/themes/custom/nrcom09/style/images/promos/nrcom_tile_ram.gif" border="0" width="300" height="50" alt="Join the News &amp; Record Reader Survey">
-					</a><br>
-					<a href="discover/" class="nrcLnk_discover" target="_blank">
-						<img title="Discover the Triad" src="http://mm.news-record.com/drupal/sites/all/themes/custom/nrcom09/style/images/promos/nrcom_tile_discover.gif" border="0" width="300" height="50" alt="Your guide to the best the North Carolina Piedmont Triad has to offer">
-					</a><br>
-					<a href="http://greensboro.skirt.com/" class="nrcLnk_skirt" target="_blank">
-						<img title="skirt! magazine" src="http://mm.news-record.com/drupal/sites/all/themes/custom/nrcom09/style/images/promos/nrcom_tile_skirt.gif" border="0" width="300" height="50" alt="skirt! magazine for women">
-					</a>
-				</div>
-				<!-- Side Rail Promo Tiles : End -->
+								<!-- Side Rail Promo Tiles : End -->
 				
+				<!-- Side Rail Facebook Widget : Begin -->
+								<!-- Side Rail Facebook Widget: End -->
+				
+									<!-- START TriadMarketplace.com (Harvest) Traffic Drivers -->
+					<div id="nrcMod_featuredNPads">
+						
+					    
+					    					    					    					    					    					    
+					    							<h4 class="nrcTxt_modHed"><a href="http://www.triadmarketplace.com/" target="_blank">Featured Ads</a></h4>
+						    <a href="http://www.triadmarketplace.com/" target="_blank" class="nrc_menu">Search</a>
+						
+						    <div id="nrcBlk_featuredAdsCnt">
+								<script type="text/javascript">
+								// <![CDATA[
+									var harvestinfoIncludePopusDefaultAllCat_veyylt4z = true; //Add this line to include popups
+									var harvestinfoLeftJustifyPopupDefaultAllCat_veyylt4z = true; //Add this line to left justify popups
+									var marqueespeedDefaultAllCat_veyylt4z = 2; //Add this line to change scrolling speed (possible values 1 to 10)
+								// ]]>
+						        </script>
+								<script type="text/javascript" src="http://buylocal.newspaperads.com/hs40_ads/atd/0897/DefaultAllCat_veyylt4z.js"></script>
+								<noscript><p>This feature requires a JavaScript-enabled browser.</p></noscript>
+						    </div>
+					    					</div>
+					<!-- END TriadMarketplace.com (Harvest) Traffic Drivers -->
+								
 				<div id="nrcRgn_Sidebar_post"></div>
 			</div>		<!-- END Sidebar Region -->
 		
@@ -466,8 +483,8 @@ jQuery(
 				     // ]]>
 				     </script>
 				     <noscript>
-				     	<a href="http://oascentral.news-record.com/RealMedia/ads/click_nx.ads/news-record.com/story/706467376@Top,x13,TopRight,Top1,x11,Middle3,Bottom!Top?x">
-				     		<img src="http://oascentral.news-record.com/RealMedia/ads/adstream_nx.ads/news-record.com/story/706467376@Top,x13,TopRight,Top1,x11,Middle3,Bottom!Top?x"/>
+				     	<a href="http://oascentral.news-record.com/RealMedia/ads/click_nx.ads/news-record.com/story/6721678@Top,x13,TopRight,Middle3,Bottom!Top?x">
+				     		<img src="http://oascentral.news-record.com/RealMedia/ads/adstream_nx.ads/news-record.com/story/6721678@Top,x13,TopRight,Middle3,Bottom!Top?x"/>
 				     	</a>
 				     </noscript>
 				</div>
@@ -485,8 +502,8 @@ jQuery(
 				     // ]]>
 				     </script>
 				     <noscript>
-				     	<a href="http://oascentral.news-record.com/RealMedia/ads/click_nx.ads/news-record.com/story/706467376@Top,x13,TopRight,Top1,x11,Middle3,Bottom!x13?x">
-				     		<img src="http://oascentral.news-record.com/RealMedia/ads/adstream_nx.ads/news-record.com/story/706467376@Top,x13,TopRight,Top1,x11,Middle3,Bottom!x13?x"/>
+				     	<a href="http://oascentral.news-record.com/RealMedia/ads/click_nx.ads/news-record.com/story/6721678@Top,x13,TopRight,Middle3,Bottom!x13?x">
+				     		<img src="http://oascentral.news-record.com/RealMedia/ads/adstream_nx.ads/news-record.com/story/6721678@Top,x13,TopRight,Middle3,Bottom!x13?x"/>
 				     	</a>
 				     </noscript>
 				</div>
@@ -505,8 +522,8 @@ jQuery(
 				// ]]>
 				</script>
 				<noscript>
-					<a href="http://oascentral.news-record.com/RealMedia/ads/click_nx.ads/news-record.com/story/706467376@Top,x13,TopRight,Top1,x11,Middle3,Bottom!Bottom?x">
-						<img src="http://oascentral.news-record.com/RealMedia/ads/adstream_nx.ads/news-record.com/story/706467376@Top,x13,TopRight,Top1,x11,Middle3,Bottom!Bottom?x"/>
+					<a href="http://oascentral.news-record.com/RealMedia/ads/click_nx.ads/news-record.com/story/6721678@Top,x13,TopRight,Middle3,Bottom!Bottom?x">
+						<img src="http://oascentral.news-record.com/RealMedia/ads/adstream_nx.ads/news-record.com/story/6721678@Top,x13,TopRight,Middle3,Bottom!Bottom?x"/>
 					</a>
 				</noscript>
 			</div>
@@ -515,10 +532,8 @@ jQuery(
 		
 		<!-- START Flag Region -->
 			<div id="nrcRgn_Flag">
-				<!-- Add ability for adding custom graphics over the NR logo -->
-				<div id="nrBlk_SpecialOccOverlay"></div>
-				
-				
+				<!-- Add ability for adding custom graphics into banner -->
+									
 			    <!-- Main Menu: Start -->
 			    	<a href="#nrcNav_Main"></a>
 				    <div id="nrcMod_MainMenu" class="nrcMod_mainMenu">
@@ -562,8 +577,8 @@ jQuery(
 								<a href="/subscribe">
 									<span class="nrcTxt_label nrc_aural">Subscriptions</span>
 								</a>							</li><li class="nrcTxt_menu12" nri:menuid="183">
-								<a href="http://adexpress.news-record.com/">
-									<span class="nrcTxt_label nrc_aural">Sell Stuff</span>
+								<a href="/adexpress">
+									<span class="nrcTxt_label nrc_aural">Place An Ad, Sell Your Stuff</span>
 								</a>							</li><li class="nrcTxt_menu13" nri:menuid="186">
 								<a href="http://www.gotriad.com">
 									<span class="nrcTxt_label nrc_aural">goTriad.com</span>
@@ -606,11 +621,11 @@ jQuery(
 		
 				
 				
-				<!-- Market: Start -->
+<!-- Market: Start -->
 									<!-- Market: End -->
 				
 				<!-- Weather/Traffic: Start -->
-					<div id="nrcMod_Weather" nri:mtime="1242636623" nri:wxloc="USNC0280">
+					<div id="nrcMod_Weather" nri:mtime="1258402508" nri:wxloc="USNC0280">
 					    <h3>
 							<a href="/weather">
 								Triad Weather
@@ -618,22 +633,22 @@ jQuery(
 						</h3>
 					
 			   			<ul class="nrcMod_currentWthr">
-				        	<li id="nrTxt_WthrCond" class="nrcWx_wcomIcon33">
+				        	<li id="nrTxt_WthrCond" class="nrcWx_wcomIcon30">
 				        		<strong class="nrcTxt_label nrc_aural">Current Condition:</strong>
-								<a href="/weather" alt="FAIR"><span id="nrTxt_WthrCond_Txt" class="nrcTxt_label nrc_aural">FAIR</span></a>
+								<a href="/weather" alt="PARTLY CLOUDY"><span id="nrTxt_WthrCond_Txt" class="nrcTxt_label nrc_aural">PARTLY CLOUDY</span></a>
 				        	</li>
 			    			<li id="nrcTxt_WthrToday">
 			    				<strong class="nrcTxt_label nrc_aural">Current Temperature:</strong>
-			    				<span id="nrcTxt_WthrToday_Txt">51</span>°
+			    				<span id="nrcTxt_WthrToday_Txt">72</span>°
 			    			</li>
 			    			<li id="nrcTxt_WthrUVIdx">
 			    				<strong class="nrcTxt_label nrc_aural">UV Idx:</strong>
-			    				<span class="nrc_val">0</span>
+			    				<span class="nrc_val">2</span>
 			    			</li>
 			    			<li id="nrcTxt_WthrHighLow">
 								<strong class="nrcTxt_label nrc_aural">Forecast High/Low:</strong>
-			    				<span id="nrTxt_WthrHighLow_Hi">H: <span class="nrc_val">0</span></span>°
-								<span id="nrcTxt_WthrHighLow_Lo">L: <span class="nrc_val">45</span></span>°
+			    				<span id="nrTxt_WthrHighLow_Hi">H: <span class="nrc_val">70</span></span>°
+								<span id="nrcTxt_WthrHighLow_Lo">L: <span class="nrc_val">49</span></span>°
 			    			</li>
 			   			</ul>
 			   									
@@ -649,14 +664,17 @@ jQuery(
 							User Tools
 						</h3>
 						<ul id="nrcNav_Utilities">
-							<li class="nrcCtl_utilRSS nrcTxt_menu1">
-								<a href="/nr/rss" class="nrcTxt_menu1">RSS</a>
+							<li class="nrcCtl_utilSocial nrcTxt_menu1">
+								<a href="/socialnetworking" class="nrcTxt_menu1">Social Networking</a>
+							</li>
+							<li class="nrcCtl_utilRSS nrcTxt_menu2">
+								<a href="/nr/rss" class="nrcTxt_menu2">RSS</a>
 							</li>
 														<!-- The font size and printer friendly page utilities require Javascript; no need to show them to noscript clients -->
 							<script type="text/javascript">
 							// <![CDATA[
-								document.write('<li class="nrcCtl_utilFontSize nrcTxt_menu3">');									
-								document.write('<a href="#" class="nrcTxt_menu3">Font Size</a>');
+								document.write('<li class="nrcCtl_utilFontSize nrcTxt_menu4">');									
+								document.write('<a href="#" class="nrcTxt_menu4">Font Size</a>');
 								document.write('<div class="nrcNav_subMenuWrapper">');
 								document.write('<ul id="nrcCtl_UtilFontSize" class="nrcNav_subMenu">');
 								document.write('<li class="nrc_item1"><a href="javascript:nri.increaseFontSize();void(0);">Increase font size</a></li>');
@@ -665,15 +683,15 @@ jQuery(
 								document.write('</ul></div>');
 								document.write('</li>');
 							// ]]>
-							</script><li class="nrcCtl_utilFontSize nrcTxt_menu3"><a href="#" class="nrcTxt_menu3">Font Size</a><div class="nrcNav_subMenuWrapper"><ul id="nrcCtl_UtilFontSize" class="nrcNav_subMenu"><li class="nrc_item1"><a href="javascript:nri.increaseFontSize();void(0);">Increase font size</a></li><li class="nrc_item2"><a href="javascript:nri.resetFontSize();void(0);">Reset font size</a></li><li class="nrc_item3"><a href="javascript:nri.decreaseFontSize();void(0);">Decrease font size</a></li></ul></div></li>							<script type="text/javascript">
+							</script><li class="nrcCtl_utilFontSize nrcTxt_menu4"><a href="#" class="nrcTxt_menu4">Font Size</a><div class="nrcNav_subMenuWrapper"><ul id="nrcCtl_UtilFontSize" class="nrcNav_subMenu"><li class="nrc_item1"><a href="javascript:nri.increaseFontSize();void(0);">Increase font size</a></li><li class="nrc_item2"><a href="javascript:nri.resetFontSize();void(0);">Reset font size</a></li><li class="nrc_item3"><a href="javascript:nri.decreaseFontSize();void(0);">Decrease font size</a></li></ul></div></li>							<script type="text/javascript">
 							// <![CDATA[
-								document.write('<li class="nrcCtl_utilPrint nrcTxt_menu4">');
-								document.write('<a href="javascript:nri.printPage();void(0);" class="nrcTxt_menu4">Print</a>');
+								document.write('<li class="nrcCtl_utilPrint nrcTxt_menu5">');
+								document.write('<a href="javascript:nri.printPage();void(0);" class="nrcTxt_menu5">Print</a>');
 								document.write('</li>');
 							// ]]>
-							</script><li class="nrcCtl_utilPrint nrcTxt_menu4"><a href="javascript:nri.printPage();void(0);" class="nrcTxt_menu4">Print</a></li>
-							<li class="nrcCtl_utilShare nrcTxt_menu5">
-								<a href="#" class="nrcTxt_menu5">Share</a>
+							</script><li class="nrcCtl_utilPrint nrcTxt_menu5"><a href="javascript:nri.printPage();void(0);" class="nrcTxt_menu5">Print</a></li>
+							<li class="nrcCtl_utilShare nrcTxt_menu6">
+								<a href="#" class="nrcTxt_menu6">Share</a>
 								<div class="nrcNav_subMenuWrapper">
 							  		<ul id="nrcCtl_UtilShare" class="nrcNav_subMenu">
 							  			<li class="nrCL_tools_email nrc_item1">
@@ -712,7 +730,7 @@ jQuery(
 											</a>
 										</li>		  			
 							  		</ul>						  		</div>
-							</li>							<li class="nrcCtl_utilMyNR nrcTxt_List6">
+							</li>							<li class="nrcCtl_utilMyNR nrcTxt_List7">
 								<div class="nriuregTpl_anonymous" style="display:block">
 									<span class="nrcTxt_label nrc_aural">Sign in to MyNR</span>
 									<ul>
@@ -749,9 +767,16 @@ jQuery(
 								Search
 							</h3>
 							<div class="nrc_fldGrp">
-								<input type="hidden" id="MPS_PRODUCTS" name="MPS_PRODUCTS" value="articles">
-								<label for="MPS_KEYWORDS">Keywords</label>
-								<input name="MPS_KEYWORDS" type="text" size="20">
+								<label for="MPS_KEYWORDS" class="nrc_aural">Keywords</label>
+								<input name="MPS_KEYWORDS" type="text" size="20" value="keyword(s)" style="color:#999" onfocus="if(this.value=='keyword(s)')this.value='';this.style.color='#000';" onblur="if(this.value==''){this.value='keyword(s)';this.style.color='#999';}">
+								<span class="nrc_item1">
+									<input type="radio" id="ArticleSearchRange1" name="MPS_PRODUCTS" class="nrcTxt_InputRadio" checked="checked" value="articles">
+									<label for="ArticleSearchRange">Past 90 Days</label>
+								</span>
+								<span class="nrc_item2">
+									<input type="radio" id="ArticleSearchRange2" name="MPS_PRODUCTS" class="nrcTxt_InputRadio" value="archives">
+									<label for="ArticleSearchRange">Since 1990</label>
+								</span>	
 							</div>
 							<div class="nrc_ctlGrp">
 									<input name="go" type="submit" class="nrcTxt_submit" value="Search">
@@ -762,6 +787,17 @@ jQuery(
 						</ul>
 					</div>
 				<!-- Utilities: End -->
+				
+				<!-- START - Browser Support -->
+				<script type="text/javascript">
+				// <![CDATA[
+					if ( nri.browser.unsupported() )
+					{
+						document.write('<div id="nrcMod_browserSupport"><a href="/browserUpgrade"><span class="nrc_aural">View Optimal Browsers Supported</span></a></div>');
+					}
+				// ]]>
+				</script>
+				<!-- END - Browser Support -->
 		
 			</div>
 		<!-- END Flag Region-->
@@ -839,7 +875,7 @@ jQuery(
 						<li class="nrc_item4"><a href="http://company.news-record.com/" target="_blank">About Us</a></li>
 						<li class="nrc_item5"><a href="http://www.news-record.com/help/privacy">Privacy Policy</a></li>
 						<li class="nrc_item6"><a href="http://www.news-record.com/help/terms">Terms of Use</a></li>
-						<li class="nrc_item7"><a href="http://gallery.pictopia.com/greensboro/" target="_blank">Photos and Page Reprints</a></li>
+						<li class="nrc_item7"><a href="http://gallery.pictopia.com/greensboro/" target="_blank">Purchase Photos and Page Reprints</a></li>
 						<li class="nrc_item8 nrc_itemLast"><a href="http://www.news-record.com/subscribe" target="_blank">Subscribe</a></li>
 					</ul>
 					<span id="nrcTxt_FooterComments" class="nrc_noprint">
@@ -864,8 +900,10 @@ jQuery(
 				<div id="nrcRgn_Footer_post"></div>
 			</div>
 		<!-- END Footer Region -->
-	</div>
 
+	</div>
+	
+	
 	<script src="/sites/all/modules/nri_utilities/scripts/nri_feedback_thickbox.js" type="text/javascript"></script>
 	
 				
@@ -883,7 +921,7 @@ jQuery(
 			s.prop1=""; // Internal Search Terms
 			s.prop2=""; // # search results
 			s.prop3=""; // content title (for articles, multimedia, etc.)
-			s.prop4="story16050" // Content ID
+			s.prop4=nri.node_type + "16050" // Content ID
 			s.prop5 = false; // content type
 			
 			// build section hierarchy (based on url)
@@ -897,8 +935,14 @@ jQuery(
 			// s.prop11="" // hour of the day (set by s_code.js)
 			// s.prop12="" // day of the week (set by s_code.js)
 			// s.prop13="" // weekend / weekday (set by s_code.js)
-			s.prop14="" // available
-			s.prop15="" // available
+			s.prop14=Math.floor((window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth) / 25) * 25; // initial viewport width to nearest multiple of 25
+			s.prop15=Math.floor((window.innerHeight || document.documentElement.clientHeight || document.body.clientHeight) / 25) * 25; // initial viewport height to nearest multiple of 25
+
+			if ( (s.flashpv = swfobject?swfobject.getFlashPlayerVersion():false) && s.flashpv.major )
+			{
+				s.prop16 = s.flashpv.major + ',' + s.flashpv.minor;
+			}
+
 			/* Hierarchy Variables */
 			s.hier1="";
 			
@@ -912,10 +956,18 @@ jQuery(
 				s.prop5 = nri.vpath_elems.pop();
 			} 
 			
-			if (nri.node_type.length && nri.vpath_elems[0].length ) // node w/ assoc. virtual path
+
+			if (window.location.pathname == "/") // front page
+			{
+				s.prop5 = "frontpage"; s.pageName = "frontpage";
+				s.prop6 = "frontpage"; s.prop7 = "frontpage";
+				s.prop8 = "frontpage"; s.prop9 = "frontpage";
+				s.hier1 = "frontpage";
+			}
+			else if (nri.node_type.length && nri.vpath_elems[0].length ) // node w/ assoc. virtual path
 			{
 				s.pageName = nri.vpath_elems.join(':');
-				s.prop3="News &amp;amp; Record Privacy Policy for Electronic Publications and Interfaces"; // content title
+				s.prop3="News &amp; Record Privacy Policy for Electronic Publications and Interfaces"; // content title
 				s.hier1=nri.vpath_elems.join(',');
 
 				// build section hierarchy (based on vpath)
@@ -927,16 +979,9 @@ jQuery(
 				s.prop5 = s.prop9 + ":" + (s.prop5 ? s.prop5 : nri.node_type);
 				
 			}
-			else if (window.location.pathname == "/") // front page
-			{
-				s.prop5 = "frontpage"; s.pageName = "frontpage";
-				s.prop6 = "frontpage"; s.prop7 = "frontpage";
-				s.prop8 = "frontpage"; s.prop9 = "frontpage";
-				s.hier1 = "frontpage";
-			}
 			else if (nri.node_type.length) // node w/o assoc. vpath
 			{
-				s.prop3 = "News &amp;amp; Record Privacy Policy for Electronic Publications and Interfaces";
+				s.prop3 = "News &amp; Record Privacy Policy for Electronic Publications and Interfaces";
 				
 				if (nri.node_type == "article")
 				// safety check (should never happen; we should *always*
@@ -948,7 +993,23 @@ jQuery(
 					s.hier1 = "news,article";
 					s.prop5 = s.prop9 + ":" + (s.prop5 ? s.prop5 : nri.node_type);
 				}
-				if (nri.node_type == "actor")
+				else if (nri.node_type == "nri_blog")
+				{
+					s.prop6 = "blog"; s.prop7 = "blog";
+					s.prop8 = "blog"; s.prop9 = "blog";
+					s.pageName = "blog";
+					s.hier1 = "blog,index";
+					s.prop5 = s.prop9 + ":" + (s.prop5 ? s.prop5 : nri.node_type);
+				}
+				else if (nri.node_type == "nri_blog_entry")
+				{
+					s.prop6 = "blog"; s.prop7 = "blog:entry";
+					s.prop8 = "blog:entry"; s.prop9 = "blog:entry";
+					s.pageName = "blog:entry";
+					s.hier1 = "blog,entry";
+					s.prop5 = s.prop9 + ":" + (s.prop5 ? s.prop5 : nri.node_type);
+				}
+				else if (nri.node_type == "actor")
 				{
 					s.prop5 = "whois";
 					s.prop6 = "whois"; s.prop7 = "whois";
@@ -1030,4 +1091,10 @@ jQuery(
   	</noscript>
   	<!-- End Quantcast tag -->
 	
-	</body></html>
+		
+	<script type="text/javascript">
+	// <![CDATA[
+		jQuery( nri.browser.unsupported.dialog );
+	// ]]>
+	</script>
+</body></html>
