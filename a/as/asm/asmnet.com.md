@@ -1,15 +1,17 @@
-> *The following text is extracted and transformed from the asmnet.com privacy policy that was archived on 2009-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090412191759id_/http%3A//www.asmnet.com/command/privacy_showHome.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asmnet.com privacy policy that was archived on 2009-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091116182835id_/http%3A//www.asmnet.com/AboutUs/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# [advantage sales & marketing]
+# Privacy Policy
 
-|  |  |  |   
----  
-| [](https://web.archive.org/web/20090412191759id_/http%3A//www.asmnet.com/command/about_showHome.cfm) |  | [](https://web.archive.org/web/20090412191759id_/http%3A//www.asmnet.com/command/services_showHome.cfm) |  | [](https://web.archive.org/web/20090412191759id_/http%3A//www.asmnet.com/command/classes_showHome.cfm) |  | [](https://web.archive.org/web/20090412191759id_/http%3A//www.asmnet.com/command/marketing_showHome.cfm) |  | [](https://web.archive.org/web/20090412191759id_/http%3A//www.asmnet.com/command/biz_showHome.cfm) |  | [](https://web.archive.org/web/20090412191759id_/http%3A//www.asmnet.com/command/international_showHome.cfm) |  | [](https://web.archive.org/web/20090412191759id_/http%3A//www.asmnet.com/command/join_showHome.cfm) |  | [](https://web.archive.org/web/20090412191759id_/http%3A//www.asmnet.com/command/contact_showHome.cfm) |  | [](https://web.archive.org/web/20090412191759id_/http%3A//www.asmnet.com/command/locations_state.cfm) |   
----|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
-|    
-|  |   
----  
-**[Effective Date: March 13, 2006]**
+|  [ ](https://web.archive.org/web/20091116182835id_/http%3A//www.asmnet.com/) |   
+---|---  
+|  |  Search   | 
+
+| | |   
+---|---|---  
+  
+| 
+
+[Effective Date: March 13, 2006]
 
 At Advantage Sales and Marketing, LLC ("ASM"), we respect and value your privacy. This privacy statement describes and applies to the information we collect from you when you visit the ASM website ("ASMnet.com", "Website", "ASM Website", or "ASMnet.com Website"), how we use that information, and under what circumstances we disclose it. It will also give you more information about how to manage the personal information that you provide to us through the ASM Website. This statement applies only to information you provide to us online while visiting or using our website. It does not apply to information we have obtained or may obtain offline through other traditional means.
 
@@ -60,7 +62,7 @@ If you no longer wish to receive marketing e-mail from ASM, you may unsubscribe 
 
 Advantage Sales and Marketing, LLC  
 Attn: General Counsel  
-19100 Von Karman Avenue, Suite 300   
+18100 Von Karman Avenue, Suite 900   
 Irvine, CA 92612   
 Phone: (949) 797-2900  
 Fax: (949) 797-9112 
@@ -100,7 +102,7 @@ We know you want the personally identifiable information we have on record about
 
 Advantage Sales and Marketing, LLC  
 Attn: General Counsel  
-19100 Von Karman Avenue, Suite 300   
+18100 Von Karman Avenue, Suite 900   
 Irvine, CA 92612   
 Phone: (949) 797-2900  
 Fax: (949) 797-9112 
@@ -129,12 +131,19 @@ If you have any questions or comments concerning our privacy policy, please cont
 
 Advantage Sales and Marketing, LLC  
 Attn: General Counsel  
-19100 Von Karman Avenue, Suite 300   
+18100 Von Karman Avenue, Suite 900   
 Irvine, CA 92612   
 Phone: (949) 797-2900  
 Fax: (949) 797-9112 
 
 
+
+
+|    
   
+---|---  
 |  |   
-©2009 Advantage Sales and Marketing, LLC | [Privacy Policy](http://www.asmnet.com/command/privacy_showHome.cfm) | [Terms of Use](http://www.asmnet.com/command/terms_showHome.cfm) | all rights reserved
+  
+National Office: 18100 Von Karman Ave., Suite 900, Irvine CA 92612 USA | +1.949.797.2900  
+Copyright 2009 Advantage Sales & Marketing LLC | [Privacy Policy](https://web.archive.org/AboutUs/Pages/PrivacyPolicy.aspx) | [Terms of Use](https://web.archive.org/AboutUs/Pages/TermsofUse.aspx)  
+ASMnet.com is a production of the ASM Corporate Communications department. Contact [Webmaster](mailto:webmaster@asmnet.com "Contact Webmaster").
