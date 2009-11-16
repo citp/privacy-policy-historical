@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3900income.com privacy policy that was archived on 2009-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090516235955id_/http%3A//www.3900income.com/index-5.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3900income.com privacy policy that was archived on 2009-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091116152308id_/http%3A//www.3900income.com/index-5.html) for the most accurate reproduction.*
 
 # 
 
