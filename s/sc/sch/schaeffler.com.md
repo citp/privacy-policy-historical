@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schaeffler.com privacy policy that was archived on 2009-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090516050810id_/http%3A//www.schaeffler.com/content.schaeffler.de/en/_global/Privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schaeffler.com privacy policy that was archived on 2009-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091116072756id_/http%3A//www.schaeffler.com/content.schaeffler.de/en/_global/Privacy.jsp) for the most accurate reproduction.*
 
 # Schaeffler KG |
 
