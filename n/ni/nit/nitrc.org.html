@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nitrc.org privacy policy that was archived on 2009-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090627203538id_/http%3A//nitrc.org/include/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nitrc.org privacy policy that was archived on 2009-11-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091116082547id_/http%3A//www.nitrc.org/include/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en   "><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -11,8 +11,9 @@
 		AdminWin = window.open( adminurl, 'AdminWindow','scrollbars=yes,resizable=yes, toolbar=yes, height=400, width=400, top=2, left=2');
 		AdminWin.focus();
 	}
-	function help_window(helpurl) {
-		HelpWin = window.open( helpurl,'HelpWindow','scrollbars=yes,resizable=yes,toolbar=no,height=400,width=400');
+	function help_window(helpurl,options) {
+	  if (options == undefined) options='scrollbars=yes,resizable=yes,toolbar=no,height=400,width=400';
+		HelpWin = window.open(helpurl,'HelpWindow',options);
 	}
 	// -->
 		</script>
@@ -37,6 +38,7 @@
 
 		
 	<! -- p {line-height: 16px} -->
+	p:normal {margin: 0 0 4px 0;}
 	h1 { font-size: 16pt; font-family: verdana,arial,helvetica,sans-serif; }
 	h2 { font-size: 15pt; font-family: verdana,arial,helvetica,sans-serif; }
 	h3 { font-size: 14pt; font-family: arial,helvetica,sans-serif; color: #940042; margin-top: 0}
@@ -98,7 +100,8 @@
 		<div align="center" style="font-size:xx-small"> &nbsp; <select class="srch" name="type_of_search"><option class="srch" value="crawler">Site-Wide</option>
 <option class="srch" value="site" selected="true">Tools/Resources</option>
 <option class="srch" value="people">People</option>
-</select></div></td><td>&nbsp;</td><td><input class="srch" type="text" size="18" name="q" value=""></td><td>&nbsp;</td><td><input type="image" src="/themes/nitrc/images/search.png" align="absmiddle" name="sa" value="Search" alt="Search">&nbsp;<a title="Get Search Help" href="javascript:help_window('/help/search.php?helpname=query')" onclick="trackExternalLink(this);"><img src="/themes/nitrc/images//ic/information.png" border="0" align="absmiddle" hspace="0" vspace="0"></a></td></tr></tbody></table></td>
+</select></div></td><td>&nbsp;</td><td><input class="srch" type="text" size="18" name="q" value="" title="Example searches:  morphology AND animation, modeling OR simulation, segmentation NOT Linux, &quot;region of interest&quot;"></td><td>&nbsp;</td><td><input type="image" src="/themes/nitrc/images/search.png" align="absmiddle" name="sa" value="Search" alt="Search">&nbsp;<a title="Get Information" href="javascript:help_window('http://www.nitrc.org/plugins/mwiki/index.php/nitrc:User_Guide_-_Search_Syntax',
+		'scrollbars=yes,resizable=yes,toolbar=no,height=600,width=800')" onclick="trackExternalLink(this);"><img src="/themes/nitrc/images//ic/information.png" border="0" align="absmiddle"></a></td></tr></tbody></table></td>
 				</tr>
 			</tbody></table>
 		</td>
@@ -140,7 +143,7 @@ Questions about NITRC privacy policies should be sent to <a href="mailto:nitrcin
 				   <a style="color:#940042" title="Funded by the NIH Blueprint for Neuroscience Research" href="http://neuroscienceblueprint.nih.gov/" onclick="trackExternalLink(this);"><b><i>Funded by the NIH Blueprint for Neuroscience Research</i></b></a>
 				 </td>
 				 <td width="10%" align="right">
-				  <span style="font-size:12px">v1.2.4-0</span>
+				  <span style="font-size:12px">v1.3.2-1</span>
 				 </td></tr>
 				<tr>
 				 <td colspan="3" width="100%" align="center">
