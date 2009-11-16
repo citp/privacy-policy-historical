@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rolandberger.com privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428214953id_/http%3A//rolandberger.com/data_protection_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rolandberger.com privacy policy that was archived on 2009-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091116093849id_/http%3A//www.rolandberger.com/data_protection_statement.html) for the most accurate reproduction.*
 
 # Privacy | Strategy Consultants
 
