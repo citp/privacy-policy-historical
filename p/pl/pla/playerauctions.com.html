@@ -1,11 +1,19 @@
-<!--The following is the downloaded HTML source of the playerauctions.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216020805id_/http%3A//www.playerauctions.com/Help/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the playerauctions.com privacy policy that was archived on 2009-11-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091116173856id_/http%3A//www.playerauctions.com/help/policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd"><html><head><link href="../App_Themes/Master/master.css" type="text/css" rel="stylesheet"><link href="../App_Themes/Master/menu.css" type="text/css" rel="stylesheet"><link id="ctl00_CommonCssLink" type="text/css" rel="stylesheet" href="/css/common.css"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd"><html><head><style media="screen"></style><link href="http://www.playerauctions.com/App_Themes/Master/master.css" type="text/css" rel="stylesheet"><link href="http://www.playerauctions.com/App_Themes/Master/menu.css" type="text/css" rel="stylesheet"><meta http-equiv="x-ua-compatible" content="ie=7"><link id="ctl00_CommonCssLink" type="text/css" rel="stylesheet" href="http://www.playerauctions.com/css/common.css"><link id="ctl00_CanonicalLink" rel="canonical" href="http://www.playerauctions.com/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
 	Privacy  Policy - PlayerAuctions
 </title>
-
-    <script type="text/javascript">   
+    <script type="text/javascript">
+        var Browser = {};
+        var ua = navigator.userAgent.toLowerCase();
+        var s;
+        (s = ua.match(/msie ([\d.]+)/)) ? Browser.ie = s[1] :
+        (s = ua.match(/firefox\/([\d.]+)/)) ? Browser.firefox = s[1] :
+        (s = ua.match(/chrome\/([\d.]+)/)) ? Browser.chrome = s[1] :
+        (s = ua.match(/opera.([\d.]+)/)) ? Browser.opera = s[1] :
+        (s = ua.match(/version\/([\d.]+).*safari/)) ? Browser.safari = s[1] : 0;
+        
 function GetLocalTimeOffset()
 {
     var now = new Date();
@@ -24,29 +32,39 @@ function setCookie(name,value,days) {
     else var expires = "";
       document.cookie = name+"="+value+expires+"; path=/";
 }
-GetLocalTimeOffset();  
-function createPopupMenu(sId)
-{
-    if (document.all&&document.getElementById) {
+GetLocalTimeOffset();
+function createPopupMenuBasic(sId, sOverClass) {
+    if (document.all && document.getElementById) {
         navRoot = document.getElementById(sId);
-        navRoot.onmouseover=function() {
-            this.className+=" over";
-        }
-        navRoot.onmouseout=function() {
-            this.className=this.className.replace(" over", "");
+        if (navRoot) {
+            navRoot.onmouseover = function() {
+                this.className += sOverClass;
+            }
+            navRoot.onmouseout = function() {
+                this.className = this.className.replace(sOverClass, "");
+            }
         }
     }
 }
+function createPopupMenu(sId)
+{
+    createPopupMenuBasic(sId, " over");
+}
+function createPopupTopMenu(sId) {
+    createPopupMenuBasic(sId, " topover");
+}
+function createPopupSimpleMenu(sId) {
+    createPopupMenuBasic(sId, " simpleover");
+}
 function initEyebrowMenu() {
-    createPopupMenu("ctl00_EyebrowMenu1");
-    createPopupMenu("ctl00_EyebrowMenu2");
-    createPopupMenu("ctl00_EyebrowMenu3");
-    createPopupMenu("ctl00_EyebrowMenu4");
-    createPopupMenu("ctl00_EyebrowMenu5");
-    createPopupMenu("ctl00_EyebrowMenu6");
- //   createPopupMenu("EyebrowMenu7");
-    createPopupMenu("EyebrowMenuLanguage6");
-    createPopupMenu("EyebrowMenuCurrency7")
+    createPopupMenu("menu_Account");
+    createPopupMenu("menu_Gold");
+    createPopupMenu("menu_Items");
+    createPopupMenu("menu_BuySell");
+    createPopupMenu("menu_Help");
+    createPopupTopMenu("menu_MyAccount");
+    createPopupTopMenu("menu_Community");
+    createPopupSimpleMenu("menu_Currency");
     if (typeof(initEyebrowMenuExtension) != "undefined")
         initEyebrowMenuExtension();
 }
@@ -76,30 +94,43 @@ function proLoadImages() {
         proLoadImagesExtension();
 }
 
-proLoadImages();
-    </script>
+function onBuySellMenuOver() {
+    // alert("onBuySellMenuOver");
+    if (typeof (onBuySellMenuOverExtend) != "undefined" && Browser.ie)
+        onBuySellMenuOverExtend();    
+}
 
-<link href="../App_Themes/Buy/buy.css" type="text/css" rel="stylesheet"><meta name="Keywords" content="Private Policy"><meta name="Description" content="Private Policy"><meta name="Copyright" content="PlayerAuctions.com"><meta name="Lang" content="EN"><meta name="ROBOTS" content="NOARCHIVE"><link rel="Shortcut Icon" href="/images/pa.ico"><link rel="Bookmark" href="/images/pa_bookmark.ico"></head>
-<body style="margin:0px; background: #DDEFF6 url('/images/body_bg.gif') top; background-repeat:repeat-x;">
-    <style type="text/css" media="screen">
-    BODY {margin:0px; background: #DDEFF6 url('images/body_bg.gif') top; background-repeat:repeat-x;}
-    #ShadowBlock {margin: 0px auto; width: 962px;}
-    HTML>BODY #ShadowBlock {background:url('/images/shadow_top_line.png');}
-    * #ShadowBlock {filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(enabled=true, sizingMethod=scale, src='/images/shadow_top_line.png'}    
-    </style>
-    <form name="aspnetForm" method="post" action="/Help/PrivacyPolicy.aspx" id="aspnetForm">
+function onBuySellMenuOut() {
+    if (typeof (onBuySellMenuOutExtend) != "undefined" && Browser.ie)
+        onBuySellMenuOutExtend();
+}
+
+proLoadImages();
+    
+    var locationBrowser = new String(window.location.href);
+    var len = locationBrowser.length;
+    if( len > 1 && locationBrowser.charAt(len - 1) == '/' && locationBrowser.charAt(len - 2) == locationBrowser.charAt(len - 1))
+    {
+         locationBrowser = locationBrowser.substring(0,len - 1);
+         window.location.href = locationBrowser;
+    }
+    </script>
+<link href="http://www.playerauctions.com/App_Themes/Buy/buy.css" type="text/css" rel="stylesheet"><meta name="Description" content="Private Policy"><meta name="Keywords" content="Private Policy"><meta name="Copyright" content="PlayerAuctions.com"><meta name="Lang" content="EN"><meta name="ROBOTS" content="NOARCHIVE"><meta name="ROBOTS" content="NOINDEX"><link rel="Shortcut Icon" href="/images/pa.ico"><link rel="Bookmark" href="/images/pa_bookmark.ico"></head>
+<body style="background: #000000 url('/images/body_bg.jpg') top; background-repeat:no-repeat;">
+    <form name="aspnetForm" method="post" action="/help/policy/" id="aspnetForm">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTI1NzkyNDA3MA9kFgJmD2QWBGYPZBYCAgIPFgIeBGhyZWYFDy9jc3MvY29tbW9uLmNzc2QCAQ9kFgwCAw8PFgIeBFRleHQFB0VuZ2xpc2hkZAIEDxYCHgtfIUl0ZW1Db3VudAICFgRmD2QWAgIBDw8WBB8BBQdFbmdsaXNoHg9Db21tYW5kQXJndW1lbnQFAmVuZGQCAQ9kFgICAQ8PFgQfAQUG5Lit5paHHwMFBXpoLUNOZGQCBg8PFgIfAQUEVVNEJGRkAgcPFgIfAgICFgRmD2QWAgIBDw8WBB8BBQRVU0QkHwMFA1VTRGRkAgEPZBYCAgEPDxYEHwEFBkNOWe+/pR8DBQNDTllkZAILD2QWAgIBD2QWAgIID2QWBmYPFgIfAAUyaHR0cHM6Ly93d3cucGxheWVyYXVjdGlvbnMuY29tL01lbWJlci9NeU9yZGVyLmFzcHhkAgEPZBYCAgEPDxYGHgtOYXZpZ2F0ZVVybAUxaHR0cHM6Ly93d3cucGxheWVyYXVjdGlvbnMuY29tL01lbWJlci9TaWduSW4uYXNweB4IQ3NzQ2xhc3MFC3BvcHVwYm90dG9tHgRfIVNCAgJkZAICDxYCHgdWaXNpYmxlaBYMZg8PFgIfBAUpaHR0cDovL3d3dy5wbGF5ZXJhdWN0aW9ucy5jb20/TGFuZ3VhZ2U9ZW5kZAIBDw8WBB8EBVtodHRwOi8vd3d3LnBsYXllcmF1Y3Rpb25zLmNvbS9nby9CdXktbW1vLWN1cnJlbmN5X2FjY291bnRzX3Bvd2VybGV2ZWxpbmdfaXRlbXMtMTAwMDAwMC5hc3B4HgdUb29sVGlwBTVTZWN1cmVseSBCdXkgTU1PIEN1cnJlbmN5LCBBY2NvdW50cywgSXRlbXMsIGFuZCBNb3JlIWRkAgIPDxYCHwQFKWh0dHA6Ly93d3cucGxheWVyYXVjdGlvbnMuY29tP0xhbmd1YWdlPWVuZGQCAw8PFgIfBAUpaHR0cDovL3d3dy5wbGF5ZXJhdWN0aW9ucy5jb20/TGFuZ3VhZ2U9ZW5kZAIEDw8WAh8EBSlodHRwOi8vd3d3LnBsYXllcmF1Y3Rpb25zLmNvbT9MYW5ndWFnZT1lbmRkAgUPDxYCHwQFMmh0dHBzOi8vd3d3LnBsYXllcmF1Y3Rpb25zLmNvbS9NZW1iZXIvTXlPcmRlci5hc3B4ZGQCDA9kFgQCAQ8QDxYGHg1EYXRhVGV4dEZpZWxkBQhHYW1lTmFtZR4ORGF0YVZhbHVlRmllbGQFCkNhdGVnb3J5SWQeC18hRGF0YUJvdW5kZ2QQFW4LU2VsZWN0IEdhbWUHMiBNb29ucwk5IERyYWdvbnMYQSBUYWxlIGluIHRoZSBEZXNlcnQgSUlJEUFnZSBvZiBDb25hbiAoRVUpEUFnZSBvZiBDb25hbiAoVVMpDkFuYXJjaHkgT25saW5lDUFuZ2VscyBPbmxpbmUIQXJjaGxvcmQOQXNoZXJvbidzIENhbGwQQXRsYW50aWNhIE9ubGluZRNCYXR0bGVncm91bmQgRXVyb3BlEUJvdW50eSBCYXkgT25saW5lCkNhYmFsIChFVSkKQ2FiYWwgKFVTKQ5DaXR5IG9mIEhlcm9lcxBDaXR5IG9mIFZpbGxhaW5zDENvcnVtIE9ubGluZRNEYXJrIEFnZSBvZiBDYW1lbG90DkRhcmsgYW5kIExpZ2h0BURvZnVzD0R1bmdlb24gUnVubmVycxlEdW5nZW9ucyBhbmQgRHJhZ29ucyAoRVUpGUR1bmdlb25zIGFuZCBEcmFnb25zIChVUykRRW50cm9waWEgVW5pdmVyc2UURVEgT25saW5lIEFkdmVudHVyZXMKRVZFIE9ubGluZQlFdmVyUXVlc3QMRXZlclF1ZXN0IElJDUZpZXN0YSBPbmxpbmUVRmluYWwgRmFudGFzeSBYSSAoVVMpCUZsb3JlbnNpYQtGbHkgRm9yIEZ1bgtHYWlhIE9ubGluZQ1Hb29uWnUgT25saW5lDkdyYW5hZG8gRXNwYWRhEUdyYW5kQ2hhc2UgT25saW5lCkd1aWxkIFdhcnMLR3VueiBPbmxpbmUKSGFiYm8gKEVVKQtIYWJibyAoVVMpIBFIZWxsZ2F0ZSA6IExvbmRvbgtIZXJvIE9ubGluZQxIb2xpYyBPbmxpbmUESU1WVQpLYWwgT25saW5lDUtuaWdodCBPbmxpbmUKTGFzdCBDaGFvcwdMaW5lYWdlDkxpbmVhZ2UgMiAoVVMpHUxvcmQgb2YgdGhlIFJpbmdzIE9ubGluZSAoRVUpHUxvcmQgb2YgdGhlIFJpbmdzIE9ubGluZSAoVVMpCE1hYmlub2dpC01hcGxlIFN0b3J5EE1hcGxlIFN0b3J5IChFVSkHTWV0aW4gMhBNaW5pb25zIG9mIE1pcnRoCU11IE9ubGluZQpNeXRoIFdhciAyD015dGggV2FyIE9ubGluZQpOYXZ5IEZpZWxkEE5lbyBTdGVhbSBPbmxpbmUNUGVyZmVjdCBXb3JsZA1QaGFudGFzeSBTdGFyGlBpcmF0ZXMgb2YgdGhlIEJ1cm5pbmcgU2VhClBsYW5ldFNpZGULUG9nbyBPbmxpbmUMUHJpc3RvbiBUYWxlDlB1enpsZSBQaXJhdGVzD1JhZ25hcm9rIE9ubGluZQZSYWtpb24OUmFwcGVseiBPbmxpbmUQUmVkIFN0b25lIE9ubGluZQ5SZXF1aWVtIE9ubGluZQlSRiBPbmxpbmUMUm9oYW4gT25saW5lC1Jvc2UgT25saW5lCVJ1bmVzY2FwZQtTYWdhIE9ubGluZQ5TY2lvbnMgb2YgRmF0ZQtTZWFsIE9ubGluZQtTZWNvbmQgTGlmZRBTaGFkb3cgb2YgTGVnZW5kClNoYWRvd0JhbmUNU2hhaXlhIE9ubGluZQpTaG8gT25saW5lD1NpbGtyb2FkIE9ubGluZRJTdGFyIFdhcnMgR2FsYXhpZXMQU3RhclF1ZXN0IE9ubGluZRZTd29yZCBvZiB0aGUgTmV3IFdvcmxkC1RhYnVsYSBSYXNhEFRhbGVzIG9mIFBpcmF0ZXMPVGFsaXNtYW4gT25saW5lDFRoYW5nIE9ubGluZQVUaWJpYQ9Ub29udG93biBPbmxpbmUQVHJpY2tzdGVyIE9ubGluZQpUd2VsdmUgU2t5DVVsdGltYSBPbmxpbmUZVmFuZ3VhcmQgOiBTYWdhIG9mIEhlcm9lcw9WZW5kZXR0YSBPbmxpbmUOVm95YWdlIENlbnR1cnkIV2FyIFJvY2sVV2FyaGFtbWVyIE9ubGluZSAoRVUpFVdhcmhhbW1lciBPbmxpbmUgKFVTKRFXaXRoIFlvdXIgRGVzdGlueRBXb3JsZCBvZiBLdW5nIEZ1FldvcmxkIG9mIFdhcmNyYWZ0IChFVSkWV29ybGQgb2YgV2FyY3JhZnQgKFVTKQRYaWFoFW4ABDI3OTAEMjgwMQQzMDMyBDIxMzAEMjE5MQE3BDI4MDUCMTkEMzAxMwQyODEzBDMwMzMEMzAxNAIyMAQyMTU1ATUCMjEEMzAzNQQyMzA3BDMwMTUCMjIEMzAzNgIxNwIxNAQzMDE2AjIzATgBNAIxMQQyODE4ATIEMjgyNgQyODMxAjI0BDI4NDcEMzAxOAQzMDI1AjEzBDMwMTkEMjc4NAQyNzg1AjI1BDI4NDkEMjg1MQQyODUzAjI2BDI4NTUEMjg3MQQyODgwATMCMjgCMjcEMjg4NAIyOQQyODg4BDI4OTAEMzA0NwQzMDIwBDMwNDgEMzA0OQQzMDUwBDI5MjUEMjkyOAQzMDIxBDIwMjIEMzA1MQQzMDI2BDI5MzYEMzA1MgIzMQQzMDUzBDI5MzgEMzAyNwQyOTUyAjE1BDI5NTYCMzICMzMEMzAyOAQyOTYyBDI5NjQBOQQyOTY3BDMwMjkEMjc5NAQyOTY5AjM0ATYEMzA1NAQyOTcyAjM1BDI5NzYEMzA1NQQzMDMwBDIyMzEEMzA1NgQzMDU3BDI5OTUEMjM5MgIxOAQzMDU4BDMwMDEEMzAzMQQyNjA4BDIwODQEMzAwNgQzMDU5AjEyAjEwBDMwMDgUKwNuZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dkZAIFDxAPFgYfCQUFVmFsdWUfCgUDS2V5HwtnZBAVBgxBbGwgUHJvZHVjdHMIQ3VycmVuY3kESXRlbQxHYW1lIEFjY291bnQNUG93ZXJsZXZlbGluZwpHYW1lIEd1aWRlFQYAATEBMgEzATQBNRQrAwZnZ2dnZ2dkZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUOY3RsMDAkaWJTZWFyY2i8j45Xiz0/fnbFhShlvuHAJHPi1w==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMTE0NjM5NzkPZBYCZg9kFgRmD2QWCmYPFgIeBGhyZWYFOmh0dHA6Ly93d3cucGxheWVyYXVjdGlvbnMuY29tL0FwcF9UaGVtZXMvTWFzdGVyL21hc3Rlci5jc3NkAgEPFgIfAAU4aHR0cDovL3d3dy5wbGF5ZXJhdWN0aW9ucy5jb20vQXBwX1RoZW1lcy9NYXN0ZXIvbWVudS5jc3NkAgMPFgIfAAUsaHR0cDovL3d3dy5wbGF5ZXJhdWN0aW9ucy5jb20vY3NzL2NvbW1vbi5jc3NkAgQPFgIfAAUeaHR0cDovL3d3dy5wbGF5ZXJhdWN0aW9ucy5jb20vZAIIDxYCHwAFNGh0dHA6Ly93d3cucGxheWVyYXVjdGlvbnMuY29tL0FwcF9UaGVtZXMvQnV5L2J1eS5jc3NkAgEPZBYaAgUPEA8WBh4NRGF0YVRleHRGaWVsZAUIR2FtZU5hbWUeDkRhdGFWYWx1ZUZpZWxkBQpDYXRlZ29yeUlkHgtfIURhdGFCb3VuZGdkEBWFAQtTZWxlY3QgR2FtZQcyIE1vb25zCTkgRHJhZ29ucxRBIFRhbGUgaW4gdGhlIERlc2VydA9BZ2Ugb2YgQ29uYW4gRVUPQWdlIG9mIENvbmFuIFVTDkFpb24gT25saW5lIEVVDkFpb24gT25saW5lIFVTDkFuYXJjaHkgT25saW5lDUFuZ2VscyBPbmxpbmUIQXJjaGxvcmQOQXNoZXJvbidzIENhbGwQQXRsYW50aWNhIE9ubGluZRNCYXR0bGVncm91bmQgRXVyb3BlEUJvdW50eSBCYXkgT25saW5lCkNhYmFsICBFVSAKQ2FiYWwgIFVTIBBDaGFtcGlvbnMgMG5saW5lDkNpdHkgb2YgSGVyb2VzEENpdHkgb2YgVmlsbGFpbnMOQ29ucXVlciBPbmxpbmUMQ29ydW0gT25saW5lCENyYXp5VGFvE0RhcmsgQWdlIG9mIENhbWVsb3QORGFyayBhbmQgTGlnaHQPRGFya2ZhbGwgT25saW5lCURpYWJsbyBJSQVEb2Z1cxZEdW5nZW9uIEZpZ2h0ZXIgT25saW5lD0R1bmdlb24gUnVubmVycxdEdW5nZW9ucyBhbmQgRHJhZ29ucyBFVRdEdW5nZW9ucyBhbmQgRHJhZ29ucyBVUxFFbnRyb3BpYSBVbml2ZXJzZRRFUSBPbmxpbmUgQWR2ZW50dXJlcw9FdWRlbW9ucyBPbmxpbmUKRVZFIE9ubGluZQlFdmVyUXVlc3QMRXZlclF1ZXN0IElJCUZhcm1WaWxsZQ1GaWVzdGEgT25saW5lE0ZpbmFsIEZhbnRhc3kgWEkgVVMJRmxvcmVuc2lhC0ZseSBGb3IgRnVuC0dhaWEgT25saW5lDUdvb25adSBPbmxpbmUOR3JhbmFkbyBFc3BhZGERR3JhbmRDaGFzZSBPbmxpbmUKR3VpbGQgV2FycwtHdW56IE9ubGluZQpIYWJibyAgRVUgC0hhYmJvICBVUyAgC0hlcm8gT25saW5lDEhvbGljIE9ubGluZQRJTVZVCkthbCBPbmxpbmUNS25pZ2h0IE9ubGluZQpMYXN0IENoYW9zB0xpbmVhZ2UMTGluZWFnZSAyIFVTG0xvcmQgb2YgVGhlIFJpbmdzIE9ubGluZSBFVRtMb3JkIG9mIFRoZSBSaW5ncyBPbmxpbmUgVVMFTHVuaWEITWFiaW5vZ2kKTWFmaWEgV2FycwtNYXBsZSBTdG9yeRBNYXBsZSBTdG9yeSAgRVUgB01ldGluIDIQTWluaW9ucyBvZiBNaXJ0aAlNdSBPbmxpbmUKTXl0aCBXYXIgMg9NeXRoIFdhciBPbmxpbmUKTmF2eSBGaWVsZBBOZW8gU3RlYW0gT25saW5lB05lb3BldHMNUGVyZmVjdCBXb3JsZBZQaGFudGFzeSBTdGFyIFVuaXZlcnNlGlBpcmF0ZXMgb2YgdGhlIEJ1cm5pbmcgU2VhClBsYW5ldFNpZGULUG9nbyBPbmxpbmUMUHJpc3RvbiBUYWxlDlB1enpsZSBQaXJhdGVzD1JhZ25hcm9rIE9ubGluZQZSYWtpb24OUmFwcGVseiBPbmxpbmUQUmVkIFN0b25lIE9ubGluZQ5SZXF1aWVtIE9ubGluZQlSRiBPbmxpbmUMUm9oYW4gT25saW5lC1Jvc2UgT25saW5lEVJ1bmVzIG9mIE1hZ2ljIEVVEVJ1bmVzIG9mIE1hZ2ljIFVTCVJ1bmVzY2FwZQtTYWdhIE9ubGluZQ5TY2lvbnMgb2YgRmF0ZQtTZWFsIE9ubGluZQtTZWNvbmQgTGlmZRBTaGFkb3cgb2YgTGVnZW5kClNoYWRvd0JhbmUNU2hhaXlhIE9ubGluZQpTaG8gT25saW5lD1NpbGtyb2FkIE9ubGluZRJTdGFyIFdhcnMgR2FsYXhpZXMQU3RhclF1ZXN0IE9ubGluZRZTd29yZCBvZiB0aGUgTmV3IFdvcmxkEFRhbGVzIG9mIFBpcmF0ZXMPVGFsaXNtYW4gT25saW5lDVRleGFzIEhvbGQnRW0MVGhhbmcgT25saW5lG1RoZSBDaHJvbmljbGVzIE9mIFNwZWxsYm9ybgxUaGUgV2FybG9yZHMFVGliaWEPVG9vbnRvd24gT25saW5lEFRyaWNrc3RlciBPbmxpbmUKVHdlbHZlIFNreQ1Ud2VsdmUgU2t5ICAyDVVsdGltYSBPbmxpbmUIVmFtcGlyZXMZVmFuZ3VhcmQgOiBTYWdhIG9mIEhlcm9lcw9WZW5kZXR0YSBPbmxpbmUOVm95YWdlIENlbnR1cnkIV2FyIFJvY2sTV2FyaGFtbWVyIE9ubGluZSBFVRNXYXJoYW1tZXIgT25saW5lIFVTD1dheSBvZiB0aGUgRml2ZQdXZWJraW56EVdpdGggWW91ciBEZXN0aW55CVdpemFyZDEwMRBXb3JsZCBvZiBLdW5nIEZ1FFdvcmxkIG9mIFdhcmNyYWZ0IEVVFFdvcmxkIG9mIFdhcmNyYWZ0IFVTBFhpYWgHWW92aWxsZQtaZXJvIE9ubGluZRWFAQAEMjc5MAQyODAxBDMwMzIEMjEzMAQyMTkxBDMzNzYEMzEzNAE3BDI4MDUCMTkEMzAxMwQyODEzBDMwMzMEMzAxNAIyMAQyMTU1BDMyMTcBNQIyMQQzMjI5BDMwMzUEMzMwMQQyMzA3BDMwMTUEMzE3MwQzNDUwAjIyBDM0NDAEMzAzNgIxNwIxNAQzMDE2AjIzBDMwMzcBOAE0AjExBDM0NDIEMjgxOAEyBDI4MjYEMjgzMQIyNAQyODQ3BDMwMTgEMzAyNQIxMwQzMDE5BDI3ODQEMjc4NQQyODQ5BDI4NTEEMjg1MwIyNgQyODU1BDI4NzEEMjg4MAEzAjI4AjI3BDMxMzYEMjg4NAQzMjA5AjI5BDI4ODgEMjg5MAQzMDQ3BDMwMjAEMzA0OAQzMDQ5BDMwNTAEMjkyNQQzMTMyBDI5MjgEMzAyMQQyMDIyBDMwNTEEMzAyNgQyOTM2BDMwNTICMzEEMzA1MwQyOTM4BDMwMjcEMjk1MgIxNQQyOTU2AjMyBDMxODQEMzE3OQIzMwQzMDI4BDI5NjIEMjk2NAE5BDI5NjcEMzAyOQQyNzk0BDI5NjkCMzQBNgQzMDU0BDI5NzIEMjk3NgQzMDU1BDMyMjYEMzAzMAQzMjAwBDMzMDMEMjIzMQQzMDU2BDMwNTcEMjk5NQQzMjIwBDIzOTIEMzQ0NwIxOAQzMDU4BDMwMDEEMzAzMQQyNjA4BDIwODQEMzMwNQQzMzA3BDMwMDYEMzE5NgQzMDU5AjEyAjEwBDMwMDgEMzQ0NQQzMjk5FCsDhQFnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZGQCBw8PZBYEHgdvbmZvY3VzBRFvblRleHRCb3hGb2N1cygpOx4Gb25ibHVyBRBvblRleHRCb3hCbHVyKCk7ZAIKDxAPFgYfAQUFVmFsdWUfAgUDS2V5HwNnZBAVBgxBbGwgUHJvZHVjdHMIQ3VycmVuY3kFSXRlbXMIQWNjb3VudHMOUG93ZXIgbGV2ZWxpbmcGR3VpZGVzFQYAATEBMgEzATQBNRQrAwZnZ2dnZ2dkZAILDw8WAh4ISW1hZ2VVcmwFFy9pbWFnZXMvaW1hZ2VfZ29iaWcuZ2lmZGQCDQ8WAh4HVmlzaWJsZWcWAgIHD2QWBAIBDxYCHwdoFgRmD2QWAgIDDw8WAh4EVGV4dAUBIWRkAgQPDxYCHgtOYXZpZ2F0ZVVybAU9aHR0cHM6Ly93d3cucGxheWVyYXVjdGlvbnMuY29tL21lbWJlci9tZXNzZW5nZXIvP2FjdGlvbj1pbmJveGRkAgUPFgIfCGVkAg8PFgIfB2dkAhEPFgIeC18hSXRlbUNvdW50AgIWBGYPZBYCAgEPDxYGHg9Db21tYW5kQXJndW1lbnQFAmVuHgdUb29sVGlwBQdFbmdsaXNoHwYFEy9pbWFnZXMvZmxhZ191cy5naWZkZAIBD2QWAgIBDw8WBh8LBQV6aC1DTh8MBQbkuK3mlocfBgUTL2ltYWdlcy9mbGFnX2NuLmdpZmRkAhMPDxYCHwgFBFVTRCRkZAIUDxYCHwoCAhYEZg9kFgICAQ8PFgYfCAUEVVNEJB8LBQNVU0QfDAUEVVNEJGRkAgEPZBYCAgEPDxYGHwgFBkNOWe+/pR8LBQNDTlkfDAUGQ05Z77+lZGQCMw8PFgIfCQUjaHR0cDovL3d3dy5wbGF5ZXJhdWN0aW9ucy5jb20vYmxvZy9kZAI8Dw9kFgQfBAURb25UZXh0Qm94Rm9jdXMoKTsfBQUQb25UZXh0Qm94Qmx1cigpO2QCPg8QDxYGHwEFCEdhbWVOYW1lHwIFCkNhdGVnb3J5SWQfA2dkEBWFAQtTZWxlY3QgR2FtZQcyIE1vb25zCTkgRHJhZ29ucxRBIFRhbGUgaW4gdGhlIERlc2VydA9BZ2Ugb2YgQ29uYW4gRVUPQWdlIG9mIENvbmFuIFVTDkFpb24gT25saW5lIEVVDkFpb24gT25saW5lIFVTDkFuYXJjaHkgT25saW5lDUFuZ2VscyBPbmxpbmUIQXJjaGxvcmQOQXNoZXJvbidzIENhbGwQQXRsYW50aWNhIE9ubGluZRNCYXR0bGVncm91bmQgRXVyb3BlEUJvdW50eSBCYXkgT25saW5lCkNhYmFsICBFVSAKQ2FiYWwgIFVTIBBDaGFtcGlvbnMgMG5saW5lDkNpdHkgb2YgSGVyb2VzEENpdHkgb2YgVmlsbGFpbnMOQ29ucXVlciBPbmxpbmUMQ29ydW0gT25saW5lCENyYXp5VGFvE0RhcmsgQWdlIG9mIENhbWVsb3QORGFyayBhbmQgTGlnaHQPRGFya2ZhbGwgT25saW5lCURpYWJsbyBJSQVEb2Z1cxZEdW5nZW9uIEZpZ2h0ZXIgT25saW5lD0R1bmdlb24gUnVubmVycxdEdW5nZW9ucyBhbmQgRHJhZ29ucyBFVRdEdW5nZW9ucyBhbmQgRHJhZ29ucyBVUxFFbnRyb3BpYSBVbml2ZXJzZRRFUSBPbmxpbmUgQWR2ZW50dXJlcw9FdWRlbW9ucyBPbmxpbmUKRVZFIE9ubGluZQlFdmVyUXVlc3QMRXZlclF1ZXN0IElJCUZhcm1WaWxsZQ1GaWVzdGEgT25saW5lE0ZpbmFsIEZhbnRhc3kgWEkgVVMJRmxvcmVuc2lhC0ZseSBGb3IgRnVuC0dhaWEgT25saW5lDUdvb25adSBPbmxpbmUOR3JhbmFkbyBFc3BhZGERR3JhbmRDaGFzZSBPbmxpbmUKR3VpbGQgV2FycwtHdW56IE9ubGluZQpIYWJibyAgRVUgC0hhYmJvICBVUyAgC0hlcm8gT25saW5lDEhvbGljIE9ubGluZQRJTVZVCkthbCBPbmxpbmUNS25pZ2h0IE9ubGluZQpMYXN0IENoYW9zB0xpbmVhZ2UMTGluZWFnZSAyIFVTG0xvcmQgb2YgVGhlIFJpbmdzIE9ubGluZSBFVRtMb3JkIG9mIFRoZSBSaW5ncyBPbmxpbmUgVVMFTHVuaWEITWFiaW5vZ2kKTWFmaWEgV2FycwtNYXBsZSBTdG9yeRBNYXBsZSBTdG9yeSAgRVUgB01ldGluIDIQTWluaW9ucyBvZiBNaXJ0aAlNdSBPbmxpbmUKTXl0aCBXYXIgMg9NeXRoIFdhciBPbmxpbmUKTmF2eSBGaWVsZBBOZW8gU3RlYW0gT25saW5lB05lb3BldHMNUGVyZmVjdCBXb3JsZBZQaGFudGFzeSBTdGFyIFVuaXZlcnNlGlBpcmF0ZXMgb2YgdGhlIEJ1cm5pbmcgU2VhClBsYW5ldFNpZGULUG9nbyBPbmxpbmUMUHJpc3RvbiBUYWxlDlB1enpsZSBQaXJhdGVzD1JhZ25hcm9rIE9ubGluZQZSYWtpb24OUmFwcGVseiBPbmxpbmUQUmVkIFN0b25lIE9ubGluZQ5SZXF1aWVtIE9ubGluZQlSRiBPbmxpbmUMUm9oYW4gT25saW5lC1Jvc2UgT25saW5lEVJ1bmVzIG9mIE1hZ2ljIEVVEVJ1bmVzIG9mIE1hZ2ljIFVTCVJ1bmVzY2FwZQtTYWdhIE9ubGluZQ5TY2lvbnMgb2YgRmF0ZQtTZWFsIE9ubGluZQtTZWNvbmQgTGlmZRBTaGFkb3cgb2YgTGVnZW5kClNoYWRvd0JhbmUNU2hhaXlhIE9ubGluZQpTaG8gT25saW5lD1NpbGtyb2FkIE9ubGluZRJTdGFyIFdhcnMgR2FsYXhpZXMQU3RhclF1ZXN0IE9ubGluZRZTd29yZCBvZiB0aGUgTmV3IFdvcmxkEFRhbGVzIG9mIFBpcmF0ZXMPVGFsaXNtYW4gT25saW5lDVRleGFzIEhvbGQnRW0MVGhhbmcgT25saW5lG1RoZSBDaHJvbmljbGVzIE9mIFNwZWxsYm9ybgxUaGUgV2FybG9yZHMFVGliaWEPVG9vbnRvd24gT25saW5lEFRyaWNrc3RlciBPbmxpbmUKVHdlbHZlIFNreQ1Ud2VsdmUgU2t5ICAyDVVsdGltYSBPbmxpbmUIVmFtcGlyZXMZVmFuZ3VhcmQgOiBTYWdhIG9mIEhlcm9lcw9WZW5kZXR0YSBPbmxpbmUOVm95YWdlIENlbnR1cnkIV2FyIFJvY2sTV2FyaGFtbWVyIE9ubGluZSBFVRNXYXJoYW1tZXIgT25saW5lIFVTD1dheSBvZiB0aGUgRml2ZQdXZWJraW56EVdpdGggWW91ciBEZXN0aW55CVdpemFyZDEwMRBXb3JsZCBvZiBLdW5nIEZ1FFdvcmxkIG9mIFdhcmNyYWZ0IEVVFFdvcmxkIG9mIFdhcmNyYWZ0IFVTBFhpYWgHWW92aWxsZQtaZXJvIE9ubGluZRWFAQAEMjc5MAQyODAxBDMwMzIEMjEzMAQyMTkxBDMzNzYEMzEzNAE3BDI4MDUCMTkEMzAxMwQyODEzBDMwMzMEMzAxNAIyMAQyMTU1BDMyMTcBNQIyMQQzMjI5BDMwMzUEMzMwMQQyMzA3BDMwMTUEMzE3MwQzNDUwAjIyBDM0NDAEMzAzNgIxNwIxNAQzMDE2AjIzBDMwMzcBOAE0AjExBDM0NDIEMjgxOAEyBDI4MjYEMjgzMQIyNAQyODQ3BDMwMTgEMzAyNQIxMwQzMDE5BDI3ODQEMjc4NQQyODQ5BDI4NTEEMjg1MwIyNgQyODU1BDI4NzEEMjg4MAEzAjI4AjI3BDMxMzYEMjg4NAQzMjA5AjI5BDI4ODgEMjg5MAQzMDQ3BDMwMjAEMzA0OAQzMDQ5BDMwNTAEMjkyNQQzMTMyBDI5MjgEMzAyMQQyMDIyBDMwNTEEMzAyNgQyOTM2BDMwNTICMzEEMzA1MwQyOTM4BDMwMjcEMjk1MgIxNQQyOTU2AjMyBDMxODQEMzE3OQIzMwQzMDI4BDI5NjIEMjk2NAE5BDI5NjcEMzAyOQQyNzk0BDI5NjkCMzQBNgQzMDU0BDI5NzIEMjk3NgQzMDU1BDMyMjYEMzAzMAQzMjAwBDMzMDMEMjIzMQQzMDU2BDMwNTcEMjk5NQQzMjIwBDIzOTIEMzQ0NwIxOAQzMDU4BDMwMDEEMzAzMQQyNjA4BDIwODQEMzMwNQQzMzA3BDMwMDYEMzE5NgQzMDU5AjEyAjEwBDMwMDgEMzQ0NQQzMjk5FCsDhQFnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZGQCQA8PFgIfBgUUL2ltYWdlcy9zZWFyY2hnby5naWZkZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WBAUOY3RsMDAkaWJTZWFyY2gFI2N0bDAwJHJwTGFuZ3VhZ2VzJGN0bDAwJGxua0xhbmd1YWdlBSNjdGwwMCRycExhbmd1YWdlcyRjdGwwMSRsbmtMYW5ndWFnZQUPY3RsMDAkaWJTZWFyY2gyzUJ7keuYRe15EjE6BhSpXom0/PY=">
 </div>
 
 
-<script src="/Js/Common.js" type="text/javascript"></script>
-<script src="/Js/ajaxslt_xmltoken.js" type="text/javascript"></script>
-<script src="/Js/ajaxslt_util.js" type="text/javascript"></script>
-<script src="/Js/ajaxslt_dom.js" type="text/javascript"></script>
-<script src="/Js/ajaxslt_xpath.js" type="text/javascript"></script>
-<script src="/Js/AjaxDom_ajaxslt.js" type="text/javascript"></script>
-<script src="/Js/GameListControl.js" type="text/javascript"></script><script type="text/javascript"> function clearSelectOptions(source)     {     for ( var i = source.length - 1; i >= 0; --i)     {     source.remove(i);     }     } function rebuildProductOptions(oSelect, sProductType, sCurrencyName) { var valueMemo = oSelect.value;      clearSelectOptions(oSelect);     oSelect.options.add(new Option("All Products", ""));     var productTypeList = new Array();     productTypeList[0] = new Option("Currency", "1");     productTypeList[1] = new Option("Item", "2");     productTypeList[2] = new Option("Game Account", "3");     productTypeList[3] = new Option("Powerleveling", "4");     productTypeList[4] = new Option("Game Guide", "5");     var aProductType = sProductType.split(",");     for( var i=0; i < aProductType.length; ++i)     {                 if (aProductType[i] == "1")                 {             var optionBuffer = productTypeList[i];             if (optionBuffer.value == "1")             {                 optionBuffer.text = sCurrencyName;             }             oSelect.options.add(optionBuffer);         }     }     oSelect.value = valueMemo;     if (oSelect.value != valueMemo) { oSelect.value = ''; } }</script>
+<script src="/Js/Common.js?version=2.1.7" type="text/javascript"></script>
+<script src="/Js/DD_belatedPNG.JS?version=2.1.7" type="text/javascript"></script>
+<script src="/Js/ajaxslt_xmltoken.js?version=2.1.7" type="text/javascript"></script>
+<script src="/Js/ajaxslt_util.js?version=2.1.7" type="text/javascript"></script>
+<script src="/Js/ajaxslt_dom.js?version=2.1.7" type="text/javascript"></script>
+<script src="/Js/ajaxslt_xpath.js?version=2.1.7" type="text/javascript"></script>
+<script src="/Js/AjaxDom_ajaxslt.js?version=2.1.7" type="text/javascript"></script>
+<script src="/Js/GameListControl.js?version=2.1.7" type="text/javascript"></script>
         <noscript>
             <div align="center" style="background-color: Red; font-weight: bold">
                 Please enable Javascript support in your browser to use PlayerAuctions.com. We recommend: <a href="http://www.mozilla.com/firefox/">Firefox 2.0</a> or <a href="http://www.microsoft.com/windows/downloads/ie/getitnow.mspx">IE 7.0</a>.
@@ -118,681 +149,999 @@ proLoadImages();
         </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 
         <script type="text/javascript">
+        try {
         var pageTracker = _gat._getTracker("UA-3406877-1");
         pageTracker._trackPageview();
+        } catch(err) {}
         </script>
 
         <!--End of Google Analytics-->
-        <!--Start of Page Setting (Language & Currency)-->
-        <table width="962" align="center" height="25" border="0" cellpadding="0" cellspacing="0">
-            <tbody><tr>
-                <td width="60%">
-                    <input type="submit" style="width: 0px; height: 0px; border: 0; background-color: Transparent;" value="" onclick="return false;"></td>
-                <td width="16">
-                    <img height="16" src="/images/earth.gif" width="16"></td>
-                <td class="top_selection">
-                    <table>
-                        <tbody><tr>
-                            <td>
-                                <div class="simplePopup" id="EyebrowMenuLanguage6" style="position: relative;">
-                                    &nbsp;<span class="white">Language :</span>
-                                    &nbsp;<a href="#"><font style="text-decoration: underline; color:#76CB15"><span id="ctl00_lblSelLanguage">English</span></font></a>
-                                    <img src="/images/icon_sec.gif" align="absmiddle" border="0" height="11" width="12">
-                                    <div class="popupText" id="EyebrowMenuLanguage6_Popup" style="margin-left: 68px;
-                                        #margin-left: 8px; ">
-                                        <table border="0" cellpadding="0" cellspacing="0" width="65" align="right" style="margin-top: -1px">
-                                            <tbody>
-                                                <tr>
-                                                    <td colspan="3" bgcolor="#257495" height="1">
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td bgcolor="#257495" width="1">
-                                                    </td>
-                                                    <td bgcolor="#fcfdfe">
-                                                        <ul>
-                                                            
-                                                                    <li>
-                                                                        <a onclick="javascript:__doPostBack('ctl00$rpLanguages$ctl00$lnkLanguage','');return false;" id="ctl00_rpLanguages_ctl00_lnkLanguage" href="/Help/PrivacyPolicy.aspx#">English</a>
-                                                                    </li>
-                                                                
-                                                                    <li>
-                                                                        <a onclick="javascript:__doPostBack('ctl00$rpLanguages$ctl01$lnkLanguage','');return false;" id="ctl00_rpLanguages_ctl01_lnkLanguage" href="/Help/PrivacyPolicy.aspx#">中文</a>
-                                                                    </li>
-                                                                
-                                                        </ul>
-                                                    </td>
-                                                    <td bgcolor="#257495" width="1">
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td colspan="3" bgcolor="#257495" height="1">
-                                                    </td>
-                                                </tr>
-                                            </tbody>
-                                        </table>
-                                    </div>
-                                </div>
-                            </td>
-                            <td class="white">
-                                &nbsp;&nbsp;|&nbsp;&nbsp;
-                            </td>
-                            <td>
-                                <div class="simplePopup" id="EyebrowMenuCurrency7" style="position: relative;">
-                                    <span class="white">Currency :</span>
-                                    &nbsp;<a href="#" style="position: static"><font style="text-decoration: underline; color:#76CB15"><span id="ctl00_lblSelCurrency">USD$</span></font></a>
-                                    <img src="/images/icon_sec.gif" align="absmiddle" border="0" height="11" width="12">
-                                    <div class="popupText" id="EyebrowMenuCurrency7_Popup" style="margin-left: 58px;
-                                        #margin-left: 17px;
-                                        #margin-top: 1px;">
-                                        <table border="0" cellpadding="0" cellspacing="0" width="65" align="right" style="margin-top: -1px">
-                                            <tbody>
-                                                <tr>
-                                                    <td colspan="3" bgcolor="#257495" height="1">
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td bgcolor="#257495" width="1">
-                                                    </td>
-                                                    <td bgcolor="#fcfdfe">
-                                                        <ul>
-                                                            
-                                                                    <li>
-                                                                        <a onclick="javascript:__doPostBack('ctl00$rpCurrency$ctl00$lnkCurrency','');return false;" id="ctl00_rpCurrency_ctl00_lnkCurrency" href="/Help/PrivacyPolicy.aspx#">USD$</a>
-                                                                    </li>
-                                                                
-                                                                    <li>
-                                                                        <a onclick="javascript:__doPostBack('ctl00$rpCurrency$ctl01$lnkCurrency','');return false;" id="ctl00_rpCurrency_ctl01_lnkCurrency" href="/Help/PrivacyPolicy.aspx#">CNY￥</a>
-                                                                    </li>
-                                                                
-                                                        </ul>
-                                                    </td>
-                                                    <td bgcolor="#257495" width="1">
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td colspan="3" bgcolor="#257495" height="1">
-                                                    </td>
-                                                </tr>
-                                            </tbody>
-                                        </table>
-                                    </div>
-                                </div>
-                            </td>
-                        </tr>
-                    </tbody></table>
-                </td>
-                <td width="30">
-                </td>
-            </tr>
-        </tbody></table>
-        <!--End of Page Setting (Language & Currency)-->
-        <table width="962" border="0" align="center" cellpadding="0" cellspacing="0">
-            <tbody><tr>
-                <td colspan="3">
-                    <img src="/images/shadow_top_map.gif" width="962" height="7"></td>
-            </tr>
-        </tbody></table>
-        <div id="ShadowBlock" align="center">
-            <div id="header">
-                <!--Start of Login Form-->
-                <table width="100%" border="0" cellpadding="0" cellspacing="0">
-                    <tbody><tr>
-                        <td width="6" height="78">
-                        </td>
-                        <td width="20" height="78">
-                        </td>
-                        <td width="212" height="78">
-                            <a id="ctl00_hlLogo" href="http://www.playerauctions.com/"><img src="/images/pa_logo.gif" width="240" height="76" border="0" title="PlayerAuctions - Play. Trade. Dominate."></a></td>
-                        <td width="202" height="78" align="right">
-                        </td>
-                        <td width="405" align="right" valign="middle" class="top_login">
-                            <div id="ctl00_pnlLoginForm" style="text-align: right; margin-right: 20px;
-                                    padding-top: 45px; font-weight: normal!important;">
-	
-                                    Welcome! Please <a id="ctl00_hlLogin" title="sign in" class="top_login" href="https://www.playerauctions.com/Member/SignIn.aspx">sign in</a> or <a id="ctl00_hlSignup" title="register for free" class="top_login" href="https://www.playerauctions.com/Member/Registration.aspx">register for free</a>.
-                                
+<div id="advsearch" style="display:none; position:absolute; left:735px;#left:733px; top:120px;#top:120px!important; #top:150px; z-index:1000;">
+  <table width="420" border="0" cellpadding="0" cellspacing="0">
+    <tbody><tr>
+      <td width="77" height="32" class="advancedsea">Browse: </td>
+      <td width="350" nowrap="nowrap" class="advancedsea">
+      <select name="ctl00$ddlOfferType" id="ctl00_ddlOfferType" class="selectform" style="margin-right: 0px;">
+	<option value="1">For Sale Offers</option>
+	<option value="2">Wanted Offers</option>
+
+</select>
+      &nbsp; on:&nbsp; 
+      <select name="ctl00$ddlGameMaster" id="ctl00_ddlGameMaster" class="selectgameform">
+	<option value="">Select Game</option>
+	<option value="2790">2 Moons</option>
+	<option value="2801">9 Dragons</option>
+	<option value="3032">A Tale in the Desert</option>
+	<option value="2130">Age of Conan EU</option>
+	<option value="2191">Age of Conan US</option>
+	<option value="3376">Aion Online EU</option>
+	<option value="3134">Aion Online US</option>
+	<option value="7">Anarchy Online</option>
+	<option value="2805">Angels Online</option>
+	<option value="19">Archlord</option>
+	<option value="3013">Asheron's Call</option>
+	<option value="2813">Atlantica Online</option>
+	<option value="3033">Battleground Europe</option>
+	<option value="3014">Bounty Bay Online</option>
+	<option value="20">Cabal  EU </option>
+	<option value="2155">Cabal  US </option>
+	<option value="3217">Champions 0nline</option>
+	<option value="5">City of Heroes</option>
+	<option value="21">City of Villains</option>
+	<option value="3229">Conquer Online</option>
+	<option value="3035">Corum Online</option>
+	<option value="3301">CrazyTao</option>
+	<option value="2307">Dark Age of Camelot</option>
+	<option value="3015">Dark and Light</option>
+	<option value="3173">Darkfall Online</option>
+	<option value="3450">Diablo II</option>
+	<option value="22">Dofus</option>
+	<option value="3440">Dungeon Fighter Online</option>
+	<option value="3036">Dungeon Runners</option>
+	<option value="17">Dungeons and Dragons EU</option>
+	<option value="14">Dungeons and Dragons US</option>
+	<option value="3016">Entropia Universe</option>
+	<option value="23">EQ Online Adventures</option>
+	<option value="3037">Eudemons Online</option>
+	<option value="8">EVE Online</option>
+	<option value="4">EverQuest</option>
+	<option value="11">EverQuest II</option>
+	<option value="3442">FarmVille</option>
+	<option value="2818">Fiesta Online</option>
+	<option value="2">Final Fantasy XI US</option>
+	<option value="2826">Florensia</option>
+	<option value="2831">Fly For Fun</option>
+	<option value="24">Gaia Online</option>
+	<option value="2847">GoonZu Online</option>
+	<option value="3018">Granado Espada</option>
+	<option value="3025">GrandChase Online</option>
+	<option value="13">Guild Wars</option>
+	<option value="3019">Gunz Online</option>
+	<option value="2784">Habbo  EU </option>
+	<option value="2785">Habbo  US  </option>
+	<option value="2849">Hero Online</option>
+	<option value="2851">Holic Online</option>
+	<option value="2853">IMVU</option>
+	<option value="26">Kal Online</option>
+	<option value="2855">Knight Online</option>
+	<option value="2871">Last Chaos</option>
+	<option value="2880">Lineage</option>
+	<option value="3">Lineage 2 US</option>
+	<option value="28">Lord of The Rings Online EU</option>
+	<option value="27">Lord of The Rings Online US</option>
+	<option value="3136">Lunia</option>
+	<option value="2884">Mabinogi</option>
+	<option value="3209">Mafia Wars</option>
+	<option value="29">Maple Story</option>
+	<option value="2888">Maple Story  EU </option>
+	<option value="2890">Metin 2</option>
+	<option value="3047">Minions of Mirth</option>
+	<option value="3020">Mu Online</option>
+	<option value="3048">Myth War 2</option>
+	<option value="3049">Myth War Online</option>
+	<option value="3050">Navy Field</option>
+	<option value="2925">Neo Steam Online</option>
+	<option value="3132">Neopets</option>
+	<option value="2928">Perfect World</option>
+	<option value="3021">Phantasy Star Universe</option>
+	<option value="2022">Pirates of the Burning Sea</option>
+	<option value="3051">PlanetSide</option>
+	<option value="3026">Pogo Online</option>
+	<option value="2936">Priston Tale</option>
+	<option value="3052">Puzzle Pirates</option>
+	<option value="31">Ragnarok Online</option>
+	<option value="3053">Rakion</option>
+	<option value="2938">Rappelz Online</option>
+	<option value="3027">Red Stone Online</option>
+	<option value="2952">Requiem Online</option>
+	<option value="15">RF Online</option>
+	<option value="2956">Rohan Online</option>
+	<option value="32">Rose Online</option>
+	<option value="3184">Runes of Magic EU</option>
+	<option value="3179">Runes of Magic US</option>
+	<option value="33">Runescape</option>
+	<option value="3028">Saga Online</option>
+	<option value="2962">Scions of Fate</option>
+	<option value="2964">Seal Online</option>
+	<option value="9">Second Life</option>
+	<option value="2967">Shadow of Legend</option>
+	<option value="3029">ShadowBane</option>
+	<option value="2794">Shaiya Online</option>
+	<option value="2969">Sho Online</option>
+	<option value="34">Silkroad Online</option>
+	<option value="6">Star Wars Galaxies</option>
+	<option value="3054">StarQuest Online</option>
+	<option value="2972">Sword of the New World</option>
+	<option value="2976">Tales of Pirates</option>
+	<option value="3055">Talisman Online</option>
+	<option value="3226">Texas Hold'Em</option>
+	<option value="3030">Thang Online</option>
+	<option value="3200">The Chronicles Of Spellborn</option>
+	<option value="3303">The Warlords</option>
+	<option value="2231">Tibia</option>
+	<option value="3056">Toontown Online</option>
+	<option value="3057">Trickster Online</option>
+	<option value="2995">Twelve Sky</option>
+	<option value="3220">Twelve Sky  2</option>
+	<option value="2392">Ultima Online</option>
+	<option value="3447">Vampires</option>
+	<option value="18">Vanguard : Saga of Heroes</option>
+	<option value="3058">Vendetta Online</option>
+	<option value="3001">Voyage Century</option>
+	<option value="3031">War Rock</option>
+	<option value="2608">Warhammer Online EU</option>
+	<option value="2084">Warhammer Online US</option>
+	<option value="3305">Way of the Five</option>
+	<option value="3307">Webkinz</option>
+	<option value="3006">With Your Destiny</option>
+	<option value="3196">Wizard101</option>
+	<option value="3059">World of Kung Fu</option>
+	<option value="12">World of Warcraft EU</option>
+	<option value="10">World of Warcraft US</option>
+	<option value="3008">Xiah</option>
+	<option value="3445">Yoville</option>
+	<option value="3299">Zero Online</option>
+
+</select>
+                                                              
+      </td>
+    </tr>
+    <tr>
+      <td height="32">&nbsp;</td>
+      <td align="left" class="advancedsea">
+        <input name="ctl00$txtKeyword" type="text" id="ctl00_txtKeyword" class="keywordform grey Keyword" onfocus="onTextBoxFocus();" onblur="onTextBoxBlur();">
+      </td>
+    </tr>
+    <tr>
+    <td colspan="2" height="5"></td>
+    </tr>
+    <tr valign="top">
+      <td class="advancedsea" style="height:32px;">Server: </td>
+      <td id="ServerColumn_Master" class="advancedsea">
+        <div id="GameListDiv_Master" style="float: left; margin-right: -5px;"></div>                                                            
+        <div id="ServerFill_Master" class="GameListControlHorizontalDiv GameListControlHorizontalDiv0">
+            <select disabled="disabled" class="serverform">
+                <option>
+                    Select Server
+                </option>
+            </select>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td height="40">&nbsp;</td>
+      <td valign="top">
+            <table width="100%">
+                <tbody><tr>
+                    <td>
+                        <span id="ctl00_rblProductType"><input id="ctl00_rblProductType_0" type="radio" name="ctl00$rblProductType" value="" checked="checked"><label for="ctl00_rblProductType_0">All Products</label><input id="ctl00_rblProductType_1" type="radio" name="ctl00$rblProductType" value="1"><label for="ctl00_rblProductType_1">Currency</label><input id="ctl00_rblProductType_2" type="radio" name="ctl00$rblProductType" value="2"><label for="ctl00_rblProductType_2">Items</label><br><input id="ctl00_rblProductType_3" type="radio" name="ctl00$rblProductType" value="3"><label for="ctl00_rblProductType_3">Accounts</label><input id="ctl00_rblProductType_4" type="radio" name="ctl00$rblProductType" value="4"><label for="ctl00_rblProductType_4">Power leveling</label><input id="ctl00_rblProductType_5" type="radio" name="ctl00$rblProductType" value="5"><label for="ctl00_rblProductType_5">Guides</label><br></span>
+                    </td>
+                    <td align="right">
+                        <input type="image" name="ctl00$ibSearch" id="ctl00_ibSearch" title="Search MMO Game Currency, Accounts and Power Leveling" src="/images/image_gobig.gif" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ibSearch&quot;, &quot;&quot;, true, &quot;MasterSearch&quot;, &quot;&quot;, false, false))" style="border-width:0px;">
+                    </td>
+                </tr>
+            </tbody></table>
+      </td>
+    </tr>
+  </tbody></table>
 </div>
-                            
+<div id="header">
+<!--Start of Title-->
+<table width="980" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td width="254" height="116" rowspan="2" valign="top">
+      <div align="center"><a href="/Index/" title="PlayerAuctions - Play. Trade. Dominate."><img id="pgnLogo" alt="http://www.playerauctions.com" src="/images/logo.png" width="254" height="116" border="0" title="PlayerAuctions - Play. Trade. Dominate."></a></div>
+    </td>
+    <td width="548" rowspan="2" align="center" valign="top">
+        <div class="yellow" align="center" style="line-height:36px; padding-bottom:5px;">
+        The Leading Player to Player Marketplace Since 1999
+        </div>
+	   <table width="500" border="0" cellpadding="0" cellspacing="0">
+	      
+          <tbody><tr align="left">
+            <td height="15" colspan="3"><img src="/images/image_welcome.gif" width="90" height="15"></td>
+          </tr>
+          <tr id="trLoginInfo" style="display: none;">
+            <td width="26%" align="center" class="statTop" id="menu_MyAccount" style="POSITION: relative;height: 34px; margin-left:2px; z-index:100">
+            <a id="ctl00_HyperLink38" title="My Account" class="topmenu" href="https://www.playerauctions.com/member/">
+                <img src="/images/myaccount.gif" width="100" height="22" border="0">
+            </a>
+            <div class="popupTop">
+                <table width="127" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                    <td colspan="3"><img src="/images/head_menu_up5.gif" width="127" height="5" border="0"></td>
+                    </tr>
+                    <tr>
+                    <td width="2" background="/images/head_menu_leftbg5.gif"></td>
+                    <td width="123" bgcolor="#000000">
+                            <ul>
+                                <li id="ctl00_liRegisterSignIn">
+                                    <a id="ctl00_HyperLink5" title="Register / Sign In" rel="nofollow" href="https://www.playerauctions.com/member/signin/">Register / Sign In</a></li>
+                                <li>
+                                    <a id="ctl00_HyperLink6" title="My Wanted Offers" href="https://www.playerauctions.com/member/myoffer/?type=buy">My Wanted Offers</a></li>
+                                <li>
+                                    <a id="ctl00_HyperLink43" title="My For Sale Offers" href="https://www.playerauctions.com/member/myoffer/?type=sell">My For Sale Offers</a></li>
+                                <li>
+                                    <a id="ctl00_HyperLink9" title="My Orders" href="https://www.playerauctions.com/member/myorder/">My Orders</a></li>
+                                <li>
+                                    <a id="ctl00_HyperLink7" title="My Messages" href="https://www.playerauctions.com/member/messenger/">My Messages</a></li>
+                                <li>
+                                    <a id="ctl00_HyperLink8" title="My Reputation" class="popupbottom" href="http://www.playerauctions.com/offer/myfeedbacklist/">My Reputation</a></li>
+                            </ul>
                         </td>
-                        <td width="97" valign="top">
-                            <img src="/images/top_glave_bottom.gif" width="97" height="78"></td>
+                    <td width="2" background="/images/head_menu_rightbg5.gif"></td>
+                    </tr>
+                    <tr>
+                    <td colspan="3"><img src="/images/head_menu_bottom5.gif" width="127" height="5" border="0"></td>
                     </tr>
                 </tbody></table>
-                <!--End of Login Form-->
-                <!--Start of Top Navigation-->
-                <table width="100%" border="0" cellpadding="0" cellspacing="0" background="/images/head_nav_bg.gif">
-                    <tbody><tr>
-                        <td>
-                            <table id="ctl00_tblNav" width="100%" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td height="4" colspan="13">
-                                    </td>
-	</tr>
-	<tr>
-		<td width="31" height="26">
-                                    </td>
-		<td width="3">
-                                        <img src="/images/head_nav_mid.gif" width="3" height="26"></td>
-		<td id="ctl00_EyebrowMenu1" width="115" align="center" class="stat" style="position: relative">
-                                        <a id="ctl00_HyperLink36" title="Securely Buy MMO Currency, Accounts, Items, and More!" class="topmenu" href="http://www.playerauctions.com/go/Buy-mmo-currency_accounts_powerleveling_items-1000000.aspx">Buy</a>&nbsp;&nbsp;&nbsp;<a href="#"><img src="/images/head_menu_icon.gif" width="8" height="4" border="0"></a>
-                                        <div class="popup" id="EyebrowMenu1_Popup">
-                                            <table width="157" border="0" cellspacing="0" cellpadding="0">
-                                                <tbody><tr>
-                                                    <td colspan="3">
-                                                        <img src="/images/head_menu_up.gif" width="157" height="4" border="0"></td>
-                                                </tr>
-                                                <tr>
-                                                    <td width="2" background="/images/head_menu_leftbg.gif">
-                                                    </td>
-                                                    <td width="153" bgcolor="#90c3e5" enableviewstate="false">
-                                                        <ul>
-                                                            <li>
-                                                                <a id="ctl00_HyperLink22" title="Securely Buy MMO Currency, Accounts, Items, and More!" href="http://www.playerauctions.com/go/Buy-mmo-currency_accounts_powerleveling_items-1000000.aspx">Browse For Sale Offers</a></li>
-                                                            <li>
-                                                                <a href="https://www.playerauctions.com/Member/OfferEditor.aspx?Type=Buy">Create New Wanted Offer</a></li>
-                                                            <li>
-                                                                <a id="ctl00_HyperLink47" class="popupbottom" href="http://www.playerauctions.com/Help/HelpContent.aspx?hCatID=245&amp;hCatName=Making+Your+First+Purchase">Learn How to Buy</a></li>
-                                                        </ul>
-                                                    </td>
-                                                    <td width="2" background="/images/head_menu_rightbg.gif">
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td colspan="3">
-                                                        <img src="/images/head_menu_bottom.gif" width="157" height="4" border="0"></td>
-                                                </tr>
-                                            </tbody></table>
-                                            <iframe style="position: absolute; border: 0; visibility: inherit; top: 2px; left: 0px;
-                                                width: 157px; height: 70px; z-index: -1; filter='progid:dximagetransform.microsoft.alpha(style=0,opacity=0)';" src="/blank.htm"></iframe>
-                                        </div>
-                                        <div class="TFlyPopupAnimate" id="EyebrowMenu1_Anim">
-                                        </div>
-                                    </td>
-		<td width="3">
-                                        <img src="/images/head_nav_mid.gif" width="3" height="26"></td>
-		<td id="ctl00_EyebrowMenu2" width="115" align="center" class="stat" style="position: relative">
-                                        <a id="ctl00_HyperLink37" title="Securely Buy MMO Currency, Accounts, Items, and More!" class="topmenu" href="http://www.playerauctions.com/go/Buy-mmo-currency_accounts_powerleveling_items-1000000.aspx?CreateOffer=1">Sell</a>&nbsp;&nbsp;&nbsp;<a href="#"><img src="/images/head_menu_icon.gif" width="8" height="4" border="0"></a>
-                                        <div class="popup" id="EyebrowMenu2_Popup">
-                                            <table width="157" border="0" cellspacing="0" cellpadding="0">
-                                                <tbody><tr>
-                                                    <td colspan="3">
-                                                        <img src="/images/head_menu_up.gif" width="157" height="4" border="0"></td>
-                                                </tr>
-                                                <tr>
-                                                    <td width="2" background="/images/head_menu_leftbg.gif">
-                                                    </td>
-                                                    <td width="153" bgcolor="#90c3e5">
-                                                        <ul>
-                                                            <li>
-                                                                <a id="ctl00_HyperLink2" href="https://www.playerauctions.com/Member/OfferEditor.aspx?Type=Sell">Create New For Sale Offer</a></li>
-                                                            <li>
-                                                                <a id="ctl00_HyperLink3" title="Securely Sell MMO Currency, Accounts, Items, and More!" href="http://www.playerauctions.com/go/Sell-mmo-currency_accounts_powerleveling_items-2000000.aspx">Browse Wanted Offers</a></li>
-                                                            <li>
-                                                                <a id="ctl00_HyperLink1" class="popupbottom" href="http://www.playerauctions.com/Help/HelpContent.aspx?hCatID=246&amp;hCatName=Making+Your+First+Sale">Learn How to Sell</a></li>
-                                                        </ul>
-                                                    </td>
-                                                    <td width="2" background="/images/head_menu_rightbg.gif">
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td colspan="3">
-                                                        <img src="/images/head_menu_bottom.gif" width="157" height="4" border="0"></td>
-                                                </tr>
-                                            </tbody></table>
-                                            <iframe style="position: absolute; border: 0; visibility: inherit; top: 2px; left: 0px;
-                                                width: 157px; height: 70px; z-index: -1; filter='progid:dximagetransform.microsoft.alpha(style=0,opacity=0)';" src="/blank.htm"></iframe>
-                                        </div>
-                                        <div class="TFlyPopupAnimate" id="EyebrowMenu2_Anim">
-                                        </div>
-                                    </td>
-		<td width="3">
-                                        <img src="/images/head_nav_mid.gif" width="3" height="26"></td>
-		<td id="ctl00_EyebrowMenu3" width="115" align="center" class="stat" style="position: relative">
-                                        <a id="ctl00_HyperLink38" title="My Account" class="topmenu" href="https://www.playerauctions.com/Member/Index.aspx">My Account</a>&nbsp;&nbsp;&nbsp;<a href="#"><img src="/images/head_menu_icon.gif" width="8" height="4" border="0"></a>
-                                        <div class="popup" id="EyebrowMenu3_Popup">
-                                            <table width="157" border="0" cellspacing="0" cellpadding="0">
-                                                <tbody><tr>
-                                                    <td colspan="3">
-                                                        <img src="/images/head_menu_up.gif" width="157" height="4" border="0"></td>
-                                                </tr>
-                                                <tr>
-                                                    <td width="2" background="/images/head_menu_leftbg.gif">
-                                                    </td>
-                                                    <td width="153" bgcolor="#90c3e5">
-                                                        <ul>
-                                                            <li id="ctl00_liRegisterSignIn">
-                                                                <a id="ctl00_HyperLink5" href="https://www.playerauctions.com/Member/SignIn.aspx">Register / Sign In</a></li>
-                                                            <li>
-                                                                <a id="ctl00_HyperLink6" href="https://www.playerauctions.com/Member/MyOffer.aspx?Type=Buy">My Wanted Offers</a></li>
-                                                            <li>
-                                                                <a id="ctl00_HyperLink43" href="https://www.playerauctions.com/Member/MyOffer.aspx?Type=Sell">My For Sale Offers</a></li>
-                                                            <li>
-                                                                <a id="ctl00_HyperLink9" href="https://www.playerauctions.com/Member/MyOrder.aspx">My Orders</a></li>
-                                                            <li>
-                                                                <a id="ctl00_HyperLink7" href="https://www.playerauctions.com/Member/Messenger.aspx">My Messages</a></li>
-                                                            <li>
-                                                                <a id="ctl00_HyperLink8" class="popupbottom" href="http://www.playerauctions.com/Offer/MyFeedbackList.aspx">My Reputation</a></li>
-                                                        </ul>
-                                                    </td>
-                                                    <td width="2" background="/images/head_menu_rightbg.gif">
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td colspan="3">
-                                                        <img src="/images/head_menu_bottom.gif" width="157" height="4" border="0"></td>
-                                                </tr>
-                                            </tbody></table>
-                                            <iframe style="position: absolute; border: 0; visibility: inherit; top: 2px; left: 0px;
-                                                width: 157px; height: 70px; z-index: -1; filter='progid:dximagetransform.microsoft.alpha(style=0,opacity=0)';" src="/blank.htm"></iframe>
-                                        </div>
-                                        <div class="TFlyPopupAnimate" id="EyebrowMenu3_Anim">
-                                        </div>
-                                    </td>
-		<td width="3">
-                                        <img src="/images/head_nav_mid.gif" width="3" height="26"></td>
-		<td id="ctl00_EyebrowMenu6" width="115" align="center" class="stat" style="position: relative">
-                                        <a href="https://www.playerauctions.com/Member/MyOrder.aspx" id="ctl00_archMyOrder" class="topmenu" onmouseover="LoadRequiredOrder()" title="My Orders">
-                                            My Orders
-                                        </a>&nbsp;&nbsp;&nbsp;<a href="#"><img src="/images/head_menu_icon.gif" width="8" height="4" border="0"></a>
-                                        <div class="popup" id="EyebrowMenu6_Popup">
-                                            <table width="157" border="0" cellspacing="0" cellpadding="0">
-                                                <tbody><tr>
-                                                    <td colspan="3">
-                                                        <img src="/images/head_menu_up.gif" width="157" height="4" border="0"></td>
-                                                </tr>
-                                                <tr>
-                                                    <td width="2" background="/images/head_menu_leftbg.gif">
-                                                    </td>
-                                                    <td width="153" bgcolor="#90c3e5">
-                                                        <ul>
-                                                            
-                                                                <li>
-                                                                    <a id="ctl00_hySignInMenu" class="popupbottom" href="https://www.playerauctions.com/Member/SignIn.aspx">Sign In To View</a></li>
-                                                            
-                                                            
-                                                        </ul>
-                                                    </td>
-                                                    <td width="2" background="/images/head_menu_rightbg.gif">
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td colspan="3">
-                                                        <img src="/images/head_menu_bottom.gif" width="157" height="4" border="0"></td>
-                                                </tr>
-                                            </tbody></table>
-                                            <iframe id="frameMinSize" style="position: absolute; border: 0px; visibility: inherit; top: 2px; left: 0px; width: 157px; height: 34px; z-index: -1;" src="/blank.htm"></iframe>
-                                            <iframe id="frameNormalSize" style="position: absolute; border: 0px; visibility: hidden; top: 2px; left: 0px; width: 157px; height: 70px; z-index: -1;" src="/blank.htm"></iframe>                                     
-                                        </div>
-                                        <div class="TFlyPopupAnimate" id="EyebrowMenu6_Anim">
-                                        </div>
-                                    </td>
-		<td width="3">
-                                        <img src="/images/head_nav_mid.gif" width="3" height="26"></td>
-		<td id="ctl00_EyebrowMenu4" width="115" align="center" class="stat" style="position: relative">
-                                        <a href="/Blog" class="topmenu" title="Community">
-                                            Community
-                                        </a>&nbsp;&nbsp;&nbsp;<a href="#"><img src="/images/head_menu_icon.gif" width="8" height="4" border="0"></a>
-                                        <div class="popup" id="EyebrowMenu4_Popup">
-                                            <table width="157" border="0" cellspacing="0" cellpadding="0">
-                                                <tbody><tr>
-                                                    <td colspan="3">
-                                                        <img src="/images/head_menu_up.gif" width="157" height="4" border="0"></td>
-                                                </tr>
-                                                <tr>
-                                                    <td width="2" background="/images/head_menu_leftbg.gif">
-                                                    </td>
-                                                    <td width="153" bgcolor="#90c3e5">
-                                                        <ul>
-                                                            <li><a href="/Blog" title="Blog">
-                                                                Blog
-                                                            </a></li>
-                                                            <li><a target="_blank" href="http://twitter.com/playerauctions" title="Twitter">
-                                                                Twitter
-                                                            </a></li>
-                                                            <li>
-                                                                <a id="ctl00_HyperLink11" href="http://www.playerauctions.com/Help/HelpCategoryPage.aspx?hCatID=191&amp;hCatName=About Us">About Us</a></li>
-                                                            <li>
-                                                                <a id="ctl00_HyperLink4" title="Compare MMO Currency Prices" href="http://www.playerauctions.com/compare/compare-MMO-Currency-prices.aspx">Marketplace Report</a></li>
-                                                            <li>
-                                                                <a id="ctl00_hlWeeklyContests" title="Weekly Contests" href="http://www.playerauctions.com/Community/Contest.aspx">Weekly Contests</a></li>
-                                                            <li>
-                                                                <a id="ctl00_HyperLink10" title="Press &amp; News" class="popupbottom" href="http://www.playerauctions.com/Help/HelpContent.aspx?hCatID=290&amp;hCatName=Press+%26+News">Press &amp; News</a></li>
-                                                        </ul>
-                                                    </td>
-                                                    <td width="2" background="/images/head_menu_rightbg.gif">
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td colspan="3">
-                                                        <img src="/images/head_menu_bottom.gif" width="157" height="4" border="0"></td>
-                                                </tr>
-                                            </tbody></table>
-                                            <iframe style="position: absolute; border: 0; visibility: inherit; top: 2px; left: 0px;
-                                                width: 157px; height: 70px; z-index: -1; filter='progid:dximagetransform.microsoft.alpha(style=0,opacity=0)';" src="/blank.htm"></iframe>
-                                        </div>
-                                        <div class="TFlyPopupAnimate" id="EyebrowMenu4_Anim">
-                                        </div>
-                                    </td>
-		<td width="3">
-                                        <img src="/images/head_nav_mid.gif" width="3" height="26"></td>
-		<td id="ctl00_EyebrowMenu5" width="115" align="center" class="stat" style="position: relative">
-                                        <a id="ctl00_HyperLink40" title="Help" class="topmenu" href="http://www.playerauctions.com/Help/Help.aspx">Help</a>&nbsp;&nbsp;&nbsp;<a href="#"><img src="/images/head_menu_icon.gif" width="8" height="4" border="0"></a>
-                                        <div class="popup" id="EyebrowMenu5_Popup">
-                                            <table width="157" border="0" cellspacing="0" cellpadding="0">
-                                                <tbody><tr>
-                                                    <td colspan="3">
-                                                        <img src="/images/head_menu_up.gif" width="157" height="4" border="0"></td>
-                                                </tr>
-                                                <tr>
-                                                    <td width="2" background="/images/head_menu_leftbg.gif">
-                                                    </td>
-                                                    <td width="153" bgcolor="#90c3e5">
-                                                        <ul>
-                                                            <li>
-                                                                <a id="ctl00_HyperLink12" href="http://www.playerauctions.com/Help/Help.aspx">Help Center / FAQ</a>
-                                                            </li>
-                                                            <li>
-                                                                <a id="ctl00_HyperLink13" href="http://www.playerauctions.com/Help/HelpCategoryPage.aspx?hCatID=238&amp;hCatName=Getting+Started">Getting Started</a>
-                                                            </li>
-                                                            <li>
-                                                                <a id="ctl00_HyperLink14" href="http://www.playerauctions.com/Help/HelpCategoryPage.aspx?hCatID=267&amp;hCatName=Security+%26+Resolution+Center">Security Center</a>
-                                                            </li>
-                                                            <li>
-                                                                <a id="ctl00_HyperLink15" class="popupbottom" href="http://www.playerauctions.com/Help/ContactUs.aspx">Contact Us</a>
-                                                            </li>
-                                                        </ul>
-                                                    </td>
-                                                    <td width="2" background="/images/head_menu_rightbg.gif">
-                                                    </td>
-                                                </tr>
-                                                <tr>
-                                                    <td colspan="3">
-                                                        <img src="/images/head_menu_bottom.gif" width="157" height="4" border="0"></td>
-                                                </tr>
-                                            </tbody></table>
-                                            <iframe style="position: absolute; border: 0; visibility: inherit; top: 2px; left: 0px;
-                                                width: 157px; height: 70px; z-index: -1; filter='progid:dximagetransform.microsoft.alpha(style=0,opacity=0)';" src="/blank.htm"></iframe>
-                                        </div>
-                                        <div class="TFlyPopupAnimate" id="EyebrowMenu5_Anim">
-                                        </div>
-                                    </td>
-		<td width="3">
-                                        <img src="/images/head_nav_mid.gif" width="3" height="26"></td>
-		<td width="211">
-                                    </td>
-	</tr>
-</tbody></table>
-
-                        </td>
-                    </tr>
-                </tbody></table>
-                <!--End of Top Navigation-->
-                <!--Start of Search Bar-->
-                <div id="ctl00_pnlSearchBar">
-	
-                    <table width="936" border="0" cellpadding="0" cellspacing="0">
-                        <tbody><tr>
-                            <td width="11">
-                                <img src="/images/head_search_left.gif" width="11" height="59"></td>
-                            <td width="100%" valign="middle" background="/images/head_search_bg.gif" align="left">
-                                <table width="100%" border="0" cellpadding="0" cellspacing="0">
-                                    <tbody><tr>
-                                        <td>
-                                            <table height="35" border="0" align="left" cellpadding="0" cellspacing="0">
-                                                <tbody><tr>
-                                                    <td style="width: 74px;" height="21">
-                                                        <img src="/images/i_want_to_en.gif" height="17"></td>
-                                                    <td>
-                                                        <select name="ctl00$ddlOfferType" id="ctl00_ddlOfferType" class="form GameListControlHorizontalDiv" style="margin-right: 0px;">
-		<option value="1">For Sale Offers</option>
-		<option value="2">Wanted Offers</option>
-
-	</select>
-                                                    </td>
-                                                    <td width="38" align="center">
-                                                        <img src="/images/icon_on_en.gif" height="17"></td>
-                                                    <td id="GameListControlRow" style="width:310px; #width:314px;">
-                                                        <div class="GameListControl">
-                                                            <div class="GameListControlHorizontalDiv" style="margin-right: 9px; #margin-right: 7px;">
-                                                                <select name="ctl00$ddlGameMaster" id="ctl00_ddlGameMaster" class="GameDDL">
-		<option value="">Select Game</option>
-		<option value="2790">2 Moons</option>
-		<option value="2801">9 Dragons</option>
-		<option value="3032">A Tale in the Desert III</option>
-		<option value="2130">Age of Conan (EU)</option>
-		<option value="2191">Age of Conan (US)</option>
-		<option value="7">Anarchy Online</option>
-		<option value="2805">Angels Online</option>
-		<option value="19">Archlord</option>
-		<option value="3013">Asheron's Call</option>
-		<option value="2813">Atlantica Online</option>
-		<option value="3033">Battleground Europe</option>
-		<option value="3014">Bounty Bay Online</option>
-		<option value="20">Cabal (EU)</option>
-		<option value="2155">Cabal (US)</option>
-		<option value="5">City of Heroes</option>
-		<option value="21">City of Villains</option>
-		<option value="3035">Corum Online</option>
-		<option value="2307">Dark Age of Camelot</option>
-		<option value="3015">Dark and Light</option>
-		<option value="22">Dofus</option>
-		<option value="3036">Dungeon Runners</option>
-		<option value="17">Dungeons and Dragons (EU)</option>
-		<option value="14">Dungeons and Dragons (US)</option>
-		<option value="3016">Entropia Universe</option>
-		<option value="23">EQ Online Adventures</option>
-		<option value="8">EVE Online</option>
-		<option value="4">EverQuest</option>
-		<option value="11">EverQuest II</option>
-		<option value="2818">Fiesta Online</option>
-		<option value="2">Final Fantasy XI (US)</option>
-		<option value="2826">Florensia</option>
-		<option value="2831">Fly For Fun</option>
-		<option value="24">Gaia Online</option>
-		<option value="2847">GoonZu Online</option>
-		<option value="3018">Granado Espada</option>
-		<option value="3025">GrandChase Online</option>
-		<option value="13">Guild Wars</option>
-		<option value="3019">Gunz Online</option>
-		<option value="2784">Habbo (EU)</option>
-		<option value="2785">Habbo (US) </option>
-		<option value="25">Hellgate : London</option>
-		<option value="2849">Hero Online</option>
-		<option value="2851">Holic Online</option>
-		<option value="2853">IMVU</option>
-		<option value="26">Kal Online</option>
-		<option value="2855">Knight Online</option>
-		<option value="2871">Last Chaos</option>
-		<option value="2880">Lineage</option>
-		<option value="3">Lineage 2 (US)</option>
-		<option value="28">Lord of the Rings Online (EU)</option>
-		<option value="27">Lord of the Rings Online (US)</option>
-		<option value="2884">Mabinogi</option>
-		<option value="29">Maple Story</option>
-		<option value="2888">Maple Story (EU)</option>
-		<option value="2890">Metin 2</option>
-		<option value="3047">Minions of Mirth</option>
-		<option value="3020">Mu Online</option>
-		<option value="3048">Myth War 2</option>
-		<option value="3049">Myth War Online</option>
-		<option value="3050">Navy Field</option>
-		<option value="2925">Neo Steam Online</option>
-		<option value="2928">Perfect World</option>
-		<option value="3021">Phantasy Star</option>
-		<option value="2022">Pirates of the Burning Sea</option>
-		<option value="3051">PlanetSide</option>
-		<option value="3026">Pogo Online</option>
-		<option value="2936">Priston Tale</option>
-		<option value="3052">Puzzle Pirates</option>
-		<option value="31">Ragnarok Online</option>
-		<option value="3053">Rakion</option>
-		<option value="2938">Rappelz Online</option>
-		<option value="3027">Red Stone Online</option>
-		<option value="2952">Requiem Online</option>
-		<option value="15">RF Online</option>
-		<option value="2956">Rohan Online</option>
-		<option value="32">Rose Online</option>
-		<option value="33">Runescape</option>
-		<option value="3028">Saga Online</option>
-		<option value="2962">Scions of Fate</option>
-		<option value="2964">Seal Online</option>
-		<option value="9">Second Life</option>
-		<option value="2967">Shadow of Legend</option>
-		<option value="3029">ShadowBane</option>
-		<option value="2794">Shaiya Online</option>
-		<option value="2969">Sho Online</option>
-		<option value="34">Silkroad Online</option>
-		<option value="6">Star Wars Galaxies</option>
-		<option value="3054">StarQuest Online</option>
-		<option value="2972">Sword of the New World</option>
-		<option value="35">Tabula Rasa</option>
-		<option value="2976">Tales of Pirates</option>
-		<option value="3055">Talisman Online</option>
-		<option value="3030">Thang Online</option>
-		<option value="2231">Tibia</option>
-		<option value="3056">Toontown Online</option>
-		<option value="3057">Trickster Online</option>
-		<option value="2995">Twelve Sky</option>
-		<option value="2392">Ultima Online</option>
-		<option value="18">Vanguard : Saga of Heroes</option>
-		<option value="3058">Vendetta Online</option>
-		<option value="3001">Voyage Century</option>
-		<option value="3031">War Rock</option>
-		<option value="2608">Warhammer Online (EU)</option>
-		<option value="2084">Warhammer Online (US)</option>
-		<option value="3006">With Your Destiny</option>
-		<option value="3059">World of Kung Fu</option>
-		<option value="12">World of Warcraft (EU)</option>
-		<option value="10">World of Warcraft (US)</option>
-		<option value="3008">Xiah</option>
-
-	</select>
-                                                                
-                                                            </div>
-                                                            <div id="GameListDiv_Master" style="float: left; margin-right: -5px;">
-                                                            </div>
-                                                            <div id="ServerFill_Master" class="GameListControlHorizontalDiv GameListControlHorizontalDiv0">
-                                                                <select disabled="disabled">
-                                                                    <option>
-                                                                        Select Server
-                                                                    </option>
-                                                                </select>
-                                                            </div>
-                                                        </div>
-                                                        <input type="hidden" name="ctl00$hfHideMaster" id="ctl00_hfHideMaster">
-                                                    </td>
-                                                    <td align="left" style="padding-left:0px">
-                                                        <img src="/images/icon_for_en.gif" height="17" align="left"></td>
-                                                    <td style="width: 102px; #width: 111px; padding-left:2px">
-                                                        <select name="ctl00$ddlProductType" id="ctl00_ddlProductType" class="form" style="width: 101px; #width: 110px;">
-		<option selected="selected" value="">All Products</option>
-		<option value="1">Currency</option>
-		<option value="2">Item</option>
-		<option value="3">Game Account</option>
-		<option value="4">Powerleveling</option>
-		<option value="5">Game Guide</option>
-
-	</select>
-                                                    </td>
-                                                    <td width="50" align="center">
-                                                        
-                                                        <input type="image" name="ctl00$ibSearch" id="ctl00_ibSearch" src="../images/go.gif" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ibSearch&quot;, &quot;&quot;, true, &quot;MasterSearch&quot;, &quot;&quot;, false, false))" style="border-width:0px;">
-                                                    </td>
-                                                </tr>
-                                            </tbody></table>
-                                        </td>
-                                        <td width="65">
-                                            <!-- START SCANALERT CODE -->
-                                            <a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.playerauctions.com"><img width="65" height="37" border="0" src="//images.scanalert.com/meter/survey/www.playerauctions.com/63.gif" title="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
-                                            <!-- END SCANALERT CODE -->
-                                            
-                                        </td>
-                                    </tr>
-                                </tbody></table>
-                            </td>
-                            <td width="11">
-                                <img src="/images/head_search_right.gif" width="11" height="59"></td>
-                        </tr>
-                        <tr>
-                            <td colspan="3" height="5">
-                            </td>
-                        </tr>
-                    </tbody></table>
                 
-</div>
-
-                <script type="text/javascript" language="javascript">
-        var oGameList_Master = document.getElementById("ctl00_ddlGameMaster");
-        var oGameListDiv_Master = document.getElementById("GameListDiv_Master");
-        var oGameListControl_Master = new GameListControl(oGameListDiv_Master, oGameList_Master, "Horizontal");                        
-        var leafCategoryId_Master = document.getElementById("ctl00_hfHideMaster");
-        var oProductTypeList_Master = document.getElementById("ctl00_ddlProductType");
-        var sCurrencyText = oProductTypeList_Master.options[1].text;
-        oGameListControl_Master.xmlDataPath = "http://www.playerauctions.com/Config/Gamedata";
-        oGameListControl_Master.language = 'en';
-        oGameListControl_Master.showAllOptions=true;
-        oGameListControl_Master.showTitle = false;
-        oGameListControl_Master.returnAllNode = true;
-        oGameList_Master.onchange = function () { 
-            oGameList_Master.focus();   // HACK IE 6
-            oGameListControl_Master.selectGame(this.value); 
-        };
-        oGameListControl_Master.ongamechange = function (value) { 
-            var sCurrencyTextForDisplay;
-            if (parseInt(value))
-                sCurrencyTextForDisplay = oGameListControl_Master.getCurrencyName();
-            else
-                sCurrencyTextForDisplay = sCurrencyText;
-                
-            rebuildProductOptions(oProductTypeList_Master, oGameListControl_Master.getProductType(), sCurrencyTextForDisplay);
-        };
-        oGameListControl_Master.onchange = function (value) { 
-            leafCategoryId_Master.value = value; 
-        };
-        oGameListControl_Master.onlevelchange = function (value) {                             
-            if (value == 0) {
-                document.getElementById("ServerFill_Master").style.display = "inline";
-                document.getElementById("GameListControlRow").style.width = "316px"; 
-                oGameListDiv_Master.className = "InlineDiv";
-            } else {
-                if (value == 2)                    
-                    document.getElementById("GameListControlRow").style.width = "421px";
-                else
-                    document.getElementById("GameListControlRow").style.width = "316px";                 
-                document.getElementById("ServerFill_Master").style.display = "none";
-                oGameListDiv_Master.className = "";
-            }    
-        };
-        var ajaxUrl ="/Ajax/Ajax.aspx";
-        function onFavoriateMarketChange_Master(iGameId,iCategoryId)
-        {
-            if (parseInt(iCategoryId))
-            {
-                 oGameListControl_Master.recoverStatus(iGameId, iCategoryId);
-            } 
-        }
-                </script>
-
-                <!--End of Search Bar-->
             </div>
-            <!--End of Header-->
+            <div class="TFlyPopupAnimate" id="EyebrowMenu3_Anim"></div>
+            </td>
+            <td width="50%" align="center" class="yellow">
+               
+  <div>
+        
+        
+        
+    </div>
+            </td>
+            <td width="24%" align="left" valign="top" style="POSITION: relative; height: 34px; margin-left:2px; padding-top:7px!important;">
+                <a onclick="javascript:__doPostBack('ctl00$btnLogout','');return false;" id="ctl00_btnLogout" title="Sign Out" href="/help/policy/#">
+                <img src="/images/sign_out_en4.gif" height="22" border="0">
+                </a>
+            </td>
+          </tr>
+          
+          
+          <tr id="trLoginForm" style="">
+            <td width="26%" align="right" id="Td6" style="POSITION: relative; height: 34px; padding-top:8px;">
+            <a id="ctl00_hlLogin" title="sign in" class="top_login" href="https://www.playerauctions.com/member/signin/">
+                                        <img src="/images/sign_in_en4.gif" border="0">
+            </a>
+            </td>
+            <td width="50%" align="center" class="yellow">
+                New customer?<br>Registration is fast and free.
+            </td>
+            <td width="24%" style="POSITION: relative; height: 34px; padding-top:8px;">
+            <a id="ctl00_hlSignup" title="register for free" class="top_login" href="https://www.playerauctions.com/member/registration/">
+                <img src="/images/register_en4.gif" border="0">           
+            </a>
+            </td>
+          </tr>
+          
+          
+            <tr id="trSessionTimeOut" style="display:none">
+                <td colspan="3" align="center" valign="top" style=" height:34px; padding-top:8px;">
+                    Your session has time out,please <a href="/Member/SignIn.aspx" class="top_login" title="sign in"><img src="/images/sign_in_en4.gif" border="0"></a> again.
+                </td>
+            </tr>
+          
+        </tbody></table>
+	</td>
+    <td width="178" height="94px" valign="top">
+        <!--Start of Page Setting (Language & Currency)-->
+        <table width="100%" height="50" border="0" cellpadding="0" cellspacing="0">
+              <tbody><tr>
+                <td width="20%" height="25" valign="bottom" align="center"><img height="16" src="/images/earth_v4.gif" width="16"></td>
+                <td width="80%" valign="bottom">
+                <span class="white">Language 
+                    :</span>
+                    &nbsp;
+                
+                           <input type="image" name="ctl00$rpLanguages$ctl00$lnkLanguage" id="ctl00_rpLanguages_ctl00_lnkLanguage" title="English" src="/images/flag_us.gif" style="border-width:0px;">
+                    
+                           <input type="image" name="ctl00$rpLanguages$ctl01$lnkLanguage" id="ctl00_rpLanguages_ctl01_lnkLanguage" title="中文" src="/images/flag_cn.gif" style="border-width:0px;">
+                    
+                </td>
+              </tr>
+              <tr>
+                <td height="25"></td>
+                <td valign="middle">
+                    <div class="simplePopup" id="menu_Currency" style="position: relative;">
+                                            <span class="white">Currency 
+                                            :</span>
+                                            &nbsp;<a href="#" style="position: static"><font style="text-decoration: underline; color:#76CB15"><span id="ctl00_lblSelCurrency">USD$</span></font></a>
+                                            <img src="/images/icon_sec.gif" align="absmiddle" border="0" height="11" width="12">
+                                            <div class="popupText" id="EyebrowMenuCurrency7_Popup" style="margin-left: 59px;
+                                                #margin-left: -23px;
+                                                ">
+                                                <table border="0" cellpadding="0" cellspacing="0" width="65" align="right" style="margin-top: -1px">
+                                                    <tbody>
+                                                        <tr>
+                                                          <td colspan="3" bgcolor="#5481C1" height="1"></td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td bgcolor="#5481C1" width="1"></td>
+                                                          <td>
+                                                                <ul>
+                                                                    
+                                                                            <li>
+                                                                                <a onclick="javascript:__doPostBack('ctl00$rpCurrency$ctl00$lnkCurrency','');return false;" id="ctl00_rpCurrency_ctl00_lnkCurrency" title="USD$" href="/help/policy/#">USD$</a>
+                                                                            </li>
+                                                                        
+                                                                            <li>
+                                                                                <a onclick="javascript:__doPostBack('ctl00$rpCurrency$ctl01$lnkCurrency','');return false;" id="ctl00_rpCurrency_ctl01_lnkCurrency" title="CNY￥" href="/help/policy/#">CNY￥</a>
+                                                                            </li>
+                                                                        
+                                                                </ul>
+                                                            </td>
+                                                            <td bgcolor="#5481C1" width="1"></td>
+                                                        </tr>
+                                                        <tr>
+                                                          <td colspan="3" bgcolor="#5481C1" height="1"></td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </div>
+                                        </div>
+                </td>
+              </tr>
+            </tbody></table>
+        <!--End of Page Setting (Language & Currency)-->
+	</td>
+  </tr>
+  <tr>
+    <td height="22" align="right" valign="bottom" background="/images/advsearch_bg.gif" style="padding-right:20px; "><b><a href="#" onclick="ShowAdvancedSearch()" class="white" title="Advanced Search">
+        Advanced Search&nbsp;&nbsp;<img src="/images/advsearch_arrow_v4.gif" width="8" height="4" border="0" align="absmiddle"></a>&nbsp;</b>
+        <input type="hidden" name="ctl00$hfAdvancedSearch" id="ctl00_hfAdvancedSearch">
+        </td>
+  </tr>
+</tbody></table>
+<script type="text/javascript">
+    function FixPngInIE6() {
+        try {
+            if(Browser.ie != '6.0')
+                return;
+            var logo = document.getElementById("pgnLogo");
+            if (logo) {
+                DD_belatedPNG.fixPng(logo);
+            }
+        }
+        catch (e) { }
+    }
+    FixPngInIE6();
+</script>
+
+<script type="text/javascript">
+    var loginInfo = document.getElementById("trLoginInfo");
+    var loginForm = document.getElementById("trLoginForm");
+    var sessionTimeOut = document.getElementById("trSessionTimeOut");
+    var isLogin = false;
+    var isSessionOut = false;
+
+    function RefreshLoginForm() {
+        if (isSessionOut)
+            return;
+        try {
+            var url = "/Ajax/Ajax.aspx?action=LoginForm";
+            var xmlDom = new XmlDom();
+            xmlDom.async = false;
+            xmlDom.load(url);
+            var xmlNode = xmlDom.documentElement.selectSingleNode("//response");
+            var nMemberId = xmlNode.getElementsByTagName("MemberID")[0].childNodes[0].nodeValue;
+           
+            if (parseInt(nMemberId) > 0) {
+                loginInfo.style.display = "";
+                loginForm.style.display = "none";
+                sessionTimeOut.style.display = "none";
+                isLogin = true;
+            }
+            else {
+                if (isLogin) {
+                    sessionTimeOut.style.display = "";
+                    loginInfo.style.display = "none";
+                    loginForm.style.display = "none";
+                    isLogin = false;
+                    isSessionOut = true;
+                }
+                else {
+                    loginForm.style.display = "";
+                    loginInfo.style.display = "none";
+                    sessionTimeOut.style.display = "none";
+                }
+            }
+        }
+        catch (e) {
+            if (loginInfo) {
+                loginInfo.style.display = "none";
+            }
+            if (loginForm) {
+                loginForm.style.display = "";
+            }
+            if (sessionTimeOut) {
+                sessionTimeOut.style.display = "none";
+            }
+        }
+    }
+    RefreshLoginForm();
+    window.setInterval("RefreshLoginForm()", 60000);
+</script>
+
+<!--End of Title-->
+<!--Start of TopMenu-->
+<table id="TopMenuBlock" width="980" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td width="7" height="66"><img src="/images/topmenu_left.gif" width="7" height="66"></td>
+    <td width="565" align="right" valign="top" background="/images/topmenu_bg.gif">
+    <table width="565" border="0" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td align="center" class="stat" id="menu_Account" style="POSITION: relative;">
+         <a id="ctl00_HyperLink18" title="Accounts" class="topmenu" href="http://www.playerauctions.com/wow-accounts/">Accounts</a>
+            &nbsp; <a href="#"><img src="/images/head_menu_icon.gif" width="8" height="4" border="0" align="absmiddle"></a>	
+		      <div class="popup">
+							<table width="157" border="0" cellspacing="0" cellpadding="0">
+								<tbody><tr>
+								<td colspan="3"><img src="/images/head_menu_up4.gif" width="157" height="5" border="0"></td>
+								</tr>
+								<tr>
+								<td width="2" background="/images/head_menu_leftbg4.gif"></td>
+								<td width="153" bgcolor="#264D86">
+									 <ul>
+									        <li>
+                                                <a id="ctl00_HyperLink52" title="Buy WoW Characters" href="http://www.playerauctions.com/wow-accounts/">Buy WoW Characters</a></li>
+                                            <li>
+                                                <a id="ctl00_HyperLink53" title="Account Selling Tips" href="http://www.playerauctions.com/help/content/making-a-game-account-offer-that-sells/">Account Selling Tips</a></li>
+                                            <li>
+                                                <a id="ctl00_HyperLink54" title="Buy Account" href="http://www.playerauctions.com/go/cheap-mmo-currency-accounts-power-leveling-items-1000000/?producttype=3">Buy Account</a></li>
+                                            <li>
+                                                <a id="ctl00_HyperLink55" title="Sell Game Account" class="popupbottom" href="https://www.playerauctions.com/member/offereditor/?ptype=3&amp;type=sell">Sell Game Account</a></li>
+                                      </ul>
+								</td>
+								<td width="2" background="/images/head_menu_rightbg4.gif"></td>
+								</tr>
+								<tr>
+								<td colspan="3"><img src="/images/head_menu_bottom4.gif" width="157" height="5" border="0"></td>
+								</tr>
+							</tbody></table>
+							<iframe src="/blank.htm" style="position:absolute; border:0; visibility:inherit; top:30px; left:5px; width:148px;#width:148px; height:77px; z-index:-1; filter='progid:DXImageTransform.Microsoft.Alpha(style=0,opacity=0)';"></iframe>
+			  </div>
+			  <div class="TFlyPopupAnimate" id="DIV2"></div>
+		
+		</td>
+        <td align="center" class="stat" id="menu_Gold" style="POSITION: relative">
+            <a id="ctl00_HyperLink19" title="Currency" class="topmenu" href="http://www.playerauctions.com/go/cheap-mmo-currency-accounts-power-leveling-items-1000000/?producttype=1">Currency</a>
+            &nbsp; <a href="#"><img src="/images/head_menu_icon.gif" width="8" height="4" border="0" align="absmiddle"></a>	
+		      <div class="popup">
+							<table width="157" border="0" cellspacing="0" cellpadding="0">
+								<tbody><tr>
+								<td colspan="3"><img src="/images/head_menu_up4.gif" width="157" height="5" border="0"></td>
+								</tr>
+								<tr>
+								<td width="2" background="/images/head_menu_leftbg4.gif"></td>
+								<td width="153" bgcolor="#264D86">
+									<ul>
+                                            <li>
+                                                <a id="ctl00_HyperLink56" title="Buy Game Currency" href="http://www.playerauctions.com/go/cheap-mmo-currency-accounts-power-leveling-items-1000000/?producttype=1">Buy Game Currency</a></li>
+                                            <li>
+                                                <a id="ctl00_HyperLink58" title="Sell In Game Currency" class="popupbottom" href="https://www.playerauctions.com/member/offereditor/?ptype=1&amp;type=sell">Sell In Game Currency</a></li>
+                                    </ul>
+								</td>
+								<td width="2" background="/images/head_menu_rightbg4.gif"></td>
+								</tr>
+								<tr>
+								<td colspan="3"><img src="/images/head_menu_bottom4.gif" width="157" height="5" border="0"></td>
+								</tr>
+							</tbody></table>
+							<iframe src="/blank.htm" style="position:absolute; border:0; visibility:inherit; top:0px; left:0px; width:157px; height:0px; z-index:-1; filter='progid:DXImageTransform.Microsoft.Alpha(style=0,opacity=0)';"></iframe>
+			  </div>
+			  <div class="TFlyPopupAnimate" id="DIV4"></div>
+		</td>
+		<td align="center" class="stat" id="menu_Items" style="POSITION: relative">
+		    <a id="ctl00_HyperLink17" title="Items" class="topmenu" href="http://www.playerauctions.com/go/cheap-mmo-currency-accounts-power-leveling-items-1000000/?producttype=2">Items</a>
+		    &nbsp; <a href="#"><img src="/images/head_menu_icon.gif" width="8" height="4" border="0" align="absmiddle"></a>	
+		      <div class="popup">
+							<table width="157" border="0" cellspacing="0" cellpadding="0">
+								<tbody><tr>
+								<td colspan="3"><img src="/images/head_menu_up4.gif" width="157" height="5" border="0"></td>
+								</tr>
+								<tr>
+								<td width="2" background="/images/head_menu_leftbg4.gif"></td>
+								<td width="153" bgcolor="#264D86">
+									<ul>
+                                            <li>
+                                                <a id="ctl00_HyperLink59" title="Buy In-Game Items" href="http://www.playerauctions.com/go/cheap-mmo-currency-accounts-power-leveling-items-1000000/?producttype=2">Buy In-Game Items </a></li>
+                                            <li>
+                                                <a id="ctl00_HyperLink60" title="Buy WoW Gear Pieces" href="http://www.playerauctions.com/wow-items/">Buy WoW Gear Pieces</a></li>
+                                            <li>
+                                                <a id="ctl00_HyperLink61" title="Buy EVE Ships" href="http://www.playerauctions.com/eve-items/">Buy EVE Ships</a></li>
+                                            <li>
+                                                <a id="ctl00_HyperLink62" title="Buy MafiaWars Loot" href="http://www.playerauctions.com/mafia-wars-items/">Buy Mafia-Wars Loot</a></li>
+					                        <li>
+                                                <a id="ctl00_HyperLink63" title="Sell Items" class="popupbottom" href="https://www.playerauctions.com/member/offereditor/?ptype=2&amp;type=sell">Sell Items</a></li>
+                                      </ul>
+								</td>
+								<td width="2" background="/images/head_menu_rightbg4.gif"></td>
+								</tr>
+								<tr>
+								<td colspan="3"><img src="/images/head_menu_bottom4.gif" width="157" height="5" border="0"></td>
+								</tr>
+							</tbody></table>
+							<iframe src="/blank.htm" style="position:absolute; border:0; visibility:inherit; top:0px; left:0px; width:157px; height:0px; z-index:-1; filter='progid:DXImageTransform.Microsoft.Alpha(style=0,opacity=0)';"></iframe>
+			  </div>
+			  <div class="TFlyPopupAnimate" id="DIV6"></div>
+		</td>
+		<td align="center" class="stat" id="menu_BuySell" style="POSITION: relative" onmouseover="onBuySellMenuOver()" onmouseout="onBuySellMenuOut()">
+		<span onmouseover="onBuySellMenuOver()" onmouseout="onBuySellMenuOut()">
+		<a id="ctl00_HyperLink16" title="Buy / Sell" class="topmenu" onmouseover="onBuySellMenuOver()" onmouseout="onBuySellMenuOut()" href="http://www.playerauctions.com/help/content/making-your-first-purchase/">Buy / Sell</a>
+            &nbsp; <a href=""><img src="/images/head_menu_icon.gif" width="8" height="4" border="0"></a>
+        </span>	
+		      <div class="popup" onmouseover="onBuySellMenuOver()" onmouseout="onBuySellMenuOut()">
+							<table width="157" border="0" cellspacing="0" cellpadding="0">
+								<tbody><tr>
+								<td colspan="3"><img src="/images/head_menu_up4.gif" width="157" height="5" border="0"></td>
+								</tr>
+								<tr>
+								<td width="2" background="/images/head_menu_leftbg4.gif"></td>
+								<td width="153" bgcolor="#264D86">
+								    <ul>
+								            <li>
+                                                <a id="ctl00_HyperLink47" title="Learn How to Buy" href="http://www.playerauctions.com/help/content/making-your-first-purchase/">Learn How to Buy</a></li>
+                                            <li>
+                                                <a id="ctl00_HyperLink1" title="Learn How to Sell" href="http://www.playerauctions.com/help/content/making-your-first-sale/">Learn How to Sell</a></li>
+								            <li>
+                                                <a id="ctl00_HyperLink22" title="Browse For Sale Offers" href="http://www.playerauctions.com/offer/mmorpg-market.aspx?language=en">Browse For Sale Offers</a></li>
+                                            <li>
+                                                <a id="ctl00_HyperLink3" title="Browse Wanted Offers" href="http://www.playerauctions.com/offer/mmorpg-market.aspx?language=en&amp;createoffer=true">Browse Wanted Offers</a></li>
+                                            <li>
+                                                <a id="ctl00_HyperLink111" title="Create New Wanted Offer" href="https://www.playerauctions.com/member/offereditor/?type=buy">Create New Wanted Offer</a></li>
+                                            
+                                            <li>
+                                                <a id="ctl00_HyperLink2" title="Create New For Sale Offer" href="https://www.playerauctions.com/member/offereditor/?type=sell">Create New For Sale Offer</a></li>
+                                            <li>
+                                                <a id="ctl00_hlBatchOfferUpload" title="Bulk Offer Upload" href="https://www.playerauctions.com/member/batchoffer/">Bulk Offer Upload</a>
+                                            </li>
+                                            <li>
+                                                <a id="ctl00_HyperLink64" title="Marketplace Report" class="popupbottom" href="http://www.playerauctions.com/compare-gold-prices/">Marketplace Report</a></li>
+                                            
+								    </ul>
+								</td>
+								<td width="2" background="/images/head_menu_rightbg4.gif"></td>
+								</tr>
+								<tr>
+								<td colspan="3"><img src="/images/head_menu_bottom4.gif" width="157" height="5" border="0"></td>
+								</tr>
+							</tbody></table>
+							<iframe src="/blank.htm" style="position:absolute; border:0; visibility:inherit; top:30px; left:0px; width:157px; height:140px; z-index:-1; filter='progid:DXImageTransform.Microsoft.Alpha(style=0,opacity=0)';"></iframe>
+			  </div>
+			  <div class="TFlyPopupAnimate" id="DIV8"></div>
+		</td>
+		<td align="center" class="stat" id="menu_Help" style="POSITION: relative">
+		<a id="ctl00_HyperLink40" title="Help" class="topmenu" href="http://www.playerauctions.com/help/">Help</a>
+		    &nbsp; <a href="#"><img src="/images/head_menu_icon.gif" width="8" height="4" border="0" align="absmiddle"></a>	
+		      <div class="popup">
+							<table width="157" border="0" cellspacing="0" cellpadding="0">
+								<tbody><tr>
+								<td colspan="3"><img src="/images/head_menu_up4.gif" width="157" height="5" border="0"></td>
+								</tr>
+								<tr>
+								<td width="2" background="/images/head_menu_leftbg4.gif"></td>
+								<td width="153" bgcolor="#264D86">
+									<ul>
+                                        <li>
+                                            <a id="ctl00_HyperLink12" title="Help Center / FAQ" href="http://www.playerauctions.com/help/">Help Center / FAQ</a>
+                                        </li>
+                                        <li>
+                                            <a id="ctl00_HyperLink13" title="Getting Started" href="http://www.playerauctions.com/help/getting-started/">Getting Started</a>
+                                        </li>
+                                        <li>
+                                            <a id="ctl00_HyperLink14" title="Security Center" href="http://www.playerauctions.com/help/security-resolution-center/">Security Center</a>
+                                        </li>
+                                        <li class="statTop" id="menu_Community">
+                                            <a id="ctl00_hlCommunity" title="Community" href="http://www.playerauctions.com/blog/">Community
+                                                 <span style=" padding-left:70px;">
+                                                    <img alt="" src="/images/icon_arrowright.gif" style=" border:0; ">
+                                                 </span>
+                                            </a>
+                                            <div id="communityDiv" class="popup" style="position:absolute; left:157px; top:70px;">
+                                            <table width="127" border="0" cellspacing="0" cellpadding="0">
+                                            <tbody><tr>
+                                            <td colspan="3"><img src="/images/head_menu_up6.gif" width="127" height="5" border="0"></td>
+                                            </tr>
+                                            <tr>
+                                            <td width="2" background="/images/head_menu_leftbg4.gif"></td>
+                                            <td width="123" bgcolor="#264D86">
+                                                    <ul>
+                                                        <li><a href="/blog/" title="Blog">
+                                                            Blog
+                                                        </a></li>
+                                                        <li><a target="_blank" href="http://twitter.com/playerauctions" title="Twitter">
+                                                            Twitter
+                                                        </a></li>
+                                                        <li>
+                                                            <a id="ctl00_HyperLink11" title="About Us" href="http://www.playerauctions.com/help/about-us/">About Us</a></li>
+                                                        <li>
+                                                            <a id="ctl00_HyperLink4" title="Compare MMO Currency &amp; Gold Prices" href="http://www.playerauctions.com/compare-gold-prices/">Marketplace Report</a></li>
+                                                        <li>
+                                                            <a id="ctl00_hlWeeklyContests" title="Weekly Contests" href="http://www.playerauctions.com/community/contest/">Weekly Contests</a></li>
+                                                        <li>
+                                                            <a id="ctl00_HyperLink10" title="Press &amp; News" class="popupbottom" href="http://www.playerauctions.com/help/content/press-news/">Press &amp; News</a></li>
+                                                    </ul>
+                                                   </td>
+                                                <td width="2" background="/images/head_menu_rightbg4.gif"></td>
+                                                </tr>
+                                                <tr>
+                                                <td colspan="3"><img src="/images/head_menu_bottom4.gif" width="127" height="5" border="0"></td>
+                                                </tr>
+                                            </tbody></table>
+                                            <iframe style="position: absolute; border: 0; visibility: inherit; top: 13px; left: 0px;
+                                            width: 127px; height: 100px; z-index: -1; filter='progid:dximagetransform.microsoft.alpha(style=0,opacity=0)';" src="/blank.htm"></iframe>
+                                         </div>
+                                         <div class="TFlyPopupAnimate" id="EyebrowMenu4_Anim"></div>
+                                        </li>
+                                        <li>
+                                            <a id="ctl00_HyperLink15" title="Contact Us" class="popupbottom" href="http://www.playerauctions.com/help/contact-us/">Contact Us</a>
+                                        </li>
+                                    </ul>
+								</td>
+								<td width="2" background="/images/head_menu_rightbg4.gif"></td>
+								</tr>
+								<tr>
+								<td colspan="3"><img src="/images/head_menu_bottom4.gif" width="157" height="5" border="0"></td>
+								</tr>
+							</tbody></table>
+							<iframe src="/blank.htm" style="position:absolute; border:0; visibility:inherit; top:0px; left:0px; width:157px; height:0px; z-index:-1; filter='progid:DXImageTransform.Microsoft.Alpha(style=0,opacity=0)';"></iframe>
+			  </div>
+			  <div class="TFlyPopupAnimate" id="DIV10"></div>
+		</td>
+		</tr>
+    </tbody></table>
+    
+    
+    </td>
+    <td width="408" align="right" valign="bottom" background="/images/topmenu_right.gif">
+	
+    <!--Start of Keywords-->
+		<table width="364" height="50" border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+		<td width="147" align="left">
+		<input name="ctl00$txtKeyword2" type="text" id="ctl00_txtKeyword2" class="keywordform grey Keyword" onfocus="onTextBoxFocus();" onblur="onTextBoxBlur();" style="font-size: 10px;height: 12px; #height: 16px;width:136px;">
+		<input type="hidden" name="ctl00$hfHideMaster" id="ctl00_hfHideMaster">
+		</td>
+		<td width="158">
+		    <select name="ctl00$ddlGameMaster2" id="ctl00_ddlGameMaster2" class="form GameDDL">
+	<option value="">Select Game</option>
+	<option value="2790">2 Moons</option>
+	<option value="2801">9 Dragons</option>
+	<option value="3032">A Tale in the Desert</option>
+	<option value="2130">Age of Conan EU</option>
+	<option value="2191">Age of Conan US</option>
+	<option value="3376">Aion Online EU</option>
+	<option value="3134">Aion Online US</option>
+	<option value="7">Anarchy Online</option>
+	<option value="2805">Angels Online</option>
+	<option value="19">Archlord</option>
+	<option value="3013">Asheron's Call</option>
+	<option value="2813">Atlantica Online</option>
+	<option value="3033">Battleground Europe</option>
+	<option value="3014">Bounty Bay Online</option>
+	<option value="20">Cabal  EU </option>
+	<option value="2155">Cabal  US </option>
+	<option value="3217">Champions 0nline</option>
+	<option value="5">City of Heroes</option>
+	<option value="21">City of Villains</option>
+	<option value="3229">Conquer Online</option>
+	<option value="3035">Corum Online</option>
+	<option value="3301">CrazyTao</option>
+	<option value="2307">Dark Age of Camelot</option>
+	<option value="3015">Dark and Light</option>
+	<option value="3173">Darkfall Online</option>
+	<option value="3450">Diablo II</option>
+	<option value="22">Dofus</option>
+	<option value="3440">Dungeon Fighter Online</option>
+	<option value="3036">Dungeon Runners</option>
+	<option value="17">Dungeons and Dragons EU</option>
+	<option value="14">Dungeons and Dragons US</option>
+	<option value="3016">Entropia Universe</option>
+	<option value="23">EQ Online Adventures</option>
+	<option value="3037">Eudemons Online</option>
+	<option value="8">EVE Online</option>
+	<option value="4">EverQuest</option>
+	<option value="11">EverQuest II</option>
+	<option value="3442">FarmVille</option>
+	<option value="2818">Fiesta Online</option>
+	<option value="2">Final Fantasy XI US</option>
+	<option value="2826">Florensia</option>
+	<option value="2831">Fly For Fun</option>
+	<option value="24">Gaia Online</option>
+	<option value="2847">GoonZu Online</option>
+	<option value="3018">Granado Espada</option>
+	<option value="3025">GrandChase Online</option>
+	<option value="13">Guild Wars</option>
+	<option value="3019">Gunz Online</option>
+	<option value="2784">Habbo  EU </option>
+	<option value="2785">Habbo  US  </option>
+	<option value="2849">Hero Online</option>
+	<option value="2851">Holic Online</option>
+	<option value="2853">IMVU</option>
+	<option value="26">Kal Online</option>
+	<option value="2855">Knight Online</option>
+	<option value="2871">Last Chaos</option>
+	<option value="2880">Lineage</option>
+	<option value="3">Lineage 2 US</option>
+	<option value="28">Lord of The Rings Online EU</option>
+	<option value="27">Lord of The Rings Online US</option>
+	<option value="3136">Lunia</option>
+	<option value="2884">Mabinogi</option>
+	<option value="3209">Mafia Wars</option>
+	<option value="29">Maple Story</option>
+	<option value="2888">Maple Story  EU </option>
+	<option value="2890">Metin 2</option>
+	<option value="3047">Minions of Mirth</option>
+	<option value="3020">Mu Online</option>
+	<option value="3048">Myth War 2</option>
+	<option value="3049">Myth War Online</option>
+	<option value="3050">Navy Field</option>
+	<option value="2925">Neo Steam Online</option>
+	<option value="3132">Neopets</option>
+	<option value="2928">Perfect World</option>
+	<option value="3021">Phantasy Star Universe</option>
+	<option value="2022">Pirates of the Burning Sea</option>
+	<option value="3051">PlanetSide</option>
+	<option value="3026">Pogo Online</option>
+	<option value="2936">Priston Tale</option>
+	<option value="3052">Puzzle Pirates</option>
+	<option value="31">Ragnarok Online</option>
+	<option value="3053">Rakion</option>
+	<option value="2938">Rappelz Online</option>
+	<option value="3027">Red Stone Online</option>
+	<option value="2952">Requiem Online</option>
+	<option value="15">RF Online</option>
+	<option value="2956">Rohan Online</option>
+	<option value="32">Rose Online</option>
+	<option value="3184">Runes of Magic EU</option>
+	<option value="3179">Runes of Magic US</option>
+	<option value="33">Runescape</option>
+	<option value="3028">Saga Online</option>
+	<option value="2962">Scions of Fate</option>
+	<option value="2964">Seal Online</option>
+	<option value="9">Second Life</option>
+	<option value="2967">Shadow of Legend</option>
+	<option value="3029">ShadowBane</option>
+	<option value="2794">Shaiya Online</option>
+	<option value="2969">Sho Online</option>
+	<option value="34">Silkroad Online</option>
+	<option value="6">Star Wars Galaxies</option>
+	<option value="3054">StarQuest Online</option>
+	<option value="2972">Sword of the New World</option>
+	<option value="2976">Tales of Pirates</option>
+	<option value="3055">Talisman Online</option>
+	<option value="3226">Texas Hold'Em</option>
+	<option value="3030">Thang Online</option>
+	<option value="3200">The Chronicles Of Spellborn</option>
+	<option value="3303">The Warlords</option>
+	<option value="2231">Tibia</option>
+	<option value="3056">Toontown Online</option>
+	<option value="3057">Trickster Online</option>
+	<option value="2995">Twelve Sky</option>
+	<option value="3220">Twelve Sky  2</option>
+	<option value="2392">Ultima Online</option>
+	<option value="3447">Vampires</option>
+	<option value="18">Vanguard : Saga of Heroes</option>
+	<option value="3058">Vendetta Online</option>
+	<option value="3001">Voyage Century</option>
+	<option value="3031">War Rock</option>
+	<option value="2608">Warhammer Online EU</option>
+	<option value="2084">Warhammer Online US</option>
+	<option value="3305">Way of the Five</option>
+	<option value="3307">Webkinz</option>
+	<option value="3006">With Your Destiny</option>
+	<option value="3196">Wizard101</option>
+	<option value="3059">World of Kung Fu</option>
+	<option value="12">World of Warcraft EU</option>
+	<option value="10">World of Warcraft US</option>
+	<option value="3008">Xiah</option>
+	<option value="3445">Yoville</option>
+	<option value="3299">Zero Online</option>
+
+</select>
+            
+		</td>
+		<td align="center"><input type="image" name="ctl00$ibSearch2" id="ctl00_ibSearch2" title="Search MMO Game Currency, Accounts and Power Leveling" src="/images/searchgo.gif" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ibSearch2&quot;, &quot;&quot;, true, &quot;MasterSearch2&quot;, &quot;&quot;, false, false))" style="border-width:0px;"></td>
+		</tr>
+		</tbody></table>
+    <!--End of Keywords-->
+		
+	</td>
+  </tr>
+</tbody></table>
+<!--End of TopMenu-->
+<script type="text/javascript" language="javascript">
+    var oGameList_Master = document.getElementById("ctl00_ddlGameMaster");
+    var oGameList_Second = document.getElementById("ctl00_ddlGameMaster2");
+    var oGameListDiv_Master = document.getElementById("GameListDiv_Master");
+    var oGameListControl_Master = new GameListControl(oGameListDiv_Master, oGameList_Master, "Horizontal", oGameList_Second);
+    var leafCategoryId_Master = document.getElementById("ctl00_hfHideMaster");
+    var sProductTypeListControlId_Master = "ctl00_rblProductType";
+    var sCurrencyText = $get(sProductTypeListControlId_Master + "_1").nextSibling.innerHTML;
+    oGameListControl_Master.xmlDataPath = "http://www.playerauctions.com/Config/Gamedata";
+    oGameListControl_Master.language = 'en';
+    oGameListControl_Master.showAllOptions = true;
+    oGameListControl_Master.showTitle = false;
+    oGameListControl_Master.returnAllNode = true;
+    oGameList_Master.onchange = function() {
+        oGameList_Master.focus();   // HACK IE 6
+        oGameListControl_Master.selectGame(this.value);
+    };
+    oGameListControl_Master.ongamechange = function(value) {
+        var sCurrencyTextForDisplay;
+        if (parseInt(value))
+            sCurrencyTextForDisplay = oGameListControl_Master.getCurrencyName();
+        else
+            sCurrencyTextForDisplay = sCurrencyText;
+
+        var sProductType = oGameListControl_Master.getProductType();
+        if (value == "")
+            sProductType = "1,1,1,1,1";
+        rebuildProductOptions(sProductType, sCurrencyTextForDisplay);
+    };
+    oGameListControl_Master.onchange = function(value) {
+        leafCategoryId_Master.value = value;
+    };
+    oGameListControl_Master.onlevelchange = function(value) {
+        if (value == 0) {
+            document.getElementById("ServerFill_Master").style.display = "inline";
+            oGameListDiv_Master.className = "InlineDiv";
+            $get("ServerColumn_Master").style.width = "150px";
+        } else {
+            document.getElementById("ServerFill_Master").style.display = "none";
+            oGameListDiv_Master.className = "";
+            $get("ServerColumn_Master").style.width = (value == 1 ? "150px" : "260px");
+        }
+    };
+    var ajaxUrl = "/Ajax/Ajax.aspx";
+    function onFavoriateMarketChange_Master(iGameId, iCategoryId) {
+        if (parseInt(iCategoryId)) {
+            oGameListControl_Master.recoverStatus(iGameId, iCategoryId);
+        }
+    }
+
+    function onTextBoxFocus() {
+        var txtKeyword = document.getElementById("ctl00_txtKeyword");
+        if (txtKeyword.className == "keywordform grey Keyword") {
+            txtKeyword.className = "keywordform Keyword";
+            txtKeyword.value = "";
+        }
+
+        var txtKeyword2 = document.getElementById("ctl00_txtKeyword2");
+        if (txtKeyword2.className == "keywordform grey Keyword") {
+            txtKeyword2.className = "keywordform Keyword";
+            txtKeyword2.value = "";
+        }
+    }
+    function onTextBoxBlur() {
+        var txtKeyword = document.getElementById("ctl00_txtKeyword");
+        var strEnterKeywords = 'Enter keywords';
+        if (txtKeyword.value.Trim() == "" || txtKeyword.value.Trim() == strEnterKeywords) {
+            txtKeyword.className = "keywordform grey Keyword";
+            txtKeyword.value = strEnterKeywords;
+        }
+        else {
+            txtKeyword.className = "keywordform Keyword";
+        }
+
+        var txtKeyword2 = document.getElementById("ctl00_txtKeyword2");
+        if (txtKeyword2.value.Trim() == "" || txtKeyword2.value.Trim() == strEnterKeywords) {
+            txtKeyword2.className = "keywordform grey Keyword";
+            txtKeyword2.value = strEnterKeywords;
+        }
+        else {
+            txtKeyword2.className = "keywordform Keyword";
+        }
+    }
+    onTextBoxBlur();
+
+    var hfAdvancedSearchId = "ctl00_hfAdvancedSearch";
+    function ShowAdvancedSearch() {
+        var isAdancedSearch = 0;
+        var advancedsearch = $get("advsearch");
+        if (advancedsearch.style.display == "") {
+            advancedsearch.style.display = "none";
+            isAdancedSearch = 0;
+            //$get("AdvSearchPanelArrow").src = "/images/icon_sec_mo_down.gif";
+        }
+        else {
+            advancedsearch.style.display = "";
+            isAdancedSearch = 1;
+            //$get("AdvSearchPanelArrow").src = "/images/icon_sec_mo_up.gif";
+        }
+        if ($get(hfAdvancedSearchId))
+            $get(hfAdvancedSearchId).value = isAdancedSearch;
+    }
+    function findFirstElment(elem) {
+        for (var i = 0; i < elem.childNodes.length; ++i) {
+            if (elem.childNodes[i].nodeType == 3)
+                continue;
+
+            return elem.childNodes[i];
+        }
+    }
+    function getchildElementLength(elem) {
+        var result = 0;
+        for (var i = 0; i < elem.childNodes.length; ++i) {
+            if (elem.childNodes[i].nodeType == 3)
+                continue;
+
+            ++result;
+        }
+
+        return result;
+    }
+    function hideAllProductTypeOption_Master() {
+        var oProductTypeListControlId_Master = $get(sProductTypeListControlId_Master);
+        var iLength = getchildElementLength(findFirstElment(findFirstElment(oProductTypeListControlId_Master)));
+        for (var i = iLength - 1; i >= 1; --i) {
+            $get(sProductTypeListControlId_Master + "_" + i).parentNode.style.display = "none";
+        }
+    }
+    
+    function rebuildProductOptions(sProductType, sCurrencyName)
+    {
+        hideAllProductTypeOption_Master();
+        var productTypeList = new Array();
+        var aProductType = sProductType.split(",");
+        for( var i=0; i < aProductType.length; ++i)
+        {        
+            if (aProductType[i] == "1")        
+            {
+	        var optionIndex = i + 1;
+                $get(sProductTypeListControlId_Master + "_" + optionIndex).parentNode.style.display = "";
+                if ($get(sProductTypeListControlId_Master + "_" + optionIndex).value == "1")
+                {
+                    $get(sProductTypeListControlId_Master + "_" + optionIndex).nextSibling.innerHTML 
+                        = sCurrencyName;
+                }
+            }
+        }
+    }
+</script>
+
+</div>
+<script type="text/javascript">
+    //Fix Png In IE6 Only
+    if (Browser.ie == '6.0') {
+        DD_belatedPNG.fix('img');
+    }
+</script>
+<!--End of Header-->
+        <div align="center">
+            
             <!--Start of Center Section-->
             <div id="center_section">
                 
+<div id="center_sub_section">
     <div id="breadcrumb">
-        <span id="ctl00_cphMain_SiteMapPath1"><a href="#ctl00_cphMain_SiteMapPath1_SkipLink"><img alt="Skip Navigation Links" height="0" width="0" src="/WebResource.axd?d=efTFsIgYoJWpjVy3Jw3-NA2&amp;t=633374191679762500" style="border-width:0px;"></a><span><a title="PlayerAuctions - Play. Trade. Dominate." href="http://www.playerauctions.com/">Home</a></span><span> &gt; </span><span><a title="Help Center" href="http://www.playerauctions.com/Help/Help.aspx">Help Center</a></span><span> &gt; </span><span>Privacy Policy</span><a id="ctl00_cphMain_SiteMapPath1_SkipLink"></a></span>
+        <span id="ctl00_cphMain_SiteMapPath1"><a href="#ctl00_cphMain_SiteMapPath1_SkipLink"><img alt="Skip Navigation Links" height="0" width="0" src="/WebResource.axd?d=efTFsIgYoJWpjVy3Jw3-NA2&amp;t=633933331034635000" style="border-width:0px;"></a><span><a title="PlayerAuctions - Play. Trade. Dominate." href="http://www.playerauctions.com/">Home</a></span><span> &gt; </span><span><a title="Help Center" href="http://www.playerauctions.com/help/">Help Center</a></span><span> &gt; </span><span>Privacy Policy</span><a id="ctl00_cphMain_SiteMapPath1_SkipLink"></a></span>
     </div>
     <table width="85%" border="0" cellspacing="0" cellpadding="0" align="center">
         <tbody><tr>
             <td>
                 <table width="547" border="0" cellspacing="0" cellpadding="0">
                     <tbody><tr>
-                        <td width="27">
-                            <img src="/Images/list_title.gif" width="27" height="22" alt=""></td>
-                        <td width="520" background="/Images/list_title_bg.gif" class="listtitle" align="left">
-                            <b>
-                                Privacy  Policy - PlayerAuctions</b></td>
+                        <td width="520" class="listtitle" align="left">
+                            <h3>
+                                Privacy  Policy - PlayerAuctions</h3></td>
                     </tr>
                 </tbody></table>
                 <br>
@@ -802,259 +1151,83 @@ proLoadImages();
             </td>
         </tr>
     </tbody></table>
+</div>
 
             </div>
             <!--End of Center Section-->
             <!--Start of Footer-->
-            <div id="footer">
-                <!--Start of Sitemap -->
-                <table width="100%" border="0" cellpadding="0" cellspacing="0">
-                    <tbody><tr>
-                        <td width="5" height="5">
-                            <img src="/images/payment_left_top.gif" width="5" height="5"></td>
-                        <td width="922" background="/images/payment_mid_top.gif">
-                        </td>
-                        <td width="5" height="5">
-                            <img src="/images/payment_right_top.gif" width="5" height="5"></td>
-                    </tr>
-                    <tr>
-                        <td width="5" height="52" background="/images/sg_left_bg.gif">
-                        </td>
-                        <td height="110">
-                            <table height="110" border="0" align="center" cellpadding="0" cellspacing="0" class="sitemap_nav">
-                                <tbody><tr>
-                                    <!--td width="230" align="center">
-                                <img src="/images/pa_logo.gif" width="202" height="76" title="PlayerAuctions.com"></td-->
-                                    <td align="left" valign="top" width="110">
-                                        <img src="/images/blank.gif" width="1" height="8"><br>
-                                        <b>
-                                            Site Links</b><br>
-                                        <img src="/images/blank.gif" width="1" height="6"><br>
-                                        <img src="/images/foot_mapdot.gif" width="3" height="19" align="absmiddle">&nbsp;
-                                        &nbsp;<a id="ctl00_hlHome" title="PlayerAuctions - Play. Trade. Dominate." href="http://www.playerauctions.com/">Home</a><br>
-                                        <img src="/images/foot_mapdot.gif" width="3" height="19" align="absmiddle">&nbsp;
-                                        &nbsp;<a id="ctl00_HyperLink16" href="http://www.playerauctions.com/Help/HelpCategoryPage.aspx?hCatID=191&amp;hCatName=About Us">About Us</a><br>
-                                        <img src="/images/foot_mapdot.gif" width="3" height="19" align="absmiddle">&nbsp;
-                                        &nbsp;<a id="ctl00_HyperLink17" href="http://www.playerauctions.com/Help/Sitemap.aspx">Site Map</a><br>
-                                        <img src="/images/foot_mapdot.gif" width="3" height="19" align="absmiddle">&nbsp;
-                                        &nbsp;<a id="ctl00_HyperLink18" href="http://www.playerauctions.com/Search/AdvanceSearch.aspx">Advanced Search</a><br>
-                                    </td>
-                                    <td width="1" bgcolor="#BCD0DB">
-                                        <img src="/images/blank.gif" width="1" height="1"></td>
-                                    <td width="12">
-                                        <img src="/images/blank.gif" width="12" height="1"></td>
-                                    <td width="150" align="left" valign="top">
-                                        <img src="/images/blank.gif" width="1" height="8"><br>
-                                        <b>
-                                            Buy</b><br>
-                                        <img src="/images/blank.gif" width="1" height="6"><br>
-                                        <img src="/images/foot_mapdot.gif" width="3" height="19" align="absmiddle">&nbsp;
-                                        &nbsp;<a id="ctl00_HyperLink21" title="Securely Buy MMO Currency, Accounts, Items, and More!" href="http://www.playerauctions.com/go/Buy-mmo-currency_accounts_powerleveling_items-1000000.aspx">Browse For Sale Offers</a>
-                                        <br>
-                                        <img src="/images/foot_mapdot.gif" width="3" height="19" align="absmiddle">&nbsp;
-                                        &nbsp;<a id="ctl00_HyperLink20" href="https://www.playerauctions.com/Member/OfferEditor.aspx?Type=Buy">Create New Wanted Offer</a>
-                                        <br>
-                                        <img src="/images/foot_mapdot.gif" width="3" height="19" align="absmiddle">&nbsp;
-                                        &nbsp;<a id="ctl00_HyperLink19" href="http://www.playerauctions.com/Help/HelpContent.aspx?hCatID=245&amp;hCatName=Making+Your+First+Purchase">Learn How to Buy</a>
-                                        
-                                    </td>
-                                    <td width="1" bgcolor="#BCD0DB">
-                                        <img src="/images/blank.gif" width="1" height="1"></td>
-                                    <td width="12">
-                                        <img src="/images/blank.gif" width="12" height="1"></td>
-                                    <td width="150" align="left" valign="top">
-                                        <img src="/images/blank.gif" width="1" height="8"><br>
-                                        <b>
-                                            Sell</b><br>
-                                        <img src="/images/blank.gif" width="1" height="6"><br>
-                                        <img src="/images/foot_mapdot.gif" width="3" height="19" align="absmiddle">&nbsp;
-                                        &nbsp;<a id="ctl00_HyperLink34" href="https://www.playerauctions.com/Member/OfferEditor.aspx?Type=Sell">Create New For Sale Offer</a>
-                                        <br>
-                                        <img src="/images/foot_mapdot.gif" width="3" height="19" align="absmiddle">&nbsp;
-                                        &nbsp;<a id="ctl00_HyperLink35" title="Securely Sell MMO Currency, Accounts, Items, and More!" href="http://www.playerauctions.com/go/Sell-mmo-currency_accounts_powerleveling_items-2000000.aspx">Browse Wanted Offers</a><br>
-                                        <img src="/images/foot_mapdot.gif" width="3" height="19" align="absmiddle">&nbsp;
-                                        &nbsp;<a id="ctl00_HyperLink23" href="http://www.playerauctions.com/Help/HelpContent.aspx?hCatID=246&amp;hCatName=Making+Your+First+Sale">Learn How to Sell</a>
-                                        
-                                    </td>
-                                    <td width="1" bgcolor="#BCD0DB">
-                                        <img src="/images/blank.gif" width="1" height="1"></td>
-                                    <td width="12">
-                                        <img src="/images/blank.gif" width="12" height="1"></td>
-                                    <td width="150" align="left" valign="top">
-                                        <img src="/images/blank.gif" width="1" height="8"><br>
-                                        <b>
-                                            My Account</b><br>
-                                        <img src="/images/blank.gif" width="1" height="6"><br>
-                                        <img src="/images/foot_mapdot.gif" width="3" height="19" align="absmiddle">&nbsp;
-                                        &nbsp;<a id="ctl00_HyperLink25" href="https://www.playerauctions.com/Member/SignIn.aspx">Register / Sign In</a>
-                                        <br>
-                                        <img src="/images/foot_mapdot.gif" width="3" height="19" align="absmiddle">&nbsp;
-                                        &nbsp;<a id="ctl00_HyperLink26" href="https://www.playerauctions.com/Member/MyOffer.aspx?type=buy">My Wanted Offers</a>
-                                        <br>
-                                        <img src="/images/foot_mapdot.gif" width="3" height="19" align="absmiddle">&nbsp;
-                                        &nbsp;<a id="ctl00_HyperLink46" href="https://www.playerauctions.com/Member/MyOffer.aspx?type=sell">My For Sale Offers</a>
-                                        <br>
-                                        <img src="/images/foot_mapdot.gif" width="3" height="19" align="absmiddle">&nbsp;
-                                        &nbsp;<a id="ctl00_HyperLink27" href="https://www.playerauctions.com/Member/MyOrder.aspx">My Orders</a>
-                                        <br>
-                                        <img src="/images/foot_mapdot.gif" width="3" height="19" align="absmiddle">&nbsp;
-                                        &nbsp;<a id="ctl00_HyperLink28" href="https://www.playerauctions.com/Member/Messenger.aspx">My Messages</a>
-                                        <br>
-                                        <img src="/images/foot_mapdot.gif" width="3" height="19" align="absmiddle">&nbsp;
-                                        &nbsp;<a id="ctl00_HyperLink29" href="http://www.playerauctions.com/Offer/MyFeedbackList.aspx">My Reputation</a>
-                                        <br>
-                                    </td>
-                                    <td width="1" bgcolor="#BCD0DB">
-                                        <img src="/images/blank.gif" width="1" height="1"></td>
-                                    <td width="12">
-                                        <img src="/images/blank.gif" width="12" height="1"></td>
-                                    <td width="150" align="left" valign="top">
-                                        <img src="/images/blank.gif" width="1" height="8"><br>
-                                        <b>
-                                            Community</b><br>
-                                        <img src="/images/blank.gif" width="1" height="6"><br>
-                                        <img src="/images/foot_mapdot.gif" width="3" height="19" align="absmiddle">&nbsp;
-                                        &nbsp;<a id="ctl00_HyperLink44" href="http://www.playerauctions.com/Blog?Language=en">Blog</a>&nbsp;<a href="http://blog.playerauctions.com/syndication.axd" target="_blank"><img src="/images/icon_rss.gif" border="0" align="absmiddle"></a>
-                                        <br>
-                                        <img src="/images/foot_mapdot.gif" width="3" height="19" align="absmiddle">
-                                        &nbsp;<a target="_blank" href="http://twitter.com/playerauctions" title="Twitter">
-                                        Twitter
-                                        </a><br>
-                                            
-                                        <img src="/images/foot_mapdot.gif" width="3" height="19" align="absmiddle">&nbsp;
-                                        &nbsp;<a id="ctl00_HyperLink45" href="http://www.playerauctions.com/Help/HelpCategoryPage.aspx?hCatID=191&amp;hCatName=About Us">About Us</a><br>
-                                        <img src="/images/foot_mapdot.gif" width="3" height="19" align="absmiddle">&nbsp;
-                                        &nbsp;<a id="ctl00_HyperLink24" title="Compare MMO Currency Prices" href="http://www.playerauctions.com/compare/compare-MMO-Currency-prices.aspx">Marketplace Report</a>
-                                        <br>
-                                        <img src="/images/foot_mapdot.gif" width="3" height="19" align="absmiddle">&nbsp;
-                                        &nbsp;<a id="ctl00_hlContest" title="Weekly Contests" href="http://www.playerauctions.com/Community/Contest.aspx">Weekly Contests</a>
-                                        <br>
-                                        <img src="/images/foot_mapdot.gif" width="3" height="19" align="absmiddle">&nbsp;
-                                        &nbsp;<a id="ctl00_HyperLink39" title="Press &amp; News" class="popupbottom" href="http://www.playerauctions.com/Help/HelpContent.aspx?hCatID=290&amp;hCatName=Press+%26+News">Press &amp; News</a>
-                                        <br>
-                                    </td>
-                                    <td width="1" bgcolor="#BCD0DB">
-                                        <img src="/images/blank.gif" width="1" height="1"></td>
-                                    <td width="12">
-                                        <img src="/images/blank.gif" width="12" height="1"></td>
-                                    <td width="110" align="left" valign="top">
-                                        <img src="/images/blank.gif" width="1" height="8"><br>
-                                        <b>
-                                            Help</b><br>
-                                        <img src="/images/blank.gif" width="1" height="6"><br>
-                                        <img src="/images/foot_mapdot.gif" width="3" height="19" align="absmiddle">&nbsp;
-                                        &nbsp;<a id="ctl00_HyperLink30" href="http://www.playerauctions.com/Help/Help.aspx">Help Center / FAQ</a>
-                                        <br>
-                                        <img src="/images/foot_mapdot.gif" width="3" height="19" align="absmiddle">&nbsp;
-                                        &nbsp;<a id="ctl00_HyperLink31" href="http://www.playerauctions.com/Help/HelpCategoryPage.aspx?hCatID=238&amp;hCatName=Getting+Started">Getting Started</a>
-                                        <br>
-                                        <img src="/images/foot_mapdot.gif" width="3" height="19" align="absmiddle">&nbsp;
-                                        &nbsp;<a id="ctl00_HyperLink32" href="http://www.playerauctions.com/Help/HelpCategoryPage.aspx?hCatID=267&amp;hCatName=Security+%26+Resolution+Center">Security Center</a>
-                                        <br>
-                                        <img src="/images/foot_mapdot.gif" width="3" height="19" align="absmiddle">&nbsp;
-                                        &nbsp;<a id="ctl00_HyperLink33" href="http://www.playerauctions.com/Help/ContactUs.aspx">Contact Us</a>
-                                        <br>
-                                    </td>
-                                </tr>
-                            </tbody></table>
-                        </td>
-                        <td width="5" background="/images/sg_right_bg.gif">
-                        </td>
-                    </tr>
-                    <tr>
-                        <td width="5" height="5">
-                            <img src="/images/sg_left_bottom.gif" width="5" height="5"></td>
-                        <td width="5" height="5" background="/images/sg_mid_bottom.gif">
-                        </td>
-                        <td width="5" height="5">
-                            <img src="/images/sg_right_bottom.gif" width="5" height="5"></td>
-                    </tr>
-                    <tr>
-                        <td colspan="3" height="5">
-                        </td>
-                    </tr>
-                </tbody></table>
-                <!--End of Sitemap -->
-                <!--Start of Copyright -->
-                <table cellpadding="0" cellspacing="0" border="0" width="100%" class="copyright">
-                    <tbody><tr>
-                        <td width="25%" rowspan="3" align="left" valign="middle">  
-                            <a href="http://www.playerauctions.com/Help/HelpContent.aspx?hCatID=270&amp;hCatName=PlayerGuardian%2bBuyer%2bProtection" title="PlayerGuardian provides unparalleled protections for buyers and sellers alike." target="_blank">
-                                <img height="46" width="188" border="0" src="/images/playerguardian_trustseals.gif">
+            <div id="footer" style="text-align:center">
+                <table width="980" border="0" cellspacing="0" cellpadding="0">
+                  <tbody><tr>
+                    <td width="5"><img src="/images/foot_left.gif"></td>
+                    <td width="970" align="center" background="/images/foot_bg.gif">
+	                <table width="95%" border="0" cellpadding="0" cellspacing="0">
+                      <tbody><tr>
+                        <td width="26%">
+                             <a href="http://www.playerauctions.com/help/content/playerguardian-buyer-protections/" title="PlayerGuardian provides unparalleled protections for buyers and sellers alike on PlayerAuctions." target="_blank">
+                                <img height="46" width="188" border="0" src="/images/playerguardian.gif">
                             </a>
                         </td>
-                        <td width="50%" rowspan="3" align="center">
+                        <td width="26%"><img src="/images/paypal_checkout_en.png" width="182" height="48"></td>
+                        <td width="15%">
+                            <a target="_blank" href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.playerauctions.com&amp;lang=en" title="PlayerAuctions uses VeriSign SSL Certificates for secure e-commerce and confidential communications." rel="nofollow">
+                                <img border="0" src="/images/landing_page_images/verisign_secured.png" id="imgVerisign"></a>
+                        </td>
+                        <td width="25%"><img src="/images/google_checkout.png"></td>
+                        <td width="8%">
+                            <!-- START SCANALERT CODE -->
+                            <a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.playerauctions.com" rel="nofollow"><img width="65" height="37" border="0" src="//images.scanalert.com/meter/survey/www.playerauctions.com/63.gif" title="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" alt="McAfee Secure" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
+                            <!-- END SCANALERT CODE -->
+                        </td>
+                      </tr>
+                    </tbody></table>
+	                </td>
+                    <td width="5"><img src="/images/foot_right.gif"></td>
+                  </tr>
+                </tbody></table>
+            </div>
+            <div class="copyright" align="center">
+                <!--Start of Copyright -->
+                <table cellpadding="0" cellspacing="0" border="0" width="100%">
+                    <tbody><tr>
+                        <td width="100%" align="center">
                             <table border="0" cellpadding="0" cellspacing="0">
                                 <tbody><tr>
-                                    <td align="center">
-                                        Copyright © 2000-2008 PlayerAuctions. All Rights Reserved.
+                                    <td align="center" style="color:#BCBCBC">
+                                        Copyright © 2000-2009 PlayerAuctions. All Rights Reserved.
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td align="center">
+                                    <td align="center" style="color:#BCBCBC">
                                         Designated trademarks and brands are the property of their respective owners.
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td align="center">
+                                    <td align="center" style="color:#BCBCBC">
                                         Use of this website constitutes acceptance of PlayerAuctions 
-                                        <a id="ctl00_HyperLink41" title="User Agreement" href="http://www.playerauctions.com/Help/UserAgreement.aspx">User Agreement</a>
+                                        <a id="ctl00_HyperLink41" title="User Agreement" rel="nofollow" href="http://www.playerauctions.com/help/agreement/">User Agreement</a>
                                         and
-                                        <a id="ctl00_HyperLink42" title="Privacy Policy" href="http://www.playerauctions.com/Help/PrivacyPolicy.aspx">Privacy Policy</a>.
+                                        <a id="ctl00_HyperLink42" title="Privacy Policy" rel="nofollow" href="http://www.playerauctions.com/help/policy/">Privacy Policy</a>
+                                        .
                                     </td>
                                 </tr>
                             </tbody></table>
-                        </td>
-                        <td rowspan="3" align="center" valign="middle" style="padding-left: 28px;">
-                            <a target="_blank" href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.playerauctions.com&amp;lang=en" title="PlayerAuctions uses VeriSign SSL Certificates for secure e-commerce and confidential communications.">
-                                <img border="0" src="/images/verisign_normal.gif" id="imgVerisign"></a>
-                        </td>
-                        <td rowspan="3" align="right" valign="middle">
-                            <!-- START SCANALERT CODE -->
-                            <a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.playerauctions.com"><img width="65" height="37" border="0" src="//images.scanalert.com/meter/survey/www.playerauctions.com/63.gif" title="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
-                            <!-- END SCANALERT CODE -->
-                        </td>
-                    </tr>
-                    <tr>
-                        <td align="center">
-                        </td>
-                    </tr>
-                    <tr>
-                        <td align="center">
                         </td>
                     </tr>
                 </tbody></table>
                 <!--End of Copyright -->
             </div>
         </div>
-        <!--Start of Footer Reflection-->
-        <table width="964" height="100%" align="center" border="0" cellpadding="0" cellspacing="0">
-            <tbody><tr>
-                <td width="16" height="39">
-                    <img src="/images/foot_bottom_left.gif" width="16" height="39" border="0"></td>
-                <td width="100%" height="39" background="/images/foot_bottom_bg.gif">
-                </td>
-                <td width="16" height="39">
-                    <img src="/images/foot_bottom_right.gif" width="16" height="39" border="0"></td>
-            </tr>
-        </tbody></table>
-        <!--End of Footer Reflection-->
         <!--End of Footer-->
         <input type="hidden" name="ctl00$hfIsFirstFlag" id="ctl00_hfIsFirstFlag" value="0">
     </form>
 
+
+ 
     <script type="text/javascript">
     var OfferFlag="";
-
     initEyebrowMenu();
-        
-        var hySignInMenu = document.getElementById("ctl00_hySignInMenu");
-        var hyLoadNotice = document.getElementById("ctl00_hyLoadNotice");
-        var hyPlaceNewOrder = document.getElementById("ctl00_hyPlaceNewOrder");
-        var hyActiveOrder1 = document.getElementById("ctl00_hyActiveOrder1");
-        var hyActiveOrder2 = document.getElementById("ctl00_hyActiveOrder2");
-        var hyActiveOrder3 = document.getElementById("ctl00_hyActiveOrder3");
-        var hyMore = document.getElementById("ctl00_hyMore");
+
         var lhyLoadNotice = document.getElementById("lhyLoadNotice");
         var lhyPlaceNewOrder = document.getElementById("lhyPlaceNewOrder");
         var lhyActiveOrder1 = document.getElementById("lhyActiveOrder1");
@@ -1090,7 +1263,7 @@ proLoadImages();
                         var ajaxUrl = '/Ajax/Ajax.aspx';
                         var xmlDoc = new XmlDom();
                         xmlDoc.async = false;
-                        xmlDoc.load("/Ajax/Ajax.aspx?action=ActiveOrder&MemberId=0&Language=en");
+                        xmlDoc.load("/ajax/ajax/?action=ActiveOrder&MemberId=0&Language=en");
 
                         var xmlNode = xmlDoc.documentElement.selectSingleNode("//response");
                         var result = xmlNode.getElementsByTagName("result")[0].childNodes[0].nodeValue;
@@ -1130,14 +1303,17 @@ proLoadImages();
                 frameMin.style.visibility = "inherit";
                 frameMin.style.height = "27px"
             }
-            else if(ilength == 7)
+            else if(ilength == 10)
             {
                 hyActiveOrder1.innerHTML = arrayText[0];
                 hyActiveOrder1.setAttribute("href",arrayText[1]);
-                hyActiveOrder2.innerHTML = arrayText[2];
-                hyActiveOrder2.setAttribute("href",arrayText[3]);                
-                hyActiveOrder3.innerHTML = arrayText[4];
-                hyActiveOrder3.setAttribute("href",arrayText[5]);
+                hyActiveOrder1.setAttribute("title",arrayText[2]);
+                hyActiveOrder2.innerHTML = arrayText[3];
+                hyActiveOrder2.setAttribute("href",arrayText[4]);      
+                hyActiveOrder2.setAttribute("title",arrayText[5]);           
+                hyActiveOrder3.innerHTML = arrayText[6];
+                hyActiveOrder3.setAttribute("href",arrayText[7]);
+                hyActiveOrder3.setAttribute("title",arrayText[8]);
                 
                 HideControl(hyLoadNotice);
                 HideControl(hyPlaceNewOrder);        
@@ -1154,7 +1330,7 @@ proLoadImages();
                     DisplayControl(hyMore);
                     DisplayControl(lhyMore);
                     DisplayBottomStyle(hyMore);
-                    hyMore.innerHTML = hyMore.innerHTML.replace("{0}", arrayText[6]);
+                    hyMore.innerHTML = hyMore.innerHTML.replace("{0}", arrayText[9]);
                 }
                 else
                 {
@@ -1181,6 +1357,7 @@ proLoadImages();
                 {
                     hyActiveOrder1.innerHTML = arrayText[0];
                     hyActiveOrder1.setAttribute("href",arrayText[1]);
+                    hyActiveOrder1.setAttribute("title",arrayText[2]);
                     DisplayControl(hyActiveOrder1);
                     DisplayControl(lhyActiveOrder1);
                     DisplayBottomStyle(hyActiveOrder1);
@@ -1190,8 +1367,10 @@ proLoadImages();
                 {
                     hyActiveOrder1.innerHTML = arrayText[0];
                     hyActiveOrder1.setAttribute("href",arrayText[1]);
-                    hyActiveOrder2.innerHTML = arrayText[2];
-                    hyActiveOrder2.setAttribute("href",arrayText[3]);                
+                    hyActiveOrder1.setAttribute("title",arrayText[2]);
+                    hyActiveOrder2.innerHTML = arrayText[3];
+                    hyActiveOrder2.setAttribute("href",arrayText[4]);      
+                    hyActiveOrder2.setAttribute("title",arrayText[5]);                       
                     DisplayControl(hyActiveOrder1);
                     DisplayControl(hyActiveOrder2);
                     DisplayControl(lhyActiveOrder1);
@@ -1204,27 +1383,7 @@ proLoadImages();
         
         function ResetLoad()
         {
-            HideControl(hyPlaceNewOrder);
-            HideControl(hyActiveOrder1);
-            HideControl(hyActiveOrder2);
-            HideControl(hyActiveOrder3);
-            HideControl(hyMore);
-            HideControl(lhyPlaceNewOrder);
-            HideControl(lhyActiveOrder1);
-            HideControl(lhyActiveOrder2);
-            HideControl(lhyActiveOrder3);
-            HideControl(lhyMore);
-            DisplayControl(hyLoadNotice);
             DisplayControl(lhyLoadNotice);
-            DisplayBottomStyle(hyLoadNotice);
-            if(hyLoadNotice != null)
-            {
-                hyLoadNotice.setAttribute("href","#");
-                hyLoadNotice.innerHTML = 'Loading...';
-            }
-            frameNormal.style.visibility = "hidden";
-            frameMin.style.visibility = "inherit";
-            frameMin.style.height = "34px";
         }
         
         function HideControl(control)
@@ -1248,11 +1407,6 @@ proLoadImages();
         function AccountTimeoutHandle()
         {
             ResetLoad();
-            if(hyLoadNotice != null)
-            {
-                hyLoadNotice.innerHTML = 'Sign In To View'
-                hyLoadNotice.setAttribute("href" , "" + ("en" == "en" ? "" : "/cn") + "/Member/Sign.aspx");
-            }
             
             var tdLoading = document.getElementById("tdLoading");
             var imgPendLoading = document.getElementById("imgPendLoading");
@@ -1267,9 +1421,10 @@ proLoadImages();
         
         ResetLoad();
     </script>
+    
+    
+    
 
-    
-    
 
 
 </body></html>
