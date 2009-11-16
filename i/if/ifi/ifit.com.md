@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ifit.com privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502024356id_/http%3A//www.ifit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifit.com privacy policy that was archived on 2009-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091116065558id_/http%3A//www.ifit.com/privacy) for the most accurate reproduction.*
 
 # ifit.com - Privacy Policy
 
