@@ -1,0 +1,201 @@
+<!--The following is the downloaded HTML source of the funkyemoticons.com privacy policy that was archived on 2009-11-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091116070256id_/http%3A//www.funkyemoticons.com/US/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+	<base href="http://www.funkyemoticons.com">
+	<title>Privacy Policy</title>
+	<meta http-equiv="content-language" content="en">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="description" content="">
+ 	<meta name="keywords" content="Funky Emoticons,smiley,smileys,animated smileys,messenger smileys,free smilies,hug smiley,emoticons, emoticon,free emoticons,messenger emoticons,animated emoticons,funny emoticons,emoticons for messenger,word emoticons,custom emoticons,free emoticon,windows messenger emoticons,animated emoticon,messenger emoticon,cool emoticons">
+	<meta name="verify-v1" content="z+jQCIZNlF1Kzy9t7vssQSG8Ztt6TI8jAzu5k5jZS18=">
+	<link rel="shortcut icon" href="images/favicon.ico">
+	<!-- <link rel="stylesheet" type="text/css" href="css/reseter.css" /> -->
+	<link rel="stylesheet" href="css/global.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="css/home.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="css/pngfix.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="css/iconos.css" type="text/css" media="screen">
+	<script type="text/javascript" src="js/funkye.js"></script>
+    
+    <!-- google analytics -->
+	<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	try {
+	var pageTracker = _gat._getTracker("UA-3835711-12");
+	pageTracker._trackPageview();
+	} catch(err) {}</script>
+    <!-- google analytics -->     
+        
+    	<script type="text/javascript">
+		
+	addDOMLoadEvent=(function(){var e=[],t,s,n,i,o,d=document,w=window,r='readyState',c='onreadystatechange',x=function(){n=1;clearInterval(t);while(i=e.shift())i();if(s)s[c]=''};return function(f){if(n)return f();if(!e[0]){d.addEventListener&&d.addEventListener("DOMContentLoaded",x,false);/*@cc_on@*//*@if(@_win32||@_win64)d.write("<script id=__ie_onload defer src=//0><\/scr"+"ipt>");s=d.getElementById("__ie_onload");s[c]=function(){s[r]=="complete"&&x()};/*@end@*/if(/WebKit/i.test(navigator.userAgent))t=setInterval(function(){/loaded|complete/.test(d[r])&&x()},10);o=w.onload;w.onload=function(){x();o&&o()}}e.push(f)}})();	
+	
+	//this function will add events to the elments
+	//function that will add the event to all 'a' (links) elements
+	function getLinks(){
+		var l,links=document.getElementsByTagName('A'), n = links.length;
+		while(n--) _addEvent(links[n],'click',show_popup);
+
+			
+		function _addEvent(obj,type,fn)
+		{
+			if(obj.attachEvent)
+			{
+				obj["e"+type+fn]=fn;
+				obj[type+fn]=function(){obj["e"+type+fn](window.event);}
+				obj.attachEvent("on"+type,obj[type+fn]);
+			}
+			else
+				obj.addEventListener(type,fn,true);
+		}
+	}					
+		var popup_url_click = "";
+		var popup_url_load = "";
+		var atributos = "width=750,height=620,scrollbars=0,resizable=1,toolbar=0,location=0,menubar=0,status=0,directories=0"
+		var pop_under = 1; //1 means is a popunder, it is not the active window
+		var popup_vfmail = false;
+		
+	
+		function resizePopUp(popUp)
+		{
+			popUp = popup_vfmail;
+			var x,y, p = popUp.document.body;
+			
+			while(!popUp.document.body);
+			
+			//popUp.onload = popUp.opener.pepe;
+			//popUp.document.body.onload = popUp.opener.pepe;
+			
+			x = p.clientWidth || p.offsetWidth;
+			y = p.clientHeight || p.offsetHeight;
+			
+			popUp.resizeTo(x+100,y+100);
+		}
+			
+		function show_popup(type){
+			//if I don't sent any param, it is supposed to be open with a click
+			type = type || "click";
+			//get the cookie
+		  	var x = readCookie('popup');
+			
+		  	//if we don't have cookie we show the popup
+			if(x!='active')
+		  	{
+		  	  if(type=='load') //if is when page loads
+			  {
+				if(popup_url_load!='')
+			  		popup_vfmail = window.open(popup_url_load, "Promotion", atributos);
+			  }
+			  else
+			  {
+			  	if(popup_url_click!='')
+			  		popup_vfmail = window.open(popup_url_click, "Promotion", atributos);
+			  }	
+			  
+			  //if the popunder has been launched
+			  if (pop_under) 
+			  {
+			  	//I put it under
+				if(popup_vfmail) popup_vfmail.blur(); //this hides the popup (comment if you want it visible)
+				window.focus(); //returns the focus to the main window
+				createCookie('popup','active');//create cookie to not open it again
+			  }
+			  
+			  //resizePopUp(popup_vfmail);
+		  }
+		}
+	
+		//cookie management
+		function createCookie(name,value) {
+			//alert('hola');
+			var date = new Date();
+			date.setTime(date.getTime()+(300000)); //cookie active for 5 min
+			var expires = "; expires="+date.toGMTString();
+			document.cookie = name+"="+value+expires+"; path=/";
+		}
+		
+		function readCookie(name) {
+			var nameEQ = name + "=";
+			var ca = document.cookie.split(';');
+			for(var i=0;i < ca.length;i++) {
+				var c = ca[i];
+				while (c.charAt(0)==' ') c = c.substring(1,c.length);
+				if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+			}
+			return null;
+		}
+		
+		function eraseCookie(name) {
+			createCookie(name,"",-1);
+		}			if (window.ActiveXObject && !window.XMLHttpRequest) { show_popup('load');}
+addDOMLoadEvent(getLinks);
+	</script>
+	
+</head><body class="guide">
+<div id="container">
+        <div id="header">
+          <ul id="idiomas">
+			<li><a href="http://www.funkyemoticons.com/EN/privacy.php"><img src="images/flag-en.png" alt="Privacy Policy EN"></a></li><li><a href="http://www.funkyemoticons.com/FR/privacy.php"><img src="images/flag-fr.png" alt="Privacy Policy FR"></a></li><li><a href="http://www.funkyemoticons.com/ES/privacy.php"><img src="images/flag-es.png" alt="Privacy Policy ES"></a></li><li><a href="http://www.funkyemoticons.com/IT/privacy.php"><img src="images/flag-it.png" alt="Privacy Policy IT"></a></li><li><a href="http://www.funkyemoticons.com/DE/privacy.php"><img src="images/flag-de.png" alt="Privacy Policy DE"></a></li> 
+		  
+			<!-- <li><a href="#"><img src="images/flag-en.png" alt="Cambiar a Francés"/></a></li> -->
+			
+          </ul>
+           <ul id="secciones">
+		   
+				<li id="menu_index"><a href="http://www.funkyemoticons.com/EN/index.php" title="Free Messenger Emoticons with Funky Emoticons!">Home</a></li><li id="menu_guide"><a href="http://www.funkyemoticons.com/EN/guide.php" title="How to Download and Install Funky Emoticons and How to Uninstall Funky Emoticons">Guide</a></li><li id="menu_contact"><a href="http://www.funkyemoticons.com/EN/contact.php" title="Contact Us">Contact</a></li><li id="menu_faq"><a href="http://www.funkyemoticons.com/EN/faq.php" title="">FAQ</a></li><li id="menu_sponsors"><a href="http://www.funkyemoticons.com/EN/sponsors.php" title="Sponsors">Sponsors</a></li>
+				<!--		   
+                <li><a href="#">home</a></li>
+                <li id="activo"><a href="#">guide</a></li>
+                <li><a href="#">contacto</a></li>
+                <li><a href="#">faq</a></li>
+                <li><a href="#">deenero</a></li>
+				-->
+
+          </ul>
+        </div><!--header-->    
+  <div id="wrap" class="pngr">
+        <div id="content">
+            <a href="http://www.funkyemoticons.com/EN/index.php"><h1 id="headerEN">Funky Emoticons</h1></a>        
+            <h2>Free Messenger Emoticons with Funky Emoticons!</h2>  
+            <a href="http://download.funkyemoticons.com/FunkyEmoticons_setup.php?lg=US&amp;browser=Unknown" id="descargaGenerica">Download</a>
+            <div id="questions" class="png">
+				<div id="bloqueTexto">
+					<div style="text-align: center;"><strong>Privacy Policy Funky Emoticons</strong></div><br>The following Privacy Policy covers the personal data processing activities undertaken by  «Favorit-Network» (“Provider”) through its website <a title="http://www.funkyemoticons.com" href="http://www.funkyemoticons.com/">www.funkyemoticons.com</a>  (the “Website”). This policy is subject to the Conditions that govern the Website and the user of the Website (the “User”) shall agree to this Privacy Policy in order to proceed with any of the services provided through it (the “Services”).<br><br>Provider hereby informs the User of the following:<br><br>1.	All data provided by the User when registering for or using any of the Services will be included in a database controlled by Provider. Save where expressly indicated, all data requests for the relevant service or feature described in the website are mandatory. If not all such data is provided, Provider may decide not to allow the User access to the Services or any part thereof.<br><br>2. The data collected by the Provider will be processed for the purpose of providing the Services requested by the User or for attending any query placed through the contact form available on the Website. The User hereby consents to the processing of his or her data for these purposes, and for communication to the User via email, or other electronic means, of events, news, new activities or services and other commercial information that Provider considers appropriate. Additionally, Provider may use the data collected for sending commercial communications or placing advertisements from third-parties that may be of User’s interest. Provider will collect user's information for purposes of profiling and tracking user's preferences and the product configuration selected by the user. Provider will also collect user's personal information for the purpose of profiling and tracking user's preferences and sending communications to the User, transferring user's data only to third parties within the EU offering same data protection warranties, as well as when required by law. These third parties will use this data with identical purposes as Provider according to the user' preferences. Provider may use third-parties, which may undertake some processing activities under the strict instructions and principles set out in this policy. The User accepts and expressly consents to all data processing provisions contained in this Privacy Policy.<br><br>3.	The User can exercise the rights of access, rectification, cancellation and opposition in relation to the User’s data by making the relevant request by contacting <a href="http://www.funkyemoticons.com/EN/contact.php">Contact</a> or by writing to Provider’s domicile.<br><br>4.	Provider will process some technical data when the User connects to the server in accordance with the Conditions for the purpose of determining the language in which to offer the Website. The Software offered by the Provider on the Website will also process some technical data for the Software’s performance as explained in the Conditions for its use.<br><br>5.	Provider reserves the right to modify this Privacy Policy without any specific notice to the User. Provider will publish any changes or amendments on its website and encourages the User to check the current Privacy Policy from time to time. If Provider informs of and applies any particular privacy conditions for any specific content, product and/or service, these will prevail in case of conflict between them and this Privacy Policy.<br><br>In accordance with the provisions set out above, the User hereby authorises Provider to process, and expressly consents to the processing of, the User’s personal data for the purposes indicated, as well as for the facilities and functions whatsoever included within the Services.<br><br>
+
+This Privacy Policy is valid from 10 February 2009				</div><!-- wrapList -->
+            </div><!--questions-->
+
+     </div><!--content-->
+    </div><!--wrap-->        
+                <div id="bgFooter"><img src="images/footer-bg.png"></div>
+  <div id="footer">
+
+<p id="enlacesLegal">
+	<!--
+	<a href="http://www.funkyemoticons.com/EN/privacy.php" rel="nofollow">Policy</a>  -  
+	<a href="http://www.funkyemoticons.com/EN/terms.php" rel="nofollow">Terms anc Conditions</a>  -  
+	<a href="http://www.favorit-network.com/?lg=EN" rel="nofollow" target="_blank">Affiliation</a>  -  
+	<a href="http://www.funkyemoticons.com/EN/contact.php" rel="nofollow">Contact</a>
+	-->
+	<a href="http://www.funkyemoticons.com/EN/index.php" title="Free Messenger Emoticons with Funky Emoticons!">Home</a> | <a href="http://www.funkyemoticons.com/EN/guide.php" title="How to Download and Install Funky Emoticons and How to Uninstall Funky Emoticons">Guide</a> | <a href="http://www.funkyemoticons.com/EN/contact.php" title="Contact Us">Contact</a> | <a href="http://www.funkyemoticons.com/EN/faq.php" title="">FAQ</a> | <a href="http://www.funkyemoticons.com/EN/sponsors.php" title="Sponsors">Sponsors</a> | <a href="http://www.funkyemoticons.com/EN/privacy.php" title="Privacy Policy">Privacy Policy</a> | <a href="http://www.funkyemoticons.com/EN/terms.php" title="Funky Emoticons - Terms and Conditions">Terms and Conditions</a> | <a href="http://www.favorit-network.com" target="_blank" title="">Affiliation</a>	
+</p>
+		
+<!-- <p id="poweredBy">Sponsored by</p> -->
+<p id="logo">
+<a href="sponsors.php?&amp;lg=US" target="_self"><img src="images/EN/big_top.png" alt="Sponsors"></a>	
+	
+</p>
+
+
+</div><!--footer-->
+     
+ </div><!--container-->
+
+
+
+
+
+</body></html>
