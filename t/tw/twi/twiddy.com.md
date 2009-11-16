@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twiddy.com privacy policy that was archived on 2009-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090516205150id_/http%3A//www.twiddy.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twiddy.com privacy policy that was archived on 2009-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091116084030id_/http%3A//www.twiddy.com/privacy.aspx) for the most accurate reproduction.*
 
 # Outer Banks Vacation Rentals &amp; Sales Privacy Policy for Twiddy.com
 
