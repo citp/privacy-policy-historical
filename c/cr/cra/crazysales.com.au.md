@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crazysales.com.au privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216032048id_/http%3A//www.crazysales.com.au/index.php%3Fshow_aux_page%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazysales.com.au privacy policy that was archived on 2009-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091116132118id_/http%3A//www.crazysales.com.au/index.php%3Fshow_aux_page%3D6) for the most accurate reproduction.*
 
-# Privacy Statement - Online Shopping with CrazySales.com.au Australia
+# CrazySales Privacy Statement - Bargain Shopping Online Australia
 
 Introduction
 
@@ -69,4 +69,4 @@ If you wish to gain access to your personal information, have a complaint about 
 
 Changes to This Privacy Statement
 
-We may amend this Privacy Statement as our business requirements or the law changes. Any changes to this Privacy Statement will be updated on [www.crazysales.com.au](http://www.crazysales.com.au/), so please visit this page periodically to ensure that you have our most current privacy statement. 
+We may amend this Privacy Statement as our business requirements or the law changes. Any changes to this Privacy Statement will be updated on [www.crazysales.com.au](http://www.crazysales.com.au/ "Bargain Shopping Online Australia"), so please visit this page periodically to ensure that you have our most current privacy statement. 
