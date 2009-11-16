@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the servicechannel.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616070907id_/http%3A//www.servicechannel.com/sc/login/legal.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the servicechannel.com privacy policy that was archived on 2009-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091116162707id_/http%3A//www.servicechannel.com/sc/login/legal.html) for the most accurate reproduction.*
 
 # ServiceChannel® Contact New York Long Island New York Offices
 
