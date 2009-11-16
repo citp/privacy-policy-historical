@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getus.in privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430191107id_/http%3A//getus.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getus.in privacy policy that was archived on 2009-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091116183759id_/http%3A//getus.in/privacy.php) for the most accurate reproduction.*
 
 # 
 
@@ -16,10 +16,10 @@ The service provided on this website allows access to external, third-party webs
 
 **Cookies**
 
-Our website stores a cookie on your computer, if allowed by your browser's privacy settings *. The cookie used by our service uniquely identifies you to the server and allows our website to remember your preferences.
+Our website stores a cookie on your computer, if allowed by your browser's privacy settings*. The cookie used by our service uniquely identifies you to the server and allows our website to remember your preferences.
 
 We may also use third-party advertising partners on our website. Advertisers may send you cookies or use web beacons. We have no control over cookies, web beacons or the information collected by our advertisers. Consult the third-party advertiser's privacy policy for more information on their practices.
 
-The service we provide may attempt to forward third-party cookies from the websites you choose to browse. We have no control over indirect cookies and you are advised to consult the privacy policy of the applicable third-party website. If you do not wish to receive any such indirect cookies, please disable the "Allow Cookies" option.
+The service we provide may attempt to forward third-party cookies from the websites you choose to browse. We have no control over indirect cookies and you are advised to consult the privacy policy of the applicable third-party website.
 
 * For more information on configuring your browser, see [AboutCookies.org](http://www.aboutcookies.org/Default.aspx?page=1) or the documentation for your browser. We are not responsible for the content of any third-party websites.
