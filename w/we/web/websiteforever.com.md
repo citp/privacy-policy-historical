@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the websiteforever.com privacy policy that was archived on 2007-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070429110227id_/http%3A//www.websiteforever.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websiteforever.com privacy policy that was archived on 2009-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091116064731id_/http%3A//www.websiteforever.com/global/privacy_policy.htm) for the most accurate reproduction.*
 
-# WebsiteForever
+# Website Builder
 
 This Privacy Statement governs the manner in which WebsiteForever ("WebsiteForever" or "we") collects, uses, maintains and discloses information collected from customers in connection with WebsiteForever web services including web hosting, secure certificates, E-Commerce Solutions, and other internet services. WebsiteForever reserves the right to change this Privacy Statement and its policies prospectively at any time, subject to applicable laws and regulations, by posting notice of such changes on its web sites.
 
@@ -62,5 +62,5 @@ How to Contact Us:
 Should questions concerning this privacy policy arise, please send us an email at [info@WebsiteForever.com](mailto:info@websiteforever.com). Please specify "Privacy Statement" in the subject line of the e-mail.
 
 WebsiteForever.com   
-Effective Date January 20, 2006  
+Effective Date January 20, 2009  
 
