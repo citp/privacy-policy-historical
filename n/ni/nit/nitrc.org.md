@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nitrc.org privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627203538id_/http%3A//nitrc.org/include/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nitrc.org privacy policy that was archived on 2009-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091116082547id_/http%3A//www.nitrc.org/include/privacy.php) for the most accurate reproduction.*
 
 # NITRC: Privacy
 
