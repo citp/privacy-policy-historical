@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smsweb.org privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220061912id_/http%3A//strategicmanagement.net/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smsweb.org privacy policy that was archived on 2009-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091116120444id_/http%3A//strategicmanagement.net/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Strategic Management Society (SMS)
 
