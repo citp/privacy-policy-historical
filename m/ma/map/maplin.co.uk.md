@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maplin.co.uk privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626081506id_/http%3A//www.maplin.co.uk/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maplin.co.uk privacy policy that was archived on 2009-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091116114421id_/http%3A//www.maplin.co.uk/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Maplin
 
