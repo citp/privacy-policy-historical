@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the n-able.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417120052id_/http%3A//n-able.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the n-able.com privacy policy that was archived on 2009-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091117010240id_/http%3A//www.n-able.com/privacy.aspx) for the most accurate reproduction.*
 
-# N-able Technologies - Privacy Policy of N-able.com
+# N-able Technologies Privacy Policy
 
-## What information do we collect online?
+## Privacy Policy of www.n-able.com
+
+### What information do we collect online?
 
   * **Web Site Usage:** We collect information automatically from visitors as they arrive at n-able.com. This information includes: IP addresses, Internet service providers, referring Web sites, Web browser and Operating System types, the pages accessed on the site and the time of each request. This information is used in the continued development and improvement of this site, and does not include any personal information.
   * **Personal Information:** N-able Technologies does not collect any personal information about you when you visit www.n-able.com, unless you provide this information voluntarily. Any personal information collected on this site, which may include your name, email, postal address or phone number, is done so specifically when it is required.
@@ -14,7 +16,7 @@
 
 * * *
 
-## How do we use this information?
+### How do we use this information?
 
 N-able Technologies does not sell or rent any customer or visitor information to other companies. We use the information we collect online in the following ways:
 
@@ -29,38 +31,30 @@ We may disclose your information when we believe it is necessary to do so in ord
 
 * * *
 
-## Opt Out of Communications
+### Opt Out of Communications
 
 At any time, you may choose to "opt out" of receiving communications from N-able, including marketing material, direct mail and product updates. To opt out of these communications, contact [webmaster@n-able.com](mailto:webmaster@n-able.com) or follow the unsubscribe instructions provided in the communication.
 
 * * *
 
-## Third Party Policies
+### Third Party Policies
 
 Sites that are accessible through www.n-able.com may be governed by their own privacy policies that differ from those expressed in this statement. The practices of these third parties are not governed by the policies of N-able Technologies. We encourage you to review and understand the policies of these organizations before providing any personal information.
 
 * * *
 
-## Use of Public Forums
+### Use of Public Forums
 
 Information provided in discussion forums, including the Partner Message Board, may be displayed publicly. N-able Technologies is not responsible for the use of this information by others who may view it.
 
 * * *
 
-## Changes to this Policy
+### Changes to this Policy
 
 N-able Technologies may occasionally modify or amend this policy. When we do, we will post the current policy on this page. Changes to this policy will not affect our use of previously provided information.
 
 * * *
 
-## Acceptance of this Policy
+### Acceptance of this Policy
 
 By using N-able Technologies' Web site, you signify your acceptance of this policy. If you do not agree with the terms and conditions contained in this policy, please do not use this Web site.
-
-* * *
-
-## Contact Us
-
-If you have any questions regarding this privacy statement, the practices of this site, or your relationship with N-able Technologies, please contact:
-
-E-mail: [webmaster@n-able.com](mailto:webmaster@n-able.com)
