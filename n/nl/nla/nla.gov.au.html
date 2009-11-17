@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nla.gov.au privacy policy that was archived on 2009-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090626220913id_/http%3A//www.nla.gov.au/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nla.gov.au privacy policy that was archived on 2009-11-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091117091443id_/http%3A//www.nla.gov.au/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/NLAweb 08 - 2col - navR.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -249,7 +249,8 @@ YAHOO.util.Event.onContentReady("main_nav", function () {
                             { text: "Awards &amp; grants", url: "/services/awards.html" },
                             { text: "Service charter", url: "/charter/" },
                             { text: "Directions", url: "/library/directions.html" },
-                            { text: "Staff papers", url: "/nla/staffpaper/" },            
+                            { text: "Staff papers", url: "/nla/staffpaper/" },    
+							{ text: "Our Publications", url: "/pub/" },           
 							{ text: "Annual report", url: "/policy/annual.html" },
 							{ text: "Year in review", url: "/pub/yearinreview/index.html" },
 							{ text: "Support us", url: "/supportus/" },
@@ -338,7 +339,7 @@ YAHOO.util.Event.onContentReady("main_nav", function () {
   <div id="ls">
     
     <div id="header" class="clearfix">
-      <h1><a href="/"><img src="/img/07_layout/h1_NLA_logo_stat.gif" alt="National Library Of Australia" width="243" height="98" border="0" id="nlalogo" title="National Library Of Australia"></a></h1>
+      <p><a href="/"><img src="/img/07_layout/h1_NLA_logo_stat.gif" alt="National Library Of Australia" width="243" height="98" border="0" id="nlalogo" title="National Library Of Australia"></a></p>
 <a name="top" id="top"></a>    </div>
     
     <div id="main_menu">
@@ -450,7 +451,7 @@ YAHOO.util.Event.onContentReady("main_nav", function () {
 <!--
 function checkWholeForm(theForm) {
   var why = "";
-  why += isEmpty(theForm.term.value);
+  why += isEmpty(theForm.queryKeywords.value);
   if (why != "") {
     alert(why);
     return false;
@@ -465,25 +466,18 @@ function isEmpty(strng) {
 }
 -->
 </script>
-
-<form action="/search.php" onsubmit="return checkWholeForm(this)">
-  <p><a href="http://catalogue.nla.gov.au" style="text-decoration:underline;">Catalogue</a> &amp; website<br>
-  <span>Search</span></p>
-  <p><label for="checkbox">Search Catalogue only</label>
-    <input type="checkbox" name="catalogue" value="true" id="checkbox"></p>
-  <table>
-    <tbody><tr>
-      <td><input name="term" type="text" style="width:160px;" id="term"></td>
-      <td><input type="image" name="Submit" src="/img/07_layout/search_go.gif" value="GO"></td>
-    </tr>
-  </tbody></table>
-
-</form>
-    </div>
+<script type="text/javascript" src="http://www.nla.gov.au/app/1search/static/js/search-logger.js"></script>
+<iframe id="linkbox" name="linkbox" style="display:none"></iframe>
+<form method="get" action="http://www.nla.gov.au/app/search/" onsubmit="return checkWholeForm(this)">
+  <label for="term">Search</label>
+  <span class="box"><input type="text" name="q" id="queryKeywords"></span>
+  <button class="btn" type="submit" title="Submit Search" name="Submit" id="Submit" onclick="javascript: logSearch(getElementById('queryKeywords')); submitform();">GO!</button>
+</form>    </div>
     
 	<div id="secondary_nav"><!-- InstanceBeginEditable name="secondarynav" -->
 	  <ul>
-        <li>Privacy statement
+      <li class="back2index"><a href="policy/online.html">Online</a></li>
+        <li><strong>Privacy statement</strong>
           <ul>
             <li><a href="#rec">Recording your visit </a></li>
             <li><a href="#em">Recording your e-mail address </a></li>
@@ -516,7 +510,7 @@ function isEmpty(strng) {
       <ul>
         <li> <a href="/about.html">About this site</a></li>
         <li><a href="/nlaSiteMap.html">Site map</a></li>
-        <li><a href="/search.html">Site search</a></li>
+        <li><a href="/app/search/">Site search</a></li>
         <li><a href="/nlaindex.html">Websites A-Z</a></li>
       </ul>
 </div>
