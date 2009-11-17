@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nla.gov.au privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626220913id_/http%3A//www.nla.gov.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nla.gov.au privacy policy that was archived on 2009-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091117091443id_/http%3A//www.nla.gov.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement | National Library of Australia
 
@@ -45,6 +45,6 @@ We will only publish personal information on this site if it has been collected 
 
 ## Feedback
 
-We welcome [feedback](https://web.archive.org/web/20090626220913id_/http%3A//www.nla.gov.au/contact/) from users of this web site in relation to the site's design and practices, and to this Privacy Statement.
+We welcome [feedback](https://web.archive.org/web/20091117091443id_/http%3A//www.nla.gov.au/contact/) from users of this web site in relation to the site's design and practices, and to this Privacy Statement.
 
 Back to the top 
