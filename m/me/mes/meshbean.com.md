@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the meshbean.com privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502093122id_/http%3A//66.48.81.190/jmbeans/index.php%3Foption%3Dcom_adsmanager%26page%3Dprivacypolic) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meshbean.com privacy policy that was archived on 2009-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091117160001id_/http%3A//www.meshbean.com/privacypolicy.php) for the most accurate reproduction.*
 
-# JMbeans
+# Earn Mbeans
 
 At MeshBean.com we recognize that privacy is important. This document outlines the types of personal information we receive and collect when you use the services. We hope this will help you make an informed decision about sharing personal information with us. This Privacy Policy, which is a binding part of MESHBEAN's Website Terms of Use, explains the type of information MESHBEAN collects through its website and the mBean Engine software and what MESHBEAN does with it.   
 Please read the following privacy policy carefully before downloading and using mBean Engine Service software or using the MESHBEAN website. If you download and use MESHBEAN's mBean Engine Service software or use the MESHBEAN website, you will be bound by the terms of the Agreement, including this Privacy Policy. This policy may change from time to time so you should check it frequently. 
