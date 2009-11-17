@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstbtob.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608064527id_/http%3A//www.firstbtob.com/first/page/detail/ids/25) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstbtob.com privacy policy that was archived on 2009-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091117091645id_/http%3A//www.firstbtob.com/b2b/aboutus/detail/ids/25) for the most accurate reproduction.*
 
 # Privacy Policy
 
