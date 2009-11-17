@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educationconnection.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621070601id_/http%3A//www.educationconnection.com/global/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationconnection.com privacy policy that was archived on 2009-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091117210745id_/http%3A//www.educationconnection.com/global/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # Education Connection: Privacy Policy
 
