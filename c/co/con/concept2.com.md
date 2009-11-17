@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the concept2.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220013340id_/http%3A//www.concept2.com/us/company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concept2.com privacy policy that was archived on 2009-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091117203533id_/http%3A//www.concept2.com/us/company/privacy.asp) for the most accurate reproduction.*
 
 # Concept2: Privacy Policy
 
@@ -14,7 +14,7 @@ We collect the e-mail addresses of those who communicate with us via e-mail, agg
 
 The information we collect is used to improve the content of our website and not shared with other organizations for commercial purposes.
 
-Concept2 uses WebSideStory HBX service and Google Analytics to provide aggregate user information to determine the popularity and usage patterns of our web pages. In order to gather this aggregate information, WebSideStory and Google Analytics cookies are set during each visit to any Concept2 online property. For more information on WebSideStory and their privacy policy, please visit <http://www.websidestory.com/privacy>, or for Google Analytics and their privacy policy, visit <http://www.google.com/privacy.html>.
+Concept2 uses Google Analytics to provide aggregate user information to determine the popularity and usage patterns of our web pages. In order to gather this aggregate information, Google Analytics cookies are set during each visit to any Concept2 online property. For more information on Google Analytics and their privacy policy, visit <http://www.google.com/privacy.html>.
 
 If you do not want to receive e-mail from us in the future, please let us know by sending email to us at the above address and telling us that you do not want to receive e-mail from our company.
 
