@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitsquad.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625234645id_/http%3A//www.hitsquad.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitsquad.com privacy policy that was archived on 2009-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091117110823id_/http%3A//www.hitsquad.com/privacy.shtml) for the most accurate reproduction.*
 
 # Hitsquad Privacy Policy
 
