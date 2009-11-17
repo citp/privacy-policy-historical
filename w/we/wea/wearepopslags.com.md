@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wearepopslags.com privacy policy that was archived on 2009-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090517110900id_/http%3A//www.wearepopslags.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wearepopslags.com privacy policy that was archived on 2009-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091117053521id_/http%3A//www.wearepopslags.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | We Are Pop Slags
 
@@ -33,5 +33,3 @@ This site contains links and references to other websites outside of our control
 The use of a website to collect and process personal information inevitably involves the transmission of data internationally. Please note that if you are based within the European Economic Area (”EEA”) the information you provide may be transferred outside of the EEA for the purposes of processing by us. By visiting our website you acknowledge this and agree to the transmission of data in this way. 
 
 If you do not agree with this Privacy Policy you should not submit your personal information on this website.
-
- 
