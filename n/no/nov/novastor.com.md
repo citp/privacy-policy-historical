@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the novastor.com privacy policy that was archived on 2009-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090313080602id_/http%3A//www.novastor.com/store/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novastor.com privacy policy that was archived on 2009-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091117111128id_/http%3A//www.novastor.com/store/privacy-statement.html) for the most accurate reproduction.*
 
 # NovaStor Privacy Statement - Committed to protecting your privacy
 
@@ -105,7 +105,7 @@ NovaStor is concerned about controlling unsolicited commercial email, or "spam."
 
 ### Enforcement of This Privacy Statement
 
-If you have questions regarding this statement, you should first contact us by using our [web form](http://www1.novastor.com/misc/contact/general-comments-form.html).
+If you have questions regarding this statement, you should first contact us by using our [web form](http://www.novastor.com/misc/contact/general-comments-form.html).
 
 ### Changes to This Privacy Statement
 
@@ -113,6 +113,6 @@ We will occasionally update this privacy statement to reflect changes in our ser
 
 ### Contacting Us
 
-NovaStor welcomes your comments regarding this privacy statement. If you have questions about this statement or believe that we have not adhered to it, please contact us by using our [web form](http://www1.novastor.com/misc/contact/general-comments-form.html). 
+NovaStor welcomes your comments regarding this privacy statement. If you have questions about this statement or believe that we have not adhered to it, please contact us by using our [web form](http://www.novastor.com/misc/contact/general-comments-form.html). 
 
-For further Information on NovaStor offices, please go to our [contact page](http://www1.novastor.com/misc/contact.html). 
+For further Information on NovaStor offices, please go to our [contact page](http://www.novastor.com/misc/contact.html). 
