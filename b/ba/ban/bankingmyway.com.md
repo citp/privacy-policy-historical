@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the bankingmyway.com privacy policy that was archived on 2009-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090405142157id_/http%3A//www.bankingmyway.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankingmyway.com privacy policy that was archived on 2009-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091117132010id_/http%3A//www.bankingmyway.com/privacy-policy) for the most accurate reproduction.*
 
-# Home | BankingMyWay.com
+# Privacy Policy | Get the best rates on mortgage, home equity loans, CD, money markets and checking accounts | BankingMyWay
+
+Privacy Policy 
 
 BankingMyWay.com, LLC ('BankingMyWay'), values the privacy of each user who accesses our website. We have adopted this Internet Privacy and Security Policy ('Policy') to disclose our data collection and disclosure policies and practices for this website and all related web pages (the 'Site').
 
-## Consent
+**Consent**
 
 By using the Site, you consent to this Policy. If you do not consent to this Policy, please refrain from use of the Site. All information gathered from the Site, including any information specifically relating to you, will be stored and processed in the United States. If you access the Site from a location other than the United States, your use of the Site constitutes consent to the transfer of your information to the United States.
 
-## Third Party Sites
+**Third Party Sites**
 
 The Site may contain links to other websites over which we have no control. BankingMyWay is not responsible for the privacy practices or policies of other websites and entities, even if another website is accessed or linked to or from the Site. We encourage you to review the privacy policies and terms and conditions of such websites so that you can understand how those entities collect, use, and share your information. This Policy applies only to the Site and information that BankingMyWay collects on this Site. The Policy does not apply to any information that BankingMyWay may collect by alternative means or media.
 
-## Collection and Use of Information
+**Collection and Use of Information**
 
 Personal Information. BankingMyWay collects personal information from users only on a voluntary basis. When purchasing goods and services from the Site, we ask each user to provide items such as the user's name, address, e-mail address, telephone number, facsimile number, and credit card information. Each purchaser will have a username and password associated with their personal information.
 
@@ -22,7 +24,7 @@ We will use telephone numbers only to contact you with information regarding pur
 
 Non-Personal & Anonymous Information. Regardless of whether you register with the Site, BankingMyWay collects non-personal and anonymous information from all our users to be used in an aggregate fashion. This information helps us to determine how we can create a better experience for our users. Accordingly, BankingMyWay collects system-related information (such as an IP address, browser type, operating system type, and pages accessed) to be used for system administration purposes, to help diagnose problems with our servers, to monitor traffic patterns, to determine which services are used most frequently, and to assess site usage.
 
-## Disclosure of Your Information
+**Disclosure of Your Information**
 
 BankingMyWay does not sell or rent your personal information to third parties; however, BankingMyWay may share your personal information with third parties as explained in this Policy and as further described in our Notice of Privacy Practices.
 
@@ -34,7 +36,7 @@ BankingMyWay may disclose your personal information to third parties when we bel
 
 BankingMyWay may disclose de-identified aggregate information to its clients, business partners, merchants, advertisers, potential advertisers, investors, potential buyers and other third parties if BankingMyWay deems such disclosure, in its own discretion, to have sound business reasons or justification.
 
-## Security of Your Information
+**Security of Your Information**
 
 BankingMyWay saves your personal information in a secure environment so that you can easily use our services upon return visits. BankingMyWay may retain information we gather about you indefinitely.
 
@@ -42,7 +44,7 @@ We employ encryption technology in an attempt to prevent personal information fr
 
 Your account profile is password protected. Only you and any person to whom you disclose your password can access and modify your profile. Accordingly, you have the responsibility to protect and maintain the confidentiality of your password.
 
-## Cookies 
+**Cookies**
 
 The Site uses cookies. A cookie is a small text file that is recorded on your hard drive by a web page server. It is not used to deliver viruses or other harmful programs to your computer. Rather, cookies enable BankingMyWay to recognize a user without requiring the user to repeatedly log in when using the Site or other BankingMyWay websites. Additionally, cookies allow BankingMyWay to monitor traffic patterns and site usage, which help make the Site more useful.
 
@@ -50,15 +52,15 @@ Please note that most browsers can be set to accept or decline cookies. You also
 
 Anonymous aggregate information collected on the Site may be used to provide advertisements of products or services that may interest you. When you click on any of these advertisements, a cookie may be placed on your computer by a third party. Use of this cookie would be subject to the third party's privacy policies; however, please note that these third parties and third party advertisers would not have access to BankingMyWay cookies placed on your computer. Children The Site is not intended for children. BankingMyWay does not knowingly or specifically collect personal information from users under 18 years of age or authorize such users to use the Site or BankingMyWay services. However, adults with custodial care of a minor may use the Site for entering a purchase order on behalf of the minor. If BankingMyWay becomes aware that it has collected personal information from a user under 18 years of age, it retains the right to take steps to delete such information from its database.
 
-## Policy Changes
+**Policy Changes**
 
 We reserve the right to change this Policy at any time and for any reason. In particular, BankingMyWay may modify this Policy from time-to-time to reflect changes in the way we collect, use or disclose information or to reflect changes in privacy laws, regulations and/or industry standards. We reserve the right to make the revised policy effective for information we already have about you as well as information received in the future. Accordingly, we encourage you to review this Policy from time to time in the future. Your continued use of the Site following changes to this Policy indicates your acceptance of those changes.
 
-## Applicable Law; User Terms
+**Applicable Law; User Terms**
 
 This Policy is governed by the laws of the State of Wisconsin, without regard to conflicts of law principles. This Policy is further incorporated into by reference and made an integral part of the BankingMyWay Terms and Conditions of Website Use (&quot;Terms&quot;) that you have accepted in accessing this Site. All disputes arising hereunder shall be resolved in accordance with the dispute resolution procedures set forth in the Terms.
 
-## Viewing Information; Changes
+**Viewing Information; Changes**
 
 You may view your personal information online through your individual account. You may change your personal information by editing your account online or by contacting us at [info@bankingmyway.com](mailto:info@bankingmyway.com)
 
