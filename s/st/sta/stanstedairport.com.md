@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stanstedairport.com privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614090858id_/http%3A//www.stanstedairport.com/portal/page/Stansted%255EGeneral%255EMisc%255EPrivacy%2Bpolicy/db949dcdcdb8d110VgnVCM10000036821c0a____/448c6a4c7f1b0010VgnVCM200000357e120a____) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stanstedairport.com privacy policy that was archived on 2009-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091117134534id_/http%3A//www.stanstedairport.com/portal/page/Stansted%255EGeneral%255EMisc%255EPrivacy%2Bpolicy/db949dcdcdb8d110VgnVCM10000036821c0a____/448c6a4c7f1b0010VgnVCM200000357e120a____) for the most accurate reproduction.*
 
 # BAA Stansted: Privacy policy
 
@@ -44,10 +44,10 @@ If you would like to update your information, modify your communication preferen
 
 Data Protection Manager  
 BAA Airports Limited  
-Heathrow Point West  
-234 Bath Road  
-Hayes  
-Middlesex UB3 5AP
+The Compass Centre  
+Nelson Road  
+London Heathrow Airport  
+Hounslow TW6 2GW
 
 6\. Links to third party websites  
 This Privacy policy applies solely to the Websites and does not apply to any third party websites you may access from the Websites.
