@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the virginmoney.com.au privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620124303id_/http%3A//virginmoney.com.au/money/privacy_and_security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginmoney.com.au privacy policy that was archived on 2009-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091118144534id_/http%3A//virginmoney.com.au/money/privacy-and-security) for the most accurate reproduction.*
 
-# Privacy and security
+# Privacy and security | Virgin Money
 
 ## Privacy
 
@@ -64,7 +64,7 @@ If you apply for any Virgin Money products and your application is declined, we 
 **Do you ever use my information for any other reason, or give my information to other companies?**   
 We don't give your personal information to any other companies for marketing purposes.
 
-We may sometimes need to share your information with other companies to deliver a service to you, including companies involved in our Mates Rates ™ rewards program.
+We may sometimes need to share your information with other companies to deliver a service to you.
 
 We also work with a range of service providers to help us run other aspects of our business efficiently. These include mail houses, IT consultants, and other financial services companies that we partner with to provide our products. While we share your information with them, these partners are not able to disclose it to others or use it for their own purposes.
 
