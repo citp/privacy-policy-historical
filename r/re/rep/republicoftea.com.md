@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the republicoftea.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416192113id_/http%3A//www.republicoftea.com/pages/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the republicoftea.com privacy policy that was archived on 2009-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091118073549id_/http%3A//www.republicoftea.com/pages/privacypolicy.asp) for the most accurate reproduction.*
 
 # The Republic of Tea - Privacy Policy
 
 The Republic of Tea has created this privacy statement in order to demonstrate our firm commitment to our Citizens' privacy. The following discloses our information gathering and dissemination practices for this web site.
 
-If you have questions after reading below, we invite you to [Query the Ministry](http://www.republicoftea.com/pages/questionsanswers.asp)
+If you have questions after reading below, we invite you to [contact us](mailto:CustomerSatisfaction@republicoftea.com). 
 
 What information does The Republic of Tea collect? 
 
@@ -34,7 +34,7 @@ The Republic of Tea provides a _your account_ feature on our website which allow
 
 How does The Republic of Tea use my e-mail address? 
 
-Your e-mail address is used to create and identify your account on The Republic of Tea. Your e-mail address is also used by The Republic of Tea to correspond with you about any orders that you may place or to notify you with the results of any contests you may have entered. We may also use your e-mail address to notify you about important functionality changes to the Web site, new The Republic of Tea services and special offers and promotions we think you'll find valuable. If you would rather not receive this information, or would like to opt-out of receiving e-mail of this kind, simply click on the "Unsubscribe" link that appears at the bottom of any email and follow the simple instructions to have your email address removed from the list of customers who receive notices of new functionality, services, special offers and promotions. 
+Your e-mail address is used to create and identify your account on The Republic of Tea. Your e-mail address is also used by The Republic of Tea to correspond with you about any orders that you may place or to notify you with the results of any contests you may have entered. With your permission, we may also use your e-mail address to notify you about important functionality changes to the Web site, new The Republic of Tea services and special offers and promotions we think you'll find valuable. If you would rather not receive this information, or would like to opt-out of receiving e-mail of this kind, simply click on the "Unsubscribe" link that appears at the bottom of any email and follow the simple instructions to have your email address removed from the list of customers who receive notices of new functionality, services, special offers and promotions. 
 
 Does The Republic of Tea use "cookies"? 
 
@@ -46,7 +46,7 @@ To browse without cookies, you can configure your browser to reject all cookies,
 
 How can you remove your name from our direct mail or email list? 
 
-To have your email address removed from our list of addresses that receive information about new products, service, sales and promotions, simply click on the "Unsubscribe" link that appears at the bottom of any email and follow the simple instructions. Alternately, if you have created an account with The Republic of Tea, you can also remove your email address from our list of addresses that receive information about new products, service, sales and promotions by clicking on the "my account" button that appears on most every page of our Web site, logging into your account, clicking on the "edit preferences" button, and making the appropriate change. 
+To have your email address removed from our list of addresses that receive information about new products, service, sales and promotions, simply click on the "Unsubscribe" link that appears at the bottom of any email and follow the simple instructions. Alternately, if you have created an account with The Republic of Tea, you can also remove your email address from our list of addresses that receive information about new products, service, sales and promotions by unchecking "Email Me" while placing your next order. 
 
 _PLEASE NOTE: It can take up to 8 days to process this request so you may get another email from us. Thank you in advance for your understanding._
 
@@ -54,13 +54,13 @@ How to Unsubscribe from The Republic of Tea's Direct Mail (Physical Mail) Progra
 
 1) Forward an email including your full name, physical mailing address and zip code   
     ie. John Doe   
-    42 W. 39 Street   
-    New York, NY 10018   
+    5 Hamilton Landing   
+    Novato, CA 94949   
 
 
 2) Include 'Catalogue Opt-out' as the subject line
 
-3) Send email to [customerservice@republicoftea.com](mailto:customerservice@republicoftea.com?subject=Catalogue%20Opt-out)
+3) Send email to [CustomerSatisfaction@republicoftea.com](mailto:CustomerSatisfaction@republicoftea.com?subject=Catalogue%20Opt-out)
 
 You may also request removal by phone by calling 1-800-298-4832.
 
