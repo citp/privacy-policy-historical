@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kait8.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621182107id_/http%3A//www.kait8.com/global/story.asp%3Fs%3D8774923) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kait8.com privacy policy that was archived on 2009-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091118025118id_/http%3A//www.kait8.com/global/story.asp%3Fs%3D8774923) for the most accurate reproduction.*
 
 # Privacy Policy - KAIT-Jonesboro, AR-News, weather, sports, classifieds-
 
@@ -67,5 +67,3 @@ We use third-party advertising companies to serve ads when you visit this Websit
 Questions regarding this Privacy Policy should be directed to us at _[](mailto:)[info@raycommedia.com](mailto:info@raycommedia.com)_.  Please include the URL of this Website in your email.
 
 _Effective date: January 13, 2009_
-
-[](http://www.addthis.com/bookmark.php)
