@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the acs.org.au privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221133028id_/http%3A//www.acs.org.au/index.cfm%3Faction%3Dshow%26conID%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acs.org.au privacy policy that was archived on 2009-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091118014048id_/https%3A//www.acs.org.au/index.cfm%3Faction%3Dshow%26conID%3Dprivacypolicy) for the most accurate reproduction.*
 
-# Australian Computer Society - Privacy Policy
+# ACS (Australian Computer Society) - Membership, Professionalism and Leadership for ICT Professionals and the ICT Community
+
+  | 
+
+* * *
 
 | **ACS Privacy Policy**  
 ---  
@@ -99,4 +103,6 @@ The ACS Privacy Officer:
 Mr Sam Burrell  
 General Manager  
 Ph:02 9299 3666  
-Email: sam.burrell@acs.org.au NO SPAM 
+Email: sam.burrell@acs.org.au NO SPAM   
+  
+ 
