@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggapedia.com privacy policy that was archived on 2009-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090519005557id_/http%3A//www.bloggapedia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggapedia.com privacy policy that was archived on 2009-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091118012937id_/http%3A//www.bloggapedia.com/privacy.php) for the most accurate reproduction.*
 
 # Bloggapedia Blog Directory - Privacy Policy
 
