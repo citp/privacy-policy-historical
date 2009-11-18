@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyarticlelibrary.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420054905id_/http%3A//www.moneyarticlelibrary.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyarticlelibrary.com privacy policy that was archived on 2009-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091118160245id_/http%3A//www.moneyarticlelibrary.com/privacy.php) for the most accurate reproduction.*
 
 # Money Article Library
 
