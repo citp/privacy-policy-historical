@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the driversed.com privacy policy that was archived on 2009-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090510081632id_/http%3A//driversed.com/about-us/privacy-statement.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the driversed.com privacy policy that was archived on 2009-11-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091118173156id_/http%3A//driversed.com/about-us/privacy-statement.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
     <title>
         
 Privacy Statement - DriversEd.com
@@ -28,18 +28,37 @@ Privacy Statement - DriversEd.com
     <script type="text/javascript" src="../javascripts/yui/container/container-min.js"></script>
     <script type="text/javascript" src="../javascripts/yui/menu/menu-min.js"></script>   
     <script type="text/javascript" src="../javascripts/yui/animation/animation-min.js"></script>
-    
-    
-    
-    <!-- DriversEd.com's JavaScript Library-->
-    
+           
+    <!-- DriversEd.com's JavaScript Library-->    
     <script type="text/javascript" src="../javascripts/deLibrary.js"></script>
-
+        
     
 	<script language="javascript" src="../javascripts/toolbar.js" type="text/javascript"></script>
 
 </head>
-<body class="yui-skin-sam">
+<body class="yui-skin-sam"><iframe id="_yuiResizeMonitor" title="Text Resize Monitor" style="position: absolute; visibility: visible; width: 2em; height: 2em; top: -29px; left: 0px; border-width: 0px;"></iframe>
+	
+	<!-- FaceBook Connect  JavaScript Library-->
+	
+	<script type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php"></script>
+		
+	<script type="text/javascript">
+    var fbc_api_key = '32b809dd5f10687f3a5ebbac012349dc';
+    var fbc_channel_path = '../xd_receiver.htm';     	
+	var fbc_UserConnectedEvent = new YAHOO.util.CustomEvent("fbc_UserConnectedEvent", this);
+	var fbc_UserNotConnectedEvent = new YAHOO.util.CustomEvent("fbc_UserNotConnectedEvent", this);
+	
+	function onFBConnected(){fbc_UserConnectedEvent.fire(); }
+	function onFBNotConnected(){fbc_UserNotConnectedEvent.fire(); }
+	
+	if(window.FB) {
+  		FB_RequireFeatures(["XFBML","Api","Connect"]);
+  		//FB.init(fbc_api_key,fbc_channel_path);
+		FB.init(fbc_api_key,fbc_channel_path,{ "ifUserConnected": onFBConnected, "ifUserNotConnected": onFBNotConnected });
+	}	
+	</script>
+    
+
     <table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
         <tbody><tr>
             <td height="90" align="center" valign="top" background="../images/bg/top-nav-bg.jpg">
@@ -52,14 +71,30 @@ Privacy Statement - DriversEd.com
     <td height="23" align="right" valign="middle"><table width="100%" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr>
         <td align="right"><div id="ctl00_pageHeaderCtrl_divLogin">
+<script type="text/javascript">        	
+    function facebook_button_onclick_head(){
+	    FB_RequireFeatures(["XFBML"], function() {
+    		FB.Facebook.init(fbc_api_key,fbc_channel_path,null);
+		    FB.Connect.requireSession(function() { document.location.href="/about-us/privacy-statement.aspx?Hparam=1"; });
+        });
+    }				
+</script>
+
 <table border="0" cellspacing="7" cellpadding="0" class="login" width="95%">
   
-  <tbody><tr>
-    <td align="right" valign="bottom" class="login"><a href="../myde/re_enter_drivers_ed.aspx">Log In</a><span class="10-points"> | </span><a href="../myde/enroll_driver_education.aspx" class="login">Create an Account</a></td>
+  <tbody><tr>   
+    <td class="login" align="right" valign="bottom"><a href="../myde/enroll_driver_education.aspx"><strong>Create an Account</strong></a><span class="10-points"> | </span><a href="../myde/re_enter_drivers_ed.aspx">
+	<img src="../images/driversed-login-nav-button.png" alt="Log in" align="texttop" style="border-style:none;">
+	</a>
+      
+      <span> | </span><a href="#" class="fb_header_tooltip" onclick="facebook_button_onclick_head(); return false;"><img src="../images/facebook-login-nav-button.png" alt="Connect" align="texttop" style="border-style:none;"><span>Facebook Connect lets you register at DriversEd.com using <br>
+      your Facebook account.  Don’t waste time memorizing multiple<br> 
+      log ins, just use your Facebook info to get started now!.<br>
+      &nbsp;</span></a>
+	  </td>    
   </tr>
   
-</tbody></table>
-</div></td>
+</tbody></table></div></td>
         <td width="26"></td>
       </tr>
     </tbody></table></td>
@@ -69,28 +104,49 @@ Privacy Statement - DriversEd.com
 
         <script type="text/javascript">
 
-            // Initialize and render the menu bar when it is available in the DOM
+            /*
+                 Initialize and render the MenuBar when its elements are ready 
+                 to be scripted.
+            */
 
             YAHOO.util.Event.onContentReady("mnbMain", function () {
 
-                // Animation object
+                var ua = YAHOO.env.ua,
+                    oAnim;  // Animation instance
 
-                var oAnim;
 
+                /*
+                     "beforeshow" event handler for each submenu of the MenuBar
+                     instance, used to setup certain style properties before
+                     the menu is animated.
+                */
 
-                // "beforeshow" event handler for each submenu of the menu bar
-
-                function onMenuBeforeShow(p_sType, p_sArgs) {
+                function onSubmenuBeforeShow(p_sType, p_sArgs) {
 
                     var oBody,
+                        oElement,
                         oShadow,
                         oUL;
                 
+
                     if (this.parent) {
 
-                        oShadow = this.element.lastChild;
+                        oElement = this.element;
 
+                        /*
+                             Get a reference to the Menu's shadow element and 
+                             set its "height" property to "0px" to syncronize 
+                             it with the height of the Menu instance.
+                        */
+
+                        oShadow = oElement.lastChild;
                         oShadow.style.height = "0px";
+
+                        
+                        /*
+                            Stop the Animation instance if it is currently 
+                            animating a Menu.
+                        */ 
                     
                         if (oAnim && oAnim.isAnimated()) {
                         
@@ -99,15 +155,79 @@ Privacy Statement - DriversEd.com
                         
                         }
 
+
+                        /*
+                            Set the body element's "overflow" property to 
+                            "hidden" to clip the display of its negatively 
+                            positioned <ul> element.
+                        */ 
+
                         oBody = this.body;
-                        oUL = oBody.getElementsByTagName("ul")[0];
+
+
+                        //  Check if the menu is a submenu of a submenu.
+
+                        if (this.parent && 
+                            !(this.parent instanceof YAHOO.widget.MenuBarItem)) {
+                        
+
+                            /*
+                                There is a bug in gecko-based browsers and Opera where 
+                                an element whose "position" property is set to 
+                                "absolute" and "overflow" property is set to 
+                                "hidden" will not render at the correct width when
+                                its offsetParent's "position" property is also 
+                                set to "absolute."  It is possible to work around 
+                                this bug by specifying a value for the width 
+                                property in addition to overflow.
+                            */
+
+                            if (ua.gecko || ua.opera) {
+                            
+                                oBody.style.width = oBody.clientWidth + "px";
+                            
+                            }
+                            
+                            
+                            /*
+                                Set a width on the submenu to prevent its 
+                                width from growing when the animation 
+                                is complete.
+                            */
+                            
+                            if (ua.ie == 7) {
+
+                                oElement.style.width = oElement.clientWidth + "px";
+
+                            }
+                        
+                        }
+
     
-                        YAHOO.util.Dom.setStyle(oBody, "overflow", "hidden");
-                        YAHOO.util.Dom.setStyle(oUL, "marginTop", ("-" + oUL.offsetHeight + "px"));
+                        oBody.style.overflow = "hidden";
+
+
+                        /*
+                            Set the <ul> element's "marginTop" property 
+                            to a negative value so that the Menu's height
+                            collapses.
+                        */ 
+
+                        oUL = oBody.getElementsByTagName("ul")[0];
+
+                        oUL.style.marginTop = ("-" + oUL.offsetHeight + "px");
                     
                     }
 
                 }
+
+
+                /*
+                    "tween" event handler for the Anim instance, used to 
+                    syncronize the size and position of the Menu instance's 
+                    shadow and iframe shim (if it exists) with its 
+                    changing height.
+                */
 
                 function onTween(p_sType, p_aArgs, p_oShadow) {
 
@@ -125,6 +245,13 @@ Privacy Statement - DriversEd.com
                 
                 }
 
+
+                /*
+                    "complete" event handler for the Anim instance, used to 
+                    remove style properties that were animated so that the 
+                    Menu instance can be displayed at its final height.
+                */
+
                 function onAnimationComplete(p_sType, p_aArgs, p_oShadow) {
 
                     var oBody = this.body,
@@ -136,21 +263,43 @@ Privacy Statement - DriversEd.com
                     
                     }
 
-                    YAHOO.util.Dom.setStyle(oUL, "marginTop", "auto");
-                    YAHOO.util.Dom.setStyle(oBody, "overflow", "visible");
+
+                    oUL.style.marginTop = "";
+                    oBody.style.overflow = "";
                     
-                    if (YAHOO.env.ua.ie) {
-                    
-                        YAHOO.util.Dom.setStyle(oBody, "zoom", "1");
+
+                    //  Check if the menu is a submenu of a submenu.
+
+                    if (this.parent && 
+                        !(this.parent instanceof YAHOO.widget.MenuBarItem)) {
+
+
+                        // Clear widths set by the "beforeshow" event handler
+
+                        if (ua.gecko || ua.opera) {
+                        
+                            oBody.style.width = "";
+                        
+                        }
+                        
+                        if (ua.ie == 7) {
+
+                            this.element.style.width = "";
+
+                        }
                     
                     }
                     
                 }
 
 
-                // "show" event handler for each submenu of the menu bar
+                /*
+                     "show" event handler for each submenu of the MenuBar 
+                     instance - used to kick off the animation of the 
+                     <ul> element.
+                */
 
-                function onMenuShow(p_sType, p_sArgs) {
+                function onSubmenuShow(p_sType, p_sArgs) {
 
                     var oElement,
                         oShadow,
@@ -162,9 +311,15 @@ Privacy Statement - DriversEd.com
                         oShadow = oElement.lastChild;
                         oUL = this.body.getElementsByTagName("ul")[0];
                     
+
+                        /*
+                             Animate the <ul> element's "marginTop" style 
+                             property to a value of 0.
+                        */
+
                         oAnim = new YAHOO.util.Anim(oUL, 
                             { marginTop: { to: 0 } },
-                            .25, YAHOO.util.Easing.easeOut);
+                            .5, YAHOO.util.Easing.easeOut);
 
 
                         oAnim.onStart.subscribe(function () {
@@ -178,19 +333,34 @@ Privacy Statement - DriversEd.com
 
     
                         /*
-                             Refire the event handler for the "iframe" 
-                             configuration property with each tween so that the  
-                             size and position of the iframe shim remain in sync 
-                             with the menu.
+                            Subscribe to the Anim instance's "tween" event for 
+                            IE to syncronize the size and position of a 
+                            submenu's shadow and iframe shim (if it exists)  
+                            with its changing height.
                         */
     
                         if (YAHOO.env.ua.ie) {
                             
                             oShadow.style.height = oElement.offsetHeight + "px";
 
+
+                            /*
+                                Subscribe to the Anim instance's "tween"
+                                event, passing a reference Menu's shadow 
+                                element and making the scope of the event 
+                                listener the Menu instance.
+                            */
+
                             oAnim.onTween.subscribe(onTween, oShadow, this);
     
                         }
+    
+
+                        /*
+                            Subscribe to the Anim instance's "complete" event,
+                            passing a reference Menu's shadow element and making 
+                            the scope of the event listener the Menu instance.
+                        */
     
                         oAnim.onComplete.subscribe(onAnimationComplete, oShadow, this);
                     
@@ -199,192 +369,242 @@ Privacy Statement - DriversEd.com
                 }
 
 
-                // Instantiate and render the menu bar
+                /*
+                     Instantiate a MenuBar:  The first argument passed to the 
+                     constructor is the id of the element in the page 
+                     representing the MenuBar; the second is an object literal 
+                     of configuration properties.
+                */
 
-                var oMenuBar = new YAHOO.widget.MenuBar("mnbMain", { autosubmenudisplay: true, hidedelay: 750, lazyload: true });
-                
-                oMenuBar.subscribe("beforeShow", onMenuBeforeShow);
-                oMenuBar.subscribe("show", onMenuShow);
+                var oMenuBar = new YAHOO.widget.MenuBar("mnbMain", { 
+                                                            autosubmenudisplay: true, 
+                                                            hidedelay: 750, 
+                                                            lazyload: true });
 
 
                 /*
-                     Call the "render" method with no arguments since the markup for 
-                     this menu already exists in the DOM.
+                     Subscribe to the "beforeShow" and "show" events for 
+                     each submenu of the MenuBar instance.
+                */
+                
+                oMenuBar.subscribe("beforeShow", onSubmenuBeforeShow);
+                oMenuBar.subscribe("show", onSubmenuShow);
+
+
+                /*
+                     Call the "render" method with no arguments since the 
+                     markup for this MenuBar already exists in the page.
                 */
 
-                oMenuBar.render();            
+                oMenuBar.render();          
             
             });
 
         </script>
+        
 
 
 
-<table width="100%" background="../images/menu/background.jpg" style="background-repeat:no-repeat" cellpadding="0" cellspacing="0" height="35px" class="yui-skin-sam">
-<tbody><tr>
-<td width="79%">
-<div id="mnbMain" class="yuimenubar">   
-        <div class="bd">   
-            <ul>               
-                <li class="yuimenubaritem" style="position:relative; left:7px;"><a class="yuimenubaritemlabel" href="../courses">Drivers Education</a>                
-                    <div id="mnDriversEd" class="yuimenu">
-                        <div class="bd" style="position:relative; top:2px; padding-top: 8px;">
-                            <ul>                                                    
-                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/drivers-ed">Teen Online Drivers Ed</a>
-      <div id="mnDriversEdForTeens" class="yuimenu">
-                                        <div class="bd" style="margin-left: 3px;">
-                                            <ul>
-                                                
-                                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/drivers-ed/Arizona-drivers-education.aspx">Arizona Drivers Ed</a></li>
-                                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/drivers-ed/California-drivers-education.aspx">California Drivers Ed</a></li>
-                                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/drivers-ed/Colorado-drivers-education.aspx">Colorado Drivers Ed</a></li>
-                                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/drivers-ed/Florida-drivers-education.aspx">Florida Drivers Ed</a></li>
-                                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/drivers-ed/Georgia-drivers-education.aspx">Georgia Drivers Ed</a></li>
-                                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/drivers-ed/Indiana-drivers-education.aspx">Indiana Drivers Ed</a></li>
-                                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/drivers-ed/Minnesota-drivers-education.aspx">Minnesota Drivers Ed</a></li>
-                                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/drivers-ed/Nebraska-drivers-education.aspx">Nebraska Drivers Ed</a></li>
-                                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/drivers-ed/Nevada-drivers-education.aspx">Nevada Drivers Ed</a></li>
-                                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/drivers-ed/Oklahoma-drivers-education.aspx">Oklahoma Drivers Ed</a></li>
-                                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../pausdrive/default.aspx">Pennsylvania Drivers Ed</a></li>
-                                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/drivers-ed/Texas-drivers-education.aspx">Texas Drivers Ed</a></li>
-                                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/drivers-ed/utah-drivers-education.aspx">Utah Drivers Ed</a></li>
-                                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/drivers-ed/Virginia-drivers-education.aspx">Virginia Drivers Ed</a></li>
-                                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/drivers-ed/more-states.aspx">More States</a></li>
-                                            </ul>
-                                      </div>
-                                  </div>                                
-                                </li>                                
-    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/driving-school">Teen In-Car Driving Lessons</a>
-                                    <div id="mnBehindTheWheel" class="yuimenu">
-                                        <div class="bd" style="margin-left: 3px;">
-                                            <ul>
-                                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/driving-school/california/">California<br>
-                                                </a></li>
-                                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/driving-school/CO_NDTI.aspx">Colorado</a></li>
-                                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/driving-school/NV_A1.aspx">Nevada</a></li>
-                                              <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/driving-school">Other States</a></li>
-                                            </ul>
-                                      </div>
-                                  </div>                                
-                                </li>                               
-                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/dmv-permit-test">DMV Practice Tests</a></li>
-                              <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/drivers-ed/adult-drivers-education.aspx">Adult Online Drivers Ed</a></li>
-                              <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/driving-school/adult-california/">Adult In-Car Driving Lessons</a></li>
-                              <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/drivers-ed/mature-drivers-education.aspx">Mature Online Drivers Ed (55 and older)</a></li>
-                              <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../fleet-training">Fleet Training</a></li>
-                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/foreign-visitors-drivers-ed/foreign-visitors-drivers-ed.aspx">Foreign Drivers in America </a></li>
-                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/dvds-books">DVDs and Books</a></li>
-                          </ul>    
-                            
-<ul>
-                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/drivers-education-course-demo.aspx">View a Course Demo</a></li>
-                          </ul>
-                      </div>
-                  </div>                
-              </li>
-                   
-                <li class="yuimenubaritem" style="position:relative; left:38px;"><a class="yuimenubaritemlabel" href="../courses/traffic-school">Traffic School</a>
-                    <div id="mnTrafficSchool" class="yuimenu">
-                        <div class="bd" style="position:relative; top:2px; padding-top: 10px;">
-                            <ul>                                                    
-                              <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/traffic-school/Arizona-traffic-school.aspx">AZ Defensive Driving</a></li>
-                                
-                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/traffic-school/California-traffic-school.aspx">CA Traffic School
-                                  </a>
-                                  <div id="mnCATrafficSchool" class="yuimenu">                                
-                                    <div class="bd" style="margin-left: 3px;">
-                                      <ul>
-                                        <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../trafficschool">Santa Clara County</a></li>
-                                          <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/traffic-school/California-traffic-school.aspx">Other Counties</a></li>                                            
-                                        </ul>
-                                        </div>
-                                  </div>
-                                </li>
-                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/traffic-school/Florida-traffic-school.aspx">FL Traffic School</a></li>
-                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/traffic-school/Idaho-traffic-school.aspx">ID Traffic Survival Workshop</a></li>
-                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/traffic-school/New-Jersey-traffic-school.aspx">NJ Traffic School</a></li>
-                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/traffic-school/Nevada-traffic-school.aspx">NV Ticket Dismissal</a></li>
-                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/traffic-school/Oregon-traffic-school.aspx">OR Traffic Survival Workshop</a></li>
-                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/traffic-school/Texas-traffic-school.aspx">TX Defensive Driving</a></li>
-                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/traffic-school/Virginia-traffic-school.aspx">VA Driver Improvement</a></li>
-                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/traffic-school/Washington-traffic-school.aspx">WA Traffic Survival Workshop</a></li>
-                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/traffic-school/more-states.aspx">More States</a></li>
-                            </ul>
-                            
-<ul>    
-                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/traffic-school/traffic-school-course-demo.aspx">View a Course Demo</a></li>                                                                
-                            </ul>
-                        </div>
-                  </div>                                
-              </li>   
-                
-                <li class="yuimenubaritem" style="position:relative; left:67px;"><a class="yuimenubaritemlabel" href="../about-us">About Us</a>
-                    <div id="mnWhyUs" class="yuimenu">
-                        <div class="bd" style="position:relative; top:2px; padding-top: 10px;">
-                            <ul>                                                    
-                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../about-us/top-10-reasons.aspx">See Why DriversEd.com</a></li>
-                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../about-us/company-info.aspx">Company Information</a></li>
-                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../about-us/howdoesitwork.aspx">How Does It Work?</a></li>
-                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../about-us/testimonials.aspx">Testimonials</a></li>
-                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../about-us/accreditations-memberships.aspx">Accreditations and Memberships</a></li>
-                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../about-us/security-provisions.aspx">Security Provisions</a></li>
-                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../about-us/in-the-media.aspx">In the Media</a></li>
-                          </ul>
-                      </div>
-                  </div>                                                
-              </li>                   
-                
-                <li class="yuimenubaritem" style="position:relative; left:94px;"><a class="yuimenubaritemlabel" href="../resources">Resources</a>
-                    <div id="mnResources" class="yuimenu">
-                        <div class="bd" style="position:relative; top:2px; padding-top: 10px;">
-                            <ul>                                                    
-                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../parentscorner">Parents' Corner</a></li>
-                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../associate-programs">Associate Programs</a></li>
-                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/driving-school">Driving Schools</a>                                </li>
-                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../dmv">DMV Central</a> </li>    
-                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../resources/auto-central">Auto Central</a></li>
-                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../resources/drivers-ed-news-articles">News and Articles</a></li>
-                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../resources/dictionary.aspx">Useful Driving Terms</a>                                </li>
-                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../teen-drivers-education/">Driving Information</a></li>
-                          </ul>
-                      </div>
-                  </div>                                                                
-              </li>                
-                
-                <li class="yuimenubaritem" style="position:relative; left:120px;"><a class="yuimenubaritemlabel" href="../community">Community</a>
-                    <div id="mnCommunity" class="yuimenu">
-                        <div class="bd" style="position:relative; top:2px; padding-top: 10px;">
-                            <ul>                                                    
-                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://mooch.driversed.com">"Don't be a Mooch"</a></li>                                
-                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../games">Game Zone</a></li>
-                                <!--<li class="yuimenuitem"><a class="yuimenuitemlabel" href="#">Student Forum</a></li>-->
-                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../awareness">"I am Not a Statistic"</a></li>
-                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../games/facebook-apps.aspx">Apps and Bots</a></li>
-                            </ul>
-                      </div>
-                    </div>
-              </li>               
-                
-                <li class="yuimenubaritem" style="position:relative; left:153px;"><a class="yuimenubaritemlabel" href="../support">Support</a>
-                    <div id="mnSupport" class="yuimenu">
-                        <div class="bd" style="position:relative; top:2px; padding-top: 10px;">
-                            <ul>                                                    
-                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../support/faqs.aspx">General Questions</a></li>
-                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../support/payment-help.aspx">Payment Information</a></li>
-                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../support/system-requirements.aspx">System Requirements</a></li>
-                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../support/course-requirements.aspx">Course Requirements</a></li>
-                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../support/contact-customer-support.aspx">Contact Customer Support</a>                                </li>                                
-                            </ul>
-                        </div>
-                    </div>
-              </li>                                             
-            </ul>               
-        </div>   
-</div>
-</td>
 
-<td width="21%" align="left">
+<div id="big" class="yui-skin-sam" style="background: url(../images/navbar/navbar_out.png) repeat-x; width: 800px; height:30px; position:relative; z-index:1000;border-left:1px solid #ccc; border-right:1px solid #ccc; ">
+	<div id="left" style="position: relative; float: left;">
+		<div id="mnbMain" class="yuimenubar yuimenubarnav yui-module yui-overlay visible" style="z-index: 2; position: static; display: block; visibility: visible;">
+        	<div class="bd">
+            	<ul class="first-of-type">
+      				
+                	<li class="yuimenubaritem first-of-type yuimenubaritem-hassubmenu" id="yui-gen0" groupindex="0" index="0"><a class="yuimenubaritemlabel yuimenubaritemlabel-hassubmenu" href="../courses?navtr=topnav">Drivers Ed</a>
+                    	<div id="mnDriversEd" class="yuimenu yui-module yui-overlay yui-overlay-hidden" style="z-index: 2; position: absolute; visibility: hidden;">
+                        	<div class="bd">
+                            	<ul>
+                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/drivers-ed?navtr=topnav">Teen Online Drivers Ed</a>
+                                    	<div id="mnDriversEdForTeens" class="yuimenu">
+                                       		<div class="bd">
+                                            	<ul>
+							<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/drivers-ed/Arizona-drivers-education.aspx?navtr=topnav">Arizona Drivers Ed</a></li>
+                                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/drivers-ed/California-drivers-education.aspx?navtr=topnav">California Drivers Ed</a></li>
+                                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/drivers-ed/Colorado-drivers-education.aspx?navtr=topnav">Colorado Drivers Ed</a></li>
+                                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/drivers-ed/Florida-drivers-education.aspx?navtr=topnav">Florida Drivers Ed</a></li>
+                                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/drivers-ed/Georgia-drivers-education.aspx?navtr=topnav">Georgia Drivers Ed</a></li>
+                                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/drivers-ed/Indiana-drivers-education.aspx?navtr=topnav">Indiana Drivers Ed</a></li>
+                                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/drivers-ed/Minnesota-drivers-education.aspx?navtr=topnav">Minnesota Drivers Ed</a></li>
+                                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/drivers-ed/Nebraska-drivers-education.aspx?navtr=topnav">Nebraska Drivers Ed</a></li>
+                                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/drivers-ed/Nevada-drivers-education.aspx?navtr=topnav">Nevada Drivers Ed</a></li>
+                                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/drivers-ed/Oklahoma-drivers-education.aspx?navtr=topnav">Oklahoma Drivers Ed</a></li>
+                                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../pausdrive/default.aspx?navtr=topnav">Pennsylvania Drivers Ed</a></li>
+                                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/drivers-ed/Texas-drivers-education.aspx?navtr=topnav">Texas Drivers Ed</a></li>
+                                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/drivers-ed/utah-drivers-education.aspx?navtr=topnav">Utah Drivers Ed</a></li>
+                                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/drivers-ed/Virginia-drivers-education.aspx?navtr=topnav">Virginia Drivers Ed</a></li>
+                                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/drivers-ed/more-states.aspx?navtr=topnav">More States</a></li>                                                                												</ul>            
+                                            </div>
+										</div>                    
+									</li>
+                                    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/driving-school?navtr=topnav">Teen In-Car Driving Lessons</a>
+                                    	<div id="mnBehindTheWheel" class="yuimenu">
+                                       		<div class="bd">
+                                            	<ul>
+                                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/driving-school/california/?navtr=topnav">California</a></li>
+                                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/driving-school/CO_NDTI.aspx?navtr=topnav">Colorado</a></li>
+                                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/driving-school/NV_A1.aspx?navtr=topnav">Nevada</a></li>
+                                             	 	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/driving-school?navtr=topnav">Other States</a></li>
+                                            	</ul>            
+                                            </div>
+										</div>
+                                    </li>
+                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/dmv-permit-test?navtr=topnav">DMV Practice Tests</a></li>
+                              		<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/adult-drivers-education_branch.aspx?navtr=topnav">Adult Drivers</a>
+                                      <div id="mnAdultOnlineCourses" class="yuimenu">
+                                       		<div class="bd">
+                                            	<ul>
+                                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/mature-drivers-ed/?navtr=topnav">Mature Drivers Course | CA 55+</a></li>
+                                                    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/adult-drivers-ed/?navtr=topnav">Adult Drivers Course | USA 18+</a></li>
+                                                </ul>
+                                            </div>
+                                    </div>
+                                    </li>
+                              		<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/driving-school/adult-california/?navtr=topnav">Adult In-Car Driving Lessons</a></li>
+                              		
+                              		<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../fleet-training?navtr=topnav">Fleet Training</a></li>
+                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/foreign-visitors-drivers-ed/foreign-visitors-drivers-ed.aspx?navtr=topnav">Foreign Drivers in America </a></li>
+                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/dvds-books?navtr=topnav">DVDs and Books</a></li>
+                                </ul>
+                                <ul>	
+                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/drivers-education-course-demo.aspx?navtr=topnav">View a Course Demo</a></li>
+								</ul>
+							</div>
+						</div>      
+					</li>
+					
+					<li class="yuimenubaritem first-of-type yuimenubaritem-hassubmenu" id="yui-gen1" groupindex="0" index="1"><a class="yuimenubaritemlabel yuimenubaritemlabel-hassubmenu" href="../courses/traffic-school?navtr=topnav">Traffic School</a>
+                    	<div id="mnTrafficSchool" class="yuimenu yui-module yui-overlay yui-overlay-hidden" style="z-index: 2; position: absolute; visibility: hidden;">
+                        	<div class="bd">
+                            	<ul>
+                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/traffic-school/Alaska-traffic-school.aspx?navtr=topnav">AK Traffic School</a></li>
+                              		<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/traffic-school/Arizona-traffic-school.aspx?navtr=topnav">AZ Defensive Driving</a></li>
+									<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/traffic-school/California-traffic-school.aspx?navtr=topnav">CA Traffic School</a>
+                                  		<div id="mnCATrafficSchool" class="yuimenu">                                
+                                    		<div class="bd">
+                                      			<ul>
+                                        			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../trafficschool?navtr=topnav">Santa Clara County</a></li>
+                                          			<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/traffic-school/California-traffic-school.aspx?navtr=topnav">Other Counties</a></li>                                            
+                                       			</ul>
+                                     		</div>
+                                  		</div>
+                                	</li> 
+                                    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/traffic-school/Colorado-traffic-school.aspx?navtr=topnav">CO Traffic School</a></li>
+                                    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/traffic-school/Delaware-traffic-school.aspx?navtr=topnav">DE Traffic School</a></li>
+                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/traffic-school/Florida-traffic-school.aspx?navtr=topnav">FL Traffic School</a></li>
+                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/traffic-school/Idaho-traffic-school.aspx?navtr=topnav">ID Traffic Survival Workshop</a></li>
+                                    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/traffic-school/Kansas-traffic-school.aspx?navtr=topnav">KS Defensive Driving</a></li>
+                                    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/traffic-school/Maine-traffic-school.aspx?navtr=topnav">ME Defensive Driving</a></li>
+                                    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/traffic-school/Missouri-traffic-school.aspx?navtr=topnav">MO Defensive Driving</a></li>
+                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/traffic-school/New-Jersey-traffic-school.aspx?navtr=topnav">NJ Traffic School</a></li>
+                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/traffic-school/Nevada-traffic-school.aspx?navtr=topnav">NV Ticket Dismissal</a></li>
+                                    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/traffic-school/New-Mexico-traffic-school.aspx?navtr=topnav">NM Traffic School</a></li>
+                                    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/traffic-school/New-York-traffic-school.aspx?navtr=topnav">NY Defensive Driving</a></li>    
+                                    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/traffic-school/North-Carolina-traffic-school.aspx?navtr=topnav">NC Defensive Driving</a></li>         
+                                     <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/traffic-school/North-Dakota-traffic-school.aspx?navtr=topnav">ND Traffic School</a></li>                            	
+                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/traffic-school/Texas-traffic-school.aspx?navtr=topnav">TX Defensive Driving</a></li>
+                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/traffic-school/Virginia-traffic-school.aspx?navtr=topnav">VA Driver Improvement</a></li>
+                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/traffic-school/Washington-traffic-school.aspx?navtr=topnav">WA Traffic Survival Workshop</a></li>
+                                	
+                                </ul>
+                                <ul>	
+                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/traffic-school/traffic-school-course-demo.aspx?navtr=topnav">View a Course Demo</a></li>                                                                
+								</ul>
+							</div>
+						</div>      
+					</li>
+                	<li class="yuimenubaritem first-of-type yuimenubaritem-hassubmenu" id="yui-gen2" groupindex="0" index="2"><a class="yuimenubaritemlabel yuimenubaritemlabel-hassubmenu" href="../about-us?navtr=topnav">About Us</a>
+                    	<div id="mnWhyUs" class="yuimenu yui-module yui-overlay yui-overlay-hidden" style="z-index: 2; position: absolute; visibility: hidden;">
+                        	<div class="bd">
+                            	<ul>
+                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../about-us/top-10-reasons.aspx?navtr=topnav">See Why DriversEd.com</a></li>
+                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../about-us/company-info.aspx?navtr=topnav">Company Information</a></li>
+                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../about-us/howdoesitwork.aspx?navtr=topnav">How Does It Work?</a></li>
+                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../about-us/testimonials.aspx?navtr=topnav">Testimonials</a></li>
+                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../about-us/accreditations-memberships.aspx?navtr=topnav">Accreditations and Memberships</a></li>
+                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../about-us/security-provisions.aspx?navtr=topnav">Security Provisions</a></li>
+                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../about-us/in-the-media.aspx?navtr=topnav">In the Media</a></li>
+                                </ul>
+							</div>
+						</div>      
+					</li>
+						
+                	<li class="yuimenubaritem first-of-type yuimenubaritem-hassubmenu" id="yui-gen3" groupindex="0" index="3"><a class="yuimenubaritemlabel yuimenubaritemlabel-hassubmenu" href="../resources?navtr=topnav">Resources</a>
+                    	<div id="mnResources" class="yuimenu yui-module yui-overlay yui-overlay-hidden" style="z-index: 2; position: absolute; visibility: hidden;">
+                        	<div class="bd">
+                            	<ul>
+                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../parentscorner?navtr=topnav">Parents' Corner</a></li>
+                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../associate-programs?navtr=topnav">Associate Programs</a></li>
+                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../courses/driving-school?navtr=topnav">Driving Schools</a></li>
+                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../dmv?navtr=topnav">DMV Central</a> </li>    
+                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../resources/auto-central?navtr=topnav">Auto Central</a></li>
+                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../resources/drivers-ed-news-articles?navtr=topnav">News and Articles</a></li>
+                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../resources/dictionary.aspx?navtr=topnav">Useful Driving Terms</a></li>
+                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../teen-drivers-education/?navtr=topnav">Driving Information</a></li>
+                                </ul>
+							</div>
+						</div>      
+					</li>
+					<li class="yuimenubaritem first-of-type yuimenubaritem-hassubmenu" id="yui-gen4" groupindex="0" index="4"><a class="yuimenubaritemlabel yuimenubaritemlabel-hassubmenu" href="../community?navtr=topnav">Community</a>
+                    	<div id="mnCommunity" class="yuimenu yui-module yui-overlay yui-overlay-hidden" style="z-index: 2; position: absolute; visibility: hidden;">
+                        	<div class="bd">
+                            	<ul>
+                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../games/?navtr=topnav">Game Zone</a>
+                                      <div id="mnGameZone" class="yuimenu">
+                                       		<div class="bd">
+                                            	<ul>
+                                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../games/drivers-ed-lottery-login.aspx?navtr=topnav">Drivers Ed Lottery</a></li>
+                                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../games/drivers-ed-game.aspx?navtr=topnav">Drivers Ed Game</a></li>
+                                                    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../games/dmv-game.aspx?navtr=topnav">DMV Game</a></li>
+                                                    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../games/games-quiz.aspx?navtr=topnav">Drivers Ed Quiz</a></li>
+                                                </ul>
+                                            </div>
+                                    </div>
+                                    </li>
+                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../games/apps-bots-default.aspx?navtr=topnav">Apps and Bots</a>
+                                      <div id="mnAppsBots" class="yuimenu">
+                                       		<div class="bd">
+                                            	<ul>
+                                                <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../games/drivers-ed-iphone-app.aspx?navtr=topnav">Drivers Ed iPhone App</a></li>
+                                                 <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../games/drivers-license-iphone-app.aspx?navtr=topnav">Drivers License iPhone App</a></li>
+                                                    <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../games/drivers-ed-road-race-app.aspx?navtr=topnav">Road Race on Facebook</a></li>
+                                                     <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../games/drivers-ed-aim-bot.aspx?navtr=topnav">Drivers Ed Aim Bot</a></li>
+                                                      <li class="yuimenuitem"><a class="yuimenuitemlabel" href="../games/drivers-ed-mooch-app.aspx?navtr=topnav">Mooch App on Facebook</a></li>
+                                                </ul>
+                                            </div>
+                                    </div>
+                                    </li>
+                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../awareness?navtr=topnav">"I am Not a Statistic"</a></li>
+                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="http://mooch.driversed.com?navtr=topnav">"Don't be a Mooch"</a></li>                                
+                                	<!--
+                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="#">Student Forum</a></li>-->
+                                </ul>
+							</div>
+						</div>      
+					</li>
+                	<li class="yuimenubaritem first-of-type yuimenubaritem-hassubmenu" id="yui-gen5" groupindex="0" index="5"><a class="yuimenubaritemlabel yuimenubaritemlabel-hassubmenu" href="../support?navtr=topnav">Support</a>
+                    	<div id="mnSupport" class="yuimenu yui-module yui-overlay yui-overlay-hidden" style="z-index: 2; position: absolute; visibility: hidden;">
+                        	<div class="bd">
+                            	<ul>
+                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../support/faqs.aspx?navtr=topnav">General Questions</a></li>
+                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../support/payment-help.aspx?navtr=topnav">Payment Information</a></li>
+                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../support/system-requirements.aspx?navtr=topnav">System Requirements</a></li>
+                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../support/course-requirements.aspx?navtr=topnav">Course Requirements</a></li>
+                                	<li class="yuimenuitem"><a class="yuimenuitemlabel" href="../support/contact-customer-support.aspx?navtr=topnav">Contact Customer Support</a></li>                                
+                                </ul>
+							</div>
+						</div>      
+					</li>
 
+					
+				</ul>            
+			</div>
+		</div>
+	</div>
+
+	<div id="right" style="position: relative; width:150px; height:30px; float: right; padding: 5px 0 0 0;">
+	
 
 <table border="0" align="left" cellpadding="0" cellspacing="0">
   <tbody><tr>
@@ -395,11 +615,46 @@ Privacy Statement - DriversEd.com
   </tr>
 </tbody></table>
 
+	</div>
+</div>
+
+
+
+
+<!--
+<table width="100%" cellpadding="0" cellspacing="0" height="35px" border="0" >
+<tr>
+<td width="79%" >
+<img src="../images/menu/menu-fake3.jpg" border="0" usemap="#FakeMenuMap" />
+<map name="FakeMenuMap" id="FakeMenuMap">
+<area shape="rect" coords="8,5,134,28" href="../courses/" />
+<area shape="rect" coords="150,3,254,29" href="../courses/traffic-school/" />
+<area shape="rect" coords="269,5,347,30" href="../about-us/" />
+<area shape="rect" coords="360,4,447,31" href="../resources/" />
+<area shape="rect" coords="458,4,557,29" href="../community/" />
+<area shape="rect" coords="566,4,644,31" href="../support/" />
+</map>
+</td>
+<td width="21%" align="left" background="../images/menu/menu-fake2.jpg" style="background-repeat:no-repeat">
+
+
+<table border="0" align="left" cellpadding="0" cellspacing="0">
+  <tr>
+    <form method="get" action="../search-results.aspx">
+    <td width="121" align="right" valign="middle" background="../images/navigation/search-bg.png"><input name="search" type="text" class="search-v2" id="HeaderSearch" style="font-size:10px" defaultValue="Search" value="Search" size="10" onfocus="FocusSearch(this)" onblur="LostFocusSearch(this)"
+    /></td>
+    <td width="18" align="left" valign="middle"><input type="image" name="image" ID="btnHeaderSearch" src="../images/navigation/search-v2.png" style="border-width:0px;" /></td>
+    </form>
+  </tr>
+</table>
 
 </td>
 </tr>
-</tbody></table> 
-</div></td>
+</table> 
+-->
+
+
+    </div></td>
   </tr>
   <tr>
     <td height="25" align="right" valign="middle"><table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -425,6 +680,7 @@ Privacy Statement - DriversEd.com
         <form name="aspnetForm" method="post" action="privacy-statement.aspx" id="aspnetForm"></form>
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwNjMzNzczNDAPZBYCZg9kFgICBQ9kFgICBQ9kFgICAQ8WAh4LXyFJdGVtQ291bnQCAWRk9M38zahIIhi95256sROcC/2ej6M=">
 
+        
             <tr>
                 <td align="center" valign="top">
                     <table width="972" height="100%" border="0" cellpadding="0" cellspacing="0">
@@ -1135,7 +1391,8 @@ _udn="driversed.com";
 urchinTracker();
 </script>
     
-	<script type="text/javascript" src="https://cetrk.com/pages/scripts/0008/9935.js"> </script>
+	<script type="text/javascript" src="https://s3.amazonaws.com/new.cetrk.com/pages/scripts/0008/9935.js"> </script>
+
 
 
 </body></html>
