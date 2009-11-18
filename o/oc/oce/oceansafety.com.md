@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the oceansafety.com privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504013638id_/http%3A//www.oceansafetydirect.com/index.php%3Fdowhat%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oceansafety.com privacy policy that was archived on 2009-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091118012406id_/http%3A//www.oceansafety.com/privacy-policy) for the most accurate reproduction.*
 
-# Ocean Safety Direct
+# Ocean Safety
 
 **OCEAN SAFETY LIMITED PRIVACY POLICY**
 
-**Information about our organisation and website** Ocean Safety (“OS”) respects your privacy and is committed to protecting it. We provide this Privacy Policy to inform you of our policy and practices and of the choices you can make about the way your information is collected online and how that information is used. OS is notified as a data controller with the UK Information Commissioner (registration number icn841) and details of OS's notification can be viewed on the website www.dataprotection.gov.uk. 
+ **Information about our organisation and website** Ocean Safety (“OS”) respects your privacy and is committed to protecting it. We provide this Privacy Policy to inform you of our policy and practices and of the choices you can make about the way your information is collected online and how that information is used. OS is notified as a data controller with the UK Information Commissioner (registration number icn841) and details of OS's notification can be viewed on the website www.dataprotection.gov.uk. 
 
 **Data automatically collected**
 
@@ -44,9 +44,9 @@ To enquire about accessing your personal information, or if you have any questio
 
 **Disclosure and Visitor choice**
 
-You may unsubscribe or opt-out of receiving communications from OS at any time by contacting OS on 023 8072 0800 or [info@oceansafety.com](mailto:info@oceansafety.com)
+You may unsubscribe or opt-out of receiving communications from OS at any time by contacting OS on      **        **   **  023 8072 0800** **       **  or [info@oceansafety.com](mailto:info@oceansafety.com)
 
-**Security**
+ **Security**
 
 We have implemented security policies, rules and technical measures to protect the personal information that we have under our control. The security measures are designed to prevent unauthorised access, improper use or disclosure, unauthorised modification and unlawful destruction or accidental loss. 
 
