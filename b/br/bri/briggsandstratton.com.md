@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the briggsandstratton.com privacy policy that was archived on 2009-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090514030519id_/http%3A//www.briggsandstratton.com/corp/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the briggsandstratton.com privacy policy that was archived on 2009-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091118064529id_/http%3A//www.briggsandstratton.com/corp/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Briggs & Stratton
 
