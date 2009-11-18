@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crn.com.au privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417043230id_/http%3A//crn.com.au/AboutUs/SiteInfo.aspx%3FInfoID%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crn.com.au privacy policy that was archived on 2009-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091118012158id_/http%3A//www.crn.com.au/Info/Default.aspx%3Fsi%3DPrivacy) for the most accurate reproduction.*
 
-# Privacy Policy Statement - CRN Australia
+# Privacy Policy - CRN Australia
 
 Haymarket Media Pty Limited is committed to protecting your privacy. This applies to all personally identifiable information we receive, such as your name, address and telephone number.
 
