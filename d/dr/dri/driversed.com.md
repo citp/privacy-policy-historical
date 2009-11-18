@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driversed.com privacy policy that was archived on 2009-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090510081632id_/http%3A//driversed.com/about-us/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driversed.com privacy policy that was archived on 2009-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091118173156id_/http%3A//driversed.com/about-us/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - DriversEd.com
 
@@ -180,9 +180,9 @@ For more information about Google Site Stats please visit: http://services.googl
   
 | 
 
-[Home](https://web.archive.org/web/20090510081632id_/http%3A//driversed.com/ "Drivers Ed Home") | [Contact Us](https://web.archive.org/web/20090510081632id_/http%3A//driversed.com/about-us/contact-us-company.aspx "Contact Drivers Ed") |  [Privacy](https://web.archive.org/web/20090510081632id_/http%3A//driversed.com/about-us/privacy-statement.aspx "Drivers Ed Privacy Statement") |  [Join Associates](https://web.archive.org/web/20090510081632id_/http%3A//driversed.com/associate-programs/default.aspx?nav=aclinkbotm "Become a DriversEd.com Associates") | [Site Map](https://web.archive.org/web/20090510081632id_/http%3A//driversed.com/site-map.aspx "Site Map for Drivers Ed") |  [Help](https://web.archive.org/web/20090510081632id_/http%3A//driversed.com/support/ "Drivers Ed Help")
+[Home](https://web.archive.org/web/20091118173156id_/http%3A//driversed.com/ "Drivers Ed Home") | [Contact Us](https://web.archive.org/web/20091118173156id_/http%3A//driversed.com/about-us/contact-us-company.aspx "Contact Drivers Ed") |  [Privacy](https://web.archive.org/web/20091118173156id_/http%3A//driversed.com/about-us/privacy-statement.aspx "Drivers Ed Privacy Statement") |  [Join Associates](https://web.archive.org/web/20091118173156id_/http%3A//driversed.com/associate-programs/default.aspx?nav=aclinkbotm "Become a DriversEd.com Associates") | [Site Map](https://web.archive.org/web/20091118173156id_/http%3A//driversed.com/site-map.aspx "Site Map for Drivers Ed") |  [Help](https://web.archive.org/web/20091118173156id_/http%3A//driversed.com/support/ "Drivers Ed Help")
 
-|  [Copyright © 2009 DriversEd.com. All rights reserved.](https://web.archive.org/web/20090510081632id_/http%3A//driversed.com/about-us/copyright-notice.aspx "Drivers Ed Copyright")  
+|  [Copyright © 2009 DriversEd.com. All rights reserved.](https://web.archive.org/web/20091118173156id_/http%3A//driversed.com/about-us/copyright-notice.aspx "Drivers Ed Copyright")  
 ---|---  
   
 24x7 Support (English & Español): **1-888-651-AUTO**
