@@ -1,8 +1,39 @@
-> *The following text is extracted and transformed from the ccl.org privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218145635id_/http%3A//www.ccl.org./leadership/utilities/privacy.aspx%3FpageId%3D1007) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccl.org privacy policy that was archived on 2009-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091118045351id_/http%3A//www.ccl.org/leadership/utilities/privacy.aspx) for the most accurate reproduction.*
 
-# Center for Creative Leadership - Privacy Commitment
+# Privacy Commitment - Center for Creative Leadership
 
-|  | 
+Search:
+
+[Overview](https://web.archive.org/leadership/about/index.aspx?pageId=10)
+
+[Newsroom](https://web.archive.org/leadership/news/index.aspx?pageId=652)
+
+[Global Capabilities](https://web.archive.org/leadership/capabilities/index.aspx?pageId=101)
+
+[CCL - Americas](https://web.archive.org/leadership/capabilities/northAmericaOverview.aspx?pageId=103)
+
+[CCL - Europe, Middle East, Africa](https://web.archive.org/leadership/capabilities/europe/index.aspx?pageId=137)
+
+[CCL - Russia & CIS](https://web.archive.org/leadership/capabilities/russia/index.aspx?pageId=2937)
+
+[CCL - Asia-Pacific](https://web.archive.org/leadership/capabilities/asia/index.aspx?pageId=108)
+
+[Client Successes](https://web.archive.org/leadership/about/testimonials.aspx?pageId=29)
+
+[Careers at CCL](https://web.archive.org/leadership/about/careers.aspx?pageId=4)
+
+### [CONNECT WITH CCL](https://web.archive.org/leadership/community/index.aspx)
+
+Change or Subscribe to our e-Newsletters  
+
+
+* * *
+
+[](http://www.facebook.com/pages/Center-for-Creative-Leadership/16501652102)
+
+[](http://www.linkedin.com/e/gis/133936/13C5D366A49C)
+
+| 
 
 The Center for Creative Leadership is committed to respecting and protecting the privacy of our constituents. CCL subscribes to the American Psychological Association's code of ethics regarding the use of an individual's personal data for research; this code is particularly concerned with protecting the rights of the person. In addition, our policies are guided by the U.S. Department of Commerce's "safe harbor" principles covering data privacy for residents of the European Union. In fact, we strive to extend these more stringent data privacy protections to all Center clients, wherever they reside.
 
@@ -33,7 +64,7 @@ People who we contact are provided with a means of informing CCL that they would
 **Choice/Opt-Out**  
 We provide constituents the opportunity to opt-out of receiving communications from us. The following are three options for removing information from our database to eliminate future communications or to discontinue service:
 
-  * E-mail [info@leaders.ccl.org](mailto:info@leaders.ccl.org)
+  * E-mail [info@ccl.org](mailto:info@ccl.org)
   * Mail to the following postal address:  
 **Center for Creative Leadership**  
 **PO Box 26300**  
@@ -96,40 +127,64 @@ The following discloses our information gathering and dissemination practices fo
 **Information Request Forms**  
 Our site's information request form requires users to provide us with contact information (such as name and email address). We use customer contact information from this form to send the user information about our company. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
 
+^ Top
+
 **Online Bookstore**  
 CCL® collects users' contact information (such as e-mail address) and financial information (such as account or credit card number). Contact information from the order form is used to send orders to our customers. Contact information is also used to get in touch with customers when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services.
+
+^ Top
 
 **Registration Request Form**  
 CCL® collects information necessary for registration in a program. This includes the user's contact information (such as mailing address) and financial information (such as credit card number). Contact information from the order form is used for all necessary contact related to program attendance. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services and is collected in a secure environment.
 
+^ Top
+
 **Online Surveys**  
 From time to time, we may post online surveys to ask visitors for opinions on leadership, our service, or their needs. This information will be used internally to provide better service to our clients. Any customer contact information we collect would only be used to contact the visitor if necessary. Demographic and profile data may also be collected as the need arises for internal reporting only.
+
+^ Top
 
 **Third Party Information**  
 Please do not send us any personal data about anyone else without their permission.
 
+^ Top
+
 **myCCL Member Profile Form**  
 For memberships in myCCL, the myCCL member site collects member contact information and preference responses to leadership challenges. This information is used to contact you and to provide you with information regarding publications, research, programs, and other information to address the member's noted challenges. In addition, myCCL acts as the user portal for post-registration data and online assessments for programs. Members of myCCL are requested to log in during an e-Commerce transaction. Any information collected during the transaction will be used to process your order. In addition, this information may be used internally to provide better service to myCCL members. If registering for a program, some information gathered while logged in to a myCCL account may be used for the purposes of the program. Members can update their profile at any time while logged into myCCL. Members can also choose to opt-out of receiving communications from us and our partners at the point where information is requested. In addition, users are provided with the option to remove their information from our database to eliminate all future communications or to discontinue service. See Choice/Opt-Out.
+
+^ Top
 
 **Security**  
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Our secure server encrypts all payment information you send us, including your name, address, credit card number and its expiration date. The encryption process takes all this personal information and converts it into code that is securely transmitted over the Internet.
 
+^ Top
+
 **IP Addresses**  
 IP addresses allow us to diagnose problems with our server, and to administer our Web site. This IP address is used to gather broad demographic information for internal use only.
+
+^ Top
 
 **Cookies**  
 Our online bookstore uses cookies to keep track of the user's shopping cart. We use cookies to save the user's password so that it doesn't have to be re-entered with each visit to our site.
 
+^ Top
+
 **Links**  
 This site contains links to other sites. **Center for Creative Leadership ®** is not responsible for the privacy practices or the content of such Web sites.
 
+^ Top
+
 **Public Forums**  
 This site makes chat rooms, forums, message boards, and/or news groups available to some of its users. Any information that is disclosed in these areas becomes public information and users should exercise caution when deciding to disclose personal information.
+
+^ Top
 
 **Choice/Opt-Out or Correct/Update**  
 Our site provides users the opportunity to opt-out of receiving communications from us and our partners **at the point where we request information about the user.** To remove your information from our database to eliminate future communications or to discontinue service, please see our contact information below.
 
 To remove your email address from our electronic newsletters, please visit the [Subscription Management page](https://web.archive.org/leadership/secure/profile/subscriptionForm.aspx?pageId=1199).
+
+^ Top
 
 **Contacting the Center for Creative Leadership**  
 If you have any questions about this privacy commitment, you may contact:
@@ -138,7 +193,7 @@ If you have any questions about this privacy commitment, you may contact:
 ---|---|---|---  
 **Phone** | +1 336 545 2810 | +32 (0) 2 679 09 10 | +65 6854 6000  
 **Facsimile** | +1 336 282 3284 | +32 (0) 2 673 63 06 | +65 6854 6001  
-**E-mail** | [info@leaders.ccl.org](mailto:info@leaders.ccl.org) | [ccl.europe@leaders.ccl.org](mailto:ccl.europe@leaders.ccl.org) | [cclasia@leaders.ccl.org](mailto:cclasia@leaders.ccl.org)  
+**E-mail** | [info@ccl.org](mailto:info@ccl.org) | [ccl.europe@ccl.org](mailto:ccl.europe@ccl.org) | [cclasia@ccl.org](mailto:cclasia@ccl.org)  
 **Mailing Address** | Center for Creative Leadership  
 Attn: Client Services  
 P.O. Box 26300  
