@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ph-creative.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626080926id_/http%3A//www.ph-creative.com/privacy-policy.phuse) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ph-creative.com privacy policy that was archived on 2009-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091118094626id_/http%3A//www.ph-creative.com/privacy-policy.phuse) for the most accurate reproduction.*
 
-# Ph.Creative, Privacy Policy, 0151 708 2280, Services, Email, Information, Personal Information
+# Ph.Creative, Privacy Policy, 0151 708 2280, Email, Services, Design, Information
 
 ##  Privacy Policy
 
-Ph.Creative takes your privacy seriously. Your personal information will not be sold or otherwise distributed to third parties without your consent. Ph.Creative is not a source of unsolicited email. 
+**Ph.Creative takes your privacy seriously. Your personal information will not be sold or otherwise distributed to third parties without your consent. Ph.Creative is not a source of unsolicited email.**
 
  
 
