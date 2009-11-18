@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zoskinhealth.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503063646id_/http%3A//www.zoskinhealth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoskinhealth.com privacy policy that was archived on 2009-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091118023404id_/http%3A//www.zoskinhealth.com/privacy) for the most accurate reproduction.*
 
-# ZO Skin Health | Privacy Policy
+# ZO Skin Health | Dr. Obagi Skincare | Privacy Policy
 
 When you provide us with information through zoskinhealth.com (the "Site"), we respect your privacy. It is important for you to understand what information we collect about you during your visit and what we do with that information. Your visit to the Site is subject to this Privacy Policy and our Terms and Conditions. Please note that this Privacy Policy governs only information provided to zoskinhealth.com and communications from zoskinhealth.com.
 
