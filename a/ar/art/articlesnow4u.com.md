@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlesnow4u.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501041637id_/http%3A//www.articlesnow4u.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesnow4u.com privacy policy that was archived on 2009-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091118053508id_/http%3A//www.articlesnow4u.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
