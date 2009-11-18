@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the goneclicking.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419214308id_/http%3A//www.goneclicking.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goneclicking.com privacy policy that was archived on 2009-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091118060517id_/http%3A//www.goneclicking.com/privacy.php) for the most accurate reproduction.*
 
-# Website Traffic, Traffic Exchange - Gone Clicking.com
+# Gone Clicking
 
 **Gone Clicking Privacy Policy**
 
