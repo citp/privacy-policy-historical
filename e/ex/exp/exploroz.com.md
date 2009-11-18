@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exploroz.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619212128id_/http%3A//www.exploroz.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exploroz.com privacy policy that was archived on 2009-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091118011642id_/http%3A//www.exploroz.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy @ ExplorOz
 
@@ -61,8 +61,7 @@ Cookies in and of themselves do not personally identify users, although they do 
 
 ##  6\. Using and disclosing your personal information
 
-ExplorOz will not use or disclose any information about you without your consent, or access your [communications](https://web.archive.org/OntheRoad/Communications/Default.aspx) on our websites, unless:   
-
+ExplorOz will not use or disclose any information about you without your consent, or access your [communications](https://web.archive.org/OntheRoad/Communications/Default.aspx) on our websites, unless: 
 
   * Required by law.
   
@@ -77,6 +76,8 @@ ExplorOz will not use or disclose any information about you without your consent
   
 
   * To lessen a serious threat to a person's health or safety. 
+
+
 
 We will not give any of your personal information to Advertisers or any other organisation without your express consent.   
 
@@ -114,17 +115,17 @@ If ExplorOz becomes aware of any ongoing concerns or problems with our Site, we 
 Our commitment to make ExplorOz [Australia](https://web.archive.org/States/Default.aspx)'s leading 4WD Web Site means that we are constantly adding new sites and features to the Site. Because of this, from time to time, our policies will be reviewed and may be revised. ExplorOz reserves the right to change its [privacy policy](https://web.archive.org/Privacy.asp) at any time and notify you by posting an updated version of the policy on its website.  
 
 
-[ ](https://web.archive.org/Search.aspx) [Search](https://web.archive.org/Search.aspx)  
-Enter a keyword to search through all site content or selected sections (tick box). You can sort the search output by date, or rank/match or match/rank. [[Feature Story]](https://web.archive.org/Search.aspx)
-
 [ ](https://web.archive.org/StatsPage.aspx) [ExplorOz Site Statistics](https://web.archive.org/StatsPage.aspx)  
-See this page for last month's detailed analysis of the traffic and audience using ExplorOz. Data is used from the webserver stats, and comparative competitor analysis is provided by Nielsen NetRatings/Market Intelligence and Hitwise Australia. 
-
-[ ](https://web.archive.org/SiteUpdates.aspx) [Site Updates](https://web.archive.org/SiteUpdates.aspx)  
-Browse the latest content and stay up-to-date using our automatic Site Updates page. At a glance you can see what's new or updated and click links to view the full page of change. Great for busy people, or true ExplorOz addicts! 
+See this page for last month's detailed analysis of the traffic and audience using ExplorOz. Data is used from the webserver stats, and comparative competitor analysis is provided by Nielsen NetRatings/Market Intelligence and Hitwise Australia. [[Feature Story]](https://web.archive.org/StatsPage.aspx)
 
 [ ](https://web.archive.org/TermsofUse.aspx) [Terms of Use](https://web.archive.org/TermsofUse.aspx)  
 Your access to the Site is conditional upon your acceptance and compliance with the terms, conditions, notices and disclaimers contained in this document and elsewhere on the Site (known collectively as "Terms of Use"). 
+
+[ ](https://web.archive.org/Search.aspx) [Search](https://web.archive.org/Search.aspx)  
+Enter a keyword to search through all site content or selected sections (tick box). You can sort the search output by date, or rank/match or match/rank. 
+
+[ ](https://web.archive.org/SiteUpdates.aspx) [Site Updates](https://web.archive.org/SiteUpdates.aspx)  
+Browse the latest content and stay up-to-date using our automatic Site Updates page. At a glance you can see what's new or updated and click links to view the full page of change. Great for busy people, or true ExplorOz addicts! 
 
 [ ](https://web.archive.org/Privacy.asp) [Privacy Policy](https://web.archive.org/Privacy.asp)  
 This statement sets out the ExplorOz policies relating to the collection and use of your personal information. It applies to your conduct on the ExplorOz web site (the "Site"). These policies are in addition to the ExplorOz general Terms of Use governing the Site and should be read in conjunction with such Terms of Use. 
