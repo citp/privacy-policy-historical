@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the the-numbers.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627113413id_/http%3A//www.the-numbers.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-numbers.com privacy policy that was archived on 2009-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091118034427id_/http%3A//www.the-numbers.com/legal/privacy.html) for the most accurate reproduction.*
 
 # 
 
 **_The Numbers Privacy Policy_**
 
-We at The Numbers are committed to protecting your online privacy.  This statement is a description of the policy that governs how we collect and use information on The Numbers site. If you have any questions, please contact us at 357 South Curson Avenue, #8K, Los Angeles, CA 90036. ****
+We at The Numbers are committed to protecting your online privacy. This statement is a description of the policy that governs how we collect and use information on The Numbers site. If you have any questions, please contact us at 8350 Wilshire Blvd, Suite 200, Beverly Hills, CA 90211.
 
 Please note that if you leave [www.the-numbers.com](http://www.the-numbers.com/) (including if you click on any of the banner ads), you will be traveling outside of The Numbers and your information will be subject to privacy policy of the site to which you have traveled.  Please also note that we may change this privacy policy from time to time—you should check it regularly for changes—but we will never sell or otherwise disclose your personally identifiable information to anyone else unless we are compelled to do so by law (see below). __
 
@@ -18,9 +18,7 @@ Our servers may record the numerical Internet protocol (IP) address of the compu
 
 are using, the operating system and browser you use, the date and time you access our 
 
-The Numbers site, and the Internet address of the web site from which you linked to The 
-
-Numbers. 
+The Numbers site, and the Internet address of the web site from which you linked to The Numbers.
 
 We use this information to diagnose system problems, to measure the number of visitors 
 
@@ -42,9 +40,13 @@ You may also choose to receive our monthly newsletter, _The Number Crunch_ , by 
 
 You may also send e-mail to The Numbers via the e-mail address on The Numbers web site. When you choose do this, we collect the address of the e-mail account that you sent the message from and any information that you choose to include in the message.  We will not share this information with third parties unless compelled by law.
 
+**_Information collected by third parties:_** ****
+
+We use third-party advertising companies to serve ads when you visit The Numbers. These companies may use information (not including your name, address email address, or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://www.networkadvertising.org/managing/opt_out.asp>. 
+
 **_Managing your information and “unsubscribing”:_**
 
-If you want to get information about you that may be in our records, or if you want us to remove any correct any information you have given us via the online forms, just let us know. Contact the site administrator at: [remove@the-numbers](mailto:remove@the-numbers).com.
+If you want to get information about you that may be in our records, or if you want us to remove any correct any information you have given us via the online forms, just let us know. Contact the site administrator at: [remove@the-numbers.com](mailto:remove@the-numbers.com).
 
 If you signed up to receive _The Number Crunch_ and you do not want to receive it __ anymore, just let us know by contacting us at [unsubscribe@the-numbers.com](mailto:unsubscribe@the-numbers.com) and we will remove you from the list.
 
