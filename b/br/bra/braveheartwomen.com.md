@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the braveheartwomen.com privacy policy that was archived on 2009-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090521031244id_/http%3A//www.braveheartwomen.com/customhtml.jspa%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the braveheartwomen.com privacy policy that was archived on 2009-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091120005818id_/http%3A//www.braveheartwomen.com/customhtml.jspa%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # privacy: BraveHeart Women
 
@@ -6,7 +6,7 @@
 
 **BRAVEHEART WOMEN GLOBAL COMMUNITY**
 
-This Privacy Policy was last updated on December 5, 2008
+This Privacy Policy was last updated on January 15, 2009
 
 At BraveHeart Women Global Community, we are committed to maintaining your privacy and your trust. This Privacy Policy explains how we collect, protect, use and share information about you when you use the BraveHeart Women Global Community website (the "Site"). We hope this information increases your confidence in BraveHeart Women Global Community and enhances your experience on our Site. This Privacy Policy is incorporated into and subject to the BraveHeart Women Global Community Terms of Use Agreement. Each time that you use the Site, you signify that you agree to be bound by the Terms of Use and this Privacy Policy. If you do not agree to the terms of this Privacy Policy, you must discontinue using the Service and terminate your membership.
 
