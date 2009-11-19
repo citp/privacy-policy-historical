@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thomasnet.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618165701id_/http%3A//www.thomasnet.com/privacy.html%3Fnavsec%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thomasnet.com privacy policy that was archived on 2009-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091119234513id_/http%3A//www.thomasnet.com/privacy.html%3Fnavsec%3Dfooter) for the most accurate reproduction.*
 
 # ThomasNet® - Privacy Policy
 
