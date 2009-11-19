@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the tgw.com privacy policy that was archived on 2009-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090514235153id_/http%3A//www.tgw.com/about/privacy-policy.jsp%3FCP%3DILC-SPIRA%26AD%3DPrivacyPolicy%26ICID%3DFOOTER%3APrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tgw.com privacy policy that was archived on 2009-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091119212933id_/http%3A//www.tgw.com/about/privacy-policy.jsp%3FCP%3DILC-SPIRA%26AD%3DPrivacyPolicy%26ICID%3DFOOTER%3APrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - TGW.com
 
 |    
 ---  
-Privacy Policy   
-This Privacy Statement describes the practices pertaining to the collection and handling of personal information from visitors to The Golf Warehouse. The statement does not pertain to the privacy practices for partnered sites, and we encourage those who visit external sites from links within The Golf Warehouse to read the privacy policy statements of those sites. If you have questions or concerns regarding this statement, you can contact us via the following: 
+Privacy Policy  
+This Privacy Statement describes the practices pertaining to the collection and handling of personal information from visitors to The Golf Warehouse™. The Golf Warehouse is part of the Redcats® USA, L.P. family of companies, which currently includes 13 different brands. The statement does not pertain to the privacy practices for other sites, and we encourage those who visit external sites from links within The Golf Warehouse to read the privacy policy statements of those sites. If you have questions or concerns regarding this statement, you can contact us via the following: 
 
   * Online: [Click here](mailto:customerservice@tgw.com) to contact The Golf Warehouse via email (customerservice@tgw.com)
   * Phone: 1-888-838-5551
@@ -26,12 +26,12 @@ In order to make you feel comfortable and secure in our online store, The Golf W
   * Visitor Options
   * Security
   * Children
-  * California Privacy Rights
   * Notification of Change
+  * [Terms of Use](https://web.archive.org/about/termsofuse.jsp)
 
   
 Information Collected  
-When you visit The Golf Warehouse, in order for us to provide you with the products or services that you have requested, you may be asked to provide us with personally identifiable information. For example, when you order a product, you will undergo a checkout process, during which you will be asked for your shipping and billing addresses, a daytime phone number, your e-mail address, and your credit card number or other payment-related information. When purchasing age-restricted products, you will also be asked for your date of birth. If you request one of our newsletters or send an inquiry to one of our customer service representatives, we will also store a record of your request along with your e-mail address. In addition, our Web servers track various technical details about your visit, such as your computer's IP address and which pages you visited, however that information does not typically contain any personally identifiable information about you. 
+When you visit The Golf Warehouse, in order for us to provide you with the products or services that you have requested, you may be asked to provide us with personally identifiable information. For example, when you order a product, you will undergo a checkout process, during which you will be asked for your shipping and billing addresses, a daytime phone number, your email address, and your credit card number or other payment-related information. When purchasing age-restricted products, you will also be asked for your date of birth. If you request one of our newsletters or send an inquiry to one of our customer service representatives, we will also store a record of your request along with your email address. In addition, our Web servers track various technical details about your visit, such as your computer's IP address and which pages you visited, however that information does not typically contain any personally identifiable information about you. 
 
 Back To Top  
   
@@ -41,9 +41,9 @@ The information we collect is used to provide the products and services that you
 Back To Top  
   
 Information Sharing  
-In order to operate this Web site and in order to provide you with the products and services you have requested, we occasionally need to share information with third parties. We may transmit your personal information to service providers who assist us in processing orders, shipping products to you, processing your payment information, sending you catalogs, conducting surveys, on and offline sweepstakes, sending you e-mails and newsletters, and helping us decide whether to extend credit to you. We have agreements with these service providers that they will protect your privacy in accordance with our standard Privacy Policy statement. Some of those organizations may have their own Privacy Statements that may give you additional protections, so you are encouraged to read those statements when presented to you. 
+In order to operate this Web site and in order to provide you with the products and services you have requested, we occasionally need to share information with third parties. We may transmit your personal information to service providers who assist us in processing orders, shipping products to you, processing your payment information, sending you catalogs, conducting surveys, on and offline sweepstakes, sending you emails and newsletters, and helping us decide whether to extend credit to you. We have agreements with these service providers that they will protect your privacy in accordance with our standard Privacy Policy statement. Some of those organizations may have their own Privacy Statements that may give you additional protections, so you are encouraged to read those statements when presented to you. 
 
-We use WebTrends, to help us gather and analyze information about our customers (anonymous traffic, and from time to time, individual user activity) on our website. WebTrends only role is to help us conduct our business and deliver the most relevant products and services. They are not permitted to use your personally identifiable information for any secondary purposes. 
+We use Omniture, to help us gather and analyze information about our customers (anonymous traffic, and from time to time, individual user activity) on our website. Omniture's only role is to help us conduct our business and deliver the most relevant products and services. They are not permitted to use your personally identifiable information for any secondary purposes. 
 
 Back To Top  
   
@@ -53,14 +53,14 @@ The Golf Warehouse may also use data to improve marketing and promotional effort
 Back To Top  
   
 Opting Out  
-The Golf Warehouse provides site visitors with the opportunity to opt-out of receiving our online communications. If you would like to opt-out of receiving email communications [click here](mailto:customerservice@tgw.com). Requests to unsubscribe from email are processed immediately, but you could continue to receive emails, which entered the system prior to processing your request, for up to two days. 
+The Golf Warehouse provides site visitors with the opportunity to opt-out of receiving our online communications. If you would like to opt-out of receiving email communications (other than emails related to a particular order for which you cannot opt out), [click here](mailto:customerservice@tgw.com). Requests to unsubscribe from email are processed immediately, but you could continue to receive emails, which entered the system prior to processing your request, for up to two days. 
 
 To discontinue the receipt of postal mail, please [click here](mailto:customerservice@tgw.com) to email Customer Service asking that your name be removed from our postal mailing list. Please note that you may continue to receive mailings, which entered the system prior to processing your request, for up to 12 weeks. Any mailings that you may receive during this time period do not reflect your subscription status, and we ask you to please disregard them. 
 
 Back To Top  
   
 Sweepstakes Referrals and Tell-A-Friend  
-If you elect to use the Tell-A-Friend service to inform a friend about a special product on the website or use the Sweepstakes Entry form to enter a referral, you will be asked for an acquaintance's name and email address. The Golf Warehouse will automatically send this person a one-time e-mail inviting them to either view the product, in the case of Tell-A-Friend, or register to sign-up for the sweepstakes, in the case of the Sweepstakes Entry. These emails may also contain links promoting other areas of our website. 
+If you elect to use the Tell-A-Friend service to inform a friend about a special product on the website or use the Sweepstakes Entry form to enter a referral, you will be asked for an acquaintance's name and email address. The Golf Warehouse will automatically send this person a one-time email inviting them to either view the product, in the case of Tell-A-Friend, or register to sign-up for the sweepstakes, in the case of the Sweepstakes Entry. These emails may also contain links promoting other areas of our website. 
 
 Back To Top  
   
@@ -77,11 +77,11 @@ The Golf Warehouse also uses cookies to perform functions that must be tied to a
 Back To Top  
   
 Visitor Options  
-If you do not want to receive e-mail from us in the future, please let us know by email, by calling, or by writing to us at the above postal address and telling us that you do not want to receive email from our company. 
+Other than receiving emails from us regarding your orders, if you do not want to receive email from us in the future, please let us know by email, by calling, or by writing to us at the above postal address and telling us that you do not want to receive email from our company. Click Here for our contact information.
 
-If you provide us with your e-mail address, you may receive messages about your order status, issues regarding the operations of this Web site, and messages from subsidiaries of The Golf Warehouse and other companies with operational relationships to The Golf Warehouse. You may modify your e-mail preferences by [clicking here](mailto:customerservice@tgw.com) or by calling 1-888-838-5551. 
+If you provide us with your email address, you may receive messages about your order status, issues regarding the operations of this Web site, and messages from subsidiaries of The Golf Warehouse and other companies with operational relationships to The Golf Warehouse. You may modify your email preferences by [clicking here](mailto:customerservice@tgw.com) or by calling 1-888-838-5551. 
 
-If you provide us with your postal address, you may receive periodic catalogs from us, or other notices containing information about new products and services. On occasion, we may make our postal mailing address lists available to subsidiaries and affiliated companies that are part of The Golf Warehouse family of companies. We may also make our postal mailing address lists available to other direct mail companies who we believe may have products and services of interest to our customers. However, we do not share e-mail addresses with any outside organizations for marketing purposes. If you do not wish to receive postal mailings from The Golf Warehouse, its subsidiaries, or third-party organizations, please let us know by sending an e-mail, calling, or writing to us at the above postal address. Please provide us with your exact name and postal address and state the lists from which you wish to be removed so that we can be sure your information is removed from future mailing lists. 
+If you provide us with your postal address, you may receive periodic catalogs from us, or other notices containing information about new products and services. On occasion, we may make our postal mailing address lists available to subsidiaries and affiliated companies that are part of The Golf Warehouse family of companies. We may also make our postal mailing address lists available to other direct mail companies who we believe may have products and services of interest to our customers. However, we do not share email addresses with any outside organizations for marketing purposes. If you do not wish to receive postal mailings from The Golf Warehouse, its subsidiaries, or third-party organizations, please let us know by sending an email, calling, or writing to us at the above postal address. Click Here for our contact information. Please provide us with your exact name and postal address and state the lists from which you wish to be removed so that we can be sure your information is removed from future mailing lists. 
 
 We will request your telephone number or facsimile (FAX) number, and if you provide it, you may receive telephone or FAX contact from us with information regarding your orders or requests for information. We do not share phone or FAX numbers with third parties for marketing purposes. 
 
@@ -96,7 +96,7 @@ Once you have completed your order online, our security procedures do not end. W
 
 If you are still unsure of giving your credit card over the Internet, please feel free to phone, fax, or mail your order to us. For telephone ordering or assistance, please call 1-888-838-5551. Our fax number for orders is 1-888-838-5557. Or, send your order to: The Golf Warehouse, 8851 East 34th Street North, Wichita, KS 67226 
 
-If you have any further question regarding your online security, please [click here](mailto:customerservice@tgw.com) to e-mail us or contact us by phone at 1-888-838-5551. 
+If you have any further question regarding your online security, please [click here](mailto:customerservice@tgw.com) to email us or contact us by phone at 1-888-838-5551. 
 
 Back To Top  
   
@@ -105,24 +105,9 @@ In accordance with federal law, we do not knowingly collect personally identifia
 
 Back To Top  
   
-California Privacy Rights  
-On January 1, 2005, bill SB27 outlining privacy practices of California businesses and the collection and appropriate use of personal information in direct marketing activities became law. 
-
-The Golf Warehouse respects and honors all visitor preferences for receiving communications both online and in the mail, as well as for participation in the list rental and exchange program. 
-
-To opt-out of receiving email communications, postal mail or from participating in the list rental and exchange program, or to request a disclosure of list rental and exchange information, please follow the directions below. Any request for personal information will be fulfilled within a reasonable time frame. 
-
-  * Email: [Click here](mailto:customerservice@tgw.com) to change your email preferences
-  * Postal Mail: [Click here](mailto:customerservice@tgw.com) to email Customer Service to change your postal mail preferences
-  * Disclosure Request: [Click here](mailto:customerservice@tgw.com) to email Customer Service to request disclosure of list rental and exchange practices
-
-
-
-Back To Top  
-  
 Notification of Change  
-The Golf Warehouse reserves the right to change this policy at any time. The Golf Warehouse privacy policy will be kept up-to-date and clearly posted on our web site. 
+The Golf Warehouse reserves the right to change this policy at any time. The Golf Warehouse privacy policy will be kept up-to-date and clearly posted on our web site. This privacy policy was last updated on October 20, 2009. 
 
-Questions?  E-mail us at: [**customerservice@tgw.com**](mailto:customerservice@tgw.com)
+Questions?  Email us at: [**customerservice@tgw.com**](mailto:customerservice@tgw.com)
 
 Back To Top
