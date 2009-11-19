@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficroundup.com privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428225438id_/http%3A//www.trafficroundup.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficroundup.com privacy policy that was archived on 2009-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091119095922id_/http%3A//www.trafficroundup.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Roundup Some Free Traffic to Your Website. Free Advertising with TrafficRoundup.com
 
