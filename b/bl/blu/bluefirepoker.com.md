@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluefirepoker.com privacy policy that was archived on 2009-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090520145041id_/http%3A//www.bluefirepoker.com/privacy.aspx%3FTB_iframe%3Dtrue%26height%3D400%26width%3D800%26modal%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluefirepoker.com privacy policy that was archived on 2009-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091119145359id_/http%3A//www.bluefirepoker.com/privacy.aspx%3FTB_iframe%3Dtrue%26height%3D400%26width%3D800%26modal%3Dtrue) for the most accurate reproduction.*
 
 # Bluefirepoker
 
