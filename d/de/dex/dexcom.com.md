@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dexcom.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620105833id_/http%3A//dexcom.com/930-dexcom-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dexcom.com privacy policy that was archived on 2009-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091119094630id_/http%3A//www.dexcom.com/930-dexcom-privacy-policy.aspx) for the most accurate reproduction.*
 
 # DexCom | Privacy Policy
 
@@ -14,7 +14,7 @@ This Privacy Policy explains the Site's processing and storage practices in the 
 
 ##  Privacy Practices Specific to Personal Health Information
 
-Please note that DexCom will handle any personal health information which you provide to it, through the Site or otherwise, in accordance the Health Insurance Portability and Accountability Act of 1996, a federal privacy law commonly referred to as "HIPAA" or the "HIPAA Privacy Rules." For more information on how DexCom handles your personal health information, please refer to our [ Notice of HIPAA Privacy Practices](https://web.archive.org/web/20090620105833id_/http%3A//dexcom.com/920-dexcom-notice-of-privacy-practices.aspx).
+Please note that DexCom will handle any personal health information which you provide to it, through the Site or otherwise, in accordance the Health Insurance Portability and Accountability Act of 1996, a federal privacy law commonly referred to as "HIPAA" or the "HIPAA Privacy Rules." For more information on how DexCom handles your personal health information, please refer to our [ Notice of HIPAA Privacy Practices](https://web.archive.org/web/20091119094630id_/http%3A//www.dexcom.com/920-dexcom-notice-of-privacy-practices.aspx).
 
 ##  What Information Do We Collect and When?
 
