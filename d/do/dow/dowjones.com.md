@@ -1,30 +1,22 @@
-> *The following text is extracted and transformed from the dowjones.com privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502164956id_/http%3A//www.dowjones.com/Site/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dowjones.com privacy policy that was archived on 2009-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091119032333id_/http%3A//www.dowjones.com/privacy-policy.asp) for the most accurate reproduction.*
 
-# dowjones.com Privacy Policy
+# Privacy Policy - Dow Jones
 
-  
-|      
----|---  
-  
-_This policy was last updated on October 1, 2004_
+**GENERAL**
 
-Privacy Policy
+Dow Jones & Company, Inc. and its affiliates (hereafter referred to collectively as "Dow Jones") are committed to maintaining the privacy of personal information that you provide to us when using [www.dowjones.com](http://www.dowjones.com/). This Privacy Policy describes how we treat personal information received about you when you visit [www.dowjones.com](http://www.dowjones.com/).
 
-General
+**LINKS TO OTHER WEB SITES**
 
-Dow Jones & Company, Inc. and its affiliates (hereafter referred to collectively as "Dow Jones") are committed to maintaining the privacy of personal information that you provide to us when using www.dowjones.com. This Privacy Policy describes how we treat personal information received about you when you visit www.dowjones.com.
+When you visit [www.dowjones.com](http://www.dowjones.com/), you are visiting our corporate website, which links to several of our other Web sites and the Web sites of unaffiliated companies. These other Web sites are not subject to this Privacy Policy. We recommend that you review the privacy policy at each such Web site to determine how that site protects your privacy.
 
-Links to Other Web Sites
+**INFORMATION WE COLLECT**
 
-When you visit www.dowjones.com, you are visiting our corporate website, which links to several of our other Web sites and the Web sites of unaffiliated companies. These other Web sites are not subject to this Privacy Policy. We recommend that you review the privacy policy at each such Web site to determine how that site protects your privacy.
-
-Information We Collect
-
-**General:** When you register for e-Mail News Alerts at www.dowjones.com, we will collect personally identifiable information from you that may include your name, age, address, e-mail address, credit-card number and facts about your computers, profession, investing habits and similar information. We do not, however, knowingly collect personal information from children under the age of thirteen.
+**General:** When you register for e-Mail News Alerts at [www.dowjones.com](http://www.dowjones.com/), we will collect personally identifiable information from you that may include your name, age, address, e-mail address, credit-card number and facts about your computers, profession, investing habits and similar information. We do not, however, knowingly collect personal information from children under the age of thirteen.
 
 **Web Site Usage Information:** We may automatically collect IP addresses and Web site usage information. This information helps us evaluate how our visitors use and navigate our Web site, including the number and frequency of visitors to each Web page, and the length of their visits.
 
-How We Use Information Collected
+**HOW WE USE INFORMATION COLLECTED**
 
 We may use information in the following ways:
 
@@ -35,31 +27,34 @@ We may use information in the following ways:
 
 
 
-We may combine the information that we collect from you on www.dowjones.com with information that you provide to us in connection with your use of our other products, services and Web sites. We may hire other companies to perform services on our behalf including, without limitation, facilitating some aspects of our services, sending e-mail, and fulfilling purchase requests. These other companies may be supplied with or have access to your personally identifiable information solely for the purpose of providing these services to us or on our behalf.
+We may combine the information that we collect from you on [www.dowjones.com](http://www.dowjones.com/) with information that you provide to us in connection with your use of our other products, services and Web sites. We may hire other companies to perform services on our behalf including, without limitation, facilitating some aspects of our services, sending e-mail, and fulfilling purchase requests. These other companies may be supplied with or have access to your personally identifiable information solely for the purpose of providing these services to us or on our behalf. 
 
-We may disclose and use personally identifiable information in special circumstances where it is necessary to enforce our rights (for example, when necessary to protect our intellectual property rights). We may also disclose or use your personal information when we, in good faith, believe that the law requires us to do so. 
+We may disclose and use personally identifiable information in special circumstances where it is necessary to enforce our rights (for example, when necessary to protect our intellectual property rights). We may also disclose or use your personal information when we, in good faith, believe that the law requires us to do so.
 
-Your Ability to Choose
+**YOUR ABILITY TO CHOOSE**
 
-You may elect to subscribe or unsubscribe to e-Mail News Alerts by [clicking here](https://web.archive.org/web/20090502164956id_/http%3A//www.dowjones.com/Site/Pressroom/EmailNewsAlerts.htm).
+You may elect to subscribe or unsubscribe to e-Mail News Alerts by clicking here.
 
-Cookies
+**COOKIES**
 
-We currently do not use cookies in the operation of www.dowjones.com.
+We currently do not use cookies in the operation of [www.dowjones.com](http://www.dowjones.com/).
 
-Security
+**SECURITY**
 
 The personally identifiable information we collect from you on this Web site is stored in limited-access servers. We will maintain safeguards to protect the security of these servers and your personally identifiable information.
 
-Policy Modifications
+**POLICY MODIFICATIONS**
 
 When we make any material change to this Privacy Policy, we will inform you by posting a notice on the main page of this site that the policy has been updated and by changing the date on this page noting when the policy was last updated.
 
-Transfer to U.S. or Other Countries
+**TRANSFER TO U.S. OR OTHER COUNTRIES**
 
 Your information may be stored and processed in the United States or any other country where Dow Jones has facilities, and by subscribing to our services, you consent to the transfer of information outside of your country.
 
-Comments and Questions
+**COMMENTS AND QUESTIONS**
 
 If you have any questions, comments or concerns about our Privacy Policy, you may contact us by  
-e-mail at [djcom@dowjones.com](mailto:djcom@dowjones.com).
+e-mail at [djcom@dowjones.com](mailto:%20djcom@dowjones.com).  
+
+
+[ Dow Jones Product Privacy Policy](http://djlogin.dowjones.com/privacypolicy/privacypolicy_en.html)
