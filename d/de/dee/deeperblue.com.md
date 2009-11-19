@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deeperblue.com privacy policy that was archived on 2009-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090516161741id_/http%3A//www.deeperblue.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deeperblue.com privacy policy that was archived on 2009-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091119023035id_/http%3A//www.deeperblue.com/about/privacy.php) for the most accurate reproduction.*
 
 # FreeDiving, Scuba Diving, Spearfishing & Technical Diving Articles and News - DeeperBlue.com
 
