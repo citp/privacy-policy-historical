@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transitions.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430052645id_/http%3A//en-us.transitions.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transitions.com privacy policy that was archived on 2009-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091119061252id_/http%3A//en-us.transitions.com/privacy.htm) for the most accurate reproduction.*
 
 # Transitions.com - Privacy
 
