@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goireland.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627112416id_/http%3A//www.goireland.com/about/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goireland.com privacy policy that was archived on 2009-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091119044837id_/http%3A//www.goireland.com/about/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - GoIreland.com
 
@@ -34,7 +34,7 @@ Further information on your data privacy rights are available on the website of 
 **BOOKING ACCOMMODATION**
 
 **Making a booking**   
-When making an accommodation booking on our website we collect your name, address, email address as well as your credit or debit card number and expiry date. We use this information to process your booking. We also ask for your telephone number so you can be contacted if any issue arises. When you book, your information is encrypted and passed through a secure server. We retain this information for 120 days after your booking, to deal with any queries you or the Accommodation Provider may have after your stay. 
+When making an accommodation booking on our website we collect your name, address, email address as well as your credit or debit card number and expiry date. We use this information to process your booking. We also ask for your telephone number so you can be contacted if any issue arises. When you book, your information is encrypted and passed through a secure server. We retain this information for 84 days after your booking, to deal with any queries you or the Accommodation Provider may have after your stay. 
 
 Your information, including your full credit card details where necessary, are also made available to the Accommodation Provider. We request that the Accommodation Provider keeps your details secure and private and does not hold onto your information for a period greater than 120 days from the date of the booking. However, we cannot be held responsible for any Accommodation Provider's misuse of personal information.
 
