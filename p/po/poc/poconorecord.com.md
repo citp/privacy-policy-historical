@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the poconorecord.com privacy policy that was archived on 2009-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090319023815id_/http%3A//www.poconorecord.com/apps/pbcs.dll/misc%3Furl%3D/static/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poconorecord.com privacy policy that was archived on 2009-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091119054324id_/http%3A//www.poconorecord.com/apps/pbcs.dll/misc%3Furl%3D/static/privacyPolicy.htm) for the most accurate reproduction.*
 
 # 
 
 ## Last updated 10/30/07
 
-Ottaway Newspapers, Inc., the parent company of Ottaway Newspaper Group, and its affiliates (collectively referred to as "Ottaway", "we", "us" or "our", as applicable) are committed to maintaining the privacy of personal information that you provide to us when using their respective Web sites (the "Pocono Record"). This Privacy Policy describes how we treat personal information received about you when you visit this Web site. 
+Dow Jones Local Media Group and its affiliates (collectively referred to as DJLMG", "we", "us" or "our", as applicable) are committed to maintaining the privacy of personal information that you provide to us when using their respective Web sites (the "Pocono Record"). This Privacy Policy describes how we treat personal information received about you when you visit this Web site. 
 
 ## Web site Usage Information
 
@@ -40,11 +40,11 @@ We use third party network advertisers to deliver ads to you on our behalf. We m
 
 We may disclose and use personally identifiable information in special circumstances where it is necessary to enforce our Terms of Use (for example, when necessary to protect our intellectual property rights) or when we, in our sole discretion, believe it is necessary or appropriate, in connection with a sale or transfer of some or all of our assets in this Web site. We may also disclose personally identifiable information when we, in good faith, believe that the law requires us to do so. As we develop our business, we might sell or buy businesses or assets. In transactions such as these, customer information is generally one of the transferred business assets. Moreover, in the unlikely event that we or one of our publishing lines are acquired, customer information may be one of the transferred assets.
 
-Except as otherwise set forth in this Privacy Policy, we will not share your personally identifiable information outside of Ottaway unless you "opt in" to having your personally identifiable information shared with a company that is not affiliated with us.
+Except as otherwise set forth in this Privacy Policy, we will not share your personally identifiable information outside of DJLMG unless you "opt in" to having your personally identifiable information shared with a company that is not affiliated with us.
 
 ## Your Ability to Choose
 
-You can always decide not to provide your personal information to this Web site, however in some cases failing to provide such information may limit your ability to use certain or features available at this Web site. You can let us know that you do not wish to receive information about special offers and new products and features by opting out at the time you give us your personally identifiable information or after opting in by contacting us at the following e-mail address: [alanghoff@ottaway.com](mailto:alanghoff@ottaway.com)
+You can always decide not to provide your personal information to this Web site, however in some cases failing to provide such information may limit your ability to use certain or features available at this Web site. You can let us know that you do not wish to receive information about special offers and new products and features by opting out at the time you give us your personally identifiable information or after opting in by contacting us at the following e-mail address: [sean.polay@dowjones.com](mailto:sean.polay@dowjones.com)
 
 ## Cookies
 
@@ -66,7 +66,7 @@ The personally identifiable information we collect about you is stored in limite
 
 ## Review and Correction
 
-You can also request to review, change or delete any of your personally identifiable information held by us by contacting us at the following e-mail address: [alanghoff@ottaway.com](mailto:alanghoff@ottaway.com)
+You can also request to review, change or delete any of your personally identifiable information held by us by contacting us at the following e-mail address: [sean.polay@dowjones.com](mailto:sean.polay@dowjones.com)
 
 ## Exclusions
 
@@ -78,4 +78,4 @@ We may change this Privacy Policy from time to time. We will post any changes he
 
 ## Comments and Questions
 
-If you have any questions, comments or concerns about our Privacy Policy, you may contact us by e-mail at [alanghoff@ottaway.com](mailto:alanghoff@ottaway.com) or by regular mail at: P.O. Box 401, Campbell Hall, NY 10916, Attn: Andrew Langhoff. 
+If you have any questions, comments or concerns about our Privacy Policy, you may contact us by e-mail at [sean.polay@dowjones.com](mailto:sean.polay@dowjones.com) or by regular mail at: P.O. Box 580, Middletown, NY 10940, Attn: Sean Polay. 
