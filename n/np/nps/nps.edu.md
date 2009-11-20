@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the nps.edu privacy policy that was archived on 2009-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090520150319id_/http%3A//www.nps.edu/Footer/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nps.edu privacy policy that was archived on 2009-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091120150417id_/http%3A//www.nps.edu/Footer/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Naval Postgraduate School - Privacy Policy
-
-EI Left Nav
 
   1. This is a World Wide Web site for official information and about the Naval Postgraduate School. It is provided as a public service by the Naval Postgraduate School. The purpose is to provide information and News about the Naval Postgraduate School to the general public.  
 
@@ -18,4 +16,4 @@ EI Left Nav
 
 This is an official U.S. Navy website.   
 All information contained herein has been approved for release by the [NPS Public Affairs Officer](mailto:PAO@nps.edu).   
-Page Last Updated: May 19, 2009 10:21:50 AM | Contact the [Webmaster](mailto:webmaster@nps.edu)
+Page Last Updated: Oct 26, 2009 4:10:28 PM | Contact the [Webmaster](mailto:webmaster@nps.edu)
