@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the membergate.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604015004id_/http%3A//www.membergate.com/public/department26.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the membergate.com privacy policy that was archived on 2009-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091120011253id_/http%3A//www.membergate.com/public/department26.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy Policy 
+Privacy Policy
 
 **Overview**
 
@@ -40,6 +40,6 @@ Our site gives users the opportunity to opt-in to receive communications from us
 
 **Other**
 
-If you have questions regarding our privacy policy, feel free to let us know, using our [Contact Page](https://web.archive.org/web/20090604015004id_/http%3A//www.membergate.com/public/7.cfm)
+If you have questions regarding our privacy policy, feel free to let us know, using our [Contact Page](https://web.archive.org/web/20091120011253id_/http%3A//www.membergate.com/public/7.cfm)
 
 Thanks
