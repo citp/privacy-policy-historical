@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the skoosh.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216051315id_/http%3A//www.skoosh.com/content/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the skoosh.com privacy policy that was archived on 2009-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091120164614id_/http%3A//www.skoosh.com/content/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Skoosh Privacy Policy</title>
@@ -9,24 +9,29 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <base href="http://www.skoosh.com/public/twibo/skins/skoosh.v2/">
 <link rel="shortcut icon" href="http://www.skoosh.com/public/twibo/skins/skoosh.v2/images/favicon.ico" type="image/x-icon">
-<link href="/public/twibo/skins/skoosh.v2/main.css?__m=1223064187" rel="stylesheet" type="text/css" media="all">
-<link href="/public/twibo/skins/skoosh.v2/jquery.impromptu.css?__m=1218725743" rel="stylesheet" type="text/css" media="all">
-<script type="text/javascript" src="/public/system/js/jquery/jquery.pack.js?__m=1213390724"></script>
-<script type="text/javascript" src="/public/system/js/jquery/jquery.scrollTo-min.js?__m=1221496592"></script>
-<script type="text/javascript" src="/public/system/js/jquery/jquery.impromptu.pack.js?__m=1206286613"></script>
-<script type="text/javascript" src="/public/system/js/jquery/jquery.corner.pack.js?__m=1218725743"></script>
-<script type="text/javascript" src="/public/twibo/common/twibo.core.js?__m=1227288029"></script>
-<script type="text/javascript" src="/public/twibo/common/Balloon.pack.js?__m=1221489068"></script>
+<link rel="image_src" href="http://www.skoosh.com/public/twibo/skins/skoosh.v2/images/logo.gif">
+<link href="/public/twibo/skins/skoosh.v2/main.css?__m=1245236824" rel="stylesheet" type="text/css" media="all">
+<link href="/public/twibo/skins/skoosh.v2/jquery.impromptu.css?__m=1238698889" rel="stylesheet" type="text/css" media="all">
+
+<script type="text/javascript">var __stuffedEHI=new Image();window.onerror=function(m,u,l){var a=encodeURIComponent;__stuffedEHI.src='/index.cgi?pkg=system&action=browser_error'+'&m='+a(m)+'&u='+a(u)+'&l='+a(l)+'&r='+a(document.referrer)+'&c='+a(window.location.href)+'&__='+Math.random(100);return false}</script>
+
+
+<script src="/public/system/merged/a2f7ba5bc76f6853d1a5649389f9ae53.js?__m=1254148008" type="text/javascript"></script>
 <script type="text/javascript">
+var __stuffed = {
+	topTemplate: 'content/privacy.html',
+	dateFormat: 'auto'
+};
+if (__stuffed.dateFormat == 'auto') __stuffed.dateFormat = 'euro';
 Balloon.beakImgAll = {
 	'/public/twibo/common/images/balloon_beak_l.gif': [36, 35],
 	'/public/twibo/common/images/balloon_beak_r.gif': [36, 35],
 	'/public/twibo/common/images/balloon_beak_t.gif': [35, 36]
 };
-var stuffedTopTemplate = 'content/privacy.html';
-$.SetImpromptuDefaults({
-	overlayspeed: 'fast', 
-	loaded: function() { $(this).corner("7px"); }
+$.prompt.setDefaults({
+	zIndex: 10000,
+	top: '35%',
+	overlayspeed: 'fast'
 });
 $.ajaxSetup({
 	cache: false,
@@ -38,7 +43,6 @@ $.ajaxSetup({
 <!--[if (gt IE 5)&(lt IE 7)]>
 <script type="text/javascript">
 Balloon.useIFrame = true;
-$.SetImpromptuDefaults({useiframe: true});
 </script>
 <![endif]--></head>
 <body> 
@@ -76,29 +80,6 @@ pageTracker._trackPageview();
 <div id="header"> 
   <div class="leftborder"></div> 
   <div class="rightborder"></div> 
-  <div class="sign_in_tabs_wrapper">
-		<div class="sign_in_tab">
-			<div class="right"></div>
-			<div class="content">
-<a href="https://secure.skoosh.com/s/twibo/my_trips.html?__site_id=7&amp;sid=#reviews" onclick="return openMyTab(this)"><b>my</b> reviews</a>
-			</div>
-			<div class="left"></div>
-		</div>
-		<div class="sign_in_tab">
-			<div class="right"></div>
-			<div class="content">
-<a href="https://secure.skoosh.com/s/twibo/my_trips.html?__site_id=7&amp;sid=#res" onclick="return openMyTab(this)"><b>my</b> reservations</a>
-			</div>
-			<div class="left"></div>
-		</div>
-		<div class="sign_in_tab">
-			<div class="right"></div>
-			<div class="content">
-<a href="https://secure.skoosh.com/s/twibo/my_trips.html?__site_id=7&amp;sid=#profile" onclick="return openMyTab(this)"><b>my</b> profile</a>
-			</div>
-			<div class="left"></div>
-		</div>
-  </div>
 <script type="text/javascript">
 function recoverPassword(oClicked) {
 	var jqForm = $(oClicked).parents("form:first");
@@ -117,7 +98,7 @@ function recoverPassword(oClicked) {
 	jqImgProgress.show();
 	jqForm.find("[recoverUpdate]").fadeOut("normal");
 	$.ajax({
-		url: '/s/twibo/my_recover.html?sub_action=email&__site_id=7&session=',
+		url: '/s/twibo/my_recover.html?sub_action=email&__site_id=7&sid=',
 		data: {email: email},
 		success: function (data, textStatus) {
 			jqImgProgress.hide()
@@ -144,25 +125,37 @@ function openMyTab(oLink) {
 	}
 	return true;
 }
-function showSignIn(oLink, fixedBelow, rToken) {
-	if (!oLink || oLink.balloon) return false;
-	Balloon.over(oLink, '<img src="/public/system/images/indicator.gif" width="16" height="16">', 300, {
-		position: (fixedBelow ? 'below' : null), 
+function showSignIn(o) {
+	if (!o) o = {
+		oLink: 		null,	
+		fixedBelow: null,	
+		rToken: 	null,	
+		register: 	null	
+	};
+	if (!o.oLink || o.oLink.balloon) return false;
+	Balloon.over(o.oLink, '<img src="/public/system/images/indicator.gif" width="16" height="16">', 300, {
+		position: (o.fixedBelow ? 'below' : null), 
 		shadow: true,
 		noAutoHide: true
 	});
 	$.get(
 		'/s/twibo/ajax_action.html', {
-			sub_action: 'sign_in_form',
-			r_token: rToken ? rToken : ''
+			sub_action: (o.register ? 'register_form' : 'sign_in_form'),
+			container_type: 'balloon',
+			r_token: o.rToken ? o.rToken : '',
+			sid: ''
 		},
 		function(data, textStatus) {
-			Balloon.over(oLink, data);
-			$(oLink.balloon).find('input[name=email]').focus().end().find("input[name=account_email]").keydown(function(event) {
-				if (event.keyCode != 13) return true;
-				var jqForm = $(this).parents("form").eq("0").attr({noSubmit: 1})
-				recoverPassword(jqForm.find("[submitRecover]").get(0));
-			}); 
+			Balloon.over(o.oLink, data);
+			if (o.register) {
+				$(o.oLink.balloon).find("input[name=first_name]").focus();
+			} else {
+				$(o.oLink.balloon).find('input[name=email]').focus().end().find("input[name=account_email]").keydown(function(event) {
+					if (event.keyCode != 13) return true;
+					var jqForm = $(this).parents("form").eq("0").attr({noSubmit: 1})
+					recoverPassword(jqForm.find("[submitRecover]").get(0));
+				}); 
+			}
 		}		
 	);
 }
@@ -185,7 +178,8 @@ function submitSignIn(oForm) {
 		email: email,
 		password: password,
 		r_token: oForm.r_token.value,
-		hour: now.getHours()
+		hour: now.getHours(),
+		sid: ''
 	};
 	if (oForm.remember_login.checked) data.remember_login = 1;
 
@@ -213,42 +207,87 @@ function submitSignOut(oLink) {
 	return true;
 }
 </script>
+  <div class="sign_in_tabs_wrapper">
+		<div class="sign_in_tab">
+			<div class="right"></div>
+			<div class="content">
+<a href="https://secure.skoosh.com/s/twibo/my_trips.html?__site_id=7&amp;sid=#reviews" rel="nofollow" onclick="return openMyTab(this)"><b>my</b> reviews</a>
+			</div>
+			<div class="left"></div>
+		</div>
+		<div class="sign_in_tab">
+			<div class="right"></div>
+			<div class="content">
+<a href="https://secure.skoosh.com/s/twibo/my_trips.html?__site_id=7&amp;sid=#res" rel="nofollow" onclick="return openMyTab(this)"><b>my</b> reservations</a>
+			</div>
+			<div class="left"></div>
+		</div>
+		<div class="sign_in_tab">
+			<div class="right"></div>
+			<div class="content">
+<a href="https://secure.skoosh.com/s/twibo/my_trips.html?__site_id=7&amp;sid=#profile" rel="nofollow" onclick="return openMyTab(this)"><b>my</b> profile</a>
+			</div>
+			<div class="left"></div>
+		</div>
+  </div>
   <div class="sign_in_content_wrapper" id="my_sign_in_wrapper">
   	<div class="sign_in_content" id="sign_in_welcome">
-<a href="javascript:;" onclick="showSignIn(this, true)" id="sign_in_link">Sign in</a>
+<a href="javascript:;" rel="nofollow" onclick="showSignIn({oLink: this, fixedBelow: true})" id="sign_in_link">Sign in</a>
 | Not yet a member?
-<a href="https://secure.skoosh.com/s/twibo/my_register.html?__site_id=7&amp;sid=">Register</a>
+<a href="https://secure.skoosh.com/s/twibo/my_register.html?__site_id=7&amp;sid=" rel="nofollow">Register</a>
   	</div>
   	<div class="sign_in_left"></div>
   </div>
 
+<div class="google_search">
+<form action="/s/twibo/search.html" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="010501411388270266521:2pxpofnokuq">
+    <input type="hidden" name="cof" value="FORID:9">
+    <input type="hidden" name="ie" value="UTF-8">
+    <input type="text" name="q" size="31">
+    <input type="submit" class="button" name="sa" value="Search">
+  </div>
+</form>
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+</div>
+
   <div id="logo"><a href="http://www.skoosh.com/"><img src="/public/twibo/skins/skoosh.v2/images/logo.gif" alt="Skoosh hotel reviews and booking" width="199" height="66" border="0"></a></div> 
-  <div id="menu"> 
-    <ul> 
+  <div id="menu">
+    <ul id="top_menu">
       <li>
-<a href="http://www.skoosh.com/"><img src="/public/twibo/skins/skoosh.v2/images/en/m_0.gif" alt="Home" width="78" height="32"></a>
+<a href="http://www.skoosh.com/">&nbsp; Home &nbsp;</a>
+			</li>
+      <li>
+<a href="http://www.skoosh.com/s/twibo/special_offers.html">&nbsp; Best Sellers &nbsp;</a>
+			</li>
+      <li> 
+<a href="http://www.skoosh.com/content/faq.html">&nbsp; FAQs &nbsp;</a>
+			</li>
+      <li>
+<a href="http://www.skoosh.com/s/twibo/contact_us.html">&nbsp; Contact Us &nbsp;</a>
 			</li> 
       <li>
-<a href="http://www.skoosh.com/s/twibo/special_offers.html"><img src="/public/twibo/skins/skoosh.v2/images/en/m_1.gif" alt="Best Sellers" width="100" height="32"></a>
-			</li> 
-      <li>
-<a href="http://www.skoosh.com/content/faq.html"><img src="/public/twibo/skins/skoosh.v2/images/en/m_2.gif" alt="FAQs" width="69" height="32"></a>
-			</li> 
-      <li>
-<a href="http://www.skoosh.com/s/twibo/contact_us.html"><img src="/public/twibo/skins/skoosh.v2/images/en/m_3.gif" alt="Contact Us" width="101" height="32"></a>
-			</li> 
-      <li>
-<a href="http://www.skoosh.com/content/about_us.html"><img src="/public/twibo/skins/skoosh.v2/images/en/m_4.gif" alt="About Us" width="88" height="32"></a>
+<a href="http://www.skoosh.com/content/about_us.html">&nbsp; About Us &nbsp;</a>
 			</li> 
 
       <li>
-<a href="http://www.skoosh.com/s/twibo/hotel_review.html?__f=sh"><img src="/public/twibo/skins/skoosh.v2/images/en/m_6.gif" alt="Add My Review" width="122" height="32"></a>
+<a href="http://www.skoosh.com/s/twibo/hotel_review.html?__f=sh">&nbsp; Add My Review &nbsp;</a>
 			</li> 
     </ul> 
   </div>
   <div id="lang">
+	
+	<a href="http://www.skoosh.de/content/privacy.html?sid=&amp;__no_ip_to_country=1"><img src="/public/twibo/skins/skoosh.v2/images/lang_de.gif" alt="DE" width="24" height="14" border="0" class="top"></a>
+	
+	<a href="http://www.skoosh.es/content/privacy.html?sid=&amp;__no_ip_to_country=1"><img src="/public/twibo/skins/skoosh.v2/images/lang_es.gif" alt="ES" width="24" height="14" border="0" class="top"></a>
+	
+	<a href="http://www.skoosh.be/content/privacy.html?sid=&amp;__no_ip_to_country=1"><img src="/public/twibo/skins/skoosh.v2/images/lang_fr.gif" alt="FR" width="24" height="14" border="0" class="top"></a>
+	
+	<a href="http://www.skoosh.it/content/privacy.html?sid=&amp;__no_ip_to_country=1"><img src="/public/twibo/skins/skoosh.v2/images/lang_it.gif" alt="IT" width="24" height="14" border="0" class="top"></a>
+	
 	</div>
-</div> 
+</div>  
 <div id="content">
 <div class="table">
 <table width="100%" border="0" cellspacing="2" cellpadding="0">
