@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the faucetdepot.com privacy policy that was archived on 2007-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070212184715id_/http%3A//www.faucetdepot.com/faucetdepot/privacy_policy.asp%3Flink%3D%7B6C43CFB9-8342-48BA-A4EE-49DE312040C7%7D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faucetdepot.com privacy policy that was archived on 2009-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091120111318id_/http%3A//www.faucetdepot.com/faucetdepot/privacy_policy.asp) for the most accurate reproduction.*
 
-# Faucet Depot: The Source for Fixtures and Faucets
+# Privacy Policy at Faucet Depot.com
 
 Privacy Policy
 
