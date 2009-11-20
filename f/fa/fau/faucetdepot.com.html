@@ -1,43 +1,41 @@
-<!--The following is the downloaded HTML source of the faucetdepot.com privacy policy that was archived on 2007-02-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070212184715id_/http%3A//www.faucetdepot.com/faucetdepot/privacy_policy.asp%3Flink%3D%7B6C43CFB9-8342-48BA-A4EE-49DE312040C7%7D) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the faucetdepot.com privacy policy that was archived on 2009-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091120111318id_/http%3A//www.faucetdepot.com/faucetdepot/privacy_policy.asp) for the most accurate reproduction.-->
 
 <html><head>
-<title>Faucet Depot: The Source for Fixtures and Faucets</title>
+<title>Privacy Policy at Faucet Depot.com</title>
+<meta name="DESCRIPTION" content="Privacy policy information at Faucet Depot">
+<meta name="KEYWORDS" content="privacy policy, faucet depot">
 	<link rel="stylesheet" type="text/css" href="stylesheet/FaucetDepot.css" title="Default">
 
-<meta name="DESCRIPTION" content="Faucet Depot: Your Online Source for Luxury Faucets and Fixtures">
-<meta name="KEYWORDS" content="Faucets, Fixtures, Kitchen Faucet, Bathroom Faucet, Kitchen Sink, Bathroom Sink, Lavatory, Pullout Faucet">
-<meta name="REVISIT-AFTER" content="30 days">
-
 <script language="JavaScript">
-<!-- 
+<!--
 function Clear_Textbox_Main()
 {
 	if (document.form.SearchString.value == "Model Number / Description")
 		document.form.SearchString.value = "";
-} 
+}
 function Clear_Textbox_Header()
 {
 	if (document.form0.SearchString.value == "Search Faucet Depot")
 		document.form0.SearchString.value = "";
-} 
+}
 function Clear_Search()
 {
 	document.form.SearchString.value = "Model Number / Description";
 	document.form.SearchManufacturers.options[0].selected = true;
 	document.form.SearchFaucetType.options[0].selected = true;
 	document.form.SearchHandleStyle.options[0].selected = true;
-	document.form.SearchFinish.options[0].selected = true;	
-} 
+	document.form.SearchFinish.options[0].selected = true;
+}
 function Clear_Textbox_Mfg()
 {
 	if (document.form21.SearchString.value == "Part # / SKU / Keywords")
 		document.form21.SearchString.value = "";
-} 
+}
 
 var newWindow
 var varPath
-     
+
 function makeNewWindow(vwPage){
 
        if (vwPage == "fedextracking"){
@@ -62,35 +60,73 @@ function closeNewWindow(){
 	function hideStat(){
              window.status="";
 	}
+//Session Timeout Killer if browser is inactive for 19 minutes on customer screen
+//enter refresh time in "minutes:seconds" Minutes should range from 0 to inifinity. Seconds should range from 0 to 59
+var limit="19:01"
+
+if (document.images)
+{
+	var parselimit=limit.split(":")
+	parselimit=parselimit[0]*60+parselimit[1]*1
+}
+
+function beginrefresh()
+{
+	if (!document.images)
+	return
+
+	if (parselimit==1)
+		window.location.replace('/faucetdepot/sessiontimeout.asp?pagename=/faucetdepot/privacy_policy.asp&querystring=')
+
+	else
+	{
+		parselimit-=1
+		curmin=Math.floor(parselimit/60)
+		cursec=parselimit%60
+
+		if (curmin!=0)
+			curtime=curmin+" minutes and "+cursec+" seconds left until page refresh!"
+		else
+			curtime=cursec+" seconds left until page refresh!"
+			window.status=curtime
+			setTimeout("beginrefresh()",1000)
+	}
+}
+
+window.onload=beginrefresh
 -->
 </script>
 
 
-</head>
+<script type="text/javascript" charset="iso-8859-1" src="http://server.iad.liveperson.net/hcp/html/mTag.js?site=LPfaucetdepot"></script></head>
 
 <body bottommargin="0" leftmargin="0" rightmargin="0" topmargin="0" bgcolor="#FFFFFF">
 
 <!-- Begin Page Layout Table -->
-<table width="780" height="100%" align="center" cellpadding="0" cellspacing="0">
+<table width="860" height="100%" align="center" cellpadding="0" cellspacing="0">
+<tbody><tr><td valign="top">
+
+<!-- Begin Header Table -->
+<table width="860" height="100%" align="center" cellpadding="0" cellspacing="0">
 <tbody><tr><td valign="top">
 
 <!-- Begin Header Table -->
 <table width="100%" height="70" cellspacing="0" cellpadding="0" border="0">
 <tbody><tr>
-    <td rowspan="2" width="228"><a href="main.asp?link={33AFD602-4BEC-47EA-9ED2-DF7D9BD0715C}"><img src="images/logo.gif" width="222" height="64" alt="Faucet Depot Logo" border="0"></a></td>
-    <td class="header" valign="middle" align="center"><a class="header" href="shoppingcart.asp?link={33AFD602-4BEC-47EA-9ED2-DF7D9BD0715C}">View Cart</a>   |   <a class="header" href="https://www.faucetdepot3.com/my_account1/my_account_login.asp?link={33AFD602-4BEC-47EA-9ED2-DF7D9BD0715C}">My Account</a>   |   <a href="https://www.faucetdepot3.com/my_account1/my_account_login.asp?link={33AFD602-4BEC-47EA-9ED2-DF7D9BD0715C}&amp;destination=orderstatus" class="header">Order Status</a>   |   <a class="header" href="customercare.asp?link={33AFD602-4BEC-47EA-9ED2-DF7D9BD0715C}">Customer Care</a>   |   Toll Free: 888.328.2389</td>
+    <td rowspan="2" width="228"><a href="/faucetdepot/main.asp"><img src="/faucetdepot/images/logo.gif" width="222" height="64" alt="Faucet Depot Logo" border="0"></a></td>
+    <td class="header" valign="middle" align="center"><a class="header" href="/faucetdepot/shoppingcart.asp">View Cart</a>   |   <a class="header" href="https://www.faucetdepot3.com/my_account1/my_account_login.asp?link={4AFBF4C4-B5F2-4DE6-8B75-B40FB8D6FDA7}">My Account</a>   |   <a href="https://www.faucetdepot3.com/my_account1/my_account_login.asp?link={4AFBF4C4-B5F2-4DE6-8B75-B40FB8D6FDA7}&amp;destination=orderstatus" class="header">Order Status</a>   |   <a class="header" href="/faucetdepot/customercare.asp">Customer Care</a>   |   <a class="header" href="/buyers-guide/">Buyer's Guide</a>   |   Toll Free: 888.328.2389</td>
 </tr>
 <tr>
     <td>
 	<!-- Begin Site Search and Sister Site Tag Table -->
-	<table width="100%" cellpadding="0" cellspacing="0">
+	<table width="100%" cellpadding="0" cellspacing="0" background="images/SST_Background.gif">
 	<tbody><tr>
-	<td class="top"><img src="images/SST_LeftCorner.gif" width="11" height="44" alt="" border="0"></td>
-<td width="100%" bgcolor="#8eb4fd">
-<table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td valign="middle" class="SiteSearchTable">The Source for Faucets and Fixtures</td>
-<form method="post" action="productsearch.asp?link={33AFD602-4BEC-47EA-9ED2-DF7D9BD0715C}&amp;Search=True" id="form0" name="form0"></form>
+	<td class="top"><img src="/faucetdepot/images/SST_LeftCornerNew.gif" width="11" height="44" alt="" border="0"></td>
+<td width="100%">
+<table width="100%" cellpadding="0" cellspacing="0" border="0" background="/faucetdepot/images/SST_Background.gif"><tbody><tr><td valign="middle"><img src="/faucetdepot/images/SST_Header.gif"></td>
+<form method="post" action="/faucetdepot/productsearch.asp?Search=True" id="form0" name="form0"></form>
 <td valign="middle" align="right"><input type="text" value="Search Faucet Depot" size="20" maxlength="55" class="DataText" id="SearchString" name="SearchString" onfocus="Clear_Textbox_Header()"></td>
-<td width="22" valign="middle" align="center"><input type="image" border="0" name="searchbutton" src="images/sitesearchbtn.gif" width="18" height="18" alt="Search"></td>
+<td width="22" valign="middle" align="center"><input type="image" border="0" name="searchbutton" src="/faucetdepot/images/sitesearchbtn.gif" width="18" height="18" alt="Search"></td>
 <input type="hidden" name="start" value="0">
 <input type="hidden" name="SearchManufacturers" value="All">
 <input type="hidden" name="SearchFaucetType" value="All">
@@ -98,7 +134,7 @@ function closeNewWindow(){
 <input type="hidden" name="SearchFinish" value="All">
 
 </tr></tbody></table></td>
-<td><img src="images/SST_RightCorner.gif" width="12" height="44" alt="" border="0"></td>
+<td><img src="/faucetdepot/images/SST_RightCornerNew.gif" width="12" height="44" alt="" border="0"></td>
 </tr>
 	</tbody></table>
 	<!-- End Site Search and Sister Site Tag Table -->
@@ -110,16 +146,26 @@ function closeNewWindow(){
 <!-- Begin Navigation Table -->
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
-<td width="12"><img src="images/NavLeft.gif" width="12" height="30" alt="" border="0"></td>
-<td width="100%" background="images/NavBg.gif">
+<td width="12"><img src="/faucetdepot/images/NavLeftNew.gif" width="12" height="30" alt="" border="0"></td>
+<td width="100%" background="/faucetdepot/images/NavBgNewTier1.gif" align="center">
 <div id="navigation">
 <ul>
-<li><a href="kitchen.asp?link={33AFD602-4BEC-47EA-9ED2-DF7D9BD0715C}">KITCHEN</a></li><li><a href="bath.asp?link={33AFD602-4BEC-47EA-9ED2-DF7D9BD0715C}">BATH</a></li><li><a href="filters.asp?link={33AFD602-4BEC-47EA-9ED2-DF7D9BD0715C}">FILTERS</a></li><li><a href="sinksandfixtures.asp?link={33AFD602-4BEC-47EA-9ED2-DF7D9BD0715C}">SINKS AND FIXTURES</a></li><li><a href="householdplumbing.asp?link={33AFD602-4BEC-47EA-9ED2-DF7D9BD0715C}">HOUSEHOLD PLUMBING</a></li><li><a href="manufacturers.asp?link={33AFD602-4BEC-47EA-9ED2-DF7D9BD0715C}">MANUFACTURERS</a></li><li><a href="topsellers.asp?link={33AFD602-4BEC-47EA-9ED2-DF7D9BD0715C}">TOP SELLERS</a></li><li><a href="main.asp?link={33AFD602-4BEC-47EA-9ED2-DF7D9BD0715C}">HOME</a></li>
+<a href="/kitchen.asp" class="NavigationNEW">KITCHEN</a><font color="#666666"><font color="#666666">  •  </font></font><a href="/bath.asp" class="NavigationNEW">BATH</a><font color="#666666">  •  </font><a href="/filters.asp" class="NavigationNEW">FILTERS</a><font color="#666666">  •  </font><a href="/sinks-fixtures.asp" class="NavigationNEW">SINKS AND FIXTURES</a><font color="#666666">  •  </font><a href="/home-plumbing.asp" class="NavigationNEW">HOME PLUMBING</a> • <a href="/manufacturers.asp" class="NavigationNEW">MANUFACTURERS</a><font color="#666666">  •  </font><a href="/outlet.asp" class="NavigationNEW"><font color="red" face="tahoma">OUTLET</font></a><font color="#666666">  •  </font><a href="/green-plumbing.asp" class="NavigationNEW"><font color="green" face="tahoma">GREEN PLUMBING</font></a><font color="#666666">  •  </font><a href="/faucetdepot/main.asp" class="NavigationNEW">HOME</a>
 </ul>
 </div>
-
 </td>
-<td width="12"><img src="images/NavRight.gif" width="12" height="30" alt="" border="0"></td>
+<td width="12"><img src="/faucetdepot/images/NavRightNew.gif" width="12" height="30" alt="" border="0" valign="top"></td>
+</tr>
+<tr>
+<td width="12"><img src="/faucetdepot/images/NavLeftBarNew.gif" width="12" height="30" alt="" border="0"></td>
+<td width="100%" background="/faucetdepot/images/NavBgNewTier2.gif" align="center">
+<div id="navigationNEW">
+<ul>
+<a href="/faucetdepot/kitchen-pullout-faucets.asp" class="NavigationNEW2Level">Kitchen Pullout Faucets</a><font color="#666666">  •  </font><a href="/faucetdepot/stainless-steel-sinks.asp" class="NavigationNEW2Level">Stainless Steel Sinks</a><font color="#666666">  •  </font><a href="/faucetdepot/filter-faucets.asp" class="NavigationNEW2Level">Filter Faucets</a><font color="#666666">  •  </font><a href="/faucetdepot/tankless-water-heaters.asp" class="NavigationNEW2Level">Tankless Water Heaters</a><font color="#666666">  •  </font><a href="/shop/Kitchen-Garbage-Disposals-Disposers-55-1-12.asp" class="NavigationNEW2Level">Disposers</a><font color="#666666">  •  </font><a href="/shop/Bath-Shower-Showerheads-47-22-23.asp" class="NavigationNEW2Level">Showerheads</a><font color="#666666">  •  </font><a href="/faucetdepot/repair-parts.asp" class="NavigationNEW2Level">Repair Parts</a><font color="#666666">  •  </font><a href="/cat/Commercial-Products-27-28.asp" class="NavigationNEW2Level">Commercial</a>
+</ul>
+</div>
+</td>
+<td width="12"><img src="/faucetdepot/images/NavRightNew2.gif" width="12" height="30" alt="" border="0" valign="top"></td>
 </tr>
 </tbody></table>
 
@@ -132,7 +178,7 @@ function closeNewWindow(){
 
 <table width="100%" bgcolor="#ffffff" style="border-bottom: 1px solid #666666" cellpadding="0" cellspacing="0">
 <tbody><tr><td height="34" class="LeftPad" valign="top"><div class="PurpleSubHead">Order Toll Free: 888.328.2389</div></td></tr>
-<tr><td class="LeftPad" valign="top" height="16">Monday, February 12, 2007</td></tr>
+<tr><td class="LeftPad" valign="top" height="16">Friday, November 20, 2009</td></tr>
 </tbody></table>
 
 <!-- Begin Product Search Table -->
@@ -140,7 +186,7 @@ function closeNewWindow(){
 
 <table width="100%" bgcolor="#8eb4fd" cellpadding="0" cellspacing="0">
 <tbody><tr><td class="LeftPad" valign="top"><div class="GraySubHead">Product Search</div></td></tr>
-<form method="post" action="productsearch.asp?link={33AFD602-4BEC-47EA-9ED2-DF7D9BD0715C}&amp;Search=True" id="form" name="form"></form>
+<form method="post" action="/faucetdepot/productsearch.asp?Search=True" id="form" name="form"></form>
 <tr><td class="LeftPad" height="22" valign="top">
 <input type="text" size="25" value="Model Number / Description" class="DataText" name="SearchString" onfocus="Clear_Textbox_Main()"></td></tr>
 <tr><td class="LeftPad" height="22" valign="top">
@@ -158,6 +204,8 @@ function closeNewWindow(){
 <option value="55">Blanco</option>
 <option value="37">Brasscraft</option>
 <option value="64">Brasstech</option>
+<option value="157">Briggs</option>
+<option value="152">Brondell</option>
 <option value="111">Caroma</option>
 <option value="39">Chicago Faucets</option>
 <option value="89">Church</option>
@@ -165,44 +213,49 @@ function closeNewWindow(){
 <option value="116">Deca</option>
 <option value="54">Delta</option>
 <option value="65">Delta Commercial</option>
-<option value="98">Dolphin Engineering</option>
 <option value="71">Duravit</option>
 <option value="74">Elkay</option>
 <option value="52">Everpure</option>
+<option value="141">Fantech</option>
 <option value="87">FasNSeal</option>
 <option value="32">Flitz</option>
 <option value="95">Florestone</option>
+<option value="151">Flushmate</option>
 <option value="51">Franke</option>
 <option value="53">French Reflection</option>
 <option value="81">Garvin</option>
 <option value="42">Geberit</option>
-<option value="137">General Wire</option>
 <option value="86">Gerber</option>
 <option value="113">Ginger</option>
 <option value="38">Grohe</option>
+<option value="145">Grundfos</option>
 <option value="132">Hamat</option>
 <option value="41">Hansgrohe</option>
-<option value="58">Harsa</option>
 <option value="36">Herbeau</option>
-<option value="45">ISE</option>
+<option value="45">InSinkErator</option>
 <option value="47">Jacuzzi</option>
 <option value="77">Jado</option>
-<option value="120">Jason</option>
 <option value="50">Kindred</option>
 <option value="63">Kohler</option>
+<option value="150">Kraus</option>
 <option value="49">KWC</option>
+<option value="149">Laing</option>
+<option value="158">Liberty Pumps</option>
 <option value="122">Maax</option>
-<option value="114">Marco Mammoliti</option>
+<option value="155">Max Furniture</option>
+<option value="147">MGS</option>
 <option value="107">Mico Designs</option>
 <option value="35">Moen</option>
 <option value="82">Mr Steam</option>
 <option value="68">Newport Brass</option>
 <option value="80">Oliveri</option>
 <option value="90">Olsonite</option>
+<option value="156">Oxygenics</option>
 <option value="78">Panasonic</option>
 <option value="109">Paul Decorative</option>
 <option value="56">Porcher</option>
-<option value="31">Price Pfister</option>
+<option value="31">PricePfister</option>
+<option value="148">Rems Tools</option>
 <option value="110">Rohl</option>
 <option value="100">Santec</option>
 <option value="94">ShowHouse</option>
@@ -211,18 +264,20 @@ function closeNewWindow(){
 <option value="83">Specialty Products</option>
 <option value="118">Steamist</option>
 <option value="69">Sunrise Specialty</option>
+<option value="153">Symmons</option>
 <option value="48">Takagi</option>
 <option value="79">Thermasol</option>
 <option value="75">Toto</option>
 <option value="60">Trim By Design</option>
 <option value="93">Whitehaus</option>
+<option value="146">Zoeller</option>
 
 </select>
 </td></tr>
 <tr><td class="LeftPad" height="22" valign="top">
 <select name="SearchFaucetType" style="font-family: Tahoma; font-size: 8pt; width: 150px; color: #505050;">
 	<option selected="" value="All">Select Product Type</option>
-<option value="186">Air Gaps</option><option value="23">Bar Faucets</option><option value="59">Bar Sinks</option><option value="60">Basin Taps</option><option value="187">Basket Strainers</option><option value="184">Bathroom Ventilation Systems</option><option value="25">Bidet Faucets</option><option value="229">Bidets</option><option value="63">Clawfoot Tub Fillers</option><option value="67">Commercial Kitchen Faucets</option><option value="68">Commercial Lavatory Faucets</option><option value="70">Commercial Metering Faucets</option><option value="72">Commercial Shower Valves</option><option value="206">Compact Water Heaters</option><option value="192">Disposer Accessories</option><option value="55">Disposers</option><option value="77">Drinking Fountains</option><option value="78">Drinking Water Systems</option><option value="45">Electronic Faucets</option><option value="188">Escutcheon Plates</option><option value="189">Faucet Care</option><option value="124">Filter Cartridges</option><option value="80">Filter Faucets</option><option value="81">Filtered Water Dispensers</option><option value="226">Flush Valves</option><option value="223">Grab Bars</option><option value="82">Hand Showers</option><option value="208">Handles and Inserts</option><option value="56">Hot Water Dispensers</option><option value="93">Ice Maker Filters</option><option value="42">Installation Accessories</option><option value="94">Iron Removal Filters</option><option value="267">Kitchen Bridge</option><option value="27">Kitchen Pullout</option><option value="28">Kitchen Single-Handle</option><option value="211">Kitchen Sinks Composite</option><option value="53">Kitchen Sinks Drop-in</option><option value="269">Kitchen Sinks Farmhouse(Apron)</option><option value="268">Kitchen Sinks Tile-in</option><option value="160">Kitchen Sinks Undermount</option><option value="29">Kitchen Two-Handle</option><option value="228">Kitchen Wall-Mount</option><option value="111">Lavatory Centerset Single-Handle</option><option value="112">Lavatory Centerset Two-Handle</option><option value="221">Lavatory Drains</option><option value="31">Lavatory Mini-Widespread</option><option value="197">Lavatory Shelf-Back</option><option value="220">Lavatory Single-Hole</option><option value="73">Lavatory Sinks - Console</option><option value="51">Lavatory Sinks - Counter Top</option><option value="121">Lavatory Sinks - Pedestal</option><option value="159">Lavatory Sinks - Undercounter</option><option value="49">Lavatory Sinks - Vessel</option><option value="50">Lavatory Sinks - Wall-Mounted</option><option value="164">Lavatory Wall-Mount</option><option value="32">Lavatory Widespread</option><option value="219">Light Fixtures</option><option value="239">Outdoor Faucet</option><option value="122">Pot Fillers</option><option value="123">Repair Parts</option><option value="126">Reverse Osmosis Systems</option><option value="213">Robe Hooks</option><option value="33">Roman Tub Faucetry</option><option value="128">Roman Tub Hand Showers</option><option value="43">Rough Plumbing Valves</option><option value="71">Service Sink Faucets</option><option value="222">Service Sinks</option><option value="183">Shower Accessories</option><option value="224">Shower Receptors</option><option value="35">Shower Single-Handle</option><option value="135">Shower Systems</option><option value="36">Shower Three-Handle</option><option value="37">Shower Two-Handle</option><option value="47">Showerheads</option><option value="193">Sink Colanders</option><option value="195">Sink Cutting Boards</option><option value="196">Sink Dish Racks</option><option value="194">Sink Grids</option><option value="190">Sink Hole Covers</option><option value="215">Soap Dishes</option><option value="185">Soap Dispensers</option><option value="182">Steam Unit Accessories</option><option value="138">Steam Units</option><option value="203">Tankless Water Heaters</option><option value="205">Tankless Water Heaters Accessories</option><option value="204">Tankless Water Heaters Venting</option><option value="139">Toilet Seats</option><option value="217">Toilet Tank Levers</option><option value="214">Toilet Tissue Holders</option><option value="199">Toilets One-Piece</option><option value="201">Toilets Two-Piece</option><option value="202">Toilets Wall Hung</option><option value="216">Toothbrush and Tumbler Holders</option><option value="212">Towel Bars and Rings</option><option value="227">Towel Warmers</option><option value="154">Tub Spouts</option><option value="155">Tubs</option><option value="158">Under Sink Filters</option><option value="191">Under Sink Hardware</option><option value="38">Utility Faucets</option><option value="225">Utility Sinks</option><option value="161">Vanities</option><option value="218">Vanity Shelving and Mirrors</option><option value="40">Waste and Overflows</option><option value="165">Water Chillers</option><option value="166">Water Coolers</option><option value="168">Water Softeners</option><option value="179">Whirlpool Baths</option><option value="181">Whole House Filters</option>
+<option value="186">Air Gaps</option><option value="23">Bar Faucets</option><option value="59">Bar Sinks</option><option value="60">Basin Taps</option><option value="187">Basket Strainers</option><option value="25">Bidet Faucets</option><option value="229">Bidets</option><option value="63">Clawfoot Tub Fillers</option><option value="206">Compact Water Heaters</option><option value="192">Disposer Accessories</option><option value="55">Disposers</option><option value="78">Drinking Water Systems</option><option value="45">Electronic Faucets</option><option value="188">Escutcheon Plates</option><option value="189">Faucet Care</option><option value="124">Filter Cartridges</option><option value="80">Filter Faucets</option><option value="81">Filtered Water Dispensers</option><option value="226">Flush Valves</option><option value="223">Grab Bars</option><option value="82">Hand Showers</option><option value="208">Handles and Inserts</option><option value="56">Hot Water Dispensers</option><option value="93">Ice Maker Filters</option><option value="42">Installation Accessories</option><option value="267">Kitchen Bridge</option><option value="27">Kitchen Pullout</option><option value="28">Kitchen Single-Handle</option><option value="294">Kitchen Sinks Cast Iron</option><option value="211">Kitchen Sinks Composite</option><option value="53">Kitchen Sinks Drop-in</option><option value="269">Kitchen Sinks Farmhouse(Apron)</option><option value="160">Kitchen Sinks Undermount</option><option value="29">Kitchen Two-Handle</option><option value="228">Kitchen Wall-Mount</option><option value="111">Lavatory Centerset Single-Handle</option><option value="112">Lavatory Centerset Two-Handle</option><option value="221">Lavatory Drains</option><option value="31">Lavatory Mini-Widespread</option><option value="197">Lavatory Shelf-Back</option><option value="220">Lavatory Single-Hole</option><option value="295">Lavatory Sinks - Cast Iron</option><option value="73">Lavatory Sinks - Console</option><option value="51">Lavatory Sinks - Counter Top</option><option value="121">Lavatory Sinks - Pedestal</option><option value="159">Lavatory Sinks - Undercounter</option><option value="49">Lavatory Sinks - Vessel</option><option value="50">Lavatory Sinks - Wall-Mounted</option><option value="164">Lavatory Wall-Mount</option><option value="32">Lavatory Widespread</option><option value="219">Light Fixtures</option><option value="239">Outdoor Faucet</option><option value="306">Pipe Benders</option><option value="122">Pot Fillers</option><option value="123">Repair Parts</option><option value="126">Reverse Osmosis Systems</option><option value="213">Robe Hooks</option><option value="297">Roman Tub Drains</option><option value="33">Roman Tub Faucetry</option><option value="128">Roman Tub Hand Showers</option><option value="43">Rough Plumbing Valves</option><option value="71">Service Sink Faucets</option><option value="222">Service Sinks</option><option value="183">Shower Accessories</option><option value="224">Shower Receptors</option><option value="35">Shower Single-Handle</option><option value="135">Shower Systems</option><option value="36">Shower Three-Handle</option><option value="37">Shower Two-Handle</option><option value="47">Showerheads</option><option value="193">Sink Colanders</option><option value="195">Sink Cutting Boards</option><option value="196">Sink Dish Racks</option><option value="194">Sink Grids</option><option value="190">Sink Hole Covers</option><option value="215">Soap Dishes</option><option value="185">Soap Dispensers</option><option value="305">Steam Unit Accessories</option><option value="182">Steam Unit Controls</option><option value="304">Steam Units - Commercial</option><option value="138">Steam Units - Residential</option><option value="203">Tankless Water Heaters</option><option value="205">Tankless Water Heaters Accessories</option><option value="204">Tankless Water Heaters Venting</option><option value="244">Threading Machines</option><option value="139">Toilet Seats</option><option value="217">Toilet Tank Levers</option><option value="214">Toilet Tissue Holders</option><option value="199">Toilets One-Piece</option><option value="201">Toilets Two-Piece</option><option value="202">Toilets Wall Hung</option><option value="216">Toothbrush and Tumbler Holders</option><option value="212">Towel Bars and Rings</option><option value="227">Towel Warmers</option><option value="154">Tub Spouts</option><option value="155">Tubs</option><option value="296">Tubs - Cast Iron</option><option value="158">Under Sink Filters</option><option value="191">Under Sink Hardware</option><option value="300">Urinals</option><option value="38">Utility Faucets</option><option value="225">Utility Sinks</option><option value="161">Vanities</option><option value="218">Vanity Shelving and Mirrors</option><option value="184">Ventilation Systems</option><option value="40">Waste and Overflows</option><option value="165">Water Chillers</option><option value="166">Water Coolers</option><option value="168">Water Softeners and Treatment</option><option value="179">Whirlpool Baths</option><option value="181">Whole House Filters</option>
 </select>
 </td></tr>
 <tr><td class="LeftPad" height="22" valign="top">
@@ -232,26 +287,21 @@ function closeNewWindow(){
 </td></tr>
 <tr><td class="LeftPad" height="22" valign="top">
 <select name="SearchFinish" style="font-family: Tahoma; font-size: 8pt; width: 150px; color: #505050;">
-	<option selected="" value="All">Select Finish</option><option value="Aged Chestnut">Aged Chestnut</option><option value="Aged Pewter">Aged Pewter</option><option value="Alabaster White">Alabaster White</option><option value="Almond">Almond</option><option value="ALU-XT">ALU-XT</option><option value="Anthracite">Anthracite</option><option value="Antique Brass">Antique Brass</option><option value="Antique Bronze">Antique Bronze</option><option value="Antique Copper">Antique Copper</option><option value="Antique Nickel">Antique Nickel</option><option value="Antique Pewter">Antique Pewter</option><option value="Aqua Blue">Aqua Blue</option><option value="Biscuit">Biscuit</option><option value="Black">Black</option><option value="Black N Tan">Black N Tan</option><option value="Black Nickel">Black Nickel</option><option value="Black Nickel/Brass">Black Nickel/Brass</option><option value="Black Opal">Black Opal</option><option value="Black Walnut">Black Walnut</option><option value="Black/Polished Brass">Black/Polished Brass</option><option value="Black/Stainless Steel">Black/Stainless Steel</option><option value="Blackened Bronze">Blackened Bronze</option><option value="Blacksmith">Blacksmith</option><option value="Blanca Carrara">Blanca Carrara</option><option value="Blue">Blue</option><option value="Bone">Bone</option><option value="Bronze">Bronze</option><option value="Brushed Brass">Brushed Brass</option><option value="Brushed Bronze">Brushed Bronze</option><option value="Brushed Chrome">Brushed Chrome</option><option value="Brushed Chrome/Matte Black">Brushed Chrome/Matte Black</option><option value="Brushed Chrome/Polished Chrome">Brushed Chrome/Polished Chrome</option><option value="Brushed Gold/Brass">Brushed Gold/Brass</option><option value="Brushed Nickel">Brushed Nickel</option><option value="Brushed Nickel/Chrome">Brushed Nickel/Chrome</option><option value="Brushed Nickel/Gold">Brushed Nickel/Gold</option><option value="Brushed Nickel/Polished Brass">Brushed Nickel/Polished Brass</option><option value="Brushed Platinum">Brushed Platinum</option><option value="Cherry">Cherry</option><option value="Chrome">Chrome</option><option value="Chrome/Black">Chrome/Black</option><option value="Chrome/Brass">Chrome/Brass</option><option value="Chrome/Brushed Nickel">Chrome/Brushed Nickel</option><option value="Chrome/Clear">Chrome/Clear</option><option value="Chrome/Glass">Chrome/Glass</option><option value="Chrome/Gold">Chrome/Gold</option><option value="Chrome/Green">Chrome/Green</option><option value="Chrome/Matte Chrome">Chrome/Matte Chrome</option><option value="Chrome/Oak">Chrome/Oak</option><option value="Chrome/Platinum">Chrome/Platinum</option><option value="Chrome/Polished Brass">Chrome/Polished Brass</option><option value="Chrome/Satin Nickel">Chrome/Satin Nickel</option><option value="Chrome/Soft Black">Chrome/Soft Black</option><option value="Chrome/Stainless Steel">Chrome/Stainless Steel</option><option value="Chrome/White">Chrome/White</option><option value="Classic Gold">Classic Gold</option><option value="Classic Gold/Pebbled Cream">Classic Gold/Pebbled Cream</option><option value="Clear">Clear</option><option value="Clear Glass">Clear Glass</option><option value="Cobalt Glass">Cobalt Glass</option><option value="Coco">Coco</option><option value="Colonial White">Colonial White</option><option value="Copper">Copper</option><option value="Cotton White">Cotton White</option><option value="Ebony">Ebony</option><option value="English Bronze">English Bronze</option><option value="Espresso">Espresso</option><option value="Fawn Beige">Fawn Beige</option><option value="French Gold">French Gold</option><option value="Glacier">Glacier</option><option value="Glacier/Green">Glacier/Green</option><option value="Glacier/Pebble">Glacier/Pebble</option><option value="Gloss Black">Gloss Black</option><option value="Gloss Black/Polished Brass">Gloss Black/Polished Brass</option><option value="Gold">Gold</option><option value="Gold/Black">Gold/Black</option><option value="Graphite">Graphite</option><option value="Gray">Gray</option><option value="Green">Green</option><option value="Igneous Black">Igneous Black</option><option value="Inca Brass">Inca Brass</option><option value="Innocent Blush">Innocent Blush</option><option value="Ivory">Ivory</option><option value="Light Oak">Light Oak</option><option value="Linen">Linen</option><option value="Mahogany Bronze">Mahogany Bronze</option><option value="Maple">Maple</option><option value="Matte Biscuit">Matte Biscuit</option><option value="Matte Black">Matte Black</option><option value="Matte Chrome">Matte Chrome</option><option value="Matte Pewter">Matte Pewter</option><option value="Matte White">Matte White</option><option value="Medium Oak">Medium Oak</option><option value="Mexican Sand">Mexican Sand</option><option value="Midnight Black">Midnight Black</option><option value="Mirror">Mirror</option><option value="Mocha Bronze">Mocha Bronze</option><option value="Natural">Natural</option><option value="Navy">Navy</option><option value="Nickel">Nickel</option><option value="Nickel/Matte Black">Nickel/Matte Black</option><option value="Nickel/Polished Brass">Nickel/Polished Brass</option><option value="None">None</option><option value="Oak">Oak</option><option value="Oil Rubbed Bronze">Oil Rubbed Bronze</option><option value="Other">Other</option><option value="Oyster">Oyster</option><option value="Pearl Nickel">Pearl Nickel</option><option value="Pearl Nickel/Chrome">Pearl Nickel/Chrome</option><option value="Pearl Nickel/Polished Brass">Pearl Nickel/Polished Brass</option><option value="Pewter">Pewter</option><option value="Pewter/Polished Brass">Pewter/Polished Brass</option><option value="Plastic">Plastic</option><option value="Platinum">Platinum</option><option value="Platinum Matte">Platinum Matte</option><option value="Platinum Nickel">Platinum Nickel</option><option value="Platinum/Chrome">Platinum/Chrome</option><option value="Polished Brass">Polished Brass</option><option value="Polished Brass/Black">Polished Brass/Black</option><option value="Polished Brass/Chrome">Polished Brass/Chrome</option><option value="Polished Brass/Glass">Polished Brass/Glass</option><option value="Polished Brass/White">Polished Brass/White</option><option value="Polished Nickel">Polished Nickel</option><option value="Polished Nickel/Polished Brass">Polished Nickel/Polished Brass</option><option value="Porcelain">Porcelain</option><option value="Red">Red</option><option value="Rough Chrome">Rough Chrome</option><option value="Rustic Bronze">Rustic Bronze</option><option value="Rustic Pewter">Rustic Pewter</option><option value="Sand">Sand</option><option value="Satin">Satin</option><option value="Satin Black">Satin Black</option><option value="Satin Brass">Satin Brass</option><option value="Satin Chrome">Satin Chrome</option><option value="Satin Chrome/Chrome">Satin Chrome/Chrome</option><option value="Satin Nickel">Satin Nickel</option><option value="Satin Nickel/Gold">Satin Nickel/Gold</option><option value="Satin Nickel/Ivory">Satin Nickel/Ivory</option><option value="Satin Nickel/Polished Brass">Satin Nickel/Polished Brass</option><option value="Satin Silver">Satin Silver</option><option value="Satin Stainless">Satin Stainless</option><option value="Satin/Chrome">Satin/Chrome</option><option value="Satin/Polished Brass">Satin/Polished Brass</option><option value="Satin/Polished Chrome">Satin/Polished Chrome</option><option value="Satine">Satine</option><option value="Satine/Ivory">Satine/Ivory</option><option value="Satine/Polished Brass">Satine/Polished Brass</option><option value="Satinox">Satinox</option><option value="Sedona Beige">Sedona Beige</option><option value="Shell">Shell</option><option value="Silver">Silver</option><option value="SilverSaver">SilverSaver</option><option value="Slate">Slate</option><option value="Spring">Spring</option><option value="Stainless Steel">Stainless Steel</option><option value="Stainless Steel/Black">Stainless Steel/Black</option><option value="Stainless Steel/Satin Nickel">Stainless Steel/Satin Nickel</option><option value="Stainless Steel/Soft Black">Stainless Steel/Soft Black</option><option value="Sterling">Sterling</option><option value="Stone">Stone</option><option value="Terra Cotta">Terra Cotta</option><option value="Tuscan Brass">Tuscan Brass</option><option value="Tuscan Bronze">Tuscan Bronze</option><option value="Velour Chrome">Velour Chrome</option><option value="Velour Chrome/Chrome">Velour Chrome/Chrome</option><option value="Velvet">Velvet</option><option value="Velvet/Brass">Velvet/Brass</option><option value="Velvet/Polished Brass">Velvet/Polished Brass</option><option value="Venetian Bronze">Venetian Bronze</option><option value="Victorian">Victorian</option><option value="Weathered Copper">Weathered Copper</option><option value="Weathered White">Weathered White</option><option value="White">White</option><option value="White Heat">White Heat</option><option value="White/Black">White/Black</option><option value="White/Chrome">White/Chrome</option><option value="White/Oak">White/Oak</option><option value="White/Polished Brass">White/Polished Brass</option><option value="Windsor Bronze">Windsor Bronze</option><option value="Wood">Wood</option><option value="Wrought Iron">Wrought Iron</option>
+	<option selected="" value="All">Select Finish</option><option value="Aged Chestnut">Aged Chestnut</option><option value="Aged Copper">Aged Copper</option><option value="Aged Pewter">Aged Pewter</option><option value="Alabaster White">Alabaster White</option><option value="Almond">Almond</option><option value="ALU-XT">ALU-XT</option><option value="Anthracite">Anthracite</option><option value="Antique Brass">Antique Brass</option><option value="Antique Bronze">Antique Bronze</option><option value="Antique Copper">Antique Copper</option><option value="Antique Nickel">Antique Nickel</option><option value="Antique Pewter">Antique Pewter</option><option value="Antique White">Antique White</option><option value="Aqua Blue">Aqua Blue</option><option value="Biscuit">Biscuit</option><option value="Black">Black</option><option value="Black N Tan">Black N Tan</option><option value="Black Nickel">Black Nickel</option><option value="Black Nickel/Brass">Black Nickel/Brass</option><option value="Black Opal">Black Opal</option><option value="Black Walnut">Black Walnut</option><option value="Black/Polished Brass">Black/Polished Brass</option><option value="Black/Stainless Steel">Black/Stainless Steel</option><option value="Blackened Bronze">Blackened Bronze</option><option value="Blacksmith">Blacksmith</option><option value="Blanca Carrara">Blanca Carrara</option><option value="Blue">Blue</option><option value="Bone">Bone</option><option value="Bronze">Bronze</option><option value="Brushed Brass">Brushed Brass</option><option value="Brushed Bronze">Brushed Bronze</option><option value="Brushed Chrome">Brushed Chrome</option><option value="Brushed Chrome/Matte Black">Brushed Chrome/Matte Black</option><option value="Brushed Chrome/Polished Chrome">Brushed Chrome/Polished Chrome</option><option value="Brushed Gold/Brass">Brushed Gold/Brass</option><option value="Brushed Nickel">Brushed Nickel</option><option value="Brushed Nickel/Chrome">Brushed Nickel/Chrome</option><option value="Brushed Nickel/Gold">Brushed Nickel/Gold</option><option value="Brushed Nickel/Polished Brass">Brushed Nickel/Polished Brass</option><option value="Brushed Platinum">Brushed Platinum</option><option value="Cafe Brown">Cafe Brown</option><option value="Cherry">Cherry</option><option value="Chrome">Chrome</option><option value="Chrome/Black">Chrome/Black</option><option value="Chrome/Brass">Chrome/Brass</option><option value="Chrome/Brushed Nickel">Chrome/Brushed Nickel</option><option value="Chrome/Clear">Chrome/Clear</option><option value="Chrome/Glass">Chrome/Glass</option><option value="Chrome/Gold">Chrome/Gold</option><option value="Chrome/Green">Chrome/Green</option><option value="Chrome/Matte Chrome">Chrome/Matte Chrome</option><option value="Chrome/Oak">Chrome/Oak</option><option value="Chrome/Platinum">Chrome/Platinum</option><option value="Chrome/Polished Brass">Chrome/Polished Brass</option><option value="Chrome/Satin Nickel">Chrome/Satin Nickel</option><option value="Chrome/Soft Black">Chrome/Soft Black</option><option value="Chrome/Stainless Steel">Chrome/Stainless Steel</option><option value="Chrome/White">Chrome/White</option><option value="Classic Gold">Classic Gold</option><option value="Classic Gold/Pebbled Cream">Classic Gold/Pebbled Cream</option><option value="Clear">Clear</option><option value="Clear Glass">Clear Glass</option><option value="Cobalt Glass">Cobalt Glass</option><option value="Coco">Coco</option><option value="Colonial White">Colonial White</option><option value="Copper">Copper</option><option value="Cotton White">Cotton White</option><option value="Distressed Bronze">Distressed Bronze</option><option value="Distressed Nickel">Distressed Nickel</option><option value="Ebony">Ebony</option><option value="English Bronze">English Bronze</option><option value="Espresso">Espresso</option><option value="Fawn Beige">Fawn Beige</option><option value="French Gold">French Gold</option><option value="Glacier">Glacier</option><option value="Glacier/Green">Glacier/Green</option><option value="Glacier/Pebble">Glacier/Pebble</option><option value="Gloss Black">Gloss Black</option><option value="Gloss Black/Polished Brass">Gloss Black/Polished Brass</option><option value="Gold">Gold</option><option value="Gold/Black">Gold/Black</option><option value="Graphite">Graphite</option><option value="Gray">Gray</option><option value="Green">Green</option><option value="Hammered Nickel">Hammered Nickel</option><option value="Igneous Black">Igneous Black</option><option value="Inca Brass">Inca Brass</option><option value="Innocent Blush">Innocent Blush</option><option value="Ivory">Ivory</option><option value="Java">Java</option><option value="Light Oak">Light Oak</option><option value="Linen">Linen</option><option value="Mahogany">Mahogany</option><option value="Mahogany Bronze">Mahogany Bronze</option><option value="Maple">Maple</option><option value="Matte Biscuit">Matte Biscuit</option><option value="Matte Black">Matte Black</option><option value="Matte Chrome">Matte Chrome</option><option value="Matte Pewter">Matte Pewter</option><option value="Matte White">Matte White</option><option value="Medium Oak">Medium Oak</option><option value="Mexican Sand">Mexican Sand</option><option value="Midnight Black">Midnight Black</option><option value="Mirror">Mirror</option><option value="Mocha Bronze">Mocha Bronze</option><option value="Natural">Natural</option><option value="Navy">Navy</option><option value="Nickel">Nickel</option><option value="Nickel/Chrome">Nickel/Chrome</option><option value="Nickel/Matte Black">Nickel/Matte Black</option><option value="Nickel/Polished Brass">Nickel/Polished Brass</option><option value="None">None</option><option value="Oak">Oak</option><option value="Oil Rubbed Bronze">Oil Rubbed Bronze</option><option value="Other">Other</option><option value="Oyster">Oyster</option><option value="Pearl Nickel">Pearl Nickel</option><option value="Pearl Nickel/Chrome">Pearl Nickel/Chrome</option><option value="Pearl Nickel/Polished Brass">Pearl Nickel/Polished Brass</option><option value="Pewter">Pewter</option><option value="Pewter/Polished Brass">Pewter/Polished Brass</option><option value="Pink">Pink</option><option value="Plastic">Plastic</option><option value="Platinum">Platinum</option><option value="Platinum Matte">Platinum Matte</option><option value="Platinum Nickel">Platinum Nickel</option><option value="Platinum/Chrome">Platinum/Chrome</option><option value="Polished Brass">Polished Brass</option><option value="Polished Brass/Black">Polished Brass/Black</option><option value="Polished Brass/Chrome">Polished Brass/Chrome</option><option value="Polished Brass/Glass">Polished Brass/Glass</option><option value="Polished Brass/White">Polished Brass/White</option><option value="Polished Nickel">Polished Nickel</option><option value="Polished Nickel/Polished Brass">Polished Nickel/Polished Brass</option><option value="Porcelain">Porcelain</option><option value="Red">Red</option><option value="Rough Chrome">Rough Chrome</option><option value="Rustic Bronze">Rustic Bronze</option><option value="Rustic Pewter">Rustic Pewter</option><option value="Sand">Sand</option><option value="Sandbar">Sandbar</option><option value="Satin">Satin</option><option value="Satin Black">Satin Black</option><option value="Satin Brass">Satin Brass</option><option value="Satin Chrome">Satin Chrome</option><option value="Satin Chrome/Chrome">Satin Chrome/Chrome</option><option value="Satin Nickel">Satin Nickel</option><option value="Satin Nickel/Gold">Satin Nickel/Gold</option><option value="Satin Nickel/Ivory">Satin Nickel/Ivory</option><option value="Satin Nickel/Polished Brass">Satin Nickel/Polished Brass</option><option value="Satin Silver">Satin Silver</option><option value="Satin Stainless">Satin Stainless</option><option value="Satin/Chrome">Satin/Chrome</option><option value="Satin/Polished Brass">Satin/Polished Brass</option><option value="Satin/Polished Chrome">Satin/Polished Chrome</option><option value="Satine">Satine</option><option value="Satine/Ivory">Satine/Ivory</option><option value="Satine/Polished Brass">Satine/Polished Brass</option><option value="Satinox">Satinox</option><option value="Sedona Beige">Sedona Beige</option><option value="Shell">Shell</option><option value="Sienna Bronze">Sienna Bronze</option><option value="Silver">Silver</option><option value="SilverSaver">SilverSaver</option><option value="Slate">Slate</option><option value="Spring">Spring</option><option value="Stainless Steel">Stainless Steel</option><option value="Stainless Steel/Black">Stainless Steel/Black</option><option value="Stainless Steel/Satin Nickel">Stainless Steel/Satin Nickel</option><option value="Stainless Steel/Soft Black">Stainless Steel/Soft Black</option><option value="Sterling">Sterling</option><option value="Stone">Stone</option><option value="Sunlight">Sunlight</option><option value="Terra Cotta">Terra Cotta</option><option value="Tuscan Brass">Tuscan Brass</option><option value="Tuscan Bronze">Tuscan Bronze</option><option value="Velour Chrome">Velour Chrome</option><option value="Velour Chrome/Chrome">Velour Chrome/Chrome</option><option value="Velvet">Velvet</option><option value="Velvet/Brass">Velvet/Brass</option><option value="Velvet/Polished Brass">Velvet/Polished Brass</option><option value="Venetian Bronze">Venetian Bronze</option><option value="Victorian">Victorian</option><option value="Weathered Brass">Weathered Brass</option><option value="Weathered Copper">Weathered Copper</option><option value="Weathered White">Weathered White</option><option value="White">White</option><option value="White Heat">White Heat</option><option value="White/Black">White/Black</option><option value="White/Chrome">White/Chrome</option><option value="White/Oak">White/Oak</option><option value="White/Polished Brass">White/Polished Brass</option><option value="Windsor Bronze">Windsor Bronze</option><option value="Wood">Wood</option><option value="Wrought Iron">Wrought Iron</option>
 </select>
 </td></tr>
-<tr><td align="center" valign="middle" height="33"><input type="image" border="0" name="searchbutton" src="images/ProdSearchBtn.gif" width="79" height="30" alt="Search"> <br>
+<tr><td align="center" valign="middle" height="33"><input type="image" border="0" name="searchbutton" src="/faucetdepot/images/ProdSearchBtn.gif" width="79" height="30" alt="Search"> <br>
 <a href="javascript:Clear_Search();" class="breadcrumb">Clear Search</a><br>&nbsp;</td></tr>
 <input type="hidden" name="start" value="0">
 
 </tbody></table>
 <!-- End Product Search Table -->
 
-<table width="100%" bgcolor="#505050" style="border-bottom: 1px solid #666666" cellpadding="0" cellspacing="0">
-<tbody><tr><td valign="top"><a target="_blank" href="http://www.bizrate.com/merchant/coe__mid--83118.html"><img src="/product-images/goldhonrlogo.gif" border="0"></a>
-</td></tr></tbody></table>
-<table width="100%" bgcolor="#505050" style="border-bottom: 1px solid #666666" cellpadding="0" cellspacing="0">
-<tbody><tr><td valign="top"><a href="productsuggestion.asp?link={33AFD602-4BEC-47EA-9ED2-DF7D9BD0715C}"><img src="images/bag.gif" width="66" height="74" alt="" border="0"></a><br><div align="center" class="CSText"><a class="CS2" href="productsuggestion.asp?link={33AFD602-4BEC-47EA-9ED2-DF7D9BD0715C}">click here</a></div></td><td valign="top" class="ProdSearchPad">
-<a href="productsuggestion.asp?link={33AFD602-4BEC-47EA-9ED2-DF7D9BD0715C}"><img src="images/cantfindit.gif" width="105" height="17" alt="" border="0"></a><br>
-<div class="WhiteSubHead">Product selection is not limited to the website.  We’ll order any faucet available on the market.</div>
-</td></tr></tbody></table><table width="100%" align="center" cellpadding="0" cellspacing="0">
+<table width="100%" align="center" cellpadding="0" cellspacing="0">
   <tbody><tr>
     <td align="center">
+    <a target="_blank" href="http://www.bizrate.com/merchant/coe__mid--83118.html"><img src="/product-images/goldhonrlogo.gif" border="0"></a><br>
+    <img src="/faucetdepot/images/freeshipping.jpg" width="171"><br>
 		<!-- BEGIN LivePerson Button Code --><a href="http://server.iad.liveperson.net/hc/LPfaucetdepot/?cmd=file&amp;file=visitorWantsToChat&amp;site=LPfaucetdepot&amp;byhref=1" target="chatLPfaucetdepot" onclick="javascript:window.open('http://server.iad.liveperson.net/hc/LPfaucetdepot/?cmd=file&amp;file=visitorWantsToChat&amp;site=LPfaucetdepot&amp;referrer='+escape(document.location),'chatLPfaucetdepot','width=472,height=320');return false;"><img src="http://server.iad.liveperson.net/hc/LPfaucetdepot/?cmd=repstate&amp;site=LPfaucetdepot&amp;&amp;ver=1&amp;category=en;woman;5" name="hcIcon" width="171" height="62" border="0"></a><!-- END LivePerson Button code -->
 
     </td>
@@ -263,16 +313,23 @@ function closeNewWindow(){
 <div class="CSText">Toll Free: 888.328.2389</div><div class="CSText">
 <ul class="CS">
 <li><a href="http://server.iad.liveperson.net/hc/LPfaucetdepot/?cmd=file&amp;file=visitorWantsToChat&amp;site=LPfaucetdepot&amp;byhref=1" target="chatLPfaucetdepot" onclick="javascript:window.open('http://server.iad.liveperson.net/hc/LPfaucetdepot/?cmd=file&amp;file=visitorWantsToChat&amp;site=LPfaucetdepot&amp;referrer='+escape(document.location),'chatLPfaucetdepot','width=472,height=320');return false;" class="CS">Online Support</a>
-<!--<li><a href="https://www.faucetdepot3.com/my_account1/my_account_login.asp?link={33AFD602-4BEC-47EA-9ED2-DF7D9BD0715C}&destination=orderstatus" class="CS">Track an Order</a>-->
+<!--<li><a href="https://www.faucetdepot.com/my_account1/my_account_login.asp?link={4AFBF4C4-B5F2-4DE6-8B75-B40FB8D6FDA7}&destination=orderstatus" class="CS">Track an Order</a>-->
 </li><li><a href="javascript:makeNewWindow('fedextracking')" onmouseover="showStat('Track Your Order'); return true" onmouseout="hideStat()" class="CS">Track an Order</a>
-</li><li><a href="return_policy.asp?link={33AFD602-4BEC-47EA-9ED2-DF7D9BD0715C}" class="CS">Returns</a>
-</li><li><a href="https://www.faucetdepot3.com/my_account1/my_account_login.asp?link={33AFD602-4BEC-47EA-9ED2-DF7D9BD0715C}" class="CS">Account Information</a>
-</li><li><a href="customercare.asp?link={33AFD602-4BEC-47EA-9ED2-DF7D9BD0715C}#ShippingRatesandPolicies" class="CS">Shipping Rates &amp; Policies</a>
+</li><li><a href="/faucetdepot/return_policy.asp" class="CS">Returns</a>
+</li><li><a href="https://www.faucetdepot3.com/my_account1/my_account_login.asp?link={4AFBF4C4-B5F2-4DE6-8B75-B40FB8D6FDA7}" class="CS">Account Information</a>
+</li><li><a href="/faucetdepot/customercare.asp#ShippingRatesandPolicies" class="CS">Shipping Rates &amp; Policies</a>
 </li></ul>
 </div>
 
 </td></tr>
 </tbody></table>
+
+<!--<table width="100%" bgcolor="#8eb4fd" style="border-bottom: 1px solid #666666" cellpadding="0" cellspacing="0">
+<tr><td valign="top"><center><a target="_blank" href="http://www.bizrate.com/merchant/coe__mid--83118.html"><img src="/product-images/goldhonrlogo.gif" border="0"></a></center>
+</td></tr></table>-->
+<table width="100%" bgcolor="#505050" style="border-bottom: 1px solid #666666" cellpadding="0" cellspacing="0">
+<tbody><tr><td valign="top"><a href="/faucetdepot/productsuggestion.asp"><img src="/faucetdepot/images/cantfindit.jpg" width="171" alt="" border="0"></a>
+</td></tr></tbody></table>
 
 </td>
 <td valign="top" class="ContentFrame">
@@ -351,7 +408,7 @@ your dealings with this Web site, you can contact:</p>
 <address>
   <a href="mailto:tarcher@faucetdepot.com">tarcher@faucetdepot.com</a>
 </address>
- 
+
             <p>&nbsp;</p>
             <p>&nbsp;</p>
 <p align="center"><b><a href="http://server.iad.liveperson.net/hc/LPfaucetdepot/?cmd=file&amp;file=visitorWantsToChat&amp;site=LPfaucetdepot&amp;byhref=1" target="chatLPfaucetdepot" onclick="javascript:window.open('http://server.iad.liveperson.net/hc/LPfaucetdepot/?cmd=file&amp;file=visitorWantsToChat&amp;site=LPfaucetdepot&amp;referrer='+escape(document.location),'chatLPfaucetdepot','width=472,height=320');return false;">Chat with an online Faucet Expert</a><br>Mon - Fri 7:00am - 5:00pm PT</b></p>
@@ -363,52 +420,13 @@ your dealings with this Web site, you can contact:</p>
 <tr><td bgcolor="#003399" width="171"><img src="images/LeftCornerBtm.gif" width="171" height="10" alt="" border="0"></td><td background="images/CenterBtm.gif" width="100%"><img src="images/CenterBtm.gif" width="12" height="10" alt="" border="0"></td><td bgcolor="#ffffff"><img src="images/RightCornerBtm.gif" width="12" height="10" alt="" border="0"></td> </tr>
 </tbody></table>
 
-<br>
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr><td><img src="images/LeftCornerTop.gif" width="12" height="10" alt="" border="0"></td><td background="images/CenterTop.gif" width="100%"><img src="images/CenterTop.gif" width="12" height="10" alt="" border="0"></td><td bgcolor="#ffffff"><img src="images/RightCornerTop.gif" width="12" height="10" alt="" border="0"></td> </tr>
-<tr>
-<td width="12" class="LeftSide"><img src="images/trans.gif" width="1" height="1" alt="" border="0"></td>
-<td>
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr><td colspan="4"><div class="PurpleSubHead">Our Sister Sites</div></td></tr>
-<tr>
-<td valign="top" width="25%"><a href="http://www.moendepot.com" target="_blank">www.moendepot.com</a> </td>
-<td valign="top" width="25%"><a href="http://www.deltadepot.com" target="_blank">www.deltadepot.com</a></td>
-<td valign="top" width="25%"><a href="http://www.elkaydepot.com " target="_blank">www.elkaydepot.com </a></td>
-<td valign="top" width="25%"><a href="http://www.grohedepot.com" target="_blank">www.grohedepot.com</a></td>
-</tr>
-<tr>
-<td valign="top" width="25%"><a href="http://www.onlinefilters.com" target="_blank">www.onlinefilters.com</a></td>
-<td valign="top" width="25%"><a href="http://www.insinkeratordepot.com" target="_blank">www.insinkeratordepot.com</a></td>
-<td valign="top" width="25%"><a href="http://www.pricepfisterdepot.com" target="_blank">www.pricepfisterdepot.com</a></td>
-<td valign="top" width="25%"><a href="http://www.americanstandarddepot.com" target="_blank">www.americanstandarddepot.com</a></td>
-</tr>
-<tr>
-<td valign="top" width="25%"><a href="http://www.blancodepot.com" target="_blank">www.blancodepot.com</a></td>
-<td valign="top" width="25%"><a href="http://www.takagidepot.com" target="_blank">www.takagidepot.com </a></td>
-<td valign="top" width="25%"><a href="http://www.championtoilet.com" target="_blank">www.championtoilet.com</a></td>
-<td valign="top" width="25%"><a href="http://www.chicagofaucetsdepot.com" target="_blank">www.chicagofaucetsdepot.com</a></td>
-</tr>
-<tr>
-<td valign="top" width="25%"><a href="http://www.hansgrohedepot.com" target="_blank">www.hansgrohedepot.com </a></td>
-<td valign="top" width="25%"><a href="http://www.jacuzzidepot.com" target="_blank">www.jacuzzidepot.com</a></td>
-<td valign="top" width="25%"><a href="http://www.porcherdepot.com" target="_blank">www.porcherdepot.com</a></td>
-<td valign="top" width="25%"><a href="http://toto.faucetdepot.com" target="_blank">toto.faucetdepot.com</a></td>
-<td valign="top" width="25%">&nbsp;</td>
-</tr>
-</tbody></table>
-</td>
-<td width="12" class="RightSide"><img src="images/trans.gif" width="1" height="1" alt="" border="0"></td>
-</tr>
-<tr><td><img src="images/LeftCornerBtmWhite.gif" width="12" height="10" alt="" border="0"></td><td background="images/CenterBtm.gif" width="100%"><img src="images/CenterBtm.gif" width="12" height="10" alt="" border="0"></td><td bgcolor="#ffffff"><img src="images/RightCornerBtm.gif" width="12" height="10" alt="" border="0"></td> </tr>
-</tbody></table>
 <!-- End Main Table -->
 
 <!-- Begin Footer Table: Copyright, Quick Links and Affiliate Marks -->
 <table class="footer" width="100%" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
-<td class="footer" width="180">Copyright © 2007 Faucet Depot</td><td class="footer">
-<a href="about_us.asp?link={33AFD602-4BEC-47EA-9ED2-DF7D9BD0715C}" class="FooterLink">About Us</a>   |  <a href="contact_us.asp?link={33AFD602-4BEC-47EA-9ED2-DF7D9BD0715C}" class="FooterLink">Contact Us</a>   |   <a href="manufacturers.asp?link={33AFD602-4BEC-47EA-9ED2-DF7D9BD0715C}" class="FooterLink">Manufacturers</a>   |   <a href="privacy_policy.asp?link={33AFD602-4BEC-47EA-9ED2-DF7D9BD0715C}" class="FooterLink">Privacy Policy</a>   |   <a href="warranty.asp?link={33AFD602-4BEC-47EA-9ED2-DF7D9BD0715C}" class="FooterLink">Warranty</a>   |   <a href="customercare.asp?link={33AFD602-4BEC-47EA-9ED2-DF7D9BD0715C}" class="FooterLink">Customer Care</a>   |   <a href="sitemap.asp?link={33AFD602-4BEC-47EA-9ED2-DF7D9BD0715C}" class="FooterLink">Site Map</a>
+<td class="footer" width="180">Copyright © 2009 Faucet Depot</td><td class="footer">
+<a href="/faucetdepot/about_us.asp" class="FooterLink">About Us</a>   |  <a href="/faucetdepot/contact_us.asp" class="FooterLink">Contact Us</a>   |  <a href="http://www.faucetdepot.com/email" class="FooterLink">Email Specials</a>  |  <a href="http://www.faucetdepot.com/happenings" class="FooterLink">Happenings</a>  |  <a href="/manufacturers.asp" class="FooterLink">Manufacturers</a>   |     <a href="/faucetdepot/privacy_policy.asp" class="FooterLink">Privacy Policy</a>   |   <a href="/faucetdepot/warranty.asp" class="FooterLink">Warranty</a>   |   <a href="/faucetdepot/customercare.asp" class="FooterLink">Customer Care</a>   |   <a href="/faucetdepot/sitemap.asp" class="FooterLink">Site Map</a>
 </td>
 
 
@@ -419,9 +437,9 @@ your dealings with this Web site, you can contact:</p>
 <!-- START CONTROLSCAN CODE -->
 <a href="http://www.controlscan.com/seal/verify2.php?subid=3684&amp;id=74" target="verify"><img border="0" src="http://www.controlscan.com/seal/sealx2.php?subid=3684&amp;id=74" oncontextmenu="alert('Copying Prohibited by Law - Trademark of ControlScan.com'); return false;" alt="Internet Security By ControlScan"></a>
 <!-- STOP CONTROLSCAN CODE -->
-<img src="images/Thawte.gif" width="80" height="53" alt="" border="0">&nbsp;&nbsp;
-<a href="http://www.forbes.com/bow/b2c/review.jhtml?id=1969" target="_blank"><img src="images/Forbes.gif" width="38" height="60" alt="Forbes Best of the Web" border="0"></a>&nbsp;&nbsp;
-<a href="http://www.bbbonline.org/cks.asp?id=1051130175749" target="_blank"><img src="images/BBB.gif" width="40" height="61" alt="Better Business Bureau" border="0"></a>&nbsp;&nbsp;
+<img src="/faucetdepot/images/Thawte.gif" width="80" height="53" alt="" border="0">&nbsp;&nbsp;
+<a href="http://www.forbes.com/bow/b2c/review.jhtml?id=1969" target="_blank"><img src="/faucetdepot/images/Forbes.gif" width="38" height="60" alt="Forbes Best of the Web" border="0"></a>&nbsp;&nbsp;
+<a href="http://www.bbbonline.org/cks.asp?id=1051130175749" target="_blank"><img src="/faucetdepot/images/BBB.gif" width="40" height="61" alt="Better Business Bureau" border="0"></a>&nbsp;&nbsp;
 <a href="http://www.shopping.com/xMR-Faucet%20Depot~MRD-303575~S-1" target="_blank"><img src="http://img.shopping.com/cctool/files/sdc_rating_trusted_45.gif" alt="Shopping.com Customer Feedback" border="0"></a>&nbsp;&nbsp;
 <a href="http://www.bizrate.com/ratings_guide/cust_reviews__mid--83118.html" target="_blank"><img src="http://medals.bizrate.com/medals/dynamic/83118_medal.gif" alt="BizRate Customer Feedback" border="0"></a>
 </td>
@@ -432,7 +450,24 @@ your dealings with this Web site, you can contact:</p>
 
 <!-- End Page Layout Table -->
 </td></tr></tbody></table>
-<!-- BEGIN HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG --><script language="javascript" src="http://server.iad.liveperson.net/hc/LPfaucetdepot/x.js?cmd=file&amp;file=chatScript3&amp;site=LPfaucetdepot&amp;&amp;category=en;woman;5"> </script><!-- END HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
+<script language="JavaScript"><!--
+{
+document.write("<img src=http://tracking.searchmarketing.com/welcome.asp?SMCID=301&x="+escape(document.referrer)+" width=1 height=1>");
+}
+//-->
+</script><img src="http://tracking.searchmarketing.com/welcome.asp?SMCID=301&amp;x=" width="1" height="1">
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-5946996-1");
+pageTracker._trackPageview();
+</script>
+
+<!-- BEGIN LivePerson Monitor. --><script language="javascript"> var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "LPfaucetdepot",'lpProtocol' : "http"}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);</script><!-- END LivePerson Monitor. -->
 
 
-</body></html>
+
+</td></tr></tbody></table></body></html>
