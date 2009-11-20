@@ -1,18 +1,6 @@
-> *The following text is extracted and transformed from the petco.com privacy policy that was archived on 2007-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071019132824id_/http%3A//www.petco.com//Content/petco_HelpList_PC_helplist_Nav_17_TopicID_8.aspx%3Fcm_re%3D051806-_-ftr-_-privacy%233040) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petco.com privacy policy that was archived on 2009-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091120021046id_/http%3A//www.petco.com/petco_Page_PC_helplist_Nav_17_TopicID_8.aspx) for the most accurate reproduction.*
 
 # Help Topics at PETCO
-
-|    
-
-
-|   
----  
-| Qty | Item | Ea. |   
----  
-|  | [Checkout](http://www.petco.com/Cart/petco_ShoppingCart__.aspx) |   
-  
-|  |   
-
 
 At PETCO, we value you and your pets, and we want to make sure that you have an enjoyable and rewarding shopping experience in our stores and online during every visit. 
 
@@ -29,6 +17,9 @@ You may find the answer to your question by browsing or searching our Help topic
 PETCO.com takes reasonable steps to protect our customers' data against unauthorized access using Secure Sockets Layer (SSL) technology to protect your online order information.
 
 To check the security of your connection, look at the bottom of your browser window after accessing the server. If you see an unbroken key or a closed lock (depending upon your browser), SSL is active. You can also double-check by looking at the URL line of your browser. When accessing a secure server, the first characters of the site address will change from "http" to "https." (Please note: some versions of browsers and some firewalls don't permit communication through secure servers, so you would be unable to connect to our servers to place an order.)
+
+**California Privacy Rights**  
+Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to request from a business, with whom the California resident has an established business relationship, certain information with respect to the types of personal information the business shares with third parties for direct marketing purposes by such third party and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. Under California law, California residents who have an established business relationship with PETCO, may choose to opt out of PETCO disclosing personal information about them to third parties for marketing purposes.
 
 **Privacy Policy**  
 
@@ -47,7 +38,7 @@ Sometimes you will provide us with data that doesn't reveal your personal identi
 
 We reserve the right to use aggregated, anonymous data about our users as a group. For instance, we might report to potential advertisers that a certain percentage of our users are interested in parrot behavior, based on online surveys or other requests.
 
-We use a third party agent to handle our email marketing and you may refer to their privacy policy [here](http://www.rsvp0.net/).
+We use a third party agent to handle our email marketing and you may refer to their privacy policy [here](http://www.e-dialog.com/about_us_policy.html).
 
 If we know a visitor is under the age of thirteen, we will collect a parent's permission offline (by postal mail, fax or phone) before we collect or share personal information with anyone else.
 
@@ -55,9 +46,6 @@ Please note that nowhere on the website do we knowingly collect contact informat
 
 **Email Notice**  
 Email, in general, is not a secure form of communication, and can be intercepted as it travels across the Internet. DO NOT send credit card numbers or other sensitive information via email.
-
-**California Privacy Rights**  
-Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to request from a business, with whom the California resident has an established business relationship, certain information with respect to the types of personal information the business shares with third parties for direct marketing purposes by such third party and the identities of the third parties with whom the business has shared such information during the immediately preceding calendar year. Under California law, California residents who have an established business relationship with PETCO, may choose to opt out of PETCO disclosing personal information about them to third parties for marketing purposes.
 
 **Surveys**  
 Our online surveys may ask visitors for contact information (like your email address) and demographic information (like your zip code or age). We use contact data from our surveys to send users information about PETCO.com and our promotions. Users may opt-out of receiving future mailings; see the "Choice/Opt-Out" section below. Demographic and profile data is also collected at our site. We use this data to tailor our visitors' experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. 
@@ -125,16 +113,3 @@ The use of this web site is subject to the following terms of use:
 
 
 If you have any questions about this privacy statement, the practices of this web site, or your dealings with this site, send us an email.
-
-|  |  |  |    
-**Free Newsletters:** Pet Care Tips, Discounts & More!  
-  
-[](https://web.archive.org/Landing/Promo.aspx?PromoCode=halloween&cm_sp=siteoffer-_-fs50-_-101907)   
-  
-|   
----  
-[](https://secure.petco.com/Content/GiftCardCertificate.aspx?PC=gc&Nav=328&cm_sp=site-_-giftcard-_-shop)  
-[](https://web.archive.org/Page.aspx?PC=fetchmysalesinfo&Nav=15&cm_sp=site-_-fms-_-shop)  
-  
-  
-| 
