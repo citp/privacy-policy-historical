@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plannedcommunity.com privacy policy that was archived on 2008-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080704113417id_/http%3A//www.plannedcommunity.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plannedcommunity.com privacy policy that was archived on 2009-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091120122459id_/http%3A//www.plannedcommunity.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy, Planned Community Directory, Developer and Senior Living
 
