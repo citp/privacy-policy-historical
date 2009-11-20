@@ -1,137 +1,131 @@
-> *The following text is extracted and transformed from the pfchangs.com privacy policy that was archived on 2008-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080611103325id_/http%3A//www.pfcb.com/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pfchangs.com privacy policy that was archived on 2009-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091120200236id_/http%3A//www.pfcb.com/privacyPolicy.htm) for the most accurate reproduction.*
 
-# 
+# PFCB, Inc. - Privacy Policy
 
-**Privacy Policy**
+## **PRIVACY POLICY**
 
-Date Last Modified: April 24, 2008 ****
+### **Date Last Modified: August 5, 2009**
 
-We respect and value your privacy.  This Privacy Policy describes the information we collect from you when you visit our Website (“Website”), how we use that information, and under what circumstances we disclose it.  It will also give you more information about how to manage the personal information that you provide to us through the Website.  This Privacy Policy applies only to information you provide to us on-line while visiting or using our Website.  It does not apply to information we have obtained or may obtain offline through other traditional means.  The Privacy Policy should be read in conjunction with the Terms of Use located on the Website.
+We respect and value your privacy. This Privacy Policy describes the information we collect from you when you visit our websites www.pfchangs.com and www.peiwei.com (collectively, “Websites”) and our restaurants, how we use that information, and under what circumstances we disclose it. It will also give you more information about how to manage the personal information that you provide to us. This Privacy Policy should be read in conjunction with the Terms of Use located on the Websites.
 
-1.                  The Information We Collect.
+**1\. The Information We Collect.**
 
-When you use our Website, we receive and collect certain information.  The information that we receive and collect depends on what you do when you visit our Website.
+When you use our Websites or visit our restaurants, we may receive and collect certain information. The information that we may receive and collect depends on what you do when you visit our Websites or restaurants.
 
-  * Automatically Collected Information.
+> **• Automatically Collected Information.**
+> 
+> Some information is automatically received and sometimes collected from you when you visit our Websites. This information may include some or all of the following items: the name of the domain and host from which you access the Internet, including the Internet Protocol (IP) address of the computer you are using and the IP address of your Internet Service Provider; the type and version of Internet browser software you use and your operating system; the date and time you access our site, the length of your stay and the specific pages, images, video or forms that you access while visiting the site; the Internet address of the website from which you linked directly to our Websites, and if applicable, the search engine that referred you and any search strings or phrases that you entered into the search engine to find this site; and demographic information concerning the country of origin of your computer and the language(s) used by it.
+> 
+> We use this information to monitor the usage of our Websites, assess its performance, ensure technological compatibility with your computer, and understand the relative importance of the information provided on our Websites. We may also use this data to conduct statistical analyses on visitors’ usage patterns and other aggregated data.
+> 
+> **• Information Collected via Cookies.**
+> 
+> “Cookies” are small files or records that are placed on your computer’s hard drive to distinguish you from other visitors to our Websites. The use of cookies is a standard practice among websites to collect or track information about your activities while using our Websites. A cookie may enable the website owner to track how a visitor navigates through its website and the areas in which they show interest. This is similar to a traffic report: it tracks trends and behaviors, but does not identify individuals. Information gathered may include date and time of visits, pages viewed, time spent at the site, and the website visited just before and just after a visit to our Websites.
+> 
+> Cookies can be set to expire: (1) on a specified date; (2) after a specific period of time; (3) when a transaction has been completed; or (4) when a user turns off his/her Internet browser. A cookie that is erased from memory when a visitor’s Internet browser closes is called a “session” cookie. Cookies that expire based on a time set by the Web server are called “persistent” cookies.
+> 
+> Our Websites may use both “session cookies” and “permanent cookies.” Most people do not know that cookies are being placed on their computers when they visit our Websites or most websites because browsers are typically set to accept cookies. You can choose to have your browser warn you every time a cookie is being sent to you or you can turn off cookie placements. If you refuse cookies, there may be parts of our Websites that may not function properly.
+> 
+> **• Information Collected Using Pixel Tags or Clear GIFs.**
+> 
+> Pixel Tags or Clear GIFs, also known as Web Beacons or Web Bugs, are transparent graphical images placed on a website. We do not use these items on our Websites.
+> 
+> **• Information You May Actively Submit Through Our Websites.**
+> 
+> For most of the browsing on our Websites, we neither require nor collect “User Information.” User Information is information that could personally identify you, for example, your name, address, phone number, e-mail address, and credit card information. You can browse our Websites and take as much time as you want to review our services without having to submit such User Information. In the following instances, however, we do need you to actively submit User Information when: (1) you want to contact us via electronic means or website submission; (2) you purchase a gift card or check the balance of a gift card; (3) you utilize online ordering; (4) you utilize online reservations; (5) you enter a contest or sweepstakes; or (6) you join our customer loyalty programs and/or email lists. E-mail or other forms of electronic communication, including website submission, are not secure and/or confidential means of communication.
+> 
+> **• Information You May Actively Submit In Our Restaurants.**
+> 
+> When visiting our restaurants, we only collect “Customer Information” in limited situations. “Customer Information” is information that could personally identify you, for example, your name, address, phone number, and e-mail address. We may collect Customer Information when: (1) you want to fill out customer comment cards; (2) you enter a contest or sweepstakes; or (3) you join our customer loyalty programs and/or email lists.
 
+**2\. Security.**
 
+We strive to maintain internal controls and procedures to ensure that the Information (as defined below) you share with use is handled in a safe, secure and responsible manner. Whether you are making purchases on our Websites or in our restaurants, we have security measures to help protect against loss, unauthorized access and alteration of the of the information in our control. We will only disclose such Information to employees and authorized service providers who require such information for the purposes described in this Policy. Our databases are protected by physical, technical, and procedural measures that restrict access to authorized person in accordance with this Policy. Although no data transmission over the Internet can be guaranteed 100% secure, and we cannot ensure against any loss, misuse, unauthorized disclosure, alteration, or destruction of data, we take reasonable precautions to prevent such unfortunate occurrences. Our information systems are maintained behind a firewall to isolate them from access by other networks connected to the Internet, and access to Information is granted only to employees who need the information to perform a specific job.
 
-Some information is automatically received and sometimes collected from you when you visit our Website.  This information may include some or all of the following items: the name of the domain and host from which you access the Internet, including the Internet Protocol (IP) address of the computer you are using and the IP address of your Internet Service Provider; the type and version of Internet browser software you use and your operating system; the date and time you access our site, the length of your stay and the specific pages, images, video or forms that you access while visiting the site; the Internet address of the website from which you linked directly to our Website, and if applicable, the search engine that referred you and any search strings or phrases that you entered into the search engine to find this site; and demographic information concerning the country of origin of your computer and the language(s) used by it.
+Because your credit card security is a high priority, we have taken numerous steps to ensure your payment information is processed confidentially. Our Websites use is secured during transmission using industry standard e-commerce security technology such as Secure Sockets Layer (SSL) encryption technology. We use SSL technology to prevent such information from being intercepted and read as it is transmitted over the Internet. Once this User Information is received by us and/or our third party processing merchants, it is stored format is masked and/or encrypted. 
 
-We use this information to monitor the usage of our Website, assess its performance, ensure technological compatibility with your computer, and understand the relative importance of the information provided on our Website.  We may also use this data to conduct statistical analyses on visitors’ usage patterns and other aggregated data.
+We understand if you do not feel comfortable sending your credit card information to us over the Internet and are more than happy to accept your payment when you visit us at one of our restaurant locations or via the phone. If you wish to purchase a gift card over the phone, please call us toll free at 1-866-PFCHANG (1-866-732-4264) and indicate that you wish to purchase a gift card without any information being submitted through an Internet website.
 
-·        Information Collected via Cookies.
+**3\. Personal Information About Children.**
 
-“Cookies” are small files or records that are placed on your computer’s hard drive to distinguish you from other visitors to the Website.  The use of cookies is a standard practice among websites to collect or track information about your activities while using the website.  A cookie may enable the website owner to track how a visitor navigates through its website and the areas in which they show interest.  This is similar to a traffic report: it tracks trends and behaviors, but does not identify individuals.  Information gathered may include date and time of visits, pages viewed, time spent at the site, and the website visited just before and just after the Website.
+Our Websites are targeted primarily for use by adults. We do not currently market to or create special areas for use by children. Accordingly, we do not knowingly collect age identifying information, nor do we knowingly collect any personal information from children under the age of 13 years. However, we hereby advise all visitors to our site under the age of 13 not to disclose or provide any personally identifiable information on our Websites. In the event that we discover that a child under the age of 13 has provided personally identifiable information to us, in accordance with the Children’s Online Privacy Protection Act (please see the Federal Trade Commission’s website at [www.ftc.gov/kidzprivacy](http://www.ftc.gov/kidzprivacy) for more information about this Act), we will delete the child’s personally identifiable information from our files to the extent technologically possible.
 
-Cookies can be set to expire: (1) on a specified date; (2) after a specific period of time; (3) when a transaction has been completed; or (4) when a user turns off his/her Internet browser.  A cookie that is erased from memory when a visitor’s Internet browser closes is called a “session” cookie.  Cookies that expire based on a time set by the Web server are called “persistent” cookies.
+**4\. E-Mail Communications.**
 
-The Website may use both “session cookies” and “permanent cookies.”  Most people do not know that cookies are being placed on their computers when they visit the Website or most websites because browsers are typically set to accept cookies.  You can choose to have your browser warn you every time a cookie is being sent to you or you can turn off cookie placements.  If you refuse cookies, you may not be able to browse the Website.
+When you send an email to us, or provide your email address to us, you are communicating with us electronically and consent to receive communication from us electronically. We may retain the content of the email, your email address, and our response in order to service your needs. We may use the data that you provide to send you email or correspondence via other means.
 
-·        Information Collected Using Pixel Tags or Clear GIFs.
+**5\. How We Use and Share User Information and Customer Information.**
 
-Pixel Tags or Clear GIFs, also known as Web Beacons or Web Bugs, are transparent graphical images placed on a website.  PFCCB does not use these items on its Website.
+Our view on using User Information and Customer Information is simple. We do not rent or sell your User Information and Customer Information (collectively, “Information”). We may use your Information that you actively submit to better assist you when you visit or call us again and to send you special offers for our restaurant services that may be of interest to you. We do this by general marketing communications for our services, including by regular mail and e-mail, (collectively, "Marketing Communications"). Unless you "opt-out" through opportunities available to you through our Marketing Communications, we may send you Marketing Communications. You may also "opt-out" of future Marketing Communications by following the instructions provided in this Privacy Policy under Access to and Managing Your User Information.
 
-·        Information You Actively Submit.
+Except where we otherwise obtain your express permission, we share your Information with third parties only under the limited circumstances stated below:
 
-For most of the browsing on our Website, we neither require nor collect “User Information.”  User Information is information that could personally identify you, for example, your name, address(es), phone number(s), e-mail address, and credit card information.  You can browse the Website and take as much time as you want to review our services without having to submit such User Information.  In the following instances, however, we do need you to actively submit User Information: (1) when you want to contact PFCCB via electronic means or website submission or (2) when you purchase a gift card(s) and/or check the balance of a gift card(s) via our Website.  E-mail or other forms of electronic communication, including website submission, are not secure and/or confidential means of communication.
+> a. Information is subject to disclosure in response to judicial or other governmental subpoenas, warrants and court orders served on us in accordance with their terms, as otherwise required by applicable law, or in response to requests by law enforcement;
+> 
+> b. Information is subject to disclosure to protect our rights or property, protect its legitimate business interests, to enforce the provisions of our Privacy Statement and Terms of Use, and/or to prevent harm to you or others;
+> 
+> c. Information may be disclosed to carefully selected third-party service providers in order to provide services to you, such as to fulfill gift card orders (U.S. Postal Service, Canada Post, or other delivery companies we or you select); provide customer service; send or email Marketing Communications; maintain our customer loyalty program and database and other programs; monitor the activity of our Websites; conduct surveys; and administer contests or sweepstakes. We will share your Information with our carefully selected third-party services providers on a confidential basis. These service providers are prohibited from using your Information for any purpose other than providing our services.
+> 
+> d. Information may be disclosed to process credit card transactions. In this case these transactions are handled by established third party banking, processing agents and distribution institutions. They receive the information needed to verify and authorize your credit card or other payment information and to process your order. In addition, we may disclose Information to third parties to verify the authenticity of any financial transaction involving our company or its subsidiaries. 
+> 
+> e. Information may be disclosed and transferred if our company or its business is sold or offered for sale to another company or person(s), if a petition for relief under the United States Bankruptcy Laws is filed by or against us, or if we become subject to an order of appointment of a trustee or receiver.
 
-While PFCCB attempts to prevent unauthorized access to your User Information, or other information you submit, such access may occur.  The User Information and credit card information you provide to make purchases from us is secured during transmission using industry standard e-commerce security technology such as Secure Sockets Layer (SSL) encryption technology.  We use SSL technology to prevent such information from being intercepted and read as it is transmitted over the Internet.  Once this User Information is received by PFCCB and/or its third party processing merchants, it is stored in unencrypted format.
+**6\. Linking to Third-Party Websites.**
 
-We understand if you do not feel comfortable sending your credit card information to us over the Internet and are more than happy to accept your payment when you visit us at one of our restaurant locations or via the phone.  If you wish to purchase a gift card over the phone, please call us at (480) 888-3100 and indicate that you wish to purchase a gift card without any information being submitted through an Internet website.
+When you click on links on our Websites that take you to third-party websites, you will be subject to the third parties’ privacy policies. While we support the protection of privacy on the Internet, we cannot be responsible for the actions of any third-party websites. We encourage you to read the posted privacy statement of any and every website you visit, whether you are linking from our Websites or browsing on your own.
 
-2.                  Personal Information About Children.
+**7\. Access to and Managing Your Information.**
 
-The Website is targeted primarily for use by adults.  We do not currently market to or create special areas for use by children.  Accordingly, we do not knowingly collect age identifying information, nor do we knowingly collect any personal information from children under the age of 13 years.  However, we hereby advise all visitors to our site under the age of 13 not to disclose or provide any personally identifiable information on our website.  In the event that we discover that a child under the age of 13 has provided personally identifiable information to us, in accordance with the Children’s Online Privacy Protection Act (please see the Federal Trade Commission’s website at [www.ftc.gov/kidzprivacy](http://www.ftc.gov/kidzprivacy) for more information about this Act), we will delete the child’s personally identifiable information from our files to the extent technologically possible.
+We believe it is important for you to be able to find out what Information you have provided to us through our Websites, update your Information, and “opt out” of receiving future Marketing Communications. 
 
-3.                  E-Mail Communications.
+To inquire about your Information, update your Information, or “opt” out of receiving future Marketing Communications, please do one of the following: 
 
-When you send an e-mail to us, or provide your e-mail address to us, you are communicating with us electronically and consent to receive communication from us electronically.  We may retain the content of the e-mail, your e-mail address, and our response in order to service your needs.  We may use the data that you provide to send you e-mail or correspondence via other means.
+> a. Send an e-mail with your request and current contact information to Privacy@pfcb.com;
+> 
+> b. Call us toll free at 1-866-PFCHANG (1-866-732-4264); 
+> 
+> c. Send us a fax with your request and current contact information at (480) 888-3701; or
+> 
+> d. Send a request in writing with your current contact information to:
+> 
+>  **P.F. Chang’s China Bistro, Inc.**  
+>  Attn: Marketing Department  
+>  7676 East Pinnacle Peak Road  
+>  Scottsdale, AZ 85255  
+> 
+> 
+>   
+> 
 
-If you no longer wish to receive marketing e-mail from PFCCB, you may unsubscribe by doing any one of the following actions:
+If you send an e-mail or letter request, please be sure to include your full name, address, phone number and e-mail address and indicate the specific nature of your request. If you want to “opt in” or “opt out” of receiving Marketing Communications, specifically what type of Marketing Communication (e.g., e-mail or direct mail) you wish to receive or stop receiving. This will ensure we identify you correctly in our systems and accurately process your request. We will take appropriate steps to implement your request, but due to production, mailing and system timelines, it may take up to: 10 business days for e-mails or 30 calendar days for mail. Until that change takes effect, you may still receive or not receive Marketing Communications from us.
 
-a.      Send an e-mail with your request and current contact information to [Privacy@pfcb.com](mailto:Privacy@pfcb.com);
+Also, please note that even though you may have “opted out” of receiving Marketing Communications, you may still receive business-related communications. Please be aware that “opting-out” of certain third party use may prevent us from providing certain services that you request.
 
-b.      Send us a fax with your request and current contact information at (480) 888-3701; or
+**8\. What You Need to Do to Protect Your Information.**
 
-c.      Send a request in writing with your current contact information to:
+You have several options when deciding how you can best protect your Information. One option is simply not to volunteer it. As stated above, this approach would allow you to still visit our Websites and restaurants – although it will prevent you, for example, from ordering gift cards on-line, providing us with your comments or questions relating to our restaurants, or utilizing online ordering and reservations. The Federal Trade Commission’s website, [www.ftc.gov](http://www.ftc.gov/), also offers useful information about how to protect personally identifiable information provided to a website.
 
-P.F. Chang’s China Bistro, Inc. and Pei Wei Asian Diner
+**9\. What to Do About Suspected Violations of This Privacy Statement.**
 
-Attn: Marketing Department
+If at any time you believe we have not adhered to the policies and principles set forth in this Privacy Statement, please notify us using the contact information provided below. We will make all commercially reasonable efforts to promptly respond to your concerns.
 
-7676 East Pinnacle Peak Road
+**10\. Changes to Privacy Policies.**
 
-Scottsdale, AZ  85255
+Our Privacy Policy is subject to change from time to time, so we suggest that you review the current Privacy Policy at the start of each visit our Websites. Unless we clearly express otherwise, we will use Information in accordance with the Privacy Policy under which the Information was collected. YOU ARE HEREBY ADVISED THAT YOUR CONTINUED USE OF OUR WEBSITE CONSTITUTES YOUR ACCEPTANCE OF ANY AMENDMENTS TO AND THE MOST RECENT VERSION OF THIS PRIVACY STATEMENT. 
 
-If you send an e-mail or letter request, please be sure to include your full name, address, phone number and e-mail address and indicate specifically what type of marketing communication(s) (e.g., e-mail, direct mail, and/or phone) you wish to receive or stop receiving.  This will ensure we identify you correctly in our systems and accurately process your request.
-
-PFCCB will take appropriate steps to implement your request to opt-out of receiving marketing communications.  Please note that due to production, mailing and system timelines, in order to remove you from our marketing lists, it may take up to: 10 business days for e-mails or 30 calendar days for mail or fax.  Until that change takes effect, you may still receive marketing communications from us.
-
-Also, please note that even though you may have opted-out of receiving marketing communications, you may still receive business-related communications.  Please be aware that opting-out of certain third party use may prevent us from providing certain services or products that you request.
-
-4.                  How We Use and Share User Information.
-
-Our view on using User Information is simple.  We do not sell or share User Information to third parties outside of PFCCB and its subsidiaries.  Except where we otherwise obtain your express permission, we share your personally identifiable information with third parties only under the limited circumstances stated below:
-
-a.      User Information is subject to disclosure in response to judicial or other governmental subpoenas, warrants and court orders served on PFCCB in accordance with their terms, as otherwise required by applicable law, or in response to requests by law enforcement;
-
-b.      User Information is subject to disclosure to protect PFCCB’s rights or property, protect its legitimate business interests, to enforce the provisions of our Privacy Statement and Terms of Use, and/or to prevent harm to you or others;
-
-c.      User Information may be disclosed to carefully selected third-party service providers in order to provide services to you, such as to fulfill gift card orders (U.S. Postal Service, Canada Post, or other delivery companies we or you select); provide customer service; send marketing communications; maintain our customer loyalty program and other programs; monitor Website activity; conduct surveys; maintain our customer database; send regular mail and e-mail; and administer drawings and/or contests. We will share your User Information with our carefully selected third-party services providers on a confidential basis. These service providers are prohibited from using your User Information for any purpose other than providing PFCCB services.
-
-d.      User Information may be disclosed to process credit card transactions.  In this case these transactions are handled by established third party banking, processing agents and distribution institutions.  They receive the information needed to verify and authorize your credit card or other payment information and to process your order.  In addition, PFCCB may disclose User Information to third parties to verify the authenticity of any financial transaction involving PFCCB or its subsidiaries.
-
-e.      User Information may be disclosed and transferred if PFCCB or its business is sold or offered for sale to another company or person(s), if a petition for relief under the United States Bankruptcy Laws is filed by or against PFCCB, or if PFCCB becomes subject to an order of appointment of a trustee or receiver. 
-
-5.                  Linking to Third-Party Websites.
-
-When you click on links on our Website that take you to third-party websites, you will be subject to the third parties’ privacy policies.  While we support the protection of privacy on the Internet, PFCCB cannot be responsible for the actions of any third-party websites.  We encourage you to read the posted privacy statement of any and every website you visit, whether you are linking from the Website or browsing on your own.
-
-6.                  Access to and Managing Your User Information.
-
-We believe it is important for you to be able to find out what personally identifiable information you have provided to us through the Website.  If you have provided us with personally identifiable information, you can contact us to request that we provide you with the personally identifiable information we have in our records about you.  We reserve the right to limit the number of times such a request can be made and to charge you for responding to such requests if this process is misused or abused.
-
-We know you want the personally identifiable information we have on record about you to be as complete and accurate as possible.  We feel the same way.  If you become aware that personally identifiable information or sensitive information you may have provided that we have in our records about you is inaccurate, incomplete, or incompatible with the purposes for which it was provided or subsequently authorized by you, please notify us using the contact information provided below.  To inquire about your personally identifiable or sensitive information, and to correct, amend, or delete such information please:
-
-a.      Send us a fax with your request and current contact information at (480) 888-3701; or
-
-b.      Send a request in writing with your current contact information to:
-
-P.F. Chang’s China Bistro, Inc. and Pei Wei Asian Diner
-
-Attn: Marketing Department
-
-7676 East Pinnacle Peak Road
-
-Scottsdale, AZ  85255
-
-7.                  What You Need to Do to Protect Your Personally Identifiable Information.
-
-You have several options when deciding how you can best protect your User Information.  One option is simply not to volunteer it.  As stated above, this approach would allow you to still visit our website – although it will prevent you, for example, from ordering gift cards on-line or providing us with your comments or questions relating to our restaurants.  The Federal Trade Commission’s website, [www.ftc.gov](http://www.ftc.gov/), also offers useful information about how to protect personally identifiable information provided to a website.
-
-8.                  What to Do About Suspected Violations of This Privacy Statement.
-
-If at any time you believe PFCCB has not adhered to the policies and principles set forth in this Privacy Statement, please notify us using the contact information provided below.  We will make all commercially reasonable efforts to promptly respond to your concerns.
-
-9.                  Changes to Privacy Policies.
-
-Our Privacy Policy is subject to change from time to time, so we suggest that you review the current Privacy Policy at the start of each visit to the Website.  Unless we clearly express otherwise, we will use information in accordance with the Privacy Policy under which the information was collected.  YOU ARE HEREBY ADVISED THAT YOUR CONTINUED USE OF OUR WEBSITE CONSTITUTES YOUR ACCEPTANCE OF ANY AMENDMENTS TO AND THE MOST RECENT VERSION OF THIS PRIVACY STATEMENT.
-
-10.             Questions or Comments.
+**11\. Questions or Comments.**
 
 If you have any questions or comments concerning our Privacy Policy, please contact us:
 
-a.      Send an e-mail with your request and current contact information to [Privacy@pfcb.com](mailto:Privacy@pfcb.com);
-
-b.      Send us a fax with your request and current contact information at (480) 888-3701; or
-
-c.      Send a request in writing with your current contact information to:
-
-P.F. Chang’s China Bistro, Inc. and Pei Wei Asian Diner
-
-Attn: Marketing Department
-
-7676 East Pinnacle Peak Road
-
-Scottsdale, AZ  85255
+> a. Send an email with your request and current contact information to Privacy@pfcb.com;
+> 
+> b. Call out toll free number at 1-866-PFCHANG (1-866-732-4264).
+> 
+> c. Send us a fax with your request and current contact information at (480) 888-3701; or
+> 
+> d. Send a request in writing with your current contact information to:
+> 
+> P.F. Chang’s China Bistro, Inc.   
+>  Attn: Marketing Department  
+>  7676 East Pinnacle Peak Road  
+>  Scottsdale, AZ 85255
