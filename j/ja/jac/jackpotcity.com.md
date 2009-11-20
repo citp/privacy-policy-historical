@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jackpotcity.com privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526022509id_/http%3A//www.jackpotcity.com/casino-security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackpotcity.com privacy policy that was archived on 2009-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091120140513id_/http%3A//www.jackpotcity.com/casino-security.aspx) for the most accurate reproduction.*
 
 # JackpotCity.com Online Casino – Security and Privacy
 
