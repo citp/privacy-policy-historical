@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portlandgeneral.com privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522192350id_/http%3A//www.portlandgeneral.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portlandgeneral.com privacy policy that was archived on 2009-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091120185741id_/http%3A//www.portlandgeneral.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Portland General Electric: Privacy Policy and Security | PGE
 
@@ -17,11 +17,9 @@ We value our customer relationships and recognize that when you provide personal
 
 
 
-This privacy policy was revised April 6, 2009.
+[](http://www.truste.org/ivalidate.php?url=www.portlandgeneral.com&sealid=101 "This link opens a new browser window to the TRUSTe licensee validation Web site.") PGE is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, nonprofit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site www.portlandgeneral.com. Because we want to demonstrate our commitment to our users’ privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe.
 
-[](http://www.truste.org/ivalidate.php?url=www.portlandgeneral.com&sealid=101 "This link opens a new browser window to the TRUSTe licensee validation page.") PGE is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, nonprofit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site www.portlandgeneral.com. Because we want to demonstrate our commitment to our users’ privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe.
-
-If users have questions or concerns regarding this statement, you should first contact PGE by [e-mail](mailto:customer.service@pgn.com "e-mail"). If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process](http://www.truste.org/consumers/watchdog_complaint.php "This link opens a new Web browser to the TRUSTe Watchdog Dispute Resolution Process"). TRUSTe will serve as a liaison with the Web site to resolve users’ concerns.
+If users have questions or concerns regarding this statement, you should first contact PGE by [e-mail](mailto:customer.service@pgn.com "e-mail"). If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process](http://www.truste.org/consumers/watchdog_complaint.php "This link opens a new browser window to the TRUSTe Watchdog Dispute Resolution Process Web site."). TRUSTe will serve as a liaison with the Web site to resolve users’ concerns.
 
 What personal information do we collect?  
 As a visitor to this Web site, your identity will remain anonymous unless you register for online account services, enter a sweepstakes or enroll in a program. In such cases you will be notified that personal information, such as your name, address, phone number and e-mail address, is required. We may use this information, along with third party sources, to provide information based on your preferences. We may tie personally identifiable information to your profile to improve the Web site content available to you and to provide e-mail messages suited to your needs and interests. See “Other e-mail communications” below for opt-out instructions.
@@ -48,27 +46,30 @@ We send registered customers e-mails related to their PGE electric service and t
 
 Other e-mail communications: By registering for a PGE online account, you agree to receive the following types of e-mail communications: a monthly newsletter, alerts, surveys and occasional promotions such as energy savings offers. You may opt-out of specific types of e-mail communications at any time using the link provided in each e-mail: “Unsubscribe | Manage/update your e-mail preferences?”
 
-Participants in PGE programs and sweepstakes may receive occasional e-mail communications about them. You may opt-out of these communications at any time using the link provided in each e-mail: “Unsubscribe | Manage/update your e-mail preferences?” Back to top
+Participants in PGE programs and sweepstakes may receive occasional e-mail communications about them. You may opt-out of these communications at any time using the link provided in each e-mail: “Unsubscribe | Manage/update your e-mail preferences?”
+
+Back to top
 
 How do we use cookies?  
-A cookie is a small text file stored on your computer by a Web site to give you a unique ID. A cookie generated by our site contains no information about you. It only contains a numeric ID and is not linked to personally identifiable information. PGE uses cookies to:
+A cookie is a small text file stored on your computer by a Web site to give you a unique numeric ID. PGE does not track any personal information through the use of cookies. PGE uses cookies to: 
 
   * Indicate whether you are signed in as a registered user of the Web site. 
   * Enhance your privacy and security while doing business with PGE. If you step away from your computer or don’t sign out, you will be signed out automatically after 10 idle minutes. 
   * Ensure your Web experience will not be disrupted if a load-balancing server is down or busy.
+  * Activate the “Remember me” feature. If you check this box when logging into your account, it stores your e-mail address on your computer so the information is provided automatically when you log in.
 
 
 
 In addition, PGE has hired third-parties that use cookies on our site. We have no access to or control over these third-party cookies.
 
-A survey vendor uses these cookies to conduct visitor surveys:
+A survey vendor uses these cookies to conduct visitor surveys: 
 
   * A session-level cookie placed on survey respondents’ browsers tracks how many pages a particular visitor has passed over. Session-level cookies are automatically deleted at the end of a session. This technique ensures that a visitor has sufficiently browsed the site in order to adequately answer the survey and prevents anyone from getting a survey more than once in a single session.
   * A persistent cookie tracks whether a particular respondent has seen the PGE Web site survey, so that person won't be bothered with it again. No personal information is tracked with this persistent cookie, nor are visitors tracked once they have left the PGE Web site.
 
 
 
-Another third-party vendor uses cookies for the following functions in our Investor Relations section:
+Another third-party vendor uses cookies for the following functions in our Investor Relations section: 
 
   * The session cookie determines the last visit date, which changes the content on the “What’s New” page.
   * The identity cookie represents a user who has entered personal information and has clicked the “remember me” option. The cookie contains the user’s first name, last name and investor type. This cookie improves server performance by minimizing database look ups for pages that display “Welcome John Smith.” These cookies are tied to personally identifiable information.
@@ -107,4 +108,6 @@ We welcome your questions and comments regarding this policy. [E-mail](mailto:cu
 Back to top
 
 Notification of changes  
-The privacy policy was effective as of Jan. 10, 2003, and last updated April 6, 2009. Due to the rapidly evolving technologies on the Internet, this policy may be updated. All revisions will be posted to this site. If, in the unlikely event we are going to use users’ personally identifiable information in a manner substantially different from that stated at the time of collection we will notify users by posting a notice on our Web site for 30 days before the new use takes effect.
+The privacy policy was effective as of Jan. 10, 2003, and last updated Oct. 6, 2009. Due to the rapidly evolving technologies on the Internet, this policy may be updated. All revisions will be posted to this site. If, in the unlikely event we are going to use users’ personally identifiable information in a manner substantially different from that stated at the time of collection we will notify users by posting a notice on our Web site for 30 days before the new use takes effect.
+
+Back to top
