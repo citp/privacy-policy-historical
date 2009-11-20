@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the catchmyparty.com privacy policy that was archived on 2009-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090129142316id_/http%3A//catchmyparty.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catchmyparty.com privacy policy that was archived on 2009-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091121003237id_/http%3A//catchmyparty.com/privacy) for the most accurate reproduction.*
 
-# Catch My Party
+# Catch My Party - Privacy Policy
 
-Catch My Party makes available this Privacy Policy so users can understand our policies and procedures with regard to collecting, using, and disclosing of personally identifiable information received from catchmyparty.com. We will update this Privacy Policy from time to time so please consult it regularly for any changes. 
+## Privacy Policy
+
+Catch My Party makes this Privacy Policy available so users can understand our policies and procedures with regard to collecting, using, and disclosing of personally identifiable information received at catchmyparty.com. We will update this Privacy Policy from time to time so please consult it regularly for any changes. 
 
 By using catchmyparty.com you are consenting to how we process information. “Processing” refers to using cookies on a computer or using or information in any way including collecting, storing, deleting, using, combining, and disclosing. All of these activities will take place in the United States. If you reside outside the United States, your information will be transferred and stored in the US under US privacy standards and you are consenting to this by using our site. 
 
@@ -24,7 +26,7 @@ We use certain third parties to perform functions and provide services to us lik
 
 Catch My Party cooperates with government and law enforcement officials or private parties to enforce and comply with the law. We may disclose any information about you to government officials or private parties as we believe necessary to respond to claims, legal process, to protect the property and rights of Catch My Party or a third party, the safety of the public or any person, to prevent or stop any illegal, or legally actionable activity or to comply with the law. 
 
-Catch My Party may sell, transfer, or otherwise share some or all of its assets, including your personally identifiable information in connection with a sale, merger, reorganization or sale of assets or in the event of bankruptcy. You will have the opportunity to opt out of any such transfer if the new entity’s planned processing of your information differs from that set forth in this Privacy Policy. 
+Catch My Party may sell, transfer, or otherwise share some or all of its assets, including your personally identifiable information in connection with a sale, merger, reorganization or sale of assets or in the event of bankruptcy. 
 
 If you are a registered user of the site, you may access or update your information by emailing us at [privacy@catchmyparty.com](mailto:privacy@catchmyparty.com). 
 
@@ -34,4 +36,4 @@ We will disclose to you any breach of security, confidentiality or integrity of 
 
 Catch My Party contains links to other websites. We do not endorse websites we link to nor does this mean we are affiliated with them. We do not exercise control over third party websites. These other websites may place their cookies or other files on your computer, collect data, or solicit personally identifiable information from you. Other sites follow different rules regarding the use or disclosure of your personally identifiable information. We encourage you to read the privacy policy to familiarize yourself with their practices. 
 
-Catch My Party is not directed at people under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us at [privacy@catchmyparty.com](mailto:privacy@catchmyparty.com). We do not knowingly collect personally identifiable information from children under the age of 13. If we become aware that a child under 13 has provided us with personal information, we will delete the information from our files. 
+Catch My Party is not directed at people under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us at: [privacy@catchmyparty.com](mailto:privacy@catchmyparty.com). We do not knowingly collect personally identifiable information from children under the age of 13. If we become aware that a child under 13 has provided us with personal information, we will delete the information from our files. 
