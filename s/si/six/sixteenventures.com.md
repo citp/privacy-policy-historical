@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sixteenventures.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503073308id_/http%3A//sixteenventures.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixteenventures.com privacy policy that was archived on 2009-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091120083041id_/http%3A//sixteenventures.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Sixteen Ventures
+# Privacy Policy | SaaS Business Architecture & Revenue Modeling | Sixteen Ventures
 
 This is the web site of **Sixteen Ventures**.
 
