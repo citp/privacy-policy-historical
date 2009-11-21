@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rekkerd.org privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522102220id_/http%3A//rekkerd.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rekkerd.org privacy policy that was archived on 2009-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091121194302id_/http%3A//rekkerd.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for rekkerd.org at rekkerd.org
 
