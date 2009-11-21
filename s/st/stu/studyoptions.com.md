@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studyoptions.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625174905id_/http%3A//www.studyoptions.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studyoptions.com privacy policy that was archived on 2009-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091121213853id_/http%3A//www.studyoptions.com/privacy) for the most accurate reproduction.*
 
 # Study Options: Privacy Policy
 
@@ -54,4 +54,4 @@ Our website may contain links to other websites which are outside our control an
 
 **Comments or questions**
 
-Please send any comments or questions relating to this privacy policy to Stefan Watts, Director, at [info@studyoptions.com](mailto:info@studyoptions.com). 
+Please send any comments or questions relating to this privacy policy to Stefan Watts, Director, at . 
