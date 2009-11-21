@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unilever.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604033104id_/http%3A//unilever.com/resource/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unilever.com privacy policy that was archived on 2009-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091121035242id_/http%3A//www.unilever.com/resource/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | Information | Unilever Global
 
 The information which we collect and store during normal use of the site is used to monitor use of the site and to help its further development. Such use does not result in any personally identifiable data being collected or stored.
 
