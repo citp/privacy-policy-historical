@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the encyclo.co.uk privacy policy that was archived on 2009-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090519004900id_/http%3A//www.encyclo.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the encyclo.co.uk privacy policy that was archived on 2009-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091121214101id_/http%3A//www.encyclo.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Encyclo - English definitions collated
 
