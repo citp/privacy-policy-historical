@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geckoandfly.com privacy policy that was archived on 2009-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090520142604id_/http%3A//www.geckoandfly.com/make-money-online/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geckoandfly.com privacy policy that was archived on 2009-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091121021331id_/http%3A//www.geckoandfly.com/make-money-online/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GeckoandFly Make Money Online
 
@@ -22,7 +22,7 @@ www.geckoandfly.com does use cookies to store information about visitors prefere
 
   * Google, as a third party vendor, uses cookies to serve ads on your site.
   * Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
 
 
