@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adjuggler.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618191944id_/http%3A//www.adjuggler.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adjuggler.com privacy policy that was archived on 2009-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091121082328id_/http%3A//www.adjuggler.com/privacy-policy.php) for the most accurate reproduction.*
 
-# AdJuggler | Ad Serving & Management
+# Privacy Policy | Ad Juggler - Ad Serving & Management
 
-AdJuggler, Inc. ("AdJuggler") is an application service and managed hosting provider, based in Alexandria, VA. The Company currently provides two primary application services. Its ad serving services deliver Internet advertisements to end-users on behalf of Internet portals and publishers, while its collaborative intranet service provides consumers and enterprise employees with email, calendaring, discussion threads, and remote document management.
+AdJuggler, Inc. ("AdJuggler") is an application service and managed hosting provider, based in Alexandria, VA. The Company currently provides two primary application services. Its ad serving services deliver Internet advertisements to end-users on behalf of Internet portals and publishers, while its collaborative intranet service provides consumers and enterprise employees with email, calendaring, discussion threads, and remote document management. 
 
 AdJuggler's privacy policy addresses our use, storage, security, and dissemination of information collected from or provided by individual users and consumers.
 
@@ -20,10 +20,4 @@ To ask any questions about this Privacy Statement, our services, or the practice
 AdJuggler, Inc.  
 5440 Cherokee Avenue  
 Alexandria, VA 22312  
-Send e-Mail to Privacy Contact
-
-To opt-out of AdJuggler cookies click the following button:
-
-| 
-
-Its never been faster or easier to get started with AdJuggler! Please fill out the form below to set up a free demo of AdJuggler.
+Send e-Mail to Privacy Contact 
