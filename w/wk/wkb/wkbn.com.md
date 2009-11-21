@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wkbn.com privacy policy that was archived on 2009-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090519194357id_/http%3A//www.wkbn.com/Protected/NewVision/legal/koin_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wkbn.com privacy policy that was archived on 2009-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091121021110id_/http%3A//www.wkbn.com/Protected/NewVision/legal/koin_privacy.html) for the most accurate reproduction.*
 
 # 
 
