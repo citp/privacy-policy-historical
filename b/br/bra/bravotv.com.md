@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bravotv.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619230436id_/http%3A//www.bravotv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bravotv.com privacy policy that was archived on 2009-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091122000349id_/http%3A//www.bravotv.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Bravo TV Official Site
+# Privacy Policy | Bravo TV Official Site
 
 This Privacy Policy was last updated on March 15, 2007.
 
