@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the discountlocks.co.uk privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626222932id_/http%3A//www.discountlocks.co.uk/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountlocks.co.uk privacy policy that was archived on 2009-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091121124749id_/http%3A//www.discountlocks.co.uk/terms_privacy.asp) for the most accurate reproduction.*
 
-# Locks | Door Locks | Padlocks | Multipoint Locks | Yale Chubb ERA Legge | Window Locks, Patio Door Locks, Euro Cylinder Locks, shutter locks, rim locks, mortice locks and Van Locks
+# Locks | Door Locks | Padlocks | Window Locks | Yale Chubb ERA Legge UNION | Multipoint Locks and Patio Door Locks with Euro Cylinders Locks.
 
 **Privacy Policy**
 
@@ -65,7 +65,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20090626222932id_/http%3A//www.discountlocks.co.uk/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20091121124749id_/http%3A//www.discountlocks.co.uk/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
