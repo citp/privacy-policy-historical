@@ -1,336 +1,269 @@
-<!--The following is the downloaded HTML source of the best-price.com privacy policy that was archived on 2009-04-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090422153906id_/http%3A//www.best-price.com/service/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the best-price.com privacy policy that was archived on 2009-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091121134240id_/http%3A//www.best-price.com/service/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://gmpg.org/xfn/11">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>best-price.com</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+		<title>Price comparison and reviews at best-price.com</title>				<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="copyright" content="copyright(c)2009 best-price.com, best-price.com">
 <meta name="author" content="best-price.com">
-<!-- START GOOGLE SITEMAP TAG -->
-<meta name="verify-v1" content="NLwz8j4gOi/9xJKyzwtB0PglyiWsu81mh2Wp9y7RFdY=">
-<meta name="copyright" content="copyright(c)2007 best-price.com, best-price.com">
-<meta name="rating" content="General">
-<meta name="language" content="de_DE">
-<meta name="revisit-after" content="3 days">
-<meta name="Classification" content="Computer">
-<link rel="shortcut icon" href="http://www.best-price.com/favicon.ico" type="image/x-icon">
-<link rel="icon" href="http://www.best-price.com/favicon.ico" type="image/ico">
-<link rel="stylesheet" type="text/css" href="http://www.best-price.com/css/screen.css" media="all">
-<!--[if lte IE 7]>
-<link type="text/css" rel="stylesheet" href="http://www.best-price.com/css/iehacks.css" />
-<![endif]-->
-<script type="text/javascript" src="http://www.best-price.com/js/prototype.js"></script>
-<script type="text/javascript" src="http://www.best-price.com/js/scriptaculous/scriptaculous.js"></script>
-<script type="text/javascript" src="http://www.best-price.com/js/prototip.js"></script>
-<script type="text/javascript" src="http://www.best-price.com/js/attitude.js"></script>
-<script type="text/javascript" src="http://www.best-price.com/js/travel.js"></script>
-<script type="text/javascript" src="http://www.best-price.com/js/Behavior_Category.js"></script>
-<script type="text/javascript" src="http://www.best-price.com/js/moveca.js"></script>
-<script type="text/javascript">
-
-var LANGUAGE = 'ENGLISH';
-
-var HOME_URL = 'http://www.best-price.com/';
-var AJAX_URL = 'http://www.best-price.com/ajax/';
-
-var CONTROLLER = 'service';
-var ACTION = 'privacy';
-
-
+<meta name="verify-v1" content="0QiG4+YGfZKrTd0vSFF91rnz5wyW1zxdHvhPTStRTM8=">		<link href="/module/price/css/global.css__219" media="screen" rel="stylesheet" type="text/css">						<script type="text/javascript">
+    //<![CDATA[
+    var BASE_URL = '/';
+    //]]>
 </script>
-<script type="text/javascript">
-
-startTime = (new Date).getTime();
-
-/**
- *
- *
- */
-function buildClickUrl(adtype, params)
-{
-    var e;
-    try {
-        var controllerAction = '/eventcontroller/' + CONTROLLER + '/eventaction/' + ACTION;
-    } catch (e) {
-        var controllerAction = '';
-    }
-    
-    var url = 'http://www.best-price.com/track/' + adtype;// + ((id > 0) ? '/id/'+id: '') + controllerAction;
-    var a   = {kaid: '', axkid: '', googleChannel: '', placeID: ''}, key; //adid: '', altk: '', 
-    
-    if (params && (Object.isString(params) || Object.isNumber(params) || params === true)) {
-        a.id = params;
-    }
-    else if (params) {
-        for (key in params) {
-            a[key] = params[key]
-        }
-    }
-    
-    for (key in a) {
-        if (a[key]) {
-            url += '/' + key + '/' + a[key]; // + ((key == 'googleChannel' && !id) ? '_adsense': '');
-        }
-    }
-    
-    url += controllerAction + '?nocache=' + (new Date).getTime() + '' + Math.random(); //alert(url);
-    
-    return url;
-}
-    
-/**
- *
- *
- */
-function adClick(adtype, params, evt)
-{
-    if (!evt && Prototype.Browser.IE) {
-        evt = event;
-    }
-    //alert('event: ' + evt + ', ilc' + evt.isLeftClick + ', ' + Event.isLeftClick(evt));
-    if ($('adClickIframe') == undefined || (evt && !Event.isLeftClick(evt))) {
-        return;
-    }
-    
-    $('adClickIframe').src = buildClickUrl(adtype, params);
-    
-    return true;
-}
-
-/**
- *
- *
- */
-function clickTracker(adtype)
-{
-    if ($('ClickTrackerIframe') == undefined) {
-        return;
-    }
-    $('ClickTrackerIframe').src = 'http://www.best-price.com/' + 'clicktracker/' + adtype;
-    return true;
-}
-
-</script>    
-<script type="text/javascript">
-    gaUrl = 'http://www.google-analytics.com/ga.js';
-    if (document.location.protocol == 'https') {
-        gaUrl = 'https://ssl.google-analytics.com/ga.js';
-    }
-    document.write(unescape("%3Cscript src='" + gaUrl + "'type='text/javascript'%3E%3C/script%3E"));
-</script><script src="http://www.google-analytics.com/ga.js" type="text/javascript"></script>
-</head>
-<body>
-<div id="gbl" style="margin-top:5px;">
-<div id="head">
-<div>
-<div class="loginbox">
-<div class="tp">
-<a href="http://www.best-price.com/register">Sign up</a> | 
-<a href="http://www.best-price.com/login">Login</a> |
-<a href="http://www.best-price.com/membercenter">Member Center</a>
-| <a href="http://www.best-price.com/service/faq">Help</a>			</div>
-</div>
-</div>
-<div style="margin-bottom:2px;">
-<a href="http://www.best-price.com/"><img src="http://www.best-price.com/img/lgo/best-price.com.gif" alt=""></a>
-</div>
-<div id="menu">
-<div id="navi" style="float:left;">
-<ul class="clearfix" style="text-decoration:none;">
-<li class="first">
-<a href="http://www.best-price.com/">Home</a>
-</li>
-<li>
-<a href="http://www.best-price.com/category/index/id/22000000">Automotive</a>
-</li>
-<li>
-<a href="http://www.best-price.com/category/index/id/11000000">Electronics</a>
-</li>
-<li>
-<a href="http://www.best-price.com/category/index/id/4">Computers</a>
-</li>
-<li>
-<a href="http://www.best-price.com/category/index/id/13000000">Home &amp; Garden</a>
-</li>
-<li>
-<a href="http://www.best-price.com/category/index/id/10000000">Fashion</a>
-</li>
-<li>
-<a href="http://www.best-price.com/category/index/id/17000000">Kids &amp; Family</a>
-</li>
-<li>
-<a href="http://www.best-price.com/category/index/id/50">Health &amp; Beauty</a>
-</li>
-<li>
-<a href="http://www.best-price.com/travel/">Travel</a>
-</li>
-<li>
-<a href="http://www.best-price.com/category">More</a>
-</li>
-<li>
-<a href="#" onclick="Effect.toggle('toggle_appear', 'slide', { duration: 1.0 }); return false;">Community</a>
-</li>
+<script type="text/javascript" src="/module/price/js/base.js__219"></script>	</head>
+	<body>
+		<div id="blind"></div>
+		<div id="wrapper_full">
+			<div class="oh">
+	<a id="logo_link" href="/"></a>
+	<a id="all_dep" href="/">All Departments</a>
+<ul id="all_cats">
+						<li>
+				<a href="/category/clothing/12/1/1/">Clothing</a>
+			</li>
+								<li>
+				<a href="/category/computers/1/1/1/">Computers</a>
+			</li>
+								<li>
+				<a href="/category/electronics/2/1/1/">Electronics</a>
+			</li>
+								<li>
+				<a href="/category/indoor-living/30/1/1/">Indoor Living</a>
+			</li>
+								<li>
+				<a href="/category/cameras/11/1/1/">Cameras</a>
+			</li>
+								<li>
+				<a href="/category/appliances/27/1/1/">Appliances</a>
+			</li>
+								<li>
+				<a href="/category/toys/8/1/1/">Toys</a>
+			</li>
+								<li>
+				<a href="/category/sporting-goods/18/1/1/">Sporting Goods</a>
+			</li>
+								<li>
+				<a href="/category/jewelry-watches/10/1/1/">Jewelry &amp; Watches</a>
+			</li>
+								<li>
+				<a href="/category/babies-kids/14/1/1/">Babies &amp; Kids</a>
+			</li>
+								<li>
+				<a href="/category/health-beauty/16/1/1/">Health &amp; Beauty</a>
+			</li>
+								<li>
+				<a href="/category/furniture/29/1/1/">Furniture</a>
+			</li>
+								<li>
+				<a href="/category/auto-parts/26/1/1/">Auto Parts</a>
+			</li>
+								<li>
+				<a href="/category/software/6/1/1/">Software</a>
+			</li>
+								<li>
+				<a href="/category/musical-instruments/19/1/1/">Musical Instruments</a>
+			</li>
+								<li>
+				<a href="/category/video-games/3/1/1/">Video Games</a>
+			</li>
+								<li>
+				<a href="/category/outdoor-living/28/1/1/">Outdoor Living</a>
+			</li>
+								<li>
+				<a href="/category/grocery-gourmet/17/1/1/">Grocery &amp; Gourmet</a>
+			</li>
+								<li>
+				<a href="/category/office/9/1/1/">Office</a>
+			</li>
+								<li>
+				<a href="/category/flowers-gifts/48/1/1/">Flowers &amp; Gifts</a>
+			</li>
+								<li>
+				<a href="/category/industrial-supply/47/1/1/">Industrial Supply</a>
+			</li>
+			 
 </ul>
-</div>
-<span style="font-size:14px #000; font-weight:bold;">
-<form method="post" action="http://www.best-price.com/productsearch/index" name="search_mm">
-<center>
-<label for="Search_Query">What are you looking for?</label>
-<input type="text" autocomplete="off" class="txt" value="" id="Search_Query" name="q" style="width:300px;">
-<input class="submit" type="submit" value="Search" style="margin-left:10px; padding: 0 5px;">
-</center>
+<div id="conditional_cats">
+                                	<a href="/category/lcd-tv/197/3/1/" class="first" title="LCD-TV">LCD-TV</a>
+                                    	<a href="/category/digital-cameras/48/3/1/" title="Digital Cameras">Digital Cameras</a>
+                                    	<a href="/category/mp3-player/161/3/1/" title="MP3-Player">MP3-Player</a>
+                                    	<a href="/category/laptops/13/3/1/" title="Laptops">Laptops</a>
+                                    	<a href="/category/cellphone/327/3/1/" title="Cellphone">Cellphone</a>
+                                    	<a href="/category/video-games/3/1/1/" title="Video Games">Video Games</a>
+             
+</div></div>
+<form id="search" class="oh" enctype="application/x-www-form-urlencoded" method="post" action="/search/"> 
+    <div id="head_select">
+        <div>All Departments</div>
+		<ul>
+            <li><a rel="0" href="#">All Departments</a></li>
+                            <li><a rel="12" href="#">Clothing</a></li>
+                            <li><a rel="1" href="#">Computers</a></li>
+                            <li><a rel="2" href="#">Electronics</a></li>
+                            <li><a rel="30" href="#">Indoor Living</a></li>
+                            <li><a rel="11" href="#">Cameras</a></li>
+                            <li><a rel="27" href="#">Appliances</a></li>
+                            <li><a rel="8" href="#">Toys</a></li>
+                            <li><a rel="18" href="#">Sporting Goods</a></li>
+                            <li><a rel="10" href="#">Jewelry &amp; Watches</a></li>
+                            <li><a rel="14" href="#">Babies &amp; Kids</a></li>
+                            <li><a rel="16" href="#">Health &amp; Beauty</a></li>
+                            <li><a rel="29" href="#">Furniture</a></li>
+                            <li><a rel="26" href="#">Auto Parts</a></li>
+                            <li><a rel="6" href="#">Software</a></li>
+                            <li><a rel="19" href="#">Musical Instruments</a></li>
+                            <li><a rel="3" href="#">Video Games</a></li>
+                            <li><a rel="28" href="#">Outdoor Living</a></li>
+                            <li><a rel="17" href="#">Grocery &amp; Gourmet</a></li>
+                            <li><a rel="9" href="#">Office</a></li>
+                            <li><a rel="48" href="#">Flowers &amp; Gifts</a></li>
+                            <li><a rel="47" href="#">Industrial Supply</a></li>
+                    </ul>
+        <input type="hidden" name="category" value="0">        
+	</div>
+	<div id="search_button"><input type="submit" value="Search"></div>
+	<div id="lefts">
+		<div id="searchTerm">
+			<input type="text" name="query" autocomplete="off" value="search term...">
+		</div>
+	</div>
 </form>
-</span>
-</div>
-<div id="toggle_appear" style="background:#ccc; width:120px; height:152px;line-height:18px; display:none; position:absolute; z-index:99999; left:674px; font-size:12px; background:url(http://www.best-price.com/img/menu/community.gif) no-repeat 0 0;top:123px;">
-<div id="comnavi">
-<a href="http://www.best-price.com/search/reportSearch" style=" padding-left:10px;margin-top:2px;">Reviews</a>
-<a href="http://www.best-price.com/group/overview" style=" padding-left:10px;">Groups</a>
-<a href="http://www.best-price.com/blog/search" style=" padding-left:10px;">Blog</a>
-<a href="http://www.best-price.com/photo/search" style=" padding-left:10px;">Photos</a>
-<a href="http://www.best-price.com/forum" style=" padding-left:10px;">Forum</a>
-<a href="http://www.best-price.com/search/fast" style=" padding-left:10px;">Members</a>
-<a href="http://www.best-price.com/magazin" style=" padding-left:10px;">Magazine</a>
-</div>
-</div>
-</div>
-		<div id="main" class="floatfix">
-<div class="lcol">
-<ul class="menu footer">
-<li><a href="http://www.best-price.com/service/contact">Contact</a></li>
-<li><a href="http://www.best-price.com/service/advertisement">Advertise</a></li>
-<li><a href="http://www.best-price.com/service/press">Press</a></li>
-<li><a href="http://www.best-price.com/service/jobs">Jobs</a></li>
-<li><a href="http://www.best-price.com/service/privacy">Privacy</a></li>
-<li><a href="http://www.best-price.com/service/terms">General terms and conditions</a></li>
-<li><a href="http://www.best-price.com/service/imprint">Imprint</a></li>
-</ul>
-</div>
-<div class="floatfix">
-<h3>Privacy policy</h3>
-<div class="cntbox h4top">
-<p>The security of your personal information and your privacy is very important to us as operator of Best-Price.com (in the following just called Best-Price.com). Since your trust in us means a lot to us, we'll do all that's possible to warrant and keep this trust. Against this background Best-Price tries by all means to ensure the compliance of privacy.<br>
-In this regard we ask you to read the privacy policy to get informed about the way we'll treat your personal information if you use our online services. Changes in this policy might happen from time to time. Of course, you'll be advised in this case and also asked to have a look at these pages again.</p>
-<p>If you have any questions in this connection please send an email to <script type="text/javascript">eval(unescape('%64%6f%63%75%6d%65%6e%74%2e%77%72%69%74%65%28%27%3c%61%20%68%72%65%66%3d%22%6d%61%69%6c%74%6f%3a%69%6e%66%6f%40%62%65%73%74%2d%70%72%69%63%65%2e%63%6f%6d%22%20%3e%69%6e%66%6f%40%62%65%73%74%2d%70%72%69%63%65%2e%63%6f%6d%3c%2f%61%3e%27%29%3b'))</script><a href="mailto:info@best-price.com">info@best-price.com</a>.</p>
-<p>Furthermore we want to inform you about the following points:</p>
-<ul style="list-style:none;">
-<li><b>a)</b> <a href="#a">Your Privacy</a></li>
-<li><b>b)</b> <a href="#b">Minor's Privacy</a></li>
-<li><b>c)</b> <a href="#c">Collecting Personal Data</a></li>
-<li><b>d)</b> <a href="#d">Use Of Cookies On Our Website</a></li>
-<li><b>e)</b> <a href="#e">Other Data Collection</a></li>
-<li><b>f)</b> <a href="#f">Use Of Information</a></li>
-<li><b>g)</b> <a href="#g">Transfer Of Personal Data</a></li>
-<li><b>h)</b> <a href="#h">Viewing / Changing Your Personal Data</a></li>
-<li><b>i)</b> <a href="#i">Deleting Your Account</a></li>
-<li><b>j)</b> <a href="#j">How To Secure Your Personal Information From Abuse, Loss Or Other Changing</a></li>
-<li><b>k)</b> <a href="#k">Protection From Web Crawlers And Spam</a></li>
-<li><b>l)</b> <a href="#l">Changes To These Privacy Guidelines</a></li>
-</ul>
-<h4 id="a">a) Your Privacy</h4>
-<p>Best-Price.com is brought to you by the Unister GmbH ("Preisvergleich.de"). Best-Price.com believes that trust is an important component of the service we provide to our customers. To ensure that we earn and keep that trust, Best-Price.com makes every effort to protect your privacy and the confidentiality of your personal information. This Privacy Policy is provided to inform you about Best-Price.com's collection, use and disclosure of information you choose to share with us through our website.</p>
-<p>This Privacy Policy is considered to be a part of Best-Price.com's User Agreement. By using the site you agree to the terms and conditions of the User Agreement, including this Privacy Policy. By using the site, you are also consenting to Best-Price.com's privacy practices, including the use and disclosure of any personally identifiable information that you have shared with us, as described in this Privacy Policy.</p>
-<h4 id="b">b) Minor's Privacy</h4>
-<p>Best-Price.com is not targeted towards, or intended for use by anyone under the age of 18. By using the website you represent and warrant that you are 18 years of age or older. We reserve the right to terminate your membership in the event that Best-Price.com becomes aware you are under 18. Persons under 18 may not submit any personally identifiable information to us, and if we discover that we have inadvertently gathered such information, we will take the appropriate steps to delete it.</p>
-<h4 id="c">c) Collecting Personal Data</h4>
-<p>The use of certain features and services on the site requires that you register and supply personally identifiable information such as your name, email address, telephone number and other information, which is stored by Best-Price.com. When you register as a member of the site, we may also collect additional information from you in order to provide you with those specific services and to personalize your experience on the site.</p>
-<h4 id="d">d) Use Of Cookies On Our Website</h4>
-<p>Best-Price.com uses "cookies" to automatically recognize returning users. A cookie is a small file on your hard drive that allows us to display your previously defined search criteria and notification preferences whenever you visit our site. The information saved is used for the functionality of the site, for example, by recording your display preferences or regulating the frequency of pop-ups. Advertising partners also use cookies over which Best-Price.com has no control. These are used to select customer-specific advertising.</p>
-<p>You are free to block cookies from being saved on your hard disk by configuring your browser appropriately. It is not necessary to enable cookies to be able to use our website. However, we draw your attention to the fact that blocking cookies can lead to restricted function. </p>
-<h4 id="e">e) Other Data Collection</h4>
-<p>We may get data from or about you in other ways not specifically described in this statement. For example, you might contact customer support or we may get a third party complaint about you.</p>
-<h4 id="f">f) Use Of Information</h4>
-<p>Information you provide to us through the website is used by Best-Price.com to operate the website, provide you with information and services you request, and to communicate with you. We may, for example, use information you provide to target ads that we think you may be interested in, or send emails to you including newsletters and alerts. Your information may also be used to contact you when necessary (such as to assist you in your use of the website). You may always choose not to provide us with this information. However, this may limit our ability to provide you with a specific service. You may opt-out of receiving future mailings at any time, however, you may not opt-out of some administrative emails (such as emails about User Agreement changes) while you are a member with our website.</p>
-<h4 id="g">g) Transfer Of Personal Data</h4>
-<p>Your personal data will be passed on to our customers in anonymous form only. Best-Price.com does not publish any of your personal information without your express consent or unless we are legally obliged to do so.</p>
-<h4 id="h">h) Viewing / Changing Your Personal Data</h4>
-<p>You can view and, if required, change the information in your Best-Price account at any time using your Best-Price login and password.</p>
-<h4 id="i">i) Deleting Your Account</h4>
-<p>You can delete or deactivate your Best-Price account at any time. To do so, go to the "Setting" page and click on "Cancel membership". If you cancel your membership, all your data will be permanently removed from our database. It usually takes two to three working days for all your data to be removed from all data records.</p>
-<h4 id="j">j) How To Secure Your Personal Information From Abuse, Loss Or Other Changing</h4>
-<p>The information in your Best-Price account and in your Best-Price profile is password protected so that only you have access to your personal details. Please note that you are not permitted to give your password to any other person. Best-Price will never ask you for your password in e-mails which you are not expecting or which you have not requested. Always log out of your account and close the browser window when you leave the Best-Price website if you are using a shared computer in a public place. This is at present the safest way of ensuring that no-one can gain access to your personal information.</p>
-<h4 id="k">k) Protection From Web Crawlers And Spam</h4>
-<p>Best-Price guarantees that we will only use your e-mail address with your express permission for the uses described in the conditions of use. We will not sell your e-mail address to third parties and will prevent your e-mail address from being captured by web crawlers and spiders to the extent that is it within our capability to do so. If you think that your e-mail address has been captured in this way, please contact our technical support team immediately.</p>
-<h4 id="l">l) Changes To These Privacy Guidelines</h4>
-<p>Any changes to the privacy guidelines will be posted on the Best-Price.com website.</p>	</div>
-</div>	</div>
-		<div id="foot">
-<p class="nav">
-<a href="http://www.best-price.com/service/contact">Contact</a>
-<a href="http://www.best-price.com/service/advertisement">Advertise</a>
-<a href="http://www.best-price.com/service/press">Press</a>
-<a href="http://www.best-price.com/service/jobs">Jobs</a>
-<a href="http://www.best-price.com/service/faq">Help Center</a>			<a href="http://www.best-price.com/membercenter/reports">Reviews archive</a>
-<a href="http://www.best-price.com/category/sitemap">Site map</a>
-<a href="http://www.best-price.com/category/productindex">Product Index</a>
-<a href="http://www.best-price.com/service/privacy">Privacy</a>
-<a href="http://www.best-price.com/service/terms">General terms and conditions</a>
-<a href="http://www.best-price.com/service/imprint">Imprint</a>		
-</p>
-<div class="lang">
-<a href="http://www.preisvergleich.de"><img src="http://www.best-price.com/img/flags/de.gif" alt="de"></a> 
-<a href="http://uk.best-price.com"><img src="http://www.best-price.com/img/flags/uk.gif" alt="uk"></a> 
-<a href="http://www.best-price.com"><img src="http://www.best-price.com/img/flags/us.gif" alt="us"></a>
-<a href="http://au.best-price.com"><img src="http://www.best-price.com/img/flags/au.gif" alt="au"></a> 
-<a href="http://fr.best-price.com"><img src="http://www.best-price.com/img/flags/fr.gif" alt="fr"></a>
-</div>
-<p class="copy">Copyright © 2009 by best-price.com. - All rights reserved.<br>
-Best-Price.com - by courtesy of <a href="http://www.news.de" target="_blank" title="The german news portal" style="color:#666666; text-decoration:none;">news.de</a></p>
-<p class="startpage"><a href="#" onclick="style.behavior='url(#default#homepage)';this.setHomePage('http://www.best-price.com/startseite.html');bug = new Image();bug.src = '/track/homepage';return false;">Make best-price.com your homepage!</a><br>
-Be always up to date on the latest products and the best prices.</p>
-</div>	</div>
-<iframe id="adClickIframe" height="1" width="1" src="about:blank" frameborder="0"></iframe>
-<iframe id="ClickTrackerIframe" height="1" width="1" src="about:blank" frameborder="0"></iframe>
-<script type="text/javascript">
-		//Attitude.start();
-		endTime = (new Date).getTime();
-		//alert (endTime - startTime);
-	</script>
-<script type="text/javascript" src="http://www.best-price.com/js/Behavior_Category_Init.js"></script>
-<script type="text/javascript" src="http://www.best-price.com/js/Behavior_Clicktest.js"></script>
-<script type="text/javascript">
-			var kw = 'yes';
-		</script>
-<!-- siteunder:   -->
-<!-- refer:  -->
-<!-- Google Code for default Conversion Page -->
-<script language="JavaScript" type="text/javascript">
-		<!--
-		var google_conversion_type = 'landing';
-		var google_conversion_id = 1068078681;
-		var google_conversion_language = "de";
-		var google_conversion_format = "1";
-		var google_conversion_color = "666666";
-		//-->
-		</script>
-<script language="JavaScript" src="http://www.googleadservices.com/pagead/conversion.js">
-		</script>
-<noscript>
-<img height=1 width=1 border=0 src="http://www.googleadservices.com/pagead/conversion/1068078681/extclk?script=0">
-</noscript>
-<!-- Begin Ad Analyzer Code -->
-<script type="text/javascript">
-		<!--
-		var findwhat_conversion = 1
-		var findwhat_advertiser_id = 176231
-		if (location.href.substr(0,5) == "https")
-		{var secure = "s"}
-		else
-		{var secure = ""}
-		var findwhat_cb = Math.random() + "";
-		document.write('<img src="http'+secure+'://analytics.findwhat.com/bin/findwhat.dll?sendtracker&c=176231&w=somesite.com&conversion=0&cb='+findwhat_cb+'" border="0" hspace="0" vspace="0">');
-		// -->
-		</script><img src="https://analytics.findwhat.com/bin/findwhat.dll?sendtracker&amp;c=176231&amp;w=somesite.com&amp;conversion=0&amp;cb=0.7394404777397452" border="0" hspace="0" vspace="0">
-<noscript>
-<div style="border:0px;padding:0px;"><img src="http://analytics.findwhat.com/bin/findwhat.dll?sendtracker&c=176231&w=somesite.com&conversion=0&cb='+findwhat_cb+ '" style="border:0px;padding:0px;" alt="" /></div>
-</noscript>
-<!-- End Ad Analyzer Code -->	
-<!-- testmode 13 -->
-<!-- served by usslave2.best-price.com -->
-<!-- adtest GOOGLE_ADTEST -->
-<script type="text/javascript">
-    // Google Analytics Party starten
-    gaTrack = _gat._getTracker("UA-31842-6");
-    gaTrack._trackPageview('service/privacy');
-</script>
+<ul class="breadcrump oh">
+			<li>&nbsp;</li>
+	</ul>
+			<div id="content">
+                <iframe id="Price_ConversionTracking" width="1" height="1" frameborder="0" src="/tracking.php"></iframe>			    				<div id="privacy">
+    <h2>Privacy policy</h2>
+    <p>The security of your personal information and your privacy is very important to us as operator of best-price.com (in the following just called best-price.com). Since your trust in us means a lot to us, we'll do all that's possible to warrant and keep this trust. Against this background Best-Price tries by all means to ensure the compliance of privacy.In this regard we ask you to read the privacy policy to get informed about the way we'll treat your personal information if you use our online services. Changes in this policy might happen from time to time. Of course, you'll be advised in this case and also asked to have a look at these pages again.</p>
+    <br>
+	<h4><strong>Furthermore we want to inform you about the following points:</strong></h4>
+    
+    <ul>
+        <li><a href="#a">Your Privacy</a></li>
+        <li><a href="#b">Minor's Privacy</a></li>
+        <li><a href="#c">Collecting Personal Data</a></li>
+        <li><a href="#d">Use Of Cookies On Our Website</a></li>
+        <li><a href="#e">Other Data Collection</a></li>
+        <li><a href="#f">Use Of Information</a></li>
+        <li><a href="#g">Transfer Of Personal Data</a></li>
+        <li><a href="#h">Viewing / Changing Your Personal Data</a></li>
+        <li><a href="#i">Deleting Your Account</a></li>
+        <li><a href="#j">How To Secure Your Personal Information From Abuse, Loss Or Other Changing</a></li>
+        <li><a href="#k">Protection From Web Crawlers And Spam</a></li>
+        <li><a href="#l">Changes To These Privacy Guidelines</a></li>
+    </ul>
+    <div id="points">
+		<h4 id="a">a) Your Privacy</h4>
+		<p>best-price.com is brought to you by the Unister GmbH ("Preisvergleich.de"). best-price.com believes that trust is an important component of the service we provide to our customers. To ensure that we earn and keep that trust, best-price.com makes every effort to protect your privacy and the confidentiality of your personal information. This Privacy Policy is provided to inform you about best-price.com's collection, use and disclosure of information you choose to share with us through our website.</p>
+		<p>This Privacy Policy is considered to be a part of best-price.com's User Agreement. By using the site you agree to the terms and conditions of the User Agreement, including this Privacy Policy. By using the site, you are also consenting to best-price.com's privacy practices, including the use and disclosure of any personally identifiable information that you have shared with us, as described in this Privacy Policy.</p>
+		<h4 id="b">b) Minor's Privacy</h4>
+		<p>best-price.com is not targeted towards, or intended for use by anyone under the age of 18. By using the website you represent and warrant that you are 18 years of age or older. We reserve the right to terminate your membership in the event that best-price.com becomes aware you are under 18. Persons under 18 may not submit any personally identifiable information to us, and if we discover that we have inadvertently gathered such information, we will take the appropriate steps to delete it.</p>
+		
+		<h4 id="c">c) Collecting Personal Data</h4>
+		<p>The use of certain features and services on the site requires that you register and supply personally identifiable information such as your name, email address, telephone number and other information, which is stored by best-price.com. When you register as a member of the site, we may also collect additional information from you in order to provide you with those specific services and to personalize your experience on the site.</p>
+		
+		<h4 id="d">d) Use Of Cookies On Our Website</h4>
+		<p>best-price.com uses "cookies" to automatically recognize returning users. A cookie is a small file on your hard drive that allows us to display your previously defined search criteria and notification preferences whenever you visit our site. The information saved is used for the functionality of the site, for example, by recording your display preferences or regulating the frequency of pop-ups. Advertising partners also use cookies over which best-price.com has no control. These are used to select customer-specific advertising.</p>
+		<p>You are free to block cookies from being saved on your hard disk by configuring your browser appropriately. It is not necessary to enable cookies to be able to use our website. However, we draw your attention to the fact that blocking cookies can lead to restricted function. </p>
+		
+		<h4 id="e">e) Other Data Collection</h4>
+		<p>We may get data from or about you in other ways not specifically described in this statement. For example, you might contact customer support or we may get a third party complaint about you.</p>
+		
+		<h4 id="f">f) Use Of Information</h4>
+		<p>Information you provide to us through the website is used by best-price.com to operate the website, provide you with information and services you request, and to communicate with you. We may, for example, use information you provide to target ads that we think you may be interested in, or send emails to you including newsletters and alerts. Your information may also be used to contact you when necessary (such as to assist you in your use of the website). You may always choose not to provide us with this information. However, this may limit our ability to provide you with a specific service. You may opt-out of receiving future mailings at any time, however, you may not opt-out of some administrative emails (such as emails about User Agreement changes) while you are a member with our website.</p>
+		
+		<h4 id="g">g) Transfer Of Personal Data</h4>
+		<p>Your personal data will be passed on to our customers in anonymous form only. best-price.com does not publish any of your personal information without your express consent or unless we are legally obliged to do so.</p>
+		
+		<h4 id="h">h) Viewing / Changing Your Personal Data</h4>
+		<p>You can view and, if required, change the information in your Best-Price account at any time using your Best-Price login and password.</p>
 
+		<h4 id="i">i) Deleting Your Account</h4>
+		<p>You can delete or deactivate your Best-Price account at any time. To do so, go to the "Setting" page and click on "Cancel membership". If you cancel your membership, all your data will be permanently removed from our database. It usually takes two to three working days for all your data to be removed from all data records.</p>
+		
+		<h4 id="j">j) How To Secure Your Personal Information From Abuse, Loss Or Other Changing</h4>
+		<p>The information in your Best-Price account and in your Best-Price profile is password protected so that only you have access to your personal details. Please note that you are not permitted to give your password to any other person. Best-Price will never ask you for your password in e-mails which you are not expecting or which you have not requested. Always log out of your account and close the browser window when you leave the Best-Price website if you are using a shared computer in a public place. This is at present the safest way of ensuring that no-one can gain access to your personal information.</p>
+		
+		<h4 id="k">k) Protection From Web Crawlers And Spam</h4>
+		<p>Best-Price guarantees that we will only use your e-mail address with your express permission for the uses described in the conditions of use. We will not sell your e-mail address to third parties and will prevent your e-mail address from being captured by web crawlers and spiders to the extent that is it within our capability to do so. If you think that your e-mail address has been captured in this way, please contact our technical support team immediately.</p>
+		
+		<h4 id="l">l) Changes To These Privacy Guidelines</h4>
+		<p>Any changes to the privacy guidelines will be posted on the best-price.com website.</p>   
+	</div>
+</div>
+
+ 
+				<div id="footer">
+					<p class="links">
+    <a href="/service/contact/">Contact</a>
+    <a href="/service/privacy/">Privacy</a>
+    <a href="/service/terms/">General terms and conditions</a>
+    <a href="/service/imprint/">Imprint</a>     
+</p>
+
+<div class="lang oh">
+    <a class="de" href="http://www.preisvergleich.de"></a> 
+    <a class="uk" href="http://uk.best-price.com"></a> 
+    <a class="com" href="http://www.best-price.com"></a>
+    <a class="au" href="http://au.best-price.com"></a> 
+    <a class="fr" href="http://fr.best-price.com"></a>
+</div>
+
+<p class="copy">
+    Copyright © 2009 by best-price.com. - All rights reserved.<br>
+    Best-Price.com - by courtesy of <a href="http://www.news.de" target="_blank" title="The german news portal" style="color:#666666; text-decoration:none;">news.de</a>
+</p>
+<p class="startpage">
+    	Be always up to date on the latest products and the best prices.
+</p>
+
+    <script type="text/javascript">
+    	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+    
+    <script type="text/javascript">
+    	var pageTracker = _gat._getTracker("UA-31842-6");
+    	    	   pageTracker._trackPageview();
+    	    </script>
+    <!-- Google Code for default Conversion Page -->
+    <script language="JavaScript" type="text/javascript">
+            <!--
+            var google_conversion_type = 'landing';
+            var google_conversion_id = 1068078681;
+            var google_conversion_language = "de";
+            var google_conversion_format = "1";
+            var google_conversion_color = "666666";
+            //-->
+    </script>
+    <script language="JavaScript" src="http://www.googleadservices.com/pagead/conversion.js"></script>
+    <noscript>
+        <img height=1 width=1 border=0 src="http://www.googleadservices.com/pagead/conversion/1068078681/extclk?script=0">
+    </noscript>
+    
+    <!-- Begin Ad Analyzer Code -->
+    <script type="text/javascript">
+            <!--
+            var findwhat_conversion = 1
+            var findwhat_advertiser_id = 176231
+            if (location.href.substr(0,5) == "https")
+            {var secure = "s"}
+            else
+            {var secure = ""}
+            var findwhat_cb = Math.random() + "";
+            document.write('<img src="http'+secure+'://analytics.findwhat.com/bin/findwhat.dll?sendtracker&c=176231&w=somesite.com&conversion=0&cb='+findwhat_cb+'" border="0" hspace="0" vspace="0">');
+            // -->
+            </script><img src="https://analytics.findwhat.com/bin/findwhat.dll?sendtracker&amp;c=176231&amp;w=somesite.com&amp;conversion=0&amp;cb=0.6443945047821533" border="0" hspace="0" vspace="0">
+    <noscript>
+    <div style="border:0px;padding:0px;"><img src="http://analytics.findwhat.com/bin/findwhat.dll?sendtracker&c=176231&w=somesite.com&conversion=0&cb='+findwhat_cb+ '" style="border:0px;padding:0px;" alt="" /></div>
+    </noscript>
+    <!-- End Ad Analyzer Code -->   
+<script type="text/javascript">
+if (document.getElementById('Price_ConversionTracking') != undefined) {
+    document.getElementById('Price_ConversionTracking').src = BASE_URL + 'tracking.php';
+}
+</script>				</div>
+			</div>
+		</div>
+	
 </body></html>
