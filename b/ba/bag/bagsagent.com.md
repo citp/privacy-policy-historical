@@ -1,30 +1,57 @@
-> *The following text is extracted and transformed from the bagsagent.com privacy policy that was archived on 2009-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090307040018id_/http%3A//www.belovebags.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bagsagent.com privacy policy that was archived on 2009-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091121163338id_/http%3A//www.bagsagent.com/page.html%3Fid%3D11) for the most accurate reproduction.*
 
-# Privacy Notice : Belovebags.com, Enjoy Free Shipping,Shopping Jimmy Choo Handbags Bargain Sales Now!
+# Privacy Policy : Designer Handbags,Coach Handbags,Chanel Handbags,Louis Vuitton Handbags, Free Shipping,BagsAgent.com
 
-Agent Policy
+## Privacy Policy
 
-Nowadays,you can enjoy our professional guide forward retailing business online here.For long-term business with you in future,our company has refreshed brand-new agent policy,including both services of products line and gudience on extended marketing.Below details are shown:  
-1,For based convience in business,you are able to get a grown-up retailing site here spending only $300 to be our agent abroad.There are completely fully series of retailing products here,from which you can start you business once you purchase site here.With our professional direction,you would win earlier when enlarging retailing marketing home and abroads.Further,you will largely enjoy our free offering both of new hot selling produts updating and gudience on extended marketing;  
-2,For intime synchronous updating and accurate stock of products on sale,it is a kind suggestion that all the products shown on agent website here should be provided by our company here. Any new updating will be timely emailed or via call to notice you. Meanwhile,also you are greatly welcome to feedback us any new products in potential marketing,enforcing our business cooperation also.And we will in time reply you after studying marketing here.  
-3,Based at powerfull supportable system of manpower and technic-hardware,our retailing business including agent are updating smoothly by long-term cooperation both with manufacturing factory and also international air shipping company home and abroad.Hence,you can enjoy secure FREE shipping on all orders in our company,both service of DOOR TO DOOR and DROPSHIPPING worldwidely.   
-4,After getting our agent qualification,you can fix your own marketing price in your business,while our qualified agent can largely enjoy more discount off our retailing price here.Following common business rule -"The more you buy,the more you will save,the more profit you will make!",we will help you to request our factory VIP members for you enjoy factory bargain wholesale.  
-5,Agent could enrich payment terms on your retailing site at your willing foundation to enlarge more business,and any new request updating on payment,please [contact us](http://www.belovebags.com/index.php?main_page=contact_us) here,our powerful technique will enable your requested payment to enforce your business further;Besides,due too large business financing venture,great risk and certain limit on our domestic payment in our business,it is our company policy that we only enable 3 payment terms including Western Union,MoneyGram and Wire Bank Transfer on our agent marketing.   
-6, It is our sincere and hard promise that we confidently promise in time orders processing.After orders fund arriving,all orders must be shipped out within 2days,via mail/directly call together with all list of tracking numbers here.Effectively,you all are able to track all the orders in time on line.Please allow 7-9days as orders delivery time;  
-7, For policy on shipping & returns or others info,please check our correlative define pages or our sales rep. on line for help.Besides,we will study and update essentially when agent feedback any.Welcome [Feedback Now! ](http://www.belovebags.com/index.php?main_page=returns)
+Dear Visitor: 
 
-Site Policy   
-We are committed to protecting your privacy. The information you provide to us is not given or sold to any outside party except for the shipping company delivering your order. We only share your shipping address and phone number with the shipping company. The information we collect from you is used only to process and ship your order. Your email address is used only to provide you with an order confirmation and tracking number. Your phone number is used to contact you in case of a problem with the fulfillment or delivery of your order. If you have any questions, concerns, or comments about our privacy policy we would like to know so we can address them. Please [contact us](http://www.belovebags.com/contact_us.html) here.
+We want you to know how we handle the information you send us via the internet. Our Privacy Policy adapts to the internet's dynamic environment. We keep you informed by updating this Privacy Policy as our procedures change. Please review it occasionally to remain informed. This Policy was last updated on December 28, 2005. This is the way we handle information: 
 
-**SECURITY**  
-Our website uses industry standard Secure Sockets Layer (SSL) encryption on all web pages where personal information is required. This encryption technology protects your name, address, and credit card number during data transport.We proudly displays the Verified Secure Seal - Our website has been scanned using the ControlScan Verified Secure vulnerability scanner for over 11000 vulnerabilities. This site is tested weekly and on demand to pass the FBI/SANS Internet Security Test. Our website is: 
+### Automatic Collection
 
-* 99.9% FREE from Hacker crime.   
+Our web server automatically recognizes the visitor's domain name (not the email address) and records the visitor's browser and platform type (e.g., Netscape browser on a Microsoft platform). 
 
-* Tested for thousands of vulnerabilities including the FBI/SANS TOP 20.   
+### Cookies
 
-* Notified immediately of any new vulnerabilities that may arise.   
+We use cookies to:   
 
-* Safe from identity theft and credit card fraud.   
 
-* In compliance with the Gramm Leach-Bliley, Children's Privacy, HIPAA, and Sarbanes Oxley Acts. 
+  * Record the visitor's session information (such as the visitor's shopping selections when ordering), 
+  * Record user-specific information on the pages the visitor selects for viewing, 
+  * Retain the country of our site that you last visited. 
+
+
+
+### Email Addresses
+
+When a visitor gives us their email address, or sends us email correspondence, we retain their email address. We do not share our email lists with third parties for marketing purposes. We use email addresses to communicate with you regarding your orders and other matters regarding transactions between us or your customer relationship with us. We may also use your email address to share information about Tiffany & Co. products and services that may be of interest to you. You may opt-out of receiving such promotional messages from us at any time. If we do send you a promotional email, you will be given the opportunity to decline receiving similar emails in the future. If you wish to decline receiving such emails in the future, [click here](http://www.bagsagent.com/index.php?main_page=login).
+
+### Visitor-Keyed Information
+
+We retain information provided by our visitor, such as registration information, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) and contact information (e.g., name, address, phone number). [Click here](http://www.bagsagent.com/index.php?main_page=login) to access this information. 
+
+Our visitor also has the ability to correct inaccuracies in contact information and unique identifiers. To do so, [click here](http://www.bagsagent.com/index.php?main_page=login). 
+
+On request with verification, we will give the visitor a reminder with unique identifier information (e.g., customer number or password). 
+
+### Mailing Addresses
+
+If you request a catalogue to be mailed to your postal address, you will be placed on our mailing list and you will receive periodic mailings from us. If you purchase through our catalogue, you may also receive mailings from other carefully screened companies to whom we may make such mailing lists available. (These lists do not include Tiffany & Co. charge card account holders). If you prefer, you can have your name put on our do-not-share list by writing to us at our address above. Please include your name and address as it appears on your mailing label. 
+
+### Telephone Numbers
+
+Visitors who give us their telephone numbers online will receive telephone contact from our representatives regarding orders or requests they have placed online. You may be contacted by one of our representatives conducting research with regard to your satisfaction with our service. Your participation is voluntary and you may opt-out at any time by telephoning us at 86-400-886-6598.
+
+### Security
+
+We use industry-standard encryption technologies when transferring and receiving customer data exchanged with our website server. All other data transfer is conducted through a secure phone line. 
+
+### Children's Online Privacy
+
+The Children's Online Privacy Protection Act took effect April 21, 2000, and pertains to websites directed toward children under 13 years of age. Tiffany.com does not collect information on any person under 13 years. We ask that children do not submit information to us without the consent of a parent or guardian.   
+
+
+### Disclosure
+
+If required by law, court order or in the good faith belief that disclosure is otherwise advisable, we may disclose your information. 
