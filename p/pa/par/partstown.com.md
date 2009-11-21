@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partstown.com privacy policy that was archived on 2009-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090508025653id_/http%3A//www.partstown.com/is-bin/INTERSHOP.enfinity/WFS/Reedy-PartsTown-Site/en_US/-/USD/ptExtraPage-Start%3FTemplateName%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partstown.com privacy policy that was archived on 2009-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091121051027id_/http%3A//www.partstown.com/is-bin/INTERSHOP.enfinity/WFS/Reedy-PartsTown-Site/en_US/-/USD/ptExtraPage-Start%3FTemplateName%3Dprivacy) for the most accurate reproduction.*
 
 # PartsTown
 
