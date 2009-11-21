@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoolert.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503101823id_/http%3A//zoolert.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoolert.com privacy policy that was archived on 2009-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091121063354id_/http%3A//www.zoolert.com/privacy) for the most accurate reproduction.*
 
 # zooLert.com - Hot Deals Current In Stock!
 
@@ -45,8 +45,10 @@ If you like our services, please tell your friends about zooLert** **.**
 
 ### What are people saying:
 
-"Yes, I was unsubscribing to both the [Wiigame list](http://www.zoolert.com/wiigames.php) and [Wiifit list](http://www.zoolert.com/wiifit.php). Using your service, I was able to successfully get [Mario Kart](http://www.zoolert.com/wiigames.php). I have already recommended your service to friends/family. - Thank you" - Matthew
+"I just want to send along a huge THANK YOU for all your help in locating [Zhu Zhu pets](http://www.zoolert.com/zhu-zhu-pets-tracker/). With the helpful hints I learned in the [discussion forums](http://www.zoolert.com/forums) as well as the alerts you send out, I was able to purchase all [4 hamsters](http://www.zoolert.com/zhu-zhu-pets-tracker/) at retail price. Keep up the good work...and I will make sure the kids thank Santa and [zoolert](http://www.zoolert.com/) for all the cool gifts!" -Dawn
 
-"After creating an account at Zoolert, I subscribed to receive notification when [Mario Kart](http://www.zoolert.com/wiigames.php) was in stock. Within 24 hours, I was notified that the game was available at an online retailer where I was able to make my purchase. Without Zoolert, it would have been months before I could have tracked this game down on my own. This is a phenomenal service that I will continue to use in the future. I have already recommended Zoolert to friends and family." - Matthew
+"I have to give you a BIG THANK YOU, I have been searching for this [Playmobil Egyptian Pyramid](http://www.zoolert.com/playmobil-egyptian-playset-pyramid-in-stock-tracker/) for my 8 yr old for Christmas, and found your site. Set up an alert with the rooster and left my PC on with that page and low & behold, the rooster cackled & I got to order my item on Toys R Us....This makes me so happy, my Christmas once again will be the best!!! I'm one of those moms that spoil her sons and thanks to your site, you will make my son very pleased on Christmas Day!!!!!! Thanks again!!!!!" -Kate
 
-"You guys are doing a great job! This is the best and most appealing tracker site I've seen!" - Kim
+"Thank you very much for your [service](http://www.zoolert.com/alltrackers.php), and I will definitely be using it again in the future." - Chris
+
+"You guys are doing a great job! This is the best and most appealing [tracker site](http://www.zoolert.com/) I've seen!" - Kim
