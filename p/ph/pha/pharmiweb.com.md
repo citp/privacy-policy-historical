@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pharmiweb.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523114559id_/http%3A//www.pharmiweb.com/privacy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pharmiweb.com privacy policy that was archived on 2009-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091121181627id_/http%3A//www.pharmiweb.com/privacy/privacy.asp) for the most accurate reproduction.*
 
-# PharmiWeb: The Heart of Life Sciences on the Web
+# Privacy Policy | PharmiWeb.com
 
 Please read this privacy policy (“Policy”) which sets out the data processing practices carried out through the use of the Internet and any other electronic communications networks by PharmiWeb 2002 Limited trading as PharmiWeb Solutions, in particular through either the PharmiWeb.com website or other sites owned and managed by PharmiWeb Solutions, including but not limited to Detail-Direct.com, HospitalPharma.com and PharmiWebSolutions.com (together the “Site”). 
 
@@ -98,3 +98,5 @@ This Site is owned and operated by PharmiWeb 2002 Limited trading as PharmiWeb S
 If you have any queries please contact [corporate@pharmiweb.com](mailto:corporate@pharmiweb.com)
 
 **
+
+See also [Privacy Policy](https://web.archive.org/web/20091121181627id_/http%3A//www.pharmiweb.com/privacy/privacy.asp), [Terms and Conditions](https://web.archive.org/web/20091121181627id_/http%3A//www.pharmiweb.com/legal/legal.asp), [Advertising Policy](https://web.archive.org/web/20091121181627id_/http%3A//www.pharmiweb.com/legal/advertising.asp)
