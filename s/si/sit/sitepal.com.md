@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitepal.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616182727id_/http%3A//www.oddcast.com/user/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitepal.com privacy policy that was archived on 2009-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091121091130id_/http%3A//www.oddcast.com/user/privacy_policy.php) for the most accurate reproduction.*
 
 # 
 
