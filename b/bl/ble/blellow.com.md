@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blellow.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602022910id_/http%3A//blog.blellow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blellow.com privacy policy that was archived on 2009-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091121052825id_/http%3A//blog.blellow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Blellow: A Productivity Microblog for Professionals
 
