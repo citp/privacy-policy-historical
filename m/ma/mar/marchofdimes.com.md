@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marchofdimes.com privacy policy that was archived on 2009-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090519194754id_/http%3A//www.marchofdimes.com/787_about_4076.asp%3Flink%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marchofdimes.com privacy policy that was archived on 2009-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091121192843id_/http%3A//www.marchofdimes.com/787_about_4076.asp%3Flink%3Dfooter) for the most accurate reproduction.*
 
 # March of Dimes Privacy Policy & Your Privacy Rights - March of Dimes
 
