@@ -1,15 +1,8 @@
-> *The following text is extracted and transformed from the infinitemac.com privacy policy that was archived on 2009-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090520162823id_/http%3A//www.infinitemac.com/misc.php%3Fdo%3Dpage%26template%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infinitemac.com privacy policy that was archived on 2009-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091121063813id_/http%3A//www.infinitemac.com/misc.php%3Fdo%3Dpage%26template%3Dprivacy) for the most accurate reproduction.*
 
 # InfiniteMac OSx86 Community
 
   
-  
-Donation Goal   
----  
-Goal: 300 USD, Received: 35 USD (12%) |  |  |   
----|---  
-[Donate Now](http://www.infinitemac.com/misc.php?do=donate)  
-Please consider donating to help us pay the costs of our new server for 2009/2010.  
   
 
 
