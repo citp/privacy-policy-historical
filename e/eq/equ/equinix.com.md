@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the equinix.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622075634id_/http%3A//www.equinix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equinix.com privacy policy that was archived on 2009-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091122170145id_/http%3A//www.equinix.com/privacy) for the most accurate reproduction.*
 
-# Equinix - Privacy Policy
+# Privacy Policy | Equinix
 
 ## PRIVACY POLICY
 
