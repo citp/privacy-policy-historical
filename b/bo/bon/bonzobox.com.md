@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bonzobox.com privacy policy that was archived on 2009-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090519215627id_/http%3A//bonzobox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonzobox.com privacy policy that was archived on 2009-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091122020343id_/http%3A//bonzobox.com/privacy) for the most accurate reproduction.*
 
-# BonzoBox
+# BonzoBox – It's Your Homepage
 
 ## Privacy Statement
 
