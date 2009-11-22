@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the linuxmail.info privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504103644id_/http%3A//www.linuxmail.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linuxmail.info privacy policy that was archived on 2009-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091122213419id_/http%3A//www.linuxmail.info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Linux Mail Server Setup and Howto Guide
+# Privacy Policy ‹‹ Linux Mail Server Setup and Howto Guide
 
 The privacy of our visitors is important to us.
 
@@ -17,7 +17,3 @@ We do use cookies to store information, such as your personal preferences when y
 We also use third party advertisements to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
-
-***  
-Posted on 4/16/2009 and last updated on 4/16/2009  
-Filed under [Uncategorized](http://www.linuxmail.info/category/uncategorized/ "View all posts in Uncategorized")
