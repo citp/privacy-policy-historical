@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incredimail.com privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529222444id_/http%3A//www.incredimail.com/incredimail/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incredimail.com privacy policy that was archived on 2009-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091122052840id_/http%3A//www.incredimail.com/incredimail/privacy-policy.aspx) for the most accurate reproduction.*
 
 # IncrediMail Privacy Policy
 
