@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blingjewelry.com privacy policy that was archived on 2009-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090515211627id_/http%3A//www.blingjewelry.com/privacy-policy-i-3.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blingjewelry.com privacy policy that was archived on 2009-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091122215259id_/http%3A//www.blingjewelry.com/privacy-policy-i-3.html) for the most accurate reproduction.*
 
-# BlingJewelry
+# Bling Costume, Antique Jewelry Privacy Policy
 
 **SHARING**  
 BlingJewelry.com will not sell, share, or rent this information to third parties in any manner that differs from what is disclosed in this statement. While we use third party credit card processing companies to bill users for goods and services, these companies do not retain, share, store or use your personal information for any secondary purposes except for the purpose of providing these services.
