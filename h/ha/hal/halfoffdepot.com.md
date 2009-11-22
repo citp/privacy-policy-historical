@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the halfoffdepot.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618085412id_/http%3A//halfoffdepot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halfoffdepot.com privacy policy that was archived on 2009-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091122215204id_/http%3A//halfoffdepot.com/privacy) for the most accurate reproduction.*
 
 # Half Off Depot :: Privacy Policy
 
@@ -26,6 +26,8 @@ Your personally identifiable information is kept secure. Only authorized employe
 
 If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below: 
 
-Heidi Chandonia Office Manager, Sunday Paper Publishing, LLC By e-mail: heidichandonia@gmail.com By Phone: 404-351-5797 
+Ashley Thomas, Half Off Depot Manager  
+By e-mail: info@halfoffdepot.com  
+By Phone: 404-351-5797 
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted.
