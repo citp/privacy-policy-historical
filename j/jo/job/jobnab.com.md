@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the jobnab.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623193612id_/http%3A//jobnab.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobnab.com privacy policy that was archived on 2009-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091122173005id_/http%3A//jobnab.com/privacy.cfm) for the most accurate reproduction.*
 
 # JobNab
+
+## Privacy Policy
 
 **Browsing our web site**
 
@@ -41,3 +43,25 @@ Ads appearing on this Web site may be delivered to users by JobNab, or one of ou
 **Changes in Our Privacy Policy**
 
 From time to time, we may make changes to our privacy policy. If changes are made, notices will be posted on this site. Users will always be aware of what information we collect, how we use it, and when we may disclose it. A User is bound by all changes to the policy upon using the site after those changes have been posted.  If we used a User's personally identifiable information in a different manner from that stated at the time of collection, we will post a notification on our Web site for 30 days.
+
+**Collection and Use of Your Information**
+
+JobNab collects information about individuals requesting its Web site services. Information JobNab collects includes:
+
+  * Name and contact information, including address, e-mail address and telephone numbers
+  * Employment history
+  * Education history
+  * Professional and personal references, including their names and e-mail addresses
+  * Any other information provided by JobNab's Web site users
+
+
+
+JobNab does not request your Social Security Number, credit score or credit information.
+
+The aforementioned information is made available to JobNab's clients in connection with their recruiting and hiring efforts. JobNab's clients may also disclose such information to third parties they retain to perform reference checks or background checks as a condition of employment.
+
+JobNab only releases your information to third parties for the purposes listed above, except where permitted or required by law. JobNab only utilizes your information for purposes authorized by you.
+
+When you provide information regarding professional and personal references, JobNab will contact your references and provide your references' information to JobNab's clients who may contact your references consistent with their recruiting and hiring efforts.
+
+Under no circumstances do we sell personal information to other organizations. 
