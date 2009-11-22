@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the contentwriter.in privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627224537id_/http%3A//www.contentwriter.in/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentwriter.in privacy policy that was archived on 2009-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091122113249id_/http%3A//www.contentwriter.in/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy - Content Writer.in, Freelance Web Content Writing, Copy Writing for Web Sites
+# Privacy Policy Content Writer . India - Online Writing Services | Outsource Content Writing To India
 
 |  The privacy of visitors to our website is important to us. 
 
@@ -19,11 +19,11 @@ This Privacy Policy may be modified at any time without any prior notice. Please
 
 
 
-  * **Samples & Testimonials** Every writing project successfully completed becomes a part of our portfolio of projects handled. We may take a few lines from such completed content and add the same as part of our previous work samples (added to our website's Writing Samples page) on our website. If a client does not agree with this, they should mention the same to us before engaging us for their projects. Testimonials provided by our clients is included on our website's Client Testimonials page along with the client's name, location and timeline of project. If a client does not want their details to be mentioned on the website, they should mention the same to us. 
+  * **Samples & Testimonials** Every writing project successfully completed becomes a part of our portfolio of projects handled. We may take a few lines from such completed content and add the same as part of our previous work samples (added to our website's Writing Samples page) on our website. If a client does not agree with this, they should mention the same to us before engaging us for their projects. Testimonials provided by our clients is included on our website's Client Testimonials page along with the client's name, location and timeline of project. If a client does not want their details to be mentioned on the website, they should clarify the same to us before the commencement of the project. 
 
 
 
-  * **Advertisements** Contentwriter.in may display third party advertisements and other kinds of ads on the web pages. Visitors should use their own discretion before clicking on these ads or visiting these links. 
+  * **Advertisements** Contentwriter.in may display third party advertisements and other kinds of ads on the web pages. Visitors should use their own discretion before clicking on these ads or visiting third party website links. 
 
 
 
@@ -37,4 +37,4 @@ Contacting contentwriter.in   We welcome any questions or comments you have abo
 
 Copyright © 2005 - 2009, contentwriter.in ,  [ contact@contentwriter.in](mailto:contact@contentwriter.in)
 
-|  
+|    |  
