@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scrubtheweb.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603171556id_/http%3A//www.scrubtheweb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrubtheweb.com privacy policy that was archived on 2009-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091122011421id_/http%3A//www.scrubtheweb.com/privacy.html) for the most accurate reproduction.*
 
 # Scrub The Web Privacy Policy
 
@@ -6,7 +6,7 @@ In general, Scrub The Web does not collect, store, use or disclose personally id
 
 Scrub The Web provides fun, easy to use services, including Scrub The Web Search (located at www.scrubtheweb.com) and Scrub The Web Website SEO services (located at www.scrubtheweb/abs/) (the "Services"). The Services are made available by Scrub The Web and, its subsidiaries and affiliates. Scrub The Web values its users and their concerns about privacy. To this end, Scrub The Web engages in consistent information practices and uses its best efforts to make clear disclosures regarding those practices. This Privacy Policy is a part of that effort.
 
-**\- Note -** Your **in-line** text advertisement and link could be placed here! Check out our [advertising fees](https://web.archive.org/cgi-bin/gobillboard.cgi?ad=Scrub1 "Click to Visit"). 
+Put your 120x60 image, HTML or text Ad [here](https://web.archive.org/cgi-bin/gobillboard.cgi?ad=120Ad "Click to Visit").
 
 ### What does this Privacy Policy cover?
 
@@ -18,8 +18,6 @@ Please be aware that, as part of the Services, Scrub The Web provides links to W
 
 Scrub The Web may use other third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Websites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
 
-Google, as a third party vendor, uses cookies to serve ads on ScrubTheWeb.com™. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html "Open Window to Visit").
-
 ### What information does Scrub The Web collect and how is it used?
 
 Does Scrub The Web disclose information to third parties? Scrub The Web may collect any or all of the following three types of information: (a) traffic or clickstream data, (b) cookies, or (c) contact information and other personally identifying information. Scrub The Web's collection and use of each type of data is described below, as well as the ways (if any) in which the data may be shared with third parties.
@@ -28,7 +26,7 @@ Does Scrub The Web disclose information to third parties? Scrub The Web may coll
 
 **(b) Cookies. Like many sites, Scrub The Web may collect information about online behavior using cookies.** These cookies contain identification information that enables us to see how our users are interacting with our site and how frequently they are returning, as well as to streamline their experiences using the Services. Cookies lets us know about repeat visitors and if we are delivering quality products and services. Scrub The Web may also use cookies to identify which sites our repeat visitors are coming from, so that we can place more of our online advertising on these sites, and can, where necessary, pay our affiliates and other business partners. To Scrub The Web, using information within cookies is a way to survey how we are doing and to look for ways to improve our Services. You may set your browser software to reject cookies, but you may not be able to use all of the features of the Services. Scrub The Web may share information about usage of the Services with third parties, but only in aggregated, anonymous form. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
 
-**(c) Contact Information or Personally Identifying Information.** Scrub The Web can obtain access to your name, e-mail address and other contact information only (1) when you become a Member advertiser or merchant with Scrub The Web, provide comments, submit a problem, or request information from Scrub The Web and provide your name or return contact information, (2) when you register for the advanced features of Scrub The Web, or (3) in connection with special offers or contests.
+**(c) Contact Information or Personally Identifying Information.** Scrub The Web can obtain access to your name, e-mail address and other contact information only (1) when you become a Member, advertiser or merchant with Scrub The Web, provide comments, submit a problem, or request information from Scrub The Web and provide your name or return contact information, (2) when you register for the advanced features of Scrub The Web, or (3) in connection with special offers or contests.
 
 Contact information provided in connection with problems, comments or requests is used only to respond to those problems, comments or requests. This information is not stored or used in connection with traffic or clickstream data and is provided to a third party only as necessary to respond to the comment, problem or request.
 
@@ -36,7 +34,7 @@ Scrub The Web may use registration information to make users aware of new produc
 
 Finally, you may choose to provide contact information, other personally identifying information, and demographic information in order to participate in optional surveys or contests, which are run for promotional purposes. Scrub The Web uses such information to send you information about its products and to notify you if you win the contest. Finally, from time to time, but only with your permission, Scrub The Web may provide certain of its users' registration information to selected third parties who wish to participate in special promotions offered in conjunction with Scrub The Web. Users may opt-out of receiving such communications at any time by contacting Scrub The Web.
 
-**\- Note -** Your **in-line** text advertisement and link could be placed here! Check out our [advertising fees](https://web.archive.org/cgi-bin/gobillboard.cgi?ad=Scrub1 "Click to Visit"). 
+Your 234x60 image, HTML or text message could be placed [here](https://web.archive.org/cgi-bin/gobillboard.cgi?ad=234Ad "Click to Visit"). Check our rates.
 
 ### Is data stored by Scrub The Web secure?
 
@@ -63,4 +61,4 @@ Fax: 480.626.8410
 
 You may also use the above contact information if you think any information about you is inaccurate, incomplete, or if you want to change the sort of information about you that Scrub The Web may have collected.
 
-This Privacy Policy was last revised on Sep 7, 2008.
+This Privacy Policy was last revised on June 11, 2009.
