@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the markettraders.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524013717id_/http%3A//www.markettraders.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markettraders.com privacy policy that was archived on 2009-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091122181514id_/http%3A//www.markettraders.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Market Traders Institute | Privacy Policy
 
