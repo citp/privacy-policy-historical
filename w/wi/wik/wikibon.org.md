@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wikibon.org privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523090210id_/http%3A//www.wikibon.org%3Fc%3Dwiki%26m%3Dv%26title%3DWikibon%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikibon.org privacy policy that was archived on 2009-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091122045549id_/http%3A//wikibon.org/wiki/v/Wikibon%3APrivacy_policy) for the most accurate reproduction.*
 
-# Wikibon:Privacy policy :: Wikibon
+# Wikibon:Privacy Policy - Wikibon
 
 This version of the Privacy policy was approved in November 2006. 
 
@@ -66,7 +66,7 @@ Many aspects of the Wikibon community interactions depend on the reputation and 
 
 Every time you visit a web page, you send a lot of information to the web server. Most web servers routinely maintain access logs with a portion of this information, which can be used to get an overall picture of what pages are popular, what other sites link to this one, and what web browsers people are using. It is not the intention of Wikibon to use this information to keep track of legitimate users. 
 
-These logs are used to produce the [site statistics pages](http://wikibon.org/?c=wiki&m=v&title=Special:Statistics/Statistics "http://wikibon.org?c=wiki&m=v&title=Special:Statistics/Statistics"); the raw log data is not made public, and is normally discarded after about two weeks. 
+These logs are used to produce the [site statistics pages](http://wikibon.org/wiki/v/Special:Statistics/Statistics "http://wikibon.org/wiki/v/Special:Statistics/Statistics"); the raw log data is not made public, and is normally discarded after about two weeks. 
 
 Here's a sample of what's logged for one page view: 
     
