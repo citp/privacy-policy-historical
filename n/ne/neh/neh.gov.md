@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neh.gov privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618071304id_/http%3A//www.neh.gov/whoweare/foia/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neh.gov privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123235926id_/http%3A//www.neh.gov/whoweare/foia/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
