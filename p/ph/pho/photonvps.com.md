@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the photonvps.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627031823id_/http%3A//www.photonvps.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photonvps.com privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123142835id_/http%3A//www.photonvps.com/privacy_policy.html) for the most accurate reproduction.*
 
-# PhotonVPS : Privacy Policy
+# PhotonVPS - Privacy Policy
 
-**PhotonVPS** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.PhotonVPS.com](http://photonvps.com/)
+**PhotonVPS** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.PhotonVPS.com](http://www.photonvps.com/)
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site.
 
@@ -26,8 +26,9 @@ This site has security measures in place to protect the loss, misuse and alterat
 **Choice/Opt-Out**
 
 Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. You can send   
-email to [sales@PhotonVPS.com](mailto:sales@photonvps.com)
+email to [**Sales@PhotonVPS.com**](mailto:sales@photonvps.com)
 
 **Correct/Update**
 
-This site gives users the following options for changing and modifying information previously provided. **Email :**[sales@photonvps.com](mailto:sales@photonvps.com)
+This site gives users the following options for changing and modifying information previously provided.   
+**Email :**[ **Sales@PhotonVPS.com**](mailto:sales@photonvps.com)
