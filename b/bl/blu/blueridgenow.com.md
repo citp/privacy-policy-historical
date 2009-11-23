@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blueridgenow.com privacy policy that was archived on 2009-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090106192856id_/http%3A//www.blueridgenow.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueridgenow.com privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123193628id_/http%3A//www.blueridgenow.com/privacypolicy) for the most accurate reproduction.*
 
-# PRIVACYPOLICY | BlueRidgeNow.com | Times-News Online | Hendersonville, NC
+# PRIVACYPOLICY | BlueRidgeNow.com | BlueRidgeNow
 
 This Privacy Policy discloses the privacy practices for BlueRidgeNow newspaper and BlueRidgeNow.com (the “Site”). For the purposes of this Privacy Policy, unless otherwise noted, all references to “BlueRidgeNow” include BlueRidgeNow.com and BlueRidgeNow newspaper. BlueRidgeNow is part of The New York Times Regional Media Group (“NYTRMG”) – a division of The New York Times Company.
 
@@ -56,6 +56,8 @@ As is standard practice on many Web sites, BlueRidgeNow uses “cookies” and o
 We reserve the right to place a BlueRidgeNow Company cookie on your computer with a unique anonymous number to ensure that your browser does not see the same ad over and over again, to sequence ads in a series and to measure the number of unique visitors that have viewed a particular ad or visited a particular Web page.
 
 For detailed information about our use of cookies, see the Frequently Asked Questions area of our Member Center.
+
+Yahoo! is an ad network partner that displays ads on NYTRMG sites. To improve your ad experience on NYTRMG sites and elsewhere on the Internet, we may send non-personal information to Yahoo! based on your browser's activities, such as type of pages viewed and categories of interests, so that the advertising you see is relevant to you. Yahoo! also may use information regarding its own users to select which ads to display. [Learn more about Yahoo!'s ad practices](http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html), including how to opt out of using anonymous information to select which ads to show you.
 
 NYTRMG, of which we are a part, is currently using Omniture, a third party, to track and analyze non-personally identifiable usage and volume statistical information from our visitors and customers to administer our Web site and constantly improve its quality. All data collected by Omniture on behalf of BlueRidgeNow.com is owned and used by BlueRidgeNow or NYTRMG. BlueRidgeNow reserves the right to publish non-personally identifiable, summary information regarding its Web site visitors for promotional purposes and as a representative audience for advertisers. Please note that this is not personal information, only general summaries of the activities of our visitors and customers. For more information about Omniture's privacy policy, including how to opt out, go to [www.omniture.com/policy.html](http://www.omniture.com/policy.html)
 
