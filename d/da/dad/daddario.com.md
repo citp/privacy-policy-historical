@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daddario.com privacy policy that was archived on 2009-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090521080815id_/http%3A//www.daddario.com/DaddarioPrivacyPolicy.Page%3FActiveID%3D1790) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daddario.com privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123194806id_/http%3A//www.daddario.com/DaddarioPrivacyPolicy.Page%3FActiveID%3D1790) for the most accurate reproduction.*
 
 # D'Addario Strings : Privacy Policy
 
