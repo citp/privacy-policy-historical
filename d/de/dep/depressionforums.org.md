@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the depressionforums.org privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524212641id_/http%3A//www.depressionforums.org/forums/depression-Forums-Privacy-Policy-t10928.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the depressionforums.org privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123193359id_/http%3A//www.depressionforums.org/forums/depression-Forums-Privacy-Policy-t10928.html) for the most accurate reproduction.*
 
 # Depression Forums Privacy Policy - Depression Forums - A Depression & Mental Health Community Support Group
 
@@ -70,3 +70,5 @@ The Depression Forums Administration
 Depression Forums, Inc.
 
 **
+
+Reviewed Nov 9, 2009 by Forum Admin 
