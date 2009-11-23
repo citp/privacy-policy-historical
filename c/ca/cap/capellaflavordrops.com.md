@@ -1,8 +1,22 @@
-> *The following text is extracted and transformed from the capellaflavordrops.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503074209id_/http%3A//capellaflavordrops.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capellaflavordrops.com privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123113241id_/http%3A//capellaflavordrops.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Flavored water , flavor water , water flavor drops , Capella Flavor Drops , vanilla flavoring , bottled drinking water , flavor syrup , coffee flavors - Privacy Policy
+# coffee flavor water drops tea flavored vanilla flavors hazelnut whole bean flavoring gourmet flavored coffee Flavored water , flavor water , water flavor drops, vanilla flavoring ,bottled drinking water,flavor syrup,coffee flavors - Privacy Policy
 
-|  |   
+| 
+
+[ ](http://www.bbbonline.org/cks.asp?id=1060918163234310)
+
+  
+
+
+* * *
+
+*** NEW FLAVORS ***  
+
+
+* * *
+
+|   
 ---  
   
 [Home](https://web.archive.org/) > Privacy Policy
@@ -18,6 +32,5 @@ This privacy notice discloses the privacy practices for www.capellacoffee.com. T
 |   
 | |   
 |   
----  
 ---  
 ---
