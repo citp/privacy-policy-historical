@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azstateparks.com privacy policy that was archived on 2009-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090313203903id_/http%3A//www.azstateparks.com/find/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azstateparks.com privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123201645id_/http%3A//azstateparks.com/find/privacy.html) for the most accurate reproduction.*
 
 # Arizona State Parks: Privacy Policy
 
@@ -86,7 +86,7 @@ The State of Arizona and its consultants, as developer and manager of Arizona St
 External Link Disclaimer
 
 Links to External Sites are indicated with the following External Link icon:    
-These links will open in a new window and leave the Arizona State Parks website. Please note: as we are in the process of updating our website not all External Links have been so marked yet.
+These links will open in a new window and leave the Arizona State Parks website.
 
 Arizona State Parks contains links to various other websites operated by other government agencies, nonprofit organizations and private businesses. When you follow an external link to another site, you are no longer on the Arizona State Parks website and this Privacy Policy will not apply to other sites. When you follow an external link to another website, you are subject to the privacy policy of that new site. Links to websites outside of State government are offered solely for your convenience; they do not constitute an endorsement and are not a recommendation of any product, service, or organization. 
 
@@ -106,7 +106,8 @@ Kartchner Caverns State Park®, Kubla Khan®, and the Arizona State Parks logo (
 
 The State of Arizona retains all rights to the information provided by this website, including, but not limited to, the right of distribution.
 
-## Contact Information 
+##   
+Contact Information 
 
 To offer comments about Arizona State Parks, or about the information presented in this Privacy Policy, contact Arizona State Parks Research & Marketing: 
 
@@ -117,7 +118,7 @@ By Telephone: (602) 542-4174
 By Fax: (602) 542-4180 
 
 By Mail: Arizona State Parks   
-Atn: Research and Marketing   
+Attn: Research and Marketing   
 1300 W. Washington   
 Phoenix, Arizona 85007 
 
@@ -125,6 +126,7 @@ Email or other information requests sent to a state website may be saved and use
 
 If you choose to provide us with personal information — by submitting an online form or contacting us by the above methods — we use that information to respond to your message and to help us get you the information you have requested. We only share the information you provide with another agency if your inquiry relates to that agency, or as otherwise required by law. Moreover, we do not create an individual profile with the information you provide or give it to any private organizations. Arizona State Parks does not collect information for commercial marketing. Any comments collected are themselves subject to the protections of the privacy policy.
 
-## Privacy Policy Statement Is Subject To Change 
+##   
+Privacy Policy Statement Is Subject To Change 
 
-This Privacy Policy Statement is subject to change _._ Last updated March 2009.
+This Privacy Policy Statement is subject to change _._ Last updated June 2009.
