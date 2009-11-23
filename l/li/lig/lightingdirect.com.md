@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lightingdirect.com privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415060842id_/http%3A//www.lightingdirect.com/index.cfm/page/help%3Asecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightingdirect.com privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123221736id_/http%3A//www.lightingdirect.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
 
-# Lighting, Light Fixtures, Chandeliers, Fans and More - LightingDirect.com
+# LightingDirect.com: Security & Privacy
 
 LightingDirect.com is a website of Improvement Direct, Inc. Our corporate website can be [viewed here](http://corp.improvementdirect.com/).
 
