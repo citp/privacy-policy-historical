@@ -1,0 +1,541 @@
+<!--The following is the downloaded HTML source of the wasserstrom.com privacy policy that was archived on 2009-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091123194611id_/http%3A//www.wasserstrom.com/restaurant-supplies-equipment/CorpPrivacyPolicyView) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head> 
+<title>
+Privacy Policy - Wasserstrom
+</title>
+<meta name="robots" content="noydir,noodp">
+<meta http-equiv="last-modified" content="2009-11-22@00:00:00 EST">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link href="/wcsstore/Wasserstrom/styles/cssinclude.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/wcsstore/Wasserstrom/styles/printinclude.css" media="print" rel="stylesheet" type="text/css">
+<link href="/wcsstore/Wasserstrom/images/favicon.ico" rel="icon" type="image/x-icon">
+<link href="/wcsstore/Wasserstrom/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
+<!--[if IE 6]><link href="/wcsstore/Wasserstrom/styles/browserspecific/ie6.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
+<!--[if IE 7]><link href="/wcsstore/Wasserstrom/styles/browserspecific/ie7.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
+<link rel="stylesheet" href="/wcsstore/Wasserstrom/styles/tabs.css" type="text/css" media="screen" title="Flora (Default)">
+<script src="/wcsstore/Wasserstrom/scripts/prototype.js" language="javascript" type="text/javascript"></script>
+<script type="text/javascript" src="/wcsstore/Wasserstrom/scripts/was.js"></script>
+<script src="/wcsstore/Wasserstrom/scripts/jquery-latest.js" language="javascript" type="text/javascript"></script>
+<script type="text/javascript">
+jQuery.noConflict(); 
+</script>
+<script src="/wcsstore/Wasserstrom/scripts/thickbox.js" language="javascript" type="text/javascript"></script>
+<script src="/wcsstore/Wasserstrom/scripts/validator.js" language="javascript" type="text/javascript"></script>
+<script src="/wcsstore/Wasserstrom/scripts/validations.js" language="javascript" type="text/javascript"></script>
+</head>
+<body> 
+<script type="text/javascript">
+var enabled ='false';
+var alerts = '';
+if(enabled =='true'){ 
+checkSession();
+}
+function checkSession(){	
+if("https:" == document.location.protocol)
+var URL = 'https://www.wasserstrom.com/restaurant-supplies-equipment'+'/SessionStatus';
+else 
+var URL = 'http://www.wasserstrom.com/restaurant-supplies-equipment'+'/SessionStatus';
+if(alerts =='true'){
+alert("About to check session via /" + URL + "URL");
+}
+var myAjax = new Ajax.Request(URL,{method: 'post', onComplete:handleSessionCheck});	
+function handleSessionCheck(originalResponse){	
+var thisResponseText = originalResponse.responseText;
+//alert(thisResponseText);
+var errorSessionLost = thisResponseText.indexOf('ERROR_SESSION_LOST');	
+var errorLoggedOff = thisResponseText.indexOf('ERROR_LOGGED_OFF');	
+var noCookie = thisResponseText.indexOf('<CREATE_COOKIE>');
+if(noCookie > 0) {
+//No Cookie on User Browser. So, create the cookie.
+var startIndex = thisResponseText.indexOf('<CREATE_COOKIE>');
+var endIndex = thisResponseText.indexOf('</CREATE_COOKIE>');	
+if(startIndex > 0 && endIndex > 0) {
+var cookieValues = thisResponseText.substring(startIndex+15, endIndex);	
+createCookie('ws_SESSION',cookieValues,1);	
+}	
+} else if(errorSessionLost > 0 || errorLoggedOff > 0){
+//alert('Your session appears to have been lost, or you have been logged off due to inactivity, please login again to continue.');	
+var URL2 = 'http://www.wasserstrom.com/restaurant-supplies-equipment'+'/Logoff?URL=http://www.wasserstrom.com/restaurant-supplies-equipment'+'/ReLogonFormView'; 
+eraseCookie('ws_SESSION'); 
+window.location=URL2;
+} else{	
+//alert('Session is ok, setting new cookie values'+cookievalues);	
+var okSessionStartIndex = thisResponseText.indexOf('<OK>');
+var okSessionEndIndex = thisResponseText.indexOf('</OK>');	
+if(okSessionStartIndex > 0 && okSessionEndIndex > 0) {
+var cookieValues = thisResponseText.substring(okSessionStartIndex+4, okSessionEndIndex);	
+eraseCookie('ws_SESSION');
+createCookie('ws_SESSION',cookieValues,1);	
+} 
+} 
+}
+}
+</script>
+<div id="overDiv" class="mouseOverDiv" style="position:absolute; visibility:hidden; z-index:2000;"></div>
+<!-- Start - JSP File name: default/CachedHeaderDisplay.jsp -->
+<script type="text/javascript">
+function createRefererURL(){
+createCookie('wass.refererPage','UserAccountProfileView',1);
+}
+</script> 
+<!--[if !IE]> Start Header <![endif]-->
+<div id="header">
+<div id="innerHeader">
+<a href="http://www.wasserstrom.com"><img src="/wcsstore/Wasserstrom/images/Wass_logo.gif" id="logo" alt="Wasserstrom Restaurant Supply" title="Wasserstrom Restaurant Supply"><img src="/wcsstore/Wasserstrom/images/Wass_logo_tagline.gif" id="logo2" alt="Chefs Restaurants Grocers Hotels" title="Chefs Restaurants Grocers Hotels"></a>
+<!--[if !IE]> Start Global Nav <![endif]-->
+<ul class="global_nav">
+<li><a href="http://www.wasserstrom.com">Home</a></li>
+<li>|</li>
+<li><a href="http://www.wasserstrom.com/restaurant-supplies-equipment/GuestOrderTrackingView">Where's My Stuff</a></li>
+<li>|</li>
+<li><a href="http://www.wasserstrom.com/restaurant-supplies-equipment/AboutWasserstromView">About Us</a></li>
+<li>|</li>
+<li><a href="http://www.wasserstrom.com/restaurant-supplies-equipment/ContactUs" rel="nofollow">Contact Us</a></li>
+<li>|</li>
+<li><a href="https://www.wasserstrom.com/restaurant-supplies-equipment/login">Login</a></li>
+</ul>
+<!--[if !IE]> END Global Nav <![endif]-->
+<!-- <a href="#"><img src="/wcsstore/Wasserstrom/images/live_online_help.png" alt="Live Online Help" id="liveHelp" /></a> -->
+<a href="http://www.wasserstrom.com"><img src="/wcsstore/Wasserstrom/images/header_sm_utensils.gif" alt="Wasserstrom Restaurant Equipment" title="Wasserstrom Restaurant Equipment" id="utencils"></a>
+</div>
+</div>
+<!--[if !IE]> END Header <![endif]-->
+<!-- Start - JSP File name: default/CachedHeaderDisplay.jsp -->
+<div id="nav">
+<div id="navcontainer">
+<ul id="nav">
+<li class="first"><a href="http://www.wasserstrom.com/restaurant-supplies-equipment/catering_TABLEWARE_1000148" title="Tableware">Tableware</a></li>
+<li><a href="http://www.wasserstrom.com/restaurant-supplies-equipment/catering_TABLESERVICE_1000148" title="Table Service">Table Service</a></li>
+<li><a href="http://www.wasserstrom.com/restaurant-supplies-equipment/catering_DISPLAYWARE_1000148" title="Displayware">Displayware</a></li>
+<li><a href="http://www.wasserstrom.com/restaurant-supplies-equipment/catering_MERCHANDISING_1000148" title="Merchandising">Merchandising</a></li>
+<li><a href="http://www.wasserstrom.com/restaurant-supplies-equipment/catering_PREPANDSTORAGE_1000148" title="Prep &amp; Storage">Prep &amp; Storage</a></li>
+<li><a href="http://www.wasserstrom.com/restaurant-supplies-equipment/catering_BAKERY_1000148" title="Bakery">Bakery</a></li>
+<li class="last"><a href="http://www.wasserstrom.com/restaurant-supplies-equipment/catering_PIZZA_1000148" title="Pizza">Pizza</a></li>
+</ul> 
+</div>
+</div>
+<!--[if !IE]> End Main Nav <![endif]-->
+<div id="container">
+<!-- Moved for use in multiple places. TWF 11-07-2008 --> 
+<!--[if !IE]> Start Overall Content Area <![endif]-->
+<div id="left_nav">
+<div class="login-box-containerV1">
+<div>
+<div>
+<div>
+<div id="login_boxV2">
+<table cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td class="login_boxV2_left">
+<img id="lock" name="lock" src="/wcsstore/Wasserstrom/images/icon_unlock_white_blue-bg.gif">	
+</td>
+<td class="login_boxV2_center" align="left">
+<p class="bold-white">
+<a href="https://www.wasserstrom.com/restaurant-supplies-equipment/UserRegistrationFormView">Register</a> |
+<a id="helplink" class="thickbox" href="javascript:;" onclick="helpLinkFunc()">Help</a>
+</p>
+</td>
+<td class="login_boxV2_right" align="right">
+<a href="https://www.wasserstrom.com/restaurant-supplies-equipment/login" onmouseover="javascript: movepic_globalButtons('login','/wcsstore/Wasserstrom/images/buttons/btn_login_blue-bg_H.gif')" onmouseout="javascript: movepic_globalButtons('login','/wcsstore/Wasserstrom/images/buttons/btn_login_blue-bg.gif')">
+<img src="/wcsstore/Wasserstrom/images/buttons/btn_login_blue-bg.gif" id="login_button" name="login" alt="Login">
+</a>
+</td>
+</tr>
+</tbody></table>	
+</div>
+</div> 
+</div>	
+</div> 
+<div id="underLoginBox">
+<span id="welcomeBold">Welcome:</span>
+<span id="welcomeDateorName">
+<script type="text/javascript">
+getDate();
+</script>Friday, January 31, 2020
+</span>
+</div>
+</div>
+<script type="text/javascript">
+function helpLinkFunc() {
+var secureHelpURL = 'https://www.wasserstrom.com/restaurant-supplies-equipment/WasHelpView'+'?modal=true';
+var helpURL = 'http://www.wasserstrom.com/restaurant-supplies-equipment/WasHelpView'+'?modal=true';
+if("https:" == document.location.protocol) 
+document.getElementById("helplink").href = secureHelpURL;
+else 
+document.getElementById("helplink").href = helpURL;
+} 
+</script> 
+<div class="clearfix"></div>
+</div> 
+<!-- Holds the searchbox in a right_nav layout -->
+<div id="center_nav" class="center_nav"> 
+<!-- Start - JSP File name: default/CachedSearchbarDisplayV2.jspf -->
+<div class="search_container">
+<script type="text/javascript">
+</script>
+<div id="searchErrorMessages" class="error_search" style="display:none">
+Error messages:
+</div>
+<form name="searchForm" id="searchForm" action="http://www.wasserstrom.com/restaurant-supplies-equipment/SearchCtrlCmd" method="get">
+<input type="hidden" name="storeId" value="10051">
+<input type="hidden" name="langId" value="-1">
+<input type="hidden" name="searchType" value="">
+<input type="hidden" name="filter" value="">
+<input type="hidden" name="sort_results" value=""> 
+<input type="hidden" name="narrowSearchTermFilterArray" value=""> 
+<input type="hidden" name="newSearch" value="true"> 
+<input type="hidden" name="stdPageSize" value=""> 
+<input type="hidden" name="currPgNum" value=""> 
+<input type="hidden" name="searchFilter" value=""> 
+<input type="hidden" name="errorViewName" value="SearchResultsView" id="WC_CachedSearchbarDisplay_FormInput_errorViewName">
+<div id="search">
+<div class="center">
+<div class="left">
+<!--	search box -->
+<!--	user can hit enter or click go button -->
+<table class="searchBox" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td valign="middle" width="75" align="right" class="searchHeading"><img id="SearchBarTitle" src="/wcsstore/Wasserstrom/images/search_dropshadow.png" alt="Search" height="20" width="53"></td>
+<td valign="middle" width="200"><input type="text" onkeypress="javascript:return handleSearchEnterKey(event);" onfocus="doClear(this)" onblur="setText(this)" maxlength="64" value="keyword or item#" size="20" id="search_field" name="search_field" style="color: rgb(102, 102, 102);"></td>
+<td valign="middle" align="left" width="100" class="goButton"><a href="javascript:search();" onmouseout="javascript: movepic_globalButtons('GoButton','/wcsstore/Wasserstrom/images/buttons/btn_go_blue_blue-bg.gif')" onmouseover="javascript: movepic_globalButtons('GoButton','/wcsstore/Wasserstrom/images/buttons/btn_go_blue_blue-bg_H.gif')"><img class="checkOutGoButton" src="/wcsstore/Wasserstrom/images/buttons/btn_go_blue_blue-bg.gif" name="GoButton" alt="search" border="0" height="21" width="36"></a></td>
+</tr>
+</tbody></table>
+<!--	END :: search box -->
+</div>	
+</div>	
+</div>
+</form>
+<!--[if !IE]> END Search <![endif]-->
+<script type="text/javascript">
+var searchTerm = readCookie("searchTerm");
+if(searchTerm != null ){
+document.searchForm.search_field.value="keyword or item#";
+document.searchForm.search_field.style.color = "#666666";
+}
+else { 
+document.searchForm.search_field.value="keyword or item#";
+document.searchForm.search_field.style.color = "#666666";
+}
+function createSearchTermCookie(){
+createCookie('searchTerm',document.searchForm.search_field.value,1);
+}
+function setText(theText){
+var min=2;
+if(theText.value == ""){
+theText.value = "keyword or item#";
+theText.style.color="#666666";
+}
+}
+function doClear(theText) {
+if (theText.value == theText.defaultValue)
+{
+theText.style.color="#000000";
+theText.value = ""
+}
+}
+</script>
+<!-- search script does not return value, uses form submit-->
+<script language="javascript" type="text/javascript">
+function search(){
+//alert("search_field value: "+document.searchForm.search_field.value);
+if(document.searchForm.search_field.value == 'keyword or item#') {
+document.searchForm.search_field.value = '';
+}
+validator_reset('searchErrorMessages');
+document.searchForm.search_field.validations.validate();
+if (validation_display_errors('','searchErrorMessages') == true) 
+{	
+document.searchForm.searchType.value= 'Basic';
+createSearchTermCookie();
+var ps = readCookie('stdPageSize');
+if (!ps) {
+ps = '20';
+}
+document.searchForm.stdPageSize.value=ps;
+var sort = readCookie('sortResults');
+if (!sort) {
+sort = 'relevance';
+}
+document.searchForm.sort_results.value = sort;
+document.searchForm.submit();
+}
+}
+//enter key event, returns false, calls search
+function handleSearchEnterKey(event){ 
+linkToError('a', 'b');
+var keyCode = event.keyCode ? event.keyCode : event.which ? event.which : event.charCode;
+if (keyCode == 13) {	
+search();
+return false;
+}
+}
+function linkToError(fieldName,formName){
+validator_reset('searchErrorMessages');
+}
+var validationfrm = new Validator("searchForm");
+validationfrm.addValidation("search_field",false,"search","searchErrorMessages","Please enter at least 2 characters.");
+</script>
+</div>
+<div id="underSearchBar">
+<div id="underSearchBar2" style="display:none">
+<span id="underSearchBarText"><a href="http://www.wasserstrom.com/restaurant-supplies-equipment/ContactUs" rel="nofollow">Contact Us</a> | 1-866-634-8927 </span> 
+</div>
+</div>	
+</div>
+<!-- Displays content in the right column next to center_nav drops to the right of content --> 
+<div id="right_nav">	
+<!-- Start - JSP File name: default/MiniCartDisplay.jsp -->
+<div class="mini-cart-container">
+<div>
+<div>
+<div class="right" id="myCartAjaxId"></div>
+<div style="clear: both;"></div>
+</div>
+<div>
+<div>&nbsp;</div>
+</div>
+</div>
+</div>
+<!-- End mini-cart-container -->
+<!--[if !IE]> END mini-cartV2 <![endif]-->
+<script type="text/javascript" language="javascript">
+function callAjaxMiniCart() {
+var cookieCart = readCookie("WasserstromMiniCart");
+if (cookieCart != null) { 
+var cookieArray = cookieCart.split("|");
+document.getElementById("cookieCartQuantity").innerHTML = cookieArray[0];
+document.getElementById("cookieCartTotal").innerHTML = cookieArray[1];
+} else {
+var secureMiniCartURL = 'https://www.wasserstrom.com/restaurant-supplies-equipment/' + 'MiniCartDisplayAjax';
+var nonSecureMiniCartURL = 'http://www.wasserstrom.com/restaurant-supplies-equipment/' + 'MiniCartDisplayAjax';
+var miniCartURL = (("https:" == document.location.protocol) ? secureMiniCartURL : nonSecureMiniCartURL);
+var myAjax = new Ajax.Request(miniCartURL,{method: 'post', onComplete:handleMiniComplete}); 
+//var myAjax = new Ajax.Request(URL,{method: 'post', onComplete:handleMiniComplete}); 
+}
+}
+function handleMiniComplete(originalResponse) {
+document.getElementById("myCartAjaxId").innerHTML = originalResponse.responseText;
+var cookieCart = document.getElementById("cookieCartQuantity").innerHTML + "|" + document.getElementById("cookieCartTotal").innerHTML;
+createCookie("WasserstromMiniCart", cookieCart);
+}
+function setText(theText) {
+var min=2;
+if(theText.value == ""){
+theText.value = "keyword or item#";
+theText.style.color="#666666";
+}
+}
+function doClear(theText) {
+if (theText.value == theText.defaultValue) {
+theText.style.color="#000000";
+theText.value = ""
+}
+}
+</script> 
+</div> 
+<div id="content" class="corp-info-content"> 
+
+<div class="corp-info-topnav">
+<table cellpadding="0" cellspacing="0" class="table-blue1" width="100%" s="">
+<thead>
+<tr>
+<th class="line-right">
+<a href="http://www.wasserstrom.com/restaurant-supplies-equipment/AboutWasserstromView" id="corp-info-underline">
+About Wasserstrom
+</a>
+</th>
+<th class="line-right">
+<a href="http://www.wasserstrom.com/restaurant-supplies-equipment/CareersOverviewView" id="corp-info-underline">
+Careers
+</a>
+</th>
+<th class="line-right">
+<a href="http://www.wasserstrom.com/restaurant-supplies-equipment/NewsRoomView" id="corp-info-underline">
+NewsRoom
+</a>
+</th>
+<th id="corp-info-th-right-line-orangebg">
+<a href="http://www.wasserstrom.com/restaurant-supplies-equipment/CorpTermsConditionsView" id="corp-info-no-underline">
+Terms and Conditions
+</a>
+</th>
+<th class="line-right">
+<a href="http://www.wasserstrom.com/restaurant-supplies-equipment/ContactusOverviewView" id="corp-info-underline">
+Contact Us
+</a>
+</th>	</tr>
+</thead>
+</table>
+</div>
+<div class="corp-info-leftnav">
+<!-- Start - JSP File name: default/CareersNaviagionDisplay.jsp -->
+<!-- Start - JSP File Name: ErrorMessageSetup.jspf -->
+<!-- End - JSP File Name: ErrorMessageSetup.jspf -->
+<div id="terms-navigation" class="corp-info-navigation">
+<div id="careers-navigation-careers">
+<ul>
+<li>Terms and Conditions</li>
+<li class="title"><a href="http://www.wasserstrom.com/restaurant-supplies-equipment/CorpSiteUseView">Site Use</a></li>
+<li class="title"><a href="http://www.wasserstrom.com/restaurant-supplies-equipment/CorpSalesServicesView">Sales and Services</a></li>
+<li class="title"><a href="http://www.wasserstrom.com/restaurant-supplies-equipment/CorpProductRecallsView">Product Recalls</a></li>
+<li class="highlighted-title"><a href="http://www.wasserstrom.com/restaurant-supplies-equipment/CorpPrivacyPolicyView">Privacy Policy</a></li>
+<li class="title"><a href="http://www.wasserstrom.com/restaurant-supplies-equipment/CorpReturnPolicyView">Return Policy</a></li>
+<li class="title"><a href="http://www.wasserstrom.com/restaurant-supplies-equipment/CorpShippingPolicyView">Shipping Policy</a></li>
+<!-- Removed this link for 09/16/09 production push
+<li 
+class="title"
+><a href="http://www.wasserstrom.com/restaurant-supplies-equipment/CorpSiteAccessibilityView">Site Accessibility</a></li>
+-->
+<li class="title"><a href="http://www.wasserstrom.com/restaurant-supplies-equipment/CorpSiteMapView">Site Map</a></li>
+</ul>
+</div>
+</div>	
+<div class="corp-info-navigation">
+</div>
+</div>
+
+<div class="corp-info-body">
+<ul class="breadcrumbs">
+<li><a href="http://www.wasserstrom.com">Home</a></li>
+<li>&gt;</li>
+<li><a href="http://www.wasserstrom.com/restaurant-supplies-equipment/CorpTermsConditionsView">Terms and Conditions</a></li>
+<li>&gt;</li>
+<li>Privacy Policy</li>
+</ul>
+<div>
+<table cellpadding="0" cellspacing="0" class="terms-image">
+<tbody><tr>
+<td>Terms and Conditions<img src="/wcsstore/Wasserstrom/images/arrow_white_right.gif" height="15px" width="15px"></td>
+</tr>
+</tbody></table> 
+</div>
+<div class="corp-info-aboutus-box-1">	
+<div class="corp-info-text-content">
+<h2>Privacy Policy</h2>	
+</div>
+<div class="corp-info-text-content">
+<h3>General Comments</h3><p>Wasserstrom respects the privacy of each website visitor. We know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Statement outlines our procedures for collection and use of information. It also indicates how to verify the accuracy of and/or remove any personally identifiable information in our database.</p><p>For visitors to this website, please note that NO personal data (e.g. name, address, phone number, social security number, billing/shipping information, credit card information or email address) is collected without your consent.</p><h3>Information Use</h3><p>Once submitted, your personally identifiable information may be stored for use in assessing client needs or for research in product and service improvements. You may be contacted with marketing, promotional or other materials, with responses to your comments or requests, or with correspondence related to processing/shipping your online orders</p> <p>Wasserstrom will not release or sell your personally identifiable information to any outside organization for that organization's sole use without your consent. Your information may, however, be shared with agents or contractors of Wasserstrom in connection with services that these individuals or entities perform. Individually identifiable information submitted in connection with employment inquiries will be used only in the application process.The information we learn from customers helps us personalize and continually improve your shopping experience at Wasserstrom.com. Here are the types of information we gather.</p><ul><li><b>Information You Give Us:</b> We receive and store any information you enter on our website or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our website, and communicating with you.</li><li><b>Automatic Information:</b> We receive and store certain types of information whenever you interact with us. For example, like many websites, we use "cookies," and we obtain certain types of information when your web browser accesses Wasserstrom.com.</li><li><b>Email Communications:</b> To help us make emails more useful and interesting, we often receive a confirmation when you open emails from Wasserstrom.com if your computer supports such capabilities. If you do not want to receive email or other mail from us, please make this change in your account profile.</li> <li><b>Information from Other Sources:</b> We might receive information about you from other sources and add it to our account information.</li></ul><p></p><h3>Does Wasserstrom.com Share the Information It Receives?</h3><p>Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below. </p><ul><li><b>Third-Party Service Providers:</b> We employ other companies to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and email, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.</li> <li><b>Promotional Offers:</b> Sometimes we send offers to select groups of Wasserstrom.com customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please make this change in My Account.</li><li><b>Business Transfers:</b> As we continue to develop our business, we might sell or buy websites, subsidiaries, or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless the customer consents otherwise). Also, in the unlikely event that Wasserstrom.com or substantially all of its assets are acquired, customer information will be one of the transferred assets.</li> <li><b>Protection of Wasserstrom.com and Others:</b> We release account and other personal information when we believe release is appropriate to comply with the law, to enforce or apply our conditions of use and other agreements, or to protect the rights, property, or safety of Wasserstrom.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. This does not, however, include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice.</li> <li><b>With Your Consent:</b> Other than above circumstances, you will receive notice when information about you might go to third parties, and you will have the opportunity to choose not to share the information.</li></ul><p></p><h3>Security Features</h3><p>Always on the leading edge of today's technology, we employ powerful 128-bit encryption and Secure Socket Layers (SSL) in all areas where your personal identity is required. In addition, access to your personal information is restricted within our company to provide maximum security. Your account information and order history are kept safely behind our firewall and on separate servers, to prevent abuse by hackers, and all transaction information is processed through encrypted channels.</p><h3>How Secure Is Information About Me?</h3><ul><li>We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts the information you input.</li><li>We reveal only the last four digits of your credit card numbers when confirming an order. The entire credit card number is transmitted solely to the appropriate credit card company during order processing.</li><li>It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.</li></ul><h3>What about Cookies?</h3><ul><li>Cookies are alphanumeric identifiers that we transfer to your computers' hard drive through your web browser to enable our systems to recognize your browser and to provide features such as remembering you.</li><li>The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-on, such as Flash cookies, by changing the add-on's settings or visiting the website of its manufacturer. However, because cookies allow you to take advantage of some of Wasserstrom's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any Wasserstrom.com products and services that require you to sign in. </li></ul><h3>What about Third-Party Advertisers and Links to Other Websites?</h3><p>Our site includes third-party advertising and links to other websites. We do not provide any personally identifiable customer information to these advertisers or third-party websites.</p><p>These third-party websites and advertisers, or Internet advertising companies working on their behalf, sometimes use technology to send (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize advertising content. We do not have access to or control over cookies or other features that they may use, and the information practices of these advertisers and third-party websites are not covered by this Privacy Notice. Please contact them directly for more information about their privacy practices. In addition, the Network Advertising Initiative offers useful information about Internet advertising companies (also called "ad networks" or "network advertisers"), including information about how to opt-out of their information collection. </p><p>Wasserstrom.com also displays targeted advertising based on personal information about users. Although Wasserstrom.com does not provide any personal information to advertisers, advertisers (including ad-serving companies) may assume that users who interact with or click on a targeted advertisement meet the targeting criteria used to display the ad (for example, users in the northwestern United States who like classical music).</p><h3>What Choices Do I Have?</h3><ul><li>As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of such Wasserstrom.com features as your Profile or Wish Lists.</li><li>You can add or update certain information on pages such as those listed in your account profile. When you update information, we usually keep a copy of the prior version for our records.</li><li>If you do not want to receive email or other mail from us, please make the change in your account profile. If you do not want to receive other legal notices from us, such as this Privacy Notice, those notices will still govern your use of Wasserstrom.com, and it is your responsibility to review them for changes.</li></ul><br><h3>Does Wasserstrom.com Participate in the Safe Harbor Program?</h3><p>Wasserstrom.com is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and the E.U. For more information about the Safe Harbor and to view our certification, visit the U.S. Department of Commerce's Safe Harbor Web site. If you would like to contact Wasserstrom.com directly about the Safe Harbor program, please send an email to safeharbor@wasserstrom.com.</p><h3>Conditions of Use, Notices, and Revisions</h3><p>If you choose to visit Wasserstrom.com, your visit and any dispute over privacy is subject to this Notice and our conditions of use, including limitations on damages, arbitration of disputes, and application of the law of the state of Ohio. If you have any concern about privacy at Wasserstrom.com, please contact us with a thorough description, and we will try to resolve it. </p><p>Our business changes constantly, so our Privacy Notice and the Conditions of Use will change also. We may email you periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our website frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.</p><h3>Automatic Information</h3><p>Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; email address; password; computer and connection information such as browser type, version, and time zone setting, browser plug-in types and versions, operating system, and platform; purchase history, the full Uniform Resource Locator (URL) clickstream to, through, and from our website, including date and time; cookie number; products you viewed or searched for; and the phone number you used to call our 800 number. We may also use browser data such as cookies, Flash cookies (also known as Flash Local Shared Objects), or similar data on certain parts of our website for fraud prevention and other purposes. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.</p><h3>Information from Other Sources</h3><p>Examples of information we receive from other sources include updated delivery and address information from our carriers or other third-parties, which we use to correct our records and deliver your next purchase or communication more easily; account information, purchase or redemption information, search term and search result information; search results and links, including paid listings (such as Sponsored Links); and credit history information from credit bureaus, which we use to help prevent and detect fraud and to offer certain credit or financial services to some customers.</p><h3>Information You Can Access</h3><p>Examples of information you can access easily at Wasserstrom.com include up-to-date information regarding recent orders; personally identifiable information (including name, email, password, communications preferences, and address book); payment settings (including credit card information and check balances); email notification settings (including Order notifications, Shipping notifications, Deliveries, and newsletters); recommendations (including Recent Product view history, Prior Order History, and Favorites); shopping lists (including Wish Lists and Quick Order Guides); and your Profile (including your product Reviews, Requests, and Recommendations).</p>	
+</div>
+</div>
+</div>
+</div> 
+<div class="clearfix"></div>
+<!--[if !IE]> End Overall Content Area <![endif]-->
+</div>
+<!-- Start - JSP File name: default/CachedFooterDisplay.jsp -->
+<div id="globalFooterTop" style="display:block">
+<div class="globalFooterTopMenu">
+<div class="globalFooterTopMenuHeader"><span>Site Information:</span></div>
+<div class="globalFooterTopMenuBody"> 
+<ul> 
+<li><a href="http://www.wasserstrom.com">Home</a></li>
+<li><a href="http://www.wasserstrom.com/restaurant-supplies-equipment/Brands">Brand Showcase</a></li>
+<li><a href="http://www.wasserstrom.com/restaurant-supplies-equipment/catering_hotdealsoncoolwares_1000148">Hot Deals on Cool Wares</a></li>
+<li><a href="http://www.wasserstrom.com/restaurant-supplies-equipment/GuestOrderTrackingView">Where's my Stuff</a></li>
+<li><a href="http://www.wasserstrom.com/restaurant-supplies-equipment/CorpPrivacyPolicyView">Privacy Policy</a></li>
+<li><a href="http://www.wasserstrom.com/restaurant-supplies-equipment/CorpSiteMapView">Site Map</a></li>
+</ul>
+</div>
+</div>
+<div class="globalFooterTopMenu">
+<div class="globalFooterTopMenuHeader"><span>Corporate Information:</span></div>
+<div class="globalFooterTopMenuBody"> 
+<ul>
+<li><a href="http://www.wasserstrom.com/restaurant-supplies-equipment/AboutWasserstromView">About Us</a></li>
+<li><a href="http://www.wasserstrom.com/restaurant-supplies-equipment/CareersOverviewView">Careers</a></li>
+<li><a href="http://www.wasserstrom.com/restaurant-supplies-equipment/NewsRoomView">Newsroom</a></li>
+<li><a href="http://www.wasserstrom.com/restaurant-supplies-equipment/DivisionsView">Divisions</a></li>
+<li><a href="http://www.wasserstrom.com/restaurant-supplies-equipment/CorpTermsConditionsView">Terms and Conditions</a></li>	
+<li><a href="http://www.wasserstrom.com/restaurant-supplies-equipment/ContactusOverviewView">Contact Us Overview</a></li>
+</ul>
+</div>
+</div>
+<div class="globalFooterTopMenu">
+<div class="globalFooterTopMenuHeader"><span>Customer Service:</span></div>
+<div class="globalFooterTopMenuBody"> 
+<ul>
+<li><a href="http://www.wasserstrom.com/restaurant-supplies-equipment/ContactUs">Contact Us Form</a></li>
+<li><a href="http://www.wasserstrom.com/restaurant-supplies-equipment/NewAccountSetupView">Account Setup</a></li>
+<li><a href="http://www.wasserstrom.com/restaurant-supplies-equipment/ContactusFaqsView">Frequently Asked Questions</a></li>
+<li><a href="http://www.wasserstrom.com/restaurant-supplies-equipment/ReturnFormView">Item Return Form</a></li>
+<li><a href="http://www.wasserstrom.com/restaurant-supplies-equipment/CorpProductRecallsView">Product Recalls</a></li>
+<li><a href="http://www.wasserstrom.com/restaurant-supplies-equipment/MapsDirectionsView">Retail Locations</a></li>
+</ul>
+</div>
+</div>
+<div class="globalFooterTopMenu">
+<div class="globalFooterTopMenuHeader"><span>My Account:</span></div>
+<div class="globalFooterTopMenuBody"> 
+<ul>
+<li><a href="http://www.wasserstrom.com/restaurant-supplies-equipment/UserAccountProfileView?pageType=UserAccountProfileView">Account Overview</a></li>
+<li><a href="https://www.wasserstrom.com/restaurant-supplies-equipment/AccountInfoView">Edit Profile</a></li>
+<li><a href="http://www.wasserstrom.com/restaurant-supplies-equipment/OrderCalculate?URL=http%3a%2f%2fwww.wasserstrom.com%2frestaurant-supplies-equipment%2fCheckoutShoppingCartView&amp;orderId=.">Shopping Cart</a></li>
+<li><a href="http://www.wasserstrom.com/restaurant-supplies-equipment/InterestItemDisplay">Wish list</a></li>	
+</ul>
+</div>
+</div>
+<div class="globalFooterTopMenuLast">
+<div class="globalFooterTopMenuHeader"><span>Customer Solutions:</span></div>
+<div class="globalFooterTopMenuBody"> 
+<img src="/wcsstore/Wasserstrom/images/clear.gif" alt="" style="height:98px;width:186px;background:url(/wcsstore/Wasserstrom/images/footerFill.gif) no-repeat left top;text-align:center;">
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+<div id="globalFooterBottom"> 
+<span class="copyw"> 
+<span> 
+For questions or assistance call: 1-866-634-8927,
+©2009 Wasserstrom Restaurant Supply.
+</span>
+<span style="float:right;padding-left:2px;">
+<script type="text/javascript">
+getDate();
+</script>Friday, January 31, 2020
+</span>
+</span>
+<span class="verisign"><a href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.wasserstrom.COM&amp;lang=en" rel="nofollow" target="_blank" style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;"><img src="/wcsstore/Wasserstrom/images/verisign.png" alt="Verisign"></a></span> 
+<span class="bbonline"><a target="_blank" href="http://www.bbbonline.org/cks.asp?id=10808187259" rel="nofollow"><img title="Click to verify BBB accreditation and to see a BBB report." border="0" src="/wcsstore/Wasserstrom/images/BBB_seal.gif" alt="Click to verify BBB accreditation and to see a BBB report."></a></span>
+<span class="feda"><a target="_blank" href="http://www.feda.com" rel="nofollow"><img title="Food Service Distributors Association" border="0" src="/wcsstore/Wasserstrom/images/FEDA.gif" alt="Food Service Distributors Association"></a></span>	
+<span class="since1902Img"><a href="#"><img height="61" title="Wasserstrom Restaurant Supplies" border="0" src="/wcsstore/Wasserstrom/images/since1902_small.gif" alt="Wasserstrom Restaurant Supplies"></a></span>	
+<span class="copyw">
+<ul>
+<li>Our Restaurant Supply Locations : </li>
+<li>Allentown</li>
+<li>Cincinnati</li>
+<li>Columbus</li>
+<li>Dallas</li>
+<li>Dayton</li>
+<li>Greenville</li>
+<li>Jacksonville</li>
+<li>Oklahoma City</li>
+<li class="last">Phoenix</li>
+</ul>
+</span>
+<span class="copyw" style="text-align:center"> Wasserstrom is an Equal Opportunity Employer. </span>
+</div>
+<script language="JavaScript" type="text/javascript">var wasJSPPgId="CorpPrivacyPolicyView";</script>
+<script language="JavaScript" type="text/javascript">var wasSrvrName="www.wasserstrom.com";</script>
+<script src="/wcsstore/Wasserstrom/scripts/wasMetrics.js" language="JavaScript" type="text/javascript"></script> 
+<!-- Channel Intelligence V1.4 -->
+<script type="text/javascript">	
+var ciJSHost = (("https:" == document.location.protocol) ? "https://cts-secure." : "http://cts.");
+document.write(unescape("%3Cscript src='" + ciJSHost + "channelintelligence.com/42526632_landing.js' type='text/javascript'%3E%3C/script%3E"));	
+</script><script src="https://cts-secure.channelintelligence.com/42526632_landing.js" type="text/javascript"></script>
+<!--[if !IE]> END Overall Content Area <![endif]-->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-2383047-1");
+pageTracker._trackPageview();
+</script> 
+<script language="JavaScript" type="text/javascript">
+callAjaxMiniCart();
+</script>
+
+
+</body></html>
