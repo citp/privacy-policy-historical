@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trianglemom2mom.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524223023id_/http%3A//www.trianglemom2mom.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trianglemom2mom.com privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123193717id_/http%3A//www.trianglemom2mom.com/privacy) for the most accurate reproduction.*
 
 # Mom2Mom : Privacy Policy | Mom 2 Mom
 
