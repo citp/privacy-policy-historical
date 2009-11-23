@@ -1,11 +1,16 @@
-<!--The following is the downloaded HTML source of the planetizen.com privacy policy that was archived on 2009-05-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090524084258id_/http%3A//www.planetizen.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the planetizen.com privacy policy that was archived on 2009-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091123193649id_/http%3A//www.planetizen.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" class="js"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <title>Privacy Policy | Planetizen</title>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <link rel="stylesheet" href="/sites/default/themes/zen/plnz2008/print.css" type="text/css" media="print">
 
+<meta name="DC.Title" content="Privacy Policy">
+<meta name="description" content="We respect your privacy. All information collected at this site will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Any information you give to Planetizen will be held with the utmost care, and will">
+<meta name="keywords" content="urban planning,cities,land use,development,architecture,public policy,built environment">
+<meta name="robots" content="index,follow">
 <link rel="prev" href="/about/standards">
 
 <link rel="up" href="/about">
@@ -13,17 +18,48 @@
 <link rel="next" href="/node/20075">
 
 <link rel="shortcut icon" href="/files/plnz2008_favicon.ico" type="image/x-icon">
-  <style type="text/css" media="all">@import "/files/css/248439936e2ffca52a7e8852d660b976.css?a1";</style>
+  <style type="text/css" media="all">@import "/files/css/cf7aa71a5462d8cbcecc530df0c11a99.css";</style>
   <!--[if IE]>
     <link rel="stylesheet" href="/sites/default/themes/zen/ie.css" type="text/css">
       <![endif]-->
   <script type="text/javascript" src="/misc/jquery.js"></script>
 <script type="text/javascript" src="/misc/drupal.js"></script>
-<script type="text/javascript" src="/sites/default/modules/date/date_timezone/date_timezone.js"></script>
 <script type="text/javascript" src="/sites/default/modules/jstools/jstools.js"></script>
 <script type="text/javascript" src="/sites/default/modules/jstools/activemenu/activemenu.js"></script>
+<script type="text/javascript" src="/sites/default/modules/cumulus/cumulus.js"></script>
 <script type="text/javascript" src="/sites/default/themes/zen/plnz2008/nav-block-slide.js"></script>
 <script type="text/javascript">Drupal.extend({ settings: { "jstools": { "cleanurls": true, "basePath": "/" }, "activemenu": { "#block-book-0": "activemenu/book", "#block-menu-1": "activemenu/menu", "#block-menu-147": "activemenu/menu", "#block-menu-157": "activemenu/menu", "#block-user-1": "activemenu/menu" } } });</script>
+<script type="text/javascript">
+      $(function() {
+        if (document.referrer) {
+          var searchers = ['google', 'yahoo', 'msn', 'live', 'aol', 'ask', 'search', 'bing', 'cnn', 'altavista', 'netscape', 'alltheweb', 'gigablast', 'snap'];
+          var rss_readers = ['reader', 'rss', 'feed'];
+          var host = document.referrer.split('//')[1].split('/')[0];
+          var se_found = false;
+          
+          for (var key in searchers) {
+            if (host.indexOf('.' + searchers[key] + '.') > 0) {
+              se_found = true;
+              break;
+            }
+          }
+          
+          if (se_found) {
+            for (var key in rss_readers) {
+              if (document.referrer.indexOf(rss_readers[key]) > 0) {
+                se_found = false;
+                break;
+              }
+            }
+          }
+          
+          if (se_found) {
+            $('#content-inner').prepend($('#welcome_se_referral'));
+            $('#welcome_se_referral').show('normal');
+          }
+        }
+        
+      });</script>
 </head>
 
 <body class="two-sidebars">
@@ -36,10 +72,10 @@
     <div id="header"><div id="header-inner" class="clear-block">
 
                       <a href="/" title="Planetizen Home" rel="home"><img src="/sites/default/themes/zen/plnz2008/images/planetizen-logo2008.gif" alt="Planetizen Home" id="logo-image"></a>
-            <img src="/sites/default/themes/zen/plnz2008/images/planetizen-logo-print.gif" id="logo-image-print">
+            <img src="/sites/default/themes/zen/plnz2008/images/planetizen-logo-print.gif" id="logo-image-print" alt="Logo for print">
           
               <div id="header-blocks">
-          <div id="block-search-0" class="block block-search region-odd even region-count-1 count-10"><div class="block-inner">
+          <div id="block-search-0" class="block block-search region-odd odd region-count-3 count-17"><div class="block-inner">
 
   
   <div class="content">
@@ -55,25 +91,17 @@
 
   
 </div></div> <!-- /block-inner, /block -->
+<div id="block-block-60" class="block block-block region-even even region-count-4 count-18"><div class="block-inner">
+
+  
+  <div class="content">
+    <div id="logged-in-as">
+<a href="/user" class="right-separator">Log in</a><a href="/user/register" title="Create a new user account.">Sign Up</a></div>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
         </div> <!-- /#header-blocks -->
-                
-    <div class="login-form">
-    <form action="/user/login?destination=about/privacy" method="post" id="user-login-form">
-      <span id="form-padding" title="This field is required." class="form-item">Username:</span>
-	  <span class="password-spacer">
-	  <span title="This field is required." class="form-item">Password:</span>
-	  </span><br>
-      <input type="text" title="Please Enter Your Username" maxlength="60" name="name" id="edit-name" size="10" value="" tabindex="1" class="form-text required">
-	  <span class="password-field-spacer"> 
-      <input type="password" maxlength="" title="Please Enter Your Password" name="pass" id="edit-pass" size="10" tabindex="2" class="form-text required">
-	  </span>
-	  <input type="submit" name="op" value="Log in" tabindex="3" id="edit-submit" class="form-submit">
-      <a title="Create a new user account." href="/user/register">Sign Up</a>
-      <input type="hidden" name="form_id" id="edit-user-login" value="user_login">
-     </form>
-     </div>
-      	
-    </div></div> <!-- /#header-inner, /#header -->
+          </div></div> <!-- /#header-inner, /#header -->
 
     <div id="main"><div id="main-inner" class="clear-block">
 
@@ -114,8 +142,36 @@
         </div>
 
         
-        
-      </div></div> <!-- /#content-inner, /#content -->
+                  <div id="content-bottom">
+            <div id="block-block-55" class="block block-block region-odd odd region-count-1 count-15"><div class="block-inner">
+
+  
+  <div class="content">
+    <!-- AddThis Button BEGIN -->
+<div>
+<script type="text/javascript">var addthis_pub="49fa3ade21cdec02";</script>
+<a href="http://www.addthis.com/bookmark.php?v=20" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s7.addthis.com/static/btn/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"></a><script type="text/javascript" src="http://s7.addthis.com/js/200/addthis_widget.js"></script>
+</div>
+<!-- AddThis Button END -->  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-block-56" class="block block-block region-even even region-count-2 count-16"><div class="block-inner">
+
+  
+  <div class="content">
+    <div class="quote-day"><div class="quote" style="text-align:left">“</div><div class="quote-body"><em>It's all too easy for projects to claim that they will be successful places, and all too hard to tell ahead of time which ones actually will.</em></div><div class="quote" style="text-align:right;">”</div></div><div style="text-align:right; clear:both"><a href="/node/40195">Read the full article, written by Julia Galef.</a></div>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+          </div> <!-- /#content-bottom -->
+                      <div id="welcome_se_referral" style="display:none; border:1px solid #ccc; background-color:#FFF1AF; padding:0.5em; margin-bottom:0.5em;">
+        <strong>Welcome to Planetizen.</strong><br><br>
+        It appears you found us through a web search. Consider bookmarking <a href="http://www.planetizen.com">Planetizen</a>
+        -- the leading source of news for urban planning, design and development.<br><br>
+        Even better, <a href="http://www.planetizen.com/newswire/subscribe">subscribe</a> to our hand-crafted, free email newsletter,
+        and we'll deliver to you the top news headlines twice each week. 
+      </div>      </div></div> <!-- /#content-inner, /#content -->
 
 
               <div id="sidebar-left"><div id="sidebar-left-inner">
@@ -130,140 +186,64 @@
 <li class="leaf"><a href="/interchange" title="Planetizen Interchange">Blog</a></li>
 <li class="leaf"><a href="/oped">Op-Ed</a></li>
 <li class="leaf"><a href="/features">Features</a></li>
-<li class="leaf"><a href="/podcast">Podcast</a></li>
-<li class="leaf"><a href="/announce">Announce</a></li>
-<li class="leaf"><a href="/jobs">Jobs</a></li>
-<li class="leaf"><a href="/consultants">Consultants</a></li>
-<li class="leaf"><a href="/schools/directory" title="Urban Planning Programs">Schools</a></li>
-<li class="leaf"><a href="/courses/index.php">Courses</a></li>
-<li class="leaf"><a href="/store">Store</a></li>
-<li class="leaf"><a href="/books">Books</a></li>
-<li class="leaf"><a href="/videos">Videos</a></li>
-<li class="leaf"><a href="http://www.planetizen.com/websites">Websites</a></li>
-<li class="leaf"><a href="http://radar.planetizen.com">Radar</a></li>
-<li class="leaf"><a href="/forum">Forums</a></li>
 <li class="leaf"><a href="/newswire/subscribe">Newsletter</a></li>
+<li class="leaf"><a href="/podcast">Podcast</a></li>
 <li class="leaf"><a href="http://www.planetizen.com/about">About</a></li>
+<li class="leaf">&nbsp;</li>
+<li class="leaf"><a href="/jobs">Jobs</a></li>
+<li class="leaf"><a href="/about/advertise">Advertise</a></li>
+<li class="leaf"><a href="/announce">Announce</a></li>
+<li class="leaf"><a href="/consultants">Consultants</a></li>
+<li class="leaf"><a href="/courses/index.php">Courses</a></li>
+<li class="leaf"><a href="/schools/directory" title="Urban Planning Programs">Schools</a></li>
+<li class="leaf"><a href="/store">Store</a></li>
+<li class="leaf">&nbsp;</li>
+<li class="leaf"><a href="/videos">Videos</a></li>
+<li class="leaf"><a href="/forum">Forums</a></li>
+<li class="leaf"><a href="http://radar.planetizen.com">Radar</a></li>
 
 </ul>
   </div>
 
   
 </div></div> <!-- /block-inner, /block -->
-<div id="block-block-1" class="block block-block region-even even region-count-2 count-2"><div class="block-inner">
+<div id="block-block-63" class="block block-block region-even even region-count-2 count-2"><div class="block-inner">
 
+      <h2 class="title">Planetizen picks</h2>
   
   <div class="content">
-    <a href="http://www.planetizen.com/courses/plan180"><img src="http://www.planetizen.com/files/spotlight/plan180-spotlight.gif" alt="Go Sustainable Through Preservation" width="140"></a>
-<hr>
-<!--
-$image [3] = "tech260-spotlight.gif";
-$alt [3] = "Learn to Use CommunityViz for Suitability";
-$link[3] = "courses/tech260";
-
-$image [3] = "tech120-spotlight.gif";
-$alt [3] = "Learn SketchUp";
-$link[3] = "courses/tech120";
-
-$image [5] = "tech260-spotlight.gif";
-$alt [5] = "Learn to Use CommunityViz for Suitability Analysis";
-$link[5] = "courses/tech260";
-
-$image [0] = "aicp-readers.gif";
-$alt [0] = "AICP Exam Prep Readers Now Available";
-$link[0] = "courses/aicp#readers";
-
-$image [5] = "plan175-spotlight.gif";
-$alt [5] = "Video for Planners";
-$link[5] = "courses/plan175";
-
-$image [6] = "plan160-spotlight.gif";
-$alt [6] = "Learn About Light Imprint Urbanism";
-$link[6] = "courses/plan160";
-
-$image [11] = "tech230-spotlight.gif";
-$alt [11] = "Learn Google Earth for Planning";
-$link[11] = "courses/tech230";
-
-$image [1] = "tech125-spotlight.gif";
-$alt [1] = "Learn Technology for Planners";
-$link[1] = "courses/tech125";
-
-
-$image [2] = "plan110-spotlight.gif";
-$alt [2] = "Intro to Historic Preservation Course";
-$link[2] = "courses/plan110";
-
-
-$image [3] = "plan115-spotlight.gif";
-$alt [3] = "Intro to TOD";
-$link[3] = "courses/plan115";
-
-
-$image [4] = "plan130-spotlight.gif";
-$alt [4] = "Learn About the Australian Planning System";
-$link[4] = "courses/australia";
-
-$image [5] = "plan305-spotlight.gif";
-$alt [5] = "Last Minute Tips for the AICP Exam";
-$link[5] = "courses/plan305";
-
-$image [5] = "plan125-spotlight.gif";
-$alt [5] = "Get a Job in Planning";
-$link[5] = "courses/plan125";
-
-$image [5] = "plan135-spotlight.gif";
-$alt [5] = "Introduction to Smart Growth";
-$link[5] = "courses/smartgrowth";
-
-
-$image [10] = "tech240-spotlight.gif";
-$alt [10] = "Learn Google Maps for Planning";
-$link[10] = "courses/tech240";
-
-$image [11] = "tech250-spotlight.gif";
-$alt [11] = "Learn to Use CommunityViz for Build Out";
-$link[11] = "courses/tech250";
-
-$image [13] = "plan140-spotlight.gif";
-$alt [13] = "Understand CEQA";
-$link[13] = "courses/plan140";
-
-
-$image [11] = "tech130-spotlight.gif";
-$alt [11] = "Intro to Google Earth";
-$link[11] = "courses/tech130";
-
-$image [11] = "tech230-spotlight.gif";
-$alt [11] = "Learn Google Earth for Planning";
-$link[11] = "courses/tech230";
-
-$image [11] = "tech330-spotlight.gif";
-$alt [11] = "Learn AdvancedGoogle Earth";
-$link[11] = "courses/tech330";
-
-$image [3] = "tech120-spotlight.gif";
-$alt [3] = "Learn SketchUp";
-$link[3] = "courses/tech120";
-
-$image [5] = "plan145-spotlight.gif";
-$alt [5] = "Video Course: Ethics for Planners";
-$link[5] = "courses/plan145";
-
-$image [5] = "plan180-spotlight.gif";
-$alt [5] = "Learn About Sustainability and Preservation";
-$link[5] = "courses/plan180";
-
-$image [4] = "kidsbook-presale-spot2.jpg";
-$alt [4] = "A Planetizen Children's Book About Urban Planning";
-$link[4] = "kidsbook";
-
--->
-<a href="/courses/smartgrowth"><img src="/files/spotlight/plan135-spotlight.gif" alt="Introduction to Smart Growth" border="0" width="140"></a>  </div>
+    <ul class="category-block">
+<li><a href="/books">Top Books</a></li>
+<li><a href="/topthinkers">Top Thinkers</a></li>
+<li><a href="/websites">Top Websites</a></li>
+</ul>  </div>
 
   
 </div></div> <!-- /block-inner, /block -->
-<div id="block-block-50" class="block block-block region-odd odd region-count-3 count-3"><div class="block-inner">
+<div id="block-block-49" class="block block-block region-odd odd region-count-3 count-3"><div class="block-inner">
+
+      <h2 class="title">Contribute</h2>
+  
+  <div class="content">
+    <ul class="category-block">
+<li><a href="/news/submit">Add News</a></li>
+<li><a href="/submit/job">Add Job</a></li>
+<li><a href="/announce/submit">Add Announcement</a></li>
+<li><a href="/consultants/submit">Add Consultant</a></li></ul>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-block-1" class="block block-block region-even even region-count-4 count-4"><div class="block-inner">
+
+  
+  <div class="content">
+    <a href="/courses/plan140"><img src="/files/spotlight/plan140-spotlight.gif" alt="Understand CEQA" border="0" width="140"></a><!--
+<br />
+<a href="/courses/tech320"><img src="http://www.planetizen.com/files/spotlight/webweds-111809-spotlight.png" alt="Learn Advanced Model Making with SketchUp" width="140"></a>-->  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-block-50" class="block block-block region-odd odd region-count-5 count-5"><div class="block-inner">
 
       <h2 class="title">Categories</h2>
   
@@ -289,21 +269,97 @@ $link[4] = "kidsbook";
 
   
 </div></div> <!-- /block-inner, /block -->
-        </div></div> <!-- /#sidebar-left-inner, /#sidebar-left -->
-      
-              <div id="sidebar-right"><div id="sidebar-right-inner">
-          <div id="block-block-42" class="block block-block region-odd even region-count-1 count-4"><div class="block-inner">
+<div id="block-block-59" class="block block-block region-even even region-count-6 count-6"><div class="block-inner">
 
   
   <div class="content">
-    <div class="ads"><a href="/about/advertise">Advertise on Planetizen</a></div>
-
-<div class="advertisement group-tids-8685" id="group-id-tids-8685"><script type="text/javascript" src="http://www.planetizen.com/sites/default/modules/ad/serve.php?q=1&amp;c=file&amp;f=3&amp;p=files&amp;t=8685"></script></div>
+    <div style="margin:0px 10px 0; padding:0.5em 0; border-top:1px solid #DFDFDF; border-bottom:1px solid #DFDFDF;">
+<img src="/images/icon_facebook.png" alt="Facebook icon"> <img src="/images/icon_twitter.png" alt="Twitter icon"><br>
+Follow us on <a href="http://www.facebook.com/group.php?gid=5643459111">Facebook</a> and <a href="http://twitter.com/planetizen">Twitter</a>
+</div>
   </div>
 
   
 </div></div> <!-- /block-inner, /block -->
-<div id="block-book-0" class="block block-book region-even odd region-count-2 count-5"><div class="block-inner">
+        </div></div> <!-- /#sidebar-left-inner, /#sidebar-left -->
+      
+              <div id="sidebar-right"><div id="sidebar-right-inner">
+          <div id="block-block-42" class="block block-block region-odd odd region-count-1 count-7"><div class="block-inner">
+
+  
+  <div class="content">
+    <div class="ads"><a href="/about/advertise">Advertise on Planetizen</a></div>
+<div id="AdContainer">
+
+<div class="advertisement group-tids-8685" id="group-id-tids-8685"><script type="text/javascript" src="http://www.planetizen.com/sites/default/modules/ad/serve.php?q=1&amp;c=file&amp;f=3&amp;p=files&amp;t=8685"></script></div>
+</div>
+
+
+<script language="javascript">
+  var ad_count = 6;
+  var ad_to_load = 0;
+  var scroll_speed = 7; // speed in seconds
+
+  $(document).ready(function() {
+    window.setTimeout("loopAdSlides()", scroll_speed * 1000);
+  });
+
+  function loopAdSlides() {
+    ad_to_load = ad_to_load % ad_count + 1;
+    var content = $("#AdSlide" + ad_to_load).html();
+    $("#AdContainer").html(content);
+    window.setTimeout("loopAdSlides()", scroll_speed * 1000);
+  }
+</script>
+<div id="AdSlides">
+      <div id="AdSlide1" style="display:none;">
+              <div class="image" style="line-height:0"><a href="/ad/redirect/41724"><img src="/files/Planetizen Square Ad.jpg" width="280" height="210" alt="Advertisement"></a></div>
+          </div>
+      <div id="AdSlide2" style="display:none;">
+              <div class="image" style="line-height:0"><a href="/ad/redirect/39949"><img src="/files/20090806-rutgers.jpg" width="280" height="210" alt="Advertisement"></a></div>
+          </div>
+      <div id="AdSlide3" style="display:none;">
+              <div class="image" style="line-height:0"><a href="/ad/redirect/40484"><img src="/files/W_Planning-bann_280x210.jpg" width="280" height="210" alt="Advertisement"></a></div>
+          </div>
+      <div id="AdSlide4" style="display:none;">
+              <div class="image" style="line-height:0"><a href="/ad/redirect/41552"><img src="/files/JoinMSNetwork_PlanetizenAd.jpg" width="280" height="210" alt="Advertisement"></a></div>
+          </div>
+      <div id="AdSlide5" style="display:none;">
+              <div class="image" style="line-height:0"><a href="/ad/redirect/40003"><img src="/files/flintbook-280x210.gif" width="280" height="210" alt="Advertisement"></a></div>
+          </div>
+      <div id="AdSlide6" style="display:none;">
+              <div class="image" style="line-height:0"><a href="/ad/redirect/41780"><img src="/files/HNTB_AD2.jpg" width="280" height="210" alt="Advertisement"></a></div>
+          </div>
+  </div>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-block-62" class="block block-block region-even even region-count-2 count-8"><div class="block-inner">
+
+      <h2 class="title">TECH-320: Advanced SketchUp Webinar</h2>
+  
+  <div class="content">
+    <p><strong>Advanced SketchUp Webinar</strong><br>
+Wednesday, December 2, 11am PST/2pm EST</p>
+<div style="font-size:.8em">$49.95 (includes 30-day access to video recording)</div>
+<p><embed src="http://blip.tv/play/g5dPgaquaAA" type="application/x-shockwave-flash" width="280" height="222" allowscriptaccess="always" allowfullscreen="true"><br>
+Learn More:<br>
+<a href="http://www.planetizen.com/courses/tech320">TECH-320: Advanced SketchUp - Modeling Buildings</a></p>
+  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-block-12" class="block block-block region-odd odd region-count-3 count-9"><div class="block-inner">
+
+      <h2 class="title"><img src="/images/b/ln.gif" alt="Latest News"></h2>
+  
+  <div class="content">
+    <br>
+<ul style="list-style:none;margin:0px 0px 0px 0px; padding:0px 0px 0px 0px;"><li style="margin-bottom:2px;"><a href="/node/41775">Denser Neighborhoods Could Save Bay Area $31 Billion</a></li><li style="margin-bottom:2px;"><a href="/node/41773">Harassment and Assault Common on Subway</a></li><li style="margin-bottom:2px;"><a href="/node/41772">The Robots Behind Interactive Architecture</a></li><li style="margin-bottom:2px;"><a href="/node/41771">Michigan Urged to Keep Film Incentive Program</a></li><li style="margin-bottom:2px;"><a href="/node/41769">Change the Built Environment, Make the World Better</a></li><li style="margin-bottom:2px;"><a href="/node/41768">Broad Plan to Reshape San Francisco's Skyline</a></li><li style="margin-bottom:2px;"><a href="/node/41767">The Totalitarianism of Le Corbusier</a></li><li style="margin-bottom:2px;"><a href="/node/41770">Landscape Architecture and the Creation of Public Space</a></li><li style="margin-bottom:2px;"><a href="/node/41762">Iraqi Civil Engineers Take Over Base Planning</a></li><li style="margin-bottom:2px;"><a href="/node/41766">Brand-New Offramp Must Be Torn Down, Rebuilt</a></li></ul>  </div>
+
+  
+</div></div> <!-- /block-inner, /block -->
+<div id="block-book-0" class="block block-book region-even even region-count-4 count-10"><div class="block-inner">
 
       <h2 class="title"><img src="/images/b/ap.gif" alt="About Planetizen"></h2>
   
@@ -312,36 +368,77 @@ $link[4] = "kidsbook";
 
   
 </div></div> <!-- /block-inner, /block -->
-<div id="block-block-12" class="block block-block region-odd even region-count-3 count-6"><div class="block-inner">
+<div id="block-cumulus-0" class="block block-cumulus region-odd odd region-count-5 count-11"><div class="block-inner">
 
-      <h2 class="title"><img src="/images/b/ln.gif" alt="Latest News"></h2>
+      <h2 class="title"><img src="/images/b/rt.gif" alt="Recent Tags"></h2>
   
   <div class="content">
-    <br>
-<ul style="list-style:none;margin:0px 0px 0px 0px; padding:0px 0px 0px 0px;"><li style="margin-bottom:2px;"><a href="/node/38910">Cities Struggling, But Not Raising Taxes</a></li><li style="margin-bottom:2px;"><a href="/node/38909">Making 'Smarter'&nbsp;Roads</a></li><li style="margin-bottom:2px;"><a href="/node/38907">Guerilla Greywater Goes Public Policy</a></li><li style="margin-bottom:2px;"><a href="/node/38911">Innovation Comes to the Greenhouse</a></li><li style="margin-bottom:2px;"><a href="/node/38899">Orange County's Great Park Crawls Forward</a></li><li style="margin-bottom:2px;"><a href="/node/38894">Raise High the Roofbeams...</a></li><li style="margin-bottom:2px;"><a href="/node/38906">FL Growth Legislation Hinges on "What Is Urban?"</a></li><li style="margin-bottom:2px;"><a href="/node/38908">Bus Stop of the Future</a></li><li style="margin-bottom:2px;"><a href="/node/38905">Downtown, Everything's Waiting For You</a></li><li style="margin-bottom:2px;"><a href="/node/38895">Comparing Manhattan and a Mouse, Mathematically</a></li></ul>  </div>
+            <div id="tags">
+        <a href="/taxonomy/term/9020" class="tagadelic level1" rel="tag">Algae</a> 
+<a href="/taxonomy/term/1502" class="tagadelic level1" rel="tag">Bicycle Commuting</a> 
+<a href="/taxonomy/term/2364" class="tagadelic level1" rel="tag">California</a> 
+<a href="/taxonomy/term/1519" class="tagadelic level2" rel="tag">Census</a> 
+<a href="/taxonomy/term/247" class="tagadelic level2" rel="tag">Cities</a> 
+<a href="/taxonomy/term/241" class="tagadelic level2" rel="tag">Climate Change</a> 
+<a href="/taxonomy/term/1255" class="tagadelic level3" rel="tag">Commuter Rail</a> 
+<a href="/taxonomy/term/644" class="tagadelic level2" rel="tag">Commuting</a> 
+<a href="/taxonomy/term/230" class="tagadelic level2" rel="tag">Density</a> 
+<a href="/taxonomy/term/197" class="tagadelic level1" rel="tag">Eminent Domain</a> 
+<a href="/taxonomy/term/248" class="tagadelic level2" rel="tag">High-Speed Rail</a> 
+<a href="/taxonomy/term/6458" class="tagadelic level1" rel="tag">High Speed Rail</a> 
+<a href="/taxonomy/term/264" class="tagadelic level2" rel="tag">Hurricane Katrina</a> 
+<a href="/taxonomy/term/1374" class="tagadelic level1" rel="tag">Iraq</a> 
+<a href="/taxonomy/term/1448" class="tagadelic level1" rel="tag">Kelo</a> 
+<a href="/taxonomy/term/162" class="tagadelic level4" rel="tag">Light Rail</a> 
+<a href="/taxonomy/term/1013" class="tagadelic level4" rel="tag">Los Angeles</a> 
+<a href="/taxonomy/term/263" class="tagadelic level2" rel="tag">New Orleans</a> 
+<a href="/taxonomy/term/329" class="tagadelic level4" rel="tag">New York City</a> 
+<a href="/taxonomy/term/140" class="tagadelic level3" rel="tag">Parks</a> 
+<a href="/taxonomy/term/1034" class="tagadelic level3" rel="tag">San Francisco</a> 
+<a href="/taxonomy/term/153" class="tagadelic level2" rel="tag">Smart Growth</a> 
+<a href="/taxonomy/term/228" class="tagadelic level2" rel="tag">Suburbs</a> 
+<a href="/taxonomy/term/1064" class="tagadelic level2" rel="tag">Walkability</a> 
+<a href="/taxonomy/term/149" class="tagadelic level2" rel="tag">Water</a> 
+
+        <script type="text/javascript">
+          var rnumber = Math.floor(Math.random()*9999999);
+          var widget_so = new SWFObject("/sites/default/modules/cumulus/cumulus.swf?r="+rnumber, "cumulusflash", "275", "175", "9", "ffffff");
+          
+          widget_so.addParam("allowScriptAccess", "always");
+          widget_so.addVariable("tcolor", "0x005884");
+          widget_so.addVariable("tspeed", "150");
+          widget_so.addVariable("distr", "true");
+          widget_so.addVariable("mode", "tags");
+          widget_so.addVariable("tagcloud", "%3Ctags%3E%3Ca+href%3D%22%2Ftaxonomy%2Fterm%2F9020%22+style%3D%22%26quot%3Bfont-size%3A11px%3B%26quot%3B%22%3EAlgae%3C%2Fa%3E+%0A%3Ca+href%3D%22%2Ftaxonomy%2Fterm%2F1502%22+style%3D%22%26quot%3Bfont-size%3A11px%3B%26quot%3B%22%3EBicycle+Commuting%3C%2Fa%3E+%0A%3Ca+href%3D%22%2Ftaxonomy%2Fterm%2F2364%22+style%3D%22%26quot%3Bfont-size%3A11px%3B%26quot%3B%22%3ECalifornia%3C%2Fa%3E+%0A%3Ca+href%3D%22%2Ftaxonomy%2Fterm%2F1519%22+style%3D%22%26quot%3Bfont-size%3A15px%3B%26quot%3B%22%3ECensus%3C%2Fa%3E+%0A%3Ca+href%3D%22%2Ftaxonomy%2Fterm%2F247%22+style%3D%22%26quot%3Bfont-size%3A15px%3B%26quot%3B%22%3ECities%3C%2Fa%3E+%0A%3Ca+href%3D%22%2Ftaxonomy%2Fterm%2F241%22+style%3D%22%26quot%3Bfont-size%3A15px%3B%26quot%3B%22%3EClimate+Change%3C%2Fa%3E+%0A%3Ca+href%3D%22%2Ftaxonomy%2Fterm%2F1255%22+style%3D%22%26quot%3Bfont-size%3A19px%3B%26quot%3B%22%3ECommuter+Rail%3C%2Fa%3E+%0A%3Ca+href%3D%22%2Ftaxonomy%2Fterm%2F644%22+style%3D%22%26quot%3Bfont-size%3A15px%3B%26quot%3B%22%3ECommuting%3C%2Fa%3E+%0A%3Ca+href%3D%22%2Ftaxonomy%2Fterm%2F230%22+style%3D%22%26quot%3Bfont-size%3A15px%3B%26quot%3B%22%3EDensity%3C%2Fa%3E+%0A%3Ca+href%3D%22%2Ftaxonomy%2Fterm%2F197%22+style%3D%22%26quot%3Bfont-size%3A11px%3B%26quot%3B%22%3EEminent+Domain%3C%2Fa%3E+%0A%3Ca+href%3D%22%2Ftaxonomy%2Fterm%2F248%22+style%3D%22%26quot%3Bfont-size%3A15px%3B%26quot%3B%22%3EHigh-Speed+Rail%3C%2Fa%3E+%0A%3Ca+href%3D%22%2Ftaxonomy%2Fterm%2F6458%22+style%3D%22%26quot%3Bfont-size%3A11px%3B%26quot%3B%22%3EHigh+Speed+Rail%3C%2Fa%3E+%0A%3Ca+href%3D%22%2Ftaxonomy%2Fterm%2F264%22+style%3D%22%26quot%3Bfont-size%3A15px%3B%26quot%3B%22%3EHurricane+Katrina%3C%2Fa%3E+%0A%3Ca+href%3D%22%2Ftaxonomy%2Fterm%2F1374%22+style%3D%22%26quot%3Bfont-size%3A11px%3B%26quot%3B%22%3EIraq%3C%2Fa%3E+%0A%3Ca+href%3D%22%2Ftaxonomy%2Fterm%2F1448%22+style%3D%22%26quot%3Bfont-size%3A11px%3B%26quot%3B%22%3EKelo%3C%2Fa%3E+%0A%3Ca+href%3D%22%2Ftaxonomy%2Fterm%2F162%22+style%3D%22%26quot%3Bfont-size%3A23px%3B%26quot%3B%22%3ELight+Rail%3C%2Fa%3E+%0A%3Ca+href%3D%22%2Ftaxonomy%2Fterm%2F1013%22+style%3D%22%26quot%3Bfont-size%3A23px%3B%26quot%3B%22%3ELos+Angeles%3C%2Fa%3E+%0A%3Ca+href%3D%22%2Ftaxonomy%2Fterm%2F263%22+style%3D%22%26quot%3Bfont-size%3A15px%3B%26quot%3B%22%3ENew+Orleans%3C%2Fa%3E+%0A%3Ca+href%3D%22%2Ftaxonomy%2Fterm%2F329%22+style%3D%22%26quot%3Bfont-size%3A23px%3B%26quot%3B%22%3ENew+York+City%3C%2Fa%3E+%0A%3Ca+href%3D%22%2Ftaxonomy%2Fterm%2F140%22+style%3D%22%26quot%3Bfont-size%3A19px%3B%26quot%3B%22%3EParks%3C%2Fa%3E+%0A%3Ca+href%3D%22%2Ftaxonomy%2Fterm%2F1034%22+style%3D%22%26quot%3Bfont-size%3A19px%3B%26quot%3B%22%3ESan+Francisco%3C%2Fa%3E+%0A%3Ca+href%3D%22%2Ftaxonomy%2Fterm%2F153%22+style%3D%22%26quot%3Bfont-size%3A15px%3B%26quot%3B%22%3ESmart+Growth%3C%2Fa%3E+%0A%3Ca+href%3D%22%2Ftaxonomy%2Fterm%2F228%22+style%3D%22%26quot%3Bfont-size%3A15px%3B%26quot%3B%22%3ESuburbs%3C%2Fa%3E+%0A%3Ca+href%3D%22%2Ftaxonomy%2Fterm%2F1064%22+style%3D%22%26quot%3Bfont-size%3A15px%3B%26quot%3B%22%3EWalkability%3C%2Fa%3E+%0A%3Ca+href%3D%22%2Ftaxonomy%2Fterm%2F149%22+style%3D%22%26quot%3Bfont-size%3A15px%3B%26quot%3B%22%3EWater%3C%2Fa%3E+%0A%3C%2Ftags%3E");
+          widget_so.write("tags");
+        </script>
+        </div>
+        <div class="more-link"><a href="/tagadelic/chunk/6">more tags</a></div>  </div>
 
   
 </div></div> <!-- /block-inner, /block -->
-<div id="block-block-3" class="block block-block region-even odd region-count-4 count-7"><div class="block-inner">
+<div id="block-block-3" class="block block-block region-even even region-count-6 count-12"><div class="block-inner">
 
       <h2 class="title"><img src="/images/b/an.gif" alt="Announcements"></h2>
   
   <div class="content">
-    <div class="subheader">
+    
+<div class="subheader">
 <img src="/sites/default/themes/zen/plnz2008/images/red-cross.gif" alt="Publish Announcements"> <a href="/announce/submit/">Post</a> | <a href="/announce">Read more</a>
 </div>
 <br>
-<a href="/node/38916">Learn affordable housing strategies, New Urbanism, long range planning or environmental planning law</a><br>
-<span class="pub"><em>Rutgers University, Professional Development Institute</em></span><br><span class="date">May 22, 2009</span><br><br>
-<a href="/node/38897">Collaboration for Success: Utilities for a Green Future Web Seminar</a><br>
-<span class="pub"><em>International Economic Development Council</em></span><br><span class="date">May 21, 2009</span><br><br>
-<a href="/node/38876">Learn Entrepreneurial &amp; Small Business Development Strategies at IEDC’s Upcoming Training Course</a><br>
-<span class="pub"><em>International Economic Development Council</em></span><br><span class="date">May 20, 2009</span><br><br>
+
+<a href="/node/41751">Student Writing Competition - Deadline Extended!</a><br>
+<span class="pub"><em>APA Urban Design and Preservation Division</em></span><br><span class="date">Nov 20, 2009</span><br><br>
+<a href="/node/41738">Los Angeles County Department of Public Health (DPH) Request for Proposals</a><br>
+<span class="pub"><em>Los Angeles County Department of Public Health (DPH) </em></span><br><span class="date">Nov 19, 2009</span><br><br>
+<a href="/node/41723">NEW NCI 2009 Best Practices Report</a><br>
+<span class="pub"><em>National Charrette Institute</em></span><br><span class="date">Nov 19, 2009</span><br><br>
   </div>
 
   
 </div></div> <!-- /block-inner, /block -->
-<div id="block-block-47" class="block block-block region-odd even region-count-5 count-8"><div class="block-inner">
+<div id="block-block-47" class="block block-block region-odd odd region-count-7 count-13"><div class="block-inner">
 
       <h2 class="title"><img src="/images/b/fl.gif" alt="Planetizen on Flickr"></h2>
   
@@ -378,7 +475,7 @@ $link[4] = "kidsbook";
 
   
 </div></div> <!-- /block-inner, /block -->
-<div id="block-block-16" class="block block-block region-even odd region-count-6 count-9"><div class="block-inner">
+<div id="block-block-16" class="block block-block region-even even region-count-8 count-14"><div class="block-inner">
 
       <h2 class="title"><img src="/images/b/ad.gif" alt="Advertisements"></h2>
   
