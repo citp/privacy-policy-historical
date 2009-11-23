@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldoil.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523114129id_/http%3A//www.worldoil.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldoil.com privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123101200id_/http%3A//www.worldoil.com/privacy.aspx) for the most accurate reproduction.*
 
 # WorldOil
 
