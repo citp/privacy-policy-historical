@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quicksales.com.au privacy policy that was archived on 2009-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090421033750id_/http%3A//www.carsales.com.au/pls/carsales/%21quick_content.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quicksales.com.au privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123061137id_/http%3A//www.carsales.com.au/pls/carsales/%21quick_content.privacy) for the most accurate reproduction.*
 
 # quicksales.com.au quicksales.com.au : Privacy Policy
 
@@ -72,7 +72,7 @@ If you do not want carsales to disclose your personal information to these indiv
   * government and regulatory authorities as required by law 
 
 **How to access your personal information**   
-You generally have a right to access your personal Information. If you wish to access your personal information please [Click here](https://web.archive.org/web/20090421033750id_/http%3A//www.carsales.com.au/pls/carsales/!quick_content.contact) or on the "contact us" link at the bottom of this page. Please remember to provide as much detail as you can as this will help us to find the information. There is no charge for this service. 
+You generally have a right to access your personal Information. If you wish to access your personal information please [Click here](https://web.archive.org/web/20091123061137id_/http%3A//www.carsales.com.au/pls/carsales/!quick_content.contact) or on the "contact us" link at the bottom of this page. Please remember to provide as much detail as you can as this will help us to find the information. There is no charge for this service. 
 
 **What if you don't provide personal information?**   
 If you choose not to provide personal information when requested, carsales may not be able to provide you with the full range of carsales services. 
@@ -94,7 +94,7 @@ If you have a problem, complaint, want to change your personal information or ju
 Postal Address:    | Locked Bag 3333,Hawthorn VIC 3122  
 Phone: | +61 (03) 9093 8600 (Business Hours EST)  
 Contact: | Patricia Chalmers  
-Email: | [Click](https://web.archive.org/web/20090421033750id_/http%3A//www.carsales.com.au/pls/carsales/!quick_content.contact) here to contact us by email  
+Email: | [Click](https://web.archive.org/web/20091123061137id_/http%3A//www.carsales.com.au/pls/carsales/!quick_content.contact) here to contact us by email  
   
 **How this policy changes**   
 This policy may change over time. All changes will be published on this website. 
