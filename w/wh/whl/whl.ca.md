@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whl.ca privacy policy that was archived on 2009-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090516184715id_/http%3A//www.whl.ca/Privacy-Statement-p126645) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whl.ca privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123065459id_/http%3A//www.whl.ca/Privacy-Statement-p126645) for the most accurate reproduction.*
 
 # The WHL ◊ Official Website
 
