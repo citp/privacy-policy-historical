@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articledesk.info privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608024508id_/http%3A//www.articledesk.info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articledesk.info privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123150110id_/http%3A//articledesk.info/privacy.php) for the most accurate reproduction.*
 
 # Article Directory, Web Content, Publishing, Submit Articles, ArticleDesk.info
 
