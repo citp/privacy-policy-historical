@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the courthousenews.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524151318id_/http%3A//www.courthousenews.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the courthousenews.com privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123224630id_/http%3A//www.courthousenews.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # We at Proxima Technology, Inc
 
