@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shoptits.com privacy policy that was archived on 2009-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090507045740id_/http%3A//www.shoptits.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoptits.com privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123124346id_/http%3A//www.shoptits.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# T.I.T.S. BRAND CLOTHING - Privacy Policy
+# T.I.T.S. BRAND - Privacy Policy
 
 | 
 
