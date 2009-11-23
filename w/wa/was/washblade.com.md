@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the washblade.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625081044id_/http%3A//www.washblade.com/kiosk/privacy/index.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the washblade.com privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123072156id_/http%3A//www.washblade.com/kiosk/privacy/index.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - Washington Blade: The Gay and Lesbian News Source of Record - D.C. and National Gay News, Entertainment and Opinion
 
