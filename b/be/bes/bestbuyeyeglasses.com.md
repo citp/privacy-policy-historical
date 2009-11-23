@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestbuyeyeglasses.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617181327id_/http%3A//www.bestbuyeyeglasses.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestbuyeyeglasses.com privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123171455id_/http%3A//www.bestbuyeyeglasses.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # BestBuyEyeglasses.com - Privacy Policy
 
@@ -49,7 +49,7 @@ As discussed above, you can always choose not to provide information, even thoug
 
 The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, you will not be able to use such important features if you do not use cookies. 
 
-In addition, the Federal Trade Commission provides useful information about online privacy on its own Web site, Site Seeing on the Internet. <http://www.ftc.gov/bcp/conline/pubs/online/sitesee.htm>
+In addition, the Federal Trade Commission provides useful information about online privacy on its own Web site, OnGuard Online. <http://www.onguardonline.gov/topics/overview.aspx>
 
 ######  Children 
 
