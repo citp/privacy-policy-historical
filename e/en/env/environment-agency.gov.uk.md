@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the environment-agency.gov.uk privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605201204id_/http%3A//www.environment-agency.gov.uk/help/35770.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the environment-agency.gov.uk privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123163659id_/http%3A//www.environment-agency.gov.uk/help/35770.aspx) for the most accurate reproduction.*
 
 # Environment Agency - Privacy policy
 
@@ -6,7 +6,7 @@ Information regarding the Environment Agency's use of personal data.
 
 ## Statement of intent
 
-In order to access the services we provide and to provide us with feedback, you will be asked to submit personal information about yourself (e.g. name, address, and telephone number). The services provided include licence application, environmental information, provision of feedback and consultations.
+In order to access the services we provide and to provide us with feedback, you will be asked to submit personal information about yourself (eg name, address, and telephone number). The services provided include licence application, environmental information, provision of feedback and consultations.
 
 By entering your details the Environment Agency will be able to provide you with the services you select. Whenever you provide personal information, we undertake to treat that information in accordance with this policy.
 
@@ -47,6 +47,10 @@ Cookies are text files, which identify your computer to our server. Cookies in t
 
 We also use an external agent to analyse usage behaviour on our behalf. To enable this we use a ‘unique visitor cookie’ to obtain information about your use of our site, such as whether you have visited our site more than once and how you found us.
 
-This information allows us to more effectively tailor our site to make its use easier. You can read the external agent's privacy policy at:[Nielsen//Netratings](http://www.netratings.com/privacy.jsp?section=leg_scs)
+This information allows us to more effectively tailor our site to make its use easier. You can read the external agent's privacy policy on the [Nielsen Netratings](http://www.netratings.com/privacy.jsp?section=leg_scs) website.
 
-Through modification of browser preferences, you can elect to accept all cookies, receive notification when a cookie is set, or decline all cookies. You can find further information regarding the deletion of cookies can be found at: <http://www.aboutcookies.org/Default.aspx?page=2>[<>](http://www.aboutcookies.org/deletecookies.asp)
+Through modification of browser preferences, you can elect to accept all cookies, receive notification when a cookie is set, or decline all cookies.
+
+  * [Further information about deleting cookies](http://www.aboutcookies.org/Default.aspx?page=2%3C%3E "Information about deleting cookies")  
+
+
