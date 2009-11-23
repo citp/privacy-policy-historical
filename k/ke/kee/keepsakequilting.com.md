@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the keepsakequilting.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193621id_/http%3A//www.keepsakequilting.com/customerservice/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keepsakequilting.com privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123195252id_/http%3A//www.keepsakequilting.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy & Security
+# Privacy and Security
 
-**Keepsake Quilting's Privacy and Security  
-**  
-
+  | 
 
 Keepsake Quilting is committed to safeguarding and respecting your privacy. We maintain our own secure servers and mail operations on our own premises, and handle all your information with the utmost care. If you have any questions or concerns about how we handle your information, please ask us (see contact information listed below). 
 
