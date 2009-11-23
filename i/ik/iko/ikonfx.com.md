@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the ikonfx.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219201250id_/http%3A//www.ikonfx.com/web/index.aspx%3FMainMenu_Selected%3DPrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ikonfx.com privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123195402id_/http%3A//www.ikonfx.com/bottom/Privacy-Statement.aspx) for the most accurate reproduction.*
 
-# Ikon Asia GROUP
+# Privacy Statement | Ikon FX Group
+
+[Ikon FX Privacy Statement](https://web.archive.org/web/20091123195402id_/http%3A//www.ikonfx.com/bottom/Privacy-Statement.aspx)       [Ikon FX NZ Privacy Statement](https://web.archive.org/web/20091123195402id_/http%3A//www.ikonfx.com/bottom/Privacy-Statement02.aspx)
 
 **Your Privacy Is Our Priority**
 
-Ikon Asia is committed to safeguarding the personal information that you provide us. Ikon Asia does not disclose any nonpublic information about our customers to anyone except as permitted by law. 
+Ikon FX is committed to safeguarding the personal information that you provide us. Ikon FX does not disclose any nonpublic information about our customers to anyone except as permitted by law. 
 
 **Personal Information We Collect**
 
-When you apply for or maintain an account with Ikon Asia, we collect personal information about you for business purposes, such as evaluating your financial needs, processing your requests and transactions, informing you about products and services that may be of interest to you and providing customer service. The personal information we collect about you includes: 
+When you apply for or maintain an account with [Ikon FX](http://www.ikonfx.com/), we collect personal information about you for business purposes, such as evaluating your financial needs, processing your requests and transactions, informing you about products and services that may be of interest to you and providing customer service. The personal information we collect about you includes: 
 
 Information you provide to us on application and other forms, such as your name, address, and date of birth, social security number, occupation, assets and income.   
 Information about your transactions with us and with our affiliates.   
@@ -23,4 +25,4 @@ We limit access to your personal information to those employees who need to know
 
 In order to support the financial products and services we provide to you, we may share the personal information described above with third-party service providers and joint marketers not affiliated with us, including: Companies under contract to perform services for us or on our behalf, such as vendors that prepare and mail statements and transactions confirmations or provide data processing, computer software maintenance and development, transaction processing and marketing services. These companies acting on our behalf are required to keep your personal information confidential. 
 
-Also, we many disclose personal information to regulatory authorities as permitted or required by applicable law. For example, we may disclose personal information to cooperate with regulatory authorities and law enforcement agencies to comply with subpoenas or other official requests, and as necessary to protect our rights or property.
+Also, we may disclose personal information to regulatory authorities as permitted or required by applicable law. For example, we may disclose personal information to cooperate with regulatory authorities and law enforcement agencies to comply with subpoenas or other official requests, and as necessary to protect our rights or property.
