@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beaches.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523211019id_/http%3A//www.beaches.com/general/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beaches.com privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123195944id_/http%3A//www.beaches.com/general/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy for Beaches All-Inclusive Caribbean Vacation
 
