@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hostelbookers.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523212612id_/http%3A//www.hostelbookers.com/index.cfm%3Ffuseaction%3Dknowledgebase.article%26articleid%3D42%26TB_iframe%3Dtrue%26height%3D600%26width%3D820) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostelbookers.com privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123191835id_/http%3A//www.hostelbookers.com/index.cfm%3Ffuseaction%3Dknowledgebase.article%26articleid%3D42%26TB_iframe%3Dtrue%26height%3D600%26width%3D820) for the most accurate reproduction.*
 
-# Knowledge Base
+# Customer Knowledge Base
 
-Here you can find information on our website and how it works. You can either search for the specific information, browse our top 10 most popular articles or view all articles using the navigation to the left. 
+Here you can find information on our website and how it works. You can either search for the specific information, browse our top 10 most popular articles or view all articles using the navigation to the left.
 
 #### Hostelbookers Privacy Policy
 
