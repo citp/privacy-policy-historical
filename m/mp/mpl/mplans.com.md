@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mplans.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617194350id_/http%3A//www.mplans.com/cm/ps.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mplans.com privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123195751id_/http%3A//www.mplans.com/cm/ps.php) for the most accurate reproduction.*
 
-# Privacy Policy - Mplans.com
+# Marketing Plan Software and Sample Marketing Plans - Mplans.com
 
- [Home](https://web.archive.org/index.cfm) > Privacy Policy
+ [Home](https://web.archive.org/index.php) > Privacy Policy
 
 Palo Alto Software, Inc. collects personal information about our users only during the secure order process and the registration for our business planning newsletter, or if you request other information sent to you. We collect name, email address, shipping address, credit card company, credit card number, expiration date, and credit card billing address. This is all kept confidential. For membership access areas, we require that you accept a cookie. This is only for functionality reasons, and your personal information is never shared with anyone else. These cookies are also only collected by our sites, there are no third party cookies that are placed on your computer. These cookies help keep track of your login information to speed up the login process, and in certain cases we store your preferences to help tailor our site content to your interests. In the case that you choose not to accept cookies or if your browser automatically does not accept cookies, the only part of our site that will not work for you is the membership registration process. Without cookies enabled, it is not possible to register for our planning tools. 
 
