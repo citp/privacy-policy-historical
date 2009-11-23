@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onthehouse.com.au privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417042758id_/http%3A//www.onthehouse.com.au/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onthehouse.com.au privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123134118id_/http%3A//www.onthehouse.com.au/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - onthehouse.com.au
+# onthehouse.com.au - Privacy Policy
 
 onthehouse.com.au ("onthehouse") respects the privacy of your personal information. onthehouse is subject to Privacy Legislation, including the National Privacy Principles ("NPPs") under the Privacy Act 1988 (Cth), The Privacy and Personal Information Protection Act (1988) and contractual requirements relating to Privacy pursuant to a number of State and Territory Government Licence Agreements. A copy of the National Privacy Principles are available for your perusal at our premises or you may access a copy from the Office of the Federal Privacy Commissioner. The following Privacy Policy outlines the type of information that is collected by onthehouse and how we use and protect that information. 
 
@@ -116,14 +116,11 @@ Sometimes onthehouse will transfer information to persons outside of Australia. 
 
 ## 12\. HOW TO CONTACT ONTHEHOUSE
 
-If you wish to gain access to or correct your personal information or make a complaint about a breach of your privacy, you should contact:
+If you wish to gain access to or correct your personal information or make a complaint about a breach of your privacy, you should contact us.
 
-T: +617 3852 6205  
-F: +617 3852 6204
+Our contact details are available on our website: http://www.onthehouse.com.au/contact_us/ 
 
-A: 22B Ross Street, Newstead, Queensland, 4006, Australia  
-E: info@onthehouse.com.au
+onthehouse will respond to your query or complaint as soon as possible.   
 
-onthehouse will respond to your query or complaint as soon as possible.
 
 onthehouse reserves the right to change this Privacy Policy at any time. onthehouse will notify any changes by posting an updated version of the Privacy Policy on the website.
