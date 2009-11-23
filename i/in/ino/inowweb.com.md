@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inowweb.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525082244id_/http%3A//www.inowweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inowweb.com privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123200634id_/http%3A//www.inowweb.com/privacy-policy) for the most accurate reproduction.*
 
-# iNowWeb - Privacy Policy
+# Privacy Policy | iNowWeb
 
 This Privacy Policy covers every aspect of iNowWeb involved in the collection of personal information while you are on the iNowWeb website . This policy does not apply to the practices of third parties that iNowWeb does not own or control, or to individuals that iNowWeb does not employ or manage.
 
