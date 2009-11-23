@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vapeworld.com privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522115015id_/http%3A//www.vapeworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vapeworld.com privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123195132id_/http%3A//www.vapeworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,7 @@ When you visit [VapeWorld.com](http://volcanovaporize.com/) you may provide us w
 
 
 
-Again none of this information will be ever be sold, shared, or traded to any other company without your consent. 
+Again none of this information will be ever be sold, shared, or traded to any other company without your explicit consent. 
 
 ### Email Information
 
@@ -36,7 +36,7 @@ Like we have stated we will only use the information gathered to make a better s
 
 ### How do we Protect You and your Information?
 
-All of the information you enter on VapeWorld.com is transmitted securely via a secure medium known as Secure Sockets Layer, or SSL. This secure layer provides up to 128 bit encryption for the most secure way of transferring information. Card information is never transmitted via email and is encrypted so that not even employees have access to your credit / debit / charge / e-check account number. Order information is stored in a password-protected storage program. Please contact us here if you have any questions or concerns. 
+All of the information you enter on VapeWorld.com is transmitted securely via a secure medium known as Secure Sockets Layer, or SSL. This secure layer provides up to 256 bit encryption for the most secure way of transmitting information on the internet. Financial information is never transmitted via email and is encrypted so that not even employees have access to your credit / debit / charge / e-check account number. Order information is stored in a password-protected area, only accessible by authorized personal. Please [contact us](http://www.vapeworld.com/contacts) if you have any questions or concerns. 
 
 ### Websites Linked to VapeWorld.com
 
@@ -44,7 +44,7 @@ We are not responsible for the practices employed by Web sites linked to or from
 
 ### Privacy of Children
 
-Children under the age of 18 are not allowed to use our web site and services. If you are under the age of 18, you can use this service only in conjunction with permission from your parents or guardians. 
+Children under the age of 18 are not allowed to use our web site and/or products. If you are under the age of 18, you can use this service only in conjunction with permission from your parents or legal guardians. 
 
 ### Secured Information
 
