@@ -1,507 +1,200 @@
-<!--The following is the downloaded HTML source of the feefo.com privacy policy that was archived on 2009-04-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090416232411id_/http%3A//feefo.com/feefo/page.jsp%3Fpage%3DB3) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the feefo.com privacy policy that was archived on 2009-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091124040842id_/http%3A//www.feefo.com/feefo/page.jsp%3Fpage%3DB3) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <meta id="metaDescription" name="description" content="Actual customer response to purchases from our supplier members">
-    <title id="title">Feefo - Independent Customer Reviews and Feedback - Privacy Policy</title>
-    <link href="style.css" rel="stylesheet" type="text/css">
-    <!-- start hintjavascript.jsp -->
-<!-- for nice explanations . . . -->
-
-<style type="text/css">
-
-#hintbox{ /*CSS for pop up hint box */
-position:absolute;
-top: 0;
-background-color: #ffffff;
-width: 150px; /*Default width of hint.*/ 
-padding: 5px;
-border:2px solid #B6C0B8;
-font:normal 10px Verdana;
-
-line-height:18px;
-z-index:100;
-visibility: hidden;
-}
-
-.hintanchor{ /*CSS for link that shows hint onmouseover*/
-font-weight: bold;
-color: #FF9C00;
-margin: 0px 0px;
-}
-
-</style>
-<script type="text/javascript">
-
-/***********************************************
-* Show Hint script- © Dynamic Drive (www.dynamicdrive.com)
-* This notice MUST stay intact for legal use
-* Visit http://www.dynamicdrive.com/ for this script and 100s more.
-***********************************************/
-		
-var horizontal_offset="9px" //horizontal offset of hint box from anchor link
-
-/////No further editting needed
-
-var vertical_offset="0" //horizontal offset of hint box from anchor link. No need to change.
-var ie=document.all
-var ns6=document.getElementById&&!document.all
-
-function getposOffset(what, offsettype){
-var totaloffset=(offsettype=="left")? what.offsetLeft : what.offsetTop;
-var parentEl=what.offsetParent;
-while (parentEl!=null){
-totaloffset=(offsettype=="left")? totaloffset+parentEl.offsetLeft : totaloffset+parentEl.offsetTop;
-parentEl=parentEl.offsetParent;
-}
-return totaloffset;
-}
-
-function iecompattest(){
-return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
-}
-
-function clearbrowseredge(obj, whichedge){
-var edgeoffset=(whichedge=="rightedge")? parseInt(horizontal_offset)*-1 : parseInt(vertical_offset)*-1
-if (whichedge=="rightedge"){
-var windowedge=ie && !window.opera? iecompattest().scrollLeft+iecompattest().clientWidth-30 : window.pageXOffset+window.innerWidth-40
-dropmenuobj.contentmeasure=dropmenuobj.offsetWidth
-if (windowedge-dropmenuobj.x < dropmenuobj.contentmeasure)
-edgeoffset=dropmenuobj.contentmeasure+obj.offsetWidth+parseInt(horizontal_offset)
-}
-else{
-var windowedge=ie && !window.opera? iecompattest().scrollTop+iecompattest().clientHeight-15 : window.pageYOffset+window.innerHeight-18
-dropmenuobj.contentmeasure=dropmenuobj.offsetHeight
-if (windowedge-dropmenuobj.y < dropmenuobj.contentmeasure)
-edgeoffset=dropmenuobj.contentmeasure-obj.offsetHeight
-}
-return edgeoffset
-}
-
-function showhint(menucontents, obj, e, tipwidth){
-if ((ie||ns6) && document.getElementById("hintbox")){
-dropmenuobj=document.getElementById("hintbox")
-dropmenuobj.innerHTML=menucontents
-dropmenuobj.style.left=dropmenuobj.style.top=-500
-if (tipwidth!=""){
-dropmenuobj.widthobj=dropmenuobj.style
-dropmenuobj.widthobj.width=tipwidth
-}
-dropmenuobj.x=getposOffset(obj, "left")
-dropmenuobj.y=getposOffset(obj, "top")
-dropmenuobj.style.left=dropmenuobj.x-clearbrowseredge(obj, "rightedge")+obj.offsetWidth+"px"
-dropmenuobj.style.top=dropmenuobj.y-clearbrowseredge(obj, "bottomedge")+"px"
-dropmenuobj.style.visibility="visible"
-obj.onmouseout=hidetip
-}
-}
-
-function hidetip(e){
-dropmenuobj.style.visibility="hidden"
-dropmenuobj.style.left="-500px"
-}
-
-function createhintbox(){
-var divblock=document.createElement("div")
-divblock.setAttribute("id", "hintbox")
-document.body.appendChild(divblock)
-}
-
-if (window.addEventListener)
-window.addEventListener("load", createhintbox, false)
-else if (window.attachEvent)
-window.attachEvent("onload", createhintbox)
-else if (document.getElementById)
-window.onload=createhintbox
-
-<!--
-
-var state = 'none';
-
-function showhide(layer_ref) {
-
-if (state == 'block') {
-state = 'none';
-}
-else {
-state = 'block';
-}
-if (document.all) { //IS IE 4 or 5 (or 6 beta)
-eval( "document.all." + layer_ref + ".style.display = state");
-}
-if (document.layers) { //IS NETSCAPE 4 or below
-document.layers[layer_ref].display = state;
-}
-if (document.getElementById &&!document.all) {
-hza = document.getElementById(layer_ref);
-hza.style.display = state;
-}
-}
-function show(layer_ref) {
-
-state = 'block';
-if (document.all) { //IS IE 4 or 5 (or 6 beta)
-eval( "document.all." + layer_ref + ".style.display = state");
-}
-if (document.layers) { //IS NETSCAPE 4 or below
-document.layers[layer_ref].display = state;
-}
-if (document.getElementById &&!document.all) {
-hza = document.getElementById(layer_ref);
-hza.style.display = state;
-}
-}
-function hide(layer_ref) {
-
-state = 'none';
-if (document.all) { //IS IE 4 or 5 (or 6 beta)
-eval( "document.all." + layer_ref + ".style.display = state");
-}
-if (document.layers) { //IS NETSCAPE 4 or below
-document.layers[layer_ref].display = state;
-}
-if (document.getElementById &&!document.all) {
-hza = document.getElementById(layer_ref);
-hza.style.display = state;
-}
-}
-
-function explanationLoad(pageid)
-{
-var newwindow = window.open ("explanation.jsp?id=" + pageid, "mywindow",
-    "location=1,status=1,scrollbars=1,width=730,height=300");
-newwindow.focus();
-}
-
-//-->
-</script>
-<!-- end hintjavascript.jsp -->
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>FeeFo Privacy Policy</title>
+	<link rel="stylesheet" type="text/css" href="css/all.css">
+	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+		<script type="text/javascript" src="js/nav.js"></script>
+	<script type="text/javascript" src="js/sifr.js"></script>
+	<script type="text/javascript" src="js/sifr-addons.js"></script>
+	<script type="text/javascript" src="js/vscrollarea.js"></script>
+	<script type="text/javascript" src="js/mootools-1.2.2.js"></script>
+	<script type="text/javascript" src="js/mootools.main.js"></script>
+	<script type="text/javascript" src="js/pretag.js"></script>
+	<!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="css/lt7.css" media="screen"/><![endif]-->
 </head>
-    <body>
-    <table border="0" cellspacing="0" cellpadding="0" align="center">
-        <tbody><tr>
-            <td valign="top" width="790" height="62">
-                <table border="0" cellspacing="0" cellpadding="0">
-                    <tbody><tr>
-                        <td valign="top" width="152" height="73">
-                            <div style="padding-left:0px; padding-top:0px "><a href="index.jsp"><img src="/images/c_name.gif" alt="" border="0"></a></div>
-                        </td>
-                        <td valign="middle" width="471">
-                            <table border="0" cellspacing="0" cellpadding="0">
-                                <tbody><tr>
-                                    <td width="28">&nbsp;</td>
-                                    <td valign="bottom">
+<body>
+	<!-- page -->
+	<div id="page">
+		<!-- header start -->
+		<div class="header">
+			<!-- logo -->
+			<h1 class="logo"><a href="index.jsp" rel="index">FeeFo</a></h1>
+			<!-- menu -->
+			<ul class="menu" id="navigation">
+				<li><a href="index.jsp">Home</a></li>
+				<li><a href="page.jsp?page=A1">What is it?</a>
+					<ul>
+						<li><a href="page.jsp?page=A1">What is it?</a></li>
+						<li><a href="page.jsp?page=V3">How it works</a></li>
+						<li><a href="page.jsp?page=a7">Benefits</a></li>
+						<li><a href="page.jsp?page=A8">Why choose Feefo?</a></li>
+						<li><a href="index2.jsp">Who are our customers?</a></li>
+						<li><a href="page.jsp?page=T16">Technical Requirements</a>
+							<ul>
+								<li><a href="page.jsp?page=T16">Technical Requirements</a></li>
+								<li><a href="page.jsp?page=T5">Shortcut to Feefo</a></li>
+								<li><a href="page.jsp?page=T8">Showing the Feefo logo</a></li>
+								<li><a href="page.jsp?page=T9">Automatic sales notification</a></li>
+								<li><a href="page.jsp?page=T12">Upload sales</a></li>
+								<li><a href="page.jsp?page=T14">Individual sale entry</a></li>
+								<li><a href="page.jsp?page=T15">Categorizing feedback</a></li>
+								<li><a href="page.jsp?page=T18">Upload sales header</a></li>
+								<li><a href="page.jsp?page=T20">Installing an XML feed</a></li>
+								<li><a href="page.jsp?page=T22">Product Links</a></li>
+							</ul>
+						</li>
+					</ul>
+				</li>
+				<li><a href="page.jsp?page=A6">Pricing</a></li>
+				<li><a href="page.jsp?page=A2">Demo</a>
+					<ul>
+						<li><a href="/samples/Feefo.pdf">View Brochure</a></li>
+						<li><a href="page.jsp?page=A2">Demo</a></li>
+						<li><a href="http://www.examplesupplier.com">Example supplier</a></li>
+					</ul>
+				</li>
+				<li><a href="page.jsp?page=N100">News</a>
+					<ul>
+						<li><a href="http://www.youtube.com/watch?v=p1GwvcRxook">Nick Wheeler of Charles Tyrwhitt on feedback</a></li>
+						<li><a href="page.jsp?page=N85">New customer-obsessed organisations sign up with Feefo</a></li>
+						<li><a href="http://globaltechforum.eiu.com/index.asp?layout=rich_story&amp;channelid=3&amp;categoryid=2&amp;title=FEEFO+inside?&amp;doc_id=8443">Press: Economist Intelligence Unit 15/04/2006</a></li>
+						<li><a href="http://www.feefo.com/images/shropshirestar.pdf">Shropshire Star October 2008</a></li>
+						<li><a href="page.jsp?page=N91">Top Welsh Company takes up Feefo challange</a></li>
+						<li><a href="page.jsp?page=N92">Woods of Shropshire 21/07/08</a></li>
+						<li><a href="page.jsp?page=N93">Flying Brands joins Feefo 10/07/08</a></li>
+						<li><a href="http://www.internetretailing.net/news/feefos-feedback-system-gets-a-would-deal-again-from-retailers">Press: Internet Retailing Article 25 July 2008</a></li>
+						<li><a href="page.jsp?page=N95">Press: retailwire.com 18/07/08</a></li>
+						<li><a href="page.jsp?page=N97">Feefo Challenge 20/06/2008</a></li>
+						<li><a href="page.jsp?page=N98">Press: Retail Week 01/02/2008</a></li>
+					</ul>
+				</li>
+				<li><a href="contactus.jsp">Contact</a></li>
+			</ul>
+			<!-- client area -->
+			<div class="client-area">
+				<ul class="lang">
+					<!--<li><a href="#"><img src="images/lang05.gif" alt="#" /></a></li>-->
+					<li><a href="index.jsp?language=German"><img src="images/lang04.gif" alt="#"></a></li>
+					<!--<li><a href="#"><img src="images/lang03.gif" alt="#" /></a></li>-->
+					<!--<li><a href="#"><img src="images/lang02.gif" alt="#" /></a></li>-->
+					<li><a href="index.jsp?language=English"><img src="images/lang01.gif" alt="#"></a></li>
+				</ul>
+				<p>
+					<a href="vendorlogon.jsp">Client sign in</a>
+				</p>
+			</div>
+		</div>
+		<!-- header end -->
+		<!-- page start -->
+		<div class="what">
+			<div class="what-cnt">
+				<ul class="sub-nav">
+					<li><a href="index.jsp">Home</a></li>
+					<li><a href="#">About us</a></li>
+					<li class="active"><a href="#">Privacy policy</a></li>
+				</ul>
+				<h1><span>Privacy Policy</span></h1>
+                <h3>1.&nbsp;&nbsp;&nbsp; &nbsp;Introduction</h3> <p> 1.1&nbsp; This Privacy Policy explains how we use information that you provide to us. In this Privacy Policy <b>“use” </b>means collecting, storing or organising information or doing anything else to it that would be considered <b> “Processing” </b>under the Act.</p> <p> 1.2&nbsp; In this privacy policy <b>(“Privacy Policy”) “we” </b>or <b>“us”</b> means Feefo Ltd (No. 02995072) a company incorporated in England and Wales and having its registered office at Culmington House, Culmington, Ludlow, Shropshire SY8 2DB and <b>“you” </b>means you and includes any other person you represent and on whose behalf you provide information to us.</p> <p> 1.3&nbsp; We collect information on behalf of organisations who provide products and/or services to the public (<b>“Suppliers”</b>). We do this so that Suppliers can improve the way that they provide products and/or services in the future and so that other customers are better informed before making a purchase.</p> <p> 1.4&nbsp; Information that you give us about a Supplier, including your opinion about products and/or services you have purchased from a Supplier, is called <b> “Feedback”</b>. We publish Feedback on our website (“<b>Website</b>”).</p> <p> 1.5&nbsp; Personal information about you, including any information which identifies you as an individual or from which you can be identified by a third party is referred to as <b>“Personal Information”.</b></p> <p> 1.6&nbsp; The protection of your personal information is very important to us. We are registered under the Data Protection Act 1998 (<b>“Act”</b>). &nbsp;No. 29604672 and we will always comply with the Act. The Act includes any amendments to or replacement of the Data Protection Act 1998.</p> <h3>2.&nbsp;&nbsp;&nbsp;&nbsp; Personal Information</h3> <p> 2.1&nbsp; We will not publish any Personal Information on the Website without your previous written consent.</p> <p> 2.2&nbsp; We may provide your Personal Information to any Supplier that you have given Feedback on.</p> <p> 2.3&nbsp; We may also give Personal Information about you to any person who buys the business of Feefo as a going concern (<b>“Buyer”</b>). A Buyer may Use any Personal Information in the same way that we may Use Personal Information, but will also be bound by the Privacy Policy in the same way that we are.</p> <h3>3.&nbsp;&nbsp;&nbsp;&nbsp; Storage and Security</h3> <p> 3.1&nbsp; We will keep all Personal Information about you secure. We will not provide any Personal Information to any other person except as permitted under this Privacy Policy or as agreed by you in writing.</p> <p> 3.2&nbsp; We will destroy any personal Information about you 12 months from when you provide that Personal Information to us or from the last time that you give Feedback or login to the Website.</p> <h3>4.&nbsp;&nbsp;&nbsp;&nbsp; Access to Personal Information</h3> <p> 4.1&nbsp; You have the right to a copy of the Personal Information we hold about you. If any of this Personal Information is incorrect, we will amend it.</p> <p> 4.2&nbsp; If you would like a copy of your Personal Information you must complete an <b>“Access Request”</b> by emailing <a href="mailto:accessrequest@feefo.com">accesrequest@feefo.com</a> including your email address. You may also send an Access Request by post to the address above.</p> <h3>5.&nbsp;&nbsp;&nbsp;&nbsp; Cookies</h3> <p> 5.1&nbsp; When you visit the Website you may be asked to download a cookie (<b>“Cookie”</b>). Cookies allow us to track the way that visitors use our Website.</p> <h3>6.&nbsp;&nbsp;&nbsp;&nbsp; Feedback</h3> <p> 6.1&nbsp; We may publish Feedback on the Website for two years after we receive it from you.</p> <p> 6.2&nbsp; Feedback will not include any Personal Information.&nbsp; Only us and the Supplier that the Feedback relates to will know that you are the author of the Feedback.</p> <p> 6.3&nbsp; After Feedback has been published on the Website we will remove it, or amend it, following a request by you (email <a href="mailto:amendfeedback@feefo.com">amendfeedback@feefo.com</a> ).</p> <h3>7.&nbsp;&nbsp;&nbsp;&nbsp; People Aged Under 16</h3> <p> 7.1&nbsp; Children (anyone aged under 16) may use the Website and provide Feedback and Personal Information to us. However, if you are under 16, your parent or guardian must be aware that you are using the Website and agree to that use.</p> <h3>8.&nbsp;&nbsp;&nbsp;&nbsp; Changes to the Privacy Policy</h3> <p> 8.1&nbsp; When we write to you we will use the most recent email address that you have provided to us (“<b>Email Address</b>”). You can change your Email Address at any time by emailing <a class="orange2" href="mailto:amendemail@feefo.com"> amendemail@feefo.com</a> with the necessary details</p> <p> 8.2&nbsp; You agree that any email that is sent to your Email Address will be deemed to have been received 24 hours after we have sent it.</p> <p> 8.3&nbsp; We may change this Privacy Polity at any time by giving you at least 14 days notice in writing. You agree that this notice may be sent by email.</p> <h3>9.&nbsp;&nbsp;&nbsp;&nbsp; General</h3> <p> 9.1&nbsp; In this Privacy Policy a <b>“person”</b> includes a firm, company, unincorporated association or any other legal entity.</p> <p> 9.2&nbsp; This Privacy Policy is governed by and construed in all respects in accordance with English law and we submit to the exclusive jurisdiction of the English Courts.</p> <p> 9.3&nbsp; A person who is not a party to this Privacy Policy has no rights under the Contracts (Rights of Third Parties) Act 1999 to enforce, or to enjoy the benefit of any term of it but this does not affect any right or remedy of a third party which exists or is available apart from that Act.</p> <p> 9.4&nbsp; This Agreement is personal as between the parties and can only be assigned with the prior written consent of the other.</p> <p> &nbsp;</p> 
+				<div class="round9">
+					<div class="round-cnt">
+						<p>							Find out how it works. Take a <a href="page.jsp?page=a2">Feefo test drive</a>, or <a href="registervendor.jsp">register now</a>
 
-                                        <div style="padding-left:0px; padding-top:10px ">
-                                            
-                                            <a href="index.jsp" class="menu">Home</a>
-                                            
-                                            <font class="menuactive">|</font></div>
-                                    </td>
-                                    <td valign="bottom">
-                                        <div style="padding-left:5px; padding-top:10px ">
-                                            
-                                            <a href="page.jsp?menu=A&amp;position=1" class="menu">What is <b>Feefo</b>?</a>
-                                            
-                                            <font class="menuactive">|</font></div>
-                                    </td>
-                                    <td valign="bottom">
-                                        <div style="padding-left:5px; padding-top:10px ">
-                                            
-                                            <a href="page.jsp?menu=A&amp;position=2" class="menu">See a demo</a>
-                                            
-                                            <font class="menuactive">|</font></div>
-                                    </td>
-                                    <td valign="bottom">
-                                        <div style="padding-left:5px; padding-top:10px ">
-                                            
-                                            <a href="contactus.jsp" class="menu">Contact us</a>
-                                            
-                                            <font class="menuactive">|</font></div>
-                                    </td>
-                                    <td valign="bottom">
-                                        <div style="padding-left:5px; padding-top:10px ">
-                                            
-                                            <a href="page.jsp?menu=N&amp;position=0&amp;menuformat=bottom" class="menu">News</a>
-                                            
-                                            <font class="menuactive">&nbsp;</font></div>
-                                    </td>
-                                </tr>
-                            </tbody></table>
-                        </td>
-                        <td valign="top" width="158" height="73">
-                            <div style="padding-left:18px; padding-top:33px ">
-                                
-                                <a href="vendorlogon.jsp" class="menu">Client sign in</a>
-                                
-                            </div>
-                        </td>
-                    </tr>
-                </tbody></table>
-            </td>
-        </tr>
-        <tr>
-            <td valign="top" width="790">
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class="round5">
+				<div class="round-cnt">
+						<p>							See the ratings and feedback for some of Feefo's latest suppliers.<a href="index2.jsp">  Browse other customer reviews </a>
 
-        
-    
-                            <table height="131%" border="0" cellpadding="0" cellspacing="0" style="height:100% ">
-                                <tbody><tr>
+						</p>
+				</div>
+			</div>
+			<div class="round6">
+				<div class="round-cnt">
+						<p>							</p><p>See what OUR 
+customers think of Feefo –
+<a href="viewvendor.jsp?logon=www.feefo.com"> 
+see Feefo’s own feedback</a></p>
 
-                                    <td valign="top" width="1" height="563"></td>
+						<p></p>
+				</div>
+			</div>
+			<div class="round7">
+				<div class="round-cnt">
+						<p>							Feefo may be a new idea but the people behind it have had years of experience creating and launching successful businesses. <a href="page.jsp?page=H12">Meet the team.</a>
 
+						</p>
+				</div>
+			</div>
+			<div class="round8">
+				<div class="round-cnt">
+						<p>							It's always great to be recognised. Read what the <a href="page.jsp?page=H15">Economist Intelligence Unit </a>has to say about us.
 
+						</p>
+				</div>
+			</div>
 
-
-
-                                    <td valign="top" width="572" height="563">
-                                        <table border="0" cellspacing="0" cellpadding="0">
-                                            <tbody><tr>
-
-                                                <td valign="top" width="571" height="86">
-                                                    <table height="90" border="0" cellpadding="0" cellspacing="0">
-                                                        <tbody><tr>
-
-                                                            <td width="572" height="62">
-                                                            
-                                                                <div style="padding-left:3px; padding-top:13px " class="heading">
-                                                                    <img src="/images/policy.gif" border="0">
-
-                                                                </div>
-                                                            
-                                                            </td>
-                                                        </tr>
-                                                    </tbody></table>
-                                                </td>
-                                            </tr>
-                                            <tr>
-                                                <td valign="top" width="571">
-                                                    <table width="571" border="0" cellpadding="0" cellspacing="0">
-                                                        
-                                                        <tbody><tr><td width="122" valign="top">
-                                                                                                                    <div style="padding-left:5px; padding-top:0px; padding-right:30px" ;="">
-                                                                            <a href="page.jsp?menu=B&amp;position=2" class="leftmenuorange" style="text-decoration:none ">Terms and conditions</a>
-                                                                        </div>
-        <div style="padding-left:5px; padding-top:5px; padding-right:30px" ;="" class="leftmenugray">Privacy Policy                                                                    </div>
-                                                                 <div style="padding-left:5px; padding-top:5px; padding-right:30px" ;="">
-                                                                            <a href="page.jsp?menu=H&amp;position=12" class="leftmenuorange" style="text-decoration:none ">About us</a>
-                                                                        </div>
-        
-                                                        
-                                                            </td>
-                                                            <td width="449" valign="top"><div class="main">
-<p class="headingbrown">1.&nbsp;&nbsp;&nbsp; &nbsp;Introduction</p>
-
-<p>
-1.1&nbsp; This Privacy Policy explains how we use information that you provide 
-to us. In this Privacy Policy <b>“use” </b>means collecting, storing or 
-organising information or doing anything else to it that would be considered <b>
-“Processing” </b>under the Act.</p>
-<p>
-1.2&nbsp; In this privacy policy <b>(“Privacy Policy”) “we” </b>or <b>“us”</b> 
-means Feefo Ltd (No. 02995072) a company incorporated in England and Wales and 
-having its registered office at Culmington House, Culmington, Ludlow, Shropshire 
-SY8 2DB and <b>“you” </b>means you and includes any other person you represent 
-and on whose behalf you provide information to us.</p>
-<p>
-1.3&nbsp; We collect information on behalf of organisations who provide products 
-and/or services to the public (<b>“Suppliers”</b>). We do this so that Suppliers 
-can improve the way that they provide products and/or services in the future and 
-so that other customers are better informed before making a purchase.</p>
-<p>
-1.4&nbsp; Information that you give us about a Supplier, including your opinion 
-about products and/or services you have purchased from a Supplier, is called <b>
-“Feedback”</b>. We publish Feedback on our website (“<b>Website</b>”).</p>
-<p>
-1.5&nbsp; Personal information about you, including any information which 
-identifies you as an individual or from which you can be identified by a third 
-party is referred to as <b>“Personal Information”.</b></p>
-<p>
-1.6&nbsp; The protection of your personal information is very important to us. 
-We are registered under the Data Protection Act 1998 (<b>“Act”</b>). &nbsp;No. 
-29604672 and we will always comply with the Act. The Act includes any amendments 
-to or replacement of the Data Protection Act 1998.</p>
-<p class="headingbrown">2.&nbsp;&nbsp;&nbsp;&nbsp; Personal Information</p>
-<p>
-2.1&nbsp; We will not publish any Personal Information on the Website without 
-your previous written consent.</p>
-<p>
-2.2&nbsp; We may provide your Personal Information to any Supplier that you have 
-given Feedback on.</p>
-<p>
-2.3&nbsp; We may also give Personal Information about you to any person who buys 
-the business of Feefo as a going concern (<b>“Buyer”</b>). A Buyer may Use any 
-Personal Information in the same way that we may Use Personal Information, but 
-will also be bound by the Privacy Policy in the same way that we are.</p>
-<p class="headingbrown">3.&nbsp;&nbsp;&nbsp;&nbsp; Storage and Security</p>
-<p>
-3.1&nbsp; We will keep all Personal Information about you secure. We will not 
-provide any Personal Information to any other person except as permitted under 
-this Privacy Policy or as agreed by you in writing.</p>
-<p>
-3.2&nbsp; We will destroy any personal Information about you 12 months from 
-when you provide that Personal Information to us or from the last time that you 
-give Feedback or login to the Website.</p>
-<p class="headingbrown">4.&nbsp;&nbsp;&nbsp;&nbsp; Access to Personal 
-Information</p>
-<p>
-4.1&nbsp; You have the right to a copy of the Personal Information we hold about 
-you. If any of this Personal Information is incorrect, we will amend it.</p>
-<p>
-4.2&nbsp; If you would like a copy of your Personal Information you must 
-complete an <b>“Access Request”</b> by emailing <a class="orange2" href="mailto:accessrequest@feefo.com">accesrequest@feefo.com</a> including your email address.  You may also send an Access Request by post to the address above.</p>
-<p class="headingbrown">5.&nbsp;&nbsp;&nbsp;&nbsp; Cookies</p>
-<p>
-5.1&nbsp; When you visit the Website you may be asked to download a cookie (<b>“Cookie”</b>). 
-Cookies allow us to track the way that visitors use our Website.</p>
-<p class="headingbrown">6.&nbsp;&nbsp;&nbsp;&nbsp; Feedback</p>
-<p>
-6.1&nbsp; We may publish Feedback on the Website for two years after we receive 
-it from you.</p>
-<p>
-6.2&nbsp; Feedback will not include any Personal Information.&nbsp; Only us and 
-the Supplier that the Feedback relates to will know that you are the author of 
-the Feedback.</p>
-<p>
-6.3&nbsp; After Feedback has been published on the Website we will remove it, or 
-amend it, following a request by you (email 
-<a class="orange2" href="mailto:amendfeedback@feefo.com">amendfeedback@feefo.com</a> ).</p>
-<p class="headingbrown">7.&nbsp;&nbsp;&nbsp;&nbsp; People Aged Under 16</p>
-<p>
-7.1&nbsp; Children (anyone aged under 16) may use the Website and provide 
-Feedback and Personal Information to us. However, if you are under 16, your 
-parent or guardian must be aware that you are using the Website and agree to 
-that use.</p>
-<p class="headingbrown">8.&nbsp;&nbsp;&nbsp;&nbsp; Changes to the Privacy Policy</p>
-<p>
-8.1&nbsp; When we write to you we will use the most recent email address that 
-you have provided to us (“<b>Email Address</b>”). You can change your 
-Email Address at any time by emailing <a class="orange2" href="mailto:amendemail@feefo.com">
-amendemail@feefo.com</a> with the necessary details</p>
-<p>
-8.2&nbsp; You agree that any email that is sent to your Email Address will be 
-deemed to have been received 24 hours after we have sent it.</p>
-<p>
-8.3&nbsp; We may change this Privacy Polity at any time by giving you at least 
-14 days notice in writing. You agree that this notice may be sent by email.</p>
-<p class="headingbrown">9.&nbsp;&nbsp;&nbsp;&nbsp; General</p>
-<p>
-9.1&nbsp; In this Privacy Policy a <b>“person”</b> includes a firm, company, 
-unincorporated association or any other legal entity.</p>
-<p>
-9.2&nbsp; This Privacy Policy is governed by and construed in all respects in 
-accordance with English law and we submit to the exclusive jurisdiction of the 
-English Courts.</p>
-<p>
-9.3&nbsp; A person who is not a party to this Privacy Policy has no rights under 
-the Contracts (Rights of Third Parties) Act 1999 to enforce, or to enjoy the 
-benefit of any term of it but this does not affect any right or remedy of a 
-third party which exists or is available apart from that Act.</p>
-<p>
-9.4&nbsp; This Agreement is personal as between the parties and can only be 
-assigned with the prior written consent of the other.</p>
-<p>
-&nbsp;</p>
-<p><b>
-&nbsp;</b></p>
-</div>
+		</div>
+		<!-- page end -->
+		<!-- footer start -->
+		<ul class="footer">
+			<li><a href="page.jsp?page=A1">What is it?</a>
+				<ul>
+					<li><a href="page.jsp?page=A1">What is it?</a></li>
+					<li><a href="page.jsp?page=V3">How it works</a></li>
+					<li><a href="page.jsp?page=a7">Benefits</a></li>
+					<li><a href="page.jsp?page=A8">Why choose Feefo?</a></li>
+					<li><a href="index2.jsp">Who are our customers?</a></li>
+					<li><a href="page.jsp?page=T16">Technical Requirements</a></li>
+				</ul>
+			</li>
+			<li><a href="page.jsp?page=A6">Pricing</a></li>
+			<li><a href="page.jsp?page=A2">Demo</a>
+				<ul>
+					<li><a href="/samples/Feefo.pdf">View Brochure</a></li>
+					<li><a href="page.jsp?page=A2">Demo</a></li>
+					<li><a href="http://www.examplesupplier.com">Example supplier</a></li>
+				</ul>
+			</li>
+			<li><a href="page.jsp?page=N100">News</a>
+				<ul>
+					<li><a href="http://www.youtube.com/watch?v=p1GwvcRxook">Nick Wheeler of Charles Tyrwhitt on feedback</a></li>
+					<li><a href="page.jsp?page=N85">New customer-obsessed organisations sign up with Feefo</a></li>
+					<li><a href="http://globaltechforum.eiu.com/index.asp?layout=rich_story&amp;channelid=3&amp;categoryid=2&amp;title=FEEFO+inside?&amp;doc_id=8443">Press: Economist Intelligence Unit 15/04/2006</a></li>
+					<li><a href="http://www.feefo.com/images/shropshirestar.pdf">Shropshire Star October 2008</a></li>
+					<li><a href="page.jsp?page=N91">Top Welsh Company takes up Feefo challange</a></li>
+					<li><a href="page.jsp?page=N92">Woods of Shropshire 21/07/08</a></li>
+					<li><a href="page.jsp?page=N93">Flying Brands joins Feefo 10/07/08</a></li>
+					<li><a href="http://www.internetretailing.net/news/feefos-feedback-system-gets-a-would-deal-again-from-retailers">Press: Internet Retailing Article 25 July 2008</a></li>
+					<li><a href="page.jsp?page=N95">Press: retailwire.com 18/07/08</a></li>
+					<li><a href="page.jsp?page=N97">Feefo Challenge 20/06/2008</a></li>
+					<li><a href="page.jsp?page=N98">Press: Retail Week 01/02/2008</a></li>
+				</ul>
+			</li>
+			<li><a href="contactus.jsp">Contact</a></li>
+			<li><a href="page.jsp?page=H12">About us</a>
+				<ul>
+					<li><a href="page.jsp?page=B2">Terms and conditions for users of Feefo</a></li>
+					<li><a href="page.jsp?page=B3">Privacy Policy</a></li>
+					<li><a href="index.jsp">© Feefo Ltd. 2005-2009</a></li>
+				</ul>
+			</li>			
+		</ul>
+		<!-- footer end -->
+	</div>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1055714-1";
+urchinTracker();
+</script>
 
 
+<!-- 
+                             -->
 
-
-                                                            </td>
-                                                        </tr>
-                                                        
-                                                            
-                                                    </tbody></table>
-                                                </td>
-                                            </tr>
-                                        </tbody></table>
-                                    </td>
-                                    
-                                    <td valign="top" width="23" height="563"></td>
-                                    <td valign="top" width="171">
-                                    <table border="0" cellpadding="0" cellspacing="0">
-                                                                                
-                                        <tbody><tr>
-                                            <td>
-                                                                
-                                                                                        <div style="PADDING-LEFT: 0px; PADDING-TOP: 18px">
-                        <table cellspacing="0" cellpadding="0" border="0"><tbody>
-                          <tr>
-                            <td valign="top" width="170" height="184">
-                              <div style="PADDING-LEFT: 3px; PADDING-TOP: 30px"><img style="MARGIN-TOP: 6px; MARGIN-RIGHT: 22px" src="/images/yellowquotes.gif" align="left"></div>
-                              <div class="brown_2" style="PADDING-RIGHT: 10px; PADDING-LEFT: 5px; PADDING-TOP: 10px"><br>Have 
-                              you given <br><font color="#afac73">Feefo</font> 
-                              feedback?</div>
-                              <div class="main" style="PADDING-RIGHT: 30px; PADDING-LEFT: 5px; PADDING-TOP: 5px">See 
-                              the ratings and feedback for some of Feefo's 
-                              latest suppliers. </div>
-                              <div style="PADDING-RIGHT: 60px; PADDING-LEFT: 5px; PADDING-TOP: 9px"><a class="orange2" href="index2.jsp">Browse other customer reviews
-                             </a> </div>
-                              <div style="PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-TOP: 7px"><img style="MARGIN-TOP: 0px; MARGIN-LEFT: 0px; MARGIN-RIGHT: 0px" src="/images/1_back3.gif" align="left"></div></td></tr>
-</tbody></table></div>
-
-
-                                            </td>
-                                            </tr>
-                                                                
-                                                                
-                                            </tbody></table>
-                                    </td>
-
-
-
-
-
-                                    <td valign="top" width="4" height="563"></td>
-                                </tr>
-                            </tbody></table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-                <!-- start bottom.jsp (end should be close html!!) -->
-            </td>
-        </tr>
-        <tr>
-            <td valign="top">
-                <table width="790" border="0" cellspacing="0" cellpadding="0" align="center">
-    			    <tbody><tr> 
-                        <td style="height:100%;background:URL(/images/bot1.gif); background-repeat:no-repeat; background-position:top left "> 
-
-                            <div style="padding-left:7px; padding-top:6px " class="policy">
-                                    <div class="policy"> <a target="_blank" href="page.jsp?page=H12" class="policy">About us</a> &nbsp;|  <a target="_blank" href="page.jsp?page=B2" class="policy">Terms and conditions</a> &nbsp;| <a target="_blank" href="page.jsp?page=B3" class="policy">Privacy policy</a> | ©2005-2009 Feefo Ltd. All rights reserved</div>
-                            </div>
-                            <!-- <div style="padding-left:7px; padding-top:0px " class="copyright">© Feefo Ltd 2006</div> -->
-                            
-            		     </td>
-                    </tr>
-                </tbody></table>
-            </td>
-        </tr>
-    </tbody></table>
-    <script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
-    <script type="text/javascript">
-    _uacct = "UA-1055714-1";
-    urchinTracker();
-    </script>
-    
-
-
-
-
-<div id="hintbox"></div></body></html>
+<div class="lightbox-fader" style="visibility: visible; zoom: 1; opacity: 0.5; background-color: rgb(0, 0, 0); display: none; position: absolute; top: 0px; left: 0px; z-index: 998; text-indent: -9999px;">$nbsp</div></body></html>
