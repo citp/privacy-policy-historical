@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the faucetdirect.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217085714id_/http%3A//www.faucetdirect.com/index.cfm/page/help%3Asecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faucetdirect.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124210928id_/http%3A//www.faucetdirect.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
 
-# FaucetDirect.com - Your Online Plumbing Supply Store
+# FaucetDirect.com: Security & Privacy
 
 ## Our Company
 
@@ -34,6 +34,8 @@ Cookies are alphanumeric identifiers that we transfer to your computer's hard dr
 
 ImprovementDirect uses emails as one of our primary ways to respond and communicate. All emails sent are either a direct response to an inquiry, communication concerning an order (reciept, shipping confirmation, etc) or a newsletter if you have indicated you wish to receive specials on your account information.
 
+From time to time, we may notify you of special offers that take into consideration your historic purchasing activity with us. We do not share or otherwise sell your contact information to unrelated third parties.
+
 When creating an account (placing an order) through ImprovementDirect.com, we offer the opportunity to subscribe to our newsletters. These contain specials & discounts, updates about our websites and information about the lines and products we are featuring.
 
 Each newsletter contains clear and easy unsubscribe instructions. You may also change your subscription status at any time by logging into your account, and editing your "Account Preferences". Lastly, if you wish to reach us by phone, our representatives in our call center can also alter your subscription preferences.
@@ -46,4 +48,4 @@ Information about our customers is an important part of our business, and we are
 
 If you choose to visit ImprovementDirect, your visit and any dispute over privacy is subject to this notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of California. If you have any concern about privacy at ImprovementDirect.com, please send a thorough description to our Customer Service team and we will try to resolve it. Our business changes constantly. This Notice and the Conditions of Use will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. Please check our website frequently to see recent changes.
 
-**Copyright © 2000-2008 Improvement Direct, Inc. All Rights Reserved.**
+**Copyright © 2000-2009 Improvement Direct, Inc. All Rights Reserved.**
