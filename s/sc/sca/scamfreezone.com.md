@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scamfreezone.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429034732id_/http%3A//www.scamfreezone.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scamfreezone.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124045536id_/http%3A//www.scamfreezone.com/privacy.shtml) for the most accurate reproduction.*
 
 # About the Scamfreezone Work At Home Business Opportunities
 
