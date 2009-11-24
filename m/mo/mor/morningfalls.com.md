@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morningfalls.com privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612085112id_/http%3A//morningfalls.com/network/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morningfalls.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124223712id_/http%3A//morningfalls.com/network/privacy.php) for the most accurate reproduction.*
 
 # Morning Falls - Performance Based Display Network
 
@@ -33,7 +33,7 @@ We reserve the right to disclose your personally identifiable information as req
 **Changes to This Privacy Policy  
 **Morning Falls may find it necessary to update this Privacy Policy from time to time. Any changes will be posted at this site. Except as otherwise required by law, any modifications made to this Privacy Policy will not materially affect the privacy of data collected by Morning Falls prior to the effective date of the policy change. 
 
-Please direct any questions regarding our privacy policy to our office via mail (listed below), or via [email](https://web.archive.org/web/20090612085112id_/http%3A//morningfalls.com/network/company.php).
+Please direct any questions regarding our privacy policy to our office via mail (listed below), or via [email](https://web.archive.org/web/20091124223712id_/http%3A//morningfalls.com/network/company.php).
 
 **Morning Falls LLC**  
 3440 Youngfield St. #244  
