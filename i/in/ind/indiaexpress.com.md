@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiaexpress.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531145936id_/http%3A//www.indiaexpress.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiaexpress.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124084740id_/http%3A//www.indiaexpress.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy : IndiaExpress.Com
 
@@ -49,6 +49,10 @@ Finally, parents should be aware that if a child voluntarily discloses his or he
 **What about my privacy on linked sites?**
 
 This website contains links to other sites. Please be aware that IndiaExpress.Com is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy policy applies solely to information collected by this website. 
+
+**Online behavioral advertising (.OBA.) and/or multi-site advertising is occurring**
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <http://www.networkadvertising.org/managing/opt_out.asp>
 
 By using this website, you consent to the collection of information as described in this policy. 
 
