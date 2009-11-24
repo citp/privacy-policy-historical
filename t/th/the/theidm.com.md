@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theidm.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523085333id_/http%3A//www.theidm.com/about/privacy-security-and-copyright) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theidm.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124072754id_/http%3A//www.theidm.com/about/privacy-security-and-copyright) for the most accurate reproduction.*
 
 # Respecting your privacy and safeguarding your data
 
