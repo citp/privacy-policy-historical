@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the endsleigh.co.uk privacy policy that was archived on 2009-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090226225048id_/http%3A//www.endsleigh.co.uk/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endsleigh.co.uk privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124194105id_/http%3A//www.endsleigh.co.uk/about/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -51,7 +51,7 @@ Endsleigh maintains web logs in order to evaluate the popularity of its pages an
 
 #### How can you prevent further contact? 
 
-If you decide at any time that you do not want to receive information about other products and services offered by us, companies in our group and carefully selected third parties, please let us know. You can do this by phoning us on 0870 241 3602. 
+If you decide at any time that you do not want to receive information about other products and services offered by us, companies in our group and carefully selected third parties, please let us know. You can do this by phoning us on 0800 030 4510. 
 
 #### Changes to this policy 
 
