@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xray-cash.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524222955id_/http%3A//www.xray-cash.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xray-cash.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124102710id_/http%3A//www.xray-cash.com/pages/privacy.php) for the most accurate reproduction.*
 
 # Welcome to xray-cash.com
 
