@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sunway.edu.my privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523083523id_/http%3A//www.sunway.edu.my/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D1072%26Itemid%3D977) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunway.edu.my privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124075213id_/http%3A//www.sunway.edu.my/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D1072%26Itemid%3D977) for the most accurate reproduction.*
 
-# Sunway University College, Higher Education in South East Asia
+# Privacy Policy - Sunway University College
 
 The University Web servers automatically collect standard, anonymous information, like the IP address of your computer, cookies, access times and the pages visited. This information is used in an anonymous form to monitor usage and to assess the effectiveness of the University website. 
 
