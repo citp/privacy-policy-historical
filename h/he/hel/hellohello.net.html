@@ -1,0 +1,570 @@
+<!--The following is the downloaded HTML source of the hellohello.net privacy policy that was archived on 2009-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091124084043id_/http%3A//social.hellohello.net/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="Expires" content="-1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="content-language" content="en">
+<meta name="description" content="This site is produced by HelloHello.Net - the best social networking portal">
+<meta name="keywords" content="Networking, social networking, friends, advertisements, blogs, community, video, youtube, flash, mp3, music, ecards, cards, gadgets, profiles, HelloHello.Net">
+<title>:: HELLOHELLO.NET ::::Privacy</title>
+
+<!--[if gte IE 6]>
+<link rel="stylesheet" title="main" type="text/css" href="themes/plonderous/gfx/style_ie.css" media="screen">
+<![endif]-->
+
+<!--[if !IE]-->
+<link rel="stylesheet" title="main" type="text/css" href="themes/plonderous/gfx/style.css" media="screen">
+<!--[endif]-->
+
+<link rel="stylesheet" type="text/css" href="themes/plonderous/gfx/photox-litebox.css">
+<link rel="stylesheet" type="text/css" href="themes/plonderous/gfx/photox-general.css">
+<link rel="stylesheet" type="text/css" href="themes/plonderous/gfx/arcade.css">
+
+<script src="http://social.hellohello.net/jscript/zxml.js" type="text/javascript"></script>
+
+<script language="JavaScript">
+//<![CDATA[
+var tempTimeout = 0;
+var closeTimeout = null;
+function HS_VChatRequest( type, param )
+{
+   var oXHR = zXmlHttp.createRequest();
+   oXHR.open("post", MainURL+"modules/vchat.php", true);
+   oXHR.setRequestHeader("Content-Type","application/x-www-form-urlencoded");
+   oXHR.onreadystatechange = function() {
+       if (oXHR.readyState == 4) {
+           HS_ShowVChatWindow( oXHR.responseText );
+       }
+   }
+
+   var post = null;
+
+   switch(type){
+       case 'invite':
+           post = "action=invite&per_id="+param;
+           break;
+       case 'cancel':
+           HS_CloseVChatWindow();
+           post = "action=cancel&session_id="+param;
+           break;
+       case 'accept':
+           HS_CloseVChatWindow();
+           post = "action=accept&session_id="+param;
+           break;
+       case 'decline':
+           HS_CloseVChatWindow();
+           post = "action=decline&session_id="+param;
+           break;
+       case 'ignore':
+           HS_CloseVChatWindow();
+           post = "action=ignore&session_id="+param;
+           break;
+       case 'invited':
+           post = "action=invited&session_id="+param;
+           break;
+       case 'unavailable':
+           post = "action=unavailable&session_id="+param;
+           break;
+       case 'open_invited':
+           post = "action=open_invited&session_id="+param;
+           break;
+       case 'open_invitee':
+           post = "action=open_invitee&session_id="+param;
+           break;
+       case 'declined':
+           post = "action=declined&session_id="+param;
+           break;
+       case 'close':
+           HS_CloseVChatWindow();
+           break;
+   }
+
+   oXHR.send( post );
+}
+
+function HS_HandleVChatSignal( code )
+{
+   var details = code.split(".");
+   HS_VChatRequest( details[0], details[1] );
+}
+
+function HS_AlignVChatWindow()
+{
+   var ns = (document.layers)?1:0;
+   var Position = new Array;
+   if(ns){
+       Position['Left'] = window.innerWidth + window.pageXOffset - 5;
+       Position['Top']  = window.innerHeight + window.pageYOffset - 5;
+   }//if
+   else{
+       Position['Left'] = document.body.clientWidth + document.body.scrollLeft - 5;
+       Position['Top']  = document.body.clientHeight + document.body.scrollTop - 5;
+   }//else
+   var VChatWindow = document.getElementById("vchat_window");
+   VChatWindow.style.top = (Position['Top']/2) - (VChatWindow.offsetHeight/2);
+   VChatWindow.style.left = (Position['Left']/2) - (VChatWindow.offsetWidth/2);
+   if(tempTimeout)
+       setTimeout( "HS_AlignVChatWindow()", 500 );
+}
+function HS_ShowVChatWindow( content )
+{
+   if(content){
+       var element = document.getElementById( "vchat_window" );
+       element.innerHTML = content;
+       tempTimeout = 1;
+       HS_AlignVChatWindow();
+       element.style.visibility = "visible";
+   }
+}
+
+function HS_CloseVChatWindow()
+{
+   tempTimeout = 0;
+   var element = document.getElementById( "vchat_window" );
+   element.innerHTML = "";
+   element.style.visibility = "hidden";
+}
+
+function HS_LaunchVChat( session_id )
+{
+   HS_CloseVChatWindow();
+   url = MainURL+"modules/vchat.php?action=launch&session_id="+session_id;
+   var newwin = window.open(url, "vchat", "width=550,height=330,scrollbars=no,menubar=no,resizable=no,location=no");
+   newwin.focus();
+}
+
+//]]>
+</script>
+<style type="text/css">
+<!--
+   #BLIND {
+       position: absolute;
+       visibility: hidden;
+       top: 0;
+       left: 0;
+       width: 180px;
+       height: 115px;
+       z-index: 1;
+       opacity: 0;
+       -moz-opacity: 0;
+       -khtml-opacity: 0;
+       filter: alpha(opacity=0);
+   }
+   #blinds_panel {
+       position: absolute;
+       top: 0;
+       left: 0;
+       z-index: 1;
+   }
+   #body{
+       z-index: 2;
+   }
+   .blind{
+       width: 180;
+       height: 115;
+       opacity: 0;
+       -moz-opacity: 0;
+       -khtml-opacity: 0;
+       filter: alpha(opacity=0);
+   }
+//-->
+</style>
+<script language="JavaScript">
+<!--
+   var NotiTimer = new Array;
+   var BlindIDCount = 0;
+   function MM_preloadImages() { //v3.0
+       var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+       var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+       if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+   }//MM_preloadImages
+   function HS_LaunchIM(){
+       url = MainURL+"modules/instant_messenger.php?action=launch";
+       imwin = window.open(url, "HSIM_CONSOLE", "width=250,height=350,scrollbars=no,menubar=no,resizable=no,location=no");
+       imwin.focus();
+   }//HS_LaunchIM
+   function HS_LaunchChat(per_id){
+       url = MainURL+"modules/instant_messenger.php?action=chat&per_id="+per_id;
+       var newwin = window.open(url, per_id, "width=500,height=350,scrollbars=no,menubar=no,resizable=no,location=no");
+       newwin.focus();
+   }//HS_LaunchChat
+   function HS_BuildBlind(){
+       BlindIDCount++;
+       var BlindID = "BLIND_"+BlindIDCount;
+       var BlindTemplate = document.getElementById("BLIND").innerHTML;
+       var Temp = new Array;
+       Temp = BlindTemplate.split("BLIND");
+       BlindTemplate = Temp.join(BlindID);
+       var BlindContent = "<div class='blind' id='"+BlindID+"'>"+BlindTemplate+"</div>";
+       var BlindsHandler = document.getElementById("blinds_panel");
+       if(BlindsHandler.offsetHeight >= 117){
+           BlindsHandler.style.top = parseInt(BlindsHandler.style.top) - 117;
+       }//if
+       else{
+           BlindsHandler.style.top = parseInt(BlindsHandler.style.top) - 117 + BlindsHandler.offsetHeight;
+       }//else
+       BlindsHandler.innerHTML+= BlindContent;
+       return BlindID;
+   }//HS_BuildBlind
+   function HS_BuildNotification(NotiType,NotiMessage){
+       BlindID = HS_BuildBlind();
+       switch(NotiType){
+           case 'im':
+               var Link = "<a href=\"javascript:HS_LaunchIM();\">"+NotiMessage+"</a>";
+               break;
+           case 'calendar':
+               var Link = "<a href=\"http://social.hellohello.net/index.php?page=calendar\" target=\"_blank\">"+NotiMessage+"</a>";
+               break;
+           case 'mailbox':
+               var Link = "<a href=\"http://social.hellohello.net/index.php?page=mailbox&section=inbox\" target=\"_blank\">"+NotiMessage+"</a>";
+               break;
+           case 'view':
+               var Link = "<a href=\"http://social.hellohello.net/index.php?page=views\" target=\"_blank\">"+NotiMessage+"</a>";
+               break;
+       }//switch
+       var MessageHandler = document.getElementById("notification_message_"+BlindID);
+       MessageHandler.innerHTML = Link;
+       HS_FadeBlind(BlindID,"in");
+       NotiTimer[BlindID] = setTimeout("HS_FadeBlind('"+BlindID+"','out')",10000);
+   }//HS_BuildNotification
+   function HS_FadeBlind(BlindID,Direction){
+       var Timer = 0;
+       var Speed = 50;
+       if(Direction == "in"){
+           HS_ChangeAlign('blinds_panel',3);
+           for(var i=10;i<=100;i=i+10){
+               setTimeout("HS_ChangeOpacity(" + i + ",'" + BlindID + "')",(Timer * Speed));
+               Timer++;
+           }//for
+       }//if
+       else if(Direction == "out"){
+           for(var i=90;i>=0;i=i-10){
+               setTimeout("HS_ChangeOpacity(" + i + ",'" + BlindID + "')",(Timer * Speed));
+               Timer++;
+           }//for
+           setTimeout("HS_ChangeAlign('blinds_panel',1)",Timer * Speed);
+           setTimeout("HS_RemoveBlind('"+BlindID+"')",Timer * Speed);
+       }//else if
+   }//HS_FadeBlind
+   function HS_ChangeOpacity(OpacityValue,BlindID){
+       var BlindObjStyle = document.getElementById(BlindID).style;
+       BlindObjStyle.opacity = (OpacityValue / 100);
+       BlindObjStyle.MozOpacity = (OpacityValue / 100);
+       BlindObjStyle.KhtmlOpacity = (OpacityValue / 100);
+       BlindObjStyle.filter = "alpha(opacity=" + OpacityValue + ")";
+   }//HS_ChangeOpacity
+   function HS_PosBlinds(){
+       var ns = (document.layers)?1:0;
+       var Position = new Array;
+       if(ns){
+           Position['Left'] = window.innerWidth + window.pageXOffset - 5;
+           Position['Top']  = window.innerHeight + window.pageYOffset - 5;
+       }//if
+       else{
+           Position['Left'] = document.body.clientWidth + document.body.scrollLeft - 5;
+           Position['Top']  = document.body.clientHeight + document.body.scrollTop - 5;
+       }//else
+       var BlindsPanel = document.getElementById("blinds_panel");
+       if(BlindsPanel) {
+       	BlindsPanel.style.top = Position['Top'] - BlindsPanel.offsetHeight;
+       	BlindsPanel.style.left = Position['Left'] - 180;
+       	setTimeout("HS_PosBlinds()",500);
+       }
+   }//HS_PosBlinds
+   function HS_ChangeAlign(BlindID,Pos){
+       var BlindObjStyle = document.getElementById(BlindID).style;
+       BlindObjStyle.zIndex = Pos;
+   }//HS_ChangeAlign
+   function HS_RemoveBlind(BlindID){
+       var BlindObj = document.getElementById(BlindID);
+       BlindObj.innerHTML = "";
+   }//HS_RemoveBlind
+   function HS_CloseNotification(BlindID){
+       clearTimeout(NotiTimer[BlindID]);
+       HS_FadeBlind(BlindID,'out');
+   }//HS_CloseNotification
+//-->
+</script>
+
+<script src="http://social.hellohello.net/jscript/AC_RunActiveContent.js" type="text/javascript"></script>
+<script src="http://social.hellohello.net/jscript/AC_ActiveX.js" type="text/javascript"></script>
+<script src="http://social.hellohello.net/jscript/jukebox.js" type="text/javascript"></script>
+<script src="http://social.hellohello.net/jscript/CH_ThumbsPreview.js" type="text/javascript"></script>
+<script src="http://social.hellohello.net/jscript/zxml.js" type="text/javascript"></script>
+
+<script type="text/javascript"> 
+function toggle_username(userid) { 
+    if (window.XMLHttpRequest) { 
+        http = new XMLHttpRequest(); 
+    } else if (window.ActiveXObject) { 
+        http = new ActiveXObject("Microsoft.XMLHTTP"); 
+    } 
+    handle = document.getElementById(userid); 
+    var url = '/ajax/check.php?'; 
+    if(handle.value.length > 0) { 
+        var fullurl = url + 'do=check_username_exists&username=' + encodeURIComponent(handle.value); 
+        http.open("GET", fullurl, true); 
+        http.send(null); 
+        http.onreadystatechange = statechange_username; 
+    }else{ 
+        document.getElementById('username_exists').innerHTML = ''; 
+    } 
+} 
+
+function statechange_username() { 
+    if (http.readyState == 4) { 
+        var xmlObj = http.responseXML; 
+        var html = xmlObj.getElementsByTagName('result').item(0).firstChild.data; 
+        document.getElementById('username_exists').innerHTML = html; 
+    } 
+} 
+
+</script>
+<script type="text/javascript" src="http://fotoflexer.com/API/ff_api_v1_01.js"></script>
+<script type="text/javascript" src="./jscript/photox-fotoflexer.js"></script>
+<script type="text/javascript" src="./jscript/tabcontent.js"></script>
+<script type="text/javascript" src="./jscript/swfobject.js"></script>
+<script type="text/JavaScript" src="./jscript/rounded_corners.inc.js"></script>
+<script type="text/JavaScript" src="./jscript/countdown.js"></script>
+<script type="text/javascript" src="./jscript/help.js"></script>
+<script type="text/javascript" src="./jscript/library/cmx.jquery-1.3.2.js"></script>
+<script type="text/javascript" src="./jscript/library/cmx.jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="./jscript/library/cmx.limiter.js"></script>
+<script type="text/javascript" src="./jscript/library/cmx.insert.js"></script>
+<script type="text/javascript" src="./jscript/library/styles.js"></script>
+<script type="text/javascript" src="./jscript/library/bbcode.js"></script>
+<script type="text/javascript" src="./jscript/library/highlight.js"></script>
+<script type="text/javascript" src="./jscript/jquery-galleryview/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="./jscript/jquery-galleryview/jquery.galleryview-1.1-pack.js"></script>
+<script type="text/javascript" src="./jscript/jquery-galleryview/jquery.galleryview-1.1.js"></script>
+<script type="text/javascript" src="./jscript/jquery-galleryview/jquery.timers-1.1.2.js"></script>
+
+<script type="text/JavaScript" src="./jscript/browserDetect-min.js"></script>
+<script type="text/JavaScript" src="./jscript/browserDetect.js"></script>
+<script language="javascript" src="http://ping.fm/scripts/pingthis.js"></script>
+
+<script language="JavaScript">
+<!--
+	var MainURL = "./";
+//-->
+</script>
+
+<!-- Generated by OpenX 2.8.1 -->
+<!-- <script type='text/javascript' src='http://market.hellohello.net/www/delivery/spcjs.php?id=2'></script> -->
+
+
+<script language="JavaScript1.2">
+function changeStyle(title) {
+var lnks = document.getElementsByTagName('link');
+for (var i = lnks.length - 1; i >= 0; i--) {
+if (lnks[i].getAttribute('rel').indexOf('style')> -1 && lnks[i].getAttribute('title')) {
+lnks[i].disabled = true;
+if (lnks[i].getAttribute('title') == title) lnks[i].disabled = false;
+}}}
+</script>
+
+
+</head>
+<body onload="ajax(page,'scriptoutput');;"><div id="WzTtDiV" style="visibility: hidden; position: absolute; overflow: hidden; padding: 0px; width: 799px; left: -800px; top: 0px;"></div>
+<div id="shades" style="position:absolute; top:0px; left:0px; width:100%; background:#000; height:150%; z-index:50; display:none;"></div>
+
+
+<script type="text/javascript" src="./jscript/sblib.js"></script>
+<script type="text/javascript" src="./jscript/wz_tooltip.js"></script>
+<div id="BLIND">
+<div class="noti"><table cellpadding="0" cellspacing="0" border="0" width="180" height="115">
+	<tbody><tr height="20"><td height="20" align="center" class="noti-header">Notification [<a href="javascript:HS_CloseNotification('BLIND')">x</a>]</td></tr>
+	<tr><td align="center" style="padding:5px;" class="noti-body"><div id="notification_message_BLIND"></div></td></tr>
+</tbody></table></div>
+<div id="notification_message_BLIND"></div>
+</div>
+<div id="blinds_panel"></div>
+<iframe name="notifications_js" id="notifications_js" src="./modules/my_handshakes.php?action=notifications_js" width="0" height="0" scrolling="no" frameborder="0" border="0" style="border: none"></iframe>
+<div id="wrapper" align="left">
+	<div id="wrapper2">
+		<div id="menu" class="menubar" align="left" style="padding-left: 100px;">
+			<a href="javascript:void(0)" onclick="sbDropDown( this )" onmouseout="sbHide()" onmouseover="sbStopTimer()">Bookmark</a> | <a target="" href="./index.php?page=help">Help</a>
+ | <a target="" href="./index.php?page=mailbox&amp;section=inbox">Mailbox</a>
+ | <a target="" href="./index.php?page=calendar">Calendar</a>
+ | <a target="" href="./index.php?page=bookmarks&amp;section=profiles">Bookmarks</a>
+ | <a target="" href="./index.php?page=history">History</a>
+ | <a target="" href="./">My Profile</a>
+ | <a target="" href="./index.php?page=login">Login</a>
+		</div>
+
+		<div id="headerHello">
+		</div>
+
+		<div id="page">
+
+		<div style="text-align:center; padding-top:10px;padding-bottom:10px;">
+
+ 
+
+<script type="text/javascript">
+var AdBrite_Title_Color = '0000FF';
+var AdBrite_Text_Color = '000000';
+var AdBrite_Background_Color = 'FFFFFF';
+var AdBrite_Border_Color = 'CCCCCC';
+var AdBrite_URL_Color = '008000';
+try{var AdBrite_Iframe=window.top!=window.self?2:1;var AdBrite_Referrer=document.referrer==''?document.location:document.referrer;AdBrite_Referrer=encodeURIComponent(AdBrite_Referrer);}catch(e){var AdBrite_Iframe='';var AdBrite_Referrer='';}
+</script>
+
+<span style="white-space:nowrap;"><script type="text/javascript">document.write(String.fromCharCode(60,83,67,82,73,80,84));document.write(' src="http://ads.adbrite.com/mb/text_group.php?sid=1414655&zs=3732385f3930&ifr='+AdBrite_Iframe+'&ref='+AdBrite_Referrer+'" type="text/javascript">');document.write(String.fromCharCode(60,47,83,67,82,73,80,84,62));</script><script src="http://ads.adbrite.com/mb/text_group.php?sid=1414655&amp;zs=3732385f3930&amp;ifr=1&amp;ref=https%3A%2F%2Fweb.archive.org%2Fweb%2F20091124084043id_%2Fhttp%253A%2F%2Fsocial.hellohello.net%2Findex.php%253Fpage%253Dprivacy" type="text/javascript"></script>
+<a target="_top" href="http://www.adbrite.com/mb/commerce/purchase_form.php?opid=1414655&amp;afsid=1"><img src="http://files.adbrite.com/mb/images/adbrite-your-ad-here-leaderboard.gif" style="background-color:#CCCCCC;border:none;padding:0;margin:0;" alt="Your Ad Here" width="14" height="90" border="0"></a></span>
+		
+		
+
+
+<!--			<form id="form1" name="form1" action="http://www.zencove.com/search.php" target=_blank >
+			<span><small>SEARCH THE WEB</small> </span><input style="background-color:#FFFFFF;border:solid 1px #999999;padding:4px;color:#666666;font: 10pt Verdana, Arial, Helvetica, sans-serif;height:25px;" type="text" size="55" id="search" name="search">
+			<input type="hidden" name="type" value="Web">
+			<input name="submit" value="Search" valign="bottom" type="image" src="http://cmx-networks.net/search/images/zencove_srch.png" border="0"></form> -->
+
+		</div>
+
+	<div id="menu" class="menubar" align="center" style="padding-right:10px;"><a target="" href="./my_hellohello.html">My HelloHello</a>
+ | <a target="" href="./blogs.html">Blogs</a>
+ | <a target="" href="./classifieds.html">Classifieds</a>
+ | <a target="" href="./events.html">Events</a>
+ | <a target="" href="./clubs.html">Clubs</a>
+ | <a target="" href="./ecards.html">eCards</a>
+ | <a target="" href="./chat.html">Chat</a>
+ | <a target="" href="./hotornot.html">Rate</a>
+ | <a target="" href="./search-members.html">Search</a>
+ | <a target="" href="./music.html">Music</a>
+ | <a target="" href="./videos.html">Videos</a>
+ | <a target="" href="./forum.html">Forum</a>
+ | <a target="" href="./polls.html">Polls</a>
+ | <a target="" href="./index.php?page=gadgets">Gadgets</a>
+ | <a target="" href="./index.php?page=arcade">Arcade</a>
+</div>
+
+	
+		
+
+
+<!-- JSA for the GalleryView Section -->
+<div style="margin-left:55px;">
+</div>
+<!-- JSA for the GalleryView Section -->
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1481089-27");
+pageTracker._setDomainName(".hellohello.net");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+			<div id="content"><table border="0" width="850" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td width="850" valign="top">
+
+<ul id="flowertabs" class="shadetabs">
+<li class="shadetabs"><a href="#" rel="tcontent1" class="selected"><span><img src="themes/plonderous/gfx/icons/privacy_policy.png"> Privacy Policy</span></a></li>
+</ul>
+
+<div style="padding-top: 5px;">
+
+<div id="tcontent1" class="tabcontent" style="display: block;">
+<div class="post">
+
+<div class="padded privacy">Protecting your privacy is very important to our website. We will not sell, lease or exchange your personal data to third parties without first obtaining your express consent.</div>
+<div class="padded privacy">This privacy policy describes how we collect and use your data. If you have any questions or comments regarding our privacy policy or its enforcement, please feel free to contact administrator.</div>
+<div class="padded privacy">Handshakes is an online social networking community that connects people through their personal networks and allows them to meet others, find jobs, roommates, buy and sell goods, and perform other transactions. Members create their own profiles, and those profiles are then shown to other members of this site.</div>
+<div class="padded privacy">Handshakes collects information our users submit to us such as their name and e-mail address to allow us to identify users and notify them of changes or updates to our service. We also collect personal information submitted by our users in filling out their profile on the service such as gender, location, age, etc. We collect this personal information when our users: sign up as a member; make changes to their member profile information; and send e-mail messages. Members may choose to provide additional information beyond their basic profile for their other profile sections. Providing additional information beyond what is required at registration is entirely optional, but enables our users to better identify each other and more effectively connect and interact with their network. </div>
+<div class="padded privacy">Like many other Web sites, Handshakes uses a standard technology called "cookies." Cookies are small pieces of information stored on your hard drive - not on our site. They can help make the Internet experience quicker and more convenient. Cookies allow our users to login without entering their ID and password each time they use Handshakes. Members who disable cookies will not be able to use Handshakes. </div>
+<div class="padded privacy">Email address and full name are displayed only when a user invites a friend via email to join the service, when a user requests to add another user to their handshakes list, and when we send notifications to a user related to their use of the service. Except when members invite friends, full names are not shared or displayed with people outside of their Personal Network. Email addresses of Handshakes members are never displayed to other users on the system. Users within a Personal Network communicate on Handshakes with each other through the Handshakes service without disclosing their email addresses.</div>
+<div class="padded privacy">We will not sell, lease or exchange your personal data to third parties without first obtaining your express consent, unless required by law or to protect your membership. </div>
+<div class="padded privacy">If you use our Invite feature to invite a friend to our service, we will ask you for your friend's email address. We'll automatically send the friend an email inviting them to join your Personal Network, as well as two reminder messages. Handshakes does not sell these email addresses or use them to transmit any communication other than the invitation and reminders to join your personal Network. Handshakes stores this information for the sole purpose of sending this invitation and reminders, and for tracking the success of our Invite functionality.</div>
+<div class="padded privacy">The Handshakes site may contain links to other Web sites. Please be aware that Handshakes is not responsible for the privacy practices of other sites our users choose to visit. If our users provide any information directly to parties other than Handshakes, different rules may apply to the use or disclosure of the personal information disclosed. We encourage you to investigate and ask questions before disclosing your personal information to third parties. </div>
+<div class="padded privacy">Please be aware that whenever members voluntarily disclose personal information online - e.g., message boards, file uploads, events, and classifieds - that information becomes public and can be collected and used by others. By posting personal information online in public forums, members may receive unsolicited messages from other parties.</div>
+</div>
+</div>
+
+</div>
+
+<script type="text/javascript">
+var myflowers=new ddtabcontent("flowertabs") //enter ID of Tab Container
+myflowers.setpersist(true) //toogle persistence of the tabs' state
+myflowers.setselectedClassTarget("link") //"link" or "linkparent"
+myflowers.init()
+</script>
+
+
+		</td>
+	</tr>
+</tbody></table></div>
+		<div id="footer">
+		<p>
+
+		
+		<br>
+		<a href="index.php?page=help">Help</a> | 
+		<a href="index.php?page=privacy">Privacy Policy</a> | 
+		<a href="index.php?page=terms">Terms of Use</a> |
+		<a href="index.php?page=contact">Contact Us</a> |
+		<a href="index.php?page=forgot">Forgot your password?</a>
+
+		</p>
+		</div>
+</div>
+</div></div>
+<div style="padding-bottom:70px;"></div>
+<div id="sbdropdown" onmouseover="sbStopTimer()" onmouseout="sbHide()">
+
+<div class="sbwelcome"><img src="./images/sb/hello.png"> Hello  <b>Guest!</b> </div>
+
+<table>
+
+<tbody><tr><td width="30%" class="sbitem" onclick="window.external.AddFavorite('http://social.hellohello.net/index.php?page=privacy',' HELLOHELLO.NET Privacy')" onmouseover="this.className='sbitemhighlight'" onmouseout="this.className='sbitem'"><img src="http://social.hellohello.net/includes/sbicons/star.png" alt="" style="vertical-align:middle;"> Favorites
+</td>
+		<td width="30%" class="sbitem" onclick="sbBookmark('http://del.icio.us/post?url=http%3A%2F%2Fsocial.hellohello.net%2Findex.php%3Fpage%3Dprivacy;title=+HELLOHELLO.NET+Privacy',1)" onmouseover="this.className='sbitemhighlight'" onmouseout="this.className='sbitem'"><img src="http://social.hellohello.net/includes/sbicons/delicious.png" alt="" style="vertical-align:middle;"> Del.icio.us
+</td>
+		<td width="30%" class="sbitem" onclick="sbBookmark('http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fsocial.hellohello.net%2Findex.php%3Fpage%3Dprivacy&amp;title=+HELLOHELLO.NET+Privacy',1)" onmouseover="this.className='sbitemhighlight'" onmouseout="this.className='sbitem'"><img src="http://social.hellohello.net/includes/sbicons/digg.png" alt="" style="vertical-align:middle;"> Digg
+</td>
+					</tr>
+		<tr><td width="30%" class="sbitem" onclick="sbBookmark('http://www.furl.net/storeIt.jsp?u=http%3A%2F%2Fsocial.hellohello.net%2Findex.php%3Fpage%3Dprivacy&amp;t=+HELLOHELLO.NET+Privacy',1)" onmouseover="this.className='sbitemhighlight'" onmouseout="this.className='sbitem'"><img src="http://social.hellohello.net/includes/sbicons/furl.gif" alt="" style="vertical-align:middle;"> Furl
+</td>
+		<td width="30%" class="sbitem" onclick="sbBookmark('http://ma.gnolia.com/bookmarklet/add?url=http%3A%2F%2Fsocial.hellohello.net%2Findex.php%3Fpage%3Dprivacy&amp;title=+HELLOHELLO.NET+Privacy',1)" onmouseover="this.className='sbitemhighlight'" onmouseout="this.className='sbitem'"><img src="http://social.hellohello.net/includes/sbicons/magnolia.png" alt="" style="vertical-align:middle;"> Magnolia
+</td>
+		<td width="30%" class="sbitem" onclick="sbBookmark('http://www.stumbleupon.com/submit?url=http%3A%2F%2Fsocial.hellohello.net%2Findex.php%3Fpage%3Dprivacy&amp;title=+HELLOHELLO.NET+Privacy',1)" onmouseover="this.className='sbitemhighlight'" onmouseout="this.className='sbitem'"><img src="http://social.hellohello.net/includes/sbicons/stumbleupon.png" alt="" style="vertical-align:middle;"> StumbleUpon
+</td>
+					</tr>
+		<tr><td width="30%" class="sbitem" onclick="sbBookmark('http://www.google.com/bookmarks/mark?op=edit&amp;bkmk=http%3A%2F%2Fsocial.hellohello.net%2Findex.php%3Fpage%3Dprivacy&amp;title=+HELLOHELLO.NET+Privacy',1)" onmouseover="this.className='sbitemhighlight'" onmouseout="this.className='sbitem'"><img src="http://social.hellohello.net/includes/sbicons/google.gif" alt="" style="vertical-align:middle;"> Google
+</td>
+		<td width="30%" class="sbitem" onclick="sbBookmark('http://myweb2.search.yahoo.com/myresults/bookmarklet?t=+HELLOHELLO.NET+Privacy&amp;u=http%3A%2F%2Fsocial.hellohello.net%2Findex.php%3Fpage%3Dprivacy',1)" onmouseover="this.className='sbitemhighlight'" onmouseout="this.className='sbitem'"><img src="http://social.hellohello.net/includes/sbicons/yahoo.png" alt="" style="vertical-align:middle;"> Yahoo
+</td>
+		<td width="30%" class="sbitem" onclick="sbBookmark('http://technorati.com/faves?add=http%3A%2F%2Fsocial.hellohello.net%2Findex.php%3Fpage%3Dprivacy',1)" onmouseover="this.className='sbitemhighlight'" onmouseout="this.className='sbitem'"><img src="http://social.hellohello.net/includes/sbicons/technorati.gif" alt="" style="vertical-align:middle;"> Technorati
+</td>
+					</tr>
+		<tr><td width="30%" class="sbitem" onclick="sbBookmark('http://www.blinklist.com/index.php?Action=Blink/addblink.php&amp;Url=http%3A%2F%2Fsocial.hellohello.net%2Findex.php%3Fpage%3Dprivacy&amp;Title=+HELLOHELLO.NET+Privacy',1)" onmouseover="this.className='sbitemhighlight'" onmouseout="this.className='sbitem'"><img src="http://social.hellohello.net/includes/sbicons/blinklist.png" alt="" style="vertical-align:middle;"> BlinkList
+</td>
+		
+</tr></tbody></table>
+
+<div class="sbwelcome"><a href="http://en.wikipedia.org/wiki/Social_bookmarking" target="_blank">What is Social-Bookmarking<img src="./images/sb/question.png" border="0"></a></div>
+
+</div>
+
+<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
+<script type="text/javascript">
+    FB_RequireFeatures(["XFBML"], function()
+    {
+      FB.Facebook.init("663e34862eff5ac6c4c3fb2c528a6243", "xd_receiver.htm");
+    });
+  </script>
+
+	
+
+
+</body></html>
