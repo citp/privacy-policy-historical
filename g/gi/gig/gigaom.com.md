@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gigaom.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609072915id_/http%3A//gigaom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigaom.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124073741id_/http%3A//gigaom.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – GigaOM
 
 Giga Omni Media, Inc. (“GigaOM”) takes your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the GigaOM website (the “GigaOM Site”), submitting information or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
