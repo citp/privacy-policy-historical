@@ -1,18 +1,14 @@
-> *The following text is extracted and transformed from the articlemonster.com privacy policy that was archived on 2008-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080706050717id_/http%3A//articlemonster.com/content/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlemonster.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124131527id_/http%3A//articlemonster.com/Privacy-policy.html) for the most accurate reproduction.*
 
-# Article Monster.com: Privacy Policy
-
-Welcome to our website. If you continue to browse and use this website you are agreeing to comply with and be bound by our [terms of service](https://web.archive.org/content/terms_of_service.php), which together with our [privacy policy](https://web.archive.org/content/privacy_policy.php), [disclaimer](https://web.archive.org/content/disclaimer.php) and [submission guidelines](https://web.archive.org/content/submission_guidelines.php) govern our relationship with you in relation to this website.
-
-The terms “us”, “we”, or “our” refers to the owner of the website. The term “you” refers to the user or viewer of our website.
+# Privacy policy - articlemonster.com
 
 This privacy policy sets out how we use and protects any information that you give us when you use this website. We are committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
-We collect only the e-mail addresses of those who post messages to our forums, the e-mail addresses of those who communicate with us via e-mail, aggregate (non personally identifiable) information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
+We will collect only the e-mail addresses of those who post messages to our forums,(if or when we decide to use forums) the e-mail addresses of those who communicate with us via e-mail, aggregate (non personally identifiable) information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
 
-We respect your privacy. We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law. The information we collect is used to improve the content of our web site.
+We respect your privacy. We will not sell, distribute or lease your personal information to any third parties, or are required to by law. The information we collect is only used to improve the content of our web site.
 
 **Communications Policy:**
 
@@ -24,7 +20,7 @@ We use cookies to store visitors preferences, record session information, such a
 
 **With respect to third party companies and services:**
 
-To try and bring you offers and services that are of interest to you, we have relationships with other companies. Article Monster.com expects it's partners, affiliates and advertisers to respect the privacy of our users and members. However, as a result of your visit to our site, third parties, including our partners, advertisers, affiliates and other content providers may have their own data collection and privacy policies and may collect information such as your domain type, your IP address and clickstream information. 
+To try and bring you offers and services that are of interest to you, we have relationships with other companies. Article Monster.com expects it's partners, affiliates and advertisers to respect the privacy of our users and members. However, as a result of your visit to our site, third parties, including our partners, advertisers, affiliates and other content providers may have their own data collection and privacy policies and may collect information such as your domain type, your IP address and clickstream information.
 
 While on our site, our partners, advertisers or other third parties may use cookies or other technology to attempt to identify your preferences or retrieve information about you.
 
@@ -46,9 +42,7 @@ For further information, consult the privacy policies of:
 
 
 
-**With respect to security:**
-
-We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you on our site.
+Or any other individuals or third parties, mentioned anywhere on this website.
 
 **Changes to this policy:**
 
@@ -56,4 +50,7 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 **Contacting us:**
 
-If you feel that this site is not following its stated information policy or you have any questions relating to this policy, please [ contact us](https://web.archive.org/content/contact_us.php).
+If you feel that this site is not following its stated information policy, or have any questions relating to this policy, please [contact us](http://www.articlemonster.com/contact/)
+
+  
+
