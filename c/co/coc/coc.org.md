@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coc.org privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524090114id_/http%3A//www.coc.org/legal-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coc.org privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124080851id_/http%3A//www.coc.org/legal-privacy) for the most accurate reproduction.*
 
 # Legal and Privacy Policy | COC
 
@@ -89,7 +89,7 @@ Washington, DC 20017
 
 2\. Call us at 202-635-2757 between 9:30 a.m. and 5 p.m. EST, Monday - Friday. 
 
-3\. E-mail [info@coc.org](mailto:info@coc.org)
+3\. E-mail [communications@coc.org](mailto:communications@coc.org)
 
 **Can I change the information I have given to the Center of Concern?**
 
@@ -102,7 +102,7 @@ Washington, DC 20017
 
 2\. Call us at 202-635-2757 between 9:30 a.m. and 5 p.m. EST, Monday - Friday. 
 
-3\. E-mail [info@coc.org](mailto:info@coc.org)
+3\. E-mail [communications@coc.org](mailto:communications@coc.org)
 
 You can change the information associated with your online subscriptions by visiting our subscription center. You will need the e-mail address at which you receive your mailings to access your account. 
 
