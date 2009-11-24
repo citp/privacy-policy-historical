@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naacp.org privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527223429id_/https%3A//www.naacp.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naacp.org privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124074122id_/http%3A//www.naacp.org/about/privacy) for the most accurate reproduction.*
 
 # NAACP - Privacy Policy
 
@@ -35,6 +35,6 @@ Submitting voluntary information constitutes your consent to the use of the info
 
 **Privacy Policy Changes** : We reserve the right to change this Privacy Policy at any time at its sole discretion and without notice to you. All Privacy Policy changes are effective immediately. Your continued use of the Site following any Privacy Policy changes will mean you accept those changes. 
 
-**Contact Information** : If you have difficulty obtaining information from the site, please [contact us](https://web.archive.org/web/20090527223429id_/http://www.naacp.org/about/contact/index.htm) to get the material in another format. You should provide the URL of the site referencing that information. 
+**Contact Information** : If you have difficulty obtaining information from the site, please [contact us](https://web.archive.org/web/20091124074122id_/http://www.naacp.org/about/contact/index.htm) to get the material in another format. You should provide the URL of the site referencing that information. 
 
-If you have any comments, or suggestions for improvement, please [contact](https://web.archive.org/web/20090527223429id_/http://www.naacp.org/about/contact/index.htm) the NAACP Technology Department. 
+If you have any comments, or suggestions for improvement, please [contact](https://web.archive.org/web/20091124074122id_/http://www.naacp.org/about/contact/index.htm) the NAACP Technology Department. 
