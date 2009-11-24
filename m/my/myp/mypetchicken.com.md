@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypetchicken.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523083900id_/http%3A//www.mypetchicken.com/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypetchicken.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124075159id_/http%3A//www.mypetchicken.com/about-our-company/policy/privacy-policy.aspx) for the most accurate reproduction.*
 
 # My Pet Chicken: Privacy Policy
 
@@ -27,7 +27,7 @@ Etc.
 We use your information in these five ways only. We will only use your personal information in the way we specified when it was collected. We will not subsequently change the way your personal information is used without your consent. 
 
   * When placing an order, to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.
-  * If you have opted in to our e-newsletter, to email you product and service updates. (You will always have the ability to opt out from receiving newsletters by replying with �unsubscribe� in the subject line.)
+  * If you have opted in to our e-newsletter, to email you product and service updates. (You will always have the ability to opt out from receiving newsletters by replying with "unsubscribe" in the subject line.)
   * If you send us an inquiry via email, to respond via email.
   * If you register with our website to receive our e-newsletter, to save items in your shopping cart or wish list, or to save announcing new products and services, to store your preferences.
   * In some instances, My Pet Chicken may collect non-personal (aggregate or demographic) data collected on our website and e-newsletters, through cookies, web beacons and web logs. This information is used to better understand and improve the usability, performance and effectiveness of our website and e-newsletters.
@@ -40,6 +40,15 @@ We do not sell or rent your personal information to third parties, except as nec
 We may respond to subpoenas, court orders, or legal process by disclosing your personal information and other related information, if necessary. We also may choose to establish or exercise our legal rights or defend against legal claims. 
 
 We may collect and possibly share personal information and any other additional information available to us in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, or as otherwise required by law. 
+
+According to the laws of the State of Connecticut, we must share the following information with Connecticut's Department of Agriculture when clients residing within Connecticut place orders for baby chicks:   
+First name  
+Last name  
+Mailing Address  
+Number of chicks purchased  
+Date of order
+
+The Department of Agriculture aims to support backyard chicken-keepers by handing out pamphlets that provide information on free disease testing resources, how to checking for syptoms of illness, and so on. 
 
 We will ask you for your opt-in consent to share your personal information with a third party for any other reason. 
 
@@ -60,6 +69,6 @@ You can access all your personally identifiable information that we collect and 
 You can correct factual errors in your personally identifiable information yourself by clicking on the "edit" link. 
 
   
-If you have any comments, questions or concerns, please don't hesitate to contact us. We may be reached via e-mail at [ info@mypetchicken.com](mailto:info@mypetchicken.com).
+If you have any comments, questions or concerns, please don't hesitate to contact us. We may be reached via e-mail at [info@mypetchicken.com](mailto:info@mypetchicken.com).
 
- 11/06
+ 06/09
