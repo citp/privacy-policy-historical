@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vwaudiforum.co.uk privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522194618id_/http%3A//www.vwaudiforum.co.uk/forum/showthread.php%3Fp%3D42%23post42) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vwaudiforum.co.uk privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124030357id_/http%3A//www.vwaudiforum.co.uk/forum/showthread.php%3Fp%3D42%23post42) for the most accurate reproduction.*
 
-# VWAudi Forum - "Privacy Policy" - VWAUDI Forum
+# VWAudi Forum - "Privacy Policy" - VWAUDI Forum - VWAF
 
 **VWAudi Forum - "Privacy Policy"**
 
@@ -54,17 +54,16 @@ This Privacy Policy was last updated on April 23rd 2004. © 2004 VWAudi Forum. A
 
 __________________
 
- ** _Stuart - Website Chairman_**
+ **Stuart** l **_VWAudi Forum_**
+
+ ** _VWAF - Owner & Administrator_**
 
   
 
-
-_**Visit the[Gallery](http://www.vwaudiforum.co.uk/photopost/?) and post your pictures**_
 
 _**If you need a Part, a Garage, a Tuning Company, or even an Official Dealer the please visit**_
 
-  
-
+_**our[Supporting Companies](http://www.vwaudiforum.co.uk/forum/forumdisplay.php?f=215) They are all there to **__**help by offering advice and products or services...**_
 
 _**Details of the VWAudi Forum Insurance Scheme,[See Here](http://www.vwaudiforum.co.uk/forum/showthread.php?t=24937)**_
 
@@ -72,8 +71,7 @@ _**Details of the VWAudi Forum Insurance Scheme,[See Here](http://www.vwaudiforu
 
 _**Take the "Skills for Life" challenge and become a better driver... Join the Institute of Advance Motorists**_
 
-_**Fully Registered VCDS 805.3 - HEX-USB+CAN Interface
+_**Fully Registered VCDS 908.0 - HEX-USB+CAN Interface**_
 
-Need a part number or diagram? - OFFICIAL LICENCED" VAG ETOS Parts Catalogue **NOW AVAILABLE**
+_**Need a part number or diagram? - OFFICIAL LICENCED" VAG ETOS Parts Catalogue **NOW AVAILABLE****_  
 
-**_
