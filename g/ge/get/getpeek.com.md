@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getpeek.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601155223id_/http%3A//www.getpeek.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getpeek.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124075527id_/http%3A//www.getpeek.com/privacy.htm) for the most accurate reproduction.*
 
 # Peek - Privacy Policy
 
@@ -8,8 +8,8 @@ The security of your information is important to us at Peek. We use a number of 
 
 You are responsible for taking precautions and providing security measures best suited for your situation and intended use of the Service. You should keep your email login and password safe and confidential to protect against unauthorized access to your information. Use passwords that others may not guess easily. Do not give your passwords to anyone else unless you intend that they have the same ability to access your information that you do. If you write down your passwords or user names, keep them in a safe location.
 
-We strive to protect the information we have about you. Our internal policies limit access to personally identifiable information to employees, agents, affiliates, supplies, vendors, consultants, and contractors who need it to serve you. Peek employees are contractually obligated to protect your information, and we work to ensure that our employees do not tamper with or intentionally disclose the contents of any communication. We use physical security measures and passwords and other access control mechanisms to protect our data systems from unauthorized access.
+We strive to protect the information we have about you. Our internal policies limit access to personally identifiable information to employees, agents, affiliates, suppliers, vendors, consultants, and contractors who need it to serve you. From time to time, we may share personally identifiable information with other third parties for internal purposes. If you wish not to have your information shared, you may opt-out by contacting [unsubscribe@getpeek.com](mailto:unsubscribe@getpeek.com). Peek employees are contractually obligated to protect your information, and we work to ensure that our employees do not tamper with or intentionally disclose the contents of any communication. We use physical security measures and passwords and other access control mechanisms to protect our data systems from unauthorized access.
 
 If required by law or to protect our rights, business, network, or customers, we may (but are not required to) monitor, intercept, and disclose your transmissions, location, or communications and may disclose your billing, account, or other information, in good faith reliance on legal process. The way third-parties handle and use your personal information is governed by their policies, and we are not responsible for their policies or their compliance with them.
 
-(Revised August 22, 2008)
+(Revised October 26, 2009)
