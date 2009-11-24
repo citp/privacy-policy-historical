@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bodogaffiliate.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616170208id_/http%3A//www.bodogaffiliate.com/home/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodogaffiliate.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124185904id_/http%3A//www.bodogaffiliate.com/home/privacy-policy.html) for the most accurate reproduction.*
 
 # Poker, Sportsbook, Casino Affiliate Programs - Bodog Affiliate
 
@@ -36,15 +36,13 @@ Bodog Sportsbook, Casino and Poker Room uses cookies to track how and when custo
 
 Bodog Sportsbook, Casino and Poker Room also log IP addresses for system administration purposes. We use IP addresses to help diagnose problems with our servers. Your IP address is also used to help identify you and your wagering account. Bodog download products also record a unique computer ID. 
 
-The advertisements appearing on Bodog Sportsbook, Casino and Poker Room are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. For more information about DoubleClick, cookies, and how to "opt-out", please visit: <http://www.doubleclick.net/us/corporate/privacy>
-
 The Bodog Sportsbook, Casino and Poker Room website contains links to other sites; we are not responsible for the privacy practices or the content of such Web sites. 
 
 Bodog Sportsbook, Casino and Poker Room will occasionally update this Privacy Policy. When we do, we will also revise the "last updated" date at the bottom of the Privacy Policy. Bodog will obtain your opt-in consent for any updates to this Privacy Policy that materially expand the sharing or use of your personal information in ways not disclosed in this Privacy Policy at the time of collection. 
 
 **Contact Information**
 
-If you have any questions or comments regarding this Privacy Policy, feel free to contact us at [service@bodog.com](mailto:service@bodog.com). You may also contact Bodog at: 
+If you have any questions or comments regarding this Privacy Policy, feel free to contact us at [affiliates@bodog.com](mailto:affiliates@bodog.com). You may also contact Bodog at: 
 
 Bodog Sportsbook, Casino and Poker   
 Oficentro Sabana Sur   
