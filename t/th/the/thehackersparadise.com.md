@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the thehackersparadise.com privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505073442id_/http%3A//www.thehackersparadise.com/GPP.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehackersparadise.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124042049id_/http%3A//www.thehackersparadise.com/GPP.html) for the most accurate reproduction.*
 
-# TOS
+# The Hackers Paradise - General Privacy Policy
+
+General Privacy Policy
 
 The Hackers Paradise and its subsidiary (thehackersparadise.com) and affiliates are sensitive to privacy issues concerning the use of information provided over the Internet, and we understand the importance of protecting any personal information you may provide to us through the use of this website and the sub-sites for The Hackers Paradise various business units (collectively, "this website").
 
