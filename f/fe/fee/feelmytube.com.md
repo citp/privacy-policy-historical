@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the feelmytube.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615112520id_/http%3A//www.feelmytube.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feelmytube.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124213843id_/http%3A//www.feelmytube.com/privacy) for the most accurate reproduction.*
 
-# FeelMyTube.com - Sexy Videos
+# Sexy Videos - FeelMyTube.com
 
 Privacy Policy 
 
