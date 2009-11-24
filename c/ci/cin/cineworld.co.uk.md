@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the cineworld.co.uk privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617065130id_/http%3A//www.cineworld.co.uk/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cineworld.co.uk privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124014908id_/http%3A//www.cineworld.co.uk/policy) for the most accurate reproduction.*
 
 # Cineworld Cinemas: Privacy Policy
 
 ## Privacy Policy
 
-Cineworld is committed to ensuring that your privacy is protected. This Privacy Policy explains how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy. All defined terms contained within this privacy policy are defined in our [Terms](https://web.archive.org/terms).
+Cineworld is committed to ensuring that your privacy is protected. This Privacy Policy explains how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy. All defined terms contained within this privacy policy are defined in our [Terms](https://web.archive.org/web/20091124014908id_/http%3A//terms).
 
 We use the information we collect about you to help efficiently administer our business and the services we provide to you in accordance with the Data Protection Act 1998. We take privacy seriously and endeavour to be as open as possible in terms of how your information is used.
 
 ### What information do we collect and how do we use it?
 
+By entering your personal information on the Cineworld web site you accept that we may retain your information and it may be held by Cineworld or by any third party company which processes it on our behalf.
+
 #### General Bookings
 
-If you wish to book tickets using our Web Site, we will need to know your name, e-mail address and credit card details. We gather this information to allow us, our agents and sub-contractors to process your booking and to send you an e-mail confirmation of each booking.
+If you wish to book tickets using our web site, we will need to know your name, e-mail address and credit card details. We gather this information to allow us, our agents and sub-contractors to process your booking and to send you service related emails related to each booking.  
 
 #### MyCineworld
 
@@ -22,9 +24,9 @@ If you sign up to the MyCineworld service, our agents and sub-contractors shall 
 
 #### External web sites
 
-The Web Site links to a number of external web sites and then to the Internet and you acknowledge that your access of such web sites will be subject to the relevant third party's terms and conditions and that any information you provide to such third parties is subject to its own privacy policy. Cineworld has no control over how such information is used and, as such, any course of action you have regarding any alleged misuse of such information must be against the relevant third party. You acknowledge that the same information may be provided by you to both that third party and Cineworld, but only when specifically provided to Cineworld is it subject to this Privacy Policy. 
+The Web Site links to a number of external web sites and then to the Internet and you acknowledge that your access of such web sites will be subject to the relevant third party's terms and conditions and that any information you provide to such third parties is subject to its own privacy policy. Cineworld has no control over how such information is used and, as such, any course of action you have regarding any alleged misuse of such information must be against the relevant third party. You acknowledge that the same information may be provided by you to both that third party and Cineworld, but only when specifically provided to Cineworld is it subject to this Privacy Policy.
 
-#### What about "cookies"? 
+#### What about "cookies"?
 
 "Cookies" are small pieces of information that are stored by your browser on your computer. Our cookies contain information that we can use to identify you and allow us to efficiently operate the Login service. The information stored within the cookie is encoded and restricted so only Cineworld and its agents (which include third-party advertising companies) are allowed access. We will use this information to track site usage, tailor site content, and prevent service abuse. You are always free to decline our cookies, if your browser permits, or to ask your browser to indicate when a cookie is being sent. You can also delete cookie files from your computer at your discretion. Note that if you decline our cookies or ask for notification each time a cookie is being sent, this may affect your ease of use of this Web Site.
 
@@ -46,7 +48,7 @@ In the event that our business is sold or integrated with another business your 
 
 #### Your consent
 
-By using our on-line booking service or by using Login and submitting your information you consent to the collection and use of that information by Cineworld as set out in this Privacy Policy. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it. We will also e-mail to inform you of any changes. Continued use of the service will signify that you agree to any such changes.
+By using our on-line booking service or by using MyCineworld and submitting your information you consent to the collection and use of that information by Cineworld as set out in this Privacy Policy. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it. Continued use of the service will signify that you agree to any such changes
 
 #### Third Party Advertising
 
