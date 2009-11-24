@@ -1,8 +1,14 @@
-> *The following text is extracted and transformed from the feefo.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416232411id_/http%3A//feefo.com/feefo/page.jsp%3Fpage%3DB3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feefo.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124040842id_/http%3A//www.feefo.com/feefo/page.jsp%3Fpage%3DB3) for the most accurate reproduction.*
 
-# Feefo - Independent Customer Reviews and Feedback - Privacy Policy
+# FeeFo Privacy Policy
 
-1.     Introduction
+  * [Home](https://web.archive.org/web/20091124040842id_/http%3A//www.feefo.com/feefo/index.jsp)
+  * About us
+  * Privacy policy
+
+
+
+### 1.     Introduction
 
 1.1  This Privacy Policy explains how we use information that you provide to us. In this Privacy Policy **“use”** means collecting, storing or organising information or doing anything else to it that would be considered **“Processing”** under the Act.
 
@@ -16,7 +22,7 @@
 
 1.6  The protection of your personal information is very important to us. We are registered under the Data Protection Act 1998 ( **“Act”** ).  No. 29604672 and we will always comply with the Act. The Act includes any amendments to or replacement of the Data Protection Act 1998.
 
-2.     Personal Information
+### 2.     Personal Information
 
 2.1  We will not publish any Personal Information on the Website without your previous written consent.
 
@@ -24,23 +30,23 @@
 
 2.3  We may also give Personal Information about you to any person who buys the business of Feefo as a going concern ( **“Buyer”** ). A Buyer may Use any Personal Information in the same way that we may Use Personal Information, but will also be bound by the Privacy Policy in the same way that we are.
 
-3.     Storage and Security
+### 3.     Storage and Security
 
 3.1  We will keep all Personal Information about you secure. We will not provide any Personal Information to any other person except as permitted under this Privacy Policy or as agreed by you in writing.
 
 3.2  We will destroy any personal Information about you 12 months from when you provide that Personal Information to us or from the last time that you give Feedback or login to the Website.
 
-4.     Access to Personal Information
+### 4.     Access to Personal Information
 
 4.1  You have the right to a copy of the Personal Information we hold about you. If any of this Personal Information is incorrect, we will amend it.
 
 4.2  If you would like a copy of your Personal Information you must complete an **“Access Request”** by emailing [accesrequest@feefo.com](mailto:accessrequest@feefo.com) including your email address. You may also send an Access Request by post to the address above.
 
-5.     Cookies
+### 5.     Cookies
 
 5.1  When you visit the Website you may be asked to download a cookie ( **“Cookie”** ). Cookies allow us to track the way that visitors use our Website.
 
-6.     Feedback
+### 6.     Feedback
 
 6.1  We may publish Feedback on the Website for two years after we receive it from you.
 
@@ -48,11 +54,11 @@
 
 6.3  After Feedback has been published on the Website we will remove it, or amend it, following a request by you (email [amendfeedback@feefo.com](mailto:amendfeedback@feefo.com) ).
 
-7.     People Aged Under 16
+### 7.     People Aged Under 16
 
 7.1  Children (anyone aged under 16) may use the Website and provide Feedback and Personal Information to us. However, if you are under 16, your parent or guardian must be aware that you are using the Website and agree to that use.
 
-8.     Changes to the Privacy Policy
+### 8.     Changes to the Privacy Policy
 
 8.1  When we write to you we will use the most recent email address that you have provided to us (“ **Email Address** ”). You can change your Email Address at any time by emailing [ amendemail@feefo.com](mailto:amendemail@feefo.com) with the necessary details
 
@@ -60,7 +66,7 @@
 
 8.3  We may change this Privacy Polity at any time by giving you at least 14 days notice in writing. You agree that this notice may be sent by email.
 
-9.     General
+### 9.     General
 
 9.1  In this Privacy Policy a **“person”** includes a firm, company, unincorporated association or any other legal entity.
 
