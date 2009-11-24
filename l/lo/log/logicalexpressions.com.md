@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logicalexpressions.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628115254id_/http%3A//logicalexpressions.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logicalexpressions.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124132712id_/http%3A//logicalexpressions.com/Privacy.htm) for the most accurate reproduction.*
 
 # Logical Expressions Privacy Policy
 
@@ -8,7 +8,7 @@ Painless Publishing
 ### Check out what readers  
 say about our writing...
 
-#351"Great article! Thanks."\- S.B.
+#237"I enjoy your weekly newsletter and the many tips to help us along with the computer."\- A.L.
 
 [](http://www.selfpublishersonlineconference.com/)
 
@@ -78,7 +78,7 @@ Logical Expressions, Inc.
 Sandpoint, Idaho 83864  
 Phone: 208-265-3636
 
-[Click to contact us by email](https://web.archive.org/web/20090628115254id_/http%3A//logicalexpressions.com/contact.asp)
+[Click to contact us by email](https://web.archive.org/web/20091124132712id_/http%3A//logicalexpressions.com/contact.asp)
 
 | 
 
