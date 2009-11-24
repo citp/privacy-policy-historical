@@ -1,0 +1,1038 @@
+<!--The following is the downloaded HTML source of the degreetoolbox.com privacy policy that was archived on 2009-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091124062125id_/http%3A//www.degreetoolbox.com/privacy.aspx) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+	Privacy Policy - DegreeToolbox.com
+</title><meta name="keywords" content="degreetoolbox, degree, career, school, major, program, education, American education system, USA education, US education, American education, US education system, USA education system, study in the us, study in the Canada, study in america, study usa, study canada, study us, study ca"><meta name="description"><link href="css/main.css" type="text/css" rel="stylesheet"><link href="css/auxiliar.css" type="text/css" rel="stylesheet">    
+    <!--[if lte IE 8]>	
+	<style>
+	input[type=radio], label { *vertical-align:middle;    }
+    input[type=radio] { *vertical-align:middle; }
+	.survey .question .option input[type=radio], .survey .question .option label {vertical-align:middle;}
+    .survey .question .option input[type=radio] { margin:-1px;top:0px;overflow:hidden;    }
+    .modalBox .mbContentTitle {padding-top:10px;}
+	</style>
+    <![endif]-->
+    <!--[if lte IE 7]>	
+	<style>	
+    .survey .question .option input[type=radio] { margin:-2px;top:-1px;overflow:hidden;    }    
+	</style>
+    <![endif]-->
+    <!--[if lte IE 6]>	
+	<link href="css/ie6_override.css" rel="stylesheet" type="text/css" />
+	<style>
+	.shadow2 { background-image:none; background-repeat:no-repeat; height:0px; width:0px; }
+	
+	</style>
+    <![endif]--> 
+
+    <script type="text/javascript" src="/scripts/jquery-1.3.2.min.js"></script>
+
+    <script type="text/javascript" language="javascript">             
+    
+    function initMenu() {
+        var pageName = "privacy";
+        var item = null;
+        var item2 = null;
+        //alert(pageName);
+        switch(pageName) {        
+            case "home" : item = "lnkHome";break;
+            case "about" : item = "lnkAbout";break;
+            case "faq" : item = "lnkFaqs";break;
+            case "contact" : item = "lnkContact";break;
+            case "financial" : item2 = "lnkFinancial";break;
+            case "scholarships" : item2 = "lnkFinancial";break;
+            case "fafsa" : item2 = "lnkFinancial";break;
+            case "international" : item2 = "lnkFinancial";break;
+            case "canadian" : item2 = "lnkFinancial";break;
+            case "search" : item2 = "lnkSearch";break;
+            case "resources" : item2 = "lnkResources";break;
+            case "professions" : item2 = "lnkProfessions";break;
+        }
+        if(item != null) {            
+            $("." + item).addClass("itemActive");
+            //$("." + item).parent().addClass("divItemActive");
+            changeMenuImage($("." + item), "_on", "_off");
+        }
+        if (item2 != null) {      
+            //alert(item2);
+            $("." + item2).addClass("item2Active");
+        }
+    }
+    
+    function changeClass(pCtrlID, pClass){ 
+        var ctrl = document.getElementById(pCtrlID);
+        if(ctrl != null) {
+            ctrl.className = pClass;
+        }
+    }   
+    
+    function getQueryParam(id) {
+        var query = window.location.search.substr(1);        
+        if(query != "") {
+            var params = query.split("&");
+            for(var i=0;i<params.length;i++) {
+                var param = params[0].split("=");
+                if(param[0] == id) {
+                    return param[1] || "";                    
+                }
+            }
+        }
+        return "";
+    }
+            
+    function changeMenuImage(elem, val1, val2) {
+        var obj = $(elem).children("img"); 
+        if(obj.css("filter") == "" || obj.css("filter") == "none") {
+            obj.attr("src", obj.attr("src").replace(val2, val1));
+        }
+        else {
+            obj.css("filter", obj.css("filter").replace(val2, val1));
+        }
+    }
+    
+    function configTooltip(){
+        var isOpera = (navigator.appName == "Opera");
+    
+    }
+    
+    $(document).ready(function() {    
+        initMenu();            
+        $(".dtbMenu a:not(.itemActive), .dtbTabs a:not(.itemActive)").bind("mouseover", function() {                                
+                changeMenuImage(this, "_on", "_off");
+            });             
+        $(".dtbMenu a:not(.itemActive), .dtbTabs a:not(.itemActive)").bind("mouseout", function() {                
+                changeMenuImage(this, "_off", "_on");
+            });
+    });           
+    
+     function onsubmitMain() {       
+        return ("privacy" != "schools");
+    }         
+    
+    </script>
+
+</head>
+<body class="yui-skin-sam">
+    <form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAgIDD2QWAgIDD2QWAmYPZBYCAgEPEBYGHg1EYXRhVGV4dEZpZWxkBRBTdGF0ZURpc3BsYXlOYW1lHg5EYXRhVmFsdWVGaWVsZAUFU3RhdGUeC18hRGF0YUJvdW5kZxAVQQ5TZWxlY3QgYSBzdGF0ZQZBbGFza2EHQWxhYmFtYQhBcmthbnNhcwdBcml6b25hCkNhbGlmb3JuaWEIQ29sb3JhZG8LQ29ubmVjdGljdXQURGlzdHJpY3Qgb2YgQ29sdW1iaWEIRGVsYXdhcmUHRmxvcmlkYQdHZW9yZ2lhBkhhd2FpaQRJb3dhBUlkYWhvCElsbGlub2lzB0luZGlhbmEGS2Fuc2FzCEtlbnR1Y2t5CUxvdWlzaWFuYQ1NYXNzYWNodXNldHRzCE1hcnlsYW5kBU1haW5lCE1pY2hpZ2FuCU1pbm5lc290YQhNaXNzb3VyaQtNaXNzaXNzaXBwaQdNb250YW5hDk5vcnRoIENhcm9saW5hDE5vcnRoIERha290YQhOZWJyYXNrYQ1OZXcgSGFtcHNoaXJlCk5ldyBKZXJzZXkKTmV3IE1leGljbwZOZXZhZGEITmV3IFlvcmsET2hpbwhPa2xhaG9tYQZPcmVnb24MUGVubnN5bHZhbmlhDFJob2RlIElzbGFuZA5Tb3V0aCBDYXJvbGluYQxTb3V0aCBEYWtvdGEJVGVubmVzc2VlBVRleGFzBFV0YWgIVmlyZ2luaWEHVmVybW9udApXYXNoaW5ndG9uCVdpc2NvbnNpbg1XZXN0IFZpcmdpbmlhB1d5b21pbmcLQ0E6IEFsYmVydGEUQ0E6IEJyaXRpc2ggQ29sdW1iaWEMQ0E6IE1hbml0b2JhEUNBOiBOZXcgQnJ1bnN3aWNrHUNBOiBOZXdmb3VuZGxhbmQgYW5kIExhYnJhZG9yD0NBOiBOb3ZhIFNjb3RpYRlDQTogTm9ydGh3ZXN0IFRlcnJpdG9yaWVzC0NBOiBOdW5hdnV0C0NBOiBPbnRhcmlvGENBOiBQcmluY2UgRWR3YXJkIElzbGFuZApDQTogUXVlYmVjEENBOiBTYXNrYXRjaGV3YW4JQ0E6IFl1a29uFUEABFVTQUsEVVNBTARVU0FSBFVTQVoEVVNDQQRVU0NPBFVTQ1QEVVNEQwRVU0RFBFVTRkwEVVNHQQRVU0hJBFVTSUEEVVNJRARVU0lMBFVTSU4EVVNLUwRVU0tZBFVTTEEEVVNNQQRVU01EBFVTTUUEVVNNSQRVU01OBFVTTU8EVVNNUwRVU01UBFVTTkMEVVNORARVU05FBFVTTkgEVVNOSgRVU05NBFVTTlYEVVNOWQRVU09IBFVTT0sEVVNPUgRVU1BBBFVTUkkEVVNTQwRVU1NEBFVTVE4EVVNUWARVU1VUBFVTVkEEVVNWVARVU1dBBFVTV0kEVVNXVgRVU1dZBENBQUIEQ0FCQwRDQU1CBENBTkIEQ0FOTARDQU5TBENBTlQEQ0FOVQRDQU9OBENBUEUEQ0FRQwRDQVNLBENBWVQUKwNBZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dkZGRDNNoxNTOL9INDG9+IZ2pyxMRfCA==">
+
+    <table cellpadding="0" cellspacing="0" width="918" align="center">
+        <tbody><tr>
+            <td>
+                <table cellpadding="0" cellspacing="0" width="918" class="mainLayout">
+                    <tbody><tr>
+                        <td class="left"></td>
+                        <td>
+                        <div style="width:900px; overflow:hidden;">
+                            <table cellpadding="0" cellspacing="0" width="900">
+                                <tbody><tr>
+                                    <td class="pageTop" style="vertical-align:top;">
+                                        <div style="float:left;"><a href="home.aspx" style="outline:none 0px;"><img src="images/app/img_logo.jpg" style="border:solid 0px;" alt="DegreeToolbox"></a></div>
+                                        <div class="menuTop searchByStateContainer menuTopIE6" style="text-align:right; float:right;">
+                                            <table cellpadding="0" cellspacing="0" width="100%" class="dtbMenu" align="left" style="vertical-align:top;">
+                                                <tbody><tr>
+                                                    <td style="text-align:center; width:210px;"><a href="#" class="surveyLink" style="outline:transparent none 0px;"><img src="/images/app/menu_top/img_1_off.jpg" style="border:0px;" alt=""></a></td>
+                                                    <td style="text-align:center;"><a href="/professions.aspx" style="outline:transparent none 0px;"><img src="/images/app/menu_top/img_2_off.jpg" style="border:0px; " alt=""></a></td>
+                                                    <td style="text-align:center;"><a href="#" class="searchByStateLink" style="outline:transparent none 0px;"><img src="/images/app/menu_top/img_3_off.jpg" style="border:0px;" alt=""></a></td>
+                                                </tr>
+                                            </tbody></table>
+                                        <div id="divSearchByState" class="searchByState" style="display:none;">
+    <table cellpadding="0" cellspacing="0">
+        <tbody><tr>            
+            <td class="headerText">
+                Find a Campus near you
+            </td>
+            <td></td>
+        </tr>
+        <tr>
+            <td class="content">
+               <select name="ctl00$ctrlSearchByState$cboFindState" id="ctl00_ctrlSearchByState_cboFindState" class="cboFindState" style="width:150px;">
+	<option value="">Select a state</option>
+	<option value="USAK">Alaska</option>
+	<option value="USAL">Alabama</option>
+	<option value="USAR">Arkansas</option>
+	<option value="USAZ">Arizona</option>
+	<option value="USCA">California</option>
+	<option value="USCO">Colorado</option>
+	<option value="USCT">Connecticut</option>
+	<option value="USDC">District of Columbia</option>
+	<option value="USDE">Delaware</option>
+	<option value="USFL">Florida</option>
+	<option value="USGA">Georgia</option>
+	<option value="USHI">Hawaii</option>
+	<option value="USIA">Iowa</option>
+	<option value="USID">Idaho</option>
+	<option value="USIL">Illinois</option>
+	<option value="USIN">Indiana</option>
+	<option value="USKS">Kansas</option>
+	<option value="USKY">Kentucky</option>
+	<option value="USLA">Louisiana</option>
+	<option value="USMA">Massachusetts</option>
+	<option value="USMD">Maryland</option>
+	<option value="USME">Maine</option>
+	<option value="USMI">Michigan</option>
+	<option value="USMN">Minnesota</option>
+	<option value="USMO">Missouri</option>
+	<option value="USMS">Mississippi</option>
+	<option value="USMT">Montana</option>
+	<option value="USNC">North Carolina</option>
+	<option value="USND">North Dakota</option>
+	<option value="USNE">Nebraska</option>
+	<option value="USNH">New Hampshire</option>
+	<option value="USNJ">New Jersey</option>
+	<option value="USNM">New Mexico</option>
+	<option value="USNV">Nevada</option>
+	<option value="USNY">New York</option>
+	<option value="USOH">Ohio</option>
+	<option value="USOK">Oklahoma</option>
+	<option value="USOR">Oregon</option>
+	<option value="USPA">Pennsylvania</option>
+	<option value="USRI">Rhode Island</option>
+	<option value="USSC">South Carolina</option>
+	<option value="USSD">South Dakota</option>
+	<option value="USTN">Tennessee</option>
+	<option value="USTX">Texas</option>
+	<option value="USUT">Utah</option>
+	<option value="USVA">Virginia</option>
+	<option value="USVT">Vermont</option>
+	<option value="USWA">Washington</option>
+	<option value="USWI">Wisconsin</option>
+	<option value="USWV">West Virginia</option>
+	<option value="USWY">Wyoming</option>
+	<option value="CAAB">CA: Alberta</option>
+	<option value="CABC">CA: British Columbia</option>
+	<option value="CAMB">CA: Manitoba</option>
+	<option value="CANB">CA: New Brunswick</option>
+	<option value="CANL">CA: Newfoundland and Labrador</option>
+	<option value="CANS">CA: Nova Scotia</option>
+	<option value="CANT">CA: Northwest Territories</option>
+	<option value="CANU">CA: Nunavut</option>
+	<option value="CAON">CA: Ontario</option>
+	<option value="CAPE">CA: Prince Edward Island</option>
+	<option value="CAQC">CA: Quebec</option>
+	<option value="CASK">CA: Saskatchewan</option>
+	<option value="CAYT">CA: Yukon</option>
+</select> 
+            </td>
+            <td style="padding-left:3px;">
+                <a href="#" class="btnGoFindState"><img src="/images/app/img_btn_go.jpg" alt="Go"></a>
+            </td>
+        </tr>
+    </tbody></table>
+</div></div>
+                                    </td>
+                                </tr>
+                                <tr style="height:5px;">
+                                    <td style="border-top:solid 1px #6f5d2f; background-color:#333333; height:7px;">
+                                    </td>
+                                </tr>                                
+                                    
+                                    <tr>
+                                        <td class="header" style="height:120px;">
+                                        <div class="shadow shadowIE6"></div>
+                                        <div class="tabContainer tabContainerIE6" style="z-index:1; height:60px; margin-bottom:-20px; text-align:left;">
+                                            <table cellpadding="0" cellspacing="0" class="tabsMenu dtbTabs">
+                                                <tbody><tr>
+                                                    <td>
+                                                        <a href="home.aspx" class="lnkHome"><img src="images/app/menu_tabs/img_home_off.png" style="border:0px;"></a>
+                                                    </td>
+                                                    <td>
+                                                        <a href="about.aspx" class="lnkAbout"><img src="images/app/menu_tabs/img_about_off.png" style="border:0px;">
+                                                    </a></td>
+                                                    <td>
+                                                        <a href="faq.aspx" class="lnkFaqs"><img src="images/app/menu_tabs/img_faqs_off.png" style="border:0px;">
+                                                    </a></td>
+                                                    <td>
+                                                        <a href="contact.aspx" class="lnkContact"><img src="images/app/menu_tabs/img_contact_off.png" style="border:0px;">
+                                                    </a></td>
+                                                </tr>
+                                            </tbody></table>
+                                        </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td style="height:0px; background-color:Transparent; width:900px;">
+                                            
+    <div style=" height:45px; width:900; position:relative; margin-bottom:-50px; top:-44px; background-image:url(images/app/img_t_title_privacy.png); background-repeat:no-repeat; background-color:Transparent;"></div>
+
+                                        </td>
+                                    </tr>
+                                    
+                                <tr>
+                                    <td style="background-color:#151515; width:900px;">
+                                        <table cellpadding="0" cellspacing="0" class="mainContainer" width="900"> 
+                                            <tbody><tr>
+                                                <td>
+                                                    
+<table border="0" cellpadding="0" cellspacing="0" width="100%" align="center" class="contentPageI" style="background-color:#151515;">
+    <tbody><tr valign="top">
+        <td class="cellContent" style="padding-top:45px;">         
+            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                <tbody><tr>
+                    <td align="left" class="cellParagraph" style="padding-bottom:10px;font-size:11pt;">
+                    Degreetoolbox.com, LLC (hereinafter "Degreetoolbox.com") shares your concern about personal privacy. Degreetoolbox.com recognizes that its customers, visitors, users, and others (collectively or individually, the "Users") who use the http://Degreetoolbox.com.com website (the "Website") value their privacy. This Privacy Policy outlines important information regarding the use and disclosure of User information collected via the Website. Degreetoolbox.com provides this Privacy Policy to help Users make an informed decision as to whether to use or continue using the Website. <br><br>
+                    <span class="highlight">General</span><br>
+                    By reference, this Privacy Policy is incorporated into and is subject to the Degreetoolbox.com Terms of Use. Your use of the Website and any personal information you provide via the Website or through other official Degreetoolbox.com contact remains subject to this Privacy Policy, as well as the Degreetoolbox.com Terms of Use, and/or other governing Degreetoolbox.com policies. <br><br>
+
+                    You are informed that any content posted by Users onto the Website becomes published or informational content, or the like, and is not considered personally identifiable information subject to this Privacy Policy. <br><br>
+
+                    <span class="highlight">Collected Information</span><br>
+                    Degreetoolbox.com may collect personal information and data including, but not limited to, application and Website usage data, file transfer and viewing data, email and personal contact information, and other identifiable information. Degreetoolbox.com may use technological means for tagging and tracking data including, but not limited to, harmless cookies, clear .GIFs, and other technologies to track and correlate data. <br><br>
+
+                    Specifically, but not limited to, the following information is collected:<br>
+                    a. User Provided Data: Users may provide personally identifiable information (such as a name, address, telephone, and an email address) to Degreetoolbox.com when choosing to participate in the services and activities available on the Website (collectively, the "Services").<br><br>
+
+                    b. Cookies: Cookies, a harmless small text file containing a string of alphanumeric characters, are deployed to your computer so as to uniquely identify your presence and use. Degreetoolbox.com may use session cookies and persistent cookies for the purpose of tracking various important data. Use of these cookies can also help to speed your access to the Website as they serve as 'reminders' as to who you are to our programming. While we recommend that you allow these cookies to perform their tasks, you may adjust your computer's settings to restrict or refuse them. However, some features or sections of the Website may not function properly, or not all, if the ability to accept cookies is disabled.<br><br>
+
+                    c. Clear .GIFs: Degreetoolbox.com may choose to utilize "clear .GIFs" to track the online usage patterns of our Users in a non-personally identifiable manner. Additionally, Degreetoolbox.com may also use clear .GIFs in HTML-based emails dispatched to Users so as to track which emails are being opened by the recipients. This act helps Degreetoolbox.com to determine active and inactive email addresses.<br><br>
+
+                    d. Log File Data: When Users log-in to their Degreetoolbox.com account, our servers will automatically record and archive certain information that web-browsers send whenever visiting a website. These server logs may include information vital to validating the User's authorization to access the account. Information, such as a Web request, Internet Protocol (the "IP") address, browser type, browser language, referring pages, exit pages and visited URLs, platform type, click counts, pages viewed and in what order, time spent, the date and time of the request, and other important data is necessary to validate and authorize a User's entry and activity on the Website. <br><br>
+
+                    <span class="highlight">Information Uses</span><br>
+                    a. Personally identifiable information submitted by a User is used to operate, maintain, and provide features, general and unique, of the Website for the User's use and pleasure.<br><br>
+
+                    b. All personal information, data, or content that you, the User, voluntarily disclose to the Website public areas become available to other Users and can be collected and used by others. Your account Username is displayed to other Users when you post or send messages through the Website.<br><br>
+
+                    c. Degreetoolbox.com does use your personally identifiable and certain non-personally identifiable information, such as but not limited to, anonymous User usage data, browser type, cookies, IP addresses, clickstream data, and the like, to improve the quality and use designs of the Website through analysis of this data and trends.<br><br>
+
+                    d. Degreetoolbox.com uses clear .GIFs and log file data to: (i) provide custom content and preferences; (ii) remember information necessary for logging in to your Website account so as to save you time in re-entering such information; (iii) monitor the impact and effectiveness of Degreetoolbox.com marketing efforts; (iv) monitor aggregate metrics providing detailed data on User activities while on the Website; (v) track your submissions, entries, and status. <br><br>
+
+                    Disclosure of Information a. Degreetoolbox.com provides personally identifiable and non-personally identifiable information on Users to subsidiaries, affiliated companies, and other businesses or persons for the purpose of processing such information on behalf of Degreetoolbox.com. At all times, these parties are required to agree to process such information in compliance with this Privacy Policy, and we deploy reasonable efforts to limit their use of such information.<br><br>
+
+                    b. Degreetoolbox.com reserves the right to disclose personally identifiable and/or non-personally identifiable information that is believed, in good faith, to be appropriate or necessary for the purpose of enforcing the Degreetoolbox.com Terms of Service, or other governing Degreetoolbox.com policies. Other causes of release of data may be due to, but not limited to: (i) taking precautions against liability issues; (ii) to assist government enforcement agencies; (iii) to investigate and defend Degreetoolbox.com against third party claims or allegations; (iv) to protect the security or integrity of the Website and/or Services; and/or (v) to protect the rights, property, or personal safety of Degreetoolbox.com, Users of the Website, or others.<br><br>
+
+                    c. Degreetoolbox.com does not share your personally identifiable information with other non-affiliated third party companies for their commercial use or marketing use without your consent, except as part of a specific program, feature, or campaign for which you will have the ability to opt-out.<br><br>
+
+                    d. Degreetoolbox.com does share non-personally identifiable information, such as anonymous User data and traffic data, with interested third parties to assist them in understanding the usage patterns and trends analysis for certain content, advertisements, promotions, services, and/or functionality of the Website.<br><br>
+
+                    e. Degreetoolbox.com may release any information available if required to do so by law, or in the good faith belief that such action is necessary to comply with law or the powers of government enforcement agencies. Other causes for release of information could be for needs to comply with copyright laws or to respond to a court order, subpoena, and/or search warrant. <br><br>
+
+                    <span class="highlight">Decline to Accept</span><br>
+                    You may, of course, decline to submit or allow the submission of personally identifiable information through the Website, in which case Degreetoolbox.com may not be able to provide certain Services to you, if any at all. You may, at any time, update or edit your profile information and email preferences by visiting your Degreetoolbox.com account profile page. <br><br>
+
+                    <span class="highlight">Links and Third Party Advertisers</span><br>
+                    Degreetoolbox.com allows other companies, also referred to as Third Party Advertisers, Ad Servers, or Ad Networks (collectively, the "Advertisers") to serve advertisements via the Website. These Advertisers may use technology to send directly to your Web browser advertisements and links that appear on the Website. This technology may capture certain non-personally identifiable data, such as your IP address, etc. This technology may also measure the effectiveness of their advertisements and to personalize the advertising content you may view on the Website. <br><br>
+
+                    Degreetoolbox.com does not provide any personally identifiable information to these Advertisers without your consent, except as part of a specific program, feature, or campaign for which you will have the ability to opt-out. However, should you click on an Advertiser offering or choose to visit an Advertiser's website, Degreetoolbox.com highly recommends that you consult the respective privacy policy of the Advertiser for more information on their practices and for instructions on how to opt-out of certain programs and practices of the Advertiser. Degreetoolbox.com's Privacy Policy does not apply to, nor can Degreetoolbox.com control, the activities of other websites or Advertisers. <br><br>
+
+                    <span class="highlight">Data Security</span><br>
+                    In an effort to provide maximum protection of User's privacy, Degreetoolbox.com routinely utilizes commercially reasonable physical, technical, and managerial safeguards to preserve the integrity and security of your personal information. However, Degreetoolbox.com cannot ensure or warrant the security of any information you transmit to Degreetoolbox.com or place upon the Website and you do so at your own risk. Once we receive said transmission of personal information, Degreetoolbox.com engages commercially reasonable efforts to ensure the security of our systems and the personal information you provided to our custody. This is not a guarantee that such information may not be accessed, altered, disclosed, or destroyed by breach of any of our physical, technical, or managerial safeguards. <br><br>
+
+                    <span class="highlight">Data Processing</span><br>
+                    The European Union ("EU") maintains strict privacy laws. These rules differ significantly from the laws of the United States of America ("US"). To reconcile these differences, the US and the EU have created a safe harbor ("Safe Harbor") that defines mutually acceptable privacy operations. For more information see www.export.gov/safeharbor/. <br><br>
+
+                    By providing information to us, you acknowledge that we operate in the US and you agree to (i) permit us to transmit and use your user Information anywhere necessary, including across international boundaries, to better improve the services and transactions provided by Degreetoolbox.com; and (ii) that such use by us shall be subject to the terms and conditions stated in this Privacy Policy and the Terms of Use. <br><br>
+
+                    <span class="highlight">Children's Privacy</span><br>
+                    Degreetoolbox.com complies with the Children's Online Privacy Protection Act of 1998 (COPPA) and does recognize the responsibility to protect the privacy of young children at all times and to the best of everyone's ability. For that reason, Degreetoolbox.com does not knowingly collect or maintain any information via the Website from persons under the age of thirteen (13), and no part of our Website is directed to persons under the age of thirteen (13). If an underage person provides such information and Degreetoolbox.com has unknowingly collected said information, then Degreetoolbox.com will take the appropriate steps to delete this information. <br><br>
+
+                    <span class="highlight">Transfer of Rights</span><br>
+                    Should Degreetoolbox.com be acquired, merged, or endeavor to become closed for business, Degreetoolbox.com reserves the right, in any of these circumstances, to transfer or assign the information collected, during the due course of business, from Users of the Website. This information may be held as part of any such acquisition, merger, sale, or other change of control or business entity status. <br><br>
+
+                    In the unlikely event of a bankruptcy, assignment for the benefit of creditors, insolvency, receivership, reorganization, or the application of laws or legally recognized enforcements and/or actions, Degreetoolbox.com may not be able to control how Users' personal information is accessed, treated, transferred, and/or used. In any of these circumstances, you hold harmless and indemnify Degreetoolbox.com owner(s), officers, directors, employees, agents, and assignees from and against any claims of responsibility, damages, costs, debts, losses, liabilities, obligations, fees and/or expenses. <br><br>
+
+                    <span class="highlight">Contact Information</span><br>
+                    You may contact Degreetoolbox.com Customer Service at:<br><br>
+
+                    Degreetoolbox.com LLC<br>
+                    12819 SE 38th Street<br>
+                     Bellevue WA 98006<br><br>
+
+
+                    Email: <a href="mailto:Support@Degreetoolbox.com">Support@Degreetoolbox.com</a><br><br>
+
+                    <span class="highlight">Changes and Updates</span><br>
+                    This Privacy Policy may be revised at will. Such changes, edits, revisions, and/or updates will be made available by posting updated Privacy Policies to the Website. All such changed and updated Privacy Policies can be identified by way of the Date of Modification. You are advised to frequently visit the Degreetoolbox.com Privacy Policy to determine the last Date of Modification so as to afford you the opportunity to access the most current Privacy Policy. Regardless of your visitation habits to this Privacy Policy, your continued access and use of the Degreetoolbox.com Website constitutes your agreement to this Privacy Policy, the Degreetoolbox.com Terms of Use, and any other governing policies of Degreetoolbox.com, as well as any future revisions of said legal documents and policies. <br><br>
+
+                    <span class="highlight">Communications</span><br>
+                    On occasion as deemed necessary by Degreetoolbox.com (daily, weekly, monthly, etc.), Degreetoolbox.com will send the User various communications, such as email newsletters or alerts, account updates, and special offers targeted to the interests of the User. as determined by Degreetoolbox.com. Said communications shall originate from Degreetoolbox.com only and shall be conducted in compliance to Section 4, entitled "Disclosure of Information", of this Privacy Policy. At any time, the User may modify or entirely opt-out of such communications by accessing the "Email Options" link as provided in the post-login Administration section of the User's personal Degreetoolbox.com website. <br><br>
+
+                    <span class="highlight">Presiding Language</span><br>
+                    This Agreement and all Degreetoolbox.com policies are written and executed in English, which is considered the prevailing language for purposes of interpretation or laws of contract. If this Agreement is translated into any other language, the English version shall be considered the primary binding legal document. <br><br>
+
+
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>    
+</tbody></table>
+
+                                                </td>
+                                            </tr>
+                                        </tbody></table>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="footer">
+                                        <table cellpadding="0" cellspacing="0" width="900">
+                                            <tbody><tr>
+                                                <td class="top"></td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <table cellpadding="0" cellspacing="0" width="100%">
+                                                        <tbody><tr>
+                                                            <td style="width:350px;">
+                                                                <img src="images/app/img_logo_footer.jpg"></td>
+                                                            <td class="footerUL">
+                                                                <ul>
+                                                                    <li><a href="home.aspx">Home</a></li>
+                                                                    <li><a href="about.aspx">About</a></li>
+                                                                    <li><a href="faq.aspx">FAQ's</a></li>
+                                                                    <li><a href="contact.aspx">Contact</a></li>
+                                                                    <li><a href="privacy.aspx">Privacy Policy</a></li>
+                                                                </ul>
+                                                            </td>
+                                                            <td class="footerUL" style="width:210px;">
+                                                                <ul>
+                                                                    <li><a href="#" class="surveyLink">Find The Right School For You</a></li>
+                                                                    <li><a href="/professions.aspx">Search by Profession</a></li>                                                                    
+                                                                </ul>
+                                                            </td>
+                                                            <td class="footerULRight" style="width:150px;">
+                                                                <ul>
+                                                                    <li><a href="/search.aspx">Education Search</a></li>
+                                                                    <li><a href="/financial.aspx">Financial Solutions</a></li>
+                                                                    <li><a href="/resources.aspx">Education Resources</a></li>
+                                                                    <li><a href="/professions.aspx">Professions</a></li>
+                                                                </ul>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody></table>
+                                                </td>
+                                            </tr>
+                                        </tbody></table>
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                            </div>
+                        </td>
+                        <td class="right"></td>
+                    </tr>
+                    <tr>
+                        <td colspan="3">
+                            <table cellpadding="0" cellspacing="0" width="100%">
+                                <tbody><tr>
+                                    <td class="bottomL"></td>
+                                    <td class="bottomM">
+                                        Copyright ©2009&nbsp;&nbsp;&nbsp;degreetoolbox.com&nbsp;&nbsp;&nbsp;Phone: 425-516-4806
+                                    </td>
+                                    <td class="bottomR"></td>
+                                </tr>
+                            </tbody></table>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+    </tbody></table>
+    
+<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.7.0/build/container/assets/skins/sam/container.css">
+<link rel="stylesheet" type="text/css" href="/css/yui_override.css">
+<!-- Dependencies -->
+<script type="text/javascript" src="http://yui.yahooapis.com/2.7.0/build/yahoo-dom-event/yahoo-dom-event.js"></script>
+<script type="text/javascript" src="http://yui.yahooapis.com/2.7.0/build/container/container-min.js"></script>
+
+<div id="divPanelSurvey" style="display:none;z-index:5px;">
+    <div class="bd">
+        <table cellpadding="0" cellspacing="0" class="modalBox">
+            <tbody><tr><td class="mbTopLeft"></td><td class="mbTopMid" style="width:390px;"></td><td class="mbTopRight"></td></tr>
+            <tr><td class="mbMid"></td><td class="mbContentTitle title">
+                        <table cellpadding="0" cellspacing="0"><tbody><tr>
+                            <td class="cellCollegeSearchImage" style="background-color:#FFFFFF;">
+                                <img src="../images/app/img_top_popup.jpg" alt="Survey" class="collegeSearchImage">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="padding-left:10px;padding-right:10px;" class="survey">
+                                <span id="lblSurveyDescription"></span>
+                                <span id="lblSurveyResultsText" style="display:none;margin-left:20px;position:relative;top:-7px;"></span>
+                            </td>
+                        </tr>
+                    </tbody></table>
+            </td><td class="mbMid"></td></tr>
+            <tr><td class="mbMid"></td><td class="mbContent">
+                <div class="surveyContainer">
+                <table style="width:100%" class="survey">                    
+                    <!--Questions-->
+                    <tbody><tr id="rowSurveyQuestions" class="questions">
+                        <td class="cellSection">
+                            <table cellpadding="0" cellspacing="0" style="width:100%">                                                
+                                <tbody><tr><td class="questionsTitle">PLEASE ANSWER THE FOLLOWING QUESTIONS:</td></tr>
+                                <tr id="surveyQ1">
+                                    <td>
+                                        <table cellspacing="0" cellpadding="0" style="width:100%" class="question">
+                                            <tbody><tr>
+                                                <td class="empty">&nbsp;</td>
+                                                <td>
+                                                    <table cellspacing="0" cellpadding="0" style="width:100%">
+                                                        <tbody><tr><td class="header">I am interested in obtaining a degree in?</td></tr>
+                                                        <tr>
+                                                            <td class="option">
+                                                                <table cellspacing="0" cellpadding="0" width="98%"><tbody><tr>
+                                                                        <td><input type="radio" id="rbSurveyQ1O1" value="1" class="rbSurveyQ1" name="rbSurveyQ1"><label for="rbSurveyQ1O1">Online environment</label>
+                                                                        <br>
+                                                                        <input type="radio" id="rbSurveyQ1O2" value="2" class="rbSurveyQ1" name="rbSurveyQ1"><label for="rbSurveyQ1O2">Campus environment</label></td>
+                                                                    </tr>
+                                                                </tbody></table>
+                                                            </td>
+                                                        </tr>                                            
+                                                    </tbody></table>
+                                                </td>
+                                            </tr>
+                                        </tbody></table>
+                                    </td>
+                                </tr>
+                                <tr id="surveyQ2">
+                                    <td>
+                                        <table cellspacing="0" cellpadding="0" style="width:100%" class="question">
+                                            <tbody><tr>
+                                                <td class="empty">&nbsp;</td>
+                                                <td>
+                                                    <table cellspacing="0" cellpadding="0" style="width:100%">
+                                                        <tbody><tr><td class="header">I am interested in?</td></tr>
+                                                        <tr>
+                                                            <td class="option">
+                                                                <table cellspacing="0" cellpadding="0" width="98%">
+                                                                    <tbody><tr>
+                                                                        <td><input type="radio" id="rbSurveyQ2O1" name="rbSurveyQ2" class="rbSurveyQ2" value="1"><label for="rbSurveyQ2O1">Diploma/Certificate</label>
+                                                                        <br><input type="radio" id="rbSurveyQ2O2" name="rbSurveyQ2" class="rbSurveyQ2" value="2"><label for="rbSurveyQ2O2">Undergraduate studies</label>
+                                                                        <br><input type="radio" id="rbSurveyQ2O3" name="rbSurveyQ2" class="rbSurveyQ2" value="3"><label for="rbSurveyQ2O3">Graduate studies</label></td>
+                                                                    </tr>
+                                                                </tbody></table>
+                                                            </td>
+                                                        </tr>                                            
+                                                    </tbody></table>
+                                                </td>
+                                            </tr>
+                                        </tbody></table>
+                                    </td>
+                                </tr>
+                                <tr id="surveyQ3" style="display:none;">
+                                    <td>
+                                        <table cellspacing="0" cellpadding="0" style="width:100%" class="question questionAdditional">
+                                            <tbody><tr>
+                                                <td class="empty">&nbsp;</td>
+                                                <td>
+                                                    <table cellspacing="0" cellpadding="0" style="width:100%">
+                                                        <tbody><tr><td class="header">I would like to pursue a?</td></tr>
+                                                        <tr>
+                                                            <td class="option">
+                                                                <table cellspacing="0" cellpadding="0" width="98%">
+                                                                    <tbody><tr>                                                                        
+                                                                        <td style="width:50%;"><input type="radio" id="rbSurveyQ3O1" class="rbSurveyQ3" name="rbSurveyQ3" value="1"><label for="rbSurveyQ3O1">Associate's degree</label>
+                                                                        <br><input type="radio" id="rbSurveyQ3O2" class="rbSurveyQ3" name="rbSurveyQ3" value="2"><label for="rbSurveyQ3O2">Bachelor's degree</label></td>
+                                                                    </tr>
+                                                                </tbody></table>
+                                                            </td>
+                                                        </tr>                                            
+                                                    </tbody></table>
+                                                </td>
+                                            </tr>
+                                        </tbody></table>
+                                    </td>
+                                </tr>
+                                <tr id="surveyQ4" style="display:none;">
+                                    <td>
+                                        <table cellspacing="0" cellpadding="0" style="width:100%" class="question questionAdditional">
+                                            <tbody><tr>
+                                                <td class="empty">&nbsp;</td>
+                                                <td>
+                                                    <table cellspacing="0" cellpadding="0" style="width:100%">
+                                                        <tbody><tr><td class="header">I am looking for a...</td></tr>
+                                                        <tr>
+                                                            <td class="option">
+                                                                <table cellspacing="0" cellpadding="0" width="98%">
+                                                                    <tbody><tr>   
+                                                                        <td><input type="radio" id="rbSurveyQ4O1" class="rbSurveyQ4" name="rbSurveyQ4" value="3"><label for="rbSurveyQ4O1">Master's degree</label>
+                                                                        <br><input type="radio" id="rbSurveyQ4O2" class="rbSurveyQ4" name="rbSurveyQ4" value="4"><label for="rbSurveyQ4O2">Doctorate degree</label></td>
+                                                                    </tr>
+                                                                </tbody></table>
+                                                            </td>
+                                                        </tr>                                            
+                                                    </tbody></table>
+                                                </td>
+                                            </tr>
+                                        </tbody></table>
+                                    </td>
+                                </tr>
+                                
+                                <tr id="surveyQ6" style="display:none;">
+                                    <td>
+                                        <table cellspacing="0" cellpadding="0" style="width:100%" class="question questionAdditional questionLast">
+                                            <tbody><tr>
+                                                <td class="empty">&nbsp;</td>
+                                                <td>
+                                                    <table cellspacing="0" cellpadding="0" style="width:100%">
+                                                        <tbody><tr><td class="header">Also search by ZipCode...</td></tr>
+                                                        <tr>
+                                                            <td class="option">
+                                                                <table cellspacing="0" cellpadding="0" width="98%"><tbody><tr>
+                                                                    <td style="width:18%;"><input type="radio" id="rbSurveyQ6O1" value="1" class="rbSurveyQ6" name="rbSurveyQ6"><label for="rbSurveyQ6O1">No</label></td>
+                                                                    <td style="width:18%;"><input type="radio" id="rbSurveyQ6O2" value="2" class="rbSurveyQ6" name="rbSurveyQ6"><label for="rbSurveyQ6O2">Yes</label></td>
+                                                                    <td>
+                                                                        <div id="divSurveyQ6O2" style="visibility:hidden;">
+                                                                            <input type="text" id="txtSurveyQ6" value="" maxlength="5" style="font-family:Arial;font-size:8pt;width:60px;">
+                                                                            <input type="button" id="btnSurveySearch" value="Search" style="width:70px;">
+                                                                        </div>    
+                                                                    </td>                                                                    
+                                                                </tr></tbody></table>
+                                                            </td>
+                                                        </tr>                                           
+                                                    </tbody></table>
+                                                </td>
+                                            </tr>
+                                        </tbody></table>
+                                    </td>
+                                </tr>   
+                                <tr id="surveyMatchBig">
+                                    <td class="matchBig">
+                                        AND WE'LL MATCH<br>YOU WITH SCHOOLS<br>THAT FIT YOUR CRITERIA
+                                    </td>
+                                </tr>
+                                <tr id="surveyMatchSmall" style="display:none;">
+                                    <td class="matchSmall">
+                                        AND WE'LL MATCH YOU WITH SCHOOLS<br>THAT FIT YOUR CRITERIA
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                        </td>
+                     </tr>     
+                     <!--Loading-->
+                     <tr id="rowSurveyLoading" style="display:none;">
+                        <td class="cellSection">
+                            <table cellpadding="0" cellspacing="0" style="width:100%">                                                
+                                <tbody><tr><td>Please be patient while we search for schools that best match your criteria.</td></tr>
+                                <tr><td class="loading"><img src="/images/app/loading.gif" width="72" height="72" alt="Loading"></td></tr>
+                            </tbody></table>
+                        </td>
+                     </tr>
+                     <!--Results-->
+                     <tr id="rowSurveyResults" style="display:none;">
+                        <td class="cellSectionResults">
+                            <table cellpadding="0" cellspacing="0" style="width:100%;">
+                                <tbody><tr><td><div class="resultsContainer" style="width:100%;"><div id="divSurveyResults" class="results rschools" style="width:100%;height:auto;"></div></div></td></tr>                                
+                            </tbody></table>
+                        </td>
+                     </tr>
+                </tbody></table>
+                    <div id="divSurveyStartOver" class="survey divSurveyStartOver"><input type="button" id="btnSurveyStartOver" value="Start Over" style="width:100px;"></div>
+                </div>
+            </td><td class="mbMid"></td></tr>
+            <tr><td class="mbBottomLeft"></td><td class="mbTopMid" style="width:390px;"></td><td class="mbBottomRight"></td></tr>
+
+        </tbody></table>
+    </div>
+</div> 
+
+<script language="javascript" type="text/javascript">
+    var panelSurvey = null;
+    var isSearching = false;
+    var selectedOptionSurveyQ1 = "";
+    var selectedOptionSurveyQ2 = "";
+    var selectedOptionSurveyQ6 = "";
+
+    function initSurveyDialog(isStatic, context) {
+        //The second argument passed to the
+    //constructor is a configuration object:
+        if(isStatic == null) isStatic = false;
+        $("#divPanelSurvey").css("display", "");        
+        var params = {
+                width:"406px", 
+	            //height:"380px",	           	            	           	           
+	            close:true, 
+	            visible:false, 
+	            draggable:false,
+	            zIndex:5
+	        };
+	    if(isStatic) {
+	        params.modal = false;
+	        params.close = false;
+	        params.context = [context, "tl", "tl"];	       
+	    }	    
+	    else {
+	        params.modal = true;
+	        params.fixedcenter = true;
+	        params.constraintoviewport = true;
+	        params.underlay = "shadow";
+	        params.close = true;
+	    }
+	        
+        panelSurvey = new YAHOO.widget.Panel("divPanelSurvey", params);	
+    	
+	    initializeObjects();	
+	    panelSurvey.hideEvent.subscribe(clearSurvey);
+    }
+
+    function initializeObjects() {
+        selectedOptionSurveyQ1 = "";
+        selectedOptionSurveyQ2 = "";
+        selectedOptionSurveyQ6 = "";
+        $(".survey input[name='rbSurveyQ1'], .survey input[name='rbSurveyQ2'], .survey input[name='rbSurveyQ6']").click(reviewQuestions);    
+        $(".survey input[type=radio]").click(validateSelection);
+        //$("").click(validateSelection);
+        $("#btnSurveyStartOver").click(startOver);
+        $("#btnSurveySearch").click(validateSelection);
+        
+        $("#btnSurveySearch").click(function() {   
+            if(validateZipCode($("#txtSurveyQ6"))) {
+                validateSelection();
+            }
+        return false;
+        });   
+          
+        $("#txtSurveyQ6").keypress(function(e) {        
+		    var keynum;
+		    var keychar;
+
+		    if (window.event) { // IE
+			    keynum = event.keyCode;
+		    }
+		    else if (e.which) { // Netscape/Firefox/Opera
+			    keynum = e.which;
+		    }				
+		    if (keynum == 13) {
+			    $("#btnSurveySearch").click();
+			    return false;
+		    }
+	    });
+    }
+
+    function showSurvey(page, context) {
+        if(panelSurvey == null) {        
+            var isStatic = (page == "home");            
+            initSurveyDialog(isStatic, context);         
+            panelSurvey.render();       
+        }     
+        selectedOptionSurveyQ2 = "";
+        panelSurvey.show();
+    }
+
+    function hideSurvey() {
+        if(panelSurvey != null) {
+            panelSurvey.hide();                
+        }       
+    }
+
+    function validateSelection() {
+        var valid = false;
+        var radio = $("input[name='rbSurveyQ1']:checked");
+        if(radio.length == 0) return;
+        var isCampus = (radio.val() == "2");
+        var zipCodeValid = false;
+        
+        var useZipCode = false;
+        if(isCampus) {
+            radio = $("input[name='rbSurveyQ6']:checked");
+            if(radio.length == 0) return;
+            if(radio.val() == "2") {
+                useZipCode = true;
+                zipCodeValid = validateZipCode($("#txtSurveyQ6"));
+            }
+        }
+        
+        var isBtnSearch = ($(this).attr("id") == "btnSurveySearch");
+        var t0 = false;
+        
+        radio = $("input[name='rbSurveyQ2']:checked");        
+        if(radio.length > 0) t0 = true;
+        else if(radio.length == 0 && !isBtnSearch) return;
+        if(radio.val() == "1") {
+            valid = true;
+        }
+        else if(radio.val() == "2") {                
+            var t1 = false;
+            var t2 = false;
+            radio = $("input[name='rbSurveyQ3']:checked");
+            if(radio.length > 0) t1 = true;
+            else if(radio.length == 0 && !isBtnSearch) return;
+            ////radio = $("input[name='rbSurveyQ5']:checked");
+            ////if(radio.length > 0) t2 = true;
+            ////else if(radio.length == 0 && !isBtnSearch) return;
+            t2 = true;
+            valid = (t1 && t2);
+        }
+        else if(radio.val() == "3") {    
+            var t1 = false;
+            var t2 = false;
+            radio = $("input[name='rbSurveyQ4']:checked");
+            if(radio.length > 0) t1 = true;
+            else if(radio.length == 0 && !isBtnSearch) return;
+            ////radio = $("input[name='rbSurveyQ5']:checked");
+            ////if(radio.length > 0) t2 = true;
+            ////else if(radio.length == 0 && !isBtnSearch) return;
+            t2 = true;
+            valid = (t1 && t2);
+        }    
+        
+        valid = (valid && t0);                              
+        
+        if((valid && !useZipCode) || (valid && useZipCode && zipCodeValid && isBtnSearch)) {
+            beginSearchSchools();
+        }
+        else if(!valid && useZipCode && zipCodeValid && isBtnSearch) {
+            alert("You have not selected all required fields.");
+        }
+        else if(useZipCode && !zipCodeValid && isBtnSearch) {
+            alert("You must enter a valid 5 digit zip code.");
+            $("#txtSurveyQ6").focus();
+        }        
+    }    
+    
+    function beginSearchSchools() {
+        if(isSearching) return;
+        isSearching = true;
+        $("#rowSurveyQuestions").hide();
+        $("#rowSurveyLoading").show();
+        setTimeout(searchSchools, 500);
+    }
+    
+    function searchSchools() {                
+        var pSetting = $("input[name='rbSurveyQ1']:checked").val();
+        var type = $("input[name='rbSurveyQ2']:checked").val();
+        var pDegreeTypeID = "";
+        var pField = "0";
+        var pZipCode = "0";
+        if(type == "1") {
+            pDegreeTypeID = "5";
+        }
+        else if(type == "2") {
+            pDegreeTypeID = $("input[name='rbSurveyQ3']:checked").val();
+        }
+        else if(type == "3") {
+            pDegreeTypeID = $("input[name='rbSurveyQ4']:checked").val();
+        }
+        
+        ////if(type == "2" || type == "3") {
+        ////    pField = $("input[name='rbSurveyQ5']:checked").val();
+        ////}
+        
+        if(($("input[name='rbSurveyQ1']:checked").val() == "2") && ($("input[name='rbSurveyQ6']:checked").val() == "2")) {
+            pZipCode = $("#txtSurveyQ6").val();
+        }
+        
+        
+        var data = "{pSetting:" + pSetting + ", pDegreeTypeID:" + pDegreeTypeID + ", pField:" + pField + ", pZipCode:" + pZipCode + "}";
+        //alert(data);
+	    $.ajax({
+		    type: "POST",
+		    url: "/services/service.asmx/SearchSchools",
+		    contentType: "application/json; charset=utf-8",				
+		    data: data,
+		    dataType: "json",
+		    success: handleSearchSchoolsOK,
+		    error: handleSearchSchoolsFail
+	    });
+    }
+
+    function handleSearchSchoolsOK(result) {
+        //alert("OK: " + result.HtmlResult);	
+        isSearching = false;
+        if(result.Success) {
+            setResult(result.HtmlResult, result.ItemsCount);            
+        }
+        else {
+            setResult(result.ErrorMessage);                
+        }		    
+        $("#rowSurveyLoading").hide();
+        $("#rowSurveyResults").show();   
+        $("#divSurveyStartOver").show();
+    }
+	
+    function handleSearchSchoolsFail(xhr, result) {		   
+        isSearching = false;			    	    
+        //alert("Fail: " + xhr.responseText);
+        setResult("Fail: Unable to search schools, please try again later.");
+        $("#rowSurveyLoading").hide(); 
+        $("#rowSurveyResults").show();  
+        $("#divSurveyStartOver").show();          
+    }	
+	
+    function setResult(html, count) {
+        $("#divSurveyResults").attr("innerHTML", html);
+        var text = (count && count > 0) ? count.toString() + ((count > 1) ? " Results found!" : " Result found!") : "";
+        if(text == "") {
+            $("#lblSurveyDescription").hide();
+            $("#lblSurveyResultsText").hide();
+        }
+        else {
+            $("#lblSurveyDescription").hide();
+            $("#lblSurveyResultsText").show();
+        }
+        $("#lblSurveyResultsText").attr("innerHTML", text);
+    }        
+
+    function reviewQuestions() {               
+        var op = $(this).attr("name");
+        if(op == "rbSurveyQ1") {
+            var val = $("input[name='rbSurveyQ1']:checked").val();    
+            if(val == selectedOptionSurveyQ1) return true;
+            selectedOptionSurveyQ1 = val;        
+            $("input[name='rbSurveyQ6']").attr("checked", false);            
+            
+            if(val == "1") {
+                $("#surveyQ6").hide();                
+                //$("#surveyMatchSmall").hide();
+                //$("#surveyMatchBig").show();
+            }
+            else if(val == "2") {                
+                $("#surveyQ6").show();                        
+                //$("#surveyMatchBig").hide();
+                //$("#surveyMatchSmall").show();
+            }
+        }
+        else if(op == "rbSurveyQ2") {
+            var val = $("input[name='rbSurveyQ2']:checked").val();    
+            if(val == selectedOptionSurveyQ2) return true;
+            selectedOptionSurveyQ2 = val;        
+            $("input[name='rbSurveyQ3']").attr("checked", false);
+            $("input[name='rbSurveyQ4']").attr("checked", false);
+            ////$("input[name='rbSurveyQ5']").attr("checked", false);
+             
+            if(val == "1") {
+                $("#surveyQ3").hide();
+                $("#surveyQ4").hide();
+                //$("#surveyQ5").hide();
+                $("#surveyMatchSmall").hide();
+                $("#surveyMatchBig").show();
+            }
+            else if(val == "2") {
+                $("#surveyQ4").hide();
+                $("#surveyQ3").show();        
+                //$("#surveyQ5").show();
+                $("#surveyMatchBig").hide();
+                $("#surveyMatchSmall").show();
+            }
+            else if(val == "3") {
+                $("#surveyQ3").hide();
+                $("#surveyQ4").show();        
+                //$("#surveyQ5").show();
+                $("#surveyMatchBig").hide();
+                $("#surveyMatchSmall").show();
+            }        
+        }
+        else if(op == "rbSurveyQ6") {                    
+            var val = $("input[name='rbSurveyQ6']:checked").val();    
+            if(val == selectedOptionSurveyQ6) return true;
+            selectedOptionSurveyQ6 = val;        
+            $("input[name='txtSurveyQ6']").val("5");
+            
+            if(val == "1") {
+                $("#divSurveyQ6O2").css("visibility", "hidden");
+            }
+            else if(val == "2") {                
+                $("#divSurveyQ6O2").css("visibility", "visible");
+            }            
+        }
+    }        
+    
+    function startOver() {
+        clearSurvey();
+    }
+
+    function clearSurvey() {
+         $("#surveyQ3").hide();
+         $("#surveyQ4").hide();
+         //$("#surveyQ5").hide();
+         $("#surveyQ6").hide();
+         $("#divSurveyQ6O2").css("visibility", "hidden");
+         $("#surveyMatchSmall").hide();
+         $("#surveyMatchBig").show(); 
+         $(".survey input[type=radio]").attr("checked", false);
+         $(".survey input[type=text]").val("");
+         $("#rowSurveyLoading").hide();
+         $("#rowSurveyResults").hide();
+         $("#divSurveyStartOver").hide();
+         $("#rowSurveyQuestions").show();   
+         $("#lblSurveyDescription").show();
+         setResult("");   
+         selectedOptionSurveyQ1 = "";
+         selectedOptionSurveyQ2 = "";
+         selectedOptionSurveyQ6 = "";
+    }
+    
+    function validateZipCode(elem) {
+        var zip = (typeof(elem)=="String") ? $("#" + elem) : $(elem);
+        if(zip != null) {
+            if(zip.val() == "" || zip.val().length != 5 || !isNumber(zip.val())) {                
+                zip.focus();
+            }
+            else {
+                return true;
+            }
+        }
+        return false;
+    }
+
+    function isNumber(value) {
+      var check = true;          
+      //check that all characters are digits, ., -, or ""
+      for(var i=0;i < value.length;i++) {
+           var new_key = value.charAt(i); //cycle through characters               
+           if(((new_key < "0") || (new_key > "9")) && !(new_key == "")) {
+                check = false;
+                break;
+           }
+      }          
+      return check;
+    }
+    
+    
+    $(document).ready(function() {
+        $(".surveyLink").click(function() {
+            if(showSurvey != null) {
+                showSurvey();
+            }        
+            return false;
+           });
+    });
+
+</script>   
+    
+
+<script type="text/javascript" language="javascript">     
+
+    $(function() {        
+        $("#divSearchByState").appendTo(".searchByStateContainer");
+        function doSearchState() {
+            var combo = $(".cboFindState");
+            if(combo.length <= 0) {
+                alert("Invalid operation.");
+                return false;
+            }
+            else if(combo.val() == "") {
+                alert("You must select a State from the list");                        
+                return false;
+            }
+            else {            
+                location.href = "search.aspx?t=m&k=" + combo.val();
+            }    
+            return false;
+        }
+        
+        $(".btnGoFindState").click(doSearchState);
+        
+        $(".searchByStateLink").click(function() {
+            if($("#divSearchByState").css("display") == "none") $("#divSearchByState").slideDown("slow");
+            else $("#divSearchByState").slideUp("slow");
+            return false;
+        });
+    });        
+                    
+    </script>        
+                               
+        <!--[if lte IE 6]>
+        <script type="text/javascript" language="javascript">
+        //$(".dtbMenu img").each(function() {            
+        //        $(this).attr("src", $(this).attr("src").replace("/app/", "/app/ie6/").replace(".png",".gif"));
+        //    });
+        </script>
+	<script type="text/javascript" src="scripts/supersleight.js"></script>	
+    <![endif]-->
+    
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgKRntFCAuXg/lbXyuXKKNRv4EI0zu2kJLoRn/POzg=="></form>
+
+
+</body></html>
