@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indiablooms.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617212634id_/http%3A//www.indiablooms.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiablooms.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124052443id_/http%3A//www.indiablooms.com/privacy.php) for the most accurate reproduction.*
 
-# India Blooms Privacy Policy
+# Portal on Indian News | Indian News Portal | Indian News Online | Latest Indian News |Current Indian News | News From India
 
 Indiablooms ([www.indiablooms.com](http://www.indiablooms.com/)) takes your privacy seriously. Please read the following to learn more about our privacy policy. 
 
