@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wjactv.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524151439id_/http%3A//www.wjactv.com/station/18334809/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wjactv.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124024022id_/http%3A//www.wjactv.com/station/18334809/detail.html) for the most accurate reproduction.*
 
 # Privacy Policy - WJAC-TV News Story - WJAC Johnstown
 
