@@ -1,16 +1,15 @@
-> *The following text is extracted and transformed from the ipayment.com privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527010750id_/http%3A//ipayment.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipayment.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124091901id_/http%3A//ipayment.com/privacy.html) for the most accurate reproduction.*
 
-# Core Business Technologies: Privacy
+# CORE Business Technologies
 
-Privacy  
-At CORE Business Technologies, we understand that our customers are our most important asset, so we do everything we can to protect you and respect your privacy as you visit our site. To learn more about how we keep your information safe and secure, read our privacy policy. 
+At CORE Business Technologies, we understand that our customers are our most important asset, so we do everything we can to protect you and respect your privacy as you visit our site. To learn more about how we keep your information safe and secure, read our privacy policy.
 
-**CORE Business Technologies Privacy Policy  
-**1\. Your privacy. This Privacy Policy explains our policies and practices regarding the collection, use, storage and disclosure of your personal information by CORE Business Technologies. We want you to feel secure when visiting our website and are committed to maintaining your privacy when doing so. The information below provides an overview of how we protect your privacy. 
+**CORE Business Technologies Privacy Policy**  
+1\. Your privacy. This Privacy Policy explains our policies and practices regarding the collection, use, storage and disclosure of your personal information by CORE Business Technologies. We want you to feel secure when visiting our website and are committed to maintaining your privacy when doing so. The information below provides an overview of how we protect your privacy.
 
 2\. What personal information do we gather? In general, you may visit CORE Business Technologies’ website without providing us with any personal information. However, there are times when we may need information from you, which includes your Internet address so that we can track unique visits to our site for analytic purposes. Additionally, we may need personal information such as your name and your postal and e-mail address in order to grant you access to protected and secured sites or provide you with the opportunity to register for an event, to fulfill your requests for information including white papers, download updates to our products or participate in an online survey. In other instances, we may ask you to provide us with information such as your product interests so that we can send you only the information that is useful to you, including articles, newsletters, product and service alerts, new product and service announcements and event invitations. When we collect this type of information, we will inform you as to why we are asking for information and how the information will be used. However, please note that providing any personal information is optional. When you receive your confirmation e-mail or when you receive any e-mail from the list server, you will be given instructions on how to remove yourself from the list.
 
-3\. How do we collect your personal information? We collect information directly through response or “contact us” forms on our website that you choose to complete. We may also collect information indirectly through the use of cookies. The cookies we use identify you only as a number. They are stored on your computer and may be used in subsequent visits to our site. 
+3\. How do we collect your personal information? We collect information directly through response or “contact us” forms on our website that you choose to complete. We may also collect information indirectly through the use of cookies. The cookies we use identify you only as a number. They are stored on your computer and may be used in subsequent visits to our site.
 
 4\. How do we use your personal information? Information we may collect is used to determine what is most effective about our website, to help us identify ways to improve it, to personalize the visit for you through the use of cookies, if you permit it, and to determine how we can tailor our website to make it more effective. We may also use data for other purposes, which we would describe to you at the point we collect the information (for example, if you are invited to register for an event).
 
@@ -18,8 +17,10 @@ At CORE Business Technologies, we understand that our customers are our most imp
 
 In addition to the foregoing, the following are the additional instances where we may disclose your personal information to third parties:
 
-  * To investigate potentially fraudulent or questionable activities regarding customer accounts.
-  * In anticipation of and in the course of an actual or potential sale, reorganization, consolidation, merger or amalgamation of our business.
+  * To investigate potentially fraudulent or questionable activities regarding customer accounts.  
+
+  * In anticipation of and in the course of an actual or potential sale, reorganization, consolidation, merger or amalgamation of our business.  
+
   * When required or permitted by law.
 
 
@@ -36,7 +37,6 @@ We manage our server environment appropriately and our firewall infrastructure i
 
 8\. Do we give you access to your information? You are entitled to know whether we hold information about you and, if we do, to have access to that information and require it to be corrected if it is inaccurate. You can do this by contacting us via 4core@corebt.com or calling (401) 431-0700.
 
-9\. Updating this Privacy Policy. Any changes to our Privacy Policy and information handling practices will be acknowledged in this Privacy Policy in a timely manner. We may add, modify or remove portions of this Privacy Policy when we believe it is appropriate to do so. You may determine when we last updated it by referring to the modification date found at the bottom of this Privacy Policy. 
+9\. Updating this Privacy Policy. Any changes to our Privacy Policy and information handling practices will be acknowledged in this Privacy Policy in a timely manner. We may add, modify or remove portions of this Privacy Policy when we believe it is appropriate to do so. You may determine when we last updated it by referring to the modification date found at the bottom of this Privacy Policy.
 
-10\. General. Put simply, we value your trust in us. So we want to maintain your privacy and work with you to ensure that this website and the information and services we provide to you are a valuable resource for you. For any more information about this website or your visit, please contact us at [4core@corebt.com](mailto:4core@corebt.com) or (401) 431-0700.  
-
+10\. General. Put simply, we value your trust in us. So we want to maintain your privacy and work with you to ensure that this website and the information and services we provide to you are a valuable resource for you. For any more information about this website or your visit, please contact us at [4core@corebt.com](mailto:4core@corebt.com) or (401) 431-0700.
