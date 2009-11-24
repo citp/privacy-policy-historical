@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ametsoc.org privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524083500id_/http%3A//www.ametsoc.org/disclaim.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ametsoc.org privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124080511id_/http%3A//www.ametsoc.org/disclaim.html) for the most accurate reproduction.*
 
 # AMS Disclaimer and Privacy Policy Revised 2004
 
