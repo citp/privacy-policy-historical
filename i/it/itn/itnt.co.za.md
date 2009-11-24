@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itnt.co.za privacy policy that was archived on 2009-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090515222532id_/http%3A//www.itnt.co.za/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itnt.co.za privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124025226id_/http%3A//www.itnt.co.za/privacypolicy.html) for the most accurate reproduction.*
 
 # In The Net Technologies, InTheNet Technologies - Enterprise Anti-spam, adsl, diginet, email, dns, connectivity, free fax, Web development,web site design,graphic design,HTML,Flash,ASP,Java programming,Visual Basic,Delphi,application development,SQL,Access,database development,e-commerce solutions, website design
 
