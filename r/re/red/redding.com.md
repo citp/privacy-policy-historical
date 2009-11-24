@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the redding.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616175618id_/http%3A//www.redding.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redding.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124015409id_/http%3A//www.redding.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy : News : Redding Record Searchlight
-
-Redding.com Privacy Policy
+# Privacy Policy Information & News from Redding Record Searchlight (Redding, CA)
 
 PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective July 1, 2008.
 
-If you submitted personally identifiable information to us prior to the above effective date, and desire to opt out of having that previously submitted personally identifiable information from being treated under the new policy, please contact us at [rswebmaster@redding.com](mailto:rswebmaster@redding.com).
+_If you submitted personally identifiable information to us prior to the above effective date, and desire to opt out of having that previously submitted personally identifiable information from being treated under the new policy, please contact us at[rswebmaster@redding.com](mailto:rswebmaster@redding.com)._
 
 PRIVACY POLICY  
 (Effective July 1, 2008)
@@ -73,6 +71,14 @@ You may contact us as at [rswebmaster@redding.com](mailto:rswebmaster@redding.co
 
 We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable. Please note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our Website.
 
-**I. SOLE STATEMENT**
+**I. YAHOO! ADS AND OPT-OUT POLICIES**
+
+Yahoo! is an ad network partner, operating through the APT from Yahoo! platform, that displays ads on Redding.com sites. To improve your ad experience on Redding.com sites and elsewhere on the Internet, we may send non-personal information to Yahoo! based on your browser’s activities, such as type of pages viewed and categories of interests, so that the advertising you see is relevant to you. Yahoo! also may use information regarding its own users to select which ads to display.
+
+To learn more about Yahoo!’s ad practices, including how to opt out of using anonymous information to select which ads to show you, see <http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html>.
+
+Yahoo! is a member of the Network Advertising Initiative. See [http://www.networkadvertising.org](http://www.networkadvertising.org/).
+
+**J. SOLE STATEMENT**
 
 This Privacy Policy as posted on this Website is the sole statement of our privacy policy with respect to this Website, and no summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Website
