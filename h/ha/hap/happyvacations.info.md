@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the happyvacations.info privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621171225id_/http%3A//happyvacations.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happyvacations.info privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124050941id_/http%3A//happyvacations.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Happy Vacations
+
+## PRIVACY POLICY
 
 **Happy Vacations** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
 
