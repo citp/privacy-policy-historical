@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurorailways.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523204137id_/http%3A//www.eurorailways.com/corp/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurorailways.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124082844id_/http%3A//www.eurorailways.com/corp/privacy.htm) for the most accurate reproduction.*
 
 # Euro Railways Privacy Policy Information
 
