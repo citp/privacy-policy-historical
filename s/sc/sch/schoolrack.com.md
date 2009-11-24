@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the schoolrack.com privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526085825id_/http%3A//www.schoolrack.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schoolrack.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124195324id_/http%3A//www.schoolrack.com/privacy) for the most accurate reproduction.*
 
 # SchoolRack » Privacy Policy
 
-Your information is safe with us Our privacy policy is simple: we will never share any of your information with anyone for any reason. 
+> **Our privacy policy is simple:**  
+>  we will never share any of your information  
+>  — with anyone — for any reason.
 
 #### What personal information does SchoolRack collect?
 
@@ -16,7 +18,7 @@ SchoolRack Inc. will ask for credit card details for premium SchoolRack accounts
 
 SchoolRack Inc. is not responsible for the content on external websites (any URL not beginning with http://www.schoolrack.com). You are advised to read the privacy policy of external websites before disclosing any personal information to them.
 
-#### Cookies 
+#### Cookies
 
 A "cookie" is a small data text file that is placed in your browser and allows SchoolRack to recognize you each time you visit this site (customization, etc). Cookies themselves do not contain any personal information, and SchoolRack does not use cookies to collect personal information. Cookies may also be used by 3rd party content providers such as newsfeeds.
 
