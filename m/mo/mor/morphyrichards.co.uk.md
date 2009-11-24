@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morphyrichards.co.uk privacy policy that was archived on 2009-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090408072153id_/http%3A//www.morphyrichards.co.uk/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morphyrichards.co.uk privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124231052id_/http%3A//www.morphyrichards.co.uk/Privacy.aspx) for the most accurate reproduction.*
 
 # Morphy Richards - News
 
@@ -142,4 +142,4 @@ Unfortunately, the transmission of information via the Internet is not completel
 
 Morphy Richards reserves the right to change this Policy as we may deem necessary from time to time or as may be required by law. Any changes will be immediately posted on the Web Site and you are deemed to have accepted the amended terms of the Policy on your first use of the Web Site following any such alterations. 
 
-All comments, queries and requests relating to our use of your information are welcomed and should be addressed to Morphy Richards, Talbot Road, Mexborough, South Yorkshire, S64 8AJ, United Kingdom, for the attention of Russ Dalgety, telephone 01709-572527 or by email to website@morphyrichards.co.uk. 
+All comments, queries and requests relating to our use of your information are welcomed and should be addressed to Morphy Richards, Talbot Road, Mexborough, South Yorkshire, S64 8AJ, United Kingdom, for the attention of Russ Dalgety, telephone 01709-582402 or by email to website@morphyrichards.co.uk. 
