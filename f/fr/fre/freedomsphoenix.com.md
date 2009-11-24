@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedomsphoenix.com privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526094807id_/http%3A//www.freedomsphoenix.com/Privacy-Policy.htm%3FEdNo%3D001) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedomsphoenix.com privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125004725id_/http%3A//www.freedomsphoenix.com/Privacy-Policy.htm%3FEdNo%3D001) for the most accurate reproduction.*
 
 # Privacy Policy for FreedomsPhoenix.com
 
