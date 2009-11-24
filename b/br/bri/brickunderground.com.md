@@ -1,0 +1,72 @@
+> *The following text is extracted and transformed from the brickunderground.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124235150id_/http%3A//www.brickunderground.com/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy | BrickUnderground
+
+BRICK UNDERGROUND LLC
+
+PRIVACY POLICY
+
+Introduction and Scope
+
+In this Privacy Policy, we (Brick Underground LLC, a New York limited liability company headquartered in New York, New York) describe how we use personally identifiable information about you that we collect through webpages at BrickUnderground.com (the "Site"). This Privacy Policy does not apply to any other data, including, without limitation, data that we collect offline or data that others collect on websites that are linked to the Site.
+
+About Children
+
+The Site is not intended for children under the age of 18. We do not knowingly collect personally identifiable information via the Site from visitors in this age group. We ask that our users not provide information about any child. We encourage parents to talk to their children about their use of the Internet and the information they disclose to Web sites.
+
+Types of Data We Collect; Collection Methods; Combination of Data
+
+You actively send information to us when you sign up with us as a member on the Site, participate in surveys or promotions, post opinions on our bulletin boards, respond to us or otherwise contact us. Depending on your choices, you may send us personally identifiable information such as your email address, name, mailing address, phone number, birthday, and gender; password; locations of properties; and billing and credit card information. But, you can also use certain features of the Site without telling us your name and if you do not tell us who you are, we do not try to find out.
+
+We also track information about how our Site is used by you through cookies, Internet tags or web beacons, and navigational data collection. Also, your Internet browser automatically transmits to us information such as the URL of the website you just came from and the Internet Protocol (IP) address and the browser version your computer is currently using. You can set your browser to notify you when a cookie is sent or to refuse or delete cookies altogether, but certain features of the Site might not work without cookies.
+
+If you have actively sent us your name or other personally identifiable information, we may combine such information with tracked information for the purposes set forth below.  
+Purposes of Data Collection
+
+We collect information about you because we want to determine what you may like or find interesting, so we can provide you with targeted information and advertising (on our Site, in newsletters, via email and otherwise). In addition, we use data to create statistics and reports where personally identifiable information has been removed and aggregated (such that it is anonymous as regards any specific user) for various business purposes. 
+
+Disclosure of Data
+
+We keep your personally identifiable information confidential and we generally do not disclose it. But, please note the following clarifications and exceptions:
+
+Our employees and independent contractors have access to some of your personally identifiable information for the purpose of helping us run our business (and not for their own purposes). They access and use such data subject to our instructions, on a "need to know" basis and under confidentiality and security obligations. 
+
+If we ever sell the Site or substantial parts of our business, we may disclose your personally identifiable information to a (prospective) buyer on the condition that such buyer agrees to comply with this Privacy Policy. 
+
+We may also share your personally identifiable information to respond to law enforcement requests, court orders or other legal process or if we believe that such disclosure is necessary to investigate, prevent or respond to illegal activities, fraud, physical threats to you or others or as otherwise required by any applicable law or regulation.
+
+Even though we do not provide any personally identifiable information about you specifically to any advertising customers, they can occasionally find out information indirectly. For example, we may agree to send an advertisement targeted to all condominium owners registered on our site. If you choose to respond to such targeted advertisements, the advertiser may infer that you are a member of the target audience to whom we sent the ad.
+
+If you sign up for our services on a third party website, such third party may know — from you — that you signed up on the Site.
+
+Before we disclose your personally identifiable data to a third party for their own business purposes (such as a survey or a sweepstake), we will first obtain your consent, for example via email, click-through, an online opportunity to opt-out or otherwise.
+
+We may share personally identifiable information with affiliated companies.
+
+We may freely use and disclose data in anonymous form, for example, in statistics or reports to our advertising customers.
+
+Please remember that if you post any information in areas of our Site that are generally accessible to users, such as chat rooms and message boards, it will be available to the public. 
+
+Security
+
+We take reasonable steps to protect personally identifiable information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. But, you should keep in mind that no Internet transmission is ever completely secure or error-free. In particular, e-mail sent to or from the Site may not be secure.
+
+Access and Correction: Comments and Questions
+
+Please keep your personally identifiable information, accurate, current, and complete by routinely updating your user profile. 
+
+Opt-Out, Communication Preferences
+
+You may modify your communication preferences and/or opt-out from specific communications at any time.
+
+Changes to This Privacy Policy
+
+This Privacy Policy is effective March 31, 2009. We reserve the right to amend it from time to time and if we change it materially, we will post a revised version on the Site. Please check back periodically, and especially before you provide any personally identifiable information to us.
+
+Terms of Use
+
+Note also that your use of the Site is subject to our Terms of Use, which contain disclaimers, limitations of liability and a choice of New York law.
+
+Questions?
+
+For additional information about our privacy policy, please email us at [webmaster@brickunderground.com](mailto:webmaster@brickunderground.com).
