@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the badwarebusters.org privacy policy that was archived on 2008-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081203150310id_/http%3A//www.badwarebusters.org/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badwarebusters.org privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124025104id_/http%3A//badwarebusters.org/main/privacy) for the most accurate reproduction.*
 
-# BadwareBusters.org - Privacy Policy
+# Privacy Policy - BadwareBusters
 
 **BadwareBusters.org Privacy Statement**
 
