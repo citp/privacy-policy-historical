@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tooshocking.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611090728id_/http%3A//www.tooshocking.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tooshocking.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124011537id_/http%3A//www.tooshocking.com/privacy) for the most accurate reproduction.*
 
 # TooShocking.com - Viral Media Since 1999. Shocking Videos, Humor and more!
 
