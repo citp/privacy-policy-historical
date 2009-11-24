@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jax.org privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524220231id_/http%3A//www.jax.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jax.org privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124104154id_/http%3A//www.jax.org/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - The Jackson Laboratory
 
@@ -45,8 +45,6 @@ The standard information that is automatically collected and stored about your v
 Our web site may use _cookies_ ; a unique, alphanumeric identifier sent to your computer's hard drive through your Web browser, to remember information your computer has sent to us (e.g., mailing addresses, course preferences, etc.) upon revisits to our Web site. An example of cookie usage on the Web site might be to pre-populate certain information fields on some forms for your convenience.
 
 If you do not want your browser to accept cookies, you can turn off the cookie acceptance option in your browser settings. The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. 
-
-The Jackson Laboratory is currently using and has contracted with Omniture, a third party, to track and analyze non-personally identifiable usage and volume statistical information from our visitors and customers to administer our Web site and constantly improve its quality. All data collected by Omniture on behalf of The Jackson Laboratory is owned and used by The Jackson Laboratory . The Jackson Laboratory  reserves the right to publish non-personally identifiable, summary information regarding its Website visitors for promotional purposes and as a representative audience for advertisers. Please note that this is not personal information, only general summaries of the activities of our visitors and customers. [Read Omniture's privacy policy](http://www.omniture.com/privacy "Omniture Privacy Policy"), including how to opt out.
 
 ### Information use & sharing 
 
