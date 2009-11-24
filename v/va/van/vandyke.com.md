@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vandyke.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616063534id_/http%3A//www.vandyke.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vandyke.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124092507id_/http%3A//www.vandyke.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -47,3 +47,6 @@ If you have questions about the privacy policy, please [contact](https://web.arc
 >  fax: 505-332-5701 
 
 VShell, SecureCRT, SecureFX, Entunnel, CRT, and AbsoluteFTP are trademarks or registered trademarks of VanDyke Software, Inc. in the United States and/or other countries. All other trademarks or registered trademarks are the property of their respective owners.
+
+[Site Map](https://web.archive.org/sitemap.html) | [Legal Notices](https://web.archive.org/legalnotices.html) | [Privacy Policy](https://web.archive.org/privacy.html) | [Refund Policy](https://web.archive.org/purchase/refund_policy.html)  
+Copyright © 1995 - 2020  VanDyke Software, Inc. All rights reserved. 
