@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the agmetalminer.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525200457id_/http%3A//www.agmetalminer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agmetalminer.com privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125223621id_/http%3A//www.agmetalminer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Web Site Privacy Statement (“Privacy Statement”) tells our visitors (“You”) about: a) The information Metal Miner and Aptium Global Inc. collects through our website(s), www.aptiumglobal.com, www.agmetalminer.com, and “related web sites” (the “Site(s)”); b) Certain services available on our Site(s) including the diagnostic tools; c) How we use that information; and d) How You can choose to opt out of some of these practices.
+This Web Site Privacy Statement (Privacy Statement) tells our visitors (You) about: a) The information Metal Miner and Aptium Global Inc. collects through our website(s), www.aptiumglobal.com, www.agmetalminer.com, and related web sites (the Site(s)); b) Certain services available on our Site(s) including the diagnostic tools; c) How we use that information; and d) How You can choose to opt out of some of these practices.
 
 **Consent**  
 By accessing our Site, You are consenting to the information collection and use practices described in this Privacy Statement, as modified from time to time by us. If we decide to change our Privacy Statement, we will post a new statement on our Site and change the date at the top of the statement. Therefore, we encourage You to check the date of our Privacy Statement whenever You visit this Site for any updates or changes.
@@ -15,7 +15,7 @@ By accessing our Site, You are consenting to the information collection and use 
 
 **Here are some details about certain features of our Site(s):**
 
-Diagnostic Tools/Surveys—If You register to participate in our proprietary diagnostic surveys, we reserve the right to publish aggregate findings for marketing and thought leadership purposes. Under no circumstances will any company-specific information be made available to any 3rd parties.
+Diagnostic Tools/Surveys”If You register to participate in our proprietary diagnostic surveys, we reserve the right to publish aggregate findings for marketing and thought leadership purposes. Under no circumstances will any company-specific information be made available to any 3rd parties.
 
 Information sharing or disclosure practices–As a matter of policy, both MetalMiner and Aptium Global Inc. do not provide any of Your personal information to third parties for their marketing purposes. The personal information You provide to the Site may be accessed by (a) third parties who help Aptium Global Inc. and MetalMiner operate the Site, help us process transactions, provide the services requested by You, or contribute to our sales and marketing efforts; and (b) law enforcement and other government entities if reasonably required.
 
