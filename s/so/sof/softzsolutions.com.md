@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the softzsolutions.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605060912id_/http%3A//www.softzsolutions.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softzsolutions.com privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125235625id_/http%3A//www.softzsolutions.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy related to SEO Services provided by Softz Solutions, India | Softz Solutions
+# Privacy Policy related to SEO Services provided by Softz Solutions, India
 
 [Home](https://web.archive.org/) » Privacy Policy
 
@@ -56,3 +56,40 @@ We will never sell, distribute or lease your personal information to third parti
 If any information we hold is incorrect or misrepresentative, please simply email us at the address above. 
 
 The Privacy Policy above is for both your (the browser or customer) and our (Softz Solutions) protection. Softz Solutions will very rarely send promotional email to anyone, and occasionally sends information to their clients to which they already have a working relationship. Softz Solutions will never sell, lend, or make public your information to marketers, solicitors, or the like. Simply put, Softz Solutions does not want to send, nor receive, spam. 
+
+Due to nature of our business we don't offer any refund or money back for any of our services. If you don't want to continue for our service, then just cancel your service by sending us a mail at contact[at]softzsolutions[dot]com and you won't be billed again. If you opt for one time service fee then also the payment is not refundable because once we'll deliver the product / service we don't have any control to get back it. Since it is digital product so we don't entertain any refund / money back request from our clients. Hope you'll understand it.
+
+There is one exception of refund: If you sign up for a plan and if we feel that we can't do the project for you at that moment then we'll issue 100% refund within 7 working days. Refunds will be given at the discretion of the management.
+
+By browsing our website you agree to comply with the following Terms and Conditions outlined in this document, which, in conjunction with our Privacy Policy, governs the relationship between you and Softz Solutions while you are viewing or using this website. 
+
+**When using this website you are bound to these Terms of Use:**
+
+  * Softz Solutions reserves the right to change any of the content on this website at any time. The content is there for your information and convenience should you chose to view it. 
+  
+
+  * We do not provide any guarantee as to the timeliness, accuracy, performance, suitability or completeness of the information offered or found on this site for any purpose. The user or viewer or "you" agree that such information may contain errors or inaccuracies and acknowledge that we expressly exclude liability for any such errors or inaccuracies to the fullest permissible extent of the law. 
+  
+
+  * The use of materials or information on this website is at your own risk, for which we shall not be liable. It is the viewer’s or user’s responsibility to ensure the products and services on this page herein meet your specific requirements or satisfaction. 
+  
+
+  * This information and material on this website is owned by and licensed to us. This material includes, but is not limited to, articles, copy, layout, design, look, graphics and appearances. Reproduction is strictly prohibited unless in adherence to the copyright notice, which is part of these terms and conditions. 
+  
+
+  * Softz Solutions acknowledges all trademarks used in this website that are not licensed to, or the property of, the website owner. 
+  
+
+  * Unauthorized use of this website may give to a claim for damages and be construed as a criminal offence. 
+  
+
+  * This site contains links to other websites. Read our Privacy Policy, which governs the relationship between you and Softz Solutions while you are viewing or using this website, for information on outbound links. We are not responsible for any damages, loss of information, collection of information or content on any website that is not our own, even if you, as the user, follow a link from our site to any other site in question. 
+  
+
+  * You must not create a link to this website, whether it is from another website, document, or other media, without Softz Solutions’ express prior written consent. 
+  
+
+  * The (your) use of this website and any dispute regarding this website or document is subject to the laws of India.
+  
+
+
