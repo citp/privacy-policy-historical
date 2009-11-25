@@ -1,0 +1,15 @@
+> *The following text is extracted and transformed from the mica.edu privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125142913id_/http%3A//www.mica.edu/About_MICA/Policies_and_Handbooks/Additional_Policies/Privacy_Statement.html) for the most accurate reproduction.*
+
+# Privacy Statement
+
+Maryland Institute College of Art respects your privacy and the privacy and security of the information you provide the College.  MICA and its service providers do not sell to entities outside the College your name, mailing address, telephone number, e-mail address, or other information you provide.  If a visitor chooses to share personal information with MICA by sending a message or filling out an electronic form with personal information, the College will use the information only for the purposes intended. This information may only be released if legally mandated by law enforcement investigators, required by court proceedings, or necessary to internal investigations of violations of College rules and regulations.
+
+We take data security and the privacy of your personal information very seriously.  This site has security measures in place to protect the loss, misuse and alteration of the information under our control.  
+
+The College is bound by The Family Educational Rights and Privacy Act, Amended (FERPA) (20 U.S.C. § 1232g; 34 CFR Part 99).  This law affords students the right to privacy with respect to their educational records, including but not limited to courses taken, credits earned, grades and grade point average.
+
+At its discretion, the Maryland Institute College of Art may provide directory information in accordance with the provisions of the Family Education Rights and Privacy Act.  Directory information is information contained in an educational record that would not generally be considered harmful or an invasion of privacy if disclosed, such as name, address, and degrees earned.  Enrolled students may choose to designate any or all directory information as private and therefore restrict its release by contacting the Registrars in either Enrollment Services or Continuing Studies.  A guide to understanding FERPA is available in both offices.
+
+MICA collects information about your IP address to help administer our websites, analyze trends, create summary statistics, and monitor system performance.  We do not link IP addresses to anything personally identifiable.
+
+The college does not use "cookies" to gain access to private information about you. However, MICA may use cookies to enhance your browsing experience and help track information you voluntarily provide.
