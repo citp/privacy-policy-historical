@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the launchlab.co.uk privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618185605id_/http%3A//launchlab.co.uk/display/cnt_id/29) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the launchlab.co.uk privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125141818id_/http%3A//launchlab.co.uk/display/cnt_id/29) for the most accurate reproduction.*
 
 # LauchLab.co.uk Privacy Policy
 
