@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the scholarships.com privacy policy that was archived on 2009-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090627135925id_/http%3A//www.scholarships.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the scholarships.com privacy policy that was archived on 2009-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091126002427id_/http%3A//www.scholarships.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="hdPrivacyPolicy"><title>
 	Scholarships.com - Privacy Policy
@@ -14,7 +14,7 @@
 
 </head>
 <body id="privacy">
-    <form name="form1" method="post" action="/PrivacyPolicy.aspx" id="form1">
+    <form name="form1" method="post" action="privacypolicy.aspx" id="form1">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTk0MjM4ODM4MmRkPT31MDiXNaZc2lv/PLLgX9ICQ6U=">
 
         <div id="outer">
@@ -28,46 +28,47 @@
    
 
                 
+<!-- Start Facebook -->
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
 
-<script type="text/javascript">
- 
-function ShowOrHide(bLoggedIn) {
+<script src="/fbconnect.js" type="text/javascript"></script>
 
-    document.getElementById("divUserLoggedIn").style.display = "none" 
-    document.getElementById("divUserNotLoggedIn").style.display = "none" 
+<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
 
-    switch(bLoggedIn) {
-        case '0':
-            document.getElementById("divUserNotLoggedIn").style.display = "block" 
-            break;
-        case '1':
-            document.getElementById("divUserLoggedIn").style.display = "block" 
-            break;
-        default:
-            document.getElementById("divUserNotLoggedIn").style.display = "block" 
-            break;
-    }
-}
+
+<!-- End Facebook -->
+
+<div id="UpdateLoginLogout_divUserNotLoggedIn" class="updateloginlogout">
+    <div class="updatefindwrap">
+        <a href="/scholarship-search.aspx">Find College Scholarships</a><a href="http://www.scholarships.com/takethetour1.aspx">Take a
+            Tour</a><a href="/login.aspx" style="border-right: none;">Login</a>
+    </div>
+</div>
+<table width="100%" cellpadding="0" cellspacing="3">
+    <tbody><tr>
+        <td align="right">
+            <!-- Start Facebook -->
+           
+            <div id="UpdateLoginLogout_userboxlogin" style="padding-right: 75px; margin-top: 10px;" class="mcaff">
+                <fb:login-button size="medium" background="white" length="long" onlogin="fbredirect(); " onclick="suppressWindowOnFbClick();"> </fb:login-button>
+            </div>
+                        
+            <!-- End Facebook -->
+        </td>
+        <td>
+            <!-- START SCANALERT CODE -->
+            <div class="mcaff">
+                <a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.scholarships.com">
+                    <img src="//images.scanalert.com/meter/survey/www.scholarships.com/63.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
+            </div>
+            <!-- END SCANALERT CODE -->
+        </td>
+    </tr>
+</tbody></table>
+<script type="text/javascript">   
+    FB.init(fbInitialization(), "/xd_receiver.htm", { "ifUserConnected": update_user_box }, { "reloadIfSessionStateChanged": true });
+   
 </script>
-
-<div id="divUserLoggedIn" class="updateloginlogout" style="display: none;">
-    <div class="updatefindwrap">
-        <a href="/ProfileSummary.aspx">Update Your Profile</a><span><a href="http://www.scholarships.com/takethetour1.aspx">Take
-            a Tour</a></span><a href="/main.aspx?action=logout" style="border-right: none;">Logout</a>
-    </div>
-</div>
-<div id="divUserNotLoggedIn" class="updateloginlogout" style="display: block;">
-    <div class="updatefindwrap">
-        <a href="/scholarship-search.aspx">Find College Scholarships</a><a href="http://www.scholarships.com/takethetour1.aspx">Take
-            a Tour</a><a href="/login.aspx" style="border-right: none;">Login</a>
-    </div>
-</div>
-<!-- START SCANALERT CODE -->
-<div class="mcaff">
-    <a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.scholarships.com">
-        <img src="//images.scanalert.com/meter/survey/www.scholarships.com/63.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
-</div>
-<!-- END SCANALERT CODE -->
 
                 
 <div id="tabheader">
@@ -85,7 +86,7 @@ function ShowOrHide(bLoggedIn) {
         <li id="myOfferslk"></li>
         
         <li id="TabNav1_Li1" class="loanslk">
-            <a id="TabNav1_hlscholarships" href="/scholarships-fund-your-future-area-study-scholarships.aspx">Scholarships</a></li>
+            <a id="TabNav1_hlscholarships" href="/college-scholarships/college-scholarships.aspx">Scholarships</a></li>
         <li id="myScholarlk"></li>
     </ul>
 </div>
@@ -99,7 +100,7 @@ function ShowOrHide(bLoggedIn) {
 <div id="topnav">
     <p style="margin-left: -2px;">
     <a href="/AboutUs.aspx">About Us</a>|<a href="/ContactUs.aspx">Contact Us</a>|<a href="/Linking.aspx">Linking</a>|<a href="/Copyrights.aspx">Copyrights &amp; Permissions</a>|<a href="/TermsOfUse.aspx">Terms
-            of Use</a>|<a href="/PrivacyPolicy.aspx">Privacy Policy</a>|<a href="/Educators/index.aspx">Educators</a>|<a href="/OnlineAwardEditor/Main.aspx">Scholarship Providers</a>|<a href="/FAQ.aspx">FAQ</a></p>
+            of Use</a>|<a href="/PrivacyPolicy.aspx">Privacy Policy</a>|<a href="/Educators/index.aspx">Educators</a>|<a href="/OnlineAwardEditor/Main.aspx">Submit A Scholarship</a>|<a href="/FAQ.aspx">FAQ</a></p>
 </div>
 
                         <div class="divider">
@@ -108,14 +109,14 @@ function ShowOrHide(bLoggedIn) {
                         </div>
                         <div class="pptext">
                             <h2>
-                                February 2009</h2>
-                            <div style="padding: 0 10px 0px 0px; width: 95px; margin: 10px 0 0 10px; position: relative;
+                                July 2009</h2>
+                            <div style="padding: 10px;  padding-right: 0px; width: 95px; margin: 10px 0 0 10px; position: relative;
                                 float: right; vertical-align: top; text-align: center;">
                                 <a href="javascript:openWindow('http://www.truste.org/ivalidate.php?url=www.scholarships.com&amp;sealid=101');">
                                     <img src="img/truste_seal_ctv.gif" style="margin-bottom: 20px;" alt="TRUSTe"></a>
                                 <br>
-                                <a href="javascript:openWindow('http://www.bbbonline.org/cks.asp?id=202121794426045');">
-                                    <img src="images/BBB2.gif" alt="BBB Online"></a>
+                                <a href="javascript:openWindow('https://www.bbb.org/online/consumer/cks.aspx?id=100101910574912616');" onclick="window.document.frmCommArea.hidConfirm.value='no';">
+                        <img title="Click to verify BBB accreditation and to see a BBB report." border="0" src="images/bbbseal1.gif" alt="Click to verify BBB accreditation and to see a BBB report." style="padding-bottom: 5px;"></a>
                             </div>
                             <p>
                                 Scholarships.com maintains high standards for the protection of your privacy over
@@ -227,14 +228,6 @@ function ShowOrHide(bLoggedIn) {
                                 meaning that the information is about our website's visitors as a group and not
                                 individually identifiable visitors.
                             </p>
-                            <h2>
-                                Security Practices</h2>
-                            <p>
-                                The security of your personal information is important to us. If you prefer to do
-                                so, you may use our "Secure Socket Layer" or "SSL" by clicking the padlock icon
-                                on our home page prior to entering your information. You can learn more about SSL
-                                by <a href="javascript:openGlossaryWindow('Secure%20Sockets%20Layer');">clicking here</a>.
-                            </p>
                             <p>
                                 We follow generally-accepted industry standards to protect the personal information
                                 submitted to us, both during transmission and once we receive it. However, no method
@@ -295,7 +288,7 @@ function ShowOrHide(bLoggedIn) {
                             </p>
                             <p>
                                 By displaying the TRUSTe trustmark, Scholarships.com has agreed to notify you of:</p>
-                            <ul style="text-indent: 2px; width: 650px;">
+                            <ul>
                                 <li>What personally-identifiable information of yours or third party personally identifiable
                                     information is collected from you through the web site</li>
                                 <li>The organization collecting the information</li>
@@ -323,7 +316,7 @@ function ShowOrHide(bLoggedIn) {
                                 <a href="ContactForm.aspx?mailto=privp">privacy department</a>. Alternatively, you
                                 may contact us at:
                             </p>
-                            <p>
+                            <p class="indentten">
                                 Privacy at Scholarships.com
                                 <br>
                                 Scholarships.com, LLC
@@ -333,35 +326,35 @@ function ShowOrHide(bLoggedIn) {
                                 Highland Park, IL 60035</p>
                             <div id="bottomnav">
                                 
-<div class="divider" style="margin-top: 20px;">
+<div class="divider">
     <p>
         &nbsp;</p>
 </div>
 <div class="commonbottomnav">
     <ul>
-        <li><a href="../main.aspx">Home</a></li>
-        <li><a href="../scholarship-search.aspx">Scholarship Search</a></li>
-        <li><a href="../StudentGuide.aspx">Financial Aid</a></li>
-        <li><a href="../collegesearch.aspx">College Search</a></li>
-        <li><a href="../OnlineAwardEditor/Main.aspx">Scholarship Providers</a></li>
-        <li class="noborder"><a href="../educators/index.aspx">Educators</a></li>
+        <li><a href="/main.aspx">Home</a></li>
+        <li><a href="/scholarship-search.aspx">Scholarship Search</a></li>
+        <li><a href="/StudentGuide.aspx">Financial Aid</a></li>
+        <li><a href="/collegesearch.aspx">College Search</a></li>
+        <li><a href="/OnlineAwardEditor/Main.aspx">Submit A Scholarship</a></li>
+        <li class="noborder"><a href="/educators/index.aspx">Educators</a></li>
         <br> 
-        <li><a href="../Student-Loans.aspx">Student Loans</a></li>
-        <li><a href="../private-loans/private-loans.aspx">Private Student
+        <li><a href="/Student-Loans.aspx">Student Loans</a></li>
+        <li><a href="/private-loans/private-loans.aspx">Private Student
             Loans</a></li>
-        <li><a href="../ConsolidationLoans.aspx">Student Loan Consolidation</a></li>
-        <li><a href="../plus-loans.aspx">Federal PLUS Loans</a></li>
+        <li><a href="/ConsolidationLoans.aspx">Student Loan Consolidation</a></li>
+        <li><a href="/plus-loans.aspx">Federal PLUS Loans</a></li>
         <li class="noborder"><a href="../stafford-loans/stafford-loans.aspx">
             Federal Stafford Student Loans</a></li>
         <br>
-        <li><a href="../AboutUs.aspx">About Us</a></li>
-        <li><a href="../ContactUs.aspx">Contact Us</a></li>
-        <li><a href="../PrivacyPolicy.aspx">Privacy Policy</a></li>
-        <li><a href="../TermsOfUse.aspx">Terms of Use</a></li>
-        <li><a href="../Linking.aspx">Linking</a></li>
-        <li><a href="../Frequently-Asked-Questions.aspx">FAQ</a></li>
+        <li><a href="/AboutUs.aspx">About Us</a></li>
+        <li><a href="/ContactUs.aspx">Contact Us</a></li>
+        <li><a href="/PrivacyPolicy.aspx">Privacy Policy</a></li>
+        <li><a href="/TermsOfUse.aspx">Terms of Use</a></li>
+        <li><a href="/Linking.aspx">Linking</a></li>
+        <li><a href="/Frequently-Asked-Questions.aspx">FAQ</a></li>
         <li><a href="http://blog.scholarships.com">Blog</a></li>
-        <li><a href="../Resources.aspx">Resources</a></li>
+        <li><a href="/Resources.aspx">Resources</a></li>
         <li class="noborder"><a href="../SiteMap.aspx">Site Map</a></li>
     </ul>
 </div>
@@ -372,19 +365,18 @@ function ShowOrHide(bLoggedIn) {
                 </div>
             </div>
         </div>
-    
-<script type="text/javascript" language="JavaScript">ShowOrHide('0')</script></form>
+    </form>
     <div style="width: 720px; margin: 0 auto; padding: 0;">
         
 <div id="copyright">
-    <p class="copyright">
-        Copyright © 1998 - 2009 Scholarships.com, LLC, All Rights Reserved. <a href="javascript:openWindow('http://www.scholarships.com/privacypolicy.aspx');">
+    <p>
+        Copyright © 1999 - 2009 Scholarships.com, LLC, All Rights Reserved. <a href="javascript:openWindow('http://www.scholarships.com/privacypolicy.aspx');">
             Privacy Policy</a>
             <br>
-    <img src="/img/copylogo.gif" alt="Copyright © 1998 - 2009 Scholarships.com, LLC, All Rights Reserved. Privacy Policy"></p>
+    <img src="/img/copylogo.gif" alt="Copyright © 1999 - 2009 Scholarships.com, LLC, All Rights Reserved. Privacy Policy"></p>
 </div>
 <div id="copyrightprint">
-    Copyright © 1998 - 2009 Scholarships.com, LLC, All Rights Reserved. Privacy Policy
+    Copyright © 1999 - 2009 Scholarships.com, LLC, All Rights Reserved. Privacy Policy
     <br>
     <img src="/img/ScholarshipsLogoPrint.gif" alt="Scholarships.com - Find Money For College"></div>
 
