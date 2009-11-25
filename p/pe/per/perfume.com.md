@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the perfume.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624024407id_/http%3A//www.perfume.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfume.com privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125144424id_/http%3A//www.perfume.com/help/privacy) for the most accurate reproduction.*
 
-# Privacy - Help Center : Perfume.com
+# Privacy - Help Center : Shop Perfume.com
 
 ## Is your website secure?
 
@@ -40,4 +40,4 @@ Some sites within our network contain links to other sites. Perfume.com is not r
 **Contacting us**  
 If you have any questions about our Privacy Policy, our site practices, or your personal experience dealing with this web site, you can [Contact](http://www.perfume.com/help/contact) our office. 
 
-[Back to help center](http://www.perfume.com/help/)
+[Back to help center](http://www.perfume.com/help)
