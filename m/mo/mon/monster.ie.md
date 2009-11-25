@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monster.ie privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605055814id_/http%3A//my.monster.ie/privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monster.ie privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125111920id_/http%3A//my.monster.ie/privacy/default.aspx) for the most accurate reproduction.*
 
 # Find Jobs: Search thousands of jobs now | Monster.ie
 
@@ -44,7 +44,7 @@ For more information on how to protect yourself online, click [here](https://web
 
 ## How to Contact Us
 
-You may contact us at [privacystatement@monster.com](mailto:privacystatement@monster.com) for questions or concerns about our privacy practices or the Safe Harbor program. You may also call us at 1800 268 268, or write to us at: 
+You may contact us at [jobseekers@monster.ie](mailto:jobseekers@monster.ie) for questions or concerns about our privacy practices or the Safe Harbor program. You may also call us at 1800 268 268, or write to us at: 
 
 Privacy Office  
 Monster Worldwide, Inc.  
