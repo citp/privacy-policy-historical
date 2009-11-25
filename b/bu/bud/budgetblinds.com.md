@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the budgetblinds.com privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526083318id_/http%3A//www.budgetblinds.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgetblinds.com privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125103322id_/http%3A//www.budgetblinds.com/privacy-policy) for the most accurate reproduction.*
 
 # Budget Blinds | Privacy Policy
 
@@ -32,9 +32,6 @@ If Budget Blinds, or substantially all of its assets were acquired, or in the un
 We may release Personal Information when we believe in good faith that release is necessary to comply with the law; or protect the rights, property, or safety of Budget Blinds, our employees, or others. This includes exchanging information with other companies and organizations for fraud protection. 
 
 Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information. 
-
-**Security of Personal Information**   
-We use industry-standard Secure Socket Layer (SSL) software to protect the security of your Personal Information during transmission. This software encrypts all of the information you input. 
 
 **Changes to this Privacy Policy**   
 Budget Blinds may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used/collected. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our Web site. 
