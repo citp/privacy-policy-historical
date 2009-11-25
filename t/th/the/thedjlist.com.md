@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the thedjlist.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627112446id_/http%3A//www.thedjlist.com/corporate/legal.php%3FsecID%3DLegal%26secOne%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedjlist.com privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125160613id_/http%3A//thedjlist.com/privacy) for the most accurate reproduction.*
 
-# The DJ List: Corporate: Privacy
+# The DJ List
 
 ## Privacy
 
 * * *
 
-[Terms of Use](https://web.archive.org/web/20090627112446id_/http%3A//www.thedjlist.com/corporate/legal.php?secID=Legal) | **Privacy**
+[Terms of Use](https://web.archive.org/terms) | **Privacy**
 
   1. What personally identifiable information is collected from you
   2. What are cookies and how are they used
@@ -83,7 +83,7 @@ Many promotions offer opportunities to request additional information from spons
 
 From time to time, you may be offered the opportunity to receive materials or special offers from third parties. If you opt-in to receive information from these third parties, The DJ List will (with your permission) share your name and email address with them . 
 
-Third Party Data & Data in the Aggregate: Under confidentiality agreements, The DJ List may match user information with third party data. Also, The DJ List discloses aggregated user statistics (for example, 45% of our users are female) in order to describe our services to current and prospective partners, advertisers, and other third parties, and for other lawful purposes. 
+Third Party Data ∓ Data in the Aggregate: Under confidentiality agreements, The DJ List may match user information with third party data. Also, The DJ List discloses aggregated user statistics (for example, 45% of our users are female) in order to describe our services to current and prospective partners, advertisers, and other third parties, and for other lawful purposes. 
 
 Market Research Data in the Aggregate: The DJ List sells aggregated user statistics to third parties (for example, males aged 13 to 25 currently rate their interest in your product as "7.3X"). This data will never be provided in any fashion that could be connected with you as an individual. 
 
