@@ -1,67 +1,47 @@
-> *The following text is extracted and transformed from the jokeroo.com privacy policy that was archived on 2008-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080610200608id_/http%3A//www.jokeroo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jokeroo.com privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125080909id_/http%3A//www.jokeroo.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Jokeroo.com
+# Privacy Policy - Jokeroo.com is Jokes
 
-|  |   
----|---  
-|  |   
-Privacy Policy for Jokeroo.com |   
----|---  
-  
+**Jokeroo.com Privacy Policy**  
+This Site is operated by JMG - Jolt Media Group.   
+You may contact us at: support (at) jokeroo.com 
 
+**Jokeroo.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: Jokeroo.com.
 
-**Jokeroo.com **
+**Information Automatically Logged**
 
-**** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ Jokeroo.com](http://www.jokeroo.com/). 
+We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to gather broad demographic information to help us better serve you.
 
-####  Information Automatically Logged 
+**Advertisers**
 
-We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to gather broad demographic information to help us better serve you. 
+We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
 
-####  Advertisers 
+[FastClick](http://www.fastclick.com/about/privacy.html)  
+[TribalFusion](http://www.tribalfusion.com/TribalFusion/privacy.html)  
+[CasaleMedia](http://www.casalemedia.com/privacy.html)
 
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:   
-<http://www.fastclick.com/about/privacy.html>  
-<http://www.tribalfusion.com/TribalFusion/privacy.html>  
-<http://www.casalemedia.com/privacy.html>
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/).
 
-####  Information Collected 
+**Information Collected**
 
-We collect the domain name and e-mail address (where possible) of visitors to our Web page, information volunteered by the consumer, such as survey information and/or site registrations. The information we collect is used to notify consumers about updates to our Web site, shared with other reputable organizations to help them contact consumers for marketing purposes, used by us to contact consumers for marketing purposes. Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them. Consumers can access this information by e-mail us at the below address. Consumers can have this information corrected by sending us e-mail at the below address. 
+We collect the domain name and e-mail address (where possible) of visitors to our Web page and site registrations. The information we collect is used to notify consumers about updates to our Web site. Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them. Consumers can access this information by e-mail us at the below address. Consumers can have this information corrected by sending us e-mail at the below address.
 
-####  Cookies 
+**Cookies**
 
-We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, record past activity at a site in order to provide better service when visitors return to our site. If you do not want to receive e-mail from us in the future, please let us know by visiting us at <http://www.jokeroo.com/unsubscribe.html>. From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please do not opt into receiving their offers on our forms. 
+We use cookies to store visitors preferences, record session information. If you are interested in **opting-out** , please visit [networkadvertising.org](http://http//www.networkadvertising.org/managing/opt_out.asp)
 
-####  Choice/Opt-Out 
+**Security**
 
-Our site provides users the opportunity to opt out of receiving communications from us and our partners at the point where we request information about the visitor. Users may unsubscribe from the Jokaroo.Com Newsletter if they wish to no longer receive communication from Jokaroo.Com and no longer use our service. To be removed, please visit us at <http://www.jokeroo.com/unsubscribe.html>
+We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site.
 
-####  Security 
+**External Links**
 
-We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. 
+This site contains links to other sites. Jokeroo.com is not responsible for the privacy practices or the content of such Web sites.
 
-####  Co-Registration 
+**Enforcement**
 
-In order to use our tell-a-friend forms, our site requests information from users. Participation is voluntary and as such the user has a choice whether or not to disclose information. Co-registration checkboxes found on these forms, if checked, will be used to provide information to third-parties. 
+If you feel that this site is not following its stated information policy, you may contact us at the following email address: support (at) jokeroo.com
 
-####  External Links 
+**Notification of Changes**
 
-This site contains links to other sites. **Jokaroo.com** is not responsible for the privacy practices or the content of such Web sites. 
-
-####  Enforcement 
-
-If you feel that this site is not following its stated information policy,  
-you may contact us: 
-
-####  Notification of Changes 
-
-If we change this privacy policy, we will post those changes on our home page so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.  
-  
-|  |   
----  
-  
-  
-  
-  
- 
+If we change this privacy policy, we will post those changes on our home page so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
