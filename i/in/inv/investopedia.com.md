@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investopedia.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422205546id_/http%3A//www.investopedia.com/corp/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investopedia.com privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125043845id_/http%3A//www.investopedia.com/corp/privacy.asp) for the most accurate reproduction.*
 
 # Investopedia.com - Your Source For Investing Education - Privacy Policy
 
@@ -14,14 +14,18 @@
 [**Dictionary**](https://web.archive.org/dictionary/)  
 [**Articles**](https://web.archive.org/articles/)  
 [**Exam Prep**](https://web.archive.org/professionals/)  
+[**Exam Quizzer**](https://web.archive.org/exam-prep-quizzes/)  
 [**Tutorials**](https://web.archive.org/university/)  
 [**Ask Us**](https://web.archive.org/ask/)  
 [**Simulator**](http://simulator.investopedia.com/)  
-[**Community**](http://community.investopedia.com/)  
+[**Financial Edge**](http://financialedge.investopedia.com/)  
 [**Stock Ideas**](https://web.archive.org/stockadvice/)  
 [**Free Tools**](https://web.archive.org/free/)  
 [**Calculators**](https://web.archive.org/calculator/)  
 [**Free Newsletters**](https://web.archive.org/email/)  
+  
+  
+  
   
   
 
@@ -33,7 +37,7 @@ Investopedia is committed to maintaining the security, confidentiality and priva
 
  _Please Note:_
 
-Investopedia may occasionally update this Privacy Policy. When we do so, we will revise the “last updated” date at the top of this Policy, and will notify you of the changes by placing a notice on its Web Site. See also our [Web Site Data Collection Practices](https://web.archive.org/web/20090422205546id_/http%3A//www.investopedia.com/corp/data.asp).
+Investopedia may occasionally update this Privacy Policy. When we do so, we will revise the “last updated” date at the top of this Policy, and will notify you of the changes by placing a notice on its Web Site. See also our [Web Site Data Collection Practices](https://web.archive.org/web/20091125043845id_/http%3A//www.investopedia.com/corp/data.asp).
 
 **Scope of Policy**  
 This Policy applies only to personal information about identifiable individuals (such as age, sex, financial information), and not to information about corporate or commercial entities.
@@ -55,7 +59,7 @@ Investopedia collects personal information in its business operations, including
 
 Most of this personal information will be collected directly from you in person, by email or through our Web Site. Some of your personal information may be collected from other sources such as credit bureaus, financial institutions and other third parties with your account.
 
-Investopedia uses cookies and other devices on its Web Site to collect certain non-personally identifiable information. See our [Web Site Data Collection Practices](https://web.archive.org/web/20090422205546id_/http%3A//www.investopedia.com/corp/data.asp). 
+Investopedia uses cookies and other devices on its Web Site to collect certain non-personally identifiable information. See our [Web Site Data Collection Practices](https://web.archive.org/web/20091125043845id_/http%3A//www.investopedia.com/corp/data.asp). 
 
 **Accountability**  
 Investopedia will be accountable and responsible for personal information that is under its control. We have designated a Privacy Officer to ensure Investopedia’s compliance with this Policy and to address any questions or concerns you may have.
