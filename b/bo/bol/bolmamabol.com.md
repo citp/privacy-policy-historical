@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bolmamabol.com privacy policy that was archived on 2009-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090518064152id_/http%3A//www.bolmamabol.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bolmamabol.com privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125152226id_/http%3A//www.bolmamabol.com/privacy) for the most accurate reproduction.*
 
 # Privacy | BolMamaBol Info Net
 
