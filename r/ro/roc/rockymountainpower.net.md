@@ -1,13 +1,9 @@
-> *The following text is extracted and transformed from the rockymountainpower.net privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616121543id_/http%3A//www.rockymountainpower.net/Article/Article56307.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockymountainpower.net privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125224626id_/http%3A//www.rockymountainpower.net/footer/privacy.html) for the most accurate reproduction.*
 
-# Our Privacy Policy
+# Privacy
 
-Your privacy is a serious matter to us. When we ask you for information, we strictly limit its use to servicing your account. We do not rent or sell personal information from our customers. Having accurate records helps us more quickly and efficiently handle your phone calls. Accurate information also helps us make sure that we know who we are talking to. If you would like to add a password to further protect your account, let us know the next time you call.
+During the application for electric service or other company services, or when using online customer self-service functions, PacifiCorp may ask for certain customer information such as your name, address, mailing address, phone number and place of employment. As a security measure against others accessing your account, the Company may also collect some form of more personally identifiable information, such as Social Security Number and/or driver's license number. The Company also collects information regarding our interactions and transactions over the course of our business relationship with you. 
 
-For more information, please review our:
+When you use PacifiCorp’s online customer self-service functions, any personal information you enter in fields or forms provided in these services are secured using an industry standard security technology known as Secure Sockets Layer (“SSL”). By using SSL, the Company attempts to safeguard the confidentiality of your user name, password and other personal information. For SSL to work, your browser must be capable of supporting SSL. Please check with your browser manufacturer for details. 
 
-[General practices and customer identification methods](https://web.archive.org/Article/Article46827.html)[](https://web.archive.org/Article/Article46826.html)
-
-[Customer information sharing policy ](https://web.archive.org/Article/Article41123.html)
-
-[Terms and conditions of Web use ](https://web.archive.org/Article/Article41120.html)
+Should a customer apply for credit with PacifiCorp, PacifiCorp may request information about that customer from a consumer-reporting agency. In such event, PacifiCorp will not share the consumer report information with any company affiliate or any nonaffiliated third party.
