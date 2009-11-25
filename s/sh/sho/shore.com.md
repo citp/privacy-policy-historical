@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the shore.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524224422id_/http%3A//www.shore.com/us/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shore.com privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125011357id_/http%3A//shore.com/us/policies/privacy.html) for the most accurate reproduction.*
 
-# Shore Communications Inc.: Us - Privacy Policy - Where Content, Technology and People Meet (SM)
+# About Us - Privacy Policy - Shore Communications Inc.
 
   
-   
 **SHORE COMMUNICATIONS INC. PRIVACY STATEMENT**
 
 Shore Communications Inc. ("Shore") recognizes the importance of protecting the privacy of all information provided by users of our web sites, subscribers to our publications, registrants for our events, recipients of our e-mail newsletters and all of our customers. Our strong aim is to respect our users’ right to privacy; therefore we have developed the following privacy statement to guide our relationships with our customers and users. This privacy statement discloses the privacy practices for all products and services owned and delivered by Shore. 
@@ -52,6 +51,4 @@ Our web sites contain links to other sites. Shore is not responsible for the pri
 
 **NOTIFICATION and CHANGES**
 
-If we change our privacy policy, we will post those changes on this page so our users are aware of what information we collect, how we use it and under which circumstances, if any, we disclose it. Users should check this policy frequently to keep abreast of any changes. 
-
-**To top of page **
+If we change our privacy policy, we will post those changes on this page so our users are aware of what information we collect, how we use it and under which circumstances, if any, we disclose it. Users should check this policy frequently to keep abreast of any changes.  
