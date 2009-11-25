@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the familyandhomelife.com privacy policy that was archived on 2009-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090512175829id_/http%3A//www.familyandhomelife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familyandhomelife.com privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125225753id_/http%3A//www.familyandhomelife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | familyandhomelife.com
-
-## Privacy Policy
 
 **familyandhomelife.com** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
 
