@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chambersandpartners.com privacy policy that was archived on 2009-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090507172750id_/http%3A//www.chambersandpartners.com/Content.aspx%3Fpt%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chambersandpartners.com privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125171537id_/http%3A//www.chambersandpartners.com/Content.aspx%3Fpt%3DPrivacy) for the most accurate reproduction.*
 
 # Chambers and Partners - Privacy
 
