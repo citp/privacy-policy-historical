@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the excaliberpc.com privacy policy that was archived on 2009-05-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090520025028id_/http%3A//www.excaliberpc.com/support/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the excaliberpc.com privacy policy that was archived on 2009-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091126000913id_/http%3A//www.excaliberpc.com/support/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 <title>Security &amp; Privacy Policy | EXcaliberPC.com</title>
@@ -8,6 +8,7 @@
 <link rel="stylesheet" type="text/css" href="/css/style.css">
 <link rel="shortcut icon" type="image/x-icon" href="/img/favicon.ico">
 <script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/jquery.autocomplete.js"></script>
 <script type="text/javascript" src="/js/ui.core.js"></script>
 <script type="text/javascript" src="/js/common.js"></script>
 <script type="text/javascript" src="/js/custom.js"></script>
@@ -22,7 +23,7 @@
 <div class="content">
 
 <div class="adtop">
-<div class="controls">
+<div class="controls" style="z-index:10">
 <table class="common btnhover" cellspacing="3">
 <tbody><tr>
 <td><a class="btnprev" href="#" onclick="$('#ctl00_ctl00_cphBody_ucBannerTop_ucAdCanvasSlider').adcanvasslider('movePrev'); return false;"></a></td>
@@ -36,13 +37,16 @@
 </div><script type="text/javascript">
 //<![CDATA[
 $(document).ready(function() {
-	$('#ctl00_ctl00_cphBody_ucBannerTop_ucAdCanvasSlider').adcanvasslider({"url":"/Promo/Banner.aspx?id=#{id}&category=_top", "items":["07-asus-w90", "08-asus-mothers-day", "09-msi-x340", "10-asus-eee-px-1008"]});
+	$('#ctl00_ctl00_cphBody_ucBannerTop_ucAdCanvasSlider').adcanvasslider({
+		"url":"/Promo/Banner.aspx?id=#{id}&category=_top",
+		"items":["07-asus-w90", "09-msi-x340", "10-asus-eee-pc-1008", "11-asus-eee-pc-1005", "13-asus-batman"]
+	});
 });
 //]]>
 </script>
 
 </div>
-<div class="path gray ablack"><a href="/" rel="nofollow" class="icon icon-arrow-gray">Home</a> / <a href="/support/" rel="nofollow">Support</a> / <b>Security &amp; Privacy Policy</b>
+<div class="path gray ablack"><a href="/" rel="nofollow" class="icon icon-arrow-gray">Home</a> / <a href="/support/" rel="nofollow">Support</a> / <a class="gray" href=""><b>Security &amp; Privacy Policy</b></a>
 </div>
 
 <table class="cols" cellspacing="0">
@@ -83,7 +87,10 @@ $(document).ready(function() {
 </div><script type="text/javascript">
 //<![CDATA[
 $(document).ready(function() {
-	$('#ctl00_ctl00_cphBody_cphRight_ucAdCanvasStatic_0').adcanvasstatic({"url":"/Promo/Banner.aspx?id=#{id}&category=_side", "items":["qnap-network-storage"]});
+	$('#ctl00_ctl00_cphBody_cphRight_ucAdCanvasStatic_0').adcanvasstatic({
+		"url":"/Promo/Banner.aspx?id=#{id}&category=_side",
+		"items":["qnap-network-storage"]
+	});
 });
 //]]>
 </script>
@@ -112,11 +119,26 @@ $(document).ready(function() {
 <tbody><tr>
 <td class="big bold white">Search:</td>
 <td><select class="big" name="ch"><option value="">Entire Website</option><option value="Computers">PCs &amp; Notebooks</option><option value="Storage">Storage &amp; Memory</option><option value="Hardware">Computer Hardware</option><option value="Electronics">Electronics</option><option value="Cameras">Cameras &amp; Photo</option><option value="Networking">Networking</option><option value="Gaming">Gaming</option><option value="Software">Software</option></select></td>
-<td><input class="big" type="text" name="search" style="width:200px" value=""></td>
+<td><input id="keywords" class="big" type="text" name="search" style="width:200px" value=""></td>
 <td><button type="submit"><u><i>Search</i></u></button></td>
 </tr>
 </tbody></table>
 </form>
+<script type="text/javascript">
+$(document).ready(function() { 
+	$('#keywords')
+		.autocomplete("../WebServices/Keywords.aspx", {
+			cacheLength: 30,
+			minChars: 2,
+			matchContains: true,
+			max: 15,
+			scroll: false,
+			width: 204,
+			selectFirst: false
+		})
+		.bind('result', function(ev) { ev.target.form.submit(); } );
+});
+</script>
 </th>
 <th>
 <div class="big bold white">Customer Support</div>
@@ -198,7 +220,10 @@ $(document).ready(function() {
 
 <table class="common w100" cellspacing="7">
 <tbody><tr>
-<td class="small gray">© 2003 – 2009 EXcaliberPC.com. All Rights Reserved.<br>Powered by <a class="gray" href="http://www.ingenuity.net/">Ingenuity.Net Ecommerce Solutions</a>.</td>
+<td class="small gray nowrap">© 2003 – 2009 EXcaliberPC.com. All Rights Reserved.<br>Powered by <a class="gray" href="http://www.ingenuity.net/">Ingenuity.Net Ecommerce Solutions</a>.</td>
+<td class="w100 padleft">
+<a class="icon icon-twitter gray" href="http://twitter.com/excaliberpc">Follow us on Twitter</a>
+</td>
 <td class="right">
 <script type="text/javascript" src="https://siteseal.thawte.com/cgi/server/thawte_seal_generator.exe"></script>
 </td>
