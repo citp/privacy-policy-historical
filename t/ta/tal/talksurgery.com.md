@@ -1,37 +1,26 @@
-> *The following text is extracted and transformed from the talksurgery.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616211310id_/http%3A//www.talksurgery.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talksurgery.com privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125151410id_/http%3A//www.talksurgery.com/privacy.php) for the most accurate reproduction.*
 
-# Plastic surgery information service, Privacy Policy
+# Plastic surgery information service, Community, Information and Doctor Locator
 
 |  |    
   
+
+
+**Privacy Policy**
+
+* Talk Surgery collects personal information when you register for a Talk Surgery service or otherwise voluntarily provide such information. We may combine personal information collected from you with information from other Talk Surgery services or third parties to provide a better user experience, including customizing content for you. 
+* Talk Surgery uses cookies and other technologies to enhance your online experience and to learn about how you use Talk Surgery services in order to improve the quality of our services. 
+* Talk Surgery’s servers automatically record information when you visit our website or use some of our products, including the URL, IP address, browser type and language, and the date and time of your request. 
+* We may use personal information to provide the services you’ve requested, including services that display customized content and advertising. 
+* We may also use personal information for auditing, research and analysis to operate and improve Talk Surgery technologies and services. 
+* We may share aggregated non-personal information with third parties outside of Talk Surgery. 
+* When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. 
+* We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. 
+* Talk Surgery processes personal information on our servers in the United States of America and in other countries. In some cases, we process personal information on a server outside your own country. 
+* We offer you choices when we ask for personal information, whenever reasonably possible. You can find more information about your choices in the privacy notices or FAQs for specific services. 
+* You may decline to provide personal information to us and/or refuse cookies in your browser, although some of our features or services may not function properly as a result. 
+* We make good faith efforts to provide you access to your personal information upon request and to let you correct such data if it is inaccurate and delete it, when reasonably possible. 
+
+|    
   
-|   
-|  **Related documents:**  
-
-
-  * [**Terms of Use**](https://web.archive.org/web/20090616211310id_/http%3A//www.talksurgery.com/terms.html)
-  * [**Disclaimer**](https://web.archive.org/web/20090616211310id_/http%3A//www.talksurgery.com/disclaimer.html)
-
-Talksurgery pledges that will not sell or use your materials to anyone.
-
-Because of the personal nature of reviews submitted, your name will be held confidential if you wish it so. Not even us, the operators of Talksurgery, through our secure registration form, will know your true identity
-
-Talksurgery.com is a free website with future revenues derived from sponsorships and advertising. To attract and retain advertisers, we aggregate all personal demographic data and provide the results to advertisers so that they will understand the value of Talksurgery members as an advertising audience. We understand that our number one asset are our members and we will never knowingly do anything to harm the trust you have bestowed on us.
-
- **When does Talksurgery.com collect my personal information?**  
-Talksurgery gathers information from members and visitors in four ways: voluntary registration, member-submitted reviews and bulletin board postings, cookie technology and IP addresses. **Registration**  
-At the initial registration screen we ask for a Member name, password and email address. **Reviews and Bulletin Boards**  
-Personal information becomes public when you disclose it to the Talksurgery web site.
-
-**Cookies**  
-We use cookies to store and track your preferences to provide you with a more personalized member experience. A cookie is a message sent to your browser from a Web server and stored on your computer's hard drive. Most Internet sites use cookies. You can set your browser preferences to reject all cookies (see below) but this will prevent you from using in most customized services, and you may have to repeatedly enter personal information in order to participate in various services or promotions. Cookies make your experience easier by saving your preferences and passwords. For example, if you choose "Automatic Login" during registration, Talksurgery will store a scrambled version of your Member ID in a permanent "cookie" file on your hard drive so that we can track your personalized services and preferences from one visit to the next. We also use cookies that contain no personal information at all. These cookies help us estimate our audience size, determine which areas of the talksurgery Web site are the most popular, and serve targeted advertising. No advertiser's cookie is ever placed on members' computers.
-
-**IP Address**  
-We may log IP addresses for the purposes of systems administration, or to report information in aggregate form to our advertisers (e.g., how many visitors logged in to our Web site). An IP address is a number that is assigned to your computer automatically when you use the Internet. When you visit a particular Web page in the Talksurgery.com Web site, our servers log your IP address.   
-
-
-|   
-  
----|---|---  
-  
-
+---|---|---
