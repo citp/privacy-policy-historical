@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the scholarships.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627135925id_/http%3A//www.scholarships.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarships.com privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126002427id_/http%3A//www.scholarships.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Scholarships.com - Privacy Policy
 
-##  February 2009
+##  July 2009
 
   
 
@@ -15,7 +15,7 @@ It is the responsibility of the user to make all necessary changes in their prof
 
 Users may make changes to the information in their personal profile at any time by logging in at [www.scholarships.com](http://www.scholarships.com/) and entering the email address and password they submitted when creating their profile. After users have logged in, they will be taken to their Scholarship Search Results. In the tabbed navigation at the top of the page is a link to "Profile". Click on that tab and you will be taken to a summary of your information, divided into sections. You will see an "Edit This Section" option in the upper-right corner of each section. Just click the "Edit This Section" link, and you will be able to modify and update your information. To protect the security and integrity of your information, we will take reasonable steps to verify your identity before providing access. 
 
-Users of Scholarships.com who wish to terminate their membership at Scholarships.com may do so at any time by contacting our [unsubscribe department](https://web.archive.org/web/20090627135925id_/http%3A//www.scholarships.com/ContactForm.aspx?mailto=unsub). Please be sure to type "Remove" in the subject field and submit the email account associated with your profile, along with your password. 
+Users of Scholarships.com who wish to terminate their membership at Scholarships.com may do so at any time by contacting our [unsubscribe department](https://web.archive.org/web/20091126002427id_/http%3A//www.scholarships.com/ContactForm.aspx?mailto=unsub). Please be sure to type "Remove" in the subject field and submit the email account associated with your profile, along with your password. 
 
 Scholarships.com is committed to safeguarding users' privacy on our website. We require our employees to protect the privacy of information about our users and visitors and expect our marketing partners to do the same. You can feel confident that your individually-identifiable information will be protected when you visit Scholarships.com. We have security measures in place to protect against the loss, misuse and alteration of the information under our control. 
 
@@ -31,13 +31,9 @@ To gauge the effectiveness of our website, we do collect some non-individually-i
 
 We may share statistical and demographic information about our website's visitors with our marketing partners. This information is only provided in the aggregate, meaning that the information is about our website's visitors as a group and not individually identifiable visitors. 
 
-##  Security Practices
-
-The security of your personal information is important to us. If you prefer to do so, you may use our "Secure Socket Layer" or "SSL" by clicking the padlock icon on our home page prior to entering your information. You can learn more about SSL by clicking here. 
-
 We follow generally-accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially-acceptable means to protect your personal information, we cannot guarantee its absolute security. 
 
-If you have any questions about security on our Web site, you can contact our [privacy department](https://web.archive.org/web/20090627135925id_/http%3A//www.scholarships.com/ContactForm.aspx?mailto=privp).
+If you have any questions about security on our Web site, you can contact our [privacy department](https://web.archive.org/web/20091126002427id_/http%3A//www.scholarships.com/ContactForm.aspx?mailto=privp).
 
 ##  Links to Other Websites
 
@@ -71,9 +67,9 @@ By displaying the TRUSTe trustmark, Scholarships.com has agreed to notify you of
 
 
 
-If you have questions or concerns regarding this statement, you should first contact Scholarships.com's [privacy department](https://web.archive.org/web/20090627135925id_/http%3A//www.scholarships.com/ContactForm.aspx?mailto=privp). . If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with Scholarships.com to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact Scholarships.com's [privacy department](https://web.archive.org/web/20091126002427id_/http%3A//www.scholarships.com/ContactForm.aspx?mailto=privp). . If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with Scholarships.com to resolve your concerns. 
 
-Scholarships.com has adopted privacy principles that state our commitment and define our policy on safeguarding visitor and user privacy when we conduct our business. Questions regarding this privacy policy statement, the practices of this website, or your dealings with Scholarships.com should be directed to Scholarships.com's [privacy department](https://web.archive.org/web/20090627135925id_/http%3A//www.scholarships.com/ContactForm.aspx?mailto=privp). Alternatively, you may contact us at: 
+Scholarships.com has adopted privacy principles that state our commitment and define our policy on safeguarding visitor and user privacy when we conduct our business. Questions regarding this privacy policy statement, the practices of this website, or your dealings with Scholarships.com should be directed to Scholarships.com's [privacy department](https://web.archive.org/web/20091126002427id_/http%3A//www.scholarships.com/ContactForm.aspx?mailto=privp). Alternatively, you may contact us at: 
 
 Privacy at Scholarships.com   
 Scholarships.com, LLC   
