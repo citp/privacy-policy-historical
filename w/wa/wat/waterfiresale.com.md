@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waterfiresale.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616060256id_/http%3A//www.waterfiresale.com/member/membership/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waterfiresale.com privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125102808id_/http%3A//www.waterfiresale.com/member/membership/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Water Fire Sale
 
