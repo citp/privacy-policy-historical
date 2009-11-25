@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the escapia.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418235632id_/http%3A//www.escapia.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escapia.com privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125022705id_/http%3A//www.escapia.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Escapia Vacation Rental Software & Property Management Solutions
 
