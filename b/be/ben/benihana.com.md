@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the benihana.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620032606id_/http%3A//www.benihana.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benihana.com privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125131744id_/http%3A//www.benihana.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Benihana
-
-Flash is required to view this page. 
 
   
 **PRIVACY POLICY**
