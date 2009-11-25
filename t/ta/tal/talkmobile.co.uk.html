@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the talkmobile.co.uk privacy policy that was archived on 2009-05-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090522194640id_/http%3A//www.talkmobile.co.uk/help/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the talkmobile.co.uk privacy policy that was archived on 2009-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091125164553id_/http%3A//www.talkmobile.co.uk/help/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
         <title>Talkmobile : Privacy Policy</title>
@@ -13,14 +13,12 @@
 		<meta content="Talkmobile-shop" name="Description">
 		<meta content="PH1, Mobile Phones, E-Commerce, Shop, Phone, Mobile, Talkmobile-shop, Accessory, Headset, Handsfree, Cover, Battery, Carkit, V600, V500, V60" name="Keywords">
 		<meta content="English" name="language">
-		<meta content="Talkmobile-shop in partnership with Dextra Solutions" name="author">
-		<meta content="2020 Caudwell Logistics" name="copyright">
+		<meta content="Talkmobile-shop in partnership with 2020 Mobile (UK) Limited" name="author">
+		<meta content="2020 Mobile (UK) Limited" name="copyright">
 		<meta name="verify-v1" content="CbOSUy8lcpnjjW3Tkkyjm7DpHtUZ0D2dKhQndDWcpuA=">
 		<meta name="y_key" content="3c2c93e110eaa0d0">
 		<meta name="verify-v1" content="SMaPtD0E6TlqBnzjowJRm0DW2GbccNx0e4JPgCQeocU=">
 		<meta name="y_key" content="dd6756c15998f9fa">
-
-
 
 		<!-- new java scripts here -->
 		<link title="Home Page" href="http://www.talkmobile.co.uk/" rel="start">
@@ -30,17 +28,16 @@
         <script src="http://www.talkmobile.co.uk/scripts/thickbox-compressed.js" type="text/javascript"></script>
         
         
-        <script src="http://www.talkmobile.co.uk/scripts/jquery.cookie.js" type="text/javascript"></script>
-        <script src="http://www.talkmobile.co.uk/scripts/jquery.form.js" type="text/javascript"></script>
-        
-        
+        <!-- script src="http://www.talkmobile.co.uk/scripts/jquery.cookie.js" type="text/javascript"></script -->
+        <!-- script src="http://www.talkmobile.co.uk/scripts/jquery.form.js" type="text/javascript"></script -->
+                
         <script type="text/javascript">
             jQuery.noConflict();
         </script>
 	    
 		
 		<!-- java scripts here -->
-		<script src="http://www.talkmobile.co.uk/scripts/ajax.js" type="text/javascript"></script>
+		<!-- script src="http://www.talkmobile.co.uk/scripts/ajax.js" type="text/javascript"></script -->
 		<script src="http://www.talkmobile.co.uk/scripts/scripts.js" type="text/javascript"></script>
 		
 		<!-- shortcut icon -->
@@ -53,109 +50,58 @@
         <link rel="stylesheet" type="text/css" href="http://www.talkmobile.co.uk/css/print.css" media="print">
         <link rel="stylesheet" type="text/css" href="http://www.talkmobile.co.uk/css/thickbox.css">
         <link rel="stylesheet" type="text/css" href="http://www.talkmobile.co.uk/css/pop.css">
-        <link rel="stylesheet" type="text/css" href="http://www.talkmobile.co.uk/css/format.css">
-
-       
+        <link rel="stylesheet" type="text/css" href="http://www.talkmobile.co.uk/css/format.css?1">
+        
+        <link rel="stylesheet" type="text/css" href="http://www.talkmobile.co.uk/css/july09.css?1">
        
         <script type="text/javascript">
-            jQuery(document).ready(function($){
-                jQuery('h1.flashTxt').flash({ 
-                    src: 'http://www.talkmobile.co.uk/flash/helveticaRounded.swf', 
-                    wmode: 'transparent'
-                },
-                { version: 8},
-                function(htmlOptions) {
-                    htmlOptions.flashvars.txt = this.innerHTML;;
-                    this.innerHTML = '<div>'+this.innerHTML+'</div>';
-                    var $alt = $(this.firstChild);
-                    //htmlOptions.flashvars.css = '* { color: '+rgbToHex($alt.css('color'))+'; }';
-                    htmlOptions.flashvars.css = '* { color: #333092; }';
-                    htmlOptions.height = $alt.height();
-                    htmlOptions.width = $alt.width();
-                    $alt.addClass('alt');
-                    $(this)
-                        .addClass('flash-replaced')
-                        .prepend($.fn.flash.transform(htmlOptions));						
-                });
-                
+    //NOTE:ReplaceTextWithFlashText used in details_package page
+    function ReplaceTextWithFlashText(elementPath, color)
+    {
+        jQuery(elementPath).flash(
+        { 
+            src: 'http://www.talkmobile.co.uk/flash/helveticaRounded.swf', 
+            wmode: 'transparent'
+        },
+        { 
+            version: 8
+        },
+        function(htmlOptions) 
+        {
+            htmlOptions.flashvars.txt = this.innerHTML;;
+            this.innerHTML = '<div>'+this.innerHTML+'</div>';
+            var alt = jQuery(this.firstChild);
+            //htmlOptions.flashvars.css = '* { color: '+rgbToHex($alt.css('color'))+'; }';
+            htmlOptions.flashvars.css = '* { color: ' + color + '; }';
+            htmlOptions.height = alt.height();
+            htmlOptions.width = alt.width();
+            alt.addClass('alt');
+            jQuery(this)
+                .addClass('flash-replaced')
+                .prepend(jQuery.fn.flash.transform(htmlOptions));
+        });
 
-                jQuery('h2.flashTxt').flash({ 
-                    src: 'http://www.talkmobile.co.uk/flash/helveticaRounded.swf', 
-                    wmode: 'transparent'
-                },
-                { version: 8},
-                function(htmlOptions) {
-                    htmlOptions.flashvars.txt = this.innerHTML;;
-                    this.innerHTML = '<div>'+this.innerHTML+'</div>';
-                    var $alt = $(this.firstChild);
-                    //htmlOptions.flashvars.css = '* { color: '+rgbToHex($alt.css('color'))+'; }';
-                    htmlOptions.flashvars.css = '* { color: #F7931E; }';
-                    htmlOptions.height = $alt.height();
-                    htmlOptions.width = $alt.width();
-                    $alt.addClass('alt');
-                    $(this)
-                        .addClass('flash-replaced')
-                        .prepend($.fn.flash.transform(htmlOptions));						
-                });
-                
+    }        
 
-                jQuery('h2.flashTxt2').flash({ 
-                    src: 'http://www.talkmobile.co.uk/flash/helveticaRounded.swf', 
-                    wmode: 'transparent'
-                },
-                { version: 8},
-                function(htmlOptions) {
-                    htmlOptions.flashvars.txt = this.innerHTML;;
-                    this.innerHTML = '<div>'+this.innerHTML+'</div>';
-                    var $alt = $(this.firstChild);
-                    //htmlOptions.flashvars.css = '* { color: '+rgbToHex($alt.css('color'))+'; }';
-                    htmlOptions.flashvars.css = '* { color: #333092; }';
-                    htmlOptions.height = $alt.height();
-                    htmlOptions.width = $alt.width();
-                    $alt.addClass('alt');
-                    $(this)
-                        .addClass('flash-replaced')
-                        .prepend($.fn.flash.transform(htmlOptions));						
-                });
-                
-
-                jQuery('h3.flashTxt').flash({ 
-                    src: 'http://www.talkmobile.co.uk/flash/helveticaRounded.swf', 
-                    wmode: 'transparent'
-                },
-                { version: 8},
-                function(htmlOptions) {
-                    htmlOptions.flashvars.txt = this.innerHTML;;
-                    this.innerHTML = '<div>'+this.innerHTML+'</div>';
-                    var $alt = $(this.firstChild);
-                    //htmlOptions.flashvars.css = '* { color: '+rgbToHex($alt.css('color'))+'; }';
-                    htmlOptions.flashvars.css = '* { color: #F7931E; }';
-                    htmlOptions.height = $alt.height();
-                    htmlOptions.width = $alt.width();
-                    $alt.addClass('alt');
-                    $(this)
-                        .addClass('flash-replaced')
-                        .prepend($.fn.flash.transform(htmlOptions));						
-                });
-                
-                
-                
-                $("img.rollover").hover(
-                    function(){
-                        this.src = this.src.replace("_off","_on");
-                    },
-                    function(){
-                        this.src = this.src.replace("_on","_off");
-                    }
-                );
-            });
-        </script>
+    jQuery(document).ready(function()
+    {
+        ReplaceTextWithFlashText('h1.flashTxt',  '#333092');
+        ReplaceTextWithFlashText('h2.flashTxt',  '#F7931E');
+        ReplaceTextWithFlashText('h2.flashTxt2', '#333092');
+        ReplaceTextWithFlashText('h3.flashTxt',  '#F7931E');                                                               
         
-
-        <!--[if lte IE 6]>
-            <link rel="stylesheet" type="text/css" href="http://www.talkmobile.co.uk/css/dropdown_ie.css" />
-        <![endif]-->
-        
+        jQuery("img.rollover").hover(
+            function()
+            {
+                this.src = this.src.replace("_off","_on");
+            },
+            function()
+            {
+                this.src = this.src.replace("_on","_off");
+            }
+        );
+    });
+</script>
         <!--[if gte IE 5.5]>
             <![if lt IE 7]>
                 <style type="text/css">
@@ -165,8 +111,6 @@
         <![endif]-->
 
             
-            <link rel="stylesheet" type="text/css" href="http://www.talkmobile.co.uk/css/dropdown_ie.css">
-
 </head>
 <body id="privacypolicy">
         <div id="bgImage">
@@ -186,18 +130,8 @@
 <div style="position:relative;">
     <div id="logoContainer"><a href="http://www.talkmobile.co.uk/" title="click here to go to our homepage"><img src="/images/new/logo.gif" alt="talkmobile logo"></a></div>
     
-    <div id="headerBanner">
-        <div id="headerFlash"></div>
-        <script type="text/javascript">
-            jQuery('#headerFlash').flash(null, version=8, function(htmlOptions) {        
-                var $this = jQuery(this);
-                htmlOptions.src = 'http://www.talkmobile.co.uk/homepagepromo.swf';
-                htmlOptions.width = '385';
-                htmlOptions.height = '127';  
-                htmlOptions.wmode = 'transparent';        
-                $this.addClass('flash-replaced').prepend(jQuery.fn.flash.transform(htmlOptions));
-            });
-        </script>
+    <div id="headerBanner" class="affiliateHide">
+        <a href="http://www.talkmobile.co.uk/pay_as_you_go.html"><img src="/images/new/comp-promo-banner.gif"></a>
     </div>
     
     <div id="userArea">
@@ -213,25 +147,32 @@
       <ul class="nav">
         <li><a href="http://www.talkmobile.co.uk/index.html" class="navi_NetworkHome"><span class="label">Talkmobile Network Home</span></a></li>
         <li><a href="http://www.talkmobile.co.uk/price_plans.html" class="hide navi_Shop dd_trigger"><span class="label">Shop</span></a>
-            <ul>
-                <li><span class="label orange bold padding">Available Online</span></li>
+            <ul> 
+                <li><span class="label orange bold padding">Pay As You Go</span></li>
+                <li><a href="http://www.talkmobile.co.uk/pay_as_you_go.html"><span class="label">NEW! - Pay As You Go SIM only</span></a></li>
+                <li><a href="http://www.talkmobile.co.uk/handsets.html"><span class="label">NEW! -  Pay As You Go Phones</span></a></li>
+                
+                <li class="affiliateHide"><span class="label orange bold padding">Pay Monthly</span></li>
+                <li class="affiliateHide"><a href="http://www.talkmobile.co.uk/simple.html"><span class="label">Pay monthly 1 month contracts</span></a></li>
+                <li class="affiliateHide"><a href="http://www.talkmobile.co.uk/paymonthly24.html"><span class="label">Pay monthly 24 month contracts</span></a></li>
+                <li class="affiliateHide"><a href="http://www.talkmobile.co.uk/pay_monthly_mobiles.html"><span class="label">Pay monthly Mobile Phones</span></a></li>
+                
+            
+                <li><span class="label orange bold padding">Other Tariff information</span></li>
                 <li><a href="http://www.talkmobile.co.uk/world.html"><span class="label">World - Cheap international calls</span></a></li>
                 <li><a href="http://www.talkmobile.co.uk/prepay.html"><span class="label">Prepay - Cheap UK calls</span></a></li>
-                <li class="affiliateHide"><span class="label orange bold padding">Instore Only</span></li>
-                <li class="affiliateHide"><a href="http://www.talkmobile.co.uk/control.html"><span class="label">Control – Manage your spending</span></a></li>
-                <li class="affiliateHide"><span class="label orange bold padding">Existing Pay Monthly Customers</span></li>
-                <li class="affiliateHide"><a href="http://www.talkmobile.co.uk/pay_monthly.html"><span class="label">Pay Monthly – Contract</span></a></li>
+                <li class="affiliateHide"><a href="http://www.talkmobile.co.uk/pay_monthly.html"><span class="label">Pay Monthly - Contract from 2007 </span></a></li>
             </ul>
         </li>
         <li><a href="http://www.talkmobile.co.uk/our_services.html" class="hide navi_OurServices dd_trigger"><span class="label">Our Services</span></a>
             <ul>
                 <li><a href="http://www.talkmobile.co.uk/price_plans.html" title="Price plans"><span class="label">Price plans</span></a></li>
                 <li><a href="http://www.talkmobile.co.uk/get_your_settings.html" title="Get your settings"><span class="label">Get your settings</span></a></li>
+                <li><a href="http://www.talkmobile.co.uk/mobile_money.html" title="Mobile Money"><span class="label">Mobile Money</span></a></li>
                 <li><a href="http://www.talkmobile.co.uk/checkmybalance.html" title="Check my balance"><span class="label">Check my balance</span></a></li>
                 <li><a href="http://www.talkmobile.co.uk/mobile_internet.html" title="Mobile Internet"><span class="label">Mobile Internet</span></a></li>
                 <li><a href="http://www.talkmobile.co.uk/roaming.html" title="International calls / roaming rate"><span class="label">International calls / roaming rate</span></a></li>
                 <li><a href="http://www.talkmobile.co.uk/coverage.html" title="UK coverage"><span class="label">UK coverage</span></a></li>
-                <li><a href="http://www.talkmobile.co.uk/talk_mobile_backup.html" title="Backup - save your numbers"><span class="label">Backup - save your numbers</span></a></li>
                 <li><a href="http://www.talkmobile.co.uk/where_to_buy.html" title="Where to buy"><span class="label">Where to buy</span></a></li>
                 <li><a href="http://www.talkmobile.co.uk/voicemail.html" title="Voicemail"><span class="label">Voicemail</span></a></li>
                 <li><a href="http://www.talkmobile.co.uk/premium_rate_content.html" title="Premium rate content"><span class="label">Premium rate content</span></a></li>
@@ -312,38 +253,67 @@
                         <div id="leftNav">
                             
 
-<div class="navBack">
-    <h4>
-        Online support.
-        <span class="navSupport"></span>
-    </h4>
-    <br>
-    <b>Help &amp; Support</b>
-    <ul>
-        <li><a href="http://www.talkmobile.co.uk/contact_details.html" title="Contact us">Contact us</a></li>
-        <li><a href="http://www.talkmobile.co.uk/help/faqs.html" title="FAQs">FAQ´s</a></li>
-        <li><a href="http://www.talkmobile.co.uk/coverage.html" title="Check your coverag">Check your coverage</a></li>
-    </ul>
-    <b>Your mobile phone</b>
-    <ul>
-        <li><a href="http://www.talkmobile.co.uk/get_your_settings.html" title="Get your phone settings">Get your phone settings</a></li>
-        <li><a href="http://www.talkmobile.co.uk/topup.html" title="How to Top-up">How to Top-up</a></li>
-        <li><a href="http://www.talkmobile.co.uk/voicemail.html" title="Voicemail">Voicemail</a></li>
-        <li><a href="http://www.talkmobile.co.uk/mobile_internet.html" title="Mobile internet">Mobile internet</a></li>
-        <li><a href="http://www.talkmobile.co.uk/checkmybalance.html" title="Check your balance">Check your balance</a></li>
-        <li><a href="http://www.talkmobile.co.uk/talk_mobile_backup.html" title="Backup - save your numbers">Backup - save your numbers</a></li>
-    </ul>
-</div>
+	<div class="panel_group" style="width:221px;">
+		<div>
+			<div class="panel_header">
+				<div class="panel_header_inner">
+					<h2 class="panel_header_text">Help &amp; support</h2>
+				</div>
+			</div>
+			<div class="panel_content">
+				<div class="panel_content_inner">
+					<ul>
+						<li><a href="http://www.talkmobile.co.uk/pay_as_you_go.html"><span class="bold">NEW!</span> -  Pay As You Go SIM only</a></li>
+						<li><a href="http://www.talkmobile.co.uk/handsets.html"><span class="bold">NEW!</span> -  Pay As You Go Phones</a></li>
+						<li><a href="http://www.talkmobile.co.uk/simple.html">Pay Monthly 1 month contracts</a></li>
+						<li><a href="http://www.talkmobile.co.uk/paymonthly24.html">Pay Monthly 24 month contracts</a></li>
+						<li><a href="http://www.talkmobile.co.uk/pay_monthly_mobiles.html">Pay Monthly phones</a></li>
+						<li><a href="http://www.talkmobile.co.uk/where_to_buy.html">Where to buy?</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>	
+	
+		<div>
+			<div class="panel_header">
+				<div class="panel_header_inner">
+					<h2 class="panel_header_text">Other services</h2>
+				</div>
+			</div>
+			<div class="panel_content">
+				<div class="panel_content_inner">
+					<ul>
+                        <li><a href="http://www.talkmobile.co.uk/get_your_settings.html" title="Get your phone settings">Get your phone settings</a></li>
+                        <li><a href="http://www.talkmobile.co.uk/topup.html" title="How to Top-up">How to Top-up</a></li>
+                        <li><a href="http://www.talkmobile.co.uk/voicemail.html" title="Voicemail">Voicemail</a></li>
+                        <li><a href="http://www.talkmobile.co.uk/mobile_internet.html" title="Mobile internet">Mobile internet</a></li>
+                        <li><a href="http://www.talkmobile.co.uk/checkmybalance.html" title="Check your balance">Check your balance</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
 
-<div class="promo">
-    <a href="http://www.talkmobile.co.uk/online_topup.html" title="Online top-up">
-        <img src="/images/new/banners/banner_4c_off.gif" class="rollover" alt="Online top-up">
-    </a>
-    <br>
-    <a href="http://www.talkmobile.co.uk/mobile_internet.html" title="Mobile internet">
-        <img src="/images/new/banners/banner_6c_off.gif" class="rollover" alt="Mobile internet">
-    </a>
-</div>
+
+		<div>
+			<div class="panel_header">
+				<div class="panel_header_inner">
+					<h2 class="panel_header_text">Talkmobile Shop</h2>
+				</div>
+			</div>
+			<div class="panel_content">
+				<div class="panel_content_inner">
+					<ul>
+						<li><a href="http://www.talkmobile.co.uk/pay_as_you_go.html"><span class="bold">NEW!</span> -  Pay As You Go SIM only</a></li>
+						<li><a href="http://www.talkmobile.co.uk/simple.html">Pay Monthly 1 month contracts</a></li>
+						<li><a href="http://www.talkmobile.co.uk/paymonthly24.html">Pay Monthly 24 month contracts</a></li>
+						<li><a href="http://www.talkmobile.co.uk/pay_monthly_mobiles.html">Pay Monthly phones</a></li>
+						<li><a href="http://www.talkmobile.co.uk/where_to_buy.html">Where to buy?</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+		
                         </div>
                         <!-- end left column -->
                         
@@ -497,7 +467,7 @@ pageTracker._initData();
 pageTracker._trackPageview();
 </script>
 <!-- Close Google Analytics Information -->
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1MjI2NDg3Ng9kFgICAxBkZBYCAgEPZBYCZg8PFgIeB1Zpc2libGVoZBYEAgEPZBYCAgEPZBYCZg9kFgICAQ9kFgpmDxUIBsKjMC4wMBxodHRwOi8vd3d3LnRhbGttb2JpbGUuY28udWsvHGh0dHA6Ly93d3cudGFsa21vYmlsZS5jby51ay8BMAbCozAuMDAcaHR0cDovL3d3dy50YWxrbW9iaWxlLmNvLnVrLxxodHRwOi8vd3d3LnRhbGttb2JpbGUuY28udWsvHGh0dHA6Ly93d3cudGFsa21vYmlsZS5jby51ay9kAgEPFgIfAGhkAgIPFQEcaHR0cDovL3d3dy50YWxrbW9iaWxlLmNvLnVrL2QCAw8WAh8AaGQCBQ8WAh8AaGQCAw9kFgICAQ9kFgJmD2QWAgIBD2QWBGYPFQIBMAbCozAuMDBkAgEPFgIfAGhkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBRxwcmltYXJ5TmF2aWdhdGlvbjEkYnRuU2VhcmNo"></form>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1MjI2NDg3Ng9kFgICAxBkZBYCAgEPZBYCZg8PFgIeB1Zpc2libGVoZBYEAgEPZBYCAgEPZBYCZg9kFgICAQ9kFgwCAQ8WAh8AaBYCZg8VAQbCozAuMDBkAgIPFQgGwqMwLjAwHGh0dHA6Ly93d3cudGFsa21vYmlsZS5jby51ay8caHR0cDovL3d3dy50YWxrbW9iaWxlLmNvLnVrLwEwBsKjMC4wMBxodHRwOi8vd3d3LnRhbGttb2JpbGUuY28udWsvHGh0dHA6Ly93d3cudGFsa21vYmlsZS5jby51ay8caHR0cDovL3d3dy50YWxrbW9iaWxlLmNvLnVrL2QCAw8WAh8AaGQCBA8VARxodHRwOi8vd3d3LnRhbGttb2JpbGUuY28udWsvZAIFDxYCHwBoZAIHDxYCHwBoZAIDD2QWAgIBD2QWAmYPZBYCAgEPZBYEZg8VAgEwBsKjMC4wMGQCAQ8WAh8AaGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFHHByaW1hcnlOYXZpZ2F0aW9uMSRidG5TZWFyY2g="></form>
         </div>
     
 
