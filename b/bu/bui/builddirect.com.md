@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the builddirect.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616201330id_/http%3A//www.builddirect.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the builddirect.com privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125174102id_/http%3A//www.builddirect.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # BuildDirect - Privacy Policy
+
+  | 
 
 **APPLICATION OF THIS POLICY**   
 BuildDirect.com Technologies ("BuildDirect") recognizes the importance of privacy and the sensitivity of Personal Information (as defined below). BuildDirect believes in protecting your privacy. This policy outlines how we manage your Personal Information and safeguard your privacy.   
@@ -114,6 +116,10 @@ We are committed to providing personalized products and services to you. In orde
 
 **Fetchback Retargeted Ads**
 
+**ClickTale Site Activity Monitoring**
+
+At times, we may use ClickTale's web analytics service on some pages to better inform web design and usability. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type on our website. The collection of any fields with personal data or fields with data that may contain sensitive information has been disabled. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see, [Privacy Policy for Information Collected by the ClickTale Web Analytics Service ](http://www.clicktale.com/privacy_service.aspx). You can choose to disable the Service at [http://www.clicktale.net/disable.htm ](http://www.clicktale.net/disable.html). 
+
 We work with Fetchback to display Retargeted ads to our site prospects, on our behalf, across the Internet. They collect non-personally identifiable information about your visits to our website, and your interaction with our products and services. The anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. No personally identifiable information is collected during this process. To read Fetchback’s privacy policy,[ click here](http://www.fetchback.com/privacy.html). If you do not want Fetchback to collect this information, you may opt out of their service. Opting out will not effect your use of our site. To opt-out of Fetchback Retargeting, please [click here](http://www.fetchback.com/optout.html). Visit the Network Advertising Initiatives opt-out by [clicking here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 **IS YOUR PERSONAL INFORMATION SECURE?**
@@ -153,3 +159,5 @@ Should you have any further questions or concerns about the privacy of personal 
 
   
 Last revised   December 14, 2006
+
+|  
