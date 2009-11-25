@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topbucks.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603103839id_/http%3A//www.topbucks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topbucks.com privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125211511id_/http%3A//www.topbucks.com/privacy.php) for the most accurate reproduction.*
 
 # TopBucks Reloaded
 
@@ -16,4 +16,4 @@ Should you decide to close your TopBucks account, simply email us and our suppor
 
 To remove yourself from the TopBucks webmaster mailing list, please send us an email or go to [ http://www.topbucks.com/removeme.php](http://www.topbucks.com/removeme.php) and follow the instructions listed there. 
 
-TopBucks.com/TBAS values your participation and patronage. If you have any questions regarding this privacy policy, feel free contact us at [support@topbucks.com](https://web.archive.org/web/20090603103839id_/http%3A//www.topbucks.com/support@topbucks.com)
+TopBucks.com/TBAS values your participation and patronage. If you have any questions regarding this privacy policy, feel free contact us at [support@topbucks.com](https://web.archive.org/web/20091125211511id_/http%3A//www.topbucks.com/support@topbucks.com)
