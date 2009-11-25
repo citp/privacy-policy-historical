@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idaho.gov privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624224711id_/http%3A//www.idaho.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idaho.gov privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125232514id_/http%3A//www.idaho.gov/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Idaho.gov
 
@@ -109,6 +109,6 @@ Idaho.gov has links to other websites, including links to web sites operated by 
 
 ### Contact Information
 
-To offer comments about Idaho.gov or this Portal Privacy Notice, please see ITRMC's [contact information](http://www2.state.id.us/itrmc/plan&policies/Policies/p1020.htm#Policy1020_For_More_Information).
+To offer comments about Idaho.gov or this Portal Privacy Notice, please see ITRMC's [contact information](http://www2.state.id.us/itrmc/contact.htm).
 
-[Full Text of State Policy](http://www2.state.id.us/itrmc/plan&policies/Policies/p1020.htm)
+[Full Text of State Policy](http://www2.state.id.us/itrmc/plan&policies/Policies/P1020.pdf) [PDF]
