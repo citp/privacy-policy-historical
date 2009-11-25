@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the videojug.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531075433id_/http%3A//www.videojug.com/terms/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videojug.com privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125044128id_/http%3A//www.videojug.com/terms/privacystatement) for the most accurate reproduction.*
 
-# Privacy Statement - VideoJug
+# Privacy Statement - Videojug
 
 This Privacy Policy is applicable to any personal information, which is given by You to Us ("User Information") via the web site located at www.videojug.com ("Site"). This Policy is devised to help you feel more confident about the privacy and security of your personal details. 
 
-"You" shall mean you, the user of the Site. "We/Us" means VideoJug Corporation Limited. "Users" means the users of the Site collectively and/or individually as the context allows. 
+"You" shall mean you, the user of the Site. "We/Us" means Videojug Corporation Limited. "Users" means the users of the Site collectively and/or individually as the context allows. 
 
 We process personal data only in strict compliance with the Data Protection Act 1998 and associated legislation.
 
@@ -32,9 +32,7 @@ Please also note that we do not disclose your personal information to third part
 
 ###  Cookies
 
-You should be aware that information and data may be automatically collected through the use of Cookies. "Cookies" are small text files that store basic information that a web site can use to recognise repeat site visits and as an example, recall your name if this has been previously supplied. We may use this to observe behaviour and compile aggregate data in order to improve the Site, target the advertising and assess general effectiveness of such advertising. 
-
-Cookies do not attach to Your system and damage Your files. If You do not want information collected through the use of Cookies, there is a simple procedure in most browsers that allows You to deny or accept the Cookie feature. Note, however, that "personalised" services may be affected if the cookie option is disabled. 
+You should be aware that information and data may be automatically collected through the use of Cookies. "Cookies" are small text files that store basic information that a web site can use to recognise repeat site visits and as an example, recall your name if this has been previously supplied. Videojug and selected business partners may use this to observe behaviour and compile aggregate data in order to provide advertisements about goods and services of interest to you on Videojug and other sites. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://networkadvertising.org/managing/opt_out.asp>. 
 
 ###  Advertising 
 
@@ -50,10 +48,10 @@ We will comply with all relevant Data Protection legislation in relation to the 
 
 You may notify Us of any updates, amendments and corrections to previously collected User Information by using the Feedback Form link in the Contact Us section of the site.
 
-We may change this privacy policy from time to time and you should check these regularly. Your use of the VideoJug Site will be deemed an acceptance of the privacy policy existing at that time.
+We may change this privacy policy from time to time and you should check these regularly. Your use of the Videojug Site will be deemed an acceptance of the privacy policy existing at that time.
 
 ###  Contact 
 
 Any queries or comments about this policy should be forwarded to [ info@videojug.com](mailto:info@videojug.com). If you have any complaints email [ abuse@videojug.com](mailto:abuse@videojug.com).
 
-VideoJug Corporation Limited (VideoJug) is a registered company in England whose registered office is 1 Park Place, Canary Wharf, London E14 4HJ, and whose registered company number is 05655696.
+Videojug Corporation Limited (Videojug) is a registered company in England whose registered office is 1 Park Place, Canary Wharf, London E14 4HJ, and whose registered company number is 05655696.
