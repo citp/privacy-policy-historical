@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petri.co.il privacy policy that was archived on 2009-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090410103450id_/http%3A//www.petri.co.il/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petri.co.il privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125072447id_/http%3A//www.petri.co.il/privacy_policy) for the most accurate reproduction.*
 
 # Petri.il.co Privacy Policy
 
