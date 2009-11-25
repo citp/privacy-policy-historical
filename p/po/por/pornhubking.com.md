@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the pornhubking.com privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529052031id_/http%3A//www.pornhubking.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornhubking.com privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125162444id_/http%3A//www.pornhubking.com/static/privacy) for the most accurate reproduction.*
 
-# Porn Hub King - King of All Porns - Watch and Download Full Free Porn Videos and DVDs - Sex, Porno, Porn Tube - Sex Tube, Watch Free Porns, Porno Tube
+# PornHub King - Watch, Download and Upload Porn Videos & DVDs Free
+
+## PRIVACY
 
 This document details important information regarding the use and disclosure of User Data collected on PornHubKing.com 
 
