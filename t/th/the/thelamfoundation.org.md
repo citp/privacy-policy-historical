@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelamfoundation.org privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527083421id_/http%3A//www.thelamfoundation.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelamfoundation.org privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125141309id_/http%3A//thelamfoundation.org/privacy-policy.html) for the most accurate reproduction.*
 
 # The LAM Foundation | Privacy Policy
 
