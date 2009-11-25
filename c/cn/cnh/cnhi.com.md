@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cnhi.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420002225id_/http%3A//www.cnhi.com/homepage/resources_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnhi.com privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125165043id_/http%3A//www.cnhi.com/homepage/resources_privacypolicy) for the most accurate reproduction.*
 
 # Community Newspaper Holdings, Inc. - Community Newspaper Holdings, Inc. (CNHI) - Homepage
 
@@ -48,9 +48,6 @@ We have policies and procedures in place to protect the privacy and confidential
 
 News from CNHI
 
-  
-
-
 Click Here To View Our Local Papers  
   
 ---  
@@ -72,7 +69,6 @@ FLORIDA
 
 
 Non-daily & other publications located in Florida:  
-•   [The Branford News, Branford, FL](http://www.suwanneedemocrat.com/branford)   
 •   [The Jasper News, Jasper, FL](http://www.suwanneedemocrat.com/jasper)   
 •   [Suwannee Democrat, Live Oak, FL](http://suwanneedemocrat.com/)   
 •   [The Mayo Free Press, Mayo, FL](http://suwanneedemocrat.com/mayo)   
@@ -80,7 +76,6 @@ Non-daily & other publications located in Florida:
 
 GEORGIA   
 •   [Americus Times Recorder, Americus, GA ](http://americustimesrecorder.com/)   
-•   [Cordele Dispatch, Cordele, GA ](http://cordeledispatch.com/)   
 •   [The Daily Citizen, Dalton, GA ](http://daltondailycitizen.com/)   
 •   [The Union-Recorder, Milledgeville, GA ](http://unionrecorder.com/)   
 •   [The Moultrie Observer, Moultrie, GA ](http://moultrieobserver.com/)   
@@ -88,11 +83,13 @@ GEORGIA
 •   [The Tifton Gazette, Tifton, GA ](http://tiftongazette.com/)   
 •   [Valdosta Daily Times, Valdosta, GA ](http://valdostadailytimes.com/)
 
-Non-daily & other publications located in Georgia: 
+Non-daily & other publications located in Georgia:   
+•   [Cordele Dispatch, Cordele, GA ](http://cordeledispatch.com/)
 
 IOWA   
 •   [Ad Express & Daily Iowegian, Centerville, IA ](http://dailyiowegian.com/)   
 •   [Clinton Herald, Clinton, IA ](http://clintonherald.com/)   
+•   [Cordele Dispatch, Cordele, GA ](http://cordeledispatch.com/)   
 •   [The Oskaloosa Herald, Oskaloosa, IA ](http://oskaloosaherald.com/)   
 •   [Ottumwa Daily Courier, Ottumwa, IA ](http://ottumwacourier.com/)
 
@@ -105,11 +102,11 @@ ILLINOIS
 •   [Commercial News, Danville, IL ](http://commercial-news.com/)   
 •   [Effingham Daily News, Effingham, IL ](http://effinghamdailynews.com/)   
 •   [Mt. Vernon Register News, Mt. Vernon, IL ](http://register-news.com/)   
-•   [Shelbyville Daily Union, Shelbyville, IL ](http://shelbyvilledailyunion.com/)
+
 
 Non-daily publications:  
 •   [Times-Leader, McLeansboro, IL](http://mcleansborotimesleader.com/)   
-
+•   [Shelbyville Daily Union, Shelbyville, IL ](http://shelbyvilledailyunion.com/)
 
 INDIANA   
 •   [The Herald Bulletin, Anderson, IN](http://heraldbulletin.com/)   
@@ -120,12 +117,12 @@ INDIANA
 •   [The Lebanon Reporter, Lebanon, IN ](http://reporter.net/)   
 •   [The Pharos-Tribune, Logansport, IN ](http://pharostribune.com/)   
 •   [The Tribune, New Albany, IN ](http://news-tribune.net/)   
-•   [Rushville Republican, Rushville, IN ](http://rushvillerepublican.com/)   
 •   [The Tribune Star, Terre Haute, IN ](http://tribstar.com/)   
 •   [Washington Times Herald, Washington, IN ](http://washtimesherald.com/)   
 
 
 Non-daily publications and other businesses in Indiana:  
+•   [Rushville Republican, Rushville, IN ](http://rushvillerepublican.com/)   
 •   [Hendricks County Flyer, Avon, IN](http://flyergroup.com/)   
 •   [XL Marketing, Carmel, IN](http://www.xl-marketing.com/)   
 •   [Batesville Herald-Tribune, Batesville, IN](http://batesvilleheraldtribune.com/)   
@@ -204,7 +201,6 @@ MISSISSIPPI
 
 Non-daily publications:  
 •   [The Star Herald, Koscuisko, MS](http://starherald.net/)   
-•   [The Newton Record, Newton, MS](http://thenewtonrecord.com/)   
 •   The Poplarville Democrat, Poplarville, MS  
 
 
