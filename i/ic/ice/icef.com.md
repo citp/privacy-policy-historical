@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icef.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523152009id_/http%3A//www.icef.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icef.com privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125231444id_/http%3A//www.icef.com/privacy-policy.html) for the most accurate reproduction.*
 
 # ICEF Student Fairs - Privacy Policy
 
