@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mediasharesuite.com privacy policy that was archived on 2009-04-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090414211019id_/http%3A//www.mediasharesuite.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mediasharesuite.com privacy policy that was archived on 2009-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091126050101id_/http%3A//www.mediasharesuite.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -11,28 +11,37 @@
 <meta name="revisit-after" content="1">
 <title>Privacy - Media Share Suite | Online Video, Audio &amp; Photo Sharing Script</title>
 
-<link rel="Shortcut Icon" type="image/ico" href="/favicon.ico">
+<link rel="Shortcut Icon" type="image/png" href="/favicon.png">
 <link rel="stylesheet" type="text/css" href="/css/screen.css">
+<link rel="stylesheet" type="text/css" href="/networkbar/networkbar.css">
 
 <script type="text/javascript" src="/js/ajaxticker.js"></script>
 <script type="text/javascript" src="/js/swfobject.js"></script>
-
+<script type="text/javascript" src="/js/jquery.min.js"></script>
+<script type="text/javascript" src="/js/jcarousellite_1.0.1.pack.js"></script>
+<script type="text/javascript" src="/networkbar/BubbleTooltips.js"></script>
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-3568617-1");
-pageTracker._initData();
-pageTracker._trackPageview();
+window.onload=function(){enableTooltips()};
 </script>
 
-</head>
+
+<link class="undefined" type="text/css" rel="stylesheet" href="/networkbar/bt.css" media="screen" style="display: block;"></head>
 <body>
+
+<div id="networkbar">
+	<div id="logo"><a rel="nofollow" class="twitter" target="_blank" href="http://www.twitter.com/Envient"></a></div>
+	<div id="links">
+		<a rel="nofollow" class="clipshare" href="http://www.clip-share.com"></a>
+		<a rel="nofollow" class="mediashare" href="http://www.mediasharesuite.com"></a>
+		<a rel="nofollow" class="avs" href="http://www.adultvideoscript.com"></a>
+	
+	</div>
+</div>
+
 <div id="container-header">
 		<div id="header">
 			<p><a href="/">MediaShare | Video, Audio &amp; Photo Sharing Script</a></p>
-			<div style="position: relative; top: 22px; left: 280px; color: red;"><a href="/order/"><img src="http://www.mediasharesuite.com/images/xmas_offer.gif" alt="Holiday Specials" align="middle" border="0"></a></div>
+			<div style="position: relative; float: right; top: 29px; right: 42px;"><!-- Begin SupportSuite Javascript Code --><script language="javascript" src="http://helpdesk.mediasharesuite.com/visitor/index.php?_m=livesupport&amp;_a=htmlcode&amp;departmentid=0"></script><!-- End SupportSuite Javascript Code --></div>
 		</div>
 </div>
 <div id="container-out">
@@ -51,6 +60,7 @@ pageTracker._trackPageview();
 				<div id="flashcontent"></div>
 				<script type="text/javascript">
 				   var so = new SWFObject("/media.swf", "mymovie", "950", "150", "8", "#ffffff");
+				   so.addParam("wmode", "transparent");
 				   so.write("flashcontent");
 				</script>
 		</div>
@@ -72,11 +82,35 @@ pageTracker._trackPageview();
 				<li><a href="/products/mediashare/demo/">Live Demo</a></li>
 				<li><a href="/order/">Order</a></li>
 			</ul>
+
+			<ul>
+				<li><a href="/services/hosting/">Hosting</a></li>
+				<li><a href="/services/servers/">Servers</a></li>
+			</ul>
+
 			<ul>
 				<li><a href="http://client.mediasharesuite.com">Client Area</a></li>
 				<li><a href="http://helpdesk.mediasharesuite.com">Helpdesk</a></li>
 				<li><a href="http://forums.mediasharesuite.com">Community Forums</a></li>
 			</ul>
+
+						<div class="banner">
+			    <ul>
+			        <li><a rel="nofollow" href="http://www.clip-share.com" target="_blank"><img src="/images/banners/clipshare_125.gif" alt="" width="125" height="125"></a></li>
+					<li><a rel="nofollow" href="http://www.cirtexhosting.com/affiliates/idevaffiliate.php?id=534&amp;url=87" target="_blank"><img src="/images/banners/hosting_ms_125.gif" alt="" width="125" height="125"></a></li>
+					<li><a rel="nofollow" href="http://www.adultvideoscript.com" target="_blank"><img src="/images/banners/avs_125.gif" alt="" width="125" height="125"></a></li>
+			    </ul>
+			</div>
+			
+			<script>
+			$(function() {
+			    $(".banner").jCarouselLite({
+			auto: 3000,
+			speed: 400,
+			visible: 1,
+			start: 2			    });
+			});
+			</script>
 			</div>	
 			<div id="detailpage">
 				<h1>Privacy Policy</h1>		
@@ -96,9 +130,21 @@ pageTracker._trackPageview();
 
 <div id="container-footer">
 		<div id="footer">
-			<div class="left"><a href="/about/">About</a> : <a href="/privacy/">Privacy</a> : <a href="/products/mediashare/eula/">License Agreement</a> : <a href="/support/">Contact</a> : <a href="/sitemap/">Sitemap</a></div> <div class="right">Copyright © 2008 <a href="http://www.mediasharesuite.com">MediaShareSuite.com</a>. All Rights Reserved.</div>
+			<div class="left"><a href="/about/">About</a> : <a href="/privacy/">Privacy</a> : <a href="/products/mediashare/eula/">License Agreement</a> : <a href="/services/hosting/">Hosting</a> : <a href="/support/">Contact</a> : <a href="/sitemap/">Sitemap</a></div> <div class="right">Copyright © 2008-2009 <a href="http://www.mediasharesuite.com">MediaShareSuite</a>. All Rights Reserved.</div>
 		</div>
 </div>
 
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-10362492-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
 
-</body></html>
+<script language="JavaScript" type="text/javascript">var MerchantID = 'DANMEASH'</script><script language="JavaScript" type="text/javascript" src="https://secure.avangate.com/content/server.js"></script>
+
+
+<span id="btc" style="position: absolute; z-index: 1500;"></span></body></html>
