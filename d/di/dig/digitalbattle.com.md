@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the digitalbattle.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616183930id_/http%3A//digitalbattle.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalbattle.com privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126041223id_/http%3A//www.digitalbattle.com/about/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - Games, News, Reviews and more.
+# » Privacy Policy - DigitalBattle.com
+
+## Privacy Policy
 
 The types of personal information collected when posting a comment/contacting DigitalBattle:
 
@@ -34,6 +36,3 @@ The web server, on which this site is hosted, automatically records information 
 **How To Contact Us**
 
 Should you have other questions or concerns about these privacy policies, please contact us using our [Contact page](http://digitalbattle.com/contact/) or write an email to digitalbattle (at) gmail (dot) com
-
-Tags: [News](http://www.digitalbattle.com/category/news/ "News")  
-
