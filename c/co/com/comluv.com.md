@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the comluv.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620011506id_/http%3A//comluv.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comluv.com privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126190014id_/http%3A//comluv.com/about/privacy) for the most accurate reproduction.*
 
-# Comment Luv - Privacy
+# Privacy | Comment Luv
+
+## Privacy
 
 ## ComLuv Privacy Statement
 
@@ -33,3 +35,8 @@ I will share aggregated demographic information with partners and advertisers. T
 ### Customer Communications
 
 The site will send all new members a welcoming email to verify password and email address. Established Members will occasionally receive information on products, services, special deals, and a newsletter via email or letter mail as part of my customer communications which can be unsubscribed to at any time. In addition, I also send the user site and service announcement updates. Members are not able to unsubscribe from important customer communications sent via the site dashboard, which contain information about any changes to the service or terms that could affect your use of the site. 
+
+[Download The Plugin](http://comluv.com/download/ "Download our Plugin") [Register your sites](http://comluv.com/member/ "Register your sites")
+
+### Search Every CommentLuv Enabled Blog  
+(active in the past 7 days)
