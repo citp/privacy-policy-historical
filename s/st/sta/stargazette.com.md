@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stargazette.com privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527203225id_/http%3A//www.stargazette.com/apps/pbcs.dll/section%3FCategory%3DPRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stargazette.com privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126211920id_/http%3A//www.stargazette.com/apps/pbcs.dll/section%3FCategory%3DPRIVACY) for the most accurate reproduction.*
 
 # stargazette.com | Elmira PRIVACY | Star-Gazette
 
