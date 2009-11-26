@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3dmovies.com privacy policy that was archived on 2009-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090520235755id_/http%3A//3dmovies.com/atty/Privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dmovies.com privacy policy that was archived on 2009-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091127004412id_/http%3A//www.3dmovies.com/atty/Privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy of 3dmovies.com
 
