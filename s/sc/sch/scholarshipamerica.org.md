@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scholarshipamerica.org privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619201207id_/http%3A//scholarshipamerica.org/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarshipamerica.org privacy policy that was archived on 2009-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091127004800id_/http%3A//scholarshipamerica.org/privacy_policy.php) for the most accurate reproduction.*
 
 # Scholarship Programs - College Scholarships from Scholarship America .
 
@@ -11,7 +11,7 @@
 
 ## Donate Now!
 
-Over 1.5 million students have depended on Scholarship America. We depend on you. [Click to Donate Today!](https://web.archive.org/web/20090619201207id_/http%3A//scholarshipamerica.org/donate.php)
+Over 1.5 million students have depended on Scholarship America. We depend on you. [Click to Donate Today!](https://web.archive.org/web/20091127004800id_/http%3A//scholarshipamerica.org/donate.php)
 
 .......................
 
@@ -105,6 +105,6 @@ Over 1.5 million students have depended on Scholarship America. We depend on you
 ##   
 Families of Freedom Scholarship Fund 
 
-has helped hundreds of families affected by 9/11. Find out about this program and other special scholarship initiatives. [Learn more](https://web.archive.org/web/20090619201207id_/http%3A//scholarshipamerica.org/special-initiatives.php)
+has helped hundreds of families affected by 9/11. Find out about this program and other special scholarship initiatives. [Learn more](https://web.archive.org/web/20091127004800id_/http%3A//scholarshipamerica.org/special-initiatives.php)
 
 ................
