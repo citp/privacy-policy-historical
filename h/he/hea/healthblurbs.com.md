@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthblurbs.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525124627id_/http%3A//www.healthblurbs.com/healthblurbscom-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthblurbs.com privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126082916id_/http%3A//www.healthblurbs.com/healthblurbscom-privacy-policy) for the most accurate reproduction.*
 
 # Health Blurbs
 
@@ -10,17 +10,17 @@ At healthblurbs.com, we recognize that privacy of your personal information is i
 
 “Personally identifiable information” is any information that can identify or locate a particular person, including but not limited to name, address, telephone number, email address, social security number, bank account number or credit card number.  Healthblurbs.com does not collect this type of information.
 
-In general, you can visit healthblurbs.com without telling us who you are or providing any information about yourself. 
+In general, you can visit healthblurbs.com without telling us who you are or providing any information about yourself.
 
 **Log Files**
 
 As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
 
-**Cookies  **
+**Cookies**
 
 We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
 
-You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. 
+You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites.
 
 **Third Party Advertisers**
 
@@ -32,4 +32,6 @@ We use Google’s Adsense and other third party advertising companies to serve a
 
 
 
-Healthblurbs.com reserves the right to change the terms, conditions, and notices in this privacy policy. 
+We have contracted with ValueClick to monitor certain pages of our website for the purpose of reporting website traffic, statistics, advertisement ‘click-throughs’, and/or other activities on our website. Where authorized by us, ValueClick and its business partners may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to any party other than the Advertiser. For more information about how the information is collected and used by ValueClick, please see ValueClick’s privacy policy at <http://www.valueclickmedia.com/member_privacy.shtml>.
+
+Healthblurbs.com reserves the right to change the terms, conditions, and notices in this privacy policy.
