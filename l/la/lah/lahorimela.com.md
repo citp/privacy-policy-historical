@@ -1,8 +1,32 @@
-> *The following text is extracted and transformed from the lahorimela.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628002025id_/http%3A//www.lahorimela.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lahorimela.com privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126232445id_/http%3A//www.lahorimela.com/privacy-policy.php) for the most accurate reproduction.*
 
 # ..::LahoriMela.com::.. Privacy and Policy
 
-If you need more information about **LaHoRiMeLa.cOm** , Please **[Contact Us](https://web.archive.org/web/20090628002025id_/http%3A//www.lahorimela.com/contactus.php)**  
+| 
+
+..::LaHoRiMeLa.cOm::.. Free Chat, Shugal Mela Forums, Free Wallpapers Pakistani Songs, Free SMS, Free Jokes, Pakistani Recipes, Cook Book, Free Online Tv, Free Online Videos, Daily Horoscope, Send Lovely Greeting Cards And Lots More 
+
+|   
+---  
+|   |  | 
+
+**  Lahori Kartutein**  
+  
+---  
+  
+..::LaHoRiMeLa.cOm::.. Free Chat, Shugal Mela Forums, Free Wallpapers Pakistani Songs, Free SMS, Free Jokes, Pakistani Recipes, Cook Book, Free Online Tv, Free Online Videos, Daily Horoscope, Send Lovely Greeting Cards And Lots More 
+
+|   [ ](http://www.pakranks.com/)  
+---  
+  
+**  Total Hits  
+**  
+  
+   
+  
+| 
+
+If you need more information about **LaHoRiMeLa.cOm** , Please **[Contact Us](https://web.archive.org/web/20091126232445id_/http%3A//www.lahorimela.com/contactus.php)**  
 Any personal information you (”You”/”Member”) give us is treated confidentially and held with care and security. 
 
 Please read the following statement to understand how we use your personal information. This policy may change from time to time so please check back on a regular basis.
@@ -38,4 +62,15 @@ We use an outside ad company to display ads on our site. These ads may contain c
 This site contains links to other sites. **LaHoRiMeLa.cOm** is not responsible for the privacy practices or the content of such Web sites.  
 Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can **[Contact Us](https://web.archive.org/web/20090628002025id_/http%3A//www.lahorimela.com/contactus.php)**
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can **[Contact Us](https://web.archive.org/web/20091126232445id_/http%3A//www.lahorimela.com/contactus.php)**
+
+|    
+  | 
+
+LaHoRiMeLa.cOm Free Chat, Shugal Mela Forums, Free Wallpapers Pakistani Songs, Free SMS, Free Jokes, Pakistani Recipes, Cook Book, Free Online Tv, Free Online Videos, Daily Horoscope, Send Lovely Greeting Cards And Lots More. Its all about Lahore Da Mela  Online Users
+
+Copyright 2006 [LahoriMela.com](http://lahorimela.com/). All Rights are Reserved.
+
+Best Viewed at 800 X 600 Resolutions
+
+|  
