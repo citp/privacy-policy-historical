@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the monstercable.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603013422id_/http%3A//www.monstercable.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monstercable.com privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126130210id_/http%3A//www.monstercable.com/privacy) for the most accurate reproduction.*
 
 # Monster Cable - Privacy Policy
 
-| 
+MONSTER CABLE PRODUCTS, INC.
 
-**MONSTER CABLE PRODUCTS, INC.**  
-**Web Site Privacy Statement**  
+Web Site Privacy Statement
+
 Effective Date: Oct 07, 2004
 
 Monster Cable Products, Inc. and its corporate affiliates ("Monster" or "we") provide this Web Site Privacy Statement in order to demonstrate our commitment to respect your privacy. This Web Site Privacy Statement explains how we collect certain personal information at our Web Site at www.monstercable.com and any permutations thereof that directly link to this Website Privacy Statement ("Web Site"). This Web Site Privacy Statement also explains how we use and disclose such information - it does not, however, apply to our use of data that we collect otherwise (e.g., offline or through web sites of our foreign subsidiaries). If you do not agree with this Web Site Privacy Statement, please do not access or use our Web Site. 
