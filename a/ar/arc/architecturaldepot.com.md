@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the architecturaldepot.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523215559id_/http%3A//www.architecturaldepot.com/c/help-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architecturaldepot.com privacy policy that was archived on 2009-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091127004350id_/http%3A//www.architecturaldepot.com/c/help-privacy) for the most accurate reproduction.*
 
-# Privacy Policy: ArchitecturalDepot.com
+# ArchitecturalDepot.com: Your Privacy & Rights
 
 We Protect Your Privacy
 
