@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bediscreet.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620205647id_/http%3A//www.bediscreet.com/helpprivacy.asp%3Fs%3Ds) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bediscreet.com privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126042405id_/http%3A//www.bediscreet.com/helpprivacy.asp%3Fs%3Ds) for the most accurate reproduction.*
 
 # Married Dating at BeDiscreet.com
 
