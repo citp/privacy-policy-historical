@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rocketclicks.com privacy policy that was archived on 2009-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090414173023id_/http%3A//www.rocketclicks.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketclicks.com privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126184131id_/http%3A//www.rocketclicks.com/Privacy.htm) for the most accurate reproduction.*
 
 # Business Privacy Policy| Rocket Clicks
 
