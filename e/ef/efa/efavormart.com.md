@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efavormart.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417160330id_/http%3A//www.efavormart.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efavormart.com privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126015318id_/http%3A//www.efavormart.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # www.efavormart.com. - Privacy Policy
 
