@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the podfeed.net privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620001148id_/http%3A//www.podfeed.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the podfeed.net privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126141758id_/http%3A//www.podfeed.net/privacy.asp) for the most accurate reproduction.*
 
 # Podcast directory, podcast reviews and podcasting resource : Podfeed.net
 
