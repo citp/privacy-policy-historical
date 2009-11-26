@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the business24-7.ae privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619052918id_/http%3A//www.business24-7.ae/About/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the business24-7.ae privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126174621id_/http%3A//www.business24-7.ae/About/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Privacy Policy  
 ---  
 Use of information | Privacy | Use Of Cookies on a website | Third Party cookies | Use of Web Beacons | Disabling/Enabling Cookies | International Transfer of personal data | Further Information  
-This site is owned and operated by Arab Media Group Company L. L. C. ("AMG").  
-By accessing and using www.business24-7.ae (‘the Website’) you are agreeing to both the Terms & Conditions and this Privacy & Cookies Policy. You should therefore read both documents before using the Website in full. AMG is committed to protecting the privacy of users of this site. However, it is necessary to collect certain information about our users to ensure that our service is continually improved. We automatically collect some data about our users' browsing actions and patterns. This is aggregate data and does not identify any individual. Other personal information may be collected. This includes information provided voluntarily by users in the course of entering competitions, offers, and registering on the website, among other activities. When you contact us voluntarily – for example, by email – or have any financial dealings with us or our trading partners, this also gives us information about you.   
+By accessing and using www.business24-7.ae (‘the Website’) you are agreeing to both the Terms & Conditions and this Privacy & Cookies Policy. You should therefore read both documents before using the Website in full. Business24-7.ae is committed to protecting the privacy of its users. However, it is necessary to collect certain information about our users to ensure that our service is continually improved. We automatically collect some data about our users' browsing actions and patterns. This is aggregate data and does not identify any individual. Other personal information may be collected. This includes information provided voluntarily by users in the course of entering competitions, offers, and registering on the website, among other activities. When you contact us voluntarily – for example, by email – or have any financial dealings with us or our trading partners, this also gives us information about you.   
 Use of information  
   
 Aggregate user information does not identify individuals, and is used to help us improve our understanding of our users and their preferences. It may also be used to assist in auditing use of the Website, as well as directing editorial, advertising, and commercial opportunities. Information about individual users may be used in several ways – including, but not limited to – the following: 
@@ -20,9 +19,9 @@ Aggregate user information does not identify individuals, and is used to help us
 Top  
 Privacy  
   
-We may share your personal information with other AMG companies, and with third parties whom we have selected carefully and with whom we have, or may have, a commercial relationship. 
+We may share your personal information with other group companies, and with third parties whom we have selected carefully and with whom we have, or may have, a commercial relationship. 
 
-AMG takes all reasonable care to ensure that your information is secure and private and is only seen by responsible third parties. However we cannot be held responsible for the actions of any third party who receives or obtains access to the information, or for any breach of security. 
+Business24-7.ae takes all reasonable care to ensure that your information is secure and private and is only seen by responsible third parties. However we cannot be held responsible for the actions of any third party who receives or obtains access to the information, or for any breach of security. 
 
 If you have any concerns about the sharing of your personal details with third parties you can email 
 
