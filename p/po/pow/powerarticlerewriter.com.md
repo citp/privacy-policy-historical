@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerarticlerewriter.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429122905id_/http%3A//www.powerarticlerewriter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerarticlerewriter.com privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126181812id_/http%3A//www.powerarticlerewriter.com/privacy.html) for the most accurate reproduction.*
 
 # Power Article Rewriter Privacy Policy
 
@@ -24,4 +24,4 @@ With respect to security: We have appropriate security measures in place in our 
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses.
 
-[Home](https://web.archive.org/)  |  [Privacy Policy](https://web.archive.org/web/20090429122905id_/http%3A//www.powerarticlerewriter.com/privacy.html)  |  [Contact](https://web.archive.org/web/20090429122905id_/http%3A//www.powerarticlerewriter.com/contact.html)
+[Home](https://web.archive.org/)  |  [Privacy Policy](https://web.archive.org/web/20091126181812id_/http%3A//www.powerarticlerewriter.com/privacy.html)  |  [Contact](https://web.archive.org/web/20091126181812id_/http%3A//www.powerarticlerewriter.com/contact.html)
