@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the aapt.com.au privacy policy that was archived on 2009-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090515125436id_/http%3A//www.aapt.com.au/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aapt.com.au privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126023657id_/http%3A//aapt.com.au/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
 ### AAPT Privacy Awareness Policy
 
-AAPT and its related bodies corporate (AAPT) are committed to the privacy of its customer's records and for your information we have documented AAPT's information handling practices below. Please contact AAPT on 13 88 88 if you wish to discuss any aspect of AAPT's information handling practices.
+AAPT and its related bodies corporate (AAPT) are committed to the privacy of its customer's records and for your information we have documented AAPT's information handling practices below. Please contact AAPT on 135 005 if you wish to discuss any aspect of AAPT's information handling practices.
 
 ### Is AAPT bound by the National Privacy Principles or an approved Privacy Code?
 
@@ -93,7 +93,7 @@ We may tell you about our products and services or bundled offerings via direct 
 
 Unless you tell us that you do not want to receive telemarketing calls from us, we may make telemarketing calls to your telephone numbers, even if your telephone numbers are listed on the National Do Not Call Register.
 
-We may do this during the period you are a customer for AAPT and for a reasonable period after you leave us. You may choose to opt out of receiving direct marketing (including unsolicited telemarketing calls) from us by contacting us at [service@aapt.com.au](mailto:service@aapt.com.au) or by calling 13 88 88. Business customers can opt out by emailing [information@aapt.com.au](mailto:information@aapt.com.au) and placing `OPT OUT' in the subject line and placing your contact information in the body of the email.  
+We may do this during the period you are a customer for AAPT and for a reasonable period after you leave us. You may choose to opt out of receiving direct marketing (including unsolicited telemarketing calls) from us by contacting us at [service@aapt.com.au](mailto:service@aapt.com.au) or by calling 135 005. Business customers can opt out by emailing [information@aapt.com.au](mailto:information@aapt.com.au) and placing `OPT OUT' in the subject line and placing your contact information in the body of the email.  
 
 
 Back to top
@@ -152,7 +152,7 @@ Back to top
 Generally, you have the right to see or obtain a copy of personal information about you that we may hold.
 
 AAPT will handle requests for access to personal information in accordance with the National Privacy Principles.   
-To request access to your personal information, please contact our Call Centre on 13 88 88.
+To request access to your personal information, please contact our Call Centre on 135 005.
 
 As long as we can verify your identity, the person you speak to may be able to provide you with the information you require over the telephone. If you wish to have a copy of any information, we will ask that you put your request in writing and either post or fax that request to us. Again, this is to ensure that we can verify your identity.
 
@@ -169,7 +169,7 @@ The circumstances in which we may refuse to give you access to personal informat
 
 
 
-If you believe that we hold personal information about you that you consider to be inaccurate, incomplete or out of date you should tell us by calling 13 88 88. In most cases, we will amend any inaccurate, incomplete or out of date information. In some cases it is necessary for us to keep a record of what we know or understand to be correct at a particular time. However, in those circumstances, if you request, we will take reasonable steps to associate with the relevant record of your personal information a statement to the effect that you claim the information is inaccurate, incomplete or out of date. We would ask that you discuss your request with us by calling 13 88 88.
+If you believe that we hold personal information about you that you consider to be inaccurate, incomplete or out of date you should tell us by calling 135 005. In most cases, we will amend any inaccurate, incomplete or out of date information. In some cases it is necessary for us to keep a record of what we know or understand to be correct at a particular time. However, in those circumstances, if you request, we will take reasonable steps to associate with the relevant record of your personal information a statement to the effect that you claim the information is inaccurate, incomplete or out of date. We would ask that you discuss your request with us by calling 135 005.
 
 Back to top
 
