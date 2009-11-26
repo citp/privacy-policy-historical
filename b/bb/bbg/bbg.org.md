@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbg.org privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525092316id_/http%3A//www.bbg.org/abo/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbg.org privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126210853id_/http%3A//www.bbg.org/abo/privacypolicy.html) for the most accurate reproduction.*
 
 # Brooklyn Botanic Garden: Privacy Policy
 
@@ -62,4 +62,4 @@ Please note that BBG may revise its privacy policy at any time. Such revisions m
 
 ## Contact BBG
 
-If you have any further questions or concerns about BBG's privacy policies and use of personal information, please send them to the [Website Manager](mailto:adorfman@bbg.org). 
+If you have any further questions or concerns about BBG's privacy policies and use of personal information, please send them to the [Website Manager](mailto:webmaster@bbg.org). 
