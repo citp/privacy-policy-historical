@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webofknowledge.com privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526213621id_/http%3A//www.thomsonreuters.com/content/footer/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webofknowledge.com privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126013328id_/http%3A//www.thomsonreuters.com/content/footer/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Thomson Reuters
 
 #### WHAT INFORMATION ABOUT YOU DO WE COLLECT? 
 
