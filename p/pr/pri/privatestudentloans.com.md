@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the privatestudentloans.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626013849id_/http%3A//www.privatestudentloans.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privatestudentloans.com privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126034836id_/http%3A//www.privatestudentloans.com/privacy.php) for the most accurate reproduction.*
 
-# Private Student Loans from the Student Loan Network
+# Private Student Loans Privacy Policy from the Student Loan Network
 
 Edvisors is committed to protecting the privacy of your personal information. As part of that commitment, we provide this policy to explain our privacy practices, including what information we collect, how we use it, and what choices you have about collection and use of your personal information. We urge you to review this entire policy. 
 
-This privacy policy covers all Edvisors sites, including all [Student Loan Network](http://www.studentloannetwork.com/student-resources/links.php) sites. This policy also covers User Information received by Edvisors that is submitted on forms accessible from Edvisors sites and managed by third-party partners. We invite you to contact us if you have questions about this policy. You may write to us at: 
+This privacy policy covers all Edvisors sites, including all [Student Loan Network](http://www.studentloannetwork.com/resources/links.php) sites. This policy also covers User Information received by Edvisors that is submitted on forms accessible from Edvisors sites and managed by third-party partners. We invite you to contact us if you have questions about this policy. You may write to us at: 
 
 Edvisors   
 1250 Hancock Street, Suite 703N   
@@ -12,7 +12,7 @@ Quincy, MA 02169 USA
 
 You may also [email](mailto:privacy@edvisors.com) us. 
 
-If you are not able to resolve questions or concerns you have about this policy or our privacy practices by using our [opt-out page](http://www.studentloannetwork.com/profile/opt-out.php) or by contacting us directly, you can contact the [Better Business Bureau](http://reports.bosbbb.org/Boston/Public/Reports/BrandedReport.aspx?firm=88239). Edvisors is a member of the BBB Reliability Program. 
+If you are not able to resolve questions or concerns you have about this policy or our privacy practices by using our [opt-out page](http://www.studentloannetwork.com/profile/opt-out.php) or by contacting us directly, you can contact the [Better Business Bureau](http://www.bbb.org/boston/business-reviews/insurance-companies/edvisors-network-inc-in-quincy-ma-88239/). Edvisors is a member of the BBB Reliability Program. 
 
 _Please note: If you apply for a loan, loan consolidation service, or other product or service, you may be redirected to the website of one of our third-party service providers (banks, lenders, facilitators, servicers, guarantors, and marketers); other links on our sites may also direct you to third party websites. This policy covers only what we do with the information you or the third-party provides to us; we are not responsible for, nor can we control the privacy practices and policies of these third party entities. We encourage you to review their policies carefully._
 
