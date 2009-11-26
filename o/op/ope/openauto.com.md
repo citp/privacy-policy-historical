@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the openauto.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605175328id_/http%3A//www.openauto.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openauto.com privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126114931id_/http%3A//www.openauto.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# OpenAuto.com - Privacy Policy
+# New Car Dealer Prices | New Car Invoice Prices | New car Dealerships - OpenAuto.com USA
 
-| 
-
-Privacy  
-  
+|   
 ---  
+  
+Privacy  
   
 Open Auto, Inc. (OA) collects and uses the personal information that you submit online as described herein. OA reserves the right to modify the terms of this policy at any time. Such modifications shall become effective immediately upon posting. Your continued use of, or registration with, OA shall constitute your acceptance of these terms. If you do not agree to the terms of this policy, in whole or in part, you are not authorized to use the website and should terminate registration by following the opt-out instructions.  
   
