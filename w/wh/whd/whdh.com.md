@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whdh.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616203921id_/http%3A//www2.whdh.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whdh.com privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126105235id_/http%3A//www1.whdh.com/privacypolicy) for the most accurate reproduction.*
 
 # WHDH.COM Privacy Policy
 
