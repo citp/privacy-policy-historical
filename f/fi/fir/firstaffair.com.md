@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the firstaffair.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626124314id_/http%3A//www.firstaffair.com/fa/datenschutz/p/k/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstaffair.com privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126170319id_/http%3A//www.firstaffair.com/fa/datenschutz/p/k/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - First Affair
 
   
-Privacy Policy of the netforge GmbH 
+Privacy Policy of the FAP Services LLC 
 
-netforge GmbH is very serious about protecting the privacy of its customers. Therefore we would like to inform you when and how your data will be stored. netforge GmbH is governed by the German Data Privacy Protection Act (Bundesdatenschutzgesetzes) and by the State Media Act (Mediendienstestaatsvertrages). netforge GmbH has implemented all technical and managerial measures necessary to satisfy these data protection laws and regulations. 
+FAP Services LLC is very serious about protecting the privacy of its customers. Therefore we would like to inform you when and how your data will be stored. FAP Services LLC is governed by the German Data Privacy Protection Act (Bundesdatenschutzgesetzes) and by the State Media Act (Mediendienstestaatsvertrages). FAP Services LLC has implemented all technical and managerial measures necessary to satisfy these data protection laws and regulations. 
 
 **Personal Data**
 
