@@ -1,17 +1,28 @@
-<!--The following is the downloaded HTML source of the philly.com privacy policy that was archived on 2009-05-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090516072618id_/http%3A//www.philly.com/philly/about/terms_of_use) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the philly.com privacy policy that was archived on 2009-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091126132242id_/http%3A//www.philly.com/philly/about/terms_of_use) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head> 
 
 <title>Privacy Policy &amp; Terms of Use - philly.com</title>
+
         <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
 	<meta name="description" content="Award-winning news, sports, commentary, and more from the Philadelphia Daily News and Philadelphia Inquirer">
+
+
 	<meta name="keywords" content="Philadelphia, Philly, Philadelphia Inquirer, Daily News,">
+
+
         <meta name="verify-v1" content="3x82DC93LZlv0I/hQEBoyVVjlGPtX7VxHFgv1upr+9I=">
+
         <meta name="y_key" content="29f3cb6efb7e05d5">
+
         <meta name="y_key" content="ccf0cd67e5f1e33c">
 
+        
+       
  
+
 
 
 <link rel="icon" type="image/png" href="http://media.philly.com/designimages/favicon.png">
@@ -28,7 +39,7 @@
 
 
 
-
+	 
 
 
 
@@ -46,6 +57,7 @@
 
 
 
+	
 
 			<script language="javascript" type="text/javascript">
 				var rm = false;
@@ -87,9 +99,13 @@ function getUserName(){
 
  // If the server has logged them in but they don't have a username or SID cookie set yet, call getUserName(), which will set all the login cookies.
  // NOTE: since this runs on every page, provides a way of setting new cookies on already logged-in [persisted] user sessions
-if(readCookie("UID") && (!readCookie("username") || !readCookie("SID"))){
+if(readCookie("UID") && (!readCookie("username") || !readCookie("SID") || !readCookie("7445598737"))){
 	getUserName();
+} else if ( window.location.href.indexOf('auth=') > -1 && !readCookie("phillyLockerRoom")){
+ // Case 23842: If the request has a paypal 'auth' request param in it - but there's no phillyLockerRoom cookie yet, they are being returned to us after paying for access to the locker room, so set the phillyLockerRoom cookie now.
+	createCookie("phillyLockerRoom","yes",100);
 }
+
 
 if(!readCookie("UID") && readCookie("username")){
 	eraseCookie("username");
@@ -129,7 +145,6 @@ if(readCookie("regConfirmationStatus")){
 // -->
 </script>
 
-	
 
 
 
@@ -140,10 +155,9 @@ yld_mgr.site_name="Philly.com";
 yld_mgr.request_type="ac";
 yld_mgr.container_type="js";
 
-
   
 
-yld_mgr.content_topic_id_list=["20200001"] 
+yld_mgr.content_topic_id_list=["20402501"] 
 yld_mgr.cstm_sctn_list=["Secondary Front"]
 
 
@@ -156,75 +170,69 @@ yld_mgr.slots = {};
 	
 
 	
-yld_mgr.slots.rail = {};
-yld_mgr.slots.rail.ad_size_list=["300x250"];
-yld_mgr.slots.rail.ad_delivery_mode="ipbtf";
-yld_mgr.slots.rail.content_type_list=["fn_news"] 
-
-yld_mgr.slots.rail.cstm_content_cat_list=["privacy policy_terms of use"]
-yld_mgr.slots.rail.reporting_tag_list=["philly","about","terms_of_use"]
-
-yld_mgr.slots.comment = {};
-yld_mgr.slots.comment.ad_size_list=["626x50"];
-yld_mgr.slots.comment.ad_delivery_mode="ipbtf";
-yld_mgr.slots.comment.content_type_list=["fn_news"] 
-
-yld_mgr.slots.comment.cstm_content_cat_list=["privacy policy_terms of use"]
-yld_mgr.slots.comment.reporting_tag_list=["philly","about","terms_of_use"]
-
-												yld_mgr.slots.leader = {};
-yld_mgr.slots.leader.ad_size_list=["1x1"];
-yld_mgr.slots.leader.ad_delivery_mode="ipatf";
-yld_mgr.slots.leader.content_type_list=["fn_news"] 
-
-yld_mgr.slots.leader.cstm_content_cat_list=["privacy policy_terms of use"]
-yld_mgr.slots.leader.reporting_tag_list=["philly","about","terms_of_use"]
-
-yld_mgr.slots.mrec = {};
-yld_mgr.slots.mrec.ad_size_list=["300x250"];
-yld_mgr.slots.mrec.ad_delivery_mode="ipatf";
-yld_mgr.slots.mrec.content_type_list=["fn_news"] 
-
-yld_mgr.slots.mrec.cstm_content_cat_list=["privacy policy_terms of use"]
-yld_mgr.slots.mrec.reporting_tag_list=["philly","about","terms_of_use"]
-
 yld_mgr.slots.slider = {};
 yld_mgr.slots.slider.ad_size_list=["972x30"];
 yld_mgr.slots.slider.ad_delivery_mode="ipatf";
 yld_mgr.slots.slider.content_type_list=["fn_news"] 
-
-yld_mgr.slots.slider.cstm_content_cat_list=["privacy policy_terms of use"]
+yld_mgr.slots.slider.cstm_content_cat_list=["privacy policy_terms of use","about"]
 yld_mgr.slots.slider.reporting_tag_list=["philly","about","terms_of_use"]
-
+yld_mgr.slots.rail = {};
+yld_mgr.slots.rail.ad_size_list=["300x250"];
+yld_mgr.slots.rail.ad_delivery_mode="ipbtf";
+yld_mgr.slots.rail.content_type_list=["fn_news"] 
+yld_mgr.slots.rail.cstm_content_cat_list=["privacy policy_terms of use","about"]
+yld_mgr.slots.rail.reporting_tag_list=["philly","about","terms_of_use"]
+yld_mgr.slots.comment = {};
+yld_mgr.slots.comment.ad_size_list=["626x50"];
+yld_mgr.slots.comment.ad_delivery_mode="ipbtf";
+yld_mgr.slots.comment.content_type_list=["fn_news"] 
+yld_mgr.slots.comment.cstm_content_cat_list=["privacy policy_terms of use","about"]
+yld_mgr.slots.comment.reporting_tag_list=["philly","about","terms_of_use"]
+												yld_mgr.slots.leader = {};
+yld_mgr.slots.leader.ad_size_list=["1x1"];
+yld_mgr.slots.leader.ad_delivery_mode="ipatf";
+yld_mgr.slots.leader.content_type_list=["fn_news"] 
+yld_mgr.slots.leader.cstm_content_cat_list=["privacy policy_terms of use","about"]
+yld_mgr.slots.leader.reporting_tag_list=["philly","about","terms_of_use"]
+yld_mgr.slots.mrec = {};
+yld_mgr.slots.mrec.ad_size_list=["300x250"];
+yld_mgr.slots.mrec.ad_delivery_mode="ipatf";
+yld_mgr.slots.mrec.content_type_list=["fn_news"] 
+yld_mgr.slots.mrec.cstm_content_cat_list=["privacy policy_terms of use","about"]
+yld_mgr.slots.mrec.reporting_tag_list=["philly","about","terms_of_use"]
 yld_mgr.slots.half = {};
 yld_mgr.slots.half.ad_size_list=["234x60"];
 yld_mgr.slots.half.ad_delivery_mode="ipstf";
 yld_mgr.slots.half.content_type_list=["fn_news"] 
-
-yld_mgr.slots.half.cstm_content_cat_list=["privacy policy_terms of use"]
+yld_mgr.slots.half.cstm_content_cat_list=["privacy policy_terms of use","about"]
 yld_mgr.slots.half.reporting_tag_list=["philly","about","terms_of_use"]
-
 yld_mgr.slots.inline_header = {};
 yld_mgr.slots.inline_header.ad_size_list=["88x31"];
 yld_mgr.slots.inline_header.ad_delivery_mode="ipatf";
 yld_mgr.slots.inline_header.content_type_list=["fn_news"] 
-
-yld_mgr.slots.inline_header.cstm_content_cat_list=["privacy policy_terms of use"]
+yld_mgr.slots.inline_header.cstm_content_cat_list=["privacy policy_terms of use","about"]
 yld_mgr.slots.inline_header.reporting_tag_list=["philly","about","terms_of_use"]
-
 yld_mgr.slots.content = {};
 yld_mgr.slots.content.ad_size_list=["620x50"];
 yld_mgr.slots.content.ad_delivery_mode="ipbtf";
 yld_mgr.slots.content.content_type_list=["fn_news"] 
-
-yld_mgr.slots.content.cstm_content_cat_list=["privacy policy_terms of use"]
+yld_mgr.slots.content.cstm_content_cat_list=["privacy policy_terms of use","about"]
 yld_mgr.slots.content.reporting_tag_list=["philly","about","terms_of_use"]
+
+
+
+
 
 
 
 //--> 
 </script>
 <script type="text/javascript" src="http://e.yieldmanager.net/script.js"> </script> <script type="text/javascript" language="javascript" src="http://www.philly.com/includes/global.js"></script> 
+
+
+
+
+
 
 
 
@@ -256,6 +264,7 @@ yld_mgr.slots.content.reporting_tag_list=["philly","about","terms_of_use"]
 <div class="tracking">
 
 
+
 <!-- SiteCatalyst code version: H.15.1.
 Copyright 1997-2008 Omniture, Inc. More info available at
 http://www.omniture.com -->
@@ -268,6 +277,8 @@ the next lines. */
 
   
 s.server="www.philly.com";
+
+
 	s.pageName="section front: Privacy Policy & Terms of Use";
 	s.channel="about";
 	s.prop2="philly Privacy Policy & Terms of Use";
@@ -281,9 +292,15 @@ s.server="www.philly.com";
  s.prop8=s.getTimeParting('d','-5','2009');  // set day of week 
  s.prop9=s.getTimeParting('h','-5','2009');  // set hour of day 
  s.prop10=s.getTimeParting('w','-5','2009'); // set weekend/weekday
+if (rm) {
+	s.prop30="logged in";
+} else {
+	s.prop30="logged out";
+}
 
-					s.events="event1";
-	
+											s.products="Secondary Front;sliderpencil_1x1_ipatf,Secondary Front;rail_300x250_ipbtf,Secondary Front;comments_626x50_ipbtf,Secondary Front;leader_1x1_ipatf,Secondary Front;mrec_300x250_ipatf,Secondary Front;half_234x60_ipstf,Secondary Front;sponsor_88x31_ipatf,Secondary Front;content_620x50_ipbtf";
+			
+						
 
 s.prop21=s.getDaysSinceLastVisit();
 s.prop22=s.server;
@@ -303,6 +320,8 @@ s.hier1=s.prop5;
 
 s.hier2="philly,philly,about,terms_of_use,index";
 
+s.events="event1,event4";
+
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 <script language="JavaScript" type="text/javascript"><!--
@@ -314,23 +333,23 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 
 
 
- 	<script language="Javascript">var js="0.0";</script><script language="Javascript1.0">js="1.0";</script><script language="Javascript1.1">js="1.1";</script><script language="Javascript1.2">js="1.2";</script><script language="Javascript1.3">js="1.3";</script><script language="Javascript1.4">js="1.4";</script><script language="Javascript1.5">js="1.5";</script><script language="javascript1.1" type="text/javascript"> 
+ 	<script language="Javascript">var js="0.0";</script><script language="Javascript1.0">js="1.0";</script><script language="Javascript1.1">js="1.1";</script><script language="Javascript1.2">js="1.2";</script><script language="Javascript1.3">js="1.3";</script><script language="Javascript1.4">js="1.4";</script><script language="Javascript1.5">js="1.5";</script><script language="Javascript1.6">js="1.6";</script><script language="Javascript1.7">js="1.7";</script><script language="Javascript1.8">js="1.8";</script><script language="Javascript1.9">js="1.9";</script><script language="javascript1.1" type="text/javascript"> 
 <!-- 
-var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");var ns=(navigator.appName.substring(0,9)=="Microsoft");var _qDate=new Date();var _r=(document.referrer.indexOf(getdomain(location))>-1?"":document.referrer);_q+="&5="+parseInt(_qDate.getTimezoneOffset());_q+="&35="+parseInt(_qDate.toString().indexOf("aylight")>-1?1:0);_q+="&6=900167921";_q+="&7=167921";_q+="&8="+escape(document.location);_q+="&9="+escape(_r);_q+="&10="+escape(document.title);_q+="&11="+escape(navigator.userAgent);_q+="&12="+escape((na?navigator.language:navigator.userLanguage));_q+="&13="+((navigator.javaEnabled()?'1':'0'));_q+="&14="+escape(js);if(document.cookie.indexOf("cc")==-1)document.cookie="cc=t;";_q+="&15="+((document.cookie.indexOf("cc")==-1)?"0":"1");_q+="&16="+escape((screen.width+'x'+screen.height));_q+="&17="+escape(((ns)?screen.colorDepth:screen.pixelDepth));_q+="&18="+escape(Math.random());_q+="&19="+_ti;bb.src="http://s.clickability.com/s?"+_q;
+var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");var ns=(navigator.appName.substring(0,9)=="Microsoft");var _qDate=new Date();var _r=(document.referrer.indexOf(getdomain(location))>-1?"":document.referrer);_q+="&5="+parseInt(_qDate.getTimezoneOffset());_q+="&35="+parseInt(_qDate.toString().indexOf("aylight")>-1?1:0);_q+="&6=900167921";_q+="&7=167921";_q+="&8="+encodeURIComponent(document.location);_q+="&9="+encodeURIComponent(_r);_q+="&10="+encodeURIComponent(document.title);_q+="&11="+encodeURIComponent(navigator.userAgent);_q+="&12="+encodeURIComponent((na?navigator.language:navigator.userLanguage));_q+="&13="+((navigator.javaEnabled()?'1':'0'));_q+="&14="+encodeURIComponent(js);if(document.cookie.indexOf("cc")==-1)document.cookie="cc=t;";_q+="&15="+((document.cookie.indexOf("cc")==-1)?"0":"1");_q+="&16="+encodeURIComponent((screen.width+'x'+screen.height));_q+="&17="+encodeURIComponent(((ns)?screen.colorDepth:screen.pixelDepth));_q+="&18="+encodeURIComponent(Math.random());_q+="&19="+_ti;bb.src="http://s.clickability.com/s?"+_q;
 function setonclicks(a,b){var i=0;var retval=true;while(document.links[i]!=a){i++;}if(b.li[i])retval=b.li[i].oldonclick();bye(a);return retval;}
-function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.links.length;lnks.li=new Array(sze);for (var i=0; i<sze; i++){if(document.links[i].onclick){lnks.li[i]=document.links[i];lnks.li[i].oldonclick=document.links[i].onclick;}eval("document.links[i].onclick=function(){return setonclicks(this,lnks);}");}}function bye(a){if(a.href.toLowerCase().indexOf('http')!=0)return true;if(getdomain(location)==getdomain(a))return true;if(a.href.toLowerCase().indexOf('http')!=0)return true;var _qc="http://s.clickability.com/s?19=912";_qc+="&6=900167921";_qc+="&7=167921";_qc+="&18="+escape(Math.random());_qc+="&100="+a.href;_qc+="&101="+escape(a.text);var cc=new Image();if(na){cc.src=_qc;pc(100);}else cc.src=_qc;return true;}function pc(a){d = new Date(); while (1){m =new Date(); df = m-d;if( df > a ) {break;}}}function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}if(dosetup && ((window.screen)||((new Array()).toSource)||((new Array()).shift&&ns))&&(navigator.userAgent.indexOf('Mac')<0)){if(window.onload){oldonld=window.onload;hasonload=true;}window.onload=newonld;var setupalready = true;}//-->
+function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.links.length;lnks.li=new Array(sze);for (var i=0; i<sze; i++){if(document.links[i].onclick){lnks.li[i]=document.links[i];lnks.li[i].oldonclick=document.links[i].onclick;}eval("document.links[i].onclick=function(){return setonclicks(this,lnks);}");}}function bye(a){if(a.href.toLowerCase().indexOf('http')!=0)return true;if(getdomain(location)==getdomain(a))return true;if(a.href.toLowerCase().indexOf('http')!=0)return true;var _qc="http://s.clickability.com/s/s?19=912";_qc+="&6=900167921";_qc+="&7=167921";_qc+="&18="+encodeURIComponent(Math.random());_qc+="&100="+a.href;_qc+="&101="+encodeURIComponent(a.text);var cc=new Image();if(na){cc.src=_qc;pc(100);}else cc.src=_qc;return true;}function pc(a){d = new Date(); while (1){m =new Date(); df = m-d;if( df > a ) {break;}}}function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}if(dosetup && ((window.screen)||((new Array()).toSource)||((new Array()).shift&&ns))&&(navigator.userAgent.indexOf('Mac')<0)){if(window.onload){oldonld=window.onload;hasonload=true;}window.onload=newonld;var setupalready = true;}//-->
 </script><noscript>
-<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=900167921&7=167921&18=0.7746854647931404">
+<img width="1" height="1" src="http://s.clickability.com/s/s?19=990&14=0&6=900167921&7=167921&18=0.3241071665042702">
 </noscript>
 
 
 
 
  
-<!-- begin quarantone -->
-<!-- end quarantone -->
+
 
 </div>
+
 
 
 <div id="maincontainer">
@@ -347,9 +366,10 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 		
 <div id="pageheader-navleft">
 
-<div class="np-link"><a href="http://www.philly.com/inquirer" title="Inquirer" onclick="var s=s_gi('phillycom');s.tl(this,'o','TopNav: Left: Inquirer');">Inquirer</a></div><div class="np-link"><a href="http://www.philly.com/dailynews" title="Daily News" onclick="var s=s_gi('phillycom');s.tl(this,'o','TopNav: Left: Daily News');">Daily News</a></div>
-<div class="np-link"><a href="http://www.philly.com/community" title="My Community" onclick="var s=s_gi('phillycom');s.tl(this,'o','TopNav: Left: My Community');">My Community</a></div>
-<div class="np-link"><a href="http://www.phrequency.com" title="phrequency" onclick="var s=s_gi('phillycom');s.tl(this,'o','TopNav: Left: phrequency');">phrequency</a></div>
+<div class="np-link"><a href="http://www.philly.com/inquirer" title="Inquirer" onclick="var s=s_gi('phillycom');s.tl(this,'o','TopNav: Left: Inquirer');" target="_top">Inquirer</a></div><div class="np-link"><a href="http://www.philly.com/dailynews" title="Daily News" onclick="var s=s_gi('phillycom');s.tl(this,'o','TopNav: Left: Daily News');" target="_top">Daily News</a></div>
+<div class="np-link"><a href="http://www.philly.com/community" title="My Community" onclick="var s=s_gi('phillycom');s.tl(this,'o','TopNav: Left: My Community');" target="_top">My Community</a></div>
+<div class="np-link"><a href="http://www.phrequency.com" title="phrequency" onclick="var s=s_gi('phillycom');s.tl(this,'o','TopNav: Left: phrequency');" target="_top">phrequency</a></div>
+<div class="np-link"><a href="http://college.philly.com" title="Student Union" onclick="var s=s_gi('phillycom');s.tl(this,'o','TopNav: Left: Student Union');" target="_top">Student Union 34</a></div>
 
 
 
@@ -357,18 +377,18 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 		<div id="verticalsPrimaryNav">
 
 	<dl>
-		<dt id="drop1TierOne" class="firstnav"><a href="http://philadelphia.zebramm.com/" title="Mobile" onclick="var s=s_gi('phillycom');s.tl(this,'o','TopNav: Right: Mobile');">Mobile</a></dt>
+		<dt id="drop1TierOne" class="firstnav"><a href="http://www.philly.com/mobile/" title="Mobile" onclick="var s=s_gi('phillycom');s.tl(this,'o','TopNav: Right: Mobile');" target="_top">Mobile</a></dt>
 	</dl>
 	<dl>
-		<dt id="drop2TierOne"><a href="http://www.philly.com/s?action=reg#newsletters" title="Newsletters" onclick="var s=s_gi('phillycom');s.tl(this,'o','TopNav: Right: Newsletters');">Newsletters</a></dt>
-	</dl>
-
-	<dl>
-		<dt id="drop3TierOne"><a href="http://www.philly.com/philly/about/rss_index/" title="RSS Feeds" onclick="var s=s_gi('phillycom');s.tl(this,'o','TopNav: Right: RSS Feeds');">RSS Feeds</a></dt>
+		<dt id="drop2TierOne"><a href="http://www.philly.com/s?action=reg#newsletters" title="Newsletters" onclick="var s=s_gi('phillycom');s.tl(this,'o','TopNav: Right: Newsletters');" target="_top">Newsletters</a></dt>
 	</dl>
 
 	<dl>
-		<dt id="drop4TierOne"><a href="http://www.pnionline.com/readerservices/customerservice/" title="Subscribe" onclick="var s=s_gi('phillycom');s.tl(this,'o','TopNav: Right: Subscriber Services');">Subscriber Services</a></dt>
+		<dt id="drop3TierOne"><a href="http://www.philly.com/philly/about/rss_index/" title="RSS Feeds" onclick="var s=s_gi('phillycom');s.tl(this,'o','TopNav: Right: RSS Feeds');" target="_top">RSS Feeds</a></dt>
+	</dl>
+
+	<dl>
+		<dt id="drop4TierOne"><a href="http://www.pnionline.com/readerservices/customerservice/" title="Subscribe" onclick="var s=s_gi('phillycom');s.tl(this,'o','TopNav: Right: Subscriber Services');" target="_top">Subscriber Services</a></dt>
 	</dl>
 
 
@@ -390,43 +410,48 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 
 
 
+
+	
+	
+
 <div id="navPlacement"><div id="globalPrimaryNav">
 	<ul>
-		<li class="philly"><div><a href="http://www.philly.com/" id="navT1_philly" title="Home">Home</a></div></li>
+		<li class="philly"><div><a href="http://www.philly.com/" id="navT1_philly" title="Home" target="_top">Home</a></div></li>
 
-			<li><div><a href="http://www.philly.com/philly/news/" id="navT1_news" title="News">News</a></div></li>
-				<li><div><a href="http://www.philly.com/philly/sports/" id="navT1_sports" title="Sports">Sports</a></div></li>
-				<li><div><a href="http://www.philly.com/philly/business/" id="navT1_business" title="Business">Business</a></div></li>
-				<li><div><a href="http://www.philly.com/philly/calendar/" id="navT1_calendar" title="What's Happening">What's Happening</a></div></li>
-				<li><div><a href="http://www.philly.com/philly/restaurants/" id="navT1_restaurants" title="Restaurants &amp; Food">Restaurants &amp; Food</a></div></li>
-				<li><div><a href="http://www.philly.com/philly/entertainment/" id="navT1_entertainment" title="Entertainment">Entertainment</a></div></li>
-				<li><div><a href="http://www.philly.com/philly/living/" id="navT1_living" title="Living">Living</a></div></li>
-				<li><div><a href="http://www.philly.com/philly/marketplace/" id="navT1_marketplace" title="Marketplace">Marketplace</a></div></li>
-				<li><div><a href="http://www.philly.com/philly/jobs/" id="navT1_jobs" title="Jobs">Jobs</a></div></li>
-																																										
+		<li><div><a href="http://www.philly.com/philly/news/" id="navT1_news" title="News" target="_top">News</a></div></li>
+			<li><div><a href="http://www.philly.com/philly/sports/" id="navT1_sports" title="Sports" target="_top">Sports</a></div></li>
+			<li><div><a href="http://www.philly.com/philly/business/" id="navT1_business" title="Business" target="_top">Business</a></div></li>
+			<li><div><a href="http://www.philly.com/philly/calendar/" id="navT1_calendar" title="What's Happening" target="_top">What's Happening</a></div></li>
+			<li><div><a href="http://www.philly.com/philly/restaurants/" id="navT1_restaurants" title="Restaurants &amp; Food" target="_top">Restaurants &amp; Food</a></div></li>
+			<li><div><a href="http://www.philly.com/philly/entertainment/" id="navT1_entertainment" title="Entertainment" target="_top">Entertainment</a></div></li>
+			<li><div><a href="http://www.philly.com/philly/living/" id="navT1_living" title="Living" target="_top">Living</a></div></li>
+	
 
-			<li><div><a href="http://www.philly.com/philly/classifieds/cars/" id="navT1_cars" title="Cars">Cars</a></div></li>
-				<li><div><a href="http://www.philly.com/philly/classifieds/real_estate/" id="navT1_real_estate" title="Homes">Homes</a></div></li>
-									
+		<li><div><a href="http://www.philly.com/philly/marketplace/" id="navT1_marketplace" title="Marketplace" target="_top">Marketplace</a></div></li>
+			<li><div><a href="http://www.philly.com/philly/jobs/" id="navT1_jobs" title="Jobs" target="_top">Jobs</a></div></li>
+			<li><div><a href="http://www.philly.com/philly/classifieds/cars/" id="navT1_cars" title="Cars" target="_top">Cars</a></div></li>
+			<li><div><a href="http://www.philly.com/philly/classifieds/real_estate/" id="navT1_real_estate" title="Homes" target="_top">Homes</a></div></li>
+	
 	</ul>
 </div>
 
+
+
+
+		
 
 												
 
 
 
 
- 
 
 
 
 
-
-
-	<div id="secondaryNav"><ul class="about"> <!-- 2 -->
-	<li><div><a href="http://www.philly.com/philly/about/feedback/" title="Contact Us">Contact Us</a></div></li>
-	<li><div><a href="http://www.philly.com/philly/about/rss_index/" title="RSS Feeds">RSS Feeds</a></div></li>
+	<div id="secondaryNav"><ul class="about"> 
+	<li><div><a href="http://www.philly.com/philly/about/feedback/" title="Contact Us" target="_top">Contact Us</a></div></li>
+	<li><div><a href="http://www.philly.com/philly/about/rss_index/" title="RSS Feeds" target="_top">RSS Feeds</a></div></li>
 		</ul></div>
 </div>
 
@@ -454,12 +479,14 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 					document.write('<li class="user-welcome">Welcome <b>' + readCookie("username") + '</b></li> ');
 					}
 					
-										document.write('<br /><li><a href="/s?action=editReg&rurl=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fabout%2Fterms_of_use%2F">My Account</a></li> ');
-										if(readCookie("regConfirmationStatus") && readCookie("regConfirmationStatus") == "pending") {
-					document.write('<li> | <a href="/s?action=requestConfirmation">Resend confirmation email</a></li> ');
+if(readCookie("regConfirmationStatus") && readCookie("regConfirmationStatus") == "pending") {
+					document.write('<br /><li><a href="/s?action=editReg&rurl=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fabout%2Fterms_of_use%2F">My Account</a></li> ');
+
+document.write('<li> | <a href="/s?action=requestConfirmation">Resend confirmation email</a></li> ');
 					} else {
+document.write('<br /><li><a href="/philly/profiles/myprofile/">My Profile</a></li> ');
 }
-					document.write('<li> | <a href="/s?action=doLogout">Sign Out</a></li>');
+					document.write('<li> | <a href="/s?action=doLogout&rurl=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fabout%2Fterms_of_use%2F?userLogout=y">Sign Out</a></li>');
 				} else {
 					document.write('	<li class="user-welcome">Welcome <b>Guest</b></li>');
 					document.write('	<br /><li><a href="/s?action=reg&requested=y&rurl=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fabout%2Fterms_of_use%2F">Register</a></li> <li> | <a href="/s?action=login&requested=y&rurl=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fabout%2Fterms_of_use%2F">Sign In</a></li>');
@@ -479,7 +506,7 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 <div id="phillyweather" style="overflow: hidden; background: url(http://banners.wunderground.com/banner/phillytan_cond/language/english/US/PA/Philadelphia.gif) no-repeat 4px 2px;">
 			<div class="wsticker">
 <a href="http://weather.philly.com/" id="pweatherwrap" style="text-decoration: none; cursor: hand;" target="_top"><img src="http://media.philly.com/designimages/spacer.gif" border="0" width="30" height="36"></a></div>
-<div class="wdate" style="height: 34px; position: relative; left: -3px;" id="LiveClockIE"><a href="http://weather.philly.com/" id="pweatherwrap" style="text-decoration: none; cursor: hand;" target="_top"><b>&nbsp;Saturday, May 16, 3:26 AM</b></a>
+<div class="wdate" style="height: 34px; position: relative; left: -3px;" id="LiveClockIE"><a href="http://weather.philly.com/" id="pweatherwrap" style="text-decoration: none; cursor: hand;" target="_top"><b>&nbsp;Thursday, Nov 26, 8:22 AM</b></a>
 <div class="wtime">&nbsp;</div></div>
 	</div>
 
@@ -544,6 +571,7 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 						<div class="sliderpencil zindexwrap">
 						<script>yld_mgr.place_ad_here("slider");</script>
 
+
 				</div>
 
 
@@ -551,7 +579,7 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 	<script language="javascript" type="text/javascript">
 
 if(rm && readCookie("regConfirmationStatus") && readCookie("regConfirmationStatus") == "pending") {
-document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: You still need to confirm your registration before you can fully access our commenting.<br>Please go to the email we sent you at ' + userEmail + ' and click on the confirm link.</b></div>');
+document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: You still need to confirm your registration before you can fully access our site features.<br>Please go to the email we sent you at ' + userEmail + ' and click on the confirm link.</b></div>');
 }
 
 </script>
@@ -570,12 +598,9 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
 
 
 
-
 <div id="lCol">
 
  
-<div id="sectiontop" class="clearfix">
-
  
 
 
@@ -585,9 +610,11 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
 
 
  
-	
+<div id="sectiontop" class="clearfix">
+
 	
 
+	
 
 
 
@@ -602,11 +629,10 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
 				</h1>
 	
 	
-
-  </div> <!-- end sectiontop -->
-
+</div> <!-- end sectiontop -->
 
 
+  
 
 
 
@@ -626,14 +652,73 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
 		 <div class="timestamp_articletools">                                           
 		         
 
-	<script language="javascript1.2">var partnerID=167921; var _hb=1;</script><script language="javascript1.2" src="http://www.clickability.com/includes/button1.js"></script>
+		<script type="text/javascript">
+			var showMeARR = new Array();
+			var shareButtonsDisplay = "<td><div class=\"shareToggle_link\" title=\"facebook\" onClick=\"saveAndShare('facebook');\"><img src=\"http://media.philly.com/designimages/psaw_share_facebook.gif\" /><\/div><\/td><td><div class=\"shareToggle_link\" title=\"twitter\" onClick=\"saveAndShare('twitter');\"><img src=\"http://media.philly.com/designimages/psaw_share_twitter.gif\" /><\/div><\/td><td><div class=\"shareToggle_link\" title=\"linkedin\" onClick=\"saveAndShare('linkedin');\"><img src=\"http://media.philly.com/designimages/psaw_share_linkedin.gif\" /><\/div><\/td><td><div class=\"shareToggle_link\" title=\"myspace\" onClick=\"saveAndShare('myspace');\"><img src=\"http://media.philly.com/designimages/psaw_share_myspace.gif\" /><\/div><\/td><td><div class=\"shareToggle_link\" title=\"stumbleupon\" onClick=\"saveAndShare('stumbleupon');\"><img src=\"http://media.philly.com/designimages/psaw_share_stumbleupon.gif\" /><\/div><\/td><td><div class=\"shareToggle_link\" title=\"digg\" onClick=\"saveAndShare('digg');\"><img src=\"http://media.philly.com/designimages/psaw_share_digg.gif\" /><\/div><\/td><td><div class=\"shareToggle_link\" title=\"delicious\" onClick=\"saveAndShare('delicious');\"><img src=\"http://media.philly.com/designimages/psaw_share_delicious.gif\" /><\/div><\/td><td><div class=\"shareToggle_link\" title=\"buzz\" onClick=\"saveAndShare('buzz');\"><img src=\"http://media.philly.com/designimages/psaw_share_buzz.gif\" /><\/div><\/td><td><div class=\"shareToggle_link\" title=\"yahoo\" onClick=\"saveAndShare('yahoo');\"><img src=\"http://media.philly.com/designimages/psaw_share_yahoo.gif\" /><\/div><\/td><td><div class=\"shareToggle_link\" title=\"google\" onClick=\"saveAndShare('google');\"><img src=\"http://media.philly.com/designimages/psaw_share_google.gif\" /><\/div><\/td><td><div class=\"shareToggle_link\" title=\"reddit\" onClick=\"saveAndShare('reddit');\"><img src=\"http://media.philly.com/designimages/psaw_share_reddit.gif\" /><\/div><\/td>";
 
-<!-- IMWARE TOOLS HERE? -->
-<div class="article_tools">
-	<div class="article_tools_container"><a href="#" onclick="return(ET());" onmouseover="return(ETMouseOver());" onmouseout="return(ETMouseOut());"><img src="http://media.philly.com/designimages/icon_email-this.gif" border="0">email this</a></div>
-	<div class="article_tools_container"><a href="#" onclick="return(PT());" onmouseover="return(PTMouseOver());" onmouseout="return(PTMouseOut());"><img src="http://media.philly.com/designimages/icon_print-this.gif" border="0">print this</a></div>
-	 	</div>
-<!-- end IMWARE TOOLS HERE -->
+if(rm && readCookie("regConfirmationStatus") && readCookie("regConfirmationStatus") == "confirmed") { 
+
+			showMeARR['share'] = Array(0,"<table><tr valign=\"middle\">"+shareButtonsDisplay+"<\/tr><\/table>");
+			} else { 
+			showMeARR['share'] = Array(0,"<table><tr valign=\"middle\">"+shareButtonsDisplay+"<\/tr><\/table>");
+}
+
+			
+		</script>
+
+					<link rel="stylesheet" type="text/css" href="http://www.philly.com/includes/psawStyle.css">
+			<script type="text/javascript" language="javascript">
+				var siteURL= "$cms.content.url";
+				var pageTitle= "Privacy Policy & Terms of Use - philly.com"; 
+				var shortTitle= "$cms.content.title"; 
+				var pageDesc= "Award-winning news, sports, commentary, and more from the Philadelphia Daily News and Philadelphia Inquirer";
+												var shortURL= "http://philly.com/u/?w=167921&i=${cms.content.id}";
+			</script>
+			<script type="text/javascript" language="javascript" src="http://www.philly.com/includes/psawLib.js"></script> 
+		
+
+			
+		
+
+			
+
+	<script language="javascript1.2">var trkcid=900167921;var partnerID=167921; var _hb=1;</script><script language="javascript1.2" src="http://www.philly.com/g/g/button/button_1.js"></script>
+
+
+
+<div class="article_tools"><form>
+
+		<div class="article_tools_container atcShare" onmouseover="showShareToggleDisplay('share','top');">
+		<div class="atcLabel">share</div>
+		<div class="atcIcon"><img src="http://media.philly.com/designimages/psaw_share.gif"></div>
+		</div>
+
+		<div class="article_tools_container atcEmail" onclick="return(ET());" onmouseover="hideShareToggleDisplay();">
+		<div class="atcLabel">email</div>
+		<div class="atcIcon"><img src="http://media.philly.com/designimages/psaw_email.gif"></div>
+		</div>
+		<div class="article_tools_container atcPrint" onclick="return(PT());" onmouseover="hideShareToggleDisplay();">
+		<div class="atcLabel">print</div>
+		<div class="atcIcon"><img src="http://media.philly.com/designimages/psaw_print.gif"></div>
+		</div>
+
+		
+
+
+		
+
+</form>
+
+
+	<div style="display:none;" class="saveShare" id="shareToggle_display"> </div>
+
+							<div id="shareToggle_display_top">
+				<div id="shareToggle_header_top"><div class="shareToggle_close" onclick="hideShareToggleDisplay();"><img src="http://media.philly.com/designimages/psaw_toggle_close.gif"></div><img src="http://media.philly.com/designimages/psaw_toggle_arrow.gif"><span id="shareToggle_label_top">options</span></div>
+				<div id="shareToggle_body_top">&nbsp;</div>
+				</div>
+			
+
+</div> 
 
 		         <div class="divclear"></div>   
 		 </div> 
@@ -711,27 +796,30 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
 
 
 
-
-
 		
-			
-				
+		
 
-
-			
+	
+		
 	
 				
+		<!--- Insert Top search phrases here --->
+
+		
 
 
 		 						
-				<div id="section_rectangle">
-			<div class="container_ad" id="mrec_300x250">
-																															<script>yld_mgr.place_ad_here("mrec");</script>
 
-								</div>
+		<div id="section_rectangle">
+			<div class="container_ad" id="mrec_300x250">
+									<script>yld_mgr.place_ad_here("mrec");</script>
+
+											</div>
 			<div class="minitext"><a href="http://www.philly.com/philly/about/advertise/">Advertise Here</a></div>
 		</div>
-				
+
+
+	
 	<div id="rightcontent">
 
 
@@ -742,10 +830,10 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
 				
 	
 	                
-
+		
 	
 
-														
+																	
 			
 	
 		
@@ -768,7 +856,7 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
 
 
 
-<div class="container misc" style="margin-bottom:10px;">
+<div id="18706039" class="container misc" style="margin-bottom:10px;">
 	 
 
 
@@ -812,32 +900,42 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
 
  		 		 
 
- 	 		
+ 
+
+	 			
 		 									 
 	 	
 	 	 	 
 	 				
+	 
+	
 		
 		 						
 						
-
-				 
+		
+				
+		 
 						
 			
 			
 			
+
 							
 					
+
+
+
 			 
-							 															 																																																																																																									 												 																																																																																																									 									 																																																																																																					
-	 																																							
+							 															 																																																		 												 																																																		 									 																																														
+	 																											
 	 	
 									
 														
 	
 
+    
 	 			
-		  <div class="subfeature_imgleft">
+		  <div class="subfeature_imgleft" id="18706079">
 
 		 
 		<dl class="headlineonly">
@@ -852,48 +950,23 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
 		
 			 		
 	 
-
-
 			
-			 		
-	 						 																																							
-											
-							 
-				
-		
-				
+					 		
+	 	
 
-				
-		     						
-			 				
-							 																																																																																																																																																							
-		
-			
-				 
-
-		
-
-				
-											
-		
-					
-		
-																									
-			
-		
-
-	
-
-	 									
+	 															
 	
 		
 
-										
+			
 	
-
- 	 			 				
+ 	 			 					 			
             
-				
+											<div class="container_image_left" style="width:72px;">
+		  
+									<a href="http://www.philly.com/philly/restaurants/Sustainable_feast_at_the_college_dining_hall.html">							<img src="http://media.philly.com/images/food_turkey_112609_72x72.jpg" class="img_border" alt="">
+						</a>
+						</div>							
 		 		
 		 
 
@@ -910,7 +983,7 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
               
 		
 				
-								<div class="subfeature-headline"> <a href="http://www.philly.com/philly/sports/phillies/20090516_Phillies_outlast_Nationals_in_12_innings.html">Phils outlast Nats in 12</a>  </div>
+								<div class="subfeature-headline"> <a href="http://www.philly.com/philly/restaurants/Sustainable_feast_at_the_college_dining_hall.html">Sustainable feast at the college dining hall</a>  </div>
 							
 		
 		
@@ -922,12 +995,12 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
  
 	
 
-				 																																																
+				 																												
 
 		
 						<div class="digest-lead">
 
-							The Phillies continued playing their baseball version of the old carnival game Whac-A-Mole tonight at Nationals Park, where they managed to pull out a 10-6 win over Washington in 12 innings. 
+							Roasted turkey, cherry chutney, parsnip mash, and a cranberry and sour cherry polenta tart were on the menu at Philadelphia University's Thanksgiving dinner last week.<br><br>If that wasn't impressive enough for a college dining hall, consider this: The entire menu was sourced locally, 
 			
 							
 			</div>
@@ -973,6 +1046,7 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
 	
  
  
+
 		
 	
 				
@@ -998,6 +1072,8 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
 	 	
 	 	 	 
 	 				
+	 
+	
 	
 		 									
 						
@@ -1014,10 +1090,23 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
 							
 			
 
+
 				
 			 							 
-							 															 																																																																																																																																																																																									 												 																																																																																																																																																																																									 									 																																																																																																																																																																																					
-	 																																																																																										
+							 															 																																																																																																																																																																																																																																																																		 												 																																																																																																																																																																																																																																																																		 									 																																																																																																																																																																																																																																																														
+	 																																																																		
+	 	
+																									
+				
+							 
+							 															 																																																																																									 												 																																																																																									 									 																																																																																					
+	 																																				
+	 	
+																									
+				
+							 
+							 															 																																																																																																																																																		 												 																																																																																																																																																		 									 																																																																																																																																														
+	 																																													
 	 	
 																									
 				
@@ -1028,20 +1117,8 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
 																									
 				
 							 
-							 															 																																																																																		 												 																																																																																		 									 																																																																														
-	 																																	
-	 	
-																									
-				
-							 
-							 															 																																																																																																																																																																																																		 												 																																																																																																																																																																																																		 									 																																																																																																																																																																																														
-	 																																																						
-	 	
-																									
-				
-							 
-							 															 																																																																																																																																																		 												 																																																																																																																																																		 									 																																																																																																																																														
-	 																																													
+							 															 																																																																																																																																																																																																																																																																																		 												 																																																																																																																																																																																																																																																																																		 									 																																																																																																																																																																																																																																																																														
+	 																																																																					
 	 	
 																									
 				
@@ -1068,58 +1145,52 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
 				
 			 
 						
+		 	 		 	 
+																
+			 																		
+						 
+
+		
+
+
+ 
+
+
+
+	
+
+			<dt class="rlinks_colorbar1">
+			
+													
+									<div class="icon"><img src="http://media.philly.com/designimages/icon_inq_0708.gif" class="img_noborder"></div>
+								
+			
+			<a href="http://www.philly.com/philly/news/20091126_Germantown_Settlement_s_troubles_persist.html" class="headlineonly">			
+							Germantown Settlement's troubles persist
+						 </a>
+						
+			 
+ 
+
+ 
+
+			
+			
+			
+			
+
+
+						
+												</dt>
+				
+			 
+						
 		 	 		 	 												
 			 																		
 						 
 
 		
 
-		
- 
-
-
-
-	
-
-			<dt class="rlinks_colorbar1">
-			
-													
-									<div class="icon"><img src="http://media.philly.com/designimages/icon_dn_0708.gif" class="img_noborder"></div>
-								
-			
-			<a href="http://www.philly.com/philly/entertainment/20090515_Steve_and_Mia__Cheating__What_s_your_poll_position_.html" class="headlineonly">			
-							Cheating: What's your poll position?
-						 </a>
-						
-			 
- 
-
- 
-
-				 	 						 
-							 															 																											 												 																											 									 																							
-	 																	
-	 																					
-	
-									
-			
-							<a href="http://www.philly.com/philly/entertainment/20090515_Steve_and_Mia__Cheating__What_s_your_poll_position_.html"><img src="http://media.philly.com/designimages/icon_polling.gif" width="14" height="12" alt="" title="" border="0" class="img_noborder"></a>
-			
-			
-
-
-						
-												</dt>
-				
-			 
-						
-		 	 		 	 
-																
-			 																		
-						 
-
-		
-
 
  
 
@@ -1133,8 +1204,8 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
 									<div class="icon"><img src="http://media.philly.com/designimages/icon_inq_0708.gif" class="img_noborder"></div>
 								
 			
-			<a href="http://www.philly.com/philly/business/20090515_GM_cutbacks_leave_dealers_scrambling.html" class="headlineonly">			
-							GM cutbacks leave dealers scrambling
+			<a href="http://www.philly.com/philly/sports/flyers/20091126_Richards__Carter_lead_Flyers_past_Islanders.html" class="headlineonly">			
+							Flyers fight past Isles
 						 </a>
 						
 			 
@@ -1170,11 +1241,11 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
 			<dt class="rlinks_colorbar1">
 			
 													
-									<div class="icon"><img src="http://media.philly.com/designimages/icon_inq_0708.gif" class="img_noborder"></div>
+									<div class="b_sq">&nbsp;</div>
 								
 			
-			<a href="http://www.philly.com/philly/news/breaking/20090515_Charges_filed_in_Camden__Glouco_bank_robberies.html" class="headlineonly">			
-							Charges filed in Camden, Glouco bank robberies
+			<a href="http://www.philly.com/philly/news/local/20091126_Open_or_Closed_for_Thanksgiving.html" class="headlineonly">			
+							Open or Closed for Thanksgiving
 						 </a>
 						
 			 
@@ -1213,8 +1284,8 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
 									<div class="icon"><img src="http://media.philly.com/designimages/icon_inq_0708.gif" class="img_noborder"></div>
 								
 			
-			<a href="http://www.philly.com/philly/news/local/20090516_33_judicial_candidates_vie_for_11_court_spots.html" class="headlineonly">			
-							33 judicial candidates vie for 11 court spots
+			<a href="http://www.philly.com/philly/news/local/20091126_U__Darby_driver_held_on__1_million_bail.html" class="headlineonly">			
+							U. Darby driver held on $1 million bail
 						 </a>
 						
 			 
@@ -1233,8 +1304,7 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
 				
 			 
 						
-		 	 		 	 
-																
+		 	 		 	 												
 			 																		
 						 
 
@@ -1245,7 +1315,7 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
 
 
 
-
+	
 
 			<dt class="rlinks_colorbar1">
 			
@@ -1253,8 +1323,8 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
 									<div class="icon"><img src="http://media.philly.com/designimages/icon_inq_0708.gif" class="img_noborder"></div>
 								
 			
-			<a href="http://www.philly.com/philly/news/homepage/20090516_Probe_of_Philadelphia_officer_causes_case_to_be_dropped.html" class="headlineonly">			
-							Probe of Philadelphia officer causes case to be dropped
+			<a href="http://www.philly.com/philly/news/homepage/20091126_As_boy_faces_debilitating_illness__parents_face_deportation.html" class="headlineonly">			
+							Boy faces debilitating illness, parents face deportation
 						 </a>
 						
 			 
@@ -1388,18 +1458,17 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
  	 		
 
 
-	
+
 
 		
 
+
+
+
 		
-
- 
-
 <div id="most-popular">
 
-
- 
+		 
 
 
 
@@ -1418,44 +1487,29 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
 	</div>
 
 
- 
-
+	
+	
 	<div class="container_tabtwo" style="width:300px;">
 
 	
-		
+					
 	
+		
+																			
+	
+		
+																
+					<ul id="15585797" class="shadetabs">
+												<li class="selected"><span rel="15589287">Viewed</span></li>
+														<li><span rel="15589327">Shared</span></li> 										</ul>
 			
-	
-		
-													
-	
-		
-											
-
-	<ul id="15585797" class="shadetabs">
-
-
-			<li class="selected"><span rel="15589287">Viewed</span></li>
-					<li><span rel="15589327">Shared</span></li> 	
-
-	</ul>
-
-
-	
-	
-
-
-<div class="tabcontentstyle" style="width:280px;">
-
-	
-
- 		
+			<div class="tabcontentstyle" style="width:280px;">
+				
+					
  
-
-		 <div id="15589287" class="tabcontent" style="width:280px;">
-<div class="inner_container">
-		
+								<div id="15589287" class="tabcontent" style="width:280px;">
+				<div class="inner_container">
+				
 
 
 	 
@@ -1576,80 +1630,80 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
 		
 			<dt class="rlinks_colorbar1">
 						<div class="b_sq">&nbsp;</div>
-		<a href="http://www.philly.com/philly/business/45073312.html?cmpid=15585797">
-	Chrysler ends ties to 11 local dealers
+		<a href="http://www.philly.com/philly/sports/phillies/73292492.html?cmpid=15585797">
+	Sam Donnellon: Figgins would fit nicely atop Phillies batting order
 </a></dt>
 			
 						
 		
 			<dt class="rlinks_colorbar2">
 						<div class="b_sq">&nbsp;</div>
-		<a href="http://www.philly.com/philly/news/45070637.html?cmpid=15585797">
-	For teen sex, he biked 180 miles
+		<a href="http://www.philly.com/philly/news/pennsylvania/73290757.html?cmpid=15585797">
+	MTV show about Shore life called offensive
 </a></dt>
 			
 						
 		
 			<dt class="rlinks_colorbar1">
 						<div class="b_sq">&nbsp;</div>
-		<a href="http://www.philly.com/philly/sports/45089462.html?cmpid=15585797">
-	Phils honored at White House
+		<a href="http://www.philly.com/philly/news/breaking/73567147.html?cmpid=15585797">
+	Charges filed against woman who plowed into 3 boys
 </a></dt>
 			
 						
 		
 			<dt class="rlinks_colorbar2">
 						<div class="b_sq">&nbsp;</div>
-		<a href="http://www.philly.com/philly/entertainment/45070517.html?cmpid=15585797">
-	Tattle: Phanatic charmed Jennifer Love Hewitt
+		<a href="http://www.philly.com/philly/news/breaking/73720517.html?cmpid=15585797">
+	Message in a bottle shows up 24 years later
 </a></dt>
 			
 						
 		
 			<dt class="rlinks_colorbar1">
 						<div class="b_sq">&nbsp;</div>
-		<a href="http://www.philly.com/philly/sports/44909542.html?cmpid=15585797">
-	Lingerie Football League tryouts
+		<a href="http://www.philly.com/philly/news/homepage/73292372.html?cmpid=15585797">
+	Shooter cop was investigated for multiple citizen complaints
 </a></dt>
 			
 						
 		
 			<dt class="rlinks_colorbar2">
 						<div class="b_sq">&nbsp;</div>
-		<a href="http://www.philly.com/philly/blogs/inq-eagles/45100497.html?cmpid=15585797">
-	Report: Eagles offered Brown and pick for Boldin
+		<a href="http://www.philly.com/philly/blogs/phillies/73981577.html?cmpid=15585797">
+	Moyer hospitalized
 </a></dt>
 			
 						
 		
 			<dt class="rlinks_colorbar1">
 						<div class="b_sq">&nbsp;</div>
-		<a href="http://www.philly.com/philly/news/nation_world/45019612.html?cmpid=15585797">
-	Taylor Swift's Stone Harbor
+		<a href="http://www.philly.com/philly/news/homepage/73290382.html?cmpid=15585797">
+	Beach repairs at risk in restrictive Shore towns
 </a></dt>
 			
 						
 		
 			<dt class="rlinks_colorbar2">
 						<div class="b_sq">&nbsp;</div>
-		<a href="http://www.philly.com/philly/sports/phillies/45073977.html?cmpid=15585797">
-	From Jimmy Rollins, another cold shoulder
+		<a href="http://www.philly.com/philly/news/breaking/73618052.html?cmpid=15585797">
+	Philly mob figure pleads guilty in ‘Delco Nostra’ case
 </a></dt>
 			
 						
 		
 			<dt class="rlinks_colorbar1">
 						<div class="b_sq">&nbsp;</div>
-		<a href="http://www.philly.com/philly/business/45148882.html?cmpid=15585797">
-	GM cutbacks leave dealers scrambling
+		<a href="http://www.philly.com/philly/news/73292447.html?cmpid=15585797">
+	Gunshot victim Brinkley renews NFL quest
 </a></dt>
 			
 						
 		
 			<dt class="rlinks_colorbar2">
 						<div class="b_sq">&nbsp;</div>
-		<a href="http://www.philly.com/philly/photos/sports_photos/45097942.html?cmpid=15585797">
-	Phils at White House
+		<a href="http://www.philly.com/philly/news/73738497.html?cmpid=15585797">
+	Body found on Delaware River waterfront identified
 </a></dt>
 			
 						
@@ -1723,14 +1777,12 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
  
  
 
-</div></div>		
-
- 		
+				</div></div>		
+								
  
-
-		 <div id="15589327" class="tabcontent" style="width:280px;">
-<div class="inner_container">
-		
+								<div id="15589327" class="tabcontent" style="width:280px;">
+				<div class="inner_container">
+				
 
 
 	 
@@ -1850,80 +1902,80 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
 		
 			<dt class="rlinks_colorbar1">
 						<div class="b_sq">&nbsp;</div>
-		<a href="http://www.philly.com/inquirer/home_top_stories/45073332.html?cmpid=15585797">
-	Nonprofits tap online networks to raise funds
+		<a href="http://www.philly.com/philly/business/technology/73290307.html?cmpid=15585797">
+	Comcast's holiday show is a breakout in 3-D
 </a></dt>
 			
 						
 		
 			<dt class="rlinks_colorbar2">
 						<div class="b_sq">&nbsp;</div>
-		<a href="http://www.philly.com/philly/blogs/our-money/44881412.html?cmpid=15585797">
-	Next stop on the budget train: Harrisburg
+		<a href="http://www.philly.com/philly/obituaries/73292117.html?cmpid=15585797">
+	Bernie McGuire, retired firefighter
 </a></dt>
 			
 						
 		
 			<dt class="rlinks_colorbar1">
 						<div class="b_sq">&nbsp;</div>
-		<a href="http://www.philly.com/philly/news/nation_world/45019612.html?cmpid=15585797">
-	Taylor Swift's Stone Harbor
+		<a href="http://www.philly.com/philly/news/pennsylvania/73290757.html?cmpid=15585797">
+	MTV show about Shore life called offensive
 </a></dt>
 			
 						
 		
 			<dt class="rlinks_colorbar2">
 						<div class="b_sq">&nbsp;</div>
-		<a href="http://www.philly.com/inquirer/opinion/43758547.html?cmpid=15585797">
-	Editorial: Williams for D.A.
+		<a href="http://www.philly.com/philly/news/breaking/73498957.html?cmpid=15585797">
+	Appeals Court: School district can ban Christmas carols
 </a></dt>
 			
 						
 		
 			<dt class="rlinks_colorbar1">
 						<div class="b_sq">&nbsp;</div>
-		<a href="http://www.philly.com/philly/news/45073402.html?cmpid=15585797">
-	Changing Skyline: A nonconformist's development coup
+		<a href="http://www.philly.com/philly/news/breaking/74014452.html?cmpid=15585797">
+	Greg Kannerstein, 67, ‘Mr. Haverford’
 </a></dt>
 			
 						
 		
 			<dt class="rlinks_colorbar2">
 						<div class="b_sq">&nbsp;</div>
-		<a href="http://www.philly.com/philly/photos/sports_photos/45097942.html?cmpid=15585797">
-	Phils at White House
+		<a href="http://www.philly.com/philly/news/breaking/73569742.html?cmpid=15585797">
+	Runyan says he will run for Congress
 </a></dt>
 			
 						
 		
 			<dt class="rlinks_colorbar1">
 						<div class="b_sq">&nbsp;</div>
-		<a href="http://www.philly.com/philly/blogs/phillies_zone/45121032.html?cmpid=15585797">
-	Obama praises Phils' social engagement
+		<a href="http://www.philly.com/inquirer/opinion/74429212.html?cmpid=15585797">
+	An unexpected friendship
 </a></dt>
 			
 						
 		
 			<dt class="rlinks_colorbar2">
 						<div class="b_sq">&nbsp;</div>
-		<a href="http://www.philly.com/inquirer/magazine/45073382.html?cmpid=15585797">
-	Phila. couple right at home with Southwestern design
+		<a href="http://www.philly.com/philly/sports/phillies/73292492.html?cmpid=15585797">
+	Sam Donnellon: Figgins would fit nicely atop Phillies batting order
 </a></dt>
 			
 						
 		
 			<dt class="rlinks_colorbar1">
 						<div class="b_sq">&nbsp;</div>
-		<a href="http://www.philly.com/dailynews/local/45070582.html?cmpid=15585797">
-	Despite his suicide, Gardiner case will continue
+		<a href="http://www.philly.com/philly/news/homepage/73290382.html?cmpid=15585797">
+	Beach repairs at risk in restrictive Shore towns
 </a></dt>
 			
 						
 		
 			<dt class="rlinks_colorbar2">
 						<div class="b_sq">&nbsp;</div>
-		<a href="http://www.philly.com/philly/sports/44909542.html?cmpid=15585797">
-	Lingerie Football League tryouts
+		<a href="http://www.philly.com/inquirer/front_page/73290372.html?cmpid=15585797">
+	Claims against Phila. VA up to $58 million
 </a></dt>
 			
 						
@@ -1996,23 +2048,18 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
  
  
 
-</div></div>		
+				</div></div>		
+					
+		
+				</div>
+		</div>
+
+	
+	
 
 
 
-
-
-	</div>
-
-</div>
-
- 
-
-
-
-
-
-
+		
 
  </div><!-- closing custom CSS --> <div id="container_rag_bottom"> </div>
 
@@ -2057,10 +2104,33 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
       
 
 	<script type="text/javascript">
-	initializetabcontent(15585797)
+	initializetabcontent(15585797);
 	</script>
 
+
 	 	
+<div class="tracking"> 	
+		
+
+
+
+
+
+
+
+	<script language="JavaScript1.1" type="text/javascript">
+document.write('<script language="JavaScript1.1" type="text/javascript" src="http://ad.doubleclick.net/adj/ph.about/terms_of_use;!category=terms_of_use;pos=dcinv;sz=1x1;abr=!webtv;tile=11;ord='+_phDartOrd+'?"><\/SCRIPT>');
+	</script>
+
+	
+	<noscript>
+	<a href="http://ad.doubleclick.net/jump/ph.about/terms_of_use;!category=terms_of_use;pos=dcinv;sz=1x1;ord=112609052242?" target="_blank">
+	<img src="http://ad.doubleclick.net/ad/ph.about/terms_of_use;!category=terms_of_use;pos=dcinv;sz=1x1;ord=112609052242?"  border="0" /></a>
+	</noscript>
+
+
+</div>
+
 
 			 </div> 
 		  
@@ -2083,7 +2153,7 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
 
 
  
-<div class="supercontainer">
+<div id="18485719" class="supercontainer">
 	<div class="container_4col_left">
 			
 	
@@ -2104,6 +2174,8 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
 	 	
 	 	 
 	 	
+	 
+	
 
 		 						
 	
@@ -2133,7 +2205,7 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
 	
 
 	<div class="containertitle  kicker-title ">
-			<span class="containertitle_kicker"><img src="http://media.philly.com/designimages/arrow_right_title.gif" width="20" height="11" alt="" title="" border="0" class="arrow-offset">today's </span>  poll
+			<span class="containertitle_kicker"><img src="http://media.philly.com/designimages/arrow_right_title.gif" width="20" height="11" alt="" title="" border="0" class="arrow-offset">today's </span>  Philly.com poll
 	</div>
 
 
@@ -2141,26 +2213,28 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
 <div class="container_inner">
 
 			
-							
+			 												
 
 
-	<div class="pollquestion">How often do you do laundry?</div>
+	<div class="pollquestion">Favorite Thanksgiving dish?</div>
 
 <form action="http://polls.clickability.com/polls">
-	<input type="hidden" name="pid" value="45191537">
+	<input type="hidden" name="pid" value="70589557">
 	<input type="hidden" name="cid" value="8500281">
 	<input type="hidden" name="mr" value="1">
-<input type="hidden" name="UGCfooter" value="Y">	<input type="hidden" name="45191537" value="Y">
+<input type="hidden" name="UGCfooter" value="Y">	<input type="hidden" name="70589557" value="Y">
 	<input type="hidden" name="rurl" value="http://www.philly.com/philly/about/terms_of_use/"> 
 	
 
 	
-	<div class="pollchoice"><input type="radio" name="oid" value="1">Daily</div>
-	<div class="pollchoice"><input type="radio" name="oid" value="2">Once a week.</div>
-	<div class="pollchoice"><input type="radio" name="oid" value="3">Every couple of weeks.</div>
-	<div class="pollchoice"><input type="radio" name="oid" value="4">once a month.</div>
+	<div class="pollchoice"><input type="radio" name="oid" value="1">Turkey</div>
+	<div class="pollchoice"><input type="radio" name="oid" value="2">Sweet potatoes</div>
+	<div class="pollchoice"><input type="radio" name="oid" value="3">Stuffing</div>
+	<div class="pollchoice"><input type="radio" name="oid" value="4">Cranberry sauce</div>
+	<div class="pollchoice"><input type="radio" name="oid" value="5">Pie</div>
+	<div class="pollchoice"><input type="radio" name="oid" value="6">All of the above</div>
 
-		<div class="photomore" style="margin:10px 0 0 0;float:right;"><a href="http://www.philly.com/philly/polls/45191537.html?results=y">View results</a></div>
+		<div class="photomore" style="margin:10px 0 0 0;float:right;"><a href="http://www.philly.com/philly/polls/70589557.html?results=y">View results</a></div>
 	 
 	<div class="pollbutton"><input class="pollbutton" type="submit" name="submit" value="Vote" "=""></div>
 
@@ -2208,271 +2282,113 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
  	 		
 
 
- 
 
- 
- 
-						
- 
-						
+
+	<div class="container rssbox">
+	<dl class="headlines-digest" style="padding:0px;margin:0px;">
+
+
+
+
 		
-		
-		 									 
-	 	
-	 	 	 
-	 				
+															
+
+
+
+
 	
-		 									
+	 							
 						
-
-				
-			 			
-			 							
-				
-				
-				
-				
-				
-							
-							
-			
-
-				
-			 							 
-							 															 																																																																																																									 												 																																																																																																									 									 																																																																																																					
-	 																																							
-	 	
-																									
-				
-							 
-							 															 																																																																																																																																																																																									 												 																																																																																																																																																																																									 									 																																																																																																																																																																																					
-	 																																																																																										
-	 	
-																									
-				
-							 
-							 															 																																																																																																																		 												 																																																																																																																		 									 																																																																																																														
-	 																																							
-	 	
-																									
-				
-							 
-							 															 																																																																																		 												 																																																																																		 									 																																																																														
-	 																																	
-	 	
-																									
-				
-			
-
-
-
-
-				
 	
-
-
-	<div class="ugcExpressHeds">
-		
-		<div class="container">
 	
-	<dl class="headlineonly">
-		 					 
+								  																	  																	  																	  																	  																			
+			<!-- Feed Retrieved at: Tue Nov 24 21:00:08 PST 2009 -->
+	
+	 
 
 
 
-				
+						
 
 								
 
 
-						
-
 		
-	
 
-	<div class="containertitle  kicker-title ">
-			<span class="containertitle_kicker"><img src="http://media.philly.com/designimages/arrow_right_title.gif" width="20" height="11" alt="" title="" border="0" class="arrow-offset">express </span>  headlines
+	
+		
+
+	<div class="containertitle video ">
+	<a href="http://www.philly.com/todaysvideos.rss" class="rss-button-link"><img align="right" width="29" height="12" border="0" alt="XML" src="http://media.philly.com/designimages/rss_xm_12px.png" style="margin:0 3px 0 0;" id="rss-button-icon"></a>		<a href="http://www.philly.com/video"> <font color="#e9d775">TODAY'S PHILLY.COM VIDEOS</font></a>
 	</div>
 
 
-				<div class="container_inner">
+
+	<div class="container_inner">
 
 				
+			
+			
+												
+
 				
-			 
+				<dt class="rlinks_colorbar1"><div class="b_sq">&nbsp;</div>					<a href="http://www.philly.com/r?19=961&amp;43=241162&amp;44=73189422&amp;32=3796&amp;7=229017&amp;40=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fvideo%2FBC52495917001.html" class="">Back from the brink</a>												</dt>
+
+			
+												
+
+				
+				<dt class="rlinks_colorbar2"><div class="b_sq">&nbsp;</div>					<a href="http://www.philly.com/r?19=961&amp;43=241162&amp;44=70553482&amp;32=3796&amp;7=229017&amp;40=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fvideo%2FBC51427072001.html" class="">Al Boscov on a buying trip to New York</a>												</dt>
+
+			
+												
+
+				
+				<dt class="rlinks_colorbar1"><div class="b_sq">&nbsp;</div>					<a href="http://www.philly.com/r?19=961&amp;43=241162&amp;44=71102497&amp;32=3796&amp;7=229017&amp;40=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fvideo%2FBC51884709001.html" class="">Tea and Conversation 2009</a>												</dt>
+
+			
+												
+
+				
+				<dt class="rlinks_colorbar2"><div class="b_sq">&nbsp;</div>					<a href="http://www.philly.com/r?19=961&amp;43=241162&amp;44=70386757&amp;32=3796&amp;7=229017&amp;40=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fvideo%2FBC51092937001.html" class="">Donovan McNabb talks diabetes</a>												</dt>
+
+			
+												
+
+				
+				<dt class="rlinks_colorbar1"><div class="b_sq">&nbsp;</div>					<a href="http://www.philly.com/r?19=961&amp;43=241162&amp;44=70200687&amp;32=3796&amp;7=229017&amp;40=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fvideo%2FBC50547347001.html" class="">The Gossip with Marnie Hall, 11/16/2009</a>												</dt>
+
+			
 						
-		 	 		 	 												
-			 																		
-						 
 
+					
+
+
+			
+								
+				
+				<dt> 	 
+	 			
+	 		
+				<div class="morelink"><a href="http://www.philly.com/video" class="bl">More videos <span class="arrow">»</span></a></div>
+			
+
+  </dt>
+				
+			
+
+		</div>
 		
-
-
- 
-
+	
 
 
 	
-
-			<dt class="rlinks_colorbar1">
-			
-							<div class="b_sq">&nbsp;</div>
-				
-			
-			<a href="http://www.philly.com/philly/sports/phillies/20090516_Phillies_outlast_Nationals_in_12_innings.html" class="headlineonly">			
-							Phils outlast Nats in 12
-						 </a>
-						
-			 
- 
-
- 	 		 	 					 
-							 															 																																																		 												 																																																		 									 																																														
-	 																											
-	 	
-									
-
-			
-			
-							<a href="http://www.philly.com/philly/sports/phillies/20090516_Phillies_outlast_Nationals_in_12_innings.html"><img src="http://media.philly.com/designimages/icon_camera.gif" width="16" height="12" alt="" title="" border="0" class="img_noborder"></a>
-			
-			
+<a href="http://www.philly.com/todaysvideos.rss"><img src="http://media.philly.com/designimages/spacer.gif" width="0" height="0" class="img_noborder"></a>
 
 
-						
-												</dt>
-				
-			 
-						
-		 	 		 	 												
-			 																		
-						 
+</dl>
 
-		
-
-		
- 
-
-
-
-	
-
-			<dt class="rlinks_colorbar2">
-			
-							<div class="b_sq">&nbsp;</div>
-				
-			
-			<a href="http://www.philly.com/philly/entertainment/20090515_Steve_and_Mia__Cheating__What_s_your_poll_position_.html" class="headlineonly">			
-							Cheating: What's your poll position?
-						 </a>
-						
-			 
- 
-
- 
-
-				 	 						 
-							 															 																											 												 																											 									 																							
-	 																	
-	 																					
-	
-									
-			
-							<a href="http://www.philly.com/philly/entertainment/20090515_Steve_and_Mia__Cheating__What_s_your_poll_position_.html"><img src="http://media.philly.com/designimages/icon_polling.gif" width="14" height="12" alt="" title="" border="0" class="img_noborder"></a>
-			
-			
-
-
-						
-												</dt>
-				
-			 
-						
-		 	 		 	 
-																
-			 																		
-						 
-
-		
-
-
- 
-
-
-
-	
-
-			<dt class="rlinks_colorbar1">
-			
-							<div class="b_sq">&nbsp;</div>
-				
-			
-			<a href="http://www.philly.com/philly/business/20090515_GM_cutbacks_leave_dealers_scrambling.html" class="headlineonly">			
-							GM cutbacks leave dealers scrambling
-						 </a>
-						
-			 
- 
-
- 
-
-			
-			
-			
-			
-
-
-						
-												</dt>
-				
-			 
-						
-		 	 		 	 
-																
-			 																		
-						 
-
-		
-
-
- 
-
-
-
-	
-
-			<dt class="rlinks_colorbar2">
-			
-							<div class="b_sq">&nbsp;</div>
-				
-			
-			<a href="http://www.philly.com/philly/news/breaking/20090515_Charges_filed_in_Camden__Glouco_bank_robberies.html" class="headlineonly">			
-							Charges filed in Camden, Glouco bank robberies
-						 </a>
-						
-			 
- 
-
- 
-
-			
-			
-			
-			
-
-
-						
-												</dt>
-		
-				</div>
-	</dl> <!-- end headlineonly -->
-
-		</div> <!-- end container -->
-	
-	</div>
-			
-
- 
+</div> 
 
  	
  
@@ -2506,9 +2422,12 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
 
 		 
 
- 						 
-												 
-						 								
+
+
+
+ 		 
+						 
+		 											
 
 		 						 		
 
@@ -2516,7 +2435,7 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
 
 		
 				
-		 														 																								 																								 																								 																								 																								 																								 												
+		 														 																								 																								 																								 																								 																								 																								 																								 												
 
 		 		
 
@@ -2528,9 +2447,7 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
 										
  
 
-		
-
-
+	
 
 
 
@@ -2551,17 +2468,17 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
 	
 
 	<div class="containertitle  ">
-			<img src="http://media.philly.com/designimages/arrow_right_title.gif" width="20" height="11" alt="" title="" border="0" class="arrow-offset"> Promotions
+			<img src="http://media.philly.com/designimages/arrow_right_title.gif" width="20" height="11" alt="" title="" border="0" class="arrow-offset"> Philly.com Promotions
 	</div>
 
 
 	<div class="container_inner">	<dl class="headlineonly">
 	 														
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="http://www.philly.com/philly/phillywomen/" class="bl">Flourish</a></dt> 
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="http://www.philly.com/philly/living/celebrations/weddings/Love_of_A_Lifetime_Wedding_Giveaway.html" class="bl">Win A Wedding</a></dt> 
 
 
 																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="http://www.philly.com/philly/contests/" class="bl">Contests</a></dt> 
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="http://www.philly.com/philly/contests/" class="bl">Philly.com Contests</a></dt> 
 
 
 																	
@@ -2569,7 +2486,7 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
 
 
 																	
-								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="http://www.philly.com/philly/business" class="bl">Philadelphia Business Today</a></dt> 
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="http://www.fansnap.com/tickets/169941-on" target="_blank" class="bl">Buy World Series Tickets</a></dt> 
 
 
 																	
@@ -2581,7 +2498,11 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
 
 
 																	
-								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="http://www.philly.com/philly/news/41758282.html" class="bl">Follow us on Twitter</a></dt> 
+								<dt class="rlinks_colorbar1"> <div class="b_sq">&nbsp;</div><a href="http://www.philly.com/philly/news/41758282.html" class="bl">Philly.com Twitter Directory</a></dt> 
+
+
+																	
+								<dt class="rlinks_colorbar2"> <div class="b_sq">&nbsp;</div><a href="http://philly.stats.com/" class="bl"><b><img src="http://philly.stats.com/config/stats_logo.gif" border="0"></b> <br>Copyright © 2009 by STATS LLC</a></dt> 
 
 
 			 	</dl>
@@ -2642,7 +2563,7 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
 	
 	
 								  																	  																	  																	  																	  																	  																																																																																																																																																																																																																																										
-			<!-- Feed Retrieved at: Fri May 15 21:22:01 PDT 2009 -->
+			<!-- Feed Retrieved at: Wed Nov 25 20:39:08 PST 2009 -->
 	
 	 
 
@@ -2659,7 +2580,7 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
 		
 
 	<div class="containertitle  kicker-title ">
-	<a href="http://www.philly.com/Philly_Gallery_Feed.rss" class="rss-button-link"><img align="right" width="29" height="12" border="0" alt="XML" src="http://media.philly.com/designimages/rss_xm_12px.png" style="margin:0 3px 0 0;" id="rss-button-icon"></a>		<a href="http://www.philly.com/r?19=960&amp;32=3796&amp;7=415854&amp;40=http%3A%2F%2Fwww.philly.com"><span class="containertitle_kicker"><img src="http://media.philly.com/designimages/arrow_right_title.gif" width="20" height="11" alt="" title="" border="0" class="arrow-offset"><font color="#e9d775">latest </font></span><font color="#e9d775">  photo galleries</font></a>
+	<a href="http://www.philly.com/Philly_Gallery_Feed.rss" class="rss-button-link"><img align="right" width="29" height="12" border="0" alt="XML" src="http://media.philly.com/designimages/rss_xm_12px.png" style="margin:0 3px 0 0;" id="rss-button-icon"></a>		<a href="http://www.philly.com/Philly_Gallery_Feed.rss"><span class="containertitle_kicker"><img src="http://media.philly.com/designimages/arrow_right_title.gif" width="20" height="11" alt="" title="" border="0" class="arrow-offset"><font color="#e9d775">latest </font></span><font color="#e9d775">  photo galleries</font></a>
 	</div>
 
 
@@ -2672,37 +2593,37 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
 												
 
 				
-				<dt class="rlinks_colorbar1"><div class="b_sq">&nbsp;</div>					<a href="http://www.philly.com/r?19=961&amp;43=165761&amp;44=45089847&amp;32=3796&amp;7=415854&amp;40=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fnews%2FChanging_Skyline_A_nonconformists_development_coup.html" class="">Schmidt's brewery transformed</a>												</dt>
+				<dt class="rlinks_colorbar1"><div class="b_sq">&nbsp;</div>					<a href="http://www.philly.com/r?19=961&amp;43=194002&amp;44=74116732&amp;32=3796&amp;7=415854&amp;40=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fphotos%2Fsports_photos%2FPhiladelphia_Union_Expansion_Draft.html" class="">Philadelphia Union Expansion Draft</a>												</dt>
 
 			
 												
 
 				
-				<dt class="rlinks_colorbar2"><div class="b_sq">&nbsp;</div>					<a href="http://www.philly.com/r?19=961&amp;43=168496&amp;44=45188382&amp;32=3796&amp;7=415854&amp;40=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fsports%2Fphillies%2Fmlb%2F051509_phils_nationals.html" class="">Phils 10, Nats 6 (12)</a>												</dt>
+				<dt class="rlinks_colorbar2"><div class="b_sq">&nbsp;</div>					<a href="http://www.philly.com/r?19=961&amp;43=194002&amp;44=74274642&amp;32=3796&amp;7=415854&amp;40=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fphotos%2Fsports_photos%2FCeltics_113_Sixers_110.html" class="">Celtics 113, Sixers 110</a>												</dt>
 
 			
 												
 
 				
-				<dt class="rlinks_colorbar1"><div class="b_sq">&nbsp;</div>					<a href="http://www.philly.com/r?19=961&amp;43=200452&amp;44=44709572&amp;32=3796&amp;7=415854&amp;40=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fzzz_systest%2FTesting_Project_FW.html" class="">Testing Project_FW</a>												</dt>
+				<dt class="rlinks_colorbar1"><div class="b_sq">&nbsp;</div>					<a href="http://www.philly.com/r?19=961&amp;43=194002&amp;44=74207322&amp;32=3796&amp;7=415854&amp;40=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fphotos%2Fsports_photos%2FFlyers_2_Islanders_1.html" class="">Flyers 2, Islanders 1</a>												</dt>
 
 			
 												
 
 				
-				<dt class="rlinks_colorbar2"><div class="b_sq">&nbsp;</div>					<a href="http://www.philly.com/r?19=961&amp;43=194002&amp;44=45097942&amp;32=3796&amp;7=415854&amp;40=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fphotos%2Fsports_photos%2FPhils_at_White_House.html" class="">Phils at White House</a>												</dt>
+				<dt class="rlinks_colorbar2"><div class="b_sq">&nbsp;</div>					<a href="http://www.philly.com/r?19=961&amp;43=186326&amp;44=64773417&amp;32=3796&amp;7=415854&amp;40=http%3A%2F%2Fwww.philly.com%2Finquirer%2Fgallery%2FEstimating_Parades.html" class="">Estimating Parades</a>												</dt>
 
 			
 												
 
 				
-				<dt class="rlinks_colorbar1"><div class="b_sq">&nbsp;</div>					<a href="http://www.philly.com/r?19=961&amp;43=168391&amp;44=44984462&amp;32=3796&amp;7=415854&amp;40=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fsports%2Feagles%2Fnfl%2FDeSean_Jackson_goes_to_school.html" class="">DeSean Jackson goes to school</a>												</dt>
+				<dt class="rlinks_colorbar1"><div class="b_sq">&nbsp;</div>					<a href="http://www.philly.com/r?19=961&amp;43=165801&amp;44=72883987&amp;32=3796&amp;7=415854&amp;40=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fbusiness%2FComcast_Holiday_Spectacular_in_3D.html" class="">Comcast Holiday Spectacular in 3D</a>												</dt>
 
 			
 												
 
 				
-				<dt class="rlinks_colorbar2"><div class="b_sq">&nbsp;</div>					<a href="http://www.philly.com/r?19=961&amp;43=189041&amp;44=45085787&amp;32=3796&amp;7=415854&amp;40=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fhp%2Fart%2Fsheryl_crow.html" class="">Crow headlines July 4</a>												</dt>
+				<dt class="rlinks_colorbar2"><div class="b_sq">&nbsp;</div>					<a href="http://www.philly.com/r?19=961&amp;43=485342&amp;44=72890007&amp;32=3796&amp;7=415854&amp;40=http%3A%2F%2Fwww.philly.com%2Fphilly%2Fphillywomen%2Fsnapglowtv%2FArt_Appreciation_SGTV_GOTG_11242009.html" class="">Art Appreciation</a>												</dt>
 
 			
 								 				
@@ -2774,7 +2695,57 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
 
 
 <div id="topdeal-footer">
-         <div class="topdeal_promo"></div>
+         <div class="topdeal_promo"><div class="container_5col_left"><div class="topdeals_container">
+<a href="http://newspaperads.philly.com/ROP/Categories.aspx" target="_new">
+<div class="topdeals_title">
+Healthcare Communications Group -- HCG<br>
+</div>
+<div class="topdeals_desc">
+Wake up to pain? Volunteer for our research study.</div>
+</a>
+</div>
+</div>
+<div class="container_5col_leftmiddle"><div class="topdeals_container">
+<a href="http://www.lensautobody.net" target="_new">
+<div class="topdeals_title">
+LEN'S AUTO BODY<br>
+</div>
+<div class="topdeals_desc">
+4819 COTTMAN AVE. -- 24-HOUR TOWING</div>
+</a>
+</div>
+</div>
+<div class="container_5col_middlemiddle"><div class="topdeals_container">
+<a href="http://newspaperads.philly.com/ROP/ads.aspx?advid=128943&amp;adid=8613133" target="_new">
+<div class="topdeals_title">
+C &amp; S CONTRACTORS<br>
+</div>
+<div class="topdeals_desc">
+ROOFING SALE -- All Types Of Roofs -- 215-332-6600</div>
+</a>
+</div>
+</div>
+<div class="container_5col_rightmiddle"><div class="topdeals_container">
+<a href="http://newspaperads.philly.com/ROP/Categories.aspx" target="_new">
+<div class="topdeals_title">
+XTRA VIDEO, INC.<br>
+</div>
+<div class="topdeals_desc">
+Visit Us At 9456 State Rd. in Phila. -- 215-612-1441</div>
+</a>
+</div>
+</div>
+<div class="container_5col_right"><div class="topdeals_container">
+<a href="http://www.acepublic.com" target="_new">
+<div class="topdeals_title">
+ACE Public Adjusters<br>
+</div>
+<div class="topdeals_desc">
+Helping Homeowners Since 1986 -- 215-624-4911</div>
+</a>
+</div>
+</div>
+</div>
 
    </div><div class="divclear"></div>
 
@@ -2843,7 +2814,7 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
 						<a href="http://www.philly.com/philly/jobs">
 															Jobs
 													</a>
-																																																																																																																																																																																																																																																																																																																																																																																														</dt>
+																																																																																																																																																																																																																																																																																																																																																																																																							</dt>
 			</dl>
 			</div>
 
@@ -2855,9 +2826,12 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
 
 		 
 
- 						 
-												 
-						 										
+
+
+
+ 		 
+						 
+		 													
 
 		 						 				
 
@@ -2878,9 +2852,7 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
 										
  
 
-		
-
-
+	
 
 
 		
@@ -3039,9 +3011,12 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
 
 		 
 
- 						 
-												 
-						 										
+
+
+
+ 		 
+						 
+		 													
 
 		 						 				
 
@@ -3061,9 +3036,7 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
 										
  
 
-		
-
-
+	
 
 
 		
@@ -3129,9 +3102,12 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
 
 		 
 
- 						 
-												 
-						 										
+
+
+
+ 		 
+						 
+		 													
 
 		 						 				
 
@@ -3151,9 +3127,7 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
 										
  
 
-		
-
-
+	
 
 
 
@@ -3311,6 +3285,7 @@ document.write('<div style="padding:5px 0px 10px 0px; color:#990000;"><b>NOTE: Y
 	
  
  
+
 
 
 
