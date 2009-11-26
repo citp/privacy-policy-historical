@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the timesdaily.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525194923id_/http%3A//www.timesdaily.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesdaily.com privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126192111id_/http%3A//www.timesdaily.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | TimesDaily.com | The Times Daily | Florence, AL
 
-Published: Saturday, May 23, 2009 at 3:30 a.m.   
+Published: Thursday, November 26, 2009 at 3:30 a.m.   
 Last Modified: Monday, April 27, 2009 at 11:16 p.m. 
 
 This Privacy Policy discloses the privacy practices for TimesDaily newspaper and TimesDaily.com (the “Site”). For the purposes of this Privacy Policy, unless otherwise noted, all references to “TimesDaily” include TimesDaily.com and TimesDaily newspaper. TimesDaily is part of the Tennessee Valley Printing Company.
@@ -174,6 +174,14 @@ Other Information: Children's Guidelines
 COPPA Compliance:
 
 In accordance with the Children's Online Privacy Protection Act (COPPA), TimesDaily does not knowingly collect or store any personal information, even in aggregate, about children under the age of 13.
+
+Yahoo! Ads and Opt-Out Policies
+
+Yahoo! is an ad network partner, operating through the APT from Yahoo! platform, that displays ads on Tennessee Valley Printing Company Web sites. To improve your ad experience on Tennessee Valley Printing Web sites and elsewhere on the Internet, we may send non-personal information to Yahoo! based on your browser’s activities, such as type of pages viewed and categories of interests, so that the advertising you see is relevant to you. Yahoo! also may use information regarding its own users to select which ads to display.
+
+To learn more about Yahoo!’s ad practices, including how to opt out of using anonymous information to select which ads to show you, see <http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html>.
+
+Yahoo! is a member of the Network Advertising Initiative. See [http://www.networkadvertising.org](http://www.networkadvertising.org/).
 
 Other Information: Changes to This Policy
 
