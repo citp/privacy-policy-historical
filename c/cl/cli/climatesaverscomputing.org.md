@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the climatesaverscomputing.org privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627154915id_/http%3A//www.climatesaverscomputing.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the climatesaverscomputing.org privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126012757id_/http%3A//www.climatesaverscomputing.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
