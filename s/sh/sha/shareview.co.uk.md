@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shareview.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217082903id_/http%3A//www.shareview.co.uk/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareview.co.uk privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126053911id_/http%3A//www.shareview.co.uk/Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -37,7 +37,7 @@ Unless you tell us not to, we may share your information within the Equiniti gro
 
 
 
-If you prefer not to receive this kind of information, simply let us know by visiting [www.shareview.co.uk/clients/shareviewoptout](http://www.shareview.co.uk/clients/shareviewoptout).
+If you prefer not to receive this kind of information, simply let us know by visiting [www.shareview.co.uk/clients/shareviewoptout](https://web.archive.org/clients/shareviewoptout).
 
 Under the Data Protection Act 1998 you are entitled to a copy of the information we hold about you on request, on payment of a fee. If you think any information we hold about you is inaccurate, don’t hesitate to let us know so that we can correct it.
 
