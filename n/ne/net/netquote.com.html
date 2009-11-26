@@ -1,21 +1,19 @@
-<!--The following is the downloaded HTML source of the netquote.com privacy policy that was archived on 2009-04-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090425231050id_/http%3A//www.netquote.com/about/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the netquote.com privacy policy that was archived on 2009-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091126173832id_/http%3A//www.netquote.com/about/privacy-policy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/Generic-LowerLevelContent.dwt" codeOutsideHTMLIsLocked="false" --><head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/Generic-LowerLevelContent.dwt" codeOutsideHTMLIsLocked="false" --><head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <!-- InstanceBeginEditable name="Meta Tag Description" -->
 <meta name="Description" content="Privacy policy information for NetQuote. All of NetQuotes products and services are governed by our main privacy policy, which explains how we treat personal information.">
 <!-- InstanceEndEditable --><!-- InstanceBeginEditable name="Meta Tag Keywords" -->
 <meta name="Keywords" content="privacy policy, netquote policy, netquote">
 <!-- InstanceEndEditable --><!-- InstanceBeginEditable name="doctitle" -->
-<title>Privacy Policy | NetQuote</title>
+<title>
+	Privacy Policy | NetQuote
+</title>
 <script src="/includes/IsProductionScript.ashx"></script>
 <script src="/includes/SessionRequestScript.ashx"></script></head><body style="background-image: url(/StaticSupport/images/nq-auto-blue-bg.jpg); background-color: #336699; background-repeat: repeat-x; width: 100%;"><img name="sessionrefresh" src="/uaimages/clearpixel.gif">
-<!-- InstanceEndEditable -->
-<link href="/StaticSupport/css/Font-Styles.css" rel="stylesheet" type="text/css">
-<link href="/StaticSupport/css/Object-Styles.css" rel="stylesheet" type="text/css">
-<link href="/StaticSupport/css/Navigation.css" rel="stylesheet" type="text/css">
-
+<!-- InstanceEndEditable --> 
+<link href="/StaticSupport/css/Font-Styles.css" rel="stylesheet" type="text/css"><link href="/StaticSupport/css/Object-Styles.css" rel="stylesheet" type="text/css"><link href="/StaticSupport/css/Navigation.css" rel="stylesheet" type="text/css">
 
 <div id="template">
   <table width="938" align="center" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
@@ -111,6 +109,16 @@
             <li class="level3"><a href="../business-insurance/choose">Business Insurance</a></li>
           </ul>
 		</li>
+		<li class="level2"><a id="link6" onclick="javascript: displayHome(this.id);" href="#"><strong>Insurance</strong> News</a>
+          <ul style="display:none;">
+            <li class="level3"><a href="../auto-insurance/news">Auto Insurance News</a></li>
+            <li class="level3"><a href="../home-insurance/news">Home Insurance News</a></li>
+            <li class="level3"><a href="../health-insurance/news">Health Insurance News</a></li>
+            <li class="level3"><a href="../life-insurance/news">Life Insurance News</a></li>
+            <li class="level3"><a href="../business-insurance/news">Business Insurance News</a></li>
+			<li class="level3"><a href="../insurance-agents/news">Insurance Agent News</a></li>
+          </ul>
+		</li>
       </ul>
     </div>
     <div id="sidebarBot"><span>&nbsp;</span></div>
@@ -122,7 +130,173 @@
         <td valign="top"><div style="width:191px; border:0px; border-color:#000000; border-style:solid; float:right;">
             <table width="191" border="0" cellpadding="0" cellspacing="0">
               <tbody><tr>
-                <td colspan="2" height="157" valign="top"><!-- #BeginLibraryItem "/Library/Generic-LowerLevelImage.lbi" --><img src="../StaticSupport/images/NQ_L4_HeroIMG.jpg" width="191" height="157"><!-- #EndLibraryItem --></td>
+                <td colspan="2" height="157" valign="top"><!-- #BeginLibraryItem "/Library/Generic-LowerLevelForm.lbi" --><div style="width:184px; float:right; margin-left:0px; margin-right:0px; margin-bottom:3px;" align="right">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+$(document).ready(function(){
+	var type = $("#type_of option:selected").val();
+	if (type == "Auto")
+	{
+	$("#currently").show();
+	$("#currentlyText").show();
+	}
+	else
+	{
+	$("#currently").hide();
+	$("#currentlyText").hide();
+	document.getElementById("currently_1").checked = false;
+	document.getElementById("currently_0").checked = false;
+	}
+	
+	$("#type_of").change(function () {
+	var type = $("#type_of option:selected").val();
+	  if (type == "Auto")
+	  {
+		$("#currently").show();
+		$("#currentlyText").show();
+	  }
+	  else
+	  {
+		$("#currently").hide();
+		$("#currentlyText").hide();
+		document.getElementById("currently_1").checked = false;
+		document.getElementById("currently_0").checked = false;			
+	  }
+	})
+});
+
+function validate_form()
+{
+    valid = true;
+	var zip = $("#zip_code").val();
+	var yes = document.getElementById("currently_0");
+	var no = document.getElementById("currently_1");
+	var type = $("#type_of option:selected").val();
+	var insured = "No";
+    if ( zip.length == 0 || zip == "Enter ZIP Code" )
+    {
+        alert ( "Please enter a valid ZIP code." );
+        valid = false;
+    }
+	else if (zip.length < 5)
+	{
+		alert ( "Invalid zip code" );
+        valid = false;
+	}
+	else if (Zip_Validate(zip) == false)
+	{
+		alert ( "Invalid zip code" );
+        valid = false;
+	}
+	else if (type == "Auto") 
+	{
+		if (yes.checked == false && no.checked == false)
+		{
+			alert("Please indicate if you currently have auto insurance.");
+			valid = false;		
+		}	
+	}
+	else if (type == "Motorcycle")
+	{
+		var url = "/staticsupport/redirect.aspx?nqid=15256&type_of=Motorcycle&zip_code=" + zip;
+		window.open(url, "", "width=480, height=420, resizable=no, scrollbars=yes, location=no");
+		return false;
+	}
+	if (valid == true)
+	{
+		if (yes.checked)	
+		{
+			insured = "Yes";
+		}
+		window.location = "/StaticSupport/asp/Redirect.aspx?placement=RD&zip_code=" + zip + "&type_of=" + type + "&currently=" + 
+insured;
+		valid = false;
+	}
+	
+    return valid;
+}
+
+function Zip_Validate(zip)
+{
+	var boo = false;
+	var url = "/handlers/ZipCodeValidation.ashx?zipcode=" + zip
+	var xmlhttp=null;
+	if (window.XMLHttpRequest)
+	{// code for IE7+, Firefox, Chrome, Opera, Safari
+		xmlhttp=new XMLHttpRequest();
+	}
+	else
+	{// code for IE6, IE5
+		xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+	}
+	xmlhttp.open("GET",url,false);
+	xmlhttp.send(null);
+	boo = xmlhttp.responseText;
+	
+	return boo
+}
+</script>
+ <form id="MainConv" name="MainConv" style="clear:both;" onsubmit="return validate_form();">
+    <table width="184" align="right" border="0" height="157" cellpadding="0" cellspacing="0" bgcolor="#e7f3fb">
+	  <tbody><tr>
+	  	<td><img src="/staticsupport/images/nq-widget-top.jpg"></td>
+	  </tr>
+      <tr>
+        <td width="184" align="center" valign="bottom" style="font-size: 50px; color: #336699; line-height: 45px;"><strong>SAVE</strong></td>
+      </tr>
+	  <tr>
+	  	<td align="center" style="padding-bottom: 12px; font-size: 30px; color: #336699; line-height: 24px;">up to <strong>35%</strong></td>
+	  </tr>
+      <tr>
+        <td width="184" align="center" style="padding-left:0px; padding-bottom:8px; padding-right:2px;"><input tabindex="1" value="Enter ZIP Code" onfocus="javascript:this.value=''; this.maxLength='5';" class="MainConvFormStyle" style="width:140px;" type="text" name="zip_code" id="zip_code" size="15"></td>
+      </tr>
+      <tr>
+        <td width="184" align="center" style="padding-left:0px; padding-bottom:8px; padding-right:0px;"><select tabindex="2" style="width: 146px;" name="type_of" id="type_of">
+              <option value="Auto" selected="selected">Auto Insurance</option>
+              <option value="Home">Home Insurance</option>
+              <option value="Home">Renters Insurance</option>
+              <option value="Health">Health Insurance</option>
+              <option value="Life">Life Insurance</option>
+              <option value="Business">Business Insurance</option>
+              <option value="Group">Group Health Insurance</option>
+			  <option value="Motorcycle">Motorcycle Insurance</option>
+				</select></td>
+      </tr>
+	  <tr>
+		<td height="25" align="left" style="color: #4e4e4e;
+			font-size: 12px; padding-left: 17px;" id="currentlyText">
+			Do you currently<br> have auto insurance?
+		</td>
+	 </tr>
+	 <tr>
+		<td align="left" style="padding-left: 20px;" id="currently">
+			<table width="95" border="0" style="font-size: 12px; color: #4e4e4e;">
+				<tbody>
+					<tr>
+						<td>
+							<input id="currently_0" tabindex="2" type="radio" value="Yes" name="currently">
+							<label for="currently_0">
+								Yes</label>
+						</td>
+						<td>
+							<input id="currently_1" tabindex="3" type="radio" value="No" name="currently"><label for="currently_1">No</label>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+		</td>
+	  </tr>
+      <tr>
+        <td width="184" align="center" style="padding-top: 4px; padding-right: 4px; padding-bottom: 5px;"><img src="/staticsupport/images/nq-widget-lock.jpg"><input type="image" src="/StaticSupport/images/nq-widget-button.jpg" name="Submit" tabindex="3" onclick="return validate_form();"></td>
+      </tr>
+      <tr>
+        <td width="184"><img src="/staticsupport/images/nq-widget-bottom.jpg"></td>
+      </tr>
+    </tbody></table>
+  </form>
+</div>
+<!-- #EndLibraryItem --></td>
               </tr>
               <tr>
                 <td colspan="2" align="center"><!-- InstanceBeginEditable name="Right Hand Content" --><!-- #BeginLibraryItem "/Library/Generic-InYourNeighborhood.lbi" --><br>
@@ -148,64 +322,7 @@
               </tr>
             </tbody></table>
           </div>
-          <div style="width:509px; border:0px; border-color:#000000; border-style:solid; float:left;"><!-- #BeginLibraryItem "/Library/Generic-LowerLevelForm.lbi" --><div style="width:165px; float:right; margin-left:0px; margin-right:0px; margin-bottom:3px; background-image:url(../StaticSupport/images/NQ_L4_FormBacking.jpg); background-repeat:no-repeat;" align="right">
-	<script type="text/javascript">
-		window.onload=function() 
-		{   
-			var formwid = document.forms["MainConv"];
-			formwid.onsubmit = OnSubmit;   
-		} 
-		
-		function OnSubmit()
-		{		
-			var formwid = document.forms["MainConv"];				
-			var zip = formwid.elements["zip_code"].value;
-			var product = formwid.elements["type_of"]
-			if (product.options[product.selectedIndex].value == "Motorcycle")
-			{
-				var url = "/staticsupport/redirect.aspx?nqid=15256&type_of=Motorcycle&zip_code=" + zip;
-				window.open(url, "", "width=480, height=420, resizable=no, scrollbars=yes, location=no");
-				return false;
-			}
-			else
-			{
-				return true;
-			}
-		}
-	</script>
-  <form id="MainConv" name="MainConv" style="clear:both;" method="post" action="../StaticSupport/asp/redirect.aspx">
-  <input name="env" type="hidden" value="http://www.netquote.com">
-    <table width="165" align="right" border="0" height="157" cellpadding="0" cellspacing="0">
-      <tbody><tr>
-        <td rowspan="5" width="5">&nbsp;</td>
-        <td width="160" align="center" valign="bottom" class="MainConvHeaderText" style="padding-top:17px; padding-bottom:15px;"><span class="L4-MainConvSubHeaderText">Save up to 35%</span></td>
-      </tr>
-      <tr>
-        <td width="160" align="center" style="padding-left:0px; padding-bottom:8px; padding-right:0px;"><input tabindex="1" value="Enter ZIP Code" onfocus="javascript:this.value=''; this.maxLength='5';" class="MainConvFormStyle" style="width:140px;" type="text" name="zip_code" size="15"></td>
-      </tr>
-      <tr>
-        <td width="160" align="center" style="padding-left:0px; padding-bottom:8px; padding-right:0px;"><select tabindex="2" style="width: 146px;" name="type_of" id="type_of">
-              <option value="Auto">Auto Insurance</option>
-              <option value="Home">Home Insurance</option>
-              <option value="Home">Renters Insurance</option>
-              <option value="Health">Health Insurance</option>
-              <option value="Life" selected="selected">Life Insurance</option>
-              <option value="Business">Business Insurance</option>
-              <option value="Group">Group Health Insurance</option>
-			  <option value="Motorcycle">Motorcycle Insurance</option>
-				</select></td>
-      </tr>
-      <tr>
-        <td width="160" align="center"><span style="padding-left:0px; padding-bottom:8px; padding-right:0px;">
-          <input type="image" src="../StaticSupport/images/NQ-ConversionBTN.gif" name="Submit" tabindex="3">
-        </span></td>
-      </tr>
-      <tr>
-        <td width="160">&nbsp;</td>
-      </tr>
-    </tbody></table>
-  </form>
-</div><!-- #EndLibraryItem --><!-- InstanceBeginEditable name="BreadCrumb" -->
+          <div style="width:509px; border:0px; border-color:#000000; border-style:solid; float:left;"><!-- InstanceBeginEditable name="BreadCrumb" -->
             <div id="breadCrumbs">
               <ul>
                 <li class="first"><a href="../">Home</a></li>
@@ -481,6 +598,25 @@
                 </li>
               </ul>
             <!-- InstanceEndEditable --></span></div>
+			  <div style="padding-right: 10px;">
+			  	<!-- InstanceBeginEditable name="SocialBookmark" --><p style="font-size: 14px;">
+<b>Share and Enjoy:</b><br>
+<a href="http://digg.com/submit?phase=2&amp;url=http://www.netquote.com/about/privacy-policy.aspx&amp;title=Privacy Policy | NetQuote" target="_blank" rel="nofollow"><img src="/StaticSupport/images/digg.png" border="0" height="16" width="16" alt="Digg" class="sociable-hovers"></a>
+<a href="http://sphinn.com/submit.php?url=http://www.netquote.com/about/privacy-policy.aspx&amp;title=Privacy Policy | NetQuote" target="_blank" rel="nofollow"><img src="/StaticSupport/images/sphinn.gif" border="0" height="16" width="16" alt="Sphinn" class="sociable-hovers"></a>				
+<a href="http://del.icio.us/post?url=http://www.netquote.com/about/privacy-policy.aspx&amp;title=Privacy Policy | NetQuote" target="_blank" rel="nofollow"><img src="/StaticSupport/images/delicious.png" border="0" height="16" width="16" alt="del.icio.us" class="sociable-hovers"></a>
+<a href="http://www.facebook.com/share.php?u=http://www.netquote.com/about/privacy-policy.aspx&amp;t=Privacy Policy | NetQuote" target="_blank" rel="nofollow"><img src="/StaticSupport/images/facebook.png" border="0" height="16" width="16" alt="Facebook" class="sociable-hovers"></a>
+<a href="http://www.mixx.com/submit?page_url=http://www.netquote.com/about/privacy-policy.aspx&amp;title=Privacy Policy | NetQuote" target="_blank" rel="nofollow"><img src="/StaticSupport/images/mixx.png" border="0" height="16" width="16" alt="Mixx" class="sociable-hovers"></a>
+<a href="http://www.google.com/bookmarks/mark?op=edit&amp;bkmk=http://www.netquote.com/about/privacy-policy.aspx&amp;title=Privacy Policy | NetQuote" target="_blank" rel="nofollow"><img src="/StaticSupport/images/googlebookmark.png" border="0" height="16" width="16" alt="Google" class="sociable-hovers"></a>
+<a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://www.netquote.com/about/privacy-policy.aspx&amp;title=Privacy Policy | NetQuote" target="_blank" rel="nofollow"><img src="/StaticSupport/images/linkedin.png" border="0" height="16" width="16" alt="LinkedIn" class="sociable-hovers"></a>
+<a href="https://favorites.live.com/quickadd.aspx?marklet=1&amp;url=http://www.netquote.com/about/privacy-policy.aspx&amp;title=Privacy Policy | NetQuote" target="_blank" rel="nofollow"><img src="/StaticSupport/images/live.png" border="0" height="16" width="16" alt="Live" class="sociable-hovers"></a>			
+<a href="http://www.myspace.com/Modules/PostTo/Pages/?u=http://www.netquote.com/about/privacy-policy.aspx&amp;t=Privacy Policy | NetQuote" target="_blank" rel="nofollow"><img src="/StaticSupport/images/myspace.png" border="0" height="16" width="16" alt="MySpace" class="sociable-hovers"></a>
+<a href="http://www.stumbleupon.com/submit?url=http://www.netquote.com/about/privacy-policy.aspx&amp;title=Privacy Policy | NetQuote" target="_blank" rel="nofollow"><img src="/StaticSupport/images/stumbleupon.png" border="0" height="16" width="16" alt="StumbleUpon" class="sociable-hovers"></a>
+<a href="http://technorati.com/faves?add=http://www.netquote.com/about/privacy-policy.aspx" target="_blank" rel="nofollow"><img src="/StaticSupport/images/technorati.png" border="0" height="16" width="16" alt="Technorati" class="sociable-hovers"></a>
+<a href="http://twitter.com/home?status=http://www.netquote.com/about/privacy-policy.aspx" target="_blank" rel="nofollow"><img src="/StaticSupport/images/twitter.gif" border="0" height="16" width="16" alt="Twitter" class="sociable-hovers"></a>
+<a href="http://buzz.yahoo.com/submit/?submitUrl=http://www.netquote.com/about/privacy-policy.aspx&amp;submitHeadline=Privacy Policy | NetQuote&amp;submitCategory=health" target="_blank" rel="nofollow"><img src="/StaticSupport/images/yahoobuzz.gif" border="0" height="16" width="16" alt="Yahoo Buzz" class="sociable-hovers"></a>			
+</p>	
+              	<!-- InstanceEndEditable -->
+			  </div>
           </div>
           <br></td>
       </tr>
@@ -554,42 +690,21 @@
 	menu_minus_Hover.src = "http://www.netquote.com/StaticSupport/images/sidebarLevel2Contract.gif"
 </script>
 <script language="javascript" type="text/javascript" src="../StaticSupport/javascript/Navigation.js"></script>
-<!-- InstanceBeginEditable name="Omniture" -->
-<!-- SiteCatalyst code version: H.14. Copyright 1997-2008 Omniture, Inc. More info available at http://www.omniture.com --><script language="JavaScript" src="http://www.netquote.com/Scripts/Omniture/NetQuote/s_code.js" xml:space="preserve">		
-		</script><script language="JavaScript" xml:space="preserve">
-			<!--
-/* You may give each page an identifying name, server, and channel on the next lines. */
-/* the s.charSet variable should match you HTML page character encoding */
-s.charSet="ISO-8859-1"
-
-s.pageName="NQ:Main:FC:About:Privacy Policy"
- s.server="NQ"
-s.channel="NQ:Main"
-s.pageType="About"
-s.prop1=""
-s.prop2=""
-s.prop3=""
-s.prop4=""
-s.prop5=""
-s.prop6="NQ:Main:FC"
-s.prop7="NQ:Main:FC:About"
-/* Conversion Variables */
-s.campaign=""
-s.state=""
-s.zip=""
-s.events=""
-s.products=""
-s.purchaseID=""
-s.eVar1=""
-s.eVar2=""
-s.eVar3=""
-s.eVar4=""
-s.eVar5=""
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code)document.write(s_code)//-->
-		</script><!-- End SiteCatalyst code version: H. 14. -->
-<!-- InstanceEndEditable -->
 <!-- InstanceBeginEditable name="CoreMetrics" -->
-<!-- InstanceEndEditable --> 
+<!-- InstanceEndEditable -->
+<!-- InstanceBeginEditable name="GoggleAnalytics" --><script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-10916307-1");
+pageTracker._trackPageview();
+} catch(err) {}</script><!-- InstanceEndEditable --> 
+<div style="position:absolute; left:0px; bottom:0px; width:7px; height:7px;"><img src="http://www.netquote.com/uaimages/clearpixel.gif" title="Server: SPWEBX0103 (SS)
+Session: jt5nzabls2irqo55ocmzjw55
+Partner: 15256
+Campaign: EP:Default
+" style="height:10px;width:10px;border-width:0px;"></div>
 
 <!-- InstanceEnd --></body></html>
