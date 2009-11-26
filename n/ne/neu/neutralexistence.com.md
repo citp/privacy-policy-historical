@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neutralexistence.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524222756id_/http%3A//www.neutralexistence.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neutralexistence.com privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126122226id_/http%3A//www.neutralexistence.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Neutral Existence LLC
 
