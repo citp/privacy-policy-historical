@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hoboken411.com privacy policy that was archived on 2009-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090521011513id_/http%3A//www.hoboken411.com/archives/4346) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoboken411.com privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126210248id_/http%3A//www.hoboken411.com/archives/4346) for the most accurate reproduction.*
 
-# Privacy Policy - Hoboken 411 » Hoboken's Leading Web Community
+# Privacy Policy - Hoboken411.com » Hoboken's Leading Web Community
 
 The following Privacy Policy summarizes the various ways that hoboken411.com (”Service Provider,” “we” or “our”) treats the information you provide while using www.hoboken411.com (”Website”). It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy.
 
