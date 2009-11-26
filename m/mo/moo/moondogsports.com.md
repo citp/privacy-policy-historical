@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moondogsports.com privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527144341id_/http%3A//moondogsports.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moondogsports.com privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126041711id_/http%3A//moondogsports.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The World According to MoonDog
+# Privacy Policy | MoonDog Sports
 
 MoonDogSports.com takes the privacy of our subscribers and users very seriously. This policy describes how we handle the information you provide us when you visit or subscribe to the site.
 
@@ -26,7 +26,7 @@ If you would like more information about this practice and to know your choices 
 
 —————————————————————————————–
 
-**Goggle**
+**Google**
 
 Google, as a third party vendor, uses cookies to serve ads on your site.  
 Google’s use of the [**DART**](http://www.doubleclick.com/privacy/faq.aspx) cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
@@ -35,7 +35,7 @@ Users may opt out of the use of the DART cookie by visiting the Google ad and co
 —————————————————————————————-
 
 **Adify Corporation** : Privacy Policy  
-Version 1.2 - August 2007
+Version 1.2 – August 2007
 
 Adify Corporation (Adify) provides an online advertising sale and display service (the “Service”) for Internet “Publishers”. We enable “Advertisers” to place advertisements via the Service on one or more sites belonging to Publishers. We enable “Network Operators” to create and manage networks of Publishers and Advertisers using tools we provide. The Service runs on software developed and hosted by Adify, its subsidiaries, and third-party contractors.
 
