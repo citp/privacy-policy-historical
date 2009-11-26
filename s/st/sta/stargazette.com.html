@@ -1,185 +1,365 @@
-<!--The following is the downloaded HTML source of the stargazette.com privacy policy that was archived on 2009-05-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090527203225id_/http%3A//www.stargazette.com/apps/pbcs.dll/section%3FCategory%3DPRIVACY) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stargazette.com privacy policy that was archived on 2009-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091126211920id_/http%3A//www.stargazette.com/apps/pbcs.dll/section%3FCategory%3DPRIVACY) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
-<!-- version 1.4.8 -->
- 
-<!-- Domain name -->
-<script language="JavaScript" type="text/javascript">
-    document.domain="stargazette.com";
-</script>
-		<title>stargazette.com | Elmira PRIVACY | Star-Gazette</title>
-<meta name="keywords" content="PRIVACY,stargazette.com,Elmira,New York,News,local news,headlines,stories,world news">
+<!-- GO4F Version: 0911.1556 -->
+							<title>stargazette.com | Elmira PRIVACY | Star-Gazette</title>
+<meta name="keywords" content="stargazette.com,Elmira,New York,News,local news,headlines,stories,world news">
 <meta name="description" content="Elmira New York News - stargazette.com is the home page of Elmira New York with in depth and updated Elmira local news. Stay informed with both Elmira New York news as well as headlines and stories from around the world.">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta http-equiv="pragma" content="no-cache">
 <meta http-equiv="expires" content="0">
 <meta http-equiv="cache-control" content="no-cache">
-<script>
-var PDURL = 'localsearch.stargazette.com';
-var PDSKIN = '';
-</script>
-
-<script language="JavaScript">
-<!--
-//configuration
-//If OAS_sitepage is set to {SECTION}{pagetype} it means you did not set the value in the .ini file.
-var OAS_version,OAS_url,OAS_rns,OAS_listpos ="";
-OAS_sitepage='ny-elmira.stargazette.com/news/front.htm';
-OAS_query = ''+'&'+location.search.substring(1);
-//-->
-</script>
-
-<script type="text/javascript">
-var headID = document.getElementsByTagName("head")[0]; 
-var usragt=navigator.userAgent.toLowerCase();
-var Level1NodeDefault="12144";
-var Level2NodeDefault="";
-var IsFF = false;
-if(usragt.indexOf('firefox')!=-1) {
-IsFF = true;
+<link href="/includes/css/go4/go4-local.css" rel="stylesheet" type="text/css">
+<!-- temp to include more than just base local.css -->
+<link href="/gci/gc/p3/GO4Styles-min.css" rel="stylesheet" type="text/css">
+<script src="/GEL/lib/core/core.js"></script>
+<script type="text/javascript"> 
+ /*Subsite Redirect*/
+var _bodyTimer= new GEL.util.benchmark.Timer("Body Load").start(); 
+GEL.thepage.on("ready", function() { _bodyTimer.end() } ); 
+ try{document.domain= GEL.config.domain= "stargazette.com"}catch(e){};
+ /* GO4 Faster PageInfo */
+ 				GEL.config.sitelifeurl= "http://sitelife." + 
+	"stargazette.com/ver1.0/Direct/Process?sid=sitelife"+ 
+	".stargazette.com";
+GEL.thepage.pageinfo = { 
+	key:"PRIVACY",
+	title:"PRIVACY",
+	type:"section",
+	categorymain:"PRIVACY",
+	categoryname:"PRIVACY",
+	categoryid:"PRIVACY",
+	pluckpage: 0,
+	url: { 
+		hostname: "www.stargazette.com",
+		domainname: "stargazette.com",
+		domainroot: "stargazette"
+	},
+	ssts:{
+		adsiteid:"ny-elmira.stargazette.com",
+		section:"news",
+		subsection:"",
+		topic:"",
+		subtopic:"",
+		adpagetype:"front.htm"
+	},
+	market: { 
+		name: "Star-Gazette", 
+		state: "New York",
+		city: "Elmira"
+	}
+};
+GEL.thepage.pageinfo.siteinstance="";
+ /* Banner configuration and Initialization */
+ (function(){
+var 
+	_c= GEL.config
+; 
+_c.AdPage='ny-elmira.stargazette.com/news/front.htm';
+_c.AdServer= "gannett.gcion.com"; 
+_c.AdNetworkId= 5111.1;
+_c.KeyWords= ''+'&'+location.search.substring(1);
+_c.gcion_section_front = "section"; 
+_c.gdn_section_front = "section"; 
+_c.PDurl = 'localsearch.stargazette.com'; /*PDURL*/
+_c.PDskin = ''; /*PDSKIN*/
+GEL.thepage.initializer.addInitRoutine({ 
+	name: "banners", 
+	namespace: "widget.AdBanner", 
+	callback: bannerFinder, 
+	priority: 25
+}); 
+function bannerFinder(){ 
+	var 
+		_t= new GEL.util.benchmark.Timer("Banners").start(), 
+		_bl= GEL.thepage.bannerLoader= 
+			new GEL.widget.AdBanner.Locator(), 
+		_bm= null 
+	; 	
+	_bl.findBanners(); 
+	_bm= _bl.loadBanners(
+			function(){return this.config.loadOnInit;}, 
+			null, 
+			false
+		);
+	_bm.on("ready", _t.getStop()); 
+	//_bm.attach(); 
+	this.addElement(_bm); 
 }
-	function AttachScript(src) {
-	try{
-		if(IsFF) {
-			var script = document.createElement("SCRIPT");
-			script.type = "text/javascript";
-			script.src = src;
-			headID.appendChild(script);
+})(); 
+/* This is for backward compatibility */
+window["OAS_AD"]= (function(){ 
+var _sMap= document.getElementsByTagName("SCRIPT"); 
+return function OAS_AD(pos, opts) {
+        opts= opts || {}; 
+        opts.position= pos; 
+        var 
+		_me= _sMap[_sMap.length - 1], 
+		_container= _container= GEL.ement("BANNER", opts)
+	; 
+        _me.parentNode.insertBefore(_container.getElement(), _me); 
+}
+})(); 
+ (function(){ 
+var _c= GEL.config.userauth={
+	timeout: 20, 
+	enable_auth_by_division: true, 
+	enable_auth_by_site: true, 
+	enable_third_party_by_division: true, 
+	enable_third_party_by_site: (function(){ 
+		var _enable= ""; 
+		return _enable.toLowerCase() != 'no' ? true : false; 
+	})(), 
+	app_name: "elmira",
+	host: "",
+	site_name: "stargazette.com",
+	enable_ssl: window.location.protocol === 'https:' ? true : false, 
+	enable_reg_help: true, 
+	enable_search: true, 
+	enable_links: false, 
+	group_name: "gannett", 
+	third_party_app_name: "MMX", 
+	third_party_site_name: "Metromix", 
+	third_party_logo: "/graphics/mmx_logo.jpg", 
+	login_title: "Comment, blog &#38; share photos", 
+	login_image: "/graphics/registration/login_tagline.gif", 
+	persona_url: "/apps/pbcs.dll/section?category=pluckpersona", 
+	blogs_url: "/apps/pbcs.dll/section?category=pluckpersona&plckPersonaPage=PersonaBlog", 
+	photos_url: "/apps/pbcs.dll/section?category=pluckpersona&plckPersonaPage=PersonaPhotos", 
+	version: "3.4.1",
+	coppaage: 13, 
+	pp_url: "/pp", 
+	tos_url: "/tos", 
+	faq_url: "/faq", 
+	confirm_dest: "/apps/pbcs.dll/frontpage", 
+	feedback_url: "/feedback",
+	email_logo: "/graphics/mastlogo_email.gif", 
+	enable_saxotech: true,
+	saxotech_site_code: "CB", 
+	site_url:"www.stargazette.com",
+	default_avatar: "/graphics/avatar.gif"
+}, 
+_ur= GEL.config.userreg= {
+	zag_form_url: "/apps/pbcs.dll/section?Category=zagform", 
+	days: 30,
+	page_views: 3, 
+	section_front: GEL.thepage.pageinfo.type,
+	MaxSessions: 10, 
+	reg_site_code: "gpaper125",  
+	occupation_required: false, 
+	sessions: 2
+}, 
+_v= ""
+;
+if(!_c.app_name){ 
+	_c.app_name= "gmti";
+}
+if(!_c.host){
+	_c.host= "newspaper.app30.ur.gcion.com"; 
+}
+for(var _g in _c){
+	_v= _c[_g]; 
+	_g= "gdn_" + _g; 
+	window[_g]= _v; 
+}
+for(var _g in _ur){
+	_v=_ur[_g]; 
+	_g= "gdn_" + _g; 
+	window[_g]= _v; 
+}
+PDSKIN= GEL.config.PDskin; 
+PDURL= GEL.config.PDurl; 
+GEL.thepage.initializer.addInitRoutine({ 
+	name: "userauth",
+	namespace: ["legacy.GDN", "util.Cookie"],
+	priority: 119, 
+	callback: function(){ 
+		GDN.Api.Register(function(){ 
+			GEL.env.user.onLogin(); 	
+		}, null, "Login"); 
+		GDN.Api.Register(function(){ 
+			GEL.env.user.onLogout(); 
+		}, null, "Logout");
+		GDN.UA.Page.Load();
+		/* 
+		The wonders of UA never cease. 
+		    Initializing these widgets will fail 
+		    if done immediately after the above. 
+		    Once the LoggedIn/Out widget is loaded 
+		    it will run the callbacks for these 
+		    widgets which, since they have not loaded,
+		    will fail.  
+		    Initializing UR before UA is complete will result 
+		    in UR overwriting the GCIONID cookie 
+		    This 1 second timeout should give 
+		    UA enough time to complete 
+		*/
+		GEL.thepage.on("ready", function(){ 
+			_timer= setTimeout(init, 1000);
+		}); 
+		function init(){ 
+			var _noneedzag=  (function(){ 
+				var _u = GEL.env.user;
+				return (_u.state || _u.yob || _u.zip) ? true : false;
+				})();
+			if(!_noneedzag) {
+				GDN.UR.Page.Load(); 
+			}
+			GDN.UA.Page.PluckLogin();
+			GDN.UA.Page.PluckReg();
+			GDN.UA.Page.PluckLogout();
+			GDN.UA.Page.SaxotechLogin(); 
+			GDN.UA.Page.Newsletters(); 
 		}
-		else
-		document.writeln("<scr"+"ipt type='text/javascript' src='"+ src +"'><" + "/script>");
-		}
-	catch(e){
-		//alert("Error in Attachscript"+src);
-		}	
 	}
-	function AttachCSS(source){   
-	try{
-		if(IsFF) {
-			var cssNode = document.createElement('link');
-			cssNode.type = 'text/css';
-			cssNode.rel = 'stylesheet';
-			cssNode.href = source;
-			headID.appendChild(cssNode);
-		}
-		else
-		document.writeln("<link href='"+source+"' rel='stylesheet' type='text/css'" + "/>");
-		}
-	catch(e){
-		//alert("Error in AttachCss"+source);
-		}	
+}); 
+})(); 
+ /****O4 Faster Omniture******/
+(function(){
+	var 
+		_PI= GEL.thepage.pageinfo
+	;
+	GEL.namespace('config.omniture', 'config.bus.properties', 'config.bus.providers');
+	GEL.config.bus.providers.sitecat= 100; 
+	GEL.config.bus.providers.bt= 200;
+/* If this is a frontpage (section or home) we add the checkmate provider */
+(function(){ 
+	var _CFG= GEL.namespace("config.checkmate"); 
+	_CFG.domain= "" || (function(){ 
+		var _a= window.location.host.split("."); 
+		return _a[_a.length - 2];
+	})(); 
+	_CFG.server= "q1.checkm8.com"; 
+	_CFG.scriptlib= "http://q1digital.checkm8.com/adam/cm8adam_1_call.js"; 
+	_CFG.profile= ""; 
+	GEL.config.bus.providers.checkm8= 200;
+})(); 
+/* This is the SiteCatalyst specific configuration  */
+	GEL.config.omniture= {
+		account: 'gpaper125,gntbcstglobal',
+		channel: '',
+		currencyCode: "USD",
+		trackDownloadLinks: true,
+		trackExternalLinks: false,
+		trackInlineStats: true,
+		linkDownloadFileTypes: "exe,zip,wav,mp3,mp4,m4v,mov,mpg,avi,wmv,doc,pdf,xls",
+		linkInternalFilters: "javascript:apartments,careerbuilder,cars,customcoupon,customwire.ap.org,eharmony,gannett,gbahn,highschoolsports,homefinder,homescape,infi,job,network,newsbank,newslibrary,pictopia,salary,topix,ur.gcion.com,usatoday,traffic,planetdiscover,metromix,mom",
+		linkLeaveQueryString: false,
+		linkTrackVars: "None",
+		usePlugins: true, 
+		linkTrackEvents: "None"
 	}
-	AttachCSS('/includes/css/GDSRStyles.css');
-	AttachScript('/scripts/GDSRScripts.js');
-	AttachCSS('/gcicommonfiles/sr/css/palette3.css');
-	AttachScript('/scripts/NavMenu_118.js');
-	AttachScript('http://elmira.ur.gcion.com/AD/AdtechSiteSettings.js');
-	AttachScript('http://elmira.ur.gcion.com/Scripts/AD/Adtechscript.js');
-</script><link href="/includes/css/GDSRStyles.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="/scripts/GDSRScripts.js"></script>
-<link href="/gcicommonfiles/sr/css/palette3.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="/scripts/NavMenu_118.js"></script>
-<script type="text/javascript" src="http://elmira.ur.gcion.com/AD/AdtechSiteSettings.js"></script>
-<script type="text/javascript" src="http://elmira.ur.gcion.com/Scripts/AD/Adtechscript.js"></script>
+/* 
+   These are the initial properties for Page View Tracking 
+	The config.bus.properties object will be iterated over 
+	and called against the pageTracker object like
+		setAttribute(key, value); 
+	Remember that key translation to Omniture prop_ values 
+	is maintained within the OMniture JavaScript provider. 
+*/
+	GEL.config.bus.properties= {
+		server: 'publicus',
+		pagetype: '',
+		custom1: '',
+		custom2: '',
+		custom3: '',
+		custom4: '',
+		custom5: '',
+		custom6: '',
+		custom7: "" || (_PI.type != "section" ? "" : (function(){
+			var 
+				_cat = {
+					'': 'news_front' ,
+					'': 'entertainment_front',
+					'': 'classifieds_front',
+					'': 'customer_service_front',
+					'': 'community_front'
+				},
+				_pdefault = 'PRIVACY',
+				_cid= _PI.categoryid
+			;
+			if(_cid in _cat) 
+				return _cat[_PI.categoryid];
+			else if(_pdefault && _pdefault.toLowerCase() != _cid.toLowerCase()) 
+				return _pdefault;
+			else 
+				return '';
+		})() ),
+		custom8 : '',
+		contenttype : 'section',
+		division: 'Newspaper',
+		location: document.location,
+		marketname: 'Elmira:stargazette',
+		isException : false
+	}
+})();
+</script> 
 
-<noscript>
-<link href="/includes/css/GDSRStyles.css" rel="stylesheet" type="text/css" />
-<link href="/gcicommonfiles/sr/css/palette3.css" rel="stylesheet" type="text/css" />
-</noscript>
-
-<!-- metro.css -->
-<script language="javascript" type="text/javascript">
-<!-- // user reg settings
-if (typeof(window['gcion_section_front']) == "undefined")
-{ var gcion_section_front = "section"; }
-if (typeof(window['gdn_section_front']) == "undefined")
-{ var gdn_section_front = "section"; }
-//-->
-</script>
-
-<script type="text/javascript">
-	if (PluckGlobalControl == "0" || PluckSiteControl == "0") {gsl.enabled='false';}
-    gsl.recommendCountHrefEnabled='true';
-</script>
-<!-- Macro used for subsite to redirect -->
-
- 
-<script language="javascript" type="text/javascript">
-gdn_version=3.3;
-</script>
-
-<!-- NAVIGATION -->
-
-
-<!--- OAS MACRO --->
-
+<script id="__gel_nsscript_util.Selector" src="https://web.archive.org/GEL/lib/selector/selector.js"></script>
+<script id="__gel_nsscript_widget.Menu" src="https://web.archive.org/GEL/lib/widgets/menu/menu.js"></script>
+<script id="__gel_nsscript_/scripts/NavMenu_118.js" src="/scripts/NavMenu_118.js"></script>
+<script id="__gel_nsscript_remoting" src="https://web.archive.org/GEL/lib/remoting/remoting.js"></script>
+<script id="__gel_nsscript_util.Cookie" src="https://web.archive.org/GEL/lib/cookie/cookie.js"></script>
+<script id="__gel_nsscript_widget.AdBanner" src="https://web.archive.org/GEL/lib/widgets/banner/banner.js"></script>
 </head>
-<body id="body1" onload="gsl.initialSetup();">
 
-<!--begin main content-->
-<div id="main-container">
+<body class="go4-skin">
+	<div class="go4-custom">
+		<div class="main-container">
+			<!--LEADERBOARD-->
+			<div class="leaderboard-container-top">
+				<div class="leaderboard-top">
+					<div class="ad_728x90">
+<div id="adcontainer___gelement_adbanner_0"><div id="__gelement_1" class=" gel-hidden"><script id="__gelement_2" src="https://gannett.gcion.com/addyn/3.0/5111.1/133600/0/-1/ADTECH;alias=ny-elmira.stargazette.com/news/front.htm_728x90_1;cookie=info;loc=100;target=_blank;grp=44041;misc=1582147593816;size=728x90;noperf=1;key=PRIVACY;kvtitle=PRIVACY"></script>
+</div>
+</div><banner position="728x90_1" id="__gelement_adbanner_0"></banner>
+</div>
 
-	<!--LEADERBOARD-->
-	<div class="leaderboard-container-top">
-		<div class="leaderboard-top">
-			<script language="JavaScript">
-			<!--
-			OAS_AD('728x90_1');
-			//-->
-			</script>
-		</div>
-	</div>
-	
-
-	<!-- HEADER -->
-	<!--header-->
-	<div id="header-container">
-
-		
-		
-		<!-- partners -->
-		<link href="/includes/css/local.css" rel="stylesheet" type="text/css">
-<div id="header-partners">
+				</div>
+			</div>
+			
+			<!-- HEADER -->
+			<!--header-->
+<div class="header-container">	
+	<!-- partners -->
+	<div id="header-partners" class="header-partners">
 	<ul class="left">
 		<li><a href="http://m.stargazette.com">Mobile</a> |</li>
 		<li><a href="/section/rss99">RSS</a> |</li>
    		<li><a href="/section/textalerts">Txt Alrts</a> |</li>
 		<li><a href="/section/NLETTERSUBSCRIBE">Email</a> |</li>
  		<li><a href="http://www.twitter.com/stargazette">Twitter</a>| </li>
-		<li><a href="http://elmirastargazette.ny.newsmemory.com/nie.php">E-Edition</a></li>
+		<li><a href="/eedition">eEdition</a></li>
 	</ul>
 	<ul class="right">
 		<li><a href="http://stargazette.gannettonline.com/careerbuilder/index.html">Jobs</a> |</li>
 		<li><a href="http://www.cars.com/go/index.jsp?aff=stargaze">Cars</a> |</li>
 		<li><a href="http://stargazette.gon.gannettonline.com/apps/pbcs.dll/section?Category=HOMES&amp;pub=stargazette">Homes</a> |</li>
 		<li><a href="http://www.apartments.com/partner/Community.aspx?p=stargaze&amp;Area2=Y&amp;page=SubArea&amp;state=NY&amp;rgn5=113&amp;partner=stargaze&amp;prvpg=3">Apartments</a> |</li>
-		<li><a href="http://circularcentral.shoplocal.com/stargazette/default.aspx?citystatezip=elmira+ny">Weekly Deals</a> |</li>
 		<li><a href="http://classifieds.star-gazette.com/osform/MVCCService?osform_template=/stargaz/branding/mktplace.html&amp;publication=stargaz">Classifieds</a> |</li>
    		<li><a href="http://www.legacy.com/Star-Gazette/Celebrations.asp">Celebrations</a> |</li>
    		<li><a href="http://www.stargazette.com/dating">Dating</a> |</li>
-        <li><a href="http://localsearch.stargazette.com/sp?aff=1170">Coupons</a> |</li>
+   		<li><a href="http://deals.stargazette.com">Deals</a> |</li>
    		<li><a href="https://secure.cnynewspapers.com/webbaseELM/a.do">Place an Ad</a></li>
 	</ul>
 	<div class="clear"></div>
 </div>
-
-		<div id="headermast">
-
-			<table cellspacing="0" id="headermast-main">
-  			  <tbody><tr> 
-    			    <td>
-				<div id="masthead">
-					<h1><a href="http://www.stargazette.com"><img src="/graphics/mastlogo.gif" alt="stargazette.com"></a></h1>
+	<div class="gel-clear"></div>
+	<div class="headermast">
+		<table cellspacing="0" width="100%">
+		<tbody><tr>
+			<td>
+				<div class="masthead">
+					<h1>
+						<a href="http://www.stargazette.com"><img src="/graphics/mastlogo.gif" alt="stargazette.com"></a>
+					</h1>
 				</div>
-		 	    </td>
-    			    <td>
-				<div id="header-search">
-					<!--SITE SEARCH WIDGET-->
-<script> 
-	
+			</td>
+			<td>
+				<div class="pd-search">
+					<script>
 	var currentLnk = 'tab0';
-
 	function changeTabbedAff(aff, tabId, text) {
 		document.tabbedForm.aff.value = aff;
 		document.getElementById(currentLnk).className = "";
@@ -187,20 +367,16 @@ gdn_version=3.3;
 		document.getElementById("pd-search-text").innerHTML = "Search<br>" + text;
 		currentLnk = tabId;
 	}
-
 	function gotoTabbedAff(aff, tabId, text, domain) {
 		window.location=domain.replace(/:9085/,"")+"/sp?aff="+aff;
 	}
-
 	function changeStyle(tabId, onVal) {
 		if(onVal)
 		    document.getElementById(tabId).className = "pd-searchMore-droplistOn";
 		else
 		document.getElementById(tabId).className = "pd-searchMore-droplist";
 	}
-
 	var hideId;
-
 	function showMore() {
 		if(document.getElementById('pd-search-sections-more')!=null) {
 		    coords = getPosition();
@@ -209,7 +385,6 @@ gdn_version=3.3;
 			document.getElementById('pd-search-sections-more').style.display = "block";
 		}
 	}
-
 	function getPosition() {
 	    var coords =  new Object();
 	      coords.x = 0;
@@ -232,245 +407,129 @@ gdn_version=3.3;
 	      } catch(error) { }
           return coords;
 	}
-
 	function hideMore() {
 		if(document.getElementById('pd-search-sections-more')!=null) {
 			document.getElementById('pd-search-sections-more').style.display = "none";
 		}
 	}
-
 	function mouseOverShowMore() {
 		clearTimeout(hideId);
 	}
-
 	function mouseOutHideMore(timeout) {
 		hideId = setTimeout("hideMore()",timeout);
 	}
-
 </script>
-<!-- SEARCHURL3 = http://localsearch.stargazette.com/client/isf_api.jsp?format=javascript&cacheTime=15&scripts=tabbedsearchform&dataType=tabbedsearchform&helpImage=false&sponsorImage=false&skin=100&styled=false -->
-<script> 
-	
-
-	
-	document.write(' ');
-document.write('	<div id="isf-search-form">						');
-document.write('		');
-document.write('<form action="http://localsearch.stargazette.com/sp" method="get" class="tabbed-search-form" id="tabbedForm" name="tabbedForm">');
-document.write('<input type="hidden" name="aff" value="1100"/>');
-document.write('<input type="hidden" name="skin" value="100"/>');
-document.write('<div style="float:left;">');
-document.write('	<span id="pd-search-text" class="pd-search-text">Search<br/>All</span>');
-document.write('</div>');
-document.write('<div style="float:left; width:350px;">');
-document.write('	<div class="pd-search-sections">');
-document.write('		<ul>');
-document.write('			');
-document.write('			');
-document.write('				');
-document.write('					');
-document.write('							<li id="tab0" class="pd-search-section-on"><b><a href="javascript:void(0);" onClick="changeTabbedAff(\'1100\',\'tab0\',\'All\')">All</a></b><span>&nbsp;</span></li>');
-document.write('					');
-document.write('					');
-document.write('				');
-document.write('			');
-document.write('				');
-document.write('					');
-document.write('							<li id="tab1"><b><a href="javascript:void(0);" onClick="changeTabbedAff(\'1101\',\'tab1\',\'Local News\')">Local News</a></b><span>&nbsp;</span></li>');
-document.write('					');
-document.write('					');
-document.write('				');
-document.write('			');
-document.write('				');
-document.write('					');
-document.write('							<li id="tab2"><b><a href="javascript:void(0);" onClick="changeTabbedAff(\'1001\',\'tab2\',\'Events\')">Events</a></b><span>&nbsp;</span></li>');
-document.write('					');
-document.write('					');
-document.write('				');
-document.write('			');
-document.write('				');
-document.write('					');
-document.write('							<li id="tab3"><b><a href="javascript:void(0);" onClick="changeTabbedAff(\'1114\',\'tab3\',\'Jobs\')">Jobs</a></b><span>&nbsp;</span></li>');
-document.write('					');
-document.write('							<li id="tabm"><b><a href="javascript:void(0);" onClick="changeTabbedAff(\'1100\',\'tabm\',\'more\');mouseOverShowMore();showMore();" onMouseOut="mouseOutHideMore(250);">More&nbsp;&raquo;</a></b><span>&nbsp;</span></li></ul></div>');
-document.write('							<div id="pd-search-sections-more" class="pd-search-sections-more" style="display:none;" onMouseOver="mouseOverShowMore();" onMouseOut="mouseOutHideMore(250);"><ul>');
-document.write('					');
-document.write('					');
-document.write('				');
-document.write('			');
-document.write('				');
-document.write('					');
-document.write('							<li id="tab4" class="pd-searchMore-droplist" onMouseOver="changeStyle(\'tab4\',true);mouseOverShowMore();" onMouseOut="changeStyle(\'tab4\',false);"><a href="javascript:gotoTabbedAff(\'1109&skin=100\',\'tab4\',\'Yellow Pages\',\'http://localsearch.stargazette.com\');">Yellow Pages</a></li>');
-document.write('					');
-document.write('					');
-document.write('				');
-document.write('			');
-document.write('				');
-document.write('					');
-document.write('							<li id="tab5" class="pd-searchMore-droplist" onMouseOver="changeStyle(\'tab5\',true);mouseOverShowMore();" onMouseOut="changeStyle(\'tab5\',false);"><a href="javascript:gotoTabbedAff(\'1112&skin=100\',\'tab5\',\'Websites\',\'http://localsearch.stargazette.com\');">Websites</a></li>');
-document.write('					');
-document.write('					');
-document.write('				');
-document.write('			');
-document.write('				');
-document.write('					');
-document.write('							<li id="tab6" class="pd-searchMore-droplist" onMouseOver="changeStyle(\'tab6\',true);mouseOverShowMore();" onMouseOut="changeStyle(\'tab6\',false);"><a href="javascript:gotoTabbedAff(\'1102&skin=100\',\'tab6\',\'Classifieds\',\'http://localsearch.stargazette.com\');">Classifieds</a></li>');
-document.write('					');
-document.write('					');
-document.write('				');
-document.write('			');
-document.write('				');
-document.write('					');
-document.write('							<li id="tab7" class="pd-searchMore-droplist" onMouseOver="changeStyle(\'tab7\',true);mouseOverShowMore();" onMouseOut="changeStyle(\'tab7\',false);"><a href="javascript:gotoTabbedAff(\'1117&skin=100\',\'tab7\',\'Archives\',\'http://localsearch.stargazette.com\');">Archives</a></li>');
-document.write('					');
-document.write('					');
-document.write('				');
-document.write('			');
-document.write('				');
-document.write('					');
-document.write('							<li id="tab8" class="pd-searchMore-droplist" onMouseOver="changeStyle(\'tab8\',true);mouseOverShowMore();" onMouseOut="changeStyle(\'tab8\',false);"><a href="javascript:gotoTabbedAff(\'1113&skin=100\',\'tab8\',\'Cars\',\'http://localsearch.stargazette.com\');">Cars</a></li>');
-document.write('					');
-document.write('					');
-document.write('				');
-document.write('			');
-document.write('				');
-document.write('					');
-document.write('							<li id="tab9" class="pd-searchMore-droplist" onMouseOver="changeStyle(\'tab9\',true);mouseOverShowMore();" onMouseOut="changeStyle(\'tab9\',false);"><a href="javascript:gotoTabbedAff(\'10001&skin=100\',\'tab9\',\'Celebrations\',\'http://localsearch.stargazette.com\');">Celebrations</a></li>');
-document.write('					');
-document.write('					');
-document.write('				');
-document.write('			');
-document.write('				');
-document.write('					');
-document.write('							<li id="tab10" class="pd-searchMore-droplist" onMouseOver="changeStyle(\'tab10\',true);mouseOverShowMore();" onMouseOut="changeStyle(\'tab10\',false);"><a href="javascript:gotoTabbedAff(\'1129&skin=100\',\'tab10\',\'Local Coupons\',\'http://localsearch.stargazette.com\');">Local Coupons</a></li>');
-document.write('					');
-document.write('					');
-document.write('				');
-document.write('			');
-document.write('				');
-document.write('					');
-document.write('							<li id="tab11" class="pd-searchMore-droplist" onMouseOver="changeStyle(\'tab11\',true);mouseOverShowMore();" onMouseOut="changeStyle(\'tab11\',false);"><a href="javascript:gotoTabbedAff(\'1170&skin=100\',\'tab11\',\'Grocery Coupons\',\'http://localsearch.stargazette.com\');">Grocery Coupons</a></li>');
-document.write('					');
-document.write('					');
-document.write('				');
-document.write('			');
-document.write('				');
-document.write('					');
-document.write('							<li id="tab12" class="pd-searchMore-droplist" onMouseOver="changeStyle(\'tab12\',true);mouseOverShowMore();" onMouseOut="changeStyle(\'tab12\',false);"><a href="javascript:gotoTabbedAff(\'1105&skin=100\',\'tab12\',\'Movies\',\'http://localsearch.stargazette.com\');">Movies</a></li>');
-document.write('					');
-document.write('					');
-document.write('				');
-document.write('			');
-document.write('				');
-document.write('					');
-document.write('							<li id="tab13" class="pd-searchMore-droplist" onMouseOver="changeStyle(\'tab13\',true);mouseOverShowMore();" onMouseOut="changeStyle(\'tab13\',false);"><a href="javascript:gotoTabbedAff(\'1125&skin=100\',\'tab13\',\'Obituaries\',\'http://localsearch.stargazette.com\');">Obituaries</a></li>');
-document.write('					');
-document.write('					');
-document.write('				');
-document.write('			');
-document.write('				');
-document.write('					');
-document.write('							<li id="tab14" class="pd-searchMore-droplist" onMouseOver="changeStyle(\'tab14\',true);mouseOverShowMore();" onMouseOut="changeStyle(\'tab14\',false);"><a href="javascript:gotoTabbedAff(\'1172&skin=100\',\'tab14\',\'Comments\',\'http://localsearch.stargazette.com\');">Comments</a></li>');
-document.write('					');
-document.write('					');
-document.write('				');
-document.write('			');
-document.write('				');
-document.write('					');
-document.write('							<li id="tab15" class="pd-searchMore-droplist" onMouseOver="changeStyle(\'tab15\',true);mouseOverShowMore();" onMouseOut="changeStyle(\'tab15\',false);"><a href="javascript:gotoTabbedAff(\'1171&skin=100\',\'tab15\',\'People\',\'http://localsearch.stargazette.com\');">People</a></li>');
-document.write('					');
-document.write('					');
-document.write('				');
-document.write('			');
-document.write('				');
-document.write('					');
-document.write('							<li id="tab16" class="pd-searchMore-droplist" onMouseOver="changeStyle(\'tab16\',true);mouseOverShowMore();" onMouseOut="changeStyle(\'tab16\',false);"><a href="javascript:gotoTabbedAff(\'1108&skin=100\',\'tab16\',\'Shopping\',\'http://localsearch.stargazette.com\');">Shopping</a></li>');
-document.write('					');
-document.write('					');
-document.write('				');
-document.write('			');
-document.write('		</ul>');
-document.write('	</div>');
-document.write('	<div style="clear:both;"></div>');
-document.write('	<div>');
-document.write('		<input type="text" name="keywords" class="keyword-input" value=""/>');
-document.write('		<input type="image" src="/graphics/search/button_search.gif" class="go-button" align="top"/>');
-document.write('	</div>');
-document.write('</div>');
-document.write('<div style="clear:both;"></div>');
-document.write('</form>');
-document.write('	</div><!-- #isf-search-form -->			');
-
-
-
-
-</script> 	<div id="isf-search-form">								<form action="http://localsearch.stargazette.com/sp" method="get" class="tabbed-search-form" id="tabbedForm" name="tabbedForm"><input type="hidden" name="aff" value="1100"><input type="hidden" name="skin" value="100"><div style="float:left;">	<span id="pd-search-text" class="pd-search-text">Search<br>All</span></div><div style="float:left; width:350px;">	<div class="pd-search-sections">		<ul>																						<li id="tab0" class="pd-search-section-on"><b><a href="javascript:void(0);" onclick="changeTabbedAff('1100','tab0','All')">All</a></b><span>&nbsp;</span></li>																																	<li id="tab1"><b><a href="javascript:void(0);" onclick="changeTabbedAff('1101','tab1','Local News')">Local News</a></b><span>&nbsp;</span></li>																																	<li id="tab2"><b><a href="javascript:void(0);" onclick="changeTabbedAff('1001','tab2','Events')">Events</a></b><span>&nbsp;</span></li>																																	<li id="tab3"><b><a href="javascript:void(0);" onclick="changeTabbedAff('1114','tab3','Jobs')">Jobs</a></b><span>&nbsp;</span></li>												<li id="tabm"><b><a href="javascript:void(0);" onclick="changeTabbedAff('1100','tabm','more');mouseOverShowMore();showMore();" onmouseout="mouseOutHideMore(250);">More&nbsp;»</a></b><span>&nbsp;</span></li></ul></div>							<div id="pd-search-sections-more" class="pd-search-sections-more" style="display:none;" onmouseover="mouseOverShowMore();" onmouseout="mouseOutHideMore(250);"><ul>																																	<li id="tab4" class="pd-searchMore-droplist" onmouseover="changeStyle('tab4',true);mouseOverShowMore();" onmouseout="changeStyle('tab4',false);"><a href="javascript:gotoTabbedAff('1109&amp;skin=100','tab4','Yellow Pages','http://localsearch.stargazette.com');">Yellow Pages</a></li>																																	<li id="tab5" class="pd-searchMore-droplist" onmouseover="changeStyle('tab5',true);mouseOverShowMore();" onmouseout="changeStyle('tab5',false);"><a href="javascript:gotoTabbedAff('1112&amp;skin=100','tab5','Websites','http://localsearch.stargazette.com');">Websites</a></li>																																	<li id="tab6" class="pd-searchMore-droplist" onmouseover="changeStyle('tab6',true);mouseOverShowMore();" onmouseout="changeStyle('tab6',false);"><a href="javascript:gotoTabbedAff('1102&amp;skin=100','tab6','Classifieds','http://localsearch.stargazette.com');">Classifieds</a></li>																																	<li id="tab7" class="pd-searchMore-droplist" onmouseover="changeStyle('tab7',true);mouseOverShowMore();" onmouseout="changeStyle('tab7',false);"><a href="javascript:gotoTabbedAff('1117&amp;skin=100','tab7','Archives','http://localsearch.stargazette.com');">Archives</a></li>																																	<li id="tab8" class="pd-searchMore-droplist" onmouseover="changeStyle('tab8',true);mouseOverShowMore();" onmouseout="changeStyle('tab8',false);"><a href="javascript:gotoTabbedAff('1113&amp;skin=100','tab8','Cars','http://localsearch.stargazette.com');">Cars</a></li>																																	<li id="tab9" class="pd-searchMore-droplist" onmouseover="changeStyle('tab9',true);mouseOverShowMore();" onmouseout="changeStyle('tab9',false);"><a href="javascript:gotoTabbedAff('10001&amp;skin=100','tab9','Celebrations','http://localsearch.stargazette.com');">Celebrations</a></li>																																	<li id="tab10" class="pd-searchMore-droplist" onmouseover="changeStyle('tab10',true);mouseOverShowMore();" onmouseout="changeStyle('tab10',false);"><a href="javascript:gotoTabbedAff('1129&amp;skin=100','tab10','Local Coupons','http://localsearch.stargazette.com');">Local Coupons</a></li>																																	<li id="tab11" class="pd-searchMore-droplist" onmouseover="changeStyle('tab11',true);mouseOverShowMore();" onmouseout="changeStyle('tab11',false);"><a href="javascript:gotoTabbedAff('1170&amp;skin=100','tab11','Grocery Coupons','http://localsearch.stargazette.com');">Grocery Coupons</a></li>																																	<li id="tab12" class="pd-searchMore-droplist" onmouseover="changeStyle('tab12',true);mouseOverShowMore();" onmouseout="changeStyle('tab12',false);"><a href="javascript:gotoTabbedAff('1105&amp;skin=100','tab12','Movies','http://localsearch.stargazette.com');">Movies</a></li>																																	<li id="tab13" class="pd-searchMore-droplist" onmouseover="changeStyle('tab13',true);mouseOverShowMore();" onmouseout="changeStyle('tab13',false);"><a href="javascript:gotoTabbedAff('1125&amp;skin=100','tab13','Obituaries','http://localsearch.stargazette.com');">Obituaries</a></li>																																	<li id="tab14" class="pd-searchMore-droplist" onmouseover="changeStyle('tab14',true);mouseOverShowMore();" onmouseout="changeStyle('tab14',false);"><a href="javascript:gotoTabbedAff('1172&amp;skin=100','tab14','Comments','http://localsearch.stargazette.com');">Comments</a></li>																																	<li id="tab15" class="pd-searchMore-droplist" onmouseover="changeStyle('tab15',true);mouseOverShowMore();" onmouseout="changeStyle('tab15',false);"><a href="javascript:gotoTabbedAff('1171&amp;skin=100','tab15','People','http://localsearch.stargazette.com');">People</a></li>																																	<li id="tab16" class="pd-searchMore-droplist" onmouseover="changeStyle('tab16',true);mouseOverShowMore();" onmouseout="changeStyle('tab16',false);"><a href="javascript:gotoTabbedAff('1108&amp;skin=100','tab16','Shopping','http://localsearch.stargazette.com');">Shopping</a></li>																			</ul>	</div>	<div style="clear:both;"></div>	<div>		<input type="text" name="keywords" class="keyword-input" value="">		<input type="image" src="/graphics/search/button_search.gif" class="go-button" align="top">	</div></div><div style="clear:both;"></div></form>	</div><!-- #isf-search-form -->			
-
-				</div>
-			    </td>
-			    <td>
-				<div id="search-sponsor">
-					<h5>Sponsored by:</h5>
-					<script language="JavaScript">
-					<!--
-					OAS_AD('88x31_1');
-					//-->
-					</script>
-				</div>
-			    </td>
-			  </tr>
-			</tbody></table>
-
-
-		<!-- end #headermast -->
-		<div class="clear"></div>
+		<div id="isf-search-form">						
+<form action="http://localsearch.stargazette.com/sp" method="get" class="tabbed-search-form" id="tabbedForm" name="tabbedForm">
+	<input type="hidden" name="aff" value="1100">
+	<input type="hidden" name="skin" value="100">
+	<div style="float:left;">
+		<span id="pd-search-text" class="pd-search-text">Search<br>All</span>
+	</div>
+	<div style="float:left; width:350px;">
+		<div class="pd-search-sections">
+			<ul>
+								<li id="tab0" class="pd-search-section-on"><b><a href="javascript:void(0);" onclick="changeTabbedAff('1100','tab0','All')">All</a></b><span>&nbsp;</span></li>
+								<li id="tab1"><b><a href="javascript:void(0);" onclick="changeTabbedAff('1101','tab1','Local News')">Local News</a></b><span>&nbsp;</span></li>
+								<li id="tab2"><b><a href="javascript:void(0);" onclick="changeTabbedAff('1174','tab2','Archives')">Archives</a></b><span>&nbsp;</span></li>
+								<li id="tab3"><b><a href="javascript:void(0);" onclick="changeTabbedAff('1001','tab3','Events')">Events</a></b><span>&nbsp;</span></li>
+								<li id="tabm"><b><a href="javascript:void(0);" onclick="changeTabbedAff('1100','tabm','more');mouseOverShowMore();showMore();" onmouseout="mouseOutHideMore(250);">More&nbsp;»</a></b><span>&nbsp;</span></li></ul></div>
+								<div id="pd-search-sections-more" class="pd-search-sections-more" style="display:none;" onmouseover="mouseOverShowMore();" onmouseout="mouseOutHideMore(250);"><ul>
+								<li id="tab4" class="pd-searchMore-droplist" onmouseover="changeStyle('tab4',true);mouseOverShowMore();" onmouseout="changeStyle('tab4',false);"><a href="javascript:gotoTabbedAff('1114&amp;skin=100','tab4','Jobs','http://localsearch.stargazette.com');">Jobs</a></li>
+								<li id="tab5" class="pd-searchMore-droplist" onmouseover="changeStyle('tab5',true);mouseOverShowMore();" onmouseout="changeStyle('tab5',false);"><a href="javascript:gotoTabbedAff('1109&amp;skin=100','tab5','Local Directory','http://localsearch.stargazette.com');">Local Directory</a></li>
+								<li id="tab6" class="pd-searchMore-droplist" onmouseover="changeStyle('tab6',true);mouseOverShowMore();" onmouseout="changeStyle('tab6',false);"><a href="javascript:gotoTabbedAff('1112&amp;skin=100','tab6','Websites','http://localsearch.stargazette.com');">Websites</a></li>
+								<li id="tab7" class="pd-searchMore-droplist" onmouseover="changeStyle('tab7',true);mouseOverShowMore();" onmouseout="changeStyle('tab7',false);"><a href="javascript:gotoTabbedAff('1102&amp;skin=100','tab7','Classifieds','http://localsearch.stargazette.com');">Classifieds</a></li>
+								<li id="tab8" class="pd-searchMore-droplist" onmouseover="changeStyle('tab8',true);mouseOverShowMore();" onmouseout="changeStyle('tab8',false);"><a href="javascript:gotoTabbedAff('1113&amp;skin=100','tab8','Cars','http://localsearch.stargazette.com');">Cars</a></li>
+								<li id="tab9" class="pd-searchMore-droplist" onmouseover="changeStyle('tab9',true);mouseOverShowMore();" onmouseout="changeStyle('tab9',false);"><a href="javascript:gotoTabbedAff('10001&amp;skin=100','tab9','Celebrations','http://localsearch.stargazette.com');">Celebrations</a></li>
+								<li id="tab10" class="pd-searchMore-droplist" onmouseover="changeStyle('tab10',true);mouseOverShowMore();" onmouseout="changeStyle('tab10',false);"><a href="javascript:gotoTabbedAff('1180&amp;skin=100','tab10','Coupons &amp; Deals','http://localsearch.stargazette.com');">Coupons &amp; Deals</a></li>
+								<li id="tab11" class="pd-searchMore-droplist" onmouseover="changeStyle('tab11',true);mouseOverShowMore();" onmouseout="changeStyle('tab11',false);"><a href="javascript:gotoTabbedAff('1105&amp;skin=100','tab11','Movies','http://localsearch.stargazette.com');">Movies</a></li>
+								<li id="tab12" class="pd-searchMore-droplist" onmouseover="changeStyle('tab12',true);mouseOverShowMore();" onmouseout="changeStyle('tab12',false);"><a href="javascript:gotoTabbedAff('1125&amp;skin=100','tab12','Obituaries','http://localsearch.stargazette.com');">Obituaries</a></li>
+								<li id="tab13" class="pd-searchMore-droplist" onmouseover="changeStyle('tab13',true);mouseOverShowMore();" onmouseout="changeStyle('tab13',false);"><a href="javascript:gotoTabbedAff('1172&amp;skin=100','tab13','Comments','http://localsearch.stargazette.com');">Comments</a></li>
+								<li id="tab14" class="pd-searchMore-droplist" onmouseover="changeStyle('tab14',true);mouseOverShowMore();" onmouseout="changeStyle('tab14',false);"><a href="javascript:gotoTabbedAff('1171&amp;skin=100','tab14','People','http://localsearch.stargazette.com');">People</a></li>
+								<li id="tab15" class="pd-searchMore-droplist" onmouseover="changeStyle('tab15',true);mouseOverShowMore();" onmouseout="changeStyle('tab15',false);"><a href="javascript:gotoTabbedAff('1108&amp;skin=100','tab15','Shopping','http://localsearch.stargazette.com');">Shopping</a></li>
+			</ul>
 		</div>
+		<div style="clear:both;"></div>
+		<div>
+			<input type="text" name="keywords" class="keyword-input" value="">
+			<input type="image" src="/graphics/search/button_search.gif" class="go-button" align="top">
+		</div>
+	</div>
+	<div style="clear:both;"></div>
+</form>
+		</div><!-- #isf-search-form -->			
 
-		<div id="navigation-container" class="navigation-container">
-	<div id="NavigationMenuLevel1Div" class="navigation-menu-level1" style="display:none"></div>
-	<div id="NavigationMenuLevel2Div" class="navigation-menu-level2" style="display:none"></div>
-	<div id="NavigationMenuLevel3Div" class="navigation-menu-level3" style="display:none"></div>
-	<div id="NavigationMenuLevel4Div" class="navigation-menu-level4" style="display:none"></div>
+				</div>
+			</td>
+			<td>
+				<div class="search-sponsor">
+					<h5>Sponsored By:</h5>
+					<div class="ad_88x31">
+<div id="adcontainer___gelement_adbanner_1"></div><banner position="88x31_1" id="__gelement_adbanner_1"></banner>
 </div>
-<script language="JavaScript" type="text/javascript">
-	initNavigation();
+				</div>
+			</td>
+		</tr>
+		</tbody></table>
+		<div id="navigation-container" class="navigation-container">
+	<div id="NavigationMenuLevel1Div" class="navigation-menu-level1" style="display:block"><span class="level1-collapse" id="node12144"><a href="http://www.stargazette.com">Home</a></span><span class="level1-expand" id="node12145"><a href="http://www.stargazette.com/section/news">News</a></span><span class="level1-expand" id="node12146"><a href="http://www.stargazette.com/section/Sports">Sports</a></span><span class="level1-expand" id="node12147"><a href="http://www.stargazette.com/section/business">Business</a></span><span class="level1-expand" id="node12148"><a href="http://www.stargazette.com/section/viewpoints">Viewpoints</a></span><span class="level1-expand" id="node12149"><a href="http://www.stargazette.com/section/life">Life</a></span><span class="level1-expand" id="node12150"><a href="http://www.stargazette.com/section/Family">Family</a></span><span class="level1-expand" id="node12151"><a href="http://www.stargazette.com/section/ent">Entertainment</a></span><span class="level1-expand" id="node12152"><a href="http://www.legacy.com/Star-Gazette/">Obituaries</a></span><span class="level1-expand" id="node12153"><a href="http://www.stargazette.com/section/multimedia">Photos</a></span><span class="level1-expand" id="node12154"><a href="http://stargazette.weather.gannettonline.com/apps/pbcs.dll/section?Category=WEATHER01&amp;City=Elmira&amp;State=NY">Weather</a></span><span class="level1-expand" id="node12155"><a href="http://classifieds.star-gazette.com/">Buy/Sell</a></span><span class="level1-expand" id="node12156"><a href="#">Customer Service</a></span></div><div id="NavigationMenuLevel2Div" class="navigation-menu-level2" style="display:block"><span class="level2-expand" id="node12771"><a href="http://twintiers.momslikeme.com/">twintiers.momslikeme.com</a></span><span class="level2-expand" id="node12772"><a href="http://m.stargazette.com">m.stargazette.com</a></span></div><div id="NavigationMenuLevel3Div" class="navigation-menu-level3" style="display:none"></div>
+</div>
+<script type="text/javascript">
+(function(){ 
+GEL.thepage.initializer.addInitRoutine({ 
+	name: "menu", 
+	priority: 11, 
+	callback: initMenu, 
+	namespace: ["widget.Menu", "/scripts/NavMenu_118.js"]
+}); 
+function initMenu(){ 
+	GEL.thepage.mainnav= new GEL.widget.MenuState({ 
+		level1:"NavigationMenuLevel1Div",
+					level2:"NavigationMenuLevel2Div",
+					level3:"NavigationMenuLevel3Div"
+			},
+			MenuArray, GEL.widget.MenuState.renderMainItem
+	); 
+}
+})(); 
 </script>
-
-
-	<!-- end #header-container -->
 
 	</div>
+</div>
+<!-- end #header-container -->
 
-	<div id="content-container">
-
-		<!-- LOGIN BOX and BRANDING -->
-		<div id="branding-container">
-<table style="width:940px;">
+					
+			<div class="content-container">
+			
+				<!-- LOGIN BOX and BRANDING -->
+				<div class="branding-container">
+<table width="940">
 	<tbody><tr>
 		<td>
 			<!--registration login-->
-			<div style="padding:5px 0px 0px 5px;width:500px;" id="login-container"></div>
+			<div class="login-container" id="login-container"></div>
 		</td>
-		<td style="overflow: hidden;">
-			<div style="float: right;margin: 14px 10px 10px 10px;height: 20px;">
+		<td class="brandingcontentwrapper">
+			<div class="brandingcontent">
 				<img src="/graphics/branding&#10;.gif" alt="Star-Gazette">
 			</div>
 		</td>
 	</tr>
 </tbody></table>
 </div>
-<div id="IE6Error" style="display:none;">
+<div id="IE6Error">
   <ul>
     <li>Your browser’s security settings are preventing some features from appearing. <a href="/section/IE6SecuritySettings">See instructions for fixing the problem.</a></li>
   </ul>
 </div>
 
-		<table width="940" cellspacing="0" class="horizontalrule">
-			<tbody><tr>
-			      	<td width="940">
-			 	<div class="padding">
-				<div id="glegal">
-					<h1>Privacy Policy</h1>
+				
+				<table width="940" cellspacing="0" class="horizontalrule"> 
+				<tbody><tr>
+					<td width="940">
+						<div class="padding">
+							<div class="glegal">
+								<h1>Privacy Policy</h1>
 <p>Last Updated: March 4, 2009</p>
 <p>This Privacy Policy discloses the privacy practices of this website (the "Site"). Specifically, it outlines the types of information that we gather about you while you are using the Site, and the ways in which we use and share this information. This Privacy Policy does not apply to any information you may provide to us, or that we may collect, offline and/or through other means (for example, at a live event, via telephone, or through the mail).</p>
 <p>Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over our online privacy practices, is governed by this Privacy Policy and our <a href="http://www.stargazette.com/section/terms">Terms of Service</a>. Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we'll post the revised Privacy Policy on this website and update the "Last Updated" date to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.</p>
@@ -522,67 +581,59 @@ document.write('	</div><!-- #isf-search-form -->			');
   7950 Jones Branch Drive<br>
   McLean, VA 22107</p>
 
-				</div>
-				</div>
-				</td>
-			</tr>
-		</tbody></table>
-<div class="clear"></div>
-	<!-- end #content-container-->
-	</div>
-	<div id="footer-container">
-			<div class="leaderboard-container">
-				<div class="leaderboard">
-					<script language="JavaScript">
-					<!--
-					OAS_AD('728x90_2');
-					//-->
-					</script>
-				</div>
-			</div>
-		<div id="partner-logos">
-	<ul>
-		<li><a href="http://www.gannett.com"><img src="/gcicommonfiles/sr/graphics/common/partner_gannett.gif" alt="Gannett Co., Inc."></a></li>
-		<li><a href="http://www.usatoday.com"><img src="/gcicommonfiles/sr/graphics/common/partner_usat.gif" alt="USA TODAY"></a></li>
-		<li><a href="http://www.apartments.com/partner/Community.aspx?p=stargaze&amp;Area2=Y&amp;page=SubArea&amp;state=NY&amp;rgn5=113&amp;partner=stargaze&amp;prvpg=3"><img src="/gcicommonfiles/sr/graphics/common/partner_apartments.gif" alt="apartments.com"></a></li>
-		<li><a href="http://www.cars.com/go/index.jsp?aff=stargaze"><img src="/gcicommonfiles/sr/graphics/common/partner_cars.gif" alt="cars.com"></a></li>
-		<li><a href="http://stargazette.gannettonline.com/careerbuilder/index.html"><img src="/gcicommonfiles/sr/graphics/common/partner_jobs.gif" alt="CareerBuilder"></a></li>
-		<li><a href="http://stargazette.gon.gannettonline.com/apps/pbcs.dll/section?Category=HOMES&amp;pub=stargazette"><img src="/gcicommonfiles/sr/graphics/common/partner_homes.gif" alt="HomeScape"></a></li>
-		<li><a href="http://www.shoplocal.com/star-gazette/home.aspx?ShoppingZoneRadius=50"><img src="/gcicommonfiles/sr/graphics/common/partner_shopping.gif" alt="shopLocal.com"></a></li>
-        <li><a href="http://www.usaweekend.com/"><img src="/gcicommonfiles/sr/graphics/common/usaw.jpg" alt="USAWeekend.com"></a></li>
-	</ul>
+							</div>
+						</div>
+					</td>
+				</tr>
+				</tbody></table>
+			</div>		
+		
+			<div class="footer-container">
+						<div class="leaderboard-container">
+		<div class="leaderboard">
+			<table cellspacing="0" cellpadding="0" border="0" width="100%" class="labeledBanner">
+			<tbody><tr>
+			<td width="1%"><span class="adlabel-vert"></span></td>
+			<td width="99%"><div class="ad_728x90">
+<div id="adcontainer___gelement_adbanner_2"></div><banner position="728x90_2" id="__gelement_adbanner_2"></banner>
 </div>
-
-<div id="partner-links">
+</td>
+			</tr>
+			</tbody></table>
+		</div>
+	</div>
+<div id="partner-logos" class="partner-logos">
+	<a href="http://www.gannett.com"><span class="gannett"></span></a>
+	<a href="http://www.usatoday.com"><span class="usatoday"></span></a>
+	<a href="/apartments"><span class="apartments"></span></a>
+	<a href="/cars"><span class="cars"></span></a>
+	<a href="/jobs"><span class="jobs"></span></a>
+	<a href="/homes"><span class="homes"></span></a>
+	<a href="/shopping"><span class="shopping"></span></a>
+	<a href="http://www.usaweekend.com"><span class="usaweekend"></span></a>
+</div>
+<div id="partner-links" class="partner-links">
 	<ul>
 		<li>Partners: </li>
 		<li><a href="http://www.careerbuilder.com">Jobs: CareerBuilder.com</a></li>
 		<li><a href="http://www.cars.com">Cars: Cars.com</a></li>
 		<li><a href="http://www.apartments.com">Apartments: Apartments.com</a></li>
 		<li><a href="http://www.shoplocal.com">Shopping: ShopLocal.com</a></li>
+		<li><a href="/homes">Homes: Homefinder.com</a></li>
 	</ul>
 </div>
-
-<!--***********************************
-	PLEASE DO NOT REMOVE
-	Macro call to build footer navigation links. This is important for Search Engine Optimization -->
-	<div id="seo-links">
+<div class="seo-links">
 <ul>
-<li><a href="http://www.stargazette.com">Home</a> | </li><li><a href="http://www.stargazette.com/section/news">News</a> | </li><li><a href="http://www.stargazette.com/section/Sports">Sports</a> | </li><li><a href="http://www.stargazette.com/section/business">Business</a> | </li><li><a href="http://www.stargazette.com/section/viewpoints">Viewpoints</a> | </li><li><a href="http://www.stargazette.com/section/life">Life</a> | </li><li><a href="http://www.stargazette.com/section/Family">Family</a> | </li><li><a href="http://www.stargazette.com/section/ent">Entertainment</a> | </li><li><a href="http://www.legacy.com/Star-Gazette/">Obituaries</a> | </li><li><a href="http://www.stargazette.com/section/multimedia">Multimedia</a> | </li><li><a href="http://stargazette.weather.gannettonline.com/apps/pbcs.dll/section?Category=WEATHER01&amp;City=Elmira&amp;State=NY">Weather</a> | </li><li><a href="http://classifieds.star-gazette.com/">Buy/Sell</a> | </li><li><a href="#">Customer Service</a> | </li><li><a href="/section/sitemapHTML">Site Map</a></li></ul></div>
-
-
-<!--***********************************-->
-
-<div id="legal">
+<li><a href="http://www.stargazette.com">Home</a> | </li><li><a href="http://www.stargazette.com/section/news">News</a> | </li><li><a href="http://www.stargazette.com/section/Sports">Sports</a> | </li><li><a href="http://www.stargazette.com/section/business">Business</a> | </li><li><a href="http://www.stargazette.com/section/viewpoints">Viewpoints</a> | </li><li><a href="http://www.stargazette.com/section/life">Life</a> | </li><li><a href="http://www.stargazette.com/section/Family">Family</a> | </li><li><a href="http://www.stargazette.com/section/ent">Entertainment</a> | </li><li><a href="http://www.legacy.com/Star-Gazette/">Obituaries</a> | </li><li><a href="http://www.stargazette.com/section/multimedia">Photos</a> | </li><li><a href="http://stargazette.weather.gannettonline.com/apps/pbcs.dll/section?Category=WEATHER01&amp;City=Elmira&amp;State=NY">Weather</a> | </li><li><a href="http://classifieds.star-gazette.com/">Buy/Sell</a> | </li><li><a href="#">Customer Service</a> | </li><li><a href="/section/sitemapHTML">Site Map</a></li></ul></div>
+<div id="legal" class="legal">
 	<ul>
-		<li><a href="/apps/pbcs.dll/section?Category=TERMS">Terms of Service</a> |</li>
-		<li><a href="/apps/pbcs.dll/section?Category=PRIVACY">Privacy Policy</a> |</li>
-		<li><a href="/article/99999999/CUSTOMER/90408044">Contact Us</a> |</li>
+		<li><a href="/section/TERMS">Terms of Service</a> |</li>
+		<li><a href="/section/PRIVACY">Privacy Policy</a> |</li>
+		<li><a href="http://www.stargazette.com/article/99999999/CUSTOMER/90408044">Contact Us</a> |</li>
 		<li><a href="http://www.careerbuilder.com/Jobs/Company/C8B2PP74HZGS8P0HBRG/Central-New-York-Newspaper-Group-Jobs/?lr=cbga_tsg">Work for Us</a> |</li>
 		<li><a href="https://ssl1.gmti.com/stargaz/forms/icon/step0.html">Subscribe</a></li>
 	</ul>
-    
-    <ul>
+        <ul>
 <b>GANNETT NEW YORK NETWORK: </b>
 <li><a href="http://www.pressconnects.com/" target="_new">Binghamton</a> |</li>
 <li><a href="http://www.stargazette.com/" target="_new">Elmira</a> |</li>
@@ -592,9 +643,7 @@ document.write('	</div><!-- #isf-search-form -->			');
 <li><a href="http://www.thejournalnews.com/" target="_new">Westchester</a> |</li>
 <li><a href="http://www.wgrz.com/" target="_new">WGRZ-TV, Buffalo</a></li>
 </ul>
-
-
-	<p>Copyright © <script type="text/javascript">
+	<p>Copyright ©<script type="text/javascript">
 <!--
 var cal = new Date();
 var year = cal.getYear();
@@ -602,180 +651,133 @@ if (year<2000){
 year=year+1900;}
 document.write(year);
 //-->
-</script>2020 Elmira Star-Gazette. </p>
+</script>2020 Star-Gazette</p>
 </div>
-		<div id="gannettlegal">
-		<p>Use of this site signifies your agreement to the <a href="/section/TERMS">Terms of Service</a> and <a href="/section/PRIVACY">Privacy Policy</a> , updated March 2009.</p>
-		</div>
-	<!-- end #footer-container -->
-	</div>
-<div class="clear"></div>
-<!-- end #main-container-->
+<div class="gannettlegal">
+	<p>	Use of this site signifies your agreement to the <a href="/section/TERMS">Terms of Service</a> and <a href="/section/PRIVACY">Privacy Policy</a> , updated March 2009.	</p>
 </div>
-<!-- Akamai cookie -->
-<script language="JavaScript">SaxotechSessionCookie();</script>
+<!-- macro name="ad_rotate_test" --> 
+<!-- div class="clear"></div -->
 <!--Site Catalyst macro -->
-<!-- sitecatalyst.pbo version 1.48 2008.05.01 -->
-<!-- Removed gciBTLive check. BT code is always present now.
-	 Removed gdn_version since all sites have been upgraded from 2.0
--->
-<!-- sitecatalyst.pbo version 1.47 2007.11.07 -->
-<!-- Added tracking for Pluck pages -->
-<!-- Previous version (1.46 2007.06.06) comments: -->
-<!-- Added rsiseg validation for sites not running zag -->
-<!-- Changed RSI categorization value to be other for non SSTS sections -->
+<!--Sitecatalyst Macro Settings -->
+<script type="text/javascript"> 
+ (function(){ 
+	var 
+		_CFG= GEL.namespace("config.bus"),
+		_provider, 
+		_pri
+	; 
+	(function(){ 
+		if(GEL.config.bus.properties.pageName)return;
+		GEL.config.bus.properties.pageName= (function(){
+			var 
+				_p='',_t,
+				_PI= GEL.thepage.pageinfo,
+				_cat= _PI.categoryname
+			;
+			if(typeof _PI.pluckpage !='undefined' && _PI.pluckpage==1){
+				if (typeof galleryTitle != 'undefined' && galleryTitle != "") 
+					_t = galleryTitle;
+				else{
+					var _pt = document.getElementById("plckTitleTag"),
+						_t = _pt ? _pt.innerText || _pt.textContent : "unknown";
+				}
+				if (_t != "") 
+					_p = _cat + "-" + _t;
+				else 
+					_p = _cat + "-unknown";
+			}else{
+				var _sections = {
+					frontpage: 'Umbrella Page',
+					article: '',
+					section: _cat + ' Index',
+					classifieds: 'Classifieds: '+_cat+' listings',
+					search: 'Publicus search results: ',
+					gallery: (function() {
+						if(_PI.title && _PI.date)
+							return 'Gallery Title: '+_PI.title+' ('+_PI.date+')';
+						else
+							return 'Gallery Title: Null';
+					})(),
+					tngallery: (function() {
+						if(_PI.title && _PI.date)
+							return 'tnGallery Title: '+_PI.title+' ('+_PI.date+')';
+						else
+							return 'tnGallery Title: Null';
+					})()
+				};
+				if(_PI.type in _sections) 
+					_p =  _p + _sections[_PI.type];
+				else
+					_p =  _p + location.href;
+			}
+			return _p;
+		})();
+	})(); 
+	if(!_CFG.providers) return; 
+	for(_provider in _CFG.providers) {
+		_pri= _CFG.providers[_provider]; 
+		GEL.thepage.initializer.addInitRoutine({ 
+			name: _provider, 
+			namespace: ["analytics", "util.Cookie", "remoting"], 
+			callback: (function(_p) { 
+					return function(){
+						load(_p); 
+					}
+				})(_provider), 
+			priority: _pri
+		}); 
+	}
+	function load(provider){ 
+		var _vt= GEL.thepage.viewTracker ||  
+			(function(){ 
+				var _o= GEL.thepage.viewTracker= 
+					new GEL.bus.PageTrack(); 
+				return _o; 
+			})();  
+		/* WARNING: DO NOT TRY THIS AT HOME
+		 *
+		 * This is done on the individual provider ONLY for initialization
+		 * so that we can support initializing different provider
+		 * at different times.   
+		 * 
+		 */
+		var _provs= _vt.init(provider); 
+		for(var i=0;i<_provs.length;i++)
+			_provs[i].trackView(); 
+	}
+	/* 
+		Currently this must be done inline due to the fact that 
+		SiteCat's __constructor__ (of all things!) 
+		does this, which is not suppoted by DocumentOverwriter
+		{ ...
+			document.write("img src=..."); 
+			i= document.images[document.images.length-1]; 
+		....}
+		Within the site cat code we instantiate s_gi(), assigning it to 
+		GEL.config.bus.omniture.s_code 
+		Newer versions of site cat's s_code use a more mature 
+		method of inserting the image.  Once this is implemented, 
+		the inline attachment of the s_code here can be removed 
+	*/
+	var _s = GEL.ement("SCRIPT", { src: "/gel/lib/vendor/omniture/sitecatalyst.js" }); 
+	_s.setAttacher("inline"); 
+	_s.attach(); 
+})(); 
+</script><script id="__gelement_0" src="/gel/lib/vendor/omniture/sitecatalyst.js"></script><img name="s_i_gpaper125" height="1" width="1" border="0" alt="">
+ 
+<noscript> 
+ <img src="http://gpaper125.112.2O7.net/b/ss/gpaper125,gntbcstglobal/1/H.3--NS/0"	height="1" width="1" border="0" alt="" />
+</noscript> 
 <script type="text/javascript">
-if(typeof gcion_enable_bt != 'undefined') {
-  if(gcion_enable_bt) {
-  document.writeln('<script type="text/javascript" src="http://js.revsci.net/gateway/gw.js?csid=J06575" charset="ISO-8859-1"></s' + 'cript>');
-  }
-}
-</script>
-<s_suiteid_default value="stargazette">
-<!-- SiteCatalyst code version: H.3. Copyright 1997-2005 Omniture, Inc. More info available at http://www.omniture.com -->
-<script type="text/javascript" language="JavaScript">
-<!--
-s_account="gpaper125,gntbcstglobal";
-s_prop50="Newspaper";
-//-->
-</script>
-<cobrandsitedomain value="www">
-<sitedomain value="stargazette">
-<script type="text/javascript" language="JavaScript" src="/gcicommonfiles/sr/scripts/s_code.js"></script>
-<script type="text/javascript" language="JavaScript" src="/scripts/s_local_customization.js"></script>
-<script type="text/javascript" language="JavaScript">
-if(typeof gcion_enable_bt != 'undefined') {
-  if(gcion_enable_bt) {
-	  var gciYear = 2009;
-	  DM_addToLoc("zipcode", escape(s.prop30));
-	  DM_addToLoc("age", escape((gciYear-s.prop31)));
-    DM_addToLoc("gender", escape(s.prop32));
-		var gci_ssts=OAS_sitepage;
-		gci_ssts=gci_ssts.replace(/\/article\.htm.*$/,'');
-		gci_ssts=gci_ssts.replace(/\/front\.htm.*$/,'');
-		gci_ssts=gci_ssts.replace(/\/index\.htm.*$/,'');
-    		gci_ssts=gci_ssts.replace(/\@.*$/,'');
-		gci_ssts=gci_ssts.replace(/^.*\.com\//,'');
-		var gci_tempossts=gci_ssts; 
-		var gci_ossts=gci_tempossts.split("/")
-		gci_ssts=gci_ssts.replace(/\//g,' > ');
-		gci_ssts='newspaper > '+gci_ssts;		
- 		if
-      		(  gci_ossts[0] == "life"
-      		|| gci_ossts[0] == "money"
-      		|| gci_ossts[0] == "news"
-      		|| gci_ossts[0] == "sports"
-      		|| gci_ossts[0] == "tech"
-      		|| gci_ossts[0] == "travel"
-      		|| gci_ossts[0] == "weather"
-		|| gci_ossts[0] == "umbrella"
-      		)
-      		{
-        	  DM_cat(gci_ssts);
-      		}
-      		else
-     		{
-        	  DM_cat('newspaper > other');
-     		}
-	  var gci_osstslen=gci_ossts.length;
-		for(var i=0; i<gci_osstslen; i++) {
-		  if(i==0)
-		    s.prop17=gci_ossts[i];   // section
-		  if(i==1)
-		    s.prop18=gci_ossts[i];   // subsection
-		  if(i==2)
-		    s.prop19=gci_ossts[i];   // topic
-		  if(i==3)
-		    s.prop20=gci_ossts[i];   // Subtopic
-		}
-		DM_tag();
-		// Sets the "rsi_segs" cookie in GCION domain
-        if (gdn_enable_bt)
-        {
-          if (GDN.Cookie.Exists(GDN.Cookies.Session.Name))
-          {
-			var updateBtCookie = (!GDN.IsNullOrEmpty(GDN.Cookies.Session.GetValue("ubt"))) ? GDN.Cookies.Session.GetValue("ubt") : "1";
-            if (updateBtCookie == "1" && !GDN.IsNullOrEmpty(rsinetsegs))
-            {
-              GDN.Rpc.Send(GDN.RegUrl("q=5&Segment=" + escape(rsinetsegs.join('|'))));
-              GDN.Cookies.Session.SetValue("ubt", "0");
-            }
-          }
-        }
-	}
-}
-</script>
-<script type="text/javascript" language="JavaScript">
-var pluckcategory= "PRIVACY"; 
-var titleTag = "";
-if(typeof IsPluckPage !='undefined' && IsPluckPage==1){
-if (typeof (gpg.galleryTitle)!= 'undefined' && gpg.galleryTitle != "") titleTag = gpg.galleryTitle;
-else{
-var plucktitleTagdiv = document.getElementById("plckTitleTag");
-var titleTag = plucktitleTagdiv ? plucktitleTagdiv.innerText || plucktitleTagdiv.textContent : "unknown";
-}
-if (titleTag != "") 
-s_pageName=pluckcategory + "-" + titleTag; 
-else 
-s_pageName=pluckcategory + "-unknown";
-}
-</script>
-<script type="text/javascript" language="JavaScript">
-<!--
-s.server="publicus"
-if(typeof s_pageName!='undefined'){s.pageName=s_pageName}else{s.pageName="PRIVACY Index"}
-if (typeof s_channel!='undefined'){s.channel=s_channel}else{s.channel=""}
-if(typeof s_pageType!='undefined'){s.pageType=s_pageType}
-if(typeof s_prop1!='undefined'){s.prop1=s_prop1}else{s.prop1=""}
-if(typeof s_prop2!='undefined'){s.prop2=s_prop2}else{s.prop2=""}
-if(typeof s_prop3!='undefined'){s.prop3=s_prop3}else{s.prop3=""}
-if(typeof s_prop4!='undefined'){s.prop4=s_prop4}else{s.prop4=""}
-if(typeof s_prop5!='undefined'){s.prop5=s_prop5}else{s.prop5=""}
-if(typeof s_prop6!='undefined'){s.prop6=s_prop6}else{s.prop6=""}
-if(typeof s_prop41!='undefined'){s.prop41=s_prop41}
-if(typeof s_prop43!='undefined'){s.prop43=s_prop43}
-if(typeof s_prop45!='undefined'){s.prop45=s_prop45}
-if(typeof s_prop7!='undefined'){s.prop7=s_prop7}else{s.prop7=""}
-if(typeof s_prop8!='undefined'){s.prop8=s_prop8}else{s.prop8=""}
-if(typeof s_prop21!='undefined'){s.prop21=s_prop21}
-s.prop23=document.location
-if(typeof s_prop16!='undefined'){s.prop16=s_prop16}else{s.prop16='section'}
-s.prop25="Elmira:stargazette"
-if(typeof rsinetsegs!='undefined'){s.prop48=(rsinetsegs.join('|')).replace(/J06575_/g,'');}else{s.prop48='no segment';}
-s.prop50=s_prop50;
-if(s.prop7){s.eVar5=s.prop7;}
-if(s.prop25){s.eVar1=s.prop25;}
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-<script language="JavaScript"><!--
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script>
-<noscript><img src="http://gpaper125.112.2O7.net/b/ss/gpaper125,gntbcstglobal/1/H.3--NS/0"	height="1" width="1" border="0" alt="" /></noscript>
-<!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.3. -->
-<!--CheckM8 Macro Settings -->
-<!--publicus_pagetype: section-->
-<script language="JavaScript">
- if (typeof(checkM8_global_control)!='undefined' && checkM8_global_control == "1"){
-	if (typeof(checkM8_site_control)!='undefined' && checkM8_site_control == "1"){
-				var oas_domain = xtractDomain();
-				var oas_section = xtractSection(OAS_sitepage);
-				var oas_file = xtractFile(OAS_sitepage);
-				var checkm8String = "";
-				if (oas_section=='umbrella'){
-					checkm8String = matchSections(oas_section)} else {
-					checkm8String = matchSections(oas_section)+".Front"};
-				/*CheckM8 Settings*/
-				var CM8Server = "q1.checkm8.com";
-				var CM8Cat = oas_domain+"."+checkm8String;
-				var CM8Profile="";
-				/*CheckM8 Settings*/
-				/*CheckM8 JS Call*/
-				document.writeln("<scr"+"ipt type='text/javascript' src='http://q1digital.checkm8.com/adam/cm8adam_1_call.js'><" + "/script>");
-	}
-}
-</script>
-<!--END of CheckM8 Macro Settings -->
+setTimeout(function(){ GEL.thepage.initializer.init();}, 100); 
+</script> 
+<!-- Akamai cookie -->
+<!-- end #footer-container -->
+
+			</div>
+		</div> <!--end main container-->
+	</div>
 
 
-</sitedomain></cobrandsitedomain></s_suiteid_default></body></html>
+	</body></html>
