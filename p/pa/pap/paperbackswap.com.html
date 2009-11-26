@@ -1,43 +1,42 @@
-<!--The following is the downloaded HTML source of the paperbackswap.com privacy policy that was archived on 2009-04-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090418162531id_/http%3A//www.paperbackswap.com/help/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the paperbackswap.com privacy policy that was archived on 2009-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091126045910id_/http%3A//www.paperbackswap.com/help/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 	<title>PaperBackSwap :: Privacy Policy</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="keywords" content=", free books, trade books, swap books, online book club, book clubs, paperback, used books, book swap, paperback swap, paperbacks, exchange books, barter, exchange, recycle, trade things">
-<meta name="description" content=" Join our Online Book Club and Swap, Trade or Exchange books with other members absolutely Free. Looking for Free Books? You'll find tons of great Used Books to choose from.">
-<link href="/css/global-26.css" rel="stylesheet" type="text/css">
-<script type="text/javascript">var page_loaded=false;</script>
-<script type="text/javascript" src="/includes/global-74.js"></script>
-<script type="text/javascript">var subdomain='www';var secure_subdomain='secure';var user_logged_in=false;</script>
-<script type="text/javaScript" src="/includes/qm-2.js"></script>
-<script type="text/javascript">var statistic_id='MEszUzZ1RnhEc25qNHlnUTg3dDI0Zz09';var server='RERRTG9rOVdUZUJNMEovOW9yVzJDQT09';var live_chat_total_members=4;</script></head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="keywords" content=" Paperback Swap, PaperbackSwap.com, Book Club, Free Books, Trade Books, Exchange Books, Swap Books, Book Swap, Book Reviews, Hardbacks, Audio Books, R...">
+<meta name="description" content=" Join our free online book club to swap, trade &amp; exchange books for free. We're not just paperbacks; find a huge selection of hardbacks, audio books, romanc...">
+<link href="http://a.pbsstatic.com/css/global-94.css" rel="stylesheet" type="text/css">
+<script type="text/javascript">var page_loaded=false;var subdomain='www';var secure_subdomain='secure';var user_logged_in=false;var statistic_id='c2N1eFNtdFNTVWd4Q2gzN0N3YVJoQT09';var server='RERRTG9rOVdUZUI3cWljOHpkZENSdz09';var live_chat_total_members=2;</script>
+<script type="text/javascript" src="http://a.pbsstatic.com/includes/global-119.js"></script>
+<script type="text/javaScript" src="http://a.pbsstatic.com/includes/qm-4.js"></script></head>
 <body>
 	<div id="page_container">
 		<div id="page_header"><a name="top"></a>
 <div id="header_logo">
-	<div id="header_left" onclick="self.location.href='http://www.paperbackswap.com/index.php'"><div id="header_logo_cap"></div></div>
+	<div id="header_left" onclick="self.location.href='/index.php'"><div id="header_logo_cap"></div></div>
 	<div id="header_right" align="right">
 		<div id="header_site_links">
-			<a href="http://www.swapacd.com?f=books" target="_blank"><img src="/images/header/cds_l-2.png" border="0" alt="swap cds"></a><a href="http://www.swapadvd.com?f=books" target="_blank"><img src="/images/header/dvds_r.png" border="0" alt="swap dvds"></a>
+			<div id="cd_link" onclick="window.open('http://www.swapacd.com/index.php?f=books')"></div><div id="dvd_link" onclick="window.open('http://www.swapadvd.com/index.php?f=books')"></div>
 		</div>
-		<div id="header_top_links" style="font-size:9pt">
+		<div id="header_top_links" style="font-size:9pt;">
 			
-							&nbsp;&nbsp;
-			<a href="/misc/whats_new.php">What's New</a> - 			<a href="http://www.paperbackswap.com/index.php">Home</a> -
+			<a href="/misc/whats_new.php">What's New</a> - 			<a href="/index.php">Home</a> -
 										<a href="https://secure.paperbackswap.com/members/login.php" rel="nofollow">Login</a>
 					</div>
 		<div id="header_stats" style="cursor:pointer;" onclick="self.location.href='/pulse/index.php';" title="The Pulse of PBS">
 			<div id="header_stats_left_of_left">
-				<div id="header_stats_left">
-					<div id="header_stats_right">
+				<div id="header_stats_main">
 												<div id="header_stats_text">
-							 Member <span style="color:green;">$</span>avings: <span style="color:green;">$</span><span id="total_money_saved" style="color:green;">12,132,702.78</span>
+							 Member <span style="color:green;">$</span>avings: <span style="color:green;">$</span><span id="total_money_saved" style="color:green;">16,106,591.36</span>
 							 |
-							 Books Available: <span id="site_wide_total_books">3,324,461</span>
+							 Books Available: <span id="site_wide_total_books">4,139,991</span>
 							 |
-							 Members Online: 2,049						</div>
+							 Members Online: 1,349						</div>
 						<script type="text/javascript">
+
+							var hide_header_stats = function() { document.getElementById("header_stats_main").style.visibility = "hidden"; }
+							
 							function update_site_book_total()
 							{
 								current = document.getElementById('site_wide_total_books').innerHTML;
@@ -60,7 +59,12 @@
 
 				                document.getElementById('site_wide_total_books').innerHTML = current;
 
-				                setTimeout("update_site_book_total();", 4000);
+				                if (document.getElementById('site_wide_total_books_HP'))
+				                {
+				                	document.getElementById('site_wide_total_books_HP').innerHTML = current;
+				                }
+
+				                setTimeout("update_site_book_total();", 10000);
 							}
 
 							function update_member_savings()
@@ -74,7 +78,7 @@
 						            hdx = savings.indexOf(',');
 						        }
 
-				                savings = format_currency(parseFloat(savings) + 1.35);
+				                savings = format_currency(parseFloat(savings) + 0.68);
 				                savings += '';
 
 				                var rgx = /(\d+)(\d{3})/;
@@ -85,24 +89,28 @@
 
 				                document.getElementById('total_money_saved').innerHTML = savings;
 
+				                if (document.getElementById('total_money_saved_HP'))
+				                {
+				                	document.getElementById('total_money_saved_HP').innerHTML = savings;
+				                }
+
 								setTimeout("update_member_savings();", 5000);
 							}
 
 							update_site_book_total();
 							update_member_savings();
 						</script>
-					</div>
+					<span id="header_stats_right"></span>
 				</div>
 			</div>
 		</div>
 		<div id="header_bar">
 			<div id="header_bar_text">
-				Your source for swapping books online - Read...Swap...Save!
-			</div>
+				Your source for swapping books online - Read...Swap...Save!			</div>
 			<div id="header_bar_search">
-				<form name="header_bar_search_frm" id="header_bar_search_frm" method="get" action="http://www.paperbackswap.com/book/browser.php" onsubmit="return submit_header_search()">
+				<form name="header_bar_search_frm" id="header_bar_search_frm" method="get" action="/book/browser.php" onsubmit="return submit_header_search();">
 					<div>
-																			<input type="text" size="30" value="Title, Author, ISBN or Keyword..." style="color:#CCC" onclick="setup_header_search();" id="header_bar_search_field" name="k" autocomplete="off">
+													<input type="text" size="30" value="Title, Author, ISBN or Keyword..." style="color:#CCC" onfocus="setup_header_search();" id="header_bar_search_field" name="k" autocomplete="off">
 												<input type="submit" value="Search" class="button">
 					</div>
 				</form>
@@ -113,60 +121,73 @@
 		<div id="header_navigation_row">
 			<div id="header_navigation_l">
 				<div style="position:relative;z-index:9999999;"><div id="qmcrumbs" class="qm-crumbs-container"></div></div>
-				<div id="qm0" class="qmmc" style="zoom: 1; z-index: 11;">
-											<a href="http://www.paperbackswap.com/help/how_to_swap_books.php">How To Swap Books?</a>
+				<div id="qm0" class="qmmc">
+											<a href="/help/how_to_swap_books.php">How To Swap Books?</a>
 						<a href="https://secure.paperbackswap.com/register/index.php">Sign Up</a>
-										<a href="http://www.paperbackswap.com/book/search.php" class="qmparent">Search <img src="/images/header/submenu_indicator.png" align="absmiddle" border="0"></a>
-					<div style="z-index: 21;">
-						<a href="http://www.paperbackswap.com/book/search.php">All Books</a>
-						<a href="http://www.paperbackswap.com/book/browser.php">Book Browser</a>
-						<a href="http://www.paperbackswap.com/book/advanced_search.php">Advanced Search</a>
-						<a href="http://www.paperbackswap.com/book/posted_today.php">Books Posted Today</a>
-						<a href="http://www.paperbackswap.com/book/wish_list.php">Club Wish List</a>
-						<a href="http://www.paperbackswap.com/reviews/index.php">Member Book Reviews</a>
-						<a href="http://www.paperbackswap.com/book/popular_list.php">NYT Best Seller List</a>
+										<a href="/book/search.php">Search <img src="http://a.pbsstatic.com/images/header/submenu_indicator.png" align="absmiddle" border="0"></a>
+					<div>
+						<a href="/book/search.php">All Books</a>
+						<a href="/book/browser.php">Book Browser</a>
+						<a href="/book/advanced_search.php">Advanced Search</a>
+						<a href="/book/posted_today.php">Books Posted Today</a>
+						<a href="/reviews/index.php">Member Book Reviews</a>
+						<a href="/book/popular_list.php">NYT Best Seller List</a>
+						<a href="/book/newbery_medal_winners.php">Newbery Medal Winners</a>
+						<a href="/book/pulitzer_prize_winners.php">Pulitzer Prize Winners</a>
+						<a href="/book/most_traveled.php">Most Traveled Copies</a>
+						<a href="/book/wish_list.php">Club Wish List</a>
 											</div>
 											<a href="https://secure.paperbackswap.com/members/login.php" rel="nofollow">Login</a>
-										<a href="http://www.paperbackswap.com/community/index.php" class="qmparent">Community <img src="/images/header/submenu_indicator.png" align="absmiddle" border="0"></a>
-					<div style="z-index: 21;">
-						<a href="http://www.paperbackswap.com/profile/directory.php" rel="nofollow">Member Directory</a>
-						<a href="http://www.paperbackswap.com/forum/index.php">Discussion Forums</a>
+										<a href="/community/index.php">Community <img src="http://a.pbsstatic.com/images/header/submenu_indicator.png" align="absmiddle" border="0"></a>
+					<div>
+						<a href="/profile/directory.php" rel="nofollow">Member Directory</a>
+						<a href="/forum/index.php">Discussion Forums</a>
 						<a href="http://blog.paperbackswap.com">Blog</a>
-													<a href="http://www.paperbackswap.com/chat/index.php" rel="nofollow">Live Chat (4)</a>
-												<a href="http://www.paperbackswap.com/box_o_books/index.php">Box-O-Books</a>
-						<a href="http://www.paperbackswap.com/book_journal/index.php">Book Journal</a>
-						<a href="http://www.paperbackswap.com/about/maps.php">Maps</a>
-						<a href="http://www.paperbackswap.com/the_eclectic_pen/index.php">The Eclectic Pen</a>
-						<a href="http://www.paperbackswap.com/fun_stuff/index.php" class="sub_menu_sub qmparent" rel="nofollow">Fun Stuff</a>
-						<div style="z-index: 31;">
-							<a href="http://www.paperbackswap.com/fun_stuff/20_questions/index.php" rel="nofollow">20 Questions</a>
-							<a href="http://www.paperbackswap.com/fun_stuff/sudoku/index.php" rel="nofollow">Sudoku</a>
+						<a href="/donations/index.php" class="sub_menu_sub" rel="nofollow">Donations</a>
+						<div>
+							<a href="/donations/schools.php" rel="nofollow">School Donation Program</a>
+							<a href="/misc/friends_of_pbs/friends_of_pbs.php" rel="nofollow">Friends of PBS</a>
 						</div>
-						<a href="http://www.paperbackswap.com/book/top_50.php">Top 50s</a>
-						<a href="http://www.paperbackswap.com/pulse/index.php">Pulse of PBS</a>
-						<a href="http://www.paperbackswap.com/spread_the_word.php">Spread The Word</a>
-						<a href="http://www.paperbackswap.com/photos/index.php" rel="nofollow">Photo Gallery</a>
-						<a href="http://www.paperbackswap.com/recipes/index.php">Recipes</a>
-						<a href="http://www.paperbackswap.com/tags/cloud.php">Club Tag Cloud</a>
-						<a href="http://www.paperbackswap.com/testimonials/index.php">Member Testimonials</a>
-						<a href="http://www.paperbackswap.com/misc/friends_of_pbs/friends_of_pbs.php" rel="nofollow">Friends of PBS</a>
+													<a href="/chat/index.php" rel="nofollow">Live Chat (2)</a>
+												<a href="/box_o_books/index.php">Box-O-Books</a>
+						<a href="/book_journal/index.php">Book Journal</a>
+						<a href="/about/maps.php">Maps</a>
+						<a href="/the_eclectic_pen/index.php">The Eclectic Pen</a>
+						<a href="/fun_stuff/index.php" class="sub_menu_sub" rel="nofollow">Fun Stuff</a>
+						<div>
+							<a href="/fun_stuff/20_questions/index.php" rel="nofollow">20 Questions</a>
+							<a href="/fun_stuff/sudoku/index.php" rel="nofollow">Sudoku</a>
+						</div>
+						<a href="/book/top_50.php">Top 50s</a>
+						<a href="/pulse/index.php">Pulse of PBS</a>
+						<a href="/spread_the_word.php" class="sub_menu_sub">Spread The Word</a>
+						<div>
+							<a href="/tell_a_friend/index.php">Tell A Friend</a>
+							<a href="/bookmarks/index.php" rel="nofollow">Bookmarks</a>
+							<a href="http://apps.facebook.com/paperbackswap/">Facebook.com App</a>
+							<a href="/spread_the_word.php">More</a>
+						</div>
+						<a href="/photos/index.php" rel="nofollow">Photo Gallery</a>
+						<a href="/recipes/index.php">Recipes</a>
+						<a href="/tags/cloud.php">Club Tag Cloud</a>
+						<a href="/testimonials/index.php">Member Testimonials</a>
 					</div>
-					<a href="http://www.paperbackswap.com/help/index.php" class="qmparent">Help Center <img src="/images/header/submenu_indicator.png" align="absmiddle" border="0"></a>
-					<div style="z-index: 21;">
-						<a href="http://www.paperbackswap.com/help/how_to_swap_books.php">How To Swap Books?</a>
-						<a href="http://www.paperbackswap.com/help/help_index.php">Browse Help Docs</a>
-						<a href="http://www.paperbackswap.com/help/help_index.php?atl=t">Ask the Librarian</a>
-						<a href="http://www.paperbackswap.com/help/live_help.php" rel="nofollow">Live Help</a>
+					<a href="/help/index.php">Help Center <img src="http://a.pbsstatic.com/images/header/submenu_indicator.png" align="absmiddle" border="0"></a>
+					<div>
+						<a href="/help/how_to_swap_books.php">How To Swap Books?</a>
+						<a href="/help/help_index.php">Browse Help Docs</a>
+						<a href="/help/help_index.php?atl=t">Ask the Librarian</a>
+						<a href="/help/live_help.php" rel="nofollow">Live Help</a>
 					</div>
-					<a href="https://secure.paperbackswap.com/kiosk/index.php" style="border:none;padding-right:0px" class="qmparent">Kiosk <img src="/images/header/submenu_indicator.png" align="absmiddle" border="0"></a>
-					<div style="z-index: 21;">
+					<a href="https://secure.paperbackswap.com/kiosk/index.php" style="border:none;padding-right:0px">Kiosk <img src="http://a.pbsstatic.com/images/header/submenu_indicator.png" align="absmiddle" border="0"></a>
+					<div>
 						<a href="https://secure.paperbackswap.com/kiosk/index.php">Go Shopping</a>
 						<a href="https://secure.paperbackswap.com/kiosk/details.php?id=3">Buy Credits</a>
 						<a href="https://secure.paperbackswap.com/kiosk/details.php?id=6">Buy PBS Money</a>
-						<a href="http://www.paperbackswap.com/gift_certificates/">Redeem a Gift Certificate</a>
+						<a href="/gift_certificates/">Redeem a Gift Certificate</a>
 						<a href="https://secure.paperbackswap.com/members/transfer_credits/index.php" rel="nofollow">Transfer Credits</a>
 					</div>
-					<img src="/images/header/menu_r.png">
+					<span id="menu_r"></span>
 					<span class="qmclear">&nbsp;</span></div>
 					<script type="text/javascript">qm_create(0,false,100,500,false)</script>
 
@@ -174,6 +195,8 @@
 
 			
 			
+			
+
 												
 			
 		</div>
@@ -185,7 +208,8 @@
 
             <h1>Privacy Policy</h1>
 
-            <div class="stretch_box stretch_box_grey " style="margin-top:10px"><div class="top_grey"><div class="bl"></div><div class="br"></div></div><div class="content_grey"><div class="bl_grey"><div class="data_grey " style=""><div class="margin_fix"></div>
+            <div class="round" style="margin-top:10px">
+<div class="tl tl_grey"></div><div class="tr tr_grey"></div><div class="outer bb_grey"><div class="inner bb_grey"><div class="content"><div class="clear"></div>
 				This page describes how the <b>Paperbackswap</b> handles information that we learn about consumers when consumers visit the www.paperbackswap.com, or contact us by mail, phone, or email. Any personally identifying information you provide is voluntary. We use it to fulfill a request you make or to assist us in carrying out our mission: facilitating the trading of books, music, videogames, or other media between our club members.
 				<br>
 				<br>
@@ -235,81 +259,103 @@
 				<b>Changes to this Privacy Policy</b><br>
 				<b>Paperbackswap</b> reserves the right to make changes to this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your <b>Paperbackswap</b> account or by placing a prominent notice on our site.
 
-			<div class="margin_fix"></div></div></div></div><div class="bottom_grey"><div class="bl"></div><div class="br"></div></div></div>
+			<div class="clear"></div></div></div></div><div class="bl bl_grey"></div><div class="br br_grey"></div></div>
        	</div>
 		<div id="page_footer"><br clear="all">
 <div align="center" class="footer" style="font-size:9pt;">
-		<div style="padding:10px;margin-top:15px;">
-		<a href="#top">↑&nbsp;Back to Top&nbsp;↑</a>
-	</div>
-		<a href="http://www.paperbackswap.com/misc/friends_of_pbs/friends_of_pbs.php">Friends of PBS</a>
-	|
-	<a href="http://www.paperbackswap.com/spread_the_word.php">Spread the Word</a>
-	|
-	<a href="http://www.paperbackswap.com/help/help_index.php">Help Center</a>
-	|
-	<a href="http://www.paperbackswap.com/press_media/index.php">Press &amp; Media</a>
-	|
-	<a href="http://www.paperbackswap.com/about/features.php">Feature List</a>
-	|
-	<a href="http://www.paperbackswap.com/careers/index.php">Careers</a>
-	|
-	<a href="http://www.paperbackswap.com/rss/index.php">RSS</a>
-	|
-	<a href="http://www.paperbackswap.com/help/browser_test.php">Browser Test</a>
-	|
-	<a href="http://www.paperbackswap.com/mobile/index.php">Mobile</a>
-	|
-		<a href="http://www.paperbackswap.com/developers/index.php">PBSWS-Developers</a>
-	|
-	<a href="http://www.paperbackswap.com/misc/under_the_hood/index.php">Under the Hood</a>
-	<br>
-	<a href="http://www.paperbackswap.com/plugins/bookmark.php">Book List Import Bookmark</a>
-	|
-	<a href="http://www.paperbackswap.com/plugins/index.php">Browser Search Plugins</a>
-	|
-	<a href="http://www.paperbackswap.com/volunteers/book_covers/index.php">Upload Book Covers</a>
-	|
-	<a href="http://www.paperbackswap.com/volunteers/book_edits/index.php">Edit Book Data</a>
-	|
-	<a href="http://www.paperbackswap.com/volunteers/book_authors/index.php">Approve Book Authors</a>
-	|
-	<a href="http://www.paperbackswap.com/help/terms_of_use.php">Terms of Use</a>
-	|
-	<a href="http://www.paperbackswap.com/help/privacy_policy.php">Privacy Policy</a>
-	|
-	<a href="http://www.paperbackswap.com/contact_us/index.php">Contact Us</a>
-
-	<br><br>
-
-	Patent Pending
-	|
-	© 2004-2009 <a href="http://www.paperbackswap.com">PaperBackSwap.com</a>
-	|
-	Sister Sites:
-	<a href="http://www.swapacd.com/index.php?f=books">SwapaCD.com</a>
-	-
-	<a href="http://www.swapadvd.com/index.php?f=books">SwapaDVD.com</a>
-	-
-	<a href="http://www.swapagoat.com/index.php?f=books">SwapaGoat.com</a>
-
-	<br><br>
-
-	<a href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=SECURE.PAPERBACKSWAP.COM&amp;lang=en" target="_blank"><img src="/images/verisign_small.gif" alt="Verisign Secured" border="0">
-	</a>
-	&nbsp;&nbsp;
-	<a target="_blank" href="http://www.bbbonline.org/cks.asp?id=1081202162220">
-	<img title="Click to verify BBB accreditation and to see a BBB report." border="0" src="/images/bbb/bbbsealh2.gif" alt="Click to verify BBB accreditation and to see a BBB report."></a>
-	&nbsp;&nbsp;
-	<a href="https://www.paypal.com/us/verified/pal=sales%40nationalbookswap%2ecom" target="_blank"><img src="/images/paypal/paypal_logo.gif" title="Verified by Paypal." border="0" alt="PayPal Verified"></a>
+	<div style="padding:5px 7px 0 0;text-align:right;">
+				<a href="#top">↑&nbsp;Back to Top</a>
 	</div>
 
-<script type="text/javascript" src="/includes/tooltip-5.js"></script>
+	<span style="font-size:8pt;float:left;text-align:left;padding-left:10px;padding-top:10px;">
+		By using this Web site, you confirm that you have read, understood, and agreed to be bound by the <a href="/help/terms_of_use.php" rel="nofollow" target="_blank">Terms of Use</a>. <br>
+		Patent Pending  |  Copyright © 2004 - 2009 <a href="/">PaperBackSwap.com</a>. All Rights Reserved.
+	</span>
+
+	<span id="footer_logos" align="center">
+		<span class="verisign_logo" onclick="window.open('https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=SECURE.PAPERBACKSWAP.COM&amp;lang=en')"></span>
+		<span class="bbb_logo" onclick="window.open('http://www.bbbonline.org/cks.asp?id=1081202162220')"></span>
+		<span class="paypal_logo" onclick="window.open('https://www.paypal.com/us/verified/pal=sales%40nationalbookswap%2ecom')"></span>
+	</span>
+
+	<br clear="all">
+</div>
+
+	<div align="center" style="font-size:9pt; float:left; width:950px; margin:20px 0 40px 0; position:absolute;">
+		<style>
+			.footer_links a, .footer_links a:visited { color: #06C; text-decoration: none; }
+			.footer_links a:hover { text-decoration: underline; }
+			.footer_links strong { font-size:10pt; font-weight:bold; color: #06C; }
+			.dtc {  }
+		</style>
+		<div class="dt footer_links">
+			<div class="dtr">
+				<div class="dtc" style="width:4%;" align="left">
+					&nbsp;
+				</div>
+				<div class="dtc" style="width:20%;" align="left">
+					<a href="/members/index.php" rel="nofollow"><strong>My Account</strong></a><br>
+					<a href="/members/book_add.php" rel="nofollow">Post Books</a><br>
+					<a href="/members/my_lists/wish_list.php" rel="nofollow">Wish List</a><br>
+					<a href="/members/bookshelf.php" rel="nofollow">Bookshelf</a><br>
+					<a href="/members/tools.php" rel="nofollow">Member Tools</a><br>
+					<a href="/misc/under_the_hood/index.php" rel="nofollow">Under the Hood</a><br>
+					<a href="/members/club_communications/newsletter_archive.php" rel="nofollow">Newsletter Archive</a><br>
+				</div>
+				<div class="dtc" style="width:20%;" align="left">
+					<a href="/book/search.php"><strong>Search for a Book</strong></a><br>
+					<a href="/index.php" rel="nofollow">Browse My Favorite Genres</a><br>
+					<a href="/book/advanced_search.php">Advanced Book Search</a><br>
+					<a href="/book/browser.php">Book Browser</a><br>
+					<a href="/tags/cloud.php">Club Tag Cloud</a><br>
+					<a href="/book/popular_list.php">NYT Best Sellers</a><br>
+					<a href="/book/newbery_medal_winners.php">Newbery Medal Winners</a><br>
+					<a href="/book/pulitzer_prize_winners.php">Pulitzer Prize Winners</a><br>
+					<a href="/book/posted_today.php">Books Posted Today</a><br>
+					<a href="/mobile/index.php">Mobile / PDAs</a><br>
+				</div>
+				<div class="dtc" style="width:20%;" align="left">
+					<a href="/help/help_index.php"><strong>Help Center</strong></a><br>
+					<a href="/help/how_to_swap_books.php">How to Swap Books</a><br>
+					<a href="/help/help_index.php?atl=t">Ask the Librarian</a><br>
+					<a href="/help/live_help.php">Live Help</a><br>
+					<a href="/help/browser_test.php">Browser Test</a><br>
+					<a href="/about/features.php">Feature List</a><br>
+				</div>
+				<div class="dtc" style="width:20%;" align="left">
+					<strong>Community</strong><br>
+					<a href="/spread_the_word.php">Spread the Word</a><br>
+					<a href="/developers/index.php">Widgets &amp; APIs</a><br>
+					<a href="/rss/index.php">Feeds RSS/XML</a><br>
+					<a href="/box_o_books/index.php">Box-O-Books</a><br>
+					<a href="/forum/index.php">Discussion Forums</a><br>
+					<a href="http://blog.paperbackswap.com">Blog</a><br>
+					<a target="_blank" href="http://www.facebook.com/apps/application.php?id=4785494317" rel="nofollow">Facebook</a><br>
+					<a target="_blank" href="http://www.twitter.com/paperbackswap/" rel="nofollow">Twitter</a><br>
+									</div>
+				<div class="dtc" style="width:15.9%;" align="left">
+					<strong>Company</strong><br>
+					<a href="/press_media/index.php">Press &amp; Media</a><br>
+					<a href="/pulse/index.php">Pulse of PBS</a><br>
+					<a href="/contact_us/index.php" rel="nofollow">Contact Us</a><br>
+					<a href="/careers/index.php" rel="nofollow">Careers</a><br>
+					<a href="/help/privacy_policy.php" rel="nofollow">Privacy &amp; Security</a><br><br>
+					<strong>Sister Sites</strong><br>
+					<a href="http://www.swapacd.com/">SwapaCD.com</a><br>
+					<a href="http://www.swapadvd.com/">SwapaDVD.com</a><br>
+				</div>
+			</div>
+		</div>
+	</div>
+
+<script type="text/javascript" src="http://a.pbsstatic.com/includes/tooltip-7.js"></script>
 <a name="bottom"></a>
 
 
-	<span style="behavior:url(#default#clientCaps)" id="browserCaps"></span><script type="text/javascript" src="/includes/client_details-2.js"></script>
-    
+	<span style="behavior:url(#default#clientCaps)" id="browserCaps"></span><script type="text/javascript" src="http://a.pbsstatic.com/includes/client_details-2.js"></script>
+    <script type="text/javascript">
+	if (document.getElementById('header_bar_search_field')) { AutoComplete_Create('header_bar_search_field', 'header_right', '/scripts/search_suggest.php', 'k', 'get', 2, 'header_bar_search_frm'); }
+</script>
 <script type="text/javascript">
 //<![CDATA[
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -334,9 +380,9 @@ if( typeof(_gat) == "object")
 </script>
 <script type="text/javascript">
 	var page_loaded=true;
-	addEvent(window, 'load', function () {ajax_call('id='+statistic_id+'&pst=1240071930.65&pbt=0.37&mu=2621&z=', '/scripts/page_time.php')});
+	addEvent(window, 'load', function () {ajax_call('id='+statistic_id+'&pst=1259211550.19&pbt=0.05&mu=786&z=', '/scripts/page_time.php')});
 </script>
 </div>
 	</div>
 
-<div style="position: absolute; visibility: hidden; z-index: 1000;"><div></div><div></div></div></body></html>
+</body></html>
