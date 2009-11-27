@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mindviz.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913034730id_/http%3A//mindviz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindviz.com privacy policy that was archived on 2009-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091127074250id_/http%3A//mindviz.com/privacy.php) for the most accurate reproduction.*
 
 # MindViz - Your Friends, Photos, Videos, Music, Forums, Chat & More!
 
