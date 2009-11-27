@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the episerver.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523211150id_/http%3A//www.episerver.com/en/System/Privacy_Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the episerver.com privacy policy that was archived on 2009-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091127130122id_/http%3A//www.episerver.com/en/System/Privacy_Statement) for the most accurate reproduction.*
 
 # Privacy - The official Web Site of EPiServer Products for web content management and online communities
 
@@ -8,7 +8,7 @@ EPiServer AB is committed to protecting your integrity. This privacy statemen
 
 ### General
 
-The Personal Data Act (1998:204) came into force 1 October 1998 and was fully applied 1 October 2001. The act prevents the violation of personal integrity by processing personal data. Your permission is required for us to handle your personal information. EPiServer AB, company number 556208-3435, Finlandsgatan 38, 164 74 Kista is responsible for the information provided to EPiServer AB and its subsidiaries.
+The Personal Data Act (1998:204) came into force 1 October 1998 and was fully applied 1 October 2001. The act prevents the violation of personal integrity by processing personal data. Your permission is required for us to handle your personal information. EPiServer AB, company number 556208-3435, Regeringsgatan 67, Box 7007 103 86 Stockholm is responsible for the information provided to EPiServer AB and its subsidiaries.
 
 ## Use of Your Personal Information
 
