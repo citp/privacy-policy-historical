@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the netgalley.com privacy policy that was archived on 2009-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090410080912id_/http%3A//www.netgalley.com/index.php%3Fmodule%3Dstatic%26op%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netgalley.com privacy policy that was archived on 2009-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091127233731id_/http%3A//netgalley.com/about/privacy) for the most accurate reproduction.*
 
-# netGalley - The premier publishing community destination
+# NetGalley : Privacy Policy
+
+| 
 
 **Introduction**
 
-NetGalley LLC is committed to respecting the privacy of the individuals who use this website (the " _ **Website**_ "). Accordingly, this policy (the " _ **Policy**_ ") informs you about NetGalley LLC' practices with regard to the collection of information about you. More specifically, this Policy describes the kinds of information, including Personally Identifiable Information (defined below), that NetGalley LLC may gather during your visit to the Website, why such information is gathered, how it is used, when it might be disclosed, and what you can do if you disagree with the practices described in the Policy.
+NetGalley LLC is committed to respecting the privacy of the individuals who use this website (the "Website"). Accordingly, this policy (the "Policy") informs you about NetGalley LLC' practices with regard to the collection of information about you. More specifically, this Policy describes the kinds of information, including Personally Identifiable Information (defined below), that NetGalley LLC may gather during your visit to the Website, why such information is gathered, how it is used, when it might be disclosed, and what you can do if you disagree with the practices described in the Policy.
 
 If you have questions about this Policy, or you don't see your concerns addressed here, then please see the Questions and Changes to Your Information section at the end of the Policy.
 
-You understand and agree that _by visiting the Website, you are accepting the terms of this Policy_. Please keep in mind that from time to time, NetGalley LLC may modify or amend the terms of this Policy. Because this Policy creates a binding contract between you and NetGalley LLC, NetGalley LLC recommends that you bookmark this page and review it regularly to ensure you are in compliance therewith.
+You understand and agree that by visiting the Website, you are accepting the terms of this Policy. Please keep in mind that from time to time, NetGalley LLC may modify or amend the terms of this Policy. Because this Policy creates a binding contract between you and NetGalley LLC, NetGalley LLC recommends that you bookmark this page and review it regularly to ensure you are in compliance therewith.
 
-Capitalized words used, but not defined, in this Policy, will have the meanings set forth in the [Terms of Use](https://web.archive.org/web/20090410080912id_/http%3A//www.netgalley.com/index.php?module=static&op=TermsOfUse).
+Capitalized words used, but not defined, in this Policy, will have the meanings set forth in the [Terms of Use](https://web.archive.org/about/terms/).
 
 **Information Collected**
 
@@ -18,11 +20,11 @@ One of the basic principles that NetGalley LLC has followed in designing this We
 
 **Personally Identifiable Information**
 
-Except as otherwise disclosed to you in this Policy, NetGalley LLC will not sell, barter, give away, or rent information that identifies you individually (" _ **Personally Identifiable Informatio**_ n") to another entity. Under certain circumstances, NetGalley LLC may collect your Personally Identifiable Information. For example, if you are an Authorized User who has completed a registration form, NetGalley LLC may collect and store some or all of the following information: your gender, name, address, company name, email address, and website address(es), if any. NetGalley LLC uses this information to provide the services that you have requested. NetGalley LLC may use this information to send you email about its services unless you opt out at the time of registration or otherwise by contacting us using the information provided in the Questions and Changes to Your Information section at the end of this Policy. Moreover, if you so choose at the time of registration or otherwise, NetGalley LLC may use this information to allow other community members and users to email you. If you are an Authorized User, then NetGalley LLC may share your Personally Identifiable Information with the Client who has authorized your access to Confidential Content in Secure Areas.
+Except as otherwise disclosed to you in this Policy, NetGalley LLC will not sell, barter, give away, or rent information that identifies you individually ("Personally Identifiable Information") to another entity. Under certain circumstances, NetGalley LLC may collect your Personally Identifiable Information. For example, if you are an Authorized User who has completed a registration form, NetGalley LLC may collect and store some or all of the following information: your gender, name, address, company name, email address, and website address(es), if any. NetGalley LLC uses this information to provide the services that you have requested. NetGalley LLC may use this information to send you email about its services unless you opt out at the time of registration or otherwise by contacting us using the information provided in the Questions and Changes to Your Information section at the end of this Policy. Moreover, if you so choose at the time of registration or otherwise, NetGalley LLC may use this information to allow other community members and users to email you. If you are an Authorized User, then NetGalley LLC may share your Personally Identifiable Information with the Client who has authorized your access to Confidential Content in Secure Areas.
 
 **Anonymous Information**
 
-NetGalley LLC may also gather certain information that does not identify you personally (" _ **Anonymous Information**_ "). NetGalley LLC may, for example, automatically collect your IP address, browser information, and site-domain name every time you visit this Website. NetGalley LLC may also collect record and collect data regarding customer-traffic patterns and Website usage. NetGalley LLC uses Anonymous Information to edit and personalize the Website and for other purposes. For example, to make the Website more relevant to users, NetGalley LLC might show to authors certain products and advertisements relating to them. Publishers might receive information about other advertisements and products. Additionally, NetGalley LLC may share Anonymous Information in ways that it deems appropriate or necessary such as sharing demographic information with advertisers or business partners.
+NetGalley LLC may also gather certain information that does not identify you personally ("Anonymous Information"). NetGalley LLC may, for example, automatically collect your IP address, browser information, and site-domain name every time you visit this Website. NetGalley LLC may also collect record and collect data regarding customer-traffic patterns and Website usage. NetGalley LLC uses Anonymous Information to edit and personalize the Website and for other purposes. For example, to make the Website more relevant to users, NetGalley LLC might show to authors certain products and advertisements relating to them. Publishers might receive information about other advertisements and products. Additionally, NetGalley LLC may share Anonymous Information in ways that it deems appropriate or necessary such as sharing demographic information with advertisers or business partners.
 
 **Use of Cookies and Spyware**
 
@@ -38,7 +40,7 @@ NetGalley LLC may disclose Personally Identifiable Information if required to do
 
 **Children**
 
-This Website is not intended for children. If you are under eighteen years of age, please exit this Website immediately. 
+This Website is not intended for children. If you are under eighteen years of age, please exit this Website immediately.
 
 **Security**
 
@@ -64,8 +66,10 @@ NetGalley LLC may change ownership or corporate organization while providing thi
 
 **Opting Out**
 
-You may always opt out of receiving marketing or promotional information from NetGalley LLC as contemplated under this policy by sending an email to [info@netgalley.com](mailto:info@netgalley.com). You can also change or update the information you have provided by contacting NetGalley LLC using the contact information set forth below.
+You may always opt out of receiving marketing or promotional information from NetGalley LLC as contemplated under this policy by sending an email to [info@netgalley.com](mailto:info@netgalley.com?subject=Privacy%20Policy). You can also change or update the information you have provided by contacting NetGalley LLC using the contact information set forth below.
 
 **Questions and Changes to Your Information**
 
-If you have questions regarding this Policy, do not see your concerns addressed here, or would like NetGalley LLC to update or change the information you have provided, please contact: [ info@netgalley.com](mailto:info@netgalley.com).
+If you have questions regarding this Policy, do not see your concerns addressed here, or would like NetGalley LLC to update or change the information you have provided, please contact: [info@netgalley.com](mailto:info@netgalley.com?subject=Privacy%20Policy).
+
+| 
