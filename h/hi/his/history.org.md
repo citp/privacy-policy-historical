@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the history.org privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620055007id_/http%3A//www.history.org/kids/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the history.org privacy policy that was archived on 2009-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091127030846id_/http%3A//www.history.org/kids/privacyPolicy) for the most accurate reproduction.*
 
 # Colonial Williamsburg - Kids - Privacy Policy
 
