@@ -1,7 +1,9 @@
-<!--The following is the downloaded HTML source of the jaguars.com privacy policy that was archived on 2009-05-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090527233041id_/http%3A//www.jaguars.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jaguars.com privacy policy that was archived on 2009-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091127065455id_/http%3A//www.jaguars.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="X-UA-Compatible" content="IE=7">
+
+
     <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
 
     <script type="text/javascript">
@@ -12,25 +14,19 @@
     </script>
 
     <title>
-	jaguars.com &gt; Privacy Policy
-</title><link rel="stylesheet" type="text/css" href="/css/jdc.9.css">
+	jaguars.com
+</title><link rel="stylesheet" type="text/css" href="/css/jdc.16.css">
    
     <script type="text/javascript" src="/js/jquery.js"></script>
 
-    <script type="text/javascript" src="/js/jquery.plugins.2.js"></script>
+    <script type="text/javascript" src="/js/jquery.plugins.4.js"></script>
 
     <script type="text/javascript">
 
-
-
 ord=Math.random()*10000000000000000;
 
-
-
 function nin(q) { q==1 ? $('#ninlist').slideDown(200) : $('#ninlist').slideUp(200); }
-    </script>
-
-    
+    </script>  
       
      
     <!--[if lt IE 7]>
@@ -47,57 +43,67 @@ function nin(q) { q==1 ? $('#ninlist').slideDown(200) : $('#ninlist').slideUp(20
  GA_googleAddSlot("ca-pub-8935072241132945", "RunOfSite_TopRight_238x90");
 
   GA_googleFetchAds();
-  
-  
-  
-  
-  function enable_smooth_scroll() {
-    function filterPath(string) {
-        return string
-                .replace(/^\//,'')
-                .replace(/(index|default).[a-zA-Z]{3,4}$/,'')
-                .replace(/\/$/,'');
-    }
 
-    var locationPath = filterPath(location.pathname);
-    
-    var scrollElement = 'html, body';
-    $('html, body').each(function () {
-        var initScrollTop = $(this).attr('scrollTop');
-        $(this).attr('scrollTop', initScrollTop + 1);
-        if ($(this).attr('scrollTop') == initScrollTop + 1) {
-            scrollElement = this.nodeName.toLowerCase();
-            $(this).attr('scrollTop', initScrollTop);
-            return false;
-        }    
-    });
-    
-    $('a[href*=#]').each(function() {
-        var thisPath = filterPath(this.pathname) || locationPath;
-        if  (   locationPath == thisPath
+
+
+
+      function enable_smooth_scroll() {
+          function filterPath(string) {
+              return string
+                .replace(/^\//, '')
+                .replace(/(index|default).[a-zA-Z]{3,4}$/, '')
+                .replace(/\/$/, '');
+          }
+
+          var locationPath = filterPath(location.pathname);
+
+          var scrollElement = 'html, body';
+          $('html, body').each(function() {
+              var initScrollTop = $(this).attr('scrollTop');
+              $(this).attr('scrollTop', initScrollTop + 1);
+              if ($(this).attr('scrollTop') == initScrollTop + 1) {
+                  scrollElement = this.nodeName.toLowerCase();
+                  $(this).attr('scrollTop', initScrollTop);
+                  return false;
+              }
+          });
+
+          $('a[href*=#]').each(function() {
+              var thisPath = filterPath(this.pathname) || locationPath;
+              if (locationPath == thisPath
                 && (location.hostname == this.hostname || !this.hostname)
                 && this.hash.replace(/#/, '')
             ) {
-                if ($(this.hash).length) {
-                    $(this).click(function(event) {
-                        var targetOffset = $(this.hash).offset().top;
-                        var target = this.hash;
-                        event.preventDefault();
-                        $(scrollElement).animate(
-                            {scrollTop: targetOffset},
+                  if ($(this.hash).length) {
+                      $(this).click(function(event) {
+                          var targetOffset = $(this.hash).offset().top;
+                          var target = this.hash;
+                          event.preventDefault();
+                          $(scrollElement).animate(
+                            { scrollTop: targetOffset },
                             500,
                             function() {
                                 location.hash = target;
-                        });
-                    });
-                }
-        }
-    });
-}
+                            });
+                      });
+                  }
+              }
+          });
+      };
 
 
 
+      $(document).ready(function() {
+          $('#nav').superfish({
+              animation:   {height:'show'},  
+              speed: '500'
+      });
+  });
     </script>
+    <script type="text/javascript" src="/js/superfish.js"></script>
+<script type="text/javascript" src="/javascript/thickbox.js"></script>
+
+<style type="text/css" media="all">@import "/styles/thickbox.css";</style>
 
 </head>
 <body>
@@ -112,7 +118,7 @@ function nin(q) { q==1 ? $('#ninlist').slideDown(200) : $('#ninlist').slideUp(20
                 <script language="JavaScript" type="text/javascript">
 document.write('<iframe src="http://ad.doubleclick.net/adi/nfl.clubsites/jac/other;s1=jac;s2=other;slot=;nfl=ad;!category=;kw=;test=;tile=1;dcopt=ist;sz=728x90;ord=' + ord + '?" width="728" height="90" marginwidth="0" marginheight="0" frameborder="0" scrolling="no">');
 document.write('</iframe>');
-                </script><iframe src="http://ad.doubleclick.net/adi/nfl.clubsites/jac/other;s1=jac;s2=other;slot=;nfl=ad;!category=;kw=;test=;tile=1;dcopt=ist;sz=728x90;ord=3134146902923096?" width="728" height="90" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe>
+                </script><iframe src="http://ad.doubleclick.net/adi/nfl.clubsites/jac/other;s1=jac;s2=other;slot=;nfl=ad;!category=;kw=;test=;tile=1;dcopt=ist;sz=728x90;ord=4730040710464554?" width="728" height="90" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe>
 
                 <noscript>
                     <a href="http://ad.doubleclick.net/jump/nfl.clubsites/jac/other;s1=jac;s2=other;slot=;nfl=ad;!category=;kw=;test=;tile=1;sz=728x90;ord=123456789?"
@@ -130,6 +136,7 @@ document.write('</iframe>');
         <div id="nav-area">
             <a style="position: absolute; width: 100px; height: 110px;" href="/default.aspx" title="Home"></a>
             <div style="width: 975px; height: 66px;">
+            
                 <div style="width: 975px; padding-top: 15px; overflow: hidden;">
                     <div class="ninbut isup" onclick="nin(1);">
                     </div>
@@ -203,122 +210,130 @@ document.write('</iframe>');
             <div style="padding-left: 96px;">
                 
 <ul id="nav"> 
-   <li id="nav-news"><a class="nt" href="/News/Default.aspx"><em></em>News</a>
-	<ul>
-        <li><a href="/News/Default.aspx">News Archive</a></li>
-		<li><a href="http://forum.jaguars.com/index.php?autocom=blog&amp;blogid=2&amp;">Blog: Inside the Numbers</a></li>
-	<li><a href="http://forum.jaguars.com/index.php?autocom=blog&amp;blogid=5&amp;">Blog: In the Community</a></li>
-	<li><a href="/News/MediaGuide.aspx">2008 Media Guide</a></li>
-	<li><a href="/News/vicsvalueboard.aspx">Vic's Value Board</a></li>
-
-        </ul>
-   </li> 
+	<li id="nav-news"><a class="nt" href="/News/Default.aspx"><em></em>News</a>
+		<ul>
+			<li><a href="/News/Default.aspx">News Archive</a></li>
+			<li><a href="/News/injuryreport.aspx">Injury Report</a></li>
+			<li><a href="http://forum.jaguars.com/index.php?autocom=blog&amp;blogid=7">Ryan's notebook</a></li>
+			<li><a href="http://forum.jaguars.com/index.php?autocom=blog&amp;blogid=8">Mike Ryan's blog</a></li>
+			<li><a href="http://forum.jaguars.com/index.php?autocom=blog&amp;blogid=10">Inside the Business</a></li>
+			<li><a href="/News/MediaGuide.aspx">Media Guide</a></li>
+			<li><a href="/News/rss.aspx">RSS</a></li>
+  		 </ul>
+	</li> 
    
-   <li><a id="nav-team" class="nt" href="/Team/Roster.aspx"><em></em>Team</a>
-	<ul>
-	<li><a href="/team/roster.aspx">Roster</a></li>
-	<li><a href="/team/coaches.aspx">Coaches</a></li>
-	<li><a href="/team/footballstaff.aspx">Football Staff</a></li>
-	<li><a href="/team/scouts.aspx">Scouts</a></li>
-	<li><a href="/team/management.aspx">Management</a></li>
-	<li><a target="_blank" href="http://www.nfl.com/teams/jacksonvillejaguars/statistics?team=JAC">Season Stats</a></li>
-	</ul>
-   </li> 
+	<li><a id="nav-team" class="nt" href="/Team/Roster.aspx"><em></em>Team</a>
+		<ul>
+			<li><a href="/team/roster.aspx">Roster</a></li>
+			<li><a href="/team/coaches.aspx">Coaches</a></li>
+			<li><a href="/team/footballstaff.aspx">Football Staff</a></li>
+			<li><a href="/team/scouts.aspx">Scouts</a></li>
+			<li><a href="/team/management.aspx">Management</a></li>
+			<li><a href="/team/depthchart.aspx">Depth Chart</a></li>
+			<li><a target="_blank" href="http://www.nfl.com/teams/jacksonvillejaguars/statistics?team=JAC">Season Stats</a></li>
+		</ul>
+	</li> 
 
-   <li id="nav-cheer"><a class="nt" href="/Cheerleaders/Default.aspx"><em></em>Cheerleaders</a>
-	<ul>
-	<li><a href="/cheerleaders/news.aspx">ROAR News</a></li>
-	<li><a href="http://forum.jaguars.com/index.php?autocom=gallery&amp;req=sc&amp;cat=4">Photo Gallery</a></li>
-	<li><a href="/cheerleaders/calendar.aspx">2008-2009 Swimsuit Calendar</a></li>
-	<li><a href="/cheerleaders/roster.aspx">Roster</a></li>
-	<li><a href="/cheerleaders/appearancerequestform.aspx">Appearances</a></li>
-	<li><a href="/cheerleaders/juniorroar.aspx">Junior ROAR</a></li>
-	<li><a href="/cheerleaders/auditions.aspx">Auditions</a></li>
-	</ul>
-   </li> 
+	<li id="nav-cheer"><a class="nt" href="/Cheerleaders/Default.aspx"><em></em>Cheerleaders</a>
+		<ul>
+			<li><a href="http://forum.jaguars.com/index.php?autocom=blog&amp;blogid=9&amp;">ROAR News</a></li>
+			<li><a href="/cheerleaders/appearancerequestform.aspx">Appearances</a></li>
+			<li><a href="/cheerleaders/auditions.aspx">Auditions</a></li>
+			<li><a href="/cheerleaders/calendar.aspx">Calendar</a></li>
+			<li><a href="/cheerleaders/juniorroar.aspx">Junior ROAR</a></li>
+			<li><a href="http://forum.jaguars.com/index.php?autocom=gallery&amp;req=sc&amp;cat=4">Photo Gallery</a></li>
+			<li><a href="/cheerleaders/roster.aspx">Roster</a></li>
+		</ul>
+	</li> 
 
-   <li id="nav-gameday"><em onclick="location='/gameday/2009schedule.aspx'"></em><a class="nt" href="/Gameday/2009Schedule.aspx">Gameday</a> 
-	<ul>
-	<li><a href="/gameday/2009Schedule.aspx">2009 Schedule</a></li>
-	<li><a href="/gameday/DownloadSchedule.aspx">Download Schedule</a></li>
-	<li><a href="/gameday/2008Schedule.aspx">2008 Schedule</a></li>
-	<li><a href="/gameday/HistoricalResults.aspx">Past Schedules/Results</a></li>
-	<li><a href="/myexperience/">My Experience</a></li>
-	</ul>
+	<li id="nav-gameday"><em onclick="location='/gameday/2009schedule.aspx'"></em><a class="nt" href="/Gameday/2009Schedule.aspx">Gameday</a> 
+		<ul>
+			<li><a href="/gameday/2009Schedule.aspx">2009 Schedule</a></li>
+			<li><a href="/gameday/2008Schedule.aspx">2008 Schedule</a></li>    
+			<li><a href="/gameday/DownloadSchedule.aspx">Download Schedule</a></li>
+			<li><a href="/gameday/HistoricalResults.aspx">Past Schedules/Results</a></li>
+			<li><a href="/myexperience/">My Experience</a></li>
+		</ul>
    </li>
 
-   <li id="nav-multimedia"><a class="nt" href="/Multimedia/"><em></em>Multimedia</a>
-	<ul>
-	<li><a href="/Multimedia/">Recent Videos</a></li>
-	<li><a href="/Multimedia/#radio">Radio Show Archives</a></li>
-	<li><a href="http://forum.jaguars.com/index.php?autocom=gallery">Photo Galleries</a></li>
-	</ul>
+	<li id="nav-multimedia"><a class="nt" href="/Multimedia/"><em></em>Multimedia</a>
+		<ul>
+			<li><a href="/Multimedia/">Videos</a></li>
+			<li><a href="http://forum.jaguars.com/index.php?autocom=gallery">Photos</a></li>
+			<li><a href="/Multimedia/radioshows.aspx">Radio Shows</a></li>
+		</ul>
    </li> 
 
-   <li id="nav-stadium"><a class="nt" href="/Stadium/Default.aspx"><em></em>Stadium</a>
-	<ul>
-	<li><a href="/stadium/directions.aspx">Directions &amp; Parking</a></li>
-	<li><a href="/stadium/history.aspx">Stadium History</a></li>
-	<li><a href="/stadium/gamedayfaqs.aspx">Gameday FAQs</a></li>
-	<li><a href="http://www.homefieldevents.com" target="_blank">Host your event</a></li>
-	<li><a href="/stadium/stadiumtours.aspx">Stadium Tours</a></li>
-	</ul>
-   </li> 
+	<li id="nav-stadium"><a class="nt" href="/Stadium/Default.aspx"><em></em>Stadium</a>
+		<ul>
+			<li><a href="/stadium/directions.aspx">Directions</a></li>
+			<li><a href="/stadium/parkingmap.aspx">Parking Map</a></li>
+			<li><a href="/stadium/history.aspx">Stadium History</a></li>
+			<li><a href="/stadium/gamedayfaqs.aspx">Gameday FAQs</a></li>
+			<li><a href="http://www.homefieldevents.com" target="_blank">Host your event</a></li>
+			<li><a href="/stadium/stadiumtours.aspx">Stadium Tours</a></li>
+		</ul>
+	</li> 
 
-   <li id="nav-tickets"><a class="nt" href="/Tickets/Default.aspx"><em></em>Tickets</a>
-	<ul>
-	<li><a href="/tickets/seasontickets.aspx">Season Tickets</a></li>
-	<li><a href="/tickets/touchdownclub.aspx">Touchdown Club</a></li>
-	<li><a href="/tickets/halfpack.aspx">Half Packs</a></li>
-	<li><a href="/tickets/grouptickets.aspx">Group Tickets</a></li>
-	<li><a href="/tickets/tailgatecabanas.aspx">Jaguars Cabanas at Pepsi Plaza</a></li>
-	<li><a href="/tickets/terracesuite.aspx">MPS Group Terrace Suite</a></li>
-	<li><a href="/tickets/luxurysuites.aspx">Luxury Suites</a></li>
-	<li><a href="/tickets/map.aspx">2009 Ticket Map</a></li>
-	<li><a href="/tickets/military.aspx">Military Tickets</a></li>
-	<li><a href="/rewards/">Jaguars Rewards</a></li>
-	<li><a href="/tickets/fanservices.aspx">Fan Services</a></li>
-	<li><a href="/myaccount/">My Jaguars Account</a></li>
-<!--	<li><a href="/tickets/singlegametickets.aspx">Single Game Tickets</a></li>
-	<li><a href="/tickets/te_redir.aspx">Jaguars TicketExchange: Buy and sell tickets</a></li>-->
-	<li><a href="http://www.jaguars.digbro.com" target="_blank">2009 E-brochure</a></li>
-	<li><a href="http://www.seats3d.com/nfl/jacksonville_jaguars_2008/" target="_blank">3D Seat Views</a></li>
+	<li id="nav-tickets"><a class="nt" href="/Tickets/Default.aspx"><em></em>Tickets</a>
+		<ul>
+			<li><a href="/tickets/seasontickets.aspx">Season Tickets</a></li>
+			<li><a href="/tickets/singlegametickets.aspx">Single Game Tickets</a></li>
+			<li><a href="/tickets/touchdownclub.aspx">Touchdown Club</a></li>
+			<li><a href="/tickets/flexpack.aspx">Flex Packs</a></li>
+			<li><a href="/tickets/grouptickets.aspx">Group Tickets</a></li>
+			<li><a href="/tickets/tailgatecabanas.aspx">Jaguars Cabanas at Pepsi Plaza</a></li>
+			<li><a href="/tickets/terracesuite.aspx">MPS Group Terrace Suite</a></li>
+			<li><a href="/tickets/luxurysuites.aspx">Luxury Suites</a></li>
+			<li><a href="/tickets/map.aspx">2009 Ticket Map</a></li>
+			<li><a href="/tickets/military.aspx">Military Tickets</a></li>
+			<li><a href="/rewards/">Jaguars Rewards</a></li>
+			<li><a href="/tickets/fanservices.aspx">Fan Services</a></li>
+			<li><a href="/myaccount/">My Jaguars Account</a></li>
+			<li><a href="/tickets/elayaway.aspx">eLayaway</a></li>
+			<li><a href="http://www.seats3d.com/nfl/jacksonville_jaguars_2009/" target="_blank">3D Seat Views</a></li>
+			<!--<li><a href="/tickets/singlegametickets.aspx">Single Game Tickets</a></li>-->
+			<li><a target="_blank" href="https://teamexchange.ticketmaster.com/html/eventlist.htmI?l=EN&amp;team=jaguars&amp;intcmp=tm101034&amp;wt.mc_id=NFL_TEAM_JAC_TIX_DRP_DWN_MENU">Jaguars TicketExchange: Buy and sell tickets</a></li>
+			<!--<li><a href="http://www.jaguars.digbro.com" target="_blank">2009 E-brochure</a></li>
+-->
 	
-	</ul>
-   </li>
+		</ul>
+	</li>
 
-   <li id="nav-fz"><a class="nt" href="/Fanzone/Default.aspx"><em></em>Fanzone</a>
-	<ul>
-	<li><a href="http://mb.jaguars.com">Message Board</a></li>
-	<!--<li><a href="/Fanzone/BackyardTailgate.aspx">Winn-Dixie Backyard Tailgate</a></li>-->
-	<li><a href="/jaxsondeville/">Jaxson de Ville</a></li>
-	<li><a href="/fanzone/downloads.aspx">Downloads</a></li>
-	<li><a href="/d-line/">D-Line</a></li>
-	<li><a href="/fanzone/gotskillsrookieday.aspx">2009 Got Skills Rookie Day</a></li>
-	<li><a href="/champions/">Champions Club</a></li>
-<!--	<li><a href="/fanzone/contests.aspx">Contests</a></li>
-	<li><a href="/fanzone/scoreboardmessagerequestform.aspx">Scoreboard Messages</a></li>-->
-	<li><a href="/fanzone/radioshows.aspx">Radio Programming</a></li>
-	</ul>
-   </li> 
-   <li id="nav-community"><a class="nt" href="/Community/Default.aspx"><em></em>Community</a>
-	<ul>
-	<li><a href="/community/communitynews.aspx">Community News</a></li>
-	<li><a href="/community/donationrequest.aspx">Donation Request</a></li>
-	<li><a href="/community/appearancerequest.aspx">Appearance Request</a></li>
-	<li><a href="/community/programs.aspx">Programs</a></li>
-	<li><a href="/community/ambassadors.aspx">Jaguars Ambassadors</a></li>
-	</ul>
-   </li> 
+	<li id="nav-fz"><a class="nt" href="/Fanzone/Default.aspx"><em></em>Fanzone</a>
+		<ul>
+			<li><a href="http://forum.jaguars.com">Message Board</a></li>
+			<li><a href="/Fanzone/BackyardTailgate.aspx">WD Tailgater of the Game</a></li>
+			<li><a href="/jaxsondeville/">Jaxson de Ville</a></li>
+			<li><a href="/fanzone/downloads.aspx">Downloads</a></li>
+			<li><a href="/d-line/">D-Line</a></li>
+			<li><a href="/fanzone/gotskillsrookieday.aspx">2009 Got Skills Rookie Day</a></li>
+			<li><a href="/champions/">Champions Club</a></li>
+			<li><a href="/fanzone/scoreboardmessagerequestform.aspx">Scoreboard Messages</a></li>
+			<li><a href="/fanzone/contests.aspx">Contests</a></li>
+			<li><a href="http://jaguarssearch.swagbucks.com" target="_blank">Search and Win!</a></li>
+		</ul>
+	</li> 
+	
+	<li id="nav-community"><a class="nt" href="/Community/Default.aspx"><em></em>Community</a>
+		<ul>
+			<li><a href="/community/appearancerequest.aspx">Appearance Request</a></li>
+			<li><a href="/community/donationrequest.aspx">Donation Request</a></li>
+  		 	<li><a href="/community/ambassadors.aspx">Jaguars Ambassadors</a></li>
+			<li><a href="http://forum.jaguars.com/index.php?autocom=gallery&amp;req=sc&amp;cat=5">Photo Gallery</a></li>
+			<li><a href="/community/programs.aspx">Programs</a></li>
+			<li><a href="/community/wachoviaoneonone.aspx">Wachovia One on One</a></li>
+		</ul>
+	</li> 
 
-   <li id="nav-fndn"><a class="nt" href="/Foundation/Default.aspx"><em></em>Foundation</a>
-	<ul>
-	<li><a href="/foundation/honorrows.aspx">Honor Rows</a></li>
-	<li><a href="/foundation/straighttalk.aspx">Straight Talk</a></li>
-	<li><a href="http://www.playbooks.org" target="_blank">Playbooks</a></li>
-	<li><a href="/foundation/grantmaking.aspx">Grantmaking</a></li>
-	<li><a href="/foundation/communityscholars.aspx">Community Scholars</a></li>
-	</ul>
+	<li id="nav-fndn"><a class="nt" href="/Foundation/Default.aspx"><em></em>Foundation</a>
+		<ul>
+			<li><a href="/foundation/honorrows.aspx">Honor Rows</a></li>
+			<li><a href="/foundation/straighttalk.aspx">Straight Talk</a></li>
+			<li><a href="http://www.playbooks.org" target="_blank">Playbooks</a></li>
+			<li><a href="/foundation/grantmaking.aspx">Grantmaking</a></li>
+			<li><a href="/foundation/communityscholars.aspx">Community Scholars</a></li>
+		</ul>
    </li> 
 
    <li id="nav-shop"><a class="nt" href="http://jaguars.teamfanshop.com"><em></em>Shop</a>
@@ -331,18 +346,25 @@ document.write('</iframe>');
             </div>
         </div>
     <div id="bottom-area">
+        
+        
         <div id="breadcrumbarea">
             <div class="breadcrumb">
 	    	<div class="sectionheading">
-	<h1>
-                
-                </h1>
-                
-                <span><a href="#ctl00_ctl05_SkipLink"><img alt="Skip Navigation Links" height="0" width="0" src="/WebResource.axd?d=OXF4Owj97Z7PBRbwFb-WAQ2&amp;t=633527641112930887" border="0"></a><a id="ctl00_ctl05_SkipLink"></a></span>
-		
-	</div>
+	            <div id="sechead-lt">
+	                <h1></h1>
+                    <div style="float:left">
+                         
+                        <span id="ctl00_smp"><a href="#ctl00_smp_SkipLink"><img alt="Skip Navigation Links" height="0" width="0" src="/WebResource.axd?d=OXF4Owj97Z7PBRbwFb-WAQ2&amp;t=633834051317626702" border="0"></a><a id="ctl00_smp_SkipLink"></a></span>
+                    </div>
+                </div>
+		        <div id="sechead-rt">
+		            
+            	</div>
+            </div>
 	<br><br><div>
                 </div>
+                
             </div>
             <div id="leftcontentarea">
                 
@@ -857,40 +879,99 @@ text-align: left
         <a href="/Gameday/">Schedule</a>
         <a href="http://forum.jaguars.com/">Message Board</a>-->
     </div>
+    <br>
+
     
+
+<div id="footer">
+<div id="footer-top">
+	<div id="footer-topleft" onclick="document.location='/default.aspx'"><noscript><a href="/default.aspx"></a></noscript>
+    </div><!-- /footer-topleft -->
+    <div id="footer-topright">
+    	<div class="footer-section" id="footer-section-left"><h1><a href="/team">TEAM</a></h1>
+				<ul>
+                	<li><a href="/team/roster.aspx">Roster</a></li>
+                    <li><a href="/team/coaches.aspx">Coaches</a></li>
+                    <li><a href="/team/management.aspx">Management</a></li>
+                    <li><a href="/team/scouts.aspx">Scouts</a></li>
+                    <li><a href="/team/depthchart.aspx">Depth Chart</a></li>
+				</ul>
+		</div>
+    	<div class="footer-section"><h1><a href="/gameday">GAMEDAY</a></h1>
+				<ul>
+                	<li><a href="/gameday/2009Schedule.aspx">2009 Schedule</a></li>
+                	<li><a href="/gameday/HistoricalResults.aspx">Previous Schedules</a></li>
+                	<li><a href="/stadium/directions.aspx">Directions &amp; Parking</a></li>
+                	<li><a href="/stadium/history.aspx">Stadium History</a></li>
+                	<li><a href="/stadium/gamedayfaqs.aspx">Gameday FAQs</a></li>
+				</ul>
+		</div>
+    	<div class="footer-section"><h1><a href="/cheerleaders">ROAR</a></h1>
+				<ul>
+                	<li><a href="http://forum.jaguars.com/index.php?autocom=blog&amp;blogid=9&amp;">ROAR News</a></li>
+                	<li><a href="http://forum.jaguars.com/index.php?autocom=gallery&amp;req=sc&amp;cat=4">Photo Gallery</a></li>
+                	<li><a href="/cheerleaders/appearancerequestform.aspx">Appearances</a></li>
+                	<li><a href="/cheerleaders/juniorroar.aspx">Junior ROAR</a></li>
+                	<li><a href="/cheerleaders/auditions.aspx">Auditions</a></li>
+				</ul>
+		</div>
+    	<div class="footer-section"><h1><a href="/tickets">TICKETS</a></h1>
+				<ul>
+                	<li><a href="/tickets/singlegametickets.aspx">Single Game Tickets</a></li>
+                	<li><a href="/tickets/myaccount.aspx">My Account</a></li>
+                	<li><a href="/tickets/ticketexchange.aspx">TicketExchange</a></li>
+                	<li><a href="/tickets/fanservices.aspx">Fan Services</a></li>
+                	<li><a href="http://rewards.jaguars.com">Jaguars Rewards</a></li>
+				</ul>
+		</div>
+    	<div class="footer-section"><h1><a href="/fanzone">FANZONE</a></h1>
+				<ul>
+                	<li><a href="http://forum.jaguars.com">Message Board</a></li>
+                	<li><a href="/jaxsondeville/">Jaxson de Ville</a></li>
+                	<li><a href="/d-line">D-Line</a></li>
+                	<li><a href="/fanzone/contests.aspx">Contests</a></li>
+                	<li><a href="/fanzone/downloads.aspx">Downloads</a></li>
+				</ul>
+		</div>
+    	<div class="footer-section" id="footer-section-right"><h1>COMPANY</h1>
+				<ul>
+                	<li><a href="/pr">Press</a></li>
+                	<li><a href="/privacy">Privacy Policy</a></li>
+                	<li><a href="/jobs">Job Opportunities</a></li>
+                	<li><a href="/tickets/fanservices.aspx">Fan Feedback</a></li>
+                	<li><a href="/tickets/contactform.aspx">Contact Us</a></li>
+				</ul>
+		</div>
+        <br clear="all">
+    </div><!-- /footer-topright -->
+    </div><!-- /footer-top -->
     <div id="footer-bottom">
-        <div id="f1">
-            
-            
-            <a href="mailto:ticketing@jaguars.com">ticketing@jaguars.com</a><br>
-             904-633-2000 or 1-877-4-JAGS-TIX
-             
-            
-        </div>
-        <div id="f2">
+        <div id="footer-logos">
             <a href="/foundation" id="btm-fndn">Jaguars Foundation</a>
             <a href="http://www.cbs47.com" id="btm-cbs">WTEV-TV 47 Jacksonville</a>
             <a id="btm-qea">Quality Education for All</a>
-            <a href="http://www.strictlyfx.com" id="btm-sfx">Strictly FX: The official pyrotechnics provider of the Jacksonville Jaguars.</a>
-        </div>
-        
-        
-
-
+        </div><!-- /footer-logos -->
+        <div id="footer-copyright">
+        	© 2009 Jacksonville Jaguars, LTD. All Rights Reserved.<br>
+Jacksonville Jaguars, One Stadium Place, Jacksonville, FL 32202
+        </div><!-- /footer-copyright -->
+        <div id="footer-connect"><a href="/connect"><img src="/images/footer/connect.png" alt="Connect with us"></a>&nbsp;&nbsp;
+        <a href="http://www.facebook.com/jacksonvillejaguars"><img src="/images/footer/facebook.png" alt="Become a fan on facebook" class="footer-icons"></a>
+        <a href="http://www.twitter.com/jaguarsinsider"><img src="/images/footer/twitter.png" alt="Follow us on twitter" class="footer-icons"></a>
+        <a href="/news/rss.aspx"><img src="/images/footer/rss.png" alt="RSS Feeds" class="footer-icons"></a>
+        <a href="/connect"><img src="/images/footer/sms.png" alt="SMS Alerts" class="footer-icons"></a>
+        </div><!-- /footer-connect -->
+    </div><!-- footer-bottom -->
+</div><!-- /footer -->
+    
+    
+   
     
     </div>
-    <div id="addr"><a href="/privacy">Privacy Policy</a> | <a href="/pr">Media Site</a>  | <a href="/tickets/fanservices.aspx">Contact</a><br>
-
-Copyright © 2009 Jacksonville Jaguars and the NFL. All Rights Reserved. Jacksonville Jaguars, One Stadium Place, Jacksonville, Florida 32202
-        </div>
     
-    
-    
-    <br><br>
-    
-    
-    </div>
-    
+    <!-- Advertiser 'AR-SKIN-KEY:ad_ready',  Include user in segment 'Jacksonville Jaguars RT' - DO NOT MODIFY THIS PIXEL IN ANY WAY -->
+<img src="http://ad.yieldmanager.com/pixel?id=552461&amp;t=2" width="1" height="1">
+<!-- End of segment tag -->
     </form>
 
     <script type="text/javascript">
