@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axway.com privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526211046id_/http%3A//www.axway.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axway.com privacy policy that was archived on 2009-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091128003347id_/http%3A//www.axway.com/company/privacy.php) for the most accurate reproduction.*
 
 # Axway.com | Privacy Policy
 
@@ -83,6 +83,6 @@ Fax: +1 480 627 1801
 U.S. Mail:  
 Axway Inc.  
 Attn: Webmaster  
-8388 E. Hartford Drive  
-Scottsdale, AZ 85255  
+6811 E. Mayo Blvd., Suite 400  
+Phoenix, AZ 85054  
 USA
