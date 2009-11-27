@@ -1,0 +1,68 @@
+> *The following text is extracted and transformed from the tjoos.com.au privacy policy that was archived on 2009-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091127155534id_/http%3A//www.tjoos.com.au/Page-Content/14/Privacy-Policy) for the most accurate reproduction.*
+
+# Privacy Policy - Tjoos
+
+### Our Commitment to Privacy
+
+Our Privacy Policy (this “Policy”) was developed as part of our commitment to combine quality coupons for products and services with integrity in dealing with our users. The Policy describes how personal information is collected from users of the Tjoos website at http://www.tjoos.com (the "Site") operated by Tjoos Pty Ltd and how that information is used and disclosed. Please read this Policy carefully before providing any personal information on the Site.
+
+### What Information Do We Collect?
+
+We collect "personal information" about users of the Site in the normal course of our business. As used in this Policy, "personal information" is information that identifies or is capable of being associated with an identifiable person. Some examples of personal information include a user's name, photograph, address, and email address. Personal information does not include aggregate information or de-identified information. "Aggregate or Passive information" is information about the use of the Site, such as information collected about Site users, or a category of services or users, from which any personal information has been removed. An example of aggregate information would be the date and time of visits, the site pages viewed, time spent at our site, the sites visited just before and just after our site. Most of the personal information we receive comes directly from users who register on the Site or who otherwise voluntarily provide information to us in connection with various activities on the Site. The information we request at registration includes, without limitation, name, e-mail address and photograph. We may also collect other types of information during registration or in connection with your other activities on the Site, such as demographic information (including, without limitation, your age, occupation, and income) and information about or contained in any other interactive areas of the Site, your answers to surveys, your participation in sweepstakes, contests, games and promotional offers; and in any email request you send us for any reason. Also, we request your email address when you submit content on the site, and may use it according to the settings you select.
+
+### How Do We Use Cookies and Other Similar Technologies?
+
+We may use cookies to identify Site users and to customize their experiences on the Site. Unless you provide your email address to us, our cookies contain no personally identifiable information about you. If you have provided your email address to us, however, our cookies may be used to identify you. A "cookie" is a small text file that contains a string of letters, numbers and characters. Internet browsers store "persistent cookies" in a folder on your computer where they remain until the cookies expire or you delete them. The cookies placed by advertisers and other third parties are used to keep track of the web searches you make while visiting this website, as well as your web surfing behavior on this website and other websites you may visit. We use cookies to help us understand how visitors use (and to help us to improve) the Site. You may refuse to accept cookies from us by following the procedures specific to your Web browser. If you do so, we can not guarantee that you will be able to use all the services provided by the Site.
+
+Additionally, we may use, and may allow third parties to use, Web beacons on the Site to monitor the effectiveness of advertising or for other legitimate purposes. Web beacons, also known as "Web bugs," are small, graphic images on Web pages or Web-based documents or in email messages that allow us or third parties to monitor who is visiting the Site. Web beacons collect the IP address of the computer that the Web beacon is sent to, the URL of the page the Web beacon comes from and the time it was viewed. Web beacons may be linked to your personal information.
+
+### How Do We Use the Information We Collect?
+
+We use the information we collect to:
+
+  * contact you for administrative purposes or provide you with customer service;
+  * complete transactions requested by you;
+  * respond to any questions, problems or complaints, or request feedback;
+  * organize the Site to better serve you and customize or develop our products and services; and
+  * send you emails containing information about products and services that you might find of interest.
+
+
+
+Personal information provided on our Site may be linked together or merged with other personal information we obtain about you so that we may better understand your needs and inform you about our products or services and those of our business partners.
+
+### Disclosure of Information
+
+We do not rent, sell or disclose personal information to third parties without your prior consent, except as described in this privacy policy. We may share personal information when we have your consent to do so, when required by law, when required to protect our rights or property, as necessary to complete a transaction you have requested, or for marketing purposes. We reserve the right to use and disclose any non-personal information that we collect. We may use third party service providers to assist us with the administration of the Site or to perform other services for us, including transaction processing and sending email. These third parties may be given or may have access to your personal information, but agree to receive and use such information solely to provide services to us or on our behalf.
+
+If you provide us with personal information through a Third Party Site, we may share such information with such Third Party Site for their internal business purposes and we generally require such Third Party Sites to comply with this Policy. In addition, we may also share personal information with third parties for such third parties' (or other third parties') marketing purposes; however, we provide you with the choice of opting-out of such disclosures (please see "Choice and Access" below).
+
+We may use third parties, called third-party ad servers or network advertisers, to deliver ads to you on our behalf. These third-party ad servers may use cookies, web beacons or other technology to collect non-personally identifiable information about your visits to our Site in order to use it to present advertisements that may be of interest to you.
+
+Information about our users, the Site and the Review Service is a business asset of Tjoos. Therefore, information about our users, including personal information, will be disclosed as part of any (a) merger or acquisition, (b) creation of a separate business to provide the Site, or to provide other services or fulfill products; debt financing, sale or pledge of company assets, or (d) insolvency, bankruptcy or receivership in which personal information would be transferred as one of Tjoos's business assets.
+
+We may release personal information when we believe release is appropriate to comply with the law (e.g., a lawful subpoena, warrant or court order); to enforce or apply our policies or any other agreement with a user; to initiate, render, bill, and collect for amounts owed to us; to protect our rights or property; to protect our users from fraudulent, abusive, or unlawful use of our Site or its services; to enforce contest, sweepstakes, promotions, or game rules; or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of records without delay.
+
+### Choice and Access
+
+We provide our users with the ability to "opt-in" to receiving certain communications from us or having their information disclosed to third parties by indicating their preferences at the time of registration. If you wish to later wishes to change these preferences or access, change or delete your personal information, you can send an email to info@tjoos.com or click on the “unsubscribe” link for email communications. Please note that opting out of receiving communications from us will not prevent you from receiving administrative communications, such as those concerning the operation of the Site.
+
+### Children
+
+Tjoos uses reasonable efforts not to collect, use or disclose individually identifiable information from children under the age of 13. The Site is not designed to target children. If you are under 13 years old, you should not register with or otherwise provide personal information to our Site.
+
+### Information Security
+
+We use reasonable security measures in an effort to prevent loss, misuse and alteration of information under our control. We cannot, however, guarantee protection of all information against interception, misappropriation, misuse, or alteration, or that your information may be not be disclosed or accessed by accidental circumstances or by the unauthorized acts of others. Furthermore, the security of communications you may have with us via email or U.S. Mail may not be secure. Therefore, if you choose to communicate with us through these means, you are assuming the risk of doing so and we request that you do not send or post sensitive information through these means. We also have no control over the security other sites you might visit, interact with or do business with.
+
+### Policy Changes
+
+We will modify this Policy if our privacy practices materially change in the future. We will notify you of such changes only by posting the new policy on our Site. We encourage you to review the Policy each time you visit our Site to see if it has been updated since your last visit to make sure you understand how personal information you provide will be used.
+
+### Additional Questions or Information?
+
+If you have any questions about this Policy, or the practices of or your dealings with the Site, please contact us at the following address or email us at info@tjoos.com:
+
+Tjoos  
+12/19 Pittwater Rd.  
+Manly 2095 NSW  
+Australia 
