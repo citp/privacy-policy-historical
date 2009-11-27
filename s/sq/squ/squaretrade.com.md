@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the squaretrade.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420154800id_/http%3A//www.squaretrade.com/pages/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squaretrade.com privacy policy that was archived on 2009-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091127063414id_/http%3A//www.squaretrade.com/pages/privacypolicy) for the most accurate reproduction.*
 
-# SquareTrade - Great Warranties Deals on Laptops, TVs, iPods & More | SquareTrade
+# SquareTrade | Privacy Policy | SquareTrade Warranties
 
 **1\. Purpose of Privacy Policy**
 
