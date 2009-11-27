@@ -1,33 +1,30 @@
-> *The following text is extracted and transformed from the canadiancontent.net privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011055800id_/http%3A//www.canadiancontent.net/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadiancontent.net privacy policy that was archived on 2009-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091127130842id_/http%3A//www.canadiancontent.net/corp/privacy.php) for the most accurate reproduction.*
 
-# Canadian Content Privacy Policy
+# Privacy Policy
 
-|   |   
----|---  
-  
-## Our commitment
+Privacy Policy 
 
-We created this privacy policy as a way to confirm our commitment to your privacy. Canadian Content has a long history, and along with that, a strong record of ensuring our members do not receive any commercial emails. As described below, we outline the steps we take and the promise we make that your information will never be released to any third parties. **Please use this privacy policy as a guarantee of our commitment to you**. 
+**Our commitment**
 
-## **Information Automatically Logged**
+     We created this privacy policy to ensure that any information obtained from our users is kept 100% confidential. We have never released any information to outside companies and never plan to. We have strong values against SPAMMERS (see Commentary about SPAM). Any users using our forum can be assured that their email address will not be given out to anybody. **Please use this privacy policy as a guarantee of our commitment to you**. 
 
-We use your IP address to help diagnose problems with our server and to administer our Web site, and to help identify you and your shopping cart. Your IP address is also used to gather broad demographic information, and for other purposes. __
+**Your information is logged automatically**
 
-####  Cookies 
+We use your IP address to help diagnose problems with our server and to administer our Web site, and to help identify you and your shopping cart. Your IP address is also used to gather broad demographic information, and for other purposes. 
 
-Our Site uses cookies to keep track of your shopping cart, and to make sure you don't see the same ad repeatedly. We also use cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and for other purposes.
+**Our site uses cookies**
 
-####  Advertisers 
+Our Site uses cookies to keep track of your shopping cart, and to make sure you don't see the same ad repeatedly. We also use cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and for other purposes. 
 
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
+**Advertisers**
 
-####  Personal Information 
+We utilise a third party agency to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies set by ads are collected by our agency, and we do not have access to this information. Our third party advertisers may collect information about your browsing habits based on this web site and other web sites on the Internet. Users may opt out of the cookie program by visiting [privacy policy of our primary advertiser](http://www.google.com/privacy_ads.html). 
 
-This Web site does not request any personal information or collect any information that personally identifies you or allows you to be personally contacted unless stated otherwise.
+**Personal Information**
 
-Since we do not collect any personal information on this Web site, we do not share any personal information with any third parties nor do we use any personal information for any purposes. 
+Some of our services may collect and request personal information. It may include email addresses, your name(s) or surname(s), your age, birthday and other personal information. While we use this information to enhance the services we provide, we do not share any of this information with any third parties. We may, however, compile statistics based on this information from time to time. Email addresses are protected and under no circumstances are they ever shared.
 
-####  External Links 
+**External Links**
 
 This site contains links to other sites. **Canadian Content Interactive Media** is not responsible for the privacy practices or the content of such Web sites. 
 
@@ -35,7 +32,7 @@ This site contains links to other sites. **Canadian Content Interactive Media** 
 
 This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
 
-####  Children's Guidelines 
+**Children and the Internet**
 
 We care about children and understand that they have special privacy needs. Therefore, we have adopted the following privacy policy regarding children: 
 
@@ -51,6 +48,4 @@ We care about children and understand that they have special privacy needs. Ther
   7. We will NOT provide any links to Web sites that are unsuitable for children. 
   8. We will encourage children to get their parent's permission before sharing personal information online. 
 
-  
-  
-© 1997 - 2004. Canadian Content Interactive Media.
+
