@@ -1,54 +1,55 @@
-> *The following text is extracted and transformed from the where.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627205125id_/http%3A//www.where.com/words/where-privacy-policy/%3Fuserid%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the where.com privacy policy that was archived on 2009-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091127202911id_/http%3A//www.where.com/privacy-policy) for the most accurate reproduction.*
 
-# WHERE Privacy Policy | WHERE™
+# Privacy Policy | WHERE
 
-**General Information:**
+**Privacy Policy**
 
-This Privacy Notice provides detailed information about the Where Services and the steps we take to protect your privacy.  We have compiled this policy to help you make informed decisions about your use of the Where Service and other uLocate properties. 
+**About the Privacy Policy**  
+This Privacy Policy describes how personal information is collected, used and disclosed when you visit and use our Website located at www.where.com (the “Website”) and the WHERE® mobiles services (“WHERE”) provided by uLocate Communications, Inc. (“we”, or “us”) and accessed through your mobile device. Please read this notice very carefully.
 
-This Privacy Notice is subject to the Where Terms of Use. The personal information you provide to the Where Services as well as your use of the Where Services remain subject to the terms of this Privacy Notice and the Terms of Use.
+By using WHERE, you represent that you are at least 14 years old or older and consent to the privacy practices described in this Privacy Policy, as may be modified by us from time to time.
 
-Where Collects:  
-Your Location Information: Where receives location information from your mobile carrier.  
-Your Registration Information: When you subscribe to Where you are required to give us some “personally identifiable” information (mobile phone number, mobile carrier, name, email address, password, etc.).  
-Cookies: Where uses cookies – small text files of a string of alphanumeric characters – to store some information and settings you may use during a visit to Where. Where uses two types of cookies: session cookies and persistent cookies. Session cookies remain only for one visit. Persistent Cookies remain for subsequent visits, and can be deleted from your browser. To learn more about how to manage your cookies, please reference your browser’s “Help” section.  
-Log Files: When you use Where Services, our servers automatically store Information about the request in a Log File.  This information may include, and is not limited to, client IP address, request date/time, query keywords, page or screen requested, HTTP code, bytes served, user agent, and referring website.  
-Web Beacons: Where Services may employ “Web Beacons” (clear gifs)  to track User behavior anonymously.  Web Beacons store no personal information about you.
+**Personally Identifying Information**  
+As used herein, the term “personal identifying information” means information that specifically identifies an individual (such as a name, address, telephone number, mobile number, e-mail address, or other account number), and information about that individual’s location or activities, when directly linked to personally identifiable information. Personally identifying information also includes demographic information such as date of birth, gender, geographic area and preferences when such information is linked to other personal information that identifies you.
 
-Where Uses Information:  
-Where uses the information it collects (see above) to improve the Where Service and add features by analyzing trends in user behavior.  
-Where uses cookies, Web Beacons, and log file information to remember user preferences and information you provide to Where, to provide custom content, to track marketing campaigns and, when applicable, to provide individualized advertising.  
-Where DOES NOT spam. We will not give or sell your personally identifiable information (email, phone number, etc) to advertisers or third party developers for direct marketing purposes.  We may, however, use your email, should you allow us, to send newsletters.  In rare circumstances, we may use your email or phone to send you important notices about Where Service changes or outages.
+All information that registered users opt to provide to uLocate for the purpose of creating a User Profile is stored. However, this information will not be used for any other purpose other than for the User Profiles. We will not sell, market, or divulge this information to any third-party. 
 
-Where Discloses Information When:  
-We provide your personally identifiable information, location information and other non-personal information to affiliates, subsidiaries or other businesses to provide some Where Services.  Examples include, but are not limited to, billing arrangements for Where Services with your wireless carrier or providing maps and directions.   We may provide non-personal location information, consisting of a location coordinate with no other information, to third-party services but after you have given specific consent to do so.  
-We provide non-personally identifiable information (such as information collected via Web Beacons and Log Files) to interested third-parties to assist those parties in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the Where Services.  
-In certain legally mandated situations or in the good-faith belief that such action is necessary to comply with state and federal laws, we may release your personal or non-personal information. These situations may include and are not limited to responding to a court order, subpoena, or search warrant or to protect against liability, fraudulent or unlawful use or to enforce the Terms of Use.
+Personally identifying information does not include “aggregate” information, which is data we collect about the use of WHERE or about a group or category of products, services or users, from which individual identities or other personally identifying information has been removed. In other words, information about how you use a service may be collected and combined with information about how others use the same service. Aggregate data helps us understand trends and our users’ needs so that we can better consider new features or otherwise tailor our Website. This Privacy Policy in no way restricts or limits our collection and use of aggregate information.
 
-Advertising:  
-Where may share profile information and aggregate usage information in a non-personally identifiable manner to allow our advertising partners to present more targeted advertising, products and services. Our advertising partners may use technologies such as cookies to measure the effectiveness of their advertisements and to personalize the advertising content. You should consult the respective privacy policies of our advertising partners since Where’s privacy policy does not apply to them.
+**Gathering of Personally Identifying Information**  
+The amount and type of information that uLocate gathers depends on the nature of the interaction. For example, users who sign up to use WHERE may opt to provide an email address for alerts and notifications. In each case, uLocate collects such information only insofar as is necessary or appropriate to fulfill the purpose of the user’s interaction with WHERE. Users always have the option to refuse to supply personally identifying information, with the caveat that it may prevent them from engaging in certain WHERE-related activities.
 
-Secure Data:  
-Where takes many precautions to make sure that your account information is kept private. However, we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time.
+WHERE is not intended for use by children under 14. If you believe that a child has provided uLocate with personally identifiable information without the consent of his or her parent or guardian, please contact us at support@where.com. If uLocate becomes aware that a child under age 14 has provided us with personally identifiable information, we will delete such information.
 
-Age:  
-Children under the age of fourteen (14) are not eligible to use our service and must not submit any personal information to us.
+**Use of Information**  
+We may collect certain information you voluntarily provide to us which may contain personally identifying information. For instance, from time to time we may collect demographic, contact or other personal information you provide in connection with your participation in surveys, sweepstakes, contests, games, promotional offers, and other activities. However, uLocate does not disclose such personally identifying information to any third parties.
 
-International:  
-The Where Services are hosted in the United States and are intended for North American visitors. If you are using the Where Services from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your personal data to the United States and by providing your personal data you consent to that transfer.
+We may also collect statistics about the behavior of WHERE users. For instance, uLocate may monitor the most popular WHERE services and display an aggregated view of this information publicly or provide it to others. We treat this information as personally identifying information if we combine it with or link it to any of the identifying information mentioned above. 
 
-Change in Ownership:  
-We reserve the right to transfer your personal information in the event of a transfer of ownership of Where, such as acquisition by or merger with another company. If an acquiring company should plan to materially change this privacy policy, we will notify you beforehand.
+You understand that when you use WHERE, certain information that you post on www.where.com or provide through WHERE may be shared with other users and posted on publicly available portions of WHERE, including without limitation your profile, comments, and photographs. In addition, you should be aware that (i) Location Data and other information that you post on www.where.com and WHERE that are not designated as private may be publicly available and can potentially be viewed by anyone.
 
-Changes to Policy:  
-From time to time we may update this Privacy Policy and will post a notice of any significant changes on our website. You should visit this page periodically to review any such changes to the privacy policy. Your continued use of this website or our service and/or continued provision of personally identifiable information to us will be subject to the terms of the then-current Privacy Policy.
+Aggregate information and Location Data may be shared with carriers, Service Providers and other third parties in accordance with the provisions of this Privacy Policy. If the Location Data is shared with carriers, Service Providers and other third parties then it will be done so in a way to keep your anonymity. Location Data will not be shared in such a way as to be personally identifiable. 
 
-Date:  
-Where Privacy Notice effective as of Jan 1, 2007.
+Your use of WHERE constitutes your consent to share this information in such manner and all such sharing of information is done at your own risk. 
 
-**Contact Information:  
-** uLocate Communications Inc.  
-60 Canal St, 2nd Floor  
-Boston, MA 02114  
-888-641-0102 or 508-879-5556  
-legal@ulocate.com
+**Protection of Certain Personally Identifying Information**  
+uLocate takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally identifying and personally identifying information.
+
+The history of your location data will be kept in a manner as to ensure anonymity so it will not be personally identifiable to anyone.  
+In some cases we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if uLocate or substantially all of its assets were acquired, or in the unlikely event that uLocate goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of uLocate may continue to use your personally identifying and non-personally identifying information only as set forth in this Privacy Policy. Otherwise, uLocate will never rent or sell potentially personally identifying or personally identifying information to anyone.
+
+Other than to its employees, contractors and affiliated organizations or as described above, uLocate discloses potentially personally identifying and personally identifying information only when required to do so by law, or when uLocate believes in good faith that disclosure is reasonably necessary to protect the property or rights of uLocate, third parties or the public at large. 
+
+If you are a registered user of WHERE and have supplied your email address, uLocate may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with uLocate and our products.  
+For users outside the United States, please note that any personally identifiable information you provide to uLocate will be transferred out of your country and into the United States. You consent to such transfer through your use WHERE. You also warrant that you have the right to transfer such information outside your country and into the United States.
+
+**Links to Third Party Websites**  
+This Privacy Policy only applies to information collected by uLocate. This Privacy Policy does not apply to the practices of companies that uLocate does not own or control, or employees that uLocate does not manage. Any information you provide to, or that is collected by, third-party may be subject to the privacy policies of those third-parties, if any. We encourage you to read such privacy policies of any third-party websites you visit. It is the sole responsibility of such third parties to adhere to any applicable restrictions on the disclosure of your personally identifying information, and uLocate shall not be liable for wrongful use or disclosure of your personally identifying information by any third party.
+
+**Cookies**  
+A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. uLocate uses cookies to help identify and track visitors, their usage of the Website, and their WHERE access preferences. If we combine cookies with or link them to any of the personally identifying information, we would treat this information as personally indentifying information. If you wish to block, erase, or be warned of cookies, please refer to your browser instructions or help screen to learn about these functions. www.where.com visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using the Website, with the drawback that certain features of www.where.com may not function properly without the aid of cookies.
+
+We use temporary “session” cookies to maintain information we need to have in order for you to browse from page to page. Session cookies are temporary and disappear after you close your browser. We use “persistent” cookies to give you a more personalized browsing experience and to help you navigate the Website more efficiently. Persistent cookies remain after you close your browser and may be used by your browser during subsequent visits to the Website. In all cases in which cookies are used, the cookie will not collect personally identifiable information except with your explicit permission. You can prevent your browser from accepting new cookies, have the browser notify you when you receive a new cookie, or disable cookies altogether by accessing your browser’s preferences menu. If you choose to disable cookies altogether, you can use the Website but some features of the Website may not function properly.
+
+**Privacy Policy Changes**  
+uLocate reserves the right to change our Privacy Policy from time to time. If we do then we’ll notify you by posting the amended policy on www.where.com. In all cases, use of information we collect now is subject to the Privacy Policy in effect at the time such information is collected. Your use of WHERE following the posting of such changes or revised statement shall constitute your consent to any changes in our privacy practices, and you expressly waive any right to notice of such changes. We encourage you to review this Privacy Policy whenever you visit www.where.com to make sure that you understand how any information you provide will be used.
