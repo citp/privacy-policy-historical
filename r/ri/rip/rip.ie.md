@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rip.ie privacy policy that was archived on 2009-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090517035103id_/http%3A//www.rip.ie/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rip.ie privacy policy that was archived on 2009-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091127160400id_/http%3A//www.rip.ie/privacy.asp) for the most accurate reproduction.*
 
 # Privacy: RIP.ie - Death Notices Ireland
 
