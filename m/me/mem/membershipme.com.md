@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the membershipme.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618051907id_/http%3A//www.dealpass.com/Page/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the membershipme.com privacy policy that was archived on 2009-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091127102423id_/http%3A//www.dealpass.com/Page/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # DealPass Privacy Policy
 
