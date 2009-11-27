@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iccu.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418224954id_/http%3A//www.iccu.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D150%26Itemid%3D207) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iccu.com privacy policy that was archived on 2009-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091127083230id_/http%3A//www.iccu.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D150%26Itemid%3D207) for the most accurate reproduction.*
 
-# Idaho Central Credit Union - 1 - Privacy Policy
+# Idaho Central Credit Union - 2 - Privacy Policy
 
 Idaho Central Credit Union is committed to providing you with the best products and services available and to do so in a secure and confidential environment. We firmly believe in our members’ right to privacy and have taken numerous safeguards and precautions to ensure your nonpublic personal information remains confidential.
 
