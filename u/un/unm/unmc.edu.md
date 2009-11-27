@@ -1,16 +1,10 @@
-> *The following text is extracted and transformed from the unmc.edu privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622143840id_/http%3A//www.unmc.edu/5/npp.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unmc.edu privacy policy that was archived on 2009-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091127113830id_/http%3A//www.unmc.edu/npp.htm) for the most accurate reproduction.*
 
-# Notice of Privacy Practices How Your Medical Information Is Used
+# Notice of Privacy Practice
 
-| 
+## Notice of Privacy Practices: How Your Medical Information Is Used
 
-  
-Notice of Privacy Practices  
-How Your Medical Information Is Used
-
-* * *
-
-THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.
+THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN GET ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY. 
 
 This Notice applies to the following organizations and their clinics:
 
@@ -20,7 +14,7 @@ This Notice applies to the following organizations and their clinics:
  
   * UNMC Physicians  
  
-  * University Dental Associates (UDA)
+  * University Dental Associates (UDA) 
 
 
 
@@ -34,7 +28,7 @@ Each time you visit a hospital, clinic, physician, or other health care provider
 
  We are required by law to:
 
-  * Maintain the privacy of your health information.
+  * Maintain the privacy of your health information. 
   * Provide you with an additional current copy of our Notice upon request. 
   * Abide by the terms of our current Notice. 
 
@@ -62,7 +56,7 @@ _**For example:  Members of the medical staff, the risk or quality improvement 
 
 Notification.
 
-_   ** We may use or disclose health information to notify or assist in notifying a family member, personal representative, or another person responsible for your care of your location and general condition. 
+_   **We may use or disclose health information to notify or assist in notifying a family member, personal representative, or another person responsible for your care of your location and general condition. 
 
 **_Communication With Family and Others.   _** We may disclose relevant health information to a family member, friend, or other person involved in your care.   We will only disclose this information if you agree, are given the opportunity to object and do not, or if in our professional judgment, it would be in your best interest to allow the person to receive the information or act on your behalf. 
 
@@ -78,16 +72,16 @@ _   ** We may use or disclose health information to notify or assist in notifyi
 
 **_Research._** Research is conducted under strict UNMC Institutional Review Board (IRB) guidelines designed to protect the subjects of research.  Health information about you may be disclosed to researchers preparing to conduct a research project.  For example, it may be necessary for researchers to look for patients with specific medical characteristics or treatments.  We would obtain your specific authorization prior to using your health information in research studies if information that directly identifies you is disclosed. The only exception would be granted under rare circumstances when the IRB is permitted by federal regulations to grant a waiver of authorization. 
 
-**_Public Health.   _** We may disclose health information about you for public health activities.  These activities may include disclosures:
+**_Public Health.   _**We may disclose health information about you for public health activities.  These activities may include disclosures:
 
-  * To a public health authority authorized by law to collect or receive such information for the purpose of preventing or controlling disease, injury, or disability;
-  * To appropriate authorities authorized to receive reports of abuse and neglect;
+  * To a public health authority authorized by law to collect or receive such information for the purpose of preventing or controlling disease, injury, or disability; 
+  * To appropriate authorities authorized to receive reports of abuse and neglect; 
   * To FDA-regulated entities  for purposes of monitoring  or reporting the quality, safety or effectiveness of FDA-regulated products; or 
   * To notify a person who may have been exposed to a disease or may be at risk for contracting or spreading a disease or condition.
 
 
 
-**_Workers’ Compensation.   _ **We may disclose health information to the extent authorized and necessary to comply with laws relating to workers’ compensation or other similar programs established by law. 
+**_Workers’ Compensation.   _**We may disclose health information to the extent authorized and necessary to comply with laws relating to workers’ compensation or other similar programs established by law. 
 
 **_Correctional Institutions._**   If you are an inmate of a correctional institution or under custody of a law enforcement official, we may disclose to the correctional institution, its agents or the law enforcement official your health information necessary for your health or the health and safety of other individuals.
 
@@ -99,7 +93,7 @@ _   ** We may use or disclose health information to notify or assist in notifyi
 
 **_Specialized Government Functions._**   We may disclose your information for national security and intelligence activities authorized by law, for protective services of the president; or if you are a military member, to the military under limited circumstances.
 
-**_As Required by Law.   _ **We will use or disclose your health information as required by federal, State or local law.
+**_As Required by Law.   _**We will use or disclose your health information as required by federal, State or local law.
 
 **_Lawsuits and Administrative Proceedings.   _**We may release your health information in response to a court or administrative order.  We may also provide your information in response to a subpoena or other discovery request, but only if efforts have been made to tell you about the request or to obtain an order protecting the information requested.
 
