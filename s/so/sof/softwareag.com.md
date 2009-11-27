@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softwareag.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525201118id_/http%3A//www.softwareag.com/Corporate/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwareag.com privacy policy that was archived on 2009-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091127172357id_/http%3A//www.softwareag.com/corporate/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Software AG appreciate your visit to our website and thank you for your interest in our company, our products and our services. Protection of your privacy and personal data is an important matter for us. In order to guarantee you a high level of transparency and security, our declaration on data protection as set forth below will inform you as to the nature, scope and purpose of any collection, use and processing of information and data recorded by us. 
 
-In this respect, please keep in mind that this declaration on data protection refers only to the publicly accessible websites with the [following](https://web.archive.org/Corporate/privacy_annex.asp) Internet addresses/URLs of Software AG. You may read them [here](https://web.archive.org/Corporate/privacy_annex.asp).
+In this respect, please keep in mind that this declaration on data protection refers only to the publicly accessible websites with the [following](https://web.archive.org/corporate/privacy_annex.asp) Internet addresses/URLs of Software AG. You may read them [here](https://web.archive.org/corporate/privacy_annex.asp).
 
  **1.  External Links**
 
@@ -66,11 +66,11 @@ Because of tax requirements Software AG has to archive e mails for ten years in 
 
  **12.  Modification of the Declaration on Data Protection**
 
-As a result of the ongoing development of the Internet, it will be necessary to adapt this declaration on data protection to changing conditions on an ongoing basis. Timely notice of such modification shall be given on this page.  You may view previous versions of this declaration on data protection in this [ _Archive_](https://web.archive.org/Corporate/privacy_updates.asp).
+As a result of the ongoing development of the Internet, it will be necessary to adapt this declaration on data protection to changing conditions on an ongoing basis. Timely notice of such modification shall be given on this page.  You may view previous versions of this declaration on data protection in this [ _Archive_](https://web.archive.org/corporate/privacy_updates.asp "Privacy Policy - Updates").
 
  **13.  Procedural List**
 
-You may obtain a general overview of the purpose for which and the group of persons on which Software AG collects, processes and uses personal data in the public [Procedural List](https://web.archive.org/Corporate/procedural.asp) shown on this website.  
+You may obtain a general overview of the purpose for which and the group of persons on which Software AG collects, processes and uses personal data in the public [Procedural List](https://web.archive.org/corporate/procedural.asp) shown on this website.  
 
  **14.  Information and Other Rights, Contact**
 
