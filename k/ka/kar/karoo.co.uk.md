@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the karoo.co.uk privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416224039id_/http%3A//karoo.co.uk/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karoo.co.uk privacy policy that was archived on 2009-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091127193859id_/http%3A//www.karoo.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Karoo - Privacy Policy
 
@@ -6,118 +6,143 @@ Thank you for visiting the website of KCOM Group PLC. KCOM Group and their group
 
 This privacy policy is published by KCOM Group PLC (" KCOM Group" or " we" or " us"). KCOM Group PLC is a company registered in England under number 2150618 at 37 Carr Lane, Hull, East Yorkshire, HU1 3RE (" KCOM Group Address").
 
-## Contents
+### Contents
 
-  1. [Our approach](https://web.archive.org/web/20090416224039id_/http%3A//karoo.co.uk/privacypolicy.asp#Our_approach)
-  2. [Information collection ](https://web.archive.org/web/20090416224039id_/http%3A//karoo.co.uk/privacypolicy.asp#Information_collection)
-  3. [Use of information we collect](https://web.archive.org/web/20090416224039id_/http%3A//karoo.co.uk/privacypolicy.asp#Use_of_information_we_collect)
-  4. [Who may process data](https://web.archive.org/web/20090416224039id_/http%3A//karoo.co.uk/privacypolicy.asp#Who_may_process_data)
-  5. [Security measures](https://web.archive.org/web/20090416224039id_/http%3A//karoo.co.uk/privacypolicy.asp#Security_measures)
-  6. [Cookies](https://web.archive.org/web/20090416224039id_/http%3A//karoo.co.uk/privacypolicy.asp#Cookies)
-  7. [What is a web beacon?](https://web.archive.org/web/20090416224039id_/http%3A//karoo.co.uk/privacypolicy.asp#What_is_a_web_beacon)
-  8. [Access and changes to your personal information](https://web.archive.org/web/20090416224039id_/http%3A//karoo.co.uk/privacypolicy.asp#Access_and_changes_to_your_personal_information)
-  9. [Changes to this policy](https://web.archive.org/web/20090416224039id_/http%3A//karoo.co.uk/privacypolicy.asp#Changes_to_this_policy)
-  10. [Enquiries](https://web.archive.org/web/20090416224039id_/http%3A//karoo.co.uk/privacypolicy.asp#Enquiries)
-  11. [Managing your contact with KCOM Group](https://web.archive.org/web/20090416224039id_/http%3A//karoo.co.uk/privacypolicy.asp#Managing_your_contact_with_KCOM_Group)
+  1. Our Approach
+  2. Information collection
+  3. Use of information we collect
+  4. Who may process data
+  5. Security measures
+  6. Cookies
+  7. What is a web beacon?
+  8. Access and changes to your personal information
+  9. Changes to this policy
+  10. Enquiries
+  11. Managing your contact with KCOM Group
 
 
 
-## 1\. OUR APPROACH
+### 1\. OUR APPROACH
 
 KCOM Group takes the privacy of its users seriously. Generally, you can browse through our Website without giving us any information about yourself (including your email address). When we do need your personal information to provide services that you request or when you choose to provide us with your personal information, this policy describes how we collect and use your personal information.
 
 If we decide to change our privacy policy for this Website, we will post those changes here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone.
 
-## 2\. INFORMATION COLLECTION
+back to top
+
+### 2\. INFORMATION COLLECTION
 
 We collect personal information (such as your name, email address and any other details you provide to us that identifies you as an individual) from you when you submit a request for information or when you submit your details for any other reason. Personal information will only be collected with your consent.
 
-When you browse our Website, we may also log your IP address (the Internet address of your computer) to give us an idea of which part of our Website you visit and how long you spend here. We do not link your IP address to any other personal information that you send to us. Like many other websites, we may use a standard technology called a "cookie" to collect information about how you use the Website (see section [6\. Cookies](https://web.archive.org/web/20090416224039id_/http%3A//karoo.co.uk/privacypolicy.asp#Cookies))
+When you browse our Website, we may also log your IP address (the Internet address of your computer) to give us an idea of which part of our Website you visit and how long you spend here. We do not link your IP address to any other personal information that you send to us. Like many other websites, we may use a standard technology called a "cookie" to collect information about how you use the Website (see section 6\. Cookies)
 
 Save for the use of cookies, we do not automatically log data or collect data apart from information you specifically provide to us.
 
-## 3\. USE OF INFORMATION WE COLLECT
+back to top
+
+### 3\. USE OF INFORMATION WE COLLECT
 
 We (and other KCOM Group companies) will use your information for several general purposes including: fulfilling any requests for information or services placed by you, processing any other transactions authorised by you, keeping you up to date with news about KCOM Group, our products and services, and providing other information to you which we think you may find of interest. Your personal information shall not be used for any other purposes.
 
-## 4\. WHO MAY PROCESS DATA 
+back to top
 
-Your personal information may be processed both by us and by other companies within our group in accordance with this privacy policy. We take all reasonable care to prevent any unauthorised access to your personal data. Personal information will not be sold or transferred to unaffiliated third parties without your prior consent. 
+### 4\. WHO MAY PROCESS DATA
 
-Where any personal information is processed by us, we will comply with relevant Data Protection legislation at all times. We are registered to process data under the Data Protection Act (our registration number is D1303069) and you may refer to the Data Protection Register website for further information at [http://www.dpr.gov.uk](http://www.dpr.gov.uk/). 
+Your personal information may be processed both by us and by other companies within our group in accordance with this privacy policy. We take all reasonable care to prevent any unauthorised access to your personal data. Personal information will not be sold or transferred to unaffiliated third parties without your prior consent.
 
-## 5\. SECURITY MEASURES
+Where any personal information is processed by us, we will comply with relevant Data Protection legislation at all times. We are registered to process data under the Data Protection Act (our registration number is D1303069) and you may refer to the Data Protection Register website for further information at [http://www.dpr.gov.uk](http://www.dpr.gov.uk/ "Data Protection Register").
 
-We are serious about guarding the security of your personal information that we have under our control from unauthorised access, improper use and disclosure, unauthorised destruction or accidental loss. However we cannot guarantee the protection of your personal data as due to the nature of the Internet, the Website is theoretically accessible by any user of the World Wide Web. You should be aware that when you disclose personal information on the Website it may be collected by another user and may result in unsolicited messages from other Internet users. 
+back to top
 
-## 6\. COOKIES
+### 5\. SECURITY MEASURES
+
+We are serious about guarding the security of your personal information that we have under our control from unauthorised access, improper use and disclosure, unauthorised destruction or accidental loss. However we cannot guarantee the protection of your personal data as due to the nature of the Internet, the Website is theoretically accessible by any user of the World Wide Web. You should be aware that when you disclose personal information on the Website it may be collected by another user and may result in unsolicited messages from other Internet users.
+
+back to top
+
+### 6\. COOKIES
 
 **6.1 What is a cookie?**
 
-A cookie is a small text file that may be placed on your computers hard-drive when you visit a website so that the site can remember who you are. A cookie will typically contain the name of the domain from which the cookie has come, the "lifetime" of the cookie, and a value, usually a randomly generated unique number. The only personal information a cookie can contain is the information that you supply yourself. A cookie cannot read data from your hard disk or read any other cookie files created by other websites. 
+A cookie is a small text file that may be placed on your computers hard-drive when you visit a website so that the site can remember who you are. A cookie will typically contain the name of the domain from which the cookie has come, the "lifetime" of the cookie, and a value, usually a randomly generated unique number. Cookies cannot be used by themselves to identify you. The only personal information a cookie can contain is the information that you supply yourself. A cookie cannot read data from your hard disk or read any other cookie files created by other websites. 
 
 You can find more information on cookies, their use and your rights, if you visit <http://www.allaboutcookies.org/>. 
 
 **6.2 How we use cookies**
 
-We use cookies which are generated by a third party to enable us to track user trends in association with web beacons (see section 7\. What is a web beacon?) to ensure the website is structured in a user friendly manner. The cookies that are issued merely contain a unique number and therefore contain no personal data. They have a lifetime of 5 years.   Data collected by cookies will not otherwise be passed to any third party, the data is kept for internal use only. Our cookies will not be used to analyse your visits to other sites. 
+We use cookies in order to help personalise your experience on our site.
 
-You have options with regards to cookies.  By changing the settings of your browser, you may opt to accept cookies, to be informed when a cookie is being placed on your PC or to reject all cookies.  (see section 6.3 How to disable cookies) 
+**6.2.1 Third Party Cookies**
 
-**6.3** **How to Disable Cookies**
+**Website Statistics**
 
-Both Netscape and Microsoft Internet Explorer (MSIE) allow some level of cookie verification or choice. Netscape 3.0 and MSIE 3.0 provide only with an "alert before accepting cookies." This way you can voluntarily choose not to visit a site or areas of a site that use cookies. 
+We also use cookies which are generated by a third party to enable us to track user trends in association with web beacons (see section 7\. What is a web beacon?) to ensure the website is structured in a user friendly manner. The cookies that are issued merely contain a unique number and therefore contain no personal data. They have a lifetime of 5 years.
 
-To be alerted prior to accepting cookies, you may choose to follow one of these procedures (the following is only a brief list of some popular browsers): 
+**Online Advertising**
 
-  * If you are using Netscape Navigator 3.0, go to the "Options" menu, then to "Network Preferences," and then to "Protocols." Check the box that says, "Show an alert before accepting a cookie." 
-  * In Netscape 4.0+, go to "Edit" in the menu bar, then to "Preferences," then to "Advanced." Check the box that says, "Warn me before accepting a cookie." 
-  * In Netscape 6.0, go to "Edit" in the menu bar, then to "Preferences," then to "Advanced," then to "Cookies." Check the box that says, "Warn me before accepting a cookie." 
-  * In Internet Explorer 3.0, go to the "View" menu, then to "Options," then to "Advanced." Check the box that says, "Warn before accepting cookies." 
-  * In Internet Explorer 4.0, go to the "View" menu, then to "Internet Options," then to "Advanced." Check the box that says, "Prompt before accepting cookies." 
-  * In Internet Explorer 5.0+, go to the "Tools" menu, then to "Internet Options," then to "Security," then to "Custom Level." In the "Cookies" section, go to the "Allow cookies that are stored on your machine" sub-section and select "Prompt." 
+Our website may contain third party advertising and sponsorship. It is possible that these third party advertisers may download third party cookies to your computer. These cookies are used for website and advertising optimisation.
 
+The cookie usually contains a meaningless user id (a unique random number) so that the user can be distinguished from any other user. No personal user information can be stored in a third party cookie for a simple reason: such information is not available to the third party server.
 
+The lifetime of these cookies is set by the server. By the nature of these third party cookies, they are temporary, their lifetime varying anywhere from the time you spend on the site to one day to one month to one year. After the cookie expiration date, it is deleted by the browser automatically.
 
-## 7\. WHAT IS A WEB BEACON?
+You are not obliged to accept cookies and by modifying the settings in your browser, you may opt to accept cookies, to be informed when a cookie is being placed on your PC or to reject all cookies. (see section 6.3 How to disable cookies)  
 
-Some of our web pages may contain electronic images known as web beacons (or sometimes known as clear gifs or web bugs) that allow us to count users who have visited our web pages. Web beacons collect limited information such as a cookie number (see section 6\. Cookies), time and date of a page view, and a description of the page on which the web beacon resides. These beacons do not carry any personally identifiable information and are only used to track the effectiveness of our site or particular campaigns.
+**6.3 How to disable cookies**
+
+The popular browsers Firefox, Safari, Chrome and Microsoft Internet Explorer (MSIE) allow some level of cookie verification or choice. This way you can voluntarily choose not to visit a site or areas of a site that use cookies.
+
+You can find out how to manage cookies for your browser here <http://www.allaboutcookies.org/manage-cookies/>
+
+back to top
+
+### 7\. WHAT IS A WEB BEACON?
+
+Some of our web pages may contain electronic images known as web beacons (or sometimes known as clear gifs or web bugs) that allow us to count users who have visited our web pages. Web beacons collect limited information such as a cookie number (see section 6 Cookies), time and date of a page view, and a description of the page on which the web beacon resides. These beacons do not carry any personally identifiable information and are only used to track the effectiveness of our site or particular campaigns.
 
 You can find more information on web beacons, their use and your rights, if you visit <http://www.allaboutcookies.org/>. 
 
-## 8\. ACCESS AND CHANGES TO YOUR PERSONAL INFORMATION
+back to top
 
-Upon request, we may provide you with a copy of the personal information which we hold about you (in return for a small fee). Please address requests to [datacomplianceofficer@kcom.com](mailto:datacomplianceofficer@kcom.com) and insert "access request" as the subject heading, or write to us at the KCOM Group Address, stating your name and email address for identification purposes. 
+### 8\. ACCESS AND CHANGES TO YOUR PERSONAL INFORMATION
 
-At your request, we will use reasonable efforts to update / correct personal information previously submitted by you. You may also request that we cease processing the personal information we have about you and that we delete your personal information from our database or records. However, it may be impossible to delete your information without some residual information because of backups and records of deletions. 
+Upon request, we may provide you with a copy of the personal information which we hold about you (in return for a small fee). Please address requests to datacomplianceofficer@kcom.com and insert "access request" as the subject heading, or write to us at the KCOM Group Address, stating your name and email address for identification purposes.
 
-Please address your requests to change or delete your personal information to [info@kcom.com](mailto:info@kcom.com) and insert "change details" or "unsubscribe" as appropriate as the subject heading. Alternatively you may write to us at the KCOM Group Address, stating your name and email address for identification purposes. 
+At your request, we will use reasonable efforts to update / correct personal information previously submitted by you. You may also request that we cease processing the personal information we have about you and that we delete your personal information from our database or records. However, it may be impossible to delete your information without some residual information because of backups and records of deletions.
 
-We will only perform the activities outlined above to the extent that such activities will not compromise privacy or security interests. 
+Please address your requests to change or delete your personal information to info@kcom.com and insert "change details" or "unsubscribe" as appropriate as the subject heading. Alternatively you may write to us at the KCOM Group Address, stating your name and email address for identification purposes.
 
-If you do not receive a response to your inquiry – or if you feel you inquiry has not been satisfactorily addressed, please contact: 
+We will only perform the activities outlined above to the extent that such activities will not compromise privacy or security interests.
 
-The Information Commissioner   
-Wycliffe House   
-Water Lane   
-Wilmslow   
-Cheshire   
-SK9 5AF 
+If you do not receive a response to your inquiry – or if you feel you inquiry has not been satisfactorily addressed, please contact:
 
-Tel:  01625 545700   
-Fax:  01625 524510   
-Website:  [www.dataprotection.gov.uk](http://www.dataprotection.gov.uk/)   
-Email:  [mail@dataprotection.gov.uk](mailto:mail@dataprotection.gov.uk)
+The Information Commissioner  
+Wycliffe House  
+Water Lane  
+Wilmslow  
+Cheshire  
+SK9 5AF
 
-## 9\. CHANGES TO THIS POLICY
+Tel: 01625 545700  
+Fax: 01625 524510  
+Website: [www.dataprotection.gov.uk](http://www.dataprotection.gov.uk/ "Data protection")  
+Email: [mail@dataprotection.gov.uk](mailto:mail@dataprotection.gov.uk "Data Protection")
+
+back to top
+
+### 9\. CHANGES TO THIS POLICY
 
 We may change this privacy policy from time to time. When such a change is made we will post a revised version on the Website. It is your responsibility to view this privacy policy from time to time to be aware of any such change. Your continued use of the Website will indicate your agreement to any such change. 
 
-## 10\. ENQUIRIES
+back to top
 
-If you have any further enquiries or concerns about our privacy policy please email us at [webprivacy@kcom.com](mailto:webprivacy@kcom.com) or write to us at the KCOM Group Address. 
+### 10\. ENQUIRIES
 
-## 11\. MANAGING YOUR CONTACT WITH KCOM GROUP
+If you have any further enquiries or concerns about our privacy policy please email us at [webprivacy@kcom.com](mailto:webprivacy@kcom.com "Data Protection") or write to us at the KCOM Group Address. 
+
+back to top
+
+### 11\. MANAGING YOUR CONTACT WITH KCOM GROUP
 
 If you would like to stop unsolicited telemarketing calls from KCOM Group and other companies, please contact the Telephone Preference Service on 0845 0700707 and register your telephone number(s). Direct marketing calls should stop after 28 days. 
 
@@ -125,12 +150,12 @@ If you would like to stop unsolicited direct marketing mailers from KCOM Group a
 
 If you would like KCOM Group ONLY not to call or mail you with details of products, services and special offers: 
 
-  * Residential customers please call 01482 602555. 
-  * Business customers please contact your Account Manager or call  01482 605012. 
-  * Corporate and Government customers please call 01482 602711. 
+  * Residential customers please call 01482 602555.
+  * Business customers please contact your Account Manager or call 01482 605012.
+  * Corporate and Government customers please call 01482 602711.
 
 
 
 If you would like to stop unsolicited marketing facsimiles (faxes), please contact the Fax Preference Service on 0845 0700702 and register your fax number(s). Direct marketing faxes should stop after 28 days. If you are an individual consumer or a sole trader, it is illegal to send you such faxes unless you have given explicit permission to the sender. 
 
->back to top
+back to top
