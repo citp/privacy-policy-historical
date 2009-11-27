@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the richmondfc.com.au privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529221045id_/http%3A//www.richmondfc.com.au/portals/0/tigers_docs/rfc_privacy_policy2007.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the richmondfc.com.au privacy policy that was archived on 2009-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091127154458id_/http%3A//www.richmondfc.com.au/portals/0/tigers_docs/rfc_privacy_policy2007.pdf) for the most accurate reproduction.*
 
 # Richmond Football Club Privacy Policy
 
