@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the fashnvia.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416232016id_/http%3A//www.fashnvia.com/home/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashnvia.com privacy policy that was archived on 2009-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091127211641id_/http%3A//www.fashnvia.com/home/PrivacyPolicy.htm) for the most accurate reproduction.*
 
-# FASHNVIA - The Fashion Portal
+# Fashnvia.com - Shop latest Mens, Womens Fashion (Apparel, Footwear, Accessories) & Brand Vouchers - Online Fashion Shopping Store for India
 
-Created on: 20 November 2008
+Last Modified on: 28 August 2009
 
-At FASHNVIA.com we recognize that Privacy is extremely important and we are committed to protecting the Privacy of all FASHNVIA.com members. FASHNVIA.com's goal is to provide a highly valuable online platform for our members that will help them to discover new Fashion brands, explore Fashion brands' latest, exciting product range, access the brands' stores list across India, contact partner brands to get more info or to provide feedback, to discuss brands' collections, offers and services via Brand Talk and to converse about Fashion via Fashn Talk. 
+At FASHNVIA.com we recognize that Privacy is extremely important and we are committed to protecting the Privacy of all FASHNVIA.com members. FASHNVIA.com's goal is to provide a highly valuable online fashion shopping platform for our members that will help them to purchase latest, exciting branded product range and vouchers at attractive discounted prices. 
 
 This Privacy Policy is designed to help you learn more about the personal information we collect, who we might share it with, and how we protect it. 
 
-This Privacy Policy is incorporated into and is subject to the **[FASHNVIA.com Terms of Use](https://web.archive.org/web/20090416232016id_/http%3A//www.fashnvia.com/home/Terms_of_Use.htm)**. Your use of the FASHNVIA.com services and any personal information you provide in FASHNVIA.com during registration or while updating your profile remains subject to the terms of this Privacy Policy and our **[Terms of Use](https://web.archive.org/web/20090416232016id_/http%3A//www.fashnvia.com/home/Terms_of_Use.htm)**. 
+This Privacy Policy is incorporated into and is subject to the **[FASHNVIA.com Terms of Use](https://web.archive.org/web/20091127211641id_/http%3A//www.fashnvia.com/home/TermsOfUse.htm)**. Your use of the FASHNVIA.com services and any personal information you provide in FASHNVIA.com during registration or while updating your profile remains subject to the terms of this Privacy Policy and our **[Terms of Use](https://web.archive.org/web/20091127211641id_/http%3A//www.fashnvia.com/home/TermsOfUse.htm)**. 
 
 Please note that certain features of the FASHNVIA.com portal allow you to publish opinions, discoveries, suggestions, comments, photos, pictures, videos & other content or files. The information voluntarily published under these categories will be considered as published information and shall not be falling within the purview of this Privacy Policy. 
 
@@ -34,7 +34,7 @@ FASHNVIA.com does not make any representations or warranties regarding the use /
 
 The information provided to FASHNVIA.com by you is used to provide you with our services as well as maintain your account with us. 
 
-All information that you provide during registration (except for your personal email id, account password and age) forms part of your Profile in FASHNVIA.com and will be displayed in your Profile Card within FASHNVIA.com. Your Profile Card containing the information (except for your personal email id, account password and age) that you voluntarily provide during registration and profile updation can be accessed, viewed, downloaded and reproduced by other FASHNVIA.com members. Also, the other content you post in FASHNVIA.com like opinions, discoveries, suggestions, comments etc. can be accessed, viewed, downloaded and reproduced by other FASHNVIA.com Members. Other FASHNVIA.com members may also contact you with respect to your posts and content, for which FASHNVIA.com does not take any responsibility. 
+All information that you provide during registration (except for your personal email id, account password) forms part of your Profile in FASHNVIA.com.
 
 **Disclosure of your personal information to third parties**
 
