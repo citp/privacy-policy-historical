@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the treasurereading.com privacy policy that was archived on 2009-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090528160500id_/http%3A//www.treasurereading.com/privacy_terms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the treasurereading.com privacy policy that was archived on 2009-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091127225639id_/http%3A//www.treasurereading.com/privacy_terms.html) for the most accurate reproduction.*
 
 # Treasure Bound Books - Privacy & Terms
 
@@ -54,7 +54,7 @@ Treasure Bound Books always tries to ensure that the information published on ou
 
 **\- Comments and complaints  
 **  
-To contact Treasure Bound Books with a comment or complaint, please submit through the [Contact Us](https://web.archive.org/web/20090528160500id_/http%3A//www.treasurereading.com/contact_us.html) form 
+To contact Treasure Bound Books with a comment or complaint, please submit through the [Contact Us](https://web.archive.org/web/20091127225639id_/http%3A//www.treasurereading.com/contact_us.html) form 
 
 **\- Frequently asked questions  
 **  
