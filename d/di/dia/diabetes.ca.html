@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the diabetes.ca privacy policy that was archived on 2009-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090526224500id_/http%3A//diabetes.ca/about-us/policies/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the diabetes.ca privacy policy that was archived on 2009-11-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091128233955id_/http%3A//www.diabetes.ca/about-us/policies/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <link rel="stylesheet" type="text/css" media="screen" href="/templates/includes/cda.css">
 <link rel="stylesheet" type="text/css" media="print" href="/templates/includes/cda.css">
 <link rel="stylesheet" type="text/css" media="print" href="/templates/includes/cda-print.css">
+
 <link rel="shortcut icon" href="/images/site/cdaLogo.ico" type="image/ico">
 
 <!--[if IE 7]>
@@ -12,16 +13,35 @@
 <link rel="stylesheet" type="text/css" media="print" href="/templates/includes/cda-print.css" />
 <![endif]-->
 <!--[if IE 6]>
-<link rel="stylesheet" type="text/css" media="screen" href="/templates/includes/cdaie.css" />
+<link rel="stylesheet" type="text/css" media="screen" href="/templates/includes/cdaie6.css" />
 <link rel="stylesheet" type="text/css" media="print" href="/templates/includes/cda-print.css" />
 <![endif]-->
 
 <link rel="alternate" type="application/rss+xml" title="News: Canadian Diabetes Association" href="http://feeds.feedburner.com/cda/news">
 <link rel="alternate" type="application/rss+xml" title="Recipes: Canadian Diabetes Association" href="http://feeds2.feedburner.com/cda/recipes">
 
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
+<script type="text/javascript" src="/scripts/jquery.flow.1.2.js"></script>
+<script type="text/javascript" src="/scripts/s3Slider.js"></script>
 
 <script src="/scripts/taglinks.js" type="text/javascript"></script>
+<script type="text/javascript">
+function areaOnFocus(element, inputText)
+{
+     if(element.value != '')
+     {
+          element.value='';
+     }
+}
 
+function areaOnBlur(element, inputText)
+{
+     if(element.value=='')
+     {
+          element.value = inputText;
+     } 
+}
+</script>
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -76,43 +96,58 @@ Masthead
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 -->
 <div id="masthead">
+<div id="cdaLogo">
+<a href="http://www.diabetes.ca/"><img src="/images/site/logo.jpg" alt="Homepage" title="Homepage"></a>
+</div>
+<div id="search-top">
+<form action="">
+<div id="quickLinks">
+<select style="width: 156px; border:none;" name="quicklinks" size="1">
+<option selected="selected" value="">----quick links----</option>
+<option value="/about-us/who/annual-reports/">Annual Report</option>
+<option value="/about-diabetes/nutrition/bmi/">BMI Calculator</option>
+<option value="/for-professionals/resources/2008-cpg/">Clinical Practice Guidelines</option>
+<option value="/get-involved/supporting-us/clothesline/">Clothesline</option>
+<option value="/get-involved/community/">Communities</option>
+<option value="/about-diabetes/literature/diabetes-dialogue/">Diabetes Dialogue</option>
+<option value="/get-involved/supporting-us/donate-online/">Donate Now</option>
+<option value="/about-diabetes/living/">Living With Diabetes</option>
+<option value="/about-diabetes/nutrition/meal-planning/">Meal Planning Resource</option>
+<option value="/about-diabetes/nutrition/">Nutrition</option>
+<option value="/for-professionals/resources/">Professional Resources</option>
+<option value="/about-diabetes/nutrition/recipes/">Recipes</option>
+<option value="http://www.teamdiabetes.ca/">Team Diabetes</option>
+</select>
+<input type="button" value="Go" class="submit" onclick="if (form.quicklinks.selectedIndex != 0)
+      location = form.quicklinks.options[form.quicklinks.selectedIndex].value;
+    else
+      alert('Please choose a menu item')">
 
-<h1 id="cdaLogo"><a href="http://www.diabetes.ca/">Canadian Diabetes Association<img src="/images/site/cdaLogo.gif" alt="Homepage" title="Homepage"></a></h1>
 
-<ul>
-<li><a href="http://www.diabetes.ca/" title="Return to the homepage">Home</a></li>
-<li><a href="/about-us/where/national/" title="Contact Us">Contact Us</a></li>
 
-<li><a href="/about-us/policies/accessibility/" title="Information on our websites Accessibility">Accessibility</a></li>
-</ul>
+</div></form>
 
 <div id="searchForm">
-<form method="post" action="http://www.diabetes.ca/">
-<div class="hiddenFields">
-<input type="hidden" name="ACT" value="19">
-<input type="hidden" name="XID" value="">
-<input type="hidden" name="RP" value="&amp;#47;search&amp;#47;results&amp;#47;">
-<input type="hidden" name="NRP" value="">
-<input type="hidden" name="RES" value="">
-<input type="hidden" name="status" value="not closed">
-<input type="hidden" name="weblog" value="about-us|get-involved|about-diabetes|for-professionals|careers|events|news|profiles|recipes|regional-content-pharmacies|regional-content-advocacy|regional-content-contact|regional-content-programs|regional-content-resources|regional-content-volunteer">
-<input type="hidden" name="search_in" value="everywhere">
-<input type="hidden" name="where" value="all">
-<input type="hidden" name="show_expired" value="no">
-<input type="hidden" name="site_id" value="1">
-</div>
 
-
-<label for="keywords">Search</label>
-<input type="text" name="keywords" id="keywords" value="" size="25" maxlength="100">
-<input type="submit" value="Search" class="submit" title="Search">
+<form action="http://www.diabetes.ca/search/results/" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="003094135815696782263:zxn5luxyt0g">
+    <input type="hidden" name="cof" value="FORID:11;NB:1">
+    <input type="hidden" name="ie" value="UTF-8">
+    <input type="text" id="keywords" name="q" size="25" value="search..." onfocus="areaOnFocus(q, 'search...')" onblur="areaOnBlur(q, 'search...')">
+    <input type="submit" class="submit" name="sa" value="Go">
+  </div>
 </form>
+
+
+<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+<script type="text/javascript">google.load("elements", "1", {packages: "transliteration"});</script>
+<script type="text/javascript" src="http://www.google.com/coop/cse/t13n?form=cse-search-box&amp;t13n_langs=en"></script>
+
+
+
 </div><!-- /#searchForm -->
-
-<div id="donate">
-<a href="/get-involved/supporting-us/donate-online/" title="Donate Now">Donate Now</a>
-</div><!-- /#donate -->
-
+</div>
 </div><!-- /#masthead -->
 
 <!-- 
@@ -120,37 +155,368 @@ Masthead
 Main Navigation
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 -->
-<div id="mainNavigation">
-<h2 id="mainNav" class="accessibleHeading">Main Navigation</h2>
+<div class="menu">
 
-<ul id="navAboutUs">
-<li id="getInvolved" title="Get Involved"><a href="/get-involved">Get Involved</a></li>
-<li id="aboutUs">About Us</li>
-<li id="aboutDiabetes"><a href="/about-diabetes" title="About Diabetes">About Diabetes</a></li>
-<li id="forProfessionals"><a href="/for-professionals" title="For Professionals">For Professionals</a></li>
+<ul>
+<li id="menuHome"><a href="/">HOME</a></li>
+
+<li id="menuGetInvolved"><a href="/get-involved">GET INVOLVED<!--[if IE 
+
+7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+	<ul>
+
+<li><a class="drop" href="/get-involved/supporting-us">Supporting Us<!--[if IE 
+
+7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul>
+			
+<li><a href="/get-involved/supporting-us/donate-online" style="color:#cc0000;">Donate 
+
+Online</a></li>
+<li><a href="/neighbours/">Communities for Diabetes</a></li>
+			<li><a href="/get-involved/supporting-us/team-diabetes">Team 
+
+Diabetes</a></li>
+			<li><a href="/get-involved/supporting-us/clothesline">Clothesline</a></li>
+			<li><a href="/get-involved/supporting-us/recycle-ink">Diabetes Recycle 
+
+Ink</a></li>
+			<li><a href="/get-involved/supporting-us/used-vehicle-donation-program">Used Vehicle Donation 
+
+Program</a></li>
+			<li><a href="/get-involved/supporting-us/project-redial">Project 
+
+Redial</a></li>
+			<li><a href="/get-involved/supporting-us/volunteer/">Volunteer</a></li>
+			<li><a href="/get-involved/supporting-us/3rd-party-events">3rd Party 
+
+community events</a></li>
+		</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	</li>
+
+	<li><a class="drop" href="/get-involved/helping-you">Helping You<!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul>
+			<li><a href="/get-involved/helping-you/advocacy">Advocacy</a></li>
+			<li><a href="/get-involved/helping-you/contact-centre">Contact 
+
+Centre</a></li>
+			<li><a href="/get-involved/helping-you/offers-and-promotions">Offers and 
+
+Promotions</a></li>
+			<li><a href="/get-involved/helping-you/camps">Summer Camps</a></li>
+		</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	</li>
+	
+	<li><a class="drop" href="/get-involved/corporate-support">Corporate Support<!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul>
+			<li><a href="/get-involved/corporate-support/corporate-supporters/">Our 
+
+Corporate Supporters</a></li>
+			<li><a href="/get-involved/corporate-support/join-us">Join Us</a></li>
+			<li><a href="/get-involved/corporate-support/proud-supporters/">Proud 
+
+Supporter Program</a></li>
+			<li><a href="/about-us/who/donors-08/organizations/">Organizations and 
+
+Foundations</a></li>
+		</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	</li>
+
+	<li><a href="/get-involved/events">Events</a></li>
+	<li><a href="/get-involved/community">In Your Community</a></li>
+	
+	<li><a class="drop" href="/get-involved/newsletters">Newsletters<!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul>
+			<li><a href="/get-involved/newsletters/current">Diabetes Current</a></li>
+			<li><a href="/get-involved/newsletters/pacesetter">Pacesetter</a></li>
+		</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	</li>
+
+	</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>  <!-- End Supporting You Section -->
+
+
+
+<!-- 2. DIABETES & YOU SECTION -->
+
+<li id="menuDiabetesAndYou"><a href="/about-diabetes">DIABETES &amp; YOU<!--[if IE 
+
+7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+	<ul>
+<li><a class="drop" href="/about-diabetes/what">What is Diabetes?<!--[if IE 
+
+7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul>
+			<li><a href="/about-diabetes/what/facts/">Diabetes Facts</a></li>
+			<li><a href="/about-diabetes/living/just-diagnosed/type1/">Type 1 Diabetes</a></li>
+			<li><a href="/about-diabetes/living/just-diagnosed/type2/">Type 2 Diabetes</a></li>
+			<li><a href="/about-diabetes/what/at-risk/">Are you at risk?</a></li>
+			<li><a href="/about-diabetes/what/gestational/">Gestational Diabetes</a></li>
+			<li><a href="/about-diabetes/what/prediabetes/">Prediabetes</a></li>
+			<li><a href="/about-diabetes/what/prevalence/">The Prevalence and Cost of Diabetes</a></li>
+			<li><a href="/about-diabetes/what/pregnancy/">Type 1 Diabetes and Pregnancy: One Mother's Story</a></li>
+    		<li><a href="/about-diabetes/what/metabolic-syndrome/">Metabolic Syndrome</a></li>
+           	<li><a href="/about-diabetes/what/dictionary/">Diabetes Dictionary</a></li>
+            <li><a href="/about-diabetes/what/history/">The History of Diabetes</a></li>
+		</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	</li>
+
+	<li><a class="drop" href="/about-diabetes/living/">Living with Diabetes<!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul>
+			<li><a href="/about-diabetes/living/just-diagnosed">Just Diagnosed</a></li>
+			<li><a href="/about-diabetes/living/cpg-toolkit">Cardiovascular Self Assessment Tool</a></li>
+			<li><a href="/about-diabetes/living/management">Day-to-Day Management</a></li>
+			<li><a href="/about-diabetes/living/guidelines">Guidelines</a></li>
+            <li><a href="/about-diabetes/living/insulin">Insulin and Medications</a></li>
+            <li><a href="/about-diabetes/living/complications">Complications</a></li>
+            <li><a href="/about-diabetes/living/verve">Verve</a></li>
+            <li><a href="/about-diabetes/living/bingo">Bingo Game</a></li>
+		</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	</li>
+	
+	<li><a class="drop" href="/about-diabetes/nutrition/">Nutrition<!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul>
+			<li><a href="/about-diabetes/nutrition/just-basics/">Just the Basics</a></li>
+			<li><a href="/about-diabetes/nutrition/recipes/">Recipes</a></li>
+			<li><a href="/about-diabetes/nutrition/portion-guide/">Portion Guide</a></li>
+			<li><a href="/about-diabetes/nutrition/meal-planning/">Meal Planning Resource</a></li>
+            <li><a href="/about-diabetes/nutrition/healthy-lifestyle/">Healthy Lifestyle Resource</a></li>
+            <li><a href="/about-diabetes/nutrition/healthy-meals/">Top 10 Tips for Tasty and Healthy Meals</a></li>
+            <li><a href="/about-diabetes/nutrition/fat/">Fats</a></li>
+            <li><a href="/about-diabetes/nutrition/fibre/">Fibre</a></li>
+            <li><a href="/about-diabetes/nutrition/healthy-eating/">Healthy Eating is in Store for You™</a></li>
+            <li><a href="/about-diabetes/nutrition/meal-planning-guide/">Meal Planning Guide</a></li> 
+            <li><a href="/about-diabetes/nutrition/carbohydrate-counting/">Carbohydrate Counting</a></li>
+            <li><a href="/about-diabetes/nutrition/eating-out/">A Guide to Eating Out</a></li>
+            <li><a href="/about-diabetes/nutrition/sweeteners/">Sweeteners</a></li> 
+            <li><a href="/about-diabetes/nutrition/functional-foods/">Functional Foods</a></li>
+            <li><a href="/calendar/">Healthy Living Calendar</a></li>            
+            <li><a href="/about-diabetes/nutrition/whats-cooking/">What's Cooking TV Show</a></li>            
+            <li><a href="/about-diabetes/nutrition/bmi/">BMI Calculator</a></li>                       
+		</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	</li>
+
+
+	<li><a class="drop" href="/about-diabetes/youth/">Youth<!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul>
+			<li><a href="/about-diabetes/youth/diagnosis/">Diabetes, Your Child, and You</a></li>
+			<li><a href="/about-diabetes/youth/type2/">Children and Type 2</a></li>
+			<li><a href="/about-diabetes/youth/type1/">Children and Type 1</a></li>
+			<li><a href="/about-diabetes/youth/teens/">Teens and Diabetes</a></li>
+			<li><a href="/about-diabetes/youth/healthy-eating/">Healthy Eating for School-age Children</a></li>
+			<li><a href="/about-diabetes/youth/special-occasions/">Special Occasions</a></li>                        
+		</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	</li>
+    
+    	<li><a class="drop" href="/about-diabetes/order-desk/">Consumer Literature<!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul>
+			<li><a href="/about-diabetes/literature/consumer-guide/">2009/10 Consumer's Guide to Diabetes Products and Medications</a></li>
+			<li><a href="/about-diabetes/literature/diabetes-dialogue/">Diabetes Dialogue</a></li>
+			<li><a href="https://orders.diabetes.ca/cda/">Online Order Desk</a></li>                        
+		</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	</li>
+
+	</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>  <!-- END DIABETES & YOU SECTION -->
+
+
+<!-- 3. FOR PROFESSIONAL SECTION -->
+
+<li id="menuForProfessionals"><a href="/for-professionals">FOR PROFESSIONALS<!--[if IE 
+
+7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+	<ul>
+<li><a href="/for-professionals/resources/2008-cpg/">Clinical Practice Guidelines</a></li>
+<li><a class="drop" href="/for-professionals/c-ss/">Clinical &amp; Scientific Section<!--[if IE 
+
+7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul>
+			<li><a href="/for-professionals/c-ss/news/">News</a></li>
+			<li><a href="/for-professionals/c-ss/executive-committee/">Executive Committee</a></li>
+			<li><a href="/for-professionals/c-ss/membership/">Membership</a></li>
+			<li><a href="/for-professionals/c-ss/awards/">Awards</a></li>
+<li><a href="/for-professionals/c-ss/annualreport/">Annual Report</a></li>
+		</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	</li>
+
+	<li><a class="drop" href="/for-professionals/des/">Diabetes Educator Section<!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul>
+			<li><a href="/for-professionals/des/news/">News</a></li>
+			<li><a href="/for-professionals/des/policies-procedures/">Policies and Procedures of DES</a></li>
+			<li><a href="/for-professionals/des/standards-recognition/">Standards Recognition Program</a></li>
+			<li><a href="/for-professionals/des/committees/">Committees</a></li>
+            <li><a href="/for-professionals/des/chapters/">Chapters</a></li>
+            <li><a href="/for-professionals/des/membership/">Membership</a></li>
+            <li><a href="/for-professionals/des/executive/">National Executive</a></li>
+            <li><a href="/for-professionals/des/awards/">Awards</a></li>
+            <li><a href="/for-professionals/des/nominations2010/">Call for Nominations 2010</a></li>
+            <li><a href="/for-professionals/des/annual-report/">Annual Report</a></li>
+            <li><a href="/for-professionals/des/events/">DES Events</a></li>            
+		</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	</li>
+	
+	<li><a class="drop" href="/for-professionals/conference/">CDA/CSEM Professional Conference<!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul>
+			<li><a href="/for-professionals/conference/program-updates/">2010 CDA/CSEM Professional Conference and Annual Meetings</a></li>
+			<li><a href="/for-professionals/conference/abstract-book/">Abstract Book 2008</a></li>
+			<li><a href="/for-professionals/conference/multi-media/">Multimedia</a></li>                                  
+		</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	</li>
+
+
+	<li><a class="drop" href="/for-professionals/research/">Research<!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul>
+			<li><a href="/for-professionals/research/2010-competition/">2010 Research Competition</a></li>
+			<li><a href="/for-professionals/research/clinical-trials/information/">Clinical Trials</a></li>
+			<li><a href="/for-professionals/research/grants-awards/">2009 Funded Operating Grants and Personnel Awards</a></li>
+			<li><a href="/for-professionals/research/best-fund/">Charles H. Best Research Fund</a></li>
+			<li><a href="/for-professionals/research/for-funded-researchers/">For Funded Researchers</a></li>                
+		</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	</li>
+    
+    	<li><a class="drop" href="/for-professionals/resources/">Resources<!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul>
+			<li><a href="/for-professionals/resources/cpg-toolkit/">CPG Tool Kit</a></li>
+			<li><a href="/for-professionals/resources/publications">Publications</a></li>
+			<li><a href="/for-professionals/resources/presentations/">Presentations</a></li>			<li><a href="/for-professionals/resources/nutrition/">Nutrition</a></li>
+			<li><a href="/for-professionals/resources/additional/">Additional Educator Materials</a></li>
+			<li><a href="/bestpractices/">Best and Promising Practices</a></li>                        
+		</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	</li>
+
+	<li><a href="/for-professionals/members-only/">Members Only</a></li>
+
+	</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>  <!-- END FOR PROFESSIONAL SECTION -->
+
+
+
+ <!-- 4. VOLUNTEER SECTION -->
+<li id="menuVolunteer"><a href="/get-involved/supporting-us/volunteer/">VOLUNTEER</a></li>
+ <!-- END VOLUNTEER SECTION -->
+ 
+ <!-- 5. ABOUT US SECTION -->
+<li id="menuAboutUs"><a href="/about-us">ABOUT US<!--[if IE 
+
+7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+	<ul>
+<li><a class="drop" href="/about-us/who/">Who We Are<!--[if IE 
+
+7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul>
+			<li><a href="/about-us/who/banting-house">Banting House</a></li>
+			<li><a href="/about-us/who/annual-reports">Annual Reports</a></li>
+			<li><a href="/about-us/who/board-of-directors">Board of Directors</a></li>
+			<li><a href="/about-us/who/our-heritage">Our Heritage</a></li>
+			<li><a href="/about-us/who/senior-management-team">Senior Management Team</a></li>            
+		</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	</li>
+
+	<li><a class="drop" href="/about-us/what">What We Do<!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul>
+			<li><a href="/about-us/what/accountability">Accountability</a></li>
+			<li><a href="/about-us/what/advocacy">Advocacy</a></li>
+			<li><a href="/about-us/what/position-statements">Position Statements</a></li>
+			<li><a href="/about-us/what/research">Research</a></li>            
+		</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	</li>
+	
+	<li><a class="drop" href="/about-us/where">Where We Are<!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul>
+			<li><a href="/about-us/where/regional/">Regional Offices</a></li>
+			<li><a href="/about-us/where/national/">National Office</a></li>
+			          
+		</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	</li>
+
+
+	<li><a class="drop" href="/about-us/media">For The Media<!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul>
+			<li><a href="/about-us/media-releases/">Media Releases</a></li>
+			<li><a href="/about-us/media/contacts/">Media Contacts</a></li>
+			        
+		</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	</li>
+    
+    	<li><a class="drop" href="/about-us/policies/">Policies<!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul>
+			<li><a href="/about-us/policies/disclaimer/">Disclaimer</a></li>
+			<li><a href="/about-us/policies/privacy/">Privacy Policy</a></li>
+			<li><a href="/about-us/policies/accessibility/">Accessibility</a></li>			<li><a href="/about-us/policies/human-resources/">Human Resources</a></li>
+		</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	</li>
+
+	<li><a class="drop" href="/about-us/careers/">Careers<!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul>
+			<li><a href="/about-us/careers/category/jobs-at-the-association/">Jobs at the Association</a></li>
+			<li><a href="/about-us/careers/category/jobs-in-the-diabetes-community/">Jobs in the Diabetes Community</a></li>
+			
+		</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+	</li>
+
+	</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>  <!-- END ABOUT US SECTION -->
+
+<li id="menuMediaRoom"><a href="/about-us/media">MEDIA ROOM</a></li>
+
+<li id="menuDonateNow"><a href="/get-involved/supporting-us/donate-online" style="color:#862011;font-weight:bold;">DONATE NOW</a></li>
+
 </ul>
-
-
-</div><!-- /#mainNavigation -->
-
+</div>
 
 <!-- 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Sub Navigation
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 -->
-<div id="subNavAboutUs">
-<ul id="subnav">
-<li><a href="/about-us/who/" title="Who we are">Who we are</a></li>
-<li><a href="/about-us/what" title="What we do">What we do</a></li>
-<li><a href="/about-us/where" title="Where we are">Where we are</a></li>
-<li><a href="/about-us/media" title="For the media">For the media</a></li>
-<li><a href="/about-us/policies/" title="Policies">Policies</a></li>
-<li><a href="/about-us/careers/" title="Careers">Careers</a></li>
-</ul>
-
-</div>
-
 
 
 <!-- 
@@ -336,12 +702,57 @@ Entry
 </div><!-- /#content -->
 
 <div id="footer">
-<a href="/about-us/policies/privacy" title="Privacy Policy">Privacy Policy</a> | <a href="/about-us/policies/disclaimer/" title="Disclaimer">Disclaimer</a>
 
-<script type="text/javascript" src="http://w.sharethis.com/widget/?tabs=web%2Cpost%2Cemail&amp;charset=utf-8&amp;services=%2Cfacebook%2Cmyspace%2Cgoogle_bmarks%2Cdelicious%2Cstumbleupon%2Ctechnorati%2Cyahoo_bmarks%2Cwindows_live&amp;style=default&amp;publisher=5f478d1c-c3f8-4348-91b8-9e444e79c1ff&amp;headerbg=%23f9ecda&amp;inactivebg=%23fdfdfd&amp;inactivefg=%23b31f17&amp;linkfg=%23b31f17"></script>
+<ul><li>Who We Are
+<ul class="firstColumn">
+<li><a href="/about-us/who/banting-house">Banting House</a></li>
+<li><a href="/about-us/who/annual-reports">Annual Reports</a></li>
+<li><a href="/about-us/who/board-of-directors">Board of Directors</a></li>
+<li><a href="/about-us/who/our-heritage">Our Heritage</a></li>
+<li><a href="/about-us/who/senior-management-team">Senior Management Team</a></li>
+</ul></li>
 
+<li>What We Do
+<ul class="secondColumn">
+<li><a href="/about-us/what/accountability">Accountability</a></li>
+<li><a href="/about-us/what/advocacy">Advocacy</a></li>
+<li><a href="/about-us/what/position-statements">Position Statement</a></li>
+<li><a href="/about-us/what/research">Research</a></li>
+</ul></li>
+
+<li>Where We Are
+<ul class="thirdColumn">
+<li><a href="/about-us/where/regional/">Regional Offices</a></li>
+<li><a href="/about-us/where/national/">National Office</a></li>
+</ul></li>
+
+<li>For The Media
+<ul class="fourthColumn">
+<li><a href="/about-us/media-releases/">Media Releases</a></li>
+<li><a href="/about-us/media/contacts/">Media Contacts</a></li>
+</ul></li>
+
+<li>Policies
+<ul class="fifthColumn">
+<li><a href="/about-us/policies/disclaimer/">Disclaimer</a></li>
+<li><a href="/about-us/policies/privacy/">Privacy Policy</a></li>
+<li><a href="/about-us/policies/accessibility/">Accessibility</a></li>
+<li><a href="/about-us/policies/human-resources/">Human Resource</a></li>
+</ul></li>
+
+<li>Careers
+<ul class="sixthColumn">
+<li><a href="/about-us/careers/category/jobs-at-the-association/">Jobs at the Association</a></li>
+<li><a href="/about-us/careers/category/jobs-in-the-diabetes-community/">Jobs in the Diabetes Community Careers</a></li>
+</ul></li></ul>
+
+
+
+<div id="footer-text">
+<a href="/about-us/where/national/" title="Contact Us">Contact Us</a> | <a href="/about-us/policies/privacy" title="Privacy Policy">Privacy Policy</a> | <a href="/about-us/policies/disclaimer/" title="Disclaimer">Disclaimer</a> | <a href="/about-us/policies/accessibility/" title="Accessibility">Accessibility</a> | <a href="/about-us/what/accountability/">How does my donation help?</a> | <a href="/about-us/careers/">Careers</a>
 <br>
 © 2005-2009 Canadian Diabetes Association
+</div>
 </div><!-- /#footer -->
 </div><!-- /#wrap -->
 
