@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bargainoutfitters.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626233835id_/http%3A//www.bargainoutfitters.com/net/main/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bargainoutfitters.com privacy policy that was archived on 2009-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091128060924id_/http%3A//www.bargainoutfitters.com/net/main/Privacy.aspx) for the most accurate reproduction.*
 
 # Bargain Outfitters - Bargains, Discounts, Markdowns, Deals, on Boots, Clothing, Outdoor Gear at Bargain Outfitters
 
-This Privacy Statement describes the practices pertaining to the collection and handling of personal information from visitors to www.bargainoutfitters.com. The statement does not pertain to the privacy practices for partnered sites, and we encourage those who visit external sites from links within www.bargainoutfitters.com to read the privacy policy statements of those sites. If you have questions or concerns regarding this statement, you can contact us via the following: 
+This Privacy Statement describes the practices pertaining to the collection and handling of personal information from visitors to www.bargainoutfitters.com. Bargain Outfitters® is part of the Redcats® USA, L.P. family of companies, which currently includes 13 different brands. The statement does not pertain to the privacy practices for other sites, and we encourage those who visit external sites from links within www.bargainoutfitters.com to read the privacy policy statements of those sites. If you have questions or concerns regarding this statement, you can contact us via the following: 
 
-  * Online: [Click here](http://www.bargainoutfitters.com/main/mailus.asp) to contact www.bargainoutfitters.com via email (customerservice@bargainoutfitters.com)
+  * Online: [Click here](http://www.bargainoutfitters.com/net/main/MailUs.aspx) to contact www.bargainoutfitters.com via email (customerservice@bargainoutfitters.com)
   * Phone: 1-888-324-9634
   * Mail: Bargain Outfitters, 411 Farwell Ave, PO Box 239, South Saint Paul, MN 55075
 
@@ -23,8 +23,8 @@ In order to make you feel comfortable and secure in our online store, Bargain Ou
   * Visitor Options
   * Security
   * Children
-  * California Privacy Rights
   * Notification of Change
+  * [Terms of Use](https://web.archive.org/web/20091128060924id_/http%3A//www.bargainoutfitters.com/net/main/TermsOfUse.aspx)
 
 
 
@@ -40,7 +40,7 @@ The information we collect is used to provide the products and services that you
 
 In order to operate this Web site and in order to provide you with the products and services you have requested, we occasionally need to share information with third parties. We may transmit your personal information to service providers who assist us in processing orders, shipping products to you, processing your payment information, sending you catalogs, conducting surveys, on and offline sweepstakes, sending you e-mails and newsletters, and helping us decide whether to extend credit to you. We have agreements with these service providers that they will protect your privacy in accordance with our standard Privacy Policy statement. Some of those organizations may have their own Privacy Statements that may give you additional protections, so you are encouraged to read those statements when presented to you. 
 
-We use WebTrends, to help us gather and analyze information about our customers (anonymous traffic, and from time to time, individual user activity) on our website. WebTrends only role is to help us conduct our business and deliver the most relevant products and services. They are not permitted to use your personally identifiable information for any secondary purposes. 
+We use WebTrends, to help us gather and analyze information about our customers (anonymous traffic, and from time to time, individual user activity) on our website. WebTrends' only role is to help us conduct our business and deliver the most relevant products and services. They are not permitted to use your personally identifiable information for any secondary purposes. 
 
 ##  Aggregate Information
 
@@ -48,13 +48,13 @@ Bargain Outfitters may also use data to improve marketing and promotional effort
 
 ##  Opting Out
 
-Bargain Outfitters provides site visitors with the opportunity to opt-out of receiving our online communications. If you would like to opt-out of receiving email communications [click here](http://www.bargainoutfitters.com/email/specials_form.asp). Requests to unsubscribe from email are processed immediately, but you could continue to receive emails, which entered the system prior to processing your request, for up to two days. 
+Bargain Outfitters provides site visitors with the opportunity to opt-out of receiving our online communications. If you would like to opt-out of receiving email communications (other than emails related to a particular order for which you cannot opt out) [click here](http://www.bargainoutfitters.com/net/email/Unsubscribe.aspx). Requests to unsubscribe from email are processed immediately, but you could continue to receive emails, which entered the system prior to processing your request, for up to two days. 
 
-To discontinue the receipt of postal mail, please [click here](http://www.bargainoutfitters.com/main/mailus.asp) to email Customer Service asking that your name be removed from our postal mailing list. Please note that you may continue to receive mailings, which entered the system prior to processing your request, for up to 12 weeks. Any mailings that you may receive during this time period do not reflect your subscription status, and we ask you to please disregard them. 
+To discontinue the receipt of postal mail, please [click here](http://www.bargainoutfitters.com/net/main/MailUs.aspx) to email Customer Service asking that your name be removed from our postal mailing list. Please note that you may continue to receive mailings, which entered the system prior to processing your request, for up to 12 weeks. Any mailings that you may receive during this time period do not reflect your subscription status, and we ask you to please disregard them. 
 
 ##  Sweepstakes Referrals and Tell-A-Friend
 
-If you elect to use the Tell-A-Friend service to inform a friend about a special product on the website or use the Sweepstakes Entry form to enter a referral, you will be asked for a an acquaintence's name and email address. Bargain Outfitters will automatically send this person a one-time e-mail inviting them to either view the product, in the case of Tell-A-Friend, or register to sign-up for the sweepstakes, in the case of the Sweepstakes Entry. These emails may also contain links promoting other areas of our website. 
+If you elect to use the Tell-A-Friend service to inform a friend about a special product on the website or use the Sweepstakes Entry form to enter a referral, you will be asked for an acquaintance's name and email address. Bargain Outfitters will automatically send this person a one-time e-mail inviting them to either view the product, in the case of Tell-A-Friend, or register to sign-up for the sweepstakes, in the case of the Sweepstakes Entry. These emails may also contain links promoting other areas of our website. 
 
 ##  Information Disclosure Required by Law
 
@@ -68,11 +68,11 @@ Bargain Outfitters also uses cookies to perform functions that must be tied to a
 
 ##  Visitor Options
 
-If you do not want to receive e-mail from us in the future, please let us know by email, by calling, or by writing to us at the above postal address and telling us that you do not want to receive email from our company. 
+Other than receiving emails from us regarding your orders, if you do not want to receive e-mail from us in the future, please let us know by email, by calling, or by writing to us at the above postal address and telling us that you do not want to receive email from our company. Click Here for our contact information. 
 
-If you provide us with your e-mail address, you may receive messages about your order status, issues regarding the operations of this Web site, and messages from subsidiaries of Bargain Outfitters and other companies with operational relationships to Bargain Outfitters. You may modify your e-mail preferences by [clicking here](http://www.bargainoutfitters.com/email/specials_form.asp) or by calling 1-888-324-9634. 
+If you provide us with your e-mail address, you may receive messages about your order status, issues regarding the operations of this Web site, and messages from subsidiaries of Bargain Outfitters and other companies with operational relationships to Bargain Outfitters. You may modify your e-mail preferences by [clicking here](http://www.bargainoutfitters.com/net/email/Unsubscribe.aspx) or by calling 1-888-324-9634. 
 
-If you provide us with your postal address, you may receive periodic catalogs from us, or other notices containing information about new products and services. On occasion, we may make our postal mailing address lists available to subsidiaries and affiliated companies that are part of Bargain Outfitters family of companies. We may also make our postal mailing address lists available to other direct mail companies who we believe may have products and services of interest to our customers. However, we do not share e-mail addresses with any outside organizations for marketing purposes. If you do not wish to receive postal mailings from Bargain Outfitters, its subsidiaries, or third-party organizations, please let us know by sending an e-mail, calling, or writing to us at the above postal address. Please provide us with your exact name and postal address and state the lists from which you wish to be removed so that we can be sure your information is removed from future mailing lists. 
+If you provide us with your postal address, you may receive periodic catalogs from us, or other notices containing information about new products and services. On occasion, we may make our postal mailing address lists available to subsidiaries and affiliated companies that are part of Bargain Outfitters family of companies. We may also make our postal mailing address lists available to other direct mail companies who we believe may have products and services of interest to our customers. However, we do not share e-mail addresses with any outside organizations for marketing purposes. If you do not wish to receive postal mailings from Bargain Outfitters, its subsidiaries, or third-party organizations, please let us know by sending an e-mail, calling, or writing to us at the above postal address. Click Here for our contact information. Please provide us with your exact name and postal address and state the lists from which you wish to be removed so that we can be sure your information is removed from future mailing lists. 
 
 We will request your telephone number or facsimile (FAX) number, and if you provide it, you may receive telephone or FAX contact from us with information regarding your orders or requests for information. We do not share phone or FAX numbers with third parties for marketing purposes. 
 
@@ -86,26 +86,12 @@ Once you have completed your order online, our security procedures do not end. W
 
 If you are still unsure of giving your credit card over the Internet, please feel free to phone, fax, or mail your order to us. For telephone ordering or assistance, please call 1-888-324-9631. Or, send your order to: Bargain Outfitters, 411 Farwell Ave, PO Box 239, South Saint Paul, MN 55075 
 
-If you have any further question regarding your online security, please [click here](http://www.bargainoutfitters.com/main/mailus.asp) to e-mail us or contact us by phone at 1-888-324-9634. 
+If you have any further question regarding your online security, please [click here](http://www.bargainoutfitters.com/net/main/MailUs.aspx) to e-mail us or contact us by phone at 1-888-324-9634. 
 
 ##  Children
 
 In accordance with federal law, we do not knowingly collect personally identifiable information from children under age 13 without the verifiable permission of a parent or guardian. If you are under age 13, you are welcome to browse our Web site. However you are not permitted to use any of the features of our site that require the collection of any personally identifiable information. If we determine that we have erroneously collected a child's information, we will immediately undertake to delete that data from our records. 
 
-##  California Privacy Rights
-
-On January 1, 2005, bill SB27 outlining privacy practices of California businesses and the collection and appropriate use of personal information in direct marketing activities became law. 
-
-Bargain Outfitters respects and honors all visitor preferences for receiving communications both online and in the mail, as well as for participation in the list rental and exchange program. 
-
-To opt-out of receiving email communications, postal mail or from participating in the list rental and exchange program, or to request a disclosure of list rental and exchange information, please follow the directions below. Any request for personal information will be fulfilled within a reasonable time frame. 
-
-  * Email: [Click here](http://www.bargainoutfitters.com/email/specials_form.asp) to change your email preferences
-  * Postal Mail: [Click here](http://www.bargainoutfitters.com/main/mailus.asp) to email Customer Service to change your postal mail preferences
-  * Disclosure Request: [Click here](http://www.bargainoutfitters.com/main/mailus.asp) to email Customer Service to request disclosure of list rental and exchange practices
-
-
-
 ##  Notification of Change
 
-Bargain Outfitters reserves the right to change this policy at any time. Bargain Outfitters privacy policy will be kept up-to-date and clearly posted on our web site. 
+Bargain Outfitters reserves the right to change this Privacy Policy at any time. Bargain Outfitters Privacy Policy will be kept up-to-date and clearly posted on our web site. This Privacy Policy was last updated November 5th, 2009. 
