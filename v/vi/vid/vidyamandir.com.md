@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vidyamandir.com privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428060642id_/http%3A//www.vidyamandir.com/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidyamandir.com privacy policy that was archived on 2009-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091128072605id_/http%3A//www.vidyamandir.com/privacypolicy.jsp) for the most accurate reproduction.*
 
 # 
 
