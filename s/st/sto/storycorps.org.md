@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the storycorps.org privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531183553id_/http%3A//storycorps.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storycorps.org privacy policy that was archived on 2009-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091128124305id_/http%3A//www.storycorps.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | StoryCorps
 
 ##  Privacy Policy  
 
 
-Last updated January 29, 2008 
+Last updated November 16, 2009 
 
 StoryCorps values your participation in our community, both online and offline, and assure you that your privacy is a priority to us. The StoryCorps website adheres to a strict policy for ensuring your privacy and preserving the integrity of this online medium. 
 
-###  Visiting storycorps.net:  
+###  Visiting storycorps.org:  
 
 
-When you visit our site, our web server (like all other web servers) automatically recognizes your IP address, what browser you are using and certain other information (such as the date and time of your visit and a list of files downloaded or viewed). Our web server does not automatically collect personally identifiable information, such as your name or address. We use the information that is collected automatically by our web server to analyze how traffic flows at storycorps.net, but no one can contact or identify you from this information. 
+When you visit our site, our web server (like all other web servers) automatically recognizes your IP address, what browser you are using and certain other information (such as the date and time of your visit and a list of files downloaded or viewed). Our web server does not automatically collect personally identifiable information, such as your name or address. We use the information that is collected automatically by our web server to analyze how traffic flows at storycorps.org, but no one can contact or identify you from this information. 
 
 ###  Cookies:  
 
@@ -45,7 +45,7 @@ StoryCorps will ask you to provide the information necessary to process and serv
 ###  Comments/Discussion Board Participation:  
 
 
-StoryCorps reserves the right to collect the email addresses of those who post comments, messages to our bulletin board, inquiries and other information volunteered by the user, such as survey information and/or site registrations. The information we collect is to ensure compliance with Discussion Board rules (see our [Terms of Service](http://www.storycorps.net/terms-of-service) for more information) but is never shared with other organizations. 
+StoryCorps reserves the right to collect the email addresses of those who post comments, messages to our bulletin board, inquiries and other information volunteered by the user, such as survey information and/or site registrations. The information we collect is to ensure compliance with Discussion Board rules (see our [Terms of Service](http://www.storycorps.org/terms-of-service) for more information) but is never shared with other organizations. 
 
 ###  Security:  
 
@@ -55,14 +55,14 @@ When you contribute to StoryCorps online, the information you provide is encrypt
 ###  Links:  
 
 
-storycorps.net contains links to a wide variety of websites, including some which may not follow the same privacy policies as StoryCorps. StoryCorps is not responsible for the privacy policies of those other sites or how they treat information about their users. Users who choose to follow links from storycorps.net, should make themselves familiar with target sites’ privacy policies. 
+storycorps.org contains links to a wide variety of websites, including some which may not follow the same privacy policies as StoryCorps. StoryCorps is not responsible for the privacy policies of those other sites or how they treat information about their users. Users who choose to follow links from storycorps.org, should make themselves familiar with target sites’ privacy policies. 
 
 ###  Changes to Privacy Policy:  
 
 
-By using this website, you are agreeing to the terms and conditions of this storycorps.net privacy policy. We may change, edit, remove or add sections of this policy at any time. StoryCorps will never use customer information for new, unanticipated uses not previously disclosed in our privacy notice without notifying users. If our information practices change at some time in the future we will post the policy changes to our Web site, attempt to notify you of these changes and provide you with the ability to opt out of these new uses. If you have additional questions about how your personal information may be used or if you have questions or comments about our privacy policy, please contact us by using our online Inquiries form. 
+By using this website, you are agreeing to the terms and conditions of this storycorps.org privacy policy. We may change, edit, remove or add sections of this policy at any time. StoryCorps will never use customer information for new, unanticipated uses not previously disclosed in our privacy notice without notifying users. If our information practices change at some time in the future we will post the policy changes to our Web site, attempt to notify you of these changes and provide you with the ability to opt out of these new uses. If you have additional questions about how your personal information may be used or if you have questions or comments about our privacy policy, please contact us by using our online Inquiries form. 
 
 ###  Terms of Service  
 
 
-Please also make sure to read storycorps.net’s [Terms of Service](http://www.storycorps.net/terms-of-service) to understand the additional terms and conditions which apply to your use of our website.
+Please also make sure to read storycorps.org’s [Terms of Service](http://www.storycorps.org/terms-of-service) to understand the additional terms and conditions which apply to your use of our website.
