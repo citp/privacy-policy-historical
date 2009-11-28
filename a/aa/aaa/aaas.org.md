@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aaas.org privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617183424id_/http%3A//www.aaas.org/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aaas.org privacy policy that was archived on 2009-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091128081225id_/http%3A//www.aaas.org/privacy.shtml) for the most accurate reproduction.*
 
 # AAAS - Privacy Policy
 
@@ -12,7 +12,7 @@ The AAAS Web site is maintained by the American Association for the Advancement 
 
 ##### Privacy Policy
 
-This Privacy Policy describes how administrators of the AAAS Web site collect and use the information that users may decide to share. The policy is intended to allow site visitors to make informed decisions when using the Web site, located at www.AAAS.org, and its directly associated domains (collectively, "AAAS" or "Web site"). By using or accessing www.AAAS.org, you accept the practices described in this Privacy Policy.
+This Privacy Policy describes how administrators of the AAAS Web site collect and use the information that users may decide to share. The policy is intended to allow site visitors to make informed decisions when using the Web site, located at www.AAAS.org, and its directly associated domains (collectively, "AAAS" or "Web site"). By using or accessing www.AAAS.org, you accept the practices described in this Privacy Policy. The AAAS Employment Application Website (EAS), has its own Privacy Policy which is located at [http://www.aaas.org/go/privacy_employ/](http://www.aaas.org/go/privacy_employ/?sa_campaign=Internal_Ads/AAAS/legal_pages/2009-09-30/privacy/pan-aaas/).
 
 Questions regarding this statement should be directed to our privacy staff at [privacy@aaas.org](mailto:privacy@aaas.org?subject=Privacy%20policy%20statement).
 
@@ -24,7 +24,7 @@ The Association's Web sites generally do not require registration. For those sec
 
 When you enter AAAS Web sites, we collect your browser type and IP address. This information is gathered for all AAAS Web site users. In addition, we store certain information from your browser using "cookies." Cookies are pieces of data stored on a user's computer tied to information about that user. For example, we use session identification (ID) cookies to confirm that users are logged in. These cookies automatically terminate once the user closes the browser. By default, we use a persistent cookie that stores your login ID (but not your password) to make it easier for you to login when you come back to AAAS. You may block or remove this convenience feature through the settings in your Web browser.
 
-By using this Web site, you agree and acknowledge that your posting of user content (as defined in the AAAS [Terms of Use](https://web.archive.org/terms_of_use.shtml)) on the site is done solely at your own risk. We cannot control the actions of other users with whom you may choose to share information, nor can we guarantee that our security system will not ever be breached. We cannot and do not guarantee that user content you post on the site will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the site. You understand and acknowledge that, even after removal, copies of user content may remain viewable in cached and archived pages or if other users have copied or stored your user content.
+By using this Web site, you agree and acknowledge that your posting of user content (as defined in the AAAS [Terms of Use](https://web.archive.org/terms_of_use.shtml?sa_campaign=Internal_Ads/AAAS/legal_pages/2009-09-30/privacy/pan-aaas/)) on the site is done solely at your own risk. We cannot control the actions of other users with whom you may choose to share information, nor can we guarantee that our security system will not ever be breached. We cannot and do not guarantee that user content you post on the site will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the site. You understand and acknowledge that, even after removal, copies of user content may remain viewable in cached and archived pages or if other users have copied or stored your user content.
 
 Any improper collection or misuse of information provided on AAAS is a violation of the AAAS Terms of Use and should be reported to [privacy@aaas.org](mailto:privacy@aaas.org?subject=Improper%20collection%20or%20misue%20of%20information).
 
