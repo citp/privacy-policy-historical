@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statefarm.com privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526204224id_/http%3A//www.statefarm.com/about/privacy/privacy.asp%3FWT.svl%3D82) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statefarm.com privacy policy that was archived on 2009-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091128125052id_/http%3A//www.statefarm.com/about/privacy/privacy.asp%3FWT.svl%3D82) for the most accurate reproduction.*
 
 # Privacy Policies
 
