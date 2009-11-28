@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hulldailymail.co.uk privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619045948id_/http%3A//www.thisishullandeastriding.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hulldailymail.co.uk privacy policy that was archived on 2009-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091128084721id_/http%3A//www.thisishullandeastriding.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -51,6 +51,8 @@ You may refuse to accept cookies by activating the setting on your browser which
 Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site. 
 
 Please note that our advertisers and other third party partners may also use cookies, over which we have no control. 
+
+Advertisements on our site are provided by another organisation. Our advertising partner will serve ads that it believes are most likely to be of interest to you, based on information about your visit to this and other websites (this information is anonymous in that it does not include your name, street address, e-mail address or telephone number). In order to do this, our advertising partner may need to place a cookie (a small text file) on your computer. For more information about this type of online behavioural advertising, about cookies, and about how to turn this feature off, please visit [www.youronlinechoices.co.uk](http://www.youronlinechoices.co.uk/)
 
 We will ensure that your personal data will not be disclosed except insofar as you have consented to such disclosure or we are required to do so by law. 
 
