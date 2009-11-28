@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jambajuice.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515233700id_/http%3A//www.jambajuice.com/footer_nav/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jambajuice.com privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129003820id_/http%3A//www.jambajuice.com/footer_nav/privacy/index.html) for the most accurate reproduction.*
 
-# Privacy
+# Jamba Juice - Privacy
 
 Our Commitment to Privacy
 
