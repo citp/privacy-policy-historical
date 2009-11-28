@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the ingdirect.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217071203id_/http%3A//www.ingdirect.co.uk/general/privacypolicy.asp%3Fsection%3Dhome) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingdirect.co.uk privacy policy that was archived on 2009-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091128150420id_/http%3A//www.ingdirect.co.uk/home/privacypolicy.asp%3Fsection%3Dhome) for the most accurate reproduction.*
 
-# ING Direct > Home > Privacy Policy
+# Privacy Policy > About ING Direct > ING Direct
 
-**The privacy of our website users is important to us and we take care to safeguard it. This policy explains how we use the personal information we hold about you.**
+The privacy of our website users is important to us and we take care to safeguard it. This policy explains how we use the personal information we hold about you. Click on the links below to navigate to the relevant section
 
 **Important information**
 
 Queries 
 
-If you have privacy questions which are not answered by this Website Privacy Policy or any other concerns about how we use your personal information, please write to us or contact Customer Services on 
-
-0845 603 8888. 
+If you have privacy questions which are not answered by this Website Privacy Policy or any other concerns about how we use your personal information, please write to us or contact Customer Services on **0845 603 8888.**
 
 Changes 
 
@@ -20,9 +18,9 @@ Processing applications and providing services to you
 
 If you apply for or use our products, we will also use your personal information in accordance with the following: 
 
-  * [ING Direct Savings and Your Personal Information](https://web.archive.org/savings/savings_fpn.pdf)
-  * [ING Direct Insurance and Your Personal Information](https://web.archive.org/homeinsurance/personal_info.pdf)
-  * [ING Direct Mortgages and Your Personal Information](https://web.archive.org/mortgages/personal_info.pdf)
+  * [ING Direct Savings and Your Personal Information](https://web.archive.org/home/tandc/savings_fpn.pdf "ING Direct Savings and Your Personal Information")
+  * [ING Direct Insurance and Your Personal Information](https://web.archive.org/home/tandc/personal_info.pdf "ING Direct Insurance and Your Personal Information")
+  * [ING Direct Mortgages and Your Personal Information](https://web.archive.org/home/tandc/personal_info_mortgage.pdf "ING Direct Mortgages and Your Personal Information")
 
 
 
@@ -97,31 +95,28 @@ Other websites
 
 This privacy policy is only intended to cover personal data collected through this website.  While we carefully select the websites which we link to, we are not responsible for the privacy practices or the contents of these websites. 
 
+Links to third party websites on the ING Direct Website are provided solely for your convenience. If you use these links, you leave the ING Direct Website. ING Direct has no control over the content of these websites or resources, or their availability, and ING Direct accepts no responsibility for them or for any loss or damage which may arise from your use of them. If you decide to access any of the third party websites linked to the ING Direct Website, you do so entirely at your own risk.
+
 Your rights 
 
 Access 
 
 You have a right to receive a copy of certain information we hold about you if you apply in writing.  To do this, simply write to us at 
 
-Data Protection Officer 
-
-ING Direct 
-
-410 Thames Valley Park Drive 
-
-Reading 
-
-Berkshire 
-
+Data Protection Officer   
+ING Direct   
+410 Thames Valley Park Drive   
+Reading   
+Berkshire   
 RG6 1RH 
 
 You may need to pay a fee. 
 
 Marketing 
 
-Occasionally, we may want to tell you about ING Direct products and services which may be of interest to you. This could be by letter, phone, mobile phone (including text messages) and e-mail.  You have a right to stop us contacting you for this purpose. You may **[contact us](https://web.archive.org/general/contactus/?section=home) **at any time in the future if you want us to stop.  However, choosing not to receive this information from us will mean that you may not receive details about any of our special offers and promotions. 
+Occasionally, we may want to tell you about ING Direct products and services which may be of interest to you. This could be by letter, phone, mobile phone (including text messages) and e-mail.  You have a right to stop us contacting you for this purpose. You may **[contact us](https://web.archive.org/home/contactus.asp "Contact us") **at any time in the future if you want us to stop.  However, choosing not to receive this information from us will mean that you may not receive details about any of our special offers and promotions. 
 
-By clicking [here](http://optout.doubleclick.net/cgi-bin/dclk/optout.pl) , you can also obtain an 'opt out' cookie that will prevent your information from being used to target our adverts on other websites. 
+By clicking [here](http://optout.doubleclick.net/cgi-bin/dclk/optout.pl "Double Click website") , you can also obtain an 'opt out' cookie that will prevent your information from being used to target our adverts on other websites. 
 
 Correction of information 
 
@@ -138,16 +133,16 @@ You can set your Web browser to reject cookies used by this site.  Please note 
 
 Web Beacons
 
-Web beacons are small strings of HTML code placed on a web page, sometimes referred to as ‘Clear GIF’s’ or ‘Pixel tags’. Web beacons are most often used in conjunction with cookies. 
+Web beacons are small strings of HTML code placed on a web page, sometimes referred to as ‘Clear GIF's' or ‘Pixel tags'. Web beacons are most often used in conjunction with cookies. 
 
 ING Direct uses web beacons, provided by a company called Doubleclick in conjunction with its products and services, including ad serving and paid search listings. 
 
 In order to opt out of the doubleclick cookie, please visit <http://www.doubleclick.com/privacy/opting_out.aspx>
 
-For more information about cookies (including how to set your browser to reject cookies) please visit the website set up by the Interactive Advertising Bureau (Europe) at **[www.allaboutcookies.org](http://www.allaboutcookies.org/)**. 
+For more information about cookies (including how to set your browser to reject cookies) please visit the website set up by the Interactive Advertising Bureau (Europe) at **[www.allaboutcookies.org](http://www.allaboutcookies.org/ "All about cookies website")**. 
 
 **More information**
 
-Detailed information about your rights under UK Data Protection legislation can be found on the website of the United Kingdom Information Commissioner, [www.ico.gov.uk/](http://www.ico.gov.uk/) (at the date of this privacy policy). The telephone number of the Information Commissioner’s Office is 01625 545 700 (or (44) 1625 545 700 if phoning from outside the United Kingdom.) 
+Detailed information about your rights under UK Data Protection legislation can be found on the website of the United Kingdom Information Commissioner, [www.ico.gov.uk/](http://www.ico.gov.uk/ "Information Commissioner website") (at the date of this privacy policy). The telephone number of the Information Commissioner’s Office is 01625 545 700 (or (44) 1625 545 700 if phoning from outside the United Kingdom.) 
 
 Last updated: 28 November 2006 
