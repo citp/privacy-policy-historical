@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moody.edu privacy policy that was archived on 2008-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080604182922id_/http%3A//www.moodyministries.net/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moody.edu privacy policy that was archived on 2009-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091128191847id_/http%3A//www.moody.edu/edu_MainPage.aspx%3Fid%3D21774) for the most accurate reproduction.*
 
-# Privacy Policy
+# Window | Title
 
 The following is a statement of the Moody Bible Institute's (MBI) general policies for the use of visitor information collected through our Websites. Some areas may have specific policies regarding the privacy of user-provided information and may contain exceptions to this statement. Consult the statement posted under that area's webpage for the appropriate information.
 
