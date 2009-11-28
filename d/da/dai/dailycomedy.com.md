@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailycomedy.com privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527021000id_/http%3A//dailycomedy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailycomedy.com privacy policy that was archived on 2009-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091128083037id_/http%3A//www.dailycomedy.com/privacy) for the most accurate reproduction.*
 
 # DailyComedy.com | Privacy Policy
 
