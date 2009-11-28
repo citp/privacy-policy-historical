@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the megabuy.com.au privacy policy that was archived on 2008-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080924183128id_/http%3A//www.megabuy.com.au/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megabuy.com.au privacy policy that was archived on 2009-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091128083135id_/http%3A//www.megabuy.com.au/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy @ MegaBuy
+# Privacy Policy | MegaBuy Online Computer Shop
 
 At MegaBuy Technology Superstore your privacy is our priority. We are committed to protecting your privacy at all times and in all situations. The information we collect about you when you become a member is used to process your orders and to provide a more personalised experience on our website. Our website uses 128 bit encryption in areas of the website where personal information is collected or displayed to increase the security of any information transmitted between your computer and our website. However, please note that we cannot guarantee complete security of all stored information, although, we do everything in our power to ensure that all information is secure.
 
