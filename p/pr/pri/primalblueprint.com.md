@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the primalblueprint.com privacy policy that was archived on 2009-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090520190451id_/http%3A//primalblueprint.com/privacy.html%3FKeepThis%3Dtrue%26TB_iframe%3Dtrue%26height%3D600%26width%3D700) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primalblueprint.com privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129001451id_/http%3A//primalblueprint.com/privacy.html%3FKeepThis%3Dtrue%26TB_iframe%3Dtrue%26height%3D600%26width%3D700) for the most accurate reproduction.*
 
 # PrimalBlueprint
 
@@ -30,4 +30,4 @@ We provide complete physical, electronic and procedural security steps that comp
 
 From time to time, we may modify our policy. We will always inform you of any changes by contacting you via the email address you have given us.
 
-If you have any questions, please feel free to ask us by [clicking here](https://web.archive.org/web/20090520190451id_/http%3A//primalblueprint.com/contact.html).
+If you have any questions, please feel free to ask us by [clicking here](https://web.archive.org/web/20091129001451id_/http%3A//primalblueprint.com/contact.html).
