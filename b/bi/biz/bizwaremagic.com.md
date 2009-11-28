@@ -1,11 +1,23 @@
-> *The following text is extracted and transformed from the bizwaremagic.com privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413022026id_/http%3A//www.bizwaremagic.com/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizwaremagic.com privacy policy that was archived on 2009-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091128162528id_/http%3A//www.bizwaremagic.com/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
 |  |     **Privacy Policy**
     
     
-    Privacy Policy
+    
+    
+    
+    
+    Preamble
+    
+    BizwareMagic.com understands that you may have concerns about safeguarding
+    your privacy on-line. The Privacy Statement that follows explains our views and
+    practices concerning privacy, and how they may pertain to you as you make full
+    use of our many offerings. This statement discloses the privacy practices for all
+    of our websites including the website you are currently visiting where you are
+    reading this Privacy Policy.
+    
     
     BizwareMagic.com, respects the privacy of all its users. The privacy policies 
     below are in effect for the BizwareMagic website and newsletters or ezines. 
@@ -26,7 +38,7 @@
     We don't knowingly collect personal information from children under the age of 13. 
     If we learn that we have personal information on a child under the age of 13, it
     will be deleted from our systems. This site is of little interest to children and
-    this should not be a problem. However, if any parent or guardian has any concerns 
+    this issue should not be a problem. However, if any parent or guardian has any concerns 
     they may contact this site to get any such details removed immediately.
     contact (at) bizwaremagic.com
     
@@ -54,6 +66,27 @@
     Opt-Out
     If, at any time, you wish to be removed from the BizwareMagic Newsletters, 
     you can use the removal link that's placed in every email.
+    
+    
+    
+    Contacting This Website
+    
+    If you have any questions about this privacy statement, the practices of this
+    site, or your dealings with this website, you can contact:
+    
+    contact (at) bizwaremagic.com
+    
+    
+    [](https://www.sitecompliant.com/siteseal/learnmore.php?a_aid=webmaster@bizwaremagic.com)
+    
+    
+    [www.bizwaremagic.com](http://www.bizwaremagic.com/)
+    
+    
+    
+    
+    
+    
     
 
 
