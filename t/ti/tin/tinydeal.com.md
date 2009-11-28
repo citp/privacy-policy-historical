@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tinydeal.com privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529212839id_/http%3A//shop.tinydeal.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinydeal.com privacy policy that was archived on 2009-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091128125535id_/http%3A//www.tinydeal.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Notice : TinyDeal Direct Online Store, MP4/MP3 Player, Mobile Phone, Memory Card, Accessories
 
