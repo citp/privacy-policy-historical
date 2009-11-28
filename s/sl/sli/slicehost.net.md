@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slicehost.net privacy policy that was archived on 2009-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090606022357id_/http%3A//www.slicehost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slicehost.net privacy policy that was archived on 2009-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091128075122id_/http%3A//www.slicehost.com/privacy) for the most accurate reproduction.*
 
 # Slicehost Privacy Policy // Slicehost - VPS Hosting
 
