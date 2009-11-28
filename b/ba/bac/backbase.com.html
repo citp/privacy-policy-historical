@@ -1,178 +1,240 @@
-<!--The following is the downloaded HTML source of the backbase.com privacy policy that was archived on 2009-06-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090612031408id_/http%3A//www.backbase.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the backbase.com privacy policy that was archived on 2009-11-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091128091140id_/http%3A//www.backbase.com/legal/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:b="http://www.backbase.com/b" xmlns:s="http://www.backbase.com/s"><head>
-		<title>Backbase Enterprise AJAX Software</title>
-		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-		<script type="text/javascript">
-			function selectListItem(id, topic) {
-				var menu = document.getElementById(id);
-				var elements = menu.getElementsByTagName('*');
-				var ancestor;
-				for (var i=0; i<elements.length; i++) {
-					if (elements[i].nodeType == 1 && elements[i].title == topic) {
-						if (elements[i].nodeName == 'A') {
-							elements[i].className = 'selected';
-						} else {
-							ancestor = elements[i];
-							while (ancestor.nodeName != 'LI') { ancestor = ancestor.parentNode }
-							ancestor.className = 'selected';
-						}
-					}
-				}
-			}
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title>Backbase - Privacy</title>
+		
+		<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"> 
 
-			sfHover = function() {
-				var sfEls = document.getElementById("menu").getElementsByTagName("LI");
-				for (var i=0; i<sfEls.length; i++) {
-					sfEls[i].onmouseover=function() {
-						this.className+=" sfhover";
-					}
-					sfEls[i].onmouseout=function() {
-						this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
-					}
-				}
-			}
-			if (window.attachEvent) window.attachEvent("onload", sfHover);
+<base href="http://www.backbase.com/">
 
-			// centerpiece tabs
-			function tab_select(self) {
-				if (self.id == "ria") {
-					document.getElementById("centerpiece").style.backgroundPosition = "0 0";
-					document.getElementById("ria-tab").style.display = "block";
-					document.getElementById("enterprise-tab").style.display = "none";
-					document.getElementById("consulting-tab").style.display = "none";
-				}
-				if (self.id == "enterprise") {
-					document.getElementById("centerpiece").style.backgroundPosition = "0 -400px";
-					document.getElementById("ria-tab").style.display = "none";
-					document.getElementById("enterprise-tab").style.display = "block";
-					document.getElementById("consulting-tab").style.display = "none";
-				}
-				if (self.id == "consulting") {
-					document.getElementById("centerpiece").style.backgroundPosition = "0 -800px";
-					document.getElementById("ria-tab").style.display = "none";
-					document.getElementById("enterprise-tab").style.display = "none";
-					document.getElementById("consulting-tab").style.display = "block";
-				}
-			}
-			
-		</script>
-		<link rel="stylesheet" xhref="/css/site.css" href="http://images.backbase.com/css/site.css" type="text/css">
+<link rel="stylesheet" href="shared/css/reset.css" type="text/css">
+<link rel="stylesheet" href="shared/css/components.css" type="text/css">
+<link rel="stylesheet" href="shared/css/style.css" type="text/css">
+
+<!--[if IE]>
+	<link rel="stylesheet" href="shared/css/ie.css" type="text/css" />
+<![endif]-->
+
+<script type="text/javascript" src="Backbase/4_3_1/engine/boot.js"></script>
+<script src="shared/js/site.js" type="text/javascript"></script>
+
+
+<!-- FORMASSEMBLY: HEAD SECTION -->
+<link rel="stylesheet" href="shared/css/formAssembly.css" type="text/css">
+<script type="text/javascript" src="http://download.backbase.com/forms/includes/wforms.js"></script>
+<script type="text/javascript" src="http://download.backbase.com/forms/includes/wforms_custom_validation.js"></script>
+<script type="text/javascript" src="http://download.backbase.com/forms/includes/populate_form.js"></script>
+<!-- END FORMASSEMBLY: HEAD SECTION -->
+
 
 	</head>
-	<!--body onload="bpc.boot();" b:htmlentities="true"-->
-	<body>
-		<div id="container">
-			<div id="header">
-				
-				<a href="/" class="logo">Backbase :: The Ajax Company</a>
-
-				<div id="devmenu">
-					<a style="text-decoration:underline;" href="http://bdn.backbase.com" title="Developer Network">Developer Network</a>
-					<!--| <a href="http://www.backbase.com/download" title="Download">Download</a>  |  
-					<a href="http://bdn.backbase.com/forum" title="Forums">Forums</a>  |  
-					<a href="http://www.backbase.com/products/ajax_demos/" title="Demos">Demos</a>  |  
-					<a href="http://bdn.backbase.com" title="Articles">Articles</a>-->
-				</div>
-			</div>
-			<div>
-				<ul id="menu">
-					<li class="left"></li>
-					<li title="Home"><a href="/" title="">Home</a></li>
-					<li title="Products"><a title="Products" href="/products/overview/">Products</a>
-						<ul class="dropmenu">
-							<div class="menu-background"></div>
-							<li><a class="first" href="/products/overview/" title="Overview">Overview</a></li>
-							
-							<li><a href="/products/ajax-applications/rich-portal/" title="Rich Portal">Rich Portal</a></li>
-							<li><a href="/products/ajax-applications/rich-forms/" title="Rich Forms &amp; Calculators">Rich Forms &amp; Calculators</a></li>
-							<li><a href="/products/ajax-applications/product-finder/" title="Rich PRoduct Finder">Rich Product Finder</a></li>
-							<li><a href="/products/ajax-applications/cobrowse/" title="Co-Browse &amp; Chat">Co-Browse &amp; Chat</a></li>
-							<li><a href="/products/enterprise-ajax/overview/" title="Enterprise Ajax">Enterprise Ajax Framework</a></li>
-							<!--<li><a href="/products/visual-ajax-builder/" title="Visual Ajax Builder">Visual Ajax Builder</a></li>
-							<li><a href="/products/ajax-applications/customer-engagement/" title="Rich Applications">Rich Applications</a></li> --> 
-						</ul>
-					</li>
+	<body id="body">
+		<div class="mainBackground">
+			<div class="mainContainer" id="mainContainer">
+			<div class="mainHeader">
+	<div class="mainLogo"><a href="http://www.backbase.com" class="backbase-logo" id="mainLogo"></a></div>
+	<div class="phe-foldoutMenu" id="mainMenu">
+		<ul style="z-index:10;">
+			<li class="phe-foldoutMenu-item" modulename="home">
+				<a class="phe-foldoutMenu-head" href="./">Home</a>
+			</li>
+			<li class="phe-foldoutMenu-item" modulename="products">
+			<a href="products/" class="phe-foldoutMenu-head">Products</a>
+				<div class="phe-foldoutMenu-body">
+					<ul>
+						<li class="phe-foldoutMenu-subItem">
+							<a href="products/" class="phe-fouldoutMenu-subLink">Overview</a>
+							<div class="description txtIntro">
+								Backbase Customer Experience Management (CEM) software suite
+							</div>
+						</li>
+						<li class="phe-foldoutMenu-subItem">
+							<a href="products/rich-portal" class="phe-fouldoutMenu-subLink">Rich Portal</a>
+							<div class="description txtIntro">
+								Next generation Portal solution to delight your Customers and achieve your Business Goals without re-engineering your IT Systems
+							</div>
+						</li>
+						<li class="phe-foldoutMenu-subItem">
+							<a href="products/rich-forms" class="phe-fouldoutMenu-subLink">Rich Forms &amp; Calculators</a>
+							<div class="description txtIntro">
+								Create and manage web forms that are extremely user-friendly and maximize online conversion
+							</div>
+						</li>
+						<li class="phe-foldoutMenu-subItem">
+							<a href="products/product-finder" class="phe-fouldoutMenu-subLink">Rich Product Finder</a>
+							<div class="description txtIntro">
+								Allow your customers to quickly search and filter through an extensive product catalog
+							</div>
+						</li>
+						<li class="phe-foldoutMenu-subItem">
+							<a href="products/cobrowse-chat" class="phe-fouldoutMenu-subLink">Co-Browse &amp; Chat</a>
+							<div class="description txtIntro">
+								Provide real-time assistance to customers that need help and increase conversion and issue resolution
+							</div>
+						</li>
+						<li class="phe-foldoutMenu-subItem">
+							<a href="products/enterprise-ajax" class="phe-fouldoutMenu-subLink">Enterprise Framework</a>
+							<div class="description txtIntro">
+								Backbase Enterprise Ajax Framework is a robust and comprehensive Ajax engine that transforms any web browser into a rich presentation environment.
+							</div>
+						</li>
+					</ul>
 					
-					<li title="Services"><a title="Services" href="/services/expertServicesOverview">Services</a>
-						<ul class="dropmenu">
-							<div class="menu-background"></div>
-							<li><a class="first" href="/services/expertServicesOverview" title="Expert Services Overview">Overview</a></li> 
-							<li><a href="/services/userExperienceDesign" title="User Experience Design">UX Design</a></li> 
-							<li><a href="/services/RIAAjaxDevelopment" title="RIA &amp; Ajax Development">Ajax Engineering</a></li> 
-							<li><a href="/services/BackbaseProductTraining" title="Backbase Product Training">Training</a></li> 
-							<li><a href="/services/support" title="Backbase Product Support">Support</a></li> 
-						</ul>
-					</li>
-					<li title="News"><a title="News &amp; Events" href="/news/news/">News &amp; Events</a>
-						<ul class="dropmenu">
-							<div class="menu-background"></div>
-							<li><a class="first" href="/news/news/" title="News">News</a></li> 
-							<li><a href="/news/events/" title="Events">Events</a></li> 
-							<li><a href="/news/webinars/" title="Webinars">Webinars</a></li> 
-							<li><a href="/news/analysts/" title="Analyst Coverage">Analyst Coverage</a></li> 
-						</ul>
-					</li>
-					<li title="Company"><a title="Company" href="/company/about/" class="selected">Company</a>
-						<ul class="dropmenu">
-							<div class="menu-background"></div>
-							<li><a class="first" href="/company/about/" title="About Us">About Us</a></li> 
-							<li><a href="/company/management/" title="Management">Management</a></li> 
-							<li><a href="/company/customers/" title="Careers">Customers</a></li> 
-							<li><a href="/company/partners/strategic/" title="Partners">Partners</a></li> 
-							<!--<li><a href="/company/offices/" title="Office Locations">Office Locations</a></li> -->
-							<li><a href="/company/careers/" title="Careers">Careers</a></li> 
-							<!--<li><a href="/company/contact/" title="Contact Us">Contact Us</a></li> -->
-						</ul>
-					</li>
-					<li title="Contact"><a title="Contact" href="/company/contact/">Contact Us</a></li>
-					<li class="right"></li>
-				</ul>
-			</div>
-			<div id="main" class="clearfix">
-				<div id="navigation">&nbsp;</div>
-				<div id="content">
-					<h1>Privacy</h1>
-					<div class="content2">
-						<div class="description">
-							<p>A large part of the Backbase Site is accessible without telling us who you are or giving
+				</div>
+			</li>
+			
+			<li class="phe-foldoutMenu-item" modulename="services">
+			 <a href="services" class="phe-foldoutMenu-head">Services</a>
+				<div class="phe-foldoutMenu-body">
+					<ul>
+						<li class="phe-foldoutMenu-subItem">
+							<a href="services" class="phe-fouldoutMenu-subLink">Overview</a>
+							<div class="description txtIntro">
+								Overview of Backbase's Expert Services to enable, facilitate and deliver successful projects
+							</div>
+						</li>
+						<li class="phe-foldoutMenu-subItem">
+							<a href="services/project-methodology/" class="phe-fouldoutMenu-subLink">PROJECT METHODOLOGY</a>
+							<div class="description txtIntro">
+								Project. Delivered.
+							</div>
+						</li>
+						<li class="phe-foldoutMenu-subItem">
+							<a href="services/user-experience-design/" class="phe-fouldoutMenu-subLink">UX Design</a>
+							<div class="description txtIntro">
+								User Experience Design Team
+							</div>
+						</li>
+						<li class="phe-foldoutMenu-subItem">
+							<a href="services/user-experience-engineering/" class="phe-fouldoutMenu-subLink">UX Engineering</a>				
+							<div class="description txtIntro">
+								User Experience Engineering Team
+							</div>
+						</li>
+						<li class="phe-foldoutMenu-subItem">
+							<a href="services/training/" class="phe-fouldoutMenu-subLink">Training</a>
+							<div class="description txtIntro">
+								Backbase Product Training
+							</div>
+						</li>
+						<li class="phe-foldoutMenu-subItem">
+							<a href="services/support/" class="phe-fouldoutMenu-subLink">Support</a>
+							<div class="description txtIntro">
+								Backbase 24/7 support
+								</div>
+						</li>
+					</ul>
+					
+				</div>
+			</li>
+			
+			
+			<li class="phe-foldoutMenu-item" modulename="company">
+				<a href="company/?content=overview" class="phe-foldoutMenu-head">Company</a>
+				<div class="phe-foldoutMenu-body">
+					<ul>
+						<li class="phe-foldoutMenu-subItem">
+							<a href="company/?content=overview" class="phe-fouldoutMenu-subLink">About us</a>
+							<div class="description txtIntro">
+								The company Backbase
+							</div>
+						</li>
+						<li class="phe-foldoutMenu-subItem">
+							<a href="company/?content=life-at-bb" class="phe-fouldoutMenu-subLink">Life@BB</a>
+							<div class="description txtIntro">
+								The people of Backbase
+							</div>
+						</li>
+						<li class="phe-foldoutMenu-subItem">
+							<a href="company/?content=customers" class="phe-fouldoutMenu-subLink">Customers</a>
+							<div class="description txtIntro">
+								The customers of Backbase
+							</div>
+						</li>
+						<li class="phe-foldoutMenu-subItem">
+							<a href="company/?content=partners" class="phe-fouldoutMenu-subLink">Partners</a>
+							<div class="description txtIntro">
+								The partners of Backbase
+							</div>
+						</li>
+						<li class="phe-foldoutMenu-subItem">
+							<a href="company/?content=careers" class="phe-fouldoutMenu-subLink">Careers</a>
+							<div class="description txtIntro">
+								Vacancies at Backbase in The Netherlands and USA
+							</div>
+						</li>
+						<li class="phe-foldoutMenu-subItem">
+							<a href="company/?content=news-and-events" class="phe-fouldoutMenu-subLink">News and Events</a>
+							<div class="description txtIntro">
+								News items and past and future events of Backbase
+								</div>
+						</li>
+					</ul>
+					
+				</div>
+			</li>
+			
+			<li class="phe-foldoutMenu-item" modulename="contact">
+				<a href="contact" class="phe-foldoutMenu-head">Contact Us</a>
+			</li>
+			<li class="phe-foldoutMenu-item devNetwork">
+				<span class="phe-foldoutMenu-head"><a href="http://bdn.backbase.com/">Enter the Developer Network</a></span>
+			</li>
+		</ul>
+		<div class="phe-foldoutMenu-expander"></div>
+		<div class="phe-foldoutMenu-bottom"></div>
+	</div>
+</div>
+
+				<div class="mainTop"></div>
+				<div class="mainCenter">
+					<div class="section">
+						<div class="tableContent1col">
+							<div class="roundedBox">
+								<div class="header">
+									<div></div>
+								</div>
+								<div class="content">
+									<!--start content here-->
+									<h2>Privacy</h2>
+							<p class="txtIntro">A large part of the Backbase Site is accessible without telling us who you are or giving
 								us personal information. We are collecting information in web server log files, but
 								this is anonymous and will only be used for statistical purposes.</p>
-						
 							<h3>Collection of Personal Information</h3>
 							<p>We may need more information from you in the following cases:</p>
-							<ul>
-								<li>You want to download certain types of information such as whitepapers or
-									price information</li>
-								<li>You are contacting us with a question, request for more information, remark
-									or other type of feedback</li>
-								<li>You are a developer working with Backbase software, and you would like
-									access to the Developers section of the Site</li>
-								<li>You would like access to the Backbase Discussion Forum</li>
-								<li>You are a Backbase Partner, and you would like to access partner-only
-									information</li>
-								<li>You are submitting a job application</li>
-								<li>You are submitting an order via our Site</li>
+							<ul class="txtIntro  skinList">
+								<li><span>You want to download certain types of information such as whitepapers or
+									price information</span></li>
+								<li><span>You are contacting us with a question, request for more information, remark
+									or other type of feedback</span></li>
+								<li><span>You are a developer working with Backbase software, and you would like
+									access to the Developers section of the Site</span></li>
+								<li><span>You would like access to the Backbase Discussion Forum</span></li>
+								<li><span>You are a Backbase Partner, and you would like to access partner-only
+									information</span></li>
+								<li><span>You are submitting a job application</span></li>
+								<li><span>You are submitting an order via our Site</span></li>
 							</ul>
 
 							<h3>Use of Personal Information</h3>
 							<p>Backbase can use personal information:</p>
-							<ul>
-								<li>To contact you regarding an order, question, request or remark or any other
-									type of feedback that you submitted.</li>
-								<li>To fulfill your requests by us or by others involved in fulfillment; others
+							<ul class="txtIntro  skinList">
+								<li><span>To contact you regarding an order, question, request or remark or any other
+									type of feedback that you submitted.</span></li>
+								<li><span>To fulfill your requests by us or by others involved in fulfillment; others
 									are prohibited from using that information for any other purpose than the
-									fulfillment.</li>
-								<li>To contact you for marketing purposes: third parties are not allowed to use
-									your personal information for marketing purposes</li>
-								<li>To contact you for market research or customer satisfaction surveys</li>
-								<li>To compile statistical reports on the usage of our website (e.g. anonymous
-									clickstream data)</li>
-								<li>To develop our business relationship if you represent a Backbase
-									Partner</li>
-								<li>To display your name in messages that you post to the Backbase Discussion
-									Forum</li>
+									fulfillment.</span></li>
+								<li><span>To contact you for marketing purposes: third parties are not allowed to use
+									your personal information for marketing purposes.</span></li>
+								<li><span>To contact you for market research or customer satisfaction surveys</span></li>
+								<li><span>To compile statistical reports on the usage of our website (e.g. anonymous
+									clickstream data)</span></li>
+								<li><span>To develop our business relationship if you represent a Backbase
+									Partner</span></li>
+								<li><span>To display your name in messages that you post to the Backbase Discussion
+									Forum</span></li>
 							</ul>
 
 							<h3>Product Activation</h3>
@@ -182,96 +244,144 @@
 								activation data with registration data.</p>
 
 							<h3>Your preferences</h3>
-							<p>You can indicate that you don’t wish to be contacted for marketing purposes and we
-								will respect your wishes. To do so, send an e-mail to <a href="mailto:privacy@backbase.com">privacy@backbase.com</a>.</p>
+							<p>You can indicate that you don't wish to be contacted for marketing purposes and we
+								will respect your wishes. To do so, send an e-mail to <a href="mailto:privacy@backbase.com" class="txtLink">privacy@backbase.com</a>.</p>
 
 							<h3>Contact Information</h3>
 							<p>
-								Backbase B.V.<br>
-								Privacy Department<br>
-								Stephensonstraat 19<br>
-								1097 BA Amsterdam<br>
-								The Netherlands<br>
-								<a href="mailto:privacy@backbase.com">privacy@backbase.com</a>
+								INIT Building - Het Ei<br>
+Jacob Bontiusplaats 9<br>
+1018 LL Amsterdam - NL <br>
+								<a href="mailto:privacy@backbase.com" class="txtLink">privacy@backbase.com</a>
 							</p>
-						</div>
 
-						<div class="promotion">
-							<div class="section">
-								<div class="title">Next Steps</div>
-								<a href="/news/webinars/">
-									<div class="webinar item">Attend Webinar</div>
-								</a>
-								<div class="separator"></div>
-								<a href="http://www.backbase.com/download">
-									<div class="download item">Download Now</div>
-								</a>
-								<div class="separator"></div>
-								<a href="/company/contact/">
-									<div class="contact item">Contact Sales</div>
-								</a>
-								<div class="separator"></div>
-							</div>
-
-							<div class="section">
-								<div class="title">
-									<img src="http://images.backbase.com/gfx/webinar.gif" alt="icon" style="float:left;margin-right:7px;margin-top:7px;">
-									<a style="color:#333333;" href="/news/webinars/">
-									Ajax Webinars</a></div>
-								<div class="body">
-									Backbase has created several educational webinars that show how to benefit from AJAX.
+									<!--end content here-->
 								</div>
-								<a href="/news/webinars/">
-									<div class="link">View Webinars&nbsp;»</div>
-								</a>
-								<div class="separator"></div>
-							</div>
- 							<div class="section">
-								<div class="title">
-									<img src="http://images.backbase.com/gfx/contactus2.gif" alt="icon" style="float:left;margin-right:7px;margin-top:7px;">
-									<a style="color:#333333;" href="/contact">
-									Contact Us</a></div>
-								<div class="body">
-								<strong>North America:</strong><br>
-								+1 866 800 8996<br>
-								<a href="mailto:sales-us@backbase.com">sales-us@backbase.com</a>
-								</div>
-								<div class="body">
-								<strong>EMEA:</strong><br>
-								+31 20 465 8888<br>
-								<a href="mailto:sales-eu@backbase.com">sales-eu@backbase.com</a>
-								</div>
-								<div class="separator"></div>
-							</div>
-							<div class="section">
-								<div class="quote">
-									<div class="text">
-										Pre-built Ajax widgets, cross-browser compatibility and the 
-										full support of the Backbase development team were the keys to our
-										selecting Backbase.”
-									</div>
-								</div>
-								<div class="source">
-									<div class="author">Robert Leerdam</div>
-									<div class="organization">MoneYou ABN AMRO</div>
-									<div class="jobposition">Project Manager</div>
+								<div class="footer">
+									<div></div>
 								</div>
 							</div>
-
 						</div>
 					</div>
-				</div>
 			</div>
-			<div class="clear"></div>	
-			<div id="footer">
-				<div class="legal">
-					© 2003-2009 Backbase
-					<a title="legal terms and conditions" href="/legal/">legal</a>
-					<a title="privacy policy" href="/privacy/" class="and">privacy</a>
-					<a title="contact the webmaster" href="mailto:website@backbase.com" class="and">webmaster</a>
-				</div>
-			</div>
-		
+			<div class="mainBottom">
+	<div id="menuLinks">
+		<div class="wrap">
+			<dl>
+				<dt style="margin-top: -10px;">&nbsp;</dt>
+				<dd class="highlight bbicon">
+					<a class="" href="./">HOME</a>
+				</dd>
+				<dd class="highlight">
+					<a href="contact">Contact</a>
+				</dd>
+				<dd class="highlight">
+					<a href="http://bdn.backbase.com/">Developer-Network</a>
+				</dd>
+			</dl>
+			<!-- <dl>
+				<dt>Solutions:</dt>
+				<dd>
+					<a href="http://www.backbase.com/products/enterprise-ajax/overview/">Financial Services</a>
+				</dd>
+				<dd>
+					<a href="http://www.backbase.com/products/ajax-applications/rich-portal/">Lorum Ipsum</a>
+				</dd>
+				<dd>
+					<a href="http://www.backbase.com/products/ajax-applications/rich-forms/">Other Solutions</a>
+				</dd>
+				<dd>
+					<a href="http://www.backbase.com/products/ajax-applications/product-finder/">More Solutions</a>
+				</dd>
+			</dl> -->
+			<dl>
+				<dt>Products:</dt>
+				<dd>
+					<a href="products/">Overview</a>
+				</dd>
+				<dd>
+					<a href="products/rich-portal">Rich Portal</a>
+				</dd>
+				<dd>
+					<a href="products/rich-forms">Rich Forms &amp; Calculators</a>
+				</dd>
+				<dd>
+					<a href="products/product-finder">Rich Product Finder</a>
+				</dd>
+				<dd>
+					<a href="products/cobrowse-chat">Co-Browse &amp; Chat</a>
+				</dd>
+				<dd>
+					<a href="products/enterprise-ajax">Enterprise Framework</a>
+				</dd>
+			</dl>
+			<dl>
+				<dt>Services:</dt>
+				<dd>
+					<a href="services/overview/">Overview</a>
+				</dd>
+				<dd>
+					<a href="services/project-methodology/">PROJECT METHODOLOGY</a>
+				</dd>
+				<dd>
+					<a href="services/user-experience-design/">UX Design</a>
+				</dd>
+				<dd>
+					<a href="services/user-experience-engineering/">UX Engineering</a>				
+				</dd>
+				<dd>
+					<a href="services/training/">Training</a>
+				</dd>
+				<dd>
+					<a href="services/support/">Support</a>
+				</dd>
+			</dl>
+
+			<!--<dl>
+	    		<dt>News:</dt>
+				<dd><a href="http://www.backbase.com/news/events/">Events</a></dd>
+	    		<dd><a href="http://www.backbase.com/news/webinars/">Webinars</a></dd>
+	    		<dd><a href="http://www.backbase.com/news/analysts/">Analyst Coverage</a></dd>
+			</dl>-->
+			<dl>
+				<dt>Company:</dt>
+				<dd>
+					<a href="company/#overview">About us</a>
+				</dd>
+				<dd>
+					<a href="company/#life-at-bb">Life@BB</a>
+				</dd>
+				<dd>
+					<a href="company/#customers">Customers</a>
+				</dd>
+				<dd>
+					<a href="company/#partners">Partners</a>
+				</dd>
+				<dd>
+					<a href="company/#careers">Careers</a>
+				</dd>
+				<dd>
+					<a href="company/#news-and-events">News and Events</a>
+				</dd>
+			</dl>
+		</div>
+	</div>
+	<div class="clear"></div>
+	<div id="footer">
+		<h6>
+			<a class="txtLink" href="http://www.backbase.com">Backbase, Customer Experience Solutions. Delivered.</a>
+		</h6>
+		<h6 class="and">
+			<a class="txtLink" href="legal/legal.html">Legal</a>
+		</h6>
+		<h6 class="and">
+			<a class="txtLink" href="legal/privacy.html">Privacy</a>
+		</h6>
+		<h6 class="and">Contact: <a class="txtLink" href="mailto:website@backbase.com">website@backbase.com</a> or <a class="txtLink" href="mailto:sales@backbase.com">sales@backbase.com</a></h6>&nbsp;
+	</div>
+</div>
+
+
 		<!-- Google Analytics -->
 		<script type="text/javascript">
 			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -285,7 +395,13 @@
 		</script>
 		<!-- END Google Analytics -->
 
-
+			</div>
 		</div>
+		
+		<script xmlns="http://www.w3.org/1999/xhtml" xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:phe="http://www.backbase.com/2008/phe" xmlns:e="http://www.backbase.com/2006/xel" type="application/backbase+xml">
+			<xi:include href="bindings/config.xml"></xi:include>
+			<phe:basicElement id="bb_main_controller" e:behavior="phe:billboardStandard phe:foldoutMenu phe:collapse" viewNode="#body"></phe:basicElement>
+		</script>
+		
 	
 </body></html>
