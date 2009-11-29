@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the luxurywatchexchange.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525132750id_/http%3A//www.luxurywatchexchange.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxurywatchexchange.com privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129185824id_/http%3A//www.luxurywatchexchange.com/privacy.asp) for the most accurate reproduction.*
 
 # The Luxury Watch Exchange - The World's Central Marketplace for Luxury Watch Enthusiasts and Collectors
-
-Every seller on LWE is pre-screened before being allowed to post an item for sale!!
-
-LWE now offers a eBay feedback importer!! Email us to ask how today.
 
 [ ](http://www.luxurywatchexchange.com/index.asp)
 
