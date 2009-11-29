@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footballfanatics.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624014245id_/http%3A//www.footballfanatics.com/HelpDesk/Security_Information%233) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballfanatics.com privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129140849id_/http%3A//www.footballfanatics.com/HelpDesk/Security_Information%233) for the most accurate reproduction.*
 
 # 
 
