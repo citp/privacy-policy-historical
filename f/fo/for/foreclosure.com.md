@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foreclosure.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426074412id_/http%3A//www.foreclosure.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foreclosure.com privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129090021id_/http%3A//www.foreclosure.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy and Security Statement
 
