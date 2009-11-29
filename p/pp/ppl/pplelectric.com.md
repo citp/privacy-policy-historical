@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pplelectric.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531042151id_/http%3A//www.pplelectric.com/nav/footer/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pplelectric.com privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129131853id_/http%3A//www.pplelectric.com/nav/footer/Privacy%2BPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -84,5 +84,3 @@ Attention: Corporate Internet/Privacy Policy
 GENTW4, 2 N. Ninth St.
 
 Allentown, PA 18101
-
-| 
