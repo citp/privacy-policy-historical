@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arlingtonmazda.com privacy policy that was archived on 2009-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090528074302id_/http%3A//www.arlingtonmazda.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arlingtonmazda.com privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129191513id_/http%3A//www.arlingtonmazda.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy - Rosenthal Mazda of Arlington- Arlington County, N. E. DC- Alexandria- Alexandria City- Clarendon-Ballston, Rosslyn- Falls Church and Fairfax Virginia
+# Privacy Policy
 
 ### Privacy
 
