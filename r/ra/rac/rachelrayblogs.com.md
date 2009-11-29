@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the rachelrayblogs.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619122328id_/http%3A//www.rachelrayblogs.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rachelrayblogs.com privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129232744id_/http%3A//www.rachelrayblogs.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Rachel Ray Blog » I lost 47 lbs with my hectic life and these (FREE) products
+# Terms of Use » I lost 47 lbs with my hectic life and these (FREE) products
+
+## My Personal Weight Loss Story (inspired by Rachael Ray!)
 
 Your privacy and the security of your personal information are very important to us. We want you to be as comfortable as possible visiting our Website and using our Online Products. We are dedicated to protecting the privacy of those who visit our Website and use our Online Products. This Privacy Policy governs the websites operated by us (collectively, our “Website”) and explains how we collect your personal information on our Website, or through our Online Products, how we protect such information, and the choices you have concerning the use and disclosure of such information. Please read this Privacy Policy carefully.
 
@@ -24,7 +26,7 @@ By using cookies and action tags together, we are able to gain valuable informat
 Finally, please note that advertisers and other third parties may also use their own cookies or action tags when you click on their advertisement or link to their website or service, on or from our Website. This Privacy Policy does not govern the use by such third-party websites or providers of third-party advertising.
 
 WHO DO I CONTACT IF I HAVE ANY PRIVACY QUESTIONS?  
-If you have any questions about our Privacy Policy or feel that we are not abiding by the terms of our posted Privacy Policy, please contact us at info@alyssaweightblog.com
+If you have any questions about our Privacy Policy or feel that we are not abiding by the terms of our posted Privacy Policy, please contact us at info@rachelrayblogs.com
 
 BY USING OUR WEBSITE, YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU SHOULD NOT USE OUR WEBSITE. YOUR CONTINUED USE OF OUR WEBSITE FOLLOWING THE POSTING OF CHANGES TO THIS PRIVACY POLICY WILL MEAN THAT YOU ACCEPT THOSE CHANGES.  
 Last modified as of Aug 6th, 2008
