@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the softplatz.net privacy policy that was archived on 2009-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090314115911id_/http%3A//www.softplatz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softplatz.net privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129093052id_/http%3A//www.softplatz.net/privacy.html) for the most accurate reproduction.*
 
-# Privacy - www.softplatz.com
+# Privacy - www.softplatz.net
 
 ## Overall privacy statement
 
