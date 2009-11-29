@@ -1,22 +1,18 @@
-> *The following text is extracted and transformed from the dell.ca privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426204040id_/http%3A//www.dell.ca/content/topics/reftopic.aspx/gen/en/policy%3Fc%3Dca%26l%3Den%26s%3Dgen%26%7Esection%3D000) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dell.ca privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129021231id_/http%3A//www.dell.ca/content/topics/reftopic.aspx/gen/en/policy%3Fc%3Dca%26l%3Den%26s%3Dgen%26%7Esection%3D000) for the most accurate reproduction.*
 
-# Dell's Policies + Processes
+# Dell's Policies + Processes | Dell Canada
 
 Dell respects your privacy. Across our business, around the world, we will only collect, store and use your personal information for defined purposes. We use your information to support and enhance our relationship with you, for example, to process your purchase, provide service and support, and share product, service and company news and offerings with you. We do not sell your personal information. We only share your personal data outside the Dell family of companies with your consent, as required by law or to protect Dell, its customers, or the public, or with companies that help Dell fulfill its obligations with you, and then only with partners who share Dell's commitment to protecting your privacy and data. At any time you may contact Dell with any privacy questions or concerns you may have. You also may ask at any time to see the data you have given us and request correction or deletion. We strive to ensure a high level of security and confidentiality.
 
 At Dell, your right to privacy and data security is a primary concern. That's why, whether you are purchasing a product or service from us or obtaining technical support, whether online or dealing with one of sales or technical support representatives over the phone, or simply visiting [dell.ca](http://www.dell.com/intl/ca/),.we strive to ensure that every customer experience is safe and secure. Dell has prepared this Privacy Policy to inform you about our ongoing commitment to ensuring your personal information remains accurate, confidential and used only for identified purposes, regardless of how it is provided to us. This Policy also addresses how you can inquire about the personal information we hold about you and how we will respond to such a request. 
 
-Dell has certain specific guidelines we use for protecting the information you provide us during a visit to our Internet site ( **www.dell.ca** ) or when you use our online support offerings such as **support.dell.ca** . Other Dell and Dell Co-branded sites may operate under their own privacy and security policies. For a summary of our corporate-wide privacy guidelines, see [_Michael Dell's public statement_](https://web.archive.org/content/topics/reftopic.aspx/gen/en/policy?c=ca&l=en&s=gen&~section=003). You can also visit www.nclnet.org/essentials to learn more about how to protect your privacy on the internet through a consumer education campaign called Online E-ssentials, developed by Dell in partnership with the National Consumers League. 
+Dell has certain specific guidelines we use for protecting the information you provide us during a visit to our Internet site ( **www.dell.ca** ) or when you use our online support offerings such as **support.dell.ca** . Other Dell and Dell Co-branded sites may operate under their own privacy and security policies. You can also visit www.nclnet.org/essentials to learn more about how to protect your privacy on the internet through a consumer education campaign called Online E-ssentials, developed by Dell in partnership with the National Consumers League. 
 
-Dell is a proud participant in the BBB OnLine® Privacy Program. The BBB OnLine Privacy Program is backed by an organization noted for its expertise and experience in conducting successful national self-regulation programs--the Council of Better Business Bureaus. The mission of BBB OnLine is to promote trust and confidence on the Internet by advocating ethical online business practices. Further information about this program is available at [http://www.bbbonLine.org](http://www.bbbonline.org/cks.asp?ID=31519990310061)
-
-Additional Dell website and privacy information is available on the left. For more information about Dell's privacy or information usage guidelines, contact us at [CA_Privacycomplaince@dell.com](mailto:CA_Privacycomplaince@dell.com) and put "privacy" in the subject line. **The website and privacy guidelines in this Policy are applicable only to this domestic website and to Dell Canada Inc.**
+Additional Dell website and privacy information is available on the left. For more information about Dell's privacy or information usage guidelines, contact us at [Privacy@Dell.com](mailto:Privacy@Dell.com) and put "privacy" in the subject line. **The website and privacy guidelines in this Policy are applicable only to this domestic website and to Dell Canada Inc.**
 
 Scope of this Privacy Policy
 
 This Privacy Policy applies only to personal information collected from individual customers. It does not apply to corporate or business contact information. In addition, this policy is not applicable to personal information that has been aggregated or made anonymous and no longer specifically relates to an identifiable individual. Dell reserves the right to use aggregated or anonymous information in any manner it considers appropriate.
-
-[](http://www.bbbonline.org/cks.asp?ID=31519990310061)
 
 When and Why Dell asks for specific types of personal information
 
@@ -91,7 +87,7 @@ The principal places in which Dell holds personal information are in Toronto, On
 
 Dell wants to help you keep your personal information accurate
 
-You can request the **personal** information that Dell has collected about you via the Internet at [ca_privacycompliance@dell.com](mailto:ca_privacycompliance@dell.com). You can request to have factual inaccuracies in this information corrected by contacting CA_PrivacyCompliance@dell.com. As well, for both such requests, you can make such request by writing us at the address provided at the end of this Policy to the attention of Privacy Compliance Representative. 
+You can request the **personal** information that Dell has collected about you via the Internet at [Privacy@Dell.com](mailto:Privacy@Dell.com). You can request to have factual inaccuracies in this information corrected by contacting Privacy@Dell.com. As well, for both such requests, you can make such request by writing us at the address provided at the end of this Policy to the attention of Privacy Compliance Representative. 
 
 Dell Human Resources Web Sites
 
@@ -117,7 +113,7 @@ You are solely responsible for maintaining the secrecy of your passwords or any 
 
 How to Contact Dell
 
-Dell takes its responsibility to protect your privacy and the confidentiality of your personal information very seriously. There may be questions that you may have about this Privacy Policy, or you may feel that you have privacy concerns relating to Dell's use of your personal information. In order to address your privacy concerns, Dell has a team of Privacy Compliance Representatives who can assist with respect to privacy matters. They can be contacted through our toll free number at 1-800-387-5759 x5433, local number at 416-773-5433 or online at [CA_Privacycompliance@dell.com](mailto:CA_Privacycompliance@dell.com) or they can be written to at the following address: 
+Dell takes its responsibility to protect your privacy and the confidentiality of your personal information very seriously. There may be questions that you may have about this Privacy Policy, or you may feel that you have privacy concerns relating to Dell's use of your personal information. In order to address your privacy concerns, Dell has a team of Privacy Compliance Representatives who can assist with respect to privacy matters. They can be contacted through our toll free number at 1-800-387-5759 x5433, local number at 416-773-5433 or online at [Privacy@Dell.com](mailto:Privacy@Dell.com) or they can be written to at the following address: 
 
 Dell Canada Inc.
 
@@ -139,4 +135,4 @@ Although our commitment to privacy will not change, in order to accommodate chan
 
 Dell Canada Inc.
 
-Effective Date: January 26, 2004
+Effective Date: May 15, 2009 
