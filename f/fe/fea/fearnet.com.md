@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fearnet.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615033634id_/http%3A//www.fearnet.com/privacy_policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fearnet.com privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129235527id_/http%3A//www.fearnet.com/privacy_policy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy - FEARnet
 
-Welcome to Featnet.com (Website), a service of Horror Entertainment, LLC ("FEARnet™," "we," our, or "us"). This privacy statement discloses the privacy practices for this Website only, including an explanation of:
+Welcome to Fearnet.com (Website), a service of Horror Entertainment, LLC ("FEARnet™," "we," our, or "us"). This privacy statement discloses the privacy practices for this Website only, including an explanation of:
 
   * the categories of personally identifiable information about you that may be collected; 
   * how the information is used;
