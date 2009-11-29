@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the build-your-website.co.uk privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622073831id_/http%3A//www.build-your-website.co.uk/Privacy-Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the build-your-website.co.uk privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129061534id_/http%3A//www.build-your-website.co.uk/Privacy-Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,4 +40,4 @@ If you do not agree to ( **www.Build-your-website.co.uk** 's) Privacy Policy as 
 
 Your use of this site indicates acceptance of this privacy policy.
 
-Concerns or questions about this privacy policy can be directed to the webmaster by using the [contact form](https://web.archive.org/web/20090622073831id_/http%3A//www.build-your-website.co.uk/contact.htm).
+Concerns or questions about this privacy policy can be directed to the webmaster by using the [contact form](https://web.archive.org/web/20091129061534id_/http%3A//www.build-your-website.co.uk/contact.htm).
