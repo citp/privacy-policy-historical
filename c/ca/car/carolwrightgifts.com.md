@@ -1,14 +1,22 @@
-> *The following text is extracted and transformed from the carolwrightgifts.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417172323id_/http%3A//www.carolwrightgifts.com/cwg_v2/cwg_layout_base2.cfm%3Fmid_sec_page%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carolwrightgifts.com privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130004304id_/http%3A//www.carolwrightgifts.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Shop Carol Wright Gifts for As Seen on TV, Home, Garden and Apparel Products at Great Prices
 
-**Privacy Policy**                                                       Last Updated:  **December 19, 2006**
+| 
 
-  Carol Wright Gifts respects your privacy.  This privacy policy describes the ways that Carol Wright Gifts collects and uses personal information at [www.carolwrightgifts.com](http://www.carolwrightgifts.com/).  By using this web site, you consent to our collection and use of your personal information as described in this privacy policy.
+**Privacy Policy**
+
+Last Updated:  **December 19, 2006**
+
+Carol Wright Gifts respects your privacy. This privacy policy describes the ways that Carol Wright Gifts collects and uses personal information at [www.carolwrightgifts.com](http://www.carolwrightgifts.com/). By using this web site, you consent to our collection and use of your personal information as described in this privacy policy.
+
+**Personally Identifiable Information**
 
 You may visit Carol Wright Gifts web site anonymously.  However, we offer special features that require you to submit personal information to participate.  For example, if you make a purchase using a credit card, we will need to collect information such as your credit card number and billing address to complete that transaction.  You may also register at the site by submitting your name, email address and zip code.  If you do not wish to provide us with that information, we cannot provide those services to you.
 
 We may use your personal information to send you information about goods or services that we believe may be of interest to you.  At our discretion, we may share your personal information with third parties who may also contact you.  Please note that we advise our partners to use your information in accordance with this policy.  In the unlikely event that some or all of Carol Wright Gifts assets are sold, Carol Wright Gifts will transfer all personal information to the acquiring party.  Finally, we may disclose your personally identifiable information to third parties in order to comply with law, to protect our rights in or the safety of our web site, or to protect the safety or rights of other users of our web sites.
+
+**Opting Out of Future Communications**
 
 You may opt out of future communications from Carol Wright Gifts by clicking on the link located at the bottom of our email messages.  Please note that certain communications, i.e., those relating to purchases, do not provide the opportunity to opt out as they are necessary to complete the transaction with you. 
 
@@ -35,3 +43,7 @@ We use modern technology to protect the information you submit.  All personally
 **Contact Information**
 
 You may review or delete any personal information we retain about you by sending an email to our Privacy Officer at the address listed below.  However, if you are contacted by one of our partners, you will need to alert them that you wish your information to be deleted. **  **Please note that it is sometimes not possible to erase all copies of your personal data such as that data in storage located on a back up drive.  
+
+[Click Here](mailto:%50%72%69%76%61%63%79%4f%66%66%69%63%65%72%2E%44%52%4C%2E%43%57%47%40%64%72%6c%65%6f%6e%61%72%64%73%2e%63%6f%6d) to Send any questions you may have. 
+
+| 
