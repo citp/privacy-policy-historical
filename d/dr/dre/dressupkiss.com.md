@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dressupkiss.com privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530174130id_/http%3A//www.dressupkiss.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressupkiss.com privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129132522id_/http%3A//www.dressupkiss.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
-# kissing games | barbie kissing games | fashion girls | Privacy Policy
-
-dressupkiss.com
+# Privacy Policy Kissing games | love games | girl games | dress up game | kiss game | makeup, winx, sue, bratz, barbie, cooking, make up
 
 This web site and its owner respect the privacy concerns of its visitors and members.  
 We appreciates our relationship with you, respects that your information is yours, and is committed to safeguarding your privacy when youre using our web site. The following describes our collection of and use of any information that we may collect from you.
@@ -39,4 +37,4 @@ We may amend this Privacy Policy.
 
 If in the future this Privacy Policy is amended or updated, you will be subject to this Privacy Policy as amended or updated. We will not notify you of any amendments or updates to this Privacy Policy. It is your responsibility to check this Privacy Policy often for any changes hereto. 
 
-Copyright 2008, Inc. All Rights Reserved. 
+Copyright 2008, Inc. All Rights Reserved.
