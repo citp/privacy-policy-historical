@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the horse.com privacy policy that was archived on 2009-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090506040057id_/http%3A//www.horse.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horse.com privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129101455id_/http%3A//www.horse.com/privacy.aspx) for the most accurate reproduction.*
 
 # Discount Horse Supplies - Horse.com
 
@@ -30,11 +30,11 @@ How do we use your information?
 
 The information that you provide allows us to serve you better by providing you with a convenient, personalized shopping experience. We use your information to process your order, update you on order status and customize the content of our web pages.
 
-We also add your information to our customer database, so you may receive periodic mailings from us about new products and services or special promotions. If you do not want to receive these mailings from us, please opt out at our [Email Opt Out](https://web.archive.org/web/20090506040057id_/http%3A//www.horse.com/optout.asp) page.
+We also add your information to our customer database, so you may receive periodic mailings from us about new products and services or special promotions. If you do not want to receive these mailings from us, please opt out at our [Email Opt Out](https://web.archive.org/web/20091129101455id_/http%3A//www.horse.com/optout.aspx) page.
 
-You may also receive periodic promotional emails from us. If you do not want to receive such emails from us, please opt out at our [Email Opt Out](https://web.archive.org/web/20090506040057id_/http%3A//www.horse.com/optout.asp) page. Or click the "unsubscribe" link at the bottom of every promotional email we send to you. Please note: You will still receive emails from us that are necessary to process your order or respond to your requests.
+You may also receive periodic promotional emails from us. If you do not want to receive such emails from us, please opt out at our [Email Opt Out](https://web.archive.org/web/20091129101455id_/http%3A//www.horse.com/optout.aspx) page. Or click the "unsubscribe" link at the bottom of every promotional email we send to you. Please note: You will still receive emails from us that are necessary to process your order or respond to your requests.
 
-Occasionally, we may provide your name and postal address (but not your email address or phone number) to a select group of companies whose products may be of interest to you. If you do not want us to share your name and postal information with these companies, please email us at [customercare@countrysupply.com](https://web.archive.org/web/20090506040057id_/http%3A//www.horse.com/customercare@countrysupply.com).
+Occasionally, we may provide your name and postal address (but not your email address or phone number) to a select group of companies whose products may be of interest to you. If you do not want us to share your name and postal information with these companies, please email us at [customercare@horse.com](https://web.archive.org/web/20091129101455id_/http%3A//www.horse.com/customercare@horse.com).
 
 Also, we must share your information with third party companies to provide products and services to you such as packaging and shipping your order. We only share the information that is needed for the third party company to provide the necessary product or service, and all of our third party companies are contractually-restricted from using your information for any reason other than helping us to provide the necessary product or service. In the event that you arrive at our site through a link from a third party site, we may share limited information provided by you with that third party site to allow us to manage and administer our marketing affiliate program.
 
@@ -87,7 +87,7 @@ If you have any questions or concerns about our policies or to have your name an
 
 **Fax:** 1-888-262-3655
 
-**Email:** [customercare@countrysupply.com](mailto:customercare@countrysupply.com)
+**Email:** [customercare@horse.com](mailto:customercare@horse.com)
 
 **Mail:** PetsUnited, LLC  
 Privacy Policy Administration  
