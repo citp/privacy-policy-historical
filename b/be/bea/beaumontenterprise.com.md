@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beaumontenterprise.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619211305id_/http%3A//www.beaumontenterprise.com/policy/BeaumontPRIVACY.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beaumontenterprise.com privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129115319id_/http%3A//www.beaumontenterprise.com/policy/BeaumontPRIVACY.html) for the most accurate reproduction.*
 
-# Privacy policy >> www.beaumontenterprise.com - Policy
+# Privacy policy | www.beaumontenterprise.com - Policy
 
 This Privacy Policy governs your use of this web site and any content made available from or through this web site located at www. **BeaumontEnterprise.** com, including any subdomains thereof (the “Web Site”).  The Web Site is made available by **Beaumont Enterprise Division, Hearst Newspapers II, LLC** ( “Newspaper” or “we” or “us”).  
 
@@ -128,8 +128,4 @@ The Newspaper reserves the right to change or update this Privacy Policy, or any
 If you have any questions or comments regarding our privacy practices, you may contact us at [**ReaderRep@BeaumontEnterprise.com**](mailto:ReaderRep@BeaumontEnterprise.com?subject=Privacy%20Policy). 
 
 **_Effective Date:   May 20, 2008  
-_** | 
-
-[](http://autos.beaumontenterprise.com/)
-
-[](http://beaumontenterprise.kaango.com/)
+_**
