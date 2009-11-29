@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aclens.com privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504190021id_/http%3A//www.aclens.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aclens.com privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129104707id_/http%3A//www.aclens.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -17,7 +17,7 @@ Third Party Service Providers
 AC Lens may share your information provided with your order with third-party service providers who provide services related to your order. Examples of these third-party service providers include a credit card processing company, a contact lens supplier, or a shipping service. Your personal information will not be used by any third party for purposes other than providing these services in relation to your order.
 
 Prescription Verification   
-AC Lens may verify your prescription information provided with your order with your doctor or eyecare provider as required by Federal Law. For more information about how your Personal Health Information is protected, please see our [Notice of Privacy Practices](https://web.archive.org/web/20090504190021id_/http%3A//www.aclens.com/npp.asp).
+AC Lens may verify your prescription information provided with your order with your doctor or eyecare provider as required by Federal Law. For more information about how your Personal Health Information is protected, please see our [Notice of Privacy Practices](https://web.archive.org/web/20091129104707id_/http%3A//www.aclens.com/npp.asp).
 
 Legal Disclosure of Your Information  
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
