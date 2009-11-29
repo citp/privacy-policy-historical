@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the opentable.com privacy policy that was archived on 2009-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090414085120id_/http%3A//www.opentable.com/info/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opentable.com privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129092033id_/http%3A//www.opentable.com/info/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Online Reservations Privacy Policy - OpenTable
 
-**Effective March, 2009**
+**Effective April, 2009**
 
 OpenTable, Inc., along with its subsidiaries or affiliated companies ("OpenTable"), is committed to safeguarding your privacy and upholding the highest levels of information security. To that end, the company adheres to the strictest consumer privacy guidelines and uses state-of-the-art security technology to protect any information you provide to and through OpenTable's websites, which include [www.opentable.com](http://www.opentable.com/), [www.opentable.co.uk](http://www.opentable.co.uk/), [www.opentable.jp](http://www.opentable.jp/), and any other sites owned or operated by OpenTable (hereinafter referred to collectively as the "OpenTable Websites").
-
-  
-
 
 **About the OpenTable Network**
 
@@ -90,7 +87,7 @@ OpenTable does use aggregate data (based partly on IP addresses of website visit
 
 Specifically, through an association with a company named Omniture, Inc. ("Omniture"), OpenTable may use web beacons and the SiteCatalyst Analytics auditing software to track page views and entry and exit points to and from OpenTable Websites. Omniture may place and analyze the cookies on your internet browser to help determine the effectiveness of OpenTable advertising and marketing campaigns. Again, the data collected will only be used in an aggregate form and will not contain any personally identifiable information, and only OpenTable and Omniture will have access to this aggregate data. Omniture is legally bound to OpenTable under strict confidentiality provisions and will never share any of this data with any third party or use this information for any other purpose not described herein. You may choose to opt-out of Omniture's analysis of your browsing behavior on the OpenTable Websites. To learn more about Omniture, the SiteCatalyst Analytics software or to exercise your opt-out choices, please visit: <http://www.omniture.com/en/company/acquisitions/visualsciences/privacy/policy>
 
-In addition, through an association with a company named Epsilon, OpenTable uses web beacons and cookies to monitor behavior with respect to email sent by OpenTable to Registered Users who have opted to receive email from OpenTable. Again, the data collected will only be used in an aggregate form, and only OpenTable and Epsilon will have access to this data. Epsilon is legally bound to OpenTable under strict confidentiality provisions and will never share any of this data with any third party. You may also choose to opt out of Epsilon's data analysis. To learn more about Epsilon and how to exercise your opt-out rights, please visit: <http://www.epsilon.com/Privacy-Policy/p24-l1>
+In addition, through an association with a company named Silverpop, OpenTable uses web beacons and cookies to monitor behavior with respect to email sent by OpenTable to Registered Users who have opted to receive email from OpenTable. 
 
 If you choose to provide feedback on your dining experience by completing a Dining Feedback Form, any feedback you provide may be shared with other diners to enhance information on the OpenTable Websites and/or with restaurants to let restaurants know how they are doing. Your feedback will not be publicized in a way that is attributable to you by name, email address, or any other identifiable form unless you choose to provide that information within the Dining Feedback Form itself, use functions that enable you to send your Dining Feedback Form to others, or make the information public on any portions of your registered-user Profile. However, there is the potential that a restaurant may associate a particular feedback with your dining reservation. 
 
@@ -134,7 +131,11 @@ For questions regarding Privacy Policy and information regarding Personal Inform
 
 **_Safe Harbor Program_**
 
-OpenTable is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and the E.U. For more information about the Safe Harbor and to view our certification, visit the U.S. Department of Commerce’s [Safe Harbor Web site](http://www.export.gov/safeHarbor/). 
+OpenTable is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and the E.U. For more information about the Safe Harbor and to view our certification, visit the U.S. Department of Commerce’s [Safe Harbor Web site](http://www.export.gov/safeHarbor/).   
+We self-certify compliance with 
+
+  
+
 
 **_BBB Safe Harbor Privacy Dispute Resolution_**
 
