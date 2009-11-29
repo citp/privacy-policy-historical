@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1800lighting.com privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526053743id_/http%3A//www.1800lighting.com/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800lighting.com privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129062422id_/http%3A//www.1800lighting.com/about/privacy.cfm) for the most accurate reproduction.*
 
 # 1800lighting.com - Privacy
 
