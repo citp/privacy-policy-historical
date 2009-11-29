@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stocktwits.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422041815id_/http%3A//www.stocktwits.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stocktwits.com privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129100036id_/http%3A//www.stocktwits.com/privacy_policy) for the most accurate reproduction.*
 
 # StockTwits.com - Real Investors. Real Ideas. Real Time.
 
