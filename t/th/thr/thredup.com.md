@@ -1,37 +1,42 @@
-> *The following text is extracted and transformed from the thredup.com privacy policy that was archived on 2009-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090313054823id_/http%3A//www.thredup.com/contact/disclaimer-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thredup.com privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129021113id_/http%3A//thredup.com/privacy) for the most accurate reproduction.*
 
-# Disclaimer & Privacy Policy | ThredUp
+# thredUP Privacy Policy
 
-**Put simply: we will NEVER sell your information to anyone! However, in order to facilitate the sending of items, your mailing address will be shared with the member who’s sending you the item.**
+**Privacy Policy**
 
-This policy covers how ThredUp treats personal information that ThredUp collects and receives, including information related to your past use of ThredUp products. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. This policy does not apply to the practices of companies that ThredUp does not own or control or to people that ThredUp does not employ or manage.
+This policy covers how thredUP, Inc. (“thredUP”) treats personally identifying information that thredUP collects and receives, including information related to your past use of thredUP products.   thredUP may be referred to in this Privacy Policy as “thredUP” or “we”.  Personally identifying information is information about you that allows someone to personally identify you, like your name, address, email address, phone number, and preferences that you identify and that are not otherwise publicly available (for example, your clothing size and brand preferences). This policy does not apply to the practices of companies or websites that thredUP does not own or control, or to people that thredUP does not employ or manage **.** This policy does not apply to information that does not allow someone to personally identify you.
 
-**Collecting Information**
+**Collecting Personal Information**
 
-ThredUp collects personal information when you register with ThredUp, when you use ThredUp products or when you visit ThredUp pages. ThredUp may combine information about you that we have with information we obtain from business partners or other companies. When you register we ask for information such as your name, email address, gender, zip code, occupation, industry, and personal interests. Once you register with ThredUp and sign in to our services, you are not anonymous to us. ThredUp automatically receives and records information on our server logs from your browser, including your IP address, ThredUp cookie information, and the page you request. ThredUp uses information for the following general purposes: to customize the content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
+thredUP collects personal information when you register with thredUP, when you use thredUP products or services, when you visit thredUP website pages or when you provide information to us by completing forms or applications and when you enter promotions or sweepstakes. thredUP may combine information about you that we have with information we obtain from business partners or other companies. When we obtain information about you from business partners or other companies, we will treat it in accordance with this privacy policy.  We are not responsible for our business partners’ or other companies’ compliance with their own privacy policies in sharing the information with us.  When you register with thredUP we ask for information such as your name, email address, birth date, gender, zip code, occupation, industry, and personal preferences and interests. Once you register with thredUP and sign in to our services, you are not anonymous to us. thredUP automatically receives and records information on our server logs from your browser, including your IP address, thredUP cookie information, and the page you request. 
+
+**Use of Personal Information**
+
+thredUP uses information we collect for the following general purposes: to customize the content you see, fulfill your requests for products and services, improve our services, contact you, bill you, collect fees from you, collect unpaid amounts due to us, conduct research, and provide anonymous, aggregated reporting for internal and external clients. 
 
 **Cookies**
 
-ThredUp may set and access ThredUp ‘cookies’ on your computer. ThredUp lets other companies that may show advertisements on some of our pages set and access their cookies on your computer. Other companies’ use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to ThredUp’ cookies.
-
-**Your Information**
-
-You can edit your ThredUp account information at any time. We reserve the right to send you certain communications relating to the ThredUp service, such as service announcements, administrative messages and the ThredUp Newsletter, that are considered part of your ThredUp account, without offering you the opportunity to opt-out of receiving them. You can delete your account by contacting ThredUp.
+thredUP may set and access thredUP 'cookies' on your computer. thredUP lets other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one.  We have no obligation to inform you of third party cookies that are set.
 
 **Confidentiality and Security**
 
-We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.  
-Protecting Your Information
+We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. We will use commercially reasonable efforts to put in place and maintain physical, electronic, and procedural safeguards that comply with applicable federal and state regulations to protect personal information about you. 
 
-ThredUp does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you’ve requested, when we have your permission, or under the following circumstances:
+**Accessing, Changing and Protecting Your Information   **
 
-  * We provide the information to trusted partners who work on behalf of or with ThredUp under confidentiality agreements. These companies may use your personal information to help ThredUp communicate with you about offers from ThredUp and our marketing partners. However, these companies do not have any independent right to share this information.
-  * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;
-  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of ThredUp’ terms of use, or as otherwise required by law.
-  * We transfer information about you if ThredUp is acquired by or merged with another company. In this event, ThredUp will notify you before information about you is transferred and becomes subject to a different privacy policy.
+You can access and edit your thredUP account information at any time. We reserve the right to send you certain communications relating to the thredUP service, such as service announcements, administrative messages and a thredUP Newsletter, that are considered part of your thredUP account, without offering you the opportunity to opt-out of receiving them. You can delete your account by contacting thredUP . If you believe that personal information that we have about you is incorrect, and you are unable to correct that information by editing your account yourself, you may notify us by email via the thredUP Customer Support page and we will use reasonable efforts to correct such information.  We make no warranties about the completeness or accuracy of the information that you provide to us or that your account will always be correct and up to date.
+
+thredUP does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, or when we have your express permission via your account page or under the following circumstances:
+
+  * to provide your mailing address in order to allow other members to send you items that you’ve requested and in accordance with thredUP’s Terms of Use.
+  * to provide the information to third parties who work on behalf of or with thredUP under confidentiality agreements. These third parties may use your personal information to help thredUP communicate with you about offers from thredUP and from our marketing partners.
+  * to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;
+  * when necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of thredUP's Terms of Use, or as otherwise required by law;
+  * to a successor in interest if thredUP is acquired by or merged with another company, or sells a significant portion of its assets, or all of its assets to any third party. In this event, thredUP will use reasonable efforts to notify you before information about you is transferred and becomes subject to a different privacy policy. Such notice may take the form of a general announcement on the thredUP website.  We may not notify each individual member directly.
+  * in the aggregate or depersonalized information.
 
 
 
 **Policy Updates**
 
-ThredUp may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your ThredUp account or by placing a prominent notice on our site.
+thredUP may update this policy at any time in its sole discretion. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your thredUP account or by placing a prominent notice on our website.   If you do not agree with the terms of the updated Privacy Policy, then you should cease use of thredUP Site at that time.
