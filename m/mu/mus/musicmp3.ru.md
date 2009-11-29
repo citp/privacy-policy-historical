@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicmp3.ru privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617060902id_/http%3A//musicmp3.ru/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicmp3.ru privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129085405id_/http%3A//musicmp3.ru/privacy.html) for the most accurate reproduction.*
 
 # Mp3 Music Download - MusicMp3.RU
 
@@ -30,4 +30,4 @@ Do you want to download MusicMp3.Ru files for free?
 [download free mp3 >>](https://web.archive.org/publicity.html)
 
   
-Our new feature hit! shows which of the album tracks have been most often downloaded by MusicMP3.ru users. Now you can easily see the most noteworthy songs in our collection! 
+We're doing our best to fulfill all your wishes and make our service as convenient for you as possible. Now on MusicMp3.ru you can download full albums by one click as zip-archives. In order to use this feature please visit any album page. The link to zip-file will become available as soon as you purchase an album.
