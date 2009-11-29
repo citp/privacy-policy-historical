@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliatetips.com privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415025327id_/http%3A//www.affiliatetips.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatetips.com privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129062754id_/http%3A//www.affiliatetips.com/privacy-policy.html) for the most accurate reproduction.*
 
 # AffiliateTips.com - Privacy Policy
 
