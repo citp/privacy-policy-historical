@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twine.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525090435id_/http%3A//www.twine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twine.com privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129121315id_/http%3A//www.twine.com/privacy) for the most accurate reproduction.*
 
 # Twine Privacy Policy | Twine
 
