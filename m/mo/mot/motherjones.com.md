@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motherjones.com privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530035422id_/http%3A//www.motherjones.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motherjones.com privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130163325id_/http%3A//www.motherjones.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Mother Jones
 
@@ -6,7 +6,7 @@ The MotherJones.com website is operated by the nonprofit Foundation for National
 
 The Foundation provides MotherJones.com to you subject to the terms of this Privacy Policy. By registering with or using the MotherJones.com site (the "Site"), you accept and agree to this Privacy Policy.
 
-We respect your privacy. We allow you to "opt out" of providing us with certain information. However, choosing to share information with us will help make your experience at MotherJones.com and other interactions with us more pleasant and successful for you, and will help us continue to provide outstanding investigative journalism. 
+We respect your privacy. We allow you to "opt out" of providing us with certain information. However, choosing to share information with us will help make your experience at MotherJones.com and other interactions with us more pleasant and successful for you, and will help us continue to provide outstanding investigative journalism.
 
 Most of the information we collect on our website is aggregated to track general patterns, such as browser and platform usage and overall traffic patterns. We use name, address, and email information primarily to deliver items you request, such as magazines or email newsletters. We may also use your email address to remind you to renew your subscription, notify you about new products or upcoming events, or send you donation appeals and sponsored messages with offers from other organizations. You may always opt out of receiving these communications.
 
@@ -16,7 +16,7 @@ Upon request, we provide our users, including subscribers to the magazine, with 
 
 This Privacy Policy may change from time to time. The Revision Date below will show you when the Privacy Policy was last revised. By continuing to use this Site, you agree to all terms of the most recent version of this Privacy Policy.
 
-This Privacy Policy was last revised on **December 31, 2008**.
+This Privacy Policy was last revised on **June 17, 2009**.
 
 ### **2\. REGISTRATION AND ACCOUNT INFORMATION**
 
@@ -26,13 +26,15 @@ In order to register you will need to provide a valid email address and create a
 
 Your username, any image you provide, and any biographical information you submit will appear on your user profile page ("Profile Page"). In addition, your Profile Page will show when you joined the _Mother Jones_ discussion community, how many comments you have posted, recent comments you have posted on the Site, and your recommended comments. When you post a comment, your signature and your status as a donor or subscriber will appear along with the text of your comments. 
 
-You may also choose to permit other users to contact you by e-mail through your Profile Page.  If you do, other users will be able to send you e-mails but your e-mail address will not be publicly displayed. 
+You may also choose to permit other users to contact you by e-mail through your Profile Page.  If you do, other users will be able to send you e-mails but your e-mail address will not be publicly displayed.
 
-The information you provide to establish an account and in creating your Profile Page is referred to as "Account Information." Information that appears on your Profile Page is public. We will not provide other individually identifiable Account Information to any third party, except as set forth in Sections 4, 7, and 10 below. 
+The information you provide to establish an account and in creating your Profile Page is referred to as "Account Information." Information that appears on your Profile Page is public. We will not provide other individually identifiable Account Information to any third party, except as set forth in Sections 4, 7, and 10 below.
 
 ### **3\. CONTENT YOU SUBMIT**
 
-The Site allows you to submit and post comments and to recommend comments posted by others (collectively "User Content"). User Content that you submit to Open Salon or post on the Site, including any personal information included in your User Content, becomes publicly available and can be seen, collected, and used by others. 
+The Site uses the Mollom service to block spam. Information you submit by posting comments, using the contact forms, or registering for a user account will be sent to Mollom. For information on how Mollom stores and uses this information, see Mollom's [privacy policy](http://mollom.com/web-service-privacy-policy).
+
+The Site allows you to submit and post comments and to recommend comments posted by others (collectively "User Content"). User Content that you submit to _Mother Jones_ or post on the Site, including any personal information included in your User Content, becomes publicly available and can be seen, collected, and used by others.
 
 The Site may also allow you to send email messages to other users. While the content of such messages will not be publicly displayed on the Site, the Foundation has no ability to control how the content of messages sent to other users is used or disseminated. You should assume that anything you put into an email message to another user may become public.
 
@@ -46,7 +48,7 @@ In order to send you some of these communications, we may provide your email add
 
 The Site uses cookies. (A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive that may be accessed when you use a website.) Cookies are used primarily as follows: (1) to help deliver advertisements, in particular to spare users the irritation of seeing the same pop-up ads repeatedly in the same visit; (2) to store information so that you will not have to re-enter it during your visit or the next time you visit the Site; (3) to track usage throughout the Site (e.g., tracking where traffic comes from, how traffic flows within the Site, etc.); and (4) to monitor aggregate metrics such as total number of visitors, pages viewed, etc. Most Web browsers are initially set up to accept cookies, but you can reset your Web browser to refuse all cookies or to indicate when a cookie is being sent. However, certain features of the Site may not work if you delete or disable cookies.
 
-In addition, when you visit the Site some basic technical information may be collected by us or by a third party that provides us with Site usage information, including your IP address, domain name (e.g., whether you logged on from aol.com or whitehouse.gov), referral data (e.g., the address of the last website you visited prior to clicking through to the Site), and browser and platform type (e.g., a Firefox browser on a Macintosh platform). 
+In addition, when you visit the Site some basic technical information may be collected by us or by a third party that provides us with Site usage information, including your IP address, domain name (e.g., whether you logged on from aol.com or whitehouse.gov), referral data (e.g., the address of the last website you visited prior to clicking through to the Site), and browser and platform type (e.g., a Firefox browser on a Macintosh platform).
 
 Information about users and usage of the Site may be merged into aggregated data, which may then be used by the Foundation and/or shared with our advertisers and others. We generally receive only aggregate information about Site usage, which is not linked to any identifiable individual. If we provide aggregated information to outside companies, they will be not able to identify you or contact you based on that data. We will not disclose personally identifiable information about you, except to the degree that you disclose it through your comments or Profile Page, or as provided in Sections 4, 7, and 10.
 
@@ -68,7 +70,7 @@ When you donate, we use the information you provide to process your donation. On
 
 ### **8\. PROMOTIONS AND SURVEYS**
 
-From time to time, we may sponsor promotions, contests, surveys, or other events which require the collection, processing, and storage of individual contact information (e.g., name and mailing or email address) and demographic information (e.g., your age and state of residence) to be used for the event. We may cosponsor these events with other companies. In that case, your individual contact and demographic information is likely to be shared with other sponsors. 
+From time to time, we may sponsor promotions, contests, surveys, or other events which require the collection, processing, and storage of individual contact information (e.g., name and mailing or email address) and demographic information (e.g., your age and state of residence) to be used for the event. We may cosponsor these events with other companies. In that case, your individual contact and demographic information is likely to be shared with other sponsors.
 
 Demographic information may be compiled and reported or shared in the aggregate with others, but no personal details that can be linked to specific individuals will be provided. We will not release personally identifiable contact or demographic information to any third party other than named sponsors without your consent (except as provided in Section 10). 
 
