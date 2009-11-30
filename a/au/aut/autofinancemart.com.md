@@ -1,47 +1,48 @@
-> *The following text is extracted and transformed from the autofinancemart.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523221633id_/http%3A//www.autofinancemart.com/legal/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autofinancemart.com privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130171847id_/http%3A//www.autofinancemart.com/legal/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Basics of Car loan
 
-[Auto Car Loans](https://web.archive.org/web/20090523221633id_/http%3A//www.autofinancemart.com/car-finance-articles/what-is-car-finance.php)  
-[Car Financing](https://web.archive.org/web/20090523221633id_/http%3A//www.autofinancemart.com/car-finance-articles/finance-a-new-car.php)  
-[Cheap Car loans](https://web.archive.org/web/20090523221633id_/http%3A//www.autofinancemart.com/car-finance-articles/cheap-car-loans.php)  
-[Best Car loans](https://web.archive.org/web/20090523221633id_/http%3A//www.autofinancemart.com/car-finance-articles/best-car-loans.php)  
-[Loan Sources](https://web.archive.org/web/20090523221633id_/http%3A//www.autofinancemart.com/car-finance-articles/car-finance-loan.php)  
-[Online Car loan](https://web.archive.org/web/20090523221633id_/http%3A//www.autofinancemart.com/car-finance-articles/car-finance-online.php)  
-[UK car Finance](https://web.archive.org/web/20090523221633id_/http%3A//www.autofinancemart.com/car-finance-articles/uk-car-finance.php)  
-[US car finance](https://web.archive.org/web/20090523221633id_/http%3A//www.autofinancemart.com/car-finance-articles/car-finance-loan-us.php)  
-[Auto Loan Application](https://web.archive.org/web/20090523221633id_/http%3A//www.autofinancemart.com/car-finance-articles/auto-loan-application.php)  
-[Auto Loan Quotes](https://web.archive.org/web/20090523221633id_/http%3A//www.autofinancemart.com/car-finance-articles/auto-finance-quotes.php)
+[Auto Car Loans](https://web.archive.org/web/20091130171847id_/http%3A//www.autofinancemart.com/car-finance-articles/what-is-car-finance.php)  
+[Car Financing](https://web.archive.org/web/20091130171847id_/http%3A//www.autofinancemart.com/car-finance-articles/finance-a-new-car.php)  
+[Cheap Car loans](https://web.archive.org/web/20091130171847id_/http%3A//www.autofinancemart.com/car-finance-articles/cheap-car-loans.php)  
+[Best Car loans](https://web.archive.org/web/20091130171847id_/http%3A//www.autofinancemart.com/car-finance-articles/best-car-loans.php)  
+[Loan Sources](https://web.archive.org/web/20091130171847id_/http%3A//www.autofinancemart.com/car-finance-articles/car-finance-loan.php)  
+[Online Car loan](https://web.archive.org/web/20091130171847id_/http%3A//www.autofinancemart.com/car-finance-articles/car-finance-online.php)  
+[UK car Finance](https://web.archive.org/web/20091130171847id_/http%3A//www.autofinancemart.com/car-finance-articles/uk-car-finance.php)  
+[US car finance](https://web.archive.org/web/20091130171847id_/http%3A//www.autofinancemart.com/car-finance-articles/car-finance-loan-us.php)  
+[Auto Loan Application](https://web.archive.org/web/20091130171847id_/http%3A//www.autofinancemart.com/car-finance-articles/auto-loan-application.php)  
+[Auto Loan Quotes](https://web.archive.org/web/20091130171847id_/http%3A//www.autofinancemart.com/car-finance-articles/auto-finance-quotes.php)
 
 Types of Car loans
 
-[Used Car Loans](https://web.archive.org/web/20090523221633id_/http%3A//www.autofinancemart.com/car-finance-articles/used-car-loans.php)  
-[Financing a leased car](https://web.archive.org/web/20090523221633id_/http%3A//www.autofinancemart.com/car-finance-articles/car-lease-finance.php)  
-[No credit Car loans](https://web.archive.org/web/20090523221633id_/http%3A//www.autofinancemart.com/car-finance-articles/no-credit-car-loan.php)  
-[Classic Car Loans](https://web.archive.org/web/20090523221633id_/http%3A//www.autofinancemart.com/car-finance-articles/classic-car-loans.php)  
-[No Down payment loans](https://web.archive.org/web/20090523221633id_/http%3A//www.autofinancemart.com/car-finance-articles/no-down-payment-car-loan.php)  
-[Car Title loans](https://web.archive.org/web/20090523221633id_/http%3A//www.autofinancemart.com/car-finance-articles/car-title-loans.php)  
-[Car Loans Interest Rates](https://web.archive.org/web/20090523221633id_/http%3A//www.autofinancemart.com/car-finance-articles/interest-rates-on-car-loans.php)  
-[Auto Financing](https://web.archive.org/web/20090523221633id_/http%3A//www.autofinancemart.com/car-finance-articles/auto-finance.php)  
-[Military Car Loans](https://web.archive.org/web/20090523221633id_/http%3A//www.autofinancemart.com/car-finance-articles/military-car-loans.php)  
-[Best UK Car Loan Finance](https://web.archive.org/web/20090523221633id_/http%3A//www.autofinancemart.com/car-finance-articles/uk-car-loan-finances.php)  
-[Student Car loan](https://web.archive.org/web/20090523221633id_/http%3A//www.autofinancemart.com/car-finance-articles/student-car-loans.php)  
-[Car Loan Comparison](https://web.archive.org/web/20090523221633id_/http%3A//www.autofinancemart.com/car-finance-articles/compare-car-loan-rates.php)
+[Used Car Loans](https://web.archive.org/web/20091130171847id_/http%3A//www.autofinancemart.com/car-finance-articles/used-car-loans.php)  
+[Financing a leased car](https://web.archive.org/web/20091130171847id_/http%3A//www.autofinancemart.com/car-finance-articles/car-lease-finance.php)  
+[No credit Car loans](https://web.archive.org/web/20091130171847id_/http%3A//www.autofinancemart.com/car-finance-articles/no-credit-car-loan.php)  
+[Classic Car Loans](https://web.archive.org/web/20091130171847id_/http%3A//www.autofinancemart.com/car-finance-articles/classic-car-loans.php)  
+[No Down payment loans](https://web.archive.org/web/20091130171847id_/http%3A//www.autofinancemart.com/car-finance-articles/no-down-payment-car-loan.php)  
+[Car Title loans](https://web.archive.org/web/20091130171847id_/http%3A//www.autofinancemart.com/car-finance-articles/car-title-loans.php)  
+[Car Loans Interest Rates](https://web.archive.org/web/20091130171847id_/http%3A//www.autofinancemart.com/car-finance-articles/interest-rates-on-car-loans.php)  
+[Auto Financing](https://web.archive.org/web/20091130171847id_/http%3A//www.autofinancemart.com/car-finance-articles/auto-finance.php)  
+[Military Car Loans](https://web.archive.org/web/20091130171847id_/http%3A//www.autofinancemart.com/car-finance-articles/military-car-loans.php)  
+[Best UK Car Loan Finance](https://web.archive.org/web/20091130171847id_/http%3A//www.autofinancemart.com/car-finance-articles/uk-car-loan-finances.php)  
+[Student Car loan](https://web.archive.org/web/20091130171847id_/http%3A//www.autofinancemart.com/car-finance-articles/student-car-loans.php)  
+[Car Loan Comparison](https://web.archive.org/web/20091130171847id_/http%3A//www.autofinancemart.com/car-finance-articles/compare-car-loan-rates.php)
 
 Useful Articles
 
-[Refinancing Car loan](https://web.archive.org/web/20090523221633id_/http%3A//www.autofinancemart.com/car-finance-articles/refinancing-car-loan.php)  
-[Guaranteed Car Finance](https://web.archive.org/web/20090523221633id_/http%3A//www.autofinancemart.com/car-finance-articles/guaranteed-car-finance.php)  
-[Car Insurance rates](https://web.archive.org/web/20090523221633id_/http%3A//www.autofinancemart.com/car-finance-articles/car-insurance-rates.php)  
-[Wells Forgo loans](https://web.archive.org/web/20090523221633id_/http%3A//www.autofinancemart.com/car-finance-articles/wells-fargo-car-loans.php)  
-[Bad Credit Car Loans](https://web.archive.org/web/20090523221633id_/http%3A//www.autofinancemart.com/car-finance-articles/bad-credit-car-loans.php)  
-[Car Loan Calculator](https://web.archive.org/web/20090523221633id_/http%3A//www.autofinancemart.com/car-finance-articles/car-loan-calculator.php)  
-[Bad Credit Auto Loans](https://web.archive.org/web/20090523221633id_/http%3A//www.autofinancemart.com/car-finance-articles/bad-credit-auto-loans.php)  
-[Bankruptcy Auto Loans](https://web.archive.org/web/20090523221633id_/http%3A//www.autofinancemart.com/car-finance-articles/auto-loans-bankruptcy.php)  
-[Amortization Schedule](https://web.archive.org/web/20090523221633id_/http%3A//www.autofinancemart.com/car-finance-articles/amortization-schedule.php)  
-[Car Safety](https://web.archive.org/web/20090523221633id_/http%3A//www.autofinancemart.com/car-finance-articles/car-safety.php)
+[Refinancing Car loan](https://web.archive.org/web/20091130171847id_/http%3A//www.autofinancemart.com/car-finance-articles/refinancing-car-loan.php)  
+[Guaranteed Car Finance](https://web.archive.org/web/20091130171847id_/http%3A//www.autofinancemart.com/car-finance-articles/guaranteed-car-finance.php)  
+[Car Insurance rates](https://web.archive.org/web/20091130171847id_/http%3A//www.autofinancemart.com/car-finance-articles/car-insurance-rates.php)  
+[Wells Forgo loans](https://web.archive.org/web/20091130171847id_/http%3A//www.autofinancemart.com/car-finance-articles/wells-fargo-car-loans.php)  
+[Bad Credit Car Loans](https://web.archive.org/web/20091130171847id_/http%3A//www.autofinancemart.com/car-finance-articles/bad-credit-car-loans.php)  
+[Car Loan Calculator](https://web.archive.org/web/20091130171847id_/http%3A//www.autofinancemart.com/car-finance-articles/car-loan-calculator.php)  
+[Bad Credit Auto Loans](https://web.archive.org/web/20091130171847id_/http%3A//www.autofinancemart.com/car-finance-articles/bad-credit-auto-loans.php)  
+[Bankruptcy Auto Loans](https://web.archive.org/web/20091130171847id_/http%3A//www.autofinancemart.com/car-finance-articles/auto-loans-bankruptcy.php)  
+[Amortization Schedule](https://web.archive.org/web/20091130171847id_/http%3A//www.autofinancemart.com/car-finance-articles/amortization-schedule.php)  
+[Car Safety](https://web.archive.org/web/20091130171847id_/http%3A//www.autofinancemart.com/car-finance-articles/car-safety.php)  
+[Car title payday loans](https://web.archive.org/web/20091130171847id_/http%3A//www.autofinancemart.com/car-finance-articles/payday-loans.php)
 
 Free News Letter
 
@@ -63,10 +64,10 @@ We request you to review the policy from time to time because it is in our sole 
 
 White Papers
 
-[Automotive Retailing](https://web.archive.org/web/20090523221633id_/http%3A//www.autofinancemart.com/whitepapers.php)  
-[Automotive whitepaper](https://web.archive.org/web/20090523221633id_/http%3A//www.autofinancemart.com/whitepapers.php)  
-[Supplier Industry](https://web.archive.org/web/20090523221633id_/http%3A//www.autofinancemart.com/whitepapers.php)
+[Automotive Retailing](https://web.archive.org/web/20091130171847id_/http%3A//www.autofinancemart.com/whitepapers.php)  
+[Automotive whitepaper](https://web.archive.org/web/20091130171847id_/http%3A//www.autofinancemart.com/whitepapers.php)  
+[Supplier Industry](https://web.archive.org/web/20091130171847id_/http%3A//www.autofinancemart.com/whitepapers.php)
 
 Suggest an Article
 
-Haven´t found the article you are looking for, please suggest your article. We value all your suggestions and comments. [](https://web.archive.org/web/20090523221633id_/http%3A//www.autofinancemart.com/forms/article-suggest.php)
+Haven´t found the article you are looking for, please suggest your article. We value all your suggestions and comments. [](https://web.archive.org/web/20091130171847id_/http%3A//www.autofinancemart.com/forms/article-suggest.php)
