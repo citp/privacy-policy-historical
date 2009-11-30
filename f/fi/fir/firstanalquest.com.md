@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstanalquest.com privacy policy that was archived on 2009-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090521224536id_/http%3A//firstanalquest.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstanalquest.com privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130021638id_/http%3A//firstanalquest.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
