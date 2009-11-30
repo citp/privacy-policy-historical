@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sinclairintl.com privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529201122id_/http%3A//www.sinclairintl.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sinclairintl.com privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130023720id_/http%3A//www.sinclairintl.com/privacy_policy) for the most accurate reproduction.*
 
-# Sinclair International - Specializing in products & supplies designed for precision rifle ammunition reloading and shooting
+# Specializing in Reloading Supplies and Equipment for Firearms - Sinclair International
 
 This is a privacy policy for Sinclair International. Our homepage on the Web is located at [http://www.sinclairintl.com](http://www.sinclairintl.com/). Users may go to [http://www.sinclairintl.com](http://www.sinclairintl.com/) for information on how to opt-in or opt-out of use of their information.
 
