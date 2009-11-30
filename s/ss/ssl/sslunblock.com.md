@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sslunblock.com privacy policy that was archived on 2009-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090513014509id_/http%3A//sslunblock.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sslunblock.com privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130121743id_/http%3A//sslunblock.com/privacy.php) for the most accurate reproduction.*
 
-# SSL Unblock - Top SSL Proxy to Unblock Sites!
+# SSLUnblock.com - Top SSL Proxy to Unblock Sites!
 
 ## Privacy Policy
 
