@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sogeti.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609185004id_/http%3A//www.sogeti.com/Online-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sogeti.com privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130101145id_/http%3A//www.sogeti.com/Online-privacy-policy) for the most accurate reproduction.*
 
 # Sogeti
 
@@ -52,3 +52,5 @@ Sogeti uses various technological and procedural security measures in order to p
   
 Sogeti websites may provide links to third-party websites. Sogeti does not make any representations or warranties with respect to such third-party websites. You should be aware that the owners and operators of such third-party websites might collect, use or transfer personal data under different terms and conditions than Sogeti. Upon linking to a third-party website, you should inform yourself of the privacy policies of such third party websites.  You should also be aware that third-party websites may use cookies.  
 
+
+[ ](http://www.addthis.com/bookmark.php)
