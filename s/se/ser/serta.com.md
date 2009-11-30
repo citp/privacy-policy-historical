@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serta.com privacy policy that was archived on 2009-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090528142013id_/http%3A//www.serta.com/Serta-mattress-leading-US-Mattress-manufacturer-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serta.com privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130010520id_/http%3A//www.serta.com/Serta-mattress-leading-US-Mattress-manufacturer-privacy-policy.html) for the most accurate reproduction.*
 
 # Serta. We Make The Worlds Best Mattresses. Privacy Policy
 
@@ -9,7 +9,7 @@ Your privacy is very important to Serta. We are committed to respecting your pri
 The information we collect and how we collect it.  
 Serta requests your personally identifiable information at “Sign up with Serta” and “Contact Serta.” We collect name, mailing address, phone number and e-mail address.
 
-[Sign up with Serta](https://web.archive.org/discount-mattress-sale-discount-promotion-code-Serta-mattresses-sales/sign-up-with-serta.html)  
+[Sign up with Serta](https://web.archive.org/discount-mattress-sale-discount-promotion-code-Serta-mattresses-sales.html#sign-up-with-serta)  
 [Contact Serta](https://web.archive.org/Serta-We-Make-The-Worlds-Best-Mattress-Contact-Information.html)
 
 Serta also collects certain information that is not personally identifiable. For example, as part of the Serta online find a dealer service, we collect your zip code to provide you with the name of the dealer nearest you. We also record statistical data about the use of our Web site, such as the number of visits to the various pages of our Web site. This information helps us to determine the areas of our Web site that are most attractive to our visitors, so that we can make improvements or add new features based on our visitors’ interests.
