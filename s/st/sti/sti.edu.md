@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the sti.edu privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430054447id_/http%3A//sti.edu/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sti.edu privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130031329id_/http%3A//www.sti.edu/privacy_policy.asp) for the most accurate reproduction.*
 
-# STI Privacy Policy
+# STI Colleges and Education Centers - Education for Real Life
 
 This is the website of STI College. It is our intention to have our valued users be aware of any information we collect, how we use it and under what circumstances, if any, we disclose it. 
 
   
 Website Administration 
 
-| School name:  | STI Colleges and Education Centers  
+School name:  | STI Colleges and Education Centers  
 ---|---  
 Address :  | STI Academic Center, University Parkway Drive, Fort Bonifacio Global City, Taguig, Philippines  
 Website URL:  | [_http://www.sti.edu_](http://www.sti.edu/)  
@@ -47,4 +47,4 @@ If we decide to change our privacy policy, we will post those changes to this pr
   
 Conflict Resolution
 
-We are committed to resolving disputes within 24-48 hours. If the problem arises, users may [_contact_](https://web.archive.org/web/20090430054447id_/http%3A//sti.edu/contact.asp) us by [_email_](mailto:inquire@stihq.net) or telephone. 
+We are committed to resolving disputes within 24-48 hours. If the problem arises, users may [_contact_](https://web.archive.org/web/20091130031329id_/http%3A//www.sti.edu/contact.asp) us by [_email_](mailto:inquire@stihq.net) or telephone. 
