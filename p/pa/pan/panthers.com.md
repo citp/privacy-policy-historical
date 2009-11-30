@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panthers.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531003944id_/http%3A//www.panthers.com/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panthers.com privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130205358id_/http%3A//www.panthers.com/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Carolina Panthers | Privacy Policy
 
@@ -23,17 +23,17 @@ When this privacy policy uses the term "personally identifiable information" or 
 Please read the information below to learn more about our data collection policies and practices.  
 
 
-  1. [Types Of Information That May Be Collected](https://web.archive.org/about-us/privacy-policy.html#1)
-  2. [How Information May Be Collected](https://web.archive.org/about-us/privacy-policy.html#2)
-  3. [How We Use The Information Collected](https://web.archive.org/about-us/privacy-policy.html#3)
-  4. [With Whom The Information May Be Shared](https://web.archive.org/about-us/privacy-policy.html#4)
-  5. [Links To Other Websites](https://web.archive.org/about-us/privacy-policy.html#5)
-  6. [Security](https://web.archive.org/about-us/privacy-policy.html#6)
-  7. [A Special Note For Parents Concerning Privacy](https://web.archive.org/about-us/privacy-policy.html#7)
-  8. [Your Acceptance Of The Privacy Policy And Notification Of Changes To The Policy](https://web.archive.org/about-us/privacy-policy.html#8)
-  9. [Correcting/Updating Personal Information](https://web.archive.org/about-us/privacy-policy.html#9)
-  10. [Your California Privacy Rights](https://web.archive.org/about-us/privacy-policy.html#10)
-  11. [Questions About This Privacy Policy](https://web.archive.org/about-us/privacy-policy.html#11)
+  1. [Types Of Information That May Be Collected](http://www.panthers.com/about-us/privacy-policy.html#1)
+  2. [How Information May Be Collected](http://www.panthers.com/about-us/privacy-policy.html#2)
+  3. [How We Use The Information Collected](http://www.panthers.com/about-us/privacy-policy.html#3)
+  4. [With Whom The Information May Be Shared](http://www.panthers.com/about-us/privacy-policy.html#4)
+  5. [Links To Other Websites](http://www.panthers.com/about-us/privacy-policy.html#5)
+  6. [Security](http://www.panthers.com/about-us/privacy-policy.html#6)
+  7. [A Special Note For Parents Concerning Privacy](http://www.panthers.com/about-us/privacy-policy.html#7)
+  8. [Your Acceptance Of The Privacy Policy And Notification Of Changes To The Policy](http://www.panthers.com/about-us/privacy-policy.html#8)
+  9. [Correcting/Updating Personal Information](http://www.panthers.com/about-us/privacy-policy.html#9)
+  10. [Your California Privacy Rights](http://www.panthers.com/about-us/privacy-policy.html#10)
+  11. [Questions About This Privacy Policy](http://www.panthers.com/about-us/privacy-policy.html#11)
 
 
 
