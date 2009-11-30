@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pogo.tv privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616053343id_/http%3A//www.pogo.tv/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pogo.tv privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130201841id_/http%3A//www.pogo.tv/privacy.html) for the most accurate reproduction.*
 
 # POGO TV
 
-[](https://web.archive.org/web/20090616053343id_/http%3A//www.pogo.tv/index.html)
+[](https://web.archive.org/web/20091130201841id_/http%3A//www.pogo.tv/index.html)
 
 **PRIVACY POLICY**
 
@@ -50,6 +50,6 @@ At pogo.tv, we use cookies to help make your experience better and understand ho
 
 As we have taken special precautions to aid in the safety of their children's World Wide Web experience, we ask parents to monitor closely the Internet activities of their children and become educated on the various Internet and software tools available so as to ensure that their children have a fun and satisfying on-line experience. 
 
-•[ Privacy Policy](https://web.archive.org/web/20090616053343id_/http%3A//www.pogo.tv/privacy.html) • [Terms of Use](https://web.archive.org/web/20090616053343id_/http%3A//www.pogo.tv/terms.html) •[ Trademark Information](https://web.archive.org/web/20090616053343id_/http%3A//www.pogo.tv/trade.html) • [Competition Rules](https://web.archive.org/web/20090616053343id_/http%3A//www.pogo.tv/rules.html) • [Winners](https://web.archive.org/web/20090616053343id_/http%3A//www.pogo.tv/winner.html) • [Contact Us](https://web.archive.org/web/20090616053343id_/http%3A//www.pogo.tv/contactus.html)  
+•[ Privacy Policy](https://web.archive.org/web/20091130201841id_/http%3A//www.pogo.tv/privacy.html) • [Terms of Use](https://web.archive.org/web/20091130201841id_/http%3A//www.pogo.tv/terms.html) •[ Trademark Information](https://web.archive.org/web/20091130201841id_/http%3A//www.pogo.tv/trade.html) • [Competition Rules](https://web.archive.org/web/20091130201841id_/http%3A//www.pogo.tv/rules.html) • [Winners](https://web.archive.org/web/20091130201841id_/http%3A//www.pogo.tv/winner.html) • [Contact Us](https://web.archive.org/web/20091130201841id_/http%3A//www.pogo.tv/contactus.html)  
 ™ & © 2009 Cartoon Network. A TimeWarner Company  
 [Site Credit](http://www.flipdesign.in/)
