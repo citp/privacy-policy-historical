@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coserv.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629004236id_/http%3A//www.coserv.com/PrivacyPolicy/tabid/148/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coserv.com privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130215503id_/http%3A//www.coserv.com/PrivacyPolicy/tabid/148/Default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
