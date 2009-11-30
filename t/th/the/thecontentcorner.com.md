@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecontentcorner.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629181454id_/http%3A//www.thecontentcorner.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecontentcorner.com privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130051327id_/http%3A//www.thecontentcorner.com/privacy.php) for the most accurate reproduction.*
 
 # Articles for Content @ The Content Corner
 
@@ -46,82 +46,3 @@ United States
 
 
 If you have any questions about this privacy statement, the practices of this web site, or your dealings with this web site, please contact us via email or postal mail.
-
-| 
-
-  
-**The Content Corner Members - come visit the new forum!** **MSF Forum Grand Opening**
-
-New forum is giving out cash prizes, and other good perks to help build our new community. 
-
-**
-
-[MSF Forum](http://www.marketersspaceforum.com/)
-
-**
-
-[ ](http://jbolte1976.salespagetactics.com/) **Sales Page Tactics Vol I**
-
-Experienced PHP/JavaScript Tutor Solves 19 Of Your Most Frustrating Direct Response Sales Page Hang-Ups! 
-
-  
-
-
-[ ](http://jbolte1976.salespagetactics.com/volume2) **Sales Page Tactics Vol 2**
-
-Programming Madman Opens His Secret Vault Of PHP and JavaScript Weapons, Proven To Explode Sales And Profits... Even A Dummy Could Implement!
-
-  
-
-
-  
-[ ](http://jbolte1976.salespagetactics.com/volume3) **Sales Page Tactics Vol 3**
-
-California Web Programmer Reveals 9 'Hidden Code' Strategies You Can Start Using Today To Multiply The Profits From ALL Your Online Sales Letters
-
-  
-
-
-  
-**Recommended Links**
-
-[](http://www.quickregister.net/)
-
-  
-**Other Article Directories:**   
-
-
-  
-**[Quantum-Seek.com](http://www.quantum-seek.com/)** **Quantum Seek -  
-A Quantum Leap In  
-Specialty Information Searches!**
-
-  
-**Sponsored Links**
-
-[**Make Money From Home** Follow my blog on how to start making money at home. ](http://money--from--home.blogspot.com/)[**Beer Brewing Kit Reviews**](http://beerbrewingkits.blogspot.com/)  
-Beer Brewing Kit Reviews, Homebrewing Information and more!
-
-[**Facts and Info 4U**](http://www.factsandinfo4u.com/)  
-Gardening, landscaping, foods and drink, games, home improvements, metals, and more!
-
-[**Buy Gold Online**](http://www.goldinfo4u.com/)  
-Gold Bars, Gold Bullion, White Gold and More!
-
-[**Sudoku Games**](http://www.sudokudome.com/)  
-Online Free Sudoku-Sudoku Directions-Sudoku Downloads-Sudoku Puzzles and Much More!
-
-[**Mary's Headlines**](http://www.marysheadlines.com/)  
-Internet marketing News and Reviews, SE News, Niche News, Beginners Basics, and more!
-
-[**Internet Marketing Tips**](http://www.internetmarketingtips4u.com/)  
-Internet marketing tips about sales, advertising, scams, strategies, basics and more!
-
-[**Best HD TV Info**](http://www.besthdtvinfo.com/)  
-For all of your HD TV needs and more!
-
-[**Telemetry News**](http://www.telemetrynews.com/)  
-Telemetry Equipment, Telemetry Receivers, Telemetry Transmitters and more!
-
-[**Culinary Arts News**](http://www.culinaryartsnews.com/)  
-Learn the latest Culinary Arts news and how you can become a world renown Chef and more!
