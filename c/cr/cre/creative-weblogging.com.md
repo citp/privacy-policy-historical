@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creative-weblogging.com privacy policy that was archived on 2009-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090506050034id_/http%3A//www.creative-weblogging.com/index/privacy_policy-71-1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creative-weblogging.com privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130020653id_/http%3A//www.creative-weblogging.com/index/privacy_policy-71-1.html) for the most accurate reproduction.*
 
 # the blog network for the discerning consumer and professional
 
