@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the ladyfootlocker.com privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614165144id_/http%3A//www.ladyfootlocker.com/content/custserv/supercat--home/help--privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ladyfootlocker.com privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130032108id_/http%3A//www.ladyfootlocker.com/content/custserv/help--privacyPolicy) for the most accurate reproduction.*
 
 # Lady Foot Locker
 
 
 
-
-Thank you for visiting our Website. We recently revised our Online Privacy Statement to make it easier for you to understand. This revised Statement, like our previous one, outlines the information we collect, how we may use and disclose it, and what your options are with respect to our practices.
 
 **Online Privacy Statement**
 
@@ -113,5 +111,3 @@ This Website contains links to other sites, which may have privacy policies that
 You acknowledge and agree that Lady Foot Locker is not responsible for the content, accuracy, legality, decency, copyright compliance, privacy practices, security or any other aspects of any such linked websites, and that the access or use of any such linked websites is solely at your own risk, and you hereby waive any and all claims against Lady Foot Locker with respect to such linked websites.
 
 **Safe Harbor Certification** Lady Foot Locker adheres to the Safe Harbor Privacy Framework as set forth by the United States Department of Commerce in coordination with the European Commission. If you have any complaints regarding our compliance with the Safe Harbor you should contact us at: [counsel@footlocker.com](mailto:counsel@footlocker.com).
-
-Copyright © 2009 Lady Foot Locker, Inc. All rights reserved.
