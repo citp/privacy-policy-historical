@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the trump.com privacy policy that was archived on 2009-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090626042052id_/http%3A//www.trump.com/Privacy_Policy/Privacy_Policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trump.com privacy policy that was archived on 2009-11-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091130125227id_/http%3A//www.trump.com/Privacy_Policy/Privacy_Policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
@@ -66,7 +66,6 @@ function eGallery_getImage2(button)
 <meta name="verify-v1" content="YgTjgNCSkMRlJn0Pq9GCBmWPEMfQReCH5bbMjRrDVwc=">
 
 <!-- favicon file -->
-
 <link rel="shortcut icon" href="/_images/TrumpFavicon.ico">
 
 
@@ -83,6 +82,12 @@ function eGallery_getImage2(button)
 	font-size:11px;
 	color: #cbcbcb;
 	line-height:17px;
+	}
+.content h1 {
+	font-family:"Times New Roman", Times, serif;
+	font-size: 20px;
+	color:#dedede;
+	font-weight:normal;
 	}
 	
 .footer {
@@ -257,7 +262,13 @@ margin: 0px;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 11px;
 	color: #FFFFFF;
-}</style>
+}
+.toolbox {
+	border:1px solid #fcfcfa;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#ffffff;
+	 }</style>
 <!--[if lte IE 6]>
 <link rel="stylesheet" media="all" type="text/css" href="/_css/style_ie.css" />
 <![endif]-->
@@ -3302,19 +3313,44 @@ params.wmode = 'transparent';
 var attributes = {};
 swfobject.embedSWF("/_flash/index_loader.swf", "flashDiv", "100%", "640", "9.0.0", "/swfobject/expressInstall.swf",flashvars,params,attributes);
 
-var flashvars2 = {};
-flashvars2.skip = '';
-var params2 = {};
-params2.bgcolor = '000000';
-params2.wmode = 'transparent';
-var attributes2 = {};
-swfobject.embedSWF("/_flash/index_loader_test.swf", "flashDiv_test", "100%", "640", "9.0.0", "/swfobject/expressInstall.swf",flashvars2,params2,attributes2);
+var flashvarsTest = {};
+flashvarsTest.skip = '';
+var paramsTest = {};
+paramsTest.bgcolor = '000000';
+paramsTest.wmode = 'transparent';
+var attributesTest = {};
+attributesTest.id = 'TDC_TEST';
+swfobject.embedSWF("/_flash/index_loader_test.swf", "flashDivTest", "100%", "640", "9.0.0", "/swfobject/expressInstall.swf",flashvarsTest,paramsTest,attributesTest);
 
 var flashvars3 = {};
 var params3 = {bgcolor: "000000"};
 var attributes3 = {};
 swfobject.embedSWF("/_flash/TrumpMagazineStack3d_2.swf", "booksflashDiv", "595", "350", "9.0.0", "/swfobject/expressInstall.swf",flashvars3,params3,attributes3);
 </script>
+
+<!-- Popup Function -->
+    <script type="text/javascript">
+	//Function called from home page flash booking mask.
+	function popup(url) 
+	{
+	 var width  = screen.width;
+	 var height = screen.height;
+	 var left   = (screen.width  - width)/2;
+	 var top    = (screen.height - height)/2;
+	 var params = 'width='+width+', height='+height;
+	 params += ', top='+top+', left='+left;
+	 params += ', directories=no';
+	 params += ', location=yes';
+	 params += ', menubar=yes';
+	 params += ', resizable=yes';
+	 params += ', scrollbars=yes';
+	 params += ', status=no';
+	 params += ', toolbar=no';
+	 newwin=window.open(url,'windowname5', params);
+	 if (window.focus) {newwin.focus()}
+	// return false;
+	}
+	</script>
 
 
 
@@ -3814,17 +3850,28 @@ dm_init();</script><div id="dmD0" style=""><div id="dm0m0" onmouseover="dm_mouse
       </tr>
       <tr>
         <td colspan="3" align="center" valign="middle">
-		  <p><br>725 Fifth Avenue New York, NY 10022 | New York Tel: 212-832-2000 | New York Fax: 212-935-0141</p>
-		  <h1><p style="font-size:9px;">The Trump Organization located in New York, New York</p></h1>
-          <p style="font-size:9px;">Copyright © 2009 Donald J. Trump</p>
-          
-        <p style="font-size:9px;"><a title="Chicago Luxury Hotels" href="http://www.trumpchicagohotel.com/" target="_blank">Trump International Hotel &amp; Tower Chicago</a></p>
-
-		<p style="font-size:9px;"><a title="New York Luxury Hotels" href="http://www.trumpintl.com/" target="_blank">Trump International Hotel &amp; Tower New York</a></p>
-
-		<p style="font-size:9px;"><a title="Las Vegas Luxury Hotels" href="http://www.trumplasvegashotel.com/" target="_blank">Trump International Hotel Las Vegas</a></p>
-          
-        <p><a href="http://www.cendyn.com" onclick="javascript: pageTracker._trackPageview('/outgoing/cendyn.com');" target="_blank" class="footer" style="font-size:9px;">Internet Marketing</a> <font style="color:#c6c6c6; font-size:9px; font-family:Arial;">by</font> <a href="http://www.cendyn.com" target="_blank" class="footer" onclick="javascript: pageTracker._trackPageview('/outgoing/cendyn.com');" style="font-size:9px;">Cendyn</a></p></td>
+			<table cellpadding="0" cellspacing="15" border="0" width="100%">
+				<tbody><tr>
+					<td align="center">725 Fifth Avenue New York, NY 10022 | New York Tel: 212-832-2000 | New York Fax: 212-935-0141</td>
+				</tr>
+				<tr>
+					<td align="center"><h1 style="padding:0px; margin:0px;"><p style="font-size:9px;">Trump® located in New York, New York</p></h1></td>
+				</tr>
+				<tr>
+					<td align="center" style="font-size:9px;">
+						<a title="New York Luxury Hotels" href="http://www.trumpintl.com/" target="_blank">Trump International Hotel &amp; Tower New York</a>&nbsp;&nbsp;&nbsp;&nbsp;
+						<a title="Chicago Luxury Hotels" href="http://www.trumpchicagohotel.com/" target="_blank">Trump International Hotel &amp; Tower Chicago</a>&nbsp;&nbsp;&nbsp;&nbsp;
+						<a title="Las Vegas Luxury Hotels" href="http://www.trumplasvegashotel.com/" target="_blank">Trump International Hotel Las Vegas</a>
+					</td>
+				</tr>
+				<tr>
+					<td align="center"><p style="font-size:9px;">Copyright © 2009 Donald J. Trump</p></td>
+				</tr>
+				<tr>
+					<td align="center"><a href="http://www.cendyn.com" onclick="javascript: pageTracker._trackPageview('/outgoing/cendyn.com');" target="_blank" class="footer" style="font-size:9px;">Internet Marketing</a> <font style="color:#c6c6c6; font-size:9px; font-family:Arial;">by</font> <a href="http://www.cendyn.com" target="_blank" class="footer" onclick="javascript: pageTracker._trackPageview('/outgoing/cendyn.com');" style="font-size:9px;">Cendyn</a></td>
+				</tr>
+			</tbody></table>
+		</td>
         </tr>
     </tbody></table></td>
         	  <td bgcolor="#000000"></td>
