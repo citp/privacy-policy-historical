@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paymentus.com privacy policy that was archived on 2009-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090528000711id_/http%3A//www.paymentus.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paymentus.com privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130125213id_/http%3A//www.paymentus.com/privacy/index.html) for the most accurate reproduction.*
 
 # Paymentus | Privacy Policy
 
