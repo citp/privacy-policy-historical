@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the conservation.org privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430212400id_/http%3A//conservation.org/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conservation.org privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130084041id_/http%3A//www.conservation.org/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Conservation International
+
+Privacy Policy 
 
  
 
@@ -47,10 +49,10 @@ Websites directly affiliated with [www.conservation.org](https://web.archive.org
   * Center for Environmental Leadership and Business, [www.celb.org](http://www.celb.org/)
   * Critical Ecosystem Partnership Fund, [www.cepf.net](http://www.cepf.net/)
   * Defying Nature’s End, [www.defyingnaturesend.org](http://www.defyingnaturesend.org/)
-  * Global Conservation Fund, <http://web.conservation.org/xp/gcf>
+  * Global Conservation Fund, [www.conservation.org/gcf](https://web.archive.org/gcf)
   * The Ecotravel Center, [www.ecotour.org](http://www.ecotour.org/)
-  * Team Earth, [www.teamearth.org](http://www.teamearth.org/)
-  * Verde Ventures, <http://web.conservation.org/xp/verdeventures/>
+  * Team Earth, [www.teamearth.com ](http://www.teamearth.com/)
+  * Verde Ventures, [www.conservation.org/verdeventures](https://web.archive.org/verdeventures)
 
 
 
@@ -60,6 +62,12 @@ None of the websites covered by this policy knowingly collect identifiable perso
 
 If you feel that this site is not following its stated privacy policy, please contact us by email or phone or contact The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org). 
 
-|   |   
+| 
+
+[
+
+[](http://getinvolved.conservation.org/donate)
+
+](http://getinvolved.conservation.org/donate)  
   
----|---|---
+---|---
