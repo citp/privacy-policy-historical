@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moo.com privacy policy that was archived on 2008-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081202173635id_/http%3A//www.moo.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moo.com privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130163217id_/http%3A//us.moo.com/en/about/privacy-policy) for the most accurate reproduction.*
 
-# MOO.com | Privacy policy
+# Privacy policy | moo.com USA
 
 MOO Print Ltd - Privacy Policy   
 OPENING STATEMENT: 
@@ -57,7 +57,7 @@ More detailed information on cookies may be found in the Help section of your we
 
 Our commitment to the privacy of children 
 
-Protecting the privacy of the very young is extremely important to us. No part of our website is structured to attract anyone under 13. We never seek to collect or maintain information at our website from those under the age of 13, but if it comes to our attention that we have received information about a child under the age of 13 that information will be immediately deleted from our records. [See Terms & Conditions](http://www.moo.com/about/terms-conditions#tcheadings). 
+Protecting the privacy of the very young is extremely important to us. No part of our website is structured to attract anyone under 13. We never seek to collect or maintain information at our website from those under the age of 13, but if it comes to our attention that we have received information about a child under the age of 13 that information will be immediately deleted from our records. [See Terms & Conditions](http://us.moo.com/en/about/terms-conditions#tcheadings). 
 
 Information Sharing And Disclosure 
 
@@ -157,7 +157,7 @@ Clerkenwell
 London   
 EC1R 3DD 
 
-www.moo.com/service 
+https://secure.moo.com/service 
 
 (Please note that by English law we are entitled to charge you a small sum for providing this information) 
 
