@@ -1,8 +1,14 @@
-> *The following text is extracted and transformed from the dvdstore.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050500id_/http%3A//www.dvdstore.com/%3Fmain_menu_show%3Dpage_privacy%26main_menu_id%3D231000) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvdstore.com privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130042309id_/http%3A//support.dvdstore.com/support_privacy.php%3Fch_lang%3Dus%26tour%3D1%26id%3D3034%26country%3Dus) for the most accurate reproduction.*
 
-# DVDStore
+# DVDStore.com
 
-##### Keeping you privacy is very important and is protected while using our Site. Please make sure to read the Site's Terms & Conditions as well.
+**SPACASH  
+Privacy Policy  
+**
+
+* * *
+
+Keeping you privacy is very important and is protected while using our Site. Please make sure to read the Site's Terms & Conditions as well.
 
 When you chose to sign-up as a service user of this site, you will be required to provide certain information such as your name, email address, home address and banking information. We also collect your IP address and keep the username and password you use to access our site.
 
