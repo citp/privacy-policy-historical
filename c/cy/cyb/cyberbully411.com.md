@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberbully411.com privacy policy that was archived on 2009-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090421202446id_/http%3A//www.cyberbully411.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberbully411.com privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130203542id_/http%3A//www.cyberbully411.com/privacy.php) for the most accurate reproduction.*
 
 # Prevent Cyber Bullying : Privacy Policy
 
