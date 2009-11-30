@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spanishdict.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601061047id_/http%3A//www.spanishdict.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spanishdict.com privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130154951id_/http%3A//www.spanishdict.com/company/privacy) for the most accurate reproduction.*
 
-# SpanishDict | Privacy Policy
+# SpanishDict | Privacy
 
 ## Website Visitors
 
