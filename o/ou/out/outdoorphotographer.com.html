@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the outdoorphotographer.com privacy policy that was archived on 2009-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090616060717id_/http%3A//www.outdoorphotographer.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the outdoorphotographer.com privacy policy that was archived on 2009-11-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091130045332id_/http%3A//www.outdoorphotographer.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
+<meta name="verify-v1" content="EUFyLiNmwI8IYg+KcFlC1MCl2dBK+dxbNi6xbBvhhyc=">
   <base href="http://www.outdoorphotographer.com/privacy-policy.html">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="robots" content="index, follow">
@@ -11,7 +12,11 @@
   <meta name="generator" content="Joomla! 1.5 - Open Source Content Management">
   <title>Privacy Policy | OutdoorPhotographer.com</title>
   <link href="/templates/op/favicon.ico" rel="shortcut icon" type="image/x-icon">
+  <link rel="stylesheet" href="/plugins/system/2j_tabs/2j_tabs.css" type="text/css">
   <link rel="stylesheet" href="/modules/mod_labels_cloud/css/mod_labels_cloud.css" type="text/css">
+  <script type="text/javascript" src="/plugins/system/2j_tabs/jq_last.js"></script>
+  <script type="text/javascript" src="/plugins/system/2j_tabs/2j.ui.base.js"></script>
+  <script type="text/javascript" src="/plugins/system/2j_tabs/2j.ui.tabs.js"></script>
   <script type="text/javascript" src="/media/system/js/mootools.js"></script>
 
 <script src="/script/rotator.js" type="text/javascript"></script>
@@ -29,6 +34,28 @@
 <![endif]-->
 <script language="Javascript">
 <!--
+var playedOnce = false;
+
+function onYouTubePlayerReady(playerid) {
+player = document.getElementById('ytvideo');
+player.addEventListener('onStateChange', 'youtubeEvent');
+}
+
+function youtubeEvent(state) {
+if (state == 1) {
+if (!playedOnce) {
+playedOnce = true;
+pageTracker._trackEvent('video', 'unique_play_per_page');
+}
+pageTracker._trackEvent('video', 'play');
+return;
+}
+if (state == 0) {
+pageTracker._trackEvent('video', 'ended');
+return;
+}
+}
+
 var axel = Math.random() + "";
 var ord = axel * 1000000000000000000;
 //-->
@@ -38,22 +65,23 @@ var ord = axel * 1000000000000000000;
 <div id="highslide-container"></div> <!-- Highslide Image Script -->
 <div class="center" align="center"><a name="up" id="up"></a>
  
- <div align="center"><div id="top-ad"><!-- Top 728 x 90 Banner Starts Here -->
-  <script language="JavaScript" type="text/javascript" src="/script/banner_ads.js"></script>
-
-  <noscript>
-  <a href="http://ad.doubleclick.net/jump/outdoorphotographer.tmus/homepage;tile=1;pos=1;sz=728x90;ord=123456789?" target="_blank">
-  <img src="http://ad.doubleclick.net/ad/outdoorphotographer.tmus/homepage;tile=1;pos=1;sz=728x90;ord=123456789?" width="728" height="90" border="0" alt=""></a>
-  </noscript>
-  <br>
-<!-- Top 728 x 90 Banner  Ends Here --></div></div> <div id="wrapper">
+ <div align="center"><div id="top-ad"><!-- begin ad tag (tile=1) -->
+<script type="text/javascript">
+//<![CDATA[
+if (typeof ord=='undefined') {ord=Math.random()*10000000000000000;}
+document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/outdoorphotographer.tmus;tile=1;pos=1;sz=728x90;dcopt=ist;ord=' + ord + '?"><\/script>');
+//]]>
+</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/outdoorphotographer.tmus;tile=1;pos=1;sz=728x90;dcopt=ist;ord=972297042433511600?"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/outdoorphotographer.tmus;tile=1;pos=1;sz=728x90;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/outdoorphotographer.tmus;tile=1;pos=1;sz=728x90;ord=123456789?" border="0" alt="" /></a></noscript>
+<!-- end ad tag --></div></div> <div id="wrapper">
   <div id="header"><div id="header-left"><a href="/"><img border="0" src="/templates/op/images/hdr-left.jpg" alt="Outdoor Photographer Magazine"></a></div><div id="header-right"><br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr>
-  <td width="140"><a href="https://www.neodata.com/pub/ouph/new_sub.shtml" target="_blank"><img src="/templates/op/images/spacer.png" width="140" height="85" border="0"></a></td><td valign="top"><div align="left"><ul id="newsstand"><li><a href="https://www.neodata.com/pub/ouph/new_sub.shtml" target="_blank" class="onns">Subscribe &amp; Save!</a></li>
-  <li><a href="https://www.neodata.com/pub/ouph/gift_sub.shtml" target="_blank">Give a Gift</a></li>
-  <li><a href="https://www.neodata.com/pub/ouph/index.shtml#login" target="_blank">Customer Service</a></li>
-  <li><a href="http://www.outdoorphotographer.com/enewsletter" target="_blank">eNewsletter</a></li>
+  <td width="100"><a href="https://www.neodata.com/ITPS2.cgi?OrderType=Reply+Only&amp;ItemCode=OUPH&amp;iResponse=OUPH.GIFT%20ORDER" target="_blank"><img src="/templates/op/images/spacer.png" width="100" height="85" border="0"></a></td><td valign="top"><div align="left"><ul id="newsstand">
+  <li><a href="https://www.neodata.com/ITPS2.cgi?OrderType=Reply+Only&amp;ItemCode=OUPH&amp;iResponse=OUPH.GIFT%20ORDER" target="_blank" class="onns">Give a Gift &amp; Save!</a></li>
+  <li><a href="https://www.neodata.com/ITPS2.cgi?ItemCode=OUPH&amp;OrderType=Reply+Only&amp;iResponse=OUPH.Credit%20Card%20Information" target="_blank">Subscribe Today!</a></li>
+  <li><a href="https://www.neodata.com/ITPS2.cgi?OrderType=Reply+Only&amp;ItemCode=ouph&amp;iResponse=ouph.inquiry#login" target="_blank">Customer Service</a></li>
+  <li><a href="http://www.outdoorphotographer.com/enewsletter">eNewsletter</a></li>
   <li><a href="http://www.wernerpublishing.com/cgi-wp/wernerpublishing/op.html" target="_blank">Back Issues</a></li></ul></div></td></tr></tbody></table></div></div>
-  <div id="top_menu"><div class="moduletable_topmenu"><ul class="menu" id="topmenu"><li class="item1030"><a href="http://www.outdoorphotographer.com/"><span>Home</span></a></li><li class="parent active item1032"><a href="/how-to.html"><span>How-To</span></a><ul><li class="item1033"><a href="/how-to/shooting.html"><span>Shooting</span></a></li><li class="item1034"><a href="/how-to/printing-and-output.html"><span>Printing &amp; Output</span></a></li><li class="item1035"><a href="/how-to/photoshop-and-other-software.html"><span>Photoshop &amp; Other Software</span></a></li><li class="active item1036"><a href="/how-to/quick-tips.html"><span>Quick Tips</span></a></li><li class="item1037"><a href="/how-to/photo-basics.html"><span>Photo Basics</span></a></li><li class="item1038"><a href="/how-to/more-how-to.html"><span>More How-To</span></a></li></ul></li><li class="parent item1039"><a href="/gear.html"><span>Gear</span></a><ul><li class="item1040"><a href="/gear/cameras.html"><span>Cameras</span></a></li><li class="item1041"><a href="/gear/lenses.html"><span>Lenses</span></a></li><li class="item1042"><a href="/gear/digital-darkroom.html"><span>Digital Darkroom</span></a></li><li class="item1341"><a href="/gear/printers.html"><span>Printers</span></a></li><li class="item1043"><a href="/gear/accessories.html"><span>Accessories</span></a></li><li class="item1044"><a href="/gear/buyers-guide.html"><span>Buyer's Guide</span></a></li><li class="item1045"><a href="/gear/first-look.html"><span>First Look</span></a></li><li class="item1296"><a href="/gear/in-focus.html"><span>In Focus</span></a></li><li class="item1046"><a href="/gear/op-news-and-announcements.html"><span>OP News &amp; Announcements</span></a></li><li class="item1047"><a href="/gear/more-gear.html"><span>More Gear</span></a></li></ul></li><li class="parent item1048"><a href="/locations.html"><span>Locations</span></a><ul><li class="item1050"><a href="/your-favorite-places.html"><span>Your Favorite Places</span></a></li><li class="item1049"><a href="http://www2.outdoorphotographer.com/travelandworkshops"><span>Travel &amp; Workshops</span></a></li><li class="item1051"><a href="/locations/north-america.html"><span>North America</span></a></li><li class="item1052"><a href="/locations/international.html"><span>International</span></a></li><li class="item1053"><a href="http://www2.outdoorphotographer.com/top100/locations.php"><span>Top 100 Iconic Locations</span></a></li></ul></li><li class="parent item1054"><a href="/your-favorite-places.html"><span>Your Favorite Places</span></a><ul><li class="item1055"><a href="/your-favorite-places/submit.html"><span>Submit Now</span></a></li><li class="item1056"><a href="/your-favorite-places.html"><span>View Gallery</span></a></li></ul></li><li class="parent item1533"><a href="/contests.html"><span>Contests</span></a><ul><li class="item1889"><a href="/contests.html"><span>Photo Contests</span></a></li><li class="item1890"><a href="/contests/win-this.html"><span>Win This</span></a></li></ul></li><li class="parent item1057"><a href="/columns.html"><span>Columns</span></a><ul><li class="item1058"><a href="/columns/basic-jones.html"><span>Basic Jones</span></a></li><li class="item1059"><a href="/columns/digital-horizons.html"><span>Digital Horizons</span></a></li><li class="item1060"><a href="/columns/favorite-places.html"><span>Favorite Places</span></a></li><li class="item1061"><a href="/columns/on-landscape.html"><span>On Landscape</span></a></li><li class="item1062"><a href="/columns/solutions.html"><span>Solutions</span></a></li><li class="item1063"><a href="/columns/tech-tips.html"><span>Tech Tips</span></a></li><li class="item1064"><a href="/columns/photo-adventure.html"><span>Photo Adventure</span></a></li><li class="item1065"><a href="/columns/photo-traveler.html"><span>Photo Traveler</span></a></li><li class="item1665"><a href="/columns/world-view.html"><span>World View</span></a></li></ul></li><li class="parent item1066"><a href="/galleries.html"><span>Pro Gallery</span></a><ul><li class="item1067"><a href="/galleries/daryl-benson.html"><span>Daryl Benson</span></a></li><li class="item1068"><a href="/galleries/craig-blacklock.html"><span>Craig Blacklock</span></a></li><li class="item1069"><a href="/galleries/elizabeth-carmel.html"><span>Elizabeth Carmel</span></a></li><li class="item1070"><a href="/galleries/bill-curtsinger.html"><span>Bill Curtsinger</span></a></li><li class="item1688"><a href="/galleries/peter-scott-eide.html"><span>Peter Scott Eide</span></a></li><li class="item1733"><a href="/galleries/james-kay-outdoor-photo-gallery.html"><span>James Kay</span></a></li><li class="item1073"><a href="/galleries/eliot-porter-and-robert-glenn-ketchum.html"><span>Eliot Porter &amp; Robert Glenn Ketchum</span></a></li><li class="item1877"><a href="/galleries/bob-krist-outdoor-photo-gallery.html"><span>Bob Krist</span></a></li><li class="item1071"><a href="/galleries/frans-lanting.html"><span>Frans Lanting</span></a></li><li class="item1072"><a href="/galleries/dan-montgomery.html"><span>Dan Montgomery</span></a></li><li class="item1876"><a href="/galleries/moose-peterson-outdoor-photo-gallery.html"><span>Moose Peterson</span></a></li><li class="item1074"><a href="/galleries/kevin-schafer.html"><span>Kevin Schafer</span></a></li><li class="item1075"><a href="/galleries/rob-sheppard.html"><span>Rob Sheppard</span></a></li><li class="item1076"><a href="/galleries/john-snell.html"><span>John Snell</span></a></li><li class="item1977"><a href="/galleries/tom-till-outdoor-photo-gallery.html"><span>Tom Till</span></a></li></ul></li><li class="parent item1077"><a href="http://www.outdoorphotographer.com/forums/" target="_blank"><span>Community</span></a><ul><li class="item1078"><a href="http://www.outdoorphotographer.com/forums/" target="_blank"><span>Forums</span></a></li><li class="item1079"><a href="/community/op-editorial-blog.html"><span>OP Editorial Blog</span></a></li><li class="item1859"><a href="http://www.facebook.com/pages/Outdoor-Photographer-Magazine/59273816174"><span>OP on Facebook</span></a></li></ul></li><li class="parent item1080"><a href="https://www.neodata.com/pub/ouph/new_sub.shtml" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,');return false;"><span>Subscribe</span></a><ul><li class="item1081"><a href="https://www.neodata.com/pub/ouph/new_sub.shtml" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,');return false;"><span>Subscribe Now</span></a></li><li class="item1083"><a href="https://www.neodata.com/pub/ouph/gift_sub.shtml" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,');return false;"><span>Give A Gift</span></a></li><li class="item1082"><a href="https://www.neodata.com/pub/ouph/index.shtml#login" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,');return false;"><span>Customer Service</span></a></li><li class="item1084"><a href="http://app.mobilestorm.com/stun/manageforms/preview.php?weburl=1&amp;formID=3967&amp;weblink=1" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,');return false;"><span>eNewsletter</span></a></li><li class="item1085"><a href="http://www.wernerpublishing.com/cgi-wp/wernerpublishing/op.html" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,');return false;"><span>Back Issues</span></a></li></ul></li></ul>
+  <div id="top_menu"><div class="moduletable_topmenu"><ul class="menu" id="topmenu"><li class="item1030"><a href="http://www.outdoorphotographer.com/"><span>Home</span></a></li><li class="parent active item1032"><a href="/how-to.html"><span>How-To</span></a><ul><li class="item1033"><a href="/how-to/shooting.html"><span>Shooting</span></a></li><li class="item1034"><a href="/how-to/printing-and-output.html"><span>Printing &amp; Output</span></a></li><li class="item1035"><a href="/how-to/photoshop-and-other-software.html"><span>Photoshop &amp; Other Software</span></a></li><li class="item1036"><a href="/how-to/quick-tips.html"><span>Quick Tips</span></a></li><li class="item1037"><a href="/how-to/photo-basics.html"><span>Photo Basics</span></a></li><li class="item1038"><a href="/how-to/more-how-to.html"><span>More How-To</span></a></li></ul></li><li class="parent item1039"><a href="/gear.html"><span>Gear</span></a><ul><li class="item1040"><a href="/gear/cameras.html"><span>Cameras</span></a></li><li class="item1041"><a href="/gear/lenses.html"><span>Lenses</span></a></li><li class="item1042"><a href="/gear/digital-darkroom.html"><span>Digital Darkroom</span></a></li><li class="item1341"><a href="/gear/printers.html"><span>Printers</span></a></li><li class="item1043"><a href="/gear/accessories.html"><span>Accessories</span></a></li><li class="item1044"><a href="/gear/buyers-guide.html"><span>Buyer's Guide</span></a></li><li class="item1045"><a href="/gear/first-look.html"><span>First Look</span></a></li><li class="item1296"><a href="/gear/in-focus.html"><span>In Focus</span></a></li><li class="item1046"><a href="/gear/op-news-and-announcements.html"><span>OP News &amp; Announcements</span></a></li><li class="item1047"><a href="/gear/more-gear.html"><span>More Gear</span></a></li></ul></li><li class="parent item1048"><a href="/locations.html"><span>Locations</span></a><ul><li class="item1050"><a href="/your-favorite-places.html"><span>Your Favorite Places</span></a></li><li class="item1049"><a href="http://www2.outdoorphotographer.com/travelandworkshops"><span>Travel &amp; Workshops</span></a></li><li class="item1051"><a href="/locations/north-america.html"><span>North America</span></a></li><li class="item1052"><a href="/locations/international.html"><span>International</span></a></li><li class="item1053"><a href="http://www2.outdoorphotographer.com/top100/locations.php"><span>Top 100 Iconic Locations</span></a></li></ul></li><li class="parent item1054"><a href="/your-favorite-places.html"><span>Your Favorite Places</span></a><ul><li class="item1055"><a href="/your-favorite-places/submit.html"><span>Submit Now</span></a></li><li class="item1056"><a href="/your-favorite-places.html"><span>View Gallery</span></a></li><li class="item2184"><a href="/gallery/editors-lightbox.html"><span>Editors Lightbox</span></a></li></ul></li><li class="parent item1533"><a href="/contests.html"><span>Contests</span></a><ul><li class="item1889"><a href="/contests.html"><span>Photo Contests</span></a></li><li class="item1890"><a href="/contests/win-this.html"><span>Win This</span></a></li></ul></li><li class="parent item1057"><a href="/columns.html"><span>Columns</span></a><ul><li class="item1058"><a href="/columns/basic-jones.html"><span>Basic Jones</span></a></li><li class="item1059"><a href="/columns/digital-horizons.html"><span>Digital Horizons</span></a></li><li class="item1060"><a href="/columns/favorite-places.html"><span>Favorite Places</span></a></li><li class="item1061"><a href="/columns/on-landscape.html"><span>On Landscape</span></a></li><li class="item1062"><a href="/columns/solutions.html"><span>Solutions</span></a></li><li class="item1063"><a href="/columns/tech-tips.html"><span>Tech Tips</span></a></li><li class="item1064"><a href="/columns/photo-adventure.html"><span>Photo Adventure</span></a></li><li class="item1065"><a href="/columns/photo-traveler.html"><span>Photo Traveler</span></a></li><li class="item1665"><a href="/columns/world-view.html"><span>World View</span></a></li></ul></li><li class="parent item1066"><a href="/galleries.html"><span>Pro Gallery</span></a><ul><li class="item2047"><a href="/galleries/david-muench-outdoor-photo-gallery.html"><span>David Muench</span></a></li><li class="item2099"><a href="/galleries/william-neill-outdoor-photo-gallery.html"><span>William Neill</span></a></li><li class="item2052"><a href="/galleries/glenn-randall-outdoor-photo-gallery.html"><span>Glenn Randall</span></a></li><li class="item2096"><a href="/galleries/florian-schulz-outdoor-photo-gallery.html"><span>Florian Schulz</span></a></li><li class="item2050"><a href="/galleries/art-wolfe-outdoor-photo-gallery.html"><span>Art Wolfe</span></a></li><li class="item1977"><a href="/galleries.html"><span>View All Galleries</span></a></li></ul></li><li class="parent item1077"><a href="/community.html"><span>Community</span></a><ul><li class="item1078"><a href="http://www.outdoorphotographer.com/forums/" target="_blank"><span>Forums</span></a></li><li class="item1079"><a href="/community/blogs/op-editorial-blog.html"><span>OP Editorial Blog</span></a></li><li class="item2126"><a href="/community/blogs/in-the-zone.html"><span>In The Zone</span></a></li><li class="item1859"><a href="http://www.facebook.com/pages/Outdoor-Photographer-Magazine/59273816174"><span>OP on Facebook</span></a></li></ul></li><li class="parent item1080"><a href="https://www.neodata.com/ITPS2.cgi?ItemCode=OUPH&amp;OrderType=Reply+Only&amp;iResponse=OUPH.Credit%20Card%20Information" target="_blank"><span>Subscribe</span></a><ul><li class="item1081"><a href="https://www.neodata.com/ITPS2.cgi?ItemCode=OUPH&amp;OrderType=Reply+Only&amp;iResponse=OUPH.Credit%20Card%20Information" target="_blank"><span>Subscribe Now</span></a></li><li class="item1083"><a href="https://www.neodata.com/ITPS2.cgi?OrderType=Reply+Only&amp;ItemCode=ouph&amp;iResponse=ouph.gift%20order" target="_blank"><span>Give A Gift</span></a></li><li class="item1082"><a href="https://www.neodata.com/ITPS2.cgi?OrderType=Reply+Only&amp;ItemCode=ouph&amp;iResponse=ouph.inquiry#login" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,');return false;"><span>Customer Service</span></a></li><li class="item1084"><a href="/subscription/enewsletter/sign-up.html"><span>eNewsletter</span></a></li><li class="item1085"><a href="http://www.wernerpublishing.com/cgi-wp/wernerpublishing/op.html" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,');return false;"><span>Back Issues</span></a></li></ul></li></ul>
 <script type="text/javascript">
 	window.addEvent('domready', function() {
 		var value;
@@ -89,16 +117,17 @@ var ord = axel * 1000000000000000000;
 	</form>
 </div>
 </div></div>
-      <div id="pathway"><span class="breadcrumbs pathway">
+            <!-- Pathway, and Main Content -->
+	<div id="pathway"><span class="breadcrumbs pathway">
 <a href="http://www.outdoorphotographer.com/" class="pathway">OP Home</a> &gt; Privacy Policy</span>
-</div>  <div class="clr"></div>
+</div>    <div class="clr"></div>
   <div id="whitebox">
    <!-- Properly contain the columns -->
    <div id="maincolumn">
         <table class="nopad" width="990">
     	<tbody><tr valign="top">
       	<td align="center" width="665">
-										                    <div id="mainbody"><p><strong>Werner Publishing Corporation Online Privacy Policy </strong></p>
+															                    <div id="mainbody"><p><strong>Werner Publishing Corporation Online Privacy Policy </strong></p>
 <p>Effective Date: April 10, 2009</p>
 <h4>Thank you for visiting a Werner Publishing Corp. site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at Werner Publishing Corp. sites. <a href="http://wernerpublishing.com/">Click here</a> for a list of the Werner Publishing Corp. publications and products whose sites are governed by this Privacy Policy. By visiting this site, you agree to the terms of this policy as they may be amended from time to time. As we update and expand our services, this policy may change, so check back to this page every so often.</h4>
 <h4>Collected Information</h4>
@@ -168,32 +197,40 @@ var ord = axel * 1000000000000000000;
  12121 Wilshire Blvd, Suite 1200<br>
  Los Angeles, CA 90025<br>
  ATTN: Marketing Department<br>
- We can be reached via e-mail at <a href="mailto:marketing@wernerpublishing.com">marketing@wernerpublishing.com</a> or you can reach us by telephone at 310-820-1500.</p></div>                    <table class="nopad user1user2">
+ We can be reached via e-mail at <a href="mailto:marketing@wernerpublishing.com">marketing@wernerpublishing.com</a> or you can reach us by telephone at 310-820-1500.</p></div>                    <table class="nopad user3">
            <tbody><tr valign="top">
             <td>		<div class="moduletable-mrbox">
 					<h3>Recent OP Articles</h3>
 					
 <ul class="zine_mostrecent-mrbox">
 	<li class="mostrecent-mrbox">
-						<a href="/component/zine/article/1508.html" class="zine_mostrecent-mrbox">
-			ExpoImaging Supports Expansion of Honl Photo Speed System 		</a><br>
-    New filters and carrying bag added to the lineup	</li>
-	<li class="mostrecent-mrbox">
-						<a href="/contests/win-this/july-2009.html" class="zine_mostrecent-mrbox">
-			July 2009		</a><br>
+						<a href="/community/blogs/op-editorial-blog/dpbestflow.html" class="zine_mostrecent-mrbox">
+			dpBestFlow		</a><br>
     	</li>
 	<li class="mostrecent-mrbox">
-						<a href="/contests/win-this/entry-form-july.html" class="zine_mostrecent-mrbox">
-			Entry Form July		</a><br>
+						<a href="/community/blogs/op-editorial-blog/canon-eos-7d.html" class="zine_mostrecent-mrbox">
+			Canon EOS 7D		</a><br>
     	</li>
 	<li class="mostrecent-mrbox">
-						<a href="/community/op-editorial-blog/new-nikon-learning-site.html" class="zine_mostrecent-mrbox">
-			New Nikon Learning Site		</a><br>
+						<a href="/community/blogs/op-editorial-blog/paul-nicklens-polar-obsession.html" class="zine_mostrecent-mrbox">
+			Paul Nicklen’s Polar Obsession		</a><br>
     	</li>
 	<li class="mostrecent-mrbox">
-						<a href="/gear/op-news-and-announcements/new-dxo-optics-pro-534-adds-support-for-7-new-cameras.html" class="zine_mostrecent-mrbox">
-			New DxO Optics Pro 5.3.4 adds support for 7 new cameras		</a><br>
-    Includes Nikon D5000 and Canon 500D	</li>
+						<a href="/community/blogs/op-editorial-blog/optv.html" class="zine_mostrecent-mrbox">
+			OPTV		</a><br>
+    	</li>
+	<li class="mostrecent-mrbox">
+						<a href="/community/blogs/op-editorial-blog/light-painting-long-exposures-after-dark.html" class="zine_mostrecent-mrbox">
+			Light painting long exposures after dark		</a><br>
+    	</li>
+	<li class="mostrecent-mrbox">
+						<a href="/component/zine/article/1965.html" class="zine_mostrecent-mrbox">
+			Face-Off With a Deadly Predator		</a><br>
+    	</li>
+	<li class="mostrecent-mrbox">
+						<a href="/community/blogs/op-editorial-blog/icy-prospects.html" class="zine_mostrecent-mrbox">
+			Icy Prospects		</a><br>
+    	</li>
 </ul>		</div>
 	</td>            <td class="greyline">&nbsp;</td>            <td>		<div class="moduletable-mpbox">
 					<h3>Popular OP Articles</h3>
@@ -204,65 +241,71 @@ var ord = axel * 1000000000000000000;
 			D-SLRs For The Landscape		</a><br>
     Choose  the best camera for your landscape photography	</li>
 	<li class="mostread-mpbox">
+						<a href="/how-to/photoshop-and-other-software/photoshop-tips-from-the-pros.html" class="zine_mostread-mpbox">
+			Photoshop Tips From The Pros		</a><br>
+    Some of the best in nature photography share 11 techniques that will turn a good photograph into an award-winner	</li>
+	<li class="mostread-mpbox">
 						<a href="/how-to/shooting/digital-exposure-tips-from-the-pros.html" class="zine_mostread-mpbox">
 			Digital Exposure Tips From The Pros		</a><br>
     Don’t rely on setting the camera to auto or fixing a photo after capture. Check out what the pros have to say about exposure.	</li>
 	<li class="mostread-mpbox">
+						<a href="/photo-contests/2nd-annual-natures-colors.html" class="zine_mostread-mpbox">
+			2nd Annual Nature's Colors Contest Landing Page		</a><br>
+    	</li>
+	<li class="mostread-mpbox">
 						<a href="/how-to/shooting/10-tips-for-better-autofocus.html" class="zine_mostread-mpbox">
 			10 Tips For Better Autofocus		</a><br>
     	</li>
-	<li class="mostread-mpbox">
-						<a href="/gear/accessories/essential-landscape-accessories.html" class="zine_mostread-mpbox">
-			Essential Landscape Accessories		</a><br>
-    Filters, tripods and other extras will help you find and capture the perfect landscape  	</li>
-	<li class="mostread-mpbox">
-						<a href="/how-to/photoshop-and-other-software/photoshop-tips-from-the-pros.html" class="zine_mostread-mpbox">
-			Photoshop Tips From The Pros		</a><br>
-    Some of the best in nature photography share 11 techniques that will turn a good photograph into an award-winner	</li>
 </ul>		</div>
 	</td>           </tr>
           </tbody></table>
-                </td>
+                          </td>
             <td id="right-sep" valign="top" width="10"><img src="/templates/op/images/right-sep-top.gif" width="10" height="77" border="0"></td>
       <td width="315" style="padding-top: 5px;">		<div class="moduletable-rectangleads">
-					<!--Rectangle Top Banner Starts Here-->
-   <script language="JavaScript" type="text/javascript" src="/script/right01.js"></script>
-   <noscript>
-   <a href="http://ad.doubleclick.net/jump/outdoorphotographer.tmus/homepage;tile=2;pos=1;sz=300x250;ord=123456789?" target="_blank"> <img src="http://ad.doubleclick.net/ad/outdoorphotographer.tmus/homepage;tile=2;pos=1;sz=300x250;ord=123456789?" width="300" height="250" border="0" alt=""></a>
-   </noscript>
-   <br>
-   <!--Rectangle Top Banner Ends Here-->		</div>
+					<!-- begin ad tag (tile=2) -->
+<script type="text/javascript">
+//<![CDATA[
+if (typeof ord=='undefined') {ord=Math.random()*10000000000000000;}
+document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/outdoorphotographer.tmus;tile=2;pos=1;sz=300x250;dcopt=ist;ord=' + ord + '?"><\/script>');
+//]]>
+</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/outdoorphotographer.tmus;tile=2;pos=1;sz=300x250;dcopt=ist;ord=972297042433511600?"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/outdoorphotographer.tmus;tile=2;pos=1;sz=300x250;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/outdoorphotographer.tmus;tile=2;pos=1;sz=300x250;ord=123456789?" border="0" alt="" /></a></noscript>
+<!-- end ad tag -->		</div>
 			<div class="moduletable-rectangleads">
-					<!--Rectangle Middle Banner Starts Here-->
-   <script language="JavaScript" type="text/javascript" src="/script/right02.js"></script>
-
-   <noscript>
-   <a href="http://ad.doubleclick.net/jump/outdoorphotographer.tmus/homepage;tile=3;pos=2;sz=300x250;ord=123456789?" target="_blank"> <img src="http://ad.doubleclick.net/ad/outdoorphotographer.tmus/homepage;tile=3;pos=2;sz=300x250;ord=123456789?" width="300" height="250" border="0" alt=""></a>
-   </noscript>
-<!--Rectangle Middle Banner Ends Here-->		</div>
+					<!-- begin ad tag (tile=3) -->
+<script type="text/javascript">
+//<![CDATA[
+if (typeof ord=='undefined') {ord=Math.random()*10000000000000000;}
+document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/outdoorphotographer.tmus;tile=3;pos=2;sz=300x250;dcopt=ist;ord=' + ord + '?"><\/script>');
+//]]>
+</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/outdoorphotographer.tmus;tile=3;pos=2;sz=300x250;dcopt=ist;ord=972297042433511600?"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/outdoorphotographer.tmus;tile=3;pos=2;sz=300x250;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/outdoorphotographer.tmus;tile=3;pos=2;sz=300x250;ord=123456789?" border="0" alt="" /></a></noscript>
+<!-- end ad tag -->		</div>
 			<div class="moduletable-rectangleads">
-					<!--Rectangle Bottom Banner Starts Here-->
-   <script language="JavaScript" type="text/javascript" src="/script/right03.js"></script>
-   <noscript>
-   <a href="http://ad.doubleclick.net/jump/outdoorphotographer.tmus/homepage;tile=4;pos=3;sz=300x250;ord=123456789?" target="_blank"> <img src="http://ad.doubleclick.net/ad/outdoorphotographer.tmus/homepage;tile=4;pos=3;sz=300x250;ord=123456789?" width="300" height="250" border="0" alt=""></a>
-   </noscript>
-<!--Rectangle Bottom Banner Ends Here-->		</div>
+					<!-- begin ad tag (tile=4) -->
+<script type="text/javascript">
+//<![CDATA[
+if (typeof ord=='undefined') {ord=Math.random()*10000000000000000;}
+document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/outdoorphotographer.tmus;tile=4;pos=3;sz=300x250;dcopt=ist;ord=' + ord + '?"><\/script>');
+//]]>
+</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/outdoorphotographer.tmus;tile=4;pos=3;sz=300x250;dcopt=ist;ord=972297042433511600?"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/outdoorphotographer.tmus;tile=4;pos=3;sz=300x250;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/outdoorphotographer.tmus;tile=4;pos=3;sz=300x250;ord=123456789?" border="0" alt="" /></a></noscript>
+<!-- end ad tag -->		</div>
 			<div class="moduletable-sub-signup">
 					<div align="center">
-<div class="intro-text">Get 11 Issues of Outdoor Photographer for only $14.97!<br>
-That's <span class="red">77% off</span> the cover price!</div>
-<form action="https://www.neodata.com/ITPS2.cgi" method="post" id="subscribe_form">
+<div class="intro-text">Get 11 Issues of Outdoor Photographer for only $14.97! That's <span class="red">77% off</span> the cover price!</div>
+<form action="https://www.neodata.com/ITPS2.cgi" method="post" id="subscribe_form" target="_blank">
 <input type="hidden" name="Magazine" value="Outdoor Photographer">
 <input type="hidden" name="ItemCode" value="OUPH">
 <script type="text/javascript">
 <!--
 monthly_codes = new Array("T1","T2","T3","T4","T5","T6","T7","T8","T9","TA","TB","TC");
-var d = "||sToday||";
-var year = eval(d.substring(9,10));
-var m = eval(d.substring(0,2) - 1);
-document.write('<input type="hidden" name="KeyCode" value="'+ monthly_codes[m] + year +'">');
+now = new Date(); // Date is today
+var str = now.getFullYear() + "";
+var year = eval(str.substring(str.length - 3, str.length));
+document.write('<input type="hidden" name="KeyCode" value="'+ monthly_codes[now.getMonth()] + year +'">');
 //-->
-</script>
+</script><input type="hidden" name="KeyCode" value="T116">
 <input type="hidden" name="OrderType" value="Reply Only">
 <input type="hidden" name="iResponse" value="OUPH.SITE ORDER">
 <table border="0" cellpadding="0" cellspacing="3">
@@ -355,16 +398,31 @@ document.write('<input type="hidden" name="KeyCode" value="'+ monthly_codes[m] +
 			<div class="moduletable-poll">
 					<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="300" height="440" id="demo" align="middle">
   <param name="allowScriptAccess" value="sameDomain">
-  <param name="movie" value="/script/polls/index/4-13-09/poll.swf"><param name="quality" value="high"><param name="bgcolor" value="#ffffff">
-  <embed src="/script/polls/index/4-13-09/poll.swf" quality="high" bgcolor="#ffffff" width="300" height="440" name="poll1" align="middle" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
+  <param name="movie" value="/script/polls/index/7-9-09/poll.swf"><param name="quality" value="high"><param name="bgcolor" value="#ffffff">
+  <embed src="/script/polls/index/7-9-09/poll.swf" quality="high" bgcolor="#ffffff" width="300" height="440" name="poll1" align="middle" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
 </object>		</div>
 			<div class="moduletable-rectangleads">
-					<a href="/contests/win-this.html" title=""><img alt="Win This" title="Win This" src="/images/banners/winthis.jpg" border="0" height="" width=""></a>		</div>
+					<div class="bannergroup-rectangleads">
+
+<div class="banneritem-rectangleads"><div align="center">
+ <table border="0" bordercolor="#000000" cellpadding="0" cellspacing="0" width="150"><tbody><tr><td><a href="/contests/win-this.html"><img style="margin-right: 2px;" title="" alt="Win This!" src="/images/banners/win-this.jpg" border="0" height="250" width="149"></a></td>
+<td><a href="/enewsletter"><img style="margin: 0px;" src="/images/banners/enewsletter.jpg" alt="Digital Photo Magazine Enewsletter" title="" border="0" height="250" width="149"></a></td>
+</tr></tbody></table></div><div class="clr"></div>
+	</div>
+
+</div>		</div>
+			<div class="moduletable-rectangleads">
+					<div class="bannergroup-rectangleads">
+
+<div class="banneritem-rectangleads"><a href="/component/banners/click/37.html" target="_blank"><img src="http://www.outdoorphotographer.com/images/banners/DCPBG-ad.jpg" alt="Banner"></a><div class="clr"></div>
+	</div>
+
+</div>		</div>
 			<div class="moduletable-labels">
 					<h3>OP Most Popular Tags</h3>
 					
 <ol class="labels-cloud-module">
-	<li><a class="label label8" href="/labels/how-to.html" title="How-To">How-To</a></li> <li><a class="label label0" href="/labels/lenses.html" title="Lenses">Lenses</a></li> <li><a class="label label7" href="/labels/locations.html" title="Locations">Locations</a></li> <li><a class="label label1" href="/labels/portfolio.html" title="Portfolio">Portfolio</a></li> <li><a class="label label2" href="/labels/cameras.html" title="Cameras">Cameras</a></li> <li><a class="label label0" href="/labels/compact-cameras.html" title="Compact Cameras">Compact Cameras</a></li> <li><a class="label label1" href="/labels/d-slrs.html" title="D-SLRs">D-SLRs</a></li> <li><a class="label label0" href="/labels/light-and-motion.html" title="Light and Motion">Light and Motion</a></li> <li><a class="label label0" href="/labels/photo-software.html" title="Photo Software">Photo Software</a></li> <li><a class="label label1" href="/labels/software.html" title="Software">Software</a></li> <li><a class="label label10" href="/labels/gear.html" title="Gear">Gear</a></li> <li><a class="label label5" href="/labels/in-focus.html" title="In Focus">In Focus</a></li> <li><a class="label label1" href="/labels/new-products.html" title="New Products">New Products</a></li> <li><a class="label label3" href="/labels/camera-technique.html" title="Camera Technique">Camera Technique</a></li> <li><a class="label label0" href="/labels/panoramas.html" title="Panoramas">Panoramas</a></li> <li><a class="label label0" href="/labels/lightroom.html" title="Lightroom">Lightroom</a></li> <li><a class="label label0" href="/labels/digital-horizons.html" title="Digital Horizons">Digital Horizons</a></li> <li><a class="label label1" href="/labels/on-landscape.html" title="On Landscape">On Landscape</a></li> <li><a class="label label5" href="/labels/column2.html" title="Column">Column</a></li> <li><a class="label label0" href="/labels/photo-traveler.html" title="Photo Traveler">Photo Traveler</a></li> <li><a class="label label0" href="/labels/photo-adventure.html" title="Photo Adventure">Photo Adventure</a></li> <li><a class="label label1" href="/labels/more-gear.html" title="More Gear">More Gear</a></li> <li><a class="label label1" href="/labels/gadget-bag.html" title="Gadget Bag">Gadget Bag</a></li> <li><a class="label label2" href="/labels/favorite-places.html" title="Favorite Places">Favorite Places</a></li> <li><a class="label label0" href="/labels/tripods-and-support.html" title="Tripods &amp; Support">Tripods &amp; Support</a></li> <li><a class="label label5" href="/labels/buyers-guide.html" title="Buyer's Guide">Buyer's Guide</a></li> <li><a class="label label0" href="/labels/filters-and-plug-ins.html" title="Filters &amp; Plug-Ins">Filters &amp; Plug-Ins</a></li> <li><a class="label label1" href="/labels/environment.html" title="Environment">Environment</a></li> <li><a class="label label0" href="/labels/books.html" title="Books">Books</a></li> <li><a class="label label1" href="/labels/tech-tips.html" title="Tech Tips">Tech Tips</a></li> <li><a class="label label0" href="/labels/sharing-and-websites.html" title="Sharing &amp; Websites">Sharing &amp; Websites</a></li> <li><a class="label label0" href="/labels/basic-jones.html" title="Basic Jones">Basic Jones</a></li> <li><a class="label label0" href="/labels/printing-and-processing.html" title="Printing &amp; Processing">Printing &amp; Processing</a></li> <li><a class="label label0" href="/labels/computers-and-periphals.html" title="Computers &amp; Periphals">Computers &amp; Periphals</a></li> <li><a class="label label0" href="/labels/digital-darkroom.html" title="Digital Darkroom">Digital Darkroom</a></li> <li><a class="label label0" href="/labels/video.html" title="Video">Video</a></li> <li><a class="label label0" href="/labels/world-view.html" title="World View">World View</a></li></ol>
+	<li><a class="label label7" href="/labels/how-to.html" title="How-To">How-To</a></li> <li><a class="label label0" href="/labels/lenses.html" title="Lenses">Lenses</a></li> <li><a class="label label8" href="/labels/locations.html" title="Locations">Locations</a></li> <li><a class="label label1" href="/labels/portfolio.html" title="Portfolio">Portfolio</a></li> <li><a class="label label2" href="/labels/cameras.html" title="Cameras">Cameras</a></li> <li><a class="label label0" href="/labels/compact-cameras.html" title="Compact Cameras">Compact Cameras</a></li> <li><a class="label label2" href="/labels/d-slrs.html" title="D-SLRs">D-SLRs</a></li> <li><a class="label label0" href="/labels/light-and-motion.html" title="Light and Motion">Light and Motion</a></li> <li><a class="label label0" href="/labels/photo-software.html" title="Photo Software">Photo Software</a></li> <li><a class="label label1" href="/labels/software.html" title="Software">Software</a></li> <li><a class="label label10" href="/labels/gear.html" title="Gear">Gear</a></li> <li><a class="label label5" href="/labels/in-focus.html" title="In Focus">In Focus</a></li> <li><a class="label label2" href="/labels/new-products.html" title="New Products">New Products</a></li> <li><a class="label label4" href="/labels/camera-technique.html" title="Camera Technique">Camera Technique</a></li> <li><a class="label label0" href="/labels/panoramas.html" title="Panoramas">Panoramas</a></li> <li><a class="label label0" href="/labels/lightroom.html" title="Lightroom">Lightroom</a></li> <li><a class="label label0" href="/labels/digital-horizons.html" title="Digital Horizons">Digital Horizons</a></li> <li><a class="label label1" href="/labels/on-landscape.html" title="On Landscape">On Landscape</a></li> <li><a class="label label7" href="/labels/column2.html" title="Column">Column</a></li> <li><a class="label label0" href="/labels/photo-traveler.html" title="Photo Traveler">Photo Traveler</a></li> <li><a class="label label0" href="/labels/photo-adventure.html" title="Photo Adventure">Photo Adventure</a></li> <li><a class="label label1" href="/labels/more-gear.html" title="More Gear">More Gear</a></li> <li><a class="label label2" href="/labels/gadget-bag.html" title="Gadget Bag">Gadget Bag</a></li> <li><a class="label label2" href="/labels/favorite-places.html" title="Favorite Places">Favorite Places</a></li> <li><a class="label label0" href="/labels/tripods-and-support.html" title="Tripods &amp; Support">Tripods &amp; Support</a></li> <li><a class="label label6" href="/labels/buyers-guide.html" title="Buyer's Guide">Buyer's Guide</a></li> <li><a class="label label0" href="/labels/filters-and-plug-ins.html" title="Filters &amp; Plug-Ins">Filters &amp; Plug-Ins</a></li> <li><a class="label label0" href="/labels/environment.html" title="Environment">Environment</a></li> <li><a class="label label0" href="/labels/books.html" title="Books">Books</a></li> <li><a class="label label1" href="/labels/tech-tips.html" title="Tech Tips">Tech Tips</a></li> <li><a class="label label0" href="/labels/sharing-and-websites.html" title="Sharing &amp; Websites">Sharing &amp; Websites</a></li> <li><a class="label label0" href="/labels/basic-jones.html" title="Basic Jones">Basic Jones</a></li> <li><a class="label label0" href="/labels/printing-and-processing.html" title="Printing &amp; Processing">Printing &amp; Processing</a></li> <li><a class="label label0" href="/labels/computers-and-periphals.html" title="Computers &amp; Periphals">Computers &amp; Periphals</a></li> <li><a class="label label0" href="/labels/digital-darkroom.html" title="Digital Darkroom">Digital Darkroom</a></li> <li><a class="label label0" href="/labels/video.html" title="Video">Video</a></li> <li><a class="label label0" href="/labels/world-view.html" title="World View">World View</a></li></ol>
 
 		</div>
 	</td>
@@ -376,30 +434,27 @@ document.write('<input type="hidden" name="KeyCode" value="'+ monthly_codes[m] +
  </div>
  <div id="page-bottom"></div>
  <div id="footer">
-      <div class="advert2" align="center"><br>
-<span class="bodytext">Check out our other photo sites:</span><br>
-<table width="100" border="0" cellspacing="0" cellpadding="0">
- <tbody><tr>
-  <td><a href="http://www.pcphotomag.com" target="_blank"><img src="/images/pcphoto.gif" alt="pcphoto" width="120" height="43" border="0"></a></td>
-  <td><a href="http://www.digitalphotopro.com" target="_blank"><img src="/images/digitalphotopro.gif" alt="digital photo pro" width="119" height="43" border="0"></a></td>
- </tr>
-</tbody></table>
-<br><!-- Bottom 468 x 60 Banner Starts Here -->
-  <script language="JavaScript" type="text/javascript" src="/script/bottom_banner_ads.js"></script>
-  <noscript>
-  <a href="http://ad.doubleclick.net/jump/outdoorphotographer.tmus/homepage;tile=5;pos=2;sz=728x90;ord=123456789?" target="_blank">
-  <img src="http://ad.doubleclick.net/ad/outdoorphotographer.tmus/homepage;tile=5;pos=2;sz=728x90;ord=123456789?" width="728" height="90" border="0" alt=""></a>
-  </noscript>
-  <br>
-<!-- Bottom 468 x 60 Banner  Ends Here --></div>   <div id="subsbox" align="center"><div class="module-subscribe">
+      <div class="advert2" align="center"><div style="margin: 0px auto 15px auto;"><a href="http://www.facebook.com/outdoorphotographer" target="_blank"><img src="/images/badge-facebook.gif" border="0"></a>&nbsp;<a href="http://twitter.com/outdoorphotomag" target="_blank"><img src="/images/badge-twitter.jpg" border="0"></a></div><!-- begin ad tag (tile=5) -->
+<script type="text/javascript">
+//<![CDATA[
+if (typeof ord=='undefined') {ord=Math.random()*10000000000000000;}
+document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/outdoorphotographer.tmus;tile=5;pos=2;sz=728x90;dcopt=ist;ord=' + ord + '?"><\/script>');
+//]]>
+</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/outdoorphotographer.tmus;tile=5;pos=2;sz=728x90;dcopt=ist;ord=972297042433511600?"></script>
+<noscript><a href="http://ad.doubleclick.net/jump/outdoorphotographer.tmus;tile=5;pos=2;sz=728x90;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/outdoorphotographer.tmus;tile=5;pos=2;sz=728x90;ord=123456789?" border="0" alt="" /></a></noscript>
+<!-- end ad tag --></div>   <div id="subsbox" align="center"><div class="module-subscribe">
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
 <td align="center">&nbsp;</td>
-<td align="center"><form action="https://www.neodata.com/ITPS2.cgi" method="post" id="subscribe_form" target="_blank">
+<td align="center"><form action="https://www.neodata.com/ITPS2.cgi" method="post" name="subscribe_form" target="form_results" id="subscribe_form">
 <input type="hidden" name="Magazine" value="Outdoor Photographer">
 <input type="hidden" name="ItemCode" value="OUPH">
-<input type="hidden" name="OrderType" value="Reply Only">
-<input type="hidden" name="iResponse" value="OUPH.SITE ORDER">
+<input type="hidden" name="OrderType" value="New Order">
+<input type="hidden" name="CcType" value="Bill Me">
+<input type="hidden" name="Term" value="11@14.97">
+<input type="hidden" name="Country" value="USA">
+<input type="hidden" name="iResponse" value="OUPH.THANK YOU">
+<input type="hidden" name="XDB" value="On">
 <input type="hidden" name="SourceCode" value="8">
 <script type="text/javascript">
 <!--
@@ -560,26 +615,38 @@ document.write('<input type="hidden" name="KeyCode" value="'+ monthly_codes[now.
 		</span>
 	</li>
 	<li class="item1916">
-		<a href="http://www.wernerpublishing.com/camera-clubs/index.php?site=OP" target="_blank">
-			<span>Camera Clubs (NEW)</span>
+		<a href="http://www.wernerpublishing.com/camera-clubs/index2.php?site=OP" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,');return false;">
+			<span>Camera Clubs</span>
 		</a>
 	</li>
-</ul><ul class="menu" id="botmenu"><li class="item1888"><a href="/advertiser-index.html"><span>Advertiser Index</span></a></li><li class="item81"><span class="separator"><span>|</span></span></li><li class="item82"><a href="https://www.neodata.com/pub/ouph/new_sub.shtml" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,');return false;"><span>Subscribe</span></a></li><li class="item86"><span class="separator"><span>|</span></span></li><li class="item83"><a href="http://www.wernerpublishing.com" target="_blank"><span>About Us</span></a></li><li class="item87"><span class="separator"><span>|</span></span></li><li class="item84"><a href="/contact-us.html"><span>Contact Us</span></a></li><li class="item88"><span class="separator"><span>|</span></span></li><li class="item85"><a href="/privacy-policy.html"><span>Privacy Policy</span></a></li><li class="item89"><span class="separator"><span>|</span></span></li><li class="item90"><a href="/submissions.html"><span>Submissions</span></a></li><li class="item577"><span class="separator"><span>|</span></span></li><li class="item711"><a href="/search.html"><span>Search</span></a></li><li class="item712"><span class="separator"><span>|</span></span></li><li class="item578"><a href="http://www.wernerpublishing.com/cgi-wp/wernerpublishing/op.html?id=kfWLLEoT"><span>eStore</span></a></li></ul></div>   <div id="copyright">Outdoor Photographer Magazine is published by Werner Publishing Corporation<br>
+</ul><ul class="menu" id="botmenu"><li class="item1888"><a href="/advertiser-index.html"><span>Advertiser Index</span></a></li><li class="item81"><span class="separator"><span>|</span></span></li><li class="item82"><a href="https://www.neodata.com/ITPS2.cgi?ItemCode=OUPH&amp;OrderType=Reply+Only&amp;iResponse=OUPH.Credit%20Card%20Information" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,');return false;"><span>Subscribe</span></a></li><li class="item86"><span class="separator"><span>|</span></span></li><li class="item83"><a href="http://www.wernerpublishing.com" target="_blank"><span>About Us</span></a></li><li class="item87"><span class="separator"><span>|</span></span></li><li class="item84"><a href="/contact-us.html"><span>Contact Us</span></a></li><li class="item88"><span class="separator"><span>|</span></span></li><li class="item85"><a href="/privacy-policy.html"><span>Privacy Policy</span></a></li><li class="item89"><span class="separator"><span>|</span></span></li><li class="item90"><a href="/submissions.html"><span>Submissions</span></a></li><li class="item577"><span class="separator"><span>|</span></span></li><li class="item711"><a href="/search.html"><span>Search</span></a></li><li class="item712"><span class="separator"><span>|</span></span></li><li class="item578"><a href="http://www.wernerpublishing.com/cgi-wp/wernerpublishing/op.html?id=kfWLLEoT"><span>eStore</span></a></li></ul></div>   <div id="copyright"><div align="center">
+<span class="bodytext">Check out our other photo sites:</span><br>
+<table width="100" border="0" cellspacing="0" cellpadding="0">
+ <tbody><tr>
+  <td><a href="http://www.dpmag.com" target="_blank"><img src="/images/pcphoto.gif" alt="pcphoto" width="120" height="43" border="0"></a></td>
+  <td><a href="http://www.digitalphotopro.com" target="_blank"><img src="/images/digitalphotopro.gif" alt="digital photo pro" width="119" height="43" border="0"></a></td>
+ </tr>
+</tbody></table>
+</div><br>Outdoor Photographer Magazine is published by Werner Publishing Corporation<br>
 12121 Wilshire Boulevard, 12th Floor, Los Angeles, CA 90025<br>
 Copyright ©2009 Werner Publishing Corp.</div> </div>
 </div>
 <div class="clr"></div>
 
-<!-- BEGIN ANALYTICS TRACKING SCRIPTS -->
-	<script type="text/javascript" src="/script/outdoor_i2a.js">
-  </script>
-  <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-  </script>
-  <script type="text/javascript">
-  _uacct = "UA-2102906-3";
-  urchinTracker();
-  </script>
-<!-- END ANALYTICS TRACKING SCRIPTS -->
+<!-- i2a tracking code-->
+	<script type="text/javascript" src="/script/outdoor_i2a.js"></script>
+<!-- end i2a tracking code -->
+<!-- Google Tracking Code -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-2102906-3");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- End Google Tracking Code -->
 
 
 </body></html>
