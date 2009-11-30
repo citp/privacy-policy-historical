@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the abcsignup.com privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610100904id_/http%3A//www.abcsignup.com/home/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcsignup.com privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130063012id_/http%3A//www.abcsignup.com/home/policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# ABC Signup
 
 Privacy Statement
 
 This privacy statement applies to the website of:
 
 JTC Technologies, LLC   
-4801 Sherburn Lane, STE 211   
+4350 Brownsboro Road, Suite 209   
 Louisville KY 40207   
 US   
 502-896-1127   
