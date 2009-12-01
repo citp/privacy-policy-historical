@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the citypages.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218143302id_/http%3A//www.citypages.com/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citypages.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201020210id_/http%3A//www.citypages.com/about/privacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy - City Pages
+# Minneapolis Privacy Policy
+
+[](https://web.archive.org/)
+
+Privacy Policy
 
 ## Village Voice Media
 
