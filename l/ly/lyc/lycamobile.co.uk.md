@@ -1,10 +1,31 @@
-> *The following text is extracted and transformed from the lycamobile.co.uk privacy policy that was archived on 2009-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090506084655id_/http%3A//www.lycamobile.co.uk/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lycamobile.co.uk privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201033822id_/http%3A//www.lycamobile.co.uk/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # LYCAMOBILE PRIVACY POLICY
 
-  |  |   
----  
 |   
+---  
+|  |  SPECIAL OFFERS |   
+---|---|---  
+|   
+|   
+|  |   
+|  |   
+|  AVAILABILITY |   
+---|---|---  
+|   
+|   
+|    
+|   
+|  |   
+|  TOP UP AT TESCO |   
+---|---|---  
+|   
+|   
+|  |   
+|  |   
+  
+
+
 |  LYCAMOBILE PRIVACY POLICY  
 ---  
   
@@ -84,6 +105,36 @@ Lycamobile UK Limited
 E14 9SG London  
   
   
-Top-Up online or where you see this sign (in selected stores only)  
-|  |  |  |  |  |  |  |  |  |  |  |  |   
----|---|---|---|---|---|---|---|---|---|---|---|---
+|  |  GET A SIM NOW |   
+---|---|---  
+|   
+|   
+|  |   
+|  |   
+|  ADDITIONAL £2 CREDIT |   
+---|---|---  
+|   
+|   
+| 
+
+|   
+|  |   
+|  ON-LINE SALE |   
+---|---|---  
+|   
+|   
+| 
+
+  * [VOUCHER TOP-UP](https://web.archive.org/web/20091201033822id_/http%3A//www.lycamobile.co.uk/onlinetopup.aspx#VoucherTopup)
+  * [VIA CREDIT/DEBIT CARD](https://web.archive.org/web/20091201033822id_/http%3A//www.lycamobile.co.uk/onlinetopup.aspx#OnlineTop-up)
+  * [AUTO TOP-UP](https://web.archive.org/web/20091201033822id_/http%3A//www.lycamobile.co.uk/onlinetopup.aspx#AutoTop-up)
+  * [CALLING CARDS](http://www.lycateleshop.com/Web/WebLangHome.aspx?_lang=en-GB&Country_Code=1)
+
+[](https://web.archive.org/web/20091201033822id_/http%3A//www.lycamobile.co.uk/onlinetopup.aspx) |   
+|  |   
+  
+|   
+---  
+  
+  
+
