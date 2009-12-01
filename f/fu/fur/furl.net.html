@@ -1,614 +1,433 @@
-<!--The following is the downloaded HTML source of the furl.net privacy policy that was archived on 2009-02-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090220063353id_/http%3A//www.furl.net/doc/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the furl.net privacy policy that was archived on 2009-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091201020423id_/http%3A//www.diigo.com/help/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
-    <title>
-      Privacy Policy
-    </title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="description" content="Killer features for finding, managing and sharing online information. A powerful personal tool and a rich social platform.">
+<meta name="keywords" content="social annotation, annotation, social bookmarking, sticky note, bookmarking manager, bookmarking engine, tagging, web2.0, full-text search, mashup search, metasearch, meta search, social networking, online community, web search, customize search">
+<title></title>
+<link rel="stylesheet" href="/stylesheets/v3/common.css?20081217" type="text/css" media="screen">
+<link rel="stylesheet" href="/stylesheets/v2/help.css?20081217" type="text/css" media="screen">
+<link rel="stylesheet" href="/stylesheets/help_2.css?20081217" type="text/css" media="screen">
+
+<!--[if IE]>
+<link rel="stylesheet" href="/stylesheets/v2/iepatch.css" type="text/css" media="screen" />
+<![endif]-->
+<script type="text/javascript" src="http://www.diigo.com/javascripts/lib/prototype_c_1.6.js"></script>
+</head>
+<body>
+<a href="#main" id="skipNav">Skip to main content</a>
+<div id="box">
+	<div id="shortcut">
+  <div id="shortcutInner">
     
-    <meta content="width = device-width" name="viewport">
-    <link href="/images/logo-favicon.ico" rel="Shortcut Icon">
-    <link href="/images/logo-appletouch.png" rel="apple-touch-icon">
-    <link href="/sites/furl/toolbar/furl_opensearch_plugin.xml" rel="search" title="Furl.net" type="application/opensearchdescription+xml">
-<link href="/stylesheets/cache/bundle_o_style.css?1231276356" media="screen" rel="stylesheet" type="text/css">    
-    <!-- / Can't bundle anything conditional -->
-    
-    
-<script src="/javascripts/cache/bundle_o_javascript.js?1231276357" type="text/javascript"></script>    <!-- 
-      / Can't bundle anything conditional or dynamically generated like furl_it
-    -->
-    
-    
-    <script type="text/javascript">
-      $(document).ready(function(){
+      <ul>
+        <!--<li class="first"><a href="javascript:void(0)" onclick="quickFeedback();">Give feedback!</a></li>-->
         
-        (function($) {  // Wrapper to make sure that the $ is used by jQuery and wasn't taken over by another library
+          <li class="first"><a href="http://www.diigo.com/tools"><span>Tools</span></a></li>
+          <li><a href="https://secure.diigo.com/sign-in?referInfo=http%3A%2F%2Fwww.diigo.com"><span>Sign In</span></a></li>
+          <li class="last"><a href="http://www.diigo.com/sign-up?referInfo=http%3A%2F%2Fwww.diigo.com"><span>Join Diigo</span></a></li>
+        
+      </ul><!--shortcut-->
     
-          // move flash inside of content header and show, if present
-          $('#flash').appendTo('.content-header:first').show();
-    
-          // fix dotted lines around firefox links
-          // http://www.crismancich.de/jquery/plugins/linkscrubber/
-          $(document).ready(function(){$("a").bind("focus",function(){if(this.blur)this.blur();});});
+  </div>
+</div><!--shortcut-->
+<div id="header">
+  <div id="headerInner">
+    <div id="tagline">Research, Share, Collaborate</div>
+    <a id="logo" title="Diigo Home" href="http://www.diigo.com">
+      <b><img src="/images/icon-home.png" alt="Diigo Home"> Home</b>
+      <span>&nbsp;</span>
+    </a>
+    <div id="topNav">
+      <div id="topNavInner">
+        <ul>
           
-    
-            
-          // drop pops
+            <li><a href="/learn_more"><span>Take A Tour</span></a></li>
+            <li><a href="http://groups.diigo.com"><span>Groups</span></a></li>
+            <li><a href="/buzz/hot"><span>Community</span></a></li>
+            <li><a href="http://www.diigo.com/sign-up"><span>Join Diigo</span></a></li>
           
-          // Add iframes to mask backgrounds (specifically selects) for IE6
-          // See http://www.hedgerwow.com/360/bugs/css-select-free.html
-          $(".dropPop").append("<!--[if lte IE 6.5]><iframe></iframe><![endif]-->");      
-          
-          // Watch body for clicks and shut any open, non-active pops	
-          $(document.body).click(function() { closeNonActiveDropPops(); });
+        </ul><!--topNav-->
+      </div><!--topNavInner-->
+    </div><!--topNav-->
     
-          // Add events to dropPopContainers
-          $('div.dropPopContainer').mouseover(function() { activeDropPop = $(".dropPopContainer").index(this); });
-          $('div.dropPopContainer').mouseout(function() { activeDropPop = null; });
-    
-          // Add events to dropPopLinks
-          $('.dropPopLink').click(function() { toggleDropPop($(this)); });
-    
-          var tehsiz = $('div.dropPopContainer').size() + 1000;
-    
-          // Give dropPopContainers reverse zindexes, so pops pop up over those that follow
-          $("div.dropPopContainer").each(function(i) {
-            var zin = tehsiz - i;
-            $(this).css({ zIndex: zin });
-          });
-    
-        })(jQuery);  // end of the function wrapper to make sure the $ goes to jQuery and not another library
-    
-        
-        
-        
-        
-      });
-    </script>
-  </head>
-  <body class="doc-privacy">
-    <div class="container">
-      
-      <div class="header">
-        <h5 class="logo">
-          <a href="/" title="Furl">Furl</a>
-        </h5>
-        <form action="/search" id="search" method="get" name="mainForm">
-          <input name="enc" type="hidden" value="UTF-8">
-          <input name="chn" type="hidden" value="front">
-          <input class="entry" maxlength="150" name="keyword" type="text">
-          <input class="button" src="/images/icon-search.png" type="image" value="Search">
-        </form>
-        <div class="menu">
-          <a class="closedroppops" href="/members/login" onmouseover="closeAllDropPops();" title="Log In">Log In</a>
-          <span class="separator">·</span>
-          <a class="closedroppops" href="/signups/new" onmouseover="closeAllDropPops();" title="Sign Up">Sign Up</a>
-          <span class="separator">·</span>
-          <div class="dropPopContainer">
-            <p class="dropPopLink">
-              <a href="javascript:void(0)" title="Groups">Groups</a>
-            </p>
-            <div class="dropPop popLeft shiftCentered">
-              <ul>
-                <li>
-                  <a class="popout-menu-item" href="/my/groups" title="My Groups">My Groups</a>
-                </li>
-                <li>
-                  <a class="popout-menu-item" href="/my/groups/activity" title="My Group Activity">My Group Activity</a>
-                </li>
-                <li>
-                  <a class="popout-menu-item" href="/my/groups/feed" title="My Group Headlines">My Group Headlines</a>
-                </li>
-                <li>
-                  <a class="popout-menu-item" href="/my/groups/recommended" title="My Recommended Groups">My Recommended Groups</a>
-                </li>
-                <li>
-                  <a class="popout-menu-item" href="/my/group_invitations" title="My Group Invitations">My Group Invitations</a>
-                </li>
-                <li>
-                  <a class="popout-menu-item" href="/doc/groups_faq" title="Groups FAQ">Groups FAQ</a>
-                </li>
-                <li>
-                  <a class="popout-menu-item" href="/groups/hot_by_urls" title="Hot Groups - New Links">Hot Groups - New Links</a>
-                </li>
-                <li>
-                  <a class="popout-menu-item" href="/groups/hot_by_members" title="Hot Groups - New Members">Hot Groups - New Members</a>
-                </li>
-                <li>
-                  <a class="popout-menu-item" href="/groups/new" title="Create a Group">Create a Group</a>
-                </li>
-                <li>
-                  <a class="popout-menu-item" href="/groups" title="Explore Groups">Explore Groups</a>
-                </li>
-              </ul>
-            </div>
-          </div>
-          <span class="separator">·</span>
-          <div class="dropPopContainer">
-            <p class="dropPopLink">
-              <a href="javascript:void(0)" title="Explore">Explore</a>
-            </p>
-            <div class="dropPop popLeft shiftCentered">
-              <ul>
-                <li>
-                  <a class="popout-menu-item" href="/urls/popular" title="Most Popular">Most Popular</a>
-                </li>
-                <li>
-                  <a class="popout-menu-item" href="/items" title="Latest Headlines">Latest Headlines</a>
-                </li>
-                <li>
-                  <a class="popout-menu-item" href="/items/summary" title="Hot Topics">Hot Topics</a>
-                </li>
-                <li>
-                  <a class="popout-menu-item" href="/members/search" title="Find a Member">Find a Member</a>
-                </li>
-                <li>
-                  <a class="popout-menu-item" href="/talk/tell" title="Tell a Friend">Tell a Friend</a>
-                </li>
-                <li>
-                  <a class="popout-menu-item" href="http://blogs.looksmart.com/furl" title="Furl Blog">Furl Blog</a>
-                </li>
-                <li>
-                  <a class="popout-menu-item" href="/groups" title="Groups">Groups</a>
-                </li>
-              </ul>
-            </div>
-          </div>
-          <span class="separator">·</span>
-        </div>
-        <div class="clear">
-        </div>
-      </div>
-      <div class="content">
-        <div class="content-header">
-          <h2>Privacy Policy</h2>
-        </div>
-        <div class="content-body">
-          <p>Effective as of: 3/06/2007</p>
-          <p>
-            Furl.net is a service of LookSmart, Ltd. ("LookSmart"). LookSmart has created this privacy statement to demonstrate our firm commitment to protecting your privacy. The following discloses our information gathering and dissemination practices for the
-            <a href="http://www.furl.net">www.furl.net</a>
-            site.
-          </p>
-          <p>The following questions are answered below:</p>
-          <ol>
-            <li>
-              <a href="#q1">What information does LookSmart collect?</a>
-            </li>
-            <li>
-              <a href="#q2">What organization is collecting the information?</a>
-            </li>
-            <li>
-              <a href="#q3">
-                Does LookSmart permit third parties to collect information and does LookSmart control their collection and use of information?
-              </a>
-            </li>
-            <li>
-              <a href="#q4">What does LookSmart do with the data it collects?</a>
-            </li>
-            <li>
-              <a href="#q5">With whom does LookSmart share data?</a>
-            </li>
-            <li>
-              <a href="#q6">
-                What choices are available regarding collection, use and distribution of the information (Opt Out Policy)?
-              </a>
-            </li>
-            <li>
-              <a href="#q7">How can I update or correct my information?</a>
-            </li>
-            <li>
-              <a href="#q8">How can I delete my information?</a>
-            </li>
-            <li>
-              <a href="#q9">
-                What procedures have been designed to protect the loss, misuse or alteration of information under LookSmart's control?
-              </a>
-            </li>
-            <li>
-              <a href="#q10">
-                What about privacy policies for sites to which Furl.net links?
-              </a>
-            </li>
-            <li>
-              <a href="#q11">
-                What happens to my information if LookSmart merges with or is sold to another company?
-              </a>
-            </li>
-            <li>
-              <a href="#q12">
-                What policies does LookSmart have in place to protect the privacy of children?
-              </a>
-            </li>
-            <li>
-              <a href="#q13">
-                How will I know if LookSmart changes its Privacy Policy?
-              </a>
-            </li>
-            <li>
-              <a href="#q14">Who should I contact if I have any questions?</a>
-            </li>
-          </ol>
-          <p>
-            If you have any questions about this privacy statement, the practices of this site or your dealings with this site, email
-            <a href="mailto:copyright@looksmart.net">copyright@looksmart.net</a>
-          </p>
-          <ol>
-            <a name="q1">
-            </a>
-            <li>
-              <h3>What information does LookSmart collect?</h3>
-              <p>
-                At different times, LookSmart may collect several types of information about you.  Except as otherwise stated in this privacy policy, we do not provide this information to third parties, except in aggregate form.
-              </p>
-              <p>
-                First, LookSmart collects personal information when you register for the Furl.net service.  During registration, LookSmart requires a unique public member identity, private password, valid email address, first name and last name.  No other personal information is required for users to register for the Furl service.  Once you register, you are no longer anonymous to LookSmart.  Your member name and first and last name (which are of your choosing) are made public to the Furl community and general public.  Other registration information is not displayed publicly unless you opt to display it publicly.  You may provide additional personal information at other times, including but not limited to, when you provide opinions or ratings, enter a sweepstakes, contest or promotion, or when you report a problem with one of our features or services.
-              </p>
-              <p>
-                Second, we or our partners or advertisers may use a feature of your browser called a cookie to assign identification to your computer. The unique user ID contained within your cookie automatically identifies your computer but not you to our servers every time you visit our site. Cookies by themselves cannot be used to find out the identity of any user. You can turn the cookies feature off by using your browser's preference options, but if you do so you may not be able to utilize some services properly.
-              </p>
-              <p>
-                Third, we keep track of your IP address to help diagnose problems with our servers and to administer our site. Your IP address is a number that identifies a computer which accesses the Internet.  This address is used to gather broad demographic information about you, such as your Internet service provider and the geographic location of your IP address. LookSmart may also collect aggregate information on how our users are utilizing the site. This might include information regarding traffic patterns through the site and search queries.
-              </p>
-              <p>
-                Fourth, we log browser types, access times, URLs from which visitors came to our site and URLs viewed by visitors while on our site.  Again, LookSmart uses this information on an aggregate basis, in this case making sure we can support overall visitor traffic and service performance.
-              </p>
-              <p>
-                Fifth, we contract with service partners 24/7 Real Media and WebSideStory, to provide us with data collection and reporting services to better understand overall use of our site. These service partners may store certain legacy data that we received from visitors to our site prior to our relationship with them, so that we may access this information via their reporting service.  These service partners may collect information on our behalf about our users' visiting behaviors in several ways, including through the use of cookies or pixel tags.  We use these service partners to understand what's popular and useful for visitors.  Our service partners are contractually prohibited from disclosing this information to any third party.
-              </p>
-            </li>
-            <a name="q2">
-            </a>
-            <li>
-              <h3>What organization is collecting the information?</h3>
-              <p>
-                LookSmart usually collects the requested information. However, LookSmart has chosen select partners to provide certain services. To use certain services on the site, it may be necessary to enter information that then goes to our partner and is not kept by LookSmart. The areas of our site in which partners are collecting information may be cobranded with our partners' logos.  If you have questions regarding the privacy policy or data collection practices of one of our content partners, please contact that partner directly.
-              </p>
-            </li>
-            <a name="q3">
-            </a>
-            <li>
-              <h3>
-                Does LookSmart permit third parties to collect information and does LookSmart control their collection and use of information?
-              </h3>
-              <p>
-                We use third-party advertising companies and advertising networks to collect information and serve ads to you when you visit our site.  These companies may use cookies, pixel tags, or otherwise independently collect information (not including your name, address email address or telephone number) from you and use this information about your visits to this and other sites to provide advertisements about goods and services of interest to you.  We do not control their collection and use of information.  Please note that if an advertiser or advertising network asks us to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 13-24 who have viewed sports content) and you respond to that ad, the advertiser or advertising network may conclude that you fit the description of the audience they are trying to reach.
-              </p>
-              <p>
-                To learn more about the collection of information by these third party advertising networks, including how to opt out of such collection, see the links below.
-              </p>
-              <p>
-                To opt out of collection by our service partner WebSideStory, please visit:
-                <a href="http://www.websidestory.com/privacy/cookie-opt-out.html" target="_blank">
-                  http://www.websidestory.com/privacy/cookie-opt-out.html
-                </a>
-              </p>
-              <p>
-                To opt out of collection by our service partner 24/7 Real Media, please visit:
-                <a href="http://www.247realmedia.com/opt-out.html" target="_blank">http://www.247realmedia.com/opt-out.html</a>
-              </p>
-            </li>
-            <a name="q4">
-            </a>
-            <li>
-              <h3>What does LookSmart do with the data it collects?</h3>
-              <p>
-                Whenever LookSmart collects data, the data is intended to tailor or improve the experience of visitors to our site. From the data collected we can customize content and advertising based on the user's preferences. We may use information from cookies to differentiate between unique users, personalize the site for each unique user, to control the frequency of individual advertisements directed to individual computers, and other purposes. In all cases, personally identifiable information is not shared with our advertisers, except as otherwise stated in this privacy policy.
-              </p>
-              <p>
-                We use IP addresses to help diagnose problems with our server and to administer our site.  It's the way we can make sure our service is consistently available to you.
-              </p>
-              <p>
-                If you register for a service or to enter a sweepstakes, we may use the information we collect to provide the service to you or send communications regarding the sweepstakes.  We may also send a newsletter by email to our users who opt to receive such emails.  It is our policy to send these emails only to users who give us permission to do so. In every such email, we will also have instructions on how to unsubscribe to avoid receiving any future emails from us.  LookSmart also may contact you by email to respond to feedback you have submitted.
-              </p>
-            </li>
-            <a name="q5">
-            </a>
-            <li>
-              <h3>With whom does LookSmart share data?</h3>
-              <p>
-                LookSmart shares your member name with other Furl users.  Your member name is the one part of your member profile that always remains public.  Because many Furl services are interactive and community driven, it is important for other users to know who has submitted content, ratings, and comments. LookSmart may also disclose your personal information to it other owned and operated businesses.
-              </p>
-              <p>
-                We also may disclose your personal information (including without limitation IP addresses) to a third party if the law or legal process requires it, to protect the rights or property of LookSmart or others, or as otherwise described in this privacy policy.
-              </p>
-              <p>
-                We may disclose certain non-personally identifiable information about you to advertisers or other third parties to present you with targeted advertisements.  We may share aggregate demographic information with our advertisers or information collection companies, but will not reveal any personally identifiable information in these instances.
-              </p>
-            </li>
-            <a name="q6">
-            </a>
-            <li>
-              <h3>
-                What choices are available regarding collection, use and distribution of the information (Opt Out Policy)?
-              </h3>
-              <p>
-                As previously noted, you may always choose to not provide us with any of the information we request; however, this may limit our ability to provide you with a specific service or limit our ability to offer personalized content.
-              </p>
-              <p>
-                To learn more about the collection of information by third party advertising networks, including how to opt out of such collection, see the links below.
-              </p>
-              <p>
-                To opt out of collection by our service partner WebSideStory, please visit:
-                <a href="http://www.websidestory.com/privacy/cookie-opt-out.html" target="_blank">
-                  http://www.websidestory.com/privacy/cookie-opt-out.html
-                </a>
-              </p>
-              <p>
-                To opt out of collection by our service partner 24/7 Real Media, please visit:
-                <a href="http://www.247realmedia.com/opt-out.html" target="_blank">http://www.247realmedia.com/opt-out.html</a>
-              </p>
-            </li>
-            <a name="q7">
-            </a>
-            <li>
-              <h3>How can I update or correct my information?</h3>
-              <p>
-                You may edit your account at any time by selecting "<a href="/settings">My Settings</a>" and then using your account name and password.
-              </p>
-            </li>
-            <a name="q8">
-            </a>
-            <li>
-              <h3>How can I delete my information?</h3>
-              <p>
-                Your Furl account can be deactivated and personally identifiable information deleted, but doing so will result in not being able to access Furl services outside of using a non-registered account.  Please contact <a href="mailto:furl@furl.net">Furl@furl.net</a> if you wish to deactivate your account, clearly indicating the nature of your request.
-              </p>
-            </li>
-            <a name="q9">
-            </a>
-            <li>
-              <h3>
-                What procedures have been designed to protect the loss, misuse or alteration of information under LookSmart's control?
-              </h3>
-              <p>
-                Your Furl account is password protected so that you and only you have access to entering and editing your personal information and personal preferences.  We recommend that you do not divulge your password to anyone.  LookSmart will never ask you for your password in an unsolicited call or unsolicited email.  Please remember to log out of your Furl account and close your browser window when you have finished your work.  This helps ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet café.  Except as otherwise stated in this privacy policy, LookSmart has taken measures to ensure that information that is not publicly available through its site is accessible only to the user who initially entered the information or to authorized personnel at LookSmart or its partners, and only after a password has been entered.  In the unlikely event of a security breach for which we provide notice under Cal. Civ. Code § 1798.82, LookSmart will send a notification to the email address on file (if any) for each relevant user informing him or her of the security breach.
-              </p>
-            </li>
-            <a name="q10">
-            </a>
-            <li>
-              <h3>
-                What about privacy policies for sites to which Furl links?
-              </h3>
-              <p>
-                Furl contains many links to Web sites not controlled by LookSmart. These sites have their own policies and practices with respect to online privacy, and LookSmart cannot be responsible for the privacy practices or the content of these Web sites.
-              </p>
-            </li>
-            <a name="q11">
-            </a>
-            <li>
-              <h3>
-                What happens to my information if Furl or LookSmart merges with or is sold to another company?
-              </h3>
-              <p>
-                It is possible that Furl and/or any of LookSmart's assets may be acquired. In such a transaction, user information may be transferred to the acquiring entity. While we will endeavor to require the successor company to maintain this privacy policy, we cannot guarantee that our policy will remain in effect.
-              </p>
-            </li>
-            <a name="q12">
-            </a>
-            <li>
-              <h3>
-                What policies does LookSmart have in place to protect the privacy of children?
-              </h3>
-              <p>
-                LookSmart does not intentionally collect personal information about children under the age of thirteen (13).  Children under the age of thirteen (13) may not register for Furl or use the site.
-              </p>
-            </li>
-            <a name="q13">
-            </a>
-            <li>
-              <h3>Notification of Changes</h3>
-              <p>
-                This policy may be revised over time as new features are added to the site. We will post our new privacy policy, along with the date of its last revision, prominently so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. Please check this page for information about revisions to our privacy policy.
-              </p>
-            </li>
-            <a name="q14">
-            </a>
-            <li>
-              <h3>Contact Information</h3>
-              <p>
-                If you have any questions about this privacy policy or about LookSmart's information collection practices, please contact us at <a href="mailto:copyright@looksmart.net">copyright@looksmart.net</a>.
-              </p>
-            </li>
-          </ol>
-        </div>
-      </div>
-      <div class="clear"></div>
+<form id="topSearchForm" autocomplete="off" action="/search" method="get">
+  <div class="inner">
+    <div class="inner2">
+      <input type="hidden" name="adSScope" value="community">
+      <input id="searchBox" class="inputTxt" type="text" size="29" maxlength="255" name="what" value="">
+      <!--<a onclick="window.external?window.external.AddSearchProvider('http://www.diigo.com/search_mana/open_search') : window.sidebar.addSearchEngine('http://www.diigo.com/search_mana/open_search', 'http://www.diigo.com/favicon.ico', 'Diigo', 'Search'); return false;" href="" class="addOpenSearch" style="color:#ddd;">Add to browser</a>-->
     </div>
-    <!-- 
-      / Can't bundle anything conditional or dynamically generated like furl_it
-    -->
-    <script src="/tools/furl_it.js" type="text/javascript"></script>
-    <div class="footer">
-      <div class="my-footer-menu">
-        <div class="menu-content">
-          
-          
-          <div class="inline-menu">
-            <h3>Explore</h3>
-            <ul class="inline">
-              <li>
-                <a class="inline-menu-list-item" href="/urls/popular" title="Most Popular">Most Popular</a>
-              </li>
-              <li>
-                <a class="inline-menu-list-item" href="/items" title="Latest Headlines">Latest Headlines</a>
-              </li>
-              <li>
-                <a class="inline-menu-list-item" href="/items/summary" title="Hot Topics">Hot Topics</a>
-              </li>
-              <li>
-                <a class="inline-menu-list-item" href="/members/search" title="Find a Member">Find a Member</a>
-              </li>
-              <li>
-                <a class="inline-menu-list-item" href="/talk/tell" title="Tell a Friend">Tell a Friend</a>
-              </li>
-              <li>
-                <a class="inline-menu-list-item" href="http://blogs.looksmart.com/furl" title="Furl Blog">Furl Blog</a>
-              </li>
-              <li>
-                <a class="inline-menu-list-item" href="/groups" title="Groups">Groups</a>
-              </li>
-              <li class="clear">
-              </li>
-            </ul>
-            <div class="clear">
-            </div>
-          </div>
-          
-          <div class="inline-menu">
-            <h3>Help</h3>
-            <ul class="inline">
-              <li>
-                <a class="inline-menu-list-item" href="/doc/screencasts" title="Screencasts">Screencasts</a>
-              </li>
-              <li>
-                <a class="inline-menu-list-item" href="/doc/uses" title="How People Use Furl">How People Use Furl</a>
-              </li>
-              <li>
-                <a class="inline-menu-list-item" href="/doc/features" title="Features">Features</a>
-              </li>
-              <li>
-                <a class="inline-menu-list-item" href="/doc/commitment" title="Our Commitment">Our Commitment</a>
-              </li>
-              <li>
-                <a class="inline-menu-list-item" href="/doc/faq" title="FAQ">FAQ</a>
-              </li>
-              <li>
-                <a class="inline-menu-list-item" href="/talk/contact" title="Feedback">Feedback</a>
-              </li>
-              <li>
-                <a class="inline-menu-list-item" href="/talk/report" title="Report a Bug">Report a Bug</a>
-              </li>
-              <li class="clear">
-              </li>
-            </ul>
-            <div class="clear">
-            </div>
-          </div>
-          <div class="inline-menu">
-            <h3>Follow Us</h3>
-            <ul class="inline">
-              <li>
-                <a class="inline-menu-list-item" href="http://blogs.looksmart.com/furl" title="Furl Blog">Furl Blog</a>
-              </li>
-              <li>
-                <a class="inline-menu-list-item" href="http://twitter.com/furl" title="Twitter">Twitter</a>
-              </li>
-              <li class="clear">
-              </li>
-            </ul>
-            <div class="clear">
-            </div>
-          </div>
-        </div>
-        <div class="other-content">
-          <div class="twitter-widget" id="twitter_div">
-            <div class="section">
-              <h3>
-                <a href="http://twitter.com/furl" title="Furl Twitter">Furl Twitter »</a>
-              </h3>
-              <ul class="inline" id="twitter_update_list">
-                <li>
-                  <span></span>
-                  <a href="http://twitter.com//status/" target="_new"></a>
-                </li>
-              </ul>
-              <div class="clear">
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <p class="looksmart">
-        <span class="copyright">
-          Copyright
-          <a href="javascript:void(0)" onclick="$('#page_stats').show();">©</a>
-          2009
-          <a href="http://www.looksmart.com" title="LookSmart, Ltd.">LookSmart, Ltd.</a>
-          <span class="separator">·</span>
-        </span>
-        <span class="menu">
-          <a href="/doc/about?class=popout">About Us</a>
-          <span class="separator">·</span>
-          <a href="/doc/privacy">Privacy Policy</a>
-          <span class="separator">·</span>
-          <a href="/doc/terms">Terms of Service</a>
-          <span class="separator">·</span>
-          <a href="http://looklistings.looksmart.com/" title="Advertise with Us">Advertise with Us</a>
-        </span>
-      </p>
-      <p class="stats" id="page_stats">
-        <span class="stopwatch">
-          <strong>Page processed in</strong>
-          0.0693710000000001
-          sec.
-        </span>
-        <span class="host">
-          <strong>Host:</strong>
-          web3
-          2 #3 #3-8
-        </span>
-        <span class="pid">
-          <strong>PID:</strong>
-          28238
-        </span>
-      </p>
-    </div>
-    <!-- Begin Google Analytics -->
-    
-    <script type="text/javascript">
-    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-    <script type="text/javascript">
-    try {
-    var pageTracker = _gat._getTracker("UA-6353755-1");
-    pageTracker._trackPageview();
-    } catch(err) {}</script>
-    
-    <!-- End Google Analytics --><!-- Begin Omniture Analytics -->
-    
-    <!-- SiteCatalyst code version: H.17.
-    Copyright 1997-2008 Omniture, Inc. More info available at
-    http://www.omniture.com -->
-    <script language="JavaScript" type="text/javascript">var s_account="looksmartfurldev";</script>
-    <script language="JavaScript" type="text/javascript" src="http://www.furl.net/javascripts/s_code.js"></script>
-    <script language="JavaScript" type="text/javascript"><!--
-    /* You may give each page an identifying name, server, and channel on
-    the next lines. */
-    s_f.server="furl:web3"
-    s_f.channel=""
-    s_f.pageName="Docs: privacy"
-    /* Conversion Variables */
-    s_f.campaign=""
-    s_f.state=""
-    s_f.zip=""
-    s_f.products=""
-    s_f.purchaseID=""
-    s_f.eVar2=""
-    s_f.eVar3="furl:Partner Signup Source Goes Here"
-    s_f.eVar6=""
-    s_f.eVar7=""
-    s_f.prop1=""
-    s_f.prop2=""
-    s_f.prop3=""
-    s_f.prop8="Docs: privacy"
-    s_f.prop9="furl:Partner"
-    s_f.prop10="furl"
-    s_f.prop15=""
-    s_f.prop16=""
-    s_f.eVar4="UNKNOWN"
-    s_f.eVar5=""
-    s_f.eVar10="UNKNOWN"
-    s_f.eVar14=""
-    s_f.eVar15=""
-    /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-    var s_code=s_f.t();if(s_code)document.write(s_code)//--></script>
-    <!-- End SiteCatalyst code version: H.17. -->
-    
-    <!-- End Omniture Analytics -->
-    
+  </div>
+</form><!--searchForm-->
+
+
+
+<script type="text/javascript">
+  var searchVars = {'tip':'Search...', 'index':0, 'opts':[{"title":"Search <em>community library<\/em> for _KEYWORD_","url":"http:\/\/www.diigo.com\/search?adSScope=community&what=_KEYWORD_"},{"title":"Find <em>users<\/em> matching _KEYWORD_","url":"http:\/\/www.diigo.com\/people\/search\/name?type=name&query=_KEYWORD_"},{"title":"Find <em>groups<\/em> interested in _KEYWORD_","url":"http:\/\/groups.diigo.com\/group_mana\/search_groups?keywords=_KEYWORD_"},{"title":"Search in Google","url":"http:\/\/www.diigo.com\/search\/g?cx=!partner-pub-7625644023173335%3Agqffh9-8lvc&cof=FORID%3A11&ie=UTF-8&q=_KEYWORD_&sa=Search#942"}]};
+  function initSearchBox(){
+    var searchBox = $("searchBox");
+    searchBox.onfocus = enableSearchOpts;
+    searchBox.onblur = disableSearchOpts;
+    searchBox.value = searchVars.tip;
+    searchBox.setStyle({"color":"#999"});
+    var f = $("topSearchForm");
+    f.action = "javascript:void(0);";
+    f.onsubmit = function(){submitSearch();return false;}
+  }
+
+  function submitSearch(){
+    var url = searchVars.opts[searchVars.index]["url"];
+    self.location.href = url.replace(/_KEYWORD_/, $F("searchBox"));
+  }
   
+  function makeSearchOpts(){
+    var b = new Element("div", {"id":"searchOpts"});
+    var u = new Element("ul");
+    for(var i=0; i<searchVars.opts.length; i++){
+      var l = new Element("li", {"id":"searchOpt_"+i, "onmouseover":"overSearchOpt("+i+");", "onmouseout":"outSearchOpt("+i+")", "onclick":"submitSearch();"}).update(searchVars.opts[i]["title"]);
+      if(i==0){l.className = "hover";}
+      u.appendChild(l);
+    }
+    b.appendChild(u);
+    document.body.appendChild(b);
+    searchVars.optsTemplate = b.innerHTML;
+  }
+  function overSearchOpt(i){
+    searchVars.index = i;
+    $("searchOpt_"+searchVars.index).className = "hover";
+  }
+  function outSearchOpt(i){
+    $("searchOpt_"+searchVars.index).className = "";
+  }
+  function submitSearch(){
+    var url = searchVars.opts[searchVars.index]["url"];
+    self.location.href = url.replace(/_KEYWORD_/, $F("searchBox"));
+  }
+  function initSearchOpts(){
+    if(!$("searchOpts")){makeSearchOpts();}
+    var o = $("searchOpts");
+    o.hide();
+  }
+
+  function updateSearchOpts(){
+    var searchOpts = $("searchOpts");
+    if($F("searchBox")==''){
+      searchOpts.hide();
+    }else {
+      updateOptsKeywords();
+      if(!searchOpts.visible()){
+        showSearchOpts();
+        searchVars.index = 0;
+      }
+    }
+  }
+
+  function updateOptsKeywords(){
+    $("searchOpts").innerHTML = searchVars.optsTemplate.replace(/_KEYWORD_/g, "<strong>"+$F("searchBox")+"</strong>");
+  }
+
+  function enableSearchOpts(){
+    var searchBox = $("searchBox");
+    searchBox.onkeyup = searchKeyup;
+    searchBox.onkeydown = searchKeydown;
+    if(searchBox.value==searchVars.tip){
+      searchBox.value = '';
+      searchBox.setStyle({"color":"#000"});
+    }
+    initSearchOpts();
+  }
+
+  function disableSearchOpts(){
+    var searchBox = $("searchBox");
+    searchBox.onkeyup = null;
+    searchBox.onkeydown = null;
+    hideSearchOpts();
+    if(searchBox.value==''){
+      searchBox.value = searchVars.tip;
+      searchBox.setStyle({"color":"#999"});
+    }
+  }
+
+  function showSearchOpts(){
+    var searchOpts = $("searchOpts");
+    searchOpts.show();
+    var p = Element.cumulativeOffset($("searchBox"));
+    searchOpts.setStyle({
+      "position":"absolute",
+      "left":p[0]+"px",
+      "top":p[1]+$("searchBox").getHeight()+1+"px",
+      "zIndex":999
+    });
+    if(!$("searchOptsIframe")){
+      document.body.appendChild(new Element('iframe', {id: "searchOptsIframe"}));
+    }
+    var ifra = $("searchOptsIframe");
+    p = Position.cumulativeOffset(searchOpts);
+    ifra.setStyle({
+      position:'absolute',
+      border:0,
+      frameborder:'no',
+      left: p[0]+"px",
+      top: p[1]+"px",
+      width: searchOpts.getWidth()+"px",
+      height: searchOpts.getHeight()+"px",
+      zIndex: "998"
+    });
+    Event.observe(window, 'resize', showSearchOpts);
+  }
+
+  function hideSearchOpts(){
+    setTimeout(function(){
+      $("searchOpts").hide();
+      var ifra = $("searchOptsIframe");
+      if(ifra){ifra.hide();}
+      Event.stopObserving(window, 'resize', showSearchOpts);
+    }, 300);
+  }
+
+  function searchKeydown(e){
+    var keycode;
+    if (window.event){keycode = window.event.keyCode;} else if (e){keycode = e.which}
+    // tab
+    if(keycode==9) {
+      if(!$("searchOpts").visible()){return true;}
+      var searchBox = $("searchBox");
+      var currentOpt = $("searchOpt_"+searchVars.index);
+      if(currentOpt){currentOpt.className = "";}
+      var nextOpt = $("searchOpt_"+(searchVars.index+1));
+      if(nextOpt){
+        nextOpt.className = "hover";
+        searchVars.index = searchVars.index+1;
+      }else{
+        searchVars.index = -1;
+      }
+      searchBox.focus();
+      return false;
+    }
+  }
+
+  function searchKeyup(e){
+    var keycode;
+    if (window.event){keycode = window.event.keyCode;} else if (e){keycode = e.which}
+    switch(keycode){
+      case 40: {// down
+          var currentOpt = $("searchOpt_"+searchVars.index);
+          if(currentOpt){currentOpt.className = "";}
+          var nextOpt = $("searchOpt_"+(searchVars.index+1));
+          if(nextOpt){
+            nextOpt.className = "hover";
+            searchVars.index = searchVars.index+1;
+          }else{
+            searchVars.index = -1;
+          }
+        }return false;
+      case 38: {// up
+          var currentOpt = $("searchOpt_"+searchVars.index);
+          if(currentOpt){currentOpt.className = "";}
+          var nextOpt = $("searchOpt_"+(searchVars.index-1));
+          if(nextOpt){
+            nextOpt.className = "hover";
+            searchVars.index = searchVars.index-1;
+          }else{
+            searchVars.index = -1;
+          }
+        }return false;
+      case 13: {// enter
+          submitSearch();
+        }return false;
+      case 9:{}return false;
+      default:{
+          updateSearchOpts();
+        }return false;
+    }
+  }
+  initSearchBox();
+</script>
+
+
+  </div><!--headerInner-->
+</div><!--header-->
+	<div id="main">
+		<link href="/stylesheets/privacy.css" media="screen" rel="stylesheet" type="text/css">
+<div id="middle">
+
+<div id="content">
+<div class="DivP">
+	<div id="main0">
+		<div id="middle0">
+			<h2 style="text-align: left">Diigo.com Privacy Policy</h2>
+			<p style="LINE-HEIGHT: 150%" align="left">May 5, 2006</p>
+			<p style="LINE-HEIGHT: 150%" align="left">Diigo 
+			recognizes that privacy is extremely important. For example, we do 
+			not record users' browsing history, except for the pages you 
+			specifically bookmark to our servers, which are located in the 
+			United States of America.<br><br>
+			
+			Further details of the Diigo's privacy policy are outlined below.</p>
+			<h3 align="left">Information We Collect</h3>
+			<ul class="UlDetails">
+				<li>
+				<p style="LINE-HEIGHT: 200%" align="left"><font size="2">When 
+				the "view mode" for annotation is disabled, or when you are not 
+				logged in the Diigo service, the Diigo Toolbar does not send any 
+				information about the web pages you visit. Otherwise, the Diigo 
+				toolbar sends the URL of the page you visit to our servers for 
+				the sole purpose of looking up annotations on that page. Such 
+				information is not recorded on our servers.</font> </p></li>
+				<li>
+				<p style="LINE-HEIGHT: 200%" align="left"><font size="2">When 
+				you bookmark, annotate or forward a page, the URL and the 
+				associated annotations you submit will be saved on our servers.</font>
+				</p></li>
+				<li>
+				<p style="LINE-HEIGHT: 200%" align="left"><font size="2">The 
+				Diigo Toolbar contacts our servers periodically in order to 
+				obtain automatic updates to the latest customizing information 
+				and options, and automatic updates to the latest version.</font>
+				</p></li>
+				<li>
+				<p style="LINE-HEIGHT: 200%" align="left"><font size="2">Diigo 
+				collects personal information when you register for a Diigo 
+				service or otherwise voluntarily provide such information.</font>
+				</p></li>
+				<li>
+				<p style="LINE-HEIGHT: 200%" align="left"><font size="2">Diigo 
+				uses cookies and other technologies to enhance your online 
+				experience and to learn about how you use Diigo services in 
+				order to improve the quality of our services.</font> </p></li>
+				<li>
+				<p style="LINE-HEIGHT: 200%" align="left"><font size="2">Diigo's 
+				servers automatically record information when you visit our 
+				website or use some of our products, including the URL, IP 
+				address, browser type and language, and the date and time of 
+				your request.</font> </p></li>
+			</ul>
+			<h3 align="left">Uses</h3>
+			<ul class="UlDetails">
+				<li>
+				<p style="LINE-HEIGHT: 200%" align="left"><font size="2">We may 
+				use personal information to provide the services you've 
+				requested, including services that display customized content 
+				and advertising.</font> </p></li>
+				<li>
+				<p style="LINE-HEIGHT: 200%" align="left"><font size="2">We may 
+				also use personal information for auditing, research and 
+				analysis to operate and improve Diigo technologies and services.</font>
+				</p></li>
+				<li>
+				<p style="LINE-HEIGHT: 200%" align="left"><font size="2">If 
+				personal information is used in any way other than indicated 
+				above, it will be in the aggregated form, and with all personal 
+				identifications removed.</font> </p></li>
+				<li>
+				<p style="LINE-HEIGHT: 200%" align="left"><font size="2">Except 
+				as otherwise described in this privacy statement, Diigo will not 
+				disclose personal information to any third party unless we 
+				believe that disclosure is necessary: (1) to conform to legal 
+				requirements or to respond to a subpoena, search warrant or 
+				other legal process received by Diigo, whether or not a response 
+				is required by applicable law; (2) to enforce the Diigo Terms of 
+				Use Agreement or to protect our rights; or (3) to protect the 
+				safety of members of the public and users of the service. Diigo 
+				reserves the right to transfer personal information to a 
+				successor in interest that acquires rights to that information 
+				as a result of the sale of Diigo or substantially all of its 
+				assets to that successor in interest.</font> </p></li>
+			</ul>
+			<h3 align="left">Security</h3>
+			<p style="LINE-HEIGHT: 150%" align="left">Diigo member accounts are 
+			secured by member-created passwords. Diigo takes precautions to 
+			insure that member account information is kept private. We use 
+			reasonable measures to protect member information that is stored 
+			within our database, and we restrict access to member information to 
+			those employees who need access to perform their job functions, such 
+			as our customer service personnel and technical staff. Please note 
+			that we cannot guarantee the security of member account information. 
+			Unauthorized entry or use, hardware or software failure, and other 
+			factors may compromise the security of member information at any 
+			time. </p>
+			<h3 align="left">Changes in Our Privacy Policy</h3>
+			<p style="LINE-HEIGHT: 150%" align="left">From time to time we may 
+			make changes to our privacy policy. If we make changes, we will post 
+			them on our site to make users aware of what the changes are so 
+			users will always be aware of what information we collect, how we 
+			use it, and when we may disclose it. A User is bound by any minor 
+			changes to the policy when she or he uses the site after those 
+			changes have been posted If, however, we are going to use users' 
+			personally identifiable information in a manner materially different 
+			from that stated at the time of collection we will notify by posting 
+			a notice on our Web site for 30 days. </p>
+			<p style="LINE-HEIGHT: 150%" align="left">Please contact us at
+			<a href="mailto:info@diigo.com">info@diigo.com</a> with any 
+			questions regarding our privacy policy.</p></div>
+	</div>
+</div>
+
+</div><!--End DivContent-->
+</div><!--End DivMiddle-->
+		<div style="clear:both"></div>
+	</div><!--main-->
+</div><!--box-->
+<div style="clear:both"></div>
+
+<div id="footer">
+  <div id="footerInner">
+    
+    <ul id="fLine_1">
+      <li><a href="/about">About Diigo</a>|</li>
+      <li><a href="/press">Press</a>|</li>
+      <li><a target="_blank" href="http://help.diigo.com">Help</a>|</li>
+      <li><a href="http://forum.diigo.com">User Forum</a>|</li>
+      <li><a href="http://blog.diigo.com">Blog</a>|</li>
+      <li><a href="/tools">Tools</a>|</li>
+	  <li><a href="/directory/people">People Directory</a>|</li>
+      <li><a href="/common/contact">Contact</a>|</li>
+      <li><a href="/help/terms">Terms of Service</a>|</li>
+      <li><a href="/help/privacy">Privacy</a>|</li>
+      <li>© Diigo Inc 2009</li>
+    </ul>
+    <div class="clear"></div>
+  </div><!--footerInner-->
+</div><!--footer-->
+<script type="text/javascript">
+  var _GLOBAL_VAR = {};
+  _GLOBAL_VAR['my_name'] = "";
+  var D_DOMAIN = ".diigo.com";
+  var BOOKMARK_HOST = "http://www.diigo.com";
+  var GROUP_HOST = "http://groups.diigo.com";
+  var RESOURCE_HOST = "http://resources.diigo.com";
+  var SLIDES_HOST = "http://slides.diigo.com";
+  var MESSAGE_HOST = "http://message.diigo.com";
+  var DIIGO_SECURE = "http://www.diigo.com";
+  var USER_AVATAR_URI = RESOURCE_HOST+"/images/avatar/user";
+</script>
+<script src="/javascripts/lib/diigo_bookmark.js?1256699877" type="text/javascript"></script>
+<script src="/javascripts/lib/parse_tags.js?1219836720" type="text/javascript"></script>
+<script src="/javascripts/follow_button.js?1254130466" type="text/javascript"></script>
+<link href="/stylesheets/../front-end-utils/front-end-utils.css?1254130448" media="screen" rel="stylesheet" type="text/css">
+<script src="/javascripts/../front-end-utils/front-end-utils.js?1254130448" type="text/javascript"></script>
+<script type="text/javascript">
+  function initDiigo() {
+    for(var i=0; i<window.onloadListeners.length;i++) {
+      var func = window.onloadListeners[i];
+      func.call();
+    }
+  }
+  window.onloadListeners = [];
+  window.addOnLoadListener = function(listener) {
+    window.onloadListeners[window.onloadListeners.length] = listener;
+  }
+  document.observe("dom:loaded", initDiigo);
+  // IE6 Background image flickers on hover
+  if(BrowserVersion.isIE6){
+    try {document.execCommand("BackgroundImageCache", false, true);} catch(e) {}
+  }
+</script>
+
+
+
+
 
 </body></html>
