@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sagespark.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525193250id_/http%3A//www.sagespark.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sagespark.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201040243id_/http%3A//www.sagespark.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Sage Spark
 
