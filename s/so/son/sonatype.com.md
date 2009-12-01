@@ -1,47 +1,85 @@
-> *The following text is extracted and transformed from the sonatype.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523215429id_/http%3A//www.sonatype.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonatype.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201173759id_/http%3A//www.sonatype.com/about/privacy) for the most accurate reproduction.*
 
-# Sonatype Privacy Policy | Sonatype
+# Sonatype Privacy Policy | Sonatype: Maven and Nexus: Enterprise build and release management
 
-## PRIVACY POLICY
+## SONATYPE, INC.  
+PRIVACY POLICY
 
-## 1\. Acceptance of Terms
+**Effective 18 November, 2009**
 
-Sonatype, Inc. ("Sonatype" or "us" or "we") respects your privacy and is committed to protecting your personal information that you provide to us. This Privacy Policy governs your use of our websites and all related forums, documentation and other services you access through the websites (the "Service"). However, if you download software or purchase training, support, subscriptions or other services or products from us, those products and services are governed by the separate license or purchase terms made available in connection with such products or services.
+At Sonatype, Inc. ("Sonatype” or "us” or "we”), we respect the privacy rights of our online visitors and recognize the importance of protecting the information we collect about you. Our Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share. This Privacy Policy applies to our website located at [www.Sonatype.com](http://www.sonatype.com/ "www.Sonatype.com") and its related subdomains (collectively, the "Site”) and all products and services we offer on the Site (together with the Site, the "Service”).
 
-This statement explains our policies and practices regarding the use and disclosure of your personal information by Sonatype. Please note that Sonatype reviews and updates this Privacy Policy from time to time as needed without notice. Therefore, you should review the terms of this policy periodically to make sure that you are aware of how Sonatype collects and uses personal information. By using our Service, you consent to the collection and use of your personal information by Sonatype as explained below.
+By using or accessing the Service, you are accepting the practices described in this Privacy Policy.
 
-## 2\. Personal Information
+Note that if you download software or otherwise purchase products or services through the Site or Service, use of such products or services is subject to the separate Sonatype license or other terms and conditions applicable to such product or service. 
 
-You have complete control over your personal information. In general, you can use our Service without providing us with any personal information. However, there are instances where we must have your personal information in order for us to grant you access to our Service or to assist us in delivering a superior level of customer service. This information may include registration data (your name, company, address, email address, phone number, title, etc.), information request data and response data ("User Information").
+### The Information We Collect and How We Use It
 
-## 3\. Use of User Information
+In general, you can use our Service without providing us with any personal information. However, there are instances where you must provide us with certain personal information in order to receive full access to the Service or to assist us in delivering a superior level of customer service. In such instances, we may collect the following types of information:
 
-We intend to use such information for purposes of supporting your and your employer's relationship with Sonatype by providing a Service that is suitable to your needs and alerting you to new product and service offerings as they become available. This User Information may be retained by Sonatype to verify compliance with the agreement between Sonatype and your employer, to keep track of the domains from which people visit us, to create a user profile to better serve you and your employer, or to simply contact you either electronically or otherwise. If you decide that we should not use your personal User Information to contact you, please let us know and we will not use that information for such purpose. However, do not submit any User Information if you are less than 18 years of age. We do not collect personally identifiable information from any person we know is under the age of 13.
+  * Registration Information – When you register with Sonatype, you provide us with certain personal information, such as first and last name, e-mail address, username, and an account password. We may use this information to contact you regarding notifications about the Service or new products and services we make available. We may also contact you, including by e-mail, with respect to any transaction you enter into with us, such as purchasing a product or service, making a support or sales inquiry, and the like.
+  * Log Information – When you access the Service, our servers automatically record information that your browser sends whenever you visit a website and our analytics platform may capture additional information about use of our Site. This information may include information such as your Internet Protocol address, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information to analyze trends, to administer the Service, to track users’ movements around the Site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personally identifiable information.
+  * Cookies – We store certain information from your browser using "cookies”. A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We may use cookies to improve our Service including by storing user preferences and tracking user trends. We also use cookies in our advertising services to help advertisers and publishers serve and manage ads across the web. We or our third party advertisers may set a cookie in your browser when you visit a website or click on an ad supported by our advertising services.
+  * Order Information – If you purchase a product or service from us, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email and shipping address) and financial information (such as credit card number and expiration date). We use this information for billing purposes and to fill your orders. If we have trouble processing an order, need to return an item, or otherwise have customer service or support issues, we will use this information to contact and assist you.
+  * User Communications – When you send email or other communications to us, we may retain those communications in order to process your inquiries, respond to your requests and improve the Service.
 
-## 4\. Monitoring
 
-Although we are not obligated to do so, we may review your communications with respect to the Service to determine whether you comply with our Terms of Service. Sonatype will not have any liability or responsibility for the content of any communications you provide, or for any errors or violations of any laws or regulations by you.
 
-## 5\. Disclosure of User Information
+By using the Service, you are consenting to have your personal data transferred to and processed in the United States.
 
-Sonatype does not sell, trade or transfer User Information to third parties. However, we may share User Information with our business partners for marketing, advertising or product/service offering purposes. For example, we provide User Information to our service providers for direct emailing of our newsletters, online surveys or notifications on Sonatype Offerings (as defined below) to our viewers. We may share with third parties aggregated, non-personal information. Such information does not identify you individually. We also disclose User Information if: we have your consent; we need to share it in order to provide you with the products and/or services you requested; we respond to a court order; you violate our Terms of Service or we otherwise suspect that you are engaged in fraudulent or illegal activities. You may separately agree to provide your personal information to third parties that provide content for Sonatype Offerings, in order to access and/or use their products and/or services. If you agree to provide such information to these third parties, then your personal information will be subject to their privacy policies.
+### Children Under Age 13
 
-## 6\. Accuracy and Security
+Sonatype does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to or on the Service. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [privacy@Sonatype.com](mailto:privacy@Sonatype.com).
 
-The accuracy and security of User Information is important to Sonatype. If you contact us to correct your User Information, we will attempt to correct such inaccuracies in a timely manner. Sonatype is concerned with the security of your User Information and is committed to taking reasonable steps to protect it from unauthorized access and use of that personal information. To that end, we put in place the appropriate physical, electronic and managerial policies and procedures intended to help secure your personal User Information. We do not store credit card information. We also continue to implement procedures to maintain accurate, complete and current User Information. No method of transmission over the Internet, or method of electronic storage, is one hundred percent secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+### Sharing Your Information with Third Parties
 
-## 7\. Usernames and Passwords
+Sonatype does not sell, trade or transfer your personal information to third parties except in the following limited circumstances:
 
-Access to certain content on our Service may be allowed under a written agreement between you or your employer, and Sonatype and will require a username and/or password. In some cases, failure to provide personal information may prevent you from accessing certain Sonatype web site(s) containing certain confidential information, products, services, or promotional offers ("Sonatype Offerings"). By accessing and using our protected and secured web site(s), you agree to maintain the confidentiality of the username and password you selected to access such site(s) and consent to our Terms of Service.
+  * We have your consent.
+  * We may share your personal information with our subsidiaries, affiliated companies or service partners for the purpose of processing your personal information on our behalf or to assist us with marketing, advertising or product/service offerings and fulfillment of orders. For example, we may provide personal information to our service providers for direct emailing of our newsletters, online surveys or notifications of our product/service offerings. We require that these parties agree to process such information based on our instructions and in compliance with appropriate confidentiality measures.
+  * We may also share your personal information with a business partner or independent reseller (either within or outside the United States) so that the business partner or independent reseller can contact you and facilitate the support, renewal, and purchase of our products and services. You may receive a communication directly from one of our business partners or independent resellers. We require that these parties agree to process such information based on our instructions and in compliance appropriate confidentiality measures. To find out the names and locations of the business partners and/or independent resellers to whom we have provided your information, please contact us at the address given at the end of this Privacy Policy.
+  * We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of Sonatype, its users or the public as required or permitted by law.
+  * We become involved in a merger, acquisition, or any form of sale of some or all of our assets.
 
-## 8\. Cookies
 
-We use "cookies." A cookie is a small data file that a web site can transfer to a visitor's hard drive to keep records of the visits to such site. A cookie contains information such as your username and password that helps us recognize the pages you have visited and improve future visits, but the only personal information a cookie can contain is the information that you provide yourself. A cookie cannot read data off your hard drive or read cookie files created by other sites. Information stored in cookies may be encrypted, however, we do not store your credit card number in cookies. If you prefer not to accept a cookie, you can set your web browser to warn you before accepting cookies, or you can refuse all cookies by turning them off in your web browser. If, however, you prefer not to enable cookies, you can reset your browser to refuse all cookies or indicate when a cookie is being sent. Please note that certain features of our Service may not be available once cookies are disabled.
 
-## 9\. External Links
+We may share with third parties aggregate, non-personal information. Such information does not identify you individually.
 
-The Service may provide links to other third party web sites. Even if the third party is affiliated with Sonatype through a business partnership or otherwise, Sonatype is not responsible for the privacy policies or practices or the content of such external links. These links are provided to you for convenience purposes only and you access them at your own risk.
+### Choice/Opt-out
 
-## 10\. Terms of Service and Contact Information
+We provide you with the opportunity to "opt-out” of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference at the time the information is collected.
 
-Please also see our Terms of Service, which describes the restrictions, disclaimers, indemnification and limitation of liability governing the use of the Service. If you have any questions regarding this Privacy Policy or our Terms of Service, please contact us through our contact page at <http://www.sonatype.com/contact>.
+If you no longer wish to receive our promotional communications, you may opt-out of receiving them by following the instructions included in the applicable message, by setting preferences as may be otherwise indicated on the Site or by contacting Sonatype at the address set forth at the bottom of this Privacy Policy.
+
+If you receive a marketing communication from our subsidiaries, business partners or independent resellers, you should opt-out with that entity directly.
+
+### Links
+
+This Privacy Policy applies solely to information collected by Sonatype. The Site may contain links to other third party websites. Even if the third party is affiliated with Sonatype through a business partnership or otherwise, we are not responsible for the privacy practices of other websites. We encourage our users to be aware when they leave the Site to read the privacy statements of each and every website that collects personally identifiable information. 
+
+### Accessing and Updating Personal Information
+
+When you use the Service, you may contact Sonatype at any time to correct your personal information if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we make any correction to your information, we perform this service free of charge, except if doing so would require a disproportionate effort. Please note that if you cease using the Service or we terminate your access to the Service in accordance with our Terms of Service, you may no longer have the ability to update your personal information.
+
+### Security
+
+The security of your personal information is important to us. When you enter sensitive information (such as credit card number or your password), we encrypt that information using secure socket layer technology ("SSL”). (To learn more about SSL, go to <http://en.wikipedia.org/wiki/Secure_Sockets_Layer>). No method of transmission over the Internet, or method of electronic storage, is one hundred percent secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+
+### Enforcement
+
+Sonatype regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or Sonatype’s treatment of personal information by emailing us at [privacy@Sonatype.com](mailto:privacy@Sonatype.com) or by writing to us at
+
+Privacy Matters  
+Sonatype, Inc.  
+800 West El Camino Real, Suite 400  
+Mountain View, CA 94040
+
+We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer or personal data that cannot be resolved between Sonatype and an individual.
+
+### Terms of Service, Notices and Revisions
+
+Please also see our Terms of Service, which describe the restrictions, disclaimers, indemnification and limitation of liability governing the use of the Service. The Terms of Service also further describe our Service and the information we use. We reserve the right to change our Privacy Policy and our Terms of Service at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on the Site. If we make changes, we will post them and will indicate on this page the policy’s new effective date. If we make material changes to this policy, we will notify you here, by email, or through notice on our home page. We encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. Unless stated otherwise, our current privacy policy applies to all information that we have about you.
+
+### Contact Us
+
+If you have any questions or suggestions regarding our Privacy Policy, please contact us at [privacy@Sonatype.com](mailto:privacy@Sonatype.com). You may also contact us at 800 West El Camino Real, Suite 400, Mountain View, CA 94040.
