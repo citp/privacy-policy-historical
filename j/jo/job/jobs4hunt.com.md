@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobs4hunt.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616112244id_/http%3A//www.jobs4hunt.com/information/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs4hunt.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201044106id_/http%3A//www.jobs4hunt.com/information/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Jobs in UAE, Saudi Arabia, Qatar, Bahrain, Oman, Kuwait, Search jobs, Submit resume, Apply online
 
