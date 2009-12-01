@@ -1,42 +1,50 @@
-> *The following text is extracted and transformed from the nrcc.org privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222043639id_/http%3A//www.nrcc.org/about/default.asp%3FID%3D76) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrcc.org privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201234406id_/http%3A//nrcc.org/privacy/default.aspx) for the most accurate reproduction.*
 
-# NRCC
+# NRCC - National Republican Congressional Committee
 
-[NRCC Home](https://web.archive.org/default.asp) > [About](https://web.archive.org/web/20081222043639id_/http%3A//www.nrcc.org/about/default.asp) > NRCC Online Privacy Policy 
+Welcome to the official Web site of the National Republican Congressional Committee.  The NRCC knows your right to privacy is important, especially online. This privacy policy has been created to answer any questions you may have regarding the NRCC’s data collection and protection policies. 
 
-The National Republican Congressional Committee is committed to protecting the personal information that you provide to us when using the NRCC Site. This privacy policy describes how we treat all user data collected during your visit to [www.NRCC.org](http://www.nrcc.org/), both anonymous data and personally-identifying data.
+**What information is being collected at www.NRCC.org?**
 
-User Data We Collect   
-We collect two types of user data: (1) anonymous data that is automatically collected from all visitors to the NRCC Site; and (2) personally-identifiable data that you voluntarily submit to us (described below under "Personal Data"). 
+> The only personal information collected is information you give us. In an effort to grow our Republican grassroots community online, the NRCC may ask you to submit information.  This information will be used to provide you with information about online events, personal appearances, TV appearances, talking points, and other Republican related information. You do not have to provide this information – we only ask that you do so that we can better communicate with you!  
+> 
 
-Anonymous Data  
-We automatically collect Internet Protocol addresses and domain names through our server. We also track the number and frequency of hits per page on an aggregate basis. 
+> Some information must be collected when you make a contribution. When you make contributions to the NRCC that aggregate to more than $200 in a single election cycle, federal law requires us to use our “best efforts” to collect your name, mailing address, employer, and occupation. Any credit card information provided is only used to immediately process your donation. The NRCC does not retain credit card information once the donation is processed online.   
+> 
 
-Personal Data  
-We may collect Personal Data that you voluntarily provide, such as your name and postal address, phone number, e-mail address, and similar information, when you participate in certain activities on the NRCC Site, including (but not limited to) when you sign up for email updates.
+> We ask that children under 18 do not submit their information.  In accordance with the Federal Children’s Online Privacy Protection Act of 1998 (COPPA), www.NRCC.org does not knowingly collect information from children. In accordance with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), the NRCC will never knowingly collect personal identifiable information from persons thirteen years old or younger.   
+> 
 
-How We Use the Data We Collect   
-We use anonymous data to identify the source of user traffic, but we are not able to use this data to identify individual users. We use data on which sections of the NRCC Site are most visited, so that we can evaluate the popularity of our different Web pages and continue to improve the NRCC Site. We do not link any anonymous data with the Personal Data you provide to us.
+**How is the information collected at www.NRCC.org used?**
 
-We use your Personal Data for various purposes, including: to fulfill the request for which you specifically provided the data; to send you e-mail newsletters or action alerts, if you have not opted out of receiving that information.
+> We will not sell your personal information. Under no circumstances will the NRCC sell your information to third parties or any commercial entities.   
+> 
 
-Third-Party Sharing  
-We will not share your Personal Data with any third party unless we first notify you and offer you an appropriate choice to consent to such further use, for example, through an opt-out or opt-in request. 
+> We may share your information with like-minded organizations. The NRCC may share information -- that you voluntarily provide us -- with like-minded organizations committed to the principles or candidates of the Republican Party, Republican State Party organizations and local Republican groups. The NRCC may provide your email address or other personal information to authorized third parties required to deliver a particular service. These third parties may not use said information for any other purpose than to carry out the services they are performing for the NRCC.   
+> 
 
-Your Ability to Choose   
-When you provide us with your Personal Data on the NRCC Site, you can let us know that you do not wish to receive our online newsletter or any e-mailed action alerts by un-checking the subscription request boxes on the form you are completing, or by contacting us via email at [website@nrcc.org](mailto:website@nrcc.org). 
+**Is my information secure?**
 
-Contributions  
-Contributions are not refundable.  Internet donors will receive an email confirming their contribution.
+> Protecting information you provide is important to us. The NRCC makes every effort to protect your information from the moment you enter your information to when it is stored on our secure servers. www.NRCC.org uses a secure socket layer (SSL) – with the highest level of encryption commercially available – on pages where online visitors register or make a secure online donation using their credit card.  Strict security measures are in place to protect the loss, misuse and alteration of any and all information pertaining to www.NRCC.org    
+> 
 
-Children  
-We do not knowingly collect information from children under the age of 13. 
+> www.NRCC.org uses a secured/encrypted server for online credit card donations. The online contribution form is in compliance with FEC regulations. The NRCC has put in place appropriate physical, electronic and managerial procedures to prevent unauthorized access. 
 
-Security   
-The Personal Data we collect about you is stored on a secure, password protected server. We use industry-standard encryption technologies with respect to the receipt and transfer of Personal Data you submit to us on the NRCC.org site and only authorized personnel have access to your information. Nevertheless, despite our best efforts, no transmission over the Internet can be guaranteed to be 100% secure. 
+> www.NRCC.org links to other sites: Our site may contain links to other websites and servers. The NRCC does not bear responsibility for privacy policies or content on linked websites. Because the NRCC has no control over the websites we link to, you agree and acknowledge that the NRCC is not responsible for the availability of resources or external sites and does not endorse and is not responsible or liable for any content provided therein.   
+> 
 
-Updating Your Data   
-To update your Personal Data or to make corrections, you can do so by sending us the update via email to [website@nrcc.org](mailto:website@nrcc.org). 
+> Accordingly, you also agree and acknowledge that the NRCC will not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance of any such content, services on or through any such site or resource or goods. We encourage you to read the privacy statements on each website you visit.   
+> 
 
-Comments and Questions   
-If you have any questions, comments or concerns about this Online Privacy Policy or our data collection practices or to request that we delete your Personal Data, you can contact us via email at [website@nrcc.org](mailto:website@nrcc.org).
+> The NRCC provides links to original articles written and maintained by third parties. These links are provided as a convenience and do not imply a claim of ownership in that content.   
+> 
+
+**How do I contact the National Republican Congressional Committee?**
+
+> Contact information for the NRCC. If you have any questions, comments or concerns please contact the NRCC by e-mail or by phone using the contact information **[provided here](http://www.nrcc.org/about/contact.aspx)**.   
+> 
+
+**Will this privacy policy change?**
+
+> We reserve the right to revise or update this privacy policy at any time. While we do not intend to make any changes to this policy we do reserve the right to do so.   
+> 
