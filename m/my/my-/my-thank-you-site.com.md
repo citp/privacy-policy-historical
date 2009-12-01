@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the my-thank-you-site.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615044256id_/http%3A//www.my-thank-you-site.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my-thank-you-site.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201121513id_/http%3A//www.my-thank-you-site.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,5 +24,7 @@ What's This?
 | | | |   
 ---|---|---|---|---  
 | | |   
+  
+Enjoy this page? Please pay it forward. Here's how...  
   
 [](http://www.sitesell.com/Christine1.html51.html)
