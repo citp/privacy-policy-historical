@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the danier.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523092906id_/http%3A//www.danier.com/eng/pages/customerService/termsOfUsePrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danier.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201133112id_/http%3A//danier.com/eng/pages/customerService/termsOfUsePrivacy) for the most accurate reproduction.*
 
 # Terms of Use/Privacy
 
@@ -16,7 +16,7 @@ Thank you for choosing to shop at Danier Leather. Your privacy and security are 
 
 At Danier respecting the privacy and the wishes of our customers is an important part of our everyday commitment to fulfill our Mission: “to Satisfy Our Customers’ Need to Feel Good About Themselves.” Below is our Privacy Protection Policy which spells out our responsibilities and commitments to the secure protection and responsible use of our customers’ personal information entrusted to us. 
 
-[The Danier Privacy Protection Policy](https://web.archive.org/web/20090523092906id_/http%3A//www.danier.com/eng/pages/customerService/protection.shtml)
+[The Danier Privacy Protection Policy](https://web.archive.org/web/20091201133112id_/http%3A//danier.com/eng/pages/customerService/protection.shtml)
 
 ## Why Do We Need Your Personal Information?
 
