@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kia-buzz.com privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522204119id_/http%3A//kia-buzz.com/%3Fpage_id%3D17) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kia-buzz.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201160412id_/http%3A//kia-buzz.com/%3Fpage_id%3D17) for the most accurate reproduction.*
 
-# Kia BUZZ » Privacy Policy
+# Privacy Policy
 
 Kia Motors Corporation’s (“KMC”) privacy policy (the “Policy”) governs the information you provide during your visits to Kia-BUZZ (the “Blog”)  **If you do not agree with the policy, please do not use this Blog.**  
 
@@ -54,13 +54,6 @@ If you have any comments or questions regarding our Policy, or KMC’s treatment
 
 Please note that the Policy may change from time to time.  We will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice.  Each version of this policy will be identified at the top of the page by its effective date, and we will also keep our prior versions of this Policy in an archive for your review. 
 
-  
+Kia Forte (Cerato) Koup  
+[More Videos »](http://www.youtube.com/user/KiaBUZZ)  
 
-
-Kia N° 3 promotion film  
-[More Videos »](http://kr.youtube.com/user/KiaBUZZ)  
-
-
-[](http://www.kia-buzz.com/?feed=rss2)
-
-[](http://www.feedburner.com/fb/a/emailverifySubmit?feedId=1116233&loc=en_US)
