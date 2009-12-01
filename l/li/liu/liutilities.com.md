@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liutilities.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416025716id_/http%3A//www.liutilities.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liutilities.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201182545id_/http%3A//www.liutilities.com/about/privacy) for the most accurate reproduction.*
 
 # Uniblue - Software Made Easy
 
@@ -11,7 +11,7 @@ In order to provide our full range of services, we may collect the following typ
 
 Information you provide - When you sign up to the Uniblue Community we ask you for personal information (name, surname, and email address) which we maintain in encrypted form on secure servers. 
 
-**Use of cookies** \- When you visit Uniblue.com (currently LIUtilities.com), we send one or more cookies - a small file containing a string of characters - to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user account details, preferences and tracking user trends. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, Uniblue.com (currently LIUtilities.com) features and services may not function properly if your cookies are disabled. 
+**Use of cookies** \- When you visit Uniblue.com (currently LIUtilities.com), we send one or more cookies - a small file containing a string of characters - to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user account details and preferences, tracking user trends and conducting optional research surveys. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, Uniblue.com (currently LIUtilities.com) features and services may not function properly if your cookies are disabled. 
 
 **Log information** \- When you use Uniblue.com (LIUtilities.com), our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. 
 
@@ -55,6 +55,8 @@ Uniblue Systems Ltd. processes personal information only for the purposes for wh
 ### Changes to this policy
 
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes). Each version of this Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Privacy Policy in an archive for your review. 
+
+v. 18/08/09
 
   
   
