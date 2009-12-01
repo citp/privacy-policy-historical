@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the medhelp.org privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505131522id_/http%3A//www.medhelp.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medhelp.org privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201065148id_/http%3A//www.medhelp.org/privacy.htm) for the most accurate reproduction.*
 
 # MedHelp's Online Privacy Policy
 
-[Privacy Policy Frequently Asked Questions](https://web.archive.org/web/20090505131522id_/http%3A//www.medhelp.org/privacy_faq.htm)
+[Privacy Policy Frequently Asked Questions](https://web.archive.org/web/20091201065148id_/http%3A//www.medhelp.org/privacy_faq.htm)
 
 About this Privacy Policy
 
