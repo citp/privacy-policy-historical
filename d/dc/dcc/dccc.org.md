@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dccc.org privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416071253id_/http%3A//www.dccc.org/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dccc.org privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201232950id_/http%3A//www.dccc.org/pages/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - Democratic Congressional Campaign Committee
+# Privacy Policy - Democratic Congressional Campaign Committee (DCCC)
 
 The DCCC is committed to protecting the privacy and security of visitors to our website. Outlined below is our online privacy policy for personal information collected through this website. If you have questions about this policy, please let us know. 
 
