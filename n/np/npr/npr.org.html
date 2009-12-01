@@ -1,12 +1,8 @@
-<!--The following is the downloaded HTML source of the npr.org privacy policy that was archived on 2009-06-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090627143058id_/http%3A//www.npr.org/about/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the npr.org privacy policy that was archived on 2009-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091201161728id_/http%3A//www.npr.org/about/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
         <title>NPR Privacy Policy</title>
-        <style type="text/css" media="screen">@import "/include/css/mainstyles.css";</style>
-        <style type="text/css" media="screen">@import "/include/css/loosecontent.css";</style>
-        <style type="text/css" media="screen">@import "/include/css/bucket_facelift.css";</style>
-        <link rel="stylesheet" type="text/css" media="print" href="/include/css/print.css">
         <meta http-equiv="Content-type" content="text/html; charset=iso-8859-1">
         <meta http-equiv="Content-Language" content="en-us">
         <meta name="robots" content="noarchive,index,follow">
@@ -24,179 +20,284 @@
         <script type="text/javascript" src="/templates/javascript/generated/static.js"></script>
 
 
+		<style type="text/css" media="screen, print">@import "/templates/css/news/common.css";</style>
+		<style type="text/css" media="screen, print">@import "/templates/css/news/static.css";</style>
+		<style type="text/css" media="print">@import "/templates/css/news/print.css";</style>
     <script src="/include/foresee/foresee-surveydef.js" type="text/javascript" id="foresee-surveydef"></script></head>
-    <body>
-        <div id="login">
-    <p id="loginPElm"> </p>
-</div>
-<div id="header">
-
-<script type="text/javascript">
+<body>	<script type="text/javascript">
 //<![CDATA[
-
-function month(intMonth)
-    {
-        var MonthArray = new Array("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December");
-        return MonthArray[intMonth];
-    }
 
 function getDateStr()
     {
         var today = new Date();
         var year = today.getYear();
         if(year<1000) year+=1900;
-        var todayStr = month(today.getMonth()) + " " + today.getDate() + ", " + year;
+        var todayStr = toFullMonth(today.getMonth()) + " " + today.getDate() + ", " + year;
         return todayStr;
     }
 
-
-sfHover = function() {
-    var sfEls = document.getElementById("nav").getElementsByTagName("LI");
-
-    var stnNav = document.getElementById("stn_nav");
-    if (stnNav != null) { sfEls = concatCollections(sfEls, stnNav.getElementsByTagName("LI")); }
-
-    for (var i=0; i<sfEls.length; i++) {
-        sfEls[i].onmouseover=function() {
-            this.className+=" sfhover";
-        }
-        sfEls[i].onmouseout=function() {
-            this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
-        }
-    }
-}
-//if (window.attachEvent) window.attachEvent("onload", sfHover);
-if (document.all && window.attachEvent) window.attachEvent("onload", sfHover);
 //]]>
-
 </script>
 
-    <div id="skipImages">
-        <a href="#skipnavigation"><img src="http://media.npr.org/chrome/transparent.gif" alt="Skip Navigation" width="1" height="1"></a>
-        <a href="http://thin.npr.org/"><img src="http://media.npr.org/chrome/transparent.gif" alt="Go to text only site" width="1" height="1"></a>
-    </div>
+<div id="header">
 
-    <!-- start header row one -->
-    <div id="headerRowOne">
-        <div id="logo"><a href="/"><img src="http://media.npr.org/images/logo_npr_125.gif" alt="NPR Home Page" height="42" width="125"></a></div>
-        <ul class="audiostreams">
-            <li><a href="javascript:getNewsCast();" class="audioIcon">Hourly News Summary</a></li>
-            <li><a href="javascript:getProgramStream();" class="audioIcon">24-hour Program Stream</a> | <a href="/audiohelp/progstream.html">Schedule</a></li>
-        </ul>
-        <div id="searchBox">
-            <form method="get" action="/search.php" name="searchForm" id="searchForm">
-                <p>
-                    <input type="text" name="text" id="text" class="searchinput" value=" Search NPR.org" onclick="if(this.value==' Search NPR.org'){this.value=''}" onblur="if(this.value==''){this.value=' Search NPR.org'}">
-                    <input type="button" value="go" class="button" onclick="submit();">
-                </p>
-            </form>
+    <div id="login">
+		<div id="todaysdate">
+		<script type="text/javascript">
+			 //<![CDATA[
+			 document.write(getDateStr());
+			 //]]>
+		</script>
+		</div>
+		
+		<div class="loginwrap">	
+			<div id="locationA"><noscript><div class="donate1a"><a href="/stations/donate/index.php?ps=st278"></a></div></noscript></div>		
+	    	<p id="loginPElm">
+				<!--<a href="/stations/donate/?ps=sttn" class="donate">Donate</a> | -->
+				<a href="http://shop.npr.org/?utm_source=topnav&amp;utm_medium=topnav&amp;utm_campaign=topnav" class="shop">NPR Shop</a> | 
+				<a href="/templates/community/" class="comm">NPR Community</a> | 
+				<a href="/templates/reg/login.php">Login</a> | 
+				<a href="/templates/reg" class="reg">Register</a>
+			</p>			
+			<div id="locationB"></div>
+		</div>			
+			
+	</div>
+
+    <div class="headercontent">
+        <a href="/"><img src="http://media.npr.org/chrome/news/nprlogo_138x46.gif" width="138" height="46" alt="NPR"></a>
+
+        <div class="supportwrap">
+            <div class="support">
+
+                <div class="tab" id="globalstationlocation">
+                </div>
+                <script src="/templates/javascript/localize/station_include_global.js" type="text/javascript"></script>
+
+                <p><a href="/templates/stations/stations/" class="find">Find a Station</a></p>
+            </div>
         </div>
 
-        <!-- ACCIPITER Search Sponsorship -->
+        <!--<div class="topnavSponsor">
+            <div class="searchSponsorTxt">Support<br />provided by:</div>
+            <div class="searchSponsor"><a href=""><img src="/banners/generic_88x31.gif" width="88" height="31" alt="" /></a></div>
+        </div>-->
+		
+		<!-- ACCIPITER Search Sponsorship -->
         <!-- COMMENTED IN - IN USE CURRENTLY -->
         <div class="topnavSponsor">
-        <script type="text/javascript">
-        //<![CDATA[
-        //The interior of the script tags should be inside a javascript comment for browser-compatibility
-        var userver;
-        var target;
-        if(userver == null || userver == '')
-        {
-            userver = "http://u.npr.org";
-        }
-        if(target == null || target == '')
-        {
-            target = "/site=NPR";
-        }
-        aloc = "/utype=banner/aamsz=88x31/position=search_box";
-        random = Math.round(Math.random() * 8000000000 + 1000000000);
-        if (!pageNum) var pageNum = Math.round(Math.random() * 100000000);
-        sc = get_source_code();
-        document.write('<');
-        document.write('script type=\"text/javascript\" src="' + userver + '/jserver/random=' + random + target + aloc + sc + '/pageid=' + pageNum + '">');
-        document.write('<');
-        document.write('/script>');
+			<script language="javascript" type="text/javascript">
+			<!--
+			try {
+				document.writeln(AAMB1);
+			} catch(e){}
+			// -->
+			</script>
+        </div>				
 
-        //]]>
-        </script>
-        <noscript>
-        <a rel="nofollow" href="http://u.npr.org/adclick/site=NPR/utype=banner/aamsz=88x31/position=search_box/pageid=1">
-        <img src="http://u.npr.org/nserver/site=NPR/utype=banner/aamsz=88x31/position=search_box/pageid=1" alt="" /></a>
-        </noscript>
-        </div>
+        <form action="/search/index.php" method="get" name="searchForm" id="searchForm" class="search">
+			<label for="searchinput">Search</label>
+			<input type="text" name="searchinput" id="searchinput" class="textbox searchbox">
+			<input type="button" value="" class="btn_go" onclick="submit();">
+		</form>
 
     </div>
-    <!-- end header row one -->
 
+    <!-- localization dropdown -->
+    <div class="ddstn">
 
-    <!-- start header row two -->
-    <div id="headerRowTwo">
+        <!-- station info will be written here -->
+        <div id="station_info" class="station"></div>
 
-        <div id="todaysDate">
-            <script type="text/javascript">
-            //<![CDATA[
-                document.write(getDateStr());
-            //]]>
-            </script>January 30, 2020
-        </div>
+        <a href="javascript:void(0);" class="closemenu">close</a>
 
-        <ul id="nav">
-            <li><a href="/programs/index.html" class="rollPrograms "><img src="http://media.npr.org/chrome/nav_programs_off.gif" width="94" height="25" alt="Programs"></a>
-                <ul id="dropdown">
-                    <li class="hdr">News/Talk</li>
-                    <li class="highlight"><a href="/templates/rundowns/rundown.php?prgId=3">Morning Edition</a></li>
-                    <li class="highlight"><a href="/templates/rundowns/rundown.php?prgId=2">All Things Considered</a></li>
-                    <li><a href="/templates/rundowns/rundown.php?prgId=13">Fresh Air</a></li>
-                    <li><a href="/templates/rundowns/rundown.php?prgId=5">Talk of the Nation</a></li>
-                    <li><a href="/templates/rundowns/rundown.php?prgId=46">Tell Me More</a></li>
-                    <li><a href="/programs/waitwait/">Wait Wait...Don't Tell Me</a></li>
-                    <li><a href="/templates/rundowns/rundown.php?prgId=7">Weekend Edition Saturday</a></li>
-                    <li><a href="/templates/rundowns/rundown.php?prgId=10">Weekend Edition Sunday</a></li>
-                    <li class="hdr">Music</li>
-                    <li><a href="/templates/rundowns/rundown.php?prgId=37&amp;agg=1&amp;ps=jt">All Songs Considered</a></li>
-                    <li><a href="/templates/story/story.php?storyId=99022917">From the Top</a></li>
-                    <li><a href="/templates/rundowns/rundown.php?prgId=20&amp;agg=1">JazzSet</a></li>
-                    <li><a href="/templates/rundowns/rundown.php?prgId=24&amp;agg=1">Marian McPartland's Piano Jazz</a></li>
-                    <li><a href="/templates/story/story.php?storyId=92133820">Mountain Stage</a></li>
-                    <li><a href="/templates/rundowns/rundown.php?prgId=39&amp;agg=1">World Cafe</a></li>
-                    <li><a href="/templates/rundowns/rundown.php?prgId=36&amp;agg=1">World of Opera</a></li>
-                    <li class="lastmore"><a href="/programs/">MORE PROGRAMS A-Z</a></li>
-                </ul>
-            </li>
-            <li><a href="/templates/stations/stations/" class="rollStations"><img src="http://media.npr.org/chrome/nav_stations_off.gif" width="75" height="25" alt="Stations"></a></li>
-            <li><a href="/transcripts/" class="rollTranscripts"><img src="http://media.npr.org/chrome/nav_transcripts_off.gif" width="96" height="25" alt="Transcripts"></a></li>
-            <li><a href="/templates/archives/rundown_archive_hub.php" class="rollArchives"><img src="http://media.npr.org/chrome/nav_archives_off.gif" width="75" height="25" alt="Archives"></a></li>
-            <li><a href="http://shop.npr.org" class="rollShop"><img src="http://media.npr.org/chrome/nav_shop_off.gif" width="77" height="25" alt="NPR Shop"></a></li>
-            <li><a href="/about/" class="rollAbout"><img src="http://media.npr.org/chrome/nav_about_off.gif" width="86" height="25" alt="About NPR"></a></li>
-            <li><a href="http://help.npr.org/ics/support/default.asp?deptID=5670&amp;task=ticket" class="rollContact"><img src="http://media.npr.org/chrome/nav_contact_off.gif" width="89" height="25" alt="Contact Us"></a></li>
-            <li class="last"><a href="http://help.npr.org/ics/support/default.asp?deptID=5670" class="rollHelp"><img src="http://media.npr.org/chrome/nav_help_off.gif" width="48" height="25" alt="Help"></a></li>
-        </ul>
+        <div class="stationdata_arrow">&nbsp;</div>
 
     </div>
-    <!-- end header row two -->
 
-    <div class="spacer">&nbsp;</div>
+
+    <!-- global nav -->
+    <ul id="nav">
+        <li class="navhome"><a href="/">home</a></li>
+        <li class="navnews"><a href="/templates/story/story.php?storyId=1001">news</a></li>
+        <li class="navarts"><a href="/templates/story/story.php?storyId=1008">arts &amp; life</a></li>
+        <li class="navmusic"><a href="/music/">music</a></li>
+        <li class="navprograms"><a href="javascript:void(0);">programs</a></li>
+        <li class="navlisten"><a href="javascript:void(0);">listen</a></li>
+        <li class="navhourly"><a href="javascript:getNewsCast();"></a></li>
+        <li class="navpodcasts"><a href="/podcasts/"></a></li>
+    </ul>
+
+    <!-- programs dropdown -->
+    <div id="menuprograms">
+
+        <div class="col news">
+            <h3>news/talk</h3>
+            <ul class="left">
+                <li><a href="/templates/story/story.php?storyId=3">Morning Edition</a></li>
+                <li><a href="/templates/story/story.php?storyId=2">All Things Considered</a></li>
+                <li><a href="/templates/story/story.php?storyId=13">Fresh Air</a></li>
+                <li><a href="http://wamu.org/programs/dr/">The Diane Rehm Show</a></li>
+                <li><a href="http://www.onthemedia.org">On The Media</a></li>
+                <li><a href="http://www.onpointradio.org/">On Point</a></li>
+            </ul>
+            <ul class="col right">
+                <li><a href="/templates/story/story.php?storyId=5">Talk of the Nation</a></li>
+				<li><a href="/templates/story/story.php?storyId=46">Tell Me More</a></li>
+                <li><a href="/templates/story/story.php?storyId=7">Weekend Edition Saturday</a></li>
+                <li><a href="/templates/story/story.php?storyId=10">Weekend Edition Sunday</a></li>
+                <li class="hdr">Also heard on NPR stations:</li>
+                <li class="other"><a href="http://marketplace.publicradio.org">Marketplace <span>APM</span></a></li>
+            </ul>
+        </div>
+
+        <div class="col entertainment">
+            <h3>entertainment</h3>
+            <ul>
+                <li><a href="http://www.cartalk.com">Car Talk</a></li>
+                <li><a href="/templates/story/story.php?storyId=35">Wait Wait...Don't Tell Me!</a></li>
+                <li class="hdr">Also heard on NPR stations:</li>
+                <li class="other"><a href="http://www.thisamericanlife.org">This American Life <span>PRI</span></a></li>
+                <li class="other"><a href="http://prairiehome.publicradio.org">A Prairie Home Companion <span>APM</span></a></li>
+            </ul>
+        </div>
+
+        <div class="col music">
+            <h3>music</h3>
+            <ul class="left">
+                <li><a href="/templates/rundowns/rundown.php?prgId=37&amp;agg=1">All Songs Considered</a></li>
+				<li><a href="http://www.fromthetop.org/">From The Top</a></li>             
+                <li><a href="/templates/rundowns/rundown.php?prgId=20&amp;agg=1">JazzSet</a></li>
+                <li><a href="/templates/rundowns/rundown.php?prgId=24&amp;agg=1">Marian McPartland's Piano Jazz</a></li>
+				<li><a href="/templates/story/story.php?storyId=92133820">Mountain Stage</a></li>
+            </ul>
+            <ul class="right">
+                <li><a href="/templates/story/story.php?storyId=4703895">Song of the Day</a></li>
+				<li><a href="http://www.thistleradio.com/">The Thistle &amp; Shamrock</a></li>
+                <li><a href="/templates/rundowns/rundown.php?prgId=39&amp;agg=1">World Cafe</a></li>
+                <li><a href="/templates/rundowns/rundown.php?prgId=36&amp;agg=1">World of Opera</a></li>
+            </ul>
+        </div>
+
+        <div class="col special">
+            <h3>special series</h3>
+            <ul>
+                <li><a href="/templates/story/story.php?storyId=4516989">StoryCorps</a></li>
+                <li><a href="/blogs/money/">Planet Money</a></li>
+				<li><a href="/blogs/pictureshow/">Picture Show</a></li>
+				<li><a href="/templates/story/story.php?storyId=5500502">Krulwich on Science</a></li>
+            </ul>
+        </div>
+
+        <div class="footer">
+            <a href="/programs/">PUBLIC RADIO PROGRAMS A-Z </a> <span class="pipe">|</span> <a href="#" class="closemenu">close</a>
+        </div>
+
+
+    </div>
+    <!-- end programs dropdown -->
+
+
+    <!-- listen dropdown -->
+    <div id="menulisten">
+        <div class="audiostreams">
+			<h3>hear continuous streams</h3>
+			<div class="listenblock">
+				<div class="primary">
+					<a href="javascript:getProgramStream();" class="listenicon"></a>
+					<div class="listencontent">
+						<h4><a href="javascript:getProgramStream();">24-Hour Program Stream</a></h4>
+						<p class="info">NPR News and Shows</p>
+					</div>
+				</div>
+				<div class="tab"><span><a href="/audiohelp/progstream.html" class="trans">View Schedule</a></span></div>
+				<p class="findstreams"><a href="/templates/stations/stations/">Find Stations</a> | <a href="/templates/websites/musicstreams.php?t=10001">Music Streams</a></p> 
+			</div>
+		</div>
+
+        <script type="text/javascript" src="/include/navigation/news/listenLatestProgram.js"></script><div class="latestshow"><h3>hear the latest show</h3><div class="listenblock"><div class="primary"><a href="javascript:NPR.Player.openPlayer(2,0,'09-30-2009', NPR.Player.Action.PLAY_NOW, NPR.Player.Type.PROGRAM, NPR.Player.Mode.MODEL_FROM_FILE)" class="listenicon"></a><div class="listencontent"><h4><a href="javascript:NPR.Player.openPlayer(2,0,'09-30-2009', NPR.Player.Action.PLAY_NOW, NPR.Player.Type.PROGRAM, NPR.Player.Mode.MODEL_FROM_FILE)">All Things Considered</a></h4><p class="info">September 30, 2009</p></div><!-- END CLASS="LISTENCONTENT" --></div><!-- END CLASS="PRIMARY" --><div class="tab"><span><a href="javascript:NPR.Player.openPlayer(2,0,'09-30-2009', NPR.Player.Action.ADD_TO_PLAYLIST, NPR.Player.Type.PROGRAM, NPR.Player.Mode.MODEL_FROM_FILE)" class="add">Add to Playlist</a></span></div><!-- END CLASS="TAB" --></div><!-- END CLASS="LISTENBLOCK" --><!-- SUCCESSFUL BURN --></div>
+		
+		<div class="hourlynews">
+			<h3>hear the latest news</h3>
+			<div class="listenblock">
+				<div class="primary">
+					<a href="javascript:getNewsCast();" class="listenicon"></a>
+					<div class="listencontent">
+						<h4><a href="javascript:getNewsCast();">Hourly News Summary</a></h4>
+						<div class="duration">[4 min 45 sec]</div>
+						<p class="info">Latest NPR Newscast</p>
+					</div>
+				</div>
+			</div>
+		</div>
+        <div class="footer">
+            <a href="/programs/">Public Radio Programs A-Z</a> <span class="pipe">|</span> <a href="#" class="closemenu">close</a>
+        </div>
+
+
+    </div>
+    <!-- listen dropdown -->
+
+<script type="text/javascript">
+//<![CDATA[
+
+function getExpVariant(expId, numVariants) {
+	var cookieVal = checkCookie("nprexp_"+expId);
+	if (!cookieVal) {
+		var ranNum= Math.floor(Math.random()*numVariants);
+		setCookie("nprexp_"+expId,60,ranNum+"");
+		var retrievedCookie = checkCookie("nprexp_"+expId);
+		if (retrievedCookie) { return retrievedCookie; }
+		else {return -1;}
+	}
+	else {
+		return cookieVal;
+	}
+}
+
+$(document).ready(function(){
+	var x = getExpVariant("100", 8); 
+	
+	var btnArr = [];
+	btnArr[0] = '<div class="donate1a"><a href="/stations/donate/index.php?ps=st270"></a></div>';
+	btnArr[1] = '<div class="donate2a"><a href="/stations/donate/index.php?ps=st271"></a></div>';
+	btnArr[2] = '<div class="donate3a"><a href="/stations/donate/index.php?ps=st272"></a></div>';
+	btnArr[3] = '<div class="donate4a"><a href="/stations/donate/index.php?ps=st273"></a></div>';
+	btnArr[4] = '<div class="donate1b"><a href="/stations/donate/index.php?ps=st274"></a></div>';
+	btnArr[5] = '<div class="donate2b"><a href="/stations/donate/index.php?ps=st275"></a></div>';
+	btnArr[6] = '<div class="donate3b"><a href="/stations/donate/index.php?ps=st276"></a></div>';
+	btnArr[7] = '<div class="donate4b"><a href="/stations/donate/index.php?ps=st277"></a></div>';
+	
+	if (x > 3) {
+		$("#locationB").html(btnArr[x]);
+	} else {
+		$("#locationA").html(btnArr[x]);
+	}
+	//alert(x);
+});
+//]]>
+
+</script> 
 
 </div>
-<a name="skipnavigation" id="skipnavigation"></a>
 
-        <div id="main">
+<div id="wrapper">
+	<div id="wrapper_main">
             <!-- START MIDDLE COLUMN -->
-            <div id="middlecol">
-                <div id="content">
+<div id="main_content">                <div id="content">
 
 
                 <!-- start paste page content -->
 
 <p class="pagetitle">Privacy Policy<br>
-<span style="font-size:11px;color:#f00;">Effective Date September 28, 2008</span></p>
+<span style="font-size:11px;color:#f00;">Effective Date July 26, 2009</span></p>
 
-<p>At NPR, we recognize the importance of privacy to visitors of our Web sites and services (the "NPR Web Sites" or "Service"). This Privacy Policy explains what type of information is collected from you when you visit the NPR Web sites and how that information may be used. Please note that this Privacy Policy is separate and distinct from the privacy policies governing NPR's <a href="http://www.npr.org/getmyvote/">www.getmyvote.org</a> web site, the web sites of NPR's member stations, and the web sites that may link to or from the NPR Web Sites.</p>
+<p>At NPR, we recognize the importance of privacy to visitors of our Web sites and services (the "NPR Web Sites" or "Service"). This Privacy Policy explains what type of information is collected from you when you visit the NPR Web sites and how that information may be used. Please note that this Privacy Policy is separate and distinct from the privacy policies governing the web sites of NPR's member stations, and the web sites that may link to or from the NPR Web Sites.</p>
 
 <p><strong>Gathering of Information</strong><br>
 NPR collects personally-identifying information (such as your name, e-mail address, address, telephone number, credit card information) from the NPR Web Sites for a variety of purposes.</p>
 
-<p>NPR asks visitors to provide certain personal information when they register for certain features or services of the NPR Web Sites (for example, the NPR Community, Application Programming Interface (API) Content access and NPR e-mail newsletters), when they create a profile in the NPR Community, when they request a transcript of NPR programs, when they e-mail or share a page of the NPR Web Sites, when they make a purchase from the NPR Online Shop, when they post, upload, transmit and/or otherwise submit ("Submit") a comment, message, story idea, essay, photo, image, or other text,  content or material ("User Materials"), and when they register for any online contests. NPR also may ask visitors to provide personal information in other limited circumstances specified at the time the information is gathered. Any information that you Submit on or through the NPR Community or other social networking features, as part of story or blog comments, or otherwise Submit to the NPR Web Sites, may become public, including the full name and nickname that you provide when registering for the NPR Community.</p>
+<p>NPR asks visitors to provide certain personal information when they register for certain features or services of the NPR Web Sites (for example, the NPR Community, Application Programming Interface (API) Content access and NPR e-mail newsletters), when they create a profile in the NPR Community, when they make a donation, when they e-mail or share a page of the NPR Web Sites, when they make a purchase from the NPR Online Shop, when they post, upload, transmit and/or otherwise submit ("Submit") a comment, message, story idea, essay, photo, image, or other text,  content or material ("User Materials"), and when they register for any online contests. NPR also may ask visitors to provide personal information in other limited circumstances specified at the time the information is gathered. Any information that you Submit on or through the NPR Community or other social networking features, as part of story or blog comments, or otherwise Submit to the NPR Web Sites, may become public, including the full name and nickname that you provide when registering for the NPR Community.</p>
 
 <p>Like all other Web servers, NPR's Web server automatically creates log files for each visitor who accesses the NPR Web Site. These "access logs" allow us to make our site more useful to our visitors. The access logs do NOT record a visitor's name, address, e-mail address, phone number, credit card numbers, or any other personally-identifying information. Rather, they contain some or all of the following information:</p>
 
@@ -216,18 +317,18 @@ NPR also uses 'cookies' to collect information. A cookie is a string of characte
 
 <p>NPR uses cookies to track users' activity through the site in order to improve the site's architecture, to offer the user interactive features that would not be possible without them, and to recall specific information to save the user time during subsequent visits to the site. For example, cookies allow NPR to remember your registration information while you are logged in. Local station customization, the NPR Online Shop, and other interactive features also use cookies. Our sponsorship service vendors, which serve sponsorship messages onto our site, and third party vendors that measure and analyze the use of the NPR Web Sites for NPR, may also use their own cookies.</p>
 
-<p>NPR and the third party vendors that measure and analyze use of the NPR Web sites for NPR also may use web beacons, alone or in conjunction with cookies, to help compile information about usage of the NPR Web Sites, including usage of certain API Content. A web beacon is an electronic image, also known as a single-pixel (1x1) or clear .gif., which can be used to recognize certain information on your computer, such as cookies, the time and date of a page viewed, and a description of where API Content is placed. We may use web beacons on this site from time to time for this and other purposes. </p>
+<p>NPR and the third party vendors that measure and analyze use of the NPR Web sites for NPR also may use web beacons, alone or in conjunction with cookies, to help compile information about and facilitate usage of the NPR Web Sites, including usage of certain API Content. A web beacon is an electronic image, also known as a single-pixel (1x1) or clear .gif., which can be used to recognize certain information on your computer, such as cookies, the time and date of a page viewed, and a description of where API Content is placed. We may use web beacons on this site from time to time for this and other purposes. </p>
 
 <p>If you wish to prevent certain or all cookies or web beacons from being set to your hard drive you may disable them in your browser's preferences, although your browser might then be unable to accommodate certain functionalities on the NPR Web sites.</p>
 
 <p><strong>Use of Information</strong><br>
-The use of personally-identifying information is limited to the following: managing and administering the NPR Web sites; responding to user messages; listing name and location (city, state and/or country) information provided by users when broadcasting or publishing User Materials; fulfillment of transcript orders; fulfillment of NPR Online Shop orders; contest management; editorial purposes such as contacting users for an online survey; sending NPR e-mail newsletters and other communications, including marketing and promotional communications, from NPR or NPR member stations to users who have 'opted in' to the receipt of such communications; other internal NPR or NPR member station purposes; and other purposes specified at the time the information is gathered. NPR may contact users regarding their submissions in certain circumstances.</p>
+The use of personally-identifying information is limited to the following: managing and administering the NPR Web sites; responding to user messages; listing name and location (city, state and/or country) information provided by users when broadcasting or publishing User Materials; fulfillment of NPR Online Shop orders; processing donations, contest management; editorial purposes such as contacting users for an online survey; sending NPR e-mail newsletters and other communications, including marketing and promotional communications, from NPR or NPR member stations to users who have 'opted in' to the receipt of such communications; other internal NPR or NPR member station purposes; and other purposes specified at the time the information is gathered. NPR may contact users regarding their submissions in certain circumstances.</p>
 
 <p>Any information that you disclose when participating in the NPR Community (including creating a profile or submitting a comment to a story or blog or in a discussion thread), such as your full name and any nickname, is likely to become public.  This information may be posted on the NPR Web Sites.  In addition, NPR, its member stations and their licensees, may use, copy, sublicense, modify, transmit, publicly perform, display, create derivative works of, host, index, cache, tag, encode, and/or adapt any User Materials, and any information contained therein, in any and all media formats or channels, whether now known or hereafter devised, including, but not limited to, the NPR Web Sites, NPR member station web sites, other third party web sites, over the air (on radio or television), and on mobile platforms.  Further, other users of the NPR Web Sites may embed a widget or feed that allows your User Materials to appear on their personal, noncommercial web site, blog or other application, subject to conditions set forth in the Terms of Use. </p>
 
 <p>In addition, if you send User Materials to NPR through our Web site, we may print the User Materials, or an excerpt from the User Materials, on the NPR Web site, read them on air, or otherwise publish them in any other medium, together with your name and location (city, state and/or country) if you provide that information to us.</p>
 
-<p>Excluding information provided by the user when participating in the NPR Community or sending User Materials to NPR, which may become public as discussed above, personally-identifying information collected by NPR is not provided to outside parties except NPR member stations, NPR service vendors (such as NPR's transcript fulfillment service, the NPR Online Shop fulfillment service, and NPR's email list manager), and other third parties when the user specifically consents to such distribution (such as the disclosure of your name to a friend when you email a story to that friend). In these circumstances, the information is provided for the sole purpose of -- and only to the extent necessary for -- delivering the requested transcript or goods to the user, delivering communications from NPR or NPR member stations to users who have 'opted in' to the receipt of these communications, providing services for and on behalf of NPR, or serving other internal NPR or NPR member station purposes.</p>
+<p>Excluding information provided by the user when participating in the NPR Community or sending User Materials to NPR, which may become public as discussed above, personally-identifying information collected by NPR is not provided to outside parties except NPR member stations, NPR service vendors (such as NPR Online Shop fulfillment service, and NPR's email list manager), and other third parties when the user specifically consents to such distribution (such as the disclosure of your name to a friend when you email a story to that friend). In these circumstances, the information is provided for the sole purpose of -- and only to the extent necessary for -- delivering the requested goods to the user, delivering communications from NPR or NPR member stations to users who have 'opted in' to the receipt of these communications, providing services for and on behalf of NPR, or serving other internal NPR or NPR member station purposes.</p>
 
 <p>NPR also may disclose personal information if required to do so by law or if it believes that such action is necessary to (a) comply with the law or with legal process, (b) protect against misuse or unauthorized use of the NPR Web Sites, or (c) protect the personal safety or property of users of the NPR Web Sites, the public or NPR and its employees.</p>
 
@@ -241,24 +342,27 @@ NPR has in place what we believe to be appropriate physical, electronic, and man
 <p><strong>Children</strong><br>
 Under 13: You must be at least 13 years old in order to register for e-mail newsletters or other features of the NPR Web Sites. If you are under 13 years of age, please do not send any information about yourself, including your name, address or e-mail address. If we discover that we have collected any personally-identifying information from a child under the age of 13, we will remove that information from our database as soon as possible.</p>
 
-<p>13-18: You must be at least 18 years old in order to Submit any User Materials on or through the NPR Web Sites, create a profile in the NPR Community, participate in any online contests, order NPR transcripts, or place an order on the NPR Online Shop. Visitors between the ages of 13 and 18 must obtain permission from their parents or guardians before registering for e-mail newsletters or other features of the NPR Web Sites (excluding the NPR Community, for which they cannot register) or otherwise sending any personally-identifying information.</p>
+<p>13-18: You must be at least 18 years old in order to Submit any User Materials on or through the NPR Web Sites, create a profile in the NPR Community, participate in any online contests, or place an order on the NPR Online Shop. Visitors between the ages of 13 and 18 must obtain permission from their parents or guardians before registering for e-mail newsletters or other features of the NPR Web Sites (excluding the NPR Community, for which they cannot register) or otherwise sending any personally-identifying information.</p>
 
 <p><strong>Corrections to Personal Data; Opting Out</strong><br>
 Please <a href="/contact/">Contact Us</a> to a) correct or update any personal information in the NPR database that you state is erroneous, b) opt-out of future communications from NPR, or c) request NPR to make reasonable efforts to remove your personal information from the NPR Online database, thereby canceling your NPR Community profile, NPR newsletter registration and other NPR registrations. This will not necessarily remove previous public comments and other User Materials Submitted for public display on the NPR Web Sites.  The user understands that it may be impossible to delete personal information entirely because of backups and records of deletions.</p>
 
 <p><strong>Acceptance of Privacy Policy Terms</strong><br>
-NPR reserves the right to change this policy. Any changes to this policy will be posted to this page as soon as reasonably possible, so please check this page periodically. Use of the NPR Web Sites constitutes consent to any policy then in effect. Please make sure that you read NPR's Terms of Use to understand additional terms and conditions which apply to the use of the NPR Web Sites.</p>
+NPR reserves the right to change this policy. Any changes to this policy will be posted to this page as soon as reasonably possible, so please check this page periodically. Use of the NPR Web Sites constitutes consent to any policy then in effect. Please make sure that you read NPR's <a href="termsofuse.html">Terms of Use</a> to understand additional terms and conditions which apply to the use of the NPR Web Sites.</p>
 
-<p>If you have any questions or comments concerning our Privacy Policy, please <a href="/contact/">Contact Us</a> via e-mail or send a letter to:</p>
+<p><strong>Links to other Sites</strong><br>
+It is important to note that the NPR Web Sites contains links to other sites that may not follow the same privacy policies as the NPR Web Sites. For instance, clicking on a sponsorship notice on npr.org will take you to an entirely different site. These sites may use cookies, collect data, and use the data in ways that the NPR Web Sites would not. NPR is not responsible for the privacy practices or any information or materials on these other sites. Please visit these sites if you wish to review their privacy policies.</p>
+
+<p><strong>International User Notice</strong><br>
+For international users, please note that it may be necessary to transfer your information internationally and, in particular, your information may be transferred to and processed in the United States.  For residents of the European Union:  the data protection and other laws of other countries outside of the European Union may not be as comprehensive as those of the European Union.  Please be assured that we take steps to ensure that your privacy is protected as described in this policy.  By using this site, you agree to have your information used and transferred to the United States as set forth in this policy.</p>
+
+<p><strong>Questions</strong><br>
+If you have any questions or comments concerning our Privacy Policy, please <a href="/contact/">Contact Us</a> or send a letter to:</p>
 
 <p>Director, User Experience Delivery, Digital Media<br>
 National Public Radio, Inc.<br>
 635 Massachusetts Avenue, N.W.<br>
 Washington, DC 20001-3753</p>
-
-<p><strong>Links to other Sites</strong><br>
-It is important to note that the NPR Web Sites contains links to other sites that may not follow the same privacy policies as the NPR Web Sites. For instance, clicking on a sponsorship notice on npr.org will take you to an entirely different site. These sites may use cookies, collect data, and use the data in ways that the NPR Web Sites would not. NPR is not responsible for the privacy practices or any information or materials on these other sites. Please visit these sites if you wish to review their privacy policies. Furthermore, the privacy policy for NPR's <a href="http://www.npr.org/getmyvote/">www.getmyvote.org</a>, which can be viewed here, is separate and distinct from the Privacy Policy for the NPR Web Sites.</p>
-
 
 
 
@@ -266,581 +370,166 @@ It is important to note that the NPR Web Sites contains links to other sites tha
 
                 </div>
 
-                <script type="text/javascript" src="/templates/javascript/lib/jquery-1.2.6.min.js"></script>
-<script type="text/javascript" src="/templates/javascript/reg/jquery-reg-plugins.js"></script>
-<script type="text/javascript" src="/templates/javascript/reg/reg.js"></script>
-<script type="text/javascript">
-    var NL_PROGRAMMING = 4014;
-    var NL_MOSTEMAILED = 4004;
-</script>
-<script type="text/javascript">
-    NPR.send_email_include = function() {
-        return  {
-            /**
-             * This function does the work of populating/altering
-             * the send email include depending on whether we have a js cookie or not.
-             * This used to be executed only at load time, but now is dynamically
-             * executed since we have cookie written during the js session.
-             */
-            init : function() {
-                /*
-                 * Remove parts of the page based on user already having
-                 */
-        
-                var st = $.stationscookie();
-                if (st !== null) {
-                    $('.user-stationsselected').hide();
-                }
-        
-                var nl = $.newsletterscookie();
-                if (nl !== null) {
-                    if ($.arrayContains(NL_PROGRAMMING, nl) &&
-                        $.arrayContains(NL_MOSTEMAILED, nl)) {
-                        $('.user-nlsubscribed').hide();
-                    }
-                }
-        
-                /*
-                 * Populate user info if found.
-                 */
-                var auth = $.authcookie();
-                $('input[name="from"]').attr('value', auth.email);
-                $('input[name="fullname"]').attr('value', auth.fullname);
-            }            
-        };
-    }();
-
-    /* - On page load, modify the form if the user is logged in.
-     * - If the user logs in, refresh the form to display user data.
-     */
-    $().ready(function() {
-        NPR.send_email_include.init();
-        $(document.body).login(function() {
-            NPR.send_email_include.init();
-        }); 
-    });
-
-/**
- * echeck function modified from DHTML email validation script. Courtesy of SmartWebby.com (http://www.smartwebby.com/dhtml/)
- */
-function echeck(str) {
-
-        var at="@"
-        var dot="."
-        var lat=str.indexOf(at)
-        var lstr=str.length
-        var ldot=str.indexOf(dot)
-        if (str.indexOf(at)==-1){
-           alert("Please check the the format of the email addresses you entered.")
-           return false
-        }
-
-        if (str.indexOf(at)==-1 || str.indexOf(at)==0 || str.indexOf(at)==lstr){
-           alert("Please check the the format of the email addresses you entered.")
-           return false
-        }
-
-        if (str.indexOf(dot)==-1 || str.indexOf(dot)==0 || str.indexOf(dot)==lstr){
-            alert("Please check the the format of the email addresses you entered.")
-            return false
-        }
-
-         if (str.substring(lat-1,lat)==dot || str.substring(lat+1,lat+2)==dot){
-            alert("Please check the the format of the email addresses you entered.")
-            return false
-         }
-
-         if ((str.indexOf(" ")!=-1) && (str.indexOf(" ")!=str.length-1)){  //altered by eme -- a space at the end should be ok
-            alert("Please check the the format of the email addresses you entered.")
-            return false
-         }
-
-         return true
-    }
-
-    function deleteSpaces(textStr)
-    {
-        // replace any spaces/linebreak characters w/ nothing
-        var textStrSave = textStr.value.replace(/[\s]+/g, "");
-        textStrSave = textStrSave.replace(/\;/g, ',');
-        textStr.value= textStrSave;
-    }
-
-    function formSubmit() {
-
-        // 0 is valid.
-        if (checkStation()==0) {
-            docUrl = document.URL;
-            document.frmSendToFriend.title.value=document.title;
-            poundFind = docUrl.indexOf("#");
-
-            if (poundFind>-1)
-                {
-                    docUrl = docUrl.substring(0, poundFind);
-                }
-
-            if (docUrl.substring(0, 14)=="http://npr.org")
-                {
-                    docUrl = "http://www.npr.org" + docUrl.substring(14, docUrl.length);
-                }
-
-            document.frmSendToFriend.pageUrl.value= docUrl;
-            if (NPR && NPR.metrics && NPR.metrics.vstag)
-            {
-                document.frmSendToFriend.vstopic.value = NPR.metrics.vstag.primaryTopic;
-                document.frmSendToFriend.vsprogram.value = NPR.metrics.vstag.programId;
-                document.frmSendToFriend.vsagg.value = NPR.metrics.vstag.aggIds;
-                document.frmSendToFriend.vsbyline.value = NPR.metrics.vstag.byline;
-            }
-            else if (window.vstag)
-            {
-                document.frmSendToFriend.vstopic.value = window.vstag.primaryTopic;
-                document.frmSendToFriend.vsprogram.value = window.vstag.programId;
-                document.frmSendToFriend.vsagg.value = window.vstag.aggIds;
-                document.frmSendToFriend.vsbyline.value = window.vstag.byline;
-            }
-            else
-            {
-                document.frmSendToFriend.vstopic.value = 0;
-                document.frmSendToFriend.vsprogram.value = 0;
-                document.frmSendToFriend.vsagg.value = 0;
-                document.frmSendToFriend.vsbyline.value = 0;
-            }
-            from=document.frmSendToFriend.from.value;
-            to=document.frmSendToFriend.recipient.value;
-
-            if (document.frmSendToFriend.MSG.value.length > 600)
-            {
-                alert("Your message contains " + document.frmSendToFriend.MSG.value.length + " characters. The maximum is 600 characters. Please shorten your message and try again.");
-                document.frmSendToFriend.MSG.focus();
-                return false;
-            }
-
-            if ((to==null)||(to=="") || (from==null)||(from=="")){
-                alert("Please enter information into the email address fields.");
-                document.frmSendToFriend.recipient.focus();
-                return false;
-            } else if ((echeck(from)==false) || (echeck(to)==false)){
-                return false
-            } else {
-                document.frmSendToFriend.submit();
-            }
-        }
-    }
-
-    function checkStation() {
-        /*
-         * If JQuery exists and we are a newer form, grab the station ids.
-         */
-        if ($ && $.grabStationIds)
-        {
-            document.frmSendToFriend.callletters.value = $.grabStationIds();
-        }
-        if ( ((document.frmSendToFriend.callletters.value== "Enter Call Letters") || (document.frmSendToFriend.callletters.value== "")) && (document.frmSendToFriend.localcontact[0].checked == true)) {
-            alert ("Please enter the call letters of your local NPR member station if you would like to receive information from them.");
-            return 1;
-        } else {
-            return 0;
-        }
-    }
-</script>
-
-<style type="text/css">
-    ul#stationinputs
-    {
-    margin:0;
-    padding:0;
-    list-style-type:none;
-    }
-
-#stationinputs li
-    {
-    padding-bottom: 4px;
-    }
-
-#stationsac
-    {
-    width:270px;
-    text-align:left;
-    background-color: #ced9ee;
-    border:1px solid;
-    border-color:#000;
-    }
-
-#stations ul
-    {
-    margin:0;
-    padding:0;
-    }
-
-.stationselected
-    {
-    position: relative;
-    }
-
-#stationinputs .stationstext
-    {
-    font-size: 11px;
-    background-color: #EFEFEF;
-    }
-
-.stationsacHighlight
-    {
-    font-weight:bold;
-    text-transform:uppercase;
-    background-color:#ffd800;
-    }
-
-#stationsul
-    {
-    padding:0;
-    margin:0;
-    }
-
-#stationsul li
-    {
-    padding:4px;
-    list-style:none;
-    cursor:pointer;
-    }
-
-.stationsacSelected
-    {
-    background-color:#113e98;
-    color:#fff;
-    }
-
-form .btn_minus
-    {
-    border:1px solid #000000;
-    height:18px;
-    background-color: #9cc3f0;
-    position:absolute;
-    cursor: pointer;
-    top: 0;
-    right: 0;
-    padding: 0;
-    margin: 0;
-    }
-
-</style>
-
-<a name="email"></a> <br>
-<form name="frmSendToFriend" method="post" action="/templates/sendEmail/email_sent.php" onsubmit="return formSubmit();">
-    <!-- return EmailValidator(this) -->
-    <input type="hidden" value="" name="pageUrl">
-    <input type="hidden" value="" name="title">
-    <input type="hidden" name="vstopic" value="">
-    <input type="hidden" name="vsprogram" value="">
-    <input type="hidden" name="vsagg" value="">
-    <input type="hidden" name="vsbyline" value="">
-
-
-    <div id="emailform">
-        <div id="emailheader">
-            <h3><a href="#email" onclick="$('#emailFormContent').removeClass().addClass('emailFormTable');" class="emailicon">E-mail this Page</a></h3>
-            <div class="spacer">&nbsp;</div>
-        </div>
-        <table cellpadding="1" cellspacing="0" class="shy" id="emailFormContent">
-            <tbody><tr valign="middle">
-                <td><p class="email_box_text">Recipient's e-mail address:</p></td>
-                <td><p>
-                        <input type="text" name="recipient" value="" onblur="deleteSpaces(this)">
-                        <br>
-                        <span class="email_box_text">» Up to twelve addresses, separated by commas.</span></p></td>
-            </tr>
-            <tr valign="middle">
-                <td><span class="email_box_text">Your e-mail address:</span></td>
-                <td><input type="text" name="from" value="" onblur="deleteSpaces(this)"></td>
-            </tr>
-            <tr valign="middle">
-                <td><span class="email_box_text">Your name:</span></td>
-                <td><input type="text" name="fullname" value=""></td>
-            </tr>
-            <tr valign="middle">
-                <td><span class="email_box_text">Personal message (optional, 600 characters max):</span></td>
-                <td><textarea name="MSG" cols="20" rows="3"></textarea></td>
-            </tr>
-            <tr valign="middle" class="user-stationsselected">
-                <td><span class="email_box_text">Your NPR member station:</span></td>
-                <td>
-                    <input type="hidden" name="callletters" value="">
-                    <ul id="stationinputs">
-                        <li><input type="text" name="station_selector" id="station_selector" class="stationfinder" value="" onkeypress="return event.keyCode!=13"></li>
-                    </ul>
-                    </td>
-            </tr>
-            <tr valign="middle" class="user-stationsselected">
-                <td><p class="email_box_text">Are you a member of your local NPR station?</p></td>
-                <td><input type="radio" name="ismember" value="1">
-                    <span class="email_box_text">Yes</span>&nbsp;&nbsp;&nbsp;
-                    <input type="radio" name="ismember" value="0" checked="checked">
-                    <span class="email_box_text">No</span></td>
-            </tr>
-            <!--added -->
-            <tr valign="middle" class="user-stationsselected">
-                <td><p class="email_box_text">Would you like to receive information from
-                        your local NPR member station? (see <a href="http://www.npr.org/about/privacypolicy.html" target="_blank">NPR's
-                        privacy policy</a>)</p></td>
-                <td><input type="radio" name="localcontact" value="1" onclick="checkStation()">
-                    <span class="email_box_text">Yes</span>&nbsp;&nbsp;&nbsp;
-                    <input type="radio" name="localcontact" value="0" checked="checked">
-                    <span class="email_box_text">No</span></td>
-            </tr>
-            <!--/added -->
-            <tr valign="middle" class="user-nlsubscribed">
-                <td><p class="email_box_text">Please send me updates from NPR.</p></td>
-                <td><input type="radio" name="contact" value="1">
-                    <span class="email_box_text">Yes</span>&nbsp;&nbsp;&nbsp;
-                    <input type="radio" name="contact" value="0" checked="checked">
-                    <span class="email_box_text">No</span></td>
-            </tr>
-            <tr valign="middle">
-                <td><img src="http://media.npr.org/images/spacer.gif" width="180" height="1" alt="null"></td>
-                <td><div>
-                        <input type="button" name="submitEmailSender" value="Send This Page" onclick="formSubmit();">
-                        <br>
-                        </div></td>
-            </tr>
-            <tr valign="middle" class="last">
-                <td colspan="2"><p class="email_box_text">(Information collected by NPR will
-                        be used solely for internal NPR or NPR member station purposes and only
-                        if you selected 'yes' above. See NPR's <a href="http://www.npr.org/about/privacypolicy.html" target="_blank" class="email_box_link">privacy
-                        policy</a> for more information.)</p></td>
-            </tr>
-        </tbody></table>
-                             <script type="text/javascript">
-                         //<![CDATA[
-                         theurl = window.location.href;
-                         if(theurl.indexOf('#email') > 0)
-                         {
-                             $('#emailFormContent').removeClass().addClass('emailFormTable');
-                         }
-                                                //]]>
-                        </script>
-
-    </div>
-</form>
-<br>
-                <div id="footer">
-	<div id="nav2">
-		<ul>
-			<li><a href="/templates/archives/rundown_archive_hub.php">Archives</a></li>
-			<li><a href="/transcripts/">Transcripts</a></li>
-			<li><a href="/templates/stations/stations/">Stations</a></li>
-			<li><a href="/topics/">Topics</a></li>
-			<li><a href="http://shop.npr.org">Shop</a></li>
-			<li><a href="/about/">About</a></li>
-			<li><a href="http://help.npr.org/ics/support/default.asp?deptID=5670&amp;task=ticket">Contact Us</a></li>
-			<li><a href="http://help.npr.org/ics/support/default.asp?deptID=5670">Help</a></li>
-		</ul>
-	</div>
-	<div id="legal">
-		<ul>
-			<li>Copyright 
-			<script type="text/javascript"> 
-				year = new Date();
-				document.write(year.getFullYear());
-			</script>2020  NPR</li>
-			<li><a href="/about/termsofuse.html">Terms of Use</a></li>
-			<li><a href="/about/permissioninfo.html">Permissions</a></li>
-			<li><a href="/about/privacypolicy.html">Privacy Policy</a></li>
-		</ul>
-	</div>
-</div>
-
-<script type="text/javascript" src="/include/javascript/test/test1.js"></script>
-<script type="text/javascript" src="/include/foresee/foresee-trigger.js"></script>
-
-
-
-
             </div>
             <!-- END MIDDLE COLUMN -->
-            <!-- START RIGHT COLUMN -->
-            <div id="rightcol">
-                <!-- start paste right column content -->
+<!-- START RIGHT COLUMN --><div id="main_sidebar">                <!-- start paste right column content -->
 
                 <script type="text/javascript" src="/include/navigation/about_subnav.js"></script>
                 <!-- sponsor placeholder -->
 
-                <script type="text/javascript" src="/include/modules/tapestrans2.js"></script>
 
                 <!-- end paste right column content -->
 
             </div>
             <!-- END RIGHT COlUMN -->
-            <div id="leftcol">
-                <script type="text/javascript" src="/include/localize/create_form.js"></script>
-                <script type="text/javascript" src="/include/localize/station_include2.js"></script><div id="localization"><form name="go_local" method="post" action="https://web.archive.org/web/20041004073208/http://www.npr.org/stations/stations_results.php" onsubmit="if (document.go_local.txtSearchValue.value!='Call Letters' &amp;&amp; document.go_local.txtSearchValue.value!='') {document.go_local.refUrl.value=window.location.href} else {window.location.href='http://www.npr.org/stations/index.php?sForm=call&amp;refUrl=https://web.archive.org/web/20090627143058id_/http%3A//www.npr.org/about/privacypolicy.html';return false;}"><p>find your local member station:</p><input type="hidden" name="searchType" value="zipcall"><input type="hidden" name="refUrl" value=""><input name="txtSearchValue" id="txtSearchValue" value="Call Letters" onclick="clearField();" onblur="fillField();"><p>(or enter zip code)</p><input type="submit" name="find" id="localizationfind" class="button" value="find"></form></div>
-                <h3>Browse Topics</h3>
-<div id="topics">
-	<ul>
-		<li class="topic1001">
-			<a href="/templates/topics/topic.php?topicId=1001">News</a>
-			<ul>
-				<li><a href="/templates/topics/topic.php?topicId=1003">Nation</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=1004">World</a></li>
-			</ul>
-		</li>
-		<li class="topic1014">
-			<a href="/templates/topics/topic.php?topicId=1014">Politics</a>
-			<ul>
-				<li><a href="/templates/topics/topic.php?topicId=1013">Education</a></li>
-			</ul>
-		</li>
-		<li class="topic1006">
-			<a href="/templates/topics/topic.php?topicId=1006">Business</a>
-			<ul>
-				<li><a href="/templates/topics/topic.php?topicId=1017">Economy</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=1018">Your Money</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=1019">Technology</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=1020">Media</a></li>
-			</ul>
-		</li>
-		<li class="topic1007">
-			<a href="/templates/topics/topic.php?topicId=1007">Health &amp; Science</a>
-			<ul>
-				<li><a href="/templates/topics/topic.php?topicId=1066">Your Health</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=1025">Environment</a></li>
-				<li><a href="/templates/story/story.php?storyId=9657621">Climate Connections</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=1026">Space</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=1027">Health Care</a></li>
-			</ul>
-		</li>
-		<li class="topic1021">
-			<a href="/templates/topics/topic.php?topicId=1021">People &amp; Places</a>
-			<ul>
-				<li><a href="/templates/topics/topic.php?topicId=1022">Interviews</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=1062">Remembrances</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=1023">Radio Expeditions</a></li>
-			</ul>
-		</li>
-		<li class="topic1032">
-			<a href="/templates/topics/topic.php?topicId=1032">Books</a>
-			<ul>
-				<li><a href="/templates/topics/topic.php?topicId=1033">Authors</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=1035">Fiction</a></li>
-			</ul>
-		</li>
-		<li class="topic1039">
-			<a href="/music/">Music</a>
-		</li>
-		<li class="topic1008">
-			<a href="/templates/topics/topic.php?topicId=1008">Arts &amp; Entertainment</a>
-			<ul>
-				<li><a href="/templates/topics/topic.php?topicId=1045">Movies</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=1046">Performing Arts</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=1047">Visual Arts</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=1048">Pop Culture</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=1049">Digital Culture</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=1050">Reviews</a></li>
-			</ul>
-		</li>
-		<li class="topic1051">
-			<a href="/templates/topics/topic.php?topicId=1051">Diversions</a>
-			<ul>
-				<li><a href="/templates/topics/topic.php?topicId=1052">Fun &amp; Games</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=1053">Food</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=1055">Sports</a></li>
-			</ul>
-		</li>
-		<li class="topic1057">
-			<a href="/templates/topics/topic.php?topicId=1057">Opinion</a>
-			<ul>
-				<li><a href="/templates/topics/topic.php?topicId=1059">Analysis</a></li>
-				<li><a href="/templates/topics/topic.php?topicId=1060">Commentary</a></li>
-			</ul>
-		</li>
-		<li><a href="/blogs/">Blogs</a></li>
-	</ul>
-</div>
+	<div class="spacer"> </div>
+	</div>
+	</div>
+	<div id="footer">
 
-<h3>Services</h3>
-<div id="services">
-	<ul>
-		<li><a href="/services/radio.html" class="radio">Radio</a></li>
-		<li><a href="/podcasts/" class="pod">Podcasts</a></li>
-		<li><a href="/templates/community/" class="comm">Community</a></li>
-		<li><a href="/rss/" class="rss">News Feeds</a></li>
-		<li><a href="/api/" class="api">Tools / API</a></li>
-		<li><a href="/services/desktop.html" class="desktop">Desktop</a></li>
-		<li><a href="/services/mobile.html" class="mobile">Mobile</a></li>
-		<li><a href="/email/" class="newsletters">Newsletters</a></li>
-	</ul>
-</div>
+    <div class="footerwrap">
 
-<h3>Programs</h3>
-<div id="programs">
-	<ul>
-		<li class="hdr">News/Talk Programs</li>
-		<li class="highlight"><a href="/templates/rundowns/rundown.php?prgId=3">Morning Edition</a></li>
-		<li class="highlight"><a href="/templates/rundowns/rundown.php?prgId=2">All Things Considered</a></li>
-		<li><a href="/templates/rundowns/rundown.php?prgId=13">Fresh Air</a></li>		
-		<li><a href="/templates/rundowns/rundown.php?prgId=5">Talk of the Nation</a></li>
-		<li><a href="/templates/rundowns/rundown.php?prgId=46">Tell Me More</a></li>
-		<li><a href="/programs/waitwait/">Wait Wait...Don't Tell Me</a></li>
-		<li><a href="/templates/rundowns/rundown.php?prgId=7">Weekend Edition Saturday</a></li>
-		<li><a href="/templates/rundowns/rundown.php?prgId=10">Weekend Edition Sunday</a></li>
-		<li class="hdr">Music Programs</li>
-		<li><a href="/templates/rundowns/rundown.php?prgId=37&amp;agg=1&amp;ps=glp">All Songs Considered</a></li>
-		<li><a href="/templates/story/story.php?storyId=99022917">From the Top</a></li>
-		<li><a href="/templates/rundowns/rundown.php?prgId=20&amp;agg=1">JazzSet</a></li>
-		<li><a href="/templates/rundowns/rundown.php?prgId=24&amp;agg=1">Marian McPartland's Piano Jazz</a></li>
-		<li><a href="/templates/story/story.php?storyId=92133820">Mountain Stage</a></li>
-		<li><a href="/templates/rundowns/rundown.php?prgId=39&amp;agg=1">World Cafe</a></li>
-		<li><a href="/templates/rundowns/rundown.php?prgId=36&amp;agg=1">World of Opera</a></li>
-		<li class="more"><a href="/programs/" class="moreArrow">more</a></li>
-	</ul>
-</div>
-
-<div id="housekeeping">
-	<ul>
-		<li><a href="http://thin.npr.org/">Text-Only Version</a></li>
-		<li><a href="http://help.npr.org/ics/support/default.asp?deptID=5670&amp;task=ticket">Contact Us</a></li>
-		<li><a href="/about/place/corpsupport/">Sponsor NPR</a></li>
-		<li><a href="/about/press/">Press Room</a></li>
-		<li><a href="/about/pitch/">Submit Ideas</a></li>
-		<li><a href="/corrections/">Corrections</a></li>
-		<li><a href="/templates/story/story.php?storyId=2781901">Ombudsman</a></li>
-		<li><a href="/sitemap/">Site Map</a></li>
-	</ul>
-</div>
-
-	<script type="text/JavaScript" src="/buckets/wwdtm/quiz_promo_data/wwdtm_quiz_promo.js"></script><!-- Begin WWDTM Quiz Promo --><div id="wwdtmQuizPromo">	<div id="wwdtmQuizPromoTop">		<img src="https://web.archive.org/web/20090403144326/http://media.npr.org/buckets/wwdtm/quiz_promo_images/wwdtmQuizPromoTop.jpg" alt="Wait Wait...Don't Tell Me - Daily News Quiz">	</div><!-- begin editable content -->	<div id="wwdtmQuizPromoMiddle">		<h5><a href="https://web.archive.org/web/20090403144326/http://www.npr.org/programs/waitwait/quiz/">Marketing 101</a></h5>		<p>A Florida company is promoting its part in the Monica Lewinsky affair by touting what product?</p>	</div><!-- end editable content -->	<div id="wwdtmQuizPromoBottom">		<ul>			<li><a href="https://web.archive.org/web/20090403144326/http://www.npr.org/programs/waitwait/quiz/"></a></li>		</ul>	</div></div><!-- End WWDTM Quiz Promo -->
-
-
-    <!-- ACCIPITER TARGET -->
-    <script type="text/javascript">
-    <!--
-    userver = "http://u.npr.org";
-    if (target == null || target == '')
-    {
-		target = "/site=NPR/area=NO_TOPIC";
-    }
-    -->
-	</script>
-
-	<!--  ACCIPITER AD MANAGER  -->	
-	 <script type="text/javascript">
-	<!--
-	aloc = "/utype=banner/aamsz=125x240/position=left_main";
-	random = Math.round(Math.random() * 8000000000 + 1000000000);
-	if (!pageNum) var pageNum = Math.round(Math.random() * 100000000);
-	sc = get_source_code();
-	document.write('<');
-	document.write('script type=\"text/javascript\" src="' + userver + '/jserver/random=' + random + target + aloc + sc + '/pageid=' + pageNum + '">');
-	document.write('<');
-	document.write('/script>');
-	// -->
-	</script>
-	<noscript>
-	<a rel="nofollow" href="http://u.npr.org/adclick/site=NPR/area=NO_TOPIC/utype=banner/aamsz=125x240/position=left_main/pageid=1">
-	<img src="http://u.npr.org/nserver/site=NPR/area=NO_TOPIC/utype=banner/aamsz=125x240/position=left_main/pageid=1" alt="" /></a>
-	</noscript>
-            </div>
-            <!-- END LEFT COLUMN -->
+        <div class="everywhere">
+            <h3><a href="/services/">npr <span>always on</span></a></h3>
+            <ul>
+                <li><a href="/email/" class="newsletter">Newsletters</a></li>
+                <li><a href="/podcasts/" class="pod">Podcasts</a></li>
+                <li><a href="/services/mobile/" class="mobile">Mobile</a></li>
+                <li><a href="/rss/" class="rss">RSS Feeds</a></li>
+                <li><a href="/services/desktop.html" class="widget">Widgets</a></li>
+                <li><a href="/api/" class="api">API</a></li>
+                <li><a href="/services/radio.html" class="radio">Radio</a></li>
+            </ul>
         </div>
+
+        <div class="listbg">
+
+            <div class="col first">
+                <h4><a href="/templates/story/story.php?storyId=1001">news</a></h4>
+                <ul>
+                    <li><a href="/templates/story/story.php?storyId=1003">U.S.</a></li>
+                    <li><a href="/templates/story/story.php?storyId=1004">World</a></li>
+                    <li><a href="/templates/story/story.php?storyId=1057">Opinion</a></li>
+                    <li><a href="/templates/story/story.php?storyId=1014">Politics</a></li>
+                    <li><a href="/templates/story/story.php?storyId=1006">Business</a></li>
+                    <li><a href="/templates/story/story.php?storyId=1019">Technology</a></li>
+                    <li><a href="/templates/story/story.php?storyId=1007">Science</a></li>
+                    <li><a href="/templates/story/story.php?storyId=1128">Health</a></li>
+                    <li><a href="/templates/story/story.php?storyId=1055">Sports</a></li>
+                </ul>
+            </div>
+
+            <div class="col">
+                <h4><a href="/templates/story/story.php?storyId=1008">arts &amp; life</a></h4>
+                <ul>
+                    <li><a href="/templates/story/story.php?storyId=1032">Books</a></li>
+                    <li><a href="/templates/story/story.php?storyId=1045">Movies</a></li>
+                    <li><a href="/templates/story/story.php?storyId=1048">Pop Culture</a></li>
+                    <li><a href="/templates/story/story.php?storyId=1053">Food</a></li>
+                    <!--<li><a href="/templates/story/story.php?storyId=1140">Art &amp; Design</a></li> -->
+                    <li><a href="/templates/story/story.php?storyId=1046">Performing Arts</a></li>
+                    <li><a href="/templates/story/story.php?storyId=1052">Games &amp; Humor</a></li>
+                    <!--<li><a href="/templates/story/story.php?storyId=1146">Strange News</a></li> -->
+                </ul>
+            </div>
+
+            <div class="col">
+                <h4><a href="/music/">music</a></h4>
+                <ul>
+                    <li><a href="/templates/story/story.php?storyId=1109">Concerts</a></li>
+                    <li><a href="/templates/story/story.php?storyId=1107">You Must Hear This</a></li>
+                    <li><a href="/templates/story/story.php?storyId=1105">Interviews &amp; Profiles</a></li>
+                    <li><a href="/templates/archives/archive.php?thingId=1106">Music News</a></li>
+                    <li><a href="/music/blogs/">Music Blogs</a></li>
+					<li><a href="/templates/story/story.php?storyId=10001">Rock/Pop/Folk</a></li>
+					<li><a href="/templates/story/story.php?storyId=10002">Jazz &amp; Blues</a></li>
+					<li><a href="/templates/story/story.php?storyId=10003">Classical</a></li>
+                    <li><a href="/templates/artist/artist_index.php?filter=A">Browse Artists A-Z</a></li>
+                </ul>
+
+                <ul>
+                    <li><a href="/templates/rundowns/rundown.php?prgId=37&amp;agg=1">All Songs Considered</a></li>
+					<li><a href="http://www.fromthetop.org/">From The Top</a></li>
+                    <li><a href="/templates/rundowns/rundown.php?prgId=20&amp;agg=1">JazzSet</a></li>
+                    <li><a href="/templates/rundowns/rundown.php?prgId=24&amp;agg=1">Marian McPartland's <span>Piano Jazz</span></a></li>
+                    <li><a href="/templates/story/story.php?storyId=92133820">Mountain Stage</a></li>
+					<li><a href="/templates/story/story.php?storyId=4703895">Song of the Day</a></li>
+					<li><a href="http://www.thistleradio.com/">The Thistle &amp; Shamrock</a></li>
+                    <li><a href="/templates/rundowns/rundown.php?prgId=39&amp;agg=1">World Cafe</a></li>
+                    <li><a href="/templates/rundowns/rundown.php?prgId=36&amp;agg=1">World Of Opera</a></li>
+                </ul>
+            </div>
+
+            <div class="col">
+                <h4><a href="/programs/">programs a-z</a></h4>
+                <ul>
+                    <li><a href="/templates/story/story.php?storyId=3">Morning Edition</a></li>
+                    <li><a href="/templates/story/story.php?storyId=2">All Things Considered</a></li>
+                    <li><a href="/templates/story/story.php?storyId=13">Fresh Air</a></li>
+                    <li><a href="http://wamu.org/programs/dr/">The Diane Rehm Show</a></li>
+                    <li><a href="http://www.onthemedia.org">On The Media</a></li>
+                    <li><a href="http://www.onpointradio.org/">On Point</a></li>
+                    <li><a href="/templates/story/story.php?storyId=5">Talk of the Nation</a></li>
+                    <li><a href="/templates/story/story.php?storyId=46">Tell Me More</a></li>
+                    <li><a href="/templates/story/story.php?storyId=7">Weekend Edition <span>Saturday</span></a></li>
+                    <li><a href="/templates/story/story.php?storyId=10">Weekend Edition Sunday</a></li>
+                    <li><a href="http://www.cartalk.com">Car Talk</a></li>
+                    <li><a href="/templates/story/story.php?storyId=35">Wait Wait...Don't Tell Me!</a></li>
+                </ul>
+            </div>
+
+            <div class="col">
+                <h4><a href="http://help.npr.org/ics/support/default.asp?deptID=5670&amp;task=knowledge&amp;folderID=12">listen</a></h4>
+                <ul>
+                    <li><a href="javascript:getNewsCast();">Hourly News</a></li>
+                    <li><a href="javascript:getProgramStream();">NPR Program Stream</a></li>
+                    <li><a href="/audiohelp/progstream.html"><span>Schedule</span></a></li>
+                    <li><a href="/stations/">Find Station Streams</a></li>
+                </ul>
+            </div>
+
+            <div class="col last">
+                <h4>more</h4>
+                <ul>
+					<li><a href="/templates/story/story.php?storyId=1147">Multimedia</a></li>
+                    <li><a href="/templates/story/story.php?storyId=1058">Columns</a></li>
+                    <li><a href="/blogs/">Blogs</a></li>
+                    <li><a href="/templates/story/story.php?storyId=1059">Analysis</a></li>
+                    <li><a href="/templates/story/story.php?storyId=1060">Commentary</a></li>
+                    <li><a href="/ombudsman/">NPR Ombudsman</a></li>
+                    <li><a href="http://topics.npr.org/">Topic Index</a></li>
+
+                    <li class="space"><a href="/about/place/corpsupport/">Sponsor NPR</a></li>
+                    <li><a href="http://shop.npr.org">NPR Shop</a></li>
+                    <li><a href="/about/">About NPR</a></li>
+                    <li><a href="/about/jobs/">Jobs &amp; Training</a></li>
+                    <li><a href="/about/press/">Press Releases</a></li>
+                </ul>
+            </div>
+
+        </div>
+
+    </div>
+
+    <ul class="bottomlist">
+        <li>Copyright <script type="text/javascript">
+               year = new Date();
+               document.write(year.getFullYear());
+           </script>2020 NPR</li>
+        <li><a href="/about/termsofuse.html">Terms of Use</a></li>
+        <li><a href="/about/privacypolicy.html">Privacy Policy</a></li>
+        <li><a href="/about/permissioninfo.html">Permissions</a></li>
+        <li><a href="/corrections/">Corrections</a></li>
+        <li><a href="http://thin.npr.org">Text-Only Site</a></li>
+        <li><a href="/help/">Help</a></li>
+        <li class="contact"><a href="/contact/">Contact Us</a></li>
+        <li class="donate"><a href="/stations/donate/?ps=stbn">Donate</a></li>
+        <li class="pbs">Our partner in public broadcasting <a href="http://www.pbs.org"><img src="http://media.npr.org/chrome/news/pbs_logo.gif" alt="pbs"></a></li>
+    </ul>
+
+</div>
+<script type="text/javascript" src="/include/javascript/test/test1.js"></script>
+<script type="text/javascript" src="/include/foresee/foresee-trigger.js"></script>
     
 
 </body></html>
