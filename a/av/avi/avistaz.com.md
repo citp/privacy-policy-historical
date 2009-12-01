@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the avistaz.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193304id_/http%3A//www.avistaz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avistaz.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201014412id_/http%3A//www.avistaz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AvistaZ Asian Movies, Music and TV Drama Torrents
 
 [Home](http://www.avistaz.com/ "AvistaZ Asian Movies, Music and TV Drama Torrents") > Privacy Policy 
-
-[](http://tinyurl.com/BhutanTour)
 
 **AvistaZ Blog is a collection of Asian Entertainment blog written by its members.**
 
@@ -26,5 +24,3 @@ With respect to cookies: We use cookies to store visitors preferences, record us
 If you feel that this site is not following its stated information policy, you may contact us at the above email address.
 
 ## AvistaZ does not allow uploading files involving child exploitation and users involved in such file transfers will be permanently removed from AvistaZ and email address of the uploader will be reported to National Center for Missing & Exploited Children’s CyberTipline.
-
-### Related Movies
