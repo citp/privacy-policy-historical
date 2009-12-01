@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the oilcareers.com privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502023909id_/http%3A//www.oilcareers.com/content/information/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oilcareers.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201160032id_/http%3A//www.oilcareers.com/content/information/privacypolicy.asp) for the most accurate reproduction.*
 
 # 
 
 **Information about our Organisation and Web site**
 
-Modern information and communication technologies play a fundamental role in the activities of an organisation like Oilcareers Limited . We are based in United Kingdom .   
+Modern information and communication technologies play a fundamental role in the activities of an organisation like OilCareers Limited . We are based in United Kingdom .   
 Our principal activity is: Recruitment   
-Our privacy policy covers Oilcareers Limited and its Web site: 
+Our privacy policy covers OilCareers Limited and its Web site: 
 
-** | Organisation Name:  | Oilcareers Limited   
+** | Organisation Name:  | OilCareers Limited   
 ---|---  
 Address:  | Westhill Business Centre   
 City, Zip:  | Westhill , AB32 6UF   
 State:  | Aberdeenshire   
 Country:  | United Kingdom   
-Controller:  | Oilcareers Limited   
+Controller:  | OilCareers Limited   
 Web Sites(s):  | www.oilcareers.com   
 **  
 ****Providing Visitors with Anonymous Access****
@@ -88,7 +88,7 @@ Disclosure and Visitor Choice
 
 We disclose our visitors' personal data to our subsidiaries or other organisations. 
 
-Where we disclose your personal data for the same purposes as those indicated in the table below, we provide you with the means to size=+0>opt-out of disclosure: 
+Where we disclose your personal data for the same purposes as those indicated in the table below, we provide you with the means to opt-out of disclosure: 
 
   * by indicating in a box at the point on the site where personal data is collected 
 
@@ -135,7 +135,7 @@ Upon request, which you can indicate by:
 
   * sending an email ( support@oilcareers.com ) 
 
-We will provide you with a readable copy of the personal data which we keep about you, within a month. - although we may before require proof of your identity -. We will provide the information at a charge of £25 . 
+We will provide you with a readable copy of the personal data which we keep about you, within a month. - although we may before require proof of your identity. We will provide the information at a charge of £10. 
 
 We allow you to challenge the data that we hold about you and, where appropriate, you may have the data: 
 
@@ -147,26 +147,9 @@ We allow you to challenge the data that we hold about you and, where appropriate
 
 We do not reserve the right to refuse to provide you with a copy of your personal data. 
 
-**
-
-Privacy Compliance 
-
-**
-
-Our privacy policy is compliant with the following instrument: 1998 Data Protection Act, UK 
-
-There are no global or regional regulatory or self-regulatory schemes applicable to our web site or organisation. 
-
-In order to demonstrate that our privacy policy accords with the above privacy instruments, we are: 
-
-  * voluntarily committed to a Self Assessment procedure 
-  * subject to an Independent Data Protection Authority supervision 
-
-
-
 #### Independent Data Protection Authority supervision 
 
-Designation of the authority  | The Office of the Data Protection Registrar   
+Designation of the authority  | The Information Commissioner  
 ---|---  
 URL  | www.dataprotection.gov.uk   
 Address  | Water Lane, Wycliffe House, Wilmslow, Cheshire SK9 5AF   
