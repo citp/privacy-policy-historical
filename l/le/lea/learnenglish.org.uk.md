@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnenglish.org.uk privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505192304id_/http%3A//www.britishcouncil.org/home-privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnenglish.org.uk privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201021625id_/http%3A//www.britishcouncil.org/home-privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy policy - British Council
 
