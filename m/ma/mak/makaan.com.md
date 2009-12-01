@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the makaan.com privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415235646id_/http%3A//www.makaan.com/help/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makaan.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201170256id_/http%3A//www.makaan.com/help/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Makaan.com
 
 |  | We may use IP address to help diagnose problems with our server, and to administer our Web site. Your IP address may be also used to gather broad demographic information.  
 ---|---  
+   
 | Makaan.com contains links to other websites. People Interactive (I) Pvt. Ltd. is not responsible for the privacy practices or the content of such Web sites.  
 | We may use a third party ad company to display ads on makaan.com (e.g. Google Adsense). These ads may contain cookies. While we may use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.  
 | Certifiable information is collected from users and/or registered members of makaan.com which includes, but may not be limited to  
