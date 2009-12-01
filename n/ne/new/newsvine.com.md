@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsvine.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623120920id_/http%3A//www.newsvine.com/_cms/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsvine.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201164240id_/http%3A//www.newsvine.com/_cms/info/privacypolicy) for the most accurate reproduction.*
 
 # Newsvine - Newsvine Privacy Policy
 
