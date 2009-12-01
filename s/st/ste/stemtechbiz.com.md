@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the stemtechbiz.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616073934id_/http%3A//www.stemtechbiz.com/privacy_pol_sub.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stemtechbiz.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201175528id_/http%3A//www.stemtechbiz.com/privacy_pol_sub.aspx) for the most accurate reproduction.*
 
-# 
-
-#### STEMTech Privacy Policy
+# Privacy Policy - STEMTech HealthSciences, Inc.
 
   
 StemTech recognizes the importance of protecting the privacy and security of information we may collect from you. The purpose of this policy is to inform you of how we handle information we may learn about you from your visit to our website.  
