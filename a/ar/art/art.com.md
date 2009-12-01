@@ -1,77 +1,63 @@
-> *The following text is extracted and transformed from the art.com privacy policy that was archived on 2002-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021009213537id_/http%3A//www.art.com/asp/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the art.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201063633id_/http%3A//www.art.com/asp/customerservice/privacy_policy-asp/_/posters.htm) for the most accurate reproduction.*
 
-# Privacy Page
+# Art.com - Posters, Art Prints, and Framed Art Leader.
 
-  1. [**Use of Information**](https://web.archive.org/asp/privacy.asp?#USE)
-  2. [**Information That Is Personally Identifiable**](https://web.archive.org/asp/privacy.asp?#ID)
-  3. [**Aggregate Information**](https://web.archive.org/asp/privacy.asp?#AGG)
-  4. [**Policy on Children's Use of the Site**](https://web.archive.org/asp/privacy.asp?#CHLD)
-  5. [**Cookies**](https://web.archive.org/asp/privacy.asp?#COOK)
-  6. [**Other Use**](https://web.archive.org/asp/privacy.asp?#OTHR)
-  7. [**Disclosure for Legal Purposes**](https://web.archive.org/asp/privacy.asp?#DISC)
-  8. [**Other Parties and Your Information**](https://web.archive.org/asp/privacy.asp?#YRINFO)
-  9. [**Security**](https://web.archive.org/asp/privacy.asp?#SEC)
-  10. [**How You Can Modify Information, Opt Out or Contact Us**](https://web.archive.org/asp/privacy.asp?#CON)
-
+|  |    
+---  
   
-Your privacy is very important to Art.com Technologies, Inc. (sometimes referred to as "we", "us", or "Art.com"), and we are committed to respecting your privacy on this site. In order to provide our Services, we will require information (including address and credit card information) regarding our Users. We will maintain the confidentiality of information provided in accordance with our Privacy Policy. 
+Privacy
 
-We may change this policy from time to time, and if we do we will provide notice on this Web site regarding any changes to this policy.
-
- **Use of Information**  
-Art.com may provide certain demographic information it collects to third parties in connection with its provision of this Service. The dissemination of this information is necessary in order to provide personalized information and promotional offers. Except as disclosed in this Privacy Policy, our current policy is to refrain from selling, leasing, or otherwise transferring your personally identifiable information, however, this policy does not apply in all cases and this policy may be changed in the future. We describe below some of the situations in which such information may be disclosed. Art.com will never provide our promotional affiliates with personally identifiable information which would permit them to communicate with Users or their employees by email unless the User "opts-in" and have not "opted-out", pursuant to our [opt-out procedure](https://web.archive.org/asp/opt-out.asp), from receiving communications. You may have the opportunity to ask us to provide your information to these promotional affiliates. We expect those promotional partners with whom we share information (with consent, as provided herein) to respect the privacy of our Users in the same manner as we do. However, we cannot ensure that they abide by our privacy policies. Art.com Technologies is the sole owner of information collected through the Service.
-
- **Information That Is Personally Identifiable**  
-Our registration format requests certain contact information from our Users. We collect information that is personally identifiable through the registration and purchasing process when processing your order. When a User completes an order, the format will require personally identifiable information for each proposed insured, including:  
+We value the users of our web site (the "Website") and their access to the services offered on it (the "Services"), and we know their privacy is important to them. Accordingly, we have implemented this Privacy Policy to inform you of the information that we collect from you, how we collect it, and what we do with it. By using the Website you are accepting the practices described in this Privacy Policy.   
   
-— Contact information (examples include name, home address, email address)   
-— Unique identifiers (examples include credit card numbers)   
-— Demographic information (examples include zip code, telephone area code, age, birth date, gender, income level, etc.) 
+---  
+|   |  |  How and when we collect information:   
+We collect "personal" information from you when you provide it to us. For example, if you purchase a product from us, we collect your name, mailing address, telephone number, credit card number and email address. If you sign up to receive a newsletter, we will collect your email address. If you utilize Services or take advantage of special offers made by us or our marketing partners, we may collect other personal information about you. 
 
-The information we have obtained through this process may be used by Art.com, as well as by providers of related services, in connection with processing your order. We also use contact information from the registration format to send the User information about us and when otherwise necessary. Such information may also be used to assess your satisfaction with and to obtain feedback regarding the Service we provide and to tailor the visitor's experience while visiting our Web site.
+What we do with your information:   
+We are committed to protecting your privacy. Under no circumstances do we rent, trade or share your e-mail address with any other company for their marketing purposes without your consent. We use your personal information for internal purposes such as processing and keeping you informed of your order. You may, from time to time, receive information from us about new features, new services and special offers we think you'll find valuable. If you take advantage of special offers made by our marketing partners, we may transfer your personal information to them. Also, we make our customer's mailing addresses available to carefully screened companies whose products or services might interest you. 
 
-We may use the contact information we collect to provide, by means other than email, information or offers which we believe will be of value to Users and their employees and we may share contact information with other companies that may want to provide our Users, by means other than email, information regarding additional products and services. We may also use the contact information to send our Users information or offers by email which we believe will be of value to them and we may share email contact information with other companies that may want to provide our Users or their employees information regarding additional products and services. Such contact information may be shared based upon the demographic information we collect. Users may opt-out of receiving future communications at any time; see the section [below regarding "Opt-out"](https://web.archive.org/asp/privacy.asp?#CON).Finally, the information we collect will be maintained in a file that we may need to review in a variety of other circumstances, such as enforcing our [Terms of Use for Users](https://web.archive.org/asp/terms.asp), analyzing and understanding our customers and their needs, and for the administration and provision of our goods and services.As a User of the Service, you consent to the aforementioned uses of such information and the provision of information to service providers that facilitate the Service, all in accordance with this Privacy Policy.
+The personal information that you give us when you place an order or utilize one of the Services is used to process and fulfill your order or request. We also use your personal information for our own internal purposes, such as providing customer support or providing, maintaining, evaluating and improving the Services and the Website. If you are outside of the United States, we transfer your personal and non-personal information to our corporate affiliate in the United States. 
 
- **Aggregate Information**  
-Subject to the other terms of our Privacy Policy, we may aggregate (i.e. assemble on a basis that does not enable one to personally identify you) the data that is acquired under or in connection with this site and/or related to ordering our products and services, including, without limitation, data about the products and services requested and purchased by our Users. Aggregated data may be used by us to improve our Service and for marketing purposes, and may be shared with and used by advertisers and other third parties. We may also use such data to determine what types of policies are best suited for our customers and what types of policies our customers request. If we provide aggregated data to third parties, particular personal information (including birth date, name, title, income, home address, dependent information and any other identifying information) will not be individually identifiable in the aggregated data.
+We partner with one or more credit card processing companies to assist us in processing your payment. However, those companies do not retain, share, store, or use personally identifiable information for any secondary purposes. The information you provide us is used for processing and fulfilling your order and contacting you if we have problems processing your order. 
 
-Your use of the Service constitutes your consent to the use of such data on an aggregated basis.
+We may disclose the personal and non-personal information of our customers to any successor-in-interest of ours, such as a company that acquires us. In the event we go through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of our assets, your information will likely be among the assets transferred. We may need to disclose personal information when required by law and when we have a good-faith belief that such action is necessary to comply with a judicial proceeding, a court order or legal process. 
 
-**Policy on Children's Use of the Site**  
-This Site is, generally, directed at persons over the age of 13 who purchase items with credit cards and we do not knowingly collect personal information from or about children under the age of 13 except as relating to a specific order for products or services. If we, at any time, learn that information relating to a child under the age of 13 that we have obtained is other than as set forth above, we shall immediately purge such information from our records.
+Your choice to opt-out of certain communications:   
+If you are no longer interested in receiving e-mail announcements and other marketing information from us, please e-mail your request to [Support@Art.Com](mailto:Support@Art.Com). Please include your complete name and mailing address (as well as your e-mail address) if you prefer not to receive direct mail postcards or catalogs. Note that you may still receive customer service related communications from us. 
 
-**Cookies**  
-Like most other Web sites, Art.com's servers may automatically track certain information about activity on our Web site. This information allows us to keep our Web site running efficiently. This information may include: the browser being used (such as Netscape, Internet Explorer, etc.); your operating system (such as Macintosh, Windows 98, etc.); your IP address; and the referring URL and all company URL's you visit. We use your IP address to help diagnose problems with our server, and to administer our Web site, but your IP address is not connected to information that is personally identifiable. 
+We link to other sites:   
+This Website may contain links to other web sites. Please be aware that we are not responsible for the privacy practices of such other web sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Website.   
+  
+---  
+  
+IP address and cookies:   
+We also collect "non-personal" information from you, such as your browser type, the URL of the previous web site you visited, your ISP, operating system, and your IP address. "Non-personal" information cannot be easily used to personally identify you. We may use your IP address to help diagnose problems with our server and to administer our website. Your IP address also may be used to gather broad demographic information and to recognize customer traffic patterns and site usage. This information aids us in merchandising and in developing the design and layout of the site. 
 
-In addition, Art.com may use "cookies" on certain pages of our Web site to automatically collect information from a visitor to our Web site and transfer this information to the visitor's hard drive. Cookies help us recognize repeat visitors, allowing communication of a personalized welcome message and tailoring of content to match particular interests. 
+In addition, like almost all e-commerce web sites, we use "cookies." Cookies are bits of information that are stored on your computer by your web browser. Although our cookies don't store any of your personal information, they do allow us to do things like keep items in your shopping cart between visits or during the same visit or provide you with a more personalized user experience. Whether you want your web browser to accept cookies or not is up to you. If you haven't changed your computer's settings, most likely your browser already accepts cookies. 
 
-We also may use outside advertising companies to display advertisements on our site. These advertisements may also contain cookies. Some customer data may be shared with the advertising affiliates on an aggregated basis in accordance with the other terms of this Privacy Policy. Because cookies are stored on your hard drive, not on our Web site, you are always free to set your browser to decline cookies and you can delete them from your computer. If you decline "cookies" or delete them from your computer, you will still be able to access our Web site, but you may find that some areas do not work as smoothly as when cookies are enabled on your system.
+We may collect and share non-personal information about the pages that you visit on the Website, but this information is not personally identifiable, and we may use selected third parties for marketing and analysis purposes. 
 
-**Other Use**  
-It is possible that Art.com, its business and/or assets, its present or future subsidiaries, joint ventures or any combination of such, could merge with or be acquired in one or more types of transactions by another business entity or entities. Should such transaction(s) occur, Art.com has your permission to share some or all of your information in order to, among other things, facilitate continuation of one or more services similar to all or a portion of the Service. Notice of such an event (to the extent that it takes place) will be posted on this Web site and we will require that the new combined entity adhere to the practices disclosed in this Privacy Policy.
+How we protect your information:   
+The security of your personal information is important to us. When you enter sensitive information such as a credit card number on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). We follow generally accepted industry standards to protect the personal information submitted to us from unauthorized access or disclosure, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. We assume no liability for any disclosure of data due to errors in transmission, unauthorized third party access or other acts of third parties, or acts or omissions. 
 
-**Disclosure for Legal Purposes**  
-Given the government's current interest in Internet regulation, you hereby authorize us to disclose information pursuant to judicial and administrative proceedings, and in connection with law enforcement activities and as otherwise may be permitted by law, to law enforcement or government agencies if we believe the disclosure is necessary or appropriate. You also authorize us to disclose information if we believe the disclosure is necessary or appropriate in the event of an investigation of improper or illegal conduct in connection with our Web site, such as fraud, misrepresentation, intellectual-property infringement, or other activity that may put us at risk for liability. We will, whenever we believe reasonably possible, use our reasonable efforts to inform a User whose information may be so revealed.
+Children's Privacy:   
+The Services are intended for users ages 18 and older. Accordingly, we will not knowingly collect or use any personal information from children that we know to be under the age of 18. In addition, we will delete any information in our database that we know originates from a child under the age of 18. 
 
-**Other Parties and Your Information**  
-This policy only relates to our collection and use of your information, except as otherwise provided. We are not responsible for the privacy policies and practices of promotional affiliates or other third parties to which we may provide links. Art.com does not have control over the privacy policies applied by any other party that you may disclose information to when linking to from our Web site. If you would like information on any other party's privacy policy, you should contact that party directly, and we encourage you to do so.
+Updating your personal information:   
+If your personal information changes, you may correct, update or remove personal information previously provided to us by contacting our customer service department at [Support@Art.Com](mailto:Support@Art.Com). 
 
-**Security**  
-Art.com employs standard industry measures to protect and ensure the confidentiality of your personally identifiable information, including the use of firewalls and SSL encryption. Despite these efforts, we cannot guarantee the security of your information given the current state of the Internet. We also do not undertake to maintain information about you for a duration greater than as provided by law, rule or regulation.
+Changes to our Privacy Policy:   
+If we change our Privacy Policy, we will post a new Privacy Policy on our Website, which will become effective when posted. The new policy will apply to all current and past users of the Website and will replace any prior policies that are inconsistent with it. 
 
-Art.com engages in other security measures, as follows: 
+Contact us:   
+If you ever have any questions regarding our privacy policy please contact us at [Support@Art.Com](mailto:Support@Art.Com). 
 
-—Physical security of the systems against theft and damage   
-—Software integrity to ensure that only authorized personnel can implement or modify software   
-—Disaster recovery planning processes and systems   
-—Data integrity to check the validity of certain data   
-—Data security administration procedures to ensure proper monitoring and auditing 
-
-We believe we employ security measures that adequately address the security needs of Art.com customers.
-
- **How You Can Modify Information, Opt Out or Contact Us**  
-You can review and modify (or remove) the information you provide us in the order or registration process if this information changes. The information that you may change (or remove) includes any information provided on our order or registration format. To make any of these changes, you may log on to this site and make the changes directly after you have received an identification and password for the transaction or for the individual order.
-
-After either completing your first purchase at Art.com or otherwise using our registration module, your registration on our Web site will be confirmed by an email correspondence to your email address. If you do not object to such email within three days, it will constitute your consent to receive email notices and other email communications from Art.com and its advertisers and promotional affiliates. In the event you no longer wish to receive such email notices or other email communications from us, you may opt-out by removing yourself through our [opt-out procedures](https://web.archive.org/asp/opt-out.asp). You may also contact us at [info@art.com](mailto:info@art.com) if you no longer wish to be enrolled as a User.
-
-To contact us with questions about this policy or other inquiries send us an email at [info@art.com](mailto:info@art.com) and write "Privacy Policy" in the subject line.
+Privacy Policy Effective Date: July 28, 2009\.   
+  
+| Still Need Help?  
+---  
+ART.COM  
+2100 Powell Street   
+13th Floor  
+Emeryville, CA 94608  
+USA
