@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the quickanddirtytips.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617045428id_/http%3A//quickanddirtytips.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickanddirtytips.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201180457id_/http%3A//www.quickanddirtytips.com/privacy) for the most accurate reproduction.*
 
-# Quick and Dirty Tips
+# Privacy Policy :: Quick and Dirty Tips ™
 
 ## Privacy Notice
 
