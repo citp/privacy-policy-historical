@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sa-venues.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609165434id_/http%3A//www.sa-venues.com/include/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sa-venues.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201111538id_/http%3A//www.sa-venues.com/include/privacy-policy.htm) for the most accurate reproduction.*
 
 # SA-Venues.com Privacy Policy
 
