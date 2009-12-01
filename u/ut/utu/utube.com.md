@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the utube.com privacy policy that was archived on 2009-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090506065942id_/http%3A//www.utube.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utube.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201174325id_/http%3A//www.utube.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# New Document
 
 How To Contact Us
 
@@ -12,7 +12,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 The Information We Collect
 
-This notice applies to all information collected or submitted on the Universal Tube & Rollform Equipment Corporation and/or Universal Controls Group website. You can register with us if you would like to receive our catalog as well as updates on our new products, used machinery, inquiry's and services. The information you provide about yourself is included in our database so we may complete any requests you have in the future.
+This notice applies to all information collected or submitted on the Utube website. You can register with us if you would like to receive our catalog as well as updates on our new products, used machinery, inquiry's and services. The information you provide about yourself is included in our database so we may complete any requests you have in the future.
 
 The types of personal information collected are: 
 
@@ -42,6 +42,12 @@ Protecting the privacy of the very young is especially important. For that reaso
 How to Correct, Change or Delete your Information
 
 Should you wish to correct, change or delete your information then send us an email at [help-contact@utube.com](mailto:help-contact@utube.com). You may also re-enter your information on our website form making sure to note the action requested.
+
+Please see the warning notice below
+
+You will find Ad solicitations by third parties on the utube.com website. Please do not input personally identifiable information that you do not wish the Advertiser to have. Utube.com cannot guarantee products, services or subscriptions for advertisers on this page other than utubeonline.com. For example, during your visit to our site you may link to, or view as part of a frame on the Utube.com page, certain content that is actually created or hosted by a third party. Also, through Utube.com you may be introduced to, or be able to access, information, Web sites, advertisements, features, contests or sweepstakes offered by other parties. Utube.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties before providing information. 
+
+You must contact the advertiser directly to be taken off of a mailing list once you have submitted your information. Please be careful not to give anyone your personally Identifiable information if you do not know the source. We want you to have a fun and safe web experience. 
 
 How To Contact Us
 
