@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the dccc.org privacy policy that was archived on 2009-04-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090416071253id_/http%3A//www.dccc.org/pages/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dccc.org privacy policy that was archived on 2009-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091201232950id_/http%3A//www.dccc.org/pages/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!--test--><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="keywords" content="DCCC, Democratic Congressional Campaign Committeee, Democrats, Democratic Party, Democrats in Congress, House Democrats, Democratic Majority">
+<meta name="keywords" content="DCCC, Democratic Congressional Campaign Committee, Democrats, Democratic Party, Democrats in Congress, House Democrats, Democratic Majority">
 <meta name="Description" content="The Democratic Congressional Campaign Committee (DCCC) is the official campaign arm of the Democrats in the House of Representatives.">
-<title>Privacy Policy - Democratic Congressional Campaign Committee</title>
+<title>Privacy Policy - Democratic Congressional Campaign Committee (DCCC)</title>
 <link rel="shortcut icon" href="/page/-/favicon.ico">
 <link rel="stylesheet" href="/page/-/wrapper/css/reset.css" type="text/css" media="all">
-<link rel="stylesheet" type="text/css" media="all" href="http://dccc.org/?css=includes/styles.v.1239849261">
+<link rel="stylesheet" type="text/css" media="all" href="http://dccc.org/?css=includes/styles-wk.v.1257386121">
 
 <!--[if IE]>
   <link rel="stylesheet" href="/page/-/wrapper/css/ie.css" type="text/css" media="all" />
@@ -26,6 +26,7 @@ body.interior #main { margin-top: 0px;}
 <script src="/page/-/wrapper/js/jquery-1.2.3.pack.js" type="text/javascript"></script>
 <script src="/page/-/wrapper/js/ui.tabs.pack.js" type="text/javascript"></script>
 <script src="/page/-/wrapper/js/ui.tabs.ext.pack.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://www.dccc.org/page/-/hover.js"></script>
 
 <script type="text/javascript">
 
@@ -69,7 +70,8 @@ $(document).ready(function() {
   if($.browser.msie){
 		$('#primary_nav li').hover(
 		function(){$(this).addClass('hover');},
-		function(){$(this).removeClass('hover');});}
+		function(){$(this).removeClass('hover');});
+	}
 
   init_form_fields();
 
@@ -89,15 +91,39 @@ pageTracker._initData();
 pageTracker._trackPageview();
 </script>
 	
+<script language="JavaScript">
+
+	function textSize(id, textClass) {
+		identity=document.getElementById(id);
+		identity.className=textClass;
+	}
+	
+</script>	
+<script language="JavaScript">
+
+sfHover = function() {
+	var sfEls = document.getElementById("nav").getElementsByTagName("LI");
+	for (var i=0; i<sfEls.length; i++) {
+		sfEls[i].onmouseover=function() {
+			this.className+=" sfhover";
+		}
+		sfEls[i].onmouseout=function() {
+			this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
+		}
+	}
+}
+if (window.attachEvent) window.attachEvent("onload", sfHover);
+</script>	
+
+
 </head>
 
 <body class="interior">
 
   <div id="container"><!-- start #container -->
     <div id="header"><!-- start #header -->
-
-      <h1 id="logo"><a href="http://www.dccc.org">DCCC - Democratic Congressional Campaign Committee</a></h1>
-
+            <h1 id="logo"><a href="http://www.dccc.org">DCCC - Democratic Congressional Campaign Committee</a></h1>
+    
       <form action="/page/s/quick" id="get_involved" method="post"><!-- start #get_involved form -->
       <h2>Get Involved – Sign up today to be a part of the DCCC.</h2>
         <label for="qsEmail" id="signupEmail">E-mail</label>
@@ -107,7 +133,7 @@ pageTracker._trackPageview();
         <input type="image" src="/page/-/wrapper/img/sign_up_button.gif" alt="Submit" name="submit" value="submit" class="buttonImg"></div>
       </form><!-- close #get_involved form -->
 
-
+<div id="nav">
       <ul id="primary_nav"><!-- start #primary_nav -->
         <li id="home"><a href="/">Home</a></li>
         <li id="about_dccc"><a href="/pages/about/">About the DCCC</a>
@@ -119,22 +145,16 @@ pageTracker._trackPageview();
             <li><a href="/page/s/contact">Contact Us</a></li>
           </ul>
         </li>
-        <li id="democratic_majority"><a href="/pages/newmembers">Democratic Majority</a>
-          <ul>
-         
-          </ul>
-        </li>
+        
         <li id="races_2008"><a href="/frontline">2010 Races</a>
-          <ul>
-<li><a href="/2008results">2008 Results</a></li>
-            <li><a href="/pages/newmembers">Newly Elected Democratic Members</a></li>            
-
-<li><a href="/frontline">Frontline Democrats</a></li>
-
-
-            <li><a href="/pages/vote">Register to Vote</a></li>
-            <li><a href="/page/s/volunteer">Volunteer</a></li>
-                </ul>
+            <ul> 
+                <li><a href="/pages/newmembers">Newly Elected Democratic Members</a></li>            
+                
+                <li><a href="/frontline">Frontline Democrats</a></li>
+                
+                <li><a href="/pages/vote">Register to Vote</a></li>
+                <li><a href="/page/s/volunteer">Volunteer</a></li>
+            </ul>
         </li>        
         <li id="action_center"><a href="/page/s/rrn">Action Center</a>
           <ul>
@@ -159,9 +179,10 @@ pageTracker._trackPageview();
         </li>
         <li id="dccc_live"><a href="/pages/multimedia">DCCC Live!</a></li>
         <li id="blog"><a href="/blog/">Blog</a></li>
+        <li id="nav-store"><a href="http://www.mydemocraticstore.com">Store</a></li>
         <li id="spanish"><a href="/esp/">En Español</a></li>
       </ul><!-- close #primary_nav -->
-
+</div>
 
       <h2 id="contribute_button"><a href="/button">Contribute!</a></h2>
     </div><!-- close #header -->
@@ -171,6 +192,9 @@ pageTracker._trackPageview();
     <div id="mainContent"><!-- start #main -->
 
 <h1>Privacy Policy</h1>
+
+<!-- font resizing -->
+<!--<ul style="text-align:right;float:right;margin-left:10px;"><li style="display:inline;"><a href="javascript:;" onclick="textSize('main','tiny');return false;"><img src="/page/-/wrapper/img/tiny-font.gif" alt="Small Text"  title="Small Text" /></a></li><li style="display:inline;"><a href="javascript:;" onclick="textSize('main','regular');return false;"><img src="/page/-/wrapper/img/reg-font.gif" alt="Normal Text" title="Normal Text" /></a></li><li style="display:inline;"><a href="javascript:;" onclick="textSize('main','large');return false;"><img src="/page/-/wrapper/img/large-font.gif" alt="Large Text"  title="Large Text" /></a></li></ul>-->
 <p>
 The DCCC is committed to protecting the privacy and security of visitors to 
 our website. Outlined below is our online privacy policy for personal 
@@ -291,32 +315,44 @@ policy shall not apply retroactively.
 
     
     <div id="sidebar"><!-- start #sidebar -->
-      
-      <a href="/page/s/volunteer"><img src="/page/-/wrapper/img/volunteer_button.gif" id="volunteer_button" alt="Volunteer" class="wide"></a>
-      
-<div id="dccc_blog" class="side_extend"><!-- start #dccc_blog -->
-        <a href="/blog"><h2>DCCC Blog</h2></a>
-<div style="float: right; padding-left:4px"><a href="http://feeds.feedburner.com/dccc-stakeholder"><img src="/page/-/images/stakeholder/rss.gif" border="0"></a>
-</div>
-        <ul>
-        
-          <li><a href="http://dccc.org/blog/archives/ny_20_the_results_are_not_good_for_republican_jim_tedisco/">NY-20: “The Results Are Not Good for Republican Jim Tedisco”</a><br><span class="date">Apr 15, 2009</span></li>
-        
-          <li><a href="http://dccc.org/blog/archives/republicans_say_no_to_middle_class_tax_relief_just_in_time_for_tax_day/">Republicans Say No to Middle Class Tax Relief Just in Time for Tax Day</a><br><span class="date">Apr 15, 2009</span></li>
-        
-          <li><a href="http://dccc.org/blog/archives/sen_gillibrands_absentee_ballot_challenged_by_republicans/">Sen. Gillibrand’s absentee ballot challenged by Republicans</a><br><span class="date">Apr 14, 2009</span></li>
-        
-          <li class="last"><a href="/blog/">Read More on the Blog &gt;&gt;&gt;</a></li>
-        </ul>
-      </div><!-- close #dccc_blog -->
 
+<style>
+#dccc_updates { padding: 0 10px 0 15px; color:#1E4787}
+#dccc_updates h2 { background: url(/page/-/wrapper/img/dccc_updates.gif) no-repeat; height:40px; width: 234px; margin-bottom: 4px; margin-left: -8px; margin-top:2px; text-indent: -9999px; }
+#dccc_updates .tweet { background: url(/page/-/wrapper/img/comment_background.gif) -1px 8px no-repeat; border-bottom: 1px solid #ddd; padding: 8px 0; text-indent: 18px; font-weight: bold}
+#dccc_updates .follow { margin: 6px 0; }
+#dccc_updates .follow a { color: #cc0000; }
+#dccc_updates .follow a:hover { text-decoration: underline; }
+
+</style>
+
+ 
+
+<div id="dccc_updates" class="side_extend">
+    <h2>Twitter Feed</h2>
+    
+    <div class="tweet">
+        <div class="status">POLITICO: "NRCC, this T-shirt's for you!... A woman's place is in the House... as Speaker!" <a href="http://bit.ly/4yhUK5">http://bit.ly/4yhUK5</a></div>
+    </div>
+    
+    <div class="tweet">
+        <div class="status">In Palin's book, she attributes quote to coach John Wooden that's from Native American John Wooden Legs: <a href="http://bit.ly/8iufm6">http://bit.ly/8iufm6</a></div>
+    </div>
+    
+    <p class="follow"><a href="http://twitter.com/dccc"><img src="/page/-/images/twitter-button.jpg" width="100" height="49" alt=""></a>
+        <a href="http://www.facebook.com/ElectDemocrats "><img src="/page/-/images/facebook-button.jpg" width="100" height="49" alt=""></a>
+    </p>
+</div> 
+      <a href="http://mydemocraticstore.com"><img src="http://www.dccc.org/page/-/images/mainsite/store-homepage-button.gif" id="store_button" alt="store" class="wide"></a><br>
  <div id="dccc_live" class="side_extend"><!-- start dccc_live -->
        <a href="/pages/multimedia"><h2>DCCC Live!</h2></a>
 
       
 
 
-<object width="207" height="173"><param name="movie" value="http://www.youtube.com/v/DAA-0nZJ0wo&amp;showsearch=0"><param name="wmode" value="transparent"><embed src="http://www.youtube.com/v/DAA-0nZJ0wo&amp;showsearch=0" type="application/x-shockwave-flash" wmode="transparent" width="207" height="173"></object>
+
+
+<object width="207" height="173"><param name="movie" value="http://www.youtube.com/v/hiP_PsFMPwk&amp;showsearch=0"><param name="wmode" value="transparent"><embed src="http://www.youtube.com/v/hiP_PsFMPwk&amp;showsearch=0" type="application/x-shockwave-flash" wmode="transparent" width="207" height="173"></object>
 
 <!-- 
 <a href="/pages/multimedia"><img src="/page/-/wrapper/img/dccc_youtube_embed.jpg" width="207" height="173" alt="" /></a>
@@ -328,11 +364,14 @@ policy shall not apply retroactively.
 
         <ul id="program_list">
 
-<li class="active"><a href="http://dccc.org/blog/archives/video_im_sorry_rush_republicans_beg_limbaughs_forgiveness/"><span>I'm Sorry, Rush: Republicans Beg Limbaugh's Forgiveness</span></a></li>
+<li class="active"><a href="http://www.youtube.com/watch?v=hiP_PsFMPwk"><span>A Message from Chairman Van Hollen</span></a></li>
 
-<li><a href="http://dccc.org/blog/archives/running_out_of_rich_people/"><span>Bachmann: "We're Running Out of Rich People"</span></a></li>
+<li><a href="http://www.youtube.com/watch?v=uSJyHT_A-Cc"><span>Doug Hoffman and Friends: Sending Our Jobs Overseas</span></a></li>
 
-<li class="last"><a href="/tv"><span>DCCC TV: 2008 Campaign Ads in Targeted Races</span></a></li>
+<li class="last"><a href="http://dccc.org/pages/multimedia"><span>Watch More Videos</span></a></li>
+
+
+
 
 <!-- <li><a href="http://www.youtube.com/v/zOkjxN_ofJU"><span>Independence From Big Oil Campaign: "Phone Call"</span></a></li>        
 
@@ -344,8 +383,12 @@ policy shall not apply retroactively.
 
       </div><!-- close dccc_live -->
       
-      
-     <a id="reg_link" href="http://www.registrationbyworkingassets.com/register/?api_key=FNo.ywFAfWid1FwByu0Oo6hDAYA"><img src="/page/-/wrapper/img/register_to_vote_button.gif" alt="Register to Vote" id="register_to_vote_button" class="wide"></a>
+           <a href="/page/s/volunteer"><img src="/page/-/wrapper/img/volunteer_button_blue.gif" id="volunteer_button" alt="Volunteer" class="wide"></a><br>
+
+
+
+
+  <a href="https://register.rockthevote.com/registrants/new?partner=75"><img src="/page/-/wrapper/img/register_button_blue.gif" alt="Register to Vote" id="register_to_vote_button" class="wide"></a>
       
       
       <div id="connect" class="side_extend"><!-- start #connect -->
@@ -353,9 +396,9 @@ policy shall not apply retroactively.
         <ul>
 <li><a href="http://www.dccc.org/pages/connect"><img src="/page/-/wrapper/img/mobile_plug.gif" alt="Connect with Mobile" id="mo"></a></li>
 <li><a href="http://www.youtube.com/DCCCLive"><img src="/page/-/wrapper/img/youtube_plug.gif" alt="Connect with YouTube" id="yt"></a></li>
-          <li><a href="http://www.facebook.com/pages/Democrats/23790541544"><img src="/page/-/wrapper/img/facebook_plug.gif" alt="Connect with Facebook" id="fb"></a></li>
+          <li><a href="http://www.facebook.com/electdemocrats"><img src="/page/-/wrapper/img/facebook_plug.gif" alt="Connect with Facebook" id="fb"></a></li>
                  <li><a href="http://www.myspace.com/myspacedccc"><img src="/page/-/wrapper/img/myspace_plug.gif" alt="Connect with MySpace" id="ms"></a></li>
-          <li><a href="http://del.icio.us/DTripleC"><img src="/page/-/wrapper/img/delicious_plug.gif" alt="Connect with del.icio.us" id="dl"></a></li>
+          <li><a href="/page/s/quick"><img src="/page/-/wrapper/img/email_plug.gif" alt="Sign up for email" id="dl"></a></li>
 <li><a href="http://www.twitter.com/dccc"><img src="/page/-/wrapper/img/twitter_plug.gif" alt="Connect with Twitter" id="tt"></a></li>
 
         </ul>
@@ -364,17 +407,18 @@ policy shall not apply retroactively.
       
     </div><!-- close #sidebar -->
     <div id="footer">
-            <p style="margin-left:auto;margin-right:auto;width:800px;border:1px solid;padding:5px;">Paid for by Democratic Congressional Campaign Committee • 430 S Capitol Street, S.E. Washington, D.C. 20003 •
+            <p style="margin-left:auto;margin-right:auto;width:750px;border:1px solid;padding:5px;">Paid for by Democratic Congressional Campaign Committee • 430 S Capitol Street, S.E. Washington, D.C. 20003 •
 
-(202) 863-1500 • <a href="/pages/privacy_policy">Privacy Policy</a><br>
+(202) 863-1500 <br>
 Not authorized by any candidate or candidate's committee.
 </p>
 
-<p>Contributions or gifts to the Democratic Congressional Campaign Committee are not tax deductible.<br> Copyright © 2003 - 2009 Democratic Congressional Campaign Committee. All rights reserved.</p>
+<p>Contributions or gifts to the Democratic Congressional Campaign Committee are not tax deductible.<br> Copyright © 2003 - 2009 Democratic Congressional Campaign Committee. All rights reserved. <a href="http://www.dccc.org/pages/privacy_policy">Privacy Policy</a>.</p>
     </div><!-- close #footer -->
        
   </div><!-- close #container -->
-<script>document.write('<s'+'cript language="JavaScript" src="http://switch.atdmt.com/jaction/shcdcc_DCCCRemessagingConventionContestHomepag_1"></s'+'cript>')</script><script language="JavaScript" src="http://switch.atdmt.com/jaction/shcdcc_DCCCRemessagingConventionContestHomepag_1"></script><noscript><iframe src="http://switch.atdmt.com/iaction/shcdcc_DCCCRemessagingConventionContestHomepag_1" width="1" height="1" frameborder="0" scrolling="No" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0"></iframe></noscript>
+
+
 
 
 
