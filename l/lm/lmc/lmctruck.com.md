@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lmctruck.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426013030id_/http%3A//www.lmctruck.com/sol_lmc_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lmctruck.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201152909id_/http%3A//www.lmctruck.com/sol_lmc_privacy.htm) for the most accurate reproduction.*
 
 # Privacy and Safe Technology Statement from LMCTruck.com
 
