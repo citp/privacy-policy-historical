@@ -1,17 +1,60 @@
-> *The following text is extracted and transformed from the showcasecinemas.co.uk privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602091734id_/http%3A//www.showcasecinemas.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showcasecinemas.co.uk privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201070243id_/http%3A//www.showcasecinemas.co.uk//about/privacy.asp) for the most accurate reproduction.*
 
-# Welcome To Showcase Cinemas
+# Showcase Cinemas - Privacy Policy
 
-PRIVACY STATEMENT FOR SHOWCASECINEMAS.CO.UK 
+#### Privacy Policy for use of NATL. Amusements (UK) Limited Web sites
 
-Natl Amusements (UK) LTD. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this website: showcasecinemas.co.uk 
+NATL. Amusements (UK) Limited is committed to ensuring that your privacy is protected. This Privacy Policy explains how we use the information we collect about you and procedures we have in place to safeguard your privacy.  
 
-We do not require registration of personal information (i.e., names, address or telephone number) in order to view our site. IP addresses are used to gather broad demographic information and is not released to third parties, sponsors or advertisers. 
 
-Contest and order forms require users to voluntarily give us contact information (name, email, and postal address, telephone number) and demographic information (zip code, age or favorite theatre). This information is used to ship prizes, purchases and to inform users of special events such as theatre openings. 
+In this Privacy Policy references to we, us and our are to NATL. Amusements (UK) Limited. References to the Website are to www.showcasecinemas.co.uk and www.cinemadelux.co.uk.   
 
-This site contains links to other sites. Visitors to other sites within Showcase Cinemas should refer to the specific privacy policies posted on those sites. 
 
-All content and information (including, but not limited to, showtimes, guides, promotional contests, press releases, reviews, photos, images, trademarks) displayed on this site is protected by copyright and other intellectual property laws. You may not modify, publish, transmit, transfer, sell, reproduce, repost or alter any such content. 
+### What Information we Collect
 
-Natl Amusements (UK) LTD. reserves the right to modify, alter or otherwise update this policy at any time. Visitors are encouraged to review this policy from time to time. 
+The information we collect via the Website may include: 
+  * Personal details you give us through completion of forms on the Website, including name, address, telephone number, email address etc.
+  * Debit or credit card information which we need to pass to a bank or card processing agency for verification.
+  * Your IP address, your preferences and use of email updates.
+  * Data recorded by the Website which allows us to recognise you and your preferred settings. Such data is recorded locally on your computer through the use of cookies. Your browser can be programmed to reject cookies or warn you before downloading them.
+
+
+
+### What we do with your Information
+
+Any personal information we collect from the Website we use for some or all of the following purposes: 
+  * To process your registration and your orders for products and services.
+  * In some cases we may use your email address to send you information on other products and services. You will be offered the option to opt in or out of such service.
+  * We may need to pass the information we collect to other companies for administrative purposes. We may use third parties to carry out certain activities such as processing and sorting data, monitoring use of the Website etc. Such third parties will not be allowed to use your personal information for their own purposes.
+  * We may also provide your information to carefully selected third parties whose products or services we believe may be of interest to you. In such case, you will be offered the option to opt out of such service.
+  * We may use aggregated information for the purpose of monitoring use of the Website. Such aggregated information may be provided to third parties. These statistics will not include information which can be used to identify any individual.
+
+
+
+### How we protect your Information
+
+  * The internet is not a secure medium. However, we have put in place recommended up to date security measures and will review these and keep them updated regularly.
+  * Subject to the terms of this Privacy Policy, we keep your information confidential. For details of procedures in relation to subject access and disclosure of your information please contact www.showcasecinemas.co.uk or www.cinemadelux.co.uk, marking your email for the attention of the Data Controller at NATL. Amusements (UK) Limited.
+
+
+
+### Updating your Details
+
+  * If any of the details you have provided the Website changes, please give us correct details by email to ukcs@national-amusements.com
+
+
+
+### Your Consent
+
+  * By submitting your information on the Website, you consent to the use of that information as set out in this Privacy Policy. If we change the Privacy Policy we will post the changes on this page and we may place notices on other pages of the Website so that you may be aware of such change. Your continued use of the Website will then signify that you agree to such changes.
+  * Owing to the global nature of the internet, the information you provide may be transferred to companies outside the European Economic Area (EEA) that do not have similar protections in place to those which apply in the EEA regarding your data and its use as set out in this Policy. However, we have taken steps outlined in this Policy to protect the security of your information and will keep any transfers outside the EEA to a necessary minimum. By submitting your information you consent to these transfers.
+
+
+
+### How to Contact Us
+
+  * We welcome your views about our Website and our Privacy Policy. If you would like to contact us with queries or comments please send an email to ukcs@national-amusements.com  
+NATL Amusements (UK) Ltd: Redfield Way, Lenton, Nottingham, NG7 2UW  
+Companies House 2141131 
+
+
