@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinoyjobs.ph privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627082255id_/http%3A//www.pinoyjobstrabaho.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinoyjobs.ph privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201192205id_/http%3A//www.pinoyjobs.ph/privacy.php) for the most accurate reproduction.*
 
 # PinoyJobs.ph - Privacy Policy Page - Trabaho Philippines
 
@@ -14,8 +14,8 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
 
+[](http://www.pinoyjobs.ph/how-it-works.php)
+
 ## Member Login
 
-## Categories
-
-[](http://twitter.com/pinoyjobs)
+## Job Categories
