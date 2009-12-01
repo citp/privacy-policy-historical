@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesportscampus.com privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527033939id_/http%3A//www.thesportscampus.com/2008070122/general/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesportscampus.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201011037id_/http%3A//www.thesportscampus.com/2008070122/general/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -59,4 +59,4 @@ In the event that there is a change to your personal information for example you
 
 **Contact us**
 
-If you have any queries about this Privacy Policy, wish to stop direct marketing by TheSportsCampus.com or its subsidiaries or you wish to access or update your information please write to the Data Protection Officer at [administrator@thesportscampus.com](mailto:administrator@thesportscampus.com) .
+If you have any queries about this Privacy Policy, wish to stop direct marketing by TheSportsCampus.com or its subsidiaries or you wish to access or update your information please write to the Data Protection Officer at administrator@thesportscampus.com.
