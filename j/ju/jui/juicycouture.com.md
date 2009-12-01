@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juicycouture.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627091524id_/http%3A//www.juicycouture.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juicycouture.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201132737id_/http%3A//www.juicycouture.com/privacy) for the most accurate reproduction.*
 
 # JuicyCouture | Security & Privacy
 
@@ -22,7 +22,7 @@ We have posted this Privacy Policy in order to explain our information collectio
 
 As we continue to develop our Web Site and take advantage of advances in technology to improve the services we offer, this Privacy Policy likely will change. We therefore encourage you to refer to this policy on an ongoing basis so that you understand our current Privacy Policy.
 
-This Privacy Policy was last updated on February 1, 2006.
+This Privacy Policy was last updated on July 14th, 2009.
 
 ##### The Information We Collect
 
@@ -124,6 +124,69 @@ You will receive promotional e-mails from us only if you have asked to receive t
 ##### Acceptance
 
 By using this Web Site, you accept the policies set forth in this Privacy Policy.
+
+##### SAFE HARBOR PRIVACY POLICY
+
+  
+
+
+##### Policy Statement & Scope
+
+Liz Claiborne, Inc. and its subsidiary and affiliated companies in the United States (collectively "Liz", "we," "us," or "our") make reasonable efforts to protect the privacy of those customers, employees and other persons who entrust us with their personal information. Liz's privacy program and data security activities are governed by a number of policies and procedures. This Safe Harbor Privacy Policy sets forth how Liz handles "Personal Data", "Sensitive Personal Data" and "EU Employee Data" (as such terms are defined below, and collectively, the "Data") that is collected in and transferred from countries in the European Union ("EU") to Liz in the United States. Such Data is transferred to the United States for purposes of managing our workforce, handling customer service, product order and account management activities, marketing our products and services, and otherwise maintaining our customer relationships and advancing our business. In furtherance of those activities and such Data transfers, Liz adheres to the Safe Harbor privacy principles and the corresponding fifteen (15) Frequently Asked Questions developed by the United States Department of Commerce in coordination with the European Commission (the "Safe Harbor Principles"). For more information about the Safe Harbor Principles and program, please go to <http://www.export.gov/safeharbor>.
+
+##### Definitions
+
+The following terms are used throughout this Safe Harbor Privacy Policy and are defined here for ease of reference:
+
+"Agent": Means a third party that processes or otherwise uses Personal Data on behalf of and under the instructions of Liz.
+
+"EU Employee Data": Means personally identifiable human resource data about individuals who are employed or otherwise engaged by Liz or our affiliates, subsidiaries or business partners in the EU.
+
+"Personal Data": Means any information that identifies an individual, whether collected online or offline and regardless of format. Personal Data does not include information that is aggregated, pseudonymized, encoded or rendered anonymous, or publicly available personal information that has not been combined with non-public personal information, or information that pertains to a specific individual, but from which that individual could not reasonably be identified.
+
+"Sensitive Personal Data": Means personal information that is not EU Employee Data and that reveals the individual's race, ethnic origin, political opinions, religious beliefs, criminal record or that concerns the individual's own health or sex life.
+
+##### Safe Harbor Principles
+
+Liz has adopted the seven Safe Harbor Principles of notice, choice, onward transfer, access, security, data integrity and enforcement with respect to Data that is collected in and transferred from countries in the EU to Liz in the United States.
+
+1\. Notice. This Safe Harbor Privacy Policy informs individuals about the purposes for which we collect and use Data, how to contact us, the parties to which that information may be accessible, and the choices and means, if any, that Liz offers individuals for limiting the disclosure of such Data to non-Agent third parties.
+
+2\. Choice. Before Liz uses Personal Data or EU Employee Data for a purpose that is incompatible with the purposes for which the Personal Data or EU Employee Data was originally collected or subsequently authorized, or transfers Personal Data or EU Employee Data to a non-Agent third party for the purpose of allowing the non-Agent third party to exercise independent control over the Personal Data or EU Employee Data, the affected individuals will be given an opportunity to decline (opt out) having their Personal Data or EU Employee Data so used or transferred. The same choice principle shall apply to Sensitive Personal Data, but in the event that the Data is Sensitive Personal Data, the affected individual's explicit consent (opt in) will be obtained prior to such use or transfer.
+
+3\. Onward Transfer. Liz may transfer Data to its Agents once it obtains assurances that the relevant Agents will adequately safeguard the Data that is transferred to them. Such assurances may take the form of a contract obligating the Agent to provide at least the same level of protection as is required by the relevant Safe Harbor Principles, Safe Harbor certification by the Agent, or the Agent being subject to an EU data protection directive or adequacy finding. If Liz learns that an Agent is using or sharing Data in a way that is contrary to the assurances obtained, we will take reasonable steps to prevent or stop such activity. Liz may transfer Personal Data to a non-Agent third party where such transfer is consistent with the notice and choice principles detailed above or as otherwise set forth in this Policy.
+
+4\. Access. For those individuals who duly request it, Liz will provide such individuals with reasonable access to Data that it holds about them, except in those circumstances that are set forth in the Safe Harbor Principles, such as when the burden or expense of providing access would be disproportionate to the risks to the individual’s privacy or when the rights of persons other than the Data subject’s would be violated and except in those instances where the access being requested relates to Employee Data and the person making the request is not otherwise entitled to such access under the local labor or employment laws governing such person's employment. For those individuals who receive access, Liz will take reasonable steps to permit such individuals to correct, amend or delete information that is demonstrated to be inaccurate or incomplete.
+
+5\. Security. Liz will take reasonable administrative, technical and physical precautions to protect Data in its possession from loss, misuse and unauthorized access, disclosure, alteration and destruction.
+
+6\. Data Integrity. Liz will take reasonable steps to ensure that Data that is stored on its servers is used, processed and maintained in a condition that is compatible with the purposes for which it has been collected or subsequently authorized, subject to any deficiencies in the condition of the Data that existed at the time Liz received such Data.
+
+7\. Enforcement. With respect to Personal Data and Sensitive Personal Data, Liz will assure compliance with the Safe Harbor Principles by investigating and attempting to resolve complaints regarding violations of this Safe Harbor Privacy Policy directly with the complainant, and in the event that the complaint cannot be resolved by Liz internally, the complainant may submit the matter to binding arbitration administered by the American Arbitration Association (the “AAA”) and conducted before a sole arbitrator pursuant to the Rules and Procedures established by the AAA. The arbitration shall be held at a location determined by the AAA pursuant to the Rules and Procedures, or at such other location as may be mutually agreed by the complainant and Liz. The arbitrator (a) shall not have the power to award punitive damages against the participant or Liz; and (b) shall have no authority to resolve claims on a class or representative basis; the arbitration can decide only the complainant's and/or Liz's individual claims and the arbitrator may not consolidate or join the claims of other persons or parties who may be similarly situated. In the event that we or such arbitrator determines that we did not comply with this Policy, we will take appropriate steps to promote future compliance. If any part of this Enforcement provision is deemed to be invalid or otherwise unenforceable or illegal, the balance of this Enforcement provision shall remain in effect and shall be construed in accordance with its terms as if the invalid or illegal provision were not contained herein. For more information on the AAA, please visit their website at www.adr.org.
+
+With respect to EU Employee Data, Liz will assure compliance with the Safe Harbor Principles by investigating and attempting to resolve complaints regarding violations of this Safe Harbor Privacy Policy directly with the complainant, and in the event that the complaint cannot be resolved by Liz internally, the complainant may submit the matter to the dispute resolution program provided by the European Data Protection Authorities ("DPA's") panel. Liz will then undertake to comply with any advice that may be given by the DPA's in the matter.
+
+##### How To Contact Us
+
+Liz has a privacy officer ("Privacy Officer") who is responsible for Liz's compliance with and enforcement of this Policy. Liz's Privacy Officer is available to any of its customers or others who may have questions concerning this Policy. Relevant contact details are as follows: 
+
+Liz Claiborne, Inc.  
+One Claiborne Ave.  
+North Bergen, NJ 07047  
+Attention: Privacy Officer (Office of the General Counsel)  
+[SafeHarbor@lizclaiborne.com](mailto:SafeHarbor@lizclaiborne.com)
+
+##### Limitation on Scope of Principles
+
+Liz may disclose Data as necessary in connection with the sale or transfer of all or part of its business. Adherence by Liz to these privacy principles may be limited to the extent required for Liz to meet its legal, governmental, national security or public interest obligations or as otherwise permitted under the Safe Harbor Principles.
+
+##### Changes to this Safe Harbor Privacy Policy
+
+Liz may amend this Safe Harbor Privacy Policy, from time to time, consistent with the Safe Harbor Principles. When we do so, we will revise the "last updated" date at the bottom of this Policy. For material changes to this Safe Harbor Privacy Policy, we will place a notice on the company Web site by revising the link on the home page to read "Updated Safe Harbor Privacy Policy" for sixty (60) days. Providing Data to us after such notice constitutes acceptance of such changes.
+
+##### Effective Date
+
+This Safe Harbor Privacy Policy is effective as of July 14, 2009.
 
 ##### Any Questions?
 
