@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sothebysrealty.ca privacy policy that was archived on 2009-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090424041331id_/http%3A//www.sothebysrealty.ca/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sothebysrealty.ca privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201221539id_/http%3A//www.sothebysrealty.ca/privacy_policy.html) for the most accurate reproduction.*
 
-# Sotheby's International Realty | Canada Luxury Real Estate, Residential, Recreational, Commercial, Land, Development Services
+# Privacy Policy
 
 **SOTHEBY’S INTERNATIONAL REALTY CANADA PRIVACY POLICY**
 
@@ -8,8 +8,7 @@ This Privacy Policy contains ten principles that are observed by Sotheby’s Int
 
   * The Policy applies to personal information about Sotheby’s International Realty Canada's customers and other individuals that is collected, used or disclosed by Sotheby’s International Realty Canada. 
   * The Policy does not apply to information about Sotheby’s International Realty Canada's corporate customers; however, such information is protected by other Sotheby’s International Realty Canada policies and practices and through contractual arrangements. 
-  * The Policy does not apply to information about Sotheby’s International Realty Canada's employees; however, such information is protected by other Sotheby’s International Realty Canada policies and practices.   
-
+  * The Policy does not apply to information about Sotheby’s International Realty Canada's employees; however, such information is protected by other Sotheby’s International Realty Canada policies and practices. 
 
 
 
@@ -48,6 +47,8 @@ Principle 2 - Identifying Purposes for Collection of Personal Information**
   4. to understand needs and preferences of individuals; 
   5. to develop, enhance, market and/or provide products and services; 
   6. to manage and develop Sotheby’s International Realty Canada's business and operations, including transfer of data among affiliated entities. 
+
+
 
 Further references to "identified purposes" mean the purposes identified in this Principle.
 
@@ -118,6 +119,8 @@ Sotheby’s International Realty Canada shall make readily available to individu
   1. the title and addresses of the person or persons accountable for Sotheby’s International Realty Canada's compliance with the Policy and to whom inquiries or complaints can be forwarded; 
   2. the means of gaining access to personal information held by Sotheby’s International Realty Canada; and 
   3. a description of the type of personal information held by Sotheby’s International Realty Canada, including a general account of its use. 
+
+
 
 **Principle 9 - Individual Access**
 
