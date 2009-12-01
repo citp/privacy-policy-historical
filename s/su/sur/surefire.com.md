@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surefire.com privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505042715id_/http%3A//www.surefire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surefire.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201064546id_/http%3A//www.surefire.com/privacy) for the most accurate reproduction.*
 
 # Surefire Privacy Policy
 
