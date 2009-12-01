@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ancestry.ca privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531075834id_/http%3A//www.ancestry.ca/legal/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ancestry.ca privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201013024id_/http%3A//www.ancestry.ca/legal/privacy.aspx) for the most accurate reproduction.*
 
 # - Ancestry.ca
 
@@ -7,14 +7,14 @@ renseignements personnels en français? [Cliquez ici](https://web.archive.org/le
 
 Privacy Statement
 
-**This Privacy Statement was last updated on May 25, 2007.  
+**This Privacy Statement was last updated on July 15, 2009.  
 If you have not reviewed it since that date, please do so.  
 You will not receive any other notice of changes to this statement.**
 
 Privacy Information for Ancestry.ca.
 
  **Overview:**  
-The Generations Network, Inc. (TGN), operator of this Website (Site), recognizes the confidentiality of information that may be disclosed by members or other visitors in registering or making purchases from our Website and we are firmly committed to protecting your privacy. The following discloses our information gathering and dissemination practices for this Website.
+Ancestry.com Operations Inc., operator of this Website (Site), (and referred to as 'Ancestry.com' 'Ancestry' 'we' 'us' 'our'), recognizes the confidentiality of information that may be disclosed by members or other visitors in registering or making purchases from our Website and we are firmly committed to protecting your privacy. The following discloses our information gathering and dissemination practices for this Website.
 
 **Consent:**  
 Unless permitted by law, no personal information is collected, without first obtaining your consent to the collection, use and dissemination of that information. However, we may seek consent to use and disclose personal information after it has been collected in those cases where we wish to use the information for a new or different purpose where you have not already consented to such a use of your personal information.
@@ -30,7 +30,7 @@ Yes. TGN asks for your name, e-mail address, and other limited personal informat
 
 To facilitate payment and fulfillment for membership and purchases at the TGN online store, TGN will request personal credit card or debit card information. In order to take advantage of other value-added family services that may be offered by TGN in the future, users may be required to supply financial information.
 
-As a member of Ancestry, you can also choose to share further information about yourself, your activity on our site, your background and interests with other members, The amount and type of the profile information you share in this way is entirely your choice. See Member Profiles below for more information on how you can edit or control what you allow other members to see about you in your public profile.
+As a member of Ancestry, you can also choose to share further information about yourself, your activity on our site, your background and interests with other members, The amount and type of the profile information you share in this way is entirely your choice. Information about some of your activity on the site, such as historical records you save, may also be shared with other members in order to help you connect with others researching similar ancestors. See Member Profiles below for more information on how you can edit or control what you allow other members to see about you and your site acitivity in your public profile or other places on the site.
 
 **How Does TGN use my personal information?**  
 Our goal is to provide you with the most personalized, relevant, user-friendly Web experience possible. The primary use of all your personal information is to efficiently provide you with relevant information or services.
@@ -51,7 +51,7 @@ TGN reserves the right to disclose aggregated user statistics, such as "45% of o
 
 Under protection of confidentiality agreements, TGN may match common user information, such as name, address and phone number with third party data to avoid duplication of promotional mailings, to comply with CAN SPAM and other laws and to prevent errors. 
 
-As our business continues to grow, we might buy or sell subsidiaries or business units. In these transactions, customer information is often one of the transferred assets, remaining subject to promises made in existing privacy statements. Also, in the event that The Generations Network, Inc., or substantially all of its assets are acquired, customer information will as a matter of course be one of the transferred assets. 
+As our business continues to grow, we might buy or sell subsidiaries or business units. In these transactions, customer information is often one of the transferred assets, remaining subject to promises made in existing privacy statements. Also, in the event that Ancestry, or substantially all of its assets are acquired, customer information will as a matter of course be one of the transferred assets. 
 
 Additionally, if you click away from TGN to visit the site of any third party advertiser or sponsor, you may be asked for your credit card or other personal information in order to purchase or use products and services offered. These companies have their own privacy and data collection practices. TGN has no responsibility or liability for these independent policies. You should therefore review their privacy policies carefully if you have concerns about how your information may be used.
 
@@ -112,6 +112,8 @@ When you sign-up as a member you are provided with a public member profile pre-p
 
 Through the [Community Preferences](http://www.ancestry.ca/myancestry/myaccount/communityprefs.aspx) link in the Ancestry '[My Account](http://www.ancestry.ca/myancestry/myaccount/default.aspx)' section of the site, you can choose either to display your e-mail address with other members or ensure that your e-mail is withheld so that you are only contacted anonymously through the Ancestry Connection Service. You can also control when you are contacted or block certain people from contacting you.
 
+You can also customize what other members can learn about your Ancestry site activity. To help you connect with other members researching similar ancestors, by default new accounts are set up to allow other members to learn about things you publicly add or post to the site, as well as some personal research activities (such as saving historical records to your Shoebox or private member tree). To customize these settings, simply go to the “Activity Preferences” link on the Community Preferences page. 
+
 To make other changes to your Public Profile or site preferences go to "[My Public Profile](http://community.ancestry.ca/profile.aspx)" or "[My Site Preferences](http://www.ancestry.ca/myancestry/myaccount/communityprefs.aspx)" sections of the site.
 
 **Public forums – Ancestry Community**  
@@ -123,8 +125,9 @@ TGN may occasionally run contests or other special promotions on our site in whi
 **Contacting the Website**  
 If you have any questions about this privacy statement, the practices of this site, access to your personal information or your dealings with this Website, you can contact:
 
-The Generations Network, Inc.  
-360 W 4800 N Provo, UT 84604
+Ancestry.com  
+360 W 4800 N   
+Provo, UT 84604
 
 Contact Ancestry
 
