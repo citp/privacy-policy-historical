@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the x4labs.com privacy policy that was archived on 2009-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090506055541id_/http%3A//www.x4labs.com/privacy-shipping.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the x4labs.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201023529id_/http%3A//www.x4labs.com/privacy-shipping.php) for the most accurate reproduction.*
 
 # Privacy and Shipping Information
 
@@ -10,7 +10,7 @@ Required information such as credit card numbers, names and address, are kept by
 
 Using a 256-Bit Secure Sockets Layer (SSL) encryption, any orders processed online are safe and secure. No personal or financial information is stored on internal servers and are processed through our secure server, in order to protect each of our clients’ security and privacy. 
 
-X4 Labs will never solicit via telephone, fax, e-mail or direct mail, this is strictly against our policy and we adhere strictly to them. Each client’s safety, security and privacy is of great importance to us, and our policies are designed to protect each patient. If you have any questions or concerns pertaining to our Privacy Policy please feel free to contact us using our [Contact form](https://web.archive.org/web/20090506055541id_/http%3A//www.x4labs.com/contact.php). 
+X4 Labs will never solicit via telephone, fax, e-mail or direct mail, this is strictly against our policy and we adhere strictly to them. Each client’s safety, security and privacy is of great importance to us, and our policies are designed to protect each patient. If you have any questions or concerns pertaining to our Privacy Policy please feel free to contact us using our [Contact form](https://web.archive.org/web/20091201023529id_/http%3A//www.x4labs.com/contact.php). 
 
 ## **Shipping Policy**
 
