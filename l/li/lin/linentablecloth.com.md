@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the linentablecloth.com privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527122037id_/http%3A//www.linentablecloth.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linentablecloth.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202004656id_/http%3A//www.linentablecloth.com/privacy_policy.html) for the most accurate reproduction.*
 
 # LinenTablecloth - Privacy Policy
 
 |  |  |  |  |   
 ---|---|---  
-|  |  [Home](https://web.archive.org/) > [privacy policy](https://web.archive.org/web/20090527122037id_/http%3A//www.linentablecloth.com/privacy_policy.html)  
+|  |  [Home](https://web.archive.org/) > [privacy policy](https://web.archive.org/web/20091202004656id_/http%3A//www.linentablecloth.com/privacy_policy.html)  
 ---  
 LinenTablecloth - Privacy Policy  
    
