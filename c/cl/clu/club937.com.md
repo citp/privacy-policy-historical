@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the club937.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220194719id_/http%3A//www.club937.com/Home/tabid/2008/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the club937.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201084416id_/http%3A//www.club937.com/Home/tabid/2008/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Club 93.7 Today's Hottest Jamz > Home
 
