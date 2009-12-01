@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eucasino.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625234115id_/http%3A//www.eucasino.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eucasino.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201165130id_/http%3A//www.eucasino.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Welcome to EUcasino
 
