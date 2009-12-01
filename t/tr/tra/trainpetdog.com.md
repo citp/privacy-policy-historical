@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trainpetdog.com privacy policy that was archived on 2009-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090425134656id_/http%3A//www.trainpetdog.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trainpetdog.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201160140id_/http%3A//www.trainpetdog.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,7 +16,7 @@ We do not spam. If you receive any unsolicited bulk email mentioning this domain
 
  **Personally Identifiable Information**
 
-This web site may collect personally identifiable information about you. The information may include your name, your email address and your Dog's name. In case you order our Membership site, you will have to furnish information on your location, mailing address, and your phone number.
+This web site may collect personally identifiable information about you. The information may include your name, your email address and your Dog's name. In case you order any of our products, you will have to furnish information on your location, mailing address, and your phone number.
 
  **Why are we collecting your personal information?**
 
@@ -24,7 +24,7 @@ The mini course on Dog Training and the Potty Training courses have been develop
 
 The topics that have been covered in the FREE courses have been shortlisted only after conducting customer surveys.
 
-We collect email addresses such that we can promote a few products to you and then recover the costs of the developing these free courses, hosting the website, the bandwidth etc.
+We collect email addresses so that we can promote a few products to you and recover the costs of developing these free courses, hosting the website, the bandwidth etc.
 
  **How shall we use, or potentially use, your personal information?**
 
@@ -32,17 +32,15 @@ Your personal information may be used to send you emails or postal mails about s
 
 You will be invited to participate in the Blog and can take part in surveys, contests, product reviews and general discussions. You will be able to interact with several other dog owners across the world.
 
-Your personally identifiable information may be disclosed to third parties who may be interested in sending you emails or postal mails about special offers that may be relevant to you.
-
 You may ask us to provide you with the details of your personally identifiable information that is stored with us or you may request changes to your personally identifiable information that is stored with us by contacting us.
 
  **What options do you have to easily limit the use of your personal information?**
 
 Each of our emails contain a link to unsubscribe from our mailing lists. This link is mostly present at the bottom of the email.
 
-Whenever, you wish to discontinue, you can simply click on the Unsubscribe link and do away with our mailings.
+Whenever, you wish to discontinue, you can simply click on the Unsubscribe link.
 
-Ut is a one-step simple and easy process. And once you unsubscribe, you will not hear from us anymore.
+It is a one-step, simple and easy process. And once you unsubscribe, you will not hear from us anymore.
 
  **Changes to this Privacy Policy**
 
@@ -54,8 +52,6 @@ We have contracted with Overture services, Inc. (“Overture”) to monitor cert
 
 Sincerely,
 
-(Nancy Richards)
-
  **Notification of Changes to Privacy Policy**
 
-The privacy policy was changed on the 16th of July, 2005. 
+The privacy policy was changed on the 15th of October, 2009. 
