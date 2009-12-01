@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thechronicle.com.au privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618142232id_/http%3A//www.thechronicle.com.au/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thechronicle.com.au privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201010450id_/http%3A//www.thechronicle.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Toowoomba Chronicle | Toowoomba Chronicle
+# Privacy Policy | Toowoomba Chronicle
 
-Privacy Policy APN Newspapers Pty Ltd respects your right to privacy. We are sensitive to the concerns that our clients, customers and online users may have with regards to the confidentiality, security and use of their personal information, and would like to reassure you of our position on this matter. The purpose of this Privacy Statement is to tell you what type of information we collect, how we may use that information, whether we disclose it to anyone, and the opportunities you have to access and correct the information we hold. 
+APN Newspapers Pty Ltd respects your right to privacy. We are sensitive to the concerns that our clients, customers and online users may have with regards to the confidentiality, security and use of their personal information, and would like to reassure you of our position on this matter. The purpose of this Privacy Statement is to tell you what type of information we collect, how we may use that information, whether we disclose it to anyone, and the opportunities you have to access and correct the information we hold. 
 
 We encourage you to check the APN Newspapers Pty Ltd Privacy Statement regularly as this Privacy Statement may change from time to time. If you have any suggestions or concerns that are not addressed in this Privacy Statement, please contact us. 
 
