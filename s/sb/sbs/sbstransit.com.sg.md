@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sbstransit.com.sg privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627030620id_/http%3A//www.sbstransit.com.sg/journeyplan/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbstransit.com.sg privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201113142id_/http%3A//www.sbstransit.com.sg/journeyplan/privacy.aspx) for the most accurate reproduction.*
 
 # Welcome to SBS Transit
 
