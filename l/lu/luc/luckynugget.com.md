@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luckynugget.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601045032id_/http%3A//www.luckynugget.com/security-privacy.asp%3FEventId%3D24544) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luckynugget.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201051942id_/http%3A//www.luckynugget.com/security-privacy.asp%3FEventId%3D24544) for the most accurate reproduction.*
 
 # Lucky Nugget Online Casino
 
@@ -11,7 +11,7 @@ During the registration process and when you subsequently use your lucky nugget 
 
 Your Personal Data is held by us on servers based in Gibraltar and Canada and elsewhere from time to time. 
 
-All of your Data is collected and stored in a secure and protected environment and is correct as it is provided. You are entitled by law to have a copy of the Personal Data recorded and to have any Personal Data corrected. You may change your personal details at anytime by sending us an [email](https://web.archive.org/casino-support.asp) or by writing to us at Customer Service, Tower Rock Ltd, Suite 651 Europort, Gibraltar.
+All of your Data is collected and stored in a secure and protected environment and is correct as it is provided. You are entitled by law to have a copy of the Personal Data recorded and to have any Personal Data corrected. You may change your personal details at anytime by sending us an [email](https://web.archive.org/casino-support.asp?VT=531830614) or by writing to us at Customer Service, Tower Rock Ltd, Suite 651 Europort, Gibraltar.
 
 Disclosure of your Personal Data will only take place in accordance with applicable laws. Such disclosure will primarily be to other Tower Rock Group companies, business partners, service providers, consultants or suppliers that are engaged to carry out financial or other processing on our behalf.
 
@@ -19,7 +19,7 @@ Due to the nature of the internet, its use to collect and transfer Personal Data
 
 We do not collect your Personal Data when you use our Site without your knowledge or rent, sell or trade your Personal Data to any third party.
 
-You may ?opt out? of receiving any promotional communications either by choosing to opt out where such option is made available on the Site or in an [email](https://web.archive.org/casino-support.asp) you receive from us, or at any time by sending an email or by writing to us at Customer Service, Tower Rock Ltd, Suite 651 Europort, Gibraltar. 
+You may ?opt out? of receiving any promotional communications either by choosing to opt out where such option is made available on the Site or in an [email](https://web.archive.org/casino-support.asp?VT=531830614) you receive from us, or at any time by sending an email or by writing to us at Customer Service, Tower Rock Ltd, Suite 651 Europort, Gibraltar. 
 
 **Security of Processing**  
 Your security as a customer is of the utmost importance to us. Online security measures such as passwords and account numbers are used when all transactions take place to ensure that no one can gain access to your financial or personal details.` When you open an account at Lucky Nugget, your details are fully encrypted by the strictest 128-bit SSL encryption for total security. When Personal Data is transferred over the Internet, we and our e-commerce partner use 128-Bit Secure Socket Layer Encryption Technology to ensure the security of all Personal Data. 
@@ -39,4 +39,4 @@ Please also visit our Terms and Conditions covering the use and limitations of l
 Where there is a link from this website to another relevant site, this privacy policy will not apply once you leave this site.
 
 **Your consent**  
-By clicking ?I agree? during the registration process or by your continued use of the Site following the posting of this Privacy Policy (as applicable), you agree to this Privacy Policy. This is our entire and exclusive Privacy Policy and it supersedes any earlier version. This Privacy Policy should be read in conjunction with our [Terms and Conditions](https://web.archive.org/casino-terms.asp) . We may periodically make changes to this Privacy Policy and will notify you of these changes by posting the modified terms on our online site.
+By clicking ?I agree? during the registration process or by your continued use of the Site following the posting of this Privacy Policy (as applicable), you agree to this Privacy Policy. This is our entire and exclusive Privacy Policy and it supersedes any earlier version. This Privacy Policy should be read in conjunction with our [Terms and Conditions](https://web.archive.org/casino-terms.asp?VT=531830614) . We may periodically make changes to this Privacy Policy and will notify you of these changes by posting the modified terms on our online site.
