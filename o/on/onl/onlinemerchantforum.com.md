@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onlinemerchantforum.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601205039id_/http%3A//www.onlinemerchantforum.com/forums/announcement.php%3Ff%3D395%26a%3D18) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinemerchantforum.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201012643id_/http%3A//www.onlinemerchantforum.com/forums/announcement.php%3Ff%3D395%26a%3D18) for the most accurate reproduction.*
 
-# Online Merchant Forums - Announcements in Forum : Announcements
+# Online Merchant Forum - Announcements in Forum : Announcements
 
 **Because the ONLINE MERCHANT FORUM gathers certain types of information about our users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.**
 
