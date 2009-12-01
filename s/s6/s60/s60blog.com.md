@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the s60blog.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531065736id_/http%3A//s60blog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the s60blog.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201083657id_/http%3A//s60blog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The S60 Blog
 
@@ -36,7 +36,7 @@ Because The S60 Blog is committed to protecting your privacy, The S60 Blog does 
 
 We may use subcontractors to provide some products or services to you. We also may need to share your personal data with these subcontractors so that they can provide services to us. Our subcontractors are not permitted to use such personal data for any other purposes and we impose confidentiality requirements on their services.
 
-**Visitor Identification - Usage of “Cookies”**
+**Visitor Identification – Usage of “Cookies”**
 
 From time to time, information may be placed on your computer to improve this site and The S60 Blog’s services for you. This information is commonly referred to as a “cookie”, which many web sites use. Cookies are pieces of data stored on your computer’s hard drive or browser, and not on this site. They typically enable collection of certain information about your computer, including your internet protocol address, your computer’s operating system, your browser type and the address of any referring sites.
 
@@ -65,3 +65,5 @@ This site may contain links to other sites. Please note that The S60 Blog is not
 The S60 Blog may from time to time change this Policy or change, modify or withdraw access to this site at any time with or without notice. However, if this Policy is changed in a material, adverse way, The S60 Blog will post a notice advising of such change at the beginning of this Policy and on this site’s home page for 30 days. We recommend that you re-visit this Policy from time to time to learn of any such changes to this Policy.
 
 2009 © The S60 Blog | All rights reserved.
+
+Comments are closed.
