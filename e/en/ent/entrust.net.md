@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entrust.net privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524232152id_/http%3A//www.entrust.net/ssl-certificates/ssl-privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entrust.net privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201195400id_/http%3A//www.entrust.net/ssl-certificates/ssl-privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement - Entrust
 
