@@ -1,12 +1,7 @@
-> *The following text is extracted and transformed from the etoro.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219043528id_/http%3A//www.etoro.com/about-us/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etoro.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202032601id_/http%3A//www.etoro.com/about-us/privacy.aspx) for the most accurate reproduction.*
 
-# eToro - Online Forex Trading Platform
+# Forex Privacy Policy | eToro
 
-[ ](https://web.archive.org/downloads.aspx) [ ](https://web.archive.org/why-etoro/etoro-promotions.aspx)
-
-|  |  [ ](http://server.iad.liveperson.net/hc/56337159/?cmd=file&file=visitorWantsToChat&site=56337159&byhref=1&VISITORVAR!survey3744045=&VISITORVAR!survey3744044=WebSite&VISITORVAR!subject=WebSite)  
----|---  
-  
 This privacy policy explains the manner in which we collect and maintain non public information about our customers (such as your full name, mailing address, identification number, passports, driver's license etc, hence forth "Information"). **By providing us with Information, you are giving us your consent to collect, use and store the Information in the manner explained hereto**.
 
   * When do we collect information from you?
@@ -65,12 +60,3 @@ In the event that you believe our Information is in anyway inaccurate, please le
 
 
 Should you have any questions regarding our privacy policy, please contact us at [support@etoro.com](mailto:support@etoro.com). Please include your name, mailing address, email and telephone number.
-
-* * *
-
-* * *
-
-  
-
-
-Copyright © 2008 **eToro**. All rights reserved.
