@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adra.org privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523094523id_/http%3A//www.adra.org/site/PageServer%3Fpagename%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adra.org privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202135249id_/http%3A//www.adra.org/site/PageNavigator/privacy_policy) for the most accurate reproduction.*
 
-# ADRA: Privacy Policy
+# ADRA:
 
 ## LEGAL AND PRIVACY POLICY
 
