@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coldsteel.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625065131id_/http%3A//www.coldsteel.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coldsteel.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202031348id_/http%3A//www.coldsteel.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Cold Steel : World's Strongest, Sharpest Knives
 
