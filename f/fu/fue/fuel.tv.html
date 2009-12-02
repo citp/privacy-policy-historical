@@ -1,11 +1,12 @@
-<!--The following is the downloaded HTML source of the fuel.tv privacy policy that was archived on 2009-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090601210114id_/http%3A//www.fuel.tv/help/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fuel.tv privacy policy that was archived on 2009-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091202053446id_/http%3A//www.fuel.tv/help/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
-  <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
-  <meta name="verify-v1" content="JXo7iDljDYUQgzCkVujUBsds7V+I7utKMZhqcs434tQ=">
-  <meta name="verify-v1" content="iPrV62En07Sn1oNigycMAit85AQnIryJ51dO5FfqCcw=">
+  
+
 
 
   
@@ -13,28 +14,8 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 
-<title>
-    
-
   
-  
-  
-  
-    
-      
-    
-    
-    
-      
-       Help Privacy 
-    
-  
-
-  at
-  FUEL.TV – Action Sports Videos, Webcasts, Photos, News, Blogs, &amp; More
-
-
-</title>
+  <title>Help Privacy on FUEL.TV – Action Sports Videos, Webcasts, Photos, News, Blogs, &amp; More</title>
 
 
 
@@ -54,7 +35,7 @@
 
 <script type="text/javascript" charset="utf-8">
 // <!--
-  var server_seconds = 1243890073;
+  var server_seconds = 1259732086;
   var currentNotificationSerial = "0";
 // -->
 </script>
@@ -73,10 +54,6 @@
 <script type="text/javascript" src="http://www.fuel.tv/javascripts/controls.js"> </script>
 <script type="text/javascript" src="http://www.fuel.tv/javascripts/application.js"> </script>
 
-<link href="http://www.fuel.tv/stylesheets/blnk.css" rel="stylesheet" type="text/css">
-<link href="/stylesheets/application.css" rel="stylesheet" type="text/css">
-<link href="http://staticas3.servers.wwwsrc.net/stylesheets/fuel/application.css" rel="stylesheet" type="text/css">
-
 <script language="JavaScript" type="text/javascript">
 //<!--
 var doubleclick_ord=Math.random()*10000000000000000;
@@ -93,21 +70,6 @@ function loadGetFuelTv() {
 </script>
 
 
-<style type="text/css">
-  #container { padding-top: 10px; border-top:0px solid #FFFFFF;}
-  #container #right { float: right; }
-  body { background: #000000 url(http://static9.servers.fuel.tv/9/184/-1352/fueltv/handdrawnback.gif) repeat scroll 0%; }
-  div.module.shows .show .photo .icon a { width: 100px; }
-
-
-
-  body.nsection_profile.naction_home .clips li.first {width: 59px; margin-top: -4px;} 
-
-
-</style>
-
-
-
 <!-- User Style -->
 
   
@@ -116,323 +78,101 @@ function loadGetFuelTv() {
 
 
 
+
+  <script src="http://ss.servers.fuel.tv/assets/javascripts/jquery-1.3.2.min.js?v000110" type="text/javascript"></script>
+  <script src="http://ss.servers.fuel.tv/assets/javascripts/cufon-yui.js?v000110" type="text/javascript"></script>
+  <script src="http://ss.servers.fuel.tv/assets/javascripts/FuelSquare_Std_400.font.js?v000110" type="text/javascript"></script>
+  <script src="http://ss.servers.fuel.tv/assets/javascripts/FuelRound_Std_400.font.js?v000110" type="text/javascript"></script>
+  <script src="http://ss.servers.fuel.tv/assets/javascripts/swfobject.js?v000110" type="text/javascript"></script>
+  <script type="text/javascript">
+    jQuery.noConflict();
+    function activateSectionMenu(sectionName) {
+      jQuery('.nav_menu').hide();
+      jQuery('.nav_menu.for_' + sectionName).show();
+
+      jQuery('.nav_link').removeClass('active');
+      jQuery('.nav_link.for_' + sectionName).addClass('active');
+    }
+
+    jQuery(document).ready(function() {
+      Cufon.replace('#header ul#main-nav a.nav_link ', { fontFamily: 'FuelRound Std'});
+      Cufon.replace('#header ul#main-nav li li a ', { fontFamily: 'FuelRound Std'});
+      Cufon.replace('#header .subnavholder strong ', { fontFamily: 'FuelSquare Std'});
+      Cufon.replace('#header .subnavholder ul a ', { fontFamily: 'FuelRound Std', hover: true });
+      Cufon.replace('#content .galleryholder .bigimg .line strong ', { fontFamily: 'FuelSquare Std'});
+      Cufon.replace('.boxwhite h3 ', { fontFamily: 'FuelRound Std'});
+      Cufon.replace('.boxgrey h3 ', { fontFamily: 'FuelRound Std'});
+      Cufon.replace('.boxgrey .blackbox strong ', { fontFamily: 'FuelRound Std'});
+      Cufon.replace('#footer ul a ', { fontFamily: 'FuelRound Std'});
+      Cufon.replace('.title-part ul a ', { fontFamily: 'FuelRound Std'});
+
+      var global_search_input = jQuery('input.search_text_field');
+      var global_search_input_text = jQuery(global_search_input).val();
+
+      global_search_input.focus(function(event) {
+        if(global_search_input.val() == global_search_input_text) {
+          global_search_input.val('');
+        }
+      });
+      jQuery('a.nav_link').mouseover(function(event) {
+        var sectionName = jQuery(this).attr('class').replace(/(?:^|.*\s)for_(\w+)(?:\s.*$|$)/, "$1");
+        //activateSectionMenu(sectionName); 
+      });
+
+      if(typeof document.body.style.maxHeight === "undefined") { // ie6
+        jQuery('#main-nav li').hover(
+          function() {
+            jQuery(this).addClass('hover');
+          },
+          function() {
+            jQuery(this).removeClass('hover');
+          }        
+        );
+      }
+
+      jQuery('#middle').prev('#heading').css("background", "white");
+
+    });
+  </script>
+
+
+  <script src="http://ss.servers.fuel.tv/assets/javascripts/jquery.slideShow.js?v000110" type="text/javascript"></script>
+  <!--[if lt IE 7]><link href="http://ss.servers.fuel.tv/assets/stylesheets/ie.css?v000110" media="screen" rel="Stylesheet" type="text/css" /><![endif]-->
+  <!--[if lt IE 7]><script src="http://ss.servers.fuel.tv/assets/javascripts/unitpngfix.js?v000110" type="text/javascript"></script><![endif]-->  
   
 
-
+  <link href="http://ss.servers.fuel.tv/assets/stylesheets/all.css?v000110" media="screen" rel="Stylesheet" type="text/css">
+  <link href="http://ss.servers.fuel.tv/assets/stylesheets/compat.css?v000110" media="screen" rel="Stylesheet" type="text/css">
 
   <style type="text/css">
+    #header ul#main-nav a em { padding: 0px 14px; }
+    #header ul#main-nav a.for_wakeboarding em { padding: 0px 14px; }
 
-    td .browse_button .btn { display: none; }
-
-    .guidelines .middle .content, .container .content { margin-bottom: 0px; }
-
-
-
-
-
-    #sub_navigation div.container.navigation ul.help {
-      display: block;
-    }
-
-
-
-    div.leaderboard.ads .secondary {
-      float:left;
-      height:90px;
-      width:181px;
-    }
-
-    div.leaderboard.ads .primary {
-      float:left;
-      height:90px;
-      margin-right:11px;
-      width:728px;
-    }
-
-    div.leaderboard.ads {
-      float: left;
-      margin-bottom: 10px;
-    }
-
-		.tracking_input { height:100px; }
-		
-	  .nsection_blogs.naction_list #container #left .blog div.anchored_content {display:none;}
-	
-	.background_image { background: #000000 url(http://static9.servers.fuel.tv/9/184/-1352/fueltv/handdrawnback.gif) repeat scroll 0 50%}
-		
+    #right { overflow: visible; }
   </style>
 
   
   
+
+ <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+  _uacct = "UA-2656025-2";
+
+  
+    
+    
+      urchinTracker("/help/privacy/");
+    
+  
+</script>
+
 </head>
-<body class="nsection_help naction_privacy">
-	
-	
-  <style type="text/css">
+<body class="  nsection_help naction_privacy nsection_help_naction_privacy ">
+<div class="page  page_help_privacy">
 
-a#live-tab:hover {
-cursor:pointer;
-}
-a#live-tab {
-background:transparent url(http://static8.servers.fuel.tv/fuel.tv/images/live_btn2.gif?v=5) no-repeat scroll -2px 50%;
-display:block;
-height:185px;
-left:0;
-margin-top:-45px;
-position:fixed;
-text-indent:-4000px;
-top:40%;
-width:30px;
-z-index:100001;
-}
-
-#header .container {
-margin:0 auto;
-padding:10px 0 5px;
-width:980px !important;
-}
-
-a.openid {display:none !important;}
-
-</style>
-
-
-<div id="header">
-<div class="container">
-
-    <div class="logo">
-      <a href="http://www.fuel.tv/" title="Fuel.TV">
-        <img src="http://staticas3.servers.wwwsrc.net/images/fuel/hdr_fueltvlogo.gif" alt="Fuel TV">
-      </a>
-    </div>
-
-
-     <!--
-		<a id="live-tab" class="site_design_mode_1" href="http://www.fuel.tv/live/poolparty">Live Webcast</a>
--->
-
-
-  <form action="/search/videos/" id="form_search">
-    <div class="search">
-      <div class="combo no_select" id="find_style" style="width: 90px;">
-        <input type="text" id="search_type_txt" value="Videos">
-        <img src="http://staticas3.servers.wwwsrc.net/images/fuel/gfc_select_arrow.png" alt="Combo_arrow">
-        <div class="menu" style="display: none;">
-          <dl>
-            <!-- <dd><a href="#" onclick="; return false;"><span>Fuel TV</span></a></dd> -->
-            <dd><a href="/search/videos/" onclick="setSearch(this.href);return false;"><span>Videos</span></a></dd>
-            <dd><a href="/search/people/" onclick="setSearch(this.href);return false;"><span>People</span></a></dd>
-            <dd><a href="/search/photos/" onclick="setSearch(this.href);return false;"><span>Photos</span></a></dd>
-						<dd><a href="/search/blogs/" onclick="setSearch(this.href);return false;"><span>Blogs</span></a></dd>
-            <dd><a href="/search/forums/" onclick="setSearch(this.href);return false;"><span>Forums</span></a></dd>
-          </dl>
-        </div>
-      </div>
-      <input name="q" class="search_keywords" type="text">
-      <input title="Search" type="image" src="http://staticas3.servers.wwwsrc.net/images/fuel/btn_search.gif" alt="Search">    
-    </div>
-  </form>
-  <script type="text/javascript">
-    function setSearch(value) {
-      $('form_search').action = value;
-    }
-  </script>
-
-    <div class="clear"> </div>
-    <script type="text/javascript">
-      Event.observe(window, 'load', function() {
-        $$('.combo').each(function(el) {
-          el.combo = new Combo(el);
-        });
-      });
-    </script>
-    <div class="navigation">
-     <ul>
-       <li><a href="http://www.fuel.tv/">Home</a></li>
-       <li><a href="/allshows/">TV Shows</a></li>
-       <li><a href="/videos/">Videos</a></li>
-			<li><a href="/episodes/">Full Episodes</a></li> 
-       <li><a href="/photos/">Photos</a></li>
- 			<li><a href="/music/">Music</a></li>
-       <li><a href="/people/">People</a></li>
-       <li><a href="/forums/">Forums</a></li>
-			<li><a href="/mayhem/">Win!</a></li>
-      </ul>
-    </div>
-    <div class="user">
-      <ul>
-
-          <li class="first">
-            <a href="http://www.fuel.tv/account/login/" rel="nofollow">Login</a>
-          </li>
-          <li class="first"><a href="/account/signup/" rel="nofollow">Sign Up</a></li>
-
-        <li><a href="/help/">Help</a></li>
-      </ul>
-    </div>
-    <div class="clear"> </div>
-
-  </div>
-  <div class="clear"> </div>
-</div>
-<div class="clear"> </div>
-<div id="sub_navigation">
-<div class="container navigation">
-  <!-- begin home nav -->
-  <ul class="account">
-    <li class="login_required"><a href="/my?u=http%3A%2F%2Fwww.fuel.tv%2F%253Au%2Fdashboard/">Dashboard</a></li>
-    <li class="login_required"><a href="/my?u=http%3A%2F%2Fwww.fuel.tv%2F%253Au/"> Profile</a></li>
-    <li class="login_required"><a href="/my?u=http%3A%2F%2Fwww.fuel.tv%2F%253Au%2Fnotes/">Inbox</a></li>
-
-
-		<li><a href="http://www.fuel.tv/schedule?tags[]=PST/">Schedule</a></li>   
-    <li><a href="http://fueltv.fuel.tv/blogs/">News</a></li>
-    <li><a href="http://pr.fuel.tv/blogs/">Off The Wire</a></li>
-    <li><a href="http://fueltv.fuel.tv/calendars/">Events Calendar</a></li>
-    <li><a href="http://fueltv.channelfinder.net/widget/" target="_blank">GET FUEL TV</a></li>
-    <li><a href="/downloads/">Downloads</a></li>
-    <li><a href="/links/">Links</a></li>
-<li><a href="/mobile/">Mobile</a></li>
-
-
-<!--
-    <li class="login_required"><a href="http://www.${request.tld_host_with_port}/my?u=http%3A%2F%2Fwww.${request.tld_host_with_port}%2F%253Au%2Faccount%2Fdesign">Design Profile</a></li>
-    <li class="login_required"><a href="http://www.${request.tld_host_with_port}/my?u=http%3A%2F%2Fwww.${request.tld_host_with_port}%2F%253Au%2Faccount%2Fprofile">Edit Profile</a></li>
-
-    <li class="login_required"><a href="http://www.${request.tld_host_with_port}/my?u=http%3A%2F%2Fwww.${request.tld_host_with_port}%2F%253Au%2Faccount%2Finfo">Edit Account Info</a></li>
-    <li class="login_required"><a href="http://www.${request.tld_host_with_port}/my?u=http%3A%2F%2Fwww.${request.tld_host_with_port}%2F%253Au%2Faccount%2Fpreferences">Edit Preferences</a></li>
-    <li class="login_required"><a href="http://www.${request.tld_host_with_port}/my?u=http%3A%2F%2Fwww.${request.tld_host_with_port}%2F%253Au%2Faccount%2Fblocks">Blocked Users</a></li>
--->
-  </ul>    
-  <!-- end home nav -->
-
-  <!-- Begin FuelTV nav -->
-  <ul class="fueltv">
-		<li class="login_required"><a href="/my?u=http%3A%2F%2Fwww.fuel.tv%2F%253Au%2Fdashboard/">Dashboard</a></li>
-    <li class="login_required"><a href="/my?u=http%3A%2F%2Fwww.fuel.tv%2F%253Au/"> Profile</a></li>
-    <li class="login_required"><a href="/my?u=http%3A%2F%2Fwww.fuel.tv%2F%253Au%2Fnotes/">Inbox</a></li>
-    <li><a href="http://www.fuel.tv/schedule?tags[]=PST/">Schedule</a></li>   
-    <li><a href="http://fueltv.fuel.tv/blogs/">News</a></li>
-    <li><a href="http://pr.fuel.tv/blogs/">Off The Wire</a></li>
-    <li><a href="http://fueltv.fuel.tv/calendars/">Events Calendar</a></li>
-    <li><a href="http://fueltv.channelfinder.net/widget/" target="_blank">GET FUEL TV</a></li>
-    <li><a href="/downloads/">Downloads</a></li>
-    <li><a href="/links/">Links</a></li>
-<li><a href="/mobile/">Mobile</a></li>
-  </ul>
-  <!-- End FuelTV nav -->
-
-  <!-- Begin People nav -->
-  <ul class="profile">   
-		<li class="login_required"><a href="/my?u=http%3A%2F%2Fwww.fuel.tv%2F%253Au%2Fdashboard/">Dashboard</a></li>
-    <li class="login_required"><a href="/my?u=http%3A%2F%2Fwww.fuel.tv%2F%253Au/"> Profile</a></li>
-    <li class="login_required"><a href="/my?u=http%3A%2F%2Fwww.fuel.tv%2F%253Au%2Fnotes/">Inbox</a></li>
-    <li><a href="/my?u=http%3A%2F%2Fwww.fuel.tv%2F%253Au%2Ffriends/">My Friends</a></li>
-    <li><a href="/my?u=http%3A%2F%2Fwww.fuel.tv%2F%253Au%2Ffavorites/">My Favorites</a></li>
-    <li><a href="/people/map/">User Map</a></li>
-    <li><a href="/groups/">Groups</a></li>       
-    <li><a href="/chat/wc_ads/" target="_blank">Chat</a></li>
-    <li><a href="/my?u=%2F%253Au%2Finvite/">Invite</a></li>
-    <li><a href="/blogs/">Blogs</a></li>
-
-  </ul>
-  <!-- End People Nav -->
-
-  <!-- Begin Blogs Nav -->
-  <ul class="xblogs">
-    <li><a href="/my?u=%2F%253Au%2Fblogs/">My Blog</a></li>
-    <li><a href="/my?u=%2F%253Au%2Fblogs%2Fnew/">Post a Blog</a></li>
-  </ul>
-  <!-- End Blogs Nav -->
-
-  <ul class="xsocial">
-   <li><a href="/blogs/">Blogs</a></li>
-    <li><a href="/groups/">Groups</a></li>
-    <li><a href="/forums/">Forums</a></li>
-    <li><a href="/photos/">Photos</a></li>
-    <li><a href="/events/">Events</a></li>
-    <li><a href="/people/map/">Maps</a></li>
-  </ul>
-
-  <ul class="xmusic">
-   <li><a href="/blogs/">Shows</a></li>
-    <li><a href="/groups/">Artists</a></li>
-    <li><a href="/photos/">News</a></li>
-  </ul>  
-
-  <!-- Begin Photos Nav -->
-  <ul class="picture">
-		<li class="login_required"><a href="/my?u=http%3A%2F%2Fwww.fuel.tv%2F%253Au%2Fdashboard/">Dashboard</a></li>
-    <li class="login_required"><a href="/my?u=http%3A%2F%2Fwww.fuel.tv%2F%253Au/"> Profile</a></li>
-    <li class="login_required"><a href="/my?u=http%3A%2F%2Fwww.fuel.tv%2F%253Au%2Fnotes/">Inbox</a></li>
-    <li><a href="/my?u=%2F%253Au%2Fphotos/">My Photos</a></li>
-    <li><a href="/my?u=%2F%253Au%2Fphotos%2Fpost/">Post a Photo</a></li>
-  </ul>
-  <!-- End Photos Nav -->
-
-
-  <!-- Begin Videos Nav -->
-  <ul class="videos">
-		<li class="login_required"><a href="/my?u=http%3A%2F%2Fwww.fuel.tv%2F%253Au%2Fdashboard/">Dashboard</a></li>
-    <li class="login_required"><a href="/my?u=http%3A%2F%2Fwww.fuel.tv%2F%253Au/"> Profile</a></li>
-    <li class="login_required"><a href="/my?u=http%3A%2F%2Fwww.fuel.tv%2F%253Au%2Fnotes/">Inbox</a></li>
-    <li><a href="/videos/top/">Top User Videos</a></li>
-    <li><a href="/my?u=http%3A%2F%2Fwww.fuel.tv%2F%253Au%2Fvideos/">My Videos</a></li>
-    <li><a href="/my?u=http%3A%2F%2Fwww.fuel.tv%2F%253Au%2Fvideos%2Fpost/">Upload</a></li>
-  </ul>
-  <!-- End Videos Nav -->
-
-  <!-- Begin forums Nav -->
-  <ul class="forums">
-		<li class="login_required"><a href="/my?u=http%3A%2F%2Fwww.fuel.tv%2F%253Au%2Fdashboard/">Dashboard</a></li>
-    <li class="login_required"><a href="/my?u=http%3A%2F%2Fwww.fuel.tv%2F%253Au/"> Profile</a></li>
-    <li class="login_required"><a href="/my?u=http%3A%2F%2Fwww.fuel.tv%2F%253Au%2Fnotes/">Inbox</a></li>
-    <li><a href="/my?u=http%3A%2F%2Fwww.fuel.tv%2F%253Au%2Fforums/">My Topics</a></li>
-    <li><a href="/my?u=http%3A%2F%2Fwww.fuel.tv%2F%253Au%2Fforums%2Fbookmarks/">My Bookmarks</a></li>
-    <li><a href="/forums/post/">Post a Topic</a></li>
-    <li><a href="/my?u=http%3A%2F%2Fwww.fuel.tv%2F%253Au%2Fforums%2Ftopics_connected_to_you/">Topics Connected to You</a></li>
-    <li><a href="/forums/categories/">Categories</a></li>
-  </ul>
-  <!-- End forums Nav -->
-
-
-
- <!-- Begin Music nav -->
-  <ul class="music">
-		<li class="login_required"><a href="/my?u=http%3A%2F%2Fwww.fuel.tv%2F%253Au%2Fdashboard/">Dashboard</a></li>
-    <li class="login_required"><a href="/my?u=http%3A%2F%2Fwww.fuel.tv%2F%253Au"> Profile</a></li>
-    <li class="login_required"><a href="/my?u=http%3A%2F%2Fwww.fuel.tv%2F%253Au%2Fnotes/">Inbox</a></li>
-    <li><a href="http://www.fuel.tv/schedule?tags[]=PST/">Schedule</a></li>   
-    <li><a href="http://fueltv.fuel.tv/blogs/">News</a></li>
-    <li><a href="http://pr.fuel.tv/blogs/">Off The Wire</a></li>
-    <li><a href="http://fueltv.fuel.tv/calendars/">Events Calendar</a></li>
-    <li><a href="http://fueltv.channelfinder.net/widget/" target="_blank">GET FUEL TV</a></li>
-    <li><a href="/downloads/">Downloads</a></li>
-    <li><a href="/links/">Links</a></li>
-  </ul>
-  <!-- End Music nav -->
-
-  <!-- Begin Help Nav -->
-  <ul class="help">
-		<li class="login_required"><a href="/my?u=http%3A%2F%2Fwww.fuel.tv%2F%253Au%2Fdashboard/">Dashboard</a></li>
-    <li class="login_required"><a href="/my?u=http%3A%2F%2Fwww.fuel.tv%2F%253Au/"> Profile</a></li>
-    <li class="login_required"><a href="/my?u=http%3A%2F%2Fwww.fuel.tv%2F%253Au%2Fnotes/">Inbox</a></li>
-    <li><a href="/feedbacks/new/">Feedbacks</a></li>
-    <li><a href="/help/about/">About</a></li>
-    <li><a href="/help/advertising/">Advertise</a></li>
-    <li><a href="/help/tos/">Terms of Service</a></li>
-    <li><a href="/help/privacy/">Privacy Policy</a></li>
-  </ul>
-  <!-- End Help Nav -->
-
-  </div>
-</div>
-
-
-
-  <div id="container">
-
-      
+  <div class="main">
+    <div class="columns-holder">  
 <div class="body_content">
   <div id="heading">
     <h2>FUEL TV, INC. PRIVACY POLICY (Effective as of January 17, 2008.)</h2>
@@ -726,7 +466,7 @@ procedure for you to access, correct or delete your PII.</p>
 <p class="MsoNormal" style="text-align:justify"><!--[if !supportEmptyParas]-->&nbsp;<!--[endif]--><o:p></o:p></p>
 
 <p class="MsoNormal" style="text-align:justify">To access your PII, send an e-mail
-with the word “Privacy” in the subject line to <a href="mailto:FuelTV.Privacy@fox.com">FuelTV.Privacy@fox.com</a> or write to the
+with the word “Privacy” in the subject line to <a href="mailto:FuelTV.Privacy@fox.com?subject=FTVP">FuelTV.Privacy@fox.com</a> or write to the
 Fuel TV Internet Privacy Officer, at Fox Cable Network Services, LLC Business
 &amp; Legal Affairs, P.O. Box 900, Beverly Hills, California 90213-0900,
 requesting a listing of the PII that you have provided.<span style="mso-spacerun: yes">&nbsp; </span>Fuel TV will respond no later than forty-five
@@ -751,13 +491,13 @@ written confirmation to you within forty-five (45) business days.</p>
 
 <p class="MsoNormal" style="text-align:justify">If for any reason you wish to
 stop all future communications from Fuel TV, you may send an e-mail with the
-word “Privacy” in the subject line to <span style="color:navy"><a href="mailto:FuelTV.Privacy@fox.com">FuelTV.Privacy@fox.com</a></span>, or
+word “Privacy” in the subject line to <span style="color:navy"><a href="mailto:FuelTV.Privacy@fox.com?subject=FTVP">FuelTV.Privacy@fox.com</a></span>, or
 write to the Fuel TV Internet Privacy Officer, at Fox Cable Network Services,
 LLC Business &amp; Legal Affairs, P.O. Box 900, Beverly Hills, California 90213-0900,
 requesting that your PII be permanently removed form any Fuel TV database.<span style="mso-spacerun: yes">&nbsp; </span>Fuel TV will send a written
 confirmation of such removal to you within forty-five (45) business days of
 receipt of your request.<span style="mso-spacerun: yes">&nbsp; </span>E-mails
-sent to <span style="color:navy"><a href="mailto:FuelTV.Privacy@fox.com">FuelTV.Privacy@fox.com</a>
+sent to <span style="color:navy"><a href="mailto:FuelTV.Privacy@fox.com?subject=FTVP">FuelTV.Privacy@fox.com</a>
 </span><span style="color:black">f</span>or purposes other than communication
 about PII may not be acknowledged or responded to.<b><o:p></o:p></b></p>
 
@@ -787,7 +527,7 @@ you may contact the following Fuel TV representative:</p>
 <p class="MsoNormal" style="text-align:justify">Telephone:<span style="mso-tab-count:
 1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>(310) 369-1350</p>
 
-<p class="MsoHeader" style="text-align:justify;tab-stops:.5in">e-mail:<span style="mso-tab-count:2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="color:navy"><a href="mailto:FuelTV.Privacy@fox.com">FuelTV.Privacy@fox.com</a>
+<p class="MsoHeader" style="text-align:justify;tab-stops:.5in">e-mail:<span style="mso-tab-count:2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="color:navy"><a href="mailto:FuelTV.Privacy@fox.com?subject=FTVP">FuelTV.Privacy@fox.com</a>
 </span><span style="mso-spacerun: yes">&nbsp;</span></p>
 
 <p class="MsoNormal" style="text-align:justify"><!--[if !supportEmptyParas]-->&nbsp;<!--[endif]--><o:p></o:p></p>
@@ -799,145 +539,245 @@ days after you contact Fuel TV.</p>
 
 
   
+</div>
+    <div id="header">
+      <strong>
+        <a href="http://www.fuel.tv/"><img alt="Logo" src="http://ss.servers.fuel.tv/assets/images/logo.png?v000110"></a>
+      </strong>
+      <div class="banner">
+         
 
 
-    <div class="clear"> </div>
-  </div>
-
+<div class="site_ad ad_size_728x90">
   
-  
+    
 
 
 
 
-  <style type="text/css">
-
- #other_fox_sites{}
-
-</style>
-
-<div id="footer">
-  <div class="logo">
-    <a href="/"><img src="http://staticas3.servers.wwwsrc.net/images/fuel/gfc_fuel_logo_bottom.gif" alt=""></a>
-  </div>
-  <ul>
-    <li>
-      <h4>About</h4>
-      <a href="/help/">Help</a><br>
-      <a href="http://www.foxcareers.com/" rel="nofollow">Jobs</a><br>
-      <a href="/otherfoxsites">Other Fox Sites</a><br>
-      <a href="/feedbacks/new/">Contact Us</a><br>
-      <a href="/help/advertise/">Advertise</a><br>
-      <a href="/help/tos/" rel="nofollow">Terms of Service</a><br>
-      <a href="/help/privacy/" rel="nofollow">Privacy Policy</a><br>
-			<a href="/sitemap/">Site Map</a><br>
-    </li>
-    <li>
-      <h4>Media</h4>
-      <a href="/blogs/">Blogs</a><br>
-      <a href="/forums/">Forums</a><br>
-      <a href="/photos/">Photos</a><br>
-      <a href="/videos/">Videos</a><br>
-    </li>
-    <li>
-      <h4>People</h4>
-      <a href="/my?u=http%3A%2F%2Fwww.fuel.tv%2F%253Au%2Ffriends">Friends</a><br>
-      <a href="/my?u=http%3A%2F%2Fwww.fuel.tv%2F%253Au%2Ffavorites">Favorites</a><br>
-      <a href="/people/map/">Map</a>
-    </li>
-    <li>
-      <h4>My Account</h4>
-      <a href="/my?u=http%3A%2F%2Fwww.fuel.tv%2F%253Au%2Fdashboard">My Dashboard</a><br>
-      <a href="/my?u=http%3A%2F%2Fwww.fuel.tv%2F%253Au">My Profile</a><br>
-      <a href="/my?u=http%3A%2F%2Fwww.fuel.tv%2F%253Au%2Faccount%2Finfo">Edit Account Info</a><br>
-      <a href="/my?u=http%3A%2F%2Fwww.fuel.tv%2F%253Au%2Faccount%2Fprofile">Edit My Profile</a><br>
-      <a href="/my?u=http%3A%2F%2Fwww.fuel.tv%2F%253Au%2Fnotes">My Notes</a><br>
-
-			
-
-    </li>
-  </ul>
 
 
-	
-  <div class="clear"> </div>
 
-	
-		<span style="font-size:11px;"> Other Fox Sites:&nbsp; <a href="http://www.fox.com" target="_blank">FOX.com</a>&nbsp;|&nbsp; 
-		 <a href="http://www.foxsports.com" target="_blank">FOX Sports</a>&nbsp;|&nbsp; 
-		  <a href="http://www.bigtennetwork.com" target="_blank">Big Ten</a>&nbsp;|&nbsp; 
-		 <a href="http://www.speedtv.com" target="_blank">Speed Channel</a>&nbsp;|&nbsp; 
-		  <a href="http://msn.foxsports.com/foxsoccer" target="_blank">FOX Soccer</a>&nbsp;|&nbsp; 
-		 <a href="http://msn.foxsports.com/fcs" target="_blank">FOX College Sports</a>&nbsp;|&nbsp; 
-	<a href="http://www.fxnetworks.com" target="_blank">FX Networks</a>&nbsp;|&nbsp; 
-		<a href="http://www.foxreality.com" target="_blank">FOX Reality</a>
-		</span>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+      
+<div id="ad_tile_1">
+  <!-- begin ad tag (tile=1) -->
+  <script language="JavaScript" type="text/javascript">
+  //<!--
+  document.write('<script language="JavaScript" ' +
+                         'src="http://ad.doubleclick.net/adj/fuel.help/privacy;logged_in=false;sz=728x90;tile=1;ord=' + doubleclick_ord + '?"' +
+                         'type="text/javascript"></scr' + 'ipt>');
+  //-->
+  </script><script language="JavaScript" src="http://ad.doubleclick.net/adj/fuel.help/privacy;logged_in=false;sz=728x90;tile=1;ord=2637284858697273?" type="text/javascript"></script>
+  <noscript><a  href="http://ad.doubleclick.net/jump/fuel.help/privacy;logged_in=false;sz=728x90;tile=1;ord=123456789?" 
+                target="_blank"><img  src="http://ad.doubleclick.net/ad/fuel.help/privacy;logged_in=false;sz=728x90;tile=1;ord=123456789?" 
+                                      width="728" 
+                                      height="90" 
+                                      border="0" alt="" /></a></noscript>
+  <!-- End ad tag -->
 </div>
 
-	
-	
 
 
-  <div id="js_debug_message"></div>
+
+
+
+
+
+
+
+  
+</div>
+
+
+      </div>
+      <div class="form-holder">
+        <form class="global_search" action="http://www.fuel.tv/search" method="get">
+          <div class="subscribe">
+            <div class="channel_finder">
+	<!--
+              <script src="http://fueltv.channelfinder.net/js/embed_CF_TINY_v2.js" type="text/javascript"></script>
+
+-->
+            </div>
+            <div class="account_options_and_search">  
+              <input class="btn" name="commit" type="submit" value="">
+              <div class="field"><input class="search_text_field" type="text" name="q" value="FUEL TV Search"></div>
+              <div class="account_options">
+                  <a href="http://www.fuel.tv/account/login?referer=%2Fhelp%2Fprivacy%2F">Login</a>&nbsp;&nbsp;
+                  or&nbsp;&nbsp;<a href="http://www.fuel.tv/account/signup">Sign Up</a>
+              </div>
+            </div>
+          </div>
+        </form>
+      </div>
+      <ul id="main-nav">
+        
+          
+          <li><a href="http://www.fuel.tv/allshows/" class="nav_link for_allshows "><em>tv shows</em></a>
+             <ul>
+                 <li><a href="http://www.fuel.tv/schedule/">Schedule</a></li>
+                 <li><a href="http://www.fuel.tv/allshows/">Shows</a></li>
+                 <li><a href="http://fueltv.channelfinder.net/start.asp" target="_blank">GET FUEL TV</a></li>
+
+             </ul>
+          </li>
+        
+          
+          <li><a href="http://www.fuel.tv/videos/" class="nav_link for_videos "><em>videos</em></a>
+             <ul>
+                 <li><a href="http://www.fuel.tv/episodes/">Full-Length Episodes</a></li>
+                 <li><a href="http://www.fuel.tv/videos/">Clips</a></li>
+                 <li><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=265122328" target="_blank">Podcasts</a></li>
+                 <li><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewRoom?fcId=251522655&amp;id=37" target="_blank">Shop</a></li>
+
+             </ul>
+          </li>
+        
+          
+          <li><a href="http://www.fuel.tv/skateboarding/" class="nav_link for_skateboarding "><em>skateboarding</em></a>
+             <ul>
+                 <li><a href="/skateboarding/videos/">Videos</a></li>
+                 <li><a href="/search?cl=33743&amp;name=Features">Stories</a></li>
+                 <li><a href="/skateboarding/photos/">Photos</a></li>
+                 <li><a href="/search?cl=33749&amp;name=News">News</a></li>
+                 <li><a href="/skateboarding/forums/">Forums</a></li>
+
+             </ul>
+          </li>
+        
+          
+          <li><a href="http://www.fuel.tv/snowboarding/" class="nav_link for_snowboarding "><em>snowboarding</em></a>
+             <ul>
+                 <li><a href="/snowboarding/videos/">Videos</a></li>
+                 <li><a href="/search?cl=33744&amp;name=Features">Stories</a></li>
+                 <li><a href="/snowboarding/photos/">Photos</a></li>
+                 <li><a href="/search?cl=33751&amp;name=News">News</a></li>
+                 <li><a href="/snowboarding/forums/">Forums</a></li>
+                 <li><a href="/search?cl=33906&amp;name=Girls">Girls</a></li>
+
+             </ul>
+          </li>
+        
+          
+          <li><a href="http://www.fuel.tv/surfing/" class="nav_link for_surfing "><em>surfing</em></a>
+             <ul>
+                 <li><a href="/surfing/videos/">Videos</a></li>
+                 <li><a href="/search?cl=33745&amp;name=Features">Stories</a></li>
+                 <li><a href="/surfing/photos/">Photos</a></li>
+                 <li><a href="/search?cl=33752&amp;name=News">News</a></li>
+                 <li><a href="/surfing/forums/">Forums</a></li>
+                 <li><a href="/search?cl=33907&amp;name=Girls">Girls</a></li>
+
+             </ul>
+          </li>
+        
+          
+          <li><a href="http://www.fuel.tv/bmx/" class="nav_link for_bmx "><em>bmx</em></a>
+             <ul>
+                 <li><a href="/bmx/videos/" target="">Videos</a></li>
+                 <li><a href="http://www.fuel.tv/bmx/photos/" target="">Photos</a></li>
+                 <li><a href="http://www.fuel.tv/search?cl=33753&amp;name=News" target="">News</a></li>
+                 <li><a href="http://www.fuel.tv/bmx/forums/" target="">Forums</a></li>
+                 <li><a href="http://www.fuel.tv/search?cl=33746&amp;name=Features" target="">Stories</a></li>
+
+             </ul>
+          </li>
+        
+          
+          <li><a href="http://www.fuel.tv/moto/" class="nav_link for_moto "><em>moto</em></a>
+             <ul>
+                 <li><a href="http://www.fuel.tv/moto/videos/" target="">Videos</a></li>
+                 <li><a href="http://www.fuel.tv/search?cl=33747&amp;name=Features" target="">Stories</a></li>
+                 <li><a href="http://www.fuel.tv/moto/photos/" target="">Photos</a></li>
+                 <li><a href="http://www.fuel.tv/search?cl=33754&amp;name=News" target="">News</a></li>
+                 <li><a href="http://www.fuel.tv/moto/forums/" target="">Forums</a></li>
+
+             </ul>
+          </li>
+        
+          
+          <li><a href="http://www.fuel.tv/wakeboarding/" class="nav_link for_wakeboarding "><em>wakeboarding</em></a>
+             <ul>
+                 <li><a href="/wakeboarding/videos/">Videos</a></li>
+                 <li><a href="/search?cl=33748&amp;name=Features">Stories</a></li>
+                 <li><a href="/wakeboarding/photos/">Photos</a></li>
+                 <li><a href="/search?cl=33755&amp;name=News">News</a></li>
+                 <li><a href="/wakeboarding/forums/">Forums</a></li>
+
+             </ul>
+          </li>
+        
+          
+          <li><a href="http://www.fuel.tv/music/" class="nav_link for_music "><em>music</em></a>
+             <ul>
+                 <li><a href="/music">Videos</a></li>
+                 <li><a href="http://www.fuel.tv/blogs?group_name=musicwire">Stories</a></li>
+                 <li><a href="/askaband/">Ask A Band</a></li>
+                 <li><a href="http://www.fuel.tv/blogs?group_name=sosaysi">So Says I</a></li>
+                 <li><a href="http://www.fuel.tv/blogs?group_name=numutu">NUMUTU</a></li>
+                 <li><a href="http://www.fuel.tv/blogs?group_name=newandapproved">New and Approved</a></li>
+                 <li><a href="/search/forums?q=music">Forums</a></li>
+
+             </ul>
+          </li>
+        
+          
+          <li><a href="http://www.fuel.tv/sweepstakes/" class="nav_link for_sweepstakes "><em>win!</em></a>
+             <ul>
+                 <li><a href="/sweepstakes">Contests</a></li>
+                 <li><a href="/builttoshredgame">Video Game</a></li>
+
+             </ul>
+          </li>
+        
+      </ul>
+      <input type="hidden" id="current_section" value="footer_links">
+    </div>
+    <div id="footer" class="clearfix">
+      <ul>
+          <li><a href="http://www.fuel.tv/about/">About US</a></li>
+          <li><a href="http://www.fuel.tv/sitemap/">Site Map</a></li>
+          <li><a href="http://www.fuel.tv/help/advertise/">Advertise</a></li>
+          <li><a href="http://www.fuel.tv/downloads/">Downloads</a></li>
+          <li><a href="http://www.fuel.tv/feedbacks/new/">Contact Us</a></li>
+          <li><a href="http://www.fuel.tv/help/tos/">Terms of Service</a></li>
+          <li><a href="http://www.fuel.tv/help/privacy/">Privacy Policy</a></li>
+      </ul>
+      <a href="http://www.fuel.tv/" class="logo"><img alt="Footer-logo" src="http://ss.servers.fuel.tv/assets/images/footer-logo.gif?v000110"></a>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+<div id="js_debug_message"></div>
 <div id="minipage_menu" style="display: none;"></div>
 <script type="text/javascript">
   Event.observe(window, 'load', function() { 
     sweetTitles.init();
   });
 </script>
-
-
-
-<!-- SiteCatalyst code version: H.17.
-Copyright 1997-2008 Omniture, Inc. More info available at
-http://www.omniture.com -->
-<script type="text/javascript" src="http://www.fuel.tv/omniture/omniture_s_code.js"></script>
-<script type="text/javascript">//<![CDATA[
-/* You may give each page an identifying name, server, and channel on
-the next lines. */
-
-
-
-
-
-
-
-
-
-
-  
-   
-  
-  s_analytics.prop6="fueltv:helpprivacy"
-  s_analytics.prop7="fueltv:helpprivacy:home"
-  s_analytics.prop8="fueltv:helpprivacy:home"
-  s_analytics.prop9="fueltv:helpprivacy:home"
-  
-    s_analytics.prop15="profile:user"
-  
-
-s_analytics.pageName = "fueltv:helpprivacy:home";
-s_analytics.hier1 = "fueltv:helpprivacy:home";
-s_analytics.hier3 = "sports:fueltv:helpprivacy:home";
-s_analytics.prop45="fueltv"
-/* Conversion Variables */
-s_analytics.campaign=""
-
-s_analytics.events=""
-s_analytics.products=""
-s_analytics.purchaseID=""
-s_analytics.eVar1=""
-s_analytics.eVar2=""
-s_analytics.eVar3=""
-s_analytics.eVar4=""
-s_analytics.eVar5=""
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-s_analytics.t()//]]></script>
-<!-- End SiteCatalyst code version: H.17. -->
-
-
-
 
 
 
@@ -1004,6 +844,50 @@ else { _rsCI = "us-fueltv"; }
 
 
 
+
+<!-- SiteCatalyst code version: H.17.
+Copyright 1997-2008 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script type="text/javascript" src="http://www.fuel.tv/omniture/omniture_s_code.js"></script>
+<script type="text/javascript">//<![CDATA[
+  /* You may give each page an identifying name, server, and channel on
+  the next lines. */
+
+      s_analytics.pageName = "fueltv:footer_links hub:help:home:Help Privacy";
+      s_analytics.prop6 = "fueltv:footer_links hub";
+      s_analytics.prop45 = "fueltv";
+      s_analytics.prop7 = "fueltv:footer_links hub:help";
+      s_analytics.prop8 = "fueltv:footer_links hub:help:home";
+      s_analytics.prop15 = "site";
+      s_analytics.prop35 = "Help Privacy";
+
+  s_analytics.hier1 = "fueltv:footer_links hub:help:home:Help Privacy";
+  s_analytics.hier3 = "sports:fueltv:footer_links hub:help:home:Help Privacy";
+
+  /* Conversion Variables */
+  s_analytics.campaign=""
+  s_analytics.products=""
+  s_analytics.purchaseID=""
+
+  /*
+  s_analytics.events=""
+  s_analytics.eVar1=""
+  s_analytics.eVar2=""
+  s_analytics.eVar3=""
+  s_analytics.eVar4=""
+  s_analytics.eVar5=""
+  */
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+s_analytics.t()//]]></script>
+
+<!-- End SiteCatalyst code version: H.17. -->
+
+
+
+
+<script type="text/javascript"> Cufon.now(); </script>
+<!-- SC Version: 8681 -->
 
 
 
