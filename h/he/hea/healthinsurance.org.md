@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthinsurance.org privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608085222id_/http%3A//www.healthinsurance.org/about/privacy.lasso) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthinsurance.org privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202075601id_/http%3A//www.healthinsurance.org/about/privacy.lasso) for the most accurate reproduction.*
 
 # Healthinsurance.org privacy policy
 
@@ -16,7 +16,7 @@ As part of our services, we provide a means to get free quotes on insurance prod
 
 ### No disclosure of your personal information
 
-Healthinsurance.org only collects personal information from you in two instances: 
+Healthinsurance.org only collects personal information from you in two instances:
 
   * if you use our contact form to contact us. We only use your e-mail or other information to reply to your message and do not keep it on file or share it with any other company;
   * if you are in one of a few selected ZIP codes where we provide insurance quotes to you from a local insurance agent in your area. This is currently a limited pilot project, and is easily identifiable by being the only time you are asked for your name and contact information during the quote request process.
@@ -32,8 +32,3 @@ This is information about visitors to our site that does not personally identify
 ### Links to Other Web sites
 
 Our Web site contains links to other Web sites which have information on health insurance and/or related issues. Please note that when you click on one of these links you are "clicking" to another Web site. healthinsurance.org is not responsible for the information privacy practices or the content of such Web sites and we urge you to view the policies of these sites before providing personal information. 
-
-[](http://www.addthis.com/bookmark.php?v=20)
-
-  
-
