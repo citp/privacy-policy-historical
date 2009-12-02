@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the vegetarian-cooking-recipes-tips.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418042821id_/http%3A//www.vegetarian-cooking-recipes-tips.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegetarian-cooking-recipes-tips.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202072903id_/http%3A//www.vegetarian-cooking-recipes-tips.com/privacy-policy.html) for the most accurate reproduction.*
 
 # vegetarian-cooking-recipes-tips' Privacy Policy
 
-## Privacy Policy for Vegetarian recipes tips Site 
+Please Read Our Privacy Policy
 
-Please Read Our Privacy Policy:
-
-We recognize that your privacy is important. This documentoutlines the types of personal information we receive andcollect when you use "vegetarian-cooking-recipes-tips.com", as well as someof the steps we take to safeguard information. We hope thiswill help you make an informed decision about sharingpersonal information with us.
+We recognize that your privacy is important. This document outlines the types of personal information we receive andcollect when you use "vegetarian-cooking-recipes-tips.com", as well as someof the steps we take to safeguard information. We hope thiswill help you make an informed decision about sharingpersonal information with us.
 
 "vegetarian-cooking-recipes-tips.com" strives to maintain the higheststandards of decency, fairness and integrity in all ouroperations. Likewise, we are dedicated to protecting ourcustomers', consumers' and online visitors' privacy on ourwebsite.
 
@@ -57,19 +55,3 @@ Agreeing to Terms
 If you do not agree to "vegetarian-cooking-recipes-tips.com" PrivacyPolicy as posted here on this website, please do not usethis site or any services offered by this site.
 
 Your use of this site indicates acceptance of this privacypolicy.
-
-___________________________________
-
- 
-
-\---------------------------------------------
-
-Use the search box above to find what you are looking for. Enter a word and Click search. 
-
-\---------------------------------------------
-
-[Go to Site Map Page for a list of pages from privacy policy page](http://www.vegetarian-cooking-recipes-tips.com/sitemap.html)
-
-[Go to About Me page](http://www.vegetarian-cooking-recipes-tips.com/about.html) from privacy policy page
-
-[Go to **Vegetarian Recipes** Homepage from Privacy Policy page ](http://www.vegetarian-cooking-recipes-tips.com/)
