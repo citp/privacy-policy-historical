@@ -1,0 +1,379 @@
+<!--The following is the downloaded HTML source of the extremecow.com privacy policy that was archived on 2009-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091202045133id_/http%3A//www.extremecow.com/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<title> -  :: Extreme Cow Answers</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<link media="screen" href="http://www.extremecow.com/templates/3/css/default.css" type="text/css" rel="stylesheet">
+</head>
+<body style="background:#FFFFFF;">
+
+<div class="o80" id="error-log"></div>
+<div class="rollover-profile-info" id=""></div>
+<a name="top"></a>
+<div id="whole-page">
+<div id="header" align="center">
+  <div id="ygma" style="WIDTH: 100%">
+    
+    </div>
+  </div>
+  
+  <div id="banner" align="center">
+    <div id="header-container">
+      <table cellspacing="0" cellpadding="0" width="750" border="0">
+        <tbody>
+          <tr>
+          <td align="center" width="100%">
+          <a href="http://www.extremecow.com"><img border="0" src="templates/3//images/extremecow.png"></a>
+          </td>
+	  </tr><tr>
+			<td align="center">
+ 			<a href="postquestion.php">
+			<img border="0" src="images/mhask.gif" width="238" height="40"></a>
+			<a href="answerthisquestion.php">
+			<img border="0" src="images/mhanswer.gif" width="238" height="40"></a>
+			<a href="index.php">
+			<img border="0" src="images/mhdiscover.gif" width="238" height="40"></a>
+      </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+<br><br><br>
+
+       <div id="header-user-profile">
+              <div class="global-search-bar">
+        <table cellspacing="0" cellpadding="0" border="0">
+          <tbody>
+            <tr>
+              <td valign="bottom"><strong><font size="4">
+              Extreme Cow Answers: The Q&amp;A where extreme is normal! 
+              </font></strong></td>
+              <td>&nbsp;</td>
+              <td>&nbsp;</td>
+
+            </tr>
+          </tbody>
+        </table>
+		<div class="side-link"><a href="index.php">Home</a></div>
+
+    </div>
+  </div>
+
+
+<table cellspacing="0" cellpadding="0" width="750" border="0">
+    <tbody><tr>
+      <td align="center" style="padding-left:180px;" width="100%">
+      
+      
+<form action="http://www.google.com/cse" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-8917950167310020:c4kxqivt25f">
+    <input type="hidden" name="ie" value="ISO-8859-1">
+    <input type="text" name="q" size="31">
+    <input type="submit" name="sa" value="Search">
+  </div>
+</form>
+
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+
+      </td>
+     </tr>
+     </tbody></table>      
+<div class="home" id="y-body-green-knowledge-search">
+			<div id="content">
+		   
+<script language="javascript">
+
+var IE = document.all?true:false
+if (!IE) document.captureEvents(Event.MOUSEMOVE)
+document.onmousemove = getMouseXY;
+
+var rid;
+var tempX = 0;
+var tempY = 0;
+var d1=1000;
+var d2=1000;
+var d3=1000;
+
+function getX(oNode){var x=0;
+  while (oNode){x+=oNode.offsetLeft;oNode=oNode.offsetParent;}
+  return x;}
+function getY(oNode){var y=0;
+  while (oNode){y+=oNode.offsetTop;oNode=oNode.offsetParent;}
+  return y;}
+function getWidth(oNode){return oNode.offsetWidth;}
+function getHeight(oNode){return oNode.offsetHeight;}		
+
+function GetDistance(objname) {
+  var zonewidth=15;
+
+ 	var sp=document.getElementById(objname);
+	if(!sp) return;
+	var spx=getX(sp);
+	var spy=getY(sp);
+	var spw=getWidth(sp);
+	var sph=getHeight(sp);
+
+  var rx=tempX;
+  var ry=tempY;
+  if (tempX<spx-zonewidth) rx=spx-zonewidth;
+  if (tempX>(spx+spw+zonewidth)) rx=spx+spw+zonewidth;
+  if (tempY<spy-zonewidth) ry=spy-zonewidth;
+  if (tempY>(spy+sph+zonewidth)) ry=spy+sph+zonewidth;
+  return Math.floor(Math.sqrt(Math.pow((rx-tempX),2)+Math.pow((ry-tempY),2)));
+
+}
+
+function getMouseXY(e) {
+  if (IE) { // grab the x-y pos.s if browser is IE
+    tempX = event.clientX + (document.documentElement.scrollLeft ? document.documentElement.scrollLeft : document.body.scrollLeft);
+    tempY = event.clientY +(document.documentElement.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop);
+  } else {  // grab the x-y pos.s if browser is NS
+    tempX = e.pageX;
+    tempY = e.pageY;
+  }  
+  // catch possible negative values in NS4
+  if (tempX < 0){tempX = 0}
+  if (tempY < 0){tempY = 0}  
+
+
+  d1 = GetDistance("sp1");
+  d2 = GetDistance("sp2");
+  d3 = GetDistance("sp3");
+
+  //document.Show.msg.value="Rx:"+rx+" Ry:"+ry+" distance:"+distance;   
+  //document.Show.msg.value="Height: "+sph+" distance:"+distance;   
+  
+  return true
+}
+
+
+function xmlhttpPost(strURL,strQRY,SpanName,Async) {
+    var xmlHttpReq = false;
+    var self = this;
+    // Mozilla/Safari
+    if (window.XMLHttpRequest) {
+        self.xmlHttpReq = new XMLHttpRequest();
+    }
+    // IE
+    else if (window.ActiveXObject) {
+        self.xmlHttpReq = new ActiveXObject("Microsoft.XMLHTTP");
+    }
+    self.xmlHttpReq.open("POST", strURL, Async);
+    self.xmlHttpReq.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
+    self.xmlHttpReq.onreadystatechange = function() {
+        if (self.xmlHttpReq.readyState == 4) {
+		if (SpanName.length==0) {
+			alert(self.xmlHttpReq.responseText);
+		} else {
+            	document.getElementById(SpanName).innerHTML = self.xmlHttpReq.responseText;
+			if (buthtml.length>0) {
+				document.getElementById("rbut").innerHTML=buthtml;
+				buthtml="";
+			}
+		}
+        }
+    }
+    self.xmlHttpReq.send(strQRY);
+}
+var buthtml;
+var savebuthtml;
+function doaddnewq(id,rid) {
+	var rform = document.getElementById(id);
+	if (rform.title.value.length<30) {
+		alert("Your question is too short.");
+		rform.title.focus();
+	} else {
+		if (rform.newtext.value.length<30) {
+			alert("Not enough detail.  Include more details in the question detail box.");
+			rform.newtext.focus();
+		} else {
+			buthtml = document.getElementById("rbut").innerHTML;
+			document.getElementById("rbut").innerHTML = "<b>Saving.... Please wait....</b>";
+			var qstr = "title=" + encodeURI(rform.title.value)+"&newtext=" + encodeURI(rform.newtext.value)+"&txy="+(tempX+tempY)+"&cmd="+rid;
+			xmlhttpPost("saveanswer.php",qstr,"res"+id,true);
+		}
+	}
+}
+
+</script>
+
+
+<div id="left">
+        <div>
+          <div id="y-ks-profile-widget">
+            <div id="y-ks-profile-widget-container">
+              <div class="corner-top">
+                <div class="corner-left"></div>
+              </div>
+              <div class="hide" id="y-ks-header-user-profile-widget-msg-2" style="Z-INDEX: 1001"></div>
+              <div class="show" id="y-ks-header-user-profile-widget-msg-1" style="Z-INDEX: 1002">
+                <table cellspacing="0" cellpadding="0" border="0">
+                  <tbody>
+                    <tr>
+                      <td style="WIDTH: 60px"><img alt="Answers User" src="images//ptwidget_default_icon.gif"></td>
+                      <td style="FONT-SIZE: 105%; HEIGHT: 50px; TEXT-ALIGN: center" valign="absmiddle" align="middle">Ready to Participate?<br>
+                      <br>Ask your question now!</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+            <div class="corner-bottom">
+              <div class="corner-left"></div>
+            </div>
+          </div>
+        </div>
+        <div>
+          <div id="y-ks-profile-widget">
+            <div id="y-ks-profile-widget-container-login">
+              <div class="corner-top">
+                <div class="corner-left"></div>
+              </div>
+              <div class="hide" id="y-ks-header-user-profile-widget-msg-2" style="Z-INDEX: 1001"></div>
+              <div class="show" id="y-ks-header-user-profile-widget-msg-1" style="Z-INDEX: 1002">
+              			<table cellpadding="3" cellspacing="0" border="0" width="80%" align="center">
+					<tbody><tr>
+					<td align="center"><strong></strong></td>
+				</tr>
+<tr>
+<td width="100%" align="left" class="tbltd" colspan="2" rowspan="1">
+<div style="font-weight:bold;color:green">Ask your question in just seconds!  No signup necessary.</div><br>Question<br>
+<form id="addq" action="">
+<textarea id="title" rows="1" style="width:200px;font-family:arial,helvetica,verdana;font-size:12px"></textarea><br>
+Question Detail (required)<br>
+<textarea id="newtext" rows="1" style="width:200px;font-family:arial,helvetica,verdana;font-size:12px"></textarea><br>
+<div id="rbut"><input id="addnewq" type="submit" name="submit" value="Save" onclick="javascript:rid=this.id;doaddnewq('addq',rid);return false;">
+</div>
+</form>
+
+</td>
+</tr>
+
+
+</tbody></table>
+              </div>
+            </div>
+<div id="resaddq" style="font-family:arial,helvetica,verdana;font-size:12px;text-align: center;"><br></div>
+            <div class="corner-bottom">
+              <div class="corner-left"></div>
+            </div>
+          </div>
+        </div>
+		   
+        <h2 class="header">Categories</h2>
+        <div id="categories">
+        <div id="cat-undo">
+        <ul>
+			        <br><br><b>B. </b><li style="display: inline;"><a class="subtle" href="Burst&#10;-cat.html">Burst
+</a></li> <br><br><b>C. </b><li style="display: inline;"><a class="subtle" href="Canon&#10;-cat.html">Canon
+</a></li> <br><br><b>I. </b><li style="display: inline;"><a class="subtle" href="Insurance&#10;-cat.html">Insurance
+</a></li> <br><br><b>N. </b><li style="display: inline;"><a class="subtle" href="Niagara&#10;-cat.html">Niagara
+</a></li> <li style="display: inline;"><a class="subtle" href="Niagra&#10;-cat.html">Niagra
+</a></li> <br><br><b>O. </b><li style="display: inline;"><a class="subtle" href="Other_1&#10;-cat.html">Other&nbsp;1
+</a></li> <li style="display: inline;"><a class="subtle" href="Other_2&#10;-cat.html">Other&nbsp;2
+</a></li> <li style="display: inline;"><a class="subtle" href="Other_3&#10;-cat.html">Other&nbsp;3
+</a></li> <li style="display: inline;"><a class="subtle" href="Other_4&#10;-cat.html">Other&nbsp;4
+</a></li> <li style="display: inline;"><a class="subtle" href="Other_5&#10;-cat.html">Other&nbsp;5
+</a></li> <br><br><b>P. </b><li style="display: inline;"><a class="subtle" href="Pain&#10;-cat.html">Pain
+</a></li> <li style="display: inline;"><a class="subtle" href="Police&#10;-cat.html">Police
+</a></li> <br><br><b>S. </b><li style="display: inline;"><a class="subtle" href="Security&#10;-cat.html">Security
+</a></li> <br><br><b>U. </b><li style="display: inline;"><a class="subtle" href="Used&#10;-cat.html">Used
+</a></li> </ul>
+        </div>
+        </div>
+        <img height="1" alt="" src="images/b.gif" width="1">
+        </div>
+      
+       	<div id="middle">
+				<div id="ks-homepage-heading">Contact Us </div>
+      	<div id="middle">
+				
+
+				<div class="silk_hp_open" id="ks-homepage-questions">
+									<table class="question-results" border="0" cellpadding="0" cellspacing="0" width="100%">
+						<tbody>
+														<tr class="question qrownorm" id="q_row_20071016212549AApTbGr">
+								<td class="image"><div><img src="contact_files/man.gif" border="0"></div></td>
+								<td class="info"><a href="http://xmediapartners.com/Diet_Pills-qna60.html">
+								<h2>GoFTP.com</h2>
+								</a><br>This is the web site of <b>GoFTP.com</b>.<br>
+<p>Our postal address is <br>
+
+<b>400 CARLINGVIEW DR<br>
+Toronto, ON, M9W 5X9</b></p>
+We can be reached via e-mail at <a href="mailto:info@xmediapartners.com">info@GoFTP.com</a><br>
+or you can reach us by telephone at 416-884-8309<br>
+<p>For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).</p>
+<p>We collect aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations for statistical analysis and analytics purposes only.</p>
+<p>The information we collect from you when you sign up is only used to notifyyou about updates to our Web site, or , disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website.</p>
+<p>With respect to cookies: We do not set any cookies. </p><p>If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.</p>
+
+<p>With respect to Ad Servers: We attempt to display offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information.  For further information, consult the privacy policies of:</p><p>From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice.  If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses, we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses.  If you are concerned about how your information is used, you should check back at our Web site periodically.</p>
+<p>Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address or removing their user accounts.</p>
+<p>With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.</p>
+<p>If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.</p>
+
+								<p><br>
+								  </p></td>
+							</tr>
+													</tbody>
+					</table>
+		</div>
+		
+				<div class="dotted-line"></div>
+				      <p class="more-link" id="ks-more-link">
+	        </p><form action="allquestions.php">
+    </form>
+        
+			</div>
+				<div class="silk_hp_open" id="ks-homepage-questions">
+			
+		
+      
+        </div>
+				<div class="dotted-line"></div>
+			    <p class="more-link" id="ks-more-link">
+	               </p>
+			</div>
+		</div>
+	</div>
+<div style="clear:both">&nbsp;</div>
+		<table cellspacing="0" cellpadding="0" width="100%" border="0" style="background-color:green;color:white;">
+			<tbody>
+				<tr>
+					<td valign="top" nowrap="" align="center" class="Footer">
+          <span id="bbb" style="text-decoration: none;color:white;"> 
+          <a href="http://www.extremecow.com/contactus.php">
+         
+          Contact Us
+         
+          </a> 
+         
+          | <a href="http://www.extremecow.com/aboutus.php">
+         
+          About Us
+         
+          </a> | 
+          <a href="http://www.extremecow.com/privacy.php">
+         
+          Privacy Policy
+          
+          </a><br>
+          
+          <a href="http://www.answermefast.com"><strong>
+				 	© 2008-2009, extremecow.com, All Rights Reserved.
+           </strong></a><br>An <a href="http://www.extremecow.com">Extreme Cow</a> Company.<br>Visit our newest addition, <a href="http://www.askmefast.com">AskMeFast</a></span></td>
+           
+				</tr>
+			</tbody>
+		</table>
+
+</div>
+
+
+
+
+</body></html>
