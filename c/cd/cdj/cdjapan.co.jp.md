@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdjapan.co.jp privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416011939id_/http%3A//www.cdjapan.co.jp/help/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdjapan.co.jp privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202055930id_/http%3A//www.cdjapan.co.jp/help/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
