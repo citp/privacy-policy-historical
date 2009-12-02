@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopsafe.co.uk privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420045530id_/http%3A//www.shopsafe.co.uk/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopsafe.co.uk privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202045754id_/http%3A//www.shopsafe.co.uk/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy: Shopsafe
 
