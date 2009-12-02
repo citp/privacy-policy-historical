@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesfree.ca privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417070104id_/http%3A//www.gamesfree.ca/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesfree.ca privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202081436id_/http%3A//www.gamesfree.ca/privacy.php) for the most accurate reproduction.*
 
 # GamesFree.ca
 
@@ -48,4 +48,44 @@ For questions or concerns regarding the use of personal information you submit t
 
 | 
 
-[](http://www.megflowers.com/)
+[](http://twitter.com/Gamesfree_ca)
+
+[](http://apps.facebook.com/gamesfree)
+
+[](http://www.gamesgirl.ca/)
+
+23010 Hits
+
+20661 Hits
+
+19940 Hits
+
+17943 Hits
+
+17248 Hits
+
+16081 Hits
+
+13185 Hits
+
+12837 Hits
+
+12735 Hits
+
+11914 Hits
+
+11482 Hits
+
+11438 Hits
+
+10263 Hits
+
+9957 Hits
+
+9893 Hits
+
+9818 Hits
+
+9352 Hits
+
+8129 Hits
