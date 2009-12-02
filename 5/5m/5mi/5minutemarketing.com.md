@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 5minutemarketing.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611172353id_/http%3A//www.5minutemarketing.com/legal_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 5minutemarketing.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202084617id_/http%3A//www.5minutemarketing.com/legal_privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,13 +10,13 @@ Verisign issues Digital ID certificates in accordance with its Certification Pra
 5MinuteMarketing.com has received the Verisign secure site seal. The seal assures customers that it is safe to do business with our Web site and should differentiate our site from those who do not display the seal. This seal also informs visitors that all of the data they exchange with 5MinuteMarketing.com is protected against interception.
 
 **Return Policy**   
-Any credit card charged more than once for any one order will be refunded the amount of the overcharge. After an order is printed, there are no refunds. All other refunds or inquires should be directed to the customer service department at (866) 236-5798 or [customerservice@5minutemarketing.com.](mailto:customerservice@5minutemarketing.com)
+Any credit card charged more than once for any one order will be refunded the amount of the overcharge. After an order is printed, there are no refunds. All other refunds or inquires should be directed to the customer service department at (866) 236-5798 or [support@5minutemarketing.com.](mailto:support@5minutemarketing.com)
 
 **Password Protection**   
 At 5MinuteMarketing.com, your sensitive information is password protected for an added level of security. When you establish an account with 5MinuteMarketing.com, you choose a unique password for your account. You may change this password as often as you like by logging in to your account and editing the My Account section.
 
 **Order Confirmation**   
-5MinuteMarketing.com sends an email notice to you confirming each order you place. If you receive an order confirmation that you did not place, please email us immediately at [customerservice@5minutemarketing.com](mailto:customerservice@5minutemarketing.com) or call us at (866) 236-5798.
+5MinuteMarketing.com sends an email notice to you confirming each order you place. If you receive an order confirmation that you did not place, please email us immediately at [support@5minutemarketing.com](mailto:support@5minutemarketing.com) or call us at (866) 236-5798.
 
 **Partner Sites Privacy Policies**   
 5MinuteMarketing.com may provide links or active banner ads to its partners and alternative Internet sites. These sites offer individual data and privacy policies independent of 5MinuteMarketing.com, and 5MinuteMarketing.com disclaims any responsibility or liability for their respective policies or actions.
@@ -33,12 +33,12 @@ Over the course of serving our customers, 5MinuteMarketing.com acquires, stores 
 5MinuteMarketing.com may also share customer information with preferred partners, for example, to provide customers with information about new products which might of value to the customer, or which might enable the customer to take advantage of preferred partner programs.
 
 **Review or Modify Customer Information**   
-Customers may update or modify their personal information by sending an email to [customerservice@5minutemarketing.com](mailto:customerservice@5minutemarketing.com).
+Customers may update or modify their personal information by sending an email to [support@5minutemarketing.com](mailto:support@5minutemarketing.com).
 
 **Direct Mailings from 5MinuteMarketing.com**   
 Occasionally, 5MinuteMarketing.com will send its customers information regarding a variety of products and services that may be of value. Whenever we send this sort of information to you, it will always be accompanied by an opt out feature for such mailings. However, if you choose to opt out you will no longer receive any communications from us, including but not limited to, important account information.
 
-You may also opt out by sending an email to [customerservice@5minutemarketing.com](mailto:customerservice@5minutemarketing.com).
+You may also opt out by sending an email to [support@5minutemarketing.com](mailto:support@5minutemarketing.com).
 
 **Policies Subject to Change at Anytime**   
 5MinuteMarketing.com's procedures and policies for handling customer information have been designed with the understanding that Internet technologies are continuously changing. In this spirit, 5MinuteMarketing.com's policies and procedures are subject to change at anytime.
