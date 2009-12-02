@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agc.gov.sg privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524084452id_/http%3A//www.agc.gov.sg/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agc.gov.sg privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202192940id_/http%3A//www.agc.gov.sg/privacy/index.html) for the most accurate reproduction.*
 
 # AGC – Privacy Statement
 
