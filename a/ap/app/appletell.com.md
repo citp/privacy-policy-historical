@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the appletell.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619050237id_/http%3A//www.dabbledoo.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appletell.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202051454id_/http%3A//www.appletell.com/apple/privacy) for the most accurate reproduction.*
 
-# Dabbledoo Media - Corporate Home to Gadgetell, Appletell, and Gamertell
+# Appletell Privacy Policy - Gadgetell
 
-This privacy policy covers all Dabbledoo Network sites. Please read this statement before accessing Dabbledoo sites. By using Dabbledooâ€™s sites, you are agreeing to abide by the Terms of this statement. 
+This privacy policy covers all Dabbledoo Network sites. Please read this statement before accessing Dabbledoo sites. By using Dabbledoo’s sites, you are agreeing to abide by the Terms of this statement. 
 
 ### Comments
 
@@ -23,11 +23,11 @@ Like most standard Web site servers, we use log files. This includes internet pr
 
 The Dabbledoo sites contain links to other sites. Please be aware that Dabbledoo is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by Dabbledoo.
 
-If we decide to change our privacy policy, you will be able to find the updated information on this page (<http://www.dabbledoo.com/privacy>). 
+If we decide to change our privacy policy, you will be able to find the updated information on this page (http://www.dabbledoo.com/privacy). 
 
 ### Contact
 
-If you read through our privacy policy and have any questions regarding it please [Contact Us](http://www.dabbledoo.com/home/contact/ "via our Contact page"). 
+If you read through our privacy policy and have any questions regarding it, you may contact us in the follow ways: send an email to contact@dabbledoo.com or snail mail at Dabbledoo Media, P.O. Box 11585, Chesterfield, MO 63105. 
 
   
 
