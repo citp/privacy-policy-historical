@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the storagecraft.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619181301id_/http%3A//www.storagecraft.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storagecraft.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202110219id_/http%3A//www.storagecraft.com/privacy.php) for the most accurate reproduction.*
 
-# StorageCraft - Provider of online disk backup software, disaster recovery, data storage, data protection, anti virus, anti spyware and internet privacy solutions
+# StorageCraft Privacy Policy
 
 At StorageCraft Technology Corporation we take privacy seriously and we respect your right to privacy. We've arranged this official "Privacy Policy Statement" to clearly disclose to you what information we collect and how we use this information. 
 
