@@ -1,11 +1,23 @@
-<!--The following is the downloaded HTML source of the xapads.com privacy policy that was archived on 2009-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090602212227id_/http%3A//www.xapads.com/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the xapads.com privacy policy that was archived on 2009-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091202120028id_/http%3A//www.xapads.com/privacy_policy.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>Xapads:Biggest Contextual Advertising Network.</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="keywords" content="pay per click advertising, contextual advertising, content targeted advertising, behavioral Targeting, internet marketing, marketing, online, advertising, internet, web, www, search, search engine, pay per click, ppc, bid, bids, keywords, keyword bids, keyword management, advertising bids,content target, blog advertising, Xaprio Solutions, Xaprio, Xaprio Network">
+<!-- script added by Arif :: 22-08-09 -->
+<script>
+	function setAction(val){
+		if(val == 'aff_pub'){
+			document.log.action='affiliates/login.php'
+		}
+		else{
+			document.log.action='xapad/login.php'
+		}
+	}
+</script>
 <link rel="stylesheet" type="text/css" href="style.css"><script type="text/javascript" src="swfobject.js"></script></head>
+<!-- Why link and scripts are outside head section ??? :: 22-08-09 :: Arif -->
 
 
 <body>
@@ -18,8 +30,9 @@
           <td align="center" class="menu" onclick="javascript:window.location.href='contextual-advertising-company.html';" onmouseover="this.className='menu2';" onmouseout="this.className='menu';">Company</td>
           <td align="center" class="menu" onclick="javascript:window.location.href='ad-network-targeted-advertising.html';" onmouseover="this.className='menu2';" onmouseout="this.className='menu';">Advertisers</td>
           <td align="center" class="menu" onclick="javascript:window.location.href='contextual-text-ads.html';" onmouseover="this.className='menu2';" onmouseout="this.className='menu';">Publishers</td>
+		  <td align="center" class="menu" onclick="javascript:window.location.href='./affiliates';" onmouseover="this.className='menu2';" onmouseout="this.className='menu';">Affiliates</td>
                     <td align="center" class="menu" onclick="javascript:window.location.href='free-contextual-ad-network.html';" onmouseover="this.className='menu2';" onmouseout="this.className='menu';">&nbsp;Join Now&nbsp;</td>
-                    <td align="center" class="menu" onclick="javascript:window.location.href='http://www.xapads.com/KnowledgeBase/';" onmouseover="this.className='menu2';" onmouseout="this.className='menu';">Faq</td>
+                    <td align="center" class="menu" onclick="javascript:window.location.href='./KnowledgeBase/';" onmouseover="this.className='menu2';" onmouseout="this.className='menu';">Faq</td>
           <td align="center" class="menu" onclick="javascript:window.location.href='contact_us.html';" onmouseover="this.className='menu2';" onmouseout="this.className='menu';">Contact Us</td>
         </tr>
       </tbody></table></td>
@@ -43,20 +56,35 @@
               </tr>
               <tr>
                 <td class="border2" valign="top" style="padding-top:6px;padding-right:0px" align="left">                  <table cellpadding="0" cellspacing="3" align="left" bgcolor="#ffffff" width="99%">
-                    <form name="log" method="post" action="http://www.xapads.com/xapad/login.php"></form>
+                    <form name="log" method="post" action="./xapad/login.php"></form>
                       <tbody><tr>
                         <td class="txtnormal" align="left" width="45%">Username:</td>
-                        <td><input size="10" maxlength="50" name="user" type="text" class="loginform"></td>
+                        <td align="right"><!-- align="right" done by Arif -->
+                        	<input size="10" maxlength="50" name="user" type="text" class="loginform"></td>
                       </tr>
                       <tr>
                         <td class="txtnormal" align="left" width="45%">Password:</td>
-                        <td><input size="10" maxlength="50" name="pass" type="password" class="loginform"></td>
+                        <td align="right"><!-- align="right" done by Arif -->
+                        	<input size="10" maxlength="50" name="pass" type="password" class="loginform"></td>
                       </tr>
+						<tr><!-- This tr was added by Arif on 22-08-09 to give option to login as any user. -->
+						<td></td>
+						<td align="right">
+							<select name="user_type" class="loginform" onchange="javascript:setAction(this.value);">
+							<option value="adv">Advertiser</option>
+							<option value="pub">Publisher</option>
+							<option value="aff_pub">Affiliates</option>
+							</select>
+						</td>
+						</tr>
                       <tr>
                         <td class="txtnormal" colspan="2" align="center" height="2px"></td>
                       </tr>
                       <tr>
-                        <td colspan="2" class="read" align="right"><a href="#" class="link1" onclick="document.log.submit();" name="submit" value="Login Now">login</a>/<a class="link1" href="http://www.xapads.com/xapad/fpass.php">Forgot password?</a></td>
+                        <td colspan="2" class="read" align="right">
+<input type="submit" value="Login"><br>
+<!--<a href="#" class="link1" onClick="document.log.submit();" name="submit" value="Login Now">login</a>/-->
+<a class="link1" href="./xapad/fpass.php">Forgot password?</a></td>
                       </tr>
                       <tr>
                         <td class="txtnormal" colspan="2" align="center" height="5px"></td>
@@ -66,7 +94,7 @@
                                   </td>
               </tr>
               <tr>
-                <td height="4px"></td>
+                <td class="border2" height="4px">&nbsp;</td><!-- class="border2" and '&nbsp;' added by Arif -->
               </tr>
               <tr>
                 <td class="border1" valign="bottom" style="padding-top:20px;padding-right:2px" align="right"><font class="text_blue">our</font> <font class="text_gray">advertisers</font></td>
@@ -120,7 +148,7 @@
                     We may collect and possibly share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of 's terms of use, or as otherwise required by law. <br>
                     <br>
                     <b>Fraudulent Activity</b><br>
-                    Fraudulent Activity on Xapads must result from genuine user interest. Any method that artificially generates clicks or impressions on your Xapads is strictly prohibited. These prohibited methods include but are not limited to repeated manual clicks or impressions, using robots, automated click and impression generating tools, third-party services that generate clicks or impressions such as paid-to-click, paid-to-surf, autosurf, and click-exchange programs, or any deceptive software. Please note that clicking on your own ads for any reason is prohibited. Failure to comply with this policy may lead to your account being disabled. To Know more about Account Disability, Please Click <a href="http://www.xapads.com/account-disabled.html">Here</a> <br>
+                    Fraudulent Activity on Xapads must result from genuine user interest. Any method that artificially generates clicks or impressions on your Xapads is strictly prohibited. These prohibited methods include but are not limited to repeated manual clicks or impressions, using robots, automated click and impression generating tools, third-party services that generate clicks or impressions such as paid-to-click, paid-to-surf, autosurf, and click-exchange programs, or any deceptive software. Please note that clicking on your own ads for any reason is prohibited. Failure to comply with this policy may lead to your account being disabled. To Know more about Account Disability, Please Click <a href="./account-disabled.html">Here</a> <br>
                     <br>
                     <b>Policy Updates</b><br>
                     All updates to this policy will be posted here. Contact at: support@Xapads.com to aid in processing your request, please include the following details: Contact information (your name, address, e-mail address, etc.) Name of the program where you want the update applied Details of the request (e.g. change of e-mail address, unsubscribe from a newsletter, review of personal information, etc.) Note: This policy also covers the personal information you provide to Customer Support. </p></td>
@@ -147,8 +175,8 @@
   
   <table width="100%" align="center" cellpadding="0" cellspacing="0">
     <tbody><tr>
-      <td colspan="2" align="center" style="padding-top:4px;padding-bottom:4px;" class="link3" bgcolor="#447b87"><a class="link3" href="http://www.xapads.com/">Home</a> | <a class="link3" href="http://www.xapads.com/contextual-advertising-company.html">Company</a> | <a class="link3" href="http://www.xapads.com/pop-up-advertising.html">Pop Up Advertising</a> | <a class="link3" href="http://www.xapads.com/pop-under-advertising.html">Pop Under Advertising</a> | <a class="link3" href="http://www.xapads.com/pop-in-advertising.html">Pop In Advertising</a> | <a class="link3" href="http://www.xapads.com/google-adsense-alternative.html">Google Adsense Alternative</a> | <a class="link3" href="http://www.xapads.com/ad-network-targeted-advertising.html">Advertiser</a> | <a class="link3" href="http://www.xapads.com/contextual-text-ads.html">Publishers</a> | <a class="link3" href="http://www.xapads.com/online-banner-advertisement.html">Online Banner Advertising</a> | <a class="link3" href="http://www.xapads.com/content-taregted-advertising.html">Content Targeted Advertising</a> | <a class="link3" href="http://www.xapads.com/cost-per-click-advertising.html">Cost Per Click Advertising</a> | <br>
-        <a class="link3" href="http://www.xapads.com/free-contextual-ad-network.html">Join Now</a> | <a class="link3" href="http://www.xapads.com/contact_us.html">Contact Us</a> | <a class="link3" href="http://www.xapads.com/privacy_policy.html">Privacy Policy</a> | <a class="link3" href="http://www.xapads.com/account-disabled.html">Disabled Account Policy</a> | <a class="link3" href="http://www.xapads.com/KnowledgeBase/">FAQ</a> | <a class="link3" href="http://www.xapads.com/sitemap.html">Site Map</a></td>
+      <td colspan="2" align="center" style="padding-top:4px;padding-bottom:4px;" class="link3" bgcolor="#447b87"><a class="link3" href="http://www.xapads.com/">Home</a> | <a class="link3" href="./contextual-advertising-company.html">Company</a> | <a class="link3" href="./pop-up-advertising.html">Pop Up Advertising</a> | <a class="link3" href="./pop-under-advertising.html">Pop Under Advertising</a> | <a class="link3" href="./pop-in-advertising.html">Pop In Advertising</a> | <a class="link3" href="./google-adsense-alternative.html">Google Adsense Alternative</a> | <a class="link3" href="./ad-network-targeted-advertising.html">Advertiser</a> | <a class="link3" href="./contextual-text-ads.html">Publishers</a> | <a class="link3" href="./online-banner-advertisement.html">Online Banner Advertising</a> | <a class="link3" href="./content-taregted-advertising.html">Content Targeted Advertising</a> | <a class="link3" href="./cost-per-click-advertising.html">Cost Per Click Advertising</a> | <br>
+        <a class="link3" href="./free-contextual-ad-network.html">Join Now</a> | <a class="link3" href="./contact_us.html">Contact Us</a> | <a class="link3" href="./privacy_policy.html">Privacy Policy</a> | <a class="link3" href="./account-disabled.html">Disabled Account Policy</a> | <a class="link3" href="./KnowledgeBase/">FAQ</a> | <a class="link3" href="./sitemap.html">Site Map</a></td>
     </tr>
     <tr>
       <td colspan="2" height="2px" bgcolor="#8B8683"></td>
