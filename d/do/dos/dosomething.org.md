@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dosomething.org privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601075856id_/http%3A//www.dosomething.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dosomething.org privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202220735id_/http%3A//www.dosomething.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy | Do Something
 
@@ -80,11 +80,11 @@ Users that post 3 or more messages that violate the ‘Do’s and Don’ts’ of
 
 ### Moderation
 
-Every member of the Do Something community acts as a moderator through the abuse-reporting system. Members are asked to ‘if they see something, do something’ about message board abuse. 
+Every member of the Do Something community acts as a moderator through the abuse-reporting system. Members are asked to ‘if they see something, do something’ about inapropriate content. When inapropriate user generated content is found the owner is contacted and the post is edited or removed as needed.
 
-There is one full time (super sweet) Do Something staff member who moderates users, content and content policy. This staff member oversees a network of volunteer youth moderators that monitor every post for content and edit/hide/delete messages where appropriate. 
+There is one full time Do Something staff member who moderates users, content and content policy. This staff member oversees a network of volunteer youth moderators that monitor every post for content and edit/hide/delete messages where appropriate. 
 
-In the case of a message that suggests a user may be in danger (either from themselves or someone else), they will be referred to a Do Something approved emergency help line or appropriate organization. This information will be publicly available and all moderators are authorized to refer users to these pre-approved services:
+In the case of a message that suggests a user may be in danger (either from themselves or someone else), they will be referred to a Do Something approved emergency help line or appropriate organization. This information is publicly available and all moderators are authorized to refer users to these pre-approved services: <http://www.dosomething.org/hotlines>
 
   * Childhelp
   * National Alcohol Hotline
