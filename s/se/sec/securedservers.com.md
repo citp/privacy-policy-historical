@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securedservers.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626095521id_/http%3A//www.securedservers.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securedservers.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202113828id_/http%3A//www.securedservers.com/privacy-policy.php) for the most accurate reproduction.*
 
 # SecuredServers | Privacy Policy
 
