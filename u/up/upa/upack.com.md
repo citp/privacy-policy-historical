@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the upack.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216163526id_/http%3A//www.upack.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upack.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202090351id_/http%3A//www.upack.com/about/privacy.asp) for the most accurate reproduction.*
 
 # ABF U-Pack Moving Privacy Policy
+
+[Home](https://web.archive.org/) Privacy Policy
 
 ABF U-Pack Moving is committed to protecting your privacy. We use the information we collect to provide you the most robust Internet applications in the transportation industry. However, all information about you stored on our site will never be released to anyone without your consent. Please read on for more information on ABF U-Pack Moving's commitment to your privacy.
 
