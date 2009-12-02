@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the chilloutpoint.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501032408id_/http%3A//www.chilloutpoint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chilloutpoint.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202065306id_/http%3A//www.chilloutpoint.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Chill Out Point
-
-Browse >
-
-[Home](http://www.chilloutpoint.com/ "Browse to: Home") / Privacy Policy 
+# Privacy Policy - Chill Out Point - Place For Your Fun
 
 **Chilloutpoint** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
@@ -51,7 +47,4 @@ Protecting the privacy of the very young is especially important. For that reaso
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.  
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
-**Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us.
-
-admin@chilloutpoint.com
+Contact: admin@chilloutpoint.com
