@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watch-replica.net privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502055611id_/http%3A//www.watch-replica.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watch-replica.net privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202065247id_/http%3A//www.watch-replica.net/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,7 +13,7 @@ Our on-line replica watches store provides reliable purchase process. We have wo
 
 
 
-If any questions arise, feel free to contact us: support@watch-replica.net
+If any questions arise, feel free to contact us: supportwatch-replica.net
 
   
 
