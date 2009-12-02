@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woogiworld.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618125556id_/http%3A//www.woogiworld.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woogiworld.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202130726id_/http%3A//www.woogiworld.com/privacy.php) for the most accurate reproduction.*
 
 # Woogi World - Privacy Policy
 
