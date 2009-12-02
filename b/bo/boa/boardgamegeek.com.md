@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the boardgamegeek.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616154218id_/http%3A//boardgamegeek.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boardgamegeek.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202061417id_/http%3A//boardgamegeek.com/privacy.php) for the most accurate reproduction.*
 
 # BoardGameGeek | Gaming Unplugged Since 2000
+
+100 200 300 400 500 600 700 800 900 1000 1100 1200 1300 1400 1500 1600 1700 1800 1900 2009
 
 BoardGameGeek takes your privacy seriously. Please read the following to learn more about our privacy policy. 
 
