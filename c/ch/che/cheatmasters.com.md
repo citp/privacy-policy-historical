@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cheatmasters.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626145340id_/http%3A//www.cheatmasters.com/privacycm.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheatmasters.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202121807id_/http%3A//www.cheatmasters.com/privacycm.php) for the most accurate reproduction.*
 
-# Cheat Masters : PC Xbox DS Wii PSP PS2 PS3 cheats, codes, tips, & hints for your console games.
+# Cheat Masters: PC Xbox DS Wii PSP PS2 PS3 cheats,cheat codes ps2,ps3,console games cheats,xbox 360 games cheats,playstation 3 games cheats,ps3 cheat codes gta 4,all pc games cheats provider.
 
 > **Cheatmasters.com** , recognizes its member's rights to privacy.
 > 
