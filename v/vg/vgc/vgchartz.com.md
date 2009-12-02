@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vgchartz.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605093323id_/http%3A//www.vgchartz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vgchartz.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202062048id_/http%3A//www.vgchartz.com/privacy.php) for the most accurate reproduction.*
 
-# VGChartz - Video Game Charts News Reviews Cheats Tips FAQs Walkthroughs Forums - Nintendo Wii DS Microsoft Xbox 360 PC Sony Playstation PS3 PS2 PSP iPhone
+# Video Games, Sales, Charts, News, Reviews, Videos, Forums, Game Cheats - Wii, Xbox, PS3, DS, PSP, PS2, PC, iPhone on VGChartz.com
 
 Version 11/07/2007
 
