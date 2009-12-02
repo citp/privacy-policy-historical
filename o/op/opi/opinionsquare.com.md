@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opinionsquare.com privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504093750id_/http%3A//www.opinionsquare.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opinionsquare.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202222841id_/http%3A//www.opinionsquare.com/privacy.aspx) for the most accurate reproduction.*
 
 # OpinionSquare – Take Surveys and Earn Cash and Prizes
 
@@ -43,7 +43,7 @@ When you sign up for this program, we may obtain your contact information and so
 
 _Survey response information:_
 
-Once you agree to participate in this program, we may notify you of survey opportunities through e-mail, pop-ups, toast windows, U.S. mail, and other means. If you elect to participate in a survey, we require that you provide complete and accurate information about yourself and your household. 
+Once you agree to participate in this program, we may notify you of survey opportunities through e-mail, pop-ups, toast windows, U.S. mail, and other means. If you elect to participate in a survey, we require that you provide complete and accurate information about yourself and your household. The survey opportunities that we provide to you may be related to other information that that we collect. For example, we may provide you with a survey asking you about the quality of your user experience at a particular website. 
 
 _Computer hardware, software, and other configuration information:_
 
@@ -51,7 +51,7 @@ Our application may collect general hardware, software, computer configuration a
 
 _Internet usage information:_
 
-Once you install our application, it monitors all of the Internet behavior that occurs on the computer on which you install the application, including both your normal web browsing and the activity that you undertake during secure sessions, such as filling a shopping basket, completing an application form or checking your online accounts. We may use the information that we monitor, such as name and address, for the purpose of better understanding your household demographics; however we make commercially viable efforts to automatically filter confidential personally identifiable information such as UserID, password, credit card numbers, and account numbers. Inadvertently, we may collect such information about our panelists; and when this happens, we make commercially viable efforts to purge our database of such information. 
+Once you install our application, it monitors all of the Internet behavior that occurs on the computer on which you install the application, including both your normal web browsing and the activity that you undertake during secure sessions, such as filling a shopping basket, completing an application form or checking your online accounts. Our application may also collect information regarding the cookies that exist on your computer. We may use the information that we monitor, such as name and address, for the purpose of better understanding your household demographics; however we make commercially viable efforts to automatically filter confidential personally identifiable information such as UserID, password, credit card numbers, and account numbers. Inadvertently, we may collect such information about our panelists; and when this happens, we make commercially viable efforts to purge our database of such information. 
 
 Our application will review the content of all web pages to determine the language being used in the web site, and the application may review select e-mail header information from web-based e-mails as a way to verify your contact information and your online usage information.
 
@@ -121,7 +121,7 @@ What if I wish to stop participating in this program?
 
  _Resignation:_
 
-You may resign at any time by contacting us at the support address listed below or by selecting the "[Terminate all OpinionSquare Services](https://web.archive.org/web/20090504093750id_/http%3A//www.opinionsquare.com/Remove.aspx?terminate_services=y)" link from the Members section on your panel’s web page (where applicable). 
+You may resign at any time by contacting us at the support address listed below or by selecting the "[Terminate all OpinionSquare Services](https://web.archive.org/web/20091202222841id_/http%3A//www.opinionsquare.com/Remove.aspx?terminate_services=y)" link from the Members section on your panel’s web page (where applicable). 
 
 _Removing our Application:_
 
@@ -168,7 +168,8 @@ As a participant, you agree to:
 As a participant, you agree not to:
 
   * Use this program in any way that: (i) harms or harasses others; (ii) violates any federal, state or local laws or ordinances; (iii) violates or infringes on the rights of any third parties including, but not limited to, copyright, trademark, patent, trade secret, rights of privacy or publicity or other proprietary right; or (iv) interferes with or disrupts this program;
-  * Attempt to reverse engineer, decompile, or disassemble the program; and
+  * Attempt to reverse engineer, decompile, or disassemble the program;
+  * Sign up for more than one account; and 
   * Attempt to defeat or circumvent our application, it being your responsibility to remove this application as instructed in this agreement or expressly by an authorized service representative.
 
   
@@ -199,6 +200,8 @@ Notwithstanding the above, we may apply to any court of competent jurisdiction f
 THIS AGREEMENT SHALL BE GOVERNED BY THE LAWS OF THE COMMONWEALTH OF VIRGINIA, WITHOUT REGARD TO CONFLICTS OF LAWS PROVISIONS AND SUCH LAW SHALL BE APPLIED BY THE ARBITRATOR TO THE MERITS OF ANY DISPUTE OR CLAIM. FOR ANY NON-ARBITRAL ACTION OR PROCEEDING ARISING OUT OF OR RELATED TO THIS PROGRAM OR THIS AGREEMENT, SOLE AND EXCLUSIVE JURISDICTION SHALL RESIDE WITH THE APPROPRIATE STATE COURT LOCATED IN FAIRFAX COUNTY, VIRGINIA OR FEDERAL COURT LOCATED IN ALEXANDRIA, VIRGINIA.
 
 While this program is available on the Internet to international users, the program is and remains a U.S. offering and all use of the information collected is and shall remain subject to U.S. law and practice. International users must take this into account and should consult their local laws and independently determine whether participation is desired given these facts.
+
+Fraud: Any attempt by a participant to undermine the legitimate operation of the panel is a violation of criminal and civil laws and should such an attempt be made, TMRG, Inc. reserves the right to seek damages from any such respondent to the fullest extent permitted by law. Multiple accounts are not permitted; participants are limited to signing up for a maximum of one account.
 
  _Third Party Rights:_
 
@@ -234,7 +237,7 @@ _ENTIRE AGREEMENT:_
 
 This Agreement constitutes the entire agreement between sponsor and you with respect to the subject matter contained in the Agreement. 
 
-This Agreement is effective as of March 4, 2009.
+This Agreement is effective as of May 14, 2009.
 
 Whom can I contact if I have additional questions?
 
@@ -251,7 +254,7 @@ Reston, VA 20190
 
 For any support issues, please contact: support@tmrginc.com.
 
-LP 0910
+LP 0920
 
 |   
 ---  
