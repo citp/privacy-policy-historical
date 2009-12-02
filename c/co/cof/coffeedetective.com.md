@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coffeedetective.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416012046id_/http%3A//www.coffeedetective.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coffeedetective.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203002621id_/http%3A//www.coffeedetective.com/privacy.html) for the most accurate reproduction.*
 
 # Coffee Detective Privacy Policy and Contact Information
 
@@ -27,14 +27,11 @@ Montreal North
 Quebec H1G 1A3  
 Canada. 
 
-* * *
-
-**Share this page:  **  
-|  |  |  |   
+  
+**Share this page:  **| | | |   
 ---|---|---|---|---  
-|  |   
+| | |   
   
-* * *
-
+Did you find this page helpful? Please share it...  
   
-
+[](http://www.sitesell.com/excessvoice.html)
