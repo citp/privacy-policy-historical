@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goxury.com privacy policy that was archived on 2009-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090424233107id_/http%3A//www.goxury.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goxury.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202082743id_/http%3A//www.goxury.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Notice : Goxury.com,Nike shoes store online,Hot sale Nike Airmax 2009,Airmax360,Airmax 90,Nike SB dunk shoes,adidas shoes,puma shoes,http://www.goxury.com, Goxury.com
 
