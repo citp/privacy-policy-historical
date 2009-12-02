@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheatgame.info privacy policy that was archived on 2009-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090610065435id_/http%3A//cheatgame.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheatgame.info privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202151650id_/http%3A//www.cheatgame.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Game Cheats For Your Gaming Cheats - Cheat Game dot Info
 
