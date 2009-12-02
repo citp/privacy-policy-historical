@@ -1,49 +1,42 @@
-> *The following text is extracted and transformed from the newamerica.net privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608231426id_/http%3A//www.newamerica.net/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newamerica.net privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202073935id_/http%3A//www.newamerica.net/about/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy for NewAmerica.net | The New America Foundation
+# Privacy Policy for NewAmerica.net | NewAmerica.net
 
 The New America Foundation is committed to protecting your online privacy. The following explains what information we collect about you, how we use it and what choices you have regarding this information. This policy applies to all information collected from or submitted to NewAmerica.net.
 
-## What We Know About You 
+## What We Know About You
 
-As with all Web sites, this site automatically recognizes your domain name, IP address, browser version, operating system and the referring site you passed through to reach our site. Any additional information you provide us -- such as your name, organization, address, telephone number, e-mail address and interests -- is collected only upon your request. You must, for example, provide such information whenever you sign up for our email newsletter or make an online contribution.   
+As with all Web sites, this site automatically recognizes your domain name, IP address, browser version, operating system and the referring site you passed through to reach our site. Any additional information you provide us -- such as your name, organization, address, telephone number, e-mail address and interests -- is collected only upon your request. You must, for example, provide such information whenever you sign up for our email newsletter or make an online contribution. 
 
+## How We Use "Cookies" and Why
 
-## How We Use "Cookies" and Why 
+Our site uses "cookies" to improve your navigation through the site and to help us make the site more useful to you. A "cookie" is a small text file on your computer's hard drive that our Web site uses to collect information about how you use our site. The cookie transmits this information back to our Web site each time you visit a page on our site, thus allowing us to identify our most popular pages, features and data. We can then use this information to improve our site to more effectively meet your needs. 
 
-Our site uses "cookies" to improve your navigation through the site and to help us make the site more useful to you. A "cookie" is a small text file on your computer's hard drive that our Web site uses to collect information about how you use our site. The cookie transmits this information back to our Web site each time you visit a page on our site, thus allowing us to identify our most popular pages, features and data. We can then use this information to improve our site to more effectively meet your needs.   
+## How We Use What We Learn
 
+Information we collect is used to improve the content of our sites and to provide you with information or support you've requested. Also, we compile and use this information so that we may keep you apprised of New America events or developments that may be of interest to you. 
 
-## How We Use What We Learn 
+## What We Tell Others About You
 
-Information we collect is used to improve the content of our sites and to provide you with information or support you've requested. Also, we compile and use this information so that we may keep you apprised of New America events or developments that may be of interest to you.   
-
-
-## What We Tell Others About You 
-
-We do not furnish to third parties the information that we gather or that you provide to us unless we are legally required to do so.   
-
+We do not furnish to third parties the information that we gather or that you provide to us unless we are legally required to do so. 
 
 ## Online Transactions
 
-If you make an online donation to New America, or use this website to purchase a print product that we sell directly, that transaction is made via PayPal. The entire process is encrypted, and we never see or have access to your credit card information. (A PayPal account is not required to make a purchase or donation by credit card.) 
+If you make an online donation to New America, or use this website to purchase a print product that we sell directly, that transaction is made via PayPal. The entire process is encrypted, and we never see or have access to your credit card information. (A PayPal account is not required to make a purchase or donation by credit card.)
 
-## Links to Other Sites 
+## Links to Other Sites
 
-This site contains links to other sites, including those produced by other organizations. New America is not responsible for the privacy practices or the contents of any outside sites. As a general rule, links to outside sites are launched in a new browser window, to make clear that you are leaving NewAmerica.net.  
+This site contains links to other sites, including those produced by other organizations. New America is not responsible for the privacy practices or the contents of any outside sites. As a general rule, links to outside sites are launched in a new browser window, to make clear that you are leaving NewAmerica.net.
 
+## Advertising
 
-## Advertising 
+New America does not accept or display online advertising, and therefore does not work with third-party advertising services. We do, however, promote our own events and publications in various places throughout the site.
 
-New America does not accept or display online advertising, and therefore does not work with third-party advertising services. We do, however, promote our own events and publications in various places throughout the site.  
+## Choices You Have
 
+If you wish to discontinue receiving communications from us at any time, please let us know by e-mailing, calling or writing us (see contact information below). Users who choose to not accept cookies are welcome to use our Web site, but certain features may not be fully available.
 
-## Choices You Have 
-
-If you wish to discontinue receiving communications from us at any time, please let us know by e-mailing, calling or writing us (see contact information below). Users who choose to not accept cookies are welcome to use our Web site, but certain features may not be fully available.  
-
-
-## Any Questions? 
+## Any Questions?
 
 For more information on our Privacy Policy, please contact New America via our online feedback form. For more information about Internet privacy in general, you may find one of the following links helpful:
 
@@ -61,8 +54,9 @@ For more information on our Privacy Policy, please contact New America via our o
 ## Contact Information
 
 The New America Foundation   
-1630 Connecticut Ave. N.W.   
-7th Floor   
-Washington, D.C. 20009  
+1899 L Street NW  
+4th Floor   
+Washington, D.C. 20036  
 202.986.2700   
-[website@newamerica.net ](mailto:website@newamerica.net)
+[website@newamerica.net ](mailto:website@newamerica.net)  
+ 
