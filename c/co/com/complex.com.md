@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the complex.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601211434id_/http%3A//www.complex.com/Corporate/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the complex.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202233855id_/http%3A//www.complex.com/Corporate/Privacy-Policy) for the most accurate reproduction.*
 
 # 
 
@@ -14,7 +14,7 @@ _Cookies:_ Cookies are small text files that contain a string of alphanumeric ch
 
 _Third Party Cookies:_ Complex also uses third party third party advertising companies to serve ads when you visit thiswebsite. These companies may use information about your visits to this website (not including your name, address, or other personal information) to provide advertisements on this website, other sites and other forms of media about goods and services that may be of interest to you. In providing advertisements, a unique third party cookie may be placed on your browser. Complex does not control or have access to these cookies. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/consumer/opt_out.asp)
 
-_Children:_ No visitor to this website under 18 years of age may submit and/or post any information to this website without the consent of a parent or guardian. Notwithstanding the foregoing, Complex does not seek to collect any personally identifiable information of children under 13 years of age and no such information should be submitted and/or posted to this website. 
+_Children:_ Notwithstanding the foregoing, Complex does not seek to collect any personally identifiable information of children under 13 years of age and no such information should be submitted and/or posted to this website. 
 
 _California Privacy Rights:_ Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask Complex for a notice identifying the categories of personal customer information which Complex shares with its affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: Complex Media, LLC, 40 West 23rd Street, New York, New York, 10010, Attn: General Counsel. In your request, please specify that you want a "Complex's California Privacy Rights Notice," and allow thirty (30) days for a response.
 
