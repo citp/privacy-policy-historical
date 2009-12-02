@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skybound.ca privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614112847id_/http%3A//www.skybound.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skybound.ca privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202224723id_/http%3A//www.skybound.ca/privacy) for the most accurate reproduction.*
 
 # Skybound's Home Page
 
