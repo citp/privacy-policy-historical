@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uploaded.tv privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531152448id_/http%3A//www.uploaded.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uploaded.tv privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202094337id_/http%3A//uploaded.tv/privacy) for the most accurate reproduction.*
 
 # UPLOADED.TV
 
