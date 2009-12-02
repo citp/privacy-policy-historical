@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outdoors.org privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627032204id_/http%3A//www.outdoors.org/about/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoors.org privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202150410id_/http%3A//www.outdoors.org/about/privacy-policy.cfm) for the most accurate reproduction.*
 
 # AMC: About the AMC - Privacy Policy
 
