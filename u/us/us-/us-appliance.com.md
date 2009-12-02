@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the us-appliance.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629012119id_/http%3A//www.us-appliance.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the us-appliance.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202150708id_/http%3A//www.us-appliance.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
@@ -6,7 +6,7 @@ _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering sys
 
 [](http://www.truste.com/ivalidate.php?url=www.us-appliance.com&sealid=101)
 
-**Privacy Statement for US Appliance** (last updated 06/15/2009) 
+**Privacy Statement for US Appliance®** (last updated 06/15/2009) 
 
 US Appliance is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for www.us-appliance.com. TRUSTe is an independent, organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this Web site has agreed to notify you of:  
 1\. What personally identifiable information of yours or third party personally identification is collected from you through the Web site  
@@ -42,7 +42,8 @@ This Web site utilizes framing techniques to make it appear that the user is sti
 
 A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. We use persistent cookies which remain on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. We set a persistent cookie to store your passwords, so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, may be limited. Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. 
 
-We use third-party tracking services that uses cookies to track non-personally identifiable information about visitors to our site in the aggregate, e.g., usage and volume statistics to measure advertising results. 
+We use third-party tracking services that uses cookies to track non-personally identifiable information about visitors to our site in the aggregate, e.g., usage and volume statistics to measure advertising results.  
+We use a third-party service provider to serve ads on our behalf across the Internet. They may collect anonymous information about your visits to our Web site, and your interaction with our products and services. They may also use information about your visits to this and other Web sites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service provider, please [click here.](http://www.networkadvertising.org/managing/opt_out.asp)
 
 Third-Party Web Beacons: We use third-party web beacons to help analyze where visitors go and what they do while visiting our Web site. They may also use anonymous information about your visits to this and other Web sites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com) or by Google Analytics, [click here](http://www.google.com/privacy_ads.html). 
 
