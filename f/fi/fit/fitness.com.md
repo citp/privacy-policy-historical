@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitness.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617193307id_/http%3A//www.fitness.com/fitness/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitness.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202023732id_/http%3A//www.fitness.com/fitness/privacy.php) for the most accurate reproduction.*
 
 # Fitness: Exercises, Fitness & Nutrition, and Fitness Articles
 
