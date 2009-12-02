@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123schoolsearch.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627214143id_/http%3A//www.123schoolsearch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123schoolsearch.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202074122id_/http%3A//www.123schoolsearch.com/privacy.html) for the most accurate reproduction.*
 
 # Welcome 123Schoolsearch.com
 
