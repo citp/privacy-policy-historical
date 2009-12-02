@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the trex.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525201745id_/http%3A//www.trex.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trex.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202181235id_/http%3A//www.trex.com/privacy.aspx) for the most accurate reproduction.*
 
 # Trex - Privacy Policy
 
-| 
+  
+|    
+
 
 Trex Company, Inc. ("Trex") is committed to protecting the privacy of Trex users’ personal information. This privacy policy applies with respect to the information that Trex collects from its Trex Web site, located at www.trex.com. Amendments to this privacy policy will be posted at this URL and will be effective when posted. Your continued use of this site following the posting of any amendment, modification or change shall constitute your acceptance of the terms thereof.
 
@@ -36,6 +38,6 @@ Trex allows its users the option to change or modify information previously prov
 
 CONTACTING US
 
-If you have any questions about this privacy policy, the practices of this site, or your dealings with the Trex Web site, you can contact us at [ webmaster@trex.com](mailto:webmaster@trex.com?subject=Attention:%20Privacy%20Policy). The Terms of Use of the Trex Web site can be found at [www.trex.com/terms.aspx](https://web.archive.org/web/20090525201745id_/http%3A//www.trex.com/terms.aspx).   
+If you have any questions about this privacy policy, the practices of this site, or your dealings with the Trex Web site, you can contact us at [ webmaster@trex.com](mailto:webmaster@trex.com?subject=Attention:%20Privacy%20Policy). The Terms of Use of the Trex Web site can be found at [www.trex.com/terms.aspx](https://web.archive.org/web/20091202181235id_/http%3A//www.trex.com/terms.aspx).   
   
-© Copyright 1997-2009 Trex Company, Inc. All rights reserved.
+---|---
