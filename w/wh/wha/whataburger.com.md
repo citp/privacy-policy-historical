@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whataburger.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628233606id_/http%3A//www.whataburger.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whataburger.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202102236id_/http%3A//www.whataburger.com/privacy.php) for the most accurate reproduction.*
 
 # Whataburger
 
@@ -70,7 +70,7 @@ WE HAVE ATTEMPTED TO PUT IN PLACE APPROPRIATE PHYSICAL, ELECTRONIC, AND MANAGERI
 If you have questions about the privacy procedures employed at Whataburger, please write, e-mail or call us at:
 
 Whataburger.  
-One Whataburger Way  
-Corpus Christi, TX 78411  
-361-878-0650   
+300 Concord Plaza  
+San Antonio, TX 78216  
+210-476-6000   
 [privacy@Whataburger.com](mailto:privacy@Whataburger.com)
