@@ -1,103 +1,35 @@
-> *The following text is extracted and transformed from the edge-online.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501013130id_/http%3A//www.edge-online.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edge-online.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202055354id_/http%3A//www.futurenet.com/futureonline/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy | Edge Online
+# FutureNet - Privacy Policy
 
-Last Updated on December 20, 2007
+PRIVACY POLICY
 
-At Future US, Inc., a magazine, disc media and website publisher, we are interested in protecting your privacy. But sometimes we do need information to understand how to make our properties more interesting, more specialized and more successful, and this statement of privacy explains data collection and use in those situations. Please read the complete privacy statement.
+1\. General:  This website (the " **Website** ") and any information obtained through the Website or from other sources is stored on servers operated and maintained by or on behalf of Future Publishing Limited and its group companies (" **Future** ", " **we** " or " **us** "). 
 
-### **Non US Visitors:**
+Future is committed to protecting your privacy and we take our responsibilities regarding the security of information you provide to us very seriously. The purpose of this privacy policy is to inform you, as a visitor of this Website, what kinds of information we may gather about you when you visit the Website, how we may use that information, whether we disclose it to anyone, the choices you have regarding our use of that information and how you can correct that information. If you have any concerns, questions or comments about this privacy policy or the Website you can contact us by following the instructions set out in paragraph 12 of this privacy policy. 
 
-Our privacy policy is intended to meet the laws and requirements of the United States. If you are visiting from outside the United States any information you provide will be treated in accordance with the laws of the United States or, if the law in jurisdiction does not permit you to access our website, then you must not maintain access to it.
+2\. Future’s Use of Information:  In order to make use of certain services provided through the Website such as the forums, blogs, email newsletters, competitions and polls, you will need to register an account with us. When you do so, you will provide us with information about yourself and you will be able to select how we use your information for marketing purposes. You can update your marketing preferences at any time by following the instructions to amend your details in the account registration section. We will only use your information in accordance with your instructions and as set out in this privacy policy. 
 
-### **Collecting your Personal Information:**
+If you ask us to provide goods or services to you, we will use your information to provide those goods or services to you and to monitor our provision of those goods or services. We may also share your information with associated companies for marketing purposes. We or associated companies may contact you by mail, telephone, fax, email or by other electronic means with offers of goods and services or information that may be of interest to you. By providing us with your fax number, telephone numbers or email address you consent to being contacted by these methods for these purposes. If you do not want to receive marketing information from us or associated companies you can notify us of this as part of the registration process. Don’t worry – we won’t bombard you with lots of irrelevant information. You can stop receiving this information at any time by following the unsubscribe instructions on the correspondence you receive, by amending your marketing preferences, or by emailing [futurenet-webmaster@futurenet.co.uk](mailto:futurenet-webmaster@futurenet.co.uk), giving your email address and details of the information you no longer wish to receive. 
 
-We will ask you when we need information that personally identifies you (that is, your first and last name; your home or business address; your e-mail address; your telephone number; your gender) or allows us to contact you. Generally, this information is requested when you are asked to register before entering a contest, ordering e-mail newsletters, or if you subscribe to one of our magazines or properties, or elect to participate in a forum and/or a survey. Personal information collected by any of our websites often is limited to e-mail address, language, country or location, but may include other information when needed to provide a service to you.
+By providing us with your personal information, you consent to us processing your information as set out in this privacy policy, to our processing your sensitive personal data, such as health data and you also consent to our transferring your information to countries or jurisdictions which do not provide the same level of data protection as the UK, if necessary for these purposes. If we do make such a transfer, we will, if appropriate, put a contract in place to ensure that your information is protected. 
 
-For example: If you choose to subscribe to a magazine or e-mail newsletter, we may request personal information such as: name, address, telephone number, and shipping information.
+If you wish to take part in any poll or survey run through the Website, we will also use your information for the purposes specified in the poll or survey. We may also disclose non-personal, aggregated information we collect through the poll or survey to third parties. 
 
-### **Use of your Personal Information:**
+If you wish to take part in any promotion or competition run through the Website, we will also use your information for the purposes specified in the promotion or competition, to make sure you are eligible to enter the promotion or competition, to contact you if you have won a prize and for publicity purposes. 
 
-We may use your personal information for the following primary purposes:
+3\. Disclosure to third parties:  We will only pass your information on to associated third parties for the purpose of enabling them to send you information which may be of interest to you if you have indicated you are happy for us to do so in your marketing preferences. Don’t worry – we only ever pass on your contact details to third parties with your permission. 
 
-  * To help us create and deliver content most relevant to you.
-  * To alert you to special offers, updated information and other services.
-  * To help us determine if any modifications need to be made to our publications or with respect to our subscriptions.
-  * To contact you regarding participation in a reader survey.
+If any third party is organising and/or managing any promotion, competition, survey or poll run through the Website on our behalf, we may disclose your information to that third party to enable them to do so but they will be prohibited from using your information for any other purpose, unless you have given them specific consent. 
 
+Please note that if you upload or post any information to a public part of the Website, we may use it in accordance with our [terms and conditions of use](http://www.futurenet.com/futureonline/termsandconditions.asp) and it may be viewed and used by others. 
 
+4\. Maintenance and storage of information:  Your information is collected and stored on servers which are owned and maintained by or on behalf of Future and its group companies. We may keep your information for a reasonable period for the purposes set out in this privacy policy.  5\. Our email newsletters:  If you subscribe to receive one or more of our email newsletters you will need to register an account with us. We will provide those newsletter(s) to you free of charge, unless otherwise stated. 
 
-We may occasionally hire other companies to provide limited services on our behalf, including packaging, mailing and delivering purchases, answering customer questions about products or services, sending postal mail and processing event registration. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose.
+Our newsletters may contain promotions or advertisements relating to goods or services provided by us or our group companies and associated third parties from time to time. If at any time you wish to unsubscribe from an email newsletter you may do so by following the unsubscribe instructions on the newsletter, on the Website, or by emailing [futurenet-webmaster@futurenet.co.uk](mailto:futurenet-webmaster@futurenet.co.uk), giving them your email address and details of the newsletter you no longer wish to receive. 
 
-We also will occasionally share this information with third parties so that you may be informed of matters, services or products of interest to readers of our magazines.
+6\. Forums, chat rooms, blogs, message boards:  Please be aware that when you post public information to any forums, chat rooms, blogs, or message boards on or through the Website, that information can be accessed by the public and used to send you unsolicited communications. Future accepts no responsibility for this.  7\. Third party sites:  The Website contains links to third party websites. We may, on occasion, disclose non-personal aggregated information to the owners or providers of those third party websites. We link to a wide variety of other websites and we display advertisements from third parties on our Website. We are not responsible for the content or privacy policies of these websites or for third party advertisers, nor for the way in which information about their users is treated. In particular, unless expressly stated, we are not agents for those sites or advertisers nor are we authorised to make representations on their behalf.  8\. Cookies:  The Website automatically gathers certain information such as IP addresses and the number and frequency of visitors to the Website and individual web pages. This is collected using cookies and is used by us, for security and monitoring purposes, to manage the Website, to track usage, to improve the Website and to ensure the Website is as appealing to visitors as possible. Cookies are pieces of information that are stored by the browser on the hard drive of your computer. The Website also uses cookies to enable us and any person who advertises on the Website to provide features such as remembering certain information about you and your preferences so that we and they can deliver targeted advertisements which will be of most interest to you. Cookies can be deleted from your hard drive or you can configure your web browser so that it rejects cookies. To learn more about cookies and how to reject them, visit [www.aboutcookies.org](http://www.aboutcookies.org/). Rejection of cookies will not prevent you from using most of the features on the Website. If you experience any problems having deleted cookies, you should contact the supplier of your web browser. 
 
-We also will occasionally share this information with third parties so that you may be informed of matters, services or products of interest to readers of our magazines.
+We also include web beacons (also known as clear GIFs or web bugs) in our emails to track the success of our marketing campaigns. This means that if you open an email from us we can see which of the pages of our Website you have visited. Our web beacons do not store additional information on your computer but, by communicating with our cookies on your computer, they can tell us when you have opened our email. If you object to web beacons, we recommend that you follow the instructions for deleting existing cookies and disabling future cookies above. We will still know how many of our emails are opened and we will automatically receive your IP address, a unique identifier of your computer or other access device; but we will not identify you as an individual. 
 
-We will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on us; (b) protect and defend our rights or property; (c) act in urgent circumstances to protect the personal safety of users of any of our websites, or the public; and (d) comply with negotiated agreements in the event of a merger or sale of any of our products.
-
-### **Control of your Personal Information:**
-
-When you register on one of our websites, or otherwise give us personal information, we will not share that information with third parties without your permission, other than for the limited exceptions already listed. It will only be used for the purposes stated above.
-
-We will occasionally allow other companies to offer our customers information about their products and services. If you do not wish to receive any such mailings, you may send an e-mail to [webmaster@futureus.com](mailto:webmaster@futureus.com).
-
-### **Security of your Personal Information:**
-
-Future US, Inc., will use its best efforts to protect the security of your personal information and honor your choices for its intended use.
-
-Your personal information is never shared outside the company without your permission, except under conditions explained above.
-
-### **Email Correspondence:**
-
-We may respond to email sent directly to us or through a online submission form. This information and emails would only be shared with a third party in connection with a court order, sale of the website(s) to a third party or to defend a legal claim. These emails would only rarely be used for one time correspondence with that user. These e-mails are kept internally for our own day to day business purposes.
-
-### **Special Notification with respect to Children's Privacy  
-(Users under the age of 13):**
-
-In response to concerns about protecting children's privacy online, Congress enacted the Children's Online Privacy Protection Act of 1998 ("COPPA"), which sets forth rules and procedures governing the ways in which Web sites may collect, use and disclose any personal information for children under the age of 13. In accordance with our policy and COPPA regulations, we DO NOT:
-
-  * Request or knowingly collect personally identifiable online or offline contact information from users under 13 years of age;
-  * Knowingly use or share personal information from users under 13 years of age with third parties;
-  * Give children the ability to publicly post or otherwise distribute personally identifiable contact information;
-  * Entice children with the prospect of a special game, prize or other activity to divulge more information than is needed to participate in the activity.
-
-
-
-### **Use of Cookies:**
-
-To ensure we are publishing content customers need and want, we may elect to collect aggregated site-visitation statistics using cookies. We do not track individual's use of the site.
-
-### **Third Party Advertising:**
-
-We use third-party advertising companies to serve ads when you visit certain of our websites. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here:
-
-<http://www.networkadvertising.org/optout_nonppii.asp>
-
-Future US does not provide any personal information to a advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. Downloads or other content interacted with from third party advertisers is subject to the advertiser's privacy policies, not this one.
-
-Future US lets other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Future US's cookies.
-
-### **Third Party Cookies & IP Addresses:**
-
-In the course of serving advertisements to this site, our third-party ad server may place or recognize a unique "cookie" on your browser.
-
-Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising.
-
-Most browsers are automatically set to accept cookies. You can disable cookies or set your browser to alert you when cookies are being sent. However, some areas will not function properly if you do so. There are many sources for additional information about Internet cookies, and we encourage anyone concerned about the use of cookies to do more research on the topic so you can make an informed decision about accepting them from any site. As technology advances and cookies provide more functionality, we expect to utilize them in different ways.
-
-**_IP Address._** An Internet Protocol (IP) address is a unique string of numbers that is assigned to your computer by your Internet Service Provider. Web servers automatically identify your computer by its IP address. We will use your IP address to help diagnose problems with our server and to administer our site. Your IP address also may be used to gather broad demographic information. The IP address is not tied to any personally identifiable information
-
-If you have questions regarding this statement, you should contact [webmaster@futureus.com](mailto:webmaster@futureus.com).
-
-### **Changes to this Statement:**
-
-We will occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this Statement, we will notify you by placing prominent notice on the Web site.
-
-### **Contact Information:**
-
-We welcome your comments regarding this Statement of Privacy, please contact us by e-mail, or postal mail at
-
-Future US, Inc.   
-Attention: Webmaster   
-4000 Shoreline Court, Suite 400   
-South San Francisco, CA 94080
+9\. Security:  In accordance with our requirements under the Data Protection Act 1998, we will adopt appropriate security procedures to help prevent unauthorised access to your information. Neither Future nor any of its group companies shall be liable for any attempt to hack or crack or otherwise gain access to any part of this Website including any of your information.  10\. Usage of information:  We may use your information as set out in this privacy policy and in any other manner you expressly consent to us doing so, we may also use your information for any purpose if we are required to do so by any law or other regulatory or government authority, to enforce the [terms of use](http://www.futurenet.com/futureonline/termsandconditions.asp) or to enforce our rights, or to protect the safety of others. In particular, we may collect and use personal information for the purposes of investigating and, if necessary, removing any content about which we receive a complaint.  11\. Policy changes:  By using the Website you agree to the terms of this privacy policy and our [terms of use](http://www.futurenet.com/futureonline/termsandconditions.asp). We may amend this privacy policy and the [terms of use](http://www.futurenet.com/futureonline/termsandconditions.asp) from time to time. If we do so, we will post an updated version on the Website. You will be bound by the new terms upon your continued use of the Website.  12\. Contact details:  You are entitled to ask for a copy of the information we hold about you (for which we may charge a small fee) and to have any inaccuracies in your information corrected. If you have any general questions about the Website, you can contact us the Future New Media Team at Future Publishing Limited, Beauford Court, 30 Monmouth Street, Bath, BA1 2BW, telephone 00 44 1225 442244, email [futurenet–webmaster@futurenet.co.uk](mailto:futurenet%E2%80%93webmaster@futurenet.co.uk). If you have any questions about your information including what we hold and how it is used, you can contact us at [futurenet-webmaster@futurenet.co.uk](mailto:futurenet-webmaster@futurenet.co.uk). 
