@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moddb.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601073356id_/http%3A//www.moddb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moddb.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202014230id_/http%3A//www.moddb.com/privacy-policy) for the most accurate reproduction.*
 
 # Staff group - Mod DB
 
@@ -6,7 +6,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 ## The Information We Collect
 
-This notice applies to all information collected or submitted on any [Desura Network](http://www.desuranet.com/) website. On some pages, you can order advertising, make requests, and register / win competitions to receive materials. The types of personal information collected at these pages are:
+This notice applies to all information collected or submitted on any [DesuraNET](http://www.desuranet.com/) website. On some pages, you can order advertising, make requests, and register / win competitions to receive materials. The types of personal information collected at these pages are:
 
   * Name
   * Address
@@ -17,21 +17,21 @@ This notice applies to all information collected or submitted on any [Desura Net
 
 
 
-Mod DB may set and access Mod DB cookies on your computer. Mod DB lets other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Mod DB's cookies.
-
 ## The Way We Use Information
 
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.
+We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order. We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. You can register with our website if you would like to receive our catalog as well as updates on our new products and services.
 
-We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order.
+## Disclosing Information
 
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
+We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. We never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
-You can register with our website if you would like to receive our catalog as well as updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form.
+## Cookies
 
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
+Your Internet browser has the in-built facility for storing small files "cookies" that hold information which allows a website to recognise your account. Our website takes advantage of this facility to enhance your experience. You have the ability to prevent your computer from accepting cookies but, if you do, certain functionality on the website may be impaired.
 
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
+## Third Party
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 ## Our Refund Policy
 
@@ -51,6 +51,10 @@ You can access all your personally identifiable information that we collect onli
 
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
+## How You Can Remove Your Information
+
+You can [contact us](http://www.moddb.com/contact) if you would like your account closed. Once we have verified your identity, we can remove all your personal details and IP on request.
+
 ## Modification of Policy
 
 This policy may be modified at any time at the sole discretion of the Provider. Upon modification of this policy, the User has two weeks (14 days) to terminate their account with the Provider or it will constitute acceptance of the modifications.
@@ -59,4 +63,4 @@ This policy may be modified at any time at the sole discretion of the Provider. 
 
 Should you have other questions or concerns about these privacy policies, please contact Mod DB at [contact us](http://www.moddb.com/contact).
 
-Last Updated: March 19, 2009
+Last Updated: September 22, 2009
