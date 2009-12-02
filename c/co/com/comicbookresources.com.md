@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comicbookresources.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417150236id_/http%3A//www.comicbookresources.com/misc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comicbookresources.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202051350id_/http%3A//www.comicbookresources.com/misc/privacy) for the most accurate reproduction.*
 
 # Comic Book Resources > Privacy Policy
 
@@ -21,7 +21,7 @@ Ads: **CBR** 's advertising system delivers a one-time cookie to better track ad
 You can refuse cookies by turning them off in your browser. You do not need to have cookies turned on to use any **CBR** site. 
 
 **Advertising**  
-In addition to our directly sold advertising, we use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](https://web.archive.org/web/20090417150236id_/http%3A//www.comicbookresources.com/misc/\(http://networkadvertising.org/consumer/opt_out.asp). 
+In addition to our directly sold advertising, we use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://networkadvertising.org/consumer/opt_out.asp). 
 
 **Registration Information Usage**  
 Our site's registration form requires users to give us contact information (like their name and email address) and demographic information (like their zip code or age). We use customer contact information from the registration form to contact the user for administrative purposes only (i.e. updating their passwords, sending log-in information. etc.). Users may also opt-in to receive future offers and mailiers from CBR. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
