@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the revolvermaps.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531152704id_/http%3A//www.revolvermaps.com/%3Ftarget%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revolvermaps.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202071500id_/http%3A//www.revolvermaps.com/%3Ftarget%3Dprivacy) for the most accurate reproduction.*
 
 # Revolver Maps - Free 3D Visitor Maps
-
-[](http://www.addthis.com/bookmark.php?v=20)
 
   
 
@@ -20,9 +18,11 @@ In order to utilize the widget service no personal user information will be requ
   3. **Cookies/Web Beacons:**  
 A cookie is a small amount of data stored on the clients hard drive containing information about the client but no personal information about the user. Cookies are used to keep user information during a session for instance. Most wellknown browsers support cookies and provide options to disable the cookie service. 
 
-Revolvermaps.com makes no use of cookies, but the website uses third-party advertising companies to serve ads when you visit the website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
+Revolvermaps.com uses HTTP-cookies in order to ensure an advanced usability of the website. Therefore cookies are just utilized at client side. No information from cookies is collected and stored at the server. 
+
+Revolvermaps.com uses third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here.](http://www.google.com/privacy_ads.html).
 
 
 
 
-last update: March 31st, 2009
+last update: September 20th, 2009 
