@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the theahl.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616154509id_/http%3A//www.theahl.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theahl.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204003035id_/http%3A//theahl.com/privacy-policy-p137632) for the most accurate reproduction.*
 
-# theahl.com - The Official Web Site of the American Hockey League: Privacy Policy
+# TheAHL.com | The American Hockey League | Privacy Policy
 
-**Last Updated: June 2008**
+**_Last Updated: June 2008_**
 
-theahl.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. Please note this policy applies only to information collected by theahl.com online and does not impact information collected or used by theahl.com or its affiliates through other means.
+[TheAHL.com](http://www.theahl.com/) strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. Please note this policy applies only to information collected by theahl.com online and does not impact information collected or used by theahl.com or its affiliates through other means.
 
 **How we gather information from users.**
 
@@ -28,7 +28,7 @@ The quality information on theahl.com is supported by advertising revenue and a 
 
 **Affiliated sites, linked sites and advertisements.**
 
-theahl.com expects its partners, advertisers and third-party affiliates to respect the privacy of our users. However, third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a theahl.com page, certain content that is actually created or hosted by a third party. Also, through theahl.com you may be introduced to, or be able to access, information, Web sites, advertisements, features, contests or sweepstakes offered by other parties. theahl.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
+theahl.com expects its partners, advertisers and third-party affiliates to respect the privacy of our users. However, third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a theahl.com page, certain content that is actually created or hosted by a third party. Also, through TheAHL.com you may be introduced to, or be able to access, information, Web sites, advertisements, features, contests or sweepstakes offered by other parties. theahl.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
 
 While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Through features available on our site, third parties may use cookies or other technology to gather information. theahl.com does not control the use of this technology or the resulting information and is not responsible for any actions or policies of such third parties.
 
@@ -44,16 +44,16 @@ We can be reached by contacting:
 
 
 American Hockey League  
-Attn: theahl.com
+Attn: TheAHL.com
 
 One Monarch Place, Suite 2400  
 Springfield, MA 01144
 
-Email: **[info@theahl.com ](mailto:info@theahl.com)**
+E-mail: **[info@theahl.com ](mailto:info@theahl.com)**
 
 **Changes to this policy.**
 
-theahl.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
+TheAHL.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
 
 **Governing law.**
 
