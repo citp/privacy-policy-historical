@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the bizwiki.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531160942id_/http%3A//www.bizwiki.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizwiki.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203092829id_/http%3A//www.bizwiki.com/privacy.htm) for the most accurate reproduction.*
 
 # Bizwiki | Privacy Policy
-
-Bizwiki Privacy Policy
-
-* * *
 
 This privacy policy sets out how Bizwiki uses and protects any personal information that you submit to Bizwiki when you contact us, create an account or update your My Bizwiki profile.
 
@@ -13,8 +9,6 @@ Bizwiki is committed to ensuring that your privacy is protected. When you regist
 Bizwiki may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from Dec 1, 2008.
 
 What we collect
-
-* * *
 
 We may collect the following personal information:
 
@@ -27,11 +21,7 @@ We may collect the following personal information:
 
 What we do with the information we collect
 
-* * *
-
-We primarily collect this information to enable you to securely login to your My Bizwiki account in order to contribute to Bizwiki. Some of the information you choose to give us will be visible to other Bizwiki users such as your username and any sections of your My Bizwiki profile that you decide to fill in (other than the zip code which is not displayed publicly).
-
-Should you choose to give us your zip code we will not display it publicly. It will only be used to localize your personal search results.
+We primarily collect this information to enable you to securely login to your My Bizwiki account in order to contribute to Bizwiki. Some of the information you choose to give us will be visible to other Bizwiki users such as your username.
 
 Your email address will not be displayed publicly. It is used by Bizwiki in case you forget your password, and to send you information from Bizwiki that you have signed up to receive or may be interested in.
 
@@ -41,19 +31,15 @@ Other possible uses of the information include:
   * We may use the information to improve our products and services. 
   * We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
   * From time to time, we may also use your information to contact you for market research purposes. 
-  * We may use the information to customize the website according to your interests such as using your zip code to localize your search results. 
+  * We may use the information to customize the website according to your interests.
 
 
 
 Security
 
-* * *
-
 We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
 
 How we use cookies
-
-* * *
 
 A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
 
@@ -65,13 +51,9 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
 Links to other websites
 
-* * *
-
 The Bizwiki website contains links to other websites. We do not have any control over the websites. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
 Controlling your personal information
-
-* * *
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
