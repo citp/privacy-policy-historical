@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mightystudents.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611050500id_/http%3A//www.mightystudents.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mightystudents.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203103204id_/http%3A//www.mightystudents.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,14 +36,14 @@ All the transactions are handled by a secure server and discarded once the trans
 **Changes to the present privacy statement**  
 MightyStudents.com may amend the present privacy statement once in a while. Please visit regularly the current page to follow any changes in our privacy policy If you have any questions or comments about our privacy statement or practices, please contact us via email at [info AT mightystudents.com](mailto:info@mightystudents.com)
 
-[](https://web.archive.org/customer/registration)
-
 Testimonials
-
-Dave, Virginia  
-This site was extremely helpful because I was having a lot of trouble with my assignment. I ... 
 
 Thomas, Vancouver  
 Your site is my one stop shop for all of my reference papers and I use it frequently. Your d... 
 
+Margie, Arizona  
+I would recommend your site to anyone who is looking to save a lot of time and energy! I don't try ... 
+
 [Read more](https://web.archive.org/testimonials)
+
+[](https://web.archive.org/)
