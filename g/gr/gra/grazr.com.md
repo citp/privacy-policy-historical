@@ -1,22 +1,6 @@
-> *The following text is extracted and transformed from the grazr.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617194301id_/http%3A//www.grazr.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grazr.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203095726id_/http%3A//www.grazr.com/info/privacy.html) for the most accurate reproduction.*
 
-# Grazr Corp. Privacy Policy
-
-## Personal Registration Information
-
-You will be asked to provide certain personal information (such as a user name and email address) when you register an account at the Grazr.com site. This account allows you to upload and edit files on the site. We will not share this personal information with any third parties. 
-
-## Additional Information
-
-Once a member, you may provide additional information in the profile section, including but not limited to your name, photo, bio, location, and your personal web site, if you have one. Providing additional information beyond what is required at registration is entirely optional, but enables you to better identify yourself on the Grazr.com site. If you contact us by email through the Site, we may keep a record of your contact information and correspondence, and may use your email address, and any information that you provide to us in your message, to respond to you.
-
-## Content Uploaded to Site
-
-Any personal information or content that you voluntarily disclose online becomes publicly available and can be collected and used by others. Any lists of feeds or widgets that you create from these lists of feeds that you submit to Grazr.com may be redistributed through the Internet and other media channels, and may be viewed by the general public. 
-
-## Use of Cookies
-
-When you visit the Grazr.com site, we may send one or more cookies to your computer that uniquely identifies your browser. This is done for users who have chosen to log onto their registered account in order to upload or modify files. You can reset your web browser to refuse all cookies. If you do so, you will still be able to view the Grazr.com site, but the ability to create or log onto a registered account will be disabled. 
+# Grazr - Publish Widgets
 
 ## Server Logs and IP Addresses
 
@@ -24,7 +8,7 @@ The Grazr Web servers record general information about user activity to log file
 
 ## Third-party Advertisers, Links to Other Sites
 
-Grazr Corp allows other companies, called third-party ad servers or ad networks, to serve advertisements within the Grazr.com site. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Grazr.com site. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see.
+Grazr Corp allows other companies, called third-party ad servers or ad networks, to serve advertisements within the Grazr.com site and the Grazr widget. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Grazr.com site. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see.
 
 ## Business Transfers
 
@@ -42,6 +26,6 @@ This privacy policy may be revised periodically and this will be reflected by th
 
 ## Date Last Modified
 
-This Privacy Notice was last modified March 31, 2008.
+This Privacy Notice was last modified June 24, 2009.
 
 If you have any questions about our privacy policy please [contact](http://grazr.com/info/contact.html) us. 
