@@ -1,24 +1,10 @@
-> *The following text is extracted and transformed from the teamofgreekz.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604001327id_/http%3A//www.teamofgreekz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamofgreekz.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203110927id_/http%3A//www.teamofgreekz.com/privacy.php) for the most accurate reproduction.*
 
 # TeamOfGreekz.com - Mono Ellhnika
 
-|  | [ ](https://web.archive.org/web/20090604001327id_/http%3A//www.teamofgreekz.com/index.php) | [](https://web.archive.org/web/20090604001327id_/http%3A//www.teamofgreekz.com/index.php) | [](https://web.archive.org/web/20090604001327id_/http%3A//www.teamofgreekz.com/my.php) | [](https://web.archive.org/web/20090604001327id_/http%3A//www.teamofgreekz.com/signup.php) | [](https://web.archive.org/web/20090604001327id_/http%3A//www.teamofgreekz.com/browse.php) | [](https://web.archive.org/web/20090604001327id_/http%3A//www.teamofgreekz.com/faq.php) | [](https://web.archive.org/web/20090604001327id_/http%3A//www.teamofgreekz.com/forums.php) |   
-  
----|---|---|---|---|---|---|---  
-  
-| 
+|  | 
 
-| 
-
-  * Γίνε VIP Member και βοήθα μας να πληρώσουμε τους κόστους για τον Server, το Traffic κλπ. 
-  * Ως VIP παίρνεις δώρο πόντους, GB Upload ratio κλπ. Επίσης δεν θα βλέπεις τους διαφημίσεις στον tracker. Δεν θα έχεις όριο στο κατέβασμα καθώς απεριόριστα download Slots.
-  * [Μάθε το εδώ πιο αναλυτικά](https://web.archive.org/web/20090604001327id_/http%3A//www.teamofgreekz.com/donate.php)
-
-  
-  
----  
-  
-**Registration**  
+| **Registration**  
 ---  
 Some basic personal information is required in order to register with TeamOfGreekz.com: 
 
@@ -48,7 +34,4 @@ TeamOfGreekz.com' site has security measures in place to protect the loss, misus
 **Termination**  
 You can elect to terminate your membership with TeamOfGreekz.com at any time. Simply go to your Profilepage, scroll down to the "Account" menu on the left-hand side of the page, and select the "Preferences" link. On the "Preferences" page and scroll down to the "Account Status" section. Check the box next to "Want to cancel your account?" and scroll down to the bottom of the page to the "Submit" button. Click on the "Submit" button to cancel your account. Upon termination, your account information will _not_ necessarily be removed entirely from TeamOfGreekz.com - this is to reserve your identity so that no one else can create a new account with your membername or email address, and also allows you the privilege of reactivating your account at a later date if you wish to use TeamOfGreekz.com again. The termination of your TeamOfGreekz.com membership will not automatically terminate any affiliated memberships or registrations you have formed through TeamOfGreekz.com. If, after having joined a TeamOfGreekz.com partner's service, you wish to be removed, you should contact that service directly to have your membership terminated.   
 **Summary**  
-In this electronic era, when personal information can easily be obtained through various sources, TeamOfGreekz.com appreciates the sensitivity of any private information that you disclose to us. It is our intention to treat your account information with the highest level of care.   
-  
-  
-
+In this electronic era, when personal information can easily be obtained through various sources, TeamOfGreekz.com appreciates the sensitivity of any private information that you disclose to us. It is our intention to treat your account information with the highest level of care. 
