@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the theanswerbank.co.uk privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620132835id_/http%3A//www.theanswerbank.co.uk/Info/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theanswerbank.co.uk privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203045115id_/http%3A//www.theanswerbank.co.uk/Info/PrivacyPolicy) for the most accurate reproduction.*
 
-# The AnswerBank: Privacy Policy
+# The AnswerBank - post questions and answers, and discuss topics of interest.
 
-[ ](https://web.archive.org/)
+## Privacy Policy
 
 The following provides details about our Privacy Policy. This policy only applies to The AnswerBank website and not to the websites of other companies, individuals or organisations to which we provide links.  
 In general, we use the personal information that we collect from you to increase the efficiency of this site for you. 
