@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenpeace.org privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604091058id_/http%3A//www.greenpeace.org/usa/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenpeace.org privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203070236id_/http%3A//www.greenpeace.org/usa/footer/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Greenpeace USA
 
@@ -65,4 +65,4 @@ Under the Fair Credit Billing Act, your bank cannot hold you liable for more tha
 
 **What do I do if I have questions that aren't answered here?**
 
-If you have any questions about this privacy statement, the practices of this site or your dealings with this Web site, please [contact us.](http://www.greenpeace.org/usa/footer/help)
+If you have any questions about this privacy statement, the practices of this site or your dealings with this Web site, please [contact us.](http://www.greenpeace.org/usa/about/contact)
