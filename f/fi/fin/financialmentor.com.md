@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financialmentor.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629231853id_/http%3A//financialmentor.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialmentor.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203133116id_/http%3A//financialmentor.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FinancialMentor.Com
 
