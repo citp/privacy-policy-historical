@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the propertyleo.com privacy policy that was archived on 2009-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090507082937id_/http%3A//www.propertyleo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyleo.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203133842id_/http%3A//propertyleo.com/privacy.php) for the most accurate reproduction.*
 
-# Kenya property, Real Estate,Houses,Apartments,Sale,Lettings,
+# Property kenya,real estate , Holiday lettings, Commercial, Residential, Houses, Apartments, Sale, Lettings
 
 ### Propertyleo privacy policy
 
