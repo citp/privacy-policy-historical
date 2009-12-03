@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softwebsolutions.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619220455id_/http%3A//www.softwebsolutions.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwebsolutions.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203054515id_/http%3A//www.softwebsolutions.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Softweb Solutions
 
@@ -31,4 +31,4 @@ We have taken careful measures to ensure the integrity and security of your data
 Acceptance of Softweb Solutions' Online Privacy Policy  
 By using this site, you agree to Softweb Solutions' online privacy policy. If you do not agree to this policy, please do not use this site. We may change or modify this policy without notice, please check back periodically.
 
-[](https://web.archive.org/web/20090619220455id_/http%3A//www.softwebsolutions.com/request_a_quote.aspx "Request A Quote")
+[](https://web.archive.org/web/20091203054515id_/http%3A//www.softwebsolutions.com/request_a_quote.aspx "Request A Quote")
