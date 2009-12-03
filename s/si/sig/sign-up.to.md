@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sign-up.to privacy policy that was archived on 2009-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090411090715id_/http%3A//www.sign-up.to/html/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sign-up.to privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203110852id_/http%3A//www.sign-up.to/legal/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Sign-Up.to
 
@@ -10,7 +10,7 @@ As a subscriber to a company who uses Sign-Up.to you have complete access to dat
 
 That's the short version. Because our lawyers like to earn their fees, they insisted that we also have the long version below...
 
-Sign-Up Technologies Limited (referred to in this Privacy Policy as "SuTL", "we", "us" or "our") is committed to protecting your privacy. This Privacy Policy explains how we use the information we collect about you through Sign-UpT, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy. This Privacy Policy forms part of the [Terms of Use ](http://www.sign-up.to/html/consumer/terms.shtml)
+Sign-Up Technologies Limited (referred to in this Privacy Policy as "SuTL", "we", "us" or "our") is committed to protecting your privacy. This Privacy Policy explains how we use the information we collect about you through Sign-UpT, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy. This Privacy Policy forms part of the [Terms of Use ](https://web.archive.org/web/20091203110852id_/http%3A//www.sign-up.to/legal/consumer.php)
 
 **1\. Contact details**
 
@@ -62,6 +62,8 @@ The Sign-Up website (the "Site") and the Sign-Up data processing services (toget
 **9\. Other websites**
 
 9.1 Our Site may contain links to other websites which are outside our control and are not covered by this Privacy Policy. If you access other websites using the links provided, the operators of these websites may collect information from you which will be used by them in accordance with their privacy practices, which may differ from ours. 
+
+9.2 This site uses a tool that collects your requests for pages and passes elements of them to search engines to assist them in indexing this site. We control the configuration of the tool and are responsible for any information sent to the search engines.
 
 **10\. Updating your details**
 
