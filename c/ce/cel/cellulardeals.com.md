@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cellulardeals.com privacy policy that was archived on 2009-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090331080858id_/http%3A//shop.cellulardeals.com/help/privacyPolicy.aspx%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellulardeals.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203165217id_/http%3A//shop.cellulardeals.com/help/privacyPolicy.aspx%3F) for the most accurate reproduction.*
 
 # Privacy Policy
 
