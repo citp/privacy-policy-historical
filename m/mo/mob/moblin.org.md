@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moblin.org privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622051921id_/http%3A//moblin.org/about-moblin/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moblin.org privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203071020id_/http%3A//moblin.org/about-moblin/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | moblin.org
 
