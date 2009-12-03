@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the neatorama.com privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529185842id_/http%3A//www.neatorama.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neatorama.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203130245id_/http%3A//www.neatorama.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Neatorama
+# Privacy Policy – Neatorama
 
 At Neatorama.com, we appreciate your readership and respect your privacy. This privacy policy governs the way we collect and use your personal information. This policy may be revised or updated at any time, so please check back often to find the latest version.
 
@@ -8,7 +8,7 @@ At Neatorama.com, we appreciate your readership and respect your privacy. This p
 
 Neatorama.com has four main parts: blog, forum, Upcoming Queue, and online shop. You may register a username in order to comment on the blog, though you are not required to do so (i.e. you can comment without registering a username). You are required to register a username in order to post in the forum, and submit a post or comment in the Upcoming Queue. For username registration, a valid email address is required to confirm your account. Regardless of whether you register a username or not, your IP address is recorded when you comment as part of our effort to combat spam and inappropriate comments.
 
-The blog has an "email this post to your friend" feature that lets you send a particular post in email format to up to 5 email addresses. To use this feature, we require that you provide your name and email addresses, as well as the names and email addresses of the persons you are sending the post. These information is recorded electronically and purged periodically. We do not keep these personal information and do not use it for any purpose other than to compile an aggregate statistical information (i.e. how many posts were emailed - not to or by whom).
+The blog has an "email this post to your friend" feature that lets you send a particular post in email format to up to 5 email addresses. To use this feature, we require that you provide your name and email addresses, as well as the names and email addresses of the persons you are sending the post. These information is recorded electronically and purged periodically. We do not keep these personal information and do not use it for any purpose other than to compile an aggregate statistical information (i.e. how many posts were emailed – not to or by whom).
 
 In order to process and ship your order, we require your personal information such as name, address, and telephone number, as well as financial information such as credit card number and expiration date. You may register a username in the online shop (for security purpose, this is separate from the blog/forum/Upcoming Queue username). This allows you to track the progress of your order. You may also place an order through a quick checkout procedure (without prior registration of a username). If we have trouble processing your order, we will use this information to contact you.
 
