@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the parentree.in privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525220139id_/http%3A//www.parentree.in/info/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parentree.in privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203130029id_/http%3A//www.parentree.in/info/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Parentree
 
----  
 Privacy-policy  
 Last updated: 7/30/2008 5:00PM IST  
    
@@ -55,7 +54,7 @@ All content you contribute to the Sites, except to discussions in private groups
 
 When you generate content (journals, comments, discussions, reviews, ratings) automatic updates are sent to Members who you have specifically accepted as your friends. These updates cannot be turned off. 
 
-To understand this in granular detail, please access the Help pages at [http://www.parentree.in/Help](http://www.parentree.in/parentree-help.html), which are incorporated herein by reference.
+To understand this in granular detail, please access the Help pages at [http://www.parentree.in/Help](http://www.parentree.in/info/help.html), which are incorporated herein by reference.
 
 Any enhanced personal profile information you choose to provide should reflect how much you want Members to know about you.  We recommend that you guard your sensitive information and we encourage Members to think carefully about what information about themselves they disclose in their enhanced personal profile pages and in the content they post. You can review and revise your profile information at any time.   
   
