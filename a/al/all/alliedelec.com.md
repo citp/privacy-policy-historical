@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alliedelec.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621204738id_/http%3A//www.alliedelec.com/CustomerService/LegalPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alliedelec.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204005645id_/http%3A//www.alliedelec.com/customerservice/legalprivacy.aspx) for the most accurate reproduction.*
 
 # Allied Electronics - Privacy Policy
 
@@ -60,4 +60,6 @@ Site Technologies
 
 Allied Electronics does not provide the technologies used to build its site, and therefore neither recommends nor endorses the same. Any information regarding identified technologies, their capabilities, limitations, applications, etc., should be sought directly from their manufacturers. Allied Electronics hereby disclaims any rights to trademarks, service marks, tradenames, logos, copyrights, patents, domain names or other intellectual property interests of third parties. 
 
-If you have any questions or comments about our privacy practices, and the use of cookies, please send email to: [webmaster@alliedelec.com](mailto:webmaster@alliedelec.com)
+If you have any questions or comments about our privacy practices, and the use of cookies, please send email to: 
+
+[Allied Electronics](mailto:Allied%20Electronics%3CWebSupport@AlliedElec.com%3E)
