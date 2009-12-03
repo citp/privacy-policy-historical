@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fatface.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217070940id_/http%3A//www.fatface.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatface.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203111833id_/http%3A//www.fatface.com/Privacy-Statement/page/privacy) for the most accurate reproduction.*
 
-# Fat Face - Privacy Statement
+# Privacy Statement at Fat Face
 
 We always try to protect your personal privacy and this privacy statement is here to help you understand what we may do with any information you tell us about. This privacy statement only relates to our website and does not extend to your use of the Internet outside of our website or to any websites that are linked to our website.
 
