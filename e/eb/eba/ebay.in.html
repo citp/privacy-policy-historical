@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ebay.in privacy policy that was archived on 2009-03-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090315101139id_/http%3A//pages.ebay.in/help/policies/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ebay.in privacy policy that was archived on 2009-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091203052351id_/http%3A//pages.ebay.in/help/policies/privacy-policy.html) for the most accurate reproduction.-->
 
 <html><head>
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -7,103 +7,7 @@
 				var isXconPage = "This is an xCon page\n" + "asset id: Help.Page.policies_privacy_policy" + "\n";
 				//--></script><!--Page type : Leaf--><div align="center"><div class="contentContainer"><script language="JavaScript"><!--
 						var noCobrandHeader = true;
-						//--></script><div id="HelpHeader"><!--H=header5_0--><link rel="stylesheet" type="text/css" href="http://include.ebaystatic.com/v4css/en_IN/v/GlobalNav14_EbayStatic_v_en_IN.css"><!--cacheStatus: false--><script>var _GlobalNavHeaderUtf8Encoding=true;</script><script>var _GH_Bta_PC=true;</script><script>var _GlobalNavHeaderCookieTracking=true;</script><script>var _GlobalNavHeaderAppendKW=true;</script><script>var _GlobalNavHeaderStatic=true;</script><script src="http://include.ebaystatic.com/v4js/en_IN/v/SYS14_vjo_v_1_en_IN.js"></script><script src="http://include.ebaystatic.com/v4js/en_IN/v/GlobalNav14_EbayStatic_v_1_en_IN.js"></script><script>vjo.needs("vjo.dsf.EventDispatcher");
-vjo.needs("vjo.dsf.utils.URL");
-vjo.needs("vjo.dsf.cookie.VjCookieJar");
-vjo.type("vjo.darwin.tracking.enabler.TrackingEnablerUtil")
-.props({
-
-
-	seekParent :function(elem,levels) {
-		if (!elem ||!elem.tagName){
-			return "";
-		}
-		if (elem.tagName.toLowerCase() == "a" ||elem.tagName.toLowerCase() == "area") {
-			return elem;
-		}
-		
-		if( elem.tagName.toUpperCase()== 'INPUT'&& elem.getAttribute('type') && elem.getAttribute('type').toUpperCase()=='SUBMIT'){
-			return elem;
-		}
-		if( levels>0) {
-			return this.seekParent(elem.parentNode,levels-1);
-		}else {
-			return "";
-		}
-
-	
-	},
-	
-	splitParm :function(url) {
-		var v=[0,0,0,0];
-		var f = url.split(".");
-		for (var i=0;i<f.length;i++) {
-			var s=f[i].substr(0,1);
-			if (s=="p") {
-				v[0]=f[i].substr(1);
-			}
-			if (s=="c") {
-				v[1]=f[i].substr(1);
-			}
-			if (s=="m") {
-				v[2]=f[i].substr(1);
-			}
-			if (s=="l") {
-				v[3]=f[i].substr(1);
-			}
-		}		
-		return v;
-	},
-	
-	enc:function(i){
-		var 	A = [ '0', '1', '2', '3', '4','5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H','I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U','V', 'W', 'X', 'Y', 'Z'] ;
-		var P="z";
-		var b36 = "";
-		var B=A.length;
-		
-		var idx;
-		if (i===0) {
-			return P;
-		}
-		while (i >= B) {
-
-			idx = i % B;
-
-			b36 = A[idx] + b36;
-
-			i = i / B | 0;
-
-		}
-
-		b36 = A[i] + b36;
-
-		return b36;
-	},
-	
-	checkSiteDomain : function(url){
-		var dd=document.domain,i=dd.indexOf(".ebay."); 
-		if(i!=-1)
-		{
-			dd = dd.substr(i+1);
-		}
-		
-         if(url && url.length>0) {
-         	//relative links
-         	if (url.charAt(0)=="/") {
-         		return true;
-         	}else  if ( url.indexOf(dd)==-1){
-	         	return false;
-	        }
-	        return true;
-         }
-		
-		return dd;
-    }	
-	
-})
-
-.endType();
-</script><script type="text/javascript">vjo.ctype("vjo.darwin.core.ebayheader.cart.Cart")
+						//--></script><div id="HelpHeader"><!--H=header5_0--><link rel="stylesheet" type="text/css" href="http://include.ebaystatic.com/v4css/en_IN/v/GH-LIGER_EbayStatic_v_en_IN.css"><!--cacheStatus: false--><script>var _GlobalNavHeaderUtf8Encoding=true;</script><script src="http://include.ebaystatic.com/v4js/en_IN/v/SYS-LIGER_vjo_v_1_en_IN.js"></script><script src="http://include.ebaystatic.com/v4js/en_IN/v/GH-LIGER_EbayStatic_v_1_en_IN.js"></script><script type="text/javascript">vjo.ctype("vjo.darwin.core.ebayheader.cart.Cart")
 .needs(["vjo.dsf.typeextensions.string.Comparison",
 		"vjo.dsf.cookie.VjCookieJar",
 		"vjo.dsf.document.Element",
@@ -144,7 +48,7 @@ vjo.type("vjo.darwin.tracking.enabler.TrackingEnablerUtil")
 	
     //> private void isSignedIn()
 	isSignedIn : function() {
-		var c = vjo.dsf.cookie.VjCookieJar.readCookie("ebaysignin");
+		var c = this.vj$.VjCookieJar.readCookie("ebaysignin");
 		return c && c.is('in');
 	},
 	
@@ -162,7 +66,7 @@ vjo.type("vjo.darwin.tracking.enabler.TrackingEnablerUtil")
 		sc.sCartLink = pCartLink;	
 		// read ebx
 		if(!sc.isSignedIn()) return;
-		var oL = vjo.dsf.document.Element.get(sc.sId),c;
+		var oL = this.vj$.Element.get(sc.sId),c;
 		if(oL && sc.isCartReadDone()) {
 			c = sc.getCount();
 			if (c > 0 && !sc.bUpdated) {
@@ -174,34 +78,26 @@ vjo.type("vjo.darwin.tracking.enabler.TrackingEnablerUtil")
 	
     //> private void isCartReadDone()
 	isCartReadDone : function() {
-		var c = vjo.dsf.cookie.VjCookieJar.readCookie("ebay","sbf");
+    	var VJ=this.vj$.VjCookieJar;
+		var c = VJ.readCookie("ebay","sbf");
 		if(c=='true')
 		{return true;}
 		else
-		return vjo.dsf.cookie.VjCookieJar.getBitFlag(c,22) == 1;
+		return VJ.getBitFlag(c,22) == 1;
 	},
 	
     //> private void getCount()
 	getCount : function() {
-		return vjo.dsf.cookie.VjCookieJar.readCookie("dp1","exc") || "";
+		return this.vj$.VjCookieJar.readCookie("dp1","exc") || "";
 	}
 })
 .endType();
 
-</script><script type="text/javascript">(function () {
-var _r = vjo.Registry;
-_r.put('gnh_0',new vjo.darwin.core.express.ExpressCrossLinking("divCrossLink", "", "(<#1#>)", new Array('0','1','77','3'), new Array('ebay.com','ebay.com','ebay.de','ebay.co.uk'), new Array('from=R44','fromZR44'), "")); })();
-(function(){
+</script><script type="text/javascript">(function(){
 var _d=vjo.dsf.EventDispatcher;
 var _r=vjo.Registry;
-_d.add('body','load',function(event) { this.update("glb_cart", "http://orders.ebay.in/ws/eBayISAPI.dll?ShoppingCartMgmt"); },vjo.darwin.core.ebayheader.cart.Cart);_d.add('body','load',function(event) { this.init(); },_r._gnh_0);})();
-</script><span class="ebay"><div id="gnheader" class="gbhdr"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><!-- headerType=HALF:DEFAULT:HELP--><style type="text/css">div.pnav td#helpitem a:active, div.pnav td#helpitem a:link, div.pnav td#helpitem a:visited {background:url(http://pics.ebaystatic.com/aw/pics/globalHeader/imgHdrMainNavBgHighlight.gif) repeat-x bottom right;}div.pnav td#helpitem.fc a:active, div.pnav td#helpitem.fc a:link, div.pnav td#helpitem.fc a:visited {background:url(http://pics.ebaystatic.com/aw/pics/globalHeader/imgHdrMainNavLftHighlight.gif) no-repeat bottom left;}div.pnav td#helpitem.lc a:active, div.pnav td#helpitem.lc a:link, div.pnav td#helpitem.lc a:visited {background:url(http://pics.ebaystatic.com/aw/pics/globalHeader/imgHdrMainNavRgtHighlight.gif) no-repeat bottom right;}div.pnavEx td#helpitem a:active, div.pnavEx td#helpitem a:link, div.pnavEx td#helpitem a:visited {background:url(http://pics.ebaystatic.com/aw/pics/globalHeader/imgHdrMainNavBgHighlight.gif) repeat-x bottom right;}div.pnavEx td#helpitem.fc a:active, div.pnavEx td#helpitem.fc a:link, div.pnavEx td#helpitem.fc a:visited {background:url(http://pics.ebaystatic.com/aw/pics/globalHeader/imgHdrMainNavLftHighlight.gif) no-repeat bottom left;}div.pnavEx td#helpitem.lc a:active, div.pnavEx td#helpitem.lc a:link, div.pnavEx td#helpitem.lc a:visited {background:url(http://pics.ebaystatic.com/aw/pics/globalHeader/imgHdrMainNavRgtHighlight.gif) no-repeat bottom right;}</style><div id="cobrandHeader"></div><div id="dynamicmenu-hdrCtr" class="hdrCtr"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="logobar"><tbody><tr><td width="1%" valign="bottom" class="logoimg"><a href="http://www.ebay.in" rel="nofollow"> <img src="http://pics.ebaystatic.com/aw/pics/in/logos/logoEbay_x45.gif" alt="From collectables to cars, buy and sell all kinds of items on eBay" border="0"></a></td><td valign="bottom" width="2%" class="mr"><span class="greeting"><script type="text/javascript">vjo.darwin.core.greetings.VjGreetingsClient.writePersonalHeader("Sign in", "https://signin.ebay.in/ws/eBayISAPI.dll?SignIn", "register", "https://scgi.ebay.in/ws/eBayISAPI.dll?RegisterEnterInfo", "Sign out", "https://signin.ebay.in/ws/eBayISAPI.dll?SignIn", "Welcome! ##1## or ##2##", "Hi, ##3## (##1##)! ##2##", "Hi, (##1##)! Not you? ##2##", "Hello! <a href=\"https://signin.ebay.in/ws/eBayISAPI.dll?SignIn\">Sign in/out<\/a>.", "<img src=\"http://pics.ebaystatic.com/aw/pics/in/icon/iconWarnRed_16x16.gif\" height=\"16\" width=\"16\">", "<span id=\"bta\">##1##<\/span>", " | You have <a href=\"http://my.ebay.in/ws/eBayISAPI.dll?MyEbay&amp;CurrentPage=MyeBayMyMessages\"> ##1## alert<\/a>.", " | You have <a href=\"http://my.ebay.in/ws/eBayISAPI.dll?MyEbay&amp;CurrentPage=MyeBayMyMessages\"> ##1## alerts<\/a>.", "1", "", true)</script></span></td><td id="rbt" valign="bottom" style="display:none"><span class="coupon rebate"><img src="http://pics.ebaystatic.com/aw/pics/promo/magic/pmoGleam10_150x23.gif" alt="" height="23" width="150" style="margin-right:5px;"><!--googleoff: all--><span>Must use Buy It Now and PayPal.<br> <a href="http://pages.ebay.in/cashbackoffer/terms.html" target="_blank">See conditions</a></span><!--googleon: all--><script type="text/javascript">vjo.darwin.core.ebayheader.rebate.Rebate.Refresh("rbt", "10", "<img src=\"http://pics.ebaystatic.com/aw/pics/icons/iconRedeemCoupon20x20.gif\" border=\"0\" height=\"20\" width=\"20\"><\/img> <a href=\"http://my.ebay.in/ws/eBayISAPI.dll?MyeBay&amp;CurrentPage=MyeBayIncentives&amp;gbh=1\">You have coupons available<\/a>")</script></span></td><td align="right" valign="bottom"><div class="addllinks"><img src="http://pics.ebaystatic.com/aw/pics/in/cart.gif" height="15" width="15"> <a href="http://orders.ebay.in/ws/eBayISAPI.dll?ShoppingCartMgmt">My Shopping Cart</a><span id="glb_cart"></span><script type="text/javascript">vjo.darwin.core.ebayheader.cart.Cart.init("glb_cart", "http://payments.ebay.in/ws/eBayISAPI.dll?GetCartDetails", "http://orders.ebay.in/ws/eBayISAPI.dll?ShoppingCartMgmt");</script> | <a href="http://orders.ebay.in/ws/eBayISAPI.dll?MyPaisaPaySummary">My PaisaPay</a> | <a href="http://pages.ebay.in/help/contact_us/_base/index.html">Contact Us</a> | <a href="http://pages.ebay.in/sitemap.html">Site Map</a></div></td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="brnd1"></td><td class="brnd2"></td><td class="brnd3"></td><td class="brnd4"></td><td class="brnd5"></td><td class="brnd6"></td><td class="brnd7"></td></tr><tr><td class="brnd8"></td><td class="brnd8"></td><td class="brnd8"></td><td class="brnd8"></td><td class="brnd8"></td><td class="brnd8"></td><td class="brnd8"></td></tr></tbody></table><div class="snav"><div class="snavE"><div class="snavW" id="dynamicmenu-snavW"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td width="1%" class="snav"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td id="browsecategoriesitem" class="fc"><a id="BrowseCategories" href="http://listings.ebay.in/">Categories <img src="http://pics.ebaystatic.com/aw/pics/in/globalHeader/imgHdrDropDownIcon.gif" border="0" height="6" width="6"></a></td><td id="ebaymotorsitem"></td><td id="enayexpressitem"></td><td id="ebaystoresitem"><a title="Find more of what you love." href="http://stores.ebay.in/">Shops</a></td><td id="item"></td><td id="item" class="lc"></td></tr></tbody></table></td><td width="100%" class="poweredBy"><div id="rtm_html_876"></div></td><td class="poweredBy" width="1%" align="right"><div id="rtm_html_433"></div></td></tr></tbody></table></div></div></div><div class="pnavEx"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><form method="get" action="http://search.ebay.in/search/search.dll" act="http://search.ebay.in/search/search.dll" name="headerSearch" id="headerSearch"><input type="hidden" name="from" value="R40"><input type="hidden" name="_trksid" value="m37"><table id="gh_miniSrhBox" cellpadding="0" cellspacing="0" border="0" class="srchBox"><tbody><tr><td class="fc"><input value="" type="text" name="satitle" size="15" maxlength="300" tabindex="1" id="satitle"></td><td><input type="submit" value="Search" tabindex="2"></td><td class="lc"><a id="AdvSearchId" href="http://search.ebay.in/ws/search/AdvSearch?sofindtype=13" rel="nofollow" tabindex="3">Advanced Search</a></td></tr></tbody></table></form></td><td><table cellpadding="0" cellspacing="0" border="0" class="pnav"><tbody><tr><td id="buyitem" class="fc"><a id="Buy" href="http://hub.ebay.in/buy">Buy</a></td><td id="sellitem"><a href="http://sell.ebay.in/sell" id="Sell">Sell</a></td><td id="myebayitem"><a href="http://my.ebay.in/ws/eBayISAPI.dll?MyEbay&amp;gbh=1" rel="nofollow" id="MyEbay">My eBay</a></td><td id="communityitem"><a href="http://hub.ebay.in/community" id="Community">Community</a></td><td id="helpitem" class="lc"><a href="http://pages.ebay.in/help/index.html" id="Help">Help</a></td></tr></tbody></table></td></tr></tbody></table></div></div><script type="text/javascript">var includeHost="http://include.ebaystatic.com/";</script><script src="http://include.ebaystatic.com/js/v/in/ebaybase_v4.js"></script><script src="http://include.ebaystatic.com/js/v/in/ebaysup.js"></script><script type="text/javascript">ebay.oDocument._getControl("headerCommon")._exec("writeStyleSheet");</script><noscript><link rel="stylesheet" type="text/css" href="http://include.ebaystatic.com/css/v/in/legacy/ebay.css"></noscript><style type="text/css">.clBox {visibility:hidden}
-.clTable {border:2px solid #0098cf; margin-bottom:15px}
-.clCell {padding:0 10px}
-.clMsg {padding-right:10px}
-.clSep {margin:0 10px}
-.clLogo {padding:0 20px}
-</style><div id="divCrossLink" style="display:none;"></div><div style="visibility:hidden;position:absolute;" id="BrowseCategories-menu" class="dynmenu"></div><div style="visibility:hidden;position:absolute;" id="Buy-menu" class="dynmenu"></div><div style="visibility:hidden;position:absolute;" id="Sell-menu" class="dynmenu"></div><div style="visibility:hidden;position:absolute;" id="MyEbay-menu" class="dynmenu"></div><div style="visibility:hidden;position:absolute;" id="Community-menu" class="dynmenu"></div><div style="visibility:hidden;position:absolute;" id="Help-menu" class="dynmenu"></div><div></div><div style="display:none;" id="dynMenuCtr"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td colspan="3" class="dynmenubrdr">##1##</td></tr><tr><td><img src="http://pics.ebaystatic.com/aw/pics/motors2/images/imgCrnrO4.gif" height="6" width="6" border="0" class="crnrimg"></td><td class="dynmenubtmbrdr">##2##</td><td><img src="http://pics.ebaystatic.com/aw/pics/motors2/images/imgCrnrO3.gif" height="6" width="6" border="0" class="crnrimg"></td></tr></tbody></table></div></td></tr></tbody></table></div></span><script src="http://include.ebaystatic.com/categoryjs/44/en_IN/category_44en_IN0.js" type="text/javascript"></script><script type="text/javascript">var _oGlobalNavRTMInfo={};_oGlobalNavRTMInfo.aRTMPlacementData=[];_oGlobalNavRTMInfo.aRTMPlacementData=[{"dblclkUrl":null,"renderBeforeOnload":true,"minHeight":"0","oracleId":null,"isUserSignin":false,"minWidth":"0","defaultUrl":"","maxHeight":"22","pid":"433","GUid":null,"userId":null,"htmlId":"rtm_html_433","rtmUrl":"http://srx.in.ebayrtm.com/rtm","maxWidth":"122","ord":"1236921649881"},{"dblclkUrl":null,"renderBeforeOnload":true,"minHeight":"0","oracleId":null,"isUserSignin":false,"minWidth":"0","defaultUrl":"collapse","maxHeight":"22","pid":"876","GUid":null,"userId":null,"htmlId":"rtm_html_876","rtmUrl":"http://srx.in.ebayrtm.com/rtm","maxWidth":"160","ord":"1236921649881"}];</script></div><script language="javascript" type="text/javascript">				
+_d.add('body','load',function(event) { this.update("glb_cart", "http://orders.ebay.in/ws/eBayISAPI.dll?ShoppingCartMgmt"); },vjo.darwin.core.ebayheader.cart.Cart);})();
+</script><span class="ebay"><div id="gnheader" class="gbhdr"><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><!-- headerType=HALF:DEFAULT:HELP--><style type="text/css">div.pnav td#helpitem {background:url(http://pics.ebaystatic.com/aw/pics/cmp/ui/sprglobalheader_100pxw.png) no-repeat scroll 100% -1147px}div.pnavEx td#helpitem {background:url(http://pics.ebaystatic.com/aw/pics/cmp/ui/sprglobalheader_100pxw.png) no-repeat scroll 100% -1146px}</style><div id="cobrandHeader"></div><div id="dynamicmenu-hdrCtr" class="hdrCtr"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="logobar"><tbody><tr><td width="1%" valign="bottom" class="logoimg"><a href="http://www.ebay.in" rel="nofollow"><img src="http://pics.ebaystatic.com/aw/pics/in/logos/logoEbay_x45.gif" alt="From collectables to cars, buy and sell all kinds of items on eBay" border="0"></a></td><td valign="bottom" width="2%" class="mr"><span class="greeting"><script type="text/javascript">vjo.darwin.core.greetings.VjGreetingsClient.writePersonalHeader("Sign in", "https://signin.ebay.in/ws/eBayISAPI.dll?SignIn", "register", "https://scgi.ebay.in/ws/eBayISAPI.dll?RegisterEnterInfo", "Sign out", "https://signin.ebay.in/ws/eBayISAPI.dll?SignIn", "Welcome! ##1## or ##2##", "Hi, ##3## (##1##)! ##2##", "Hi, (##1##)! Not you? ##2##", "Hello! <a href=\"https://signin.ebay.in/ws/eBayISAPI.dll?SignIn\">Sign in/out<\/a>.", "<img src=\"http://pics.ebaystatic.com/aw/pics/in/icon/iconWarnRed_16x16.gif\" height=\"16\" width=\"16\">", "<span id=\"bta\">##1##<\/span>", " | You have <a href=\"http://my.ebay.in/ws/eBayISAPI.dll?MyEbay&amp;CurrentPage=MyeBayMyMessages\">##1## alert<\/a>.", " | You have <a href=\"http://my.ebay.in/ws/eBayISAPI.dll?MyEbay&amp;CurrentPage=MyeBayMyMessages\">##1## alerts<\/a>.", "1", "", true)</script></span></td><td id="rbt" valign="bottom" style="display:none"><span class="coupon rebate"><img src="http://pics.ebaystatic.com/aw/pics/promo/magic/pmoGleam10_150x23.gif" alt=""><!--googleoff: all-->Must use Buy It Now and PayPal.<br> <a href="http://pages.ebay.in/cashbackoffer/terms.html" target="_blank">See conditions</a><!--googleon: all--><script type="text/javascript">vjo.darwin.core.ebayheader.rebate.Rebate.Refresh("rbt", "10", "<img src=\"http://pics.ebaystatic.com/aw/pics/icons/iconRedeemCoupon20x20.gif\" border=\"0\" height=\"20\" width=\"20\"><\/img> <a href=\"http://my.ebay.in/ws/eBayISAPI.dll?MyeBay&amp;CurrentPage=MyeBayIncentives&amp;gbh=1\">You have coupons available<\/a>")</script></span></td><td align="right" valign="bottom"><div class="addllinks"><img src="http://pics.ebaystatic.com/aw/pics/in/cart.gif" height="15" width="15"> <a href="http://orders.ebay.in/ws/eBayISAPI.dll?ShoppingCartMgmt">My Shopping Cart</a><span id="glb_cart"></span><script type="text/javascript">vjo.darwin.core.ebayheader.cart.Cart.init("glb_cart", "http://payments.ebay.in/ws/eBayISAPI.dll?GetCartDetails", "http://orders.ebay.in/ws/eBayISAPI.dll?ShoppingCartMgmt");</script> | <a href="http://orders.ebay.in/ws/eBayISAPI.dll?MyPaisaPaySummary">My PaisaPay</a> | <a href="http://pages.ebay.in/help/contact_us/_base/index.html">Contact Us</a> | <a href="http://pages.ebay.in/sitemap.html">Site Map</a></div></td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="brnd1"></td><td class="brnd2"></td><td class="brnd3"></td><td class="brnd4"></td><td class="brnd5"></td><td class="brnd6"></td><td class="brnd7"></td></tr><tr><td class="brnd8"></td><td class="brnd8"></td><td class="brnd8"></td><td class="brnd8"></td><td class="brnd8"></td><td class="brnd8"></td><td class="brnd8"></td></tr></tbody></table><div class="snav"><div class="snavE"><div class="snavW" id="dynamicmenu-snavW"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td width="1%" class="snav"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td id="browsecategoriesitem" class="fc"><a id="BrowseCategories" href="http://shop.ebay.in/allcategories/all-categories">Categories <img src="http://pics.ebaystatic.com/aw/pics/in/globalHeader/imgHdrDropDownIcon.gif" border="0" height="6" width="6"></a></td><td id="ebaystoresitem" class="nc"><a title="Find more of what you love." href="http://stores.ebay.in/">Shops</a></td><td id="item" class="lc"><a href="http://pages.ebay.in/photocenter">Photo Centre</a></td></tr></tbody></table></td><td width="1%" class="poweredBy"><div id="rtm_html_876"></div></td><td width="100%" class="poweredBy"><div id="rtm_html_912"></div></td><td class="poweredBy" width="1%" align="right"><div id="rtm_html_433"></div></td></tr></tbody></table></div></div></div><div class="pnavEx"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><form method="get" action="http://shop.ebay.in/" name="headerSearch" id="headerSearch"><input type="hidden" name="_from" value="R40"><input type="hidden" name="_trksid" value="m38"><table id="gh_miniSrhBox" cellpadding="0" cellspacing="0" border="0" class="srchBox"><tbody><tr><td class="fc"></td><td><input type="text" name="_nkw" size="15" maxlength="300" tabindex="1" id="_nkw">&nbsp;<input type="submit" value="Search" tabindex="2"></td><td class="lc"><a id="AdvSearchId" href="http://shop.ebay.in/ebayadvsearch/" rel="nofollow" tabindex="3">Advanced Search</a></td></tr></tbody></table><input type="hidden" id="_naf" disabled="disabled" name="_naf" value="1"></form></td><td><table cellpadding="0" cellspacing="0" border="0" class="pnav"><tbody><tr><td id="buyitem" class="fc"><a id="Buy" href="http://hub.shop.ebay.in">Buy</a></td><td id="sellitem" class="nc"><a id="Sell" href="http://sell.ebay.in/sell">Sell</a></td><td id="myebayitem" class="nc"><a id="MyEbay" href="http://my.ebay.in/ws/eBayISAPI.dll?MyEbay&amp;gbh=1" rel="nofollow">My eBay</a></td><td id="communityitem" class="nc"><a id="Community" href="http://hub.ebay.in/community">Community</a></td><td id="helpitem" class="lc"><a id="Help" href="http://pages.ebay.in/help/index.html">Help</a></td></tr></tbody></table></td><td><div></div></td></tr></tbody></table></div></div><script type="text/javascript">var includeHost="http://include.ebaystatic.com/";</script><script src="http://include.ebaystatic.com/js/v/in/ebaybase_v4.js"></script><script src="http://include.ebaystatic.com/js/v/in/ebaysup.js"></script><script type="text/javascript">ebay.oDocument._getControl("headerCommon")._exec("writeStyleSheet");</script><noscript><link rel="stylesheet" type="text/css" href="http://include.ebaystatic.com/css/v/in/legacy/ebay.css"></noscript><div style="visibility:hidden;position:absolute;" id="BrowseCategories-menu" class="dynmenu"></div><div style="visibility:hidden;position:absolute;" id="Buy-menu" class="dynmenu"></div><div style="visibility:hidden;position:absolute;" id="Sell-menu" class="dynmenu"></div><div style="visibility:hidden;position:absolute;" id="MyEbay-menu" class="dynmenu"></div><div style="visibility:hidden;position:absolute;" id="Community-menu" class="dynmenu"></div><div style="visibility:hidden;position:absolute;" id="Help-menu" class="dynmenu"></div><div></div><div style="display:none;" id="dynMenuCtr"><table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td class="dynmenubrdr">##1##</td></tr><tr><td><div class="crnrlc"><div class="crnrnc"><div class="crnrfc"></div></div></div></td></tr></tbody></table></div></td></tr></tbody></table></div></span><script type="text/javascript">(function(){var ghmenu =vjo.Registry.get("BrowseCategoriesMenu"); if(typeof(ghmenu)!="undefined") ghmenu.setHandlerSource("http://include.ebaystatic.com/categoryjs/46/en_IN/category_46en_IN0.js") })();</script><script type="text/javascript">var _oGlobalNavRTMInfo={};_oGlobalNavRTMInfo.aRTMPlacementData=[];_oGlobalNavRTMInfo.aRTMPlacementData=[{"ord":"1259768589914","maxWidth":"470","rtmUrl":"http://srx.in.ebayrtm.com/rtm","htmlId":"rtm_html_433","userId":null,"isUserSignin":false,"GUid":null,"renderBeforeOnload":true,"maxHeight":"22","pid":"433"},{"ord":"1259768589914","maxWidth":"160","rtmUrl":"http://srx.in.ebayrtm.com/rtm","htmlId":"rtm_html_876","userId":null,"isUserSignin":false,"GUid":null,"renderBeforeOnload":true,"maxHeight":"22","pid":"876"},{"ord":"1259768589914","maxWidth":"160","rtmUrl":"http://srx.in.ebayrtm.com/rtm","htmlId":"rtm_html_912","userId":null,"isUserSignin":false,"GUid":null,"renderBeforeOnload":true,"maxHeight":"22","pid":"912"}];</script></div><script language="javascript" type="text/javascript">				
 			var ieBackCompat=false; 
 			if(document.compatMode&&document.compatMode!="BackCompat") ieBackCompat=true;
 			var css='<link rel="stylesheet" href="http://include.ebaystatic.com/css/v/in/help/help';
@@ -351,4 +247,7 @@ document.write(getBackToFeature());
                 
             <div class="c-rcp-rcp"><div class="rcp-n"><div class="rcp-e"><div class="rcp-w"> </div></div></div><div class="c-rcp-mid"><div class="nobar-cnt-pad"><div style="padding-bottom:5px;"><b class="boldTxt">Related Help topics</b></div><ul style="margin-top: 6px;"><li class="unorderedList"><div style="padding-left:4px;"><p style=""><a href="http://pages.ebay.in/help/policies/privacy-ov.html">Privacy Overview</a></p></div></li><li class="unorderedList"><div style="padding-left:4px;"><p style=""><a href="http://pages.ebay.in/help/policies/everyone-spam.html">Unsolicited Email (Spam)</a></p></div></li><li class="unorderedList"><div style="padding-left:4px;"><p style=""><a href="http://pages.ebay.in/help/policies/privacy-contact.html">Publishing Contact Information</a></p></div></li><li class="unorderedList"><div style="padding-left:4px;"><p style=""><a href="http://pages.ebay.in/help/policies/user-agreement.html">eBay User Agreement</a></p></div></li></ul></div></div><div><div class="rcp-s"><div class="rcp-e"><div class="rcp-w"> </div></div></div></div></div></td></tr></tbody></table></td></tr><tr valign="bottom"><td><script language="JavaScript"><!--//
 							document.write(getBackToFeature());
-						//--></script><noscript>&nbsp;</noscript></td></tr></tbody></table><img xmlns:eml="http://www.ebay.com/2003/toolbox" width="1" height="1" alt="" title="" src="http://sofe.ebay.in/ws/web/SojPageView?sp=3146"><script src="http://include.ebaystatic.com/js/v/in/features/help/bottom.js"></script><div id="HelpFooter"><!--cacheStatus: false--><span class="ebay"><div id="glbfooter"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="g-pipe"><img src="http://pics.ebaystatic.com/aw/pics/in/s.gif" height="10" width="1"><br><a href="http://pages.ebay.in/aboutebay.html">About eBay</a> | <a href="http://www2.ebay.com/aw/marketing-in.shtml">Announcements</a> | <a href="http://cgi1.ebay.in/aw-cgi/eBayISAPI.dll?RegisterShow">Register</a> | <a href="http://pages.ebay.in/securitycentre/index.html">Security &amp; Resolution Centre</a> | <a href="http://pages.ebay.in/services/forum/feedback.html">Feedback Forum</a> | <a href="http://pages.ebay.in/sitemap.html">Site Map</a> | <a href="http://pages.ebay.in/help/index.html">Help</a></td></tr><tr><td height="4"></td></tr><tr><td height="1" bgcolor="#CCCCCC" colspan="2"></td></tr><tr><td height="4"></td></tr><tr class="g-hlp" valign="top"><td class="g-nav coreFooterLegalNotice">Copyright © 1995-2009 eBay Inc. All Rights Reserved. Designated trademarks and brands are the property of their respective owners. Use of this Web site constitutes acceptance of the eBay <a href="http://pages.ebay.in/help/policies/user-agreement.html" rel="nofollow">User Agreement</a> and <a href="http://pages.ebay.in/help/policies/privacy-policy.html" rel="nofollow">Privacy Policy</a>.<br><img src="http://pics.ebaystatic.com/aw/pics/in/s.gif" height="10"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="g-nav" width="100%"><a href="http://viv.ebay.in/ws/eBayISAPI.dll?EbayTime">eBay official time</a></td></tr></tbody></table></td></tr></tbody></table><div id="cobrandFooter"></div></div></span><script src="http://include.ebaystatic.com/js/v/in/ebayfooter_cobrand_v4.js"></script><script type="text/javascript">var un="undefined";if(typeof(vjo)!=un && typeof(vjo.darwin)!=un && typeof(vjo.darwin.core)!=un && typeof(vjo.darwin.core.ebayheader)!=un && typeof(vjo.darwin.core.ebayheader.rtm)!=un && typeof(vjo.darwin.core.ebayheader.rtm.GlobalHeaderRtmCall)!=un)vjo.darwin.core.ebayheader.rtm.GlobalHeaderRtmCall.submitRTMCall("")</script><!--3/12/09 10:24 PM### buildId:8147202--></div></div></div></body></html>
+						//--></script><noscript>&nbsp;</noscript></td></tr></tbody></table><img xmlns:eml="http://www.ebay.com/2003/toolbox" width="1" height="1" alt="" title="" src="http://sofe.ebay.in/ws/web/SojPageView?sp=3146"><script src="http://include.ebaystatic.com/js/v/in/features/help/bottom.js"></script><div id="HelpFooter"><!--cacheStatus: false--><span class="ebay"><div id="glbfooter"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="g-pipe"><img src="http://pics.ebaystatic.com/aw/pics/in/s.gif" height="10" width="1"><br><a href="http://pages.ebay.in/aboutebay.html">About eBay</a> | <a href="http://www2.ebay.com/aw/marketing-in.shtml">Announcements</a> | <a href="http://cgi1.ebay.in/aw-cgi/eBayISAPI.dll?RegisterShow">Register</a> | <a href="http://pages.ebay.in/securitycentre/index.html">Security &amp; Resolution Centre</a> | <a href="http://pages.ebay.in/services/forum/feedback.html">Feedback Forum</a> | <a href="http://pages.ebay.in/sitemap.html">Site Map</a> | <a href="http://pages.ebay.in/help/index.html">Help</a></td></tr><tr><td height="4"></td></tr><tr><td height="1" bgcolor="#CCCCCC" colspan="2"></td></tr><tr><td height="4"></td></tr><tr class="g-hlp" valign="top"><td class="g-nav coreFooterLegalNotice">Copyright © 1995-2009 eBay Inc. All Rights Reserved. Designated trademarks and brands are the property of their respective owners. Use of this Web site constitutes acceptance of the eBay <a href="http://pages.ebay.in/help/policies/user-agreement.html" rel="nofollow">User Agreement</a> and <a href="http://pages.ebay.in/help/policies/privacy-policy.html" rel="nofollow">Privacy Policy</a>.<br><img src="http://pics.ebaystatic.com/aw/pics/in/s.gif" height="10"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="g-nav" width="100%"><a href="http://viv.ebay.in/ws/eBayISAPI.dll?EbayTime">eBay official time</a></td></tr></tbody></table></td></tr></tbody></table><div id="cobrandFooter"></div></div></span><script src="http://include.ebaystatic.com/js/v/in/ebayfooter_cobrand_v4.js"></script><script type="text/javascript">var _GlobalNavHeaderStatic=true,_GlobalNavHeaderCookieTracking=true;</script><script type="text/javascript">var un="undefined";if(typeof(vjo)!=un && typeof(vjo.darwin)!=un && typeof(vjo.darwin.core)!=un && typeof(vjo.darwin.core.ebayheader)!=un && typeof(vjo.darwin.core.ebayheader.rtm)!=un && typeof(vjo.darwin.core.ebayheader.rtm.GlobalHeaderRtmCall)!=un)vjo.darwin.core.ebayheader.rtm.GlobalHeaderRtmCall.submitRTMCall("")</script><!--12/2/09 7:43 AM### buildId:10342634--></div></div></div>
+<img style="display:none" width="1" height="1" alt="" title="" src="http://rover.ebay.com/roverimp/0/0/9?imp=1481697">
+
+</body></html>
