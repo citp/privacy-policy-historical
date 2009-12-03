@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noheat.com privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530145425id_/http%3A//www.noheat.com/advice-we-answer-your-questions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noheat.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203012751id_/http%3A//www.noheat.com/advice-we-answer-your-questions) for the most accurate reproduction.*
 
 # Privacy Policy
 
