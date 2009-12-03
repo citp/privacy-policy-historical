@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the txu.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619211039id_/http%3A//txu.com/ppolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the txu.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203090656id_/http%3A//www.txu.com/ppolicy.htm) for the most accurate reproduction.*
 
 # TXU Energy Privacy Policy
 
