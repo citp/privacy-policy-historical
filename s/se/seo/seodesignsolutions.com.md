@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seodesignsolutions.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604000933id_/http%3A//www.seodesignsolutions.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seodesignsolutions.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203103527id_/http%3A//www.seodesignsolutions.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
