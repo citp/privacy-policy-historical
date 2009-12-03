@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the pubget.com privacy policy that was archived on 2009-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090628022910id_/http%3A//pubget.com/site/terms/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pubget.com privacy policy that was archived on 2009-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091203155438id_/http%3A//pubget.com/site/help/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<title>Pubget: Privacy Policy</title>
   <meta name="verify-v1" content="si/3DNbGGSavwPHkgyQIo4mrChkkGYSGnCXw7scAabc=">
   
@@ -11,16 +11,43 @@
 	
 	  <meta name="Keywords" content="pubget, privacy, policy, cookies, third-parties">
 	  <meta name="description" content="Pubget: Privacy Policy">
+        
+        
+    
+    <meta name="ROBOTS" content="NOARCHIVE"> 
+    
 
-	<link href="http://assets0.pubget.com/stylesheets/base_packaged.css?1246129354" media="screen" rel="stylesheet" type="text/css">	
-	<script src="http://assets0.pubget.com/javascripts/base_packaged.js?1246129353" type="text/javascript"></script>
-	<!--[if IE]><link href="http://assets0.pubget.com/stylesheets/ie.css?1246129288" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
-	<!--[if IE 6]><link href="http://assets0.pubget.com/stylesheets/ie6.css?1246129288" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
+	<link href="http://assets1.pubget.com/stylesheets/base2_packaged.css?1259708363" media="screen" rel="stylesheet" type="text/css">	
+  <script src="http://www.google.com/jsapi" type="text/javascript"></script>
+  <script type="text/javascript">
+    
+    google.load("jquery", "1.3.2", {});
+    google.load("jqueryui", "1.7.2", {});
+  </script>
+  <script src="http://assets1.pubget.com/javascripts/jqModal.js?1259708147" type="text/javascript"></script>
+  <script src="http://assets1.pubget.com/javascripts/jquery.linkselect.js?1259708147" type="text/javascript"></script>
+	<script type="text/javascript" src="/javascripts/jquery.validate.js"></script>
+	
+	<!-- Ajax based reCAPTCHA -->
+	<script type="text/javascript" src="http://api.recaptcha.net/js/recaptcha_ajax.js"></script>
 
-<script>
+  
+  
+  <script src="http://assets1.pubget.com/javascripts/home2_packaged.js?1259708363" type="text/javascript"></script>
+  
+  <script src="http://assets1.pubget.com/javascripts/fieldhints.js?1259708147" type="text/javascript"></script>
+	<!--[if IE]><link href="http://assets1.pubget.com/stylesheets/ie.css?1259708147" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
+	<!--[if IE 6]><link href="http://assets1.pubget.com/stylesheets/ie6.css?1259708147" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
+	<!--[if IE 8]><link href="http://assets1.pubget.com/stylesheets/ie8.css?1259708147" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
+	<link href="http://assets1.pubget.com/stylesheets/jquery.linkselect.css?1259708147" media="screen" rel="stylesheet" type="text/css">
+  
+
+<script type="text/javascript">
 	var startclock = new Date();
   
   var loaded_divs = new Hash();
+  
+  var selected_pmid = "";
   
 	if(!window.changers) {  
 	  window.changers = new Array(0);  
@@ -36,6 +63,21 @@
 		}
 	}
 
+
+/* Scripts to run when DOM is loaded */
+jQuery(document).ready(function(){	
+	Pubget.enableMarkingLink();
+	
+	jQuery("div.resultoptions").hide();
+	
+	// Initialize "skinned" dropdown menus
+	//jQuery("select.skinned").linkselect();
+	
+	Pubget.enableMaterialsToggle();
+	
+	resize_top();
+
+});
 </script>
 
 </head>
@@ -44,35 +86,75 @@
 	<div id="popup_overlay" style="display:none;"></div>
 	
 	<div id="wrapper">
-	<div id="left">
+	<div id="left-help">
   <div id="topleft">
-    <a href="/search" title="Pubget Beta" onclick="window.close()"></a>
+    <a href="/search" title="Pubget Beta" onclick="window.close()" class="logo"></a>
   </div>
-
-  <hr>
-
-  <div class="list">
-    <p class="help-title">Legal matters</p>
+  
+<p></p>
+  
+  <div class="help">
+    <br>
+    <br>
+    <br>
+    <p class="help-title">About us</p>
     <ul>
-
-      <li><a href="/site/terms/terms" class="title">Terms and conditions</a></li>
-
-      <li><a href="/site/terms/use" class="title">Acceptable use policy</a></li>
-
-      <li class="active"><a href="/site/terms/privacy" class="title">Committment to privacy</a></li>
-
-      <li><a href="/site/terms/agreement" class="title">End-user agreement</a></li>
-
-      <li><a href="/site/terms/copyrights" class="title">Copyrights and licenses</a></li>
-
+      <li><a href="/site/help/about" class="title">What Pubget is</a></li>
+      <li><a href="/site/help/who_we_are" class="title">Who we are</a></li>
+      <li><a href="/site/help/librarians" class="title">For librarians</a></li>
+			<li><a href="/site/help/universityadvisors" class="title">University Advisors</a></li>
+      <li><a href="/site/help/testimonials" class="title">User testimonials</a></li>
+      <li><a href="/site/help/bythenumbers" class="title">Pubget by the numbers</a></li>
+      <li><a href="/site/help/story" class="title">Our timeline</a></li>
+      <li><a href="/site/help/pressroom" class="title">Press room</a></li>
+      <li><a href="/site/help/contact_box" class="title">Contact us</a></li>
     </ul>
-  </div>
-</div>
 
-<div id="right">
+    <p class="help-title">Help</p>
+    <ul>
+      <li><a href="/site/help/basics" class="title">Basic search</a></li>
+      <li><a href="/site/help/searching" class="title">Advanced search</a></li>
+      <li><a href="/site/help/keep" class="title">Saving PDFs online</a></li>
+      <li><a href="/site/help/save" class="title">Downloading PDFs</a></li>
+      <li><a href="/site/help/print" class="title">Printing PDFs</a></li>
+      <li><a href="/site/help/email" class="title">Emailing PDFs</a></li>
+      <li><a href="/site/help/endnote" class="title">Downloading citations</a></li>
+      <li><a href="/site/help/latest" class="title">Reading latest issues</a></li>
+      <li><a href="/site/help/si" class="title">Supplementary info</a></li>
+      <li><a href="/site/help/cookies" class="title">Setting up cookies</a></li>
+      <li><a href="/site/help/inline" class="title">Too many windows</a></li>
+      <li><a href="/site/help/browsers" class="title">Supported browsers</a></li>
+      <li><a href="/site/help/institution_request" class="title">Activate your institution</a></li>
+    </ul>
+	<p class="help-title">Cool Stuff</p>
+	<ul>
+		<li><a href="/site/help/rosetta" class="title">Rosetta@home</a></li>
+	      <li><a href="/site/help/paper_plane" class="title">PaperPlane</a></li>
+	</ul>
+    <p class="help-title">Legal stuff</p>
+    <ul>
+      <li><a href="/site/help/copyrights" class="title">Copyrights and licenses</a></li>
+      <li><a href="/site/help/terms" class="title">Terms and conditions</a></li>
+      <li><a href="/site/help/usepolicy" class="title">Acceptable use policy</a></li>
+      <li class="active"><a href="/site/help/privacy" class="title">Committment to privacy</a></li>
+      <li><a href="/site/help/agreement" class="title">End-user agreement</a></li>
+    </ul>
+
+
+  </div>
+
+
+
+</div>	
+
+<div id="right-help">
 
   <div id="topright">
   
+  
+  <ul class="topnav" style="float:left;padding-left:2em;">
+  	<li><a href="/" class="notatlink" onclick="wopen('/account/affiliations?return_url=%2Fsite%2Fhelp%2Fprivacy', 'help', 325, 430);return false;" title=" visit the Pubget public site to select your instution ">Select your institution</a></li>
+  </ul>
   
 
 
@@ -168,7 +250,7 @@ to <a mailto:"team@pubget.com"="">contact us</a>.</p>
 
 </div>
 
-
+    
 </div>
 
 	</div>
@@ -180,6 +262,10 @@ to <a mailto:"team@pubget.com"="">contact us</a>.</p>
         pageTracker._initData();
         pageTracker._trackPageview();
       }
+      </script>
+      <script type="text/javascript" src="//static.woopra.com/js/woopra.v2.js"></script>
+      <script type="text/javascript">
+      woopraTracker.track();
       </script>
 
 
