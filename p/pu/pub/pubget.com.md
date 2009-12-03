@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pubget.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628022910id_/http%3A//pubget.com/site/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pubget.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203155438id_/http%3A//pubget.com/site/help/privacy) for the most accurate reproduction.*
 
 # Pubget: Privacy Policy
 
