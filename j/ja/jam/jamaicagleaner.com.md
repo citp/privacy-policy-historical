@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamaicagleaner.com privacy policy that was archived on 2009-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090216103819id_/http%3A//www.jamaicagleaner.com/gleaner/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamaicagleaner.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203114450id_/http%3A//www.jamaica-gleaner.com/gleaner/privacy.html) for the most accurate reproduction.*
 
 # Jamaica Gleaner
 
@@ -51,7 +51,7 @@ For our full Terms and Conditions governing all our sites see. <http://www.go-ja
 |   
 
 
-[](http://discoverjamaica.com/shop/oij.html)
+[](http://discoverjamaica.com/shop/voter.html)
 
   
 
