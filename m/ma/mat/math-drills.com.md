@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the math-drills.com privacy policy that was archived on 2009-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090514060716id_/http%3A//www.math-drills.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the math-drills.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203030541id_/http%3A//www.math-drills.com/privacy.shtml) for the most accurate reproduction.*
 
 # Math-Drills.Com Privacy
 
