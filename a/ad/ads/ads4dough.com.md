@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ads4dough.com privacy policy that was archived on 2009-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090308023314id_/http%3A//www.ads4dough.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ads4dough.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203041710id_/http%3A//www.ads4dough.com/privacypolicy) for the most accurate reproduction.*
 
 # Affiliate Network Private Policy -
 
@@ -44,7 +44,7 @@ Carlsbad, CA 92009
 
 ## Privacy Practices Applicable to Our Technology:
 
-AzoogleAds'¨ Clients are primarily businesses. Our Clients use our Technology to help deliver online advertisements to consumers while they are online.
+Ads4Dough's clients are primarily businesses. Our Clients use our Technology to help deliver online advertisements to consumers while they are online.
 
 ## Types of Information that We Collect Via Our Technology:
 
