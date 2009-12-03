@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themorningnews.org privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603072856id_/http%3A//themorningnews.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themorningnews.org privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203144034id_/http%3A//www.themorningnews.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Morning News
 
@@ -12,25 +12,18 @@ If you ever receive spam from The Morning News: Trust us, you have not. We would
 
 #### TODAY’S FEATURE
 
-### [The Cougar Who Would Be Queen](http://www.themorningnews.org/archives/spoofs_satire/the_cougar_who_would_be_queen.php)
+### [The 2009 Good Gift Games](http://www.themorningnews.org/archives/guides/the_2009_good_gift_games.php)
 
-Supreme Court nominee Sotomayor has been called a bigot and a racist—and that’s just week one. **CLAY RISEN** intercepts a memo to Republican politicians outlining the next phase of attack. 
+This holiday season, your loved ones could play Operation: “Death Panel” Edition, or you could give them a game where somebody besides the government wins. **MATTHEW BALDWIN** offers options. 
 
-#### out-mothered
+#### OUR MAN IN BOSTON
 
-### [The Mommy Wars](http://www.themorningnews.org/archives/the_non-expert/the_mommy_wars.php)
+### [Pop Goes the Warhol](http://birnbaum.themorningnews.org/)
 
-Non-Expert Jessica Francis Kane leads her followers into the battle of the playground. 
+New works devoted to Andy Warhol suggest some people get more than 15 minutes of fame. 
 
-#### THE FOOTNOTES TOO
+#### TMN TALKS
 
-### [Infinite Summer](http://infinitesummer.org/)
+### [Graham Linehan](http://talks.themorningnews.org/)
 
-Beginning June 21, take part in an endurance read of _Infinite Jest_ , sponsored by TMN.  
-**»[JOIN UP](http://infinitesummer.org/)**
-
-#### DIGEST
-
-### [No Take Backs](https://web.archive.org/digest/)
-
-Recently unmasked producer Burial joins his old schoolmate Four Tet on a cryptically released 12-inch. The result is two post-rock peregrinations sure to set your perceptions on edge. 
+Graham Linehan is an Irish comedy writer currently based in London. He co-created Father Ted and has written for several other comedy series, including Brass... 
