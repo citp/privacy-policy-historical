@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportingnews.com privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413165014id_/http%3A//www.sportingnews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportingnews.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203090334id_/http%3A//www.sportingnews.com/privacy) for the most accurate reproduction.*
 
 # Sporting News - Privacy Policy
 
@@ -8,11 +8,9 @@ Last Revised July 11, 2008
 
 Kids and parents click here!
 
-The following Privacy Policy summarizes the various ways that bizjournals.com, Inc. ("Service Provider," "we" or "our") treats the information you provide while using www.sportingnews.com ("Website").  It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy.
+The following Privacy Policy summarizes the various ways that Sporting News, a division of American City Business Journals, Inc. ("Service Provider," "we" or "our") treats the information you provide while using www.sportingnews.com ("Website"). It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy.
 
-Please read this Privacy Policy carefully. You can access the Privacy Policy any time at http://www.sportingnews.com/privacy.html. **Your use of and/or registration on any aspect of the Website will constitute your agreement to this Privacy Policy.**   If you cannot agree with the terms and conditions of this Privacy Policy, please do not use the Website.  This Privacy Policy does not cover information collected elsewhere, including without limitation offline and on sites linked to from the Website.
-
-In addition to reviewing this Privacy Policy, please read our [User Agreement](http://www.sportingnews.com/terms.html). Your use of the Website constitutes agreement to its terms and conditions as well. 
+In addition to reviewing this Privacy Policy, please read our [User Agreement](http://www.sportingnews.com/terms). Your use of the Website constitutes agreement to its terms and conditions as well. 
 
 This Privacy Policy may be modified from time to time; the date of the most recent revisions will appear on this page, so check back often. Continued access of the Website by you will constitute your acceptance of any changes or revisions to the Privacy Policy. 
 
