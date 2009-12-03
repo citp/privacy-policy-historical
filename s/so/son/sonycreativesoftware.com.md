@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonycreativesoftware.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601063350id_/http%3A//www.sonycreativesoftware.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonycreativesoftware.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203150141id_/http%3A//www.sonycreativesoftware.com/corporate/privacy) for the most accurate reproduction.*
 
 # Sony Creative Software - Corporate - Privacy Policy Statement
 
@@ -104,5 +104,3 @@ www.acidplanet.com  and any other web sites hosted by SCS at which this Privacy 
 Sony Creative Software, Inc.  
 1617 Sherman Avenue, Madison, Wisconsin 53704  
 You may also contact us by following the email instructions on the web at: http://www.sonycreativesoftware.com/privacyinfo 
-
-|  | 
