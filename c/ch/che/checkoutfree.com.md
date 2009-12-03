@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the checkoutfree.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416081025id_/http%3A//www.checkoutfree.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkoutfree.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203065115id_/http%3A//www.checkoutfree.com/legal/privacy) for the most accurate reproduction.*
 
 # CheckoutFree.com
 
-**Please read this Privacy Policy carefully before accepting a CheckoutFree offer and/or using this website.**
+**Please read this Privacy Policy carefully before using this website and/or accepting a CheckoutFree offer, including offers from the Lift Media family of brands: CheckoutFree, Free Wild Coins, Savings Watch, Take One Get One, Try For Less, Shoppeteria**
 
-**Effective Date:** This Privacy Policy is effective November 12, 2008. 
+**Effective Date:** This Privacy Policy is effective September 1, 2008. 
 
 This is the CheckoutFree privacy policy which discloses the privacy practices for the CheckoutFree service and the [www.checkoutfree.com](http://www.checkoutfree.com/) website (which may be amended from time to time in accordance with clause 11 below) (the "Privacy Policy"). The CheckoutFree service and website are owned and operated by Lift Media, Inc., a wholly owned subsidiary of Webloyalty.com, Inc. 101 Merritt 7, Norwalk, CT 06851 ("Webloyalty"). If you have any questions about this Privacy Policy, please feel free to contact us at  or write to us at General Counsel, Lift Media, Inc., c/o Webloyalty.com, Inc., 101 Merritt 7, Norwalk, Connecticut 06851, United States of America.
 
