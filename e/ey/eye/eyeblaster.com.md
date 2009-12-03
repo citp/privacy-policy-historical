@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the eyeblaster.com privacy policy that was archived on 2009-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090403144933id_/http%3A//www.eyeblaster.com/Content.aspx%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeblaster.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204004218id_/http%3A//www.eyeblaster.com/Content.aspx%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
 # privacy policy - Eyeblaster – Cross Channel Campaign Management, Ad Serving and Rich Media for advertisers and agencies
 
-[Click here](https://web.archive.org/web/20090403144933id_/http%3A//www.eyeblaster.com/Content.aspx?page=contact_us) for important information about safe surfing from the Federal Trade Commission (FTC).
+[Click here](https://web.archive.org/web/20091204004218id_/http%3A//www.eyeblaster.com/Content.aspx?page=contact_us) for important information about safe surfing from the Federal Trade Commission (FTC).
 
 **Advertising and Content Served through Eyeblaster Technology**
 
@@ -32,6 +32,6 @@ Eyeblaster reserves the right to change, modify, add or remove portions of this 
 
 If You Have Questions About This Policy
 
-To address any questions, comments, or concerns related to our privacy policy, please contact our [Customer Support](https://web.archive.org/web/20090403144933id_/http%3A//www.eyeblaster.com/Content.aspx?page=contact_us).
+To address any questions, comments, or concerns related to our privacy policy, please contact our [Customer Support](https://web.archive.org/web/20091204004218id_/http%3A//www.eyeblaster.com/Content.aspx?page=contact_us).
 
 Last updated December 30, 2008.
