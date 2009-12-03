@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vapornation.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605175400id_/http%3A//vapornation.com/store/privacy.php%3F%24sid) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vapornation.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203114856id_/http%3A//www.vapornation.com/store/privacy.php) for the most accurate reproduction.*
 
-# VaporNation | Popular Vaporizers | Vaporizer Accessories | Grinders and more!
+# Vaporizer | Vaporizers | Volcano Vaporizer | Vaporizor | Vapir | Make Vaporizer
 
 At VaporNation.com, your privacy is a **TOP** priority. We want our users to be aware of any information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
