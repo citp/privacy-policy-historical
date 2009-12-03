@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flybizs.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501015600id_/http%3A//flybizs.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flybizs.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203061125id_/http%3A//flybizs.com/pages/privacy.php) for the most accurate reproduction.*
 
 # Flybizs.Com_Make Money ONline_$$$$$$$$$$$$$$$$$$$$$$
 
