@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cli.gs privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626095531id_/http%3A//cli.gs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cli.gs privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203014106id_/http%3A//cli.gs/privacy) for the most accurate reproduction.*
 
 # cli.gs: Privacy Policy
 
