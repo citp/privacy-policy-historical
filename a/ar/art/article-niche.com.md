@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the article-niche.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417165043id_/http%3A//article-niche.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the article-niche.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203095933id_/http%3A//article-niche.com/privacy.php) for the most accurate reproduction.*
 
 # Comprehensive Article Niche Directory | Privacy
 
@@ -7,15 +7,15 @@ Article Niche Directory Privacy Policy |
   
 * * *  
   
-[Last Updated **April 2009** ] 
+[Last Updated **December 2009** ] 
 
 **The basics of our privacy statement**
 
-    1. Article Niche Directory does not share, sell or rent any personal information such as your name and email addresses to outside third parties.
-    2. We will not send you unsolicited e-mail. We will only send e-mails to those who request them through our opt-in process.
-    3. We honour all removal requests--you may unsubscribe at any time.
+Article Niche Directory does not share, sell or rent any personal information such as your name and email addresses to outside third parties.
 
+We will not send you unsolicited e-mail. We will only send e-mails to those who request them through our opt-in process.
 
+We honour all removal requests--you may unsubscribe at any time.
 
 We appreciate you subscribing to our list and using our services. We will not abuse that privilege. Article Niche Directory puts a high priority on list accuracy and quality content. 
 
