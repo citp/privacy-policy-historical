@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the krystal.co.uk privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601154530id_/http%3A//www.krystal.co.uk/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krystal.co.uk privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203172156id_/http%3A//www.krystal.co.uk/company/privacy) for the most accurate reproduction.*
 
-# Krystal Hosting Privacy Policy - UK cPanel & PHP/MySQL Web Hosting, Premium Web Hosting and Domain Names
+# Privacy Policy for www.krystal.co.uk
 
 Krystal Hosting is committed to protecting the privacy of our customers and visitors. Details of our privacy policy are outlined below. If you have any questions about our Data handling and Protection policy then don't hesitate to get in touch with our team and we will gladly answer your queries.
 
