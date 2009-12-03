@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfoxphoenix.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601204846id_/http%3A//www.myfoxphoenix.com/dpp/about_us/privacy_policy/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfoxphoenix.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204002111id_/http%3A//www.myfoxphoenix.com/dpp/about_us/privacy_policy/privacy_policy) for the most accurate reproduction.*
 
 # MyFOXPhoenix.com Privacy Policy
 
