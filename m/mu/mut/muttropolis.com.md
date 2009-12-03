@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the muttropolis.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429104046id_/http%3A//www.muttropolis.com/content/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muttropolis.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203055028id_/http%3A//www.muttropolis.com/content/privacy.cfm) for the most accurate reproduction.*
 
-# Customer Service: Muttropolis.com
+# About Muttropolis
+
+| 
 
 ## Privacy Policy
 
@@ -28,4 +30,6 @@ We use cookies to provide our customers with streamlined ordering and other usef
 
 ## Your Acceptance of these Terms
 
-By using our Web site, you agree to accept the Muttropolis privacy policy. Make sure you read this policy carefully, because if you do choose to use our Web site, you automatically agree to this policy. If you do not agree to this policy, please do not use our Web site. We reserve the right, at our discretion, to change, modify, add, or remove these terms. 
+By using our Web site, you agree to accept the Muttropolis privacy policy. Make sure you read this policy carefully, because if you do choose to use our Web site, you automatically agree to this policy. If you do not agree to this policy, please do not use our Web site. We reserve the right, at our discretion, to change, modify, add, or remove these terms.   
+  
+---|---
