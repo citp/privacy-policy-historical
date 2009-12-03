@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boohoo.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629084641id_/http%3A//www.boohoo.com/Help/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boohoo.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203034522id_/http%3A//www.boohoo.com/Help/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # boohoo.com | Womens Fashion Clothes | Womens Clothing
 
@@ -35,7 +35,7 @@ Please note that our advertisers may also use cookies, over which we have no con
 
 **Site statistics**
 
-We monitor customer traffic on an aggregate basis using cookies and code, which is embedded, in the site. This provides statistical information about visits to pages on the site, the duration of individual page view, paths taken by visitors through the site, data on visitors screen settings and other general information. Boohoo.com Limited uses this information to help improve the site and services to its users. 
+We monitor customer traffic on an aggregate basis using cookies and code, which is embedded, in the site. This provides statistical information about visits to pages on the site, the duration of individual page view, paths taken by visitors through the site, data on visitors screen settings and other general information. Wasabi Frog Limited uses this information to help improve the site and services to its users. 
 
 **Where we store your personal data**
 
@@ -80,13 +80,13 @@ We may disclose your personal information:
 
 1\. to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 736 of the UK Companies Act 1985; 
 
-2\. if Boohoo.com Limited or substantially all of its assets are acquired by a third party in which case personal data held by it about its customers will be one of the transferred assets and, in which case, we may disclose your personal data to the prospective seller or buyer of such business or assets; 
+2\. if Wasabi Frog Limited or substantially all of its assets are acquired by a third party in which case personal data held by it about its customers will be one of the transferred assets and, in which case, we may disclose your personal data to the prospective seller or buyer of such business or assets; 
 
 3\. to protect our customers and boohoo.com from fraud and theft, we may pass on personal information that we obtain from making identity checks, together with account information to organisations including law enforcement agencies, involved in fraud prevention and detection and credit risk reduction; 
 
 4\. if we are under a duty to disclose or share your personal data in order to comply with any legal obligation; or, 
 
-5\. in order to enforce or apply our terms of use **[terms of use](http://www.boohoo.com/Help/TermsOfUse.php)** or **[terms and conditions of supply of products](http://www.boohoo.com/Help/Terms.php)** and other agreements; or to protect the rights, property, or safety of Boohoo.com Limited our customers, or others. 
+5\. in order to enforce or apply our terms of use **[terms of use](http://www.boohoo.com/Help/TermsOfUse.php)** or **[terms and conditions of supply of products](http://www.boohoo.com/Help/Terms.php)** and other agreements; or to protect the rights, property, or safety of Wasabi Frog Limited our customers, or others. 
 
 Unless required to do so by law, we will not otherwise share, sell or distribute any of the personal information you provide to us without your consent. 
 
