@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the villagevoice.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627094534id_/http%3A//www.villagevoice.com/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the villagevoice.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203123452id_/http%3A//www.villagevoice.com/about/privacyPolicy) for the most accurate reproduction.*
 
 # New York About Us
 
