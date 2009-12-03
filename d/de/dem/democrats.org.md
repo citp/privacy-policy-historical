@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the democrats.org privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628105409id_/http%3A//www.democrats.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the democrats.org privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203222357id_/http%3A//www.democrats.org/privacy.html) for the most accurate reproduction.*
 
 # The Democratic Party
 
