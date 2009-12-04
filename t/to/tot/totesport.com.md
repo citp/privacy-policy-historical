@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the totesport.com privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013214228id_/http%3A//www.totesport.com/portal%3Faction%3DStaticLoader%26page%3Dgeneral/SecurityPrivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totesport.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204171232id_/https%3A//www.totesport.com/portal%3Faction%3DStaticLoader%26page%3Dgeneral/SecurityPrivacy.htm) for the most accurate reproduction.*
 
 # totesport - security and privacy policy
 
 **totesport** is a trading name of **Tote Credit Ltd.**
 
-At totesport we take care to ensure that the information you provide to us is protected and managed in accordance with the requirements of the Data Protection Act 1998. This policy describes how information is gathered and used by totesport in the operation of this website.
+At totesport we take care to ensure that the information you provide to us is protected and managed in accordance with the requirements of the Data Protection Act 1998 and in accordance with the requirements of the Data Protection Laws of the Bailiwick of Guernsey and totesport is registered with Bailiwick of Guernsey Data Protection Office with the number 011567. This policy describes how information is gathered and used by totesport in the operation of this website.
 
 ## What information is collected?
 
@@ -40,7 +40,7 @@ You may update your personal information at any time by logging in and selecting
 
 ## Data Protection Registration
 
-Tote Credit Limited is the registered data controller under the Data Protection Act 1998. Tote Credit Limited complies with the Data Protection Act 1998 and the principles set out in that Act relating to the collection and processing of personal information.
+totesport is a registered data controller under the UK Data Protection Act 1998, and is registered with Bailiwick of Guernsey Data Protection Office with the number 011567 under Section 19 of the Data Protection (Bailiwick of Guernsey) Law 2001 totesport complies with both the UK Data Protection Act 1998 and Data Protection (Bailiwick of Guernsey) Law 2001 in relation to the collection and processing of personal information.
 
 ## Changes to Privacy Policy
 
