@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hollywoodtoysandcostumes.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609122031id_/http%3A//www.hollywoodtoysandcostumes.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywoodtoysandcostumes.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204120933id_/http%3A//www.hollywoodtoysandcostumes.com/privacy.php) for the most accurate reproduction.*
 
-# Hollywood Toys & Costumes - Privacy / Terms and Conditions - Halloween Costumes - Holiday Costumes - Hollywood Costumes - Accessories
+# HollywoodToysAndCostumes.com - Privacy / Terms and Conditions - Halloween Costumes - Holiday Costumes - Hollywood Costumes - Accessories
 
 ### Privacy / Terms & Conditions
 
@@ -22,19 +22,17 @@ The use of this Site indicates your agreement to the Privacy statement above. Ho
 
 **Returns**
 
-If your purchase is unsatisfactory because of size, defect, or error in shipping, you may return it within **** two (2) days **** from receipt of shipment. If it is not returned within two (2) days from your receipt of shipment, we will assume that you are satisfied with your purchase. No return will be accepted for merchandise returned after two (2) days from your receipt of shipment. ****
+If your purchase is unsatisfactory because of size, defect, or error in shipping, you may return it withinthirty (30) daysfrom receipt of shipment. If it is not returned within thirty (30) days from your receipt of shipment, we will assume that you are satisfied with your purchase. No return will be accepted for merchandise returned after thirty (30) days from your receipt of shipment.
 
 _Requirements for Returning Merchandise_
 
-  1. A Return Merchandise Authorization (RMA) must be obtained by email within two (2) days of your receipt of shipment, at [cs@hollywoodtoysandcostumes.com](mailto:cs@hollywoodtoysandcostumes.com). Packages will not be accepted without a Return Merchandise Authorization.  The request for an RMA must include: 
+  1. A Return Merchandise Authorization (RMA) must be obtained by email within two weeks of your receipt of shipment, at [cs@hollywoodtoysandcostumes.com](mailto:cs@hollywoodtoysandcostumes.com). Packages will not be accepted without a Return Merchandise Authorization.  The request for an RMA must include: 
     * The reason for the return
     * The Order Number from your packing slip
     * The date of purchase
-  
-
   2. All returns must be accompanied by the original packing slip enclosed with your shipment, and a separate note stating the reason for the return.
   3. All merchandise authorized to be returned must be returned to the address specified in the RMA, via a traceable shipping method, such as UPS, with delivery confirmation, and all shipping charges must be prepaid by the sender.
-  4. We must receive all returns within a maximum of twelve (12) days from your receipt of shipment.
+  4. We must receive all returns within a maximum of forty five (45) days from your receipt of shipment.
   5. We do not accept returns on the following items: 
     * Wigs, beards, facial hair or any other artificial hair
     * Fangs or any other fake teeth
@@ -44,21 +42,18 @@ _Requirements for Returning Merchandise_
     * Closeout or Clearance sale items
     * Items determined in the sole discretion of Hollywoodtoysandcostumes.com to have been worn, used, damaged, altered or showing any signs of wear
     * Items not in the manufacturer’s original packaging
-    * tems in damaged or torn packaging or otherwise in unsalable condition
+    * Items in damaged or torn packaging or otherwise in non-sellable condition
 
 
 
-**Refunds**
-
+**Refunds**  
 If returns meet ALL of the requirements listed above, a refund may be given.
 
 Refunds are for the cost of the merchandise ONLY and do NOT include shipping charges. Any return received with missing items or without original packaging will not be refunded. Returns are generally processed within one (1) to two (2) weeks of receipt of the return. During Halloween or holiday seasons (October through January) this process may take up to four (4) weeks.
 
 Only your purchase price for the merchandise is refundable. Customer is responsible for all shipping charges and any additional charges incurred to return merchandise.  These shipping charges will NOT be refunded.
 
-In our sole discretion, if a return does not meet ALL of the above requirements, we may reject the return completely, accept is partially, or accept the return with a twenty percent (20%) re-stocking and handling charge deducted from the full purchase price of the returned merchandise.
-
-**No Halloween merchandise may be returned after October 24th.**
+In our sole discretion, if a return does not meet ALL of the above requirements, we may reject the return completely, accept it partially, or accept the return with a twenty percent (20%) re-stocking and handling charge deducted from the full purchase price of the returned merchandise. 
 
 **Shipping Policy**
 
@@ -75,6 +70,8 @@ All orders received before Midnight, P.S.T. will be shipped within 24 to 48 hour
 We do not ship C.O.D.  All orders must be paid using the forms of payment specified above, or available at the time of your order.
 
 We currently ship only within the United States.  For shipping to countries other than the United States, please contact us directly with your request and we will do our best to accommodate your request for international shipments on a case by case basis.
+
+**We DO NOT ship to U.S. Protectorates (including Puerto Rico).**
 
 **Shipping Methods**
 
