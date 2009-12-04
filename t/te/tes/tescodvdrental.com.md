@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tescodvdrental.com privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530190423id_/http%3A//www.tescodvdrental.com/info/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tescodvdrental.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204212256id_/http%3A//www.tescodvdrental.com/info/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
