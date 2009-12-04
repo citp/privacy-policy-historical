@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nameberry.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620193419id_/http%3A//nameberry.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nameberry.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204110745id_/http%3A//nameberry.com/privacy) for the most accurate reproduction.*
 
-# Nameberry - Privacy PolicyBooks
+# About Nameberry - Nameberry.com
 
 This is the web site of NameBerry LLC.
 
