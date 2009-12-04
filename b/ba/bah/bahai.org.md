@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bahai.org privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618143911id_/http%3A//www.bahai.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bahai.org privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204221238id_/http%3A//www.bahai.org/privacy) for the most accurate reproduction.*
 
 # Privacy - The Bahá’í Faith
 
