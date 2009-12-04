@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the observer.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429024230id_/http%3A//www.observer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the observer.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204191317id_/http%3A//www.observer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The New York Observer
 
