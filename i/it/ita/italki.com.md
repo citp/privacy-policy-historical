@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the italki.com privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616112959id_/http%3A//www.italki.com/Static/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the italki.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204205844id_/http%3A//www.italki.com/static/privacy.htm) for the most accurate reproduction.*
 
-# italki - Language Exchange and Learning Community
+# italki - Privacy Policy
 
 This policy covers how italki.com, ("italki.com," "we," "us," or "our") treats personal information that it collects and receives on www.italki.com. This notice tells you what information we collect, steps we take to protect and secure it, how we use and share information, and finally, how you can contact us with questions or concerns.
 
@@ -82,7 +82,7 @@ italki.com may revise, modify or update this policy. We may notify you about sig
 
 No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your information, we take reasonable measures to secure it on our systems.
 
-If italki.com learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using italki or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of those sites, products and services. We may post a notice on our applicable web sites if a security breach occurs. If this happens, you will need a web browser enabling you to view the applicable web sites. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at [privacy@italki.com](mailto:privacy@italki.com).Changing your Preferences and Personal Information 
+If italki.com learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using italki or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of those sites, products and services. We may post a notice on our applicable web sites if a security breach occurs. If this happens, you will need a web browser enabling you to view the applicable web sites. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at [privacy(at)italki(dot)com](mailto:privacy@italki.com).Changing your Preferences and Personal Information 
 
 You can edit your account information with italki at any time. Most personal information you may provide is entirely optional. For example, to the extent that parents are considering whether to permit their children to use italki, we do not condition a child's participation based upon their provision of any more personal information than is necessary to operate those sites, products and services.
 
@@ -94,7 +94,7 @@ The italki web site is hosted in the US and is intended for and directed to user
 
 #### Contacting italki.com
 
-If you have a privacy concern regarding italki, or this policy, and if you cannot satisfactorily resolve it through the use of those sites, products or services, you should complete a feedback form or you can write to us by email at [privacy@italki.com](mailto:privacy@italki.com).
+If you have a privacy concern regarding italki, or this policy, and if you cannot satisfactorily resolve it through the use of those sites, products or services, you should complete a feedback form or you can write to us by email at [privacy(at)italki(dot)com](mailto:privacy@italki.com).
 
 Effective Date: February 1, 2007  
 Copyright 2007 italki.com, Inc. All rights reserved.
