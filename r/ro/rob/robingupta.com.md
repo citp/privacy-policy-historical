@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the robingupta.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603001738id_/http%3A//www.robingupta.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robingupta.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204030739id_/http%3A//www.robingupta.com/privacypolicy.html) for the most accurate reproduction.*
 
 # RobinGupta - Privacy Policy
 
