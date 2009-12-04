@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the organogold.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602012231id_/http%3A//www.organogold.com/PrivacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organogold.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204094125id_/http%3A//organogold.com/PrivacyStatement.asp) for the most accurate reproduction.*
 
 # PRIVACY & SECURITY
 
@@ -33,11 +33,10 @@ This site gives users the following options for changing and modifying informati
 **Contacting the Web Site**   
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
-In the US:                                                     In Canada:
+In the US:                                                   In Canada:
 
-Web Master                                                   Web Master  
-OrGano Gold International Inc.                           OrGano Gold Enterprises Inc.  
-4129 Almond Joy Ct                                         6900, #3 Road  
-Las Vegas NV 89115                                        Richmond BC V6Y 2C5
-
-E-mail: [webmaster@OrGanoGold.com](mailto:webmaster@OrGanoGold.com)                  (604)638-6840 (ORDER ENTRY ONLY)
+Web Master                                                 Web Master  
+OrGano Gold International Inc.                         OrGano Gold Enterprises Inc.  
+5505 Hovander Road                                      6900, #3 Road  
+Ferndale , WA 98248                                      Richmond BC V6Y 2C5  
+E-mail: [webmaster@OrGanoGold.com](mailto:webmaster@OrGanoGold.com)                (604)638-6840 (ORDER ENTRY ONLY)
