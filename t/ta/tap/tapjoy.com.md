@@ -1,71 +1,46 @@
-> *The following text is extracted and transformed from the tapjoy.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501070000id_/http%3A//tapjoy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tapjoy.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204045022id_/http%3A//www.tapjoy.com/privacy/Default.aspx) for the most accurate reproduction.*
 
-# TapJoy
+# Tapjoy
 
-TapJoy’s Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share, and help you make informed decisions when using TapJoy applications or accessing www.TapJoy.com.
+We collect information from you when you register on our site, place an order, subscribe to our newsletter or respond to a survey. 
 
-By using TapJoy applications or accessing our website, you are accepting the practices described in this Privacy Policy.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number, credit card information or Tax ID. You may, however, visit our site anonymously. 
 
-If you have questions or concerns regarding this statement, you should first contact us at privacy@TapJoy.com
+Any of the information we collect from you may be used in one of the following ways: 
 
-**The Information We Collect**
+To personalize your experience (your information helps us to better respond to your individual needs) 
 
-When you launch a TapJoy application you provide us with four types of information: personal information you knowingly choose to disclose that is collected by us; locational use information collected by us as you interact with our services; usage information that is collected by our servers as you use our applications; and information related to third party services that you would like to access through our applications and services.
+To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you) 
 
-When you register with TapJoy, you provide us with certain personal information, such as your username, your email address and a photo representation (“avatar”) and any other personal or preference information that you provide to us.
+To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs) 
 
-When you launch or interact with a TapJoy application, we collect your device type and IP address. This information is gathered for all users. In addition, we use the unique Device ID (“UUID”) that Apple makes available for each iPhone/iPod touch device in order to authenticate the user session. This UUID functions similarly to a persistent cookie to make it possible to authenticate the user without the need for a password. You can disassociate a UUID from a user account at any time by emailing us at privacy@TapJoy.com. You can also do so through a form accessible through the Help button on the login/settings screen in each application.
+To administer a contest, promotion, survey or other site feature 
 
-When you use TapJoy applications, you may set up your personal profile, form relationships, send messages, and transmit information through various channels. We collect this information so that we can provide you the service and offer personalized features. In most cases, we retain it so that, for instance, you can return to view prior messages you have sent or easily see your friend list. When you update information, we usually keep a backup copy of the prior version for a reasonable period of time to enable reversion to the prior version of that information.
+The email address you provide for order processing, will only be used to send you information and updates pertaining to your order. 
 
-You post User Content through TapJoy applications at your own risk. Although we allow you to set privacy options that limit access to your content and associated meta-data such as location information, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other Users with whom you may choose to share your pages and information. Therefore, we cannot and do not guarantee that User Content you post with Taplous will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained in TapJoy applications. You understand and acknowledge that, even after removal, copies of User Content may remain viewable in cached and archived form or if other Users have copied or stored your User Content.
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
 
-Any improper collection or misuse of information provided on TapJoy applications is a violation of the TapJoy Terms of Service and should be reported to privacy@TapJoy.com.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to�keep the information confidential. 
 
-If you choose to use our invitation service to tell a friend about our applications, we may ask you for information needed to send the invitation, such as your friend’s email address. We will automatically send your friend a one-time email or instant message inviting him or her to visit the site. TapJoy stores this information to send this one-time invitation, to register a friend connection if your invitation is accepted, and to track the success of our referral program. Your friend may contact us at privacy@TapJoy.com to request that we remove this information from our database.
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers. 
 
-TapJoy may also collect information about you from other sources, such as newspapers, blogs, instant messaging services, and other users of TapJoy applications through the operation of the service in order to provide you with more useful information and a more personalized experience.
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
 
-By using TapJoy, you are consenting to have your personal data transferred to and processed in the United States.
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, and keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. 
 
-**Third Party Services Accessed by TapJoy**
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
 
-You can configure certain third party services to be accessed by TapJoy applications and services. When you do so, we will store your access credentials to such third party services in a secure manner; we may temporarily cache your list of contacts from these services; and we will store messages, photos and other content created using our applications that are delivered to such third party services. We do this to improve the performance and experience of these services (such as, adding photos and location information not available in the third party services).
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. 
 
-**Use of Information Obtained by TapJoy**
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. 
 
-When you register with TapJoy, you create your own profile. Your username and avatar (but not email address) are displayed to other TapJoy users to enable you to connect with people on TapJoy. We may occasionally use your username and email address to send you notifications regarding new services offered by TapJoy that we think you may find valuable.
+By using our site, you consent to our privacy policy. 
 
-TapJoy may send you service-related announcements from time to time through the general operation of the service. For instance, if a friend sends you a new message you may receive an email or other notification alerting you to that fact.
+If we decide to change our privacy policy, we will post those changes on this page. 
 
-TapJoy may use information in your profile or related to your activities on TapJoy applications in order to personalize the application experience for you. TapJoy may also share information such as user trends and application downloads in aggregate to third parties without identifying you as an individual.
+  
+If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-**Sharing Your Information with Third Parties**
-
-TapJoy is about users sharing information with others. Some of our applications have privacy settings to allow you to control what information is made available.
-
-We do not provide contact information to third party marketers without your permission. We share your information with third parties only in limited circumstances where we believe such sharing is 1) necessary for business operations (e.g., emailing you through a third party server such as Gmail), 2) legally required or, 3) permitted by you.
-
-If the ownership of all or substantially all of the TapJoy business, or individual business units owned by LL Group, LLC, were to change, your user information may be transferred to the new owner so the service can continue operations. In any such transfer of information, your user information would remain subject to the promises made in any pre-existing Privacy Policy.
-
-**Third Party Advertising**
-
-Advertisements that may appear on TapJoy are sometimes delivered (or “served”) directly to users by third party advertisers. They automatically receive your IP address when this happens. In this way, they may compile information about where individuals using your computer or browser saw their advertisements and determine which advertisements are clicked. Third party advertisers have no access to your contact information.
-
-**Changing or Removing Information**
-
-TapJoy users may modify or delete any of their profile information at any time by logging into their account. Information will be updated immediately. Individuals who wish to deactivate their TapJoy account may do so by emailing us at privacy@TapJoy.com. You can also do so through a form accessible through the Help button on the login/settings screen in each application. Removed information may persist in backup copies for a reasonable period of time but will not be generally available to members of TapJoy.
-
-Where you make use of the communication features of the service to share information with other individuals on TapJoy, however, (e.g., sending a direct message to another TapJoy user) you generally cannot remove such communications.
-
-**Security**
-
-TapJoy takes appropriate precautions to protect our users’ information. Your account information is located on a secured server. If you have any questions about the security of TapJoy applications, please contact us at privacy@TapJoy.com.
-
-**Terms of Use, Notices and Revisions**
-
-Your use of TapJoy, and any disputes arising from it, is subject to this Privacy Policy as well as our Terms of Use and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law. We reserve the right to change our Privacy Policy and our Terms of Use at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site. If we make changes, we will post them and will indicate at the top of this page the policy’s new effective date. If we make material changes to this policy, we will notify you here, by email, or through notice on our home page. We encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account.
-
-**Contacting TapJoy**
-
-If you have any questions about this privacy policy, please contact us at privacy@TapJoy.com. You may also contact us by mail at: 3000 Town Center, Suite 2200 Southfield MI 48075
+[http://www.tapjoy.com](http://www.tapjoy.com/)   
+[privacy@tapjoy.com](mailto:privacy@tapjoy.com)   
+Privacy Policy Created by Free Privacy Policy 
