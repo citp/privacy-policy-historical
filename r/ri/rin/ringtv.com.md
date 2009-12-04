@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ringtv.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604185438id_/http%3A//www.ringtv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ringtv.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204012809id_/http%3A//www.ringtv.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,4 +26,4 @@ Our Web site does use ‘cookie’ information to help provide an enhanced funct
 
 ## 4\. CONTACT US
 
-This Web site is controlled and operated by SEP at 6198 Butler Pike, Suite 200, Blue Bell, PA 19422. The phone number is (215) 461-0583. If you have any questions regarding these Terms of Use and Privacy Policies, feel free to contact us. 
+This Web site is controlled and operated by SEP at 510 Township Line Road, Suite 130, Blue Bell, PA 19422. The phone number is 267-708-0948. If you have any questions regarding these Terms of Use and Privacy Policies, feel free to contact us. 
