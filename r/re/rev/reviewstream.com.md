@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reviewstream.com privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614112943id_/http%3A//www.reviewstream.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviewstream.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204091505id_/http%3A//www.reviewstream.com/privacy.php) for the most accurate reproduction.*
 
 # REVIEW STREAM Privacy Policy
 
