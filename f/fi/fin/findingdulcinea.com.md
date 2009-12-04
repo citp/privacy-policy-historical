@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findingdulcinea.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623111724id_/http%3A//www.findingdulcinea.com/info/privacy-promise.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findingdulcinea.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204041103id_/http%3A//www.findingdulcinea.com/info/privacy-promise.html) for the most accurate reproduction.*
 
 # findingDulcinea's Privacy Policy / findingDulcinea
 
@@ -6,9 +6,9 @@
 
 FindingDulcinea is published by Dulcinea Media, Inc. ("Dulcinea Media").  We are firmly committed to protecting your privacy and providing a safe online experience for all of our users.  To better protect your privacy, this Privacy Policy explains our online information practices and the choices you can make about the way your information is collected and used by Dulcinea Media. With respect to each aspect of our Web site, we explain what types of information we collect and what we do with it. 
 
-### Newsletters 
+### Newsletters
 
-Dulcinea Media offers users the option to [subscribe to email newsletters](https://web.archive.org/info/newsletter.html) that keep subscribers informed about developments on our Web site, such as new features or articles and guides that we publish.  If you wish to subscribe to our newsletter(s), we, and our third-party email vendor, will use your name and email address that you voluntarily provide to us to send the newsletter, and that you confirm through a confirmation email request.  Out of respect for your privacy, we provide you a simple and easy way to unsubscribe through a link within our newsletter email.  We and our vendor use security measures to protect against the loss, misuse and alteration of your data used by our system.  We will not share, sell, or rent your individual personal information (including your name or email address) with anyone without your consent or unless required by law.  Information submitted to us is only available to employees managing this information for the purpose of sending you emails based on your request for information and to contracted service providers for purposes of providing services relating to our communications with you. 
+Dulcinea Media offers users the option to [subscribe to email newsletters](http://www.findingdulcinea.com/info/newsletter.html) that keep subscribers informed about developments on our Web site, such as new features or articles and guides that we publish.  If you wish to subscribe to our newsletter(s), we, and our third-party email vendor, will use your name and email address that you voluntarily provide to us to send the newsletter, and that you confirm through a confirmation email request.  Out of respect for your privacy, we provide you a simple and easy way to unsubscribe through a link within our newsletter email.  We and our vendor use security measures to protect against the loss, misuse and alteration of your data used by our system.  We will not share, sell, or rent your individual personal information (including your name or email address) with anyone without your consent or unless required by law.  Information submitted to us is only available to employees managing this information for the purpose of sending you emails based on your request for information and to contracted service providers for purposes of providing services relating to our communications with you. 
 
 ### Surveys or Contests
 
@@ -16,7 +16,7 @@ From time-to-time we may provide you the opportunity to participate in contests 
 
 We may use a third party service provider to conduct these surveys or contests; that company will be prohibited from using our users' personally identifiable information for any other purpose without your consent. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you notice and the choice to opt-out. 
 
-### Tell-A-Friend 
+### Tell-A-Friend
 
 If you choose to use our referral service to tell a friend about our site or an article on our site, we will ask you for your friend's name and email address. We will send your friend a one-time email inviting him or her to visit the site. Dulcinea Media stores this information for the sole purpose of sending this one-time email. 
 
@@ -26,7 +26,7 @@ A cookie is a small text file that is stored on a user's computer for record-kee
 
 You have the ability to accept, decline and delete cookies by modifying your Web browser settings.    However, if you disable cookies, some advanced and customized features of our Web site (and other Web sites) will not be available to you.  For more information on how to change your Web browser settings to disable and/or delete cookies please see the [Interactive Advertising Bureau's "Manage Cookies" article](http://www.allaboutcookies.org/manage-cookies/). 
 
-### Web Beacons 
+### Web Beacons
 
 We employ or our third party advertising partner employ Web beacons that help us better manage content on our site by informing us what content is effective. Web beacons are clear gifs (tiny graphics) with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, Web beacons are embedded invisibly on Web pages and are about the size of the period at the end of this sentence.  The Web beacons do not collect any personally identifiable information from our users.  We do not tie the information gathered by Web beacons to our customers' personally identifiable information. 
 
@@ -48,8 +48,10 @@ We encourage you to be aware when you leave our site and to read the privacy sta
 
 In the event Dulcinea Media goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personal information voluntarily provided to Dulcinea Media will likely be among the assets transferred. You will be notified via notice on our Web site promptly after any such change in ownership. 
 
-### Changes in this Privacy Statement 
+### Changes in this Privacy Statement
 
 If we change our privacy policy, we will post those changes to this privacy statement and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances. 
 
 We reserve the right to modify this privacy statement at any time. 
+
+* * *
