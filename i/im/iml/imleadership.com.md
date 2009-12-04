@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the imleadership.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611102635id_/http%3A//www.howiesultimate.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imleadership.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204125948id_/http%3A//www.imleadership.com/member/membership/policy) for the most accurate reproduction.*
 
-# Howie's Ultimate
+# Privacy Policy | IM Leadership
 
 PRIVACY POLICY 
 
-Howie's Apprentice ("BBR") strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period."
+IM Leadership ("BBR") strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period."
 
 How we gather information from users
 
@@ -38,7 +38,7 @@ We can be reached by contacting:
 
 BBR
 
-Email: [Please use our contact form here](http://www.howiesapprentice.com/member/membership-contact/)
+Email: [Please use our contact form here](http://www.imleadership.com/member/membership-contact/)
 
 Changes to this Policy
 
