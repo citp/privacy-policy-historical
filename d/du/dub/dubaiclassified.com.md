@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dubaiclassified.com privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522060544id_/http%3A//www.dubaiclassified.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubaiclassified.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204042404id_/http%3A//www.dubaiclassified.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Dubai Classifieds | Dubai Yellow Pages | Dubai Accommodation | Dubai Jobs | Dubai Real Estate | Dubai , United Arab Emirates.
 
@@ -52,7 +52,7 @@ Our website may contain links to other websites of interest. However, once you h
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [admin@dubaiclassified.com](https://web.archive.org/web/20090522060544id_/http%3A//www.dubaiclassified.com/admin@dubaiclassified.com)
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [admin@dubaiclassified.com](https://web.archive.org/web/20091204042404id_/http%3A//www.dubaiclassified.com/admin@dubaiclassified.com)
 
 
 
@@ -63,7 +63,7 @@ If you believe that any information we are holding on you is incorrect or incomp
 
 **Google Advertisements**
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](https://web.archive.org/web/20090522060544id_/http%3A//www.dubaiclassified.com/NAI).  
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](https://web.archive.org/web/20091204042404id_/http%3A//www.dubaiclassified.com/NAI).  
 
 
   
