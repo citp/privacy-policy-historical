@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mybuys.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525051822id_/http%3A//www.mybuys.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybuys.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204020438id_/http%3A//www.mybuys.com/privacy) for the most accurate reproduction.*
 
 # MyBuys - Privacy
 
 ### MyBuys Privacy Policy
 
-This privacy policy describes the privacy practices of MyBuys, Inc. ( **"MyBuys"** or **"we"** ) with respect to information we collect (a) from end users ( **"End Users"** ) through our clients' websites and (b) from the visitors of our corporate website ( **"Visitors"** ) located at [http://www.mybuys.com](http://www.mybuys.com/) ( **"MyBuys Website"** ). End Users and Visitors are collectively referred to as "Users" in this Privacy Policy.
+This privacy policy describes the privacy practices of MyBuys, Inc. ( **"MyBuys"** or **"we"** ) with respect to information we collect (a) from end users ( **"End Users"** ) through our clients' websites and (b) from the visitors of our corporate website ( **"Visitors"** ) located at []() ( **"MyBuys Website"** ). End Users and Visitors are collectively referred to as "Users" in this Privacy Policy.
 
 Because we want to demonstrate our commitment to our Users' privacy, we disclose the following information.
 
