@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the learningplanet.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626003735id_/http%3A//www.learningplanet.com/support/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learningplanet.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204210731id_/http%3A//www.learningplanet.com/support/privacy.asp) for the most accurate reproduction.*
 
 # LearningPlanet.com
+
+#### Privacy Policy
 
 Planet Interactive, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: LearningPlanet.com. 
 
@@ -16,9 +18,15 @@ Our online surveys ask visitors for contact information (like their email addres
 
 We use Burst Media and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this site in order to provide advertisements on this site about goods and services that may be of interest to you.
 
-#### Third Party Cookies
+Cookies
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
+Like many websites, we use cookies on the LearningPlanet.com Site (by placing or reading them via your browser) to save your registration ID and login password for future logins to the LearningPlanet.com Site. We also utilize session ID cookies to enable certain features of the LearningPlanet.com Site, to better understand how you interact with the LearningPlanet.com Site and to monitor aggregate usage by LearningPlanet.com Users and web traffic routing on the LearningPlanet.com Site. Third party advertisers may also place or read cookies on your browser. You can instruct your browser, by changing its options, to stop accepting browser cookies or to prompt you before accepting a cookie from the websites you visit. In addition, we use Flash cookies. Similar to browser cookies, Flash cookies are used to remember settings, preferences and usage, but are managed through a different interface than the one provided by your web browser. If you want to delete Flash cookies, please access your Flash Player settings management tool available on Adobe's web site. However, if you do not accept cookies (whether browser or Flash cookies), you may not be able to use all portions of the LearningPlanet.com Site or all functionality of the Services.
+
+#### Opt-Out Option
+
+If you prefer not to receive interest based content and ads, you can always opt-out by accessing the NAI's opt out-tool [here](http://www.networkadvertising.org/). After you opt-out, you will not receive interest based content and advertisements. Please note that opting-out does not turn off other advertisements or other ad delivery solutions that address advertising based on demographic, interests, or other forms of audience based data.
+
+The foregoing opt-out does not cover the collection of Log Data for the purpose of providing our Market Research Services (though no ads are sent to you in connection with such services).
 
 #### Email Newsletter
 
