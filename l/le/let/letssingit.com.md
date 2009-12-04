@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the letssingit.com privacy policy that was archived on 2009-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090403051524id_/http%3A//www.letssingit.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letssingit.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204061100id_/http%3A//www.letssingit.com/privacy_policy) for the most accurate reproduction.*
 
-# LetsSingIt - Artist news, biographies, albums, songs, lyrics, pictures, fanpages and more!
+# Lyrics, albums, songs, artists and more music | LetsSingIt
 
 On this page you'll find the LetsSingIt's privacy policy.
 
