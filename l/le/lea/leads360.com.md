@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the leads360.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912233338id_/http%3A//www.leads360.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leads360.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204134814id_/http%3A//www.leads360.com/privacy-policy.aspx%3Fheight%3D470%26width%3D750) for the most accurate reproduction.*
 
-# Leads360: Privacy Policy
+# Leads360 | Privacy Policy
 
 ### Our privacy policy is pretty simple. We will only contact you if you voluntarily submit your contact information. We will never sell your information.
 
@@ -8,7 +8,7 @@ If you would like all of the details, read on.
 
 ## Leads360 Incorporated Global Privacy Policy
 
-Leads360 Incorporated (“Leads360”) respects your right to privacy. This policy summarizes what personally identifiable information we may collect, and how we might use this information. This policy also describes other important topics relating to your privacy. It is Leads360 policy to comply with all applicable privacy and data protection laws. This commitment reflects the value we place on earning and keeping the trust of our employees, customers, business partners and others who share their personal information with us. This Global Privacy Policy (this “Policy”) describes how Leads360 protects your privacy when we collect personal information on Leads360 Internet sites. As used in this Policy, the term “personal information” means information that identifies you personally, alone or in combination with other information available to us.
+Leads360 Incorporated ("Leads360") respects your right to privacy. This policy summarizes what personally identifiable information we may collect, and how we might use this information. This policy also describes other important topics relating to your privacy. It is Leads360 policy to comply with all applicable privacy and data protection laws. This commitment reflects the value we place on earning and keeping the trust of our employees, customers, business partners and others who share their personal information with us. This Global Privacy Policy (this "Policy") describes how Leads360 protects your privacy when we collect personal information on Leads360 Internet sites. As used in this Policy, the term "personal information" means information that identifies you personally, alone or in combination with other information available to us.
 
 ## Your Consent
 
@@ -28,13 +28,13 @@ When you access and use a Leads360 Internet Site, there are 3 ways we may collec
 
   1. ### Information Sent to Us by Your Web Browser
 
-Leads360 collects information that is sent to us automatically by your web browser. This information typically includes the IP address of your Internet service provider, the name of your operating system (such as Macintosh® or Windows®) and the name and version of your browser (such as Internet Explorer® or FireFox®). The information we receive depends on the settings on your web browser. Please check your browser if you want to learn what information your browser sends or how to change your settings. The information provided by your browser does not identify you personally. We use this information to create statistics that help us improve our sites and make them more compatible with the technology used by our Internet visitors.
+Leads360 collects information that is sent to us automatically by your web browser. This information typically includes the IP address of your Internet service provider, the name of your operating system (such as MacintoshÂ® or WindowsÂ®) and the name and version of your browser (such as Internet ExplorerÂ® or FireFoxÂ®). The information we receive depends on the settings on your web browser. Please check your browser if you want to learn what information your browser sends or how to change your settings. The information provided by your browser does not identify you personally. We use this information to create statistics that help us improve our sites and make them more compatible with the technology used by our Internet visitors.
 
-  2. ### Information Collected By Placing a “Cookie” On Your Computer
+  2. ### Information Collected By Placing a "Cookie" On Your Computer
 
-Leads360 may obtain information about you by installing a “tag” on your computer’s hard drive. This tag is known as a “cookie.” All of our Leads360 Internet Sites use “session cookies.” A session cookie is used to tag your computer with a computer-generated, unique identifier when you access our site. A session cookie does not identify you personally and expires after you close your browser. We use session cookies to collect statistical information about the ways visitors use our sites – which pages they visit, which links they use, and how long they stay on each page. We analyze this information in statistical form to better understand our visitors’ interests and needs to improve the content and functionality of our sites.
+Leads360 may obtain information about you by installing a "tag" on your computer's hard drive. This tag is known as a "cookie." All of our Leads360 Internet Sites use "session cookies." A session cookie is used to tag your computer with a computer-generated, unique identifier when you access our site. A session cookie does not identify you personally and expires after you close your browser. We use session cookies to collect statistical information about the ways visitors use our sites' which pages they visit, which links they use, and how long they stay on each page. We analyze this information in statistical form to better understand our visotor's interests and needs to improve the content and functionality of our sites.
 
-Some Leads360 Internet sites also use “persistent cookies.” These cookies do not expire when you close your browser; they stay on your computer until you delete them. By assigning your computer a unique identifier, we are able to create a database of your previous choices and preferences, and in situations where these choices or preferences need to be collected again, they can be provided by us automatically, saving you time and effort.
+Some Leads360 Internet sites also use "persistent cookies." These cookies do not expire when you close your browser; they stay on your computer until you delete them. By assigning your computer a unique identifier, we are able to create a database of your previous choices and preferences, and in situations where these choices or preferences need to be collected again, they can be provided by us automatically, saving you time and effort.
 
 If you do not wish to receive cookies, you may set your browser to reject cookies or to alert you when a cookie is placed on your computer. Although you are not required to accept cookies when you visit a Leads360 Internet Site, you may be unable to use all of the functionality of the site if your browser rejects our cookies.
 
@@ -51,7 +51,7 @@ Leads360 will not sell personal information collected from its Internet sites to
 
 ## Security of Personal Information
 
-Your personal information will generally be stored in Leads360 databases or databases maintained by our service providers. Most of these databases are stored on servers located in the United States. To the extent required by law, if your personal information will be transferred outside your country an appropriate notice will be provided.  Leads360 maintains reasonable safeguards to protect the confidentiality, security and integrity of your personal information. For example, we use secure socket layer (SSL) technology to transfer personal information over the Internet. Although we use security measures to help protect your personal information against unauthorized disclosure, misuse or alteration, as is the case with all computer networks linked to the Internet, we cannot guarantee the security of information provided over the Internet and will not be responsible for breaches of security beyond our reasonable control.
+Your personal information will generally be stored in Leads360 databases or databases maintained by our service providers. Most of these databases are stored on servers located in the United States. To the extent required by law, if your personal information will be transferred outside your country an appropriate notice will be provided. Leads360 maintains reasonable safeguards to protect the confidentiality, security and integrity of your personal information. For example, we use secure socket layer (SSL) technology to transfer personal information over the Internet. Although we use security measures to help protect your personal information against unauthorized disclosure, misuse or alteration, as is the case with all computer networks linked to the Internet, we cannot guarantee the security of information provided over the Internet and will not be responsible for breaches of security beyond our reasonable control.
 
 ## Links to Third Party Internet Sites
 
@@ -63,4 +63,4 @@ Leads360 retains the personal information collected on Leads360 Internet Sites a
 
 ## Changes to this Policy
 
-Leads360 reserves the right, at its sole discretion, to change, modify, add or remove any portion of this policy, in whole or in part, at any time.  Changes in Policy will be effective when posted.  You agree to review this Policy periodically to be aware of any changes.  Your continued use of the Site after any changes to this Policy will be considered acceptance of those changes.
+Leads360 reserves the right, at its sole discretion, to change, modify, add or remove any portion of this policy, in whole or in part, at any time. Changes in Policy will be effective when posted. You agree to review this Policy periodically to be aware of any changes. Your continued use of the Site after any changes to this Policy will be considered acceptance of those changes.
