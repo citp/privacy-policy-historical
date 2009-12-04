@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlsgames1.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618122344id_/http%3A//www.girlsgames1.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsgames1.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204070223id_/http%3A//www.girlsgames1.com/privacy.html) for the most accurate reproduction.*
 
 # GirlsGames1.com
 
@@ -31,4 +31,4 @@ Users may opt out of the use of the DART cookie by visiting the Google ad and co
 All rights reserved, GirlsGames1.com © 2008. All games copyright to their respective owners.
 
 **Contact**  
-If you have any questions please contact us via [contact form](https://web.archive.org/web/20090618122344id_/http%3A//www.girlsgames1.com/contact.html)
+If you have any questions please contact us via [contact form](https://web.archive.org/web/20091204070223id_/http%3A//www.girlsgames1.com/contact.html)
