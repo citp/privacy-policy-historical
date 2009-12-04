@@ -1,20 +1,6 @@
-> *The following text is extracted and transformed from the pppl.gov privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602222114id_/http%3A//www.pppl.gov/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pppl.gov privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204211756id_/http%3A//www.pppl.gov/privacy.cfm) for the most accurate reproduction.*
 
 # Princeton Plasma Physics Laboratory
-
-|  | [](https://web.archive.org/web/20090602222114id_/http%3A//www.pppl.gov/index.cfm)  
----  
-[](https://web.archive.org/web/20090602222114id_/http%3A//www.pppl.gov/polPressReleases.cfm)  
-[](https://web.archive.org/web/20090602222114id_/http%3A//www.pppl.gov/staff.cfm)  
-[](http://labstatus.pppl.gov/status.aspx)  
-[](https://web.archive.org/web/20090602222114id_/http%3A//www.pppl.gov/technologytransfer.cfm)  
-[](https://web.archive.org/web/20090602222114id_/http%3A//www.pppl.gov/educationprograms.cfm)  
-[](http://www.pppl.gov/library/)  
-[](https://web.archive.org/web/20090602222114id_/http%3A//www.pppl.gov/colloquia.cfm)  
-[](https://jobs.princeton.edu/)  
-[](https://web.archive.org/web/20090602222114id_/http%3A//www.pppl.gov/business.cfm)  
-[](https://web.archive.org/web/20090602222114id_/http%3A//www.pppl.gov/links.cfm)  
-| 
 
 ## Security Notice
 
@@ -50,55 +36,3 @@ This information is NOT shared with anyone beyond the support staff to this home
 ## Comments Sent by E-Mail
 
 You may choose to provide us with personal information, as in an e-mail message containing your comments or questions. We use this information to improve our service to you or to respond to your request. There are times when your message is forwarded, as e-mail, to other DOE or Laboratory employees who may be better able to help you. Except for authorized law enforcement investigations, we do not share our e-mail with any other outside organizations. 
-
-  
-TOP
-
-  
-
-
-|  | 
-
-Quick Links 
-
-[Fueling the Future Video ](https://web.archive.org/web/20090602222114id_/http%3A//www.pppl.gov/fuelingthefuture.cfm)  
-  
-[Virtual Tour ](https://web.archive.org/web/20090602222114id_/http%3A//www.pppl.gov/polGallery.cfm)  
-  
-[PPPL - An Overview ](https://web.archive.org/web/20090602222114id_/http%3A//www.pppl.gov/polDoc.cfm?Doc_Id=49)  
-  
-[ITER ](https://web.archive.org/web/20090602222114id_/http%3A//www.pppl.gov/polDoc.cfm?Doc_Id=48)  
-  
-[PPPL Hotline ](https://web.archive.org/web/20090602222114id_/http%3A//www.pppl.gov/polNewsletters.cfm)  
-  
-[Information Bulletins ](https://web.archive.org/web/20090602222114id_/http%3A//www.pppl.gov/polBulletins.cfm)  
-  
-[PPPL Digest ](https://web.archive.org/web/20090602222114id_/http%3A//www.pppl.gov/polDigests.cfm)  
-  
-[PPPL Technical Reports ](https://web.archive.org/web/20090602222114id_/http%3A//www.pppl.gov/TechReports.cfm)  
-  
-[PPPL Annual Highlights Report](https://web.archive.org/web/20090602222114id_/http%3A//www.pppl.gov/polHighlights.cfm)  
-  
-[Environment, Safety, &Health](https://web.archive.org/web/20090602222114id_/http%3A//www.pppl.gov/ESH.cfm)  
-  
-[Sustainable PPPL ](https://web.archive.org/web/20090602222114id_/http%3A//www.pppl.gov/polPublicationsSustainable.cfm)  
-  
-[Non-PPPL Publications ](https://web.archive.org/web/20090602222114id_/http%3A//www.pppl.gov/polPublicationsNonPPPL.cfm)  
-  
-[PPPL News Summaries ](https://web.archive.org/web/20090602222114id_/http%3A//www.pppl.gov/polNews.cfm)  
-  
-[PPPL WebMedia  
-](https://web.archive.org/web/20090602222114id_/http%3A//www.pppl.gov/Webmedia.cfm)  
-  
----|---|---  
-| 
-
-Princeton Plasma Physics Laboratory  
-James Forrestal Campus  
-P.O. Box 451  
-(Delivery) U.S. Route 1 North, Sayre Drive, Receiving #3  
-Princeton, NJ 08543-0451   
-GPS address: 100 Stellarator Road, Princeton, NJ, 08540 
-
-|   
----|---
