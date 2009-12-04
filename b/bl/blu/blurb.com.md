@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blurb.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628033343id_/http%3A//www.blurb.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blurb.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204072758id_/http%3A//www.blurb.com/corporate/privacy) for the most accurate reproduction.*
 
 # Policies and Legal - Privacy Policy | Blurb
 
