@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nijafriends.com privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526004826id_/http%3A//www.nijafriends.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nijafriends.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204020543id_/http%3A//www.nijafriends.com/privacy-policy.php) for the most accurate reproduction.*
 
 # NijaFriends - Privacy Policy
 
@@ -17,13 +17,13 @@ NijaFriends gathers two types of information about users:
 
 
 
-NijaFriends Gathers User Information In The Following Processes:
+NijaFriends Gathers User Information In the following processes:
 
 **Optional Voluntary Information**
 
 We offer the following free services, which require some type of voluntary submission of personal information by users:
 
-Users must register in order to post messages, post their pictures, create or join a group although they needn't register to visit NijaFriends. During registration the user is required to supply a username, their name, password, email address, ethnicity and othe personal information. Our site users can choose to electronically send invitation messages to friends by clicking "invite a friend". The user must provide the recipent email address. This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the email. The information is not used for any other purpose.
+Users must register in order to post messages, post their pictures, create or join a group, upload music, usage of Chat Room although they needn't register to visit NijaFriends. During registration the user is required to supply a username, their name, DOB, password, email address, ethnicity and other personal information depending on Account Type. Our site users can choose to electronically send invitation messages to friends by clicking "invite a friend". The user must provide the recipent email address. This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the email. The information is not used for any other purpose.
 
 **Users Under 18**
 
@@ -71,4 +71,4 @@ We give users the ability to restrict who and what other users can see on their 
 
 By using this site, you consent to the collection and use of this information by NijaFriends. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. For more information please contact us [here](mailto:privacy@nijafriends.com)
 
-**Updated 7th of April, 2009**
+**Updated 2nd of July, 2009**
