@@ -1,0 +1,402 @@
+<!--The following is the downloaded HTML source of the myinsight.com privacy policy that was archived on 2009-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091204130024id_/http%3A//myinsight.com/Privacy.asp) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head runat="server"><!-- PageID 8444 - published by RedDot 7.5 - 7.5.1.36 - 18985 -->
+    <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    <title>Insight Communications :: Privacy</title>
+    
+    <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
+    <link type="text/css" rel="stylesheet" href="/css/all.css">
+    <!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="/css/ie.css" media="screen"/><![endif]-->
+    <link rel="stylesheet" type="text/css" media="all" href="/css/niceforms.css">
+    
+    <script language="javascript" type="text/javascript" src="/js/main.js"></script>    
+    
+    <!--[if lt IE 7]><script defer type="text/javascript" src="/js/pngfix.js"></script><![endif]-->
+</head>
+<body>
+
+<!-- Start: UTM Tracking -->
+<script src="/__utm.js" type="text/javascript"></script>
+<!-- End: UTM Tracking -->
+
+    <div id="page">
+        
+<form name="zipform" class="niceform" method="get" action="/ZipCodeLookupDo.asp" onsubmit="return zipSubmit(this)" style="margin-bottom:5px;">
+<div id="header">
+    <div class="search">
+        <div class="logo">
+            <a href="/default.asp"><img src="/images/logo2.jpg" alt="Insight"></a>
+        </div>
+        <div class="zip">
+           <input type="text" name="z" id="z" onfocus="zipFocus()" value="">
+           <input type="hidden" name="destination" value="/Local.asp">
+           <input type="hidden" name="source" value="header">
+        </div>
+        <div class="button">
+           <a id="zipgo" href="#" onclick="return zipSubmit(document.forms['zipform'])" class="imglink">Go</a>
+        </div>
+        <script type="text/javascript">
+            zipDefault = getCookie2('addrCookie','zip');
+            zipEntry = document.getElementById('z');
+            zipHeading = 'My Local Insight: ';
+             
+            if (zipDefault == '') zipEntry.value = zipHeading + 'Enter Zip Code';
+            else  zipEntry.value = zipHeading + zipDefault;
+    
+            document.onmousedown = function(e) {
+             var targ;
+             if (!e) var e = window.event;
+             if (e.target) targ = e.target;
+             else if (e.srcElement) targ = e.srcElement;
+            
+            //alert(e.type + ':' + targ.id);
+             if (e.type == 'mousedown' && targ.id != 'zipgo') zipBlur();
+        
+            } 
+            String.prototype.trim = function () {
+                return this.replace(/^\s*/, "").replace(/\s*$/, "");
+            }
+            function zipBlur() {
+                if (zipEntry.value == '') {
+                    if (zipDefault == '') zipEntry.value = zipHeading + 'Enter Zip Code';
+                    else zipEntry.value = zipHeading + zipDefault;
+                }
+            }
+    
+            function zipFocus() {
+                zipEntry.value = '';
+            }
+                    
+            function zipSubmit(o) {
+                z = zipEntry.value;
+                z = z.replace(zipHeading,'').trim();
+                z = z.replace('Enter Zip Code','').trim();
+            
+                if (z=='') {
+                    //alert('Please enter zip code.');
+                    //zipEntry.focus();
+                    o.action = '/ZipCodeLookup.asp';
+                    o.submit();
+                    return false;
+                }
+                zipEntry.value = z;
+                o.submit();
+                return true;
+            }
+            
+        </script>
+    <div class="clear"></div>
+    </div>
+    <div class="toolbar">
+        <a href="http://www.insightbb.com/webmail_gateway.html" class="t1" target="_blank">Webmail</a>
+        <a href="https://www.insightcustomercare.com/" class="t3" target="_blank">Pay My Bill</a>
+        <!-- <a href="https://memberservices.insightbb.com/" class="t4" target="_blank">My Services</a> -->
+    </div>
+    <div class="clear"></div>
+</div>
+</form>
+
+        <div id="nav-interior">
+            <ul>
+                <li id="n1">
+                    <a href="/Product-Cable-Dashboard.asp" class="n1">Digital Cable</a>
+                </li>
+                <li>
+                    <a href="/Product-Broadband-Dashboard.asp" class="n2">Broadhand</a>
+                </li>
+                <li>
+                    <a href="/Product-Phone-Dashboard.asp" class="n3">Phone</a>
+                </li>
+                <li>
+                    <a href="/Help-central.asp" class="n4">Help Central</a>
+                </li>
+                <li>
+                    <a href="/SelectMyOptions.aspx" class="n5">Buy</a>
+                </li>
+                <li class="search-interior">
+                    
+
+
+<script type="text/javascript">
+  document.onclick = function(e) {
+   var targ;
+   if (!e) var e = window.event;
+   if (e.target) targ = e.target;
+   else if (e.srcElement) targ = e.srcElement;
+   
+   //window.status=targ.id+' has received a '+e.type+' event.';
+   if (e.type == 'click') {
+    if (targ.id != 'searchText' && targ.id != 'overlay-holder' ) searchOff('nav-interior');
+    if (targ.id == 'searchText') searchOn('nav-interior');
+   }
+   
+  }
+  function searchOn(myID) {
+   changeDisplay(myID, 'visible');
+  }
+  
+  function searchOff(myID) {
+   changeDisplay(myID, 'hidden');
+  }
+  
+  function changeDisplay(myID, myValue) {
+   if (myValue=='hidden') {
+    document.getElementById('overlay-holder').style.display='none';
+   }
+   if (myValue=='visible') {
+    document.getElementById('overlay-holder').style.display='block';
+   }
+   if ((isNetscape() || isOpera()) && myValue=='visible') document.getElementById(myID).style.overflow=myValue;
+  }
+  
+  function isNetscape()
+  {
+   var browser=navigator.appName;
+   return (browser=='Netscape');   
+  }
+
+  function isOpera()
+  {
+   var browser=navigator.appName;
+   return (browser=='Opera');   
+  }
+
+</script>
+
+<div class="holder">
+<div class="searchbox"><input id="searchText" onblur="if (this.value == '') {this.value = 'SEARCH';}" onfocus="searchOn('nav-interior'); if(this.value == 'SEARCH') {this.value = '';}" value="SEARCH" name="q"> </div></div>
+<div class="overlay-holder" id="overlay-holder" style="DISPLAY: none">
+<div class="overlay">
+<div class="buttons"><a class="search-myinsight" onclick="javascript:searchMyInsight(document.getElementById('searchText').value)" href="#"><img src="/images/btn_search_myinsight.gif" border="0"></a><br clear="all"><a class="search-web" onclick="javascript:searchWeb(document.getElementById('searchText').value)" href="#"><img src="/images/btn_search_web.gif" border="0"></a><br clear="all"></div></div></div>
+
+                </li>
+            </ul>
+            <br clear="all">
+            
+        </div>
+
+        
+
+        <div class="onecolumn">
+<div style="color:#0096aa;font-size:30px;font-weight:bold;margin-top:40px;margin-bottom:30px;">Insight Website Privacy Policy</div>
+
+<div class="content"><strong>For www.MyInsight.com</strong><br>
+<p>Welcome to www.MyInsight.com, a service of Insight Communications Company, Inc. and its affiliates and partners (collectively, "Insight," "we," "us" or "our"). This policy describes the privacy practices for this website only and does not govern Insight's privacy practices with respect to information collected or used offline or through other media. In addition, if you are a customer of Insight's Cable, High-Speed Internet or Phone Services, Insight's <a href="/CustomerPrivacy.asp">Customer Privacy Policy</a>, applies to Insight's use and disclosure of your personal information collected or obtained through its provision of those services.</p>
+<p>We use the term "users" and "you" throughout this policy to refer to any person that accesses our website. Please carefully review our information collection and privacy practices below.</p>
+<p>In the event that you have any questions regarding this privacy policy, you may contact us at: 
+</p><blockquote style="MARGIN: 18px">MyInsight.com – Website Privacy Policy<br>c/o Insight Communications<br>810 7th Avenue; 41st Floor<br>New York, New York 10019<br>Attn: Legal Department </blockquote>
+<p></p>
+<p>The information collected via this website falls into two main categories: (1) information voluntarily supplied users of the website and (2) tracking information recorded as users navigate through the website. Some of this information is personally identifiable information, but much of it is not. Personally identifiable information is information from which it is possible to identify a particular person.</p>
+<p>Information regarding the specific privacy practices applicable to this website is set forth in the following sections of this privacy policy:</p></div>
+<!--/CustomerPrivacy.asp--><div>
+        <div style="color:#0096aa;font-size:30px;font-weight:bold;margin-bottom:30px;">
+            </div>
+        <div id="accordion2">
+            <dl id="slider2" class="accordion2">
+
+                <dt>What personally identifiable information is collected via this website?</dt>
+                <dd>
+                    <span class="faq-answer">
+                    To make use of certain features on our website, we may require users to provide personal information. For example, we may ask for your name, e-mail address, street address, zip code, telephone number, social security number and/or birth date in order to process a requested service order or give you access to online bill pay features. We might also request information about your residence, television, and computer, for example, in order to process your request for new service or make changes to existing service. In addition, we may ask you for information about your interests in television viewing, sports, personal finance, the performing arts, and the like. The information you supply will help us to offer you more personalized features, complete the particular website function you are using, and tailor our website to your interests to make it more useful to you. The information you supply also enables us to notify you of promotional events, such as contests or sweepstakes, or future marketing efforts or promotions concerning our services or website.
+<p>We may also allow other entities owned or operated by, or under common ownership or control with, Insight, such as Insight parents, subsidiaries or affiliates ("Insight Entities"), to post activities, promotions, features or local events or offerings and request personal information via our website. We require Insight Entities that collect personal information via our website to comply with the provisions of this privacy policy.</p>
+<p>Finally, certain website activities, content, features, products, services and/or events may be offered by, or provided with the support of, third party providers with whom we have cooperative relationships. If you choose to participate in these offerings, the third party provider may request and collect your personal information, and you may be taken to a third party website to access such offerings, products or services. The Insight brand may appear on such third party websites in connection with such content, products and/or services in the form of a "co-branding" experience, but it likely will be the third party provider's privacy policy that governs the collection of information via such website. The privacy policies of our provider partners may differ from ours, and you should always refer to the page on which information is being collected to determine whose privacy policy applies. If you have any questions regarding the privacy policy of one of our provider partners, you should contact the provider partner directly for more information. Insight is not responsible or liable for the collection, use and disclosure practices of its third party providers, or for any costs or damages related to the content, products and/or services offered or provided by such providers.</p>
+<p>Supplying requested information is entirely voluntary, but if you choose not to supply it, you may be unable to use the full range of features we make available to other users of our website.</p>
+                    </span>
+                </dd>
+<!---->
+
+                <dt>How is the personally identifiable information collected by Insight used, and with whom may it be shared?</dt>
+                <dd>
+                    <span class="faq-answer">
+                    When you submit any personally identifiable information over this website, (i) we will use the information for the purposes described at the time you submit it (for example, your name, address, telephone number, and e-mail address provided while ordering one of our products or services will be used in connection with the processing and fulfillment of your order) and (ii) we may use the information to contact you for customer service purposes, to inform you of important changes or additions to our website or the services offered over our website, to make you aware of other products and services of interest and to send you administrative notices, offers and any other communications that we believe may be of interest to you. Of course, if you want to remain completely anonymous, you're still free to take advantage of the publicly available content on our website without providing us with any personally identifiable information.
+<p>We consider the personally identifiable information that you submit via this website to be confidential. We may sometimes disclose personally identifiable information about you to our affiliates or to others who work for us, such as contractors and service providers that help us provide this website and the products and services offered on this website. For example, if you use a credit or debit card to complete a transaction on our website, we may share your personal information and credit card number with a ticket agent, a credit card processing and/or a fulfillment company in order to complete your order, or such service provider(s) may collect that information from you directly, on our behalf.</p>
+<p>In addition, there may be instances when we may disclose personally identifiable information to protect our legal rights, to protect the safety and security of our users, to comply with the law or legal process, or otherwise to investigate and/or help prevent potentially unlawful activity or activity that threatens our network, system or website or that otherwise violates our website <a href="/TermsofUse.asp">Terms of Use</a>. For example, we may be required by law to disclose personally identifiable information about you without your consent and without notice in order to comply with a valid legal process such as a subpoena, court order, or search warrant.</p>
+<p>As our business grows, we may buy or sell various assets. In the unlikely event that Insight, one of its business units, or its stock or assets are acquired by another company, or undergoes a bankruptcy or similar proceeding, information on our website visitors could be among the assets transferred or disclosed to a third party. The recipient of that information may have privacy practices that differ from those in this policy.</p>
+<p>We may provide aggregate information about our visitors to Insight Entities, our advertisers, vendors, sponsors, partners, and other third parties, such as how many persons visited a particular page or activity, the average age of our visitors on the site or page, the likes and dislikes of our visitors, or geographic information such as zip code clustering. This aggregate information does not include or reveal personal information about an individual visitor. We may combine this aggregate information with personal information collected in accordance with this policy to create an enhanced database and/or to research or improve our services.</p>
+<p>Please keep in mind that whenever you voluntarily make your personal information available for viewing by third parties online – for example on message boards or in chat areas – that information can be seen, collected and used by others besides us. We cannot control and therefore cannot be responsible for any unauthorized third party use of such information. Please respect the privacy of others by not posting their personal information on our site without their permission.</p>
+                    </span>
+                </dd>
+<!---->
+
+                <dt>How long is personally identifiable information retained?</dt>
+                <dd>
+                    <span class="faq-answer">
+                    We may retain your personally identifiable information as long as necessary to maintain our databases as it relates to website operations, as is consistent with our company's record retention practices in the ordinary course of business, to ensure individualized website navigation capabilities and/or to comply with federal and state laws or authorized requests for disclosure pursuant to legal process.
+                    </span>
+                </dd>
+<!---->
+
+                <dt>What other types of information may be collected via this website?</dt>
+                <dd>
+                    <span class="faq-answer">
+                    We also may collect and store non-personal information that is generated automatically as you navigate through our website. For example, to help make the site more responsive to the needs of users, we may employ a standard feature of browser software, called a "cookie," to assign each user a unique, random number that resides on a user's computer. The cookie does not personally identify the user; it merely identifies the computer with which the user accesses the website. Unless you voluntarily identify yourself (through registration, for example), the website will not be able to identify you, even if a cookie is assigned to your computer. The only personal information a cookie can contain is information supplied by a user.
+<p>Cookies simplify and improve navigation and personalize your website experience by allowing a website server that hosts a site to recognize your browser when you visit certain web pages. Also, by showing how and when visitors use the website, cookies help us track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the site where you have entered preference information before. We also use cookies to make sure you don't see the same ad repeatedly during a single visit to our website. Our advertisers and third parties that provide products and/or services through our website may also assign their own cookies, a process we don't control. The help function on most web browsers contains information on how to set your browser to notify you before accepting a cookie or to disable cookies entirely. However, if you set your web browser not to accept cookies, you may be unable to take advantage of the personalized features enjoyed by other users of our website. 
+</p><p>
+</p><p>In addition, our web server may automatically collect limited information about your computer configuration when you visit our website, including the type of browser software you use, the operating system you're running, the resolution of your computer monitor, the website that referred you, and your IP address. We may use this information to identify your computer so that data (such as the web pages you want to view) can be transmitted to you. We also may use this information for systems administration and trouble shooting purposes. 
+</p><p>
+</p><p>To help us keep track of how many users are accessing particular pages within our website and seeing particular ads, we also may place a small file, called a web beacon, on some of our pages. These web beacons allow us to track the number of users who view particular pages and particular ads on those pages, so as to report ad performance to the applicable advertiser. Third party advertisers that post banner ads or other forms of advertisements and/or links on our website may use their own web beacons to collect information. Insight does not have control over web beacons utilized by third party advertisers. 
+</p><p></p>
+                    </span>
+                </dd>
+<!---->
+
+                <dt>What policies apply to the third party websites that can be accessed via this website?</dt>
+                <dd>
+                    <span class="faq-answer">
+                    To make our website more valuable to our users, we may offer some features or events in conjunction with other unaffiliated, third party providers. Our website may also include links to websites operated by third parties whose privacy policies and practices we don't control. Once you leave our website by linking to another one (you can tell where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the website you're visiting. That policy may differ from ours. If you can't find the privacy policy of any of these websites via a link from the site's homepage, you should contact the website directly for more information.
+                    </span>
+                </dd>
+<!---->
+
+                <dt>How is the collected information protected?</dt>
+                <dd>
+                    <span class="faq-answer">
+                    All information gathered by us on our website is stored within databases accessible only to us and our specifically authorized contractors and vendors. These databases employ certain security features to safeguard the privacy of the stored information, and we will continue to enhance our security procedures as new technology becomes available. However, as effective as any security measure implemented by this website may be, no security system is impenetrable. We cannot guarantee the complete security of our database, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet. If you don't want us to know any particular information about you, don't include it in anything that you submit or post to this website or send to us in e-mail. If you use our website or certain website features to send, receive or post personal or confidential information, you do so at your own risk.
+                    </span>
+                </dd>
+<!---->
+
+                <dt>How can users review and make changes to their information?</dt>
+                <dd>
+                    <span class="faq-answer">
+                    You may review and change information that you provide to us through this website by returning to the pages where you entered it, and reviewing or changing the information directly. You may request changes to some information, such as billing and account information if you are an Insight customer, by contacting your local Insight office. 
+                    </span>
+                </dd>
+<!---->
+
+                <dt>How will changes to this privacy policy be communicated?</dt>
+                <dd>
+                    <span class="faq-answer">
+                    We may change this privacy policy from time to time. If we change this privacy policy at some point in the future, we'll post the changes on our website. By continuing to use the website after we post any changes, you accept and agree to this privacy policy, as modified.
+                    </span>
+                </dd>
+<!---->
+
+                <dt>What is this website's policy on children's privacy?</dt>
+                <dd>
+                    <span class="faq-answer">
+                    This website is not directed to children under the age of 13 and, in accordance with the Children's Online Privacy Protection Act of 1998, we do not knowingly collect personally identifiable information from anyone under the age of 13 on this website unless expressly specified on the appropriate pages of the website. Children of any age should always get permission from a parent or legal guardian before sending any information about themselves (such as their names, e-mail addresses, and telephone numbers) over the Internet, to us or to anyone else.
+                    </span>
+                </dd>
+<!---->
+
+            </dl>
+        </div>
+    </div>
+    <script type="text/javascript">
+        var slider2 = new accordion.slider("slider2");
+        slider2.init("slider2", 0, "open");
+    </script>
+</div>
+        
+
+        
+        <div id="sitemap">
+    <div class="holder">
+        <ul>
+            <li>
+                <h3>
+                    <img src="/images/lh_myinsight.gif" alt="My Insight">
+                </h3>
+                <a href="/Local.asp">My Local Insight</a>
+                <a href="http://www.insightbb.com/webmail_gateway.html" target="blank">Webmail</a>
+                <!--  -->
+                <a href="https://www.insightcustomercare.com/" target="blank">Pay My Bill</a>
+                <a href="https://memberservices.insightbb.com/" target="blank">My Services</a>
+            </li>
+            <li>
+                <h3>
+                    <img src="/images/lh_ourproducts.gif" alt="Our Products">
+                </h3>
+                <a href="/Product-Cable-Dashboard.asp">Digital Cable</a>
+                <a href="/Product-Broadband-Dashboard.asp">Broadband</a>
+                <a href="/Product-Phone-Dashboard.asp">Phone</a>
+                <a href="/Bundles.asp">Bundles</a>
+                <a href="/SelectMyOptions.aspx">Order Now</a>
+                <a href="/Product-Cable-WhatsOn.asp">What's On</a>
+                <a href="http://www.insightbusiness.com" target="_blank">Insight Business</a>
+                <a href="http://www.insightma.com" target="_blank">Insight Media</a>
+            </li>
+            <li>
+                <h3>
+                    <img src="/images/lh_helpcentral.gif" alt="Help Central">
+                </h3>
+                <a href="/Help-generalbilling.asp">General &amp; Billing</a>
+                <a href="/Help-cable.asp">Digital Cable</a>
+                <a href="/Help-broadband.asp">Broadband</a>
+                <a href="/Help-phone.asp">Phone</a>
+                <a href="/LearningCenter.asp">Help Videos</a>
+                <a href="/Help-Ayuda.asp">Ayuda</a>
+                <a href="/Help-contact.asp">Contact Us</a>
+            </li>
+            <li>
+                <h3>
+                    <img src="/images/lh_whoweare.gif" alt="Who We Are">
+                </h3>
+                <a href="/OurStory.asp">About Insight</a>
+                <a href="/Values-main.asp">Our Values</a>
+                <a href="/Community.asp">Community Involvement</a>
+                <a href="/Executives.asp">Meet Our Executives</a>
+                <a href="/Directors.asp">Our Directors</a>
+                <a href="/News.asp">News</a>
+                <a href="/IR.asp">Investor Relations</a>
+                <a href="/Careers.asp">Careers</a>
+                <a href="/Offices.asp">Office Locations</a>
+            </li>
+            <li>
+                <h3>
+                    <img src="/images/lh_legal.gif" alt="Legal">
+                </h3>
+                <a href="/TermsofUse.asp">Terms of Use</a>
+                <a href="/Privacy.asp">Privacy Policy</a>
+                <a href="/Disclosures.asp">Disclosures</a>
+            </li>
+        </ul>
+    </div>
+</div>
+        
+
+
+        <div id="footer">
+    <div class="footernav">
+        <a href="/default.asp">Home</a>
+        <span>::</span>
+        <a href="/SelectMyOptions.aspx">Order Services</a>
+        <span>::</span>
+        <a href="/Local.asp">Local Insight</a>
+        <span>::</span>
+        <a href="/OurStory.asp">Who We Are</a>
+        <span>::</span>
+        <a href="/Careers.asp">Careers</a>
+        <span>::</span>
+        <a href="/Values-main.asp">Values</a>
+        <span>::</span>
+        <a href="/Help-central.asp">Help</a>
+        <span>::</span>
+        <a href="/TermsofUse.asp">Terms</a>
+        <span>::</span>
+        <a href="/Privacy.asp">Privacy</a>
+        <span>::</span>
+        <a href="/Disclosures.asp">Disclosures on Products &amp; Pricing</a>
+    </div>
+    <div class="logo">
+        <a href="/default.asp"><img src="/images/logo.jpg" alt="Insight"></a>
+    </div>
+</div>
+
+    </div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9572501-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+</body></html>
