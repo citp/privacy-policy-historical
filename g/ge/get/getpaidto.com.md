@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the getpaidto.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605020148id_/http%3A//getpaidto.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getpaidto.com privacy policy that was archived on 2009-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091205043844id_/http%3A//getpaidto.com/privacy.php) for the most accurate reproduction.*
 
 # GetPaidTo.com |Get Paid for your Opinion, not for Your Identity
+
+* * *
 
 [ GetPaidTo.com ](https://web.archive.org/ "GetPaidTo.com") is serious about protecting our customers’ personal information. That’s why protecting any personal information, such as your name, address, e-mail address or phone number that you provide is the utmost importance to us. 
 
