@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bugfreegames.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603054307id_/http%3A//www.bugfreegames.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bugfreegames.com privacy policy that was archived on 2009-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091205151833id_/http%3A//www.bugfreegames.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - Bug Free Games - Bug Free Games
 
