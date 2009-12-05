@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allied.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523215247id_/http%3A//www.allied.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allied.com privacy policy that was archived on 2009-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091205045906id_/http%3A//www.allied.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Allied Van Lines Privacy Policy | Allied Van Lines
 
@@ -87,7 +87,3 @@ You should always safeguard your own Personal Information by protecting password
 >  Chicago, Illinois 60601-7601 USA
 > 
 > The AAA can be reached by telephone at (312) 616-6560 or by facsimile at (312) 819-0404.
-
-#### 1-800-444-6787
-
-##### Need a Free Moving Estimate or want to connect with a Moving Agent?
