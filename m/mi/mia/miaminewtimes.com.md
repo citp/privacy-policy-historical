@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miaminewtimes.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523210859id_/http%3A//www.miaminewtimes.com/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miaminewtimes.com privacy policy that was archived on 2009-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091205085451id_/http%3A//www.miaminewtimes.com/about/privacyPolicy) for the most accurate reproduction.*
 
 # Miami Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Privacy Policy
 
-[](http://www.miaminewtimes.com/microsites/design-and-dine)
+[](http://polls.miaminewtimes.com/polls/mia/eq3/)
 
 ## Village Voice Media
 
@@ -69,7 +69,3 @@ In the event of a sale of Miami New Times or a sale of substantially all Miami N
 ## More Questions? Updates and Changes to Your Information.
 
 If you have any questions about this privacy policy, e-mail them to [privacyadministrator@villagevoicemedia.com](mailto:privacyadministrator@villagevoicemedia.com), and be sure to indicate the specific site you're visiting and the nature of your question or concern. If your personally identifiable information changes, you may correct and/or update it by sending us an email at [web@newtimes.com](mailto:web@newtimes.com). 
-
-[](http://polls.miaminewtimes.com/polls/mia/bestof/)
-
-[ ](http://www.miaminewtimes.com/microsites/design-and-dine)
