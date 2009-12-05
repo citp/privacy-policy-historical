@@ -1,0 +1,21 @@
+> *The following text is extracted and transformed from the ihasafunny.com privacy policy that was archived on 2009-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091205224548id_/http%3A//www.ihasafunny.com/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy « I Has A Funny
+
+## [Privacy Policy](http://www.ihasafunny.com/privacy-policy/ "Privacy Policy")
+
+This site does not and will not ever sell personal information to third parties, this includes your email address, ipaddresses, and more so. IHasAFunny.com makes a promise with you to never give out any of your information.
+
+This site uses Google AdSense, the following apply:
+
+  * Google, as a third party vendor, uses cookies to serve ads on this site.
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the[ Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+  * We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
+
+
+
+### Similar Posts:
+
+None Found 
+
