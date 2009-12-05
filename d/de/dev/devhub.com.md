@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devhub.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625221450id_/http%3A//www.devhub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devhub.com privacy policy that was archived on 2009-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091205152647id_/http%3A//www.devhub.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
