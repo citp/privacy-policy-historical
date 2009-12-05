@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graduate-jobs.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619033940id_/http%3A//www.graduate-jobs.com/gj/gco/Privacy_Policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graduate-jobs.com privacy policy that was archived on 2009-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091205213614id_/http%3A//www.graduate-jobs.com/gco/Privacy_Policy.jsp) for the most accurate reproduction.*
 
 # graduate-jobs.com - graduate jobs UK and graduate recruitment
 
@@ -12,7 +12,7 @@ telephone: +44 (0)20 7609 5400
 
 email: [info@graduate_jobs.com](mailto:info@graduate_jobs.com)
 
-_This is extracted from our_ [full terms and conditions](https://web.archive.org/gj/gco/tc.jsp)
+_This is extracted from our_ [full terms and conditions](https://web.archive.org/gco/tc.jsp)
 
 PRIVACY POLICY  
 This policy sets out the approach taken by [graduate-jobs.com Ltd ("the Company" "We", "Us", "Our") to the personal information of users of graduate-jobs.com ("the Site"). By accessing and posting information on the Site, you agree to the terms set out in this policy. Privacy and confidentiality are at the heart of our service. The Company will only record your personal data as set out in this policy. We will not give, rent, sell or trade any of your identifiable personal information.
