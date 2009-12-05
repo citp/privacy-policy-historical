@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airnav.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622065821id_/http%3A//www.airnav.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airnav.com privacy policy that was archived on 2009-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091205103140id_/http%3A//www.airnav.com/info/privacy.html) for the most accurate reproduction.*
 
 # AirNav: Privacy Policy
 
@@ -12,7 +12,7 @@ At AirNav, we are very committed to your privacy, so here is our privacy promise
 
 #### AIRNAV PRIVACY COMMITMENT
 
-AirNav will never sell, exchange, or release to a third party any of your individual personal information without your express permission. 
+AirNav will never sell, exchange, or release to an unaffiliated third party any of your individual personal information without your express permission. 
 
 |    
 ---|---|---  
@@ -43,7 +43,7 @@ We analyze our web logs for activity, trends, most frequently requested pages, p
 
 We may have a need to contact you for clarification on some submission you made, to reply to a message you sent us, to inform you of an update made to your listing, or to solicit your assistance with some issue. We will use personal identifying information we have about you in our attempt to contact you.
 
-If you submit a comment about a business, service, or facility listed on AirNav, and we publish your comment on our web site, we will publish also your name and the date you made your comment. Upon request by the business affected by your comment, who may want to follow up with you regarding your comment, we may also release to the affected business personally identifying information such as your email address or home base. If you want your name withheld from any specific comment, please [contact us by email](https://web.archive.org/web/20090622065821id_/http%3A//www.airnav.com/info/contact.html). Be aware that after we remove your name the comment will read as coming from an anonymous person, and we will after that honor any request by anyone to remove that comment.
+If you submit a comment about a business, service, or facility listed on AirNav, and we publish your comment on our web site, we will publish also your name and the date you made your comment. Upon request by the business affected by your comment, who may want to follow up with you regarding your comment, we may also release to the affected business personally identifying information such as your email address or home base. If you want your name withheld from any specific comment, please [contact us by email](https://web.archive.org/web/20091205103140id_/http%3A//www.airnav.com/info/contact.html). Be aware that after we remove your name the comment will read as coming from an anonymous person, and we will after that honor any request by anyone to remove that comment.
 
 Occasionally, an AirNav user or other interested party may desire to contact another AirNav user. This happens most often as a result of a comment posted by a registered user. We will follow your instructions about release of your name and email address to any such third party. When you register with us, or when you subsequently [update your profile](https://web.archive.org/cgi-bin/update-user-profile) with us, you are given three options for protection of your email address: do not share with anybody, share only with other registered users, or share with anyone. We will follow your instructions when dealing with requests by third parties.
 
@@ -55,10 +55,10 @@ We will disclose personal identifying information we may have in response to sub
 
 ### About our partners and affiliates
 
-AirNav partners with third parties to provide some services over the web. We do not disclose your personal identifying information to these third parties. However, they may collect personal identifying information themselves. If you are interested in the privacy policies of our partners or affiliates, please visit their web sites. 
+AirNav partners with third parties to provide some services that are best provided in conjunction with a third party. We may disclose your personal identifying information to these affiliated third parties as needed to provide the associated services. In addition, they may collect personal identifying information themselves, and may in some cases share it with us. If you are interested in the privacy policies of our partners or affiliates, please visit their web sites. 
 
   * Online travel reservations for AirNav are handled by Travelnow.com. You may view their privacy policy at [www.travelnow.com/index.jsp?pageName=privacy](http://www.travelnow.com/index.jsp?pageName=privacy)
-  * Some car rentals are handled by Enterprise Rent-A-Car. You may view their privacy policy at [www.enterprise.com/about/privacyPolicy.html](http://www.enterprise.com/about/privacyPolicy.html)
+  * Some car rentals are handled by Avis Rent A Car or Enterprise Rent-A-Car. You may view their privacy policies at [www.avis.com/car-rental/html/global/en/terms/privacy_policy.html](http://www.avis.com/car-rental/html/global/en/terms/privacy_policy.html) and [www.enterprise.com/about/privacyPolicy.html](http://www.enterprise.com/about/privacyPolicy.html) respectively
   * Online credit card payments to us are processed by uSight. You may view their privacy policy at [www.usight.com/privacy.php](http://www.usight.com/privacy.php)
   * We also process some online payments using PayPal or Google Checkout. You may view their privacy policies at [www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside](http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside) and [www.google.com/intl/en/privacy.html](http://www.google.com/intl/en/privacy.html)
   * Fulfilment of orders from our pilot shop is done by Aviation Fulfillment Center. You may view their privacy policy at [www.aviationfulfillmentcenter.com/privacy_policy.htm](http://www.aviationfulfillmentcenter.com/privacy_policy.htm)
@@ -84,4 +84,4 @@ If you do not want to accept cookies from AirNav or other sites, your browser so
 
 As conditions evolve, we may have a need to change how we handle our information. As a result, we may need to revise our Privacy Policy. If we do, we will publish the updated policy on our web site, and we will also place a prominent notice on our web site for 30 days. If you are concerned about how your personal identifying information is used, you should review our Privacy Policy periodically.
 
-For further information about our privacy policy, the practices of this site, or your dealings with AirNav, please [Contact us](https://web.archive.org/web/20090622065821id_/http%3A//www.airnav.com/info/contact.html). 
+For further information about our privacy policy, the practices of this site, or your dealings with AirNav, please [Contact us](https://web.archive.org/web/20091205103140id_/http%3A//www.airnav.com/info/contact.html). 
