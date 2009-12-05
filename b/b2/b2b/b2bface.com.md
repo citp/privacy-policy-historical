@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the b2bface.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628162135id_/http%3A//www.b2bface.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the b2bface.com privacy policy that was archived on 2009-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091205083200id_/http%3A//www.b2bface.com/privacy.php) for the most accurate reproduction.*
 
 # Security & Privacy
 
@@ -26,9 +26,9 @@ All your information including account information and profile is protected.No d
 can be guaranteed to be perfectly secured. however,we try our best to protect your personal information, we cannot ensure or guarantee the security of any information you transmit to us and you do so at your own risk.
 
 c. Attention  
-We may change the information of it from time to time.If there is anything wrong or what you think have brought you some hurt,  
-Please contact with us as soon as possible.
+We may change the information of it from time to time.If there is anything wrong or what you think have brought you some harm,  
+Please contact us as soon as possible.
 
 d. Feedback  
-Welcome to leave your word.Or you can contact with us through [CONTACT US](https://web.archive.org/web/20090628162135id_/http%3A//www.b2bface.com/contactus.php).  
+Welcome to leave your word.Or you can contact with us through [CONTACT US](https://web.archive.org/web/20091205083200id_/http%3A//www.b2bface.com/contactus.php).  
 
