@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gowebguide.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601065109id_/http%3A//gowebguide.com/page.php%3Fid%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gowebguide.com privacy policy that was archived on 2009-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091205184203id_/http%3A//gowebguide.com/page.php%3Fid%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,6 +18,8 @@ We will not collect your name, address, telephone number, or e-mail address unle
 
 If you have already submitted this information and would like for us to remove it from our records, please contact us. We will use reasonable efforts to delete your information from our existing files.
 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
+
 **Tell a Friend**
 
 If you choose to use our referral service to tell a friend about our site, we will ask you for your email and your friend’s name and email address. We will automatically send your friend a one-time email telling him or her about our site. We do not store this information except for the one-time email and tracking the success of our referral program.
@@ -35,7 +37,7 @@ In some cases, we may collect additional not personally identifiable information
 If you have any questions or suggestions regarding our privacy policy, please [ contact us.](http://gowebguide.com/contact.php)   
 
 
-Last update May, 2008
+Last update October, 2009
 
   
 
