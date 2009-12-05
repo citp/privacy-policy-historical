@@ -1,0 +1,159 @@
+> *The following text is extracted and transformed from the medscape.org privacy policy that was archived on 2009-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091205094654id_/http%3A//cme.medscape.com/public/privacy) for the most accurate reproduction.*
+
+# Medscape's Privacy Policy
+
+## The Medscape Privacy Policy
+
+Medscape understands how important the privacy of personal information is to you. Medscape is committed to honoring your privacy. The document you are reading is our Privacy Policy for our Web sites that are accessible by physicians, nurses and healthcare professionals, and it describes what information we may collect about you, what uses we may make of it, how you can tell us what to do with your information, and what precautions we take against unauthorized access or use of your information.
+
+### About This Privacy Policy
+
+#### Web Sites Covered
+
+Reference to "Medscape" or "We" means Medscape, LLC, including any company that we control (for example a subsidiary that we own). Medscape's Web sites include any site that Medscape owns or controls, unless the Web site states expressly that it is subject to a different policy. We may share information among the subsidiaries of WebMD Health Corp. (our parent company) and Web sites that we own or control, but it is always protected under the terms of this Privacy Policy.
+
+We have a [corporate site](http://www.wbmd.com/) where you can read more about our company, obtain investor information, and find out how to contact us at www.wbmd.com.
+
+This Privacy Policy applies to Medscape's Web sites. You should read the privacy policy at each Web site that you visit after you leave one of our sites. We are not responsible for how other Web sites treat your privacy, once you leave Medscape's Web site.
+
+#### Privacy Policy Changes
+
+As our Privacy Policy changes in significant ways, we will make every effort to notify you of the changes. Minor changes to the policy may occur that will not affect our use of individually identifiable information. For these instances, we may not notify you of such minor changes. When the Privacy Policy changes in a way that significantly affects the way we handle personal information, we will not apply the new policy to information we have previously gathered without obtaining consent from the appropriate individual. We will post Privacy Policy changes on our Web sites in a timely manner.
+
+### Information We Collect
+
+In this section of our Privacy Policy, we discuss the different types of information we may collect about you, and the ways in which we collect them.
+
+#### Information We Collect from Unregistered Visitors
+
+Visitors to each of our Web sites can access the Web site's home page and browse some areas of the site without disclosing any personally identifiable information. We do track information provided to us by your browser, including the Web site you came from (known as the "referring URL"), the type of browser you use, the time and date of access, and other information that does not personally identify you. On most of our Web sites, you must register with us to use the entire site.
+
+#### Information We Collect When You Register
+
+When you register for services on our Web sites, you are asked to provide us with identifying information, such as your name, gender, contact information, and other personal information. On our registration screens, we clearly label which information is required for registration, and which information is optional and may be given at your discretion. You will also be given a choice about whether or not you want to receive newsletters and other information that we distribute from time to time. Our Web sites will explain how personally identifiable information will be used and ask for your consent before collecting it.
+
+#### Information from Outside Sources
+
+We may also collect information about persons who register on our Web sites from other sources in order to verify their licensure status and identity. In some cases, we may ask you for information after you register, such as your credit card information, when necessary to process an order for purchase. Our Web sites may contact financial or credit organizations to confirm customer credit cards.
+
+#### Other Information
+
+  * **Discussion Boards:** When you post a message to a discussion board on one of our Web sites, your alias will be available for all registered users to see. An alias consists of your username, specialty and geographic information and other information you agree to show in a profile to others. You should not post any information you want or are required by law to keep private to a discussion board or other public forum on our Web sites.
+  * **Tools:** On some of our Web sites, we offer clinical tools that require you to provide information for the tools to operate (for example, a clinical calculator that provides information on adjusting drug dosage). Our tools may store information that you provide on our servers. We will always make it clear to you when information that you provide to us through a tool will be saved.
+  * **Member Lookup:** When you are registering on some of our Web sites, you may have a choice about whether or not you want other members to be able to look you up and send you messages. If you opt not to be listed, no other members will be able to look you up.
+  * **Additional Forms and Emails:** We may also ask you to provide additional information after you register if you want to obtain additional services or information or to resolve complaints or concerns.
+
+
+
+In addition, we gather information about you that is automatically collected by our Web server, such as your IP address and domain name. We will use this information to personalize its offerings and presentations to you, facilitate your movements throughout our Web sites, provide personalized services, and to communicate with you individually.
+
+#### Continuing Medical Education
+
+When you register for a Continuing Medical Education (CME) or a Continuing Education (CE) activity through one of our Web sites, we collect certain personally identifiable information from you such as your name, email address and mailing address. If you are a nurse or a pharmacist and wish to receive CE credit, you are also required to provide the state in which you are licensed and your license number. In addition to personally identifiable information, we collect aggregated non-personally identifiable information about the activities undertaken by our users. We use the information that we collect through CME/CE activities in several ways:
+
+  1. We are accredited by the Accreditation Council for Continuing Medical Education (ACCME) to provide continuing medical education for physicians. As an ACCME accredited entity, we are required periodically to submit aggregated data about CME participants and the CME activities we certify. We also provide personally identifiable information to other accredited CME/CE providers who certify CME/CE activities posted on our Web sites, as required by the ACCME and other accrediting bodies. These reports may include personally identifiable information about you and credits issued to you, for the purpose of maintaining records that you can request from the accredited provider for up to six (6) years;
+  2. Commercial supporters of CME/CE activities on our Web site will receive only aggregated data about CME/CE activities that are relevant to their interests and/or the courses they support;
+  3. Our Editorial and Customer Support Staff will have internal access to files containing personally identifiable information, including evaluation forms and aggregated CME /CE participant information. These files can be accessed in order to respond to your questions or comments. Our staff may also use personally identifiable information, including registration information and evaluation data, in assessing educational needs and planning marketing activities.
+
+
+
+We may use the information we collect as otherwise permitted in this Privacy Policy.
+
+#### Use of Cookies and Web Beacons
+
+Cookies are a technology we use to keep track of users as they move through our Web sites. Your browser allows us to place some information on your computer's hard drive that is associated with the computer you are using. We use cookies to personalize our Web sites and to track your usage across all of our Web sites.
+
+Your Web browser can be set to allow you to control whether you will accept cookies, reject cookies, or to notify you each time a cookie is sent to you. If your browser is set to reject cookies, Web sites that are cookie-enabled will not recognize you when you return to the Web site, and some Web site functionality may be lost. The Help section of your browser will tell you how to prevent your browser from accepting cookies.
+
+Although cookies do not normally contain personally identifiable information, if you are a registered user, we may elect to associate your registration information with cookies that our Web site places on your computer's hard drive. Associating a cookie with your registration data allows us to offer increased personalization and functionality. For example, you can elect to have our Web sites "remember" your user name and password and bypass the sign-in process on each visit to the site. Without cookies, this functionality would not be possible.
+
+Some of our business partners may use cookies on our site (for example, advertisers). We have told them that we do not want them to use cookie information to track our users' activities once they leave our Web sites. However, because of the way advertisements are served on our Web sites, we do not have total control over how advertisers use cookies on our Web site. If you believe that one of our advertisers is placing an unwanted cookie on your hard drive, please contact the [privacy officer](mailto:MedscapePrivacy@webmd.net) to assist us in resolving the problem.
+
+We also may use Web beacons to collect non-personally identifiable information about your use of our Web sites and the Web sites of selected sponsors and advertisers, as well as your use of special promotions or newsletters. Web beacons are tiny graphic image files, embedded in a Web page in GIF, JPG, or HTML format, that provide a presence on the Web page and send back to its home server (which can belong to the host site, a network advertiser, or some other third party) information from a user's browser, such as the IP address, the URL of the page on which the beacon is located, the type of browser that is accessing the site, and the ID number of any cookies on the user's computer that were previously placed by that server. Web beacons can also be used to place a cookie on the user's browser. The information collected by Web beacons allows us to statistically monitor (i) how many people are using our Web sites and selected sponsors' and advertisers' sites, (ii) how many people open our emails, and (iii) for what purposes these actions are being taken. Our Web beacons are not used to track your activity outside of our Web sites or those of our sponsors. We do not link non-personally identifiable information from Web beacons to personally identifiable information without your permission; we do not use Web beacons to collect or store personal health information about you.
+
+Third parties under contract with us may use cookies or Web beacons to collect non-personally identifiable information about your usage of our sites, and this information may used by us to tailor the advertising you may see on sites within the networks of these third parties. This non-personally identifiable information is anonymous and does not contain any personal information about you. These third parties may collect this information, on our behalf, to help us target our advertising on these third party sites. These third parties have agreed not to use this non-personal cookie or Web beacon information except to help us target our advertising on these sites and have agreed to not link any non-personal cookie or Web beacon information collected by them on our sites to personally identifiable information they or others collect from other sites. If your browser is set to reject cookies, this non-personally identifiable information will not be sent to these third parties.
+
+#### Children's Privacy
+
+We are committed to protecting the privacy of children. Our Web sites are designed and intended for use by adults, and are not intended for, nor designed to be used by children under the age of 18. We do not collect personally identifiable information from any person we know is a child under the age of 18.
+
+### Uses We Make of Information
+
+In this section of our Privacy Policy, we identify the ways we may use information about you that we have collected.
+
+#### Aggregate Data
+
+We create aggregate data about visitors to our Web sites for product development and improvement activities. We also use it for market analysis. We may provide information from our Web sites in aggregate form, with identifying information removed, to third parties. For example, we may tell a health care partner what percentage of our registered users reside in a particular geographical area. When aggregated health information is provided, we pool it from many individual records and strip it of any data that could be used to identify an individual before it is used. Any third party that receives aggregated health care data must agree not to attempt to re-identify the people it belongs to. For example, we may provide information to a potential advertiser of a product that would appeal to a diabetes patient about what percentage of our users have diabetes. Depending on our agreement with the third parties, we may or may not charge for this information.
+
+#### Marketing and Advertising
+
+We may target our advertising or marketing depending on information we have about you. For example, a user we know is a woman may receive advertising for products targeted at women that a male user will not see, or a user that we know is a healthcare professional who treats diabetes may receive advertising for new diabetes therapies (although in neither case will the advertiser have access to any individually identifiable information about you).
+
+We may also personalize our Web site based on your interests. For example, you may see different articles in different places on our Web site based on information you have shared with us, or information we have gained by observing your previous behavior, or information we may have gained from your interactions with a third party that shares information with us. We use information for our own internal marketing, research, and related purposes.
+
+#### Third Parties
+
+In addition to aggregate information (discussed previously), we may share some kinds of personally identifiable information with third parties as described below.
+
+  * **Other Companies:** We have strategic relationships with other companies who offer products and services on our Web sites. When you are interacting with those companies, different rules and privacy policies may apply. For example, if you order a book from a bookstore that advertises on one of our Web sites, you will be asked to provide identifying information and credit card information to the company that runs the bookstore. We do not control the collection or use of information you provide under those circumstances, but we do require that those companies clearly state their policies so you can decide whether to give them any information.
+  * **Companies and People Who Work for Us:** Because we are a large company, we contract with other companies and individuals to help us provide services. For example, we may host some of our Web sites on another company's computers, hire technical consultants to maintain our Web-based health tools, or work with companies to remove repetitive information from customer lists, analyze data, provide marketing assistance, and provide customer service. In addition, if you are a healthcare professional, we may validate your licensure status and other information against available databases that list licensed health care professionals. In order to perform their jobs, these other companies may have limited access to some of the personal information we maintain about our users. We require all such companies to comply with the terms of our Privacy Policy, to limit their access to any personal information to the minimum necessary to perform their obligations, and not to use the information they may access for purposes other than fulfilling their responsibilities to us. We use our best efforts to limit the use of other companies in areas where personally identifiable healthcare information may be involved.
+  * **Promotional Offers:** Sometimes we send offers to selected groups of users on behalf of other businesses. When we do this, we do not give that business your name and address. We provide a variety of mechanisms for you to tell us you do not want to receive such promotional offers.
+  * **Business Transfers:** If we transfer a business unit (such as a subsidiary) or an asset (such as a Web site) to another company, we will require them to honor the applicable terms of this Privacy Policy.
+  * **Legal Requirements:** We may release account and other personal information when we believe release is required to comply with law. We may release personal health information, including information from a medical record, if, in our judgment after review by an attorney, the release is compelled by law or regulation, or if the release is necessary to prevent the death or serious injury of an individual.
+  * **Consent:** We may release personally identifiable information to a third party in accordance with your consent, subject to the purposes and limits that we disclose when we request your consent.
+
+
+
+When we share information with third parties, we ask that they agree in writing to abide by our Privacy Policy.
+
+If we discover that a third party inadvertently disclosed personal information about any of our users, we will take immediate action to prevent further occurrences.
+
+### Protection of Information
+
+In this section of our Privacy Policy, we discuss the security measures we take to protect information that we have collected about you.
+
+#### General Policies
+
+We have implemented technology and security policies, rules and other measures to protect the personal data that we have under our control from unauthorized access, improper use, alteration, unlawful or accidental destruction, and accidental loss. We also protect your information by requiring that all our employees and others who have access to or are associated with the processing of your data respect your confidentiality.
+
+We use security methods to determine the identity of its registered users, so that appropriate rights and restrictions can be enforced for that user. Reliable verification of user identity is called authentication. We use both passwords and usernames to authenticate users. Users are responsible for maintaining their own passwords.
+
+#### Storage of Health Information
+
+Personally identifiable health information you share with us is stored on our database servers at our data centers or hosted by third parties who have entered into agreements with us that require them to observe our Privacy Policy. We have a firewall to prevent unauthorized access. Data centers are physically secure and protected from unauthorized access by unauthorized persons. Physical access to the servers requires individual authorization and authentication.
+
+Information in our data centers is backed up routinely, in order to aid in the recovery of information in the event of accidental damage of information or due to a natural disaster. The backup media are stored in a physically secure storage facility.
+
+### Access to Information and Choices
+
+In this section of our Privacy Policy, we tell you how to obtain and correct information we have about you, and how to choose what types of information you may share with us.
+
+#### Correction of Information We Have About You
+
+If you believe that registration information collected by our Web site(s) is in error, you may edit your personal profile any time that you like. You can directly edit your user profile on our Web site on which you initially registered. Requests for deletion of your record may result in your removal from the registry, but we may keep certain demographic information about you for product improvement purposes. You may contact Web Customer Support and ask for the changes that you would like to make.
+
+#### Employees
+
+Employees are required to keep your information private, as a condition of their employment with us. Only selected, authorized employees are permitted to access health information.
+
+Employees with access to personally identifiable health information are required to attend a confidentiality/privacy training class, and to sign a confidentiality agreement. All employees and contractors must abide by our Privacy Policy, and those who violate that policy are subject to disciplinary action, up to and including termination of their employment and legal action.
+
+### Privacy Questions or Concerns about One of Our Web Sites
+
+For privacy questions or concerns about one of our Web sites, please contact [MedscapePrivacy@webmd.net](mailto:MedscapePrivacy@webmd.net). 
+
+### Related Information
+
+#### Advertising and Editorial Policy
+
+Our editorial policy for our Web sites can be found [here](http://www.medscape.com/public/edpolicy). Our advertising policy for our Web sites can be found [here](http://www.medscape.com/public/adpolicy). 
+
+#### Ownership and Financial Interests in Our Company
+
+Details regarding ownership of WebMD Health Corp, and those with a financial interest in our company can be found at our investor relations site at the following URL: [http://www.wbmd.com](http://www.wbmd.com/).
+
+#### Terms of Use
+
+Our terms of use agreements can be found [here](https://web.archive.org/public/termsofuse).
+
+_**Effective date:** September 5, 2008_
