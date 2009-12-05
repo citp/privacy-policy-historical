@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the derby.ac.uk privacy policy that was archived on 2009-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090224163506id_/http%3A//www.derby.ac.uk/footer-menu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the derby.ac.uk privacy policy that was archived on 2009-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091205205146id_/http%3A//www.derby.ac.uk/privacy) for the most accurate reproduction.*
 
 # Privacy - University of Derby
 
-You may request any information you believe to be stored about you (based on your use of this website) by writing to: Interactive Media Unit, CEDM, University of Derby, Kedleston Rd, Derby DE22 1GB, UK.
+You may request any information you believe to be stored about you (based on your use of this website) by writing to: Interactive Media Unit, CEDM, University of Derby, Kedleston Road, Derby DE22 1GB, UK.
 
 As you browse [www.derby.ac.uk](http://www.derby.ac.uk/), your visit is automatically logged with information such as the browser and operating system you use, and the time of your visit. This data is collated and used to improve the service we offer but remains anonymous. Cookies are used in places on this site to store your preferences and to customise the content that is displayed based on this kind of information. 
 
