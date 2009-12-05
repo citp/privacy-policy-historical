@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the whymilk.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216013439id_/http%3A//www.whymilk.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whymilk.com privacy policy that was archived on 2009-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091205231256id_/http%3A//www.whymilk.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Why Milk? - Privacy Policy
-
-| [](https://web.archive.org/web/20081216013439id_/http%3A//www.whymilk.com/privacy.php)| 
+# Privacy Policy
 
 This site ("Milk") has a policy to respect and protect the privacy of its users. This privacy policy statement tells you how we collect information from you and how we use it. Using the Internet should be a fun experience and we want to help you make it so. 
 
@@ -53,7 +51,7 @@ We make no representations or warranties of any kind as to: (a) the accuracy or 
 
 Neither we nor anyone involved in the creation or delivery of this site or whose materials or information appear on this site shall have any liability (whether based on contract, tort, statute or otherwise) for any costs, losses, damages (whether direct, indirect, compensatory, special, lost profits, liquidated, consequential or punitive), arising out of or in connection with the your access to, browsing of or use of this site or any of the contents of this site. 
 
-**COPYRIGHT AND TRADEMARK NOTICE**   
+**COPYRIGHT AND TRADEMARK NOTIC** E  
 This site is protected by U.S. copyright laws, and may be protected by the copyright laws of other countries and jurisdictions. Except as specifically permitted below, any copy, reproduction, display, performance or retransmission of the contents of this site is strictly prohibited. 
 
 Any use of "Why Milk?," "whymilk.com," "Got Milk?" and any other trademarks, trade names and logos in which we, our subsidiaries, affiliates, divisions and licensors do business is strictly prohibited absent our prior written consent. In addition, the names, trade names and trademarks of third parties, including our promotional partners, that appear on this site are proprietary to their respective owners and may be used only with their express written permission. The mark and logo for "got milk?" is a registered trademark of the California Fluid Milk Processor Advisory Board. 
@@ -66,12 +64,11 @@ If you would like to use, copy, upload or retransmit any of our proprietary mate
 **YOUR ACCEPTANCE OF THESE TERMS**  
 By using this site, you signify your assent to the Milk Privacy Policy. If you do not agree to this policy, please do not use our site. Your continued use of the Milk site following the posting of changes to these terms will mean you accept those changes. If you have questions or concerns regarding this Web site's privacy statement, you should first contact: 
 
-[privacy@whymilk.com](mailto:privacy@whymilk.com?subject=Privacy)
+[privacy@whymilk.com](mailto:privacy@whymilk.com)
 
-Milk PEP   
-ATTN: Marketing Coordinator, [whymilk.com](http://www.whymilk.com/)   
-1250 H Street, NW   
-Suite 950   
-Washington, DC 20005 
+Milk PEP  
+ATTN: Marketing Coordinator, whymilk.com  
+1250 H Street, NW  
+Suite 950  
+Washington, DC 20005  
 
-| 
