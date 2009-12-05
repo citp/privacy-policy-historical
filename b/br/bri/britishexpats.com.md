@@ -1,53 +1,59 @@
-> *The following text is extracted and transformed from the britishexpats.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509065052id_/http%3A//britishexpats.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britishexpats.com privacy policy that was archived on 2009-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091205034832id_/http%3A//www.internetbrands.com/ib/privacy/travel%3Fsite%3Dwww.britishexpats.com) for the most accurate reproduction.*
 
-# Privacy Policy : British Expat Community
+# Site Privacy Policy
 
-#### Information Collection and Use
+www.britishexpats.com ("Site")
 
-britishexpats is the sole owner of the information collected on this site. We will not sell, share, nor rent this information to others in ways different from that disclosed in this statement. britishexpats.com collects information from members at several different points on our website. 
+Privacy Statement
 
-#### Registration
+We are committed to safeguarding your privacy online. This privacy policy applies to your information that we collect and receive; it does not apply to practices of businesses that we do not own or control or people we do not employ. At no time will we sell your information or release your personally-identifiable data without your permission. You can visit this Site without revealing who you are or providing any personal information about yourself.
 
-In order to use this website, a user must first complete the registration form. During registration you are required to give your contact information (such as name and email address). This information is used to contact you about the services on our site for which you have expressed interest. It is optional for you to provide some information (such as demographic information) but encouraged in order that we may provide a more personalized experience on our site. 
+By using this Site, you agree to the terms of this privacy policy. Please read the following policy to understand how your personal information will be treated as you use our services. The following discloses our information gathering and dissemination practices.
 
-#### Cookies
+This Site contains links to other sites. These include links to resources in related topics and third-party sites that offer other related products. If you visit another website through a link on our site, please consult the privacy policy of the website you are visiting. We are not responsible for the privacy practices or the content of other websites that you may visit.
 
-A cookie is a piece of data stored on your hard drive containing information about your registration with britishexpats. Usage of a cookie is in no way linked to any personally identifiable information while on this site. Once you close your browser, the cookie simply terminates. By setting a cookie on our site, you do not have to enter a password more than once, thereby saving time while browsing. You are not required to accept cookies to use this site although some features may not be available if you choose not to do so. 
+Browsing the Site
 
-#### Log Files
+If you browse through the Site without entering any personal data, we will gather and store certain information about your visit. This information does not identify you personally and cannot be linked back to you unless you decide at some point to identify yourself. If you are only browsing, we collect the following information: IP address, the type of browser and operating system used to access our site, the date and time you access our site, the pages you visit (click-through), and if you linked to our website from another website, the address of that website as well as additional information related to your visit. We use your IP address to help diagnose problems with our server, and to administer the Site.
 
-We use IP addresses to analyze trends, administer the site, track visitor movement, and gather broad demographic information for aggregate use. 
+Information Collected
 
-#### Sharing
+We collect the email addresses of consumers who communicate with us or through our authorized vendors via email.
 
-Aggregated demographic information may be shared with selected third party advertisers as proof of traffic volume and target audience for the purpose of securing advertising contracts on britishexpats.com. The information is highly summarized and is in no way linked to individual visitors. 
+Any information provided by consumers becomes our property once received by us and may be used and disclosed as permitted in this Policy.
 
-#### Advertising
+We may share your personal information with our affiliated companies in order to identify products or services in which you may have interest, to improve our user experience and generally to engage in market research and for other internal business purposes. We may also aggregate your personal information with others' information and prepare reports on site usage, purchase history or other factors for sale or distribution to others. Those reports are aggregated and include no personally identifying information. Finally, we may use your personal information to send you email or postal communications regarding products or services offered by us or by third parties with whom we have relationships in which we think you may be interested. We do not share, sell, trade or rent your personal information to third parties for unknown reasons. You may at any time choose not to receive promotional emails from us by contacting us at [information@internetbrands.com](mailto:information@internetbrands.com). Notwithstanding the foregoing, we may continue to contact you for the purpose of communicating information relating to this Site, as well as to facilitate, complete, or confirm any transaction that you may enter into or responding to your inquiry or request.
 
-We use third party advertising companies to serve advertising banners and occasional email offers. Please be aware that we are not responsible for the privacy practices of these companies. We use 6 leading advertising networks to manage and serve our inventory; Tribal Fusion, Fastclick, Casale Media, AdSmart, Google and Yahoo. You are encouraged to read their privacy policies. 
+If you prefer for us not to provide your name and email or postal address to third parties for direct marketing purposes, please contact us at [information@internetbrands.com](mailto:information@internetbrands.com).
 
-#### Links
+Use of Forums
 
-This web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by britishexpats. 
+If you choose to transmit, submit or post information through the Site's chat rooms, bulletin boards or other forums (the "Forums"), we will collect that information you provide. We retain this information as necessary to resolve disputes, provide customer support and troubleshoot problems as permitted by law and pursuant to our Terms of Use.
 
-#### Surveys & Contests
+Cookies
 
-From time-to-time our site requests information from visitors via surveys or contests. Participation in these surveys or contests is completely voluntary and you have a choice whether or not to disclose this information. Information requested may include contact information (such as name and email address), and demographic information (such as town of residency, age level). 
+We may place "cookies" on your personal computer. "Cookies" are small identifiers sent from a web server and stored on your computer's hard drive, similar to a license plate, that help us to recognize you if you visit our website again. Also, our site uses cookies to track how you found our site. Cookies are not designed to be used to get data from your hard drive, your e-mail or any other personal data about you. To protect your privacy, we do not use cookies to store or transmit any personal information about you on the Internet. You can reject cookies by changing your browser settings. Please note, however, that if you reject our cookies, it is possible that some web pages may not properly load, your access to certain information might be denied or you might have to enter information about yourself more than once.
 
-#### Security
+Security
 
-Britishexpats.com takes every precaution to protect your information. The server on which this site resides, is managed by [Rackspace](http://rackspace.com/) , a commercial hosting company. Access to the server is restricted to trusted personnel and is located in a secure data center in Texas, USA. If you have any questions regarding the security at our website, you can send an email to [contact@britishexpats.com](mailto:contact@britishexpats.com?subject=Security%20Questions) . 
+This site has reasonable security measures in place to protect the loss, misuse and alteration of the information under our control.
 
-#### Site and Service Updates
+Third Party Advertising 
 
-We occasionally send you site and service announcement updates. During registration members are permitted to opt-out of these mailings. Should you choose not to receive these announcements, britishexpats.com can not be held responsible for notifying you of any any changes made to this policy. 
+We use third-party advertising companies to serve ads when you visit our website. These companies use non-personally identifiable information regarding your visit to this website and other sites, such as the user IP address, pages viewed, date and time of your visit, and number of times you have viewed an ad (but not your name, address, or other personal information), to serve ads to you on this site and other sites that may be of interest to you. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
 
-#### Correcting/Updating Personal Information
+Specifically, Google, as a third party vendor, uses cookies to serve ads on this website. Google´s use of the DART cookie enables it to serve ads to you based on your visit to this website and other websites on the Internet. You may opt out of the use of the DART cookies by visiting the Google ad and content network [privacy policy](http://www.google.com/privacy_ads.html).
 
-Your personally identifiable information is always accessible by you and can be changed at any time by visiting your profile page. If you no longer wish to be a member of britishexpats, you should remove your personal information from your profile and email [contact@britishexpats.com](mailto:contact@britishexpats.com?subject=Account%20Removal) to have your account permanently disabled. 
+In addition, we use clear GIFs or pixel tags to help manage our online advertising. These clear GIFs enable our ad serving company to recognize a browser's cookie when a browser visits this site. This allows us to learn which banner ads bring users to our website. The information we collect and share through this technology is not personally identifiable.
 
-#### Notification of Changes
+To learn more about these practices and your choices about not having this information used by these companies please [click here](http://www.networkadvertising.org/consumer/opt_out.asp).
 
-Notification of changes to our privacy policy are sent to members by way of email announcements. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify members by way of an email. You will have a choice as to whether or not we use your information in this different manner. During registration members are permitted to opt-out of privacy policy notifications. Should you choose not to receive these announcements, britishexpats.com can not be held responsible for notifying you of any changes made to this policy.   
-  
-Last Updated ( Wednesday, 14 March 2007 ) 
+Contacting the Web Site
+
+Please be aware that we may change our Privacy Policy from time to time. If we do, we will update this Privacy Policy at our website, so be sure to check back here frequently.
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, you can contact: [information@internetbrands.com](mailto:information@internetbrands.com).
+
+www.britishexpats.com
+
+March 24, 2009
