@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the princessauto.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626193929id_/http%3A//www.princessauto.com/index.php%3Foption%3Dcom_weblinks%26view%3Dweblink%26id%3D6%26catid%3D12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the princessauto.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206002149id_/http%3A//www.princessauto.com/index.php%3Foption%3Dcom_weblinks%26view%3Dweblink%26id%3D6%26catid%3D12) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,11 +16,11 @@ Princess Auto Ltd. DOES NOT sell any of your information to third parties.
 
 When you contact our National Call Centre to place an order, we collect your name, mailing address, phone number and credit card information. 
 
-How is this information used? 
+How is this information used?
 
-We use this information to process your order. We may also need to use your phone or fax number, email or mailing address to contact you if we have any questions about your order.  We would also use this information to send you our promotional materials if you requested them. 
+We use this information to process your order. We may also need to use your phone or fax number, email or mailing address to contact you if we have any questions about your order. We would also use this information to send you our promotional materials if you requested them. 
 
-To learn more about our customers and improve our service to you, this information may be used for statistical purposes.  All of the statistical information collected does not identify you personally and is used strictly for internal analysis purposes.  The data is not shared with anyone outside of Princess Auto. 
+To learn more about our customers and improve our service to you, this information may be used for statistical purposes. All of the statistical information collected does not identify you personally and is used strictly for internal analysis purposes. The data is not shared with anyone outside of Princess Auto. 
 
 Providing this information to us is optional.
 
@@ -48,13 +48,13 @@ Princess Auto does not sell any of your personal information to anyone. We do co
 
 We only want to send you our promotional materials if you want to receive them. If you prefer not to receive information from us about our products, services, contests, or promotions, please contact us:
 
-By Mail:  ATTN: Circulation, PO Box 1005, Winnipeg, MB R3C 2W7
+By Mail: ATTN: Circulation, PO Box 1005, Winnipeg, MB R3C 2W7
 
 By Phone: 1-800-665-8685
 
 By Fax: 1-800-265-4212
 
-By email:  Send an email to [mailer@princessauto.com](mailto:mailer@princessauto.com) Subject: Remove
+By email: Send an email to [mailer@princessauto.com](mailto:mailer@princessauto.com) Subject: Remove
 
     
 
@@ -62,6 +62,6 @@ If you have any questions regarding this policy or the way we collect, use or di
 
 -Visit a store near you and speak with a Team Leader.
 
--Contact our Privacy Officer via email at privacy@princessauto.com, or by mail; Attn: Privacy Officer to Princess Auto, P.O. Box 1005, Winnipeg, MB R3C 2W7.
+-Contact our Privacy Officer via email at privacy@princessauto.com, or by mail; Attn: Privacy Officer to Princess Auto, P.O. Box 1005, Winnipeg, MB R3C 2W7.
 
 -Contact our National Call Centre at 1-800-665-8685.
