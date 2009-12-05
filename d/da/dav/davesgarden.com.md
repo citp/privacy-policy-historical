@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davesgarden.com privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522065023id_/http%3A//davesgarden.com/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davesgarden.com privacy policy that was archived on 2009-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091205044902id_/http%3A//davesgarden.com/aboutus/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,9 @@
 
 Check out [the DG homepage](https://web.archive.org/) for a brief overview of what you'll find in this gardening mega-site.
 
-|  The Dave's Garden Team respects the privacy of the users of this website. Because we share your privacy concerns, we have published this privacy policy to help you understand what information we collect as a result of your use of this site, and what we do with that information. 
+| 
+
+The Dave's Garden Team respects the privacy of the users of this website. Because we share your privacy concerns, we have published this privacy policy to help you understand what information we collect as a result of your use of this site, and what we do with that information. 
 
 The type of information we gather falls into the categories below.
 
@@ -15,6 +17,8 @@ The type of information we gather falls into the categories below.
 **General Tracking Information**
 
 We keep track of the pages you visit on our site, and our web server automatically gives us a report of the overall traffic of the site, each day. Stored within that report is your IP address, browser type, http referers, date and time of the access, and the page you accessed.
+
+Additionally, we may allow the placement of trusted third-party cookies on your computer for the purpose of targeting advertisements. You may opt-out of this tracking at [this page](http://www.bluekai.com/optout.html). To opt-out of receiving customized advertising from ad networks who are members of the Network Advertising Initiative, please visit [its website](http://www.networkadvertising.org/managing/opt_out.asp).
 
 | We aggregate this data with the data collected from all the other users of this site, and prepare reports for our own use in determining the growth and usage numbers of the site. This information does not identify you personally.  
 **User Registration**
@@ -35,11 +39,6 @@ If you pay by check, we will automatically have whatever information you give on
 
 If you pay by credit card, we will need to collect your billing information, including your full name, billing address, city, state, zip, country, credit card type, credit card number, and expiration date. The billing information (except the credit card information) is stored on our server as a convenience to you (it will be used again next time you re-subscribe) but the credit card information is never stored here. None of this information is ever shared with any other parties, except as it is necesssary for banking (depositing checks to the bank, and processing the credit card through our merchant account).   
   
-**Yes, we use cookies**
-
-But only for login, and not for any other use.
-
-| We require cookies only for the login of the system. They are not used for tracking, but are used to identify you, as a member, to our server. Without cookies, it would be impossible for us to have logins and member accounts, rendering DG useless. This is the use that cookies were invented for in the first place.  
 **Your city, state, zipcode, and country**
 
 After obtaining your permission, these are published along with your user information.
