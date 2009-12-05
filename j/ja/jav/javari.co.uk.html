@@ -1,0 +1,2026 @@
+<!--The following is the downloaded HTML source of the javari.co.uk privacy policy that was archived on 2009-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091205192142id_/http%3A//www.javari.co.uk/help/200385710) for the most accurate reproduction.-->
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+  <title>Javari.co.uk: Help</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+  
+
+
+<script language="javascript">
+		var signedIn = false;
+		var realm = "GBAmazon";
+		var ENDLESS_ROOT_NODE = "213373031";
+		var features = {"hasDesignerStore":"false","cinderella":"false","detailLargeAltSprite":"false","dpSpriteAltViews":"false","dpvideo":"false","hasClearanceStore":"false","sims":"false"};
+
+		
+		var jsStrings = {};
+		function getString(stringID, keyValueMap) {
+			//if the global string registration does not exist, do nothing
+			if (typeof jsStrings == "undefined"){
+				return "";
+			}
+			
+			//find the pattern and if the pattern does not exist, do nothing
+			var pattern = jsStrings[stringID];
+			if (typeof pattern == "undefined"){
+				return "";
+			}
+			
+			//if no variable need to be replaced, simply return the pattern
+			if (typeof keyValueMap == "undefined"){
+				return pattern;
+			}
+			
+			//otherwise use the keyValueMap provided to replace the place holders in the pattern
+			for (var key in keyValueMap) {
+				var placeHolder = new RegExp("##" + key + "##", "g");
+				var value = keyValueMap[key];
+				pattern = pattern.replace(placeHolder, value);
+			}
+			return pattern;
+		}
+		
+		function registerString(stringID, pattern) {
+		    //if the global string registration does not exist, do nothing
+			if (typeof jsStrings == "undefined"){
+				return;
+			}
+			jsStrings[stringID] = pattern; 
+		}
+		
+
+		function formatCurrency(floatValue){
+			var value = floatValue.toFixed(2);
+			
+			if (isNaN(value)) { return floatValue; }
+			value += ""; 
+			
+			var x = value.split(".");
+			var x0 = x[0];
+			
+			var x1 = x.length > 1 ? "." + x[1] : "";
+			
+			var rgx = /(\d+)(\d{3})/;
+			
+			while (rgx.test(x0)){
+				x0 = x0.replace(rgx, "$1" + "," + "$2");
+			}
+			
+			return "£" + x0 + x1;
+		}
+
+			
+		
+		function addWindowOnloadQueue(onloadFunction) {
+			var method = window.onload;
+			if (typeof method == "function") {
+				window.onload = function() {
+					method();
+					onloadFunction();
+				}
+			}
+			else {
+				window.onload = function () {
+					onloadFunction();
+				}
+			}
+		}
+		
+	    var amznJQ = {
+	        _a: [], _s: [], _d: [], _l: [], _o: [],
+	        addLogical: function() {
+	            this._l.push(arguments)
+	        },
+	        addStyle: function() {
+	            this._s.push(arguments)
+	        },
+	        declareAvailable: function() {
+	            this._d.push(arguments)
+	        },
+	        available: function() {
+	            this._a.push(arguments)
+	        },
+	        onReady: function() {
+	            this._o.push(arguments)
+	        },
+	        strings: {},
+	        chars: {
+	            EOL: String.fromCharCode(0x0A),
+	            SQUOTE: String.fromCharCode(0x27),
+	            DQUOTE: String.fromCharCode(0x22),
+	            BACKSLASH: String.fromCharCode(0x5C),
+	            YEN: String.fromCharCode(0xA5)
+	        }
+	    }    
+</script>
+
+
+
+<meta http-equiv="imagetoolbar" content="no">
+
+
+	<!-- Images ========================================================================================================== -->
+	<!-- Begin Image requirements -->
+	
+	<!-- End Image requirements -->
+ 	
+	
+		
+			
+	  <link href="http://g1-ec2.images-amazon.com/images/G/02/EndlessUK/en_GB/css/uk-endless-main_328._V227039113_.css" type="text/css" rel="stylesheet">
+			
+		
+	
+	
+		
+			
+
+	
+	
+	 <script src="http://g1-ec2.images-amazon.com/images/G/02/EndlessUK/en_GB/js/endless-main_v523._V227111358_.js" type="text/javascript"></script>
+	
+ 
+	  
+			
+		
+	
+	<script language="javascript"> 
+		if (navigator.userAgent.indexOf("Safari") > -1) 
+			document.write("<link href='http://g1-ec2.images-amazon.com/images/G/02/EndlessUK/en_GB/css/styles_safari_154637._V232296589_.css' type='text/css' rel='stylesheet'>");
+	</script><link href="http://g1-ec2.images-amazon.com/images/G/02/EndlessUK/en_GB/css/styles_safari_154637._V232296589_.css" type="text/css" rel="stylesheet">
+
+<style type="text/css"> 
+	.parentOpen {background-image: url();}
+	#searchHeader{background-image: url();}
+	.toggleOn{ background-image: url();}
+	.toggleOff{ background-image: url();}
+</style>
+
+<link rel="shortcut icon" href="/favicon.ico">
+
+
+</head>
+<body>
+
+<!--[if lte IE 5]>
+<div class="ie">
+<![endif]-->
+
+<!--[if IE 6]>
+<div class="ie ie6">
+<![endif]-->
+
+<!--[if IE 7]>
+<div class="ie ie7">
+<![endif]-->
+
+<div align="center" id="centerWrapper">
+<div id="insideCenterWrapper">
+<div id="top-10">
+
+
+
+<div class="flashWidget">
+	<div id="holidayMsg" style="position: absolute; overflow: hidden;left: 260px; top: 18px; z-index: 996">
+           <div id="holidayMsg1" style=""> 
+                   <img src="http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/white1px._V246999919_.gif">
+           </div>
+    </div>
+           <script>
+                <!--
+
+				function runFlash94() {
+                  var so_holidayMsg = new SWFObject('http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/holiday2009/holidayAnim_UK_120209._V207990127_.swf',
+                                         'holidayFlash1',
+                                         '338',
+                                         '58',
+                                         '8.0.0',
+                                         '');
+                                    
+                  
+                  so_holidayMsg.addVariable('autoplay', 'true');
+                  
+                  so_holidayMsg.addVariable('containerId', 'holidayMsg');
+                  
+                  so_holidayMsg.addParam('quality','high');
+                  so_holidayMsg.addParam('wmode','transparent');
+                  so_holidayMsg.addParam('salign','');
+                  
+                  	so_holidayMsg.addParam('loop','0');
+                  
+                  
+                  	so_holidayMsg.addParam('menu','0');
+                  
+                  so_holidayMsg.addParam('swliveconnect','');
+                  so_holidayMsg.addParam('scale','');
+                  so_holidayMsg.addParam('name','');
+                  so_holidayMsg.addParam('base','');
+                  so_holidayMsg.addParam('codebase','');
+                  so_holidayMsg.addParam('play','true');
+                  so_holidayMsg.addParam('allowScriptAccess','always');
+                  so_holidayMsg.write('holidayMsg1');
+				}
+
+				amznJQ.onReady("JQuery", function(){
+					jQuery(window).load(function(){
+						runFlash94();
+					});
+				});
+
+                //-->
+           </script>
+
+</div>
+</div>
+<div id="headerbanner"><div id="banner-image">
+
+<div id="siteSkinContainer">
+	
+
+
+
+<style type="text/css">
+	body {
+		background-image: url(http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/standard-tile-20071221._V232521276_.png);
+	}
+	
+	body.backgroundSkin {
+		background-image: url(http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/holiday2009/holiday2009_skinStandard_v4._V227712994_.jpg);
+		
+			background-color: #ebeae9;
+		
+		background-position: top center;
+		
+	}
+	
+	div#navbar-1, div#navbar-menus {
+		background-color: #AFB3AD !important;
+	}
+	div#navbar-1 span.navbarTab a:hover, div#navbar-menus span.navbarTab a:hover {
+		background-image: url(http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/holiday2009/holidayNavSprite_2009_v2._V229310868_.gif);
+	}
+	div#navbar-1 span.inDept a h2, div#navbar-1 span.inDept a:hover h2,
+	div#navbar-menus span.inDept a h2, div#navbar-menus span.inDept a:hover h2 {
+		background-image: url(http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/holiday2009/holidayNavSprite_2009_v2._V229310868_.gif);
+	}
+	span#myThingsImage-wrapper, span#cartImage-wrapper {
+		border: 1px solid #FFFFFF;
+	}
+	div#navbar-1 span.navDivider, div#navbar-menus span.navDivider, div#navbar-search span.navDivider{
+		border-left: 1px solid #D1D1D1;
+		border-right: 1px solid #707070;	
+	}
+	div#navbar-search {
+		background-color: #D8D7D5;
+	}
+	div#headerRight, div#headerRight a, div#cart, div#saved, p#menu {
+		color:#FFFFFF !important;
+	}
+	div#navbar-menus ul.navDropdown {
+		background-color:#D8D7D5;
+		border: 5px solid #AFB3AD;
+	}
+	div#navbar-menus span.navbarTab li a:hover {
+		background-color: #AFB3AD;
+	}
+
+	
+	div#headerImage img {
+		margin-left:0px;
+		margin-right:0px;
+	}
+	div#wrapper,div#header,div#headerbanner,div#navbar {
+		width:836px;
+	}
+	div.insideWrapper {
+		margin-left:0px;
+		margin-right:0px;
+	}
+	
+	div#navbar-1, div#navbar-menus {
+		margin-left:0px;
+		margin-right:0px;
+	}
+	
+	div#navbar-2, div#navbar-search {
+		margin-left:0px;
+		margin-right:0px;
+	}
+	
+	div#homepageContentSlots {
+		padding:5px 20px 0px;
+	}	
+</style>
+
+<div id="headerImage">	
+	
+		<map name="map58">
+<area shape="rect" href="http://www.javari.co.uk/homepage" coords="75,0,275,80" alt="Javari.co.uk: Shoes and Handbags for Women, Men and Kids with Free Overnight Shipping">
+<area shape="rect" href="http://www.javari.co.uk/help/200384820" coords="285,15,575,80" alt="Free Overnight Shipping, 365-Day Returns, Free Return Shipping, 100 Percent Price Guarantee">
+</map>
+
+		
+	<img src="http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/holiday2009/holidayHeader_2009_standard_836_v2._V226581085_.jpg" usemap="#map58">
+</div>
+
+</div>
+
+
+
+<script type="text/javascript">
+	amznJQ.addLogical("JQuery", []);
+	amznJQ.onReady("JQuery", function(){
+		jQuery(window).load(function(){
+			jQuery("body").addClass("backgroundSkin");
+		});
+	});
+</script>
+
+</div></div>
+
+
+ 
+
+
+<style type="text/css"> 	 
+	div.scrollArrow-left, div.scrollArrow-left_inactive, div.scrollArrow-right, div.scrollArrow-right_inactive {background-image: url(http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/nav_images_20090904._V231941815_.gif);} 	 
+</style>
+
+
+<script type="text/javascript">
+	function setKeywordContext() {
+		var selectBox = document.getElementById('kdept');
+		if(selectBox == null)
+			return;
+		var selected = selectBox.options[selectBox.selectedIndex];
+		if(selected == null || selected.value == null)
+			return;
+		var split = selected.value.split("_");
+		if( split.length == 3) {
+			document.getElementById('designerContext').value = split[0];
+			document.getElementById('saleContext').value = split[1];
+			selected.value = split[2];
+		}
+		return true;
+	}
+
+	function JSImageMap()  {
+		this.no_image_large = "";
+		this.no_image_30 = "http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/no_image_30._V234067889_.gif";
+		this.no_image_small = "http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/no_image_small._V234067889_.jpg";
+		this.new_styles_top_right = "";
+		this.remove = "http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/remove_v20080606._V226412391_.gif";
+		this.white1px = "http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/white1px._V246999919_.gif";
+		this.left_arrow_inactive = "";
+		this.left_arrow = "";
+		this.right_arrow_inactive =" ";
+		this.right_arrow = "";
+		this.mythings_remove = "";
+		this.mythings_add_to_cart = "http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/mythings_add_to_cart._V222902033_.gif";
+		this.no_image_30 = "http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/no_image_30._V234067889_.gif";
+		this.continue_shopping = "http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/continue_shopping_v20080609._V226412388_.gif";
+		this.saved = "";
+		this.save_for_later_sm = "http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/save_for_later_sm_v20080606._V226412390_.gif";
+		this.no_main_image = "";
+		this.no_image_51 = "";
+		this.return_to_saved = "http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/return_to_saved._V222461910_.gif";
+		this.return_to_compare = "";
+		this.return_to_cart = "http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/return_to_cart_v20080606._V222835989_.gif";
+		this.top_left_corner = "http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/top_left_corner._V222249926_.gif";
+		this.top_right_corner = "http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/top_right_corner._V222249921_.gif";
+		this.bottom_left_corner = "http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/bottom_left_corner._V222249925_.gif";
+		this.bottom_right_corner = "http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/bottom_right_corner._V222249924_.gif";
+		this.top_tile = "http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/top_tile._V222251093_.gif";		
+		this.bottom_tile = "http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/bottom_tile._V222251098_.gif";	
+		this.left_tile = "http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/left_tile._V222251096_.gif";	
+		this.right_tile = "http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/right_tile._V222251099_.gif";	
+		this.title_fade = "http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/title_fade._V222251097_.jpg";		
+		this.add_to_cart_sfl = "http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/add_to_cart_sfl._V222835988_.gif";
+		this.remove_sfl = "http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/remove_sfl._V223752470_.gif";
+		this.taf_top_right = "";
+		this.taf_bottom_right = "";
+		this.taf_bottom_left = "";
+		this.taf_bottom_expand = "";
+		this.taf_right_expand = "";
+    }
+	
+	JSImageMap.prototype.getImagePath = function(img){
+			var url = "";
+			if(this[img] != undefined){
+		   		 url = this[img];
+	   		}
+	   		return url;
+	}
+
+     var jsImg = new JSImageMap();
+</script>
+
+<!-- Start banner -->
+<div id="headerRight">
+	<div id="bannerLinks">
+	     <p id="menu">
+			
+				<a href="/youraccount">My Account</a> | 
+			
+				<a href="/yacontactus?ie=UTF8&amp;viewID=click-to-call" id="click-to-call-link">+(44) 800 496 2447</a> | 
+			
+				<a href="/help/200384800">Help</a> | 
+			
+			
+				
+					
+					
+						
+						
+					
+				
+				<a href="https://www.javari.co.uk/signin?redirectQuery=%26ts%3D84513&amp;redirectUrl=%2Fhelp%2F200385710&amp;redirectProtocol=http">Sign in</a>
+			
+			
+		</p>
+	</div>	
+		
+	<div id="cart" class="emptyBasket" onclick="openCartDetail();">
+	  	<span id="cartImage-wrapper">
+		  	<img id="cartImage" src="http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/white1px._V246999919_.gif" width="30" height="30" border="0">
+		</span>
+	    <p>Basket <span id="cartCount"></span></p>
+	</div>
+	
+	<div id="saved" class="emptyBasket" onclick="openMythingsDetail();">
+	  	<span id="myThingsImage-wrapper">
+			<img id="myThingsImage" src="http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/white1px._V246999919_.gif" width="30" height="30" border="0">
+	   	</span>
+	    <p>	    
+	    	<!--WEBLAB:END_COMPARE_3160-->
+			
+			
+	    		Saved for later 
+			
+	    	
+	    </p>
+	</div>
+</div>	
+<!-- End banner -->
+
+<!--[if lte IE 6]>
+<script language="javascript"> addWindowOnloadQueue(function() { testForActiveXSupport() }); </script>
+<![endif]-->
+<script language="javascript"> addWindowOnloadQueue(function() { initHeader() }); </script>
+
+
+
+
+
+
+       
+
+
+
+
+
+<style type="text/css">
+	div#navbar-menus li.navLevel-2 h2.navLink, div#navbar-menus span.inDept li.navLevel-2 h2.navLink {background-image: url(http://g-ecx.images-amazon.com/images/G/02/EndlessUK/en_GB/images/nav_images_20090904._V231941815_.gif);}
+    
+    div#navbar-menus span.navbarTab { width:150px; }
+    
+ </style>
+        
+
+<div id="navbar">
+
+ 
+<div id="navbar-menus">
+<ul id="navbar-menuTabs">
+
+	
+	
+	
+		
+		<span class="navbarTab">
+                
+                	
+                		
+ 			            	<a href="/Womens-Shoes/b/213376031">
+				           	<h2 class="navLink">Women's Shoes</h2>
+			            	</a>
+		            	
+			            	
+                                  <ul class="navDropdown">
+                                            		
+                		
+                		
+                		
+                    
+                
+                	
+                		
+                		
+                		
+                		    <li class="navLevel-1">
+                      		
+				           		<h2 class="navLink">Shop by Category:</h2>
+                      		
+                      	    
+                           	</li>
+                      	    
+                            
+                            
+                    	
+                    
+                
+                	
+                		
+                		
+                		
+                		    <li class="navLevel-2">
+                      		
+                                
+                                   
+                                   
+                                   
+			                	      <a href="/Womens-Shoes-Athletic-Outdoor/b/216985031">
+                                   
+                                
+                      		
+				           		<h2 class="navLink">Athletic &amp; Outdoor</h2>
+                      		
+			               		</a>
+                      		
+                      	    
+                           	</li>
+                      	    
+                            
+                            
+                    	
+                    
+                
+                	
+                		
+                		
+                		
+                		    <li class="navLevel-2">
+                      		
+                                
+                                   
+                                   	  
+                                   	    
+
+                                   	    
+                                   	    
+			                	           <a href="/Womens-Shoes-Boots/s?node=217028031">
+										
+								      
+                                   
+                                   
+                                   
+                                
+                      		
+				           		<h2 class="navLink">Boots</h2>
+                      		
+			               		</a>
+                      		
+                      	    
+                           	</li>
+                      	    
+                            
+                            
+                    	
+                    
+                
+                	
+                		
+                		
+                		
+                		    <li class="navLevel-2">
+                      		
+                                
+                                   
+                                   	  
+                                   	    
+
+                                   	    
+                                   	    
+			                	           <a href="/Womens-Shoes-Fashion-Trainers/s?node=217059031">
+										
+								      
+                                   
+                                   
+                                   
+                                
+                      		
+				           		<h2 class="navLink">Fashion Trainers</h2>
+                      		
+			               		</a>
+                      		
+                      	    
+                           	</li>
+                      	    
+                            
+                            
+                    	
+                    
+                
+                	
+                		
+                		
+                		
+                		    <li class="navLevel-2">
+                      		
+                                
+                                   
+                                   	  
+                                   	    
+
+                                   	    
+                                   	    
+			                	           <a href="/Womens-Shoes-Flats/s?node=217067031">
+										
+								      
+                                   
+                                   
+                                   
+                                
+                      		
+				           		<h2 class="navLink">Flats</h2>
+                      		
+			               		</a>
+                      		
+                      	    
+                           	</li>
+                      	    
+                            
+                            
+                    	
+                    
+                
+                	
+                		
+                		
+                		
+                		    <li class="navLevel-2">
+                      		
+                                
+                                   
+                                   	  
+                                   	    
+
+                                   	    
+                                   	    
+			                	           <a href="/Womens-Shoes-Heels/s?node=217089031">
+										
+								      
+                                   
+                                   
+                                   
+                                
+                      		
+				           		<h2 class="navLink">Heels</h2>
+                      		
+			               		</a>
+                      		
+                      	    
+                           	</li>
+                      	    
+                            
+                            
+                    	
+                    
+                
+                	
+                		
+                		
+                		
+                		    <li class="navLevel-2">
+                      		
+                                
+                                   
+                                   	  
+                                   	    
+
+                                   	    
+                                   	    
+			                	           <a href="/Womens-Shoes-Sandals/s?node=217103031">
+										
+								      
+                                   
+                                   
+                                   
+                                
+                      		
+				           		<h2 class="navLink">Sandals</h2>
+                      		
+			               		</a>
+                      		
+                      	    
+                           	</li>
+                      	    
+                            
+                            
+                    	
+                    
+                
+                	
+                		
+                		
+                		
+                		    <li class="navLevel-2">
+                      		
+                                
+                                   
+                                   	  
+                                   	    
+
+                                   	    
+                                   	    
+			                	           <a href="/Womens-Shoes/s?node=213376031">
+										
+								      
+                                   
+                                   
+                                   
+                                
+                      		
+				           		<h2 class="navLink">More...</h2>
+                      		
+			               		</a>
+                      		
+                      	    
+                           	</li>
+                      	    
+                            
+                            
+                    	
+                    
+                
+                	
+                		
+                		
+                		
+                		    <li class="navLevel-1">
+                      		
+                                
+                                   
+                                   
+                                   
+			                	      <a href="/landingpage/brandwomen">
+                                   
+                                
+                      		
+				           		<h2 class="navLink">Shop by Brand</h2>
+                      		
+			               		</a>
+                      		
+                      	    
+                           	</li>
+                      	    
+                            
+                            
+                    	
+                    
+                
+                	
+                		
+                		
+                		
+                		    <li class="navLevel-1">
+                      		
+                                
+                                   
+                                   
+                                   
+			                	      <a href="/landingpage/sizewomen">
+                                   
+                                
+                      		
+				           		<h2 class="navLink">Shop by Size</h2>
+                      		
+			               		</a>
+                      		
+                      	    
+                           	</li>
+                      	    
+                            
+                            
+		                    </ul> 
+                            
+                    	
+                    
+                
+		</span>
+		
+			<span class="navDivider"></span>
+		
+	
+		
+		<span class="navbarTab">
+                
+                	
+                		
+ 			            	<a href="/Mens-Shoes/b/213377031">
+				           	<h2 class="navLink">Men's Shoes</h2>
+			            	</a>
+		            	
+			            	
+                                  <ul class="navDropdown">
+                                            		
+                		
+                		
+                		
+                    
+                
+                	
+                		
+                		
+                		
+                		    <li class="navLevel-1">
+                      		
+				           		<h2 class="navLink">Shop by Category:</h2>
+                      		
+                      	    
+                           	</li>
+                      	    
+                            
+                            
+                    	
+                    
+                
+                	
+                		
+                		
+                		
+                		    <li class="navLevel-2">
+                      		
+                                
+                                   
+                                   
+                                   
+			                	      <a href="/Mens-Shoes-Athletic-Outdoor/b/216883031">
+                                   
+                                
+                      		
+				           		<h2 class="navLink">Athletic &amp; Outdoor</h2>
+                      		
+			               		</a>
+                      		
+                      	    
+                           	</li>
+                      	    
+                            
+                            
+                    	
+                    
+                
+                	
+                		
+                		
+                		
+                		    <li class="navLevel-2">
+                      		
+                                
+                                   
+                                   	  
+                                   	    
+
+                                   	    
+                                   	    
+			                	           <a href="/Mens-Shoes-Boots/s?node=216927031">
+										
+								      
+                                   
+                                   
+                                   
+                                
+                      		
+				           		<h2 class="navLink">Boots</h2>
+                      		
+			               		</a>
+                      		
+                      	    
+                           	</li>
+                      	    
+                            
+                            
+                    	
+                    
+                
+                	
+                		
+                		
+                		
+                		    <li class="navLevel-2">
+                      		
+                                
+                                   
+                                   	  
+                                   	    
+
+                                   	    
+                                   	    
+			                	           <a href="/Mens-Shoes-Fashion-Trainers/s?node=216942031">
+										
+								      
+                                   
+                                   
+                                   
+                                
+                      		
+				           		<h2 class="navLink">Fashion Trainers</h2>
+                      		
+			               		</a>
+                      		
+                      	    
+                           	</li>
+                      	    
+                            
+                            
+                    	
+                    
+                
+                	
+                		
+                		
+                		
+                		    <li class="navLevel-2">
+                      		
+                                
+                                   
+                                   	  
+                                   	    
+
+                                   	    
+                                   	    
+			                	           <a href="/Mens-Shoes-Formal/s?node=216946031">
+										
+								      
+                                   
+                                   
+                                   
+                                
+                      		
+				           		<h2 class="navLink">Formal</h2>
+                      		
+			               		</a>
+                      		
+                      	    
+                           	</li>
+                      	    
+                            
+                            
+                    	
+                    
+                
+                	
+                		
+                		
+                		
+                		    <li class="navLevel-2">
+                      		
+                                
+                                   
+                                   	  
+                                   	    
+
+                                   	    
+                                   	    
+			                	           <a href="/Mens-Shoes-Lace-Ups/s?node=216947031">
+										
+								      
+                                   
+                                   
+                                   
+                                
+                      		
+				           		<h2 class="navLink">Lace-ups</h2>
+                      		
+			               		</a>
+                      		
+                      	    
+                           	</li>
+                      	    
+                            
+                            
+                    	
+                    
+                
+                	
+                		
+                		
+                		
+                		    <li class="navLevel-2">
+                      		
+                                
+                                   
+                                   	  
+                                   	    
+
+                                   	    
+                                   	    
+			                	           <a href="/Mens-Shoes-Sandals/s?node=216961031">
+										
+								      
+                                   
+                                   
+                                   
+                                
+                      		
+				           		<h2 class="navLink">Sandals</h2>
+                      		
+			               		</a>
+                      		
+                      	    
+                           	</li>
+                      	    
+                            
+                            
+                    	
+                    
+                
+                	
+                		
+                		
+                		
+                		    <li class="navLevel-2">
+                      		
+                                
+                                   
+                                   	  
+                                   	    
+
+                                   	    
+                                   	    
+			                	           <a href="/Mens-Shoes/s?node=213377031">
+										
+								      
+                                   
+                                   
+                                   
+                                
+                      		
+				           		<h2 class="navLink">More...</h2>
+                      		
+			               		</a>
+                      		
+                      	    
+                           	</li>
+                      	    
+                            
+                            
+                    	
+                    
+                
+                	
+                		
+                		
+                		
+                		    <li class="navLevel-1">
+                      		
+                                
+                                   
+                                   
+                                   
+			                	      <a href="/landingpage/brandmen">
+                                   
+                                
+                      		
+				           		<h2 class="navLink">Shop by Brand</h2>
+                      		
+			               		</a>
+                      		
+                      	    
+                           	</li>
+                      	    
+                            
+                            
+                    	
+                    
+                
+                	
+                		
+                		
+                		
+                		    <li class="navLevel-1">
+                      		
+                                
+                                   
+                                   
+                                   
+			                	      <a href="/landingpage/sizemen">
+                                   
+                                
+                      		
+				           		<h2 class="navLink">Shop by Size</h2>
+                      		
+			               		</a>
+                      		
+                      	    
+                           	</li>
+                      	    
+                            
+                            
+		                    </ul> 
+                            
+                    	
+                    
+                
+		</span>
+		
+			<span class="navDivider"></span>
+		
+	
+		
+		<span class="navbarTab">
+                
+                	
+                		
+ 			            	<a href="/Childrens-Shoes/b/213378031">
+				           	<h2 class="navLink">Kids' Shoes</h2>
+			            	</a>
+		            	
+			            	
+                                  <ul class="navDropdown">
+                                            		
+                		
+                		
+                		
+                    
+                
+                	
+                		
+                		
+                		
+                		    <li class="navLevel-1">
+                      		
+                                
+                                   
+                                   	  
+                                   	    
+
+                                   	    
+                                   	    
+			                	           <a href="/Childrens-Shoes-Girls/s?node=216823031">
+										
+								      
+                                   
+                                   
+                                   
+                                
+                      		
+				           		<h2 class="navLink">Girls' Shoes:</h2>
+                      		
+			               		</a>
+                      		
+                      	    
+                           	</li>
+                      	    
+                            
+                            
+                    	
+                    
+                
+                	
+                		
+                		
+                		
+                		    <li class="navLevel-2">
+                      		
+                                
+                                   
+                                   	  
+                                   	    
+
+                                   	    
+                                   	    
+			                	           <a href="/Childrens-Shoes-Girls-Infant-Toddler/s?node=216824031">
+										
+								      
+                                   
+                                   
+                                   
+                                
+                      		
+				           		<h2 class="navLink">Infant &amp; Toddler</h2>
+                      		
+			               		</a>
+                      		
+                      	    
+                           	</li>
+                      	    
+                            
+                            
+                    	
+                    
+                
+                	
+                		
+                		
+                		
+                		    <li class="navLevel-2">
+                      		
+                                
+                                   
+                                   	  
+                                   	    
+
+                                   	    
+                                   	    
+			                	           <a href="/Childrens-Shoes-Girls-Junior-Youth/s?node=216842031">
+										
+								      
+                                   
+                                   
+                                   
+                                
+                      		
+				           		<h2 class="navLink">Junior &amp; Youth</h2>
+                      		
+			               		</a>
+                      		
+                      	    
+                           	</li>
+                      	    
+                            
+                            
+                    	
+                    
+                
+                	
+                		
+                		
+                		
+                		    <li class="navLevel-1">
+                      		
+                                
+                                   
+                                   	  
+                                   	    
+
+                                   	    
+                                   	    
+			                	           <a href="/Childrens-Shoes-Boys/s?node=216765031">
+										
+								      
+                                   
+                                   
+                                   
+                                
+                      		
+				           		<h2 class="navLink">Boys' Shoes:</h2>
+                      		
+			               		</a>
+                      		
+                      	    
+                           	</li>
+                      	    
+                            
+                            
+                    	
+                    
+                
+                	
+                		
+                		
+                		
+                		    <li class="navLevel-2">
+                      		
+                                
+                                   
+                                   	  
+                                   	    
+
+                                   	    
+                                   	    
+			                	           <a href="/Childrens-Shoes-Boys-Infant-Toddler/s?node=216766031">
+										
+								      
+                                   
+                                   
+                                   
+                                
+                      		
+				           		<h2 class="navLink">Infant &amp; Toddler</h2>
+                      		
+			               		</a>
+                      		
+                      	    
+                           	</li>
+                      	    
+                            
+                            
+                    	
+                    
+                
+                	
+                		
+                		
+                		
+                		    <li class="navLevel-2">
+                      		
+                                
+                                   
+                                   	  
+                                   	    
+
+                                   	    
+                                   	    
+			                	           <a href="/Childrens-Shoes-Boys-Junior-Youth/s?node=216784031">
+										
+								      
+                                   
+                                   
+                                   
+                                
+                      		
+				           		<h2 class="navLink">Junior &amp; Youth</h2>
+                      		
+			               		</a>
+                      		
+                      	    
+                           	</li>
+                      	    
+                            
+                            
+                    	
+                    
+                
+                	
+                		
+                		
+                		
+                		    <li class="navLevel-1">
+                      		
+                                
+                                   
+                                   
+                                   
+			                	      <a href="/landingpage/brandkid">
+                                   
+                                
+                      		
+				           		<h2 class="navLink">Shop by Brand</h2>
+                      		
+			               		</a>
+                      		
+                      	    
+                           	</li>
+                      	    
+                            
+                            
+                    	
+                    
+                
+                	
+                		
+                		
+                		
+                		    <li class="navLevel-1">
+                      		
+                                
+                                   
+                                   
+                                   
+			                	      <a href="/landingpage/sizekid">
+                                   
+                                
+                      		
+				           		<h2 class="navLink">Shop by Size</h2>
+                      		
+			               		</a>
+                      		
+                      	    
+                           	</li>
+                      	    
+                            
+                            
+		                    </ul> 
+                            
+                    	
+                    
+                
+		</span>
+		
+			<span class="navDivider"></span>
+		
+	
+		
+		<span class="navbarTab">
+                
+                	
+                		
+ 			            	<a href="/Bags-Accessories/b/217548031">
+				           	<h2 class="navLink">Bags &amp; Accessories</h2>
+			            	</a>
+		            	
+			            	                		
+                		
+                		
+                		
+                    
+                
+		</span>
+		
+			<span class="navDivider"></span>
+		
+	
+		
+		<span class="navbarTab">
+                
+                	
+                		
+ 			            	<a href="/Sale-Shoes-Handbags/b/sale">
+				           	<h2 class="navLink">Special Offers</h2>
+			            	</a>
+		            	
+			            	                		
+                		
+                		
+                		
+                    
+                
+		</span>
+		
+	
+</ul>
+</div>
+
+
+
+<div style="display: none;">
+<div id="mDept">213373031</div>
+</div>
+
+
+
+
+<div id="navbar-search">
+  	
+</div>
+
+
+
+
+
+<script type="text/javascript">
+	amznJQ.available("jQuery", function(){	
+		jQuery("ul#navbar-menuTabs span.navbarTab").mouseover(function() {
+			jQuery(this).addClass("over");
+			
+		});
+		jQuery("ul#navbar-menuTabs span.navbarTab").mouseout(function() {
+			jQuery(this).removeClass("over");
+			
+		});
+	});
+</script>
+
+
+
+
+
+<div id="wrapper">
+<div class="insideWrapper">
+<div id="top-1"></div>
+<div id="top-2"></div>
+<div id="top-3"></div>
+
+<table id="homePage" style="margin-left:15px;">
+<tbody><tr>
+<td valign="top">
+<div id="left-1">
+
+
+<div id="helpContent">
+
+
+
+    
+        
+            <div id="helpContentTop"><img id="topLeftCorner" src="http://images.amazon.com/images/G/01/Endless/en_US/images/top_left_corner.gif"><img id="topRightCorner" src="http://images.amazon.com/images/G/01/Endless/en_US/images/top_right_corner.gif"></div>
+<div id="helpContentRight">
+<div id="helpContentLeft">
+<div class="topic">Ordering on Javari.co.uk</div>
+<div class="subtopic">
+<li><a href="/help/200390720/">Placing Your First Order</a></li></div>
+<div class="subtopic">
+<li><a href="/help/200390730/">Ordering for Someone Else</a></li></div>
+<div class="subtopic">
+<li><a href="/help/200385780/">Express Checkout</a></li></div>
+<div class="subtopic">
+<li><a href="/help/200391970/">Problems with an Order?</a> 
+</li><li><a href="/help/200385760/">VAT</a></li></div>
+<div class="morelink"><a href="/help/200384850/">More...</a></div>
+<div class="topic">Javari.co.uk Features</div>
+<div class="subtopic">
+<li><a href="/help/200385540/">Free One-Day Delivery</a></li></div>
+<div class="subtopic">
+<li><a href="/help/200385580/">100% Price Match Guarantee</a></li></div>
+<div class="subtopic">
+<li><a href="/help/200385600/">Reviews</a></li></div>
+<div class="morelink"><a href="/help/200384830/">More...</a></div>
+<div class="topic">Getting to Know Javari.co.uk</div>
+<div class="subtopic">
+<li><a href="/help/200384820/">Why Shop Javari.co.uk?</a></li></div>
+<div class="subtopic">
+<li><a href="/help/200392540/">Getting Around</a></li></div>
+<div class="subtopic">
+<li><a href="/help/200385800/">Fit Guides and FAQ</a></li></div>
+<div class="subtopic">
+<li><a href="/help/200392820/">Glossary</a></li></div>
+<div class="morelink"><a href="/help/200384820/">More...</a></div>
+<div class="topic">Your Security &amp; Privacy</div>
+<div class="subtopic">
+<li><a href="/help/200385710/">Privacy Notice</a></li></div>
+<div class="subtopic">
+<li><a href="/help/200385650/">Conditions of Use</a></li></div>
+<div class="subtopic">
+<li><a href="/help/200393080/">Safety &amp; Security Tips</a></li></div>
+<div class="morelink"><a href="/help/200384810/">More...</a></div>
+<div class="topic">My Account</div>
+<div class="subtopic">
+<li><a href="/help/200384840/">Account Assistance</a></li></div>
+<div class="subtopic">
+<li><a href="/help/200393130/">Changing Your Name, E-mail or Password</a></li></div>
+<div class="subtopic">
+<li><a href="/help/200393160/">Updating Addresses</a></li></div>
+<div class="subtopic">
+<li><a href="/help/200393180/">Closing Your Account</a></li></div>
+<div class="morelink"><a href="/help/200384840/">More...</a></div>
+<div class="topic">Delivery and Billing</div>
+<div class="subtopic">
+<li><a href="/help/200393260/">Where We Deliver</a></li></div>
+<div class="subtopic">
+<li><a href="/help/200393280/">Tracking Your Package</a></li></div>
+<div class="subtopic">
+<li><a href="/help/200388950/">Updating the Delivery and Billing Information for Your Order</a></li></div>
+<div class="subtopic">
+<li><a href="/help/200393270/">Undeliverable Packages</a></li></div>
+<div class="morelink"><a href="/help/200384860/">More...</a></div>
+<div class="topic">Returns</div>
+<div class="subtopic">
+<li><a href="/help/200384870/">What You Can Return</a></li></div>
+<div class="subtopic">
+<li><a href="/help/200384870#gift_return">Gift Returns</a></li></div>
+<div class="subtopic">
+<li><a href="/help/200393980/">Refunds</a></li></div>
+<div class="morelink"><a href="/help/200384870/">More...</a></div>
+<div class="topic">About Us</div>
+<div class="morelink"><a href="/help/200384900/">Who We Are and How We Work</a></div>
+<div class="topic">Contact Us</div>
+<div class="subtopic">
+<li><a href="/help/200384890/">How to Get Answers to Your Questions?</a></li></div>
+<div class="subtopic">
+<li><a href="/help/200384890/">Report a Typo</a></li></div>
+<div class="morelink"><a href="/help/200384890/">More...</a></div></div><!-- end of helpContent --></div><!-- end of helpContentRight -->
+<div id="helpContentBottom"><img id="bottomLeftCorner" src="http://images.amazon.com/images/G/01/Endless/en_US/images/bottom_left_corner.gif"><img id="bottomRightCorner" src="http://images.amazon.com/images/G/01/Endless/en_US/images/bottom_right_corner.gif"></div>
+<div></div>
+        
+    
+
+
+</div>
+</div>
+<div id="left-2"></div>
+<div id="left-3"></div>
+<div id="left-4"></div>
+<div id="left-5"></div>
+</td>
+<td valign="top">
+<div id="center-1">
+
+<div class="helpBreadcrumbs">
+
+ 
+    	
+    		
+    			<a href="/help/200384800">Javari.co.uk Help Pages</a> 
+    			&gt;
+            
+    			<a href="/help/200384810">Your Security and Privacy</a> 
+    			&gt;
+            
+             Privacy Notice
+        
+    
+            
+</div>
+</div>
+<div id="center-2">
+
+<div class="helpContent">
+	<br>
+    
+
+
+    
+        
+            <h1>Javari.co.uk Privacy Notice</h1>
+<p>Javari.co.uk knows that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This notice describes the privacy policy of Javari.co.uk.<strong> By visiting Javari.co.uk, you are accepting and consenting to the practices described in this Privacy Notice.</strong> </p>
+<ul>
+<li><a href="#control">Controllers of Personal Information </a>
+</li><li><a href="#gather">What Personal Information About Customers Does Javari.co.uk Gather? </a>
+</li><li><a href="#cookies">What About Cookies?</a> 
+</li><li><a href="#share">Does Javari.co.uk Share the Information it Receives? </a>
+</li><li><a href="#secure">How Secure Is Information About Me?</a> 
+</li><li><a href="#third">What About Third-Party Advertisers?</a> 
+</li><li><a href="#access">Which Information Can I Access?</a> 
+</li><li><a href="#choices">What Choices Do I Have?</a> 
+</li><li><a href="#children">Are Children Allowed to Use Javari.co.uk?</a> 
+</li><li><a href="#conditions">Notices and Revisions</a> 
+</li><li><a href="#examples">Examples of Information Collected</a> </li></ul><a id="control" name="control"></a>
+<h2>Controllers of Personal Information</h2>
+<p>Any personal information provided to or to be gathered by Javari.co.uk is controlled primarily by Amazon EU SARL, the data controller,&nbsp;at 5, Rue Plaetis L-2338, Luxembourg and secondarily by Amazon.co.uk Ltd of Patriot Court, 1-9 The Grove, Slough, Berkshire, England SL1 1QP UK, the data processor. </p>
+<p>Amazon.com, Inc. and its controlled US subsidiaries are participants in the Safe Harbour programme developed by the US Department of Commerce and the European Union. These Amazon Group companies have certified that they adhere to the Safe Harbour Privacy Principles agreed upon by the US and the EU. For more information about the Safe Harbour and to view these Amazon Group companies certification, visit the <a href="http://www.export.gov/safeharbor/">U.S. Department of Commerce's Safe Harbour</a> website. If you would like to contact Amazon directly about the Safe Harbour programme, please send an e-mail to <a href="mailto:safeharbor@amazon.com">safeharbor@amazon.com</a>.</p><a id="gather" name="gather"></a>
+<h2>What Personal Information About Customers Does Javari.co.uk Gather?</h2>
+<p>The information we learn from customers helps us personalise and continually improve your shopping experience at Javari.co.uk. We use the information to handle orders, deliver products and services, process payments, communicate with you about orders, products, services and promotional offers, update our records and generally maintain your accounts with us, display content such as ”Saved for Later” lists and customer reviews and recommend merchandise and services that might be of interest to you. We also use this information to improve our store and platform, prevent or detect fraud or abuses of our Web site and enable third parties to carry out technical, logistical or other functions on our behalf. Here are the types of information we gather. </p>
+<ul>
+<li><b>Information You Give Us:</b> We receive and store any information you enter on our website or give us in any other way. <a href="#examples">Click here</a> to see examples of what we collect. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customising future shopping for you, improving our store, and communicating with you. 
+</li><li><b>Automatic Information:</b> We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies" and we obtain certain types of information when your Web browser accesses Javari.co.uk or advertisements and other content served by or on behalf of Javari.co.uk on other Web sites. <a href="#examples">Click here</a> to see examples of the information we receive. 
+</li><li><b>E-mail Communications:</b> to help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from Javari.co.uk if your computer supports such capabilities. We also compare our customer list to lists received from other companies in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your <a href="/my-account/">Communication Preferences</a>. 
+</li><li><b>Information from Other Sources:</b> We might receive information about you from other sources and add it to our account information. <a href="#examples">Click here</a> to see examples of the information we receive. </li></ul><a id="cookies" name="cookies"></a>
+<h2>What About Cookies?</h2>
+<ul>
+<li>Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognise your browser and to provide features such as <a href="/express/">Express Checkout</a> purchasing, personalised greetings, personalised advertisements on other Web sites (e.g., Javari associates or affiliates with content served by Javari.co.uk) and storage of items in <a href="/mythings/">Saved for Later</a> or your <a href="/shoppingcart/">Shopping Basket</a> between visits. 
+</li><li>The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Web site of its manufacturer. However, because cookies allow you to take advantage of some of Javari.co.uk's coolest features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Basket, proceed to Checkout, or use any Javari.co.uk products and services that require you to Sign in. 
+</li><li>If you do leave cookies turned on, be sure to sign off when you finish using a shared computer. <a href="/help/200393170/">Click here</a> for more information on how to sign off. </li></ul><a id="share" name="share"></a>
+<h2>Does Javari.co.uk share the Information it receives?</h2>
+<p></p>Information about our customers is an important part of our business and we are not in the business of selling it to others. Javari.co.uk shares customer information only as described below and with Amazon.com, Inc. and the subsidiaries which Amazon.com, Inc., controls and that are either subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice.<br>
+<p></p>
+<ul>
+<li><b>Affiliated Businesses We Do Not Control:</b> We work closely with affiliated businesses. In some cases, we will include offerings directly from those businesses on Javari.co.uk. In other cases, we may include joint offerings from Javari.co.uk and these businesses on Javari.co.uk. You can tell when a third party is involved in your transactions and we share customer information related to those transactions with that third party. 
+</li><li><b>Third-Party Service Providers:</b> We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analysing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes. Further, they must process the personal information in accordance with this Privacy Notice and as permitted by the UK's Data Protection Act. 
+</li><li><b>Promotional Offers:</b> Sometimes we send offers to selected groups of Javari.co.uk customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please adjust your Customer Preferences. 
+</li><li><b>Business Transfers:</b> As we continue to develop our business, we might sell or buy stores, subsidiaries or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the unlikely event that Amazon.com, Inc. or substantially all of its assets are acquired, customer information will of course be one of the transferred assets. 
+</li><li><b>Protection of Javari.co.uk and Others:</b> We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our <a href="/help/200385650/">Conditions of Use</a> and other agreements; or protect the rights, property or safety of Javari.co.uk, our users or others. This includes exchanging information with other companies and organisations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing or otherwise disclosing personally identifiable information from customers for commercial purposes in a way that is contrary to the commitments made in this Privacy Notice. 
+</li><li><b>With Your Consent:</b> Other than as set out above, you will receive notice when information about you might go to third parties and you will have an opportunity to choose not to share the information. </li></ul>
+<p>Whenever we transfer personal information to countries outside of the European Economic Area in the course of sharing information as set out above, we will ensure that the information is transferred in accordance with this Privacy Notice and as permitted by the applicable laws on data protection. </p><a id="secure" name="secure"></a>
+<h2>How Secure Is Information About Me?</h2>
+<ul>
+<li>We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. 
+</li><li>We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. 
+</li><li>We maintain physical, electronic and procedural safeguards in connection with the collection, storage and disclosure of personally identifiable customer information. Our security procedures mean that we may occasionally request proof of identity before we disclose personal information to you. 
+</li><li>It is important for you to protect against unauthorised access to your password and to your computer. Be sure to sign off when you finish using a shared computer. <a href="/help/200393170/">Click here</a> for more information on how to sign off. </li></ul><a id="third" name="third"></a>
+<h2>What About Third-Party Advertisers?</h2>
+<p>Our site may include third-party advertising and links to other Web sites. We do not provide any personally identifiable customer information to these advertisers or third-party Web sites. </p>
+<p>These third-party Web sites and advertisers, or Internet advertising companies working on their behalf, sometimes use technology to send (or "serve") the advertisements that appear on our Web site directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalise advertising content. We do not have access to or control over cookies or other features that they may use, and the information practices of these advertisers and third-party Web sites are not covered by this Privacy Notice. Please contact them directly for more information about their privacy practices. In addition, the <a href="http://www.networkadvertising.org/">Network Advertising Initiative</a> offers useful information about Internet advertising companies (also called "ad networks" or "network advertisers"), including information about how to opt-out of their information collection.</p>
+<p>Javari.co.uk may also display personalised third-party advertising based on personal information about customers, such as purchases on Javari.co.uk or visits to any Javari.co.uk associate or affiliate Web site. If you do not want us to use personal information that we gather to personalise the third-party advertisements we display to you, please adjust your <a href="/my-account/">Communication Preferences</a>.</p><a id="access" name="access"></a>
+<p></p>
+<h2>Which Information Can I Access?</h2>
+<p>Javari.co.uk gives you access to a broad range of information about your account and your interactions with Javari.co.uk for the limited purpose of viewing and, in certain cases, updating that information. This list will change as our Web site evolves. <a href="#examples">Click here</a> to see examples of information you can access. <a id="choices" name="choices"></a></p>
+<h2>What Choices Do I Have?</h2>
+<ul>
+<li>As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of such Javari.co.uk features as My Account, Saved for Later and Customer Reviews. 
+</li><li>You can add or update certain information on pages such as those listed in the "<a href="#access">Which Information Can I Access?</a>" section above. When you update information, we usually keep a copy of the prior version for our records. 
+</li><li>If you do not want us to use personal information that we gather to personalise third-party advertisements we display to you, please adjust your <a href="/my-account/">Communication Preferences</a>. 
+</li><li>If you do not want to receive e-mail or other mail from us, please adjust your <a href="/my-account/">Communication Preferences</a>. (If you do not want to receive Conditions of Use and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of Javari.co.uk and orders placed with Javari.co.uk, and it is your responsibility to review them for changes.) 
+</li><li>The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Web site of its manufacturer. However, because cookies allow you to take advantage of some of Javari.co.uk's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Basket, proceed to Checkout, or use any Javari.co.uk products and services that require you to Sign in. 
+<p></p><a id="children" name="children"></a>
+<h2>Are Children Allowed to Use Javari.co.uk?</h2>
+<p>Javari.co.uk does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use Javari.co.uk only with the involvement of a parent or guardian. </p><a id="harbor" name="harbor"></a><a id="conditions" name="conditions"></a>
+<h2>Notices and Revisions</h2>
+<p>If you have any concern about privacy at Javari.co.uk, please <a href="/contact-us">e-mail us</a> a thorough description and we will try to resolve the issue for you.</p>
+<p></p>Our business changes constantly and our Privacy Notice and the Conditions of Use will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
+<p></p><a name="examples"></a>
+<h2>Examples of Information Collected</h2>
+<p></p>
+<h2>Information You Give Us</h2>
+<p>You provide most such information when you search, buy, bid, post, participate in a contest or questionnaire or communicate with customer service. For example, you provide information when you: search for a product; place an order through Javari.co.uk or one of our third-party sellers; provide information in <a href="/my-account/">My Account</a> (and you might have more than one if you have used more than one e-mail address when shopping with us); communicate with us by phone, e-mail or otherwise; complete a questionnaire or a contest entry form; compile Saved for Later lists and provide and rate Reviews. As a result of those actions, you might supply us with such information as: your name; address and phone number; credit card information; people to whom purchases have been shipped (including addresses and phone numbers); people (with addresses and phone numbers) listed in Express Checkout settings and the content of reviews and e-mails to us; the personal description in <a href="my-account">My Account</a> and financial information. </p>
+<h2>Automatic Information</h2>
+<p>Examples of the information we collect and analyse include: the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type and version; operating system and platform; purchase history, which we sometimes aggregate with similar information from other customers to create features such as Best Sellers; the full Uniform Resource Locators (URL) clickstream to, through and from our Web site (including date and time); cookie number; products you viewed or searched for; and any phone number used to call our customer service number. We may also use browser data such as cookies, Flash cookies (also known as Flash Local Shared Objects), or similar data on certain parts of our Web site for fraud prevention and other purposes. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page. </p>
+<h2>Information from Other Sources</h2>
+<p>Examples of information we receive from other sources include: updated delivery and address information from our carriers or other third parties, which we use to correct our records and deliver your next purchase or communication more easily; account information, purchase or redemption information and page-view information from some merchants with which we operate co-branded businesses or for which we provide technical, fulfillment, advertising or other services; search term and search result information from some searches conducted through the Web search features offered by Amazon Group Companies, Alexa Internet and A9; search results and links, including paid listings (such as Sponsored Links from Overture); and credit history information from credit bureaus, which we use to help prevent and detect fraud and to offer certain credit or financial services to some customers.</p>
+<h2>Information You Can Access</h2>
+<p>Examples of information you can access easily at Javari.co.uk include: up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password, communications, address book and Express Checkout settings); payment settings (including credit-card information), e-mail notification settings, recommendations (including recent product-view history, prior-order history) and My Account (including your product Reviews).</p></li></ul>
+        
+    
+
+
+
+	
+</div>
+
+
+</div>
+<div id="center-3"></div>
+<div id="center-4"></div>
+<div id="center-5"></div>
+</td>
+<td valign="top">
+<div id="right-1"></div>
+<div id="right-2"></div>
+<div id="right-3"></div>
+<div id="right-4"></div>
+<div id="right-5"></div>
+</td>
+</tr>
+</tbody></table>
+
+<div id="bottom-1"></div>
+<div id="bottom-2"></div>
+<div id="bottom-3"></div>
+<div id="bottom-4"></div>
+<div id="bottom-5">
+
+ 
+<!-- Begin Image requirements -->
+
+<!-- End Image requirements -->
+
+<script language="javascript">
+	registerString("email-signup-unavailable-try-again_55307", "Email signup is currently unavailable, please try again later.");
+	registerString("thanks-for-signing-up_55308", "Thank you for signing up, we'll be in touch!");
+	registerString("invalid-email-try-again_55306", "Invalid E-mail address. Please try again.");
+</script>
+
+<div id="footer">
+<div class="footerCell">
+
+
+
+
+
+
+<div class="footerCell3">
+
+  <div class="footerCellHead" id="footerCell3Head">
+    <h3>What Do You Think?</h3>
+  </div>
+
+  <div class="footerCellContent">
+
+    
+    
+       
+       
+         
+            <a href="https://www.javari.co.uk/contactus">
+         
+         
+       
+    
+
+    
+    
+
+	  
+ 
+      
+          
+          <span>
+          
+            
+            Do you have a suggestion or comment about Javari.co.uk?  <u>Let us know</u>.
+          
+          </span>
+      
+
+    
+    
+    
+    
+      </a>
+    
+    
+    
+  </div>
+
+</div>
+
+
+
+
+<div class="footerCell2">
+
+  <div class="footerCellHead" id="footerCell2Head">
+    <h3>Javari.co.uk</h3>
+  </div>
+
+  <div class="footerCellContent">
+
+    
+    
+       
+       
+         
+            <a href="/help/200384820">
+         
+         
+       
+    
+
+    
+    
+
+	  
+ 
+      
+          
+          <span>
+          
+            
+            <font color="#993300">FREE</font> One-Day Delivery - <font color="#993300">FREE</font> Returns<br><font color="#993300">365</font>-Day Returns - <font color="#993300">100%</font> Price Guarantee
+          
+          </span>
+      
+
+    
+    
+    
+    
+      </a>
+    
+    
+    
+  </div>
+
+</div>
+
+
+
+
+<div class="footerCell1">
+
+  <div class="footerCellHead" id="footerCell1Head">
+    <h3>Manage your email preferences</h3>
+  </div>
+
+  <div class="footerCellContent" id="footerCell1Content">
+
+    
+    
+       
+       
+         
+            <a href="https://www.javari.co.uk/emailpreference">
+         
+         
+       
+    
+
+    
+    
+
+	  
+ 
+      
+          
+          <span>We’ll occasionally send you information about new arrivals and special offers. Click here to manage your email preferences.</span>
+      
+
+      
+
+    
+    
+    
+    
+      </a>
+    
+    
+    
+  </div>
+
+</div>
+
+
+</div>
+</div>
+
+<span class="footerLinks">
+
+
+ <a href="/homepage">Home</a>
+ 
+ 
+   
+   
+    | 
+ 
+   
+
+ <a href="/youraccount">My Account</a>
+ 
+ 
+   
+   
+    | 
+ 
+   
+
+ <a href="https://www.javari.co.uk/vieworders">Order Status</a>
+ 
+ 
+   
+   
+    | 
+ 
+   
+
+ <a href="/help/200385730">Delivery</a>
+ 
+ 
+   
+   
+    | 
+ 
+   
+
+ <a href="/help/200384870">Returns</a>
+ 
+ 
+   
+   
+    | 
+ 
+   
+
+ <a href="/help/200385580">100% Price Guarantee</a>
+ 
+ 
+   
+   
+    | 
+ 
+   
+
+ <a href="https://www.javari.co.uk/contactus">Contact Us</a>
+ 
+ 
+   
+   
+    | 
+ 
+   
+
+ <a href="/help/200384800">Help</a>
+ 
+ 
+   
+   
+    | 
+ 
+   
+
+ <a href="/help/200384900">About Us</a>
+ 
+ 
+   
+   <br>
+   
+ 
+   
+
+ <a href="/help/200384910">Affiliates Program</a>
+ 
+ 
+   
+   
+    | 
+ 
+   
+
+ <a href="/help/200385650">Conditions of Use</a>
+ 
+ 
+   
+   
+    | 
+ 
+   
+
+ <a href="/help/200385680">Secure Shopping</a>
+ 
+ 
+   
+   
+    | 
+ 
+   
+
+ <a href="/help/200385710">Privacy Notice</a>
+ 
+ 
+   
+   
+   
+ 
+   
+
+
+<br>
+
+<span class="copyright">© 2009 Javari.co.uk or its affiliates. All rights reserved. Javari and the Javari logo are trademarks of Javari.co.uk or its affiliates.</span></span>
+
+</div>
+</div> 
+</div> 
+</div> 
+</div>
+
+<!--[if IE]>
+</div>
+<![endif]-->
+
+
+
+</div></body></html>
