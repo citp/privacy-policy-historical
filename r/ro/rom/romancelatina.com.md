@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the romancelatina.com privacy policy that was archived on 2008-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081224101710id_/http%3A//www.romancelatina.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the romancelatina.com privacy policy that was archived on 2009-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091205060948id_/http%3A//www.romancelatina.com/privacy.php) for the most accurate reproduction.*
 
-# Free instant text messages to hot Latin girls at RomanceLatina
+# Free Colombian dating site - Meet Colombian women for dating | Colombian women for marriage
 
 RomaceLatinca.com PRIVACY POLICY
 
