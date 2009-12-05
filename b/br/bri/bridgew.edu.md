@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bridgew.edu privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620002052id_/http%3A//www.bridgew.edu/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bridgew.edu privacy policy that was archived on 2009-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091205095518id_/http%3A//www.bridgew.edu/privacy.cfm) for the most accurate reproduction.*
 
 # Web Privacy Statement : Bridgewater State College
 
