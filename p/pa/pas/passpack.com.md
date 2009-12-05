@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the passpack.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416092418id_/http%3A//www.passpack.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the passpack.com privacy policy that was archived on 2009-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091205062926id_/http%3A//www.passpack.com/en/privacy) for the most accurate reproduction.*
 
-# Passpack Privacy Promise
+# Passpack Privacy Promise | Free Online Password Manager
 
 ## We respect your _right_ to privacy. Please ask us if you don't understand anything.
 
@@ -14,7 +14,7 @@ This Privacy Statement sets out the purposes of Passpack's data processing in re
 
 This is an official informative note pursuant to, and to the effect of, article 13 of Italian Personal Data Protection Code (Legislative Decree no. 196/2003) provided to whoever visits Passpack's web site or uses the Passpack service. Passpack is required by law to uphold this Privacy Statement.
 
-By using the Passpack service and this website, you consent to the information practices described in this policy. Keep in mind that your use of the Passpack service is also subject to, and controlled by, the Passpack [Terms and Conditions](https://web.archive.org/web/20090416092418id_/http%3A//www.passpack.com/legal/ "Terms and Conditions").
+By using the Passpack service and this website, you consent to the information practices described in this policy. Keep in mind that your use of the Passpack service is also subject to, and controlled by, the Passpack [Terms and Conditions](https://web.archive.org/web/20091205062926id_/http%3A//www.passpack.com/tac/ "Terms and Conditions") and the [Passpack User Agreement](https://web.archive.org/web/20091205062926id_/http%3A//www.passpack.com/ua/).
 
 #### Data Controller (this is us)
 
@@ -123,7 +123,7 @@ There are, however, some limited circumstances in which we may need to disclose 
   2. Responses to requests for information necessary to provide you with the products you purchase or subscribe to through the Passpack service may contain Personally Identifiable Information. Passpack will provide the authors of such products the information you supply in response to those requests. The information practices of those publishers are not covered by this Privacy Statement. Your name, address, phone number, and email address, will not be shared with the Authors.
   
 
-  3. We may reveal a user's identity (or whatever information we know about that individual) if we believe that user is harming or interfering with other Passpack users, anyone else, or violating (either intentionally or unintentionally) our [Terms and Conditions](https://web.archive.org/web/20090416092418id_/http%3A//www.passpack.com/legal/ "Terms and Conditions") or infringing any of Passpack's legal rights.
+  3. We may reveal a user's identity (or whatever information we know about that individual) if we believe that user is harming or interfering with other Passpack users, anyone else, or violating (either intentionally or unintentionally) our [Terms and Conditions](https://web.archive.org/web/20091205062926id_/http%3A//www.passpack.com/tac/ "Terms and Conditions") or infringing any of Passpack's legal rights.
   
 
   4. Passpack will reveal information, including Personally Identifiable Information, to the extent it reasonably believes it is required to do so by law. If we receive legal process calling for the disclosure of any of your personally identifiable information we will, if permitted by law, attempt to notify you via your e-mail address, if, and only if, we have one on record, within a reasonable amount of time before we respond to the request.
