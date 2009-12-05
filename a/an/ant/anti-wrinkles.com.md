@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anti-wrinkles.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626131223id_/http%3A//www.anti-wrinkles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anti-wrinkles.com privacy policy that was archived on 2009-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091205093250id_/http%3A//www.anti-wrinkles.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Anti-Wrinkles.com
 
