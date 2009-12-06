@@ -1,136 +1,54 @@
-> *The following text is extracted and transformed from the codeplex.com privacy policy that was archived on 2006-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060117020931id_/http%3A//www.microsoft.com/info/privacy.mspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeplex.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206221901id_/http%3A//www.codeplex.com/legal/privacy.aspx) for the most accurate reproduction.*
 
-# Microsoft.com Privacy Statement
+# CodePlex
 
-Updated: January 5, 2005
+###  Last updated: March 2009
 
-[  
-](http://www.truste.org/ivalidate.php?url=www.microsoft.com&sealid=103)
+Microsoft is committed to protecting your privacy, while delivering software that brings you the performance, power, and convenience you desire in your personal computing. This privacy statement explains many of the data collection and use practices of Microsoft CodePlex (“CodePlex”). It focuses on features that communicate with the Internet. It does not apply to other online or offline Microsoft sites, products, or services. 
 
-Microsoft is committed to protecting your privacy. This privacy statement explains data collection and use practices of the Microsoft.com site (the “Site”); it does not apply to other online or offline Microsoft sites, products or services. By accessing the Site, you are consenting to the information collection and use practices described in this privacy statement.
+CodePlex is Microsoft's open source project hosting web site. CodePlex enables you to start a new project, join an existing one, or download software created by the community.
 
-Other Microsoft services with links from this Web site, including [MSN](http://www.msn.com/), [Windows Update](http://windowsupdate.microsoft.com/), [Office Online](http://office.microsoft.com/home/default.aspx), have their own privacy statements which can be viewed by clicking on their links.
+The information we collect from you will be used by Microsoft and its controlled subsidiaries and affiliates to enable the features you are using and provide the service(s) or carry out the transaction(s) you have requested or authorized. It may also be used to analyze and improve Microsoft products and services.
 
-##### On This Page
+We may send certain mandatory service communications such as welcome letters, billing reminders, information on technical service issues, and security announcements. Some Microsoft services may send periodic member letters that are considered part of the service. We may occasionally request your feedback, invite you to participate in surveys, or send you promotional mailings to inform you of other products or services available from Microsoft and its affiliates. 
 
-| Collection of your Personal Information  
----|---  
-| Use of your Personal Information  
-| Control of your Personal Information  
-| Access to your Personal Information  
-| Security of your Personal Information  
-| Protection of Children's Personal Information  
-| Use of Cookies  
-| Use of Web Beacons  
-| Use of Microsoft Passport  
-| Enforcement of this Privacy Statement  
-| Changes to this Statement  
-| Contact Information  
-  
-## Collection of your Personal Information
+Except as described in this statement, personal information you provide will not be transferred to third parties without your consent. We occasionally hire other companies to provide limited services on our behalf, such as packaging, sending and delivering purchases and other mailings, answering customer questions about products or services, processing event registration, or performing statistical analysis of our services. We will only provide those companies the personal information they need to deliver the service, and they are prohibited from using that information for any other purpose.
 
-We will ask you when we need information that personally identifies you (personal information) or allows us to contact you to provide a service or carry out a transaction that you have requested such as receiving information about Microsoft products and services, entering a contest, ordering e-mail newsletters, joining a limited-access premium site or service, signing up for an event or training, or when purchasing, downloading and/or registering Microsoft products. The personal information we collect may include your name, title, company or organization name, work e-mail, work phone, work or home address, information about your job function, information about your company, and credit card information. 
+Microsoft may access or disclose information about you, including the content of your communications, in order to: (a) comply with the law or respond to lawful requests or legal process; (b) protect the rights or property of Microsoft or our customers, including the enforcement of our agreements or policies governing your use of the services; or (c) act on a good faith belief that such access or disclosure is necessary to protect the personal safety of Microsoft employees, customers, or the public. 
 
-The Site may collect certain information about your visit, such as the name of the Internet service provider and the Internet Protocol (IP) address through which you access the Internet; the date and time you access the Site; the pages that you access while at the Site and the Internet address of the Web site from which you linked directly to our site. This information is used to help improve the site, analyze trends and administer the site. Some of our sites collect information about your hardware and software in order to provide a requested service. Windows Update, for example, needs to know information about your computer in order to recommend needed operating system updates.
+Information that is collected by or sent to Microsoft by CodePlex may be stored and processed in the United States or any other country in which Microsoft or its affiliates, subsidiaries, or service providers maintain facilities. Microsoft abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.
 
-Microsoft technical communities provide opportunities to interact with Microsoft employees, experts, and your peers in order to share knowledge and news about Microsoft products and related technologies. In order to avoid your e-mail address or other personal information from being gathered and used by others for inappropriate or harmful purposes, Microsoft advises that you should be cautious about posting a real e-mail address or other personal information to newsgroups, chats, or other public forums. [Read more](http://www.microsoft.com/communities/privacy.mspx) about guidelines for safe use of Microsoft technical communities. 
+When you use software with Internet-enabled features, information about your computer ("standard computer information") is sent to the Web sites you visit and online services you use. Microsoft uses standard computer information to provide you Internet-enabled services, to help improve our products and services, and for statistical analysis. Standard computer information typically includes information such as your IP address, operating system version, browser version, and regional and language settings. In some cases, standard computer information may also include hardware ID, which indicates the device manufacturer, device name, and version. If a particular feature or service sends information to Microsoft, standard computer information will be sent as well.
 
-## Use of your Personal Information
+The privacy details for each CodePlex feature, software or service listed in this privacy statement describe what additional information is collected and how it is used.
 
-The personal information collected on this Site will be used to operate the Site and to provide the service(s) or carry out the transaction(s) you have requested or authorized.
+Microsoft is committed to helping protect the security of your information. We use a variety of security technologies and procedures to help protect your information from unauthorized access, use, or disclosure. For example, we store the information you provide on computer systems with limited access, which are located in controlled facilities. 
 
-In support of these uses, Microsoft may use personal information to provide you with more effective customer service, to improve the Site and any related Microsoft products or services, and to make the Site easier to use by eliminating the need for you to repeatedly enter the same information or by customizing the Site to your particular preference or interests. In order to offer you a more consistent experience in your interactions with Microsoft, information collected by Microsoft.com may be combined with information collected by other Microsoft services.
+We will occasionally update this privacy statement to reflect changes in our products, services, and customer feedback. When we post changes, we will revise the "last updated" date at the top of this statement. If there are material changes to this statement or in how Microsoft will use your personal information, we will notify you either by posting a notice of such changes prior to implementing the change or by directly sending you a notification. We encourage you to periodically review this statement to be informed of how Microsoft is protecting your information.
 
-We may use your personal information to provide you with important information about the product or service that you are using, including critical updates and notifications. Additionally, with your permission, we may send you information about other Microsoft products and services, and/or share information with Microsoft partners so they may send you information about their products and services.
+Microsoft welcomes your comments regarding this privacy statement. If you have questions about this statement or believe that we have not adhered to it, please [contact us](https://www.codeplex.com/site/contact). 
 
-We merge site-visitation data with anonymous demographic information for research purposes, and we may use this information in aggregate to provide more relevant content. In some limited-entry sections of Microsoft.com, with your approval, we will combine site-visitation data with your personal information in order to provide you with personalized content. If you decline permission, we will not provide you the personalized service and won't merge your personal information with site-visitation data.
-
-When you sign up for a newsletter or agree to receive promotional e-mail, Microsoft.com may use customized links or similar technologies to track e-mail links that you click. We may associate that information with your personal information in order to provide you more focused e-mail communications or purchase information. Each e-mail communication includes an unsubscribe link allowing you to stop delivery of that type of communication.
-
-Some services on Microsoft.com offer individuals the ability to publicly display certain personal information, such as for a Microsoft partner who wishes to publish contact information as part of offering a business service. Participation in such services is always optional. 
-
-Microsoft occasionally hires other companies to provide limited services on our behalf, such as Web site hosting, packaging, mailing and delivering prizes, answering customer questions about products and services, and sending information about our products, special offers, and other services. We will only provide those companies the personal information they need to deliver the service. They are required to maintain the confidentiality of the information and are prohibited from using that information for any other purpose. 
-
-Microsoft may disclose personal information if required to do so by law or in the good faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served on Microsoft or the Site; (b) protect and defend the rights or property of Microsoft and our family of Web sites; or (c) act in urgent circumstances to protect the personal safety of Microsoft employees or agents, users of Microsoft products or services, or members of the public. 
-
-Personal information collected on the Site may be stored and processed in the United States or any other country in which Microsoft or its affiliates, subsidiaries or agents maintain facilities, and by using the Site, you consent to any such transfer of information outside of your country. Microsoft abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.
-
-## Control of your Personal Information
-
-Except as otherwise described in this statement, personal information you provide on the Site will not be shared outside of Microsoft and its controlled subsidiaries and affiliates without your permission. As described below in the next section, you can access your personal information and make choices about how you wish to be contacted.
-
-Please be aware that this privacy statement and any choices you make on the Site will not necessarily apply to personal information you may have provided to Microsoft in the context of other, separately operated, Microsoft products or services.
-
-Microsoft.com may send out periodic e-mails informing you of technical service or security issues related to a product or service you requested, or confirming you requested a product or service. In some services offered by Microsoft.com, contact with the customer is an intrinsic part of the service. You will not be able to choose to unsubscribe to these mailings, as they are considered an essential part of the service(s) you have chosen.
-
-## Access to your Personal Information
-
-You can review and edit the personal information and contact preferences you provided at this Site by visiting the [Microsoft.com Profile Center](http://go.microsoft.com/?linkid=317769). You will be asked to enter your .NET Passport and password before viewing your personal information. 
-
-At the Profile Center you can: 
-
-•| 
-
-View and edit personal information you have already given us at Microsoft.com  
-  
----|---  
-•| 
-
-Tell us whether you want Microsoft.com to send you marketing information.  
-  
-•| 
-
-Choose whether you want third parties to contact you.  
-  
-•| 
-
-Subscribe, or cancel subscriptions, to newsletters about our services and products.  
-  
-Some services offered on Microsoft.com may collect information that is not accessible via the Profile Center. However, in such cases, you can access your personal information by contacting Microsoft.com as described at the bottom of this statement, or through alternative means of access described by the service. For example, if you buy software through the [Microsoft Product Information Center](http://www.microsoft.com/products), you can review and edit your personal information by contacting one of our Customer Service representatives Monday through Friday, between the hours of 8 a.m. and 10 p.m. ET at 1-888-218-5617. 
-
-## Security of your Personal Information
-
-Microsoft is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer servers with limited access that are located in controlled facilities. Additionally, when we transmit sensitive personal information (such as a credit card number) over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol. 
-
-## Protection of Children's Personal Information
-
-Microsoft.com is a general audience site and does not knowingly collect any personal information from children.
-
-## Use of Cookies
-
-We use cookies on this Site to ensure the integrity of the registration process and to personalize the Site. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web server in the domain that issued the cookie to you. 
-
-One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. This simplifies the process of delivering relevant content, eases site navigation, and so on. When you return to the Web site, the information you previously provided can be retrieved, so you can easily use the site's features that you customized.
-
-Web beacons, also known as clear gif technology, or action tags, may be used to assist in delivering the cookie on our site. This technology is a tool we use to compile aggregated statistics about Microsoft.com Web site usage, such as how many visitors clicked on key elements (such as links or graphics) on a Microsoft.com Web page, blog or a newsletter. We may share aggregated site statistics with partner companies.
-
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of this or other Web sites you visit. 
-
-## Use of Web Beacons
-
-Microsoft.com Web pages may contain electronic images known as Web beacons - sometimes called single-pixel gifs - that allow Microsoft.com to count users who have visited those pages and to deliver co-branded services. Microsoft.com may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon.
-
-Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These Web beacons may be used by these service providers to place a persistent cookie on your computer. Doing this allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views. Microsoft.com prohibits Web beacons from being used to collect or access your personal information.
-
-## Use of Microsoft Passport
-
-This Site uses .NET Passport to provide sign-in and registration services. In order to sign in to this Site using .NET Passport, you will be asked to type your e-mail address and a password. This same Passport sign-in allows you to access many other Passport participating sites and services. If you create a .NET Passport at this site, you are simultaneously registering with Microsoft.com and opening a .NET Passport account. To learn more about the Passport service, the information stored in the Passport profile, and how Passport uses and helps to protect your personal information, please read the [.NET Passport privacy statement](http://www.passport.net/Consumer/PrivacyPolicy.asp?PPlcid=1033).
-
-## Enforcement of this Privacy Statement
-
-If you have questions regarding this statement, you should [contact Microsoft.com](http://go.microsoft.com/?linkid=2606704). If you do not receive acknowledgment of your inquiry, or if your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Dispute Resolution Process at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will serve as a liaison with this Web site to resolve your concerns. 
-
-## Changes to this Statement
-
-We may occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this privacy statement, we will notify you either by placing a prominent notice on the home page of our Web site or by directly sending you a notification. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
-
-## Contact Information
-
-Microsoft welcomes your comments regarding this privacy statement. If you believe that Microsoft has not adhered to this privacy statement, please [contact us electronically](http://go.microsoft.com/?linkid=2606704) or via postal mail at the address provided below, and we will use commercially reasonable efforts to promptly determine and remedy the problem.   
-Microsoft.com privacy   
+CodePlex Privacy  
 Microsoft Corporation   
-One Microsoft Way   
-Redmond, Washington 98052-6399
+One Microsoft Way  
+Redmond, Washington 98052 USA 
 
-  
+The remainder of this document will address the following specific features:
 
+What This Feature Does: CodePlex registration allows you to create a User Account that you can use to upload new source code, participate in discussion forums, rate existing projects, and register issues. 
+
+Information Collected, Processed, or Transmitted: When you register, CodePlex will ask you to choose a User Name and Password, and will ask you to provide a valid email address. 
+
+Use of Information: Your User Name will be used to identify each source code file, rating, discussion comment, or issue you post on the site. Your email address will be used to validate your account, and may also be used to allow other users to contact you. When another user contacts you, they will not see your email address. 
+
+Choice/Control: You may not post to CodePlex without first registering, however if you chose not to register, you may still download projects. You may choose to Opt-Out of allowing other users to contact you by updating the contact preference in your CodePlex Profile.
+
+What This Feature Does: When you post new source code, participate in discussion forums, rate existing projects, and register issues, your post will be tagged with your User Name. Other users may click on your User Name to view your Profile. 
+
+Information Collected, Processed, or Transmitted: Your User Name, the date you joined CodePlex, your Projects, and your recent Activities on the CodePlex site will be visible to users that view your Profile. If you choose to add a Personal Statement to your Profile, this will also be visible. 
+
+Use of Information: Other users may view your profile to learn more about your activities on CodePlex. They may also use your Profile page to contact you if your Profile contact preference is set to enable other users to contact you. 
+
+Choice/Control: You may choose to Opt-Out of allowing other users to contact you by updating the contact preference in your CodePlex Profile. 
+
+Updating...
