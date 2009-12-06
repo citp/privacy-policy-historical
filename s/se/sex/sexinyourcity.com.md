@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the sexinyourcity.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912204646id_/http%3A//www.sexinyourcity.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexinyourcity.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206100733id_/http%3A//www.sexinyourcity.com/%3Faction%3Dterms) for the most accurate reproduction.*
 
-# Adult Dating - Sex, Personals, Women, Men, Couples - SexInYourCity.com
+# Adult Dating for Everyone - Sex, Personals, Women, Men, Couples - SexInYourCity.com
 
-## THIS AGREEMENT WAS LAST UPDATED ON **May 23, 2008**
+This document details important information regarding the use and disclosure of User Data collected on SexInYourCity.com 
 
-This document details important information regarding the use and disclosure of User Data collected on SexInYourCity.com
+The security of your Data is very important to SexInYourCity.com and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused. 
 
-The security of your Data is very important to SexInYourCity.com and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused.
-
-This site expressly and strictly limits its membership and/or viewing privliges to adults 18 years of age and over or having attentaind the age of majotity in their comunity. All persons who do not meet tis criteria are strictly forbiden from accessing or viewing the contents of this Site. We do not knowingly seek or collect any personal information or data from persons who have not attained the age of majority.
+This site expressly and strictly limits its membership and/or viewing privliges to adults 18 years of age and over or having attentaind the age of majotity in their comunity. All persons who do not meet tis criteria are strictly forbiden from accessing or viewing the contents of this Site. We do not knowingly seek or collect any personal information or data from persons who have not attained the age of majority. 
 
 ### DATA COLLECTED
 
@@ -32,10 +30,10 @@ This site expressly and strictly limits its membership and/or viewing privliges 
 
 
 
-### DISCLOSURE OF INFORMATIONM
+### DISCLOSURE OF INFORMATION
 
-  * if under duty to do so SexInYourCity.com may release data to comply with any legal obligation, or in order to enforce our Terms Of Service and other agreements; or to protect the rights, property or safety of SexInYourCity.com or our subscribers or others. This includes exchanging information with other companies and organisations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms Of Service. It is SexInYourCity.com policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party.
-  *   * Should you deliberatlly upload any illegal material SexInYourCity.com shall forward all available information to all relevant authorities and this without notice. We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
+  * If under duty to do so SexInYourCity.com may release data to comply with any legal obligation, or in order to enforce our Terms Of Service and other agreements; or to protect the rights, property or safety of SexInYourCity.com or our subscribers or others. This includes exchanging information with other companies and organisations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms Of Service. It is SexInYourCity.com policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party.
+  *   * Should you deliberatlly upload any illegal material SexInYourCity.com shall forward all available information to all relevant authorities and this without notice. We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. 
 
 
 
@@ -43,8 +41,15 @@ This site expressly and strictly limits its membership and/or viewing privliges 
 
 Where we have given you (or where you have chosen a password) which enables you to access certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone.
 
-Unfortunately, the transmission of information via the Internet is not completely secure. SexInYourCity.com uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to SexInYourCity.com and you do so at your own risk.
+Unfortunately, the transmission of information via the Internet is not completely secure. SexInYourCity.com uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to SexInYourCity.com and you do so at your own risk. 
 
 ### YOUR RIGHTS
 
+You may request to unsubscribe at anytime from our mailing by clicking at the provided link at the bottom of all emails that are sent to you or by contacting us directly through the website. 
+
 You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at [support@sexinyourcity.com](mailto:support@sexinyourcity.com). 
+
+### CONTACT US
+
+[support@sexinyourcity.com](mailto:support@sexinyourcity.com)  
+Hague Ltd, Unit 9, 15-17 Caledonian Road, P.O. Box 297, London N1 9DX | Keeseville Limited 72 High Street GU27 2LA Haslemere Surrey United Kingdom 
