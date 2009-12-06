@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mercedesclub.org.uk privacy policy that was archived on 2008-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081226013324id_/http%3A//www.mercedesclub.org.uk/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mercedesclub.org.uk privacy policy that was archived on 2009-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091206062727id_/http%3A//www.mercedesclub.org.uk/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>: : Mercedes-Benz Owners : :</title>
@@ -48,7 +48,26 @@ BODY
       <td width="10" height="286"><img src="images/whitespacer.gif" width="10" height="10"> 
       </td>
       <td width="165"> 
-        <table width="165" border="0" cellspacing="0" cellpadding="0">
+        
+
+<table width="165" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr bgcolor="#E7E7E7"> 
+            <td> 
+              <table width="165" border="0" cellspacing="0" cellpadding="7" height="20">
+                <tbody><tr> 
+                  <td height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><img src="images/orangearrowgrey.gif" width="8" height="8"> 
+                    <a href="index.html" class="menu">Home</a></font></td>
+                </tr>
+              </tbody></table>
+            </td>
+          </tr>
+          <tr> 
+            <td height="2"><img src="images/line2.gif" width="165" height="2"></td>
+          </tr>
+        </tbody></table>
+
+
+<table width="165" border="0" cellspacing="0" cellpadding="0">
           <tbody><tr bgcolor="#E7E7E7"> 
             <td> 
               <table width="165" border="0" cellspacing="0" cellpadding="7" height="20">
@@ -139,6 +158,24 @@ BODY
           </tr>
         </tbody></table>
         <table width="165" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr bgcolor="#E7E7E7"> 
+            <td> 
+              <table width="165" border="0" cellspacing="0" cellpadding="7" height="20">
+                <tbody><tr> 
+                  <td height="20"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><img src="images/orangearrowgrey.gif" width="8" height="8"> 
+                    <a href="http://mercedescarfinder.co.uk/" class="menu" target="_blank">Mercedes Car Finder</a></font></td>
+                </tr>
+              </tbody></table>
+            </td>
+          </tr>
+          <tr> 
+            <td height="2"><img src="images/line2.gif" width="165" height="2"></td>
+          </tr>
+        </tbody></table>
+
+
+
+<table width="165" border="0" cellspacing="0" cellpadding="0">
           <tbody><tr bgcolor="#E7E7E7"> 
             <td> 
               <table width="165" border="0" cellspacing="0" cellpadding="7" height="20">
@@ -243,6 +280,8 @@ BODY
                 unauthorised third parties. Because of the nature of the internet, 
                 your personal information may be transmitted across routes which 
                 take it outside the European Union. <br>
+		    <br>
+			We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click <a href="http://www.google.com/privacy_ads.html" target="_blank" rel="nofollow">here</a>.<br>
                 <br>
                 If you have any queries in relation to use of your personal information, 
                 please contact our customer services department: correspondence 
@@ -275,7 +314,7 @@ BODY
         </font> </td>
       <td width="750"> 
         <div align="right"><font color="#999999"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><a href="merc_copyright.html" class="menu"><font size="1"><br>
-          Copyright</font></a> <font size="1">© Mercedes-Benz Owners </font><font color="#999999"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><font size="1">2006/7</font></font></font><br>
+          Copyright</font></a> <font size="1">© Mercedes-Benz Owners </font><font color="#999999"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><font size="1">2009</font></font></font><br>
           </font></font><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#999999">Site 
           design and construction <a href="http://www.mediaflo.co.uk" class="menu" target="_blank">Mediaflo 
           Communications</a></font><font face="Verdana, Arial, Helvetica, sans-serif" size="2" color="#999999"><font size="1"><br>
@@ -297,6 +336,24 @@ var pageTracker = _gat._getTracker("UA-3410537-1");
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+  //$('.menu[href=news.html]').parent().parent().parent().parent().parent().parent().parent().parent().parent().hide();
+
+  var localserver = "mercedesclub.org.uk";
+  $("a[href^=http://]")
+  .not("a[href^=http://"+localserver+"]")
+  .not("a[href^=http://www."+localserver+"]")
+  .click(function(){
+    $(this).attr("target", "blank"); 
+    var url = $(this).attr("href").replace(/^http\:\/\/(www\.)?/i, "");
+    pageTracker._trackPageview('/external/'+url); 
+  }); 
+});
+</script>
+
 
 
 </body></html>
