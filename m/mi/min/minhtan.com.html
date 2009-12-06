@@ -1,959 +1,246 @@
-<!--The following is the downloaded HTML source of the minhtan.com privacy policy that was archived on 2009-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090618102521id_/http%3A//www.minhtan.com/index.php%3Ftarget%3Dpages%26page_id%3Dprivacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the minhtan.com privacy policy that was archived on 2009-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091206025720id_/http%3A//www.minhtan.com/index.php%3Fdispatch%3Dpages.view%26page_id%3D12) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
+<title>Privacy policy - Minh Tan Online store - Music, Video And More...</title>
+
+
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="description" content="Minh Tan Music, An E-Commerce Store online. Phim Nhac Viet Nam Hai Ngoai. Nhac Nhat, Han Quoc, Trung Quoc. Phim Hong Kong, Thailan. May Amplifier, Speakers, Karaoke Mixers, Microphone.">
+<meta http-equiv="Content-Language" content="en">
+<meta name="description" content="CS-Cart committed protecting your privacy This privacy statement discloses what information gather about when visit CS-Cart Site describes that information policy keep personal information receive from Site completely confidential used solely internal purposes will share your personal information with other parties Collection your Personal Information personal information collect include your name title company organization name e-mail phone collect certain information">
 <meta name="keywords" content="Minh Tan, Minh Tân, Minh Tan Music, Minh Tân Music, Dịch vụ Kim Nguyên, Kim Nguyên Dịch Vụ, Kim Nguyen Dich Vu, Minh Tan Online Store, ">
-<meta name="author" content="CS-Cart.com">
-<title>Minh Tan Online store - Music, Video And More... - Privacy policy</title>
+<meta name="author" content="Simbirsk Technologies LTD.">
+<meta name="robots" content="index, all">
+<link href="/skins/default_blue/customer/images/icons/favicon.ico" rel="shortcut icon">
+<link href="/skins/default_blue/customer/styles.css" rel="stylesheet" type="text/css">
+<link href="/skins/default_blue/customer/print.css" rel="stylesheet" media="print" type="text/css">
+<link href="/skins/default_blue/customer/dropdown.css" rel="stylesheet" type="text/css">
+<!--[if lte IE 7]>
+<link href="/skins/default_blue/customer/styles_ie.css" rel="stylesheet" type="text/css" />
+<![endif]-->
 
-<link href="/skins/lite_blue/customer/styles.css" rel="stylesheet" type="text/css">
-
-<script type="text/javascript" language="javascript 1.2">
-<!--
+<script type="text/javascript" src="/lib/jquery/jquery.js"></script>
+<script type="text/javascript" src="/js/core.js"></script>
+<script type="text/javascript" src="/js/ajax.js"></script>
+<script type="text/javascript">
+//<![CDATA[
 var index_script = 'index.php';
-var image_index = 'image.php';
-var target_name = 'target';
-var mode_name = 'mode';
-var action_name = 'action';
-var cannot_buy = 'You cannot buy the product with these option variants ';
-var no_products_selected = 'No products selected';
-var error_required_fields = 'You did not complete all of the required fields or input data is incorrect.';
-var sec_curr_coef = '1.000';
-var error_no_items_selected = 'No items selected! At least one checkbox must be ticked off to perform this action.';
-var	text_delete_confirmation = 'Are you sure you want to delete the selected items?';
-var primary_decimals_separator = '.';
-var primary_thousands_separator = ',';
-var secondary_decimals_separator = '.';
-var secondary_thousands_separator = ',';
-var lang_out_of_stock = 'Out of stock';
-var lang_items = 'items';
-var text_required_group_product = 'Please select a product for the required group [group_name]';
--->
+
+var lang = {
+	cannot_buy: 'You cannot buy the product with these option variants ',
+	no_products_selected: 'No products selected',
+	error_no_items_selected: 'No items selected! At least one checkbox must be ticked off to perform this action.',
+	delete_confirmation: 'Are you sure you want to delete the selected items?',
+	text_out_of_stock: 'Out of stock',
+	items: 'item(s)',
+	text_required_group_product: 'Please select a product for the required group [group_name]',
+	notice: 'Notice',
+	warning: 'Warning',
+	loading: 'Loading...',
+	none: 'None',
+	text_are_you_sure_to_proceed: 'Are you sure you want to proceed? ',
+	text_invalid_url: 'You have entered an invalid URL',
+	text_cart_changed: 'Items in the shopping cart have been changed. Please press \"OK\" to save changes or \"Cancel\" to leave items unchanged.',
+	error_validator_email: 'The e-mail address in the <b>[field]<\/b> field is invalid.',
+	error_validator_confirm_email: 'The e-mail addresses in the <b>[field]<\/b> and confirmation fields do not match.',
+	error_validator_phone: 'The phone number in the <b>[field]<\/b> field is invalid. The correct format is (555) 555-55-55 or 55 55 555 5555.',
+	error_validator_integer: 'The value of the <b>[field]<\/b> field is invalid. It should be integer.',
+	error_validator_multiple: 'The <b>[field]<\/b> field does not have selected options.',
+	error_validator_password: 'The passwords in the <b>[field2]<\/b> and <b>[field1]<\/b> fields do not match.',
+	error_validator_required: 'The <b>[field]<\/b> field is mandatory.',
+	error_validator_zipcode: 'The ZIP / Postal code in the <b>[field]<\/b> field is incorrect. The correct format is [extra].',
+	error_validator_message: 'The value of the <b>[field]<\/b> field is invalid.',
+	text_page_loading: 'Loading... Your request is being processed, please wait.'
+}
+
+var warning_mark = "&lt;&lt;";
+
+var currencies = {
+	'primary': {
+		'decimals_separator': '.',
+		'thousands_separator': ',',
+		'decimals': '2',
+		'coefficient': '1.000'
+	},
+	'secondary': {
+		'decimals_separator': '.',
+		'thousands_separator': ',',
+		'decimals': '2',
+		'coefficient': '1.000'
+	}
+};
+
+var cart_language = 'EN';
+var images_dir = '/skins/default_blue/customer/images';
+var cart_prices_w_taxes = false;
+var translate_mode = false;
+var iframe_urls = new Array();
+var iframe_extra = new Array();
+var regexp = new Array();
+$(document).ready(function(){
+	jQuery.runCart('C');
+});
+
+document.write('<style>.cm-noscript { display:none }</style>'); // hide noscript tags
+//]]>
+</script><style>.cm-noscript { display:none }</style>
+
+<!--[if lt IE 8]>
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function(){
+	$('ul.dropdown li').hover(function(){
+		$(this).addClass('hover');
+		$('> .dir',this).addClass('open');
+		$('ul:first',this).css('visibility', 'visible');
+	},function(){
+		$(this).removeClass('hover');
+		$('.open',this).removeClass('open');
+		$('ul:first',this).css('visibility', 'hidden');
+	});
+});
+//]]>
 </script>
-<script type="text/javascript" language="javascript 1.2" src="/skins/lite_blue/customer/scripts/form_scripts.js"></script>
+<![endif]-->
+
 </head>
 
-<body onload="fn_load_handlers();">
-<a name="top"></a>
-<table cellpadding="0" cellspacing="0" width="100%" style="height:100%" border="0">
-<tbody><tr>
-	<td valign="top" style="height:100%">
-		<table cellpadding="0" cellspacing="0" width="100%" border="0" style="height:100%">
-		<tbody><tr>
-			<td valign="top">
-				
-<table cellpadding="0" cellspacing="0" width="100%" border="0" style="height: 65px;">
-<tbody><tr>
-	<td valign="middle" class="top-bg" width="280">
-	<object classid="clsid:D27CDB6E-AE6D-11CF-96B8-444553540000" id="minhtan" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" border="0" width="267" height="65">
-		<param name="movie" value="/skins/lite_blue/customer/images/minhtan_logo.swf">
-		<param name="quality" value="High">
-		<embed src="/skins/lite_blue/customer/images/minhtan_logo.swf" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" name="minhtan" width="267" height="65">
-	</object>	
-	<!--
-	<a href="index.php"><img src="/skins/lite_blue/customer/images/minhtan_logo.gif" class="logo_img" width="267" height="65" border="0" alt="Minh Tan Online Store" title="Minh Tan Online Store"></a>
-	-->
-	</td>
-	<td>
-		<table cellpadding="0" cellspacing="0" border="0" width="100%" style="height: 100%;">
-		<tbody><tr>
-			<td align="right" valign="top" width="100%" style="height: 100%;" colspan="2"><table cellpadding="0" cellspacing="6" border="0">
-<tbody><tr>
-	<td>
-		<a href="index.php" class="top-quick-link">Home</a></td>
-	<td>|</td>
-		<td>
-		<a href="index.php?target=pages&amp;page_id=about" class="top-quick-link">About Us</a></td>
-	<td>|</td>
-		<td>
-		<a href="index.php?target=forms&amp;name=contact_us" class="top-quick-link">Contact Us</a></td>
-	<td>|</td>
-		<td>
-		<a href="index.php?target=pages&amp;page_id=privacy_policy" class="top-quick-link">Privacy policy</a></td>
-	<td>|</td>
-		<td>
-		<a href="index.php?target=sitemap" class="top-quick-link">Site map</a></td>
-</tr>
-</tbody></table></td>
-		</tr>
-		<tr>
-			<td valign="bottom"><table cellpadding="0" cellspacing="0" width="100%" border="0" style="height: 30px">
-<tbody><tr>
-	<td width="5">
-		<img src="/skins/lite_blue/customer/images/top_menu_left.gif" width="5" height="30" border="0" alt=""></td>
-	<td align="center">
-		<table cellpadding="0" cellspacing="0" border="0">
-		<tbody><tr>
-			<td colspan="16" style="background: url('/skins/lite_blue/customer/images/top_menu_border.gif') repeat-x;"><img src="/spacer.gif" width="1" height="4" border="0" alt="" title=""></td>
-		</tr>
-		<tr>
-			<td>
-																	<table cellpadding="0" cellspacing="0" border="0" class="top-menu-bg" onclick="javascript:self.location='index.php'">
-<tbody><tr>
-	<td><img src="/skins/lite_blue/customer/images/top_menu_button_left.gif" width="5" height="26" border="0" alt="" title=""></td>
-	<td>
-		<table cellpadding="0" cellspacing="0" border="0" style="height: 26px;">
-		<tbody><tr>
-			<td align="center" style="background-image: url('/skins/lite_blue/customer/images/top_menu_bg.gif'); height: 24px;" class="top-menu-bg" nowrap="nowrap">
-				&nbsp;&nbsp;<a href="index.php" class="top-menu-title">Home</a>&nbsp;&nbsp;</td>
-		</tr>
-		<tr>
-			<td align="center" style="background-image: url('/skins/lite_blue/customer/images/top_menu_bg_shadow.gif'); height: 2px;" nowrap="nowrap">
-				<img src="/skins/lite_blue/customer/images/spacer.gif" width="1" height="2" border="0" alt="" title=""></td>
-		</tr>
-		</tbody></table>
-	</td>
-	<td><img src="/skins/lite_blue/customer/images/top_menu_button_rt.gif" width="5" height="26" border="0" alt="" title=""></td>
-</tr>
-</tbody></table>			</td>
-			<td width="2">
-				<img src="/skins/lite_blue/customer/images/top_menu_delim.gif" width="2" height="26" border="0" alt=""></td>
+<body>
+<div class="helper-container">
+	<a name="top"></a>
+	<div id="ajax_loading_box" class="ajax-loading-box"><div class="right-inner-loading-box"><div id="ajax_loading_message" class="ajax-inner-loading-box">Loading...</div></div></div>
+	
+<div class="cm-notification-container">
+</div>
 
-			<td>
-																	<table cellpadding="0" cellspacing="0" border="0" class="top-menu-bg" onclick="javascript:self.location='index.php?mode=catalog'">
-<tbody><tr>
-	<td><img src="/skins/lite_blue/customer/images/top_menu_button_left.gif" width="5" height="26" border="0" alt="" title=""></td>
-	<td>
-		<table cellpadding="0" cellspacing="0" border="0" style="height: 26px;">
-		<tbody><tr>
-			<td align="center" style="background-image: url('/skins/lite_blue/customer/images/top_menu_bg.gif'); height: 24px;" class="top-menu-bg" nowrap="nowrap">
-				&nbsp;&nbsp;<a href="index.php?mode=catalog" class="top-menu-title">Catalog</a>&nbsp;&nbsp;</td>
-		</tr>
-		<tr>
-			<td align="center" style="background-image: url('/skins/lite_blue/customer/images/top_menu_bg_shadow.gif'); height: 2px;" nowrap="nowrap">
-				<img src="/skins/lite_blue/customer/images/spacer.gif" width="1" height="2" border="0" alt="" title=""></td>
-		</tr>
-		</tbody></table>
-	</td>
-	<td><img src="/skins/lite_blue/customer/images/top_menu_button_rt.gif" width="5" height="26" border="0" alt="" title=""></td>
-</tr>
-</tbody></table>			</td>
-			<td width="2">
-				<img src="/skins/lite_blue/customer/images/top_menu_delim.gif" width="2" height="26" border="0" alt=""></td>
 
-			<td>
-																														<table cellpadding="0" cellspacing="0" border="0" class="top-menu-bg" onclick="javascript:self.location='index.php?target=auth&amp;mode=login_form'">
-<tbody><tr>
-	<td><img src="/skins/lite_blue/customer/images/top_menu_button_left.gif" width="5" height="26" border="0" alt="" title=""></td>
-	<td>
-		<table cellpadding="0" cellspacing="0" border="0" style="height: 26px;">
-		<tbody><tr>
-			<td align="center" style="background-image: url('/skins/lite_blue/customer/images/top_menu_bg.gif'); height: 24px;" class="top-menu-bg" nowrap="nowrap">
-				&nbsp;&nbsp;<a href="index.php?target=auth&amp;mode=login_form" class="top-menu-title">My account</a>&nbsp;&nbsp;</td>
-		</tr>
-		<tr>
-			<td align="center" style="background-image: url('/skins/lite_blue/customer/images/top_menu_bg_shadow.gif'); height: 2px;" nowrap="nowrap">
-				<img src="/skins/lite_blue/customer/images/spacer.gif" width="1" height="2" border="0" alt="" title=""></td>
-		</tr>
-		</tbody></table>
-	</td>
-	<td><img src="/skins/lite_blue/customer/images/top_menu_button_rt.gif" width="5" height="26" border="0" alt="" title=""></td>
-</tr>
-</tbody></table>						</td>
-			<td width="2">
-				<img src="/skins/lite_blue/customer/images/top_menu_delim.gif" width="2" height="26" border="0" alt=""></td>
+		
+<div id="container" class="container">
+		<div id="header">
+<div class="header-helper-container">
+	<div class="logo-image">
+		<a href="index.php"><img src="/skins/default_blue/customer/images/customer_area_logo.png" width="176" height="69" border="0" alt="Minh Tan Online Store"></a>
+	</div>
+	
+	<p class="quick-links">&nbsp;
+			<a href="index.php">Home</a>
+			<a href="index.php?dispatch=pages.view&amp;page_id=15">About Us</a>
+			<a href="index.php?dispatch=pages.view&amp;page_id=20">Contact Us</a>
+			<a href="index.php?dispatch=pages.view&amp;page_id=12">Privacy policy</a>
+			<a href="index.php?dispatch=sitemap.view">Site map</a>
+	</p>
+	
+	
+<div id="top_menu">
+<ul class="top-menu dropdown"><li class="first-level "><span><a href="http://www.minhtan.com/index.php">Home</a></span></li><li class="first-level "><span><a href="http://www.minhtan.com/index.php?dispatch=categories.view&amp;category_id=185">CDs</a></span></li><li class="first-level "><span><a href="http://www.minhtan.com/index.php?dispatch=categories.view&amp;category_id=268">DVD Music</a></span></li><li class="first-level "><span><a href="http://www.minhtan.com/index.php?dispatch=categories.view&amp;category_id=187">Movies</a></span></li><li class="first-level "><span><a href="http://www.minhtan.com/index.php?dispatch=categories.view&amp;category_id=189">Dramas / Phim Bộ</a></span></li><li class="first-level "><span><a href="http://www.minhtan.com/index.php?dispatch=categories.view&amp;category_id=323">Books</a></span></li><li class="first-level "><span><a href="http://www.minhtan.com/index.php?dispatch=categories.view&amp;category_id=190">Anime</a></span></li><li class="first-level "><span><a href="http://www.minhtan.com/index.php?dispatch=categories.view&amp;category_id=502">Sanrio</a></span></li><li class="first-level "><span><a href="http://www.minhtan.com/index.php?dispatch=categories.view&amp;category_id=192">Electronics</a></span></li></ul>
 
-			<td>
-																	<table cellpadding="0" cellspacing="0" border="0" class="top-menu-bg" onclick="javascript:self.location='index.php?target=cart'">
-<tbody><tr>
-	<td><img src="/skins/lite_blue/customer/images/top_menu_button_left.gif" width="5" height="26" border="0" alt="" title=""></td>
-	<td>
-		<table cellpadding="0" cellspacing="0" border="0" style="height: 26px;">
-		<tbody><tr>
-			<td align="center" style="background-image: url('/skins/lite_blue/customer/images/top_menu_bg.gif'); height: 24px;" class="top-menu-bg" nowrap="nowrap">
-				&nbsp;&nbsp;<a href="index.php?target=cart" class="top-menu-title">View cart</a>&nbsp;&nbsp;</td>
-		</tr>
-		<tr>
-			<td align="center" style="background-image: url('/skins/lite_blue/customer/images/top_menu_bg_shadow.gif'); height: 2px;" nowrap="nowrap">
-				<img src="/skins/lite_blue/customer/images/spacer.gif" width="1" height="2" border="0" alt="" title=""></td>
-		</tr>
-		</tbody></table>
-	</td>
-	<td><img src="/skins/lite_blue/customer/images/top_menu_button_rt.gif" width="5" height="26" border="0" alt="" title=""></td>
-</tr>
-</tbody></table>			</td>
-			<td width="2">
-				<img src="/skins/lite_blue/customer/images/top_menu_delim.gif" width="2" height="26" border="0" alt=""></td>
-		</tr>
-		</tbody></table>
-	</td>
-	<td width="5">
-		<img src="/skins/lite_blue/customer/images/top_menu_right.gif" width="5" height="30" border="0" alt=""></td>
-</tr>
-</tbody></table></td>
-			<td valign="bottom" width="100%">
-				<table cellpadding="0" cellspacing="0" border="0" width="100%">
-				<tbody><tr>
-					<td class="top-bg-right" align="right">
+</div>
+<span class="helper-block">&nbsp;</span>
+</div>
+	
+<div class="top-tools-container">
+	<span class="float-left">&nbsp;</span>
+	<span class="float-right">&nbsp;</span>
+	<div class="top-tools-helper">
+		<div class="float-right" id="sign_io"><!--dynamic:sign_io-->
+										<a id="sw_login" href="index.php?dispatch=auth.login_form">Sign in</a>
+				OR
+				<a href="index.php?dispatch=profiles.add">Register</a>
+						
+					<!--/dynamic--><!--sign_io--></div>
+		<div class="top-search">
+			
 <form action="index.php" name="search_form" method="get">
-<input type="hidden" name="target" value="products">
-<input type="hidden" name="mode" value="search">
 <input type="hidden" name="subcats" value="Y">
 <input type="hidden" name="type" value="extended">
-<input type="hidden" name="avail" value="Y">
+<input type="hidden" name="status" value="A">
 <input type="hidden" name="pshort" value="Y">
 <input type="hidden" name="pfull" value="Y">
 <input type="hidden" name="pname" value="Y">
+<input type="hidden" name="pkeywords" value="Y">
+ 
 
-<input type="hidden" name="cid" value="0">
+<span class="search-products-text">Search:</span>
 
-<table cellpadding="0" cellspacing="0" border="0">
-<tbody><tr><td class="search-text">
-	&nbsp;Search:&nbsp;</td>
-<td>
-	<input type="text" name="q" value="" onfocus="fn_select_input(this)" class="search-input-text" style="width:122px"></td>
-<td>&nbsp;</td>
-<td>
-	<input type="image" src="/skins/lite_blue/customer/images/search_go.gif" style="width: 21px; height: 21px; border: 0px;" alt="Search" title="Search"></td>
-<td>&nbsp;</td>
-<td nowrap="nowrap">
-	<a href="index.php?target=search" class="search-advanced">Advanced search</a></td>
-<td>&nbsp;&nbsp;</td>
-</tr></tbody></table>
+<select name="cid" class="search-selectbox">
+	<option value="0">- All categories -</option>
+		<option value="467">Thuy Nga Special Sale</option>
+		<option value="461">ASIA Super Sale</option>
+		<option value="474">Van Son Overstocked Sale</option>
+		<option value="185">CDs</option>
+		<option value="268">Live Shows/Music Videos</option>
+		<option value="187">Movies</option>
+		<option value="189">Drama Series / Phim Bộ</option>
+		<option value="188">Karaoke</option>
+		<option value="190">Animation</option>
+		<option value="186">DVDs</option>
+		<option value="323">Sách / Books</option>
+		<option value="502">Sanrio</option>
+		<option value="192">Electronics</option>
+		<option value="191">Games</option>
+		<option value="341">Cosmetics</option>
+		<option value="282">Health Supplements</option>
+	</select>
 
-</form></td>
-				</tr>
-				<tr>
-					<td class="top-bg-br">
-						<img src="/skins/lite_blue/customer/images/spacer.gif" width="1" height="3" border="0" alt="" title=""></td>
-				</tr>
-				</tbody></table>
-			</td>
-			
-		</tr>
-		</tbody></table>
-	</td>
-</tr>
-</tbody></table>
-</td>
-		</tr>
-		<tr>
-			<td style="height:100%" valign="top">
-				
-<table cellpadding="0" cellspacing="0" border="0" width="100%" style="height: 100%;">
-<tbody><tr>
-	<td>&nbsp;&nbsp;</td>
+<input type="text" name="q" value="" onfocus="this.select();" class="search-input"><input type="image" src="/skins/default_blue/customer/images/icons/go.gif" alt="Search" title="Search" class="go-button">
+<input type="hidden" name="dispatch" value="products.search"><a href="index.php?dispatch=products.search" class="search-advanced">Advanced search</a>
 
-	   	<td valign="top">
-							                                  
-					<div align="center">
-				
- <img src="/images/common_images/CC Logo 2.gif" width="183" height="23" alt="CC Logo 2.gif" border="0">				</div><p></p>
-													
-<table cellpadding="0" cellspacing="0" width="100%" border="0">
-<tbody><tr>
-	<td height="18" class="sidebox-title-bg">
-		<table cellpadding="0" cellspacing="0" border="0" width="100%">
-		<tbody><tr>
-			<td>
-				<img src="/skins/lite_blue/customer/images/sidebox_title_lft.gif" }"="" width="5" height="18" border="0" alt=""></td>
-			<td class="sidebox-title" align="center" width="100%">
-				&nbsp;&nbsp;Secure Shopping&nbsp;</td>
-			<td>
-				<img src="/skins/lite_blue/customer/images/sidebox_title_rgt.gif" }"="" width="5" height="18" border="0" alt=""></td>
-		</tr>
-		</tbody></table>
-	</td>
-</tr>
-<tr>
-	<td>
-		<table border="0" cellpadding="5" cellspacing="0" width="100%">
-		<tbody><tr>
-			<td class="sidebox-body">
-				<p></p> <!-- (c) 2006. Authorize.Net is a registered trademark of Lightbridge, Inc. --> <div class="AuthorizeNetSeal"> <script type="text/javascript" language="javascript">var ANS_customer_id="aae752ca-0073-44a7-9592-902db005fb71";</script> <script type="text/javascript" language="javascript" src="//VERIFY.AUTHORIZE.NET/anetseal/seal.js"></script></div><br></td>
-		</tr>
-		</tbody></table>
-	</td>
-</tr>
-</tbody></table>																					
-   		
-
-<table cellpadding="0" cellspacing="0" width="100%" border="0">
-<tbody><tr>
-	<td height="18" class="sidebox-title-bg_a">
-		<table cellpadding="0" cellspacing="0" border="0" width="100%">
-		<tbody><tr>
-			<td>
-				<img src="/skins/lite_blue/customer/images/sidebox_title_lft_a.gif" }"="" width="5" height="18" border="0" alt=""></td>
-			<td class="sidebox-title_a" align="center" width="100%">
-				&nbsp;&nbsp;Categories&nbsp;</td>
-			<td>
-				<img src="/skins/lite_blue/customer/images/sidebox_title_rgt_a.gif" }"="" width="5" height="18" border="0" alt=""></td>
-		</tr>
-		</tbody></table>
-	</td>
-</tr>
-<tr>
-	<td>
-		<table border="0" cellpadding="5" cellspacing="0" width="100%">
-		<tbody><tr>
-			<td class="sidebox-category">
-				<p></p>		
-						
-<table cellpadding="0" cellspacing="0" width="100%" border="0">
-<tbody><tr>
-	<td width="100%">
-		<a href="index.php?target=categories&amp;category_id=461" class="sidebox-rootcategory">ASIA Super Sale</a></td>
-	<td align="right">
-		<a href="index.php?target=categories&amp;category_id=461"><img src="/skins/lite_blue/customer/images/category_collapsed.gif" width="14" height="15" border="0" alt=""></a></td>
-</tr>
-</tbody></table>
-<table cellpadding="0" cellspacing="0" width="100%" border="0">
-<tbody><tr>
-	<td colspan="2" style="background-image: url('/skins/lite_blue/customer/images/categories_delim.gif');">
-		<img src="/skins/lite_blue/customer/images/spacer.gif" width="1" height="7" border="0" alt=""></td>
-</tr>
-<tr>
-	<td width="100%">
-		<a href="index.php?target=categories&amp;category_id=185" class="sidebox-rootcategory">CDs</a></td>
-	<td align="right">
-		<a href="index.php?target=categories&amp;category_id=185"><img src="/skins/lite_blue/customer/images/category_collapsed.gif" width="14" height="15" border="0" alt=""></a></td>
-</tr>
-</tbody></table>
-<table cellpadding="0" cellspacing="0" width="100%" border="0">
-<tbody><tr>
-	<td colspan="2" style="background-image: url('/skins/lite_blue/customer/images/categories_delim.gif');">
-		<img src="/skins/lite_blue/customer/images/spacer.gif" width="1" height="7" border="0" alt=""></td>
-</tr>
-<tr>
-	<td width="100%">
-		<a href="index.php?target=categories&amp;category_id=268" class="sidebox-rootcategory">Live Shows/Music Videos</a></td>
-	<td align="right">
-		<a href="index.php?target=categories&amp;category_id=268"><img src="/skins/lite_blue/customer/images/category_collapsed.gif" width="14" height="15" border="0" alt=""></a></td>
-</tr>
-</tbody></table>
-<table cellpadding="0" cellspacing="0" width="100%" border="0">
-<tbody><tr>
-	<td colspan="2" style="background-image: url('/skins/lite_blue/customer/images/categories_delim.gif');">
-		<img src="/skins/lite_blue/customer/images/spacer.gif" width="1" height="7" border="0" alt=""></td>
-</tr>
-<tr>
-	<td width="100%">
-		<a href="index.php?target=categories&amp;category_id=187" class="sidebox-rootcategory">Movies</a></td>
-	<td align="right">
-		<a href="index.php?target=categories&amp;category_id=187"><img src="/skins/lite_blue/customer/images/category_collapsed.gif" width="14" height="15" border="0" alt=""></a></td>
-</tr>
-</tbody></table>
-<table cellpadding="0" cellspacing="0" width="100%" border="0">
-<tbody><tr>
-	<td colspan="2" style="background-image: url('/skins/lite_blue/customer/images/categories_delim.gif');">
-		<img src="/skins/lite_blue/customer/images/spacer.gif" width="1" height="7" border="0" alt=""></td>
-</tr>
-<tr>
-	<td width="100%">
-		<a href="index.php?target=categories&amp;category_id=189" class="sidebox-rootcategory">Drama Series / Phim Bộ</a></td>
-	<td align="right">
-		<a href="index.php?target=categories&amp;category_id=189"><img src="/skins/lite_blue/customer/images/category_collapsed.gif" width="14" height="15" border="0" alt=""></a></td>
-</tr>
-</tbody></table>
-<table cellpadding="0" cellspacing="0" width="100%" border="0">
-<tbody><tr>
-	<td colspan="2" style="background-image: url('/skins/lite_blue/customer/images/categories_delim.gif');">
-		<img src="/skins/lite_blue/customer/images/spacer.gif" width="1" height="7" border="0" alt=""></td>
-</tr>
-<tr>
-	<td width="100%">
-		<a href="index.php?target=categories&amp;category_id=190" class="sidebox-rootcategory">Animation</a></td>
-	<td align="right">
-		<a href="index.php?target=categories&amp;category_id=190"><img src="/skins/lite_blue/customer/images/category_collapsed.gif" width="14" height="15" border="0" alt=""></a></td>
-</tr>
-</tbody></table>
-<table cellpadding="0" cellspacing="0" width="100%" border="0">
-<tbody><tr>
-	<td colspan="2" style="background-image: url('/skins/lite_blue/customer/images/categories_delim.gif');">
-		<img src="/skins/lite_blue/customer/images/spacer.gif" width="1" height="7" border="0" alt=""></td>
-</tr>
-<tr>
-	<td width="100%">
-		<a href="index.php?target=categories&amp;category_id=188" class="sidebox-rootcategory">Karaoke</a></td>
-	<td align="right">
-		<a href="index.php?target=categories&amp;category_id=188"><img src="/skins/lite_blue/customer/images/category_collapsed.gif" width="14" height="15" border="0" alt=""></a></td>
-</tr>
-</tbody></table>
-<table cellpadding="0" cellspacing="0" width="100%" border="0">
-<tbody><tr>
-	<td colspan="2" style="background-image: url('/skins/lite_blue/customer/images/categories_delim.gif');">
-		<img src="/skins/lite_blue/customer/images/spacer.gif" width="1" height="7" border="0" alt=""></td>
-</tr>
-<tr>
-	<td width="100%">
-		<a href="index.php?target=categories&amp;category_id=186" class="sidebox-rootcategory">DVDs</a></td>
-	<td align="right">
-		<a href="index.php?target=categories&amp;category_id=186"><img src="/skins/lite_blue/customer/images/category_collapsed.gif" width="14" height="15" border="0" alt=""></a></td>
-</tr>
-</tbody></table>
-<table cellpadding="0" cellspacing="0" width="100%" border="0">
-<tbody><tr>
-	<td colspan="2" style="background-image: url('/skins/lite_blue/customer/images/categories_delim.gif');">
-		<img src="/skins/lite_blue/customer/images/spacer.gif" width="1" height="7" border="0" alt=""></td>
-</tr>
-<tr>
-	<td width="100%">
-		<a href="index.php?target=categories&amp;category_id=323" class="sidebox-rootcategory">Sách / Books</a></td>
-	<td align="right">
-		<a href="index.php?target=categories&amp;category_id=323"><img src="/skins/lite_blue/customer/images/category_collapsed.gif" width="14" height="15" border="0" alt=""></a></td>
-</tr>
-</tbody></table>
-<table cellpadding="0" cellspacing="0" width="100%" border="0">
-<tbody><tr>
-	<td colspan="2" style="background-image: url('/skins/lite_blue/customer/images/categories_delim.gif');">
-		<img src="/skins/lite_blue/customer/images/spacer.gif" width="1" height="7" border="0" alt=""></td>
-</tr>
-<tr>
-	<td width="100%">
-		<a href="index.php?target=categories&amp;category_id=192" class="sidebox-rootcategory">Electronics</a></td>
-	<td align="right">
-		<a href="index.php?target=categories&amp;category_id=192"><img src="/skins/lite_blue/customer/images/category_collapsed.gif" width="14" height="15" border="0" alt=""></a></td>
-</tr>
-</tbody></table>
-<table cellpadding="0" cellspacing="0" width="100%" border="0">
-<tbody><tr>
-	<td colspan="2" style="background-image: url('/skins/lite_blue/customer/images/categories_delim.gif');">
-		<img src="/skins/lite_blue/customer/images/spacer.gif" width="1" height="7" border="0" alt=""></td>
-</tr>
-<tr>
-	<td width="100%">
-		<a href="index.php?target=categories&amp;category_id=191" class="sidebox-rootcategory">Games</a></td>
-	<td align="right">
-		<a href="index.php?target=categories&amp;category_id=191"><img src="/skins/lite_blue/customer/images/category_collapsed.gif" width="14" height="15" border="0" alt=""></a></td>
-</tr>
-</tbody></table>
-<table cellpadding="0" cellspacing="0" width="100%" border="0">
-<tbody><tr>
-	<td colspan="2" style="background-image: url('/skins/lite_blue/customer/images/categories_delim.gif');">
-		<img src="/skins/lite_blue/customer/images/spacer.gif" width="1" height="7" border="0" alt=""></td>
-</tr>
-<tr>
-	<td width="100%">
-		<a href="index.php?target=categories&amp;category_id=341" class="sidebox-rootcategory">Cosmetics</a></td>
-	<td align="right">
-		<a href="index.php?target=categories&amp;category_id=341"><img src="/skins/lite_blue/customer/images/category_collapsed.gif" width="14" height="15" border="0" alt=""></a></td>
-</tr>
-</tbody></table>
-<table cellpadding="0" cellspacing="0" width="100%" border="0">
-<tbody><tr>
-	<td colspan="2" style="background-image: url('/skins/lite_blue/customer/images/categories_delim.gif');">
-		<img src="/skins/lite_blue/customer/images/spacer.gif" width="1" height="7" border="0" alt=""></td>
-</tr>
-<tr>
-	<td width="100%">
-		<a href="index.php?target=categories&amp;category_id=282" class="sidebox-rootcategory">Health Supplements</a></td>
-	<td align="right">
-		<a href="index.php?target=categories&amp;category_id=282"><img src="/skins/lite_blue/customer/images/category_collapsed.gif" width="14" height="15" border="0" alt=""></a></td>
-</tr>
-</tbody></table>
-			<br></td>
-		</tr>
-		</tbody></table>
-	</td>
-</tr>
-</tbody></table>		
-<table cellpadding="0" cellspacing="0" width="100%" border="0">
-<tbody><tr>
-	<td height="18" class="sidebox-title-bg_a">
-		<table cellpadding="0" cellspacing="0" border="0" width="100%">
-		<tbody><tr>
-			<td>
-				<img src="/skins/lite_blue/customer/images/sidebox_title_lft_a.gif" }"="" width="5" height="18" border="0" alt=""></td>
-			<td class="sidebox-title_a" align="center" width="100%">
-				&nbsp;&nbsp;New release&nbsp;</td>
-			<td>
-				<img src="/skins/lite_blue/customer/images/sidebox_title_rgt_a.gif" }"="" width="5" height="18" border="0" alt=""></td>
-		</tr>
-		</tbody></table>
-	</td>
-</tr>
-<tr>
-	<td>
-		<table border="0" cellpadding="5" cellspacing="0" width="100%">
-		<tbody><tr>
-			<td class="sidebox-body">
-				<p></p><table cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-	<td valign="top">
-	<img border="0" src="./vnd_group_thiet_ke_web/resizeimg.php?name=../images/product_images/tdbmtv03bs.jpg&amp;w=30">
-	</td>
-	<td>
-		<a href="index.php?target=products&amp;product_id=42269" class="sidebox-link">Lam Sao Quen Duoc Anh - Thuy Khanh</a></td>
-</tr>
-<tr>
-	<td valign="top">
-	<img border="0" src="./vnd_group_thiet_ke_web/resizeimg.php?name=../images/product_images/tdbmtv02bs.jpg&amp;w=30">
-	</td>
-	<td>
-		<a href="index.php?target=products&amp;product_id=42268" class="sidebox-link">Tai Em Yeu Don Phuong</a></td>
-</tr>
-<tr>
-	<td valign="top">
-	<img border="0" src="./vnd_group_thiet_ke_web/resizeimg.php?name=../images/product_images/vabc09bs.jpg&amp;w=30">
-	</td>
-	<td>
-		<a href="index.php?target=products&amp;product_id=42267" class="sidebox-link">Viet Nam: Tong Thong Nguyen Van Thieu De Nhi Viet Nam Cong Hoa</a></td>
-</tr>
-<tr>
-	<td valign="top">
-	<img border="0" src="./vnd_group_thiet_ke_web/resizeimg.php?name=../images/product_images/vabc08bs.jpg&amp;w=30">
-	</td>
-	<td>
-		<a href="index.php?target=products&amp;product_id=42266" class="sidebox-link">Viet Nam: Quan Luc Lanh Dao Quoc Gia</a></td>
-</tr>
-<tr>
-	<td valign="top">
-	<img border="0" src="./vnd_group_thiet_ke_web/resizeimg.php?name=../images/product_images/vabc07bs.jpg&amp;w=30">
-	</td>
-	<td>
-		<a href="index.php?target=products&amp;product_id=42265" class="sidebox-link">Phan Khac Suu: Song Gio Chinh Truong</a></td>
-</tr>
-</tbody></table>
-<br></td>
-		</tr>
-		</tbody></table>
-	</td>
-</tr>
-</tbody></table>   		
-<table cellpadding="0" cellspacing="0" width="100%" border="0">
-<tbody><tr>
-	<td height="18" class="sidebox-title-bg_a">
-		<table cellpadding="0" cellspacing="0" border="0" width="100%">
-		<tbody><tr>
-			<td>
-				<img src="/skins/lite_blue/customer/images/sidebox_title_lft_a.gif" }"="" width="5" height="18" border="0" alt=""></td>
-			<td class="sidebox-title_a" align="center" width="100%">
-				&nbsp;&nbsp;Quick brows&nbsp;</td>
-			<td>
-				<img src="/skins/lite_blue/customer/images/sidebox_title_rgt_a.gif" }"="" width="5" height="18" border="0" alt=""></td>
-		</tr>
-		</tbody></table>
-	</td>
-</tr>
-<tr>
-	<td>
-		<table border="0" cellpadding="5" cellspacing="0" width="100%">
-		<tbody><tr>
-			<td class="sidebox-body">
-				<p></p>
-	<center>
-	<select name="manufacturer_id" style="width:145px" onchange="javascript:if (this.value) self.location = this.value;">
-		<option value="">- Select a manufacturer -</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=86">20th Century Fox</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=110">Animedia Entertainment</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=66">AOE Worldwide (Malaysia)</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=36">APi</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=147">Apple Films</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=8">Asia Entertainment, Inc.</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=116">Asia Video Publishing (AVP)</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=35">Audio 2000</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=80">Avex</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=59">Azden</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=134">BestMedia</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=142">Better Music Builder (BMB)</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=90">Bich Thu Van</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=63">Blue Ocean Music</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=121">Ca Dao Production</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=49">China Based</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=101">China Record Shanghai Corporation</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=45">Cinema Service</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=21">CN Entertainment</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=38">Crown</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=30">Deltamac (Hong Kong) Co., Ltd.</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=133">Diem Xua Productions</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=103">Dieu Huong Music</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=85">Disney / Buena Vista</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=14">Dragon Movies SDN. BHD.</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=136">DTech</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=100">DVD International</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=104">Dzui Entertainment</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=93">Eagle Productions</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=120">East Asia Music</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=70">Edko Films LTD</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=74">EEG Emperor Entertainment Group (HK)</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=106">Ember Power (M) SDN. BHD.</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=95">EMI</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=22">Entertaining Power Co.</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=113">EVS Entertainment</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=127">Feiya (Tokyo) Intl.</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=83">Fortune Star (HK)</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=96">Forward Music</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=71">Garry's Trading Company (HK)</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=62">Gia Dinh Productions</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=97">Gia Huy Music</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=132">GMM Grammy PCL (TH)</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=148">Go East (HK)</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=149">Gold Typhoon Entertainment Ltd</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=27">Group Sense Ltd.</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=119">HIM International</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=146">Hoa Bien - Phuong Nam Music</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=130">Hoang Oanh Music Center</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=135">Hong Feng Entertainment Sdn. Bhd.</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=46">Hong Kong Based</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=89">Intercontinental Video Limited (IVL) (HK)</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=115">J Bics Film</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=79">Japan Based</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=23">Joy Sales Films and Video Distribution</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=15">Kam &amp; Ronson Enterprise Co., Ltd.</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=42">KBS Media</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=112">Khanh Ha Productions</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=61">Khanh Ly Productions</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=88">Koch Entertainment</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=47">Korea Based</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=102">Lambaian Filem</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=99">Lang Van Productions</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=141">Life Balance LLC</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=114">Lionheart Pictures</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=94">Lionsgate</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=78">Magic Sing</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=92">Magnolia Pictures</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=58">Malaysia Based</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=40">MBC</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=44">Media Asia Films</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=64">Mega Star Video Distribution (HK) Ltd.</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=29">Meh Ai Entertainment</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=122">Menard (Japan)</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=87">Metro-Goldwyn-Mayer</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=54">MFC Media</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=24">Modern Audio</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=108">MPEG Video (M) SDN. BHD.</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=6">Multimedia Entertainment SDN. DHD</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=129">My Van Films</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=105">New Line Cinema</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=151">Nguoi Dep Binh Duong</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=51">Nintendo</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=143">Nissindo USA</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=123">Noevir (JP)</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=138">Nutrition Depot</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=76">OCN Broadcasting</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=19">Panorama Distributions</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=117">Perniagaan Impian Seni</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=137">Phi Viet Laser</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=34">Phuong Hoang Productions</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=5">PMP Entertainment (M) SDN. BHD</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=128">Pola Cosmetics</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=39">Pyle Pro</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=111">Quoc Thai Entertainment</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=53">Rainbow Entertainment</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=139">ReNew Life Formulas</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=41">SBS Productions</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=56">Shaw Brothers</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=60">Shure</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=55">Song Dem Productions</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=75">Sony BMG Music Entertainment</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=25">SONY BMG Music Entertainment (Taiwan) Ltd.</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=52">Sony Computer Entertainment</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=91">Sony Pictures</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=32">Speedy Video Distributors SDN. DHD</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=118">Starwin Music</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=140">T.N. America Herbs Inc.</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=10">Tai Seng Entertainment Sdn. Bhd</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=50">Taiwan Based</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=144">Tan Tu Dien</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=77">TBS (Tokyo Broadcasting Station)</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=7">Technogram SDN. BHD.</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=33">Thai Based</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=9">Thuy Nga</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=17">Tinh Productions</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=126">Trong Dong Vina Entertainment</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=57">Tuan Anh Productions</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=43">TVB</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=11">U-Sing-Along</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=18">Unicorn Entertainment (HK)</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=48">United Home Entertainment</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=125">Universal Music</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=20">Universe Laser &amp; Video Co.</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=69">Universe Music</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=73">US Based</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=13">Van Son Entertainment</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=150">VBG Network SDN BHD</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=28">Vietnam Based</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=98">Vina Productions</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=124">Vo Thuong Guitar</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=37">VocoPro</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=107">Vscape Enterprise</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=84">Warner Bros.</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=67">Warner Music</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=26">Warner Music Taiwan Limited</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=131">Wayne Enterprises &amp; DMN Productions</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=145">Well Go USA</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=82">Wide Sight Entertainment (HK)</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=68">Wing Artist Entertainment Co.</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=65">Winson Entertainment Distribution Ltd.</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=109">Y Lan Productions</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=12">Youth Entertainment</option>
-				<option value="index.php?target=manufacturers&amp;manufacturer_id=31">Zoke Culture</option>
-			</select>
-	</center>
-
-	<center>
-	<select name="product_feature" style="width:145px" onchange="javascript:if (this.value) self.location = this.value;">
-		<option value="">- Select Productions -</option>
-				<option value="index.php?target=products&amp;mode=search&amp;type=extended&amp;action=feature_search&amp;feature%5B5%5D=Asia Entertainment">Asia Entertainment</option>
-				<option value="index.php?target=products&amp;mode=search&amp;type=extended&amp;action=feature_search&amp;feature%5B5%5D=Dragon Movies SDN. BHD.">Dragon Movies SDN. BHD.</option>
-				<option value="index.php?target=products&amp;mode=search&amp;type=extended&amp;action=feature_search&amp;feature%5B5%5D=Entertaining Power Company Limited">Entertaining Power Company Limited</option>
-				<option value="index.php?target=products&amp;mode=search&amp;type=extended&amp;action=feature_search&amp;feature%5B5%5D=KBS Media">KBS Media</option>
-				<option value="index.php?target=products&amp;mode=search&amp;type=extended&amp;action=feature_search&amp;feature%5B5%5D=MBC">MBC</option>
-				<option value="index.php?target=products&amp;mode=search&amp;type=extended&amp;action=feature_search&amp;feature%5B5%5D=PMP Entertainment SDN. BHD.">PMP Entertainment SDN. BHD.</option>
-				<option value="index.php?target=products&amp;mode=search&amp;type=extended&amp;action=feature_search&amp;feature%5B5%5D=SBS Productions">SBS Productions</option>
-				<option value="index.php?target=products&amp;mode=search&amp;type=extended&amp;action=feature_search&amp;feature%5B5%5D=Technogram SDN. BHD.">Technogram SDN. BHD.</option>
-				<option value="index.php?target=products&amp;mode=search&amp;type=extended&amp;action=feature_search&amp;feature%5B5%5D=Thuy Nga">Thuy Nga</option>
-				<option value="index.php?target=products&amp;mode=search&amp;type=extended&amp;action=feature_search&amp;feature%5B5%5D=Tinh Productions">Tinh Productions</option>
-				<option value="index.php?target=products&amp;mode=search&amp;type=extended&amp;action=feature_search&amp;feature%5B5%5D=TVB">TVB</option>
-				<option value="index.php?target=products&amp;mode=search&amp;type=extended&amp;action=feature_search&amp;feature%5B5%5D=U-Sing-Along">U-Sing-Along</option>
-				<option value="index.php?target=products&amp;mode=search&amp;type=extended&amp;action=feature_search&amp;feature%5B5%5D=Van Son Entertainment">Van Son Entertainment</option>
-				<option value="index.php?target=products&amp;mode=search&amp;type=extended&amp;action=feature_search&amp;feature%5B5%5D=Yoon's Color">Yoon's Color</option>
-				<option value="index.php?target=products&amp;mode=search&amp;type=extended&amp;action=feature_search&amp;feature%5B5%5D=Youth Entertainment">Youth Entertainment</option>
-			</select>
-	</center>
-
-<br></td>
-		</tr>
-		</tbody></table>
-	</td>
-</tr>
-</tbody></table>		
-		<!--
-
-<table cellpadding="0" cellspacing="0" width="100%" border="0">
-<tr>
-	<td height="18" class="sidebox-title-bg">
-		<table cellpadding="0" cellspacing="0" border="0" width="100%">
-		<tr>
-			<td>
-				<img src="/skins/lite_blue/customer/images/sidebox_title_lft.gif"}" width="5" height="18" border="0" alt="" /></td>
-			<td class="sidebox-title" align="center" width="100%">
-				&nbsp;&nbsp;Events&nbsp;</td>
-			<td>
-				<img src="/skins/lite_blue/customer/images/sidebox_title_rgt.gif"}" width="5" height="18" border="0" alt="" /></td>
-		</tr>
-		</table>
-	</td>
-</tr>
-<tr>
-	<td>
-		<table border="0" cellpadding="5" cellspacing="0" width="100%">
-		<tr>
-			<td class="sidebox-body">
-				<p></p>	
-	<img src="/skins/lite_blue/customer/images/cart_arrow.gif" width="6" height="7" border="0" alt="">&nbsp;&nbsp;<a href="index.php?target=events&amp;mode=search" class="sidebox-link">Search</a><br />
-	<img src="/skins/lite_blue/customer/images/cart_arrow.gif" width="6" height="7" border="0" alt="">&nbsp;&nbsp;<a href="index.php?target=events&amp;mode=add" class="sidebox-link">Add new</a><br />
-	<img src="/skins/lite_blue/customer/images/cart_arrow.gif" width="6" height="7" border="0" alt="">&nbsp;&nbsp;<a href="index.php?target=events&amp;mode=access_key" class="sidebox-link">Private events</a><br />
-<br /></td>
-		</tr>
-		</table>
-	</td>
-</tr>
-</table>-->
-					
-<table cellpadding="0" cellspacing="0" width="100%" border="0">
-<tbody><tr>
-	<td height="18" class="sidebox-title-bg_a">
-		<table cellpadding="0" cellspacing="0" border="0" width="100%">
-		<tbody><tr>
-			<td>
-				<img src="/skins/lite_blue/customer/images/sidebox_title_lft_a.gif" }"="" width="5" height="18" border="0" alt=""></td>
-			<td class="sidebox-title_a" align="center" width="100%">
-				&nbsp;&nbsp;Bestsellers&nbsp;</td>
-			<td>
-				<img src="/skins/lite_blue/customer/images/sidebox_title_rgt_a.gif" }"="" width="5" height="18" border="0" alt=""></td>
-		</tr>
-		</tbody></table>
-	</td>
-</tr>
-<tr>
-	<td>
-		<table border="0" cellpadding="5" cellspacing="0" width="100%">
-		<tbody><tr>
-			<td class="sidebox-body">
-				<p></p><table cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-	<td valign="top">
-		&nbsp;<b>·</b>&nbsp;</td>
-	<td>
-		<a href="index.php?target=products&amp;product_id=29814" class="sidebox-link">ROYAL JELLY (Mega High Potency 1500mg) - Sữa Ong Chúa loại 1500 mg</a></td>
-</tr>
-<tr>
-	<td valign="top">
-		&nbsp;<b>·</b>&nbsp;</td>
-	<td>
-		<a href="index.php?target=products&amp;product_id=30199" class="sidebox-link">EV58 - Kim Tu Dien</a></td>
-</tr>
-<tr>
-	<td valign="top">
-		&nbsp;<b>·</b>&nbsp;</td>
-	<td>
-		<a href="index.php?target=products&amp;product_id=29815" class="sidebox-link">SUPREME ROYAL JELLY - Sữa Ong Chúa loại siêu đẳng </a></td>
-</tr>
-<tr>
-	<td valign="top">
-		&nbsp;<b>·</b>&nbsp;</td>
-	<td>
-		<a href="index.php?target=products&amp;product_id=34280" class="sidebox-link">GD6000V - Kim Tu Dien </a></td>
-</tr>
-<tr>
-	<td valign="top">
-		&nbsp;<b>·</b>&nbsp;</td>
-	<td>
-		<a href="index.php?target=products&amp;product_id=33529" class="sidebox-link">Da Khong Yeu Thi Thoi - The Best Of Minh Tuyet (Karaoke &amp; Music Video)</a></td>
-</tr>
-<tr>
-	<td valign="top">
-		&nbsp;<b>·</b>&nbsp;</td>
-	<td>
-		<a href="index.php?target=products&amp;product_id=37711" class="sidebox-link">Yeu Mot Nguoi Song Ben Mot Nguoi - The Best Of Minh Tuyet Vol. 2 (Music Video+Karaoke)</a></td>
-</tr>
-<tr>
-	<td valign="top">
-		&nbsp;<b>·</b>&nbsp;</td>
-	<td>
-		<a href="index.php?target=products&amp;product_id=36285" class="sidebox-link">Mot Vong Trai Dat (CD+DVD) - Minh Hang</a></td>
-</tr>
-<tr>
-	<td valign="top">
-		&nbsp;<b>·</b>&nbsp;</td>
-	<td>
-		<a href="index.php?target=products&amp;product_id=30163" class="sidebox-link">GD325V - Kim Tu Dien</a></td>
-</tr>
-<tr>
-	<td valign="top">
-		&nbsp;<b>·</b>&nbsp;</td>
-	<td>
-		<a href="index.php?target=products&amp;product_id=30691" class="sidebox-link">PSP Playstation Portable - Silver (Japan Version)</a></td>
-</tr>
-<tr>
-	<td valign="top">
-		&nbsp;<b>·</b>&nbsp;</td>
-	<td>
-		<a href="index.php?target=products&amp;product_id=36403" class="sidebox-link">The Best Of Quang Le 2 - Dap Vo Cay Dan (Music Video+Karaoke)</a></td>
-</tr>
-</tbody></table>
-<br></td>
-		</tr>
-		</tbody></table>
-	</td>
-</tr>
-</tbody></table>		   		
-<table cellpadding="0" cellspacing="0" width="100%" border="0">
-<tbody><tr>
-	<td height="18" class="sidebox-title-bg_a">
-		<table cellpadding="0" cellspacing="0" border="0" width="100%">
-		<tbody><tr>
-			<td>
-				<img src="/skins/lite_blue/customer/images/sidebox_title_lft_a.gif" }"="" width="5" height="18" border="0" alt=""></td>
-			<td class="sidebox-title_a" align="center" width="100%">
-				&nbsp;&nbsp;Site info&nbsp;</td>
-			<td>
-				<img src="/skins/lite_blue/customer/images/sidebox_title_rgt_a.gif" }"="" width="5" height="18" border="0" alt=""></td>
-		</tr>
-		</tbody></table>
-	</td>
-</tr>
-<tr>
-	<td>
-		<table border="0" cellpadding="5" cellspacing="0" width="100%">
-		<tbody><tr>
-			<td class="sidebox-body">
-				<p></p>
-<div><a class="sidebox-link" href="index.php?target=pages&amp;page_id=about">About our company</a></div>
-<div><a class="sidebox-link" href="index.php?target=forms&amp;name=contact_us">Contact us</a></div>
-<div><a class="sidebox-link" href="index.php?target=pages&amp;page_id=privacy_policy">Privacy policy</a></div>
-
-
-<table cellpadding="0" cellspacing="0" width="100%" border="0">
-<tbody><tr>
-	<td width="100%">
-		<a href="index.php?target=topics&amp;topic_id=10" class="sidebox-roottopic">Cầm nang dược</a></td>
-	<td align="right">
-		<a href="index.php?target=topics&amp;topic_id=10"><img src="/skins/lite_blue/customer/images/topic_collapsed.gif" width="8" height="8" border="0" alt=""></a></td>
-</tr>
-</tbody></table>
-
-
-<table cellpadding="0" cellspacing="0" width="100%" border="0">
-<tbody><tr>
-	<td width="100%">
-		<a href="index.php?target=topics&amp;topic_id=9" class="sidebox-roottopic">Links</a></td>
-	<td align="right">
-		<a href="index.php?target=topics&amp;topic_id=9"><img src="/skins/lite_blue/customer/images/topic_collapsed.gif" width="8" height="8" border="0" alt=""></a></td>
-</tr>
-</tbody></table>
-
-
-
-<br></td>
-		</tr>
-		</tbody></table>
-	</td>
-</tr>
-</tbody></table>							                                  
-							<div align="center">
-		<a href="http://www.minhtan.com/index.php?target=products&amp;product_id=41761">		
- <img src="/images/common_images/bols010.jpg" width="167" height="241" alt="bols010.jpg" border="0">		</a>		</div><p></p>
-								<div align="center">
-		<a href="http://www.minhtan.com/index.php?target=products&amp;product_id=41692">		
- <img src="/images/common_images/tnk06212430200714a16fb27c01ae.jpg" width="167" height="234" alt="tnk06212430200714a16fb27c01ae.jpg" border="0">		</a>		</div><p></p>
-								<div align="center">
-		<a href="http://www.minhtan.com/index.php?target=products&amp;product_id=41737">		
- <img src="/images/common_images/dtls02.jpg" width="167" height="239" alt="dtls02.jpg" border="0">		</a>		</div><p></p>
-								<div align="center">
-		<a href="http://www.minhtan.com/index.php?target=products&amp;product_id=41515">		
- <img src="/images/common_images/als061.jpg" width="167" height="237" alt="als061.jpg" border="0">		</a>		</div><p></p>
-																		<img src="/skins/lite_blue/customer/images/spacer.gif" width="180" height="1" border="0" alt=""><br></td>
-	
-	<td class="main-line">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-
-   	<td valign="top" width="100%">
-					                                  
-																	
-   		
-<div id="central_part_contents">
-
-<div id="dialog_bg" style="position: absolute; display: none;">
-<table id="dialog_msg" style="position: absolute; height: 100%;" align="center">
-<tbody><tr>
-	<td align="center">
-		<div style="width: 200px; height: 50px; border: solid 1px #cccccc; background-color: #ffffff;">
-		<table cellpadding="0" cellspacing="0" border="0" style="height: 100%;">
-		<tbody><tr>
-			<td><img src="/skins/lite_blue/customer/images/snake_transparent.gif" alt="Loading..." style="vertical-align: middle;"></td>
-			<td nowrap="nowrap" style="font-size:18px;">&nbsp;&nbsp;<b>Loading...</b></td>
-		</tr>
-		</tbody></table>
-		</div>
-	</td>
-</tr>
-</tbody></table>
+</form>		</div>
+	</div>
 </div>
-<div onclick="this.style.display = 'none';" id="ajax_message" align="center" class="ajax-message" style="position: absolute; left: 50%; top: 50%; height: 30px; width: 300px; display: none;"></div>
 
-<table cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-	<td class="breadcrumbs"><a href="index.php" class="breadcrumbs-link">Home</a>&nbsp;&nbsp;<img src="/skins/lite_blue/customer/images/breadcrumbs_arrow.gif" width="8" height="14" border="0" alt="" align="top">&nbsp;&nbsp;Privacy policy&nbsp;&nbsp;</td>
-</tr>
-</tbody></table>
-<p></p>
+<div class="content-tools">
+	<span class="float-left">&nbsp;</span>
+	<span class="float-right">&nbsp;</span>
+	<div class="content-tools-helper clear">
+		
+<div id="cart_status">
+<!--dynamic:cart_status-->
+<div class="float-left">
+			<img id="sw_cart_box" class="cm-combination cm-combo-on valign hand" src="/skins/default_blue/customer/images/icons/empty_cart_icon.gif" alt="Cart is empty" title="Cart is empty"><strong>&nbsp;&nbsp;&nbsp;Cart is empty</strong>
+		
+	<div id="cart_box" class="cart-list hidden cm-popup-box cm-smart-position">
+		<img src="/skins/default_blue/customer/images/icons/empty_cart_list_icon.gif" alt="Cart" class="cm-popup-switch hand cart-list-icon">
+		<div class="list-container">
+			<div class="list">
+							<p class="center">Cart is empty</p>
+						</div>
+			<div class="buttons-container">
+				<a href="index.php?dispatch=checkout.cart" class="view-cart">View cart</a>
+				<a href="index.php?dispatch=checkout.customer_info">Checkout</a>
+			</div>
+		</div>
+	</div>
+</div><!--/dynamic-->
+
+<div class="checkout-link">
+
+<a href="index.php?dispatch=checkout.customer_info">Checkout</a>
+
+</div>
+<!--cart_status--></div>		<div class="float-right">
+			
+						
+					</div>
+	</div>
+</div></div>
+		
+	<div id="content">
+		<div class="content-helper clear">
+						
+			<div class="central-column">
+				<div class="central-content">
+						<div class="breadcrumbs">
+		<a href="index.php">Home</a><img src="/skins/default_blue/customer/images/icons/breadcrumbs_arrow.gif" class="bc-arrow" border="0" alt=">">Privacy policy
+	</div>
+					<div class="sidebox-categories-wrapper ">
+	<h3 class="sidebox-title"><span>Privacy policy</span></h3>
+	<div class="sidebox-body">
+<p>CS-Cart is committed to protecting your privacy.<br>This privacy statement discloses what information we gather about you when you visit the CS-Cart.com Site and describes how we use that information. Our policy is to keep the personal information we receive from our Site completely confidential and used solely for internal purposes. We will not share your personal information with any other parties.<br><br></p><p><strong>Collection of your Personal Information:</strong></p><p>The personal information we collect may include your name, title, company or organization name, e-mail, phone. We may collect certain information about your visit, such as type of browser you use; the date and time you access the Site; the pages that you access while at the Site and the Internet address of the Web site from which you linked directly to our Site. This information is used to help improve the Site and administer the Site. <br><br></p><p><strong>Use of your Personal Information:</strong></p><p>The personal information collected on this Site will be used to provide the services you have requested.<br>We may use your personal information to provide you with important information about the product or service that you are using, including critical updates and notifications. Additionally, we may send you information about other CS-Cart products and services.<br><br></p><p><strong>Questions:</strong></p><p>If you have any questions about this Privacy Statement or concerns about the way we process your Personal Data, please contact us using the <a href="index.php?target=forms&amp;name=contact_us">Contact Us</a> form. <br><br>We may occasionally modify this privacy statement. All such changes will be reflected on this web page. </p>
 
 
-<div id="notification_contents">
-<!--notification_contents--></div>	  
 
 
-	<table cellpadding="0" cellspacing="0" border="0" width="100%">
-<tbody><tr>
-	<td style="background-image: url('/skins/lite_blue/customer/images/mainbox_title_bg.gif');" class="mainbox-title" width="100%">&nbsp;Privacy policy</td>
-</tr>
-<tr>
-	<td>
-		<table cellpadding="10" cellspacing="0" border="0" width="100%">
-		<tbody><tr>
-			<td class="mainbox-body"><p>
-</p><p>CS-Cart is committed to protecting your privacy.<br>This privacy statement discloses what information we gather about you when you visit the CS-Cart.com Site and describes how we use that information. Our policy is to keep the personal information we receive from our Site completely confidential and used solely for internal purposes. We will not share your personal information with any other parties.<br><br></p><p><strong>Collection of your Personal Information:</strong></p><p>The personal information we collect may include your name, title, company or organization name, e-mail, phone. We may collect certain information about your visit, such as type of browser you use; the date and time you access the Site; the pages that you access while at the Site and the Internet address of the Web site from which you linked directly to our Site. This information is used to help improve the Site and administer the Site. <br><br></p><p><strong>Use of your Personal Information:</strong></p><p>The personal information collected on this Site will be used to provide the services you have requested.<br>We may use your personal information to provide you with important information about the product or service that you are using, including critical updates and notifications. Additionally, we may send you information about other CS-Cart products and services.<br><br></p><p><strong>Questions:</strong></p><p>If you have any questions about this Privacy Statement or concerns about the way we process your Personal Data, please contact us using the <a href="index.php?target=forms&amp;name=contact_us">Contact Us</a> form. <br><br>We may occasionally modify this privacy statement. All such changes will be reflected on this web page. </p>
-</td>
-		</tr>
-		</tbody></table>
-	</td>
-</tr>
-</tbody></table>
-<br>
 
 
 <div id="content_discussion">
@@ -961,461 +248,197 @@ var text_required_group_product = 'Please select a product for the required grou
 
 </div>
 </div>
-					                                  
-																	</td>
-
-	<td class="main-line">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-
-	   	<td valign="top" align="right">
-   						<table border="0" bordercolor="#C0C0C0" cellspacing="0" cellpadding="0">
-   			<tbody><tr><td style="border: 1px solid #C0C0C0;">
-				<object classid="clsid:D27CDB6E-AE6D-11CF-96B8-444553540000" id="nhathuoc" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" border="0" width="170" height="100">
-					<param name="movie" value="/skins/lite_blue/customer/images/nhathuoc.swf">
-					<param name="quality" value="High">
-					<embed src="/skins/lite_blue/customer/images/nhathuoc.swf" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" name="nhathuoc" width="170" height="100"></object>
-				</td>
-   			</tr>
-   			<tr><td>&nbsp;</td></tr>
-   		</tbody></table>
-							                                  
-											<div align="center">
-		<a href="./index.php?target=pages&amp;page_id=FREESHIPPING">		
- <img src="/images/common_images/freeshipping.gif" width="170" height="50" alt="freeshipping.gif" border="0">		</a>		</div><p></p>
-													
-		<br>		
-<div id="cart_status">
-
-<table cellpadding="0" cellspacing="0" width="100%" border="0">
-<tbody><tr>
-	<td height="18" class="sidebox-title-bg_a">
-		<table cellpadding="0" cellspacing="0" border="0" width="100%">
-		<tbody><tr>
-			<td>
-				<img src="/skins/lite_blue/customer/images/sidebox_title_lft_a.gif" }"="" width="5" height="18" border="0" alt=""></td>
-			<td class="sidebox-title_a" align="center" width="100%">
-				&nbsp;&nbsp;Cart&nbsp;</td>
-			<td>
-				<img src="/skins/lite_blue/customer/images/sidebox_title_rgt_a.gif" }"="" width="5" height="18" border="0" alt=""></td>
-		</tr>
-		</tbody></table>
-	</td>
-</tr>
-<tr>
-	<td>
-		<table border="0" cellpadding="0" cellspacing="0" width="100%">
-		<tbody><tr>
-			<td class="sidebox-rt-left">
-				<img src="/skins/lite_blue/customer/images/sidebox_rt_left.gif" width="5" height="3" border="0" alt=""></td>
-			<td class="sidebox-rt-body" width="100%">
-				<p></p>
-				<table cellspacing="0" cellpadding="0" border="0" align="center">
-<tbody><tr>
-	<td height="26" valign="middle">
-		<a href="index.php?target=cart">
-				<img src="/skins/lite_blue/customer/images/empty_cart_icon.gif" width="17" height="14" border="0" alt="">
-				</a></td>
-	<td>&nbsp;&nbsp;</td>
-	<td>
-					<b>Cart is empty</b>
-		</td>
-</tr>
-</tbody></table>
-<hr>
-<table cellpadding="0" cellspacing="0" width="95%" align="center" border="0">
-<tbody><tr>
-	<td valign="top" width="50%">
-		<b>·</b>&nbsp;<a href="index.php?target=cart" class="sidebox-link">View cart</a></td>
-	<td valign="top" width="50%">
-		<b>·</b>&nbsp;<a href="index.php?target=checkout&amp;mode=customer_info" class="sidebox-link">Checkout</a></td>
-</tr>
-<tr>
-	<td valign="top">
-		<b>·</b>&nbsp;<a href="index.php?target=orders" class="sidebox-link">Orders</a></td>
-	<td valign="top">
-				<b>·</b>&nbsp;<a href="index.php?target=wishlist" class="sidebox-link">Wish List</a>
-		</td>
-</tr>
-</tbody></table>
-
-				<p></p>
-			</td>
-			<td class="sidebox-rt-right">
-				<img src="/skins/lite_blue/customer/images/sidebox_rt_right.gif" width="5" height="3" border="0" alt=""></td>
-		</tr>
-		<tr>
-			<td>
-				<img src="/skins/lite_blue/customer/images/sidebox_rt_bot_lt.gif" width="5" height="5" border="0" alt=""></td>
-			<td class="sidebox-rt-bottom">
-				<img src="/skins/lite_blue/customer/images/sidebox_rt_bot_bg.gif" width="3" height="5" border="0" alt=""></td>
-			<td>
-				<img src="/skins/lite_blue/customer/images/sidebox_rt_bot_rt.gif" width="5" height="5" border="0" alt=""></td>
-		</tr>
-		</tbody></table>
-	</td>
-</tr>
-</tbody></table>
-<br><!--cart_status--></div>					
-<div id="wish_list"><!--wish_list--></div>
+	<div class="sidebox-bottom"><span>&nbsp;</span></div>
+</div>				</div>
+			</div>
 		
-   		
-<div id="comparison_list">
-<!--comparison_list--></div>
-
-   		   			
-<table cellpadding="0" cellspacing="0" width="100%" border="0">
-<tbody><tr>
-	<td height="18" class="sidebox-title-bg_a">
-		<table cellpadding="0" cellspacing="0" border="0" width="100%">
-		<tbody><tr>
-			<td>
-				<img src="/skins/lite_blue/customer/images/sidebox_title_lft_a.gif" }"="" width="5" height="18" border="0" alt=""></td>
-			<td class="sidebox-title_a" align="center" width="100%">
-				&nbsp;&nbsp;Authentication&nbsp;</td>
-			<td>
-				<img src="/skins/lite_blue/customer/images/sidebox_title_rgt_a.gif" }"="" width="5" height="18" border="0" alt=""></td>
-		</tr>
-		</tbody></table>
-	</td>
-</tr>
-<tr>
-	<td>
-		<table border="0" cellpadding="0" cellspacing="0" width="100%">
-		<tbody><tr>
-			<td class="sidebox-rt-left">
-				<img src="/skins/lite_blue/customer/images/sidebox_rt_left.gif" width="5" height="3" border="0" alt=""></td>
-			<td class="sidebox-rt-body" width="100%">
-				<p></p>
+						<div class="left-column">
 				
-<form action="index.php" method="post" name="login_form" id="login_form2">
-<input type="hidden" name="target" value="auth">
-<input type="hidden" name="mode" value="login">
-<input type="hidden" name="csid" value="0f21b0b0eb803a2e145a564be227e714">
-<input type="hidden" name="redirect_url" value="index.php?target=pages&amp;page_id=privacy_policy">
-
-<table cellpadding="0" cellspacing="0" border="0" width="100%">
-<tbody><tr>
-	<td><p></p>
-		<table cellpadding="2" cellspacing="0" border="0" width="100%">
-		<tbody><tr>
-			<td width="50%" align="center">
-																																					 <table cellpadding="0" cellspacing="0" border="0" onclick="javascript: self.location='https://www.minhtan.com/index.php?target=auth&amp;mode=login_form'" class="hand" onmouseover="window.status='Log in'; return true;" onmouseout="window.status=''">
-<tbody><tr>
-	<td>
-		<input type="image" src="/skins/lite_blue/customer/images/but_sb_left.gif" style="width: 5px; height: 18px; border: 0px; padding-left: 0px;" alt=""></td>
-	<td style="background-image: url('/skins/lite_blue/customer/images/but_sb_bg.gif');" class="button-sb" align="center" nowrap="">
-		&nbsp;Log in&nbsp;</td>
-		<td style="background-image: url('/skins/lite_blue/customer/images/but_sb_bg.gif');" class="button-sb">
-		<img src="/skins/lite_blue/customer/images/action_but_arrow.gif" width="9" height="7" border="0" alt=""></td>
-		<td>
-		<img src="/skins/lite_blue/customer/images/but_sb_right.gif" width="5" height="18" border="0" alt=""></td>
-</tr>
-</tbody></table>
+			 <!-- (c) 2006. Authorize.Net is a registered trademark of Lightbridge, Inc. --> <div class="AuthorizeNetSeal"> <script type="text/javascript" language="javascript">var ANS_customer_id="aae752ca-0073-44a7-9592-902db005fb71";</script> <script type="text/javascript" language="javascript" src="//VERIFY.AUTHORIZE.NET/anetseal/seal.js"></script></div>
+			<div class="ad-container center">
+				<img class=" " src="/images/banner/CC_Logo_2[1].gif" width="167" height="21" alt="CC Logo 2.gif" border="0">			</div>
+	
+<div class="sidebox-categories-wrapper ">
+	<h3 class="sidebox-title"><span>Categories</span></h3>
+	<div class="sidebox-body">
+<div class="clear">
+	<ul id="vmenu" class="dropdown dropdown-vertical">
+		<li class="dir"><ul><li><a href="index.php?dispatch=categories.view&amp;category_id=468">$12 DVD Karaoke Vol.1-56</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=469">$10 DVD Paris By Night Vol.64-82</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=470">$12 DVD Paris By Night Vol.83-91</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=471">$3.99 CD Vol.1-299</a></li></ul><a href="index.php?dispatch=categories.view&amp;category_id=467">Thuy Nga Special Sale</a></li><li class="h-sep">&nbsp;</li><li class="dir"><ul><li><a href="index.php?dispatch=categories.view&amp;category_id=462">$9.99 Karaoke Vol.1-40</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=463">$7.99 Asia Live Show Vol.1-47</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=465">$3.99 Asia CD Sale</a></li></ul><a href="index.php?dispatch=categories.view&amp;category_id=461">ASIA Super Sale</a></li><li class="h-sep">&nbsp;</li><li class="dir"><ul><li><a href="index.php?dispatch=categories.view&amp;category_id=475">$10 Hai Collections DVD</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=476">$10 Live Show Vol.1-37</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=477">$6.95 CD</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=489">$12.99 Karaoke Vol.1-29</a></li></ul><a href="index.php?dispatch=categories.view&amp;category_id=474">Van Son Overstocked Sale</a></li><li class="h-sep">&nbsp;</li><li class="dir"><ul><li class="dir"><ul><li><a href="index.php?dispatch=categories.view&amp;category_id=274">Asia Entertainment, Inc.</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=264">Audio Book - Truyen Doc</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=322">Eagle Productions</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=337">Ca Dao Production</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=324">Gia Huy Music</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=270">Import from Vietnam</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=335">Khanh Ha Productions</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=301">Miscellaneous</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=331">Phuong Hoang Productions</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=258">Thuy Nga</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=311">Tinh Productions</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=261">Van Son Entertainment</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=329">CD Sale ($1.95 - $2.50)</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=446">Cai Luong / Tan Co</a></li></ul><a href="index.php?dispatch=categories.view&amp;category_id=196">Vietnamese</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=267">Chinese / HK / Taiwanese</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=284">English / International</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=285">Korean</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=310">Instrumental / Hoa Tau</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=316">China Version</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=317">Japanese</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=437">Children</a></li></ul><a href="index.php?dispatch=categories.view&amp;category_id=185">CDs</a></li><li class="h-sep">&nbsp;</li><li class="dir"><ul><li class="dir"><ul><li><a href="index.php?dispatch=categories.view&amp;category_id=280">Asia Live Shows</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=313">Blue Ocean Music</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=442">Hoa Bien - Phuong Nam Music</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=273">Import from Vietnam</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=294">MFC Media</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=292">Rainbow Entertainment</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=275">Thuy Nga / Paris By Night</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=309">Tinh Productions</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=293">Van Son Entertainment</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=319">Miscellaneous Productions</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=339">Xuan Mai / The He Tre</a></li></ul><a href="index.php?dispatch=categories.view&amp;category_id=272">Vietnamese</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=269">Chinese / HK / Taiwanese</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=326">Japanese</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=334">English</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=336">Korean</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=443">Blu-ray</a></li></ul><a href="index.php?dispatch=categories.view&amp;category_id=268">Live Shows/Music Videos</a></li><li class="h-sep">&nbsp;</li><li class="dir"><ul><li><a href="index.php?dispatch=categories.view&amp;category_id=220">Vietnamese</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=215">Chinese / HK / Taiwanese</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=216">Japanese</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=218">Thailand</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=217">Korean</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=283">Blu-ray</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=296">English / Foreign</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=299">Shaw Brothers / Kung Fu Collection</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=308">Box Sets</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=315">China Version</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=338">Adult</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=428">Children</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=458">On Sale</a></li></ul><a href="index.php?dispatch=categories.view&amp;category_id=187">Movies</a></li><li class="h-sep">&nbsp;</li><li class="dir"><ul><li><a href="index.php?dispatch=categories.view&amp;category_id=236">Vietnamese</a></li><li class="h-sep">&nbsp;</li><li class="dir"><ul><li><a href="index.php?dispatch=categories.view&amp;category_id=498">Hàn Quốc</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=499">Hồng Kông/Ðài Loan/Trung Quốc</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=497">Thái Lan</a></li></ul><a href="index.php?dispatch=categories.view&amp;category_id=464">Phim Lồng Tiếng Tại Hoa Kỳ</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=234">Korean</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=233">Japanese</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=263">Taiwanese</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=262">Chinese / Hong Kong</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=466">English</a></li></ul><a href="index.php?dispatch=categories.view&amp;category_id=189">Drama Series / Phim Bộ</a></li><li class="h-sep">&nbsp;</li><li class="dir"><ul><li class="dir"><ul><li><a href="index.php?dispatch=categories.view&amp;category_id=221">Asia Entertainment, Inc.</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=423">Ca Dao Productions</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=413">Diem Xua Productions</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=327">Eagle Productions</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=271">Import from Vietnam</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=328">Lang Van Productions</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=277">Phuong Hoang</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=295">Song Dem Productions</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=227">Thuy Nga</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=265">Tinh Productions</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=259">U-Sing-Along</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=276">Van Son Entertainment</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=260">Youth Entertainment</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=340">Xuan Mai / The He Tre</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=425">Miscellaneous</a></li></ul><a href="index.php?dispatch=categories.view&amp;category_id=266">Vietnamese</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=287">English</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=318">Chinese (Mandarin/Cantonese)</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=448">English VCD</a></li></ul><a href="index.php?dispatch=categories.view&amp;category_id=188">Karaoke</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=190">Animation</a></li><li class="h-sep">&nbsp;</li><li class="dir"><ul><li class="dir"><ul><li><a href="index.php?dispatch=categories.view&amp;category_id=305">Asia Entertainment</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=306">Thuy Nga / Paris By Night</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=304">Van Son Entertainment</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=436">Miscellaneous Productions</a></li></ul><a href="index.php?dispatch=categories.view&amp;category_id=303">Cai Luong</a></li><li class="h-sep">&nbsp;</li><li class="dir"><ul><li><a href="index.php?dispatch=categories.view&amp;category_id=302">Asia Entertainment</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=314">Blue Ocean Music</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=321">Gia Dinh</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=298">Thuy Nga / Paris By Night</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=297">Van Son Entertainment</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=332">Miscellaneous Productions</a></li></ul><a href="index.php?dispatch=categories.view&amp;category_id=200">Comedy / Hai</a></li><li class="h-sep">&nbsp;</li><li class="dir"><ul><li><a href="index.php?dispatch=categories.view&amp;category_id=312">Vietnamese</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=325">Chinese / Japanese</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=330">English</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=452">Blu-ray Documentary / Scenery</a></li></ul><a href="index.php?dispatch=categories.view&amp;category_id=203">Documentary / Scenery / Phong Su</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=208">How To Cook</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=440">Fitness / Sports</a></li></ul><a href="index.php?dispatch=categories.view&amp;category_id=186">DVDs</a></li><li class="h-sep">&nbsp;</li><li class="dir"><ul><li><a href="index.php?dispatch=categories.view&amp;category_id=377">Du Lịch / Travel</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=445">English</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=451">Giả Trí / Leisure</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=378">Hồi Ký / Nonfiction</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=457">Kiếm Hiệp</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=456">Kinh Tế</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=426">Ký Sự / Chronicle</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=373">Lịch Sử / History (Chính Trị / Politics)</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=374">Nấu Ân / Cooking</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=459">Nghề Nghiệp</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=438">Nghệ Thuật / Arts</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=444">Người Lớn / Adult</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=380">Nhật Ký / Diary-Journal (Bút Ký / Notes)</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=450">Phóng Sự</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=460">Thể Dục / Thể Thao (Fitness)</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=372">Tiểu Sử / Biographies (Tự Truyện / Autobiographies)</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=416">Tiểu Thuyết / Fiction</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=382">Thơ (Vân Thơ) / Poetry</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=381">Tôn Giáo (Ðạo) / Religion (Spirituality)</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=415">Trẻ Em / Children</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=439">Truyện Cười / Comedy</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=376">Truyện Dài (Tập Truyện) / Novels (Short Stories)</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=449">Truyện Kinh Dị</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=370">Tự Ðiển / Dictionary</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=375">Tự Học / Self-Help (Tự Lục / How To)</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=371">Tử Vi / Horoscope (Bói Toán / Fortune-Telling)</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=441">Tuyển Tập</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=369">Tuyển Tập Nhạc / Music Book</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=379">Vân Học / Literature</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=412">Y Tế / Health (Y Học / Medicine)</a></li></ul><a href="index.php?dispatch=categories.view&amp;category_id=323">Sách / Books</a></li><li class="h-sep">&nbsp;</li><li class="dir"><ul><li class="dir"><ul><li><a href="index.php?dispatch=categories.view&amp;category_id=528">Angry Little Girls (ALG)</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=506">Badtz-Maru</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=534">Buta : Coron</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=533">Charmmy Kitty</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=519">Chi Chai Monchan</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=547">Chibimaru</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=520">Chococat</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=515">Cinnamoroll</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=507">Hello Kitty</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=510">Hoshikuma</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=540">Keroppi</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=548">Kuromi</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=541">Little Twin Stars</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=525">My Melody</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=513">Pandapple</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=546">Pinki Lili</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=508">Pochacco</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=509">Rescue Team</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=535">Sugarminuet</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=551">Tenorikuma</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=554">Baby CoCo</a></li></ul><a href="index.php?dispatch=categories.view&amp;category_id=503">Characters</a></li><li class="h-sep">&nbsp;</li><li class="dir"><ul><li><a href="index.php?dispatch=categories.view&amp;category_id=505">Backpacks</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=514">Messenger Bags</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=516">Tote Bags</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=517">Shoulder Bags</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=518">Handbags</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=524">Fashion Cases</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=542">Wallets &amp; Purses</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=550">Cosmetic Cases</a></li></ul><a href="index.php?dispatch=categories.view&amp;category_id=504">Bags</a></li><li class="h-sep">&nbsp;</li><li class="dir"><ul><li><a href="index.php?dispatch=categories.view&amp;category_id=512">Lunch Bags - Box</a></li><li class="h-sep">&nbsp;</li><li class="dir"><ul><li><a href="index.php?dispatch=categories.view&amp;category_id=532">Books &amp; Journals</a></li></ul><a href="index.php?dispatch=categories.view&amp;category_id=527">Stationery</a></li><li class="h-sep">&nbsp;</li><li class="dir"><ul><li><a href="index.php?dispatch=categories.view&amp;category_id=530">Markers</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=531">Cases</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=538">Crayons</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=539">Pencils</a></li></ul><a href="index.php?dispatch=categories.view&amp;category_id=529">Pens, Pencils &amp; Markers</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=536">Desktop Accessories</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=549">Planners &amp; Organizers</a></li></ul><a href="index.php?dispatch=categories.view&amp;category_id=511">School &amp; Office</a></li><li class="h-sep">&nbsp;</li><li class="dir"><ul><li><a href="index.php?dispatch=categories.view&amp;category_id=522">Bathroom</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=523">Decor</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=537">Music &amp; Electronics</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=559">Bedroom</a></li></ul><a href="index.php?dispatch=categories.view&amp;category_id=521">Home</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=526">Plush</a></li><li class="h-sep">&nbsp;</li><li class="dir"><ul><li><a href="index.php?dispatch=categories.view&amp;category_id=544">Travel Pack</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=560">Luggages &amp; Travel Bags</a></li></ul><a href="index.php?dispatch=categories.view&amp;category_id=543">Travel</a></li><li class="h-sep">&nbsp;</li><li class="dir"><ul><li><a href="index.php?dispatch=categories.view&amp;category_id=553">Keyrings &amp; Charms</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=562">Jewelry Box / Trinket Case</a></li></ul><a href="index.php?dispatch=categories.view&amp;category_id=552">Jewelry</a></li><li class="h-sep">&nbsp;</li><li class="dir"><ul><li><a href="index.php?dispatch=categories.view&amp;category_id=556">Beauty Accessories</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=557">Hair Accessories</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=561">Bath Accessories</a></li></ul><a href="index.php?dispatch=categories.view&amp;category_id=555">Beauty &amp; Body</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=563">Toys</a></li></ul><a href="index.php?dispatch=categories.view&amp;category_id=502">Sanrio</a></li><li class="h-sep">&nbsp;</li><li class="dir"><ul><li><a href="index.php?dispatch=categories.view&amp;category_id=243">Dictionary</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=472">DVD Players (All Region / All Zone)</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=245">Microphones</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=246">Karaoke Mixers / Equalizers</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=278">Karaoke Amplifiers / Receivers</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=333">Digital Camera</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=348">Karaoke Machines / DVD Players</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=427">Speakers</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=433">Accessories</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=473">Subwoofers</a></li><li class="h-sep">&nbsp;</li><li class="dir"><ul><li><a href="index.php?dispatch=categories.view&amp;category_id=501">Better Music Builder (BMB) Packages</a></li></ul><a href="index.php?dispatch=categories.view&amp;category_id=500">Karaoke System Packages</a></li></ul><a href="index.php?dispatch=categories.view&amp;category_id=192">Electronics</a></li><li class="h-sep">&nbsp;</li><li class="dir"><ul><li class="dir"><ul><li><a href="index.php?dispatch=categories.view&amp;category_id=288">Games</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=289">Consoles</a></li></ul><a href="index.php?dispatch=categories.view&amp;category_id=240">DS Games</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=241">P3 Games</a></li><li class="h-sep">&nbsp;</li><li class="dir"><ul><li><a href="index.php?dispatch=categories.view&amp;category_id=291">Consoles</a></li></ul><a href="index.php?dispatch=categories.view&amp;category_id=242">PSP Games</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=290">Consoles</a></li></ul><a href="index.php?dispatch=categories.view&amp;category_id=191">Games</a></li><li class="h-sep">&nbsp;</li><li class="dir"><ul><li><a href="index.php?dispatch=categories.view&amp;category_id=342">Skin Care</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=345">Special Treatments</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=346">Body Care</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=347">Hair Care</a></li><li class="h-sep">&nbsp;</li><li class="dir"><ul><li><a href="index.php?dispatch=categories.view&amp;category_id=417">Face</a></li></ul><a href="index.php?dispatch=categories.view&amp;category_id=350">Make-Up</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=407">Men</a></li><li class="h-sep">&nbsp;</li><li class="dir"><ul><li class="dir"><ul><li><a href="index.php?dispatch=categories.view&amp;category_id=392">EXTRA Skincare Line</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=393">505 Skincare Line</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=394">105 Skincare Line</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=395">99 Skincare Line</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=396">Noevir Herbal Skincare (NHS) Line</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=397">Clear Control Skincare Line</a></li></ul><a href="index.php?dispatch=categories.view&amp;category_id=391">Skincare</a></li><li class="h-sep">&nbsp;</li><li class="dir"><ul><li><a href="index.php?dispatch=categories.view&amp;category_id=399">Deep Cleanse / Exfoliate</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=400">Prevent / Correct</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=401">Hydrate</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=402">Lift</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=403">BlancNew Reset-W</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=404">Transform</a></li></ul><a href="index.php?dispatch=categories.view&amp;category_id=398">Special Treatments</a></li><li class="h-sep">&nbsp;</li><li class="dir"><ul><li><a href="index.php?dispatch=categories.view&amp;category_id=406">Body &amp; Sun Care Collection</a></li></ul><a href="index.php?dispatch=categories.view&amp;category_id=405">Body Care</a></li><li class="h-sep">&nbsp;</li><li class="dir"><ul><li><a href="index.php?dispatch=categories.view&amp;category_id=409">808 Skincare Line</a></li></ul><a href="index.php?dispatch=categories.view&amp;category_id=408">Men's Products</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=410">Hair Care</a></li></ul><a href="index.php?dispatch=categories.view&amp;category_id=344">Noevir</a></li><li class="h-sep">&nbsp;</li><li class="dir"><ul><li class="dir"><ul><li><a href="index.php?dispatch=categories.view&amp;category_id=362">Polissima</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=363">Whitissimo</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=365">Alvita</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=366">Day+Day Vitax</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=367">Botanex</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=368">Plenna</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=414">un-ef</a></li></ul><a href="index.php?dispatch=categories.view&amp;category_id=361">Pola Skincare</a></li></ul><a href="index.php?dispatch=categories.view&amp;category_id=352">Pola Cosmetics</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=351">Feiya (Tokyo) Intl.</a></li></ul><a href="index.php?dispatch=categories.view&amp;category_id=341">Cosmetics</a></li><li class="h-sep">&nbsp;</li><li class="dir"><ul><li><a href="index.php?dispatch=categories.view&amp;category_id=349">Diet Supplements</a></li><li class="h-sep">&nbsp;</li><li class="dir"><ul><li><a href="index.php?dispatch=categories.view&amp;category_id=430">Bac Si Thomas Trong Vo</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=431">Nutrition Depot</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=432">ReNew Life Formulas</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=434">Life Balance, LLC</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=479">Vitalife</a></li></ul><a href="index.php?dispatch=categories.view&amp;category_id=364">Dietary Supplements</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=424">For Men</a></li><li class="h-sep">&nbsp;</li><li><a href="index.php?dispatch=categories.view&amp;category_id=478">External Medication</a></li></ul><a href="index.php?dispatch=categories.view&amp;category_id=282">Health Supplements</a></li>	</ul>
+</div></div>
+	<div class="sidebox-bottom"><span>&nbsp;</span></div>
+</div>
 
 
-							</td>
-			<td width="50%" align="center">
-																																					 <table cellpadding="0" cellspacing="0" border="0" onclick="javascript: self.location='https://www.minhtan.com/index.php?target=profiles&amp;mode=add'" class="hand" onmouseover="window.status='Register'; return true;" onmouseout="window.status=''">
-<tbody><tr>
-	<td>
-		<img src="/skins/lite_blue/customer/images/but_sb_left.gif" style="width: 5px; height: 18px; border: 0px; " alt=""></td>
-	<td style="background-image: url('/skins/lite_blue/customer/images/but_sb_bg.gif');" class="button-sb" align="center" nowrap="">
-		&nbsp;Register&nbsp;</td>
-		<td style="background-image: url('/skins/lite_blue/customer/images/but_sb_bg.gif');" class="button-sb">
-		<img src="/skins/lite_blue/customer/images/action_but_arrow.gif" width="9" height="7" border="0" alt=""></td>
-		<td>
-		<img src="/skins/lite_blue/customer/images/but_sb_right.gif" width="5" height="18" border="0" alt=""></td>
-</tr>
-</tbody></table>
+		<div class="ad-container center">
+		<a href="index.php?dispatch=statistics.banners&amp;banner_id=32&amp;redirect_url=http%3A%2F%2Fwww.minhtan.com%2Findex.php%3Fdispatch%3Dproducts.view%26product_id%3D44421">		<img class=" " src="/images/banner/tncl013s.jpg" width="167" height="240" alt="" border="0">		</a>	</div>
+			<div class="ad-container center">
+		<a href="index.php?dispatch=statistics.banners&amp;banner_id=22&amp;redirect_url=http%3A%2F%2Fwww.minhtan.com%2Findex.php%3Fdispatch%3Dproducts.view%26product_id%3D44372">		<img class=" " src="/images/banner/ak049s.jpg" width="167" height="237" alt="" border="0">		</a>	</div>
+			<div class="ad-container center">
+		<a href="index.php?dispatch=statistics.banners&amp;banner_id=23&amp;redirect_url=http%3A%2F%2Fwww.minhtan.com%2Findex.php%3Fdispatch%3Dproducts.view%26product_id%3D44365">		<img class=" " src="/images/banner/lvls026s.jpg" width="167" height="236" alt="" border="0">		</a>	</div>
+			<div class="ad-container center">
+		<a href="index.php?dispatch=statistics.banners&amp;banner_id=21&amp;redirect_url=http%3A%2F%2Fwww.minhtan.com%2Findex.php%3Fdispatch%3Dproducts.view%26product_id%3D44303">		<img class=" " src="/images/banner/gdps0124s.jpg" width="167" height="236" alt="" border="0">		</a>	</div>
+			<div class="ad-container center">
+		<a href="index.php?dispatch=statistics.banners&amp;banner_id=45&amp;redirect_url=http%3A%2F%2Fwww.minhtan.com%2Findex.php%3Fdispatch%3Dproducts.view%26product_id%3D44457">		<img class=" " src="/images/banner/tvnt10.jpg" width="167" height="264" alt="" border="0">		</a>	</div>
+			<div class="ad-container center">
+		<a href="index.php?dispatch=statistics.banners&amp;banner_id=38&amp;redirect_url=http%3A%2F%2Fwww.minhtan.com%2Findex.php%3Fdispatch%3Dproducts.view%26product_id%3D43882">		<img class=" " src="/images/banner/tvta10.jpg" width="167" height="258" alt="" border="0">		</a>	</div>
+			<div class="ad-container center">
+		<a href="index.php?dispatch=statistics.banners&amp;banner_id=27&amp;redirect_url=http%3A%2F%2Fwww.minhtan.com%2Findex.php%3Fdispatch%3Dproducts.view%26product_id%3D44093">		<img class=" " src="/images/banner/tvhl10s.jpg" width="167" height="256" alt="" border="0">		</a>	</div>
+	
 
+			</div>
+						
+						<div class="right-column">
+				
+		<div class="ad-container center">
+		<a href="index.php?dispatch=statistics.banners&amp;banner_id=5&amp;redirect_url=index.php%3Fdispatch%3Dpages.view%26page_id%3D16">		<img class=" " src="/images/banner/freeshipping.gif" width="170" height="50" alt="freeshipping.gif" border="0">		</a>	</div>
+	
+<div class="sidebox-categories-wrapper ">
+	<h3 class="sidebox-title"><span>My account</span></h3>
+	<div class="sidebox-body">
+<!--dynamic:my_account-->
 
-							</td>
-		</tr>
-		</tbody></table>
-		<p></p><div align="right" class="small-link"><a href="index.php?target=auth&amp;mode=recover_password" class="underlined">Forgot password?</a></div></td>
-</tr>
-</tbody></table>
+<ul class="arrows-list">
+			<li><a href="index.php?dispatch=auth.login_form&amp;return_url=index.php%3Fdispatch%3Dpages.view%26page_id%3D12" class="underlined">Sign in</a> / <a href="index.php?dispatch=profiles.add" class="underlined">Register</a></li>
+		<li><a href="index.php?dispatch=orders.search" class="underlined">Orders</a></li>
+<li><a href="index.php?dispatch=tags.summary" class="underlined">My tags</a></li><li><a href="index.php?dispatch=wishlist.view" class="underlined">Wish List</a></li>
+</ul>
+
+<div class="updates-wrapper">
+
+<form action="index.php" method="get" name="track_order_quick">
+
+<p>Track my order(s):</p>
+
+<div class="form-field">
+<label for="track_order_item" class="cm-required hidden">Track my order(s):</label>
+<input type="hidden" name="redirect_url" value="index.php?dispatch=pages.view&amp;page_id=12"><input type="text" size="20" class="input-text cm-hint" id="track_order_item" name="hint_track_data" value="Order ID/E-mail"><input type="image" src="/skins/default_blue/customer/images/icons/go.gif" alt="Go" title="Go" class="go-button">
+<input type="hidden" name="dispatch" value="orders.track_request"></div>
 
 </form>
 
-
-				<p></p>
-			</td>
-			<td class="sidebox-rt-right">
-				<img src="/skins/lite_blue/customer/images/sidebox_rt_right.gif" width="5" height="3" border="0" alt=""></td>
-		</tr>
-		<tr>
-			<td>
-				<img src="/skins/lite_blue/customer/images/sidebox_rt_bot_lt.gif" width="5" height="5" border="0" alt=""></td>
-			<td class="sidebox-rt-bottom">
-				<img src="/skins/lite_blue/customer/images/sidebox_rt_bot_bg.gif" width="3" height="5" border="0" alt=""></td>
-			<td>
-				<img src="/skins/lite_blue/customer/images/sidebox_rt_bot_rt.gif" width="5" height="5" border="0" alt=""></td>
-		</tr>
-		</tbody></table>
-	</td>
-</tr>
-</tbody></table>
-<br>   							
-<table cellpadding="0" cellspacing="0" width="100%" border="0">
-<tbody><tr>
-	<td height="18" class="sidebox-title-bg_a">
-		<table cellpadding="0" cellspacing="0" border="0" width="100%">
-		<tbody><tr>
-			<td>
-				<img src="/skins/lite_blue/customer/images/sidebox_title_lft_a.gif" }"="" width="5" height="18" border="0" alt=""></td>
-			<td class="sidebox-title_a" align="center" width="100%">
-				&nbsp;&nbsp;Site news&nbsp;</td>
-			<td>
-				<img src="/skins/lite_blue/customer/images/sidebox_title_rgt_a.gif" }"="" width="5" height="18" border="0" alt=""></td>
-		</tr>
-		</tbody></table>
-	</td>
-</tr>
-<tr>
-	<td>
-		<table border="0" cellpadding="0" cellspacing="0" width="100%">
-		<tbody><tr>
-			<td class="sidebox-rt-left">
-				<img src="/skins/lite_blue/customer/images/sidebox_rt_left.gif" width="5" height="3" border="0" alt=""></td>
-			<td class="sidebox-rt-body" width="100%">
-				<p></p>
-				<table cellpadding="0" cellspacing="0" width="100%" border="0">
-<tbody><tr>
-	<td>&nbsp;</td>
-	<td><b>02/01/2008</b><br>
-		<a href="index.php?target=news#13" class="news-link">Tracking numbers now available for all orders.</a></td>
-	<td>&nbsp;</td>
-</tr>
-<tr>
-	<td style="background-image: url('/skins/lite_blue/customer/images/sidebox_body_delim.gif');" colspan="3">
-		<img src="/skins/lite_blue/customer/images/spacer.gif" width="1" height="9" alt=""></td>
-</tr>
-<tr>
-	<td>&nbsp;</td>
-	<td><b>12/02/2007</b><br>
-		<a href="index.php?target=news#10" class="news-link">Domestic Shipping Rates Installed</a></td>
-	<td>&nbsp;</td>
-</tr>
-<tr>
-	<td style="background-image: url('/skins/lite_blue/customer/images/sidebox_body_delim.gif');" colspan="3">
-		<img src="/skins/lite_blue/customer/images/spacer.gif" width="1" height="9" alt=""></td>
-</tr>
-<tr>
-	<td>&nbsp;</td>
-	<td><b>11/27/2007</b><br>
-		<a href="index.php?target=news#8" class="news-link">SSL Certificate installed</a></td>
-	<td>&nbsp;</td>
-</tr>
-</tbody></table>
-<br>
-<p></p><div align="right" class="small-link"><a href="index.php?target=news" class="underlined">More...</a></div>
-<hr>
-
-<script type="text/javascript" language="javascript 1.2">
-<!--
-var email_invalid = "The e-mail address is invalid. Please check.";
--->
-</script>
-<form action="index.php" method="GET" name="subscribe_form" onsubmit="if (!fn_check_email(document.getElementById('subscribe_email').value, email_invalid)) return false;">
-<input type="hidden" name="target" value="news">
-<input type="hidden" name="mode" value="add_subscriber">
-<input type="hidden" name="redirect_url" value="index.php?target=pages&amp;page_id=privacy_policy">
-Submit e-mail address to receive free updates and promotions<p>	
-<table cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-	<td>
-		<input type="text" name="subscribe_email" id="subscribe_email" size="10" value="Enter e-mail address" class="sidebox-input-text" onfocus="javascript: this.value='';" style="width:125px"></td>
-	<td>&nbsp;&nbsp;</td>
-	<td>
-		<a href="javascript: if (fn_check_email(document.getElementById('subscribe_email').value, email_invalid)) document.subscribe_form.submit();"><img src="/skins/lite_blue/customer/images/search_go.gif" width="21" height="21" border="0" alt="" title=""></a></td>
-</tr>
-</tbody></table>
-</p></form>
-
-				<p></p>
-			</td>
-			<td class="sidebox-rt-right">
-				<img src="/skins/lite_blue/customer/images/sidebox_rt_right.gif" width="5" height="3" border="0" alt=""></td>
-		</tr>
-		<tr>
-			<td>
-				<img src="/skins/lite_blue/customer/images/sidebox_rt_bot_lt.gif" width="5" height="5" border="0" alt=""></td>
-			<td class="sidebox-rt-bottom">
-				<img src="/skins/lite_blue/customer/images/sidebox_rt_bot_bg.gif" width="3" height="5" border="0" alt=""></td>
-			<td>
-				<img src="/skins/lite_blue/customer/images/sidebox_rt_bot_rt.gif" width="5" height="5" border="0" alt=""></td>
-		</tr>
-		</tbody></table>
-	</td>
-</tr>
-</tbody></table>
-<br>		   		
-
-<table cellpadding="0" cellspacing="0" width="100%" border="0">
-<tbody><tr>
-	<td height="18" class="sidebox-title-bg_a">
-		<table cellpadding="0" cellspacing="0" border="0" width="100%">
-		<tbody><tr>
-			<td>
-				<img src="/skins/lite_blue/customer/images/sidebox_title_lft_a.gif" }"="" width="5" height="18" border="0" alt=""></td>
-			<td class="sidebox-title_a" align="center" width="100%">
-				&nbsp;&nbsp;Recently viewed&nbsp;</td>
-			<td>
-				<img src="/skins/lite_blue/customer/images/sidebox_title_rgt_a.gif" }"="" width="5" height="18" border="0" alt=""></td>
-		</tr>
-		</tbody></table>
-	</td>
-</tr>
-<tr>
-	<td>
-		<table border="0" cellpadding="0" cellspacing="0" width="100%">
-		<tbody><tr>
-			<td class="sidebox-rt-left">
-				<img src="/skins/lite_blue/customer/images/sidebox_rt_left.gif" width="5" height="3" border="0" alt=""></td>
-			<td class="sidebox-body-white" width="100%">
-				<p></p>
-				
-<table cellpadding="0" cellspacing="0" width="100%" border="0">
-<tbody><tr>
-	<td align="center">
-		<a href="index.php?target=products&amp;product_id=37711">
- <img src="/images/product_images/tnksp009s.jpg" width="70" height="97" alt="tnksp009s.jpg" border="0"></a></td>
-</tr>
-<tr>
-	<td align="center">
-		<a href="index.php?target=products&amp;product_id=37711" class="underlined">Yeu Mot Nguoi Song Ben...</a></td>
-</tr>
-</tbody></table>
-<br>
-<table cellpadding="0" cellspacing="0" width="100%" border="0">
-<tbody><tr>
-	<td align="center">
-		<a href="index.php?target=products&amp;product_id=37396">
- <img src="/images/product_images/lbrj9s.jpg" width="70" height="70" alt="lbrj9s.jpg" border="0"></a></td>
-</tr>
-<tr>
-	<td align="center">
-		<a href="index.php?target=products&amp;product_id=37396" class="underlined">Royal Jelly - Sữa On...</a></td>
-</tr>
-</tbody></table>
-<br>
-<table cellpadding="0" cellspacing="0" width="100%" border="0">
-<tbody><tr>
-	<td align="center">
-		<a href="index.php?target=products&amp;product_id=35392">
- <img src="/images/product_images/tnls091s.jpg" width="70" height="97" alt="tnls091s.jpg" border="0"></a></td>
-</tr>
-<tr>
-	<td align="center">
-		<a href="index.php?target=products&amp;product_id=35392" class="underlined">Paris By Night 91 - Hu...</a></td>
-</tr>
-</tbody></table>
-<br>
+</div>
+<!--/dynamic--></div>
+	<div class="sidebox-bottom"><span>&nbsp;</span></div>
+</div>
 
 
-				<p></p>
-			</td>
-			<td class="sidebox-rt-right">
-				<img src="/skins/lite_blue/customer/images/sidebox_rt_right.gif" width="5" height="3" border="0" alt=""></td>
-		</tr>
-		<tr>
-			<td>
-				<img src="/skins/lite_blue/customer/images/sidebox_rt_bot_lt.gif" width="5" height="5" border="0" alt=""></td>
-			<td class="sidebox-rt-bottom">
-				<img src="/skins/lite_blue/customer/images/sidebox_rt_bot_bg.gif" width="3" height="5" border="0" alt=""></td>
-			<td>
-				<img src="/skins/lite_blue/customer/images/sidebox_rt_bot_rt.gif" width="5" height="5" border="0" alt=""></td>
-		</tr>
-		</tbody></table>
-	</td>
-</tr>
-</tbody></table>
-<br>					                                  
-												<div align="center">
-		<a href="http://www.minhtan.com/index.php?target=products&amp;product_id=36547">		
- <img src="/images/common_images/book581.jpg" width="167" height="269" alt="book581.jpg" border="0">		</a>		</div><p></p>
-								<div align="center">
-		<a href="http://www.minhtan.com/index.php?target=products&amp;product_id=37382">		
- <img src="/images/common_images/book726.jpg" width="167" height="261" alt="book726.jpg" border="0">		</a>		</div><p></p>
-								<div align="center">
-		<a href="http://www.minhtan.com/index.php?target=products&amp;product_id=37732">		
- <img src="/images/common_images/book743.jpg" width="167" height="272" alt="book743.jpg" border="0">		</a>		</div><p></p>
-								<div align="center">
-		<a href="http://www.minhtan.com/index.php?target=products&amp;product_id=41680">		
- <img src="/images/common_images/acd265.jpg" width="167" height="170" alt="acd265.jpg" border="0">		</a>		</div><p></p>
-								<div align="center">
-		<a href="http://www.minhtan.com/index.php?target=products&amp;product_id=41684">		
- <img src="/images/common_images/acd266.jpg" width="167" height="171" alt="acd266.jpg" border="0">		</a>		</div><p></p>
-								<div align="center">
-		<a href="http://englishsecret.com/" target="_blank">		
- <img src="/images/common_images/EnglishSecret.jpg" width="150" height="75" alt="EnglishSecret.jpg" border="0">		</a>		</div><p></p>
-								<div align="center">
-		<a href="http://www.minhtan.com/index.php?target=categories&amp;category_id=349">		
- <img src="/images/common_images/Diet-Ad.jpg" width="167" height="80" alt="Diet-Ad.jpg" border="0">		</a>		</div><p></p>
-								<div align="center">
-				
- <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="170" height="80"><param name="movie" value="/images/common_images/SP_170X80.swf"><param name="quality" value="high"><param name="wmode" value="transparent"><param name="allowScriptAccess" value="sameDomain"><embed src="/images/common_images/SP_170X80.swf" quality="high" wmode="transparent" width="170" height="80" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"></object>				</div><p></p>
-					   		<img src="/skins/lite_blue/customer/images/spacer.gif" width="170" height="1" border="0" alt=""><br></td>
+		<div class="ad-container center">
+		<a href="index.php?dispatch=statistics.banners&amp;banner_id=29&amp;redirect_url=http%3A%2F%2Fwww.minhtan.com%2Findex.php%3Fdispatch%3Dproducts.view%26product_id%3D44530">		<img class=" " src="/images/banner/tvb153s.jpg" width="167" height="237" alt="" border="0">		</a>	</div>
+			<div class="ad-container center">
+		<a href="index.php?dispatch=statistics.banners&amp;banner_id=40&amp;redirect_url=http%3A%2F%2Fwww.minhtan.com%2Findex.php%3Fdispatch%3Dproducts.view%26product_id%3D44453">		<img class=" " src="/images/banner/nkmcd01s.jpg" width="167" height="168" alt="" border="0">		</a>	</div>
+			<div class="ad-container center">
+		<a href="index.php?dispatch=statistics.banners&amp;banner_id=36&amp;redirect_url=http%3A%2F%2Fwww.minhtan.com%2Findex.php%3Fdispatch%3Dproducts.view%26product_id%3D44442">		<img class=" " src="/images/banner/tncd460s.jpg" width="167" height="166" alt="" border="0">		</a>	</div>
+			<div class="ad-container center">
+		<a href="index.php?dispatch=statistics.banners&amp;banner_id=37&amp;redirect_url=http%3A%2F%2Fwww.minhtan.com%2Findex.php%3Fdispatch%3Dproducts.view%26product_id%3D44446">		<img class=" " src="/images/banner/tcd101s.jpg" width="167" height="169" alt="" border="0">		</a>	</div>
+			<div class="ad-container center">
+		<a href="index.php?dispatch=statistics.banners&amp;banner_id=30&amp;redirect_url=http%3A%2F%2Fwww.minhtan.com%2Findex.php%3Fdispatch%3Dproducts.view%26product_id%3D44450">		<img class=" " src="/images/banner/tcd103s.jpg" width="167" height="170" alt="" border="0">		</a>	</div>
+			<div class="ad-container center">
+		<a href="index.php?dispatch=statistics.banners&amp;banner_id=20&amp;redirect_url=http%3A%2F%2Fwww.minhtan.com%2Findex.php%3Fdispatch%3Dproducts.view%26product_id%3D44418">		<img class=" " src="/images/banner/vinad22s.jpg" width="167" height="237" alt="" border="0">		</a>	</div>
+			<div class="ad-container center">
+		<a href="index.php?dispatch=statistics.banners&amp;banner_id=28&amp;redirect_url=http%3A%2F%2Fwww.minhtan.com%2Findex.php%3Fdispatch%3Dproducts.view%26product_id%3D44415">		<img class=" " src="/images/banner/vinad21s.jpg" width="167" height="240" alt="" border="0">		</a>	</div>
+			<div class="ad-container center">
+		<a href="index.php?dispatch=statistics.banners&amp;banner_id=44&amp;redirect_url=http%3A%2F%2Fwww.minhtan.com%2Findex.php%3Fdispatch%3Dproducts.view%26product_id%3D44419">		<img class=" " src="/images/banner/tncd458s.jpg" width="167" height="166" alt="" border="0">		</a>	</div>
+			<div class="ad-container center">
+		<a href="index.php?dispatch=statistics.banners&amp;banner_id=41&amp;redirect_url=images%2Fbanner%2FNEW-YEAR-EVE-Font.jpg" target="_blank">		<img class=" " src="/images/banner/NEW-YEAR-EVE-Fonts.jpg" width="167" height="216" alt="" border="0">		</a>	</div>
 	
-	<td>&nbsp;&nbsp;</td>
-</tr>
-</tbody></table></td>
-		</tr>
-		</tbody></table>
-	</td>
-</tr>
-<tr>
-	<td valign="bottom">
-		
-<p></p>
-
-<table cellpadding="0" cellspacing="0" border="0" width="100%" class="bottom-bg">
-
-<tbody><tr>
-
-	<td>&nbsp;&nbsp;</td>
 
 
-	<td class="bottom-menu">
+		<div class="ad-container center">
+		<a href="index.php?dispatch=statistics.banners&amp;banner_id=15&amp;redirect_url=http%3A%2F%2Fenglishsecret.com%2F" target="_blank">		<img class=" " src="/images/banner/EnglishSecret.jpg" width="150" height="75" alt="EnglishSecret.jpg" border="0">		</a>	</div>
+			<div class="ad-container center">
+		<a href="index.php?dispatch=statistics.banners&amp;banner_id=39&amp;redirect_url=http%3A%2F%2Fwww.myquicksign.com%2FWelcome.html" target="_blank">		<img class=" " src="/images/banner/myquicksign.com.jpg" width="167" height="67" alt="" border="0">		</a>	</div>
+	
+			</div>
+					</div>
+	</div>
+	
+	<div id="footer">
+		<div class="footer-helper-container">
+						
+<div class="bottom-search center">
+	<span class="float-left">&nbsp;</span>
+	<span class="float-right">&nbsp;</span>
+	
+<form action="index.php" name="search_form" method="get">
+<input type="hidden" name="subcats" value="Y">
+<input type="hidden" name="type" value="extended">
+<input type="hidden" name="status" value="A">
+<input type="hidden" name="pshort" value="Y">
+<input type="hidden" name="pfull" value="Y">
+<input type="hidden" name="pname" value="Y">
+<input type="hidden" name="pkeywords" value="Y">
+ 
 
-		<a href="index.php" class="bottom-menu-links">Home</a>
+<span class="search-products-text">Search:</span>
 
-		&nbsp;&nbsp;|&nbsp;&nbsp;
+<select name="cid" class="search-selectbox">
+	<option value="0">- All categories -</option>
+		<option value="467">Thuy Nga Special Sale</option>
+		<option value="461">ASIA Super Sale</option>
+		<option value="474">Van Son Overstocked Sale</option>
+		<option value="185">CDs</option>
+		<option value="268">Live Shows/Music Videos</option>
+		<option value="187">Movies</option>
+		<option value="189">Drama Series / Phim Bộ</option>
+		<option value="188">Karaoke</option>
+		<option value="190">Animation</option>
+		<option value="186">DVDs</option>
+		<option value="323">Sách / Books</option>
+		<option value="502">Sanrio</option>
+		<option value="192">Electronics</option>
+		<option value="191">Games</option>
+		<option value="341">Cosmetics</option>
+		<option value="282">Health Supplements</option>
+	</select>
 
-		
-		<a href="index.php?target=pages&amp;page_id=about" class="bottom-menu-links">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+<input type="text" name="q" value="" onfocus="this.select();" class="search-input"><input type="image" src="/skins/default_blue/customer/images/icons/go.gif" alt="Search" title="Search" class="go-button">
+<input type="hidden" name="dispatch" value="products.search">
 
-		
-		<a href="index.php?target=forms&amp;name=contact_us" class="bottom-menu-links">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+</form></div>
 
-		
-		<a href="index.php?target=pages&amp;page_id=privacy_policy" class="bottom-menu-links">Privacy policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-
-		
-		<a href="index.php?target=sitemap" class="bottom-menu-links">Site map</a>
-
-	</td>
-
-
-	<td width="90">
-
-		
-&nbsp;
-
-	</td>
+<p class="quick-links">
+			<a href="index.php">Home</a>
+			<a href="index.php?dispatch=pages.view&amp;page_id=15">About Us</a>
+			<a href="index.php?dispatch=pages.view&amp;page_id=20">Contact Us</a>
+			<a href="index.php?dispatch=pages.view&amp;page_id=12">Privacy policy</a>
+			<a href="index.php?dispatch=sitemap.view">Site map</a>
+	</p>
+<p class="bottom-copyright class">Copyright © 2005-2009 Minh Tan Online Store. &nbsp;Powered by <a href="http://www.cs-cart.com" target="_blank" class="underlined">CS-Cart - Shopping Cart Software</a>
+</p>
 
 
-	<td class="bottom-copyright" align="right">&nbsp;Copyright © 2006 Minh Tan Online Store.</td>
+		</div>
+	</div>
+</div>
+			</div>
 
+<script type="text/javascript">
+//<![CDATA[
+$(document).ready(function(){
+	jQuery.ajaxRequest('index.php?dispatch=statistics.collect', {
+		method: 'post',
+		data: {
+			've[url]': location.href,
+			've[title]': document.title,
+			've[browser_version]': jQuery.ua.version,
+			've[browser]': jQuery.ua.browser,
+			've[os]': jQuery.ua.os,
+			've[client_language]': jQuery.ua.language,
+			've[referrer]': document.referrer,
+			've[screen_x]': (screen.width || null),
+			've[screen_y]': (screen.height || null),
+			've[color]': (screen.colorDepth || screen.pixelDepth || null),
+			've[time_begin]': 1260068233.26
+		},
+		hidden: true
+	});
+});
+//]]>
+</script>
 
-	<td>&nbsp;&nbsp;</td>
-
-</tr>
-
-</tbody></table></td>
-</tr>
-</tbody></table>
-
+<noscript>
+<object data="index.php?dispatch=statistics.collect&amp;ve[url]=http://www.minhtan.com/index.php%3Fdispatch%3Dpages.view%26page_id%3D12&amp;ve[title]=Minh%20Tan%20Online%20store%20-%20Music%2C%20Video%20And%20More... - Privacy%20policy&amp;ve[referrer]=&amp;ve[time_begin]=1260068233.26" width="0" height="0"></object>
+</noscript>
 
 
 </body></html>
