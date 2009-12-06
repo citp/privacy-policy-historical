@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerjet.co.in privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608124940id_/http%3A//www.careerjet.co.in/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerjet.co.in privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206032337id_/http%3A//www.careerjet.co.in/about/privacy.html) for the most accurate reproduction.*
 
 # Careerjet Privacy Policy
 
@@ -10,7 +10,7 @@ When you use the Careerjet site, our servers may collect information indirectly 
 
 #### Personal Information You Specifically Provide
 
-You can generally visit our Website without revealing any personally identifiable information about yourself. However, in certain sections of this Website, we may ask you to submit personally identifiable information such as your name, email address, and your CV. Your personally identifiable information will only be used to deliver certain information or services that you have requested, for system administration purposes and also to improve the Website.
+You can generally visit our Website without revealing any personally identifiable information about yourself. However, in certain sections of this Website, we may ask you to submit personally identifiable information such as your name, email address, and your CV. Your personally identifiable information will only be used to deliver certain information or services that you have requested such as job alerts, for system administration purposes and also to improve the Website. In each job alert email we send you, we provide a method to unsubscribe from future emails.
 
 #### Disclosure of Personal Information
 
