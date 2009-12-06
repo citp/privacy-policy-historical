@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the geron.org privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526064824id_/http%3A//www.geron.org/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D380) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geron.org privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206013942id_/http%3A//www.geron.org/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D380) for the most accurate reproduction.*
 
 # GSA - Privacy Policy Statement
 
-[](http://www.geron.org/Annual%20Meeting)
+[](https://www.geron.org//Support%20GSA/Donate%20Now)
 
 | 
 
@@ -77,9 +77,3 @@ Please contact our webmaster using our [Contact Us](http://www.geron.org/About%2
 
 
  
-
-### Tour our New Site!
-
- 
-
-Welcome to our redesigned website. Please visit our [DEMO PAGE](http://www.geron.org/index.php?option=com_content&view=article&id=359&Itemid=644) for a quick review of all that is new. As always, the sitemap is a great resource.
