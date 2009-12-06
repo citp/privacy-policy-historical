@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the corkin.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626194110id_/http%3A//corkin.com/includes/PrivacyPage.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corkin.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206015658id_/http%3A//www.corkin.com/includes/PrivacyPage.cfm) for the most accurate reproduction.*
 
-# Privacy Policy - Corkin - Free Social Classifieds local and Nationwide. Find Customers, Find Sellers and Find Friends!
+# Privacy Policy - Corkin - Free Classifieds
 
 ## Welcome to  Corkin.com
 
