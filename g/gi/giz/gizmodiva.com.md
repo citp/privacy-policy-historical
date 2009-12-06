@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gizmodiva.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619045843id_/http%3A//www.gizmodiva.com/other_stuff/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gizmodiva.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206202645id_/http%3A//www.gizmodiva.com/other_stuff/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -68,10 +68,7 @@ If you have any questions about this Privacy Policy, the privacy practices of th
 
 by [dhiram](https://web.archive.org/dhiram/index.php), posted July 19, 2008 - 9:19 AM in [Other Stuff](http://www.gizmodiva.com/other_stuff/) | [**Comments** ()](http://www.gizmodiva.com/other_stuff/privacy_policy.php#comments)
 
-**Related Entries**
-
-
-
+[](http://www.linkwithin.com/)
 
 ## Reader Comments
 
@@ -79,12 +76,12 @@ by [dhiram](https://web.archive.org/dhiram/index.php), posted July 19, 2008 - 9:
 
 ## Recent Entries
 
-  * [Hello Kitty OKWAP A316 Mobile is flexible and cute](http://www.gizmodiva.com/mobile_phones/hello_kitty_okwap_a316_mobile_is_flexible_and_cute.php)
-  * [Slap Chop blades your veggies in seconds](http://www.gizmodiva.com/home_improvement/slap_chop_blades_your_veggies_in_seconds.php)
-  * [SOBEaR, the adorable robot panda bartender monitors your drinks](http://www.gizmodiva.com/home_gadgets/sobear_the_adorable_robot_panda_bartender_monitors_your_drinks.php)
-  * [Heart-shaped watermelons : The most romantic fruit ever](http://www.gizmodiva.com/other_stuff/heartshaped_watermelons_the_most_romantic_fruit_ever.php)
-  * [Keep warm and cozy on camping trips with Selkbag 2](http://www.gizmodiva.com/other_stuff/keep_warm_and_cozy_on_camping_trips_with_selkbag_2.php)
-  * [Saya-Sensei is the new Synthetic substitute teacher in Japan](http://www.gizmodiva.com/other_stuff/sayasensei_is_the_new_synthetic_substitute_teacher_in_japan.php)
-  * [Hand-held portable bread toaster is good, on-the-go concept](http://www.gizmodiva.com/home_gadgets/handheld_portable_bread_toaster_is_good_onthego_concept.php)
+  * [Foosball Coffee Table keeps boredom at bay](http://www.gizmodiva.com/home_improvement/foosball_coffee_table_keeps_boredom_at_bay.php)
+  * [Keyboard Sleeve turns your iPhone into a Blackberry](http://www.gizmodiva.com/mobile_phones/keyboard_sleeve_turns_your_iphone_into_a_blackberry.php)
+  * [Sony Walkman S Series pretty in pink](http://www.gizmodiva.com/music/sony_walkman_s_series_pretty_in_pink.php)
+  * [Concrete Clock with shiny goodness](http://www.gizmodiva.com/home_improvement/concrete_clock_with_shiny_goodness.php)
+  * [Roll of film camera makes you nostalgic](http://www.gizmodiva.com/home_gadgets/roll_of_film_camera_makes_you_nostalgic.php)
+  * [Hello Kitty Steering Wheels adds some cuteness to your car](http://www.gizmodiva.com/wheels/hello_kitty_steering_wheels_adds_some_cuteness_to_your_car.php)
+  * [Flameless color changing candles to set the mood right](http://www.gizmodiva.com/home_improvement/flameless_color_changing_candles_to_set_the_mood_right.php)
 
 
