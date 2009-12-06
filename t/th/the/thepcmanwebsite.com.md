@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepcmanwebsite.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609221330id_/http%3A//thepcmanwebsite.com/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepcmanwebsite.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206134635id_/http%3A//www.thepcmanwebsite.com/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - The PCman Website
 
@@ -16,7 +16,7 @@ For visitors that sign up for our News Letter your name and email address is _on
 When ordering our web design services we ask for much personal information to effectively create the best page possible and secure payment for our services. _None_ of this information is ever sold or revealed to anyone outside of our organization. If creating a web page for you we may contact you, for the purpose of obtaining information for your web page and that is almost always done via email.
 
 **Advertisements:**  
-We display 3rd party advertisements on our pages from companies who may collect visitors browser, IP and remote host information. These companies each have their own privacy policies and are responsible for their own actions.
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
 
 **Posting to a Webpage:**  
 Our visitors should be aware that when you disclose your personal information in our guestbook or other publicly viewable page your information will be added to an online web page, this does make your information viewable by all visitors. This does not include our web tools or our contact forms, only pages where your information is posted to a web page. At the appropriate time you will be notified that this is going to take place and will be given the option to discontinue that action.
