@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solarquotes.com.au privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609175853id_/http%3A//www.solarquotes.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solarquotes.com.au privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206214521id_/http%3A//www.solarquotes.com.au/privacy.html) for the most accurate reproduction.*
 
 # Solar Quotes
 
