@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dnj.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616232831id_/http%3A//www.dnj.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnj.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206115843id_/http%3A//www.dnj.com/section/privacy) for the most accurate reproduction.*
 
-# www.dnj.com | Murfreesboro and Rutherford County PRIVACY | The Daily News Journal
+# dnj.com | Murfreesboro PRIVACY | The Daily News Journal
 
 Last Updated: March 4, 2009
 
