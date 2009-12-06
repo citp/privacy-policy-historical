@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinkforsure.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617063807id_/http%3A//www.pinkforsure.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinkforsure.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206021357id_/http%3A//www.pinkforsure.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
