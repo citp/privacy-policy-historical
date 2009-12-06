@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the predictad.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603071858id_/http%3A//www.predictad.com/general/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the predictad.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206130636id_/http%3A//www.predictad.com/general/privacy.aspx) for the most accurate reproduction.*
 
 # PredictAd - Privacy Policy
 
@@ -36,10 +36,11 @@ We recognize the importance of privacy. This document outlines the types of pers
 
 **More information  
 **   
+If you wish to opt-out out from any of PredictAd's services please email us at support@predictad.com.   
 For more information about our privacy practices, please contact us any time.   
 Or write to us at: 
 
 Privacy Matters  
 SimplyGen Ltd.(PredictAd)  
-1150 Lake Hearn Drive, Suite 130  
-Atlanta, Georgia 30342 
+400 Northridge Road  
+Atlanta, Georgia 30350 
