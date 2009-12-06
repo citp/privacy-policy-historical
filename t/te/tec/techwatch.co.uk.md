@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techwatch.co.uk privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531125933id_/http%3A//www.techwatch.co.uk/about/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techwatch.co.uk privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206020607id_/http%3A//www.techwatch.co.uk/about/%23privacy) for the most accurate reproduction.*
 
 # About Techwatch
 
