@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the pakpoint.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620071252id_/http%3A//www.pakpoint.com/about-2/useronline) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakpoint.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206113337id_/http%3A//www.pakpoint.com/useronline) for the most accurate reproduction.*
 
-# Privacy | PakPoint Network
+# Privacy PakPoint
+
+[Home](http://www.pakpoint.com/) » Privacy
+
+## Privacy
 
 This privacy policy is applicable to pakpoint.com
 
 We do not collect personally identifiable information about individuals except when such individuals specifically provide such information on a voluntary basis. For example, such personally identifiable information will be gathered from the registration process for a web site or other services we may offer. Personally identifiable information on individual users will not be sold or otherwise transferred to unaffiliated third parties. Further, we reserves the right to contact a subscriber regarding account status, changes to the subscriber agreement and other matters relevant to the underlying service and/or the information collected.
 
-Users also should be aware that non-personal information and data may be automatically collected through the standard operation of our internet servers or through the use of “cookies.” “Cookies” are small text files a web site can use to recognize repeat users, facilitate the user’s ongoing access to and use of the site and allow a site to track usage behavior and compile aggregate data that will allow content improvements and targeted advertising. Cookies are not programs that come onto a user’s system and damage files. Generally, cookies work by assigning a unique number to the user that has no meaning outside the assigning site. If a user does not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the user to deny or accept the cookie feature; however, users should note that cookies may be necessary to provide the user with certain
+Users also should be aware that non-personal information and data may be automatically collected through the standard operation of our internet servers or through the use of â€œcookies.â€ â€œCookiesâ€ are small text files a web site can use to recognize repeat users, facilitate the userâ€™s ongoing access to and use of the site and allow a site to track usage behavior and compile aggregate data that will allow content improvements and targeted advertising. Cookies are not programs that come onto a userâ€™s system and damage files. Generally, cookies work by assigning a unique number to the user that has no meaning outside the assigning site. If a user does not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the user to deny or accept the cookie feature; however, users should note that cookies may be necessary to provide the user with certain
 
 The foregoing policies are effective as of March 1, 2009. We reserve the right to change this policy at any time by notifying users of the existence of a new privacy statement. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
 
