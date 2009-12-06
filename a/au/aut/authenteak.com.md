@@ -1,29 +1,29 @@
-> *The following text is extracted and transformed from the authenteak.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525171149id_/http%3A//www.authenteak.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authenteak.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206051403id_/http%3A//www.authenteak.com/privacy.asp) for the most accurate reproduction.*
 
-# AuthenTEAK, LLC Privacy Policy: Outdoor Furniture, Weber Grills, Windham Cast Aluminum, Atlanta Patio Furniture, Teak Furniture, Gloster, Contemporary Outdoor Furniture, Outdoor Kitchen, Wicker
+# AuthenTEAK, LLC Privacy Policy: Outdoor Furniture, Weber Grills, Windham Cast Aluminum, Patio Store, Teak Furniture, Gloster, Contemporary Outdoor Furniture, Outdoor Kitchen, Wicker
 
 Privacy Statement for AuthenTEAK LLC
 
-We respect your privacy, and we want you to feel comfortable using our website. Therefore, we are providing you with this privacy policy so you can better understand what information we collect from you, what we do with your information, and who, other than AuthenTEAK L.L.C. (â€œWe,â€ â€œUsâ€ or â€œOurâ€) may also receive your information.
+We respect your privacy, and we want you to feel comfortable using our website. Therefore, we are providing you with this privacy policy so you can better understand what information we collect from you, what we do with your information, and who, other than AuthenTEAK L.L.C. (“We,” “Us” or “Our”) may also receive your information.
 
 This privacy policy is consistent with the Safe Harbor privacy provisions for transfers of personal information from the European Economic Area to the United States.
 
 As you read through this privacy policy, please remember that you do not need to provide any information that identifies you in order to visit our website. In general, you can use many of the features of our website without telling us who you are or revealing any personal information whatsoever.
 
 What Information Do We Collect From You?  
-Our site's registration form requires users to give us contact information (such as their name, email and postal address) and demographic information (like their zip code, age, or income level) (collectively, â€œCustomer Informationâ€).  
+Our site's registration form requires users to give us contact information (such as their name, email and postal address) and demographic information (like their zip code, age, or income level) (collectively, “Customer Information”).  
 If you purchase products through our website, or if you want more information about our company, you will be required to complete an order form. The order form requires you to provide us with your Customer Information, as well as your credit card number (for purchases only).
 
 What Do We Do With Your Customer Information?  
 Our licensed distributors and we hold all Customer Information in the strictest of confidence. The information we collect is used solely for billing and shipping purposes, to provide you with information about our company, or for you to receive further product information.  
-You may opt-out of receiving future mailings using the â€œChoice / Opt-out Proceduresâ€ described below.   
+You may opt-out of receiving future mailings using the “Choice / Opt-out Procedures” described below.   
 We may disclose your Customer Information if we are required to do so by law or we in good faith believe that such action is necessary to (1) comply with the law or with legal process; (2) protect and defend our rights and property; (3) protect against misuse or unauthorized use of our website; or (4) protect the personal safety or property of our users or the public (among other things, this means that if you provide false information or attempt to pose as someone else, information about you may be disclosed as part of any investigation into your actions).
 
 On occasion, we may hire third parties to perform certain functions on our behalf. Examples include removing repetitive information from our database, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. These third parties have access to your Customer Information to the extent necessary to permit them to do their jobs, however, they may not use it for other purposes.
 
 As AuthenTEAK LLC and its subsidiaries continue to grow and develop, we might sell our assets to third parties as part of a merger or sale of our business. In such transactions, Customer Information may be one of the transferred business assets.
 
-In addition, we may use the information we obtain from our customers in the aggregate to determine our customersâ€™ demographics and preferences. By doing so, we are able to deliver targeted services on our website which you may find to be helpful and informative.
+In addition, we may use the information we obtain from our customers in the aggregate to determine our customers’ demographics and preferences. By doing so, we are able to deliver targeted services on our website which you may find to be helpful and informative.
 
 Other than as stated in this Privacy Policy, we will not release your Customer Information to unknown or unaffiliated third parties, and we will not cross-reference your Customer Information with that of any other customer or entity.
 
@@ -50,10 +50,10 @@ Children's Online Privacy Protection Act (COPPA)
 Our website is directed to the general public. We do not knowingly sell products or services for use by children. If you are under 18, you may use our website only with involvement and supervision of a parent or guardian. We reserve the right to cancel, without prior notice to you, any purchases that we know, or have reason to believe, were made by persons under the age of 18. 
 
 Changes to Our Privacy Policy  
-As our customersâ€™ needs change, we may find it necessary to amend or revise this Privacy Policy. Any such revisions or additions will be posted on this page. Please re-visit this page from time to time to make sure that you are aware of any additions or revisions to this policy. If you have any concern about privacy at our website, please send us a thorough description to [info@authenteak.com](mailto:info@authenteak.com) and we will try to resolve it. 
+As our customers’ needs change, we may find it necessary to amend or revise this Privacy Policy. Any such revisions or additions will be posted on this page. Please re-visit this page from time to time to make sure that you are aware of any additions or revisions to this policy. If you have any concern about privacy at our website, please send us a thorough description to [info@authenteak.com](mailto:info@authenteak.com) and we will try to resolve it. 
 
 Electronic Notification  
-When you purchase any products or services through our website, you consent to receive any privacy or other notices, agreements, disclosures, reports, documents, communications, or other records (collectively, â€œNoticesâ€), whether or not the Notices are related to the products or services you purchased, from us electronically. You consent to receive Notices electronically in either or both of the following ways: 
+When you purchase any products or services through our website, you consent to receive any privacy or other notices, agreements, disclosures, reports, documents, communications, or other records (collectively, “Notices”), whether or not the Notices are related to the products or services you purchased, from us electronically. You consent to receive Notices electronically in either or both of the following ways: 
 
 A. We may post the Notice on our website; or  
 B. We may transmit the Notice to you by email. 
@@ -67,7 +67,7 @@ In order to receive Notices electronically from us, you must have:
 A. An Internet browser, such as Internet Explorer 4.0 or greater or Netscape Navigator 4.0 or greater;  
 B. An email account and email software;  
 C. A personal computer, operating system and telecommunications connections to the Internet capable of supporting the foregoing;  
-D. Sufficient electronic storage capacity on your computerâ€™s hard drive or other data storage unit; and  
+D. Sufficient electronic storage capacity on your computer’s hard drive or other data storage unit; and  
 E. A printer that is capable of printing from your browser and email software.
 
 Your Options  
@@ -83,14 +83,14 @@ SAFE HARBOR
 The United States Department of Commerce and the European Commission have agreed on a set of data protection principles and frequently asked questions (the "Safe Harbor Principles") to enable U.S. companies to satisfy the requirement under EU law that protection be given to personal information transferred from the EU to the United States. The EEA also has recognized the U.S. Safe Harbor as providing adequate data protection (OJ L 45, 15.2.2001, p.47). Consistent with its commitment to protect personal privacy, AuthenTEAK LLC adheres to the Safe Harbor Principles. 
 
 SCOPE  
-This Safe Harbor Privacy Policy (â€œSafe Harbor Policyâ€) applies to all personal information received by us in the United States from the European Economic Area, regardless of the format by which we receive such information.
+This Safe Harbor Privacy Policy (“Safe Harbor Policy”) applies to all personal information received by us in the United States from the European Economic Area, regardless of the format by which we receive such information.
 
 DEFINITIONS  
 For purposes of this Safe Harbor Policy, the following definitions shall apply: 
 
 "Agent" means any third party that collects or uses personal information under the instructions of, and solely for, us or to which we disclose personal information for use on our behalf. 
 
-â€œAuthenTEAK LLC,â€ â€œWe,â€ "Us," or â€œOurâ€ means AuthenTEAK LLC, and its successors, subsidiaries, divisions and groups in the United States.
+“AuthenTEAK LLC,” “We,” "Us," or “Our” means AuthenTEAK LLC, and its successors, subsidiaries, divisions and groups in the United States.
 
 "Personal information" means any information or set of information that identifies or is used by or on behalf of us to identify an individual. Personal information does not include information that is encoded or anonymized, or publicly available information that has not been combined with non-public personal information. 
 
