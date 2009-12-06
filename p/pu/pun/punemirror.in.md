@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the punemirror.in privacy policy that was archived on 2009-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090607220009id_/http%3A//ms.timesofindia.com/ads/Privacypolicy/Punemirror.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the punemirror.in privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206073023id_/http%3A//ms.timesofindia.com/ads/Privacypolicy/Punemirror.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
