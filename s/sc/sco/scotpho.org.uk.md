@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scotpho.org.uk privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530191318id_/http%3A//www.scotpho.org.uk/home/privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scotpho.org.uk privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206104336id_/http%3A//www.scotpho.org.uk/home/privacystatement.asp) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -20,7 +20,7 @@ You can register with the ScotPHO website to subscribe to our email lists (you c
 
 There is no facility to log in to the ScotPHO website and all published content is freely available to all users, whether registered or not. We do not, and cannot, track the site usage of individual registered users.
 
-Details of our registered users are held securely, will not be disclosed to any third party and will only be used for the purposes described above. Registered users can change their email list subscriptions or de-register with the website by [emailing us](mailto:scotpho@isd.csa.scot.nhs.uk) their details.
+Details of our registered users are held securely, will not be disclosed to any third party and will only be used for the purposes described above. Registered users can change their email list subscriptions or de-register with the website by [emailing us](mailto:scotpho@nhs.net) their details.
 
 ### Scotland’s Health on the Web
 
