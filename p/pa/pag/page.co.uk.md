@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the page.co.uk privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531214043id_/http%3A//startpage.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the page.co.uk privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207000603id_/http%3A//startpage.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy - Startpage.co.uk
+# Privacy - Startpage UK
 
 Startpage ([http://www.startpage.co.uk](http://www.startpage.co.uk/)) is owned and operated by **Startpage Ltd.** , a limited company registered in England.
 
@@ -35,13 +35,13 @@ Personal data submitted on this website will be used for the purposes specified 
 
 We may use your personal information to:
 
-  * administer the website.
-  * improve your browsing experience by personalising the website.
-  * enable your use of the services available on the website.
-  * send you general (non-marketing) commercial communications.
-  * send you email notifications which you have specifically requested.
-  * provide third parties with statistical information about our users - but this information will not be used to identify any individual user
-  * deal with enquiries and complaints made by or about you relating to the website; and
+  * administer the website,
+  * improve your browsing experience by personalising the website,
+  * enable your use of the services available on the website,
+  * send you general (non-marketing) commercial communications,
+  * send you email notifications which you have specifically requested,
+  * provide third parties with statistical information about our users - but this information will not be used to identify any individual user,
+  * deal with enquiries and complaints made by or about you relating to the website.
 
 
 
@@ -75,13 +75,13 @@ You are responsible for keeping your password and user details confidential. We 
 
 ## (7) Policy amendments
 
-We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes. 
+We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are comfortable and satisfied with any changes. 
 
 We may also notify you of changes to our privacy policy by email.
 
 ## (8) Your rights
 
-You may instruct us not to process your personal data for marketing purposes by email us at any time. (In practice, you will usually either expressly agree in advance to our use of your personal data for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal data for marketing purposes.)
+You may instruct us not to process your personal data for marketing purposes by emailing us at any time. (In practice, you will usually either expressly agree in advance to our use of your personal data for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal data for marketing purposes.)
 
 ## (9) Third party websites
 
