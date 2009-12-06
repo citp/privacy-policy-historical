@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the winster.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602213341id_/http%3A//www.winster.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winster.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206011816id_/http%3A//www.winster.com/privacy.html) for the most accurate reproduction.*
 
 # Winster - Games, Friends, Prizes
 
 Privacy Policy
 
-Last updated: April 23, 2008
+Last updated: June 9, 2009
 
 Winster, Inc. ("Winnie", "I", "We", "Us", "Our") believes in the Golden Rule: We respect your right to privacy, and intend to treat your personal information as We would want Ours treated on your web site. This notice describes Our Privacy Policy. 
 
@@ -16,7 +16,7 @@ By visiting Winster.com, you are accepting the practices described in this Priva
 
 **Information about you obtained from third parties** : In the course of Our business, We may receive and keep information about you that We receive from third parties. This could include information from Our business partners and/or vendors as to whether, when, and how you collect your prizes or make other purchases from them, package shipping status and delivery information, or other information that relates to or results from your relationship with Us. We may consult sources of information related to your credit history or from credit bureaus, which We use to help prevent and detect fraud and to offer certain credit or financial services to you. 
 
-**Automatic information** : We receive and store certain types of information whenever you interact with Our web site. For example, like many web sites, We use "cookies". We love many kinds of cookies, but these cookies are small files that We store on your computer that permit Us to remember things about you, such as who you are and when you last visited. You can set most browsers to tell you when a new cookie is deposited, or to prevent cookies from being stored altogether. 
+**Automatic information** : We receive and store certain types of information whenever you interact with Our web site. For example, like many web sites, We use "cookies". We love many kinds of cookies, but these cookies are small files that We store on your computer that permit Us to remember things about you, such as who you are and when you last visited. We may also allow third parties, such as our advertising partners, to place cookies on your computer. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. You can set most browsers to tell you when a new cookie is deposited, or to prevent cookies from being stored altogether. 
 
 **Email and other communications** : When you email, fax, phone, write, or otherwise contact Us, We may keep a record of these communications. 
 
