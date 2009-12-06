@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zp1.com privacy policy that was archived on 2009-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090410205852id_/http%3A//www.zp1.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zp1.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206072405id_/http%3A//www.zp1.com/privacy.php) for the most accurate reproduction.*
 
 # ZP1.com - Free Ads - Free Classified Ads - Free Personal Ads - American Classifieds - Post Free Ads
 
-**You are currently viewing from[ Los Angeles, California]()
+**You are currently viewing from[ Los Angeles, California](https://web.archive.org/1_Los_Angeles/)
 
 Privacy Policy
 
@@ -85,4 +85,4 @@ This site does not support any spam. Anyone caught spamming on ZP1.com will hav
 Thank you for visiting ZP1.com. We hope you find value on our site.
 
   
-[](http://www.zp1.com/1_Los%20Angeles)
+[](https://web.archive.org/web/20091206072405id_/http%3A//www.zp1.com/index.php?view=main&cityid=1)
