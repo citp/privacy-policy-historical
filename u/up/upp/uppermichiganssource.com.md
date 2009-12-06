@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uppermichiganssource.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626014357id_/http%3A//www.uppermichiganssource.com/about/about.aspx%3Fid%3D640) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uppermichiganssource.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206011456id_/http%3A//www.uppermichiganssource.com/about/about.aspx%3Fid%3D640) for the most accurate reproduction.*
 
 # Privacy Policy : About : WLUC TV6
 
