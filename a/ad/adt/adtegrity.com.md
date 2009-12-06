@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adtegrity.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216044142id_/http%3A//www.adtegrity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adtegrity.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206031625id_/http%3A//www.adtegrity.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Adtegrity.com » Privacy
+# Adtegrity.com » Privacy Policy
 
 Adtegrity.com observes the following privacy policy in our commitment to assuring privacy for publishers, advertisers, and Web site visitors.
 
@@ -35,4 +35,4 @@ If a visitor to a Web site views an ad served by Adtegrity.com, they are assigne
 The ads appearing on this Web site are delivered to you by third-party advertisers, our Web advertising partners. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about third-party advertisers, cookies, and how to “opt-out”, please visit http://www.networkadvertising.org/optout_nonppii.asp.  
 **  
 Third Party Cookies**  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
