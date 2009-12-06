@@ -1,0 +1,498 @@
+<!--The following is the downloaded HTML source of the thehomepage.com.au privacy policy that was archived on 2009-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091206114021id_/http%3A//www.thehomepage.com.au/thp-privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>Privacy</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="copyright" content="thehomepage.com.au">
+<meta name="description" content="Australia's newest property listing website - The Homepage">
+<meta name="keywords" content="real estate, property, properties, residential, for sale, homes, agent, home, house, million dollar property, mansion, Luxury Housing, exquisite Homes, million dollar homes, regal homes, spectacular housing, homes for the rich, exclusive property, private property, private, stylish homes, vogue homes, beautiful Homes, custom homes, private islands, architecturally designed, penthouse, gaggenau, grounds, acreage, tennis court, swimming pool, spa, sauna, lap pool, home theatre, servants� quarters, billiard room, wine cellar, open fire place, home office, stables, golf membership, club house, ski-in ski-out, helipad, landing strip, polo field, basement, auction, open for inspection, sold, rural, invest, australia, victoria, new south wales, queensland, south australia, western australia, northern territory, tasmania, australian capital territory, vic, nsw, qld, sa, wa, nt, tas, act, melbourne, sydney, brisbane, adelaide, perth, darwin, hobart, canberra, toorak, albert park, south yarra, hawthorn, brisbane, new farm, prahran, brighton, byron bay, carlton, camberwell, bondi, manly, middle park, port melbourne, toowong, sydney">
+<link href="/stylesheets/thehomepage/base.css" rel="stylesheet" type="text/css">
+<link href="/stylesheets/thehomepage/main.css" rel="stylesheet" type="text/css">
+<link href="/stylesheets/thehomepage/new_search_gui.css" rel="stylesheet" type="text/css">
+<link href="http://www.thehomepage.com.au/thehomepage_favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
+<script src="/javascripts/jquery.js" type="text/javascript"></script>
+<script src="http://partner.googleadservices.com/gampad/google_service.js" type="text/javascript"></script>
+<script src="http://maps.google.com/maps?file=api&amp;v=2&amp;key=ABQIAAAA0n68zmmHwx7Mc5b_RYFUhxTLgCoF4MzhqOV9vyWcsT01UtxDGxRwVEej3fAlJO9rBYlPAfGkugPfJw" type="text/javascript"></script>
+<script src="http://www.thehomepage.com.au/javascripts/dh.ui.GoogleMaps.core.js" type="text/javascript"></script>
+<script src="http://www.thehomepage.com.au/javascripts/dh.ui.GoogleMaps.init.js" type="text/javascript"></script>
+<script src="/javascripts/new.search.gui.js" type="text/javascript"></script>
+
+
+<!--[if IE 6]>
+  <link rel='stylesheet' type='text/css' href='http://www.thehomepage.com.au/stylesheets/ie6.css' /> 
+<![endif]-->
+<!--[if IE 7]>
+  <link rel='stylesheet' type='text/css' href='http://www.thehomepage.com.au/stylesheets/ie7.css' /> 
+<![endif]-->
+<!--[if lt IE 8]>
+<script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE8.js" type="text/javascript"></script>
+<![endif]-->
+
+<script type="text/javascript">
+  GS_googleAddAdSenseService("ca-pub-6997645826096288");
+  GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+  GA_googleAddSlot("ca-pub-6997645826096288", "HomePage_Top_Leaderboard_728x90");
+</script>
+<script type="text/javascript">
+  GA_googleFetchAds();
+</script>
+</head>
+  
+<body onunload="GUnload();"><script type="text/javascript">
+function addLoadEvent(func) {
+var oldonload = window.onload;
+if (typeof window.onload != 'function') {
+window.onload = func;
+} else {
+window.onload = function() {
+if (oldonload) {
+oldonload();
+}
+func();
+}
+}
+}
+$(document).ready(function(){
+		GoogleMapsInit('map');
+								});
+</script>
+<!-- START CONTAINER -->
+<div class="container">
+
+	<div class="tl"></div><div class="tr"></div>
+	<!-- START MAIN -->
+	<div id="main">
+	
+	<!-- START HEADER-->
+    <div id="header">
+    
+	<table width="100%" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+<td><h1 class="logo"><a href="/" title="Return to The HomePage">The HomePage</a></h1></td>			<td class="advertisment">
+<div style="min-height:90px;"><script type="text/javascript">
+			  GA_googleFillSlot("HomePage_Top_Leaderboard_728x90");
+			</script></div>
+			</td>
+		</tr>
+	</tbody></table>
+    </div>
+  <!--END HEADER-->	<!-- START MENU -->
+<div id="main_menu">
+<a href="/shortlist" class="dropdown">My List</a>
+<!--<a href="#sort_by" class="dropdown">Sort By</a>  -->
+<script language="javascript">
+
+function endmove(elem){  
+		elem.focus();
+	if(document.selection) {
+		// IE
+		var oSel = document.selection.createRange();
+		oSel.moveStart('character',elem.value.length);
+		oSel.moveEnd('character',0);
+		oSel.select();
+	} else {
+		// firefox
+		elem.selectionStart = elem.textLength;
+		elem.selectionEnd = elem.textLength;
+	 }
+
+
+}
+
+function lookup(inputString, identifier, clickvalue, thisclick) {
+
+
+		if (thisclick){endmove(thisclick);};
+
+//	once you mouse over (we assume you have clicked some features) AND mouse out, we close			
+		if(identifier == 'features'){
+		    $("#suggest").bind("mouseenter",function(){
+				}).bind("mouseleave",function(){
+				setTimeout("$('#suggest').fadeOut();", 200);	
+				$('#input'+identifier).val(thisValue);
+		    });
+		}
+			
+// clear price if empty
+		if(identifier != 'pricemax' && identifier != 'pricemin'){
+			if ($('#inputprice').val() == ''){
+				$('#inputpricemin').val('');
+				$('#inputpricemax').val('');
+				$displayVal = '';
+				}
+		}		
+		
+		$('#tooltip').hide();	
+		if(inputString.length == 0) {
+			// Hide the suggestion box.
+			$('#'+identifier).hide();
+		} else {
+			if(identifier == 'location'){
+				var locstate = document.searchform.state.value;
+				
+			}
+						$.post("http://www.thehomepage.com.au/ajaxlist.php", {userInput: ""+inputString+"", identifier: ""+identifier+"", clickvalue: ""+clickvalue+"", locstate: ""+locstate+"", view: "thp-privacy"}, function(data){
+				if(data.length >0) {
+					$('#suggest').show();
+
+											$('#suggest').css({ 'top': ($('#input'+identifier).position().top - 70), 'left': ($('#input'+identifier).position().left + 170)});					
+										switch(identifier){
+						case 'features':
+							$('#suggest').css({'width':'640px'});
+							break;
+						case 'ptype':
+							$('#suggest').css({'width':'160px'});
+							break;
+						case 'price':
+							$('#suggest').css({'width':'220px'});
+							break;
+						case 'location':
+							$('#suggest').css({'width':'260px'});
+							break;
+						case 'lister':
+							$('#suggest').css({'width':'320px'});
+							break;
+					}
+					$('#suggestList').html(data);
+				}
+			});
+		}
+	} // lookup
+
+	function hideall(){
+		$('#tooltip').hide();
+		$('#suggest').hide();	
+		};
+	function tooltip(identifier,name,thisclick){
+		
+
+//		alert(identifier + ',' + name);
+					var idfrom = identifier;
+					$('#tooltip').show();
+					$('#suggest').hide();
+					
+					//move cursor
+	endmove(thisclick);
+	
+					// clear values if its at default
+					switch(identifier){
+						case 'location':
+							if ($('#input'+identifier).val() == 'Location'){$('#input'+identifier).val('')};
+							break;
+						case 'lister':
+							if ($('#input'+identifier).val() == 'Agent / Developer'){$('#input'+identifier).val('')};					
+							break;
+					}					
+					
+					
+					$('#tooltip').css({'width':'200px'});
+					
+					
+											$('#tooltip').css({ 'top': ($('#input'+idfrom).position().top - 10), 'left': ($('#input'+idfrom).position().left + 170)});		
+										
+				
+					$('#tooltip_for').html(name);
+					
+	};
+
+
+	function fill(thisValue, identifier, hideme) {
+		if(hideme != ''){
+			$('#fi'+hideme).hide();
+		}
+//		endmove(this);
+		
+		if(identifier == 'price' && thisValue == ''){
+			$('#inputpricemin').val('');
+			$('#inputpricemax').val('');
+		}
+		if(identifier == 'features'){
+// Make featues click as many as you want UNLESS they have actually clicked clear			
+			if (thisValue == ''){
+				$('#input'+identifier).val(thisValue);
+			} else {
+				if(thisValue.indexOf($('#input'+identifier).val()) != -1) {	
+					$('#input'+identifier).val(thisValue);
+				} else {
+					$('#input'+identifier).val($('#input'+identifier).val() + thisValue);		
+				}
+			}
+
+			var ev = document.createEvent("KeyboardEvent");
+			ev.initKeyEvent('keypress', true, true, null, false, false, false, false, false, 28);
+			document.getElementById('input'+identifier).dispatchEvent(ev); //causes the scrolling
+
+		} else if(identifier == 'pricemax' || identifier == 'pricemin'){
+				$('#input'+identifier).val(thisValue);			
+				setTimeout("$('#suggest').fadeOut();", 1000);
+		} else {
+				$('#input'+identifier).val(thisValue);			
+				setTimeout("$('#suggest').fadeOut();", 100);
+		}
+
+		if (thisValue == ''){
+			$('#input'+identifier).val(thisValue);
+			lookup(1,identifier,'',identifier);
+		}
+		
+		if(identifier == 'pricemax' || identifier == 'pricemin'){
+
+			$displayVal = '';
+			$pricefrom = eval($('#inputpricemin').val());
+			$priceto = eval($('#inputpricemax').val());
+
+			if ($pricefrom >= 2000000) {
+				$('#inputprice').val('$' + $pricefrom + ' and over');
+			} else if($pricefrom && $priceto) {
+					if(eval($pricefrom) > eval($priceto)) { // are they arse about?
+						$('#inputprice').val('$'+$priceto+' to $'+$pricefrom);
+					} else {
+						$('#inputprice').val('$'+$pricefrom+' to $'+$priceto);
+						}
+			} else {
+				if($pricefrom) {
+					$('#inputprice').val('$'+$pricefrom+' and over');
+				} else if($priceto) {
+					$('#inputprice').val('up to $'+$priceto);
+				}
+			}
+		}
+		
+								$('#tooltip').css({ 'top': ($('#input'+identifier).position().top - 10), 'left': ($('#input'+identifier).position().left + 170)});		
+				
+							if(identifier != 'location' || 'lister'){
+			// Reset to default if empty
+					if ($('#inputlocation').val() == '')
+						{$('#inputlocation').val('Location')
+					};
+					if ($('#inputlister').val() == '')
+					{$('#inputlister').val('Agent / Developer')
+					};						
+		} else {
+					if ($('#inputptype').val() == '')
+					{$('#inputptype').val('Property Type')
+					};
+					if ($('#inputfeatures').val() == '')
+					{$('#inputfeatures').val('Features')
+					};
+					if ($('#inputprice').val() == '')
+					{$('#inputtype').val('Price Range')
+					};	
+		}
+			}	
+
+
+
+
+	// Fake the surrounding suburbs
+	function ssubdetect(curval) {
+		if (curval == '0'){
+			$('#ssub').val('1');
+			} else {
+			$('#ssub').val('0');
+			}
+		}
+
+</script><!-- SEARCH BAR-->
+
+<div id="search_gui" class="clean_forms2">
+  <!---->
+  
+  <div id="search_box_refine" class="clean_forms"><p class="refine_txt">Refine this search:
+    </p><form action="http://www.thehomepage.com.au/searchparse.php" method="post" name="searchform" autocomplete="off" class="search_form">
+	      <input type="hidden" size="30" value="false" class="home_input" id="sold" name="sold">
+   	  <input class="clean_input refine_input" type="text" size="30" value="Location" id="inputlocation" name="location" onkeyup="lookup(this.value,'location');" onclick="tooltip('location','Location',this);"> 
+      <input class="clean_input refine_input" type="text" size="30" value="Property Type" id="inputptype" name="ptype" onclick="lookup(1,'ptype',this.value,this);">
+      <input class="clean_input refine_input" type="text" size="30" value="Features" id="inputfeatures" name="features" onclick="lookup(1,'features',this.value,this);">
+      <input class="clean_input refine_input" type="text" size="30" value="Price Range" id="inputprice" name="price" onclick="lookup(1,'price',this.value,this);">
+      <input type="hidden" name="inputpricemin" value="" id="inputpricemin">
+      <input type="hidden" name="state" value="" id="state">      
+      <input type="hidden" name="ssub" value="" id="ssub">            
+      <input type="hidden" name="inputpricemax" value="" id="inputpricemax">
+      <input class="clean_input refine_input" type="text" size="30" value="Agent / Developer" id="inputlister" name="lister" onkeyup="lookup(this.value,'lister');" onclick="tooltip('lister','Agent / Developer',this);">
+      <input type="submit" value="Search" id="home_search2" class="search2" style="text-decoration:underline; outline:none;">
+    </form><p></p>
+  </div>
+
+</div>
+            <div class="dialog" id="suggest" style="z-index: 500; display:none; position:absolute;">
+              <div id="little_arrow" style="position:absolute; left:-7px; top:79px; color:#F00;"></div>
+              <div class="top"><span style="float:right; padding:3px 5px;"><a style="text-decoration:none; color:#000;" onclick="hideall();">x</a></span>
+                <div class="end"></div>
+              </div>
+              <div class="mid">
+                <div class="end">
+                  <div class="suggestionList" id="suggestList" style="padding:10px;"> &nbsp; </div>
+					<div class="clear">&nbsp;</div>
+                </div>
+              </div>
+              <div class="bot">
+                <div class="end"></div>
+              </div>
+            </div>
+
+            <div class="dialog" id="tooltip" style="z-index: 500; display:none; position:absolute;">
+              <div style="position:absolute; left:-7px; top:20px; color:#F00;"></div>
+              <div class="top"><span style="float:right; padding:3px 5px;"><a style="text-decoration:none; color:#000;" onclick="hideall();">x</a></span>
+                <div class="end"></div>
+              </div>
+              <div class="mid">
+              
+                <div class="end" style="padding:10px;">     
+					Start typing your<br> <span id="tooltip_for">&nbsp;</span> search criteria.                    
+					<div class="clear">&nbsp;</div>                   
+                </div>
+              </div>
+              <div class="bot">
+                <div class="end"></div>
+              </div>
+            </div>
+            
+
+<!-- END SEARCH BAR-->
+</div>  
+<!-- END MENU -->
+
+<div style="min-height: 380px; padding:5px;">
+<!-- Content -->
+<div style="min-height:350px; margin:10px 50px;">  <!-- Content --> 
+  <div style="margin: 10px 50px; width: 500px; float: right;"> 
+    <h1>Privacy Policy</h1><br> <br>
+    <p>      This Privacy Policy is made on behalf of <a href="http://www.thehomepage.com.au">www.thehomepage.com.au</a>. All references  to <strong>"TheHomePage"</strong>, <strong>"we"</strong>, <strong>"us"</strong> or <strong>"our"</strong> in this document are references to TheHomePage, ABN  26 472 874 961.&nbsp; <br>
+      This Privacy Policy governs personal information you may supply to us or the  information that is being collected automatically from your web browser. By  using this site (<strong>"the Site"</strong>) you agree to this Privacy Policy  and you agree with collection, use and disclosure of your personal information  in accordance with this Privacy Policy. <br>
+      We reserve the right to modify or remove some parts of the Privacy Policy at  any time.&nbsp; <br>
+  &nbsp; <br>
+  <strong>Use of IP addresses</strong> <br>
+      TheHomePage receives your IP address from your web browser. IP addresses are  recorded in our server log files and database automatically. We use your IP  address to resolve any problems with our server as well as for statistical  information.&nbsp; <br>
+  &nbsp; <br>
+  <strong>Use of cookies</strong> <br>
+      Cookies are small files stored in your computer's memory or hard disk. <br>
+      TheHomePage may set and access cookies on your computer. <br>
+      We use cookies to make your access to the Site easier. When you log in you can  access pages on the Site without supplying your user name and password again,  this is achieved by use of "session cookies".&nbsp; <br>
+  &nbsp; <br>
+  <strong>Information collected on Registration Forms</strong> <br>
+      We collect personal information about you, such as: your e-mail address, title,  name, phone numbers, mobile number and address when you fill out our forms.  This information is collected in order for your contact details to be available  to property vendors, property buyers or estate agents. <br>
+      We also use your email, IP and demographic information to tailor your  experience at our site and to show you the content that we think you may be  interested in and to display content according to your preferences.&nbsp;<br>
+  &nbsp; <br>
+  <strong>Links to other sites</strong> <br>
+      The Site may contain links to other web sites and these sites may have a  different privacy policy to TheHomePage. You should check their privacy policy  before disclosing your personal information. TheHomePage is not responsible for  the privacy practices or the content of such sites, nor are we responsible for  the use or disclosure by others of information you provide to any external  sites.&nbsp; <br>
+  &nbsp; <br>
+  <strong>Use of information</strong> <br>
+      TheHomePage does not sell, rent or share your personal information with other  persons or companies except to provide products and services you requested,  when we have your permission. <br>
+      We will use your personal information for the purpose of improving the Site and  services we provide to you. We may use your personal information to analyse  your needs and site usage. We may also use it to contact you and deliver you  information about our products and services that we think may interest you. <br>
+      By adding a vendors email address to the site, you agree to automatically  subscribing them to our TheHomeFront e-newsletter. Your vendor is free to  unsubscribe from this at their own accord.<br>
+  &nbsp; <br>
+  <strong>Disclosure</strong> <br>
+      Your personal information may be disclosed in special circumstances where it is  required by law, or if we have reason to believe it is necessary to identify or  bring legal action against anybody damaging, injuring or interfering. <br>
+      We may aggregate personal information and disclose this information in  non-personally identifiable manner to third parties for marketing and other  purposes.<br>
+  &nbsp; <br>
+  <strong>Security</strong> <br>
+      We take all reasonable steps to protect any information collected from your  computer or provided by you. Whilst we make our best efforts to ensure your information  is stored securely, TheHomePage will take no responsibility for any breach of  security on the Site.&nbsp; <br>
+  &nbsp; <br>
+  <strong>Access to information</strong> <br>
+      The information you provide to us is accessible by you through the Site. You  will need to use your e-mail address and password to view or modify this  information. <br>
+      You are solely responsible for accuracy of information you provide to us. You  must ensure that your personal information is kept accurate and up to date. TheHomePage  will not be responsible for any information you provide.&nbsp; <br>
+  &nbsp; <br>
+  <strong>Changes to the Privacy Policy</strong> <br>
+      We may make changes to the Privacy Policy from time to time.<br>
+  <strong>Disclaimer </strong><br>
+      TheHomePage is an independent property listing website and it is not a  real-estate agency and the Site does not provide property advice.<br>
+      TheHomePage makes no warranties about the accuracy,  suitability, reliability, preservation or completeness of any information on  the Site, or on any pages or sites linked to the Site. TheHomePage does not  accept any responsibility and disclaim any liability in the event of any  inaccuracies. <br>
+      TheHomePage does not warrant that the information  on the Site is error-free or that access to the Site will be uninterrupted,  does not endorse any opinions expressed by users of the Site or services (the  Service) which provided via the Site. <br>
+    All users of the Site and Service who may rely upon  the information contained on the Site should make their own inquires to verify  the information. </p>
+  </div> <!-- END CONTENT -->
+
+
+
+<div class="dialog_a">
+	<div class="top"><p class="end"></p></div>
+	<div class="mid"><span class="end">
+<br>
+    <ol class="menu_list">
+        <li><a href="/">Home</a></li>
+        <li><a href="/shortlist">My Shortlist</a></li>
+
+        <li><a href="/agent-login">Agent Login</a></li>
+        <li><a href="/about">About Us</a></li>
+        <li><a href="/contact">Contact Us</a></li>
+        
+        <li><a href="/privacy">Privacy Policy</a></li><br>
+
+</ol>
+
+    </span></div>
+	<div class="bot"><p class="end"></p></div>
+</div>
+
+</div>
+<!-- /Content -->
+
+</div>
+<!-- END MENU -->
+  <!-- FOOTER-->   
+<div id="footer">
+    <ul>
+    	        <li class="first"><a href="/" style="color:#222;">Home</a></li>
+        <li><a href="/search-sold">Sold Gallery</a></li>
+        <li><a href="/shortlist">My Account</a></li>        
+        <li><a href="/agent-listings">Lister Login</a></li>
+        <li><a href="/contact">Contact Us</a></li>
+        
+           
+    </ul>
+    <br class="clear">
+</div>
+<!-- END FOOTER--> 
+		
+	</div>
+	<!-- END MAIN -->
+	<div class="bl"></div><div class="br"></div>
+</div>
+<!-- END CONTAINER -->
+
+<div id="bottom_footer">
+
+<div id="footer2">
+      <div id="bottom_nav"> <a href="http://www.thehomepage.com.au/thp-terms">Terms &amp; Conditions</a>
+           <div class="sub_bottom_nav"><a href="http://www.thehomepage.com.au/thp-privacy">Privacy policy</a></div>
+           <div class="sub_bottom_nav"><a href="http://www.thehomepage.com.au/thp-terms">terms &amp; conditions</a></div>
+           <div class="sub_bottom_nav"><a href="http://www.thehomepage.com.au/thp-terms-of-use">terms of use</a></div>           
+     </div>
+   
+      <div id="bottom_nav"> <a href="http://www.thehomepage.com.au/thp-advertise">Advertise</a> 
+           <div class="sub_bottom_nav"><a href="http://www.thehomepage.com.au/pdf/THP Booking Form">booking form</a></div>
+           <div class="sub_bottom_nav"><a href="http://www.thehomepage.com.au/pdf/THP Flash File Walk Through">flash file walk through</a></div>
+     </div>
+     
+         <div id="bottom_nav"> <a href="http://www.thehomepage.com.au/thp-faq">Information</a> 
+           <div class="sub_bottom_nav"><a href="http://www.thehomepage.com.au/thp-faq">FAQ's</a></div>
+           <div class="sub_bottom_nav"><a href="http://www.thehomepage.com.au/pdf/THP Developers Step Through">developers step through</a></div>
+           <div class="sub_bottom_nav"><a href="http://www.thehomepage.com.au/pdf/THP Agents Step Through">agents step through</a></div>
+           <div class="sub_bottom_nav"><a href="http://www.thehomepage.com.au/popular-searches">Popular Searches</a></div>
+         </div>
+     
+      
+     <div id="bottom_nav"> <a href="http://www.thehomepage.com.au/thp-about">About us</a>
+           <div class="sub_bottom_nav"><a href="http://www.thehomepage.com.au/pdf/THP Agents Benefits">Agents Benefits</a></div>
+     </div>
+     
+ </div>
+ <br class="clear">
+
+
+</div>
+
+<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	try {
+	var pageTracker = _gat._getTracker("UA-11833571-1");
+	pageTracker._setDomainName(".thehomepage.com.au");
+	pageTracker._trackPageview();
+	} catch(err) {}</script>
+</body></html>
