@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the girlgamesplaza.com privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502181206id_/http%3A//www.girlgamesplaza.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlgamesplaza.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206051335id_/http%3A//www.girlgamesplaza.com/privacypolicy) for the most accurate reproduction.*
 
-# Girl Games - Dress Up Games - Games For Girls - Privacy Policy
+# Girl Games - Games For Girls - Privacy Policy
 
 ****  
 ---  
    
 Not a Member Yet?  
   
-80 Tokens Left  
+716 Tokens Left  
 Becoming a member is easy and has many benefits!  
   
 [](http://www.girlgamesplaza.com/index.php?action=register)  
@@ -20,14 +20,3 @@ We work to protect the security of your information during any data transmission
 This Privacy Statement may be subject to change without notice. This notice will still govern your use of our services and it is your responsibility to review them for any occurring changes.  
 Girlgamesplaza.com does not sell products on its own. If you are under 18, you may use the services and offers only with involvement and approval of a parent.  
 If you choose to visit our website and use our services in any way, your visit and any dispute over privacy is subject to this Privacy Statement and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state. Our business changes constantly. This Privacy Statement and the Conditions of use will change too and use of information that we gather now is subject to the Privacy Statement in effect at the time of use. You should check our website frequently to see any new changes. 
-
-Site Statistics
-
-Total Games: 1347  
-Played Today: 579  
-Overall Played: 116600  
-Total Members: 32  
-Newest Member: [malcolmomason](http://www.girlgamesplaza.com/profiles/110/malcolmomason.html "Click to View Profile")  
-Total Users Online: 5 
-
-(0 members and 5 guests) 
