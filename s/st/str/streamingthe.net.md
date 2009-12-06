@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streamingthe.net privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622043247id_/http%3A//streamingthe.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamingthe.net privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206230423id_/http%3A//streamingthe.net/privacy.php) for the most accurate reproduction.*
 
 # StreamingThe.Net - Free Live TV & Radio
 
