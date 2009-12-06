@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the netgate.com privacy policy that was archived on 2009-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090510043755id_/http%3A//www.netgate.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netgate.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206180002id_/http%3A//www.netgate.com/privacy.php) for the most accurate reproduction.*
 
 # Netgate
 
 This is the web site of Rubicon Communications, LP, DBA Netgate (hereafter referred to as Netgate). 
 
 Our postal address is:   
-4224 Waialae Ave  
-Suite 5 PMB 551  
-Honolulu, HI 96816-5330
+4348 Waialae Ave  
+Suite 551  
+Honolulu, HI 96816
 
 We can be reached via:  
 e-mail: sales@netgate.com  
