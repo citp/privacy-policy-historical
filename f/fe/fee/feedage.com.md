@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feedage.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604192621id_/http%3A//www.feedage.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedage.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206035104id_/http%3A//www.feedage.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Feedage - Privacy policy
 
@@ -13,3 +13,5 @@ Except as set out above, we will not sell, rent or otherwise disclose any person
 We will not use personal information we collect from you for purposes other than those for which the information was collected, without asking for appropriate permission prior to such use. 
 
 We may use your name and address information to send you catalogs and other product and service information that we believe you may find of interest if, permitted by law. You may opt out of receiving such catalogs and other product and service information (including, but not limited to, marketing research and/or being contacted by a researcher) at any time by calling our consumer service number in your country or by sending an e-mail - Go to our Service area. 
+
+Google, as a third party vendor, uses cookies to serve ads on this site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to this sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
