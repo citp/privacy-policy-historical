@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domainsuperstar.com privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612021243id_/http%3A//www.domainsuperstar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainsuperstar.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206190321id_/http%3A//www.domainsuperstar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DomainSuperstar.com
 
@@ -25,3 +25,5 @@ Note that you can change your browser settings to disable cookies if you have pr
 ### Contact Information
 
 Concerns or questions about this privacy policy can be directed to info@domainsuperstar.com for further clarification.
+
+**Quick Links to Bookmark and Promote:**
