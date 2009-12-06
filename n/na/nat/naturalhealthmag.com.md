@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturalhealthmag.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620102510id_/http%3A//www.naturalhealthmag.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalhealthmag.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206115031id_/http%3A//www.naturalhealthmag.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Natural Health
 
