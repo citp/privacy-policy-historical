@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the egencia.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619211040id_/http%3A//www.egencia.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egencia.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206032938id_/http%3A//www.egencia.com/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Egencia, An Expedia, Inc. Company
 
 Below you will find the privacy policy for Egencia.com. Effective July 18, 2008, Expedia Corporate Travel has changed its name to Egencia LLC. This name change has no effect on our data handling practices. 
 
