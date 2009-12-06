@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bandai.com privacy policy that was archived on 2009-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090324062806id_/http%3A//www.bandai.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bandai.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206080241id_/http%3A//www.bandai.com/legal/privacy.php) for the most accurate reproduction.*
 
 # Bandai.com - Privacy Policy: find toys for Power Rangers, Ben 10, Dragon Ball, Tamagotchi, and Action Figures
 
@@ -32,15 +32,15 @@ The information we collect may, at times, be used for the following:
 All information collected will be used solely by Bandai and not given, sold, or otherwise transferred to third parties in a personally identifiable form.
 
 **How can I contact you?**  
-At any time, a parent may request to view the personal information collected by BAI related to that parent's child, may request their child's information to be deleted from our system or to request that further information not be collected from their child. To initiate such a request, email [webmaster@bandai.com](http://www.bandai.com/contact/contact.html) stating the full name the child used to register at the BAI website.
+At any time, a parent may request to view the personal information collected by BAI related to that parent's child, may request their child's information to be deleted from our system or to request that further information not be collected from their child. To initiate such a request, email [webmaster@bandai.com](http://www.bandai.com/contact/contact.php) stating the full name the child used to register at the BAI website.
 
-If you have any questions or comments on this policy, please feel free to email [webmaster@bandai.com](http://www.bandai.com/contact/contact.html) or contact to us at:
+If you have any questions or comments on this policy, please feel free to email [webmaster@bandai.com](http://www.bandai.com/contact/contact.php) or contact to us at:
 
 > Bandai America Incorporated  
 >  5551 Katella Avenue  
 >  Cypress, CA 90630  
 >  714.816.9560  
->  [customerservice@bandai.com](http://www.bandai.com/contact/contact.html)  
+>  [customerservice@bandai.com](http://www.bandai.com/contact/contact.php)  
 > 
 
 In order to be in compliance with the legal requirements or to provide better customer service, BAI reserves the right to modify this policy. Any changes to the policy will be posted on our site. Thank you for taking the time to read this policy.
