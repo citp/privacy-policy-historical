@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the stdtestexpress.com privacy policy that was archived on 2009-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090521093717id_/http%3A//www.stdtestexpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stdtestexpress.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206105329id_/http%3A//www.stdtestexpress.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Std Test Express
 
-[](http://www.truste.org/ivalidate.php?url=www.stdtestexpress.com&sealid=101)
+* * *
+
+[](http://www.truste.org/ivalidate.php?url=www.stdtestexpress.com&sealid=101)[](http://www.ashastd.org/ashaseal.cfm)
 
 There is nothing more personal and private than your healthcare information. STD Test Express was founded on the principle that all information about your health status, provision of healthcare services, or payment for your health care must remain under your control to the greatest extent allowed by law.
 
 ### How does STD Test Express protect my privacy?
-
-STDTestExpress does not require your real name or any personally identifiable information in order to get an STD test. When you visit the testing center, the staff will accept your test request form and will not require a photo ID. We are so committed to keeping your personal information private that we have facilitated a credit card payment process which allows you to pay by credit or debit card without supplying your name and billing address. When you receive your credit card statement, the charge will appear from "PHN Services."
 
 With your permission, the physicians who will counsel you regarding your results will have access to your personal health information. STD Test Express will only release this information in accordance with the Health Insurance Portability and Accountability Act (HIPAA).
 
@@ -17,11 +17,14 @@ Some state laws require positive test results for HIV and other STDs to be repor
 ### STD Test Express will not misuse your personal information.
 
   * **We will not sell your information.**
-  * **We will not mail you unwanted information.** All email communication and billing information will come from "PHN Services".
+  * **We will not mail you unwanted information.** We will never mail anything to your home address, all written communication is sent via email. All email communication and billing information will come from "PHN Services".
   * **We will not distribute your e-mail address.**
-  * **We will not store credit card information.** When ordering and viewing your account information your session is encrypted using industry-standard 128-bit SSL encryption. The only credit card information that is stored is the last four digits of your number.
+  * **We will not store credit card information.** We keep credit card information safe never storing anything other than the last four digits and transferring all financial information using a Secure Socket Layer (SSL encryption).
   * **We will maintain security of our systems and information.**
-  * **We will destroy your test results data after 90 days or at your request.**
+  * **We destroy all personally identifiable results data after 90 days.** This policy ensures you have access to your own results data for a full 90 days. After that time, we destroy all personally identifiable results data. The complete destruction process, including removal from our backup database, can take up to an additional 10 days.
+  * **We will not call you with marketing solicitations or unnecessary status updates.** STD Test Express provides telephone access for your questions from 8:00 - 5:00 Central time M-F. We do not support outbound telemarketing. We use email to communicate with you about general test and order status. If we do need to use the telephone because we have not been able to reach you via email, we do so with great discretion and never leave an identifying message.
+  * **Many systems integrations use an HL-7 interface, the industry-standard for secure personal health information data transaction.** All systems integrations occur over SSL.
+  * **Links to Other Sites.** Our websites may contain links to other sites. Please be aware that STD Test Express is not responsible for the privacy practices of such other sites. We encourage our customers to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this website. 
 
 
 
@@ -57,4 +60,4 @@ Chicago, IL 60654
 
 We look forward to hearing from you. We wish you the best of health.
 
-_Updated: February 24, 2009_
+_Updated: September 25, 2009_
