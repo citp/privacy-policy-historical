@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billshrink.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620180745id_/http%3A//www.billshrink.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billshrink.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206015427id_/http%3A//www.billshrink.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
