@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the arizonahighways.com privacy policy that was archived on 2009-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090513223125id_/http%3A//arizonahighways.com/sitelink/index.cfm%3FcontentID%3D187) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arizonahighways.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206130736id_/http%3A//www.arizonahighways.com/sitelink/index.cfm%3FcontentID%3D187) for the most accurate reproduction.*
 
 # -Arizona Highways Magazine - Arizona Department of Transportation - www.arizonahighways.com-
-
-PRIVACY POLICY
-
-Privacy Statement
 
 This is the Web site of _Arizona Highways_ magazine. We are a division of the Arizona Department of Transportation, State of Arizona.
 
