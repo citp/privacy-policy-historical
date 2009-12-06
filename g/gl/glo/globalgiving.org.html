@@ -1,143 +1,193 @@
-<!--The following is the downloaded HTML source of the globalgiving.org privacy policy that was archived on 2009-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090623071829id_/http%3A//www.globalgiving.com/aboutus/privacypol.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the globalgiving.org privacy policy that was archived on 2009-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091206130305id_/http%3A//www.globalgiving.org/aboutus/privacypol.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-
-
-
-
- 
-  
- 
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
+	<!-- undef -->
+	<title>Privacy Policy - GlobalGiving</title>  
+<!--
+	parts for the <head></head> part of the page
+-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 
-        
-        
-        
-
-
-
-
-  <!-- ****** TITLE ET AL ***** -->
-<title>Privacy Policy | GlobalGiving</title>
+<!-- ****** TITLE ET AL ***** -->
 <meta http-equiv="Content-type" content="text/html; charset=utf-8">
 <meta http-equiv="Content-Script-Type" content="text/javascript">
 <meta http-equiv="Content-Style-Type" content="text/css">
-<link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="shortcut icon" href="/favicon.ico" type="image/vnd.microsoft.icon">  
+
 
 <!-- ****** STYLESHEETS ***** -->
-<link href="/css_old/style.css" rel="stylesheet" type="text/css">
+<link href="/css/styles.css" rel="stylesheet" type="text/css">   
+<link media="only screen and (max-device-width: 480px)" href="/css/patches/iPhone_patch.css" type="text/css" rel="stylesheet">  
+<!-- patches so that they are available if necessary, empty so far -->
 <!--[if lte IE 7]>
-<link href="/css_old/patches/ie_patch.css" rel="stylesheet" type="text/css">
+<link href="/css/patches/ie7_patch.css" rel="stylesheet" type="text/css"/>
 <![endif]-->
 <!--[if lte IE 6]>
-<link href="/css_old/patches/ie6_patch.css" rel="stylesheet" type="text/css">
-<![endif]-->
+<link href="/css/patches/ie6_patch.css" rel="stylesheet" type="text/css"/>
+<![endif]--> 
 
-<!-- ****** JAVASCRIPT ***** -->
-<script type="text/javascript" language="javascript" src="/javascript/commonScripts.js"></script>
+
+
+
+<!-- ****** JAVASCRIPT ***** 
+## Trying to debug/develop? Open up commonScripts.js and follow the instructions at the bottom to revert to debug mode. --> 
+<script type="text/javascript" src="/javascript/commonScripts.js"></script>
+
+<!-- ## This variable is used to include an additional JavaScript file. -->
 <!-- undef -->
+
+
+ 
+
+
+<!-- ****** RSS ***** 
+## These are used to define any RSS feeds that should be attached to the page.
+## You can attach up to two (2) different RSS feeds. --> 
+
+
+
+
+<!-- ****** META *****  -->
+
+<!-- undef --> 
+ 
+
+<!-- description setting-->  
+
+
+<!-- Facebook photo-->
+  
+</head> 
+
+<!-- ###############
+## This sets an id for the page that we can use to inherit correct styles on. This lets you do things 
+## like "#pageId_<id> #<someOtherId>" and define different styles for common elements based on the context.
+## It's currently just used to pick the right background for the header (either short, medium, or tall) in layout.css. 
+## 
+## To keep changes simple, we're able to infer the basic page type from all of the other apache vars we're already setting. 
+## This means one less variable for every page to set!
+## 
+## And, if these rules don't work for a particular page, it just has to provide a page id and it will use that one! Nifty!
+###############
+## KMC TODO: Ideally, I want to drop the pageId prefix, but since this is a very last minute
+## addition, I wanted to add a prefix to make sure that I didn't end up duplicating another
+## id field deep in the site. We can do a search and test it without a prefix when we have more time.
+###############   -->
+
+
+    
+
+    
+
+    
+        
         
 
-<!-- ****** RSS ***** -->
-<!-- ****** META ***** --><!-- undef -->
-</head>
-
-    
-    
-    
-        
-    
-        
-        
-    
 <body onload="pageOnLoad()" id="pageId_general">
-<noscript>
-<div id="noscript_spacer">
-&nbsp;
-</div>  
-</noscript>
+
+	<noscript>
+		<div id="noscript_spacer">
+			&nbsp;
+		</div>  
+	</noscript> 
+	<div id="headerWrapper" class="headerFooterWrapper">
 	<!--*****************************-->
-	<!--START Exit survey drop-in    -->
-	<!--*****************************-->
-	<div id="exitSurvey" class="bodytext" style="display:none; cursor: default"> 
-	  <img src="/img/logos/horz_gglogo_white.gif" alt="GlobalGiving logo">
-	  <p>
-	    Please help improve GlobalGiving.com <br>
-		by answering <strong>just 3 questions</strong> <br>
-		when you finish your visit.
-	  </p>       
-	  <input type="button" id="okbutt" value="Yes"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	  <input type="button" id="cancelbutt" value="No, thanks"> 
-	</div>        
-	<!-- hidden div used by jquery to store data -->
-	<div id="stuff" style="display:none;">
-	</div>
-	<!--*****************************-->
-	<!--END Exit survey drop-in      -->
-	<!--*****************************-->
-<div id="gutter">
-    <div id="page_margins">
-        <div id="header">
-            <div id="border-top">
-                <div id="edge-tl"></div>
-                <div id="edge-tr"></div>
-            </div>
-            
-            <div id="headerMargins">
-                <div id="logo">
-                    <a href="/"><img src="/img/logos/globalgiving_tagline.png" alt="GlobalGiving - A Million Little Earth-Changing Ideas"></a>
-                </div>
-                
-                <div id="topnav"><!-- Start: Skip link navigation for CSS disabled browsers -->
+<!--START Exit survey drop-in    -->
+<!--*****************************-->
+<div id="exitSurvey" class="bodytext" style="display:none; cursor: default"> 
+    <img src="/img/logos/horz_gglogo_white.gif" alt="GlobalGiving logo">
+    <p>
+        Please help improve GlobalGiving.org <br>
+        by answering <strong>just 3 questions</strong> <br>
+        when you finish your visit.
+    </p>       
+    <input type="button" id="okbutt" value="Yes"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <input type="button" id="cancelbutt" value="No, thanks"> 
+</div>        
+<!-- hidden div used by jquery to store data -->
+<div id="stuff" style="display:none;">
+</div>
+<!--*****************************-->
+<!--END Exit survey drop-in      -->
+<!--*****************************-->
+                   
+
+	<div id="header" class="siteWrapper">
+		<div id="border-top">
+			<div id="edge-tl"></div>
+			<div id="edge-tr"></div>
+		</div>
+
+		<div id="headerMargins">
+			<div id="logo">
+				<a href="/"><img src="/img/logos/globalgiving_tagline.png" alt="GlobalGiving - A Million Little Earth-Changing Ideas"></a>
+			</div>
+
+			<div id="topnav">
+			    
+					<!-- Start: Skip link navigation for CSS disabled browsers -->
 <a class="skip" href="#navigation">Skip to the navigation</a><span class="hideme">.</span>
 <a class="skip" href="#contentLink">Skip to the content</a><span class="hideme">.</span>
 <!-- End: Skip link navigation for CSS disabled browsers -->
-  
-    
-         <!-- Giving Cart, My Account / Create An Account, Login / Logout -->
+
+
+<!-- Giving Cart, My Account / Create An Account, Login / Logout -->
 <div id="links">
-    <!-- gguk -->
-    <div id="ukLink">
-        <a href="http://www.globalgiving.co.uk" class="ukText">Do you live in the UK?</a> <a href="http://www.globalgiving.co.uk"><img border="0" alt="GlobalGiving UK" src="/img/flags/gb.gif"></a>
-    </div>
-    
-    <!--login box-->
-    <!--loading arrow-->
-    <div id="loadinglogin" style="display: none;">
-       <img src="/img/animated_gif/loading_arrow.gif" alt="Loading...">
-    </div>
-    <!--end loading arrow-->
-    
-    <!--login area-->
-    <div id="nologindiv" style="display: inline;">
-    	<ul>
-          <li><a href="/dy/cart/view/gg.html?cmd=gcart"><img src="/img/icons/cart.gif" class="icon_topnav" alt="Giving Cart"></a><a href="/dy/cart/view/gg.html?cmd=gcart" id="givingCartLink">giving cart</a></li>
-          <li><a href="/dy/login/gg.html?cmd=login&amp;fromca=true&amp;show=createAccount"><img src="/img/icons/createAccount.gif" alt="Create an Account" class="icon_topnav"></a><a href="/dy/login/gg.html?cmd=login&amp;fromca=true&amp;show=createAccount">create an account</a></li>
-          <li><a href="/dy/login/gg.html?cmd=login&amp;show=login"><img src="/img/icons/login.gif" alt="Login" class="icon_topnav"></a><a href="/dy/login/gg.html?cmd=login&amp;show=login">login</a></li>
-	    </ul>
-    </div>
-    <!--end login area-->
-    
-    <!--logged in area-->
-    <div id="loggedindiv" style="display: none;">
-	    <div id="login_name" class="bold">Welcome</div>
-    	<ul>
-    		<li><a href="/dy/cart/view/gg.html?cmd=gcart"><img src="/img/icons/cart.gif" class="icon_topnav" alt="Giving Cart"></a><a href="/dy/cart/view/gg.html?cmd=gcart">giving cart</a></li>
-    		<li><a href="/dy/user/view/gg.html?cmd=showprof"><img src="/img/icons/myAccount.gif" class="icon_topnav" alt="My Profile"></a><a href="/dy/user/view/gg.html?cmd=showprof">my profile</a></li>
-    		<li><a href="javascript:void(0);" onclick="Logout();"><img src="/img/icons/logout.gif" class="icon_topnav" alt="Logout"></a><a href="javascript:void(0);" onclick="Logout();">logout</a></li>
-	    </ul>
-    </div>  
-    <!--end logged in area-->
-    <!--end login box-->
-</div>
+	<!-- gguk -->
+	<div id="ukLink">
+		<a href="http://www.globalgiving.co.uk" class="ukText">Do you live in the UK?</a> <a href="http://www.globalgiving.co.uk"><img alt="GlobalGiving UK" src="/img/flags/gb.gif"></a>
+	</div>
+
+	<!--loading arrow-->
+	<div id="loadinglogin" style="display: none;">
+		<img src="/img/animated_gif/loading_arrow.gif" alt="Loading...">
+	</div>
+	<!--end loading arrow-->
+
+	<!--logged in area-->
+	<div id="loggedindiv" style="display: none;">
+        
+            
+        
+		<div id="login_name"><strong></strong></div>
+		<ul>
+			
+			
+			<li><a href="/dy/cart/view/gg.html?cmd=gcart"><img src="/img/icons/cart.gif" class="icon_topnav" alt="Giving Cart"></a><a href="/dy/cart/view/gg.html?cmd=gcart">giving cart</a></li>
+			<li><a href="/dy/user/view/gg.html?cmd=showprof"><img src="/img/icons/myAccount.gif" class="icon_topnav" alt="My Profile"></a><a href="/dy/user/view/gg.html?cmd=showprof">my profile</a></li>
+			<li><a href="javascript:void(0);" onclick="Logout();"><img src="/img/icons/logout.gif" class="icon_topnav" alt="Logout"></a><a href="javascript:void(0);" onclick="Logout();">logout</a></li>
+		</ul>
+	</div>  
+	<!--end logged in area-->
+
+	<!--login area-->
+	<div id="nologindiv" style="display: inline;">
+		<ul>
+			<li><a href="/dy/cart/view/gg.html?cmd=gcart"><img src="/img/icons/cart.gif" class="icon_topnav" alt="Giving Cart"></a><a href="/dy/cart/view/gg.html?cmd=gcart" id="givingCartLink">giving cart</a></li>
+			<li><a href="/dy/v2/login/form.html?show=createAccount"><img src="/img/icons/createAccount.gif" alt="Create an Account" class="icon_topnav"></a><a href="/dy/v2/login/form.html?show=createAccount">create an account</a></li>
+			<li><span id="loginRefBird"><a href="/dy/v2/login/form.html?andthen=https%3A//web.archive.org/web/20091206130305id_/http%253A//www.globalgiving.org/aboutus/privacypol.html"><img src="/img/icons/login.gif" alt="Login" class="icon_topnav"></a></span><span id="loginRef"><a href="/dy/v2/login/form.html?andthen=https%3A//web.archive.org/web/20091206130305id_/http%253A//www.globalgiving.org/aboutus/privacypol.html">login</a></span></li>
+		</ul>
+	</div> 
+	<script type="text/javascript" charset="utf-8">
+		<!--
+		var currentLocation = escape(document.location); 
+		var loginUrl='<a href="/dy/v2/login/form.html?andthen='+currentLocation+'">login</a>';
+		var loginUrlBird ='<a href="/dy/v2/login/form.html?andthen='+currentLocation+'"><img src="/img/icons/login.gif" alt="Login" class="icon_topnav"/></a>'; 
+		$('#loginRef').html(loginUrl);
+		$('#loginRefBird').html(loginUrlBird);
+		--> 
+	</script>
+	<!--end login area-->
+</div>                   
+			    
+			</div>
+
+			<div id="nav"> 
+				<!-- The following sets up the vars display settings for apache so we can default to the right page. -->
 
 
-    
-	                </div>
-                
-                <div id="nav">
 
 
 
@@ -166,142 +216,205 @@
 
 
 <div id="nav_main">
-<ul>
-	<li id="home" class="">
-	   <a href="/" class="head_menu"><img class="nav_menu_img" src="/img/navigation/globalgiving/unselected/home.png" alt="Home"></a>
-	</li>
-	<li id="find" class="">
-	   <a href="/dy/v2/content/browse.html" class="head_menu"><img class="nav_menu_img" src="/img/navigation/globalgiving/unselected/find.png" alt="Find a Project"></a>
-	</li>
-	<li id="gifts" class="">
-	   <a href="/gifts/" class="head_menu"><img class="nav_menu_img" src="/img/navigation/globalgiving/unselected/gifts.png" alt="Gift Cards"></a>
-	</li>
-	<li id="givingTools" class="">
-	   <a href="/givingtools/" class="head_menu"><img class="nav_menu_img" src="/img/navigation/globalgiving/unselected/givingTools.png" alt="Giving Tools"></a>
-	</li>
-	<li id="about" class="">
-    	<a href="/aboutus/" class="head_menu"><img class="nav_menu_img" src="/img/navigation/globalgiving/unselected/about.png" alt="About"></a>
-	</li>
-	<li id="remaining_nav">&nbsp;</li>
-	<li id="search_nav">
-		<!-- Search -->
-		<div id="searchDiv">
-			<!--new search-->
-			<form id="searchbox" name="search" onsubmit="return true;" action="/dy/v2/content/search.html" method="get">
-                <input type="text" name="q" id="search" maxlength="100">
-                <input type="submit" value="Search">
-            </form>
-			<!--end new search-->
-		</div>
-	</li>
-	<li id="right_nav">&nbsp;</li>
-</ul>
+	<ul>
+		<li id="home" class="notSelected">
+			<a href="/" class="head_menu"><img class="nav_menu_img" src="/img/navigation/globalgiving/unselected/home.png" alt="Home"></a>
+		</li>
+		<li id="find" class="notSelected">
+			<a href="/dy/v2/content/browse.html" class="head_menu"><img class="nav_menu_img" src="/img/navigation/globalgiving/unselected/find.png" alt="Find a Project"></a>
+		</li>
+		<li id="gifts" class="notSelected">
+			<a href="/gifts/" class="head_menu"><img class="nav_menu_img" src="/img/navigation/globalgiving/unselected/gifts.png" alt="Gift Cards"></a>
+		</li>
+		<li id="givingTools" class="notSelected">
+			<a href="/givingtools/" class="head_menu"><img class="nav_menu_img" src="/img/navigation/globalgiving/unselected/givingTools.png" alt="Giving Tools"></a>
+		</li>
+		<li id="about" class="notSelected">
+			<a href="/aboutus/" class="head_menu"><img class="nav_menu_img" src="/img/navigation/globalgiving/unselected/about.png" alt="About"></a>
+		</li>
+		<li id="remaining_nav">&nbsp;</li>
+		<li id="search_nav">
+			<!-- Search -->
+			<div id="searchDiv">
+				<!--new search-->
+				<form id="searchbox" onsubmit="return true;" action="/dy/v2/content/search.html" method="get">  
+					<div>
+					<input type="text" name="q" id="search" maxlength="100">
+					<input type="submit" value="Search">    
+					</div>
+				</form>
+				<!--end new search-->
+			</div>
+		</li>
+        <li id="right_nav">&nbsp;</li>
+	</ul>
 </div>
 
 <!--sub nav -->
 <div id="sub_menu_div">
 	
+
 	
+
 	
+
 	
-	
-	
-	
-	
+
 	
 </div>
-
-                </div>
-            </div>
-        </div>
-          
-        <div id="page">            
-                        
-            <div id="main">
-            			
-			<div id="mainHeader"><div><div> </div></div></div>
-			
-						
-			
-                <div id="contentAndBreadcrumbs">	
-		<!--breadcrumb-->
-		<div id="breadcrumbs">
-		<a href="/index.html">Home</a>&nbsp;&gt;&nbsp;Privacy Policy
+     
+			</div>
 		</div>
-		<!--end breadcrumb-->
+	</div> 
+	</div>   
+	 
+	<!-- default template -->
+	<div id="siteWrapperDiv" class="siteWrapper">	<!-- START wrapper DIV --> 
+	<div id="whiteMarginBox"> 
+		<div id="mainHeader"><!-- START top  rounded corners-->
+			<div>
+				<div> 
+				</div>
+			</div>
+		</div><!-- END top rounded corners -->
+	<div class="container_12 contentBox"> 
+		 
 	
-	        
-                    <!-- skiplink anchor: content -->
-                    <a id="contentLink" name="contentLink"></a>
-                    <div id="content">
+	<!--breadcrumb-->
+	<div id="breadcrumbs">
+	<a href="/index.html">Home</a>&nbsp;&gt;&nbsp;Privacy Policy
+	</div>
+	<!--end breadcrumb-->
+
+<script type="text/javascript" charset="utf-8">   
+    var matchTag = /<(?:.|\s)*?>/g; 
+    var homeTag = "Home&nbsp;&gt;&nbsp;" 
+    var spacerTag =  /(&nbsp;&gt;&nbsp;)/g;
+    var singleSpace = /(\&nbsp\;)+/g; 
+	var ggPageName;
+if($('#breadcrumbs').html()!=null){
+	//alert($('#breadcrumbs').html().replace(matchTag, "").replace(homeTag,"").replace(spacerTag," ").replace(singleSpace," "));
+	ggPageName = $('#breadcrumbs').html().replace(matchTag, "").replace(homeTag,"").replace(spacerTag," ").replace(singleSpace," ");
+	ggPageName = jQuery.trim(ggPageName); 
+	
+}
+else{ 
+	var nonBreadcrumbLocation = document.location.pathname;   
+	// assign the index manually
+	if(nonBreadcrumbLocation =="/")
+	{
+		nonBreadcrumbLocation = "index";
+	} 
+	// strip the first occurence of the '/'
+	else{
+		nonBreadcrumbLocation = nonBreadcrumbLocation.substring(1,nonBreadcrumbLocation.length);
+	} 
+	//chop of the last char if it is a '/' 
+	var lastChar = nonBreadcrumbLocation.substring(nonBreadcrumbLocation.length-1,nonBreadcrumbLocation.length);  
+	if(lastChar=="/")  {
+		nonBreadcrumbLocation = nonBreadcrumbLocation.substring(0,nonBreadcrumbLocation.length-1);
+	}
+	var slashTag = /\/+/g;
+	nonBreadcrumbLocation = nonBreadcrumbLocation.replace(slashTag,",") ;
+	//alert("the last char: "+nonBreadcrumbLocation.substring(nonBreadcrumbLocation.length-1,nonBreadcrumbLocation.length));
+	//alert(nonBreadcrumbLocation);    
+	ggPageName = jQuery.trim(nonBreadcrumbLocation);  
+}   
+</script>
+	 
+
+
+
 
 
 <!--privacy policy-->
-<table cellpadding="0" cellspacing="0" class="bodycontainer">
-<tbody><tr>
-<td>
 
+  <div class="grid_12 alpha">
+      <h1>GlobalGiving Privacy Policy</h1>  
+ <img alt="privacy policy banner" src="http://cloud.globalgiving.org/img/banner_collages/banner_collage2.jpg"> 
+  </div>
   <!--page title-->
-  <table cellpadding="0" cellspacing="0" width="100%">
-    <tbody><tr>
-    <td>
-    <h1>GlobalGiving Privacy Policy</h1>
-    </td>
-    </tr>
-    <tr>
-    <td class="pagebanner_space">
-    <img alt="privacy policy banner" src="/img/banner_collages/banner_collage2.jpg">
-    </td>
-    </tr>
-  </tbody></table>
+   
+
+   
+
   <!--end page title-->
 
   <!--content-->
-  <table cellpadding="0" cellspacing="0" width="100%">
-  <tbody><tr>
-  <td>
 
+  <div class="grid_9 alpha">
   <p>
-GlobalGiving values you and respects your privacy. We collect information to support our relationship with you, improve our services, and communicate 
-about promotions or special services. GlobalGiving recognizes that we must maintain and use information responsibly.
-  </p>
+	GlobalGiving values you and respects your privacy. We collect information to support our 
+	relationship with you, improve our services, and communicate about promotions or special 
+	services. GlobalGiving recognizes that we must maintain and use information responsibly.
+  </p>  
+	<p>   
+	GlobalGiving adheres to the US Safe Harbor Privacy Principles of Notice, Choice, Onward 
+	Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the U.S. 
+	Department of Commerce. 
+	
+	</p>
 
-  <p>
-This policy describes what personal information we collect and how we use it.  You can always find the most current version of our privacy policy at <a href="/aboutus/privacypol.html">www.globalgiving.com/aboutus/privacypol.html</a>.
-  </p>
+  <p>This policy describes what personal information we collect and how we use it. You can always 
+	find the most current version of our privacy policy at <a href="/aboutus/privacypol.html">www.globalgiving.org/aboutus/privacypol.html</a>. 
+</p>
+   </div>  
+<div class="clear960">
+	     &nbsp;
+</div> 
+ 
+ <div class="grid_3 alpha">
+ 	<ul class="noListStyle">
+     <li><a href="#0">Information Collection</a></li>
+	 <li><a href="#1">Creating globalgiving.org Account</a></li>
+	 <li><a href="#2">Making a Donation</a></li>
+	 <li><a href="#3">Gift Cards</a></li>
+	 <li><a href="#3b">Donations in Honor/Memory of Someone</a></li>
+	 <li><a href="#4">Contests, Promotions, and Surveys</a></li>  
+	</ul>
+ </div>
+  <div class="grid_3">
+  	<ul class="noListStyle">
+     <li><a href="#4a">Creating a Fundraiser or Registry</a></li>
+	 <li><a href="#5">Technical Information</a></li>
+	 <li><a href="#5a">Use of Information</a></li>
+	 <li><a href="#6">Disclosure of Information</a></li>
+	 <li><a href="#6a">Information about Children Under 13</a></li>
+	 <li><a href="#7">Viewing and Updating Your Information on GlobalGiving</a></li>
+	</ul>
+  </div>
+  <div class="grid_3 omega">
+    <ul class="noListStyle"> 	
+     <li><a href="#8">Links to Other Websites</a></li>
+	 <li><a href="#8a">Security</a></li>
+	 <li><a href="#9">Privacy Policy Updates</a></li>
+	 <li><a href="#10">Contact Us</a></li>
+	</ul>
+  </div> 
 
-  <p>
-  </p><ul>
-  <li><a href="#0">Collection and Use of Personal Information</a></li>
-  <li><a href="#1">Your globalgiving.com Account</a></li>
-  <li><a href="#2">Making a Donation</a></li>
-  <li><a href="#3">Gift Cards</a></li>
-  <li><a href="#4">Contests, Promotions, and Surveys</a></li>
-  <li><a href="#5">Technical Information</a></li>
-  <li><a href="#6">Disclosure of Personal Information</a></li>
-  <li><a href="#7">Viewing and Updating Your Information on GlobalGiving</a></li>
-  <li><a href="#8">Links to Other Websites</a></li>
-  <li><a href="#9">Privacy Policy Updates</a></li>
-  <li><a href="#10">Contact Us</a></li>
-  </ul>
-  <p></p>
+<div class="grid_9 alpha">
 
   <h4>
   <a name="0"></a>
-  Collection and Use of Personal Information
+  Information Collection
   </h4>
 
   <p>
-We collect personal information when you create an account or edit your account information, donate to a project, or send a gift card.  We also collect some technical information about your use of our website.  This information is used to facilitate your use of the site and your donations, to contact you when necessary, and to improve your experience.
-  </p>
+	We collect information when you visit our website, create an account, edit your account 
+	information, donate to a project, or send or use a gift card. Some of this information is technical 
+	information that is automatically logged by our servers.   
+</p>
 
   <h4>
   <a name="1"></a>
-  Creating a globalgiving.com Account
+  Creating a globalgiving.org Account
   </h4>
 
   <p>
-When you create an account on our website, we collect basic information about you - your name and email address.  We collect additional personal information if you submit a profile or picture, or create a GlobalGiving gift registry.
+	When you create an account on our website, we collect basic information about you - your name 
+	and email address. You can choose to provide additional information, such as your mailing 
+	address, a photo, favorite projects, etc., if you create a profile or create a GlobalGiving gift 
+	registry.
   </p>
 
   <h4>
@@ -310,7 +423,16 @@ When you create an account on our website, we collect basic information about yo
   </h4>
 
   <p>
-When you make an online donation on globalgiving.com, we collect personal information such as your name, billing address, and email address, if you have not already provided these details.  Credit card or bank account numbers are collected by a third-party payment vendor such as <a name="/aboutus/privacypol.html#1"></a><a href="/aboutus/privacypol.html#1" onclick="window.open('http://www.verisign.com/Privacy/index.html','Zoom','width=800,height=800,scrollbars=yes,resizable=yes')">VeriSign</a> or <a href="/aboutus/privacypol.html#1" onclick="window.open('http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside','Zoom','width=800,height=800,scrollbars=yes,resizable=yes')">PayPal</a> depending on the method of payment you choose.  These partners' use of your information is based on their terms of service and policies, which you should review.  GlobalGiving will collect only your GlobalGiving account information and donation history. We do not collect or have access to the credit card numbers or bank account information our third-party vendors (PayPal and VeriSign) collect to process online transactions.
+	When you make an online donation on globalgiving.org, we collect personal information such 
+	as your name, billing address, and email address, if you have not already provided these details. 
+	We collect information about your donation, including the project you are donating to and the 
+	amount of your donation.  You may choose to provide the email address of friends that you ask 
+	us to notify about your use of the globalgiving.org website. We also collect (but do not retain) 
+	credit card numbers which are processed by a third-party payment vendor subject to the Payment 
+	Card Industry Data Security Standards. If you use PayPal or a similar service, their use of your 
+	information is based on their terms of service and policies, not ours, so we encourage you to 
+	review those policies carefully. 
+
   </p>
 
   <h4>
@@ -319,8 +441,30 @@ When you make an online donation on globalgiving.com, we collect personal inform
   </h4>
 
   <p>
-When you give a GlobalGiving gift card, we collect the name, email address, and mailing address of your recipient, as well as a personal message from you.  This information is collected only to facilitate this service.
+When you give a GlobalGiving Gift Card, we collect payment and contact information about 
+you, as well as the name, email address, and mailing address of your recipient.  You may create a 
+personal message to the recipient, which is stored on our servers.  Except in the limited 
+circumstances described below, we do not read or use your personal messages.   
   </p>
+ <p>
+	If you are the recipient of a GlobalGiving Gift Card, we collect information from you when you 
+	redeem the Card to make a donation.  Please note that we may share this information with the 
+	individual or entity who gave you the gift card. 
+	
+	</p>
+    
+	<h4>
+	  <a name="3b"></a>
+	  Donations in Honor/Memory of Someone
+	  </h4>
+
+	  <p>
+		When you make a donation in honor or memory of a loved one, we collect payment and contact 
+		information about you, as well as the name, email address, and mailing address of the recipient.  
+		You may create a personal message to the recipient, which is stored on our servers.  Except in 
+		the limited circumstances described below, we do not read or use your personal messages. 
+	  </p>
+
 
   <h4>
   <a name="4"></a>
@@ -328,18 +472,74 @@ When you give a GlobalGiving gift card, we collect the name, email address, and 
   </h4>
 
   <p>
-Periodically, GlobalGiving may invite you to participate in contests, take advantage of special promotions, and complete online surveys.  The information we collect from these contests, promotions, and surveys may be associated with your individual account in order to help us improve our website and services.  This information will only be shared as described in this policy, and your answers to surveys will only be used in aggregate.
-  </p>
+	Periodically, GlobalGiving may invite you to participate in contests, take advantage of special 
+	promotions, and complete online surveys. If you have created a GlobalGiving account or profile, 
+	information we collect from these contests, promotions, and surveys may be associated with you 
+	personally.  
+
+  </p>   
+
+<h4>
+  <a name="4a"></a>
+  Creating a Fundraiser or Registry
+  </h4>
+
+  <p>
+	When you create a fundraiser or registry on GlobalGiving, we collect information about projects 
+	you propose or wish to support. GlobalGiving notifies the project leader when a fundraiser or 
+	registry is established for their project, but does not share your personal information with the 
+	project leader or the project.  Remember, however, that anything you post on your fundraiser site 
+	will be seen by visitors to the site. 
+  </p>  
+<p>   
+	If you donate to a registry, fundraiser, or giving group, then we will also share your name and the 
+	date and amount of your donation with the person who created the registry, fundraiser, or group.
+	</p>
 
   <h4>
   <a name="5"></a>
   Technical Information
   </h4>
   
-  <p>
-We collect some technical information about how you access and use our site.  
-Cookies are small files that a website stores on your computer.  We use cookies to collect information such as what type of browser you are using, the website from which you enter globalgiving.com, and the pages you view as you tour our site.  We use this information to improve your experience (such as remembering your name or the items in your Giving Cart) and to help us compile aggregate statistics that allow us to make improvements in design and content to better serve you.  An IP address is a number that is assigned to your computer when you are using the Internet. Like most websites, we identify your computer by its IP address.  We use this to monitor information, such as the number of visitors that visit our website.
-  </p>
+  <p> 
+	Like most websites, our servers automatically collect certain technical information when you 
+	visit our site, including your Internet Protocol address, browser type, browser language, the date 
+	and time of your visit, the referring URL, and, if you have visited our Site before, one or more 
+	cookies that may uniquely identify your browser.   We also collect information about your 
+	activities on the site, such as the pages you access.
+  </p> 
+<p>
+In order to collect this information, the site places a cookie on your hard drive. A “cookie” is a 
+small file containing a string of characters that is sent to your computer when you visit a website. 
+When you visit the website again, the cookie allows that site to recognize your browser. Cookies 
+may store user preferences and other information. You can reset your browser to refuse all 
+cookies or to indicate when a cookie is being sent. However, some website features or services 
+may not function properly without cookies.
+	</p> 
+	
+	<h4>
+  <a name="5a"></a>
+  Use of Information
+  </h4>
+
+  <p> 
+	GlobalGiving uses the personal information that you provide, and the technical information 
+	logged by our servers to process your donations, to: 
+	
+	</p><ul>     
+	  <li>→ deliver the notifications described above; 
+	</li>   
+	<li>→ notify your friends and family about the project if you ask us to; 
+	</li>
+	<li>→ improve your experience (such as remembering your name, the items in your Giving 
+	Cart, or your preferences); 
+	</li>
+	<li>→ contact you regarding your donation(s) and other aspects of the service; </li>
+	<li>→ operate the site and our business; and </li>
+	<li>→ compile aggregate statistics that allow us to understand how visitors use our site, and to 
+	make improvements in design and content to better serve you.</li>
+		</ul>
+	<p></p>
 
   <h4>
   <a name="6"></a>
@@ -347,28 +547,75 @@ Cookies are small files that a website stores on your computer.  We use cookies 
   </h4>
   
   <p>
-We will share your personal information with our agents, representatives, service providers and contractors in order to process your donations, offer you services in connection with our website, communicate news and information about GlobalGiving, provide customer service, enhance and improve customers' donor experiences, and complete financial transactions.  These third parties are provided with your information only to the extent necessary to serve these purposes, or as otherwise authorized by this policy.
-  </p>
+	We will share your personal information with our agents, representatives, service providers and 
+	contractors in order to process your donations, offer you services in connection with our website, 
+	communicate news and information about GlobalGiving, provide customer service, enhance and 
+	improve customers' donor experiences, and complete financial transactions. These service 
+	providers are authorized to use your information only to the extent necessary to serve these 
+	purposes, or as otherwise authorized by this policy.  
 
-  <p>
-Aside from the purposes described above, we will not disclose your personal information without your consent, unless: (1) we need to respond to a subpoena, court order or legal process; (2) an emergency situation requires disclosure before your permission can be obtained (e.g., situations involving potential threats to personal safety), or; (3) to protect our rights or property, or the rights or property of another person.</p>
+  </p> 
+<p> 
+	Unless you ask us not to, we also share your personal information when you make a donation: 
+	</p><ul>
+	    <li>→ When you donate to a registry, fundraiser, or giving group, we share your name and the 
+		date and amount of your donation with the person who created the fundraiser, registry, or 
+		group.</li>
+		<li>→ When you donate to a project, we share your name and contact information and the 
+		amount of your donation with the project leader.</li>
+		<li>→ Each time you make a donation, however, we will give you the opportunity to tell us not 
+		to share your personal information in the ways described above.</li>
+	</ul>
+	<p></p>  
+	<p> If GlobalGiving merges with, or becomes an affiliate of another organization, we will ensure the 
+	confidentiality of any personal information involved in such transactions and provide notice 
+	before personal information is transferred and becomes subject to a different privacy policy.
+		</p>  
+		<p>Aside from the purposes described above, we will not disclose your personal information without 
+		your consent, unless: (1) we need to respond to a subpoena, court order or legal process; (2) an 
+		emergency situation requires disclosure before your permission can be obtained (e.g., situations 
+		involving potential threats to personal safety), or; (3) we determine that disclosure is needed to 
+		protect our rights or property, or the rights or property of another person.</p>
+		<p>We may share aggregated demographic and statistical information with our other partners. This 
+		is not linked to any personal information that can identify any individual person.  
+		</p>
 
-  <p>
-We may share aggregated demographic and statistical information with our other partners.  This is not linked to any personal information that can identify any individual person.
-  </p>
+  		 <h4>
+		  <a name="6a"></a>
+		  Information about Children Under 13
+		  </h4>
+
+		  <p>
+			GlobalGiving.org is a general audience website, and does not collect information about a 
+			visitor's age. We do, from time to time, partner with other organizations to educate children 
+			about philanthropy in general and our work in particular.  In those cases, we do not collect 
+			personal information from a visitor on pages specifically designed for children.
+		  </p>
 
   <h4>
   <a name="7"></a>
-  Viewing and Updating Your Information on globalgiving.com
+  Viewing and Updating Your Information on globalgiving.org
   </h4>
 
-  <p>
-You can access your account information at any time by going to the My Account page.  You can make changes to your information and update your account at any time.
+  <p>You can access your account information at any time by going to the My Account page. You can 
+make changes to your information and update your account at any time.
   </p>
 
   <p>
-You also can unsubscribe from a GlobalGiving newsletter at any time by sending an unsubscribe email as described at the bottom of every GlobalGiving newsletter, or by updating your newsletter subscriptions on the My Account page. 
-  </p>
+	You can also unsubscribe from GlobalGiving communications at any time by sending an 
+	unsubscribe email as described at the bottom of every GlobalGiving communications, or by 
+	updating your subscriptions on the My Account page.
+  </p>   
+<p>
+	When you create an account or profile on globalgiving.org, you can decide whether to make 
+	some or all of that information public or private.  You can change your choices at any time using 
+	the My Profile page.   Please note, however, that your preferences do not affect the disclosures to 
+	project leaders, or fundraisers, or giving group leaders.  So, for example, if you make a donation 
+	to a fundraiser, then we will display your name and date of your donation on the fundraiser 
+	regardless of your settings. Likewise, if you contribute to a project, we will share your name and 
+	contact information with the project leader.  In each case we will give you the opportunity to tell 
+	us not to disclose your personal information with the project leader, or publish it on the web site 
+	or in our annual report.</p>
 
   <h4>
   <a name="8"></a>
@@ -376,12 +623,30 @@ You also can unsubscribe from a GlobalGiving newsletter at any time by sending a
   </h4>
 
   <p>
-Other websites, including those of our partners (links to which appear on globalgiving.com), have their own privacy policies.  When you provide personal information at one of those sites, you are subject to the privacy policy of the operator of that site, not the GlobalGiving privacy policy.  We encourage you to read that policy before submitting any personal information. 
+	Other websites, including those of our partners (links to which appear on globalgiving.org), 
+	have their own privacy policies. When you provide personal information at one of those sites, 
+	you are subject to the privacy policy of the operator of that site, not the GlobalGiving privacy 
+	policy. We encourage you to read that policy before submitting any personal information.  
+
   </p>
 
   <p>
-You should take additional steps to safeguard your personal information online.  To learn more about how to protect yourself, visit the <a href="http://www.ftc.gov" target="_blank">Federal Trade Commission website</a>.
+	You should take additional steps to safeguard your personal information online. To learn more 
+	about how to protect yourself, visit the <a href="http://www.ftc.gov" target="_blank">Federal Trade Commission website</a>.
   </p>
+  
+	 <h4>
+	  <a name="8a"></a>
+	  Security
+	  </h4>
+
+	  <p>
+		GlobalGiving understands the importance of keeping your information secure and confidential.  
+		We have implemented policies and procedures designed to help safeguard your information.  
+		When you make a donation, information about your credit card, Paypal account, or bank is 
+		transmitted using SSL. 
+	
+	  </p>
 
   <h4>
   <a name="9"></a>
@@ -389,7 +654,10 @@ You should take additional steps to safeguard your personal information online. 
   </h4>
 
   <p>
-Our privacy policy is regularly reviewed to make sure we continue to serve the privacy interests of our customers.  If our information practices change materially, we will post the policy changes on the privacy page of this website to notify you of these changes.  Please check our website periodically for more information on how we use the data we collect.
+	Our privacy policy is regularly reviewed to make sure we continue to serve the privacy interests 
+	of our customers. If our information practices change materially, we will post the policy changes 
+	on the privacy page of this website to notify you of these changes. Please check our website 
+	periodically for more information on how we use the data we collect.
   </p>
 
   <h4>
@@ -398,51 +666,62 @@ Our privacy policy is regularly reviewed to make sure we continue to serve the p
   </h4>
 
   <p>
-You may contact us by using the "Contact Us" links on the footer of our site.  We try to reply promptly to every message we receive.  This information is used to respond directly to your questions or comments.  We also may file your comments and share them with our customer care team to improve our service in the future.
+	You may contact us by using the “Contact Us” links on the footer of our site. We try to reply 
+	promptly to every message we receive. This information is used to respond directly to your 
+	questions or comments. We also may file your comments and share them with our customer care 
+	team to improve our service in the future.
   </p>
 
   <p>
-If you still have questions or concerns regarding our privacy policy, please 
-email us at <script type="text/javascript" language="javascript">mkaddr('help')</script><a href="mailto:help@globalgiving.com">help@globalgiving.com</a> or write us at:
+    If you still have questions or concerns regarding our privacy policy write us at:  
   </p>
 
   <p>
-  GlobalGiving<br>
-  <br>1816 12th Street NW - 3rd Floor
-<br>Washington, DC  20009
-<br>
+  GlobalGiving<br> 
+  <script type="text/javascript" language="JavaScript">
+  mkaddr("privacy","Privacy Policy Inquiry");
+  </script><a href="mailto:privacy@globalgiving.com">privacy@globalgiving.com</a>
+  <br>1023 15th Street, NW
+<br>12th Floor
+<br>Washington, DC 20005<br>
   <br>Phone: (202) 232-5784
+<br>Toll Free: (877) 605-2314
 <br>Fax: (202) 232-0534 
 
   </p>
+  
+  <p>
+  Last Modified:  2009/09/15
+  </p> 
+</div>
 
-  </td>
-  </tr>
-  </tbody></table>
   <!--end content-->
 
-</td>
-</tr>
-</tbody></table>
 <!--end privacy policy-->
 
-                    </div> <!-- content -->
-                </div> <!-- contentAndBreadcrumbs -->
-            
-                <div id="mainFooter"><div><div> </div></div></div>
-            </div> <!-- main -->
-        </div> <!-- page -->
-        
-        <div id="footer"> <div id="footer_links">
+  
+</div> <!-- END container 12 for content -->
+<div id="mainFooter"><!-- START bottom  rounded corners-->
+	<div>
+		<div>
+		</div>
+	</div>
+</div><!-- END bottom  rounded corners-->
+</div> <!-- end white margin box --> 
+</div><!-- END wrapper DIV -->
+  
+<div id="footerWrapper" class="headerFooterWrapper">
+	<div id="footer" class="siteWrapper">
+		 <div id="footer_links">
     <ul>            
       <li><a href="/dy/v2/content/browse.html">Find a Project</a> -</li>
-      <li><a href="/gifts">Gift Cards</a> -</li>
       <li><a href="/howitworks.html">How GlobalGiving Works</a> -</li>
       <li><a href="/domore.html">Get Involved</a> -</li>
       <li><a href="/aboutus/partserv.html">Partners</a> -</li>
+	  <li><a href="/to-go">Developers</a> -</li>
       <li><a href="/aboutus/privacypol.html">Privacy Policy</a> -</li>
-      <li><a href="http://blog.globalgiving.com">Blog</a> -</li>
-      <li><a href="/news/index.html">Newsletter</a> -</li>
+      <li><a href="http://blog.globalgiving.org">Blog</a> -</li>
+      <li><a href="/news/index.html">Newsletter</a> - </li>
       <li><a href="/rss.html" class="icon"><img src="/img/icons/rss.gif" alt="RSS feed"></a><a href="/rss.html">RSS</a> -</li>
       <li><a href="/aboutus/jobs.html">Jobs</a> -</li>
       <li><a href="/help.html">Help / FAQ</a> -</li>
@@ -451,68 +730,59 @@ email us at <script type="text/javascript" language="javascript">mkaddr('help')<
  </div>
  
  <div id="trustindicators">
-   <a href="https://www.thawte.com/core/process?process=public-site-seal-cert-details&amp;public-site-seal-cert-details.referer=https://www.globalgiving.com" target="_blank"><img src="/img/logos/thawte.gif" alt="Secured by thawte"></a>
-   <!--
-   <img src="/img/logos/truste.gif">
-   <img src="/img/logos/hackersafe.gif">
-   -->
+   <img src="/img/logos/thawte.gif" alt="Secured by thawte">
    <a href="/aboutus/media/index.html#3"><img src="/img/logos/featuredIn.gif" alt="Featured in New York Times, NPR, CNN"></a>
-   <a href="http://www.charitynavigator.org/index.cfm?bay=search.summary&amp;orgid=11648" target="_blank"><img src="/img/logos/charityNavigator.gif" alt="charityNavigator"></a>
+   <a href="http://www.charitynavigator.org/index.cfm?bay=search.summary&amp;orgid=11648"><img src="/img/logos/charityNavigator.gif" alt="Charity Navigator"></a>
    <a href="/guaranteed/"><img src="/img/logos/ggg.gif" alt="GlobalGiving Guarantee"></a>
  </div>
 
  <div id="finePrint">
      <p>
-     Projects on globalgiving.com undergo compliance checks to ensure they have a bona fide charitable purpose and meet applicable laws relating to international philanthropy. Organizations listed as partners do not necessarily endorse or support any particular project listed on globalgiving.com.
+     Projects on globalgiving.org undergo compliance checks to ensure they have a bona fide charitable purpose and meet applicable laws relating to international philanthropy. Organizations listed as partners do not necessarily endorse or support any particular project listed on globalgiving.org.
      </p>
      <p>
      The GlobalGiving Foundation is a 501(c)3 organization (EIN: 30-0108263).<br>
-     1816 12th Street NW, Washington, DC 20009<br>
+     1023 15th Street, NW, 12th Floor, Washington, DC 20005<br>
      Phone: (202) 232-5784  &nbsp;&nbsp; Fax: (202) 232-0534 
      </p>
      
+     <!--NOTE: The copyright is hidden by CSS on purpose per DW's direction!-->  
      <div id="copyright">
          Copyright © 2009 GlobalGiving Foundation.
 
      </div>
- </div>        </div>
-       
-       <div id="border-bottom">
-          <div id="edge-bl"></div>
-          <div id="edge-br"></div>
-       </div>
-       
-    </div> <!-- page_margins -->
-</div> <!-- gutter -->
-
+ </div>   
+		
+		<div id="border-bottom">
+			<div id="edge-bl"></div>
+			<div id="edge-br"></div>
+		</div>       
+	</div>
+</div>
 <noscript>
 <div id="noscript">
 <div>WARNING: Javascript is currently disabled or is not available in your browser. GlobalGiving makes extensive use of Javascript and will not function properly with Javascript disabled. <a href="http://www.google.com/support/bin/answer.py?hl=en&amp;answer=23852" target="_blank">Please enable Javascript</a> and refresh this page.</div>
 </div>  
 </noscript>
 
-
-<div id="tracking" class="hidden">    <!-- *** START TRACKING CODE ***-->    
-	<!-- NOT ACTIVE can be used to change to a different suite id and currency -->
-	<!-- #set var="omn_account"   value="var c_s_account='globalgivingcom2,globalgivingcom,globalgivingcom-global'" -->
-	<!-- #set var="omn_currency"   value="var c_currency='USD'" --> 
-	<!-- END NOT ACTIVE -->
-    <!-- ******* NOTE: THIS FILE EXISTS IN htdig/header.html and htdig/nomatch also!!! ******* -->
-<!-- ******* ANY CHANGES HERE MUST ALSO BE MADE THERE AS WELL!!! ******* -->
-
-<!--omniture analytics javascript-->
-<!--omniture analytics javascript-->
-<!--omniture analytics javascript-->
+<div id="tracking" class="hidden">
+    <!-- *** START TRACKING CODE ***-->    
+    <!-- NOT ACTIVE can be used to change to a different suite id and currency -->
+    <!-- #set var="omn_account"   value="var c_s_account='globalgivingcom2,globalgivingcom,globalgivingcom-global'" -->
+    <!-- #set var="omn_currency"   value="var c_currency='USD'" --> 
+    <!-- END NOT ACTIVE -->
+    
+    <!--omniture analytics javascript-->
 
 <div style="position:absolute; top:-1px; left:-1px; width:1px; height:1px; overflow: hidden;">
 
 <!--SiteCatalyst code version: H.5.-->
 <!--Copyright 1997-2006 Omniture, Inc. More info available at www.omniture.com-->  
 <script type="text/javascript"> 
-<!-- undef -->
-<!-- undef -->     
+	
+	
 </script>
-<script src="/javascript/omntrx.js" type="text/javascript"></script><img name="s_i_globalgivingcom" height="1" width="1" border="0" alt="" src="https://omntrx2.globalgiving.com/b/ss/globalgivingcom,globalgivingcom-global/1/H.5-pdv-2/s52684264017567?[AQB]&amp;ndh=1&amp;t=30/0/2020%2021%3A41%3A13%204%200&amp;ns=manyfutures&amp;pageName=web%2C20090623071829id_%2Chttp%253A%2C%2Cwww.globalgiving.com%2Caboutus%2Cprivacypol.html&amp;g=https%3A//web.archive.org/web/20090623071829id_/http%253A//www.globalgiving.com/aboutus/privacypol.html&amp;cc=USD&amp;ch=about&amp;c2=other&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+<script src="/javascript/omntrx.js" type="text/javascript"></script><img name="s_i_globalgivingcom" height="1" width="1" border="0" alt="" src="https://omntrx2.globalgiving.com/b/ss/globalgivingcom,globalgivingcom-global/1/H.5-pdv-2/s53954137941121?[AQB]&amp;ndh=1&amp;t=30/0/2020%2021%3A41%3A12%204%200&amp;ns=manyfutures&amp;pageName=Privacy%20Policy&amp;g=https%3A//web.archive.org/web/20091206130305id_/http%253A//www.globalgiving.org/aboutus/privacypol.html&amp;cc=USD&amp;ch=about&amp;c2=Privacy%20Policy&amp;c4=Privacy%20Policy&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
 <script type="text/javascript">
 /* Any vars that we set should be added here so they can be cleared
    Before any subsequent micro-link calls (or macrolink from ajax)
@@ -534,6 +804,7 @@ function clearOmnVars()
 	s.eVar9="";
 	s.eVar10="";
 	s.eVar11="";
+    s.eVar12="";	
 	s.pageName='';
 	s.server='';
 	s.prop1='';
@@ -545,17 +816,21 @@ function clearOmnVars()
 }
 </script>
 <script type="text/javascript">
+if (typeof ggPageName=="undefined") {
+    ggPageName="";
+}
+	
 s.events="";
 s.products="";
 s.purchaseID="";
 s.eVar1="";
 s.eVar2="";
-s.pageName="";
+s.pageName=ggPageName;
 s.server="";
 s.prop1="";
-s.prop2="other";
+s.prop2=ggPageName;
 s.prop3="";
-s.prop4="";
+s.prop4=(getCookie('omniture_session_browse_abtestid_cookie_value')==null?ggPageName:getCookie('omniture_session_browse_abtestid_cookie_value')+"_"+ggPageName);
 s.prop5=""; 
 s.eVar3="";
 s.eVar4="";
@@ -565,29 +840,42 @@ s.eVar7="";
 s.eVar8="";
 s.eVar9="";
 s.eVar10="";
-s.eVar11=""; 
+s.eVar11="";
+s.eVar12="";
 s.channel="";  
-<!-- undef -->
-<!-- undef -->
-<!-- undef -->
-<!-- undef -->
-<!-- undef -->
-<!-- undef -->
-<!-- undef -->
-<!-- undef -->
-<!-- undef --> 
-<!-- undef -->
-<!-- undef -->
-<!-- undef -->
-<!-- undef -->
-<!-- undef -->
-<!-- undef -->
-<!-- undef -->
-<!-- undef -->
-<!-- undef -->
-<!-- undef -->
-<!-- undef -->
-s.channel='about' 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+s.channel='about';
 </script>
 <script type="text/javascript"><!--
 /* You may give each page an identifying name, server, and channel on
@@ -614,15 +902,7 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 
 </div>
 
-<!--end omniture analytics javascript-->
-<!--end omniture analytics javascript-->
-<!--end omniture analytics javascript-->	 
-    
-    <!--bronto clickstream code-->
-        <img src="http://app.bronto.com/public/?q=stream_view&amp;fn=Key&amp;id=bcgncberohldoafnyoclrdwnbqtsbfe" width="0" height="0" border="0" alt="">
-    <!--end bronto clickstream code-->
-    
-    
+  
     <!-- Google Analytics -->
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -630,28 +910,33 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 
 <script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-1836649-1");
-pageTracker._initData();
-pageTracker._trackPageview();
+// make sure that google loaded
+if (typeof(_gat) != "undefined") {
+	var pageTracker = _gat._getTracker("UA-1836649-1");
+	pageTracker._initData();
+	pageTracker._trackPageview();
+}
 </script>
 
+
     <!-- *** END TRACKING CODE ***-->
-    </div>
-<!-- this needs to be here if the exit survey is to be included --><script type="text/javascript">
+</div>
+
+<!-- this needs to be here if the exit survey is to be included -->
+<script type="text/javascript">
+<!--
 $(document).ready(function() { 
 showExitSurveyPopUp(); // shows the modal pop-up if the users wants to fill the exit survey 
 });
+-->
 </script>
 
+   
+
+ 
 
 
-
-
-
-
-
-
-
+<!--endif-->
 
 
 </body></html>
