@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the feedage.com privacy policy that was archived on 2009-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090604192621id_/http%3A//www.feedage.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the feedage.com privacy policy that was archived on 2009-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091206035104id_/http%3A//www.feedage.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -35,25 +35,26 @@ animatedcollapse.init()
 <!-- TOP -->
 <div id="top">
 <div id="logo">
-<a href="/"><img src="/images/feedage_logo_50x240.gif" alt="Feedage.com" border="0"></a>
+<a href="/"><img src="/images/feedage_logo_50x240.gif" alt=" on Feedage.com" border="0"></a>
 </div>
 <div id="search_box">
-<form name="search" method="get" action="/feeds.php">
-    <div id="search_box_title"><img src="/images/search_title.gif" alt="Search Feedage.com"></div>
-	<div id="search_box_text">
-	<input id="box" name="t" type="text" size="30">
-	</div>
-	<div id="search_box_go"><input name="" type="image" src="/images/go_button.gif" alt="Search Feedage.com"></div>
+<form name="search" method="post" action="/search.php">
+    <span id="search_box_title">Feed Search:</span>
+	<input id="search_box_text" name="t" type="text" size="30">
+	<input name="sb" type="hidden" value="4">
+	<input name="page" type="hidden" value="1">
+	<input name="" type="image" src="/images/go_button.gif" alt="Search Feedage.com RSS Directory">
+	<small><a href="/adv_search.php?st=y&amp;sd=y&amp;sk=y&amp;su=y">Advanced Search</a></small>
 </form>
-<div class="clearbothFix"></div>
 </div>
+<div class="clearbothFix"></div>
 </div>
 <!-- END TOP -->
 
 <!-- MAIN NAVIGATION -->
 <div id="nav">
 
-<div style="float:left">
+<div style="float:left;padding: 0px">
 <p>
 	
 <a href="/">Home</a> |
@@ -62,12 +63,15 @@ animatedcollapse.init()
 <a href="/myfeedage/signup.php">Sign Up</a> |
 <a href="/blog">Blog</a> |
 <a href="/feedage_help.php">Help</a> |
+<a href="http://www.twitter.com/feedage">Twitter</a> |
+<a href="http://www.facebook.com/pages/Feedagecom/134330704023">Facebook</a> |
+<a href="/store">Store</a> |
 <a href="/submit.php">Submit Feed</a>
 </p>
 </div>
-<div style="float:right">
+<div style="float:right;padding: 0px">
 <p>
-3,050,717 RSS Feeds and growing!</p>
+6,210,668 RSS Feeds and growing!</p>
 </div></div>
 <!-- END MAIN NAVIGATION -->
 
@@ -84,16 +88,10 @@ animatedcollapse.init()
 <div>
 	<ul>
     <li><a href="/buzzsaw.php"><img src="/images/buzzsaw_nt.gif" border="0" alt="BuzzSaw"> Buzz Saw</a></li>
-	<!-- <li><a href="/zones/index.php"><img src="/images/feedzone_nt.gif" border="0" alt="Feed Zone" /> Feed Zone</a></li> -->
-    <!-- <li><a href="/podzones/index.php"><img src="/images/podzone_icon.gif" border="0" alt="Pod Zone" /> Pod Zone</a></li> -->
-    <li><a href="/myfeedage/mygrps.php"><img src="/images/mygroups_nt.gif" border="0" alt="My Groups"> My Groups</a></li>
-    <li><a href="/myfeedage/myfeeds.php"><img src="/images/myfeeds_nt.gif" border="0" alt="My Feeds"> My Feeds</a></li>
-    <li><a href="/searchedterms.php"><img src="/images/searchedterms_nt.gif" border="0" alt="Searched Terms"> Searched</a></li>
+	<li><a href="/myfeedage/"><img src="/images/myfeedage_nt.gif" border="0" alt="My Feedage"> My Feedage</a></li>
     <li><a href="javascript:emailafriend()"><img src="/images/emailfeed_nt.gif" border="0" alt="Email This"> Email This</a></li>
-	<li><a href="/alerts/"><img src="/images/alert_nt.gif" border="0" alt="Feedage Alerts"> RSS Alerts</a></li>
-    <li><a href="/feedage_tracker.php"><img src="/images/feedtracks_nt.gif" border="0" alt="Feedage Tracker"> RSS Tracker</a></li>
-    <li><a href="/html2rss"><img src="/images/html2rss.gif" border="0" alt="Feedage HTML2RSS"> HTML2RSS</a></li>
-     <li><a href="/blender"><img src="/images/blender.gif" border="0" alt="Feedage RSS Blender"> RSS Blender</a></li>
+	<li><a href="/html2rss"><img src="/images/html2rss.gif" border="0" alt="Feedage HTML2RSS"> HTML2RSS</a></li>
+	<li><a href="/blender"><img src="/images/blender.gif" border="0" alt="Feedage RSS Blender"> RSS Blender</a></li>
 	</ul>
 </div>
 
@@ -101,176 +99,434 @@ animatedcollapse.init()
 <!-- google_ad_section_end -->
 <!-- END QUICK LINKS -->
 <!-- CATEGORIES -->
+<!-- google_ad_section_start(weight=ignore) -->
 <div id="masterdiv" style="clear: left;">
-
-<div class="titles">
-<p>Categories</p>
+<div class="titles"><p>Categories</p></div>
+<ul id="categories" class="dropdown dropdown-vertical">
+<li class="dir"><a href="/categories/Art/1/4">Art</a>
+<ul>
+<li class="dir"><a href="/categories/Animation/1/4">Animation</a>
+<ul>
+<li><a href="/categories/japanese+animation/1/4">japanese animation</a></li>
+</ul>
+</li>
+<li><a href="/categories/Antiques/1/4">Antiques</a></li>
+<li><a href="/categories/Architecture/1/4">Architecture</a></li>
+<li><a href="/categories/Art+History/1/4">Art History</a></li>
+<li><a href="/categories/Arts+%26+Craft/1/4">Arts &amp; Craft</a></li>
+<li><a href="/categories/Comics/1/4">Comics</a></li>
+<li class="dir"><a href="/categories/Dance/1/4">Dance</a>
+<ul>
+<li><a href="/categories/Dance+Costume/1/4">Dance Costume</a></li>
+<li><a href="/categories/Dance+Instruction/1/4">Dance Instruction</a></li>
+<li><a href="/categories/Dance+Lesson/1/4">Dance Lesson</a></li>
+<li><a href="/categories/Dance+School/1/4">Dance School</a></li>
+</ul>
+</li>
+<li><a href="/categories/Entertainment/1/4">Entertainment</a></li>
+<li><a href="/categories/Graphic+Design/1/4">Graphic Design</a></li>
+<li><a href="/categories/Literature/1/4">Literature</a></li>
+<li class="dir"><a href="/categories/Movies/1/4">Movies</a>
+<ul>
+<li><a href="/categories/Comedy+Movie/1/4">Comedy Movie</a></li>
+<li><a href="/categories/Disney+Movie/1/4">Disney Movie</a></li>
+<li><a href="/categories/Drama+Movie/1/4">Drama Movie</a></li>
+<li><a href="/categories/Horror+Movie/1/4">Horror Movie</a></li>
+<li><a href="/categories/Movie+Rental/1/4">Movie Rental</a></li>
+</ul>
+</li>
+<li class="dir"><a href="/categories/Music/1/4">Music</a>
+<ul>
+<li><a href="/categories/Live+Music/1/4">Live Music</a></li>
+<li><a href="/categories/Music+download/1/4">Music download</a></li>
+<li><a href="/categories/Music+Video/1/4">Music Video</a></li>
+<li><a href="/categories/Sheet+Music/1/4">Sheet Music</a></li>
+</ul>
+</li>
+<li><a href="/categories/Performing+Arts/1/4">Performing Arts</a></li>
+<li><a href="/categories/Photography/1/4">Photography</a></li>
+<li><a href="/categories/Television/1/4">Television</a></li>
+<li><a href="/categories/Theatre/1/4">Theatre</a></li>
+<li><a href="/categories/Video/1/4">Video</a></li>
+<li><a href="/categories/Visual+Arts/1/4">Visual Arts</a></li>
+</ul>
+</li>
+<li class="dir"><a href="/categories/Business+%26+Economy/1/4">Business &amp; Economy</a>
+<ul>
+<li><a href="/categories/Economics/1/4">Economics</a></li>
+<li><a href="/categories/Global+Economy/1/4">Global Economy</a></li>
+<li><a href="/categories/Investing/1/4">Investing</a></li>
+<li><a href="/categories/Investment+Banking/1/4">Investment Banking</a></li>
+<li><a href="/categories/Investment+Property/1/4">Investment Property</a></li>
+<li><a href="/categories/Investment+Securities/1/4">Investment Securities</a></li>
+<li><a href="/categories/Jobs/1/4">Jobs</a></li>
+<li><a href="/categories/Lawyer/1/4">Lawyer</a></li>
+<li><a href="/categories/Marketing/1/4">Marketing</a></li>
+<li><a href="/categories/Online+Investment/1/4">Online Investment</a></li>
+<li><a href="/categories/Real+Estate/1/4">Real Estate</a></li>
+<li><a href="/categories/Small+Business/1/4">Small Business</a></li>
+</ul>
+</li>
+<li><a href="/categories/College/1/4">College</a></li>
+<li class="dir"><a href="/categories/Computer/1/4">Computer</a>
+<ul>
+<li class="dir"><a href="/categories/Blogs/1/4">Blogs</a>
+<ul>
+<li><a href="/categories/Blogs+Baseball/1/4">Blogs Baseball</a></li>
+<li><a href="/categories/Blogs+Education/1/4">Blogs Education</a></li>
+<li><a href="/categories/Blogs+Entertainment/1/4">Blogs Entertainment</a></li>
+<li><a href="/categories/Blogs+Music/1/4">Blogs Music</a></li>
+<li><a href="/categories/Blogs+Nascar/1/4">Blogs Nascar</a></li>
+<li><a href="/categories/Blogs+News/1/4">Blogs News</a></li>
+<li><a href="/categories/Blogs+Soccer/1/4">Blogs Soccer</a></li>
+<li><a href="/categories/Blogs+Sports/1/4">Blogs Sports</a></li>
+</ul>
+</li>
+<li><a href="/categories/Desktop+computer/1/4">Desktop computer</a></li>
+<li><a href="/categories/Hardware/1/4">Hardware</a></li>
+<li><a href="/categories/Internet/1/4">Internet</a></li>
+<li><a href="/categories/Multimedia/1/4">Multimedia</a></li>
+<li><a href="/categories/Notebook+computer/1/4">Notebook computer</a></li>
+<li><a href="/categories/Operating+Systems/1/4">Operating Systems</a></li>
+<li><a href="/categories/Robotics/1/4">Robotics</a></li>
+<li><a href="/categories/Software/1/4">Software</a></li>
+</ul>
+</li>
+<li><a href="/categories/Disney/1/4">Disney</a></li>
+<li><a href="/categories/Elementary/1/4">Elementary</a></li>
+<li><a href="/categories/Employment/1/4">Employment</a></li>
+<li class="dir"><a href="/categories/Games/1/4">Games</a>
+<ul>
+<li><a href="/categories/Arcade+Game/1/4">Arcade Game</a></li>
+<li><a href="/categories/Board+Game/1/4">Board Game</a></li>
+<li><a href="/categories/Card+Game/1/4">Card Game</a></li>
+<li class="dir"><a href="/categories/Gambling/1/4">Gambling</a>
+<ul>
+<li><a href="/categories/Casino+Gambling/1/4">Casino Gambling</a></li>
+<li><a href="/categories/Online+Gambling/1/4">Online Gambling</a></li>
+</ul>
+</li>
+<li><a href="/categories/Game+Cheats/1/4">Game Cheats</a></li>
+<li><a href="/categories/Game+Downloads/1/4">Game Downloads</a></li>
+<li><a href="/categories/Kids+Game/1/4">Kids Game</a></li>
+<li><a href="/categories/Online+Game/1/4">Online Game</a></li>
+<li><a href="/categories/Puzzle+Game/1/4">Puzzle Game</a></li>
+<li><a href="/categories/Toy+Game/1/4">Toy Game</a></li>
+<li class="dir"><a href="/categories/Video+Games/1/4">Video Games</a>
+<ul>
+<li><a href="/categories/PS2+Games/1/4">PS2 Games</a></li>
+<li><a href="/categories/PSP+Games/1/4">PSP Games</a></li>
+<li><a href="/categories/xBox+Games/1/4">xBox Games</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="dir"><a href="/categories/Government/1/4">Government</a>
+<ul>
+<li><a href="/categories/Canadian+Government/1/4">Canadian Government</a></li>
+<li><a href="/categories/Elections/1/4">Elections</a></li>
+<li><a href="/categories/Federal+Government/1/4">Federal Government</a></li>
+<li><a href="/categories/Government+Auction/1/4">Government Auction</a></li>
+<li><a href="/categories/Government+Grants/1/4">Government Grants</a></li>
+<li><a href="/categories/Government+Jobs/1/4">Government Jobs</a></li>
+<li><a href="/categories/Military/1/4">Military</a></li>
+<li><a href="/categories/Politics/1/4">Politics</a></li>
+<li><a href="/categories/State+Government/1/4">State Government</a></li>
+<li><a href="/categories/Taxes/1/4">Taxes</a></li>
+</ul>
+</li>
+<li class="dir"><a href="/categories/Health/1/4">Health</a>
+<ul>
+<li><a href="/categories/Addictions/1/4">Addictions</a></li>
+<li><a href="/categories/Aging/1/4">Aging</a></li>
+<li><a href="/categories/Alternative+Medicine/1/4">Alternative Medicine</a></li>
+<li><a href="/categories/Beauty/1/4">Beauty</a></li>
+<li class="dir"><a href="/categories/Cancer/1/4">Cancer</a>
+<ul>
+<li><a href="/categories/Breast+Cancer/1/4">Breast Cancer</a></li>
+<li><a href="/categories/Colon+Cancer/1/4">Colon Cancer</a></li>
+<li><a href="/categories/Lung+Cancer/1/4">Lung Cancer</a></li>
+<li><a href="/categories/Melanoma/1/4">Melanoma</a></li>
+<li><a href="/categories/Mesothelioma/1/4">Mesothelioma</a></li>
+<li><a href="/categories/Ovarian+cancer/1/4">Ovarian cancer</a></li>
+<li><a href="/categories/Prostate+Cancer/1/4">Prostate Cancer</a></li>
+<li><a href="/categories/Skin+cancer/1/4">Skin cancer</a></li>
+</ul>
+</li>
+<li><a href="/categories/Crohns/1/4">Crohns</a></li>
+<li><a href="/categories/Diet/1/4">Diet</a></li>
+<li class="dir"><a href="/categories/Disease/1/4">Disease</a>
+<ul>
+<li><a href="/categories/Crohns+Disease/1/4">Crohns Disease</a></li>
+</ul>
+</li>
+<li><a href="/categories/Fitness/1/4">Fitness</a></li>
+<li><a href="/categories/Health+Care/1/4">Health Care</a></li>
+<li><a href="/categories/Health+Food/1/4">Health Food</a></li>
+<li><a href="/categories/Health+Insurance/1/4">Health Insurance</a></li>
+<li><a href="/categories/Health+Professions/1/4">Health Professions</a></li>
+<li><a href="/categories/Home+Health+Care/1/4">Home Health Care</a></li>
+<li><a href="/categories/Medicare/1/4">Medicare</a></li>
+<li><a href="/categories/Medicine/1/4">Medicine</a></li>
+<li><a href="/categories/Mens+Health/1/4">Mens Health</a></li>
+<li><a href="/categories/Mental+Health/1/4">Mental Health</a></li>
+<li><a href="/categories/Nursing/1/4">Nursing</a></li>
+<li><a href="/categories/Nutrition/1/4">Nutrition</a></li>
+<li><a href="/categories/Pharmacy/1/4">Pharmacy</a></li>
+<li><a href="/categories/Reproductive+Health/1/4">Reproductive Health</a></li>
+<li><a href="/categories/Senior+Health/1/4">Senior Health</a></li>
+<li><a href="/categories/Weight+Loss/1/4">Weight Loss</a></li>
+<li><a href="/categories/Womens+Health/1/4">Womens Health</a></li>
+</ul>
+</li>
+<li><a href="/categories/High+School/1/4">High School</a></li>
+<li class="dir"><a href="/categories/News/1/4">News</a>
+<ul>
+<li><a href="/categories/Columns+%26+Columnists/1/4">Columns &amp; Columnists</a></li>
+<li><a href="/categories/Internet+Broadcast/1/4">Internet Broadcast</a></li>
+<li><a href="/categories/Media/1/4">Media</a></li>
+<li class="dir"><a href="/categories/National+News/1/4">National News</a>
+<ul>
+<li><a href="/categories/ABCNews/1/4">ABCNews</a></li>
+<li><a href="/categories/CBSNews/1/4">CBSNews</a></li>
+<li><a href="/categories/FoxNews/1/4">FoxNews</a></li>
+<li><a href="/categories/NBCNews/1/4">NBCNews</a></li>
+</ul>
+</li>
+<li><a href="/categories/News+Blogs/1/4">News Blogs</a></li>
+<li><a href="/categories/Newspaper/1/4">Newspaper</a></li>
+<li><a href="/categories/Sporting+News/1/4">Sporting News</a></li>
+<li><a href="/categories/Weather/1/4">Weather</a></li>
+</ul>
+</li>
+<li><a href="/categories/Other/1/4">Other</a></li>
+<li class="dir"><a href="/categories/Recreation/1/4">Recreation</a>
+<ul>
+<li><a href="/categories/Aviation/1/4">Aviation</a></li>
+<li><a href="/categories/Boating/1/4">Boating</a></li>
+<li><a href="/categories/Bowling/1/4">Bowling</a></li>
+<li><a href="/categories/Climbing/1/4">Climbing</a></li>
+<li><a href="/categories/Cruise/1/4">Cruise</a></li>
+<li><a href="/categories/Food/1/4">Food</a></li>
+<li><a href="/categories/Gardening/1/4">Gardening</a></li>
+<li><a href="/categories/Genealogy/1/4">Genealogy</a></li>
+<li><a href="/categories/Guns/1/4">Guns</a></li>
+<li><a href="/categories/Horoscopes/1/4">Horoscopes</a></li>
+<li><a href="/categories/Humor/1/4">Humor</a></li>
+<li><a href="/categories/Kites/1/4">Kites</a></li>
+<li><a href="/categories/Models/1/4">Models</a></li>
+<li><a href="/categories/Motorcycles/1/4">Motorcycles</a></li>
+<li class="dir"><a href="/categories/Outdoors/1/4">Outdoors</a>
+<ul>
+<li><a href="/categories/Camping/1/4">Camping</a></li>
+<li><a href="/categories/Fishing/1/4">Fishing</a></li>
+<li><a href="/categories/Hunting/1/4">Hunting</a></li>
+</ul>
+</li>
+<li class="dir"><a href="/categories/Pets/1/4">Pets</a>
+<ul>
+<li><a href="/categories/Cats/1/4">Cats</a></li>
+<li><a href="/categories/Dogs/1/4">Dogs</a></li>
+</ul>
+</li>
+<li><a href="/categories/Scouting/1/4">Scouting</a></li>
+<li><a href="/categories/Travel/1/4">Travel</a></li>
+</ul>
+</li>
+<li class="dir"><a href="/categories/Reference/1/4">Reference</a>
+<ul>
+<li><a href="/categories/Almanacs/1/4">Almanacs</a></li>
+<li><a href="/categories/Bibliography/1/4">Bibliography</a></li>
+<li><a href="/categories/Dictionary/1/4">Dictionary</a></li>
+<li><a href="/categories/Directory/1/4">Directory</a></li>
+<li><a href="/categories/Encyclopedia/1/4">Encyclopedia</a></li>
+<li><a href="/categories/Journals/1/4">Journals</a></li>
+<li><a href="/categories/Library/1/4">Library</a></li>
+<li class="dir"><a href="/categories/Maps/1/4">Maps</a>
+<ul>
+<li><a href="/categories/Cartography/1/4">Cartography</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="dir"><a href="/categories/Regional/1/4">Regional</a>
+<ul>
+<li><a href="/categories/Africa/1/4">Africa</a></li>
+<li><a href="/categories/Asia/1/4">Asia</a></li>
+<li class="dir"><a href="/categories/North+America/1/4">North America</a>
+<ul>
+<li><a href="/categories/Alabama/1/4">Alabama</a></li>
+<li><a href="/categories/Alaska/1/4">Alaska</a></li>
+<li><a href="/categories/Arizona/1/4">Arizona</a></li>
+<li><a href="/categories/Arkansas/1/4">Arkansas</a></li>
+<li><a href="/categories/California/1/4">California</a></li>
+<li><a href="/categories/Colorado/1/4">Colorado</a></li>
+<li><a href="/categories/Connecticut/1/4">Connecticut</a></li>
+<li><a href="/categories/Delaware/1/4">Delaware</a></li>
+<li><a href="/categories/Florida/1/4">Florida</a></li>
+<li><a href="/categories/Georgia/1/4">Georgia</a></li>
+<li><a href="/categories/Hawaii/1/4">Hawaii</a></li>
+<li><a href="/categories/Idaho/1/4">Idaho</a></li>
+<li><a href="/categories/Illinois/1/4">Illinois</a></li>
+<li><a href="/categories/Indiana/1/4">Indiana</a></li>
+<li><a href="/categories/Iowa/1/4">Iowa</a></li>
+<li><a href="/categories/Kansas/1/4">Kansas</a></li>
+<li><a href="/categories/Kentucky/1/4">Kentucky</a></li>
+<li><a href="/categories/Louisiana/1/4">Louisiana</a></li>
+<li><a href="/categories/Maine/1/4">Maine</a></li>
+<li><a href="/categories/Maryland/1/4">Maryland</a></li>
+<li><a href="/categories/Massachusetts/1/4">Massachusetts</a></li>
+<li><a href="/categories/Michigan/1/4">Michigan</a></li>
+<li><a href="/categories/Minnesota/1/4">Minnesota</a></li>
+<li><a href="/categories/Mississippi/1/4">Mississippi</a></li>
+<li><a href="/categories/Missouri/1/4">Missouri</a></li>
+<li><a href="/categories/Montana/1/4">Montana</a></li>
+<li><a href="/categories/Nebraska/1/4">Nebraska</a></li>
+<li><a href="/categories/Nevada/1/4">Nevada</a></li>
+<li><a href="/categories/New+Hampshire/1/4">New Hampshire</a></li>
+<li><a href="/categories/New+Jersey/1/4">New Jersey</a></li>
+<li><a href="/categories/New+Mexico/1/4">New Mexico</a></li>
+<li><a href="/categories/New+York/1/4">New York</a></li>
+<li><a href="/categories/North+Carolina/1/4">North Carolina</a></li>
+<li><a href="/categories/North+Dakota/1/4">North Dakota</a></li>
+<li><a href="/categories/Ohio/1/4">Ohio</a></li>
+<li><a href="/categories/Oklahoma/1/4">Oklahoma</a></li>
+<li><a href="/categories/Oregon/1/4">Oregon</a></li>
+<li><a href="/categories/Pennsylvania/1/4">Pennsylvania</a></li>
+<li><a href="/categories/Rhode+Island/1/4">Rhode Island</a></li>
+<li><a href="/categories/South+Carolina/1/4">South Carolina</a></li>
+<li><a href="/categories/South+Dakota/1/4">South Dakota</a></li>
+<li><a href="/categories/Tennessee/1/4">Tennessee</a></li>
+<li><a href="/categories/Texas/1/4">Texas</a></li>
+<li><a href="/categories/Utah/1/4">Utah</a></li>
+<li><a href="/categories/Vermont/1/4">Vermont</a></li>
+<li><a href="/categories/Virginia/1/4">Virginia</a></li>
+<li><a href="/categories/Washington/1/4">Washington</a></li>
+<li><a href="/categories/Washington%2C+DC/1/4">Washington, DC</a></li>
+<li><a href="/categories/West+Virginia/1/4">West Virginia</a></li>
+<li><a href="/categories/Wisconsin/1/4">Wisconsin</a></li>
+<li><a href="/categories/Wyoming/1/4">Wyoming</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="dir"><a href="/categories/Science/1/4">Science</a>
+<ul>
+<li><a href="/categories/Astronomy/1/4">Astronomy</a></li>
+<li><a href="/categories/Biology/1/4">Biology</a></li>
+<li><a href="/categories/Chemistry/1/4">Chemistry</a></li>
+<li><a href="/categories/Earth+Science/1/4">Earth Science</a></li>
+<li><a href="/categories/Environment/1/4">Environment</a></li>
+<li><a href="/categories/Physics/1/4">Physics</a></li>
+<li><a href="/categories/Psychology/1/4">Psychology</a></li>
+<li><a href="/categories/Technology/1/4">Technology</a></li>
+</ul>
+</li>
+<li class="dir"><a href="/categories/Shopping/1/4">Shopping</a>
+<ul>
+<li><a href="/categories/Autos/1/4">Autos</a></li>
+<li><a href="/categories/Beauty+Products/1/4">Beauty Products</a></li>
+<li><a href="/categories/Clothing/1/4">Clothing</a></li>
+<li><a href="/categories/Consumer+Electronics/1/4">Consumer Electronics</a></li>
+<li><a href="/categories/Discount+shopping/1/4">Discount shopping</a></li>
+<li><a href="/categories/Disney+shopping/1/4">Disney shopping</a></li>
+<li><a href="/categories/Gifts/1/4">Gifts</a></li>
+<li><a href="/categories/Home+and+Garden/1/4">Home and Garden</a></li>
+<li><a href="/categories/Home+shopping/1/4">Home shopping</a></li>
+<li><a href="/categories/Online+shopping/1/4">Online shopping</a></li>
+<li><a href="/categories/Outlet+shopping/1/4">Outlet shopping</a></li>
+<li><a href="/categories/Retail+shopping/1/4">Retail shopping</a></li>
+<li><a href="/categories/Shopping-Antiques/1/4">Shopping-Antiques</a></li>
+<li><a href="/categories/Shopping-Collectibles/1/4">Shopping-Collectibles</a></li>
+<li><a href="/categories/Toys+and+Games/1/4">Toys and Games</a></li>
+</ul>
+</li>
+<li class="dir"><a href="/categories/Society/1/4">Society</a>
+<ul>
+<li class="dir"><a href="/categories/Education/1/4">Education</a>
+<ul>
+<li><a href="/categories/Career+Education/1/4">Career Education</a></li>
+<li><a href="/categories/Continuing+Education/1/4">Continuing Education</a></li>
+<li><a href="/categories/Higher+Education/1/4">Higher Education</a></li>
+<li><a href="/categories/Special+Education/1/4">Special Education</a></li>
+<li class="dir"><a href="/categories/Teaching/1/4">Teaching</a>
+<ul>
+<li><a href="/categories/Teaching+Jobs/1/4">Teaching Jobs</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="/categories/Law+Enforcement/1/4">Law Enforcement</a></li>
+<li><a href="/categories/People/1/4">People</a></li>
+<li class="dir"><a href="/categories/Religion/1/4">Religion</a>
+<ul>
+<li><a href="/categories/Atheism/1/4">Atheism</a></li>
+<li><a href="/categories/Buddhism/1/4">Buddhism</a></li>
+<li><a href="/categories/Christianity/1/4">Christianity</a></li>
+<li><a href="/categories/Hinduism/1/4">Hinduism</a></li>
+<li><a href="/categories/Islam/1/4">Islam</a></li>
+<li><a href="/categories/Judaism/1/4">Judaism</a></li>
+<li><a href="/categories/Scientology/1/4">Scientology</a></li>
+<li><a href="/categories/Unitarianism/1/4">Unitarianism</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="dir"><a href="/categories/Sports/1/4">Sports</a>
+<ul>
+<li class="dir"><a href="/categories/Baseball/1/4">Baseball</a>
+<ul>
+<li><a href="/categories/College+Baseball/1/4">College Baseball</a></li>
+<li><a href="/categories/Fantasy+Baseball/1/4">Fantasy Baseball</a></li>
+</ul>
+</li>
+<li class="dir"><a href="/categories/Basketball/1/4">Basketball</a>
+<ul>
+<li><a href="/categories/College+Basketball/1/4">College Basketball</a></li>
+</ul>
+</li>
+<li><a href="/categories/Cheerleading/1/4">Cheerleading</a></li>
+<li class="dir"><a href="/categories/Football/1/4">Football</a>
+<ul>
+<li><a href="/categories/College+Football/1/4">College Football</a></li>
+<li><a href="/categories/Fantasy+Football/1/4">Fantasy Football</a></li>
+</ul>
+</li>
+<li><a href="/categories/Golf/1/4">Golf</a></li>
+<li><a href="/categories/Gymnastics/1/4">Gymnastics</a></li>
+<li><a href="/categories/Hockey/1/4">Hockey</a></li>
+<li><a href="/categories/Martial+Arts/1/4">Martial Arts</a></li>
+<li><a href="/categories/Motorsports/1/4">Motorsports</a></li>
+<li class="dir"><a href="/categories/Nascar/1/4">Nascar</a>
+<ul>
+<li><a href="/categories/Fantasy+Nascar/1/4">Fantasy Nascar</a></li>
+</ul>
+</li>
+<li><a href="/categories/Running/1/4">Running</a></li>
+<li><a href="/categories/Skateboarding/1/4">Skateboarding</a></li>
+<li class="dir"><a href="/categories/Soccer/1/4">Soccer</a>
+<ul>
+<li><a href="/categories/College+Soccer/1/4">College Soccer</a></li>
+</ul>
+</li>
+<li class="dir"><a href="/categories/Softball/1/4">Softball</a>
+<ul>
+<li><a href="/categories/College+Softball/1/4">College Softball</a></li>
+</ul>
+</li>
+<li><a href="/categories/Tennis/1/4">Tennis</a></li>
+<li class="dir"><a href="/categories/Track+and+Field/1/4">Track and Field</a>
+<ul>
+<li><a href="/categories/College+Track+and+Field/1/4">College Track and Field</a></li>
+</ul>
+</li>
+<li><a href="/categories/Volleyball/1/4">Volleyball</a></li>
+<li><a href="/categories/Wrestling/1/4">Wrestling</a></li>
+</ul>
+</li>
+</ul>
 </div>
-
-<div class="menutitle" onclick="SwitchMenu('sub0')">Arts</div>
-<span class="submenu" id="sub0">
-» &nbsp; <a href="/feeds.php?cat=183">Animation</a><br>
-» &nbsp; <a href="/feeds.php?cat=184">Antiques</a><br>
-» &nbsp; <a href="/feeds.php?cat=185">Architecture</a><br>
-» &nbsp; <a href="/feeds.php?cat=148">Arts &amp; Craft</a><br>
-» &nbsp; <a href="/feeds.php?cat=186">Arts History</a><br>
-» &nbsp; <a href="/feeds.php?cat=193">Comics</a><br>
-» &nbsp; <a href="/feeds.php?cat=187">Dance</a><br>
-» &nbsp; <a href="/feeds.php?cat=7">Entertainment</a><br>
-» &nbsp; <a href="/feeds.php?cat=188">Graphic Design</a><br>
-» &nbsp; <a href="/feeds.php?cat=189">Literature</a><br>
-</span>
-<div class="menutitle" onclick="SwitchMenu('sub1')">Business &amp; Economy</div>
-<span class="submenu" id="sub1">
-» &nbsp; <a href="/feeds.php?cat=58">Economics</a><br>
-» &nbsp; <a href="/feeds.php?cat=57">Global Economy</a><br>
-» &nbsp; <a href="/feeds.php?cat=56">Investing</a><br>
-» &nbsp; <a href="/feeds.php?cat=146">Investment Banking</a><br>
-» &nbsp; <a href="/feeds.php?cat=145">Investment Property</a><br>
-» &nbsp; <a href="/feeds.php?cat=144">Investment Securities</a><br>
-» &nbsp; <a href="/feeds.php?cat=54">Jobs</a><br>
-» &nbsp; <a href="/feeds.php?cat=322">Lawyer</a><br>
-» &nbsp; <a href="/feeds.php?cat=85">Marketing</a><br>
-» &nbsp; <a href="/feeds.php?cat=147">Online Investment</a><br>
-</span>
-<div class="menutitle" onclick="SwitchMenu('sub2')">Computer</div>
-<span class="submenu" id="sub2">
-» &nbsp; <a href="/feeds.php?cat=61">Blogs</a><br>
-» &nbsp; <a href="/feeds.php?cat=152">Desktop computer</a><br>
-» &nbsp; <a href="/feeds.php?cat=60">Hardware</a><br>
-» &nbsp; <a href="/feeds.php?cat=24">Internet</a><br>
-» &nbsp; <a href="/feeds.php?cat=318">Multimedia</a><br>
-» &nbsp; <a href="/feeds.php?cat=151">Notebook computer</a><br>
-» &nbsp; <a href="/feeds.php?cat=319">Operating Systems</a><br>
-» &nbsp; <a href="/feeds.php?cat=320">Robotics</a><br>
-» &nbsp; <a href="/feeds.php?cat=31">Software</a><br>
-</span>
-<div class="menutitle" onclick="SwitchMenu('sub3')">Games</div>
-<span class="submenu" id="sub3">
-» &nbsp; <a href="/feeds.php?cat=284">Arcade Game</a><br>
-» &nbsp; <a href="/feeds.php?cat=282">Board Game</a><br>
-» &nbsp; <a href="/feeds.php?cat=285">Card Game</a><br>
-» &nbsp; <a href="/feeds.php?cat=63">Gambling</a><br>
-» &nbsp; <a href="/feeds.php?cat=150">Game Cheats</a><br>
-» &nbsp; <a href="/feeds.php?cat=287">Game Downloads</a><br>
-» &nbsp; <a href="/feeds.php?cat=283">Kids Game</a><br>
-» &nbsp; <a href="/feeds.php?cat=149">Online Game</a><br>
-» &nbsp; <a href="/feeds.php?cat=286">Puzzle Game</a><br>
-» &nbsp; <a href="/feeds.php?cat=280">Toy Game</a><br>
-</span>
-<div class="menutitle" onclick="SwitchMenu('sub4')">Government</div>
-<span class="submenu" id="sub4">
-» &nbsp; <a href="/feeds.php?cat=277">Canadian Government</a><br>
-» &nbsp; <a href="/feeds.php?cat=50">Elections</a><br>
-» &nbsp; <a href="/feeds.php?cat=276">Federal Government</a><br>
-» &nbsp; <a href="/feeds.php?cat=278">Government Auction</a><br>
-» &nbsp; <a href="/feeds.php?cat=279">Government Grants</a><br>
-» &nbsp; <a href="/feeds.php?cat=275">Government Jobs</a><br>
-» &nbsp; <a href="/feeds.php?cat=51">Military</a><br>
-» &nbsp; <a href="/feeds.php?cat=84">Politics</a><br>
-» &nbsp; <a href="/feeds.php?cat=274">State Government</a><br>
-» &nbsp; <a href="/feeds.php?cat=52">Taxes</a><br>
-</span>
-<div class="menutitle" onclick="SwitchMenu('sub5')">Health</div>
-<span class="submenu" id="sub5">
-» &nbsp; <a href="/feeds.php?cat=228">Addictions</a><br>
-» &nbsp; <a href="/feeds.php?cat=229">Aging</a><br>
-» &nbsp; <a href="/feeds.php?cat=35">Alternative Medicine</a><br>
-» &nbsp; <a href="/feeds.php?cat=230">Beauty</a><br>
-» &nbsp; <a href="/feeds.php?cat=161">Cancer</a><br>
-» &nbsp; <a href="/feeds.php?cat=321">Crohns</a><br>
-» &nbsp; <a href="/feeds.php?cat=65">Disease</a><br>
-» &nbsp; <a href="/feeds.php?cat=33">Fitness</a><br>
-» &nbsp; <a href="/feeds.php?cat=241">Health Care</a><br>
-» &nbsp; <a href="/feeds.php?cat=240">Health Food</a><br>
-</span>
-<div class="menutitle" onclick="SwitchMenu('sub6')">News</div>
-<span class="submenu" id="sub6">
-» &nbsp; <a href="/feeds.php?cat=68">Columns &amp; Columnists</a><br>
-» &nbsp; <a href="/feeds.php?cat=67">Internet Broadcast</a><br>
-» &nbsp; <a href="/feeds.php?cat=32">Media</a><br>
-» &nbsp; <a href="/feeds.php?cat=294">National News</a><br>
-» &nbsp; <a href="/feeds.php?cat=293">News Blogs</a><br>
-» &nbsp; <a href="/feeds.php?cat=66">Newspaper</a><br>
-» &nbsp; <a href="/feeds.php?cat=299">Sporting News</a><br>
-» &nbsp; <a href="/feeds.php?cat=37">Weather</a><br>
-</span>
-<div class="menutitle" onclick="SwitchMenu('sub7')">Recreation</div>
-<span class="submenu" id="sub7">
-» &nbsp; <a href="/feeds.php?cat=215">Aviation</a><br>
-» &nbsp; <a href="/feeds.php?cat=200">Boating</a><br>
-» &nbsp; <a href="/feeds.php?cat=201">Bowling</a><br>
-» &nbsp; <a href="/feeds.php?cat=202">Climbing</a><br>
-» &nbsp; <a href="/feeds.php?cat=26">Cruise</a><br>
-» &nbsp; <a href="/feeds.php?cat=39">Food</a><br>
-» &nbsp; <a href="/feeds.php?cat=203">Gardening</a><br>
-» &nbsp; <a href="/feeds.php?cat=204">Genealogy</a><br>
-» &nbsp; <a href="/feeds.php?cat=205">Guns</a><br>
-» &nbsp; <a href="/feeds.php?cat=206">Horoscopes</a><br>
-</span>
-<div class="menutitle" onclick="SwitchMenu('sub8')">Reference</div>
-<span class="submenu" id="sub8">
-» &nbsp; <a href="/feeds.php?cat=314">Almanacs</a><br>
-» &nbsp; <a href="/feeds.php?cat=316">Bibliography</a><br>
-» &nbsp; <a href="/feeds.php?cat=44">Dictionary</a><br>
-» &nbsp; <a href="/feeds.php?cat=43">Directory</a><br>
-» &nbsp; <a href="/feeds.php?cat=69">Encyclopedia</a><br>
-» &nbsp; <a href="/feeds.php?cat=315">Journals</a><br>
-» &nbsp; <a href="/feeds.php?cat=70">Library</a><br>
-» &nbsp; <a href="/feeds.php?cat=42">Maps</a><br>
-</span>
-<div class="menutitle" onclick="SwitchMenu('sub9')">Regional</div>
-<span class="submenu" id="sub9">
-» &nbsp; <a href="/feeds.php?cat=141">Africa</a><br>
-» &nbsp; <a href="/feeds.php?cat=142">Asia</a><br>
-» &nbsp; <a href="/feeds.php?cat=87">North America</a><br>
-</span>
-<div class="menutitle" onclick="SwitchMenu('sub10')">Science</div>
-<span class="submenu" id="sub10">
-» &nbsp; <a href="/feeds.php?cat=75">Astronomy</a><br>
-» &nbsp; <a href="/feeds.php?cat=71">Biology</a><br>
-» &nbsp; <a href="/feeds.php?cat=74">Chemistry</a><br>
-» &nbsp; <a href="/feeds.php?cat=76">Earth Science</a><br>
-» &nbsp; <a href="/feeds.php?cat=12">Environment</a><br>
-» &nbsp; <a href="/feeds.php?cat=73">Physics</a><br>
-» &nbsp; <a href="/feeds.php?cat=72">Psychology</a><br>
-» &nbsp; <a href="/feeds.php?cat=14">Technology</a><br>
-</span>
-<div class="menutitle" onclick="SwitchMenu('sub11')">Shopping</div>
-<span class="submenu" id="sub11">
-» &nbsp; <a href="/feeds.php?cat=77">Autos</a><br>
-» &nbsp; <a href="/feeds.php?cat=196">Beauty Products</a><br>
-» &nbsp; <a href="/feeds.php?cat=78">Clothing</a><br>
-» &nbsp; <a href="/feeds.php?cat=197">Consumer Electronics</a><br>
-» &nbsp; <a href="/feeds.php?cat=157">Discount shopping</a><br>
-» &nbsp; <a href="/feeds.php?cat=159">Disney shopping</a><br>
-» &nbsp; <a href="/feeds.php?cat=79">Gifts</a><br>
-» &nbsp; <a href="/feeds.php?cat=194">Home and Garden</a><br>
-» &nbsp; <a href="/feeds.php?cat=158">Home shopping</a><br>
-» &nbsp; <a href="/feeds.php?cat=155">Online shopping</a><br>
-</span>
-<div class="menutitle" onclick="SwitchMenu('sub12')">Society</div>
-<span class="submenu" id="sub12">
-» &nbsp; <a href="/feeds.php?cat=2">Education</a><br>
-» &nbsp; <a href="/feeds.php?cat=139">Law Enforcement</a><br>
-» &nbsp; <a href="/feeds.php?cat=80">People</a><br>
-» &nbsp; <a href="/feeds.php?cat=48">Religion</a><br>
-</span>
-<div class="menutitle" onclick="SwitchMenu('sub13')">Sports</div>
-<span class="submenu" id="sub13">
-» &nbsp; <a href="/feeds.php?cat=9">Soccer</a><br>
-» &nbsp; <a href="/feeds.php?cat=20">Baseball</a><br>
-» &nbsp; <a href="/feeds.php?cat=81">Basketball</a><br>
-» &nbsp; <a href="/feeds.php?cat=216">Cheerleading</a><br>
-» &nbsp; <a href="/feeds.php?cat=19">Football</a><br>
-» &nbsp; <a href="/feeds.php?cat=22">Golf</a><br>
-» &nbsp; <a href="/feeds.php?cat=217">Gymnastics</a><br>
-» &nbsp; <a href="/feeds.php?cat=82">Hockey</a><br>
-» &nbsp; <a href="/feeds.php?cat=218">Martial Arts</a><br>
-» &nbsp; <a href="/feeds.php?cat=219">Motorsports</a><br>
-</span>
-
-</div><!-- END CATEGORIES -->
+<!-- google_ad_section_end --><!-- END CATEGORIES -->
 </div>
 <!-- END LEFT SIDE -->
 
@@ -285,13 +541,13 @@ animatedcollapse.init()
 
 <div>
 	<ul>
+	<li><a href="/myfeedage/signup.php">Sign Up</a></li>
+	<li><a href="/myfeedage/login.php">Login</a></li>
     <li><a href="/howtouse_feedage.php">How to use Feedage</a></li>
     <li><a href="/about_rss_feeds.php">What is RSS</a></li>
     <li><a href="/rss_feed_readers.php">Feeds Readers/Aggregators</a></li>
     <li><a href="/articles/index.php">RSS Articles</a></li>
     <li><a href="/about_feedage.php">About Feedage</a></li>
-	<li><a href="/feedage_logos.php">Feedage Logos</a></li>
-	<li><a href="/store/">Feedage Store</a></li>
 	</ul>
 </div>
 
@@ -360,6 +616,10 @@ animatedcollapse.init()
 	a researcher) at any time by calling our consumer service number 
 	in your country or by sending an e-mail - Go to our Service area. 
 	</p>
+	<p> Google, as a third party vendor, uses cookies to serve ads on this site. 
+	Google's use of the DART cookie enables it to serve ads to our users based on their visit to this sites and other sites on the Internet. 
+	Users may opt out of the use of the DART cookie by visiting the <a href="http://www.google.com/privacy_ads.html">Google ad and content network privacy policy</a>.
+	</p>
 			
 </div>
 </div>
@@ -370,15 +630,20 @@ animatedcollapse.init()
 
 <!-- FOOTER -->
 <div id="footer">
+<!-- google_ad_section_start(weight=ignore) -->
 <div>
-
-Copyright 2006-2008 Feedage.com LLC - <a href="/privacy_policy.php">Privacy policy</a> - <a href="/feedage_sitemap.php">Sitemap</a> - <a href="/press/">Press</a><br>
-
-<a href="/terms_of_service.php">Terms of Service</a> - <a href="/copyright_info.php">Copyright information</a> - <a href="/contact_feedage.php">Contact Us</a> - <a href="/about_feedage.php">About Us</a><br>
-
-<a href="http://www.hoppinggoodblogs.com">HoppingGoodBlogs.com</a> - <a href="http://www.stoneharborart.com">Stone Harbor Art</a> - <a href="/">Feedage</a> - <a href="http://www.thetimelines.com">The Timelines</a><br>
+Copyright 2006-2009 <a href="http://www.feedagellc.com">Feedage.com LLC</a><br>
+<a href="/privacy_policy.php">Privacy policy</a> - 
+<a href="/feedage_sitemap.php">Sitemap</a> - <a href="/press/">Press</a> -
+<a href="/terms_of_service.php">Terms of Service</a> - 
+<a href="/copyright_info.php">Copyright information</a> - 
+<a href="/contact_feedage.php">Contact Us</a> - 
+<a href="/about_feedage.php">About Us</a> -
+<a href="/">Feedage</a><br>
 <br>
 <a href="http://www.jmvmedia.com">Website Design by: JMVMedia.com</a> - <a href="http://www.edwardbeckett.com" target="_blank">Florida Search Engine Optimization</a>
+<br><br>
+<small>Language Detection Powered by</small><img src="http://www.google.com/uds/css/small-logo.png">
 <br><br>
 </div>
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
@@ -386,7 +651,8 @@ Copyright 2006-2008 Feedage.com LLC - <a href="/privacy_policy.php">Privacy poli
 <script type="text/javascript">
 _uacct = "UA-1446125-1";
 urchinTracker();
-</script></div>
+</script>
+<!-- google_ad_section_end --></div>
 <!-- END FOOTER -->
 
 
