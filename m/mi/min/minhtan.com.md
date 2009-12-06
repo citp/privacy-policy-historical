@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the minhtan.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618102521id_/http%3A//www.minhtan.com/index.php%3Ftarget%3Dpages%26page_id%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minhtan.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206025720id_/http%3A//www.minhtan.com/index.php%3Fdispatch%3Dpages.view%26page_id%3D12) for the most accurate reproduction.*
 
-# Minh Tan Online store - Music, Video And More... - Privacy policy
+# Privacy policy - Minh Tan Online store - Music, Video And More...
 
 CS-Cart is committed to protecting your privacy.  
 This privacy statement discloses what information we gather about you when you visit the CS-Cart.com Site and describes how we use that information. Our policy is to keep the personal information we receive from our Site completely confidential and used solely for internal purposes. We will not share your personal information with any other parties.
@@ -16,6 +16,6 @@ We may use your personal information to provide you with important information a
 
  **Questions:**
 
-If you have any questions about this Privacy Statement or concerns about the way we process your Personal Data, please contact us using the [Contact Us](https://web.archive.org/web/20090618102521id_/http%3A//www.minhtan.com/index.php?target=forms&name=contact_us) form. 
+If you have any questions about this Privacy Statement or concerns about the way we process your Personal Data, please contact us using the [Contact Us](https://web.archive.org/web/20091206025720id_/http%3A//www.minhtan.com/index.php?target=forms&name=contact_us) form. 
 
 We may occasionally modify this privacy statement. All such changes will be reflected on this web page. 
