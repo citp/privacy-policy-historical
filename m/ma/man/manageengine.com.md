@@ -1,30 +1,28 @@
-> *The following text is extracted and transformed from the manageengine.com privacy policy that was archived on 2009-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090205055820id_/http%3A//www.adventnet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manageengine.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207165411id_/http%3A//www.manageengine.com/privacy.html) for the most accurate reproduction.*
 
-# AdventNet Privacy Policy
+# ManageEngine Privacy Policy
 
 | 
 
-[Home](http://www.adventnet.com/index.html) > AdventNet Privacy Policy
-
 12th October 2006
 
-[www.adventnet.com](http://www.adventnet.com/), [www.manageengine.com](http://www.manageengine.com/), [www.securecentral.com](http://www.securecentral.com/), [www.swissql.com](http://www.swissql.com/), [www.sqlone.com](http://www.sqlone.com/), [www.dbchangemanager.com](http://www.dbchangemanager.com/), [www.codeminer.com](http://www.codeminer.com/), [www.linuxmonitor.com](http://www.linuxmonitor.com/) and [www.zoho.com](http://www.zoho.com/) are websites owned by AdventNet, Inc.
+[www.webnms.com](http://www.webnms.com/), [www.manageengine.com](http://www.manageengine.com/), [www.securecentral.com](http://www.securecentral.com/), [www.swissql.com](http://www.swissql.com/), [www.sqlone.com](http://www.sqlone.com/), [www.dbchangemanager.com](http://www.dbchangemanager.com/), [www.codeminer.com](http://www.codeminer.com/), [www.linuxmonitor.com](http://www.linuxmonitor.com/) and [www.zoho.com](http://www.zoho.com/) are websites owned by ZOHO Corp..
 
 Our postal address is 
 
-AdventNet, Inc.  
+ZOHO Corp.  
 4900 Hopyard Rd., Suite 310   
 Pleasanton, CA 94588, USA
 
-We can be reached via e-mail at [support@adventnet.com](mailto:support@adventnet.com), or you can reach AdventNet Customer Support Services by telephone at +1 925 924 9500 and +1-888-720-9500 (Monday to Friday). 
+We can be reached via e-mail at [support@manageengine.com](mailto:support@manageengine.com), or you can reach ManageEngine Customer Support Services by telephone at +1 925 924 9500 and +1-888-720-9500 (Monday to Friday). 
 
 ## General
 
-You can visit most areas of our websites without providing personal information. But at times we do need such information for providing access to products or services requested by you. At AdventNet we respect your need for online privacy and protect any information that you may share with us, in an appropriate manner. In compliance with the Children's Online Privacy Protection Act of 1998, AdventNet does not collect personal information from users who are under 13 years of age. By agreeing to use our products or services, you represent that you are 13 years or older.
+You can visit most areas of our websites without providing personal information. But at times we do need such information for providing access to products or services requested by you. At ManageEngine we respect your need for online privacy and protect any information that you may share with us, in an appropriate manner. In compliance with the Children's Online Privacy Protection Act of 1998, ManageEngine does not collect personal information from users who are under 13 years of age. By agreeing to use our products or services, you represent that you are 13 years or older.
 
 ## Information we collect
 
-When you sign up for an AdventNet service that requires registration or express interest in our products, we ask you for personal information such as your name and email address. You may also be asked to choose a unique username, a password, a security question and an answer to the security question. In addition, we collect information regarding the Internet Protocol address, browser type, browser language, referring URL, files accessed, errors generated, time zone and operating system of visitors to our websites. In case of products or services requiring payment, we request credit card or other payment account information, which will be used solely for processing payments. If you are a user of Zoho services, we also store and maintain your documents, to-do list and other data stored in your account in order to provide the services for which you are registered.
+When you sign up for an ManageEngine service that requires registration or express interest in our products, we ask you for personal information such as your name and email address. You may also be asked to choose a unique username, a password, a security question and an answer to the security question. In addition, we collect information regarding the Internet Protocol address, browser type, browser language, referring URL, files accessed, errors generated, time zone and operating system of visitors to our websites. In case of products or services requiring payment, we request credit card or other payment account information, which will be used solely for processing payments. If you are a user of Zoho services, we also store and maintain your documents, to-do list and other data stored in your account in order to provide the services for which you are registered.
 
 We use temporary and permanent cookies to enhance the experience on our websites. Temporary cookies will be removed from your computer each time you close your browser. By selecting ‘keep me signed-in’ option in Zoho services, a permanent cookie will be stored in your computer and you will not have to sign-in by providing complete login information, each time you return to our website. If you have turned cookies off, you may not be able to use registered areas of the websites.  
 
@@ -60,18 +58,18 @@ You will be required to register for our services by providing personal informat
 
 ## Accessing, Updating and Removing Personal Information 
 
-Upon request we provide users with access to their personally identifiable information free of charge. Users may correct, update or remove any such personally identifiable information either through the users’ profile or by contacting AdventNet Customer Support Services. Such changes may take up to 48 hours to take effect. 
+Upon request we provide users with access to their personally identifiable information free of charge. Users may correct, update or remove any such personally identifiable information either through the users’ profile or by contacting ManageEngine Customer Support Services. Such changes may take up to 48 hours to take effect. 
 
 ## Enforcement of Privacy Policy
 
-We make every effort including periodic reviews to ensure that personal information provided by you is used in conformity with this privacy policy. If you have any concerns regarding our adherence to this policy or the manner in which personal information is used on our websites, kindly contact AdventNet Customer Support Services at [support@adventnet.com](mailto:support@adventnet.com). We will contact you to address your concerns and we will also co-operate with regulatory authorities in this regard.
+We make every effort including periodic reviews to ensure that personal information provided by you is used in conformity with this privacy policy. If you have any concerns regarding our adherence to this policy or the manner in which personal information is used on our websites, kindly contact ManageEngine Customer Support Services at [support@manageengine.com](mailto:support@manageengine.com). We will contact you to address your concerns and we will also co-operate with regulatory authorities in this regard.
 
 ## Notification of Changes 
 
-Any changes to our privacy policy will be posted on our websites in order to keep you informed of any changes in nature of information collected and manner of collection, use and sharing of information. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by email and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at <http://www.adventnet.com/privacy.html> periodically.
+Any changes to our privacy policy will be posted on our websites in order to keep you informed of any changes in nature of information collected and manner of collection, use and sharing of information. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by email and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at <http://www.manageengine.com/privacy.html> periodically.
 
 ## END OF PRIVACY POLICY
 
-If you have any questions or concerns regarding this privacy policy, please contact us at [legal@adventnet.com](mailto:legal@adventnet.com)
+If you have any questions or concerns regarding this privacy policy, please contact us at [legal@manageengine.com](mailto:legal@manageengine.com)
 
 | 
