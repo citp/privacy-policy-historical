@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the mattressfirm.com privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505173800id_/http%3A//www.mattressfirm.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mattressfirm.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207231803id_/http%3A//www.mattressfirm.com/PRIVACY%2520POLICY-M27.aspx) for the most accurate reproduction.*
 
-# Mattress Firm | Privacy
+# Privacy Policy
 
 Mattress Firm is committed to making your search for the perfect mattress and a great night sleep as pleasurable and easy as possible. Maintaining your privacy is part of that commitment. As such, this privacy policy describes the types of personal and non-personal information we collect on Mattressfirm.com (the “Site,”) how we use such information and to whom and under what circumstances we may disclose it. By using the Site, you agree to the collection, use and disclosure of your personally identifiable information as described in this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site.
 
 Rest Easy: What do we collect?
 
-**Personal Information:**  
+ **Personal Information:**  
 We only collect personal information from you when you: 1) register on the Site, 2) complete a survey, 3) contact us; and 4) order products and services. 
 
 **Non-personal Information:**  
 As part of the standard operation of the Site, we may collect certain non-personal information from you, including, but not limited to your Internet IP address, browser type, domain name, operating system, and referring website addresses. In addition, we may collect information about your browsing behavior, such as the date and time you visit the Site, the areas or pages of the Site that you visit, the amount of time you spend viewing the Site, the number of times you return to the Site and other click-stream data. This helps us assist you by allowing us to understand how visitors use our services. This data also becomes part of your unique profile and allows us to make your shopping experience beneficial. 
 
 **Cookies**  
-We may use cookies to collect the non-personal information described above. A cookie is a small text file that may be stored on the hard drive of your computer when you access the Site. We may also use cookies to: 1) provide you with customized content and advertising, 2) monitor Site usage, and 3) conduct research to improve our content and services. You are free to decline cookies, but by doing so, you may not be able to use certain features on the Site or take full advantage of all our offerings. Check the “Help” menu of your browser to learn how to change your cookie preferences. 
+We may use cookies to collect the non-personal information described above. A cookie is a small text file that may be stored on the hard drive of your computer when you access the Site. We may also use cookies to: 1) provide you with customized content and advertising, 2) monitor Site usage, and 3) conduct research to improve our content and services. You are free to decline cookies, but by doing so, you may not be able to use certain features on the Site or take full advantage of all our offerings. Check the “Help” menu of your browser to learn how to change your cookie preferences. 
 
 Rest Easy: How we use It?
 
@@ -34,4 +34,4 @@ As we continue to develop our business, we or our affiliates may sell or buy oth
 **Changes to this Privacy Policy**  
 We may change this privacy policy from time to time. When we do, we will post the change(s) on the Site. If we change the policy in a material way, we will provide appropriate online notice to you. 
 
-If you have any questions or concerns about this Privacy Policy, please contact us at [customerservice@mattressfirm.com](mailto:customerservice@mattressfirm.com). 
+If you have any questions or concerns about this Privacy Policy, please contact us at [customerservice@mattressfirm.com](mailto:customerservice@mattressfirm.com).
