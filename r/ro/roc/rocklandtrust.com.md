@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rocklandtrust.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417202107id_/http%3A//www.rocklandtrust.com/About/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocklandtrust.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207200323id_/http%3A//www.rocklandtrust.com/About/Privacy.aspx) for the most accurate reproduction.*
 
 # Welcome to Rockland Trust
 
@@ -69,7 +69,7 @@ The rules apply to customers who maintain a deposit account or loan account or s
 We only obtain the information that is necessary to complete the transaction, and retain only the information that we are required by law to retain. We do not make any information available to any third party except to complete or confirm your request transaction or upon request by you.
 
 **What third party marketing arrangements are currently in place?**  
-We use IFMG Securities, a Sun Life financial company, to provide investment and insurance products to our customers. We also provide credit cards through our marketing partner MBNA. We do not provide account numbers or transaction information to them but do inform them that you are a customer of the bank.
+We offer securities and insurance products through LPL Financial and its affiliates, members of FINRA and SIPC. We also provide credit cards through our marketing partner FIA. We do not provide account numbers or transaction information to them but do inform them that you are a customer of the bank. 
 
 **What kind of information do you collect?**  
 The kind of information we collect depends upon your financial needs and the products and services you request. For example, when you apply for a loan or open an account with us, we need information about your financial status - such as your place of employment, income, monthly expenses and personal assets and outstanding debts - to process your requests. In addition, in order to make your banking as convenient and efficient as possible, we maintain information about your transactions with us, your account balance and repayment history. 
@@ -127,6 +127,6 @@ DMA Telephone Preference Service
 P.O.Box 9014  
 Farmingdale, NY 11735-9014 
 
-For more information visit: [www.the-dma.org](https://web.archive.org/web/20090417202107id_/http%3A//www.rocklandtrust.com/pop/Disclaimer.aspx?url=http://www.the-dma.org/).
+For more information visit: [www.the-dma.org](https://web.archive.org/web/20091207200323id_/http%3A//www.rocklandtrust.com/pop/Disclaimer.aspx?Value=57).
 
 :: Top of the page ::
