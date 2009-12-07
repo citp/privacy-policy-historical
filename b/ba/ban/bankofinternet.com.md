@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankofinternet.com privacy policy that was archived on 2009-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090423072116id_/http%3A//www.bankofinternet.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankofinternet.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207030126id_/https%3A//www.bankofinternet.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Bank of Internet
 
