@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the defensetech.org privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604084205id_/http%3A//www.military.com/AboutUs/More/1%2C14822%2CPrivacy_Policy%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the defensetech.org privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207021546id_/http%3A//www.military.com/AboutUs/More/1%2C14822%2CPrivacy_Policy%2C00.html) for the most accurate reproduction.*
 
 # About Us - Military.com
 
