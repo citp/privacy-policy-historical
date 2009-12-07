@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unisa.edu.au privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503071812id_/http%3A//www.unisa.edu.au/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unisa.edu.au privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207222956id_/http%3A//unisa.edu.au/footer/privacy) for the most accurate reproduction.*
 
 # Privacy statement
 
@@ -29,9 +29,9 @@ We do not share your email address with other organisations for them to market t
 
 ## Website usage
 
-The University of South Australia makes a record of your visit to our website using Deepmetrix Livestats software. We log the following information for statistical purposes - IP address, the user's top level domain name (eg .com .gov .au, etc), the date and time of the visit to the site, the pages accessed and documents downloaded, the previous site visited and the type of browser used. [More information about Deepmetrix products and services privacy](http://www.deepmetrix.com/legal/privacy/products/).
+The University of South Australia makes a record of your visit to our website using Google Analytics Web statistics service. We log the following information for statistical purposes - IP address, the date and time of the visit to the site, the pages accessed and documents downloaded, the previous site visited and the type of browser and OS being used. [More information about Google Analytics and privacy](http://www.google.com/privacypolicy.html). 
 
-No attempt will be made to identify users or their browsing activities except, in the unlikely event of an investigation, where a law enforcement agency may exercise a warrant to inspect the service provider's logs.
+No attempt will be made to identify users or their browsing activities except, in the unlikely event of an investigation, where a law enforcement agency may exercise a warrant to inspect the service provider's logs. 
 
 ## Personal or financial information 
 
