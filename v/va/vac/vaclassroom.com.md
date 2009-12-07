@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the vaclassroom.com privacy policy that was archived on 2008-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080820063121id_/http%3A//www.vaclassroom.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vaclassroom.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207071930id_/http%3A//www.vaclassroom.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Niche Virtual Assistant Training Center
+
+| 
 
 **PRIVACY POLICY **
 
@@ -58,3 +60,5 @@ VAClassroom.com neither owns nor controls Third-Party Websites. Accordingly, Thi
 Although most changes are likely to be minor, VAClassroom.com reserves the right, at any time and without notice, to add to, update, change or modify this Privacy Policy, simply by posting such update, change or modification on this page. Any such addition, update, change or modification will be effective immediately upon posting on the Website. Each time You use the Website, the then-current version of this Privacy Policy will apply. Accordingly, each time You use the Website You should check the date of this Privacy Policy (which appears at the end) and review any changes since the last time You used the Website. Unless VAClassroom.com obtains Your express consent, any revised Privacy Policy will apply only to information collected after the effective date of such revised Privacy Policy, and not to information collected under any earlier Privacy Policy. 
 
 Effective Date: [March 13, 2008]
+
+| 
