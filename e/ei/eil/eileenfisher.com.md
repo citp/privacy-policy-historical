@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the eileenfisher.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604084456id_/http%3A//eileenfisher.com/thecompany/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eileenfisher.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207010721id_/http%3A//www.eileenfisher.com/EileenFisher/GeneralContent/privacy.jsp%3FbmLocale%3Den_US) for the most accurate reproduction.*
 
-# eileenfisher.com
+# Eileen Fisher - Company
 
-  
-PRIVACY POLICY
+**EILEEN FISHER PRIVACY POLICY**
 
-Our privacy policy reflects our long history of customer service and the high value we place on our customers’ trust. EILEEN FISHER Inc. is committed to protecting our customers’ right to privacy and to the ethical and responsible use of your information online. 
+Our privacy policy reflects our long history of customer service and the high value we place on our customers' trust. EILEEN FISHER, Inc. is committed to protecting our customers' right to privacy and to the ethical and responsible use of your information online. We never sell or share our mailing lists with any other company.
 
 We collect information to help us enhance your online experience, as well as to communicate with you about products, services and promotions. Any personally identifiable information you entrust to us is protected. We use the industry-standard Secure Sockets Layer (SSL) technology to keep your online information secure.
 
@@ -15,13 +14,26 @@ In our efforts to provide the best quality services to you, we may hire other pa
 
 Except as noted above, we will not share any of your personally identifiable information with anyone.
 
-**Important Note** **  
-** We may disclose specific information about customers if required to do so by law or if we believe in good faith that it is necessary to comply with the law or if it is necessary to protect website users, the website itself or the public. 
+**IMPORTANT NOTE**
+
+We may disclose specific information about customers if required to do so by law or if we believe in good faith that it is necessary to comply with the law or if it is necessary to protect website users, the website itself or the public.
 
 By using our website, you agree to our privacy policy as described above and to our terms of use.
 
-If you have any questions about our privacy policy or our [ terms of use](https://web.archive.org/thecompany/termsofuse.aspx), please email us at [info@eileenfisher.com](mailto:info@eileenfisher.com). 
+If you have any questions about our privacy policy or our 
 
-OPT-OUT
+[_terms of use_](https://web.archive.org/web/20091207010721id_/http%3A//www.eileenfisher.com/EileenFisher/GeneralContent/terms.jsp)
 
-If you would like to remove your name from our email or postal mailing list please let us know by email [info@eileenfisher.com](mailto:info@eileenfisher.com) or by writing to us at **2 Bridge Street, Irvington, New York 10533**. In order for us to ensure your name is removed from our mailing lists, please provide us with your exact email address or name and address the way it appears on our mailing label. Updates to our mailing list may take up to four weeks to process.
+, please email us at 
+
+[_info@eileenfisher.com_](mailto:info@eileenfisher.com)
+
+.
+
+**OPT-OUT**
+
+If you would like to remove your name from our email or postal mailing list please let us know by emailing 
+
+[_info@eileenfisher.com_](mailto:info@eileenfisher.com)
+
+or by writing to us at Attn: Website Marketing Dept., 2 Bridge Street, Ste. 230, Irvington, New York 10533. In order for us to ensure your name is removed from our mailing lists, please provide us with your exact email address or name and address the way it appears on our mailing label. Updates to our mailing list may take up to four weeks to process. 
