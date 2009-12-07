@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toocle.com privacy policy that was archived on 2009-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090404021008id_/http%3A//www.toocle.com/about_us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toocle.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207045127id_/http%3A//www.toocle.com/about_us/privacy.html) for the most accurate reproduction.*
 
 # Toocle - A trading circle connecting sellers around one buyer
 
@@ -12,7 +12,9 @@
 | [Search Services](https://web.archive.org/about_us/search_services.html)  
 | [User Guide](https://web.archive.org/about_us/user_guide.html)  
 | [Demo](https://web.archive.org/about_us/demo-english.htm)  
+| [Sitemap](https://web.archive.org/about_us/sitemap.htm)  
 | [](https://web.archive.org/about_us/demo-china.htm)  
+| [2010年国外参展计划](https://web.archive.org/about_us/expo.htm)  
   | 
 
 This site is owned and operated by NetSun. Your privacy on the Internet is of the utmost importance to us. At Toocle, we want to make your experience online satisfying and safe.  
