@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heartland.org privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603190703id_/http%3A//www.heartland.org/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartland.org privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207063338id_/http%3A//www.heartland.org/legal/privacy.html) for the most accurate reproduction.*
 
 # The Heartland Institute: Privacy Policy
 
@@ -7,7 +7,14 @@ The Heartland Institute is firmly committed to protecting the privacy of its Web
   * www.heartland.org
   * www.globalwarmingheartland.org
   * www.heartlandstore.org (an Amazon Webstore also governed by [its privacy policy](http://www.amazon.com/gp/help/customer/display.html?ie=UTF8&nodeId=468496))
+  * www.chcchoices.org
+  * www.nipccreport.org
   * www.newcoalition.org
+  * www.budgetandtax-news.org
+  * www.environmentandclimate-news.org
+  * www.healthpolicy-news.org
+  * www.infotech-news.org
+  * www.schoolreform-news.org
 
 
 
