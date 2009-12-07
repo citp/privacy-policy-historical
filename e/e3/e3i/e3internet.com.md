@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e3internet.com privacy policy that was archived on 2008-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080918175058id_/http%3A//www.e3internet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e3internet.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207082043id_/http%3A//www.e3internet.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
