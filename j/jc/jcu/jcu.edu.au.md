@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jcu.edu.au privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617050720id_/http%3A//www.jcu.edu.au/top/jcuprd_013722.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jcu.edu.au privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207115845id_/http%3A//www.jcu.edu.au/top/JCUPRD_013722) for the most accurate reproduction.*
 
-# 
+# JCU Privacy Statement - JCU
 
 James Cook University is committed to protecting your privacy and complying with legislation governing the handling of personal information. Personal information collected through electronic traffic will be used only for the University’s educational, research and administrative processes, unless:
 
