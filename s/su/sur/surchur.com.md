@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the surchur.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525193559id_/http%3A//surchur.com/info/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surchur.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207025451id_/http%3A//surchur.com/info/Privacy%2BPolicy) for the most accurate reproduction.*
 
-# Surchur - the latest. the greatest.
+# surchur – The Dashboard to Right Now. Real Time Search and Real Time Discovery
 
 _Surchur.com (“Surchur”) operates the Surchur.com. It is Surchur’s policy to respect your privacy regarding any information we may collect while operating our websites._
 
