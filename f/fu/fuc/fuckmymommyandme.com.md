@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fuckmymommyandme.com privacy policy that was archived on 2009-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090630161327id_/http%3A//www.fuckmymommyandme.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuckmymommyandme.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207115809id_/http%3A//www.customerhelponline.com/l/privacy.html%3Fsite%3Dfuckmymommyandme) for the most accurate reproduction.*
 
 # HOH Limited Privacy Policy Statement
 
