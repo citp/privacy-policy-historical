@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlastechng.com privacy policy that was archived on 2009-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090511055019id_/http%3A//www.atlastechng.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlastechng.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207124804id_/http%3A//atlastechng.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Atlas systems Privacy Policy ..
 
