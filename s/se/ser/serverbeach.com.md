@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serverbeach.com privacy policy that was archived on 2009-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090317092642id_/http%3A//www.serverbeach.com/aboutus/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serverbeach.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207202200id_/http%3A//www.serverbeach.com/aboutus/privacypolicy.php) for the most accurate reproduction.*
 
 # Peer 1 Privacy Policy
 
