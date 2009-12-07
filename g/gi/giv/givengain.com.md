@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the givengain.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619082603id_/http%3A//www.givengain.com/cgi-bin/giga.cgi%3Fcmd%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the givengain.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207030411id_/http%3A//www.givengain.com/cgi-bin/giga.cgi%3Fcmd%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy - One World. Zero Barriers
 
