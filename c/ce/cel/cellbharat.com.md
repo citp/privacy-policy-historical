@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cellbharat.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609115207id_/http%3A//cellbharat.com/tos/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellbharat.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207213140id_/http%3A//cellbharat.com/tos/privacy) for the most accurate reproduction.*
 
 # CellBharat.com | Buy and Sell Mobile Phones
 
