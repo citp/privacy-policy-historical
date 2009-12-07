@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestmanagementarticles.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912030938id_/http%3A//www.bestmanagementarticles.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestmanagementarticles.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207111349id_/http%3A//bestmanagementarticles.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Business and management articles submission site.
 
@@ -9,7 +9,10 @@ Advertisers
 We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.   
    
 Cookies  
-Our Site uses cookies to keep track of your shopping cart, and to make sure you don't see the same ad repeatedly. We also use cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site. Third parties may also place and read cookies on our users' browser, or use web beacons to collect information, in the course of ads being served on our website.  
+Our Site uses cookies to keep track of your shopping cart, and to make sure you don't see the same ad repeatedly. We also use cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site. Third parties may also place and read cookies on our users' browser, or use web beacons to collect information, in the course of ads being served on our website.
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).  
+  
    
 Registration Forms   
 Our site's registration form requires users to give us contact information (like their name, email, and postal address) and demographic information (like their zip code, age, etc). 
@@ -102,7 +105,7 @@ If you have any questions about this privacy statement, the practices of this si
 Didn't find what you're looking for? Search below...
 
 [ ](http://www.google.com/)   
-Web www.BestManagementArticles.com
+Web http://www.bestmanagementarticles.com
 
 Search for ebooks on Management & Business  
 
