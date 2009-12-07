@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dom.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618105336id_/http%3A//www.dom.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dom.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207222832id_/http%3A//www.dom.com/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy
 
