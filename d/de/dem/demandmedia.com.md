@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the demandmedia.com privacy policy that was archived on 2009-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090220234216id_/http%3A//www.demandmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demandmedia.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207011705id_/http%3A//www.demandmedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Demand Media
 
@@ -12,7 +12,7 @@ This Privacy and Information Security Policy (the "Policy") discusses the person
 
 **Who We Are. We are Demand Media, Inc.  ("Demand Media," "Site," "we," "us," or "our").** Demand Media  is a leading online producer, publisher and syndicator of professional content and social media solutions. Utilizing its own vertical media network, original made-for-internet content, and proprietary social media tools to deliver over 3 billion interactions each month, Demand Media is building the world's largest content and social media marketplace. Today the company's solutions power leading publishers, brands and retailers, including the Washington Post, Better Homes & Gardens, USA Today, Circuit City, Discovery Communications, The Economist, FOX News, Scotts and Gannett. The privately held company was founded in May 2006 and is based in Santa Monica, California, with offices in Bellevue, Washington, Austin, Texas and London, UK..
 
-**This Policy and the Terms of Use.** This Policy is part of and incorporated into the Demand Media, Inc. [Terms of Use](https://web.archive.org/web/20090220234216id_/http%3A//terms-of-use/) (collectively, the “Terms”).
+**This Policy and the Terms of Use.** This Policy is part of and incorporated into the Demand Media, Inc. [Terms of Use](http://www.demandmedia.com/terms-of-use/) (collectively, the “Terms”).
 
 **BY PROVIDING PII OR OTHER INFORMATION TO US OR BY USING THE SITE, YOU AGREE TO THIS POLICY AND THE PRACTICES DESCRIBED IN THE POLICY.**
 
@@ -40,7 +40,7 @@ We collect any information you enter on the Site. The information that we collec
 
 3.1 Use of PII.
 
-(a) We use your PII for such purposes as responding to your requests; operating the Site, providing you with advertising and non-advertising content that we believe would be of interest to you; enforcing our rights and the rights of third parties, and investigating and ensuring compliance with the [Terms](https://web.archive.org/web/20090220234216id_/http%3A//terms-of-use/) and any other contract to which you and Demand Media are party.
+(a) We use your PII for such purposes as responding to your requests; operating the Site, providing you with advertising and non-advertising content that we believe would be of interest to you; enforcing our rights and the rights of third parties, and investigating and ensuring compliance with the [Terms](http://www.demandmedia.com/terms-of-use/) and any other contract to which you and Demand Media are party.
 
  We may also email newsletters and similar communications about us and the Site3.2 Use of Other Information. We use non-PII for purposes such as measuring the number of visitors to our Site, making the Site more useful and delivering targeted advertising and non-advertising content. We use IP addresses to analyze trends, administer the site, track a user's movement, and gather broad demographic information for non-personally identifiable use.
 
@@ -81,7 +81,7 @@ We reserve the right to send you customary business communications such as gener
 
 7\. CONDITIONS OF USE, NOTICES, AND REVISIONS
 
-7.1 Privacy Concerns. Your use of the Site and any dispute over privacy is subject to the [Terms](https://web.archive.org/web/20090220234216id_/http%3A//terms-of-use/). If you have any concern about privacy at Demand Media, please send us a thorough description to [legal@demandmedia.com](mailto:legal@demandmedia.com), and we will try to resolve it. If you think we are in default of the Terms, you may contact us at Our Legal Notices Address in Section 9 below.
+7.1 Privacy Concerns. Your use of the Site and any dispute over privacy is subject to the [Terms](http://www.demandmedia.com/terms-of-use/). If you have any concern about privacy at Demand Media, please send us a thorough description to  [legal@demandmedia.com](mailto:legal@demandmedia.com) , and we will try to resolve it. If you think we are in default of the Terms, you may contact us at Our Legal Notices Address in Section 9 below.
 
 7.2 Notice Required by Law. In those jurisdictions that permit email notice, if we are required to disclose or provide notice of invasion of certain security systems, we will do so by email to the most current email address provided by you to us. It is critical that you keep your email contact information correct and updated with us at all times.
 
@@ -94,6 +94,3 @@ We reserve the right to send you customary business communications such as gener
 Demand Media is a trademark or a registered trademark in the United States and other countries.
 
 Copyright © 2007. Demand Media, Inc.
-
-  
- 
