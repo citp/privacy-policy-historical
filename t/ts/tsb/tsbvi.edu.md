@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tsbvi.edu privacy policy that was archived on 2009-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090519223840id_/http%3A//www.tsbvi.edu/about.html%23Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsbvi.edu privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207074627id_/http%3A//www.tsbvi.edu/about.html%23Privacy) for the most accurate reproduction.*
 
 # About the TSBVI Web Site
 
@@ -18,6 +18,12 @@ The Texas School for the Blind and Visually Impaired World Wide Web site reflect
 
 All resources on the TSBVI Web page are in the public domain unless otherwise noted. You are welcome to use these resources as needed provided that the TSBVI Web page is cited as the source. A basic tenet of TSBVI is to promote the collegial sharing of information. You are invited to submit items for publication on the website. In all cases author contact information will be included. In this manner, we hope to build a valuable resource to promote the development of instructional materials and resources.
 
+## Disclaimer of Endorsement
+
+All articles appearing on this website represent the individual positions of their authors and not the position of the Texas School for the Blind and Visually Impaired.
+
+The TSBVI website contains a variety of links and references to resources available through government, educational, commercial, nonprofit, and international websites. External links to websites from the TSBVI website and references to non-TSBVI resources are provided solely for informational purposes and the convenience of the user. The Texas School for the Blind and Visually Impaired does not control, review, approve, or endorse these sites or the information, products or services contained therein. These other sites may collect data or personal information. Once you link to another site, you are subject to the privacy policy of the new site. If you decide to access any site linked to this site, you do so entirely at your own risk. In addition, the external links and resources are in no way intended to represent an exhaustive listing.
+
 ### Accessibility Policy
 
 The Texas School for the Blind and Visually Impaired (TSBVI) is committed to making its Web site accessible to all users. To make the site more accessible, we include several features designed to improve accessibility for users with disabilities. Some of these features are described below.
@@ -32,7 +38,7 @@ TSBVI welcomes comments on how to improve the site's accessibility for users wit
 
 Additional information about accessibility programs in Texas is available from the [Governor's Committee on People with Disabilities](http://www.governor.state.tx.us/disabilities).
 
-If you have a visual impairment there are many options which you can control from the selection of an accessible browser to modifying your browser to meet your needs. Visit [Large Print and Speech Access to the World Wide Web.](https://web.archive.org/web/20090519223840id_/http%3A//www.tsbvi.edu/technology/web.htm)
+If you have a visual impairment there are many options which you can control from the selection of an accessible browser to modifying your browser to meet your needs. Visit [Large Print and Speech Access to the World Wide Web.](https://web.archive.org/web/20091207074627id_/http%3A//www.tsbvi.edu/technology/web.htm)
 
 [Questons about accessibility?](https://web.archive.org/school/whodoyou.htm#access)
 
@@ -68,7 +74,7 @@ We use Log analysis tools to create summary statistics, which are used for purpo
 
 ### Submission Guidelines
 
-  * Use a FAQ structure (see [bnsemail.htm](https://web.archive.org/web/20090519223840id_/http%3A//www.tsbvi.edu/technology/bnsemail.htm) as an example)
+  * Use a FAQ structure (see [bnsemail.htm](https://web.archive.org/web/20091207074627id_/http%3A//www.tsbvi.edu/technology/bnsemail.htm) as an example)
   * Identify sources of quoted materials (link to source when available)
   * When referencing specific products provide a link to appropriate manufacturer's product page
   * Provide complete author information. Name, Organization, Address, E-mail.
@@ -78,13 +84,13 @@ We use Log analysis tools to create summary statistics, which are used for purpo
 
 * * *
 
-### [Open Records Policy](https://web.archive.org/web/20090519223840id_/http%3A//www.tsbvi.edu/school/open.htm)
+### [Open Records Policy](https://web.archive.org/web/20091207074627id_/http%3A//www.tsbvi.edu/school/open.htm)
 
 * * *
 
-[](https://web.archive.org/web/20090519223840id_/http%3A//www.tsbvi.edu/index.htm) [](https://web.archive.org/web/20090519223840id_/http%3A//www.tsbvi.edu/tsbvi-toc.htm) [](https://web.archive.org/web/20090519223840id_/http%3A//www.tsbvi.edu/search.htm)  
-[Agency Contact Information](https://web.archive.org/web/20090519223840id_/http%3A//www.tsbvi.edu/school/whodoyou.htm) | [Texas State Homepage](http://www.state.tx.us/) | [Texas State Wide Search](http://www.tsl.state.tx.us/trail/)
+[](https://web.archive.org/web/20091207074627id_/http%3A//www.tsbvi.edu/index.htm) [](https://web.archive.org/web/20091207074627id_/http%3A//www.tsbvi.edu/tsbvi-toc.htm) [](https://web.archive.org/web/20091207074627id_/http%3A//www.tsbvi.edu/search.htm)  
+[Agency Contact Information](https://web.archive.org/web/20091207074627id_/http%3A//www.tsbvi.edu/school/whodoyou.htm) | [Texas State Homepage](http://www.state.tx.us/) | [Texas State Wide Search](http://www.tsl.state.tx.us/trail/)
 
-Please complete the [comment form](https://web.archive.org/web/20090519223840id_/http%3A//www.tsbvi.edu/survey.htm) or send comments and suggestions to: Jim Allan ([Webmaster-Jim Allan](mailto:jimallan@tsbvi.edu))
+Please complete the [comment form](https://web.archive.org/web/20091207074627id_/http%3A//www.tsbvi.edu/survey.htm) or send comments and suggestions to: Jim Allan ([Webmaster-Jim Allan](mailto:jimallan@tsbvi.edu))
 
-Last Revision: July 14, 2008
+Last Revision: August 26, 2009
