@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uimn.org privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624140352id_/http%3A//www.deed.state.mn.us/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uimn.org privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207233611id_/http%3A//www.deed.state.mn.us/privacy.htm) for the most accurate reproduction.*
 
 # DEED Privacy Statement
 
