@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashdownparkhotel.com privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529012821id_/http%3A//ashdownparkhotel.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashdownparkhotel.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207091735id_/http%3A//www.ashdownparkhotel.com/privacy.htm) for the most accurate reproduction.*
 
 # Ashdown Park Hotel Privacy Page
 
@@ -41,33 +41,38 @@ Please use our Contact Us page if you have any questions or would like to contac
 
 ## Check Availability
 
-[](https://web.archive.org/web/20090529012821id_/http%3A//ashdownparkhotel.com/Gallery.html) [](https://web.archive.org/web/20090529012821id_/http%3A//ashdownparkhotel.com/family_friendly_hotel_leisure_breaks.html)
+[](https://web.archive.org/web/20091207091735id_/http%3A//www.ashdownparkhotel.com/Gallery.html) [](https://web.archive.org/web/20091207091735id_/http%3A//www.ashdownparkhotel.com/family_friendly_hotel_leisure_breaks.html)
 
 ### Special Offers
 
-**_5th & 6th / 12th & 13th June _**
+**SPECIAL OFFERS**
 
-**2 BED & FULL IRISH BREAKFAST, 1 GOURMET DINNER, **
+**Midweek: Bed & Full Irish Breakfast €45 per person sharing **
 
-**FROM €129 PER PERSON**
+**Sunday & Monday: 2 Nights Bed & Full Irish Breakfast, 1 Gourmet dinner €89 per person**
 
-**_SUNDAY - WEDNESDAY_**  
+**Midweek: 2 Nights Bed & Full Irish Breakfast, 1 Gourmet dinner €99 per person**
 
-**1 BED, BREAKFAST & GOURMET DINNER €69 PER PERSON **
+**Midweek: 3 Nights Bed & Full irish Breakfast, 1 Gourmet Dinner €129 per person**
 
-**_FANTASTIC FRIDAY OFFERS_**
+**Weekends: 2 Nights Bed & Full Irish Breakfast, 1 Gourmet Dinner €129 perp person**
 
-**1 NIGHT BED & FULL IRISH BREAKFAST**
-
-**1 GOURMET DINNER FROM ONLY €79 PER PERSON**
-
-**LIMITED AVAILABILITY- SELECTED DATES**
-
-[Click here for all Special Offers](https://web.archive.org/web/20090529012821id_/http%3A//ashdownparkhotel.com/irish_hotel_offers/index.htm)
+[Click here for all Special Offers](https://web.archive.org/web/20091207091735id_/http%3A//www.ashdownparkhotel.com/irish_hotel_offers/index.htm)
 
 ### Upcoming Events
 
-  
-[Click here for all Upcoming Events](https://web.archive.org/web/20090529012821id_/http%3A//ashdownparkhotel.com/wexford_conference_venues/special_occasions_events.htm)
+LIVE at the Ashdown Park Hotel
+
+Country Music Christmas parties 10th & 17th December
+
+Featuring: Trudi lalor, Louise Morrissey, Larry Cunningham, John Hogan
+
+Gala Meal, Spot prizes & novelties. Tickets at hotel
+
+Sunday 22nd November    Louise Morrissey
+
+Sunday 29th November     Dominic Kirwan
+
+[Click here for all Upcoming Events](https://web.archive.org/web/20091207091735id_/http%3A//www.ashdownparkhotel.com/wexford_conference_venues/special_occasions_events.htm)
 
 Enter your name and email address to receive our Newsletter 
