@@ -1,13 +1,16 @@
-<!--The following is the downloaded HTML source of the ciol.com privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217213626id_/http%3A//www.ciol.com/about/privacypolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ciol.com privacy policy that was archived on 2009-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091207140853id_/http%3A//www.ciol.com/about/privacypolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	
      <link href="/CIOLlayout.css" rel="Stylesheet" type="text/css">
+	 <script language="JavaScript1.2" src="/js/contextual.js" type="text/javascript"></script>
 	</head>
 <body>
     <!-- Top Content-->
     <div>
+	<div id="TipLayer" style="visibility:hidden;position:absolute;z-index:1000;top:-100;"></div>
+	<script language="JavaScript1.2" src="/js/contextualstyle.js" type="text/javascript"></script>
     <div class="mainclass">
     <div class="networksites">
           <script type="text/javascript">
@@ -51,7 +54,7 @@
 
     </div>
 	<div class="topnav">
-     <div style="width:780px; padding:0px 0px 0px 0px;">
+     <div style="width:780px; padding:0px 0px 0px 0px; display:table; vertical-align:text-bottom">
 <a href="/"><img src="/images/ciol-trans-logo-new.gif" width="137" height="70" align="left" border="0"></a>
 <!--<script src="/layoutincludes/flashlogo.js"></script>-->
 <span style="float:right;padding-right:10px;margin-top :10px;padding-bottom:0px;">
@@ -85,7 +88,8 @@
    <img src="/images/contest.png" style="vertical-align:middle;padding-bottom:5px;"><a class="topnav1" href="/content/contest/">Contest</a>&nbsp;
    <img src="/images/Newletters.png" style="vertical-align:middle;padding-bottom:5px;"><a class="topnav1" href="/newsletters/subscribe.aspx">Newsletters</a>&nbsp;
    <img src="/images/Specials_1.png" style="vertical-align:middle;padding-bottom:5px;"><a class="topnav1" href="/content/special/">Specials</a>&nbsp;
-  <img src="/images/rss.png" style="vertical-align:middle;padding-bottom:4px;"><a class="topnav1" href="/rss/">RSS</a></td>
+  <img src="/images/rss.png" style="vertical-align:middle;padding-bottom:4px;"><a class="topnav1" href="/rss/">RSS</a>&nbsp;
+  <img src="/images/blog.png" style="vertical-align:middle;padding-bottom:4px;"><a class="topnav1" href="http://ciol.com/community/blogs/">Blogs</a></td>
   </tr>
 </tbody></table>
 </div>
@@ -98,102 +102,6 @@
     <!--[if IE]>
 <link rel="stylesheet" media="all" type="text/css" href="/nav/dropline_ie2.css" />
 <![endif]-->
-<style type="text/css">
-
-#dhtmltooltip{
-position: absolute;
-width: 50px;
-padding:0px;
-margin:0px;
-background-color:none;
-visibility: hidden;
-height:35px;
-z-index: 2;
-}
-
-.para
-{
-padding:40px;
-width:200px;
-text-align:justify;
-}
-
-</style>
-<!--Bubble tool tip style ends-->
-<div id="dhtmltooltip" style="padding:0px ; margin:0px"></div>
-<script type="text/javascript">
-
-/***********************************************
-* Freejavascriptkit.com
-* Visit http://www.freejavascriptkit.com for more free Javascripts source code
-***********************************************/
-
-var offsetxpoint=5 //Customize x offset of tooltip
-var offsetypoint=5 //Customize y offset of tooltip
-var ie=document.all
-var ns6=document.getElementById && !document.all
-var enabletip=false
-if (ie||ns6)
-var tipobj=document.all? document.all["dhtmltooltip"] : document.getElementById? document.getElementById("dhtmltooltip") : ""
-
-function ietruebody(){
-return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
-}
-
-function ddrivetip(thecolor, thewidth){
-if (ns6||ie){
-newImage = "url(/images/pmisponsponsored.gif)";
-if (typeof thewidth!="undefined") tipobj.style.width=thewidth+"px"
-if (typeof thecolor!="undefined" && thecolor!="") tipobj.style.backgroundImage=newImage
-tipobj.innerHTML="&nbsp;"
-enabletip=true
-return false
-}
-}
-
-function positiontip(e){
-if (enabletip){
-var curX=(ns6)?e.pageX : event.clientX+ietruebody().scrollLeft;
-var curY=(ns6)?e.pageY : event.clientY+ietruebody().scrollTop;
-//Find out how close the mouse is to the corner of the window
-var rightedge=ie&&!window.opera? ietruebody().clientWidth-event.clientX-offsetxpoint : window.innerWidth-e.clientX-offsetxpoint-10
-var bottomedge=ie&&!window.opera? ietruebody().clientHeight-event.clientY-offsetypoint : window.innerHeight-e.clientY-offsetypoint-10
-
-var leftedge=(offsetxpoint<0)? offsetxpoint*(-1) : -1000
-
-//if the horizontal distance isn't enough to accomodate the width of the context menu
-if (rightedge<tipobj.offsetWidth)
-//move the horizontal position of the menu to the left by it's width
-tipobj.style.left=ie? ietruebody().scrollLeft+event.clientX-tipobj.offsetWidth+"px" : window.pageXOffset+e.clientX-tipobj.offsetWidth+"px"
-else if (curX<leftedge)
-tipobj.style.left="5px"
-else
-//position the horizontal position of the menu where the mouse is positioned
-tipobj.style.left=curX+offsetxpoint+"px"
-
-//same concept with the vertical position
-if (bottomedge<tipobj.offsetHeight)
-tipobj.style.top=ie? ietruebody().scrollTop+event.clientY-tipobj.offsetHeight-offsetypoint+"px" : window.pageYOffset+e.clientY-tipobj.offsetHeight-offsetypoint+"px"
-else
-tipobj.style.top=curY+offsetypoint+"px"
-tipobj.style.visibility="visible"
-}
-}
-
-function hideddrivetip(){
-if (ns6||ie){
-enabletip=false
-tipobj.style.visibility="hidden"
-tipobj.style.left="-1000px"
-tipobj.style.backgroundImage=''
-tipobj.style.width=''
-}
-}
-
-document.onmousemove=positiontip
-
-</script>
-
 <div class="nav" style="z-index: 1; border-top:1px solid white;">
 <div class="table">
 
@@ -218,13 +126,14 @@ document.onmousemove=positiontip
 		<li><a href="http://news.ciol.com/News-Makers/News-Reports/14/12/Section.aspx">News Makers</a></li>
 		<li><a href="http://news.ciol.com/Executive-Track/News-Reports/1432/12/Section.aspx">Executive Track</a></li>
 		<li><a href="http://news.ciol.com/Corporate-Results/News-Reports/1259/12/Section.aspx">Corporate Results</a></li>
+        <li><a href="http://news.ciol.com/News/special/MoneyMatters/default.aspx">Money Matters</a></li>
 	</ul>
 </div>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 </ul>
 
-<ul class="select"><li><a href="/Technology.aspx"><b>Technology</b><!--[if IE 7]><!--></a><!--<![endif]-->
+<ul class="select"><li><a href="/Technology.aspx"><b style="cursor:hand" onmouseover="stm(Text[5],Style[14])" onmouseout="stickyhide()">Technology</b><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <div class="select_sub">
 	<ul class="sub">
@@ -238,7 +147,7 @@ document.onmousemove=positiontip
 </li>
 </ul>
 
-<ul class="select"><li><a href="/Developer.aspx"><b style="cursor:hand" onmouseover="ddrivetip('pmisponsponsored.gif', 174)" ;="" onmouseout="hideddrivetip()">Developer</b><!--[if IE 7]><!--></a><!--<![endif]-->
+<ul class="select"><li><a href="/Developer.aspx"><b style="cursor:hand" onmouseover="stm(Text[3],Style[14])" onmouseout="stickyhide()">Developer</b><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <div class="select_sub">
 	<ul class="sub">
@@ -257,15 +166,16 @@ document.onmousemove=positiontip
 </ul>
 
 
-<ul class="select"><li><a href="/Enterprise.aspx"><b>Enterprise</b><!--[if IE 7]><!--></a><!--<![endif]-->
+<ul class="select"><li><a href="/Enterprise.aspx"><b style="cursor:hand" onmouseover="stm(Text[5],Style[14])" onmouseout="stickyhide()">Enterprise</b><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <div class="select_sub">
 	<ul class="sub">
-		<li><a href="/BFSI.aspx">BFSI</a></li>
-		<li><a href="/ECServices.aspx">Services</a></li>
-		<li><a href="/ECManufacturing.aspx">Manufacturing</a></li>
-		<li><a href="/Retail.aspx">Retailing</a></li>
-        <li><a href="/enterprise/CIOInsights/default.aspx">CIO Insights</a></li>
+		<li><a href="/Enterprise/BFSI/News-Reports/1328/12/Section.aspx">BFSI</a></li>
+		<li><a href="/Enterprise/Services/News-Reports/1589/12/Section.aspx">Services</a></li>
+		<li><a href="/Enterprise/Manufacturing/News-Reports/1588/12/Section.aspx">Manufacturing</a></li>
+		<li><a href="/Enterprise/Retail/News-Reports/1139/12/Section.aspx">Retailing</a></li>
+    <li><a href="/Enterprise/CIOInsights/default.aspx">CIO Insights</a></li>
+    <li><a href="/enterpriseconnectawards/2009" target="_blank">EnterpriseConnect Awards 2009</a></li>
 	</ul>
 </div>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
@@ -311,16 +221,14 @@ document.onmousemove=positiontip
 </li>
 </ul>
 
-<ul class="select"><li><a href="/cchange/2009/default.aspx" target="_blank" style="color:yellow"><b>C-Change 2009</b><!--[if IE 7]><!--></a><!--<![endif]-->
+<ul class="select"><li><a href="http://www.ciol.com/virtual-event/enterprise-next/" target="_blank" style="color:yellow"><b style="cursor:hand" onmouseover="stm(Text[4],Style[14])" onmouseout="stickyhide()">Enterprise Next</b><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <div class="select_sub">
 	<ul class="sub">
-		<li><a target="_blank" href="http://www.ciol.com/cchange/2009/Theme.aspx">Theme </a></li>
-		<li><a target="_blank" href="http://www.ciol.com/cchange/2009/Agenda.aspx">Agenda</a></li>
-		<li><a target="_blank" href="http://www.ciol.com/cchange/2009/Registration.aspx">Registration</a></li>
-		<li><a target="_blank" href="http://www.ciol.com/cchange/2009/Beasponsor.aspx">Sponsorship </a></li>
-		<li><a target="_blank" href="http://www.ciol.com/cchange/2009/Speakers.aspx">Speakers </a></li>
-	</ul>
+		<li><a target="_blank" href="http://www.ciol.com/virtual-event/enterprise-next/Agenda.aspx">Agenda</a></li>
+		<li><a target="_blank" href="http://www.ciol.com/virtual-event/enterprise-next/Speakers.aspx">Speakers</a></li>
+		<li><a target="_blank" href="http://w.on24.com/r.htm?e=165358&amp;s=1&amp;k=58DA5E65D6C9EC107113D2E0C81D14C9&amp;partnerref=web2_1">Registration</a></li>
+		<li><a target="_blank" href="http://www.ciol.com/virtual-event/enterprise-next/Partner.aspx">Partnership</a></li></ul>
 </div>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -393,45 +301,61 @@ document.onmousemove=positiontip
  <span style="font-family:Arial;font-size:11px;font-weight:bold;padding-bottom:5px;padding-top:10px;">&nbsp;&nbsp;Sponsored Links</span>
  <table>
   
- <tbody><tr><td><img src="/images/bullet.gif"></td>
- <td><a href="http://www.ciol.com/track/clicks3.asp?client=ISC2Text link1131&amp;clickUrl=http://www.isc2.org/csslp" target="_blank" class="anc">Make a life with software lifecycle</a></td>
+ 
+ 
+<tbody><tr>
+</tr><tr>
+ <td><img src="/images/bullet.gif"></td>
+ <td><a href="http://www.ciol.com/track/clicks3.asp?client=Datacraft1319&amp;clickUrl=http://www.ciol.com/edm/ciol/Datacraft/oct09/registration.htm" target="_blank" class="anc">Simplify Business Management. ERP solutions by IBM</a></td>
+ </tr> 
+ <tr><td><img src="/images/bullet.gif"></td>
+ <td><a href="http://www.ciol.com/track/clicks3.asp?client=ZTE-SDR Tech1221&amp;clickUrl=http://wwwen.zte.com.cn/en/products/wirelines/bearer_network/" target="_blank" class="anc">Carry your Dream, Convey your Value with ZTE</a></td>
+ </tr> 
+ <tr>
+ <td><img src="/images/bullet.gif"></td>
+ <td><a href="http://www.ciol.com/track/clicks3.asp?client=EMCX-Text Link1323&amp;clickUrl=http://www.ciol.com/edm/ciol/EMC/nov09/unify_rule_registration.html" target="_blank" class="anc">Unify &amp; Rule your Business World with EMC</a></td>
  </tr> 
  
-<tr>
- <td><img src="/images/bullet.gif"></td>
- <td><a href="http://www.ciol.com/track/clicks3.asp?client=Forum Nokia1140&amp;clickUrl=http://www.airtel.in/wps/wcm/connect/airtelinaes/AES/Data+and+IP+Solutions/" target="_blank" class="anc">Try Airtel Conferencing now!</a></td>
- </tr> 
-  <tr><td><img src="/images/bullet.gif"></td>
- <td><a href="http://www.ciol.com/track/clicks3.asp?client=Avaya1124&amp;clickUrl=http://www.ciol.com/content/download/form.aspx?id=172" target="_blank" class="anc">Strong Business needs Green Intelligence</a></td>
- </tr> 
- </tbody></table>
+  </tbody></table>
      </div>
     <div class="sponseredblk2">
     <span style="font-family:Arial;font-size:11px;font-weight:bold;padding-bottom:5px;">&nbsp;&nbsp;Custom Sites:</span>
     <table>
-<tbody><tr><td><img src="/images/bullet.gif"></td>
- <td><a class="anc" href="http://www.ciol.com/customsite/motorola/">Motorola : Good Mobile Messaging</a></td>
+    <!--<tr><td><img src="/images/bullet.gif" /></td><td><a class=anc href="http://www.ciol.com/track/clicks3.asp?client=RBS TextLink1314&clickUrl=http://yads.zedo.com//ads2/c?a=677031;x=9;g=78,0;c=762000008,762000008;i=0;n=762;s=0;s=0;g=78;m=1;w=19;u=x5ww2goBAIoAACozDxkAAAFQ~102909;s=0;u=x5ww2goBAIoAACozDxkAAAFQ~102909;z=0.6210404574510189;k=http://www.rbs.in/GBMCIO" target="_blank">A must attend event for IT Professionals</a></td></tr>-->
+<tbody><tr><td><img src="/images/bullet.gif"></td><td><a class="anc" href="http://www.ciol.com/track/clicks3.asp?client=SMB Central1292&amp;clickUrl=http://smbcentral.ciol.com/networking.guide.asp" target="_blank">How to make your enterprise productive </a></td></tr>
+<tr><td><img src="/images/bullet.gif"></td>
+ <td><a href="http://www.ciol.com/track/clicks3.asp?client=Microsite1294&amp;clickUrl=http://www.ciol.com/Customsite/aspect/" target="_blank" class="anc">Unified Communication can impact business. Know how</a></td>
  </tr>
- <tr><td><img src="/images/bullet.gif"></td><td>
- <a class="anc" href="http://www.smartenterpriseexchange.com/?cid=webtext_mem_buscar_smart">Smart Enterprises = Smart CIOs</a></td></tr>
-<tr><td><img src="/images/bullet.gif"></td><td><a class="anc" href="http://www.ciol.com/track/clicks3.asp?client=PMI1134&amp;clickUrl=http://www.pmi.org/mycommunity/default.htm#ct=CM002ST01">"Start, Build &amp; Advance your PM career"</a></td></tr> 
+
  </tbody></table>
     </div>
     <div class="sponseredblk3">
     <span style="font-family:Arial;font-size:11px;font-weight:bold;padding-bottom:5px;">&nbsp;&nbsp;Demo Downloads On:</span>
     <table>
   
- <tbody><tr><td><img src="/images/bullet.gif"></td><td><a href="http://www.ciol.com/track/clicks3.asp?client=Novell1162&amp;clickUrl=http://yads.zedo.com//ads2/c?a=500835;x=1;g=78,0;c=762000005,762000005;i=0;n=762;s=0;s=0;g=78;m=1;w=19;u=unknown;k=http://altfarm.mediaplex.com/ad/ck/10013-66953-24809-0?mpt=0.6411162272962213" target="_blank" class="anc">Bringing your IT needs under one roof</a></td></tr>
- <tr><td><img src="/images/bullet.gif"></td><td><a class="anc" href="http://www.ciol.com/customsite/IBMITSecurity/login.asp?id=r4">How to fix web application security and compliance issues</a></td></tr>
- <tr><td><img src="/images/bullet.gif"></td><td><a class="anc" href="http://www.ciol.com/track/clicks3.asp?client=Microsoft1166&amp;clickUrl=http://clk.atdmt.com/INM/go/129474019/direct/01/">Microsoft HPC Case Studies</a></td></tr>
+ 
+ <tbody><tr>
+ <td><img src="/images/bullet.gif"></td>
+ <td><a href="http://www.ciol.com/track/clicks3.asp?client=ZTE-Jul091270&amp;clickUrl=http://www.ciol.com/ads/ZTE/Jul09/EmergingMultimediaSolution.pdf" target="_blank" class="anc">Making Web3.0 a Reality!</a></td>
+ </tr>
+  <tr>
+ <td><img src="/images/bullet.gif"></td>
+ <td><a href="http://www.ciol.com/track/clicks3.asp?client=VirtualEvent1301&amp;clickUrl=http://www.ciol.com/virtual-event/enterprise-next/" target="_blank" class="anc" style="color:#00F; font-weight:bold">CIOL Enterprise Next :What's NEXT in IT? :</a></td>
+ </tr>
+ <tr>
+ <td><img src="/images/bullet.gif"></td>
+ <td><a href="http://www.ciol.com/track/clicks3.asp?client=Altera Text Lin1311&amp;clickUrl=http://yads.zedo.com//ads2/c?a=672773;x=4125;g=78,0;c=762000004,762000004;i=45;n=762;s=0;g=78;m=1;w=19;u=x5ww2goBAIoAACozDxkAAAFQ~102909;s=0;u=x5ww2goBAIoAACozDxkAAAFQ~102909;z=0.09289122912466885;k=http://www.altera.com/b/cyclone-iv.html?WT.mc_id=c4_ba_cl_xx_gh_z_451" target="_blank" class="anc">Decrease Total System Costs With Cyclone IV FPGAs</a></td>
+ </tr>
  </tbody></table>
     </div>
     <div class="sponseredblk4">
    <span style="font-family:Arial;font-size:11px;font-weight:bold;padding-bottom:5px;">&nbsp;&nbsp;Business-Media Solutions:</span>
    <table>
- <tbody><tr><td><img src="/images/bullet.gif"></td><td><a class="anc" href="http://www.ciol.com/edm/ciol/ciol/nov08/advertisement_solution.htm">How to stretch your dollars?</a></td></tr>
- <tr><td><img src="/images/bullet.gif"></td><td><a class="anc" href="http://www.ciol.com/edm/ciol/ciol/nov08/CustomSites.htm">Targeted audience, Customized messaging</a></td></tr>
- <tr><td><img src="/images/bullet.gif"></td><td><a class="anc" href="http://www.ciol.com/cchange/2009/Beasponsor.aspx">Reaching Rs.5000 crs IT spends</a></td></tr>
+ <tbody><tr><td><img src="/images/bullet.gif"></td><td><a class="anc" href="http://www.ciol.com/mediakit/&#10;">Reach your desired Target Audience and realize high ROI</a></td></tr>
+ <tr><td><img src="/images/bullet.gif"></td><td><a class="anc" href="mailto:salesciol@cybermedia.co.in">Effective ways of Customer Acquisition through Demand Generation</a>
+</td></tr>
+ <tr><td><img src="/images/bullet.gif"></td><td><a class="anc" href="mailto:salesciol@cybermedia.co.in">Reach 2,500 potential Enterprise Customers!</a></td></tr>
+
 
  </tbody></table>
     </div>
@@ -445,13 +369,25 @@ document.onmousemove=positiontip
                     </div>
            
             <!--END sponsered links -->
-            <!---FOOTER--->
+			<div class="topmosad">
+			<!-- begin ZEDO for channel:  News , publisher: default , Ad Dimension: Super Banner - 728 x 90 -->
+							<center>
+<!-- begin ZEDO for channel:  Others , publisher: default , Ad Dimension: Leader Board_1 - 728 x 90 -->
+<script language="JavaScript">
+var zflag_nid="762"; var zflag_cid="12/3"; var zflag_sid="0"; var zflag_width="728"; var zflag_height="90"; var zflag_sz="20";
+</script>
+<script language="JavaScript" src="http://d2.zedo.com/jsc/d2/fo.js"></script>
+<!-- end ZEDO for channel:  Others , publisher: default , Ad Dimension: Leader Board_1 - 728 x 90 -->
+
+</center>
+			<!-- end ZEDO for channel:  News , publisher: default , Ad Dimension: Super Banner - 728 x 90 -->
+			</div>
+			<!---FOOTER--->
 			<div id="sitefooter" style=" text-align:center; width:775px; float:left;">
 			<table border="0" cellpadding="5" cellspacing="5" width="780" align="center" class="Content">
 		<tbody><tr>
 		   <td height="26" align="center" valign="top">
-		   <a href="http://www.ciol.com/cchange/2009/default.aspx" target="_blank" class="footertext2" style="color:blue">C-Change 2009</a>  |  <a href="/newsletters/subscribe.aspx" target="_blank" class="footertext2">Opt-In-Newsletters</a>  |  <a href="/rss/" class="footertext2">RSS Feeds</a>  |  <a href="/LinkPartners.aspx" target="_blank" class="footertext2">Link Partners</a> |  <a href="/cybercast/videocast" target="_blank" class="footertext2">Videocast</a>  |  <a href="/cybercast/" target="_blank" class="footertext2">Podcast</a>  |  <a href="/content/download/" target="_blank" class="footertext2">White Papers</a><br>
-		  <a href="/content/download/default.aspx?id=Case%20Studies" target="_blank" class="footertext2">Case Studies</a>  |
+		   <a href="http://www.ciol.com/cchange/2010/" target="_blank" class="footertext2" style="color:blue">C-Change 2010</a>  |  <a href="http://www.ciol.com/virtual-event/enterprise-next/" target="_blank" class="footertext2" style="color:blue">Enterprise Virtual Conference</a>  |  <a href="/newsletters/subscribe.aspx" target="_blank" class="footertext2">Opt-In-Newsletters</a>  |  <a href="/rss/" class="footertext2">RSS Feeds</a>  |  <a href="/LinkPartners.aspx" target="_blank" class="footertext2">Link Partners</a> |  <a href="/cybercast/videocast" target="_blank" class="footertext2">Videocast</a><br><a href="/cybercast/" target="_blank" class="footertext2">Podcast</a>  |  <a href="/content/download/" target="_blank" class="footertext2">White Papers</a>  |  <a href="/content/download/default.aspx?id=Case%20Studies" target="_blank" class="footertext2">Case Studies</a>  |
         <a href="/content/special" target="_blank" class="footertext2">Specials</a>  |  <a href="/content/developer/Dc_tutorials.asp" class="footertext2">Tutorials</a>  |  <a href="/content/developer/askexpert/postquery.asp" class="footertext2">Ask the Expert</a>  |  <a href="/Developer.aspx" class="footertext2">Forums</a>  |  <a href="/ResourceCenter.aspx" class="footertext2">Product Reviews</a> |  <a href="/enterpriseConnect/content/forum/" class="footertext2">Discussion Board</a> </td>
 		  </tr>          
 		<tr>
@@ -465,7 +401,7 @@ document.onmousemove=positiontip
 		<tr>
 		  <td align="center" valign="top">
 		  	<span class="footertext1"><a href="/about/About_CIOL.aspx" class="footertext1" target="_blank">About CIOL</a> 
-			<span class="stick">|</span> <a href="/mediakit/" class="footertext1" target="_blank">Media Kit</a> <span class="stick">|</span> <a href="/about/sitemap.aspx" class="footertext1" target="_blank">Site Map</a> <span class="stick">|</span> <a href="/about/About_CIOL.aspx#contact" class="footertext1" target="_blank">Contact Us</a> <span class="stick">|</span> <a href="/about/help.aspx" class="footertext1" target="_blank">Help</a> <span class="stick">|</span> <a href="/about/guidelines.aspx" class=" footertext1" target="_blank">Write to CIOL</a> <span class="stick">|</span> <a href="/about/jobs_CIOL.aspx" class="footertext1" target="_blank">Jobs@CIOL</a> <span class="stick">|</span> <a href="/about/privacypolicy.aspx" class="footertext1" target="_blank">Privacy Policy</a>
+			<span class="stick">|</span> <a href="/mediakit/" class="footertext1" target="_blank">Media Kit</a> <span class="stick">|</span> <a href="/about/sitemap.aspx" class="footertext1" target="_blank">Site Map</a> <span class="stick">|</span> <a href="/about/About_CIOL.aspx#contact" class="footertext1" target="_blank">Contact Us</a> <span class="stick">|</span> <a href="/about/help.aspx" class="footertext1" target="_blank">Help</a> <span class="stick">|</span> <a href="/about/guidelines.aspx" class=" footertext1" target="_blank">Write to CIOL</a> <span class="stick">|</span> <a href="http://www.cybermedia.co.in/careers" class="footertext1" target="_blank">jobs@Cybermedia</a> <span class="stick">|</span> <a href="/about/privacypolicy.aspx" class="footertext1" target="_blank">Privacy Policy</a>
 		  </span></td>
 		  </tr>
 		<tr>
@@ -544,12 +480,15 @@ google_color_url = "008000";
 <iframe width="1" height="1" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="/zedotags/files/Popup_smb.htm"></iframe>
 
 <!-- begin ZEDO for channel:  HomePage , publisher: default , Ad Dimension: Pixel/Popup - 1 x 1 -->
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
 <script type="text/javascript">
-_uacct = "UA-1051734-1";
-urchinTracker();
-</script>
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9016346-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
 
 
 </body></html>
