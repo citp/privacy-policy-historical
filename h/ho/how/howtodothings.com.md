@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howtodothings.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601145035id_/http%3A//www.howtodothings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtodothings.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207010158id_/http%3A//www.howtodothings.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | How To Do Things.com
 
