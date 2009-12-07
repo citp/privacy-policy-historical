@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeshipping.org privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605053443id_/http%3A//www.freeshipping.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeshipping.org privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207083113id_/http%3A//www.freeshipping.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for FreeShipping.org
 
