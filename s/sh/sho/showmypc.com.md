@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the showmypc.com privacy policy that was archived on 2009-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090401080447id_/http%3A//www.showmypc.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showmypc.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207045051id_/http%3A//showmypc.com/privacy-policy.html) for the most accurate reproduction.*
 
-# ShowMyPC.com - Remote Support, Instant Desktop Sharing, Web Conferencing, Access Remote PC Free, Online Meetings
+# ShowMyPC: Remote Support, Instant Desktop Sharing, Web Conferencing, Access Remote PC Free, Online Meetings
 
 ## ShowMyPC Privacy Policy
 
@@ -33,4 +33,4 @@ This notice offers highlights of the full ShowMyPC Privacy Policy, which describ
 
 ### More Information
 
-For more information about our privacy practices, or if you have additional questions, please contact support@showmypc.com or go to [Feedback](https://web.archive.org/web/20090401080447id_/http%3A//www.showmypc.com/ShowMyPCFeedBack.html). 
+For more information about our privacy practices, or if you have additional questions, please contact support@showmypc.com or go to [Feedback](https://web.archive.org/web/20091207045051id_/http%3A//showmypc.com/ShowMyPCFeedBack.html). 
