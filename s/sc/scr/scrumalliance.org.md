@@ -1,21 +1,77 @@
-> *The following text is extracted and transformed from the scrumalliance.org privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216082503id_/http%3A//www.scrumalliance.org/view/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrumalliance.org privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207200332id_/http%3A//www.scrumalliance.org/privacy_policy) for the most accurate reproduction.*
 
-# Scrum Alliance - Privacy Policy
+# Scrum Alliance -Privacy Policy
 
-## Scrum Alliance Privacy Policy
+## **Scrum Privacy Statement**
 
-Welcome to the Scrum Alliance [www.scrumalliance.org](http://scrumalliance.org/) web site (the "Site") provided to you by Scrum Alliance, Inc. ("SA", "us" or "we").  Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Site unless you choose to provide that information. 
+Protecting the individual's privacy on the Internet is crucial to the future of Internet-based business and the move toward a true Internet economy. Scrum Alliance has created this privacy statement to demonstrate our firm commitment to secure and trustworthy Internet commerce and the individual's right to privacy.
 
-  1. **Membership Information.**   As a benefit to SA members, SA will include your name and relevant personal information in your member profile (“Profile”).  You agree that your name and your SA certification information shall be made publicly available on the Site. You will have the right to specify whether certain other personal information in your Profile is publicly available or not. 
-  2. **Contacting You.** From time to time, we may need to contact you for membership-related activities (e.g., renewal notices, etc.). You agree that we may use your personal information for such membership-related contacts with you.  We may also desire to contact you for market research purposes or to provide you with marketing information we think would be of particular interest. You will have the option of not being contacting by us by opting-out of such contacts by setting the appropriate option in your Profile.
-  3. **Information Sharing.** SA will not sell, rent, or lease your personally identifiable information to others without your permission. Unless we have your permission or are required by law, we will only share the personal data you provide to us with other SA entities and/or business partners who are acting on our behalf to help us provide you with our products and services. Such SA entities and/or business partners are governed by our privacy policies with respect to the use of this data and are bound by this Privacy Policy and applicable confidentiality agreements.
-  4. **General Information.**   The server on which the Site is located collects and saves only the default information customarily logged by web server software. Such information may include the date and time of your visit, the originating IP address, and the pages and images requested.  This general information is used to improve the content of Site and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except if it becomes necessary to share information to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the Scrum Alliance Terms of Service, or as otherwise required by law.
-  5. **Cookies.**   The Site uses cookies, which are small amounts of data that contain a unique identifier that many web sites frequently send to your web browser to be stored on your computer’s hard drive.  We use cookies to record current session information.
-  6. **Security.**   The Site has basic security measures in place to protect against the loss, misuse and alteration of any information that you provide us. However, we do not guarantee that our Site is impervious to information gathering or altering attacks by hackers.  In addition, you understand that the technical processing and transmission of the Site content may be transferred unencrypted and involve (a) transmissions over various networks; and (b) changes to conform and adapt to technical requirements of connecting networks or devices. We do not guarantee that any information sent from our Site will be secure during transmission.
-  7. **Third-party Sites.** Our Site may contain links to multiple third-party sites on the Internet, including many that have different privacy and security policies and practices than us. We make no representations or warranties about the policies and practices of sites that are linked to by our Site. We urge you to consult the policies available on those sites to further understand your rights.
-  8. **Amendment of Terms.** You agree that we retain the right to amend this Privacy Policy any time, for any reason, and without notice. You agree to review the posting of this Agreement at www.scrumalliance.org/view/privacy_policy periodically to be aware of such changes. You will be bound by all such modifications, whether or not you have notice thereof. If any future changes are unacceptable to you, you should discontinue using the Site. Your continued use of the Site now, or following the posting of notice of any such changes, will indicate your acceptance of this privacy policy, and of any such changes.
-  9. **Contact.** SA is located in Lafayette, Colorado, U.S.A. Any questions, comments or suggestions regarding this Privacy Policy should be provided to the Administrator as follows: 
+#### **Consent**
 
+If you want to use the Scrum Alliance Certification & Assessment Program, you will be asked for your consent to the collection and use of the information as described here.
 
+#### **Non-Disclosure of Exam Data**
 
-> > By E-mail: info @ scrumalliance.org By Postal Mail: PO BOX 40097, INDIANAPOLIS, IN, U.S.A. 46240-0097  
+All Scrum Alliance certification exams, including the content and wording of exam questions, constitute confidential Scrum Alliance information that is protected by trade secret law. Anyone obtaining access to Scrum exams is obligated to maintain the confidentiality of this information.
+
+If an individual is caught violating this Non-Disclosure Agreement that all examinees must agree to before beginning any Scrum exam, the candidate will be permanently ineligible for any Scrum Alliance certification.
+
+By complying with and enforcing this obligation, you help maintain the integrity of the Scrum program and the value of your certification. Please do your part by discouraging the sharing of exam questions and making others aware of this policy. We appreciate your cooperation.
+
+This exam is Scrum Alliance confidential and is protected by trade secret law. It is made available to you, the examinee, solely for the purpose of becoming certified in the technical area referenced in the title of this exam. You are expressly prohibited from disclosing, publishing, reproducing, or transmitting this exam, in whole or in part, in any form or by any means, verbal or written, electronic or mechanical, for any purpose, without the prior express written permission of Scrum Alliance. 
+
+#### **Use and Purpose of Collected Personal Data**
+
+In our Certification & Assessment Program we only store personal information relating to you with your permission. You may choose to reveal information to us if, for example, you register for a certification and or assessment account or complete a survey. We use this information to maintain a personal test account to manage your certification and assessment activities. We may also use your information to determine the effectiveness of our certification products and services.
+
+We would only share such information with third parties outside the Scrum Alliance with your express permission or as required by the applicable law. Information is used solely for the purposes described below.
+
+#### **Privacy across the Entire Scrum Network**
+
+As a global organization, Scrum operates a number of websites around the world. Any information that you submit to one of our websites in any one country may be sent electronically to a server for one of these sites in another country. We safeguard your privacy interests around the world by ensuring that this Scrum site adheres to our international data-protection principles described in this statement.
+
+We bind our employees to observe your privacy and confidentiality rights.
+
+#### **Details**
+
+#### **1\. What Information Do We Collect and Why?**
+
+**Cookies**    
+We may use cookies to deliver personalized content, to keep track of your system settings, and to tailor our information offerings to you and others who use the site.
+
+**User Registration**    
+If you choose to register for a certification and or assessment account, Scrum Alliance will have the ability to manage your certification and assessment activities. To register, we require your name and a valid email address. Optionally, you may provide us additional contact information.  We maintain a record of all user sessions and log on patterns to help ensure a stable learning environment with superior performance.
+
+**E-mail Addresses    
+**If you choose to give us your e-mail address, we will communicate with you via e-mail. We do not share your e-mail address with others outside the Scrum Alliance. You are free to opt-out of any service at any time. We primarily use e-mail as a method of communicating system status.
+
+Depending on how your e-mail application is set up, information about you may be transmitted automatically when you send e-mail to Scrum.
+
+**Enrollment and Transcripts**    
+Your certification and or assessment account includes information to help the Scrum Alliance to manage your certification and assessment activities. Your account includes enrolment information such as certification, assessments and tests in which you’ve enrolled, progress and completion status, time spent, and scores. Your transcript includes a record of courses you have completed and your results.
+
+Scrum Alliance may use your transcript information to measure the effectiveness of our offerings so that we may continuously improve our products and services.
+
+**Online Surveys**    
+Our surveys may ask you for demographic information, such as postal codes or your industry sector. If the online survey collects contact data, we may use that data to send you further information only if we specifically asked for your permission in the survey. You are free to retract any permission you gave.
+
+**Duration of Data Storage**    
+We will maintain certification accounts indefinitely and will store your enrolment and transcript data accordingly. We may store your data for up to two years after your account has been closed.
+
+#### **2\. Links to Other Sites**
+
+This site may contain links to other sites. Scrum is not responsible for the privacy practices or the content of other websites.
+
+#### **3\. Choice/Opt-Out**
+
+You can opt out of having an active certification and or assessment account whenever you wish. You only need to email us to have your name and details removed from Scrum’s Global Certification Program database. To opt out or close your account, email us at [membership@scrumalliance.org](mailto:membership@scrumalliance.org).
+
+#### **4\. Inquiries**
+
+If you have any questions about this privacy statement—if, for example, you wish to inspect or update the information we hold about you—feel free to contact:
+
+Scrum Alliance, Inc.   
+PO Box 40097   
+Indianapolis, IN 46240-0097
+
+[http://www.scrumalliance.org](http://www.scrumalliance.org/)
