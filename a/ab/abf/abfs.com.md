@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abfs.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417014451id_/http%3A//www.abfs.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abfs.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207075305id_/http%3A//www.abfs.com/privacy.asp) for the most accurate reproduction.*
 
 # ABF Freight System, Inc. - Privacy Policy
 
