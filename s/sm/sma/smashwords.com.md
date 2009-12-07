@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smashwords.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426025321id_/http%3A//www.smashwords.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smashwords.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207045112id_/https%3A//www.smashwords.com/about/privacy) for the most accurate reproduction.*
 
 # Smashwords - About Smashwords - Privacy Policy
 
@@ -18,10 +18,13 @@ Smashwords allows member authors to publish their works under assumed “pen nam
 Authors who wish to sell their works on Smashwords are required to provide more detailed registration information, such as real name, a postal mailing address, a phone number, and possibly tax ID information to comply with State and local tax codes. Smashwords will only use this contact information to fulfill our obligations to you, and will not sell or rent your information to third parties.
 
  **Smashwords Email Policy:**  
-Registered members will receive occasional emails from Smashwords summarizing site news and feature updates. Published author members will receive emails when they sell a book, or when their book is reviewed. After you purchase a book, we may send you an email reminder to review it.  We may add additional event triggers in the future. Members may opt-out of these updates, or subscribe to other updates, at any time by adjusting their communications preferences at <https://www.smashwords.com/account/comm>. Smashwords does not allow third parties to send emails to its member list. Member email addresses are never revealed on the web site.  Smashwords prohibits its author members from engaging in spam email to promote their books.  See the Smashwords [Terms of Service](https://web.archive.org/web/20090426025321id_/http%3A//www.smashwords.com/about/tos) for more information.
+Registered members will receive occasional emails from Smashwords summarizing site news and feature updates. Smashwords authors/publishers will receive email alerts when they sell a book, or when their book is reviewed. After you purchase a book, we may send you an email reminder to review it. We may add additional event triggers in the future. Members may opt-out of these updates, or subscribe to other updates, at any time by adjusting their communications preferences at <https://www.smashwords.com/account/comm>. Smashwords does not allow third parties to send emails to its members unless the member explicity provides their permission (see "Sharing Email Address with Authors..., below). Member email addresses are never revealed on the web site. Smashwords prohibits its author members from engaging in spam email to promote their books. See the Smashwords [Terms of Service](https://web.archive.org/web/20091207045112id_/https%3A//www.smashwords.com/about/tos) for more information.
+
+**Sharing Email Address with Authors/Publishers In Exchange for Free Books or Discounts** **** **:**  
+Some Smashwords authors may offer special discounts, or even free ebooks to customers in exchange for the customer agreeing to provide their email address to the author. In cases where such incentives are offered, Smashwords will clearly notify the customer in advance, and give the customer the option to accept the incentive, or reject the incentive and proceed with a purchase at the regular price. Under no circumstances will the customer's email address be shared with the author or publisher unless the customer clearly confirms their acceptance of the offer by clicking an "I AGREE" button.
 
  **Advertising on the Smashwords Site:**  
-Although Smashwords does not currently run advertising, we may run ads in the future. If we run ads, we will do our best to make them unobtrusive, and when possible, informative and targeted to your specific interests. We will never use pop-up or pop-under ads because we think they’re annoying.
+Although Smashwords does not currently run advertising, we may run ads in the future. If we run ads, we will do our best to make them unobtrusive, and when possible, informative and targeted to your specific interests. We will never use pop-up or pop-under ads because we think they’re annoying
 
  **Children's Guidelines**  
 Smashwords is not marketed to children. Like any ordinary bookstore, Smashwords hosts books that may contain adult themes and situations not recommended for children. We take multiple steps to ensure this content is not presented to children. First, we ask a member’s age range at registration. Young adults and children under age 18 are blocked from viewing content that contains adult situations or content deemed to be objectionable to children. We have three means for identifying potentially objectionable material: 1. We allow authors to specify if their works are suitable for children. 2. We allow members to flag works they believe are unsuitable for children. 3. We warn members of potentially objectionable content before they click through to it.
@@ -37,8 +40,8 @@ This site gives users the option to remove their information from our database a
 This site gives users the option to change and modify information previously provided by going to the member profile page.
 
   
- **Cancelling Your Membership**  
-To have your account deleted, email Mark below.  
+**Cancelling Your Membership**  
+To have your account deleted, email Mark below, or click on the customer support link at the top of every Smashwords web page.  
  **  
 ** **  
 Contacting Smashwords  
@@ -54,3 +57,6 @@ Los Gatos, CA 95032
 www.smashwords.com
 
 Or, email Mark Coker, Smashwords founder, at first initial second initial at you know where dot com.
+
+  
+Date of last update: December 5, 2009
