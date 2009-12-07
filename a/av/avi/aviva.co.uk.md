@@ -1,39 +1,79 @@
-> *The following text is extracted and transformed from the aviva.co.uk privacy policy that was archived on 2008-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080508221756id_/http%3A//www.aviva.com/index.asp%3Fpageid%3D637) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aviva.co.uk privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207155302id_/http%3A//www.aviva.co.uk/legal/privacy-policy.html) for the most accurate reproduction.*
 
-# Aviva plc : Site functions : Privacy
+# Aviva - Legal - Privacy Policy
 
-##  Privacy policy
+The pages on this website are only directed at United Kingdom residents and comply with appropriate UK legislation and regulation. We have provided this privacy policy to help you understand how we collect and use your personal information when you visit our website.
 
-Aviva plc is a member of the Aviva Group. We will use your personal details and information we obtain from other sources to provide you with our goods and services, for administration and customer services, to analyse your preferences and to ensure that the content, services and advertising we offer are tailored to your needs and interests. We may keep your information for a reasonable period for these purposes. We may need to share your information with service providers and agents for these purposes. We may disclose personal data in order to comply with a legal or regulatory obligation. 
+Who we are
+    
 
-We use cookies to collect information about how this site is used. We use this information to improve how the site caters for your needs and to identify any technical problems.
+Wherever the name “Aviva” is used within these pages, this refers to one or more of the trading companies of Aviva that operate in the United Kingdom and who may or may not offer insurance and financial products or services on this site.
 
-Cookies are small bits of data that are stored by your browser. You can accept or decline cookies by modifying the settings of your web browser. Further details are available in our [Aviva cookie policy](https://web.archive.org/web/20080508221756id_/http%3A//www.aviva.com/index.asp?pageid=857) or for further information about how to disable cookies in your browser please visit the [About cookies website](https://web.archive.org/web/20080508221756id_/http%3A//www.aviva.com/index.asp?pageident=disclaimer&site=http://www.aboutcookies.org/Default.aspx?page=1).
+  * For more information concerning Aviva - [www.aviva.com](http://www.aviva.com/ "This link will open in a new window")
+  * [A full list of trading companies](https://web.archive.org/legal/list-of-aviva-companies.html)
 
-When you visit our site, we may also log your IP address, a unique identifier for your computer or other access device. 
 
-If you have provided your personal details to a member of the Aviva Group or its business partners, the data protection notice given to you at the time will continue to apply and you may therefore be marketed to under the terms of that notice. 
+What information we collect and how
+    
 
-The internet is worldwide and if you are visiting this site from outside the UK your visit will necessarily result in the transfer of information across international borders. By visiting this site and communicating electronically with us you are consenting to these transfers. 
+The information that we collect via this website may include:-
 
-If you provide us with information about another person, you confirm that they have appointed you to act for them, to consent to the processing of their personal data including sensitive personal data and that you have informed them of our identity and the purposes (as set out above) for which their personal data will be processed. 
+  1. Any personal details that you type in and submit such as your name, address, e-mail address, date of birth, lifestyle and other information.
 
-We link to a wide variety of other sites and we display advertisements from third parties on our site. We are not responsible for the content or privacy policies of these sites and third party advertisers, nor for the way in which information about their users is treated. In particular, unless expressly stated, we are not agents for these sites or advertisers nor are we authorised to make representations on their behalf.
+  2. Data that allows us to remember you, any interests that you have recorded and how you use this website. This saves you from re-keying information when you return to the site and allows us to arrange our website content to match your preferred interests.
 
-You are entitled to ask for a copy of the information we hold about you (for which we may charge a small fee) and to have any inaccuracies in your information corrected. To do this please write to us at the following address: 
+We use “cookies” to collect this data. Cookies are text-only strings of information that are stored on your web browser or hard disk. You have the ability to accept or decline cookies by modifying the settings of your web browser. However, you may not be able to use all the interactive facilities of our site if cookies are disabled.
+
+Further details are available on our [Aviva Cookie Policy](https://web.archive.org/legal/aviva-cookie-policy.html) or for further information about how to disable cookies in your browser please visit the [About Cookies Website](http://www.aboutcookies.org/ "This link will open in a new window").
+
+  3. Your IP address (this is your computer's individual identification number for internet connection) that is automatically logged by our web server. This is used to note your interest in our website.
+
+  4. Your preferences and use of e-mail updates that are recorded by e-mails we send you (only if you have selected to receive e-mail updates on products and offers).
+
+
+
+What we do with your information
+    
+
+Your information may be used for the purposes of insurance administration by the insurer, its associated companies and agents, by reinsurers and your intermediary. It may be disclosed to regulatory bodies for the purposes of monitoring and/or enforcing the insurer's compliance with any regulatory rules/codes.
+
+Your information may also be used for offering renewal, research and statistical purposes and crime prevention. It may be transferred to any country, including countries outside the European Economic Area for any of these purposes and for systems administration. Where this happens, we will ensure that anyone to whom we pass your information agrees to treat your information with the same level of protection as if we were dealing with it.
+
+If you give us information about another person, in doing so you confirm that they have given you permission to provide it to us to be able to process their personal data (including any sensitive personal data) and also that you have told them who we are and what we will use their data for, as set out in this notice.
+
+In the case of personal data, with limited exceptions, and on payment of the appropriate fee, you have the right to access and if necessary rectify information held about you.
+
+Marketing
+    
+
+[Aviva group](https://web.archive.org/legal/aviva-group-products-and-services.html) and its agents may use your information to keep you informed by post, telephone, e-mail, text messaging or other electronic means, about insurance and financial products and services which may be of interest to you. Your information may also be disclosed and used for these purposes after your policy has lapsed.
+
+By providing us with your contact details, you consent to being contacted for these purposes.
+
+If you wish to receive these, please ensure that the "Yes" box contains a tick when entering your personal details. However, you can contact us at any time to have your details removed from lists used by us for direct marketing purposes.
+
+We can also provide you with great deals from our carefully selected partners.
+
+If you wish to receive these, then please tick the "Yes" box when entering your personal details. Note that again you may unsubscribe at a later date if you wish.
+
+Your rights
+    
+
+You can ask us to update or remove your personal information by e-mail or by writing to the Customer Services contact that is listed in the Aviva website where you negotiated or concluded the sale of your particular insurance or financial product or service.
+
+You also have the right to request a copy of all the personal information we hold about you. To do this, simply write to us at the following address enclosing a cheque for £10.00 payable to Aviva to cover our administrative costs in dealing with your request:-
 
 The Data Protection Team   
-NU Professional Services   
-Business Protection   
-PO Box 457   
-Norwich   
-NR1 3EA 
+Aviva   
+Pitheavlis   
+Perth   
+PH2 0NH
 
-For quality control and training purposes, we may monitor or record your communications with us. 
+We will take all reasonable steps to confirm your identity before providing you with details of any personal information we may hold about you.
 
-The data protection notice may change and therefore you should review it regularly. We will of course notify you of any changes where we are required to do so.
+Other websites and information security
+    
 
-**Aviva plc  
-Registered in England  
-Registered number: 2468686  
-Registered office: St Helens, 1 Undershaft, London EC3P 3DQ**
+This Privacy Policy covers all websites operated by Aviva. Any other websites that may be linked to or by our website(s) will be subject to their own policies which may differ from ours. You should carefully read the privacy policies of these websites before submitting any personal information.
+
+You should also be aware that communications over the internet, such as e-mails, are not secure unless they have been encrypted. Your communications may route through a number of countries before being delivered - this is the nature of the internet. Aviva cannot accept responsibility for any unauthorised access or loss of personal information that is beyond our control.
