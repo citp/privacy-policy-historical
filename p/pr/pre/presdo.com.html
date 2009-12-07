@@ -1,0 +1,232 @@
+<!--The following is the downloaded HTML source of the presdo.com privacy policy that was archived on 2009-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091207201601id_/http%3A//www.presdo.com/about/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta name="keywords" content="event scheduler, online scheduler, meeting scheduler, scheduling, meetings, business meetings, conference calls, study group, movies, movie night, Outlook Calendar, Google Calendar, Google Apps, Yahoo Calendar, Apple iCal, scheduling api, doodad">
+  <meta name="description" content="Use Presdo to schedule the next movie night, business meeting, study group session, or any group event.  Use the simple text entry to create an event, and then let Presdo find out what times works best for you and guests.">
+  <title>Presdo | Privacy Policy</title>
+  <link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+  <link href="http://a3.presdo.com/stylesheets/base_packaged.css?1259655208" media="screen" rel="stylesheet" type="text/css">
+  <link href="http://a3.presdo.com/stylesheets/about_packaged.css?1259655208" media="screen" rel="stylesheet" type="text/css">
+    
+  <script src="http://a0.presdo.com/javascripts/base_packaged.js?1259655200" type="text/javascript"></script>
+  <style type="text/css" media="screen">
+    #header a {
+      color: #FC0;
+    }
+    #header {
+      font: 11px helvetica, arial, sans-serif;
+      line-height: 14px;
+      color: #999;
+      width: 800px;
+      height: 83px;
+      margin-left: auto;
+      margin-right: auto;
+      padding: 0;
+      position: relative;
+      background: transparent url(http://a2.presdo.com/images/header.png?1259655189) no-repeat 0 0;
+    }
+    
+    #info_header {
+      position: absolute; 
+      top: 25px; 
+      right: 125px;
+      text-align: right;
+    }
+    
+    #info_header.no_create {
+      right: 30px;
+    }
+    
+    #header .logo {
+      text-decoration: none;
+      position: absolute;
+      top: 0; left: 30px;
+      outline-style: none;
+    }
+    
+    #header .create {
+      text-decoration: none;
+      position: absolute;
+      top: 16px; right: 29px;
+    }
+    
+    #header .updated {
+      background: transparent url(http://a3.presdo.com/images/star_header.png?1259655189) no-repeat 0 0;
+      padding-left: 14px;
+      *background-position: 0 2px;
+      line-height: 14px;
+    }
+  </style>
+</head>
+<body>
+  <div id="header">
+    <a href="/" class="logo"><img alt="Home" height="60" src="http://a0.presdo.com/images/spacer.gif?1259655189" width="150"></a>
+    <div id="info_header" class="">
+        <div><a href="#" onclick="showLoginWindow(); return false;">Sign In</a></div>
+  <div><a href="/help">Help</a>&nbsp;|&nbsp;<a href="/account/signup">Sign Up</a></div>
+    <style type="text/css" media="screen">
+    #login_window {
+      text-align: left;
+      color: #666;
+      position: relative;
+      margin: 10px;
+      width: 280px;
+    }
+
+    .login_row {
+      clear: both;
+      height: 28px;
+    }
+
+    .login_title {
+      float: left;
+      width: 90px;
+      position: relative;
+      top: 4px;
+      *top: 5px;
+      color: #666;
+    }
+
+    .login_row input {
+      width: 100%;
+    }
+
+    .login_form {
+      float: left;
+      width: 190px;
+      _width: 184px;  /* IE6 */
+    }
+
+    .login_lower {
+      font: 11px helvetica, arial, sans-serif;
+      margin-left: 85px;
+      position: relative;
+      top: -4px;
+    }
+
+    #login_remember_session {
+      position: relative;
+      top: 3px;
+    }
+    
+    @media screen and (-webkit-min-device-pixel-ratio:0) {
+      .login_lower {
+        top: 2px;
+      }
+      
+      #login_remember_session {
+        top: -3px;
+      }
+    }
+
+    #login_window_error {
+      margin-left: 90px;
+      height: 18px;
+    }
+
+    #login_hidden_submit {
+      /* If the button does not render (display:none, width:0, left:-9999),
+      in IE, the submit button will be disabled, implying the form won't be 
+      submit on Enter */
+      position: absolute;
+      border: none;
+      width: 1px;
+      height: 1px;
+      /* Set the background color to be the same as the dialog background
+      color such that in safari users don't see the button */
+      background-color: #EEE;
+    }
+  </style>
+
+  <script type="text/javascript" charset="utf-8">
+    function activateLoginWindow()
+    {
+      $($F('login_window_user_email').blank() ?
+        'login_window_user_email' : 'login_window_user_password').activate();
+    }
+    
+    function showLoginWindow()
+    {
+      Dialog.confirm(
+        '<form action="/account/login" id="login_window" method="post" onsubmit="$(&quot;login_window_tz&quot;).value = Date.tzInfo(); new Ajax.Request(\'/account/login\', {asynchronous:true, evalScripts:true, parameters:Form.serialize(this)}); return false;"> <div id="login_window_error" class="error_message"></div> <div class="login_row"> <span class="login_title">Email address</span> <span class="login_form"><input autocomplete="off" id="login_window_user_email" name="user_email" type="text" /></span> </div> <div class="login_row"> <span class="login_title">Password</span> <span class="login_form"><input id="login_window_user_password" name="user_password" type="password" /></span> </div> <div class="login_lower"> <input id="login_remember_session" name="remember_session" type="checkbox" value="1" /> <label for="login_remember_session">Remember me</label>&nbsp;|&nbsp;<a href="/account/forgot_password">Forgot Password?</a> </div> <input id="login_window_tz" name="tz" type="hidden" /> <input id="form_id" name="form_id" type="hidden" value="login_window" /> <input id="login_hidden_submit" name="commit" type="submit" value="&nbsp;" /></form>',
+        {id: 'login_win', okLabel: ' ', title: 'Sign in', 
+         ok: function() { $('login_window').onsubmit(); }, 
+         windowParameters: {className: 'alphacube', width: 300, height: 152,
+          effectOptions: {duration: 0.25}}});
+      activateLoginWindow.delay(0.25);
+    }
+  </script>
+
+    </div>
+          <a href="/" class="create"><img alt="Create a new event" src="http://a3.presdo.com/images/create_button.png?1259655189"></a>      </div>
+  <div id="flash"></div>
+  <div id="main">
+
+<h3>Privacy Policy</h3>
+<p>Effective date: January 1, 2009</p>
+<h4>1. Introduction</h4>
+<p>Presdo is committed to your privacy and the privacy of your information.  This Privacy Policy applies to the information that users transmit to Presdo through the Presdo website at <a href="http://www.presdo.com">www.presdo.com</a> (the “Site”).  This Privacy Policy informs you of what information Presdo collects from you on our Site and how Presdo uses that information.  By using or accessing Presdo, you are accepting the practices described in this Privacy Policy.</p>
+<h4>2. Information Collected by Presdo</h4>
+<p>When you register with Presdo, you provide us with certain personal information, such as your name, email address, and any other personal or preference information that you choose to provide to us (“Personally Identifiable Information”).</p>
+<p>When you use Presdo, you may plan meetings or events and transmit information through various channels.  If you plan a meeting or event with others using the Site, Presdo will ask you for your contacts’ email addresses.  Presdo will automatically send each of your contacts an email inviting them to visit the site.  Presdo stores this information to send this email, to enable them to easily respond and comment on your invites, and to track the success of your referrals.  Your contacts may contact us at <a href="mailto:info@presdo.com">info@presdo.com</a> to request that Presdo removes this information from our database.</p>
+<p>When you enter the Site, Presdo keeps track of which pages you click on.  Presdo also collects your browser type and IP address.  This information is collected for all Presdo visitors.</p>
+<p>Presdo uses cookies and other standard web technology to collect information for its own use.  A cookie is a small data file that the Site transfers to your computer hard disk for record-keeping purposes.  Presdo uses session ID cookies to confirm that you are logged in.  You can remove or block this cookie using the settings in your browser if you want to disable this convenience feature.  In some cases refusing a cookie will hamper your navigation of our Site.</p>
+<p>Presdo may also collect information about you from other sources, such as other websites, blogs, instant messaging services, and other Users. </p>
+<h4>3. Uses the of Collected Information</h4>
+<p>Presdo uses the information collected from you to:</p>
+<ul>
+  <li>authenticate your visits;</li>
+  <li>conduct research;</li>
+  <li>provide anonymous reporting for internal and external entities.</li>
+</ul>
+<p>Presdo uses the collected information to manage and improve our Site.  Presdo collects this information so that Presdo can provide you the Site and offer personalized features.</p>
+<p>When you update information, Presdo usually keeps a backup copy of the prior version for a reasonable period of time to enable reversion to the prior version of that information.  Presdo logs various types of information to help manage and improve the Site, in general and for you in particular.  For example, Presdo identify items such as domains and browser types to understand how the Site is used and to report these statistics in the aggregate to the vendors that manage the technology of the Site.</p>
+<p>Presdo may enhance or merge Personally Identifiable Information with your other information and with data from third parties in order to better develop, market and provide our products, services and software, including under the following circumstances:</p>
+<ul>
+  <li>technology and other service providers to provide technology and services to Presdo and to you;</li>
+  <li>vendors that help Presdo with data analysis, for example for product efficacy studies and market analysis.</li>
+</ul>
+<p>The above third parties are all contractually obligated to keep the information Presdo provides confidential and to not use the information for any purpose other than providing services to Presdo and to you under Presdo’s direction. On occasion, Presdo may also receive your Personally Identifiable Information from these third parties.</p>
+<p>Presdo limits access to personal information about users to employees who Presdo appropriately believes need to come into contact with that information to provide products or services to users or in order to do their jobs.</p>
+<p>Presdo shall also disclose Personally Identifiable Information as permitted or required by law or as required by subpoena, search warrant, or other legal process.  Presdo also shares information that it believes is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Presdo’s Terms of Use, or as otherwise required by law.</p>
+<p>As Presdo’s business evolves, Presdo may sell, transfer or otherwise share some or all of its assets, including information provided by you, in connection with a merger, reorganization or sale of some or all of our assets or in the event of bankruptcy.  In any such event, Personally Identifiable Information and other information may be one of the assets transferred.  Presdo will post notice before personal information is transferred and becomes subject to a different privacy policy, and Presdo will seek your consent if that policy is materially different from this one.</p>
+<h4>4. Spam Policy</h4>
+<p>Presdo does not condone spamming.  Presdo will not rent, sell, or share Personally Identifiable Information, such as your name, email address, or other contact information, or your use of the Site, and they will not be used for spam or any other purpose outside of Presdo’s services.</p>
+<p>Presdo may periodically send you service-related announcements from time to time about the general operation of the service.  Presdo reserves the right to send you such notices about your account even if you opt out of all voluntary email notifications.</p>
+<h4>5. Phishing</h4>
+<p>Presdo does not and will not, at any time, request Personally Identifiable Information in a non-secure or unsolicited e-mail or telephone communication.</p>
+<h4>6. Links to third party sites</h4>
+<p>The Site may contain links to other sites whose information practices may be different than Presdo’s. You should consult the other sites' privacy policies, as Presdo has no control over information that is submitted to, or collected by, these third parties.</p>
+<h4>7. International Users</h4>
+<p>By visiting the Site and providing your data, you acknowledge and agree that due to the international dimension of Presdo some of the data may be transmitted outside your resident jurisdiction.  Furthermore, you acknowledge and agree that such data may be stored on servers located in the United States.</p>
+<h4>8. Changes to the Privacy Policy</h4>
+<p>This Privacy Policy may be updated as Presdo’s services change and grow. Presdo will indicate any such changes on this page, by email, or through notice on our home page.  Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site.  If this Privacy Policy is changed, Presdo will post them and will indicate at the top of this page the policy’s new effective date.  Presdo encourages you to refer to this policy on an ongoing basis so that you understand our current privacy policy. The most current version of the Privacy Policy can be found at <a href="http://www.presdo.com/about/privacy">http://www.presdo.com/about/privacy</a>.</p>
+<h4>9. Contact</h4>
+<p>If you have any questions about this privacy policy, please contact us at <a href="mailto:privacy@presdo.com?subject=Privacy Policy">privacy@presdo.com</a>. You may also contact us by mail at:</p>
+<p>Presdo, Inc.<br>
+  PO Box 391737<br>
+  Mountain View, CA 94039 </p>
+<p>Email: <a href="mailto:service@presdo.com?subject=Privacy Policy">service@presdo.com</a></p>
+<p>Copyright © 2009 Presdo. All rights reserved.</p>
+</div>
+  <div id="footer" style="text-align: center;">© 2009 Presdo&nbsp;|&nbsp;<a href="/about">About</a>&nbsp;|&nbsp;<a href="/doodad">Doodad</a>&nbsp;|&nbsp;<a href="/about/terms">Terms</a>&nbsp;|&nbsp;<a href="/about/privacy">Privacy</a>&nbsp;|&nbsp;<a href="/about/jobs">Jobs</a>&nbsp;|&nbsp;<a href="http://blog.presdo.com">Blog</a>&nbsp;|&nbsp;<a href="/about/contact_us">Contact Us</a></div>
+    <div id="preload">
+    <div class="alphacube_nw">&nbsp;</div>
+    <div class="alphacube_ne">&nbsp;</div>
+    <div class="alphacube_sw">&nbsp;</div>
+    <div class="alphacube_se">&nbsp;</div>
+  </div>
+
+  <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3409782-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+</body></html>
