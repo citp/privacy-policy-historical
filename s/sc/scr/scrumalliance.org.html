@@ -1,681 +1,311 @@
-<!--The following is the downloaded HTML source of the scrumalliance.org privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216082503id_/http%3A//www.scrumalliance.org/view/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the scrumalliance.org privacy policy that was archived on 2009-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091207200332id_/http%3A//www.scrumalliance.org/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" version="-//W3C//DTD XHTML 1.1//EN" xml:lang="en"><head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <meta name="verify-v1" content="uM8oTuwIqjOM2qO31NXQeY2Aq8CqI125S1g6gpHUphY=">
-      <title>Scrum Alliance - Privacy Policy</title>
-      <link href="feed://scrumalliance.org/rss" rel="alternate" title="RSS" type="application/rss+xml">   	
-			<link rel="shortcut icon" href="/favicon.ico">
-      <link href="/stylesheets/application.css?1228857250" media="screen" rel="stylesheet" type="text/css">
-      <link href="/stylesheets/shared.css?1228857250" media="screen, print" rel="stylesheet" type="text/css">
-      <link href="/stylesheets/screen.css?1228857250" media="screen" rel="stylesheet" type="text/css">
-      <link href="/stylesheets/print.css?1228857250" media="print" rel="stylesheet" type="text/css">
-			            
-      
-      <script src="/javascripts/all.js?1228857370" type="text/javascript"></script>
-      
-      
-  </head>
-  <body onload="new Ajax.Updater('logged-in-menu', '/check_logged_in_menu', {asynchronous:true, evalScripts:true}); ">      
-  <div id="header">
-  <div class="site-links">
-                   
-       
-    <a href="/pages/welcome_to_scrum_alliance">About the Scrum Alliance</a>
-    <span class="separator"> | </span>
-    <a href="/contact/">Contact Us</a>
-  </div>
-  
-  <div id="logo">
-    <a href="/"><img src="/images/logo.gif" width="225" height="54" alt="Scrum Alliance - Transforming the world of work" title=""></a>
-  </div>
-  <div id="upper_right">
-    <div class="advertisement announcement" style="display:none">
-    </div>
-</div>
-
-  <div class="navigation">
-    <a id="articles-button" class="not_here" href="/articles/"><span>Articles</span></a>
-    <span class="separator"> | </span>
-    <a id="resources-button" class="not_here" href="/resources/"><span>Resources</span></a>
-    <span class="separator"> | </span>
-    <a id="courses-button" class="not_here" href="/training/"><span>Training &amp; Certification</span></a>
-    <span class="separator"> | </span>
-    <a id="news-button" class="not_here" href="/news_items/"><span>News</span></a>
-    <span class="separator"> | </span>
-    <a id="events-button" class="not_here" href="/events/"><span>Events</span></a>
-    <span class="separator"> | </span>
-    <a id="community-button" class="here" href="/view/community/"><span>Community</span></a>
-    <div id="search">	
-<form action="/site_search" method="post">
-  <div>
-    <input class="textbox" id="q" name="q" type="text" value="">
-    <input class="button" name="commit" type="submit" value="Search">
-  </div>
-  <div><a style="display: none;" href="/search/#advanced">Advanced&nbsp;Search</a></div>
-</form>
-</div>
-  </div>
-</div>
-
-
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!-- new application layout-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="verify-v1" content="uM8oTuwIqjOM2qO31NXQeY2Aq8CqI125S1g6gpHUphY=">
+<title>Scrum Alliance -Privacy Policy</title>
+<link href="feed://scrumalliance.org/rss" rel="alternate" title="RSS" type="application/rss+xml">
+<link rel="shortcut icon" href="/favicon.ico">
+<link href="/stylesheets/application.css?1259209057" media="screen" rel="stylesheet" type="text/css"><link href="/stylesheets/shared.css?1259209057" media="screen, print" rel="stylesheet" type="text/css"><link href="/stylesheets/screen.css?1259209057" media="screen" rel="stylesheet" type="text/css"><link href="/stylesheets/print.css?1259209057" media="print" rel="stylesheet" type="text/css"><script src="/javascripts/all.js?1259209251" type="text/javascript"></script>
+<script src="/javascripts/j-query/jquery-1.2.6.min.js?1259209057" type="text/javascript"></script><script src="/javascripts/j-query/jquery.bgiframe.js?1259209057" type="text/javascript"></script><script src="/javascripts/j-query/jquery.tooltip.min.js?1259209057" type="text/javascript"></script>
 <script type="text/javascript">
-//<![CDATA[
- /* Submenu functions */
-		function clearSubmenus() {
-				$('content-sub-menu').style.display = 'none'
-			  $('user-sub-menu').style.display = 'none'
-				$('config-sub-menu').style.display  = 'none'
-			  $('actions-sub-menu').style.display = 'none'
-				$('fin-sub-menu').style.display  = 'none'
+        var $j = jQuery.noConflict() ;
+		$j(document).ready(function() {
+            //$j(".hp_tooltip").tooltip();
+			resize_margin();
+			var height_primary = $j("#primary_general").height();
+			resize_sidebar(height_primary);
+			var height_secondary = $j("#secondary").height();
+		});
+        
+        jQuery(function($)
+		{
+			$(document).find("img[src:contains('/images/copy.')]").click(function()
+			{				
+				if($(this).attr("title")!="Copy")
+					return;
+					
+				if(confirm("Are you sure copy this '"+ $(this).parent("a").attr("id") +"' course?")) 
+					return true;	
+				else 
+					return false;	
+			});	
+			$(document).find(".info").append("<br/><br/>");
+		});
+        
+		
+		function resize_margin()
+		{
+			var new_margin = document. getElementById("content_subtitle"). clientHeight;
+			var new_margin = document. getElementById("content_subtitle"). offsetHeight;
+			var new_width = document. getElementById("content_subtitle"). clientWidth;
+			var new_width = document. getElementById("content_subtitle"). offsetWidth;
+			document.getElementById("content_margin").style.height= new_margin+"px";
+			document.getElementById("content_subtitle_repeat").style.height= new_margin+"px";
+			document.getElementById("content_subtitle_repeat").style.width= new_width+"px";
 		}
-		function toggleContent() {
-				clearSubmenus()
-				Element.toggle('content-sub-menu');
+		function resize_sidebar(h)
+		{
+			$j("#secondary").height(h);
 		}
-		function toggleUsers() {
-				clearSubmenus()
-				Element.toggle('user-sub-menu');
-		}
-		function toggleConfig() {
-				clearSubmenus()
-				Element.toggle('config-sub-menu');
-		} 
-		function toggleAction() {
-  				clearSubmenus()
-				Element.toggle('actions-sub-menu');
-		}
-		function toggleFinancial() {
-				clearSubmenus()
-				Element.toggle('fin-sub-menu');
-		}
+		
+    </script>
+<script src="/javascripts/swfobject.js?1259209057" type="text/javascript"></script>
 
-//]]>
+<!--This source javascript for show flash banner, for this needed swobject script-->
+<script type="text/javascript">
+	var flashvars = {namevideo: ""};
+	var params = {};
+	var attributes = {};
+	params.menu = "false";
+	params.wmode = "transparent";
+	params.allowfullscreen = "true";
+	swfobject.embedSWF("../flash/videoplayer.swf", "flash_player", "610", "480", "9.0.0", "expressInstall.swf", flashvars, params, attributes);
+
 </script>
+<script type="text/javascript">
+swfobject.embedSWF("/flash/courses_per_year_month.swf?xml_path=/generate_xml", "courses_content", "680", "400", "9.0.0");
+</script>
+<script type="text/javascript">
+swfobject.embedSWF("/flash/courses_generic.swf?xml_path=/generate_csm_cspo_xml", "number_courses_csm_cspo", "680", "400", "9.0.0");
+</script>
+<script type="text/javascript">
+swfobject.embedSWF("/flash/user_groups.swf?xml_path=/generate_groups_xml", "user_group_per_month", "680", "400", "9.0.0");
+</script>
+<script src="/javascripts/alternate_content_flash/disable_logins.js" type="text/javascript"></script>
+</head>
+<body>
+<div id="general">
+  <div id="page">
+    <a name="top"></a>
+    <div id="hpheader">
+      <div id="loginblock">
+        <table width="406" align="right" cellpadding="0" cellspacing="0">
+          <tbody><tr>
+            <td colspan="3" valign="top" class="anline"><!--form_tag site_search_path   search_gsa_path-->
+<script>
+function validateClick(){
+	var query = document.getElementById('q').value;
+	if (query != "") 
+		document.getElementById('gsa_form').submit();
+}
+function validateEnter(e) {
+  enterKey = (document.all) ? e.keyCode :e.which;
+  if (enterKey!=13)
+  	return (enterKey!=13);
+  else {
+	if (document.getElementById('q').value!=""){
+		document.getElementById('gsa_form').submit();
+	} else {
+		return (enterKey!=13);
+	}
+  }
+}
+</script>
+
+<form id="gsa_form" method="post" action="http://www.scrumalliance.org/search_gsa">
+         <table width="406" border="0" align="right" cellpadding="0" cellspacing="0">
+          <tbody><tr class="bg_search">
+          <td valign="top" id="label_search" align="right" width="100">&nbsp;</td>
+            <td valign="top" width="260"><input id="q" class="search_fields" type="text" value="" name="q" onkeypress="return validateEnter(event)">
+            <input id="aux_search" type="hidden" value="0" name="aux_search">
+            </td>
+            <td valign="top"><input type="button" id="button_search" value="" onclick="validateClick();">&nbsp;&nbsp;</td>
+          </tr>
+          </tbody></table>
+</form>
+ </td>
+          </tr>
+          <tr>
+            <td colspan="3"><div id="hpsite_links">
+	<ul style="list-style-type:none;">
+    <li style="display:inline;"><span id="logged_in_menu"></span></li>
+    
+    
+	</ul>
+</div></td>
+          </tr>
+          <tr>
+            <td colspan="3">
+<form action="/sessions" method="post">
+           <table width="406" border="0" align="right" cellpadding="0" cellspacing="0">
+            <tbody><tr>
+              <td colspan="4" height="10"></td>
+            </tr>
+           <tr>
+              <td width="50" valign="top" align="right"><div align="right">Username</div></td>
+              <td width="110" valign="top"><input class="inputs" id="login" name="login" type="text" value=""></td>
+              <td width="50" valign="top" align="right">Password</td>
+              <td valign="top"><input class="inputs" id="password" name="password" type="password" value=""></td>
+            </tr>
+            <tr>
+              <td align="right" valign="top"><div align="right">
+			  <a href="/join_scrumalliance" class="join_link">&nbsp;</a>
+              </div></td>
+              <td valign="top" align="left"><a href="/welcome_to_scrum_alliance">the Scrum<br>
+                Alliance </a></td>
+              <td align="right" valign="top"><div align="right">
+                <input name="Input" type="submit" value="" id="button_login">
+              </div></td>
+               <td valign="top" align="left"><a href="/reset_email">Login help</a> <br>
+               <a href="/signup">About Membership</a></td>
+            </tr>
+          </tbody></table>
+</form>
+
+</td>
+          </tr>
+		<tr>
+		<td>
+				
+				<div id="temporary-maintenance" style="background-color: red; color: white; display:none;">
+				* * Notice: This site will be down shortly for maintenance. * * Please logout if possible* *
+				</div>
+			</td>
+		</tr>
+        </tbody></table>
+      </div>
+      <h1><a href="/"></a></h1>
+    </div>
+    
+    <!-- DIV hr_outer -->
+    <div id="hpnav_border"></div><div id="hpnav"></div>
+    <div id="menu_hpnav"> <a href="/" class="top_links">Home</a> | <a href="/articles" class="top_links">Articles</a> | <a href="/resources" class="top_links">Resources</a> | <a href="/scrum_certification" class="top_links">Training &amp; Certification</a> | <a href="/news_items" class="top_links">News</a> | <a href="/events" class="top_links">Events</a> | <a href="/community" class="top_links">Community</a> </div>
 
     <hr class="hidden">
     <div id="main">
-      <div id="primary">
+            <div id="main_title">
+        <div id="main_title_left">
+                <div id="breadcrumbs"><a href="/">Home</a> &gt; </div>
+ 
+        </div>
+        <div id="main_title_right"></div>
+      </div>
+
+
+    <div class="primary_general" id="primary_general">
+           <div id="primary">
         <div id="content">
-          <div id="head">
-          	<div class="padding">
-				<div id="breadcrumbs"><a href="/">Home</a> &gt;</div>
-				<h1> Privacy Policy</h1>
-				
-				<div class="clear">&nbsp;</div>
-            </div><!-- class="padding" -->
-          </div><!-- id="head" -->
-          <div id="body">
-	          <div class="padding">
+          <div id="body_internal_pages">
+          <div id="content_margin" style="width:100%;"></div>
+                    <script src="/javascripts/jquery.smoothanchors.js" type="text/javascript"></script>
 
 
 
-
-
-<div class="page">
-  <h2>Scrum Alliance Privacy Policy</h2>
-<p>
-Welcome to the Scrum Alliance <a href="http://scrumalliance.org">www.scrumalliance.org</a> web site (the "Site") provided to you by Scrum Alliance, Inc. ("SA", "us" or "we").&nbsp; Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Site unless you choose to provide that information.
-</p>
-<p>
-&nbsp;
-</p>
-<ol>
-	<li><strong>Membership Information.</strong>&nbsp; As a benefit to SA members, SA will include your name and relevant personal information in your member profile (“Profile”).&nbsp; You agree that your name and your SA certification information shall be made publicly available on the Site. You will have the right to specify whether certain other personal information in your Profile is publicly available or not. </li>
-	<li><strong>Contacting You.</strong> From time to time, we may need to contact you for membership-related activities (e.g., renewal notices, etc.). You agree that we may use your personal information for such membership-related contacts with you.&nbsp; We may also desire to contact you for market research purposes or to provide you with marketing information we think would be of particular interest. You will have the option of not being contacting by us by opting-out of such contacts by setting the appropriate option in your Profile.</li>
-	<li><strong>Information Sharing.</strong> SA will not sell, rent, or lease your personally identifiable information to others without your permission. Unless we have your permission or are required by law, we will only share the personal data you provide to us with other SA entities and/or business partners who are acting on our behalf to help us provide you with our products and services. Such SA entities and/or business partners are governed by our privacy policies with respect to the use of this data and are bound by this Privacy Policy and applicable confidentiality agreements.</li>
-	<li><strong>General Information.</strong>&nbsp; The server on which the Site is located collects and saves only the default information customarily logged by web server software. Such information may include the date and time of your visit, the originating IP address, and the pages and images requested.&nbsp; This general information is used to improve the content of Site and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except if it becomes necessary to share information to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the Scrum Alliance Terms of Service, or as otherwise required by law.</li>
-	<li><strong>Cookies.</strong>&nbsp; The Site uses cookies, which are small amounts of data that contain a unique identifier that many web sites frequently send to your web browser to be stored on your computer’s hard drive.&nbsp; We use cookies to record current session information.</li>
-	<li><strong>Security.</strong>&nbsp; The Site has basic security measures in place to protect against the loss, misuse and alteration of any information that you provide us. However, we do not guarantee that our Site is impervious to information gathering or altering attacks by hackers.&nbsp; In addition, you understand that the technical processing and transmission of the Site content may be transferred unencrypted and involve (a) transmissions over various networks; and (b) changes to conform and adapt to technical requirements of connecting networks or devices. We do not guarantee that any information sent from our Site will be secure during transmission.</li>
-	<li><strong>Third-party Sites.</strong> Our Site may contain links to multiple third-party sites on the Internet, including many that have different privacy and security policies and practices than us. We make no representations or warranties about the policies and practices of sites that are linked to by our Site. We urge you to consult the policies available on those sites to further understand your rights.</li>
-	<li><strong>Amendment of Terms.</strong> You agree that we retain the right to amend this Privacy Policy any time, for any reason, and without notice. You agree to review the posting of this Agreement at www.scrumalliance.org/view/privacy_policy periodically to be aware of such changes. You will be bound by all such modifications, whether or not you have notice thereof. If any future changes are unacceptable to you, you should discontinue using the Site. Your continued use of the Site now, or following the posting of notice of any such changes, will indicate your acceptance of this privacy policy, and of any such changes.</li>
-	<li><strong>Contact. </strong>SA is located in Lafayette, Colorado, U.S.A. Any questions, comments or suggestions regarding this Privacy Policy should be provided to the Administrator as follows: </li>
-</ol>
-<blockquote>
-	<blockquote>
-		<address>
-					By E-mail: info @ scrumalliance.org</address>
-		<address>
-					By Postal Mail: <span class="caps">PO BOX 40097</span>, <span class="caps">INDIANAPOLIS, IN, U.S.A.&nbsp;46240</span>-0097</address>
-		<address>
-		&nbsp;</address>
-	</blockquote>
-</blockquote>
-<p>
-&nbsp;
-</p>
-    
-</div>
-      
-			  </div><!-- class="padding" -->
-		  </div><!-- id="body" -->
-          <div class="recessed-advertisement announcement" style="background-image: none;display:none;">
-          </div>
-        </div><!-- id="content" -->
-      </div><!-- id="primary" -->
-      <hr class="hidden">
-      <div id="secondary">
-        <div id="sidebar">
-          <div class="box">
-            <p class="important-note"><a href="/login/"><strong>Login</strong></a> | <a href="/view/scrum_alliance_members">About Membership</a></p>
-          </div>
+<div class="page" style="padding-rigth: 10px">
   
+    <h4></h4>
+  
+  
+  <h2><strong>Scrum Privacy Statement</strong></h2>
+<p>Protecting the individual's   privacy on the Internet is crucial to the future of Internet-based business   and the move toward a true Internet economy. Scrum Alliance has created   this privacy statement to demonstrate our firm commitment to secure   and trustworthy Internet commerce and the individual's right to privacy.</p>
+<h4><strong>Consent</strong></h4>
+<p>If you want to use the Scrum   Alliance Certification &amp; Assessment Program, you will be asked for   your consent to the collection and use of the information as described   here.</p>
+<h4><strong>Non-Disclosure of Exam   Data</strong></h4>
+<p>All Scrum Alliance certification   exams, including the content and wording of exam questions, constitute   confidential Scrum Alliance information that is protected by trade secret   law. Anyone obtaining access to Scrum exams is obligated to maintain   the confidentiality of this information.</p>
+<p>If an individual is caught   violating this Non-Disclosure Agreement that all examinees must agree   to before beginning any Scrum exam, the candidate will be permanently   ineligible for any Scrum Alliance certification.</p>
+<p>By complying with and enforcing   this obligation, you help maintain the integrity of the Scrum program   and the value of your certification. Please do your part by discouraging   the sharing of exam questions and making others aware of this policy.   We appreciate your cooperation.</p>
+<p>This exam is Scrum Alliance   confidential and is protected by trade secret law. It is made available   to you, the examinee, solely for the purpose of becoming certified in   the technical area referenced in the title of this exam. You are expressly   prohibited from disclosing, publishing, reproducing, or transmitting   this exam, in whole or in part, in any form or by any means, verbal   or written, electronic or mechanical, for any purpose, without the prior   express written permission of Scrum Alliance.&nbsp;</p>
+<h4><strong>Use and Purpose of Collected   Personal Data</strong></h4>
+<p>In our Certification &amp;   Assessment Program we only store personal information relating to you   with your permission. You may choose to reveal information to us if,   for example, you register for a certification and or assessment account   or complete a survey. We use this information to maintain a personal   test account to manage your certification and assessment activities.   We may also use your information to determine the effectiveness of our   certification products and services.</p>
+<p>We would only share such information   with third parties outside the Scrum Alliance with your express permission   or as required by the applicable law. Information is used solely for   the purposes described below.</p>
+<h4><strong>Privacy across the Entire   Scrum Network</strong></h4>
+<p>As a global organization,   Scrum operates a number of websites around the world. Any information   that you submit to one of our websites in any one country may be sent   electronically to a server for one of these sites in another country.   We safeguard your privacy interests around the world by ensuring that   this Scrum site adheres to our international data-protection principles   described in this statement.</p>
+<p>We bind our employees to observe   your privacy and confidentiality rights.</p>
+<h4><strong>Details</strong></h4>
+<h4><strong>1. What Information Do   We Collect and Why?</strong></h4>
+<p><strong>Cookies</strong> &nbsp;<br> We may use cookies to deliver personalized content, to keep track of   your system settings, and to tailor our information offerings to you   and others who use the site.</p>
+<p><strong>User Registration</strong> &nbsp;<br> If you choose to register for a certification and or assessment account,   Scrum Alliance will have the ability to manage your certification and   assessment activities. To register, we require your name and a valid   email address. Optionally, you may provide us additional contact information.&nbsp;   We maintain a record of all user sessions and log on patterns to help   ensure a stable learning environment with superior performance.</p>
+<p><strong>E-mail Addresses&nbsp;<br> </strong>If you choose to give us your e-mail address, we will communicate   with you via e-mail. We do not share your e-mail address with others   outside the Scrum Alliance. You are free to opt-out of any service at   any time. We primarily use e-mail as a method of communicating system   status.</p>
+<p>Depending on how your e-mail   application is set up, information about you may be transmitted automatically   when you send e-mail to Scrum.</p>
+<p><strong>Enrollment and Transcripts</strong> &nbsp;<br> Your certification and or assessment account includes information to   help the Scrum Alliance to manage your certification and assessment   activities. Your account includes enrolment information such as certification,   assessments and tests in which you’ve enrolled, progress and completion   status, time spent, and scores. Your transcript includes a record of   courses you have completed and your results.</p>
+<p>Scrum Alliance may use your   transcript information to measure the effectiveness of our offerings   so that we may continuously improve our products and services.</p>
+<p><strong>Online Surveys</strong> &nbsp;<br> Our surveys may ask you for demographic information, such as postal   codes or your industry sector. If the online survey collects contact   data, we may use that data to send you further information only if we   specifically asked for your permission in the survey. You are free to   retract any permission you gave.</p>
+<p><strong>Duration of Data Storage</strong> &nbsp;<br> We will maintain certification accounts indefinitely and will store   your enrolment and transcript data accordingly. We may store your data   for up to two years after your account has been closed.</p>
+<h4><strong>2. Links to Other Sites</strong></h4>
+<p>This site may contain links   to other sites. Scrum is not responsible for the privacy practices or   the content of other websites.</p>
+<h4><strong>3. Choice/Opt-Out</strong></h4>
+<p>You can opt out of having   an active certification and or assessment account whenever you wish.   You only need to email us to have your name and details removed from   Scrum’s Global Certification Program database. To opt out or close   your account, email us at <a href="mailto:membership@scrumalliance.org" target="_blank">membership@scrumalliance.org</a>.</p>
+<h4><strong>4. Inquiries</strong></h4>
+<p>If you have any questions   about this privacy statement—if, for example, you wish to inspect   or update the information we hold about you—feel free to contact:</p>
+<p>Scrum Alliance, Inc.&nbsp;<br> PO Box 40097&nbsp;<br> Indianapolis, IN 46240-0097</p>
+<p><a href="http://www.scrumalliance.org" target="_blank">http://www.scrumalliance.org</a></p>    
+</div>
+            <p>&nbsp;</p>
+          </div>
+          <div class="recessed-advertisement announcement" style="background-image: none;display:none;"> </div>
+        </div>
+        
+        
+       
+ 
+ 
+        <table border="0" id="content_subtitle">
+                <tbody><tr><td id="content_subtitle_for_text">
+                
+                <div class="align_titles_pages">
+                Privacy Policy                </div>
+                
+                </td></tr>
+            </tbody></table>
+            <div id="content_subtitle_repeat">&nbsp;</div>
+        
 
-          <div class="box" style="text-align: center;padding-bottom:10px;">
-    <h3>Scrum Gathering</h3>
-    <p class="important-note links" style="margin-bottom:5px;">
-    <!-- %= link _to("Sponsorship Opportunities", "/view/sponsorship_opportunities") %-->
-    <!-- a href="https://app.e2ma.net/app/view:Join/signupId:28426" 
-    onClick="window.open('https://app.e2ma.net/app/view:Join/signupId:32654', 'signup', 'menubar=no, location=no, toolbar=no, scrollbars=yes, width=520, height=500'); return false;">Sign Up for Email Updates</a -->
-    <a href="https://www.regonline.com/checkin.asp?eventid=680388" class="register_now">Register Here</a>
-	<br>
-	<a href="http://www.scrumalliance.org/call_for_pres" style="line-height:28px;">Call for Presentations</a>    <!-- % = link_to_external('Register Now', "http://www.regonline.com/143466") -% -->
-    </p>
-    <div>  
-        <a href="/gathering"><img alt="Orlando Scrum Gathering" src="/ads/scrum-gathering-sidebar.jpg?1226877414"></a>
+        <!--<div id="content_subtitle_repeat">
+          <div id="content_subtitle"> Privacy Policy
+                     </div>
+        </div>-->
+
+      </div>
+   </div>
+   <div id="secondary">
+        <div id="new_sidebar">
+        	
+			<img src="/images/sidebar/banner.jpg" alt="Orlando Scrum Gathering" width="210" height="549" border="0" usemap="#Map">
+<map name="Map" id="Map">
+  <area shape="rect" coords="36,377,177,428" href="http://www.regonline.com/orlando_scrum_gathering_2010" target="_blank">
+  <area shape="rect" coords="32,458,178,510" href="/events/105-orlando-scrum-gathering">
+</map>
+		</div>
+		<div id="new_sidebar_bg"></div>
+      </div>
+
+
+
     </div>
-    <!-- <ul class="sponsored-by">
-        <li><span style="margin-bottom: 3px;display:block;">Gathering Sponsored by:</span>
-        <a href="http://www.hiq.se/default.aspx?id=111&setlanguage=EN" target="_blank"><img alt="sponsored-by" src="/ads/hiq_165x58.gif?1219742237" /></a>                    
-        </li>
-        <li><span style="margin-bottom: 3px;display:block;text-align:center;">and</span>
-        <a href="/gathering"><img alt="sponsored-by" src="/ads/sponsors.gif?1219742237" /></a>                    
-        </li>
-    </ul> -->
+    <!-- id="main" -->
+    <div id="hr_outer"> </div>
+    <!-- DIV hr_outer -->
+    <div id="hpfooter"> <!--ivie: hpfooter remplaced-->
+	<a href="/privacy_policy" class="footer_links">Privacy Policy</a> &nbsp;| &nbsp;
+	<a href="/legal" class="footer_links">Legal</a> &nbsp;| &nbsp;
+	<a href="/welcome_to_scrum_alliance" class="footer_links">About the Scrum Alliance</a> &nbsp;| &nbsp;
+	<a href="/contact" class="footer_links">Contact Us</a><br>
+    <span class="footer_text">
+		Please contact our <a href="mailto:webmaster@scrumalliance.org" class="footer_links">webmaster</a>  Copyright © 2009, Scrum Alliance, Inc. All Rights Reserved. 
+		<!--<a href="http://validator.w3.org/check?uri=referer" class="footer_links"><b>xhtml</b></a> | -->
+		<a href="feed://scrumalliance.org/rss" class="footer_links"><b>rss</b></a>
+	</span>
+</div><!-- id="hpfooter" -->
+
+    <!-- google-analytics script -->
+
+  <script type="text/javascript">
+  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+  </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+  <script type="text/javascript">
+  try {
+  var pageTracker = _gat._getTracker("UA-11470949-1");
+  pageTracker._trackPageview();
+  } catch(err) {}</script>
+
+
+  </div>
 </div>
+<!-- div general -->
 
-
-          <div class="navigation">
-            <h3 class="hidden">Navigation</h3>
-            <ul>
-              <li><a href="/articles">Recent Articles</a></li>
-              <li><a href="/articles/authors">Article Authors</a></li>
-            </ul>
-          </div>
-                    
-          <a href="/products/2"><img alt="Buy the Scrum Game!" src="/ads/scrumgame.gif?1220568615" style="margin-top: .6em;"></a>
-          
-
-        </div><!-- id="sidebar" -->
-      </div><!-- id="secondary" -->
-    </div><!-- id="main" -->
-<hr class="hidden">
-<div id="footer">
-  <div class="site-links">
-    <a href="/view/privacy_policy">Privacy Policy</a>
-    <span class="separator"> | </span>
-    <a href="/view/legal">Legal</a>
-    <span class="separator"> | </span>
-    <a href="/view/welcome_to_scrum_alliance">About the Scrum Alliance</a>
-    <span class="separator"> | </span>
-    <a href="/contact">Contact Us</a>
-  </div>  <p>Please contact our <a href="mailto:%77%65%62%6d%61%73%74%65%72@%73%63%72%75%6d%61%6c%6c%69%61%6e%63%65.%6f%72%67">webmaster</a> for questions or comments concerning this website (ver. 4140).
-  </p>
-  <p class="copyright">Copyright © 2003–2008, Scrum Alliance, Inc. All Rights Reserved.
-     <a href="http://validator.w3.org/check?uri=referer" onclick="window.open('http://validator.w3.org/check?uri=referer'); return false">xhtml</a> | 
-     
-     
-     <a href="http://feedvalidator.org/check.cgi?url=http%3A//www.scrumalliance.org/rss" onclick="window.open('http://feedvalidator.org/check.cgi?url=http%3A//www.scrumalliance.org/rss'); return false">rss</a>
-  </p>
-
-  <p><a href="http://railsstudio.com" onclick="window.open('http://railsstudio.com'); return false"><img alt="Boxcar" class="built-by" src="/images/boxcar.gif?1228857250" style="border:0;"></a>
-     <a href="feed://scrumalliance.org/rss"><img alt="Rss" src="/images/rss.gif?1228857250" style="border:0;"></a>
-  </p>
-                      
-</div><!-- id="footer" -->
-
-  <!-- START OF SDC Advanced Tracking Code -->
-<!-- Copyright (c) 1996-2005 WebTrends Inc.  All rights reserved. -->
-<!-- V8.0 -->
-<!-- $DateTime: 2007/03/05 12:36:25 $ -->
-<script type="text/javascript"><!--
-var gTimeZone = 0;
-// Code section for Enable First-Party Cookie Tracking
-function dcsGetCookie(name){
-	var cookies=document.cookie.split("; ");
-	var cmatch=[];
-	var idx=0;
-	var i=0;
-	var namelen=name.length;
-	var clen=cookies.length;
-	for (i=0;i<clen;i++){
-		var c=cookies[i];
-		if ((c.substring(0,namelen+1))==(name+"=")){
-			cmatch[idx++]=c;
-		}
-	}
-	var cmatchCount=cmatch.length;
-	if (cmatchCount>0){
-		idx=0;
-		if ((cmatchCount>1)&&(typeof(gFpc)!="undefined")&&(name==gFpc)){
-			var dLatest=new Date(0);
-			for (i=0;i<cmatchCount;i++){
-				var lv=parseInt(dcsGetCrumb(cmatch[i],"lv"));
-				var dLst=new Date(lv);
-				if (dLst>dLatest){
-					dLatest.setTime(dLst.getTime());
-					idx=i;
-				}
-			}
-		}
-		return unescape(cmatch[idx].substring(namelen+1));
-	}
-	else{
-		return null;
-	}
-}
-function dcsGetCrumb(cval,crumb){
-	var aCookie=cval.split(":");
-	for (var i=0;i<aCookie.length;i++){
-		var aCrumb=aCookie[i].split("=");
-		if (crumb==aCrumb[0]){
-			return aCrumb[1];
-		}
-	}
-	return null;
-}
-function dcsGetIdCrumb(cval,crumb){
-	var id=cval.substring(0,cval.indexOf(":lv="));
-	var aCrumb=id.split("=");
-	for (var i=0;i<aCrumb.length;i++){
-		if (crumb==aCrumb[0]){
-			return aCrumb[1];
-		}
-	}
-	return null;
-}
-function dcsIsFpcSet(name,id,lv,ss){
-	var c=dcsGetCookie(name);
-	if (c){
-		return ((id==dcsGetIdCrumb(c,"id"))&&(lv==dcsGetCrumb(c,"lv"))&&(ss=dcsGetCrumb(c,"ss")))?0:3;
-	}
-	return 2;
-}
-function dcsFPC(offset){
-	if (typeof(offset)=="undefined"){
-		return;
-	}
-	if (document.cookie.indexOf("WTLOPTOUT=")!=-1){
-		return;
-	}
-	var name=gFpc;
-	var dCur=new Date();
-	var adj=(dCur.getTimezoneOffset()*60000)+(offset*3600000);
-	dCur.setTime(dCur.getTime()+adj);
-	var dExp=new Date(dCur.getTime()+315360000000);
-	var dSes=new Date(dCur.getTime());
-	WT.co_f=WT.vt_sid=WT.vt_f=WT.vt_f_a=WT.vt_f_s=WT.vt_f_d=WT.vt_f_tlh=WT.vt_f_tlv="";
-	if (document.cookie.indexOf(name+"=")==-1){
-		if ((typeof(gWtId)!="undefined")&&(gWtId!="")){
-			WT.co_f=gWtId;
-		}
-		else if ((typeof(gTempWtId)!="undefined")&&(gTempWtId!="")){
-			WT.co_f=gTempWtId;
-			WT.vt_f="1";
-		}
-		else{
-			WT.co_f="2";
-			var cur=dCur.getTime().toString();
-			for (var i=2;i<=(32-cur.length);i++){
-				WT.co_f+=Math.floor(Math.random()*16.0).toString(16);
-			}
-			WT.co_f+=cur;
-			WT.vt_f="1";
-		}
-		if (typeof(gWtAccountRollup)=="undefined"){
-			WT.vt_f_a="1";
-		}
-		WT.vt_f_s=WT.vt_f_d="1";
-		WT.vt_f_tlh=WT.vt_f_tlv="0";
-	}
-	else{
-		var c=dcsGetCookie(name);
-		var id=dcsGetIdCrumb(c,"id");
-		var lv=parseInt(dcsGetCrumb(c,"lv"));
-		var ss=parseInt(dcsGetCrumb(c,"ss"));
-		if ((id==null)||(id=="null")||isNaN(lv)||isNaN(ss)){
-			return;
-		}
-		WT.co_f=id;
-		var dLst=new Date(lv);
-		WT.vt_f_tlh=Math.floor((dLst.getTime()-adj)/1000);
-		dSes.setTime(ss);
-		if ((dCur.getTime()>(dLst.getTime()+1800000))||(dCur.getTime()>(dSes.getTime()+28800000))){
-			WT.vt_f_tlv=Math.floor((dSes.getTime()-adj)/1000);
-			dSes.setTime(dCur.getTime());
-			WT.vt_f_s="1";
-		}
-		if ((dCur.getDay()!=dLst.getDay())||(dCur.getMonth()!=dLst.getMonth())||(dCur.getYear()!=dLst.getYear())){
-			WT.vt_f_d="1";
-		}
-	}
-	WT.co_f=escape(WT.co_f);
-	WT.vt_sid=WT.co_f+"."+(dSes.getTime()-adj);
-	var expiry="; expires="+dExp.toGMTString();
-	var cur=dCur.getTime().toString();
-	var ses=dSes.getTime().toString();
-	document.cookie=name+"="+"id="+WT.co_f+":lv="+cur+":ss="+ses+expiry+"; path=/"+(((typeof(gFpcDom)!="undefined")&&(gFpcDom!=""))?("; domain="+gFpcDom):(""));
-	var rc=dcsIsFpcSet(name,WT.co_f,cur,ses);
-	if (rc!=0){
-		WT.co_f=WT.vt_sid=WT.vt_f_s=WT.vt_f_d=WT.vt_f_tlh=WT.vt_f_tlv="";
-		WT.vt_f=WT.vt_f_a=rc;
-  }
-}
-
-// Code section for Use the new first-party cookie generated with this tag.
-var gFpc="WT_FPC";
-var gConvert=true;
-
-// Code section for Enable SmartView Transition Page tracking
-function dcsTP(){
-	if (document.cookie.indexOf("WTLOPTOUT=")!=-1){
-		return;
-	}
-	var name="WT_DC";
-	var expiry="; expires=Thu, 31-Dec-2020 08:00:00 GMT";
-	var path="; path=/";
-	var domain="";
-	if ((document.cookie.indexOf(name+"=")!=-1)&&(dcsGetCrumb(name,"tsp")=="1")){
-		WT.ttp="1";
-	}
-	if (dcsGetMeta("SmartView_Page")=="1"){
-		WT.tsp="1";
-		document.cookie=name+"=tsp=1"+expiry+path+domain;
-	}
-	else{
-		document.cookie=name+"=; expires=Sun, 1-Jan-1995 00:00:00 GMT;"+path+domain;
-	}
-}
-function dcsGetMeta(name){
-	var elems;
-	if (document.all){
-		elems=document.all.tags("meta");
-	}
-	else if (document.documentElement){
-		elems=document.getElementsByTagName("meta");
-	}
-	if (typeof(elems)!="undefined"){
-		for (var i=1;i<=elems.length;i++){
-			var meta=elems.item(i-1);
-			if (meta.name&&(meta.name.indexOf(name)==0)){
-				return meta.content;
-				break;
-			}
-		}
-	}
-	return null;
-}
-//-->
-</script>
-<!-- END OF SDC Advanced Tracking Code -->
-<!-- START OF SmartSource Data Collector TAG -->
-<!-- Copyright (c) 1996-2005 WebTrends Inc. All rights reserved. -->
-<!-- V8.0 -->
-<!-- $DateTime: 2007/03/05 12:36:25 $ -->
-<script type="text/javascript"><!--
-var gDomain="statse.webtrendslive.com";
-var gDcsId="dcsgwn91i000008iz1idn2wg9_2u6c";
-
-if ((typeof(gConvert)!="undefined")&&gConvert&&(document.cookie.indexOf(gFpc+"=")==-1)&&(document.cookie.indexOf("WTLOPTOUT=")==-1)){
-	document.write("<SCR"+"IPT TYPE='text/javascript' SRC='"+"http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+"/"+gDcsId+"/wtid.js"+"'><\/SCR"+"IPT>");
-}
-//-->
-</script>
-<script type="text/javascript"><!--
-var gImages=new Array;
-var gIndex=0;
-var DCS=new Object();
-var WT=new Object();
-var DCSext=new Object();
-var gI18n=false;
-if (window.RegExp){
-	var RE=gI18n?{"%25":/\%/g}:{"%09":/\t/g,"%20":/ /g,"%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g,"%22":/\"/g,"%7F":/\x7F/g,"%A0":/\xA0/g};
-	if (gI18n){
-		var EXRE=/dcs(uri)|(ref)|(aut)|(met)|(sta)|(sip)|(pro)|(byt)|(dat)|(p3p)|(cfg)|(redirect)|(cip)/i;
-	}
-}
-
-function dcsVar(){
-	var dCurrent=new Date();
-	WT.tz=dCurrent.getTimezoneOffset()/60*-1;
-	if (WT.tz==0){
-		WT.tz="0";
-	}
-	WT.bh=dCurrent.getHours();
-	WT.ul=navigator.appName=="Netscape"?navigator.language:navigator.userLanguage;
-	if (typeof(screen)=="object"){
-		WT.cd=navigator.appName=="Netscape"?screen.pixelDepth:screen.colorDepth;
-		WT.sr=screen.width+"x"+screen.height;
-	}
-	if (typeof(navigator.javaEnabled())=="boolean"){
-		WT.jo=navigator.javaEnabled()?"Yes":"No";
-	}
-	if (document.title){
-		if (window.RegExp){
-			var tire=new RegExp("^"+window.location.protocol+"//"+window.location.hostname+"\\s-\\s");
-			WT.ti=document.title.replace(tire,"");
-		}
-		else{
-			WT.ti=document.title;
-		}
-	}
-	WT.js="Yes";
-	WT.jv=dcsJV();
-	if (document.all){
-		WT.bs=document.body?document.body.offsetWidth+"x"+document.body.offsetHeight:"unknown";
-	}
-	else{
-		WT.bs=window.innerWidth+"x"+window.innerHeight;
-	}
-	if (gI18n){
-		if (typeof(document.defaultCharset)=="string"){
-			WT.le=document.defaultCharset;
-		} 
-		else if (typeof(document.characterSet)=="string"){
-			WT.le=document.characterSet;
-		}
-		else{
-			WT.le="unknown";
-		}
-	}
-	WT.tv="8.0.3";
-	WT.sp="73623";
-	DCS.dcsdat=dCurrent.getTime();
-	DCS.dcssip=window.location.hostname;
-	DCS.dcsuri=window.location.pathname;
-	if (window.location.search){
-		DCS.dcsqry=window.location.search;
-	}
-	if ((window.document.referrer!="")&&(window.document.referrer!="-")){
-		if (!(navigator.appName=="Microsoft Internet Explorer"&&parseInt(navigator.appVersion)<4)){
-			DCS.dcsref=window.document.referrer;
-		}
-	}
-}
-
-function A(N,V){
-	if (gI18n&&!EXRE.test(N)){
-		if (N=="dcsqry"){
-			var newV="";
-			var params=V.substring(1).split("&");
-			for (var i=0;i<params.length;i++){
-				var pair=params[i];
-				var pos=pair.indexOf("=");
-				if (pos!=-1){
-					var key=pair.substring(0,pos);
-					var val=pair.substring(pos+1);
-					if (i!=0){
-						newV+="&";
-					}
-					newV+=key+"="+dcsEncode(val);
-				}
-			}
-			V=V.substring(0,1)+newV;
-		}
-		else{
-			V=dcsEncode(V);
-		}
-	}
-	return "&"+N+"="+dcsEscape(V, RE);
-}
-
-function dcsEscape(S, REL){
-	if (typeof(REL)!="undefined"){
-		S=S.toString();
-		for (var R in REL){
-			S=S.replace(REL[R],R);
-		}
-		return S;
-	}
-	else{
-		return escape(S);
-	}
-}
-
-function dcsEncode(S){
-	return (typeof(encodeURIComponent)=="function")?encodeURIComponent(S):escape(S);
-}
-
-function dcsCreateImage(dcsSrc){
-	if (document.images){
-		gImages[gIndex]=new Image;
-		gImages[gIndex].src=dcsSrc;
-		gIndex++;
-	}
-	else{
-		document.write('<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="'+dcsSrc+'">');
-	}
-}
-
-function dcsMeta(){
-	var elems;
-	if (document.all){
-		elems=document.all.tags("meta");
-	}
-	else if (document.documentElement){
-		elems=document.getElementsByTagName("meta");
-	}
-	if (typeof(elems)!="undefined"){
-		var length=elems.length;
-		for (var i=0;i<length;i++){
-			var name=elems.item(i).name;
-			var content=elems.item(i).content;
-			var equiv=elems.item(i).httpEquiv;
-			if (name.length>0){
-				if (name.indexOf("WT.")==0){
-					WT[name.substring(3)]=content;
-				}
-				else if (name.indexOf("DCSext.")==0){
-					DCSext[name.substring(7)]=content;
-				}
-				else if (name.indexOf("DCS.")==0){
-					DCS[name.substring(4)]=content;
-				}
-			}
-		}
-	}
-}
-
-function dcsTag(){
-	if (document.cookie.indexOf("WTLOPTOUT=")!=-1){
-		return;
-	}
-	var P="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+(gDcsId==""?'':'/'+gDcsId)+"/dcs.gif?";
-	for (var N in DCS){
-		if (DCS[N]) {
-			P+=A(N,DCS[N]);
-		}
-	}
-	var keys=["co_f","vt_sid","vt_f_tlv"];
-	for (var i=0;i<keys.length;i++){
-		var key=keys[i];
-		if (WT[key]){
-			P+=A("WT."+key,WT[key]);
-			delete WT[key];
-		}
-	}
-	for (N in WT){
-		if (WT[N]) {
-			P+=A("WT."+N,WT[N]);
-		}
-	}
-	for (N in DCSext){
-		if (DCSext[N]) {
-			if (gI18n){
-				WT.dep=(typeof(WT.dep)=="undefined")?N:(WT.dep+";"+N);
-			}
-			P+=A(N,DCSext[N]);
-		}
-	}
-	if (gI18n&&(typeof(WT.dep)!="undefined")){
-		P+=A("WT.dep",WT.dep);
-	}
-	if (P.length>2048&&navigator.userAgent.indexOf('MSIE')>=0){
-		P=P.substring(0,2040)+"&WT.tu=1";
-	}
-	dcsCreateImage(P);
-}
-
-function dcsJV(){
-	var agt=navigator.userAgent.toLowerCase();
-	var major=parseInt(navigator.appVersion);
-	var mac=(agt.indexOf("mac")!=-1);
-	var ff=(agt.indexOf("firefox")!=-1);
-	var ff0=(agt.indexOf("firefox/0.")!=-1);
-	var ff10=(agt.indexOf("firefox/1.0")!=-1);
-	var ff15=(agt.indexOf("firefox/1.5")!=-1);
-	var ff2up=(ff&&!ff0&&!ff10&!ff15);
-	var nn=(!ff&&(agt.indexOf("mozilla")!=-1)&&(agt.indexOf("compatible")==-1));
-	var nn4=(nn&&(major==4));
-	var nn6up=(nn&&(major>=5));
-	var ie=((agt.indexOf("msie")!=-1)&&(agt.indexOf("opera")==-1));
-	var ie4=(ie&&(major==4)&&(agt.indexOf("msie 4")!=-1));
-	var ie5up=(ie&&!ie4);
-	var op=(agt.indexOf("opera")!=-1);
-	var op5=(agt.indexOf("opera 5")!=-1||agt.indexOf("opera/5")!=-1);
-	var op6=(agt.indexOf("opera 6")!=-1||agt.indexOf("opera/6")!=-1);
-	var op7up=(op&&!op5&&!op6);
-	var jv="1.1";
-	if (ff2up){
-		jv="1.7";
-	}
-	else if (ff15){
-		jv="1.6";
-	}
-	else if (ff0||ff10||nn6up||op7up){
-		jv="1.5";
-	}
-	else if ((mac&&ie5up)||op6){
-		jv="1.4";
-	}
-	else if (ie5up||nn4||op5){
-		jv="1.3";
-	}
-	else if (ie4){
-		jv="1.2";
-	}
-	return jv;
-}
-
-dcsVar();
-dcsMeta();
-dcsFPC(gTimeZone);
-dcsTP();
-dcsTag();
-//-->
-</script>
-
-<noscript>
-<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/dcsgwn91i000008iz1idn2wg9_2u6c/njs.gif?dcsuri=/nojavascript&WT.js=No&WT.tv=8.0.2">
-</noscript>
-<!-- END OF SmartSource Data Collector  TAG -->	
-
-
-
-
-
-  
 
 </body></html>
