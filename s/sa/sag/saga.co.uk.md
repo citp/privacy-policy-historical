@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saga.co.uk privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605100139id_/http%3A//www.saga.co.uk/general/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saga.co.uk privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207135633id_/http%3A//www.saga.co.uk/general/privacy-policy.asp) for the most accurate reproduction.*
 
 # Saga Group Data Protection Privacy Policy - Saga
 
@@ -34,7 +34,7 @@ Occasionally, we may also use the information we collect to notify you by post, 
 
 Generally, by providing the requested data you consent to Saga and AA using that data for administrative purposes and for informing you of other products and services by letter, SMS, telephone and/or e-mail. We may also use the information we collect to occasionally notify you about important functionality changes to the website.
 
-Each time you receive marketing information or a message, you have the option to decline to receive further marketing information from us. This is known as an 'opt-out'. If you wish to exercise the opt-out, for Saga products please write to the Group Data Protection Officer at Enbrook Park, Folkestone, Kent, CT20 3SE or for AA products to AA Data Protection Compliance Manager, Fanum House, Basing View, Basingstoke, Hampshire, RG21 4EA. If you have more than one address or e-mail address please make sure to notify any changes to your preferences for each address or e-mail address you have registered with us.
+Each time you receive marketing information or a message, you have the option to decline to receive further marketing information from us. This is known as an 'opt-out'. If you wish to exercise the opt-out, for Saga products please write to the Group Data Protection Officer at Enbrook Park, Sandgate, Folkestone, Kent, CT20 3SE or for AA products to AA Data Protection Compliance Manager, Fanum House, Basing View, Basingstoke, Hampshire, RG21 4EA. If you have more than one address or e-mail address please make sure to notify any changes to your preferences for each address or e-mail address you have registered with us.
 
 ##### How we protect customer information
 
@@ -207,11 +207,11 @@ Please advise us in writing as to any changes in your circumstances. Obviously i
 
 ##### Subject Access Requests
 
-You have a statutory right of access to accessible personal and/or sensitive personal data that we hold about you. In order to exercise this right, your application must be in writing for security reasons. Please write to the Data Protection Officer at Enbrook Park, Folkestone, Kent, CT20 3SE for requests relating to information held by Saga Group companies or to the AA Data Protection Compliance Manager, Fanum House, Basing View, Basingstoke, Hampshire, RG21 4EA for requests relating to information held by AA Group companies. Please refer to the information you wish to see giving dates if possible, and enclose your cheque for £10 payable to Acromas Group Ltd or AA Ltd. We will not administer Subject Access Requests by a third party unless accompanied by a written authority of the individual who is the subject of the request.
+You have a statutory right of access to accessible personal and/or sensitive personal data that we hold about you. In order to exercise this right, your application must be in writing for security reasons. Please write to the Data Protection Officer at Enbrook Park, Sandgate, Folkestone, Kent, CT20 3SE for requests relating to information held by Saga Group companies or to the AA Data Protection Compliance Manager, Fanum House, Basing View, Basingstoke, Hampshire, RG21 4EA for requests relating to information held by AA Group companies. Please refer to the information you wish to see giving dates if possible, and enclose your cheque for £10 payable to Acromas Group Ltd or AA Ltd. We will not administer Subject Access Requests by a third party unless accompanied by a written authority of the individual who is the subject of the request.
 
 ##### Your choice of information
 
-You may change the type of material sent to you at any time. We allow you to select which products you wish to receive information about, and to cancel any previous expressions of interest in particular areas. If you wish to take advantage of this please write to Information Processing at Enbrook Park, Folkestone, Kent, CT20 3SE.
+You may change the type of material sent to you at any time. We allow you to select which products you wish to receive information about, and to cancel any previous expressions of interest in particular areas. If you wish to take advantage of this please write to Information Processing at Enbrook Park, Sandgate, Folkestone, Kent, CT20 3SE.
 
 ##### Changes to our Privacy Policy
 
@@ -219,4 +219,4 @@ If we decide to change our Privacy Policy, we will update all relevant documenta
 
 ##### Tell us what you think
 
-Saga and AA welcome your questions and comments about privacy. Please write to the Group Data Protection Officer, Enbrook Park, Folkestone, Kent, CT20 3SE or The AA Data Protection Compliance Manager, Fanum House, Basing View, Basingstoke, Hampshire, RG21 4EA.
+Saga and AA welcome your questions and comments about privacy. Please write to the Group Data Protection Officer, Enbrook Park, Sandgate, Folkestone, Kent, CT20 3SE or The AA Data Protection Compliance Manager, Fanum House, Basing View, Basingstoke, Hampshire, RG21 4EA.
