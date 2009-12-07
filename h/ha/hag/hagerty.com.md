@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hagerty.com privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614130322id_/http%3A//www.hagerty.com/about/about_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hagerty.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207204051id_/http%3A//www.hagerty.com/about/about_privacy.aspx) for the most accurate reproduction.*
 
 # HAGERTY - Facts
 
