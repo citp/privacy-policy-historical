@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the books-by-isbn.com privacy policy that was archived on 2008-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080928091342id_/http%3A//www.books-by-isbn.com/imprint-FAQ.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the books-by-isbn.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207154332id_/http%3A//www.books-by-isbn.com/imprint-FAQ.html) for the most accurate reproduction.*
 
 # Books by ISBN - Imprint and FAQ
 
-**[Books by ISBN](https://web.archive.org/)**
-
-imprint \- FAQ \- Privacy Policy/statement
+**imprint \- FAQ \- Privacy Policy/statement \- other notices**
 
 Responsible for this site: Tomas Schild, Lange Furche 31, 72072 Tübingen, Germany, <tomas@schild.net>, phone +49 (0) 7071 74293.
 
@@ -50,4 +48,7 @@ Accesses to files on this web site are logged by the Apache web server (as is ro
 
 I do not forward these server log data to any third party.
 
-A small part of this site's pages carry ads by Google Adsense, for which [Google's privacy policy](http://www.google.com/privacypolicy.html) applies.
+A small part of this site's pages carry ads by Google Adsense, for which [Google's privacy policy](http://www.google.com/privacypolicy.html) applies.  
+**Google say that beginning some time in 2009 they will introduce advertising based on other sites a visitor has visited previously, based on cookies.[This page](http://www.google.com/privacy_ads.html) has more information on Google's privacy practices, including a button to opt out of the DoubleClick cookie used for tracking, which you may well consider doing.**
+
+In association with Amazon · In association with Amazon.ca · In association with Amazon.co.uk · Partner von Amazon.de · En association avec amazon.fr · Amazon.co.jpアソシエイト 
