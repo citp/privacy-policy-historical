@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the therandomforest.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620025410id_/http%3A//therandomforest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therandomforest.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207030320id_/http%3A//therandomforest.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Browse: [Home](http://therandomforest.com/ "TheRandomForest.com") / Privacy Policy 
-
-##  [Privacy Policy](http://therandomforest.com/privacy-policy/ "Privacy Policy")
 
 As a fellow Internet user myself, I totally respect your online privacy. So it goes without saying that I’m fully committed to safeguarding your online privacy while you’re here at www.therandomforest.com website.
 
@@ -36,5 +32,3 @@ Companies like Google develop interest categories by recognizing the types of we
 
 **What You Can Do**  
 If all of this bothers you, don’t worry. You can easily chose to disable or selectively turn off our cookies or third-party cookies in your browser settings. Or, you can use the preferences in programs such as Norton Internet Security. However, you need to understand that this can affect how you are able to interact with our site (as well as other websites.) This could include the inability to login to services or programs, such as logging into forums or accounts.
-
-[Comments protected by Lucia's Linky Love.](http://money.bigbucksblogger.com/category/my-plugins/luciaslinkylove/)
