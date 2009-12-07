@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the udayton.edu privacy policy that was archived on 2009-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090511014304id_/http%3A//www.udayton.edu/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the udayton.edu privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207200842id_/http%3A//www.udayton.edu/privacy_policy.php) for the most accurate reproduction.*
 
 # University of Dayton - (Privacy Policy)
 
@@ -15,11 +15,13 @@ This policy was created in order to demonstrate the University of Dayton's commi
   * calendar.udayton.edu
   * campusreport.udayton.edu
   * careers.udayton.edu
+  * community.udayton.edu
   * education.udayton.edu
   * emergency.udayton.edu
   * engineering.udayton.edu
   * events.udayton.edu
   * gened.udayton.edu
+  * isidore.udayton.edu
   * llc.udayton.edu
   * lud.udayton.edu
   * lvillage.udayton.edu
