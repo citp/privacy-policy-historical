@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mia.org.au privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603060832id_/http%3A//mia.org.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mia.org.au privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208112642id_/http%3A//mia.org.au/privacy) for the most accurate reproduction.*
 
 # MIA privacy and data security policies
 
