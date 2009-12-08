@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megaleecher.net privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429110609id_/http%3A//www.megaleecher.net/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megaleecher.net privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208052641id_/http%3A//www.megaleecher.net/Privacy_Policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Megaleecher.Net
 
@@ -26,6 +26,8 @@ For any questions or concern regarding privacy and data usage policy of this web
 
   
 
+
+## Similar Stories You Might Be Interested In :
 
 **This is just one of the many helpful tips we have posted, You can find more stories[here](http://www.megaleecher.net/tracker),   
 Do subscribe to updates using your favorite [RSS feed](http://feeds.feedburner.com/TheBestInternetNews) reader or using the secure FeedBurner email update form on top of this post.**
