@@ -1,30 +1,114 @@
-> *The following text is extracted and transformed from the jrox.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217032802id_/http%3A//www.jrox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jrox.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208225112id_/http%3A//www.jrox.com/content/article/10/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# JROX.COM - eCommerce Innovations - Privacy Policy
 
-JROX Technologies, Inc. demonstrates its commitment to our customers' privacy by providing this statement. We will do everything in our power to ensure your right to privacy. We are committed to developing long lasting relationships that are built on trust. JROX Technologies, Inc. will never violate that trust. 
+What information do we collect?
 
-We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click here. 
+We collect information from you when you register on our site, place an order, subscribe to our newsletter or fill out a form. 
 
-Personal Data Transmissions Are Encrypted  
-When you order from JROX Technologies, Inc., all your personal information is protected. We use Secure Sockets Layer (SSL), the industry standard, for encrypting all personal information, including name, address and credit card numbers.
+Any data we request that is not required will be specified as voluntary or optional. 
 
-JROX Technologies, Inc. Will Not Sell Your Personal Information  
-JROX Technologies, Inc. keeps all your information confidential.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
-Policy Changes  
-JROX Technologies, Inc. is dedicated to providing the best web hosting service possible to every one of our clients. We are also dedicated to staying on top of available technology.
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
 
-While JROX Technologies, Inc. will provide our clients with reasonable notification, JROX Technologies, Inc. reserves the right to change its policy at any time to meet the needs of our customers, changing laws and new technology.
+What do we use your information for?
 
-Cookie Policy Statement  
-JROX Technologies, Inc. understands that many of you are concerned about cookies. We provide this Cookie Policy Statement to let you know how we use this technology. JROX Technologies, Inc. uses cookies to help us improve our website and web hosting services, and, most importantly, provide our existing customers with the opportunity for continued savings and increased convenience.
+Any of the information we collect from you may be used in one of the following ways: 
 
-Cookies For Improving Our Web Site  
-JROX Technologies, Inc. uses cookies to inform us of a repeat visit. The cookie does not tell us who you are, your name, email address, or Passwords.
+\- To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-Cookies For Banner Rewards Program  
-To offer our customers continued savings, JROX Technologies, Inc. uses cookies to help monitor the traffic generated from JROX Technologies, Inc. banners and logo buttons displayed on our customers' websites. For every new JROX Technologies, Inc. customer that was introduced to JROX Technologies, Inc. through a customer's website, our client receives a credited discount!
+\- To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-Cookies For Customer Account Management  
-For our customers, JROX Technologies, Inc. uses cookies to store user names for added convenience to the Webmaster. As part of our web hosting package, JROX Technologies, Inc. offers password-protected web-based management tools. By storing the customers' Usernames in a cookie, the Webmaster will not have to keep filling out form fields when they desire to manage their account. (The cookie does not store Passwords.) JROX Technologies, Inc. is dedicated to using the newest technologies in order to simplify our customers' lives.
+\- To process transactions  
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer. 
+
+\- To send periodic emails
+
+The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc.
+
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+
+\- To administer a contest, promotion, survey or other site feature
+
+How do we protect your information?
+
+We implement a variety of security measures to maintain the safety of your personal information when you submit a request, place an order or access your personal information. 
+
+These security measures include: password protected directories and databases to safeguard your information, SSL (Secure Sockets Layered) technology to ensure that your information is fully encrypted and sent across the Internet securely or PCI Scanning to actively protect our servers from hackers and other vulnerabilities. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will .
+
+Do we use cookies?
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+
+Do we disclose any information to outside parties?
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+Third party links
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+California Online Privacy Protection Act Compliance
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+All users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
+
+Childrens Online Privacy Protection Act Compliance
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+CAN-SPAM Compliance
+
+We have taken the necessary steps to ensure that we are compliant with the CAN-SPAM Act of 2003 by never sending out misleading information.
+
+Online Privacy Policy Only
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+Terms and Conditions
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.jrox.com/content/article/13/terms-of-service>.
+
+Your Consent
+
+By using our site, you consent to our privacy policy.
+
+Changes to our Privacy Policy
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change. 
+
+This policy was last modified on 08/01/2009
+
+Contacting Us
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+www.jrox.com  
+7835 S. Rainbow Blvd. Ste. 142  
+Las Vegase, NV 89139  
+United States  
+[info@jrox.com](mailto:info@jrox.com)
+
+Privacy Policy Customer Pledge
+
+We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:  
+Federal Trade Commision Fair  
+California Online Privacy Protection Act  
+Childrens Online Privacy Protection Act  
+Privacy Alliance  
+Controlling the Assault of Non-Solicited Pornography and Marketing Act
+
+If at anytime you have a cause that needs to be disputed please fill out the [Trust Guard Dispute Resolution form](http://secure.trust-guard.com/DisputeResolution/). 
+
+Respectfully, 
+
+Ryan Roxas CEO  
+www.jrox.com 
