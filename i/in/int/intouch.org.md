@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intouch.org privacy policy that was archived on 2009-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090607194858id_/http%3A//www.intouch.org/site/lookup.asp%3Fc%3DcnKBIPNuEoG%26b%3D4943723) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intouch.org privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208231051id_/http%3A//www.intouch.org/site/lookup.asp%3Fc%3DcnKBIPNuEoG%26b%3D4943723) for the most accurate reproduction.*
 
 # Privacy Policy - In Touch Ministries - Dr. Charles Stanley 2009
 
