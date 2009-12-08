@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the findtherightschool.com privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612122404id_/http%3A//info.findtherightschool.com/pt2/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findtherightschool.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208051534id_/http%3A//info.findtherightschool.com/pt2/privacypolicy.jsp) for the most accurate reproduction.*
 
 # Find the Right School - Earn a Highly Respected Degree From Premier Schools
 
 We at QuinStreet and our affiliated companies worldwide are committed to respecting your online privacy and recognize your need for appropriate protection and management of any information you share with us by using our web sites.
 
-QuinStreet has established the following Online Privacy Policy so that you can understand the care with which we intend to treat your information. This policy describes the overall privacy practices of QuinStreet regarding information we collect on our network of web sites and through our other Internet advertising mediums, including but not limited to email, newsletters, and leave-behinds. This policy does not apply to the practices of companies that QuinStreet does not own or control, or to people that QuinStreet does not employ. 
+QuinStreet has established the following Online Privacy Policy so that you can understand the care with which we intend to treat your information. This policy describes the overall privacy practices of QuinStreet regarding information we collect on our network of web sites and through our other Internet advertising mediums, including but not limited to email, newsletters, and leave-behinds. This policy does not apply to the practices of companies that QuinStreet does not own or control, or to people that QuinStreet does not employ.
 
 ### Information Collected by QuinStreet
 
@@ -83,11 +83,10 @@ By using this web site, you consent to the terms of our Online Privacy Policy an
 For more information, or if you have questions or concerns regarding QuinStreet's Privacy Policy, you may email us at [privacy@QuinStreet.com](mailto:privacy@QuinStreet.com) or you can send correspondence to the following address:
     
     
-    	Privacy 
-    	QuinStreet, Inc. 
-    	1051 E. Hillsdale Blvd 
-    	Foster City, CA 94404 
+    Privacy   
+    	QuinStreet, Inc.   
+    	1051 E. Hillsdale Blvd   
+    	Foster City, CA 94404   
     	(650) 578-7700
-    
 
 Thank you for visiting our web site. We hope you have a pleasant experience while you are here.
