@@ -1,132 +1,98 @@
-> *The following text is extracted and transformed from the worldwidelearn.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422085846id_/http%3A//www.worldwidelearn.com/about-worldwidelearn/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwidelearn.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208042137id_/http%3A//www.worldwidelearn.com/about-worldwidelearn/privacy-policy.htm) for the most accurate reproduction.*
 
-# World Wide Learn | Privacy Policy
+# Privacy Policy | About WorldWideLearn.com
 
-|   
-  
-**About WorldWideLearn**  
+[Home](http://www.worldwidelearn.com/) | [About WorldWideLearn](http://www.worldwidelearn.com/about-worldwidelearn/index.html) | Privacy Policy 
 
+We at WorldWideLearn and our affiliated companies worldwide are committed to respecting your online privacy and recognize your need for appropriate protection and management of any information you share with us by using our web sites.
 
-\- [The Power of E-Learning](http://www.worldwidelearn.com/about-worldwidelearn/index.html)  
-\- [WorldWideLearn Advantage](http://www.worldwidelearn.com/about-worldwidelearn/our-advantage.htm)  
-\- [E-Learning Student Profiles](http://www.worldwidelearn.com/about-worldwidelearn/elearning-students.htm)  
-\- [E-Learning Partner Profiles](http://www.worldwidelearn.com/about-worldwidelearn/elearning-partners.htm)  
-\- [Who We Are](http://www.worldwidelearn.com/about-worldwidelearn/our-company.htm)  
-\- [WWL Quality Assurance](http://www.worldwidelearn.com/about-worldwidelearn/quality-assurance.htm)
+WorldWideLearn has established the following Online Privacy Policy so that you can understand the care with which we intend to treat your information. This policy describes the overall privacy practices of WorldWideLearn regarding information we collect on our network of web sites and through our other Internet advertising mediums, including but not limited to email, newsletters, and leave-behinds. This policy does not apply to the practices of companies that WorldWideLearn does not own or control, or to people that WorldWideLearn does not employ.
 
-\- [Our University Partners](http://www.worldwidelearn.com/online-degrees/university-partners.htm)  
-\- [Our Training Partners](http://www.worldwidelearn.com/online-education/training-partners.htm)  
-\- [Partner Program](http://www.worldwidelearn.com/about-worldwidelearn/partner-program.htm)
+### Information Collected by WorldWideLearn
 
-\- [Company Overview](http://www.worldwidelearn.com/about-worldwidelearn/press/index.html)  
-\- [Media Coverage](http://www.worldwidelearn.com/about-worldwidelearn/press/media-coverage.htm)  
-\- [Media Contact](http://www.worldwidelearn.com/about-worldwidelearn/press/media-contact.htm)  
-\- [Press Releases](http://www.worldwidelearn.com/about-worldwidelearn/press/press-releases.htm)
+### Non-Personally Identifiable Consumer Information
 
-\- [Site Map](http://www.worldwidelearn.com/about-worldwidelearn/site-map.html)  
-\- [Site Help](http://www.worldwidelearn.com/about-worldwidelearn/site-help.htm)  
-\- [Site Submissions](http://www.worldwidelearn.com/about-worldwidelearn/submit-site.htm)  
-\- [Feedback](http://www.worldwidelearn.com/about-worldwidelearn/feedback.htm)  
-\- [Site Awards](http://www.worldwidelearn.com/about-worldwidelearn/awards.htm)
+WorldWideLearn collects various types of information from you to better meet your needs and to provide you with a more relevant user experience. Some of this information is collected automatically through cookies (a small text file placed on your computer) or other Internet tracking technologies. The type of information your browser or Internet session may automatically provide us with can include the browser you are using, your Internet domain, the operating system on your computer, your IP address and the URL you saw just before coming to the WorldWideLearn site, the pages of the site you visited and the URL of the page you visited upon leaving the site.
 
-\- [Privacy Policy](http://www.worldwidelearn.com/about-worldwidelearn/privacy-policy.htm)  
-\- [Terms & Conditions](http://www.worldwidelearn.com/about-worldwidelearn/terms-conditions.htm)
+WorldWideLearn may also contract with reputable third-party advertising companies to serve ads on our behalf. These companies may also use cookies or other measures to collect your non-personally identifiable information.
 
-\- [Contact Us](http://www.worldwidelearn.com/about-worldwidelearn/contact.htm)
+### Personally Identifiable Consumer Information
 
-  
-|  |  | 
+In addition, at some of the WorldWideLearn web sites, we collect information that you may choose to provide to us when requesting additional information from us or from one or more of our clients. Examples of personally identifiable data that you may provide to us include name, address, and email address. If you provide personally identifiable data to us, you may later elect to have your information deleted from our files, or kept from being used for purposes other than for the service requested, by following the opt-out procedures set forth below.
 
-[Home](http://www.worldwidelearn.com/) | [Education Resources](http://www.worldwidelearn.com/education-resources/index.html) | [About WorldWideLearn](http://www.worldwidelearn.com/about-worldwidelearn/index.html) | Privacy Policy
+### How Collected Information is Used
 
-  
+The non-personally identifiable information that WorldWideLearn collects is used for marketing and sales efforts to better target advertisements and other content in an effort to create a more personally relevant experience. The information is also used to predict responses to advertisements, and to help determine which ads perform best and which content is most appropriate for different individuals.
 
+If you elect to provide WorldWideLearn with personally identifiable information, we may utilize such information for marketing purposes, and this use may result in follow-up communications from WorldWideLearn and from our clients. In addition, that information may be combined with information collected from other sources to assist with targeting ads to your preferences and behaviors, and for other WorldWideLearn sales and marketing efforts.
 
-World Wide Learn has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for our web sites at: 
+### Sharing Information with Third Parties
 
-  * www.worldwidelearn.com
-  * www.career-planning-education.com
-  * www.onlineeducationnewsletter.com
+All personally identifiable information you provide is maintained in confidence by WorldWideLearn. There are instances, however, in which your personally identifiable and non-personally identifiable information is shared with third parties, as described below.
 
+Your non-personally identifiable data may be shared with third-party partners of WorldWideLearn on an anonymous basis.
 
+When you request information from WorldWideLearn or one or more of our clients, we may transfer that information within WorldWideLearn or route your information to our client(s), across borders and from your country or jurisdiction to other countries or jurisdictions around the world, so that they may provide the information on their product or service that you requested.
 
-World Wide Learn does not collect information on our web site visitors such as names, addresses, telephone numbers or e-mail addresses, unless you specifically give World Wide Learn that information.
+We may also disclose information to a third party who provides substantially similar services as the original service about which you requested more information. In such situations, we will provide you with an opportunity to opt-out of such sharing. Please be aware that WorldWideLearn is very careful in selecting companies with whom it does business.
 
-#### Links
+In addition to the above situations where your information may be shared with others, there is also the possibility that WorldWideLearn, or part(s) of the company, may one day be purchased by, or merged with, another company. In the event of such transaction, the acquiring (or merging) company will have access to all collected personally identifiable information.
 
-This web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+Finally, WorldWideLearn may share your information as necessary to comply with a court order or to cooperate with government and law enforcement officials.
 
-#### Cookies
+### Security
 
-This site uses no cookies of any type.
+Wherever your personally identifiable information may be held within WorldWideLearn or on its behalf, we intend to take reasonable and appropriate steps to protect the information you shared with us from unauthorized access or disclosure. Please note that while WorldWideLearn will make every reasonable effort to protect your information, no transmission of data over the Internet is 100% secure.
 
-Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.
+### Choice
 
-#### Log Files
+### Non-Personally Identifiable Consumer Information - Use of Cookies & Opting-Out
 
-World Wide Learn uses IndexTools.com to analyze traffic to this web site. IndexTools.com does not create individual profiles for visitors. Unlike some tracking services, IndexTools.com does not have a database of individual profiles for each visitor. IndexTools.com only collects aggregate data. For more information about IndexTools.com's privacy policy, please [click here](http://www.indextools.com/privacy.html). 
+Some of our web sites utilize cookies to collect information about your website activities and to recall the personal information you previously shared with us. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them.
 
-#### Registration
+You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser. Blocking cookies may result in a lower quality experience for you while you are visiting WorldWideLearn web sites.
 
-In some areas of this site, you will be asked to provide information that will enable a newsletter subscription and/or request for more information. Your participation is completely optional. 
+### Personally Identifiable Consumer Information - Opting-Out
 
-This information is requested only when you:  
+You may choose whether or not to provide personally identifiable information to WorldWideLearn. If you choose to provide such information to WorldWideLearn, you have the right to tell us not to make some of the uses of such information described herein or may have such information deleted in its entirety. If you no longer wish to receive our newsletters, surveys or promotional communications via email, you may opt-out by [clicking here](http://www.emchoice.com/unsubscribe/index.jsp?MERID=3589) and following the instructions to unsubscribe. To have your personal information completely removed from our databases, simply contact us at [privacy@worldwidelearn.com](mailto:privacy@worldwidelearn.com) and provide the name of the service for which information was provided, your full name, mailing address, phone number and email address so that we may identify you in the opt-out process. Once we receive your instruction, we will promptly take corrective action.
 
+### Access/Accuracy
 
-  * Request more information from a university or college
-  * Subscribe to the World Wide Learn newsletter
-  * Complete the online feedback survey
+To the extent that you do provide us with personally identifiable information, WorldWideLearn wishes to maintain the accuracy of this information. Where we collect personally identifiable information from you on the Web, our goal is to provide a means of contacting WorldWideLearn should you need to update or correct that information. If for any reason those means are unavailable or inaccessible, you may send updates and corrections about your personally identifiable information to [privacy@worldwidelearn.com](mailto:privacy@worldwidelearn.com) and we will make reasonable efforts to incorporate the changes in the information that we hold as soon as practicable.
 
+### Children's Privacy
 
+In compliance with the Children's Online Privacy Protection Act (COPPA), WorldWideLearn.com is not structured to attract children. Accordingly, we do not intend to collect personally identifiable information from anyone we know to be under 13 years of age.
 
-You will be asked for your name, e-mail address and other appropriate personal information that would be needed to facilitate the information request or register for the newsletter.
+### Refer a Friend
 
-When requesting information from universities and colleges, World Wide Learn does not rent, sell or otherwise make available your email address or personal information to anyone other than the intended university or college institution.
+Some of WorldWideLearn's web sites offer you the opportunity to easily notify a friend of the offer or information promoted on the site. If you choose to use our referral service to tell a friend about a WorldWideLearn site, we will ask you for your friend's personally identifiable information, including name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. WorldWideLearn stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
 
-When registering for the World Wide Learn newsletter, World Wide Learn does not rent, sell or otherwise make available your email address or personal information to anyone else.
+Your friend may contact us at [privacy@worldwidelearn.com](mailto:privacy@worldwidelearn.com) to request that we remove this information from our database. Our one-time email to your friend will inform him or her of this fact.
 
-#### Opt-Out
+### Commitment
 
-Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. 
+Protecting your privacy online is an evolving area, and WorldWideLearn's web sites are constantly changing to meet these demands.
 
-To opt out of the World Wide Learn newsletter, you can send an e-mail to **[unsubscribe@worldwidelearn.com](mailto:unsubscribe@worldwidelearn.com)**. Please send your request from the email account you wish to have unsubscribed.
+If you have any comments or questions regarding our Online Privacy Policy, please contact us at [privacy@worldwidelearn.com](mailto:privacy@worldwidelearn.com). While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as practicable after you bring it to our attention.
 
-#### Contacting the Web Site
+### Your Consent
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact: 
+By using this web site, you consent to the terms of our Online Privacy Policy and to WorldWideLearn's processing of personally identifiable information for the purposes given above. Should the Online Privacy Policy change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time and by amending this privacy policy.
 
-World Wide Learn Partnership  
+### Contacting Us
+
+For more information, or if you have questions or concerns regarding WorldWideLearn's Privacy Policy, you may email us at [privacy@worldwidelearn.com](mailto:privacy@worldwidelearn.com) or you can send correspondence to either of the following addresses:
+
+WorldWideLearn  
+ATTN: Privacy   
+1051 E. Hillsdale Blvd   
+Foster City, CA 94404 
+
+WorldWideLearn  
+ATTN: Privacy  
 700, 550 - 11 Avenue SW  
-Calgary, Alberta, Canada T2R 1M7  
+Calgary, Alberta, Canada T2R 1M7
+
 Phone: 800-538-9402  
-Email: **[privacy@worldwidelearn.com](mailto:privacy@worldwidelearn.com)**
-
-  
-|  |  |  |    
-
-
-**Discover Online Education!**  
-Explore these links for online & distance learning resources:
-
-\- [Online Degree Programs](http://www.worldwidelearn.com/online-degrees/index.html)  
-\- [Online Courses & Training](http://www.worldwidelearn.com/online-education/index.html)  
-\- [Career Training Programs](http://www.worldwidelearn.com/career-training/index.html)
-
-\- [Get Started in E-Learning](http://www.worldwidelearn.com/education-articles/index.html)  
-\- [Tips for Learning Success](http://www.worldwidelearn.com/education-articles/distance-learning-success.htm)  
-\- [Learning Styles](http://www.worldwidelearn.com/elearning-essentials/learning-styles.htm)
-
-\- [Importance of Accreditation](http://www.worldwidelearn.com/accreditation/index.html)  
-\- [US Accreditation](http://www.worldwidelearn.com/accreditation/accreditation-associations.htm)  
-\- [WWL Quality Assurance](http://www.worldwidelearn.com/about-worldwidelearn/quality-assurance.htm)
-
-**Need More Help?**  
-Explore the links below for more information:
-
-\- [Learning Library](http://www.worldwidelearn.com/learning-library/index.html)  
-\- [Career Pathways](http://www.worldwidelearn.com/career-pathways/index.html)  
-\- [Education Resources](http://www.worldwidelearn.com/education-resources/index.html)  
-\- [Site Help](http://www.worldwidelearn.com/about-worldwidelearn/site-help.htm)  
-\- [Site Map](http://www.worldwidelearn.com/about-worldwidelearn/site-map.html)
-
-| 
+Email:[ **privacy@worldwidelearn.com**](mailto:privacy@worldwidelearn.com)
