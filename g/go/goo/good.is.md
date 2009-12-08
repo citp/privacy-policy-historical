@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the good.is privacy policy that was archived on 2009-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090607203603id_/http%3A//www.good.is/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the good.is privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208084349id_/http%3A//www.good.is/privacy) for the most accurate reproduction.*
 
-# GOOD Privacy
+# GOOD Privacy Policy - GOOD
 
 ### GOOD.is Privacy Policy
 
-Last Updated: August 21, 2008
+_Last Updated: August 21, 2008_
 
 SUMMARY
 
@@ -28,7 +28,7 @@ Information Submitted During A Transaction. During a payment transaction (for ex
 
 2\. Information We Do Not Collect.
 
-Children. As explained further in our Terms of Service, currently available at [good.is/terms](http://good.is/terms), you must be 18 years of age or older to use our website. Therefore, we do not knowingly collect personally identifiable information about children. If you believe that we have information from or about anyone under 13 years of age, please notify us by email at info [at] goodinc.com or write to our Web Director at the address noted above.
+Children. As explained further in our Terms of Service, currently available at [good.is/terms](https://web.archive.org/pages/termsOfService), you must be 18 years of age or older to use our website. Therefore, we do not knowingly collect personally identifiable information about children. If you believe that we have information from or about anyone under 13 years of age, please notify us by email at info [at] goodinc.com or write to our Web Director at the address noted above.
 
 Social Security Number. We do not ask for or require your social security number to use any of our services or to access any part of our site.
 
@@ -110,4 +110,4 @@ GOOD's website is intended for and directed to users in the United States. If yo
 
 UPDATES TO OUR PRIVACY POLICY
 
-Our service is evolving and developing. From time to time, we will review and make changes to our privacy policy. When we do so, we will notify you either by email or place a prominent notice on our website. The most recent version of our privacy policy is always available from a link on our homepage, and at [good.is/privacy](http://www.good.is/privacy). We encourage you to visit this site frequently to stay up to date on our current policy.
+Our service is evolving and developing. From time to time, we will review and make changes to our privacy policy. When we do so, we will notify you either by email or place a prominent notice on our website. The most recent version of our privacy policy is always available from a link on our homepage, and at [good.is/privacy](https://web.archive.org/pages/privacy). We encourage you to visit this site frequently to stay up to date on our current policy.
