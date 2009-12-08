@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tigerdirect.ca privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429100435id_/http%3A//www.tigerdirect.ca/sectors/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigerdirect.ca privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208052043id_/http%3A//www.tigerdirect.ca/sectors/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy at TigerDirect.ca
 
@@ -69,7 +69,7 @@ You should recognize, however, that no computer system is fully secure and that 
 
 **7\. Corrections/Information Removal/Opt-Out**
 
-If your name, e-mail or postal address, telephone number or other Personal Information changes, you may update, correct or omit the relevant information by contacting us at privacy@TigerDirect.ca. In addition, if you no longer wish to receive communications from us you may opt-out by emailing us at privacy@TigerDirect.ca, sending a letter to: TigerDirect.ca Privacy Officer, 7795 West Flagler Street Suite #35; Miami, FL 33144 or by clicking on the unsubscribe link within any marketing e-mail you receive from us. If you no longer with to receive our catalog, you may call us at [fill in], email us at privacy@TigerDirect.ca or send a letter to: TigerDirect.ca Privacy Officer, 7795 West Flagler Street Suite #35; Miami, FL 33144.
+If your name, e-mail or postal address, telephone number or other Personal Information changes, you may update, correct or omit the relevant information by contacting us at privacy@TigerDirect.ca. In addition, if you no longer wish to receive communications from us you may opt-out by emailing us at privacy@TigerDirect.ca, sending a letter to: TigerDirect.ca Privacy Officer, 7795 West Flagler Street Suite #35; Miami, FL 33144 or by clicking on the unsubscribe link within any marketing e-mail you receive from us. If you no longer wish to receive our catalog, you may call us at 800-800-8300, email us at privacy@TigerDirect.ca or send a letter to: TigerDirect.ca Privacy Officer, 7795 West Flagler Street Suite #35; Miami, FL 33144.
 
 **8\. Contact Information**
 
