@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfoxdc.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608051607id_/http%3A//www.myfoxdc.com/dpp/about_us/privacy_policy/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfoxdc.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208113409id_/http%3A//www.myfoxdc.com/dpp/about_us/privacy_policy/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy_Policy
 
