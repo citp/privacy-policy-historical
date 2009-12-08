@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the troublefixers.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622141421id_/http%3A//www.troublefixers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the troublefixers.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208180845id_/http%3A//www.troublefixers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TroubleFixers - All about fixing computer troubles
 
