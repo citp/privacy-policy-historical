@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landsend.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615031242id_/http%3A//www.landsend.com/customerservice/services_policies/PS_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landsend.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208040617id_/http%3A//www.landsend.com/customerservice/services_policies/PS_privacy.html) for the most accurate reproduction.*
 
 # Lands' End | Customer Service | Privacy
 
