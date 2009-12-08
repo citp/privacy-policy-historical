@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dana-farber.org privacy policy that was archived on 2009-04-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090418175103id_/http%3A//www.dana-farber.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dana-farber.org privacy policy that was archived on 2009-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091208121109id_/http%3A//www.dana-farber.org/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html lang="eng"><head>
     <title>Dana-Farber Privacy Statement</title>
@@ -26,7 +26,7 @@
     <link rel="stylesheet" type="text/css" href="/includes/css/common.css">
     <link rel="stylesheet" type="text/css" media="print" href="/includes/css/print.css">
 
-    <link rel="stylesheet" type="text/css" href="/Apps/Controls/Styles/rate_this_control.css">
+    <link rel="stylesheet" type="text/css" href="/Apps/dfci.web/Controls/Styles/rate_this_control.css">
 
     <style type="text/css">
       @import "/includes/css/main.css";
@@ -44,8 +44,8 @@
     <script src="/includes/javascript/utm.js" type="text/javascript"></script><script language="JavaScript1.5">_ujv='1.5';</script>
     <script src="/includes/javascript/common.js" type="text/javascript"></script>
 
-    <script src="/Apps/Scripts/dfci_common.js" type="text/javascript"></script>
-    <script src="/Apps/Controls/Scripts/rate_this_control.js" type="text/javascript"></script>
+    <script src="/Apps/dfci.web/Scripts/dfci_common.js" type="text/javascript"></script>
+    <script src="/Apps/dfci.web/Controls/Scripts/rate_this_control.js" type="text/javascript"></script>
 </head>
 
 
@@ -84,7 +84,7 @@
 <!-- diag drop down code replace -->
 <div id="diagnosisNavigation">
         
-<form id="simple_search_form" action="/apps/danafarber_search.aspx" method="get" style="float: right" onsubmit="if(( this.q.value.replace(/(^\s*)|(\s*$)/g, '') == '' )||( this.q.value == 'Search the site')) { alert('Please enter some keywords.'); return false; }">
+<form id="simple_search_form" action="/apps/search.aspx" method="get" style="float: right" onsubmit="if(( this.q.value.replace(/(^\s*)|(\s*$)/g, '') == '' )||( this.q.value == 'Search the site')) { alert('Please enter some keywords.'); return false; }">
 
     <input name="q" id="searchKeywords" type="text" size="27" value="Search the site" style="margin: 0 0 1px 0; font: 11px Arial, sans-serif; padding: 0 0 1pt 1pt; color: #666666; background-color: #ffffff; cursor: auto" onfocus="document.getElementById('searchKeywords').style.color='#000000'; document.getElementById('searchKeywords').value=''">
 
@@ -421,8 +421,8 @@
   <div class="social_sharing_box" style="width: 100%; clear: both;">
     <div class="rateThis" style="clear: both; float: none;">
       <script type="text/javascript">
-        rate_this_widget.create("rate_this__master", "/Apps/rate_this.aspx", "/Apps/Controls/images/");
-      </script><div id="rate_this:rate_this__master" class="rate_this__control">	<h4>Was this useful?</h4>	<form id="rate_this:rate_this__master.form" class="form" action="/Apps/rate_this.aspx" method="post">		<table id="rate_this:rate_this__master.stars" class="stars" style="float: left;">			<tbody><tr>				<td>					<img id="Img1" class="star" src="/Apps/Controls/images/star.png" alt="star 1" title="Not useful" runat="server" style="display: block;">					<img id="Img2" class="star__filled" style="display: none;" src="/Apps/Controls/images/star - filled.png" alt="star 1" title="Not useful" runat="server">				</td><td>					<img id="Img3" class="star" src="/Apps/Controls/images/star.png" alt="star 2" title="Slightly useful" runat="server" style="display: block;">					<img id="Img4" class="star__filled" style="display: none;" src="/Apps/Controls/images/star - filled.png" alt="star 2" title="Slightly useful" runat="server">				</td><td>					<img id="Img5" class="star" src="/Apps/Controls/images/star.png" alt="star 3" title="Fairly useful" runat="server" style="display: block;">					<img id="Img6" class="star__filled" style="display: none;" src="/Apps/Controls/images/star - filled.png" alt="star 3" title="Fairly useful" runat="server">				</td><td>					<img id="Img7" class="star" src="/Apps/Controls/images/star.png" alt="star 4" title="Very useful" runat="server" style="display: block;">					<img id="Img8" class="star__filled" style="display: none;" src="/Apps/Controls/images/star - filled.png" alt="star 4" title="Very useful" runat="server">				</td><td>					<img id="Img9" class="star" src="/Apps/Controls/images/star.png" alt="star 5" title="Extremely useful" runat="server" style="display: block;">					<img id="Img10" class="star__filled" style="display: none;" src="/Apps/Controls/images/star - filled.png" alt="star 5" title="Extremely useful" runat="server">				</td>			</tr>		</tbody></table>		<div id="rate_this:rate_this__master.buttons" class="buttons" style="display: none; float: left;">			<button id="rate_this:rate_this__master.send_button" type="button">Send</button>			<button id="rate_this:rate_this__master.cancel_button" type="button">Cancel</button>		</div>		<div id="rate_this:rate_this__master.comment_area" class="comment_area" style="display: none; clear: both; float: none;">			<h4>You may enter a comment below <strong>(optional)</strong>:<br></h4>			<textarea style="float: none;" name="rate_this__comment" cols="40" rows="7"></textarea>			<p>				If you have a question or need a response, please <a href="/contact/contactform.asp">contact us</a>			</p>		</div>		<input type="hidden" name="rate_this" value="1">		<input type="hidden" name="rate_this__rating" value="0">	</form></div>
+        rate_this_widget.create("rate_this__master", "/Apps/dfci.web/Pages/rate_this.aspx", "/Apps/dfci.web/Controls/Media/Images.");
+      </script><div id="rate_this:rate_this__master" class="rate_this__control">	<form id="rate_this:rate_this__master.form" class="form" action="/Apps/dfci.web/Pages/rate_this.aspx" method="post">		<h4 class="label">Was this useful?</h4>		<table id="rate_this:rate_this__master.stars" class="stars" style="float: left;">			<tbody><tr>				<td>					<img id="Img1" class="star" src="/Apps/dfci.web/Controls/Media/Images.star.png" alt="star 1" title="Not useful" runat="server" style="display: block;">					<img id="Img2" class="star__filled" style="display: none;" src="/Apps/dfci.web/Controls/Media/Images.star - filled.png" alt="star 1" title="Not useful" runat="server">				</td><td>					<img id="Img3" class="star" src="/Apps/dfci.web/Controls/Media/Images.star.png" alt="star 2" title="Slightly useful" runat="server" style="display: block;">					<img id="Img4" class="star__filled" style="display: none;" src="/Apps/dfci.web/Controls/Media/Images.star - filled.png" alt="star 2" title="Slightly useful" runat="server">				</td><td>					<img id="Img5" class="star" src="/Apps/dfci.web/Controls/Media/Images.star.png" alt="star 3" title="Fairly useful" runat="server" style="display: block;">					<img id="Img6" class="star__filled" style="display: none;" src="/Apps/dfci.web/Controls/Media/Images.star - filled.png" alt="star 3" title="Fairly useful" runat="server">				</td><td>					<img id="Img7" class="star" src="/Apps/dfci.web/Controls/Media/Images.star.png" alt="star 4" title="Very useful" runat="server" style="display: block;">					<img id="Img8" class="star__filled" style="display: none;" src="/Apps/dfci.web/Controls/Media/Images.star - filled.png" alt="star 4" title="Very useful" runat="server">				</td><td>					<img id="Img9" class="star" src="/Apps/dfci.web/Controls/Media/Images.star.png" alt="star 5" title="Extremely useful" runat="server" style="display: block;">					<img id="Img10" class="star__filled" style="display: none;" src="/Apps/dfci.web/Controls/Media/Images.star - filled.png" alt="star 5" title="Extremely useful" runat="server">				</td>			</tr>		</tbody></table>		<div id="rate_this:rate_this__master.buttons" class="buttons" style="display: none; float: left;">			<button id="rate_this:rate_this__master.send_button" type="button">Send</button>			<button id="rate_this:rate_this__master.cancel_button" type="button">Cancel</button>		</div>		<div id="rate_this:rate_this__master.comment_area" class="comment_area" style="display: none; clear: both; float: none;">			<h4 class="instructions">				You may enter a comment below <strong>(optional)</strong>:<br>			</h4>			<textarea style="float: none;" name="rate_this__comment" cols="40" rows="7"></textarea>			<p class="note">				If you have a question or need a response, please <a href="/contact/contactform.asp">contact us</a>			</p>		</div>		<input type="hidden" name="rate_this" value="1">		<input type="hidden" name="rate_this__rating" value="0">	</form></div>
     </div>
     <div class="addThisButton" style="clear: both; float: right;">
         <!-- AddThis Button BEGIN -->
@@ -435,7 +435,7 @@
 
     </div>
     <div class="emailPage" style="float: left;">
-      <a href="/apps/email-a-web-page.aspx?pageUrl=http%3a%2f%2fwww.dana-farber.org%2fprivacy-policy%2fDefault.html">E-mail this page</a>    
+      <a href="/Apps/email-a-web-page.aspx?pageUrl=http%3a%2f%2fwww.dana-farber.org%2fprivacy-policy%2fDefault.html">E-mail this page</a>    
     </div>
     <div style="clear: both; float: none; height: 1px;">
       &nbsp;
@@ -447,10 +447,10 @@
       <div id="additionalContentFrame">
         <div id="additionalContent">
           
+<!-- proxy_control:footer_minimal -->
         </div>
       </div>
     </div>
-<!-- proxy_control:footer_minimal -->
     <div id="footerFrame">
 <!--googleoff: index-->
         <div id="footer">
