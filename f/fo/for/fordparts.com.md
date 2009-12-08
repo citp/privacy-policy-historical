@@ -1,70 +1,153 @@
-> *The following text is extracted and transformed from the fordparts.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011081024id_/http%3A//fordparts.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fordparts.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208132327id_/http%3A//www.fordparts.com/Privacy.aspx) for the most accurate reproduction.*
 
-# FordParts.com :: The best place to get your "Ford Parts" & Accessories anywhere!
+# Privacy Policy | FordParts.com
 
-FordParts.com Online Store knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting FordParts.com Online Store, you are accepting the practices described in this Privacy Notice.
+**_General Statement:_**
 
-**What Personal Information About Customers Does FordParts.com Online Store Gather?**  
-The information we learn from customers helps us personalize and continually improve your shopping experience at FordParts.com Online Store. Here are the types of information we gather.
+We respect your privacy and are committed to protecting it.  This privacy statement explains our policies and practices regarding on-line customer information.  It is through this disclosure that we intend to provide you with a level of comfort and confidence in how we collect, use, and safeguard personal and other information we collect or that you provide through this website, and how you can contact us if you have any questions or concerns.  It is our sincere hope that by explaining our data handling practices we will develop a trusting and long-lasting relationship with you.   
 
-**Information You Give Us:**  
-We receive and store any information you enter on our Web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our stores, and communicating with you.
+**_Information About Our Organization and Website:_**
 
-**Automatic Information:**  
-We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses FordParts.com Online Store. Scroll to the bottom of this page to see examples of the information we receive. A number of companies offer utilities designed to help you visit Web sites anonymously. Although we will not be able to provide you with a personalized experience at FordParts.com Online Store if we cannot recognize you, we want you to be aware that these tools exist.
+This Privacy Statement applies to FordParts.com.  FordParts.com is owned and maintained by Ford Customer Service Division, 16800 Executive Plaza Drive, Dearborn, MI, 48126.  
 
-**E-mail Communications:**  
-To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from FordParts.com Online Store if your computer supports such capabilities. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your account to reflect this by selecting unsubscribed in the newsletters menu.
+The business purpose of this website is to facilitate sales of Ford Motor Company Genuine Parts and Motorcraft® Parts from Ford Motor Company Dealers to customers.
 
-**Information from Other Sources:**  
-For reasons such as improving personalization of our service (for example, providing better product recommendations or special offers that we think will interest you), we might receive information about you from other sources and add it to our account information. We also sometimes receive updated delivery and address information from our shippers or other sources so that we can correct our records and deliver your next purchase or communication more easily.
+**_Personally Identifiable Information We Collect From You:_**
 
-**What About Cookies?**  
-Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as automatic login and permanent shopping carts for storage of items in your Shopping Cart between visits.  
-The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, cookies allow you to take full advantage of some of FordParts.com Online Store's coolest features, and we recommend that you leave them turned on.
+When you visit FordParts.com we will not collect any personal information about you unless you provide it to us voluntarily.  Personal data includes information that is particular to you such as name, street address, telephone number, and e-mail address (and credit card number if you place an order).  If you opt not to provide us with personal information you can still access our website, however you may be unable to participate in certain promotions or receive product information or have a purchase order fulfilled. 
 
-**Does FordParts.com Online Store Share the Information It Receives?**  
-Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only with the subsidiaries FordParts.com Online Store controls and as described below.
+Our primary goal in collecting personal information from you when you visit FordParts.com is to provide you the functionality and services that you need to have a meaningful and customized experience while using the site features.  We need to collect personal information in order to verify user identity, pre-populate fields for user convenience, fulfill purchase orders, and conduct surveys and targeted marketing campaigns. 
 
-**Affiliated Businesses We Do Not Control:**  
-We work closely with our affiliated businesses. In some cases, these businesses operate stores at FordParts.com Online Store or sell offerings to you at FordParts.com Online Store. In other cases, we operate stores, provide services, or sell product lines jointly with these businesses. You can tell when another business is involved in your transactions, and we share customer information related to those transactions with that business.
+This site may use a third party to deliver site functionality. An explanation for each of these items and how they work is included in Methods We Use to Collect Information.   
 
-**Agents:**  
-We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.
+**_How We Use the Personally Identifiable Information We Collect:_**
 
-**Promotional Offers:**  
-Sometimes we send offers to selected groups of FordParts.com Online Store customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please adjust your account newsletter preference as that is how we will send out our promotions.
+_Personally identifiable information_ collected on FordParts.com may be used to:
 
-**Business Transfers:**  
-As we continue to develop our business, we might sell or buy stores or assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the unlikely event that FordParts.com Online Store, or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
+·         Fulfill a site user request (lead generation, questions about products/dealer pricing, send marketing or promotional materials including e-mails or other information) 
 
-**Protection of FordParts.com Online Store and Others:**  
-We release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our [Conditions of Use](http://www.fordparts.com/conditions.php%22) and other agreements; or protect the rights, property, or safety of FordParts.com Online Store, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+·         Fulfill and deliver an order for goods or services such as Motorcraft® or Ford Motor Company Genuine Parts.
 
-**With Your Consent:**  
-Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.
+·         Respond to your comments or requests for information
 
-**How Secure Is Information About Me?**  
-We work to protect the security of your information during transmission by using [PayPal ](https://www.paypal.com/)as one of our payment processors, they process the credit cards, so FordParts.com Online Store will NEVER see you credit card number. Paypal protects your privacy and information by using Secure Sockets Layer (SSL) software, which encrypts information you input.  
-It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
+·         Meet a request for or to develop new products or services
 
-**What Information Can I Access?**  
-FordParts.com Online Store gives you access to the following information about you for the limited purpose of viewing and, in certain cases, updating that information. This list will change as our Web site evolves.
+·         Make the user experience more customer-friendly
 
-[Your Account](http://www.fordparts.com/account.php%22)
+·         Contact you if necessary in the course of processing or shipping an order for products or services
 
-**What Choices Do I Have?**  
-As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of such FordParts.com Online Store features as Automatic login, and permanent shopping carts. You can add or update certain information on pages such as those listed in the "My Account" pages. When you update information, we usually keep a copy of the prior version for our records.  
-If you do not want to receive e-mail or other mail from us, please adjust your account to reflect this in the newsletter menu.
+·         Generate site analytics that improve our site layout, content, product offerings and services
 
-**Children**  
-FordParts.com Online Store does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use FordParts.com Online Store only with involvement of a parent or guardian.
+·         Compile user data that is stored in our corporate database and may be used for marketing and other purposes
 
-**Conditions of Use, Notices, and Revisions**  
-If you choose to visit FordParts.com Online Store, your visit and any dispute over privacy is subject to this Notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of Washington. If you have any concern about privacy at FordParts.com Online Store, please send us a thorough description to info@fordparts.com, and we will try to resolve it. Our business changes constantly. This Notice and the Conditions of Use will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes.
+·         Match personal data collected here with data about you that we collect offline
 
-**Information You Give Us**  
-You provide most such information when you search, buy, bid, post, participate in a contest or questionnaire, or communicate with customer service. For example, you provide information when you search for a product; make an order or an Auction bid; provide information in Your Account (and you might have more than one if you have used more than one e-mail address when shopping with us); communicate with us by phone, e-mail, or otherwise; complete a questionnaire or a contest entry form; by providing employer, school, or other such information; participate in Discussion Boards; provide and rate Reviews. As a result of those actions, you might supply us with such information as your name, address, and phone number; people to whom purchases have been shipped, including address and phone number; other people; content of reviews and e-mails to us; and financial information, including Social Security and driver's license numbers.
+·         Comply with legal requirements
 
-**Automatic Information**  
-Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type and version, operating system, and platform; purchase history; the full Uniform Resource Locators (URL) clickstream to, through, and from our Web site, including date and time; cookie number; and products you viewed or searched for.
+**_Other (Non-Personally Identifiable) Information We Collect From Site Visitors:_**
+
+Customers may provide shopping experience comments and ratings in connection with a transaction.  Your dealer will be able to view comments and any specific rating you provide.  Your comments will not be publicly displayed on the FordParts.com website.  Dealers and Ford will not be able to alter the ratings or comments in any way.  Only your dealership, Ford Motor Company, and any vendors engaged to perform rating tool services will be able to view specific ratings and comments. 
+
+FordParts.com collects other information, non-personally identifiable information from site visitors.  This means that we do not track these items on an individual basis that identifies the site visitor, but rather gather and collect this information on an aggregate [or anonymous] basis that includes all site visitors.   Non-personal information includes tracking the site pages that are visited or the amount of time spent on our site.  
+
+Our primary goal in collecting aggregate information from you is to be able to perform site metrics that allow us to improve the functionality of the website.   We need to collect aggregate information in order to track page visits, site click through analysis, peak site usage times, site layout, events (which include shopping tools with which you interacted).  
+
+We may use session and persistent "cookies," spot light ads/web beacons/banner ads or links, or third-party click tracking analytics tools such as DART, Omniture tags and Google Analytics to collect aggregate or other non-personally identifiable information about site visitors.  An explanation for each of these items and how they work is included in Methods We Use to Collect Information.         
+
+**_How We Use the Aggregate or Non-Personally Identifiable Information We Collect:_**
+
+Non-Personally identifiable information collected on FordParts.com may be used to:
+
+·         Compile aggregate and statistical data to help in website design and to identify popular features
+
+·         Measure site activity to allow us to update our site to better meet user wants and needs
+
+FordParts.com utilizes non-personal data for the purpose of performing analytics on the users' experience while visiting this site. This analysis:
+
+       ·   Is performed on an aggregate level and does not identify you or your information personally
+
+       ·   Involves the use of a third-party vendor acting on behalf of FordParts.com
+
+       ·   Is performed in order to improve our website and the user experience
+
+       ·   May include the use of session and/or persistent cookies to track user movement across this and other Ford Motor Company websites or to track other events within or across this and other Ford Motor Company websites 
+
+       ·   Any information that is provided to the third-party vendor is to be used only for the purpose of performing the analytics and compiling reports of the data.  The third-party vendor is restricted from using this data in any other way other than to provide these services to Ford Motor Company and Ford authorized dealers and they may not share or resell this data    
+
+**_Methods We Use to Collect Information_**
+
+A "cookie" is a small text file that helps us in many ways to make your visit to our website more enjoyable and meaningful to you. For example, cookies avoid you having to log in every time you come back to one of our websites. They also allow us to tailor a website or advertisement to better match your interests and preferences.  There are a couple different types of cookies.
+
+A "session" cookie is stored only in your computer's working memory (RAM) and only lasts for your browsing session. When you close all your browser's windows, or when you shut down your computer, the session cookie disappears forever. 
+
+A "persistent" cookie is stored on your computer's hard drive until a specified date, which could be tomorrow, next week, or 10 years from now. Persistent cookies stay on your computer until either a) they expire,) they are overwritten with newer cookies, c) you manually remove them.  Most browsers can be configured not to accept cookies, however, this may prevent you from having access to some site functions or features.   
+
+This site may use a third party to deliver site functionality such as fulfilling your request to purchase items from our online store, calculation of sales tax credit card processing and site functionality.  In performing this function the third party may place a persistent cookie on your computer or have to gather personal information from you in order to facilitate the processing of your purchase. 
+
+This site may use a third-party click tracking analytics tools such as DART, Omniture tags and Google Analytics to capture click through statistics. 
+
+FordParts.com may use spot light ads and web beacons which are site instrumentation tools that help us to determine, for instance, whether a page has been viewed or not and, if so, how many times. When you ask us to send you information on a promotion or a newsletter, we may use web beacons to establish how many of the emails are actually opened. In general, any electronic image viewed as part of a web page, including an ad banner, can act as a web beacon. 
+
+Users may be directed to FordParts.com via banner ads or site links.  Ads or site links that are placed by FordParts.com use cookies or web beacons to deliver metrics on the effectiveness of the ads or links.  They do not collect personal information from the user. 
+
+Third-party advertising networks that serve ads onto FordParts.com may use cookies and/or web beacons in their advertisements. FordParts.com retains no control over such third party cookies and/or web beacons and does not have access to the information related to third party cookies and/or web beacons. 
+
+**_Sharing Your Information_**
+
+FordParts.com does not share, sell, or rent personally identifiable information with independent companies for their own use without providing you a choice.
+
+Personal information that you provide to us in the course of requesting a product or service through this website may be gathered and stored in one or more of our corporate databases and be used for purposes of contacting you for things like promotional offers, marketing programs, or other communications from this website or other Ford Motor Company websites. 
+
+We may share personal information that we collect about you with other companies within the Ford Motor Company family of companies or subsidiaries.  Our "family of companies" is the group of companies related to us by common control or ownership.  We share information within this "family" as a normal part of conducting business and offering products and services to our customers. 
+
+Personal information that you provide to FordParts.com may be shared with our authorized Ford and Lincoln Mercury dealers.  This is necessary in order to answer product questions, request a price quote and fulfill a parts order.  The dealer is not restricted by FordParts.com in their use of your data.    
+
+Vendors, contractors or partners of FordParts.com who have access to your personal information in connection with providing services for FordParts.com are required to keep the information confidential and are not permitted to use this information for any other purpose than to carry out the services they are performing FordParts.com.             
+
+Site metrics for FordParts.com may be shared with other Ford Motor Company websites, subsidiaries, affiliates, or Ford authorized dealers.  The information shared will be aggregate data and will not include any of your personally identifiable information. 
+
+FordParts.com will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Ford Motor Company or the site; (b) protect and defend the rights or property of Ford Motor Company and this site; and, (c) act under exigent circumstances to protect the personal safety of users of Ford Motor Company, its web sites, or the public. 
+
+**_Access To and Control Over the Use of Your Information_**
+
+To correct or update your personal information use the My Profile function.  You will be asked for your ID and password so that we may be able to process your changes.  FordParts.com will use reasonable efforts to correct any factual inaccuracies in your information.      
+
+The scope of access available for this request is for information stored in the database that holds the data for FordParts.com.  Any personal information that has been collected from you on other Company websites will not be accessible or changeable through the processing of this request.       
+
+**_Security of Your Information_**
+
+Safeguarding information of visitors to our website is important to us.  We use systems, policies and procedures to maintain accuracy of information and to protect information from loss, misuse or alteration. 
+
+When you send personal information, such as credit card numbers or telephone numbers, to FordParts.com we use "Secure Socket Layers" or SSL to protect your data.  SSL is encryption technology that helps safeguard your personal information against misuse by unauthorized individuals.             
+
+Vendors, contractors or partners of FordParts.com who have access to your personal information in connection with providing services for FordParts.com are required to keep the information confidential.
+
+Vendors are not permitted to use this information for any other purpose than to carry out the services they are performing for FordParts.com.
+
+**_Consent to Processing_**
+
+By visiting this site and by providing your personally identifiable information to us, you understand and consent to the collection, use, processing, transfer, and disclosure of your personally identifiable and 
+
+non-personally identifiable information globally --- including to the United States \-- in accordance with this Privacy Statement.  Therefore, by visiting this site and by providing such information, you consent to the transfer of such information across country borders, and to the use, processing, and disclosure of such information in global locations as required.  Your consent shall be deemed to include your consent to transfer of the personally identifiable or non-personally identifiable information to locations that may have different levels of privacy protection than in your own country.
+
+**_Links to Other Sites_**
+
+FordParts.com provides links to other websites.  We encourage you to review the privacy statements of all sites which you visit, including those whose links are provided so that you can understand how those sites collect, use and share your information.  FordParts.com is not responsible for the privacy statements, content or data handling practices on other websites.      
+
+**_Children's Privacy_**
+
+FordParts.com does not knowingly intend to collect personal information from children under 13 years of age. 
+
+If a child has provided us with personal information a parent or guardian of that child may contact us at support@oeconnection.com if they want this information deleted from our records.  We will then make reasonable efforts to delete the child's information from the database that stores information for FordParts.com. 
+
+**_Contacting Us_**
+
+If you have any questions, comments or concerns about this online privacy statement for FordParts.com, FordParts.com privacy practices, or have any questions regarding the contents of this website please contact us at support@oeconnection.com. 
+
+FordParts.com is committed to working with consumers to obtain a fair and rapid resolution of any complaints or disputes about privacy and the handling of your data.  FordParts.com will be happy to respond to your questions and comments. 
+
+**_Privacy Statement Effective Date and Revision Days_**
+
+Occasionally we may update the privacy statement for FordParts.com in order to reflect any changes to the website or our privacy practices.  If we update this statement, the new statement will be posted to the website ten (10) days prior to the changes taking effect.         
+
+The effective date of this privacy statement is 7/28/09.   
