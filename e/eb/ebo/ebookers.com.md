@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebookers.com privacy policy that was archived on 2009-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090607223313id_/http%3A//www.ebookers.com/info/page%3Fid%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebookers.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208231750id_/http%3A//www.ebookers.com/info/page%3Fid%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # 
 
@@ -111,7 +111,7 @@ We use Personal Information in order to provide and enhance the Products or Serv
   * To manage our Website, diagnose technical problems, improve content, and allocate the resources of our systems so that your experience with our Website is as efficient as possible;
   * To process and track your transactions and to send you information about our and our group companies and business partners' products and services and other information and materials that may be of interest to you but only if you have granted us permission to do so or we are otherwise able to do so under applicable law;
   * To develop, enhance, market, sell or provide ebookers' Products or Services, or those of companies with which we have a commercial relationship, but only if you have granted us permission to do so or we are otherwise able to do so under applicable law;
-  * To evaluate credit standing and to match credit bureau or credit reporting agency information; to investigate, detect and protect ebookers and other third parties against error, negligence, breach of contract, fraud, theft and other illegal activities;
+  * To evaluate credit standing and to match credit bureau or credit reporting agency information; to investigate, detect and protect ebookers and other third parties against error, negligence, breach of contract, fraud, theft and other illegal activities; In performing these evaluations, personal information provided by you may be disclosed to a registered credit reporting agency which may keep a record of that information.
   * To effect a corporate transaction, in connection with the sale, merger, spin-off, or other corporate reorganization of our corporation, where the information is provided to the new controlling entity in regular course of business;
   * To audit compliance with our policies and contractual obligations;
   * As permitted by, and to comply with, any legal or regulatory requirements or provisions; or
@@ -155,7 +155,7 @@ From time to time, we may disclose your Personal Information as follows:
 
 
 
-If you consent as set out above, your Personal Information will be subject to Webloyalty’s privacy policy, which is accessible from <http://www.shopperdiscountsandrewards.co.uk/Features/Common/PrivacyPolicy.rails>. We strongly advise you to read Webloyalty’s privacy policy and satisfy yourself as to the purposes for which Webloyalty will use your Personal Information before agreeing to their terms & conditions, as we have no responsibility for any use of your Personal Information by Webloyalty.
+If you consent as set out above, your Personal Information will be subject to Webloyalty’s privacy policy, which is accessible from [ http://www.shopperdiscountsandrewards.co.uk/Features/Common/PrivacyPolicy.rails](http://www.shopperdiscountsandrewards.co.uk/Features/Common/PrivacyPolicy.rails). We strongly advise you to read Webloyalty’s privacy policy and satisfy yourself as to the purposes for which Webloyalty will use your Personal Information before agreeing to their terms & conditions, as we have no responsibility for any use of your Personal Information by Webloyalty.
 
 This policy will not cover the use of your Personal Information by these other companies. We encourage you to read a company's privacy policy before requesting any of its products or services.
 
