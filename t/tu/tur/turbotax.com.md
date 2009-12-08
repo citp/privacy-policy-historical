@@ -1,50 +1,60 @@
-> *The following text is extracted and transformed from the turbotax.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420191836id_/http%3A//turbotax.intuit.com/corp/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turbotax.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209004850id_/http%3A//turbotax.intuit.com/corp/privacy.jsp) for the most accurate reproduction.*
 
-# TurboTax® Privacy Policy - Review the TurboTax Privacy Statement
+# Intuit Consumer Group Privacy Policy
 
-## Scope
+Privacy Statement Highlights 
 
-These Highlights and the full privacy statement apply to those TurboTax websites and services that display or link to this statement.
+## Intuit Consumer Group Privacy Statement Highlights
 
-## Important Information
+At Intuit, we value our relationship with you and place the highest importance on respecting and protecting your privacy. We want you to feel comfortable and confident when using our products and services and with entrusting your personal, company and financial information to us.
 
-At Intuit, we place the highest importance on respecting and protecting the privacy of our customers. Our most important asset is our relationship with you. We want you to feel comfortable and confident when using our products and services and with entrusting your personal and tax return information to us. The full TurboTax Privacy Statement can be found [here](https://web.archive.org/corp/privacy_full.jsp).
+## Protecting your Information:
 
-## Personal Information
+We work to protect your personal information from loss, misuse, or unauthorized alteration by using industry-recognized security safeguards, coupled with carefully developed security procedures and practices. We maintain physical, electronic and procedural safeguards that comply with applicable laws and federal standards. We use both internal and external resources to review our security procedures. Your sensitive information, such as credit card information, is encrypted when it is transmitted to us. Our employees are trained and required to safeguard your information. More details on protecting your information can be found at [http://security.intuit.com](http://security.intuit.com/).
 
-  * We collect personal information you provide during registration and payment such as your name, email or postal address.
-  * We collect personal information to prepare, assist in preparing, or obtain or provide services in connection with the preparation of your tax return.
-  * We use cookies and other internet technologies to manage our website and e-mail programs.
+## Information We Collect:
+
+  * We collect personal information such as your name, shipping/billing address, e-mail, phone, and credit card number when you interact with us to purchase or use our products.
+  * We collect personal information to deliver or allow access to our products and services.
+    * As part of tax preparation services provided to you, we may collect and store personal information to prepare, assist in preparing, or to obtain or provide services in connection with the preparation of your tax return.
+    * As part of personal financial services provided to you, we may collect and store sensitive information such as account and purchase information on your behalf.
+  * We collect information about your system as it interacts with us such as your IP address and browser information.
+  * We use common internet technologies, such as cookies and Web beacons to manage our Web sites and services, advertising and e-mail programs.
+  * We collect user feedback, community discussions, chats and other interactions, such as surveys, at our sites.
   * We may obtain additional information about you, such as demographic information, from commercially available sources.
 
 
 
-[Click here](https://web.archive.org/corp/privacy_full.jsp#information_collection) for more information.
+More details on the information we collect can be found [here](https://web.archive.org/corp/privacy-info-we-collect.jsp).
 
-## Uses
+## Uses:
 
-  * We do not sell or rent your personal or tax return information to anyone.
-  * We do not share your personal or tax return information with anyone outside of Intuit for their promotional or marketing use.
-  * We do not share your tax return information inside of Intuit for promotional or marketing use
-  * We use your personal or tax return information to provide you with information and services you request (such as preparing and electronically filing your tax return), to tell you about other products and services, and to give you a customized interactive experience as you use our products
-  * We summarize information about your usage experience with our product and combine it with that of others to understand how our products are used and to help us develop new products and services
-  * We may use service companies on our behalf but these companies are not allowed to use your information for their own purposes.
-  * We retain copies of your completed and filed tax returns as required by IRS and state regulations.
+  * We do not sell or rent your personal information to anyone for promotional or marketing purposes.
+  * We do not share your personal information with anyone outside of Intuit for their promotional or marketing use without your consent.
+  * We use your personal or financial information to provide you with information and services you request, to give you a customized interactive experience as you use our products, and to tell you about other products and services.. 
+  * We summarize information about you and we also combine that information with that of others in a way that does not identify you personally to understand how our products are used, to deliver products and services and to help us develop new products and services.
+  * We may use service companies to help provide you products and services who are not allowed to use your information for their own purposes.
 
 
 
-[Click here](https://web.archive.org/corp/privacy_full.jsp#information_use) for more information.
+More details on how we use information can be found [here](https://web.archive.org/corp/privacy-info-we-use.jsp).
 
-## Your Choices
+## Your Choices:
 
-  * You may change your account and contact information any time by clicking [here](https://turbotax.intuit.com/commerce/account/secure/login.jsp).
-  * You may change the information in your TurboTax Online tax return until the point you have electronically filed or printed your completed tax return. After that, changes may be made by the procedures set up by the IRS or state tax agency.
-  * You may unsubscribe from our newsletters by using the unsubscribe link provided in the newsletter sent to you.
-  * You may choose to answer surveys about our products and services.
-  * You may change your contact preferences any time by clicking [here](https://privacy.intuit.com/cpi/do/preferences?dialog=1&hidenav=1&p_sourceid=252).
+Instructions to change your account or contact information or tell us your contact preferences are available [here](https://web.archive.org/corp/privacy-your-choice.jsp).
 
+## How to Contact Us:
 
+Contact us with your question at <https://privacy.intuit.com/cpi/do/comments>.
 
-[Click here](https://web.archive.org/corp/privacy_full.jsp#information_access) for more information.
+Or write to us at:  
+**Privacy Team  
+Intuit Inc.   
+2800 East Commerce Center Place  
+Tucson, AZ 85706**
 
-[View full privacy statement](https://web.archive.org/corp/privacy_full.jsp).
+Effective Date: October 1, 2009: Changes made to provide clarity and improve navigation.
+
+This Web site is privacy certified by TRUSTe Privacy Seal.
+
+Intuit is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. To demonstrate our commitment to your privacy, we have had our practices reviewed by TRUSTe. TRUSTe reviews designated Intuit Web sites and evaluates our privacy practices. The TRUSTe program covers only information that is collected through this Web site and does not cover information that may be collected through software downloaded from the site. If you contact us for a privacy-related issue and we do not respond or if your inquiry has not been satisfactorily addressed, please contact TRUSTe. TRUSTe will serve as a liaison with Intuit to resolve your concerns. 
