@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ac-markets.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620063633id_/http%3A//www.ac-markets.com/forex-broker/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ac-markets.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208172634id_/http%3A//www.ac-markets.com/forex-broker/privacy-policy.aspx) for the most accurate reproduction.*
 
 # ACM Forex Privacy policy
 
