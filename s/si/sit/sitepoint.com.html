@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sitepoint.com privacy policy that was archived on 2009-02-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090220013809id_/http%3A//www.sitepoint.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sitepoint.com privacy policy that was archived on 2009-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091208232614id_/http%3A//www.sitepoint.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
@@ -10,15 +10,16 @@
 		<meta http-equiv="content-type" content="text/html; charset=utf-8">
 	<meta name="robots" content="all">
 	<meta name="description" content="SitePoint.com - With a vast variety of web design tutorials and articles coupled with a vibrant and well informed community, SitePoint the natural place to go to grow your online business">
-	<meta name="keywords" content="CSS positioning, XHTML standards, ajax development, tableless design, accessability, freelance web design, PHP MySQL tutorial, page tutorial, ruby on rails, teaching dotnet, standards compliant, ">
-	<link rel="shortcut icon" href="/favicon.ico">
-	<link rel="stylesheet" type="text/css" media="all" href="http://1.sitepointstatic.com/bundle/structure.css,standard.css,format.css,tabs-v5.css,cart.css,print.css,index.css,promo.css">
+	<meta name="keywords" content="CSS positioning, XHTML standards, ajax development, tableless design, accessibility, freelance web design, PHP MySQL tutorial, page tutorial, ruby on rails, teaching dotnet, standards compliant, ">
+	<link rel="shortcut icon" href="http://sitepointstatic.com/favicon.ico">
+	<link rel="stylesheet" type="text/css" media="all" href="http://1.sitepointstatic.com/bundle/structure.css,standard.css,format.css,tabs-v5.css,cart.css,print.css,index.css">
+	<link rel="stylesheet" type="text/css" media="all" href="http://1.sitepointstatic.com/css2/promobar.css?=54321">
 	
-		<link rel="alternate" type="application/rdf+xml" title="RSS - Articles" href="/recent.rdf">
-	<link rel="alternate" type="text/xml" title="RSS - News" href="/blogs/category/news/feed/">
-	<link rel="alternate" type="application/rdf+xml" title="RSS - Blogs" href="/blogs.rdf">
-	<link rel="alternate" type="application/rdf+xml" title="RSS - Forums" href="/forums/featured.rdf">
-	<link rel="alternate" type="application/rdf+xml" title="RSS - Books" href="/books.rdf">
+	        <link rel="alternate" type="application/rss+xml" title="RSS - Articles" href="/recent.rdf">
+        <link rel="alternate" type="application/rss+xml" title="RSS - News" href="/blogs/category/news/feed/">
+        <link rel="alternate" type="application/rss+xml" title="RSS - Blogs" href="/blogs.rdf">
+        <link rel="alternate" type="application/rss+xml" title="RSS - Forums" href="/forums/featured.rdf">
+        <link rel="alternate" type="application/rss+xml" title="RSS - Books" href="/books.rdf">
 	<link rel="apple-touch-icon" href="/images/icons/apple-touch-icon.png">
 
 	
@@ -29,16 +30,17 @@
 
 <link rel="stylesheet" type="text/css" media="all" href="/css2/vanilla.css">
 
+
 <!--[if IE]>
-<link rel="stylesheet" type="text/css" media="all" href="/css2/ie.css" />
+<link rel="stylesheet" type="text/css" media="all" href="http://sitepointstatic.com/css2/ie.css" />
 <![endif]-->
 <!--[if IE7]>
 <![endif]-->
 <!--[if lt IE 7]>
-<link rel="stylesheet" type="text/css" media="all" href="/css2/ie6.css" />
+<link rel="stylesheet" type="text/css" media="all" href="http://sitepointstatic.com/css2/ie6.css" />
 <![endif]-->
 <!--[if lt IE 6]>
-<link rel="stylesheet" type="text/css" media="all" href="/css2/ie5.css" />
+<link rel="stylesheet" type="text/css" media="all" href="http://sitepointstatic.com/css2/ie5.css" />
 <![endif]-->
 
 
@@ -49,11 +51,54 @@
   <body>
 
 
+<!-- Promo bar -->
+	<script type="text/javascript">
+
+	function cookiecutter() {
+			var date = new Date();
+			date.setTime(date.getTime()+(30*24*60*60*1000));
+			var expires = "; expires="+date.toGMTString();
+			document.cookie = 'twitaway=hide'+expires+"; path=/";
+		}
+		function hidepromo() {
+			var name = 'twitaway';
+			var ca = document.cookie.split(';');
+			for(var i=0;i < ca.length;i++) {
+				var c = ca[i];
+				while (c.charAt(0)==' ') c = c.substring(1,c.length);
+				if (c.indexOf(name) == 0) return true;
+			}
+			return false;
+		}
+		function toggle_visibility(id)
+		{
+			var e = document.getElementById(id);
+			if(e.style.display == 'none')
+				e.style.display = 'block';
+			else
+				e.style.display = 'none';
+			cookiecutter();
+			return false;
+		}
+		if(!hidepromo()){
+			document.write(	'<div id="promobar"> <p><a href="http://sale.sitepoint.com/" title="24 Days = 24 Deals">SitePoint Sale: 24 Days, 24 Deals. SAVE UP TO 80%. Check out <em>Today\'s</em> Deal?</a></p>  <a href="#" title="Close" id="close_button"  onclick="return toggle_visibility(\'promobar\');return false;"><img src="http://i2.sitepoint.com/images/layout/cb-blue-close.png" width="23" height="23" alt="Close" /></a></div>');
+		}
+
+</script><div id="promobar"> <p><a href="http://sale.sitepoint.com/" title="24 Days = 24 Deals">SitePoint Sale: 24 Days, 24 Deals. SAVE UP TO 80%. Check out <em>Today's</em> Deal?</a></p>  <a href="#" title="Close" id="close_button" onclick="return toggle_visibility('promobar');return false;"><img src="http://i2.sitepoint.com/images/layout/cb-blue-close.png" width="23" height="23" alt="Close"></a></div>
+
+
+
+
+
+
+
+
+
 <div id="header">
+
   <h1>
 	<a href="http://www.sitepoint.com"><span></span>SitePoint</a>
 	</h1>
-    </div>
 <!-- Search -->
 
  <form method="get" action="/search/search.php" id="search">
@@ -72,6 +117,7 @@
 
 
 <!-- /Search -->
+</div>
   <!-- navigation bar -->
   <div id="navcontainer">
 
@@ -82,7 +128,6 @@
 		<li><a id="tabc" href="/kits/" title="SitePoint’s renowned web development kits">Kits</a></li>
 		<li><a id="tabd" href="/videos/" title="SitePoint’s renowned web development training videos">Videos</a></li>
 		<li><a id="tabe" href="/blogs/" title="Daily comment across a range of web subjects by some of the top experts in their field">Blogs</a></li>
-		<li><a id="tabf" href="/contest/" title="Let designers compete for your business in SitePoint’s Design Contests">Contests</a></li>
 		<li><a id="tabg" href="http://marketplace.sitepoint.com/" title="Buy and sell goods and services in one of the world’s largest web communities">Marketplace</a></li>
 		 <li><a accesskey="6" id="tabh" href="/forums/" title="Our friendly, vibrant and well-informed community">Forums</a></li>
 		 <li><a accesskey="9" id="tabi" href="http://reference.sitepoint.com/" title="The Web’s most complete and up-to-date reference">Reference </a></li>
@@ -227,24 +272,27 @@ Australia </address>
 						</ul>
 	<h4><a href="/cat/design-and-layout" title="Graphic design and web site layout">Design and Layout</a></h4>
 	<ul>
-									<li><a href="/subcat/usability" title="Strategies for making sure your websites and user interfaces are easy to use"> Usability and Information Architecture</a></li>
-												<li><a href="/subcat/accessibility" title="Ways that you can make your web design accessible to the largest possible number of viewers"> Accessibility</a></li>
+									<li><a href="/subcat/accessibility" title="Ways that you can make your web design accessible to the largest possible number of viewers"> Accessibility</a></li>
 												<li><a href="/subcat/design-principles" title="Design Principals"> Design Principles</a></li>
 												<li><a href="/subcat/design-practice" title="Articles covering graphic and web design practice."> Design Practice</a></li>
 												<li><a href="/subcat/design-tips" title="Tutorials and solutions to common problems in web design and graphic design for the web"> Design Tips &amp; Tricks</a></li>
+												<li><a href="/subcat/flash" title="Tutorials for creating graphics, animations and web applications using Adobe Flash"> Flash Tutorials</a></li>
 												<li><a href="/subcat/software-tutorials" title="Tutorials on using major software packages"> Software Tutorials</a></li>
-												<li><a href="/subcat/flash" title="Tutorials for creating graphics, animations and web applications using Macromedia Flash"> Flash Tutorials</a></li>
+												<li><a href="/subcat/usability" title="Strategies for making sure your websites and user interfaces are easy to use"> Usability and Information Architecture</a></li>
 						</ul>
 	<h4><a href="/cat/client-side-coding" title="Coding for the client side (the browser) using XHTML, JavaScript, CSS">Client-side Coding</a></h4>
 	<ul>
-									<li><a href="/subcat/html" title="Articles and tutorials on how to mark up your pages using HTML and XHTML"> HTML &amp; XHTML Tutorials</a></li>
+									<li><a href="/subcat/adobe-air" title="Tutorials for creating cross-platform Rich Internet Applications for the Web and the desktop using Adobe AIR"> Adobe AIR Tutorials</a></li>
+												<li><a href="/subcat/html" title="Articles and tutorials on how to mark up your pages using HTML and XHTML"> HTML &amp; XHTML Tutorials</a></li>
 												<li><a href="/subcat/css" title="Tutorials and tips on using Cascading Style Sheets (CSS) to style and lay out your web designs"> CSS Tutorials</a></li>
 												<li><a href="/subcat/javascript" title="Articles and tutorials on using JavaScript, Ajax and the DOM (Document Object Model)"> JavaScript &amp; Ajax Tutorials</a></li>
 												<li><a href="/subcat/xml" title="In-depth articles explaining the usages of XML-based data, processing it and transforming it using XSL XSLT."> XML, XSLT &amp; Web Services</a></li>
+												<li><a href="/subcat/flex" title="Tutorials on how to build Rich Internet Applications in Adobe Flex"> Flex Tutorials</a></li>
 						</ul>
 	<h4><a href="/cat/server-side-coding" title="Creating online applications using server side scripts or code">Server-side Coding</a></h4>
 	<ul>
-									<li><a href="/subcat/asp" title="Tutorials on using Microsoft's ASP and ASP.NET for creating your online web applications"> ASP &amp; .NET Tutorials</a></li>
+									<li><a href="/subcat/other-technologies" title="Tutorials on configuring the two most popular web servers, Apache and IIS, for optimum performance"> Apache &amp; IIS Configuration</a></li>
+												<li><a href="/subcat/asp" title="Tutorials on using Microsoft's ASP and ASP.NET for creating your online web applications"> ASP &amp; .NET Tutorials</a></li>
 												<li><a href="/subcat/perl" title="Tutorials for developing web applications in Perl, and using CGI"> CGI &amp; Perl Tutorials</a></li>
 												<li><a href="/subcat/coldfusion" title="Tutorials and articles related to building online applications using Adobe ColdFusion"> ColdFusion Tutorials</a></li>
 												<li><a href="/subcat/java" title="Creating client-side and server-side applications using Java technology"> Java and J2EE</a></li>
@@ -253,7 +301,6 @@ Australia </address>
 												<li><a href="/subcat/php-reviews" title="Reviews of new or popular PHP and MySQL scripts and applications"> PHP &amp; MySQL Reviews and Apps</a></li>
 												<li><a href="/subcat/ruby" title="Learn how to create web applications using the object oriented Ruby language and the Ruby On Rails framework"> Ruby &amp; Rails</a></li>
 												<li><a href="/subcat/server-side" title="Everything you need to know about server-side development in relation to other languages"> Server Side Essentials</a></li>
-												<li><a href="/subcat/other-technologies" title="Tutorials on configuring the two most popular web servers, Apache and IIS, for optimum performance"> Apache &amp; IIS Configuration</a></li>
 						</ul>
 	<h4><a href="/cat/site-strategy" title="Managing a successful website">Site Strategy</a></h4>
 	<ul>
@@ -276,48 +323,6 @@ Australia </address>
 </div>
 
 </div>
-<div class="product clearfix">
-<h5><a href="http://99designs.com" rel="external">Logo Design, Web page Design and more!</a></h5>
-<h4 style="text-align: center;">
-	<a class="highlight" href="http://99designs.com" rel="external">
-		<img src="/images/ads/99designslogo.png" alt="99designs">
-	</a>
-</h4>
-
-<ul>
-<li>Custom logo designs created ‘just for you’.</li>
-<li>Pick the design you like best. </li>
-<li>Only pay if you’re satisfied with the result.</li>
-</ul>
-
-
-<p class="wrapright"><a href="http://99designs.com" rel="external" class="next">Visit 99designs.com</a></p>
-
-</div>
-<div class="product clearfix">
-
-<h4 style="text-align: center;">
-	<a style="color: #528057;" href="/marketplace/">
-		SitePoint Marketplace
-	</a>
-</h4>
-
-<div class="wrapcenter">
-	<a href="/marketplace/">
-		<img src="http://sitepointstatic.com/images/ads/marketplace/graphic1.png" alt="Buy, Sell, Trade">
-	</a>
-</div>
-
-<p>Buy and sell Websites, templates,
-domain names, hosting, graphics and more.</p>
-
-<p class="wrapright"><a href="/marketplace/" class="next">Tell me more...</a></p>
-
-</div>
- 
-
-<a href="http://www.sitepoint.com/launch/8ab5ac" style="display:block; margin:1em 0; text-align:center"><img src="/images/books/revenue1/revenue1-star.png" alt="The Web Site Revenue Maximizer" width="125" height="162"></a>
-
 
 
 
@@ -328,74 +333,66 @@ domain names, hosting, graphics and more.</p>
 <div id="col3">
 
 <!-- comment -->
-<div id="poster">
-  <div id="inner">
-  <h2>
-  <span id="e">Everything</span>
-  <a href="http://www.sitepoint.com/launch/81f94c"><img src="/images/books/csswrong1/uncle-kev.png" alt="Uncle Kev"></a><a href="http://www.sitepoint.com/launch/81f94c">
-  <span id="y">You</span>
-  <span id="k">Know</span> 
-  <span id="a">About</span> 
-  <span id="c">CSS</span>
-  <span id="i">Is</span>
-  <span id="w">Wrong!</span>
-  </a></h2><a href="http://www.sitepoint.com/launch/81f94c">
-  </a><p><a href="http://www.sitepoint.com/launch/81f94c"></a><a href="http://www.sitepoint.com/launch/81f94c">Find Out Why!</a></p>
-  </div>
-</div>
+<div id="subscribe">
+			<h2><span><span>Follow SitePoint on...</span></span></h2>
+			<ul>
+				<li class="twitter"><a href="http://twitter.com/sitepointdotcom" rel="nofollow">Twitter</a></li>
+				<li class="newsletters"><a href="http://www.sitepoint.com/newsletter/">Newsletters</a></li>
+                <li class="pod"><a href="http://www.sitepoint.com/podcast">Podcast</a></li>
+				<li class="rss"><a href="http://www.sitepoint.com/subscribe">RSS</a></li>
+                <li class="fb"><a href="http://www.facebook.com/sitepoint">Facebook</a></li>
+			</ul>
+		</div>
+<div id="adcol3any"></div>
+			<div id="adflexible"><!-- Filled dynamically by script at end of page --></div> 
+			<div id="ad250x250upper"><!-- Filled dynamically by script at end of page --></div> 
+			<div id="ad250x250middle"><!-- Filled dynamically by script at end of page --></div> 
+			<div id="ad250x250lower"><!-- Filled dynamically by script at end of page --></div> 
+			<div id="ad125x125left" class="ad125x125"><!-- Filled dynamically by script at end of page --></div> 
+			<div id="ad125x125right" class="ad125x125"><!-- Filled dynamically by script at end of page --></div> 
+			<div id="ad120x600left" class="ad120x600"><!-- Filled dynamically by script at end of page --></div> 
+			<div id="ad120x600right" class="ad120x600"><!-- Filled dynamically by script at end of page --></div>
+<div class="line"></div>
 
+		
 
 <div id="newbooklist">
   <p>Download sample chapters of any of our popular books. </p>
   <ul>
+      <li><a href="http://www.sitepoint.com/launch/54ac38/3/157/" title="Find out more about this book"><img src="http://www.sitepointstatic.com/images/books/phpmysql4/books-index.gif" alt="Build Your Own Database Driven Web Site Using PHP &amp;amp; MySQL, 4th Edition" width="83" height="108"></a>
+      <a href="http://www.sitepoint.com/books/phpmysql4/" title="Find out more about this book">Learn PHP the Easy Way!</a>
+      <ul class="newbooklistoptions">
+        <li><a href="http://www.sitepoint.com/launch/54ac38/2/157/" rel="popup|420|580 nofollow" title="Get your FREE sample chapters now">Free Sample</a></li>
+        <li><a href="http://www.sitepoint.com/launch/54ac38/3/157/" title="Find out more about this book" rel="nofollow">More Info</a></li>
+        <li><a href="https://sitepoint.com/bookstore/go/157" title="Add this book to your order here" rel="nofollow">Order Now</a></li>
+      </ul>
+    </li>
       <li><img src="http://www.sitepointstatic.com/images/books/html2/books-index.gif" alt="Build Your Own Web Site The Right Way Using HTML &amp;amp; CSS, 2nd Edition" width="83" height="108">
       <a href="http://www.sitepoint.com/books/html2/" title="Find out more about this book">Start Building Web Sites Like a Pro! </a>
       <ul class="newbooklistoptions">
-        <li><a href="http://www.sitepoint.com/launch/693c9b/2/145/" rel="popup|420|580" title="Get your FREE sample chapters now">Free Sample</a></li>
-        <li><a href="http://www.sitepoint.com/launch/693c9b/3/145/" title="Find out more about this book">More Info</a></li>
-        <li><a href="https://sitepoint.com/bookstore/go/145" title="Add this book to your order here">Order Now</a></li>
+        <li><a href="http://www.sitepoint.com/launch/693c9b/2/145/" rel="popup|420|580 nofollow" title="Get your FREE sample chapters now">Free Sample</a></li>
+        <li><a href="http://www.sitepoint.com/launch/693c9b/3/145/" title="Find out more about this book" rel="nofollow">More Info</a></li>
+        <li><a href="https://sitepoint.com/bookstore/go/145" title="Add this book to your order here" rel="nofollow">Order Now</a></li>
       </ul>
     </li>
       <li><img src="http://www.sitepointstatic.com/images/books/csswrong1/books-index.gif" alt="Everything You Know About CSS Is Wrong!" width="83" height="108">
       <a href="http://www.sitepoint.com/launch/012379/3/144/" title="Find out more about this book">Everything You Know About CSS Is Wrong!</a>
       <ul class="newbooklistoptions">
-        <li><a href="http://www.sitepoint.com/launch/012379/2/144/" rel="popup|420|580" title="Get your FREE sample chapters now">Free Sample</a></li>
-        <li><a href="http://www.sitepoint.com/launch/012379/3/144/" title="Find out more about this book">More Info</a></li>
-        <li><a href="https://sitepoint.com/bookstore/go/144" title="Add this book to your order here">Order Now</a></li>
+        <li><a href="http://www.sitepoint.com/launch/012379/2/144/" rel="popup|420|580 nofollow" title="Get your FREE sample chapters now">Free Sample</a></li>
+        <li><a href="http://www.sitepoint.com/launch/012379/3/144/" title="Find out more about this book" rel="nofollow">More Info</a></li>
+        <li><a href="https://sitepoint.com/bookstore/go/144" title="Add this book to your order here" rel="nofollow">Order Now</a></li>
       </ul>
     </li>
         <li><a href="http://www.sitepoint.com/launch/7771f8/3/83/" title="Find out more about this book"><img src="http://www.sitepointstatic.com/images/books/design1/books-index.gif" alt="The Principles of Beautiful Web Design" width="83" height="108"></a>
       <a href="http://www.sitepoint.com/books/design1/" title="Find out more about this book">Learn How to Create Beautiful Web Sites</a>
       <ul class="newbooklistoptions">
-        <li><a href="http://www.sitepoint.com/launch/7771f8/2/83/" rel="popup|420|580" title="Get your FREE sample chapters now">Free Sample</a></li>
-        <li><a href="http://www.sitepoint.com/launch/7771f8/3/83/" title="Find out more about this book">More Info</a></li>
-        <li><a href="https://sitepoint.com/bookstore/go/83" title="Add this book to your order here">Order Now</a></li>
+        <li><a href="http://www.sitepoint.com/launch/7771f8/2/83/" rel="popup|420|580 nofollow" title="Get your FREE sample chapters now">Free Sample</a></li>
+        <li><a href="http://www.sitepoint.com/launch/7771f8/3/83/" title="Find out more about this book" rel="nofollow">More Info</a></li>
+        <li><a href="https://sitepoint.com/bookstore/go/83" title="Add this book to your order here" rel="nofollow">Order Now</a></li>
       </ul>
     </li>
-        <li><a href="http://www.sitepoint.com/launch/54ac38/3/1/" title="Find out more about this book"><img src="http://www.sitepointstatic.com/images/books/phpmysql1/books-index.gif" alt="Build Your Own Database Driven Website Using PHP &amp; MySQL" width="83" height="108"></a>
-      <a href="http://www.sitepoint.com/books/phpmysql1/" title="Find out more about this book">Learn PHP the Easy Way!</a>
-      <ul class="newbooklistoptions">
-        <li><a href="http://www.sitepoint.com/launch/54ac38/2/1/" rel="popup|420|580" title="Get your FREE sample chapters now">Free Sample</a></li>
-        <li><a href="http://www.sitepoint.com/launch/54ac38/3/1/" title="Find out more about this book">More Info</a></li>
-        <li><a href="https://sitepoint.com/bookstore/go/1" title="Add this book to your order here">Order Now</a></li>
-      </ul>
-    </li>
-          <li><a href="http://www.sitepoint.com/launch/dfbecf/3/112/" title="Find out more about this book"><img src="http://www.sitepointstatic.com/images/books/cssant2/books-index.gif" alt="The CSS Anthology: 101 Essential Tips, Tricks &amp;amp; Hacks, 2<sup>nd</sup> Edition" width="83" height="108"></a>
-      <a href="http://www.sitepoint.com/books/cssant2/" title="Find out more about this book">101 CSS Tips, Tricks &amp; Hacks</a>
-      <ul class="newbooklistoptions">
-        <li><a href="http://www.sitepoint.com/launch/dfbecf/2/112/" rel="popup|420|580" title="Get your FREE sample chapters now">Free Sample</a></li>
-        <li><a href="http://www.sitepoint.com/launch/dfbecf/3/112/" title="Find out more about this book">More Info</a></li>
-        <li><a href="https://sitepoint.com/bookstore/go/112" title="Add this book to your order here">Order Now</a></li>
-      </ul>
-    </li>
-        <li><a href="http://www.sitepoint.com/launch/e34fe7/3/54/" title="Find out more about this book"><img src="http://www.sitepointstatic.com/images/books/html1/books-index.gif" alt="Build Your Own Web Site The Right Way Using HTML &amp;amp; CSS" width="83" height="108"></a>
-      <a href="http://www.sitepoint.com/books/html1/" title="Find out more about this book">Build Your First Web Site</a>
-      <ul class="newbooklistoptions">
-        <li><a href="http://www.sitepoint.com/launch/e34fe7/2/54/" rel="popup|420|580" title="Get your FREE sample chapters now">Free Sample</a></li>
-        <li><a href="http://www.sitepoint.com/launch/e34fe7/3/54/" title="Find out more about this book">More Info</a></li>
-        <li><a href="https://sitepoint.com/bookstore/go/54" title="Add this book to your order here">Order Now</a></li>
-      </ul>
-    </li>
+    
+          
    
   </ul>
 </div>
@@ -417,6 +414,15 @@ domain names, hosting, graphics and more.</p>
 </div>
 
 
+
+
+<div id="designer99" class="ad99">
+			<h5><a href="http://99designs.com/categories/twitter-background-design " title="Visit 99designs.com">Custom Twitter Backgrounds </a></h5>
+			<p><a href="http://99designs.com/categories/twitter-background-design " title="Visit 99designs.com">Choose from dozens, created just for you. From $149. </a></p>
+			<h4><a href="http://99designs.com/categories/twitter-background-design " title="Visit 99designs.com">99designs</a></h4>
+
+		</div>
+<!-- -->
 
 
 
@@ -445,16 +451,16 @@ domain names, hosting, graphics and more.</p>
 <div id="tertiary">
 
 <ul>
-	<li><a href="/mediakit">Advertise</a> </li>
-	<li><a href="/about/">About Us</a> </li>
+	<li><a href="/mediakit" rel="nofollow">Advertise</a> </li>
+	<li><a href="/about/" rel="nofollow">About Us</a> </li>
 	<li><a href="/contact">Contact Us</a> </li>
-	<li><a href="/sitemap" accesskey="3">Site Map</a> </li>
-	<li><a href="/about/writeforus">Write For Us</a> </li>
-	<li><a href="/syndication/">RSS</a> </li>
-	<li><a href="/newsletter/">Newsletters</a> </li>
-	<li><a href="/search/search.php" accesskey="4">Search</a> </li>
+	<li><a href="/sitemap" accesskey="3" rel="nofollow">Site Map</a> </li>
+	<li><a href="/about/writeforus" rel="nofollow">Write For Us</a> </li>
+	<li><a href="/syndication/" rel="nofollow">RSS</a> </li>
+	<li><a href="/newsletter/" rel="nofollow">Newsletters</a> </li>
+	<li><a href="/search/search.php" accesskey="4" rel="nofollow">Search</a> </li>
 	<li><a href="/privacy/" accesskey="8">Privacy</a> </li>
-	<li><a href="/glossary.php?q=A">Glossary</a> </li>
+	<li><a href="/glossary.php?q=A" rel="nofollow">Glossary</a> </li>
 	<li><a href="/about/terms.php/">Terms &amp; Conditions</a> </li>
 	<li><a href="/about/jobs/">Jobs</a> </li>
 </ul>
@@ -476,7 +482,6 @@ SitePoint Pty. Ltd. All Rights Reserved.</p>
 _uacct = "UA-30131-1";
 urchinTracker();
 </script>
-
 
 
 
