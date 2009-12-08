@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the myshopping.com.au privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422135917id_/http%3A//www.myshopping.com.au/2B--privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myshopping.com.au privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208065405id_/http%3A//www.myshopping.com.au/2B--privacy) for the most accurate reproduction.*
 
-# Your Privacy - MyShopping.com.au
+# Your Privacy - MyShopping.com.au - Christmas
 
-### [Home](https://web.archive.org/) > Privacy Policy
+### [Online Shopping](https://web.archive.org/) > Privacy Policy
 
 June 22, 2007
 
