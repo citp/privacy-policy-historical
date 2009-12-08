@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discoversd.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605101048id_/http%3A//www.discoversd.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoversd.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208050023id_/http%3A//www.discoversd.com/privacy-policy.html) for the most accurate reproduction.*
 
 # DiscoverSD.com Privacy Policy - San Diego
 
