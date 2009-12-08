@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the identi.ca privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616104530id_/http%3A//identi.ca/doc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the identi.ca privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208090304id_/http%3A//identi.ca/doc/privacy) for the most accurate reproduction.*
 
 # Privacy - Identi.ca
 
