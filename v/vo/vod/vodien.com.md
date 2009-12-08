@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vodien.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615173536id_/http%3A//www.vodien.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodien.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208071048id_/http%3A//www.vodien.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Web Hosting Provider | Domain Registration
+# Privacy Policy | Hosting Web | Web Hosting Sites
 
-Vodien Internet Solutions respects the privacy of each individual that visits our website. This privacy statement provides our visitors and customers with information on how Vodien Internet Solutions protects the information supplied by each. 
+Vodien Internet Solutions respects the privacy of each individual that visits our website. Vodien Internet Solutions promises not to disclose personal or business information to third parties without the express permission of You and Your company. We will not sell Your name, e-mail address, phone number, or any other personal information to anyone else. We consider this information to be private, and it will remain as such. This privacy statement provides our visitors and customers with information on how Vodien Internet Solutions protects the information supplied by each. 
 
 **Information Collection**
 
@@ -79,3 +79,5 @@ If we decide to change our privacy policy, we will post those changes to this pr
   
 **Contact Information  
 **Questions regarding this privacy policy may be directed to [contact@vodien.com](mailto:contact@vodien.com).
+
+The above stated Privacy Policy is correct as of **23 Nov 2009**.
