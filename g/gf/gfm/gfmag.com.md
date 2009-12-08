@@ -1,49 +1,30 @@
-> *The following text is extracted and transformed from the gfmag.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608005917id_/http%3A//www.gfmag.com/c_to/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gfmag.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208023536id_/http%3A//www.gfmag.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy Statement
+# Privacy Policy - Global Finance magazine
 
-This is the web site of **Global Finance Media, Inc.**
+We at Global Finance Media (GFM) consider our clients’ privacy to be a top priority, and as such we have developed this Online Privacy Policy.  This Policy details what information we collect, how it is collected, for what purposes it is collected, and the steps we take to secure this information.
 
-We can be reached via e-mail at [**_mailbox@gfmag.com_**](mailto:gfmail@gfmag.com) or you can reach us by telephone at 212-447-7900. 
+If you have questions about this Policy, or if you believe that this Policy has not been adhered to, please e-mail us at mailbox@gfmag.com or call us at (212) 447-7900.
 
-For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address. 
+We at GFM recognize that you value your privacy and that when you provide us with your personal information, you place your trust and confidence in us.  To that end, we have implemented appropriate security measures at our physical facilities to guard against the loss, misuse or alteration of the information we have collected from you through the website http://www.gfmag.com and all of its subpages.   
+The website automatically logs all visitors. However, no information is automatically collected which identifies any visitor by domain or e-mail address, nor by any other unique identifier.  Be assured that this information is never shared with any third parties for any purpose without your consent.
 
-We collect information volunteered by the consumer, such as survey information and/or site registrations. 
+Beyond the data automatically collected by the website, GFM retains only that personal information which our clients volunteer (for example, information provided in a voluntary survey on the website, or provided in registering for the website).  Such information may include your name, e-mail address, telephone number, or postal address.
 
-The information we collect is shared with other reputable organizations to help them contact consumers for marketing purposes, used by us to contact consumers for marketing purposes. 
+If you choose to provide us with your e-mail address, you may receive periodic e-mails from GFM with information about new products, services or upcoming events.  You may opt not to receive these e-mails by e-mailing us your exact name and e-mail address (to ensure the proper entry is removed from our system), as well as a message asking to have your e-mail address removed from the list, at mailbox@gfmag.com. 
 
-With respect to cookies: We do not set any cookies. 
+GFM may, at times, share e-mail addresses provided by our clients with reputable third party organizations which we believe provide products or services our clients may find interesting or appealing.  We are very selective when determining whether a third party organization is worthy of being entrusted with our clients’ personal information, and we hold those organizations with whom we do share such information to high security and ethical standards To have your e-mail address removed from the list we occasionally share with third party organizations, please send an e-mail asking to be removed from the third party organization e-mailing list, as well as your name and e-mail address, to mailbox@gfmag.com. 
 
-If you do not want to receive e-mail from us in the future, please let us know by writing to us at the above address. 
+If you choose to provide us with your postal address, you may receive periodic mailings from GFM with information about new products, services or upcoming events.  You may opt not to receive these mailings by e-mailing us your exact name and address (to ensure the proper entry is removed from our system), as well as a message asking to have your address removed from the mailing list, at mailbox@gfmag.com. 
 
-From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by writing to us at the above address. 
+GFM may, at times, share postal addresses provided by our clients with reputable third party organizations (subject to the same selection criteria as those organizations with which we share e-mail addresses) to provide our clients with information regarding products and services we believe you may find interesting.  To have your address removed from the list we occasionally share with third party organizations, please send an e-mail asking to be removed from the third party organization mailing list, as well as your name and mailing address, to mailbox@gfmag.com. 
 
-From time to time, we make our customer e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by writing to us at the above address. 
+If you choose to provide us with your telephone number, you may receive calls from GFM with information about new products, services or upcoming events.  You may opt not to receive these phone calls by e-mailing us your exact name and phone number (to ensure the proper entry is removed from our system), as well as a message asking to have your phone number removed from the list, at mailbox@gfmag.com.
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by writing to us at the above address. 
+GFM may, at times, share telephone numbers our clients provide with reputable third party organizations (subject to the same selection criteria as those organizations with which we share e-mail addresses) to provide our clients with information regarding products and services we believe you may find interesting.  To have your phone number removed from the list we occasionally share with third party organizations, please send an e-mail asking to be removed from the third party organization phone number list, as well as your name and phone number, to mailbox@gfmag.com. 
 
-you may receive mailings from other reputable companies. You can, however, have your name put on our do-not-share list by writing to us at the above address. 
+If your personal information changes, or if you believe that GFM’s records have inaccurately recorded your personal information, please send an e-mail detailing the outdated/incorrect information and the updated/correct information to mailbox@gfmag.com. 
 
-Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations. 
+Be aware that GFM may use our clients’ information for unanticipated purposes not disclosed in this Policy.  We assure you that these uses will always be highly respectful of your privacy concerns and will be subject to the ethical standards of this Policy.  Additionally, if our practices regarding clients’ information changes, this Policy will be updated in a reasonable time and only data collected from the time of the Policy change going forward will be used in the new fashion.  In the event that this Policy changes, we will send an e-mail to all of our clients who have provided an e-mail address informing them of the change.
 
-Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by writing to us at the above address. 
-
-Persons who supply us with their telephone numbers on-line may receive telephone contact from other reputable companies. You can, however, have your name put on our do-not-share list by writing to us at the above address. 
-
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
-
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will use for these new purposes only data collected from the time of the policy change forward. 
-
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by writing us at the above address. 
-
-Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them. 
-
-Consumers can access this information by writing to us at the above address. 
-
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information. 
-
-Consumers can have this information corrected by writing to us at the above address. 
-
-With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. 
-
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number. 
+We remind you that questions, comments or concerns regarding this Policy, or reports of possible violations of this Policy, can be brought to our attention via e-mail at mailbox@gfmag.com or by telephone at (212) 447-7900.
