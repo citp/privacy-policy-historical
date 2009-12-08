@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onetruemedia.com privacy policy that was archived on 2009-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090324093527id_/http%3A//www.onetruemedia.com/otm_site/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onetruemedia.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208065919id_/http%3A//www.onetruemedia.com/otm_site/privacypolicy) for the most accurate reproduction.*
 
 # One True Media - Privacy Policy
 
@@ -106,4 +106,4 @@ We reserve the right to disclose your personally identifiable information as req
 
 ### How to contact us 
 
-We value your opinion about out privacy policy. Should you have questions or concerns, please call our Customer Care line at 1-866-MY1TRUE (1-866-691-8783), send an email to [customercare@onetruemedia.com](mailto:customercare@onetruemedia.com), or mail One True Media, Inc., 955-A Charter St., Redwood City, CA 94063.
+We value your opinion about out privacy policy. Should you have questions or concerns, please call our Customer Care line at 1-866-MY1TRUE (1-866-691-8783), send an email to [customercare@onetruemedia.com](mailto:customercare@onetruemedia.com), or mail One True Media, Inc., 2694-A Middlefield Road, Redwood City, CA 94063.
