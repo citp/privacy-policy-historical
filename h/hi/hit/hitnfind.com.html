@@ -1,15 +1,17 @@
-<!--The following is the downloaded HTML source of the hitnfind.com privacy policy that was archived on 2009-03-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090331120233id_/http%3A//hitnfind.com/docs/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hitnfind.com privacy policy that was archived on 2009-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091208040246id_/http%3A//www.hitnfind.com/docs/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <!--?php
 require_once('../scripts/nixxiexmlclient.php');
 require_once('../scripts/settings.php');
+include "../functions.php";
 ?-->
 <script type="text/javaScript" src="../includes/scripts.js"></script>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 <title>HitNFind</title>
+<script type="text/javascript" src="../functions_js.js"></script>
 
 <link href="../css/style2.css" rel="stylesheet" type="text/css">
 <!--[if lt IE 7]>
@@ -41,7 +43,7 @@ require_once('../scripts/settings.php');
       <div id="search">
         <form id="form1" name="form1" method="post" action="../search.php" class="searchText">
           <label>Search for:</label>
-          <input name="keyword" type="text" class="searchBox" size="25">
+          <input name="keyword" type="text" class="searchBox" size="25" value="search" onclick="javascript:resetKeywordTxt(this.value);" onblur="javascript:emptyKeywordTxt();">
           <input type="image" name="Submit" src="../images/button_go.jpg" value="GO" class="searchButton">
         </form>
       </div>
