@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rotowire.com privacy policy that was archived on 2009-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090506172804id_/http%3A//www.rotowire.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rotowire.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208054110id_/http%3A//www.rotowire.com/privacy.htm) for the most accurate reproduction.*
 
 # RotoWire Privacy Policy
 
@@ -22,7 +22,7 @@ If you purchase a subscription to RotoWire.com or any products on the site, you 
 
 _Internet Cookies_
 
-We use cookies to collect anonymous traffic data. 
+You should be aware that information and data may be automatically collected through the use of Cookies. "Cookies" are small text files that store basic information that a web site can use to recognise repeat site visits and as an example, re-call your name if this has been previously supplied. We may use this to observe behaviour and compile aggregate data in order to improve the Site, target the advertising and assess general effectiveness of such advertising. Cookies do not attach to your system and damage your files. If you do not want information collected through the use of Cookies, there is a simple procedure in most browsers that allows you to deny or accept the Cookie feature. However, a full subscription to RotoWire.com requires that your browser enable cookies or your access to the site likely won't work. In addition, some of the third-party advertisers and ad networks we run on our sites use cookies. Information on how to opt out of those cookies is below. 
 
 **HOW DOES ROTO SPORTS, INC. USE THE INFORMATION IT COLLECTS?**
 
@@ -40,7 +40,7 @@ Should you change your mind about the information you've provided to us or shoul
 
 We implement a variety of security measures to ensure the security of your personal information on our systems. Member personal information is contained behind secured networks and is only accessible by a limited number of employees who have special access rights to such systems. 
 
-To ensure compliance with updated security technology, we recommend using one of the following browsers, each of which can be downloaded free of charge: Netscape Navigator (http://www.netscape.com), or Microsoft Internet Explorer (http://www.microsoft.com/ie). To ensure the highest level of security available today, we suggest that you choose the 128-bit encryption version from the download options. If you do not have access to a browser that supports at least 48-bit encryption, your information may not be processed by our servers, or may not be securely transferred through your web browser to our servers. 
+To ensure compliance with updated security technology, we recommend using one of the following browsers, each of which can be downloaded free of charge: Mozilla Firefox (http://www.firefox.com), or Microsoft Internet Explorer (http://www.microsoft.com/ie). To ensure the highest level of security available today, we suggest that you choose the 128-bit encryption version from the download options. If you do not have access to a browser that supports at least 48-bit encryption, your information may not be processed by our servers, or may not be securely transferred through your web browser to our servers. 
 
 Unfortunately, when you submit information to us (or to any other web site) over the Internet, the information may travel over many networks and systems that are not under our control and, during such time, can be intercepted. As a result, while we strive to protect your personal information, Roto Sports, Inc. can't ensure or warrant the security of any information you transmit to us and you do so at your own risk. Further, anything you voluntarily provide in any public area of the Internet, including on the Roto Sports, Inc. Network, will be publicly available to other visitors on that web site and potentially to other third parties, and you should always exercise caution when deciding to publicly disclose any of your personal information. 
 
@@ -57,6 +57,16 @@ Attn: Customer Service
 210 N. Bassett St. Suite #230  
 Madison, WI 53703
 
+**THIRD-PARTY BANNER ADVERTISING OPT OUT**
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. 
+
+You may opt out of some tracking cookies that will be able to identify you on third-party ad networks we feature by using the following links: 
+
+<http://www.quantcast.com/docs/display/legal/Opt-out+of+Quantcast+Delivery>   
+<http://www.networkadvertising.org/managing/opt_out.asp>  
+<http://valueclickmedia.com/member_privacy.shtml>
+
 **HOW DO YOU COLLECT AND USE INFORMATION FROM CHILDREN UNDER 13 YEARS OF AGE??**
 
 Pursuant to the provisions of the Federal Children's Online Privacy Protection Act (COPPA), we do not collect personal identifiable information from children under thirteen years of age without the consent of a parent or legal guardian. Thus, when a guest under 13 years of age registers, he/she is required to provide the email address of his/her parent (or legal guardian). We then contact the parent (or legal guardian) and alert them to the child's registration. We require the parent or guardian to validate the account in order for the potential member to become a registered member. However, even after an account has been validated, no personally identifiable information collected from guests under the age of thirteen will ever be sold or provided to any third parties, or used for any marketing or promotional purposes. In addition, parents may request to review the personally identifiable information collected from their child, may ask to have that information deleted, and may refuse to allow further collection or use of their child's personally identifiable information at any time. To request such review or to give instructions regarding the personally identifiable information we have collected about a child, parents/legal guardians should contact us in one of the ways mentioned above in the section entitled "How do you opt out? How do you change the information we have for you?" or in the section below entitled "Questions? Contact Us." 
@@ -69,7 +79,7 @@ We also make chat rooms, forums and message boards available to you on the Roto 
 
 **YOUR CONSENT**
 
-By using our web site, you consent to the collection and use of information by Roto Sports, Inc. as set forth in this privacy statement. If we decide to change our privacy policy, we will post those changes on this page so that you will always be aware of what information we collect, how we use it, and under what limited circumstances we disclose it. Continued access or use of the web site shall constitute your express acceptance of any modifications to this privacy statement. 
+By using our web site, you consent to the collection and use of information by Roto Sports, Inc. as set forth in this privacy statement. If we decide to change our privacy policy, we will post those changes on this page so that you will always be aware of what information we collect, how we use it, and under what limited circumstances we disclose it. This policy was last updated Oct. 21, 2009. Continued access or use of the web site shall constitute your express acceptance of any modifications to this privacy statement. 
 
 **QUESTIONS? CONTACT US**
 
