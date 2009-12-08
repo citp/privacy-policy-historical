@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyewitnesstohistory.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422234733id_/http%3A//www.eyewitnesstohistory.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyewitnesstohistory.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208224824id_/http%3A//www.eyewitnesstohistory.com/privacy.htm) for the most accurate reproduction.*
 
 # EyeWitness to History - Index
 
@@ -9,7 +9,7 @@ We are firmly committed to maintaining your privacy.
 
 **Advertisers**
 
-We have contracted with various outside ad agencies to display ads on our site. These ads may contain monitoring technologies to compile anonymous statistics about our website visitors. These ads appear to be coming from our site, but in reality they are coming from our partners who are serving ads on our site. We do not have access to any of this information.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [ click here.](http://www.networkadvertising.org/managing/opt_out.asp)
 
 For more about how the information is collected and used by our ad agencies, please click each agency listed below:
 
@@ -32,6 +32,7 @@ This site contains links to other sites - We are not responsible for the privacy
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
 Ibis Communications, Inc.   
-9400 Snowden River Pkwy. Ste. 110  
-Columbia MD, 21045  
+Hillcrest House  
+92 Hillcrest Ave.  
+Geneva, NY 14456  
 ibiscom@ibiscom.com 
