@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qualispace.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608071321id_/http%3A//www.qualispace.com/corporate-info/Legal/Privacy_Statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualispace.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208235318id_/http%3A//www.qualispace.com/corporate-info/Legal/Privacy_Statement.htm) for the most accurate reproduction.*
 
 # QualiSpace: Privacy Statement
 
