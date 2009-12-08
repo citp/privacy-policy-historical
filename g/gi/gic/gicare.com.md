@@ -1,12 +1,9 @@
-> *The following text is extracted and transformed from the gicare.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524023052id_/http%3A//www.gicare.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gicare.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208055519id_/http%3A//www.gicare.com/privacy.aspx) for the most accurate reproduction.*
 
 # Jackson Siegelbaum Gastroenterology
 
-|   
----  
-  
 **Notice of Privacy Practices for Jackson Siegelbaum Gastroenterology  
-** effective july 1, 2006. 
+** effective july 1, 2006 
 
 **This notice describes how medical information about you may be used and disclosed and how to get access to this information.  
 Please read it carefully.**
@@ -131,8 +128,6 @@ We may use protected health information about you in the process of de-identifyi
 We may disclose protected health information as a by-product of an otherwise permitted use or disclosure. For example, other patients may overhear your name being called in the waiting room. 
     3. **Uses and disclosures with authorization**  
 For all other purposes that do not fall under a category listed under sections III.A and III.B, we will obtain your written authorization to use or disclose your protected health information. Your authorization can be revoked at any time except to the extent that we have relied on the authorization. 
-  
-
   3. **PATIENT PRIVACY RIGHTS**  
 
     1. **Further restriction on use or disclosure**  
