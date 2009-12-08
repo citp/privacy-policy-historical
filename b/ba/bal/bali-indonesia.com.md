@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bali-indonesia.com privacy policy that was archived on 2009-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090516082238id_/http%3A//www.asiawebdirect.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bali-indonesia.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208035432id_/http%3A//www.asiawebdirect.com/privacy.htm) for the most accurate reproduction.*
 
 # AWD Privacy Policy of Asia Web Direct
 
