@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thebaseballcube.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602170339id_/http%3A//www.thebaseballcube.com/help/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebaseballcube.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208161939id_/http%3A//thebaseballcube.com/help/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - TBC Help
 
  
 
-[Help Topics](https://web.archive.org/web/20090602170339id_/http%3A//www.thebaseballcube.com/help/index.shtml)
+[Help Topics](https://web.archive.org/web/20091208161939id_/http%3A//thebaseballcube.com/help/index.shtml)
 
 The Baseball Cube understands that when you submit information about yourself to us that you wish for it to remain private and thus, we are committed to insuring that any information sent to us remains confidential. Any time we request specific information from you via a web form, we intend to use the data precisely for its intended outlined purpose. This document will further clarify our intentions. 
 
@@ -18,4 +18,4 @@ Third Party Advertising: In addition to affiliate product advertisements on the 
 
 Third Party Cookies: In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
 
-For questions about our privacy policy, please [Contact Us](https://web.archive.org/web/20090602170339id_/http%3A//www.thebaseballcube.com/contact_us.shtml)
+For questions about our privacy policy, please [Contact Us](https://web.archive.org/web/20091208161939id_/http%3A//thebaseballcube.com/contact_us.shtml)
