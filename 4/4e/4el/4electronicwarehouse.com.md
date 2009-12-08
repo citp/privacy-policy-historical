@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the 4electronicwarehouse.com privacy policy that was archived on 2008-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081015044617id_/http%3A//www.4electronicwarehouse.com/service/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4electronicwarehouse.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208111020id_/http%3A//www.4electronicwarehouse.com/service/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
-
-[](https://web.archive.org/emailpage.php?link=/service/privacy-statement.html&title=Privacy+Statement)
 
 Your Electronic Warehouse has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: **[4ElectronicWarehouse.com](http://www.4electronicwarehouse.com/)**. 
 
@@ -61,20 +59,19 @@ If you have any questions about this privacy statement, the practices of this si
 
 Your Electronic Warehouse 2828 Broadway Quincy, IL 62301 (217) 224-6171 [customerservice@4electronicwarehouse.com](mailto:customerservice@4electronicwarehouse.com)
 
-[](https://web.archive.org/emailpage.php?link=%2Fservice%2Fprivacy-statement.html&title=Privacy+Statement)
-
 Questions? Call us toll-free 1-866-224-6171.  
 
 
   
-[](http://www.4electronicwarehouse.com/service/payment-options.html) |  [ ](http://www.bizrate.com/ratings_guide/cust_reviews__mid--30826.html) |  [](http://www.pricegrabber.com/rating_getreview.php/retid=469) |  [](https://www.scanalert.com/RatingVerify?ref=www.4electronicwarehouse.com)   
-[](http://www.nextag.com/Your+Electronic+Warehouse~153170zzzreviewsz1zmainz17-htm)   
-|  [](http://www.bbbonline.org/cks.asp?id=1060307151215)   
-[](http://www.1stinvideomusicworld.com/blog/your-electronic-warehouse-ranks-among-the-top-50-fastest-growing-e-retailers/) |  [](http://www.1stinvideomusicworld.com/blog/your-electronic-warehouse-included-in-internet-retailers-hot-100-best-retail-websites/)  
----|---|---|---|---|---  
+[](https://web.archive.org/brands/bose)| [](https://web.archive.org/brands/monster)| [](https://web.archive.org/brands/pioneer)| [](https://web.archive.org/brands/niles)| [](https://web.archive.org/brands/yamaha)| [](https://web.archive.org/brands/boston-acoustics)| [](https://web.archive.org/brands/shure)| [](https://web.archive.org/brands/sennheiser) | [More...](https://web.archive.org/brand.php)  
+---|---|---|---|---|---|---|---|---  
+[ ](http://www.4electronicwarehouse.com/service/payment-options.html) |  [ ](http://www.4electronicwarehouse.com/blog/your-electronic-warehouse-wins-bizrate-circle-of-excellence-award.html) |  [ ](http://www.bizrate.com/ratings_guide/cust_reviews__mid--30826.html) |  [ ](http://www.pricegrabber.com/rating_getreview.php/retid=469) |  [ ](https://www.scanalert.com/RatingVerify?ref=www.4electronicwarehouse.com)   
+[ ](http://www.bbbonline.org/cks.asp?id=1060307151215)   
+|  [ ](http://www.1stinvideomusicworld.com/blog/your-electronic-warehouse-ranks-among-the-top-50-fastest-growing-e-retailers/) |  [ ](http://www.1stinvideomusicworld.com/blog/your-electronic-warehouse-included-in-internet-retailers-hot-100-best-retail-websites/)  
+---|---|---|---|---|---|---  
   
 
 
-  * [Yamaha YST-FSW150 Subwoofer](http://www.4electronicwarehouse.com/products/yamaha/yst-fsw150.html)
+  * [Yamaha DVD-S661 DVD Player](http://www.4electronicwarehouse.com/products/yamaha/dvd-s661.html)
 
 
