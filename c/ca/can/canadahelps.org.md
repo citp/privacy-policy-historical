@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadahelps.org privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622131841id_/http%3A//www.canadahelps.org/InfoPages/PrivacyHome.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadahelps.org privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208191028id_/http%3A//www.canadahelps.org/InfoPages/PrivacyHome.aspx) for the most accurate reproduction.*
 
 # CanadaHelps - Privacy and Security
 
