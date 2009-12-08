@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igenic.net privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614002045id_/http%3A//www.igenic.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igenic.net privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208183653id_/http%3A//www.igenic.net/privacy.php) for the most accurate reproduction.*
 
 # IGENIC Advertising Network, Free Web advertising, Free Marketing, Free Business Advertising
 
