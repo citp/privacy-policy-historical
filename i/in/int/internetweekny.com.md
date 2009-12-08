@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetweekny.com privacy policy that was archived on 2009-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090329111444id_/http%3A//staging.internetweekny.com/home/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetweekny.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208235249id_/http%3A//www.internetweekny.com/home/privacy_policy) for the most accurate reproduction.*
 
 # Internet Week New York - June 1-8, 2009 - Privacy Policy
 
