@@ -1,0 +1,11 @@
+> *The following text is extracted and transformed from the governing.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208021408id_/http%3A//www.governing.com/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy | GOVERNING
+
+GOVERNING respects each individual's right to personal privacy. We will collect and use information through our Web site only in the ways disclosed in this statement. This statement applies solely to information collected at GOVERNING's Web sites. GOVERNING is not responsible for sites linked to us, nor sites that we link to.
+
+GOVERNING collects information through our Web sites at several points. We gather general visitor IP information for the purposes of statistical reporting only. This process does not identify individual users. The data is used only to measure Web site traffic and traffic patterns. Only aggregate traffic data will be shared with GOVERNING partners; the traffic pattern of an individual visitor is never shared. Aggregate traffic data pertaining to individual partners is shared only with those partners.
+
+Your personal information is only collected when you complete a request for a GOVERNING subscription, purchase a product or register for a GOVERNING event. This information is used for follow-ups, including subscription renewals, order confirmations and subscriber surveys. In addition, GOVERNING, its partners and other third parties may occasionally contact you regarding related products or events that may be of interest to you. If at any time, you prefer not to receive e-mail information from GOVERNING, simply follow the unsubscribe link at the bottom of any e-mail. You may also unsubscribe to most GOVERNING e-mail services via [gov@omeda.com](mailto:gov@omeda.com) or (866) 955-4688 (for GOVERNING.com Daily, please use the link provided at the bottom of each day's newsletter). From time to time, GOVERNING may share portions of our mailing list to reputable third parties whose products or services may be of interest to you. If you do not want us to share your information please contact [gov@omeda.com](mailto:gov@omeda.com) or (866) 955-4688.
+
+These policies are subject to change at any time without notice. Current privacy policies will always be posted here.
