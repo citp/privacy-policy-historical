@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nuts.co.uk privacy policy that was archived on 2009-05-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090506175608id_/http%3A//www.nuts.co.uk/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nuts.co.uk privacy policy that was archived on 2009-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091208053449id_/http%3A//www.nuts.co.uk/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy Policy | nuts.co.uk</title>
@@ -13,17 +13,74 @@
 <link href="http://akamai-static.nuts.co.uk/themes/default/css/navigation.css" rel="stylesheet" type="text/css" media="screen">
 <link href="http://akamai-static.nuts.co.uk/themes/default/css/rightpanel.css" rel="stylesheet" type="text/css" media="screen">
 <link href="http://akamai-static.nuts.co.uk/themes/default/css/footer.css" rel="stylesheet" type="text/css" media="screen">
-<link href="http://akamai-static.nuts.co.uk/themes/default/css/takeover.css" rel="stylesheet" type="text/css" media="screen">
-<link href="http://akamai-static.nuts.co.uk/themes/default/css/content.css" rel="stylesheet" type="text/css" media="screen">
-<script type="text/javascript" src="http://akamai-static.nuts.co.uk/js/yui/yahoo/yahoo-min.js"></script> 
-<script type="text/javascript" src="http://akamai-static.nuts.co.uk/js/yui/event/event-min.js"></script> 
-<script type="text/javascript" src="http://akamai-static.nuts.co.uk/js/yui/connection/connection-min.js"></script>
-<script type="text/javascript" src="http://akamai-static.nuts.co.uk/js/email_subscribe.js"></script>
+<link href="http://akamai-static.nuts.co.uk/themes/default/css/thickbox.css" rel="stylesheet" type="text/css" media="screen">
+<link href="http://akamai-static.nuts.co.uk/themes/takeovers/default/takeover.css" rel="stylesheet" type="text/css" media="screen"><link href="http://akamai-static.nuts.co.uk/themes/default/css/content.css" rel="stylesheet" type="text/css" media="screen">
+<script type="text/javascript" language="JavaScript" src="http://akamai-static.nuts.co.uk/js/yui/yahoo/yahoo-min.js"></script> 
+<script type="text/javascript" language="JavaScript" src="http://akamai-static.nuts.co.uk/js/yui/event/event-min.js"></script> 
+<script type="text/javascript" language="JavaScript" src="http://akamai-static.nuts.co.uk/js/yui/connection/connection-min.js"></script>
+<script type="text/javascript" language="JavaScript" src="http://akamai-static.nuts.co.uk/js/yui/cookie/cookie-min.js"></script>
+<script type="text/javascript" language="JavaScript" src="http://akamai-static.nuts.co.uk/js/jquery/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" language="JavaScript" src="http://akamai-static.nuts.co.uk/js/jquery/jquery.hoverIntent.minified.js"></script>
+<script type="text/javascript" language="JavaScript" src="http://akamai-static.nuts.co.uk/js/jquery/jquery.validate.min.js"></script>
+<script type="text/javascript" language="JavaScript" src="http://akamai-static.nuts.co.uk/js/jquery/jcarousellite.js"></script>
+<script type="text/javascript" language="JavaScript" src="http://akamai-static.nuts.co.uk/js/jquery/jquery.pngFix.pack.js"></script>
+<script type="text/javascript" language="JavaScript" src="http://akamai-static.nuts.co.uk/js/jquery/thickbox.js"></script>
+<script type="text/javascript" language="JavaScript" src="http://akamai-static.nuts.co.uk/js/jquery/jquery.form.js"></script>
+<script type="text/javascript" language="JavaScript" src="http://akamai-static.nuts.co.uk/js/jquery/jquery.hotkeys-0.7.9.min.js"></script>
+<script type="text/javascript" language="JavaScript" src="http://akamai-static.nuts.co.uk/js/nuts.js"></script>
 
-</head>
+
+<script type="text/javascript">
+	
+	$(document).ready(function(){
+		if($('div.scrollcontainer').length>0){
+			$.get('application/scroller',function(data){
+				$('div.scrollcontainer').fadeOut('slow', function(){
+					$('div.scrollcontainer').html(data);
+					$('div.scrollcontainer').fadeIn('slow');
+					$(".scroll").jCarouselLite({
+						btnNext: ".scrollerNext",
+						btnPrev: ".scrollerPrev",
+						visible: 5,
+						scroll: 5,
+						speed: 800
+					});
+					$(this).css('backgroundImage','url(/themes/default/background/carousel-bg.jpg)');
+					$('.scroller').pngFix();
+				})
+			})
+		}
+		if($('div.prev_next').length>0){
+		    $(document).bind('keydown', 'left', function(){
+			var href = $('p.prev a.prev').attr('href');
+			window.location.replace(href);
+		    });
+		    $(document).bind('keydown', 'right', function(){
+			var href = $('p.next a.next').attr('href');
+			window.location.replace(href);
+		    });
+		}else if($('li.previous').length>0){
+		    $(document).bind('keydown', 'left', function(){
+			var href = $('li.previous a').attr('href');
+			window.location.replace(href);
+		    });
+		    $(document).bind('keydown', 'right', function(){
+			var href = $('li.next a').attr('href');
+			window.location.replace(href);
+		    });
+		}
+	})
+	
+</script><link href="http://feeds2.feedburner.com/NutsHome" type="application/rss+xml" rel="alternate" title="Best of Nuts Feed">
+<link href="http://feeds2.feedburner.com/NutsGirls" type="application/rss+xml" rel="alternate" title="Nuts Girls Feed">
+<link href="http://feeds2.feedburner.com/NutsGames" type="application/rss+xml" rel="alternate" title="Nuts Games Feed">
+<link href="http://feeds2.feedburner.com/NutsFootball" type="application/rss+xml" rel="alternate" title="Nuts Football Feed">
+<link href="http://feeds2.feedburner.com/NutsNews" type="application/rss+xml" rel="alternate" title="Nuts News Feed">
+<link href="http://feeds2.feedburner.com/NutsSpambank" type="application/rss+xml" rel="alternate" title="Nuts Spambank Feed">
+<link href="http://feeds2.feedburner.com/NutsReviews" type="application/rss+xml" rel="alternate" title="Nuts Reviews Feed"></head>
 <body>
 	<div id="container">
-	<div id="masthead">
+	<div id="masthead" class="InSkinHide"> 
 		<div id="ad_code">
 
 			<!-- Google Analytics Code-->
@@ -33,10 +90,10 @@
 			urchinTracker();
 			</script>
 		
-<!-- SiteCatalyst code version: H.17. Copyright 1997-2008 Omniture, Inc. More info available at http://www.omniture.com -->
+<!-- SiteCatalyst code - more info available at http://www.omniture.com -->
 <script language="JavaScript" type="text/javascript" src="http://www.nuts.co.uk/scripts/s_code_H_17.js"></script>
 <script language="JavaScript" type="text/javascript"><!--
-s.server="beryllium"
+s.server="boron"
 s.pageName="Privacy Policy"
 s.channel="general"
 var s_code=s.t();if(s_code)document.write(s_code)//--></script>
@@ -45,7 +102,7 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 //--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
 src="http://ipcnutscouk.122.2O7.net/b/ss/ipcnutscouk/1/H.17--NS/0?[AQB]&amp;cdp=3&amp;[AQE]"
 height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.17. -->
+<!-- End SiteCatalyst code -->
 
 			<!--JavaScript Tag // Tag for network 656: IPC Media // Website: IG - Nuts.co.uk // Page: default (1512935) default Overlay // created at: 17-Jan-08 PM 12:48-->
 			<script language="JavaScript" type="text/javascript">
@@ -53,9 +110,9 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 			if (window.adgroupid == undefined) {
 			        window.adgroupid = Math.round(Math.random() * 1000);
 			}
-			document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|656|1512935|0|16|ADTECH;cookie=info;loc=100;target=_blank;key=key1+key2+key3+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+			document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|656|1512935|0|16|ADTECH;cookie=info;loc=100;target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 			//-->
-			</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|656|1512935|0|16|ADTECH;cookie=info;loc=100;target=_blank;key=key1+key2+key3+key4;grp=816;misc=1580363120151"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|656|1512935|0|16|ADTECH;loc=300;key=key1+key2+key3+key4" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|656|1512935|0|16|ADTECH;cookie=info;loc=300;key=key1+key2+key3+key4" border="0" width="1" height="1" alt="" /></a></noscript>
+			</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|656|1512935|0|16|ADTECH;cookie=info;loc=100;target=_blank;key=;grp=476;misc=1580363120578"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|656|1512935|0|16|ADTECH;loc=300;key=" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|656|1512935|0|16|ADTECH;cookie=info;loc=300;key=" border="0" width="1" height="1" alt="" /></a></noscript>
 			<!-- End of JavaScript Tag -->		
 		
 
@@ -64,7 +121,7 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 			var wl_ord=new Date().getTime();
 			document.write('<img width="1" height="1" src="' + 'http://tu.connect.wunderloop.net/TU/80/483/1525/?ord=' + wl_ord + '" alt="" />');
 			//-->
-			</script><img width="1" height="1" src="http://tu.connect.wunderloop.net/TU/80/483/1525/?ord=1580363120154" alt="">
+			</script><img width="1" height="1" src="http://tu.connect.wunderloop.net/TU/80/483/1525/?ord=1580363120587" alt="">
 			<noscript><img width="1" height="1" src="http://tu.connect.wunderloop.net/TU/80/483/1525/?ord=12345" alt="" /></noscript>
 		
 		</div> 
@@ -77,6 +134,7 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 			<li><a href="/covergirls">Cover Girls</a></li>
 			<li><a href="/mynuts">MyNuts</a></li>
 			<li><a href="/vote">Vote</a></li>
+			<li><a href="/jokes">Jokes</a></li>
 			<li><a href="/news">News</a></li>
 			<li><a href="/video">Nuts TV</a></li>
 			<li><a href="/reviews">Reviews</a></li>
@@ -86,17 +144,16 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 			<li><a href="/boards/">Boards</a></li>
 			<li><a href="/web-games">Games</a></li>
 			<li><a href="http://nuts.datingdirect.com/index.php?mtcmk=082478" target="_blank" onclick="s.tl(this,'o','Nav: Dating');">Dating</a></li>
-			<li><a href="http://clk.tradedoubler.com/click?p=22435&amp;a=1443637&amp;g=17049902" target="_blank" onclick="s.tl(this,'o','Nav: Jackpot Joy');">Win Cash</a></li>
-			<li><a href="http://uk.kelkoopartners.net/c-601-home-page.html?partner=Nuts" target="_blank" onclick="s.tl(this,'o','Nav: Kelkoo');">Shop</a></li>
+			<li><a href="http://ad.uk.doubleclick.net/clk;217313042;39287095;f?http://www.jackpotjoy.com/affiliate.do?dfaid=%esid!;&amp;adid=%eaid!;&amp;dfaCampaignId=OfflinePartners;&amp;dfaActivityId=onmail;&amp;url=http://static.jackpotjoy.com/upload/design/nuts/" target="_blank" onclick="s.tl(this,'o','Nav: Jackpot Joy');">Win Cash</a></li>
 		</ul>
 	</div>
 	<div id="secondary_nav">
 		<ul>
-			<li><p>Welcome to man paradise where girls, games, gadgets, laughs, footy and fun abound!</p></li>
+			<li><p>Film trailers, comedy videos, the latest game trailers and sexy ladies on Nuts TV</p></li>
 		</ul>
 		<div class="search">
 			<form action="/search/" class="nuts_search" method="get">
-				<p><input type="hidden" name="type" value="site"><input type="text" name="term" id="searchbox" value="Search Nuts" class="search_text" onfocus="if(this.value==this.defaultValue) this.value='';"><input type="image" src="http://akamai-static.nuts.co.uk/themes/default/layout/search.gif" alt="Search" title="Search" class="search_button"></p>
+				<p><input type="hidden" name="type" value="site"><input type="text" name="term" id="searchbox" value="Search Nuts" class="search_text" onfocus="if(this.value==this.defaultValue) this.value='';"><input type="image" src="http://akamai-static.nuts.co.uk/themes/default/layout/search.png" alt="Search" title="Search" class="search_button"></p>
 			</form>
 		</div>
 	</div>		<br clear="all">
@@ -113,18 +170,22 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 	<p>This privacy policy may be changed by IPC Media Limited at any time. The revised policy will be posted to this page so that you are always aware of the information we collect, how we use it and under what circumstances we disclose it. IPC Media Limited will ensure that your personal information is treated with the utmost respect and in accordance with Directive 95/46/EC on the protection of individuals with regard to processing of personal data and on the free movement of such data.</p>
 </div>		</div>
 
-	<div id="right_panel">
-		<div id="ad_mpu300x250">
-			<!--JavaScript Tag // Tag for network 656: IPC Media // Website: IG - Nuts.co.uk // default (1512934) default MPU 300x250  // created at: 17-Jan-08 PM 12:48-->
+
+<div id="right_panel">
+
+	<div id="ad_mpu300x250">
+		<!--JavaScript Tag // Tag for network 656: IPC Media // Website: IG - Nuts.co.uk // default (1512934) default MPU 300x250  // created at: 17-Jan-08 PM 12:48-->
 			<script language="JavaScript" type="text/javascript">
 			<!--
 			if (window.adgroupid == undefined) {
 			        window.adgroupid = Math.round(Math.random() * 1000);
 			}
-			document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|656|1512934|0|170|ADTECH;cookie=info;loc=100;target=_blank;key=key1+key2+key3+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+			document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|656|1512934|0|170|ADTECH;cookie=info;loc=100;target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 			//-->
-			</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|656|1512934|0|170|ADTECH;cookie=info;loc=100;target=_blank;key=key1+key2+key3+key4;grp=816;misc=1580363120204"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|656|1512934|0|170|ADTECH;loc=300;key=key1+key2+key3+key4" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|656|1512934|0|170|ADTECH;cookie=info;loc=300;key=key1+key2+key3+key4" border="0" width="300" height="250" alt="" /></a></noscript><!-- End of JavaScript Tag -->
-		</div>
+			</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|656|1512934|0|170|ADTECH;cookie=info;loc=100;target=_blank;key=;grp=476;misc=1580363120619"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|656|1512934|0|170|ADTECH;loc=300;key=" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|656|1512934|0|170|ADTECH;cookie=info;loc=300;key=" border="0" width="300" height="250" alt="" /></a></noscript><!-- End of JavaScript Tag -->
+	</div>
+
+
 		<form name="newsletter_form" class="newsletter" id="newslettersub" method="post" action="http://ebm.cheetahmail.com/r/regf2" onsubmit="return popupform(this, 'join')">
 			<p><label>Newsletter:</label><input type="hidden" name="aid" value="1577005779"><input type="hidden" name="ems" value="2"><input type="hidden" name="n" value="4"><input type="hidden" name="fsub" value="1932773071"><input type="text" name="email" id="newsletter_emailaddress" class="form_text_field" value="Enter your email address here" onfocus="if(this.value==this.defaultValue) this.value='';"><input type="image" name="submit" src="http://akamai-static.nuts.co.uk/themes/default/layout/sign-up.gif" alt="Sign Up" title="Sign Up" class="form_button"></p>
 		</form>
@@ -151,14 +212,16 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 						<input type="text" name="username" id="username" value="" class="form_text_field"></p>
 						<p><label class="login">Password:</label><br>
 						<input type="password" name="password" id="password" value="" class="form_text_field"></p>
-						<p><label>Remember me:&nbsp;</label><input type="checkbox" name="remember" value="1"></p>
-						<p><a href="/forgotpassword">Forgot your password?&nbsp;<img src="http://akamai-static.nuts.co.uk/themes/default/layout/icon/more-white.gif" width="4" height="7" alt="Forgot your password?" title="Forgot your password?"></a></p>
-						<p><a href="/register">Register with MyNuts&nbsp;<img src="http://akamai-static.nuts.co.uk/themes/default/layout/icon/more-white.gif" width="4" height="7" alt="Register with MyNuts" title="Register with MyNuts"></a></p>
+						<p class="forgot"><a href="/forgotpassword">Forgot your password?&nbsp;<img src="http://akamai-static.nuts.co.uk/themes/default/layout/icon/more-white.gif" width="4" height="7" alt="Forgot your password?" title="Forgot your password?"></a></p>
+						<p class="register"><a href="/register">Register with MyNuts&nbsp;<img src="http://akamai-static.nuts.co.uk/themes/default/layout/icon/more-white.gif" width="4" height="7" alt="Register with MyNuts" title="Register with MyNuts"></a></p>
 						<input type="image" src="http://akamai-static.nuts.co.uk/themes/mynuts/layout/button-signin.gif" alt="Sign in" title="Sign in" class="form_button">
 					</form>
 				</div>
 				<div class="widget_bottom"><img src="http://akamai-static.nuts.co.uk/themes/default/layout/transparent.gif" width="1" height="1" alt=""></div>
 			</div>			</div>
+			
+			
+			
 			<div id="brightcove_home">
 				<h5><a href="/video">Nuts TV: watch all our videos here</a></h5>
 				<script language="JavaScript" type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
@@ -170,6 +233,7 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 				  <param name="publisherID" value="474751643">
 				  <param name="isVid" value="true">
 				  <param name="isUI" value="true">
+				  <param name="@videoList" value="6310803001">
 				</object>
 			</div>
 			<div class="left_column">
@@ -183,9 +247,9 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 			if (window.adgroupid == undefined) {
 				window.adgroupid = Math.round(Math.random() * 1000);
 			}
-			document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|656.1|1701616|0|2025|ADTECH;cookie=info;alias=##alias##;loc=100;target=_blank;key=key1+key2+key3+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+			document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|656.1|1701616|0|2025|ADTECH;cookie=info;alias=##alias##;loc=100;target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 			//-->
-			</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|656.1|1701616|0|2025|ADTECH;cookie=info;alias=##alias##;loc=100;target=_blank;key=key1+key2+key3+key4;grp=816;misc=1580363120284"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|656.1|1701616|0|2025|ADTECH;loc=300;alias=##alias##;key=key1+key2+key3+key4" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|656.1|1701616|0|2025|ADTECH;cookie=info;loc=300;alias=##alias##;key=key1+key2+key3+key4" border="0" width="134" height="125" alt="" /></a></noscript>
+			</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|656.1|1701616|0|2025|ADTECH;cookie=info;alias=##alias##;loc=100;target=_blank;key=;grp=476;misc=1580363120654"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|656.1|1701616|0|2025|ADTECH;loc=300;alias=##alias##;key=" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|656.1|1701616|0|2025|ADTECH;cookie=info;loc=300;alias=##alias##;key=" border="0" width="134" height="125" alt="" /></a></noscript>
 			<!-- End of JavaScript Tag -->
 		</div></li>
 						<li class="hotspot"><div class="ad_hotspot134x125">
@@ -195,9 +259,9 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 			if (window.adgroupid == undefined) {
 				window.adgroupid = Math.round(Math.random() * 1000);
 			}
-			document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|656.1|1701617|0|2025|ADTECH;cookie=info;alias=##alias##;loc=100;target=_blank;key=key1+key2+key3+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+			document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|656.1|1701617|0|2025|ADTECH;cookie=info;alias=##alias##;loc=100;target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 			//-->
-			</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|656.1|1701617|0|2025|ADTECH;cookie=info;alias=##alias##;loc=100;target=_blank;key=key1+key2+key3+key4;grp=816;misc=1580363120294"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|656.1|1701617|0|2025|ADTECH;loc=300;alias=##alias##;key=key1+key2+key3+key4" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|656.1|1701617|0|2025|ADTECH;cookie=info;loc=300;alias=##alias##;key=key1+key2+key3+key4" border="0" width="134" height="125" alt="" /></a></noscript>
+			</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|656.1|1701617|0|2025|ADTECH;cookie=info;alias=##alias##;loc=100;target=_blank;key=;grp=476;misc=1580363120664"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|656.1|1701617|0|2025|ADTECH;loc=300;alias=##alias##;key=" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|656.1|1701617|0|2025|ADTECH;cookie=info;loc=300;alias=##alias##;key=" border="0" width="134" height="125" alt="" /></a></noscript>
 			<!-- End of JavaScript Tag -->
 		</div></li>
 						<li class="hotspot"><div class="ad_hotspot134x125">
@@ -207,9 +271,9 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 			if (window.adgroupid == undefined) {
 				window.adgroupid = Math.round(Math.random() * 1000);
 			}
-			document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|656.1|1701614|0|2025|ADTECH;cookie=info;alias=##alias##;loc=100;target=_blank;key=key1+key2+key3+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+			document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|656.1|1701614|0|2025|ADTECH;cookie=info;alias=##alias##;loc=100;target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 			//-->
-			</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|656.1|1701614|0|2025|ADTECH;cookie=info;alias=##alias##;loc=100;target=_blank;key=key1+key2+key3+key4;grp=816;misc=1580363120297"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|656.1|1701614|0|2025|ADTECH;loc=300;alias=##alias##;key=key1+key2+key3+key4" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|656.1|1701614|0|2025|ADTECH;cookie=info;loc=300;alias=##alias##;key=key1+key2+key3+key4" border="0" width="134" height="125" alt="" /></a></noscript>
+			</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|656.1|1701614|0|2025|ADTECH;cookie=info;alias=##alias##;loc=100;target=_blank;key=;grp=476;misc=1580363120670"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|656.1|1701614|0|2025|ADTECH;loc=300;alias=##alias##;key=" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|656.1|1701614|0|2025|ADTECH;cookie=info;loc=300;alias=##alias##;key=" border="0" width="134" height="125" alt="" /></a></noscript>
 			<!-- End of JavaScript Tag -->
 		</div></li>
 						<li class="hotspot"><div class="ad_hotspot134x125">
@@ -219,9 +283,9 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 			if (window.adgroupid == undefined) {
 				window.adgroupid = Math.round(Math.random() * 1000);
 			}
-			document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|656.1|1701618|0|2025|ADTECH;cookie=info;alias=##alias##;loc=100;target=_blank;key=key1+key2+key3+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+			document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|656.1|1701618|0|2025|ADTECH;cookie=info;alias=##alias##;loc=100;target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 			//-->
-			</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|656.1|1701618|0|2025|ADTECH;cookie=info;alias=##alias##;loc=100;target=_blank;key=key1+key2+key3+key4;grp=816;misc=1580363120305"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|656.1|1701618|0|2025|ADTECH;loc=300;alias=##alias##;key=key1+key2+key3+key4" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|656.1|1701618|0|2025|ADTECH;cookie=info;loc=300;alias=##alias##;key=key1+key2+key3+key4" border="0" width="134" height="125" alt="" /></a></noscript>
+			</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|656.1|1701618|0|2025|ADTECH;cookie=info;alias=##alias##;loc=100;target=_blank;key=;grp=476;misc=1580363120677"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|656.1|1701618|0|2025|ADTECH;loc=300;alias=##alias##;key=" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|656.1|1701618|0|2025|ADTECH;cookie=info;loc=300;alias=##alias##;key=" border="0" width="134" height="125" alt="" /></a></noscript>
 			<!-- End of JavaScript Tag -->
 		</div></li>
 						<li class="hotspot"><div class="ad_hotspot134x125">
@@ -231,9 +295,21 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 			if (window.adgroupid == undefined) {
 				window.adgroupid = Math.round(Math.random() * 1000);
 			}
-			document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|656.1|1701619|0|2025|ADTECH;cookie=info;alias=##alias##;loc=100;target=_blank;key=key1+key2+key3+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+			document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|656.1|1701619|0|2025|ADTECH;cookie=info;alias=##alias##;loc=100;target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 			//-->
-			</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|656.1|1701619|0|2025|ADTECH;cookie=info;alias=##alias##;loc=100;target=_blank;key=key1+key2+key3+key4;grp=816;misc=1580363120313"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|656.1|1701619|0|2025|ADTECH;loc=300;alias=##alias##;key=key1+key2+key3+key4" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|656.1|1701619|0|2025|ADTECH;cookie=info;loc=300;alias=##alias##;key=key1+key2+key3+key4" border="0" width="134" height="125" alt="" /></a></noscript>
+			</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|656.1|1701619|0|2025|ADTECH;cookie=info;alias=##alias##;loc=100;target=_blank;key=;grp=476;misc=1580363120682"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|656.1|1701619|0|2025|ADTECH;loc=300;alias=##alias##;key=" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|656.1|1701619|0|2025|ADTECH;cookie=info;loc=300;alias=##alias##;key=" border="0" width="134" height="125" alt="" /></a></noscript>
+			<!-- End of JavaScript Tag -->
+		</div></li>
+						<li class="hotspot"><div class="ad_hotspot134x125">
+			<!--JavaScript Tag // Tag for network 656: IPC Media // Website: IG - Nuts.co.uk // default (1701615) Default-Hotspot 5-134 x 125 // created at: Sep 26, 2008 4:08:36 PM-->
+			<script language="JavaScript" type="text/javascript">
+			<!--
+			if (window.adgroupid == undefined) {
+				window.adgroupid = Math.round(Math.random() * 1000);
+			}
+			document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|656.1|1701615|0|2025|ADTECH;cookie=info;alias=##alias##;loc=100;target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+			//-->
+			</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|656.1|1701615|0|2025|ADTECH;cookie=info;alias=##alias##;loc=100;target=_blank;key=;grp=476;misc=1580363120689"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|656.1|1701615|0|2025|ADTECH;loc=300;alias=##alias##;key=" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|656.1|1701615|0|2025|ADTECH;cookie=info;loc=300;alias=##alias##;key=" border="0" width="134" height="125" alt="" /></a></noscript>
 			<!-- End of JavaScript Tag -->
 		</div></li>
 					</ul>
@@ -246,13 +322,19 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 				<h5>Stuff We Like</h5>
             	<ul>
 					<li>
+						<a href="http://track.webgains.com/click.html?wgcampaignid=66901&amp;wgprogramid=1570&amp;clickref=SWL&amp;wgtarget=http://www.wrappz.com/nuts" target="_blank" onclick="s.tl(this,'o','SWL: Wrappz');">Nuts Gadget Covers</a>
+					</li>
+					<li>
 						<a href="http://nuts.datingdirect.com/index.php?mtcmk=082478" target="_blank" onclick="s.tl(this,'o','SWL: Dating');">Nuts Dating</a>
 					</li>
 					<li>
-						<a href="http://clk.tradedoubler.com/click?p=22435&amp;a=1443637&amp;g=17049902" target="_blank" onclick="s.tl(this,'o','SWL: Jackpot Joy');">Instant Win Games</a>
+						<a href="http://ad.uk.doubleclick.net/clk;217313793;39287095;s?http://www.jackpotjoy.com/affiliate.do?dfaid=%esid!;&amp;adid=%eaid!;&amp;dfaCampaignId=OfflinePartners;&amp;dfaActivityId=onmail;&amp;url=http://static.jackpotjoy.com/upload/design/nuts/" target="_blank" onclick="s.tl(this,'o','SWL: Jackpot Joy');">Instant Win Games</a>
 					</li>
 					<li>
-						<a href="http://www.nutsgifts.co.uk/" onclick="s.tl(this,'o','SWL: Cards &amp; Posters');">Cards &amp; Posters</a>
+						<a href="http://www.nuts.co.uk/subscribe" onclick="s.tl(this,'o','SWL: Subscribe');">Subscribe To Nuts</a>
+					</li>
+					<li>
+						<a href="http://www.soccermillionaire.com/nuts/" target="_blank" onclick="s.tl(this,'o','SWL: Soccer Millionaire');">Cash Football</a>
 					</li>
 					<li>
 						<a href="http://www.backstreet-merch.com/stores/nuts-merchandise/" target="_blank" onclick="s.tl(this,'o','SWL: Backstreet');">Nuts Shop</a>
@@ -264,13 +346,16 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 						<a href="http://www.uncoached.com/" target="_blank" onclick="s.tl(this,'o','SWL: Uncoached');">Hot Girls</a>
 					</li>
 					<li>
-						<a href="http://www.sexyandfunny.com/" target="_blank" onclick="s.tl(this,'o','SWL: Sexy and Funny');">Sexy and Funny</a>
+						<a href="http://www.mousebreaker.com/" target="_blank" onclick="s.tl(this,'o','SWL: Mousebreaker');">Fun Games</a>
 					</li>
 					<li>
 						<a href="http://www.loaded.co.uk/" target="_blank" onclick="s.tl(this,'o','SWL: Loaded');">Loaded</a>
 					</li>
 					<li>
 						<a href="http://www.damnfunnypictures.com/" target="_blank" onclick="s.tl(this,'o','SWL: Damn Funny Pictures');">Funny Pics</a>
+					</li>
+					<li>
+						<a href="http://www.sexyandfunny.com/" target="_blank" onclick="s.tl(this,'o','SWL: Sexy And Funny');">Sexy and Funny</a>
 					</li>
 				</ul>
 			</div>				<div id="ad_skyscraper160x600">
@@ -281,23 +366,27 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 			if (window.adgroupid == undefined) {
 			        window.adgroupid = Math.round(Math.random() * 1000);
 			}
-			document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|656|1512936|0|154|ADTECH;cookie=info;loc=100;target=_blank;key=key1+key2+key3+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+			document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|656|1512936|0|154|ADTECH;cookie=info;loc=100;target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 			//-->
-			</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|656|1512936|0|154|ADTECH;cookie=info;loc=100;target=_blank;key=key1+key2+key3+key4;grp=816;misc=1580363120350"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|656|1512936|0|154|ADTECH;loc=300;key=key1+key2+key3+key4" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|656|1512936|0|154|ADTECH;cookie=info;loc=300;key=key1+key2+key3+key4" border="0" width="160" height="600" alt="" /></a></noscript>
+			</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|656|1512936|0|154|ADTECH;cookie=info;loc=100;target=_blank;key=;grp=476;misc=1580363120729"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|656|1512936|0|154|ADTECH;loc=300;key=" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|656|1512936|0|154|ADTECH;cookie=info;loc=300;key=" border="0" width="160" height="600" alt="" /></a></noscript>
 			<!-- End of JavaScript Tag -->
 		
 				</div>
 			</div>
 		</div>
-	</div>	<br clear="all">
+	</div><br clear="all">
+	
 	<div id="footer">
 		<div class="utility_bar">
 			<ul>
 				<li><a href="/" rel="nofollow">Nuts.co.uk</a></li>
-				<li> Wednesday  6 May 2009</li>
+				<li> Tuesday  8 December 2009</li>
 				<li class="action"><a href="/login" rel="nofollow">Sign in</a></li>
 				<li class="action"><a href="/register" rel="nofollow">Register</a></li>
-				<li class="twitter"><a href="http://twitter.com/nuts_website" target="_blank">Follow us on <img src="http://akamai-static.nuts.co.uk/themes/default/footer/twitter.gif" width="56" height="13" alt="twitter" title="twitter"></a></li>
+				<li class="twitter"><a href="http://twitter.com/nuts_website" target="_blank"><img src="http://akamai-static.nuts.co.uk/themes/default/footer/twitter.gif" width="25" height="25" alt="twitter" title="twitter"></a>
+						    <a href="http://www.facebook.com/nuts.magazine" target="_blank"><img src="http://akamai-static.nuts.co.uk/themes/default/footer/facebook.gif" width="25" height="25" alt="facebook" title="facebook"></a>
+						    <a href="http://www.youtube.com/user/nuts" target="_blank"><img src="http://akamai-static.nuts.co.uk/themes/default/footer/youtube.gif" width="25" height="25" alt="youtube" title="youtube"></a>
+				</li>
 			</ul>
 		</div>
 
@@ -307,6 +396,7 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 				<li><a href="/covergirls">Cover Girls</a></li>
 				<li><a href="/mynuts">MyNuts</a></li>
 				<li><a href="/vote">Vote</a></li>
+				<li><a href="/jokes">Jokes</a></li>
 				<li><a href="/news">News</a></li>
 				<li><a href="/video">Nuts TV</a></li>
 				<li><a href="/reviews">Reviews</a></li>
@@ -316,8 +406,9 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 				<li><a href="/boards/">Boards</a></li>
 				<li><a href="/web-games">Games</a></li>
 				<li><a href="http://nuts.datingdirect.com/index.php?mtcmk=082478">Dating</a></li>
-				<li><a href="http://clk.tradedoubler.com/click?p=22435&amp;a=1443637&amp;g=17049902">Win Cash</a></li>
-				<li><a href="http://uk.kelkoopartners.net/c-601-home-page.html?partner=Nuts">Shop</a></li>
+				<li><a href="http://ad.uk.doubleclick.net/clk;217313406;39287095;j?http://www.jackpotjoy.com/affiliate.do?dfaid=%esid!;&amp;adid=%eaid!;&amp;dfaCampaignId=OfflinePartners;&amp;dfaActivityId=onmail;&amp;url=http://static.jackpotjoy.com/upload/design/nuts/">Win Cash</a></li>
+						<li><a onclick="s.tl(this,'o','Mainline: Fashion');" href="http://www.mainlinemenswear.co.uk/index.php?a=IPCN" rel="nofollow">Nuts Fashion</a></li>
+			<li><a onclick="s.tl(this,'o','Mainline: Lacoste');" href="http://www.mainlinemenswear.co.uk/section.php?xSec=220&amp;a=IPCN" rel="nofollow">Lacoste</a></li>
 			</ul>
 		</div>
 		<div class="foot_col_1">
@@ -327,16 +418,18 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 				<li><a href="/covergirls/amy-lu">Amy Lu</a></li>
 				<li><a href="/covergirls/chanelle">Chanelle</a></li>
 				<li><a href="/covergirls/danielle-lloyd">Danielle Lloyd</a></li>
+				<li><a href="/covergirls/emma-frain">Emma Frain</a></li>
 				<li><a href="/covergirls/eva">Eva</a></li>
 				<li><a href="/covergirls/kaylee-carver">Kaylee Carver</a></li>
 				<li><a href="/covergirls/keeley-hazell">Keeley Hazell</a></li>
 				<li><a href="/covergirls/kitty-lea">Kitty Lea</a></li>
+				<li><a href="/covergirls/leah-francis">Leah Francis</a></li>
 				<li><a href="/covergirls/lindsey-strutt">Lindsey Strutt</a></li>
 				<li><a href="/covergirls/lucy-pinder">Lucy Pinder</a></li>
 				<li><a href="/covergirls/rhian-sugden">Rhian Sugden</a></li>
 				<li><a href="/covergirls/rosie-jones">Rosie Jones</a></li>
 				<li><a href="/covergirls/sophie-howard">Sophie Howard</a></li>
-			</ul>
+		</ul>
 		</div>
 		<div class="foot_col_1">
 			<h5>Ignite Portfolio</h5>
@@ -346,8 +439,10 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 	        	<li><a href="http://www.mousebreaker.com/" target="_blank">Free online flash games from&nbsp;mousebreaker</a></li>
 	        	<li><a href="http://www.nme.com/" target="_blank">nme.com</a></li>
 	        	<li><a href="http://www.uncut.co.uk/" target="_blank">uncut.co.uk</a></li>
+				<li><a href="http://www.webuser.co.uk/" target="_blank">webuser.co.uk</a></li>
 	        </ul> 
-			<a href="http://www.hitwise.co.uk/awards/popup.html?sDomain=www.nuts.co.uk&amp;iDate=2008&amp;iCatnum=278&amp;Cal=1" target="_blank" onclick="window.open('http://www.hitwise.co.uk/awards/popup.html?sDomain=www.nuts.co.uk&amp;iDate=2008&amp;iCatnum=278&amp;Cal=1', 'info', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=yes,copyhistory=no,width=480,height=420'); return false;"><img src="http://akamai-static.nuts.co.uk/themes/default/footer/hitwise-no1-2008.gif" width="75" height="85" alt="Hitwise Award Winner" title="Hitwise Award Winner"></a>
+			<a href="http://www.hitwise.co.uk/awards/popup.html?sDomain=www.nuts.co.uk&amp;iDate=200902&amp;iCatnum=278&amp;Cal=&amp;semi=1" target="_blank" onclick="window.open('http://www.hitwise.co.uk/awards/popup.html?sDomain=www.nuts.co.uk&amp;iDate=200902&amp;iCatnum=278&amp;Cal=&amp;semi=1', 'info', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=yes,copyhistory=no,width=480,height=420'); return false;"><img src="http://akamai-static.nuts.co.uk/themes/default/footer/hitwise-no1-2009.gif" width="75" height="85" alt="Hitwise Award Winner" title="Hitwise Award Winner"></a>
+			<p class="footer-wide"><br>Nuts is the PPA Consumer Media Brand of the Year 2009</p>
 		</div>
 		<div class="foot_col_2">
 			<h5>Subscribe</h5>
@@ -355,11 +450,11 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 			<h5>Friends of Nuts</h5>
 			<div id="footer_buttons">
 				<div class="footer_button"><a href="http://www.collegehumor.com/" target="_blank" onclick="s.tl(this,'o','Footer: CollegeHumor');"><img src="http://akamai-static.nuts.co.uk/themes/default/footer/college-humor.jpg" width="88" height="31" alt="CollegeHumor" title="CollegeHumor"></a></div>
-				<div class="footer_button"><a href="http://www.holytaco.com" target="_blank" onclick="s.tl(this,'o','Footer: Holy Taco');"><img src="http://akamai-static.nuts.co.uk/themes/default/footer/holy-taco.jpg" width="88" height="31" alt="Holy Taco" title="Holy Taco"></a></div>
-				<div class="footer_button"><a href="http://www.kontraband.com/" target="_blank" onclick="s.tl(this,'o','Footer: Kontraband');"><img src="http://akamai-static.nuts.co.uk/themes/default/footer/kontraband.gif" width="88" height="31" alt="Kontraband" title="Kontraband"></a></div>
+				<div class="footer_button"><a href="http://www.nuts.co.uk/fashion" target="_blank" onclick="s.tl(this,'o','Footer: Nuts Fashion');"><img src="http://akamai-static.nuts.co.uk/themes/default/footer/nuts-fashion.jpg" width="88" height="31" alt="Nuts Fashion" title="Nuts Fashion"></a></div>
+				<div class="footer_button"><a href="http://www.soccermillionaire.com/nuts?bid=478&amp;aid=CD6&amp;opt" target="_blank" onclick="s.tl(this,'o','Footer: Cash Football');"><img src="http://akamai-static.nuts.co.uk/themes/default/footer/footer_soccer.jpg" width="88" height="31" alt="Nuts Cash Football" title="Nuts Cash Football"></a></div>
 				<div class="footer_button"><a href="http://www.loaded.co.uk/" target="_blank" onclick="s.tl(this,'o','Footer: Loaded');"><img src="http://akamai-static.nuts.co.uk/themes/default/footer/loaded.gif" width="88" height="31" alt="Loaded" title="Loaded"></a></div>
 				<div class="footer_button"><a href="http://www.mousebreaker.com/" target="_blank" onclick="s.tl(this,'o','Footer: Mousebreaker');"><img src="http://akamai-static.nuts.co.uk/themes/default/footer/mousebreaker.gif" width="88" height="31" alt="Mousebreaker" title="Mousebreaker"></a></div>
-				<div class="footer_button"><a href="http://www.onehumor.com/" target="_blank" onclick="s.tl(this,'o','Footer: OneHumor');"><img src="http://akamai-static.nuts.co.uk/themes/default/footer/onehumor.jpg" width="88" height="31" alt="OneHumor" title="OneHumor"></a></div>
+				<div class="footer_button"><a href="http://track.webgains.com/click.html?wgcampaignid=66901&amp;wgprogramid=1570&amp;clickref=Footer&amp;wgtarget=http://www.wrappz.com/nuts" target="_blank" onclick="s.tl(this,'o','Footer: Wrappz');"><img src="http://akamai-static.nuts.co.uk/themes/default/footer/wrappz.jpg" width="88" height="31" alt="Wrappz" title="Wrappz"></a></div>
 			</div>
 		</div>
 		<ul class="foot_links">
@@ -373,9 +468,9 @@ height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
 			if (window.adgroupid == undefined) {                                     
 			        window.adgroupid = Math.round(Math.random() * 1000);
 			}
-			document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|656|1512933|0|1|ADTECH;cookie=info;loc=100;target=_blank;key=key1+key2+key3+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+			document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|656|1512933|0|1|ADTECH;cookie=info;loc=100;target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 			//-->
-			</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|656|1512933|0|1|ADTECH;cookie=info;loc=100;target=_blank;key=key1+key2+key3+key4;grp=816;misc=1580363120410"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|656|1512933|0|1|ADTECH;loc=300;key=key1+key2+key3+key4" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|656|1512933|0|1|ADTECH;cookie=info;loc=300;key=key1+key2+key3+key4" border="0" width="468" height="60" alt="" /></a></noscript><!-- End of JavaScript Tag -->
+			</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|656|1512933|0|1|ADTECH;cookie=info;loc=100;target=_blank;key=;grp=476;misc=1580363120817"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|656|1512933|0|1|ADTECH;loc=300;key=" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|656|1512933|0|1|ADTECH;cookie=info;loc=300;key=" border="0" width="468" height="60" alt="" /></a></noscript><!-- End of JavaScript Tag -->
 	</div>
 	<script language="JavaScript" type="text/javascript">var tcdacmd="dt";</script>
 	<script language="JavaScript" type="text/javascript" src="http://an.tacoda.net/an/17869/slf.js"></script>
