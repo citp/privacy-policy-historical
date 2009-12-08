@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthatoz.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422085929id_/http%3A//www.myoptumhealth.com/portal/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthatoz.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208081006id_/http%3A//www.myoptumhealth.com/portal/Privacy) for the most accurate reproduction.*
 
-# myOptumHealth
+# Privacy and Security Policy - myOptumHealth
 
 **I.            Introduction and Applicability**
 
@@ -119,5 +119,5 @@ Windsor Corporate Park
 50 Millstone Road, Building 200, Suite 160  
 East Windsor, NJ 08520
 
-|  Effective as of 11/15/2008  |   
+|  Effective as of 4/27/2009  |   
 ---|---|---
