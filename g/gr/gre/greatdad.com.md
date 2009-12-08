@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the greatdad.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618103636id_/http%3A//www.greatdad.com/tertiary/253/344/greatdad-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatdad.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208193523id_/http%3A//www.greatdad.com/tertiary/253/344/greatdad-privacy-policy.html) for the most accurate reproduction.*
 
 # GreatDad Privacy Policy
+
+  
+
 
 At GreatDad.com we appreciate your readership and value your personal privacy. We respect the personal nature of the information you provide us on our web site and acknowledge the importance of protecting this information. In adopting this privacy policy, our intent is to balance our legitimate business interests in collecting and using your personal information with your reasonable expectations of privacy. The policy may be revised or updated at any time and we encourage you to check back often to ensure that you are familiar with the most recent version and the terms of our policy.
 
@@ -30,6 +33,26 @@ Third parties and web sites that have links on our site may also collect or use 
 
 **Is there anything else I should know about my privacy and GreatDad.com?**
 
-Any information you disclose voluntarily on our comments pages or in any forums we may develop in the future becomes public information. We cannot control the actions of our site users and advise you to use your discretion in sharing information about yourself on the Internet. All information sharing is optional and done so at your own risk. Privacy is a very personal matter and we encourage you to be careful and responsible when disclosing personal information online. 
+Any information you disclose voluntarily on our comments pages or in any forums we may develop in the future becomes public information. We cannot control the actions of our site users and advise you to use your discretion in sharing information about yourself on the Internet. All information sharing is optional and done so at your own risk. Privacy is a very personal matter and we encourage you to be careful and responsible when disclosing personal information online.
 
-(revised 2006)
+[GreatDad.com](http://greatdad.com/ "blocked::http://greatdad.com/") will place cookies only into the browsers of registers users, when they log in.  [GreatDad.com](http://greatdad.com/ "blocked::http://greatdad.com/") will not place any hidden cookies or those from other domains. Registered Users' IP addresses and other data provided in the registration page (as listed on the user profile page) will be stored to enhance the user experience.  
+
+[GreatDad.com](http://greatdad.com/ "blocked::http://greatdad.com/") also collects Log Data from all users, including non-registerd users, who visit the [GreatDad.com](http://greatdad.com/ "blocked::http://greatdad.com/") website.   This Log Data includes information such as your computer's IP address, referring HTTP location, current HTTP location, search string, time of access and other statistics. Non-registered Users' IP addresses will not be stored, archived, used, nor shared, other than on standard Internet web server logs, through anti-spam prevention measures, and third-party analytics software such as Google Analytics or ad serving systems such as Doubleclick.  We maintain this data for one month to help provide better services for our users and to help our advertisers understand our users.
+
+If you prefer not to receive interest based content and ads, you can opt-out by using the Network Advertising Initiative's opt-out tool [here](http://www.networkadvertising.org/ "blocked::http://www.networkadvertising.org/"). 
+
+On this page, you can examine your computer to identify those member companies that have placed an advertising cookie file on your computer. Opting out of a network does not mean you will no longer receive online advertising. It does mean that the network from which you opted out will no longer deliver ads tailored to your Web preferences and usage patterns.
+
+This Network Advertising Initiative opt-out tool does not cover the collection of Log Data for the purpose of providing our Market Research Services (though no ads are sent to you in connection with such services).
+
+Additionally, you may also opt-out of cookies entirely by setting your browser preferences to NOT accept 3rd party cookies. Visit the links below for instructions on how to adjust your browser settings:
+
+Internet Explorer 7.x and Internet Explorer 6.x:[http://support.microsoft.com/kb/283185](http://support.microsoft.com/kb/283185 "http://support.microsoft.com/kb/283185") 
+
+Netscape and Firefox: [http://www.mozilla.org/support/firefox/options#privacy](http://www.mozilla.org/support/firefox/options "http://www.mozilla.org/support/firefox/options")
+
+Safari: [http://docs.info.apple.com/article.html?path=Safari/3.0/en/9277.html](http://docs.info.apple.com/article.html?path=Safari/3.0/en/9277.html "http://docs.info.apple.com/article.html?path=Safari/3.0/en/9277.html")
+
+(revised 2009)
+
+All mailing lists and deliveries are opt-in, and any subscriber can opt-out by following the instructions on the appropriate page or by emailing [webmaster@greatdad.com](mailto:webmaster@greatdad.com "mailto:webmaster@greatdad.com").  [GreatDad.com](http://greatdad.com/ "http://greatdad.com/") will comply with all opt-outs within 48 hours of its having been received, and will comply with the terms of this privacy policy.  Unsuccessful attempts at opt-outs should be addressed to:  [Paul@GreatDad.com](mailto:Paul@GreatDad.com "Paul@GreatDad.com")
