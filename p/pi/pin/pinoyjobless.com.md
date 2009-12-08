@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the pinoyjobless.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609102026id_/http%3A//pinoyjobless.com/about) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinoyjobless.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208110901id_/http%3A//pinoyjobless.com/about) for the most accurate reproduction.*
 
 # Privacy Policy | Dine Laang!
+
+## [Privacy Policy](http://pinoyjobless.com/about/ "Permanent Link to Privacy Policy")
 
 I respect your privacy and I am committed to safeguarding your privacy while online at my site http://www.pinoyjobless.com . The following discloses the information gathering and dissemination practices for this Web site.
 
@@ -20,7 +22,7 @@ Google and the DoubleClick DART Cookie
 Google, as a third party vendor, uses cookies to serve ads on this site. Google’s use of the DART cookie enables it to serve ads to this site’s visitors based on their visit to this site and other sites on the Internet. Visitors may opt out of the use of the DART cookie by visiting http://www.google.com/privacy_ads.html
 
 Advertisers  
-I use outside ad companies to display ads on my site. These ads may contain cookies and are collected by the ad companies, and I do not have access to these information. I work with the ad companies: Google Adsense, Project Wonderful,and Adtoll. Please check their websites for respective privacy policies.
+I use outside ad companies to display ads on my site. These ads may contain cookies and are collected by the ad companies, and I do not have access to these information. I work with the ad companies: Google Adsense and Infolinks. Please check their websites for respective privacy policies.
 
 Contact Information  
 If users have any questions or suggestions regarding my privacy policy, please contact me @ itot54joni@yahoo.com
