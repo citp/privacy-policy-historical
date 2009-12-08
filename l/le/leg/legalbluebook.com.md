@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legalbluebook.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608130958id_/http%3A//www.legalbluebook.com/Public/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legalbluebook.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208104303id_/http%3A//www.legalbluebook.com/Public/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # The Bluebook - Privacy Policy
 
