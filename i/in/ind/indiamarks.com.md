@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiamarks.com privacy policy that was archived on 2009-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090506110903id_/http%3A//www.indiamarks.com/home/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiamarks.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209061210id_/http%3A//www.indiamarks.com/home/privacy_policy) for the most accurate reproduction.*
 
 # indiamarks: a source for everything India from bollywood to news to travel and much more!
 
