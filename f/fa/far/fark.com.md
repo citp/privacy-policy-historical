@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the fark.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601123300id_/http%3A//www.fark.com/farq/legal.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fark.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209213954id_/http%3A//www.fark.com/farq/legal.shtml) for the most accurate reproduction.*
 
 # FARK.com: Frequently Asked Questions: Legal Stuff
 
 > ### Fark Frequently Asked Questions (FAQ): Legal Stuff
 > 
-> [Back to top of FAQ](https://web.archive.org/web/20090601123300id_/http%3A//www.fark.com/farq/index.shtml)  
+> [Back to top of FAQ](https://web.archive.org/web/20091209213954id_/http%3A//www.fark.com/farq/index.shtml)  
 > 
 > 
->   * [ Legal Stuff](https://web.archive.org/web/20090601123300id_/http%3A//www.fark.com/farq/legal.shtml#Legal_Stuff)
->     * [ Fark's Legal and Privacy Statement](https://web.archive.org/web/20090601123300id_/http%3A//www.fark.com/farq/legal.shtml#Fark.27s_Legal_and_Privacy_Statement)
+>   * [ Legal Stuff](https://web.archive.org/web/20091209213954id_/http%3A//www.fark.com/farq/legal.shtml#Legal_Stuff)
+>     * [ Fark's Legal and Privacy Statement](https://web.archive.org/web/20091209213954id_/http%3A//www.fark.com/farq/legal.shtml#Fark.27s_Legal_and_Privacy_Statement)
 > 
 
 > 
@@ -99,11 +99,15 @@
 > 
 > **Third Party Advertising**
 > 
-> We use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here. 
+> We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. For more information on online behavioral advertising, privacy, cookies, and how this all works, please see the [Network Advertising Initiative](http://www.networkadvertising.org/managing/learn_more.asp "http://www.networkadvertising.org/managing/learn_more.asp") page on this topic. 
 > 
 > **Third Party Cookies**
 > 
-> In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
+> In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique "cookie" on your browser. 
+> 
+> You can opt-out of Google Adsense advertising cookies by going to <http://www.google.com/ads/preferences>. 
+> 
+> You can opt-out of other third-party advertising cookies by using the Network Advertising Initiative opt-out tool at <http://www.networkadvertising.org/managing/opt_out.asp>. 
 > 
 > **Policy updates**
 > 
