@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the maxim.com privacy policy that was archived on 2009-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090327050121id_/http%3A//www.maxim.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxim.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209022349id_/http%3A//www.maxim.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy | Maxim.com
+# | Maxim.com
 
 **PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THIS SITE.
 
@@ -50,26 +50,9 @@ If you purchase a product from a third party or from the Site, information may b
 
 In addition to the foregoing, Dennis may share or disclose personally identifiable information about you to other companies or individuals when: 
 
-  * we utilize third party service providers to provide products, services or functions on our behalf (such as sending emails or processing credit cards or fulfilling subscriptions), and ask these service providers to agree to maintain the confidentiality of your personally identifiable information and not to use your personally identifiable information for any reason except to carry out the purpose(s) for which we hired them; 
-  * You have entered a contest or sweepstakes sponsored by a third party and you have agreed to permit the third party to share, disclose or otherwise use personally identifying information, in which case the information may be shared with that third party for their use as permitted by their respective privacy policies, including direct marketing; 
-  * we need to protect our legal rights (for example, if we are trying to collect money you owe us); 
-  * we must comply with applicable laws, regulations, or legal or regulatory process; or in connection with a sale, merger, transfer, exchange, or other disposition (whether of assets, stock, or otherwise) of all or a portion of the business conducted by the web sites to which this policy applies.
-
-
-
-**THIRD PARTY ADVERTISING**
-
 We use third party advertising companies and advertising networks to serve ads to you on our behalf when you visit the Site. These companies may use information (not including your name, address, e-mail address or telephone number) about your visits to the Site and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit the following web addresses:
 
-<http://www.networkadvertising.org/optout_nonppii.asp>   
-<http://www.advertising.com/Privacy.html>   
-<http://www.doubleclick.com/us/about_doubleclick/privacy>
-
-**USE OF IP ADDRESSES**
-
 An IP address is a number that is automatically assigned to your computer by your Internet service provider whenever you log on to the Web. Web servers automatically identify your computer by its IP address, so when a guest requests pages from the Site, our servers log the guest's IP address. The IP addresses of our guests are collected only for the purposes of system administration and to report aggregate information to our advertisers, our corporate affiliates or consultants, or with third parties that perform a particular service on our behalf. We do not combine IP addresses with any personally identifying information, nor do we compile any session activity reports by IP address. 
-
-**USE OF COOKIES**
 
 In cyberspace, cookies are pieces of information that a Web site transfers to an individual's hard drive for record-keeping purposes. 
 
