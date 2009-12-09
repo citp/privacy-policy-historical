@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkme.com.au privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618062538id_/http%3A//www.linkme.com.au/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkme.com.au privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209211901id_/http%3A//www.linkme.com.au/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
