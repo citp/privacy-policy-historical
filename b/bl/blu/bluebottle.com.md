@@ -1,19 +1,18 @@
-> *The following text is extracted and transformed from the bluebottle.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616165228id_/http%3A//www.bluebottle.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluebottle.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209010234id_/http%3A//www.bluebottle.com/privacy.php) for the most accurate reproduction.*
 
 # Bluebottle Email: Privacy
 
 [](http://www.addthis.com/bookmark.php "Bookmark using any bookmark manager!")
 
-  
-"I have been very happy with your service and would recommend it to any of my friends." - **Alex,** _June 2006_
+"One of the reasons I went with BB in the first place was because of it's excellent spam protection, the anti spam service have always been performing for me 100% even though a lot of the other services have not." - **Gordon V,** _June 2006_
+
+"Thank you very much for providing this excellent service." - **Ricardo I,** _May 2006_
+
+"I can count many email providers who have promised many juicy things and could not fulfill them at all. I can confirm that Bluebottle is different and will remain different... keep up the good job." - **Oyeniyi B,** _May 2006_
+
+"In the BlueBottle fan list, I am on the top."- **_Ratn R_**
 
 "The service is too excellent and I will inform all my colleagues to use this site." - **Maruthi,**
-
-"Thanks for your excellent service, and I recommend to everyone the Bluebottle experience." - **_Sebastian N_**
-
-"I've been a Bluebottle subscriber for awhile now, and know you offer a great service." - **Rick R,** _July 2006_
-
-"Your email service is the best one of all. There is no other better spam protector than yours.... TRULY THE BEST." - **_Jainam S_**
 
 ##  Bluebottle - the Only Anti-Spam solution you will ever need
 
