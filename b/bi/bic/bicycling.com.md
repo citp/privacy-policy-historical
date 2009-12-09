@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bicycling.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619203855id_/http%3A//www.rodale.com/corp/sub/0%2C%2C1-28%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bicycling.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209211929id_/http%3A//www.rodale.com/corp/sub/0%2C%2C1-28%2C00.html) for the most accurate reproduction.*
 
 # Your Privacy Policy | Rodale Inc
 
@@ -6,7 +6,7 @@ Policy Effective Date: July 29, 2008
 
 Protecting Your Privacy and Servicing Your Needs
 
-Rodale Inc. is the world's leader in health and wellbeing. Through our brands (Best Life, Bicycling, Men's Health, Mountain Bike, Organic Gardening, Women's Health, Prevention, Runner's World, Running Times, and Rodale Books) Rodale brings you the ideas, insights, inspiration and information you need to live life to the fullest.
+Rodale Inc. is the world's leader in health and wellbeing. Through our brands (Bicycling, Men's Health, Mountain Bike, Organic Gardening, Women's Health, Prevention, Runner's World, Running Times, and Rodale Books) Rodale brings you the ideas, insights, inspiration and information you need to live life to the fullest.
 
 We're a family-run business that treats its customers like family. And we are deeply committed to protecting your privacy and the security of the information you share with us. 
 
@@ -140,7 +140,7 @@ Rodale's Copyright Agent may be contacted at: Copyright Agent, Rodale Inc., 33 E
 
 **We appreciate the opportunity to serve you!**
 
-If you have any questions regarding this privacy policy statement or if you feel that this site has not followed its stated information policy, feel free to contact us. Our postal address is: 33 East Minor Street, Emmaus, PA 18098, and we can be reached via e-mail at: [info@rodale.com](mailto:info@rodale.com "mail to info@rodale.com"). You can reach us by telephone at (610) 967-5171 or (800) 914-9363.
+If you have any questions regarding this privacy policy statement or if you feel that this site has not followed its stated information policy, feel free to contact us. Our postal address is: 33 East Minor Street, Emmaus, PA 18098, and we can be reached via e-mail at: [customerservice@rodale.com](mailto:customerservice@rodale.com "mail to customerservice@rodale.com"). You can reach us by telephone at (610) 967-5171 or (800) 914-9363.
 
 Additionally, you may contact your state or local consumer protection office, The Direct Marketing Association's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org "mail to mgoldberger@the-dma.org"), the [Better Business Bureau](http://www.bbb.org/ "Better Business Bureau"), or The Federal Trade Commission by phone at (202) FTC-HELP (202/382-4357) and online at [www.ftc.gov](https://rn.ftc.gov/dod/wsolcq$.startup?Z_ORG_CODE=PU01 "www.ftc.gov").
 
