@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the curseforge.com privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614103809id_/http%3A//www.curse.com/content/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curseforge.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209195717id_/http%3A//www.curse.com/content/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Curse Network Privacy Policy - Curse
 
 **CURSE, INC. PRIVACY POLICY**
 
-**_Last updated May 6, 2009_**
+**_Last updated June 17, 2009_**
 
 **__Our Privacy Commitment__**   
 
 
-Welcome to Curse! Curse, Inc. (“ ** _Curse,_** ” “ ** _we,_** ” “ ** _us_** ” or “ ** _our_** ”) is committed to respecting the privacy rights and concerns of all users of the Curse  websites where this Privacy Policy is posted (the “ ** _Site(s)_** ”) (we refer to the Site(s), the services made available through the Site(s), collectively, as the “ ** _Curse Features_** ”). As such, we have established and implemented this Privacy Policy to inform visitors to the Site(s) and users of the Curse Features how we use and protect the information we collect through the Site(s). By visiting the Site(s) or using any of the Curse Features, you consent to Curse’ collection, use, storage, deletion and disclosure of information relating to you as set forth in this Privacy Policy. This Privacy Policy is effective as of the date set forth above and is only applicable to the Site(s) and not to any other website that you may be able to access from the Site(s) which may have its own data collection and use practices and policies.
+Welcome to Curse! Curse, Inc. (“ ** _Curse,_** ” “ ** _we,_** ” “ ** _us_** ” or “ ** _our_** ”) is committed to respecting the privacy rights and concerns of all users of the Curse  websites where this Privacy Policy is posted (the “ ** _Site(s)_** ”) (we refer to the Site(s), the services and software made available through the Site(s), collectively, as the “ ** _Curse Features_** ”). As such, we have established and implemented this Privacy Policy to inform visitors to the Site(s) and users of the Curse Features how we use and protect the information we collect through the Site(s). By visiting the Site(s) or using any of the Curse Features, you consent to Curse’ collection, use, storage, deletion and disclosure of information relating to you as set forth in this Privacy Policy. This Privacy Policy is effective as of the date set forth above and is only applicable to the Site(s) and not to any other website that you may be able to access from the Site(s) which may have its own data collection and use practices and policies.
 
 This policy answers the following questions:   
 
@@ -43,7 +43,7 @@ The personal information you provide to us will allow us to fulfill your product
 
 **Log Information**
 
-Our servers automatically record information that your browser sends whenever you visit the Site(s). This information includes your Internet Protocol address, your browser type and version, the search engine you used to find the Curse Features, if any, the operating system your computer uses, the type of computer hardware you have (such as the amount of RAM, the type of GPU or type of CPU in your computer) which Curse Features you use and when and how long you use them. We use this information to monitor and analyze how users use the Curse Features, to provide customer service and to maintain and improve the Curse Features.
+Our servers automatically record information that your browser sends whenever you visit the Site(s). Additionally, some of the Curse Features may collect information regarding your computer system. This information includes your Internet Protocol address, your browser type and version, the search engine you used to find the Curse Features, if any, the operating system your computer uses, the type of computer hardware you have (such as the amount of RAM, the type of GPU or type of CPU in your computer) which Curse Features you use and when and how long you use them. We use this information to monitor and analyze how users use the Curse Features, to provide customer service and to maintain and improve the Curse Features.
 
 ## **Children’s Privacy**
 
