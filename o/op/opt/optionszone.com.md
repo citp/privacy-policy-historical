@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optionszone.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621194836id_/http%3A//optionszone.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optionszone.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209063728id_/http%3A//www.optionszone.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -86,24 +86,25 @@ You can send e-mail to us with any further questions at [service@OptionsZone.com
 
 ### More By This Expert
 
-Ken Trester
+Michael Shulman
 
-[Commodity Futures 101: Learn How to Trade Commodity Futures](https://web.archive.org/trading-ideas/gallery/commodity-futures-101-learn-how-to-trade-commodity-futures.html)
+[5 Short-Side Investment Rules](https://web.archive.org/learn-more/michael-shulman/5-rules-for-picking-profitable-short-side-investment-plays.html)
 
-Learn the commodity futures basics to get started on your way to trading options on commodity futures, which is an excellent way to make big profits.
+What are the five rules for constructing great short-side positions? Read on to find out. 
 
-[Short-Term Gains Using Long-Term Options](https://web.archive.org/learn-more/ken-trester/make-short-term-money-with-long-term-options.html)
+[10 Reasons to Use ETFs When Trading Options](https://web.archive.org/learn-more/michael-shulman/gallery/10-reasons-to-use-etfs.html)
 
-Stock options are excellent speculative vehicles and can be inexpensive to boot! 
+How do investors and traders cope with a market that has fallen more than 40% in just one year and survive until greener pastures return?
 
-[The Thrill of Expiring Options](https://web.archive.org/learn-more/ken-trester/the-thrill-of-expiring-options.html)
+[The Bad News Victims of 2008 are the   
+New Victors of 2009 ](https://web.archive.org/learn-more/michael-shulman/gallery/victims-2008-victors-2009.html)
 
-A diligent trader can make big money buying expiring options. But you have to be ready to move quickly.
+There were a lot of losing trades last year, but there were also winners for those willing to bet against conventional wisdom -- and this will be the case in 2009, too.
 
-[How to Initiate a Credit Spread](https://web.archive.org/learn-more/ken-trester/how-to-initiate-a-credit-spread.html)
+[The 10 Dumbest Analyst Calls of 2008 ](https://web.archive.org/learn-more/michael-shulman/gallery/10-dumbest-calls.html)
 
-We'll show you how our subscribers made a $400 return in less than two weeks with this two-step strategy.
+This collection of calls has been easier to write than _See Spot Run_. My only difficulty has been restraining myself in order to not be sued, punched out or have my tires slashed.
 
-[Make Big Money in Underpriced Options](https://web.archive.org/learn-more/ken-trester/make-big-money-in-underpriced-options.html)
+[Don't Stop 'Banking' on a Bailout](https://web.archive.org/learn-more/michael-shulman/dont-stop-banking-on-bailout-financials.html)
 
-A little money can sometimes go a long way. Ken Trester shares his roadmap to options trading success.
+The Titanic is only just approaching the iceberg. And there aren't enough lifeboats handy for everyone who's going to need one.
