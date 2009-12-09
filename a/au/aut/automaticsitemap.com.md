@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automaticsitemap.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503010232id_/http%3A//www.automaticsitemap.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automaticsitemap.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209025339id_/http%3A//www.automaticsitemap.com/privacy.jsp) for the most accurate reproduction.*
 
 # Automatic Site Map - Privacy Policy
 
@@ -8,13 +8,13 @@ Effective: **October 1st 2008**
 
 **Privacy Notice Table Of Contents:**
 
-  * [Our Commitment To Privacy](https://web.archive.org/web/20090503010232id_/http%3A//www.automaticsitemap.com/=%22#1%22)
-  * [The Information We Collect](https://web.archive.org/web/20090503010232id_/http%3A//www.automaticsitemap.com/=%22#2%22)
-  * [How We Use Information](https://web.archive.org/web/20090503010232id_/http%3A//www.automaticsitemap.com/=%22#3%22)
-  * [Our Commitment To Data Security](https://web.archive.org/web/20090503010232id_/http%3A//www.automaticsitemap.com/=%22#4%22)
-  * [Our Commitment To Children's Privacy](https://web.archive.org/web/20090503010232id_/http%3A//www.automaticsitemap.com/=%22#5%22)
-  * [How To Access Or Correct Your Information](https://web.archive.org/web/20090503010232id_/http%3A//www.automaticsitemap.com/=%22#6%22)
-  * [How To Contact Us](https://web.archive.org/web/20090503010232id_/http%3A//www.automaticsitemap.com/=%22#7%22)
+  * Our Commitment To Privacy
+  * The Information We Collect
+  * How We Use Information
+  * Our Commitment To Data Security
+  * Our Commitment To Children's Privacy
+  * How To Access Or Correct Your Information
+  * How To Contact Us
 
 
 
