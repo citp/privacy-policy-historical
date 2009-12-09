@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shermanstravel.com privacy policy that was archived on 2009-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090607070654id_/http%3A//www.shermanstravel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shermanstravel.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209214016id_/http%3A//www.shermanstravel.com/privacy) for the most accurate reproduction.*
 
 # Pages
 
