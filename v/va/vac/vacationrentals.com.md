@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vacationrentals.com privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612065309id_/http%3A//www.vacationrentals.com/vr/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vacationrentals.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209053836id_/http%3A//www.vacationrentals.com/vr/privacy.htm) for the most accurate reproduction.*
 
 # VacationRentals.com Privacy Policy
 
@@ -49,7 +49,7 @@ We take appropriate technical and organisational measures to guard against unaut
 
 All personal information is stored on a secure server. We do not store credit card numbers or related identifying information on any Site server. All such information is stored by our credit card processing partner, on their secured servers, and is protected via its proprietary methods. **Please remember that many services and transactions are performed by our business partners. Our privacy policy and our security or common practices do not apply to other companies.**
 
-### What is a Cookie and Why Do We Use Them?
+###  What is a Cookie and Why Do We Use Them?
 
 A "cookie" is a small piece of information sent by a Web server to store in a Web browser so that it can later be read back from that browser. We may use cookies to store some personal preferences for your future visits. Cookies allow us to recognize you more quickly; therefore, your time spent on our site can be more personalized and productive. You'll find that cookies are an industry standard and are used at most major Web sites in much the same way we use them here at our Site.
 
@@ -80,7 +80,7 @@ The Site's third-party advertising service providers may also use Web Beacons to
 We allow our users the option to change or modify information previously provided. This may be done through the following methods:
 
   1. submit a form at the [customer support](http://www.vacationrentals.com/support.htm) page, or 
-  2. mail the request to us at 3801 S. Capital of Texas Highway #150, Austin, Texas 78704.
+  2. mail the request to us at 1011 W. 5th Street, Suite 300 Austin, Texas 78703.
 
 
 
@@ -90,7 +90,7 @@ You may opt-out of receiving marketing communications from us by the following m
 
   1. submit a form at the [customer support](http://www.vacationrentals.com/support.htm) page, 
   2. follow the instructions included in each communication or newsletter, or 
-  3. mail the request to us at 3801 S. Capital of Texas Highway #150, Austin, Texas 78704.
+  3. mail the request to us at 1011 W. 5th Street, Suite 300 Austin, Texas 78703.
 
 
 
