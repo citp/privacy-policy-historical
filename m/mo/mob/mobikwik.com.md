@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobikwik.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627092030id_/http%3A//mobikwik.com/pages/static/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobikwik.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209041406id_/http%3A//www.mobikwik.com/pages/static/privacy.jsp) for the most accurate reproduction.*
 
 # mobikwik - Privacy Policy
 
