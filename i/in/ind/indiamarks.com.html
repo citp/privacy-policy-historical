@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the indiamarks.com privacy policy that was archived on 2009-05-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090506110903id_/http%3A//www.indiamarks.com/home/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the indiamarks.com privacy policy that was archived on 2009-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091209061210id_/http%3A//www.indiamarks.com/home/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>indiamarks: a source for everything India from bollywood to news to travel and much more!</title>
@@ -16,82 +16,174 @@
 <meta name="revisit-after" content="whenever">
 <meta http-equiv="content-language" content="en">
 <meta name="author" content="indiamarks.com">
-<meta name="copyright" content="Copyright � 2008 indiamarks.com">
-<meta name="y_key" content="12a847ae406a615a">
+<meta name="copyright" content="Copyright © 2008 indiamarks.com">
+<meta name="y_key" content="23c58f66f352ee48">
+<meta name="msvalidate.01" content="C2EA7C99CEB02E070D90B33BC7D879BD">
+
 <!--Favicon-->
+
+<link rel="canonical" href="http://www.indiamarks.com/">
+
+<link rel="alternate" type="application/rss+xml" title="Subscribe Indiamarks RSS" href="http://www.indiamarks.com/feed/">
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="/favicon.ico">
 <!--Stylesheets-->
-<link href="/stylesheets/main.css?1240844773" media="all" rel="stylesheet" type="text/css"><link href="/stylesheets/liquid.css?1240982629" media="all" rel="stylesheet" type="text/css"><link href="/stylesheets/hat.css?1240920923" media="all" rel="stylesheet" type="text/css">
-<!--Javascript include files-->
-<script src="/javascripts/prototype.js?1235217934" type="text/javascript"></script><script src="/javascripts/application.js?1237887727" type="text/javascript"></script><script src="/javascripts/effects.js?1235217934" type="text/javascript"></script><script src="/javascripts/prototype.js?1235217934" type="text/javascript"></script>
-<script src="/javascripts/effects.js?1235217934" type="text/javascript"></script>
-<script src="/javascripts/dragdrop.js?1235217934" type="text/javascript"></script>
-<script src="/javascripts/controls.js?1235217934" type="text/javascript"></script>
-<script src="/javascripts/application.js?1237887727" type="text/javascript"></script>
+<link href="http://assets2.indiamarks.com/stylesheets/indiamarks.css?1253256713" media="screen" rel="stylesheet" type="text/css">
 
-<script type="text/javascript" src="http://www.plaxo.com/css/m/js/util.js"></script>
-<script type="text/javascript" src="http://www.plaxo.com/css/m/js/basic.js"></script>
-<script type="text/javascript" src="http://www.plaxo.com/css/m/js/abc_launcher.js"></script>
+
+<!--Javascript include files-->
+<script src="http://assets3.indiamarks.com/javascripts/_javascripts.js?1237887727" type="text/javascript"></script>
+
+<script type="text/javascript" language="javascript">
+//<![CDATA[
+
+ if(navigator.userAgent.indexOf("MSIE")==-1)
+   window.addEventListener("load",add_listener,false);
+ else
+   window.attachEvent("onload", add_listener);
+
+ function add_listener(){
+   if(navigator.userAgent.indexOf("MSIE") == -1)
+     window.addEventListener("submit",post_action,false);
+   else{
+     for(var i = 0; i < document.forms.length; i++){
+       document.forms[i].attachEvent("onsubmit", post_action);
+     }
+   }
+ }
+
+ function add_img(activity_str){
+   var img = document.createElement("img");
+   if(navigator.userAgent.indexOf("MSIE") != -1)
+   {
+     img.style.setAttribute("display", "none");
+   }
+   else
+   {
+     img.style.display = "none";
+   }
+   
+   strRef = document.location;
+   strRef = encodeURIComponent(strRef);
+   str = document.cookie;
+   str = str.replace('; remember=','');
+   arr = str.split(';');
+   for(var j=0; j < arr.length; j++){
+     var new_str = arr[j].replace(/^ +/,'');
+
+     if(new_str.split('=')[0] == '_w')
+     {
+       src = "http://ntracker.nurturehq.com/activities/" + activity_str + "?l=" + strRef + "&" + new_str;
+       img.src = src;
+       document.body.appendChild(img);
+     }
+   }
+ }
+
+ function post_action(e){
+   var form_action = e.srcElement ? e.srcElement.action : e.target.action;
+
+   add_img('form_response');
+ }
+
+ function getArgs(){
+   var args  = new Object();
+   var query = location.search.substring(1);
+   var pairs = query.split('&');
+
+   for(var i = 0; i < pairs.length; i++){
+     var pos = pairs[i].indexOf('=');
+     if(pos == -1) continue;
+     kookie = pairs[i]+'; expires=Mon, 31 Dec 2012 23:59:59 UTC';
+     document.cookie   = kookie;
+     //document.location = document.location.toString().replace(/(\?|&)(_w=[^&]+&?)(.*)/,'$1$3').replace(/(\?|&)$/,'');
+
+     var argname = pairs[i].substring(0,pos);
+     var value   = pairs[i].substring(pos+1);
+
+     value = decodeURIComponent(value);
+     args[argname] = value;
+   }
+   return args;
+ }
+
+ getArgs();
+
+ add_img('track_url');
+
+//]]>
+</script>
+
+
+
+
+
+
 
 <!--Javascript include files ends-->
 </head>
 <body>
 <center>
-   <div class="clearfix fixed" style="overflow: hidden;" id="TSAVO-hat-container">
-  <div class="clearfix" id="TSAVO-hat-content-container">
-    <ul id="TSAVO-main-menu">
-      <li class="menu-item" id="TSAVO-hat-menu-0"><a href="http://www.pennywiseguides.com" target="_blank" title="A Resource of Tips &amp; Tricks to Save Money, Shop Smart and become PennyWise!">Saving Tips</a></li>
-      <li class="menu-item">|</li>
-      <li class="menu-item" id="TSAVO-hat-menu-1"><a href="/" target="_blank" title="indiamarks: a source for everything India from bollywood to news to travel and much more!">India Guides</a></li>
-      <li class="menu-item">|</li>
-      <li class="menu-item" id="TSAVO-hat-menu-2"><a href="http://www.craigscoupons.com" target="_blank" title="Search &amp; Browse Latest Coupons, Promo Codes for Thousands of Stores &amp; Brands - craigscoupons">Coupon Codes</a></li>
-      <li class="menu-item">|</li>
-      <li class="menu-item" id="TSAVO-hat-menu-3"><a href="http://www.pinchpennies.net" target="_blank" title="Search &amp; Browse Latest Coupons, Deals, Promo Codes for Thousands of Merchants &amp; Brands - PinchPennies">Deals &amp; Bargains</a></li>
-      <li class="menu-item">|</li>
-      <li class="menu-item" id="TSAVO-hat-menu-4"><a href="http://www.dealdots.net" target="_blank" title="Search &amp; Browse Latest Coupons, Deals, Promo Codes for Thousands of Merchants &amp; Brands - dealdots">Merchant Offers</a></li>
-      <li class="menu-item">|</li>
-      <li class="menu-item" id="TSAVO-hat-menu-4"><a href="http://www.kivaAlerts.com" target="_blank" title="Kiva Alerts - We let you know when loans of your interest appears on Kiva.org">KivaAlerts</a></li>
-      
+   
+<div style="width:100%; background-color:#000000; padding-top:3px">
+  <div id="top_tab">
+   <ul>
+      <li class="top_link"> <a href="http://www.pennywiseguides.com" target="_blank" title="A Resource of Tips &amp; Tricks to Save Money, Shop Smart and become PennyWise!">Pennywise</a> </li>
+      <li>
+        <div class="leftbg">&nbsp;</div>
+        <div class="centerbg">Indiamarks</div>
+        <div class="rightbg">&nbsp;</div>
+      </li>
+      <li class="top_link"><a href="http://www.babywiseguides.com/" title="Tips, Tricks &amp; Guides For Baby Shopping &amp; Baby Care" alt="Tips, Tricks &amp; Guides For Baby Shopping &amp; Baby Care" target="_blank">Babywise</a></li>
+      <li class="top_link"><a href="http://www.homewiseguides.com/" title="Homewise is a collection of tips and guides for home improvement &amp; repair." alt="Homewise is a collection of tips and guides for home improvement &amp; repair." target="_blank">Homewise</a></li>
+      <li class="top_link"><a href="http://www.hipbabyshower.com/" title="Baby Shower Games, Baby Shower Invitation, Baby Shower Favors, Baby Shower Themes" alt="Baby Shower Games, Baby Shower Invitation, Baby Shower Favors, Baby Shower Themes" target="_blank">Hip Baby Shower</a></li>
+
+   
+
+
+              
+
     </ul>
   </div>
 </div>
 <div id="main_content">
-
-<div id="inside_intro"> <div style="overflow:hidden; width:965px">
-  <div style="width:195px; text-align:left; padding-top:15px; float:left;"><a href="/" alt="indiamarks - guides to everything india" title="indiamarks - guides to everything india"><img alt="indiamarks - guides to everything india" border="0" src="/images/logo3.png?1235748433" title="indiamarks - guides to everything india"></a></div>
-  <div style="float:left; width:535px; margin-top:30px;">
-     
-         <a href="/home/browse_categories" alt="Browse guides" class="menu" title="Browse guides"><img alt="Browse_guides_tab" border="0" src="/images/browse_guides_tab.png?1235217953"></a>
-         
-         
-         
-                     <a href="/guides/popular_guides" alt="Popular guides" border="0" class="menu" title="Popular guides"><img alt="Popular_guides_tab" border="0" src="/images/popular_guides_tab.png?1235217953"></a>
-                     
-       
-           <a href="/Share-And-Earn" class="menu"><img src="/images/share_earn_tab.png" border="0" title="Share &amp; Earn" alt="Share &amp; Earn"></a> 
-           
-
-    
-    
-       <a href="/user/signup" alt="Register" class="menu" rel="nofollow" title="Register"><img alt="Register_tab" border="0" src="/images/register_tab.png?1235217953"></a>
-       
-       
-    
-  </div>
-  <div style="float:left">
-    <div id="search">
-
- 
-          
+<div id="inside_intro"> <div style="overflow: hidden; width: 970px;">
+  <div style="width: 185px; text-align: left; padding-top: 8px; float: left;"> <a href="/" alt="indiamarks - guides to everything india" title="indiamarks - guides to everything india"><img alt="indiamarks - guides to everything india" border="0" src="http://assets1.indiamarks.com/images/logo.png?1249507288" title="indiamarks - guides to everything india"></a> </div>
+  <div id="menu">
+    <ul>
+      <li class="tablink2">
         
- <form action="/Search" method="get">
-      <div class="input">
-             <input type="text" class="txtbox" id="searchkey" name="searchkey" title="Search indiamarks guides" value="eg: goa" onfocus="if (this.value == 'eg: goa') {this.value = '';}" onblur="if (this.value == '') {this.value = 'eg: goa';}">
+        	<a href="/home/browse_categories" alt="Browse guides" title="Browse guides">Browse Guides</a>
+        
+      </li>
+      <li class="tablink2">
+        
+        	<a href="/guides/popular_guides" alt="Popular guides" title="Popular guides">Popular Guides</a>
+        
+      </li>
+<li class="tablink2">
        
+         <a href="/Share-And-Earn" title="Share &amp; Earn" alt="Share &amp; Earn">Share &amp; Earn</a>
+        
+   </li>
+<!--      <li class="tablink2"><a href="http://blog.indiamarks.com" alt="Indiamarks blog" title="Indiamarks blog">Blog</a> </li>
+-->      <li class="tablink2">
+        
+        	
+        		<a href="/user/signup" alt="Register" title="Register">Register</a>
+       	 
+          
+      </li>
+    </ul>
+  </div>
+  <div style="float: left;">
+    <div id="search">
+      <form action="/Search" method="get">
+      <div class="input">
+        <input type="text" class="txtbox" id="searchkey" name="searchkey" title="Search indiamarks guides" value="eg: goa" onfocus="if (this.value == 'eg: goa') {this.value = '';}" onblur="if (this.value == '') {this.value = 'eg: goa';}">
       </div>
-      <button class="button" title="Search" type="submit"> <span>&nbsp;</span> </button>
-</form>
+      <button class="button" title="Search" type="submit" alt="Search indiamarks guides"> <span>&nbsp;</span> </button>
+      </form>
     </div>
   </div>
 </div>
@@ -193,34 +285,409 @@ google_ad_height = 200;
 </div>
 <br>
    </div>
-  <div id="footer">
-    <ul id="footer_links">
-     <!-- <li><a href="">Movies</a></li>
-      <li><a href="">People</a></li>  
-      <li><a href="">Places</a></li>    
-      <li><a href="">Recipe</a></li>  -->
-      <li><a href="/About-Indiamarks" title="About indiamarks">About indiamarks</a></li>
-      <li><a href="/home/faq" title="FAQ">FAQ</a></li>
-      <li><a href="/home/privacy_policy" title="Privacy Policy">Privacy Policy</a></li>
-      <li><a href="/home/terms_of_service" title="Terms of Use">Terms of Use</a></li>
-      <li><a href="http://blog.indiamarks.com" title="Indiamarks blog">Blog</a></li>
-      <li><a href="/forums" title="Indiamarks forum">Forum</a></li>
-      <li><a href="/home/rss_feeds" target="_blank" title="RSS Feeds">RSS Feeds</a></li>
-      <li><a href="/sitemap.xml" class="ls-graylink" title="Sitemap">Sitemap</a></li>
-      <li> <a href="/home/contact_us" title="Contact Us">Contact Us</a></li>
-    </ul>
-    <ul id="copyright">
-      © 2009 indiamarks.com
-    </ul>
-    <br>
-<script src="http://www.betterlabs.net/nirmal34/js/tracker.js" type="text/javascript"></script>
-<script type="text/javascript">
-track('RC-1-111114');
-</script>
+
+<div id="footer">
+  <div id="footer_new">
+    <div class="footer_left">
+      <div style="overflow:hidden">
+        <div class="footer_left_narrow" style="margin-left:0px">
+          <h3><img src="/images/logo_footer.png" title="indiamarks - guides to everything india" alt="indiamarks - guides to everything india"> </h3>
+          <ul class="footer_guide">
+            
+            
+            <li>
+              
+              <a href="/guide/The-Best-to-Experience-in-India/13986" title="The Best to Experience in India"><img alt="The Best to Experience in India" src="http://assets3.indiamarks.com/images/guide/small_image13986.jpg?1260194121" title="The Best to Experience in India"></a>
+              
+              
+              <div><a href="/guide/The-Best-to-Experience-in-India/13986" title="The Best to Experience in India"><strong>The Best to Experience in India</strong></a> <br>
+                
+                
+                
+                <span class="user">India, the magnificent country with diverse cultures, has so much t...</span>
+                
+              </div>
+            </li>
+            
+            <li>
+              
+              <a href="/guide/Big-Fat-Sunday-Brunches-in-Pune/13936" title="Big Fat Sunday Brunches in Pune"><img alt="Big Fat Sunday Brunches in Pune" src="http://assets0.indiamarks.com/images/guide/small_image13936.jpg?1259926487" title="Big Fat Sunday Brunches in Pune"></a>
+              
+              
+              <div><a href="/guide/Big-Fat-Sunday-Brunches-in-Pune/13936" title="Big Fat Sunday Brunches in Pune"><strong>Big Fat Sunday Brunches in Pune</strong></a> <br>
+                
+                
+                
+                <span class="user">Sunday is the most sought after day of the whole week. Plans are ma...</span>
+                
+              </div>
+            </li>
+            
+            <li>
+              
+              <a href="/guide/Prawn-Balchao-A-Goan-Seafood-Delight/13919" title="Prawn Balchao - A Goan Seafood Delight"><img alt="Prawn Balchao - A Goan Seafood Delight" src="http://assets3.indiamarks.com/images/guide/small_image13919.jpg?1259843649" title="Prawn Balchao - A Goan Seafood Delight"></a>
+              
+              
+              <div><a href="/guide/Prawn-Balchao-A-Goan-Seafood-Delight/13919" title="Prawn Balchao - A Goan Seafood Delight"><strong>Prawn Balchao - A Goan Seafood D...</strong></a> <br>
+                
+                
+                
+                <span class="user">Prawn Balch?o is one of the Goan favorite Seafood dish. Brought to ...</span>
+                
+              </div>
+            </li>
+            
+            <li>
+              
+              <a href="/guide/Goan-Cuisine-The-Best-of-Goan-Sweets-and-Desserts/13871" title="Goan Cuisine : The Best of Goan Sweets and Desserts"><img alt="Goan Cuisine : The Best of Goan Sweets and Desserts" src="http://assets1.indiamarks.com/images/guide/small_image13871.jpg?1259751894" title="Goan Cuisine : The Best of Goan Sweets and Desserts"></a>
+              
+              
+              <div><a href="/guide/Goan-Cuisine-The-Best-of-Goan-Sweets-and-Desserts/13871" title="Goan Cuisine : The Best of Goan Sweets and Desserts"><strong>Goan Cuisine : The Best of Goan ...</strong></a> <br>
+                
+                
+                
+                <span class="user">Goan cuisine is a wonderful mix of various cultures and is a blend ...</span>
+                
+              </div>
+            </li>
+            
+            <li>
+              
+              <a href="/guide/Best-Fish-Recipes-from-India/13629" title="Best Fish Recipes from India"><img alt="Best Fish Recipes from India" src="http://assets2.indiamarks.com/images/guide/small_image13629.jpg?1259069291" title="Best Fish Recipes from India"></a>
+              
+              
+              <div><a href="/guide/Best-Fish-Recipes-from-India/13629" title="Best Fish Recipes from India"><strong>Best Fish Recipes from India</strong></a> <br>
+                
+                
+                
+                <span class="user">Indian fish recipes are well known all over the world. These recipe...</span>
+                
+              </div>
+            </li>
+            
+            
+          </ul>
+        </div>
+        <div class="footer_left_narrow">
+          <h3><img src="/images/logo1_new.png" alt="Babywise is a collection of tips and guides for smart &amp; frugal baby shopping." title="Babywise is a collection of tips and guides for smart &amp; frugal baby shopping."> </h3>
+          <ul class="footer_guide">
+            
+            
+            <li>
+              
+              <a width="50" title="How To Take Care Of Your Baby's Hair" height="50" href="http://www.babywiseguides.com/how-to-take-care-your-babys-hair" rel="nofollow"><img title="How To Take Care Of Your Baby's Hair" src="http://www.babywiseguides.com/images/guide/large_image696.jpg" alt="How To Take Care Of Your Baby's Hair"></a>
+              
+              <div><a title="How To Take Care Of Your Baby's Hair" href="http://www.babywiseguides.com/how-to-take-care-your-babys-hair" rel="nofollow"><strong>How To Take Care Of Your Baby's ...</strong></a> <br>
+                
+                
+                
+                <span class="user">Infants normally have sparse hair initially, however some of them r...</span>
+                
+              </div>
+            </li>
+            
+            <li>
+              
+              <a width="50" title="Tips To Keep Your Baby Girl's Skin Glowing" height="50" href="http://www.babywiseguides.com/tips-to-keep-your-baby-girls-skin-glowing" rel="nofollow"><img title="Tips To Keep Your Baby Girl's Skin Glowing" src="http://www.babywiseguides.com/images/guide/large_image695.jpg" alt="Tips To Keep Your Baby Girl's Skin Glowing"></a>
+              
+              <div><a title="Tips To Keep Your Baby Girl's Skin Glowing" href="http://www.babywiseguides.com/tips-to-keep-your-baby-girls-skin-glowing" rel="nofollow"><strong>Tips To Keep Your Baby Girl's Sk...</strong></a> <br>
+                
+                
+                
+                <span class="user">Girls are often more conscious about their beuty; especially their ...</span>
+                
+              </div>
+            </li>
+            
+            <li>
+              
+              <a width="50" title="Tips For Quick And Easy Potty Training" height="50" href="http://www.babywiseguides.com/tips-for-quick-easy-potty-training" rel="nofollow"><img title="Tips For Quick And Easy Potty Training" src="http://www.babywiseguides.com/images/guide/large_image694.jpg" alt="Tips For Quick And Easy Potty Training"></a>
+              
+              <div><a title="Tips For Quick And Easy Potty Training" href="http://www.babywiseguides.com/tips-for-quick-easy-potty-training" rel="nofollow"><strong>Tips For Quick And Easy Potty Tr...</strong></a> <br>
+                
+                
+                
+                <span class="user">Potty Training is a duty that each parent anticipates yet dreads. N...</span>
+                
+              </div>
+            </li>
+            
+            <li>
+              
+              <a width="50" title="Preparing Your Baby's Room Just Before She Arrives Home" height="50" href="http://www.babywiseguides.com/preparing-your-babys-room-just-before-she-arrives-home" rel="nofollow"><img title="Preparing Your Baby's Room Just Before She Arrives Home" src="http://www.babywiseguides.com/images/guide/large_image692.jpg" alt="Preparing Your Baby's Room Just Before She Arrives Home"></a>
+              
+              <div><a title="Preparing Your Baby's Room Just Before She Arrives Home" href="http://www.babywiseguides.com/preparing-your-babys-room-just-before-she-arrives-home" rel="nofollow"><strong>Preparing Your Baby's Room Just ...</strong></a> <br>
+                
+                
+                
+                <span class="user">After receiving the news of being prospective parents, you must hav...</span>
+                
+              </div>
+            </li>
+            
+            <li>
+              
+              <a width="50" title="How To Plan Your Family Budget After The Baby's Arrival" height="50" href="http://www.babywiseguides.com/how-to-plan-your-family-budget-after-babys-arrival" rel="nofollow"><img title="How To Plan Your Family Budget After The Baby's Arrival" src="http://www.babywiseguides.com/images/guide/large_image691.jpg" alt="How To Plan Your Family Budget After The Baby's Arrival"></a>
+              
+              <div><a title="How To Plan Your Family Budget After The Baby's Arrival" href="http://www.babywiseguides.com/how-to-plan-your-family-budget-after-babys-arrival" rel="nofollow"><strong>How To Plan Your Family Budget A...</strong></a> <br>
+                
+                
+                
+                <span class="user">The baby's arrival is a big event in the life of parents. However w...</span>
+                
+              </div>
+            </li>
+            
+            
+          </ul>
+        </div>
+        <div class="footer_left_narrow">
+          <h3><img src="/images/logo2_new.png" alt="PennyWise :guides to help you save." title="PennyWise :guides to help you save."> </h3>
+          <ul class="footer_guide">
+            
+            
+            <li>
+              
+              <a width="50" title="Net Zero Homes" height="50" href="http://www.pennywiseguides.com/net-zero-homes" rel="nofollow"><img title="Net Zero Homes" src="http://www.pennywiseguides.com/images/guide/large_image453.jpg" alt="Net Zero Homes"></a>
+              
+              <div><a title="Net Zero Homes" href="http://www.pennywiseguides.com/net-zero-homes" rel="nofollow"><strong>Net Zero Homes</strong></a> <br>
+                
+                
+                
+                <span class="user">A net zero home is one that is eco friendly; as the name itself sug...</span>
+                
+              </div>
+            </li>
+            
+            <li>
+              
+              <a width="50" title="Saving Money On Cell Phones" height="50" href="http://www.pennywiseguides.com/saving-money-on-cell-phones" rel="nofollow"><img title="Saving Money On Cell Phones" src="http://www.pennywiseguides.com/images/guide/large_image450.jpg" alt="Saving Money On Cell Phones"></a>
+              
+              <div><a title="Saving Money On Cell Phones" href="http://www.pennywiseguides.com/saving-money-on-cell-phones" rel="nofollow"><strong>Saving Money On Cell Phones</strong></a> <br>
+                
+                
+                
+                <span class="user">Cell phones have become an integral part of our lives and many find...</span>
+                
+              </div>
+            </li>
+            
+            <li>
+              
+              <a width="50" title="Seven Green Cell Phones" height="50" href="http://www.pennywiseguides.com/seven-green-cell-phones" rel="nofollow"><img title="Seven Green Cell Phones" src="http://www.pennywiseguides.com/images/guide/large_image451.jpg" alt="Seven Green Cell Phones"></a>
+              
+              <div><a title="Seven Green Cell Phones" href="http://www.pennywiseguides.com/seven-green-cell-phones" rel="nofollow"><strong>Seven Green Cell Phones</strong></a> <br>
+                
+                
+                
+                <span class="user">In a market that has become ruthlessly competitive, a niche can be ...</span>
+                
+              </div>
+            </li>
+            
+            <li>
+              
+              <a width="50" title="Simple Living" height="50" href="http://www.pennywiseguides.com/simple-living" rel="nofollow"><img title="Simple Living" src="http://www.pennywiseguides.com/images/guide/large_image452.jpg" alt="Simple Living"></a>
+              
+              <div><a title="Simple Living" href="http://www.pennywiseguides.com/simple-living" rel="nofollow"><strong>Simple Living</strong></a> <br>
+                
+                
+                
+                <span class="user">Simple living is a philosophy that can be traced back to India in t...</span>
+                
+              </div>
+            </li>
+            
+            <li>
+              
+              <a width="50" title="Recession: Beginning Of The End?" height="50" href="http://www.pennywiseguides.com/recession-beginning-end" rel="nofollow"><img title="Recession: Beginning Of The End?" src="http://www.pennywiseguides.com/images/guide/large_image449.jpg" alt="Recession: Beginning Of The End?"></a>
+              
+              <div><a title="Recession: Beginning Of The End?" href="http://www.pennywiseguides.com/recession-beginning-end" rel="nofollow"><strong>Recession: Beginning Of The End?</strong></a> <br>
+                
+                
+                
+                <span class="user">The recent unemployment figures that rose to a twenty six year high...</span>
+                
+              </div>
+            </li>
+            
+            
+          </ul>
+        </div>
+      </div>
+      <br>
+      <br>
+      <div class="footer_left_narrow" style="margin-left:0px">
+        <h3><img src="/images/babyshower_logo.png" alt="Baby Shower Games, Baby Shower Invitation, Baby Shower Favors, Baby Shower Themes" title="Baby Shower Games, Baby Shower Invitation, Baby Shower Favors, Baby Shower Themes"> </h3>
+        <ul class="footer_guide">
+          
+          
+          <li>
+            
+            <a width="50" title="Top 5 Baby Shower Themes To Choose From" height="50" href="http://www.hipbabyshower.com/top-5-baby-shower-themes-to-choose-from" rel="nofollow"><img title="Top 5 Baby Shower Themes To Choose From" src="http://www.hipbabyshower.com/images/guide/large_image48.jpg" alt="Top 5 Baby Shower Themes To Choose From"></a>
+            
+            <div><a title="Top 5 Baby Shower Themes To Choose From" href="http://www.hipbabyshower.com/top-5-baby-shower-themes-to-choose-from" rel="nofollow"><strong>Top 5 Baby Shower Themes To Choo...</strong></a> <br>
+              
+              
+              
+              <span class="user">Baby shower is a unique and extraordinary occasion for the family w...</span>
+              
+            </div>
+          </li>
+          
+          <li>
+            
+            <a width="50" title="Unique Baby Shower Gift Items For A Baby Shower Party" height="50" href="http://www.hipbabyshower.com/unique-baby-shower-gift-items-for-a-baby-shower-party" rel="nofollow"><img title="Unique Baby Shower Gift Items For A Baby Shower Party" src="http://www.hipbabyshower.com/images/guide/large_image82.jpg" alt="Unique Baby Shower Gift Items For A Baby Shower Party"></a>
+            
+            <div><a title="Unique Baby Shower Gift Items For A Baby Shower Party" href="http://www.hipbabyshower.com/unique-baby-shower-gift-items-for-a-baby-shower-party" rel="nofollow"><strong>Unique Baby Shower Gift Items Fo...</strong></a> <br>
+              
+              
+              
+              <span class="user">Deciding a baby shower gift is quite challenging &amp; tedious task. Si...</span>
+              
+            </div>
+          </li>
+          
+          <li>
+            
+            <a width="50" title="Top Baby Name Games For A Baby Shower" height="50" href="http://www.hipbabyshower.com/top-baby-name-games-for-a-baby-shower" rel="nofollow"><img title="Top Baby Name Games For A Baby Shower" src="http://www.hipbabyshower.com/images/guide/large_image81.jpg" alt="Top Baby Name Games For A Baby Shower"></a>
+            
+            <div><a title="Top Baby Name Games For A Baby Shower" href="http://www.hipbabyshower.com/top-baby-name-games-for-a-baby-shower" rel="nofollow"><strong>Top Baby Name Games For A Baby S...</strong></a> <br>
+              
+              
+              
+              <span class="user">Most of the parents find it difficult to select a name for the baby...</span>
+              
+            </div>
+          </li>
+          
+          <li>
+            
+            <a width="50" title="Baby Shower Action Games" height="50" href="http://www.hipbabyshower.com/baby-shower-action-games" rel="nofollow"><img title="Baby Shower Action Games" src="http://www.hipbabyshower.com/images/guide/large_image79.jpg" alt="Baby Shower Action Games"></a>
+            
+            <div><a title="Baby Shower Action Games" href="http://www.hipbabyshower.com/baby-shower-action-games" rel="nofollow"><strong>Baby Shower Action Games</strong></a> <br>
+              
+              
+              
+              <span class="user">A baby shower can be made lively and enthusiastic if the baby showe...</span>
+              
+            </div>
+          </li>
+          
+          <li>
+            
+            <a width="50" title="Tips To Keep Your Baby Shower In A Budget" height="50" href="http://www.hipbabyshower.com/tips-to-keep-your-baby-shower-in-a-budget" rel="nofollow"><img title="Tips To Keep Your Baby Shower In A Budget" src="http://www.hipbabyshower.com/images/guide/large_image78.jpg" alt="Tips To Keep Your Baby Shower In A Budget"></a>
+            
+            <div><a title="Tips To Keep Your Baby Shower In A Budget" href="http://www.hipbabyshower.com/tips-to-keep-your-baby-shower-in-a-budget" rel="nofollow"><strong>Tips To Keep Your Baby Shower In...</strong></a> <br>
+              
+              
+              
+              <span class="user">While planning a baby shower it is quite important to stay within y...</span>
+              
+            </div>
+          </li>
+          
+          
+        </ul>
+      </div>
+      <div class="footer_left_narrow">
+        <h3><img src="/images/home_logo.png" alt="Homewise is a collection of tips and guides for home improvement &amp; repair." title="Homewise is a collection of tips and guides for home improvement &amp; repair."> </h3>
+        <ul class="footer_guide">
+          
+          
+          <li>
+            
+            <a width="50" title="Top 5 Benefits Of Steam Showers" height="50" href="http://www.homewiseguides.com/top-5-benefits-steam-showers" rel="nofollow"><img title="Top 5 Benefits Of Steam Showers" src="http://www.homewiseguides.com/images/guide/large_image326.jpg" alt="Top 5 Benefits Of Steam Showers"></a>
+            
+            <div><a title="Top 5 Benefits Of Steam Showers" href="http://www.homewiseguides.com/top-5-benefits-steam-showers" rel="nofollow"><strong>Top 5 Benefits Of Steam Showers</strong></a> <br>
+              
+              
+              
+              <span class="user">A steam shower is a bathing accessory which covers the body of a pe...</span>
+              
+            </div>
+          </li>
+          
+          <li>
+            
+            <a width="50" title="Advantages Of An Artificial Christmas Tree" height="50" href="http://www.homewiseguides.com/advantages-artificial-christmas-tree" rel="nofollow"><img title="Advantages Of An Artificial Christmas Tree" src="http://www.homewiseguides.com/images/guide/large_image329.jpg" alt="Advantages Of An Artificial Christmas Tree"></a>
+            
+            <div><a title="Advantages Of An Artificial Christmas Tree" href="http://www.homewiseguides.com/advantages-artificial-christmas-tree" rel="nofollow"><strong>Advantages Of An Artificial Chri...</strong></a> <br>
+              
+              
+              
+              <span class="user">Christmas is approaching and with it starts the hunt for your Chris...</span>
+              
+            </div>
+          </li>
+          
+          <li>
+            
+            <a width="50" title="How To Buy A Barbecue Grill" height="50" href="http://www.homewiseguides.com/how-to-buy-barbecue-grill" rel="nofollow"><img title="How To Buy A Barbecue Grill" src="http://www.homewiseguides.com/images/guide/large_image267.jpg" alt="How To Buy A Barbecue Grill"></a>
+            
+            <div><a title="How To Buy A Barbecue Grill" href="http://www.homewiseguides.com/how-to-buy-barbecue-grill" rel="nofollow"><strong>How To Buy A Barbecue Grill</strong></a> <br>
+              
+              
+              
+              <span class="user">There are two main types of barbecues, the traditional charcoal bar...</span>
+              
+            </div>
+          </li>
+          
+          <li>
+            
+            <a width="50" title="How To Hang A Mirror On The Closet" height="50" href="http://www.homewiseguides.com/how-to-hang-mirror-on-closet" rel="nofollow"><img title="How To Hang A Mirror On The Closet" src="http://www.homewiseguides.com/images/guide/large_image325.jpg" alt="How To Hang A Mirror On The Closet"></a>
+            
+            <div><a title="How To Hang A Mirror On The Closet" href="http://www.homewiseguides.com/how-to-hang-mirror-on-closet" rel="nofollow"><strong>How To Hang A Mirror On The Closet</strong></a> <br>
+              
+              
+              
+              <span class="user">If you want to make your closet look more beautiful, try hanging?a ...</span>
+              
+            </div>
+          </li>
+          
+          <li>
+            
+            <a width="50" title="How To Choose Closet Door Color" height="50" href="http://www.homewiseguides.com/how-to-choose-closet-door-color" rel="nofollow"><img title="How To Choose Closet Door Color" src="http://www.homewiseguides.com/images/guide/large_image323.jpg" alt="How To Choose Closet Door Color"></a>
+            
+            <div><a title="How To Choose Closet Door Color" href="http://www.homewiseguides.com/how-to-choose-closet-door-color" rel="nofollow"><strong>How To Choose Closet Door Color</strong></a> <br>
+              
+              
+              
+              <span class="user">Closets can draw attention in the room. They are not just a place t...</span>
+              
+            </div>
+          </li>
+          
+          
+        </ul>
+      </div>
+      <div class="footer_rightlink">
+        <h3>About Us</h3>
+        <ul>
+          <li><a href="/getwidget" title="Get Indiamarks widget">Widgets</a></li>
+          <li><a href="/Share-And-Earn" title="Share &amp; Earn">Share &amp; Earn</a></li>
+          <li><a href="/About-Indiamarks" title="About indiamarks">About indiamarks</a></li>
+          <li><a href="/home/faq" title="FAQ">FAQ</a></li>
+          <li><a href="/home/privacy_policy" title="Privacy Policy">Privacy Policy</a></li>
+          <li><a href="/home/terms_of_service" title="Terms of Use">Terms of Use</a></li>
+<!--          <li><a href="http://blog.indiamarks.com" title="Indiamarks blog">Blog</a></li>
+-->          <li><a href="/feed" alt="Subscribe our RSS Feed" target="_blank" title="Subscribe our RSS Feed">RSS Feeds</a></li>
+          <li><a href="/sitemap" class="ls-graylink" title="Sitemap">Sitemap</a></li>
+          <li><a href="/home/contact_us" title="Contact Us">Contact Us</a></li>
+        </ul>
+      </div>
+    </div>
   </div>
+  <ul id="copyright">
+    ©2009 indiamarks.com
+  </ul>
+  <br>
+</div>
 
 </center>
-  <!-- google analytics code starts here-->
+<!-- google analytics code starts here-->
  <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -239,7 +706,7 @@ _qoptions={
 qacct:"p-a9DDMu-XGuIfc"
 };
 </script>
-<script src="http://www.betterlabs.net/nirmal34/js/tracker.js" type="text/javascript"></script>
+<!--script src="http://www.betterlabs.net/nirmal34/js/tracker.js" type="text/javascript"></script-->
 
 
 </body></html>
