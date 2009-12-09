@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nycerome.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609112116id_/http%3A//www.nycerome.com/nycerome-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nycerome.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209195848id_/http%3A//nycerome.com/nycerome-privacy.html) for the most accurate reproduction.*
 
 # Rome hotels, online reservation of hotels in Rome, Italy
 
