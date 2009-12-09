@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the newscorp.com privacy policy that was archived on 2009-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090223120358id_/http%3A//www.newscorp.com//privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newscorp.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209191614id_/http%3A//www.newscorp.com/privacy.html) for the most accurate reproduction.*
 
 # News Corporation
 
-### News America Incorporated Statement of Privacy Principles
+### News Corporation Statement of Privacy Principles
 
 **PREAMBLE**  
-News America Incorporated ("News America") is the principal U.S. subsidiary of News Corporation, one of the world's largest media companies. Some of the businesses of News America and its subsidiary, Fox Entertainment Group, Inc., include: the production and distribution of motion pictures, television programming and related consumer products (Twentieth Century Fox); television broadcasting (the FOX Network and FOX-owned television stations); cable programming (such as FOX Sports Net, FOX Sports World, Fox Sports World Espaňol, FOX College Sports, Speed Channel, FOX News Channel, FX and Fox Movie Channel); the publication of newspapers, books, magazines and promotional free-standing inserts (such as the _New York Post_ , Dow Jones, HarperCollins Publishers, _The Weekly Standard_ , _The Wall Street Journal_ and News America Marketing); marketing services (SmartSource/iGroup); and Internet services (such as MySpace.com). In this Statement of Privacy Principles, these businesses are collectively called the News America Group.
+News Corporation is one of the world's largest media companies. The U.S.-based businesses of News Corporation include: the production and distribution of motion pictures, television programming and related consumer products; television broadcasting; cable programming; the publication of newspapers, books, magazines and promotional free-standing inserts; marketing services; and Internet services. In this Statement of Privacy Principles these U.S. businesses are collectively called the News America Group. 
 
 At the News America Group we strive to enhance our relationship with consumers. Collecting personal information about consumers is vital to this effort.
 
@@ -39,6 +39,6 @@ Consumers may contact a privacy officer at each News America Group business unit
 **COMPLIANCE**  
 Each News America Group company will take appropriate measures to ensure compliance with these Privacy Principles.
 
-_Revised as of: February 28, 2008_
+_Revised as of: September 17, 2009_
 
 * Please see the [Commentary](http://www.newscorp.com/commentary.html) further explaining these Principles.
