@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamiyausa.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616204738id_/http%3A//www.tamiyausa.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamiyausa.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209073435id_/http%3A//www.tamiyausa.com/privacy.php) for the most accurate reproduction.*
 
 # TamiyaUSA.com Privacy Statement
 
@@ -6,9 +6,11 @@
 ---  
   
 ---  
-| 6/12 [300th 1/35th Scale Wallpaper](https://web.archive.org/web/20090616204738id_/http%3A//www.tamiyausa.com/product/stuff.php) |   
-| 6/5 [Builders Showcase #45](https://web.archive.org/articles/feature.php?article-id=406) |   
-| 5/22 [MSD 2009 Scale Nats. Adventure](https://web.archive.org/articles/feature.php?article-id=404) |   
+| 12/7 [Rheinard Claims Victory in Budapest ](http://www.teamtrf.com/) |   
+| 12/7 [TRF Forums](http://teamtrf.com/forum/) |   
+| 12/1 [Builders Showcase #51](https://web.archive.org/articles/feature.php?article-id=448) |   
+| 12/1 [Builders Showcase #50 Winner](https://web.archive.org/articles/feature.php?article-id=444) |   
+| 11/30 [December Calendars!](https://web.archive.org/product/stuff.php) |   
 [More News...](https://web.archive.org/news/index.php) |   
 |  |   
 ---|---  
