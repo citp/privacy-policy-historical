@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the en.wordpress.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429194846id_/http%3A//automattic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the en.wordpress.com privacy policy that was archived on 2009-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091210001627id_/http%3A//automattic.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy « Automattic
 
@@ -44,6 +44,10 @@ A cookie is a string of information that a website stores on a visitor’s compu
 ### Ads
 
 Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Automattic and does not cover the use of cookies by any advertisers.
+
+### Comments
+
+Comments and other content submitted to our Akismet anti-spam service are not saved on our servers unless they were marked as false positives, in which case we store them long enough to use them to improve the service to avoid future false positives.
 
 ### Privacy Policy Changes
 
