@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickhit.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604055511id_/http%3A//www.quickhit.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickhit.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209054842id_/http%3A//www.quickhit.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Legal | Quick Hit
 
