@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the plannedparenthood.org privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626223641id_/http%3A//www.plannedparenthood.org/privacy-policy-5500.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plannedparenthood.org privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209231334id_/http%3A//www.plannedparenthood.org/privacy-policy-5500.htm) for the most accurate reproduction.*
 
-# Planned Parenthood
+# Privacy Policy - Planned Parenthood
 
 We at Planned Parenthood Federation of America, Inc. ("PPFA" or "Planned Parenthood") want this site to be a safe and private place for users. We will do our part by not requiring you to register or provide any information at all to use most sections and features of this Web site. In turn, you can do your part by reading this policy and taking the steps outlined below.
 
