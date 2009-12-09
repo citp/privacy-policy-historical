@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trafficpunk.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608042300id_/http%3A//trafficpunk.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficpunk.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209235401id_/http%3A//trafficpunk.com/privacy.php) for the most accurate reproduction.*
 
-# TrafficPunk - Free Manual Traffic Exchange and Website Promotion
+# TrafficPunk - Manual Traffic Exchange and Free Website Promotion
 
 |  | [](https://web.archive.org/) | [](https://web.archive.org/login.php) | [](https://web.archive.org/register.php) | [](https://web.archive.org/howitworks.php) | [](https://web.archive.org/contact)  
 ---|---|---|---|---|---  
