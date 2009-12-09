@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the adside.com privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529055553id_/http%3A//www.adside.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adside.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209114709id_/http%3A//www.adside.com/privacy.html) for the most accurate reproduction.*
 
 # DOCLIX: Privacy Policy
 
-[](https://web.archive.org/web/20090529055553id_/http%3A//www.adside.com/index.html)
+[](https://web.archive.org/web/20091209114709id_/http%3A//www.adside.com/index.html)
 
-DOCLIX respects the privacy of online users. This policy explains the accepted privacy practices for the services available at [www.doclix.com](http://www.doclix.com/) ("DOCLIX.com") and the use of the _ContextGain_ and _AdSide_ Program Services (collectively, "the Services").
+DOCLIX respects the privacy of online users. This policy explains the accepted privacy practices for the services available at [www.doclix.com](http://www.doclix.com/) and [www.adside.com](http://www.adside.com/) ("ADSIDE.com") and the use of the _ContextGain_ and _AdSide_ Program Services (collectively, "the Services").
 
 ## _AdSide_
 
@@ -22,7 +22,7 @@ When you register as an Advertiser or Publisher with the Services, you may be as
 
 When you use the Services as a publisher, advertiser or an end user, DOCLIX may collect further information, such as session durations, page impressions, advertisements viewed or clicked on, the Internet protocol (IP) address and the domain name that served you to access the Services, and the geographic location of the computer system that you are using.
 
-DOCLIX may automatically collect information through the use of log files and other means. If you register with any of the Services, then the information gathered will be partially personally identifiable. If you are not a registered user or you are an end user, than we will not knowingly make use of any information which personally identifies you, except as specifically indicated in the policy, or on doclix.com.
+DOCLIX may automatically collect information through the use of log files and other means. If you register with any of the Services, then the information gathered will be partially personally identifiable. If you are not a registered user or you are an end user, than we will not knowingly make use of any information which personally identifies you, except as specifically indicated in the policy, or on adside.com.
 
 Further information may be collected when you exchange communications with DOCLIX, for example, when you submit an inquiry to DOCLIX.
 
@@ -96,7 +96,7 @@ Some Advertisers and/or third-party Advertisement providers (such as agencies or
 
 ## 11\. Changes to this Privacy Policy
 
-DOCLIX may change and update the terms of this policy from time to time. All substantial changes made to this policy will be notified on doclix.com, or in your personal account, at DOCLIX's discretion, and take effect 30 days following their initial posting. Other changes will take effect 7 days following the notification. However, any amendment made to comply with any legal requirements will take effect as legally required.
+DOCLIX may change and update the terms of this policy from time to time. All substantial changes made to this policy will be notified on adside.com, or in your personal account, at DOCLIX's discretion, and take effect 30 days following their initial posting. Other changes will take effect 7 days following the notification. However, any amendment made to comply with any legal requirements will take effect as legally required.
 
 Continuing to use _ContextGain_ after the changes to this policy have taken effect indicates your acceptance of the amended policy. If you do not agree with any of the amended policy, then you must cease any further use of _ContextGain_.
 
