@@ -1,15 +1,15 @@
-<!--The following is the downloaded HTML source of the epi.org privacy policy that was archived on 2009-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090624215211id_/http%3A//www.epi.org/pages/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the epi.org privacy policy that was archived on 2009-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091209230626id_/http%3A//www.epi.org/pages/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <title>Privacy Policy</title>
   <link rel="alternate" type="application/rss+xml" title="Main Site Feed" href="http://www.epi.org/content/rss/">
-  <link rel="alternate" type="application/rss+xml" title="Worth Reading" href="http://www.epi.org/worth_reading/rss/">
+  <link rel="alternate" type="application/rss+xml" title="EconWire" href="http://www.epi.org/worth_reading/rss/">
   <link rel="alternate" type="application/rss+xml" title="Economic Snapshots" href="http://www.epi.org/economic_snapshots/rss/">
   <link rel="alternate" type="application/rss+xml" title="Quick Takes" href="http://www.epi.org/quick_takes/rss/">
   <link rel="icon" type="image/x-icon" href="http://epi.bluestatedigital.com/favicon.ico">
-  <link href="http://www.epi.org/?css=style/index.v.1245716650" rel="stylesheet" type="text/css">
+  <link href="http://www.epi.org/?css=style/index.v.1259115256" rel="stylesheet" type="text/css">
   <!--[if ie 6]><link href="http://www.epi.org/?css=style/ie6.v.1227141952" rel="stylesheet" media="screen" type="text/css"/><![endif]-->
 <!--[if lt ie 8]>
   <style type="text/css">
@@ -17,7 +17,7 @@
   #top-nav ul a {display: block; margin-bottom: -2px;}
   </style>
 <![endif]-->
-  <link rel="stylesheet" media="print" type="text/css" href="http://www.epi.org/?css=style/print.v.1231567636">
+  <link rel="stylesheet" media="print" type="text/css" href="http://www.epi.org/?css=style/print.v.1247741000">
       <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js" type="text/javascript"></script>
   <script src="http://www.epi.org/js/tb_setup/" type="text/javascript"></script>
   <script src="/page/-/js/thickbox-compressed.js" type="text/javascript"></script>
@@ -29,21 +29,22 @@
 <![endif]-->
   <script src="http://www.epi.org/js/tabs/" type="text/javascript"></script>
   <script src="http://www.epi.org/js/pdf_links/" type="text/javascript"></script>
-  <script src="http://www.epi.org/js/cycle/" type="text/javascript"></script>
+  <script src="/page/-/js/jquery.cycle.all.min.js" type="text/javascript"></script>
 <script type="text/javascript">
 jQuery(document).ready(function(){
-$('#carousel') 
+jQuery('#carousel') 
 .before('<div id="slider-nav">') 
 .cycle({ 
     fx:     'fade', 
     speed:  'fast', 
     timeout: 14000, 
-    pager:  '#slider-nav' 
+    pager:  '#slider-nav',
+    containerResize: 1
 });
 });
 </script>
 </head>
-<body>
+<body id="pages">
   <!--start main-->
   <div id="main">
     <!--start header-->
@@ -52,26 +53,28 @@ $('#carousel')
       <ul id="top-nav">
         <li class="first"><a href="http://www.epi.org/">Home</a></li>
         <li tabindex="0">
-          <a href="#">Issues</a>
+          <a href="/pages/issues/">Issues</a>
           <ul id="nav_categories" class="nav_categories">
 	<li><a href="/issues/category/bailout_analysis_project/">Bailout Analysis</a></li>
 	<li><a href="/issues/category/economic_performance/">Economic Performance</a></li>
-	<li><a href="http://www.epi.org/issues/category/education/">Education</a></li>
-	<li><a href="http://www.epi.org/issues/category/health_care/">Health Care</a></li>
-	<li><a href="http://www.epi.org/issues/category/labor_policy/">Labor Policy</a></li>
-	<li><a href="http://www.epi.org/issues/category/public_investment/">Public Investment</a></li>
-	<li><a href="http://www.epi.org/issues/category/race_and_ethnicity/">Race and Ethnicity</a></li>
-	<li><a href="http://www.epi.org/issues/category/retirement/">Retirement</a></li>
-	<li><a href="http://www.epi.org/issues/category/trade_and_global_integration/">Trade and Global Integration</a></li>
-	<li><a href="http://www.epi.org/issues/category/wages_and_living_standards/">Wages and Living Standards</a></li>
+	<li><a href="/issues/category/education/">Education</a></li>
+	<li><a href="/issues/category/health_care/">Health Care</a></li>
+	<li><a href="/issues/category/wages_and_living_standards/">Jobs, Wages and Living Standards</a></li>
+	<li><a href="/issues/category/labor_policy/">Labor Policy</a></li>
+	<li><a href="/issues/category/public_investment/">Public Investment</a></li>
+	<li><a href="/issues/category/race_and_ethnicity/">Race and Ethnicity</a></li>
+	<li><a href="/issues/category/retirement/">Retirement</a></li>
+	<li><a href="/issues/category/trade_and_global_integration/">Trade and Global Integration</a></li>
         </ul>
         </li> 
         <li>
-          <a href="/publications/">Publications</a>
+          <a href="/latest_research/">Research</a>
           <ul>
-            <li><a href="/pages/shop/">Books</a></li>
-            <li><a href="/publications/">Reports</a></li>
-            <li><a href="/economic_snapshots/">Snapshots</a></li>
+            <li><a href="/latest_research/">Latest Research</a></li>
+            <li><a href="/analysis_and_opinion/">Analysis &amp; Opinion</a></li>
+            <li><a href="/pages/shop/">EPI Bookstore</a></li>
+            <li><a href="/publications/">All EPI Publications</a></li>
+            <li><a href="/economic_snapshots/">Economic Snapshots</a></li>
             <li><a href="/pages/epinews/">EPI News</a></li>
           </ul>
         </li>
@@ -81,37 +84,46 @@ $('#carousel')
         <li>
           <a href="/pages/economist/">Experts</a>
           <ul>
+            <li><a href="/pages/economist/"><i>Complete List</i></a></li>
             <li><a href="/pages/economist/#austin">Algernon Austin</a></li>
             <li><a href="/pages/economist/#avirgan">Tony Avirgan</a></li> 
             <li><a href="/pages/economist/#bivens">Josh Bivens</a></li>
             <li><a href="/pages/economist/#eisenbrey">Ross Eisenbrey</a></li>
             <li><a href="/pages/economist/#faux">Jeff Faux</a></li>
+            <li><a href="/pages/economist/#filion">Kai Filion</a></li>
+            <li><a href="/pages/economist/#gable">Mary Gable</a></li>
             <li><a href="/pages/economist/#gould">Elise Gould</a></li>
             <li><a href="/pages/economist/#irons">John Irons</a></li>
             <li><a href="/pages/economist/#mishel">Lawrence Mishel</a></li>
             <li><a href="/pages/economist/#morrissey">Monique Morrissey</a></li>
+            <li><a href="/pages/economist/#orr">Andrea Orr</a></li>
+            <li><a href="/pages/economist/#pollack">Ethan Pollack</a></li>
+            <li><a href="/pages/economist/#rothstein">Richard Rothstein</a></li>
             <li><a href="/pages/economist/#roy">Joydeep Roy</a></li>
             <li><a href="/pages/economist/#scott">Robert Scott</a></li>
             <li><a href="/pages/economist/#shierholz">Heidi Shierholz</a></li>
-            <li><a href="/pages/economist/">Complete List</a></li>
+            <li><a href="/pages/economist/#associates"><i>Research associates</i></a></li>
         </ul>
         </li>
         <li>
           <a href="#">Resources</a>
           <ul>
-            <li><a href="http://archive.epinet.org/real_media/" target="_blank">Audio and video</a></li>
-            <li><a href="/content/budget_calculator">Basic Family Budget Calculator</a></li>
+            <li><a href="http://www.epi.org/pages/audio_video/">Audio and video</a></li>
+            <li><a href="/content/budget_calculator/">Basic Family Budget Calculator</a></li>
             <li><a href="/resources/datazone_index/">Datazone</a></li>
+            <li><a href="/publications/entry/issue_guide_on_minimum_wage/">Minimum Wage Issue Guide</a></li>
           </ul>
         </li>
         <li>
           <a href="http://www.epi.org/pages/about_the_economic_policy_institute/">About</a>
           <ul>
             <li><a href="/pages/about_the_economic_policy_institute/">About EPI</a></li>
-            <li><a href="/pages/contact">Contact</a></li>
+            <li><a href="/pages/board/">Board of Directors</a></li>
+            <li><a href="/pages/jobs">Careers</a></li>
+            <li><a href="/pages/contact">Contact EPI</a></li>
             <li><a href="/pages/calendar">Events</a></li>
             <li><a href="/page/s/signup">Sign up</a></li>
-            <li><a href="/pages/jobs">Work at EPI</a></li>
+            <li><a href="/pages/genstaff/">Staff</a></li>
           </ul>
         </li>
         <li id="contribute">
@@ -119,7 +131,10 @@ $('#carousel')
         </li>
       </ul>
       <a class="logo" href="http://www.epi.org/"><img src="/page/-/img/red-banner.gif" width="912" height="134" alt="Economic Policy Institute"></a>
+
     </div>
+
+<div id="print-logo"><img src="/page/-/img/red-banner-600.gif" alt=""></div>
 
   <div id="content" class="with_sidebar">
     <div id="column">
@@ -382,7 +397,7 @@ Washington, DC 20005<br>
 
   <div class="box2">
     <div class="sub-box">
-      <h2>Search EPI.org</h2>
+      <h2>Search EPI sites</h2>
       <form action="/index.php/search/index" id="cse-search-box">
         <div>
           <input type="hidden" name="cx" value="000246197632131830914:yevepvwfswa">
@@ -402,7 +417,8 @@ Washington, DC 20005<br>
   </div> 
 </div> 
   </div>
-      <!--start footer-->
+      
+    <!--start footer-->
     <div id="footer">
       <ul>
         <li class="first"><a href="/pages/privacy_policy/">Privacy Policy</a></li>
