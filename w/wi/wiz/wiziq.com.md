@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wiziq.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621084423id_/http%3A//www.wiziq.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiziq.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209081353id_/http%3A//www.wiziq.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Your privacy is our top concern
 
@@ -82,6 +82,6 @@ If you have questions or comments about this privacy policy, please email us at 
 
 **Sikhya Solutions, LLC.  
 Attn: Privacy Policy issues  
-9220, Fairbanks, Suite 205  
-Raleigh , NC 27613**  
+3782 Lake Spring Ave  
+Concord, NC 28027**  
 
