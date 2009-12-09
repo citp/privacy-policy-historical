@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shapefit.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616053725id_/http%3A//www.shapefit.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shapefit.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209070337id_/http%3A//www.shapefit.com/privacy-policy.html) for the most accurate reproduction.*
 
 # ShapeFit Privacy Policy - Protecting The Privacy Our Visitors
 
@@ -8,12 +8,14 @@
 ](http://www.shapefit.com/)[  
 ](http://fittracker.shapefit.com/)[  
 ](http://www.shapefit.com/calculators.html)[  
-](http://www.shapefit.com/shapefit-assist.html)[  
+](http://www.shapefit.com/free-fitness-ebooks.html)[](http://www.shapefit.com/shapefit-fitness-products.html)[  
+](http://www.shapefit.com/shapefit-fitness-products.html)[  
 ](http://www.shapefit.com/exercise.html)[  
 ](http://www.shapefit.com/nutrition.html)[](http://www.shapefit.com/cardio.html)[  
 ](http://fittracker.shapefit.com/)[  
 ](http://www.shapefit.com/weight-loss.html)[](http://www.shapefit.com/success-stories.html)  
-[](http://www.shapefit.com/latest-articles.html)  
+[  
+](http://www.shapefit.com/latest-articles.html)[](http://www.shapefit.com/doctor-dicensos-corner.html)  
 [  
 ](http://www.shapefit.com/fitness-questions-answers.html)[](http://www.shapefit.com/best-snacks.html)  
 [](http://www.shapefit.com/fastfood.html)  
@@ -28,15 +30,14 @@
 ](http://www.shapefit.com/fitness-extras.html)[  
 ](http://www.shapefit.com/tellafriend.html)[](http://www.shapefit.com/testimonials.html)[  
 ](http://www.shapefit.com/support-our-site.html)[  
-](http://www.shapefit.com/advertise.html) [](http://www.addthis.com/bookmark.php)
+](http://www.shapefit.com/advertise.html)[  
+](http://www.shapefit.com/fitness-affiliate-program.html) [](http://www.shapefit.com/add-us-friends.html)
 
-Our **FREE** weekly fitness newsletter is packed with the latest diet & exercise articles, weight loss success stories and healthy recipes to help you lose fat and build muscle. **Join now!**
+[](http://www.shapefit.com/weight-loss-ebooks.html)
 
-***Latest Workouts!**
+[](http://www.shapefit.com/free-muscle-building-ebook.html)
 
-***Weight Loss Tips!**
-
-***Weekly Recipes!**
+[](http://www.shapefit.com/fitness-affiliate-program.html)
 
 | 
 
