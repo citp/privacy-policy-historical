@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the socialbookmarking-101.com privacy policy that was archived on 2009-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090520023235id_/http%3A//www.socialbookmarking-101.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialbookmarking-101.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209073014id_/http%3A//www.socialbookmarking-101.com/privacy.htm) for the most accurate reproduction.*
 
-# Social Bookmarking 101
+# Social Bookmarking 101 Privacy Policy
 
-**Social BookMarking 101 Privacy Policy**
+#### Social BookMarking 101 Privacy Policy
 
-PRIVACY POLICY 
+PRIVACY POLICY
 
 Social Bookmarking 101("SB101") strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period."
 
@@ -40,7 +40,7 @@ We can be reached by contacting:
 
 SB101
 
-Email: 
+Email:
 
 Changes to this Policy
 
@@ -52,4 +52,6 @@ This policy and the use of this Site are governed by Florida law. If a dispute a
 
 If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Crestview, FL under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
 
-SB101 is controlled, operated and administered entirely within Florida. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+SB101 is controlled, operated and administered entirely within Florida. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
+
+## Social Bookmarking 101 - The Leader in [Link Building Services](http://www.socialbookmarking-101.com/)
