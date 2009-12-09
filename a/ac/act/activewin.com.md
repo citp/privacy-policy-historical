@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activewin.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614125946id_/http%3A//www.activewin.com/terms/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activewin.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209224357id_/http%3A//www.activewin.com/terms/privacy.shtml) for the most accurate reproduction.*
 
 # ActiveWin: Privacy Policy
 
