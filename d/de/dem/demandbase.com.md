@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the demandbase.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622155124id_/http%3A//www.demandbase.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demandbase.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209231905id_/http%3A//www.demandbase.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy : Demandbase
 
@@ -12,12 +12,12 @@ If you suspect a client of abusing our services, please contact us at [ abuse@de
 
 Demandbase has aligned with recognized leaders in the direct marketing industry and hopes to influence how practices are reshaped in the future. Please contact us at [ privacy@demandbase.com ](mailto:privacy@demandbase.com) to learn more.
 
-| DMA advocates industry standards for responsible marketing, promotes relevance as the key to reaching consumers with desirable offers, and provides cutting-edge research, education, and networking opportunities to improve results throughout the entire direct marketing process.  
+|  DMA advocates industry standards for responsible marketing, promotes relevance as the key to reaching consumers with desirable offers, and provides cutting-edge research, education, and networking opportunities to improve results throughout the entire direct marketing process.  
 [ www.the-dma.org](http://www.the-dma.org/)  
 ---|---  
-| The eec is a global professional organization that strives to enhance the image of email marketing and communications, while celebrating and actively advocating its critical importance in business, and its ROI value.  
+|  The eec is a global professional organization that strives to enhance the image of email marketing and communications, while celebrating and actively advocating its critical importance in business, and its ROI value.  
 [ www.emailexperience.org](http://www.emailexperience.org/)  
-| CAUCE, The Coalition Against Unsolicited Commercial Email is an all volunteer organization, created by Netizens to advocate for a legislative solution to the problem of UCE (a/k/a "spam").  
+|  CAUCE, The Coalition Against Unsolicited Commercial Email is an all volunteer organization, created by Netizens to advocate for a legislative solution to the problem of UCE (a/k/a "spam").  
 [ www.cauce.org](http://www.cauce.org/)  
   
 
@@ -26,7 +26,7 @@ Demandbase has aligned with recognized leaders in the direct marketing industry 
 
 #### Scope
 
-This privacy policy describes how we handle the personal information that you supply to us or concerning your use of our services available through the [ www.demandbase.com ](https://web.archive.org/web/20090622155124id_/http%3A//www.demandbase.com/index.html) Web site (the "Site") and applies generally to any affiliated Web sites. By accepting the Privacy Policy and the User Agreement in registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
+This privacy policy describes how we handle the personal information that you supply to us or concerning your use of our services available through the [ www.demandbase.com ](https://web.archive.org/web/20091209231905id_/http%3A//www.demandbase.com/index.html) Web site (the "Site") and applies generally to any affiliated Web sites. By accepting the Privacy Policy and the User Agreement in registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
 
 This Privacy Policy is effective on August 1, 2006 for any current users, and upon acceptance for all new users.
 
