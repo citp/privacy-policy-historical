@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mydailymoment.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625093738id_/http%3A//www.mydailymoment.com/about_us/about_us/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydailymoment.com privacy policy that was archived on 2009-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091210032300id_/http%3A//www.mydailymoment.com/about_us/about_us/privacy_policy.php) for the most accurate reproduction.*
 
-# My Daily Moment - Privacy Policy
+# Privacy Policy | About Us | About US
 
 Last Revised: April 1, 2008 
 
