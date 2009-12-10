@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the orcacard.com privacy policy that was archived on 2009-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090509002011id_/http%3A//www.orcacard.com/ERG-Seattle/common/images/ORCA%2520Privacy%2520Statement.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orcacard.com privacy policy that was archived on 2009-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091210223539id_/http%3A//www.orcacard.com/ERG-Seattle/common/images/ORCA%2520Privacy%2520Statement.pdf) for the most accurate reproduction.*
 
 # ORCA Privacy Statement
 
                                                                         ORCA Privacy Statement
-Last Modified January 27, 2009
+Last Modified Sept. 29, 2009
 1.0 Application of this Privacy Statement
 1.1 Welcome to ORCA, which stands for One Regional Card for All. The ORCA Program allows you to use a single
 fare card when taking the public transportation services provided by the participating Agencies.
@@ -70,7 +70,8 @@ debit card/credit card information.
 2.13 “Retail Revalue Site” is a retail business or other entity that, under an agreement with an Agency, is equipped
 with a device for customer purchase of ORCA products for loading on an ORCA Card.
 2.14 “Regional Reduced Fare Permit (RRFP)” is a type of ORCA Card issued to individuals who are eligible for
-reduced fares by one of the Agencies based on the individual’s disability or age (65 and older).
+reduced fares by one of the Agencies based on the individual’s disability or age (65 and older). A valid Medicare card
+is proof of eligibility for an RRFP.
 2.15 “Ticket Vending Machine (TVM)” is a machine for purchasing Sound Transit rail tickets and ORCA Cards
 or products.
 3.0 Customer Services Requiring Information
@@ -378,7 +379,7 @@ courts sitting in King County, Washington that have jurisdiction over the matter
 Please direct any questions or comments regarding this Privacy Statement to the ORCA Regional Program
 Administrator as follows:
 E-mail: contactus@orcacard.com
-Telephone: 1-888-988-6722 / TTY Relay: 711 during regular business hours
+Telephone: 1-888-988-6722 / TTY Relay: 711/1-888-889-6368 during regular business hours
 Mail: ORCA Regional Program Administrator
         401 S Jackson
         Seattle, WA 98104
@@ -392,5 +393,9 @@ your review upon your request.
 20.2 We will post changes to this Statement at least ten (10) days before they take effect. Any information we collect
 under the current Privacy Statement will remain subject to the terms of this Statement. After any changes take effect,
 all new information we collect, if any, will be subject to the new Statement.
-1.27.2009.OPS
+Alternate formats of ORCA Terms of Use and Privacy Statement available.
+1-888-988-6722 (ORCA)
+TTY Relay: 711/1-888-889-6368
+email: contactus@orcacard.com
+9.28.2009.OPS
                                                                                                                        Page 8
