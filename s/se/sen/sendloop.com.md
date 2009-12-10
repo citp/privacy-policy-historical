@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sendloop.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601163333id_/http%3A//sendloop.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendloop.com privacy policy that was archived on 2009-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091210200607id_/http%3A//sendloop.com/privacy_policy) for the most accurate reproduction.*
 
-# Sendloop - The Easiest and Most Professional Newsletter Sending Service
+# Privacy Policy | Sendloop
 
 We respect the privacy needs of our valued customers and members. This Privacy Policy outlines what specific information is gathered on the Sendloop site and how that information is used.
 
