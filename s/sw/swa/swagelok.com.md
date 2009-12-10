@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swagelok.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619203514id_/http%3A//www.swagelok.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swagelok.com privacy policy that was archived on 2009-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091210124427id_/http%3A//www.swagelok.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # SWAGELOK.COM® PRIVACY POLICY
 
