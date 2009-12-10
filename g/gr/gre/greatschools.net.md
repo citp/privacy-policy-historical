@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatschools.net privacy policy that was archived on 2009-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090630061925id_/http%3A//www.greatschools.net/about/privacyStatement.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatschools.net privacy policy that was archived on 2009-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091210114118id_/http%3A//www.greatschools.net/about/privacyStatement.page) for the most accurate reproduction.*
 
 # GreatSchools.net Privacy Statement
 
@@ -19,6 +19,8 @@ GreatSchools Inc. deposits cookies on users' hard drives. A cookie is a piece of
 Cookies can also enable us to track and target the interests of our users to enhance their experience. Some of the information about how our users experience our site, such as page views and specific pages visited, is logged by a third-party marketing company on our behalf, using cookies and Web beacons. Web beacons help us understand information such as what browsers our users have so that we are able to develop our site to best support our users. We control how this data may and may not be used. If you do not want to help us learn how to improve our site, you can "opt out" by clicking here: [http://www.omniture.com/privacy#optout](http://www.omniture.com/privacy/policy#optout). 
 
 GreatSchools is also working with QUANTCAST, a third party that provides new media measurement services that enable advertisers to view audience reports for web sites. QUANTCAST utilizes certain technologies, including your IP address and information from cookies it places on your computer, that aggregate Internet activity to produce these reports and analyses. This activity is observed on a purely anonymous basis, no Personal Data is provided to QUANTCAST by Greatschools and QUANTCAST does not collect or use any Personal Data relating to the individual doing the Internet browsing. For more information about QUANTCAST'S privacy policy, please go to <http://www.quantcast.com/privacy.jsp>
+
+GreatSchools is also working with third-party companies to serve ads when you visit www.greatschools.net. These companies may use information (not including your name, address, email address or telephone number) about your visits to www.greatschools.net in order to provide advertisements on www.greatschools.net, other websites and other forms of media about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [here](http://www.networkadvertising.org/consumer/opt_out.asp). 
 
 #### Log Files
 
@@ -46,7 +48,7 @@ From time to time, GreatSchools may email our newsletter subscribers a request t
 
 #### Choice/Opt Out
 
-Users who no longer wish to receive our newsletters or other communications can unsubscribe using the tools provided in every email message we send or from the [subscription management page](https://web.archive.org/cgi-bin/newsletters/state=CA) on the site. 
+Users who no longer wish to receive our newsletters or other communications can unsubscribe using the tools provided in every email message we send or from the [subscription management page](https://web.archive.org/cgi-bin/newsletters/state=KY) on the site. 
 
 #### User Surveys
 
@@ -118,4 +120,4 @@ Protecting the privacy of young children is especially important. For that reaso
 
 It is the policy of GreatSchools to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to our customers or Web site users, via email notice, written or hard copy notice, or through conspicuous posting of such notice on our Web site page, www.greatschools.net, as determined by GreatSchools in its sole discretion. Notwithstanding the foregoing, GreatSchools reserves the right to determine the form and means of providing notifications to our customers or Web site users.
 
-Updated April 2, 2008
+Updated September 30, 2009
