@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the co-optimus.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623063023id_/http%3A//www.co-optimus.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the co-optimus.com privacy policy that was archived on 2009-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091210175218id_/http%3A//www.co-optimus.com/privacy.php) for the most accurate reproduction.*
 
 # Co-Optimus - Privacy Policy
 
