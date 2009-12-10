@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the amanet.org privacy policy that was archived on 2009-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090220235107id_/http%3A//www.amanet.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amanet.org privacy policy that was archived on 2009-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091210205130id_/http%3A//www.amanet.org/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# 
 
 ## Your privacy on the Internet is important to AMA. 
 
 This Website (“Website”), located at amanet.org, including any services and features available on or through the Website such as blogs and user communities, is published and maintained by American Management Association International **** (“AMA”).  AMA is referred to in this Privacy Policy as “we,” “us,” “our,” or other similar pronouns. 
 
-This privacy policy (“Privacy Policy”) covers AMA’s privacy practices with respect to “Personally Identifiable Information” (as further defined below) that is transmitted electronically to or collected by AMA via this Website and addresses the following items:
+This privacy policy (“Privacy Policy”) covers AMA's privacy practices with respect to “Personally Identifiable Information” (as further defined below) that is transmitted electronically to or collected by AMA via this Website and addresses the following items:
 
   * How AMA collects and uses Personally Identifiable Information. 
   * With whom AMA may share Personally Identifiable Information. 
@@ -15,17 +15,17 @@ This privacy policy (“Privacy Policy”) covers AMA’s privacy practices with
 
 
 
-By visiting this Website, and/or using the Website’s services, you agree to the terms of this Privacy Policy as they may be amended from time to time.  As we update and expand our services, this Privacy Policy may change, so check back to this page from time to time.  This Privacy Policy is incorporated into, and part of, [the AMA Website Terms of Use](https://web.archive.org/web/20090220235107id_/http%3A//www.amanet.org/terms-of-service.htm), which governs your use of and access to this Website in general.
+By visiting this Website, and/or using the Website's services, you agree to the terms of this Privacy Policy as they may be amended from time to time.  As we update and expand our services, this Privacy Policy may change, so check back to this page from time to time.  This Privacy Policy is incorporated into, and part of, [the AMA Website Terms of Use](https://web.archive.org/termsofservice.aspx), which governs your use of and access to this Website in general.
 
-**You may opt out of our sharing of your Personally Identifiable Information with third parties for marketing purposes, by following the directions in theSharing Personally Identifiable Information.**
+**You may opt out of our sharing of your Personally Identifiable Information with third parties for marketing purposes, by following the directions in the Sharing Personally Identifiable Information.**
 
 ### Collection and Use 
 
 AMA does not collect any Personally Identifiable Information from you except when you expressly volunteer the information. This includes when you: 
 
   * Register for a seminar, become a Member, purchase or download an AMA product or service. 
-  * Request information (electronically) about AMA’s products and services, subscribe to newsletters, or enter a promotional contest. 
-  * Use or participate in various services or features made available on the Website (including, for example and without limitation, blogs and other user communities).
+  * Request information (electronically) about AMA's products and services, subscribe to newsletters, or enter a promotional contest. 
+  * Use or participate in various services or features made available on the Website (including, for example and without limitation, blogs and other user communities). 
   * Use various tools to select AMA products and services that are suitable for your Website visit. 
   * Request contact with an AMA sales representative. 
   * Provide AMA with comments, questions or feedback about AMA products and services or your Website experience. 
@@ -46,13 +46,9 @@ The Personally Identifiable Information you give us via the Website and informat
 
 AMA respects the privacy of your friends and coworkers. AMA will not keep or maintain names or e-mail addresses when you use our refer-a-friend function. The refer-a-friend function is solely to provide your friends and coworkers with the information you have requested we pass along to them. 
 
-### Customer Service Chat
-
-You may be able to have a “live,” online chat with a customer service representative via the Website.  This feature is operated by our third party service provider, LivePerson, and any Personally Identifiable Information collected or disclosed during such chat sessions will be shared with and may be used by such service provider in connection with its provision of such services.  LivePerson may also use cookies, and maintains its own privacy policies, available at [www.liveperson.com/support/privacy.asp](http://www.liveperson.com/about/privacy.asp), with respect to its collection and handling of your Personally Identifiable Information. 
-
 ### Webcasts, Online “Meetings” and Similar Services
 
-Users may be able to access or participate in Webcasts, online “meetings” or similar services on the Website, certain of which may be hosted or operated by our service provider, Adobe Systems Incorporated (“Adobe”).  In some cases, users may be able to register for such webcasts and services directly with Adobe, and any such Personally Identifiable Information collected by Adobe in connection with such registration and such user’s participation in the services thereafter may be shared with AMA, and will also be subject to Adobe’s privacy policy, located at <http://adobe.com/go/privacy>. In other cases, some users may be able to access webcasts, online “meetings” or similar services hosted by Adobe on the Website by registering with AMA, and in such situations, any Personally Identifiable Information that may be disclosed during participation in such services would be collected by Adobe on AMA’s behalf, but would be treated in accordance with this Privacy Policy.
+Users may be able to access or participate in Webcasts, online “meetings” or similar services on the Website, certain of which may be hosted or operated by our service provider, Adobe Systems Incorporated (“Adobe”).  In some cases, users may be able to register for such webcasts and services directly with Adobe, and any such Personally Identifiable Information collected by Adobe in connection with such registration and such user's participation in the services thereafter may be shared with AMA, and will also be subject to Adobe's privacy policy, located at <http://adobe.com/go/privacy>. In other cases, some users may be able to access webcasts, online “meetings” or similar services hosted by Adobe on the Website by registering with AMA, and in such situations, any Personally Identifiable Information that may be disclosed during participation in such services would be collected by Adobe on AMA's behalf, but would be treated in accordance with this Privacy Policy.
 
 ### Sharing Personally Identifiable Information 
 
@@ -66,8 +62,8 @@ please e-mail [customerservice@amanet.org](mailto:customerservice@amanet.org) or
   * AMA may provide Personally Identifiable Information obtained from non-U.S. individuals to its licensee located in the country or region where the individual is located, and our licensee may use this information to communicate with the user. **If you prefer that we do not provide your information to our licensee, please e-mail[customerservice@amanet.org](mailto:customerservice@amanet.org) or call AMA Customer Service at 1-877-566-9441.**
   * E-mailings of AMA newsletters and other materials, as well as various operations of the Website, are handled both in-house and by outside service companies (such as e-mail service providers, address list hosting companies, distribution companies, suppliers and other service providers, such as Caspio, Inc.). On occasion, where AMA contracts with a service provider, it may request or it may be necessary that the provider collect and/or provide information (including Personally Identifiable Information) directly from our customers on our behalf. In all such situations, AMA restricts how its suppliers and other service providers may access, use and disclose Personally Identifiable Information.  AMA does not permit these suppliers and other service providers to sell **** Personally Identifiable Information to third parties. If you receive information through AMA or through a third party supplier about AMA that you prefer not to receive, you should request to be removed from the active mailing list by e-mailing [customerservice@amanet.org](mailto:customerservice@amanet.org) or by calling AMA Customer Service at 1-877-566-9441. 
   * When you contribute to a public area or feature of our Website, such as one of our online communities, messaging services, chat services, bulletin boards, message boards, blogs or other such open forums, the information that you submit will be made available to the general public.  For this reason, we recommend that you exercise caution in the submission of Personally Identifiable Information to these areas of our Website as it will be publicly accessible. 
-  * We may disclose to third parties aggregate, non-personally identifiable data regarding user behavior, such as overall patterns or demographic reports, as a measure of interest in, and use of, our Website and e-mails.
-  * We may use or disclose Personally Identifiable Information in order to investigate any claim or suspicion of a violation of our Website [Terms of Service](https://web.archive.org/web/20090220235107id_/http%3A//www.amanet.org/terms-of-service.htm), to assist with law enforcement investigations, or as otherwise required by law. 
+  * We may disclose to third parties aggregate, non-personally identifiable data regarding user behavior, such as overall patterns or demographic reports, as a measure of interest in, and use of, our Website and e-mails. 
+  * We may use or disclose Personally Identifiable Information in order to investigate any claim or suspicion of a violation of our Website [Terms of Service](https://web.archive.org/termsofservice.aspx), to assist with law enforcement investigations, or as otherwise required by law. 
 
 
 
@@ -77,25 +73,25 @@ AMA may transfer Personally Identifiable Information to a third party in the eve
 
 ### Cookies
 
-A cookie is a piece of data that is stored on a visitor’s hard drive. These cookies do not identify, monitor or track any Personally Identifiable Information. AMA uses this information to analyze trends, track visitors' movements and gather broad demographic information for aggregate use. If a visitor rejects the cookie, the visitor may be limited in some areas of the Website.  Most Web browsers can be set to inform you when a cookie has been sent to you and provide you with the opportunity to refuse that cookie.  You should consult your Web browser to choose the appropriate setting to accept or reject cookies. 
+A cookie is a piece of data that is stored on a visitor's hard drive. These cookies do not identify, monitor or track any Personally Identifiable Information. AMA uses this information to analyze trends, track visitors' movements and gather broad demographic information for aggregate use. If a visitor rejects the cookie, the visitor may be limited in some areas of the Website.  Most Web browsers can be set to inform you when a cookie has been sent to you and provide you with the opportunity to refuse that cookie.  You should consult your Web browser to choose the appropriate setting to accept or reject cookies. 
 
-In addition, AMA uses various third party service providers and third party provided services that use cookies, including, for example, a service provided by WebSide Story, which uses sophisticated cookie technology to measure site traffic and visitor behavior in aggregate. While these cookies remain on your hard drive after the conclusion of your site visit, they do not contain or collect any Personally Identifiable Information and do not read any other information on your computer’s hard drive. To find out more, please visit the WebSide Story privacy policy at [www.websidestory.com/privacy](http://www.websidestory.com/privacy).
+In addition, AMA uses various third party service providers and third party provided services that use cookies, including, for example, a service provided by WebSide Story, which uses sophisticated cookie technology to measure site traffic and visitor behavior in aggregate. While these cookies remain on your hard drive after the conclusion of your site visit, they do not contain or collect any Personally Identifiable Information and do not read any other information on your computer's hard drive. To find out more, please visit the WebSide Story privacy policy at [www.websidestory.com/privacy](http://www.websidestory.com/privacy).
 
 ### Clear GIFs
 
-We may use “clear GIFs” (aka “Web beacons” or “pixel tags”) or similar technologies in the Website and/or in our communications with you.  A clear GIF is typically a one-pixel, transparent image (although it can be a visible image as well), located on a Web page or in an e-mail or other type of message, which is retrieved from a remote site on the Internet enabling the verification of an individual’s viewing or receipt of a Web page or message. 
+We may use “clear GIFs” (aka “Web beacons” or “pixel tags”) or similar technologies in the Website and/or in our communications with you.  A clear GIF is typically a one-pixel, transparent image (although it can be a visible image as well), located on a Web page or in an e-mail or other type of message, which is retrieved from a remote site on the Internet enabling the verification of an individual's viewing or receipt of a Web page or message. 
 
 ### IP Address and Clickstream Data
 
-Additionally, when you visit the Website, our server automatically collects data about your server’s IP Address, which is a number that’s automatically assigned to your computer by your Internet service provider whenever you’re on the Internet.  When you request pages from our Website, our servers may log your IP Address and sometimes your domain name.  Our server may also record the referring page that linked you to us (e.g., another Website or a search engine); the pages you visit on this Website; the Website you visit after this Website; the ads you see and/or click on; other information about the type of Web browser, computer, platform, related software and settings you are using; any search terms you have entered on this Website or a referral site; and other Web usage activity and data logged by our Web servers.  We use this information for internal system administration, to help diagnose problems with our server, and to administer our Website.  Such information may also be used to gather broad demographic information, such as country of origin and Internet service provider. 
+Additionally, when you visit the Website, our server automatically collects data about your server's IP Address, which is a number that's automatically assigned to your computer by your Internet service provider whenever you're on the Internet.  When you request pages from our Website, our servers may log your IP Address and sometimes your domain name.  Our server may also record the referring page that linked you to us (e.g., another Website or a search engine); the pages you visit on this Website; the Website you visit after this Website; the ads you see and/or click on; other information about the type of Web browser, computer, platform, related software and settings you are using; any search terms you have entered on this Website or a referral site; and other Web usage activity and data logged by our Web servers.  We use this information for internal system administration, to help diagnose problems with our server, and to administer our Website.  Such information may also be used to gather broad demographic information, such as country of origin and Internet service provider. 
 
 Any or all of the above-described activities with regard to Website Usage Information may be performed on our behalf by our services providers.
 
 ### Links
 
-AMA’s Website contains links to other sites. Some links are to sites of AMA’s partners that offer AMA customers and Members a variety of special products and services. Please be aware that AMA is not responsible for the content, security or privacy practices on or of such other sites. We trust that you are aware when you leave the AMA Website, and we encourage you to read the privacy statements of each site to which ours is linked. 
+AMA's Website contains links to other sites. Some links are to sites of AMA's partners that offer AMA customers and Members a variety of special products and services. Please be aware that AMA is not responsible for the content, security or privacy practices on or of such other sites. We trust that you are aware when you leave the AMA Website, and we encourage you to read the privacy statements of each site to which ours is linked. 
 
-The AMA Website also may contain links to AMA’s international offices or affiliates. This Privacy Policy does not apply to those Websites. We encourage you to read the privacy statements of our international offices or affiliates that control their collection and use of Personally Identifiable Information. 
+The AMA Website also may contain links to AMA's international offices or affiliates. This Privacy Policy does not apply to those Websites. We encourage you to read the privacy statements of our international offices or affiliates that control their collection and use of Personally Identifiable Information. 
 
 This Privacy Policy applies solely to information collected by or on the Website. 
 
@@ -128,6 +124,3 @@ If we decide to change our Privacy Policy, we will post those changes in the Pri
 If you believe that there has been a violation of this Privacy Policy, please contact us at [customerservice@amanet.org](mailto:customerservice@amanet.org). We will investigate and take appropriate action and report back to you within a reasonable period of time. 
 
 _Last updated 10-17-07_
-
-  
-
