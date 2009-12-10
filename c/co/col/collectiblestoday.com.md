@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collectiblestoday.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625191155id_/http%3A//www.collectiblestoday.com/ct/cs/cs_privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collectiblestoday.com privacy policy that was archived on 2009-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091210162110id_/http%3A//www.collectiblestoday.com/ct/cs/cs_privacy_policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - Collectibles Today
 
@@ -77,7 +77,7 @@ We release account and other personal information when we believe release is app
 Our business referral program is provided by an outside company. If you choose to use this optional service, then they may share your information with us, but are not authorized to contact you or provide your information to others, without your permission. 
 
 Children:   
-collectiblestoday.com is a shopping site for mature collectors. We do not knowingly solicit data from, or market to, children under age 13.
+collectiblestoday.com is a shopping site for mature collectors. We do not knowingly solicit data from, or market to, children under age 18.
 
 Customer Information Transfer:   
 As we continue to develop our business, we might sell or buy businesses and assets, including customer information.
