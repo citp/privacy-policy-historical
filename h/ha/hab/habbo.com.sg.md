@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the habbo.com.sg privacy policy that was archived on 2009-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090610001438id_/http%3A//www.habbo.com.sg/help/35) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the habbo.com.sg privacy policy that was archived on 2009-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091210011623id_/http%3A//www.habbo.com.sg/help/35) for the most accurate reproduction.*
 
 # Habbo:
 
-At Habbo Hotel, we want everyone to have a good time. The Hotel is a place for you to hang out, play, and meet new people. We promise to keep the Hotel as secure and private as we can, but you need to be conscious of safe Internet habits as well. Furthermore, we have the Habbo Way, which are guidelines for players inside the Hotel, and you need to read that before playing. Before you can become a member, you need to read the Privacy Policy all the way through before you can join. 
+At Habbo Hotel, we want everyone to have a good time. The Hotel is a place for you to hang out, play, and meet new people. We promise to keep the Hotel as secure and private as we can, but you need to be conscious of safe Internet habits as well. Furthermore, we have the Habbo Way, which are guidelines for players inside the Hotel, and you need to read that before playing. Before you can become a member, you need to read the Privacy Policy all the way through. 
 
 By clicking the 'Accept' button when you register, you are allowing us to hold and process your personal information as described in this Privacy Policy. 
 
@@ -24,7 +24,7 @@ We process personal information about you for the purposes of:
 
 * Understanding your needs and improving our offering of information, products and services to you, such as special discounts and deals.  
 * Enabling you to communicate with your Habbo friends without them knowing your contact details.   
-* Administering your account with us and letting you know about things we are doing that might affect you (eg changes to Sulake Singapore?s Pte Ltd's procedures, changes to the Terms and Conditions, etc).   
+* Administering your account with us and letting you know about things we are doing that might affect you (eg changes to Sulake Singapore's Pte Ltd's procedures, changes to the Terms and Conditions, etc).   
 * Carrying out research (ie scientific, social, economic and market).   
 * Maintaining information as a reference tool or general resource.   
 * Providing you with personalised information about products and services. 
