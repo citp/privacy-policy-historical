@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wolfgangsvault.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628094916id_/http%3A//www.wolfgangsvault.com/sc/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wolfgangsvault.com privacy policy that was archived on 2009-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091210085328id_/http%3A//www.wolfgangsvault.com/memorabilia/support/privacy-policy.html) for the most accurate reproduction.*
 
 # Wolfgang's Vault - Privacy Policy
 
@@ -32,9 +32,11 @@ Registered listeners have the opportunity to participate in the Concert Vault Fo
 
 In order to make sure that artists receive applicable royalties, the Concert Vault identifies and counts the songs you and all listeners have accessed. We use this data to report and pay royalties, and for internal analysis. We do not share your personal usage data with any third parties.
 
-#### How we use Cookies
+#### How we use Cookies / Advertising
 
-When you use our site we will store cookies on your computer in order to facilitate and customize your use of our site. A cookie is a small data text file, which a website stores on your computer's hard drive (if your Web browser permits) that can later be retrieved to identify you. Our cookies store randomly assigned user identification numbers and other various information that enables us to identify you as a valid registered listener, to ensure that no one else can sign on simultaneously with your account from another computer and to make the personalized features on our websites work. The cookies make your use of the site easier and make the site run more smoothly. We may also use cookies for displaying advertising to users of our websites. **You will be unable to use our websites' personalized features, or shop at our websites, without your browser set to accept cookies.**
+When you use our site we will store cookies on your computer in order to facilitate and customize your use of our site. A cookie is a small data text file, which a website stores on your computer's hard drive (if your Web browser permits) that can later be retrieved to identify you. Our cookies store randomly assigned user identification numbers and other various information that enables us to identify you as a valid registered listener, to ensure that no one else can sign on simultaneously with your account from another computer and to make the personalized features on our websites work. The cookies make your use of the site easier and make the site run more smoothly. We may also use cookies for displaying advertising to users of our websites. You will be unable to use our websites' personalized features, or shop at our websites, without your browser set to accept cookies. **[Click here for instructions on disabling your browser's cookies.](http://www.aboutcookies.org/Default.aspx?page=1)**
+
+In addition, some of Wolfgang's Vault advertising programs are implemented in partnership with Tribal Fusion; **[you can opt out of these programs via the Network Advertising Initiative's Opt-Out tool](http://www.networkadvertising.org/managing/opt_out.asp)**. Check the Opt-out for "Tribal Fusion" on this page and click Submit to do so. 
 
 #### Email Opt-out
 
