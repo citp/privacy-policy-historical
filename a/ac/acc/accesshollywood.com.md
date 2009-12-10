@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accesshollywood.com privacy policy that was archived on 2009-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090607203003id_/http%3A//www.accesshollywood.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accesshollywood.com privacy policy that was archived on 2009-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091210085330id_/http%3A//www.accesshollywood.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Access Hollywood - Celebrity News, Photos & Videos
 
