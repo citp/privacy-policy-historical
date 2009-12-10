@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumerreports.org privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628082146id_/http%3A//www.consumerreports.org/cro/customer-service/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerreports.org privacy policy that was archived on 2009-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091210020100id_/http%3A//www.consumerreports.org/cro/customer-service/privacy/index.htm) for the most accurate reproduction.*
 
 # Privacy
 
