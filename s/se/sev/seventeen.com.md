@@ -1,84 +1,286 @@
-> *The following text is extracted and transformed from the seventeen.com privacy policy that was archived on 2006-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061231224330id_/http%3A//www.seventeen.com/about/spc/0%2C%2C625917_627722%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seventeen.com privacy policy that was archived on 2009-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091210150637id_/http%3A//www.realage.com/corporate/privacy.aspx) for the most accurate reproduction.*
 
-# Seventeen.com Privacy Policy
+# About RealAge — RealAge Privacy Statement
 
-_Purpose of this Privacy Policy_  
-This privacy policy describes how Hearst Communications, Inc., its affiliates (collectively "Hearst"), and Communications Data Services, Inc. (the company that fulfills magazine subscriptions for Hearst treat the personally identifiable information that is collected about you when you visit the magazine ("Magazines") web sites to which this policy is linked, and the information collected on the Magazines' behalf to the extent we use third-party service providers to host the web sites or collect information about site users. For purposes of this policy, Communications Data Services, Inc. and Hearst are referred to collectively as "Hearst". _What is Personally Identifiable Information_  
-"Personally identifiable information" is information that we can use to identify you as an individual. Personally identifiable information includes your name, address, telephone number and any other information that is connected with you personally. _Information This Privacy Policy Does Not Apply To_  
-This privacy policy does not apply to information collected about you by anyone except Hearst and only applies to the web sites to which this policy is linked. Any information you provide when you visit web sites other than those covered by this policy (including other web sites affiliated with Hearst) or when you purchase any products or services, or enter contests, that may be linked to or advertised on our web site by companies other than Hearst is subject to the privacy policies posted on those sites. Except as specified herein, this policy also does not apply to information you may provide to us offline; however please do be aware that if you subscribe offline to one of our magazines, from time to time we make our subscriber lists available to companies that sell goods and services that we believe would interest our readers. If you would rather not receive such mailings, please send a current mailing label or exact copy to Mail Preference Service, PO Box 7024, Red Oak, Iowa 51591-0024. _Collection of Personally Identifiable Information_  
-Hearst generally collects personally identifiable information with your specific knowledge and consent. For instance, when you enter a sweepstakes or contest, complete a survey, participate in a reader panel, make a purchase, request back issues, subscribe to our magazines or subscribe to our newsletters, you will be asked to provide information such as your e-mail address, name, phone number, and sometimes shipping address. Optional information such as your age, gender, hobbies or interests may also be requested. This information may be collected by third party service providers with whom Hearst contracts to host the web site or to fulfill requests for services; in that event, Hearst asks such service providers to make the personal information available only to Hearst for Hearst to use in accordance with the terms of this policy and not to use the information for any other purpose.Hearst uses this information to provide you with the service you have requested. If you subscribe to any of our Magazines, we may use your e-mail address to send you a confirmation notice and your mailing address to send you your magazine. Similarly, if you enter online sweepstakes, we will use this information to notify you if you are a winner. We might also send out e-mails to users to announce special offers, services and announcements from our sites and/or our advertisers. 
+RealAge, Inc., values the privacy of all of our readers. We take very seriously the need to respect and protect your privacy and the security of any information you may share with us. We've built a site that allows you to control how much information you give us and how that information is used. This privacy policy ("Policy") describes the data collection, use, and disclosure practices of RealAge, Inc., in connection with the Web Site, [www.RealAge.com](http://cls.realage.com/) (the "Web Site" or "Site"). 
 
-We may also use any personal information you send for marketing and promotional purposes and we may combine information we receive online with outside records to enhance our ability to market products or provide services that we believe may be of interest to you. Additionally, we may share your personal information with third parties who may choose to contact you via email to promote their own goods and services. If you want us to stop sharing your personal information with third parties in this way, click here and let us know. if you do not wish us to share information with companies who would otherwise contact you at your mailing address, you may notify us in writing by sending a notice to Mail Preference Service, P.O. Box 7024, Red Oak, Iowa 51591. Also, you may elect to stop receiving email messages from a Hearst magazine (other than transactional messages relating to any accounts you may have with us) by notifying us at [privacy@hearst.com](mailto:privacy@hearst.com). Please note that newsletters associated with some of our magazines are distributed by our affiliate, iVillage, Inc., so you should communicate with iVillage in regard to those newsletters. Click here ___________ to be linked to iVillage.
+This Policy applies to information collected only directly through or from the RealAge Web Site. It does not apply to personal information collected from offline resources and communications, such as information you may send to us in a postal letter or give to us in a phone call. This Policy also does not apply to third-party online resources to which RealAge Web Sites may link, because RealAge does not control their content or their privacy practices. 
 
-In addition, we may use information you provide us through emails, Q & A, and in response to polls for editorial purposes, and may use your name and any stories you provide us in articles published in our magazines. Please be advised that any such submissions become the property of Hearst and may be used by Hearst for any lawful purpose. If you provide us with personal anecdotes, they may be attributed to you. Hearst can edit, rewrite, use, and reuse the content, including your name, likeness, photograph, and biographical information you provide, in any way and any media whether now known or invented in the future, with or without attribution, including publication in the Magazines, and in trade media, and advertising. You agree that any content you send us will not violate any rights of any third party and that you will only send us content for which you own the rights. 
+Please read our Policy carefully. Your understanding of how we use any information you provide -- and your trust that we will use it carefully -- are very important both to you and to us. Why? Because it helps us provide more relevant, useful information to you. If you have any questions about our data collection, use, or disclosure practices, please contact us in any of the ways listed at the end (Section 17). Please also be sure to read our complete [Terms of Use](http://cls.realage.com/corporate/termsofuse.aspx) (this Privacy Policy is a part of it). 
 
-Some of our Magazine sites may from time to time partner with a retailer or other third party to offer online shopping opportunities on a co-branded or cross-promotional basis. Those transactions may take place on a Hearst Magazine site, or the site of the third party. In either case, personal information you provide in connection with the transaction may be shared with the third party, as well as with any participating sponsors or advertisers of such shopping opportunities.
+RealAge's purpose is to provide you with detailed healthcare information (like your RealAge calculation and plan), so we may request correspondingly detailed personal health information from you. Certain information is necessary for us to provide one or more RealAge services to you. For a full description of these services, see Section 4, "How We Use the Information We Collect." Other information is optional; if you elect not to provide optional information, it may limit the value of what RealAge can provide for you. For example, if we do not have information on a health condition you may have -- such as high blood pressure -- we will not be able to provide information about how best to manage your diet and lifestyle to improve your health. (That includes information on medications that may help you manage a diagnosed condition like high blood pressure.) In short, the more information we have about you, the more valuable RealAge can be to you. 
 
-In addition to the foregoing, Hearst may share or disclose personally identifiable information about you to other companies or individuals when:
+We collect two types of information on RealAge. The first, "Personal Information," is information that allows someone to identify or contact you, such as your name and e-mail address, as well as any information about you that is associated with or linked to any of the foregoing information. The second type, "Anonymous Data," is data not associated with or linked to your Personal Information. Anonymous Data cannot be used to identify you. We collect Personal Information and Anonymous Data based on your participation on RealAge. 
 
-  * we utilize third party service providers to provide products, services or functions on our behalf (such as sending emails or processing credit cards or fulfilling subscriptions), and ask these service providers to agree to maintain the confidentiality of your personally identifiable information and not to use your personally identifiable information for any reason except to carry out the purpose(s) for which we hired them; 
-  * you have entered a contest or sweepstakes sponsored by a third party, in which case the information may be shared with that third party for their use in their discretion, including direct marketing (Some of our contests and sweeps will ask you at the time of entry whether you would like your personal information to be shared with the sponsor. Other contests will not give you that option and in that event, if you do not want your information to be shared, you should not enter the contest; 
-  * we publish a magazine to which you subscribe through a joint venture or licensing arrangement with a third party (such as Smart Money and Marie Claire), in which event our third party partner may use your personally identifiable information to the same extent that we can; 
-  * the entity to whom the information is disclosed is one under control of, or under common control with Hearst (for these purposes, a company controlling 20% or more of the voting stock of another entity shall be deemed to control such entity); 
-  * the entity to whom the information is disclosed is hosting web sites associated with our magazines or magazines we publish in conjunction with a third party, other than those web sites covered by this policy; 
-  * we need to protect our legal rights (for example, if we are trying to collect money you owe us); 
-  * we must comply with applicable laws, regulations, or legal or regulatory process; or 
-  * in connection with a sale, merger, transfer, exchange, or other disposition (whether of assets, stock, or otherwise) of all or a portion of the business conducted by the web sites to which this policy applies. 
+You can take advantage of the services offered on RealAge in two ways -- as a Registrant or as a Member. We'll explain the differences. 
 
-_Cookies_  
-Hearst (or third party service providers on our behalf) may set and access cookies on your computer. A cookie is a small amount of data (often including a unique identifier), that is sent to your browser from a web site's computers and stored on your computer's hard drive. Hearst uses cookies to understand site usage and to improve the content and offerings on our site.
+**Registrant**
 
-We may use cookies to control the display of ads, to track usage patterns on the sites, to deliver editorial content, to record requests for subscriptions and to personalize information. 
+When you take the RealAge Test or participate in most other interactive services on our Site, you are required to register by giving us your user name, e-mail address, date of birth, gender, zip code, and password. We call that your "Registration Information." That Registration Information is recognized by all of RealAge's Affiliates (they're described in Section 12, "About Our Affiliates"). This means you can use the same user name and password to take advantage of services offered on the Web sites of our Affiliates. Please note that if you visit an Affiliate's Web site, you will be leaving RealAge, and anything you do on those sites will be governed by the privacy policy of the Affiliate. 
 
-Our cookies may contain personally identifiable information and such cookies may be shared with others to the same extent indicated above.
+**Member**
 
-Hearst (or third party service providers on our behalf) may also use cookies to collect aggregate information about web site users on an anonymous basis. We may share aggregate demographic and usage information with our prospective and actual business partners, advertisers and other third parties for any business purpose.
+You may also choose to participate in activities on RealAge as a Member. After you have given us your Registration Information, we will ask you if you would like to become a Member. If you say yes, we will periodically send you free health newsletters and e-mails that contain high-quality health and lifestyle information; directly promote the use of RealAge Web Sites (which include RealAge.com, DogAge.com, and CatAge.com) and the sites of our Affiliates; and may offer products or services for purchase. 
 
-Some of our advertisers may serve you cookies as well. We do not have control over cookies placed by advertisers.
+These free health newsletters and e-mails may contain, in whole or in part, advertisements for third parties that we think may be of interest to you, based on your responses to the RealAge Test and other information we collect about you on the Site. We will NOT give your Personal Information to those advertisers (see Section 4, "How We Use the Information We Collect"). If you don't want us to send you free health newsletters and e-mails, you should not become a Member; you will still have access to all the other tools and services on the Site as a Registrant. 
 
-If you don't want cookies, most Web browsers include an option that allows you to not accept them. However, if you set your browser to refuse cookies, some portions of our sites may not function efficiently.
+By becoming a Registrant or a Member, you have agreed to let us show you advertising on the Site targeted to your personal health interests (for a full description of how this happens, see Section 5, "How We Display Ads on Our Site"). As with most Web sites, we accept advertising and sponsorships as a way of keeping the articles, tools, assessments, and newsletters free to RealAge users. If you don't want to see such ads, you should not become a RealAge Member or Registrant. 
 
- _IP Address_  
-Your Internet Protocol ("IP") address is usually associated with the place from which you enter the Internet, like your Internet Service Provider, your company or your university. We may use your IP address to help diagnose problems with our servers, gather broad demographic information, and administer our website. _Advertising disclosure_  
-We may use third-party advertising companies to serve ads on some of our our websites. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click on the link below:
+RealAge will collect information from you when you interact with us in the following ways: 
 
-[Doubleclick Network privacy policy](http://www.doubleclick.com/us/corporate/privacy/privacy/default.asp)
+**a) Cookies**
 
- _Fair Credit Billing Act_  
-We aim to make every online transaction you make with us as safe as possible. You will pay nothing if unauthorized charges are made to your card as a result of shopping at our online store. Under the Fair Credit Billing Act, your bank cannot hold you liable for more than $50.00 of fraudulent charges. If your bank does hold you liable for any of this $50.00, We will cover the entire liability for you, up to the full $50.00. We will only cover this liability if the unauthorized use of your credit card resulted through no fault of your own from purchases made while using the secure server. In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures. _Kids And Parents_  
-The sites covered by this policy are not intended for use by children, especially those under age 13. No one under age 13 is allowed to provide any personal information or use our public discussion areas, forums and chats. To subscribe to newsletters on sites related to our teen-oriented Magazines, you must be 13 or older. Minors between the ages of 13 and 17 must get the permission of their parent(s) or legal guardian(s) before subscribing to any magazines on our sites.
+As with most sites on the Internet, when you visit our Site, RealAge may place a "cookie" on your computer that enables us to give you a better experience on the Site. 
 
-If your children disclose information about themselves in our public discussion areas, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so.
+■
 
-If you're worried about your children's activities or their privacy on our site, we encourage you to e-mail Hearst at [customercare@hearstmags.com](mailto:customercare@hearstmags.com).
+Internet cookies are small text files that save data about you as an individual visitor and help RealAge deliver personalized content and other services in a manner convenient to you. When you first register or sign in, RealAge places your member ID and e-mail address into a cookie file. 
 
- _O The Oprah Magazine_  
-Notwithstanding anything herein to the contrary, we do not share personally identifiable information concerning readers and subscribers of O The Oprah Magazine with unaffiliated third parties for direct marketing purposes except, however, in the case of a contest or sweepstakes conducted in conjunction with a third-party sponsor (see above). _Blogs and other user-generated Postings_  
-If you elect to post material to any blogs, forums or other community boards that may be offered on our sites, or if you elect to upload any video, you will be solely responsible for all content, messages, text, files, images, graphics, photos, audio clips, sounds, video or other materials (the "Postings"). You agree that any Postings you post to the sites will be true and accurate and will not infringe the proprietary rights of any third person. You agree not to furnish any Postings to which you do not own the rights. By furnishing Postings, you give the Magazines and their affiliates the right to use such Postings in any manner and in any media now known or hereafter invented.
+■
 
-Please be aware that the Magazines do not and cannot monitor all of the Postings made to the sites, and therefore the Magazines will not be responsible for the content of any Postings. However, the Magazines do reserve the right to delete or edit any material in any Posting that is offensive, obscene, harassing, offensive or otherwise objectionable and not in keeping with the community standards of the Magazines. We also expect our users to adhere to certain rules of the road. Therefore, you agree not to post, email, or otherwise make available Postings: 
+If you select "Remember Me" when signing up or signing in, RealAge also places your e-mail address and password into another, separate cookie file. 
 
-  * that are unlawful, harmful, threatening, abusive, harassing, defamatory, pornographic, libelous, or invasive of another's privacy, or harmful to minors in any way; 
-  * that harass, degrade, intimidate or are hateful toward an individual or group of individuals on the basis of religion, gender, sexual orientation, race, ethnicity, age, or disability; 
-  * that include personal or identifying information about another person without that person's explicit consent. 
-  * that are false, deceptive, misleading, deceitful, misinformative, or constitute "bait and switch"; 
-  * that infringe any proprietary rights of any party, or Postings that you do not have a right to make available. 
+■
 
-Because the Magazines do not monitor the Postings, you agree to use and rely on them at your own risk. The Magazines cannot make any representation or warranty about the material contained in the Postings. _California and Canadian Users_  
-California and Canadian residents have the right to know how their information may be shared with third parties who engage in direct marketing activities and this policy explains our practices and how you can opt out of having your information shared for such purposes. From time to time we may make our customer lists available to companies that sell goods and services that we believe would be of interest. We may compile these lists from customer orders placed both offline and online. Customers have the option of having their names and identifying information removed from those lists (subject to certain exceptions and limitations in applicable laws) by contacting us at [specify email address and link]. 
+Many Web browsers are automatically set to accept cookies. **You may change your browser settings to either reject cookies or notify you when a cookie is about to be placed on your computer.** Please note, however, that rejecting cookies while visiting RealAge may result in certain parts of the Site not operating correctly or as efficiently as they would with cookies. For example, if you are a RealAge Member without a cookie, you may need to enter your username and password each time you visit the Site in order to see your RealAge calculation. If you allow cookies, it streamlines your user experience on RealAge and keeps track of your preferences. 
 
-We may also from time to time make our customer lists available for direct marketing purposes to other entities that are affiliated with us. If you would like to be removed from those lists, contact us at [webfeedback@seventeen.com](mailto:webfeedback@seventeen.com).
+■
 
-If you enter a contest or sweepstakes sponsored by a third party, information may be shared with that third party for their use in their discretion, including direct marketing (Some of our contests and sweeps will ask you at the time of entry whether you would like your personal information to be shared with the sponsor. Other contests will not give you that option and in that event, if you do not want your information to be shared, you should not enter the contest.)
+RealAge uses two companies -- DoubleClick and Google -- to serve the ads you see in many places on our Site. Below is an explanation (excerpted directly from DoubleClick's Web site) of the DoubleClick DART cookie that may be stored on your computer as a result of using RealAge. 
 
- _Non-U.S. Users_  
-If you are located outside of the United States, please note that the information you provide to us will be transferred to the United States. By using this web site, you consent to this transfer. You also consent to the adjudication of any disputes arising in connection with this website in the federal and state courts of, and in accordance with the laws of, the state of New York. _Other Terms of Use_  
-Everything you see or read on the Magazine sites is owned by us or used with permission. You may not copy, use, or retransmit anything from or for our site without our permission. You are not allowed to post or distribute any material you do not own or which you do not have permission to use. Ignoring this policy may result in copyright, trademark, or other intellectual property rights violation. 
+"DoubleClick's DART cookie is used by its [ad-serving](http://www.doubleclick.com/) and [search](http://www.doubleclick.com/products/dartsearch/index.aspx) products, on the Google content network and certain Google sites, including YouTube. This cookie is not client-specific. This means that, if you choose to opt out of DoubleClick's DART cookie, your opt-out cookie will be effective for all of the websites and advertisers that use DoubleClick's ad-serving or search technologies, including the Google content network. Please note that most major third-party online advertising companies have agreed to provide an opt-out mechanism for their ad cookies. For more information, please visit [www.networkadvertising.org](http://www.networkadvertising.org/). 
 
-We can, whenever we want, edit or delete any content displayed on the Magazine sites. You use the sites at your own risk. Everything you see on our sites is provided to you "as is." We make no warranties that this service will be timely, secure, uninterrupted, or error-free. You understand that if you download any material, you do so at your sole risk. The Magazines are not liable for any damages that may result from your use of our site. This includes direct, incidental, consequential, indirect, or punitive damages and attorneys' fees arising from your access to and use of our site. By using the Magazine sites, you agree to protect and hold us harmless from all liabilities, claims, and expenses that may result from the use of this service, your posting of any material to the site, or the transmission of any content through this service, or your breach of these terms of use. 
+Please also note that the websites and advertisers that use DoubleClick's DART cookie are required to post a privacy statement that describes their data collection activities in connection with their use of ad-serving or search technologies. For more information on these activities, please consult the privacy policies for those websites and advertisers. For the privacy statement with respect to Google's use of DoubleClick's DART cookie on the Google content network, please [click here](http://www.google.com/privacy_cookies.html). 
 
-_Copyright Infringement_  
-In accordance with the provisions of the Digital Millennium Copyright Act, 17 USC sec. 512, our magazine sites have designated an agent to receive notices of claims of copyright infringement: Debra S. Weaver, Esq., 959 Eighth Avenue, New York, New York, 10019, tel: 212-649-2047; [copyright@hearst.com](mailto:copyright@hearst.com). _Changes to Privacy Policy and Notice_  
-Hearst may change this policy from time to time in its discretion. Your continued use of our sites indicates your consent to this privacy policy and any amended versions of it.
+If you do not want a unique DART cookie from DoubleClick, there is a simple procedure to follow. [Click here](http://optout.doubleclick.net/dclk/optout-success.html) to replace your unique DART cookie with an opt-out DART cookie 
 
-This policy was last updated on October 4, 2006 
+If you select a DART opt-out cookie, ads delivered to your browser on behalf of clients using DoubleClick's ad-serving technology will be targeted based only on the non-personally identifiable information that is automatically transmitted in the Internet environment when an ad request is received by our ad servers, and your DART cookie will not be uniquely identified. The non-personally identifiable information that is automatically transmitted includes your browser type, Internet service provider, information about the general content of the site or page displayed on your browser and other non-personally identifiable information provided by the site." 
+
+**b) IP Address**
+
+An "IP Address" is actually a number that is automatically assigned to your computer when you use the Internet. In some cases, your IP address stays the same from session to session; but if you use a consumer Internet access provider (such as Earthlink or AT&T), your IP address probably varies from session to session. We track IP addresses solely in conjunction with session cookies to analyze our Web page flow. 
+
+**c) Action Tags**
+
+We use single pixel GIFs (also known as action tags or web beacons) on the Site and also in HTML-based e-mails to let us know which e-mails sent by us have been opened by recipients (including anyone to which the e-mails have been forwarded). Therefore, if you cannot see images when viewing a RealAge e-mail, we do not know if you open that particular e-mail. Similarly, if you receive your e-mail from us in text format (i.e., no pictures or graphics), we do not know if you open that particular e-mail. This information helps us assess the effectiveness of certain communications and marketing campaigns. 
+
+**d) Other Systems**
+
+Information is also collected from you when: 
+
+■
+
+You fill out forms on our Site, including registration forms, the RealAge Test, other tests, tools, and assessments. 
+
+■
+
+You interact with the message boards and post comments on articles. 
+
+■
+
+You click on advertisements on the Site or in one of the free health newsletters and e-mails you receive from RealAge. 
+
+■
+
+You invite someone else to join RealAge through our Web Site's sharing tools -- in that case, we will collect your name and e-mail address, as well as the other person's e-mail address, in order to send this e-mail; if you decide to invite someone else to take the RealAge Test and they subsequently register with us, we will collect and save the other person's e-mail address, as we would for anyone who registers on the Site. 
+
+Also, in most instances we include certain tracking links that allow us to monitor whether you accessed specific content or advertisements. If you click on one of these links, we will record that click and certain activities on the RealAge Web page associated with that tracking link. We may use this information for various purposes, such as to conduct internal research on our users' demographics, interests, and clicking behavior and to customize the content and advertisements you see. 
+
+When you register with RealAge, we use your Personal Information to create a customized Web experience for you and to improve our services. We may use Personal Information to: 
+
+■
+
+Calculate your RealAge and process your answers to quizzes in ways that provide you with tailored information regarding your health. 
+
+■
+
+Present you with advertising on the Site, based on the health interests you listed in Personal Information. 
+
+■
+
+Improve the content and layout of RealAge. 
+
+■
+
+Statistically analyze user behavior. 
+
+■
+
+Receive feedback on editorial content. 
+
+■
+
+Develop products, marketing, and promotions internally at RealAge. 
+
+■
+
+Contact you regarding your account status or changes to our Terms and Conditions, including our Privacy Policy. 
+
+In addition, when you become a RealAge Member, we will use your Personal Information to provide other services, including: 
+
+■
+
+Providing you with personalized health and wellness information via e-mail and/or postal mail. 
+
+■
+
+Sending you targeted advertising via e-mail and/or postal mail. 
+
+■
+
+Contacting you for feedback and surveys via e-mail and/or postal mail. 
+
+■
+
+Sending you general and administrative information about your RealAge membership via e-mail and/or postal mail. 
+
+Like most Web sites, we accept advertising and sponsorships. That's how we are able to provide our health newsletters and Site to you at no charge. RealAge uses your Personal Information in the course of operating our business in several ways, which include: 
+
+■
+
+Providing your Registration Information to our third-party service providers -- who must agree NOT to use or disclose that information for any other purpose and whose role is solely to provide operational support for RealAge. These third-party service providers include companies that we use, for example, to send out our e-mail newsletters and provide security for the data that you share with us. RealAge strives to ensure that any third-party service provider to which RealAge discloses Personal Information is contractually obligated to use the Personal Information solely for the purposes for which it was disclosed, even though these third-party service providers are independent companies over which RealAge exercises no control. RealAge is not responsible for, and will not be liable for, their conduct, actions, omissions, or information handling or dissemination practices. 
+
+■
+
+Adding your e-mail address to certain "suppression lists" -- that is, lists of advertisements that you have told us you no longer wish to see. From time to time, RealAge may host a suppression list on an advertiser's behalf; in those cases, we forward any e-mail addresses we collect to the advertiser to be added to a specific advertisement's suppression list. 
+
+■
+
+Merging your Registration Information with other, optional types of Personal Information that you provide to us voluntarily, such as merging your health-related information from taking the RealAge Test with your responses to surveys, health assessments, and questionnaires. In other words, we will combine basic Registration Information you provide to us (e-mail address, username, password, age, gender, and zip code) with additional information you provide. This lets us send you relevant e-mails and display advertising to you on our Site that we think will be of interest, as further described in Section 5, "How We Display Ads on Our Site."
+
+■
+
+Merging your Personal Information with other information we collect about you, based on your activity on our Site. For example, if you read an article on a particular health topic (say, cholesterol), we will note it on your profile. We do this so that we can provide you content and advertising that is more relevant and of greater interest to you (in this example, information about cholesterol). 
+
+■
+
+Combining your Personal Information with outside records, such as postal data and other demographic data. We do this to conduct research, improve the quality of our services, and send you printed health and wellness information -- sponsored by our advertisers -- by postal mail that we believe may be of interest to you. We also use that merged information to send you relevant e-mails and to display advertising to you on our site that we think will be of interest, as further described in Section 5, "How We Display Ads on Our Site."
+
+■
+
+Participating in market research activities through RealAge, including health surveys. When you take part in such activities, we may ask you to submit Personal Information such as health and lifestyle data about you and your family. However, our reports and analyses to clients and partners are made **only** on an anonymous basis, using Anonymous Data. **Our clients and partners never see any single individual's Personal Information and CANNOT associate any of the information they receive with a particular individual.**
+
+■
+
+Matching the Personal Information you provide to us with information from other sources, including prescription information. We use this information to perform market research and to prepare reports and analyses for our clients. But again, our reports and analyses to clients and partners are made **only** on an anonymous basis, using Anonymous Data. **Our clients and partners never see any single individual's Personal Information and CANNOT associate any of the information they receive with a particular individual.**
+
+We do not send or support the delivery of unsolicited bulk e-mail (a.k.a. "spam"). 
+
+We think advertising is more useful when it is tailored to your interests. Since RealAge users are interested in bettering their health and lifestyle, we use information about their health to deliver ads. 
+
+We display ads on our Site to our Registrants and Members based on the Personal Information provided to us when taking the RealAge Test or participating in other interactive features, as well as Anonymous Data collected via technology. For example, if when taking the RealAge Test you indicated that you are interested in diet and exercise, you might be shown an advertisement about nutrition or physical fitness. 
+
+RealAge users who do not become Members or Registrants receive advertisements solely on the basis of Anonymous Data. 
+
+Advertising is served on RealAge in the following ways: 
+
+■
+
+By RealAge directly -- in some cases using RealAge-controlled third-party ad-serving technology or by using an advertiser's third-party ad-serving technology, though in both cases, no Personal Information is shared with or accessible by the ad-serving platform. 
+
+■
+
+By ad-serving networks that track user activity across a variety of Web sites. 
+
+If you are a Registrant or Member and want RealAge to stop using health information to serve you ads, [click here](http://cls.realage.com/Reg/MyAcntTC.aspx) to delete your account. If you would like more information about network advertising and about not having this information used by these companies, click here: [ http://networkadvertising.org/consumer/opt_out.asp](http://networkadvertising.org/consumer/opt_out.asp). 
+
+When you click on the third-party advertisements or links displayed on RealAge, you will leave our Site and go to another site. During this process, a third party (including a third-party advertising service that may provide services to an advertiser) may collect Personal Information or Anonymous Data from you, such as the URL you just came from, the URL you go to next, your browser type, and your IP address. Our display of advertisements or links to any other company or site is for your convenience and does not signify our endorsement of such company or site (or the contents of the site). We have no control over, we do not review, and our Privacy Policy does not apply to these other companies, sites, or content, or to any collection of data after you click on an advertisement of or link to a third party. RealAge may from time to time be syndicated to Affiliates or third parties, and you may be served ads from advertisers selected by those parties. 
+
+As a convenience to our Members, we provide a number of ways to review and change information in your account and to unsubscribe from RealAge services. For one, you can go to the RealAge Site and log onto your account page to make any desired changes. Similarly, each e-mail message you receive from us contains one or more links to RealAge that allow you to conveniently access this information. Or **you can unsubscribe at any time by** [clicking here](http://cls.realage.com/reg/unsubscribe.aspx). 
+
+To request that your health information which has been voluntarily provided to RealAge through registration, online forms, or surveys be removed from our database, [click here](http://cls.realage.com/Reg/MyAcntTC.aspx). When we delete your health information, you will continue to be registered with us, and if you are a RealAge Member, you'll continue to get the free health newsletters and e-mails that you have told us you want to receive. 
+
+If you choose to post material to any blogs or forums, participate in our social networking channels, or in any other community features that may be offered from time to time on our Sites, you will be solely responsible for all content, messages, text, files, images, graphics, photos, audio clips, sounds, videos, or other materials (the "Postings"). You agree and warrant that any Postings you make on the Site will be true and accurate, will not defame any person or invade any person's privacy, and will not infringe upon the proprietary rights of any person. You agree not to make any Postings to which you do not own the rights. By making Postings, you understand and acknowledge that visitors to RealAge may post comments about your Postings which may be derogatory, and that RealAge has no obligation to monitor or delete any such comments. You also acknowledge that any information you may receive from another advice-giver on our Site is not a substitute for professional medical information or advice and is governed by the disclaimers and limitations set forth in our [Terms of Use](http://cls.realage.com/corporate/termsofuse.aspx). 
+
+RealAge reserves the right, but has no obligation, to monitor Postings. RealAge does not and cannot monitor all of the Postings made to the Sites and will not be responsible for the content of any Postings. RealAge has no obligation to verify the accuracy of any personally identifying information posted to our Sites. However, RealAge reserves the right to delete any material in any Posting that is obscene, harassing, offensive, or otherwise objectionable and not in keeping with the community standards of RealAge. Under no circumstances will RealAge be liable for any inaccuracy or defect in any Postings. We also expect our users to adhere to certain rules. Therefore, you agree not to post, e-mail, or otherwise make available Postings: 
+
+■
+
+That are unlawful, harmful, threatening, abusive, harassing, defamatory, pornographic, libelous, or invasive of another's privacy or harmful to minors in any way. 
+
+■
+
+That harass, degrade, intimidate, or are hateful toward an individual or group of individuals on the basis of religion, gender, sexual orientation, race, ethnicity, age, or disability. 
+
+■
+
+That include personal or identifying information about another person without that person's explicit consent. 
+
+■
+
+That are false, deceptive, misleading, deceitful, misinformative, constitute "bait and switch," or impersonate any person or entity. 
+
+■
+
+That contain your own or a third party's advertising, branding, or promotional content. 
+
+■
+
+That infringe upon any proprietary rights, including copyright, of any party, or Postings that you do not have a right to make available. 
+
+■
+
+That restrict or inhibit any other user from using and enjoying the RealAge Sites or the RealAge services offered on them. 
+
+Because RealAge does not monitor the Postings, you agree to use and rely on them at your own risk. RealAge cannot make any representation or warranty about the material contained in the Postings. RealAge likewise assumes no responsibility for any contact you may have with other users of our Sites, either online or offline. If you elect to meet in person with someone you may meet on our Sites, you do so at your own risk; under no circumstances will RealAge be liable for any activity or injury that may occur. 
+
+RealAge may disclose information about you and your use of the RealAge Web Site and the RealAge services if RealAge believes such disclosure is reasonably necessary in order to: 
+
+(i) Comply with the law or legal process where a formal request has been made, such as from an administrative oversight agency, civil suit, subpoena, court order, or judicial or administrative proceeding;   
+(ii) Protect or defend the rights or property of RealAge or others;   
+(iii) Enforce the RealAge Terms and Conditions or this Privacy Policy;   
+(iv) Respond to claims that the content(s) of a communication violates the rights of another. 
+
+Also, circumstances may arise where, for business reasons, RealAge may decide to reorganize, or divest all or part of its business through sale, assignment, merger, or acquisition. In these circumstances, personal information may be shared with the actual or prospective purchasers or assignees. In such an event, we shall provide notice of any material change to this Privacy Policy, or our services, in the manner described in the Updates section of this Privacy Policy (see Section 16).
+
+We may conduct give-aways, contests, and other promotions on the Site in which we may ask you for additional information. We will use and treat this information as Personal Information in accordance with the terms of this Policy. Participation in such give-aways and contests is not necessary to use RealAge, and whether you may choose to participate in any particular give-away or contest or not will not affect your general use of the Site. 
+
+**RealAge has implemented security measures intended to prevent the loss, misuse, or alteration of the information under its control.** Our hardware infrastructure is housed in a controlled-access facility that restricts access to authorized individuals with positive identification. Our network access to the infrastructure is protected by a firewall protection system. Member information is backed up on a periodic basis to protect against accidental loss. You have the option when you enter personally identifiable information (e.g., registration, health profile questions, surveys) to use Secure Sockets Layer (SSL) encryption to protect your information during its transmission across the Internet. We use secure digital certificates to assist with verification that you're actually using RealAge.com and have not been diverted to an imposter Web site. We restrict the access of our staff and contractors to your information. Third-party marketing partners receive your information only under the substantial restrictions, imposed by you and/or us, described elsewhere in this Policy. 
+
+However, we cannot guarantee that communications between you and RealAge will not be intercepted by others, and that information stored on our servers will be free from unauthorized access. While we have taken reasonable precautions to protect this information, you should always use discretion in what information you send to us and not expect that such information will be absolutely free from intrusion. The confidentiality of any communication or material transmitted to or from RealAge cannot be and is not guaranteed. Accordingly, RealAge is not responsible for the security of information transmitted via the Internet. 
+
+Please note that **RealAge does not request Personal Information by sending e-mails. We only collect such information on our Site.** If you receive an e-mail purporting to be from us that solicits Personal Information, do not respond to it. Instead, please contact our [Member Services](mailto:info@realage.com?subject=Privacy%20Policy) staff immediately. 
+
+If the e-mail address you provide to us is a wireless e-mail address, you agree to receive messages at such address (unless and until you have elected not to receive such messages by notifying us at [info@RealAge.com](mailto:info@realage.com?subject=Privacy%20Policy) with the subject line, "Unsubscribe"). You understand that your wireless carrier's standard rates apply to these messages. You represent that you are the owner or authorized user of the wireless device on which messages will be received, and that you are authorized to approve the applicable charges. 
+
+RealAge, Inc., is a wholly owned subsidiary of Hearst Magazines, a division of Hearst Communications, Inc. As such, RealAge.com operates as part of the Hearst Digital Media Network, a network of Web sites operated by Hearst Communications, Inc., the country's largest publisher of monthly consumer magazines. These are our current Affiliates (we may add additional Affiliates in the future; if we do, they will be posted here and on the Site, but the addition of new Affiliates shall not be deemed to necessitate a change to this Privacy Policy): 
+
+Answerology   
+CosmoGirl   
+Cosmopolitan   
+Country Living   
+The Daily Green  |  Delish   
+eCrush   
+eSpin   
+Good Housekeeping   
+House Beautiful   
+Marie Claire  |  MisQuince   
+Quick & Simple   
+Redbook   
+Seventeen   
+Town & Country Travel   
+---|---|---  
+  
+RealAge services and Web Sites are not directed at children. They are designed for individuals who are 20 years of age or older. We will not request or knowingly collect information from an individual under age 20. 
+
+If you are a parent and you're worried about your children's activities or their privacy on our Site, we encourage you to e-mail us at [privacy@RealAge.com](mailto:privacy@RealAge.com). 
+
+YOU EXPRESSLY CONSENT TO THE PROCESSING OF YOUR PERSONAL DATA IN ACCORDANCE WITH THIS PRIVACY STATEMENT. YOUR PERSONAL DATA MAY BE PROCESSED IN THE UNITED STATES. UNITED STATES LAWS REGARDING PROCESSING OF PERSONAL DATA MAY BE LESS STRINGENT THAN THE LAWS IN YOUR COUNTRY. 
+
+California and Canada residents have the right to know how their information may be shared with third parties who engage in direct marketing activities; this Privacy Policy explains our practices and how you can opt out of having your information shared for such purposes. 
+
+RealAge reserves the right, at any time and without notice, to add to, update, change, modify, or revise this Privacy Policy or our services simply by posting such change, update, or modification on the Web Site. Any such addition, update, change, modification, or revision will be effective immediately upon posting on the Web Site. Upon any material change to this Privacy Policy, or our services, we may also notify you by notification on the Site and/or notification delivered by e-mail if you are a current RealAge Member with a valid, deliverable e-mail address at the time of the material change. 
+
+If you do not accept the terms of this Policy, we ask that you do not register with RealAge. 
+
+If you have any questions about this Privacy Policy, the practices of this Web Site, or your dealings with RealAge, you can contact: 
+
+RealAge, Inc.   
+5375 Mira Sorrento Place, Suite 250   
+San Diego, CA 92121 USA   
+(858) 200-7171   
+[privacy@RealAge.com](mailto:privacy@RealAge.com)
+
+Contact us: [info@RealAge.com](mailto:info@RealAge.com?subject=Privacy%20Policy)
+
+This privacy policy was last updated on July 23, 2009. 
