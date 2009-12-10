@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mondigroup.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628150142id_/http%3A//www.mondigroup.com/desktopdefault.aspx/tabid-20) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mondigroup.com privacy policy that was archived on 2009-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091210155257id_/http%3A//www.mondigroup.com/desktopdefault.aspx/tabid-20) for the most accurate reproduction.*
 
 # Mondi - Privacy
 
