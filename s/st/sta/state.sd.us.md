@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the state.sd.us privacy policy that was archived on 2009-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090325145125id_/http%3A//www.sd.gov/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.sd.us privacy policy that was archived on 2009-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091210060413id_/http%3A//www.sd.gov/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - State of South Dakota
 
