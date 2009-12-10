@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maximiles.co.uk privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428031843id_/http%3A//www.maximiles.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maximiles.co.uk privacy policy that was archived on 2009-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091210124542id_/http%3A//www.maximiles.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # ipoints - Privacy Policy
 
@@ -20,7 +20,7 @@ ipoints are committed to our members privacy and the following notes outline our
 
 1. By joining the ipoints Programme you agree that we can communicate with you with suitable offers from ipoints, its partners and clients, which may contain opportunities to earn and redeem.
 
-2. From time to time we may pass your postal, email address or telephone number on to selected third parties so that they can send you offers that may be of interest to you. You may opt-out of receiving all third party communications at any time by ticking the box provided on your Account Details page. You will always be given prior notice from ipoints to opt out of receiving 3rd party emails before any data is requested.
+2. From time to time we may pass your postal, email address or telephone number on to selected third parties so that they can send you offers that may be of interest to you. You may opt-out of receiving all third party communications at any time by ticking the box provided on your Account Details page.
 
 3. The collection of data by ipoints through registration on third party sites may lead to your data also being held by that third party site.
 
