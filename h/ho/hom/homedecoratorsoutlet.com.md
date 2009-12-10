@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homedecoratorsoutlet.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627065912id_/http%3A//www.homedecoratorsoutlet.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homedecoratorsoutlet.com privacy policy that was archived on 2009-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091210054402id_/http%3A//www.homedecoratorsoutlet.com/Privacy) for the most accurate reproduction.*
 
 # HomeDecoratorsOutlet.com
 
@@ -9,6 +9,7 @@
 [Product Information](http://www.homedecoratorsoutlet.com/page.php?file=faq&faqGroup=Product+Information)
 [Email](http://www.homedecoratorsoutlet.com/page.php?file=faq&faqGroup=Email)
 [About Us](http://www.homedecoratorsoutlet.com/page.php?file=faq&faqGroup=About+Us)
+[Store Locations](http://www.homedecoratorsoutlet.com/page.php?file=faq&faqGroup=Store+Locations)
 | 
 
 Last updated: November 28, 2008
