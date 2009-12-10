@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the professionalplastics.com privacy policy that was archived on 2009-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090621222225id_/http%3A//www.professionalplastics.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the professionalplastics.com privacy policy that was archived on 2009-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091210094544id_/http%3A//www.professionalplastics.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
 
@@ -27,7 +27,7 @@
 <td class="order_online" align="center">ORDER ONLINE OR CALL<br>1-888-995-7767</td>
 </tr>
 <tr>
-<td id="top_menu" height="29" align="left" colspan="2" width="550"><div style="float:left;width:500px;"><ul class="clearfix"><li class="top_list"><a href="https://www.professionalplastics.com/cgi-bin/pp.pl?pgm=co_myacct&amp;func=home&amp;temp=login&amp;strfnbr=3">Corporate Account Log In</a></li><li class="top_list"><a href="https://www.professionalplastics.com/cgi-bin/pp.pl?pgm=co_myacct&amp;func=home&amp;temp=login&amp;strfnbr=3">My Account</a></li><li class="shop_list"><a href="http://www.professionalplastics.com/cgi-bin/pp.pl?pgm=max_shop&amp;wnname=shopcart&amp;strfnbr=3&amp;page=dispcart">Shopping Cart</a> 
+<td id="top_menu" height="29" align="left" colspan="2" width="550"><div style="float:left;width:520px;"><ul class="clearfix"><li class="top_list"><a href="https://www.professionalplastics.com/cgi-bin/pp.pl?pgm=co_myacct&amp;func=home&amp;temp=login&amp;strfnbr=3">Corporate Account Log In</a></li><li class="top_list"><a href="https://www.professionalplastics.com/cgi-bin/pp.pl?pgm=co_myacct&amp;func=home&amp;temp=login&amp;strfnbr=3">My Account</a></li><li class="shop_list"><a href="http://www.professionalplastics.com/cgi-bin/pp.pl?pgm=max_shop&amp;wnname=shopcart&amp;strfnbr=3&amp;page=dispcart">Shopping Cart</a> 
 
 </li></ul></div></td>
 <td bgcolor="#3366CC" width="320" align="right">
@@ -93,6 +93,7 @@ if (document.layers)
 <a href="http://www.professionalplastics.com/es/privacy.html" class="language lang_es"><img src="/professionalplastics/content/templates/main/main/flag_spain.gif" border="0" width="27" height="19" alt="Español"></a>
 <a href="http://www.professionalplastics.com/nl/privacy.html" class="language lang_nl"><img src="/professionalplastics/content/templates/main/main/flag_netherlands.gif" border="0" width="27" height="19" alt="Nederland" style="padding-right:50px;"></a>
 
+<a href="http://www.professionalplastics.com/standardrequestaquote"><img src="/professionalplastics/content/templates/main/main/bttn_requestaquote.gif" width="134" height="22" alt="Request A Quote" border="0"></a>
 </td>
 </tr>
 </tbody></table>
@@ -166,268 +167,44 @@ t.value = '';
 </tr>
 </tbody></table>
 <table cellpadding="0" cellspacing="0" class="sidenav2">
-<tbody><tr><td class="hdr_trans"><img src="/professionalplastics/content/templates/main/main/email-signup.gif"></td></tr>
+<tbody><tr><td class="hdr_trans"><img src="/professionalplastics/content/templates/main/main/hdr_newslettersignup.gif"></td></tr>
 <tr>
-<td class="side_body2"><br>
-<form action="http://cl.exct.net/subscribe.aspx?lid=1794740" name="subscribeForm" method="post" onsubmit="return checkForm();">
-<input type="hidden" name="thx" value="http://www.professionalplastics.com/cgi-bin/main/co_disp/displ/pgname/optin-email_thanks/strfnbr/3">
-<input type="hidden" name="err" value="http://www.professionalplastics.com/cgi-bin/main/co_disp/displ/pgname/optin-email_errors/strfnbr/3">
-<input type="hidden" name="MID" value="17214">
-<span style="color:#000;">Register for Professional Plastics email updates</span>
+<td class="side_body">
+	<script language="JavaScript">
+function validemailForm(NewsletterSignup){
+		if (NewsletterSignup.a11.value == "") {
+			alert ("You Must enter your email address.")
+			NewsletterSignup.a11.focus()
+			return false
+		}
+
+		return true
+	}
+
+</script>
+				
+<br>
+<form onsubmit="return validemailForm(this);" id="NewsletterSignup" name="NewsletterSignup" method="post" action="http://www.professionalplastics.com/cgi-bin/pp.pl">
+							<input type="hidden" name="form_definition" value="NewsletterSignup">  		 		
+							<input type="hidden" value="survey_in" name="pgm">  		 		
+							<input type="hidden" value="process" name="func">  		 		
+							<input type="hidden" value="0,0" name="sesent">  		 		
+							<input type="hidden" value="3" name="strfnbr">  		 		
+							<input type="hidden" value="" name="carfnbr">  		 		
+							<input type="hidden" value="" name="storfnbr">  		 		
+							<input type="hidden" value="newslettersignup_thanks" name="pgname">
+
+<div style="color:#000;padding:0px 4px;">Register for Professional<br>Plastics newsletters</div>
 <table>
-<tbody><tr><td><b>Email:</b><br><input type="text" name="Email Address" style="width: 130px;"></td></tr>
-<tr><td><b>Name:</b><br><input type="text" name="Full Name" style="width: 130px;"></td></tr>
+<tbody><tr><td><b>Email:</b><br><input type="hidden" name="q11" value="R,T:::Email Address"><input type="text" name="a11" style="width: 130px;" maxlength="50"></td></tr>
+<tr><td><b>Company Name:</b><br><input type="hidden" name="q1" value="O,T:::Company Name"><input type="text" name="a1" style="width: 130px;" maxlength="50"></td></tr>
 <tr>
 <td>
-<b>Country:</b><br>
-<select name="Country" style="width:130px;">
-<option name="Country" value="None">Select a country</option>
-<option name="Country" selected="" value="us">United States</option>
-<option name="Country" value="ca">Canada</option>
-<option name="Country" value="af">Afghanistan</option>
-<option name="Country" value="ax">Aland Islands</option>
-<option name="Country" value="al">Albania</option>
-<option name="Country" value="dz">Algeria</option>
-<option name="Country" value="as">American Samoa</option>
-<option name="Country" value="ad">Andorra</option>
-<option name="Country" value="ao">Angola</option>
-<option name="Country" value="ai">Anguilla</option>
-<option name="Country" value="aq">Antarctica</option>
-<option name="Country" value="ag">Antigua and Barbuda</option>
-<option name="Country" value="ar">Argentina</option>
-<option name="Country" value="am">Armenia</option>
-<option name="Country" value="aw">Aruba</option>
-<option name="Country" value="au">Australia</option>
-<option name="Country" value="at">Austria</option>
-<option name="Country" value="az">Azerbaijan</option>
-<option name="Country" value="bs">Bahamas</option>
-<option name="Country" value="bh">Bahrain</option>
-<option name="Country" value="bd">Bangladesh</option>
-<option name="Country" value="bb">Barbados</option>
-<option name="Country" value="by">Belarus</option>
-<option name="Country" value="be">Belgium</option>
-<option name="Country" value="bz">Belize</option>
-<option name="Country" value="bj">Benin</option>
-<option name="Country" value="bm">Bermuda</option>
-<option name="Country" value="bt">Bhutan</option>
-<option name="Country" value="bo">Bolivia</option>
-<option name="Country" value="ba">Bosnia and Herzegovina</option>
-<option name="Country" value="bw">Botswana</option>
-<option name="Country" value="bv">Bouvet Island</option>
-<option name="Country" value="br">Brazil</option>
-<option name="Country" value="io">British Indian Ocean Territory</option>
-<option name="Country" value="bn">Brunei Darussalam</option>
-<option name="Country" value="bg">Bulgaria</option>
-<option name="Country" value="bf">Burkina Faso</option>
-<option name="Country" value="bi">Burundi</option>
-<option name="Country" value="kh">Cambodia</option>
-<option name="Country" value="cm">Cameroon</option>
-<option name="Country" value="ca">Canada</option>
-<option name="Country" value="cv">Cape Verde</option>
-<option name="Country" value="ky">Cayman Islands</option>
-<option name="Country" value="cf">Central African Republic</option>
-<option name="Country" value="td">Chad</option>
-<option name="Country" value="cl">Chile</option>
-<option name="Country" value="cn">China</option>
-<option name="Country" value="cx">Christmas Island</option>
-<option name="Country" value="cc">Cocos (Keeling) Islands</option>
-<option name="Country" value="co">Colombia</option>
-<option name="Country" value="km">Comoros</option>
-<option name="Country" value="cg">Congo</option>
-<option name="Country" value="cd">Congo, Democratic Republic of</option>
-<option name="Country" value="ck">Cook Islands</option>
-<option name="Country" value="cr">Costa Rica</option>
-<option name="Country" value="ci">Cote D'Ivoire</option>
-<option name="Country" value="hr">Croatia</option>
-<option name="Country" value="cu">Cuba</option>
-<option name="Country" value="cy">Cyprus</option>
-<option name="Country" value="cz">Czech Republic</option>
-<option name="Country" value="dk">Denmark</option>
-<option name="Country" value="dj">Djibouti</option>
-<option name="Country" value="dm">Dominica</option>
-<option name="Country" value="do">Dominican Republic</option>
-<option name="Country" value="tl">East Timor</option>
-<option name="Country" value="ec">Ecuador</option>
-<option name="Country" value="eg">Egypt</option>
-<option name="Country" value="sv">El Salvador</option>
-<option name="Country" value="gq">Equatorial Guinea</option>
-<option name="Country" value="er">Eritrea</option>
-<option name="Country" value="ee">Estonia</option>
-<option name="Country" value="et">Ethiopia</option>
-<option name="Country" value="fo">Faroe Islands</option>
-<option name="Country" value="fk">Faukland Islands</option>
-<option name="Country" value="fj">Fiji</option>
-<option name="Country" value="fi">Finland</option>
-<option name="Country" value="fr">France</option>
-<option name="Country" value="gf">French Guyana</option>
-<option name="Country" value="pf">French Polynesia</option>
-<option name="Country" value="tf">French Southern Territories</option>
-<option name="Country" value="ga">Gabon</option>
-<option name="Country" value="gm">Gambia</option>
-<option name="Country" value="ge">Georgia</option>
-<option name="Country" value="de">Germany</option>
-<option name="Country" value="gh">Ghana</option>
-<option name="Country" value="gi">Gibraltar</option>
-<option name="Country" value="gr">Greece</option>
-<option name="Country" value="gl">Greenland</option>
-<option name="Country" value="gd">Grenada</option>
-<option name="Country" value="gp">Guadeloupe</option>
-<option name="Country" value="gu">Guam</option>
-<option name="Country" value="gt">Guatemala</option>
-<option name="Country" value="gn">Guinea</option>
-<option name="Country" value="gw">Guinea-Bissau</option>
-<option name="Country" value="gy">Guyana</option>
-<option name="Country" value="ht">Haiti</option>
-<option name="Country" value="hm">Heard and McDonald Islands</option>
-<option name="Country" value="hn">Honduras</option>
-<option name="Country" value="hk">Hong Kong</option>
-<option name="Country" value="hu">Hungary</option>
-<option name="Country" value="is">Iceland</option>
-<option name="Country" value="in">India</option>
-<option name="Country" value="id">Indonesia</option>
-<option name="Country" value="ir">Iran</option>
-<option name="Country" value="iq">Iraq</option>
-<option name="Country" value="ie">Ireland</option>
-<option name="Country" value="il">Israel</option>
-<option name="Country" value="it">Italy</option>
-<option name="Country" value="jm">Jamaica</option>
-<option name="Country" value="jp">Japan</option>
-<option name="Country" value="jo">Jordan</option>
-<option name="Country" value="kz">Kazakhstan</option>
-<option name="Country" value="ke">Kenya</option>
-<option name="Country" value="ki">Kiribati</option>
-<option name="Country" value="kw">Kuwait</option>
-<option name="Country" value="kg">Kyrgyzstan</option>
-<option name="Country" value="la">Laos</option>
-<option name="Country" value="lv">Latvia</option>
-<option name="Country" value="lb">Lebanon</option>
-<option name="Country" value="ls">Lesotho</option>
-<option name="Country" value="lr">Liberia</option>
-<option name="Country" value="ly">Libya</option>
-<option name="Country" value="li">Liechtenstein</option>
-<option name="Country" value="lt">Lithuania</option>
-<option name="Country" value="lu">Luxembourg</option>
-<option name="Country" value="mo">Macao</option>
-<option name="Country" value="mk">Macedonia</option>
-<option name="Country" value="mg">Madagascar</option>
-<option name="Country" value="mw">Malawi</option>
-<option name="Country" value="my">Malaysia</option>
-<option name="Country" value="mv">Maldives</option>
-<option name="Country" value="ml">Mali</option>
-<option name="Country" value="mt">Malta</option>
-<option name="Country" value="mh">Marshall Islands</option>
-<option name="Country" value="mq">Martinique</option>
-<option name="Country" value="mr">Mauritania</option>
-<option name="Country" value="mu">Mauritius</option>
-<option name="Country" value="yt">Mayotte</option>
-<option name="Country" value="mx">Mexico</option>
-<option name="Country" value="fm">Micronesia</option>
-<option name="Country" value="md">Moldova</option>
-<option name="Country" value="mc">Monaco</option>
-<option name="Country" value="mn">Mongolia</option>
-<option name="Country" value="ms">Montserrat</option>
-<option name="Country" value="ma">Morocco</option>
-<option name="Country" value="mz">Mozambique</option>
-<option name="Country" value="mm">Myanmar</option>
-<option name="Country" value="na">Namibia</option>
-<option name="Country" value="nr">Nauru</option>
-<option name="Country" value="np">Nepal</option>
-<option name="Country" value="nl">Netherlands</option>
-<option name="Country" value="an">Netherlands Antilles</option>
-<option name="Country" value="nt">Neutral Zone</option>
-<option name="Country" value="nc">New Caledonia</option>
-<option name="Country" value="nz">New Zealand</option>
-<option name="Country" value="ni">Nicaragua</option>
-<option name="Country" value="ne">Niger</option>
-<option name="Country" value="ng">Nigeria</option>
-<option name="Country" value="nu">Niue</option>
-<option name="Country" value="nf">Norfolk Island</option>
-<option name="Country" value="kp">North Korea</option>
-<option name="Country" value="mp">Northern Mariana Islands</option>
-<option name="Country" value="no">Norway</option>
-<option name="Country" value="om">Oman</option>
-<option name="Country" value="pk">Pakistan</option>
-<option name="Country" value="pw">Palau</option>
-<option name="Country" value="ps">Palestinian Territory, Occupied</option>
-<option name="Country" value="pa">Panama</option>
-<option name="Country" value="pg">Papua New Guinea</option>
-<option name="Country" value="py">Paraguay</option>
-<option name="Country" value="pe">Peru</option>
-<option name="Country" value="ph">Philippines</option>
-<option name="Country" value="pn">Pitcairn</option>
-<option name="Country" value="pl">Poland</option>
-<option name="Country" value="pt">Portugal</option>
-<option name="Country" value="pr">Puerto Rico</option>
-<option name="Country" value="qa">Qatar</option>
-<option name="Country" value="re">Reunion</option>
-<option name="Country" value="ro">Romania</option>
-<option name="Country" value="ru">Russian Federation</option>
-<option name="Country" value="rw">Rwanda</option>
-<option name="Country" value="sh">Saint Helena</option>
-<option name="Country" value="kn">Saint Kitts and Nevis</option>
-<option name="Country" value="lc">Saint Lucia</option>
-<option name="Country" value="pm">Saint Pierre and Miquelon</option>
-<option name="Country" value="vc">Saint Vincent &amp; the Grenadines</option>
-<option name="Country" value="ws">Samoa</option>
-<option name="Country" value="sm">San Marino</option>
-<option name="Country" value="st">Sao Tome and Principe</option>
-<option name="Country" value="sa">Saudi Arabia</option>
-<option name="Country" value="sn">Senegal</option>
-<option name="Country" value="cs">Serbia and Montenegro</option>
-<option name="Country" value="sc">Seychelles</option>
-<option name="Country" value="sl">Sierra Leone</option>
-<option name="Country" value="sg">Singapore</option>
-<option name="Country" value="sk">Slovakia</option>
-<option name="Country" value="si">Slovenia</option>
-<option name="Country" value="sb">Solomon Islands</option>
-<option name="Country" value="so">Somalia</option>
-<option name="Country" value="za">South Africa</option>
-<option name="Country" value="gs">South Georgia &amp; S. Sandwich Is.</option>
-<option name="Country" value="kr">South Korea</option>
-<option name="Country" value="es">Spain</option>
-<option name="Country" value="lk">Sri Lanka</option>
-<option name="Country" value="sd">Sudan</option>
-<option name="Country" value="sr">Suriname</option>
-<option name="Country" value="sj">Svalbard and Jan Mayen</option>
-<option name="Country" value="sz">Swaziland</option>
-<option name="Country" value="se">Sweden</option>
-<option name="Country" value="ch">Switzerland</option>
-<option name="Country" value="sy">Syria</option>
-<option name="Country" value="tw">Taiwan</option>
-<option name="Country" value="tj">Tajikistan</option>
-<option name="Country" value="tz">Tanzania</option>
-<option name="Country" value="th">Thailand</option>
-<option name="Country" value="tg">Togo</option>
-<option name="Country" value="tk">Tokelau</option>
-<option name="Country" value="to">Tonga</option>
-<option name="Country" value="tt">Trinidad and Tobago</option>
-<option name="Country" value="tn">Tunisia</option>
-<option name="Country" value="tr">Turkey</option>
-<option name="Country" value="tm">Turkmenistan</option>
-<option name="Country" value="tc">Turks and Caicos Islands</option>
-<option name="Country" value="tv">Tuvalu</option>
-<option name="Country" value="ug">Uganda</option>
-<option name="Country" value="ua">Ukraine</option>
-<option name="Country" value="ae">United Arab Emirates</option>
-<option name="Country" value="uk">United Kingdom</option>
-<option name="Country" selected="" value="us">United States</option>
-<option name="Country" value="um">United States Minor Outlying Is.</option>
-<option name="Country" value="uy">Uruguay</option>
-<option name="Country" value="uz">Uzbekistan</option>
-<option name="Country" value="vu">Vanuatu</option>
-<option name="Country" value="va">Vatican City State</option>
-<option name="Country" value="vn">Viet Nam</option>
-<option name="Country" value="vg">Virgin Islands, British</option>
-<option name="Country" value="vi">Virgin Islands, U.S.</option>
-<option name="Country" value="wf">Wallis and Futuna</option>
-<option name="Country" value="eh">Western Sahara</option>
-<option name="Country" value="ye">Yemen</option>
-<option name="Country" value="zm">Zambia</option>
-<option name="Country" value="zw">Zimbabwe</option>
-</select>
+<b>Phone Number:</b><br>
+<input type="hidden" name="q2" value="O,T:::Phone Number"><input type="text" name="a2" style="width: 130px;" maxlength="50">
 </td>
 </tr>
-<tr><td><input name="submit" type="submit" value="Subscribe" style="font-size:10px;border: 1px solid #000;background-color:#003366;color:#ffffff;width:70px;cursor:pointer;"></td></tr>
+<tr><td><input name="submit" type="submit" value="Sign up" style="font-size:10px;border: 1px solid #000;background-color:#003366;color:#ffffff;width:70px;cursor:pointer;"></td></tr>
 </tbody></table>
 </form>
 </td>
@@ -435,6 +212,9 @@ t.value = '';
 </tbody></table>
 <br>
 <img src="/professionalplastics/content/templates/main/main/cc_icon.gif" width="133" height="92" border="0" alt="">
+<div style="padding-left:20px">
+<br>
+</div>
 </td>
 </tr>
 </tbody></table>
@@ -455,62 +235,90 @@ t.value = '';
 <a class="hzl" href="/ABSFORMINGGRADE-FR">ABS - Forming Grade (Flame Retardant)</a><br>
 <a class="hzl" href="/ABSSHEETFORMINGGRADE">ABS - Forming Grade (General Purpose)</a><br>
 <a class="hzl" href="/ACETAL-POMSHEET-RODS">Acetal Copolymer (POM)</a><br>
+<a class="hzl" href="/Acrylic_PlexiglassProducts">ACRYLIC - <b>PLEXIGLASS Sheets, Rods &amp; Tubes</b> - Page Links</a><br>
 <a class="hzl" href="/DP-32">Acrylic DP-32 (FFV) Patterned Acrylic Sheet</a><br>
-<a class="hzl" href="/ACRYLICMIRROR">Acrylic Mirror</a><br>
+<a class="hzl" href="/ACRYLICMIRROR">Acrylic Mirror - FABBACK acrylic mirror </a><br>
+<a class="hzl" href="/ACRYLITEP-99">Acrylic - Non-Glare Sheet (Acrylite® P-99)</a><br>
 <a class="hzl" href="/ACRYLICSHEET-DECO">Acrylic Sheet - Decorative Styles</a><br>
-<a class="hzl" href="/PLEXIGLASS-ACRYLICSHEET-CAST">ACRYLIC SHEETS - CAST - Plexiglass</a><br>
-<a class="hzl" href="/PLEXIGLASS-ACRYLICSHEET-EXTRUDED">ACRYLIC SHEETS - EXTRUDED - Plexiglass</a><br>
 <a class="hzl" href="/ACRYLITEBR">Acrylite® BR acrylic sheet (Bullet-Resistant)</a><br>
 <a class="hzl" href="/ACRYLICOP-3SHEET">Acrylite® OP-3 &amp; OP-3 P-99 Sheet</a><br>
 <a class="hzl" href="/ACRYLITEPLUS">Acrylite Plus® - Display Grade Acrylic</a><br>
 <a class="hzl" href="/ACRYLITE249">Acrylite® 249 Sheet</a><br>
 <a class="hzl" href="/ACRYLITEENDLIGHTEN">Acrylite® EndLighten - Edge Lit Sheet</a><br>
+<a class="hzl" href="/ACRYLITEFF">Acrylite® FF Acrylic Sheet </a><br>
 <a class="hzl" href="/ACRYLICP95SHEET">Acrylite® GP P95 Patterned Sheet</a><br>
-<a class="hzl" href="/ACRYLITEP-99">Acrylite® P-99 Non-Glare Sheet</a><br>
+<a class="hzl" href="/ACRYLITEGP">Acrylite® GP Sheet</a><br>
 <a class="hzl" href="/ACRYLITERADIANT">Acrylite® Radiant </a><br>
 <a class="hzl" href="/ACRYLITERINKSHEILD">Acrylite® RinkShield™ acrylic sheet </a><br>
 <a class="hzl" href="/ACRYLICSIGNGRADESHEET">Acrylite® SG Sign Grade Acrylic</a><br>
 <a class="hzl" href="/ACRYLITESTERLING">Acrylite® Sterling - Metallic Acrylic Sheet</a><br>
 <a class="hzl" href="/ACRYLICMIL-P-5425">Aircraft Grade Acrylic  -  Mil-P-5425 Sheet</a><br>
 <a class="hzl" href="/ARBORONSHEET">Arboron® Phenolic Laminate</a><br>
-<a class="hzl" href="/Bayblend-MTR">Bayblend™ MTR </a><br>
+<a class="hzl" href="/BOLTARON4125CPVC">Boltaron 4125 CPVC Sheet</a><br>
 <a class="hzl" href="/BOLATARON4330">Boltaron 4330 Sheet</a><br>
 <a class="hzl" href="/BOLTARON6800SHEET">Boltaron 6800® ABS/PVCSheet</a><br>
+<a class="hzl" href="/BOLTARON9815">Boltaron 9815 Sheet</a><br>
 <a class="hzl" href="/BORATEDPOLYETHYLENE">Borated Polyethylene</a><br>
 <a class="hzl" href="/Borotron-Borated-Polyetheylene">Borotron® HD050- 5% Borated Polyethylene</a><br>
 <a class="hzl" href="/BULLETRESISTANTMaterials">Bullet-Resistant Materials</a><br>
 <a class="hzl" href="/CELAZOLE-PBI">Celazole® PBI</a><br>
-<a class="hzl" href="/CeramaPEEK-ESdTestSocketMaterial">CeramaPEEK® ESd Test Socket Material</a><br>
-<a class="hzl" href="/CeramaPEEKceramic">CeramaPEEK® Test Socket Material</a><br>
-<a class="hzl" href="/CERAMATEST1600">Ceramatest®  1600 - Glass-Mica Composite</a><br>
+<a class="hzl" href="/CeramaPEEKceramic">CeramaPEEK® NC20 Test Socket Material</a><br>
+<a class="hzl" href="/CeramaPEEK_NC30">CeramaPEEK® NC30 Advanced Test Plate</a><br>
+<a class="hzl" href="/CIRLEX-KAPTONFILM">Cirlex® - Laminated Kapton® Film</a><br>
 <a class="hzl" href="/COGETHERM">Cogetherm - Mica Laminate Insulation Board</a><br>
+<a class="hzl" href="/CORKRUBBER">Cork Rubber</a><br>
 <a class="hzl" href="/COROPLASTSHEET">Coroplast® - Fluted Polypropylene Sheet</a><br>
-<a class="hzl" href="/CPVC-300-FM4910-ESd">CPVC-300™ - FM 4910 (General Purpose Grade)</a><br>
+<a class="hzl" href="/CPVC-300-FM4910-ESd">CPVC-300™ - ESd FM 4910 Sheet</a><br>
+<a class="hzl" href="/CPVC-350-FM4910">CPVC-350™ - ESd FM 4910 (Bending Grade)</a><br>
 <a class="hzl" href="/CPVCSHEET-ROD">CPVC Sheet &amp; Rod</a><br>
 <a class="hzl" href="/HDPECUTTINGBOARD">Cutting Boards HDPE (Generic)</a><br>
-<a class="hzl" href="/DELRINAF">Delrin® 100AF - 13% PTFE (Standard) AF Blend </a><br>
+<a class="hzl" href="/DELRIN100AFSHEETROD">Delrin®  100AF - 20% PTFE (Custom Order)</a><br>
+<a class="hzl" href="/DELRINAF">Delrin® AF Blend - 13% PTFE (Standard) </a><br>
 <a class="hzl" href="/DELRINSHEET-ROD">Delrin® Sheets &amp; Rods</a><br>
+<a class="hzl" href="/DENSETEC_HDPE_BORATED_POLYETHYLENE_SHEET">Densetec Borated HDPE SHEET</a><br>
+<a class="hzl" href="/DENSETECBATHROOMPARTITION">Densetec HDPE Bathroom Partition </a><br>
+<a class="hzl" href="/Densetec_HDPEPipeGrade">Densetec HDPE Pipe Grade</a><br>
 <a class="hzl" href="/DENSETEC-HDPE-PLAYBOARD">Densetec HDPE Playground Board</a><br>
+<a class="hzl" href="/DENSETECMARINEBOARD">Densetec Marine Board</a><br>
+<a class="hzl" href="/DensetecPost-ConsumerHDPE-Sheet">Densetec ® Post-Consumer HDPE Sheet</a><br>
+<a class="hzl" href="/DocumentCenter">Document Center - Library</a><br>
+<a class="hzl" href="/DURAPLEX">Duraplex® - Impact Modified Acrylic Reels</a><br>
+<a class="hzl" href="/DURAPLEXFLATSHEET">Duraplex® Impact Modified Flat Sheet</a><br>
 <a class="hzl" href="/DURAPOL">Durapol® Wave Solder Pallets</a><br>
 <a class="hzl" href="/DURATRONXP">Duratron® XP Polyimide</a><br>
 <a class="hzl" href="/Durostone_CAC768">Durostone® CAC768</a><br>
 <a class="hzl" href="/Durostone_CFR767">Durostone® CFR767</a><br>
 <a class="hzl" href="/DUROSTONE">Durostone® Wave Solder Pallet Material</a><br>
+<a class="hzl" href="/EcoGehrBioPolymerShapes">ECOGEHR® Bio-Polymer Shapes</a><br>
+<a class="hzl" href="/ECOGEHR_C-L">ECOGEHR® C-L Biodegradable</a><br>
+<a class="hzl" href="/ECOGEHR_PA-PolyamideBioplastic">ECOGEHR PA - Polyamide Bioplastic</a><br>
+<a class="hzl" href="/ECOGEHR_PLA">ECOGEHR® PLA</a><br>
+<a class="hzl" href="/ECOGEHR_WPC-30PP_WPC-50PVC">ECOGEHR® WPC-30PP / WPC-50PVC</a><br>
 <a class="hzl" href="/ENTRYBOARD-PHENOLIC">Entry Board - Phenolic</a><br>
+<a class="hzl" href="/EPDMRUBBERSHEET">EPDM Rubber Sheeting</a><br>
 <a class="hzl" href="/ERTALYTEPETP">Ertalyte® PET-P</a><br>
 <a class="hzl" href="/ERTALYTETX">Ertalyte® TX</a><br>
 <a class="hzl" href="/Extem">Extem®</a><br>
+<a class="hzl" href="/POLYCARBFRMIRROR">Fabback™ Aircraft Grade Mirror</a><br>
+<a class="hzl" href="/Mirror-ImpactResistant">Fabback™ Polycarbonate Mirror</a><br>
+<a class="hzl" href="/FeltGasketMaterial">Felt Gasket Material</a><br>
 <a class="hzl" href="/FEPRODS-SHEET">FEP Rods &amp; Sheets</a><br>
+<a class="hzl" href="/FISHPAPER">Fishpaper - Vulcanized Fibre Sheet</a><br>
 <a class="hzl" href="/FRPSHEET">FRP Wall &amp; Ceiling Panels</a><br>
 <a class="hzl" href="/G10FR4SHEET">G-10/FR-4 Sheets</a><br>
-<a class="hzl" href="/G11GLASSEPOXYSHEET">G-11 Glass Epoxy Laminate</a><br>
+<a class="hzl" href="/G11GLASSEPOXYSHEET">G-11 Glass Epoxy Sheet</a><br>
+<a class="hzl" href="/G-30POLYIMIDE">G-30 Polyimide Glass Laminate</a><br>
 <a class="hzl" href="/G7GLASSSILICONE">G-7 Glass-Silicone Laminate</a><br>
 <a class="hzl" href="/GLASGUARD1130SHT">GlasGuard 1130 Corrosion-Resistant Panels</a><br>
+<a class="hzl" href="/GSA-Gov-Supplier-FSC-9330-9390">Government Bids - GSA Contract </a><br>
 <a class="hzl" href="/GPO-3SHEET">GPO-3 Sheets</a><br>
 <a class="hzl" href="/GRAFOILGAPHITEGASKET">Grafoil® Graphite Gasket Sheet</a><br>
+<a class="hzl" href="/HALAR-ECTFE">Halar® - ECTFE</a><br>
 <a class="hzl" href="/HDPESHEETSRODS">HDPE Sheets &amp; Rods</a><br>
 <a class="hzl" href="/HIPS-HIGHIMPACTPOLYSTYRENESHEET">High-Impact Polystyrene - HIPS</a><br>
 <a class="hzl" href="/HYGARD">Hygard® BR - Bullet Resistant Laminated Polycarbonate </a><br>
+<a class="hzl" href="/HYPALON">Hypalon®</a><br>
+<a class="hzl" href="/ISO9001-14001">ISO 9001 &amp; ISO 14001 Registration</a><br>
 <a class="hzl" href="/KAPA-BLOCSHEET">Kapa-Bloc® Sheet</a><br>
 <a class="hzl" href="/KELF-PCTFERODSHEETTUBE">Kel-F® - PCTFE</a><br>
 <a class="hzl" href="/KetronPEEK-Quadrant">Ketron® PEEK </a><br>
@@ -518,21 +326,33 @@ t.value = '';
 <a class="hzl" href="/KETRONPEEK-CLASSIXLSG">Ketron ® PEEK-CLASSIX ® LSG </a><br>
 <a class="hzl" href="/KETRONPEEK-GF30LSG">Ketron ® PEEK-GF30 LSG (Blue)</a><br>
 <a class="hzl" href="/KETRONPEEKLSG">Ketron ® PEEK LSG </a><br>
+<a class="hzl" href="/KETRONPEEK-UHP320">KETRON ® PEEK UHP 320</a><br>
 <a class="hzl" href="/King_Plasti-Shield_Borated_Polyethylene">King Plasti-Shield® Borated Polyethylene</a><br>
 <a class="hzl" href="/KomAluSheet">KomAlu® Aluminum-Clad Foam PVC Sheets </a><br>
 <a class="hzl" href="/KOMATEX">Komatex® - Expanded PVC Sheet</a><br>
 <a class="hzl" href="/KrefineESdPEEK-SS11">Krefine ESd PEEK, PEI, PES, PBI </a><br>
 <a class="hzl" href="/KYDEX100SHEET">KYDEX ® 100 Sheet</a><br>
 <a class="hzl" href="/Kydex110-metallic">KYDEX® 110 Fire-rated metallic sheet </a><br>
+<a class="hzl" href="/Kydex-1900">KYDEX® 1900 - Mid-temperature aircraft grade </a><br>
+<a class="hzl" href="/Kydex550-Sheet">KYDEX® 550 Weatherable monolithic sheet </a><br>
+<a class="hzl" href="/Kydex-5555">KYDEX® 5555 Low heat release aviation sheet </a><br>
+<a class="hzl" href="/Kydex-6185Sheet">KYDEX® 6185</a><br>
+<a class="hzl" href="/Kydex-6200">KYDEX® 6200 - Fire-rated sheet for mass transit </a><br>
 <a class="hzl" href="/Kydex-6565-Sheet">KYDEX® 6565 </a><br>
+<a class="hzl" href="/Kydex_FST">KYDEX® FST with Microban®</a><br>
+<a class="hzl" href="/KYDEXWOODGRAIN">KYDEX® 152WG Wood Grain Sheet</a><br>
 <a class="hzl" href="/KYDEXTSHEET">KYDEX® T Sheet</a><br>
+<a class="hzl" href="/Kydex-V-Sheet">KYDEX® V - Utility Sheet</a><br>
 <a class="hzl" href="/KYNAR1000HD">Kynar® 1000HD PVDF Homopolymer</a><br>
-<a class="hzl" href="/KYNAR740">Kynar® 740 PVDF Shapes</a><br>
+<a class="hzl" href="/KYNAR740">Kynar® 740 PVDF Sheet &amp; Rod</a><br>
 <a class="hzl" href="/Kytec-PVDF_Sheet">Kytec® PVDF </a><br>
+<a class="hzl" href="/LAST-A-FOAM-FR-7100">LAST-A-FOAM® FR-7100 Modeling Foam</a><br>
 <a class="hzl" href="/LATEXSHEETING">Latex Sheeting</a><br>
 <a class="hzl" href="/LDPEPOLYETHYLENE">LDPE - Low Density Polyethylene</a><br>
-<a class="hzl" href="/LEADEDACRYLIC">Leaded Acrylic Sheet - Radiation Sheilding</a><br>
+<a class="hzl" href="/LEADEDACRYLIC">Leaded Acrylic Sheet - Radiation Shielding</a><br>
 <a class="hzl" href="/LEXANSHEET9034">Lexan® Sheet (also see Polycarbonate)</a><br>
+<a class="hzl" href="/LIGHTINGPANEL-CRACKEDICE">Lighting Panels - Cracked Ice </a><br>
+<a class="hzl" href="/PRISMATICLIGHTINGPANEL">Lighting Panels - Prismatic</a><br>
 <a class="hzl" href="/LUCITECP">Lucite® CP - Continuous Process Acrylic</a><br>
 <a class="hzl" href="/LUCITE">Lucite® L Cast Acrylic Sheet</a><br>
 <a class="hzl" href="/LUMASITE">Lumasite® Sheet</a><br>
@@ -542,6 +362,9 @@ t.value = '';
 <a class="hzl" href="/MAKROLONLF">Makrolon® LF - FR Polycarbonate Sheet</a><br>
 <a class="hzl" href="/MAKROLON_OP">Makrolon® OP Optical Grade Polycarbonate</a><br>
 <a class="hzl" href="/MAKROLONGP-polycarbonate">Makrolon® GP Polycarbonate Sheet</a><br>
+<a class="hzl" href="/MAKROLONWG">Makrolon® WG - Window Grade Polycarbonate</a><br>
+<a class="hzl" href="/MAKROLON-SL-SignGrade">MAKROLON® SL Sign Grade</a><br>
+<a class="hzl" href="/Mar-Con_Acrylic">Mar-Con® AS Acrylic - Mar Resistant/Antistatic</a><br>
 <a class="hzl" href="/MC901">MC® 901 Heat Stabilized Nylon</a><br>
 <a class="hzl" href="/MC907">MC® 907 - Food Grade Nylon</a><br>
 <a class="hzl" href="/MELDIN7003">Meldin® 7003 Polyimide (15% MD Filled) </a><br>
@@ -549,21 +372,27 @@ t.value = '';
 <a class="hzl" href="/MELDIN7021">Meldin® 7021 Polyimide (15% Graphite Filled)</a><br>
 <a class="hzl" href="/MELDIN7022">Meldin® 7022 Polyimide (40% Graphite-Filled)</a><br>
 <a class="hzl" href="/MELDIN7211">Meldin® 7211 15% Graphite + 10% PTFE</a><br>
-<a class="hzl" href="/POLYCARBFRMIRROR">MirroPlast™ Aircraft Grade Mirror</a><br>
-<a class="hzl" href="/Mirror-ImpactResistant">MirroPlast™ Polycarbonate Mirror</a><br>
+<a class="hzl" href="/MYCALEXMYCROYMICA">Mycalex® Mica-filled ceramic</a><br>
 <a class="hzl" href="/NEOPRENEFOAM">Neoprene Foam</a><br>
+<a class="hzl" href="/NEOPRENE">Neoprene Rubber Sheeting</a><br>
 <a class="hzl" href="/Nitrile-RubberNBR_Sheeting">Nitrile Rubber- NBR (BUNA-N)</a><br>
+<a class="hzl" href="/Nomex_Honeycomb">Nomex Honeycomb</a><br>
 <a class="hzl" href="/NOMEXPAPER">Nomex® Aramid Paper</a><br>
 <a class="hzl" href="/NORYLEN265GFN3PPO">Noryl® EN265 &amp; GFN3  - PPO</a><br>
+<a class="hzl" href="/Nylapro8000">Nylapro® 8000</a><br>
+<a class="hzl" href="/Nylapro6000">Nylapro® 6000</a><br>
 <a class="hzl" href="/NylatronMC501R6R2R9">Nylatron MC501 R6 R2, R9 &amp; AS R11</a><br>
 <a class="hzl" href="/NYLATRON703XL">Nylatron® 703XL</a><br>
+<a class="hzl" href="/NYLATRONGSMBLUE">Nylatron® GSM Blue Nylon</a><br>
 <a class="hzl" href="/NYLATRONGSM">Nylatron® GSM Nylon</a><br>
 <a class="hzl" href="/NYLATRONGS">Nylatron® GS Nylon - Extruded</a><br>
 <a class="hzl" href="/NYLATRONNSM">Nylatron® NSM</a><br>
+<a class="hzl" href="/NYLONRODSHEETTUBE">Nylon® 6/6 Extruded, Unfilled</a><br>
 <a class="hzl" href="/NYLON6CASTRODSHEETTUBE">Nylon® - Cast, Unfilled</a><br>
-<a class="hzl" href="/NYLONRODSHEETTUBE">Nylon® - Extruded, Unfilled</a><br>
 <a class="hzl" href="/NYLONMD">Nylon® - MD Filled</a><br>
+<a class="hzl" href="/Optix_AcrylicSheet">Optix® Acrylic Sheet</a><br>
 <a class="hzl" href="/PEEK_SHEET-ROD-BAR">PEEK - Sheets &amp; Rods</a><br>
+<a class="hzl" href="/PETG_Mirror">PETG Mirror</a><br>
 <a class="hzl" href="/PETGSHEET">PETG Sheet</a><br>
 <a class="hzl" href="/PFA-RODSHEETBAR">PFA Rods &amp; Sheets</a><br>
 <a class="hzl" href="/PHENOLICCANVASCSHEET">Phenolic - Grade C Canvas Sheets</a><br>
@@ -573,14 +402,23 @@ t.value = '';
 <a class="hzl" href="/PHENOLICPAPERX">Phenolic - Grade X Paper</a><br>
 <a class="hzl" href="/PHENOLICPAPERXX">Phenolic - Grade XX Paper</a><br>
 <a class="hzl" href="/PHENOLICPAPERXXX">Phenolic - Grade XXX Paper </a><br>
+<a class="hzl" href="/Plastics">Plastics</a><br>
+<a class="hzl" href="/Plavis-E-ConductivePolyimide">Plavis-E® Conductive Polyimide</a><br>
 <a class="hzl" href="/Plavis-ESd_ESd-Polyimide">Plavis ESd® - ESd Polyimide</a><br>
+<a class="hzl" href="/PLAVIS">Plavis® Polyimide Shapes</a><br>
+<a class="hzl" href="/PLEXIGLASS-ACRYLICSHEET-CAST">PLEXIGLASS - ACRYLIC SHEETS - CAST</a><br>
+<a class="hzl" href="/PLEXIGLASS-ACRYLICSHEET-EXTRUDED">PLEXIGLASS - ACRYLIC SHEETS - EXTRUDED</a><br>
 <a class="hzl" href="/PlexiglassPatioTableTops">Plexiglass Patio Table Tops - PatioGlass® Replacement Glass</a><br>
+<a class="hzl" href="/PLEXIGLASS">Plexiglass Sheet (also see Acrylic Sheet)</a><br>
 <a class="hzl" href="/POLYCARBONATESHEET">Polycarbonate GP Sheet - Glazing Grade</a><br>
 <a class="hzl" href="/POLYCARBONATEMACHINEGRADE">Polycarbonate - Machine Grade Plate &amp; Rod</a><br>
 <a class="hzl" href="/POLYCARBONATEAR">Polycarbonate Sheet - A/R Abrasion Resistant</a><br>
 <a class="hzl" href="/PC350">Polycarbonate Sheet ESd PC-350 - Bending Grade</a><br>
 <a class="hzl" href="/PolycarbonateSheetFlameRetardant">Polycarbonate Sheet - Flame Retardent - Makrolon® FI   </a><br>
 <a class="hzl" href="/POLYCARBONATETWINWALLSHEET">Polycarbonate Twin Wall Sheet</a><br>
+<a class="hzl" href="/POLYIMIDEFOAM">Polyimide Foam - Solimide</a><br>
+<a class="hzl" href="/POLYPROFR-CP5">Polypropylene FR - Flametec™ CP5 (FRPP)</a><br>
+<a class="hzl" href="/POLYPROFRCP7D">Polypropylene FR - Flametec™ CP7-D -FM 4910</a><br>
 <a class="hzl" href="/POLYPROPERF">Polypropylene - Perforated Sheet</a><br>
 <a class="hzl" href="/POLYPROPYLENEORTHOTIC">Polypropylene - Proteus® O&amp;P Grade</a><br>
 <a class="hzl" href="/POLYPROSHT-COLORS">Polypropylene Sheets &amp; Rods - Colors</a><br>
@@ -588,43 +426,62 @@ t.value = '';
 <a class="hzl" href="/POLYPROPYLENESHEETSRODS">Polypropylene Sheets &amp; Rods (Natural)</a><br>
 <a class="hzl" href="/POLYPROSHEET-WHITE">Polypropylene Sheets &amp; Rods - White</a><br>
 <a class="hzl" href="/PolyslickUHMW">Polyslick UHMW</a><br>
+<a class="hzl" href="/PolystoneM_Soft">Polystone® M Soft (UHMW-PE)</a><br>
+<a class="hzl" href="/POLYSULFONE">Polysulfone PSU 1000</a><br>
 <a class="hzl" href="/POLYURETHANESHEETSRODS">Polyurethane Sheet &amp; Rods</a><br>
+<a class="hzl" href="/POMALLOY_ESD_Acetal">Pomalloy® ESd - ESd Acetal</a><br>
 <a class="hzl" href="/PPS-POLYPHENYLENESULFIDE">PPS (Polyphylene Sulfide) Virgin &amp; GF 40% </a><br>
 <a class="hzl" href="/PrimoSpire">PrimoSpire® self-reinforced polyphenylene (SRP)</a><br>
 <a class="hzl" href="/ProtoPEEK_5025-BearingGradePEEK">ProtoPEEK® 5025 Bearing Grade PEEK</a><br>
 <a class="hzl" href="/PVCEXPANDEDSHEET">PVC - Expanded Sheet</a><br>
 <a class="hzl" href="/PVCSheet-Clear">PVC Sheets - Clear</a><br>
-<a class="hzl" href="/PVCSHEETSRODS">PVC Sheets &amp; Rods - Grey</a><br>
+<a class="hzl" href="/PVC_SheetColorsType1Solid">PVC Sheets - Rigid - Colors</a><br>
+<a class="hzl" href="/PVCSHEETSRODS">PVC Sheets &amp; Rods - Grey (Standard)</a><br>
+<a class="hzl" href="/Vintec-TypeII_PVC">PVC Sheet - Type II - Vintec® II</a><br>
+<a class="hzl" href="/PVC_Sheet-WhiteType1">PVC Sheet - White - Type 1 Rigid</a><br>
+<a class="hzl" href="/PVC-UltraWhiteSignageBoard">PVC - UltraWhite UV Signage Board</a><br>
 <a class="hzl" href="/PVDFKYNARROD">PVDF - Extruded Rods &amp; Plates</a><br>
+<a class="hzl" href="/plastic-testing-design-selection">R&amp;D Test Pack - Plastics</a><br>
 <a class="hzl" href="/REXOLITE1422-2200">Rexolite® </a><br>
 <a class="hzl" href="/RICHLITEINDUSTRIAL">Richlite® Industrial Laminate</a><br>
 <a class="hzl" href="/ROYALITER57SHEET">Royalite R-57 Sheet</a><br>
 <a class="hzl" href="/ABSROYALITER59SHEET">Royalite ® R59</a><br>
 <a class="hzl" href="/ABSROYALITER63SHEET">Royalstat ® R63 Conductive ABS/PVC </a><br>
+<a class="hzl" href="/CALENDEREDRUBBER">Rubber Sheeting - Calendered</a><br>
 <a class="hzl" href="/RULON641">Rulon® 641</a><br>
 <a class="hzl" href="/RULONJ">Rulon® J (Gold)</a><br>
 <a class="hzl" href="/RULONLR">Rulon® LR (Maroon)</a><br>
+<a class="hzl" href="/RYTONPPS40GLASS">Ryton® - PPS - 40% Glass-Filled</a><br>
 <a class="hzl" href="/SANATECHDPE">Sanatec® Sanitary Cutting Boards</a><br>
+<a class="hzl" href="/SBR-RUBBER">SBR Rubber</a><br>
 <a class="hzl" href="/SEABOARDGRIP-X">Seaboard™ Grip-X™</a><br>
 <a class="hzl" href="/SEABOARDLITE">Seaboard™ Lite HDPE</a><br>
+<a class="hzl" href="/semi-produits_plastique">Semi-Produits Plastique</a><br>
+<a class="hzl" href="/SEMITRONESD490">Semitron® ESd 490HR ESd PEEK </a><br>
 <a class="hzl" href="/SEMITRONESD225ACETAL">Semitron® ESd 225 - Acetal</a><br>
 <a class="hzl" href="/SEMITRONESD410C">Semitron®  ESd 410C - Conductive Ultem®</a><br>
 <a class="hzl" href="/SEMITRON420">Semitron®  ESd 420 - ESd PEI (Ultem)</a><br>
 <a class="hzl" href="/SEMITRONESD480">Semitron® ESd 480 ESd PEEK</a><br>
 <a class="hzl" href="/SEMITRONESD-500">Semitron® ESd 500HR - ESd PTFE</a><br>
 <a class="hzl" href="/SEMITRON520HR">Semitron® ESd 520HR - ESd PAI</a><br>
+<a class="hzl" href="/SILICONERUBBERSHEETING">Silicone Rubber Sheeting</a><br>
+<a class="hzl" href="/Silicone_RubberSheetTranslucent">Silicone Rubber Sheet - Translucent</a><br>
 <a class="hzl" href="/SKATEPLATE3000">SkatePlate 3000 </a><br>
+<a class="hzl" href="/SPONGE_RUBBER-Sheet">Sponge Rubber Sheet</a><br>
 <a class="hzl" href="/STARLITEXLMARINEBOARD">StarLite® XL Lightweight Marine Board</a><br>
+<a class="hzl" href="/STATNOTESDG-10">StatNot™ MC511SN ESd G-10 Sheet</a><br>
 <a class="hzl" href="/SUMIKA-SUPER">Sumika Super S1000 - New !!</a><br>
 <a class="hzl" href="/Sustamid_6G_HS_BlueCastNylon">Sustamid 6G HS Blue Cast Nylon</a><br>
 <a class="hzl" href="/SYMALITECTFEHALAR">Symalit® ECTFE Halar® Sheet</a><br>
+<a class="hzl" href="/TAKIRON_FMET4735">Takiron FMET 4735 FM New White PVC Sheet</a><br>
+<a class="hzl" href="/TakironFMET4315PVCSheet">Takiron FM Plate FMET 4315 (PVC) </a><br>
 <a class="hzl" href="/TECHTRONHPVLSG">Techtron ® HPV LSG</a><br>
 <a class="hzl" href="/TECHTRONHPV">Techtron®  HPV - Bearing Grade PPS</a><br>
 <a class="hzl" href="/TECHTRON-PPS">Techtron® PPS</a><br>
 <a class="hzl" href="/TEFLONETCHED">Teflon PTFE - Etched</a><br>
 <a class="hzl" href="/TEFLONPTFEGLASSFILLED">Teflon PTFE- Glass-Filled</a><br>
-<a class="hzl" href="/TEFLONSHEETRODVIRGINPTFE">Teflon PTFE Sheets &amp; Rods (Virgin Grade)</a><br>
-<a class="hzl" href="/TEFLONSHEETRODMECHANICALPTFE">Teflon ® PTFE Teflon Sheet &amp; Rod (Mechanical)</a><br>
+<a class="hzl" href="/TEFLONSHEETRODMECHANICALPTFE">Teflon ® PTFE Sheet &amp; Rod (Mechanical)</a><br>
+<a class="hzl" href="/TEFLONSHEETRODVIRGINPTFE">Teflon® PTFE Sheets &amp; Rods (VIRGIN Grade)</a><br>
 <a class="hzl" href="/TEFZEL-ETFESHEETSRODS">Tefzel® - ETFE Sheets &amp; Rods</a><br>
 <a class="hzl" href="/TIVAR">Tivar® 1000 UHMW </a><br>
 <a class="hzl" href="/TIVAR88">Tivar® 88</a><br>
@@ -648,8 +505,10 @@ t.value = '';
 <a class="hzl" href="/VESPELSP211-DUPONT">Vespel® SP-211</a><br>
 <a class="hzl" href="/VESPELSP22-DUPONT">Vespel® SP-22</a><br>
 <a class="hzl" href="/VESPEL-SP3-DUPONT">Vespel® SP-3</a><br>
-<a class="hzl" href="/Vintec-TypeII_PVC">Vintec® II Type II PVC</a><br>
+<a class="hzl" href="/Vespel-Meldin_TestSamples">Vespel® vs Meldin® Test Blanks</a><br>
+<a class="hzl" href="/Vespro6200-CR6200">Vespro® 6200</a><br>
 <a class="hzl" href="/VINYLSTRIPCURTAIN">Vinyl Strip Curtain</a><br>
+<a class="hzl" href="/VITON">Viton® fluoroelastomer</a><br>
 <a class="hzl" href="/VIVAKPETGSHEET">Vivak® PETG Sheet</a><br>
 <a class="hzl" href="/ZELUXWPOLYCARBONATE">Zelux® W - Polycarbonate Sheet</a><br>
 </ul>
@@ -664,16 +523,27 @@ t.value = '';
 <a class="hzl" href="/ACRYLICROUNDROD">Acrylic Rods - Extruded</a><br>
 <a class="hzl" href="/CELAZOLE-PBI">Celazole® PBI</a><br>
 <a class="hzl" href="/CPVCSHEET-ROD">CPVC Sheet &amp; Rod</a><br>
-<a class="hzl" href="/DELRINAF">Delrin® 100AF - 13% PTFE (Standard) AF Blend </a><br>
+<a class="hzl" href="/CPVC_WeldingRod">CPVC Welding Rod</a><br>
+<a class="hzl" href="/DELRIN100AFSHEETROD">Delrin®  100AF - 20% PTFE (Custom Order)</a><br>
+<a class="hzl" href="/DELRINAF">Delrin® AF Blend - 13% PTFE (Standard) </a><br>
 <a class="hzl" href="/DELRINSHEET-ROD">Delrin® Sheets &amp; Rods</a><br>
+<a class="hzl" href="/DocumentCenter">Document Center - Library</a><br>
 <a class="hzl" href="/DURATRONXP">Duratron® XP Polyimide</a><br>
+<a class="hzl" href="/EcoGehrBioPolymerShapes">ECOGEHR® Bio-Polymer Shapes</a><br>
+<a class="hzl" href="/ECOGEHR_C-L">ECOGEHR® C-L Biodegradable</a><br>
+<a class="hzl" href="/ECOGEHR_PA-PolyamideBioplastic">ECOGEHR PA - Polyamide Bioplastic</a><br>
+<a class="hzl" href="/ECOGEHR_PLA">ECOGEHR® PLA</a><br>
+<a class="hzl" href="/ECOGEHR_WPC-30PP_WPC-50PVC">ECOGEHR® WPC-30PP / WPC-50PVC</a><br>
 <a class="hzl" href="/ERTALYTEPETP">Ertalyte® PET-P</a><br>
 <a class="hzl" href="/ERTALYTETX">Ertalyte® TX</a><br>
 <a class="hzl" href="/Extem">Extem®</a><br>
 <a class="hzl" href="/FEPRODS-SHEET">FEP Rods &amp; Sheets</a><br>
 <a class="hzl" href="/G-10FR4ROD">G-10/FR-4 Rods</a><br>
-<a class="hzl" href="/G11GLASSEPOXYSHEET">G-11 Glass Epoxy Laminate</a><br>
+<a class="hzl" href="/G-11_Rod">G-11 Rod</a><br>
+<a class="hzl" href="/GSA-Gov-Supplier-FSC-9330-9390">Government Bids - GSA Contract </a><br>
+<a class="hzl" href="/HALAR-ECTFE">Halar® - ECTFE</a><br>
 <a class="hzl" href="/HDPESHEETSRODS">HDPE Sheets &amp; Rods</a><br>
+<a class="hzl" href="/ISO9001-14001">ISO 9001 &amp; ISO 14001 Registration</a><br>
 <a class="hzl" href="/ISOPLAST202301">Isoplast® 202 &amp; 301 </a><br>
 <a class="hzl" href="/KELF-PCTFERODSHEETTUBE">Kel-F® - PCTFE</a><br>
 <a class="hzl" href="/KetronPEEK-Quadrant">Ketron® PEEK </a><br>
@@ -681,8 +551,9 @@ t.value = '';
 <a class="hzl" href="/KETRONPEEK-CLASSIXLSG">Ketron ® PEEK-CLASSIX ® LSG </a><br>
 <a class="hzl" href="/KETRONPEEK-GF30LSG">Ketron ® PEEK-GF30 LSG (Blue)</a><br>
 <a class="hzl" href="/KETRONPEEKLSG">Ketron ® PEEK LSG </a><br>
+<a class="hzl" href="/KETRONPEEK-UHP320">KETRON ® PEEK UHP 320</a><br>
 <a class="hzl" href="/KYNAR1000HD">Kynar® 1000HD PVDF Homopolymer</a><br>
-<a class="hzl" href="/KYNAR740">Kynar® 740 PVDF Shapes</a><br>
+<a class="hzl" href="/KYNAR740">Kynar® 740 PVDF Sheet &amp; Rod</a><br>
 <a class="hzl" href="/LDPEPOLYETHYLENE">LDPE - Low Density Polyethylene</a><br>
 <a class="hzl" href="/MACOR">Macor® Machinable Glass Ceramic</a><br>
 <a class="hzl" href="/MC901">MC® 901 Heat Stabilized Nylon</a><br>
@@ -692,40 +563,54 @@ t.value = '';
 <a class="hzl" href="/MELDIN7021">Meldin® 7021 Polyimide (15% Graphite Filled)</a><br>
 <a class="hzl" href="/MELDIN7022">Meldin® 7022 Polyimide (40% Graphite-Filled)</a><br>
 <a class="hzl" href="/MELDIN7211">Meldin® 7211 15% Graphite + 10% PTFE</a><br>
+<a class="hzl" href="/MYCALEXMYCROYMICA">Mycalex® Mica-filled ceramic</a><br>
 <a class="hzl" href="/NORYLEN265GFN3PPO">Noryl® EN265 &amp; GFN3  - PPO</a><br>
+<a class="hzl" href="/Nylapro8000">Nylapro® 8000</a><br>
+<a class="hzl" href="/Nylapro6000">Nylapro® 6000</a><br>
+<a class="hzl" href="/NYLATRONGSMBLUE">Nylatron® GSM Blue Nylon</a><br>
 <a class="hzl" href="/NYLATRONGSM">Nylatron® GSM Nylon</a><br>
 <a class="hzl" href="/NYLATRONGS">Nylatron® GS Nylon - Extruded</a><br>
 <a class="hzl" href="/NYLATRONNSM">Nylatron® NSM</a><br>
+<a class="hzl" href="/NYLONRODSHEETTUBE">Nylon® 6/6 Extruded, Unfilled</a><br>
 <a class="hzl" href="/NYLON6CASTRODSHEETTUBE">Nylon® - Cast, Unfilled</a><br>
-<a class="hzl" href="/NYLONRODSHEETTUBE">Nylon® - Extruded, Unfilled</a><br>
 <a class="hzl" href="/NYLONMD">Nylon® - MD Filled</a><br>
 <a class="hzl" href="/PEEK_SHEET-ROD-BAR">PEEK - Sheets &amp; Rods</a><br>
 <a class="hzl" href="/PFA-RODSHEETBAR">PFA Rods &amp; Sheets</a><br>
 <a class="hzl" href="/PHENOLICCANVASCEROD">Phenolic - Grade CE Canvas Rod</a><br>
 <a class="hzl" href="/PHENOLICLINENGRADELE">Phenolic - Grade LE Sheets &amp; Rods</a><br>
+<a class="hzl" href="/Plastics">Plastics</a><br>
+<a class="hzl" href="/Plavis-E-ConductivePolyimide">Plavis-E® Conductive Polyimide</a><br>
 <a class="hzl" href="/Plavis-ESd_ESd-Polyimide">Plavis ESd® - ESd Polyimide</a><br>
+<a class="hzl" href="/PLAVIS">Plavis® Polyimide Shapes</a><br>
 <a class="hzl" href="/POLYCARBONATEMACHINEGRADE">Polycarbonate - Machine Grade Plate &amp; Rod</a><br>
 <a class="hzl" href="/POLYPROSHT-COLORS">Polypropylene Sheets &amp; Rods - Colors</a><br>
 <a class="hzl" href="/POLYPRO-EUROGRY">Polypropylene Sheets &amp; Rods - Euro Grey</a><br>
 <a class="hzl" href="/POLYPROPYLENESHEETSRODS">Polypropylene Sheets &amp; Rods (Natural)</a><br>
+<a class="hzl" href="/PolystoneM_Soft">Polystone® M Soft (UHMW-PE)</a><br>
+<a class="hzl" href="/POLYSULFONE">Polysulfone PSU 1000</a><br>
 <a class="hzl" href="/POLYURETHANESHEETSRODS">Polyurethane Sheet &amp; Rods</a><br>
+<a class="hzl" href="/POMALLOY_ESD_Acetal">Pomalloy® ESd - ESd Acetal</a><br>
 <a class="hzl" href="/PPS-POLYPHENYLENESULFIDE">PPS (Polyphylene Sulfide) Virgin &amp; GF 40% </a><br>
 <a class="hzl" href="/PrimoSpire">PrimoSpire® self-reinforced polyphenylene (SRP)</a><br>
 <a class="hzl" href="/ProtoPEEK_5025-BearingGradePEEK">ProtoPEEK® 5025 Bearing Grade PEEK</a><br>
-<a class="hzl" href="/PVCSHEETSRODS">PVC Sheets &amp; Rods - Grey</a><br>
+<a class="hzl" href="/PVCSHEETSRODS">PVC Sheets &amp; Rods - Grey (Standard)</a><br>
 <a class="hzl" href="/PVDFKYNARROD">PVDF - Extruded Rods &amp; Plates</a><br>
 <a class="hzl" href="/RADEL-R5500-PPSU">Radel® R-5500 - PPSU Rod &amp; Sheet</a><br>
 <a class="hzl" href="/REXOLITE1422-2200">Rexolite® </a><br>
 <a class="hzl" href="/RULON641">Rulon® 641</a><br>
 <a class="hzl" href="/RULONJ">Rulon® J (Gold)</a><br>
 <a class="hzl" href="/RULONLR">Rulon® LR (Maroon)</a><br>
+<a class="hzl" href="/RYTONPPS40GLASS">Ryton® - PPS - 40% Glass-Filled</a><br>
+<a class="hzl" href="/semi-produits_plastique">Semi-Produits Plastique</a><br>
 <a class="hzl" href="/SEMITRONESD225ACETAL">Semitron® ESd 225 - Acetal</a><br>
 <a class="hzl" href="/Sustamid_6G_HS_BlueCastNylon">Sustamid 6G HS Blue Cast Nylon</a><br>
 <a class="hzl" href="/TECHTRONHPVLSG">Techtron ® HPV LSG</a><br>
 <a class="hzl" href="/TECHTRONHPV">Techtron®  HPV - Bearing Grade PPS</a><br>
 <a class="hzl" href="/TECHTRON-PPS">Techtron® PPS</a><br>
-<a class="hzl" href="/TEFLONSHEETRODVIRGINPTFE">Teflon PTFE Sheets &amp; Rods (Virgin Grade)</a><br>
-<a class="hzl" href="/TEFLONSHEETRODMECHANICALPTFE">Teflon ® PTFE Teflon Sheet &amp; Rod (Mechanical)</a><br>
+<a class="hzl" href="/TEFLONPTFEGLASSFILLED">Teflon PTFE- Glass-Filled</a><br>
+<a class="hzl" href="/TEFLONPTFEBEADING">Teflon PTFE Miniature Beading (coils)</a><br>
+<a class="hzl" href="/TEFLONSHEETRODMECHANICALPTFE">Teflon ® PTFE Sheet &amp; Rod (Mechanical)</a><br>
+<a class="hzl" href="/TEFLONSHEETRODVIRGINPTFE">Teflon® PTFE Sheets &amp; Rods (VIRGIN Grade)</a><br>
 <a class="hzl" href="/TEFZEL-ETFESHEETSRODS">Tefzel® - ETFE Sheets &amp; Rods</a><br>
 <a class="hzl" href="/TIVAR">Tivar® 1000 UHMW </a><br>
 <a class="hzl" href="/TIVARANTISTAT">Tivar®  Anti Static UHMW</a><br>
@@ -745,6 +630,8 @@ t.value = '';
 <a class="hzl" href="/VESPELSP211-DUPONT">Vespel® SP-211</a><br>
 <a class="hzl" href="/VESPELSP22-DUPONT">Vespel® SP-22</a><br>
 <a class="hzl" href="/VESPEL-SP3-DUPONT">Vespel® SP-3</a><br>
+<a class="hzl" href="/Vespel-Meldin_TestSamples">Vespel® vs Meldin® Test Blanks</a><br>
+<a class="hzl" href="/Vespro6200-CR6200">Vespro® 6200</a><br>
 <a class="hzl" href="/WELDROD">Welding Rods - Plastic</a><br>
 </ul>
 </li>
@@ -753,24 +640,34 @@ t.value = '';
 <li><a href="/PLASTIC-TUBING"><img src="/professionalplastics/content/templates/main/main/hzm_tubes.jpg" name="but3" border="0"></a>
 <div class="MAX_hzdivb" id="ulid3b"></div>
 <ul id="ulid3a"><a class="hzl" href="/ABSPIPE">ABS Pipe</a><br>
-<a class="hzl" href="/ACRYFLEX-F_Sleeving">Acryflex-F® Sleeving</a><br>
-<a class="hzl" href="/AcrylicCoated-FiberglassSleeving">Acrylic Coated Fiberglass Sleeving</a><br>
 <a class="hzl" href="/ACRYLICTUBES-CASTPLEXIGLASS">Acrylic Tubes - Cast</a><br>
 <a class="hzl" href="/ACRYLICTUBE-EXTRUDED">Acrylic Tubes - Extruded</a><br>
 <a class="hzl" href="/Air-Hose-Coupled-Air-Tak">Air-Tak Coupled Air Hose</a><br>
+<a class="hzl" href="/AMETEK_FluoropolymerTubing">AMETEK Fluoropolymer Tubing </a><br>
 <a class="hzl" href="/AquaKing-self-sinking-tubing">AquaKing self-sinking tubing</a><br>
 <a class="hzl" href="/BEV-A-LINETUBING">Bev-A-Line® Tubing</a><br>
+<a class="hzl" href="/Chemfluor367Tubing">Chemfluor® 367 Tubing</a><br>
 <a class="hzl" href="/Chemfluor-FEP-Tubing">Chemfluor® FEP Tubing</a><br>
+<a class="hzl" href="/Chemfluor-MFA-Tubing">Chemfluor® MFA Tubing</a><br>
+<a class="hzl" href="/Chemfluor_PFA-Tubing">Chemfluor® PFA Tubing</a><br>
 <a class="hzl" href="/ChemfluorPTFE-Tubing">Chemfluor® PTFE Tubing </a><br>
+<a class="hzl" href="/CPVCPipe">CPVC Pipe</a><br>
 <a class="hzl" href="/DELRINTUBES">Delrin® Tubes</a><br>
+<a class="hzl" href="/DocumentCenter">Document Center - Library</a><br>
 <a class="hzl" href="/FEPSHRINKTUBING">FEP Shrink Tubing 1.3:1 &amp; 1.6:1</a><br>
 <a class="hzl" href="/FEPTUBING">FEP Tubing</a><br>
 <a class="hzl" href="/FLURANF-5500A">Fluran® F-5500A </a><br>
 <a class="hzl" href="/G-10TUBE">G-10/FR-4 Tubes</a><br>
+<a class="hzl" href="/G-11_Tube">G-11 Tubes</a><br>
 <a class="hzl" href="/HDPETUBING">HDPE Tubing</a><br>
+<a class="hzl" href="/HEATSHRINKMYLAR">Heat Shrik Mylar&amp;Reg Tubing</a><br>
 <a class="hzl" href="/NEOPRENESHRINKTUBE">Heat Shrink Neoprene Tubing</a><br>
 <a class="hzl" href="/HeatTreatedFiberglassSleeving">Heat Treated Fiberglass Sleeving - 210 C</a><br>
+<a class="hzl" href="/HYPALON">Hypalon®</a><br>
+<a class="hzl" href="/ISO9001-14001">ISO 9001 &amp; ISO 14001 Registration</a><br>
+<a class="hzl" href="/KynarTubing_PVDFTubing">Kynar / PVDF Tubing - Semi-rigid</a><br>
 <a class="hzl" href="/KYNARSHRINKTUBINGPVDF">Kynar® Heat Shrink Tubing </a><br>
+<a class="hzl" href="/KynarSuperflexTubing">Kynar ® Superflex ® PVDF Tubing</a><br>
 <a class="hzl" href="/LATEXTUBING">Latex Tubing</a><br>
 <a class="hzl" href="/LAYFLATTUBING">Layflat Tubing - Polyethylene LDPE</a><br>
 <a class="hzl" href="/LDPETubing">LDPE Tubing</a><br>
@@ -780,11 +677,14 @@ t.value = '';
 <a class="hzl" href="/NORPRENEA-60-FIB">Norprene® A-60-F I.B. Pressure Tubing </a><br>
 <a class="hzl" href="/NORPRENEA-60-G">Norprene® A-60-G Industrial Grade Tubing</a><br>
 <a class="hzl" href="/NORPRENETUBING">Norprene® Tubing</a><br>
+<a class="hzl" href="/Nylapro8000">Nylapro® 8000</a><br>
+<a class="hzl" href="/Nylapro6000">Nylapro® 6000</a><br>
 <a class="hzl" href="/NYLATRONGSM">Nylatron® GSM Nylon</a><br>
 <a class="hzl" href="/NYLATRONNSM">Nylatron® NSM</a><br>
 <a class="hzl" href="/NYLONPRESSURETUBING">Nylon Pressure Tubing</a><br>
 <a class="hzl" href="/NYLON6CASTRODSHEETTUBE">Nylon® - Cast, Unfilled</a><br>
 <a class="hzl" href="/NYLONMD">Nylon® - MD Filled</a><br>
+<a class="hzl" href="/HSO2B2OLEFINSHRINKTUBING">O2B2 - Dual Wall  - Lined Olefin Shrink Tube</a><br>
 <a class="hzl" href="/PEEKCapillaryTubing">PEEK Capillary Tubing</a><br>
 <a class="hzl" href="/PEEKshrink-Tubing">PEEKshrink® Tubing</a><br>
 <a class="hzl" href="/PEEKTubing">PEEK Tubing</a><br>
@@ -799,21 +699,27 @@ t.value = '';
 <a class="hzl" href="/POLYPROTUBING">Polypropylene Tubing</a><br>
 <a class="hzl" href="/POLYURETHANETUBING">Polyurethane Tubing</a><br>
 <a class="hzl" href="/PVC105-ROLLERSLEEVE">PVC 105 Conveyor Roller Sleeve</a><br>
-<a class="hzl" href="/PVDFPIPE">PVDF/ Kynar Pipe &amp; Tubing</a><br>
+<a class="hzl" href="/T105-PVC105SHRINKTUBING">PVC 105 (T-105) Heat Shrink Sleeving</a><br>
+<a class="hzl" href="/PVCPIPE-CLEAR">PVC Pipe - Clear </a><br>
+<a class="hzl" href="/PVCPIPES">PVC Pipes &amp; Fittings</a><br>
+<a class="hzl" href="/PVDFPIPE">PVDF/ Kynar Pipe</a><br>
 <a class="hzl" href="/R10SHRINKTUBING">R10 Shrink Tube </a><br>
 <a class="hzl" href="/RETAININGRINGPPS">Retaining Ring - Techtron®  PPS</a><br>
+<a class="hzl" href="/Sani-TechSIL-250">Sani-Tech® SIL-250</a><br>
+<a class="hzl" href="/Sani-TechSTH-RTUBING">Sani-Tech® STHT™-R</a><br>
 <a class="hzl" href="/SANTOPRENE">Santoprene™ Tubing</a><br>
+<a class="hzl" href="/semi-produits_plastique">Semi-Produits Plastique</a><br>
 <a class="hzl" href="/Silbrade-Silicone-RubberHoseTubing">Silbrade® Braid Reinforced Silicone Hose</a><br>
 <a class="hzl" href="/Silicone-Fiberglass-Sleeving">Silicone Rubber Extruded Fiberglass Sleeving </a><br>
 <a class="hzl" href="/Silicone-Tubing-Medical">Silicone Tubing - Medical Grade Silcon®</a><br>
 <a class="hzl" href="/SPIRALCUTTUBING-CABLEWRAP">Spiral Cut Tubing - cable wrap</a><br>
 <a class="hzl" href="/TEFLONPTFESHRINKTUBING">Teflon PTFE Shrink Tubing (2:1 &amp; 4:1)</a><br>
-<a class="hzl" href="/TEFFLONTUBES-MOLDED">Teflon® PTFE Tubes &amp; Rings - Molded/Pressed</a><br>
-<a class="hzl" href="/TEFLONTUBING-PTFE">Teflon- PTFE Tubing - Extruded </a><br>
+<a class="hzl" href="/TEFFLONTUBES-MOLDED">Teflon® PTFE Tubes &amp; Rings - Molded</a><br>
+<a class="hzl" href="/TEFLONTUBING-PTFE">Teflon® PTFE Tubing - Extruded AWG Sizes</a><br>
+<a class="hzl" href="/Teflon_Tubing">Teflon PTFE Tubing - Extruded - Fractional Sizes</a><br>
+<a class="hzl" href="/CONVOLUTEDTEFLONTUBING">Teflon® Tubing - Convoluted</a><br>
 <a class="hzl" href="/TIVARCLEANSTAT">Tivar® CleanStat®</a><br>
 <a class="hzl" href="/Torlon">Torlon® Overview</a><br>
-<a class="hzl" href="/TransflowIII-SiliconeDairyTubing">Transflow® III Silicone Dairy Tubing </a><br>
-<a class="hzl" href="/TRANSFLOWM34RTUBING">Transflow® M-34-R Raw Milk Tubing </a><br>
 <a class="hzl" href="/TYGONLFL">Tygon® LFL Long Flex Life Pump Tubing</a><br>
 <a class="hzl" href="/TYGONR-1000">Tygon® R-1000 Ultra Soft Tubing</a><br>
 <a class="hzl" href="/TYGON2075">Tygon® 2075 Ultra Chemical Resistant Tubing </a><br>
@@ -832,7 +738,6 @@ t.value = '';
 <a class="hzl" href="/TYGONSEALINGSYSTEMS">Tygon® Sealing &amp; Transfer Systems </a><br>
 <a class="hzl" href="/TYGONTUBING">Tygon® Tubing - Product Range</a><br>
 <a class="hzl" href="/TygonTygoLink">Tygon® TygoLink™</a><br>
-<a class="hzl" href="/TYGONS-95-E">Tygon® S-95-E Medical Tubing</a><br>
 <a class="hzl" href="/TYGONSE-200">Tygon® SE-200 Inert Tubing</a><br>
 <a class="hzl" href="/TYGONSILVERA-M">Tygon® Silver Antimicrobial Tubing</a><br>
 <a class="hzl" href="/TYGOPUREFITTING">Tygopure™ Monobarb Sanitary Fittings</a><br>
@@ -852,18 +757,24 @@ t.value = '';
 <div class="MAX_hzdivb" id="ulid4b"></div>
 <ul id="ulid4a"><a class="hzl" href="/ABF-300ESDFILM">ABF-300™ ESD Control Film</a><br>
 <a class="hzl" href="/ACLAR-PCTFEFILM">Aclar ® PCTFE Film</a><br>
-<a class="hzl" href="/Bayblend-MTR">Bayblend™ MTR </a><br>
 <a class="hzl" href="/Bayfol_AS-A">Bayfol® AS-A Anti-Static PC/PBT Film</a><br>
 <a class="hzl" href="/Bayfol-CREC_PC-PBT_Film">Bayfol® CREC PC/PBT Blend Film</a><br>
 <a class="hzl" href="/Bayfol-CR_Film">Bayfol® CR Polycarbonate Film</a><br>
 <a class="hzl" href="/Bayfol_DF-A-ABS_Film">Bayfol® DF-A ABS Film</a><br>
 <a class="hzl" href="/CIRLEX-KAPTONFILM">Cirlex® - Laminated Kapton® Film</a><br>
+<a class="hzl" href="/DocumentCenter">Document Center - Library</a><br>
 <a class="hzl" href="/DuraSurfUHMWTape">DuraSurf UHMW Tape (treated for bonding)</a><br>
+<a class="hzl" href="/DuraSurfUHMWWearStrip">DuraSurf UHMW Wear Strip</a><br>
 <a class="hzl" href="/EmergencyRepairTape-SafetyTape">Emergency Repair Tape - Safety Tape</a><br>
+<a class="hzl" href="/VINYLTARPFLAMERETARDANT">Flame-Retardant Vinyl Laminated Tarps</a><br>
+<a class="hzl" href="/GSA-Gov-Supplier-FSC-9330-9390">Government Bids - GSA Contract </a><br>
 <a class="hzl" href="/EF-GRAV">Gravofoil® Labeling Film</a><br>
+<a class="hzl" href="/ISO9001-14001">ISO 9001 &amp; ISO 14001 Registration</a><br>
 <a class="hzl" href="/KALADEXPENFILM">Kaladex® PEN Film </a><br>
 <a class="hzl" href="/KAPTONFILMPOLYIMIDE">Kapton® Polyimide Film</a><br>
+<a class="hzl" href="/KAPTREXFN">Kaptrex® FN - Polyimide-FEP Film</a><br>
 <a class="hzl" href="/KAPTREX-POLYIMIDEFILM">Kaptrex® Polyimide Film</a><br>
+<a class="hzl" href="/PVDFFILM">Kynar ® /PVDF Film</a><br>
 <a class="hzl" href="/KYNStickKynarFilmTape">KYNStick® Kynar® Film Tape with Adhesive</a><br>
 <a class="hzl" href="/MAKROFOLDE1-1-FILM">Makrofol DE1-1 Polycarbonate Film</a><br>
 <a class="hzl" href="/MAKROFOLDE1-4">Makrofol DE 1-4 Gloss/Fine Matte</a><br>
@@ -883,14 +794,15 @@ t.value = '';
 <a class="hzl" href="/PEEKFILM">PEEK Film - Crystalline</a><br>
 <a class="hzl" href="/SHIMSTOCK">Plastic Shim Stock - color coded</a><br>
 <a class="hzl" href="/POLYFILM">Polyethylene Film - supplied in rolls</a><br>
-<a class="hzl" href="/KAPTREXFN">Polyimide-FEP Film - Kaptrex® FN</a><br>
+<a class="hzl" href="/PPS_Film">PPS (Polyphenylene Sulfide) Film</a><br>
 <a class="hzl" href="/StaticInterceptPackagingESdBagsFilm">ProPlas Intercept® ESd Moisture Barrier Film </a><br>
-<a class="hzl" href="/PVDFFILM">PVDF Film</a><br>
 <a class="hzl" href="/PyraluxAPR-Copper-cladResistorLaminate">Pyralux® APR Copper-clad Resistor Laminate</a><br>
+<a class="hzl" href="/PyraluxAPR_PolyimideCopperCladLaminate">Pyralux® APR Polyimide Copper-Clad Laminate</a><br>
 <a class="hzl" href="/RUBYLITHFILM">Rubylith® Masking Film</a><br>
+<a class="hzl" href="/semi-produits_plastique">Semi-Produits Plastique</a><br>
 <a class="hzl" href="/SIGNTAPE">Sign Tape - Hi Tack</a><br>
-<a class="hzl" href="/TEDLARFILM">Tedlar® (PVF) Film</a><br>
 <a class="hzl" href="/PTFEGLASSFAB">Teflon PTFE Glass Fabric</a><br>
+<a class="hzl" href="/TeflonPTFE_Unsintered">Teflon PTFE (Unsintered)</a><br>
 <a class="hzl" href="/TEONEXPENFILM">Teonex® PEN Film</a><br>
 <a class="hzl" href="/UHMWTAPE">UHMW-PE Tape </a><br>
 <a class="hzl" href="/ULTEMFILM">Ultem® PEI Film</a><br>
@@ -912,12 +824,24 @@ t.value = '';
 <a class="hzl" href="/ACRYLICUBAR">Acrylic U-Bar</a><br>
 <a class="hzl" href="/ACRYLICWBAR">Acrylic W-Bar</a><br>
 <a class="hzl" href="/ACRYLICZBAR">Acrylic Z-Bar</a><br>
+<a class="hzl" href="/CLEARPVCSCH40_45ELL-SLXSL">Clear PVC Sch 40 45° ELL (Slip X Slip)</a><br>
+<a class="hzl" href="/CLEARPVCSCH40_45DEGREESTREETELL-SPXSO">Clear PVC Sch40 45° STREET ELL (Spig X Soc)</a><br>
+<a class="hzl" href="/CLEARPVCSCH40_90DEGREE-ELL-SLXSL">Clear PVC Sch 40 90° ELL (Slip X Slip)</a><br>
+<a class="hzl" href="/CLEARPVCSCH40_90STREETELL-SPXSO">Clear PVC Sch 40 90° STREET ELL (Spig X Soc)</a><br>
+<a class="hzl" href="/CLEARPVCSCH40_CAP-SL">Clear PVC Sch 40 CAP (Slip)</a><br>
+<a class="hzl" href="/CLEARPVCSCH40_COUPLING-SLXSL">Clear PVC Sch 40 COUPLING (Slip x Slip)</a><br>
+<a class="hzl" href="/CLEARPVCSCH40_FEMALEADAPTER-SLXFI">Clear PVC Sch 40 FEMALE ADAPTER (Slip x Fipt)</a><br>
+<a class="hzl" href="/CLEARPVCSCH40_MALEADAPTER-MIXSL">Clear PVC Sch40 MALE ADAPTER (Mipt x Slip)</a><br>
+<a class="hzl" href="/CLEARPVCSCH40_REDUCERBUSHING-SPXSL">Clear PVC Sch 40 REDUCER BUSHING (Spig x Slip)</a><br>
+<a class="hzl" href="/CLEARPVCSCH40_TEE-SLXSLXSL">Clear PVC Sch 40 TEE (Slip X Slip X Slip) </a><br>
+<a class="hzl" href="/CLEARPVCSCH40_WYE-SLXSLXSL">Clear PVC Sch 40 WYE (Slip x Slip x Slip)</a><br>
 <a class="hzl" href="/CORNERGUARDS">Corner Guards - Polycarbonate</a><br>
 <a class="hzl" href="/PlasticChannel-Profiles">Custom Profile Channels - All Plastics</a><br>
 <a class="hzl" href="/EXTRENBAR-SQUARE">Extren® - Square Bars &amp; Tubes</a><br>
 <a class="hzl" href="/GLASGUARD1130">GlasGuard® 1130 Angles &amp; Channels</a><br>
 <a class="hzl" href="/GPO-3ANGLE">GPO-3 Angle</a><br>
 <a class="hzl" href="/GPO-3CHANNEL">GPO-3 Channel</a><br>
+<a class="hzl" href="/ISO9001-14001">ISO 9001 &amp; ISO 14001 Registration</a><br>
 <a class="hzl" href="/PLASTICPARTSCNC">Plastic Parts - CNC Machined</a><br>
 <a class="hzl" href="/PVCANGLE">PVC Angle</a><br>
 <a class="hzl" href="/PVCHEXBAR">PVC Hexagonal Bar</a><br>
@@ -944,7 +868,7 @@ t.value = '';
 <a class="hzl" href="/DRILLBIT">Drill Bits - Plas-Drill</a><br>
 <a class="hzl" href="/EDGESCAPER1">Edge Scraper - Bevel Edge Tool</a><br>
 <a class="hzl" href="/ENGRAVINGMACHINE">Engraving Machines - for signage</a><br>
-<a class="hzl" href="/FLOUROGLIDE">Fluoroglide® Spray</a><br>
+<a class="hzl" href="/Heat-Exchanger_218-525-1000">Heat Exchangers - Models 218, 525, and 1000</a><br>
 <a class="hzl" href="/LAYFLATTUBING">Layflat Tubing - Polyethylene LDPE</a><br>
 <a class="hzl" href="/NovusPlasticPolishCleaner">Novus Plastic Polish</a><br>
 <a class="hzl" href="/PLASTICPARTSCNC">Plastic Parts - CNC Machined</a><br>
@@ -953,6 +877,7 @@ t.value = '';
 <a class="hzl" href="/ROUTERBIT">Router Bits for Plastics</a><br>
 <a class="hzl" href="/Plexiglass-Jigsaw-Blade">Saber Saw - Jigsaw Blades</a><br>
 <a class="hzl" href="/WELDER">Seelye® Plastic Welders</a><br>
+<a class="hzl" href="/Heat-Exchanger_30Series">Shell &amp; Tube Heat Exchanger - 30-Series Mid-Size (4 inch shell)</a><br>
 <a class="hzl" href="/SOFKLOTH40">SofKloth # 40 - Polishing Cloths</a><br>
 <a class="hzl" href="/WEGENER-AUTOTHERM">Wegener Autotherm Welder</a><br>
 <a class="hzl" href="/WEGENER-DURATHERM">Wegener Duratherm Welder</a><br>
@@ -965,14 +890,17 @@ t.value = '';
 <div id="MAX_hzdiv2" class="MAX_hzdiva" onmouseover="roll_over('but7', '/professionalplastics/content/templates/main/main/hzm_manufacturers_h.jpg',7); hzm_over('ulid7a', 'ulid7b',7)" onmouseout="roll_over('but7', '/professionalplastics/content/templates/main/main/hzm_manufacturers.jpg',0); hzm_out('ulid7a', 'ulid7b')" onmouseenter="roll_over_ie('but7', '/professionalplastics/content/templates/main/main/hzm_manufacturers_h.jpg',7); hzm_over_ie('ulid7a', 'ulid7b',7)" onmouseleave="roll_over_ie('but7', '/professionalplastics/content/templates/main/main/hzm_manufacturers.jpg',0); hzm_out_ie('ulid7a', 'ulid7b')">
 <li><a href="/Featured-Manufacturer"><img src="/professionalplastics/content/templates/main/main/hzm_manufacturers.jpg" name="but7" border="0"></a>
 <div class="MAX_hzdivb" id="ulid7b"></div>
-<ul id="ulid7a"><a class="hzl" href="/BayerFilmsAmericas">Bayer Films Americas</a><br>
+<ul id="ulid7a"><a class="hzl" href="/Ametek_Fluoropolymer_Products">Ametek Fluoropolymer Products</a><br>
+<a class="hzl" href="/BayerFilmsAmericas">Bayer Films Americas</a><br>
 <a class="hzl" href="/BoltaronPerformancePlastics">Boltaron Performance Plastics</a><br>
 <a class="hzl" href="/BusakShambanTrelleborgTurcite">Busak &amp; Shamban - Trelleborg Sealing Solutions</a><br>
 <a class="hzl" href="/CastNylonsLtd">Cast Nylons Ltd.</a><br>
 <a class="hzl" href="/CompressionPolymersCPG-Vycom">CPG-Vycom Scranton Products</a><br>
 <a class="hzl" href="/CyroIndustriesAcrylite">Cyro Industries</a><br>
 <a class="hzl" href="/DuPont-Teflon-Tefzel_Fluoropolymers">DuPont Teflon &amp; Tefzel Fluoropolymers</a><br>
-<a class="hzl" href="/VespelDupont">DuPont - Vespel®, Kapton® Polyimide</a><br>
+<a class="hzl" href="/VespelDupont">DuPont - Vespel® Polyimide</a><br>
+<a class="hzl" href="/EuroComposites-Honeycomb_Nomex">Euro-Composites, Inc.</a><br>
+<a class="hzl" href="/Evonik_Degussa">Evonik Degussa</a><br>
 <a class="hzl" href="/GehrPlastics">Gehr Plastics</a><br>
 <a class="hzl" href="/GilmanBrothersCompany">Gilman Brothers Company</a><br>
 <a class="hzl" href="/GlasticCorporation">Glastic Corporation</a><br>
@@ -981,7 +909,9 @@ t.value = '';
 <a class="hzl" href="/Kleerdex-Kydex">Kleerdex - KYDEX®</a><br>
 <a class="hzl" href="/Kommerling">Kommerling</a><br>
 <a class="hzl" href="/LuciteInternational">Lucite International</a><br>
-<a class="hzl" href="/Poly-HiSolidur-Quadrant">Poly-Hi Solidur</a><br>
+<a class="hzl" href="/Plaskolite">Plaskolite, Inc.</a><br>
+<a class="hzl" href="/Poly-HiSolidur-Quadrant">Poly-Hi Solidur (Quadrant EPP)</a><br>
+<a class="hzl" href="/Polymer_Industries">Polymer Industries</a><br>
 <a class="hzl" href="/ProfessionalPlasticsInc">Professional Plastics, Inc.</a><br>
 <a class="hzl" href="/QuadrantEPPPlastics">Quadrant Engineering Plastic Products</a><br>
 <a class="hzl" href="/RochlingEngineeredPlastics">Rochling Engineered Plastics</a><br>
@@ -998,14 +928,19 @@ t.value = '';
 <div id="MAX_hzdiv3" class="MAX_hzdiva" onmouseover="roll_over('but8', '/professionalplastics/content/templates/main/main/hzm_industries_h.jpg',8); hzm_over('ulid8a', 'ulid8b',8)" onmouseout="roll_over('but8', '/professionalplastics/content/templates/main/main/hzm_industries.jpg',0); hzm_out('ulid8a', 'ulid8b')" onmouseenter="roll_over_ie('but8', '/professionalplastics/content/templates/main/main/hzm_industries_h.jpg',8); hzm_over_ie('ulid8a', 'ulid8b',8)" onmouseleave="roll_over_ie('but8', '/professionalplastics/content/templates/main/main/hzm_industries.jpg',0); hzm_out_ie('ulid8a', 'ulid8b')">
 <li><a href="/Plasticsby-industry"><img src="/professionalplastics/content/templates/main/main/hzm_industries.jpg" name="but8" border="0"></a>
 <div class="MAX_hzdivb" id="ulid8b"></div>
-<ul id="ulid8a"><a class="hzl" href="/PlasticAerospaceDefense">Aerospace &amp; Defense</a><br>
-<a class="hzl" href="/Agriculture-Plastic">Agricultural</a><br>
+<ul id="ulid8a"><a class="hzl" href="/Agriculture-Plastic">Agricultural</a><br>
+<a class="hzl" href="/PlasticAerospaceDefense">Aircraft - Aerospace &amp; Defense</a><br>
 <a class="hzl" href="/ConstructionGlazingPlastics">Construction &amp; Glazing</a><br>
+<a class="hzl" href="/ElectricalInsulating_WiringSleevingSheilding">Electrical Insulation - Wiring, Sleeving, Sheilding</a><br>
 <a class="hzl" href="/PlasticElectronicsPrintedCircuits">Electronics &amp; Printed Circuits</a><br>
 <a class="hzl" href="/FoodHandlingEquipmentPlastics">Food Handling &amp; Equipment</a><br>
+<a class="hzl" href="/GlassManufacturingMaterials">Glass Manufacturing &amp; Handling</a><br>
+<a class="hzl" href="/GSA-GovernmentSupplyNAICS9330">GSA - Government Supply</a><br>
+<a class="hzl" href="/Plastics-HeavyEquipment">Heavy Equipment</a><br>
+<a class="hzl" href="/ISO9001_ISO14001PlasticSupplier">ISO 9001 &amp; ISO 14001 Certification</a><br>
 <a class="hzl" href="/Logging-Forestry-Plastics">Logging &amp; Forestry</a><br>
 <a class="hzl" href="/MarineGradePlastics">Marine &amp; Boating</a><br>
-<a class="hzl" href="/MaterialHandlingConveyorPlasticMaterials">Material Handling</a><br>
+<a class="hzl" href="/MaterialHandlingConveyorPlasticMaterials">Material Handling &amp; Conveying</a><br>
 <a class="hzl" href="/MedicalPlastics">Medical Equipment &amp; Devices</a><br>
 <a class="hzl" href="/MetalSupplier">Metals - Industrial</a><br>
 <a class="hzl" href="/Mining-plastics-liners-chutes-rails">Mining</a><br>
@@ -1017,7 +952,7 @@ t.value = '';
 <a class="hzl" href="/PlasticSemiconductorMaterials">Semiconductor</a><br>
 <a class="hzl" href="/PlasticSignageGraphicsDisplay">Signage, Graphics &amp; Display</a><br>
 <a class="hzl" href="/PlasticsPartsForTextileManufacturing">Textiles</a><br>
-<a class="hzl" href="/PlasticsForTransportation">Transportation</a><br>
+<a class="hzl" href="/PlasticsForTransportation">Transportation - Rail, Bus, Air, Sea, Auto</a><br>
 <a class="hzl" href="/PlasticVacuum-Forming">Vacuum-Forming</a><br>
 </ul>
 </li>
@@ -1031,13 +966,17 @@ t.value = '';
 <a class="hzl" href="/AquariumProductsPlastics">Aquarium Products</a><br>
 <a class="hzl" href="/Architectural-Products">Architectural Products</a><br>
 <a class="hzl" href="/BearingWearResistantPlastics">Bearing &amp; Wear</a><br>
+<a class="hzl" href="/Biodegradable_Plastics">Biodegradable Plastics</a><br>
 <a class="hzl" href="/BoatingProductsPlastics">Boating Products</a><br>
 <a class="hzl" href="/CeramicMaterials">Ceramic Materials</a><br>
+<a class="hzl" href="/GasChromotography_MassSpecGC-CGMS">Chromotography, Mass Spec - GC, CG/MS</a><br>
 <a class="hzl" href="/Corrosion-ResistantPlasticMaterials">Corrosion-Resistant Materials</a><br>
+<a class="hzl" href="/DieCuttingMaterialsPlastics">Die Cutting Materials</a><br>
 <a class="hzl" href="/DisplayPOPMaterialsPlastics">Display &amp; P.O.P. Materials</a><br>
 <a class="hzl" href="/EngravingProducts">Engraving Products</a><br>
 <a class="hzl" href="/PlasticFasteners">Fasteners</a><br>
 <a class="hzl" href="/FDAApprovedPlasticMaterials">FDA Approved Plastic Materials</a><br>
+<a class="hzl" href="/Fiberglass-basedproducts">Fiberglass-based products</a><br>
 <a class="hzl" href="/FireRetardantMaterialsPlastics">Fire Retardant Materials</a><br>
 <a class="hzl" href="/PlasticFluidHandlingHose">Fluid Handling &amp; Hose</a><br>
 <a class="hzl" href="/Fluoropolymers">Fluoropolymer Products</a><br>
@@ -1056,17 +995,21 @@ t.value = '';
 <a class="hzl" href="/ICTestingMaterials">I.C. Testing Materials</a><br>
 <a class="hzl" href="/Impact-ResistantMaterialsPlastics">Impact-Resistant Materials</a><br>
 <a class="hzl" href="/InsulatingMaterialsSleevingPlastics">Insulating Materials &amp; Sleeving</a><br>
-<a class="hzl" href="/Laboratory-Supplies">Laboratory Supplies</a><br>
+<a class="hzl" href="/Laboratory-Supplies">Laboratory &amp; Scientific Supplies</a><br>
 <a class="hzl" href="/LaminatesComposites">Laminates &amp; Composites</a><br>
 <a class="hzl" href="/LightingProductsPlastics">Lighting Products</a><br>
 <a class="hzl" href="/MetalsOnlineBarPlateRod">Metals &amp; Specialty Alloys</a><br>
 <a class="hzl" href="/Moisture-ResistantMaterialsPlastics">Moisture-Resistant Materials</a><br>
 <a class="hzl" href="/SchoolGlazingMRO_Supplies">MRO Supplies &amp; Glazing For Schools</a><br>
 <a class="hzl" href="/PackagingProductsPlastics">Packaging Products</a><br>
+<a class="hzl" href="/Phenolic-LaminatedProducts">Phenolic - Laminated Products</a><br>
+<a class="hzl" href="/PlasticPipe-Industrial">Pipe - Industrial</a><br>
 <a class="hzl" href="/PipeValveFittingProductsPlastics">Pipe, Valve &amp; Fitting Products</a><br>
 <a class="hzl" href="/PlasticFabricatingToolsAccessories">Plastic Fabricating Tools &amp; Accessories</a><br>
 <a class="hzl" href="/PlasticWeldingProducts">Plastic Welding Products</a><br>
+<a class="hzl" href="/Polyimide_RodPlateFilmTube">Polyimide Materials</a><br>
 <a class="hzl" href="/PrintingSignageMaterialsPlastics">Printing &amp; Signage Materials</a><br>
+<a class="hzl" href="/RecycledPlastics_PlasticRecycling">Recycled Plastics - Plastic Recycling</a><br>
 <a class="hzl" href="/PlasticResinsPelletsforExtrusionMolding">Resins &amp; Pellets for Extrusion &amp; Molding</a><br>
 <a class="hzl" href="/Rubber-Elastomers">Rubber &amp; Elastomers</a><br>
 <a class="hzl" href="/SecurityGlazing-SafetyProducts">Security &amp; Safety Products</a><br>
@@ -1074,8 +1017,11 @@ t.value = '';
 <a class="hzl" href="/SpecialtyFilmsPlastics">Specialty Films</a><br>
 <a class="hzl" href="/StaticControlPlasticMaterials">Static Control Materials</a><br>
 <a class="hzl" href="/Tape-AdhesiveBacked">Tape - Adhesive Backed</a><br>
+<a class="hzl" href="/Teflon_PTFE">Teflon® PTFE Products</a><br>
+<a class="hzl" href="/PlasticsTubingProducts-Flexible">Tubing Products - Flexible</a><br>
 <a class="hzl" href="/TygonTubingProducts">Tygon® Tubing Products</a><br>
 <a class="hzl" href="/USPClassVIApprovedPlasticMaterials">USP Class VI Approved Plastic Materials</a><br>
+<a class="hzl" href="/Vacuum-FormingMaterialsPlastics">Vacuum-Forming Materials</a><br>
 <a class="hzl" href="/WaveSolderPalletMaterials">Wave Solder Pallet Materials</a><br>
 <a class="hzl" href="/WeatherableFilmsPlastics">Weatherable Films</a><br>
 <a class="hzl" href="/WorkSurfaces-Countertop">Work Surfaces - Countertop</a><br>
@@ -1168,11 +1114,7 @@ MAX_hzMenu();//-->
 _uacct = "UA-1588851-1";
 urchinTracker();
 </script>
-<!-- Net-Results Capture Code -->
-<script defer="" src="https://capture.net-results.com/?virtual_host=www.professionalplastics.com"></script>
-<noscript>
-<a href=" http://www.net-results.com" target="_blank"><img src="https://capture.net-results.com/?script=noscript&virtual_host=www.professionalplastics.com" alt="" border="0"></a>
-</noscript>
+
 
 
 <!--  -->	
