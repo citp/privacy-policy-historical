@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the infobarrel.com privacy policy that was archived on 2009-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090614142952id_/http%3A//www.infobarrel.com/Privacy_Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the infobarrel.com privacy policy that was archived on 2009-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091210043007id_/http%3A//www.infobarrel.com/Privacy_Policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html 84="" site=""><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html 20="" writer=""><head>
 <title>Privacy Policy - Info Barrel</title>
 <meta http-equiv="content-type" content="text/html;charset=utf-8">
 <meta name="description" content="Infobarrel.com Privacy PolicyEffective July/31/2008 
@@ -10,9 +10,11 @@ Your privacy is very important to us. To better protect your privacy we provide 
 
 <link rel="canonical" href="http://www.infobarrel.com/Privacy_Policy"> 
 
-<script src="http://code.jquery.com/jquery-latest.js"></script>
+<script src="/jquery.js"></script>
 <script src="/ajax.js"></script>
 <script language="javascript">
+	$("html").removeClass("nojs").addClass("js"); 
+
 	function comment_reply(id)
 	{
 		document.getElementById("comment_" + id).style.display = "block";
@@ -142,11 +144,16 @@ Your privacy is very important to us. To better protect your privacy we provide 
 
 <link rel="stylesheet" href="/style.css" type="text/css">
 <style>
+	h2
+	{
+		font-size: 16px;
+	}
+
 	h3
 	{
 		display: block;
 		margin: 1px 0;
-		font-size: 12px;
+		font-size: 14px;
 		line-height: 19px;
 	}
 
@@ -188,6 +195,14 @@ Your privacy is very important to us. To better protect your privacy we provide 
 		color: #222222;
 	}
 
+		.article h4
+		{
+			background: none;
+			float: none;
+			height: auto;
+			margin: 5px 0;
+		}
+
 		.article a
 		{
 			color: #018fb8;
@@ -223,6 +238,18 @@ Your privacy is very important to us. To better protect your privacy we provide 
 			font-style: italic;
 			margin: 5px 0;
 		}
+
+	.js #featured_article
+	{
+		height: 200px;
+	}
+
+	#featured_article
+	{
+		width: 980px; 
+		overflow: hidden; 
+		padding-bottom: 10px;
+	}
 
 	.media
 	{
@@ -309,9 +336,115 @@ Your privacy is very important to us. To better protect your privacy we provide 
 			<div style="position: absolute; top: 1px; right: 20px; padding: 2px 10px; overflow: hidden; color: #ffffff; text-align: right; z-index: 2;">
 				<img src="/images/member_bar-tab_left.gif" style="float: left; display: block;">
 				<div style="float: left; display: block; display: inline; padding-top: 1px; height: 27px; background: #273037 url('/images/member_bar-tab_bg.gif') bottom repeat-x;">
-					<b>Welcome to InfoBarrel!</b> Please <a href="javascript:void();" id="open_member_bar">Login</a> or <a href="/signup.php">Signup</a>.
+					<script type="text/javascript">
+						document.write("<b>Welcome to InfoBarrel!</b> Please <a href='#' id='open_member_bar'>Login</a> or <a href='/signup.php'>Signup</a>.");
+					</script><b>Welcome to InfoBarrel!</b> Please <a href="#" id="open_member_bar">Login</a> or <a href="/signup.php">Signup</a>.
+					<noscript>
+						<b>Welcome to InfoBarrel!</b> Please <a href="/login.php" id="open_member_bar">Login</a> or <a href="/signup.php">Signup</a>.
+					</noscript>
 				</div>
 				<img src="/images/member_bar-tab_right.gif" style="float: left; display: block;">
+			</div>
+
+			<div style="position: absolute; bottom: 14px; right: 5px; width: 800px; z-index: 2; color: #ffffff;">
+				<div style="width: 400px; float: right;">
+					<b style="font-size: 14px;">Explore Infobarrel</b><br>
+					<span onmouseover="header_sections('head-culture', 1);" onmouseout="header_sections('head-culture', 0);">
+						<div id="head-culture_info" class="infobox" style="bottom: 5px; right: 407px;">
+							Articles on human practices, values and life.  These include topics such as <a href="/Sports">Sports</a>, <a href="/Food_and_Drink">Cooking</a>, <a href="/Fashion">Fashion</a> and <a href="/Holidays">Holidays</a>.
+						</div>
+						<div id="head-culture_arrow" class="arrowbox" style="bottom: 5px; right: 392px;"></div>
+						<a href="/Culture">Culture</a>,
+					</span>
+
+					<span onmouseover="header_sections('head-geography', 1);" onmouseout="header_sections('head-geography', 0);">
+						<div id="head-geography_info" class="infobox" style="bottom: 5px; right: 352px;">
+							Articles on the Earth, its features and inhabitants. Includes topics such as <a href="/Countries">Countries</a>, Cities and <a href="/Buildings_and_Structures_by_Type">Buildings</a>.
+						</div>
+						<div id="head-geography_arrow" class="arrowbox" style="bottom: 5px; right: 337px;"></div>
+						<a href="/Geography">Geography</a>,
+					</span>
+
+					<span onmouseover="header_sections('head-health', 1);" onmouseout="header_sections('head-health', 0);">
+						<div id="head-health_info" class="infobox" style="bottom: 5px; right: 277px;">
+							Articles dealing with human physical, emotional and mental well-being.  Covering topics such as <a href="/Nutrition">Nutrition</a>, <a href="/Exercise">Exercise</a> and <a href="/Healthcare">Healthcare</a>.
+						</div>
+						<div id="head-health_arrow" class="arrowbox" style="bottom: 5px; right: 262px;"></div>
+						<a href="/Health">Health</a>,
+					</span>
+
+					<span onmouseover="header_sections('head-history', 1);" onmouseout="header_sections('head-history', 0);">
+						<div id="head-history_info" class="infobox" style="bottom: 5px; right: 227px;">
+							Articles that cover the events of the past. Included topics are WWII, Ancient Egypt and the Olympics.
+						</div>
+						<div id="head-history_arrow" class="arrowbox" style="bottom: 5px; right: 212px;"></div>
+						<a href="/History">History</a>,
+					</span>
+
+					<span onmouseover="header_sections('head-math', 1);" onmouseout="header_sections('head-math', 0);">
+						<div id="head-math_info" class="infobox" style="bottom: 5px; right: 172px;">
+							Articles that cover measurements and relationships between measurable things. Topics included are Algebra, Geometry and Numbers.
+						</div>
+						<div id="head-math_arrow" class="arrowbox" style="bottom: 5px; right: 157px;"></div>
+						<a href="/Mathematics">Math</a>,
+					</span>
+
+					<span onmouseover="header_sections('head-people', 1);" onmouseout="header_sections('head-people', 0);">
+						<div id="head-people_info" class="infobox" style="bottom: 5px; right: 129px;">
+							Articles that discuss and/or examine the lives of people of interest throught History. Covers topics like <a href="/Actors">Actors</a>, <a href="/Painters">Painters</a> and World Leaders.
+						</div>
+						<div id="head-people_arrow" class="arrowbox" style="bottom: 5px; right: 114px;"></div>
+						<a href="/People">People</a>,
+					</span>
+
+					<span onmouseover="header_sections('head-philosophy', 1);" onmouseout="header_sections('head-philosophy', 0);">
+						<div id="head-philosophy_info" class="infobox" style="bottom: 5px; right: 82px;">
+							Articles that examine the human quest to find answers about ourselves.  Topics include <a href="/Ethics">Ethics</a>, <a href="/Principles">Principles</a> and <a href="/Psychoanalysis">Psychoanalysis</a>.
+						</div>
+						<div id="head-philosophy_arrow" class="arrowbox" style="bottom: 5px; right: 67px;"></div>
+						<a href="/Philosophy">Philosophy</a>,
+					</span>
+
+					<span onmouseover="header_sections('head-religion', 1);" onmouseout="header_sections('head-religion', 0);">
+						<div id="head-religion_info" class="infobox" style="bottom: -10px; right: 407px;">
+							Articles on the human pursuit of God and a spirituality.  Covering topics such as <a href="/Christianity">Christianity</a>, <a href="Prophecy">Prophecy</a> and Taoism.
+						</div>
+						<div id="head-religion_arrow" class="arrowbox" style="bottom: -10px; right: 392px;"></div>
+						<a href="/Religion">Religion</a>,
+					</span>
+
+					<span onmouseover="header_sections('head-science', 1);" onmouseout="header_sections('head-science', 0);">
+						<div id="head-science_info" class="infobox" style="bottom: -10px; right: 350px;">
+							Articles covering the study of knowledge through observation and experimentation. Topics covered <a href="/Biology">Biology</a>, <a href="Astronomy">Astronomy</a> and <a href="/Chemical_Elements">the Elements</a>.
+						</div>
+						<div id="head-science_arrow" class="arrowbox" style="bottom: -10px; right: 335px;"></div>
+						<a href="/Science">Science</a>,
+					</span>
+
+					<span onmouseover="header_sections('head-society', 1);" onmouseout="header_sections('head-society', 0);">
+						<div id="head-society_info" class="infobox" style="bottom: -10px; right: 295px;">
+							Articles on the study of groups of individuals and their interactions with each other.  Topics included are <a href="/Economics">Economics</a>, <a href="/Psychology">Psychology</a>, <a href="/Parenting">Parenting</a> and <a href="/Crime">Crime</a>.
+						</div>
+						<div id="head-society_arrow" class="arrowbox" style="bottom: -10px; right: 280px;"></div>
+						<a href="/Society">Society</a>,
+					</span>
+
+					<span onmouseover="header_sections('head-technology', 1);" onmouseout="header_sections('head-technology', 0);">
+						<div id="head-technology_info" class="infobox" style="bottom: -10px; right: 242px;">
+							Articles covering the use of tools to accomplish tasks.  Topics covered include <a href="/Internet">the Internet</a>, <a href="/Automobiles">Cars</a>, <a href="/Mobile_Phones">Cell Phones</a> and <a href="/Video_Games">Video Games</a>.
+						</div>
+						<div id="head-technology_arrow" class="arrowbox" style="bottom: -10px; right: 227px;"></div>
+						<a href="/Technology">Technology</a>,
+					</span>
+
+					<span onmouseover="header_sections('head-ibu', 1);" onmouseout="header_sections('head-ibu', 0);">
+						<div id="head-ibu_info" class="infobox" style="bottom: -10px; right: 165px;">
+							Articles to help you create and promote content on Infobarrel.  Learn about <a href="/How_Does_InfoBarrel_Work%3f">how InfoBarrel works</a>, <a href="/Writing_for_InfoBarrel">writing an article</a> and <a href="/Ways_to_Get_More_Traffic_To_Your_Content">getting traffic to your content</a>.
+						</div>
+						<div id="head-ibu_arrow" class="arrowbox" style="bottom: -10px; right: 150px;"></div>
+						<a href="/Infobarrel_University">InfoBarrel University</a>
+					</span>
+				</div>
 			</div>
 		</div>
 	</div>
@@ -345,9 +478,15 @@ Your privacy is very important to us. To better protect your privacy we provide 
 			<div class="seperator"></div>
 			<a href="http://www.infobarrel.com/blog/">Blog</a>
 			<div class="seperator"></div>
+			<a href="http://www.infobarrel.com/Forum">Forum</a>
+			<div class="seperator"></div>
 			<a href="http://www.infobarrel.com/InfoBarrel_Contests">Contests</a>
 			<div class="seperator"></div>
 			<a href="http://www.infobarrel.com/Things_To_Do">Things To Do</a>
+			<div class="seperator"></div>
+			<a href="http://www.infobarrel.com/InfoBarrel_FAQ">FAQ</a>
+			<div class="seperator"></div>
+			<a href="http://www.infobarrel.com/Contact_Us">Contact Us</a>
 
 			<div style="float: right; margin: 5px 5px 0 0;">
 				<form action="/search.php" method="post" name="form_search_head" enctype="multipart/form-data">
@@ -362,7 +501,9 @@ Your privacy is very important to us. To better protect your privacy we provide 
 					<div style="position: absolute; top: 0px; right: 2px; text-align: right; z-index: 1;">
 						<a href="#" onclick="document.getElementById('flag').style.display = 'block';">[flag]</a>
 					</div>
+					<!-- google_ad_section_start -->
 					<h1>Privacy Policy</h1>
+					<!-- google_ad_section_end -->
 
 				</div>
 
@@ -394,7 +535,7 @@ Your privacy is very important to us. To better protect your privacy we provide 
 					<div style="position: relative; display: block; float: left; background: #FFFFFF; width: 622px; padding: 2px 4px; overflow: hidden;">
 						<div style="position: relative; top: -2px; left: -4px; font-size: 12px; display: block; background: #f1f1f1; height: 50px; color: #616161; font-weight: bold; width: 640px; text-align: center; margin-bottom: 10px">
 							By <img src="/media/avatar/1_100x100.jpg" style="display: inline; float: none; width: 16px; height: 16px;" align="absmiddle" onmouseover="achievement_box(1 , 1);" onmouseout="achievement_box(1, 0);"><a href="/Users/admin">admin</a>
-							| Oct 27, 2008							| Views: 1,072							| <img src="/images/comment.jpg" style="display: inline; float: none; border: 0;" align="absmiddle"><a href="#comments">0 Comments</a>
+							| Oct 27, 2008							| Views: 2,452							| <img src="/images/comment.jpg" style="display: inline; float: none; border: 0;" align="absmiddle"><a href="#comments">0 Comments</a>
 							| <b>Rating:</b> <b id="article_rating" style="display: inline; float: none;">0</b>
 							<img src="/images/rate_down_16_blur.gif" title="You must be signed in to vote" align="absmiddle" style="display: inline; float: none; margin: 1px 0;">
 							<img src="/images/rate_up_16_blur.gif" title="You must be signed in to vote" align="absmiddle" style="display: inline; float: none; margin: 1px 0;">
@@ -442,13 +583,20 @@ Your privacy is very important to us. To better protect your privacy we provide 
 							</div>							
 						</div>
 
-<div class="KonaBody">
-						<meta http-equiv="content-type" content="text/html; charset=utf-8"><h2>Infobarrel.com Privacy Policy</h2>Effective <b>July/31/2008</b> 
-<p><b>Privacy Notice Table Of Contents:</b> <br></p><b>Our Commitment To Privacy</b> 
+						<div class="KonaBody">
+							<!-- google_ad_section_start -->
+							
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+<h2>Infobarrel.com Privacy Policy</h2>Effective <b>July/31/2008</b> 
+<p><b>Privacy Notice Table Of Contents:</b> <br></p>
+<b>Our Commitment To Privacy</b> 
 <p>Your privacy is very important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. </p>
 <p><a name="2"></a><b>The Information We Collect:</b> </p>
 <p>This notice applies to all information collected or submitted on the Infobarre.com website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: </p>
-<ul>Name <br>Address <br>Email address <br>Phone number <br><br></ul>
+<ul>Name <br>Address <br>Email address <br>Phone number <br><br>
+</ul>
 <p><a name="3"></a><b>The Way We Use Information:</b> </p>
 <p>We use the information you provide about yourself to better understand our audience. We do not share this information with outside parties unless otherwise stated. </p>
 <p>We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. </p>
@@ -463,7 +611,11 @@ Your privacy is very important to us. To better protect your privacy we provide 
 <p>To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. </p>
 <p><a name="7"></a><b>How To Contact Us</b> </p>
 <p>Should you have other questions or concerns about these privacy policies, please call us at 778-355-4320 or send us an email via our <a class="" href="Contact_Us" target="" name="" classname="">contact form</a>. </p>
-</div>
+
+
+							<!-- google_ad_section_end -->
+						</div>
+
 						<div style="display: block; width: 100%; margin-top: 10px;"></div>
 
 						<div style="display: block; width: 100%; background: #ffffff;">
@@ -482,48 +634,78 @@ Your privacy is very important to us. To better protect your privacy we provide 
 
 						<div id="articles-related" class="text" style="display: block; float: right; margin: 0 2px; width: 336px; border: #cad6e0 1px solid; border-top: 0; background: #ffffff;">
 							<div style="color: #616161; margin: 0 5px 5px;">
-								<img src="/media/avatar/1228_50x50.jpg" width="30" height="30">
-								<a href="/Finding_the_Right_Individual_Health_Insurance_Policy" title="Finding the Right Individual Health Insurance Policy" style="font-weight: bold;">Finding the Right Individual Health Insurance Policy</a><br>
-								149 views 
-								| By <a href="/Users/MomWhoWrites" rel="nofollow">MomWhoWrites</a> 
+								<img src="/media/avatar/4540_50x50.jpg" width="30" height="30">
+								<a href="/Internet_Privacy_Policy_-_Protect_yourself_from_Reverse_Phone_Number_Lookup" title="Internet Privacy Policy - Protect yourself from Reverse Phone Number Lookup" style="font-weight: bold;">Internet Privacy Policy - Protect yourself from Reverse Phone Number Lookup</a><br>
+								234 views 
+								| By <a href="/Users/minnien" rel="nofollow">minnien</a> 
+							</div>
+							<div style="color: #616161; margin: 0 5px 5px;">
+								<img src="/images/female_50x50.gif" width="30" height="30">
+								<a href="/Window_Treatments_For_Lovely_French_Doors" title="Window Treatments For Lovely French Doors" style="font-weight: bold;">Window Treatments For Lovely French Doors</a><br>
+								35 views 
+								| By <a href="/Users/Jennaflames" rel="nofollow">Jennaflames</a> 
+							</div>
+							<div style="color: #616161; margin: 0 5px 5px;">
+								<img src="/images/female_50x50.gif" width="30" height="30">
+								<a href="/Window_Treatments_-_Cellular_Blinds_For_Beautiful_Homes" title="Window Treatments - Cellular Blinds For Beautiful Homes" style="font-weight: bold;">Window Treatments - Cellular Blinds For Beautiful Homes</a><br>
+								232 views 
+								| By <a href="/Users/Jennaflames" rel="nofollow">Jennaflames</a> 
+							</div>
+							<div style="color: #616161; margin: 0 5px 5px;">
+								<img src="/media/avatar/1288_50x50.jpg" width="30" height="30">
+								<a href="/How_to_Enable_Microsoft_Windows_Group_Policy_Editor_-_gpedit" title="How to Enable Microsoft Windows Group Policy Editor - gpedit" style="font-weight: bold;">How to Enable Microsoft Windows Group Policy Editor - gpedit</a><br>
+								2,001 views 
+								| By <a href="/Users/LANWANMAN" rel="nofollow">LANWANMAN</a> 
+							</div>
+							<div style="color: #616161; margin: 0 5px 5px;">
+								<img src="/media/avatar/3934_50x50.jpg" width="30" height="30">
+								<a href="/Small_Business_Group_Health_Insurance" title="Small Business Group Health Insurance" style="font-weight: bold;">Small Business Group Health Insurance</a><br>
+								70 views 
+								| By <a href="/Users/mombo" rel="nofollow">mombo</a> 
+							</div>
+							<div style="color: #616161; margin: 0 5px 5px;">
+								<img src="/media/avatar/2494_50x50.jpg" width="30" height="30">
+								<a href="/Block_Snooping_Eyes_With_Privacy_Window_Film" title="Block Snooping Eyes With Privacy Window Film" style="font-weight: bold;">Block Snooping Eyes With Privacy Window Film</a><br>
+								262 views 
+								| By <a href="/Users/JasonH" rel="nofollow">JasonH</a> 
 							</div>
 						</div>
 
 						<div id="articles-user" class="text" style="display: none; float: right; margin: 0 2px; width: 336px; border: #cad6e0 1px solid; border-top: 0; background: #ffffff;">
 							<div style="color: #616161; margin: 0 5px 5px;">
 								<img src="/media/avatar/1_50x50.jpg" width="30" height="30">
+								<a href="/InfoBarrel_Forum_Rules" title="InfoBarrel Forum Rules" style="font-weight: bold;">InfoBarrel Forum Rules</a><br>
+								52 views 
+								| By <a href="/Users/admin" rel="nofollow">admin</a> 
+							</div>
+							<div style="color: #616161; margin: 0 5px 5px;">
+								<img src="/media/avatar/1_50x50.jpg" width="30" height="30">
+								<a href="/Blog_Buzz" title="Blog Buzz" style="font-weight: bold;">Blog Buzz</a><br>
+								416 views 
+								| By <a href="/Users/admin" rel="nofollow">admin</a> 
+							</div>
+							<div style="color: #616161; margin: 0 5px 5px;">
+								<img src="/media/avatar/1_50x50.jpg" width="30" height="30">
+								<a href="/InfoBarrel_FAQ" title="InfoBarrel FAQ" style="font-weight: bold;">InfoBarrel FAQ</a><br>
+								4,740 views 
+								| By <a href="/Users/admin" rel="nofollow">admin</a> 
+							</div>
+							<div style="color: #616161; margin: 0 5px 5px;">
+								<img src="/media/avatar/1_50x50.jpg" width="30" height="30">
+								<a href="/How_To_Find_Your_Live,_Draft,_Denied_and_Pending_Articles_on_InfoBarrel" title="How To Find Your Live, Draft, Denied and Pending Articles on InfoBarrel" style="font-weight: bold;">How To Find Your Live, Draft, Denied and Pending Articles on InfoBarrel</a><br>
+								324 views 
+								| By <a href="/Users/admin" rel="nofollow">admin</a> 
+							</div>
+							<div style="color: #616161; margin: 0 5px 5px;">
+								<img src="/media/avatar/1_50x50.jpg" width="30" height="30">
+								<a href="/Top_10_Disadvantages_of_Working_from_Home" title="Top 10 Disadvantages of Working from Home" style="font-weight: bold;">Top 10 Disadvantages of Working from Home</a><br>
+								757 views 
+								| By <a href="/Users/admin" rel="nofollow">admin</a> 
+							</div>
+							<div style="color: #616161; margin: 0 5px 5px;">
+								<img src="/media/avatar/1_50x50.jpg" width="30" height="30">
 								<a href="/Writing_For_Money" title="Writing For Money" style="font-weight: bold;">Writing For Money</a><br>
-								886 views 
-								| By <a href="/Users/admin" rel="nofollow">admin</a> 
-							</div>
-							<div style="color: #616161; margin: 0 5px 5px;">
-								<img src="/media/avatar/1_50x50.jpg" width="30" height="30">
-								<a href="/Printable_Coupons" title="Printable Coupons" style="font-weight: bold;">Printable Coupons</a><br>
-								1,403 views 
-								| By <a href="/Users/admin" rel="nofollow">admin</a> 
-							</div>
-							<div style="color: #616161; margin: 0 5px 5px;">
-								<img src="/media/avatar/1_50x50.jpg" width="30" height="30">
-								<a href="/How_to_Spruce_up_your_Infobarrel_Articles" title="How to Spruce up your Infobarrel Articles" style="font-weight: bold;">How to Spruce up your Infobarrel Articles</a><br>
-								232 views 
-								| By <a href="/Users/admin" rel="nofollow">admin</a> 
-							</div>
-							<div style="color: #616161; margin: 0 5px 5px;">
-								<img src="/media/avatar/1_50x50.jpg" width="30" height="30">
-								<a href="/How_to_use_the_Draft_Function_on_InfoBarrel" title="How to use the Draft Function on InfoBarrel" style="font-weight: bold;">How to use the Draft Function on InfoBarrel</a><br>
-								196 views 
-								| By <a href="/Users/admin" rel="nofollow">admin</a> 
-							</div>
-							<div style="color: #616161; margin: 0 5px 5px;">
-								<img src="/media/avatar/1_50x50.jpg" width="30" height="30">
-								<a href="/How_to_Write_a_How_to_Article" title="How to Write a How to Article" style="font-weight: bold;">How to Write a How to Article</a><br>
-								2,612 views 
-								| By <a href="/Users/admin" rel="nofollow">admin</a> 
-							</div>
-							<div style="color: #616161; margin: 0 5px 5px;">
-								<img src="/media/avatar/1_50x50.jpg" width="30" height="30">
-								<a href="/Infobarrel_Mini_Editorial_Guidelines" title="Infobarrel Mini Editorial Guidelines" style="font-weight: bold;">Infobarrel Mini Editorial Guidelines</a><br>
-								329 views 
+								2,019 views 
 								| By <a href="/Users/admin" rel="nofollow">admin</a> 
 							</div>
 						</div>
@@ -531,43 +713,44 @@ Your privacy is very important to us. To better protect your privacy we provide 
 						<div id="articles-cat" class="text" style="display: none;  float: right; margin: 0 2px; width: 336px; border: #cad6e0 1px solid; border-top: 0; background: #ffffff;">
 							<div style="color: #616161; margin: 0 5px 5px;">
 								<img src="/media/avatar/1_50x50.jpg" width="30" height="30">
-								<a href="/Stumble_Your_Way_to_More_Traffic" title="Stumble Your Way to More Traffic" style="font-weight: bold;">Stumble Your Way to More Traffic</a><br>
-								323 views 
-								| By <a href="/Users/admin" rel="nofollow">admin</a> 
-							</div>
-							<div style="color: #616161; margin: 0 5px 5px;">
-								<img src="/media/avatar/1_50x50.jpg" width="30" height="30">
-								<a href="/InfoBarrel_Preapproved_Criteria" title="InfoBarrel Preapproved Criteria" style="font-weight: bold;">InfoBarrel Preapproved Criteria</a><br>
-								2,145 views 
-								| By <a href="/Users/admin" rel="nofollow">admin</a> 
-							</div>
-							<div style="color: #616161; margin: 0 5px 5px;">
-								<img src="/media/avatar/1_50x50.jpg" width="30" height="30">
-								<a href="/Infobarrel_Mini_Editorial_Guidelines" title="Infobarrel Mini Editorial Guidelines" style="font-weight: bold;">Infobarrel Mini Editorial Guidelines</a><br>
-								329 views 
-								| By <a href="/Users/admin" rel="nofollow">admin</a> 
-							</div>
-							<div style="color: #616161; margin: 0 5px 5px;">
-								<img src="/media/avatar/1_50x50.jpg" width="30" height="30">
-								<a href="/How_to_Spruce_up_your_Infobarrel_Articles" title="How to Spruce up your Infobarrel Articles" style="font-weight: bold;">How to Spruce up your Infobarrel Articles</a><br>
-								232 views 
-								| By <a href="/Users/admin" rel="nofollow">admin</a> 
-							</div>
-							<div style="color: #616161; margin: 0 5px 5px;">
-								<img src="/media/avatar/1_50x50.jpg" width="30" height="30">
-								<a href="/Digg_to_get_Your_Content_In_Google" title="Digg to get Your Content In Google" style="font-weight: bold;">Digg to get Your Content In Google</a><br>
-								486 views 
+								<a href="/Press_Releases" title="Press Releases" style="font-weight: bold;">Press Releases</a><br>
+								2,730 views 
 								| By <a href="/Users/admin" rel="nofollow">admin</a> 
 							</div>
 							<div style="color: #616161; margin: 0 5px 5px;">
 								<img src="/media/avatar/1_50x50.jpg" width="30" height="30">
 								<a href="/How_Does_InfoBarrel_Work%3f" title="How Does InfoBarrel Work?" style="font-weight: bold;">How Does InfoBarrel Work?</a><br>
-								3,123 views 
+								10,629 views 
+								| By <a href="/Users/admin" rel="nofollow">admin</a> 
+							</div>
+							<div style="color: #616161; margin: 0 5px 5px;">
+								<img src="/media/avatar/1_50x50.jpg" width="30" height="30">
+								<a href="/About_Us" title="About Us" style="font-weight: bold;">About Us</a><br>
+								4,864 views 
+								| By <a href="/Users/admin" rel="nofollow">admin</a> 
+							</div>
+							<div style="color: #616161; margin: 0 5px 5px;">
+								<img src="/media/avatar/1_50x50.jpg" width="30" height="30">
+								<a href="/Terms_of_Service" title="Terms of Service" style="font-weight: bold;">Terms of Service</a><br>
+								3,602 views 
+								| By <a href="/Users/admin" rel="nofollow">admin</a> 
+							</div>
+							<div style="color: #616161; margin: 0 5px 5px;">
+								<img src="/media/avatar/1_50x50.jpg" width="30" height="30">
+								<a href="/InfoBarrel_Editorial_Guidelines" title="InfoBarrel Editorial Guidelines" style="font-weight: bold;">InfoBarrel Editorial Guidelines</a><br>
+								1,334 views 
+								| By <a href="/Users/admin" rel="nofollow">admin</a> 
+							</div>
+							<div style="color: #616161; margin: 0 5px 5px;">
+								<img src="/media/avatar/1_50x50.jpg" width="30" height="30">
+								<a href="/Writing_For_Money" title="Writing For Money" style="font-weight: bold;">Writing For Money</a><br>
+								2,019 views 
 								| By <a href="/Users/admin" rel="nofollow">admin</a> 
 							</div>
 						</div>
 
 						<br style="clear: both;">
+
 						<div class="tabs" style="margin: 0 2px 0 6px;">
 							<a href="javascript:void();" style="background: #ffffff; color: #000000;">Author Info</a>
 						</div>
@@ -588,6 +771,7 @@ Your privacy is very important to us. To better protect your privacy we provide 
 						</div>
 					</div>
 <!---[if !IE]>------------------------------------------------------------------ END RIGHT SIDE ------------------------------------------------------------------<![endif]-->
+					<!-- google_ad_section_start(weight=ignore) -->
 					<div class="title" style="position: relative; width: 622px;">
 						<a name="comments"></a>Comments
 					</div>
@@ -602,6 +786,7 @@ Your privacy is very important to us. To better protect your privacy we provide 
 						<input type="submit" name="mybutton" value="Submit Comment" disabled="">
 
 					</div>
+					<!-- google_ad_section_end -->
 				</div>
 			</div>
 
@@ -628,19 +813,19 @@ Your privacy is very important to us. To better protect your privacy we provide 
 			<div id="nav_box">
 				<div style="float: left; display: block; width: 250px; border-right: #d1d1d1 1px solid; margin: 5px 10px 5px 5px;">
 					<h3>Site Links</h3>
-					<a href="http://www.infobarrel.com/" title="Infobarrel" style="margin-bottom: 0;">Home</a>
-					<a href="http://www.infobarrel.com/InfoBarrel_News" title="InfoBarrel News" style="display: inline; line-height: 24px;">News</a> <a href="http://www.twitter.com/infobarrel" style="display: inline;"><img src="/images/twitter.gif" align="absmiddle" style="border: 0; margin: 0; padding: 0;"></a><br>
-					<a href="http://www.infobarrel.com/feed.php" title="InfoBarrel XML Feed" style="display: inline; line-height: 24px;">XML Feed</a> <a href="http://feeds.feedburner.com/Infobarrel" rel="alternate" type="application/rss+xml" style="display: inline;"><img src="http://www.feedburner.com/fb/images/pub/feed-icon16x16.png" alt="" align="absmiddle" style="border:0; margin: 0; padding: 0;"></a> <a href="http://fusion.google.com/add?source=atgs&amp;feedurl=http%3A//www.infobarrel.com/feed.php" style="display: inline; line-height: 24px;"><img src="http://gmodules.com/ig/images/plus_google.gif" border="0" alt="Add to Google" align="absmiddle"></a>
+					<a href="http://www.infobarrel.com/" title="Infobarrel">Home</a>
 					<a href="http://www.infobarrel.com/search.php" title="Search InfoBarrel">Search</a>
 					<a href="http://www.infobarrel.com/Contact_Us" title="Contact InfoBarrel">Contact Us</a>
 					<a href="http://www.infobarrel.com/About_Us" title="About InfoBarrel">About Us</a>
 					<a href="http://www.infobarrel.com/Press_Releases" title="InfoBarrel Press Releases">Press Releases</a>
 					<a href="http://www.infobarrel.com/Terms_of_Service" title="InfoBarrel Terms of Service">Terms of Service</a>
 					<a href="http://www.infobarrel.com/Privacy_Policy" title="InfoBarrel Privacy Policy">Privacy Policy</a>
+					<a href="http://www.infobarrel.com/Blog_Buzz" title="Infobarrel Blog Buzz">Blog Buzz</a>
 				</div>
 
 				<div style="float: left; display: block; width: 250px; border-right: #d1d1d1 1px solid; margin: 5px 10px 5px 5px;">
 					<h3>Help</h3>
+					<a href="http://www.infobarrel.com/Infobarrel_FAQ" title="Infobarrel FAQ">FAQ</a>
 					<a href="http://www.infobarrel.com/How_Does_InfoBarrel_Work%3f" title="How Does InfoBarrel Work?">How Does This Work?</a>
 					<a href="http://www.infobarrel.com/Writing_for_InfoBarrel" title="Writing for InfoBarrel">Writing for Us</a>
 					<a href="http://www.infobarrel.com/InfoBarrel_Preapproved_Criteria" title="InfoBarrel Preapproved Criteria">How Do I Become Preapproved?</a>
@@ -648,7 +833,13 @@ Your privacy is very important to us. To better protect your privacy we provide 
 
 				<div style="float: left; display: block; width: 440px; margin: 5px 10px 5px 5px;">
 					<h3>Info Barrel Archive</h3>
-<br style="display: block; height: 1px;"><b style="margin: 0 3px 4px 2px;">2008</b><div style="display: inline; margin: 0 3px;">Jan</div><div style="display: inline; margin: 0 3px;">Feb</div><div style="display: inline; margin: 0 3px;">Mar</div><div style="display: inline; margin: 0 3px;">Apr</div><div style="display: inline; margin: 0 3px;">May</div><a href="/Archive/Jun-2008" style="margin: 0 3px; display: inline;">Jun</a><a href="/Archive/Jul-2008" style="margin: 0 3px; display: inline;">Jul</a><a href="/Archive/Aug-2008" style="margin: 0 3px; display: inline;">Aug</a><a href="/Archive/Sep-2008" style="margin: 0 3px; display: inline;">Sep</a><a href="/Archive/Oct-2008" style="margin: 0 3px; display: inline;">Oct</a><a href="/Archive/Nov-2008" style="margin: 0 3px; display: inline;">Nov</a><a href="/Archive/Dec-2008" style="margin: 0 3px; display: inline;">Dec</a><br style="display: block; height: 1px;"><b style="margin: 0 3px 4px 2px;">2009</b><a href="/Archive/Jan-2009" style="margin: 0 3px; display: inline;">Jan</a><a href="/Archive/Feb-2009" style="margin: 0 3px; display: inline;">Feb</a><a href="/Archive/Mar-2009" style="margin: 0 3px; display: inline;">Mar</a><a href="/Archive/Apr-2009" style="margin: 0 3px; display: inline;">Apr</a><a href="/Archive/May-2009" style="margin: 0 3px; display: inline;">May</a><a href="/Archive/Jun-2009" style="margin: 0 3px; display: inline;">Jun</a>				</div>
+<br style="display: block; height: 1px;"><b style="margin: 0 3px 4px 2px;">2008</b><div style="display: inline; margin: 0 3px;">Jan</div><div style="display: inline; margin: 0 3px;">Feb</div><div style="display: inline; margin: 0 3px;">Mar</div><div style="display: inline; margin: 0 3px;">Apr</div><a href="/Archive/May-2008" style="margin: 0 3px; display: inline;">May</a><a href="/Archive/Jun-2008" style="margin: 0 3px; display: inline;">Jun</a><a href="/Archive/Jul-2008" style="margin: 0 3px; display: inline;">Jul</a><a href="/Archive/Aug-2008" style="margin: 0 3px; display: inline;">Aug</a><a href="/Archive/Sep-2008" style="margin: 0 3px; display: inline;">Sep</a><a href="/Archive/Oct-2008" style="margin: 0 3px; display: inline;">Oct</a><a href="/Archive/Nov-2008" style="margin: 0 3px; display: inline;">Nov</a><a href="/Archive/Dec-2008" style="margin: 0 3px; display: inline;">Dec</a><br style="display: block; height: 1px;"><b style="margin: 0 3px 4px 2px;">2009</b><a href="/Archive/Jan-2009" style="margin: 0 3px; display: inline;">Jan</a><a href="/Archive/Feb-2009" style="margin: 0 3px; display: inline;">Feb</a><a href="/Archive/Mar-2009" style="margin: 0 3px; display: inline;">Mar</a><a href="/Archive/Apr-2009" style="margin: 0 3px; display: inline;">Apr</a><a href="/Archive/May-2009" style="margin: 0 3px; display: inline;">May</a><a href="/Archive/Jun-2009" style="margin: 0 3px; display: inline;">Jun</a><a href="/Archive/Jul-2009" style="margin: 0 3px; display: inline;">Jul</a><a href="/Archive/Aug-2009" style="margin: 0 3px; display: inline;">Aug</a><a href="/Archive/Sep-2009" style="margin: 0 3px; display: inline;">Sep</a><a href="/Archive/Oct-2009" style="margin: 0 3px; display: inline;">Oct</a><a href="/Archive/Nov-2009" style="margin: 0 3px; display: inline;">Nov</a><a href="/Archive/Dec-2009" style="margin: 0 3px; display: inline;">Dec</a>				</div>
+
+				<div style="position: absolute; bottom: 2px; right: 5px; z-index: 1;">
+					<a href="/feed.php" style="display: inline;"><img src="/images/rss-64x64.png" border="0"></a>
+					<a href="http://twitter.com/infobarrel" style="display: inline;"><img src="/images/twitter-64x64.png" border="0"></a>
+					<a href="http://www.facebook.com/pages/InfoBarrel/154225459385" style="display: inline;"><img src="/images/facebook-64x64.png" border="0"></a>
+				</div>
 			</div>
 
 			<div id="footer">
