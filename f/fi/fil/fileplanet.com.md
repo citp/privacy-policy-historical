@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the fileplanet.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228020336id_/http%3A//corp.ign.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileplanet.com privacy policy that was archived on 2009-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091210035828id_/http%3A//corp.ign.com/privacy.html) for the most accurate reproduction.*
 
-# IGN Entertainment
+# Privacy Policy - IGN Entertainment
 
 Updated October 31, 2008
+
+## Privacy Policy
 
 IGN Entertainment, Inc. (together with its subsidiaries, "IGN" or "we") is part of the News America Group, which has adopted a set of Privacy Principles <http://www.newscorp.com/privacy.html> applicable to all its U.S.-based companies. IGN has implemented those Principles in this Privacy Policy, which describes how we collect, use, and share personally identifiable information (information that can be used to identify you, such as your full name, email address, mailing address, or telephone number) ("PII") we obtain from and about individuals located in the U.S. both online and off-line.
 
@@ -12,7 +14,7 @@ The IGN Sites are general audience web sites, and IGN does not knowingly collect
 
 From time to time we may revise this Policy to reflect industry initiatives or changes in the law, our information collection and use practices, the features of the IGN Sites, or technology. If we make revisions that change the way we collect or use your PII, those changes will be posted in this Policy and the effective date will be noted at the beginning of this Policy. Therefore, you should review it periodically so that you are up to date on our most current policies and practices. If we materially change our practices regarding use of your PII, your PII will continue to be governed by the Policy under which it was collected unless you have been provided notice of, and have not objected to, the change. 
 
-COLLECTION: Collection of PII by IGN
+#### COLLECTION: Collection of PII by IGN
 
 **General.** IGN collects PII in order to create or enhance our relationship with you. When we collect PII from you it is because you are voluntarily submitting the information to us in order to participate in certain activities including (i) registration for certain online services and tools such as downloads, message boards, chat rooms or other community services; (ii) registration for special communications, such as email updates and newsletters; (iii) subscription registration; (iv) purchase products or services from or through the IGN Sites; (v) user surveys; (vi) events, sweepstakes, contests or promotions; and (vii) registration for online multi- or single-player gaming. We may obtain PII from third parties that we consider to be reputable. We also may receive on the IGN Sites user-generated content or information of any type or medium, which may include PII, including but not limited to: audio conversations; text chat and video images from chat rooms; user reviews; and game guide submissions.
 
@@ -32,7 +34,7 @@ We may also employ Web beacons from third parties in order to help us compile ag
 
 Finally, we may work with other companies that advertise on the IGN Sites to place Web beacons on their sites in order to allow us to develop statistics on how often clicking on an advertisement on an IGN site results in a purchase or other action on the advertiser's site.
 
-NOTICE: IGN Will Provide You with Notice About its PII Collection Practices
+#### NOTICE: IGN Will Provide You with Notice About its PII Collection Practices
 
 When you voluntarily provide PII in response to our request or we authorize a third party to collect PII from you on the IGN Sites, we will inform you about who is collecting the information, how and why the information is being collected, and the types of uses IGN will make of the information At the time you provide your PII, IGN will notify you of your options regarding our use of your PII (See "Choice" below). This Policy describes the types of other companies that may want to send you information about their products and services and with whom we may want to share your personal information, as provided in this Policy (See "Use" below).
 
@@ -52,13 +54,13 @@ or
 
 <http://www.networkadvertising.org/optout_nonppii.asp>.
 
-CHOICE: IGN Will Provide You with Choices About the Use of Your PII
+#### CHOICE: IGN Will Provide You with Choices About the Use of Your PII
 
 IGN will not use your PII for purposes different from those about which you have been notified, or share your PII with third parties that are not affiliated with IGN, unless you have asked to receive certain information and/or services from third parties or participate in certain third-party programs (such as beta or demos) and have been notified that the fulfillment of such a request requires the sharing of your PII or you have consented to such sharing. 
 
 For example, IGN provides game owners/publishers with certain hosted technology and software that enables various game related functionalities, such as online multi- or single-player gaming, on our Sites. If you are not already a registered user of the IGN Sites you may be asked to provide PII in connection with your use of such services. In addition, we may share your PII with game owners/publishers so that they can provide you with the services you have elected to receive. Similarly, IGN may provide downloads of software for, or host play of, pre-release test, or "beta", versions of games as well as partial game demonstrations, trials and full game downloads provided by the owner/publisher. In order to receive or participate in these programs, you may be required to provide PII, which we may provide to the owner/publisher. Any PII that you provide to game owners/publishers will be subject to the game owner's/publisher's privacy policy, and we have no control over the ways that game owners/publishers to whom you provide your PII may use your PII. 
 
-USE: IGN's Use of PII
+#### USE: IGN's Use of PII
 
 IGN will use your PII in a manner that is consistent with this Policy. If IGN obtains PII from a third party, such as a business partner, our use of that information is governed by this Policy. IGN may use PII in aggregate, anonymous form for research purposes.
 
@@ -76,7 +78,7 @@ IGN may record audio conversations or copy text chat or video images from chat r
 
 There may be instances when IGN may disclose PII without providing you with a choice in order to protect the legal rights of IGN, other companies within the News America Group or their employees, agents, and contractors; to protect the safety and security of visitors to our web sites; to investigate, prevent or protect against suspected fraud, illegal activity, violations of our user agreement or for risk management purposes; or to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. In addition, if IGN sells all or part of its business or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, IGN may transfer your PII to a third party as part of that transaction. 
 
-SECURITY: IGN Protects the Security of PII
+#### SECURITY: IGN Protects the Security of PII
 
 IGN uses reasonable administrative, technical, personnel, and physical measures to safeguard PII in its possession against loss, theft and unauthorized use, disclosure, or modification. Passwords and other sensitive information stored by IGN are encrypted in transit.
 
@@ -84,13 +86,13 @@ Notwithstanding these security measures, please be aware that when you submit PI
 
 If a password is used to help protect your accounts and personal information, it is your responsibility to keep your password confidential. Do not share this information with anyone. Anyone who has access to your password will have access to your PII, as well as to any credit card information that you have submitted. If you are sharing a computer with anyone you should always log out before leaving a site or service to protect access to your information from subsequent users.
 
-ACCESS: How to Access, Correct, or Delete Your Preferences Regarding Your PII
+#### ACCESS: How to Access, Correct, or Delete Your Preferences Regarding Your PII
 
 To access, correct or update your account or other Personal Information such as your city or interests, please use the "My Account" link on the IGN Site on which you are registered. 
 
 If you want to update your email address or stop receiving these types of promotional emails, please follow the procedures to unsubscribe at the bottom of any email we send you. You may unsubscribe from any Premium service for which you have previously elected by following the instructions included in the IGN User Agreement <http://corp.ign.com/user-agreement.html>.
 
-REMEDIES AND COMPLIANCE: How to Contact IGN About Privacy Concerns
+#### REMEDIES AND COMPLIANCE: How to Contact IGN About Privacy Concerns
 
 If you have any other questions, comments or complaints about this Policy, please contact us via our online form, available at <http://support.ign.com/> or write to us at:
 
