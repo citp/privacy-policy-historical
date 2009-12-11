@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 20north.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626131200id_/http%3A//www.20north.com/index.php/pages/view/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 20north.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211115406id_/http%3A//www.20north.com/pages/view/privacy_policy) for the most accurate reproduction.*
 
 # Shop in the US from India @ 20North - Millions of products, Thousands of brands
 
@@ -67,6 +67,7 @@ We use your personal information to:
 
   * help us provide personalized features
   * tailor our sites to your interest
+  * for promotional offers through our business associates and partners
   * to get in touch with you when necessary
   * to provide the services requested by you
   * to preserve social history as governed by existing law or policy
@@ -102,6 +103,7 @@ We do not rent, sell or share your personal information and we will not disclose
 
   * we have your permission
   * to provide products or services you've requested
+  * it is shared with our business associates and partners for promotional offers.
   * to help investigate, prevent or take action regarding unlawful and illegal activities, suspected fraud, potential threat to the safety or security of any person, violations of 20North.com's terms of use or to defend against legal claims;
   * special circumstances such as compliance with subpoenas, court orders, requests/order from legal authorities or law enforcement agencies requiring such disclosure.
 
@@ -136,16 +138,14 @@ Send an e-mail to [customersupport@20north.com](mailto:customersupport@20north.c
 **POLICY UPDATES**
 
   
-We reserve the right to change or update this policy at any time by placing a prominent notice on our site. Such changes shall be effective immediately upon posting to this site. 
+We reserve the right to change or update this policy at any time. Such changes shall be effective immediately upon posting to this site. 
 
 **CONTACT INFORMATION**
 
-You can contact us at: 
+ **20North Online Pvt Limited  
+No.2984, 12th Main  
+Indiranagar, Bangalore-560038   
+INDIA **
 
-20North Online Pvt Limited   
-No.2984, 12th Main
-
-Indiranagar, Bangalore-560038   
-INDIA   
-Tel.: 91 80 42924000   
-Email id: [customersupport@20north.com](mailto:customersupport@20north.com)
+**Tel.: 91 80 42924000  
+Email id: **[**customersupport@20north.com**](mailto:customersupport@20north.com)
