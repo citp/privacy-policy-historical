@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deepthroatlove.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625121145id_/http%3A//deepthroatlove.com/terms_conditions/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deepthroatlove.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211221855id_/http%3A//deepthroatlove.com/terms_conditions/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
