@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nexternal.com privacy policy that was archived on 2009-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090308053547id_/http%3A//www.nexternal.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nexternal.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211200613id_/http%3A//www.nexternal.com/privacy.htm) for the most accurate reproduction.*
 
 # Nexternal Solutions Privacy Policy
 
@@ -37,4 +37,4 @@ Wherever we collect sensitive information (such as credit card data), that infor
 
 While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment. 
 
-**If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 800 914-6161 or _[ecommerce@nexternal.com](mailto:ecommerce@nexternal.com)_.**
+**If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 800 914-6161 or _[ecom@nexternal.com](mailto:ecom@nexternal.com)_.**
