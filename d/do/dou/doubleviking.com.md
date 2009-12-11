@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the doubleviking.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616015900id_/http%3A//www.doubleviking.com/misc/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doubleviking.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211224308id_/http%3A//www.doubleviking.com/privacy-policy-6806-p.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - 10/17/2007
 
-**Privacy Policy**  
+  
 
 
 **Doubleviking.com Privacy Statement**
@@ -10,7 +10,7 @@
 This statement covers the site www.Doubleviking.com (“Doubleviking”). Please read this statement carefully before using proceeding to access Doubleviking. Your use of Doubleviking indicates your agreement to abide by the Terms in effect.
 
 **Information Collection**  
-Kittycough Creative is the sole owner of the information collected on www.Doubleviking.com. Doubleviking may collect information from our users at several different points on our Web site.
+Double Viking Network, LLC is the sole owner of the information collected on www.Doubleviking.com. Doubleviking may collect information from our users at several different points on our Web site.
 
 **Comments**  
 In order to enhance their use of this Web site, users can choose to leave comments on particular articles of interest. To leave a comment, users must submit information including a valid email address. Doubleviking uses this information to screen out users who leave comments prohibited by our terms and conditions of use, and will not pass this information to any other organization.
@@ -48,3 +48,11 @@ Whenever Doubleviking changes our privacy policy, we will post those changes to 
 
 **Contact Information**  
 If you have any questions or suggestions regarding our privacy policy, please contact us at [doubleviking@gmail.com](mailto:doubleviking@gmail.com).
+
+[LINK TO THIS ARTICLE](https://web.archive.org/web/20091211224308id_/http%3A//www.doubleviking.com/privacy-policy-6806-p.html "Privacy Policy")
+
+There are comments so far: 
+
+**Want to write a comment?**
+
+[Login](https://web.archive.org/web/20091211224308id_/http%3A//www.doubleviking.com/login.phtml) or [signup](https://web.archive.org/web/20091211224308id_/http%3A//www.doubleviking.com/signup.phtml)
