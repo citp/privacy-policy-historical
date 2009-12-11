@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the readytalk.com privacy policy that was archived on 2009-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090511121959id_/http%3A//www.readytalk.com/about/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readytalk.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211073515id_/http%3A//www.readytalk.com/about/privacy-policy.php) for the most accurate reproduction.*
 
-# ReadyTalk Web Conferencing, Webinars, and Audio Conferencing - Privacy Policy
+# ReadyTalk - Privacy Policy
 
 ReadyTalk is a leading provider of audio and web conferencing services. We have developed this site (the "ReadyTalk Site") to provide you with information about our services as well as to provide a means to access these services. We understand your need for privacy when using the Internet for your communication. This policy discloses ReadyTalks practices with respect to the collection, use and disclosure of user information collected through the ReadyTalk web site and through your use of our services.
 
