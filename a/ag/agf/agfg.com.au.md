@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the agfg.com.au privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526090416id_/http%3A//www.agfg.com.au/agfg/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agfg.com.au privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211203357id_/http%3A//www.agfg.com.au/agfg/privacy) for the most accurate reproduction.*
 
-# Australian Good Food and Accommodation Guide Privacy
+# Australian Good Food and Travel Guide Privacy
 
 ## Privacy Overview
 
@@ -22,7 +22,7 @@ When The Australian Good Food & Travel Guide receives information about your ses
 
 Some of the Australian Good Food & Travel Guide web pages use "cookies".
 
-Cookies can make your subsequent visits to the web page simpler and more seamless. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. (However, by not accepting cookies, some web pages may not display properly or you may not be permitted to access certain information.). A server cannot find out a name or e-mail address, or anything about a user's computer, by using cookies. Cookie information is not stored or collected by The Australian Good Food & Travel Guide.
+Cookies can make your subsequent visits to the web page simpler and more seamless. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. (However, by not accepting cookies, some web pages may not display properly or you may not be permitted to access certain information). A server cannot find out a name or e-mail address, or anything about a user's computer, by using cookies. Cookie information is not stored or collected by The Australian Good Food & Travel Guide.
 
 Once The Australian Good Food & Travel Guide receives information from you via e-mail or any other means, the information is in a secure environment. Your personal information will not be released unless The Australian Good Food & Travel Guide believes in good faith that the law requires it or your permission is granted.
 
@@ -30,4 +30,4 @@ Once The Australian Good Food & Travel Guide receives information from you via e
 
 The Australian Good Food & Travel Guide strives to ensure the security, integrity and privacy of personal information submitted to our sites, and periodically updates its security measures in light of current technologies. You need to be aware of inherent risks associated with the transmission of information via the Internet. The Australian Good Food & Travel Guide cannot guarantee or warrant the security of any personal information you submit to our sites. If you have concerns in this regard, The Australian Good Food & Travel Guide has other ways of obtaining and providing information. Normal mail, telephone and fax facilities are available.
 
-The Australian Good Food & Travel Guide Websites may contain advertisements and links to other websites operated by third parties. These links are meant for your convenience only. We are not responsible for the privacy policies o these third party materials. Visitors to those sites should refer to their separate privacy policies and practices before disclosing personal information.
+The Australian Good Food & Travel Guide Websites may contain advertisements and links to other websites operated by third parties. These links are meant for your convenience only. We are not responsible for the privacy policies of these third party materials. Visitors to those sites should refer to their separate privacy policies and practices before disclosing personal information.
