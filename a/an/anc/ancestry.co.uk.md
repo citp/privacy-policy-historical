@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the ancestry.co.uk privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605075632id_/http%3A//www.ancestry.co.uk/legal/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ancestry.co.uk privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211233148id_/http%3A//www.ancestry.co.uk/legal/privacy.aspx) for the most accurate reproduction.*
 
 # - Ancestry.co.uk
 
-**This Privacy Statement was last updated on 12 May 2008.  
+**This Privacy Statement was last updated on 15 July 2009.  
 If you have not reviewed it since that date, please do so.  
 You will not receive any other notice of changes to this statement.**
 
 Privacy Information for Ancestry.co.uk
 
  **Overview:**  
-The Generations Network, Inc., (Ancestry, we, us or our) operator of this site, recognizes the confidentiality of information that may be disclosed by members in registering or making purchases from our Website and we are firmly committed to protecting your privacy. The following discloses our information gathering and dissemination practices for this site. Ancestry.co.uk is owned and operated by The Generations Network Inc, incorporated in Delaware, USA and the sites are operated in the United States of America. Registration as a user of or subscriber to the ancestry.co.uk Internet service results in your customer information being stored and processed in the United States, and you, in registering or subscribing, specifically consent to that storage and processing.
+Ancestry.com Operations Inc., (“Ancestry.com”, ”Ancestry”, “we”, “us” or “our”) operator of this site, recognizes the confidentiality of information that may be disclosed by members in registering or making purchases from our Website and we are firmly committed to protecting your privacy. The following discloses our information gathering and dissemination practices for this site. Ancestry.co.uk is owned and operated by Ancestry.com Operations Inc., incorporated in Delaware, USA and the sites are operated in the United States of America. Registration as a user of or subscriber to the ancestry.co.uk Internet service results in your customer information being stored and processed in the United States, and you, in registering or subscribing, specifically consent to that storage and processing.
 
 The specifics of our Privacy Policy are best described in the answers to the following Frequently Asked Questions:
 
 **Does Ancestry ask for personal information?**  
-Yes. Ancestry asks for your name and e-mail address when you sign up as a member and use features such as e-mail. In addition we will need to know your postal address and payment details when you choose to take out a subscription with us or make purchases at the Ancestry online shop. We may ask for similar information at other times, such as when you enter sweepstakes or other promotions sponsored by Ancestry and/or our many partners. Most of this information may be entered at your discretion. As a member of Ancestry, you can also choose to share further information about yourself, your background and interests with other members. The amount and type of the profile information you share in this way is entirely your choice. See 'Member Profiles' below for more information on how you can edit or control what you allow other members to see about you in your public profile.
+Yes. Ancestry asks for your name and e-mail address when you sign up as a member and use features such as e-mail. In addition we will need to know your postal address and payment details when you choose to take out a subscription with us or make purchases at the Ancestry online shop. We may ask for similar information at other times, such as when you enter sweepstakes or other promotions sponsored by Ancestry and/or our many partners. Most of this information may be entered at your discretion. As a member of Ancestry, you can also choose to share further information about yourself, your background and interests with other members. The amount and type of the profile information you share in this way is entirely your choice. Information about some of your activity on the site, such as historical records you save, may also be shared with other members in order to help you connect with others researching similar ancestors. See 'Member Profiles' below for more information on how you can edit or control what you allow other members to see about you and your site activity in your public profile or other places on the site.
 
 **How Does Ancestry use my personal information?**  
 Our goal is to provide you with the most personalized, relevant, user-friendly Web experience possible. The primary use of all your personal information is to efficiently provide you with relevant information.
@@ -33,7 +33,7 @@ Demographic information collected through on-site user surveys may be used in ag
 
 Additionally, if you click away from Ancestry.co.uk to visit the site of any third party advertiser or sponsor, you may be asked for your credit card or other personal information in order to purchase or use products and services offered. These companies have their own privacy and data collection practices. We have no responsibility or liability for these independent policies. You should therefore review their privacy policies carefully if you have concerns about how your information may be used.
 
-As our business continues to grow, we might buy or sell subsidiaries or business units. In these transactions, customer information is often one of the transferred assets, remaining subject to promises made in existing privacy statements. Also, in the event that The Generations Network, Inc., or substantially all of its assets are acquired, customer information will as a matter of course be one of the transferred assets.
+As our business continues to grow, we might buy or sell subsidiaries or business units. In these transactions, customer information is often one of the transferred assets, remaining subject to promises made in existing privacy statements. Also, in the event that Ancestry, or substantially all of its assets are acquired, customer information will as a matter of course be one of the transferred assets.
 
 **Will my information be used for direct mailings?**  
 With your agreement, Ancestry will send electronic mail to you, for the purpose of informing you of changes or additions to Ancestry, or of any Ancestry related products and services. You can also choose to receive promotional offers from trusted Ancestry partners. If you do not want to continue to receive such mailings, you may opt out at any time by using the unsubscribe link listed in the e-mail. or by amending your 'Newsletter and e-mail preferences' in the '[My Account](http://www.ancestry.co.uk/myancestry/myaccount/default.aspx)' section of this site.
@@ -66,7 +66,9 @@ When you sign-up as a member you are provided with a public member profile pre-p
 
 Through the [Community Preferences](http://www.ancestry.co.uk/myancestry/myaccount/communityprefs.aspx) link in the Ancestry '[My Account](http://www.ancestry.co.uk/myancestry/myaccount/default.aspx)' section of the site, you can choose either to display your e-mail address with other members or ensure that your e-mail is withheld so that you are only contacted anonymously through the Ancestry Connection Service. You can also control when you are contacted or block certain people from contacting you.
 
-**Anonymous deomographic profiles**  
+You can also customize what other members can learn about your Ancestry site activity. To help you connect with other members researching similar ancestors, by default new accounts are set up to allow other members to learn about things you publicly add or post to the site, as well as some personal research activities (such as saving historical records to your Shoebox or private member tree). To customize these settings, simply go to the “Activity Preferences” link on the Community Preferences page. 
+
+**Anonymous demographic profiles**  
 Demographic data is collected at our site at the users' option. This information may include age and gender and other personal preferences that can be viewed and tabulated for use in marketing Ancestry to advertisers and others. In no case is personal information given or sold to third parties. Ancestry controls the distribution of ALL information at the site.
 
 **Contests& Promotions**  
@@ -78,12 +80,12 @@ This site makes forums, message boards and/or newsgroups available to its member
 **Security**  
 Ancestry places great importance on the security of all personally identifiable information associated with our members. We have security measures in place to attempt to protect against the loss, misuse or alteration of member data under our control. For example our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized personnel have access to member information. We use secure server software to encrypt financial information you input before it is sent to us. While we cannot guarantee that loss, misuse or alteration of data will not occur, we will use our best efforts to prevent this.
 
-By using our website and the services you consent to the collection and use of your information by the Generations Network, Inc. If we decide to change our privacy policy, we will post these changes on this page (or send them to you via e-mail or postal mail) so that you will be aware of what information we collect, how we use it and under what circumstances we disclose it in accordance with the Data Protection Act 1998. If you do not consent to any changes to our privacy policy and as a result you would like us not to use or hold your information in accordance with the revised terms, you may instruct us to delete your information by sending an e-mail to [support@ancestry.co.uk](mailto:support@ancestry.co.uk).
+By using our website and the services you consent to the collection and use of your information by the Ancestry. If we decide to change our privacy policy, we will post these changes on this page (or send them to you via e-mail or postal mail) so that you will be aware of what information we collect, how we use it and under what circumstances we disclose it in accordance with the Data Protection Act 1998. If you do not consent to any changes to our privacy policy and as a result you would like us not to use or hold your information in accordance with the revised terms, you may instruct us to delete your information by sending an e-mail to [support@ancestry.co.uk](mailto:support@ancestry.co.uk).
 
 **Contacting the Website**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can contact:
 
-The Generations Network, Inc.  
+Ancestry.com  
 360 W 4800 N Provo, UT 84604  
 United States of America
 
