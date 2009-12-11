@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the stacksandstacks.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228094344id_/http%3A//www.stacksandstacks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stacksandstacks.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211220546id_/http%3A//www.stacksandstacks.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
-**Privacy Statement for www.stacksandstacks.com**
+[Disclaimers](https://web.archive.org/disclaimer.html) | [Link Policy](https://web.archive.org/link-policy.html) | [Scope Of Use](https://web.archive.org/scope-of-use.html)
 
 Stacks & Stacks has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: **www.stacksandstacks.com.**
 
