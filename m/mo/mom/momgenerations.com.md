@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momgenerations.com privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529232224id_/http%3A//www.momgenerations.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momgenerations.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211204429id_/http%3A//www.momgenerations.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # None
 
