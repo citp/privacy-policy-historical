@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babiesonline.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625192627id_/http%3A//www.babiesonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babiesonline.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211223251id_/http%3A//www.babiesonline.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement for Babies Online
 
@@ -19,8 +19,6 @@ We run contests on our site in which we ask visitors for contact information (li
 This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
 ## Children's Guidelines
-
-According to the answers that you have chosen, your Web site meets the guidelines of TRUSTe's Children's program. 
 
   1. NOT collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent
   2. NOT collect personally identifiable offline contact information without prior parental consent
