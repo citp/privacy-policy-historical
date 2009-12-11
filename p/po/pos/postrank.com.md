@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the postrank.com privacy policy that was archived on 2009-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090315115316id_/http%3A//www.postrank.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postrank.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211234317id_/http%3A//www.postrank.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - PostRank
+# PostRank
+
+## Privacy Policy
 
 AideRSS, Inc. ("AideRSS" or "we" or "us") is committed to protecting the privacy of the personally identifiable information ("Personal Information" further described below) that we collect from you. This privacy policy ("Privacy Policy") is intended to inform you of our policies and practices regarding the collection, use and disclosure of any Personal Information and anonymous information ("Anonymous Information" further described below) you submit to us.
 
