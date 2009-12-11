@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the centerd.com privacy policy that was archived on 2009-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090616214447id_/http%3A//www.centerd.com/content/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the centerd.com privacy policy that was archived on 2009-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091211213140id_/http%3A//www.centerd.com/content/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 		<title>Privacy - Centerd.com (first draft)</title>
@@ -9,10 +9,8 @@
 		
 	<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 	<meta http-equiv="Content-Language" content="en-us">	
-	<meta name="robots" content="ALL">
 	<meta name="author" content="centerd, inc. (http://www.centerd.com) ">
-	<meta name="description" content="Center’d helps people plan any event or activity, and find new places to go and things to do based on the advice of trusted friends.  Center'd integrates local search, planning tools, and trusted community to make planning easier.   Find restaurants, hotels, schools, maps, events, pictures, and things to do in any U.S. city.">
-	<meta name="keywords" content="Center'd, centered, map, pictures, hotel, maps, hotels, restaurant, guide, travel, photos, information, restaurants, plan, events, invitations, things to do, Fatdoor, centerd, community, party, services, planning, yellow pages, schools">
+	
 	<meta name="copyright" content="Copyright (c) 2008 Center'd Corporation.">
 	
 	<meta name="geo.position" content="">
@@ -25,18 +23,21 @@
 	
 	
 	<script type="text/javascript">
-    function OpenBusinessReferralLinks(Category, Action, Label, Value, isHeaderShowModalDialog, url, h, w, scrollOn)
+    function OpenBusinessReferralLinks(Category, Action, Label, Value, isHeaderShowModalDialog, url, track, h, w, scrollOn)
     {
-        trackEvent(Category, Action, Label, Value, isHeaderShowModalDialog, url, h, w, scrollOn);
+        trackEvent(Category, Action, Label, Value, isHeaderShowModalDialog, url, track, h, w, scrollOn);
     }
     </script>
 
     <script type="text/javascript">
-    function trackEvent(Category, Action, Label, Value, isHeaderShowModalDialog, url, h, w, scrollOn)
+    function trackEvent(Category, Action, Label, Value, isHeaderShowModalDialog, url, track, h, w, scrollOn)
     {
-    	
-            pageTracker._trackEvent(Category, Action, Label, Value);
-        
+        if(track == "true")
+        { 
+    	    
+                pageTracker._trackEvent(Category, Action, Label, Value);
+            
+        } 
         if(url)
         {
             if(isHeaderShowModalDialog)
@@ -99,6 +100,42 @@
 	
 	<link rel="stylesheet" href="http://www.centerd.com/css/style.css" type="text/css">	
     
+    <style>
+        .HeaderSiteWideHeaderMessage{
+            background:url(http://www.centerd.com/images/marketing/iphone-message-bg.jpg) no-repeat top left; 
+            margin-bottom:20px;
+            display:block;
+            width:955px;
+            height:47px;
+        }
+        .HeaderSiteWideHeaderMessage div{
+            padding-top:18px;
+            margin-left:145px;
+            font-weight:bold;
+        }
+        .HeaderSiteWideHeaderMessage a{
+            text-decoration:underline;
+            font-weight:bold;
+            margin-left:10px;
+            color:#004983;
+        }
+        a.closeLink{
+            display:block;
+            background:url(http://www.centerd.com/images/marketing/close.jpg) no-repeat 0 0;
+            height:13px;
+            width:13px;
+            margin:0;
+            float:right;
+            margin:10px 5px 0 0;
+        }
+        .HeaderSiteWideMessageClickableImage{
+            display:block;
+            height:45px;
+            float:left;
+            margin-left:34px;
+            width:100px;
+        }
+    </style>
 	<!--[if IE 7]>
 		<style type="text/css">
 			form#editProfile .textarea,
@@ -121,10 +158,9 @@
     <script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE7.js" type="text/javascript"></script>
     <![endif]-->
 
-
-	<script type="text/javascript" src="http://www.centerd.com/js/core.js?v=06122009.01"></script>
-	<script type="text/javascript" src="http://www.centerd.com/js/scriptaculous.js?v=06122009.01"></script>
-	<script type="text/javascript" src="http://www.centerd.com/js/header.js?v=06122009.01"></script>
+	<script type="text/javascript" src="http://www.centerd.com/js/core.js?v=12042009.01"></script>
+	<script type="text/javascript" src="http://www.centerd.com/js/scriptaculous.js?v=12042009.01"></script>
+	<script type="text/javascript" src="http://www.centerd.com/js/header.js?v=12042009.01"></script>
 	
     
 	<div class="container" id="container2"> <!-- Container END is in the footer -->
@@ -145,7 +181,7 @@
 				<div id="nav-bar">
             
 			<form id="">
-			    <div class="searchwrapper">
+			    <div class="searchwrapper clearfix">
 			        <ul id="search-menu">
 			            <li id="searchFor" onmouseover="$(this).addClassName('hover'); $('searchForList').style.display = '';" onmouseout="if(hideSearch){$(this).removeClassName('hover');$('searchForList').style.display = 'none'};">
 							<span class="nav-item">
@@ -165,7 +201,7 @@
 			    
 			    	<span class="fields"><input class="input-text" onkeydown="return submitOnEnter(event);" onfocus="autoSetup();" id="sq" type="text" size="8" maxlength="200" value=""> 
 			    	<span class="search-in">in</span> 
-			    	<input class="input-text" id="sl" type="text" onkeydown="return submitOnEnter(event);" size="8" maxlength="200" value="Address or City, State"></span>
+			    	<input class="input-text" id="sl" type="text" onkeydown="return submitOnEnter(event);" onfocus="this.select();" size="8" maxlength="200" value="Address or City, State"></span>
 			    </div>
 			</form>
 			<ul id="nav-main">
@@ -247,6 +283,13 @@
 			
 		</div> <!-- Close Header -->
 		
+            
+        <div id="ctl00_HeaderSiteWideHeaderMessage" class="HeaderSiteWideHeaderMessage" style="display:none;">
+            <a class="closeLink" onclick="setCampaignCookie();"></a>
+            <a class="HeaderSiteWideMessageClickableImage" href="http://www.centerd.com/content/iphoneapp.aspx"></a>
+            <div>Now you can get ideas for things to do and search for places with the Center'd iPhone app <a href="http://www.centerd.com/content/iphoneapp.aspx">Learn More</a></div>
+            <span class="clear"></span>
+        </div>
 		<script type="text/javascript">
 			//Do not move this script / depended on 'errorMessage' div
 			window.onscroll = onScrollHeaderElementPosition; 
@@ -344,6 +387,41 @@
 				 else 
 					return true;
 			}
+			
+			function CheckCampainCookies()
+            {
+		        var allcookies = document.cookie; 
+		        if(allcookies.indexOf("campaignCookie_Iphoneapp=")==-1)
+                    $$('.HeaderSiteWideHeaderMessage')[0].show();
+		    }
+		    function setCampaignCookie(){
+		        /*document.cookie = "campaignCookie_Iphoneapp=noshow; max-age=" + (60*60*24*364);*/
+		        createCookie("campaignCookie_Iphoneapp","noshow",365);
+		        $$('.HeaderSiteWideHeaderMessage')[0].style.display = "none";
+		    }
+		    function createCookie(name,value,days) {
+	            if (days) {
+		            var date = new Date();
+		            date.setTime(date.getTime()+(days*24*60*60*1000));
+		            var expires = "; expires="+date.toGMTString();
+	            }
+	            else var expires = "";
+	            document.cookie = name+"="+value+expires+"; path=/";
+            }
+
+            function readCookie(name) {
+	            var nameEQ = name + "=";
+	            var ca = document.cookie.split(';');
+	            for(var i=0;i < ca.length;i++) {
+		            var c = ca[i];
+		            while (c.charAt(0)==' ') c = c.substring(1,c.length);
+		            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+	            }
+	            return null;
+            }
+
+
+		    CheckCampainCookies();
 		</script>
 	    <div id="errorMessage" style="display:none">
 	        <a onclick="headerHideErrorMessage();" title="Close this message" class="close-msg">Close</a>
@@ -360,7 +438,7 @@
 		</div>
 		<div id="autoCompleteDiv" class="autocomplete" style="z-Index:5000;display: none;" name="autoCompleteDiv"></div>	
 		<form name="Form1" method="post" action="privacy.aspx" id="Form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDk1MjM2MDAyD2QWAmYPZBYKZg8PFgIeBFRleHQFXzxhIGlkPSdsb2dvJyBocmVmPSdodHRwOi8vd3d3LmNlbnRlcmQuY29tL215LycgdGl0bGU9J1Zpc2l0IHRoZSBDZW50ZXInZCBIb21lcGFnZSc+Y2VudGVyJ2Q8L2E+ZGQCAg8WAh8ABXggPGEgaWQ9Im15Y2VudGVyIiB0aXRsZT0iVmlldyB5b3VyIGRhc2hib2FyZCIgaHJlZj0iaHR0cDovL3d3dy5jZW50ZXJkLmNvbS9teS8iIGFjY2Vzc2tleT0iZiI+PHNwYW4+TXkgQ2VudGVyPC9zcGFuPjwvYT5kAgMPFgIfAAWJASA8YSBpZD0iZXhwbG9yZSIgdGl0bGU9IkV4cGxvcmUgcGxhY2VzLCBwZW9wbGUsIGFuZCBldmVudHMiIGhyZWY9Imh0dHA6Ly93d3cuY2VudGVyZC5jb20vZXhwbG9yZS8iIGFjY2Vzc2tleT0iZSI+PHNwYW4+RXhwbG9yZTwvc3Bhbj48L2E+ZAIEDxYCHwAFayA8YSBpZD0icGxhbnMiIHRpdGxlPSJNYWtlIHBsYW5zIiBocmVmPSJodHRwOi8vd3d3LmNlbnRlcmQuY29tL3BsYW5zLyIgYWNjZXNza2V5PSJwIj48c3Bhbj5QbGFuczwvc3Bhbj48L2E+ZAIFDw8WAh8ABVxXZWxjb21lIGJhY2ssIHBsZWFzZSA8YSBocmVmPSJodHRwOi8vd3d3LmNlbnRlcmQuY29tL2F1dGgvP3JlZGlyZWN0VXJsPS4uL215Ij5zaWduIGluPC9hPi4uLmRkZCJ5hiiY0P+b2uXsRKDAMKzLPuXA">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDk1MjM2MDAyD2QWAmYPZBYMZg8PFgIeBFRleHQFXzxhIGlkPSdsb2dvJyBocmVmPSdodHRwOi8vd3d3LmNlbnRlcmQuY29tL215LycgdGl0bGU9J1Zpc2l0IHRoZSBDZW50ZXInZCBIb21lcGFnZSc+Y2VudGVyJ2Q8L2E+ZGQCAg8WAh8ABXggPGEgaWQ9Im15Y2VudGVyIiB0aXRsZT0iVmlldyB5b3VyIGRhc2hib2FyZCIgaHJlZj0iaHR0cDovL3d3dy5jZW50ZXJkLmNvbS9teS8iIGFjY2Vzc2tleT0iZiI+PHNwYW4+TXkgQ2VudGVyPC9zcGFuPjwvYT5kAgMPFgIfAAWJASA8YSBpZD0iZXhwbG9yZSIgdGl0bGU9IkV4cGxvcmUgcGxhY2VzLCBwZW9wbGUsIGFuZCBldmVudHMiIGhyZWY9Imh0dHA6Ly93d3cuY2VudGVyZC5jb20vZXhwbG9yZS8iIGFjY2Vzc2tleT0iZSI+PHNwYW4+RXhwbG9yZTwvc3Bhbj48L2E+ZAIEDxYCHwAFayA8YSBpZD0icGxhbnMiIHRpdGxlPSJNYWtlIHBsYW5zIiBocmVmPSJodHRwOi8vd3d3LmNlbnRlcmQuY29tL3BsYW5zLyIgYWNjZXNza2V5PSJwIj48c3Bhbj5QbGFuczwvc3Bhbj48L2E+ZAIFDw8WAh8ABVxXZWxjb21lIGJhY2ssIHBsZWFzZSA8YSBocmVmPSJodHRwOi8vd3d3LmNlbnRlcmQuY29tL2F1dGgvP3JlZGlyZWN0VXJsPS4uL215Ij5zaWduIGluPC9hPi4uLmRkAggPFgIeB1Zpc2libGVnZGTVIQuTOkyt7c5wsPsUBXLnIGJZ+g==">
 
 <script type="text/javascript">function __getQueryContext(){var __cxt = new Object();return __cxt;}</script>								
 			<!-- Content -->
@@ -502,98 +580,114 @@
 			<!-- End Content -->									
 		</form>
 		
-
-<div id="footer">				
+<link rel="stylesheet" href="http://www.centerd.com/css/footer/footer.css" type="text/css">
+<div id="footer">	
     
-    
-    
-	<ul>
-		<li>
-			<h5>Explore</h5>
-			<ul>
-				<li><a rel="nofollow" href="http://www.centerd.com/explore/" title="">Places</a></li>
-				<li><a rel="nofollow" href="http://www.centerd.com/explore/?etype=events" title="">Events</a></li>
+        <!-- global nav links here -->
+		<div class="info_links clearfix footer_content">
+			<h3 class="float">Center’d</h3>
+			<ul class="float">
+				<li><a href="http://www.centerd.com/content/about.aspx" title="About Center'd">About Center'd</a>&nbsp;  | &nbsp;</li> 
+				<li><a rel="nofollow" href="http://www.centerd.com/content/team.aspx" title="The Center'd Team">Our Team</a>&nbsp;  |&nbsp;</li>
+				<li><a rel="nofollow" href="http://www.centerd.com/content/jobs.aspx" title="Jobs at Center'd">Jobs</a>&nbsp;  |  &nbsp;</li>
+				<li><a rel="nofollow" href="http://www.centerd.com/content/contact.aspx" title="Contact us at Center'd">Contact/Feedback</a>&nbsp;  | &nbsp;</li> 
+				<li><a rel="nofollow" href="http://www.centerd.com/content/terms.aspx" title="Center'd Terms of Service">Terms</a>&nbsp;  |  &nbsp;</li>
+				<li><a rel="nofollow" href="http://www.centerd.com/content/privacy.aspx" title="Center'd Privacy Policy">Privacy Policy</a></li>
+				<li class="follow_links">
+					<div class="clearfix">
+						<p class="float">Follow us:</p>
+							<ul class="float">
+								<li class="btn_twitter float btns"><a target="_blank" href="http://www.twitter.com/centerd" title="Center'd on Twitter">Twitter</a></li>
+								<li class="btn_facebook float btns"><a target="_blank" href="http://www.facebook.com/pages/Centerd/16306157450" title="Center'd on Facebook">Facebook</a></li>
+							</ul>
+					</div>
+				</li>
 			</ul>
-		</li>
-		
-	</ul>
-	<ul>
-	
-	    <li>
-			<h5>Plans</h5>
-			<ul>
+		</div>
+		<!-- END global nav links here -->
+	<div class="footer_links clearfix footer_content">	
+	    <ul>
+		    <li>
+			    <h5>Explore</h5>
+			    <ul>
+				    <li><a rel="nofollow" href="http://www.centerd.com/explore/" title="Center'd Maps">Maps</a></li>
+				    <li><a rel="nofollow" href="http://www.centerd.com/explore/?etype=events" title="Center'd Events">Events</a></li>
+			        <li><a href="http://www.centerd.com/city-guides" title="Center'd City Guides">City Guides</a></li>				
+			    </ul>
+		    </li>
+    		
+	    </ul>
+	    <ul>
+    	
+	        <li>
+			    <h5>Plans</h5>
+			    <ul>
 
-				<li><a rel="nofollow" href="http://www.centerd.com/plans/" title="">Make Plans</a></li>
-				<li><a rel="nofollow" href="http://www.centerd.com/calendars/" title="">Create a Calendar</a></li>
-				<li><a rel="nofollow" href="http://www.centerd.com/my/events/" title="">View My Plans</a></li>
-			</ul>
-		</li>
-	
-	</ul>
+				    <li><a rel="nofollow" href="http://www.centerd.com/plans/" title="Create an event with Center'd">Create an Event</a></li>
+				    <li><a rel="nofollow" href="http://www.centerd.com/plans/s/school-events/" title="Create a Calendar with Center'd">School Events</a></li>
+				    <li><a rel="nofollow" href="http://www.centerd.com/my/events/" title="View My Plans on Center'd">View My Plans</a></li>
+			    </ul>
+		    </li>
+    	
+	    </ul>
 
-	<ul>
-	    <li>
-			<h5>My Center</h5>
-			<ul>
-	            <li><a rel="nofollow" href="http://www.centerd.com/my/people/" title="">My People</a></li>
-				<li><a rel="nofollow" href="http://www.centerd.com/my/places/" title="">My Places</a></li>
-				<li><a rel="nofollow" href="http://www.centerd.com/my/events/" title="">My Plans</a></li>
-	        </ul>
-		</li>
-	</ul>
-	
-	<ul>
-	
-	    <li>
-			<h5>Help &amp; Support</h5>
-			<ul>
-				<li><a rel="nofollow" href="http://www.centerd.com/content/contact.aspx" title="Contact Center'd">Contact Us</a></li>
+	    <ul>
+	        <li>
+			    <h5>Account Information</h5>
+			    <ul>
+	                <li><a rel="nofollow" href="http://www.centerd.com/my/" title="Center'd Dashboard">Dashboard</a></li>
+				    <li><a rel="nofollow" href="http://www.centerd.com/my/account.aspx" title="My Center'd Account Settings">Account Settings</a></li>
+				    <li><a rel="nofollow" href="http://www.centerd.com/my/profiles.aspx" title="My Center'd Profile">My Profile</a></li>
+	            </ul>
+		    </li>
+	    </ul>
+    	
+    	<ul>
+    	
+	        <li>
+			    <h5>Resources</h5>
+			    <ul>
+				    <li><a rel="nofollow" href="http://www.centerd.com/search/widgets/create.aspx" title="Center'd Widgets">Widgets</a></li>
+				    <li><a rel="nofollow" href="http://www.centerd.com/content/iphoneapp.aspx" title="Center'd Iphone App">iPhone App</a></li>
+				    <li><a title="Center'd Driving Directions" href="http://www.centerd.com/directions/">Driving Directions</a></li>
+			    </ul>
+		    </li>
+    	
+	    </ul>
+	    <ul>
+    	
+	        <li>
+			    <h5>Blogs</h5>
+			    <ul>
+			        <li><a href="http://blogs.centerd.com" title="Center'd Things To Do Blog">Things to do Blog</a></li>
+			        <li><a href="http://www.28dots.com" title="Center'd Corporate Blog">Corporate Blog</a></li>			    
+    				
+			    </ul>
+		    </li>
+    	
+	    </ul>
+	    
+	    <ul>
+    	
+	        <li>
+			    <h5>Help &amp; Support</h5>
+			    <ul>
+				    <li><a rel="nofollow" href="http://www.centerd.com/content/contact.aspx" title="Contact Center'd">Contact Us</a></li>
 
-				<li><a rel="nofollow" href="http://www.centerd.com/content/faq.aspx" title="FAQ"><abbr title="Frequently Asked Questions">FAQs</abbr></a></li>
-			</ul>
-		</li>
-	
-	</ul>
-	<ul>
-	
-	    <li>
-			<h5>Resources</h5>
-			<ul>
-			    <li><a href="http://www.centerd.com/plans/s/school-events" title="School events"><strong>School Events</strong></a></li>
-			    <li><a href="http://www.centerd.com/places" title="Holiday planning center"><strong>City Guides</strong></a></li>
-			    <li><a href="http://blogs.centerd.com" title="Thanksgiving planning center"><strong>Things to do Blog</strong></a></li>
-				
-			</ul>
-		</li>
-	
-	</ul>
-	
-	<ul style=" width:120px">
-		<li>
-			<h5>Center'd</h5>
-			<ul>
-				<li><a href="http://www.centerd.com/content/about.aspx" title="About Center'd">About Us</a></li>
-				<li><a rel="nofollow" href="http://www.centerd.com/content/terms.aspx" title="Our Terms">Terms</a></li>
-				<li><a rel="nofollow" href="http://www.centerd.com/content/privacy.aspx" title="Our Privacy Policy">Privacy Policy</a></li>
-		    </ul>
-		</li>
-		
-	</ul>
-	<ul style=" width:125px;">
-	    <li>
-	        <h5>&nbsp;</h5>
-	        <ul>
-	            <li><a href="http://www.28dots.com" title="">Company Blog</a></li>
-	            <li><a href="http://www.centerd.com/content/team.aspx">Our Team</a></li>
-	            <li><a rel="nofollow" href="http://www.centerd.com/content/jobs.aspx">Join Our Team</a></li>
-	        </ul>
-	    </li>
-	</ul>
-	
+				    <li><a rel="nofollow" href="http://www.centerd.com/content/faq.aspx" title="FAQ"><abbr title="Frequently Asked Questions">FAQs</abbr></a></li>
+			    </ul>
+		    </li>
+    	
+	    </ul>
+	</div>
     
-    
-	<p><span class="right"><a rel="nofollow" href="#" title="Go back to the top of this page">Back to top</a></span>© 2008 Center'd, Corporation.  All rights reserved.</p>
-	
+    	
+	<!-- Copyright information -->
+		<div class="copyright clearfix footer_content">
+			<p class="float">© 2008 Center'd, Corporation.  All rights reserved.</p>
+			<p class="float-right"><a href="#">Back to top</a></p>
+		</div>
+	<!-- END Copyright information -->
 
 </div> <!-- Close Footer -->
 
@@ -604,9 +698,14 @@ try
     if(GUnload){Event.observe(window, 'unload', GUnload, false);}
 }
 catch(evrthng){}
+try{
 new Draggable('errorMessage');
 new Draggable('modalDialog', {'ghosting':false, 'starteffect':null, 'endeffect':null, 'reverteffect':null, 'endeffect':null});
-</script>	
+}
+catch(e){}
+</script>
+
+<!--Generated at 12/11/2009 1:31:38 PM -->	
 	
 
 </body></html>
