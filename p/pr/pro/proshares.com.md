@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proshares.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628085717id_/http%3A//www.proshares.com/1769146.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proshares.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211231652id_/http%3A//www.proshares.com/1769146.html) for the most accurate reproduction.*
 
 # ProShares ETFs - ETFs with Short or Leveraged Exposure to Market and Sector Indexes
 
