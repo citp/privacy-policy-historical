@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beatmyprice.com privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221065142id_/http%3A//www.beatmyprice.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beatmyprice.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211220755id_/http%3A//www.beatmyprice.com/static/privacy) for the most accurate reproduction.*
 
-# Your Privacy » BeatMyPrice.com
+# People Powered Price Comparison » BeatMyPrice.com
 
 We respect the privacy of the users of our website and services and are committed to protecting it. We have created this policy to demonstrate our commitment to you and to help you understand it.
 
