@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamefly.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419163803id_/http%3A//www.gamefly.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamefly.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211031406id_/http%3A//www.gamefly.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # GameFly: Privacy Policy
 
@@ -77,6 +77,10 @@ You may sign up to receive GameFly SMS Alerts to your mobile device that inform 
 ####  Contact Us Form
 
 If you choose to contact us using this form, we may ask you to provide your first name, e-mail address, and a description of your question or comment. This form is intended for questions and comments only. We use the information you provide solely to respond to your inquiry and for no other purpose. We may retain and aggregate your comments for demographic purposes and to improve our service.
+
+#### Sharing Pages With Friends
+
+When you use the GameFly website or the GameCenter iPhone App to share pages with your friends, GameFly does not store or collect any of the information you enter (email addresses, login information, etc...) to share these pages. Because we don't store your information or your friends' information, we will never send spam to you or your friends, or sell your personal information to others.
 
 ###  What happens if I refuse to provide my personal information to GameFly?
 
