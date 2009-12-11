@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the filmicity.in privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629003355id_/http%3A//www.filmicity.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmicity.in privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211220257id_/http%3A//www.filmicity.in/privacy.html) for the most accurate reproduction.*
 
 # Filmi City - Watch Movies Online
 
-[ ](https://web.archive.org/web/20090629003355id_/http%3A//www.filmicity.in/index.php)
+[ ](https://web.archive.org/web/20091211220257id_/http%3A//www.filmicity.in/index.php)
 
 * * *
 
@@ -31,7 +31,7 @@ However the internet is an ever evolving medium. We may change our privacy polic
 
 Any questions or clarifications with respect to this Policy can be sent to FilmiCity.in at : filmicity [at] yahoo dot com.
 
-[  Back to FilmiCity](https://web.archive.org/web/20090629003355id_/http%3A//www.filmicity.in/index.php)
+[  Back to FilmiCity](https://web.archive.org/web/20091211220257id_/http%3A//www.filmicity.in/index.php)
 
 * * *
 
