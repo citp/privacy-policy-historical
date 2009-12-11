@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the proshares.com privacy policy that was archived on 2009-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090628085717id_/http%3A//www.proshares.com/1769146.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the proshares.com privacy policy that was archived on 2009-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091211231652id_/http%3A//www.proshares.com/1769146.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -8,219 +8,50 @@
 			
 						<meta name="verify-v1" content="9zQfukr7b6nYzLdcMfL692wFEY1s1C6EyI3jc8jNR/Q="> 
 			<meta name="y_key" content="397951c22336827f"> 
-			<meta name="Description" content=" ProShares, the first ETFs that let you get short exposure or magnified exposure to major indexes. Exchange Traded Funds ... Chapter 2, from ProFunds Group. ">
-			<meta name="Keywords" content="ProShares, ProShare, short ETFs, china bubble, pro share, proshares.com, ProFunds, funds, ETF, ETF trading, S&amp;P 500, QQQ, Dow Jones, DJIA, leverage, shorting, bear, bull, ETF investing, exchange traded, index fund, portfolio management, advisor, financial professional, individual investor, financial services, asset allocation, core satellite,tactical rotation ">
+			<meta name="Description" content=" ProShares, the first ETFs that let you get short  short or magnified exposure to major indexes. ">
+			<meta name="Keywords" content="ProShares, ProShare, short ETFs, leveraged ETFs, china bubble, pro share, proshares.com, ProFunds, funds, ETF, ETF trading, S&amp;P 500, QQQ, Dow Jones, DJIA, leverage, shorting, bear, bull, ETF investing, exchange traded, index fund, portfolio management, advisor, financial professional, individual investor, financial services, asset allocation, core satellite,tactical rotation ">
 			<meta http-equiv="content-type" content="application/xhtml+xml; charset=utf-8">
 			<meta name="robots" content="index, follow">
 						
 <!-- JavaScript : Include and embedded version -->
 
 
-			<link rel="shortcut icon" href="http://media.proshares.com/designimages/favicon.ico">
-						<link rel="stylesheet" href="http://www.proshares.com/includes/master.css" media="screen,projection" type="text/css">
-			<link rel="stylesheet" href="http://www.proshares.com/includes/styles.css" media="screen,projection" type="text/css">
+			<link rel="shortcut icon" href="/media/designimages/favicon.ico">
+						<link rel="stylesheet" href="/includes/master.css" type="text/css">
+			<link rel="stylesheet" href="/includes/styles.css" type="text/css">
 			
 
+						<link rel="stylesheet" href="/includes/thickbox.css" type="text/css">
+						<script type="text/javascript" src="/includes/qtip.js"></script>
+
 			
-						<script type="text/javascript">
+			<link rel="stylesheet" href="/includes/popup.css" type="text/css">
 
-//////////////////////////////////////////////////////////////////
-// qTip - CSS Tool Tips - by Craig Erskine
-// http://qrayg.com
-//
-// Multi-tag support by James Crooke
-// http://www.cj-design.com
-//
-// Inspired by code from Travis Beckham
-// http://www.squidfingers.com | http://www.podlob.com
-//////////////////////////////////////////////////////////////////
 
-var qTipTag = "a"; //Which tag do you want to qTip-ize? Keep it lowercase!//
-var qTipX = 0; //This is qTip's X offset//
-var qTipY = 15; //This is qTip's Y offset//
-
-//There's No need to edit anything below this line//
-tooltip = {
-  name : "qTip",
-  offsetX : qTipX,
-  offsetY : qTipY,
-  tip : null
-}
-
-tooltip.init = function () {
-	var tipNameSpaceURI = "http://www.w3.org/1999/xhtml";
-	if(!tipContainerID){ var tipContainerID = "qTip";}
-	var tipContainer = document.getElementById(tipContainerID);
-
-	if(!tipContainer) {
-	  tipContainer = document.createElementNS ? document.createElementNS(tipNameSpaceURI, "div") : document.createElement("div");
-		tipContainer.setAttribute("id", tipContainerID);
-	  document.getElementsByTagName("body").item(0).appendChild(tipContainer);
-	}
-
-	if (!document.getElementById) return;
-	this.tip = document.getElementById (this.name);
-	if (this.tip) document.onmousemove = function (evt) {tooltip.move (evt)};
-
-	var a, sTitle, elements;
+	<script type="text/javascript" src="/includes/utility.js"></script>
 	
-	var elementList = qTipTag.split(",");
-	for(var j = 0; j < elementList.length; j++)
-	{	
-		elements = document.getElementsByTagName(elementList[j]);
-		if(elements)
-		{
-			for (var i = 0; i < elements.length; i ++)
-			{
-				a = elements[i];
-				sTitle = a.getAttribute("title");				
-				if(sTitle)
-				{
-					a.setAttribute("tiptitle", sTitle);
-					a.removeAttribute("title");
-					a.removeAttribute("alt");
-					a.onmouseover = function() {tooltip.show(this.getAttribute('tiptitle'))};
-					a.onmouseout = function() {tooltip.hide()};
-				}
-			}
-		}
-	}
-}
+	  	
+			<script type="text/javascript" src="/includes/jquery-1.3.2.js"></script>
+<script type="text/javascript" src="/includes/search.js"></script>
 
-tooltip.move = function (evt) {
-	var x=0, y=0;
-	if (document.all) {//IE
-		x = (document.documentElement && document.documentElement.scrollLeft) ? document.documentElement.scrollLeft : document.body.scrollLeft;
-		y = (document.documentElement && document.documentElement.scrollTop) ? document.documentElement.scrollTop : document.body.scrollTop;
-		x += window.event.clientX;
-		y += window.event.clientY;
-		
-	} else {//Good Browsers
-		x = evt.pageX;
-		y = evt.pageY;
-	}
-	this.tip.style.left = (x + this.offsetX) + "px";
-	this.tip.style.top = (y + this.offsetY) + "px";
-}
+	        
 
-tooltip.show = function (text) {
-	if (!this.tip) return;
-	this.tip.innerHTML = text;
-	this.tip.style.display = "block";
-}
-
-tooltip.hide = function () {
-	if (!this.tip) return;
-	this.tip.innerHTML = "";
-	this.tip.style.display = "none";
-}
-
-window.onload = function () {
-	tooltip.init ();
-}
-
-</script>
-
-			
-			<link rel="stylesheet" href="http://www.proshares.com/includes/popup.css" type="text/css">
-
-
-	<script language="JavaScript">
-		function setUnUsed(searchField)
-		{
-			var defaultValue;	
-			switch (searchField.name)
-			{
-				case "Symbol":
-					defaultValue = "Symbol(s)";
-					break;
-				case "value":
-					defaultValue = "Keyword(s)";
-					break;
-			}
-			if (searchField.value == defaultValue)
-			{
-				searchField.className = searchField.className + " unUsed";
-			}
-		}
-		
-		function checkUnUsed(searchField)
-		{
-			if (searchField.tagName.toLowerCase() == "input" && searchField.className.indexOf("unUsed") >= 0)
-			{
-				searchField.value = "";
-			}
-
-			return true;
-		}
-		
-		function searchFieldOnFocus(searchField)
-		{
-			var index = searchField.className.indexOf("unUsed");
-			if (index >= 0)
-			{
-				searchField.value = "";
-				if (index == 0)
-				{
-					if (searchField.className.match("unUsed "))
-					{
-						searchField.className = searchField.className.replace("unUsed ", "");
-					}
-					else
-					{
-						searchField.className = searchField.className.replace("unUsed", "");
-					}
-				}
-				else
-				{
-					searchField.className = searchField.className.replace(" unUsed", "");
-				}
-			}
-		}
-		
-		function checkQuoteBoxForm () {
-		
-			var strSymbol = document.quotebox.Symbol.value;
-			strSymbol = strSymbol.replace(/\ /g, "+");
-			var strUrl = document.quotebox.Location.value;
-			var vc = '';
-			
-			if(document.quotebox.vc)
-			{
-				vc = document.quotebox.vc.value;
-			}
-			
-			if (strSymbol == "") {
-				alert("Please enter a symbol");
-				return false;
-			}
-			else {		
-				strUrl = document.quotebox.Location.value + strSymbol + "&vc=" + vc + "&dist=dropmenu";
-				window.location = strUrl;
-				return false;
-			}
-		
-		}
-	</script>
-
+<script type="text/javascript" src="includes/thickbox.js"></script>
 				
 	
 
-	</head>
+	    <link rel="stylesheet" href="/includes/print.css" media="print" type="text/css">
+    <link rel="stylesheet" type="text/css" href="/includes/email.css">
+    <script type="text/javascript" src="/includes/email.js"></script>
+</head>
+
 
 		     <body id="Overview">
 	
 	
 			
-<script language="javascript1.2">var partnerID=87921; var _hb=1;</script><script language="javascript1.2" src="http://www.clickability.com/includes/button1.js"></script>
-<script language="Javascript">var js="0.0";</script><script language="Javascript1.0">js="1.0";</script><script language="Javascript1.1">js="1.1";</script><script language="Javascript1.2">js="1.2";</script><script language="Javascript1.3">js="1.3";</script><script language="Javascript1.4">js="1.4";</script><script language="Javascript1.5">js="1.5";</script><script language="Javascript1.6">js="1.6";</script><script language="Javascript1.7">js="1.7";</script><script language="Javascript1.8">js="1.8";</script><script language="Javascript1.9">js="1.9";</script><script language="javascript1.1" type="text/javascript"> 
-<!-- 
-var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");var ns=(navigator.appName.substring(0,9)=="Microsoft");var _qDate=new Date();var _r=(document.referrer.indexOf(getdomain(location))>-1?"":document.referrer);_q+="&5="+parseInt(_qDate.getTimezoneOffset());_q+="&35="+parseInt(_qDate.toString().indexOf("aylight")>-1?1:0);_q+="&6=1769146";_q+="&7=87921";_q+="&8="+escape(document.location);_q+="&9="+escape(_r);_q+="&10="+escape(document.title);_q+="&11="+escape(navigator.userAgent);_q+="&12="+escape((na?navigator.language:navigator.userLanguage));_q+="&13="+((navigator.javaEnabled()?'1':'0'));_q+="&14="+escape(js);if(document.cookie.indexOf("cc")==-1)document.cookie="cc=t;";_q+="&15="+((document.cookie.indexOf("cc")==-1)?"0":"1");_q+="&16="+escape((screen.width+'x'+screen.height));_q+="&17="+escape(((ns)?screen.colorDepth:screen.pixelDepth));_q+="&18="+escape(Math.random());_q+="&19="+_ti;bb.src="http://s.clickability.com/s?"+_q;
-function setonclicks(a,b){var i=0;var retval=true;while(document.links[i]!=a){i++;}if(b.li[i])retval=b.li[i].oldonclick();bye(a);return retval;}
-function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.links.length;lnks.li=new Array(sze);for (var i=0; i<sze; i++){if(document.links[i].onclick){lnks.li[i]=document.links[i];lnks.li[i].oldonclick=document.links[i].onclick;}eval("document.links[i].onclick=function(){return setonclicks(this,lnks);}");}}function bye(a){if(a.href.toLowerCase().indexOf('http')!=0)return true;if(getdomain(location)==getdomain(a))return true;if(a.href.toLowerCase().indexOf('http')!=0)return true;var _qc="http://s.clickability.com/s?19=912";_qc+="&6=1769146";_qc+="&7=87921";_qc+="&18="+escape(Math.random());_qc+="&100="+a.href;_qc+="&101="+escape(a.text);var cc=new Image();if(na){cc.src=_qc;pc(100);}else cc.src=_qc;return true;}function pc(a){d = new Date(); while (1){m =new Date(); df = m-d;if( df > a ) {break;}}}function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}if(dosetup && ((window.screen)||((new Array()).toSource)||((new Array()).shift&&ns))&&(navigator.userAgent.indexOf('Mac')<0)){if(window.onload){oldonld=window.onload;hasonload=true;}window.onload=newonld;var setupalready = true;}//-->
-</script><noscript>
-<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=1769146&7=87921&18=0.464446085887417">
-</noscript>
+
+
 
 
 			<a name="top"></a>
@@ -235,38 +66,33 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
      				<div id="GlobalNavWrapper">
           				<div id="GlobalNav">
           					<ul>
-          						<li><a href="/">Home</a></li>
-          						<li><a href="/help/contact">Contact Us</a></li>
-          						          						<li><a href="/updates">Get News Updates</a></li>
-          						<li><a href="http://www.profunds.com" target="_blank">ProFunds.com</a></li>
+          						<li><a href="/index.html">Home</a></li>
+          						<li><a href="/help/contact.html">Contact Us</a></li>
+          						          						<li><a href="/updates.html">Get News Updates</a></li>
+          						<li class="last"><a href="http://www.profunds.com" target="_blank">ProFunds.com</a></li>
           						</ul>
           					</div>
           		
 							<div id="Search">
-          		               		<form name="search" action="/search">
-               			<input name="searchKeywords" type="text" class="disclaimerGray unUsed" size="20" autocomplete="off" onfocus="searchFieldOnFocus(this);" value="Enter Search">
+          		               		<form name="search" action="/search.form">
+               			<input name="query" type="text" class="disclaimerGray unUsed" size="20" autocomplete="off" onfocus="searchFieldOnFocus(this);" value="Enter Search">
                			<input type="submit" class="submitLink" value="submit">
                          </form>
                               	</div>
      		<!-- necessary non-breaking space to fix CSS height issue without stating pixel height -->&nbsp;
      	</div>     	
   
-     	<img src="http://media.proshares.com/designimages/logo_test_01.gif" width="800" height="83" alt="ProShares ETFs - ETFs with Short or Leveraged Exposure to  Market and Sector Indexes" title="ProShares ETFs - ETFs with Short or Leveraged Exposure to  Market and Sector Indexes" border="0" usemap="#Map">
-     	<map name="Map" id="Map"><area shape="rect" coords="6,12,272,80" href="/" target="_top" alt="Proshares.com"></map>
-
-<!--
-
-<font color=#FF0000>We are, unfortunately, continuing to experience technical difficulties in displaying updated prices.  We are working to resolve the problem and apologize for any inconvenience caused.</font></p>  
+     	<img src="/media/designimages/logo_test_01.gif" width="800" height="83" alt="ProShares ETFs - ETFs with Short or Leveraged Exposure to  Market and Sector Indexes" title="ProShares ETFs - ETFs with Short or Leveraged Exposure to  Market and Sector Indexes" border="0" usemap="#Map">
+     	<map name="Map" id="Map"><area shape="rect" coords="6,12,272,80" href="/index.html" target="_top" alt="Proshares.com"></map>
 
 
--->
 
      	
      	<div id="MainNav">
      	     	 <ul>
-     	  <li><a href="/abtfunds">About ProShares</a></li>
-     	  <li><a href="/funds">Products</a></li>
-                         	  <li><a href="/resources">Resources</a></li>
+     	  <li><a href="/abtfunds.html">About ProShares</a></li>
+     	  <li><a href="/funds/index.html">Products</a></li>
+                         	  <li><a href="/resources.html">Resources</a></li>
      	 </ul>
      	     			<!-- necessary non-breaking space to fix CSS height issue without stating pixel height -->&nbsp;
      	</div>	
@@ -295,7 +121,7 @@ or email us at <a href="mailto:info@proshares.com">info@proshares.com</a></p></d
 
 
 		<!-- GRADIENT -->
-		<div id="Gradient" style="background-image: url('http://media.proshares.com/designimages/corporate_gradient.gif');"><img src="http://media.proshares.com/designimages/spacer.gif" height="28" border="0"></div>
+		<div id="Gradient" style="background-image: url('/media/designimages/corporate_gradient.gif');"><img src="/media/designimages/spacer.gif" height="28" border="0"></div>
 			
 		<!--startclickprintinclude-->
 		<div id="Content">
@@ -310,20 +136,12 @@ or email us at <a href="mailto:info@proshares.com">info@proshares.com</a></p></d
 		<!--section: www.proshares.com  parent: $cms.parent($section.name).name <br>-->
 		<!--section: www.proshares.com  parent: $cms.parent($section.name).name <br>-->
 	<!--0-->
-<div id="Breadcrumb">	
-<script language="javascript1.2">var partnerID=90867; var _hb=1;</script><script language="javascript1.2" src="http://www.clickability.com/includes/button1.js"></script>
+<div id="Breadcrumb">
 <div id="btnMore">
-	<a onmouseover="return(STMouseOver());" onclick="return(ST());" onmouseout="return(STMouseOut());" href="#">save</a>
-</div>
-<div id="btnMore">
-	<a onmouseover="return(ETMouseOver());" onclick="return(ET());" onmouseout="return(ETMouseOut());" href="#">email</a>
-</div>
-<div id="btnMore">
-	<a onmouseover="return(PTMouseOver());" onclick="return(PT());" onmouseout="return(PTMouseOut());" href="#">print</a>
-</div>
-
+	<a href="javascript:SendPopup.Open();">email</a>
+</div>	
 <div id="breadlinks">
-<a href="/">Home</a> &gt;
+<a href="/index.html">Home</a> &gt;
 
 	</div>
 </div>
@@ -378,7 +196,7 @@ or email us at <a href="mailto:info@proshares.com">info@proshares.com</a></p></d
 	<!-- BEGIN Footer Copyright -->
 	<div id="FooterCopy">ProShares registered under the Investment Company Act of 1940 are distributed by SEI Investments Distribution Co., which is not affiliated with ProFunds Group or its affiliates.
 
-<b>Your use of this site signifies that you accept our <a href="/1769141.html">Terms &amp; Conditions of Use</a> </b><br>| <a href="/1769146.html">Privacy Policy</a> | <a href="/resources/litcenter">Obtain Prospectus</a> | <a href="http://vds.issproxy.com/SearchPage.php?CustomerID=101673">Proxy Voting</a>| 
+<b>Your use of this site signifies that you accept our <a href="/1769141.html">Terms &amp; Conditions of Use</a> </b><br><br><a href="/privacy/index.html">Privacy Policy</a> | <a href="/resources/litcenter.html">Obtain Prospectus</a> | <a href="http://vds.issproxy.com/SearchPage.php?CustomerID=101673">Proxy Voting</a> 
 
 
 	</div>
@@ -407,7 +225,55 @@ urchinTracker();
 </script> 	
 
 
+<!-- Email This Page -->
+<div id="send_container" style="display:none;">
+	<div class="email_frame">
+		<div class="email_form section">
+		    <h2>Email This Page</h2>
+    		<form class="block" action="/email_page.form" onsubmit="return(SendPopup.Submit())">
+    		    <div class="field">
+    			    <label for="send_to">To: 
+    			        <span class="error" id="send_to_required">*Required</span>
+    			        <span class="error" id="send_to_invalid">*Invalid Email Address</span>
+    			    </label> 
+    			    <input type="text" id="send_to" value="">
+    			</div>
+    			<div class="field">
+    			    <label for="send_from">From: 
+    			        <span class="error" id="send_from_required">*Required</span>
+    			        <span class="error" id="send_from_invalid">*Invalid Email Address</span>
+    			    </label>
+    			    <input type="text" id="send_from" value="">
+    			</div>
+    			<div class="field">
+        			<label for="send_subject">Subject: <em>(Optional)</em></label> 
+        			<input type="text" id="send_subject" value="">
+        		</div>
+        		<div class="field">
+        			<label for="send_message">Message: <em>(Optional)</em></label>
+        			<textarea id="send_message"></textarea>
+        		</div>
+        		<div class="buttons">
+        		    <input type="submit" value="Send">
+        		    <input type="submit" value="Cancel" onclick="return(SendPopup.Close());">
+        		</div>
+    		</form>
+    	</div>
+		<div class="thank_you section">
+			<h2>Thank You</h2>
+			<div class="block">
+				<p>Your message has been sent.</p>
+				<p><input type="submit" value="  Done  " onclick="return(SendPopup.Close());"></p>
+			</div>
+		</div>	
+		<div class="mail_failed section">
+			<h2>Sorry</h2>
+			<div class="block">
+				<p>Your message could not be sent.</p>
+				<p><input type="submit" value="  Done  " onclick="return(SendPopup.Close());"></p>
+			</div>
+		</div>
+	</div>
+</div>
 
-
-
-<div id="qTip"></div></body></html>
+</body></html>
