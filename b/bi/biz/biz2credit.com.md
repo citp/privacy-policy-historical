@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biz2credit.com privacy policy that was archived on 2009-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090508005653id_/http%3A//www.biz2credit.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biz2credit.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211212935id_/http%3A//www.biz2credit.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Biz2Credit
 
@@ -93,7 +93,7 @@ We want you to feel confident using our website for business transactions. Howev
    
 **No Spam, Spyware or Spoofing**  
    
-We and our users do not tolerate spam. Make sure to set your Biz2Credit notification preferences so we communicate to you as you prefer. To report Biz2Credit-related spam or spoof emails to Biz2Credit, please forward the email to privacy@biz2credit.com.You may not use our communication tools to send spam or otherwise send content that would violate our User Agreement. We automatically scan and may manually filter messages to check for spam, viruses, phishing attacks and other malicious activity or illegal or prohibited content..   
+We and our users do not tolerate spam. Make sure to set your Biz2Credit notification preferences so we communicate to you as you prefer. To report Biz2Credit-related spam or spoof emails to Biz2Credit, please forward the email to [privacy@biz2credit.com](mailto:privacy@biz2credit.com).You may not use our communication tools to send spam or otherwise send content that would violate our User Agreement. We automatically scan and may manually filter messages to check for spam, viruses, phishing attacks and other malicious activity or illegal or prohibited content..   
    
 **OTHER INFORMATION ABOUT OUR PRIVACY PRACTICES**  
    
@@ -106,7 +106,7 @@ If you are a resident of California, in addition to the rights set forth in this
 
   
    
-We may provide this information in a standardized format that is not specific to you. The designated e-mail address for these requests is privacy@biz2credit.com  
+We may provide this information in a standardized format that is not specific to you. The designated e-mail address for these requests is [privacy@biz2credit.com](mailto:privacy@biz2credit.com)  
    
 **Children’s privacy**  
    
@@ -128,6 +128,6 @@ If you have any questions about this Privacy Policy or our information-handling 
 Biz2Credit, LLC  
 155 E. 55th St., Suite 302A  
 New York, NY 10022  
-privacy@biz2credit.com  
+[privacy@biz2credit.com](mailto:privacy@biz2credit.com)  
 © 2008 Biz2Credit. All rights reserved.  
  
