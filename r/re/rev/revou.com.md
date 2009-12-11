@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revou.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609130320id_/http%3A//www.revou.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revou.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211213936id_/http%3A//www.revou.com/privacy.php) for the most accurate reproduction.*
 
 # Twitter clone PHP social networking script. Micro blogging social network software - IM/SMS/Web. Start your own site just like twitter and jaiku.
 
@@ -25,6 +25,10 @@ Similar to other commercial web sites, our web site utilizes a standard technolo
   
 Contacting REVOU  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can us at:
+
+Aug 20, 2009
+
+[ Lunch.com - Twitter for micro-reviews](http://blog.revou.com/2009/08/20/lunchcom-twitter-for-micro-reviews/)
 
 Apr 28, 2009
 
@@ -58,17 +62,9 @@ Aug 07, 2008
 
 [ ReVou now supports Twitter posting](http://blog.revou.com/2008/08/07/revou-now-supports-twitter-posting/)
 
-Aug 07, 2008
-
-[ Twitter meets Yahoo Answers, cool or not?](http://blog.revou.com/2008/08/07/twitter-meets-yahoo-answers-cool-or-not/)
-
 July 24, 2008
 
 [ Multi-Language Support ](http://blog.revou.com/2008/07/24/multi-language-support-for-revou/) [ for ReVou](http://blog.revou.com/2008/07/24/multi-language-supoprt-for-revou/)
-
-July 3, 2008
-
-[ In search for language translators for ReVou](http://blog.revou.com/2008/07/03/in-search-for-language-translators-for-revou/)
 
 July 1, 2008  
 [ Why should you run your own Twitter clone site?](http://blog.revou.com/2008/07/01/not_another_twitter_clone_site/)
