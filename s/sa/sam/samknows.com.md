@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the samknows.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617034151id_/http%3A//samknows.com/broadband/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samknows.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211200546id_/http%3A//www.samknows.com/broadband/privacy.php) for the most accurate reproduction.*
 
 # SamKnows Broadband - Privacy Policy
-
-## Privacy Policy
 
 If you have any queries relating to our use of your personal data or any other data protection or privacy policy issues then please contact us at [team@samknows.com](mailto:team@samknows.com). 
 
