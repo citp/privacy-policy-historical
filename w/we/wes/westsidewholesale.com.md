@@ -1,76 +1,43 @@
-> *The following text is extracted and transformed from the westsidewholesale.com privacy policy that was archived on 2005-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050608084323id_/http%3A//www.westsidewholesale.com/yourprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westsidewholesale.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211195710id_/http%3A//www.westsidewholesale.com/privacy_policy) for the most accurate reproduction.*
 
-# Supplier of light fixtures,Wiring,Commercial light fixtures,Home light fixtures,Electrical Supplier,kitchen lighting,low voltage lighting,lighting design,lightolier,contemporary lighting,led lighting,halo lighting,discount lighting,lutron,electrical supply,full spectrum lighting,exterior lighting,wiremold,interior lighting,residential lighting,commercial lighting,home lighting fixtures,electrical switches,electrical wire,electrical supplies online,industrial lighting,outdoor lighting fixtures,fluorescent lighting,bathroom lighting fixtures,electrical outlets,lighting companies,flourescent lighting,indoor lighting,electrical parts,lighting manufacturers,electrical suppliers,decorative lighting,discount lighting fixtures,kitchen lighting fixtures,lighting supplies,elco connectors,lighting controls,wholesale lighting,electrical products,wholesale electrical supplies,lightolier lighting,commercial lighting fixtures,nuheat,lighting fixtures online
+# Privacy Policy
 
-**Our Commitment to Privacy**
+### Privacy Policy Statement
 
-Westside Wholesale.com values its customers and respects their privacy. We are committed to protecting the privacy of our customers and using this information responsibly. Please read below for detailed information about our Privacy Policy.
+Westside Wholesale uses the latest security software to ensure the security your personal information. Information will never be sold or given to other parties; customers will only receive emails pertaining to their orders or account information unless they have selected to receive promotional emails. Cookies are only used to save the customer’s shopping cart information and to help improve the shopping experience. Phone calls are only made when there is an issue pertaining to an order; phone numbers will never be used for marketing purposes. Customer credit card information is never saved in our system to ensure security.
 
-Westside Wholesale.com reserves the right to modify or amend this Privacy Policy at any time and for any reason.
+**Our postal address is:  
+5670 Rickenbacker Rd  
+Bell, CA, 90201**
 
-If you have questions about Westside Wholesale.com’s Privacy Policy, please feel free to call us at 1.323.939.7979 or email us at [**customercare@westsidewholesale.com**](mailto:customercare@westsidewholesale.com)
+We can be reached via e-mail at: [](mailto:info@westsidewholesale.com)[info@westsidewholesale.com](mailto:info@westsidewholesale.com?subject=Question%20about%20Privacy%20Policy) or you can reach us by telephone at 877-939-7979.
 
-  * **Scope of this Privacy Policy**
-  * **Information Collection and Use**
-  * **Information Sharing and Disclosure**
-  * **Information Security**
-  * **Account Information and Preferences**
-  * **Notice for European Users**
-  * **Changes to this Privacy Policy**
+For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
+We collect only the domain name, but not the e-mail address of visitors to our Web page, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
 
+The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site.
 
-**Scope of this Privacy Policy**
+With respect to cookies: We use cookies to record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, record past activity at a site in order to provide better service when visitors return to our site.
 
-This Privacy Policy covers Westside Wholesale.com's treatment of personally identifiable information collected from merchants (hereafter "merchant" or "you") who use the Westside Wholesale.com payment gateway services, as well as consumer information that we acquire in the course of our business. This Policy also covers the treatment of personally identifiable information that Westside Wholesale.com's business partners may share with it.
+To receive emailed newsletters you can choose to subscribe when creating your account. If you do not want to receive e-mail from us in the future, you may change your account preferences to be unsubscribed from future mailings.
 
-This Policy does not apply to the practices of companies that Westside Wholesale.com does not own or control, or to people that Westside Wholesale.com does not employ or manage. Westside Wholesale.com is a wholly owned subsidiary of InfoSpace, Inc. This Policy is specific to Westside Wholesale.com and does not apply to www.infospace.com or other Web sites or Internet services that are part of the InfoSpace Network.
+If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
 
-**Information Collection and Use**
+Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
 
-Westside Wholesale.com collects personally identifiable information when you register for an Westside Wholesale.com account, and when you use certain Westside Wholesale.com products and services. Westside Wholesale.com may also receive personally identifiable information from its resellers and other business partners.
+With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.
 
-When you register with Westside Wholesale.com, we ask for your contact information (such as your name, street address and email address), as well as certain information pertaining to your business, along with billing information such as a bank account and/or credit card number.
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
-In the course of processing a payment transaction, we typically receive from the merchant or a financial institution information related to the transaction. This normally includes information about the payment that a consumer has furnished the merchant or financial institution in placing the order. We do not acquire any information directly from consumers through the www.authorizenet.com Web site.
+Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address.
 
-The personally identifiable information we acquire in processing payment transactions varies according to the nature of the transaction and the way in which merchants or financial institutions are using our payment services. It may include, for example, the amount of the transaction, the consumer's name, credit card number and expiration date, checking account number, billing address, and shipping address.
+Upon request we provide site visitors with access to unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, contact information (e.g., name, address, phone number) that we maintain about them.
 
-Westside Wholesale.com uses the information collected to fulfill your requests for certain products and services, to process payment transactions, to facilitate billing, and otherwise deliver the payment gateway services. We may also send merchants service announcements, newsletters, and periodic notices about specials and new products. Personally identifiable consumer information is used to process payment transactions and for no other purpose.
+Consumers can access this information by write to us at the above address or you may obtain account information by logging into your account.
 
-Westside Wholesale.com does not offer services or sell products to children. Westside Wholesale.com does not request or knowingly collect personally identifiable contact information from anyone under the age of 13.
+Consumers can have this information corrected by sending us e-mail at the above address, calling us at the above telephone number or customers can update their information from their user account.
 
-**Information Sharing and Disclosure**
+With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
-Protecting personally identifiable information about merchants and consumers is an important part of our business. We share and disclose such information only as described below.
-
-Westside Wholesale.com will send personally identifiable information about you to other companies or people when: 1) we have your consent to share the information; 2) we need to share your information to provide the product or service you have requested; 3) we need to send the information to companies who work on behalf of Westside Wholesale.com to provide a product or service to you (unless we tell you differently these companies do not have any right to use the personally identifiable information we provide them beyond what is necessary to assist us).
-
-Personally identifiable consumer information is shared with third parties (such as banks and credit card processors) to the extent necessary for Westside Wholesale.com to deliver payment processing services.
-
-We also may release personally identifiable information when we believe release is appropriate to comply with law; enforce or apply our Merchant Agreement and other agreements; or protect the rights, property, or safety of Westside Wholesale.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and risk reduction.
-
-In the unlikely event that Westside Wholesale.com is acquired, merchant account information may be one of the transferred assets.
-
-**Information Security**
-
-Information security is critical to our business. We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. We store information gathered on secure computers located in a locked data center. The number of employees involved in the management of the data center that have physical access to these computers is limited. We use firewalls and other security technology to prevent our computers from being accessed by unauthorized persons.
-
-We also require that any personally identifiable consumer information sent to us by you be encrypted using SSL encryption. To learn more about SSL, go to: [**http://webopedia.internet.com/TERM/S/SSL.html**](http://webopedia.internet.com/TERM/S/SSL.html).
-
-It is important for you to protect against unauthorized access to your Login ID/password and to your computer. Be sure to sign off when finished using a shared computer and otherwise protect the password used to access the Westside Wholesale.com services.
-
-**Account Information and Preferences**
-
-Westside Wholesale.com gives you the ability to edit your Westside Wholesale.com Account Information and preferences at any time, including whether you want Westside Wholesale.com to contact you about specials and new products, by using the Settings option in your Merchant Menu (see the Westside Wholesale.com Merchant Menu User Guide for more details), or by emailing us at [**customercare@westsidewholesale.com**](mailto:customercare@westsidewholesale.com).
-
-**Notice for European Users**
-
-Westside Wholesale.com is located in the United States. Any information that you provide to Westside Wholesale.com will be transferred out of the EU to the United States. By providing personal information to us, you are consenting to its storage and use as described herein.
-
-**Changes to this Privacy Policy**
-
-Westside Wholesale.com reserves the right to modify or amend this Privacy Policy at any time and for any reason. If there are material changes to this statement or in how Westside Wholesale.com will use personally identifiable information, Westside Wholesale.com will post notice on the Westside Wholesale.com homepage at www.authorizenet.com prior to implementing the change. If you have additional questions about this Policy, please contact us at [**customercare@westsidewholesale.com**](mailto:customercare@westsidewholesale.com).
-
-**Back to Top**  
-
+If you feel that this site is not following its stated information policy, you may contact us at the above address or phone number.
