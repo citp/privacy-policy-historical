@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spidersolitaire.org privacy policy that was archived on 2009-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090303215419id_/http%3A//www.spidersolitaire.org/PP.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spidersolitaire.org privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212002118id_/http%3A//www.spidersolitaire.org/PP.php) for the most accurate reproduction.*
 
 # Spider Solitaire | Play Free Spider Solitaire Online
 
@@ -19,7 +19,7 @@ All information we collect from our visitors or registered members(email,name) i
 
 During the course of your visit, we may place a text file called a "cookie" in the browser files of your computer. This cookie enables us to customise the appearance of our website based on preferences you have chosen on your current, and any subsequent visit to our site. Third party sites, who serve our advertisements, may also use cookies or web beacons to collect information to better target advertisements to you.Our advertising partners include Google Adsense and other Marketing Companies.
 
- **www.spidersolitaire.org** has no access to or control over these cookies that are used by third-party advertisers.   
+ **www.spidersolitaire.org** has no access to or control over these cookies that are used by third-party advertisers. Google's use of the DART cookie enables it to serve ads to you based on your visit to this sites and other sites on the Internet.  
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices.   
 You can refuse cookies by turning them off on your browser. In Internet Explorer, cookie settings can be found under: Tools > Internet Options > Privacy > Advanced. In Firefox, cookie setting can be found under: Tools > Options. In Opera, cookie setting can be found under: Tools > Preferences > Advanced > Cookies. For all other browsers, please read your browsers help file for more information on cookie settings or go to http://www.allaboutcookies.org . 
 
