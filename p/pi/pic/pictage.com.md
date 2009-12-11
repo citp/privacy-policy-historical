@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pictage.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605140406id_/http%3A//www.pictage.com/static/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pictage.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211171611id_/http%3A//www.pictage.com/static/about/privacy.html) for the most accurate reproduction.*
 
 # Pictage Privacy Policy
 
@@ -43,13 +43,13 @@ Yes, you can. If you no longer want Pictage or its partners to communicate with 
 
 #### Why did you receive an e-mail from us?
 
-If you received an e-mail from Pictage, (a) your e-mail address is either listed with us as someone who has willingly shared this address for the purpose of receiving information in the future ("opt-in"), or (b) you have registered or purchased, or otherwise have an existing relationship with us. We respect your time and attention by monitoring the frequency of our mailings.
+You will receive an e-mail from Pictage if, (a) your e-mail address is either listed with us as someone who has willingly shared this address for the purpose of receiving information in the future ("opt-in"), or (b) you have registered or purchased, or otherwise have an existing relationship with us. 
 
 #### How can you stop receiving e-mail from us?
 
 Each e-mail sent contains an easy, automated way for you to cease receiving e-mail from Pictage. If you wish to do this, simply follow the instructions at the end of any e-mail. Please note that requests to be removed from an e-mail distribution list can take up to 7 business days.
 
-If you have received unwanted, unsolicited e-mail sent via this system or purporting to be sent via this system, please forward a copy of that e-mail with your comments to [help@pictage.com](mailto:help@pictage.com) for review.
+If you have received unwanted, unsolicited e-mail sent via this system or purporting to be sent via this system, please forward a copy of that e-mail with your comments to [help@pictage.com](mailto:help@pictage.com) for review. We respect your time and attention by monitoring the frequency of our mailings.
 
 #### Are my pictures available for public viewing?
 
