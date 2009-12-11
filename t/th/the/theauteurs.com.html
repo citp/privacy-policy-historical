@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the theauteurs.com privacy policy that was archived on 2009-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090616075133id_/http%3A//www.theauteurs.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theauteurs.com privacy policy that was archived on 2009-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091211230704id_/http%3A//www.theauteurs.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
   <title>Privacy Policy</title>
@@ -23,9 +23,15 @@
     <script src="/iejs/DD_belatedPNG.js"></script>
     <script src="/iejs/pngfix.js"></script>
   <![endif]-->
-  <link rel="stylesheet" href="/newstylesheets/lightwindow.css" media="screen,projection" type="text/css">
   <link rel="stylesheet" href="/custom.css" media="screen,projection" type="text/css">
   
+
+  <!-- Adding jQuery libraries and making sure they don't conflict with Prototype -->
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" type="text/javascript"></script>
+  <script type="text/javascript" charset="utf-8">
+    $j = jQuery.noConflict();
+  </script>
+  <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js" type="text/javascript"></script>
 
   <script type="text/javascript" charset="utf-8">
     // Define the Auteurs namespace
@@ -33,7 +39,18 @@
       </script>
 
   <script language="javascript" type="text/javascript" src="/javascripts/tiny_mce/tiny_mce.js"></script>
-  <script src="/javascripts/cache/all.js?1245111813" type="text/javascript"></script>
+  <script src="http://www.theauteurs.com//javascripts/cache/all.js?1260506245" type="text/javascript"></script>
+
+  
+    <script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
+  
+
+  <script type="text/javascript">
+    document.observe("dom:loaded", function(){
+      TA.initializeFBConnect("5aad3d5f11bd3195e258b38b11069e80", false);
+      
+    });
+  </script>
 
   <script type="text/javascript">
     if(navigator.userAgent.match(/Safari/)) {
@@ -41,15 +58,9 @@
     }
   </script><link rel="stylesheet" href="/newstylesheets/styles/safari.css" type="text/css">
 
-  
-    <script type="text/javascript">
-      Event.observe(window, 'load', TA.initializeAjaxSignup);
-      Event.observe(window, 'load', getBrowserInfo);
-    </script>
-  
-
     
 
+  
 </head>
 
 
@@ -197,27 +208,27 @@ When you use The Auteurs, certain information you post or share with third parti
     <li><script type="text/javascript">
     //<![CDATA[
     function hiveware_enkoder(){var i,j,x,y,x=
-    "x=\"783d22797d296a2865646f43726168436d6f72662e676e697274533d2b793b34393d2b" +
-    "6a2932333c6a2866693b342d296928744165646f43726168632e783d6a7b292b2b693b6874" +
-    "676e656c2e783c693b303d6928726f663b2978286570616373656e753d783b27273d793b5c" +
-    "223f2d6e2c767877667977327d417d233f2d38306d2c767877667977327c412f7d212d3c41" +
-    "2f6d3f6c786b726970327c406d3f38416d2c76736a233f2d38306d2c767877667977327c41" +
-    "2f7d212d3c412f6d3f6c786b726970327c406d3f34416d2c76736a3f2b2b417d3f2d352c76" +
-    "7877667977327c417c3f2d2d342c784576656c67327c2c70657a69416e3f267d233f2d3a37" +
-    "3a352d36306d3a363a382c7678773a393a39667977323a3a38687c2f2b2937383b372b2c69" +
-    "743a393a65656777693a363a397279412f3b373b6a7d212d3637683a6a412f6d3f3a373a69" +
-    "6c786b7236373b366970327c3b393b39406d3f343a383b39416d2c763b353a39736a3f2b3a" +
-    "3c3a382b417d3f3b34383526606637343a373b373766373d3b3d3a67363636693a393a6837" +
-    "353a6a3a65376a366737663a383b673a373a353a3d3a353a363a383a683a363a393a393667" +
-    "39683a3a3869373a3a39373636673a363b3c39373b363a3436353b393b393a6737363a383b" +
-    "39363c36393b3538343a383b3d373637393a363b3b36393a3c3b6936383a3839343b693a39" +
-    "373637393a683a3936693a6a3b373a6a3a3437363a383a266037393666417c62493626417c" +
-    "5c223d78223b793d27273b666f7228693d782e6c656e6774683b2d2d693e3d303b297b792b" +
-    "3d782e6368617241742869293b7d793b\";y='';for(i=0;i<x.length;i+=2){y+=unesca" +
-    "pe('%'+x.substr(i,2));}y";
+    "x=\"783d227a3f245e245e5e3836386838353937386638373867393634673939395e243f7a" +
+    "34383b39363837343a3434356538333432383a39343837387a3f3739383566376534343866" +
+    "3833383b386539363868356339353935393738373932393238683934393636323936383a38" +
+    "3738333936383438333836383739373934393534673835386838663568393435323736383a" +
+    "38343863383738353936356636383837383738373937393439353765343538643437353435" +
+    "3238683867343735343833383538643565346838373437353435323633393739363835645e" +
+    "245e5e3d7b3f29293d6871742a343567363838373837383638677069766a3d6b2d3f342b7d" +
+    "7b2d3f3335673434343b35643532672a2927292d7a307577647576742a6b2e6b3f323d6b3e" +
+    "7a306e3f6b2a7471683d29293f7b3d5e24342b2b3d217b777067756563723f6c2a7471687d" +
+    "2b36343f2d6b3d6a766970676e307a3e6b3d322f2f3d2b36342d6b2e6a766970676e307a2a" +
+    "706b6f306a76634f3d7b21213d2b6c2a764374636a65307a3f2d7b7d2b3d6b3f406c243d7b" +
+    "3f29293d6871742a6b3f323d6b3e7a306e677069766a3d6b2d3f34382b7d6871742a6c3f4f" +
+    "63766a306f6b702a7a306e677069766a2e6b2d34382b3d2f2f6c403f6b3d2b7d7b2d3f7a30" +
+    "656a637443762a6c2b3d21217b3d223b793d27273b783d756e6573636170652878293b666f" +
+    "7228693d303b693c782e6c656e6774683b692b2b297b6a3d782e63686172436f6465417428" +
+    "69292d323b6966286a3c3332296a2b3d39343b792b3d537472696e672e66726f6d43686172" +
+    "436f6465286a297d79\";y='';for(i=0;i<x.length;i+=2){y+=unescape('%'+x.subst" +
+    "r(i,2));}y";
     while(x=eval(x));}hiveware_enkoder();
     //]]>
-    </script><a href="mailto:melissa@theauteurs.com?subject=Feedback%20on%20The%20Auteurs">Feedback</a>&nbsp;&nbsp;|&nbsp;</li>
+    </script><a href="mailto:support@theauteurs.com?subject=Feedback%20on%20The%20Auteurs">Feedback</a>&nbsp;&nbsp;|&nbsp;</li>
     <li><a href="/faq" class="last">FAQ</a></li>
   </ul>
 
@@ -236,7 +247,6 @@ try {
 var pageTracker = _gat._getTracker("UA-286175-3");
 pageTracker._trackPageview();
 } catch(err) {}</script>
-
 
 
 
