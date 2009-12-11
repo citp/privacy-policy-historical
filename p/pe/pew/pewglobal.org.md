@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pewglobal.org privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531081839id_/http%3A//pewglobal.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pewglobal.org privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211084748id_/http%3A//pewglobal.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Pew Global Attitudes Project
-
-|  | 
 
 The Pew Global Attitudes Project, a project of the Pew Research Center (collectively, "Pew Global"), shares your concerns about maintaining the integrity and privacy of personal information collected on the Internet. Pew Global is committed to protecting your privacy, and the following Privacy Policy ("Policy") is intended to explain our information collection and dissemination practices in connection with the PewGlobal.org web site (the "Site"). Please review the entire Policy and feel free to contact us at [info@pewglobal.org](mailto:info@pewglobal.org) if you have any questions.
 
