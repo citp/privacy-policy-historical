@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gather.com privacy policy that was archived on 2009-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090309000753id_/http%3A//www.gather.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gather.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211175429id_/http%3A//www.gather.com/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | Gather
 
@@ -18,7 +18,7 @@ At Gather, Inc. ("Gather"), we strive to develop innovative products and service
   * Gather collects information from and about you when you register with Gather as a Member and you use Gather's Service.
   * Users who visit Gather's site and do not register do not need to provide any Personal Information. Gather does, however, collect limited, non-personally identifying information from non-registered users that browsers make available whenever a user visits a website. This information includes your internet protocol address, browser type, browser language, cookies, and use patterns.
   * When you register as a Member, we ask for information such as your name, email address, date of birth, gender, zip code, personal interests and a password. Your password will be maintained on our system in an encrypted form and you will be able to create a unique username that will identify you during login and when you are using the Service. Please note that Gather owns your username, grants you a license to use it while you are a Member, and reserves all rights to your username once you either cease to be a Member or following an extended period of inactivity, including but not limited to the right to revoke, reuse, resell or license your username.
-  * Certain Members may opt to participate in programs offered by Gather where a Member can earn Gather Points or cash compensation from Gather. If you participate in such programs, Gather may require you to provide additional information including but not limited to your social security number. All such information will be maintained in secure and encrypted areas of our system. For more information pleas see the Gather Redemption and Compensation Policy located at http://www.gather.com/compensation.jsp.
+  * Certain Members may opt to participate in programs offered by Gather where a Member can earn Gather Points or cash compensation from Gather. If you participate in such programs, Gather may require you to provide additional information including but not limited to your social security number. All such information will be maintained in secure and encrypted areas of our system. For more information please see the Gather Redemption and Compensation Policy located at [http://www.gather.com/compensation.jsp.](http://www.gather.com/compensation.jsp)
   * Once you register with Gather and sign into our site, you are not anonymous to us. For certain elements of the Service, such as our advertising programs, we may request credit card or other payment information which we maintain in encrypted form on secure servers.
   * Gather uses the information we collect for the following purposes: to customize the advertising and content you see, fulfill requests for products and service, improve our Service, contact you, conduct research, and provide anonymous reporting for internal and external clients.
 
@@ -68,13 +68,16 @@ At Gather, Inc. ("Gather"), we strive to develop innovative products and service
 **Cookies**
 
   * Gather may set and access "cookies" on your computer. A "cookie" is a small file containing a string of characters that is sent to your computer when you visit a website. We use cookies to improve the quality of our Service, target advertising, and to better understand how people interact with us. We do this by storing user preferences in cookies and by tracking user trends and patterns of how you use our Service. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent, but this may impact the quality of our Service.
+  * Gather has engaged Google, Inc. ("Google") as a third party vendor, to serve ads on the Service. Google uses cookies to perform these services.
+  * Google employs a proprietary cookie known as the DoubleClick DART Cookie ("DART") that enables Google to serve ads to you based on both your use of our Services and other sites on the Internet.
+  * Your participation in DART is optional and you may opt out of the use of the DART cookie by visiting Google directly at [http://www.google.com/privacy_ads.html.](http://www.google.com/privacy_ads.html)
 
 
 
 **Your Ability to Edit and Delete Account Information**
 
   * You may edit your Member account and related personal information at any time by visiting <http://www.gather.com/editAccount.jsp>.
-  * You may delete your member account by [Contacting Gather Member Support](http://www.gather.com/submitCase.action).
+  * You may delete your member account by [contacting Gather Member Support](http://www.gather.com/submitCase.action).
 
 
 
