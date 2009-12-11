@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the express.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601011744id_/http%3A//www.express.com/custserv/custserv_popup.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the express.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212004847id_/http%3A//www.express.com/custserv/custserv_popup.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
 # EXPRESS: Help-Privacy and Security
 
