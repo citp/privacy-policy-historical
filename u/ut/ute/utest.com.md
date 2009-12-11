@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the utest.com privacy policy that was archived on 2009-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090404090222id_/http%3A//www.utest.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utest.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212000922id_/http%3A//www.utest.com/privacy-policy) for the most accurate reproduction.*
 
-# uTest.com: On-demand community software testing services based on a pay per bug QA marketplace model.
-
-## Privacy Statement for uTest.com
+# Privacy Policy | uTest
 
 uTest.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: uTest.com.
 
@@ -24,6 +22,4 @@ Unless otherwise indicated, the information contained in this site including all
 
 Accessing the uTest.com web site does not authorize Users to use any name, logo, trademark or service mark in any manner. Permission is granted to display, download and print in hard copy format other resources of the site solely for the purposes of using the site as an internal or personal business resource. None of the resources may be copied, reproduced, distributed, republished, downloaded, displayed, posted electronically or mechanically, transmitted, recorded, in any manner mirrored, photocopied or reproduced without the prior written permission of uTest.com or the applicable owner.
 
-uTest.com provides links to other web sites from our site. uTest.com is not responsible for the privacy practices or content on other web sites. We strongly suggest that you read a web sites privacy policy before submitting personal information or utilizing the resources of that site. 
-
-**[Click here](mailto:violation@utest.com)** to report Privacy violations.
+uTest.com provides links to other web sites from our site. uTest.com is not responsible for the privacy practices or content on other web sites. We strongly suggest that you read a web sites privacy policy before submitting personal information or utilizing the resources of that site.
