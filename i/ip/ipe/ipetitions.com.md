@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipetitions.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531080627id_/http%3A//www.ipetitions.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipetitions.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211171229id_/http%3A//www.ipetitions.com/privacy.html) for the most accurate reproduction.*
 
 # iPetitions : Privacy policy
 
@@ -16,6 +16,8 @@ Please be aware that this applies only to petitions powered by iPetitions on iPe
 
   
 **Exception:** iPetitions may disclose user or signer information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Membership Agreement or may be causing injury or interference, intentionally or unintentionally, to iPetitions' rights or property, other iPetitions users, or anyone else that could be harmed by such activities. 
+
+Google uses the DART cookie to serve ads to our users based on their previous visits to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html 
 
 **COOKIES**
 
