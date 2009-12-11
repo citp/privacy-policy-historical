@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsok.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609062601id_/http%3A//www.newsok.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsok.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211190430id_/http%3A//www.newsok.com/privacypolicy) for the most accurate reproduction.*
 
 # NewsOK Privacy Policy | NewsOK.com
 
@@ -20,7 +20,7 @@ OPUBCO requests you to review the privacy statements and policies of other websi
 
 ### Use of Your Personal Information
 
-We believe in protecting your private information. We will not share your information with companies outside our organization except as described in the Privacy Policy. We may disclose aggregated user statistics in order to describe our services to potential advertisers, other third parties, our affiliate companies, and for other lawful purposes. You may receive communications from OPUBCO related to products and services that might interest you. While we believe these services may enhance your time spent at NewsOK.com, you will at all times be able to opt out from receiving these communications by specifically opting out from a link which will be provided within the email or by sending an email to [help@newsok.com](https://web.archive.org/web/20090609062601id_/http%3A//www.newsok.com/help@newsok.com). 
+We believe in protecting your private information. We will not share your information with companies outside our organization except as described in the Privacy Policy. We may disclose aggregated user statistics in order to describe our services to potential advertisers, other third parties, our affiliate companies, and for other lawful purposes. You may receive communications from OPUBCO related to products and services that might interest you. While we believe these services may enhance your time spent at NewsOK.com, you will at all times be able to opt out from receiving these communications by specifically opting out from a link which will be provided within the email or by sending an email to [help@newsok.com](https://web.archive.org/web/20091211190430id_/http%3A//www.newsok.com/help@newsok.com). 
 
 The information we gather from you may be used in several ways, now or in the future, as follows: 
 
@@ -56,6 +56,10 @@ A cookie is a data text file sent from a web site to your browser. It will be st
 ### Opting Out
 
 We respect your right to choose whether to share information with us or any third party. You may choose to “opt out” of sharing personal information. During registration, you can opt not to receive emails or text messages from NewsOK.com containing “Breaking Headlines” or special discounts. Emails will also contain a link in which you can easily unsubscribe to future distribution. In addition, you can choose to no longer receive emails or text messages from NewsOK.com by changing your settings under “Manage My Settings” or by sending an email to [help@newsok.com](mailto:help@newsok.com) and requesting to no longer receive such emails or text messages. 
+
+### YAHOO! Opt Out
+
+YAHOO! is an ad network partner that displays ads on OPUBCO sites. To improve your ad experience on OPUBCO sites and elsewhere on the Internet, we may send non-personal information to YAHOO! based on your browser’s activities, such as type of pages viewed and categories of interests, so that the advertising you see is relevant to you. YAHOO! also may use information regarding its own users to select which ads to display. Learn more about YAHOO!’s ad practices, including how to [opt out](http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html) of using anonymous information to select which ads to show you. In addition we may use information we have about you, including your use of OPUBCO sites, to customize the ads we display to you. 
 
 ### Children
 
