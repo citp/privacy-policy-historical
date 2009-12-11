@@ -1,20 +1,10 @@
-> *The following text is extracted and transformed from the dteenergy.com privacy policy that was archived on 2008-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081222210659id_/http%3A//www.dteenergy.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dteenergy.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211191247id_/http%3A//www.dteenergy.com/privacyPolicy.html) for the most accurate reproduction.*
 
-# DTE Energy privacy policy
+# DTE Energy - Privacy policy
 
-|   
----  
-   
-• Safe, reliable electric and natural gas services to Michigan businesses and homes.   
-   
-• Energy related businesses and services nationwide.   
-   
-**DTE Energy is your energy expert.**  
-| 
+Last Modified: June 4, 2009
 
-Last Modified: October 1, 2008
-
-DTE Energy and its [affiliate companies](https://web.archive.org/businesses/index.html) ("Company") understand your concerns about the use of your personal information online and are committed to protecting your privacy. We have implemented the following online privacy policy ("Privacy Policy") to give you a better understanding of how we handle your information.
+DTE Energy and its affiliate companies ("Company") understand your concerns about the use of your personal information online and are committed to protecting your privacy. We have implemented the following online privacy policy ("Privacy Policy") to give you a better understanding of how we handle your information.
 
 The Company may offer one or more interactive pages for children under the age of 13. The Company does not collect or maintain any personal information from children when they interact with those respective pages.
 
@@ -43,12 +33,16 @@ DTE Energy may set cookies in order to provide automated services or surveys on 
 top
 
 **How does the Company protect my personal information?**   
-We use industry-standard encryption technologies when transferring personally identifiable information. When we transfer certain types of sensitive information such as financial, personal, account, or service information, we redirect visitors to a secure server where all communication between your computer and ours is scrambled into hard to decipher code and then translated back to meaningful communication. There are also a number of things you can do to protect your personal information. For tips on Web security, please see our FAQ file on [Security and Privacy](http://my.dteenergy.com/otherInformation/faqs/manageAccountOnline.html#q7).
+We use industry-standard encryption technologies when transferring personally identifiable information. When we transfer certain types of sensitive information such as financial, personal, account, or service information, we redirect visitors to a secure server where all communication between your computer and ours is scrambled into hard to decipher code and then translated back to meaningful communication. 
+
+To use some of our online features, a full Social Security number (SSN), or the last four digits, are required for positive identification. We cross-check the SSN provided with information already contained in our billing system to verify that an online user is, in fact, the individual associated with that account. This is a standard business precaution to ensure your privacy and security. Using positive identification helps protect you from fraudulent service requests and slamming.
 
 top
 
 **What is DTE Energy's policy regarding e-mail?**   
-If you are using online transactional services, such as bill payment or our online job application feature, you may receive e-mails from us specific to your online transactions. You may also opt-in to receive our eNewsletters. We do not ask for personal or account information in an e-mail unless you have contacted us first and we need to clarify your request. If you have any doubt an e-mail is really from us, go to our Web site directly by typing dteenergy.com into your browser window and navigating to the desired page. For more tips on Web security, please see our FAQ file on [Security and Privacy](http://my.dteenergy.com/otherInformation/faqs/manageAccountOnline.html#q7). We encourage you to report suspicious e-mail by forwarding the message to spoof@dteenergy.com.
+If you are using online transactional services, such as bill payment or our online job application feature, you may receive e-mails from us specific to your online transactions. You may also opt-in to receive our eNewsletters. We do not ask for personal or account information in an e-mail unless you have contacted us first and we need to clarify your request. Be sure any links embedded in the e-mail are actually taking you to a DTE Energy site. If you have any doubt an e-mail is really from us, go to our Web site directly by typing dteenergy.com into your browser window and navigating to the desired page.
+
+We encourage you to report suspicious e-mail by forwarding the message to spoof@dteenergy.com.
 
 top
 
@@ -58,12 +52,12 @@ To enrich the content of our Web sites we may provide links to other sites opera
 top
 
 **What happens if changes are made to the Privacy Policy?**   
-Our privacy policy is reviewed on a regular basis. When an update is made, the date at the top of this page changes to reflect the date new content was posted on this page. If there are any questions or concerns about this Privacy Policy, please e-mail the [Webmaster](https://www.dteenergy.com/emailForm.html?emailAddress=webmaster&subject=DTE_Energy).
+Our privacy policy is reviewed on a regular basis. When an update is made, the date at the top of this page changes to reflect the date new content was posted on this page. If there are any questions or concerns about this Privacy Policy, please e-mail Webmaster@dteenergy.com.
 
 top
 
 **How do I correct an inaccuracy in the information I provide?**   
-Registered users of my.dteenergy.com may update their account information online by [signing in](https://my.dteenergy.com/cso/myAccount/getDefaultAccount.do) and selecting the link to Update Account. Job applicants who have registered with us may logon to our online application program on the [Careers](https://web.archive.org/careers/) Web site to view and update their personal information.
+Registered users of dteenergy.com may update their account information online by choosing the My Account tab, signing in and selecting the appropriate left navigation link under My Profile. Job applicants who have registered with us may sign in to our online application program on the Careers Web site to view and update their personal information.
 
 top
 
@@ -72,6 +66,6 @@ If you have questions about this Privacy Policy or comments about our Web sites'
 The Webmaster  
 DTE Energy One Energy Plaza, Room 1564 WCB  
 Detroit, MI 48226  
-or by [e-mail](https://www.dteenergy.com/emailForm.html?emailAddress=webmaster&subject=DTE_Energy)
+or by e-mail to Webmaster@dteenergy.com 
 
 top
