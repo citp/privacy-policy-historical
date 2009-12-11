@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flock.com privacy policy that was archived on 2009-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090315132235id_/http%3A//www.flock.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flock.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211210855id_/http%3A//www.flock.com/privacy) for the most accurate reproduction.*
 
 # Flock Browser - Flock Privacy Policy | Flock
 
@@ -46,6 +46,12 @@ To edit your information on the account you set up on flock.com, please follow t
   6. Submit the form. 
 
 
+
+## Top Flockstars Referral Program; Friend’s Consent to Share Information
+
+If you have been referred to Flock in connection with the Flock Referral Program, the referring user will receive information relating to the Flock Referral Program (including, without limitation, whether or not you accepted the referral, successfully completed the referral and registration with Flock, and other information relating to the administration of the Flock Referral Program). By activating the Flock browser through the Flock Referral Program,
+
+You consent to Flock’s sharing such information with the person who sent you the invitation.
 
 ## Policy Changes
 
