@@ -1,38 +1,39 @@
-> *The following text is extracted and transformed from the kyazoonga.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605155313id_/http%3A//www.kyazoonga.com/Common/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kyazoonga.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211051202id_/http%3A//www.kyazoonga.com/Common/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # KyaZoonga - Privacy Policy
 
 This privacy policy ("Policy") only applies to transactions made, and data gathered, on the KyaZoonga.com or mobile phone applications (SMS and GPRS) (collectively, the "Site"). Please review this Policy periodically as we may update it from time to time. This Policy was last revised on March 25, 2007. If there are significant changes to the Site's information practices, you will be provided with appropriate online notice. You may be provided other privacy-related information in connection with your use of offerings from the Site as well as for special features and services not described in this Policy that may be introduced in the future. Each time you visit the Site or provide us with information, by doing so you are accepting the practices described in this Policy at that time. You agree that by using the Site you are expressly and affirmatively consenting to our use and disclosure of the information that you provide, and consenting to receive emails, as described below in this Policy.
 
-**Information We Collect From You**
+  
+ **Information We Collect From You**
 
 In order to operate the Site and provide you with information on products and services that may be of interest to you, we may collect "contact information" (i.e., information that could be used to contact you such as full name, postal address, phone number and email address as well as your computer's unique IP address (if any)), "financial information" (i.e., passwords, credit and debit card numbers and bank and other financial institution account numbers) and "demographic information" (e.g., PIN code, hometown, gender, purchase history information, posting and sales information and age as well as IP addresses that are not unique to your computer) from you. Please note that nowhere on the Site do we knowingly collect contact information or financial information from children under the age of 13.
 
-**How We Use Contact Information; Responsibility**
+ **How We Use Contact Information; Responsibility**
 
-**Order and Payment Processing, Customer Service, Credit Card Issuers and Quality Assurance**
+ **Order and Payment Processing, Customer Service, Credit Card Issuers and Quality Assurance**
 
 We use contact information to help us efficiently perform transactions, to deliver the services you have requested and to fulfill your requests for products, programs, and services, to perform quality assurance, sales analyses and other business analyses, to operate and improve the services and offerings available through the Site, to personalize the content and advertisements provided to you, to contact you in connection with events for which you order, post or sell tickets (including ticket confirmations, changes and cancellations) and respond to your inquiries, to conduct research about your use of the Site, to help offer you other products, programs, or services that may be of interest. In some cases we may use service providers to help us perform some of these tasks, including, but not limited to, processing or fulfilling your orders, or performing customer service, business analyses or quality control, and consequently we may share your contact information with these service providers. In such cases, we often require these service providers to enter into agreements with us regarding the confidential handling of your information. We may also provide your contact information to your credit card issuer or to credit card processors for their purposes. When you make a purchase through the Site, or register with the Site, you will provide us with an email address where we, or these service providers, may contact you for the purposes described in this paragraph.
 
-**Contacting you for Offers and Promotions**
+ **Contacting you for Offers and Promotions**
 
 After you provide us with an email address in connection with ordering or trying to sell tickets through the Site or registering with the Site, or in connection with any Special Offers as described below, you may visit the "My Account" section of the Site, where you will be given the opportunity to tell us not to use that email address to send you promotional emails. "Promotional emails" are emails that are sent solely for promotional purposes. By submitting an email address to us, you agree that KyaZoonga (on behalf of itself or on behalf of others) may send promotional emails to that email address until such time that you so indicate your preference not to receive them. Because many consumers like to receive some, but not all, types of promotional emails, "My Account" provides you with the opportunity to choose which types of promotional emails you do not want to receive. Please note that if you ask not to receive promotional emails from KyaZoonga, you may still receive promotional emails during the next 72 hour period (as it may take some time for your preferences to be updated throughout our computer systems), you may still receive non-promotional emails from KyaZoonga, and you may still receive emails from certain others (including, but not limited to, Event Providers (defined below)); please read the rest of this Policy to learn how others may contact you.
 
-**Providing Merchants with Contact Information**
+ **Providing Merchants with Contact Information**
 
 In addition to selling movie tickets on the Site, KyaZoonga may sell other goods or services, allow you to make reservations, or allow you to participate in (or register for) contests, sweepstakes or other offers or programs (such as discount or rewards programs, magazine subscriptions, hotel bookings or cruises) on the Site. Typically, these goods, services, contests, sweepstakes or other offers or programs ("Special Offers") for which you make purchases, orders or reservations, or for which you participate in or register, are provided by third parties ("Merchants"). Consequently, if you elect to engage in a Merchant's Special Offer, KyaZoonga may provide that Merchant with your contact information - in fact, when you elect to engage in a Merchant's Special Offer you consent for us to provide your email address and other information to that Merchant. Because Merchants are not part of KyaZoonga, Merchants are not subject to this Policy and may use your contact information to communicate with you by sending emails or through other means, and may share your contact information with others. If you want to learn about a particular Merchant's privacy policies, or you do not want to receive communications from a particular Merchant, or you have other questions, instructions or concerns to which you would like a Merchant to respond, then you must contact that Merchant directly.
 
-**Divulging Your Contact Information for Legal and Administrative Reasons**
+ **Divulging Your Contact Information for Legal and Administrative Reasons**
 
 We may disclose specific contact information when we determine that such disclosure will be helpful to comply with law, to cooperate with or seek assistance from law enforcement or to protect the interests or safety of KyaZoonga or other visitors to the Site or users of services or products provided by KyaZoonga or to take part with others in joint anti-fraud activities. Also, your contact information may be passed on to a third party in the event of a transfer of ownership or assets, or a bankruptcy, of KyaZoonga.
 
-**Providing Non-KyaZoonga Affiliates with Contact Information**
+ **Providing Non-KyaZoonga Affiliates with Contact Information**
 
 We may also share your contact information with our Non-KyaZoonga Affiliates (defined below), but each Non-KyaZoonga Affiliate who receives your contact information will comply with the terms of this Policy with respect to its use and disclosure of the contact information we share with it, unless the Non-KyaZoonga Affiliate is also receiving it because it is Multiplex or Merchant as described above (in which case it will not be required to comply with this Policy with respect to its use or disclosure of such information). When we say "Non-KyaZoonga Affiliates" we mean KyaZoonga' subsidiaries, parents and affiliates (and businesses owned by KyaZoonga and such companies) that are not part of KyaZoonga 
 
 **Other Instances where Contact Information may be Shared** If you are opted out of receiving all promotional emails, then we will not share your contact information with unaffiliated third parties, unless we are otherwise permitted to under this Policy (for example, we will still be permitted to share your contact information with Multiplexes or Merchants but only to the extent permitted above). If you do not opt out of receiving all promotional emails, then we may share your contact information if we believe it makes business sense. These third parties may communicate directly with you about their products and services.
 
-**Responsibility**
+ **Responsibility**
 
 KyaZoonga will not be responsible or otherwise liable for any use or disclosure of your contact information by a third party to whom KyaZoonga is allowed to disclose your contact information under this Policy. 
 
@@ -42,7 +43,7 @@ We use your financial information to check your qualifications, to help us effic
 
 We may disclose specific financial information when we determine that such disclosure may be helpful to comply with law, to cooperate with or seek assistance from law enforcement to protect the interests or safety of KyaZoonga or other visitors to the Site or users of services or products provided by KyaZoonga or to take part with others in joint antifraud activities. Also, your financial information may be passed on to a third party in the event of a transfer of ownership or assets, or a bankruptcy, of KyaZoonga. KyaZoonga will not be responsible or otherwise liable for any use or disclosure of your financial information by a third party to whom KyaZoonga is allowed to disclose your financial information under this Policy.
 
-**How We Use Demographic Information**
+ **How We Use Demographic Information**
 
 We may use your demographic information to perform business analyses or to tailor the Site and communications to your interests. We may share anonymous, aggregated (grouped) demographic information with advertisers and other third parties so that they can tailor their advertisements and communications to the appropriate audience. Any time that we are allowed under this Policy to share your contact information or financial information; we may also share your demographic information along with it. 
 
@@ -50,11 +51,11 @@ We may use your demographic information to perform business analyses or to tailo
 
 On the Site, we place links to other web sites operated by other parties. Some of these other web sites contain our brand names and trademarks and other intellectual property that we own; others do not. When you click on these links and visit these other web sites, regardless of whether or not they contain our brand names, trademarks and other intellectual property, you need to be aware that we do not control these other web sites or these other web sites' business practices, and that this Policy does not apply to these other web sites. Consequently, the operators of these other web sites may collect different kinds of information about you, and may use and disclose that information in different ways than we would if it were collected on the Site. We encourage you to review their privacy policies and remind you that we will not be responsible for their actions.
 
-**Your IP Address**
+ **Your IP Address**
 
 Like most e-commerce websites, each time you visit the Site, we automatically collect your IP address and the web page from which you came. In order to administer and optimize the Site for you and to diagnose problems with our Site, we use your IP address to help identify you and to gather broad demographic information about you.
 
-**Cookies**
+ **Cookies**
 
 Cookies are text files that are placed in your computer's browser, and that can be used to help recognize you as a KyaZoonga user. Web beacons are small pieces of code placed on Web pages that can be used, among other things, to count the users who visit that Web page, or to deliver a cookie to the browser of a user viewing that page. You can control cookies through your browser's settings. If you reject all cookies, however, you will not be able to take advantage of certain KyaZoonga offerings.
 
@@ -62,18 +63,18 @@ Like most websites, the Site uses cookies, web beacons and similar technologies 
 
 KyaZoonga and its advertisers may from time to time use advertising network providers, to help present advertisements on the Site. These advertising networks use cookies, web beacons, or similar technologies on your computer in order to provide targeted advertisements about goods and services that may be of interest to you while visiting other Web sites. KyaZoonga may share certain information about you as a user that is not personally identified (such as user age and pin code) with certain advertising network providers in order to help them deliver more relevant advertisements through their ad networks. The use of cookies, web beacons, or similar technologies by ad network providers is subject to their own privacy policies. Any choices that you have about these technologies will be presented here in the event KyaZoonga utilizes the services of any advertising network provider. Therefore, you are encouraged to return to this section periodically for updated information about advertising networks.
 
-**Our Security Precautions; Geographic Location of Information**
+ **Our Security Precautions; Geographic Location of Information**
 
 The Site has security measures in place to help protect against the loss, misuse, unauthorized access and alteration of the information under our control but cannot guarantee that your personally identifiable information will never be disclosed in a manner inconsistent with this Privacy Policy (for example, as a result of unauthorized acts by third parties that violate applicable law or the policies of the service and its affiliated providers).. We use secure socket layer (SSL) technology to help protect the security of commerce transactions. We encrypt your contact information and financial information as it travels over the Internet and we store your financial information on our servers in encrypted form. Your information may be transferred to and maintained in whole or in part on computer networks which may be located outside of the state, province, country or other governmental jurisdiction in which you reside, and may be stored on equipment or in facilities leased or licensed from third parties.
 
-**Special Note for Parents**
+ **Special Note for Parents**
 
 KyaZoonga is intended for a general audience. Registration for certain services on the Site may not be available for children under the age of 13.
 
-**Public Areas**
+ **Public Areas**
 
 The Site may provide you with the opportunity to post information for display in areas of the site that are accessible to viewing by the general public ("public areas"), including, but not limited to, bulletin boards, chat rooms and user-submitted concert or other event reviews. This Policy does not apply to any information that you submit for use in public areas. We ask that you do not submit any contact information or financial information for display in public areas, as other people who use the Site will see it. If you submit such information for display in public areas, KyaZoonga cannot prevent it from being used in a manner that violates the law, your personal privacy or your safety. By submitting such information for display in public areas, you assume the risks and sole liability arising as a result of such information being displayed.
 
-**Your Account**
+ **Your Account**
 
 If you use this site, you are responsible for maintaining the confidentiality of your account and password and for restricting access to your computer, and you agree to accept responsibility for all activities that occur under your account or password. KyaZoonga and its affiliates reserve the right to refuse service, terminate accounts, remove or edit content, or cancel orders in their sole discretion.
