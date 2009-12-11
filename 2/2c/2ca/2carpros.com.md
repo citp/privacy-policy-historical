@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 2carpros.com privacy policy that was archived on 2009-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090403051312id_/http%3A//www.2carpros.com/kpages/2carpros-privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2carpros.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211200136id_/http%3A//www.2carpros.com/kpages/2carpros-privacy.htm) for the most accurate reproduction.*
 
 # 2CarPros.com Privacy Information
 
   
   
-Auto Repair Help by Professional Mechanics 
+Car Repair Help by Professional Mechanics 
 
 **2CarPros.com Privacy Information**
 
@@ -29,4 +29,24 @@ This site has security measures in place to protect the loss, misuse and alterat
 **Disclaimer**  
 The information found in the Professional Mechanics Online website is not intended to replace the advice of your automobile mechanic and is not a substitute for a thorough diagnostic inspection by a qualified professional mechanic. No vehicle repair should be attempted without a thorough knowledge of the mechanics of the repair and the risks involved. The purpose of this website is to educate and inform. No claim or guarantee is intended to the accuracy of the information on this site although every attempt has been made to verify the accuracy of all information with the exception of the pubic forum.
 
-If you have any question or comments about 2Carpros.com please contact us - [Here](https://web.archive.org/web/20090403051312id_/http%3A//www.2carpros.com/kpages/contact-us.htm)
+**Cookies and Similar Technology:**
+
+We use 'cookie' technology to collect data regarding your visits to the 2Carpros.com Network. This data is stored in aggregate form and is not used to identify any particular user or individual. We use cookies and similar tracking technologies in a variety of ways, including: Users can either disable cookies via their browser or opt out via the Network Advertising site using browser settings.
+
+***** Keeping count of your return visits to the 2Carpros.com Network or our Affiliates', Advertisers' or partners' sites; 
+
+***** Accumulating and reporting aggregate, statistical information in connection with the 2Carpros.com Network; 
+
+***** Determining which features users like best; and 
+
+***** Saving your User ID or other information so you don't have to re-enter it each time you visit the 2Carpros.com Network. 
+
+Although we may track the numbers of visitors to inform us on how best to improve and update the 2Carpros.com Network and enhance the experience for all visitors, Personal Information is not extracted in this process. We use tracking information on an aggregated basis to help us operate the 2Carpros.com Network, enhance and improve our service, improve the look of the 2Carpros.com Network and display advertising and marketing information. 
+
+The 2Carpros.com Network may contain advertisements, references and links to other websites and organizations. We may also use third parties to display or serve advertising on the 2Carpros.com Network and our web-based newsletters or other communications which you may choose to receive. Often these third party Advertisers employ cookie and web bug technologies to measure advertising effectiveness. You should be aware that different rules might apply to the collection, use or disclosure of your information by third parties in connection with their advertisements, promotions and other websites you encounter on the Internet. The use of such technology by these third parties is within their control and not ours. Even if we have a relationship with the third party, we do not control those sites or their policies and practices regarding your information. This Privacy Policy does not cover any use of Personal Information that an Advertiser or ad server may collect from you. We encourage you to investigate and ask questions directly of them in this regard. 
+
+Privacy of Your Postings: We respect the privacy of the contents of users' e-mail and Postings. However, we reserve the right to monitor, edit, and disclose your use of the 2Carpros.com Network, information pertaining to any e-mail or Posting or its contents to a third party, if we believe such action is required by law or is necessary to protect and defend our rights, to enforce this Privacy Policy or our [Terms of Use](http://www.2carpros.com/kpages/terms.htm), or to protect the interests of our users, Affiliates, Advertisers, suppliers, service providers and others. 
+
+Disclosure to Third Parties: We do not sell, rent, lease or disclose your Personal Information to unaffiliated entities or entities that are not our Advertisers, except in the limited circumstances listed below. When we plan to disclose your Personal Information to Advertisers, we ask you to opt-in to do so, in which case their use of your information is subject to the Advertisers' own privacy policies. We may disclose Personal Information to Affiliates for marketing or administrative purposes. You can opt-out of these procedures if desired by disabling your cookie feature from your browser.
+
+If you have any question or comments about 2Carpros.com please [contact us](http://www.2carpros.com/kpages/contact-us.htm)
