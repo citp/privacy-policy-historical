@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dreamwidth.org privacy policy that was archived on 2009-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090511175717id_/http%3A//www.dreamwidth.org/legal/privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamwidth.org privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212002216id_/http%3A//www.dreamwidth.org/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We hate legalese, so we've tried to make ours readable. If you've got any questions, feel free to [ask us](http://www.dreamwidth.org/support/submit.bml), and we'll do our best to answer.
+We hate legalese, so we've tried to make ours readable. If you've got any questions, feel free to [ask us](http://www.dreamwidth.org/support/submit), and we'll do our best to answer.
 
 This privacy statement ("Privacy Policy") covers all websites (such as www.dreamwidth.org) owned and operated by Dreamwidth Studios, LLC ("we", "us", "our") and all associated services.
 
@@ -53,6 +53,8 @@ From time to time, we may release information in aggregate form (for instance, b
 We will not sell or provide this information to any third party, with exceptions as set forth below.
 
 By choosing to make any personally-identifying information public, you recognize and accept that other people, not affiliated with us, may use this data to contact you. We can't be responsible for the use of any information you post publicly.
+
+From time to time, we may allow you to provide us with your login credentials for a site that is not owned and operated by us in order to allow you to integrate data from that external service to your Dreamwidth account. Examples of this include the journal import feature and the entry crosspost feature. Providing us this information is completely optional. Your login credentials are only used for the purposes of these features, and are not used for any other purpose.
 
 ## Disclosure of personally-identifying information
 
@@ -106,7 +108,7 @@ From time to time, we may contract with outside vendors to provide business serv
 
 Our current business vendors are:
 
-  * [Google Business Services](http://www.google.com/services/): We use Google Business Services for their Google Analytics and Google Checkout services. For information on how Google Business Services may use your information, see [Google's Privacy Center](http://www.google.com/intl/en_ALL/privacy.html). Google Analytics collects aggregate data on site usage, such as browser type and the navigational paths our users use, which helps us make decisions about how to improve the site. To opt out of your site use being included in our Google Analytics report, you can use a browser plugin to block the JavaScript being served by google-analytics.com. Google Checkout is a method by which users can make payments for their accounts. To opt out of using Google Checkout, you can decline to make a payment for your account, or use an alternate payment method.
+  * [Google Business Services](http://www.google.com/services/): We use Google Business Services for their Google Analytics service. For information on how Google Business Services may use your information, see [Google's Privacy Center](http://www.google.com/intl/en_ALL/privacy.html). Google Analytics collects aggregate data on site usage, such as browser type and the navigational paths our users use, which helps us make decisions about how to improve the site. Some users may also have added Google Analytics code to their journals. To opt out of your site use being included in our Google Analytics report, you can use a browser plugin to block the JavaScript being served by google-analytics.com. 
   * [PayPal Merchant Processing](https://www.paypal.com/us/): We use PayPal to allow users to make payments for their accounts. For information on how PayPal may use your information, see [PayPal's Privacy Policy](https://www.paypal.com/us/cgi-bin/webscr?cmd=p/gen/ua/policy_privacy-outside). To opt out of using PayPal Merchant Processing, you can decline to make a payment for your account, or use an alternate payment method. 
 
 
