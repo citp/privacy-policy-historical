@@ -1,59 +1,130 @@
-> *The following text is extracted and transformed from the whitepagesinc.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601083342id_/http%3A//www.whitepagesinc.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitepagesinc.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211133714id_/http%3A//www.whitepagesinc.com/privacy_policy) for the most accurate reproduction.*
 
 # WhitePages - Privacy Policy
 
-**Our Privacy Policy**
-
+| [](http://www.etrust.org/cert/783904.html)  
+---|---  
+  
 * * *
 
-LAST REVISION: January 31, 2009
+It is our goal to make it fantastically simple for everyone to connect with confidence through our network of WhitePages websites. The key word here is "confidence." We want you to understand how your information is collected and used. 
 
-This privacy policy applies to all of the products, services and Web sites offered by WhitePages, Inc. or its subsidiaries or affiliated companies (collectively, "Services"). It does not apply to information we may receive from other sources such as directory listing information, whether or not it is posted on the Web sites offered by us ("Sites"). This policy does not apply to Sites or Services that do not link to this policy or that have Service-specific policies. By using any of our Sites or Services, you agree to the terms in this policy. If you have any questions about this Policy, please feel free to contact us through our Web site or write to us at Privacy, c/o WhitePages Inc., 1301 5th Ave, Seattle, Washington 98101.
+**Information Published on WhitePages Websites**
 
-> 1\. **Published Information on Sites:** We obtain our listing information from a broad variety of publicly available information sources including public records and third party data suppliers. Because this information is not collected on our Sites, it is not governed by this policy. You may request that your published information be removed from the Sites by following the online removal process for the respective Site.
-> 
-> 2\. **Types of Information Covered by this Policy:** Information that you provide when using our Services which identifies you by full name, postal address, phone number or email address, is referred to as "Personally Identifiable Information." Information such as browser type, operating system, searches, Web pages visited and information about a group or category of users is referred to as "General Information."
-> 
-> 3\. **Information We Collect:**
->
->>   * Personally Identifiable Information. You may provide Personally Identifiable Information to us in various circumstances on the Sites including registration based services, user panels and surveys, and communications to us. For example, you may be required to register to participate in certain services. During registration, we may request information such as your name and email address, and other information necessary to process payment for the service, such as a credit card number, expiration date and billing address.  We do not collect any Personally Identifiable Information about you on the Sites unless you choose to provide it. This means that you can visit most areas of our Sites without providing us any Personally Identifiable Information. 
->>   * General Information. 
->> 
+It's important for you to know that we acquire much of the information published on our websites from third-party data suppliers and other sources. Our Privacy Policy does not apply to that information. It applies only to the information that you provide directly to us. We detail the specifics below.
 
->>
->>>   * Server log information. As you browse the Sites, our servers collect information about your visit. Such information may include your browser type, Internet Protocol (IP) address, the date and time of your browsing sessions, which Web pages you viewed, other communications with the Services and the IP address of the Web page you visited immediately prior to visiting the Sites. 
->>>   * Information collected by cookies, Web beacons and similar technologies. When you use the Sites, we may send your computer a "cookie" to identify your Web browser. A cookie is a small file that our servers send to your computer and which uniquely identifies your browser. We may use cookies to track and compile your browsing habits on the Sites, to keep you logged in to your Account (if applicable) and to prevent you from having to enter the same information repeatedly. We may also use "Web beacons," which are small graphic files that may be included in or attached to an email message or Web page, to track your browsing habits on the Sites and to know whether you have opened an email from us. We use the information we obtain from cookies and Web beacons for purposes such as verifying whether you have an account with us, tracking your visits to the Sites, customizing advertising content, and counting the unique visitors to our Sites. Most browsers allow you to disable cookies (i.e., not allow our servers to send cookies to your browser); however, some of our services may not function properly if you disable cookies. 
->>> 
+**Remove Published Information** ****
 
-> 
-> 4\. **Information Other Companies and Advertisers Collect:**
->
->>   * Sites we do not own or operate. The Sites may contain or link to features and content on Web sites we do not own or operate. Such Web sites may collect information about you, but we do not have control over their collection practices. In particular, please note that even if a third-party Web site indicates that it is "powered by WhitePages.com," that does not mean that we have control over the information collection practices of that Web site (or any Web site other than the Sites). If you are visiting a third-party Web site, please read its privacy policy to understand its policies regarding information collection, usage and disclosure. 
->>   * Advertisers. We may host (or contract with third parties to host) advertising on the Sites. If you visit a Web site depicted in an advertisement, any Personally Identifiable Information you provide while on such site will be provided to the advertiser. The advertiser's privacy policies and practices may differ from ours, so you should check the advertiser's privacy policy before supplying Personally Identifiable Information on the advertiser's site. Third-party advertisers may also use cookies and Web beacons on the Sites. These technologies allow the advertiser to recognize a cookie in your browser when you visit the Sites. The information that these advertisers collect through these technologies is not Personally Identifiable Information. 
->>   * Advertising networks. We may allow third-party advertising companies and networks to serve cookies on the Sites and to serve ads to you when you visit our Sites or other Web sites. These companies and networks may use General Information about your visits to the Sites and other Web sites in order to provide advertisements about goods and services that they believe may be of interest to you. If you would like more information about these practices and to understand your choices regarding use of this information by these companies, you may visit <http://www.networkadvertising.org/optout_nonppii.asp>. 
->>   * __Site usage. We may use third-party marketing companies to help us measure the effectiveness of our advertising and to analyze how visitors use the Sites. To do this, we may use cookies, Web beacons and other technologies provided by these companies to collect information. This information helps us learn things like the pages that are most often viewed by our visitors and the kinds of offers that our visitors most often select. Although these third-party companies log the information coming from the Sites on our behalf, we place restrictions on those third parties' use of such information. You may learn how to "opt out" of our ability to analyze such data by visiting <http://www.omniture.com/privacy/policy#optout>. 
->> 
+If you want to remove information - such as your name, address and phone number - from being shown on WhitePages websites, [click here](http://www.whitepages.com/help/privacy_central#6). For specific information about how you can control the information we may publish about you, [click here](http://www.whitepages.com/help/privacy_central "Privacy Central").
 
-> 
-> 5\. **Information Use and Sharing:** We use the information we collect for the purpose for which it was provided. We may use Personally Identifiable Information and General information in combination with other information about you received from third-parties in order to provide you with a better user experience, develop new Services, improve the quality of our existing Services, and for internal business purposes.
-> 
-> We are not in the business of selling Personally Identifiable Information. We may disclose your Personally Identifiable Information for the following reasons:
->
->>   * _Internal business purposes._ We may share personal information with third parties to complete transactions you have requested and to perform services on our behalf. When these third parties perform services on our behalf, they are obligated to keep such information confidential and to only use the information for the purpose it was provided. 
->>   * _You authorize it._ We may disclose your personal information if you authorize it. Sometimes, your authorization may be implicit. For example, if you use our "Send Listing to Email" service, your name and email address, along with any comments provided by you, is sent to the recipient of the email. 
->>   * _To protect ourselves or others._ We disclose personal information when we believe it is appropriate to comply with the law (e.g., a lawful subpoena, warrant or court order); to enforce or apply this policy, or our other policies or agreements; to initiate, render, bill and collect for amounts owed to us; to protect our or our users' rights, property or safety; to protect our users from fraudulent, abusive or unlawful use of the Sites or any services; or if we reasonably believe that an emergency situation requires or justifies disclosure of communications or personal information without delay. 
->>   * _Certain business transfers._ Information about you, including personal information, may be disclosed as part of any merger, acquisition, debt financing or sale of company assets, as well as in the event of an insolvency, bankruptcy or receivership in which personal information could be transferred to third parties as one of our business assets. 
->> 
+**This policy is effective as of September 11, 2009.**
 
-> 
-> 6\. **Access to Your Personally Identifiable Information:** If you have registered for an Account, you may access, review and update the Personally Identifiable Information you provided during registration by logging into your Account with your username and password.
-> 
-> 7\. **Opting Out of Marketing Communications:** Regardless of how you have registered with us and set up your Account, you can elect not to receive any marketing messages from us. You may either follow the opt-out instructions provided in an email message we send to you, or log in to your Account and de-select the box indicating that you would like to receive those communications. We honor opt-out requests within 10 business days.
-> 
-> Please be advised that if you choose not to receive marketing communications, you will continue to receive communications regarding your transactions and Account with us (e.g., registration and purchase confirmation emails, and information about your Account, if applicable).
-> 
-> 8\. **Security of Your Personally Identifiable Information:** We use reasonable security measures to protect your Personally Identifiable Information from unauthorized use and disclosure while in our control. We use Secure Socket Layer (SSL) encryption to protect highly confidential Personally Identifiable Information, such as credit card information, that is transmitted over the Internet. Despite our best efforts, however, no security measures are perfect, and we cannot guarantee that your information will be secure from unauthorized access, use or disclosure.
-> 
-> 9\. **Children's Privacy:** Our Sites and services are not intended for and may not be used by children under the age of 13. WhitePages, Inc. does not target the Sites or Services to, or knowingly request, collect, use or share information from, children under the age of 13.  As a result of fraud, error or action by others, it is possible that we may receive information given to us or pertaining to children under the age of 13. If we are notified of this, as soon as we verify the information, we will promptly delete the information from our servers. Questions regarding children's privacy should be directed to: Privacy, c/o WhitePages, Inc., 1301 5th Ave, Suite 1600, Seattle, Washington 98101. Email: childrensprivacy@whitepages.com
-> 
-> 10\. **Changes to this Policy:** We may change or update this policy from time to time. Any changed or revised policy shall be effective immediately after it is posted on the Sites. We will provide notice of any material changes to this policy by posting a notice on our Sites or by some other reasonable means.
+Our privacy policy will help you understand the different types of information we collect when you use our services (the "Services"). By using our Services, you agree to our privacy policy and [terms of service](https://web.archive.org/terms_of_use). We may change or update this policy from time to time. Any updated policy shall be effective immediately after it is posted. ********
+
+**The Information We Collect & How We Use It **
+
+There are three categories of information that we collect from you:
+
+  * Member Contributed Information
+  * Personal Information
+  * General Information
+
+
+
+In addition to the specific uses noted below, we may use, store and review information we collect from you for a variety of internal business purposes, such as to provide, monitor and maintain the Services, provide you with a better user experience and develop new services. We also may use this information to deliver advertisements that match your interests (though not unsolicited third-party email).
+
+**1.    Member Contributed Information** ****
+
+This is any information that you voluntarily send, post, upload, or display to others through the Services. For example, a name, phone number or address that you choose to add to your listing is Member Contributed. Information that you send or post to others via text message, SMS, or email is also Member Contributed.
+
+**How we use it:**
+
+Our use of Member Contributed Information is straightforward - we publish it, send it to the intended recipient or use it in accordance with any terms and conditions you agree upon when you submit the information. **** Although we allow you to set privacy options that limit access to certain information, you should assume that Member Contributed Information may be accessible by anyone.
+
+**2.** **Personal Information**
+
+This is information that you provide when using the Services which is not provided for publication, transmission or display through the site AND identifies you by full name, full postal address, phone number or email address, or includes information necessary to process payment for the Services. Examples of Personal Information include your username and password and payment information such as a credit card number, expiration date, and billing address.
+
+To be very clear, Personal Information does not include any contact information you choose to publish on WhitePages websites. That's Member Generated Information.
+
+**How we use it:**
+
+  * We may use Personal Information for the purposes for which it was provided, such as to process transactions and to send text messages or emails to other members.
+  * We may use your email address to send email about your account or marketing messages to any email address you provide us. 
+  * You can always choose not to receive any marketing email. We offer an "unsubscribe" in the marketing emails we send. If you choose not to receive marketing email, you may still receive WhitePages email and other communication (e.g. SMS, text messages, etc.) from us based on Services you may have signed up for. 
+
+
+
+**3.    General Information**
+
+This information includes things like your browser type, IP address, the date and time of your visits, locality (your city and state), which web pages you viewed, searches you conducted, and other communications through the Services. Through surveys we may collect General Information, such as your age, gender or interests.
+
+We use cookies, web beacons and GPS information (for mobile devices) to collect General Information.
+
+**A cookie** is a small file that we send to your computer to identify your web browser.  Most browsers allow you to disable cookies (not allow our servers to send cookies to your browser). However, some of the Services may not function properly if you disable cookies.
+
+**A web beacon** is a small graphic file used to identify if a page has been viewed.
+
+**GPS Information** includes city, state and other information when you use our services on a GPS-enabled mobile device.
+
+**How we use it:**
+
+We use General Information to facilitate your use of our Services and to help us understand how people like you use our Services. For example, we may use cookies to keep you logged in to your account, track your use of our Services, pre-populate certain fields (like your default location), and to deliver advertising that matches your interests. We may use GPS information to pre-populate certain search fields on your GPS-enabled mobile device.
+
+**How Third Parties Collect & Use Your Information **
+
+WhitePages works with Audience Science and other third party companies to deliver advertisements on our websites. These third parties may collect and use General Information to deliver more relevant advertising to you and for their own business purposes.
+
+**Opt-Out Option:**
+
+To stop information collection and targeted advertising from Audience Science and other third-party companies, [click here](http://www.networkadvertising.org/optout_nonppii.asp).
+
+**Advertising Forms & Surveys**
+
+Some third-party advertisements include surveys or forms, which prompt you to enter search criteria or other General Information, such as your age or gender. An advertiser may receive the information you enter into a form or survey contained in an advertisement. Similarly, advertisements typically link to third-party websites.
+
+It's important to remember that we do not have control over the privacy policies of advertisers or other third-party websites. So before you enter any information into a form or survey contained in an advertisement, or click through to a third-party website linked from an advertisement, we encourage you to read the privacy policy of the advertiser or third-party website.
+
+Websites that contain a "Powered by WhitePages" logo may not be controlled by WhitePages, therefore please review the privacy policies on such web pages as our privacy policy might not apply.
+
+**Analysis of Your Data**
+
+We may use third parties to help measure the effectiveness of our advertising and to analyze usage of the Services. Third parties help us analyze General Information we obtain from you (we generally place restrictions on those third parties' use of such information). Third parties may also use the General Information for their business purposes, such as to report aggregate, non-personally identifiable information about the use of their services and technologies in connection with the Services.
+
+**Opt-Out Option:**
+
+To stop certain companies from analyzing your data, [click here](http://www.omniture.com/privacy/policy#optout).
+
+**When We Share Information With Third Parties**
+
+We do not sell your Personal Information or Member Contributed Information to third parties. We may share the information subject to this policy, but only in the following circumstances.
+
+**1\. To help us provide the Services to you.** We may share information with third parties to complete transactions you've requested or to perform services on our behalf. Third parties who perform services on our behalf are obligated to use the information for the purpose it was provided.
+
+**2\. To comply with the law.** We may disclose information we collect (including Personal Information) when we believe it is appropriate to comply with the law, such as in response to a subpoena or court order.
+
+**3\. For safety reasons or to protect our interests**. __ We may disclose information we collect (including Personal Information) in order to prevent damage to our property (tangible and intangible), for safety reasons or in the course of collecting amounts owed to us. __
+
+**4\. Business transfers**. We will not sell Personal Information unless it is in the context of a merger, acquisition, business reorganization, debt financing or sale of company assets, or in the event of an insolvency, bankruptcy or receivership. In these transactions, the information which we collect may be transferred to third parties as one of our business assets.
+
+**5\. You authorize it.** We may disclose information if you authorize it. Sometimes, your authorization may be implicit. For example, if you use our "Send Listing to Email" or SMS message service, information you provide, which may include your name, email address and phone number, as well as any message content, may be sent to the recipient.
+
+**The Security of Your Personal Information**
+
+We use reasonable security measures to protect your Personal Information from unauthorized use and disclosure while in our control. We use Secure Socket Layer (SSL) encryption to protect certain Personal Information. However, no security measures are perfect, and we cannot guarantee that any information will be secure from unauthorized access or use.
+
+**Children & WhitePages**
+
+Our Services are not intended for children under the age of 13. We do not knowingly publish information for anyone under the age of 18 through our Services. If you know of anyone under the age of 18 whose information is published through our Services, or have other concerns about children's privacy, please write to us at [childrensprivacy@whitepages.com](mailto:childrensprivacy@whitepages.com).
+
+**Contact Us**
+
+If you have any questions about this policy,   
+**email us at:  
+**[privacy@whitepages.com](mailto:privacy@whitepages.com)
+
+ **or write to:**  
+WhitePages Privacy Manager  
+1301 Fifth Ave  
+Suite 1600  
+Seattle, WA 98101
