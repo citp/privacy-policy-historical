@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indofeed.com privacy policy that was archived on 2009-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090312064211id_/http%3A//www.indofeed.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indofeed.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211200718id_/http%3A//www.indofeed.com/privacy.php) for the most accurate reproduction.*
 
 # IndoFeed Social Bookmarking
 
@@ -27,6 +27,10 @@ We implement a variety of security measures to maintain the safety of your perso
 
 Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information   
 We use cookies to compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+
+##  **DoubleClick DART cookie**
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
 
 ##  **Do we disclose any information to outside parties?**
 
