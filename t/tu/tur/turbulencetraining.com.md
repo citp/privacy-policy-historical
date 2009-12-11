@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the turbulencetraining.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617013852id_/http%3A//www.turbulencetraining.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turbulencetraining.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211195118id_/http%3A//www.turbulencetraining.com/privacy.shtml) for the most accurate reproduction.*
 
-# Turbulence Training Privacy Policy
+# Turbulence Training Fat Loss Craig Ballantyne
 
 Last Updated: June 1, 2006
 
@@ -53,4 +53,4 @@ C/O CB Athletic Consulting, Inc
 Toronto, Ontario  
 M6S 5A5
 
-[Click here to Email us](mailto:cb@cbathletics.com)
+[Click here to Email us](https://web.archive.org/contact/contact.php)
