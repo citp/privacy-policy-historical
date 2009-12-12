@@ -1,0 +1,540 @@
+<!--The following is the downloaded HTML source of the swellinfo.com privacy policy that was archived on 2009-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091212094457id_/http%3A//www.swellinfo.com/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Swellinfo Privacy Policy</title>
+<meta http-equiv="PRAGMA" content="NO-CACHE">
+<meta name="description" content="Swellinfo Privacy Policy">
+<meta name="keywords" content="Swellinfo Privacy Policy">
+<style type="text/css" media="screen">
+<!--
+@import url("/style.css");
+@import url("/style_micah.css");
+@import url("/niftyCorners.css");
+
+-->
+</style>
+
+<script language="JavaScript" src="http://www.swellinfo.com/js/jquery-1.3.2.min.js"></script>
+<script language="JavaScript" src="/ads/www/delivery/fl.js"></script>
+<script language="JavaScript" src="/javascripts2.js"></script>
+
+<script language="javascript" type="text/javascript">
+<!--
+
+function No_Flash_Download() {
+	Set_Cookie('deny_new_flash', '1', '15', '/', '', ''); 
+}
+
+function Get_New_Flash() {
+	Delete_Cookie('deny_new_flash', '/', '');
+	window.location = window.location;
+}
+
+var deny_flash_download = Get_Cookie('deny_new_flash') ? true : false;
+
+var XMLHttpRequestObject = false;
+
+if (window.XMLHttpRequest) {
+	XMLHttpRequestObject = new XMLHttpRequest();
+} else if (window.ActiveXObject) {
+		XMLHttpRequestObject = new ActiveXObject("Microsoft.XMLHTTP");
+}
+
+function selectRegion(menu) { 
+  var region = document.getElementById('region'+menu).value;
+  getMenu('jsmenus'+menu+'.php?js_region='+region,'area'+menu);
+}
+function selectArea(menu) { 
+  var area = document.getElementById('sub_area'+menu).value;
+  getMenu('jsmenus'+menu+'.php?sub_area='+area,'loc'+menu);  
+}
+
+function getData(dataSource,divID,castLabel) {
+
+	if(XMLHttpRequestObject){
+		var obj=document.getElementById(divID);
+
+		if (castLabel) {
+			var cast=document.getElementById('castlabel');
+		} else {
+			var cast='QUICKCAST';
+		}	
+		
+		XMLHttpRequestObject.open("GET",dataSource);
+
+		XMLHttpRequestObject.onreadystatechange = function() {
+
+                        if(XMLHttpRequestObject.readyState > 1 && XMLHttpRequestObject.readyState < 4) {
+				obj.innerHTML = '<div style="position:relative"><span style="z-index:2;position:absolute;top:50px;left:100px"><img src="images/loading.gif" /></span></div>' + obj.innerHTML ; 
+                        }
+
+			if (XMLHttpRequestObject.readyState == 4 && XMLHttpRequestObject.status == 200) {
+
+				changeOpac(0,divID);
+				obj.innerHTML = XMLHttpRequestObject.responseText;
+				if (castLabel) { cast.innerHTML = castLabel; }
+				opacity(divID, 0, 100, 500);	
+			}
+		}		
+		XMLHttpRequestObject.send(null);
+	}
+
+}
+function getMenu(dataSource,divID) {
+
+	if(XMLHttpRequestObject){
+		var obj=document.getElementById(divID);
+
+		XMLHttpRequestObject.open("GET",dataSource);
+
+		XMLHttpRequestObject.onreadystatechange = function() {
+
+                        if(XMLHttpRequestObject.readyState == 2) {
+				if (divID == 'area' || divID == 'loc') {
+					obj.innerHTML = '<select id="sub_area" class="js_menus"><option>Loading ...</option></select>';
+					if (divID == 'area') { document.getElementById('loc').innerHTML = '<select id="location" class="js_menus"><option>Select Sub Area</option></select>'; } 
+				}
+				else if (divID == 'area_home' || divID == 'loc_home') {
+					obj.innerHTML = '<select class="js_menus_home2"><option>Loading ...</option></select>';
+					if (divID == 'area_home') { document.getElementById('loc_home').innerHTML = '<select id="location_home" class="js_menus_home2"><option>Select Sub Area</option></select>'; }
+				}
+
+                        }
+			
+			if (XMLHttpRequestObject.readyState == 4 && XMLHttpRequestObject.status == 200) {
+
+				obj.innerHTML = XMLHttpRequestObject.responseText;
+
+				if (divID == 'area') { 
+					  document.getElementById('sub_area').style.backgroundColor = "lightblue";
+				} else if (divID == 'area_home') { 
+					  document.getElementById('sub_area_home').style.backgroundColor = "lightblue";		
+				} else if (divID == 'loc') { 
+					  document.getElementById('sub_area').style.backgroundColor = "";	
+					  document.getElementById('location').style.backgroundColor = "lightblue";	
+				} else if (divID == 'loc_home') { 
+					  document.getElementById('sub_area_home').style.backgroundColor = "";	
+					  document.getElementById('location_home').style.backgroundColor = "lightblue";	
+				}		
+			}
+		}		
+		XMLHttpRequestObject.send(null);
+	}
+
+}
+-->
+</script>
+
+<script language="JavaScript" type="text/javascript">
+<!--
+// -----------------------------------------------------------------------------
+// Globals
+// Major version of Flash required
+var requiredMajorVersion = 8;
+// Minor version of Flash required
+var requiredMinorVersion = 0;
+// Minor version of Flash required
+var requiredRevision = 0;
+// the version of javascript supported
+var jsVersion = 1.0;
+// -----------------------------------------------------------------------------
+// -->
+</script>
+<script language="VBScript" type="text/vbscript">
+<!-- // Visual basic helper required to detect Flash Player ActiveX control version information
+Function VBGetSwfVer(i)
+  on error resume next
+  Dim swControl, swVersion
+  swVersion = 0
+  
+  set swControl = CreateObject("ShockwaveFlash.ShockwaveFlash." + CStr(i))
+  if (IsObject(swControl)) then
+    swVersion = swControl.GetVariable("$version")
+  end if
+  VBGetSwfVer = swVersion
+End Function
+// -->
+</script>
+<script language="JavaScript1.1" type="text/javascript">
+<!-- // Detect Client Browser type
+var isIE  = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;
+var isWin = (navigator.appVersion.toLowerCase().indexOf("win") != -1) ? true : false;
+var isOpera = (navigator.userAgent.indexOf("Opera") != -1) ? true : false;
+jsVersion = 1.1;
+// JavaScript helper required to detect Flash Player PlugIn version information
+function JSGetSwfVer(i){
+	// NS/Opera version >= 3 check for Flash plugin in plugin array
+	if (navigator.plugins != null && navigator.plugins.length > 0) {
+		if (navigator.plugins["Shockwave Flash 2.0"] || navigator.plugins["Shockwave Flash"]) {
+			var swVer2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";
+      		var flashDescription = navigator.plugins["Shockwave Flash" + swVer2].description;
+			descArray = flashDescription.split(" ");
+			tempArrayMajor = descArray[2].split(".");
+			versionMajor = tempArrayMajor[0];
+			versionMinor = tempArrayMajor[1];
+			if ( descArray[3] != "" ) {
+				tempArrayMinor = descArray[3].split("r");
+			} else {
+				tempArrayMinor = descArray[4].split("r");
+			}
+      		versionRevision = tempArrayMinor[1] > 0 ? tempArrayMinor[1] : 0;
+            flashVer = versionMajor + "." + versionMinor + "." + versionRevision;
+      	} else {
+			flashVer = -1;
+		}
+	}
+	// MSN/WebTV 2.6 supports Flash 4
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.6") != -1) flashVer = 4;
+	// WebTV 2.5 supports Flash 3
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.5") != -1) flashVer = 3;
+	// older WebTV supports Flash 2
+	else if (navigator.userAgent.toLowerCase().indexOf("webtv") != -1) flashVer = 2;
+	// Can't detect in all other cases
+	else {
+		
+		flashVer = -1;
+	}
+	return flashVer;
+} 
+// When called with reqMajorVer, reqMinorVer, reqRevision returns true if that version or greater is available
+function DetectFlashVer(reqMajorVer, reqMinorVer, reqRevision) 
+{
+ 	reqVer = parseFloat(reqMajorVer + "." + reqRevision);
+   	// loop backwards through the versions until we find the newest version	
+	for (i=25;i>0;i--) {	
+		if (isIE && isWin && !isOpera) {
+			versionStr = VBGetSwfVer(i);
+		} else {
+			versionStr = JSGetSwfVer(i);		
+		}
+		if (versionStr == -1 ) { 
+			return false;
+		} else if (versionStr != 0) {
+			if(isIE && isWin && !isOpera) {
+				tempArray         = versionStr.split(" ");
+				tempString        = tempArray[1];
+				versionArray      = tempString .split(",");				
+			} else {
+				versionArray      = versionStr.split(".");
+			}
+			versionMajor      = versionArray[0];
+			versionMinor      = versionArray[1];
+			versionRevision   = versionArray[2];
+			
+			versionString     = versionMajor + "." + versionRevision;   // 7.0r24 == 7.24
+			versionNum        = parseFloat(versionString);
+        	// is the major.revision >= requested major.revision AND the minor version >= requested minor
+			if ( (versionMajor > reqMajorVer) && (versionNum >= reqVer) ) {
+				return true;
+			} else {
+				return ((versionNum >= reqVer && versionMinor >= reqMinorVer) ? true : false );	
+			}
+		}
+	}	
+}
+// -->
+
+var detect = navigator.userAgent.toLowerCase();
+var OS,browser,version,total,thestring;
+
+if (checkIt('konqueror'))
+{
+	browser = "Konqueror";
+	OS = "Linux";
+}
+else if (checkIt('safari')) browser = "Safari"
+else if (checkIt('omniweb')) browser = "OmniWeb"
+else if (checkIt('opera')) browser = "Opera"
+else if (checkIt('webtv')) browser = "WebTV";
+else if (checkIt('icab')) browser = "iCab"
+else if (checkIt('msie')) browser = "Internet Explorer"
+else if (!checkIt('compatible'))
+{
+	browser = "Netscape Navigator"
+	version = detect.charAt(8);
+}
+else browser = "An unknown browser";
+
+if (!version) version = detect.charAt(place + thestring.length);
+
+if (!OS)
+{
+	if (checkIt('linux')) OS = "Linux";
+	else if (checkIt('x11')) OS = "Unix";
+	else if (checkIt('mac')) OS = "Mac"
+	else if (checkIt('win')) OS = "Windows"
+	else OS = "an unknown operating system";
+}
+
+function checkIt(string)
+{
+	place = detect.indexOf(string) + 1;
+	thestring = string;
+	return place;
+}
+
+</script>
+
+<!-- begin script to create random number for ads -->
+<script type="text/javascript">
+<!--
+sgi_ord=Math.random()*10000000000000000;
+sgi_tile=1;
+//-->
+</script>
+<!-- End random number script -->
+
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">_qoptions = { tags:"adrenaline junkies" }; _qacct="p-31QupbWRoAvms";quantserve();</script>
+<noscript>
+<a href="http://www.quantcast.com/p-31QupbWRoAvms" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-31QupbWRoAvms.gif?tags=adrenaline%20junkies" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+<!-- End Quantcast tag -->
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-4536983-3");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+
+<base href="http://www.swellinfo.com/">
+</head>
+
+<body>
+<table width="1001" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td colspan="2"><table width="1001" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td width="163" rowspan="4"><a href="http://www.swellinfo.com"><img src="/images/swellinfologo_big.png" alt="SwellInfo.com" width="163" height="159" border="0"></a></td>
+        <td width="838" height="21" valign="bottom"><table width="838" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="left" valign="bottom" class="topwhitetext"><div style="padding-bottom: 2px; position: relative;" class="\&quot;topwhitetext\&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="javascript:toggleBox('loginbox');" class="toplink">LOGIN</a><div id="loginbox" style="color: #000000; float: right; position:absolute; left: 10px; top: 20px; border: 1px solid #255B81; background: #ffffff; width: 240px; display:none; z-index:1;">
+					
+		<form action="/forum/login.php" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)" style="padding: 0px 0px 0px 0px; margin: 0px 0px 0px 0px;">
+		<script type="text/javascript" src="/forum/clientscript/vbulletin_md5.js"></script>
+		<table cellpadding="0" cellspacing="3" border="0">
+		<tbody><tr>
+		<td class="smallfont"><label for="navbar_username">User Name</label></td>
+		<td><input type="text" class="bginput" style="font-size: 11px" name="vb_login_username" id="navbar_username" size="10" accesskey="u" tabindex="101" value="User Name" onfocus="if (this.value == 'User Name') this.value = '';"></td>
+		<td class="smallfont" colspan="2" nowrap="nowrap"><label for="cb_cookieuser_navbar"><input type="checkbox" checked="checked" name="cookieuser" value="1" tabindex="103" id="cb_cookieuser_navbar" accesskey="c">Remember Me?</label></td>
+		</tr>
+		<tr>
+		<td class="smallfont"><label for="navbar_password">Password</label></td>
+		<td><input type="password" class="bginput" style="font-size: 11px" name="vb_login_password" id="navbar_password" size="10" accesskey="p" tabindex="102"></td>
+		<td><input type="submit" class="button" value="Log in" tabindex="104" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." accesskey="s"></td>
+		</tr>
+		<!--
+		<tr>
+		  <td>OR</td>
+		  <td colspan="2">
+        		
+                        <a href="#" onclick="facebook_requestSession(); return false;"><img id="fb_login_image" src="http://static.ak.fbcdn.net/images/fbconnect/login-buttons/connect_dark_medium_long.gif" border="0" alt="Connect"/></a>
+		  </td>
+		</tr>
+		-->
+		</tbody></table>
+      		<input type="hidden" name="s" value="">
+      		<input type="hidden" name="do" value="login">		
+      		<input type="hidden" name="vb_login_md5password">
+      		<input type="hidden" name="vb_login_md5password_utf">
+      		</form>
+					
+		</div>&nbsp;| <a href="/forum/register.php" class="toplink">REGISTER</a> <!-- |
+		<a href="#" onclick="facebook_requestSession(); return false;"><img style="position:relative; top:2px" id="fb_login_image" src="http://static.ak.fbcdn.net/images/fbconnect/login-buttons/connect_dark_small_short.gif" border="0" alt="Connect"/></a> --></div></td><td align="right" class="topwhitetext" valign="bottom"><div style="padding-bottom: 2px;"><a href="/about.html" class="toplink">ABOUT</a> | <a href="/tutorials/tutorials.html" class="toplink">TUTORIALS</a> | <a href="/advertise.html" class="toplink">ADVERTISE</a> | <a href="http://www.swellinfo.com/services.html" class="toplink">SERVICES</a> &nbsp;</div></td></tr></tbody></table></td>
+      </tr>
+      <tr>
+        <td width="838" height="95" valign="bottom"><table width="838" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td width="104"><a href="http://www.swellinfo.com"><img src="/images/swellinfotop_big.png" alt="SwellInfo.com" width="104" height="95" border="0"></a></td><td width="734" align="center" valign="middle" style="background: url(/images/swellinfo_bnr_bk_big.jpg);">
+		<script type="text/javascript"><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://www.swellinfo.com/ads/www/delivery/ajs.php':'http://www.swellinfo.com/ads/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=11\&amp;source=/privacy.html&amp;blockcampaign=1");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><script type="text/javascript" src="https://www.swellinfo.com/ads/www/delivery/ajs.php?zoneid=11&amp;source=/privacy.html&amp;blockcampaign=1&amp;cb=51066092868&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20091212094457id_/http%253A//www.swellinfo.com/privacy.html&amp;mmm_fo=1"></script><noscript><a href='http://www.swellinfo.com/ads/www/delivery/ck.php?n=a6408ec5&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.swellinfo.com/ads/www/delivery/avw.php?zoneid=11&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a6408ec5' border='0' alt='' /></a></noscript>
+		</td></tr></tbody></table></td>
+      </tr>
+      <tr>
+        <td width="838" height="21" valign="top" style="border-right: 1px solid #255B81; background: url(/images/tbarbk.jpg);"><table width="838" height="21" border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td align="center" class="tbarlinks" width="90"><a href="http://www.swellinfo.com">HOME</a></td>
+				<td width="2"><img src="/images/tbarsep.jpg" width="2" height="21" border="0" alt="Title Bar Seperator"></td>		
+				<td align="center" class="tbarlinks" width="114" onmouseover="javascript:showSubMenu('fSub');" onmouseout="javascript:startTimeout('fSub', 5000);" id="forecastsCell"><div style="position:relative; height: 21px; vertical-align: middle;"><div><a href="surf-forecast.html">FORECASTS</a></div><div style="display:block; position: absolute; left: -2px; top: 21px; display: none;" id="fSub"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="forecastsSub" nowrap=""><form class="js_menus">SELECT A FORECAST:&nbsp;&nbsp;<select id="region" class="js_menus" onchange="javascript:selectRegion('');"><option value="select">Region:</option><option value="ec" id="ec">East Coast USA</option><option value="gulf" id="gulf">Gulf Coast USA</option><option value="wc" id="wc">West Coast USA</option><option value="hi" id="hi">Hawaiian Islands</option><option value="carib" id="carib">Caribbean Islands</option><option value="cenmex" id="cenmex">Cen America/Mexico</option></select>&nbsp; <span id="area"><select id="sub_area" class="js_menus" onchange="javascript:selectArea('');"><option value="select">Sub-Area:</option></select></span>&nbsp; <span id="loc"><select id="location" class="js_menus" onchange="javascript:changeForecast();"><option value="select">Forecast:</option></select></span>&nbsp; <img src="/images/go_btn.jpg" width="16" height="13" border="0" alt="GO" align="absmiddle" onclick="javascript:changeForecast('');" style="cursor: pointer;"></form></td></tr><tr><td style="height: 40px;"></td></tr></tbody></table></div></div></td>
+				<td width="2"><img src="/images/tbarsep.jpg" width="2" height="21" border="0" alt="Title Bar Seperator"></td>
+ 				<td align="center" class="tbarlinks" width="100"><a href="/surfreport.html">REPORTS</a></td>
+				<td width="2"><img src="/images/tbarsep.jpg" width="2" height="21" border="0" alt="Title Bar Seperator"></td>
+ 				<td align="center" class="tbarlinks" width="110"><a href="/tropical/">HURRICANE</a></td>
+				<td width="2"><img src="/images/tbarsep.jpg" width="2" height="21" border="0" alt="Title Bar Seperator"></td>		
+				<td align="left" class="tbarlinks" width="110" onmouseover="javascript:showSubMenu('cSub');" onmouseout="javascript:startTimeout('cSub', 500);"><div style="position:relative; height: 21px; vertical-align: middle;"><div><a href="/forum/">COMMUNITY</a></div><div style="display:block; position: absolute; left: -2px; top: 21px; display: none;" id="cSub"><table width="200" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="communitySub"><a href="/forum/">FORUMS</a></td></tr><tr><td class="communitySub"><a href="/gallery/">PHOTO GALLERY</a></td></tr><tr><td class="communitySub"><a href="/video/">VIDEO</a></td></tr><tr><td class="communitySub"><a href="/forum/memberlist.php">MEMBERS</a></td></tr></tbody></table></div></div></td>
+				<td width="2"><img src="/images/tbarsep.jpg" width="2" height="21" border="0" alt="Title Bar Seperator"></td> 
+ 				<td align="center" class="tbarlinks" width="95"><a style="color:#e17009" href="/rentals">RENTALS</a></td>
+				<td width="2"><img src="/images/tbarsep.jpg" width="2" height="21" border="0" alt="Title Bar Seperator"></td>
+ 				<td align="center" class="tbarlinks" width="95"><a href="/widgets.html" style="">WIDGETS</a></td>
+				<td width="2"><img src="/images/tbarsep.jpg" width="2" height="21" border="0" alt="Title Bar Seperator"></td>
+				<td align="center" class="tbarlinks" width="90"><div style="line-height: 21px;"><a href="/store/">STORE</a></div></td>			
+			</tr>
+			</tbody></table>
+		</td>
+      </tr>
+      <tr> 
+        <td width="838" height="22" valign="top" style="border-right: 1px solid #255B81; background-color: #DBE4EA;"><img src="/images/swellinfonavshadow_big.jpg" alt="SwellInfo.com Navigation" width="838" height="22"></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td width="13"><img src="/images/spacer.gif" alt="Spacer" width="13" height="15"></td>
+    <td width="986" valign="top" style="border-right: 1px solid #255B81; border-left: 1px solid #255B81; border-bottom: 1px solid #255B81; background-color: #DBE4EA;"><img src="/images/spacer.gif" width="986" height="1" border="0"><br>
+      
+<style>
+.heading{ font-weight:bold; text-decoration:underline; }
+.answer{ padding: 10px 0px 10px 10px }
+
+</style>
+
+      <table width="984" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td class="pagetitle">SwellInfo.com Privacy Policy</td>
+      </tr>
+    </tbody></table>
+      <br>
+      <table width="950" border="0" cellspacing="0" cellpadding="0" class="box_text" align="center">
+        <tbody><tr>
+          <td width="700" style="font-size:14px; padding: 0px 15px 0px 15px;">
+	    <!-- content -->
+<div class="heading">What information do we collect?</div>
+<div class="answer">We collect information from you when you place an order, subscribe to our forum or fill out a form. When ordering or registering on our site, as appropriate, you may be asked to enter your name or e-mail address. You may, however, visit our site anonymously. Like Most websites, we use cookies and/or web beacons to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the ‘do we use cookies?’ section below for information about cookies and how we use them. </div>
+
+<div class="heading">What do we use your information for?</div>
+<div class="answer">Any of the information we collect from you may be used in one of the following ways: 
+<br>
+<br>
+ * To personalize your experience. (your information helps us to better respond to your individual needs)
+<br>
+ * To improve our website (we continually strive to improve our website offerings based on the information and feedback we receive from you)
+<br>
+ * To administer a contest, promotion, survey or other site feature
+</div>
+
+<div class="heading">How do we protect your information? </div>
+<div class="answer">We implement a variety of security measures to maintain the safety of your personal information when you access your personal information.</div>
+
+<div class="heading">Do we use cookies? </div>
+<div class="answer">Yes (Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web Browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. 
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. 
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn of all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. </div>
+
+<div class="heading">Do we disclose any information to outside parties? </div>
+<div class="answer">We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, no-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. </div>
+
+<div class="heading">Third party links</div>
+<div class="answer">Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. </div>
+
+<div class="heading">California Online Privacy Protection Act Compliance</div>
+<div class="answer">Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. 
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the ‘Edit Profile’ page. </div>
+
+<div class="heading">Childrens Online Privacy Protection Act Compliance</div>
+<div class="answer">The Swellinfo forum does not allow registration for children under the age of 13. </div>
+
+<div class="heading">Online Privacy Policy Only</div>
+<div class="answer">This online privacy policy applies only to information collected through a website and not to information collected offline. </div>
+
+<div class="heading">Google's DoubleClick DART cookie</div>
+<div class="answer">* Google, as a third party vendor, uses cookies to serve ads on this site. <br>* Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. <br>* Users may opt out of the use of the DART cookie by visiting the <a href="http://www.google.com/privacy_ads.html" target="_blank">Google ad and content network privacy policy</a>. </div>
+
+<div class="heading">Terms and Conditions</div>
+<div class="answer">Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at your site: 
+<br>
+<a href="http://www.swellinfo.com/terms.html">http://www.swellinfo.com/terms.html</a>
+</div>
+
+
+<div class="heading">Your Consent</div>
+<div class="answer">By using our site, you consent to our privacy policy.</div>
+
+<div class="heading">Changes to our Privacy Policy</div>
+<div class="answer">If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
+<br>
+The policy was last modified on May  29, 2009.</div>
+
+<div class="heading">Contacting Us</div>
+<div class="answer">If there are any questions regarding this privacy policy you may contact us using the information below.
+<br>
+<a href="http://www.swellinfo.com/about.html#contact">Online Contact From</a>
+<br>
+1123 North Barret Lane Newark, DE 19702
+<br>
+info@swellinfo.com
+</div>
+		<!-- end content -->
+	  </td>
+	  <td width="250" valign="top" align="center">
+      		<span><script type="text/javascript"><!--// <![CDATA[
+/* openads=http://www.swellinfo.com/ads/www/delivery bannerid=190 zoneid=3 source= */
+// ]]> --></script><script type="text/javascript"><!--
+google_ad_client = "pub-4783050002642937";
+/* 160x600, created 6/6/08 */
+google_ad_slot = "0933399363";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<script type="text/javascript" src="http://www.swellinfo.com/ads/www/delivery/ag.php"></script></span><div id="beacon_a0ef7c5641" style="position: absolute; left: 0px; top: 0px; visibility: hidden;"><img src="http://www.swellinfo.com/ads/www/delivery/lg.php?bannerid=190&amp;campaignid=5&amp;zoneid=3&amp;loc=1&amp;cb=a0ef7c5641" width="0" height="0" alt="" style="width: 0px; height: 0px;"></div>	  </td>
+        </tr>
+      </tbody></table> 
+	   
+      <p style="clear:both">&nbsp;</p>
+	  <div class="mediumbold" style="text-align: center; background:#177497; padding: 10px 0px 10px 0px; color:#FFFFFF; width: 987px;"><a href="http://www.swellinfo.com" class="footerlinks">HOME</a> | <a href="/surf-forecast.html" class="footerlinks">SURF FORECASTS</a> | <a href="/surfreport.html" class="footerlinks">SURF REPORTS</a> | <a href="/surfnews" class="footerlinks">NEWS</a> | <a href="/forum/" class="footerlinks">FORUM</a> | <a href="/gallery/" class="footerlinks">PHOTOS</a> | <a href="/video/" class="footerlinks">VIDEO</a>
+          <br>
+	  <a href="/about.html" class="footerlinks">ABOUT</a> | <a href="/advertise.html" class="footerlinks">ADVERTISE</a> | <a href="/tutorials/tutorials.html" class="footerlinks">TUTORIALS</a> | <a href="/services.html" class="footerlinks">SERVICES</a> | <a href="/about.html#contact" class="footerlinks">CONTACT</a><br></div>
+    </td>
+  </tr>
+</tbody></table>
+<div align="center" class="smallest" style="padding: 5px 0px 5px 0px;">Copyright 2006-2009 Swellinfo.  Use of this site is subject to the following <a href="terms.html">Terms and Conditions</a> and <a href="privacy.html">Privacy Policy</a>.</div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1382814-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+<!-- fbconnect -->
+<script type="text/javascript">
+
+	var bburl = 'http://www.swellinfo.com/forum';
+
+</script>
+<!--
+<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
+<script src="http://www.swellinfo.com/forum/clientscript/fbconnect.js" type="text/javascript"></script>
+<script type="text/javascript">
+<!--
+	// Main Facebook Connect Javascript Initialization
+	FB.init("e68effcf2b3d2c9ecb979269ef2992c9", "/forum/xd_receiver.htm"); 
+</script>
+<!-- fbconnect -->
+
+
+
+</body></html>
