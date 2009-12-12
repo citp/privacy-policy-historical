@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the al.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611182248id_/http%3A//www.al.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the al.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212090940id_/http%3A//www.al.com/privacypolicy) for the most accurate reproduction.*
 
 # al.com: Privacy Policy
 
@@ -65,6 +65,8 @@ Privacy Policy Coordinator
 **2901 2nd Ave. S.**  
 **Birmingham, AL 35233**  
 **[Contact Us](https://web.archive.org/contactus)**
+
+al.com is an affiliate of Advance Internet. [Advance Internet](http://www.advanceinternet.com/) is a leading creator of local news and information web sites, created in alliance with over 36 newspapers owned and operated by [Advance Publications Inc.](http://www.advance.net/)
 
 
 |  |  |  |    
