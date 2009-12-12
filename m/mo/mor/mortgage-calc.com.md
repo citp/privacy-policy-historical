@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mortgage-calc.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416233227id_/http%3A//www.mortgage-calc.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mortgage-calc.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212080515id_/http%3A//www.mortgage-calc.com/privacy) for the most accurate reproduction.*
 
 # Mortgage - Mortgage-calc.com
 
 | 
 
-**By visiting, using and/or submitting information to www.mortgage-calc.com (the “Site”), you are accepting the practices described in this Privacy Policy and the terms and conditions of the Site’s Agreement of Terms of Use located at the URL<http://www.mortgage-calc.com/terms> (the “Terms of Use”).  **
+**By visiting, using and/or submitting information to www.mortgage-calc.com (the “Site”), you are accepting the practices described in this Privacy Policy and the terms and conditions of the Site’s Agreement of Terms of Use located at the URL[/terms](http://www.mortgage-calc.com/terms) (the “Terms of Use”).  **
 
 This Privacy Policy explains the use of information you may submit to the Site, except that information which is submitted pursuant to a sweepstakes entry. Refer to the Official Rules and Privacy Policy for each individual sweepstakes for specific policies regarding information sharing and disclosure pursuant to sweepstakes entry. 
 
