@@ -1,97 +1,67 @@
-> *The following text is extracted and transformed from the travelsupermarket.com privacy policy that was archived on 2009-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090303045511id_/http%3A//www.moneysupermarket.com/legal/privacypolicy.asp%3Fsource%3DTS) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelsupermarket.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212142039id_/http%3A//www.travelsupermarket.com/c/cruises/privacy-policy) for the most accurate reproduction.*
 
-# MoneySupermarket – Legal Services
+# Cruises | Privacy policy - travelsupermarket.com
 
-Privacy Policy of the moneysupermarket.comTM website
+This website privacy policy sets out how Cruise118 uses and protects the personal information that you give us when you use this website. Cruise118 is committed to ensuring that your privacy is protected. If we ask you to provide certain information using this website, then you can be assured that it will only be used in accordance with this privacy policy.
 
-Moneysupermarket.com Limited (and all Trading Styles) ("we" or "us") take your privacy seriously. This Privacy Policy explains the steps we take to ensure information about you is kept secure and confidential.
+### What we collect
 
-_Please read this Privacy Policy carefully as once you use our website services ("Services") you will be regarded as having read and accepted this Privacy Policy. You must not use our website or our Services if you do not accept this Privacy Policy._
+We may collect the following information: 
 
-Moneysupermarket.com Limited (company number 3945937) is the data controller in relation to the Services and your personal data. Our registered address is Moneysupermarket House, St David's Park, Ewloe, Flintshire, North Wales CH5 3UZ. If you have any queries relating to our use of your personal data or any other data protection issues, please contact our Data Protection Officer at [ DPO@moneysupermarket.com](mailto:DPO@moneysupermarket.com).
-
-**The information we collect**
-
-We may collect personal information about you which you give to us when you use our Services, for example, in order to obtain a quote for travel insurance. The provision of the Services to you may also require us to store details of your transactions, together with details of your financial information. We will periodically review your personal information to ensure that we do not keep it for longer than is necessary.
-
-**Purposes for which we use information about you**
-
-We may use your personal information for the following purposes: 
-
-  1. to enable you to access and use the Services; and/or
-  2. to personalise aspects of our overall service to you; and/or
-  3. to communicate with you; and/or
-  4. to process a transaction between you and a third party.
+  * Title
+  * Name
+  * Contact information including email address and postcode
+  * Other information relevant to customer surveys and/or offers
 
 
 
-**Passing on information about you**
+### What we do with the information we gather
 
-Please be aware that once you use our Services, you will be regarded as having given your consent to us disclosing your personal information to the following parties:
+We collect this information in order to provide you with a better service, offer promotions that are tailored to you and your requirements and in particular for the following reasons: 
 
-  1. third party providers whose products or services are listed on the results pages of the channels on our website, for the purposes of obtaining an online quotation for you or comparing different products and services as requested by you;
-  2. The Financial Services Authority and/or other regulatory/governing bodies for the purposes of compliance monitoring;
-  3. other third parties either where necessary for those third parties to provide additional products or services requested by you or with your prior consent.
-
-
-
-**Informing you of offers and services which may be of interest**
-
-We would like to keep you updated by phone, e-mail or text of other products and services which we feel you may benefit from. For example, we may e-mail you letting you know how you could save money by switching product and services. Wherever we capture your data you will be asked to confirm your acceptance of us using your data for these purposes. Unless you untick the box to state otherwise, you consent to us disclosing your personal information to the following parties:
-
-  1. other companies in the Moneysupermarket.com Financial Group of companies; and 
-  2. our trusted business partners, whose products and services may save you money.
+  * Keeping our records up to date
+  * Sending you legal or specific information about the cruise holidays and services you may have purchased on the website
+  * We may use the information to improve Cruise118 products and services
+  * Periodically we may send you email newsletters about new cruises, special offers or other information which we think you may find of interest
+  * From time to time, we may also use your information to contact you email, phone, fax or mail for market research purposes
+  * We may use the information to tailor the website according to your requirements and cruise interests
 
 
 
-You can ask us to stop passing your information to third parties for marketing purposes at any time, which we will do. Such a request may result in us ceasing to offer the Services to you.
+### Links to other websites
 
-We may disclose information about you in connection with legal proceedings or potential legal proceedings or if otherwise permitted to do so by law.
+Our website booking system is run by Revelex. Revelex.com is owned and operated by Revelex Corporation ('Revelex') that provide all the cruise line content included on this sSite, including the information, data, software, photographs, graphs, video, typefaces, graphics, music, sounds, images, illustrations, maps, designs, icons, written and other material and compilations (collectively, 'Content') are intellectual property and copyrighted works of Revelex and/or various third party providers ('Providers'). Reproductions or storage of information or works retrieved from this Site, in all forms, media and technologies now existing or hereafter developed, is subject to the U.S. Copyright Act of 1976.
 
-**Improving our Service to you**
+We may contain links to enable you to visit other websites of interest easily www.abta.com. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-In order to ensure the Services we provide you continue to meet your needs we may ask you for feedback on your experience of using the site. Where we do, such data will only be used as part of our programme of continuous improvement and will not be published on the site.
+### Website transactions
 
-When using our comparison service, we may also use the data submitted by you to perform user analysis with a specialist third party, to ensure we continue to provide you with the best possible service.
+All our website financial transactions are handled through our payment services provider, NETBANX NETBANX is an industry-leading provider of multi-currency credit and debit card payment solutions. More information about NETNBANX can be found at www1.netbanx.com. We will share information with NETBANX only to the extent necessary for the purposes of processing payments you make via our website.
 
-**Electronic Communications**
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
-When you agree to receive any electronic communications from us, you also agree to receive additional communications on products and services which we believe you may be interested in. Any electronic communications we send you will include clear and concise instructions to follow should you wish to unsubscribe at any time.
+### Controlling your personal information
 
-**Third party providers and data privacy**
+You may choose to restrict the collection or use of your personal information in the following ways:
 
-If you decide to enter into a contract with a third party provider through a channel on our website, the information you have provided to us together with any further information requested by, and supplied by you to, the third party provider will be held by the provider for the purposes set out in that provider's privacy policy. Therefore, you are strongly advised to read your chosen provider's privacy policy and satisfy yourself as to the purposes for which the provider will use your personal information before entering into the contract. We have no responsibility for the uses to which a provider puts your personal information once you have contracted with that provider.
+If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [feedback@cruise118.com](mailto:feedback@cruise118.com).
 
-**Advertisements**
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-The advertisements that you see displayed on this website are delivered on our behalf by a third party advertising company. No personal data for example your name, address, email address or telephone number are used during the course of serving our advertising, but, on our behalf, our third-party advertiser may place or recognize a unique "cookie" on your browser. This cookie does not collect personal data about you nor is it linked to any personal data about you. If you would like more information about this practice and to know your choices about not having this information used by this company, please click here <http://www.doubleclick.net/us/corporate/privacy>
+If you believe that any information we are holding on you is incorrect or incomplete, please write to us or email us as soon as possible at [feedback@cruise118.com](mailto:feedback@cruise118.com). We will promptly correct any information found to be incorrect.
 
-**Security**
+Cruise118 may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1 June 2008.
 
-Our website is a "VeriSign Secure Site" and keeping information about you secure is very important to us. However, no data transmission over the internet can be guaranteed to be totally secure. As a result, whilst we strive to protect your personal information, we cannot ensure or warrant the security of any information which you send to us, and you do so at your own risk. Sensitive information, for example, your security information and credit card details, is encrypted to minimise the risk of interception during transit.
+### Personal Information Security
 
-**Cookies**
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-A cookie is a very small text file placed on your computer by a web browser, which has been sent by a web server. It is essentially an "identification card" relating to you. The main purpose of our cookies is to identify you when you visit our website. Each time your browser requests a web page from our server, the browser sends the information in the text file back to the server and lets the server know that you have returned to that web page. We use cookies to provide you with a better service tailored to suit you. We will store your cookies for a maximum of three months.
+### Cookies
 
-Cookies help you to save time. For example, if you register for our Services, a cookie helps us to remember who you are and what your preferences are. Next time you return, we can fill in any questions that you have already answered. The more you tell us about yourself, the more we can help to find information or products you want.
+A cookie consists of information sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-If you do not accept incoming cookies then the performance of our website on your system will not be to full standard or our website may not serve at all.
+We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: http://www.google.com/privacypolicy.html
 
-**Transferring your information abroad**
+Overall, cookies help us provide you with a better website service, by enabling us to monitor which pages you find useful and which you do not. A cookie does not provide us access to your computer or any information about you, other than the data you choose to share with us.
 
-Information supplied by you to us will only be transferred abroad by us or our agents for the purpose of performing contractual obligations to you, or when you have given your prior consent to such transfer.
-
-**Your Rights**
-
-You have certain rights under the Data Protection Act 1998. For example, we will always let you have a copy of all personal information we have about you should you request it. We may charge you a fee for a copy of such information.
-
-**mymoneysupermarket**
-
-When opening a mymoneysupermarket account, you agree that Moneysupermarket.com Financial Group Limited and other trusted 3rd parties shall be entitled to advise you via e-mail or telephone of products, services and other exciting offers we think may interest you. 
-
-Any electronic communications we send you will include clear and concise instructions to follow should you wish to unsubscribe at any time. Should you no longer wish to be contacted by telephone you can advise us at any time by contacting our Customer Services team on **0845 345 5708** (lines are open Monday to Friday 9.00 to 5.30) or via sending an email to [customerservices@moneysupermarket.com](mailto:customerservices@moneysupermarket.com). 
-
- 
-
-[](https://web.archive.org/web/20090303045511id_/http%3A//www.moneysupermarket.com/)
+Most browsers allow you to refuse to accept cookies. (For example, in Internet Explorer you can refuse all cookies by clicking 'Tools', 'Internet Options', 'Privacy', and selecting 'Block all cookies' using the sliding selector.) Most web browsers automatically accept cookies and by blocking cookies this may prevent you from taking full advantage of the website.
