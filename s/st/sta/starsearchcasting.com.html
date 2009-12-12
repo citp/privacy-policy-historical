@@ -1,16 +1,15 @@
-<!--The following is the downloaded HTML source of the starsearchcasting.com privacy policy that was archived on 2009-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090615042638id_/http%3A//starsearchcasting.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the starsearchcasting.com privacy policy that was archived on 2009-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091212221614id_/http%3A//starsearchcasting.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-
-<title>Casting Call | Shows, Series &amp; Video Casting Submissions</title>
-<meta name="description" content="Open Casting Calls for Casting Calls Auditions, Disney, Acting &amp; Open Calls for models. Search Thousands of Open Casting Calls &amp; submit yourself! TV Casting Calls &amp; Commercial Auditions.">
+<title>Auditions &amp; Casting Calls - Join Free</title>
+<meta name="description" content="Find reality tv application links &amp; reality TV audition information here. Reality tv auditions casting calls shows acting Actors tv series information.">
 <meta name="keywords" content="StarSearchCasting.com, Disney auditions, Disney casting calls, child acting, child modeling, baby modeling, Hannah Montana auditions, teen auditions, teen casting calls, acting auditions, modeling auditions, tv auditions, acting casting calls, modeling casting, calls, tv casting calls, commercial auditions, commercial casting calls, baby modeling auditions, baby casting calls, child auditions, child casting calls, movie casting calls, movie auditions, modeling jobs, acting jobs">
-
 <meta name="msnbot" content="StarSearchCasting.com is the premier social networking site for the Entertainment Business. SSC offers a talent database, used by Casting Directors &amp; Agents">
-<meta name="copyright" content="Copyright © 1998-2009 Star Search Casting, LLC.® All rights reserved.">
+<meta name="copyright" content="Copyright © 1998-2010 Star Search Casting, LLC.® All rights reserved.">
 <meta name="MSSmartTagsPreventParsing" content="true">
 <meta http-equiv="Window-target" content="_top">
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <meta http-equiv="Cache-Control" content="No-Cache">
 <meta name="ROBOTS" content="NOODP, NOYDIR">
@@ -37,9 +36,69 @@
 
 <link rel="alternate" type="application/rss+xml" title="SSC Sitemaps" href="http://starsearchcasting.com/ssc-sitemap_index.xml">
 <link rel="stylesheet" href="http://starsearchcasting.com/min/g=css" type="text/css">
-
 <script type="text/javascript" src="http://starsearchcasting.com/min/g=js"></script>
+
+<!--[if lte IE 7]>
+<style type="text/css">
+html .jqueryslidemenu{height: 1%;} /*Holly Hack for IE7 and below*/
+</style>
+<![endif]-->
+
 <script type="text/javascript">
+var msgs_new=0
+var requests_new=0
+var comments_new=0
+
+function CheckInbox()
+{
+	var plural='s'
+	
+	$.getJSON(
+	"/ajax.messages.check.php",
+	{ajax: 'true'}, function(j)
+	{
+		if (j.comments_total>0)
+		{
+			comments_new+=j.comments_total
+			if (comments_new==1) plural=''
+			
+			$("img.ntfy_comments").attr('src','http://starsearchcasting.com/img/icon_comment.gif')
+			$("img.ntfy_comments").attr('alt',comments_new + ' Comment' + plural)
+			$("img.ntfy_comments").attr('title',comments_new + ' Comment' + plural)
+			$(".ntfy_comments_txt").html(comments_new + ' Comment' + plural)
+		}
+
+		if (j.requests_total>0)
+		{
+			requests_new+=j.requests_total
+			if (requests_new==1) plural=''
+
+			$("img.ntfy_requests").attr('src','http://starsearchcasting.com/img/icon_network.gif')
+			$("img.ntfy_requests").attr('alt',requests_new + ' Networking Request' + plural)
+			$("img.ntfy_requests").attr('title',requests_new + ' Networking Request' + plural)
+			$(".ntfy_requests_txt").html(requests_new + ' Networking Request' + plural)
+		}
+
+		if (j.msgs_total>0)
+		{
+			msgs_new+=j.msgs_total
+			if (msgs_new==1) plural=''
+
+			$("img.ntfy_messages").attr('src','http://starsearchcasting.com/img/icon_messages.gif')
+			$("img.ntfy_messages").attr('alt',msgs_new + ' Message' + plural)
+			$("img.ntfy_messages").attr('title',msgs_new + ' Message' + plural)
+			$(".ntfy_messages_txt").html(msgs_new + ' Message' + plural)
+		}
+
+		msgcheck_to=setTimeout('CheckInbox()', 60000);
+	}
+	)
+}
+
+var msgcheck_to=null;
+msgcheck_to=setTimeout('CheckInbox()', 60000);
+
+</script><script type="text/javascript">
 $.jCache.maxSize=20
 window.i=0
 
@@ -115,11 +174,11 @@ function miniprofile_show(talentID, snap_to)
 
 
 
+
 <body style="padding:0; margin:0"><div id="miniprofile" style="display:none;position: absolute; z-index: 1; width:300px; background-color:#eeeeee; border: 1px solid #000000; padding:5px;">
 <div id="miniprofile_loading">Loading profile data...</div>
 <div id="miniprofile_data">Loading profile data...</div>
 </div>
-
 
 <script type="text/javascript">
 var players = new Array()
@@ -202,10 +261,8 @@ var scrollerheight5="200px"
 var scrollerheight_updates="120px"
 var scrollerspeed=1
 var pauseit=1
-
 var scrollercontent3=''
 var scrollercontent4=''
-
 var copyspeed=scrollerspeed
 var actualheight=''
 var actualheight2=''
@@ -341,49 +398,127 @@ function setcurrent(id)
 </script>
 
 
-<style type="text/css">
-#inbox_icons {
-  /* Netscape 4, IE 4.x-5.0/Win and other lesser browsers will use this */
-  position: absolute; right: 20px; bottom: 10px;
-}
-body > span#inbox_icons {
-  /* used by Opera 5+, Netscape6+/Mozilla, Konqueror, Safari, OmniWeb 4.5+, iCab, ICEbrowser */
-  position: fixed;
-}
-</style>
-<!--[if gte IE 5.5]>
-<![if lt IE 7]>
-<style type="text/css">
-span#inbox_icons
-{
-	/* IE5.5+/Win - this is more specific than the IE 5.0 version */
-	right: auto; bottom: auto;
-	left: expression( ( -10 - inbox_icons.offsetWidth + ( document.documentElement.clientWidth ? document.documentElement.clientWidth : document.body.clientWidth ) + ( ignoreMe2 = document.documentElement.scrollLeft ? document.documentElement.scrollLeft : document.body.scrollLeft ) ) + 'px' );
-	top: expression( ( 10 + ( ignoreMe = document.documentElement.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop ) ) + 'px' );
-}
-</style>
-<![endif]>
-<![endif]-->
-
-<span id="inbox_icons" style="display:none;">
-<img alt="You have a new message!" title="You have a new message!" src="http://starsearchcasting.com/img/icon_messages_anim.gif" width="16" height="16" style="cursor:pointer;" onclick="$('#myassistant').dialog('open');">
-</span>
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
 	<tbody><tr>
 		<td bgcolor="#000000" colspan="4">
 			<table width="100%" cellpadding="0" cellspacing="0" border="0">
 				<tbody><tr valign="top">
-					<td alt="Disney Auditions Acting Auditions Modeling Auditions Acting Casting Calls Extras Casting Calls Baby Modeling Auditions Child Modeling Auditions Child Acting Auditions" title="Acting Auditions Modeling Auditions Singing Auditions Dancing Auditions Actors Models Talent Search Hollywood Entertainment" style="width:500px; height:70px; background:url('http://starsearchcasting.com/img/design/header_r1_c1_.gif') no-repeat; background-color:#000000; cursor: pointer;" onclick="window.location=&quot;http://starsearchcasting.com&quot;;">
+<td alt="Disney Auditions Acting Auditions Modeling Auditions Acting Casting Calls Extras Casting Calls Baby Modeling Auditions Child Modeling Auditions Child Acting Auditions" title="Acting Auditions Modeling Auditions Singing Auditions Dancing Auditions Actors Models Talent Search Hollywood Entertainment" style="width:500px; height:70px; background:url('http://starsearchcasting.com/img/design/header_r1_c1_.gif') no-repeat; background-color:#000000; cursor: pointer;" onclick="window.location=&quot;http://starsearchcasting.com&quot;;">
 					</td>
-					<td valign="middle" align="right" nowrap="" style="background-color:#000000;">
-					<a href="http://starsearchcasting.com/enroll.php"><img src="http://starsearchcasting.com/img/design/join.gif" width="90" height="34" border="0" alt="Acting Auditions Modeling Auditions Singing Auditions Dancing Auditions Actors Models Talent Search Hollywood Entertainment" title="Join FREE &amp; get Disney Auditions Acting Auditions Modeling Auditions Acting Casting Calls Extras Casting Calls Baby Modeling Auditions Child Modeling Auditions Child Acting Auditions"></a>
+<td valign="middle" align="right" nowrap="" style="background-color:#000000;">
+
+<table height="100%">
+<tbody><tr>
+<td>
+<a href="http://starsearchcasting.com/enroll.php"><img src="http://starsearchcasting.com/img/design/join.gif" width="90" height="34" border="0" alt="Acting Auditions Modeling Auditions Singing Auditions Dancing Auditions Actors Models Talent Search Hollywood Entertainment" title="Join FREE &amp; get Disney Auditions Acting Auditions Modeling Auditions Acting Casting Calls Extras Casting Calls Baby Modeling Auditions Child Modeling Auditions Child Acting Auditions"></a>
+
 <a target="_blank" href="http://www.starsearchcasting.com/linkout/o.php?out=https://www.mcafeesecure.com/RatingVerify?ref=starsearchcasting.com"><img width="115" height="34" border="0" src="//images.scanalert.com/meter/starsearchcasting.com/12.gif" alt="Disney auditions, Disney casting calls, child acting, child modeling, baby modeling, Hannah Montana auditions, teen auditions, teen casting calls, acting auditions, modeling auditions, tv auditions, acting casting calls, modeling casting, calls, tv casting calls, commercial auditions, commercial casting calls, baby modeling auditions, baby casting calls, child auditions, child casting calls, movie casting calls, movie auditions, modeling jobs, acting jobs" title="StarSearchCasting.com is a McAfee Secure site which helps keep you safe from identity theft, credit card fraud, spyware, spam, viruses &amp; online modeling scams." oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a> 					
-					<a target="_blank" href="http://www.starsearchcasting.com/linkout/o.php?out=http://www.bbbonline.org/cks.asp?id=1050419191358"><img border="0" width="90" height="34" src="http://starsearchcasting.com/img/design/bbbsealh2.gif" alt="Star Search Casting is the best source of current Casting Calls &amp; Auditions! Get your FREE online profile and put your face in front of entertainment industry professionals including Casting Directors &amp; Agents." title="StarSearchCasting.com is the premier social networking site for the Entertainment Business. Star Search Casting offers a talent database, used by Casting Directors, Agents, &amp; other Entertainment Industry Professionals, to find Actors, Models, Singers, Dancers, &amp; all other types of talent for projects they are casting."></a>	
+
+<a target="_blank" href="http://www.starsearchcasting.com/linkout/o.php?out=http://www.bbbonline.org/cks.asp?id=1050419191358"><img border="0" width="90" height="34" src="http://starsearchcasting.com/img/design/bbbsealh2.gif" alt="Star Search Casting is the best source of current Casting Calls &amp; Auditions! Get your FREE online profile and put your face in front of entertainment industry professionals including Casting Directors &amp; Agents." title="StarSearchCasting.com is the premier social networking site for the Entertainment Business. Star Search Casting offers a talent database, used by Casting Directors, Agents, &amp; other Entertainment Industry Professionals, to find Actors, Models, Singers, Dancers, &amp; all other types of talent for projects they are casting."></a>	
+</td></tr><tr>
+<td align="right" class="account_links">
+<a href="http://starsearchcasting.com/enroll.php">Create Free Account</a> | <a href="http://starsearchcasting.com/html/talents_q___a.php">Help</a>
+</td></tr></tbody></table>
 					</td>
 				</tr>
 			</tbody></table>
 		</td>
 	</tr>
+	
+	<tr><td colspan="4" class="links_bar" valign="middle">
+
+<table width="100%" style="color: #fff;">
+<tbody><tr>
+<td align="left" nowrap="">
+<form action="http://starsearchcasting.com/login.php" method="post" style="padding:0px; margin:0px;">
+	<input type="text" name="username" maxlength="50" size="10" style="font-size:10px; font-weight: 900;" value="Username" onfocus="this.value='';" onblur="if (this.value=='') this.value='Username';">
+	<input type="password" name="password" maxlength="50" size="10" style="font-size:10px; font-weight: 900;" value="Password" onfocus="this.value='';" onblur="if (this.value=='') this.value='Username';">
+	<button type="submit" name="Submit" value="Sign in">Sign in</button>
+	<br>
+	<input type="checkbox" name="savecookie" value="1" title="Remember your login for next time" style="background-color:transparent;">
+	<span style="font-size:10px;">Stay signed in</span>
+	|
+	<a href="http://starsearchcasting.com/retrieve_password.php"><span style="font-size:10px;">Forgot password?</span></a>
+</form>
+
+</td><td>
+
+<div id="slidemenu" class="jqueryslidemenu">
+<ul>
+<li><a href="http://samples.starsearchcasting.com">Sample Profiles</a>
+</li><li><a href="http://starsearchcasting.com/search.php">Talent Search</a>
+</li>
+<li><a href="http://auditions.starsearchcasting.com/">Casting Calls</a>
+	<ul>
+	<li><a href="http://starsearchcasting.com/children_babies_kids_teens_under_18_years_old_auditions_casting_notices">Kids &amp; Teen Auditions</a></li>
+	<li><a href="http://starsearchcasting.com/television_commercial_auditions_casting_calls">TV &amp; Commercial Auditions</a></li>
+	<li><a href="http://starsearchcasting.com/film_movie_auditions_casting_calls">Movie Auditions</a></li>
+	<li><a href="http://starsearchcasting.com/modeling_print_casting_calls_auditions">Modeling Auditions</a></li>
+	<li><a href="http://starsearchcasting.com/singing_musicians_bands_voice_casting_calls">Singing Auditions</a></li>
+	<li><a href="http://starsearchcasting.com/dance_casting_calls_auditions">Dance Auditions</a></li>
+	<li><a href="http://auditions.starsearchcasting.com">More</a></li>
+	</ul>
+</li>
+<li><a href="http://starsearchcasting.com/talent_resources.php">Resources</a>
+	<ul>
+	<li><a href="http://talentresources.starsearchcasting.com/acting_agencies_agent_open_call">Acting Agencies</a></li>
+	<li><a href="http://talentresources.starsearchcasting.com/acting_schools_camps_actors">Acting Schools / Camps</a></li>
+	<li><a href="http://talentresources.starsearchcasting.com/casting_directors_directing_auditions">Casting Directors</a></li>
+	<li><a href="http://talentresources.starsearchcasting.com/tv_movie_directors_television">Directors</a></li>
+	<li><a href="http://talentresources.starsearchcasting.com/film_industry_insiders">Film Industry</a></li>
+	<li><a href="http://talentresources.starsearchcasting.com/photographers_photography_studios">Photographers / Photography Studios</a></li>
+	<li><a href="http://talentresources.starsearchcasting.com/entertainment_production_companies">Production Companies</a></li>
+	<li><a href="http://talentresources.starsearchcasting.com/talent_model_managers">Talent / Model Managers</a></li>
+	<li><a href="http://talentresources.starsearchcasting.com">More</a></li>
+	</ul>
+</li>
+<li><a href="http://starsearchcasting.com/forums/index.php">Forums</a>
+	<ul>
+	<li><a href="http://starsearchcasting.com/forums/index.php?/forum/59-scam-watch-modeling-scams-entertainment-scammers/">Modeling Scams</a>
+	</li>
+	<li><a href="http://starsearchcasting.com/forums/index.php?/forum/8-entertainment-industry-news-gossip-rumors/">Entertainment Gossip &amp; News</a>
+	</li>
+	<li><a href="http://starsearchcasting.com/forums/index.php?/forum/53-acting-tips-articles-general-entertainment-career-help/">Acting Articles &amp; Tips</a>
+	</li>
+	<li><a href="http://starsearchcasting.com/forums/index.php?/forum/76-modeling-articles-advice-tips/">Modeling Articles &amp; Tips</a>
+	</li>
+	</ul>
+</li>
+<li><a href="http://starsearchcasting.com/html/games.php">Games</a>
+</li>
+</ul>
+</div>
+
+</td><td width="110">
+
+
+
+</td><td width="190" align="right">
+<form action="http://starsearchcasting.com/html/google_search.php" id="cse-search-box" style="margin:0px;">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-1730469966128383:o2z2j6lcbyr">
+    <input type="hidden" name="cof" value="FORID:9">
+    <input type="hidden" name="ie" value="ISO-8859-1">
+    <input type="text" name="q" size="20" value="">
+    <input type="submit" name="sa" value="Search">
+  </div>
+</form>
+<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
+<script type="text/javascript">
+  var googleSearchIframeName = "cse-search-results";
+  var googleSearchFormName = "cse-search-box";
+  var googleSearchFrameWidth = 800;
+  var googleSearchDomain = "www.google.com";
+  var googleSearchPath = "/cse";
+</script>
+</td></tr></tbody></table>
+</td></tr>
+
+<script type="text/javascript">
+jqueryslidemenu.buildmenu("slidemenu", arrowimages)
+jqueryslidemenu.buildmenu("slidemenu_right", arrowimages)
+</script>
+	
 	<tr style="height:20px; background: url(&quot;http://starsearchcasting.com/img/design/topshadow.gif&quot;) repeat-x;">
 	<td colspan="4" align="right">
 	</td>
@@ -404,10 +539,10 @@ span#inbox_icons
 </td></tr><tr>
 <td width="21" style="background: url('http://starsearchcasting.com/img/design/darkblue/l.gif') repeat-y;">
 </td><td bgcolor="#eaebf6" align="center">
-<div style="height:240px;">
+<div style="height:240px; width:180px;">
 
 <div align="left">
-<ul style="line-height: 14px;">
+<ul style="line-height: 18px; font-size:14px;">
 <li><a href="http://starsearchcasting.com">Home</a>
 </li><li><a href="http://starsearchcasting.com/enroll.php">Join for FREE</a>
 </li><li><a href="http://starsearchcasting.com/html/shoot_for_stars.php">Membership Levels</a>
@@ -419,35 +554,9 @@ span#inbox_icons
 </li><li><a href="/talent_resources.php">Talent Resources</a>
 </li><li><a href="/forums/index.php">Community Forums</a>
 </li><li><a href="/voting.php">Rate Talent</a>
-</li><li><a href="/html/talents_q___a.php">Help</a>
 </li><li><a href="/html/contact_us.php">Contact Us</a>
-
 </li></ul>
 </div>
-<table border="0" width="100%" cellspacing="0" cellpadding="0" align="center">
-
-<tbody><tr>
-<td nowrap="">
-<table align="center">
-<form action="http://starsearchcasting.com/login.php" method="post" style="padding:0px;"></form>
-<tbody><tr>
-<td><span style="font-size:12px;">Username:</span>
-</td><td><input type="text" name="username" maxlength="50" size="14" style="font-size:10px; font-weight: 900;" value=""><br>
-</td></tr>
-<tr>
-<td>	<span style="font-size:12px;">Password:</span>
-</td><td>	<input type="password" name="password" maxlength="50" size="14" style="font-size:10px; font-weight: 900;" value=""><br>
-</td></tr>
-<tr>
-<td colspan="2" valign="center" align="center">
-	<button type="submit" name="Submit" value="Sign in">Sign in</button>
-	<input type="checkbox" name="savecookie" value="1" title="Remember your login for next time"><span style="font-size:10px;">Remember me</span>
-</td>
-</tr>
-	
-</tbody></table>
-	</td>
-</tr></tbody></table>
 
 </div>
 </td><td width="21" style="background: url('http://starsearchcasting.com/img/design/darkblue/r.gif') repeat-y;">
@@ -480,6 +589,61 @@ span#inbox_icons
 <div id="stories_wrapper" class="scroller_wrapper" onmouseover="copyspeed=pausespeed" onmouseout="copyspeed=scrollerspeed">
 	<div id="iescroller_stories" class="scroller">
 	<div align="justify" style="clear:left; padding-bottom:15px;">
+<a target="_blank" href="http://modeljathan.starsearchcasting.com">
+<img id="tstm765" width="70" heigth="105" align="left" valign="top" src="http://starsearchcasting.com/Images_thumbnails/70_5410904_101129_00_jpg.jpg" border="0" title="Click to view Jathan 's profile on www.StarSearchCasting.com" alt="Click to view Jathan 's profile on www.StarSearchCasting.com" onmouseover="miniprofile_show(5410904, 'tstm765');"></a>
+"I just got a job offer today and I get to go to Hollywood..YAY! Just when I thought I could never get one.  Thanks SSC! "
+
+<div style="height:5px"></div>
+<div align="right"><font face="arial" style="font-size:11px;"><i>Jathan <br>Lima, Ohio</i></font></div>
+</div>
+<div align="justify" style="clear:left; padding-bottom:15px;">
+<a target="_blank" href="http://MyaNicoleChhetri1.starsearchcasting.com">
+<img id="tstm563" width="70" heigth="105" align="left" valign="top" src="http://starsearchcasting.com/Images_thumbnails/70_7935855_123257_00_jpg.jpg" border="0" title="Click to view Mya Nicole's profile on www.StarSearchCasting.com" alt="Click to view Mya Nicole's profile on www.StarSearchCasting.com" onmouseover="miniprofile_show(7935855, 'tstm563');"></a>
+"Thank you so much for this site. Mya Nicole has got many calls and has auditioned for movies and recently was just in a bridal show. This is the best site there is for anyone serious about their career. It also is the safest website. Thanks again for Mya...
+
+<div style="height:5px"></div>
+<div align="right"><font face="arial" style="font-size:11px;"><i>Mya Nicole<br>Louisville, Kentucky</i></font></div>
+</div>
+<div align="justify" style="clear:left; padding-bottom:15px;">
+<a target="_blank" href="http://BrookMartin.starsearchcasting.com">
+<img id="tstm497" width="70" heigth="105" align="left" valign="top" src="http://starsearchcasting.com/Images_thumbnails/70_Brook_Martin_5649916_140816_00_jpg.jpg" border="0" title="Click to view Brook's profile on www.StarSearchCasting.com" alt="Click to view Brook's profile on www.StarSearchCasting.com" onmouseover="miniprofile_show(5649916, 'tstm497');"></a>
+“I have only been on for about a week and already have an audition!!!!  I've gotten a lot out of SSC!   I love SSC. Thank you.”
+
+<div style="height:5px"></div>
+<div align="right"><font face="arial" style="font-size:11px;"><i>Brook<br>las vegas, Nevada</i></font></div>
+</div>
+<div align="justify" style="clear:left; padding-bottom:15px;">
+<a target="_blank" href="http://TierneyO.starsearchcasting.com">
+<img id="tstm476" width="70" heigth="105" align="left" valign="top" src="http://starsearchcasting.com/Images_thumbnails/70_Tierney_O_9006306_005052_00_jpg.jpg" border="0" title="Click to view Tierney's profile on www.StarSearchCasting.com" alt="Click to view Tierney's profile on www.StarSearchCasting.com" onmouseover="miniprofile_show(9006306, 'tstm476');"></a>
+“I just landed another job because of this site. Nice one SSC!”
+
+<div style="height:5px"></div>
+<div align="right"><font face="arial" style="font-size:11px;"><i>Tierney<br>Guildford, surrey</i></font></div>
+</div>
+<div align="justify" style="clear:left; padding-bottom:15px;">
+<a target="_blank" href="http://AIDENDFARRELL.starsearchcasting.com">
+<img id="tstm721" width="70" heigth="105" align="left" valign="top" src="http://starsearchcasting.com/Images_thumbnails/70_3877974_062952_00_jpg.jpg" border="0" title="Click to view AIDEN 's profile on www.StarSearchCasting.com" alt="Click to view AIDEN 's profile on www.StarSearchCasting.com" onmouseover="miniprofile_show(3877974, 'tstm721');"></a>
+"I haven't been a member that long, but I'm so glad I joined. Unlike those other sites, this one delivers. The impossible doesn't have to be, with SSC on your side. Upgrading is the best possible way of improving those odds."
+
+<div style="height:5px"></div>
+<div align="right"><font face="arial" style="font-size:11px;"><i>AIDEN <br>call or email, Florida</i></font></div>
+</div>
+<div align="justify" style="clear:left; padding-bottom:15px;">
+<a target="_blank" href="http://wwwericamell.starsearchcasting.com">
+<img id="tstm1073" width="70" heigth="105" align="left" valign="top" src="http://starsearchcasting.com/Images_thumbnails/70_Erica_Mell_2558422_112733_00_jpg.jpg" border="0" title="Click to view Erica's profile on www.StarSearchCasting.com" alt="Click to view Erica's profile on www.StarSearchCasting.com" onmouseover="miniprofile_show(2558422, 'tstm1073');"></a>
+"Just shot a pilot called Totally 4 Teens for the Cartoon Network.  They said they saw my pictures on SSC and knew they wanted me for a feature part.  Thanks again SSC  &lt;3&lt;3&lt;3&lt;3&lt;3"
+
+<div style="height:5px"></div>
+<div align="right"><font face="arial" style="font-size:11px;"><i>Erica<br>Somewhere in, Pennsylvania</i></font></div>
+</div>
+<div align="justify" style="clear:left; padding-bottom:15px;">
+
+
+
+<div style="height:5px"></div>
+<div align="right"><font face="arial" style="font-size:11px;"><i></i></font></div>
+</div>
+<div align="justify" style="clear:left; padding-bottom:15px;">
 
 
 
@@ -494,50 +658,11 @@ span#inbox_icons
 <div align="right"><font face="arial" style="font-size:11px;"><i></i></font></div>
 </div>
 <div align="justify" style="clear:left; padding-bottom:15px;">
-<a target="_blank" href="http://JessicaSchneider1.starsearchcasting.com">
-<img id="tstm762" width="70" heigth="105" align="left" valign="top" src="http://starsearchcasting.com/Images_thumbnails/70_8128705_200647_00.20schneider200700_jpg.jpg" border="0" title="Click to view Jessica's profile on www.StarSearchCasting.com" alt="Click to view Jessica's profile on www.StarSearchCasting.com" onmouseover="miniprofile_show(8128705, 'tstm762');"></a>
-"Thanx so much SSC! I have been on this site for a couple of months as a bronze member, then I updated to a gold last month. Then a talent promotional company contacted me and they want me to go out to Cali for an interview! I'm so happy! Thanx SSC! "
+
+“I have been with Star Search Casting for a week and already been contacted a couple times for movies and theater!! This is so cool that I am already getting into the business at age 14 I am so happy. Thanks so much SSC!!”
 
 <div style="height:5px"></div>
-<div align="right"><font face="arial" style="font-size:11px;"><i>Jessica<br>Las Vegas, Nevada</i></font></div>
-</div>
-<div align="justify" style="clear:left; padding-bottom:15px;">
-<a target="_blank" href="http://CarolineCianci.starsearchcasting.com">
-<img id="tstm558" width="70" heigth="105" align="left" valign="top" src="http://starsearchcasting.com/Images_thumbnails/70_6835138_181311_00_jpg.jpg" border="0" title="Click to view caroline's profile on www.StarSearchCasting.com" alt="Click to view caroline's profile on www.StarSearchCasting.com" onmouseover="miniprofile_show(6835138, 'tstm558');"></a>
-“I just LOVE SSC!!! I have tried other sites but they never worked! I already got contacted by a casting director about singing and I am so excited!! Thanks so much SSC, my career is starting!”
-
-<div style="height:5px"></div>
-<div align="right"><font face="arial" style="font-size:11px;"><i>caroline<br>avon, Connecticut</i></font></div>
-</div>
-<div align="justify" style="clear:left; padding-bottom:15px;">
-<a target="_blank" href="http://Alexandra.starsearchcasting.com">
-<img id="tstm88" width="70" heigth="105" align="left" valign="top" src="http://starsearchcasting.com/Images_thumbnails/70_7505109_204444_00_jpg.jpg" border="0" title="Click to view Alexandra's profile on www.StarSearchCasting.com" alt="Click to view Alexandra's profile on www.StarSearchCasting.com" onmouseover="miniprofile_show(7505109, 'tstm88');"></a>
-"Thanks to Star Search Casting I have been cast for a role in Vooshaday by Shooting Starz Productions!!!"
-
-<div style="height:5px"></div>
-<div align="right"><font face="arial" style="font-size:11px;"><i>Alexandra<br>New York Area, New York</i></font></div>
-</div>
-<div align="justify" style="clear:left; padding-bottom:15px;">
-
-
-
-<div style="height:5px"></div>
-<div align="right"><font face="arial" style="font-size:11px;"><i></i></font></div>
-</div>
-<div align="justify" style="clear:left; padding-bottom:15px;">
-
-"SSC OMG I got like so many calls from agents I just wanna scream omg!!!! this is so cool! THANKS SSC!"
-
-<div style="height:5px"></div>
-<div align="right"><font face="arial" style="font-size:11px;"><i>lola<br>lehi, Utah</i></font></div>
-</div>
-<div align="justify" style="clear:left; padding-bottom:15px;">
-<a target="_blank" href="http://CarolineCianci.starsearchcasting.com">
-<img id="tstm789" width="70" heigth="105" align="left" valign="top" src="http://starsearchcasting.com/Images_thumbnails/70_6835138_181311_00_jpg.jpg" border="0" title="Click to view caroline's profile on www.StarSearchCasting.com" alt="Click to view caroline's profile on www.StarSearchCasting.com" onmouseover="miniprofile_show(6835138, 'tstm789');"></a>
-"SSC is awesome!! oOther sites I have tried you have to pay for everything... but this site is awesome for a great price! I have met tons of friends on here and I've gotten lots of great opportunities! I reccomend this site for all people who want to get ...
-
-<div style="height:5px"></div>
-<div align="right"><font face="arial" style="font-size:11px;"><i>caroline<br>avon, Connecticut</i></font></div>
+<div align="right"><font face="arial" style="font-size:11px;"><i>S<br>washington, Maryland</i></font></div>
 </div>
 
 	</div>
@@ -561,7 +686,7 @@ span#inbox_icons
 <td width="21" height="35" style="background: url('http://starsearchcasting.com/img/design/green2/tl.gif') no-repeat;">
 </td><td style="padding-top:3px; background: url('http://starsearchcasting.com/img/design/green2/t.gif') repeat-x;" align="center" valign="top" nowrap="">
 <span class="framehead">
-Featured Talent: <span id="fmname"><a target="_blank" href="http://DemiLovato.starsearchcasting.com">Demi</a></span>
+Featured Talent: <span id="fmname"><a target="_blank" href="http://NicolleEvans1.starsearchcasting.com">Nicolle</a></span>
 </span>
 </td><td width="21" height="35" style="background: url('http://starsearchcasting.com/img/design/green2/tr.gif') no-repeat;">
 
@@ -569,8 +694,8 @@ Featured Talent: <span id="fmname"><a target="_blank" href="http://DemiLovato.st
 <td width="21" style="background: url('http://starsearchcasting.com/img/design/green2/l.gif') repeat-y;">
 </td><td bgcolor="#f0f9e7" align="center">
 <div style="text-align:center; height:240px;">
-<div id="fmpic" style="height: 220px;"><a target="_blank" href="http://DemiLovato.starsearchcasting.com">
-<img id="fmpic_6498142" border="0" width="140" height="185" title="Click to view Demi's profile on www.StarSearchCasting.com" alt="Click to view Demi's profile on www.StarSearchCasting.com" src="/Images_thumbnails/140x210_6498142_051803_00_jpg.jpg" hspace="0" vspace="0" style="margin-top:17.5;" onmouseover="miniprofile_show(6498142, 'fmpic_6498142');"></a>
+<div id="fmpic" style="height: 220px;"><a target="_blank" href="http://NicolleEvans1.starsearchcasting.com">
+<img id="fmpic_5422129" border="0" width="140" height="170" title="Click to view Nicolle's profile on www.StarSearchCasting.com" alt="Click to view Nicolle's profile on www.StarSearchCasting.com" src="/Images_thumbnails/140x210_5422129_145013_00_jpg.jpg" hspace="0" vspace="0" style="margin-top:25;" onmouseover="miniprofile_show(5422129, 'fmpic_5422129');"></a>
 </div>
 <div style="height:3px;"></div><a href="http://starsearchcasting.com/html/featured_talent.php">See YOUR Photo Here!</a>
 </div>
@@ -599,7 +724,7 @@ Featured Talent: <span id="fmname"><a target="_blank" href="http://DemiLovato.st
 </td><td bgcolor="#f1f1f1" align="center">
 <div id="news_wrapper" class="scroller_wrapper" onmouseover="copyspeed=pausespeed" onmouseout="copyspeed=scrollerspeed">
 	<div id="iescroller_news" class="scroller">
-	<li>Flag Day Celebration Extended This Year - Rochester R News... <a href="http://starsearchcasting.com/forums/index.php?showtopic=283818">read more</a><br><br></li><li>Adam Lambert's glitter and glam, and maybe kissing a girl or two VIDEO - Monsters and Critics.com... <a href="http://starsearchcasting.com/forums/index.php?showtopic=283819">read more</a><br><br></li><li>Hundreds Attend LA Funeral for David Carradine - Los Angeles Times... <a href="http://starsearchcasting.com/forums/index.php?showtopic=283820">read more</a><br><br></li><li>DC Gays Celebrate Progress, Demand Equal Rights - Voice of America... <a href="http://starsearchcasting.com/forums/index.php?showtopic=283821">read more</a><br><br></li><li>Bonnaroo '09 Saturday: Bruuuuuuuuuuuuuuce! - Entertainment Weekly... <a href="http://starsearchcasting.com/forums/index.php?showtopic=283822">read more</a><br><br></li><li>Paris Hilton: A Boyfriend Retrospective... <a href="http://starsearchcasting.com/forums/index.php?showtopic=283825">read more</a><br><br></li><li>Pixie Lott tops singles chart with "Mama Do"... <a href="http://starsearchcasting.com/forums/index.php?showtopic=283782">read more</a><br><br></li><li>'Hangover' gives Murphy a headache at box office - Reuters... <a href="http://starsearchcasting.com/forums/index.php?showtopic=283823">read more</a><br><br></li><li>There's No Beating This Hangover... <a href="http://starsearchcasting.com/forums/index.php?showtopic=283833">read more</a><br><br></li><li>Laughs, emotion color WIF awards... <a href="http://starsearchcasting.com/forums/index.php?showtopic=283860">read more</a><br><br>
+	<li>Watch Miss World 2009 Online Live - Daily World Buzz... <a href="http://starsearchcasting.com/forums/index.php?showtopic=369540">read more</a><br><br></li><li>Week in Review: More Tiger Bombs, Baby Booms &amp; Winter TV Explosions... <a href="http://starsearchcasting.com/forums/index.php?showtopic=369572">read more</a><br><br></li><li>The-Dream On Love Vs. Money Grammy Snub: 'Somebody Isn't Listening'... <a href="http://starsearchcasting.com/forums/index.php?showtopic=369473">read more</a><br><br></li><li>Chris Brown Slams Music Business On Twitter... <a href="http://starsearchcasting.com/forums/index.php?showtopic=369472">read more</a><br><br></li><li>Timbaland Says He's 'Done With Hip-Hop'... <a href="http://starsearchcasting.com/forums/index.php?showtopic=369471">read more</a><br><br></li><li>Move Over, Edward &amp; Jacob! Make Room for Team Situation vs. Team Ronnie... <a href="http://starsearchcasting.com/forums/index.php?showtopic=369573">read more</a><br><br></li><li>Matt Damon's Good Will Hunting 2?... <a href="http://starsearchcasting.com/forums/index.php?showtopic=369574">read more</a><br><br></li><li>1. Anna Nicole's doctors, boyfriend plead not guilty... <a href="http://starsearchcasting.com/forums/index.php?showtopic=369470">read more</a><br><br></li><li>2. 'Avatar,' '2012' among films seeking effects Oscar... <a href="http://starsearchcasting.com/forums/index.php?showtopic=369469">read more</a><br><br></li><li>3. Liza Minnelli not over the rainbow for 'Oz'... <a href="http://starsearchcasting.com/forums/index.php?showtopic=369468">read more</a><br><br>
 	</li></div>
 </div>
 
@@ -612,29 +737,7 @@ Featured Talent: <span id="fmname"><a target="_blank" href="http://DemiLovato.st
 </td><td width="21" height="35" style="background: url('http://starsearchcasting.com/img/design/br.gif') no-repeat;">
 
 </td></tr></tbody></table>			
-			<table cellpadding="0" cellspacing="0" style="width:100%;">
-<tbody><tr>
-<td width="21" height="35" style="background: url('http://starsearchcasting.com/img/design/tl.gif') no-repeat;">
-</td><td style="padding-top:3px; background: url('http://starsearchcasting.com/img/design/t.gif') repeat-x;" align="center" valign="top" nowrap="">
-<span class="framehead">
-Translate
-</span>
-</td><td width="21" height="35" style="background: url('http://starsearchcasting.com/img/design/tr.gif') no-repeat;">
-
-</td></tr><tr>
-<td width="21" style="background: url('http://starsearchcasting.com/img/design/l.gif') repeat-y;">
-</td><td bgcolor="#f1f1f1" align="center">
-<script src="http://www.gmodules.com/ig/ifr?url=http://www.google.com/ig/modules/translatemypage.xml&amp;up_source_language=en&amp;w=160&amp;h=60&amp;title=&amp;border=&amp;output=js"></script>
-
-</td><td width="21" style="background: url('http://starsearchcasting.com/img/design/r.gif') repeat-y;">
-
-
-</td></tr><tr>
-<td width="21" height="35" style="background: url('http://starsearchcasting.com/img/design/bl.gif') no-repeat;">
-</td><td height="35" style="background: url('http://starsearchcasting.com/img/design/b.gif') repeat-x;">
-</td><td width="21" height="35" style="background: url('http://starsearchcasting.com/img/design/br.gif') no-repeat;">
-
-</td></tr></tbody></table>
+			
 			<table cellpadding="0" cellspacing="0" style="width:220;">
 <tbody><tr>
 <td width="21" height="35" style="background: url('http://starsearchcasting.com/img/design/green2/tl.gif') no-repeat;">
@@ -663,18 +766,18 @@ img.onerror = cantload;
 </script>
 <br>
 <img src="/ecnew/imgs/guests.gif"> Members<br>
-<nobr>Online Now: <object type="application/x-shockwave-flash" data="/img/counter5.swf?value=1,451" width="75" height="15" title="1,451" alt="1,451" style="display: inline;">
-<param name="movie" value="/img/counter5.swf?value=1,451">
+<nobr>Online Now: <object type="application/x-shockwave-flash" data="/img/counter3.swf?value=725" width="45" height="15" title="725" alt="725" style="display: inline;">
+<param name="movie" value="/img/counter3.swf?value=725">
 <param name="quality" value="high">
 <param name="bgcolor" value="#FFFFFF">
 <param name="menu" value="false">
 <param name="wmode" value="transparent">
-<param name="width" value="75">
+<param name="width" value="45">
 <param name="height" value="15">
 </object></nobr>
 <br>
-<nobr>Total: <object type="application/x-shockwave-flash" data="/img/counter7.swf?value=284,641" width="105" height="15" title="284,641" alt="284,641" style="display: inline;">
-<param name="movie" value="/img/counter7.swf?value=284,641">
+<nobr>Total: <object type="application/x-shockwave-flash" data="/img/counter7.swf?value=298,304" width="105" height="15" title="298,304" alt="298,304" style="display: inline;">
+<param name="movie" value="/img/counter7.swf?value=298,304">
 <param name="quality" value="high">
 <param name="bgcolor" value="#FFFFFF">
 <param name="menu" value="false">
@@ -699,6 +802,11 @@ img.onerror = cantload;
 		
 </div>		
 <center><h2>Our Commitment To Privacy</h2></center> 
+<p align="justify"><b>Effective January 1, 2008:</b></p>
+<p align="justify">As a social networking site, Star Search Casting is built to make it easy to share information with entertainment industry professionals, your friends, and people around you. We understand you may not want everyone in the world to have the information you put on Star Search Casting; that is why we limit the personally identifiable information shown on your profile and never give out your last name, street address, phone number, or email address.
+</p>
+<p align="justify">Star Search Casting, LLC ("Star Search Casting", "SSC", "Website", "Us", or "We") operates StarSearchCasting.com. This Privacy Policy describes Star Search Casting’s use and sharing of personally identifiable information (“PII”-- your full name, email address, mailing address, telephone number, or credit card number) that Members voluntarily provide to Star Search Casting when they register (also known as “Registration PII”). The Term “User” refers to a Visitor or a Member. This Privacy Policy applies to the services offered by Star Search Casting, including any Star Search Casting-branded URL (the “Star Search Casting Website”), the Star Search Casting instant messaging service, the Star Search Casting application developer service and other features (for example, music and video embedded players), Star Search Casting mobile services, and any other features, content, or applications offered from time to time by Star Search Casting in connection with the Star Search Casting Website (collectively, the “SSC services”).  By using or accessing Star Search Casting, you are accepting the practices described in this Privacy Policy.
+</p>
 <div style="float:right; padding-left: 10px;">
 <script type="text/javascript"><!--
 google_ad_client = "pub-1730469966128383";
@@ -717,10 +825,8 @@ google_color_url = "003366";
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
 </div>
-<p align="justify"><b>Effective January 1, 2008:</b></p>
-<p align="justify">Star Search Casting, LLC ("Star Search Casting", "SSC", "Us", or "We") operates StarSearchCasting.com. This Privacy Policy describes Star Search Casting’s use and sharing of personally identifiable information (“PII”-- your full name, email address, mailing address, telephone number, or credit card number) that Members voluntarily provide to Star Search Casting when they register (also known as “Registration PII”). The Term “User” refers to a Visitor or a Member. This Privacy Policy applies to the services offered by Star Search Casting, including any Star Search Casting-branded URL (the “Star Search Casting Website”), the Star Search Casting instant messaging service, the Star Search Casting application developer service and other features (for example, music and video embedded players), Star Search Casting mobile services, and any other features, content, or applications offered from time to time by Star Search Casting in connection with the Star Search Casting Website (collectively, the “SSC services”). The SSC services are hosted in the United States.
-</p>
-<p align="justify">The Star Search Casting Website is a general audience site and does not knowingly collect PII from children under 13 years of age.
+<p align="justify"><b>SAFE USE OF STAR SEARCH CASTING</b></p>
+<p align="justify">The Star Search Casting Website is a general audience site and does not knowingly collect PII from children under 13 years of age.  For information for users and parents about staying safe on Star Search Casting, <a href="http://starsearchcasting.com/html/safety_tips.php">click here</a>.
 </p>
 <p align="justify"><b>COLLECTION AND SUBMISSION OF PII AND NON-PII ON STAR SEARCH CASTING</b></p>
 <p align="justify">General. When Star Search Casting collects PII from you it is because you are voluntarily submitting Registration PII to us in order to register as a Member of Star Search Casting. Star Search Casting may also collect PII from you if you choose to participate in SSC services activities like sweepstakes, contests, scholarships, and surveys, because you want us to furnish you with products, services, newsletters, or information, or in connection with content or suggestions you submit to Star Search Casting for review.  If you do not wish to receive promotional communications you may opt-out by going to the "<a href="http://starsearchcasting.com/user.settings.php">Account Settings</a>" area in your account.
@@ -731,35 +837,35 @@ google_color_url = "003366";
 </p>
 <p align="justify">Star Search Casting Members can change their Registration PII and Profile Information at any time and can control how Visitors, other Members and Star Search Casting communicate with them by controlling their "<a href="http://starsearchcasting.com/user.settings.php">Account Settings</a>". portion of their Star Search Casting profile.
 </p>
-<p align="justify">Cookies. Cookies are small bits of information that Star Search Casting places on your computer. Star Search Casting uses cookies to identify your Internet browser, store Users’ preferences, and determine whether you have installed the enabling software needed to access certain material on the SSC services. Data in cookies may be read to authenticate user sessions or provide services.
+<p align="justify">Cookies. Cookies are small bits of information that Star Search Casting places on your computer. Star Search Casting uses cookies to identify your Internet browser, store Users’ preferences, and determine whether you have installed the enabling software needed to access certain material on the SSC services. Data in cookies may be read to authenticate user sessions or provide services.  SSC does use cookies or other tracking technologies to build a customer profile for advertising purposes.
 </p>
-<p align="justify">Third party advertisements displayed on SSC services may also contain cookies set by Internet advertising companies or advertisers (known as “third party cookies”). Star Search Casting does not control these third party cookies and Users of the SSC services should check the privacy policy of the Internet advertising company or advertiser to see whether and how it uses cookies. A pixel tag is a tiny image inserted in a webpage and used to record the number and types of views for that page. Star Search Casting may allow third party pixel tags to be present on SSC services for purposes of advertising, providing services or data and statistics collection.
+<p align="justify">Third party advertisements displayed on SSC services may also contain cookies set by Internet advertising companies or advertisers (known as “third party cookies”). Star Search Casting does not control these third party cookies and Users of the SSC services should check the privacy policy of the Internet advertising company or advertiser to see whether and how it uses cookies. A pixel tag is a tiny image inserted in a web page and used to record the number and types of views for that page. Star Search Casting may allow third party pixel tags to be present on SSC services for purposes of advertising, providing services or data and statistics collection.
 </p>
 <p align="justify">You can program your computer to warn you each time a cookie is being sent, block third party cookies or block all cookies. However, by blocking all cookies you may not have access to certain features and SSC services.
 </p>
 <p align="justify"><b>TESTIMONIALS</b></p>
-We post member success stories and testimonials on our web site which may contain personally identifiable information such as the member's name. Prior to showing a testimonial we do obtain the member's consent to post their name, picture, and profile link along with their testimonial.  If you want to remove your personal information that is being displayed on publically accessible pages on our web site or delete your account you may do that by going to the "<a href="http://starsearchcasting.com/user.settings.php">Account Settings</a>" area in your account.
+We post member success stories and testimonials on our web site which may contain personally identifiable information such as the member's name. Prior to showing a testimonial we do obtain the member's consent to post their name, picture, and profile link along with their testimonial.  If you want to remove your personal information that is being displayed on publicly accessible pages on our web site or delete your account you may do that by going to the "<a href="http://starsearchcasting.com/user.settings.php">Account Settings</a>" area in your account.
 <p></p>
-<p align="justify"><b>BLOGS, COMMINITY FORUMS, CHAT, AND COMMENTS</b></p>
+<p align="justify"><b>BLOGS, COMMUNITY FORUMS, CHAT, AND COMMENTS</b></p>
 <p align="justify">You post User Content (as defined in the Star Search Casting Terms of Use) on the Site at your own risk. This includes information you post on your profile, resume, community forums, blogs, profile comments, instant messaging, photo galleries, chat rooms, etc.  Please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other Users with whom you may choose to share your pages and information. You should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages.  Therefore, we cannot and do not guarantee or take responsibility for any User Content, including personally identifiable information, that you choose to submit in these forums that may be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Site. You understand and acknowledge that, even after removal, copies of User Content may remain viewable in cached and archived pages or if other Users have copied or stored your User Content.
 </p>
 <p align="justify"><b>NOTICE: STAR SEARCH CASTING WILL PROVIDE YOU WITH NOTICE ABOUT ITS PII COLLECTION PRACTICES</b></p>
 <p align="justify">When you voluntarily provide PII to Star Search Casting, we will make sure you are informed about who is collecting the information, how and why the information is being collected and the types of uses Star Search Casting will make of the information to the extent it is being used in a manner that differs from what is allowed pursuant to this Privacy Policy.
 </p>
-<p align="justify">At the time you provide your PII, Star Search Casting will notify you of your options regarding our use of your PII (See “Choice” below). Except as described in this Privacy Policy, Star Search Casting will not share your PII with third parties unless you have given Star Search Casting permission to do so (See “Use” below).
+<p align="justify">At the time you provide your PII, Star Search Casting will notify you of your options regarding our use of your PII (See “Choice” below). Except as described in this Privacy Policy, Star Search Casting will not share your PII with third parties unless you have given Star Search Casting permission to do so (See “Use” below) by selecting the check boxes to share your PII under the "<a href="http://starsearchcasting.com/user.settings.php">Account Settings</a>" area of your SSC profile.
 </p>
 <p align="justify">SSC services may be linked to Internet sites operated by other companies. SSC services may also carry advertisements from other companies. Star Search Casting is not responsible for the privacy practices of websites or other services operated by third parties that are linked to or integrated with the SSC services or for the privacy practices of third party Internet advertising companies. Once you leave SSC services via such a link, access a third party application (such as widgets or gadgets) or click on an advertisement, you should check the applicable privacy policy of the third party or advertiser site to determine, among other things, how they will handle any PII they collect from you.
 </p>
 <p align="justify">SSC services may also be linked to sites operated by companies affiliated with Star Search Casting. Although all Affiliated Companies adhere to the Star Search Casting corporate Privacy Principles, Users who visit those Affiliated Company sites should still refer to their separate privacy policies and practices, which may differ in some respects from this Privacy Policy.
 </p>
-<p align="justify">Star Search Casting may use cookies and similar tools to customize the content and advertising you receive based on the Profile Information you have provided. Profile Information you provide in structured profile fields or questions, information you add to open-ended profile fields and questions (essay questions like “About Me,” “Interests” and “Biography”) (“Non-Structured Profile Information”) and other non-PII about you may also be used to customize the online ads you encounter to those we believe are aligned with your interests. For example, based on your interests we might display an advertisement to make sure you are advised when a photographer is offering cetain discounts. The information used for this feature does not provide your PII or identify you as an individual to third parties.
+<p align="justify">Star Search Casting may use cookies and similar tools to customize the content and advertising you receive based on the Profile Information you have provided. Profile Information you provide in structured profile fields or questions, information you add to open-ended profile fields and questions (essay questions like “About Me,” “Interests” and “Biography”) (“Non-Structured Profile Information”) and other non-PII about you may also be used to customize the online ads you encounter to those we believe are aligned with your interests. For example, based on your interests we might display an advertisement to make sure you are advised when a photographer is offering certain discounts. The information used for this feature does not provide your PII or identify you as an individual to third parties.
 </p>
 <p align="justify">Some of the advertisements that appear on SSC services may also be delivered to you by third party Internet advertising companies. These companies utilize certain technologies to deliver advertisements and marketing messages and to collect non-PII about your visit to or use of SSC services, including information about the ads they display, via a cookie placed on your computer that reads your IP address. To opt out of information collection by these companies, or to obtain information about the technologies they use or their own privacy policies, please visit <a target="_blank" href="http://www.starsearchcasting.com/linkout/o.php?out=http://www.networkadvertising.org/managing/opt_out.asp">Network Advertising Initiative</a>.
 </p> 
 <p align="justify">Third party applications (such as widgets or gadgets) created by third party developers may also be available on the SSC services. Third party applications are small bits of software, often with interactivity, that can be installed into Members’ profiles or shared with other Users. However, Star Search Casting does not control the third party developers, and cannot dictate their actions. When a Member engages with a third party application, that Member is interacting with the third party developer, not with Star Search Casting. Star Search Casting encourages Members not to provide PII to the third party’s application unless the Member knows the party with whom it is interacting.
 </p> 
 <p align="justify"><b>CHOICE: STAR SEARCH CASTING WILL PROVIDE YOU WITH CHOICES ABOUT THE USE OF YOUR PII</b></p>
-<p align="justify">Except as described in this Privacy Policy, Star Search Casting will get your permission before we use the PII you provide to us in a way that is inconsistent with the purpose for which it was submitted or share your PII with third parties that are not affiliated with Star Search Casting.  We will do this by providing you with an opt-in form if you wish to share additinal informatioin with other parties. 
+<p align="justify">Except as described in this Privacy Policy, Star Search Casting will get your permission before we use the PII you provide to us in a way that is inconsistent with the purpose for which it was submitted or share your PII with third parties that are not affiliated with Star Search Casting.  We will do this by providing you with an opt-in form if you wish to share additional information with other parties. 
 </p>
 <p align="justify"><b>USE: STAR SEARCH CASTING'S USE OF PII</b></p>
 <p align="justify">Star Search Casting will only use the PII you provide under this Privacy Policy in a manner that is consistent with this Privacy Policy. If Star Search Casting obtains PII from a third party, such as a business partner, our use of that information is also governed by this Privacy Policy.
@@ -770,6 +876,24 @@ We post member success stories and testimonials on our web site which may contai
 </p> 
 <p align="justify">Star Search Casting employees, agents, and contractors must have a business reason to obtain access to your PII. Star Search Casting may share your PII with third party service providers who assist us in managing or providing SSC services’ information activities (for example, message board moderators and administration, order fulfillment, credit card processing, statistical analyses, data processing), or with outside contractors, agents, or sponsors who help us with the administration, judging and prize fulfillment aspects of contests, promotions, scholarships, and sweepstakes.
 </p>
+<div style="float:right; padding-left: 10px;">
+<script type="text/javascript"><!--
+google_ad_client = "pub-1730469966128383";
+google_ad_width = 120;
+google_ad_height = 600;
+google_ad_format = "120x600_as";
+google_ad_type = "image";
+google_ad_channel = "";
+google_color_border = "C3D9FF";
+google_color_bg = "FFFFFF";
+google_color_link = "003366";
+google_color_text = "000000";
+google_color_url = "003366";
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
 <p align="justify">These outside contractors, agents or sponsors may temporarily store some information on their servers, but they may only use your PII to provide Star Search Casting with a specific service and not for any other purpose. Star Search Casting may also provide your PII to a third party in those instances where you have chosen to receive certain information and have been notified that the fulfillment of such a request requires the sharing of your PII. Star Search Casting also may share your PII with Affiliated Companies if it has a business reason to do so.
 </p>
 <p align="justify">As described in “Notice” above, Star Search Casting may customize the advertising and marketing messages you receive on the Star Search Casting Website, or may work with outside companies to do so. Your non-PII and/or Profile Information may be shared with these companies so this customization can be accomplished. Star Search Casting prohibits these companies from sharing your non-PII and/or Profile Information with any third party or from using it for any other purpose. Anonymous click stream, number of page views calculated by pixel tags, and aggregated demographic information may also be shared with Star Search Casting’s advertisers and business partners.
@@ -787,7 +911,7 @@ We post member success stories and testimonials on our web site which may contai
 </p>
 <p align="justify">If you ask Star Search Casting to stop using your PII, Star Search Casting will honor that request while retaining any record of your PII that is necessary to comply with applicable federal, state or local law.
 </p>
-<p align="justify"><b>TERMS OF USE NOTICES AND REVISONS</b></p>
+<p align="justify"><b>TERMS OF USE NOTICES AND REVISIONS</b></p>
 <p align="justify">Your use of Star Search Casting, and any disputes arising from it, is subject to this Privacy Policy as well as our Terms of Use and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law.  From time to time Star Search Casting may modify this Privacy Policy and our Terms of Use to reflect industry initiatives or changes in the law, our PII collection and use practices, the features of the SSC services, or technology, and such modifications shall be effective upon posting by Star Search Casting on the Star Search Casting Website.  Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site. If we make changes, we will post them and will indicate at the top of this page the policy's new effective date. If we make material changes to this policy, we will notify you here, by email, or through notice on our home page. We encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account.  Your continued use of the SSC services after Star Search Casting posts a revised Privacy Policy signifies your acceptance of the revised Privacy Policy. It is therefore important that you review this Privacy Policy regularly to ensure you are updated as to any changes. If Star Search Casting materially changes its practices regarding collection or use of your PII, your PII will be governed by the revised Policy.
 </p>
 <p align="justify">I HAVE READ AND UNDERSTAND THE FOREGOING AGREEMENT AND UNDERSTAND THAT USE OF THIS SITE SIGNIFIES MY AGREEMENT TO BE BOUND BY ALL OF ITS TERMS AS WELL AS THE <a href="http://starsearchcasting.com/terms_of_use.php">TERMS OF USE</a>.</p>					
@@ -798,44 +922,93 @@ We post member success stories and testimonials on our web site which may contai
 <br>
 <img src="http://starsearchcasting.com/img/design/bottom1.gif" style="width: 90%; padding-left: 10px; padding-right: 10px; height: 5px; padding-bottom: 10px;">
 <br>
-<div style="padding-bottom: 5px;">
-<a href="http://starsearchcasting.com/index.php">Home</a> ::
-<a href="http://starsearchcasting.com/html/talent_convention.php">Best Talent Awards</a> ::
-<a href="http://starsearchcasting.com/html/your_agent.php">Talent Consultant</a> ::
-<a href="http://starsearchcasting.com/html/shoot_for_stars.php">Membership Levels</a> ::
-<a href="http://starsearchcasting.com/search.php">Talent Search</a>
- ::
-<a href="http://samples.starsearchcasting.com">Sample Profiles</a> ::
-</div>
-<div style="padding-bottom: 5px;">
-<a href="http://starsearchcasting.com/html/about_us.php">About Us</a> ::
-<a href="http://forums.starsearchcasting.com">Community Forums</a> ::
-<a href="http://starsearchcasting.com/talent_resources.php">Talent Resources</a> ::
-<a href="http://starsearchcasting.com/voting.php">Rate Talent</a> ::
-<a href="http://starsearchcasting.com/html/talents_q___a.php">Help</a> ::
-<a href="http://starsearchcasting.com/forums/index.php?autocom=gallery&amp;req=sc&amp;cat=1">Photo Gallery</a> ::
-<a href="http://auditions.starsearchcasting.com">Casting Calls</a>
 
-</div>
+<div align="center">
+<table width="80%" border="0">
+<tbody><tr valign="top">
+<td width="20%">
 <div style="padding-bottom: 5px;">
-<a href="http://starsearchcasting.com/forums/index.php?showforum=59">Modeling Scams</a> :: 
-<a href="http://starsearchcasting.com/html/star_search_casting_press_releases.php">Press Releases</a> ::
-<a href="http://starsearchcasting.com/forums/index.php?automodule=blog">Blogs</a> ::
-<a href="http://starsearchcasting.com/member_updates.php">Member Updates</a> ::
-<a href="http://starsearchcasting.com/members.latest.php">New Members</a> ::
-<a href="http://starsearchcasting.com/members.online.php">Who is Online</a> ::
-<a href="http://starsearchcasting.com/html/contact_us.php">Contact Us</a>
+<h2>About Us</h2>
+<a href="http://starsearchcasting.com/html/about_us.php">Who We Are</a><br>
+<a href="http://starsearchcasting.com/html/from_president.php">Message From Our Founder</a><br>
+<a href="http://starsearchcasting.com/testimonials.php">Member Success Stories</a><br>
+<a href="http://starsearchcasting.com/html/before_you_join.php">Before You Join</a><br>
+<a href="http://starsearchcasting.com/html/why_choose.php">Member Benefits</a><br>
+<a href="http://starsearchcasting.com/html/shoot_for_stars.php">Membership Levels</a><br>
+<a href="http://starsearchcasting.com/php/profile.php?cur=1">Sample Profiles</a><br>
+<a href="http://starsearchcasting.com/html/maximum_exposure.php">Maximun Exposure</a><br>
+<a href="http://starsearchcasting.com/html/star_search_casting_press_releases.php">Press Releases</a><br>
+<a href="http://starsearchcasting.com/html/casting_directors.php">Industry Professionals</a>
 </div>
-<div>
-<a href="http://starsearchcasting.com/html/safety_tips.php">Safety Tips</a> ::
-<a href="http://starsearchcasting.com/privacy_policy.php">Privacy Policy</a> ::
-<a href="http://starsearchcasting.com/terms_of_use.php">Terms of Use</a> ::
-<a href="http://starsearchcasting.com/html/sitemap.php">Human Sitemap</a> ::
-<a href="http://starsearchcasting.com/ssc-sitemap_index.xml">Google Sitemap</a> ::
+</td>
+<td class="divider"></td>
+<td width="20%">
+<div style="padding-bottom: 5px;">
+<h2>Services</h2>
+<a href="http://starsearchcasting.com/casting_notices/list.php">Casting Calls</a><br>
+<a href="http://starsearchcasting.com/talent_resources.php">Talent Resources</a><br>
+<a href="http://starsearchcasting.com/search.php">Talent Search</a><br>
+<a href="http://starsearchcasting.com/voting.php">Rate Talent</a><br>
+<a href="http://starsearchcasting.com/forums/index.php">Community Forums</a><br>
+<a href="http://starsearchcasting.com/forums/index.php?autocom=blog">Member Blogs</a><br>
+<a href="http://starsearchcasting.com/forums/index.php?autocom=gallery&amp;req=sc&amp;cat=1">Photo Galleries</a><br>
+<a href="http://starsearchcasting.com/forums/index.php?showforum=59">Scam Watch</a><br>
+<a href="http://starsearchcasting.com/member_updates.php">Member Updates</a><br>
+<a href="http://starsearchcasting.com/members.latest.php">New Members</a><br>
+<a href="http://starsearchcasting.com/members.online.php">Who Is Online</a><br>
+<a href="http://starsearchcasting.com/forums/index.php?showforum=8">Entertainment News</a><br>
+<a href="http://starsearchcasting.com/html/google_search.php">Site Search</a>
+</div>
+</td>
+<td class="divider"></td>
+<td width="20%">
+<div style="padding-bottom: 5px;">
+<h2>Support</h2>
+<a href="http://starsearchcasting.com/html/contact_us.php">Contact Us</a><br>
+<a href="http://starsearchcasting.com/html/talents_q___a.php">Help</a><br>
+<a href="http://starsearchcasting.com/forums/index.php?showforum=14">FAQs &amp; How To's</a><br>
+<a href="http://starsearchcasting.com/html/help_email.php">Not Getting Our Emails?</a><br>
+<a href="http://starsearchcasting.com/cookieguide.php">Help With Cookies</a><br>
+<a href="http://starsearchcasting.com/html/stop_billing.php">Cancel PayPal Subscription</a><br>
+<a href="http://starsearchcasting.com/share.php">Share Your Experience</a><br>
+<a href="http://starsearchcasting.com/html/sitemap.php">Human Sitemap</a><br>
+<a href="http://starsearchcasting.com/ssc-sitemap_index.xml">Google Sitemap</a><br>
 <a href="http://starsearchcasting.com/html/rss_feeds.php"><img src="/img/rss_icon_16x_16.png" width="13" height="13" border="0" alt="RSS &amp; XML feeds on StarSearchCasting.com">RSS Feeds</a>
 </div>
-<br>
+</td>
+<td class="divider"></td>
+<td width="20%">
+<div style="padding-bottom: 5px;">
+<h2>Trust &amp; Privacy</h2>
+<a href="http://starsearchcasting.com/html/safety_tips.php">Safety Tips</a><br>
+<a href="http://starsearchcasting.com/privacy_policy.php">Privacy Policy</a><br>
+<a href="http://starsearchcasting.com/terms_of_use.php">Terms of Use</a><br>
+<a href="http://starsearchcasting.com/html/before_you_join.php">Before You Join</a><br>
+<a href="http://starsearchcasting.com/html/payment_terms.php">Payment Terms</a><br>
+<a href="http://starsearchcasting.com/html/principles.php">Our Principals</a>
+</div>
+</td>
+</tr></tbody></table>
 
+<br>
+<center>
+<!--
+<a href="javascript:void(0);" border=0 onclick="window.open('http://www.starsearchcasting.com/html/smarticonprofile.html','','width=600,height=560');">
+<img border=0 src=/img/geotrust_seal.gif alt="Star Search Casting, LLC. is secured by 128-bit SSL encryption."></a>
+-->
+<script language="Javascript" src="https://seal.godaddy.com/getSeal?sealID=73155968001d709a512710004c4fa8b17df4023164832108565160"></script>
+
+<a target="_blank" href="http://www.starsearchcasting.com/linkout/o.php?out=https://www.mcafeesecure.com/RatingVerify?ref=starsearchcasting.com"><img width="120" height="40" border="0" src="//images.scanalert.com/meter/starsearchcasting.com/12.gif" alt="Disney auditions, Disney casting calls, child acting, child modeling, baby modeling, Hannah Montana auditions, teen auditions, teen casting calls, acting auditions, modeling auditions, tv auditions, acting casting calls, modeling casting, calls, tv casting calls, commercial auditions, commercial casting calls, baby modeling auditions, baby casting calls, child auditions, child casting calls, movie casting calls, movie auditions, modeling jobs, acting jobs" title="StarSearchCasting.com is a McAfee Secure site which helps keep you safe from identity theft, credit card fraud, spyware, spam, viruses &amp; online modeling scams." oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a> 					
+
+<a href="#" onclick="javascript:window.open('https://www.paypal.com/us/cgi-bin/webscr?cmd=xpt/Marketing/popup/OLCWhatIsPayPal-outside','olcwhatispaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=400, height=350');"><img src="https://www.paypal.com/en_US/i/bnr/bnr_paymentsBy_150x40.gif" border="0" alt="Click for Additional Options"></a>
+
+<a target="_blank" href="http://www.starsearchcasting.com/linkout/o.php?out=http://www.bbbonline.org/cks.asp?id=1050419191358"><img border="0" width="99" height="40" src="http://starsearchcasting.com/img/design/bbbsealh2.gif" alt="Star Search Casting is the best source of current Casting Calls &amp; Auditions! Get your FREE online profile and put your face in front of entertainment industry professionals including Casting Directors &amp; Agents." title="StarSearchCasting.com is the premier social networking site for the Entertainment Business. Star Search Casting offers a talent database, used by Casting Directors, Agents, &amp; other Entertainment Industry Professionals, to find Actors, Models, Singers, Dancers, &amp; all other types of talent for projects they are casting."></a>
+
+<link rel="stylesheet" href="https://checkout.google.com/seller/accept/s.css" type="text/css" media="screen">
+<script type="text/javascript" src="https://checkout.google.com/seller/accept/j.js"></script>
+<script type="text/javascript">showMark(2);</script>
+<noscript><img src="https://checkout.google.com/seller/accept/images/ht.gif" width="178" height="40" alt="Google Checkout Acceptance Mark for Star Search Casting" /></noscript>
+<p></p>
 <center><script language="javascript"><!--                                 
 var dc=document; var date_ob=new Date();
 dc.cookie='h2=o; path=/;';var bust=date_ob.getSeconds();
@@ -844,13 +1017,11 @@ dc.write('<scr'+'ipt language="javascript" src="http://media.fastclick.net');
 dc.write('/w/pop.cgi?sid=18275&m=2&tp=2&v=1.8&c='+bust+'"></scr'+'ipt>');
 date_ob.setTime(date_ob.getTime()+43200000);
 dc.cookie='he=llo; path=/; expires='+ date_ob.toGMTString();} // -->
-</script></center>
-
-
+</script><script language="javascript" src="http://media.fastclick.net/w/pop.cgi?sid=18275&amp;m=2&amp;tp=2&amp;v=1.8&amp;c=35"></script></center>
 <p>
 </p><div id="copyright" class="smalltext">Copyright © 1998-2009 Star Search Casting, LLC.® All rights reserved.</div>
 <p></p>
-
+</center>
 <script type="text/javascript">
 $(function() {
 	$('.ads a').attr('target','_blank');
@@ -873,10 +1044,12 @@ var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "htt
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
+try {
 var pageTracker = _gat._getTracker("UA-233204-1");
-pageTracker._initData();
+pageTracker._setDomainName(".starsearchcasting.com");
 pageTracker._trackPageview();
-</script>
+} catch(err) {}</script>
+
 <script language="JavaScript" type="text/javascript">
 <!-- Yahoo! Inc.
 var ysm_accountid  = "1AM6L7VFF4FIVAVKQ6A921RLME4";
@@ -923,7 +1096,5 @@ function ()
 });
 </script>
 
-
 <script src="https://seal.buysafe.com/private/rollover/rollover.js"></script><span id="BuySafeSealSpan"><script type="text/javascript">WriteBuySafeSeal('BuySafeSealSpan', 'PersistentSeal', 'HASH=A%2bl32fSfMNsCgW5v1vxq%2btcJoggl0yxc8NdIdSFy5klazC%2bpEfnw%2bC4WQGPD8BjpfXa1RsdDKeaAoWBiOmizEg%3d%3d');</script></span>
-
-</div></body></html>
+</div></div></body></html>
