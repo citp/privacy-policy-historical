@@ -1,108 +1,117 @@
-> *The following text is extracted and transformed from the going.com privacy policy that was archived on 2009-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090215220419id_/http%3A//sanfrancisco.going.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the going.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212085556id_/http%3A//sanfrancisco.going.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Going.com - Find local nightlife, live music, culture & arts. What's happening in YOUR city?
+# Privacy Policy - About AOL
 
-• Overview:
+[](http://www.truste.org/ivalidate.php?url=www.aol.com&sealid=101)
 
-1.     
+Thank you for registering your Screen Name to obtain enhanced access to the network of Web sites and services offered by AOL Inc. ("AOL"). The AOL Network improves your online experience by offering you access to a variety of features, offerings and content. By registering your Screen Name, you gain access to the AOL Network, which consists of [AOL Enhanced Websites and Services](http://about.aol.com/aolnetwork/aol_enhanced) such as AIM Mail, and other content and offerings from the AOL Network's [affiliated providers](http://about.aol.com/aolnetwork/affiliates) (collectively the "AOL Network" or "Network").
 
-**_Disclosure Regarding Our Policy._**  
-**Going** , Inc. (" **Going** ") understands and recognizes that its members, visitors, users and others (collectively or individually "Users") who use [www.going.com](http://www.going.com/), the Going Mobile service, or other websites owned or operated by Going (collectively, the "Site") value their privacy. This Privacy Policy details important information regarding the use and disclosure of User information collected on the Site. Going provides this Privacy Policy to help you make an informed decision about whether to use or continue using the Site. Please take the time to read and understand this Privacy Policy so that you can understand how we use your personal information. **Remember, if you register with and/or provide any personal information to this Site, you agree to these terms.**
+When you register with and use the AOL Network, you provide the AOL Network with personally identifiable information (your "AOL Network information"). This Policy explains the information practices that apply to your AOL Network information, as well as the choices you can make about the ways this information is used by the AOL Network.
 
-This Privacy Policy is incorporated into and is subject to the Going [Terms of Use](http://going.com/terms_of_use.php). Your use of the Site and any personal information you provide on the Site remains subject to the terms of this Privacy Policy and our [Terms of Use](http://going.com/terms_of_use.php). 
+Registering to use your Screen Name with the AOL Network is optional. This Privacy Policy applies only to information AOL collects about you as a user of the AOL Network. This policy does not apply to information about you collected by the AOL Network's affiliated providers, or third party Web sites and offerings linked to or otherwise accessible from the AOL Network. The information collected or received by the AOL Network's affiliated providers and these third parties is subject to their own privacy policies.
 
-2.      **_Changes to Our Policy._**  
-Because our business needs may change over time, Going reserves the right, at any time and from time to time, to change, modify, add or remove portions from this Privacy Policy. If at any time in the future we plan to use your personal information in a way that differs from this Privacy Policy, we will revise this Privacy Policy to reflect such change. Your continued use of the Site following the posting of any changes to this policy means you accept such changes. This Privacy Policy is effective as of the date indicated at the beginning of the policy. **Please review this Privacy Policy from time to time and before you provide any personal information to the Site.**
+### Collection of your AOL Network Information
 
-• The Information We Collect:
+Your AOL Network information consists of personally identifiable information collected or received about you when you interact with the AOL Network's Web sites, services and offerings as a registered user. Depending on how you use the Network, your AOL Network information may include
 
-1.      **_Personal Information._**  
-You provide certain personally identifiable information (such as your name and email address) to Going when choosing to participate in various activities on the Site such as uploading photographs, posting messages in our forums or chat rooms, joining or adding groups, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other lists. 
+  * registration-related information (such as name, home or work addresses, e-mail addresses, telephone and fax numbers, birth date or gender);
+  * information about your visits to AOL Network Web sites and pages, and your responses to the offerings and advertisements presented on these Web sites and pages;
+  * information about the searches you perform through the AOL Network and how you use the results of those searches;
+  * information about the AOL Network services or offerings that you use, and how frequently you use them;
+  * information about how long you have used services from AOL, Inc. prior to registering with the Network;
+  * transaction-related information (such as credit card or other preferred means of payment, billing or shipping information, or a history of products purchased through the AOL Network);
+  * customer service information about you as a AOL Network user or subscriber; or
+  * other information specifically related to your use of a particular AOL Network service or offering.
 
-2.      **_Click-stream Data._**  
-When you use the Site, our server automatically records certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring/exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser. 
 
-3.     
 
-**_Cookies._**  
-To enhance your online experience with us, we may use "cookies." Cookies are text files placed on your hard disk by our web server to store your preferences. Cookies, by themselves, do not contain your e-mail address or other personal information. However, once you choose to provide the personal information, this information may be linked to the data stored in the cookie. 
+Your AOL Network information may be supplemented with additional information from other companies.
 
-We use cookies as a convenient feature to save you time, to understand how our Site is used, and to improve the content and offerings on our Site. For example, we may use cookies to personalize your experience at our web pages or recall your specific information on subsequent visits. We also may use cookies to offer you products, programs or services. You can opt to have your browser reject cookies. If you do that, you may need to re-register with us every time you visit our Site in order to participate in certain promotions and programs. You should also know that companies that may advertise on our Site (and their agents) might use their own cookies. This Privacy Policy does not cover how these companies use their cookies. 
+Your AOL Network information may also include certain technical information gathered or received when you use the AOL Network. Some of the technical information that may be collected or received includes: the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using (e.g., Windows XP or Mac OS), CPU type (e.g. Pentium), your manner of connecting to the Internet (e.g., connection speed through narrowband or broadband access); Internet protocol address; information about the version of service from AOL Inc. that you used prior to registering with the Network; other information about your geographic location; and the domain name of your Internet service provider.
 
-4.      **_Clear GIFs Information._**  
-When you use the Site, we may employ "clear GIFs" (a.k.a. Web Beacons) which are used to track the online usage patterns of our Users anonymously (i.e., in a non-personally-identifiable manner). In addition, we may also use clear GIFs in HTML-based emails sent to our users to track which emails are opened by recipients. 
+Your AOL Network information may be collected and stored in the United States. Additionally, the AOL Network will use the Screen Name Service, or similar technologies, to authenticate you on the AOL Network and enable you to take advantage of Network offerings. You can learn more about other benefits of the Screen Name Service, including its ability to facilitate your use of Web sites outside the AOL Network, by visiting [Screen Name Service](http://my.screenname.aol.com/).
 
-• How We Use Your Personal Information:
+### How Your AOL Network information is Used
 
-1.     
+Your AOL Network information is used
 
-**_Personal Information._**  
-If you submit personally identifiable information to us through the Site, then we use your personal information to operate, maintain, and provide to you the features and functionality of the Site. 
+  * to operate and improve the Web sites, services and offerings available through the AOL Network;
+  * to personalize the content and advertisements provided to you;
+  * to fulfill your requests for products, programs, and services;
+  * to communicate with you and respond to your inquiries;
+  * to conduct research about your use of the AOL Network; and
+  * to help offer you other products, programs, or services that may be of interest.
 
-Any personal information or photography that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and could be collected and used by others. Your account name (not your email address) is displayed to other Users when you upload videos or send messages through the Site and other Users, depending on the Privacy Settings you choose for your account, may contact you through messages and comments. Any videos that you submit to the Site could be redistributed through the Internet and other media channels, and could be viewed by the general public. 
 
-2.      **_Click-Stream Data and Other Non-Personally Identifiable Information._**  
-We may use click-stream data and other non-personally identifiable information to anonymously determine how much time visitors spend on each page of our Site, how visitors navigate throughout our Site and how we may tailor our web pages to better meet the needs of visitors. We sometimes use the non-personally identifiable information that we collect to improve the design and content of our Site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze how our Site is used, as well as to offer you products, programs or services. Sometimes we share aggregate information with others, including Related Companies (as defined below) and non-affiliated companies. 
 
-3.      **_Cookies._**  
-We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the Site; (b) provide custom, personalized content, information and advertising; (c) monitor the effectiveness of our membership or marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests. 
+Your AOL Network information may be shared with the Network's affiliated providers. You have [choices](https://marketingpreferences.aol.com/) about how your AOL Network information is used, and whether affiliated providers receive personally identifiable information about you as an AOL Network user. Affiliated providers that receive your AOL Network information may use this information according to their applicable privacy policies.
 
-4.      **_Emails from Third Parties._**  
-We do not share personal information about our Users with third parties without consent from the User. However, email addresses of non-members may be recorded through evite lists, friend invitations or other sources on the Site without the permission of such non-member or the individual who included the non-member's email address on the Site initially. Although Going itself does not send any emails to non-members, third parties (e.g., event organizers) may send emails to recipients whose email address they have previously acquired through other means. As a result, Going has instituted mechanisms to allow such non-members to opt out of certain emails from these third parties or all emails and advertisements of Going altogether. The ability to opt-out, along with other security measures Going has taken are all done in order to ensure that Going is fully compliant with the Can-SPAM Act of 2003. 
+Your AOL Network information will not be shared with third parties unless it is necessary to fulfill a transaction you have requested, in other circumstances in which you have consented to the sharing of your AOL Network information, or except as described in this Privacy Policy. The AOL Network may use your AOL Network information to present offers to you on behalf of business partners and advertisers. These business partners and advertisers receive aggregate data about groups of AOL Network users, but do not receive information that personally identifies you.
 
-• When Going Discloses Information:
+If you use AOL Network communications tools to disclose information about yourself publicly (for example, in chat rooms or online message boards made available by the AOL Network), other online users may obtain access to any information you provide. The contents of your online communications, as well as other information about you as an AOL Network user, may be accessed and disclosed in response to legal process (for example, a court order, search warrant or subpoena); in other circumstances in which AOL believes the AOL Network is being used in the commission of a crime; when we have a good faith belief that there is an emergency that poses a threat to the safety of you or another person; or when necessary either to protect the rights or property of AOL, the AOL Network or its affiliated providers, or for us to render the service you have requested.
 
-1.      **_Processing Information._**  
-We may provide personally identifiable information and non-personally-identifiable information to our subsidiaries, our affiliates or other businesses or persons for the purpose of processing such information on our behalf. In such cases, we require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and apply appropriate confidentiality and security measures. 
+The AOL Network may use agents and contractors in order to help operate the Network. If such agents and contractors have access to personally identifiable information, they are required to protect this information in a manner that is consistent with this Privacy Policy by, for example, not using the information for any purpose other than to carry out the services they are performing for the AOL Network.
 
-2.      **_Obtaining Consent._**  
-We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major Site changes or for customer service purposes). 
+In the event that ownership of the AOL Network was to change as a result of a merger, acquisition or transfer to another company, your AOL Network information may be transferred. If such a transfer results in a material change in the use of your AOL Network information, the AOL Network will provide notice about the choices you have to decline to permit such a transfer.
 
-3.      **_Non-Personal Information._**  
-We may share non-personally-identifiable information (such as anonymous User usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the Site. 
+### Your Choices About Your AOL Network Information
 
-4.      **_Required by law._**  
-We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant. 
+The AOL Network provides you with access to your registration and any billing or shipping information; the ability to edit this information at the [My Account ](http://about.aol.com/aolnetwork/my_account)area; and the ability to deactivate your registration with the AOL Network. Additionally, some AOL Network services (AOL Search, for example) may offer you the ability to control what information is collected or used when you use these services.
 
-5.      **_Liability; Security._**  
-Going also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that Going believes, in good faith, is appropriate or necessary to enforce our [Terms of Use](http://going.com/terms_of_use.php), take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of Going, our Users or others. 
+You can [make choices ](https://marketingpreferences.aol.com/)about how your AOL Network information may be used by the AOL Network to provide marketing offers to you. In order to do so, please visit the [My Account](http://about.aol.com/aolnetwork/my_account) area and review your AOL Network marketing preferences. These preferences do not apply to communications that are directly related to your registration with the AOL Network, or the fulfillment of a specific transaction you have requested (for example, a service advisory from the AOL Network, or an acknowledgment of a purchase order).
 
-• Collection of Information by Others:  
-Our Site may contain links to other websites owned or operated by third parties (collectively, the "Third Party Sites"). Such Third Party Sites may have information practices that are different from those described in this Privacy Policy. Going is not responsible for such practices. You should check the other privacy policies made available on such Third Party Sites. 
+You may also choose whether the AOL Network's affiliated providers receive personally identifiable AOL Network information. This choice does not apply to the sharing of AOL Network information necessary to provide you the basic functionality of the Network (for example, recognizing you as an authenticated user on affiliated providers' Web sites or services). Additionally, the AOL Network may share personally identifiable AOL Network information with one or more of its affiliated providers when that information is necessary to carry out a specific transaction or request you make for an offering from the Network or its affiliated providers, or as otherwise specified at the time you take advantage of that particular Network offering.
 
-• Supplementing Information:  
-From time to time we may supplement the personal information you provide through our Site with information from other sources, such as information validating your address. Thus, information we obtain through our Site may be intermingled with and used in conjunction with information obtained through sources other than our Site, including both offline and online sources. 
+Because the choices you make in connection with your AOL Network information may not take effect immediately, it is possible you may receive a communication during the period in which your request is being processed.
 
-• Community, Media and Discussion Tools:  
-Our Site includes profiles, photo and video albums, forums, message boards, news groups and other community tools available to you. Please remember that any information, including any personal information, that is disclosed in these areas becomes public information for other users to view and for us to use. For example, from time to time, we may use the content you write (including your name or screen name if you post it) or media you post (including photos and videos) for promotional purposes, in e-mail newsletters, marketing campaigns or elsewhere, and by using our Site or these profiles, photo and video albums, forums, message boards, news groups, and other community tools, you agree that we may do so. You should exercise caution when deciding to disclose your personal information in these areas, since anyone - not just us - could use publicly posted information. 
+### Cookies and Web Beacons
 
-• Security Notice:  
-We maintain physical, electronic, and managerial procedures in accordance with federal guidance to safeguard and help prevent unauthorized access to, maintain data security of and correctly use the personal information collected through our Site. However, no Internet or e-mail transmission is ever fully secure or error free. In particular, e-mail sent to or from our Site may not be secure. When your personal information is passed on to non-affiliated companies, to the extent practical, we require that they also have in place the appropriate safeguards. We cannot, however, guarantee that they do. Please keep these disclaimers in mind when disclosing any Personal Data via our Site. 
+The AOL Network may use [cookies, web beacons, or similar technologies ](http://about.aol.com/aolnetwork/beacons)in combination with your AOL Network information to enhance and personalize your experience on the AOL Network, including to operate and improve offerings through the AOL Network; to help authenticate you when you use the AOL Network; to remember your preferences and registration information; to enable a shopping cart; to present and help measure and research the effectiveness of AOL Network offerings, advertisements, and e-mail communications (by determining which Network e-mails you open and act upon); and to customize the content and advertisements provided to you through the AOL Network.
 
-• Third-party Advertisers, Links to Other Sites  
-Going may allow other companies, called third-party ad servers or ad networks, to serve advertisements within the Site. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Site. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see. 
+The AOL Network and its advertisers may also use ad network providers and other service providers, including AOL subsidiaries such as Advertising.com and TACODA, to help present customized content and advertisements on the AOL Network and other Web sites. These providers use cookies, web beacons, or similar technologies on your computer to help present, better target, and measure the effectiveness of their content and advertisements, using data gathered over time and across their networks of Web pages to determine or predict the characteristics and preferences of their audience. The AOL Network may share certain non-personally identifiable information about you as a Network user (such as user age and zip code) with certain ad network and service providers, including Advertising.com and TACODA, to help them deliver more relevant content and advertisements through their networks. The use of cookies, web beacons, or similar technologies by Advertising.com, TACODA, and other content and ad network providers is subject to their own privacy policies, not the AOL Network's. [Click here ](http://about.aol.com/aolnetwork/beacons)to learn more about third party content and ad network providers and the choices you have about these technologies.
 
-Going does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. However, please note that if an advertiser asks Going to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have attended certain events) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. The advertiser may also use information regarding your use of the Site, such as the number of times you viewed an ad (but not any personally identifiable information), to determine which ads to deliver to you. 
+### Information for AOL and CompuServe Subscribers
 
-You should consult the respective privacy policies of these third-party ad servers or ad networks for more information on their practices and for instructions on how to opt-out of certain practices if you so desire. Going's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+Certain AOL Network offerings may be made available to subscribers of the AOL and CompuServe online services, without requiring these subscribers to register with the AOL Network.
 
-The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about DoubleClick, cookies, and how to "opt-out", please [click here](http://www.doubleclick.net/us/corporate/privacy). http://www.doubleclick.net/us/corporate/privacy 
+### Personal Financial Information
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
+The following notice explains the AOL Network's practices with respect to the use of personal financial information, such as AOL Network portfolios ("AOL Network financial features"). By using AOL Network financial features, you agree to receive future notices required under the Gramm-Leach-Bliley Act through the continuous posting of this Privacy Policy online.
 
-• Accessing or Correcting Your Personal Information:  
-**You** can access the personal information that we have collected about you through this Site **by logging onto your profile. Should you have any problems accessing your personal information or making any corrections to it** please [contact us](http://going.com/contact_us.php?topic=General%20Customer%20Service). 
+To use the portfolio feature on the AOL Network, for example, you specify the types of stocks and funds you wish to monitor, the names of the particular stocks of interest to you, and their purchase price ("portfolio information"). To give you updated information when you use these features, AOL Network servers automatically collect and store the portfolio information that you provide. Similarly, if you use a Wallet service to facilitate transactions on third party sites, you provide the AOL Network with information including your name, credit card, and shipping addresses ("wallet information").
 
-• A Special Note for Parents:  
-Our Site is not geared towards children. Our Site will not knowingly accept personal information from anyone under 13 years old. If you believe that your child under 13 has gained access to our Site without your permission, you may contact us at service@going.com. Protecting the privacy of young children is especially important. For that reason, Going does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the Site from persons under 13 years of age, and no part of our website is directed to persons under 13. If you are under 13 years of age, then please do not use or access the Site at any time or in any manner. If Going learns that personally identifiable information of persons under 13 years of age has been collected on the Site without verified parental consent, then Going will take the appropriate steps to delete this information. 
+The AOL Network does not disclose portfolio or wallet information to unaffiliated third parties other than in the limited circumstances permitted by law (for example, in response to legal process), or when you ask us to disclose the information (for example, when you request that the Network share wallet information in order to facilitate a purchase on a third party web site). Nor does the AOL Network share information about the specific types of stocks and funds in your portfolio with the Network's affiliated providers. Any sharing of portfolio or wallet information with the Network's affiliated providers is also subject to your [choices](https://marketingpreferences.aol.com/).This policy does not apply, however, to financial information that you provide to an affiliated provider or a third party in connection with your use of their sites or offerings.
 
-• Merger, Sale or Bankruptcy:  
-In the event that Going is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our Users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used. 
+If you click through a banner advertisement on the portfolio or wallet features, and identify yourself to the advertiser (for example, by placing an order), the advertiser may be able to tell that you use that feature. No portfolio or wallet information is shared with the advertiser unless you request it.
 
-How to Contact Us:  
-If you have any questions or concerns about this privacy policy you may e-mail us at: service@going.com or write to us at the following address: 
+Only employees and contractors who need to know this information in order to provide this service to you are authorized to access portfolio or wallet information.
 
-Going, Inc.  
-8 Winter St.  
-6th Floor  
-Boston MA 02108
+### Our Commitment to Security
+
+The AOL Network has established safeguards to help prevent unauthorized access to or misuse of your AOL Network information, but cannot guarantee that your personally identifiable information will never be disclosed in a manner inconsistent with this Privacy Policy (for example, as a result of unauthorized acts by third parties that violate applicable law or the policies of the Network and its affiliated providers). To protect your privacy and security, the AOL Network uses passwords to help verify your identity before granting access or making corrections to any of your AOL Network information.
+
+### Special Note for Parents
+
+The AOL Network is intended for a general audience, and children under the age of thirteen are not permitted to register with the AOL Network. If any of the AOL Network's affiliated providers offers a site directed toward children, or knowingly collects information from children, that affiliated provider is required to provide you information about its practices for the handling of children's online data through its privacy policy.
+
+### How to Contact Us
+
+If you have any questions or concerns about the AOL Network's Privacy Policy or its implementation, you may contact us at this email address:
+
+privacyquestions@aol.com
+
+### Changes to this Privacy Policy and Additional Information
+
+The AOL Network may update this Privacy Policy from time to time, and so you should review this Policy periodically. If there are significant changes to the AOL Network's information practices, you will be provided with appropriate online notice. You may be provided other privacy-related information in connection with your use of offerings from the AOL Network, as well as for special features and services not described in this Policy that may be introduced in the future.
+
+Your California Privacy Rights: California privacy law allows California residents to obtain specific disclosures about a business's privacy practices if it shares information with other companies for direct marketing purposes. To make a request to the AOL Network under California's privacy law, please send an e-mail to: CAPrivacyInfoAN@aol.com.
+
+European Union Residents: AOL adheres to the EU-US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the [U.S. Department of Commerce's Safe Harbor Program](http://www.export.gov/safeharbor/). Click [here](http://about.aol.com/aolnetwork/safe_harbor) for more details.
+
+### TRUSTe
+
+The AOL Network is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. As this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices monitored for compliance by TRUSTe.
+
+If you have questions or concerns regarding this statement, you should first contact us at **PrivacyQuestions@aol.com**. If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+
+Last Updated 07-13-2009
