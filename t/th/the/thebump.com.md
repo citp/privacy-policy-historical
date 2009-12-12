@@ -1,38 +1,71 @@
-> *The following text is extracted and transformed from the thebump.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605231101id_/http%3A//thebump.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebump.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212065917id_/http%3A//www.theknot.com/au_privacy.shtml) for the most accurate reproduction.*
 
-# Privacy Policy | The Bump
+# The Knot: Privacy Policy - By TheKnot.com
 
-This is the web site is owned and operated by The Bump Media, Inc.
+**[ ](http://www.truste.org/ivalidate.php?url=www.theknot.com&sealid=101)Effective 08/15/08**   
+We have created this Privacy Policy to let you know why we collect information from you and what we do with it. The Knot and all of its trade names, including but not limited to Bridalink (collectively reffered to hereafter as The Knot), is a licensee of the TRUSTe Privacy Program and this statement discloses the privacy practices for The Knot (www.theknot.com). TRUSTe is an independent, non-profit initiative whose mission is to build users' trust and confidence in the Internet by promoting the TRUSTe principles of fair information practices. Because The Knot wants to demonstrate its commitment to respecting your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-Our postal address is  
-3627 East Indian School Road, Suite 206A Phoenix, AZ 85018
+By displaying the TRUSTe trustmark, The Knot has agreed to notify you of: 1. What personally identifiable information of yours or third-party personal identification is collected from you through The Knot  
+2\. The organization collecting the information   
+3\. How the information is used   
+4\. With whom the information may be shared   
+5\. What choices are available to you regarding collection, use, and distribution of the information   
+6\. The kind of security procedures that are in place to protect the loss, misuse, or alteration of information under The Knot control   
+7\. How you can correct any inaccuracies in the information
 
-We can be reached via e-mail at [privacy@thebump.com](mailto:privacy@thebump.com) or you can reach us by telephone at 602-954-2540
+### Contact Us
 
-We collect the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, name and address, telephone number.
+If you have questions or concerns regarding this statement, you should first contact The Knot Member Services by emailing [membersupport@theknot.com](mailto:membersupport@theknot.com) and writing "Privacy Policy" in the subject line. You may also write to The Knot Member Services at 462 Broadway, Floor 6, New York, NY 10013 or call (212) 219-8555.
 
-The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site, and used by us to contact consumers for marketing purposes.
+If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe through the ["TRUSTe WatchDog Dispute Resolution Process"](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with The Knot to resolve your concerns.
 
-With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, customize Web page content based on visitors' browser type or other information that the visitor sends.
+### How We Collect Your Information
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address, writing to us at the above address or using the unsubscribe link at the bottom of any email communications we send you.
+The first thing to remember about privacy is that there is only so much information that any website can collect without your answering of specific questions. The Knot logs IP addresses (in other words, the location of your computer on the Internet) for system administration, troubleshooting, and to examine overall traffic trends. (For example, IP addresses help us determine the percentage of people coming from various online gateways, such as Yahoo! or America Online.) This information, in aggregate form, is recorded for administrative purposes only. IP addresses are not linked to any personal information.
 
-If you supply us with your postal address on-line you may receive periodic mailings from The Bump Media, Inc.If you do not wish to receive such mailings, please let us know by calling us at the number provided above or writing to us at the above address.
+The Knot uses a cookie, a small data file stored on your computer, to customize portions of our site to your preferences. For example, The Knot uses a cookie to identify you as a Knot member and to make sure that only you have access to, for example, your own personal wedding budget and calendar. This way, you answer certain questions only once and not every time you participate in an activity or event. The cookie by itself doesn't tell us, or anyone else, who you are, what your email address is, or anything else personal. You provide that information when you register with The Knot, and only The Knot has access to that information. If you choose set up your browser to reject all cookies, please understand that you may be limited to some the areas or functionality within our site.  
+For more information on cookies, please see our [Cookie FAQ](http://wedding.theknot.com/wedding-tools-help-center/theknot-membership-help.aspx).
 
-Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending us e-mail at the above address, writing to us at the above address.
+You can browse The Knot and read our editorial content without registering or providing any personal information. However, in order to take advantage of our personalized services, you are required to provide us with information such as your name, email address, real-world address, wedding date, and role in the wedding. We collect similar information from users who choose to participate in our contests and promotional events. We always let you know before we collect any personal information from you.
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice.� If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses, we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses.� If you are concerned about how your information is used, you should check back at our Web site periodically.
+We offer message boards, personal web pages, chat rooms and blogs on our website. Any information you voluntarily disclose when you post to one of these areas becomes public and may be used by us for online and offline promotional and commercial uses. If you choose to post comments on our website, you should be aware that any personally identifiable information you submit is public and can be read, collected, or used by other users of those areas, and could be used to send you unsolicited messages. We are not responsible for any personally identifiable information you choose to submit.
 
-With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+If you choose to use our “Send to a Friend” feature, which allows you to send an e-mail message to specified addresses and which contains a link to an article on our website that you think may be of interest to your friend(s), we will ask you for the e-mail address(es) that the message should be sent to. We will automatically send a one-time e-mail inviting the recipient(s) to read the article. We store this information for the sole purpose of sending this one-time email and tracking the success of our “Send to a Friend” feature. In some instances, third-party sponsorships and promotions on our site offer similar functionality, and in those cases, the information is not shared with the third party. Your friend may contact us at [membersupport@theknot.com](mailto:membersupport@theknot.com) to request that we remove this information from our database.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number or contact one of the following regulatory organizations:
+### What We Do With the Information We Collect
 
-  1. The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org).  
+Information we collect from your membership helps us to improve our content, customize certain pages for you, and update you about The Knot. From time to time, The Knot does share names, postal addresses, and demographic information with other pre-screened organizations that have specific direct mail product and service offers we think may be of interest to you. You may choose at any time to remove your name and address from these mailing lists by editing your privacy preferences (see paragraph below) or by letting us know via email to [membersupport@theknot.com](mailto:membersupport@theknot.com) (please include your name, address, and email).
 
-  2. State or local chapters of the Better Business Bureau.  
+We are a member of the Facebook Beacon Program. If you are a member of Facebook, and are logged in to Facebook during the same time as you are logged into TheKnot.com, we may share information regarding your activities on our site with Facebook pursuant to your authorization. If you agree to give Facebook access to this information, Facebook may publish it on your Facebook profile, send it to your “friends” in a News Feed, and use it to improve its site or services or for other purposes. We do not control Facebook’s privacy policy, and its privacy policy will govern its use of your information once it has been shared by us. We assume no liability for Facebook’s actions with respect to its use of your information or otherwise. Accordingly, we suggest that you if you plan to authorize the transfer of your personal information retrieved on TheKnot.com to Facebook, you first review Facebook’s privacy policy, available at <http://www.facebook.com/home.php#/policy.php>.
 
-  3. State or local consumer protection office.  
+We use third-party advertising companies to serve our ads on our Web site. These third-party advertising companies employ cookie and 1x1 pixel .gifs or web beacons to measure and improve the effectiveness of ads for their clients. To do so, these companies may use anonymous information about your visits to our website and other websites. This information can include: date/time of banner ad shown, the banner ad that was shown, their cookie, the IP address. This information can also be used for online preference marketing purposes.  
+If you want to prevent a third-party advertiser from collecting data, currently you may either visit each ad network's web site individually and opt-out or visit the NAI gateway opt-out site to opt-out of all network advertising cookies. [Click here](http://www.networkadvertising.org/optout_nonppii.asp) for the NAI gateway opt-out site. This site will also allow you to review the third-party advertising companies' privacy policies.
 
-  4. The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
+### Changing Your Personal Information and/or Newsletter Subscription
 
+You can access or update your personal information, including subscriptions to our email newsletters, at any time. To unsubscribe, you can follow the instructions on the bottom of each newsletter, edit your privacy preferences in your member profile at [http://www.theknot.com/profile](http://www.theknot.com/join/pl_profile1.aspx). If you would like to deactivate you membership with The Knot, you should contact The Knot Member Services by emailing [membersupport@theknot.com](mailto:membersupport@theknot.com) and writing "Deactivate Membership" in the subject line. You may also write to The Knot Member Services at 462 Broadway, Floor 6, New York, NY 10013 or call (212) 219-8555.
 
+### Other Sites
+
+The Knot contains links to other websites. We cannot be responsible for their content or for private information that you may choose to share with them. Please note: Information you release directly to parties who provide services to The Knot, such as any vendors in The Knot Shop or other sites you encounter on the Internet (even sites that are co-branded with The Knot) may be subject to different rules of use or disclosure. We encourage you to investigate and ask questions before disclosing personal information to third parties.
+
+### Our Security Procedures
+
+Your privacy is very important to us, but due to the existing legal regulatory and security environment, we cannot fully ensure that your private communications and other personally identifiable information will not be disclosed to third parties. Under certain circumstances, the government or third parties may unlawfully intercept or access transmissions or private communications. Additionally, in the unlikely event we need to investigate or resolve possible problems or inquiries, we can disclose any information about you to private entities, law enforcement, or other government officials as we, in our sole discretion, believe necessary or appropriate.  
+Finally, we use industry standard efforts to safeguard the confidentiality of your personal identifiable information, such as firewalls and Secure Socket Layers (SSL) where appropriate. We also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, a Member Services representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage requiring keys, photo ID key cards and biometric scans to access.
+
+We hope this policy clarifies our procedures regarding your personal information. If you have any questions about the security at our website, you can send an email [security@theknot.com](mailto:security@theknot.com).
+
+### Legal Disclaimer
+
+Though we make every effort to preserve your privacy we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
+
+### Notice of Changes
+
+If at some point in the future, there is a change to our information usage practices that affect your personally identifiable information, we will notify you by email of the relevant changes. At the time of this message, you will be able to opt-out of this information usage by sending a message to [membersupport@theknot.com](mailto:membersupport@theknot.com). We will also post the changes in our privacy statement 30 days prior to a change. You should also check this posted privacy statement for changes.
+
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+
+The Knot encourages you to learn as much as you can about your privacy on the Internet. To find out more, visit [TRUSTe](http://www.truste.org/). 
+
+See More: [Help Center](http://wedding.theknot.com/Related.aspx?type=tag&value=Help+Center)
