@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taser.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619035440id_/http%3A//taser.com/legal/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taser.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212115116id_/http%3A//www.taser.com/legal/pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
