@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motionbox.com privacy policy that was archived on 2009-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090316093149id_/http%3A//www.motionbox.com/content/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motionbox.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212050848id_/http%3A//www.motionbox.com/content/help/privacy) for the most accurate reproduction.*
 
 # Motionbox Privacy Policy - Motionbox Help
 
@@ -6,7 +6,7 @@
 
 ### What This Privacy Policy Covers
 
-This Privacy Policy pertains to the use of the Motionbox, Inc. (”Motionbox”) website at http://www.motionbox.com/ which also includes portions of the website that are co-branded or co-labeled with a third party name or brand (the “Motionbox Website” or the “Website”).
+This Privacy Policy pertains to the use of the Motionbox, Inc. ("Motionbox") website at http://www.motionbox.com/ which also includes portions of the website that are co-branded or co-labeled with a third party name or brand (the "Motionbox Website" or the "Website").
 
 This Privacy Policy covers how Motionbox treats personal information that Motionbox collects and receives. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number.
 
@@ -16,17 +16,17 @@ PLEASE NOTE THAT BY USING THE MOTIONBOX WEBSITE OR SERVICE, OR BY VISITING THE W
 
 ### Privacy Settings
 
-Motionbox allows users to upload and display User Content on the Motionbox Website and/or on other websites using the Motionbox “Embeddable Player.” You have a choice of assigning one of three privacy settings to each User Content you post. These include:
+Motionbox allows users to upload and display User Content on the Motionbox Website and/or on other websites using the Motionbox "Embeddable Player." You have a choice of assigning one of three privacy settings to each User Content you post. These include:
 
-  * **Private**. User Content that you publish as “Private” (”Private User Content”) will be accessible to you and Motionbox personnel in connection with the operation and administration of the Website. You may also share your own Privacy User Content with individuals of your choice.
-  * **Protected**. User Content that you publish as “Protected” (”Private User Content”) will be accessible to you and to users you designate as “Contacts” on Motionbox, and to Motionbox personnel in connection with the operation and administration of the Website. 
-  * **Open Access**. User Content that you publish as “Open Access” (”Public User Content”) will be accessible to users of the Motionbox Website, whether or not they are registered Motionbox users and to all partners, affiliates, agents, designees, licensors, licensees or sublicensees (collectively, “Partners”). Furthermore, any Motionbox user can publish your Public User Content on a website other than the Motionbox Website, using the Embeddable Player. In addition, Public User Content may also be available for other Motionbox users to modify, copy, download, or combine with other User Content.
+  * **Private**. User Content that you publish as "Private" ("Private User Content") will be accessible to you and Motionbox personnel in connection with the operation and administration of the Website. You may also share your own Privacy User Content with individuals of your choice.
+  * **Protected**. User Content that you publish as "Protected" ("Private User Content") will be accessible to you and to users you designate as "Contacts" on Motionbox, and to Motionbox personnel in connection with the operation and administration of the Website. 
+  * **Open Access**. User Content that you publish as "Open Access" ("Public User Content") will be accessible to users of the Motionbox Website, whether or not they are registered Motionbox users and to all partners, affiliates, agents, designees, licensors, licensees or sublicensees (collectively, "Partners"). Furthermore, any Motionbox user can publish your Public User Content on a website other than the Motionbox Website, using the Embeddable Player. In addition, Public User Content may also be available for other Motionbox users to modify, copy, download, or combine with other User Content.
 
 
 
 You understand and agree that while Motionbox enables you to control who may access your User Content, if you opt to publish your content or otherwise distribute it to other third parties you are making your submissions available to individuals in ways Motionbox cannot and does not control. If you do choose to share your information with third parties Motionbox is not responsible for use of your data by any such third party.
 
-Consistent with its Terms and Conditions, Motionbox and its partners shall have no liability whatsoever in connection with or arising out of your decision to publish User Content as “Shared” or “Open Access” including without limitation decisions you may make to change how this User Content is published. You may later decide to change the access settings to the User Content you publish, but you should be aware that there may still be copies of the content available publicly which Motionbox cannot and does not control.
+Consistent with its Terms and Conditions, Motionbox and its partners shall have no liability whatsoever in connection with or arising out of your decision to publish User Content as "Shared" or "Open Access" including without limitation decisions you may make to change how this User Content is published. You may later decide to change the access settings to the User Content you publish, but you should be aware that there may still be copies of the content available publicly which Motionbox cannot and does not control.
 
 Motionbox is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site http://www.motionbox.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
@@ -63,19 +63,19 @@ IP addresses may be used for various purposes, including:
 
 ### Cookies
 
-We may place a text file called a “cookie” in the browser files of your computer, or use similar technologies to enhance or personalize the Website and our relationship with you. The cookie itself does not contain personal information although it will enable us to relate your use of this Website to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can’t read data off your hard disk or read cookie files created by other sites.
+We may place a text file called a "cookie" in the browser files of your computer, or use similar technologies to enhance or personalize the Website and our relationship with you. The cookie itself does not contain personal information although it will enable us to relate your use of this Website to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites.
 
 You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set.
 
-If you reject all cookies, you will not be able to use Motionbox products or services that require you to “sign in,” and you may not be able to take full advantage of the Motionbox Service or Website.
+If you reject all cookies, you will not be able to use Motionbox products or services that require you to "sign in," and you may not be able to take full advantage of the Motionbox Service or Website.
 
 Motionbox uses its own cookies and may use similar technologies for a number of purposes, including to:
 
-  * Access your information when you “sign in”;
-  * Keep track of preferences you specify while you are using Motionbox’s Service;
+  * Access your information when you "sign in";
+  * Keep track of preferences you specify while you are using Motionbox's Service;
   * Display the most appropriate advertising banners, based on your interests and activity on the Motionbox Website;
   * Estimate and report our total audience size and traffic;
-  * Conduct research to improve Motionbox’s content and services; and
+  * Conduct research to improve Motionbox's content and services; and
   * Otherwise authenticate users and enhance, personalize, or customize your use of the Website.
 
 
@@ -99,10 +99,10 @@ If you post personal information online that is accessible to the public, you ma
 Motionbox may share personal information about you with other people or nonaffiliated companies in the following circumstances:
 
   * If you submit personally identifiable information to us through the Website to create your own account profile, we may share your personally identifiable information with employees, contractors, agents doing work for Motionbox or other third parties to provide you with the features and functionality of the Motionbox Website and Service and to personalize and enhance our business relationship with you.
-  * Motionbox may share non-personally identifiable aggregated demographic information with third parties (including Partners), such as “53% of users who regularly user Motionbox chat are between the ages of 18 and 24″ or the like.
+  * Motionbox may share non-personally identifiable aggregated demographic information with third parties (including Partners), such as "53% of users who regularly user Motionbox chat are between the ages of 18 and 24" or the like.
   * Motionbox may also share your personal information and/or aggregate information with our, technical consultants, third party auditors and other third parties who work with us to create or maintain the Website, enhance its functionality or provide associated services.
-  * There may be portions of the Website, from time to time, that are co-branded or co-labeled with the brand or name belonging to one of Motionbox’s Partners. Although Motionbox will own any non-personally identifiable and personally identifiable information collected about you from one of these co-branded areas, such information may be shared by Motionbox with that Partner.
-  * Motionbox may share personal information about Website users with third parties if doing so is appropriate to carry out a user’s request, render its services or, if it reasonably believes that doing so is legally required or is in Motionbox’s interest to protect its property or other legal rights or the rights or property of others.
+  * There may be portions of the Website, from time to time, that are co-branded or co-labeled with the brand or name belonging to one of Motionbox's Partners. Although Motionbox will own any non-personally identifiable and personally identifiable information collected about you from one of these co-branded areas, such information may be shared by Motionbox with that Partner.
+  * Motionbox may share personal information about Website users with third parties if doing so is appropriate to carry out a user's request, render its services or, if it reasonably believes that doing so is legally required or is in Motionbox's interest to protect its property or other legal rights or the rights or property of others.
   * If Motionbox should ever file for bankruptcy or have its assets sold to or merge with another entity, information Motionbox receives from you from this Website is a Motionbox asset and may be transferred.
 
 
@@ -111,7 +111,7 @@ Motionbox may share personal information about you with other people or nonaffil
 
 Motionbox may work with and allow other companies (like Google), third-party ad servers or ad networks to serve advertisements within the Motionbox Website. These third-party ad servers or ad networks use technology to send the advertisements and links that appear on the Website directly to your web browser. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and deliver the most relevant ads to you. Motionbox does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out and even then will take steps to ensure respect for the confidentiality of this information. However, please note that if an advertiser asks Motionbox to show an advertisement to a certain audience (for example, women ages 18-34) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. You should consult the respective privacy policies of these third-party ad servers or ad networks.
 
-Please visit <http://www.networkadvertising.org/optout_nonppii.asp> to learn about the information collection practices and “opt-out” procedures of third party ad networks we may use. Other entities’ use of their cookies is subject to their own privacy policies. Motionbox’s Privacy Policy does not apply to such other advertisers or web sites.
+Please visit <http://www.networkadvertising.org/optout_nonppii.asp> to learn about the information collection practices and "opt-out" procedures of third party ad networks we may use. Other entities' use of their cookies is subject to their own privacy policies. Motionbox's Privacy Policy does not apply to such other advertisers or web sites.
 
 ### An Important Note on Children and Privacy
 
@@ -121,7 +121,7 @@ Motionbox does not knowingly collect or maintain personally identifiable informa
 
 You can change your Motionbox account information at any time by accessing your account and making changes within your settings. Alternatively, you may contact our Support staff to correct or update your account information by sending an email to support@motionbox.com.
 
-You can delete your Motionbox account at any time from your settings page; however, please note that your identification, billing and contact information may remain in Motionbox’s records for some period.
+You can delete your Motionbox account at any time from your settings page; however, please note that your identification, billing and contact information may remain in Motionbox's records for some period.
 
 We may send you certain communications relating to the Motionbox Service, such as service announcements and administrative messages that are considered part of your Motionbox account.
 
