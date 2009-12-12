@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ohmycrafts.com privacy policy that was archived on 2009-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090630024532id_/http%3A//www.ohmycrafts.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohmycrafts.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212062532id_/http%3A//www.ohmycrafts.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Oh My Crafts, Inc. - Privacy Policy
 
@@ -16,8 +16,6 @@ If you have any questions or concerns regarding submitting your information onli
 
 
 Oh My Crafts, Inc.  
-351 River Rd.  
-Alpine, UT 84004  
 privacy@ohmycrafts.com
 
 Oh My Crafts Privacy Principles
@@ -43,7 +41,8 @@ Email Address:
 
 Daily Specials  
 Weekly Newsletter  
-OMC Cruise 2009
+Cruise & Create 2010  
+What Women Want
 
 |   
 | |   
