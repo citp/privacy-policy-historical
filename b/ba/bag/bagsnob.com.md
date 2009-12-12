@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bagsnob.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416232805id_/http%3A//www.bagsnob.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bagsnob.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212091337id_/http%3A//www.bagsnob.com/privacy-policy.html) for the most accurate reproduction.*
 
-# The Bag Snob: Reviews of Designer Handbags, Authentic Designer Purses, and Leather Bags
-
-**Privacy Policy**
+# Privacy Policy - The Bag Snob: Reviews of Designer Handbags, Authentic Designer Purses, and Leather Bags
 
 Please read this statement carefully before proceeding to access the Bag Snob web site. Your use of the Bag Snob web site indicates your agreement to abide by the Terms in effect.
 
