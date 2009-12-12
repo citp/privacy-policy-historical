@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metropcs.com privacy policy that was archived on 2009-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090305134626id_/http%3A//www.metropcs.com/privacy/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metropcs.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212031137id_/http%3A//www.metropcs.com/privacy/privacy.aspx) for the most accurate reproduction.*
 
 # MetroPCS | Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Revised Effective: June 27, 2008
 
-MetroPCS Communications, Inc. and its subsidiaries (collectively, "MetroPCS", "we", "our", or "us") understand that your privacy is important, and we have adopted this privacy policy (this "Policy") to describe what information may be collected about you by us when you access or use our website or our service, as well as any electronic information collected by MetroPCS as a result of your use of our network (the "Service"). This Policy also describes how that information may be used or disclosed by us. This Policy does not apply to information about you that may be collected by us other than through the access or use of our website or our service.
+MetroPCS Communications, Inc. and its subsidiaries (collectively, "MetroPCS," "we," "our," or "us") understand that your privacy is important, and we have adopted this privacy policy (this "Policy") to describe what information may be collected about you by us when you access or use our website or our service, as well as any electronic information collected by MetroPCS as a result of your use of our network (the "Service"). This Policy also describes how that information may be used or disclosed by us. This Policy does not apply to information about you that may be collected by us other than through the access or use of our website or our service.
 
 ###  Personal Information
 
@@ -41,7 +41,7 @@ We may collect, use, and disclose your Personal Information for the following re
 
 
 
-MetroPCS is constantly striving to enhance the quality and selection of the products and services that we offer to you as our customer. As a result, we may also share information, including Personal Information, about you with others such as retailers and direct marketers that we select in an effort to make you aware of additional products and services that may be of interest to you. Unless you change your communications preferences or opt out as set forth below in the paragraph entitled "Access to Personal Information", we or our Affiliates may contact you for marketing purposes via phone, email, text message, picture message, auto dialer, fax or direct mailing or otherwise via our website. 
+MetroPCS is constantly striving to enhance the quality and selection of the products and services that we offer to you as our customer. As a result, we may also share information, including Personal Information, about you with others such as retailers and direct marketers that we select in an effort to make you aware of additional products and services that may be of interest to you. Unless you change your communications preferences or opt out as set forth below in the paragraph entitled "Access to Personal Information," we or our Affiliates may contact you for marketing purposes via phone, email, text message, picture message, auto dialer, fax or direct mailing or otherwise via our website. 
 
 From time to time you may be able to participate in contests, giveaways or other promotions. All Personal Information you provide will be used in accordance with this Policy except as otherwise set forth in such promotions. In addition, from time to time we may request users to participate in customer satisfaction surveys. These surveys are voluntary. Any Personal Information you provide in connection with these surveys will be used for our internal business purposes for improving the use and satisfaction of our products and services, our website and our network. 
 
@@ -65,9 +65,9 @@ We use other third parties to provide various services on our site and in connec
 
 It is MetroPCS’ general policy to include contractual terms which prohibit these third parties from using your Personal Information for any other purpose including their own marketing purposes. 
 
-Please note that when you utilize EMAIL SIGN-UP on our web site you will be taken to a page hosted by our email service provider. Note that this page is framed to appear as if you are on www.metropcs.com when you are actually on our service provider’s site. Our email service provider is collecting your email to provide you on our behalf with special offers and information from MetroPCS. The Personal Information collected for this email sign-up is governed by this Policy. 
+Please note that when you utilize EMAIL SIGN-UP on our website you will be taken to a page hosted by our email service provider. Note that this page is framed to appear as if you are on www.metropcs.com when you are actually on our service provider’s site. Our email service provider is collecting your email to provide you on our behalf with special offers and information from MetroPCS. The Personal Information collected for this email sign-up is governed by this Policy. 
 
-However, should visit or interact with other websites even via links from our website, you may be providing Personal Information to those companies. Any information about you received by those third parties will be governed by their privacy policies, not this Policy. MetroPCS is not responsible for any links posted to our website or any information you provide as a result of clicking on such links. We encourage you to read the privacy statements of each and every website that collects personally identifiable information.
+However, should you visit or interact with other websites even via links from our website, you may be providing Personal Information to those companies. Any information about you received by those third parties will be governed by their privacy policies, not this Policy. MetroPCS is not responsible for any links posted to our website or any information you provide as a result of clicking on such links. We encourage you to read the privacy statements of each and every website that collects personally identifiable information.
 
 ###  Access to Personal Information
 
@@ -85,11 +85,11 @@ However, if you dial 911 for emergency services, we are required by Federal Comm
 
 ###  Website 
 
-MetroPCS is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This Policy covers the Web site www.metropcs.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+MetroPCS is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This Policy covers the website www.metropcs.com. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
 If you have questions or concerns regarding this Policy, you should first contact MetroPCS Web Operations at metropcsweb@metropcs.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php TRUSTe will then serve as a liaison with us to resolve your concerns.
 
-The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site or through the use of the Service. 
+The TRUSTe program covers only information that is collected through this website, and does not cover information that may be collected through software downloaded from the site or through the use of the Service. 
 
 When you visit our website to learn more about MetroPCS products and services, access your account, pay your bill, or submit other information to us, we automatically receive and record information on our server logs from your browser, including your IP address and the page you request. We use this information for the following general purposes: to customize the advertising and content you see, to fulfill your requests for products and services, to improve our services, to contact you, to conduct research, and to provide anonymous reporting for internal and external clients. 
 
@@ -99,7 +99,7 @@ MetroPCS uses cookies for a number of purposes, including to:
 
 
   * access your information when you "sign in," so that we can provide you with customized content; 
-  * keep track of preferences you specify while you are accessing our web site; 
+  * keep track of preferences you specify while you are accessing our website; 
   * estimate and report our total audience size and traffic; 
   * conduct research to improve MetroPCS’s products and services; and/or 
   * require you to re-enter your password after a certain period of time has elapsed to protect you against others accidentally accessing your account contents.
@@ -110,7 +110,7 @@ You can configure your browser to accept all cookies, reject all cookies, or not
 
 Advertisers that serve ads on our site may also use their own cookies. Such outside cookies are governed by the privacy policies of the entities placing the ads, and are not subject to this Policy. MetroPCS may also place advertisements about our products and services on other websites. These companies may use cookies and other technology such as web beacons or tagging to measure the effectiveness of our ads. The use of such cookies is also subject to the privacy practices of the ad serving companies, not this Policy. We have no access or control of the cookies or web beacons set by third parties. 
 
-In addition to cookies, we use Web beacons (also known as "Web bugs", "clear gifs" or "one-pixel gifs"). A web beacon is a tiny image (only 1-by-1 pixel) on a Web page or in an e-mail message that allows a site owner to collect the IP address of the computer to which the Web beacon is sent, the URL of the page from which the Web beacon comes, and the time it was viewed. Web beacons can also be linked to your personal information. Web beacons are often invisible to the user. However, because Web beacons are represented as HTML IMG tags in the Web page; users can click on "view profiles" of the Web page to see whether the page is using a Web beacon. MetroPCS, or a third party acting on our behalf, may use Web beacons in certain Web pages and e-mails to monitor how visitors are interacting with the Web site and to determine the effectiveness of marketing campaigns and e-mail correspondence. MetroPCS generally does not permit unaffiliated third parties to place Web beacons on our Website.
+In addition to cookies, we use Web beacons (also known as "Web bugs," "clear gifs" or "one-pixel gifs"). A web beacon is a tiny image (only 1-by-1 pixel) on a Web page or in an e-mail message that allows a site owner to collect the IP address of the computer to which the Web beacon is sent, the URL of the page from which the Web beacon comes, and the time it was viewed. Web beacons can also be linked to your personal information. Web beacons are often invisible to the user. However, because Web beacons are represented as HTML IMG tags in the Web page; users can click on "view profiles" of the Web page to see whether the page is using a Web beacon. MetroPCS, or a third party acting on our behalf, may use Web beacons in certain Web pages and e-mails to monitor how visitors are interacting with the website and to determine the effectiveness of marketing campaigns and e-mail correspondence. MetroPCS generally does not permit unaffiliated third parties to place Web beacons on our website.
 
 Finally, should you take advantage of service and products offered by other companies, or visit or interact with other websites utilizing our wireless service, you may be providing Personal Information to those companies. Any information about you received by those third parties will be governed by their privacy policies, not this Policy. MetroPCS is not responsible for any links posted to our website or any information you provide as a result of clicking on such links. We encourage you to read the privacy statements of each and every website that collects personally identifiable information. 
 
@@ -122,7 +122,7 @@ IF A PARENT OR GUARDIAN BECOMES AWARE OF ACCESS TO THE SERVICE BY A MINOR, PLEAS
 
 ###  Security
 
-We use commercially reasonable efforts to protect the Personal Information submitted to us, both during transmission and once we receive it. For example, when you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms on our website, we encrypt that information using secure socket layer technology (SSL). However, at this time, we do not utilize encryption technology for all Personal Information transmitted via the Service. Moreover, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially reasonable safeguards to protect your Personal Information, we cannot guarantee its security. If you have any questions about security on our Web site, you can send email us at Web_privacy@metropcs.com.
+We use commercially reasonable efforts to protect the Personal Information submitted to us, both during transmission and once we receive it. For example, when you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms on our website, we encrypt that information using secure socket layer technology (SSL). However, at this time, we do not utilize encryption technology for all Personal Information transmitted via the Service. Moreover, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially reasonable safeguards to protect your Personal Information, we cannot guarantee its security. If you have any questions about security on our website, you can send email us at Web_privacy@metropcs.com.
 
 MetroPCS makes no representation or warranties about the security of its wireless Web access services or that your use will be error-free, uninterrupted, or free of infection by viruses or other malicious codes or acts of third parties beyond our control. In addition, MetroPCS has no control over the security of other sites on the Internet you might visit or from which you might purchase products or services. 
 
@@ -138,7 +138,7 @@ In addition, please note that it is unlawful for any third party to make an unso
 
 ###  Consumer Protection Notice
 
-If anyone calls you soliciting a "too good to be true offer," simply hangup and contact the MetroPCS Customer Service (888-863-8768) to validate the promotion. Do not give out your credit card information, PIN, password, bank information, or other Personal Information over the phone or via email unless you are the one who initiated contact with MetroPCS and are confident such disclosure is being made to an authorized representative of MetroPCS. Be sure to type anytime you wish to access our site. Do not rely on links contained in an unsolicited email or provide Personal Information as a result of clicking on any links contained in an unsolicited email. 
+If anyone calls you soliciting a "too good to be true offer," simply hang up and contact the MetroPCS Customer Service (888-863-8768) to validate the promotion. Do not give out your credit card information, PIN, password, bank information, or other Personal Information over the phone or via email unless you are the one who initiated contact with MetroPCS and are confident such disclosure is being made to an authorized representative of MetroPCS. Be sure to type anytime you wish to access our site. Do not rely on links contained in an unsolicited email or provide Personal Information as a result of clicking on any links contained in an unsolicited email. 
 
 ###  Record Retention
 
@@ -150,7 +150,7 @@ If we decide to change this Policy, we will post those changes to this Policy, t
 
 We reserve the right to change, modify, add or remove portions of this Policy at any time, so please review it frequently. If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page.
 
-All Policy changes will take effect ten (10) days after their posting on the Website. Your continued use of the website and/or Service following that period after the posting of changes to this Policy will mean that you accept such changes.
+All Policy changes will take effect ten (10) days after their posting on the website. Your continued use of the website and/or Service following that period after the posting of changes to this Policy will mean that you accept such changes.
 
 ###  Contact Us
 
