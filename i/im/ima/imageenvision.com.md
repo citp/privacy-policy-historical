@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imageenvision.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623010549id_/http%3A//www.imageenvision.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imageenvision.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212192059id_/http%3A//www.imageenvision.com/info/privacy-policy) for the most accurate reproduction.*
 
 # ImageEnvision.com Privacy Policy
 
