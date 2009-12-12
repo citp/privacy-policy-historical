@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the autotrader.co.uk privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629185833id_/http%3A//www.autotrader.co.uk/common/mytrader/auto_trader_privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autotrader.co.uk privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212063822id_/http%3A//www.autotrader.co.uk/common/mytrader/auto_trader_privacy_policy.jsp) for the most accurate reproduction.*
 
 # Auto Trader Privacy Policy - Auto Trader UK
-
-  
-
 
 All personal information collected and used from the Auto Trader site will be processed in accordance with the 1998 Data Protection Act. 
 
@@ -22,7 +19,9 @@ In order to conduct a vehicle search on the Auto Trader web site, we will requir
  **General**   
 Auto Trader is part of Trader Media Group and information supplied in this site may be shared with other group companies. When you register with our site, we ask you whether you would like to receive our email newsletters detailing changes to the site, offers and services from third party companies via email and/or via post that we feel may be of interest to you. You have the ability to opt-out of receiving all or any of these offers during registration. 
 
-We have taken measures to ensure that information supplied to us is held securely. As a consequence - we may occasionally request proof of identity before allowing access to your personal information. 
+On occasions Trader Media Group run promotions in which personal information is collected. We will always ask you if agree to this and advise you if this information may be shared with a third party. You will always be asked to provide your consent to this use by opting in.
+
+We have taken measures to ensure that information supplied to us is held securely. As a consequence - we may occasionally request proof of identity before allowing access to your personal information.
 
 You have the right to access all personal information supplied to Auto Trader and rectify any inaccuracies on the information held (a charge of £10 may be administered). Further enquiries should be made to [enquiries@autotrader.co.uk](mailto:enquiries@autotrader.co.uk) or sent to Customer Care, Auto Trader Digital, Willow House, Woodland Business Park, Newton Le Willows WA12 0HE. 
 
@@ -41,7 +40,7 @@ All details supplied to Auto Trader with your on-line advertisement will be safe
 Postcodes and vehicle information are collected in order to provide a relevant match of vehicles against a specified search. The inclusion of the postcode enables us to provide the potential buyer with a range of vehicles within a chosen locality, rather than vehicles randomly spread throughout the country. 
 
 **Registration**   
-Email addresses are collected in order to send registrants their chosen password, providing them with online access to their registration details (available within the [My Trader](https://web.archive.org/common/mytrader/mytrader.jsp) section on the website). The user can access this information at any time in order to update their details or change the option on whether they would like to receive communication from Auto Trader or selected third parties. Other registration information is collected in order: 
+Email addresses are collected in order to send registrants their chosen password, providing them with online access to their registration details (available within the [My Trader](http://www.autotrader.co.uk/common/mytrader/mytrader.jsp) section on the website). The user can access this information at any time in order to update their details or change the option on whether they would like to receive communication from Auto Trader or selected third parties. Other registration information is collected in order: 
 
   1. To generate an overall audience profile of visitors using the Auto Trader web site. This information is then used to assist in developing relevant content on the site as well as ensuring that automotive trade advertisers looking to reach specific audience groups are encouraged to place their stock or promotions on the site. 
   2. To provide our web site visitors with the option to receive the Auto Trader monthly email bulletin, as well as the option to receive email and postal offers from selected third party companies that Auto Trader believes may be of interest to them. If a visitor has supplied insurance renewal date information and/or vehicle ownership details, it provides Auto Trader with the potential to better target that visitor with relevant and timely consumer offers by email or post, providing that visitor has opted to receive notification on such offers. 
