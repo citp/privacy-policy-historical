@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ratemyprofessors.com privacy policy that was archived on 2009-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090531015324id_/http%3A//www.ratemyprofessors.com/PrivacyPolicy_us.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ratemyprofessors.com privacy policy that was archived on 2009-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091212153011id_/http%3A//www.ratemyprofessors.com/PrivacyPolicy_us.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
@@ -187,10 +187,15 @@
 	var sectionParam="";
 	var tempseg1="";
 	var sname1="";
+	var sdept1="";
 	var state1="";
 	var country1="0";
 	var iii=0;
 	var jjj=0;
+        var catexcl="";
+        var catexclu="";
+        var catexcl0="";
+        var catexclu0="";
 		
 	if(location.pathname.indexOf(".") != -1){
 	   fnm = location.pathname.substring(1,location.pathname.lastIndexOf("."));
@@ -201,15 +206,130 @@
 	//alert("fnm:" + fnm);
 	//alert("location.pathname: " + lp);
 	
-	sname1= RepBeginningNumber(RepBadChars(sname1));
+	sname1= RepBadChars(sname1);
+	sdept1= RepBeginningNumber(RepBadChars(sdept1));
 	state1= RepBeginningNumber(RepBadChars(state1));
 	fnm= RepBeginningNumber(RepBadChars(fnm));
 	
-	if( (fnm=="" || fnm=="/" || fnm=="index") && lp.indexOf("member")== -1 ) // http://dev.ratemyprofessors.com:8052/
+	switch(sdept1) {
+		case 'Applied Computer Graphics':
+		case 'Architectural Engineering':
+		case 'Architectural History':
+		case 'Architecture':
+		case 'Art & Art History':
+		case 'Art & Design':
+		case 'Art & Humanities':
+		case 'Art & Music':
+		case 'Art & Visual Culture':
+		case 'Art Education':
+		case 'Art History':
+		case 'Art Studio':
+		case 'Art':
+		case 'Arts & Administration':
+		case 'Arts & Communication':
+		case 'Arts & Humanities':
+		case 'Arts & Letters':
+		case 'Arts & Sciences':
+		case 'Arts & Technology':
+		case 'Commercial Photography':
+		case 'Computer Graphics':
+		case 'Crafts':
+		case 'Creative Arts':
+		case 'Creative Writing & Journalism':
+		case 'Design & Merchandising':
+		case 'Design Merchandising Textiles':
+		case 'Design Technology':
+		case 'Design, Family & Consumer Sci.':
+		case 'Design':
+		case 'Digital Media Production':
+		case 'Dramatic Arts':
+		case 'Drawing':
+		case 'Electronic Media':
+		case 'Engineering Design Graphics':
+		case 'Engineering Graphics Tech.':
+		case 'English & Film Studies':
+		case 'Film & Television':
+		case 'Film Studies':
+		case 'Film':
+		case 'Fine Arts Cultural Studies':
+		case 'Fine Arts':
+		case 'Furniture Design':
+		case 'Game Design':
+		case 'General Arts & Science':
+		case 'Graphic Arts':
+		case 'Graphic Communication':
+		case 'Graphic Design':
+		case 'Graphics Technology':
+		case 'History In Art':
+		case 'History of Art':
+		case 'History Of Photography':
+		case 'Industrial Design':
+		case 'Information Media':
+		case 'Integrated Arts':
+		case 'Integrated Media & Technology':
+		case 'Interactive Game Development':
+		case 'Interactive Media Design':
+		case 'Interactive Multimedia Product':
+		case 'Interior Architecture':
+		case 'Interior Design':
+		case 'Interiors':
+		case 'Journalism & Communication':
+		case 'Journalism & Mass Comm.':
+		case 'Journalism':
+		case 'Landscape Architecture':
+		case 'Liberal Arts & Sciences':
+		case 'Liberal Arts':
+		case 'Mass Comm. & Journalism':
+		case 'Mass Media':
+		case 'Media & Design':
+		case 'Media & Performing Arts':
+		case 'Media Art Technology':
+		case 'Media Arts & Animation':
+		case 'Media Arts & Technologies':
+		case 'Media Arts':
+		case 'Media Communications':
+		case 'Media Studies':
+		case 'Media, Journalism & Film':
+		case 'Multimedia':
+		case 'Naval Architecture':
+		case 'New Media Art':
+		case 'Performing Arts':
+		case 'Performing/Communication Arts':
+		case 'Photo Illustration':
+		case 'Photography':
+		case 'Photojournalism':
+		case 'Popular Culture & Film':
+		case 'Radio, TV, & Film':
+		case 'Sequential Art':
+		case 'Storyboard Art':
+		case 'Studio Art':
+		case 'Theater & Film':
+		case 'Theater Film & Dance':
+		case 'Theatre Arts & Dance':
+		case 'Theatre Arts':
+		case 'Theatre Film Video Production':
+		case 'Theatre, Film Studies & Dance':
+		case 'Traditional Eastern Arts':
+		case 'Visual & Performing Arts':
+		case 'Visual Arts':
+		case 'Visual Communication Design':
+		case 'Web Design & Interactive Media':
+		case 'Web Design':
+		case 'Web Development':
+			sdept1='Design';
+			break;
+		default:
+			// take a break
+	}
+	
+	if( (fnm=="" || fnm=="/" || fnm=="index") && lp.indexOf("member")== -1 )
 	{
 		sectionParam="_hp/_"+ country1;
 		sectionParamAndValue = "sec0=_hp;sec1=_" + country1;
 		fnm="";
+
+		catexcl="!category=_hp;!category=expand;!category=pop;";
+		catexclu="!category-_hp|!category-expand|!category-pop|";
 	}
 	else if((lp.indexOf("SelectSchool")> -1) && lp.indexOf("member")== -1 )
 	{
@@ -219,22 +339,36 @@
 			else{ sectionParamAndValue = "sec0=" + fnm + ";sec1=" + state1 + ";sec2=_" + country1;
 			    }
 			fnm += "/" + state1 + "/_" + country1; 
+
+			catexcl="!category=school;!category=expand;!category=pop;";
+			catexclu="!category-school|!category-expand|!category-pop|";
+        		catexcl0="!category=school;";
+        		catexclu0="!category-school|";
 	}
 	else if( ( (lp.indexOf("SelectTeacher")> -1) || (lp.indexOf("ShowRatings")> -1) || (lp.indexOf("AddRating")> -1) || (lp.indexOf("ShowRatingReview")> -1)) && ( lp.indexOf("member")== -1))
 	{
-		   if(state1=='null' || country1=='null' || sname1=='null' )
-		     {  sectionParamAndValue = "sec0=null;sec1=null;sec2=null;sec3=null";
+		   if(state1=='null' || country1=='null' || sname1=='null' || sdept1=='null')
+		     {  sectionParamAndValue = "sec0=null;sec1=null;sec2=null;sec3=null;sec4=null";
 		      }
-		     else{ sectionParamAndValue = "sec0=" + fnm + ";sec1=" + state1 + ";sec2=" + sname1 + ";sec3=_" + country1;
+		     else{ sectionParamAndValue = "sec0=" + fnm + ";sec1=" + state1 + ";sec2=" + sname1 + ";sec3=_" + country1 + ";sec4=_" + sdept1;
 		         }
-			fnm+="/" + state1 + "/" + sname1 + "/_" + country1;
-	
+			fnm+="/" + state1 + "/" + sname1 + "/_" + country1 + "/_" + sdept1;
+
+		    catexcl="!category=professor;!category=expand;!category=pop;";
+	   	    catexclu="!category-professor|!category-expand|!category-pop|";
+        	    catexcl0="!category=professor;";
+        	    catexclu0="!category-professor|";
 	}
 	else if(lp.indexOf("jive/vodka/")> -1 && lp.indexOf("member")== -1)
 	{
 		fnm = location.pathname.substring((location.pathname.lastIndexOf("/")+1),(fnm.length+1));
 		sectionParamAndValue = "sec0=" + fnm + ";sec1=_mn;sec2=_"+ country1;
 		fnm +="/_mn/_" + country1;
+
+		catexcl="!category=forum;";
+		catexclu="!category-forum|";
+        	catexcl0="!category=forum;";
+        	catexclu0="!category-forum|";
 	}
 	else
        {
@@ -259,8 +393,13 @@
 		  sectionParam +="/_mn/_" + country1;
   }
 	
- 	document.write ( "<script language='JavaScript' src='http:\/\/ad.doubleclick.net\/adj\/rmp.mtvi\/atf_j_s\/" + fnm + sectionParam + ";" + sectionParamAndValue + ";pos=atf;tag=adj;mtype=standard;sz=728x90;tile=1;dcopt=ist;u=" + (sectionParamAndValue.replace(/;/g,'|')).replace(/=/g,'-') + "|pos-atf|tag-adj|mtype-standard|sz-728x90|tile-1|dcopt-ist;ord=20090530095324" + ordJS + ";' type='text\/javascript'><\/script>");
-    //alert( "'http:\/\/ad.doubleclick.net\/adj\/rmp.mtvi\/atf_j_s\/" + fnm + sectionParam + ";" + sectionParamAndValue + ";pos=atf;tag=adj;mtype=standard;sz=728x90;tile=1;dcopt=ist;u=" + (sectionParamAndValue.replace(/;/g,'|')).replace(/=/g,'-') + "|pos-atf|tag-adj|mtype-standard|sz-728x90|tile-1|dcopt-ist;ord=20090530095324" + ordJS + ";'type=");
+ 	document.write ( "<script language='JavaScript' src='http:\/\/ad.doubleclick.net\/adj\/rmp.mtvi\/atf_j_s\/" + fnm + sectionParam + ";" + sectionParamAndValue + ";pos=atf;tag=adj;mtype=standard;" + catexcl + "sz=728x90;tile=1;dcopt=ist;u=" + (sectionParamAndValue.replace(/;/g,'|')).replace(/=/g,'-') + "|pos-atf|tag-adj|mtype-standard|" + catexclu + "sz-728x90|tile-1|dcopt-ist;ord=20091212103011" + ordJS + ";' type='text\/javascript'><\/script>");
+    //alert( "'http:\/\/ad.doubleclick.net\/adj\/rmp.mtvi\/atf_j_s\/" + fnm + sectionParam + ";" + sectionParamAndValue + ";pos=atf;tag=adj;mtype=standard;sz=728x90;tile=1;dcopt=ist;u=" + (sectionParamAndValue.replace(/;/g,'|')).replace(/=/g,'-') + "|pos-atf|tag-adj|mtype-standard|sz-728x90|tile-1|dcopt-ist;ord=20091212103011" + ordJS + ";'type=");
+
+	if (lp.indexOf("jive/vodka/")> -1 && lp.indexOf("member")== -1) {
+        	document.write ( "<script language='JavaScript' src='http:\/\/ad.doubleclick.net\/adj\/rmp.mtvi\/btf_j_s\/" + fnm + sectionParam + ";" + sectionParamAndValue + ";pos=btf;tag=adj;mtype=standard;sz=1x2;research=survey;" + catexcl0 + "tile=2;u=" + (sectionParamAndValue.replace(/;/g,'|')).replace(/=/g,'-') + "|pos-btf|tag-adj|mtype-standard|research-survey|" + catexclu0 + "sz-1x2|tile-2;ord=20091212103011" + ordJS + ";' type='text\/javascript'><\/script>");
+	}
+
 
 function RepBadChars(badstr) {
    var str="";
@@ -308,12 +447,14 @@ else
   }
 }
 
-</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/rmp.mtvi/atf_j_s/web/20090531015324id_/http_3A//www.ratemyprofessors.com/PrivacyPolicy_us/_mn/_0;sec0=web;sec1=__id_;sec2=http_3A;sec3=www;sec4=PrivacyPolicy_us;sec5=_mn;sec6=_0;pos=atf;tag=adj;mtype=standard;sz=728x90;tile=1;dcopt=ist;u=sec0-web|sec1-__id_|sec2-http_3A|sec3-www|sec4-PrivacyPolicy_us|sec5-_mn|sec6-_0|pos-atf|tag-adj|mtype-standard|sz-728x90|tile-1|dcopt-ist;ord=200905300953246673740446988594000;" type="text/javascript"></script>
+</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/rmp.mtvi/atf_j_s/web/20091212153011id_/http_3A//www.ratemyprofessors.com/PrivacyPolicy_us/_mn/_0;sec0=web;sec1=__id_;sec2=http_3A;sec3=www;sec4=PrivacyPolicy_us;sec5=_mn;sec6=_0;pos=atf;tag=adj;mtype=standard;sz=728x90;tile=1;dcopt=ist;u=sec0-web|sec1-__id_|sec2-http_3A|sec3-www|sec4-PrivacyPolicy_us|sec5-_mn|sec6-_0|pos-atf|tag-adj|mtype-standard|sz-728x90|tile-1|dcopt-ist;ord=200912121030111831329098342484500;" type="text/javascript"></script>
 <noscript>
 	<a href="http://ad.doubleclick.net/jump/rmp.mtvi/_hp;tile=1;sz=728x90;ord=123456789?" target="_blank">
 		<img src="http://ad.doubleclick.net/ad/rmp.mtvi/_hp;tile=1;sz=728x90;ord=123456789?" width="728" height="90" border="0" alt="" />
 	</a>
+
 </noscript>
+
 	      	
   </div>
 
@@ -393,7 +534,7 @@ var submitSwitch =
 						<a href="/TermsOfUse_us.jsp"><font color="#808080">Go to Terms Of Use</font></a>
 						
 		</div>
-						<div align="right"><b>Last modified March 16, 2007</b></div><br>
+						<div align="right"><b>Last modified September 10, 2009</b></div><br>
 
 						<center><b>PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS</b></center>
 							<br>
@@ -456,8 +597,7 @@ var submitSwitch =
 							</tbody></table><br>
 
 							<p align="JUSTIFY">
-							This Site is offered and made available only to users 18 years of age or older who reside in the United States of America, its territories and possessions ("<u>U.S.</u>").  <b>If you are not yet 18 years old, or do not reside in the U.S., please discontinue using the Site immediately, or if, for any reason, you do not agree with this Privacy Policy, please do not participate in the features, activities and services that require you to provide your Personal Information.</b>  
-							This Privacy Policy is a part of the terms and conditions which are set forth in our <b><u><font color="#808080">Terms of Use Agreement</font></u></b>("<u>Agreement</u>").Any terms that are not defined in this Privacy Policy shall have the meaning given in the Agreement.  Both the Privacy Policy and Agreement are legally binding on all users.<br><br>
+							This Site is offered and made available only to users 18 years of age or older who reside in the United States of America, its territories and possessions ("<u>U.S.</u>") and certain features on this Site (including, but not limited to, user registration and newsletter signups) may be subject to heightened age and/or other eligibility requirements.  <b>If you are not yet 18 years old or the required greater age for certain features, or do not reside in the U.S., and/or do not meet any other eligibility requirements, please discontinue using the Site immediately, or if, for any reason, you do not agree with this Privacy Policy, please do not participate in the features, activities and services that require you to provide your Personal Information.</b>   This Privacy Policy is a part of the terms and conditions which are set forth in our <b><u><font color="#808080">Terms of Use Agreement</font></u></b>. Any terms that are not defined in this Privacy Policy shall have the meaning given in the Terms of Use Agreement.  Both the Privacy Policy and Terms of Use Agreement are legally binding on all users.<br><br>
 
 							We reserve the right to revise this Privacy Policy at any time by updating this posting without advance notice to you.  Such revisions shall be effective to you immediately upon posting.  Notice of material changes to either document will be posted on the Site's homepage.  However, we encourage you to check this Privacy Policy and Terms of Use Agreement often for updates.  
 							We may also e-mail you, at our discretion, about these changes.<br><br>
@@ -771,7 +911,8 @@ urchinTracker();
 		dispatcher.sendCall();
 </script>
 
-<font color="white">w2 </font>  
+
+<font color="white">www8 </font>  
 
 <center>
 			<!-- BEGIN FOOTER -->
@@ -798,13 +939,13 @@ urchinTracker();
 					<li class="last"><a href="/RSSHelp.jsp">What is RSS?</a></li>
 				<ul class="options legal">
 					
-					<li><a href="/TermsOfUse_us.jsp">Terms of Use</a></li>
-					<li><a href="/PrivacyPolicy_us.jsp">Privacy Policy/Your CA Privacy Rights</a></li>
+					<li><a href="/TermsOfUse_us.jsp">Terms of Use (9/10/2009)</a></li>
+					<li><a href="/PrivacyPolicy_us.jsp">Privacy Policy/Your CA Privacy Rights (9/10/2009)</a></li>
 					<li><a href="/rater_guidelines.jsp">Site Guidelines</a></li>
 					<li class="last"><a href="copyright_comp_policy.jsp">Copyright Compliance Policy</a></li>
 					
 				</ul>
-				<p class="copyright">Copyright © 2008 RateMyProfessors.com, LLC.
+				<p class="copyright">Copyright © 2009 RateMyProfessors.com, LLC.
 					<br><br>
 					Powered by <img src="http://static.ratemyprofessors.com/images/site/logo_mtvu.gif" border="0"> and 
                               <img src="http://static.ratemyprofessors.com/images/site/logo_mtvn.gif" border="0">
@@ -843,6 +984,7 @@ urchinTracker();
 </noscript>
 
 <!-- End Quantcast tag -->
+
 
 
 
