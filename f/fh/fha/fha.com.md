@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fha.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531083345id_/http%3A//www.fha.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fha.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212111020id_/http%3A//www.fha.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # FHA Loan Privacy Policy
 
@@ -31,8 +31,3 @@ Washington, DC 20410
 Should you have any questions concerning Privacy Policy issues, e-mail us at  
   
 
-
-[Privacy Policy](https://web.archive.org/web/20090531083345id_/http%3A//www.fha.com/privacy_policy.cfm) | [Terms of Use Policy](https://web.archive.org/web/20090531083345id_/http%3A//www.fha.com/terms_of_use.cfm) | [About Us](https://web.archive.org/web/20090531083345id_/http%3A//www.fha.com/about_us.cfm) | [FHA Site Map](https://web.archive.org/web/20090531083345id_/http%3A//www.fha.com/sitemap.cfm) | [Contact Information](https://web.archive.org/web/20090531083345id_/http%3A//www.fha.com/contact_information.cfm) | [FHA Lenders](https://web.archive.org/web/20090531083345id_/http%3A//www.fha.com/lenders.cfm)
-
-Copyright © 1997- 2009 · FHA.com · All Rights Reserved  
-[Web Design](http://www.archimageonline.com/): Archimage · Houston, Texas
