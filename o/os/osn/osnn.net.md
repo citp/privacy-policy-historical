@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the osnn.net privacy policy that was archived on 2006-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060118103601id_/http%3A//forum.osnn.net/showthread.php%3Ft%3D2399) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osnn.net privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212222611id_/http%3A//www.osnn.net/news-information/2399-privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Statement - OSNN Forum
 
@@ -14,4 +14,4 @@ We may use cookies to improve your web browsing experience. When you are first s
 
 This site openly volunteers its practices of collecting information, its targeting capabilities, and its use of cookies. If you have any questions pertaining to this privacy policy and its contents, please direct your correspondence to our eMail. 
 
-We reserve the right to change our policy from time to time. A revised policy will apply to information collected after the date the policy is changed.
+We reserve the right to change our policy from time to time. A revised policy will apply to information collected after the date the policy is changed. 
