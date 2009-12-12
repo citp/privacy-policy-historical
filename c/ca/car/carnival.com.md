@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the carnival.com privacy policy that was archived on 2009-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090324211859id_/http%3A//www.carnival.com/CMS/Static_Templates/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carnival.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212230213id_/http%3A//www.carnival.com/CMS/Static_Templates/privacypolicy.aspx%3Ficid%3DCC_Footer_82) for the most accurate reproduction.*
 
-# Carnival Cruise Lines - Privacy Policy
+# Privacy Policy
 
 This website is owned and operated by Carnival Cruise Lines, a division of Carnival Corporation ("Carnival"). Carnival is committed to respecting and protecting your privacy and helping you make the most of your time on the Internet within a trusted environment. The Carnival Privacy Policy (“Privacy Policy”) applies to the carnival.com website and governs its data collection, usage and services. This Privacy Policy discloses how we collect, protect, use and share information gathered about you on our website. If you use this site you explicitly agree to the terms and conditions of the Privacy Policy in effect at the time of your use. We hope that this disclosure will help increase your confidence in our website and enhance your experience on the Internet. Please read our Privacy Policy to understand:
 
