@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bronto.com privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529045737id_/http%3A//bronto.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bronto.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212051550id_/http%3A//www.bronto.com/terms/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at Bronto Software
 
@@ -28,5 +28,3 @@ We, and some of our partners who provide some of the services and products on ou
 
 **Changes to Privacy Policy**  
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in this Privacy Policy notice. If our information practices change at some time in the future, we will post the policy changes to our Web site's Privacy Policy page to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site's Privacy Policy page periodically. 
-
-Last Updated: March 7, 2008 
