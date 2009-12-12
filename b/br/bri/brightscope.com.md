@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightscope.com privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612065940id_/http%3A//www.brightscope.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightscope.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213005229id_/http%3A//www.brightscope.com/privacy) for the most accurate reproduction.*
 
 # BrightScope Privacy Policy
 
