@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ratemyprofessors.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531015324id_/http%3A//www.ratemyprofessors.com/PrivacyPolicy_us.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratemyprofessors.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212153011id_/http%3A//www.ratemyprofessors.com/PrivacyPolicy_us.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - RateMyProfessors.com
 
-**Last modified March 16, 2007**
+**Last modified September 10, 2009**
 
   
 **PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS**   
@@ -70,11 +70,7 @@ This Site is offered and made available only to users 18 years of age or older w
 
  _U.S._
 
-"). **If you are not yet 18 years old, or do not reside in the U.S., please discontinue using the Site immediately, or if, for any reason, you do not agree with this Privacy Policy, please do not participate in the features, activities and services that require you to provide your Personal Information.** This Privacy Policy is a part of the terms and conditions which are set forth in our **_Terms of Use Agreement_** ("
-
- _Agreement_
-
-").Any terms that are not defined in this Privacy Policy shall have the meaning given in the Agreement. Both the Privacy Policy and Agreement are legally binding on all users.
+") and certain features on this Site (including, but not limited to, user registration and newsletter signups) may be subject to heightened age and/or other eligibility requirements. **If you are not yet 18 years old or the required greater age for certain features, or do not reside in the U.S., and/or do not meet any other eligibility requirements, please discontinue using the Site immediately, or if, for any reason, you do not agree with this Privacy Policy, please do not participate in the features, activities and services that require you to provide your Personal Information.** This Privacy Policy is a part of the terms and conditions which are set forth in our **_Terms of Use Agreement_**. Any terms that are not defined in this Privacy Policy shall have the meaning given in the Terms of Use Agreement. Both the Privacy Policy and Terms of Use Agreement are legally binding on all users.
 
 We reserve the right to revise this Privacy Policy at any time by updating this posting without advance notice to you. Such revisions shall be effective to you immediately upon posting. Notice of material changes to either document will be posted on the Site's homepage. However, we encourage you to check this Privacy Policy and Terms of Use Agreement often for updates. We may also e-mail you, at our discretion, about these changes.
 
