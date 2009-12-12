@@ -1,45 +1,32 @@
-> *The following text is extracted and transformed from the etech.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204035752id_/http%3A//www.etech.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etech.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212174638id_/http%3A//www.etech.com/help/Privacy-Policy--5) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy : eTech.com
 
-| The privacy statement discloses the privacy practices for http://www.etech.com. If you have questions or concerns regarding this statement, you should first contact Don Cook at [dcook@internet-co.com](mailto:dcook@internet-co.com).  If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TheInternetCompany, Inc.](mailto:webmaster@internet-co.com) . TIC, Inc. will then serve as a liaison with the Web site to resolve your concerns.  
----|---  
-  
-TheInternetCompany, Inc., its parent and/or subsidiaries (Company) recognizes the importance of protecting the privacy of personal information about its customers. Personal information includes all of the personally identifying information that is provided to Company. Company is sensitive to these privacy interests and believes that protecting valuable personal and/or financial information is one of Company's most significant responsibilities. 
+The information we learn from customers helps us personalize and continually improve your shopping experience at eTech.com. Here are the types of information we gather. 
 
-The policies outlined below describe Company's policies to protect your privacy. 
+**Information Collection**  
+We receive and store any information you enter on our Web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our stores, and communicating with you.   
+We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses eTech.com or advertisements and other content served by or on behalf of eTech.com on other Web sites. We might receive information about you from other sources and add it to our account information. 
 
-**Use, Collection and Retention of Client Information**  
-Company may on occasion collect, retain and use information about our customers that is required by law to administer Company’s business and provide high-level services to our clients. This information may include name, address, social security number, date of birth, and contact information such as telephone number and e-mail address. Company retains information no longer than necessary to meet such objectives. All information voluntarily submitted, becomes the property of Company, with such submission acknowledging and consenting to Company’s authority to use customer’s name and/or address for advertising and promotional purposes without further consideration, unless prohibited bylaw. Customers who do not want Company to use their personal information for Company’s marketing efforts, may opt out by informing Company of such in advance. This can be done in writing by e-mail or regular mail. E-mail can be sent to [info@internet-co.com](mailto:info@internet-co.com). Regular mail can be sent to:
+**Information Use**  
+eTech.com does not sell or rent your personal information to third parties. We use the information we collect to:  
+provide you with information and services you request   
+customize your experience on the eTech.com  
+communicate with you about your orders, service updates and other administrative issues   
+measure and improve our sites and services   
+resolve disputes, address complaints and troubleshoot technical problems   
+analyze site and user behavior and prepare aggregated reports 
 
-TheInternetCompany, Inc.  
-100 Canal Pointe Blvd.  
-Suite 114  
-Princeton, NJ 08540
+**About Cookies**  
+Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide features, personalized advertisements on other Web sites, and storage of items in your Shopping Cart between visits.   
+The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the Web site of its manufacturer. However, because cookies allow you to take advantage of some of eTech.com's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Cart, proceed to Checkout, or use any eTech.com products and services that require you to Sign in. 
 
-**Maintenance of Accurate Information**  
-Company has established procedures so that a client's personal and/or financial information is accurate, current and complete in accordance with reasonable commercial standards. Any request to correct inaccurate information is responded to within a timely manner. 
+**Security**  
+We will not share your information with any third party outside of our organization. We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline. Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
 
-**Limiting Employee Access to Information**  
-All Company employees are educated about the importance of privacy and confidentiality. Only those employees having a business reason for knowing such information have access to personally identifiable information. 
+**Links**  
+eTech.com contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information. 
 
-**Protection of Information via Established Security Procedures**  
-Company maintains rigorous security standards and procedures regarding unauthorized access to customer information. Any online collection of data will be conducted using 128 bit encryption, which is the strongest encryption available. Any and all order forms operate under a secure environment using SSL. Company will use a Verisign Secure Server Digital ID to maintain this secure communication. All User’s IP Addresses are logged for security reasons. Our site does not use "Cookies". 
+**General**  
+we will change and update the Privacy Policy from time to time without any prior notice. Please be aware of what information we collect, use, and disclose in Privacy Policy. If you have any questions about the Privacy Notice, please contact us at: info@etech.com.  
 
-**Restrictions on the Disclosure of Account Information**  
-Company provides information about customer accounts or other personally identifiable data to third parties only when: 1) the information is provided to help complete a customer initiated transaction; 2) the customer requires it; 3) the disclosure is required by/or allowed by law; or 4) it is necessary to process transactions and provide services. 
-
-**Maintaining Customer Privacy in Business Relationships with Third Parties**  
-If it is necessary to provide personally identifiable customer information to a third party, Company shall insist that the third party adhere to similar privacy principles that provide for keeping such information confidential. 
-
-**Disclosure of Privacy Principles to Customers**  
-Company’s customers have the right to know what information we keep about them and how the information is used. Customers have the right to have any inaccurate information corrected or deleted. 
-
-**_
-
-* * *
-
-Information subject to change without notice.   
-All rights reserved. © 2001 **_TheInternetCompany, Inc._**
-
-_**
