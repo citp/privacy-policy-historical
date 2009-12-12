@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mauijim.com privacy policy that was archived on 2008-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081026194259id_/http%3A//www.mauijim.com/webapp/wcs/stores/servlet/Content_10001_10101_-1_privacy-policy.html_1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mauijim.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212095852id_/http%3A//www.mauijim.com/webapp/wcs/stores/servlet/Content_10001_11601_-1_privacy-policy.html_1) for the most accurate reproduction.*
 
 # Privacy Statement | Maui Jim Sunglasses
+
+Sharks Cove, Oahu
 
 ## Maui Jim USA, INC. Privacy Policy
 
