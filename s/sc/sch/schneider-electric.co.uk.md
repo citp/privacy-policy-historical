@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the schneider-electric.co.uk privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522134841id_/http%3A//www.schneider-electric.co.uk/electricity.nsf/electrical-engineering/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schneider-electric.co.uk privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212093845id_/http%3A//www.schneider-electric.co.uk/electricity.nsf/electrical-engineering/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Schneider Electric
 
 Privacy Policy 
 
-My Schneider Electric and www.schneider.co.uk Privacy Policy. 
+My Schneider Electric and www.schneider-electric.co.uk Privacy Policy. 
 
 You acknowledge and agree that Schneider Electric Ltd and our group companies and brands (“we”, “our”, “us) may collect, use and disclose the data collected in the course of our relationship in the manner identified in our Privacy Policy. 
 
 PLEASE NOTE THAT THE PRIVACY POLICY MAY CHANGE FROM TIME TO TIME AND YOU SHOULD CHECK OUR PRIVACY POLICY FREQUENTLY FOR THE MOST CURRENT APPLICABLE TERMS. YOUR USE OF THE SITES IS ALSO SUBJECT TO YOUR ACCEPTANCE OF THE [TERMS OF USE ](https://web.archive.org/internet/pws/pws.nsf/luAllByID/1A166AC3E48D3B6C802570DF004D50C4)WHICH YOU MUST READ. 
 
 Information we Collect  
-The information we collect on the www.schneider.co.uk and My Schneider Electric websites ("the Sites") generally falls into the following two categories: Personally Identifiable Information and Non-Personally Identifiable Information.
+The information we collect on the www.schneider-electric.co.uk and My Schneider Electric websites ("the Sites") generally falls into the following two categories: Personally Identifiable Information and Non-Personally Identifiable Information.
 
 Personally Identifiable Information: This refers to information that lets us know the specifics of who you are. The Personally Identifiable Information we collect when you use the Sites may include your name, mailing address, phone number, e-mail address, your Internet Protocol ("IP") address, employer, and job function. We request Personally Identifiable Information when you register to use the system, order a product or service, participate in certain promotional activities, fill out surveys, and correspond with us. In these cases, we will collect the information you submit about you the recipient. [It will be clear when you are on a part of the Sites that requires personal information, because we will ask you to input your user name and password.] 
 
