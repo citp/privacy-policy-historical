@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lijit.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628174643id_/http%3A//www.lijit.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lijit.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212055937id_/http%3A//www.lijit.com/privacy_policy) for the most accurate reproduction.*
 
 # Lijit | Privacy Policy
 
@@ -8,7 +8,7 @@ Lijit takes the privacy and protection of personal information very seriously. B
 
 **What This Privacy Policy Covers**
 
-This Privacy Policy describes Lijit's use of Personal Information and Anonymous Information that we collect when you use the Lijit Services. This Privacy Policy does not apply to (1) Advertisers, (2) Publishers that are companies (i.e., not natural persons), and (3) the collection or use of your information by third parties that Lijit does not control (including Publisher Sites). We collect and use Personal Information and Anonymous Information as described in this Privacy Policy from Publishers who are natural persons, and Readers, who use the Lijit Services. " **Personal Information** " means your contact information (i.e., your name, address, e-mail address, or phone number) and any other non-public information that is associated with your contact information. " **Anonymous Information** " means information that is not associated with or linked to your Personal Information.
+This Privacy Policy describes Lijit's use of Personal Information and Anonymous Information that we collect when you use the Lijit Services. We collect and use Personal Information and Anonymous Information as described in this Privacy Policy from Publishers who are natural persons, websites or publications where Lijit Services may reside, and Readers, who use the Lijit Services. " **Personal Information** " means your contact information (i.e., your name, address, e-mail address, or phone number) and any other non-public information that is associated with your contact information. " **Anonymous Information** " means information that is not associated with or linked to your Personal Information.
 
 **BY USING THE LIJIT SERVICES OR SUBMITTING PERSONAL INFORMATION THROUGH OUR LIJIT SERVICES, YOU AGREE TO THE TERMS OF THIS PRIVACY POLICY AND YOU EXPRESSLY CONSENT TO THE PROCESSING OF YOUR PERSONAL INFORMATION ACCORDING TO THIS PRIVACY POLICY.** ****
 
@@ -24,7 +24,7 @@ You can choose not to provide us with certain information, but this may limit th
 
 **Information Collected Via Technology**
 
-As you use the Lijit Services, certain information may also be collected passively (as described in this Section), including your Internet protocol (IP) address, browser type, and operating system. Lijit stores a small text file called a “ **Cookie** ” on your computer: (1) to store your login information, if applicable, and (2) in conjunction with the Wijit. Lijit may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them). With respect to Publishers, we collect Personal Information about Content you add to your Wijit-enabled pages. For example, we categorize the types of Content you make available. With respect to Readers, we collect information about the Wijit-enabled pages you view as a Reader and the search queries you submit as a Reader. Unless you, as a Reader, voluntarily provide us with Personal Information (such as your email address for Lijit Alerts), we collect only Anonymous Information from you.
+As you use the Lijit Services, certain information may also be collected passively (as described in this Section), including your Internet protocol (IP) address, browser type, and operating system. Lijit stores a small text file called a “ **Cookie** ” on your computer: (1) to store your login information, if applicable, and (2) in conjunction with the Wijit. Lijit may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them). With respect to Publishers, we collect Personal Information about Content you add to your Wijit-enabled pages. For example, we categorize the types of Content you make available. With respect to Readers, we collect information about the pages you view as a Reader and the search queries you submit as a Reader. Unless you, as a Reader, voluntarily provide us with Personal Information (such as your email address for Lijit Alerts), we collect only Anonymous Information from you.
 
 We may also enable advertisers and ad servers to promote third party products and/or services by placing advertisements on the Lijit Services and Publisher sites. These advertisers and ad servers may use Cookies and/or "Web Beacons" (which are usually small, transparent graphic images) in order to monitor information related to served advertisements. Clicking on such advertisements will direct you to the website of a third party and the advertiser. This Privacy Policy does not cover the privacy practices of any advertisers or ad servers. 
 
@@ -50,7 +50,7 @@ Except as otherwise stated in this Privacy Policy, we do not trade, rent, or sha
 
 We may provide your Personal Information to third party service providers who work on behalf of or with us to provide some of the services and features of the Lijit Services and to help us communicate with you. Examples of such services include sending email, analyzing data, providing marketing assistance, processing payments (including credit card payments), and providing customer service. However, these service providers do not have any independent right to share this information (except pursuant to a legal requirement such as a subpoena or warrant). 
 
-We share Anonymous Information with our partners, advertisers, and other third parties in our discretion. For example, we may share Anonymous Information related to a specific Cookie to enable advertisers or ad servers to display relevant ads, based on the Content viewed in connection with that Cookie.
+We share Anonymous Information with our partners, advertisers, and other third parties in our discretion. For example, we may share Anonymous Information related to a specific Cookie to enable advertisers or ad servers to display relevant ads, based on the Content, search terms, and demographic profile viewed in connection with that Cookie.
 
 Although we currently do not have a parent company, any subsidiaries, joint ventures, or other companies under a common control (collectively, " **Affiliates** "), we may in the future. We may share some or all of your Personal Information with these Affiliates, in which case we will require our Affiliates to honor this Privacy Policy. 
 
@@ -82,4 +82,4 @@ This Privacy Policy is a living document. We reserve the right to modify this Pr
 
 If you have any questions or suggestions regarding our Privacy Policy please contact us at info at lijit dot com. 
 
-_This Privacy Policy was last updated on September 9, 2008._
+_This Privacy Policy was last updated on October 22, 2009._
