@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the preventdisease.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621182758id_/http%3A//www.preventdisease.com/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preventdisease.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212124822id_/http%3A//www.preventdisease.com/home/privacy.html) for the most accurate reproduction.*
 
-# PreventDisease.com - Aiming Towards Better Health
+# PreventDisease.com - Privacy Statement
 
 ## **Privacy Statement**
 
@@ -55,7 +55,7 @@ Our site gives users the opportunity to opt-in to receive communications from us
 **This site also gives users the following options for removing their information from our database in order to stop receiving communications or our service. Choose one of the following three options to successfully remove your email from our mailing lists:**
 
   1. You can unsubscribe your email from the left side interface of any page on our website under "Free Newsletter" and by inputting your email address, selecting the "Unsubscribe" radio button and clicking the "Go"button.
-  2. You can send e-mail to [privacy@PreventDisease.com](mailto:privacy@PreventDisease.com)
+  2. You can send e-mail to  [yourprivacy@preventdisease.com](mailto:yourprivacy@preventdisease.com)
   3. You can send mail to the following postal address: 
 
 Security and Privacy Dept.  
@@ -68,7 +68,7 @@ Canada.
 
 
 **Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this Web site, or your interaction with this Web site, contact: 
+If you have any questions about this privacy statement, the practices of this Website, or your interaction with this Website, contact: 
 
 Security and Privacy Dept.  
 PreventDisease.com.  
@@ -76,7 +76,7 @@ P.O.Box 2087, SQ1 Stn
 100 City Centre Dr.  
 Mississauga, ONT, L5B3C6  
 Canada.  
-[privacy@PreventDisease.com](mailto:privacy@PreventDisease.com) 
+
 
 
 **Online Service Agreement**  
