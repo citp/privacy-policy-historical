@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the carhire3000.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629131030id_/http%3A//www.carhire3000.com/PrivacyPolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carhire3000.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212071306id_/http%3A//www.carhire3000.com/PrivacyPolicy.do) for the most accurate reproduction.*
 
-# Car Hire with discount rates from Car Hire 3000
+# Car Hire 3000 - Book cheap car hire | Car rental online
 
 CARHIRE 3000 takes the privacy of the information you give us very seriously. Any information you give us will be used in accordance with the UK data protection act of 1998 and The Privacy and Electronic Communications (EC Directive) Regulations 2003. This policy explains how your information is used, and how we protect your privacy.
 
