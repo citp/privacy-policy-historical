@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pennlive.com privacy policy that was archived on 2009-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090517033949id_/http%3A//www.pennlive.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennlive.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212221550id_/http%3A//www.pennlive.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - PennLive.com
 
@@ -61,3 +61,5 @@ Privacy Policy Coordinator
 **2405 Park Drive Suite 201**  
 **Harrisburg, PA 17110**  
 **[Contact Us](https://web.archive.org/contactus)**
+
+PennLive.com is an affiliate of Advance Internet. [Advance Internet](http://www.advanceinternet.com/ "Advance Internet") is a leading creator of local news and information Web sites, created in alliance with over 25 newspapers affiliated with Advance Internet.
