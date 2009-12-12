@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ski-lifts.com privacy policy that was archived on 2009-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090528102359id_/http%3A//www.ski-lifts.com/AboutUs/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ski-lifts.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212095709id_/http%3A//www.ski-lifts.com/AboutUs/Privacy.aspx) for the most accurate reproduction.*
 
 # Ski-Lifts : Privacy Policy
 
