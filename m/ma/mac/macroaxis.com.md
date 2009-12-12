@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macroaxis.com privacy policy that was archived on 2009-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090324230820id_/http%3A//www.macroaxis.com/invest/privacyPolicy%3Fmm%3DcontactsInfo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macroaxis.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212021237id_/http%3A//www.macroaxis.com/invest/menu/contactsInfo/privacyPolicy) for the most accurate reproduction.*
 
 # Macroaxis Privacy Policy
 
@@ -12,11 +12,9 @@ Macroaxis help to manage and understand your investments. Macroaxis is free to u
 
 Registration on Macroaxis is strictly voluntary. You do get some cool information and access to certain great features if you do register, but membership is not necessary to get the public information available on site. 
 
-Macroaxis collects personally identifiable information ("Your Info") that you provide to us. This includes (at your discretion) your name, an email address, organization and a password. Our software uses this information to personalize and manage the Macroaxis website for you. 
+Macroaxis collects personally identifiable information ("Your Info") that you provide to us. This includes (at your discretion) your **name** , an **email address** , **organization** and a **password**. Our software uses this information to personalize and manage the Macroaxis website for you. 
 
-If you want to tell us your personal information, still you can use Macroaxis services through your Facebook account. We'll authenticate you using [ ](http://developers.facebook.com/connect.php) and your data will always be secure on Facebook servers. We use Facebook just to authenticate your identity. We never push any feed or story to your Facebook account. 
-
-To help us debug problems with our software, we may collect some technical information from your browser software (such as Mozilla Firefox or Internet Explorer), screen resolution and the website that referred you to us. 
+You can also use Macroaxis services through your Facebook account. We'll authenticate you using [ ](http://developers.facebook.com/connect.php) and your data will always be secured on Facebook servers. We use Facebook just to authenticate your identity. We never push any feeds or stories to your Facebook account. 
 
 ## We'll Keep You In Touch
 
