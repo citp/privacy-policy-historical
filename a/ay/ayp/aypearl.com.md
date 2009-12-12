@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aypearl.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627083220id_/http%3A//www.aypearl.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aypearl.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212200810id_/http%3A//www.aypearl.com/privacy.html) for the most accurate reproduction.*
 
 # Help Center - Privacy - Aypearl.com
 
@@ -12,19 +12,19 @@ As the leading jewelry manufacturer in China, we offer our customers outstanding
 
 #### Cookies
 
-To avoid the loss of information due to computer virus and spy software, we use cookie to record all information in customers' computers. There is no need for costumers to worry that they can not order goods normally when cookie is restricted.
+To avoid the loss of information due to computer virus and spy software, we use cookie to record all information in customers' computers. There is no need for customers to worry that they can not order goods normally when cookie is restricted.
 
 #### Session
 
-Session is used to identify costumers and record the information of costumers' shopping cart. Therefore, others can not get the costumers' information. Furthermore, session clears them automatically when customers log out. 
+Session is used to identify customers and record the information of customer's shopping cart. Therefore, others can not get the customers' information. Furthermore, session clears them automatically when customers log out. 
 
 #### How Is The Information Used?
 
-We may use your information in a number of ways, including the following: to institute sale and promotion plans:to send our emails or catalogs to our costumers about products..
+We may use your information in a number of ways, including the following: to institute sale and promotion plans:to send our emails or catalogs to our customers about products..
 
 #### Is The Information Shared?
 
-The information gathered is used only inside our company. We provide more services for our costumers with their information and strictly control our internal staff’s visits to costumers’ information to avoid loss of the info.
+The information gathered is used only inside our company. We provide more services for our customers with their information and strictly control our internal staff’s visits to customer’s information to avoid loss of the info.
 
 #### Will the AYPearl.com privacy policy change?
 
