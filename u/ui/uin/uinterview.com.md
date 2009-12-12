@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the uinterview.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603161705id_/http%3A//www.uinterview.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uinterview.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212112251id_/http%3A//www.uinterview.com/privacy.php) for the most accurate reproduction.*
 
 # Uinterview | Privacy Policy
+
+Use of this website constitutes acceptance of our Privacy Policy and Terms of Use. 
 
 **Information Collected**
 
@@ -32,9 +34,9 @@ Any unauthorized access to or use of the Uinterview Website or information colle
 
 **Privacy Options**
 
-You have the right to "opt-out" of certain Uinterview uses of your personal information. At the time you are requested to provide personal information on this site, you may have the opportunity to elect to, or not to, receive e-mail offers from Uinterview or have your personal information shared with other companies. You may also make this request by sending an e-mail to [publisher@uinterview.com](mailto:publisher@uinterview.com). In this e-mail please say whether you would like to opt-out of receiving e-mail offers from Uinterview and/or having your personal information shared with other companies. Also, a request to have us stop sharing your personal information with other companies will only apply as of the date of the request, and Uinterview will not be responsible for any communications that you may receive from companies that received your personal information prior to your request. In these cases, please contact that company directly.
+You have the right to "opt-out" of certain Uinterview uses of your personal information. At the time you are requested to provide personal information on this site, you may have the opportunity to elect to, or not to, receive e-mail offers from Uinterview or have your personal information shared with other companies. You may also make this request by sending an e-mail to [editor@uinterview.com](mailto:publisher@uinterview.com). In this e-mail please say whether you would like to opt-out of receiving e-mail offers from Uinterview and/or having your personal information shared with other companies. Also, a request to have us stop sharing your personal information with other companies will only apply as of the date of the request, and Uinterview will not be responsible for any communications that you may receive from companies that received your personal information prior to your request. In these cases, please contact that company directly.
 
-If you prefer not to receive traditional mail or other off-line promotions from Uinterview, please send us an e-mail at [publisher@uinterview.com](mailto:publisher@uinterview.com). Uinterview will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt-out of these unrelated uses.
+If you prefer not to receive traditional mail or other off-line promotions from Uinterview, please send us an e-mail at [editor@uinterview.com](mailto:publisher@uinterview.com). Uinterview will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt-out of these unrelated uses.
 
 **Note to Parents**
 
@@ -46,4 +48,4 @@ This Privacy Policy may be modified from time to time, without notice to users o
 
 **How to Contact Us**
 
-If you have any questions or concerns about any aspect of this Privacy Policy or its implementation please contact us via e-mail at [publisher@uinterview.com](mailto:publisher@uinterview.com).
+If you have any questions or concerns about any aspect of this Privacy Policy or its implementation please contact us via e-mail at [editor@uinterview.com](mailto:publisher@uinterview.com).
