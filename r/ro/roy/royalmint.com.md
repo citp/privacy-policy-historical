@@ -1,29 +1,27 @@
-> *The following text is extracted and transformed from the royalmint.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618085717id_/http%3A//www.royalmint.com/guide/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalmint.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212040159id_/http%3A//www.royalmint.com/guide/legal/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### ****
-
-### The Royal Mint is committed to respecting your privacy. We may need to handle personal information about you so that we can provide services for you. This privacy statement tells you how we look after that information. 
+The Royal Mint is committed to respecting your privacy. We may need to handle personal information about you so that we can provide services for you. This privacy statement tells you how we look after that information. 
 
 The Royal Mint considers the responsible use of personal information to be a critical element in enabling the Internet to reach its potential as a serious tool for personal and professional activities. 
 
 When we ask you for personal information, we will ensure it is:
 
-  * handled fairly and lawfully processed 
-  * processed for limited purposes 
-  * adequate, relevant and not excessive 
-  * accurate and up to date 
-  * not kept for longer than necessary 
-  * processed in line with your rights 
-  * secure 
+  * handled fairly and lawfully processed
+  * processed for limited purposes
+  * adequate, relevant and not excessive
+  * accurate and up to date
+  * not kept for longer than necessary
+  * processed in line with your rights
+  * secure
   * not transferred without adequate protection
 
 
 
 It is important that we keep your information accurate and up-to-date and so in return, we ask you to:
 
-  * give us accurate information 
+  * give us accurate information
   * tell us as soon as possible if there are any changes, such as a new address
 
 
