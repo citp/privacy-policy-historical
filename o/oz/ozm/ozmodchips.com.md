@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ozmodchips.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603083706id_/http%3A//www.ozmodchips.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozmodchips.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212152419id_/http%3A//www.ozmodchips.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Notice : OzModChips.com, Australian Supplier of WiiKey, D2CKey, M3DS, R4DS and CycloDS
+# Privacy Notice : OzModChips.com, Australian Supplier of WiiKey, Drivekey, M3, R4DS and CycloDS
 
 This site is owned and operated by Ozmodchips.com. Your privacy on the Internet is of the utmost importance to us. At Ozmodchips.com, we want to make your experience online satisfying and safe. Because we gather certain types of information about our users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it. 
 
