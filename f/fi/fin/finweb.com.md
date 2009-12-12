@@ -1,75 +1,67 @@
-> *The following text is extracted and transformed from the finweb.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217032757id_/http%3A//www.finweb.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finweb.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212093944id_/http%3A//www.internetbrands.com/ib/privacy/mortgage%3Fsite%3Dwww.finweb.com) for the most accurate reproduction.*
 
-# Financial Web Privacy Statement
+# Site Privacy Policy
 
-This document was last updated on September 26, 2006.
+www.finweb.com ("Site")
 
-**1\. Acknowledgement and acceptance of terms**
+Privacy Statement
 
-**FinWeb.com** is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing **FinancialWeb** at [www.finweb.com](http://www.finweb.com/) you acknowledge and fully understand **FinancialWeb’s** Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
+We are committed to safeguarding your privacy online. This privacy policy applies to your information that we collect and receive; it does not apply to practices of businesses that we do not own or control or people we do not employ. At no time will we sell your information or release your personally-identifiable data without your permission. You can visit this Site without revealing who you are or providing any personal information about yourself. 
 
-**2\. Participating Merchant Policies**
+By using this Site, you agree to the terms of this privacy policy. Please read the following policy to understand how your personal information will be treated as you use our services. The following discloses our information gathering and dissemination practices.
 
-Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in **FinWeb.com** services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
+This Site contains links to other sites. These include links to individual lender/broker sites that offer consumer and business loans, as well links to other third party sites that offer credit reports, property valuation information, insurance quotes, etc. We are not responsible for the privacy practices or the content of such Web sites.
 
-**3\. Information We Collect and How We Use It**
+Browsing the Site
 
-**FinWeb.com** collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with Cookies.
+If you browse through the Site without entering any personal data, we will gather and store certain information about your visit. This information does not identify you personally and cannot be linked back to you unless you decide at some point to identify yourself. If you are only browsing, we collect the following information: IP address, the type of browser and operating system used to access our site, the date and time you access our site, the pages you visit (click-through), and if you linked to our website from another website, the address of that website as well as additional information related to your visit. We use your IP address to help diagnose problems with our server, and to administer the Site. 
 
-**a. Web Server Logs**. 
+Information Collected
 
-When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include: 
+We collect the email addresses of consumers who communicate with us or through our authorized vendors via email. We also collect information provided to us by consumers in loan or refinance requests submitted through our site or our authorized vendors' sites ("Loan Request Information"). Loan Request Information typically includes name, address, and phone numbers, email address, household income, estimated credit rating, and loan specific information including but not limited to estimated property value, desired loan amount, downpayment, and whether the applicant is working with a real estate agent. In addition, consumers who express a desire to apply for a loan provide us with and authorize us or our affiliate websites to obtain from third parties necessary financial information such as credit reports ("Finance Information"). We do not provide financing, but instead transmit those requests to third-party vendors for consideration.
 
-  * Your Internet protocol address. 
-  * The kind of browser or computer you use. 
-  * Number of links you click within the site. 
-  * State or country from which you accessed the site. 
-  * Date and time of your visit. 
-  * Name of your Internet service provider. 
-  * Web page you linked to our site from. 
-  * Pages you viewed on the site.
+All information provided by consumers in any of the above-listed ways or otherwise becomes the property of Internet Brands once received by us and may be used and disclosed as permitted in this Policy.
 
+Loan Request Information is used to transmit financing requests to third parties who may be in a position to respond to your request. Consumers who submit Loan Request Information expressly authorize up to four (4) third party lenders to contact them by phone or email in connection with their loan or refinancing request regardless of whether or not such consumer is listed on a "Do Not Call" list.
 
+As part of the request process, we may verify the information you provide, or obtain omitted address or other contact information from third parties.
 
-**b. Use of Cookies**
+Loan Request Information transmitted to a lender or other fulfillment entity becomes the property of that lender of fulfillment entity, in addition to us. The information is used to process your financing application.
 
-**FinWeb.com** may use cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you. 
+We also share your personal information with our affiliated companies in order to identify products or services in which you may have interest, to improve our user experience and generally to engage in market research and for other internal business purposes. We may also aggregate your personal information with others' information and prepare reports on site usage, purchase history or other factors for sale or distribution to others. Those reports are aggregated and include no personally identifying information. Finally, we may use your personal information to send you email or postal communications regarding products or services offered by us or by third parties with whom we have relationships in which we think you may be interested. We do not share, sell, trade or rent your personal information to third parties for unknown reasons.
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality. 
+You may at any time choose not to receive promotional emails from us by contacting us at [information@internetbrands.com](mailto:information@internetbrands.com). Notwithstanding the foregoing, we may continue to contact you for the purpose of communicating information relating to this Site, as well as to facilitate, complete, or confirm any transaction that you may enter into or responding to your inquiry or request.
 
-**FinWeb.com** reserves the right to share aggregated site statistics with partner companies, but does not allow other companies to place cookies on our website unless there is a temporary, overriding customer value (such as merging into **FinWeb.com** a site that relies on third-party cookies).
+If you prefer for us not to provide your name and email or postal address to third parties for direct marketing purposes, please contact us at [information@internetbrands.com](mailto:information@internetbrands.com).
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Website.
+Cookies
 
-**c. Personal Information Users**
+We may place "cookies" on your personal computer. "Cookies" are small identifiers sent from a web server and stored on your computer's hard drive, similar to a license plate, that help us to recognize you if you visit our website again. Also, our site uses cookies to track how you found our site. Cookies are not designed to be used to get data from your hard drive, your e-mail or any other personal data about you. To protect your privacy we do not use cookies to store or transmit any personal information about you on the Internet. You can reject cookies by changing your browser settings. Please note, however, that if you reject our cookies it is possible that some web pages may not properly load, your access to certain information might be denied or you might have to enter information about yourself more than once.
 
-Visitors to our website can register to purchase services. When you register, we will request some personal information such as name, address, email, telephone number or facsimile number, account number and other relevant information. If you are purchasing a service, we will request financial information. Any financial information we collect is used only to bill you for the services you purchased. If you purchase by credit card, this information may be forwarded to your credit card provider. For other types of registrations, we will ask for the relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting.
+Updating or deleting your information
 
-We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including:
+You may update or delete your information at any time prior to submitting your completed loan request. Once your loan form is completed and submitted, you will not be able to change any of the information. Additionally, please be advised that once you have submitted your loan request and the information has been received by the lenders/brokers, this information is no longer under our control. Due to federal & state regulations, we are required to keep a copy of your information for a period of 3 years. Over this period we will maintain all such data in a confidential and secure area that third parties will not be allowed to access. 
 
-  * To fulfill your request for services,
-  * To protect ourselves from liability,
-  * To respond to legal process or comply with law, or
-  * In connection with a merger, acquisition, or liquidation of the company.
+Security
 
+This site has reasonable security measures in place to protect the loss, misuse and alteration of the information under our control.
 
+Third Party Advertising 
 
-**4\. Use of Web Beacons or GIF files**
+We use third-party advertising companies to serve ads when you visit our website. These companies use non-personally identifiable information regarding your visit to this website and other sites, such as the user IP address, pages viewed, date and time of your visit, and number of times you have viewed an ad (but not your name, address, or other personal information), to serve ads to you on this site and other sites that may be of interest to you. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
 
-**www.finweb.com** web pages may contain electronic images known as Web beacons – sometimes also called single-pixel gifs – that allow **FinWeb.com** to count users who have visited those pages and to deliver co-branded services. **FinWeb.com** may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon.
+Specifically, Google, as a third party vendor, uses cookies to serve ads on this website. Google's use of the DART cookie enables it to serve ads to you based on your visit to this website and other websites on the Internet. You may opt out of the use of the DART cookies by visiting the Google ad and content network [privacy policy.](http://www.google.com/privacy_ads.html)
 
-Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These Web beacons may be used by these service providers to place a persistent cookie on your computer. This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site. **FinWeb.com** prohibits Web beacons from being used to collect or access your personal information.
+In addition, we use clear GIFs or pixel tags to help manage our online advertising. These clear GIFs enable our ad serving company to recognize a browser's cookie when a browser visits this site. This allows us to learn which banner ads bring users to our website. The information we collect and share through this technology is not personally identifiable.
 
-**5\. Accessing Web Account Information**
+To learn more about these practices and your choices about not having this information used by these companies please [click here.](http://www.networkadvertising.org/managing/opt_out.asp)
 
-We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our Customer Support department at [webmaster@finweb.com](mailto:webmaster@finweb.com).
+Contacting the Web Site
 
-**6\. Changes to this Statement**
+Please be aware that we may change our Privacy Policy from time to time. If we do, we will update this Privacy Policy at our website, so be sure to check back here frequently. 
 
-**FinWeb.com** has the discretion to occasionally update this privacy statement. When we do, we will also revise the “updated” date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, you can contact: [information@internetbrands.com](mailto:information@internetbrands.com)
 
-**7\. Contacting Us**
+www.finweb.com
 
-If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us at [webmaster@finweb.com](mailto:webmaster@finweb.com).
-
-**FinWeb.com** will use commercially reasonable efforts to promptly respond and resolve any problem or question.
+March 25, 2009
