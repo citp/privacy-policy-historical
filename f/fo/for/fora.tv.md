@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fora.tv privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611182258id_/http%3A//fora.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fora.tv privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212091420id_/http%3A//fora.tv/privacy) for the most accurate reproduction.*
 
 # FORA.tv - Privacy Policy
 
@@ -58,6 +58,6 @@ This Site is not directed to children under 13. If a parent or guardian becomes 
 
 **Contacting Us**
 
-If you have any questions about this Privacy Policy, please contact us at [Privacy@fora.tv](mailto:Privacy@fora.tv?subject=Privacy@fora.tv) or at: **FORA.tv Privacy Policy, 153 Townsend Street, Suite 640, San Francisco, CA 94127**
+If you have any questions about this Privacy Policy, please contact us at [Privacy@fora.tv](mailto:Privacy@fora.tv?subject=Privacy@fora.tv) or at: **FORA.tv Privacy Policy, 1550 Bryant St, Ste 700, San Francisco, CA 94103**
 
 © 2007 FORA.tv, Inc. All rights reserved. 
