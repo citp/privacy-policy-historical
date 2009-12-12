@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the upstate.edu privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627212324id_/http%3A//www.upstate.edu/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upstate.edu privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212092515id_/http%3A//www.upstate.edu/privacy.php) for the most accurate reproduction.*
 
 # SUNY Upstate Privacy Policy::SUNY Upstate Medical University
 
 ## Commitment to Privacy
 
-SUNY Upstate Medical University (Upstate) is committed to protecting your privacy and making it easier and more efficient for individuals and businesses to interact with Upstate. Upstate recognizes that individuals and businesses need to be confident that their privacy is protected when visiting Upstate's Web sites. Most Web sites can be visited without providing any information about your visit, however sometimes Upstate needs information to provide services requested. This policy explains Upstate's practices. 
+SUNY Upstate Medical University (Upstate) is committed to protecting your privacy and making it easier and more efficient for individuals and businesses to interact with Upstate. Upstate recognizes that individuals and businesses need to be confident that their privacy is protected when visiting Upstate's Web sites. Most Web sites can be visited without providing any information about your visit, however sometimes Upstate needs information to provide services requested. This policy explains Upstate's practices.
 
 Consistent with the provisions of New York State's Internet Privacy and Security Act, the Freedom of Information Law, and the Personal Privacy Protection Law, this policy describes Upstate's privacy practices regarding information collected from __user_ s_ of this Web site and how the information is used. Because this privacy policy only applies to Upstate's Web sites, __user_ s_ should examine the privacy policy of any Web site, including other linked Web sites and _state agency Web sites_ , that may be accessed using Upstate's Web sites.
 
@@ -15,10 +15,12 @@ Consistent with the provisions of New York State's Internet Privacy and Security
 Upstate is able to collect the following information:
 
   * The Internet Protocol address of the computer that accessed Upstate's Web sites;
-  * The type of browser, its version and the operating system on which that browser is running; 
+  * The type of browser, its version and the operating system on which that browser is running;
   * The Web page from which the __user__ accessed the current Web page;
   * The date and time of the __user_ 's_ request; and
   * The pages that were visited and the amount of time spent at each page
+
+
 
 None of the above-mentioned information is deemed to constitute __personal information__ by the New York State Internet Privacy and Security Act. The information that is collected automatically is used to improve Upstate's Web site content and to understand how __user_ s_ are interacting with Upstate's Web sites. This information is collected for statistical analysis and to determine what information is of most and least interest to Upstate's __user_ s_. The information is not collected for commercial marketing purposes and Upstate is not authorized to sell or otherwise disclose information collected from Web sites for commercial marketing purposes. 
 
@@ -71,7 +73,7 @@ For Web site security purposes and to maintain the availability of Upstate's Web
 
 ## Cookies
 
-Cookies are small pieces of information that are stored by the _user_ 's browser on the hard drive of a personal computer. The use of cookies is a standard practice among Internet Web sites. Most of Upstate's Web sites do not use cookies, however occasional "session cookies" may be used to enhance or customize a visit to Upstate's Web sites. Session cookies can be created automatically on the device used to access Upstate's Web sites, and do not contain _personal information_ and do not compromise privacy or security. We may use the cookie feature to store a randomly generated identifying tag on the device used to access Upstate's Web sites. A session cookie is erased when a browser is closed. 
+Cookies are small pieces of information that are stored by the _user_ 's browser on the hard drive of a personal computer. The use of cookies is a standard practice among Internet Web sites. Most of Upstate's Web sites do not use cookies, however occasional "session cookies" may be used to enhance or customize a visit to Upstate's Web sites. Session cookies can be created automatically on the device used to access Upstate's Web sites, and do not contain _personal information_ and do not compromise privacy or security. We may use the cookie feature to store a randomly generated identifying tag on the device used to access Upstate's Web sites. A session cookie is erased when a browser is closed.
 
 ## Disclaimer
 
@@ -96,6 +98,6 @@ The following definitions apply to, and appear in italics, in this policy:
 
 _Personal information_ : For purposes of this policy, " _personal information_ " means any information concerning a natural person which, because of name, number, symbol, mark, or other identifier, can be used to identify that natural person.
 
-_State agency Web Sites_ shall have the meaning set forth in subdivision 7 of section 202 of the New York State Technology Law 
+_State agency Web Sites_ shall have the meaning set forth in subdivision 7 of section 202 of the New York State Technology Law
 
-_User_ shall have the meaning set forth in subdivision 8 of section 202 of the New York State Technology Law. 
+_User_ shall have the meaning set forth in subdivision 8 of section 202 of the New York State Technology Law.
