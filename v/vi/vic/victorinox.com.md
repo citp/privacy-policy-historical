@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the victorinox.com privacy policy that was archived on 2009-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090521073540id_/http%3A//www.victorinox.com/index.cfm%3Fpage%3D12%26lang%3DE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the victorinox.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213005326id_/http%3A//www.victorinox.com/index.cfm%3Fpage%3D12%26lang%3DE) for the most accurate reproduction.*
 
-# Victorinox -
+# Victorinox - Privacy Policy
 
 **Secure Ordering**  
 Victorinox AG and its affiliates use a safe and secure online ordering system. Our Secure Sockets Layer (SSL) technology is advanced encryption software. This secure server software encrypts all of your information including credit card number, address, first and last name, so that it cannot be read in transfer.
