@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webex.com privacy policy that was archived on 2008-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081225195534id_/http%3A//www.webex.com/companyinfo/webex_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webex.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212055658id_/http%3A//www.webex.com/privacy-policy.html) for the most accurate reproduction.*
 
-# About WebEx and online meetings: WebEx
+# Privacy Policy
 
 WebEx respects your privacy. When using our sites, you may get information, access online products and services, communicate with us or link to other web sites with which we do business. While doing that, you may give us information so that we can provide enhanced products or services to you and to personalize your experience on our website. This online privacy policy describes how we use and protect Personally Identifiable Information that you share with us ("PII”). 
 
