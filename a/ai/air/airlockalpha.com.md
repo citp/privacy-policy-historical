@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the airlockalpha.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430110844id_/http%3A//airlockalpha.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airlockalpha.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212110754id_/http%3A//www.airlockalpha.com/site/privacy-policy.html) for the most accurate reproduction.*
 
-# Airlock Alpha Privacy Policy
+# Privacy Policy | Airlock Alpha
 
 We take privacy very seriously on the BlipNetwork sites, and want to make sure that you feel comfortable and safe while visiting any sites owned by Quantum Global Media Inc.
 
@@ -12,8 +12,10 @@ Because the BlipNetwork sites contain links to other sites which are not owned a
 
 From time to time, we may ask for you to provide personal identifiable information as a means to collect data for contests, research or other programs. All information provided will be on a voluntary basis, although failure to provide such information may disqualify continued involvement in those contests, research or other programs.
 
-We use third party advertising companies to display advertising on the BlipNetwork sites which may contain cookies or be able to provide geographic-specific or term search specific advertising for your use. At no time does Quantum Global Media Inc. collect personal identifiable information. One of those third party vendors, Google, uses cookies to serve ads on our site. Google's use of the DoubleClick DART cookie enables it to serve ads to our users based on your visit to our sites and other sites on the Internet. You may opt out of the use of the DART cookie by visiting [the Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+We use third party advertising companies to display advertising on the BlipNetwork sites which may contain cookies or be able to provide geographic-specific or term search specific advertising for your use. At no time does Quantum Global Media Inc. collect personal identifiable information. One of those third party vendors, Google, uses cookies to serve ads on our site.  
+Google's use of the DoubleClick DART cookie enables it to serve ads to our users based on your visit to our sites and other sites on the Internet.  
+You may opt out of the use of the DART cookie by visiting [the Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 BlipNetwork sites do not contain any pornographic elements, however, its text content is not censored, and thus does include adult language. The sites are not intended for those under 13, and no one under the age of 13 is allowed to submit personal information with any BlipNetwork or Quantum Global Media Inc. site. Quantum Global Media Inc. will never knowingly collect personal information from those under 13.
 
-Further questions about Quantum Global Media Inc.'s privacy policy can be directed to Michael Hinman at [mhinman@airlockalpha.com](https://web.archive.org/web/20090430110844id_/http%3A//airlockalpha.com/mhinman@airlockalpha.com).
+Further questions about Quantum Global Media Inc.'s privacy policy can be directed to Michael Hinman at [mhinman@airlockalpha.com](https://web.archive.org/web/20091212110754id_/http%3A//www.airlockalpha.com/site/mhinman@airlockalpha.com).
