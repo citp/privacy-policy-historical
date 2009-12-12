@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shinystat.com privacy policy that was archived on 2009-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090610173206id_/http%3A//www.shinystat.com/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shinystat.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213000828id_/http%3A//www.shinystat.com/en/privacy.html) for the most accurate reproduction.*
 
 # ShinyStat™, privacy policy - customers and users Privacy.
 
