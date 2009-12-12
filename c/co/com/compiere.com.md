@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compiere.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617191037id_/http%3A//www.compiere.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compiere.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212011002id_/http%3A//www.compiere.com/company/privacy.php) for the most accurate reproduction.*
 
 # Compiere Privacy Statement
 
