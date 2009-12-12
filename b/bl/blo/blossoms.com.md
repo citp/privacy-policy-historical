@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blossoms.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620090125id_/http%3A//www.blossoms.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blossoms.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212230429id_/http%3A//www.blossoms.com/privacyPolicyNew.php) for the most accurate reproduction.*
 
 # Cherry Blossoms: Online picture personal ads for internet dating, friendship, love & romance. Meet US, Asian, European, Russian, & Latin Men & Women
 
@@ -43,7 +43,7 @@ In order to maintain a healthy community, Cherry Blossoms, Inc. and Blossoms.com
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site. We use a credit card processing company to bill you for goods and services. These companies do not retain, share, store or use personally identifiable information for any other purposes. 
 
 5\. Your use of Other Users' Information   
-You may not use other user��s information for commercial purposes, to spam, to harass, or to make unlawful threats. Cherry Blossoms, Inc. and Blossoms.com reserve the right to terminate those who misuse other user��s information or who otherwise violate the Cherry Blossoms, Inc. and Blossoms.com Terms of Use. 
+You may not use other user's information for commercial purposes, to spam, to harass, or to make unlawful threats. Cherry Blossoms, Inc. and Blossoms.com reserve the right to terminate those who misuse other user's information or who otherwise violate the Cherry Blossoms, Inc. and Blossoms.com Terms of Use. 
 
 6\. Control of Your Password    
 You may not disclose your password to any third parties or share it with any third parties. If, despite the foregoing, you lose control of your password, you may lose substantial control over your personally identifiable information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password.
