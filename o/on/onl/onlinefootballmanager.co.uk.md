@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onlinefootballmanager.co.uk privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227033459id_/http%3A//www.onlinefootballmanager.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinefootballmanager.co.uk privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212035828id_/http%3A//www.onlinefootballmanager.co.uk/privacy.asp) for the most accurate reproduction.*
 
-# Online Football Manager - Manage your favourite football team
+# Online Football Manager - A game where you can manage your favourite football club
 
 **Gamebasics** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [Online Football Manager](https://web.archive.org/)
 
