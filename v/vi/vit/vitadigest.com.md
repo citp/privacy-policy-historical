@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vitadigest.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531015234id_/http%3A//www.vitadigest.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitadigest.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212190631id_/http%3A//www.vitadigest.com/privacypolicy.html) for the most accurate reproduction.*
 
 # VitaDigest - The Vitamins Supplement and Sports Nutrition SuperStore - 1-877-848-2168 Privacy Policy
 
@@ -178,7 +178,7 @@ VITADIGEST.COM, Inc.
 Walnut CA 91789
 You may also contact us by e-mail at [privacy@vitadigest.com](mailto:privacy@vitadigest.com)
 
-Last Updated: 10/24/2006
+Last Updated: 10/24/2009
 
 Back to Top
 
