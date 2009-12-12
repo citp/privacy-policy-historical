@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stayclassy.org privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531164700id_/http%3A//www.stayclassy.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stayclassy.org privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212185050id_/http%3A//www.stayclassy.org/privacy) for the most accurate reproduction.*
 
-# StayClassy | Privacy Policy and Terms
+# Charity Events Everywhere | Stay Classy
 
 Stay Classy, Inc. takes privacy very seriously. Please read through our Privacy Policy to understand how it pertains to you as you use our website services.
 
