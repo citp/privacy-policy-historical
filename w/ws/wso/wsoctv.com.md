@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the wsoctv.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608220934id_/http%3A//www.wsoctv.com/station/1919490/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsoctv.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212190825id_/http%3A//www.wsoctv.com/privacy/index.html) for the most accurate reproduction.*
 
-# Privacy Policy - WSOC-TV News Story - WSOC Charlotte
+# Privacy Policy - Privacy News Story - WSOC Charlotte
 
 Effective date: 1/23/03 
 
 We respect the privacy of visitors to our site. This Privacy Policy governs the use and collection of information from you by WSOC Television, Inc., d/b/a WSOC-TV ("we" or "us") through your use of this site. This Privacy Policy does not apply to any information you may provide to us through other means; for example, at a live event, via mail, or via telephone. Please read this Privacy Policy carefully so that you understand our online privacy practices. By visiting this site, you agree that your visit, and any dispute over our online privacy practices, is governed by this Privacy Policy and our Visitor Agreement. Questions regarding privacy issues should be directed to:
 
-Robin Whitmeyer  
-Website Manager  
+Melinda Holt  
+Director of Internet  
 WSOC-TV  
 1901 N. Tryon St.  
 Charlotte, NC 28206  
-[robin.whitmeyer@wsoc-tv.com](mailto:robin.whitmeyer@wsoc-tv.com)
+[melinda.holt@wsoc-tv.com](mailto:melinda.holt@wsoc-tv.com)
 
  **CHILDREN'S PRIVACY**  
 Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. We won't knowingly allow anyone under 13 to register with our site or to provide any other personally identifying information. If you're under 13, please do not provide us with any personally identifying information about yourself (such as your name, your email address or your phone number).
