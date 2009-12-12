@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inkd.com privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527002054id_/http%3A//inkd.com/earn/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inkd.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212043021id_/http%3A//inkd.com/earn/privacy-policy) for the most accurate reproduction.*
 
-# Inkd | The world's first marketplace for professional print design.
+# The world's first marketplace for professional print design. | Inkd
 
 ### INKD
 
