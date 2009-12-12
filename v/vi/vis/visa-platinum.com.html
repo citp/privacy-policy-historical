@@ -1,292 +1,186 @@
-<!--The following is the downloaded HTML source of the visa-platinum.com privacy policy that was archived on 2005-10-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20051028085253id_/http%3A//www.visa-platinum.com/legal/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the visa-platinum.com privacy policy that was archived on 2009-12-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091212114459id_/http%3A//www.visa-platinum.com/privacy_gateway) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-<title>Visa: Privacy Policy</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class=" webkit chrome linux js"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>VISA PLATINUM : Privacy Policy</title>
+<script type="text/javascript" src="scripts/funciones.js"></script><style type="text/css">HTML {overflow:-moz-scrollbars-vertical;}</style>
+<script type="text/javascript">
+ 	document.write('<style type="text/css">');
+ 	document.write('DIV, IMG {behavior: url("iefix/iepngfix.htc");}');
+ 	document.write('</style>');
+</script><style type="text/css">DIV, IMG {behavior: url("iefix/iepngfix.htc");}</style>
 
-<link rel="stylesheet" href="../includes/visa_style.css" type="text/css">
-<script>
-function contactURL(newURL) {
-  win = window.open(newURL,"","menubar=0,toolbar=0, dependant=1, titlebar=no,location=0,directories=0, status=0,scrollbars=0,width=279,height=144,screenX=500,left=500,screenY=450,top=450");
-  win.location.href = newURL;
-}
-
-function openPdfURL(newURL) {
-  win = window.open(newURL,"pdf","menubar=0,toolbar=1, dependant=1, titlebar=no,location=0,directories=0, resizable=1, status=0,scrollbars=1");
-  win.location.href = newURL;
-}
-
-function load(PSTRLanguage, PSTRlocation, PSTRExtension){
-
-    image=new Image();
-
-    image.src="../images/"+PSTRLanguage+"/"+PSTRlocation+"."+PSTRExtension;
-
-   return image;
-  }
-  
-function load2(PSTRLanguage, PSTRlocation, PSTRExtension){
-
-    image=new Image();
-
-    image.src="images/"+PSTRLanguage+"/"+PSTRlocation+"."+PSTRExtension;
-
-   return image;
-  }  
-
-function load_exclusive(PSTRLanguage) {
-	storedLocation2="";
-	storedLocation="";
-	stored="";
-	stored2="";
-	v=parseInt(navigator.appVersion.substring(0,1));
-	if (v>=3){
-		m1=load(PSTRLanguage,"promotions_menulat_dining_on","gif");
-		m2=load("","promotions_dining_on","jpg");
-		m3=load(PSTRLanguage,"promotions_menulat_shopping_on","gif");
-		m4=load("","promotions_shopping_on","jpg");
-		m5=load(PSTRLanguage,"promotions_menulat_entertainment_on","gif");
-		m6=load("","promotions_entertainment_on","jpg");
-		m7=load(PSTRLanguage,"promotions_menulat_travel_on","gif");
-		m8=load("","promotions_travel_on","jpg");
-	}
-  }
-
-function load_default(PSTRLanguage) {
-	storedLocation="";
-	stored="";
-	v=parseInt(navigator.appVersion.substring(0,1));
-	if (v>=3){
-		m1=load2(PSTRLanguage,"selectorlanguage_english_on","gif");
-		m2=load2(PSTRLanguage,"selectorlanguage_spanish_on","gif");
-		m3=load2(PSTRLanguage,"selectorlanguage_portugues_on","gif");
-	}
-  }
-
-function load_defaultpriv(PSTRLanguage) {
-	storedLocation="";
-	stored="";
-	v=parseInt(navigator.appVersion.substring(0,1));
-	if (v>=3){
-		m1=load(PSTRLanguage,"selectorlanguage_english_on","gif");
-		m2=load(PSTRLanguage,"selectorlanguage_spanish_on","gif");
-		m3=load(PSTRLanguage,"selectorlanguage_portugues_on","gif");
-	}
-  }
-  
-function load_rewards(PSTRLanguage) {
-	storedLocation2="";
-	storedLocation="";
-	stored="";
-	stored2="";
-	v=parseInt(navigator.appVersion.substring(0,1));
-	if (v>=3){
-		m1=load(PSTRLanguage,"rewards_menulat_airtravel_on","gif");
-		m2=load("","rewards_photo_airtravel_on","jpg");
-		m3=load(PSTRLanguage,"rewards_menulat_hotels_on","gif");
-		m4=load("","rewards_photo_hotels_on","jpg");
-		m5=load(PSTRLanguage,"rewards_menulat_autorentals_on","gif");
-		m6=load("","rewards_photo_autorental_on","jpg");
-//		m7=load(PSTRLanguage,"rewards_menulat_cruises_on","gif");
-//		m8=load("","rewards_photo_cruises_on","jpg");
-//		m9=load(PSTRLanguage,"rewards_menulat_packages_on","gif");
-//		m10=load("","rewards_photo_packages_on","jpg");
-//		m11=load(PSTRLanguage,"rewards_menulat_merchandise_on","gif");
-//		m12=load("","rewards_photo_merchandise_on","jpg");
-	}
-}
-  
-  function load_about(PSTRLanguage) {
-  stored="";
-  storedLocation="";
-	m1=load(PSTRLanguage,"about_menulat_travel_on","gif");
-	m2=load(PSTRLanguage,"about_menulat_concierge_on","gif");
-	m3=load(PSTRLanguage,"about_menulat_travelinsurance_on","gif");
-	m4=load(PSTRLanguage,"about_menulat_rewards_on","gif");
-  }
-  
-  function show(where,what){
-      v=parseInt(navigator.appVersion.substring(0,1));
-      if (v>=3){
-      stored2=stored;
-      stored=where;
-      storedLocation2=storedLocation;
-      storedLocation=document.images[where].src;
-      document.images[where].src=eval(what+".src");
-      }
-  }
-
-  function show2(where,what){
-      v=parseInt(navigator.appVersion.substring(0,1));
-      if (v>=3){
-      stored=where;
-      storedLocation=document.images[where].src;
-      document.images[where].src=eval(what+".src");
-      }
-  }
-  
-  function hide(PSTROption){
-		v=parseInt(navigator.appVersion.substring(0,1));
-		if (PSTROption=='about'){
-			if (v>=3) document.images[stored].src=storedLocation;
-		}
-		else
-		{
-		if (v>=3){
-			document.images[stored].src=storedLocation;
-			document.images[stored2].src=storedLocation2;
-			stored2="";
-			stored="";
-			storedLocation2="";
-			storedLocation="";
-		}
-		}
-  }
-
-  function hide2(PSTROption){
-		v=parseInt(navigator.appVersion.substring(0,1));
-		if (v>=3){
-			document.images[stored].src=storedLocation;
-			stored="";
-			storedLocation="";
-		}
-  }
-</script>
-
+<link href="css/platinum/estilos_esp.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="scripts/swfobject.js"></script>
+<script type="text/javascript" src="scripts/jquery_1_3_2_min.js"></script>
 </head>
+<body>
+<div class="Header">
+	<div class="MainBox">
+		<h1><a href="home"><img src="images/platinum/esp/layout/visa.png" alt="Visa platinum"></a></h1>
+	</div>
+</div>
+<div class="MainArea Privacidad">
+<div class="Shadow"><!-- --></div>
+	<div class="MainBox">
+	<h1 class="Head"><img src="images/platinum/eng/privacidad/privacidad.gif" width="114" height="44" alt="Privacy Policy"></h1>
+	<div class="Box">
+	
+<p>Visa wants you to feel secure when visiting Visalatam.com. Committed to protecting your privacy, Visa ("we", "us" or "our") safeguards your personal information to maintain customer trust.</p>
 
-<body bgcolor="#FFFFFF" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0">
+	<p>Visa respects the privacy of visitors of Visa.com and its related sites (collectively "Visa site") by disclosing and explaining in this Privacy Policy ("Policy") how Visa collects, uses and shares information about you from Visa.com and the choices that you can make about the way your information is collected, used and shared. Visa encourages you to read this Policy and those of all web sites you visit.</p>
+		<p>The following sections address the Visa site's privacy issues in more detail:</p>
+		<br>
+		<h3>In this page</h3>
+		<div> 
+		<a href="#Ancla" class="Head" onclick="toggler('Layer1')">» Sites covered by this Privacy Policy</a>
+			<div style="display:none;" id="Layer1">
 
-<table border="0" width="763" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td width="100%" bgcolor="#000000">
+					<p>
+					This Policy applies to all services and sub-sites available under the domain www.visa.com (excluding usa.visa.com). Although this is a global privacy policy, each regional or country site may have rules and regulations that are not covered by this Policy. We encourage you to read your regional or country's privacy policy before using the site. By visiting this web site, you are agreeing in advance to the current and future terms of this Policy. If you do not wish to agree to these terms, you should leave this web site.</p>
+			</div>
+			<a href="#Ancla" class="Head" onclick="toggler('Layer2')">» Types of information collected on Visa.com</a>
+			<div style="display:none;" id="Layer2">
+					<p>
+							There are two types of information collected on the Visa site: Personally Identifiable Information and Non-Personally Identifiable Information.</p>
+
+<p><strong>Personally Identifiable Information</strong><br>
+Personally Identifiable Information ("personal information") is information that identifies you as an individual, such as your name, mailing address, email address, age range, etc. Personal information is only obtained when you voluntarily provide the information to us. Visa uses personal information to better understand your needs and interests and to provide you with better service. For example, you may be asked to voluntarily submit your email address to us when communicating with us or your name and email address when entering a sweepstakes or contest.</p>
+
+<p>On occasion, Visa may ask you to voluntarily submit information about other people. For example, this may be done to send them a link to a web page or sign them up for a promotion.</p>
+
+<p>Once you choose to provide us with personal information, you can be assured it will be used only to support your relationship with Visa. We take seriously the trust you place in us and will not sell, rent or lease your personal information to others.</p>
+
+<p><strong>Non-Personally Identifiable Information</strong><br>
+Non-Personally Identifiable Information ("non-personal information") is information that does not identify you as an individual, such as your browser type, IP Address, the URL of the previous web site you visited, etc. Visa may automatically collect certain types of non-personal information from you when using the Visa site. We may also collect non-personal information that you voluntarily provide, such as information included in response to a questionnaire or survey.</p>
+			</div>
+
+<a href="#Ancla" class="Head" onclick="toggler('Layer3')">» Why we collect your information</a>
+			<div style="display:none;" id="Layer3">
+					<p>
+							Visa's primary purpose in collecting personal information on the Visa site is to provide you with a safe and efficient experience and to provide you with services and features that better meet your needs or requests. We only collect information that we consider necessary for achieving this purpose.</p>
+			</div>
+			<a href="#Ancla" class="Head" onclick="toggler('Layer4')">» How we collect information</a>
+			<div style="display:none;" id="Layer4">
+
+				<p> <strong>Information Collected Through You</strong>
+				If you choose to use certain services on the Visa site, we may require you to provide contact and identity information. Where possible, we indicate which fields are required and which fields are optional. If you choose not to use a particular service or feature, you do not have to provide the contact or identity information it calls for.</p>
+				<p><strong>Non-Personally Identifiable Information Collected Through Technology</strong><br></p>
+				<p>Cookies:<br>
+				The Visa site may use cookie technology to improve your experience on the Visa site and gather data for web site statistical reporting. Cookie technology does not capture your individual email address or any personal information about you.</p>
+				<p>A cookie is a small piece of information sent by a web site that is saved on your hard disk by your computer's browser. It holds information a site may need to personalize your experience (i.e., rotating images on Visa.com home page) and gathers web site statistical data, such as which pages are visited, what is downloaded, the Internet provider's domain name and country that our visitors come from and the addresses of sites visited immediately before and after coming to the Visa site. However, none of this is associated with you as an individual and is measured only in aggregate.</p>
+
+				<p>To browse without cookies, you can configure your browser to reject all cookies or to notify you when a cookie is set. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.) Your experience of the Visa site may be different if you set your browser to block cookies.</p>
+				<p>The Visa site may use web beacons to serve advertising, enhance email advertising and track usage of the Visa site. We use third parties to manage web beacons and the data they collect. Web beacons do not capture your individual email address or any other personal information.</p>
+				<p>Web beacons:<br>
+				Web beacons, also called clear GIFs (a common format for image files), are invisible files on web pages that you visit. If you visit a page on Visa.com that contains a web beacon, it communicates with your computer to determine, among other things, whether you have been to that page before or viewed a particular advertisement.</p>
+				<p>IP Address:<br>
+				The Visa site may collect IP addresses for the purposes of systems administration, server problem diagnosis and compiling aggregate information (such as how many visitors logged on to the Visa site). When you visit a particular web page on the Visa site, our servers log your IP address. An IP address is a number that is assigned to your computer automatically when you use the Internet. </p>
+
+			</div>
+			<a href="#Ancla" class="Head" onclick="toggler('Layer5')">» Who we share information with</a>
+			<div style="display:none;" id="Layer5">
+					<p>
+							We take seriously the trust you place in us and will not sell, rent or lease your information to others.
+
+</p><p>Visa employs other companies and individuals ("agents") to perform services on behalf of the Visa site, such as administering sweepstakes and contests, sending emails, providing marketing assistance, web site management and analyzing data. Such agents will have access to personal and non-personal information only as necessary to perform their services for us and are not permitted to use it for any other purpose.</p>
+
+<p>Visa may also work with other companies ("partners") to provide co-branded services or promotions. To provide a co-branded service to you, it may be necessary for us to share your personal information with our partners. The partner will only be able to use the information as necessary to perform the requested service or in aggregate form for statistical reporting.</p>
+
+<p>Remember, if you go to other web sites, including those of our partners, advertisers, merchants and other sites that link to our site, those other sites may collect personal and non-personal information about you. The information practices of those other sites are not covered by this Policy. We have no liability or responsibility for those sites or their own policies.</p>
+
+<p>Disclosure of personal information for legal purposes and protection of Visa and others: Visa reserves the right to share your personal information with third parties if we believe such action is necessary in order to: (a) conform with the requirements of the law or to comply with legal process served upon us; (b) protect or defend our legal rights or property, the Visa site or our users; or (c) investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person or violations of the terms and conditions of using the Visa site.</p>
+			</div>
+			<a href="#Ancla" class="Head" onclick="toggler('Layer6')">» Your choices and opting out</a>
+			<div style="display:none;" id="Layer6">
+					<p>
+							The Visa site will contact you only if you elect to be contacted.</p>
+
+<p>If you choose to receive email messages, the Visa site may periodically send you email messages describing updates, new features or promotional offers related to this web site. You can choose to stop receiving this email at any time. Simply follow the instructions included in your email or send a reply stating your request.</p>
+
+<p>If you do not explicitly choose to receive informational emails, the only email messages you will receive from the Visa site will be in response to email inquiries that you send us.</p>
+
+<p>At ny time, you can "opt-out" of receiving direct mail and marketing material from the Visa site, such as product and service updates, by following the instructions included in your email or by sending a reply stating your request, and we will make the requested change</p>
+			</div>
+			<a href="#Ancla" class="Head" onclick="toggler('Layer7')">» Children's privacy</a>
+			<div style="display:none;" id="Layer7">
+
+					<p>
+							The Visa site is not intended for use by children. We do not knowingly collect information from children under the age of 13. If we learn that personal information on a child under the age of 13 is collected, we will delete that information from our systems. We encourage parents and guardians to be familiar with the web sites that their children visit.</p>
+			</div>
+			<a href="#Ancla" class="Head" onclick="toggler('Layer8')">» Keeping your information secure</a>
+			<div style="display:none;" id="Layer8">
+					<p>
+							The security of your personal information is very important to us, and we are committed to protecting the information that we collect. We have security measures in place at our facilities to protect against the loss, misuse or alteration of information that Visa has collected from you at our web site.</p>
+
+<p>Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100 percent secure. As a result, while we strive to protect your personal informatio, Visa cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk.</p>
+			</div>
+			<a href="#Ancla" class="Head" onclick="toggler('Layer9')">» Acceptance of policy</a>
+			<div style="display:none;" id="Layer9">
+					<p>
+							By visiting the Visa site, you are accepting the terms and conditions of this Policy, and we have the right to use your information as described in this Policy. We reserve the right to modify this Policy at any time. Your continued use of the Visa site after we either personally notify you or generally post such changes on the Visa site will constitute your acceptance of those changes.</p>
+
+<p>This Policy applies only with respect to the information that we collect on the Visa site and not to any information that Visa collects through other methods or sources.
+
+</p><p>If for some reason you believe that the Visa site has not adhered to this Policy, please notify us at one of the addresses below.</p>
+			</div>
+			<a href="#Ancla" class="Head" onclick="toggler('Layer10')">» Changes to statement</a>
+			<div style="display:none;" id="Layer10">
+					<p>
+							Visa may modify or amend this Policy from time to time. In an effort to keep you informed of changes to this Policy, please note that the latest revision occurred in September 2004. Changes to this Policy will not affect our use of previously provided personal information.</p>
+			</div>
+
+			<a href="#Ancla" class="Head" onclick="toggler('Layer11')">» Contacting us</a>
+			<div style="display:none;" id="Layer11">
+					<p>
+							Please note that whenever you submit any information to us in connection with any of the Visa site -related services, you consent to Visa's processing of this information in the United States as necessary to provide the services in which you are participating.</p>
+
+<p>If you have any questions or comments about the Visa site Policy and/or the way it affects you, please feel free to contact us by:</p>
+
+<p>Sending a letter via US Mail to:<br><br>
+
+Attention: Visa.com/M1-12A<br>
+Visa International<br>
+P.O. Box 8999<br>
+San Francisco, CA 94128-8999<br>
+</p>
+			</div>
+		</div>
 
 
-<title></title>
+	
+	
+	</div>
+	<h6 class="BoxEnd"><!-- --></h6>
+	</div>
+</div>
+
+
+  <div class="Footer">
+	<div class="MainBox">
+		<h2><img src="images/platinum/esp/layout/visa.gif" width="61" height="20" alt="VISA"></h2>
+		<!--<h3><a href="get_your_card">Get your card</a> &nbsp;|&nbsp;  <a href="lost_your_card">Lost your card?</a> &nbsp;|&nbsp;  <a href="lost_your_card.jsp">Contact Visa</a></h3>
+		<h4><a href="../">SELECT OTHER COUNTRY</a></h4>-->
+
+		<p>© 2009 Visa. All Rights Reserved &nbsp;|&nbsp; <a href="gateway">Select your country</a> &nbsp;|&nbsp; <a href="legal_gateway">Legal</a> &nbsp;|&nbsp; <a href="privacy_gateway">Privacy Policy</a> &nbsp;|&nbsp; <a href="http://www.visa.com/globalgateway" target="_blank">Global Sites</a></p>
+	</div>
+
+</div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-2344856-19");
+pageTracker._trackPageview();
+} catch(err) {}</script>
 
 
 
 
-<table border="0" width="763" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td width="100%" bgcolor="#000000"><table border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td><table border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td valign="top"><table border="0" width="100%" cellspacing="0" cellpadding="0">
-              <tbody><tr>
-                <td><map name="FPMap0">
-                  <area href="https://www.visa-platinum.com/login.asp" coords="576, 6, 752, 118" shape="rect"></map><img border="0" src="../images/eng/banner.jpg" usemap="#FPMap0"></td>
-                <td width="355">
-                  <p align="right">
-    </p></td>
-              </tr>
-              <tr>
-                <td width="100%" colspan="2" bgcolor="#003366" align="center"><a href="../about/default.asp?security=705547.511577606"><img src="../images/eng/menupub_about.gif" border="0"></a><a href="../promotions/default.asp?security=533424.019813538"><img src="../images/eng/menupub_exclusive.gif" border="0"></a><a href="../expectations/default.asp?security=579518.616199493"><img src="../images/eng/menupub_expectations.gif" border="0"></a><a href="../concierge/default.asp?security=289562.463760376"><img src="../images/eng/menuhome_concierge.gif" border="0"></a><a href="../links/default.asp?security=301948.010921478"><img src="../images/eng/menuhome_links.gif" border="0"></a><a href="../default.asp?security=774740.099906921"><img src="../images/eng/menupub_home.gif" border="0"></a></td>
-              </tr>
-            </tbody></table>
-            </td>
-          </tr>
-        </tbody></table>
-        </td>
-      </tr>
-      <tr>
-        <td bgcolor="#FFFFFF" width="763"><table border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td width="1" height="20" bgcolor="#B2B2B2"><img src="../images/pixel_transp.gif" width="1" height="1"></td>
-            <td width="763" height="20" bgcolor="#B2B2B2"></td>
-            <td></td>
-          </tr>
-        </tbody></table>
-        </td>
-      </tr>
-      <tr>
-        <td bgcolor="#FFFFFF" width="763" height="19">&nbsp;&nbsp;&nbsp; </td>
-      </tr>
-    </tbody></table>
-    </td>
-  </tr>
-</tbody></table>
-
-
-
-</td>
-  </tr>
-  <tr>
-    <td width="100%"><table border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td width="743" valign="top"><table border="0" width="100%" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td width="100%"><table border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr>
-                <td background="../images/trama.gif" valign="top" width="177">&nbsp;<p>&nbsp;</p>
-                <p>&nbsp;</p></td>
-                <td valign="top"><table border="0" cellspacing="0" cellpadding="0">
-                  <tbody><tr>
-                    <td width="40"></td>
-                    <td><img src="../images/eng/privacy_tit.gif"></td>
-                  </tr>
-                  <tr>
-                    <td width="40" height="15"></td>
-                    <td width="410" height="15"></td>
-                  </tr>
-                  <tr>
-                    <td width="40"></td>
-                    <td width="410"><div class="basictext"><p>Visa wants you to feel secure when visiting Visalatam.com. Committed to protecting your privacy, Visa ("we", "us" or "our") safeguards your personal information to maintain customer trust. </p><p>Visa respects the privacy of visitors of Visa.com and its related sites (collectively "Visa site") by disclosing and explaining in this Privacy Policy ("Policy") how Visa collects, uses and shares information about you from Visa.com and the choices that you can make about the way your information is collected, used and shared. Visa encourages you to read this Policy and those of all web sites you visit. </p><p>The following sections address the Visa site's privacy issues in more detail: </p><p>01. Sites covered by this Privacy Policy<br>02. Types of information collected on Visa.com<br>03. Why we collect your information<br>04. How we collect information  <br>05. Who we share information with<br>06. Your choices and opting out  <br>07. Children's privacy  <br>08. Keeping your information secure<br>09. Acceptance of policy<br>10. Changes to statement<br>11. Contacting us</p><p><b>01. Sites covered by this Privacy Policy </b></p><p>This Policy applies to all services and sub-sites available under the domain www.visa.com (excluding usa.visa.com). Although this is a global privacy policy, each regional or country site may have rules and regulations that are not covered by this Policy. We encourage you to read your regional or country's privacy policy before using the site. By visiting this web site, you are agreeing in advance to the current and future terms of this Policy. If you do not wish to agree to these terms, you should leave this web site. </p><p><b>02. Types of information collected on Visa-infinite.com </b></p><p>There are two types of information collected on the Visa site: Personally Identifiable Information and Non-Personally Identifiable Information. </p><p><b>Personally Identifiable Information </b></p><p>Personally Identifiable Information ("personal information") is information that identifies you as an individual, such as your name, mailing address, email address, age range, etc. Personal information is only obtained when you voluntarily provide the information to us. Visa uses personal information to better understand your needs and interests and to provide you with better service. For example, you may be asked to voluntarily submit your email address to us when communicating with us or your name and email address when entering a sweepstakes or contest.</p><p>On occasion, Visa may ask you to voluntarily submit information about other people. For example, this may be done to send them a link to a web page or sign them up for a promotion. </p><p>Once you choose to provide us with personal information, you can be assured it will be used only to support your relationship with Visa. We take seriously the trust you place in us and will not sell, rent or lease your personal information to others. </p><p><b>Non-Personally Identifiable Information </b></p><p>Non-Personally Identifiable Information ("non-personal information") is information that does not identify you as an individual, such as your browser type, IP Address, the URL of the previous web site you visited, etc. Visa may automatically collect certain types of non-personal information from you when using the Visa site. We may also collect non-personal information that you voluntarily provide, such as information included in response to a questionnaire or survey. </p><p><b>03. Why we collect your information</b></p><p>Visa's primary purpose in collecting personal information on the Visa site is to provide you with a safe and efficient experience and to provide you with services and features that better meet your needs or requests. We only collect information that we consider necessary for achieving this purpose. </p><p><b>04. How we collect information </b></p><p><b>Information Collected Through You &lt;</b></p><p>If you choose to use certain services on the Visa site, we may require you to provide contact and identity information. Where possible, we indicate which fields are required and which fields are optional. If you choose not to use a particular service or feature, you do not have to provide the contact or identity information it calls for.</p><p><b>Non-Personally Identifiable Information Collected Through Technology<br>Cookies:</b></p><p>The Visa site may use cookie technology to improve your experience on the Visa site and gather data for web site statistical reporting. Cookie technology does not capture your individual email address or any personal information about you.</p><p>A cookie is a small piece of information sent by a web site that is saved on your hard disk by your computer's browser. It holds information a site may need to personalize your experience (i.e., rotating images on Visa.com home page) and gathers web site statistical data, such as which pages are visited, what is downloaded, the Internet provider's domain name and country that our visitors come from and the addresses of sites visited immediately before and after coming to the Visa site. However, none of this is associated with you as an individual and is measured only in aggregate.</p><p>To browse without cookies, you can configure your browser to reject all cookies or to notify you when a cookie is set. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.) Your experience of the Visa site may be different if you set your browser to block cookies. </p><p><b>Web Beacons: </b><br>The Visa site may use web beacons to serve advertising, enhance email advertising and track usage of the Visa site. We use third parties to manage web beacons and the data they collect. Web beacons do not capture your individual email address or any other personal information.</p><p>Web beacons, also called clear GIFs (a common format for image files), are invisible files on web pages that you visit. If you visit a page on Visa.com that contains a web beacon, it communicates with your computer to determine, among other things, whether you have been to that page before or viewed a particular advertisement. </p><p><b>IP Address:</b><br>The Visa site may collect IP addresses for the purposes of systems administration, server problem diagnosis and compiling aggregate information (such as how many visitors logged on to the Visa site). When you visit a particular web page on the Visa site, our servers log your IP address. An IP address is a number that is assigned to your computer automatically when you use the Internet. </p><p><b>05. Who we share information with </b></p><p>We take seriously the trust you place in us and will not sell, rent or lease your information to others.</p><p>Visa employs other companies and individuals ("agents") to perform services on behalf of the Visa site, such as administering sweepstakes and contests, sending emails, providing marketing assistance, web site management and analyzing data. Such agents will have access to personal and non-personal information only as necessary to perform their services for us and are not permitted to use it for any other purpose.</p><p>Visa may also work with other companies ("partners") to provide co-branded services or promotions. To provide a co-branded service to you, it may be necessary for us to share your personal information with our partners. The partner will only be able to use the information as necessary to perform the requested service or in aggregate form for statistical reporting. </p><p>Remember, if you go to other web sites, including those of our partners, advertisers, merchants and other sites that link to our site, those other sites may collect personal and non-personal information about you. The information practices of those other sites are not covered by this Policy. We have no liability or responsibility for those sites or their own policies. </p><p><i>Disclosure of personal information for legal purposes and protection of Visa and others: </i>Visa reserves the right to share your personal information with third parties if we believe such action is necessary in order to: (a) conform with the requirements of the law or to comply with legal process served upon us; (b) protect or defend our legal rights or property, the Visa site or our users; or (c) investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person or violations of the terms and conditions of using the Visa site. </p><p><b>06. Your choices and opting out </b></p><p>The Visa site will contact you only if you elect to be contacted. </p><p>If you choose to receive email messages, the Visa site may periodically send you email messages describing updates, new features or promotional offers related to this web site. You can choose to stop receiving this email at any time. Simply follow the instructions included in your email or send a reply stating your request. </p><p>If you do not explicitly choose to receive informational emails, the only email messages you will receive from the Visa site will be in response to email inquiries that you send us. </p><p>At ny time, you can "opt-out" of receiving direct mail and marketing material from the Visa site, such as product and service updates, by following the instructions included in your email or by sending a reply stating your request, and we will make the requested changes.</p><p><b>07. Children's privacy </b></p><p>The Visa site is not intended for use by children. We do not knowingly collect information from children under the age of 13. If we learn that personal information on a child under the age of 13 is collected, we will delete that information from our systems. We encourage parents and guardians to be familiar with the web sites that their children visit. </p><p><b>08. Keeping your information secure</b></p><p> The security of your personal information is very important to us, and we are committed to protecting the information that we collect. We have security measures in place at our facilities to protect against the loss, misuse or alteration of information that Visa has collected from you at our web site. </p><p>Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100 percent secure. As a result, while we strive to protect your personal informatio, Visa cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. </p><p><b>09. Acceptance of policy </b></p><p>By visiting the Visa site, you are accepting the terms and conditions of this Policy, and we have the right to use your information as described in this Policy. We reserve the right to modify this Policy at any time. Your continued use of the Visa site after we either personally notify you or generally post such changes on the Visa site will constitute your acceptance of those changes. </p><p>This Policy applies only with respect to the information that we collect on the Visa site and not to any information that Visa collects through other methods or sources. </p><p>If for some reason you believe that the Visa site has not adhered to this Policy, please notify us at one of the addresses below. </p><p><b>10. Changes to statement </b></p><p>Visa may modify or amend this Policy from time to time. In an effort to keep you informed of changes to this Policy, please note that the latest revision occurred in September 2004. Changes to this Policy will not affect our use of previously provided personal information. </p><p><b>11. Contacting us </b></p><p>Please note that whenever you submit any information to us in connection with any of the Visa site -related services, you consent to Visa's processing of this information in the United States as necessary to provide the services in which you are participating. </p><p>If you have any questions or comments about the Visa site Policy and/or the way it affects you, please feel free to contact us by: </p><p>Sending a letter via US Mail to:</p><p>Attention: Visa.com/M1-12A <br>Visa International <br>P.O. Box 8999 <br>San Francisco, CA 94128-899</p></div></td>
-                  </tr>
-                  <tr>
-                    <td width="40"></td>
-                    <td width="410"></td>
-                  </tr>
-                </tbody></table>
-                </td>
-              </tr>
-              <tr>
-                <td background="../images/trama.gif"></td>
-                <td valign="top">
-<table border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td valign="middle" height="25" width="60"></td>
-</tr>
-<tr>
-  <td valign="middle" width="60"></td>
-  <td>
-		<table border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr>
-			<td align="right">
-				<table border="0" width="100%" cellspacing="0" cellpadding="0">
-					<tbody><tr>
-						<td width="75%"><font face="Arial" size="1" color="#00152A"><span class="copyright"><a href="../legal/legal.asp">Legal</a>&nbsp; </span>|<span class="copyright"> &nbsp; <a href="../legal/privacy.asp">Privacy</a>&nbsp; | &nbsp;<a href="../legal/security.asp">Security Tips</a></span><br>
-						<span class="copyright"><a href="http://www.visa.com" target="_blank">To learn more about Visa Worldwide</a></span></font></td>
-						<td width="25%" align="right"><img src="../images/eng/logo_bandera.gif"></td>
-					</tr>
-				</tbody></table>
-			</td>
-		</tr>
-		<tr>
-			<td><img src="../images/line_dot.gif" width="410" height="2"></td>
-		</tr>
-		<tr>
-			<td height="20" valign="bottom"><font color="#808080" face="Arial" size="1"><span class="copyright">© Copyright 1996-2005, Visa International Service Association. All rights reserved.</span></font></td>
-		</tr>
-		</tbody></table>
-  </td>
-</tr>
-</tbody></table>
-
-                </td>
-              </tr>
-            </tbody></table>
-            </td>
-          </tr>
-        </tbody></table>
-        </td>
-        <td width="20" valign="top" background="../images/trama_lateral.gif"><img src="../images/pixel_transp.gif" width="1" height="1"></td>
-      </tr>
-    </tbody></table>
-    </td>
-  </tr>
-</tbody></table>
 
 
 </body></html>
