@@ -1,23 +1,59 @@
-> *The following text is extracted and transformed from the epiloglaser.com privacy policy that was archived on 2009-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090212055943id_/http%3A//epiloglaser.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epiloglaser.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212185029id_/http%3A//www.epiloglaser.com/privacy.htm) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
-**Privacy Policy**   
-Epilog Laser will not share or trade your personal information collected from you on our web site. The information is used by Epilog and our distributors to provide you with the information you are requesting about our products. 
+Effective **04/06/09**
 
-|   
----  
-  
-| [  
-Site Map ](https://web.archive.org/site_map.htm) | 
+**Privacy Notice Table Of Contents:**   
 
-16371 Table Mountain Parkway · Golden, CO 80403· 888-437-4564  
-**[sales@epiloglaser.com](mailto:%20sales@epiloglaser.com) · ****© Epilog Laser 2005**  
-  
----|---  
-  
-|    
----  
-|   
----  
- 
+
+  * Our Commitment To Privacy
+  * The Information We Collect
+  * How We Use Information
+  * Our Commitment To Data Security
+  * Our Commitment To Children's Privacy
+  * How To Access Or Correct Your Information
+  * How To Contact Us
+
+**Our Commitment To Privacy**
+
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+
+**The Information We Collect:**
+
+This notice applies to all information collected or submitted on the Epilog Laser website. On some pages, you can make requests and register to receive materials. The types of personal information collected at these pages are: 
+
+Name   
+Address   
+Company name  
+Email address   
+Phone number
+
+**The Way We Use Information:**
+
+We use the information you provide about yourself when placing an order only to send you brochures and samples. We do not share this information with outside parties except to the extent necessary to complete that request. 
+
+We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
+
+You can register with our website if you would like to receive our catalog as well as updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form. 
+
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
+
+**Our Commitment To Data Security**
+
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+
+**How You Can Access Or Correct Your Information**
+
+You can access all your personally identifiable information that we collect online and maintain by emailing [sales@epiloglaser.com](mailto:sales@epiloglaser.com). We use this procedure to better safeguard your information. 
+
+You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
+
+To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
+
+**How To Contact Us**
+
+Should you have other questions or concerns about these privacy policies, please call us at 888-437-4564 or send us an email at [sales@epiloglaser.com](mailto:sales@epiloglaser.com). 
+
+
+
