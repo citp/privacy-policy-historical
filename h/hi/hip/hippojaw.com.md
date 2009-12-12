@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the hippojaw.com privacy policy that was archived on 2009-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090630092048id_/http%3A//www.hippojaw.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hippojaw.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212053500id_/http%3A//www.hippojaw.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # hippoJaw - Privacy Policy
 
-This privacy policy sets out how "Scoritz Limited" uses and protects any information that you give "Scoritz Limited" when you use this website.
+This privacy policy sets out how we use and protect any information that you give us when you use this website.
 
-"Scoritz Limited" is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+We are committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-"Scoritz Limited" may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 01/10/2008.
+We may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 01/10/2008.
 
   
 **What we collect**
@@ -67,6 +67,6 @@ We will not sell, distribute or lease your personal information to third parties
 
 We will not utilise any customer tracking data collected for personal or business gain. Specifically, we will never use Adwords tracking data to influence or create/amend our own PPC campaigns.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Scoritz Limited, The Old Post House, Heath Road, Weybridge, Surrey, KT13 8TS UK.
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please email us.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
