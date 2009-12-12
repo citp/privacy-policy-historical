@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewrap.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611162526id_/http%3A//www.thewrap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewrap.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212085856id_/http%3A//www.thewrap.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Wrap
 
