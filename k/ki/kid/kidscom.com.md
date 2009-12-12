@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the kidscom.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531160934id_/http%3A//www.kidscom.com/info/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidscom.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212030130id_/http%3A//www.kidscom.com/info/privacy_policy.html) for the most accurate reproduction.*
 
 # KidsCom - Privacy Policy
 
 **KidsCom.com Privacy Policy**
 
-For more than fourteen (14) years, KidsCom.com has been striving to create safe, educational and entertaining electronic playgrounds for kids 8 to 15. In that time, kids, parents and teachers from more than 120 countries around the world have joined us. Our mission is to give kids a voice to the world and to each other through a variety of engaging activities.
+KidsCom.com, launched in 1995, is the longest running online family-oriented community. Kids, parents and teachers from more than 202 countries around the world have joined us in our mission to give kids a voice to the world and to each other through a variety of engaging activities. We partner with other virtual worlds, gaming sites, content providers, consumer products companies and real world destinations to create one safe, educational and fun Virtual Universe.
 
 Anyone can play on KidsCom.com. It is free and Idea Seeker or Ally registration is not required. Some areas of the site, however, are reserved for registered Idea Seeker Members and Allies who have obtained their parent's permission.
 
-KidsCom.com follows the FTC guidelines for compliance with the Children's Online Privacy Protection Act and Rule. No personal information provided to KidsCom.com by its registered Idea Seeker Members or Allies is sold or rented to any third parties (COPPA).
+KidsCom.com follows the FTC guidelines for compliance with the Children's Online Privacy Protection Act and Rule.
 
 **Idea Seeker Registration**
 
 **Who needs to register?**  
-Registration is not required to play on and explore much of KidsCom.com. Registering as an Idea Seeker Member or Ally is only required for kids who want to chat on KidsCom.com, join the Find a KeyPal program, adopt and care for a Plant Baby, explore many areas of the Idea Seeker Universe and be included in other special activities and promotions. KidsCom.com does not require, as a condition of participation, any Idea Seeker Member or Ally to disclose more information than is reasonably necessary for them to participate in an activity. An enhanced membership is available. This paid membership provides kids and parents with even more content and activity access.
+Registration is not required to play on and explore much of KidsCom.com. Registering as an Idea Seeker Member or Ally is only required for kids who want to chat on KidsCom.com, join the Find a KeyPal program, adopt and care for a Plant Baby, explore many areas of the Idea Seeker Universe and be included in other special activities and promotions. KidsCom.com does not require, as a condition of participation, any Idea Seeker Member or Ally to disclose more information than is reasonably necessary for them to participate in an activity. A premium membership is available. This paid membership provides kids and parents with even more content and activity access.
 
 **What info is collected?**  
 KidsCom.com is not permitted to collect more personal information than is reasonably necessary to permit a child to participate in activities on the site.
@@ -25,20 +25,20 @@ When a kid wants to become a registered Idea Seeker Member or Ally, we ask for t
   * Child's first name and screen name 
   * Child's date of birth 
   * Child's gender 
-  * Child's city, state, zip code, and country 
+  * Child's country 
   * Parent or guardian's e-mail address 
 
 This information is requested regardless of the age of the child. If kids would like to participate in KeyPal or Friend-to-Friend Messaging, it is required that they print out the registration form, have their parent or guardian sign it, and then mail or fax it to us as verification of parental consent to participate in these activities.
 
-KidsCom.com uses this information to create and maintain separate Idea Seeker Ally and Member registration records for each child. E-mail addresses are used to communicate with Idea Seeker Members or Allies and their parents about activities on the site and other features. Date of birth, gender, city state, zip code and country are collected to help us develop the most appropriate content for our visitors. None of this information is sold or rented to any third parties.
+KidsCom.com uses this information to create and maintain separate Idea Seeker Ally and Member registration records for each child. E-mail addresses are used to communicate with Idea Seeker Members or Allies and their parents about activities on the site and other features. Date of birth, gender, city state, zip code and country are collected to help us develop the most appropriate content for our visitors.
 
 We encourage parents to be involved with all of their child's online activities.
 
-On the page where a kid or parent can update a kid's registration information, kids can voluntarily indicate how they learned of KidsCom.com by clicking one of seven choices: A friend, A parent, A search engine, A link from another site, A teacher, Surfing the Web, Some other way. We use this information to help guide our efforts to let more kids, parents and teachers know about KidsCom.com. 
+On the page where a kid or parent can update a kid's registration information, kids can voluntarily indicate how they learned of KidsCom.com by clicking one of seven choices: A friend, A parent, A search engine, A link from another site, A teacher, Surfing the Web, Some other way. We use this information to help guide our efforts to let more kids, parents and teachers know about KidsCom.com. Thy can also provide their city and state, which we use if we host real world events in specific locations. 
 
 All personal information collected on KidsCom.com is done so directly from the parent or child. No personal information is collected from users through cookies or other passive means.
 
-The KidsCom.com site may contain links to sites of sponsors and advertisers whose privacy policy and practices are different than our own. It is important for KidsCom.com visitors to always review a site's privacy policy before releasing any personal information. This includes content and promotions featured on the KidsCom.com site. At no time will KidsCom.com release any personal information we collect to a third-party site without permission of parents or guardians.
+The KidsCom.com site may contain links to sites of sponsors and advertisers whose privacy policy and practices are different than our own. It is important for KidsCom.com visitors to always review a site's privacy policy before releasing any personal information. This includes content and promotions featured on the KidsCom.com site.
 
 KidsCom.com uses every means available to safeguard the personal information of our Idea Seeker Members, Allies and site visitors, including a secure physical location and a protected electronic environment.
 
@@ -50,12 +50,28 @@ KidsCom.com uses every means available to safeguard the personal information of 
 
 **Find a KeyPal Program-** This program, popular with classroom teachers, allows kids to find electronic pen pals from around the world. Only kids with a parent's permission can participate in the program. When kids search for a KeyPal, they'll be given the first name, hometown and country of their KeyPal, plus an e-mail address and other fun facts kids have provided (such as favorite TV show or music group, hobbies, etc.). Kids can have as many KeyPals as they want, but this information is given out just one child at a time to prevent anyone from getting a large number of names at once. This is the only area on KidsCom.com where a child's e-mail address is allowed to be shared. We strongly encourage parents to responsibly monitor their child's e-mail activities. Idea Seeker Member or Ally registration is required to ensure that each child participating in KeyPal has parental permission.
 
-**Friend-to-Friend Messaging-** Friend-to-Friend messaging allows Idea Seekers (paid members) to send private messages to other kids on their Friends List. Only Idea Seekers with a parent's permission can participate in this program. The messages can only include words from our Keep it Safe, Keep it Clean Dictionary, but we still strongly encourage parents to monitor their child's messages. Idea Seeker registration is required to ensure that each child has parental permission.   
-We do not release, sell or in any way provide the names or identities of Idea Seeker Members or Allies to any marketers. We do not now and we never have.
+**Friend-to-Friend Messaging-** Friend-to-Friend messaging allows Idea Seekers (paid members) to send private messages to other kids on their Friends List. Only Idea Seekers with a parent's permission can participate in this program. The messages can only include words from our Keep it Safe, Keep it Clean Dictionary, but we still strongly encourage parents to monitor their child's messages. Idea Seeker registration is required to ensure that each child has parental permission.
 
 **Tell-A-Friend Messaging**
 
 There are several places on KidsCom where kids can send an e-mail to a friend telling them about the site. The Tell-A-Friend form asks for the sender's first name and their friend's first name and e-mail address. The e-mail address is used only to send an e-mail with information about KidsCom to the friend. It is not stored by KidsCom or used for any other purpose.
+
+**Does KidsCom.com share registration information?**
+
+KidsCom.com is seeking out partners with content that offers families wholesome fun for their kids, as well as an opportunity to do good in the real world or to bring families together in play -- we call this group of kid-friendly sites the Idea Seeker Universe.
+
+To make it easy for kids to visit all the sites, we will pass-through the registration information from our site to our partner sites. This allows kids to play within the Universe of sites without stopping to register at each site. It also gives them one username and password to remember to access all sites. All our partner sites are COPPA-compliant. The information we share with our partners is not the child's personally identifiable information. We will share:
+
+  * User name 
+  * Password 
+  * Child's birthdate 
+  * Child's gender 
+  * Child's country 
+  * Parent or guardian's e-mail address 
+
+
+
+You can view the partners that are part of the Idea Seeker Universe here: <http://www.my.kidscom.com/jsp_a01_mkc/jsp_a01_b01_pb/planets.jsp>
 
 **Does KidsCom.com use cookies?**
 
@@ -76,4 +92,11 @@ Parents of Idea Seekers (paid members) need to cancel the subscription before th
 **Who can parents contact if they have more questions?**   
 If you have any additional questions or concerns about KidsCom.com, please contact the KidsCom.com staff. You can e-mail us at [staff@kidscom.com](mailto:staff@kidscom.com) or call us at 414.271.5437. 
 
-KidsCom.com is published by Circle 1 Network. Our offices are at 131 West Seeboth Street, Milwaukee, Wisconsin, 53204. 
+**Acceptance of Privacy Policy**
+
+This Privacy Policy outlines the information usage practices of KidsCom.com. By accessing, browsing or using this Web site or by submitting your personal information to KidsCom.com, you signify your agreement to the terms and conditions of this policy. If you do not agree to this policy, please do not submit your personal information to us. We reserve the right, at our discretion, to change, modify, add or remove portions of this Policy at any time. If at some point in the future, there is a material change to our information usage practices that affects your personal information, you will be notified of such change by a conspicuous posting on the Web site. Depending on the changes made, you may be unable to utilize a KidsCom.com service or Web site if you choose not to agree to a modification to this Privacy Policy. Your acceptance of a revised policy, which may be through an opt-in or opt-out mechanism following the effective date of any changes to this Privacy Policy shall mean that you have accepted those changes, subject to your continuing right to notify us at any time as to how you would like us to treat your personal information. 
+
+KidsCom.com is published by Circle 1 Network. Our offices are at 131 West Seeboth Street, Milwaukee, Wisconsin, 53204.
+
+  
+Effective date: August 28, 2009 
