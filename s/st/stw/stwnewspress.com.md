@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stwnewspress.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603050748id_/http%3A//www.stwnewspress.com/homepage/resources_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stwnewspress.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212132527id_/http%3A//www.stwnewspress.com/homepage/resources_privacypolicy) for the most accurate reproduction.*
 
 # Stillwater NewsPress - Home
 
