@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the figis.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627215512id_/http%3A//www.figis.com/orderinfo/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the figis.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212011455id_/http%3A//www.figis.com/orderinfo/privacy.asp) for the most accurate reproduction.*
 
 # Figi's - Privacy Policy
 
@@ -20,7 +20,7 @@
 
 
 **This policy was last updated and posted in March 2008.**  
-This Web site is operated by Crosstown Traders on behalf of Figi's Inc., both affiliates of Charming Shoppes, Inc.
+This Web site is operated by Figi's Inc., an affiliate of Charming Shoppes, Inc.
 
 Charming Shoppes, Inc. and its affiliates are committed to respecting your privacy and recognize the need for appropriate protection and management of the personally identifiable and personal information you share with us.
 
