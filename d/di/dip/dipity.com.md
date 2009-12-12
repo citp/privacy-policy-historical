@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dipity.com privacy policy that was archived on 2009-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090226042641id_/http%3A//www.dipity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dipity.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212080732id_/http%3A//www.dipity.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -33,6 +33,8 @@ Dipity does not sell or rent personal information about its customers to any thi
 Dipity cooperates with all law enforcement inquires and with all third parties to enforce their intellectual property or other rights. 
 
 You should be aware that if you voluntarily disclose personal information in chat areas, on bulletin boards, or in classified areas within the Dipity Site, that information might be collected and disseminated by third-parties, and result in, among other things, unsolicited inquiries, messages, and offers from third-parties. Please understand that any information that is disclosed in these areas becomes public information and this third-party conduct is out of the control of Dipity. Please exercise caution when deciding to disclose your personal information. 
+
+Dipity may use third-party advertising companies to serve ads when you visit our website. These companies may use non-personally identifiable information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
 The Dipity Site also contains links to other web sites. Dipity is not responsible for the privacy practices or the content of such web sites.
 
