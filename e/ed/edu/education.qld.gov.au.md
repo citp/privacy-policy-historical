@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the education.qld.gov.au privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611163449id_/http%3A//education.qld.gov.au/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the education.qld.gov.au privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212132526id_/http%3A//education.qld.gov.au/home/privacy.html) for the most accurate reproduction.*
 
 # Education Queensland
 
@@ -19,18 +19,20 @@ When you visit this website, our web measurement tool and Internet Service Provi
 
 
 
-No attempt is or will be made to identify your personal details except in the event of an investigation when a law enforcement agency may exercise a warrant to inspect our service providers' logs.
+No attempt is or will be made to identify you or to use or disclose your personal information except where required under a law, for example, a law enforcement agency may exercise a warrant to inspect our service providers' logs.
 
 ## Email
 
-This is a Queensland Government website. Email correspondence from this website will be treated as a public record and will be retained as required by the [Public Records Act 2002](http://www.legislation.qld.gov.au/LEGISLTN/CURRENT/P/PublicRecA02.pdf) [](https://web.archive.org/about/files/external.html "About external links") [PDF 428KB] and other relevant regulations.
+This is a Queensland Government website. Email correspondence from this website will be treated as a public record and will be retained as required by the [Public Records Act 2002](http://www.legislation.qld.gov.au/LEGISLTN/CURRENT/P/PublicRecA02.pdf) [](https://web.archive.org/about/files/external.html "About external links") [PDF 428KB].
 
-We will not use your personal information to compile a mailing list or for marketing purposes, and we will only collect and handle your personal information in accordance with the Information Privacy Principles in the Queensland Government's [Information Standard 42 - Information Privacy](http://www.qgcio.qld.gov.au/qgcio/architectureandstandards/informationstandards/toolbox/Pages/Information%20Privacy.aspx) [](https://web.archive.org/about/files/external.html "About external links") (available at the [Queensland Government Chief Information Office](http://www.qgcio.qld.gov.au/qgcio/Pages/index.aspx) [](https://web.archive.org/about/files/external.html "About external links") site ).
+We will collect and handle your personal information in accordance with the _Information Privacy Act 2009_. We will not use your personal information to compile a mailing list or for marketing purposes.
 
 Our Internet Service Provider may monitor email traffic for system trouble shooting and maintenance purposes only.
 
 ## Security
 
 This site contains links to non-Queensland Government websites. The Queensland Government is not responsible for the privacy or security practices or the content of such websites.
+
+Please contact Manager, Right to Information and Information Privacy at [rti@deta.qld.gov.au](mailto:rti@deta.qld.gov.au) if you have a concern or complaint about the way your personal information has been collected, used, stored or disclosed.
 
 ^ Top of page
