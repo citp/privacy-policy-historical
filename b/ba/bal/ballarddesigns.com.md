@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the ballarddesigns.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509090950id_/http%3A//www.ballarddesigns.com/Customer-Service/Privacy-Information/Your-Privacy-Rights/c/613) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ballarddesigns.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212162758id_/http%3A//www.ballarddesigns.com/Customer-Service/Privacy-Policy/Your-Privacy-Rights/c/2611) for the most accurate reproduction.*
 
-# Your Privacy Rights - Privacy Information - Ballard Designs
+# Your Privacy Rights - Privacy Policy - Ballard Designs
 
 ### **Your Privacy Rights**
 
-**Consumer Privacy at Ballard Designs, an IAC Company**
+**Consumer Privacy at Ballard Designs, an HSNi Company**
 
-Ballard Designs respects your privacy and is a member of the Direct Marketing Association (DMA) and follows the DMA privacy guidelines. The DMA's Mail Preference Service reduces the availability of your name and address to many other direct marketing companies. To learn more, click on [www.dmaconsumers.org](http://www.dmaconsumers.org/ "http://www.dmaconsumers.org/")
+Ballard Designs respects your privacy and is a member of the Direct Marketing Association (DMA) and follows the DMA privacy guidelines. The DMA's Mail Preference Service reduces the availability of your name and address to many other direct marketing companies. To learn more, click on [www.dmachoice.org](http://www.dmachoice.org/ "http://www.dmachoice.org/")
 
-Ballard Designs is part of the IAC family of businesses.  IAC is an interactive conglomerate with more than 60 brands, including Ask.com, Citysearch, Evite, Gifts.com, HSN, LendingTree, Match.com, RealEstate.com, ServiceMagic, Ticketmaster, and many others. For a list of all of IAC’s businesses, please visit [www.iac.com](http://www.iac.com/ "http://www.iac.com/")
+Ballard Designs is part of the HSNi family of businesses.  HSNi is a retailing powerhouse that spans the full retail spectrum including television (HSN), ecommerce (hsn.com and catalogue websites), catalogues (Cornerstone Brands), and brick & mortar retail (Frontgate, Ballard Designs, The Territory Ahead). For a complete list of all of HSNi's businesses, please visit [www.hsni.com](http://www.hsni.com/). 
 
-At IAC, we respect the privacy of our customers and the importance of the information they entrust to us.  We summarize below the basic information policies and practices in place on all IAC websites.  To read the entire Privacy Policy of Ballard Designs, please click _[here](https://web.archive.org/Customer-Service/Privacy-Information/Full-Policy/c/1300?path=1%2c2%2c509%2c612%2c1300)_.
+At HSNi, we respect the privacy of our customers and the importance of the information they entrust to us.  We summarize below the basic information policies and practices in place on all HSNi websites.  To read the entire Privacy Policy of Ballard Designs, please click _[here](https://web.archive.org/web/20091212162758id_/http%3A//www.ballarddesigns.com/Customer-Service/Privacy-Policy/Your-Privacy-Rights/c/Customer-Service/Privacy/Full-Policy/c/2613)_.
 
-**Information we may collect ([read more](https://web.archive.org/Customer-Service/Privacy-Information/Full-Policy/c/1300?path=1,2,509,612,1300))                                                               **
+**Information we may collect ([read more](https://web.archive.org/web/20091212162758id_/http%3A//www.ballarddesigns.com/Customer-Service/Privacy-Policy/Your-Privacy-Rights/c/Customer-Service/Privacy/Full-Policy/c/2613))                                                               **
 
-We may collect information that can identify you (“personal information”), such as your name, address, and email address, (i) when you (or other users) provide it to us when using our website or in some other manner, or (ii) from other IAC businesses, from our business partners, and from other third parties.  We may combine the personal information that we receive from different sources. 
+We may collect information that can identify you (“personal information”), such as your name, address, and email address, (i) when you (or other users) provide it to us when using our website or in some other manner, or (ii) from other HSNi businesses, from our business partners, and from other third parties.  We may combine the personal information that we receive from different sources. 
 
 __
 
@@ -40,7 +40,7 @@ We may allow third-party advertising companies or ad networks to display adverti
 
 If you post information about yourself or others, or communicate with others using our website, please note that we cannot control who reads your postings or what they do with the information you provide.  We encourage you to use caution in posting personal information.
 
-**How we may use information we collect** **([read more](https://web.archive.org/Customer-Service/Privacy-Information/Full-Policy/c/1300?path=1,2,509,612,1300)) ** **                                           
+**How we may use information we collect** **([read more](https://web.archive.org/web/20091212162758id_/http%3A//www.ballarddesigns.com/Customer-Service/Privacy-Policy/Your-Privacy-Rights/c/Customer-Service/Privacy/Full-Policy/c/2613)) ** **                                           
 **  
 We may use information to: ****
 
@@ -55,12 +55,12 @@ We may use information to: ****
 
 
 
-**With whom we may share information we collect ([read more](https://web.archive.org/Customer-Service/Privacy-Information/Full-Policy/c/1300?path=1,2,509,612,1300))          
+**With whom we may share information we collect ([read more](https://web.archive.org/web/20091212162758id_/http%3A//www.ballarddesigns.com/Customer-Service/Privacy-Policy/Your-Privacy-Rights/c/Customer-Service/Privacy/Full-Policy/c/2613))          
 **  
 We will not share your personal information with others except as indicated below, or except when we inform you in advance and give you the opportunity to opt out.  We may share personal information with:
 
   * Service providers, such as credit-card payment processors, performing services on our behalf;
-  * Other IAC businesses; 
+  * Other HSNi businesses; 
   * Other businesses with which we partner or which we carefully select to offer you products, services, and promotions through our website or offline; and
   * Other third parties in limited circumstances, such as complying with legal requirements, preventing fraud, and protecting the safety of our users. 
 
@@ -68,7 +68,7 @@ We will not share your personal information with others except as indicated belo
 
 We may share aggregated, non-personal information in any of the above situations and also with advertisers and others. 
 
-**Your choices ([read more](https://web.archive.org/Customer-Service/Privacy-Information/Full-Policy/c/1300?path=1,2,509,612,1300))                                                                                                        
+**Your choices ([read more](https://web.archive.org/web/20091212162758id_/http%3A//www.ballarddesigns.com/Customer-Service/Privacy-Policy/Your-Privacy-Rights/c/Customer-Service/Privacy/Full-Policy/c/2613))                                                                                                        
 **  
 You may choose:
 
@@ -76,7 +76,7 @@ You may choose:
   * To stop receiving promotional emails or newsletters from us by sending an email to the contact address at the bottom of this policy or by [clicking here to unsubscribe](https://web.archive.org/subscribemain.jsp?action=0) ;
   * To delete or decline _cookies_ by changing your browser settings, although if you do so, some of the features or services of our website may not function properly;
   * To review and update your personal information by contacting us at the email address below or, if you have an online account on our website, by logging into that [account](https://web.archive.org/account/login/loginmain.jsp?toURL=/account/accountmain.jsp). 
-  * [Opt-out](https://web.archive.org/subscribemain.jsp?action=0). If you do not wish to receive mailings from other companies or to have personal information shared with other companies, including other IAC businesses, please contact us by phone, [email](https://web.archive.org/Customer-Service/Contacting-Ballard/Contact-Us/c/531?path=1%2c2%2c509%2c515%2c531) or mail.
+  * [Opt-out](https://web.archive.org/subscribemain.jsp?action=0). If you do not wish to receive mailings from other companies or to have personal information shared with other companies, including other HSNi businesses, please contact us by phone, [email](mailto:CustomerService@ballarddesigns.net) or mail.
 
 Our company contact information:  
 Toll Free: 1-800-536-7551  
@@ -87,7 +87,7 @@ West Chester, OH 45069
 
 
 
-**Security ([read more](https://web.archive.org/Customer-Service/Privacy-Information/Your-Privacy-Rights/c/613?path=1,2,509,612,613))                                                                                                            ** _  
+**Security (read more)                                                                                                            ** _  
 _  
 We take appropriate physical, electronic, and other security measures to help safeguard personal information from unauthorized access, alteration, or disclosure. 
 
@@ -96,17 +96,17 @@ We take appropriate physical, electronic, and other security measures to help sa
 We may occasionally update our Privacy Policy to reflect changes in our practices and services.  If we make material changes in the way we collect, use, or share your personal information, we will notify you by sending you an email to the email address you most recently provided to us and/or by prominently posting notice of the changes on our website.
 
 **How to contact us**  
-If you have any questions about this summary, our [Privacy Policy](https://web.archive.org/Customer-Service/Privacy-Information/Full-Policy/c/1300?path=1,2,509,612,1300), or our information practices, please contact us by email or postal mail below:
+If you have any questions about this summary, our [Privacy Policy](https://web.archive.org/web/20091212162758id_/http%3A//www.ballarddesigns.com/Customer-Service/Privacy-Policy/Your-Privacy-Rights/c/Customer-Service/Privacy/Full-Policy/c/2613), or our information practices, please contact us by email or postal mail below:
 
 ****Privacy Contact:****  
 Tracy Underwood  
 5566 West Chester Road  
 West Chester, OH 45069  
-[customerservice@ballarddesigns.net](mailto:customerservice@ballarddesigns.net "mailto:customerservice@ballarddesigns.net")
+[privacypolicy@ballarddesigns.net](mailto:privacypolicy@ballarddesigns.net "mailto:privacypolicy@ballarddesigns.net")
 
-© 2007 IAC/InterActiveCorp.  All rights reserved. 
+© 2008 HSNi.  All rights reserved. 
 
-_Cookies_ : 
+_**Cookies**_ **:**
 
 A cookie is a small text file that is stored on a user’s computer for record keeping purposes.  Cookies can be either session cookies or persistent cookies.  A session cookie expires when you close your browser and is used to make it easier for you to navigate our website.  A persistent cookie remains on your hard drive for an extended period of time. 
 
@@ -114,9 +114,9 @@ Through the use of a cookie, we also may automatically collect information about
 
 You may delete or decline cookies by changing your browser settings.  (Click “Help” in the toolbar of most browsers for instructions.)  If you do so, some of the features and services of our website may not function properly.
 
-We may allow third-parties, including IAC companies, advertising companies, and ad networks, to display advertisements on our site.  These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements.  Our website does not provide any personal information to these third parties, but they may collect information about where you, or others who are using your computer, saw and/or clicked on the advertisements they deliver, and possibly associate this information with your subsequent visits to the advertised websites. They also may combine this information with personal information they collect from you. The collection and use of that information is subject to the third-party’s privacy policy.  This information allows them to deliver targeted advertisements and gauge their effectiveness.  Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies ([www.networkadvertising.org](http://www.networkadvertising.org/)).
+We may allow third-parties, including HSNi companies, advertising companies, and ad networks, to display advertisements on our site.  These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements.  Our website does not provide any personal information to these third parties, but they may collect information about where you, or others who are using your computer, saw and/or clicked on the advertisements they deliver, and possibly associate this information with your subsequent visits to the advertised websites. They also may combine this information with personal information they collect from you. The collection and use of that information is subject to the third-party’s privacy policy.  This information allows them to deliver targeted advertisements and gauge their effectiveness.  Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies ([www.networkadvertising.org](http://www.networkadvertising.org/)).
 
-_Web Beacons_ : 
+_**Web Beacons**_ **:**  
 
 Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies.  Unlike cookies which are stored on the user’s computer hard drive, web beacons are embedded invisibly on the web pages (or in email) and are about the size of the period at the end of this sentence. 
 
