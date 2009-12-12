@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokerpages.com privacy policy that was archived on 2009-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090303152243id_/http%3A//www.pokerpages.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokerpages.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212033317id_/http%3A//www.pokerpages.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # Poker Pages - Poker Articles, Tournaments, & Directory
 
@@ -70,11 +70,14 @@ PokerPages is committed to respecting your choices regarding privacy.
 
 [](https://web.archive.org/download/)
 
+  
+
+
 Blog Coverage
 
-[ ](http://news.pokerpages.com/index.php?option=com_simpleblog&task=userView&userid=122)
+[ ](https://web.archive.org/blog-players/daniel-negreanu.htm)
 
-Sun, Mar 01, 2009 - 08:00pm CST
+Tue, Dec 08, 2009 - 04:34pm CST
 
 Top News
 
