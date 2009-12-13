@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icfi.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619035836id_/http%3A//www.icfi.com/About_Us/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icfi.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213152332id_/http%3A//www.icfi.com/About_Us/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | ICF International
 
