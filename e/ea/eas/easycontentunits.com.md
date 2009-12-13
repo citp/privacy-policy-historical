@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easycontentunits.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618182532id_/http%3A//www.easycontentunits.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easycontentunits.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214004226id_/http%3A//www.easycontentunits.com/privacy_policy.html) for the most accurate reproduction.*
 
 # easycontentunits.com : Privacy Policy
 
@@ -12,9 +12,12 @@
 [](http://www.easycontentunits.com/link.php?id=12)  
 [](http://www.easycontentunits.com/link.php?id=7)  
 [](http://www.easycontentunits.com/link.php?id=11)  
+[](http://www.easycontentunits.com/link.php?id=18)  
+[](http://www.easycontentunits.com/link.php?id=15)  
 [](http://www.easycontentunits.com/link.php?id=8)  
 [](http://www.easycontentunits.com/link.php?id=13)  
 [](http://www.easycontentunits.com/link.php?id=5)  
+[](http://www.easycontentunits.com/link.php?id=16)  
 [](http://www.easycontentunits.com/link.php?id=6)  
 |  |   | 
 
