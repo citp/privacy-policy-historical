@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thersa.org privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611183329id_/http%3A//www.thersa.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thersa.org privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213115008id_/http%3A//www.thersa.org/privacy) for the most accurate reproduction.*
 
 # RSA - Privacy
 
@@ -17,7 +17,7 @@ By completing any detailed on-line registry you give your consent to the collect
 
 The RSA requires that customers supply personal information when registering to access particular services. Over a period of time The RSA may collate further personal information from users.
 
-The collection and use of your information will be restricted to the minimum required to continue to deliver, develop and improve services to you. Dependent on the questions asked and the services offered you may from time to time receive from us either an email or postal description of products or services. If you choose not to receive these the company will only contact you if they feel your access to the service may be affected, you may also at any time ask for your details to be removed from the database simply by sending an email to the [webmaster](http://www.thersa.org/email-the-webmaster) with the word 'remove from database' in the subject area - see below for the email address.
+The collection and use of your information will be restricted to the minimum required to continue to deliver, develop and improve services to you. Dependent on the questions asked and the services offered you may from time to time receive from us either an email or postal description of products or services. If you choose not to receive these the company will only contact you if they feel your access to the service may be affected, you may also at any time ask for your details to be removed from the database simply by sending an email to the [webmaster](mailto:webmaster@rsa.org.uk) with the word 'remove from database' in the subject area - see below for the email address.
 
 **Security**
 
