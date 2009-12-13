@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scienceblog.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604020932id_/http%3A//www.scienceblog.com/cms/privacy-15554.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scienceblog.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213093924id_/http%3A//www.scienceblog.com/cms/privacy-15554.html) for the most accurate reproduction.*
 
 # Privacy and Site Disclaimer | Science Blog
 
@@ -98,5 +98,3 @@ By using this site, you consent to the collection and use of this information by
 
 SITE DISCLAIMER  
 The opinions expressed by ScienceBlog.com bloggers and those providing comments are theirs alone, and do not reflect the opinions of ScienceBlog.com or any employee thereof. ScienceBlog.com is not responsible for the accuracy of any of the information supplied by site bloggers, commenters, or of the third-party press releases posted on this site. In other words EVERYTHING ON THIS SITE IS LIABLE TO BE INACCURATE EITHER NOW OR AT SOME POINT IN THE FUTURE. As you read the content on this site, keep in mind that science and medicine are moving targets. Advice you get here may cause cause blindness and stigmata, halitosis and loneliness. Generally, it should be ignored. If you're sick, talk to your doctor. Don't rely on what you find here for much of anything beyond entertainment.
-
-##### [Permalink](https://web.archive.org/cms/privacy-15554.html)
