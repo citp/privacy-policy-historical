@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the life.com privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529211127id_/http%3A//www.life.com/service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the life.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213153030id_/http%3A//www.life.com/service/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - LIFE
 
