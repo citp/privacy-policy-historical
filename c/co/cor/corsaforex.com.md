@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corsaforex.com privacy policy that was archived on 2008-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081007184343id_/http%3A//corsaforex.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corsaforex.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213121202id_/http%3A//corsaforex.com/privacy.aspx) for the most accurate reproduction.*
 
 # Corsa Capital
 
