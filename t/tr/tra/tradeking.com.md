@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradeking.com privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207014950id_/http%3A//content.tradeking.com/wiki/display/tkservice/Privacy%2Band%2BSecurity%2BStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradeking.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213053439id_/http%3A//content.tradeking.com/wiki/display/tkservice/Privacy%2Band%2BSecurity%2BStatement) for the most accurate reproduction.*
 
 # Privacy and Security Statement - Tradeking Customer Service - Tradeking Wiki
 
@@ -28,9 +28,8 @@ To better serve you, we sometimes collect additional information from third part
 Personal information changes, such as changes of residential address or email address, may be made at anytime by logging into your account. You may also change your personal information by contacting customer service at or by submitting the request in writing to:
 
 TradeKing  
-5455 N. Federal Highway  
-Suite E  
-Boca Raton, FL 33487
+PO Box 49050  
+Charlotte, NC 28277-3432
 
 **Sharing of Information**
 
@@ -74,4 +73,4 @@ The effective date of this Privacy Policy is provided below. Any updates or chan
 
 For more information or other questions regarding our Privacy Policy, please e-mail [service@tradeking.com](mailto:service@tradeking.com "Send mail to service@tradeking.com").
 
-12/08/2008 Version 003
+12/03/2009 Version 004
