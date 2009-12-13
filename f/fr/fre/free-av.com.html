@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the free-av.com privacy policy that was archived on 2009-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090602022306id_/http%3A//www.free-av.com/en/pages/2/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the free-av.com privacy policy that was archived on 2009-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091213171036id_/http%3A//www.free-av.com/en/pages/2/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/front.dwt.php" codeOutsideHTMLIsLocked="false" --><head>
 <!-- InstanceParam name="path" type="text" value="" -->
@@ -32,22 +32,24 @@ function go(link) {
 	<div class="umbrella_top">
 		<div class="umbrella_red" style="float:left;"></div>
 
-		<div style="width:200px; padding-top:20px; padding-left:30px; float:left;" valign="top" nowrap="nowrap">
+		<div style="width:200px; padding-top:20px; padding-left:30px; float:left;" valign="top">
 			<span class="fontsus">Search:</span>
-			<div style="float:left;">
-				<!-- Google CSE Search Box Begins  -->
-                <form action="/en/search/index.html" id="cse-search-box">
+			<div style="float:left;width:200px;">
+<link href="/includes/styles/jquery.autocomplete.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/includes/js/jquery.js"></script>
+<script type="text/javascript" src="/includes/js/jquery.autocomplete.js"></script>
+<script type="text/javascript">
+$().ready(function() {
+  $("#gqbox").autocomplete("/pages/autocomplete.php",{"minChars":1, "width":'auto', "selectFirst": false, "scroll":false}).result(function(){$("#gqbox").get(0).form.submit();});
+});
+</script>
+                <form action="/en/search/index.html">
                   <div>
-                    <input type="hidden" name="cx" value="001466757762279765390:5qmi51mcepw">
-                    <input type="hidden" name="cof" value="FORID:11">
-                    <input type="hidden" name="ie" value="UTF-8">
-                    <input type="text" name="q" size="25">
-                    <input type="submit" name="sa" value="Go">
+                    <input type="text" name="q" size="25" id="gqbox" autocomplete="off" class="ac_input">
+                    <input type="submit" value="Go">
                   </div>
                 </form>
-                <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
-				<!-- Google CSE Search Box Ends -->
-			</div>
+    	</div>
 		</div>
 	</div>
 
@@ -59,7 +61,9 @@ function go(link) {
 									<option value="/en/pages/2/privacy_policy.html" selected="">English</option>
 									<option value="/de/seiten/2/privacy_policy.html">Deutsch</option>
 									<option value="/fr/pages/2/privacy_policy.html">Français</option>
+									<option value="/es/pages/2/privacy_policy.html">Español</option>
 									<option value="/it/pages/2/privacy_policy.html">Italiano</option>
+									<option value="/jp/pages/2/privacy_policy.html">日本語</option>
 							</select>
 		</div>
 	</div>
@@ -180,7 +184,7 @@ Lindauer Str. 21 <br>
 D-88069 Tettnang <br>
 Germany <br>
 Phone: 07542/500-0 <br>
-Email: datenschutz@avira.de <br>
+Email: privacy@avira.com <br>
 <br>
 The following regulations include the Avira GmbH and its websites. <br>
 <br>
@@ -205,6 +209,11 @@ Privacy declaration of Avira GmbH: stand March 2006	</div>
 			<a href="/en/pages/5/about_avira.html" title="About Avira" class="strong_red">About Avira</a>
 		</div>
 		
+		<div class="spacer_20">&nbsp;</div>
+		<div class="bottom_links">
+			<a href="http://techblog.avira.com" target="_blank" title="TechBlog" class="strong_red">TechBlog</a>
+		</div>
+		
 		<div style="float:right;">
 			<a href="http://www.auerbach-foundation.com" target="_blank" title="Auerbach Foundation" class="strong_red"><img src="/images/logojos_en.gif" height="40" border="0" alt="Auerbach Foundation" style="padding-top:5px;"></a>
 		</div>
@@ -213,7 +222,7 @@ Privacy declaration of Avira GmbH: stand March 2006	</div>
 	<div style="width:800px; clear:both;">
 		<div class="index_left_bottom"></div>
 		<div class="index_center_bottom"></div>
-		<div class="index_right_bottom">
+		<div class="index_right_bottom"><a href="mailto:mark.gilbert@web.de"></a><a href="mailto:mpaulescu@avira.com"></a><a href="mailto:mmadeline@freenet.de"></a>
 		</div>
 	</div>
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
