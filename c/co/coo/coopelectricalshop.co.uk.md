@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coopelectricalshop.co.uk privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429134252id_/http%3A//www.coopelectricalshop.co.uk/content/content.asp%3Fid%3D71) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coopelectricalshop.co.uk privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213120737id_/http%3A//www.coopelectricalshop.co.uk/content/content.asp%3Fid%3D71) for the most accurate reproduction.*
 
 # Coop Electrical Shop
 
