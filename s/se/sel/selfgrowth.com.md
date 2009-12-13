@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the selfgrowth.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628144717id_/http%3A//www.selfgrowth.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selfgrowth.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213145756id_/http%3A//www.selfgrowth.com/privacypolicy) for the most accurate reproduction.*
 
 # Online Privacy Policy
 
