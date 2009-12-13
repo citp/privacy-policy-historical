@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the allthingsd.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617061742id_/http%3A//allthingsd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allthingsd.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214003444id_/http%3A//allthingsd.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy and Use of Information | About | AllThingsD
+
+_Effective as of December 2, 2009_
 
 Dow Jones & Company Inc. and its affiliates (”Dow Jones”) are committed to maintaining the privacy of personal information that you provide to us when using **AllThingsD.com**. This Privacy Policy describes how we treat personal information received about you when you visit **AllThingsD.com**.
 
@@ -17,6 +19,8 @@ Web Site Usage Information. We automatically collect IP addresses and Web site u
 Surveys. We may conduct occasional surveys and other customer research. These are entirely voluntary and you may decline to participate.
 
 Registration. We require that anyone who wishes to comment about articles featured on the site or about other comments posted on the site will have to register, even though the site is free. And every comment will be signed with the commenter’s full registered name. Now, we’re not idiots. We know some people will register with fake names, and we don’t have the resources or inclination to try and verify every name. But we figure we’ll get a fairly high percentage of real names behind the comments, which is way better than just using anonymity or screen names.
+
+Our comment tool is provided by a third party online comment system called Disqus. Disqus is a third party application that allows visitors to post comments on **AllThingsD.com** and connect those and other comments across multiple websites. You may use your **AllThingsD** , Disqus, or certain select social media accounts to log-in and post comments on **AllThingsD.com**. When you log in and post a comment on **AllThingsD.com** , Disqus will collect information about your visit to this and other Disqus partner sites, including information that you post and your IP address. If you opt to use your **AllThingsD**.com account to post comments, we will share your **AllThingsD** account name and email address with Disqus to enable commenting with the Disqus tool. If you register with and use Disqus, Disqus may collect and use additional information from and about you. This policy does not apply to, and we are not responsible for, Disqus’ collection or use of your information. We encourage you to review Disqus’ [privacy policy](http://disqus.com/privacy-policy/) to learn more.
 
 **3\. HOW WE USE THE INFORMATION WE COLLECT**
 
@@ -84,4 +88,4 @@ Your information may be stored and processed in the United States or any other c
 
 When we make any material change to this Privacy Policy, we will inform you by updating the Policy’s date.
 
-This Privacy Policy was last updated on June 15, 2009.
+This Privacy Policy was last updated on November 25, 2009.
