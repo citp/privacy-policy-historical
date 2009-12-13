@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expedia.com.au privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524142939id_/http%3A//www.expedia.com.au/pub/agent.dll%3Fqscr%3Dhgen%26hfnm%3DPrivacyPol.htx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expedia.com.au privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213140902id_/http%3A//www.expedia.com.au/pub/agent.dll%3Fqscr%3Dhgen%26hfnm%3DPrivacyPol.htx) for the most accurate reproduction.*
 
 # Expedia Privacy Pledge
 
@@ -131,6 +131,8 @@ In the event your travel plans are disrupted because of mechanical, weather, or 
 **E-mail notifications**   
 If you chose to receive communications from Expedia.com.au about special promotions when registering as an Expedia.com.au member, we may use your e-mail address to send you communications about surveys, contests, sweepstakes, promotions, flight specials, or other travel opportunities on Expedia.com.au and its marketing partners. We may use your e-mail address or telephone number to contact you about changes to your purchased travel itinerary. 
 
+We want to make it easy for you to take advantage of travel-related opportunities on our website. One way we do this is by reviewing your purchasing and browsing behaviour to indentify and present e-mail messages that contain information about your apparent travel-related interests. For example, if you search for a flight to New York on our Web site and save this to your itinerary, we may send you an email message reminding you about your saved travel itinerary or about a special airfare to New York. Similarly, if you receive an email from us about New York travel and demonstrate an interest in New York hotels by affirmatively clicking on a link about New York hotels in the e-mail, you may receive an email about New York hotel offers. We believe these e-mail messages will provide you with useful information about travel-related special offers available through our sites. Please note that you will have the opportunity to choose not to receive these e-mail messages in any such email we send. 
+
 **Responses to your questions or suggestions**   
 We will use your e-mail address or telephone number to respond when you submit a question or suggestion, or request assistance with viewing your itinerary, logging on to Expedia.com.au, or accessing your account. 
 
@@ -217,7 +219,7 @@ Expedia has also obtained a digital certificate from RSA Data Security, Inc., a 
 
 
 **Changes to the Expedia.com.au Privacy Statement**  
-This Privacy Statement was produced and posted on Expedia.com.au on 1 September 2005. Expedia reserves the right to modify or amend this Privacy Statement at any time and for any reason. If there are material changes to this statement or in how Expedia.com.au will use your PII, Expedia.com.au will prominently display such changes prior to implementing the change. 
+Expedia reserves the right to modify or amend this Privacy Statement at any time and for any reason. If there are material changes to this statement or in how Expedia.com.au will use your PII, Expedia.com.au will prominently display such changes prior to implementing the change. 
 
 Regardless of later updates, we will abide by the information privacy practices described in this Privacy Statement at the time you provided us with your information. 
 
@@ -232,5 +234,4 @@ Expedia customer service agents are ready to help with your Expedia travel conce
 
 In addition, you may directly contact the travel supplier at the phone number or address provided on your travel itinerary. 
 
-  
-
+This Privacy Statement was updated and posted on Expedia.com.au on 20 September 2009. 
