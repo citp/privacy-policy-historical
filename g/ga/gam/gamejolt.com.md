@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamejolt.com privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612072202id_/http%3A//gamejolt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamejolt.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213023415id_/http%3A//gamejolt.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Game Jolt
 
