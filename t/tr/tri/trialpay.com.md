@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trialpay.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623022014id_/http%3A//www.trialpay.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trialpay.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213170107id_/http%3A//www.trialpay.com/privacypolicy) for the most accurate reproduction.*
 
 # TrialPay Online Shopper Privacy Policy
 
@@ -55,5 +55,5 @@ We limit access to personal information about you to employees who we believe re
 **Contact Us**  
 TrialPay may update this policy at any time. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your TrialPay account or by placing a prominent notice on our site.
 
-If you have any questions about this Privacy Policy, please email us at generalsupport@trialpay.com or write to us at Privacy Concerns, c/o TrialPay Inc., 650 Castro Street, Suite 270, Mountain View, CA 94041.  
+If you have any questions about this Privacy Policy, please write to us at Privacy Concerns, c/o TrialPay Inc., 303 Bryant Street, 2nd Floor, Mountain View, CA 94041.  
 
