@@ -1,239 +1,145 @@
-<!--The following is the downloaded HTML source of the mo.gov privacy policy that was archived on 2009-05-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090520033427id_/http%3A//www.mo.gov/mo/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mo.gov privacy policy that was archived on 2009-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091213063438id_/http%3A//www.mo.gov/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "Http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<title>Missouri State Government Home Page</title>
-<meta http-equiv="Content-Language" content="en-us">
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="Description" content="Official State of Missouri Home Page">
-<meta name="Author" content="Office of Administration - Division of Information Services">
-<meta name="Keywords" content="Missouri, State,  license, Missouri Business, Business Registration, tourism, governor, lottery, revenue, conservation, education, safety, homeland security, health, natural resources, social services, highways, transportation, capital, Jefferson City, Cole County, secretary, legislature, constitution, Lewis, Clark, boards, commissions, regulations, meetings, unemployment, benefits, statutes, SAM II, job, email, telephone, treasurer, Lt. Governor, auditor, attorney general, house, representatives, senators, general, assembly, agriculture, state fair, corrections, economy, economic development, technology, insurance, labor, mental health">
-<script type="text/javascript" language="javascript">
-<!--
-function MM_jumpMenu(targ,selObj,restore){ //v3.0
-  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
-  if (restore) selObj.selectedIndex=0;
-}
+<title>MO.gov | Privacy and Security</title>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" type="text/javascript"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js" type="text/javascript"></script>
+<script src="/js/jquery.hoverIntent.minified.js" type="text/javascript"></script>
 
-// begin version check
-function msieversion()
-// return Microsoft Internet Explorer (major)
-// version number, or 0 for others.
-// This function works by finding the "MSIE "
-// string and extracting the version number
-// following the space, up to the decimal point
-// for the minor version, which is ignored.
-{
-var ua = window.navigator.userAgent
-var msie = ua.indexOf ( "MSIE " )
-if ( msie > 0 )      // is Microsoft Internet Explorer; return version number
-   return parseInt ( ua.substring ( msie+5, ua.indexOf ( ".", msie ) ) )
-else
-   return 0          // is other browser
-}
+<link rel="stylesheet" type="text/css" href="/js/themes/base/ui.all.css">
 
-// end version check
-//-->
+<script type="text/javascript">
+var currentFontSizeNum=0;
+var currentLineHeightNum=0;
+	$(function() {
+	
+		$('#tabs-2').removeClass("hide");
+		$('#tabs-3').removeClass("hide");
+		$('#tabs-4').removeClass("hide");
+		$('#tabs-5').removeClass("hide");
+		$('#tabs-6').removeClass("hide");
+		$('#tabs-7').removeClass("hide");
+		$('#features ul').removeClass("hide");
+		$('#explore ul').removeClass("hide");
+		$('#visitors').removeClass("hide");
+		$('#state_employees').removeClass("hide");
+		$('#military').removeClass("hide");	
+	
+	  // Reset Font Size
+	currentFontSizeNum=parseFloat($('#content').css('font-size'), 10);	
+	currentLineHeightNum=parseFloat($('#content').css('line-height'), 10);
+
+	  // Reset Font Size
+	  var originalFontSize = $('#content').css('font-size');
+	  var originalLineHeight = $('#content').css('line-height');	  
+	    $(".resetFont").click(function(){
+	    $('#content').css('font-size', originalFontSize);
+		$('#content').css('line-height', originalLineHeight);
+	  });
+	  // Increase Font Size and Line Height
+	  $(".increaseFont").click(function(){
+	  if(currentFontSizeNum<24)
+	  {
+			currentFontSizeNum = parseFloat($('#content').css('font-size'), 10);
+
+			var newFontSize = currentFontSizeNum+4;
+			$('#content').css('font-size', newFontSize);
+			
+			currentLineHeightNum = parseFloat($('#content').css('line-height'), 10);
+			var newLineHeight = currentLineHeightNum+2;
+			$('#content').css('line-height',newLineHeight+"px");	
+	
+	  }  
+		return false;
+	  });
+	  // Decrease Font Size
+	  $(".decreaseFont").click(function(){
+	  if(currentFontSizeNum>15)
+	  {	 
+			currentFontSizeNum = parseFloat($('#content').css('font-size'), 10);
+
+
+			var newFontSize = currentFontSizeNum-4;
+			$('#content').css('font-size', newFontSize);
+			
+			currentLineHeightNum = parseFloat($('#content').css('line-height'), 10);
+			var newLineHeight = currentLineHeightNum-2;
+			$('#content').css('line-height',newLineHeight+"px");	
+	   }
+	   	return false;
+	  });
+
+
+	  
+		$("#menu2").removeClass("cssonly");
+		$("#menu li").hoverIntent({
+		sensitivity: 5, 
+				interval: 400, 
+				over: makeTall, 
+				timeout: 500, 
+				out: makeShort
+			});
+		$("#features").tabs({ fx: { opacity: 'toggle' }}).tabs('rotate',10000, true); 
+		 
+		$("#explore").tabs();
+	});
+		function makeTall(){  $(this).find("ul.subnav").slideDown();}
+		function makeShort(){ $(this).parent().find("ul.subnav").slideUp();}
 </script>
 
-<script type="text/javascript" language="javascript">
-<!--
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
+	<style type="text/css" media="screen">
+		@import url("/styles/core.css");
+	</style>
+<!--[if lt IE 7]>
+		<script src="/js/DD_belatedPNG_0.0.8a-min.js"></script>
+		<script>
+			DD_belatedPNG.fix('#header h1');
+		</script> 
+    <link rel="stylesheet" type="text/css" href="/test38/styles/ie.css" />
+<![endif]-->
+<!--[if IE 7]>
+    <link rel="stylesheet" type="text/css" href="/test38/styles/ie7.css" />
+<![endif]-->
+<!--[if IE 8]>
+    <link rel="stylesheet" type="text/css" href="/test38/styles/ie8.css" />
+<![endif]-->
+<link rel="stylesheet" href="/styles/print.css" media="print">
 
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
 
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-//-->
-</script>
-<link rel="stylesheet" href="/mo/css/portal.css" type="text/css">
 </head>
 
-
-<body>
-
-<table id="pagetbl" cellspacing="0" summary="This table holds navigation buttons.">
-
-<tbody><tr> 
-<td style="background-color:#5A77A8;width:13%;vertical-align:top;">
-<a href="/mo/index.htm"><img src="/mo/images/bannersm5.jpg" alt="State of Missouri Web Site"></a> 
-<br> <br>        
-<div id="navlist">
-    <table style="text-align:center;background-color:#fff;" width="130px" cellspacing="0" border="1" summary="placeholder for Google search tool"><tbody><tr><td>
-    <form name="gs" method="get" action="http://search.mo.gov/search" style="line-height:2.0;">
-    <img src="http://www.mo.gov/mo/images/GoogleLogo_25wht.gif" alt="Google Search" title="Google Search" width="75" height="32"><br>
-    <label for="search"><span style="display:none;">Search</span></label>
-    <input type="text" name="q" value="" style="font-size:10px;" size="20" id="search" tabindex="1" accesskey="1"><br> 
-    <input type="submit" name="btnG" value="Search" id="submit" style="font-size:10px;" tabindex="2" accesskey="2">
-    <input type="reset" value="Clear" id="clear" style="font-size:10px;" tabindex="3" accesskey="3">
-    <input type="hidden" name="site" value="default_collection">
-    <input type="hidden" name="output" value="xml_no_dtd">
-    <input type="hidden" name="client" value="default_frontend">
-    <input type="hidden" name="num" value="10">
-    <input type="hidden" name="proxystylesheet" value="default_frontend">
-    </form>
-    </td></tr></tbody></table>
-
+<body id="">
+<div id="header" role="banner">
+<div class="hide"><a href="#finder">Skip to navigation</a></div>
+	<div id="branding">
+	<h1><a href="/"><em>Missouri.gov</em></a></h1>
+	</div>
+	<div id="search" class="grid_7">
+		<h2>Search</h2>
+		<form method="get" action="http://search.mo.gov/search">
+    		<div class="hide"><label for="searchField">Search</label></div>
+    		<div><input type="text" name="q" value="" id="searchField" tabindex="7" accesskey="7"></div>
+    		<div><input type="submit" name="btnG" value="Search" id="submit" tabindex="8" accesskey="8"></div>
+    		<div><input type="hidden" name="site" value="default_collection"></div>
+    		<div><input type="hidden" name="output" value="xml_no_dtd"></div>
+    		<div><input type="hidden" name="client" value="default_frontend"></div>
+    		<div><input type="hidden" name="num" value="10"></div>
+    		<div><input type="hidden" name="proxystylesheet" value="default_frontend"></div>
+		</form>
+  </div>
+</div><!-- END HEADER -->
+<div id="content" class="container_12" role="main">
+  <div id="breadcrumb" class="grid_12">
     <ul>
-      <li><a href="http://search.mo.gov/search?num=10&amp;access=p&amp;output=xml_no_dtd&amp;sort=date%3AD%3AL%3Ad1&amp;site=default_collection&amp;ie=UTF-8&amp;btnG=Search&amp;client=default_frontend&amp;oe=UTF-8&amp;proxystylesheet=default_frontend&amp;q=&amp;ip=168.166.88.3&amp;proxycustom=%3CADVANCED/%3E">Advanced Search</a></li>
-			<li><a href="http://www.onlineservices.mo.gov/" tabindex="11" accesskey="i">Online Services <!--span style="color:yellow">NEW</span--></a></li>
-			<li><a href="http://mapyourtaxes.mo.gov/MAP/Portal/Default.aspx">Accountability Portal <!--<span style="color:yellow">- NEW</span--></a></li>
-			<li><a href="http://www.business.mo.gov">Business Portal</a></li>
-      <li><a href="/mo/learning.htm">Learning</a></li>
-			<li><a href="/mo/living.htm">Living</a></li>
-			<li><a href="/mo/news.htm">News</a></li>
-			<li><a href="/mo/traveling.htm">Traveling</a></li>
-			<li><a href="/mo/working.htm">Working</a></li>
-			<li><a href="/mo/mophotos.htm">Photo Album</a></li>
-			<li><a href="/mo/index.htm">HOME</a></li>
-			<!--<li><a href="http://www.auditorelect.mo.gov">Auditor-Elect</a></li>-->
-		</ul>
-		<br>
-		<label for="gov1" class="hide">gov1:</label>
-		<select name="select" onchange="MM_jumpMenu('parent',this,0)" id="gov1" class="box">
-			<option selected="selected">Gov't Offices&nbsp;&nbsp;&nbsp;&nbsp;</option>
-			<option value="/mo/govoffices.htm">Executive</option>
-			<option value="/mo/govoffices.htm">Executive Depts</option>
-			<option value="/mo/govoffices.htm">Judicial</option>
-			<option value="/mo/govoffices.htm">Legislative</option>
-			<option value="/mo/organizations.htm">Organizations</option>
-			<option value="/mo/resources.htm">Resources</option>
-			<option value="/mo/county.htm">County</option>
-			<option value="/mo/municipalities.htm">Municipalities</option>
-		</select>
-		<noscript>
-		<ul>
-			<li><a href="/mo/govoffices.htm">Executive</a></li>
-			<li><a href="/mo/govoffices.htm">Executive Departments</a></li>
-			<li><a href="/mo/govoffices.htm">Judicial Offices</a></li>
-			<li><a href="/mo/govoffices.htm">Legislative Offices</a></li>
-			<li><a href="/mo/organizations.htm">Organizations</a></li>
-			<li><a href="/mo/resources.htm">Resources</a></li>
-			<li><a href="/mo/county.htm">County</a></li>
-			<li><a href="/mo/municipalities.htm">Municipalities</a></li>
-		</ul>
-		</noscript>
-		<br><br>
-<!--
-  <label for="transition" class="hide">transition:</label>
-    <select name="select" onchange="MM_jumpMenu('parent',this,0)" id="transition" class="box">
-      <option value="javascript:void(0)" selected="selected">Transition Offices</option>
-      <option value="http://www.govelect.mo.gov">Governor</option>
-      <option value="http://www.agoelect.mo.gov">Attorney General</option>
-      <option value="http://www.stoelect.mo.gov">State Treasurer</option>
-    </select>
-    <noscript>
-    <ul>
-      <li><a href="http://www.govelect.mo.gov">Governor</a></li>
-      <li><a href="http://www.agoelect.mo.gov">Attorney General</a></li>
-      <li><a href="http://www.stoelect.mo.gov">State Treasurer</a></li>
+       <li><a href="/">Home</a></li>
+     	<li>Privacy and Security</li>
+     
     </ul>
-    </noscript>
-<br /><br />-->
-
-		<label for="links" class="hide">links:</label>
-    <select name="select" onchange="MM_jumpMenu('parent',this,0)" class="box" id="links">
-      <option value="javascript:void(0)" selected="selected">Quick Links</option>
-      <option value="http://www.dhss.mo.gov/BirthAndDeathRecords/index.html">Birth</option>
-			<option value="http://www.dhss.mo.gov/BirthAndDeathRecords/index.html">&nbsp;&nbsp;Certificates</option>
-			<option value="http://www.business.mo.gov/">Business Portal</option>
-			<option value="http://www.sos.mo.gov/adrules/csr/csr.asp">Code of State </option>
-			<option value="http://www.sos.mo.gov/adrules/csr/csr.asp">&nbsp;&nbsp;Regulations </option>
-      <option value="http://www.communityconnection.org/index.jsp" onclick="alert('You are now leaving this MO.GOV site!')" onkeypress="alert('You are now leaving this MO.GOV site!')">Community </option>
-			<option value="http://www.communityconnection.org/index.jsp" onclick="alert('You are now leaving this MO.GOV site!')" onkeypress="alert('You are now leaving this MO.GOV site!')">&nbsp;&nbsp;Connection </option>
-			<option value="http://www.moga.state.mo.us/homecon.asp">Constitution </option>
-      <option value="http://www.dhss.mo.gov/BirthAndDeathRecords/index.html">Death</option>
-			<option value="http://www.dhss.mo.gov/BirthAndDeathRecords/index.html">&nbsp;&nbsp;Certificates</option>
-      <option value="http://www.dhss.mo.gov/FCSR/">Family Care</option>
-      <option value="http://www.dhss.mo.gov/FCSR/">&nbsp;&nbsp;Safety Reg.</option>
-      <option value="http://www.greathires.org/" onclick="alert('You are now leaving this MO.GOV site!')" onkeypress="alert('You are now leaving this MO.GOV site!')">Find a Job</option>
-		  <option value="http://www.senate.mo.gov/04info/leg_lookup.htm">Find your Sen </option>
-		  <option value="http://www.senate.mo.gov/04info/leg_lookup.htm">&nbsp;&nbsp;or Rep</option>
-			<option value="http://www.oa.mo.gov/gs/form/fm_index.shtml">Forms</option>
-			<option value="http://www.dhss.mo.gov/showmelongtermcare/">Long Term Care</option>
-      <option value="http://www.oa.mo.gov/co/oanews/">Meeting Notices</option>
-      <option value="http://www.sos.mo.gov/BlueBook/2007-2008/default.aspx">MO Blue Book</option>
-			<option value="http://www.moga.mo.gov/statutesearch/">MO Revised</option>
-			<option value="http://www.moga.mo.gov/statutesearch/">&nbsp;&nbsp;Statutes</option>
-      <option value="http://www.dor.mo.gov/mvdl/motorv/">Register-Vehicle</option>
-      <option value="http://www.sos.mo.gov/elections/">Register-Vote</option>
-      <option value="http://www.dor.mo.gov/mvdl/motorv/">Renew Plate</option>
-      <option value="http://www.dor.mo.gov/mvdl/drivers/">Renew Driver Li</option>
-      <option value="/mo/site.htm">Site Map</option>
-      <option value="/mo/moholidays.htm">State Office</option>
-      <option value="/mo/moholidays.htm">&nbsp;&nbsp;Closings</option>
-		  <option value="http://www.dor.mo.gov/tax/">Taxation</option>
-      <option value="http://www.treasurer.mo.gov/mainUCP.asp">Unclaimed Prop</option>
-      <option value="http://www.oa.mo.gov/purch/vendor.html">Vendor-MBE</option>
-      <option value="http://www.oa.mo.gov/purch/vendor.html">Vendor-WBE</option>
-      <option value="http://www.mvc.dps.mo.gov">Vets Benefits</option>
-    </select>
-    <br><br>
-    <noscript>
-    <ul>
-      <li><a href="http://www.dhss.mo.gov/BirthAndDeathRecords/index.html">Birth certificates</a></li>
-			<li><a href="http://www.business.mo.gov/">Business Portal</a></li>
-			<li><a href="http://www.sos.mo.gov/adrules/csr/csr.asp">Code of State Regulations</a></li>
-			<li><a href="http://www.communityconnection.org/index.jsp" onclick="alert('You are now leaving this MO.GOV site!')" onkeypress="alert('You are now leaving this MO.GOV site!')">Community Resources</a></li>
-			<li><a href="http://www.moga.mo.gov/homecon.asp">Constitution</a> </li>
-			<li><a href="http://www.dhss.mo.gov/BirthAndDeathRecords/index.html">Death Certificates</a></li>
-			<li><a href="http://www.dhss.mo.gov/FCSR/">Family Care Safety Registry</a></li>
-      <li><a href="http://www.greathires.org/" onclick="alert('You are now leaving this MO.GOV site!')" onkeypress="alert('You are now leaving this MO.GOV site!')">Find a Job</a></li>
-      <li><a href="http://www.senate.mo.gov/04info/leg_lookup.htm">Find your Sen or Rep </a></li>
-			<li><a href="http://www.oa.mo.gov/gs/form/fm_index.shtml">Forms</a></li>
-		  <li><a href="http://www.dhss.mo.gov/showmelongtermcare/">Long Term Care</a></li>
-		  <li><a href="http://www.oa.mo.gov/co/oanews/">Meeting Notices</a></li>
-      <li><a href="http://www.sos.mo.gov/BlueBook/2007-2008/default.aspx">MO Blue Book</a></li>
-			<li><a href="http://www.moga.mo.gov/statutesearch/">MO Revised Statutes</a></li>
-      <li><a href="http://www.dor.mo.gov/mvdl/motorv/">Register a Vehicle</a></li>
-      <li><a href="http://www.sos.mo.gov/elections/">Register to Vote</a></li>
-      <li><a href="http://www.dor.mo.gov/mvdl/motorv/">Renew license plate</a></li>
-      <li><a href="http://www.dor.mo.gov/mvdl/drivers/">Renew Driver Lic.</a></li>
-	  	<li><a href="/mo/site.htm">Site Map</a></li>
-      <li><a href="/mo/moholidays.htm">State Office Closings</a></li>
-	  	<li><a href="http://www.dor.mo.gov/tax/">Taxation</a></li>
-      <li><a href="http://www.treasurer.mo.gov/mainUCP.asp">Unclaimed Property</a></li>
-      <li><a href="http://www.oa.mo.gov/purch/vendor.html">Vendor - MBE</a></li>
-      <li><a href="http://www.oa.mo.gov/purch/vendor.html">Vendor - WBE</a></li>
-      <li><a href="http://www.mvc.dps.mo.gov" >Vets Benefits</a></li>
-    </ul>
-    </noscript>
-		<br>
-		<ul>
-			<!--<li><a href="/mo/email.htm">Email</a></li>-->
-			<li><a href="/mo/employees.htm">Employees</a></li>
-			<li><a href="/mo/privacy.htm">Privacy / Security</a></li>
-            <li><a href="http://www.oa.mo.gov/co/policies.htm">Statewide Policies</a></li>
-			<li><a href="/mo/teledir.htm">Telephone Directory</a></li>
-		</ul>
-		</div>
-		<p></p>
-		</td>
-
-
-<!-- privacy.htm -->
-<!-- last modified: 10.29.04 -->
-
-<!--BEGIN MAIN SECTION-->
-<td width="60%" valign="top">
-<div id="main">
+    </div>
+  <div id="main-content" class="grid_7">
+    
 <h2>Privacy Statement</h2>
 
 <ul>
@@ -244,21 +150,24 @@ function MM_findObj(n, d) { //v4.01
           <li><a href="#email">E-mail</a></li>
           <li><a href="#info">Requests for Information</a></li>
           <li><a href="#links">Links to Other Sites</a></li>
+
           <li><a href="#change">Notice of Change to Policy</a></li>
           <li><a href="#moreinfo">For More Information</a></li>
 </ul>
 
-          <p><strong>State of Missouri<a name="state"></a></strong><br>
-          It's important that you understand our privacy position. As a state government, the State of Missouri is a public governmental body subject to Chapter 610 of the Revised Statutes of Missouri, commonly known as the Sunshine Law. If an appropriate request is made to this office for information that is subject to disclosure by the Sunshine Law, the State of Missouri will be required to disclose the information requested, even if it may include your personally identifiable information.</p>
+          <h3>State of Missouri<a name="state"></a></h3>
+          <p>It's important that you understand our privacy position. As a state government, the State of Missouri is a public governmental body subject to Chapter 610 of the Revised Statutes of Missouri, commonly known as the Sunshine Law. If an appropriate request is made to this office for information that is subject to disclosure by the Sunshine Law, the State of Missouri will be required to disclose the information requested, even if it may include your personally identifiable information.</p>
           <p>There are various locations on the State of Missouri web site where you may submit registration information. In order to complete your online transactions, we usually must collect information from you, including your e-mail address, your postal address, an identification number or social security number, or other pieces of personal information. Our online forms should indicate the information that is required and the information that is optional-you do not have to complete any "optional" fields on a form. For us to be able to complete your online transactions, however, you must supply the required information. If this is not acceptable to you, we will gladly accept the transaction in person or on paper, rather than online. Providing personal information on-line will always be your choice.  The personal information that you supply will not be sold to others.</p>
+
  
-          <p><strong>Browsing<a name="browsing"></a></strong><br>
-To ensure our system remains available to all visitors, our operating system tracks unauthorized attempts to upload or change information, or that can otherwise cause damage.</p>
+          <h3>Browsing<a name="browsing"></a></h3>
+<p>To ensure our system remains available to all visitors, our operating system tracks unauthorized attempts to upload or change information, or that can otherwise cause damage.</p>
 <p>While you browse the web site our operating system will automatically record the following information:</p>
           <ul>
             <li>The name of the domain from which you accessed our web site. For example, if you are connecting from an America Online account, the fact that someone who visited this web site uses AOL as an Internet service provider will be known, but the individual e-mail address of the user will not be known.</li>
             <li>The date and time any page on our site was accessed.</li>
             <li>The address (also called the URL) of the web site from which any page on this site was linked. For example, if you clicked on a hyperlink on the Office of Administration web site to reach the State of Missouri web site, that fact is recorded. However, as discussed above, your identity remains unknown.</li>
+
             <li>The type of browser being used, such as "Netscape Version X.X" or "Internet Explorer Version X.X".</li>
             <li>The type of operating system you use such as Macintosh, Unix, or Windows.</li>
           </ul>
@@ -266,48 +175,389 @@ To ensure our system remains available to all visitors, our operating system tra
             individuals. This information is used to monitor traffic and improve 
             this site.</p>
           
-<p><strong>Security<a name="security"></a></strong><br>
-For security purposes, the State of Missouri uses network monitoring software to identify unauthorized access to or tampering with our web site.  The software will not collect any personal information.    If unauthorized access to or tampering with this web site is detected, the information gathered by us will be furnished to the proper authorities.
+
+<h3>Security<a name="security"></a></h3>
+<p>For security purposes, the State of Missouri uses network monitoring software to identify unauthorized access to or tampering with our web site.  The software will not collect any personal information.    If unauthorized access to or tampering with this web site is detected, the information gathered by us will be furnished to the proper authorities.
 </p>
   
-          <p><strong>E-mail<a name="email"></a></strong><br>
-          If you send us e-mail, the message will usually contain 
+          <h3>E-mail<a name="email"></a></h3>
+          <p>If you send us e-mail, the message will usually contain 
+
             your return address. If you include personal information in your e-mail, 
             we may use that information in responding to your request. E-mail 
             is not necessarily secure or confidential. Send only the information 
             that is necessary for us to answer your question or process your request.</p>
 
-          <p><strong>Requests for Information<a name="info"></a></strong><br>
-          There are various locations on the State of Missouri 
+          <h3>Requests for Information<a name="info"></a></h3>
+          <p>There are various locations on the State of Missouri 
             web site where you may request that information, such as applications, 
             be mailed to you. Should you make a request for information, the personally 
             identifiable information you disclose as part of making that request 
             is disclosed to staff at the Office of Administration so that your 
             request may be fulfilled.</p>
 
-         <p><strong>Links to Other Sites<a name="links"></a></strong><br>
-          Our site provides links to other web sites. The privacy 
+         <h3>Links to Other Sites<a name="links"></a></h3>
+          <p>Our site provides links to other web sites. The privacy 
             policies described here do NOT apply to any external sites. Read the 
             privacy policies of other sites you visit. Be informed. You are the 
             person best qualified to protect your own privacy.</p>
 
-          <p><strong>Notice of Change to Policy<a name="change"></a></strong><br>
-          We will post any changes in this privacy policy at least 30 days prior to the change taking effect unless ordered by a court to do so sooner.</p>
+          <h3>Notice of Change to Policy<a name="change"></a></h3>
+          <p>We will post any changes in this privacy policy at least 30 days prior to the change taking effect unless ordered by a court to do so sooner.</p>
 
-          <p><strong>For More Information<a name="moreinfo"></a></strong><br>
-          If you have any questions or comments about our privacy policy, contact 
-            <script type="text/javascript" language="javascript">
-    <!--
-    var username = "oawebmaster";
-    var hostname = "oa.mo.gov";
-    var linktext = "E-mail: OA Webmaster";
-    document.write("<a href=" + "mail" + "to:" + username + "@" + hostname + ">" + linktext + "</a>")
-    //-->
-  </script><a href="mailto:oawebmaster@oa.mo.gov">E-mail: OA Webmaster</a>.</p> 
-  <p></p>       
+          <h3>For More Information<a name="moreinfo"></a></h3>
+
+          <p>If you have any questions or comments about our privacy policy, <a href="/contact/technical.php">contact the webmaster</a>.</p>
+
+
+
+
+
+ 
 </div>
-</td>
-</tr>
-</tbody></table>
+
+  <div id="sub-nav" class="grid_5">
+    <h2>Section Links</h2>
+    <h3>Services and Programs</h3>
+   <ul>
+      <li><a href="/accessibility.php" title="Accessibility">Accessibility</a></li>
+      <li><a href="/contact/suggest.php" title="Suggest a Link for the web site">Suggest a Link</a></li>
+      
+      <li><a href="/contact/feedback.php" title="Web site feedback and suggestions">Web site feedback</a></li>
+  		<li><a href="/contact/technical.php" title="Technical issues">Contact the Webmaster</a></li>
+    </ul>
+    </div>
+  <div class="clear"></div>
+</div>
+
+
+  <div class="clear"></div>
+
+
+
+<div id="footer">
+<div class="container_12">
+	<div id="about" class="grid_3 alpha">
+		<h3>About MO.gov </h3>
+		<ul>
+			<li><a href="/accessibility.php">Accessibility</a></li>
+			<li><a href="/privacy.php">Privacy Policy </a></li>
+			<li><a href="/connect/rss.php">RSS Feeds </a></li>
+			<li><a href="/sitemap.php">Site Map </a></li>
+			<li><a href="/mo/teledir.htm">Employee Telephone Directory</a></li>
+			<li><a href="/contact/suggest.php">Suggest a Link</a></li>
+			<li><a href="/contact/">Contact Us</a></li>
+		</ul>
+	</div>
+	<div id="sites" class="grid_3">
+		<h3>MO.gov sites </h3>
+		<ul>
+			<li><a href="http://mapyourtaxes.mo.gov">Accountability Portal</a></li>
+			<li><a href="http://www.disabilityinfo.mo.gov/index.shtml">Disability Portal</a></li>
+			<li><a href="http://www.dps.mo.gov/HomelandSecurity/">Homeland Security</a></li>
+            <li><a href="http://cybersecurity.mo.gov/">Missouri Cyber Security</a></li>
+            <li><a href="http://www.molottery.com">Missouri Lottery</a></li>
+			<li><a href="http://www.missouriamberalert.com/">Amber Alerts</a></li>
+            <li><a href="http://transform.mo.gov/">Transform Missouri</a></li>
+		</ul>
+	</div>
+    <div id="feedback" class="grid_6 omega">
+      <h3>Rate this site:</h3>
+      <form id="rating" method="post" action="/contact/feedback.php">
+     <fieldset>
+    	<legend><span class="hide">Rate this site:</span></legend>
+		<div>
+			<input type="hidden" name="formPost" value="1">
+			<input type="hidden" name="token" value="quick">
+            <fieldset>
+			<legend><span class="hide">How would you rate your experience on this site?</span></legend>
+			<input name="rating" id="qradiorating1" type="radio" value="Poor"> <label for="qradiorating1">Poor</label>
+			<input name="rating" id="qradiorating2" type="radio" value="Subpar"> <label for="qradiorating2">Subpar</label>
+			<input name="rating" id="qradiorating3" type="radio" value="Okay"> <label for="qradiorating3">Okay</label>
+			<input name="rating" id="qradiorating4" type="radio" value="Good"> <label for="qradiorating4">Good</label>
+			<input name="rating" id="qradiorating5" type="radio" value="Excellent"> <label for="qradiorating5">Great</label>
+            </fieldset>
+		</div>
+		<div><label class="hide" for="quickMessage">Suggestions:</label><textarea id="quickMessage" name="message" rows="8" cols="40"></textarea></div>
+		<div>
+			<input id="quickFeedback" type="submit" name="Submit" value="Submit Feedback">
+		</div>
+        </fieldset>
+      </form>
+	</div>
+</div>
+</div><!-- END FOOTER -->
+
+<div id="finder" role="navigation">
+	<h2>State of Missouri Navigation</h2>
+      <ul>
+        <li><a href="/">MO.gov home </a></li>
+        <li><a href="http://governor.mo.gov">Governor Jay Nixon</a></li>
+        <li><a href="/Government/Agencies/">State Agencies</a></li>
+        <li><a href="/OnlineServices/">Online Services</a></li>
+        <li class="noBorder"><a href="/news/">News</a></li>
+        <li id="addThis" class="noBorder">
+		<!-- AddThis Button BEGIN -->
+		<a href="http://www.addthis.com/bookmark.php?v=250&amp;pub=xa-4a6e537773108c04" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s7.addthis.com/static/btn/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a6e537773108c04"></script>
+		<!-- AddThis Button END -->
+		</li>
+		<li id="changeFont" class="noBorder">
+			<a href="#" class="decreaseFont"><i>-</i></a>
+			<a href="#" class="increaseFont"><i>+</i></a>
+			<a href="#" class="resetFont"><i>Reset</i></a>
+			Font size
+		</li>
+      </ul>
+  </div>
+	<div id="menu">
+		<ul id="menu2" class="mainMenu cssonly" role="menu">
+			<li role="menu-item"><a href="/Government/" class="gov">Government</a>
+				<ul class="subnav">
+					<li>
+						<a href="/Government/Transparency/" title="Information to ensure openness in government">Transparency and Accountability</a>
+						<span>Information to ensure openness in government</span>
+					</li>
+					<li>
+						<a href="/Government/Agencies/" title="Listing of State agencies by keyword search or first letter in name">State Agencies</a>
+						<span>Listing of State agencies by keyword search or first letter in name</span>
+					</li>
+					<li>
+						<a href="/Government/Executive/" title="Elected officials, state agencies, administrative rules, code of state regulations and more">Executive Branch</a>
+						<span>Elected officials, state agencies, administrative rules, code of state regulations and more</span>
+					</li>
+					<li>
+						<a href="/Government/Legislative/" title="Legislator lookup, Missouri statutes, Missouri House, Missouri Senate, Missouri Constitution">Legislative Branch</a>
+						<span>Legislator lookup, Missouri statutes, Missouri House, Missouri Senate, Missouri Constitution</span>
+					</li>
+					<li>
+						<a href="/Government/Courts/" title="Information about Missouri's court system">Judicial Branch</a>
+						<span>Information about Missouri's court system</span>
+					</li>
+					<li>
+						<a href="/Government/Elections/" title="Find your polling place, schedules, results and more">Elections</a>
+						<span>Find your polling place, schedules, results and more</span>
+					</li>
+					<li>
+						<a href="/Government/Local/" title="City and county government links">Local Government</a>
+						<span>City and county government links</span>
+					</li>
+					<li>
+						<a href="/Government/Employees/" title="Devoted to answering the questions of State employees">For State Employees</a>
+						<span>Devoted to answering the questions of State employees</span>
+					</li>
+				</ul>
+			</li>
+			<li role="menu-item"><a href="/Business/" class="biz">Business</a>
+				<ul class="subnav">
+					<li>
+						<a href="/Business/Research/index.php" title="Information to consider when starting your business">Starting Your Business</a>
+						<span>Information to consider when starting your business</span>
+					</li>
+					<li>
+						<a href="/Business/Register/index.php" title="Information to help ensure you are ready to operate">Registering Your Business</a>
+						<span>Information to help ensure sure you are ready to operate</span>
+					</li>
+					<li>
+						<a href="/Business/Maintain/index.php" title="Business taxation, regular registration filings, renewing certain permits and licenses, and assistance">Maintaining Your Business</a>
+						<span>Business taxation, regular registration filings, renewing certain permits and licenses, and assistance</span>
+					</li>
+					<li>
+						<a href="/Business/Growing/index.php" title="Information about raising capital or receiving grant and loan assistance">Growing Your Business</a>
+						<span>Information about raising capital or receiving grant and loan assistance</span>
+					</li>
+					<li>
+						<a href="/Business/Hiring/index.php" title="Find quailifed emloyees from Missouri's  citizens, submit proper forms and taxes">Hiring Employees</a>
+						<span>Find qualified employees from Missouri's  citizens, submit proper forms and taxes</span>
+					</li>
+					<li>
+						<a href="/Business/Ending/index.php" title="Information on bringing you business to a close">Ending A Business</a>
+						<span>Information on bringing you business to a close</span>
+					</li>
+					<li>
+						<a href="/Business/Vendors/index.php" title="Resources for parties doing business with the State">Vendors</a>
+						<span>Resources for parties doing business with the State</span>
+					</li>
+					<li>
+						<a href="/Business/Professionals/index.php" title="Professional registration to conduct business in Missouri">Professional Registrations</a>
+						<span> Registration needed to conduct business in Missouri</span>
+					</li>
+					<li>
+						<a href="/Business/Veterans/index.php" title="Resources devoted especially to veterans in business">Veterans in Business</a>
+						<span>Resources devoted especially to veterans in business</span>
+					</li>
+				</ul>
+			</li>
+			<li role="menu-item"><a href="/Education/" class="edu">Education</a>
+				<ul class="subnav">
+					<li>
+						<a href="/Education/Pre-K/" title="Pre-kindergarten, child care, and other childrens' programs in the state">Pre-K and Child Care</a>
+						<span>Pre-kindergarten, child care, and other childrens' programs in the state</span>
+					</li>
+					<li>
+						<a href="/Education/K-12/" title="Kindergarten aged children through high school, including the Missouri Public School Directory">K-12</a>
+						<span>Kindergarten aged children through high school, including the Missouri Public School Directory</span>
+					</li>
+					<li>
+						<a href="/Education/Colleges/" title="Preparing and going to college, financial aid and saving for higher education">Colleges &amp; Universities</a>
+						<span>Preparing and going to college, financial aid and saving for higher education</span>
+					</li>
+					<li>
+						<a href="/Education/Adult/" title="Continuing education or preparatory information for taking the GED">Adult Education</a>
+						<span>Continuing education or preparatory information for taking the GED</span>
+					</li>
+					<li>
+						<a href="/Education/Libraries/" title="Information on public libraries  and the Missouri State Library">Libraries</a>
+						<span>Information on public libraries  and the Missouri State Library</span>
+					</li>
+					<li>
+						<a href="/Education/Educators/" title="Job listings for teachers, educator certification, curriculum and student testing">For Educators</a>
+						<span>Job listings for teachers, educator certification, curriculum and student testing</span>
+					</li>
+					<li>
+						<a href="/Education/Homework/" title="Information for student homework on state history and government">Students/Homework</a>
+						<span>Information for student homework on state history and government</span>
+					</li>
+				</ul>
+			</li>
+			<li role="menu-item"><a href="/Employment/" class="emp">Employment</a>
+				<ul class="subnav">
+					<li>
+						<a href="/Employment/Jobs/" title="Job listings for persons seeking a job with the State of Missouri or elsewhere">Job Seekers</a>
+						<span>Job listings within the State of Missouri or elsewhere</span>
+					</li>
+					<li><a href="/Employment/Employers/" title="Resources for employers seeking employees">For Employers</a>
+						<span>Resources for employers seeking employees</span>
+					</li>
+					<li><a href="/Employment/Training/" title="Available training and education for workers">Training &amp; Education</a>
+						<span>Available training and education for workers</span>
+					</li>
+					<li><a href="/Employment/Unemployment/" title="File a claim for unemployment benefits and check on the status of benefits">Unemployment Claims</a>
+						<span>File a claim and check on the status of benefits</span>
+					</li>
+					<li><a href="/Employment/Injured/" title="Worker's compensation benefits and information on filing a claim">Injured Workers</a>
+						<span>Worker's compensation benefits and information on the system</span>
+					</li>
+					<li><a href="/Employment/Workplace/" title="Worker's rights, labor laws, workplace safety and more">Workplace Issues</a>
+						<span>Worker's rights, labor laws, workplace safety and more</span>
+					</li>
+				</ul>
+			</li>
+			<li role="menu-item"><a href="/Family/" class="fam">Home &amp; Families</a>
+				<ul class="subnav">
+					<li>
+						<a href="/Family/Children/" title="Services and aid for children including child support enforcement">Children's Services</a>
+						<span>Services and aid for children including child support enforcement</span>
+					</li>
+					<li>
+						<a href="/Family/Consumer/" title="Consumer education, resources and complaints">Consumer Protection</a>
+						<span>Consumer education, resources and complaints</span>
+					</li>
+					<li>
+						<a href="/Family/Driving/" title="Links to services devoted to children">Driving &amp; Vehicles</a>
+						<span>Registering vehicles, becoming a licensed driver and being on the road</span>
+					</li>
+					<li>
+					  <a href="/Family/Housing/" title="Links to information about housing, homes, property and utilites for owners, landlords and renters">Housing &amp; Utilities</a>
+					  <span>Housing, homes, property and utilities for owners, landlords and renters</span>
+				  </li>
+                  <li>
+					  <a href="/Family/Marriage/" title="Links to services and information related to marriage in Missouri">Marriage</a>
+					  <span>Links to services and information related to marriage in Missouri</span>
+					</li>
+					<li>
+					  <a href="/Family/Moving/" title="Links to services and information for those moving to Missouri">Moving to Missouri</a>
+					  <span>Information for persons moving to Missouri or contemplating a move</span>
+					</li>
+				  <li>
+					  <a href="/Family/Seniors/" title="Links to services devoted to seniors">Seniors</a>
+					  <span>Services devoted to seniors</span>
+				  </li>
+                   <li>
+					  <a href="/Family/Taxation/" title="Links to services and information regarding taxation and personal finance">Taxation &amp; Finance</a>
+					  <span>Taxation, finance, saving for retirement and more</span>
+				  </li>
+                  
+				</ul>
+			</li>
+			<li role="menu-item"><a href="/Health/" class="health">Health &amp; Safety </a>
+				<ul class="subnav">
+				  <li>
+					  <a href="/Health/Children/" title="Links to services devoted to children's health and safety">Children's Health &amp; Safety</a>
+					  <span>Children's health, Amber Alerts, search sex offenders and more</span>
+				  </li>
+				  <li>
+					  <a href="/Health/Wellness/" title="Links to services devoted to children">Health &amp; Wellness</a>
+					  <span>Helping Missourians lead healthier lives</span>
+				  </li>
+				  <li>
+					  <a href="/Health/Insurance/" title="Links to services devoted to health and disaster insurance">Insurance</a>
+					  <span>Learn more about health and disaster insurance</span>
+				  </li>
+                  <li>
+					  <a href="/Health/Internet/" title="Links to help keep kids, teens and adults stay safe on the internet">Internet Safety</a>
+					  <span>Links to help keep kids, teens and adults stay safe on the internet</span>
+				  </li>
+				  <li>
+					  <a href="/Health/Mental/" title="Links to services and information devoted to mental health">Mental Health</a>
+					  <span>Services and information devoted to mental health</span>
+				  </li>
+				  <li>
+					  <a href="/Health/Public/" title="Links to services and information devoted to public health">Public Health</a>
+					  <span>Public health issues like pandemics, vaccinations and disease control</span>
+				  </li>
+				  <li>
+					  <a href="/Health/Safety/" title="Links to services and information devoted to safety">Personal &amp; Public Safety</a>
+					  <span>Services and information devoted to personal and public safety, including alerts and warnings</span>
+				  </li>
+                  <li>
+					  <a href="/Health/Seniors/" title="Links to services devoted to the health and safety of seniors">Senior Health &amp; Safety</a>
+					  <span>For the health and safety of seniors</span>
+				  </li>
+				</ul>
+			</li>
+        	<li class="last" role="menu-item"><a href="/Recreation/" class="rec">Recreation</a>
+				<ul class="subnav">
+				  <li>
+					  <a href="/Recreation/Culture/" title="Cultural happenings in  including Museums, Zoos, Fairs and Music">Arts &amp; Culture</a>
+					  <span>Cultural happenings in  including Museums, Zoos, Fairs and Music.</span>
+				  </li>
+				  <li>
+					  <a href="/Recreation/Outdoors/" title="Hunting, fishing, State Parks, and other outdoor recreation in the state">Outdoors in Missouri</a>
+					  <span>Hunting, fishing, State Parks, and other outdoor recreation in the state</span>
+				  </li>
+				  <li>
+					  <a href="/Recreation/Conditions/" title="Stay informed of the current road, weather and travel conditions in Missouri">Travel Conditions</a>
+					  <span>Stay informed of the current road, weather and travel conditions</span>
+				  </li>
+				  <li>
+					  <a href="/Recreation/Sports/" title="Sporting events, associations, organizations, and teams in Missouri">Sports</a>
+					  <span>Sporting events, associations, organizations, and teams in Missouri</span>
+				  </li>
+				  <li>
+					  <a href="/Recreation/Tourism/" title="Tourism resources for visitors and residents taking or planning a trip">Tourism Resources</a>
+					  <span>Tourism resources for visitors and residents taking or planning a trip</span>
+				  </li>
+				  <li>
+					  <a href="http://visitmo.com" title="The official tourism site for the state of Missouri">VisitMO.com</a>
+					  <span>Official tourism site for the state of Missouri</span>
+				  </li>
+				</ul>
+			</li>
+		</ul><!-- end ul .mainMenu #menu2 -->
+	</div><!-- end div .container_12 -->
+<div id="headerArt"></div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-7798951-6");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+
+
 
 </body></html>
