@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bsigroup.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531074934id_/http%3A//www.bsigroup.com/Legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bsigroup.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213024559id_/http%3A//www.bsigroup.com/en/Legal/privacy) for the most accurate reproduction.*
 
 # Privacy
 
