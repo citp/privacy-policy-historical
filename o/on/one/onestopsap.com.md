@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the onestopsap.com privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612091544id_/http%3A//www.onestopsap.com/about/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onestopsap.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213130105id_/http%3A//www.onestopsap.com/about/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## One Stop SAP Privacy Policy
+## OneStopSAP Privacy Policy
 
 Thank you for visiting our web site. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted clearly on the website. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
 
