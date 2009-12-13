@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chennaiclassic.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603060055id_/http%3A//www.chennaiclassic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chennaiclassic.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213044958id_/http%3A//www.chennaiclassic.com/privacy.php) for the most accurate reproduction.*
 
 # None
 
