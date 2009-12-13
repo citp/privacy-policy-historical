@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the collegenet.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626041316id_/http%3A//corp.collegenet.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegenet.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213144522id_/http%3A//corp.collegenet.com/privacy_statement) for the most accurate reproduction.*
 
 # Welcome to CollegeNET
 
 |  CollegeNET, Inc. Privacy and Security Statement  
-(Last Updated: May 1, 2007)
+(Last Updated: November 4, 2009)
 
 Introduction  
 The security of our users' personally identifiable information is a high priority for CollegeNET, Inc. ("CollegeNET"). This Privacy Statement ("Statement") applies to personally identifiable information collected by CollegeNET on its Web sites at [www.collegenet.com](http://www.collegenet.com/), [http://www.corp.collegenet.com](http://www.corp.collegenet.com/), [www.contribute.com](http://www.contribute.com/), and [www.applyweb.com](http://www.applyweb.com/). We also act as an outsourced service provider for colleges, universities, nonprofits, and other organizations (referred to in this Statement as our "clients"). When our clients collect information about you through the use of our facilities, their privacy policies and practices govern their use and disclosure of that information. 
@@ -57,11 +57,11 @@ Children Under 13
 Our sites and the forms accessible using our technology are not intended to collect personal information from children under the age of 13. If you are under 13 years old, you should not create an account with us, otherwise provide personal information to us through our sites or other services, or create any applications or other forms through our services. 
 
 Cookies  
-We may use cookies to identify users and to customize their experiences. Our cookies contain no personal information about you. We use cookies to prevent you from having to repeatedly enter your login information, to save college and scholarship searches temporarily, to administer our Web sites and help us understand how visitors use them, and to improve our Web sites and related products and services. 
+We may use cookies, Web beacons, or other technologies to identify users, to collect information about their preferences and history, and to customize their experiences. Our cookies contain no personal information about you. We use cookies to prevent you from having to repeatedly enter your login information, to save college and scholarship searches temporarily, to administer our Web sites and help us understand how visitors use them, and to improve our Web sites and related products and services. 
 
-We may use third parties, including network advertisers and other third party ad servers, to deliver ads to you. These third party ad servers may use cookies, Web beacons, or other technology to collect information about your visits to our Web sites and may use that information to present advertisements that may be of interest to you (including while you are no longer on our Web sites). 
+We may use third parties, including network advertisers and other third party ad servers, to deliver ads to you. These third party ad servers may use cookies, Web beacons, or other technology to collect information about your visits to our Sites and may use that information to present advertisements that may be of interest to you (including while you are no longer on our Sites). This Statement does not apply to, and we are not responsible for, cookies, Web beacons, or similar technologies in third party ads, and we encourage you to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technology. 
 
-You may refuse to accept cookies by following the procedures specific to your Web browser. If you do so, your browser may react strangely and you may not be able to complete, save, or submit a form or use some services on our Web sites. 
+You may refuse to accept cookies by following the procedures specific to your Web browser. If you do so, your browser may react strangely and you may not be able to complete, save, or submit a form or use some services on our Sites. 
 
 Security  
 We use reasonable security measures in an effort to prevent loss, misuse, or alteration of personal information under our control. When you submit an application or other form through our sites, provide electronic payment information that we request, or log in to your CollegeNET account, we use encryption, such as the Secure Socket Layer ("SSL") protocol, to protect such information while in transit. We also limit access to personal information while in our control and use firewalls in order to restrict access to it. We provide any electronic payment information you provide to us on our sites or in our forms to our payment processor, and use SSL or other encryption to protect it while in transit. We do not store it after it is transmitted to the payment processor. 
