@@ -1,126 +1,44 @@
-> *The following text is extracted and transformed from the lawyer.com privacy policy that was archived on 2001-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010406142146id_/http%3A//www.mail.com/mailcom/privacypolicy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawyer.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213011205id_/http%3A//www.lawyer.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[](https://web.archive.org/?dest=start_welcome)
+World Media Group, LLC ("Company") manages websites including the Lawer.com website and provides this privacy policy because we value your right to privacy. This policy is effective as of January 1, 2009 and governs the collection of personal information through our websites on or after this date.
 
-|   
----  
-|  | 
+This policy describes the types of information we may collect from visitors and how that information is used. Please read this policy carefully before providing us with any personal information. If you have questions about this policy, contact us at [privacy@world.com](mailto:privacy@world.com)
 
-| [](https://www.truste.org/validate/4596)The TRUSTe seal verifies that Mail.com is a member of the TRUSTe Program and the company and this privacy statement are in compliance with TRUSTe's privacy principles.  
----  
-| 
+We offer information at our website that is in the public domain as a service to our users seeking easier and faster ways to access information. The lawyer database used on this site was licensed from another company. Data may be outdated due to the date and the method of the collection. If you find data that is inaccurate please contact us at [compliance@world.com](mailto:compliance@world.com) and we can verify and then update the directory.
 
-**About TRUSTe**  
-  
----  
-  
-When you visit a Web site displaying the TRUSTe trustmark, you can expect to be notified of what personally identifiable information of yours is collected; the organization collecting the information; how the information is used, and with whom the information may be shared; what choices are available to you regarding collection, use and distribution of the information; the kind of security procedures that are in place to protect the loss, misuse or alteration of information under the Web site's control; and how you can correct any inaccuracies in the information.
+**Information we collect.**
 
-Questions regarding this statement should be directed to Mail.com by e-mail to [privacydirector@corp.mail.com](mailto:privacydirector@corp.mail.com). If Mail.com has not responded to your inquiry within five business days of your inquiry or your inquiry has not been satisfactorily addressed, please contact [ TRUSTe](http://www.truste.org/).  
-  
-* * *
+**Unregistered users**  
+You can register at some of our sites to take advantage of personalization features.
 
-   
-  
-**Mail.com's Privacy Policy**  
-  
-|    
----  
-When you **register** for an account:  
-   
-| 
+If you do not register, then the information we collect from you when you visit the site is limited. We log your IP address in order to help diagnose problems with our server, administer our Web site and track usage statistics. Your IP address may vary each time you visit, or it may be the same. It would be extremely difficult for us to identify you through your IP address, and we make no attempt to do so. If you reached our site by clicking on a link or advertisement on another site, we may log that information. All of this information is collected and used only in the aggregate.
 
-**_We Will:_**
+We may place a small "cookie" file on your computer's hard drive. A cookie may contain information that allows us to track your path through our Web site and to determine whether you have visited us before. Unless you register with us, the cookie contains no personally identifiable information. We may use cookies to help us understand how visitors use our site, and to help us to improve our site. You may elect not to accept cookies by changing settings in your browser. 
 
-|   | 
+**Registered users**  
+If you choose to register with us when you visit our site, you'll be able to add content to certain of our sites. For example, you may post your own comments on hundreds of popstars listed at PopStar.com. At certain sites, you can provide your email address to receive newsletters and other information. For example, at Asia.com we will send you travel booking confirmations.
 
-**_We Won't:_**  
-  
----|---|---  
-  
-1.  Collect personally identifiable (e.g. name, address) and demographic (e.g. age, gender) information about you. We will use the demographic data to post ads (appealing to your demographic) on our Web site when you log in.
+If you register with us, we will collect personal information from you in addition to the non-personal information described above. That personal information may include your name, email address, mailing address, telephone number, travel preferences, user name and password, as well as contact information for other people that you provide to us. The information we collect may vary, but we only collect the information that you manually enter into our forms or otherwise authorize us to collect. We may store all or some of that information in a cookie file on your hard drive, so that our system will recognize you each time you visit our site. In that way, we can save your preferences from visit to visit and present you with a customized Web site, without requiring you to log into our site every time you visit. To improve services and enhance personalization, we may periodically obtain information about you from other independent third-party sources and add it to your registration information. Additionally, authorized personnel may update your registration information to accurately reflect any new information included in communications received from you.
 
-2.  Provide industry-standard security to protect your personal information while it is in our possession. If you use your credit card to pay for premium services, then your credit card information will be encrypted using SSL technology and will be stored on secure servers.
+If you reach our site through one of our partners and you choose to register with us, we may be required to give our partner your registration information. 
 
-3.  Give you access to review and edit your personal and demographic information while it is in our possession. If you already have an account with us, [Click Here](http://www.mail.com/) to change your information now.
+**How we use the personal information we collect.**  
+Registering allows you to personalize our Web site so that it is most useful to you. It also allows you to log into our site automatically each time you visit, rather than manually typing your user name and password every time. We may use your personal information to periodically contact you with news or important information, to provide you with other information or invitations related to your membership, and to request your feedback on our site. In addition to these periodic updates, we may email you additional marketing materials that you have requested. These might include opt-in newsletters and partner offers. You may opt-out of any or all marketing communications in any commercial e-mail we send or at any time (opt-out links are provided in all emails).
 
-4.  Send you service announcements notifying you of any new products or updates to the service. We may use your alternate e-mail address and home address to ensure that you receive important information about your account or information you have requested.
+We may also use certain information that you provide in order to present you with advertising that you may find interesting. This benefits both of us. It benefits us because advertising helps pay the bills, and we can charge our advertisers more if they know that their ads will be seen by somebody more likely to find it useful. It benefits you because you see advertising that is more likely to be interesting to you and because it permits us to offer you a broader range of free services. 
 
-5.  Give you the choice of "opting in" to receive third party mailings.
+**Disclosure of your personal information.**  
+We may share some of your personally identifiable information with our parent company, our subsidiaries and sister companies. We do not place restrictions on the use of personal information by our parent company, subsidiaries, or affiliates but require that they will treat it at least as protectively as they treat information they obtain from their other users. They also will comply with applicable laws governing the transmission of promotional communications, and must give you an opportunity in any such email that they send to choose not to receive such promotional e-mail messages in the future.
 
-6.  Make it easy for you to unsubscribe from any Mail.com-owned mailing list by following directions at the bottom of any e-mail that you receive from us.    
-*(unless it is vital to the operation of your account).
+We also may share your personal information with third-parties engaged to provide services to us (such as market research firms, marketing services providers and advertising agencies). We will ensure those parties to agree to use any such personally-identifiable data solely for the purpose of providing the specified services to us. We must cooperate with legal authorities, and may in some circumstances be required to disclose personally identifiable information in response to requests from law enforcement authorities, or in response to a subpoena or other legal process. We can turn over information about you if we believe we must in order to prevent a violation of the law, and by accepting this policy, you consent to our doing so, in our sole discretion. You also consent to our disclosing information about you in the course of legal proceedings if we are legally required to do so, if we reasonably believe that doing so may mitigate our liability, or if doing so will assist us in enforcing our legal rights. We also may share your information in connection with a corporate transaction, such as a divestiture, merger, consolidation, or asset sale, and in the unlikely event of bankruptcy. 
 
-7.  Bundle information to better design our Web site and to share with our advertisers and partners. This aggregate information cannot be used to learn anything about any particular individual.
+**Changes to this Privacy Policy.**  
+We reserve the right to change this policy should we deem it advisable to do so. If we make material changes that will affect personal information we have already collected from you, we will make reasonable efforts to notify you of the changes and give you the opportunity to amend or cancel your registration.
 
-|   | 
+Legal Term Highlighted
 
-1.  Send you unsolicited commercial e-mail (spam).
+ **spousal support:** See alimony.
 
-2.  Do the following, without your explicit permission; 
-
-  1. Share your personal information or demographic data
-  2. Give anyone access to your e-mail, **or**
-  3. Open or read messages in your account:
-
-unless, we believe, in good faith, that such release is necessary to: 
-
-  1. Comply with the law
-  2. Enforce or apply the terms of our user agreement, **or**
-  3. Protect the rights, property, or safety of Mail.com, our users, or the public.
-
-We may also transfer personally identifiable information to a buyer of all or part of our business.
-
-3.  Share any data with outside parties that would identify a specific user.
-
-4.  Knowingly collect information from children under the age of 13. [Click here](http://www.ftc.gov/ogc/coppa1.htm) for more information.
-
-5.  Contact you via e-mail or any other method to ask you for your password. Do not share your password with anyone; you should only enter it directly into our Web site.
-
-6.  Contact you via e-mail or any other method to ask you for your credit card information. You should only enter this information directly into our Web site.
-
-7.  Materially change how we use your personally identifiable information without placing a prominent notice on our Web site first.  
-  
-  |   |    
-  
-* * *  
-  
----  
-_**Cookies**_ : Our Web site uses cookies for the purpose of identifying you uniquely. This allows us to pre-populate your e-mail address on the login page and to distinguish between your mail session and that of the many other people using our service. Cookies also ensure that you view relevant ad banners on our Web site when you log in. Our web-based mail service will not function unless your browser is set to accept cookies.  
-  
-* * *  
-  
-_**Links**_ : Be aware that when you click on ad banners, you may be redirected to other sites not operated by Mail.com. You are responsible for information that you provide to these sites. We recommend that you review the privacy policy of any site that requests personal information.   
-** Note that this policy does not cover the privacy practices of these linked sites.  
-  
-* * *  
-  
-_**General Information Collected**_ : When visiting our site, some general information is collected including: IP address (your computer's unique signature) Operating system (e.g., Windows 95) Browser software (e.g., Microsoft Internet Explorer, Netscape) Internet Service Provider (e.g., Earthlink, Verizon).
-
-The information we collect is aggregated to reflect the population as a whole rather than focused on individuals. We use it to help us better understand the people who visit Mail.com. In addition, like many other sites with paid advertising, we disclose some of this aggregate information to advertisers to inform them of the number of people who have seen and clicked on their advertisements.  
-  
-* * *  
-  
-_**[DoubleClick](http://www.doubleclick.com/)**_ : We do **not** provide DoubleClick with any of your personal or demographic information. We are able to post ad banners targeting your demographic by matching your data with the demographic the ad banner is targeting. It is important to note that these ads may contain cookies. To find out more about how DoubleClick manages privacy in conjunction with serving ads go to [ Click here](http://www.doubleclick.com/us/corporate/privacy/).  
-  
-* * *  
-  
-_**Third Party Service Providers** :_ Agents of Mail.com may occasionally process individual user data.  However, they are not allowed to use this information for any other purpose. All individual user data is owned and controlled by Mail.com.  
-  
-* * *  
-  
-Questions? For any questions or comments concerning Mail.com's privacy policy, please write to [privacydirector@corp.mail.com](mailto:privacydirector@corp.mail.com)
-
-If you need to contact us, do not reply to an e-mail that you have received unless you are sure that it is going to the above address, or any address with the domain corp.mail.com or staff.mail.com.
-
-Last updated 11/23/00  
-  
-  
-
-
-© 2000 Mail.com, Inc. All rights reserved.
-
-  
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+#### Looking for something else?
