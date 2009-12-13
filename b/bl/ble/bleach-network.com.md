@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bleach-network.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617013943id_/http%3A//bleach-network.com/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bleach-network.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213133727id_/http%3A//bleach-network.com/information/privacy-policy) for the most accurate reproduction.*
 
 # Bleach Anime & Manga Network » Privacy Policy
 
