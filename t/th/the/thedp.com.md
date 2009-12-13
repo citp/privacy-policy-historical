@@ -1,53 +1,39 @@
-> *The following text is extracted and transformed from the thedp.com privacy policy that was archived on 2002-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020205134736id_/http%3A//thedp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedp.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213022737id_/http%3A//www.thedp.com/privacy) for the most accurate reproduction.*
 
-# the Digital Prodigy - The E-Mail Marketing Toolbox.
+# Privacy Policy | The Daily Pennsylvanian
 
-|  | **Privacy   Statement**  
----  
-the Digital Prodigy is firmly committed to respecting and protecting the privacy of visitors to our web site as well as the privacy of our current clients. We strictly adhere to all industry guidelines, and will continue to review and improve our privacy policy and procedures to ensure the safety and protection of consumer information. This Privacy Statement presents our privacy policy for our www.thedp.com web site.
+Effective Date of This Online Privacy Policy  
+This Online Privacy Policy is effective as of February 23, 2009.  
+**Scope of This Online Privacy Policy**  
+This Online Privacy Policy describes how The Daily Pennsylvanian, Inc. (“DP”) protects your privacy when you use the DP’s [www.thedp.com](http://www.thedp.com/ "www.thedp.com") website, as well as any other websites linking to this page, (hereinafter collectively referred to as the “Websites”). This Online Privacy Policy applies only to personal information collected through the Websites. “Personal information” means information that identifies you personally, either alone or in combination with other information available to us. This Online Privacy Policy is part of and incorporated into the [Terms and Conditions of Use](http://www.thedp.com/terms) for the Websites.
 
-The Digital Prodigy expressly forbids the transmission of unsolicited commercial e-mail.  
-  
-**INFORMATION TRACKED**.  
-We use your IP address to help diagnose problems with our server and to administer our web site. We also track browser types to help us understand our visitors' needs as they relate to our web site design. IP addresses are not linked to personally identifiable information. Our site's optional information request forms require your name, company, e-mail address, as well as information to help us determine your needs related to our solution. We use this information to send updates about our company and contact you if requested or necessary. You may opt-out of receiving future mailings; see the choice/opt-out section below. When you receive an updated profile form, that information comes from our database.
+**Your Consent to This Online Privacy Policy**  
+By using the Websites, you are agreeing to the collection, use, and disclosure of your personal information as described in this Online Privacy Policy. If you do not consent to the collection, use, and disclosure of your personal information as described in this Online Privacy Policy, you may not use the Websites. If you have any questions or concerns regarding this Online Privacy Policy or DP’s privacy practices, please email us at [webmaster@dailypennsylvanian.com](mailto:webmaster@dailypennsylvanian.com).
 
-When you visit our web site, our web server collects basic user information about you that includes your ISP's domain, the time you accessed our web site, and the pages from within our web site that you visit. We use this information to help diagnose problems with our server and to administer web sites. IP addresses are not linked to personally identifiable information. Our site's optional information request forms require your name, company, e-mail address, as well as information to help us determine your needs related to our solution. We use this information to send updates about our company and contact you if requested or necessary. You may opt-out of receiving future mailings; see the choice/opt-out section below. When you receive an updated profile form, that information comes from our database.  
-  
-**COOKIES**.  
-We may at times also use cookies, which are small pieces of information that a web site can store in a designated file on your computer. Cookies allow a web application to respond to you as an individual. By gathering and remembering information about your preferences, the web application can tailor its operation to your needs, likes, and dislikes. Our web server does not collect your e-mail address or aggregate information on what other pages on the Web you have accessed or visited.
+**This Online Privacy Policy May Change**  
+DP reserves the right to update or modify this Online Privacy Policy, at any time and without prior notice, by posting the revised version of this Online Privacy Policy on the Websites. Your use of the Websites following any such change constitutes your agreement that all personal information collected from or about you through the Websites after the revised Online Privacy Policy is posted will be subject to the terms of the revised Online Privacy Policy. You may access the current version of this Online Privacy Policy at any time by clicking on the link marked “Privacy Policy” at the bottom of each page of the Websites.
 
-Cookies are also used to verify the login status of customers using products or services linked directly with our website. Cookies are also used to track and measure the success of a particular marketing campaign. Usage of a cookie is in no way linked to any personally identifiable information while on our site. All set cookies are temporary; once the user closes their browser, the cookie simply terminates. If a user rejects the cookie, they may still use our site; however, the user may be limited to the access of some areas within our website.  
-  
-**SHARING AND USAGE**.  
-We will never share, sell, or rent individual personal information with anyone without your advance permission or unless under the following circumstances:
+**What Personal Information Do We Collect?**  
+Information You Volunteer. DP collects the personal information you knowingly and voluntarily provide when you use the Websites, for example, the information you provide when you register on the Websites, post comments, or when you provide feedback or letters to the editor.
 
-1\. it is necessary in order to provide service to the client;
+Information Sent to Us by Your Web Browser. DP may collect information that is sent to it automatically by your web browser, such as your IP address, the address of the web page you were visiting when you accessed the Websites, information on your operating system and browser, and the date and time of your visit. The information DP receives depends on the settings on your web browser. The information provided by your browser does not identify you personally. DP uses this non-personal information primarily to create statistics that help it improve the Websites and make them more compatible with the technology used by their visitors. However, if you have registered on the Websites, DP may link the information provided by your browser to information that identifies you personally. In addition, DP may review its server logs for security purposes, such as detecting intrusions into its network. If DP suspects criminal activity, DP might share its server logs – which contain visitors’ IP addresses – with the appropriate investigative authorities who could use that information to trace and identify individuals.
 
-2\. it is necessary to protect the legitimate interests of the Digital Prodigy and its clients;
+Information Collected Using “Cookies” and Other Web Technologies. DP uses “cookies,” and similar technologies to collect information and manage the Websites. A cookie is a small text file that is placed on your hard disk by a Web server. Each time you visit the Websites, the DP’s web server will recognize you by “searching” the information contained in these cookies. This permits DP to offer you a personalized experience when you use the Websites. These cookies do not identify you personally. If, however, you have created a user identity on the Websites, DP may link the information collected by its cookies to information that identifies you personally. If you do not wish to receive cookies, you may set your browser to reject cookies or to alert you when a cookie is placed on your computer. You may also delete the cookies as soon as you leave the Websites. Although you are not required to accept cookies when you visit the Websites, if you set your browser to reject cookies, you will not be able to use all of the features and functionality of the Websites.
 
-3\. it is required to cooperate with interception orders, warrants, or other legal process that the Digital Prodigy determines in its sole discretion to be valid and enforceable;
+**How Do We Use Your Personal Information?**  
+DP may use the personal information collected through the Websites to maintain your registration on the Websites, to improve the Websites, and for any other purpose DP may disclose to you from time to time. DP may also use personal information sent by your web browser or by cookies to perform statistical analyses of DP’s server logs in order to study the use and popularity of various areas of the Websites. DP also reviews IP addresses to analyze where it is getting its audience.
 
-4\. it is necessary to provide to a law enforcement agency when the contents are inadvertently obtained by the Digital Prodigy and appear to pertain to the commission of a crime.
+**With Whom Do We Share Your Personal Information?**  
+It is not DP’s policy to sell or make available your personal information to unrelated third parties for marketing purposes, or for any other purposes not expressly described herein. DP may share your personal information with other divisions and publications of The Daily Pennsylvanian, Inc. DP may inform advertisers of the results of its analyses of server logs, including details regarding usage of the Websites and general information about DP’s audience; however, such disclosures will refer only to general, aggregate usage data from these analyses – never specific identifying information. DP may share personal information collected through the Websites with companies and organizations that perform services on its behalf, for example, companies that provide support services (such as data storage and web hosting services). DP may disclose the personal information it collects through the Websites when it, in good faith, believes disclosure is appropriate to comply with the law (or a court order or subpoena); to prevent or investigate a possible crime, such as fraud or identity theft; to enforce the terms of use or other agreements that govern your use of the Websites; to protect the rights, property or safety of DP, its users or others; or to protect your vital interests. Information submitted to the Websites is an asset of DP and will become part of its normal business records. Your personal information may be transferred to another company that acquires the stock or assets of DP, for example, as the result of a sale, merger, reorganization, dissolution or liquidation. If such a transfer occurs, the acquiring company’s use of your personal information will still be subject to this Online Privacy Policy.
 
-Information submitted to us is only available to employees managing this information for purposes of contacting you or sending you e-mails based on your request for information.  
-  
-**SECURITY**.  
-the Digital Prodigy takes every precaution to protect our web site visitors' information, both on and off-site. the Digital Prodigy takes care to reinforce the importance of our web site visitors' security and privacy among our employees. We are constantly re-evaluating and deploying new technologies to enhance our security.  
-**OPTI-IN/OPT-OUT**.  
-the Digital Prodigy provides e-mail recipients the opportunity to opt-in and opt-out of receiving communications from us. This is made available during sign-up for our e-mail lists and in all e-mail messages delivered from our company, or you can e-mail us at support@thedp.com. Once a recipient opts-out, the recipient will no longer receive future communications.  
-**NOTIFICATION OF CHANGES**.  
-If we decide to change our privacy policy, we will post those changes on www.thedp.com so our web site visitors and e-mail recipients are always aware of what information we collect and how we use it.  
-|   
----  
-| **In The News**  
----  
-| **::   **10/22/01****  
----  
- New Web Site Design Launch  
-**::   **10/23/01****  
- Create a Demo Feature Live  
-**Create A Demo**  
----  
-|  You can use our Online Scheduler if you want to see our system at work.  
----  
-**[::  Let's Go >>](https://web.archive.org/the_toolbox/create_demo.asp)**
+**Caution in Posting Information**  
+Users should keep in mind that, when posting their user name, e-mail address, or other personal information on Interactive Areas on the Websites, that information can be read by any third parties and may result in unsolicited messages from other posters or third parties. DP has no control over the use of any information you make publicly available on the Websites, and DP urges you to use caution in disclosing your e-mail address or any other information that would enable a third party to contact you. In addition, please be aware that DP may make use of or refer to content posted by individual users of the Websites for the purposes of promotion of the Websites (including without limitation taking screen shots of a particular area of the Websites and using that screen shot as a graphic in an advertisement).
+
+**Modifying Your Information**  
+DP respects your right to make choices about the ways DP collects, uses, and discloses your personal information. You may update or modify your information or change your preferences at any time by logging in to the Websites or contacting us at [webmaster@dailypennsylvanian.com](mailto:webmaster@dailypennsylvanian.com).
+
+**Security**  
+Although DP has security measures in place to safeguard the confidentiality of personal information as it travels over the Internet, “perfect security” does not exist on the Internet, and DP cannot guarantee the safety of transmitting personal information over the Internet. Likewise, although DP takes reasonable steps to limit the disclosure of personal information as outlined in this Online Privacy Policy, DP cannot guarantee that your personal information will be secure permanently. For example, it is possible that personal information could be lost due to technical problems or stolen. DP is not responsible for any loss or theft of personal information.
+
+**Children’s Privacy**  
+The Websites are not directed at nor targeted to children under the age of 13. DP does not use the Websites to knowingly solicit personal information from or market to children under the age of 13. If you are under the age of 13, do not provide DP with any personal information. If DP learns that someone under 13 has provided personal information to the Websites, DP will use reasonable efforts to remove such information from its databases.
