@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acquia.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617014318id_/http%3A//acquia.com/about-us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acquia.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213070632id_/http%3A//acquia.com/about-us/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Acquia
 
@@ -20,6 +20,8 @@ If you install and use the “Acquia agent” and “Acquia site information” 
 If you install and use the Mollom spam blocking module within Acquia Drupal and connect your installation of Acquia Drupal to Mollom service delivered through the Acquia Network service, our third party service provider, Mollom BVBA, may collect, analyze, and store information about you and your site visitors and content submitted by your site visitors for anti-spam and quality monitoring purposes as set forth in Mollom’s privacy policy available at <http://mollom.com/web-service-privacy-policy>.
 
 If you submit information to our web site, our third party service provider, Mollom BVBA, may collect, analyze, and store information about you and the content you submit for anti-spam and quality monitoring purposes as set forth in Mollom’s privacy policy available at <http://mollom.com/web-service-privacy-policy>.
+
+If you install and use the Acquia Search module and connect your Drupal site to the Acquia Network service, in addition to the information we may collect, analyze and store when you use the Acquia Agent or Acquia site information modules, the Acquia Search module may collect, analyze and store the content of your site in an index. This index will be stored and updated on our servers to enable Acquia Search to work with your site. A copy of this index may be retained for up to 14 days as a backup in the event there is a problem with the index. Additionally, information about the size of your index, the search queries performed on your index, performance of Acquia Search for your queries, and other operational information is stored indefinitely in order to enable Acquia to monitor performance over time, manage the Search Service, and to provide you with information about the Search activity on your site.
 
 If you choose to contact us by e-mail, we will not disclose your contact information contained in the e-mail, but we may use your contact information to send you a response to your message. Notwithstanding the foregoing, we may publicly disclose the content and/or subject matter of your message, therefore, you should not send us any ideas, suggestions or content that you consider proprietary or confidential. All e-mail content (except your contact information) will be treated on a non-proprietary and non-confidential basis and may be used by us for any purpose.
 
@@ -53,7 +55,7 @@ Acquia will also delete the personally identifiable information that you have pr
 
 If you wish to review, correct or request the deletion of any information you have provided to us, contact us:  
 By e-mail: [legal@acquia.com](mailto:legal@acquia.com)  
-By mail: 200 Brickstone Square Suite 403, Andover, MA 01810
+By mail: 150 Presidential Way Suite 310, Woburn, MA 01801
 
 **Questions**  
 If you have any questions regarding this Privacy Policy please contact us via email at [legal@acquia.com](mailto:legal@acquia.com).
@@ -61,5 +63,5 @@ If you have any questions regarding this Privacy Policy please contact us via em
 _Users Outside of the United States of America_  
 Our computer systems are currently based in the United States, so your personal data will be processed by us in the U.S. where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. If you create a user account with one or both of the Sites as a visitor from outside the United States, by using either Site, you agree to this Privacy Policy and you consent to the transfer of all such information to the United States, which may not offer an equivalent level of protection of that required in the European Union or certain other countries, and to the processing of that information as described in this Privacy Policy.
 
-This Privacy Policy was last updated: October 27, 2008  
+This Privacy Policy was last updated: September 11, 2009  
 This Privacy Policy is effective as of: February 28, 2008
