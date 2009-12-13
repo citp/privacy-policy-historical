@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mobileheart.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604081727id_/http%3A//www.mobileheart.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobileheart.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214004838id_/http%3A//www.mobileheart.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy from MobileHeart.com
 
 We do not sell, trade, rent or make available, your personal information to others.
 
-This Privacy Policy outlines how your personal information is treated and forms part of our Terms & Conditions Of Use. We may occasionally modify our Privacy Policy; when this happens we will notify you via our[ Terms of Use](https://web.archive.org/web/20090604081727id_/http%3A//www.mobileheart.com/terms_and_conditions.aspx) page. 
+This Privacy Policy outlines how your personal information is treated and forms part of our Terms & Conditions Of Use. We may occasionally modify our Privacy Policy; when this happens we will notify you via our[ Terms of Use](https://web.archive.org/web/20091214004838id_/http%3A//www.mobileheart.com/terms_and_conditions.aspx) page. 
 
 What information do we collect? 
 
@@ -23,7 +23,7 @@ Use of cookies is an industry standard and many web sites use them. If you do no
 
 Advertisers 
 
-We use outside ad companies to display ads on our site. Google and other ad companies, as a third party vendor, uses cookies to serve ads on this website. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google Advertising Privacy page. 
+We use outside ad companies to display ads on our site. Google and other ad companies, as a third party vendor, uses cookies to serve ads on this website. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google Advertising Privacy page.
 
 Security 
 
