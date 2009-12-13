@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tinbu.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625183730id_/http%3A//www.tinbu.com/tinbu_web/site/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinbu.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213202855id_/http%3A//www.tinbu.com/tinbu_web/site/privacy_policy.php) for the most accurate reproduction.*
 
 # TinBu LLC
 
