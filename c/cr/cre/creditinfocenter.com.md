@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditinfocenter.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604083542id_/http%3A//www.creditinfocenter.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditinfocenter.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213041827id_/http%3A//www.creditinfocenter.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy/Acceptable Use Policy - creditinfocenter.com
 
@@ -39,3 +39,5 @@ Web Nation, Inc. may edit this policy from time to time. If we make any substant
 
 **Do you have a question you feel we haven't answered?**  
 For a small fee, [you can talk to a counselor on the phone](http://www.creditinfocenter.com/misc/ConsultWithTheExpert.php) or [Buy the Book!](http://www.creditinfocenter.com/Books/)
+
+[](http://www.copyscape.com/)
