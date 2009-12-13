@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deviantclippremium.com privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612224434id_/http%3A//www.deviantclippremium.com/terms_conditions/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deviantclippremium.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213075345id_/http%3A//www.deviantclippremium.com/terms_conditions/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
