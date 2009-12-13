@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the catch.com.au privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608192012id_/http%3A//www.catch.com.au/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catch.com.au privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213110545id_/http%3A//www.catch.com.au/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Catch - Internet Web Marketing, SEO, and Online Business Directories
 
 **Online Privacy Policy**
 
-**Reed Business Information Pty Limited (ABN 80 132 719 861) ("Catch") (an Australian company)**
+ **Reed Business Information Pty Limited (ABN 80 132 719 861) ("Catch") (an Australian company)**
 
 This privacy policy applies to all personal information collected by Catch via the internet.
 
 Catch recognises the importance of your privacy, and that you have a right to control how your personal information is collected and used.  We know that providing personal information is an act of trust and we take that seriously.  Unless you directly give us consent to do otherwise, Catch will only collect and use your personal information as set out below.
 
-**Collection of information**
+ **Collection of information**
 
 The four main ways we collect personal information about you are:
 
@@ -21,13 +21,13 @@ The four main ways we collect personal information about you are:
 
 
 
-**Our use of cookies**
+ **Our use of cookies**
 
 Cookies are pieces of information that a website transfers to your computer's hard disk for record keeping purposes.  Most web browsers are set to accept cookies.  Catch uses cookies to make your use of our website and services as convenient as possible.  Cookies in and of themselves do not personally identify users, although they do identify a user's browser.  Cookies are useful to estimate our number of users and determine overall traffic patterns through our website.
 
 If you do not wish to receive any cookies you may set your browser to refuse cookies.  This may mean you will not be able to take full advantage of Catch's services.
 
-**Using and disclosing your personal information**
+ **Using and disclosing your personal information**
 
 Our purpose in collecting information about you is to: 
 
@@ -44,12 +44,11 @@ Catch will not use or disclose any information about you without your consent, u
   * to protect the rights, property or personal safety of another Catch website user, any member of the public or Catch; or
   * any of the assets and/or operations of Catch are being transferred to another party.
 
-  
 
 
 If you do not provide requested information, Catch may not be able to provide you with access to or full use of sections of the Catch website.
 
-**Disclosing information**
+ **Disclosing information**
 
 Sometimes, the activities described above require us to share your personal information with other organisations.  The types of situations in which Catch usually discloses personal information, and the types of organisations to which such disclosure is usually made, include the following:
 
@@ -58,7 +57,7 @@ Sometimes, the activities described above require us to share your personal info
 
 
 
-**Marketing**
+ **Marketing**
 
 In seeking to give you the most worthwhile experience of our websites possible, Catch may use your personal information to send you information and product updates about Catch websites and services or to permit other parties to send other information about products or services which may be of interest to you. 
 
@@ -76,7 +75,7 @@ If you are receiving promotional information from Catch and do not wish to recei
 
 You can request access to the personal information we hold about you by making a request to the Catch Privacy Officer via [legal@catch.com.au](mailto:legal@catch.com.au).  We will provide you with access unless we are legally authorised not to do so.
 
-**Changing and deleting the information we have about you**
+ **Changing and deleting the information we have about you**
 
 If at any time you wish to change personal information that is inaccurate or out of date, please contact us by emailing our Catch Privacy Officer at [legal@catch.com.au](mailto:legal@catch.com.au).
 
@@ -90,7 +89,7 @@ Catch will endeavour to take all reasonable steps to keep secure any information
 
 Please note that Catch may use overseas facilities to store, process or back up its information.  As a result, we may transfer your personal information to our overseas facilities.  However, this does not change our commitment to keep your information secure.
 
-**Third party websites**
+ **Third party websites**
 
 Catch websites contain links to websites that are not operated by Catch and the contact details for many businesses not operated by Catch.  These linked sites and listed businesses are not under the control of Catch, and we are not responsible for the conduct of those businesses.  Before disclosing your personal information on any other website or to any other company, we advise you to examine the Terms and Conditions / Privacy Policy of those organisations. 
 
@@ -98,9 +97,9 @@ Catch websites contain links to websites that are not operated by Catch and the 
 
 CatchBot is the web crawler for Catch.  CatchBot investigates websites for publicly available information about companies.  CatchBot is not designed to access or index any personal or other information about individuals.  However, if any personal information is collected inadvertently through the use of CatchBot, that personal information will be held in accordance with this Privacy Policy.
 
-More information about CatchBot is available at [www.catchbot.com](file:///C:/Documents%20and%20Settings/collesss/Local%20Settings/Temporary%20Internet%20Files/OLK26B/www.catchbot.com).
+More information about CatchBot is available at [catchbot.com](http://www.catchbot.com/).
 
-**Privacy inquiries**
+ **Privacy inquiries**
 
 If you have any questions about this Privacy Policy or how Catch deals with your personal information you can contact:
 
@@ -118,6 +117,6 @@ Chatswood Delivery Centre NSW 2067
 
 Australia
 
-**Future changes**
+ **Future changes**
 
 Our commitment to being a leading provider of online business directory services means that our business will continue to evolve as we introduce new services and features.  Because of this, from time to time, our policies will be reviewed and may be revised.  Catch reserves the right to change its Privacy Policy at any time and notify you by posting an updated version on each Catch website.  The amended Privacy Policy will apply between us whether or not we have given you specific notice of any change.
