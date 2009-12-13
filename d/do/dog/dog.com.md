@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dog.com privacy policy that was archived on 2009-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090303000032id_/http%3A//www.dog.com/CS/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dog.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213031627id_/http%3A//www.dog.com/CS/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Dog.com
 
@@ -24,11 +24,5 @@ We currently contract with several online partners to help manage and optimize o
 
 Dog.com may share non personal, non-individual aggregate information or summary statistics about our customers, sales, traffic patterns and related site information to reputable third-party vendors. This information will never include any personally identifiable information. Dog.com is very protective of the privacy of its customers. If at any time Dog.com is required by law or by a legal process to release customer information, we must cooperate fully. 
 
-| 
-
-[](https://web.archive.org/clearance/?intid=HPBClearance) [](https://web.archive.org/ScreenSaverSignup.aspx) [](https://web.archive.org/CS/EmailSignup.aspx)
-
-This Month's Winner:  
-Terry M. of Kinsale, VA  
-  
+|   
 ---|---|---
