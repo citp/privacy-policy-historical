@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yogapages.co.uk privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620153252id_/http%3A//www.yogapages.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yogapages.co.uk privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213211410id_/http%3A//www.yogapages.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Yoga Pages
 
