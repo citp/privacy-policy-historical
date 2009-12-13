@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mo.gov privacy policy that was archived on 2009-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090520033427id_/http%3A//www.mo.gov/mo/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mo.gov privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213063438id_/http%3A//www.mo.gov/privacy.php) for the most accurate reproduction.*
 
-# Missouri State Government Home Page
-
-[](https://web.archive.org/mo/index.htm) | 
+# MO.gov | Privacy and Security
 
 ## Privacy Statement
 
@@ -17,12 +15,14 @@
 
 
 
-**State of Missouri**  
+### State of Missouri
+
 It's important that you understand our privacy position. As a state government, the State of Missouri is a public governmental body subject to Chapter 610 of the Revised Statutes of Missouri, commonly known as the Sunshine Law. If an appropriate request is made to this office for information that is subject to disclosure by the Sunshine Law, the State of Missouri will be required to disclose the information requested, even if it may include your personally identifiable information.
 
 There are various locations on the State of Missouri web site where you may submit registration information. In order to complete your online transactions, we usually must collect information from you, including your e-mail address, your postal address, an identification number or social security number, or other pieces of personal information. Our online forms should indicate the information that is required and the information that is optional-you do not have to complete any "optional" fields on a form. For us to be able to complete your online transactions, however, you must supply the required information. If this is not acceptable to you, we will gladly accept the transaction in person or on paper, rather than online. Providing personal information on-line will always be your choice. The personal information that you supply will not be sold to others.
 
-**Browsing**  
+### Browsing
+
 To ensure our system remains available to all visitors, our operating system tracks unauthorized attempts to upload or change information, or that can otherwise cause damage.
 
 While you browse the web site our operating system will automatically record the following information:
@@ -37,20 +37,26 @@ While you browse the web site our operating system will automatically record the
 
 This tracking system does NOT record information about individuals. This information is used to monitor traffic and improve this site.
 
-**Security**  
+### Security
+
 For security purposes, the State of Missouri uses network monitoring software to identify unauthorized access to or tampering with our web site. The software will not collect any personal information. If unauthorized access to or tampering with this web site is detected, the information gathered by us will be furnished to the proper authorities. 
 
-**E-mail**  
+### E-mail
+
 If you send us e-mail, the message will usually contain your return address. If you include personal information in your e-mail, we may use that information in responding to your request. E-mail is not necessarily secure or confidential. Send only the information that is necessary for us to answer your question or process your request.
 
-**Requests for Information**  
+### Requests for Information
+
 There are various locations on the State of Missouri web site where you may request that information, such as applications, be mailed to you. Should you make a request for information, the personally identifiable information you disclose as part of making that request is disclosed to staff at the Office of Administration so that your request may be fulfilled.
 
-**Links to Other Sites**  
+### Links to Other Sites
+
 Our site provides links to other web sites. The privacy policies described here do NOT apply to any external sites. Read the privacy policies of other sites you visit. Be informed. You are the person best qualified to protect your own privacy.
 
-**Notice of Change to Policy**  
+### Notice of Change to Policy
+
 We will post any changes in this privacy policy at least 30 days prior to the change taking effect unless ordered by a court to do so sooner.
 
-**For More Information**  
-If you have any questions or comments about our privacy policy, contact [E-mail: OA Webmaster](mailto:oawebmaster@oa.mo.gov).
+### For More Information
+
+If you have any questions or comments about our privacy policy, [contact the webmaster](https://web.archive.org/contact/technical.php).
