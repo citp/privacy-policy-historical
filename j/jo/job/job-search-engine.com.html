@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the job-search-engine.com privacy policy that was archived on 2009-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090503072019id_/http%3A//www.job-search-engine.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the job-search-engine.com privacy policy that was archived on 2009-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091213234447id_/http%3A//www.job-search-engine.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
     <title>Privacy Policy | Juju</title>
@@ -20,29 +20,61 @@
 <script src="/assets/js/juju-standard.js" type="text/javascript"></script>
 <script src="/assets/js/niftycube.js" type="text/javascript"></script>
 <script type="text/javascript">
+function sizePage() {
+    var pageWidth = getViewportDimensions().w; 
+    //var calculatedWidth = (pageWidth - 600) / 2; 
+    var calculatedWidth = pageWidth / 3.3;
+    if (getElement('wrapper') && getElement('content') && getElement('extra')) {
+        if (calculatedWidth < 200) { 
+            getElement('wrapper').style.marginLeft = '';
+            getElement('content').style.marginLeft = '';
+            getElement('extra').style.width = '';
+        } else {
+            getElement('wrapper').style.marginLeft = '-' + calculatedWidth + 'px';
+            getElement('content').style.marginLeft = calculatedWidth + 'px';
+            getElement('extra').style.width = calculatedWidth + 'px';
+        }
+    }
+}
+
 // After the page loads do the following
 window.onload=function() {
-    Nifty("div#util","same-height transparent");
-    Nifty("div#searchoptions","same-height transparent");
-    Nifty("div#footer","same-height transparent");
+    
+    
+    if (getElement('util')) {
+        Nifty("div#util","same-height transparent");
+    }
+    if (getElement('searchoptions')) {
+        Nifty("div#searchoptions","same-height transparent");
+    }
+    if (getElement('footer')) {
+        Nifty("div#footer","same-height transparent");
+    }
+    
+    
     
     
     
 }
+
+
+
 </script>
 
     <meta content="all" name="robots">
 
-<link type="text/css" rel="stylesheet" href="/assets/style/niftyCorners.css" media="screen"></head>
+
+</head>
 <body class="layout2">
 <div id="container">
 
 
     <div style="width: 750px; margin-left: auto; margin-right: auto;">
 
-<div id="header">
+
+    <div id="header">
     <div id="logo"><a href="/" title="Juju - Home"><img src="/assets/images/juju_logo_small.gif" alt="Juju Logo"></a></div>
-    <div id="util" style="padding-top: 0px; padding-bottom: 0px; height: auto;"><b class="niftycorners" style="margin-left: 0px; margin-right: 0px; background: transparent; margin-bottom: -5px;"><b class="t1" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="t2" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="t3" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="t4" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b></b> 
+    <div id="util" class="rounded"> 
         
             <p id="browselinks">Browse Jobs by: <a href="/category/" title="Browse
 Jobs by Category">Category</a> <span>|</span> <a href="/location/" title="Browse Jobs by Location">Location</a> <span>|</span> <a href="/company/" title="Browse Jobs by Company">Company</a> <span>|</span> <a href="/keyword/" title="Browse Jobs by Company">Keyword</a></p>
@@ -84,8 +116,9 @@ function onJobSearch(evtNode) {
 
             <div class="clear"></div>
         
-    <b class="niftycorners" style="margin-left: 0px; margin-right: 0px; background: transparent; margin-top: -5px;"><b class="t4" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="t3" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="t2" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="t1" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b></b></div>
+    </div>
 </div>
+
 
 
 
@@ -336,11 +369,11 @@ function onJobSearch(evtNode) {
     updated December 6, 2007.</p>
 
     </div>
-<div id="footer" style="padding-top: 0px; padding-bottom: 0px; height: auto;"><b class="niftycorners" style="margin-left: 0px; margin-right: 0px; background: transparent; margin-bottom: -5px;"><b class="t1" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="t2" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="t3" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="t4" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b></b>
+<div id="footer" class="rounded">
     <p id="copyright">© 2009 Juju Inc.</p>
     <p id="footernav"><a href="/about/">About Us</a> <span>|</span> <a href="/privacy/">Privacy</a> <span>|</span> <a href="/add-jobs/">Add Jobs</a> | <a href="/advertise/">Advertise Jobs</a></p>
     <div class="clear">&nbsp;</div>
-<b class="niftycorners" style="margin-left: 0px; margin-right: 0px; background: transparent; margin-top: -5px;"><b class="t4" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="t3" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="t2" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b><b class="t1" style="background-color: transparent; border-color: rgb(255, 255, 255);"></b></b></div>
+</div>
 
     </div>
 
