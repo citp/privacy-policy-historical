@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-av.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602022306id_/http%3A//www.free-av.com/en/pages/2/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-av.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213171036id_/http%3A//www.free-av.com/en/pages/2/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -67,7 +67,7 @@ Lindauer Str. 21
 D-88069 Tettnang   
 Germany   
 Phone: 07542/500-0   
-Email: datenschutz@avira.de 
+Email: privacy@avira.com 
 
 The following regulations include the Avira GmbH and its websites. 
 
