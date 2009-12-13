@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bloggista.net privacy policy that was archived on 2009-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090329012809id_/http%3A//bloggista.net/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggista.net privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213123207id_/http%3A//bloggista.net/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Bloggista.net | Free Blog Hosting Site
+# Privacy Policy | Bloggista.net
 
 **Scope.** This Privacy Policy covers all Bloggista.net network of websites and blogs, including its subdomains and partner sites.
 
@@ -16,7 +16,7 @@ This website/blog collects personal information from its visitors. These are thr
 
 Enhancements and/or customization of browsing experience are based on the visitor’s geographical location, visiting habits, links visited and ads clicked. These also includes logging of the visitor’s IP address, and the time of visit. These are captured in the form of “[cookies](http://en.wikipedia.org/wiki/HTTP_cookie "What is a cookie?")” that are stored on the visitor’s browser, that will be used again whenever the said visitor makes another visit to this site.
 
-This website/blog is also tracking site visits in terms of unique visitors, the time of visit, IP address, browser type, Operating System used, referring sites, and how long they stayed on this site, as well as other general information - for the purpose of providing traffic statistics. These are through third-party traffic counters and analytics tool which may use “[web beacons](http://www.allaboutcookies.org/faqs/beacons.html "What is a Web Beacon?")” and whose scripts are installed on this website/blog. These are [Sitemeter](http://sitemeter.com/ "Sitemeter"), [Google Analytics](http://www.google.com/analytics/ "Google Analytics"), [Feedburner](http://feedburner.com/ "Feedburner") and [Sourceforge.net](http://awstats.sourceforge.net/ "Sourceforge").
+This website/blog is also tracking site visits in terms of unique visitors, the time of visit, IP address, browser type, Operating System used, referring sites, and how long they stayed on this site, as well as other general information – for the purpose of providing traffic statistics. These are through third-party traffic counters and analytics tool which may use “[web beacons](http://www.allaboutcookies.org/faqs/beacons.html "What is a Web Beacon?")” and whose scripts are installed on this website/blog. These are [Sitemeter](http://sitemeter.com/ "Sitemeter"), [Google Analytics](http://www.google.com/analytics/ "Google Analytics"), [Feedburner](http://feedburner.com/ "Feedburner") and [Sourceforge.net](http://awstats.sourceforge.net/ "Sourceforge").
 
 The visitor may opt change/configure his/her browser settings through cookie management to allow/dis-allow storing of cookies on the browser. However, by not allowing cookies, some of this Site’s services and pages may not display well, or may not be accessible at all. Click here to understand more about [cookies](http://en.wikipedia.org/wiki/HTTP_cookie "Cookies more info").
 
@@ -45,7 +45,7 @@ As specified above, personal information are collected to enhance and/or customi
 
 Only ads from known reputable advertising companies are displayed on this site. _For more details of each of the advertisers’ privacy policy, please click on the link provided above._
 
-Emails and names collected are used for the purpose of identifying this site’s subscribers. These information may be used to send out relevant newsletters and promotions to subscribers directly from this site. But these information will not be sold to other third-parties in any way, without the express consent and knowledge of the subscriber. All emails and newsletters sent, including RSS feeds subsrciption by email have a link to _**‘unsubscribe’**_ should the subscriber wishes to.
+Emails and names collected are used for the purpose of identifying this site’s subscribers. These information may be used to send out relevant newsletters and promotions to subscribers directly from this site. But these information will not be sold to other third-parties in any way, without the express consent and knowledge of the subscriber. All emails and newsletters sent, including RSS feeds subsrciption by email have a link to **‘unsubscribe’** should the subscriber wishes to.
 
 **Privacy Commitment.**
 
@@ -55,6 +55,5 @@ It is [Bloggista.net](http://bloggista.net/about/privacy-policy/ "Bloggista.net 
 
 This Privacy Policy may be revised or updated to better serve the visitor’s interest on keeping personal information safe. All revisions and/or updates will be covered by tracking revision numbers.
 
-_Current Privacy Policy Version - BLOGGISTA PP Ver. 1 rev. 0. Effective since 14-April-2008._
-
-.
+_Current Privacy Policy Version – BLOGGISTA PP Ver. 1 rev. 1. Effective since 14-April-2008. Last revision on 22-August-2009.  
+_
