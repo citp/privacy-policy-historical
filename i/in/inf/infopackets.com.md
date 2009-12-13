@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infopackets.com privacy policy that was archived on 2009-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090606025745id_/http%3A//www.infopackets.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infopackets.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213090817id_/http%3A//www.infopackets.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy / Infopackets.com
 
@@ -47,7 +47,9 @@ Linked web sites:
 Children's privacy:
     We do not knowingly collect personal information from children under the age of 13. If we learn that we have personal information on a child under the age of 13, we will delete that information from our systems. Infopackets.com encourages parents to go online with their kids.
 Cookies:
-    We don't use cookies to track visitor sessions.
+    Cookies are used for session management (for logging in or out of our site).
+Cookies with Respect to Ads by Google:
+    In association with Google, Inc., we use third-party advertising to serve ads when you visit our website. Some companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.google.com/privacy_ads.html).
 Accessing and updating information:
     We need your help in making sure your personal information is correct in our systems. Please notify us of changes to your name, address, title, phone number or email address. Most of our sites allow you to make these updates yourself via the program's member profile pages.
 Unsubscribing:
