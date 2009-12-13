@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the mwave.com privacy policy that was archived on 2009-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090402041627id_/http%3A//www.mwave.com/mwave/pledge.hmx%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mwave.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213024403id_/http%3A//www.mwave.com/mwave/pledge.asp) for the most accurate reproduction.*
 
-# Mwave.com - Privacy / Security
+# mwave.com: Security and Privacy
 
 This privacy statement discloses the privacy practices for Mwave.com. If you have questions or concerns regarding this statement, please e-mail us at [shopping@mwave.com](mailto:shopping@mwave.com). 
 
 **We respect your privacy**  
-At Mwave.com, we value our customers and their privacy. All personal information is used to ensure efficient processing of your order. This information is used by our staff for contacting and identifying customers and their needs. We will not give, sell, rent, or loan any personally identifiable information to any third party, unless we are legally required to do so or you authorize us to do so. 
+At Mwave.com, we value our customers and their privacy. All personal information is used to ensure efficient processing of your order. This information is used by our staff for contacting and identifying customers and their needs. We will not give, sell, rent, or loan any personally identifiable information to any third party, unless we are legally required to do so or you authorize us to do so.
 
 **No SPAMMING!**  
 Unsolicited, "spam" mail is not sent to Mwave.com's customers. The only email customers will receive, are updates to their recent orders and occasional promotions, **if requested.** Customers can be removed from our promotion list at anytime, by visiting <http://www.mwave.com/mwave/emailremove.asp>. Mwave.com is not responsible for information and actions by third party individuals who have received information from the customer's directly. 
 
 **Your personal information Is Secure**  
-Mwave.com uses the industry standard security protocol Secure Sockets Layer (SSL) to encode sensitive information like your credit card number that passes between you and Mwave.com. We employ the latest 128-bit encryption technology in all areas of the site which require you to provide your personal or account information. This means that the credit card information you send is encrypted by your computer, and then decrypted again on our side, preventing others from accessing your private information in between. So, when using an SSL capable browser, shopping on Mwave.com's web site is perfectly safe. 
+Mwave.com uses the industry standard security protocol Secure Sockets Layer (SSL) to encode sensitive information like your credit card number that passes between you and Mwave.com. We employ the latest 128-bit encryption technology in all areas of the site which require you to provide your personal or account information. This means that the credit card information you send is encrypted by your computer, and then decrypted again on our side, preventing others from accessing your private information in between. So, when using an SSL capable browser, shopping on Mwave.com's web site is perfectly safe.
 
 If you have any questions regarding Mwave.com's privacy/security pledge, please e-mail us at [shopping@mwave.com](mailto:shopping@mwave.com)
 
@@ -55,8 +55,8 @@ This site gives users the following options for removing their information from 
 Correct/Update  
 This site gives users the following options for changing and modifying information previously provided. 
 
-  1. web site: [Update/Modify Account Information](https://www.mwave.com/mwave/changecust.hmx)
-  2. email: [change@mwave.com](mailto:change@mwave.com)
+  1. web site: [Update/Modify Account Information](https://www.mwave.com/mwave/secure/customerprofile.asp?)
+  2. email: [change@mwave.com](mailto:service@mwave.com)
   3. send mail to the following postal address: 20159 Paseo Del Prado, Walnut, CA 91789
   4. call the following telephone number: 1-800-234-3358 
 
