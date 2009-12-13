@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ozsale.com.au privacy policy that was archived on 2009-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090107043022id_/http%3A//www.ozsale.com.au/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ozsale.com.au privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213191249id_/http%3A//www.ozsale.com.au/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# OZSALE - Privacy Policy
-
-Privacy Policy 
+# www.ozsale.com.au
 
 ozsale.com.au, referred to below as Ozsale, is an online retailer of consumer goods.
 
