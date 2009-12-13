@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wftv.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210131034id_/http%3A//www.wftv.com/station/1914519/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wftv.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213143710id_/http%3A//www.wftv.com/privacy/index.html) for the most accurate reproduction.*
 
-# Privacy Policy - WFTV News Story - WFTV Orlando
+# Privacy Policy - Privacy News Story - WFTV Orlando
 
 Effective date: 1/17/03 
 
