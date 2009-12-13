@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ratemyplacement.co.uk privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624095459id_/http%3A//www.ratemyplacement.co.uk/articles/ratemyplacementcouk-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratemyplacement.co.uk privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213151938id_/http%3A//www.ratemyplacement.co.uk/articles/ratemyplacementcouk-privacy-policy) for the most accurate reproduction.*
 
-# Rate My Placement
+# RateMyPlacement.co.uk Privacy Policy | RateMyPlacement
 
 **R M P Enterprise Ltd**
 
