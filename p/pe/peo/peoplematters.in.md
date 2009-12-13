@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the peoplematters.in privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527072348id_/http%3A//peoplematters.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplematters.in privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213023520id_/http%3A//www.peoplematters.in/privacy-policy) for the most accurate reproduction.*
 
-# People Matters - Leadership and managing people
+# None
 
-Wednesday, May 27, 2009 | [Home](http://www.peoplematters.in/) › Privacy Policy
+Sunday, December 13, 2009 | [Home](http://www.peoplematters.in/) › Privacy Policy
 
 ## People Matters Online Privacy Policy
 
