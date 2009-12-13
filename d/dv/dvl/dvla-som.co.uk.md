@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dvla-som.co.uk privacy policy that was archived on 2008-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081011084125id_/http%3A//www.dvla-som.co.uk/home/en/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvla-som.co.uk privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213114741id_/http%3A//dvlaregistrations.direct.gov.uk/home/en/Privacy) for the most accurate reproduction.*
 
-# DVLA Personalised Registrations
+# DVLA Personalised Registrations - Privacy policy for dvlaregistrations.co.uk.
 
 **Your privacy**
 
@@ -12,7 +12,7 @@ Under the Data Protection Act, we have a legal duty to protect any information w
 
 **What information do we collect?**
 
-We collect three kinds of information from visitors to dvlaregistrations.co.uk: feedback (through visitors emailing us), site referrals (via email a friend, etc) and site usage information, using cookies and page tagging techniques including JavaScript. 
+We collect three kinds of information from visitors to dvlaregistrations.direct.gov.uk: feedback (through visitors emailing us), site referrals (via email a friend, etc) and site usage information, using cookies and page tagging techniques including JavaScript. 
 
 **Feedback**
 
@@ -26,7 +26,7 @@ Once we have replied to you, we keep a record of your message for a maximum of t
 
 **Cookies**
 
-Cookies are pieces of data that are often created when you visit a website, and which are stored in the cookies directory of your computer. Cookies are created when you visit dvlaregistrations.co.uk. 
+Cookies are pieces of data that are often created when you visit a website, and which are stored in the cookies directory of your computer. Cookies are created when you visit dvlaregistrations.direct.gov.uk. 
 
 Our cookies store a random number and other information such as a date on your computer to help us count the number of times users return to our site. 
 
@@ -36,7 +36,7 @@ You can set your browser not to accept cookies. If you do not know how to do thi
 
 **Page tagging**
 
-We use JavaScript to aggregate and analyse customer usage patterns on the dvlaregistrations.co.uk domain. This provides us with data on your usability and behaviour. We use this information to make changes to the layout of the website and to the information in it. This does not collect any personal or identifiable information about users. 
+We use JavaScript to aggregate and analyse customer usage patterns on the dvlaregistrations.direct.gov.uk domain. This provides us with data on your usability and behaviour. We use this information to make changes to the layout of the website and to the information in it. This does not collect any personal or identifiable information about users. 
 
 We sometimes tag pages on this website during promotion campaigns. These tags enable us to find out which advertisements are successful in bringing users to our internet site(s). With this technology, the information that we collect and share is anonymous and not personally identifiable. 
 
@@ -44,13 +44,13 @@ You can disable JavaScript on your computer. If you would like advice on how to 
 
 **What happens when I link to another site?**
 
-Dvlaregistrations.co.uk contains links to other websites, both of government departments and of other organisations. This privacy policy applies only to our site, so you should always be aware when you are moving to another site and read the privacy statement of any other site(s) which collect personal information about you. 
+Dvlaregistrations.direct.gov.uk contains links to other websites, both of government departments and of other organisations. This privacy policy applies only to our site, so you should always be aware when you are moving to another site and read the privacy statement of any other site(s) which collect personal information about you. 
 
 We do not pass on any personal information you have given us to any other site. 
 
-What happens when I access the dvlaregistrations.co.uk site through another site? 
+What happens when I access the dvlaregistrations.direct.gov.uk site through another site? 
 
-Where you are directed to the dvlaregistrations.co.uk site from another site (whether a third party site or a government site) we may receive personal information relating to you from the other site(s). You should read the privacy policies applicable to such sites as these will govern the use of any personal information that you provide when accessing such sites and which is provided to dvlaregistrations.co.uk. 
+Where you are directed to the dvlaregistrations.direct.gov.uk site from another site (whether a third party site or a government site) we may receive personal information relating to you from the other site(s). You should read the privacy policies applicable to such sites as these will govern the use of any personal information that you provide when accessing such sites and which is provided to dvlaregistrations.direct.gov.uk. 
 
 **Security**
 
@@ -58,7 +58,7 @@ When accessing the 'my account' and purchasing sections of the website all infor
 
 SSL encrypts your personal information before it leaves your computer and guarantees that it is not altered between your computer and our server and unauthorised users cannot read it. 
 
-**Access to your information and contacting dvlaregistrations.co.uk**
+**Access to your information and contacting dvlaregistrations.direct.gov.uk**
 
 If you wish to see our records of any correspondence you have sent to us, or if you have a query or complaint about this privacy policy or about the site, you can contact us by email. 
 
