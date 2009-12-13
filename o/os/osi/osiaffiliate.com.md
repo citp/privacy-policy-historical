@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the osiaffiliate.com privacy policy that was archived on 2009-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090528194026id_/http%3A//osiaffiliate.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osiaffiliate.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213161231id_/http%3A//www.osiaffiliate.com/privacy.htm) for the most accurate reproduction.*
 
 # ebusiness software | Privacy
 
