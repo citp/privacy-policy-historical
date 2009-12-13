@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the grimco.com privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502174303id_/http%3A//www.grimco.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grimco.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213121041id_/http%3A//www.grimco.com/policy.html) for the most accurate reproduction.*
 
-# privacy (Privacy Policy)
+# Grimco • Privacy Policy
+
+  | 
 
 **Information about our Organization and Web Site  
-** Modern information and communication technologies play a fundamental role in the activities of Grimco, Inc. We are primarily a sign and sign supply manufacturer/distributor.   
+**Modern information and communication technologies play a fundamental role in the activities of Grimco, Inc. We are primarily a sign and sign supply manufacturer/distributor.   
 The following privacy policy covers:   
 Grimco, Inc.   
 1585 Fencorp Dr.   
@@ -12,7 +14,7 @@ Controller: Marketing Dept.
 Web Sites: www.grimco.com 
 
 **Web Services and Links  
-** Our Web site does not enable our visitors to communicate with other visitors or to post information to be accessed by other visitors.   
+**Our Web site does not enable our visitors to communicate with other visitors or to post information to be accessed by other visitors.   
 Our Web site does not include links to third party Web service providers. 
 
 **Automatic Collection of Information**   
@@ -26,8 +28,8 @@ If we wish to use your personal data for new purposes, we offer you the means to
 
 Send an e-mail to cwood@grimco.com.   
 Send a letter to us at 1585 Fencorp Dr., Fenton, MO 63026.   
-Call us at (800)542-9941.   
-Fax us at (800)760-5575. 
+Call us at 800.542.9941.   
+Fax us at 800.760.5575. 
 
 **Children's Privacy**   
 We do not knowingly collect personal data from children. We make every attempt to protect the privacy of children by restricting our Web site to customers. 
@@ -46,8 +48,8 @@ Ask us if we are keeping personal data about you:
 
 Send an e-mail to cwood@grimco.com.   
 Send a letter to us at 1585 Fencorp Dr., Fenton, MO 63026.   
-Call us at (800)542-9941.   
-Fax us at (800)760-5575.   
+Call us at 800.542.9941.   
+Fax us at 800.760.5575.   
 Upon request, we will furnish you with a copy of the personal data which we keep about you, in about a week. We will be happy to provide this information free of charge.   
 We allow you to challenge the data that we hold about you, and if appropriate, you may have the data erased, rectified or amended, or completed.   
 We reserve the right to refuse to provide our visitors with a copy of their personal data, but will give valid reasons for our refusal. 
@@ -56,16 +58,14 @@ We reserve the right to refuse to provide our visitors with a copy of their pers
 There are no regional, national, or global privacy laws applicable to our Web site or organization. We are, however, committed to a voluntary self-assessment procedure. 
 
 **Privacy Support  
-** If you have questions or concerns about our privacy policy: 
+**If you have questions or concerns about our privacy policy: 
 
 Send an e-mail to cwood@grimco.com.   
 Send a letter to us at 1585 Fencorp Dr., Fenton, MO 63026.   
-Call us at (800)542-9941.   
-Fax us at (800)760-5575. 
+Call us at 800.542.9941.   
+Fax us at 800.760.5575. 
 
-**Personal Data Collected**
-
-  
+**Personal Data Collected**  
 Note: All personal data collected is volunteered by each visitor, or is collected from public records or bodies or private organizations. For marketing purposes, we may collect the following information: 
 
 Name   
@@ -77,3 +77,5 @@ Business Description
 Referral Information   
 On-line Identifiers (user name, etc.)   
 For customer administration purposes, we collect the above information as well as financial identifiers (credit card numbers, etc.).
+
+|  
