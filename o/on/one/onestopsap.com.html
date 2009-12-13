@@ -1,11 +1,28 @@
-<!--The following is the downloaded HTML source of the onestopsap.com privacy policy that was archived on 2009-06-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090612091544id_/http%3A//www.onestopsap.com/about/privacy-policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the onestopsap.com privacy policy that was archived on 2009-12-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091213130105id_/http%3A//www.onestopsap.com/about/privacy-policy.asp) for the most accurate reproduction.-->
 
-<html><head>
+<html><head><link rel="stylesheet" type="text/css" href="/include/contentslider.css">
+<script type="text/javascript" src="/include/contentslider.js">
+</script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script type="text/javascript" src="/include/animatedcollapse.js">
+</script>
+<script type="text/javascript">
+animatedcollapse.addDiv('onestopsap', 'fade=1,height=400px')
+animatedcollapse.ontoggle=function($, divobj, state){ //fires each time a DIV is expanded/contracted
+}
+animatedcollapse.init()
+</script>
+
+
+
+
+
+ 
 
 <title>Privacy Policy</title>
-<meta name="Description" content="Privacy Policy of One Stop SAP. Your private information is safe with us.">
-<meta name="keywords" content="privacy policy, One Stop SAP, One Stop SAP Privacy Policy">
+<meta name="Description" content="Privacy Policy of OneStopSAP. Your private information is safe with us.">
+<meta name="keywords" content="privacy policy, OneStopSAP, OneStopSAP Privacy Policy">
 <link href="/include/style.css" type="text/css" rel="stylesheet">
 </head>
 <body>
@@ -16,7 +33,7 @@
 	</td>
 	<td width="50%" valign="middle" align="left" background="/images/backgroundsap.jpg" border="0" height="50%">
 	<div align="center">
-	<a href="http://forum.onestopsap.com" target="_blank"><b><h3>Visit the SAP Forum</h3></b></a>
+	<a href="http://forum.onestopsap.com" target="_blank"><b><h3>Visit the SAP Forum </h3></b></a>
 	<nobr>Languages : <a href="/">English</a> | <a href="/de/">Dutch</a> | <a href="/fr/">French</a> | <a href="/pt/">Portugese</a> | <a href="/it/">Italian</a> </nobr>
 	</div>
 	</td>
@@ -26,20 +43,21 @@
 	<table class="menustyle" height="16" cellspacing="1" cellpadding="2" width="100%" align="center" summary="menu" border="0">
 	<tbody>
 	<tr bgcolor="#89a3d4">
-	  <td width="15%" align="center">
+	  <td width="10%" align="center">
 		<a href="/"><b><font color="white">Home</font></b></a></td>
-	  <td width="15%">
+	  <td width="10%">
 		<div align="center"><a href="http://forum.onestopsap.com" target="_blank"><b><font color="white">SAP Forums</font></b></a></div></td>
-	  <td width="15%">
+	  <td width="10%">
 		<div align="center"><a href="/sap-tools/"><b><font color="white">SAP Tools</font></b></a></div></td>
-	  <td width="15%">
+	  <td width="10%">
 		<div align="center"><a href="/abap/"><b><font color="white">ABAP Tutorial</font></b></a></div></td>
-	  <td width="15%">
+	  <td width="10%">
 		<div align="center"><a href="http://forum.onestopsap.com/forum_topics.asp?FID=14"><b><font color="white">SAP Jobs</font></b></a></div></td>
-	  <td width="15%">
+	  <td width="10%">
 		<div align="center"><a href="/advertise/"><b><font color="white">Advertise</font></b></a></div></td>
-	  <td width="15%">
+	  <td width="10%">
 		<div align="center"><a href="/contact-us.asp"><b><font color="white">Contact Us</font></b></a></div></td>
+		
 	</tr>
 	</tbody>
 	</table>
@@ -144,7 +162,7 @@
 
 
 <p><font face="Verdana" size="2">
-</font></p><center><h2><font face="Verdana" size="2">One Stop SAP Privacy Policy</font></h2></center><font face="Verdana" size="2">
+</font></p><center><h2><font face="Verdana" size="2">OneStopSAP Privacy Policy</font></h2></center><font face="Verdana" size="2">
 Thank you for visiting our web site. This privacy policy tells you how we use 
 personal information collected at this site. Please read this privacy policy 
 before using the site or submitting any personal information. By using the site, 
@@ -222,6 +240,24 @@ policy will be posted.</font></p>
 
 
 
+<script type="text/javascript">
+function valid()
+	{	
+		if (document.form.username.value=="")
+		{
+			alert("Please enter the User Name.")
+			document.form.username.focus();
+			return false;
+		}
+		if (document.form.password.value=="")
+		{
+			alert("Please enter the password.")
+			document.form.password.focus();
+			return false;
+		}
+		 return true;
+	}
+</script>
 </div>	
 <span class="corner-bottom"><span class="corner-left"></span></span>
 </div>
@@ -231,8 +267,48 @@ policy will be posted.</font></p>
 <div class="ygrp-container-border" id="ygrp-gtips">
 <span class="corner-top"><span class="corner-left"></span></span>
 <div class="ygrp-contentblock">
+<center><b><font class="heading">Sign in</font></b></center>
+<hr style="size:1px;color:#dbdbdb;" noshade="">
+<div align="center">
+<form method="post" action="/user-management/signin-process.asp" name="form" onsubmit="return valid();">
+User Name: <input type="text" name="username"><br>
+Password: <input type="password" name="password"><br>
+<a href="/user-management/forget-password.asp">Forget password?</a> | <a href="/user-management/new-registration.asp">Register</a><br>
+</form></div>
+<center><input type="image" src="/images/submit1.jpg"></center>
+ 
+<br>
+<hr style="size:1px;color:#dbdbdb;" noshade="">
 <table class="masterRight" cellspacing="0" cellpadding="0" width="100%" align="center" border="0">
 <tbody><tr>
+	<td valign="top" width="100%" align="center">
+	<b><font class="heading">SAP Resources</font></b>
+	<hr style="size:1px;color:#dbdbdb;" noshade="">
+	</td>
+</tr>
+<tr>
+	<td>
+	<br>
+	<li> <a href="/sap-articles/" title="SAP Articles"><b>SAP Articles</b></a>
+	</li><li> <a href="/sap-books/" title="SAP Books"><b>SAP Books</b></a>
+    </li><li> <a href="/sap-certifications/" title="SAP Certifications"><b>SAP Certifications</b></a>
+	 </li><li> <a href="/sap-companies/" title="SAP Companies"><b>SAP Companies</b></a>
+	</li><li> <a href="/sap-study-material/" title="SAP Downloads"><b>SAP Downloads</b></a>
+	</li><li> <a href="/sap-events/" title="SAP Events"><b>SAP Events</b></a>
+	</li><li> <a href="/sap-faqs/" title="SAP Faqs"><b>SAP Faqs</b></a>
+	</li><li> <a href="/sap-jobs/" title="SAP Jobs"><b>SAP Jobs</b></a>
+	</li><li> <a href="/sap-job-consultants/" title="SAP Job Consultants"><b>SAP Job Consultants</b></a>
+	</li><li> <a href="/sap-links/" title="SAP Links"><b>SAP Links</b></a>
+	</li><li> <a href="/sap-news/" title="SAP News"><b>SAP News</b></a>
+	</li><li> <a href="/sap-sample-paper/" title="SAP Sample Paper"><b>SAP Sample Papers</b></a>
+	</li><li> <a href="/sap-interview-questions/" title="SAP Interview Questions"><b>SAP Interview Questions</b></a>
+	</li><li> <a href="/sap-training-institutes/" title="SAP Training Institutes"><b>SAP Training Institutes</b></a>
+	</li></td>
+</tr>
+<tr>
+	<td>&nbsp;</td>
+</tr>
+<tr>
 	<td valign="top" width="100%" align="center">
 	<b><font class="heading">SAP Tutorial</font></b>
 	<hr style="size:1px;color:#dbdbdb;" noshade="">
@@ -653,7 +729,7 @@ policy will be posted.</font></p>
 <tr bgcolor="#afaaa0">
 
 <td height="5"><div align="center"><span class="bottom">This site is designed by www.vyom.co.in</span></div></td></tr></tbody></table>
-<div align="center"><br>C<span class="menustyle">opyright © 2006. One Stop SAP. All rights reserved<br>The site is maintained by <a href="http://www.vyom.co.in/" target="_blank">Vyom Technosoft</a>. <a href="/sitemap.xml">Sitemap (XML)</a></span></div>
+<div align="center"><br>C<span class="menustyle">opyright © 2006. OneStopSAP. All rights reserved<br>The site is maintained by <a href="http://www.vyom.co.in/" target="_blank">Vyom Technosoft</a>. <a href="/sitemap.xml">Sitemap (XML)</a></span></div>
 
 <!-- DynamiContext AdLinks  -->
 <script language="JavaScript">
