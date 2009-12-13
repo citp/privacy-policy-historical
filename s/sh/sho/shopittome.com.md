@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the shopittome.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604090719id_/http%3A//www.shopittome.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopittome.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213095427id_/http%3A//www.shopittome.com/privacy) for the most accurate reproduction.*
 
 # Shop It To Me: Better than Sample Sales -- Free personal shopper for sales on clothing and accessories
 
 ##### Overview
 
 Your privacy is very important to us at Shop It To Me. Any information we collect about you is used only for our internal purposes. We will not share any of your personal information with third parties. All of your information is kept strictly confidential. 
+
+  
+
 
 ##### Information we collect
 
@@ -14,25 +17,43 @@ All user information stored by Shop It To Me is considered confidential and will
 
 If you object to such use for any reason, you can either let us know by sending us feedback, or you can unsubscribe from the list. 
 
+  
+
+
 ##### Cookies
 
 Cookies are pieces of information that a Web site transfers to an individual's hard drive for record-keeping purposes while at the site. Cookies make Web-surfing easier by, among other things, saving your passwords and preferences for you, and personalizing web pages for you. They are also used as part of web applications. The use of cookies is an industry standard, and you'll find cookies at most major Web sites. Shop It To Me may use a permanent cookies to recognize you and enable an automatic log-in to the site, and session cookies to help facilitate with an online application. 
+
+  
+
 
 ##### Third Parties
 
 The clothing and other retail items provided in the Shop It To Me personal daily and weekly emails all contain links to third-party retailers. These outside retailers all have their own privacy policies, which are available on their website. 
 
+  
+
+
 ##### How can I change or delete information about me stored at Shop it to me?
 
 As a registered Shop it to me user, you have easy access to your information, along with the ability to change it. To change personal information: [Log in](https://web.archive.org/login) to your Shop It To Me Account. Make any changes you like to your user profile, and save them when you are done. 
+
+  
+
 
 ##### How can I unsubscribe?
 
 To unsubscribe, click on the unsubscribe link in any Shop It To Me email. You will be taken to a confirmation page with an optional feedback form. Click on the confirm link and you will be unsubscribe. You can also unsubscribe by sending an email to [unsubscribe@shopittome.com](mailto:unsubscribe@shopittome.com). 
 
+  
+
+
 ##### Other questions?
 
 If you have other questions or suggestions about our privacy policy please contact us at [privacy@shopittome.com](mailto:privacy@shopittome.com). 
+
+  
+
 
 ##### Changes
 
