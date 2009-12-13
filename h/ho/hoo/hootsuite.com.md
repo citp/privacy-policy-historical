@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hootsuite.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618013218id_/http%3A//hootsuite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hootsuite.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213214717id_/http%3A//hootsuite.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - HootSuite
+# HootSuite - Privacy Policy
 
 We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances:
 
@@ -41,3 +41,5 @@ Invoke may periodically update this policy. We will notify you about significant
 ## Questions
 
 Any questions about this Privacy Policy should be addressed to support at [invokemedia.com](http://www.invokemedia.com/) or by mail at: Invoke Media, 37 Dunlevy Ave., Vancouver, BC, Canada V6A 3A3
+
+[](http://mashable.com/owa/votes?v=227&c=46)
