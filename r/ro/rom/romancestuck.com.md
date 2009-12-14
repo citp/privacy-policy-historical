@@ -1,9 +1,16 @@
-> *The following text is extracted and transformed from the romancestuck.com privacy policy that was archived on 2009-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090226193840id_/http%3A//www.romancestuck.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the romancestuck.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215004451id_/http%3A//www.romancestuck.com/privacy.htm) for the most accurate reproduction.*
 
 # RomanceStuck Privacy Policy
 
 **You are here:[Home](http://www.romancestuck.com/) > Privacy Policy**
 
+[](http://www.stumbleupon.com/submit?url=http://www.romancestuck.com/privacy.htm&title=Free%20Custommized%20Printable%20Heart%20Puzzles "StumbleUpon") [](http://twitter.com/home/?status=Reading%20a%20great%20post%20on%20http://www.romancestuck.com/privacy.htm)   
+[](http://www.facebook.com/sharer.php?u=http://www.romancestuck.com/privacy.htm&t=RomanceStuck%20Privacy%20Policy) [](http://del.icio.us/post?url=http://www.romancestuck.com/privacy.htm&title=RomanceStuck%20Privacy%20Policy) [](http://www.furl.net/storeIt.jsp?u=http://www.romancestuck.com/privacy.htm&t=RomanceStuck%20Privacy%20Policy)   
+[](http://reddit.com/submit?url=http://www.romancestuck.com/privacy.htm&title=RomanceStuck%20Privacy%20Policy) [](http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http://www.romancestuck.com/privacy.htm&=RomanceStuck%20Privacy%20Policy) [](http://www.google.com/bookmarks/mark?op=edit&bkmk=http://www.romancestuck.com/privacy.htm&title=RomanceStuck%20Privacy%20Policy)
+
+|  |  |  [](http://www.romancestuck.com/phpBB/) |  [](http://www.romancestuck.com/submit-ideas.htm)  
+---|---|---|---|---  
+  
 To protect your privacy, **RomanceStuck** has instituted policies that give you information and control.
 
 **RomanceStuck** does not collect any personal information from any visitor when they arrive on the **RomanceStuck** site.
@@ -20,7 +27,7 @@ To protect your privacy, **RomanceStuck** has instituted policies that give you 
 
 **RomanceStuck** requires a name and location for all users who submit a comment on the site. Additionally, we collect the IP address, date, and time as related to your submission for tracking purposes.
 
-**RomanceStuck** is a free site supported by advertising. We run various third party ads that may place and/or read cookies on your browser or use web beacons to collect information in the course of the ads being served on our website. Within your browser, you can manage all cookie acceptance, allowing you to turn off cookies, accept session only coolies, or delete cookies. For detailed information, view your browser's help menu. For more information on how to opt out of cookies, please visit [WorldPrivacyForum.org](http://www.worldprivacyforum.org/cookieoptout.html).
+**RomanceStuck** is a free site supported by advertising. We run various third party ads that may place and/or read cookies on your browser or use web beacons to collect information in the course of the ads being served on our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). Additionally, within your browser you can manage all cookie acceptance, allowing you to turn off cookies, accept session only coolies, or delete cookies. For detailed information, view your browser's help menu. For more information on how to opt out of cookies, please visit [WorldPrivacyForum.org](http://www.worldprivacyforum.org/cookieoptout.html).
 
 For specific privacy policies for other **RomanceStuck** services offered via other companies (either advertised, affiliated, or other), please visit the individual company websites.
 
@@ -28,5 +35,7 @@ For specific privacy policies for other **RomanceStuck** services offered via ot
 
 If you have any questions, about this privacy statement, our online practices, or your dealings with our web sites, you can contact: [webmaster@romancestuck.com](http://www.romancestuck.com/contactus.php)
 
- [StumbleUpon](http://www.stumbleupon.com/submit?url=http://www.romancestuck.com/privacy.htm&title=Free%20Custommized%20Printable%20Heart%20Puzzles) |  |  [](http://www.digg.com/submit?phase=2&url=http://www.romancestuck.com/love-horoscope.htm) [Digg](http://www.digg.com/submit?phase=2&url=http://www.romancestuck.com/love-horoscope.htm) |  |   [Tweet](http://twitter.com/home/?status=Reading%20a%20great%20post%20on%20http://www.romancestuck.com/privacy.htm) |  |  Email  |  |  Print  |  |  Bookmark |  |  [](http://www.romancestuck.com/phpBB/) [Discuss](http://www.romancestuck.com/phpBB/) |  |  [](http://www.romancestuck.com/submit-ideas.htm) [Submit Ideas](http://www.romancestuck.com/submit-ideas.htm)  
----|---|---|---|---|---|---|---
+Subscribe & Share:
+
+|  |  |  [](http://www.romancestuck.com/phpBB/) |  [](http://www.romancestuck.com/submit-ideas.htm) |  |  [ ](http://www.stumbleupon.com/submit?url=http://www.romancestuck.com/privacy.htm&title=Free%20Custommized%20Printable%20Heart%20Puzzles)[](http://twitter.com/home/?status=Reading%20a%20great%20post%20on%20http://www.romancestuck.com/privacy.htm) |  [](http://www.facebook.com/sharer.php?u=http://www.romancestuck.com/privacy.htm&t=RomanceStuck%20Privacy%20Policy) |  [](http://del.icio.us/post?url=http://www.romancestuck.com/privacy.htm&title=RomanceStuck%20Privacy%20Policy) |  [](http://www.furl.net/storeIt.jsp?u=http://www.romancestuck.com/privacy.htm&t=RomanceStuck%20Privacy%20Policy) |  [](http://reddit.com/submit?url=http://www.romancestuck.com/privacy.htm&title=RomanceStuck%20Privacy%20Policy) |  [](http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http://www.romancestuck.com/privacy.htm&=RomanceStuck%20Privacy%20Policy) |  [](http://www.google.com/bookmarks/mark?op=edit&bkmk=http://www.romancestuck.com/privacy.htm&title=RomanceStuck%20Privacy%20Policy) |  [](http://feeds2.feedburner.com/RomancestuckcomFeaturedContent "Subscribe to my feed") |   
+---|---|---|---|---|---|---|---|---|---|---|---|---|---|---
