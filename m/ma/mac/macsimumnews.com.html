@@ -1,0 +1,403 @@
+<!--The following is the downloaded HTML source of the macsimumnews.com privacy policy that was archived on 2009-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091214212704id_/http%3A//www.macsimumnews.com/index.php/main/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>Macsimum News - For your digital life(style)</title>
+<link rel="SHORTCUT ICON" href="http://www.macsimumnews.com/apple_touch_icon.ico">
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.macsimumnews.com/index.php/main/rss_1.0">
+<link href="/index.php/css/main/styles" media="all" rel="stylesheet" type="text/css">
+<script language="Javascript" type="text/javascript">
+var TimeOut         = 300;
+var currentLayer    = null;
+var currentitem     = null;
+var currentLayerNum = 0;
+var noClose         = 0;
+var closeTimer      = null;
+
+// Open Hidden Layer
+function mopen(n)
+{
+    var l  = document.getElementById("menu"+n);
+    var mm = document.getElementById("mmenu"+n);
+	
+    if(l)
+    {
+        mcancelclosetime();
+        l.style.visibility='visible';
+
+        if(currentLayer && (currentLayerNum != n))
+        {
+            currentLayer.style.visibility='hidden'; 
+        }
+        currentLayer = l;
+        currentitem = mm;
+        currentLayerNum = n;			
+    }
+    else if(currentLayer)
+    {
+        currentLayer.style.visibility='hidden';
+        currentLayerNum = 0;
+        currentitem = null;
+        currentLayer = null;
+	}
+}
+
+// Turn On Close Timer
+function mclosetime()
+{
+    closeTimer = window.setTimeout(mclose, TimeOut);
+}
+
+// Cancel Close Timer
+function mcancelclosetime()
+{
+    if(closeTimer)
+    {
+        window.clearTimeout(closeTimer);
+        closeTimer = null;
+    }
+}
+
+// Close Showed Layer
+function mclose()
+{
+    if(currentLayer && noClose!=1)
+    {
+        currentLayer.style.visibility='hidden';
+        currentLayerNum = 0;
+        currentLayer = null;
+        currentitem = null;
+    }
+    else
+    {
+        noClose = 0;
+    }
+
+    currentLayer = null;
+    currentitem = null;
+}
+
+// Close Layer Then Click-out
+document.onclick = mclose;
+</script>
+</head>
+<body id="contact">
+<!-- main wrapper-->
+<div id="master-wrapper">
+		<!-- home wrapper with orange + shade backgrnds -->
+		<div id="home-wrapper">
+				
+			<!-- 915px home wrapper -->
+			<div id="inner-wrapper">
+				
+				
+				<!-- header -->
+				<div id="header">
+					<!-- main navigation -->
+					<div id="main-nav">
+          
+      <div style="float:left; margin-top:5px">
+
+<a style="margin-left:3px;" href="http://www.thevideosandbox.com/" target="_blank"><img src="/images/common/Sandbox_wallpaper.jpg" width="91" height="91" class="ad"></a>
+                            
+                              <a style="margin-left:3px;" href="http://www.macsimumnews.com/index.php/main/Tip_jar"><img src="http://www.macsimumnews.com/tips.jpg" width="91" height="91" class="ad"></a></div>
+
+
+                   
+					<div id="leader-board"> <p><script language="JavaScript" type="text/javascript" src="http://www.macsimumnews.com/openads/adx.js"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://www.macsimumnews.com/openads/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:5&amp;block=1&amp;blockcampaign=1");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+</script><script language="JavaScript" type="text/javascript" src="http://www.macsimumnews.com/openads/adjs.php?n=316219286&amp;what=zone:5&amp;block=1&amp;blockcampaign=1&amp;exclude=,"></script><noscript><a href='http://www.macsimumnews.com/openads/adclick.php?n=abfa8f6f' target='_blank'><img src='http://www.macsimumnews.com/openads/adview.php?what=zone:5&amp;n=abfa8f6f' border='0' alt=''></a></noscript>
+</p><p></p></div>
+</div>
+					<!-- end of main navigation -->
+					<div id="right-nav">
+                   <a href="http://www.macosg.com/Macsimum_News.zip"><img style="float:right; margin: 5px 2px 0 0; border:0;" src="/site/designs/shared/images/rssWidget.png" alt="Macsimum News RSS Widget"></a>
+                   <ul>                                             
+                        <li><a href="/" id="homenav" title="Home">Home</a></li>
+                        <li><a href="#" id="contentnav" class="menu" onmouseover="mopen(1);" onmouseout="mclosetime();" title="Content">Content</a>
+        <div class="submenu" id="menu1" onmouseover="mcancelclosetime()" onmouseout="mclosetime();">
+            <a href="/index.php/archive/list_news/C15">News</a>
+            <a href="http://macsimumnews.com/macosgforums/index.php">Forums</a>
+            <a href="/index.php/archive/list_reviews/C16">Reviews</a>
+            <a href="/index.php/archive/list_opinions/C17">Opinions</a>
+            <a href="/index.php/archive/list_hardware/C32">Hardware</a>
+            <a href="/index.php/archive/list_patents/C25">Patents</a>
+            <a href="/index.php/archive/list_troubleshoot/C24">Troubleshooting</a>
+            <a href="/index.php/archive/list_migration/C11">Migration Kits</a>
+            <a href="http://www.macsimumnews.com/index.php/main/iPhone_videos/">iPhone Videos</a>
+            <a href="http://mediacenter.macsimumnews.com">Media Center</a>
+            <a href=" http://www.macsimumnews.com/index.php/main/newsletter/">Newsletter</a>
+            <a href=" http://twitter.com/macsimumnews">Twitter</a>
+
+        </div>
+		              </li>
+                        <li><a href="http://macsimumnews.com/macosgforums/index.php" id="feednav" title="Forums">Forums</a></li>
+                        <li><a href="/index.php/main/contact" id="aboutnav" title="About Us">About Us</a></li>
+                        <li><a href="/index.php/main/adinfo" id="adnav" title="Advertising">Advertise</a></li>
+                        <li><a href="http://feeds.feedburner.com/MacsimumNews" id="shopnav" title="RSS Feed">RSS Feed</a></li>
+                    </ul>
+					</div>
+					<div id="logo">
+						<h1><a href="/" title="MacsimumNews - Your Leading Apple News Alternative">MacsimumNews - Your Leading Apple News Alternative</a></h1>
+					</div>	
+				</div>
+				<!-- end of the header -->
+				
+					<!-- content - sub-->
+				<div id="main-content-sub">
+					
+					<!-- left content -->
+					<div id="content-left-sub">
+						<!-- main story -->
+						<div id="sub-story">
+							
+						<br><br>	
+
+<h2 title="Advertise with Macsimum results">'Macsimum News' Privacy Policy</h2>
+
+<p style="font-size:13px" align="justify">
+
+<b>Our Commitment To Privacy</b><br>
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.<br><br>
+
+<b>The Information We Collect:</b><br>
+
+This notice applies to all information collected or submitted on the <i>Macsimum News</i> website.
+
+We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.<br><br>
+
+You can register with our website if you would like to receive our <i>Macsimum MacOSG Newsletter</i> or become a <i>Macsimum MacOSG Forums</i> member. None of this information is shared with outside parties.<br><br>
+
+We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visit our website, but we would not disclose anything that could be used to identify those individuals.<br><br>
+
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.<br><br>
+
+<b>Our Commitment To Data Security</b><br>
+
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.<br><br>
+
+<b>Our Commitment To Children's Privacy:</b><br>
+
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13.<br><br>
+
+<b>How To Contact Us</b><br>
+
+Should you have other questions or concerns about these privacy policies, please send us an email in the box to the upper right.
+<br><br><br><br>
+<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
+<br>
+
+
+
+
+
+    					
+						</p></div>	
+						<!-- end of main story -->
+						<div class="contact-hr"><hr></div>
+    				
+					</div>
+					<!-- left content -->
+					
+					<!-- right content -->
+					<div id="content-right-sub">
+						
+						<!-- search form -->
+						<div id="search-form-sub">
+							<form method="post" action="http://www.macsimumnews.com/index.php">
+<div class="hiddenFields">
+<input type="hidden" name="ACT" value="15">
+<input type="hidden" name="XID" value="">
+<input type="hidden" name="RP" value="search&amp;#47;results">
+<input type="hidden" name="NRP" value="">
+<input type="hidden" name="RES" value="">
+<input type="hidden" name="status" value="">
+<input type="hidden" name="weblog" value="news">
+<input type="hidden" name="search_in" value="">
+<input type="hidden" name="where" value="all">
+<input type="hidden" name="site_id" value="1">
+</div>
+
+
+								<p><input type="search" results="16" autosave="macsimum" placeholder="Search" title="Type your search keyword here please" name="keywords" value="" class="adv" onkeypress="blank()" onchange="blank()" onmouseout="blank()" onmouseover="blank()" onfocus="blank()" onblur="blank()"> <input type="submit" name="submit" value="Search" title="Click button to begin search" class="search-button"><a href="http://www.macsimumnews.com/index.php/search/"><span style="font:10px/13px 'Lucida Grande',Sans-Serif;color:white;">&nbsp;&nbsp;Advanced Search</span></a></p>
+							</form>	
+						</div>
+						<!-- end search form -->
+						<div class="news-info-holder">
+						
+						<!-- article info -->
+						<div id="article-info">
+							<h3 title="Contact Us">Contact Us</h3>
+							<form id="contact_form" method="post" action="http://www.macsimumnews.com/index.php">
+<div class="hiddenFields">
+<input type="hidden" name="ACT" value="16">
+<input type="hidden" name="RET" value="">
+<input type="hidden" name="URI" value="/main/privacy/">
+<input type="hidden" name="recipients" value="ZGFzZWxsZXJAZWFydGhsaW5rLm5ldA==">
+<input type="hidden" name="user_recipients" value="bea678384ac1962825e7a3f30081fb6f">
+<input type="hidden" name="charset" value="utf-8">
+<input type="hidden" name="redirect" value="">
+<input type="hidden" name="replyto" value="">
+<input type="hidden" name="site_id" value="1">
+</div>
+
+
+
+ <p><label for="name">Your Name:</label><br>
+<input type="text" id="subject" name="name" class="textfield" value=""></p>
+ 
+<p><label for="from">Your Email:</label><br>
+ <input type="text" id="from" name="from" maxlength="35" class="textfield" value=""></p>
+
+ <p><label for="subject">Subject:</label><br>
+<input type="text" id="subject" name="subject" class="textfield" value=""></p>
+
+ <p><label for="message">Message:</label><br>
+<textarea id="message" name="message" rows="20" cols="5" class="textfield"></textarea></p>
+
+ <p><input name="submit" type="submit" value="Submit Form!"></p>
+
+ </form>
+								
+								
+						
+				
+
+					</div>
+					
+							
+						</div>	
+						<!-- article info -->
+						<!-- scraper ads-->
+							<div id="right-ads">
+								<div class="scraper-ad">
+									<script language="JavaScript" type="text/javascript" src="http://www.macsimumnews.com/openads/adx.js"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://www.macsimumnews.com/openads/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:7");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+</script><script language="JavaScript" type="text/javascript" src="http://www.macsimumnews.com/openads/adjs.php?n=668943609&amp;what=zone:7&amp;exclude=,"></script><noscript><a href='http://www.macsimumnews.com/openads/adclick.php?n=a97a2e73' target='_blank'><img src='http://www.macsimumnews.com/openads/adview.php?what=zone:7&amp;n=a97a2e73' border='0' alt=''></a></noscript>
+<br>
+<br>
+<div style="border:1px solid #ccc;">
+<script language="JavaScript" type="text/javascript" src="http://www.macsimumnews.com/openads/adx.js"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://www.macsimumnews.com/openads/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:6");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+</script><script language="JavaScript" type="text/javascript" src="http://www.macsimumnews.com/openads/adjs.php?n=278447368&amp;what=zone:6&amp;exclude=,"></script><noscript><a href='http://www.macsimumnews.com/openads/adclick.php?n=a22f829d' target='_blank'><img src='http://www.macsimumnews.com/openads/adview.php?what=zone:6&amp;n=a22f829d' border='0' alt=''></a></noscript>
+</div>
+
+<br><br>
+<script language="JavaScript" type="text/javascript" src="http://www.macsimumnews.com/openads/adx.js"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://www.macsimumnews.com/openads/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:10");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referrer)
+      document.write ("&amp;referer=" + escape(document.referrer));
+   document.write ("'><" + "/script>");
+//-->
+</script><script language="JavaScript" type="text/javascript" src="http://www.macsimumnews.com/openads/adjs.php?n=690637106&amp;what=zone:10&amp;exclude=,"></script><noscript><a href='http://www.macsimumnews.com/openads/adclick.php?n=a1d259d8' target='_blank'><img src='http://www.macsimumnews.com/openads/adview.php?what=zone:10&amp;n=a1d259d8' border='0' alt=''></a></noscript>
+<center><img src="http://www.macsimumnews.com/mnspacer_3.jpg">
+<a href="http://www.macsimumnews.com/index.php/archive/introducing_a_new_macsimum_news_mobile_app"><img src="http://www.macsimumnews.com/touch3.tiff"></a></center><a href="http://www.macsimumnews.com/index.php/archive/introducing_a_new_macsimum_news_mobile_app">
+<img src="http://www.macsimumnews.com/mnad3.jpg"><br></a>
+<img src="http://www.macsimumnews.com/videos/mnspacer11.jpg">
+<a href="http://www.macsimumnews.com/index.php/main/iPhone_videos/"><img src="http://www.macsimumnews.com/miv_logo.gif"></a>
+<img src="http://www.macsimumnews.com/videos/mnspacer11.jpg">
+<a href="http://www.macsimumnews.com/index.php/archive/macosg_introducing_mac611" target="_blank"><img src="http://www.macsimumnews.com/videos/mac611mn.jpg"></a><br>
+<img src="http://www.macsimumnews.com/mnspacer_3.jpg">
+<br><br>
+
+								</div>
+							</div>	
+						<!-- scraper ads -->
+						
+						
+					</div>
+						
+						
+						
+						
+						
+					</div>	
+					<!-- right content -->
+					
+				</div>
+				<!-- content - home -->
+				
+				
+			</div>
+			<!-- 915px home wrapper -->
+			
+		</div>
+		<!-- end of the home wrapper with orange + shade backgrnds -->
+		<div id="footer-wrapper">
+			<!-- footer -->
+			<div id="footer">
+				
+				<!-- footer search form -->
+						<div id="footer-search-form">
+							<form action="" method="post">
+								<p><input type="text" name="search-string" value="Keyword" title="Type your search keyword here please"> <input type="submit" name="submit" value="Search" title="Hit the button to begin the search" class="search-button"></p>
+							</form>	
+						</div>
+				<!-- end footer search form -->
+					
+			
+			
+				<p id="footer-nav"><a href="/" title="Home">Home</a>  |  <a href="/index.php/archive/list_news/C15" title="News">News</a>  |  <a href="/index.php/archive/list_reviews/C16" title="Reviews">Reviews</a>  |  <a href="/index.php/archive/list_opinions/C17" title="Opinions">Opinions</a> | <a href="http://www.macsimumnews.com/index.php/archive/list_hardware/C32" title="Hardware">Hardware</a> | <a href="http://www.macsimumnews.com/index.php/archive/list_patents/C25" title="Patents">Patents</a> |  <a href="/index.php/archive/list_migration/C11" title="Migration Kits">Migration Kits</a> |  <a href="/index.php/archive/list_troubleshoot/C24" title="Troubleshooting">Troubleshooting</a><br><a href="http://media.macsimumnews.com" title="Media Center">Media Center</a> | <a href="http://iphone.macsimumnews.com" title="iPhone Videos">MiV On Demand</a> | <a href="http://www.macsimumnews.com/index.php/main/newsletter/" title="Newsletter">Newsletter</a> | <a href="http://forums.macsimumnews.com" title="Forums">Forums</a> | <a href="http://www.macsimumnews.com/index.php/archive/marketplace" id="feednav" title="Partners">Partners</a> | <a href="/index.php/main/contact/" title="Contact Us">Contact Us</a><br><br>
+ 
+<a href="http://expressionengine.com/" target="_blank"><img src="http://www.macsimumnews.com/exprssionengine.gif"></a> <a href="http://myapplespace.com/" target="_blank"><img src="http://www.macsimumnews.com/mas.jpg" width="130" height="24"></a><br><br>
+    © 2009 MacsimumNews, All Rights Reserved | <a href="http://www.macsimumnews.com/index.php/main/privacy/" class="link">Privacy Policy</a> | Designed by <a href="http://www.31three.com" class="link">31Three</a> &amp; <a href="http://www.jennifergray.com/" class="link">Jennifer Gray</a></p><a href="http://www.jennifergray.com/" class="link">
+			</a></div><a href="http://www.jennifergray.com/" class="link">
+			<!-- footer -->
+		</a></div><a href="http://www.jennifergray.com/" class="link">
+	
+<!-- end of main wrapper-->
+	
+
+</a></body></html>
