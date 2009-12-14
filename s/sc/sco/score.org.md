@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the score.org privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615041354id_/http%3A//www.score.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the score.org privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214030653id_/http%3A//www.score.org/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | SCORE
 
