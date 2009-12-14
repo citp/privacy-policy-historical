@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikesales.com.au privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611111150id_/http%3A//www.bikesales.com.au/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikesales.com.au privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214031410id_/http%3A//www.bikesales.com.au/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - bikesales.com.au
 
@@ -52,6 +52,7 @@ Your personal Information may used for the following purposes:
 
     * If you do not want to receive these please let us know by clicking on the "contact us" link at the bottom of this page and advising us that you would like to "opt out". In addition, if we email you we will include a way for you to "opt out" of receiving further emails.
   * for purposes connected with the operation of the carsales Network
+  * to personalise the advertising you see when you visit sites within the carsales Network
 
 
 
@@ -86,13 +87,12 @@ You generally have a right to access your personal Information. If you wish to a
 If you choose not to provide personal information when requested, carsales may not be able to provide you with the full range of carsales services.
 
 **carsales Network, Linked Sites and personal information**  
-When you visit a website or use an application on the Carsales Network, carsales records anonymous information such as IP address, time, date, referring URL, pages accessed and documents downloaded type of browser and operating system.
 
-Cookies may be used by carsales to help carsales provide you with the full range of services it offers, remember your preferences, measure and analyse usage of the carsales Network and for security. You may adjust your Internet browser to disable cookies. If you cookies are disabled carsales may not be able to provide you with the full range of carsales services.
 
-Cookies may collect and store your personal information. This policy applies to personal information collected via cookies.
+When you visit a website or use an application on the carsales Network, carsales records anonymous information such as IP address, time, date, referring url, pages accessed and documents downloaded, type of browser and operating system.  
+Carsales also uses “cookies”. A cookie is a small file that stays on your computer until, depending on whether it is a sessional or persistent cookie, you turn your computer off or it expires (typically between 30and 90 days). Cookies may be used by carsales to provide you with the full range of services it offers, remember your preferences, remember the sites you visit on the carsales Network, measure and analyse usage of the carsales Network and for security. Persistent cookies may be used to identify the sites you visit on the carsales Network and to personalise the advertising that you see when you make future visits to that site or other sites within the carsales Network. You may adjust your Internet browser to disable cookies **.** If cookies are disabled carsales may not be able to provide you with the full range of carsales services. 
 
-The carsales Network may include links to third party web sites, co branded web sites and applications and advertising served to the carsales Network by third parties (Linked Sites). Companies who operate Linked Sites may collect personal Information through the use of cookies and otherwise. Carsales is not responsible for Linked Sites and recommends you read the privacy policy of Linked Sites before disclosing your personal information.
+Cookies may collect and store your personal information. This policy applies to personal information collected via cookies. The carsales Network may include links to third party web sites, co branded web sites and applications and advertising served to the carsales Network by third parties (Linked Sites). Companies who operate Linked Sites may collect personal information through the use of cookies and otherwise. Carsales is not responsible for Linked Sites and recommends you read the privacy policy of Linked Sites before disclosing your personal information.
 
 **What if I have a problem?**  
 If you have a problem, complaint, want to change your personal information or just wish to enquire about privacy please contact us.
@@ -101,7 +101,7 @@ Location: | Level 1, 109 Burwood Road, Hawthorn VIC 3122
 ---|---  
 Postal Address: | Locked Bag 3333, Hawthorn VIC 3122   
 Phone: | +61 (03) 9093 8600 (Business Hours EST)  
-Contact: | Patricia Chalmers  
+Contact: | Janet Gillam  
 Email: | Click here to contact us by email  
   
   
@@ -111,4 +111,4 @@ This policy may change over time. All changes will be published on this website.
 **About security and personal Information**  
 carsales takes reasonable steps to protect personal information collected from misuse, loss, unauthorised access, modifications or disclosure.
 
-_Version 2.1 (July 2008)_
+_Version 2.2 (August 2009)_
