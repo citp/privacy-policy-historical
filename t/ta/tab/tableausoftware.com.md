@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tableausoftware.com privacy policy that was archived on 2009-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090517085821id_/http%3A//www.tableausoftware.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tableausoftware.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214202212id_/http%3A//www.tableausoftware.com/privacy) for the most accurate reproduction.*
 
 # Tableau Software Privacy Policy | Tableau Software
 
 ## Welcome!
 
-The Privacy Policy posted on this Site was updated on or about March 31, 2009
+The Privacy Policy posted on this Site was updated on or about August 13, 2009
 
 Privacy is very important to us. Please read this document carefully. This policy covers how Tableau treats Personally Identifiable Information (“PII”) that Tableau collects and receives, including information related to your past use of Tableau products and services. Personally identifiable information is information about you that can be traced directly back to and identifies an individual. PII includes your name, address, employer, email address, or phone number. 
 
@@ -71,11 +71,11 @@ If you are a California resident, California Civil Code Section 1798.83 permits 
 
 ## Use of Our Online Forums
 
-As part of the Tableau Support Center we offer you the ability to post information and exchange ideas. We caution all users not to disclose any PII as part of their posts, even if requested to do so by other posters. Tableau will not be responsible in the event that you disclose PII in your posts or during any other communication with other site users. You acknowledge and agree that content provided by others (“Other User Content”) may include content owned by independent content providers (including other users), and licensed to us. You must evaluate, and bear the risk associated with, the accuracy, completeness or usefulness of any Other User Content. We do not pre-screen Other User Content as a matter of policy, but we reserve the right, but do not undertake the responsibility, to remove Other User Content at any time that we deem it to be harmful, offensive, or otherwise in violation of this Agreement.
+We offer you the ability to post information and exchange ideas. We caution all users not to disclose any PII as part of their posts, even if requested to do so by other posters. Tableau will not be responsible in the event that you disclose PII in your posts or during any other communication with other site users. You acknowledge and agree that content provided by others (“Other User Content”) may include content owned by independent content providers (including other users), and licensed to us. You must evaluate, and bear the risk associated with, the accuracy, completeness or usefulness of any Other User Content. We do not pre-screen Other User Content as a matter of policy, but we reserve the right, but do not undertake the responsibility, to remove Other User Content at any time that we deem it to be harmful, offensive, or otherwise in violation of this Agreement.
 
 ## How to Contact Us
 
-If you have questions or suggestions, please email Tableau at [customerservice@tableausoftware.com](mailto:customerservice@tableausoftware.com) or call us at (206) 633-3400. Written communication should be sent to Tableau Software, Inc., Attn: Legal Affairs, 400 North 34th Street, Suite 200, Seattle, Washington 98103.
+If you have questions or suggestions, please email Tableau at [customerservice@tableausoftware.com](mailto:customerservice@tableausoftware.com) or call us at (206) 633-3400. Written communication should be sent to Tableau Software, Inc., Attn: Legal Affairs, 837 North 34th Street, Suite 400, Seattle, Washington 98103.
 
 ## What to Do if You Want to correct or Review Your Personal Information
 
