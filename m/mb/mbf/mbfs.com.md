@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbfs.com privacy policy that was archived on 2009-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090423060854id_/http%3A//www.mbfs.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbfs.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214213749id_/http%3A//www.mbfs.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Man's Best Friend Software
 
@@ -7,7 +7,7 @@
 The World Leader in Animal-Related Software™
 
 Today is  
-Thursday, April 23, 2009   
+Monday, December 14, 2009   
   
 ---  
   
