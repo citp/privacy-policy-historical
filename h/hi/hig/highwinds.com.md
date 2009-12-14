@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the highwinds.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227041917id_/http%3A//www.highwinds.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highwinds.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214071751id_/http%3A//www.highwinds.com/tabid/110/Default.aspx) for the most accurate reproduction.*
 
-# Welcome to Highwinds Network Group, Inc.
+# Privacy Policy
 
 Protecting your privacy is important to Highwinds. We hope the following statement about the information we collect from the Highwinds Site will help you understand how Highwinds collects, uses and safeguards the personal information you provide to us on the Highwinds Site. 
 
@@ -26,7 +26,7 @@ To the extent that Highwinds uses personal identifiers (such as usernames and pa
 
 Highwinds allows you to change or modify the information you have previously provided to us. Upon request via e-mail or postal mail, Highwinds will provide you with a summary of any of your personal information retained by Highwinds. You may modify, correct, change, or update your personal record on Highwinds' database. Highwinds will only send personal records to the e-mail address on file for the visitor name associated with it. Upon request, Highwinds will also remove your personal information from its database, thereby canceling your registration, if any, and your license and permission to use the Highwinds Site. Unfortunately, to the extent such information is also stored in other databases, we cannot always ensure that such corrections or deletions will reach the other databases. We will use all reasonable efforts to ensure that your information is removed from or corrected in our records. 
 
-The Highwinds Site also provides you the opportunity to opt-out of receiving all marketing communications via your e-mail account from our partners or Highwinds. To opt-out of these e-mails, change or modify your personal information or cancel your registration, please send an e-mail to optout@highwinds.com. 
+The Highwinds Site also provides you the opportunity to opt-out of receiving all marketing communications via your e-mail account from our partners or Highwinds. To opt-out of these e-mails, change or modify your personal information or cancel your registration, please send an e-mail to [**optout@highwinds.com**](mailto:optout@highwinds.com). 
 
 **Use of Cookies and Other Technology:**
 
@@ -36,7 +36,7 @@ We may also use technology such as clear GIFS on the Highwinds Site to help us b
 
 Some of our business partners (e.g., advertisers) may use cookies or similar technology on the Highwinds Site. We have no access to or control over these cookies. This privacy statement covers the use of this technology by the Highwinds Site only and does not cover the use of this technology by any advertisers. 
 
-**Third Parties**
+**Third Parties:**
 
 The ads appearing on the Highwinds Site are delivered to users by our advertising partners. We share web site usage information about users with a reputable third party for the purpose of targeting our Internet banner advertisements on the Highwinds Site. Our partners may use cookies and clear GIFs on this site, which would allow the partner to recognize a user's cookie when a user visits this site. The information that any partner collects and shares through this technology is not personally identifiable. 
 
@@ -44,9 +44,9 @@ To learn more about the choices available to you regarding this anonymous inform
 
 The Highwinds Site may contain links to other web sites. Highwinds is not responsible for the privacy practices or the content of such web sites. Please check the privacy policies on the linked site before disclosing information to anyone. 
 
-**Information about Children**
+**Information about Children:**
 
-We do not knowingly post or collect personally identifiable information from children under the age of sixteen (16) without a parent or guardian's consent. If a parent or guardian contacts us at optout@highwinds.com to inform us that an underage child has provided us personal information without their consent, Highwinds will remove the information about the child from our marketing database. 
+We do not knowingly post or collect personally identifiable information from children under the age of sixteen (16) without a parent or guardian's consent. If a parent or guardian contacts us at [**optout@highwinds.com**](mailto:optout@highwinds.com) to inform us that an underage child has provided us personal information without their consent, Highwinds will remove the information about the child from our marketing database. 
 
 **General Comments on Privacy:**
 
@@ -54,14 +54,10 @@ While Highwinds has endeavored to create a secure and reliable site for its cust
 
 You are the ultimate controller of personal information. You are solely responsible for maintaining the secrecy of any password used to log in, if any, and you should always be mindful and responsible whenever disclosing information online. Highwinds will use all commercially reasonable efforts to safeguard the privacy of your personal information, whether in electronic or tangible form. However, transmissions made by means of the Internet cannot be made completely secure. 
 
-**California Privacy Rights**
+**California Privacy Rights:**
 
-Once a calendar year, California residents who provide personal information in obtaining products or services for household use are entitled to request and obtain from Highwinds information about the customer information that we shared, if any, with other businesses for their direct marketing uses, such as the types of information shared and the names and addresses of those businesses for the prior calendar year. To request such information, please contact us at [**optout@highwinds.com**](mailto:optout@highwinds.com) **.**
+Once a calendar year, California residents who provide personal information in obtaining products or services for household use are entitled to request and obtain from Highwinds information about the customer information that we shared, if any, with other businesses for their direct marketing uses, such as the types of information shared and the names and addresses of those businesses for the prior calendar year. To request such information, please contact us at **[optout@highwinds.com](mailto:optout@highwinds.com).**
 
-**Contact Us**
+**Contact Us:**
 
-Feel free to contact us at [**support@highwinds.com.**](mailto:support@highwinds.com) ****
-
-| 
-
-[](https://web.archive.org/web/20071227041917id_/http%3A//www.highwinds.com/partner_program.html)
+Feel free to contact us at **[support@highwinds.com.](mailto:support@highwinds.com)**
