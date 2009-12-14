@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the otogoldmine.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615041342id_/http%3A//www.otogoldmine.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otogoldmine.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214055612id_/http%3A//www.otogoldmine.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -67,11 +67,19 @@ Your personal information is never shared outside the company without your permi
 
 You also have a significant role in protecting your information. No one can see or edit your personal information without knowing your user name and password, so do not share these with others.
 
-**NOTICE TO PARENTS**
+**CHILDREN'S PRIVACY**
 
-Parents or guardians: we want to help you guard your children's privacy. We encourage you to talk to your children about safe and responsible use of their Personal Information while using the Internet.
+We do not knowingly collect personal information from children under the age of 13. If we learn that we have personal information on a child under the age of 13, we will delete that information from our systems. OTOGoldMine.com encourages parents to go online with their kids. Here are a few tips to help make a child's online experience safer:
 
-The "Kanishka Infocom Private Limited" site does not publish content that is targeted to children. However, if you are concerned about your children providing "Kanishka Infocom Private Limited" any personal information without your consent, "Kanishka Infocom Private Limited" offers a Kids account. It allows parents to give parental consent for the collection, use and sharing of children’s (ages 12 and under) personal information online.
+Teach kids never to give personal information, unless supervised by a parent or responsible adult. Includes name, address, phone, school, etc.
+
+Know the sites your kids are visiting and which sites are appropriate.
+
+Look for Web site privacy policies. Know how your child's information is treated.
+
+Check out the FTC's site:  
+[ http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html)  for more tips on  
+protecting children's privacy online.
 
 **ENFORCEMENT**
 
@@ -94,3 +102,27 @@ When you join us, you provide us with your contact information, including your n
 We occasionally hire other companies to provide limited services on our behalf, including packaging, mailing and delivering purchases, answering customer questions about products or services, sending postal mail and processing event registration. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose.
 
 "Kanishka Infocom Private Limited" will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on "Kanishka Infocom Private Limited" or the site; (b) protect and defend the rights or property of "Kanishka Infocom Private Limited" and its family of Websites, and, (c) act in urgent circumstances to protect the personal safety of users of "Kanishka Infocom Private Limited", its Websites, or the public.
+
+**AFFILIATED SITES, LINKED SITES AND ADVERTISEMENTS**
+
+OTOGoldMine.com expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a OTOGoldMine.com page, certain content that is actually created or hosted by a third party. Also, through OTOGoldMine.com you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. OTOGoldMine.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
+
+While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. OTOGoldMine.com does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.
+
+You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of OTOGoldMine.com and this policy.
+
+**CHANGES TO THIS POLICY**
+
+OTOGoldMine.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
+
+**GOVERNING LAW**
+
+This policy and the use of this Site are governed by India law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Jaipur. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us.
+
+If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Jaipur, under the rules of Indian Laws. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
+
+OTOGoldMine.com is controlled, operated and administered entirely within India. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+
+**CONTACTING US**
+
+We can be reached by clicking [HERE](http://www.otogoldmine.com/support/).
