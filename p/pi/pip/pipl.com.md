@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pipl.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605233913id_/http%3A//www.pipl.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pipl.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214013156id_/http%3A//www.pipl.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Pipl - People Search
 
@@ -22,7 +22,7 @@ A cookie is a small data file that is sent to your computer when you first visit
 Cookies can improve the quality of service e.g. recognizing a user when he visits the site, displaying the site according to the user’s chosen user settings for language, and maintaining the security of the user’s account. If you prefer, however, you can reset your browser so that it refuses all cookies, or notifies you when a cookie is being sent. 
 
 **Links to third party websites**  
-Pipl's search results are links to third party websites or to a cached copy of the third party's web-page that temporeraly reside on our servers, information about you may be visible to subsequent websites if you view those pages. Even if the third party is affiliated with us, we have no control over linked sites, each of which has separate privacy and data collection practices independent of Pipl. As such, we are not responsible for, or have any control over, the content or the privacy policies of those third party websites, and encourage all users to read the privacy policies of each and every website visited when linking from Pipl.com. This privacy statement applies solely to information collected by Pipl's service and website.
+Pipl's search results are links to third party websites or to a cached copy of the third party's web-page that temporarily reside on our servers, information about you may be visible to subsequent websites if you view those pages. Even if the third party is affiliated with us, we have no control over linked sites, each of which has separate privacy and data collection practices independent of Pipl. As such, we are not responsible for, or have any control over, the content or the privacy policies of those third party websites, and encourage all users to read the privacy policies of each and every website visited when linking from Pipl.com. This privacy statement applies solely to information collected by Pipl's service and website.
 
 **Advertising and promotions**  
 Pipl may display targeted ads and other relevant information, when you are using Pipl's service.  
