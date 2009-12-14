@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localmole.co.uk privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627102405id_/http%3A//www.localmole.co.uk/Legals/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localmole.co.uk privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214212002id_/http%3A//www.localmole.co.uk/Legals/PrivacyPolicy) for the most accurate reproduction.*
 
 # LocalMole.co.uk
 
