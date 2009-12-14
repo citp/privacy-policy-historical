@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the tiptopjob.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616063132id_/http%3A//www.tiptopjob.com/displaycontent/sectionid/16/contentid/331_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiptopjob.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214231359id_/http%3A//www.tiptopjob.com/displaycontent/sectionid/16/contentid/331_privacy) for the most accurate reproduction.*
 
 # Privacy
 
 | [Back to Footer Topics Section Index](https://web.archive.org/displaycontent/sectionid/16)  
 ---  
-|  |   
----|---  
   
+## **Privacy**  
+  
+|   
+---  
 |  These Privacy Conditions are the basis for individuals, Clients and Agencies using any of the **TipTopJob** web sites. which include the .com or country domains, and particularly this site - **TipTopJob.com.
 
 TipTopJob 
@@ -26,7 +28,7 @@ A cookie is a small piece of information about an Internet session that may be c
   
 ## DATA PROTECTION
 
-**TipTopJob** is registered under the Data Protection Act, 1998 and at all times use best endeavours to comply with the terms of the Act in all our dealings with your personal data. 
+ **TipTopJob** is registered under the Data Protection Act, 1998 and at all times use best endeavours to comply with the terms of the Act in all our dealings with your personal data. 
 
   * We will never sell personal information or share personal information with third parties without your explicit consent. 
   * If you provide us with personal information as part of an information or service request through this website, we will only use your data to process your request (subject to the data protection registration for the individual service concerned). 
@@ -47,7 +49,7 @@ You will be requested for a series of information for us to hold and use on the 
   
 ## IMPORTANT
 
-**TipTopJob** cannot restrict the Clients, Agencies, or Buyers that access items on our database and cannot be held responsible for any eventuality. You can choose to opt in and out of making your information available depending on your requirements from time to time. Clients will be located in countries from all round the world and especially outside the European Union. The option is available for anyone to switch to different **TipTopJob** sites but still request data from whatever country they desire. 
+ **TipTopJob** cannot restrict the Clients, Agencies, or Buyers that access items on our database and cannot be held responsible for any eventuality. You can choose to opt in and out of making your information available depending on your requirements from time to time. Clients will be located in countries from all round the world and especially outside the European Union. The option is available for anyone to switch to different **TipTopJob** sites but still request data from whatever country they desire. 
 
 When you register with **TipTopJob** , you will first register and provide a User Key and password. You will create your own Profile and upload one or more items and we will store the information on our databases. You can update or delete any of the information at any time. It is your responsibility to ensure that your Item Details and contact details are kept up to date. Once your User Profile and Items are on our database, we will contact you periodically by email to request whether you want to remain active or inactive. By being set inactive, it stops your Item Details being searched and will be archived until you wish to make it active again. We have the right that if we do not have a positive response to a series of emails, we will remove your information from the database.  
   
@@ -73,7 +75,7 @@ You do not need our permission to link to **TipTopJob** and we do not object to 
 If you would like to arrange for a mutual link to be set up from our site to yours, please email or phone us, using the details in [Contact Us](http://www.tiptopjob.com/displaycontent/sectionid/16/contentid/80_contact_us) **[  
 ](http://www.aicr.org.uk/)**  
   
-## SUBJECT ACCESS 
+## SUBJECT ACCESS
 
 Under the Data Protection Act, you are entitled to make a subject access request to see information we hold about you. There is a charge of £12.00 for this service.[ ](http://www.healthcarejobbank.com/)  
   
@@ -87,7 +89,7 @@ You may also find our [Terms and Conditions Page](http://www.tiptopjob.com/displ
   
 Share It / Bookmark It :  **Privacy**
 
-[](http://digg.com/submit?phase=2&url=http%3A%2F%2Fwww%2Etiptopjob%2Ecom%2Fdisplaycontent%2Fsectionid%2F16%2Fcontentid%2F331%5Fprivacy&title=Privacy+ "Digg")  [](http://del.icio.us/post?url=http%3A%2F%2Fwww%2Etiptopjob%2Ecom%2Fdisplaycontent%2Fsectionid%2F16%2Fcontentid%2F331%5Fprivacy&title=Privacy+ "del.icio.us")  [](http://reddit.com/submit?url=http%3A%2F%2Fwww%2Etiptopjob%2Ecom%2Fdisplaycontent%2Fsectionid%2F16%2Fcontentid%2F331%5Fprivacy&title=Privacy+ "Reddit")  [](http://slashdot.org/bookmark.pl?title=Privacy+&url=http%3A%2F%2Fwww%2Etiptopjob%2Ecom%2Fdisplaycontent%2Fsectionid%2F16%2Fcontentid%2F331%5Fprivacy "Slashdot")  [](http://technorati.com/faves?add=http%3A%2F%2Fwww%2Etiptopjob%2Ecom%2Fdisplaycontent%2Fsectionid%2F16%2Fcontentid%2F331%5Fprivacy "Technorati")  [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww%2Etiptopjob%2Ecom%2Fdisplaycontent%2Fsectionid%2F16%2Fcontentid%2F331%5Fprivacy "StumbleUpon")  [](http://www.netscape.com/submit/?U=http%3A%2F%2Fwww%2Etiptopjob%2Ecom%2Fdisplaycontent%2Fsectionid%2F16%2Fcontentid%2F331%5Fprivacy&T=Privacy+ "Netscape")  [](http://cgi.fark.com/cgi/fark/edit.pl?new_url=http%3A%2F%2Fwww%2Etiptopjob%2Ecom%2Fdisplaycontent%2Fsectionid%2F16%2Fcontentid%2F331%5Fprivacy&new_comment=Privacy+ "Fark")  [](http://www.spurl.net/spurl.php?url=http%3A%2F%2Fwww%2Etiptopjob%2Ecom%2Fdisplaycontent%2Fsectionid%2F16%2Fcontentid%2F331%5Fprivacy&title=Privacy+ "Spurl")  [](http://www.furl.net/storeIt.jsp?u=http%3A%2F%2Fwww%2Etiptopjob%2Ecom%2Fdisplaycontent%2Fsectionid%2F16%2Fcontentid%2F331%5Fprivacy&t=Privacy+ "Furl")  [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww%2Etiptopjob%2Ecom%2Fdisplaycontent%2Fsectionid%2F16%2Fcontentid%2F331%5Fprivacy)  [](http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http%3A%2F%2Fwww%2Etiptopjob%2Ecom%2Fdisplaycontent%2Fsectionid%2F16%2Fcontentid%2F331%5Fprivacy&title=Privacy+)  [](http://www.google.com/bookmarks/mark?op=edit&output=popup&bkmk=http%3A%2F%2Fwww%2Etiptopjob%2Ecom%2Fdisplaycontent%2Fsectionid%2F16%2Fcontentid%2F331%5Fprivacy&title=Privacy+)  [](http://favorites.live.com/quickadd.aspx?url=http%3A%2F%2Fwww%2Etiptopjob%2Ecom%2Fdisplaycontent%2Fsectionid%2F16%2Fcontentid%2F331%5Fprivacy)  [](http://www.newsvine.com/_tools/seed&save?u=http%3A%2F%2Fwww%2Etiptopjob%2Ecom%2Fdisplaycontent%2Fsectionid%2F16%2Fcontentid%2F331%5Fprivacy&h=Privacy+)   
+[](http://digg.com/submit?phase=2&url=http://www.tiptopjob.com/displaycontent/sectionid/16/contentid/331_privacy&title=Privacy "Digg")  [](http://del.icio.us/post?url=http://www.tiptopjob.com/displaycontent/sectionid/16/contentid/331_privacy&title=Privacy "del.icio.us")  [](http://reddit.com/submit?url=http://www.tiptopjob.com/displaycontent/sectionid/16/contentid/331_privacy&title=Privacy "Reddit")  [](http://slashdot.org/bookmark.pl?title=Privacy&url=http://www.tiptopjob.com/displaycontent/sectionid/16/contentid/331_privacy "Slashdot")  [](http://technorati.com/faves?add=http://www.tiptopjob.com/displaycontent/sectionid/16/contentid/331_privacy "Technorati")  [](http://www.stumbleupon.com/submit?url=http://www.tiptopjob.com/displaycontent/sectionid/16/contentid/331_privacy "StumbleUpon")  [](http://www.netscape.com/submit/?U=http://www.tiptopjob.com/displaycontent/sectionid/16/contentid/331_privacy&T=Privacy "Netscape")  [](http://cgi.fark.com/cgi/fark/edit.pl?new_url=http://www.tiptopjob.com/displaycontent/sectionid/16/contentid/331_privacy&new_comment=Privacy "Fark")  [](http://www.spurl.net/spurl.php?url=http://www.tiptopjob.com/displaycontent/sectionid/16/contentid/331_privacy&title=Privacy "Spurl")  [](http://www.furl.net/storeIt.jsp?u=http://www.tiptopjob.com/displaycontent/sectionid/16/contentid/331_privacy&t=Privacy "Furl")  [](http://www.facebook.com/share.php?u=http://www.tiptopjob.com/displaycontent/sectionid/16/contentid/331_privacy)  [](http://myweb2.search.yahoo.com/myresults/bookmarklet?u=http://www.tiptopjob.com/displaycontent/sectionid/16/contentid/331_privacy&title=Privacy)  [](http://www.google.com/bookmarks/mark?op=edit&output=popup&bkmk=http://www.tiptopjob.com/displaycontent/sectionid/16/contentid/331_privacy&title=Privacy)  [](http://favorites.live.com/quickadd.aspx?url=http://www.tiptopjob.com/displaycontent/sectionid/16/contentid/331_privacy)  [](http://www.newsvine.com/_tools/seed&save?u=http://www.tiptopjob.com/displaycontent/sectionid/16/contentid/331_privacy&h=Privacy)   
   
   
 [Back to Footer Topics Section Index](https://web.archive.org/displaycontent/sectionid/16)
