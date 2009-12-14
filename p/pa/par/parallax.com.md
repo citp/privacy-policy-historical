@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parallax.com privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415212519id_/http%3A//www.parallax.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parallax.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214022941id_/http%3A//www.parallax.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Parallax Home
 
