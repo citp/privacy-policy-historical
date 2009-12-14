@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vonage.co.uk privacy policy that was archived on 2009-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090325003032id_/http%3A//www.vonage.co.uk/help.php%3Flid%3Dfooter_privacy%26article%3D399) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vonage.co.uk privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214021501id_/http%3A//www.vonage.co.uk/help.php%3Flid%3Dfooter_privacy%26article%3D399) for the most accurate reproduction.*
 
-# Vonage help :
+# 
 
 ## Vonage Privacy Policy
 
