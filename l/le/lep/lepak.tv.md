@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lepak.tv privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419110109id_/http%3A//www.lepak.tv/page.php%3Fpage%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lepak.tv privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214204029id_/http%3A//www.lepak.tv/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# Lepak.TV - Malaysia's Video Sharing Community
+# Lepak.TV - Privacy Policy
 
 We gather user information to provide you with a customized experience on our site. Your user information helps us tailor the content, services, goods and advertising to your current and future needs. For this reason, we may ask you to register or to provide personal information when you post comments, enter a contest, order products, subscribe to a newsletter and/or visit certain areas of our site. If you choose not to register you may not have access to areas that require personal identification.
 
@@ -20,6 +20,6 @@ We will not share your personally identifiable information with third parties, a
 **Information security**  
 We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data. We restrict access to personal information to Google employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. 
 
-Please report any violations of these Terms to us at 
+PLEASE REPORT ANY VIOLATIONS OF THESE TERMS TO US AT 
 
-[ Account@Lepak.tv](mailto:account@lepak.tv). 
+[ ACCOUNT@LEPAK.TV](mailto:account@lepak.tv)
