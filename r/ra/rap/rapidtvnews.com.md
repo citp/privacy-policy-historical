@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapidtvnews.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605061210id_/http%3A//www.rapidtvnews.com/index.php/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidtvnews.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214210151id_/http%3A//www.rapidtvnews.com/index.php/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Rapid TV News
 
