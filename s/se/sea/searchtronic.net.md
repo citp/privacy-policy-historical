@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchtronic.net privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612112411id_/http%3A//www.searchtronic.net/Privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchtronic.net privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214163042id_/http%3A//www.searchtronic.net/Privacy_policy.aspx) for the most accurate reproduction.*
 
 # Searchtronic.net Privacy Policy
 
@@ -27,6 +27,6 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 Protecting the privacy of the very young is especially important to us at Searchtronic. And for that reason, we never collect or maintain information at our website from those we actually know are under the age of 13. No part of our website is structured to attract anyone under the age of 13. Also, if we hear of, are informed of, or are witness to any illegal activity with, to, or directed at children, we will promptly report such parties to the proper authorities for prosecution. 
 
-[Home](https://web.archive.org/) [Terms of Use](https://web.archive.org/web/20090612112411id_/http%3A//www.searchtronic.net/Terms.aspx) [Privacy Policy](https://web.archive.org/web/20090612112411id_/http%3A//www.searchtronic.net/Privacy_policy.aspx)
+[Home](https://web.archive.org/) [Terms of Use](https://web.archive.org/web/20091214163042id_/http%3A//www.searchtronic.net/Terms.aspx) [Privacy Policy](https://web.archive.org/web/20091214163042id_/http%3A//www.searchtronic.net/Privacy_policy.aspx)
 
 ©2020 Elephant Orchestra. All rights reserved. 
