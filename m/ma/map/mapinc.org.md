@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mapinc.org privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603062258id_/http%3A//drugsense.org/pages/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapinc.org privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214134505id_/http%3A//drugsense.org/pages/privacypolicy.htm) for the most accurate reproduction.*
 
 # DrugSense: Drug Law Reform - DrugSense/MAP Inc. Privacy Policy
 
@@ -27,3 +27,13 @@ By e-mail: [service@drugsense.org](mailto:service@drugsense.org)
 By Phone: 1-800-266-5759 
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted. 
+
+* * *
+
+See also:  
+
+
+  * [Website Hosting Policy](http://www.drugpolicycentral.com/hosting/aup.htm#webhosting)
+  * [Mail List Policy](http://drugpolicycentral.com/hosting/aup.htm)
+
+
