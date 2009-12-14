@@ -1,7 +1,22 @@
-<!--The following is the downloaded HTML source of the music.com privacy policy that was archived on 2009-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090616155621id_/http%3A//www.music.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the music.com privacy policy that was archived on 2009-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091214085744id_/http%3A//www.music.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr" xmlns:fb="http://www.facebook.com/2008/fbml"><head id="ctl00_head">
+    
+    
+        <script type="text/javascript">
+            function makeDblDlgt(function1, function2) {
+                return function() {
+                    if (function1)
+                        function1();
+                    if (function2)
+                        function2();
+                }
+            }
+        </script>
+
+        
+        
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	    <meta name="keywords" content="">
 	    <meta name="description" content="">
@@ -58,8 +73,18 @@
     <body>
 		<!-- facebook requires the script to be placed in the body tag -->
 		<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
+		
+				
+		
+		
 		<!--header below-->
 		<div id="container">
+
+		
+		
+		
+		
+		
 			<div id="header">
 				<div id="leaderhead">
 				    
@@ -72,80 +97,64 @@
 					</script>
 				</div>
                 <!-- show if logged out -->
-                				
+                <div id="ctl00_divJoinNow">
+				    <a href="/Register"><img src="static/images/joinnow.gif" id="ctl00_imgJoinNow"></a>
+				</div>				
 				<a href="/" id="ctl00_linkHomePage">
 					<img src="/static/images/mdclogo.gif" id="ctl00_imgHomePageLogo" class="logo" alt="music.com">
 				</a>
 			</div>
 			
-			<a href="/lyrics"><img id="lyricpromo" src="/static/images/lyric_promo.gif" alt="visit our lyric channel"></a>
+			<a href="/lyrics"><img id="lyricpromo" src="/static/images/kswiss_lyric_promo.gif" alt="visit our lyric channel"></a>
 			
             <div id="headersearch">
                 <div id="search">
                     <a id="magglasslink" href="#">
                         <img src="/static/images/magglass.gif" id="magglass" alt="search"></a>
-                    <input autocomplete="off" name="search" id="demo-local" value="Search by artist, album or song" onclick="this.value='';document.getElementById('loginform').style.display = 'none'" type="text">
+                    <input autocomplete="off" name="search" id="demo-local" value="Search by artist, album or song" onclick="if(this.value == 'Search by artist, album or song'){this.value=''};document.getElementById('loginform').style.display = 'none'" type="text">
                 </div>
             </div>
             <div id="logincontainer">
   				<div id="ctl00_panelWelcomeText">
 	
 					
-	<!-- check if this is a facebook logged in user -->
-	
-		<p class="welcometext">
-			<b>Welcome Back, tigerwoods</b><br>
-			
-				<a href="/manageaccount">My Account</a> <span>|</span>
-			
-			<a href="/logout"> Logout</a> 
-		</p>
+		<fb:login-button id="facebooklogin" size="medium" background="light" length="short" onlogin="window.location.href = '/login/facebook?ReturnUrl=/privacypolicy';"></fb:login-button>
+		<img src="/static/images/or.gif" id="or" alt="or">
+
+		<a href="" onclick="document.getElementById('loginform').style.display = 'block'; document.getElementById('chicklets').style.zIndex ='950';return false" id="memberlogin"><span>Member Login</span></a>
+
+		<div id="loginform">
+            <form id="loginForm1" method="post" action="/login">
+                <table>
+                    <tbody><tr>
+                        <td>
+                            <input value="Email Address" style="color: gray;" onfocus="if(this.value=='Email Address')this.value='';style.color='black';" type="text" name="email" id="email">
+                        </td>
+                        <td>
+                            <input value="Password" style="color: gray;" onfocus="if(this.value=='Password')this.value='';style.color='black';" type="password" name="password" id="password">
+                        </td>
+                        <td>
+                            <img id="btnsubmit" src="/static/images/submit.png" alt="Submit" onclick="javascript:document.getElementById('loginForm1').submit();">
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <input type="checkbox" value="true" name="rememberMe">&nbsp;Remember me
+                        </td>
+                        <td>
+                            <a href="/forgotpassword">Forgot Password</a><input type="hidden" name="ReturnUrl" id="ReturnUrl" value="http://www.music.com/home">
+                        </td>
+                        <td>
+                            <a href="" onclick="document.getElementById('loginform').style.display = 'none';document.getElementById('chicklets').style.zIndex ='1001';return false" class="closelogin"></a>
+                        </td>
+                    </tr>
+                </tbody></table>
+            </form>
+        </div>
 	
 </div>     
              </div>
-                     
-			
-<div id="chicklets">
-	<ul>
-		<li><a href="#" onclick="document.getElementById('rss').style.display='block'; return false"><img src="/static/images/rss.gif" alt=""></a></li>
-		<li><a href="http://www.twitter.com/musicdotcom" target="_blank"><img src="/static/images/twitter.gif" alt=""></a></li>
-		<li class="last"><a href="http://www.facebook.com/pages/Musiccom/62324003290" target="_blank"><img src="/static/images/facebook.gif" alt=""></a></li>
-	</ul>
-</div>
-
-<div id="rss" style="display: none">
-	<div id="rsswrap">
-		<div id="rssclose"><a href="#" onclick="document.getElementById('rss').style.display='none'; return false">X</a></div>
-		<div id="rssdesc">
-			<h4>Subscribe to our RSS video feed</h4> 
-			<h5>You'll get immediate updates on:</h5>
-			<ul>
-				<li>New video arrivals</li>
-				<li>Staff recommendations</li>
-				<li>Top videos each week</li>
-			</ul>
-		</div>
-		<div id="rssicons">
-			<ul>
-				<li><a href="http://www.google.com/ig/add?feedurl=http://www.music.com:80/rss/news"><img src="/static/images/rss_google.gif" alt=""></a></li>
-				<li><a href="http://add.my.yahoo.com/rss?url=http://www.music.com:80/rss/news"><img src="/static/images/rss_yahoo.gif" alt=""></a></li>
-				<li><a href="http://www.netvibes.com/subscribe.php?url=http://www.music.com:80/rss/news"><img src="/static/images/rss_netvibes.gif" alt=""></a></li>
-				<li><a href="http://www.bloglines.com/sub/http://www.music.com:80/rss/news"><img src="/static/images/rss_bloglines.gif" alt=""></a></li>
-				<li><a href="http://www.newsgator.com/ngs/subscriber/subext.aspx?url=http://www.music.com:80/rss/news"><img src="/static/images/rss_newsgator.gif" alt=""></a></li>
-				<li><a href="http://www.live.com/?add=http://www.music.com:80/rss/news"><img src="/static/images/rss_windows.gif" alt=""></a></li>
-			</ul>
-			<div class="clear"></div>
-		</div>
-		<div id="rssfeed">
-			<h4>Feed URL:</h4>
-			<form>
-				<input type="text" id="rsslink" class="text" value="http://www.music.com/rss/news"> <input type="button" class="copy" value="Copy" alt="" onclick="RssCopyClipboard();">
-			</form>
-		</div>
-	</div>
-</div>
-
-
+            
 			<div class="clear"></div>
 		<!--header above-->
 			
@@ -166,7 +175,7 @@
 			<div class="header"><img src="static/images/title_privacy.gif" alt="privacy"></div>
 
 		<p>
-		Music.com cares deeply about online privacy. If you have any questions concerning this privacy policy, please email us at <a href="mailto:privacy@music.com">privacy@music.com</a>.
+		Music.com cares deeply about online privacy. If you have any questions concerning this privacy policy, please email us at <a href="mailto:contact-us@music.com">contact-us@music.com</a>.
 		Information Collection and Use by Music.com
 		</p>
 
@@ -220,13 +229,15 @@
 		</p>
 
 		<p>
-		We use reasonable measures to protect member information that is stored within our database, and we restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time. For any additional information about the security measures we use on Music.com, please contact us at <a href="mailto:privacy@music.com">privacy@music.com</a>.
+		We use reasonable measures to protect member information that is stored within our database, and we restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time. For any additional information about the security measures we use on Music.com, please contact us at <a href="mailto:contact-us@music.com">contact-us@music.com</a>.
 		Sharing and Disclosure of Information Music.com collects
 		</p>
 
 		<p>
 		Except as described above, Music.com will not disclose personal information to any third party without a user's explicit permission, unless otherwise required by law. Music.com reserves the right to transfer personal information to a successor in interest that acquires rights to that information as a result of the sale of Music.com or the transfer of substantially all of its assets to a successor in interest.
 		</p>
+
+		<p>If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">http://www.networkadvertising.org/managing/opt_out.asp</a>.</p>
 
 		<p>
 		Changes in Our Privacy Policy
@@ -238,10 +249,10 @@
 		</p>
 
 		<p>
-		If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: <a href="mailto:privacy@music.com">privacy@music.com</a>
+		If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: <a href="mailto:contact-us@music.com">contact-us@music.com</a>
 		</p>
 	
-		<p>&nbsp;</p>
+
 			
 	</div>
 	
@@ -289,27 +300,25 @@
         <script type="text/javascript">
             try {
                 var pageTracker = _gat._getTracker("UA-6680093-1");
-                pageTracker._trackPageview();
+                pageTracker._trackPageview(); 
             } catch (err) { }
         </script>
+        
+               	   <script type="text/javascript">
+               	       // Send an event when a vid page loads and when a user is there for at least 10 seconds
+               	       function trackTimeOnPage() {
+               	           pageTracker._trackEvent('siteView', 'load', '/privacypolicy');
+               	           setTimeout('pageTracker._trackEvent(\'siteView\',\'tenSeconds\',\'/privacypolicy\')', 10000);
+               	       }
+               	       pageTracker._trackEvent('siteView', 'preload', '/privacypolicy');
+               	       window.onload = makeDblDlgt(window.onload, trackTimeOnPage());
+        	   </script>  
+        
         
 <script type="text/javascript">
 	FB.init("3bc697e25f944c4167130fe0b3b36530", "/xd_receiver.htm");	
 	window.onload = function() { facebook_onload(false); };
 
-	/*
-	* The facebook_onload statement is printed out in the PHP. If the user's logged in
-	* status has changed since the last page load, then refresh the page to pick up
-	* the change.
-	*
-	* This helps enforce the concept of "single sign on", so that if a user is signed into
-	* Facebook when they visit your site, they will be automatically logged in -
-	* without any need to click the login button.
-	*
-	* @param already_logged_into_facebook  reports whether the server thinks the user
-	*                                      is logged in, based on their cookies
-	*
-	*/
 	function facebook_onload(already_logged_into_facebook) {
 		// user state is either: has a session, or does not.
 		// if the state has changed, detect that and reload.
@@ -324,16 +333,27 @@
 				}
 
 				// otherwise, refresh to pick up the state change
-				window.location.href = '/login/facebook?ReturnUrl=http://www.music.com/privacypolicy';
+				window.location.href = '/login/facebook?ReturnUrl=/privacypolicy';
 			});
 		});
 	}
 	
 	function facebook_onlogout() {
-		window.location.href = '/logout/facebook?ReturnUrl=http://www.music.com/privacypolicy';
+		window.location.href = '/logout/facebook?ReturnUrl=/privacypolicy';
 	}
 </script>
 
+        <!-- Start Quantcast tag -->
+        <script type="text/javascript">
+            _qoptions = {
+                qacct: "p-0fJ0YsAey7Di-"
+            };
+        </script>
+        <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+        <noscript>
+        <img src="http://pixel.quantserve.com/pixel/p-0fJ0YsAey7Di-.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+        </noscript>
+        <!-- End Quantcast tag -->
     
 
 </body></html>
