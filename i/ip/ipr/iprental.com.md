@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iprental.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619044919id_/http%3A//www.iprental.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iprental.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214202729id_/http%3A//www.iprental.com/privacy) for the most accurate reproduction.*
 
 # IP Rental - Privacy Policy
 
