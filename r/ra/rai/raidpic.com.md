@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the raidpic.com privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428133535id_/http%3A//www.raidpic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raidpic.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214223808id_/http%3A//www.raidpic.com/privacy.php) for the most accurate reproduction.*
 
-# RaidPIC
+# RaidPIC - Simple, Easy, Image Hosting
 
 **General**
 
@@ -44,4 +44,4 @@ RaidPIC.com has security measures in place to help protect against the loss, mis
 
 **Contacting Us**
 
-If you have any questions regarding this privacy policy, information that you have submitted to us or would like to request the removal of a copyright image, please [contact us](https://web.archive.org/web/20090428133535id_/http%3A//www.raidpic.com/contact.php).
+If you have any questions regarding this privacy policy, information that you have submitted to us or would like to request the removal of a copyright image, please [contact us](https://web.archive.org/web/20091214223808id_/http%3A//www.raidpic.com/contact.php).
