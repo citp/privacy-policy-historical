@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the heartquotes.net privacy policy that was archived on 2009-04-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090419132752id_/http%3A//www.heartmath.com/company/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the heartquotes.net privacy policy that was archived on 2009-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091214104244id_/http%3A//www.heartmath.com/company/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -34,6 +34,17 @@
       return true;
     }
   }
+  
+  
+  function SetCookie(cookieName,cookieValue,nDays) {
+    var today = new Date();
+     var expire = new Date();
+     if (nDays==null || nDays==0) nDays=1;
+     expire.setTime(today.getTime() + 3600000*24*nDays);
+     document.cookie = cookieName+"="+escape(cookieValue)
+                 + ";expires="+expire.toGMTString();
+}
+  
 </script>
 
 <script language="JavaScript">
@@ -50,16 +61,17 @@
 
 <body>       
     
-                                     
-<script type="text/javascript">
-  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+  <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-
 <script type="text/javascript">
-  var pageTracker = _gat._getTracker("UA-5107053-1");
-  pageTracker._trackPageview();
-</script>
+try {
+var pageTracker = _gat._getTracker("UA-5107053-1");
+pageTracker._setDomainName("none");
+pageTracker._setAllowLinker(true);
+pageTracker._trackPageview();
+} catch(err) {}</script>
 
 
 <div id="wrapper">
@@ -92,7 +104,7 @@
   
   <script type="text/javascript">
     function openRegister(){
-      var ajaxwin = dhtmlwindow_centre.open('ajaxbox', 'iframe', '/templates/ihm/includes/register.php?joomlasession=j0fe558ee12e0466700d7881f8709829c', 'Register for a HeartMath account', 'width=760px,height=440px,resize=0,scrolling=0');
+      var ajaxwin = dhtmlwindow_centre.open('ajaxbox', 'iframe', '/templates/ihm/includes/register.php?joomlasession=j7eb7552b48162114bd0970bd7e84d230', 'Register for a HeartMath account', 'width=760px,height=440px,resize=0,scrolling=0');
     }
             
     function forgot_pass_pop(){
@@ -101,7 +113,7 @@
                        
  
     function openLoginSoap(){
-      var ajaxwin = dhtmlwindow_centre.open('ajaxbox', 'iframe', '/templates/ihm/includes/login_box_popup.php?joomlasession=j0fe558ee12e0466700d7881f8709829c', 'HeartMath login', 'width=400px,height=150px,resize=0,scrolling=0');
+      var ajaxwin = dhtmlwindow_centre.open('ajaxbox', 'iframe', '/templates/ihm/includes/login_box_popup.php?joomlasession=j7eb7552b48162114bd0970bd7e84d230', 'HeartMath login', 'width=400px,height=150px,resize=0,scrolling=0');
                         
       ajaxwin.onclose=function(){ //Run custom code when window is about to be closed
         window.parent.location.href = window.parent.location.href;
@@ -368,7 +380,7 @@
                 <a href="index.php">Home</a>&nbsp;|&nbsp;
                 <a href="javascript:popUp('/templates/ihm/applets/recommend/index.php')">Recommend&nbsp;Us</a>&nbsp;|&nbsp;
                 <a href="http://support.heartmath.com" target="_blank">Support</a>&nbsp;|&nbsp;
-                <a href="http://affiliates.heartmathstore.com" target="_blank">Affiliate&nbsp;Program</a>&nbsp;|&nbsp;
+                <a href="http://www.heartmath.com/personal-growth/heartmath-affiliate-program.html">Affiliate&nbsp;Program</a>&nbsp;|&nbsp;
                 <a href="/index.php?option=com_content&amp;task=view&amp;id=38&amp;Itemid=69">International</a>&nbsp;|&nbsp;
                 <a href="/index.php?option=com_content&amp;task=view&amp;id=37&amp;Itemid=91">Contact&nbsp;Us</a>&nbsp;|&nbsp;
                 <a href="/index.php?option=com_content&amp;task=view&amp;id=99&amp;Itemid=112">Privacy&nbsp;Policy</a>&nbsp; | &nbsp;
@@ -442,6 +454,13 @@ hmSetStoreMTCInfo();
 <script type="text/javascript" src="http://cetrk.com/pages/scripts/0009/0965.js"></script>
 
 
+  
+  <!-- Woopra Code Start -->
+<script type="text/javascript">
+var _wh = ((document.location.protocol=='https:') ? "https://sec1.woopra.com" : "http://static.woopra.com");
+document.write(unescape("%3Cscript src='" + _wh + "/js/woopra.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://sec1.woopra.com/js/woopra.js" type="text/javascript"></script>
+<!-- Woopra Code End -->
   
 
 </body></html>
