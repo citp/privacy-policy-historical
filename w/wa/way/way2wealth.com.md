@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the way2wealth.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615163233id_/http%3A//www.way2wealth.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the way2wealth.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214213743id_/http%3A//www.way2wealth.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Way2Wealth Brokers Private Ltd.
 
@@ -159,12 +159,12 @@ Certain provisions of the Terms may be superseded by expressly designated legal 
 |   
 ---  
    
-|  | [About Us](https://web.archive.org/web/20090615163233id_/http%3A//www.way2wealth.com/about_us.asp)  |  [Careers](https://web.archive.org/web/20090615163233id_/http%3A//www.way2wealth.com/careers.asp) |  [Advertise with Us](https://web.archive.org/web/20090615163233id_/http%3A//www.way2wealth.com/advertise.asp)  |  [Important Links](https://web.archive.org/web/20090615163233id_/http%3A//www.way2wealth.com/important_links.asp)  |  [ Privacy Policy](https://web.archive.org/web/20090615163233id_/http%3A//www.way2wealth.com/privacy_policy.asp)  |  [Terms and Conditions](https://web.archive.org/web/20090615163233id_/http%3A//www.way2wealth.com/terms_conditions.asp)  |  [Do’s and Don’ts](https://web.archive.org/web/20090615163233id_/http%3A//www.way2wealth.com/dos_and_donts.asp)  |  [Site Map](https://web.archive.org/web/20090615163233id_/http%3A//www.way2wealth.com/sitemap.asp)  
+|  | [About Us](https://web.archive.org/web/20091214213743id_/http%3A//www.way2wealth.com/about_us.asp)  |  [Careers](https://web.archive.org/web/20091214213743id_/http%3A//www.way2wealth.com/careers.asp) |  [Advertise with Us](https://web.archive.org/web/20091214213743id_/http%3A//www.way2wealth.com/advertise.asp)  |  [Important Links](https://web.archive.org/web/20091214213743id_/http%3A//www.way2wealth.com/important_links.asp)  |  [ Privacy Policy](https://web.archive.org/web/20091214213743id_/http%3A//www.way2wealth.com/privacy_policy.asp)  |  [Terms and Conditions](https://web.archive.org/web/20091214213743id_/http%3A//www.way2wealth.com/terms_conditions.asp)  |  [Do’s and Don’ts](https://web.archive.org/web/20091214213743id_/http%3A//www.way2wealth.com/dos_and_donts.asp)  |  [Site Map](https://web.archive.org/web/20091214213743id_/http%3A//www.way2wealth.com/sitemap.asp)  
 ---  
 Way2Wealth Brokers Private Ltd., SEBI Reg. Nos. - NSE CM: INB231150237 | NSE FO: INF230683037 | NSE CDM: INE231150237 | BSE CM: INB011150233 |   
 MCX-SX CDS: INE261150237 | BGSE CM: INB081150238  FMC Member IDs. - NCDEX: NCDEX/TCM/CORP/0883 | MCX: MCX/TCM/CORP/1616 | PMS: INP000000829 |   
 NSDL: IN-DP-NSDL-253-2005  
 If you have any grievances about our products or services, please write to us at [ grievance@way2wealth.com](mailto:grievance@way2wealth.com)  
-Copy Right © Way2Wealth. All rights reserved. Site best viewed in 1024 X 768 Resolution. Designed and maintained by RTGSL  
+Copy Right © Way2Wealth Brokers Pvt. Ltd. All rights reserved. Site best viewed in 1024 X 768 Resolution. Designed and maintained by RTGSL  
   
  
