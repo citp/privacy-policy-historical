@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fairfaxcounty.gov privacy policy that was archived on 2009-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090510110354id_/http%3A//www.fairfaxcounty.gov/using/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairfaxcounty.gov privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214180500id_/http%3A//www.fairfaxcounty.gov/using/privacy.htm) for the most accurate reproduction.*
 
 # Web Disclaimer & Privacy Policy - Fairfax County, Virginia
 
@@ -8,7 +8,7 @@ We do not capture personal information without visitors' permission.
 
 ##  Anonymous Visitor Information Collection 
 
-For every visitor to our site, there are several common pieces of information that we do collect that are stored in logs. Internet Protocol (IP) address, browser type, operating system, the date and time of the visit, and the addresses to which a visitor linked during a visit to our Web site are all recorded. We cannot and do not associate any of this information with individual persons, distribute this information, or use it in any manner other than for statistical analysis in improving our site to better serve our visitors. 
+For every visitor to our site, there are several common pieces of information that we do collect that are stored in logs. Internet Protocol (IP) address, browser type, operating system, the date and time of the visit, and the addresses to which a visitor linked during a visit to our Web site are all recorded. We use a third-party service to collect data about where visitors click on some of our pages so we can improve content placement on the Web site.We cannot and do not associate any of this information with individual persons, distribute this information, or use it in any manner other than for statistical analysis in improving our site to better serve our visitors. 
 
 ##  Cookies 
 
