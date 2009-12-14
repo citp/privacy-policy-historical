@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crispygamer.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616153048id_/http%3A//www.crispygamer.com/privacy.policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crispygamer.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214210128id_/http%3A//www.crispygamer.com/privacy.policy) for the most accurate reproduction.*
 
 # Crispy Gamer | Privacy Policy
 
@@ -76,8 +76,8 @@ Crispy Gamer shares your Personal Information with third parties only with your 
   * Co-branded Websites that Offer Merchandise: Crispy Gamer may have links to the Web sites of other entities to allow you to purchase merchandise. These Web sites may look similar to Crispy Gamer, but are run by separate entities with whom Crispy Gamer has partnered (look in your browser bar to determine if you are still on an Crispy Gamer Web site, located at www.crispygamer.com). Crispy Gamer receives a commission for any purchases you make on partner sites. To help calculate these commissions, Crispy Gamer sends a tracking number to the partners. We do not provide Personal Information to our merchandise partners (except with your permission or as otherwise mentioned herein). Our merchandise partners provide us with aggregate purchase data, no individual purchase data is disclosed. Each partner site has its own privacy policy on gathering information from you. You may wish to check this policy before giving out Personal Information directly to any merchandise provider. Crispy Gamer does not control how a partner uses information gathered on its site.
   * Aggregated Data: Crispy Gamer will provide aggregate, anonymous information (e.g. "55% of our visitors enjoy <<___________>>") to advertisers and third parties. Such aggregate data cannot be linked to any one person.
   * Required Disclosure: Crispy Gamer will disclose Personal Information when it believes it is required to do so by law enforcement or other appropriate governmental authorities, or if the Personal Information is pertinent in a legal proceeding or court action.
-  *   * Business Transfers: As we continue to develop our business, we might sell or buy Web sites or other assets. In such transactions, Personal Information may be one of the transferred business assets. Also, in the event that third parties or Crispy Gamer merges with or sells all or substantially all of its assets to another company, Personal Information collected on Crispy Gamer web sites may be one of the transferred assets.
-  * 
+  * Business Transfers: As we continue to develop our business, we might sell or buy Web sites or other assets. In such transactions, Personal Information may be one of the transferred business assets. Also, in the event that third parties or Crispy Gamer merges with or sells all or substantially all of its assets to another company, Personal Information collected on Crispy Gamer web sites may be one of the transferred assets.
+
 
 
 **Advertising Services**
