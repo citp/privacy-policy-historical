@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveabroad.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618185921id_/http%3A//liveabroad.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveabroad.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214110834id_/http%3A//liveabroad.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
