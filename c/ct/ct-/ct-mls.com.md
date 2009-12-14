@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ct-mls.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615194543id_/http%3A//www.ct-mls.com/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ct-mls.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214011417id_/http%3A//www.ct-mls.com/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Greater Fairfield County CMLS
 
