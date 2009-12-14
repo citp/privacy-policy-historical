@@ -1,12 +1,18 @@
-> *The following text is extracted and transformed from the kinglinen.com privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413092506id_/http%3A//www.kinglinen.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kinglinen.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214221822id_/http%3A//www.kinglinen.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
-_This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
+_This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/details.html) for more information about how Yahoo! uses this information._
 
- **Privacy Policy**
+ **Privacy & Security**
+
+[](http://www.truste.org/ivalidate.php?url=www.kinglinen.com&sealid=101)
 
 **Information Collection and Use**
+
+KingLinen is committed to protecting your privacy. We have established this Privacy Statement [the Statement] to communicate our information practices pertaining to the use of the personal information you submit to us. This Privacy Statement applies exclusively to the Site [www.kinglinen.com](http://www.kinglinen.com/) . Personal Information refers to information such as name, or email that can identify a person.
+
+KingLinen is a Licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users trust and confidence in the internet by promoting the use of fair information practices. KingLinen has elected to disclose its information practices as a show of its commitment to your privacy, as well as have its privacy practices reviewed for compliance by TRUSTe. Please direct all questions and concerns pertaining to this Statement or your use of the Site to KingLinen at [CustomerService@KingLinen.com](mailto:CustomerService@KingLinen.com?subject=Privacy%20Policy) . Should your inquiry go unacknowledged after a reasonable time frame, or the inquiry isn’t addressed to your satisfaction, please contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe shall then work as a liaison with us to resolve your concerns.
 
 We collect information from you when you place an order on our site or subscribe to our mailing list. We do not sell, trade, or otherwise transfer to outside partners your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep your information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
 
@@ -22,9 +28,11 @@ To properly process your credit card information, we must share your personal an
 
 We use cookies on this site. Cookies are small files that a site or its service provider transfers to your computers hard drive through your web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. 
 
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service provider to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. 
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service provider to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. We do not tie the information in cookies to users?personal information. 
 
 If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some our services may not function properly. However, you can still place orders or our website or over the phone at 866-352-6393.
+
+Third Party Cookies: From time to time we may contract with third parties to understand our site visitors as noted above, in such cases, these third parties may set cookies on the Site. We have no access to or control to these third parties on the Site and therefore take no responsibility for the third party cookies. 
 
 **Log Files**
 
@@ -32,11 +40,11 @@ We use IP addresses to analyze trends, administer the site, track user movement,
 
 **Testimonials**
 
-If we receive permission to post testimonials from your shopping experience, we only post first names and last initials. Your personal contact information is fully protected
+If we receive permission to post testimonials from your shopping experience, we only post first names and last initials as well as location. Your personal contact information is fully protected. We are not responsible for the personal information a user selects to include within their testimonial.
 
 **Children**
 
-KingLinen.com does not sell products for purchase by children. Youth-oriented products are sold for purchase by adults only. If you are under the age of 18, you may only use KingLinen.com in the presence of a consenting parent or guardian. We will not knowingly or intentionally collect personal information via the Internet from children under the age of 13. KingLinen.com is committed to protecting the welfare and privacy of children. 
+KingLinen.com does not sell products for purchase by children. Youth-oriented products are sold for purchase by adults only. If you are under the age of 18, you may only use KingLinen.com in the presence of a consenting parent or guardian. We will not knowingly, or intentionally collect personal information via the Internet from children under the age of 13. KingLinen.com is committed to protecting the welfare and privacy of children. 
 
 ** Security**
 
@@ -60,11 +68,15 @@ For customers who wish to opt-out and stop receiving KingLinen.com special offer
 
 **Notification of Changes**
 
-If we decide to change our Privacy Policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+If we decide to change our Privacy Policy, or make material changes to our information practices. we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+
+**Information Sharing**
+
+We may be legally required to disclose information to third parties and government agencies under certain circumstances, such as the discovery of illegal activity on the Site. KingLinen reserves the right to disclose information to its service providers, government agencies, or law authorities, in response to a formal request such as in response to a court order, subpoena, or judicial proceeding, or in protecting our intellectual property rights and the safety of our staff and users? Moreover, in the event of an acquisition, sale, merger or transfer of some or all of the KingLinen assets, users?information could be part of the assets transferred. Should the information practices governing this information change as a result of the transfer, a notice shall be made available on the home page with your choices on how your information is to be governed. Including the service provider relationships previously noted within this Statement, we utilize the services of a third party agent to send newsletters to our users?opted in to receive them. We also employ the services of a shipping agent to fulfill delivery of the purchased products. 
 
 **Last Update**
 
-The Privacy Policy contained herein became officially effective Mar 13, 2009. 
+The Privacy Policy contained herein was last updated  on April 9 th,2009. 
 
 **Address**
 
@@ -72,6 +84,6 @@ KingLinen.com
 11027 Jasmine Street  
 Fontana, CA. 92337
 
-USA:1-800-352-6393
+USA:1-866-352-6393
 
 Outside USA: 1-909-823-2233 
