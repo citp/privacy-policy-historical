@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the netvibes.com privacy policy that was archived on 2009-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090624212828id_/http%3A//www.netvibes.com/static.php%3Fshow%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the netvibes.com privacy policy that was archived on 2009-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091214172916id_/http%3A//www.netvibes.com/static.php%3Fshow%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en" id="www-netvibes-com"><head>
   <title>Netvibes</title>
@@ -9,13 +9,13 @@
     <meta name="Description" content="">
   <script type="text/javascript" src="http://cdn.netvibes.com/js/c/mootools.js?v=090410"></script> 
   <script type="text/javascript">App = {};</script>
-  <script type="text/javascript" src="/js/loc/loc_en_US.js?v=789">
+  <script type="text/javascript" src="/js/loc/loc_en_US.js?v=935">
   </script>
 
   <script type="text/javascript">var NV_AVATARS  = "avatars.netvibes.com";</script>
   
-      <link rel="stylesheet" type="text/css" href="/themes/base/static.css.m.css?v=310" media="screen">
-    <link rel="stylesheet" type="text/css" href="/themes/base/nv-account.css?v=310" media="screen">
+      <link rel="stylesheet" type="text/css" href="/themes/base/static.css.m.css?v=431" media="screen">
+    <link rel="stylesheet" type="text/css" href="/themes/base/nv-account.css?v=431" media="screen">
   </head>
 <body class="account">
     <script type="text/javascript">
@@ -28,6 +28,8 @@
         var NV_MODULES = 'nvmodules.netvibes.com';
         var NV_AVATARS = 'avatars.netvibes.com';
         var NV_FAQ = 'faq.netvibes.com';
+        var NV_API = 'rest.netvibes.com';
+        var NV_API_PATH = '/rest';
     </script>
 
     <div id="top">
@@ -40,7 +42,7 @@
     </div>
     
     <div id="content" class="content">
-﻿<h2>Netvibes - Privacy Policy</h2>
+<h2>Netvibes - Privacy Policy</h2>
 <div id="nav">
     <ul>
         <li class="first-selected">
@@ -48,6 +50,9 @@
         </li>
         <li>
             <a href="static.php?show=privacy&amp;lang=fr">Français</a>
+        </li>
+        <li>
+            <a href="static.php?show=privacy&amp;lang=de">Deutsch</a>
         </li>
     </ul>
 </div>
@@ -102,58 +107,131 @@
 </div>
 
 <!-- #footer -->
-<div id="footer">
+<div id="footer" class="footer-expanded">
     <div class="footerLinks">
-        <p class="main">
-            <span>Powered by <span class="nvlogo"><img src="http://cdn.netvibes.com/img/favicon-12.png" alt="">netvibes</span></span>
-            <a id="footerLink_about" href="http://about.netvibes.com/">About</a>
-            <a id="footerLink_tour" href="http://tour.netvibes.com/">Tour</a>
-            <a id="footerLink_blog" href="http://blog.netvibes.com/">Blog</a>
-            <a id="footerLink_publishers" href="http://publishers.netvibes.com/">Do business with us</a>
-            <a id="footerLink_jobs" href="http://about.netvibes.com/jobs.php" rel="nofollow">Jobs</a>
-            <a id="footerLink_feedback" href="http://www.netvibes.com/static.php?show=feedback" rel="nofollow">Send your feedback to Netvibes!</a>
-            <a id="footerLink_tos" href="http://www.netvibes.com/static.php?show=tos" rel="nofollow">Terms of service</a>
-            <a id="footerLink_privacy" href="http://www.netvibes.com/static.php?show=privacy" rel="nofollow">Privacy Policy</a>
-        </p>
+                
+        <div id="footer-toggle">
+            <a href="javascript:void(0);">Expand</a>
+            <span class="logo">Powered by <span class="nvlogo"><img src="http://cdn.netvibes.com/img/favicon-12.png" alt="">netvibes</span></span>
+        </div>
         
-        <p class="secondary">
-            <a id="footerLink_faq" href="http://faq.netvibes.com/" rel="help">Help</a>
-            <a id="footerLink_translate" href="http://translate.netvibes.com/">Help translate in more languages</a>
-            <a id="footerLink_home" href="http://www.netvibes.com/">Set Netvibes as your startpage</a>
-            <a id="footerLink_dev" href="http://dev.netvibes.com/">Developers network</a>
-            Ecosystem:
-            <a id="footerLink_ecowidgets" href="http://eco.netvibes.com/widgets">Widgets</a>
-            <a id="footerLink_ecouniverses" href="http://eco.netvibes.com/universes">Universes</a>
-            <a id="footerLink_tools" href="http://eco.netvibes.com/tools" style="display: none">Netvibes tools</a>
-            <a id="footerLink_activities" href="http://www.netvibes.com/activities">Activities</a>
-            <a id="footerLink_sitemap" href="http://www.netvibes.com/bestof" title="Hottest tags: Real Estate, Sarkozy">Best of public pages</a>
-        </p>
-    </div>
+        <div id="footer-title">
+            <div class="footer-wrapper autoclear">
+                <h3>About Netvibes</h3>
+                <h3>Explore</h3>
+                <h3>Business</h3>
+                <h3>Platform</h3>
+                <h3>Help</h3>
+            </div>
+        </div>
+        <div id="footer-sections">
+            <div class="footer-wrapper autoclear">
+                <ul class="footer-menu">
+                    <li>
+                        <a id="footerLink_tour" href="http://tour.netvibes.com/">Take a tour</a>
+                    </li>
+                    <li>
+                        <a id="footerLink_about" href="http://about.netvibes.com/">About us</a>
+                    </li>
+                    <li>
+                        <a id="footerLink_tos" href="http://www.netvibes.com/static.php?show=tos" rel="nofollow">Terms of service</a>
+                    </li>
+                    <li>
+                        <a id="footerLink_privacy" href="http://www.netvibes.com/static.php?show=privacy" rel="nofollow">Privacy Policy</a>
+                    </li>
+                    <li>
+                        <a id="footerLink_blog" href="http://blog.netvibes.com/">Blog</a>
+                    </li>
+                    <li>
+                        <a id="footerLink_jobs" href="http://about.netvibes.com/jobs.php">Jobs</a>
+                    </li>
+                </ul>
+                <ul class="footer-menu">
+                    <li>
+                        <a id="footerLink_ecowidgets" href="http://eco.netvibes.com/widgets">Widgets</a>
+                    </li>
+                    <li>
+                        <a id="footerLink_ecouniverses" href="http://eco.netvibes.com/universes">Pages</a>
+                    </li>
+                                        <li>
+                        <a id="footerLink_inspiration" href="http://business.netvibes.com/inspiration/">Inspiration</a>
+                    </li>
+                </ul>
+                <ul class="footer-menu">
+                    <li>
+                        <a id="footerLink_widgetmarketing" href="http://business.netvibes.com/widget-marketing.php">Widget marketing</a>
+                    </li>
+                    <li>
+                        <a id="footerLink_widgetdevelopment" href="http://business.netvibes.com/widget-development.php">Widget development</a>
+                    </li>
+                    <li>
+                        <a id="footerLink_widgetdistribution" href="http://business.netvibes.com/widget-distribution.php">Widget distribution</a>
+                    </li>
+                    <li>
+                        <a id="footerLink_nfe" href="http://business.netvibes.com/company-portal-intranet.php">Netvibes for enterprise</a>
+                    </li>
+                </ul>
+                <ul class="footer-menu">
+                    <li>
+                        <a id="footerLink_api" href="http://dev.netvibes.com/doc/">API</a>
+                    </li>
+                    <li>
+                        <a id="footerLink_dev" href="http://dev.netvibes.com/blog/">Developers</a>
+                    </li>
+                    <li>
+                        <a id="footerLink_labs" href="http://www.netvibes.com/labs/">Labs</a>
+                    </li>
+                    <li>
+                        <a id="footerLink_translate" href="http://translate.netvibes.com/">Translators</a>
+                    </li>
+                </ul>
+                <ul class="footer-menu">
+                    <li>
+                        <a id="footerLink_faq" href="http://faq.netvibes.com/">FAQ</a>
+                    </li>
+                    <li>
+                        <a id="footerLink_feedback" href="http://www.netvibes.com/static.php?show=feedback" rel="nofollow">Contact us</a>
+                    </li>
+                    <li>
+                        <a id="footerLink_servicestatus" href="http://faq.netvibes.com/service_status">Service status</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="footer-top-content">
+                                            </div>
+        </div>
+        <div class="footer-misc">
+            <div class="footer-wrapper autoclear">
+                <div class="footer-line">
+                    <span><img src="http://cdn.netvibes.com/img/favicon-12.png" alt=""> Netvibes © 2009</span>
+                    <span><a href="http://blog.netvibes.com/rss.php"><img src="http://cdn.netvibes.com/img/feed.png" alt=""> RSS</a></span>
+                    
+                    <a id="footerLink_home" href="http://faq.netvibes.com/netvibes_everywhere#how_to_set_netvibes_as_my_default_startpage">Set Netvibes as your startpage</a>
+                    
+                    <strong>Find Netvibes also on:</strong>
+                    <a href="http://m.netvibes.com/">Mobile</a>,
+                    <a href="http://iphone.netvibes.com/">iPhone</a>,
+                    <a href="http://www.facebook.com/netvibes" target="_blank">Facebook</a>,
+                    <a href="http://twitter.com/netvibes" target="_blank">Twitter</a>,
+                    <a href="http://www.flickr.com/photos/netvibes" target="_blank">Flickr</a>
+                </div>
+            </div>
+        </div>
+            </div>
 </div>
-<script type="text/javascript">
-// Footer: collapse/expand
-var footerLinks = $('footer').getFirst().addClass('collapsed');
-new Element('a', {'href':'javascript:void(0)', 'text':_("More")})
-    .inject(footerLinks.getFirst())
-    .addEvent('click', function(){
-        footerLinks.toggleClass('collapsed');
-    });
-</script>
 
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); 
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); 
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script> 
-<script type="text/javascript"> 
-try { 
-var pageTracker = _gat._getTracker("UA-4008902-1"); 
-pageTracker._setDomainName(".netvibes.com"); 
-pageTracker._setAllowLinker(true); 
-pageTracker._initData(); 
-pageTracker._trackPageview(); 
-} catch(err) {} 
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+    var pageTracker = _gat._getTracker("UA-4008902-1");
+    pageTracker._setDomainName(".netvibes.com");
+    pageTracker._setAllowLinker(true);
+    pageTracker._initData();
+    pageTracker._trackPageview();
+} catch(err) {}
 </script>
-
-
 
 </body></html>
