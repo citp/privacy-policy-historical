@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classroomclipart.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618174436id_/http%3A//www.classroomclipart.com/privacyCRCA.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classroomclipart.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214043242id_/http%3A//www.classroomclipart.com/privacyCRCA.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,7 +23,7 @@
 >>> 
 >>>   
 >  **Third Party Advertising**  
->  We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here. Third Party Cookies In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
+>  We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [here](http://www.networkadvertising.org/). You may Opt-Out of online behavorial advertisements by visiting [Network Advertisement Initiative. ](http://www.networkadvertising.org/managing/opt_out.asp)You may also read more about protecting your privacy at Network Advertising Initiative website. 
 >>> 
 >>> ###  Newsletter Opt-Out  policy
 >>> 
