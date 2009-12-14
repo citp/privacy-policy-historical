@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the radar.net privacy policy that was archived on 2008-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081012075407id_/http%3A//radar.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radar.net privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214180426id_/http%3A//radar.net/privacy) for the most accurate reproduction.*
 
-# Radar | Privacy Policy
+# Privacy Policy | Radar
 
 ## Company Privacy Policy
 
@@ -90,30 +90,16 @@ As stated previously, you can always opt not to disclose information, even thoug
 
 You are able to add or update certain information on pages, such as those listed in the “What Information Do I Have” section above. When you update information, however, we may maintain a copy of the unrevised information in our records.
 
-If you are a registered user of Company's subscription-based services and you may request deletion of your Company account by emailing us at [feedback@radar.net](mailto:feedback@radar.net). Please note that some information may remain in our records after deletion of your account.
-
 If you are a registered user of Company's subscription-based services and do not wish to receive e-mail or other mail from us, please make sure you have disabled this option in your user account settings. Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Company web site, and you are responsible for reviewing such legal notices for changes.
 
 As explained earlier, the “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. Please note, however, that if you do not enable cookies, you will not be able to take advantage of some of our attractive features.
 
-## Can Children Use Company's Services?
-
 Our site and the services available through Company are not intended for children under the age of 13. Company does not knowingly or specifically collect information about children under the age of 13 and believes that children of any age should get their parents' consent before giving out any personal information. We encourage you to participate in your child's web experience. Company recommends that parents use Web filtering technology to supervise their kids' access to the Web.
-
-## Conditions of Use
 
 If you decide to visit Company site, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of United States law.
 
-## Third Party Sites
-
 The service may permit you to link to other websites on the Internet, and other websites may contain links to the Company site. These other websites are not under Company control, and such links do not constitute an endorsement by Company of those other websites or the services offered through them. The privacy and security practices of websites linked to or from the Company site are not covered by this Privacy Statement, and Company is not responsible for the privacy or security practices or the content of such websites.
-
-## Changes to this Privacy Policy
 
 Company may amend this Privacy Policy. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to our privacy policy, we will notify you by email or within Company's services so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.
 
-## Questions or Concerns
-
 If you have any questions or concerns regarding privacy at Company site, please contact us at [feedback@radar.net](mailto:feedback@radar.net) or by phone at 1-415-513-5998. Your privacy is important to us and we will make every effort to resolve your concerns.
-
-Updated: January 1, 2007
