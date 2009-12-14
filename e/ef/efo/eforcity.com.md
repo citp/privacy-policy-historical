@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eforcity.com privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502010221id_/http%3A//www.eforcity.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eforcity.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214075749id_/http%3A//www.eforcity.com/privacy.html) for the most accurate reproduction.*
 
 # Security & Privacy Page
 
