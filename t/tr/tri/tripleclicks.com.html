@@ -1,15 +1,59 @@
-<!--The following is the downloaded HTML source of the tripleclicks.com privacy policy that was archived on 2009-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090616025548id_/http%3A//www.tripleclicks.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tripleclicks.com privacy policy that was archived on 2009-12-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091214014454id_/http%3A//www.tripleclicks.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
+<meta name="verify-v1" content="qvu/+sf801hlEKa/ubeE7GtycPyASNlEkzrvIGjpZV4=">
 <title>TripleClicks Privacy Policy</title>
 <link href="/common/styles/TCdefault.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" href="/common/modal/windowfiles/dhtmlwindow.css" type="text/css">
-<script type="text/javascript" src="/common/modal/windowfiles/dhtmlwindow.js"></script></head><body onload=""><div id="dhtmlwindowholder"><span style="display:none">.</span></div>
+<script type="text/javascript" src="/common/modal/windowfiles/dhtmlwindow.js"></script><style type="text/css">.highslide img {cursor: url(/common/highslide/highslide/graphics/zoomin.cur), pointer !important;}.highslide-viewport-size {position: fixed; width: 100%; height: 100%; left: 0; top: 0}</style></head><body onload=""><div id="dhtmlwindowholder"><span style="display:none">.</span></div>
 <link rel="stylesheet" href="/common/modal/modalfiles/modal.css" type="text/css">
 <script type="text/javascript" src="/common/modal/modalfiles/modal.js"></script><div id="interVeil"></div>
 <script type="text/javascript" src="/common/javascript.js"></script>
+<script type="text/javascript" src="/common/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="/common/jquery.cookies.2.1.0.min.js"></script>
+<script type="text/javascript" src="/common/highslide/highslide-with-gallery.js"></script>
+<script type="text/javascript" src="/common/highslide/highslide/highslide.js"></script>
+<link rel="stylesheet" type="text/css" href="/common/highslide/highslide/highslide.css">
+
+<script type="text/javascript">
+
+//<![CDATA[
+hs.registerOverlay({
+    html: '<div class="closebutton" onclick="return hs.close(this)" title="Close"></div>',
+        position: 'top right',
+            fade: 2 // fading the semi-transparent overlay looks bad in IE
+            });
+
+
+            hs.graphicsDir = '/common/highslide/highslide/graphics/';
+            hs.wrapperClassName = 'borderless';
+            hs.showCredits = false;
+            //]]>
+            
+            </script>
+
+
+
+<!--
+<script type="text/javascript">
+	$.getScript('/common/jquery.translate-CUSTOM-1.3.9.js', function(){ //when the script is loaded
+		$.translate(function(){ //when the Google Language API is loaded
+			$('#lang_select').change(function(){ //when selecting another language
+			 	$.cookies.set('language', $(this).val(), 365);
+ 				$('body').translate( 'english', $(this).val(), {
+						not: 'option #lang_select'
+				 });
+			})
+			$('body').translate( 'english', $.cookies.get('language'), { 
+				not: 'option, #lang_select'
+			 });
+		});
+	});
+</script>
+-->
 
 <style type="text/css">
 
@@ -230,6 +274,13 @@ border:1px solid #ccc;
 		}
 		
 				
+		// wrapper for updatePassword		
+		function x_updatePassword() {
+			sajax_do_call("updatePassword",
+				x_updatePassword.arguments);
+		}
+		
+				
 		// wrapper for updateWishlist		
 		function x_updateWishlist() {
 			sajax_do_call("updateWishlist",
@@ -370,6 +421,13 @@ border:1px solid #ccc;
 		}
 		
 				
+		// wrapper for updateBarter		
+		function x_updateBarter() {
+			sajax_do_call("updateBarter",
+				x_updateBarter.arguments);
+		}
+		
+				
 		// wrapper for setPaymentType		
 		function x_setPaymentType() {
 			sajax_do_call("setPaymentType",
@@ -488,6 +546,13 @@ border:1px solid #ccc;
 				x_manageCC.arguments);
 		}
 		
+				
+		// wrapper for setSOAddress		
+		function x_setSOAddress() {
+			sajax_do_call("setSOAddress",
+				x_setSOAddress.arguments);
+		}
+		
 		
 updateCart();
 /***********************************************
@@ -498,12 +563,12 @@ updateCart();
 
 //Contents for menu 2, and so on
 var menu2=new Array()
-    menu2[0]='<a href="/results.php?dept=1">Apparel</a>'
-    menu2[1]='<a href="/results.php?dept=229">Arts & Crafts</a>'
-    menu2[2]='<a href="/results.php?dept=236">Beauty & Fragrance</a>'
-    menu2[3]='<a href="/results.php?dept=2">Books</a>'
-    menu2[4]='<a href="/results.php?dept=3">Business</a>'
-    menu2[5]='<a href="/results.php?dept=228">Collectibles</a>'
+    menu2[0]='<a href="/results.php?dept=228">Antiques & Collectibles</a>'
+    menu2[1]='<a href="/results.php?dept=1">Apparel</a>'
+    menu2[2]='<a href="/results.php?dept=229">Arts & Crafts</a>'
+    menu2[3]='<a href="/results.php?dept=236">Beauty & Fragrance</a>'
+    menu2[4]='<a href="/results.php?dept=2">Books</a>'
+    menu2[5]='<a href="/results.php?dept=3">Business</a>'
     menu2[6]='<a href="/results.php?dept=4">Computers</a>'
     menu2[7]='<a href="/results.php?dept=237">Education</a>'
     menu2[8]='<a href="/results.php?dept=5">Electronics</a>'
@@ -709,12 +774,12 @@ document.onclick=hidemenu
     		SEARCH 
    		  <select name="department_search" id="department_search" class="forms" style="width:150px;">
           <option value="-1">All Departments</option>
+                                <option value="228">Antiques &amp; Collectibles</option>
                                 <option value="1">Apparel</option>
                                 <option value="229">Arts &amp; Crafts</option>
                                 <option value="236">Beauty &amp; Fragrance</option>
                                 <option value="2">Books</option>
                                 <option value="3">Business</option>
-                                <option value="228">Collectibles</option>
                                 <option value="4">Computers</option>
                                 <option value="237">Education</option>
                                 <option value="5">Electronics</option>
@@ -805,37 +870,39 @@ document.onclick=hidemenu
 <!------------------------------------------------------------------------------ TripleClicks footer -->
 <div id="tcFooter">
 
-	<div id="tcFcc">
+	<div id="tcFT1">
     	CUSTOMER CARE
     </div>
    	
-    <div id="tcFcare">
+    <div id="tcFT2">
     	GIVING BACK
     </div>
 
-    <div id="tcFss">
+    <div id="tcFT3">
     	SAFE &amp; SECURE SHOPPING
     </div>
+	
+    <div id="tcFT4">
+    	POWERED BY
+    </div>	
    	
-<div id="tcFcc2">
+	<div id="tcFB1">
    		
-        <div style="width:115px; float:left;">
-       	    • <a href="/contact_us.php">Contact Us</a><br>
-      		• <a href="/myaccount/order_status.php">Order Status</a><br>
-           	• <a href="/myaccount/payment_options.php">Payment Options</a>
-    	</div>
-
 		<div style="width:115px; float:left;">
+    		• <a href="/contact_us.php">Contact Us</a><br>
+      		• <a href="/myaccount/order_status.php">Order Status</a><br>
+        	• <a href="/myaccount/payment_options.php">Payment Options</a><br>
 			• <a href="/returns_refunds.php">Returns Policy</a><br>
-	    	• <a href="/terms_and_conditions.php">Terms &amp; Conditions</a><br>
-           	• <a href="/privacy_policy.php">Privacy Policy</a> </div>
-                
-  </div>
+	   		• <a href="/terms_and_conditions.php">Terms &amp; Conditions</a><br>
+       		• <a href="/privacy_policy.php">Privacy Policy</a>
+    	</div>
+	
+	</div>
     
-    <div id="tcFcare2">
-		<img src="/images/logos/logo-Care_sm.gif" style="float:right;">TripleClicks donates a portion of every sale to the international charity CARE.    </div>
+    <div id="tcFB2">
+		<img src="/images/logos/logo-Care_sm.gif" style="float:right;">TripleClicks donates a portion of every sale to the international charity <a href="http://www.care.org" target="_blank">CARE</a>.	</div>
    	
-    <div id="tcFss2">
+    <div id="tcFB3">
 		<div>
 		
 			<div style="float:left; width:167px;">
@@ -860,32 +927,35 @@ document.onclick=hidemenu
 	
 		</div>
     </div>
-<!--	<div id="tcFpb2">
-		<img src="/images/logos/logo-sfi_sm.gif" alt="SFI" width="59" height="25" />
-		<br />
-		<br />
-    	
-		Your TripleClicks<br />
-		Affiliate is:<br />
-		<strong>
-		10358494	
-		</strong>
+
+	<div id="tcFB4">
+		<img src="/images/logos/logo-sfi_sm.gif" alt="SFI" width="59" height="25">
+		<br>
+		<br>
     	</div>
 	
 <div class="tcClearBoth"></div>
--->
-    
+
+<div>
+
+<div align="center" style="text-align:center; padding-top:10px;">
+
+
+
+<span style="font-size:11px;">Copyright @ 2009, Carson Services, Inc.</span>
+
 </div>
+</div>
+
+</div>
+
+
+
+
+    
+
 
 <div class="tcClearBoth"></div>
-
-<div style="padding-top:10px; text-align:center;">
-	<img src="/images/site/i_tripPoweredby.gif" alt="TripleClicks is powered by SFI" width="200" height="17"><br>
-	<span style="font-size:11px;">Copyright @ 2009, Carson Services, Inc.
- | <em>10358494</em>
-</span>
-</div>
-
 
 <!------------------------------------------------------------------------------ end TripleClicks footer -->
 
@@ -906,4 +976,4 @@ try {
 
 
 
-</div></body></html>
+</div><div class="highslide-container" style="padding: 0px; border: none; margin: 0px; position: absolute; left: 0px; top: 0px; width: 100%; z-index: 1001; direction: ltr;"><a class="highslide-loading" title="Click to cancel" href="javascript:;" style="position: absolute; top: -9999px; opacity: 0.75; z-index: 1;">Loading...</a><div style="display: none;"></div><div class="highslide-viewport highslide-viewport-size" style="padding: 0px; border: none; margin: 0px; visibility: hidden;"></div><table cellspacing="0" style="padding: 0px; border: none; margin: 0px; visibility: hidden; position: absolute; border-collapse: collapse; width: 0px;"><tbody style="padding: 0px; border: none; margin: 0px;"><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td class="drop-shadow highslide-outline" style="padding: 0px; border: none; margin: 0px; position: relative;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr></tbody></table><img src="/common/highslide/highslide/graphics/outlines/drop-shadow.png" style="padding: 0px; border: none; margin: 0px; position: absolute; top: -9999px;"></div></body></html>
