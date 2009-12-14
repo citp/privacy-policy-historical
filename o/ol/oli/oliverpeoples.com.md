@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oliverpeoples.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611213152id_/http%3A//www.oliverpeoples.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oliverpeoples.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214184310id_/http%3A//www.oliverpeoples.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
