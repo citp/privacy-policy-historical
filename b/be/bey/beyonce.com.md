@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the beyonce.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501000044id_/http%3A//www.beyonce.com/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyonce.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214192255id_/http%3A//www.beyonce.com/legal/privacypolicy) for the most accurate reproduction.*
 
-# BeyoncÃ© Privacy Policy
+# Beyoncé Privacy Policy
 
-For the purposes of this document "company" is defined as BeyoncÃ©
+For the purposes of this document "company" is defined as Beyoncé
 
 ### PRIVACY POLICY
 
