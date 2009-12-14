@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clarksusa.com privacy policy that was archived on 2009-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090630040718id_/http%3A//clarks.zappos.com/privacy.zhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarksusa.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215005854id_/http%3A//clarks.zappos.com/privacy.zhtml) for the most accurate reproduction.*
 
 # Privacy | Clarks Shoes | Powered by Zappos
 
@@ -101,7 +101,7 @@ The Site incorporates physical, electronic, and administrative procedures to saf
 While Zappos.com uses industry-standard precautions to safeguard your personal information, we cannot guarantee complete security. 100% complete security does not presently exist anywhere online or offline.
 
  **OPT OUT/CORRECTIONS**  
-Upon your request, Zappos.com will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests at the customer information section of the Site <http://www.zappos.com/cs.zhtml>, or by telephoning, or emailing your request to Zappos.com's Customer Support department 1-800-943-1633 or:  
+Upon your request, Zappos.com will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests at the customer information section of the Site [http://www.zappos.com/cs.zhtml](http://www.zappos.com/customer-service-center), or by telephoning, or emailing your request to Zappos.com's Customer Support department 1-800-943-1633 or:  
   
 Please do not email your credit-card number or other sensitive information.
 
