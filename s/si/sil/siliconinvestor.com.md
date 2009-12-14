@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the siliconinvestor.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626215202id_/http%3A//siliconinvestor.advfn.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siliconinvestor.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214233528id_/http%3A//siliconinvestor.advfn.com/privacy.aspx) for the most accurate reproduction.*
 
-# Silicon Investor -- Best of the Web Stock Info!
+# Silicon Investor (SI) -- NYSE, NASDAQ, AMEX Intelligent Stock Market Opinion, Information, Analysis!
 
-Privacy Policy | [Terms of Use](https://web.archive.org/web/20090626215202id_/http%3A//siliconinvestor.advfn.com/terms.aspx)   
+Privacy Policy | [Terms of Use](https://web.archive.org/web/20091214233528id_/http%3A//siliconinvestor.advfn.com/terms.aspx)   
   
   
 Silicon Investor is strongly committed to protecting the privacy of its user community.   
@@ -39,6 +39,4 @@ In response to concerns about protecting children's privacy online, Congress ena
 Questions regarding children's privacy should be directed to: 
 
 **Disclosure**  
-Silicon Investor reserves the right to access and disclose individually identifiable information to comply with applicable laws and lawful government requests, to operate its systems properly or to protect itself or its users. Where practical, Silicon Investor will attempt to obtain the prior consent of the individual prior to disclosing individually identifiable information. As mentioned above, we reserve the right to share aggregated "site usage" information with third parties.  
-  
-Copyright © 2008 InvestorsHub.com, Inc.. All rights reserved.
+Silicon Investor reserves the right to access and disclose individually identifiable information to comply with applicable laws and lawful government requests, to operate its systems properly or to protect itself or its users. Where practical, Silicon Investor will attempt to obtain the prior consent of the individual prior to disclosing individually identifiable information. As mentioned above, we reserve the right to share aggregated "site usage" information with third parties.
