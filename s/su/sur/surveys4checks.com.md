@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the surveys4checks.com privacy policy that was archived on 2009-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090507145654id_/http%3A//www.surveys4checks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveys4checks.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214223825id_/http%3A//www.surveys4checks.com/privacy.html) for the most accurate reproduction.*
 
 # Surveys4Checks.com | Privacy Policy
 
-**Survey4Checks.com takes your privacy seriously** , and has created this Privacy Policy in order to demonstrate our firm commitment to online privacy. Keep reading to learn more about our information gathering and dissemination practices, and our use of personally identifiable information.
+**Survey4Checks.com takes your privacy seriously** , and has created this Privacy Policy in order to demonstrate our firm commitment to online privacy. Keep reading to learn more about our information gathering and dissemination practices, and our use of personally identifiable information.   
 
 **IP Addresses**
 
@@ -14,7 +14,7 @@ Upon your first visit to this web site, a "cookie" is sent to your computer. A c
 
 First, we use cookies to track special offers and promotions that may be presented to you as you navigate our website. This is done so that you are not presented with the same special offers and/or promotions over and over, or after you have indicated you are not interested.
 
-Secondly, we use cookies as part of our authenticaton system when you login to your account. If you select the "remember me" option when logging in, our site will set a cookie so that you do not have to login again the next time you visit Survey4Checks.com.
+Secondly, we use cookies as part of our authentication system when you login to your account. If you select the "remember me" option when logging in, our site will set a cookie so that you do not have to login again the next time you visit Survey4Checks.com.
 
 While both of these activities depend on the use of a "cookie," visitors to this site always have the option of disabling cookies in their web browser. Most browsers are initially set to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent.
 
@@ -49,8 +49,11 @@ This web site has security measures in place to protect against loss, misuse and
 Survey4Checks.com provides every user with the opportunity to opt-out of receiving future communications from us, change and modify information previously provided, or remove their information from our databases altogether. You may do so in any of the following ways:
 
 1\. Email: [support@Survey4Checks.com](mailto:support@SurveyIncomeSystem.com)  
-2\. Website: [http://www.Survey4Checks.com](https://web.archive.org/)  
+2\. Website: [http://www.Survey4Checks.com](https://web.archive.org/)
 
+**Earnings Disclaimer**
+
+Surveys4Checks makes every effort to provide accurate and complete information on paid surveys, focus groups, and each of the ways to make money online. We cannot guarantee any income because the amount of money that can be made varies based on a number of factors including but not limited to geographical location, gender, age, time available and interests. Examples of earnings are used purely to express the potential of this industry, we do not promise or guarantee any earnings. Surveys4Checks.com provides no warranty, expressed or implied, as to the accuracy, reliability or completeness of the furnished data.
 
 **Contacting Survey4Checks.com**
 
