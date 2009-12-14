@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the roku.com privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614024719id_/http%3A//www.roku.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roku.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214180904id_/http%3A//www.roku.com/about/privacy) for the most accurate reproduction.*
 
-# Roku - Privacy Policy
+# Roku | Roku Player Privacy Policy
 
 ## Privacy Policy (Updated July 2008)
 
