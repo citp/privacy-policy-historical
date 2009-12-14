@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripleclicks.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616025548id_/http%3A//www.tripleclicks.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripleclicks.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214014454id_/http%3A//www.tripleclicks.com/privacy_policy.php) for the most accurate reproduction.*
 
 # TripleClicks Privacy Policy
 
@@ -25,6 +25,3 @@ We retain this information for a period of time to allow for the possibility of 
 ##### **What about phone and fax numbers?**
 
 We request a phone and/or fax number on order forms in case we need to contact you about your order. However, this information is entered into our personal customer database only. We NEVER sell, rent, or loan our list of customer fax or phone numbers, nor any other information about customers.
-
-  
-Copyright @ 2009, Carson Services, Inc. | _10358494_
