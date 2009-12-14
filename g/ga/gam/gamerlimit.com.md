@@ -1,13 +1,12 @@
-> *The following text is extracted and transformed from the gamerlimit.com privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415090103id_/http%3A//gamerlimit.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamerlimit.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214013433id_/http%3A//gamerlimit.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gamer Limit
 
 #### Privacy Policy
 
-This is the web site of **Gamer Limit**.
+Gamer Limit takes privacy and the protection of sensitive information extremely seriously. We hold stringent guidelines on the handling of all personal information, and access to is limited purely to a small number of trusted individuals.
 
-We can be reached via e-mail the gamers['at']gamerlimit.com  
-or you can reach us by telephone at +61439475782
+If you have questions about our privacy policy, please forward them to legals['at']gamerlimit.com or you can reach us by telephone at +61439475782.
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address (where possible).
 
