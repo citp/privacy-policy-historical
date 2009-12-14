@@ -1,15 +1,6 @@
-> *The following text is extracted and transformed from the layoutlocator.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216160235id_/http%3A//www.layoutlocator.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the layoutlocator.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214195113id_/http%3A//www.layoutlocator.com/privacy.php) for the most accurate reproduction.*
 
 # LayoutLocator.com Privacy Policy
-
-[](https://web.archive.org/index.php)
-
-LAYOUTLOCATOR.COM
-
-  
-
-
-##  PRIVACY POLICY
 
 Welcome to LAYOUTLOCATOR.COM (the "Site").
 
@@ -63,7 +54,16 @@ We provide Visitors and Authorized Customers with a mechanism to delete/deactiva
 **What happens if the Privacy Policy Changes?**  
 We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure. 
 
+**Advertising:**   
+Google, as a third party vendor, uses cookies to serve ads on your site.   
+Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.   
+Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
+Network Advertising Initiative ("NAI")  
+* Notice as to the nature and scope of the collection and use of information gathered by you and any of your business partners, including third party ad networks on any of your web sites; and  
+* Choice to an Internet user of any of your web sites to opt-out from such information collection and use, including a clear link to the NAI's opt-out page at <http://www.networkadvertising.org/managing/opt_out.asp>.
+
+  
+  
 **Links:**  
 This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
-
-© 2008 **LAYOUTLOCATOR.COM** , All rights reserved.
