@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the citiesads.in privacy policy that was archived on 2009-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090519002856id_/http%3A//www.citiesads.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citiesads.in privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214113119id_/http%3A//citiesads.in/privacy.php) for the most accurate reproduction.*
 
-# Free classifieds,Classified ads Nagpur|Patna|Lucknow|Jamshedpur|Noida|Jaipur|Erode|Baroda|Jaipur|Pune|Kanpur|Bhopal|,Flats, House for sale, Rent, buy
+# Classified ads India,Free classifieds India,Free ads,Fresher Job India ,Flats, House for sale, Rent, buy
 
 **CitiesAds Privacy statement**
 
