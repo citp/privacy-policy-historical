@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advertlets.com privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529025437id_/http%3A//www.advertlets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advertlets.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214104754id_/http%3A//www.advertlets.com/privacy-policy) for the most accurate reproduction.*
 
 # Advertlets.com » Putting the ‘bling’ in ‘blogging’ » Privacy Policy and Terms
 
