@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the roomster.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531080459id_/http%3A//www.roomster.com/info/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roomster.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215102828id_/http%3A//www.roomster.com/info/privacy_policy.aspx) for the most accurate reproduction.*
 
-# roommate search service, roommate finder, roommates wanted.
+# Roommate search service, roommate finder, roommates wanted.
 
 Privacy Policy 
 
@@ -32,3 +32,5 @@ Email address and full name are used when a user invites a friend via email to j
   16. ORGANIZATION COLLECTING INFORMATION. Roomster Corp. owns and operates the Roomster.com domain. You may contact Roomster at [ privacy@roomster.com](mailto:privacy@roomster.com)
 
 
+
+| 
