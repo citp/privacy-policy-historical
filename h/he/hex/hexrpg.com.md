@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hexrpg.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416231728id_/http%3A//www.hexrpg.com/terms.php%3Fview%3Dpp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hexrpg.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215205439id_/http%3A//www.hexrpg.com/terms.php%3Fview%3Dpp) for the most accurate reproduction.*
 
 # Hogwarts Extreme : An Interactive Harry Potter RPG Website
 
@@ -39,13 +39,13 @@ Links to other websites exist on Hogwarts Extreme and can mostly be found under 
 
 **Parents**
 
-Please view our [COPPA Policy](https://web.archive.org/web/20090416231728id_/http%3A//www.hexrpg.com/terms.php?view=coppa) for information. 
+Please view our [COPPA Policy](https://web.archive.org/web/20091215205439id_/http%3A//www.hexrpg.com/terms.php?view=coppa) for information. 
 
 **Updating of this Policy**
 
 If this policy is modified, a news post will be made on the main page or an asterisk will be put next to the link to this policy. It is your responsibility to notice these notifications.
 
-[**About**](https://web.archive.org/about.php) • [**Terms**](https://web.archive.org/terms.php) • [**Privacy Policy**](https://web.archive.org/terms.php?view=pp) • [**COPPA Policy**](https://web.archive.org/terms.php?view=coppa) • [**Credits**](https://web.archive.org/terms.php?view=credits) • [**Contact**](https://web.archive.org/contact.php) • [**Multiples**](https://web.archive.org/multiples.php) • [**Facebook**](http://www.facebook.com/profile.php?id=85665605629) All scripts, images, and content belong to Hogwarts Extreme.  
+[**About**](https://web.archive.org/about.php) • [**Terms**](https://web.archive.org/terms.php) * • [**Privacy Policy**](https://web.archive.org/terms.php?view=pp) • [**COPPA Policy**](https://web.archive.org/terms.php?view=coppa) • [**Credits**](https://web.archive.org/terms.php?view=credits) • [**Contact**](https://web.archive.org/contact.php) • [**Multiples**](https://web.archive.org/multiples.php) • [**Facebook**](http://www.facebook.com/profile.php?id=85665605629) All scripts, images, and content belong to Hogwarts Extreme.  
 Hogwarts Extreme is an independent HP fan website.  
 Images, contents © Warner Brothers, J.K. Rowling, and/or their respective owners.  
 User content on this website is credited to the individuals. 
