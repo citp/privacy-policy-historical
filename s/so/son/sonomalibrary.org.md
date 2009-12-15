@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sonomalibrary.org privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620150823id_/http%3A//sonomalibrary.org/libinfo/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonomalibrary.org privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215213747id_/http%3A//sonomalibrary.org/libinfo/policies/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for the Sonoma County Library Web Pages
 
 * * *
 
-[ En Español](https://web.archive.org/web/20090620150823id_/http%3A//sonomalibrary.org/libinfo/policies/espprivacy.html)
+[ En Español](https://web.archive.org/web/20091215213747id_/http%3A//sonomalibrary.org/libinfo/policies/espprivacy.html)
 
 Thank you for visiting the Sonoma County Library’s web site. We are committed to preserving the privacy of our visitors and patrons. We do not collect personal information about you just because you visit this site. 
 
@@ -18,7 +18,7 @@ If you include your email address or other personal information when contacting 
 
 ## Cookies
 
-The Sonoma County Library does not use cookies to track individual users of its regular public website at [www.sonomalibrary.org](http://www.sonomalibrary.org/). The library catalog website at [catalog.sonomalibrary.org](https://web.archive.org/catalog/catdirect.scl), the [SuperSearch](https://web.archive.org/super.html) service, and several of [our databases](https://web.archive.org/ref/articles.scl) do use cookies. These are used to keep track of your current session and keep you logged on to the service or database you are using. These cookies are temporary and are not stored on your computer after your web browser is closed.
+The Sonoma County Library does not use cookies to track individual users of its regular public website at [www.sonomalibrary.org](http://www.sonomalibrary.org/). The library catalog website at [catalog.sonomalibrary.org](https://web.archive.org/catalog/catdirect.scl), the [SuperSearch](https://web.archive.org/super.html) service, and several of [our databases](https://web.archive.org/research/) do use cookies. These are used to keep track of your current session and keep you logged on to the service or database you are using. These cookies are temporary and are not stored on your computer after your web browser is closed.
 
 ## Your Library card number and account
 
@@ -30,7 +30,7 @@ Your account in the system contains information about current hold requests, ite
 
 Searches in this web site are not tracked against your library account. All web site usage information is logged separately from your library account information.
 
-If you create an account in one of [our databases](https://web.archive.org/ref/articles.scl), for example to receive email updates of new magazine articles, the account has no connection with your Library card number and account. Please review the privacy policy of the database site you visit. 
+If you create an account in one of [our databases](https://web.archive.org/research/), for example to receive email updates of new magazine articles, the account has no connection with your Library card number and account. Please review the privacy policy of the database site you visit. 
 
 ##  Children's Information
 
@@ -52,5 +52,5 @@ If you have any questions about this privacy statement or the web site you can [
 
 * * *
 
-[Other policies and procedures](https://web.archive.org/web/20090620150823id_/http%3A//sonomalibrary.org/libinfo/policies/index.html)  
+[Other policies and procedures](https://web.archive.org/web/20091215213747id_/http%3A//sonomalibrary.org/libinfo/policies/index.html)  
 [More library information](https://web.archive.org/about.html)
