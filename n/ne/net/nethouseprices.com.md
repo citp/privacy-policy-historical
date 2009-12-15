@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nethouseprices.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416222902id_/http%3A//www.nethouseprices.com/index.php%3Fcon%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nethouseprices.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215165840id_/http%3A//www.nethouseprices.com/index.php%3Fcon%3Dprivacy) for the most accurate reproduction.*
 
 # Nethouseprices.com - Privacy
 
@@ -107,4 +107,4 @@ We may change this privacy policy from time to time. Any change will take effect
 
 If you have any queries regarding this privacy policy, please write to us at [Nethouseprices.com](mailto:info@nethouseprices.com)
 
-Our advertising partners OTP Media also have a privacy policy which you can view here : <http://www.otpmedia.com/privacy>
+Property professionals can also enjoy our success of around 25 thousand visitors a day, [learn more about our **free advertising** , marketing opportunities and professional services](https://web.archive.org/index.php?con=Benefits-of-Professional-Registration "Learn about registration").
