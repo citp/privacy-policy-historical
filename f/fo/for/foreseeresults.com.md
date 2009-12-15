@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foreseeresults.com privacy policy that was archived on 2009-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090330224857id_/http%3A//www.foreseeresults.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foreseeresults.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215030756id_/http%3A//www.foreseeresults.com/Privacy.html) for the most accurate reproduction.*
 
 # Customer Satisfaction Survey
 
@@ -30,7 +30,7 @@ ForeSee Results survey mechanism places a session level cookie on respondents’
 
 ### Children and Parents
 
-ForeSee’s surveys and website are not designed or intended for use by children under 13, although the sites we survey may offer children’s products for purchase by adults. If you are under 18, you should not participate in our survey or use our site unless a parent or guardian is present. Children under 13 may not submit any personally identifiable information to us, and if we discover that we have inadvertently gathered any such information for a child under 13, we will take appropriate steps to delete it. Children over 13 should only provide us with personally identifiable information if they have explicit permission from a parent or legal guardian. If your child has submitted personal information, and you wish to review, change and/or delete such information as well as refuse to allow any further collection or use of the child’s information, please contact us at the address provided below. ForeSee Results is proud to stand by the Children’s Online Privacy Protection Act. For more information on COPPA, please visit <http://www.ftc.gov/bcp/conline/pubs/buspubs/coppa.htm>
+ForeSee’s surveys and website are not designed or intended for use by children under 13, although the sites we survey may offer children’s products for purchase by adults. If you are under 18, you should not participate in our survey or use our site unless a parent or guardian is present. Children under 13 may not submit any personally identifiable information to us, and if we discover that we have inadvertently gathered any such information for a child under 13, we will take appropriate steps to delete it. Children over 13 should only provide us with personally identifiable information if they have explicit permission from a parent or legal guardian. If your child has submitted personal information, and you wish to review, change and/or delete such information as well as refuse to allow any further collection or use of the child’s information, please contact us at the address provided below. ForeSee Results is proud to stand by the Children’s Online Privacy Protection Act. For more information on COPPA, please visit [http://www.ftc.gov/coppa/intro.htm.](http://www.ftc.gov/coppa/intro.htm "http://www.ftc.gov/coppa/intro.htm")[](http://www.ftc.gov/bcp/conline/pubs/buspubs/coppa.htm)
 
 ### Security
 
@@ -41,5 +41,5 @@ While no system is completely foolproof, ForeSee takes the security of the data 
 Adults, such as parents or educators, who would like to contact us about our policy, please email us at: [PrivacyPolicy@ForeSeeResults.com, ](mailto:PrivacyPolicy@ForeSeeResults.com "mailto:PrivacyPolicy@ForeSeeResults.com")call 800-621-2850, or write to us at: 
 
 ForeSee Results - COPPA  
-625 Avis Drive, Suite 200  
-Ann Arbor, MI 48108
+2500 Green Road, Suite 400  
+Ann Arbor, MI 48105
