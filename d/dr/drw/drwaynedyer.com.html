@@ -1,157 +1,462 @@
-<!--The following is the downloaded HTML source of the drwaynedyer.com privacy policy that was archived on 2009-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090501132449id_/http%3A//www.drwaynedyer.com/legal/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the drwaynedyer.com privacy policy that was archived on 2009-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091215104751id_/http%3A//www.drwaynedyer.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>Dr. Wayne W. Dyer </title>
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<meta name="keywords" content="Dr. Wayne Dyer, Dyer">
-<meta name="rating" content="general">
-<meta name="robots" content="all">
-<meta name="revisit-after" content="2 days">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><title>
+Privacy - Dr. Wayne Dyer </title>
+<meta name="description" content="Dr. Wayne Dyer Privacy Policy.">
+<link href="/favicon.ico" type="image/x-icon" rel="icon"><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon"><link rel="stylesheet" type="text/css" href="/css/styles.css"><link rel="stylesheet" type="text/css" href="/js/jquery.jcarousel.css"><link rel="stylesheet" type="text/css" href="/js/tango/skin.css"><script type="text/javascript" src="/js/urchin.js"></script><script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script><script type="text/javascript" src="/js/jquery-ui-1.7.1.custom.min.js"></script><link rel="stylesheet" type="text/css" href="/css/smoothness/jquery-ui-1.7.1.custom.css"><script type="text/javascript">
+	var _RESIZABLE_ELEMENTS  = 'h1, h2, h3, h4, h5, h6, a, span, p';
+	var _ORIGINAL_FONT_SIZES = {};
 
-<!-- START Urchin code -->
-<script src="/javascript/urchin.js" type="text/javascript"></script>
-<script type="text/javascript">
-	_userv=0; _utmdn = 'drwaynedyer.com'; urchinTracker();
+	function increaseFontSize() {
+		var fontSize;
+		$(_RESIZABLE_ELEMENTS).each(function() {
+			fontSize = parseFloat($(this).css('font-size'));
+			$(this).css('font-size', fontSize*1.2);
+		});
+	}
+	function decreaseFontSize() {
+		var fontSize;
+		$(_RESIZABLE_ELEMENTS).each(function() {
+			fontSize = parseFloat($(this).css('font-size'));
+			$(this).css('font-size', fontSize*0.8);
+		});
+	}
+	function originalFontSize() {
+		$(_RESIZABLE_ELEMENTS).each(function() {
+			$(this).css('font-size', _ORIGINAL_FONT_SIZES[this]);
+		});
+	}
+
+	$(document).ready(function() {
+		$(_RESIZABLE_ELEMENTS).each(function() {
+			_ORIGINAL_FONT_SIZES[this] = $(this).css('font-size');
+		});
+		$('.font-sizer-increase').click(increaseFontSize);
+		$('.font-sizer-decrease').click(decreaseFontSize);
+		$('.font-sizer-original').click(originalFontSize);
+	});
 </script>
-<!-- END Urchin code -->
 
-<script type="text/javascript" src="http://www.drwaynedyer.com/js/matching_columns.js"></script>
-<script type="text/javascript" src="http://www.drwaynedyer.com/js/changefontsize.js"></script>
-<script src="/javascript/utils/email.js" type="text/javascript"></script>
+<style type="text/css">
+	.spinner {
+		position: absolute;
+		z-index: 5000;
+		display: none;
+	}
+</style>
+<script type="text/javascript">
+	$(document).ready(function() {
+		var spinner = '<img src="/img/spinner.gif" class="spinner" />';
+		$('body').prepend(spinner);
+	});
 
-<link rel="stylesheet" type="text/css" href="../css/main.css" media="screen">
-<link rel="stylesheet" type="text/css" href="../css/main_print.css" media="print">
+	function openQuickLook(quickLookClass) {
+		$('.product-quicklook').dialog('close');
+		$('.quicklook-item-' + quickLookClass).dialog('open')
+	}
+	function initializeQuickLook() {
+		$('.product-quicklook').dialog({
+			title: 'Quick Look',
+			autoOpen: false,
+			width: 330
+		});
+		$('.product-image').hover(
+			function(){
+				$(this).find('.quicklook').fadeIn(120);
+			},
+			function(){
+				$(this).find('.quicklook').fadeOut(120);
+			}
+		);
+	}
 
-<script type="text/JavaScript">
-<!--
+	function productLoad(anchor) {
+		$('.product-quicklook').dialog('destroy');
+		$('.product-quicklook').remove();
+		var url = anchor.href;
+		var formats = {};
+		var $anchor = $(anchor);
+		var $container = $anchor.parent().parent();
+		var formatsList = '';
 
-function is_valid_email(possibleEmailAddress){
-   if (possibleEmailAddress == null || possibleEmailAddress == '') return false;
-	var newsletter_address = new Email( possibleEmailAddress );
-	if( newsletter_address.isValid() ) return true;
-   return false;
-}
+		$('.spinner').css({
+			top:  '240px',
+			left: ($(window).width()/2)+'px'
+		}).show();
 
+		// if they click on all products or a catalog section, remove selected from products filter
+		if($anchor.hasClass('all') || $container.hasClass('sections')) {
+			$('#sidebar_content a').removeClass('selected');
+			$anchor.addClass('selected');
+		}
 
-function check_form(){
-   var els = document.forms['form1'].elements;
+		// if they click on an individual product, select or deselect that product and submit the selected formats
+		if($container.hasClass('products') && !$container.hasClass('all')) {
 
-   if ( (els.email.value == '') ){
-      alert('Please enter an e-mail address to continue.');
-      return false;
-   }
+			if($anchor.hasClass('selected')) {
+				$anchor.removeClass('selected');
+				// if we have removed all filters, display all products
+				if($container.find('.selected').length == 0) {
+					$container.find('.all').addClass('selected');
+				}
+			}
+			else {
+				$anchor.addClass('selected');
+				$('#sidebar_content a.all').removeClass('selected');
+				$('#sidebar_content .sections a').removeClass('selected');
+			}
 
-	if (! is_valid_email(els.email.value)){
-      alert('Please enter a valid e-mail address to continue.');
+			formats = $container.find('.selected').next('input');
+			$.each(formats, function(i, val) {
+				if(formatsList.length > 0) formatsList += ',';
+				formatsList += $(val).val();
+			});
+			if(formatsList.length > 0) {
+				formatsList = '/index/formats:' + formatsList;
+			}
+		}
+
+		$('.dyer-products').hide();
+        $.ajax({
+                url: url + formatsList,
+                cache: false,
+                beforeSend: function(xhr) {
+                        xhr.setRequestHeader('Connection', 'keep-alive');
+                        xhr.setRequestHeader('Keep-Alive', '300');
+                        xhr.setRequestHeader('Accept-Language', 'en-us,en;q=0.5');
+                        xhr.setRequestHeader('Accept-Encoding', 'gzip,deflate');
+                        xhr.setRequestHeader('Accept-Charset', 'Windows-1252,ISO-8859-1,UTF-8;q=0.7,*;q=0.7');
+                },
+                success: function(data) {
+                        $('.dyer-products').html(data);
+                        $('.spinner').hide();
+                        initializeQuickLook();
+                        $('.dyer-products').show();
+                }
+        });
 		return false;
 	}
-	return true;
-}
 
-function popUp(theURL,winName,features) {
-  window.open(theURL,winName,features);
-}
-function popUpRadio(theURL,winName,features) {
-  window.open(theURL,winName,features);
-}
+	function ajaxLoad(anchor, container, deselect) {
+		if (typeof(container) == 'undefined' || !container) {
+			container = '.content';
+		}
+		if (typeof(deselect) == 'undefined' || deselect == null) {
+			deselect = true;
+		}
 
-//-->
+		var url = anchor.href;
+
+		$('.spinner').css({
+			top:  '240px',
+			left: ($(window).width()/2)+'px'
+		}).show();
+		$(container).hide();
+		$(container).load(url, function() {
+			$('.spinner').hide();
+			$(this).show();
+		});
+		if (deselect) {
+			$('a').removeClass('selected');
+		}
+		$(anchor).addClass('selected');
+		return false;
+	}
 </script>
-<link rel="shortcut icon" href="http://www.drwaynedyer.com/favicon.ico">
+
+<script type="text/javascript">
+	/* External URLs should open in a new window or tab in the browser. */
+	$(document).ready(function() {
+		$('a').live('click', function() {
+			var hostPattern = /(dyer\.dev|dyer\.artmediadev|dyer\.hayhousedev1|drwaynedyer|origin-www\.dyermovie)\.com(:80)?$/;
+			if (this.host && !hostPattern.test(this.host)) {
+				$(this).attr('target', '_blank');
+			}
+			return true;
+		});
+	});
+</script><link rel="stylesheet" type="text/css" href="/css/privacy.css" media="all"><!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="/css/ie6.css" media="all" /><![endif]-->
+<!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="/css/ie7.css" media="all" /><![endif]-->
+<script type="text/javascript">
+		/*$(document).ready(function(){
+			$('.promo-groups').jcarousel({
+				vertical: true,
+				scroll: 1
+			});
+		});*/
+
+		_udn="drwaynedyer.com";
+        urchinTracker();
+	</script>
+<script type="text/javascript" src="http://w.sharethis.com/button/sharethis.js#publisher=9e83236a-a988-4d1b-9bb7-4aa65f578a77&amp;type=website&amp;buttonText=Share&amp;post_services=facebook%2Cdigg%2Cdelicious%2Cstumbleupon%2Creddit%2Ctwitter%2Cmixx%2Cnewsvine%2Clinkedin%2Ctechnorati%2Cgoogle_bmarks%2Cfriendfeed%2Cblogger%2Cwordpress%2Ctypepad%2Cwindows_live%2Cfark%2Cbus_exchange"></script>
 </head>
+<body id="privacy"><img src="/img/spinner.gif" class="spinner">
+<div id="container"> <div id="header">
 
-<body id="PrivacyPage">
-<a name="top"></a>
+<a href="/"><h1>Dr. Wayne W. Dyer</h1></a>
 
-   <!-- Begin Wrapper -->
-   <div id="Wrapper">
-		 
-		 <!-- Begin Sidebar -->
-		 <div id="SideBar">
-		 
-		 		<a href="../index.php"><img src="../images/sidebar/pbs_top2.jpg" alt="Dr Wayne Dyer" width="279" height="139" border="0"></a>
-<div id="SidebarMenu">
-	<div class="AboutLink"><a href="/about/" title="About">About</a></div>
-	<div class="BooksLink"><a href="/products/" title="Books">Books</a></div>
-	<div class="AppearancesLink"><a href="/events/" title="Events">Events</a></div>
-	<div class="AudioVideoLink"><a href="/listen/" title="Audio/Video">Audio/Video</a></div>
-	<div class="ArticlesLink"><a href="/articles/" title="Articles">Articles</a></div>
-	<div class="EnewsLink"><a href="/enews/" title="E-News">E-News</a></div>
-	<div class="InspirationLink"><a href="/inspiration/" title="Daily Inspiration">Daily inspiration</a></div>
-	<div class="ContactUsLink"><a href="/contact/" title="Contact Us">Contact us</a></div>
-	<div class="HomeLink"><a href="/index.php" title="Home">Home</a></div>		
-</div>				<div id="SidebarSpacer"></div>
-		 </div>
-		 <!-- End Sidebar -->
-		 
-		 <!-- Begin Main Column -->
-		 <div id="MainColumn">
-		 		
-				<div id="PageQuote"><img src="../images/toppagequotes/1.gif" alt="Dr. Wayne W. Dyer - Quote"></div>
-				<div id="AuthorName"><img src="../images/main/drwaynedyer_header.gif" alt="Dr. Wayne Dyer" width="253" height="34"></div>
+<div id="enews_signup">
 
-				<div id="TitleWrapper">
-					
-<div id="ChangeFontSize"><a href="javascript:decreaseFontSize();"><img src="../images/buttons/changefontsize_small.gif" alt="Decrease Font-Size" width="10" height="10" border="0"></a><a href="javascript:increaseFontSize();"><img src="../images/buttons/changefontsize_big.gif" alt="Increase Font-Size" width="12" height="10" border="0"></a></div>	
+<form class="header-enews-form" method="post" action="/privacy"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST"><input type="hidden" name="data[_Token][key]" value="f4fdbb35ab362d2466bde487fd6c45f12f65137b" id="Token907048193"></fieldset><label for="signup">e-news keep in touch</label><input name="data[Enews][email]" type="text" id="signup" value=""><input type="submit" id="submitbutton" value="">
+</form>
+<style type="text/css">
+	.header-enews-form .error-message {
+			}
+</style>
 
 
-
-
-
-										
-					<h1 id="PageTitle">Your Privacy</h1>
-				</div>
-					
-				<p>DrWayneDyer.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site: 
-                  Our online e-newsletter asks users to give us contact information (like their name and e-mail address). This information is used to contact the visitor when necessary about special promotions, events, discounts, and messages from Dr. Wayne W. Dyer, and is never divulged to third parties. This site contains links to other sites. Dr. Wayne W. Dyer is not responsible for the privacy practices or the content of such Web sites. </p>
-                  <p>
-                  Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their e-mail address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders, information about our company, and occasional future promotional material. The customer's contact information is also used to get in touch with the customer when necessary regarding the order. Financial information that is collected is used to bill the user for products and services only. </p>
-                  <br>
-                  <div class="HighlightTitle">Choice/Opt-Out</div>
-                  <p>Please contact Customer Service to request the removal of your information from our database or to no longer receive future communications. </p>
-                    <br>
-                    <div class="HighlightTitle">Contacting the Web site</div>
-                    <p>If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Dr. Wayne W. Dyer at the address below. </p>
-                    <br>
-                    Dr. Wayne W. Dyer<br>
-                    c/o Hay House, Inc. <br>
-                    P.O. Box 5100<br>
-                    Carlsbad, CA  92018-5100<br>
-                    t: 800.654.5126
-         </div>
-		 <!-- End Main Column -->
-   </div>
-   <p>
-     <!-- End Wrapper -->
-</p>
-		 <!-- Begin Footer -->
-		 <div id="Footer">
-		       
-			   <div id="Footer">
-
-			  
-              <ul id="bottom_ul_main">
-				<li><a href="#top">Back to Top</a></li>
-				<li><a href="/legal/privacy.php">Privacy</a></li>
-				<li><a href="/legal/terms.php">Terms of Use</a></li>
-				<li><a href="/legal/copyright.php">Copyright</a></li>
-			</ul>
-             <div id="FooterRadio"><!--<a href="#" onClick="popUpRadio('/nowplaying.php','Listener','toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=1,width=550,height=385')">--><a href="http://www.hayhouseradio.com" target="_blank"><img src="/images/main/bottom_hayhouseradio.gif" alt="Listen Live Monday 1pm Pacific Time" width="308" height="59" border="0"></a></div>
-                         
-			   		   <div id="FooterRadio"><!--<a href="#" onClick="popUpRadio('/nowplaying.php','Listener','toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=1,width=550,height=385')">--><a href="http://www.hayhouseradio.com" target="_blank"><img src="/images/main/bottom_hayhouseradio.gif" alt="Listen Live Monday 1pm Pacific Time" width="308" height="59" border="0"></a></div>
-                    <div id="FooterPodcast"><a href="http://www.hayhouseradio.com/subscribe.php?show_id=16" target="_blank"><img src="/images/main/bottom_podcast.gif" alt="Podcast" width="72" height="16" border="0"></a></div>
-                  
-
-			  			   <div class="clearboth"></div>
-
-<div id="affiliate_program_main"><a href="/affiliates/index.php"><img src="/images/index/affiliate_program.gif" border="0"></a></div>
 </div>
- 	
-	     </div>
-		 <!-- End Footer -->
-   <p>&nbsp;
-</p>
+
+</div>
+
+
+    <div class="clear"></div>
+    <ul id="mainNav">
+        <li id="mainNav-01"></li>
+        <li id="mainNav-02"><a href="/">Home</a></li>
+        <li id="mainNav-03"><a href="/about/">About</a></li>
+        <li id="mainNav-04"><a href="/products/">Books &amp; Products</a></li>
+        <li id="mainNav-05"><a href="/events/">Upcoming Events</a></li>
+        <li id="mainNav-06"><a href="/media/">Audio &amp; Video Downloads</a></li>
+        <li id="mainNav-07"><a href="/articles/">Articles &amp; News</a></li>
+        <li id="mainNav-08"><a href="/blog/latest">Blog</a></li>
+        <li id="mainNav-09"><a href="/affirmations/">Daily Inspiration</a></li>
+        <li id="mainNav-10"></li>
+    </ul>
+
+
+
+<!--					<div id="enews_signup"> <form id="EnewsAddSimpleForm" method="post" action="/enews/add_simple/DYER_ENEWS_GROUP"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST" /><input type="hidden" name="data[_Token][key]" value="f4fdbb35ab362d2466bde487fd6c45f12f65137b" id="Token1656752556" /></fieldset>			            <label for="email"> </label>
+			            <input name="data[Enews][email]" type="text" value="" id="EnewsEmail" /> <input type="submit" class="button" value=" " />			            <div class="clear"></div>
+			            <fieldset style="display:none;"><input type="hidden" name="data[_Token][fields]" value="e78aa932af8bb6212d774ed27d845c79c34352c3%3An%3A0%3A%7B%7D" id="TokenFields2112620391" /></fieldset></form> </div>
+				 -->  <div class="clear"></div>
+  <div id="sidebar">
+    <div id="sidebar_content">
+    	    	
+<script type="text/javascript">
+$(document).ready(function() {
+	var current = 0;
+	var top = 0;
+	var shownHeight = 0;
+	var heights = new Array();
+	var spacing = 20; // same as ul.promo-groups li  padding-bottom
+	var moveBy = 2;
+	var i = 0;
+	$.each($('li.promo'), function(i, val){
+		heights.push($(val).height() + spacing);
+	});
+
+	function calculateShownHeight() {
+		var displayed = 0;
+		shownHeight = 0;
+		for(i=0; i < moveBy; i++) {
+			displayed = i + current;
+			if(displayed  < heights.length && displayed >= 0) {
+				shownHeight += heights[displayed];
+			}
+		}
+	}
+	calculateShownHeight();
+	$('.carousel').css('height', shownHeight + 'px');
+
+	function moveCarousel() {
+
+		calculateShownHeight();
+		if($.browser.msie && $.browser.version < 7){
+			// opacity looks crummy in IE
+			$('.promo-groups').animate({'top' : '-' + top + 'px'}, 1400, 'swing');
+			$('.carousel').animate({'height': shownHeight + 'px'}, 1400);
+		}
+		else {
+			$('.promo-groups').animate({'top' : '-' + top + 'px'}, 1400, 'swing')
+				.animate({'opacity': '0.6'}, {queue: false, duration: 200} )
+				.animate({'opacity': '1'}, 200);
+			$('.carousel').animate({'height': shownHeight + 'px'}, 1400);
+		}
+	}
+	$('.next').click(function(event){
+		event.preventDefault();
+		var topStart = top;
+		for(i=0; i < moveBy; i++) {
+			if(current < heights.length - 1) {
+				top += heights[current];
+				current++;
+			}
+		}
+		if(topStart != top) {
+			moveCarousel();
+		}
+	});
+
+	$('.previous').click(function(event){
+		event.preventDefault();
+		var topStart = top;
+		for(i=0; i < moveBy; i++) {
+			if(current > 0) {
+				current--;
+				top -= heights[current];
+			}
+		}
+		if(topStart != top) {
+			moveCarousel();
+		}
+	});
+});
+</script>
+
+<div class="featured-products">
+    	<a href="" class="previous">Previous</a>
+	<a href="" class="next">Next</a>
+	<div class="carousel" style="height: 144px;">
+  	<div class="promo-carousel">
+		<ul class="promo-groups">
+			<li class="site promo">
+		<span class="promo-image"><a href="http://www.hayhouse.com/details.php?id=4126"><img src="/img/resize_cache/4126_c1.gif" width="120" height="180" alt="Now Available!"></a></span>
+		<span class="promo-title"><a href="http://www.hayhouse.com/details.php?id=4126">Now Available!</a></span>
+
+		<p>Within the pages of this transformational book, Dr. Wayne W. Dyer reveals how to change the self-defeating thinking patterns that have prevented you from living at the highest levels!</p>
+
+     </li>
+
+<li class="site promo">
+		<span class="promo-image"><a href="http://www.hayhouse.com/details.php?id=4139"><img src="/img/resize_cache/4139_c1.gif" width="120" height="136.66666666667" alt="No Excuses!"></a></span>
+		<span class="promo-title"><a href="http://www.hayhouse.com/details.php?id=4139">No Excuses!</a></span>
+
+		<p>Dr. Wayne Dyer shows children that with a few simple ideas, anything is possible!</p>
+
+     </li>
+
+<li class="site promo">
+		<span class="promo-image"><a href="http://www.hayhouse.com/details.php?id=4119"><img src="/img/resize_cache/4119_c1.gif" width="120" height="170.57142857143" alt="Make The Shift!"></a></span>
+		<span class="promo-title"><a href="http://www.hayhouse.com/details.php?id=4119">Make The Shift!</a></span>
+
+		<p>Best-selling author and renowned spiritual teacher, Dr. Wayne W. Dyer, presents his first feature film—<em>The Shift</em>!</p>
+
+     </li>
+		</ul>
+	</div>
+  	  </div>
+  </div>
+    </div>
+  </div>
+  <div id="content">
+    <div id="main_col">
+      <!--<p class="random-quote">Practice trusting your own inner nature. <span>| Dr. Wayne W. Dyer</span></p> -->
+      <div class="content">
+      	<div class="share_this">
+<script language="javascript" type="text/javascript">
+if(SHARETHIS) {
+	//Create your sharelet with desired properties
+	SHARETHIS.addEntry({
+	title:document.title},
+	//Assign integer values specifying the desired positioning of the ShareThis widget
+	{offsetLeft: -305, offsetTop: 5});
+}
+</script>
+</div>
+                
+<h2>legal</h2>
+
+
+<div id="main_left">
+<div class="side_nav">
+<ul>
+	<li class="view_all"> <span>LEGAL</span> </li>
+    <li class="view_all"> <a href="/pages/copyright">Copyright</a></li>
+    <li class="view_all"> <a href="/pages/terms">Terms</a></li>
+    <li class="view_all"> <a href="/pages/privacy">Privacy</a></li>
+</ul>
+</div>
+
+
+</div>
+
+
+<div id="main_right">
+
+<div id="main_right_content">
+
+<h4 class="legal_head">Privacy</h4>
+
+<p class="noindent">DrWayneDyer.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site: 
+Our online e-newsletter asks users to give us contact information (like their name and e-mail address). This information is used to contact the visitor when necessary about special promotions, events, discounts, and messages from Dr. Wayne W. Dyer, and is never divulged to third parties. This site contains links to other sites. Dr. Wayne W. Dyer is not responsible for the privacy practices or the content of such Web sites. </p>
+<p class="noindent">Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their e-mail address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders, information about our company, and occasional future promotional material. The customer's contact information is also used to get in touch with the customer when necessary regarding the order. Financial information that is collected is used to bill the user for products and services only. </p>
+
+<h4 class="legal_subhead">Choice/Opt-Out</h4>
+<p class="noindent">Please contact Customer Service to request the removal of your information from our database or to no longer receive future communications. </p>
+
+<h4 class="legal_subhead">Contacting the Web site</h4>
+<p class="noindent">If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Dr. Wayne W. Dyer at the address below. </p>
+
+<div class="privacy-address">
+	Dr. Wayne W. Dyer<br>
+	c/o Hay House, Inc. <br>
+	P.O. Box 5100<br>
+	Carlsbad, CA  92018-5100<br>
+	t: 800.654.5126
+</div>
+
+</div>
+</div>
+<div class="clear"> </div> </div>
+    </div>
+  </div>
+  <div class="clear"></div>
+  
+<style type="text/css">
+
+.dyer-fanbox {
+	position:relative;
+}
+
+
+</style>
+
+
+<div id="footer">
+	<div class="col-left">
+		<ul class="top">
+    		<li class="lh32">connect with us</li>
+        	<li><a href="http://www.healyourlife.com"><img src="/img/footer/footer_heart.jpg" alt="Heal Your life"></a></li>
+
+        	<li><a href="http://www.facebook.com/drwaynedyer"><img src="/img/footer/footer_fb_logo.jpg" alt="Become a fan on Facebook"></a></li>
+        	<li><a href="http://twitter.com/DrWayneWDyer"><img src="/img/footer/footer_twitter_logo.jpg" alt="Follow on Twitter"></a></li>
+            <li class="lh32"><a href="/enews" class="black">E-NEWSLETTER</a></li>
+    	</ul>
+        <div class="clear"></div>
+        <ul class="bottom">
+        	<li><a href="http://www.hayhouseradio.com" class="hhr"><img src="/img/footer/footer_hhr_logo.jpg" alt="Hay House Radio" width="132" height="21"></a></li>
+         	<li class="lh23">Hear Wayne Live every Monday at 1 pm Pacific. <a href="#" onclick="javascript:window.open('http://www.hayhouseradio.com/nowplaying.php', 'Listener','toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=1,width=540,height=440');" class="listen">Listen Now »</a></li>
+
+        </ul>
+        <div class="clear"></div>
+    </div>
+    <div class="col-right">
+    	<ul class="top">
+    		<li><a href="/copyright">© 2009 Dr. Wayne W. Dyer</a></li>
+        	<li><a href="/terms-of-use">Terms of Use</a> </li>
+        	<li><a href="/privacy">Privacy</a></li>
+            <li><a href="/pages/sitemap">Sitemap</a></li>
+        	<li><a href="/affiliate-program" class="black">AFFILIATE PROGRAM</a> </li>
+        	<li><a href="/contact" class="black">CONTACT US</a></li>
+    	</ul>
+        <div class="clear"></div>
+
+        <ul class="bottom">
+        	<li><a href="http://www.urbanjunket.com"><img src="/img/footer/footer_uj_logo.gif" alt="Urban Junket" width="107" height="22"></a></li>
+            <li class="lh23">for busy women who love fashion and style</li>
+        	<li class="lh23"><a href="http://www.dyermovie.com" class="black">VISIT DYERMOVIE.COM »</a> </li>
+        </ul>
+        <div class="clear"></div>
+    </div>
+
+    <div class="clear"></div>
+</div>
+</div>
 
 
 </body></html>
