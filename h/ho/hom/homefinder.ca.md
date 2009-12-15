@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the homefinder.ca privacy policy that was archived on 2009-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090520031925id_/http%3A//www.homefinder.ca/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homefinder.ca privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215131001id_/http%3A//www.homefinder.ca/help/privacy) for the most accurate reproduction.*
 
-# HomeFinder.ca
+# Privacy Policy | Homefinder.ca
 
 **Our commitment to privacy:** Metroland Media Group Ltd. ("Metroland"), knows that protecting the privacy and confidentiality of your personal information is important to consumers.This Privacy Code governs all Metroland web portals. Collection, use and disclosure of personal information by Metroland and its affiliates are governed by the Personal Information Protection and Electronic Documents Act (the “Act”), and any applicable provincial legislation. This Privacy Code explains what personal information is collected from its customers and how it is used. It also explains how you can ask questions, make suggestions, and complain about our privacy practices. This Privacy Code applies to personal information (see below) collected by Metroland, including its websites. Be aware that our websites may contain links to other websites provided and maintained exclusively by third parties not subject to this Privacy Code. Please review the privacy policies on any external websites to determine their information handling practices. 
 
@@ -117,7 +117,7 @@ We will give you access to the information we retain about you within a reasonab
 Willowdale, Ontario, Canada,   
 M2H 2N8   
 1-866-287-6732   
-**[Contact Privacy Officer](http://www.metroland.com/page/Privacy%20Policy/)**
+**[Contact Privacy Officer](http://www.metroland.com/corp/privacy/privacypolicyinquiry/)**
 
 Customer Service can successfully deal with many issues. If you prefer, or if after contacting Customer Service, your concerns or questions have not been resolved to your satisfaction, you can contact Torstar Corporation’s Chief Privacy Officer in writing as follows:
 
