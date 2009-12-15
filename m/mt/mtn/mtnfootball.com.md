@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mtnfootball.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624043705id_/http%3A//www.mtnfootball.com/live/content.php%3FItem_ID%3D16321) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtnfootball.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215025434id_/http%3A//www.mtnfootball.com/live/content.php%3FItem_ID%3D16321) for the most accurate reproduction.*
 
-# Privacy Policy | MTNfootball.com
+# Privacy Policy | MTNFootball.com
 
 "Personal identifiable information" is information that can be used uniquely to identify you, such as your name, mailing address, e-mail address, telephone numbers and credit card number. In order to provide you with service in this website, we may require that you provide us with personal identifiable information. 
 
