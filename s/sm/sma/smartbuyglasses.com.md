@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartbuyglasses.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501234732id_/http%3A//www.smartbuyglasses.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartbuyglasses.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215104126id_/http%3A//www.smartbuyglasses.com/privacy) for the most accurate reproduction.*
 
 # SmartBuyGlasses -- Privacy Policy
 
@@ -12,7 +12,7 @@ All information recorded by SmartBuyGlasses will be kept completely confidential
 * To communicate with you in connection with purchase transactions: we will use your personal information to contact you if there is any problem with any order for goods that you make with SmartBuyGlasses;
 * Defaulted payment or monies owed: in the event that there is defaulted payment or monies owed by an individual, we may notify or exchange relevant personal information with credit agencies and/or our collection agency;
 * If required by law: If **SmartBuyGlasses** is served with a legally enforceable court order, we are required to make personal information available to law enforcement or regulatory agencies;
-* Marketing: We will not disclose your personal details to any other organization for marketing purposes. We may use details from your Customer Record to better understand your needs and to advise you of new products, services or promotions that we believe will be of interest to you.
+* Marketing: We will not disclose your personal details to any other organization for marketing purposes. We may use details from your Customer Record to better understand your needs and to advise you of new products, services or promotions that we believe will be of interest to you. 
 
 When you call or email **SmartBuyGlasses** we may monitor your telephone conversation for staff training and service quality control procedures.
 
