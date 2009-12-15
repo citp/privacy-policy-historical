@@ -1,49 +1,30 @@
-> *The following text is extracted and transformed from the websitepros.com privacy policy that was archived on 2009-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090211143222id_/http%3A//www.web.com/legal/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitepros.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215133845id_/http%3A//www.web.com/legal/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Legal - Privacy Policy | Web.com
 
 ## Privacy Policy
 
-Web.com respects the privacy of the visitors of its [websites](http://www.web.com/).
+Web.com Group, Inc. (“Web.com”) respects the privacy of its customers and the visitors and users of its [websites](http://www.web.com/).
 
-This Privacy Statement is intended to inform you of our policies and practices regarding the collection, use and disclosure of any personal information you submit to us through our website. "Personal Information" is information about you that is personally identifiable to you like your name, address, e-mail address, or phone number, as well as other non-public information that is associated with the foregoing.
+This policy (“Privacy Statement”) is intended to inform you of our policies and practices regarding the collection, use and disclosure of any personal information we obtain about you based upon your use of our website, products or services. "Personal Information" is information about you that is personally identifiable to you such as your name, address, e-mail address, phone number, and other non-public information that is associated with the foregoing.
 
-We pay close attention to how Personal Information about our visitors is used and shared, and we use Personal Information sensibly.
+We pay close attention to how Personal Information is used and shared, and we use Personal Information sensibly.
 
-We act as a service provider to our customers and may process and store on behalf of our customers Personal Information that our customers collect under the privacy policy they have posted on their websites from the users of such websites. We do not own this Personal Information.
+We act as a service provider to our customers and may process and store on behalf of our customers Personal Information that our customers collect about third parties. We do not own that Personal Information.
 
 **User Consent**
 
-By submitting Personal Information through our websites, you agree to the terms of this Privacy Statement.
+By visiting our website or using our products or services, you agree to the terms of this Privacy Statement.
 
-You expressly consent to the processing of your Personal Information according to this Privacy Statement. Personal Information may be processed by Web.com, Developer(s), or User(s) in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Information may be less stringent.
+You expressly consent to the processing of your Personal Information according to this Privacy Statement. Personal Information may be processed by Web.com or Web.com’s trusted vendors or other third parties in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Information may be less stringent.
 
 **Collection of Personal Information**
 
-The Personal Information we gather from you helps us learn about our customers and potential customers. We use this information to better tailor the features, performance and support of our solutions, products and services, and to contact you from time to time with information and offers about our products and services.
+The Personal Information we gather from you helps us learn about our customers and potential customers. We use this information to better tailor the features, performance and support of our solutions, products and services, and to contact you from time to time with information and offers about our or a third party’s products and services.
 
 **Personal Information You Provide to Us**
 
-We collect Personal Information that you submit to us voluntarily through our websites. The types of Personal Information we collect include:
-
-  * **For receiving information material:**  
-If you contact us to receive information material (such as one of our whitepapers), we will collect your name, e-mail address and the information when you plan on purchasing a website.
-  * **For receiving our Business Builder newsletter:**  
-If you contact us to receive our Business Builder newsletter, we will collect your name, e-mail address, mailing address and the address of your website.
-  * **For getting a quote:**  
-In order to receive a quote from us, we will collect your name, phone number, e-mail address, mailing address and your Web address.
-  * **For employment applications:**  
-If you apply for an employment opportunity via e-mail, we will collect your e-mail address and any information contained in the e-mail you send us.
-  * **For general information:**  
-If you contact us via e-mail to get general information, we will collect your e-mail address and any information contained in the e-mail you send us.
-  * **For technical support:**  
-If you contact us via e-mail to get technical support, we will collect your e-mail address and any information contained in the e-mail you send us.
-  * **For Strategic Distribution Partners Information:**  
-If you contact us via e-mail to receive Strategic Distribution Partners Information, we will collect your e-mail address and any information contained in the e-mail you send us.
-  * **For Enterprise Distribution Partner Information:**  
-If you contact us via e-mail to receive Enterprise Distribution Partner Information, we will collect your e-mail address and any information contained in the e-mail you send us.
-
-
+We collect Personal Information that you submit to us voluntarily. The Personal Information we collect includes, but is not limited to, the following: name, mailing address, Web address, telephone number, e-mail address, and information contained in any e-mail or other communication you send to us or information you give to us in any other way. 
 
 **Personal Information Collected via Technology**
 
@@ -51,15 +32,15 @@ As you navigate our website, certain passive information may also be collected, 
 
 **Personal Information We Receive from Other Sources**
 
-We may receive Personal Information about you from other sources like telephone or telefax. We may add this information to the information we have already collected from you via our website in order to improve the solutions and services we provide.
+We may receive Personal Information about you from other sources like telephone or telefax. We may add this information to the information we have already collected about you in order to improve the solutions and services we provide.
 
 **Use of Information**
 
-In general, Personal Information you submit to us is used either to set up solutions or purchase website marketing services, respond to requests that you make, to process transactions, to facilitate your request for a quote from a third party service provider or to aid us in serving you better. We may share your Personal Information with other businesses to offer you products, services, and promotions. In addition, we may share your information with other businesses that may contact your regarding request for service. We may also use your Personal Information to provide you with electronic newsletters or promotional e-mails as well as information and offers about our products and services.
+In general, Personal Information you submit to us is used either to set up solutions or purchase website marketing services, respond to requests that you make, to process transactions, to facilitate your request for a quote from a third party service provider or to aid us in serving you better. We may share your Personal Information with other businesses to offer you products, services, and promotions. In addition, we may share your Personal Information with other businesses that may contact you regarding requests for service. We may also use your Personal Information to provide you with electronic newsletters or promotional e-mails as well as information and offers about our products and services.
 
 **Disclosure of Personal Information**
 
-Except as otherwise stated in this Privacy Statement: we do not generally trade, rent, or share your Personal Information with third parties, we will not disclose any information that you ask us to keep confidential, and we will not disclose financial information unless you ask us to do so. In order to build the solutions for you, we may engage third parties to assist us, and, in connection with such assistance, we may provide them with Personal Information that you have provided and that is necessary for them to assist us.
+Except as otherwise stated in this Privacy Statement, we do not generally sell your Personal Information to third parties. In order to build the solutions for you, we may engage third parties to assist us, and, in connection with such assistance, we may provide them with Personal Information that you have provided and that is necessary for them to assist us. We may also share your Personal Information with trusted vendors or other third parties in order for them to provide you with offers that we think you will find valuable. 
 
 To drive traffic to your website and to make your website easier to find, we will disclose keywords about your business, your business name, general and specific description about your business, information about your location, and information about your products and services to third-party services and to the general public.
 
@@ -73,7 +54,7 @@ We may disclose your Personal Information if we believe in good faith that such 
 
 **Your Choices Regarding Your Personal Information**
 
-Should you decide to stop receiving further communications or newsletters from us, you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the e-mail. If at any time you wish to subscribe to any communications from us, you may do so by contacting us at [info@web.com](mailto:info@web.com). Despite your indicated e-mail preferences, we may send you notices of any updates of our legal Notices, Terms of Use, Privacy Statement, on the account you created with us.
+Should you decide to stop receiving e-mail communications or newsletters from us, you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the e-mail. If at any time you wish to subscribe to any communications from us, you may do so by contacting us at [info@web.com](mailto:info@web.com). Despite your indicated e-mail preferences, we may send you e-mail regarding updates to legal notices applicable to the account you created with us. From time to time, we may contact you by telephone to offer you products or services which we believe may be valuable to you. Should you prefer not to receive such calls, please advise the representative who contacts you or contact customer care.
 
 **Regarding Minors**
 
@@ -90,7 +71,7 @@ We use reasonable measures to maintain the security of your Personal Information
 **Contact Us**
 
 Should you have any questions or concerns regarding this Privacy Statement, please contact us:  
-Web.com  
+Web.com Group, Inc.  
 Privacy Officer  
 12808 Gran Bay Parkway, West  
 Jacksonville, FL 32258  
@@ -98,10 +79,10 @@ Phone: 904-680-6600
 
 **Privacy Statement Updates**
 
-This Privacy Statement is subject to occasional revision, and if we make any substantial changes in the way we use your Personal Information, we will post an alert on this page. If you object to any such changes, you must cease using our website. Continued use of our website following notice of any such changes shall indicate your acknowledgment of such changes and agreement to be bound by the terms and conditions of such changes.
+This Privacy Statement is subject to occasional revision, and if we make any changes in the way we use your Personal Information, we shall notify you by posting an updated Private Statement at [www.web.com/Legal/Default.aspx](http://www.web.com/legal/default.aspx). If you object to any such changes, you must cease using our website, products or services. Continued use of our website, products or services following notice of any such changes shall indicate your acknowledgment of such changes and agreement to be bound by the terms and conditions of such changes. 
 
-This statement was last updated on October 3, 2008.
+**Choice of Law**
 
-**Conditions of Use and Revisions**
+If you choose to visit Web.com's website or use our products or services, any dispute over privacy is subject to this Privacy Statement as governed by the laws of the State of Florida.
 
-If you choose to visit Web.com's website, your visit and any dispute over privacy is subject to this Privacy Notice, as governed by the laws of the State of Florida.
+v.11.09
