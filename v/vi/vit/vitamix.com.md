@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the vitamix.com privacy policy that was archived on 2009-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090509083040id_/http%3A//www.vitamix.com/household/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitamix.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215023949id_/http%3A//www.vitamix.com/household/privacy.asp) for the most accurate reproduction.*
 
-# Welcome to Vita-Mix - Literature Request Form
+# Welcome to Vitamix - Literature Request Form
 
   
-VITA-MIX CORPORATION  
+Vitamix CORPORATION  
 (U.S. and Canada) 
 
 For UK & Ireland Click here
 
-This Privacy Policy (this “Policy”) discloses the privacy practices for Vita-Mix Corporation (“us” or “we”) with respect to its websites and various related services (collectively, the “Site”). We are committed to protecting your privacy when you visit and use our Site. Please read the information below to learn the following regarding your use of this Site. 
+This Privacy Policy (this “Policy”) discloses the privacy practices for Vitamix Corporation (“us” or “we”) with respect to its websites and various related services (collectively, the “Site”). We are committed to protecting your privacy when you visit and use our Site. Please read the information below to learn the following regarding your use of this Site. 
 
 You acknowledge that this Policy is part of our Site Terms of Use, and by accessing or using our Site, you agree to be bound by all of its terms and conditions. If you do not agree to these terms, please do not use this Site.
 
@@ -40,7 +40,7 @@ Occasionally we may be required by law enforcement or judicial authorities to pr
 
 **4. _Updating and Correcting Information._**
 
-You may change any of the personal information you have provided to us on this Site by clicking the “Update Profile” link attached to our emails and electronic newsletters, by writing us at: Vita-Mix Corporation, 8615 Usher Road, Cleveland, Ohio 44138, Attn: Kristi Poltrone or by calling us directly at 1-800-848-2649.
+You may change any of the personal information you have provided to us on this Site by clicking the “Update Profile” link attached to our emails and electronic newsletters, by writing us at: Vitamix Corporation, 8615 Usher Road, Cleveland, Ohio 44138, Attn: Kristi Poltrone or by calling us directly at 1-800-848-2649.
 
 Please include your name, address, and/or email address when you contact us.
 
@@ -58,11 +58,11 @@ Unfortunately, no data transmission over the Internet or any wireless network ca
 
 When you use our Site we will store cookies on your computer in order to facilitate and customize your use of our Site. A cookie is a small data text file, which a Web Site stores on your computer’s hard drive (if your Web browser permits) for record keeping purposes. Our cookies store your ecommerce store user account information, the country where you are located, and your ecommerce store shopping cart selections so you do not have to select items more than once. The cookies make your use of the Site easier, make the Site run more smoothly and help us maintain a secure Site. You are always free to decline our cookies if your Web browser permits, but some parts of our Site may not work properly if you disable our cookies.
 
-We allow third party advertisers to display banner advertisements on our Site. These third party advertisers will place a separate cookie on your computer when you click on their banner. Vita-Mix does not provide our advertisers with any of your Personally Identifiable Information, however, Vita-Mix has no access or control over cookies used by such advertisers.
+We allow third party advertisers to display banner advertisements on our Site. These third party advertisers will place a separate cookie on your computer when you click on their banner. Vitamix does not provide our advertisers with any of your Personally Identifiable Information, however, Vitamix has no access or control over cookies used by such advertisers.
 
 **8. _Links to and Privacy Policies of Third Party Sites._**
 
-This Policy only applies to information collected from this Site by Vita-Mix. Once you click on a link to another website (“Linked Site”), you are no longer on this Site. This Policy does not apply to the content or privacy practices of any Linked Site. We encourage you to read the privacy statements of each and every website or Linked Site that collects personally identifiable information. You should contact advertisers, other websites or Linked Sites directly if you have any questions about their privacy policies or their use of the information they collect.
+This Policy only applies to information collected from this Site by Vitamix. Once you click on a link to another website (“Linked Site”), you are no longer on this Site. This Policy does not apply to the content or privacy practices of any Linked Site. We encourage you to read the privacy statements of each and every website or Linked Site that collects personally identifiable information. You should contact advertisers, other websites or Linked Sites directly if you have any questions about their privacy policies or their use of the information they collect.
 
 **9. _Miscellaneous Privacy Issues._**
 
@@ -74,13 +74,13 @@ This Policy only applies to information collected from this Site by Vita-Mix. On
 
 **10. _Business Transfer or Sale._**
 
-Our business is growing. We may buy or sell all or part of our business or the business of a third party. All or part of your personal information may be transferred to a new business or owner as a result of such transactions, however, your personal information will continue to be protected by any pre-existing Privacy Policy of Vita-Mix Corporation, unless you agree otherwise.
+Our business is growing. We may buy or sell all or part of our business or the business of a third party. All or part of your personal information may be transferred to a new business or owner as a result of such transactions, however, your personal information will continue to be protected by any pre-existing Privacy Policy of Vitamix Corporation, unless you agree otherwise.
 
 **11. _Contact Information._**
 
 If you have any questions about this Policy, the practices of this Site, or your dealings with this Site, please contact us by sending a letter to:
 
-Vita-Mix Corporation  
+Vitamix Corporation  
 8615 Usher Road  
 Cleveland, Ohio 44138  
 Attn: Customer Service
@@ -92,7 +92,7 @@ You may also contact us by email at [service@vitamix.com](mailto:service@vitamix
 
 | **UK & Ireland Privacy Policy**
 
-Vita-Mix Corporation, Inc., a corporation incorporated under the laws of the State of Ohio, United States ("we") are committed to protecting and respecting your privacy.
+Vitamix Corporation, Inc., a corporation incorporated under the laws of the State of Ohio, United States ("we") are committed to protecting and respecting your privacy.
 
 This policy (together with our [terms of use](http://www.vitamix.co.uk/index.php?option=com_content&view=article&id=71) and any other documents referred to on it) explains our data processing practices and your options regarding the ways in which your personal data is used. 
 
