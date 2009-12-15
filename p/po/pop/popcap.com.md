@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the popcap.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626120635id_/http%3A//www.popcap.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popcap.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215040009id_/http%3A//www.popcap.com/privacy.php) for the most accurate reproduction.*
 
-# PopCap Games - The PopCap Privacy Policy
+# PopCap Games - PopCap Privacy Policy
 
-Last updated: January 2009
+Last updated: September 2009
 
 PopCap Games, Inc. is committed to making our website a fun place to visit. We know that you care how information about you is used and shared. And if you're worried about your privacy - or the security of our site - it's hard to have a good time! That's why we work hard to protect your rights.
 
@@ -16,16 +16,18 @@ By visiting any of the Sites, you agree that your personal information will be h
 
 The information PopCap collects from you helps us personalize and continually improve your experience at our Sites. Here are the types of information we gather: 
 
-  * **Purchase Related Information:** We receive and store any information you enter on our website or that you provide to us when you enter promotions or sweepstakes or use our products or services. Some information, such as a valid email address or credit card billing information, may be necessary to purchase a game, subscribe to a newsletter or one of our services, access particular features, or otherwise transact business with us. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We may also occasionally ask you to voluntarily provide information, such as your opinions about games or your demographics none of which is required to access our products and services. As detailed more fully below, we use the information that you provide for such purposes as verifying your right to access products and services, billing, responding to your requests, customer service inquiries, customizing your experience at our Sites, improving our online stores, improving our products and services, and communicating with you. 
+  * **_Purchase Related Information:_** We receive and store any information you enter on our website or that you provide to us when you enter promotions or sweepstakes or use our products or services. Some information, such as a valid email address or credit card billing information, may be necessary to purchase a game, subscribe to a newsletter or one of our services, access particular features, or otherwise transact business with us. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We may also occasionally ask you to voluntarily provide information, such as your opinions about games or your demographics none of which is required to access our products and services. As detailed more fully below, we use the information that you provide for such purposes as verifying your right to access products and services, billing, responding to your requests, customer service inquiries, customizing your experience at our Sites, improving our online stores, improving our products and services, and communicating with you. 
   
 
-  * **Information About Other People:** On some pages, you can submit information about other people. For example, if you order a gift certificate online and want it sent directly to the recipient, you will need to submit the recipient's name and email address. We use the information you provide about someone else when placing an order only to send the gift certificate and this information may be shared with companies or agents who perform this function on our behalf. We do not otherwise share this information with outside parties.
+  * **_Information About Other People:_** On some pages, you can submit information about other people. For example, if you order a gift certificate online and want it sent directly to the recipient, you will need to submit the recipient's name and email address. We use the information you provide about someone else when placing an order only to send the gift certificate and this information may be shared with companies or agents who perform this function on our behalf. We do not otherwise share this information with outside parties.
   
 
-  * **_Information We Collect Automatically:_** We receive and store certain types of information whenever you interact with us. For example, we automatically send and receive information to and from your computer which we use to automatically update (new features, bug fixes, etc.) our products and services that you have downloaded. Like many websites, we also use "cookies," and other automated tools to obtain certain types of information when your web browser accesses our Sites, and through other online interactions. Though such information will typically be used in an aggregated way to improve our products and services, some information may be used to personalize your experience, or to offer you products and services specifically based on your preferences and usage.
+  * **_Information We Collect Automatically:_** We receive and store certain types of information whenever you interact with us. For example, we may automatically send software and other information to your computer and receive non-personally identifiable information from your computer, which we will use to: 1) automatically update (with new features, bug fixes, etc.) our products and services that you have downloaded; 2) perform quality and assurance testing for our products and services; and 3) deliver information about other products and services we offer.   
+Like many websites, we also use "cookies," and other automated tools to obtain certain types of information when your Web browser accesses our Sites and through your online interactions with our Sites. Please see the section of this Privacy Policy entitled “What About Cookies” for more information about our use of “cookies”.   
+We may use the information gathered through these methods in anonymous or aggregated form to analyze ways to improve our products and services. In some cases, we may assign a unique anonymous identifier to the PopCap product or service which you have downloaded. By using the non-personally identifiable information that is associated with such identifier, we can personalize your experience, recommend products and services or make special offers to you specifically based on your preferences and usage of our products and services, without personally identifying you. 
   
 
-  * **E-mail Communications:** To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from our Sites if your computer supports such capabilities. We may also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers, and to comply with best practices and applicable legal authority. If you do not want to receive e-mail or other mail from us, please visit <http://www.popcap.com/unsubscribe.php> or send a written request to the following address:
+  * **_E-mail Communications:_** To help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from our Sites if your computer supports such capabilities. We may also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers, and to comply with best practices and applicable legal authority. If you do not want to receive e-mail or other mail from us, please visit <http://www.popcap.com/unsubscribe.php> or send a written request to the following address:
 
 PopCap Games  
 Attention: Opt-Out  
@@ -37,7 +39,11 @@ Seattle, WA 98121
 
 Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your web browser for record-keeping purposes. We use cookies on our Sites. Some cookies allow us to make it easier for you to navigate our Sites, while other cookies provide features such as such as storage of items in your Shopping Cart between visits.
 
-The Help portion of the toolbar on most browsers will tell you how to prevent your computer from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, having cookies enabled allows you to take full advantage of some of our Sites’ coolest features. 
+Third parties may also use cookies on our websites to that they can track Shopping Cart activity and direct relevant offers to you to optimize your experience with us. In addition, our third party ad serving networks may use cookies to gather non-personally identifiable information about your visits to our Site as well as other Web sites in order to target advertisements for goods and services. 
+
+The Help portion of the toolbar on most browsers will tell you how to prevent your computer from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. In addition, if a third party ad serving network is a member of the Network Advertising Initiative, you may also opt out of placement of certain ad-serving cookies used by such third party ad serving networks through this link [www.networkadvertising.org/managing/opt_out.asp ](http://www.networkadvertising.org/managing/opt_out.asp). 
+
+However, having cookies enabled allows you to take full advantage of some of our Sites’ coolest features and some of our Sites' features and services will not function properly if cookies are disabled. 
 
 ## 3\. Member Accounts, Passwords, and Invitations 
 
@@ -153,13 +159,13 @@ PopCap does not sell products for purchase by children and does not knowingly co
 
 ## 10\. Terms of Service, Notices, and Revisions 
 
-If you choose to visit PopCap, your visit and any dispute over privacy is subject to this Privacy Policy and our [Terms of Service](http://www.popcap.com/terms.php) , including applicable limitations on damages, arbitration of disputes, and application of the law of the state of Washington. If you have any concern about your privacy, please contact us with a thorough description or your question or concern, and we will try to resolve it.
+If you choose to visit PopCap, your visit and any dispute over privacy is subject to this Privacy Policy and our [Terms of Service](http://www.popcap.com/terms.php/), including applicable limitations on damages, arbitration of disputes, and application of the law of the state of Washington. If you have any concern about your privacy, please contact us with a thorough description or your question or concern, and we will try to resolve it.
 
-## 11\. Does Popcap Participate in the Safe Harbor Program? 
+## 11\. Does PopCap Participate in the Safe Harbor Program? 
 
 Yes. PopCap is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. We have certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and the E.U. For more information about the Safe Harbor and to view our certification, visit the U.S. Department of Commerce's [Safe Harbor website](http://www.export.gov/safeharbor/). If you would like to contact PopCap directly about the Safe Harbor program, please send an e-mail to [safeharbor@popcap.com](mailto:safeharbor@popcap.com).
 
-## 12\. Does Popcap Participate in BBBOnLine Privacy Program? 
+## 12\. Does PopCap Participate in BBBOnLine Privacy Program? 
 
 Yes. PopCap participates in the Council of Better Business Bureau's BBBOnLine Privacy Program. We have made a commitment to meet the program's strict requirements regarding how we treat your information and have it verified by BBBOnLine. Further information about this program is available at [http://www.bbbonline.org](http://www.bbbonline.org/)
 
