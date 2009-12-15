@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlecrash.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620062927id_/http%3A//www.articlecrash.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlecrash.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215102453id_/http%3A//www.articlecrash.com/privacy.php) for the most accurate reproduction.*
 
 # Article Directory | Free Content for Publication | RSS Feeds- Free Content for your Website!
 
