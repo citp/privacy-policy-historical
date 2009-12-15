@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uniquephones.com privacy policy that was archived on 2009-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090610010532id_/http%3A//www.uniquephones.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniquephones.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215112319id_/http%3A//www.uniquephones.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Cell Phone Unlock Codes | UniquePhones
 
