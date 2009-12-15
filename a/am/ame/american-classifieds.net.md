@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the american-classifieds.net privacy policy that was archived on 2009-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090506104311id_/http%3A//www.american-classifieds.net/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the american-classifieds.net privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215135802id_/http%3A//www.american-classifieds.net/privacypolicy.php) for the most accurate reproduction.*
 
-# US Classifieds
+# American Classifieds
 
 At american-classifieds.net (the Site) we understand and respect your concerns about privacy. We have created this Privacy Policy to provide you with notice of what information we may collect, how such information may be used or shared with third parties, and how such information relates to the operation of the Site. You are responsible for checking this page periodically for changes and updates to the Privacy Policy. Your use of the Site following any posted changes to the Privacy Policy will be deemed an acceptance of such changes. 
 
