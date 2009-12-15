@@ -1,47 +1,14 @@
-> *The following text is extracted and transformed from the searchforecast.com privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530005218id_/http%3A//www.searchforecast.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchforecast.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215031319id_/http%3A//www.searchforecast.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Search Forecast - Privacy Policy, SEO, Post Free Classifieds, Lead Generation, Website Optimization - Marc Phillips
 
-| 
-
-| Privacy Policy  
-
-
-* * *
-
-  
-  
----  
-  
-**Collecting Your Information**
-
-SearchForecast provides a range of self service diagnostic tools and complimentary reports on the website. In order to qualify users, we need information such as your names and email address.
-
-SearchForecast provides self service advertising solutions. As part of the registration process, we collect name, address, website, Social Security Number (if a US resident) in order to verify and authenticate you as a qualified publisher. 
-
-SearchForecast provides a classifieds listings service. As part of the registration process, we collect email addresses in order to verify you as a qualified advertiser.
-
-We don't share your information with third parties for marketing purposes.
-
-We often send out emails promoting Complimentary Briefs that contain insights and case studies, which are contained in our private member area.
-
-SearchForecast does not knowingly collect any information from persons under the age of 13. We will immediately remove any classified posting if we learn that it has been posted by a person under the age of 13. 
-
-Websites/people who we index in our Publisher Directory and or users who post a classified on SearchForecast, often provide external hyperlinks to other websites about which SearchForecast does not know of their privacy, content, or terms of use. SearchForecast is not responsible for, nor have any control over, the privacy policies of those third party websites. We encourage all users to read the privacy policies of each and every website visited.
-
-SearchForecast does run banner ads in the Publisher Directory web pages. These ads are served by an external organization and SearchForecast does not collect any information whatsoever on the users who click on these banner ads.
-
-SearchForecast uses both Google Analytics and Quantcast measurement services for all web pages contained on our website. We don't make available any information available to third parties.  
-  
-**Storing Your Information**
-
-All personal data from form postings are are stored in the SearchForecast database, even after "deletion," and may be archived elsewhere. 
+All personal data from form postings are are stored in the SearchForecast database, even after "deletion," and may be archived elsewhere on secure servers for only back up purposes. 
 
 All information from form postings is stored indefinitely. 
 
 SearchForecasts makes good faith efforts to store the information in a secure operating environment that is not available to the public, yet we cannot guarantee complete security. 
 
-SearchForecast Publisher Directory pages, PDF reports and classified listings are ofiten highly indexed by search engine such as Google and Yahoo! SearchForecast is not affiliated with any search engine and hence cannot guarantee the accuracy of results contained in archived search engine results pages.
+SearchForecast Publisher Directory pages are often highly indexed by search engine such as Google and Yahoo! SearchForecast is not affiliated with any search engine and hence cannot guarantee the accuracy of results contained in archived search engine results pages.
 
 **Using Your Information**
 
@@ -93,4 +60,7 @@ You are solely responsible for maintaining the secrecy of your username and pass
 **Notification of Changes**
 
 If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.  
+
+
+Last Updated: December 1, 2009  
 
