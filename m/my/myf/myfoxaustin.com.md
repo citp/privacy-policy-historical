@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the myfoxaustin.com privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413153220id_/http%3A//www.myfoxaustin.com/dpp/about_us/privacy_policy/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfoxaustin.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215210445id_/http%3A//www.myfoxaustin.com/dpp/about_us/privacy_policy/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy_Policy
 
-\-   
 Effective as of January 1, 2009 
 
 MyFoxAustin.com operates the Internet web site located at www.MyFoxAustin.com (the "MyFoxAustin.com Web site" or the "Site"). MyFoxAustin.com is part of the News America Group, which has adopted a set of Privacy Principles available at <http://www.newscorp.com/privacy.html> applicable to all its U.S.-based companies. MyFoxAustin.com has implemented those Principles in this Privacy Policy, which describes how we collect, use and share personally identifiable information ("PII") such as your full name, email address, mailing address, telephone number or credit card number we obtain from users of our Site. This Privacy Policy applies to the services offered by MyFoxAustin.com, including the Site, FoxHiLites, the MyFoxAustin.com mobile services and any other features, content, or applications offered from time to time by MyFoxAustin.com in connection with the Site (collectively, the "Services"). 
@@ -31,9 +30,9 @@ At the time you provide your PII, MyFoxAustin.com will notify you of your option
 
 Sometimes we collect PII from consumers in manual format or off-line, such as a post card or subscription form. Providing detailed notice in those situations often proves impractical, so consumers will instead be provided with a short notice that describes how to obtain the full text of this Privacy Policy and other relevant information from us. 
 
-The Services may be linked to Internet sites operated by other companies. Some of these third- party sites may be co-branded with the MyFoxAustin.com logo or an affiliated entity, even though they are not operated or maintained by MyFoxAustin.com
+The Services may be linked to Internet sites operated by other companies. Some of these third- party sites may be co-branded with the MyFoxAustin.com logo or an affiliated entity, even though they are not operated or maintained by MyFoxAustin.com (for example,
 
-(for example, co-sponsored chat pages, or advertising sponsor pages). The MyFoxAustin.com Web site may also carry advertisements from other companies. MyFoxAustin.com is not responsible for the privacy practices of Web sites operated by third parties that are linked to or integrated with the Services or for the privacy practices of third parties or Internet advertising companies. Once you've left the Services via such a link or by clicking on an advertisement, you should check the applicable privacy policy of the third parties or advertiser site to determine how they will handle any PII they collect from you. 
+co-sponsored chat pages, or advertising sponsor pages). The MyFoxAustin.com Web site may also carry advertisements from other companies. MyFoxAustin.com is not responsible for the privacy practices of Web sites operated by third parties that are linked to or integrated with the Services or for the privacy practices of third parties or Internet advertising companies. Once you've left the Services via such a link or by clicking on an advertisement, you should check the applicable privacy policy of the third parties or advertiser site to determine how they will handle any PII they collect from you. 
 
 The Services may also be linked to sites operated by companies affiliated with MyFoxAustin.com (i.e., that are part of the News America Group). Although all News America Group entities adhere to the group's Privacy Principles located at <http://www.newscorp.com/privacy.html> , visitors to those affiliated sites should still refer to their separate privacy policies and practices, which may differ in some respects from this Privacy Policy. 
 
@@ -57,9 +56,9 @@ We will not share your credit card information with third parties except those M
 
 As described in the "Notice" section above, MyFoxAustin.com may customize the advertising and marketing messages you receive on our Site, or may work with outside companies to do so. Your non-PII may be shared with these companies so this customization can be accomplished. MyFoxAustin.com prohibits these companies from sharing your information with any third party or from using it for any purpose other than targeting advertising. 
 
-MyFoxAustin.com may aggregate PII and use it anonymously. Anonymous
+MyFoxAustin.com may aggregate PII and use it anonymously. Anonymous click stream,
 
-click stream, number of page views calculated by web beacons, and aggregated demographic information may also be shared with MyFoxAustin.com's advertisers and business partners. 
+number of page views calculated by web beacons, and aggregated demographic information may also be shared with MyFoxAustin.com's advertisers and business partners. 
 
 There may be instances when MyFoxAustin.com may access or disclose PII or non-PII without providing you with a choice in order to: (i) protect or defend the legal rights of MyFoxAustin.com, other companies within the News America Group or their employees, agents and contractors (including enforcement of our agreements); (ii) to protect the safety and security of users of the Services or members of the public including acting in urgent circumstances; (iii) to protect against fraud or for risk management purposes; (iv) or to comply with the law or legal process. In addition, if MyFoxAustin.com sells all or part of its business or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, MyFoxAustin.com may transfer your PII to a third party as part of that transaction. 
 
