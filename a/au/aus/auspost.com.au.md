@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auspost.com.au privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623174233id_/http%3A//www.auspost.com.au/APC/CDA/Site_Governance/APC_CDA_Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auspost.com.au privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215133619id_/http%3A//www.auspost.com.au/APC/CDA/Site_Governance/APC_CDA_Privacy_Policy) for the most accurate reproduction.*
 
 # Australia Post - Privacy Policy
 
@@ -10,13 +10,8 @@
 |   
 |  |   
 ---  
-| 
-
-Australia Post is committed to working with its customers to obtain a fair resolution of any complaint or concern about privacy.  
-  
-| 
-
-To contact us with a compliment or complaint; [please select your contact type from the list provided.](http://www.auspost.com.au/CUP/0,1460,CHNONE%257EMO19,00.html)
+| Australia Post is committed to working with its customers to obtain a fair resolution of any complaint or concern about privacy.   
+|  To contact us with a compliment or complaint; [please select your contact type from the list provided](http://www.auspost.com.au/CUP/0,1460,CHNONE%257EMO19,00.html). 
 
 To contact us with a privacy question [email](https://www.auspost.com.au/APC/CDA/Forms/APC_CDA_Specific_Enquiry_Form/0,1472,CH4543%257EMO19,00.html) or write to us at:
 
@@ -27,9 +22,7 @@ To contact us with a privacy question [email](https://www.auspost.com.au/APC/CDA
   
 |   
 ---  
-| 
-
-Australia Post complies with the:
+| Australia Post complies with the: 
 
   * Information Privacy Principles contained in the Privacy Act 1988 (Cth) in relation to its non-commercial activities; 
   * National Privacy Principles contained in the Privacy Act 1988 (Cth) in relation to its commercial activities; 
@@ -57,7 +50,7 @@ At Australia Post, we know that when you give us your personal information it im
 
 This Privacy Statement describes the information that may be collected on Australia Post websites, the choices you can make about your personal information and how we protect your personal information.
 
-Our Corporate Privacy Policy provides information on how we protect other types of personal information, such as suppliers, business partners or job applicants. Read the Australia Post [Corporate Privacy Policy.](https://web.archive.org/APC/CDA/Site_Governance/APC_CDA_Privacy_Policy/AP_privacy_policy.pdf)  
+Our Corporate Privacy Policy provides information on how we protect other types of personal information, such as suppliers, business partners or job applicants. Read the Australia Post [Corporate Privacy Policy](https://web.archive.org/APC/CDA/Site_Governance/APC_CDA_Privacy_Policy/AP_privacy_policy.pdf).  
   
 **Sites Covered by This Statement**  
   
@@ -353,8 +346,11 @@ We will post changes to this online statement and publish the effective date whe
   
   
   
-**Last updated: September 2007**  
+**Last updated: June 2008**  
   
+**2008 Update**  
+Substantial changes were made to the Privacy Policy. This update was to: simplify the content and style to improve readability; includes more detailed information on children's privacy; disclosure of customer information under the Australian Postal Corporation Act 1989 (Cth); and the examination of articles.
+
 **2007 Update**  
 No substantive changes were made to the Privacy Statement. This update was to: clarify and simplify the content to improve readability; add information about how to manage cookies, and to indicate the addition of a children's privacy statement.
 
