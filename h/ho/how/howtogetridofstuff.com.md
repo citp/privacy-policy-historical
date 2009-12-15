@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the howtogetridofstuff.com privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608103514id_/http%3A//www.howtogetridofstuff.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtogetridofstuff.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215095600id_/http%3A//www.howtogetridofstuff.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - HowToGetRidofStuff.com
+# Privacy Policy - howtogetridofstuff.com
 
 Hi! The section below is our privacy statement. It tells you what information we collect about you and how we use it. It should be pretty easy to understand, but if you have any questions about it please contact us [here](http://www.howtogetridofstuff.com/submit-a-problem/) and we’d be happy to explain anything to you in plain english.
 
