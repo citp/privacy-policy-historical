@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ruelala.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621234142id_/http%3A//www.ruelala.com/common/privacyModal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ruelala.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215094508id_/http%3A//www.ruelala.com/common/privacyModal) for the most accurate reproduction.*
 
 # 
 
@@ -22,6 +22,8 @@ We use personally identifiable information in order to give you a more enjoyable
 
 We may permit certain trusted third parties to access your information in connection with their performance of services to maintain and operate the Site and certain features on the Site. For example, we may use third parties to host the Site; operate various features available on the Site; send emails; analyze data; provide search results and links and assist in fulfilling your orders. 
 
+From time to time, we may share your personally identifiable information in connection with strategic relationships. Some of these strategic relationships may include operating a co-branded website or web pages with a strategic partner. You should be aware that these co-branded sites may collect different or additional information. Additionally, we may provide links on our Site to websites controlled by third parties. We have no control over these websites and our privacy policy does not apply to these third party websites. Please consult the privacy policy of the website you are visiting. 
+
 Also, we may share personally identifiable or other information with our parent, subsidiaries, divisions, and affiliates. Rue La La is a division of Retail Convergence.com, LP. 
 
 Occasionally, we provide our postal mailing list (consisting of customer names and postal mailing addresses, but not email addresses) to other companies whose products we believe may be of interest to you. In order to determine those products that we believe may be of interest to you, the information that you give us and information about your order may be combined with other personally identifiable information (such as demographic information and past purchase history) available from our records and other sources. 
@@ -32,8 +34,6 @@ We reserve the right to disclose information in order to comply with a subpoena,
 
 If you use a bulletin board, chat room or any other publicly accessible area of the Site, you should be aware that any personally identifiable information you submit there can be read, collected or used by any person for any purpose. We are not responsible for the personally identifiable or other information you choose to submit in these forums. 
 
-You will receive notice when we might provide your personally identifiable information to any third party for any reason other than as set forth in this Privacy Policy, and you will have an opportunity to request that we not share such information. 
-
 We use non-personally identifiable information in the aggregate, so that we can improve the Site and for business and administrative purposes. We may also use or share with third parties for any purpose aggregated data that contains no personally identifiable information. 
 
 **How We Protect Your Information**  
@@ -42,7 +42,7 @@ We are committed to protecting the information we receive from you. We follow re
 The Site encrypts your credit card number and other personal information using secure socket layer (SSL) technology to provide for the secure transmission of the information from your PC to our servers. In addition, only those employees and third parties who need access to your information in order to perform their duties are allowed such access. 
 
 **Accessing and Updating Your Personal Information and Preferences**  
-If you are a registered user, you may access and update your registration information and your preferences to receive email or other communications from us by visiting the "My Account" section of the Site or by sending an email to [AtYourService@RueLaLa.com](mailto:AtYourService@RueLaLa.com). Please note that your friends and contacts may still choose to send email invitations to you. Any user who receives an email invitation to join the Site may choose not to receive such invitations in the future by following the instructions in the email invitations and, in addition, if you are a member, you may also choose not to receive such invitations by changing your preferences as indicated above. We will take commercially reasonable steps to implement your opt-out requests promptly, but you may still receive communications from us for up to ten business days as we process your request. 
+If you are a registered user, you may access and update your registration information and your preferences to receive email or other communications from us by sending an email to [AtYourService@RueLaLa.com](mailto:AtYourService@RueLaLa.com). Please note that your friends and contacts may still choose to send email invitations to you. Any user who receives an email invitation to join the Site may choose not to receive such invitations in the future by following the instructions in the email invitations and, in addition, if you are a member, you may also choose not to receive such invitations by changing your preferences as indicated above. We will take commercially reasonable steps to implement your opt-out requests promptly, but you may still receive communications from us for up to ten business days as we process your request. 
 
 While we make efforts to accommodate requests to restrict our use of your information, we reserve the right to delete all or any portion of customer information if we are not able to reasonably accommodate a requested restriction. 
 
@@ -55,10 +55,10 @@ If we decide to change our Privacy Policy for the Site, we will post the revised
 If you have any questions about this Privacy Policy, please contact us at: 
 
 Rue La La  
-10 Milk Street, 8th Floor  
-Boston, MA 02108  
+20 Channel Center  
+Boston, MA 02210  
 1-888-992-LALA (5252)  
 [AtYourService@RueLaLa.com](mailto:AtYourService@RueLaLa.com)
 
-Last Updated: Feburary 4, 2009  
+Last Updated: June 16, 2009  
 © 2008 - 2009 Retail Convergence.com, LP. All rights reserved. 
