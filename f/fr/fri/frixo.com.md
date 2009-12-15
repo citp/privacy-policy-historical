@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frixo.com privacy policy that was archived on 2009-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090606192546id_/http%3A//www.frixo.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frixo.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215131206id_/http%3A//www.frixo.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,4 +20,4 @@ We take email privacy very seriously with users of our website. Any Email addres
 
 ## Contact
 
-If you have any queries regarding our privacy policy, please [contact us](https://web.archive.org/web/20090606192546id_/http%3A//www.frixo.com/support.html) and we'll be happy to answer any of your questions. 
+If you have any queries regarding our privacy policy, please [contact us](https://web.archive.org/web/20091215131206id_/http%3A//www.frixo.com/support.html) and we'll be happy to answer any of your questions. 
