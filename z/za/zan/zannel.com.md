@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zannel.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616151632id_/http%3A//corp.zannel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zannel.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215150846id_/http%3A//corp.zannel.com/privacy) for the most accurate reproduction.*
 
 # Zannel » privacy
 
