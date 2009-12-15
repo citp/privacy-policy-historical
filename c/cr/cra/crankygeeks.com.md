@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crankygeeks.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616110619id_/http%3A//www.pcmagnetwork.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crankygeeks.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215205526id_/http%3A//www.pcmagnetwork.com/about/privacy) for the most accurate reproduction.*
 
 # PCMag Digital Network : Privacy Policy
 
