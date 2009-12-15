@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allbestarticles.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620161646id_/http%3A//allbestarticles.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allbestarticles.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215212151id_/http%3A//www.allbestarticles.com/Privacy) for the most accurate reproduction.*
 
-# 
+# None
 
 ## AllBestArticles.com Privacy Policy Overview
 
@@ -17,7 +17,7 @@ This Privacy Policy covers the our treatment of personal information that is rec
 We only use cookies to record session information so we can remember you when you come back to our website without requiring you to log-in every time.  
 There are two types of cookies: a persistent cookie and a session cookie. A persistent cookie gets entered by your Web browser into the cookie folder on your computer's hard drive. A persistent cookie remains in that cookie folder, which is maintained and governed by your Web browser, after you close your browser program. A session cookie is temporary and disappears after you close your browser.   
 Advertising partners (like Google) may use cookies to collect non-personally identifiable information (that doesn't include your name, address, email or phone number) about your visit to our site in order to provide advertisements about goods and services that may be of interest to you. We have no access to or control over these cookies, and this privacy policy does not govern the use of cookies by our business partners or advertisers.   
-For further information and option to opt out and avoid they can use the above data, consult the privacy policies of Google at http://www.google.com/privacy_ads.html   
+Google uses the DART cookie, which enables it to serve ads to our users based on their visits to this site and other sites on the Web. For further information and option to opt out and avoid they can use the above data, consult the privacy policies of Google at http://www.google.com/privacy_ads.html   
 
   * **Log Files:** We gather certain anonymous, non-personal information automatically and store it in web server log files. For each visitor to our Web page, our Web server automatically recognizes the consumer's IP Address, Browser Information (such as client, and version), Username (If registered), Referring page, pages viewed on our servers and duration of each page view. We use IP addresses to analyse trends, administer the site, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
   * You can set your web browser software to disable cookies. To do so, please refer to the help section of your specific browser for more information on how to manage or disable cookies. If you disable cookies, you may still view our site, but some areas of our site will not work properly 
