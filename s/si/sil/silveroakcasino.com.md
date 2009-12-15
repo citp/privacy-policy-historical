@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the silveroakcasino.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617065806id_/http%3A//www.silveroakcasino.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silveroakcasino.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215213030id_/http%3A//www.silveroakcasino.com/privacy-policy) for the most accurate reproduction.*
 
-# Silver Oak Casino Privacy Policy | Silver Oak Casino
+# Silver Oak Casino Privacy Policy | Online Casino Games | Silver Oak Casino
 
 Welcome to [Silver Oak Casino](http://www.silveroakcasino.com/), as a company we respect the privacy of our visitors and customers. Below you will find a pretty long legal document highlighting all of our terms when it comes to respecting your privacy. It's long has alot of legal terms in there and what it really says is that we respect your privacy.
 
