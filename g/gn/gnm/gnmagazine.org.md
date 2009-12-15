@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gnmagazine.org privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617172121id_/http%3A//www.gnmagazine.org/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gnmagazine.org privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215034604id_/http%3A//www.gnmagazine.org/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy: gnmagazine.org
 
@@ -13,14 +13,14 @@ Cincinnati, OH 45254-1027
 
 We can be reached via e-mail at [info@ucg.org](mailto:info@ucg.org) or you can reach us by telephone at 513-576-9796. Send technical inquiries about this Web site to [webmaster@ucg.org](mailto:webmaster@ucg.org)
 
-We collect information volunteered by you, such as your e-mail address for _The Good News_ Reader Update (monthly e-mail newsletter), your e-mail address and your friends e-mail address when you request "to send an article to a friend," and postal address for any free literature ( _The Good News_ magazine, booklets, _Bible Study Course_ , etc.) requested for yourself or a friend.
+We collect information volunteered by you, such as your e-mail address for _The Good News_ E-mail Newsletter (a twice monthly e-mail newsletter), your e-mail address and your friends e-mail address when you request "to send an article to a friend," and postal address for any free literature ( _The Good News_ magazine, booklets, _Bible Study Course_ , etc.) requested for yourself or a friend.
 
 We collect information about you and your use of _The Good New_ Web site whenever you visit. For example, we may collect various forms of information such as site traffic statistics, page views, operating system and browser type, and IP address. This information gathered will not personally identify you.
 
 The information we collect is used to:  
 1\. Improve the design and content of our Web site  
 2\. Notify you of any updates to our Web site  
-3\. Send monthly e-mail newsletters ( _The Good News_ Reader Update)  
+3\. Send bi-weekly e-mail newsletters ( _The Good News_ E-mail Newsletter)  
 4\. Send e-mail with link to article to you or a friend (Send Article to a Friend)  
 5\. Mail requested literature to you or a friend.
 
