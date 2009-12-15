@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reed.co.uk privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609222850id_/http%3A//www.reed.co.uk/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reed.co.uk privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215013238id_/http%3A//www.reed.co.uk/Privacy.aspx) for the most accurate reproduction.*
 
 # reed.co.uk - Privacy
 
