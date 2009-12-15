@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vimby.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616140404id_/http%3A//vimby.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vimby.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215144916id_/http%3A//www.vimby.com/privacy) for the most accurate reproduction.*
 
 # VIMBY : Music Videos : DJ Videos : Hip Hop Videos : Surf Videos : Skateboard Videos : BMX Videos : Tattoo Videos : Graffiti Videos : And More : Vimby.com
 
