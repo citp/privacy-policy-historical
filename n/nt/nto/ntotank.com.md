@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ntotank.com privacy policy that was archived on 2009-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090520022736id_/http%3A//www.ntotank.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntotank.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215145918id_/http%3A//www.ntotank.com/privacypolicy.html) for the most accurate reproduction.*
 
 # NATIONAL TANK OUTLET 888-686-8265 Low Price Guaranteed!
 
-Over 30 DIFFERENT SHIPPING LOCATIONS! WE GUARANTEE THE LOWEST PRICES! WE WILL BEAT ANY PRICE ON ALL OUR TANKS! WE ARE THE BEST AT WHAT WE DO!
+Over 30 DIFFERENT SHIPPING LOCATIONS! WE GUARANTEE THE LOWEST PRICES! WE WILL BEAT ANY PRICE ON ALL OUR PLASTIC TANKS! WE ARE THE BEST AT WHAT WE DO!
 
  _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/details.html) for more information about how Yahoo! uses this information._
 
