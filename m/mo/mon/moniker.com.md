@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moniker.com privacy policy that was archived on 2009-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090606041354id_/http%3A//www.moniker.com/help/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moniker.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215162002id_/http%3A//www.moniker.com/help/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Notice - moniker.com
 
