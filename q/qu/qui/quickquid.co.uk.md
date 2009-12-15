@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickquid.co.uk privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616122121id_/http%3A//www.quickquid.co.uk/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickquid.co.uk privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215183515id_/http%3A//www.quickquid.co.uk/privacy_policy.html) for the most accurate reproduction.*
 
 # Payday Loans: Cash Advances & Payday Loans @ www.quickquid.co.uk
 
@@ -45,6 +45,7 @@ When you provide your Personal Data, you are consenting to sharing it with CashE
   * Service Providers: We contract with service providers to perform certain functions on our behalf. Examples include database providers who assist in identity verification, credit scoring companies, magazine publishers, retailers, and direct marketers. Their access is limited only to the Personal Data needed to perform their functions, and only for the purpose of performing those functions, and they are prohibited from using or disclosing the Personal Data for other purposes. 
   * Related Company/Group Transfers: CashEuroNetUK is part of a larger group of related companies and may need to disclose customer Personal Data to its affiliates from time to time for administrative and compliance purposes, including the group parent company, Cash America International, Inc.
   * Fraud Prevention: If false or inaccurate information is provided, including in relation to a person's identity and fraud is identified, details about this information, including customer Personal Data, will be passed to fraud prevention agencies. Law enforcement agencies may access and use this information. We and other organisations may also access and use this information to prevent fraud and money laundering, for example when: checking details on applications for credit and credit related and other facilities; managing credit and credit related accounts or other facilities; recovering debt; checking details on proposals and claims for all types of insurance; and checking details of job applicants and employees. We and other organizations may access and use from other countries the information recorded by fraud prevention agencies. For further details of the relevant fraud prevention agencies please contact us as described at the end of this Privacy Policy.
+  * Marketing Partners: we may pass your Personal Data to carefully selected third parties who may use it to contact you by post, telephone, email, SMS or other reasonable methods in relation to their, or to other third parties', products or services.
   * Other Disclosures: In accordance with our customary practices and those in our industry, we disclose information about your transactions with us to credit bureaus. If necessary or appropriate in connection with the sale or transfer of the loans or all or part of the business, we disclose relevant Personal Data to third party purchasers. We also release personal and account Personal Data if it becomes necessary for compliance with law or to protect the rights, property, or safety of our Website, our users, or third parties. We reserve the right to release such Personal Data to law enforcement or other governmental officials as we, in our sole and absolute discretion, deem necessary to comply with the law. 
   * With Your Consent: Other than as set out above, you will receive notice when Personal Data about you may be shared with third parties not described above, and you will have an opportunity to choose not to share the Personal Data. 
 
@@ -91,12 +92,12 @@ If you have any concern about privacy or have any questions or comments, please 
 QuickQuid  
 
 
-Communications House  
-26 York Street
+2nd Floor,  
+145-157 St. John Street
 
 London
 
-W1U 6PZ
+EC1V 4PY
 
 Free phone: 0808 234 4558  
 Email: [support@quickquid.co.uk](mailto:support@quickquid.co.uk)
