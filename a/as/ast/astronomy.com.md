@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the astronomy.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627132114id_/http%3A//www.kalmbach.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astronomy.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215153713id_/http%3A//www.kalmbach.com/privacy) for the most accurate reproduction.*
 
-# Kalmbach Publishing Co. - Hobby, craft, leisure time magazines, books, events, shows - Kalmbach Publishing Co. Privacy Policy
-
-Last modified: June 19, 2008.
+# Kalmbach Publishing Co. - Kalmbach Publishing Co Privacy Policy
 
 Kalmbach Publishing Co. is committed to providing service that exceeds expectations while treating all customers as VIPs. This includes maintaining your privacy and that of the members of your family, when it comes to use of any "personally identifiable information" you may voluntarily provide us via the Internet or otherwise.
 
@@ -10,47 +8,39 @@ We believe it is important to explain our information gathering practices and th
 
 This explanation of our privacy policy answers the following questions:
 
-* How and what kinds of information does Kalmbach and its affiliated entities collect? 
-  
+  * How and what kinds of information does Kalmbach and its affiliated entities collect?   
 
-* How is this information used?
-  
+  * How is this information used?  
 
-* What can customers do to retain their privacy? 
-  
+  * What can customers do to retain their privacy?   
 
-* What special policies, precautions and safeguards are employed with regard to children? 
+  * What special policies, precautions and safeguards are employed with regard to children?   
 
-**Gathering Information**  
+
+****
+
+**  
+Gathering Information**  
 Kalmbach Publishing Co. is the publisher of the following magazines and web sites: American Snowmobiler, Astronomy, Art Jewelry, Bead&Button, BeadStyle, Birder's World, Classic Toy Trains, Classic Trains, FineScale Modeler, Garden Railways, Model Railroader, Model Retailer, Scale Auto, Trains, and The Writer.
 
 Kalmbach Publishing Co. is also the host for:
 
   
 
-  * [www.beadandbuttonshow.com ](http://www.beadandbuttonshow.com/)
-  
+  * [www.beadandbuttonshow.com ](http://www.beadandbuttonshow.com/)  
 
-  * [Bead&Button Show Online Registration ](http://store.yahoo.com/beadandbuttonshow/)
-  
+  * [Bead&Button Show Online Registration ](http://store.yahoo.com/beadandbuttonshow/)  
 
-  * [www.beadshopfinder.com ](http://www.beadshopfinder.com/)
-  
+  * [www.beadshopfinder.com ](http://www.beadshopfinder.com/)  
 
-  * [www.hobbyretailer.com ](http://www.hobbyretailer.com/)
-  
+  * [www.hobbyretailer.com ](http://www.hobbyretailer.com/)  
 
-  * [Kalmbach Online Catalog ](http://store.yahoo.net/kalmbachcatalog/)
-  
+  * [Kalmbach Online Catalog ](http://www.kalmbachstore.com/)  
 
-  * [Bead, Jewelry and Crafts Store](http://www.beadandcraftbooks.com/)
-  
+  * [Model Train Magazine Index ](http://index.mrmag.com/)  
 
-  * [Model Train Magazine Index ](http://index.mrmag.com/)
-  
+  * [Trade Sales & Service - B2B ](http://retailers.kalmbach.com/)  
 
-  * [Trade Sales & Service - B2B ](http://retailers.kalmbach.com/)
-  
 
 
 
@@ -93,6 +83,3 @@ Waukesha, WI 53187-1612
 800-533-6644 (US & Canada)  
 262-796-8776  
 262-796-1615 (fax) 
-
-|   
----|---
