@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the marks.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503105035id_/http%3A//www2.marks.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marks.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215040610id_/http%3A//www2.marks.com/Privacy.asp) for the most accurate reproduction.*
 
-# Mark's Work Wearhouse
+# Mark's Work Wearhouse :: Clothes That Work
 
-E-CAST OFFERS  
-[Sign up now >](https://web.archive.org/web/20090503105035id_/http%3A//www2.marks.com/rewardsClub.asp)
+## E-CAST  
+OFFERS
 
-[](http://www2.marks.com/ourguarantee.asp)
+[Sign Up Now >](https://web.archive.org/web/20091215040610id_/http%3A//www2.marks.com/RewardsClub.asp)
 
-[](http://www2.marks.com/category.asp?categoryID=231)  
-Clothes that make a difference  
-[to your life and your wardrobe. Find out more. >](http://www2.marks.com/category.asp?categoryID=231)
+[](http://www2.marks.com/OurGuarantee.asp)   
+[](http://www.mediaservicesgroup.net/marks/ecast/dec08_fastfind/index.html)
 
 |  | 
 
@@ -153,8 +152,10 @@ If your questions, concerns or complaints have not been resolved to your satisfa
 
 |  | 
 
-SHOPPING CART  
-View items >
+## SHOPPING  
+CART
+
+View Items >
 
 [](http://www2.marks.com/category.asp?categoryID=1)  
 Men's Apparel and Footwear  
