@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nymag.com privacy policy that was archived on 2009-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090616064400id_/http%3A//nymag.com/newyork/privacy/index.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nymag.com privacy policy that was archived on 2009-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091215210733id_/http%3A//nymag.com/newyork/privacy/index.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -26,27 +26,22 @@
 
 <link type="text/css" rel="stylesheet" href="http://cache.nymag.com/css/print/print.css" media="print">
 
-<script type="text/javascript" src="http://cache.nymag.com/js/2/scripts.js"></script>
+
+<script type="text/javascript" charset="utf-8">
+	var date = 'December 15, 2009 16:07:33';
+	var currDate=new Date(date);
+</script>
+<script type="text/javascript" src="http://cache.nymag.com/scripts/ad_manager.js"></script>
 <script type="text/javascript" src="http://cache.nymag.com/js/2/global.js"></script>
-<script src="http://cache.nymag.com/js/2/metrony_global.js" language="JavaScript"></script>
-<script src="http://cache.nymag.com/js/2/metrony_ads.js" language="JavaScript"></script>
-<script language="javascript1.2" src="http://cache.nymag.com/js/2/clickability.js"></script>
-
-
-
-
-
+<script type="text/javascript" src="http://cache.nymag.com/js/2/scripts.js"></script>
+<script type="text/javascript" src="http://cache.nymag.com/js/2/clickability.js"></script>
 
 
 </head>
 <body id="www-newyorkmag-com" class="aboutus ad-column-180 text-sizer">
 <div id="wrap">
 <div id="brand">
-	<script language="JavaScript">
-<!--
-	SetSection(gHome);
-//-->
-</script>
+
 
 	<div id="mast">
 		<div id="utilities">
@@ -64,8 +59,8 @@
 					</li>
 								
 				</ul><!-- /end .global -->
-				<p class="wx"><a title="Click for the five-day forecast" href="http://nymag.com/weather/">Few Clouds 57°
-<!-- weather update: Tue Jun 16 02:30:02 EDT 2009 -->
+				<p class="wx"><a title="Click for the five-day forecast" href="http://nymag.com/weather/">Mostly Cloudy 51°
+<!-- weather update: Tue Dec 15 16:00:02 EST 2009 -->
  »&nbsp;5-day</a></p>
 			
 			</div><!-- /end .main -->
@@ -82,31 +77,38 @@
                                 </ul>
                        </dd>
 		</dl>
-        <dl class="membership" id="logged_out_bar" styale="display:none;">
+        <dl class="membership" id="logged_out_bar">
                         <dt> You are not logged in </dt>
 							<dd>
                                 <ul>
-									<li class="first"><a href="https://secure.nymag.com/accountcenter/login.cgi">Log In</a></li>
-									<li><a href="https://secure.nymag.com/registration/">Register</a></li>
+									<li class="first"><a href="https://secure.nymag.com/accountcenter/login.cgi" class="login-lightbox">Log In</a></li>
+									<li><a href="https://secure.nymag.com/registration/" class="register-lightbox">Register</a></li>
                                 </ul>
                        		</dd>             
         </dl><!-- /end .membership -->
-
-<script type="text/javascript">
-updateLoginMessage();
-</script>
+		<script type="text/javascript">
+			$nymag_j("#logged_out_bar").after("<div id='popup-lightbox'></div>");
+			updateLoginMessage();
+			initPopup();
+			$nymag_j("#logged_out_bar a.register-lightbox").click(function(){ return loadRegister("#popup-lightbox") });
+			$nymag_j("#logged_out_bar a.login-lightbox").click(function(){ return loadLogin("#popup-lightbox") });
+		</script>
 
 		</div><!-- /end #utilities -->
  
 <h1 id="logo"><a href="http://www.nymag.com/"><img src="http://images.nymag.com/images/2/nymag-home.gif" alt="New York Magazine"></a></h1>
 	<div id="ad-top">
-	<div id="260x60">
-		<script type="text/javascript">
-		<!--
-		Insert260x60();
-		//-->
-		</script>
-	</div>
+	<script type="text/javascript">
+		window.nymag.dcads.scheduler();
+		if(window.nymag.dcads.splash && typeof layouts[window.nymag.dcads.sect] != "undefined"){
+			if(layouts[window.nymag.dcads.sect].top.on){
+				window.nymag.dcads.write_dc_ad(layouts[window.nymag.dcads.sect].top.adParams);
+				$nymag_j(layouts[window.nymag.dcads.sect].top.hide_elements).hide();
+			}
+		} else{
+			window.nymag.dcads.write_dc_ad({"sz":"260x60", "printWrap":false});
+		}
+	</script>
 </div>
 				
 </div>
@@ -116,76 +118,102 @@ updateLoginMessage();
 	<p class="ineffable"><a href="#content">Skip to content</a>, or <a href="#search">skip to search</a>.</p>
 	
 <div id="navigation">
-<!--<script type="text/javascript" language="JavaScript" src="/js/2/navigation.js"></script>-->
-		<div id="nav">
-			<div id="nav-primary">
-				<ul class="nav">
-					<li id="nav-news" class="top"><a class="top" href="/news/">News &amp; Features</a>
-						<div class="sub" id="sub_nav_news"></div><!-- /end .sub -->
-					</li>
-					<li id="nav-rest" class="top"><a class="top" href="/restaurants/">Restaurants</a>
-						<div class="sub" id="sub_nav_rest"></div><!-- /end .sub -->	
-					</li>
-					<li id="nav-bars" class="top"><a class="top" href="/nightlife/">Bars</a>
-						<div class="sub" id="sub_nav_bars"></div><!-- /end .sub -->
-					</li>
-					<li id="nav-entr" class="top"><a class="top" href="/arts/">Entertainment</a>
-						<div class="sub" id="sub_nav_entr"></div><!-- /end .sub -->
-					</li>
-					<li id="nav-fash" class="top"><a class="top" href="/fashion/">Fashion</a>
-						<div class="sub" id="sub_nav_fash"></div><!-- /end .sub -->
-					</li>
-					<li id="nav-shop" class="top"><a class="top" href="/shopping/">Shopping</a>
-						<div class="sub" id="sub_nav_shop"></div><!-- /end .sub -->													</li>
-				</ul>
+<div id="nav">
+	<div id="nav-primary">
+		<ul class="nav">
+			<li id="nav-news" class="top"><a class="top" href="/news/?f=news">News &amp; Features</a>
+				<div class="sub" id="sub_nav_news">
+					
+				</div><!-- /end .sub -->
+			</li>
+			<li id="nav-rest" class="top"><a class="top" href="/restaurants/?f=food">Restaurants</a>
+				<div class="sub" id="sub_nav_rest">
+					
+				</div><!-- /end .sub -->	
+			</li>
+			<li id="nav-bars" class="top"><a class="top" href="/nightlife/?f=bars">Bars</a>
+				<div class="sub" id="sub_nav_bars">
+					
+				</div><!-- /end .sub -->
+			</li>
+			<li id="nav-entr" class="top"><a class="top" href="/arts/?f=arts">Entertainment</a>
+				<div class="sub" id="sub_nav_entr">
+					
+				</div><!-- /end .sub -->
+			</li>
+			<li id="nav-fash" class="top"><a class="top" href="/fashion/?f=fashion">Fashion</a>
+				<div class="sub" id="sub_nav_fash">
+					
+				</div><!-- /end .sub -->
+			</li>
+			<li id="nav-shop" class="top"><a class="top" href="/shopping/?f=shop">Shopping</a>
+				<div class="sub" id="sub_nav_shop">
+					
+				</div><!-- /end .sub -->													</li>
+		</ul>
 
-                               <div class="ny-sitemap">
+                         <div class="ny-sitemap">
 
-                                      <ul>
+                                <ul>
 
-                                              <li id="ny-sitemap" class="top"><a class="top" href="/sitemap/">Sitemap</a>
-                                                     <div id="ny-sitemap-content" class="menu"></div>
-                                              </li>
+                                        <li id="ny-sitemap" class="top"><a class="top" href="/sitemap/?f=sitemap">Sitemap</a>
+                                               <div id="ny-sitemap-content" class="menu"></div>
+                                        </li>
 
-                                      </ul>
+                                </ul>
 
-                               </div><!-- /end .ny-sitemap -->
-			</div><!-- /end #nav-primary -->
+                         </div><!-- /end .ny-sitemap -->
+	</div><!-- /end #nav-primary -->
 
-			<div id="nav-secondary">
+	<div id="nav-secondary">
 
-				<ul class="subscribe">
-					<li><a href="/redirects/circ_subscribe/"><b>Subscribe Today</b></a></li>
-					<li class="last"><a href="/redirects/circ_gifts/">Give a Gift</a></li>
-				</ul><!-- /end .subscribe -->
+		<ul class="subscribe">
+			<li><a href="http://nymag.com/redirects/circ_subscribe/" target="_blank"><b>Subscribe Today</b></a></li>
+			<li class="last"><a href="http://nymag.com/redirects/circ_gifts/">Give a Gift</a></li>
+		</ul><!-- /end .subscribe -->
 
 
-				<ul class="nav">
-						<li class="top"><a id="nav-trav" class="top" href="/travel/">Travel<i></i></a>
-							<div id="sub_nav_trav"></div>
-						</li>														
-						<li class="top"><a id="nav-real" class="top" href="/realestate/">Real Estate<i></i></a>
-							<div id="sub_nav_real"></div>
-						</li>
-						<li class="top"><a id="nav-visit" class="top" href="/visitorsguide">Visitors’ Guide<i></i></a>
-							<div id="sub_nav_visit"></div>
-						</li>
-						<li class="top"><a id="nav-kids" class="top" href="/family/kids/">Kids<i></i></a>
-							<div id="sub_nav_kids"></div>					
-						</li>
-						<li class="top"><a id="nav-beauty" class="top" href="/beauty/">Beauty<i></i></a>
-							<div id="sub_nav_beauty"></div>
-						</li>
-						<li><a id="nav-weddings" class="no-subnav" href="/weddings/">Weddings<i></i></a></li>												
-						<li><a id="nav-bestdocs" class="no-subnav" href="/bestdoctors/">Best Doctors<i></i></a>	</li>															
-						<li><a id="nav-classifieds" class="no-subnav" href="/marketplace/">Classifieds<i></i></a></li>
-						<li class="top last"><a id="nav-bony" class="top" href="/bestofny/"><b>Best of <abbr title="New York">NY</abbr></b><i></i></a>
-							<div id="sub_nav_bony"></div>						
-						</li>
-				</ul><!-- /end .nav -->
-			</div><!-- /end .secondary -->
-		</div><!-- /end #nav -->
+		<ul class="nav">
+				<li class="top"><a id="nav-trav" class="top" href="/travel/">Travel<i></i></a>
+					<div id="sub_nav_trav">
+						
+					</div>
+				</li>														
+				<li class="top"><a id="nav-real" class="top" href="/realestate/">Real Estate<i></i></a>
+					<div id="sub_nav_real">
+						
+					</div>
+				</li>
+				<li class="top"><a id="nav-visit" class="top" href="/visitorsguide">Visitor’s Guide<i></i></a>
+					<div id="sub_nav_visit">
+						
+					</div>
+				</li>
+				<li class="top"><a id="nav-kids" class="top" href="/family/kids/">Kids<i></i></a>
+					<div id="sub_nav_kids">
+						
+					</div>					
+				</li>
+				<li class="top"><a id="nav-beauty" class="top" href="/beauty/">Beauty<i></i></a>
+					<div id="sub_nav_beauty">
+						
+					</div>
+				</li>
+				<li><a id="nav-weddings" class="no-subnav" href="/weddings/">Weddings<i></i></a></li>												
+				<li><a id="nav-bestdocs" class="no-subnav" href="/bestdoctors/">Best Doctors<i></i></a>	</li>															
+				<li><a id="nav-classifieds" class="no-subnav" href="/marketplace/">Classifieds<i></i></a></li>
+				<li class="top last"><a id="nav-bony" class="top" href="/bestofny/"><b>Best of <abbr title="New York">NY</abbr></b><i></i></a>
+					<div id="sub_nav_bony">
+						
+					</div>						
+				</li>
+		</ul><!-- /end .nav -->
+	</div><!-- /end .secondary -->
+</div><!-- /end #nav -->
 
+<script type="text/javascript" charset="utf-8">
+	window.nymag.nav.set();
+</script>
  
 	</div>	<!-- /end #navigation -->
 	
@@ -491,18 +519,18 @@ For the convenience of our visitors, we may offer a list of helpful website link
 									<dd>
 										<ul>
 										
-											<li><script language="JavaScript">document.write('<a href="http://digg.com/submit?phase=2&url='+document.location.href+'&title='+document.title+'" title="Digg This"><img alt="Share this entry with Digg" src="/images/2/tool-digg.gif"/></a>');</script><a href="http://digg.com/submit?phase=2&amp;url=https://web.archive.org/web/20090616064400id_/http://nymag.com/newyork/privacy/&amp;title=New York Magazine - Nymag.com - Privacy Policy" title="Digg This"><img alt="Share this entry with Digg" src="/images/2/tool-digg.gif"></a></li>
-											<li><script language="JavaScript">document.write('<a href="http://reddit.com/submit?url='+document.location.href+'&title='+document.title+'" title="Reddit This"><img alt="Share this entry with Reddit" src="/images/2/tool-reddit.gif"/></a>');</script><a href="http://reddit.com/submit?url=https://web.archive.org/web/20090616064400id_/http://nymag.com/newyork/privacy/&amp;title=New York Magazine - Nymag.com - Privacy Policy" title="Reddit This"><img alt="Share this entry with Reddit" src="/images/2/tool-reddit.gif"></a></li>
-											<li><script language="JavaScript">document.write('<a href="http://del.icio.us/post?url='+document.location.href+'&title='+document.title+'" title="Del.icio.us this"><img alt="Share this entry with Delicious" src="/images/2/tool-delicious.gif"/></a>');</script><a href="http://del.icio.us/post?url=https://web.archive.org/web/20090616064400id_/http://nymag.com/newyork/privacy/&amp;title=New York Magazine - Nymag.com - Privacy Policy" title="Del.icio.us this"><img alt="Share this entry with Delicious" src="/images/2/tool-delicious.gif"></a></li>
-											<li><script language="JavaScript">document.write('<a href="http://www.facebook.com/share.php?u='+document.location.href+'&t='+document.title+'" title="Share this on Facebook"><img alt="Facebook" src="/gfx/ico/share-facebook-20x20.gif"/></a>');</script><a href="http://www.facebook.com/share.php?u=https://web.archive.org/web/20090616064400id_/http://nymag.com/newyork/privacy/&amp;t=New York Magazine - Nymag.com - Privacy Policy" title="Share this on Facebook"><img alt="Facebook" src="/gfx/ico/share-facebook-20x20.gif"></a></li>
+											<li><script language="JavaScript">document.write('<a href="http://digg.com/submit?phase=2&url='+document.location.href+'&title='+document.title+'" title="Digg This"><img alt="Share this entry with Digg" src="/gfx/mod/tool-digg.gif"/></a>');</script><a href="http://digg.com/submit?phase=2&amp;url=https://web.archive.org/web/20091215210733id_/http://nymag.com/newyork/privacy/&amp;title=New York Magazine - Nymag.com - Privacy Policy" title="Digg This"><img alt="Share this entry with Digg" src="/gfx/mod/tool-digg.gif"></a></li>
+											<li><script language="JavaScript">document.write('<a href="http://reddit.com/submit?url='+document.location.href+'&title='+document.title+'" title="Reddit This"><img alt="Share this entry with Reddit" src="/gfx/mod/tool-reddit.gif"/></a>');</script><a href="http://reddit.com/submit?url=https://web.archive.org/web/20091215210733id_/http://nymag.com/newyork/privacy/&amp;title=New York Magazine - Nymag.com - Privacy Policy" title="Reddit This"><img alt="Share this entry with Reddit" src="/gfx/mod/tool-reddit.gif"></a></li>
+											<li><script language="JavaScript">document.write('<a href="http://del.icio.us/post?url='+document.location.href+'&title='+document.title+'" title="Del.icio.us this"><img alt="Share this entry with Delicious" src="/gfx/mod/tool-delicious.gif"/></a>');</script><a href="http://del.icio.us/post?url=https://web.archive.org/web/20091215210733id_/http://nymag.com/newyork/privacy/&amp;title=New York Magazine - Nymag.com - Privacy Policy" title="Del.icio.us this"><img alt="Share this entry with Delicious" src="/gfx/mod/tool-delicious.gif"></a></li>
+											<li><script language="JavaScript">document.write('<a href="http://www.facebook.com/share.php?u='+document.location.href+'&t='+document.title+'" title="Share this on Facebook"><img alt="Facebook" src="/gfx/ico/share-facebook-20x20.gif"/></a>');</script><a href="http://www.facebook.com/share.php?u=https://web.archive.org/web/20091215210733id_/http://nymag.com/newyork/privacy/&amp;t=New York Magazine - Nymag.com - Privacy Policy" title="Share this on Facebook"><img alt="Facebook" src="/gfx/ico/share-facebook-20x20.gif"></a></li>
 										</ul>
 									</dd>
 								</dl><!-- /end .share -->
 
 								<ul class="tools">
-									<li><a href="#" onclick="return(ET());" onmouseover="return(ETMouseOver());" onmouseout="return(ETMouseOut());" title="E-mail This"><img src="http://images.nymag.com/images/2/tool-email.gif"> Email</a></li>
+									<li><a href="#" onclick="return(ET());" onmouseover="return(ETMouseOver());" onmouseout="return(ETMouseOut());" title="E-mail This"><img src="http://images.nymag.com/gfx/mod/tool-email.gif"> Email</a></li>
 
-									<li><a href="#" onclick="return(PT());" onmouseover="return(PTMouseOver());" onmouseout="return(PTMouseOut());" title="Print This"><img src="http://images.nymag.com/images/2/tool-print.gif"> Print</a></li> 
+									<li><a href="#" onclick="return(PT());" onmouseover="return(PTMouseOver());" onmouseout="return(PTMouseOut());" title="Print This"><img src="http://images.nymag.com/gfx/mod/tool-print.gif"> Print</a></li> 
 								</ul><!-- /end .tools -->
 						</div>
 
@@ -544,8 +572,8 @@ For the convenience of our visitors, we may offer a list of helpful website link
 					<div class="content single">
 						<div class="review">
 							<ul>
-								<li><a href="https://secure.palmcoastd.com/pcd/document?ikey=03921IBDM">Subscribe to New York</a></li>
-								<li><a href="https://secure.palmcoastd.com/pcd/drenew?ikey=03921IBG2">Gift Subscriptions</a></li>
+								<li><a href="http://nymag.com/redirects/circ_subscribe/">Subscribe to New York</a></li>
+								<li><a href="http://nymag.com/redirects/circ_gifts/">Gift Subscriptions</a></li>
 								<li><a href="https://secure.palmcoastd.com/pcd/eServ?iServ=MDM5MjEzOTI0MQ==">Customer Service</a></li>
 								<li><a href="https://secure.palmcoastd.com/pcd/eServCart?iServ=MDM5MjEzODM0Mg">Order Back Issues</a></li>
 								<li><a href="http://nymag.com/newyork/permissions/index.html">Reprint Permissions</a></li>
@@ -568,6 +596,7 @@ For the convenience of our visitors, we may offer a list of helpful website link
 								<li><a href="http://nymag.com/newyork/privacy/">Privacy Policy</a></li>
 								<li><a href="http://nymag.com/newyork/terms/">Terms of Use</a></li>
 								<li><a href="http://nymag.com/mobile/">Mobile Services</a></li>
+								<li><a href="http://nymag.com/newyork/contestrules/">Contest Rules and Regulations</a></li>
 
 							</ul>
 						</div>
@@ -601,7 +630,7 @@ For the convenience of our visitors, we may offer a list of helpful website link
 						<div class="row columns-2">
 							<div class="column col-1">
 
-								<a href="/includes/tableofcontents.htm"><img src="http://images.nymag.com/nymag/toc/20090615cover_bestdocs.jpg" alt="Current Issue"></a>
+								<a href="/includes/tableofcontents.htm"><img src="http://images.nymag.com/nymag/toc/20091221_reasonstolove_150.jpg" alt="Current Issue"></a>
 
 							</div>
 
@@ -609,7 +638,7 @@ For the convenience of our visitors, we may offer a list of helpful website link
 								<h6>Subscribe to <cite>New York</cite></h6>
 								<ul class="nav">
 									<li id="sub-view-contents"><a href="/includes/tableofcontents.htm">View Contents</a></li>
-									<li id="sub-order-issue"><a href="https://secure.palmcoastd.com/pcd/eServCartCk?iServ=MDM5MjEzODM0MiZpUGFnZUlkPTY2NTQz&amp;iInvId=36416&amp;iQuantity=1">Order Issue</a></li>
+									<li id="sub-order-issue"><a href="https://secure.palmcoastd.com/pcd/eServCartCk?iServ=MDM5MjEzODM0MiZpUGFnZUlkPTY2NTQz&amp;iInvId=36440&amp;iQuantity=1">Order Issue</a></li>
 									<li id="sub-cover-gallery"><a href="/nymag/toc/2009/index.html">Cover Gallery</a></li>
 									<li id="sub-customer-service"><a href="https://secure.palmcoastd.com/pcd/eServ?iServ=MDM5MjEzOTI0MQ==">Customer Service</a></li>
 								</ul>
@@ -684,23 +713,24 @@ For the convenience of our visitors, we may offer a list of helpful website link
 	</div><!-- /end #content -->
 
 	<div id="footer">
-		<p>Copyright ©  2009, New York Media <abbr title="Limited Liability Corporation">LLC</abbr>. All Rights Reserved.</p> 
+				<p>Copyright ©  2009, New York Media <abbr title="Limited Liability Corporation">LLC</abbr>. All Rights Reserved.</p>
 
 		<ul>
-
 			<li class="first"><a href="http://nymag.com/newyork/aboutus/index.html">New York Magazine</a></li>
 			<li><a href="http://nymag.com/contactus/index.html">Contact Us</a></li>
- 			<li><a href="http://nymag.com/sitemap/index.html">Site Map</a></li>
-             <li><a href="http://nymag.com/newyork/mediakit/index.html">Media Kit</a></li>
+			<li><a href="http://nymag.com/sitemap/index.html">Site Map</a></li>
+			<li><a href="http://nymag.com/newyork/mediakit/index.html">Media Kit</a></li>
 			<li><a href="http://nymag.com/newyork/privacy/index.html">Privacy Policy</a></li>
 			<li><a href="http://nymag.com/newyork/terms/index.html">Terms</a></li>
 			<li><a href="https://secure.palmcoastd.com/pcd/eServ?iServ=MDM5MjEyNDE2Ng==">Magazine Customer Service</a></li>
 			<li><a href="http://nymag.com/newsletters/">Newsletters</a></li>
 			<li><a href="http://www.nymag.com/newyork/rss/"><img src="http://images.nymag.com/images/2/btn-rss2.gif"></a> <a href="http://www.nymag.com/newyork/rss/">RSS Feeds</a></li>
 		</ul>
-		
 
 
+		<script type="text/javascript" charset="utf-8">
+			if(typeof window.nymag == "object") window.nymag.dcads.write_node();
+		</script>
  	
 	</div>
 </div>
@@ -717,6 +747,9 @@ For the convenience of our visitors, we may offer a list of helpful website link
   <noscript><div><a href="http://www.quantcast.com/p-52tlJ-QdbVwC-"><img src="http://pixel.quantserve.com/pixel/p-52tlJ-QdbVwC-.gif" style="display: none;" height="1" width="1" alt="Quantcast"/></a></div></noscript>
   <!-- End Quantcast tag -->
  </div> <!-- closes #tracking-quantcast -->
+
+ <!-- TYNT -->
+ <script type="text/javascript">tyntVariables = {"ap":"Read more:"};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=aD1_NiJyur3QE_ab7jrHtB&amp;s=21&amp;st=1&amp;lang=en"></script>
 </div> <!-- closes #tracking -->
  	
 
