@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the simplyswim.com privacy policy that was archived on 2009-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090404194255id_/http%3A//www.simplyswim.com/docs/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplyswim.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215032033id_/http%3A//www.simplyswim.com/docs/Privacy.aspx) for the most accurate reproduction.*
 
 # Simply Swim - Privacy
 
 | 
 
-[](https://server.iad.liveperson.net/hc/92183954/?cmd=file&file=visitorWantsToChat&site=92183954&byhref=1&imageUrl=https://www.simplyscuba.com/images/liveperson)
-
-You are in: [Home](https://web.archive.org/web/20090404194255id_/http://www.simplyswim.com/Home.aspx) > [Help](https://web.archive.org/web/20090404194255id_/http://www.simplyswim.com/CustomerServices.aspx) > Privacy Policy
+You are in: [Home](https://web.archive.org/) > [Help](https://web.archive.org/docs/CustomerServices.aspx) > Privacy Policy
 
 |  Simply Scuba Limited (Company Number 3053307) ("Simply Scuba, we or us") is committed to ensuring that your privacy is protected. This privacy policy explains how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy. We are notified under the Data Protection Act 1998 and ensure we comply with all protection the Act affords to you.  
   
@@ -63,4 +61,6 @@ You are in: [Home](https://web.archive.org/web/20090404194255id_/http://www.simp
 1  |  Further information on the Data Protection Act 1998 can also be found on the Information Commissioner's web site at **[http://www.informationcommissioner.gov.uk](http://www.informationcommissioner.gov.uk/)**  
 ---|---  
 2  |  Use of this website is subject to our Terms and Conditions.   
-3  |  Data Protection registration number Z7449228. 
+3  |  Data Protection registration number Z7449228.   
+  
+[](https://server.iad.liveperson.net/hc/92183954/?cmd=file&file=visitorWantsToChat&site=92183954&byhref=1&imageUrl=https://www.simplyscuba.com/images/liveperson)
