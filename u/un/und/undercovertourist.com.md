@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the undercovertourist.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627111341id_/http%3A//www.undercovertourist.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the undercovertourist.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215190221id_/http%3A//www.undercovertourist.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy - Undercover Tourist
 
