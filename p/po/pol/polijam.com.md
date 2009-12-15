@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the polijam.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616131401id_/http%3A//www.polijam.com/Contact/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polijam.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215041941id_/http%3A//www.polijam.com/Contact/PrivacyPolicy.htm) for the most accurate reproduction.*
 
-# Politics HomePresidential RaceSe
+# PoliJAM Privacy Policy
 
-  |   |    
----|---|---  
-  |   |    
   |  Privacy Policy |    
+---|---|---  
   |   |    
   | We at PoliJAM are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat personal information received about you when you visit PoliJAM.com. |    
   |   |    
@@ -39,7 +37,7 @@
   * send statements and invoices to you, and collect payments from you;
   * send you general (non-marketing) commercial communications;
   * send you email notifications which you have specifically requested;
-  * send to you [our newsletter and other] marketing communications (relating to our business [or the businesses of carefully-selected third parties] which we think may be of interest to you by post or, where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications to be sent by emailing us at [ info@polijam.com](mailto:info@polijam.com));
+  * send to you [our newsletter and other] marketing communications (relating to our business [or the businesses of carefully-selected third parties] which we think may be of interest to you by post or, where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications to be sent by emailing us at  [ info@polijam.com](mailto:info@polijam.com));
   * provide third parties with statistical information about our users – but this information will not be used to identify any individual user; 
   * deal with enquiries and complaints made by or about you relating to the website; and
   * we will not provide your personal information to any third parties.
@@ -70,5 +68,5 @@
   | Please let us know if the personal information which we hold about you needs to be corrected or updated. |    
   |   |    
   | **Contact** |    
-  | If you have any questions, comments or concerns about our privacy policy or our treatment of your personal data, please write to us by email at [ info@polijam.com](mailto:info@polijam.com).  |    
+  | If you have any questions, comments or concerns about our privacy policy or our treatment of your personal data, please write to us by email at  [ info@polijam.com](mailto:info@polijam.com).  |    
   |   |  
