@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freewebtemplates.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611034932id_/http%3A//www.freewebtemplates.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewebtemplates.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215101500id_/http%3A//www.freewebtemplates.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - FreeWebTemplates.com
+# Privacy Policy - Free Web Templates
 
 Welcome to the Websites of ArixMedia, LLC ("us", "we", "our", or "ArixMedia"). This Privacy Policy applies to all ArixMedia's websites and those websites are referred to collectively as the "ArixMedia Websites" or "our Websites", whether in the singular or the plural. 
 
@@ -12,11 +12,13 @@ We generally keep this Privacy Policy posted on the Website and you should revie
 
   1. **Information We Collect**
 
-Our Website typically collects two kinds of information about you: (a) information that you provide which personally identifies you; and (b) information that does not personally identify you which we automatically collect when you visit our Website or that you provide us. 
+Our Website typically collects three kinds of information about you: (a) information that you provide which personally identifies you; (b) information that does not personally identify you which we automatically collect when you visit our Website or that you provide us; (c) information collected by advertising networks. 
 
     1. **Personally Identifiable Information:** Our definition of personally identifiable information includes any information that may be used to specifically identify or contact you, such as your name, address, e-mail address, phone number, etc. As a general policy, to facilitate the use of ArixMedia content, you must provide personally identifiable information when registering. Affiliates of ArixMedia may also be required to provide a tax identification number. 
 
     2. **Non-Personal Information:** Our definition of non-personal information is any information that does not personally identify you. Non-personal information can include certain personally identifiable information that has been de-identified; that is, information that has been rendered anonymous. We obtain non-personal information about you from information that you provide us, either separately or together with your personally identifiable information. We also automatically collect certain non-personal information from you when you access our Websites. This information can include, among other things, IP addresses, the type of browser you are using (e.g., Internet Explorer, Firefox, Safari, etc.), the third party website from which your visit originated, the operating system you are using (e.g., Vista, Windows XP, Macintosh OS, etc.), the domain name of your Internet service provider (e.g., America Online, NetZero, etc.), the specific areas of the Website that you visit, and the duration of your visit
+
+    3. **Advertiser Information:** We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/).
 
   2. **How We Use & Share the Information Collected**
     1. **Personally Identifiable Information:** The personally identifiable information you submit to us is generally used to carry out your purchase of ArixMedia content. In the event you have become an ArixMedia Member, the personally identifiable information you submit to us will be used to identify you as an ArixMedia Member and to facilitate your access to Membership benefits. We may also use this information to later contact you for a variety of reasons, such as customer service, providing you promotional information about our products and services or those of our other affiliated companies ("affiliated companies"), or to communicate with you about the services we have provided. 
