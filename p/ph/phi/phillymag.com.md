@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phillymag.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616063624id_/http%3A//www.phillymag.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phillymag.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215210108id_/http%3A//www.phillymag.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Philadelphia Magazine - phillymag.com
 
