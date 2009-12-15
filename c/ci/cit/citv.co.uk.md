@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the citv.co.uk privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617215530id_/http%3A//www.itv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citv.co.uk privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215150855id_/http%3A//www.itv.com/privacy) for the most accurate reproduction.*
 
 # ITV Privacy policy
 
 **Introduction**
 
-Any reference to " **we** ", " **us** " and " **our** " is to ITV Consumer Limited. Please see below for our contact details. Any reference to “ **you** ” or “ **your** ”, means you as user of the <http://www.itv.com/> (the " **Website** "). 
+Any reference to " **we** ", " **us** " and " **our** " is to ITV Consumer Limited. Please see below for our contact details. Any reference to “ **you** ” or “ **your** ”, means you as user of the [http://www.itv.com/](http://www.itv.com/) (the " **Website** "). 
 
 ITV Consumer Limited is committed to protecting your privacy. This page sets out our privacy policy and explains how your personal information (meaning any information about you which is personally identifiable like your name, address, telephone number or email address, generally referred to throughout this policy as " **personal information** ") will be used.
 
@@ -68,7 +68,7 @@ We may also use cookies and other such devices:
 
 Most internet browsers are automatically set up to accept cookies, but you can set your browser to refuse a cookie or ask your browser to show you where a cookie has been set up. Certain services are only activated by the presence of a cookie and, if you choose to refuse cookies, particular features of this Website may not be available to you. 
 
-Find out how to disable/enable cookies by clicking on the “Manage Cookies” section of the Interactive Advertising Bureau website on the following link <http://www.allaboutcookies.org/>
+Find out how to disable/enable cookies by clicking on the “Manage Cookies” section of the Interactive Advertising Bureau website on the following link [http://www.allaboutcookies.org/](http://www.allaboutcookies.org/)
 
 **Will we share your information with third parties?**
 
@@ -100,4 +100,4 @@ This privacy policy was last updated on 26th April 2007.
 
 You can email us with any questions, queries or complaints at [itv.comsupport@itv.com](mailto:itv.comsupport@itv.com)
 
-ITV Consumer Limited, a company registered in England & Wales with registered office at 200 Gray's Inn Road, London WC1X 8HF. Company No. 2937518. VAT Registration: 197 0041 67. Data Protection Registration Number: Z7505566.
+“ITV” is ITV Consumer Limited, The London Television Centre, Upper Ground, London SE1 9LT (registered number 2937518). VAT Registration: 197 0041 67. Data Protection Registration Number: Z7505566.
