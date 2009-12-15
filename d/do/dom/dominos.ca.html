@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dominos.ca privacy policy that was archived on 2009-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090531105152id_/http%3A//www.dominos.ca/homeca/pages/privacyPolicy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dominos.ca privacy policy that was archived on 2009-12-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091215125550id_/http%3A//www.dominos.ca/homeca/pages/privacyPolicy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 
@@ -32,8 +32,8 @@ function myEventTracker(category,action,label){
 }
 </script>
 
-<link rel="shortcut icon" href="/home/dominos5.ico" type="image/x-icon">
-<link rel="icon" href="/home/dominos5.ico" type="image/x-icon">
+<link rel="shortcut icon" href="/homeca/dominos5.ico" type="image/x-icon">
+<link rel="icon" href="/homeca/dominos5.ico" type="image/x-icon">
 <!-- CSS -->
 <link href="/homeca/_css/mainstyle_v8.css" rel="stylesheet" type="text/css" media="screen,projection">
 <link href="/homeca/_css/olo_style_v1.css" rel="stylesheet" type="text/css" media="screen,projection">
@@ -89,7 +89,7 @@ function myEventTracker(category,action,label){
 			
 			<p class="popup-separator">
 				Want to be notified once this store can accept online orders?
-				<a href="/home/email/emailSignup.jsp" class="link-action btn-signup">Sign Up For Email Offers</a> 
+				<a href="/homeca/customer/emailSignup.jsp" class="link-action btn-signup">Sign Up For Email Offers</a> 
 			</p>
 		</div>
 	</div>
@@ -123,7 +123,33 @@ function myEventTracker(category,action,label){
 		<h2>
 			<span id="location-header"></span>
 			<span class="close-btn"><a href="javascript:closePopup('location-popup');">Close</a></span>
-		</h2>				
+		</h2>
+		<script language="javascript" type="text/javascript"> 
+			function validatePostalCode() {
+
+				var msg = "Please enter a valid Postal Code";
+
+				var postalCode = document.getElementById('postalCode').value
+
+                if (postalCode == null) {
+                    postalCode = "";
+                }
+
+				if (!(postalCode == "") ) {
+					
+				    if ( !( (postalCode.match(/[a-zA-Z][0-9][a-zA-Z]\s*-?\s*[0-9][a-zA-Z][0-9]/))  ) ) {
+							alert(msg);
+							return;
+					}
+				}
+
+			    submitAddressForm('new-location-form');
+			    return;
+			    
+				
+			}
+		</script>				
+		
 		<form id="new-location-form" method="get" action="/homeca/main_servlet">
 		
 			<div class="popup-content">
@@ -167,7 +193,7 @@ function myEventTracker(category,action,label){
 					</ul>
 					
 					<p class="button-set">						
-						<a href="#" onclick="javascript:submitpopup();"><img class="continue" src="/homeca/images/btn_popup_continue.png"></a>
+						<a href="#" onclick="javascript:validatePostalCode();"><img class="continue" src="/homeca/images/btn_popup_continue.png"></a>
 					</p>
 	
 				</div>
@@ -178,21 +204,21 @@ function myEventTracker(category,action,label){
 					<ul class="form-content">
 						<li>
 							<label for="cp_state">State</label>
-							<select name="cp_state" id="cp_state" onchange="retrieveUnits('http://www.dominos.ca/home/', 'Campus');" onmouseover="loadDropdown(this, 'http://www.dominos.ca/home/', getStates, 'Campus');" onkeydown="onKeyDown('state', this, event, 'http://www.dominos.ca/home/', getStates, 'Campus');">
+							<select name="cp_state" id="cp_state" onchange="retrieveUnits('http://www.dominos.ca/homeca/', 'Campus');" onmouseover="loadDropdown(this, 'http://www.dominos.ca/homeca/', getStates, 'Campus');" onkeydown="onKeyDown('state', this, event, 'http://www.dominos.ca/homeca/', getStates, 'Campus');">
 	                           	<option value="">- select a state -</option>
 							</select>
 							<input id="cp_state_value" type="hidden" name="cp_state_value" value="">
 						</li>
 						<li>
 							<label for="cp_campus">School / Campus</label>
-							<select name="cp_campus" id="cp_campus" onchange="retrieveBuildings('http://www.dominos.ca/home/', 'Campus');" onmouseover="loadDropdown(this, 'http://www.dominos.ca/home/', retrieveUnits, 'Campus');" onkeydown="onKeyDown('unit', this, event, 'http://www.dominos.ca/home/', retrieveUnits, 'Campus');">
+							<select name="cp_campus" id="cp_campus" onchange="retrieveBuildings('http://www.dominos.ca/homeca/', 'Campus');" onmouseover="loadDropdown(this, 'http://www.dominos.ca/homeca/', retrieveUnits, 'Campus');" onkeydown="onKeyDown('unit', this, event, 'http://www.dominos.ca/homeca/', retrieveUnits, 'Campus');">
 	                           	<option value="">- select a school/campus -</option>
 							</select>
 							<input id="cp_campus_value" type="hidden" name="cp_campus_value" value="">
 						</li>
 						<li>
 							<label for="cp_bldg">Building / Dorm</label>
-							<select name="cp_bldg" id="cp_bldg" onmouseover="loadDropdown(this, 'http://www.dominos.ca/home/', retrieveBuildings, 'Campus');" onkeydown="onKeyDown('building', this, event, 'http://www.dominos.ca/home/', retrieveBuildings, 'Campus');" onchange="setHiddenAddressField(this);">
+							<select name="cp_bldg" id="cp_bldg" onmouseover="loadDropdown(this, 'http://www.dominos.ca/homeca/', retrieveBuildings, 'Campus');" onkeydown="onKeyDown('building', this, event, 'http://www.dominos.ca/homeca/', retrieveBuildings, 'Campus');" onchange="setHiddenAddressField(this);">
 								<option value="">- select a building -</option>
 							</select>
 							<input id="cp_bldg_value" type="hidden" name="cp_bldg_value" value="">
@@ -247,8 +273,10 @@ function myEventTracker(category,action,label){
 		<script>
 var MP = {
 <!-- mp_trans_disable_start --> 
-    Version: '1.0.14',
+    Version: '1.0.15',
+
     Domains: {'fr':'quebec.dominos.ca'},		
+
 	SrcLang: 'en',
 <!-- mp_trans_disable_end -->
 	UrlLang: 'mp_js_current_lang',
@@ -258,15 +286,15 @@ var MP = {
 	   if (MP.UrlLang.length!=2) {
 	       MP.UrlLang = MP.SrcLang;
 	   }
-	   if (MP.SrcUrl.indexOf('p_js_orgin_url')==1) {
+	   if (MP.SrcUrl.indexOf('p_js_')==1) {
 	       MP.SrcUrl = location.href;
+	       MP.UrlLang = MP.SrcLang;
 	   }
 	},
     switchLanguage: function(lang) {
 		if (lang!=MP.SrcLang) {
             var script = document.createElement('SCRIPT');
-            script.src = location.protocol+'//'+MP.Domains[lang]+'/en'+lang+'/?1023749632;'+escape 
-(MP.SrcUrl);
+            script.src = location.protocol+'//'+MP.Domains[lang]+'/en'+lang+'/?1023749632;'+escape(MP.SrcUrl);
             document.body.appendChild(script);
         } else if (lang==MP.SrcLang) {
 		    MP.switchToLang(MP.SrcUrl);		
@@ -290,12 +318,12 @@ var MP = {
 <ul id="lang-nav">
 <!-- mp_trans_remove_start -->
 <li id="lang-esp">
-<a mporgnav="" href="http://quebec.dominos.ca"> ESPAÑOL</a>
+<a mporgnav="" href="http://quebec.dominos.ca"> FRANÇAIS</a>
 </li><li id="lang-eng"><a href="#" class="selected">English</a></li>
 <!-- mp_trans_remove_end -->
 <!-- stuff is here -->
 <!-- mp_trans_add
-<li id="lang-esp" ><a href="#" class="selected">ESPA&Ntilde;OL</a></li>
+<li id="lang-esp" ><a href="#" class="selected">FRAN&Ccedil;AIS</a></li>
 <li id="lang-eng">
 <a mporgnav href="http://quebec.dominos.ca/enfr/" 
 onclick="return switchLanguage('fr');
@@ -349,18 +377,18 @@ function switchLanguage(lang) {
 	<div class="topNav">
 		
 		<ul id="navigation-main">
-			<li id="orderOnline"><a href="#" onclick="javascript:showLocations('order', 'http://www.dominos.ca/home/', 'COMMAND_ORDER', 3, '/index.jsp');return false;" title="Order">Order</a></li>
+			<li id="orderOnline"><a href="#" onclick="javascript:showLocations('order', 'http://www.dominos.ca/homeca/', 'COMMAND_ORDER', 3, '/index.jsp');return false;" title="Order">Order</a></li>
 
-			<li id="seeMenu"><a href="#" onclick="javascript:showLocations('menu', 'http://www.dominos.ca/home/', 'COMMAND_MENU', 0, '/index.jsp');return false;" title="Menu">Menu</a></li>
+			<li id="seeMenu"><a href="#" onclick="javascript:showLocations('menu', 'http://www.dominos.ca/homeca/', 'COMMAND_MENU', 0, '/index.jsp');return false;" title="Menu">Menu</a></li>
 			
-			<li id="coupons"><a href="#" onclick="javascript:showLocations('coupon', 'http://www.dominos.ca/home/', 'COMMAND_COUPONS', 1, '/index.jsp');return false;" title="Coupons">Coupons</a></li>
+			<li id="coupons"><a href="#" onclick="javascript:showLocations('coupon', 'http://www.dominos.ca/homeca/', 'COMMAND_COUPONS', 1, '/index.jsp');return false;" title="Coupons">Coupons</a></li>
 			
 			<li id="findADominos"><a href="/homeca/findstore/change.jsp" title="Locations">Locations</a></li>
 
 			
 			<li id="storeInfo" style="top:6px;">
 	<div class="store-header">
-		&nbsp;<a href="/homeca/findstore/changeaddress.jsp" style="font-weight:bold;font-size:11px;"></a></div>
+		&nbsp;<a href="/homeca/findstore/changeaddress.jsp;jsessionid=B3030F11245EBE4F56C28DA80D824518" style="font-weight:bold;font-size:11px;"></a></div>
 	<!-- mp_trans_disable_start -->
 	<!-- mp_trans_disable_end -->
 </li>  
@@ -401,10 +429,10 @@ function switchLanguage(lang) {
                         "pluginspage", "http://www.adobe.com/go/getflashplayer"
                 );
         } else {  // flash is too old or we can't detect the plugin
-                document.write('<img src="/home/images/breadcrumb-v1.gif" alt="" width="36" height="349" />');
+                document.write('<img src="/homeca/images/breadcrumb-v1.gif" alt="" width="36" height="349" />');
         }
         // -->
-        </script><img src="/home/images/breadcrumb-v1.gif" alt="" width="36" height="349">
+        </script><img src="/homeca/images/breadcrumb-v1.gif" alt="" width="36" height="349">
         </div>
 
 	<!-- END: breadcrumbs -->
@@ -555,6 +583,7 @@ function switchLanguage(lang) {
 		
 		<ul>
 			<li><a href="/homeca/index.jsp">Home</a>//</li>
+			<li><a href="/homeca/customer/emailSignup.jsp">Email Offers</a>//</li>
 			<li><a href="/homeca/pages/privacyPolicy.jsp">Privacy Policy</a>//</li>
 			<li><a href="/homeca/pages/termsOfUse.jsp">Terms of Use</a>//</li>
 			<li><a href="/homeca/pages/franchise.jsp">Franchise With Us</a>//</li>
