@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qwest.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417053700id_/http%3A//www.qwest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qwest.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215175406id_/http%3A//www.qwest.com/privacy) for the most accurate reproduction.*
 
 # Corporate | Legal | Customer Privacy Policy
 
@@ -6,7 +6,7 @@
 
 **Welcome to the Qwest Online Privacy Policy. We appreciate your business and thank you for taking an interest in our privacy policy.**
 
-Qwest values your business and respects your privacy. This policy summarizes what information we collect from you online and how we use and disclose that information. Qwest also collects personal information from customers offline. To learn more about our privacy practices you should also review the Qwest [Privacy Policy](https://web.archive.org/web/20090417053700id_/http://www.qwest.com/privacy/privacyGeneral.html) and the [Qwest Choice™ TV & OnLine Services Customer Privacy Policy](https://web.archive.org/privacy/choice_privacy.html).
+Qwest values your business and respects your privacy. This policy summarizes what information we collect from you online and how we use and disclose that information. Qwest also collects personal information from customers offline. To learn more about our privacy practices you should also review the Qwest [Privacy Policy](https://web.archive.org/web/20091215175406id_/http://www.qwest.com/privacy/privacyGeneral.html) and the [Qwest Choice™ TV & OnLine Services Customer Privacy Policy](https://web.archive.org/privacy/choice_privacy.html).
 
 **Table of Contents**
 
