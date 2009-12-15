@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wufoo.com privacy policy that was archived on 2008-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080601224127id_/http%3A//wufoo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wufoo.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215151518id_/http%3A//wufoo.com/privacy) for the most accurate reproduction.*
 
-# Wufoo Docs » Privacy Policy
-
-## Privacy Policy
+# Wufoo Docs · Privacy Policy
 
 ### Your Data
 
@@ -37,7 +35,7 @@ A cookie is a small amount of data, which often includes an anonymous unique ide
 
 ### Security
 
-Infinity Box has implemented processes intended to protect user information and maintain security of data. Each Account holder is assigned a unique user name and password, which is required to access their Account. It is each user’s responsibility to protect the security of his or her login information. We have attempted to protect the Infinity Boxâ€™s servers by locating them areas with security procedures, using of firewalls and implementing other generally available security technologies.
+Infinity Box has implemented processes intended to protect user information and maintain security of data. Each Account holder is assigned a unique user name and password, which is required to access their Account. It is each user’s responsibility to protect the security of his or her login information. We have attempted to protect the Infinity Box’s servers by locating them areas with security procedures, using of firewalls and implementing other generally available security technologies.
 
 These safeguards help prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of data, but NO GUARANTY CAN BE MADE THAT YOUR INFORMATION AND DATA WILL BE SECURE FROM INTRUSIONS AND UNAUTHORIZED RELEASE TO THIRD PARTIES.
 
@@ -45,7 +43,7 @@ These safeguards help prevent unauthorized access, maintain data accuracy, and e
 
 If you choose to cancel your Account and leave the Wufoo Service or your Account is terminated because of your breach of the Terms of Service, please be aware that Infinity Box may for a time retain residual information in our backup and/or archival copies of our database. We will make reasonable commercial efforts to delete your information as soon as reasonably practical.
 
-### Compliance with Childrenâ€™s Online Privacy Protection Act
+### Compliance with Children’s Online Privacy Protection Act
 
 As a business service, Infinity Box does not target its offerings toward, and does not knowingly collect any personal information from users under 13 years of age.
 
@@ -59,6 +57,6 @@ Infinity Box may periodically update this policy. We will notify you about signi
 
 ### Questions
 
-Any questions about this Privacy Policy should be addressed to [privacy@wufoo.com](mailto:privacy@wufoo.com) or by mail at: Infinity Box, Inc., 16057 W Tampa Palms Blvd., Tampa, FL USA
+Any questions about this Privacy Policy should be addressed to [privacy@wufoo.com](mailto:privacy@wufoo.com) or by mail at: Infinity Box, Inc., 12157 W. Linebaugh Ave., PMB 327 Tampa, FL 33626 USA.
 
-**Updated** : January 25th, 2008 
+**Updated :** April 15th, 2009 
