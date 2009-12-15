@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flippa.com privacy policy that was archived on 2009-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090613053924id_/http%3A//flippa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flippa.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215054441id_/http%3A//flippa.com/privacy) for the most accurate reproduction.*
 
-# Buy and sell web sites — Flippa
+# Flippa Privacy Policy
 
 ## What We Collect
 
