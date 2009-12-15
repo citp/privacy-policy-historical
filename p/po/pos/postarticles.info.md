@@ -1,47 +1,81 @@
-> *The following text is extracted and transformed from the postarticles.info privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219032050id_/http%3A//www.postarticles.info/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postarticles.info privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215083054id_/http%3A//www.postarticles.info/privacy-policy) for the most accurate reproduction.*
 
-# privacy Our Article Submission Directory Site
+# Postarticles.info » Privacy Policy
 
-Postarticles.info strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.
+Your privacy is important to postarticles.info.  This privacy statement provides information about the personal information that postarticles.info collects, and the ways in which postarticles.info uses that personal information.
 
-**How we gather information from users**
+Personal information collection
 
-How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, postarticles.info also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site's features according to your preferences.
+postarticles.info may collect and use the following kinds of personal information:
 
-**What we do with the information we collect**
+When you visit this web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site.
 
-Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone.
+Personal Information You Choose to Provide
 
-Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually.
+Registration Information
 
-We may use Personally Identifiable Information collected on [www.postarticles.info](http://www.postarticles.info/) to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by [www.postarticles.info](http://www.postarticles.info/) and other topics we think you might find of interest.
+When you register for any of our products, services or newsletters you will provide us information about yourself.
 
-Personally Identifiable Information collected by postarticles.info may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.
+Credit Card Information
 
-**Affiliated sites, linked sites and advertisements**
+This information is never collected or stored by us. Any information submitted by the buyer will be used only for the purpose of completing the transaction, delivering the product and addressing any customer service issues.
 
-postarticles.info expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a [www.postarticles.info](http://www.postarticles.info/) page, certain content that is actually created or hosted by a third party. Also, through postarticles.info you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. postarticles.info is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
+Email Information
 
-While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. postarticles.info does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.
+If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received by mail and telephone.
 
-You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of postarticles.info and this policy.
+Using personal information
 
-**Children**
+postarticles.info may use your personal information to:
 
-postarticles.info does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe postarticles.info has any information from or about anyone under 13, please contact us at the address listed below.
+o [administer this website;]  
+o [personalize the website for you;]  
+o [enable your access to and use of the website services;]  
+o [publish information about you on the website;]  
+o [send to you products that you purchase;]  
+o [supply to you services that you purchase;]  
+o [send you statements and invoices;]  
+o [collect payments from you; and]  
+o [send you marketing communications.]
 
-**Contacting Us**
+Where postarticles.info discloses your personal information to its agents or sub-contractors for these purposes, the agent or sub-contractor in question will be obligated to use that personal information in accordance with the terms of this privacy statement.
 
-We can be reached by emailing us.
+In addition to the disclosures reasonably necessary for the purposes identified elsewhere above, postarticles.info may disclose your personal information to the extent that it is required to do so by law, in connection with any legal proceedings or prospective legal proceedings, and in order to establish, exercise or defend its legal rights.
 
-**Changes to this Policy**
+Securing your data
 
-postarticles.info reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
+postarticles.info will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
 
-**Governing law**
+postarticles.info will store all the personal information you provide on its secure servers.
 
-This policy and the use of this Site are governed by Texas law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Austin. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us.
+[Information relating to electronic transactions entered into via this website will be  protected by encryption technology.]
 
-If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Austin, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.
+Cross-border data transfers
 
-This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+Information that postarticles.info collects may be stored and processed in and transferred between any of the countries in which postarticles.info operates to enable the use of the information in accordance with this privacy policy.
+
+[In addition, personal information that you submit for publication on the website will be published on the internet and may be available around the world.]
+
+You agree to such cross-border transfers of personal information.
+
+Updating this statement
+
+postarticles.info may update this privacy policy by posting a new version on this website.
+
+You should check this page occasionally to ensure you are familiar with any changes.
+
+Other websites
+
+This website contains links to other websites.
+
+postarticles.info is not responsible for the privacy policies or practices of any third party.
+
+Contact Admin – Askcarletta.com
+
+This privacy statement
+
+This privacy statement is based on a precedent created by
+
+employmentlawcontracts.co.uk and published by freenetlaw.com.
+
+Popularity: 15% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
