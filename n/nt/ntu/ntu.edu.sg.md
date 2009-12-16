@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ntu.edu.sg privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617051528id_/http%3A//www.ntu.edu.sg/Pages/Footer.aspx%3FContentPageURL%3Dhttp%3A//www.ntu.edu.sg/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntu.edu.sg privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216192807id_/http%3A//www.ntu.edu.sg/Pages/Footer.aspx%3FContentPageURL%3Dhttp%3A//www.ntu.edu.sg/Pages/privacy.aspx) for the most accurate reproduction.*
 
 # Nanyang Technological University Privacy Statement
 
