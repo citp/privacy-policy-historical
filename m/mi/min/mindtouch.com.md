@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mindtouch.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616175530id_/http%3A//www.mindtouch.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindtouch.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216111743id_/http%3A//www.mindtouch.com/Privacy_Policy) for the most accurate reproduction.*
 
-# Privacy Policy - Open Source Collaborative Networks for Intranets and Extranets
+# Privacy Policy - Open Source Collaborative Networking for Intranets and Extranets
 
 ## Privacy Policy
 
