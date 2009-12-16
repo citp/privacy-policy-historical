@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bebaretoo.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619210743id_/http%3A//www.bebaretoo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bebaretoo.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216174906id_/http%3A//www.bebaretoo.com/privacy.html) for the most accurate reproduction.*
 
-# BeBareToo.com - PRIVACY POLICY (Nudist Picture/Video Service)
+# BeBareToo.com - Our Service Privacy Policy
 
   
 **We understand that some members and visitors appreciate anonymity when visiting BeBareToo.com free and member areas. This document assures our members that we do not pass any information to any government nor private entities.**  
@@ -49,4 +49,4 @@ We may change this privacy policy from time to time. When such a change is made 
 
 ## For further information
 
-If you have any further enquiries or concerns about our privacy policy please email our [ Support Team](http://help.purenet-cs.com/index.php?_m=tickets&_a=submit).
+If you have any further enquiries or concerns about our policy please email [ Support Team](http://help.purenet-cs.com/index.php?_m=tickets&_a=submit).
