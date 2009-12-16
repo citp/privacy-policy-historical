@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the buzzfeed.com privacy policy that was archived on 2009-02-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090226050231id_/http%3A//www.buzzfeed.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the buzzfeed.com privacy policy that was archived on 2009-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091216091645id_/http%3A//www.buzzfeed.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
     <meta http-equiv="Content-type" content="text/html; charset=utf-8">
@@ -8,22 +8,23 @@
 		<meta name="copyright" content="Copyright 2006-2009 BuzzFeed, Inc. All rights reserved.">
 		<meta name="description" content="The Viral Web in Realtime">	
 
-						
-		<script language="javascript" type="text/javascript" src="/static/js/poller/cookie_poller.js"></script>
+				
+		    
+				
+		<script language="javascript" type="text/javascript" src="/static/js/poller/cookie_poller.js?v=1260916302"></script>
 		<script type="text/javascript">
 			fb_is_enabled = false;
 			
 				fb_is_enabled = true;
 			
-			var BF_STATIC = {static_root: 'http://s.buzzfeed.com/static', image_root: 'http://s.buzzfeed.com', web_root: '', version: '1235510801', facebook_enabled: fb_is_enabled, fb_app_id:'45075597673', fb_api_key: 'c11330e934b70cdeed615e3d8f9fca5c', fb_template_bundle_id: '55556277673', fb_quickpost_template_bundle_id: '55548457673', fb_badge_vote_template_bundle_id:'66556867673', fb_love_vote_template_bundle_id:'66556142673', fb_static_receiver: 'http://www.buzzfeed.com/go/xd_receiver.html', fb_server_root: 'http://s.buzzfeed.com', terminal_root_url:'http://terminal.buzzfeed.com/' };
+			var BF_STATIC = {static_root: 'http://s.buzzfed.com/static', image_root: 'http://s.buzzfed.com', web_root: '', version: '1260916302', facebook_enabled: fb_is_enabled, fb_app_id:'45075597673', fb_api_key: 'c11330e934b70cdeed615e3d8f9fca5c', fb_template_bundle_id: '85144987673', fb_quickpost_template_bundle_id: '85144987673', fb_badge_vote_template_bundle_id:'85144987673', fb_love_vote_template_bundle_id:'85144987673', fb_static_receiver: 'http://www.buzzfeed.com/go/xd_receiver.html', fb_server_root: 'http://s.buzzfed.com', terminal_root_url:'http://terminal.buzzfeed.com/', fb_loader_server:'static.ak.connect.facebook.com', cookie_age_limit_hours:24,generated_timestamp:1260955005, page: 'Privacy' };
 		</script>
-				
 
 		<script language="javascript">
 		BF_server = "http://badge.buzzfeed.com/buzzfeed/";
 		</script>
 
-		<script src="http://s.buzzfeed.com/static/js/prototype/prototype.1.6.0.2.js" type="text/javascript"></script>
+		<script src="http://s.buzzfed.com/static/js/prototype/prototype.1.6.0.2-compact.js" type="text/javascript"></script>
 		
 		<script language="javascript">
 		// console logger?
@@ -32,17 +33,32 @@
 		} 
 		$A([ "assert", "count", "debug", "dir", "dirxml", "error", "group", "groupEnd", "info", "log", "profile", "profileEnd", "time", "timeEnd", "trace", "warn" ]).each(function(method) { 
 			if(!console[method]) { 
-				console[method] = function(){};  
+				if ( method == 'error' ) console[method] = function(info) {
+					var error_image = new Image()
+					if ( typeof info == 'object' ) { info = Object.toJSON( info ) }
+					var page = window.location.href;
+					var user_agent = navigator.userAgent;
+					error_image.src = '/go/small.gif?error_info='+escape(info)+'&page='+escape(page)+'&useragent='+escape(user_agent);
+				}
+				else console[method] = function(){};  
 			} 
 		});
-		//console.log("we are logging...");
+		
+		// ie 6?
+		Prototype.Browser.IE6=Prototype.Browser.IE && parseInt(navigator.userAgent.substring (navigator.userAgent.indexOf("MSIE")+5))==6		
+		
+		// ff 2?
+		Prototype.Browser.FF2 = ( navigator.userAgent.indexOf( "Firefox/2" ) != -1 );
+		
 		</script>
 		
-		<link rel="stylesheet" href="http://s.buzzfeed.com/static/css/buzzfeed.css?v=1235510801" type="text/css">
-				<link rel="stylesheet" href="http://s.buzzfeed.com/static/css/other.css?v=1235510801" type="text/css">
-				<!--[if IE ]> <link rel="stylesheet" href="http://s.buzzfeed.com/static/css/buzzfeed-ie.css?v=1235510801" type="text/css" charset="utf-8" /> <![endif]-->
-		<!--[if lte IE 6]> <link rel="stylesheet" href="http://s.buzzfeed.com/static/css/buzzfeed-ie6.css?v=1235510801" type="text/css" charset="utf-8" /> <![endif]-->
-		
+		<link rel="stylesheet" href="http://s.buzzfed.com/static/css/buzzfeed.css?v=1260916302" type="text/css">
+		<link rel="stylesheet" href="http://s.buzzfed.com/static/css/bf_ui.css?v=1260916302" type="text/css">
+		<script src="http://s.buzzfed.com/static/js/ui/bf_ui.js?v=1260916302" type="text/javascript"></script>
+				<link rel="stylesheet" href="http://s.buzzfed.com/static/css/other.css?v=1260916302" type="text/css">
+				<!--[if IE ]> <link rel="stylesheet" href="http://s.buzzfed.com/static/css/buzzfeed-ie.css?v=1260916302" type="text/css" charset="utf-8" /> <![endif]-->
+		<!--[if lte IE 6]> <link rel="stylesheet" href="http://s.buzzfed.com/static/css/buzzfeed-ie6.css?v=1260916302" type="text/css" charset="utf-8" /> <![endif]-->
+				
 		<link rel="shortcut icon" href="http://s.buzzfeed.com/favicon.ico" type="image/x-icon">
 		<link rel="alternate" type="application/rss+xml" title="BuzzFeed Front Page" href="/index.xml">
 		
@@ -53,143 +69,203 @@
 		
 		
 	
-		<script src="http://s.buzzfeed.com/static/js/public/cookies.js?v=1235510801" type="text/javascript"></script>
-	
-		<script type="text/javascript" src="http://s.buzzfeed.com/static/js/public/contribute/user.js?v=1235510801"></script>								
-	
-		<script type="text/javascript" language="javascript" src="http://s.buzzfeed.com/static/js/bookmarklet2/xss.js"></script>
-		<script type="text/javascript" language="javascript" src="http://s.buzzfeed.com/static/js/public/animated-gifs.js"></script>		
-		<script src="http://s.buzzfeed.com/static/js/public/request.js?v=1235510801" type="text/javascript"></script>
-		<script src="http://s.buzzfeed.com/static/js/public/loader.js?v=1235510801" type="text/javascript"></script>
-		<script src="http://s.buzzfeed.com/static/js/public/contribute/login.js?v=1235510801" type="text/javascript"></script>
-		<script src="http://s.buzzfeed.com/static/js/public/active_history.js?v=1235510801" type="text/javascript"></script>
-		<script src="http://s.buzzfeed.com/static/js/public/bf_effect.js?v=1235510801" type="text/javascript"></script>
-
-		<script src="http://s.buzzfeed.com/static/js/public/facebook.js?v=1235510801" type="text/javascript"></script>
-		
-		
-
-		
-		
 				
+		<script src="http://s.buzzfed.com/static/js/public/cookies.js?v=1260916302" type="text/javascript"></script>
+		<script src="http://s.buzzfed.com/static/js/public/contribute/register.js?v=1260916302" type="text/javascript"></script>
+	
+		<script type="text/javascript" src="http://s.buzzfed.com/static/js/public/contribute/user.js?v=1260916302"></script>								
+	
+		<script src="http://s.buzzfed.com/static/js/controller/bf2/ABTest.js?v=1260916302" type="text/javascript"></script>
+	
+		<script type="text/javascript" language="javascript" src="http://s.buzzfed.com/static/js/bookmarklet2/xss.js?v=1260916302"></script>
+		<script type="text/javascript" language="javascript" src="http://s.buzzfed.com/static/js/public/animated-gifs.js?v=1260916302"></script>		
+		<script src="http://s.buzzfed.com/static/js/public/request.js?v=1260916302" type="text/javascript"></script>
+		<script src="http://s.buzzfed.com/static/js/public/loader.js?v=1260916302" type="text/javascript"></script>
+		<script src="http://s.buzzfed.com/static/js/public/contribute/login.js?v=1260916302" type="text/javascript"></script>
+		<script src="http://s.buzzfed.com/static/js/public/active_history.js?v=1260916302" type="text/javascript"></script>
+		<script src="http://s.buzzfed.com/static/js/public/bf_effect.js?v=1260916302" type="text/javascript"></script>
+
+		<script src="http://s.buzzfed.com/static/js/public/facebook.js?v=1260916302" type="text/javascript"></script>
 		
+		<script src="http://s.buzzfed.com/static/js/public/voting/badges.js?v=1260916302" type="text/javascript"></script>
+		<script src="http://s.buzzfed.com/static/js/public/contribute/user_switcher.js?v=1260916302" type="text/javascript"></script>
+		<script language="javascript" type="text/javascript" src="http://s.buzzfed.com/static/js/public/event_handler.js?v=1260916302"></script>
+		
+		
+    				
+								
 				
-		<script src="http://s.buzzfeed.com/static/js/public/tips.js?v=1235510801" type="text/javascript"></script>
+				
+		<script src="http://s.buzzfed.com/static/js/public/tips.js?v=1260916302" type="text/javascript"></script>
 
 		
 								
-		
- 		<script type="text/javascript" src="http://s.buzzfeed.com/static/js/public/contribute/user_nav.js?v=1235510801"></script>	
-		
+				
 		
 		
+		
+
+		<script type="text/javascript" src="http://s.buzzfed.com/static/js/public/picks.js?v=1260916302"></script>
+ 		<script type="text/javascript" src="http://s.buzzfed.com/static/js/public/contribute/user_nav.js?v=1260916302"></script>	
+		
+				
 		<script type="text/javascript">function bfct(ct) { var img = new Image(); img.src = ct; }</script>
 
-		<script src="http://s.buzzfeed.com/static/js/ext/tracker.js?v=1235510801" type="text/javascript"></script>
+		<script src="http://s.buzzfed.com/static/js/ext/json.js?v=1260916302" type="text/javascript"></script>
+		<script src="http://s.buzzfed.com/static/js/ext/tracker.js?v=1260916302" type="text/javascript"></script>
 		<script type="text/javascript" charset="utf-8">
 			var Cloud = {
-			    "servers": ['75.101.183.223','75.101.132.179'],
+			    "servers": ['75.101.183.223','75.101.132.179','67.202.4.170'],
+				"report": 'http://wac.09FC.edgecastcdn.net/8009FC/75.101.131.10',
 			    "beta" : {}
 			};
 
 			var tracker = new Tracker();
-			BuzzLoader.register( tracker.attach, 5 );
-		</script>
+			BuzzLoader.register( function(){ tracker.attach();	}, 5 );
+
+			</script>		
+		
+		
+		<script language="javascript" type="text/javascript" src="http://s.buzzfed.com/static/js/public/test/test.js"></script>		
+		<script src="http://s.buzzfed.com/static/js/public/report/editor.js"></script>
+		
+
+		<script language="javascript">				
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-1740781-1']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script');
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+			'http://www') + '.google-analytics.com/ga.js';
+			ga.setAttribute('async', 'true');
+			document.documentElement.firstChild.appendChild(ga);
+		})();
+		</script><script src="https://ssl.google-analytics.com/ga.js" async="true"></script>
 		
   </head>
   <body class="PrivacyPage DisplayPage AboutSection">
+		<div id="slideshow_header" style="display: none;" class="Slideshow-Controls">
+  <div class="inner">
+    
+    <div class="slideshow-info badge-slideshow" id="badge_slideshow_info">
+      <h5>BuzzFeed Slideshow:</h5>
+    	<ul id="slideshow-badge-list">
+        <li><a class="slideshow_launcher badgeword" id="lol" href="/badges/lol" onclick="return false;">LOL</a></li>
+        <li><a class="slideshow_launcher badgeword" id="omg" href="/badges/omg" onclick="return false;">OMG</a></li>
+        <li><a class="slideshow_launcher badgeword" id="wtf" href="/badges/wtf" onclick="return false;">WTF</a></li>
+        <li><a class="slideshow_launcher badgeword" id="cute" href="/badges/cute" onclick="return false;">Cute</a></li>
+    		<li><a class="slideshow_launcher badgeword" id="trashy" href="/badges/trashy" onclick="return false;">Trashy</a></li>
+    		<li><a class="slideshow_launcher badgeword" id="geek" href="/badges/geeky" onclick="return false;">Geeky</a></li>
+    		<li><a class="slideshow_exit" href="//">× Exit</a></li>
+    	</ul>
+  	</div>
+
+      	
+  	<a class="slideshow_clicker next-button" href="/" onclick="return false;">NEXT 
+  	  <img src="http://s.buzzfed.com/static/images/public/slideshow/contest.png" width="60" height="40" alt="Contest Entry" class="badge contest" id="slideshow_next_contest" style="display:none"> 
+  	  <img src="http://s.buzzfed.com/static/badge_images/lol_small.png" width="40" height="40" alt="" class="badge" id="slideshow_next_badge">
+	  </a>
+
+  </div>
+</div>
+<div class="Slideshow-Paging" id="slideshow_footer" style="display:none"><ul id="slideshow_pagination"></ul></div>
+
+<script language="javascript" type="text/javascript" src="http://s.buzzfed.com/static/js/public/slideshow.js"></script>
+<script language="javascript">if( typeof(bf_slideshow) != 'undefined' ) bf_slideshow.init();</script>
+
     
     <div class="Page">
 
       <div class="Header">
         <h1><a href="/">BuzzFeed</a></h1>
-				<h2><a href="/">Find Your New Favorite Thing</a></h2>
+				<h2><a href="/">The Viral Web in Realtime</a></h2>
 				<ul class="Nav">
 					<li class="home"><a href="/">home</a></li>
-					<li class="raw"><a href="/raw">raw</a></li>
+					<li class="justlaunched"><a href="/justlaunched">just launched</a></li>
+					<li class="winners"><a href="/badges">winners</a></li>
 					<li class="top20"><a href="/top/viral">top 20</a></li>
-					<li class="archive"><a href="/archive">archive</a></li>
-					<li class="network"><a href="/network">network</a></li>
+					<li class="raw"><a href="/raw">raw</a></li>
 					<li class="search"><form action="/search" method="get"><input type="input" name="q" id="header_search" value="" class="initial-state" onfocus="this.className='';"></form></li>
 				</ul>				
 				<ul class="UserNav" id="usernav-ul">
-					<li id="usernav-signup" style="display:none;" class="last">good at spotting buzz? <a href="/signin?register=true"> sign up</a> or&nbsp;</li>
+					<li id="usernav-signup" style="display:none;" class="last">create your own buzzfeed: <a href="/signup"> sign up</a> or&nbsp;</li>
 					<li id="usernav-signin" style="display:none;" class="last"><a href="/signin">sign in</a></li>
 
-					<li class="image" id="usernav-image" style="display:none;"><img src="http://s.buzzfeed.com/static/images/public/defaults/user.jpg" width="25" height="25" alt=""><img class="fbicon" id="usernav-fbicon" src="http://s.buzzfeed.com/static/images/public/icons/share-facebook.png" alt="(facebook user)" style="display:none"></li>
+					<li class="image" id="usernav-image" style="display:none;"><img src="http://s.buzzfed.com/static/images/public/defaults/user.jpg" width="25" height="25" alt=""><img class="fbicon" id="usernav-fbicon" src="http://s.buzzfed.com/static/images/public/icons/share-facebook.png" alt="(facebook user)" style="display:none"></li>
 					<li id="usernav-displayname" style="display:none;">User Name</li>
 					<li id="usernav-profile" style="display:none;"><a href="#" id="usernav-profile-link">profile</a></li>
+					<li id="usernav-settings" style="display:none;"><a href="/settings" id="usernav-settings-link">settings</a></li>
+					<li id="usernav-switch" style="display:none;"><a href="#" onclick="return false;" id="usernav-switch-link">switch</a><img id="switch-list-spinner" src="http://s.buzzfed.com/static/images/public/spinners/small_on_e6e6e6.gif" width="16" height="16" style="display:none;margin-left:3px;vertical-align:middle"></li>
+					<li id="usernav-dashboard" class="hidden"><a href="/dashboard">dashboard</a></li>
 					<li id="usernav-signout" style="display:none;" class="last"><a href="#">sign out</a></li>
-				</ul>								
+				</ul>
+				<div id="usernav-switch-list" class="SwitchUser list-users" style="display:none">
+				</div>
 
-				        <script type="text/javascript" src="http://s.buzzfeed.com/static/js/public/header_buzz.js"></script>
-<script type="text/javascript">
+				        <script type="text/javascript">
 
-  var hb = new HeaderBuzz();
-
-  hb.buzz_template = new Template(
-  	'<div class="small-unit sideways track" id="header_buzz_scripted" track=\'#{buzz.track}\'>'
-  	+ '<div class="thumb">'
-  	+ '<a href="' + BF_STATIC.web_root + '/#{buzz.username}/#{buzz.uri}"><img src="' + BF_STATIC.image_root + '#{buzz.image}" width="125" height="90" alt=""  /></a>'
-  	+ '<a class="badge #{buzz.no_badge}" href="' + BF_STATIC.web_root + '/#{buzz.username}/#{buzz.uri}"><img src="'+BF_STATIC.static_root+'/badge_images/#{buzz.badge_type}.png?v=20091012" /></a>'
-  	+ '</div>'
-  	+ '<h3><a href="' + BF_STATIC.web_root + '/#{buzz.username}/#{buzz.uri}"><span>#{buzz.name}</span></a></h3>'
-  	+ '</div>'
-  );
-
-	hb.set_header_buzz( [{"name":"Floating Logos","uri":"floating-logos","username":"expresident","image":"/static/campaign_images/terminal01/2009/2/25/22/floating-logos-24889-1235619332-18.jpg","image_small":"/static/campaign_images/terminal01/2009/2/25/22/floating-logos-24889-1235619332-18_small.jpg","track":"{\"c\":\"79WOX7\",\"u\":\"76T07\",\"buzz\":\"floating-logos\",\"user\":\"expresident\",\"types\":[100]}"},{"name":"The Future of Advertising?","uri":"the-future-of-advertising","username":"expresident","image":"/static/campaign_images/terminal01/2009/2/25/13/future-man-explains-social-media-24883-1235586619-14.jpg","image_small":"/static/campaign_images/terminal01/2009/2/25/13/future-man-explains-social-media-24883-1235586619-14_small.jpg","track":"{\"c\":\"79VKO7\",\"u\":\"76T07\",\"buzz\":\"the-future-of-advertising\",\"user\":\"expresident\",\"types\":[100]}"},{"name":"Little Kid Gets Destroyed by Dodgeball","uri":"little-kid-gets-destroyed-by-dodgeball","username":"peggy","image":"/static/campaign_images/terminal01/2009/2/23/17/little-kid-gets-destroyed-by-dodgeball-1463-1235428095-12.jpg","image_small":"/static/campaign_images/terminal01/2009/2/23/17/little-kid-gets-destroyed-by-dodgeball-1463-1235428095-12_small.jpg","track":"{\"c\":\"79P4W7\",\"u\":\"72Q7\",\"buzz\":\"little-kid-gets-destroyed-by-dodgeball\",\"user\":\"peggy\",\"types\":[100]}"},{"name":"Back to the Future Alternate Ending","uri":"back-to-the-future-alternate-ending","username":"expresident","image":"/static/campaign_images/terminal01/2009/2/24/10/back-to-the-future-alternate-ending-17421-1235488520-1.jpg","image_small":"/static/campaign_images/terminal01/2009/2/24/10/back-to-the-future-alternate-ending-17421-1235488520-1_small.jpg","track":"{\"c\":\"79RA37\",\"u\":\"76T07\",\"buzz\":\"back-to-the-future-alternate-ending\",\"user\":\"expresident\",\"types\":[100]}"},{"name":"&#39;Most Unfortunate Names&#39; Revealed","uri":"most-unfortunate-names-revealed-5un","username":"zarekm","image":"/static/campaign_images/web02/2009/2/25/8/most-unfortunate-names-revealed-23300-1235567456-8.jpg","image_small":"/static/campaign_images/web02/2009/2/25/8/most-unfortunate-names-revealed-23300-1235567456-8_small.jpg","track":"{\"c\":\"79USH7\",\"u\":\"715BB7\",\"buzz\":\"most-unfortunate-names-revealed-5un\",\"user\":\"zarekm\",\"types\":[100]}"},{"name":"Doritos Bikini","uri":"doritos-bikini","username":"scott","image":"/static/campaign_images/terminal01/2009/2/24/11/doritos-bikini-17436-1235492917-0.jpg","image_small":"/static/campaign_images/terminal01/2009/2/24/11/doritos-bikini-17436-1235492917-0_small.jpg","track":"{\"c\":\"79RJ87\",\"u\":\"7B37\",\"buzz\":\"doritos-bikini\",\"user\":\"scott\",\"types\":[100]}"},{"name":"Using the Magic 8-Ball to Answer Emails","uri":"using-the-magic-8-ball-to-answer-emails","username":"peggy","image":"/static/campaign_images/terminal01/2009/2/14/12/using-the-magic-8-ball-to-answer-emails-16263-1234632273-0.jpg","image_small":"/static/campaign_images/terminal01/2009/2/14/12/using-the-magic-8-ball-to-answer-emails-16263-1234632273-0_small.jpg","track":"{\"c\":\"78XTZ7\",\"u\":\"72Q7\",\"buzz\":\"using-the-magic-8-ball-to-answer-emails\",\"user\":\"peggy\",\"types\":[100]}"},{"badge_type":"most-shared","name":"Not Where Trains Should Go","uri":"not-where-trains-should-go-v","username":"yacomink","image":"/static/campaign_images/web02/2009/2/23/15/not-where-trains-should-go-20454-1235421680-17.jpg","image_small":"/static/campaign_images/web02/2009/2/23/15/not-where-trains-should-go-20454-1235421680-17_small.jpg","track":"{\"c\":\"79OVK7\",\"u\":\"7G57\",\"buzz\":\"not-where-trains-should-go-v\",\"user\":\"yacomink\",\"types\":[100]}"},{"name":"F*ck That Band","uri":"fuck-that-band-5fl","username":"matthewwilliamson","image":"/static/campaign_images/web02/2009/2/25/13/fuck-that-band-23813-1235585687-27.jpg","image_small":"/static/campaign_images/web02/2009/2/25/13/fuck-that-band-23813-1235585687-27_small.jpg","track":"{\"c\":\"79VIC7\",\"u\":\"712DX7\",\"buzz\":\"fuck-that-band-5fl\",\"user\":\"matthewwilliamson\",\"types\":[100]}"},{"name":"Neocube","uri":"neocube","username":"scott","image":"/static/campaign_images/terminal01/2009/2/24/14/neocube-18983-1235502375-1.jpg","image_small":"/static/campaign_images/terminal01/2009/2/24/14/neocube-18983-1235502375-1_small.jpg","track":"{\"c\":\"79S757\",\"u\":\"7B37\",\"buzz\":\"neocube\",\"user\":\"scott\",\"types\":[100]}"},{"name":"Homobama!","uri":"homobama","username":"akdobbins","image":"/static/campaign_images/terminal01/2009/2/25/16/homobama-24901-1235598911-16.jpg","image_small":"/static/campaign_images/terminal01/2009/2/25/16/homobama-24901-1235598911-16_small.jpg","track":"{\"c\":\"79W627\",\"u\":\"77867\",\"buzz\":\"homobama\",\"user\":\"akdobbins\",\"types\":[100]}"},{"name":"Freida Pinto, Sexy","uri":"freida-pinto-sexy-26q","username":"eliot","image":"/static/campaign_images/terminal01/2009/2/23/12/freida-pinto-sexy-1474-1235410782-9.jpg","image_small":"/static/campaign_images/terminal01/2009/2/23/12/freida-pinto-sexy-1474-1235410782-9_small.jpg","track":"{\"c\":\"79OCB7\",\"u\":\"7C97\",\"buzz\":\"freida-pinto-sexy-26q\",\"user\":\"eliot\",\"types\":[100]}"},{"name":"Big Cat, Little Flap","uri":"big-cat-little-flap","username":"expresident","image":"/static/campaign_images/terminal01/2009/2/25/22/big-cat-little-flap-24902-1235619693-14.jpg","image_small":"/static/campaign_images/terminal01/2009/2/25/22/big-cat-little-flap-24902-1235619693-14_small.jpg","track":"{\"c\":\"79VFM7\",\"u\":\"76T07\",\"buzz\":\"big-cat-little-flap\",\"user\":\"expresident\",\"types\":[100]}"},{"name":"Introducing the Blowguard","uri":"introducing-the-blowguard-3jp","username":"blakeley","image":"/static/campaign_images/web02/2009/2/24/16/introducing-the-blowguard-2013-1235510536-3.jpg","image_small":"/static/campaign_images/web02/2009/2/24/16/introducing-the-blowguard-2013-1235510536-3_small.jpg","track":"{\"c\":\"79SPT7\",\"u\":\"7P5Q7\",\"buzz\":\"introducing-the-blowguard-3jp\",\"user\":\"blakeley\",\"types\":[100]}"},{"name":"Dangerous School Portrait","uri":"dangerous-school-portrait-ru","username":"lindseyweber","image":"/static/campaign_images/terminal01/2009/2/24/23/school-portrait-21702-1235536526-2.jpg","image_small":"/static/campaign_images/terminal01/2009/2/24/23/school-portrait-21702-1235536526-2_small.jpg","track":"{\"c\":\"79TUG7\",\"u\":\"75OY7\",\"buzz\":\"dangerous-school-portrait-ru\",\"user\":\"lindseyweber\",\"types\":[100]}"},{"name":"Everything is Amazing And Nobody is Happy","uri":"everything-is-amazing-and-nobody-is-happy","username":"scott","image":"/static/campaign_images/terminal01/2009/2/23/23/everything-is-amazing-and-nobody-is-happy-1470-1235449070-13.jpg","image_small":"/static/campaign_images/terminal01/2009/2/23/23/everything-is-amazing-and-nobody-is-happy-1470-1235449070-13_small.jpg","track":"{\"c\":\"79PX37\",\"u\":\"7B37\",\"buzz\":\"everything-is-amazing-and-nobody-is-happy\",\"user\":\"scott\",\"types\":[100]}"},{"name":"The 20 Most Terrifying Pictures of Ronald McDonald Ever","uri":"the-20-most-terrifying-pictures-of-ronald-mcdonald-4yj","username":"johnnyqwest","image":"/static/campaign_images/web02/2009/2/25/11/the-20-most-terrifying-pictures-of-ronald-mcdonal-30097-1235580983-4.jpg","image_small":"/static/campaign_images/web02/2009/2/25/11/the-20-most-terrifying-pictures-of-ronald-mcdonal-30097-1235580983-4_small.jpg","track":"{\"c\":\"79V7U7\",\"u\":\"7Z2J7\",\"buzz\":\"the-20-most-terrifying-pictures-of-ronald-mcdonald-4yj\",\"user\":\"johnnyqwest\",\"types\":[100]}"},{"name":"Working Causes Dementia","uri":"working-causes-dementia-d8","username":"sarahmorgan","image":"/static/campaign_images/terminal01/2009/2/25/15/working-causes-dementia-24898-1235595019-13.jpg","image_small":"/static/campaign_images/terminal01/2009/2/25/15/working-causes-dementia-24898-1235595019-13_small.jpg","track":"{\"c\":\"79VWC7\",\"u\":\"72UO7\",\"buzz\":\"working-causes-dementia-d8\",\"user\":\"sarahmorgan\",\"types\":[100]}"},{"name":"New Math","uri":"new-math","username":"peggy","image":"/static/campaign_images/terminal01/2009/2/25/12/new-math-24903-1235582833-7.jpg","image_small":"/static/campaign_images/terminal01/2009/2/25/12/new-math-24903-1235582833-7_small.jpg","track":"{\"c\":\"79VBX7\",\"u\":\"72Q7\",\"buzz\":\"new-math\",\"user\":\"peggy\",\"types\":[100]}"},{"name":"The Perfect Pancake","uri":"the-perfect-pancake","username":"akdobbins","image":"/static/campaign_images/terminal01/2009/2/23/12/the-perfect-pancake-1479-1235411864-2.jpg","image_small":"/static/campaign_images/terminal01/2009/2/23/12/the-perfect-pancake-1479-1235411864-2_small.jpg","track":"{\"c\":\"79ODA7\",\"u\":\"77867\",\"buzz\":\"the-perfect-pancake\",\"user\":\"akdobbins\",\"types\":[100]}"},{"name":"Paula Deen Loses Her Pants","uri":"paula-deen-loses-her-pants-26q","username":"eliot","image":"/static/campaign_images/terminal01/2009/2/23/14/paula-deen-loses-her-pants-1474-1235418212-14.jpg","image_small":"/static/campaign_images/terminal01/2009/2/23/14/paula-deen-loses-her-pants-1474-1235418212-14_small.jpg","track":"{\"c\":\"79OO67\",\"u\":\"7C97\",\"buzz\":\"paula-deen-loses-her-pants-26q\",\"user\":\"eliot\",\"types\":[100]}"},{"name":"Price Of A Stamp","uri":"price-of-a-stamp-ru","username":"lindseyweber","image":"/static/campaign_images/terminal01/2009/2/25/1/price-of-a-stamp-24904-1235544769-3.jpg","image_small":"/static/campaign_images/terminal01/2009/2/25/1/price-of-a-stamp-24904-1235544769-3_small.jpg","track":"{\"c\":\"79U7O7\",\"u\":\"75OY7\",\"buzz\":\"price-of-a-stamp-ru\",\"user\":\"lindseyweber\",\"types\":[100]}"},{"name":"The Couch Dress","uri":"the-couch-dress","username":"peggy","image":"/static/campaign_images/terminal01/2009/2/23/11/the-couch-dress-1476-1235406917-2.jpg","image_small":"/static/campaign_images/terminal01/2009/2/23/11/the-couch-dress-1476-1235406917-2_small.jpg","track":"{\"c\":\"79O7N7\",\"u\":\"72Q7\",\"buzz\":\"the-couch-dress\",\"user\":\"peggy\",\"types\":[100]}"},{"badge_type":"cute","name":"Screw Hannah Montana","uri":"screw-hannah-montana","username":"peggy","image":"/static/campaign_images/terminal01/2009/2/25/3/screw-hannah-montana-24896-1235551304-0.jpg","image_small":"/static/campaign_images/terminal01/2009/2/25/3/screw-hannah-montana-24896-1235551304-0_small.jpg","track":"{\"c\":\"79UDI7\",\"u\":\"72Q7\",\"buzz\":\"screw-hannah-montana\",\"user\":\"peggy\",\"types\":[100]}"},{"name":"The Secret Life Of Stormtroopers","uri":"the-secret-life-of-stormtroopers","username":"scott","image":"/static/campaign_images/terminal01/2009/2/24/15/the-secret-life-of-stormtroopers-19329-1235508347-3.jpg","image_small":"/static/campaign_images/terminal01/2009/2/24/15/the-secret-life-of-stormtroopers-19329-1235508347-3_small.jpg","track":"{\"c\":\"79SMI7\",\"u\":\"7B37\",\"buzz\":\"the-secret-life-of-stormtroopers\",\"user\":\"scott\",\"types\":[100]}"},{"name":"Cat Answers the Phone","uri":"cat-answers-the-phone-d8","username":"sarahmorgan","image":"/static/campaign_images/terminal01/2009/2/23/17/cat-answers-the-phone-1479-1235427474-15.jpg","image_small":"/static/campaign_images/terminal01/2009/2/23/17/cat-answers-the-phone-1479-1235427474-15_small.jpg","track":"{\"c\":\"79P4B7\",\"u\":\"72UO7\",\"buzz\":\"cat-answers-the-phone-d8\",\"user\":\"sarahmorgan\",\"types\":[100]}"},{"name":"Social Media Can Kill You!","uri":"social-media-can-kill-you","username":"expresident","image":"/static/campaign_images/terminal01/2009/2/24/11/social-media-can-kill-you-17421-1235492788-6.jpg","image_small":"/static/campaign_images/terminal01/2009/2/24/11/social-media-can-kill-you-17421-1235492788-6_small.jpg","track":"{\"c\":\"79RG47\",\"u\":\"76T07\",\"buzz\":\"social-media-can-kill-you\",\"user\":\"expresident\",\"types\":[100]}"},{"name":"BuzzFeed&#8217;s Board Of Directors Saves Scott","uri":"buzzfeeds-board-of-directors-saves-scott","username":"jonah","image":"/static/campaign_images/terminal01/2009/2/23/14/board-of-directors-save-scott-1466-1235416476-2.jpg","image_small":"/static/campaign_images/terminal01/2009/2/23/14/board-of-directors-save-scott-1466-1235416476-2_small.jpg","track":"{\"c\":\"79OLG7\",\"u\":\"71R7\",\"buzz\":\"buzzfeeds-board-of-directors-saves-scott\",\"user\":\"jonah\",\"types\":[100]}"},{"name":"From Fit to Fat","uri":"from-fit-to-fat-5pr","username":"elmarb","image":"/static/campaign_images/terminal01/2009/2/24/18/from-fit-to-fat-21696-1235517195-1.jpg","image_small":"/static/campaign_images/terminal01/2009/2/24/18/from-fit-to-fat-21696-1235517195-1_small.jpg","track":"{\"c\":\"79SLC7\",\"u\":\"714D37\",\"buzz\":\"from-fit-to-fat-5pr\",\"user\":\"elmarb\",\"types\":[100]}"},{"name":"Awesome Weird Pillows","uri":"awesome-weird-pillows-4a","username":"alexleo","image":"/static/campaign_images/web02/2009/2/24/17/awesome-weird-pillows-3058-1235514447-8.jpg","image_small":"/static/campaign_images/web02/2009/2/24/17/awesome-weird-pillows-3058-1235514447-8_small.jpg","track":"{\"c\":\"79SVU7\",\"u\":\"71427\",\"buzz\":\"awesome-weird-pillows-4a\",\"user\":\"alexleo\",\"types\":[100]}"},{"name":"God Hates Martha Stewart&#39;s Cutesy Drug Show","uri":"god-hates-martha-stewarts-cutesy-drug-show-3jp","username":"blakeley","image":"/static/campaign_images/web02/2009/2/23/12/god-hates-martha-stewarts-cutesy-drug-show-6943-1235411791-49.jpg","image_small":"/static/campaign_images/web02/2009/2/23/12/god-hates-martha-stewarts-cutesy-drug-show-6943-1235411791-49_small.jpg","track":"{\"c\":\"79ODO7\",\"u\":\"7P5Q7\",\"buzz\":\"god-hates-martha-stewarts-cutesy-drug-show-3jp\",\"user\":\"blakeley\",\"types\":[100]}"},{"name":"Your Taste in Music Based on Your SAT Score","uri":"your-taste-in-music-based-on-your-sat-score","username":"peggy","image":"/static/campaign_images/terminal01/2009/2/25/13/your-taste-in-music-based-on-your-sat-score-24902-1235587099-6.jpg","image_small":"/static/campaign_images/terminal01/2009/2/25/13/your-taste-in-music-based-on-your-sat-score-24902-1235587099-6_small.jpg","track":"{\"c\":\"79VN07\",\"u\":\"72Q7\",\"buzz\":\"your-taste-in-music-based-on-your-sat-score\",\"user\":\"peggy\",\"types\":[100]}"}] );
-	hb.abtest = 1;
-	hb.page_quantity = 4;
-
-  BuzzLoader.register( function() {
-    if ( typeof pageTracker != 'undefined' && pageTracker != null ){
-    	pageTracker._trackPageview('/_ga/click/hot_top/test003/impression/' + hb.abtest);
-    }
-  }, 2 );
-  
-  BuzzLoader.register( function() {
-  	hb.init();
-  }, 1);
-  
+  var hb = null;
+  function load_header_buzz() {
+  	  hb = new HeaderBuzz();
+	  hb.buzz_template = new Template(
+	  	'<div class="unit track abtrack" track=\'#{buzz.track}\' id="header_buzz_scripted">'
+	  	+ '<a class="thumbbb" href="' + BF_STATIC.web_root + '/#{buzz.username}/#{buzz.uri}"><img src="' + BF_STATIC.image_root + '#{buzz.image}" width="125" height="83" alt=""  /></a>'
+	  	+ '<a class="badge #{buzz.no_badge}" href="' + BF_STATIC.web_root + '/#{buzz.username}/#{buzz.uri}"><img src="' + BF_STATIC.static_root + '/badge_images/#{buzz.badge_type}.png?v=20091012" /></a>'
+	  	+ '<a class="title" href="' + BF_STATIC.web_root + '/#{buzz.username}/#{buzz.uri}"><span>#{buzz.name}</span></a>'
+	  	+'</div>'
+	  );
+	
+		hb.set_header_buzz( [{"link_buzz":null,"form":"text","name":"Crack Pie","uri":"crack-pie","username":"peggy","image":"/static/campaign_images/terminal01/2009/12/15/12/crack-pie-27897-1260897190-13.jpg","image_small":"/static/campaign_images/terminal01/2009/12/15/12/crack-pie-27897-1260897190-13_small.jpg","tracking":"crack-pie","link":"http://www.buzzfeed.com/peggy/crack-pie","track":"{\"c\":\"713TK37\",\"u\":\"72Q7\",\"buzz\":\"crack-pie\",\"user\":\"peggy\",\"types\":[100],\"queries\":[]}","f_track":"0"},{"link_buzz":null,"form":"text","name":"Julie Postle","uri":"julie-postle","username":"expresident","image":"/static/campaign_images/terminal01/2009/12/14/11/julie-postle-31314-1260808679-5.jpg","image_small":"/static/campaign_images/terminal01/2009/12/14/11/julie-postle-31314-1260808679-5_small.jpg","tracking":"julie-postle","link":"http://www.buzzfeed.com/expresident/julie-postle","track":"{\"c\":\"713OVP7\",\"u\":\"76T07\",\"buzz\":\"julie-postle\",\"user\":\"expresident\",\"types\":[100],\"queries\":[]}","f_track":"0"},{"link_buzz":"http://news.bbc.co.uk/go/rss/-/2/hi/americas/8414375.stm","form":"link","name":"Weightlifter Has Surprise Baby During Training","uri":"surprise-birth-as-weightlifter-trains","username":"googlereader","image":"/static/campaign_images/web02/2009/12/15/15/surprise-birth-as-weightlifter-trains-4071-1260909032-7.jpg","image_small":"/static/campaign_images/web02/2009/12/15/15/surprise-birth-as-weightlifter-trains-4071-1260909032-7_small.jpg","tracking":"surprise-birth-as-weightlifter-trains","link":"http://www.buzzfeed.com/googlereader/surprise-birth-as-weightlifter-trains","track":"{\"c\":\"713UX37\",\"u\":\"7TKS7\",\"buzz\":\"surprise-birth-as-weightlifter-trains\",\"user\":\"googlereader\",\"types\":[100],\"queries\":[]}","f_track":"0"},{"link_buzz":"http://i.imgur.com/xHNic.jpg","form":"image","name":"Crazy Weight Loss","uri":"unbelievable-weight-loss-pic","username":"reddit","image":"/static/campaign_images/terminal01/2009/12/14/13/crazy-weight-loss-31446-1260814146-9.jpg","image_small":"/static/campaign_images/terminal01/2009/12/14/13/crazy-weight-loss-31446-1260814146-9_small.jpg","tracking":"unbelievable-weight-loss-pic","link":"http://www.buzzfeed.com/reddit/unbelievable-weight-loss-pic","track":"{\"c\":\"713M9E7\",\"u\":\"779C7\",\"buzz\":\"unbelievable-weight-loss-pic\",\"user\":\"reddit\",\"types\":[100],\"queries\":[]}","f_track":"0"},{"link_buzz":null,"form":"image","name":"Meta Facebook Conversation","uri":"meta-facebook-conversation","username":"scott","image":"/static/campaign_images/terminal01/2009/12/12/11/meta-facebook-conversation-28435-1260635953-1.jpg","image_small":"/static/campaign_images/terminal01/2009/12/12/11/meta-facebook-conversation-28435-1260635953-1_small.jpg","tracking":"meta-facebook-conversation","link":"http://www.buzzfeed.com/scott/meta-facebook-conversation","track":"{\"c\":\"713GLF7\",\"u\":\"7B37\",\"buzz\":\"meta-facebook-conversation\",\"user\":\"scott\",\"types\":[100],\"queries\":[]}","f_track":"0"},{"link_buzz":null,"form":"text","name":"Koala AIDS","uri":"koala-aids","username":"peggy","image":"/static/campaign_images/terminal01/2009/12/14/11/promiscuous-koalas-31446-1260809708-7.jpg","image_small":"/static/campaign_images/terminal01/2009/12/14/11/promiscuous-koalas-31446-1260809708-7_small.jpg","tracking":"koala-aids","link":"http://www.buzzfeed.com/peggy/koala-aids","track":"{\"c\":\"713OZS7\",\"u\":\"72Q7\",\"buzz\":\"koala-aids\",\"user\":\"peggy\",\"types\":[100],\"queries\":[]}","f_track":"0"},{"link_buzz":"http://www.wolfgnards.com/index.php/2009/12/13/how-long-could-luke-survive-in-a-tauntau","form":"link","name":"How Long Could You Survive in a Tauntaun?","uri":"how-long-could-you-survive-in-a-tauntaun","username":"awesomer","image":"/static/campaign_images/terminal01/2009/12/14/11/how-long-could-you-survive-in-a-tauntaun-31441-1260807579-6.jpg","image_small":"/static/campaign_images/terminal01/2009/12/14/11/how-long-could-you-survive-in-a-tauntaun-31441-1260807579-6_small.jpg","tracking":"how-long-could-you-survive-in-a-tauntaun","link":"http://www.buzzfeed.com/awesomer/how-long-could-you-survive-in-a-tauntaun","track":"{\"c\":\"713OSZ7\",\"u\":\"72ESJ7\",\"buzz\":\"how-long-could-you-survive-in-a-tauntaun\",\"user\":\"awesomer\",\"types\":[100],\"queries\":[]}","f_track":"0"},{"link_buzz":"http://blogs.nerve.com/scanner/2009/12/15/rihanna-takes-her-shirt-off-for-gq-fun","form":"link","name":"Rihanna Semi-Naked GQ Cover (NSFW?)","uri":"rihanna-takes-her-shirt-off-for-gq-fun-8ft","username":"nerve","image":"/static/campaign_images/web02/2009/12/15/16/rihanna-takes-her-shirt-off-for-gq-fun-9075-1260912107-1.jpg","image_small":"/static/campaign_images/web02/2009/12/15/16/rihanna-takes-her-shirt-off-for-gq-fun-9075-1260912107-1_small.jpg","tracking":"rihanna-takes-her-shirt-off-for-gq-fun-8ft","link":"http://www.buzzfeed.com/nerve/rihanna-takes-her-shirt-off-for-gq-fun-8ft","track":"{\"c\":\"713VA47\",\"u\":\"71NFO7\",\"buzz\":\"rihanna-takes-her-shirt-off-for-gq-fun-8ft\",\"user\":\"nerve\",\"types\":[100],\"queries\":[]}","f_track":"0"},{"link_buzz":null,"form":"text","name":"Bo Gives Oprah a High Five","uri":"bo-gives-oprah-a-high-five","username":"peggy","image":"/static/campaign_images/terminal01/2009/12/14/12/bo-gives-oprah-a-high-five-31448-1260811613-5.jpg","image_small":"/static/campaign_images/terminal01/2009/12/14/12/bo-gives-oprah-a-high-five-31448-1260811613-5_small.jpg","tracking":"bo-gives-oprah-a-high-five","link":"http://www.buzzfeed.com/peggy/bo-gives-oprah-a-high-five","track":"{\"c\":\"713P4G7\",\"u\":\"72Q7\",\"buzz\":\"bo-gives-oprah-a-high-five\",\"user\":\"peggy\",\"types\":[100],\"queries\":[]}","f_track":"0"},{"link_buzz":"http://craftastrophe.net/2009/12/brown-eye/","form":"link","name":"Rear Gear for Your Pet","uri":"oh-mah-gah-this-is-hilarious-rear-gear-for-your-p-2l3","username":"karenrani","image":"/static/campaign_images/web02/2009/12/9/21/oh-mah-gah-this-is-hilarious-rear-gear-for-your-p-31423-1260410857-7.jpg","image_small":"/static/campaign_images/web02/2009/12/9/21/oh-mah-gah-this-is-hilarious-rear-gear-for-your-p-31423-1260410857-7_small.jpg","tracking":"oh-mah-gah-this-is-hilarious-rear-gear-for-your-p-2l3","link":"http://www.buzzfeed.com/karenrani/oh-mah-gah-this-is-hilarious-rear-gear-for-your-p-2l3","track":"{\"c\":\"7134QF7\",\"u\":\"7IF97\",\"buzz\":\"oh-mah-gah-this-is-hilarious-rear-gear-for-your-p-2l3\",\"user\":\"karenrani\",\"types\":[100],\"queries\":[]}","f_track":"0"},{"link_buzz":null,"form":"image","name":"Diego Sanchez&#8217;s Bloody Face","uri":"diego-sanchezs-bloody-face","username":"peggy","image":"/static/campaign_images/terminal01/2009/12/14/16/diego-sanchezs-bloody-face-31440-1260824600-22.jpg","image_small":"/static/campaign_images/terminal01/2009/12/14/16/diego-sanchezs-bloody-face-31440-1260824600-22_small.jpg","tracking":"diego-sanchezs-bloody-face","link":"http://www.buzzfeed.com/peggy/diego-sanchezs-bloody-face","track":"{\"c\":\"713QAU7\",\"u\":\"72Q7\",\"buzz\":\"diego-sanchezs-bloody-face\",\"user\":\"peggy\",\"types\":[100],\"queries\":[]}","f_track":"0"},{"link_buzz":null,"form":"image","name":"Jazz Paws","uri":"jazz-paws","username":"peggy","image":"/static/campaign_images/terminal01/2009/12/12/23/crazy-hands-cat-28421-1260679297-2.jpg","image_small":"/static/campaign_images/terminal01/2009/12/12/23/crazy-hands-cat-28421-1260679297-2_small.jpg","tracking":"jazz-paws","link":"http://www.buzzfeed.com/peggy/jazz-paws","track":"{\"c\":\"713IX87\",\"u\":\"72Q7\",\"buzz\":\"jazz-paws\",\"user\":\"peggy\",\"types\":[100],\"queries\":[]}","f_track":"0"},{"link_buzz":null,"form":"image","name":"Crasher Seal","uri":"crasher-seal","username":"awesomer","image":"/static/campaign_images/terminal01/2009/12/14/10/crasher-seal-31443-1260805988-4.jpg","image_small":"/static/campaign_images/terminal01/2009/12/14/10/crasher-seal-31443-1260805988-4_small.jpg","tracking":"crasher-seal","link":"http://www.buzzfeed.com/awesomer/crasher-seal","track":"{\"c\":\"713OOB7\",\"u\":\"72ESJ7\",\"buzz\":\"crasher-seal\",\"user\":\"awesomer\",\"types\":[100],\"queries\":[]}","f_track":"0"},{"link_buzz":null,"form":"image","name":"Stephen Colbert Sports Illustrated Cover","uri":"stephen-colbert-sports-illustrated-cover","username":"scott","image":"/static/campaign_images/terminal01/2009/12/15/15/stephen-colbert-sports-illustrated-cover-18992-1260908797-2.jpg","image_small":"/static/campaign_images/terminal01/2009/12/15/15/stephen-colbert-sports-illustrated-cover-18992-1260908797-2_small.jpg","tracking":"stephen-colbert-sports-illustrated-cover","link":"http://www.buzzfeed.com/scott/stephen-colbert-sports-illustrated-cover","track":"{\"c\":\"713UUR7\",\"u\":\"7B37\",\"buzz\":\"stephen-colbert-sports-illustrated-cover\",\"user\":\"scott\",\"types\":[100],\"queries\":[]}","f_track":"0"},{"link_buzz":"http://laurenleto.wordpress.com/readers-by-author/","form":"link","name":"Stereotyping People by Their Favorite Author","uri":"stereotyping-people-by-their-favorite-author","username":"awesomer","image":"/static/campaign_images/terminal01/2009/12/15/13/stereotyping-people-by-their-favorite-author-15331-1260902065-0.jpg","image_small":"/static/campaign_images/terminal01/2009/12/15/13/stereotyping-people-by-their-favorite-author-15331-1260902065-0_small.jpg","tracking":"stereotyping-people-by-their-favorite-author","link":"http://www.buzzfeed.com/awesomer/stereotyping-people-by-their-favorite-author","track":"{\"c\":\"713UD27\",\"u\":\"72ESJ7\",\"buzz\":\"stereotyping-people-by-their-favorite-author\",\"user\":\"awesomer\",\"types\":[100],\"queries\":[]}","f_track":"0"},{"link_buzz":null,"form":"image","name":"Do You Know Squirrel Girl?","uri":"do-you-know-squirrel-girl-hpz","username":"ashleytalong","image":"/static/campaign_images/web02/2009/12/15/11/do-you-know-squirrel-girl-17548-1260892931-6.jpg","image_small":"/static/campaign_images/web02/2009/12/15/11/do-you-know-squirrel-girl-17548-1260892931-6_small.jpg","tracking":"do-you-know-squirrel-girl-hpz","link":"http://www.buzzfeed.com/ashleytalong/do-you-know-squirrel-girl-hpz","track":"{\"c\":\"713TFF7\",\"u\":\"73GEN7\",\"buzz\":\"do-you-know-squirrel-girl-hpz\",\"user\":\"ashleytalong\",\"types\":[100],\"queries\":[]}","f_track":"0"},{"link_buzz":"http://www.mainstreet.com/slideshow/lifestyle/drunkest-states-america","form":"link","name":"The Least Drunk States In America","uri":"the-least-drunk-states-in-america-xga","username":"mainstreet","image":"/static/campaign_images/web02/2009/12/14/13/the-least-drunk-states-in-america-15682-1260813631-26.jpg","image_small":"/static/campaign_images/web02/2009/12/14/13/the-least-drunk-states-in-america-15682-1260813631-26_small.jpg","tracking":"the-least-drunk-states-in-america-xga","link":"http://www.buzzfeed.com/mainstreet/the-least-drunk-states-in-america-xga","track":"{\"c\":\"713P8Q7\",\"u\":\"76IIE7\",\"buzz\":\"the-least-drunk-states-in-america-xga\",\"user\":\"mainstreet\",\"types\":[100],\"queries\":[]}","f_track":"0"},{"link_buzz":null,"form":"video","name":"Ancient Social Network Discovered","uri":"ancient-social-network-discovered","username":"expresident","image":"/static/campaign_images/terminal01/2009/12/15/17/ancient-social-network-discovered-30644-1260916166-1.jpg","image_small":"/static/campaign_images/terminal01/2009/12/15/17/ancient-social-network-discovered-30644-1260916166-1_small.jpg","tracking":"ancient-social-network-discovered","link":"http://www.buzzfeed.com/expresident/ancient-social-network-discovered","track":"{\"c\":\"713VLE7\",\"u\":\"76T07\",\"buzz\":\"ancient-social-network-discovered\",\"user\":\"expresident\",\"types\":[100],\"queries\":[]}","f_track":"0"},{"link_buzz":"http://www.askmen.com/top_10/videogame/top-10-video-game-weapons_1p.html","form":"link","name":"Top 10 Video Game Weapons","uri":"top-10-video-game-weapons-oyw","username":"askmen","image":"/static/campaign_images/terminal01/2009/12/13/12/top-10-video-game-weapons-25675-1260723611-0.jpg","image_small":"/static/campaign_images/terminal01/2009/12/13/12/top-10-video-game-weapons-25675-1260723611-0_small.jpg","tracking":"top-10-video-game-weapons-oyw","link":"http://www.buzzfeed.com/askmen/top-10-video-game-weapons-oyw","track":"{\"c\":\"713KMH7\",\"u\":\"74V4V7\",\"buzz\":\"top-10-video-game-weapons-oyw\",\"user\":\"askmen\",\"types\":[100],\"queries\":[]}","f_track":"0"},{"link_buzz":null,"form":"image","name":"Millennium Falcon Bed","uri":"millennium-falcon-bed-ru","username":"lindseyweber","image":"/static/campaign_images/terminal01/2009/12/13/14/millennium-falcon-bed-25675-1260730862-2.jpg","image_small":"/static/campaign_images/terminal01/2009/12/13/14/millennium-falcon-bed-25675-1260730862-2_small.jpg","tracking":"millennium-falcon-bed-ru","link":"http://www.buzzfeed.com/lindseyweber/millennium-falcon-bed-ru","track":"{\"c\":\"713LN87\",\"u\":\"75OY7\",\"buzz\":\"millennium-falcon-bed-ru\",\"user\":\"lindseyweber\",\"types\":[100],\"queries\":[]}","f_track":"0"},{"link_buzz":null,"form":"image","name":"Freelancer&#8217;s Revenge","uri":"freelancers-revenge","username":"peggy","image":"/static/campaign_images/terminal01/2009/12/14/13/freelancers-revenge-31440-1260816764-14.jpg","image_small":"/static/campaign_images/terminal01/2009/12/14/13/freelancers-revenge-31440-1260816764-14_small.jpg","tracking":"freelancers-revenge","link":"http://www.buzzfeed.com/peggy/freelancers-revenge","track":"{\"c\":\"713PI27\",\"u\":\"72Q7\",\"buzz\":\"freelancers-revenge\",\"user\":\"peggy\",\"types\":[100],\"queries\":[]}","f_track":"0"},{"link_buzz":null,"form":"video","badge_type":"lol","name":"Pervy Toyota Ad","uri":"pervy-toyota-ad-anj","username":"conordaleh","image":"/static/campaign_images/web04/2009/12/14/17/pervy-toyota-ad-27843-1260829509-181.jpg","image_small":"/static/campaign_images/web04/2009/12/14/17/pervy-toyota-ad-27843-1260829509-181_small.jpg","tracking":"pervy-toyota-ad-anj","link":"http://www.buzzfeed.com/conordaleh/pervy-toyota-ad-anj","track":"{\"c\":\"713QM47\",\"u\":\"722XQ7\",\"buzz\":\"pervy-toyota-ad-anj\",\"user\":\"conordaleh\",\"types\":[100],\"queries\":[]}","f_track":"0"},{"link_buzz":null,"form":"image","name":"Young Love","uri":"young-love","username":"expresident","image":"/static/campaign_images/web04/2009/12/15/17/young-love-30970-1260915490-2.jpg","image_small":"/static/campaign_images/web04/2009/12/15/17/young-love-30970-1260915490-2_small.jpg","tracking":"young-love","link":"http://www.buzzfeed.com/expresident/young-love","track":"{\"c\":\"713VIO7\",\"u\":\"76T07\",\"buzz\":\"young-love\",\"user\":\"expresident\",\"types\":[100],\"queries\":[]}","f_track":"0"},{"link_buzz":null,"form":"image","name":"Kurt Cobain Playing With A Kitten","uri":"kurt-cobain-playing-with-a-kitten-4t5","username":"provincialelitist","image":"/static/campaign_images/web04/2009/12/14/17/kurt-cobain-playing-with-a-kitten-27857-1260829091-189.jpg","image_small":"/static/campaign_images/web04/2009/12/14/17/kurt-cobain-playing-with-a-kitten-27857-1260829091-189_small.jpg","tracking":"kurt-cobain-playing-with-a-kitten-4t5","link":"http://www.buzzfeed.com/provincialelitist/kurt-cobain-playing-with-a-kitten-4t5","track":"{\"c\":\"713QKY7\",\"u\":\"7Y0M7\",\"buzz\":\"kurt-cobain-playing-with-a-kitten-4t5\",\"user\":\"provincialelitist\",\"types\":[100],\"queries\":[]}","f_track":"0"},{"link_buzz":null,"form":"image","name":"The Most Upsetting Fact Of The Decade","uri":"the-most-upsetting-fact-of-the-decade","username":"mjs538","image":"/static/campaign_images/terminal01/2009/12/15/13/the-most-unsettling-fact-of-the-decade-15330-1260900457-0.jpg","image_small":"/static/campaign_images/terminal01/2009/12/15/13/the-most-unsettling-fact-of-the-decade-15330-1260900457-0_small.jpg","tracking":"the-most-upsetting-fact-of-the-decade","link":"http://www.buzzfeed.com/mjs538/the-most-upsetting-fact-of-the-decade","track":"{\"c\":\"713U627\",\"u\":\"72KY7\",\"buzz\":\"the-most-upsetting-fact-of-the-decade\",\"user\":\"mjs538\",\"types\":[100],\"queries\":[]}","f_track":"0"},{"link_buzz":null,"form":"video","name":"Your Favorite New Christmas Song","uri":"your-favorite-new-christmas-song-lpl","username":"bwgan","image":"/static/campaign_images/web02/2009/12/12/10/your-favorite-new-christmas-song-1405-1260633466-25.jpg","image_small":"/static/campaign_images/web02/2009/12/12/10/your-favorite-new-christmas-song-1405-1260633466-25_small.jpg","tracking":"your-favorite-new-christmas-song-lpl","link":"http://www.buzzfeed.com/bwgan/your-favorite-new-christmas-song-lpl","track":"{\"c\":\"713GE87\",\"u\":\"748BQ7\",\"buzz\":\"your-favorite-new-christmas-song-lpl\",\"user\":\"bwgan\",\"types\":[100],\"queries\":[]}","f_track":"0"},{"link_buzz":"http://www.bestweekever.tv/2009-12-15/snookie-the-blanket-with-skeeves","form":"link","name":"Snookie: The Blanket With Skeeves!","uri":"snookie-the-blanket-with-skeeves-8se","username":"bestweekever","image":"/static/campaign_images/terminal01/2009/12/15/17/snookie-the-blanket-with-skeeves-30634-1260915882-1.jpg","image_small":"/static/campaign_images/terminal01/2009/12/15/17/snookie-the-blanket-with-skeeves-30634-1260915882-1_small.jpg","tracking":"snookie-the-blanket-with-skeeves-8se","link":"http://www.buzzfeed.com/bestweekever/snookie-the-blanket-with-skeeves-8se","track":"{\"c\":\"713VJG7\",\"u\":\"71PVR7\",\"buzz\":\"snookie-the-blanket-with-skeeves-8se\",\"user\":\"bestweekever\",\"types\":[100],\"queries\":[]}","f_track":"0"},{"link_buzz":null,"form":"text","name":"Disney&#8217;s New Jewish American Princess","uri":"disneys-new-jewish-american-princess","username":"peggy","image":"/static/campaign_images/terminal01/2009/12/14/11/disneys-new-jewish-american-princess-31437-1260806529-2.jpg","image_small":"/static/campaign_images/terminal01/2009/12/14/11/disneys-new-jewish-american-princess-31437-1260806529-2_small.jpg","tracking":"disneys-new-jewish-american-princess","link":"http://www.buzzfeed.com/peggy/disneys-new-jewish-american-princess","track":"{\"c\":\"713OQU7\",\"u\":\"72Q7\",\"buzz\":\"disneys-new-jewish-american-princess\",\"user\":\"peggy\",\"types\":[100],\"queries\":[]}","f_track":"0"},{"link_buzz":null,"form":"image","name":"Person Of Interest Kitty","uri":"person-of-interest-kitty-hpz","username":"ashleytalong","image":"/static/campaign_images/web04/2009/12/12/15/person-of-interest-kitty-31978-1260648468-32.jpg","image_small":"/static/campaign_images/web04/2009/12/12/15/person-of-interest-kitty-31978-1260648468-32_small.jpg","tracking":"person-of-interest-kitty-hpz","link":"http://www.buzzfeed.com/ashleytalong/person-of-interest-kitty-hpz","track":"{\"c\":\"713HJN7\",\"u\":\"73GEN7\",\"buzz\":\"person-of-interest-kitty-hpz\",\"user\":\"ashleytalong\",\"types\":[100],\"queries\":[]}","f_track":"0"},{"link_buzz":null,"form":"image","name":"Nexus One","uri":"the-new-google-phone-leaked-photos-u4o","username":"aestheticoctopus","image":"/static/campaign_images/web03/2009/12/14/10/the-new-google-phone-leaked-photos-20293-1260805982-3.jpg","image_small":"/static/campaign_images/web03/2009/12/14/10/the-new-google-phone-leaked-photos-20293-1260805982-3_small.jpg","tracking":"the-new-google-phone-leaked-photos-u4o","link":"http://www.buzzfeed.com/aestheticoctopus/the-new-google-phone-leaked-photos-u4o","track":"{\"c\":\"713ONX7\",\"u\":\"75V947\",\"buzz\":\"the-new-google-phone-leaked-photos-u4o\",\"user\":\"aestheticoctopus\",\"types\":[100],\"queries\":[]}","f_track":"0"},{"link_buzz":null,"form":"image","badge_type":"viral","name":"What Beer Should I Drink?","uri":"what-beer-should-i-drink","username":"awesomer","image":"/static/campaign_images/terminal01/2009/12/14/16/what-should-i-drink-31446-1260827831-20.jpg","image_small":"/static/campaign_images/terminal01/2009/12/14/16/what-should-i-drink-31446-1260827831-20_small.jpg","tracking":"what-beer-should-i-drink","link":"http://www.buzzfeed.com/awesomer/what-beer-should-i-drink","track":"{\"c\":\"713QIM7\",\"u\":\"72ESJ7\",\"buzz\":\"what-beer-should-i-drink\",\"user\":\"awesomer\",\"types\":[100],\"queries\":[]}","f_track":"0"},{"link_buzz":"http://futurestack.com/jump/aebugs/","form":"image","badge_type":"geek","name":"Hilarious After Effects Crash Reports","uri":"one-after-effects-designer-decides-to-actually-use","username":"reddit","image":"/static/campaign_images/terminal01/2009/12/12/10/hilarious-after-effects-crash-reports-28452-1260630351-0.jpg","image_small":"/static/campaign_images/terminal01/2009/12/12/10/hilarious-after-effects-crash-reports-28452-1260630351-0_small.jpg","tracking":"one-after-effects-designer-decides-to-actually-use","link":"http://www.buzzfeed.com/reddit/one-after-effects-designer-decides-to-actually-use","track":"{\"c\":\"713G267\",\"u\":\"779C7\",\"buzz\":\"one-after-effects-designer-decides-to-actually-use\",\"user\":\"reddit\",\"types\":[100],\"queries\":[]}","f_track":"0"}] );
+		hb.abtest = 2;
+		hb.page_quantity = 4;
+	
+	  BuzzLoader.register( function() {
+	    if ( typeof _gaq != 'undefined' && _gaq != null ){
+	    	_gaq.push(['_trackPageview', '/_ga/click/hot_top/test007/impression/' + hb.abtest]);
+	    }
+	  }, 2 );
+	  
+	  BuzzLoader.register( function() {
+	  	hb.init();
+	  }, 1);
+	}  
 </script>
-<style type="text/css">
+<script type="text/javascript" src="http://s.buzzfed.com/static/js/public/header_buzz.js?version=1260916302"></script>
 
-  .HotHead { position:absolute; right:40px; bottom:55px; }
-  .HotHead .sideways { width:125px; height:90px; position:relative; margin-left:20px; margin-right:10px;}
-  .HotHead .sideways .thumb { float:left; }
-  .HotHead .sideways h3 { display:inline; }
-  .HotHead .sideways h3 a { position:absolute; left:0; top:0; width:125px; height:90px; overflow:hidden; text-indent:-9999px; }
-  .HotHead .sideways h3 a:hover { text-indent:0; }
-  .HotHead .sideways h3 a:hover span { display:block; background:#fff; color:#07e; padding:0 0 5px; font:18px Georgia,serif; xxxline-height:14px; width:100%; height:90px; }  
 
-  .HotNav { position:absolute; right:5px; bottom:73px;bottom:65px; width:24px; }
-</style>
 
 <div class="HotHead" id="hothead-unscripted">
-		<div class="small-unit sideways track abtrack" id="header_buzz_unscripted" track="{&quot;c&quot;:&quot;79S057&quot;,&quot;u&quot;:&quot;72UO7&quot;,&quot;buzz&quot;:&quot;is-this-nsfw-d8&quot;,&quot;user&quot;:&quot;sarahmorgan&quot;,&quot;types&quot;:[100]}">
-		<div class="thumb">
-			<a href="/sarahmorgan/is-this-nsfw-d8"><img src="http://s.buzzfeed.com/static/campaign_images/terminal01/2009/2/24/13/is-this-nsfw-17436-1235499251-9.jpg" width="125" height="90" alt=""></a>
-					</div>
-		<h3><a href="/sarahmorgan/is-this-nsfw-d8"><span>Is This NSFW?</span></a></h3>
+	
+	
+	
+		
+		<div class="unit track abtrack" track="{&quot;c&quot;:&quot;713VRT7&quot;,&quot;u&quot;:&quot;75X567&quot;,&quot;buzz&quot;:&quot;courtney-love-loses-guardianship-of-daughter-uee&quot;,&quot;user&quot;:&quot;limelife&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}" track_load="{&quot;PROMO_IMPRESSION&quot;:1}" track_mousedown="{&quot;PROMO_CLICK&quot;:1}">
+	  <a class="thumbbb" href="http://www.limelife.com/blog-entry/Courtney-Love-Loses-Guardianship-of-Daughter/28975.html"><img src="http://s.buzzfed.com/static/gfeeds/partners/limelife.jpg" width="125" height="83" alt=""></a>
+				<a class="badge" href="http://www.limelife.com/blog-entry/Courtney-Love-Loses-Guardianship-of-Daughter/28975.html"><img src="http://s.buzzfed.com/static/badge_images/partner.png?v=1260916302" alt="PARTNER" width="50" height="50"></a>
+				<a class="title" href="http://www.limelife.com/blog-entry/Courtney-Love-Loses-Guardianship-of-Daughter/28975.html"><span>Courtney Love Loses Guardianship of Daughter </span></a>
+	  
 	</div>
-		<div class="small-unit sideways track abtrack" id="header_buzz_unscripted" track="{&quot;c&quot;:&quot;79S4T7&quot;,&quot;u&quot;:&quot;76XH7&quot;,&quot;buzz&quot;:&quot;woman-cannot-park-her-own-car-y7&quot;,&quot;user&quot;:&quot;edithzimmerman&quot;,&quot;types&quot;:[100]}">
-		<div class="thumb">
-			<a href="/edithzimmerman/woman-cannot-park-her-own-car-y7"><img src="http://s.buzzfeed.com/static/campaign_images/terminal01/2009/2/24/13/woman-cannot-park-her-own-car-17431-1235500353-16.jpg" width="125" height="90" alt=""></a>
-					</div>
-		<h3><a href="/edithzimmerman/woman-cannot-park-her-own-car-y7"><span>Woman Cannot Park Her Own Car</span></a></h3>
+	
+	
+		<div class="unit track abtrack" track="{&quot;c&quot;:&quot;713RA87&quot;,&quot;u&quot;:&quot;742NY7&quot;,&quot;buzz&quot;:&quot;hollywood-teaches-geography-kwh&quot;,&quot;user&quot;:&quot;mask824&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}" track_load="{&quot;PROMO_IMPRESSION&quot;:8}" track_mousedown="{&quot;PROMO_CLICK&quot;:8}">
+	  <a class="thumbbb" href="/mask824/hollywood-teaches-geography-kwh"><img src="http://s.buzzfed.com/static/campaign_images/web02/2009/12/14/21/hollywood-teaches-geography-15671-1260843387-52.jpg" width="125" height="83" alt=""></a>
+				<a class="title" href="/mask824/hollywood-teaches-geography-kwh"><span>Hollywood Teaches Geography</span></a>
+	  
 	</div>
-		<div class="small-unit sideways track abtrack" id="header_buzz_unscripted" track="{&quot;c&quot;:&quot;79TGG7&quot;,&quot;u&quot;:&quot;76XH7&quot;,&quot;buzz&quot;:&quot;body-paint-or-clothes-y7&quot;,&quot;user&quot;:&quot;edithzimmerman&quot;,&quot;types&quot;:[100]}">
-		<div class="thumb">
-			<a href="/edithzimmerman/body-paint-or-clothes-y7"><img src="http://s.buzzfeed.com/static/campaign_images/terminal01/2009/2/24/20/body-paint-or-clothes-21698-1235527103-1.jpg" width="125" height="90" alt=""></a>
-					</div>
-		<h3><a href="/edithzimmerman/body-paint-or-clothes-y7"><span>Body Paint or Clothes? (NSFW)</span></a></h3>
+	
+	
+		<div class="unit track abtrack" track="{&quot;c&quot;:&quot;713UII7&quot;,&quot;u&quot;:&quot;72Q7&quot;,&quot;buzz&quot;:&quot;puppy-takes-a-sht-on-live-talk-show&quot;,&quot;user&quot;:&quot;peggy&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}" track_load="{&quot;PROMO_IMPRESSION&quot;:8}" track_mousedown="{&quot;PROMO_CLICK&quot;:8}">
+	  <a class="thumbbb" href="/peggy/puppy-takes-a-sht-on-live-talk-show"><img src="http://s.buzzfed.com/static/campaign_images/terminal01/2009/12/15/14/puppy-takes-a-sht-on-live-talk-show-19000-1260904411-0.jpg" width="125" height="83" alt=""></a>
+				<a class="title" href="/peggy/puppy-takes-a-sht-on-live-talk-show"><span>Puppy Takes a Sh*t on Live Talk Show</span></a>
+	  
 	</div>
-		<div class="small-unit sideways track abtrack" id="header_buzz_unscripted" track="{&quot;c&quot;:&quot;79STP7&quot;,&quot;u&quot;:&quot;76XH7&quot;,&quot;buzz&quot;:&quot;beyonces-nip-slip-y7&quot;,&quot;user&quot;:&quot;edithzimmerman&quot;,&quot;types&quot;:[100]}">
-		<div class="thumb">
-			<a href="/edithzimmerman/beyonces-nip-slip-y7"><img src="http://s.buzzfeed.com/static/campaign_images/terminal01/2009/2/24/16/beyonce-nipple-slip-21695-1235512723-0.jpg" width="125" height="90" alt=""></a>
-						<a class="badge" href="/edithzimmerman/beyonces-nip-slip-y7"><img src="http://s.buzzfeed.com/static/badge_images/viral.png?v=1235510801" alt="" width="50" height="50"></a>
-					</div>
-		<h3><a href="/edithzimmerman/beyonces-nip-slip-y7"><span>Beyonce’s Nipple Slip</span></a></h3>
+	
+	
+		<div class="unit track abtrack" track="{&quot;c&quot;:&quot;713QFB7&quot;,&quot;u&quot;:&quot;77957&quot;,&quot;buzz&quot;:&quot;the-side-wedgie&quot;,&quot;user&quot;:&quot;digg&quot;,&quot;types&quot;:[100],&quot;queries&quot;:[]}" track_load="{&quot;PROMO_IMPRESSION&quot;:8}" track_mousedown="{&quot;PROMO_CLICK&quot;:8}">
+	  <a class="thumbbb" href="/digg/the-side-wedgie"><img src="http://s.buzzfed.com/static/campaign_images/terminal01/2009/12/14/18/the-side-wedgie-31440-1260831895-26.jpg" width="125" height="83" alt=""></a>
+				<a class="title" href="/digg/the-side-wedgie"><span>The Side Wedgie</span></a>
+	  
 	</div>
 	</div>
 <div class="HotHead" id="hothead-scripted" style="display: none;">
@@ -199,21 +275,97 @@
 	<li class="arrow next"><a title="More Buzz" id="header_buzz_next" href="#">Next</a></li>
 </ul>
 
+<style type="text/css">
+.random-button { position:absolute; height:83px; width:90px; bottom:65px; right:0; background:url(http://s.buzzfed.com/static/images/public/header/random-thumbs2.png) no-repeat; overflow:hidden; text-indent:-9999px; }
+.random-button:hover { opacity: 0.85; -moz-opacity: 0.85; filter:alpha(opacity=85);}
+.rnd2   { background-position:-90px  0; }
+.rnd3   { background-position:-180px 0; }
+.rnd4   { background-position:-270px 0; }
+.rnd5   { background-position:-360px 0; }
+.rnd6   { background-position:-450px 0; }
+.rnd7   { background-position:-540px 0; }
+.rnd8   { background-position:-630px 0; }
+.rnd9   { background-position:-720px 0; }
+.rnd10  { background-position:-810px 0; }
+.rnd11  { background-position:-900px 0; }
+.rnd12  { background-position:-990px 0; }
+.rnd-spinner { background:url(http://s.buzzfed.com/static/images/public/spinners/big_on_white.gif) center center no-repeat; text-indent:0; text-align:center; }
+</style>
+<script type="text/javascript" charset="utf-8">
+	function inject_rando_code() {
+		$('random_button').hide();
+		$('random_button_spinner').show();
+		BF_XSS.swift_injection("/random.js");
+	}
+</script>
+<a id="random_button" class="random-button" href="#" onclick="inject_rando_code(); return false;">Random!</a>
+<div id="random_button_spinner" class="random-button rnd-spinner" style="display:none">Randomizing!</div>
+<script type="text/javascript" charset="utf-8">
+/* <![CDATA[ */
+	try {
+		var abtest_randombutton = new ABTest();
+		abtest_randombutton.init({
+			testid: 'random-button/test002',
+			element: 'random_button',
+			test_units: [
+	      { className: 'rnd1',  analytics_url: 'a_random ' },
+	      { className: 'rnd2',  analytics_url: 'b_magic' },
+	      { className: 'rnd3',  analytics_url: 'c_questions' },
+	      { className: 'rnd4',  analytics_url: 'd_surprise' },
+	      { className: 'rnd5',  analytics_url: 'e_button' },
+	      { className: 'rnd6',  analytics_url: 'f_pressme' },
+	      { className: 'rnd7',  analytics_url: 'g_pressit' },
+	      { className: 'rnd8',  analytics_url: 'f_blank' },
+	      { className: 'rnd9',  analytics_url: 'f_arrows' },
+			]
+		});
+	} catch(e) {
+		console.error(e);
+	}
+/* ]]> */
+</script>
 
-								
-				<ul class="CatNav">
-										<li class="culture"><a href="/category/culture">culture</a></li>
-					<li class="movie"><a href="/category/movie">movies</a></li>
-					<li class="music"><a href="/category/music">music</a></li>
-					<li class="tv"><a href="/category/tv">tv</a></li>
-					<li class="celebrity"><a href="/category/celebrity">celebrity</a></li>
-					<li class="style"><a href="/category/style">style</a></li>
-					<li class="food"><a href="/category/food">food</a></li>
-					<li class="politics"><a href="/category/politics">politics</a></li>
-					<li class="business"><a href="/category/business">business</a></li>
-					<li class="sports"><a href="/category/sports">sports</a></li>
-					<li class="science"><a href="/category/science">science</a></li>
-					<li class="tech"><a href="/category/tech">tech</a></li>
+
+								<ul class="SubNav">
+				  <li><a href="/lol">lol</a></li>
+				  <li><a href="/wtf">wtf</a></li>
+				  <li><a href="/omg">omg</a></li>
+				  <li><a href="/cute">cute</a></li>
+				  <li><a href="/geek">geeky</a></li>
+				  <li><a href="/trashy">trashy</a></li>
+				  <li><a href="/viralfeed">viral</a></li>
+          <li class="seperator has-menu">
+            <a class="menu-title" href="#" onclick="return false;">more</a>
+            <ul class="MenuNav menu-more">
+    				  <li><a href="/ew">ew</a></li>
+				      <li><a href="/badge/classic">classic</a></li>
+				      <li><a href="/badge/most-shared">most shared</a></li>
+				      <li><a href="/badge/should-be-viral">should be viral</a></li>
+				      <li><a href="/badge/gold-star">gold starred posts</a></li>
+				      <li><a href="/badge/time-waster">time wasters</a></li>
+				      <li><a href="/badge/collection">collections</a></li>
+				      <li><a href="/contests">contests</a></li>
+				      <li><a href="/badge/labs">buzzfeed labs</a></li>
+				    </ul>
+          </li>
+				  <li class="seperator has-menu">
+				    <a class="menu-title" href="#" onclick="return false;">categories</a>
+				    <ul class="MenuNav menu-categories">
+    					    					<li><a href="/category/culture">culture</a></li>
+    					<li><a href="/category/movie">movies</a></li>
+    					<li><a href="/category/music">music</a></li>
+    					<li><a href="/category/tv">tv</a></li>
+    					<li><a href="/category/celebrity">celebrity</a></li>
+    					<li><a href="/category/style">style</a></li>
+    					<li><a href="/category/food">food</a></li>
+    					<li><a href="/category/politics">politics</a></li>
+    					<li><a href="/category/business">business</a></li>
+    					<li><a href="/category/sports">sports</a></li>
+    					<li><a href="/category/science">science</a></li>
+    					<li><a href="/category/tech">tech</a></li>
+    				</ul>				    
+			    </li>
+          <!-- <li><a href="/contests">contests</a></li>           -->
 				</ul>
 
       </div>
@@ -221,26 +373,30 @@
 			<hr>
 
 			<div class="Container">
-				
-        
+
 <div class="Content">
 	
 	
 <div class="AboutNav">
 	
-	<div class="">        
-	
+  <div class="">        
+  
+  <!-- <ul> 
+    <li class=""><a href="/help">Help</a></li>
+  </ul> -->
 	<ul>
+    <li class=""><a href="/help/faq">Help / FAQ <img src="http://s.buzzfed.com/static/images/public/icons/new.gif" width="24" height="13" alt="New!"></a></li>
+    <li class=""><a href="/help/feedback">Feedback</a></li>
+	</ul>
+	<ul>
+    <!-- <li class=""><a href="/help/tools">Tools</a></li> -->
     <li class=""><a href="/help/rss">RSS Feeds</a></li>
 	</ul> 			
 	<ul>	      
-    <li class=""><a href="/about">About</a></li>
-    <li class=""><a href="/about/team">Team</a></li>
+    <li class=""><a href="/about">About BuzzFeed</a></li>
+    <li class=""><a href="/about/team">Our Team</a></li>
     <li class=""><a href="/about/jobs">Jobs</a></li>
-	</ul>
-	<ul>
     <li class=""><a href="/about/contact">Contact Us</a></li>
-    <li class=""><a href="/help/feedback">Feedback</a></li>
 	</ul>
 	<ul>
     <li class="current"><a href="/about/privacy">Privacy Policy</a></li>
@@ -292,38 +448,46 @@
 
 		</div><!--/Container-->
 
-				<div class="Footer">
+  	
+<div class="Footer">
 	<ul>
 	  
 	  <li class="c1">
 			<h2>BuzzFeed</h2>
 	    <ul class="list">	      
+	      <li><a href="/help/faq">Help / FAQ</a></li>
+        <li class="break"><a href="/help/feedback">Feedback</a></li>
 	      <li><a href="/about">About Us</a></li>
 	      <li><a href="/about/team">Our Team</a></li>
-	      <li><a href="/about/jobs">Jobs</a></li>
+	      <li><a href="/about/jobs">Jobs</a> </li>
 	      <li class="break"><a href="/about/contact">Contact Us</a></li>
-        <li class="break"><a href="/help/feedback">Feedback</a></li>
 	      <li><a href="/about/privacy">Privacy Policy</a></li>
 	      <li><a href="/about/useragreement">User Agreement</a></li>
 	  	</ul> 			
 		</li>			
 		
 		<li class="c2">
-			<h2>RSS Feeds</h2>
-			<ul class="list">
-		    <li><a class="rss" href="/index.xml">Home Page</a></li>
-		    <li><a class="rss" href="/raw.xml">Raw Feed</a></li>
-		    <li><a href="/help/rss">More RSS Feeds</a></li>
-			</ul>
-			<h2>Widgets</h2>
-			<ul class="list">
-				<li><a href="http://s.buzzfeed.com/downloads/buzzfeed-dashboard-widget.zip">Apple Dashboard</a></li>
-				<li><a href="http://s.buzzfeed.com/downloads/buzzfeed-yahoo-widget.zip">Yahoo Desktop</a></li>
-				<li><a href="http://eco.netvibes.com/subscribe.php?url=http%3A%2F%2Fs.buzzfeed.com%2Fnetvibes%2Fnetvibes.xhtml&amp;type=UWA">NetVibes</a></li>
-		    <li><a href="http://www.google.com/ig/adde?source=ignsrc1&amp;moduleurl=http://s.buzzfeed.com/igoogle/ig.xml">iGoogle</a></li> 
-				<li><a href="http://www.pageflakes.com/AddFlake.aspx?URL=__BUZZFEED__">PageFlakes</a></li>
-				<li><a href="/network">For Your Website</a></li>
-			</ul>
+      <h2>Feeds</h2>
+      <ul class="list">
+        <li><a href="/index.xml">Home Page RSS Feed</a></li>
+        <li class="break"><a href="/help/tools"></a><a href="/help/rss">More RSS Feeds</a></li>
+      </ul>
+      <!-- <h2>Tools</h2>
+      <ul class="list">
+        <li><a class="rss" href="/index.xml">Home Page Feed</a></li>
+        <li class="break"><a href="/help/tools"><a href="/help/rss">More RSS Feeds</a></li>
+        <li><a href="/help/tools#bookmarklet">Bookmarklet</a></li>
+        <li><a href="/help/tools#widgets">Widgets</a></li>
+      </ul> -->
+      <h2>Widgets</h2>
+      <ul class="list">
+        <li><a href="http://s.buzzfeed.com/downloads/buzzfeed-dashboard-widget.zip">Apple Dashboard</a></li>
+        <li><a href="http://s.buzzfeed.com/downloads/buzzfeed-yahoo-widget.zip">Yahoo Desktop</a></li>
+        <li><a href="http://eco.netvibes.com/subscribe.php?url=http%3A%2F%2Fs.buzzfeed.com%2Fnetvibes%2Fnetvibes.xhtml&amp;type=UWA">NetVibes</a></li>
+        <li><a href="http://www.google.com/ig/adde?source=ignsrc1&amp;moduleurl=http://s.buzzfeed.com/igoogle/ig.xml">iGoogle</a></li> 
+        <li><a href="http://www.pageflakes.com/AddFlake.aspx?URL=__BUZZFEED__">PageFlakes</a></li>
+        <li><a href="/network">For Your Website</a></li>
+      </ul>
 			<h2>Social</h2>
 			<ul class="list">
 		    <li><a href="http://twitter.com/BuzzFeed">Follow us on Twitter</a></li> 
@@ -333,7 +497,7 @@
 		
 		<li class="c3">
 			<h2>In Your Inbox</h2>
-			<p>Our newsletter delivers the BuzFeed posts you want to your inbox once a day.</p>
+			<p>Our newsletter delivers the BuzzFeed posts you want to your inbox once a day.</p>
 			<form method="post" action="http://www.feedburner.com/fb/a/emailverify" target="_blank" style="margin-bottom:15px">
 				<fieldset>
 				<div style="margin-bottom:5px">
@@ -359,7 +523,7 @@
 		
 		<li class="c4">
     	<h2>Add BuzzFeed to Your Site</h2>
-    	<p><a href="/network/widget"><img src="http://s.buzzfeed.com/static/images/public/network/build-a-widget.jpg" width="300" height="71" alt=""></a>
+    	<p><a href="/network/widget"><img src="http://s.buzzfed.com/static/images/public/network/build-a-widget.jpg" width="300" height="71" alt=""></a>
     	  Get traffic, content, and influence by joining the BuzzFeed network. It’s as easy as adding our widget to your site.</p>
     	<p><a href="/network" class="action">Get Started →</a></p>
 		</li>
@@ -368,44 +532,77 @@
 
 	<p class="copyright">Copyright © 2009 BuzzFeed, Inc.</p>	
 
-</div><!--/Footer-->			</div><!--/Page-->
+</div><!--/Footer-->		
+	</div><!--/Page-->
 
 
 	
 		
 	
-	<script type="text/javascript">
-		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-	<script type="text/javascript">
-		var pageTracker = _gat._getTracker("UA-1740781-1");
-		pageTracker._initData();
-		pageTracker._trackPageview();
-		
+  
 
-		
+ 
 
+		 
+	<script type="text/javascript">
+		
+		try {
+			
+	
+			
+	
+	    // register a/b test code
+	    if( typeof(ABTestList) != 'undefined' ) {
+	      for(var i = 0; i < ABTestList.length; i++ ) {
+	        ABTestList[i].register_impression();
+	      } 
+	    }
+	 } catch(e) {
+	 	console.error(e);
+	 }
 	</script>
 
-		
-	<!-- Start Quantcast tag -->
-	<noscript>
-	<a href="http://www.quantcast.com/p-3aud4J6uA4Z6Y" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-3aud4J6uA4Z6Y.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
-	</noscript>
-	<!-- End Quantcast tag -->
-		
+	
+	<!--  not live -->
 		
     <div id="FB_HiddenContainer" style="position:absolute; top:-10000px; left:-10000px; width:0px; height:0px;"></div>
-	<script src="http://s.buzzfeed.com/static/js/public/footer_loader.js?v=1235510801" type="text/javascript"></script>
+	<script src="http://s.buzzfed.com/static/js/public/footer_loader.js?v=1260916302" type="text/javascript"></script>
 	<script type="text/javascript">
 	_qoptions={
 	qacct:"p-3aud4J6uA4Z6Y"
 	};
 	BuzzLoader.register_injection( "http://edge.quantserve.com/quant.js", 10 );
-	</script>	
-<script src="/static/js/public/report/editor.js"></script>
-	<div id="buzz-body"><a id="http%3A//mixx.com/" href="http://mixx.com/">mixx</a><a id="http%3A//mixx.com" href="http://mixx.com">mixx</a><a id="http%3A//www.mixx.com/" href="http://www.mixx.com/">mixx</a><a id="http%3A//www.mixx.com" href="http://www.mixx.com">mixx</a><a id="http%3A//del.icio.us" href="http://del.icio.us">delicious</a><a id="http%3A//del.icio.us/" href="http://del.icio.us/">delicious</a><a id="http%3A//delicious.com" href="http://delicious.com">delicious</a><a id="http%3A//delicious.com/" href="http://delicious.com/">delicious</a><a id="http%3A//www.delicious.com" href="http://www.delicious.com">delicious</a><a id="http%3A//www.delicious.com/" href="http://www.delicious.com/">delicious</a><a id="http%3A//stumbleupon.com/" href="http://stumbleupon.com/">stumbleupon</a><a id="http%3A//stumbleupon.com" href="http://stumbleupon.com">stumbleupon</a><a id="http%3A//www.stumbleupon.com/" href="http://www.stumbleupon.com/">stumbleupon</a><a id="http%3A//www.stumbleupon.com" href="http://www.stumbleupon.com">stumbleupon</a><a id="http%3A//reddit.com/" href="http://reddit.com/">reddit</a><a id="http%3A//reddit.com" href="http://reddit.com">reddit</a><a id="http%3A//www.reddit.com/" href="http://www.reddit.com/">reddit</a><a id="http%3A//www.reddit.com" href="http://www.reddit.com">reddit</a><a id="http%3A//twitter.com/" href="http://twitter.com/">twitter</a><a id="http%3A//twitter.com" href="http://twitter.com">twitter</a><a id="http%3A//www.twitter.com/" href="http://www.twitter.com/">twitter</a><a id="http%3A//www.twitter.com" href="http://www.twitter.com">twitter</a><a id="http%3A//digg.com/" href="http://digg.com/">digg</a><a id="http%3A//digg.com" href="http://digg.com">digg</a><a id="http%3A//www.digg.com/" href="http://www.digg.com/">digg</a><a id="http%3A//www.digg.com" href="http://www.digg.com">digg</a></div>
+	</script>
+	
+	<!-- Begin comScore code --> 
+	<script type="text/javascript">
+	BF_CS_ITERAIONS = 0;
+	BF_CS_ID = 6768151;
+	BF_CS_FUNCTION = null;
+	BuzzLoader.register( function() {	
+		var comscore_script_url = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+		BF_XSS.swift_injection( comscore_script_url ); 		
+		BF_CS_FUNCTION = function() {
+			if(typeof COMSCORE == 'undefined') {
+				BF_CS_ITERAIONS++;
+				//console.log('no comscore loaded...sleep 200 mills - interation: ' + BF_CS_ITERAIONS);
+				if(BF_CS_ITERAIONS < 20) {				
+					setTimeout(BF_CS_FUNCTION, 200);
+				}
+			} else {
+				//console.log('loaded comscore ... interation: ' + BF_CS_ITERAIONS);				
+				COMSCORE.beacon({ c1:2, c2:BF_CS_ID, c3:"buzzfeed.com", c4:"", c5:"", c6:"", c15:"" });
+			}
+		};
+		BF_CS_FUNCTION();
+		
+	 }, 10);	  
+	</script> 
+	<!-- End comScore code -->
+	
+
+	
+	<div id="buzz-body"><a id="http%3A//fark.com/" href="http://fark.com/">fark</a><a id="http%3A//fark.com" href="http://fark.com">fark</a><a id="http%3A//www.fark.com/" href="http://www.fark.com/">fark</a><a id="http%3A//www.fark.com" href="http://www.fark.com">fark</a><a id="http%3A//del.icio.us" href="http://del.icio.us">delicious</a><a id="http%3A//del.icio.us/" href="http://del.icio.us/">delicious</a><a id="http%3A//delicious.com" href="http://delicious.com">delicious</a><a id="http%3A//delicious.com/" href="http://delicious.com/">delicious</a><a id="http%3A//www.delicious.com" href="http://www.delicious.com">delicious</a><a id="http%3A//www.delicious.com/" href="http://www.delicious.com/">delicious</a><a id="http%3A//stumbleupon.com/" href="http://stumbleupon.com/">stumbleupon</a><a id="http%3A//stumbleupon.com" href="http://stumbleupon.com">stumbleupon</a><a id="http%3A//www.stumbleupon.com/" href="http://www.stumbleupon.com/">stumbleupon</a><a id="http%3A//www.stumbleupon.com" href="http://www.stumbleupon.com">stumbleupon</a><a id="http%3A//reddit.com/" href="http://reddit.com/">reddit</a><a id="http%3A//reddit.com" href="http://reddit.com">reddit</a><a id="http%3A//www.reddit.com/" href="http://www.reddit.com/">reddit</a><a id="http%3A//www.reddit.com" href="http://www.reddit.com">reddit</a><a id="http%3A//twitter.com/" href="http://twitter.com/">twitter</a><a id="http%3A//twitter.com" href="http://twitter.com">twitter</a><a id="http%3A//www.twitter.com/" href="http://www.twitter.com/">twitter</a><a id="http%3A//www.twitter.com" href="http://www.twitter.com">twitter</a><a id="http%3A//digg.com/" href="http://digg.com/">digg</a><a id="http%3A//digg.com" href="http://digg.com">digg</a><a id="http%3A//www.digg.com/" href="http://www.digg.com/">digg</a><a id="http%3A//www.digg.com" href="http://www.digg.com">digg</a></div>
 
 
 </body></html>
