@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the desertsun.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617052929id_/http%3A//www.mydesert.com/apps/pbcs.dll/section%3FCategory%3DPRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desertsun.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217000308id_/http%3A//www.mydesert.com/apps/pbcs.dll/section%3FCategory%3DPRIVACY) for the most accurate reproduction.*
 
-# MyDesert.com | Palm Springs Privacy Policy | The Desert Sun
+# mydesert.com | Palm Springs Privacy Policy | The Desert Sun
 
 Last Updated: March 4, 2009
 
