@@ -1,15 +1,25 @@
-> *The following text is extracted and transformed from the csa.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509134327id_/http%3A//www.csa.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csa.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216191941id_/http%3A//www.proquest.com/en-US/site/privacy.shtml) for the most accurate reproduction.*
 
-# CSA Privacy Policy
+# ProQuest - Privacy Policy
 
-CSA is committed to respecting the privacy of its customers and individual users who access our databases over the Internet. 
+**Your Privacy**  
+ProQuest LLC ("ProQuest") and its business units value your privacy and take precautions to protect the personal information you provide us from loss, misuse and unauthorized access, disclosure, alteration and destruction. In the registration, trial request and product bulletin subscription systems, we ask you to provide contact information including your name, address, email address and phone number. We store this personal information in databases that we use to deliver the requested products to you.
 
-As a service to users, you can choose to store temporarily your search results on our Web server by using your e-mail address. CSA does not use this address for any other purpose, and you can delete the search results at any time, which automatically removes your e-mail address from our system. We do track database usage, page visits, and searches made for the purposes of providing aggregated statistical information to our customers and information partners. These tracking functions are done at the organizational customer level by IP address which identifies the customer's server and does not reveal the identity of any individual user. 
+**Use of Your Personal Information**  
+When you register, we ask whether you want to receive periodic updates about our new products. We put your name on a mailing list for future product announcements only if you indicate that you want us to do so. If you contact us through our web site and request information, we use the contact information you provide only for the stated purpose. Only a limited number of authorized employees have access to the information you provide. We will disclose your personal information if we are required to do so by law or legal process. Your personal information will be used only for the purposes stated above, will not be shared with third parties other than those described above and will not be sold to third parties.
 
-There will be occasions when you volunteer information about yourself. For instance, when you complete any of our registration forms on our Web site you will be giving us information about your role as a representative of your organization. User-specific information volunteered by you in these instances is archived for CSA marketing and sales use only. CSA does not sell, rent or lease its customer lists to third parties. Additionally, when you initiate contact with CSA through our Web site or by e-mail, you will be supplying us with information about what your concerns are, as well as how to contact you. CSA may want to use the information you provide to respond to you and to continue to contact you in the future. If you do not want CSA to contact you, you can choose to "opt out," and CSA will respect your wishes. 
+Upon registration, we request your birth date for the purpose of determining age, so that we may distinguish users under the age of 13 ("Pre-Teen Users") from users age 13 or older. However, as part of our compliance with COPPA, we do not collect other information that would allow us to associate the birth date with any particular child. Instead, we register Pre-Teen Users with only a User-selected, unique user name and password. We do not knowingly grant Pre-Teen Users access to any services that gather their personal information.
 
-CSA has several links to outside resources in an effort to help individuals gather information. CSA is not responsible for the content provided on these sites, their privacy policies, or how they treat information about their users. 
+**Viewing and Correcting Your Personal Information**  
+You can update your personal information at any time by clicking the user profile link on your My Products page. Your My Products page is displayed when you log in.
 
-We reserve the right to disclose your personal information if we are required to do so by law, or we in good faith believe that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on CSA or the site; (b) protect and defend the rights or property of CSA; or, (c) protect the personal safety of users of CSA, its web sites, or the public. 
+**How We Use Cookie Technology**  
+The ProQuest information products use cookie technology to initiate and maintain your session connections and to compile aggregated statistics about web site usage. The cookie stores encrypted information verifying your access to the system. In no case is it used to access personal information, nor is the session information maintained in the cookie made available to other organizations.
 
-If you have any questions or comments about our privacy practices, or if you would like to stop receiving information from CSA or correct any information you have submitted, please contact us at [marketing@csa.com](mailto:marketing@csa.com). 
+**What Happens if the Company is Sold**  
+If ProQuest, or its business units, were to merge with or be acquired by another organization, the database of customer information would be one of the assets acquired.
+
+**Changes to the Privacy Policy**  
+ProQuest and its bigchalk business unit may occasionally revise this Privacy Policy. Changes to the Privacy Policy will appear on this page.
+
+_Last updated 5/14/07_
