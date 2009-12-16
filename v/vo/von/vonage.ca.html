@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vonage.ca privacy policy that was archived on 2009-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090615162549id_/http%3A//www.vonage.ca/help.php%3Fkeyword%3DPrivacyPolicyCA) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vonage.ca privacy policy that was archived on 2009-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091217002738id_/http%3A//www.vonage.ca/help.php%3Fkeyword%3DPrivacyPolicyCA) for the most accurate reproduction.-->
 
 <html><head>
 <title>
@@ -556,7 +556,95 @@ function swapNav(id, imageName, imageStatus) {
 </div>
 <!-- End Search Box -->
 <!-- ENDNOSEARCH -->
-<link rel="stylesheet" type="text/css" href="/knowledgeBase/ekb_article_all.css" media="all">
+<script language="JavaScript1.2">
+	
+	//Constants
+	activationFee	= 39.99;
+	
+	PremiumPrice		= 39.99;
+	UnlimitedPrice		= 0;
+	BasicPrice			= 19.99;
+	SBPremiumPrice		= 69.99;
+	SBUnlimitedPrice	= 55.99;
+	
+		ShipHand		= 19.99;
+	
+	function padChange(amount) {
+		pad  = ((amount * 10) % 10) ? "" : ".0";
+		pad += ((amount * 100) % 10) ? "" : "0";
+		return pad;
+	}
+	
+	function calculateCost( ) {
+					
+				Premium			= document.costs.plans[0].checked;
+		if(Premium) plan = PremiumPrice;
+								Basic			= document.costs.plans[2].checked;
+		if(Basic) plan = BasicPrice;
+						SBPremium		= document.costs.plans[3].checked;
+		if(SBPremium) plan = SBPremiumPrice;
+						SBUnlimited		= document.costs.plans[4].checked;
+		if(SBUnlimited) plan = SBUnlimitedPrice;
+				
+			
+		//in NJ?
+					NJ = false;
+			
+				
+		HTML   = "<table cellpadding=2 cellspacing=2 border=0 width=240>";
+		total  = 0;
+		
+		HTML  += "<tr><td colspan=2 nowrap><strong>Startup Costs<BR>(includes first month of service)</strong></td></tr>";
+		
+		HTML  += "<tr><td>Activation Fee</td><td align=right>$" + activationFee + padChange(activationFee) + "</td></tr>";
+		total += activationFee;
+		
+		HTML  += "<tr><td>First Month's Service Charge</td><td align=right>$" + plan + padChange(plan) + "</td></tr>";
+		total += plan;
+		
+				
+		HTML  += "<tr><td>Shipping and Handling</td><td align=right>$" + ShipHand + padChange(ShipHand) + "</td></tr>";
+		total += ShipHand;
+		
+		HTML  += "<tr><td colspan=2><hr></td></tr>";
+		
+		total *= 100;
+		total  = Math.round(total);
+		total /= 100;
+		HTML  += "<tr><td>Total</td><td align=right>$" + total + padChange(total) + "</td></tr>";
+		
+				
+				
+		total = 0;
+		
+		HTML  += "<tr><td colspan=2><strong>&nbsp;</strong></td></tr>";
+		
+		HTML  += "<tr><td colspan=2><strong>Monthly Service Charge</strong></td></tr>";
+		
+		HTML  += "<tr><td>Monthly Service Charge</td><td align=right>$" + plan + padChange(plan) + "</td></tr>";
+		total += plan;
+		
+				
+		HTML  += "<tr><td colspan=2><hr></td></tr>";
+		
+		total *= 100;
+		total  = Math.round(total);
+		total /= 100;
+		HTML  += "<tr><td>Total</td><td align=right>$" + total + padChange(total) + "</td></tr>";
+		
+				
+		HTML += "</table>";
+		
+		if(document.all) {
+			document.all.chargesDiv.innerHTML = HTML;
+		} else {
+			chargesDiv = findObj('chargesDiv');
+			chargesDiv.innerHTML = HTML;
+		}
+	
+	}
+
+</script><link rel="stylesheet" type="text/css" href="/knowledgeBase/ekb_article_all.css" media="all">
 <link rel="stylesheet" type="text/css" href="/knowledgeBase/ekb_article_print.css" media="print">
 
 <style>
@@ -791,13 +879,12 @@ p {
 <p>Vonage Canada is responsible for personal information under its control and will designate an individual or individuals who are accountable for the organization's compliance with the following principles.</p>
 <p>1.1	Accountability for Vonage Canada's compliance with the principles rests with the senior management of Vonage Canada and the person or persons designated by senior management as Privacy Officer, even though other individuals within the organization may be responsible for the day-to-day collection and processing of personal information.  In addition, other individuals within the organization may be delegated to act on behalf of senior management or the Privacy Officer.</p>
 <p>1.2	Vonage Canada's Privacy Officer may be contacted at: 
-		<br><br>Attention:	Vonage Canada Corp. c/o Privacy Officer 
-		<br>2660 Matheson Blvd. East
-		<br>Suite 301
-		<br>Mississauga, Ontario
-		<br>L4W 5M2
+		<br><br>Attention: Vonage Canada Corp. c/o Privacy Officer 
+		<br>23 Main Street
+		<br>Holmdel, NJ 07732
+		<br>USA
 		<br>E-mail: <a href="mailto:vc_privacyofficer@vonage.com">vc_privacyofficer@vonage.com</a>
-        <br>Phone: 416-907-6186</p>
+        <br>Phone: 732-226-3319</p>
 <p>&nbsp;</p>
 <p>1.3.	Vonage Canada is responsible for personal information in its possession or custody, including information that has been transferred to a third party for processing.  Vonage Canada will use contractual or other means to provide a comparable level of protection while the information is being processed by a third party.</p>
 <p>	1.4 	Vonage Canada will implement policies and practices to give effect to these principles, including:
@@ -828,11 +915,10 @@ p {
 
 <p>2.4 	When personal information that previously has been collected is to be used for a purpose not previously identified, the new purpose will be identified prior to use.  Unless the new purpose is required by law, and subject to the exceptions referred to in Principle #3, Vonage Canada will obtain the consent of the individual before information is used for that new purpose.</p>
 <p>2.5 	Occasionally, Vonage Canada will communicate to you special bonus and new product offers that we think may be of value to you. Vonage Canada may retain third parties to assist it in marketing such new or additional Vonage Canada products and services to our customers (and for such purpose may share personal information with such third parties) but will not otherwise disclose or make available any personal information to any third parties seeking to market their products to Vonage Canada's customers.  All Vonage Canada customers have the right to chose not to participate in direct marketing of new products and services from Vonage Canada. If you wish to opt-out of receiving targeted communications from Vonage Canada in electronic, printed or verbal format (other than information included with your monthly bills), simply inform us in writing at 
-		<br><br>Vonage Canada Corp. c/o Privacy Officer 
-		<br>2660 Matheson Blvd. East
-		<br>Suite 301
-		<br>Mississauga, Ontario
-		<br>L4W 5M2
+		<br><br>Attention: Vonage Canada Corp. c/o Privacy Officer 
+		<br>23 Main Street
+		<br>Holmdel, NJ 07732
+		<br>USA		
 		<br>E-mail: <a href="mailto:vc_privacyofficer@vonage.com">vc_privacyofficer@vonage.com</a>
 </p>
 <p>2.6  The Site may provide hyperlinks, which are highlighted words or pictures within a hypertext document that may, when clicked, take you to another place within the document, to another document altogether, or to a third party website not controlled by Vonage Canada.  Such hyperlinked third party websites may collect and disclose information different than this Site.  Vonage Canada is not responsible for the collection, use, or disclosure of information collected through these third party web sites, and Vonage Canada expressly disclaims any and all liability related to such collection, use, or disclosure.</p>
@@ -1007,7 +1093,7 @@ function Yes() {
 				parameters:	{	siteid : 	'vonage_canada',
 								pagetype : 	'article',
 								pageid:		'1229',
-								timestart:	'1245083149',
+								timestart:	'1261009658',
 								groupid:	$F('groupid'),
 								feedback:  1	}
 		});		
@@ -1018,7 +1104,7 @@ function Yes() {
 			parameters:	{	siteid:		'vonage_canada',
 							pagetype:	'article',
 							pageid:		'1229',
-							timestart:	'1245083149',
+							timestart:	'1261009658',
 							groupid: 	$F('groupid'),
 							feedback:	0},
 			onSuccess: function (transport) {
@@ -1238,6 +1324,38 @@ hbx.pec="";//ERROR CODES
 </script>
 <script language="javascript1.1" defer="" src="/hitbox/hbx.js"></script>
 <!--END WEBSIDESTORY CODE-->
+
+
+
+
+
+
+
+
+
+	<!--
+	Start of DoubleClick Floodlight Tag: Please do not remove
+	Activity name of this tag: Help
+	URL of the webpage where the tag is expected to be placed: http://www.vonage.ca/help.php
+	This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag.
+	Creation Date: 06/23/2009
+	-->
+	<script type="text/javascript">
+	var axel = Math.random() + "";
+	var a = axel * 10000000000000;
+	document.write('<iframe src="http://fls.doubleclick.net/activityi;src=2333879;type=vonag427;cat=helpj827;ord=' + a + '?" width="1" height="1" frameborder="0"></iframe>');
+	</script><iframe src="http://fls.doubleclick.net/activityi;src=2333879;type=vonag427;cat=helpj827;ord=9024746237000.615?" width="1" height="1" frameborder="0"></iframe>
+	<noscript>
+	<iframe src="http://fls.doubleclick.net/activityi;src=2333879;type=vonag427;cat=helpj827;ord=1?" width="1" height="1" frameborder="0"></iframe>
+	</noscript>
+
+	<!-- End of DoubleClick Floodlight Tag: Please do not remove -->
+
+
+
+
+
+
 <!--  Host Name and Date Time to help debugging -->
 <!-- HOST NAME:www.vonage.ca www.vonage.ca 216.115.22.36 80 -->
 
