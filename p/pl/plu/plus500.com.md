@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plus500.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601224243id_/http%3A//www.plus500.com/Help/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plus500.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216223209id_/http%3A//www.plus500.com/Help/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Plus500 | Privacy Policy
 
