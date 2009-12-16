@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footasylum.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616182237id_/http%3A//www.footasylum.com/Privacy-Policy-Acs_security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footasylum.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217002233id_/http%3A//www.footasylum.com/Privacy-Policy-Acs_security) for the most accurate reproduction.*
 
 # Privacy - Two Stoned Clothing, K Swiss Trainers, Zoo York Clothing
 
