@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funimation.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617051826id_/http%3A//funimation.com/f_index.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funimation.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216192931id_/http%3A//www.funimation.com/f_index.cfm%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Anime from FUNimation Entertainment - THE BEST IN ANIME -
 
