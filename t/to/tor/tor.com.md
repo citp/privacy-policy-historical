@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tor.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616080952id_/http%3A//www.tor.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D203) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tor.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216192944id_/http%3A//www.tor.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D203) for the most accurate reproduction.*
 
 # Tor.com / Science fiction and fantasy / Privacy Notice
 
