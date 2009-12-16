@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ksfcu.org privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417164643id_/http%3A//www.ksfcu.org/default.asp%3FfileID%3D127) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ksfcu.org privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216031956id_/http%3A//www.ksfcu.org/default.asp%3FfileID%3D127) for the most accurate reproduction.*
 
 # Kern Schools Federal Credit Union
 
