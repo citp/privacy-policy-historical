@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celsias.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617181623id_/http%3A//www.celsias.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celsias.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217003117id_/http%3A//www.celsias.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Use Celsias.com - reduce global °Celsius
 
