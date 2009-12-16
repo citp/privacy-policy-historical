@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wego.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616071846id_/http%3A//www.wego.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wego.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216194917id_/http%3A//www.wego.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Wego.com
+# Wego.com
 
 The Privacy Policy covers our treatment of personally identifiable information that we collect when you are on the Wego site, and when you use our services. This policy does not apply to the practices of companies that we do not own or control, or to people that we do not employ or manage. 
 
