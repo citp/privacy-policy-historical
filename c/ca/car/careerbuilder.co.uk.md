@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerbuilder.co.uk privacy policy that was archived on 2008-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080507153730id_/http%3A//www.careerbuilder.co.uk/UK/JobSeeker/Info/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerbuilder.co.uk privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216182341id_/http%3A//www.careerbuilder.co.uk/UK/JobSeeker/Info/Privacy.aspx) for the most accurate reproduction.*
 
 # CareerBuilder.co.uk - Privacy
 
@@ -101,7 +101,7 @@ Because web beacons are the same as any other content request included in the re
 **Microsoft Windows Live™ ID**
 
 In addition to the CareerBuilder.com sign-in, CareerBuilder.com offers the ability to sign in using Microsoft Windows Live ID service, which provides authentication for online sign in. When you sign in to this site using the Windows Live ID service you will be asked to provide your e-mail address and a password to sign you in. This same Windows Live ID sign-in allows you to access many other participating Windows Live ID Web sites.  
-[View the Windows Live ID Privacy Policy >>](http://g.msn.com/0US!s2.91046_910581/94.a910394/6??cm=ShortNotice%E2%80%93FeedContent-S)
+[View the Windows Live ID Privacy Policy >>](http://g.msn.com/0US!s2.91046_910581/94.a910394/6??cm=ShortNotice%C3%AF%C2%BF%C2%BDFeedContent-S)
 
 **About Cookies**
 
