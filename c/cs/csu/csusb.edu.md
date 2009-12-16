@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csusb.edu privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617064458id_/http%3A//www.csusb.edu/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csusb.edu privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217002550id_/http%3A//www.csusb.edu/privacy.aspx) for the most accurate reproduction.*
 
 # CSUSB - Privacy and Security Notice
 
@@ -38,4 +38,4 @@ Electronically submitted information is maintained and destroyed according to th
 
 For site security purposes and to ensure that this service remains available to all users, this Government computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Anyone using this system expressly consents to such monitoring and is advised that if such monitoring reveals evidence of possible abuse or criminal activity, such evidence may be provided to appropriate law enforcement officials. Unauthorized attempts to upload or change information on this server are strictly prohibited and may be punishable by law, including the Computer Fraud and Abuse Act of 1986, the National Information Infrastructure Protection Act of 1996, and California Penal Code.
 
-Reference: [http://www.usdoj.gov](http://www.usdoj.gov/)
+Reference: [United States Department of Justice](http://www.usdoj.gov/)
