@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the recreation.gov privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616080936id_/http%3A//www.recreation.gov/marketing.do%3Fgoto%3D/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recreation.gov privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216192957id_/http%3A//www.recreation.gov/marketing.do%3Fgoto%3D/privacy.html) for the most accurate reproduction.*
 
-# About Us - Recreation.gov
+# New Document
 
 New Document 
 
 ### Recreation.gov Privacy Policy
 
-We, at Recreation.gov, ("Recreation.gov” or "we") have created this privacy policy to demonstrate our firm commitment to protecting your personal information and informing you about how we handle it. This privacy policy only applies to transactions made, and data gathered, on the Recreation.gov web site. Please review this privacy policy periodically to check for revisions as we may update it from time to time. This privacy policy was last revised on November 19, 2003. Each time you visit the Site or provide us with information, by doing so you are accepting the practices described in this privacy policy at that time. 
+We, at Recreation.gov, ("Recreation.gov" or "we") have created this privacy policy to demonstrate our firm commitment to protecting your personal information and informing you about how we handle it. This privacy policy only applies to transactions made, and data gathered, on the Recreation.gov web site. Please review this privacy policy periodically to check for revisions as we may update it from time to time. This privacy policy was last revised on October 30, 2009. Each time you visit the Site or provide us with information, by doing so you are accepting the practices described in this privacy policy at that time. 
 
 ### Your IP Address
 
@@ -22,15 +22,15 @@ Any information you provide, either as part of your "User Profile" or as part of
 
 ### Information we do not share with others
 
-ReserveUSA does not share, sell or trade email addresses, information collected as part of a survey, or specific details about you or your household. We do not contribute to or participate in shared or cooperative databases, which give other companies access to your personal information. We do not release credit card or financial information for use by other companies. For both privacy and security purposes, all transactional information communicated between customers and our Web site is transmitted in an encrypted format, and all credit card information is stored in a highly secure computing environment. 
+Recreation.gov does not share, sell or trade email addresses, information collected as part of a survey, or specific details about you or your household. We do not contribute to or participate in shared or cooperative databases, which give other companies access to your personal information. We do not release credit card or financial information for use by other companies. For both privacy and security purposes, all transactional information communicated between customers and our Web site is transmitted in an encrypted format, and all credit card information is stored in a highly secure computing environment. 
 
 ### How We Use Demographic Information
 
-We use demographic information to tailor the Site and communications to the interests of our users. We may share anonymous, aggregated (grouped) demographic information with advertisers and other third parties so that they can tailor their advertisements and communications to the appropriate audience. If we are allowed to share with certain third parties your personal information, financial information or public agency reservation information under this privacy policy, as described above, then the demographic information that we provide to such third parties may be linked to such personal information, financial information or public agency reservation information, so that such third parties will be able to know about your demographic information on a non-anonymous basis. 
+We use demographic information to tailor the Site and communications to the interests of our users. We may share anonymous, aggregated (grouped) demographic information. We will not share your personal information, financial information or public agency reservation information under this privacy policy. 
 
 ### Links to other sites
 
-Occasionally we provide links to other sites we think you will enjoy. These sites operate independently of Recreation.gov and have established their own privacy and security policies. For the best online experience, we strongly encourage you to review these policies at any site you visit. 
+Registered users may opt to receive links to other sites we think you will enjoy. These sites operate independently of Recreation.gov and have established their own privacy and security policies. For the best online experience, we strongly encourage you to review these policies at any site you visit. 
 
 ### Secure Server
 
@@ -42,15 +42,13 @@ This website and the information it contains are provided as a public service by
 
 ### Restriction of Liability
 
-Recreation.gov makes no claims, promises, or guarantees abut the accuracy, completeness, or adequacy of the contents of this website and expressly disclaims liability for errors and omissions in the contents of this website. No warranty of any kind, implied, expressed or statutory, including but not limited to the warranties of non-infringement of third party rights, title, merchantability, fitness for a particular purpose and freedom from computer virus, is given with respect to the contents of this website or its hyperlinks to other Internet resources. Reference in this website to any specific commercial products, processes, or services, or the use of any trade, firm, or corporation name is for the information and convenience of the public, and does not constitute endorsement, recommendation, or favoring by the USDA, Forest Service or other participating agencies. 
+Recreation.gov makes no claims, promises, or guarantees about the accuracy, completeness, or adequacy of the contents of this website and expressly disclaims liability for errors and omissions in the contents of this website. No warranty of any kind, implied, expressed or statutory, including but not limited to the warranties of non-infringement of third party rights, title, merchantability, fitness for a particular purpose and freedom from computer virus, is given with respect to the contents of this website or its hyperlinks to other Internet resources. Reference in this website to any specific commercial products, processes, or services, or the use of any trade, firm, or corporation name is for the information and convenience of the public, and does not constitute endorsement, recommendation, or favoring by the USDA, Forest Service or other participating agencies. 
 
 ### Ownership
 
-Information presented on this website is considered public information and may be distributed or copied. Recreation.gov shall have the unlimited right to use for any purpose, free of any charge, all information submitted to Recreation.gov via this site except those submissions made under separate legal contract. Recreation.gov shall be free to use, for any purpose, any ideas, concepts, or techniques contained in information provided to Recreation.gov through this site. 
+Information presented on this website is considered public information and may be distributed or copied. Recreation.gov shall have the unlimited right to use for any purpose, free of any charge, all information submitted to Recreation.gov via this site except those submissions made under separate legal contract. Recreation.gov shall be free to use, for any purpose, any ideas, concepts, or techniques contained in information provided to Recreation.gov through this site. If you have any questions or concerns about this privacy policy, the practices of the Site, or your dealings with the Site, you can contact us by using the "Contact Us" link at the bottom of this page. 
 
-If you have any questions or concerns about this privacy policy, the practices of the Site, or your dealings with the Site, you can contact us by using the "Contact Us" link at the bottom of this page. 
-
-You can also send us mail to: N.R.R.S.  
+You can also send inquiries by mail to: N.R.R.S.  
 P.O. Box 140  
 Ballston Spa, New York  
 12020
