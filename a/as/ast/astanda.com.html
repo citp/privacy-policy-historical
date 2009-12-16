@@ -1,0 +1,372 @@
+<!--The following is the downloaded HTML source of the astanda.com privacy policy that was archived on 2009-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091216133612id_/http%3A//www.astanda.com/privacy.php) for the most accurate reproduction.-->
+
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+
+	<title></title>
+	<meta name="description" content="">
+	<meta name="keywords" content="">
+
+<meta name="Language" content="EN">
+<meta name="Rating" content="All">
+<meta name="robots" content="index,follow">
+<meta name="robots" content="All">
+<meta name="revisit" content="7 days">
+<meta name="Revisit-after" content="7 days">
+<meta name="Distribution" content="Global">
+<meta name="Copyright" content="2009">
+<meta name="Author" content="Pavel Golovko">
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+function unhide(divID) {
+  var item = document.getElementById(divID);
+  if (item) {
+    item.className=(item.className=='hidden')?'unhidden':'hidden';
+  }
+}
+
+
+
+function out(id){
+
+
+
+  image = new Image();
+
+
+
+  image.src= 'http://www.astanda.com/index.php?out=' + id;
+
+
+
+}
+
+
+function limitChars(textarea, limit, infodiv)
+{
+	var text = textarea.value;	
+	var textlength = text.length;
+	var info = document.getElementById(infodiv);
+
+	if(textlength > limit)
+	{
+		info.innerHTML = 'Maximum '+limit+' letters!';
+		textarea.value = text.substr(0,limit);
+		return false;
+	}
+	else
+	{
+		info.innerHTML = 'Left '+ (limit - textlength) +' letters.';
+		return true;
+	}
+}
+
+
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+
+
+
+
+
+.tb-bg-side {
+		background-color : #FFFFFF;
+    background-image: url(/images/search-icon.gif);
+    background-repeat:no-repeat;
+    background-position:left;
+    border: 1px solid #F4EEDD;
+    padding-left:16px;
+}
+
+.hidden { display: none; }
+.unhidden { display: block; }
+
+a:link{text-decoration:none}
+
+
+
+a:visited{text-decoration:none}
+
+
+
+a:hover{text-decoration:underline}
+
+
+
+
+</style>
+
+
+
+<style type="text/css">
+#tablist {
+	PADDING-RIGHT: 0px;
+	MARGIN-TOP: 0.4em; 
+	PADDING-LEFT: 0px; 
+	MARGIN-BOTTOM: 3px; 
+	PADDING-BOTTOM: 0px; 
+	FONT: bold 12px Verdana; 
+	MARGIN-LEFT: 20px; 
+	CURSOR: pointer; 
+	PADDING-TOP: 0px
+}
+#tablist LI {
+	DISPLAY: inline; 
+	MARGIN: 0px; 
+	LIST-STYLE-TYPE: none
+}
+#tablist LI A {
+	BORDER-RIGHT: black 1px solid;
+	PADDING-RIGHT: 0.5em; 
+	BORDER-TOP: black 1px solid;
+	PADDING-LEFT: 0.5em; 
+	background-image: url(/images/3.gif);
+	PADDING-BOTTOM: 3px; 
+	MARGIN-LEFT: 0px; 
+	BORDER-LEFT: black 1px solid; 
+	PADDING-TOP: 3px; 
+	BORDER-BOTTOM: medium none
+}
+#tablist LI A:link {
+
+}
+#tablist LI A:visited {
+
+}
+#tablist LI A.current {
+
+}
+#tabcontentcontainer {
+	BORDER-RIGHT: black 0px solid; 
+	PADDING-RIGHT: 0px; 
+	BORDER-TOP: black 0px solid; 
+	PADDING-LEFT: 0px; 
+	PADDING-BOTTOM: 0px; 
+	BORDER-LEFT: black 0px solid; 
+	WIDTH: 100%; 
+	PADDING-TOP: 0px; 
+	BORDER-BOTTOM: black 0px solid
+}
+.tabcontent {
+	DISPLAY: none;
+	BACKGROUND: #FFFFFF
+}
+</style>
+
+<script type="text/javascript">
+var initialtab=[1, "sc1"]
+
+function cascadedstyle(el, cssproperty, csspropertyNS){
+if (el.currentStyle)
+return el.currentStyle[cssproperty]
+else if (window.getComputedStyle){
+var elstyle=window.getComputedStyle(el, "")
+return elstyle.getPropertyValue(csspropertyNS)
+}
+}
+
+var previoustab=""
+
+function expandcontent(cid, aobject){
+if (document.getElementById){
+highlighttab(aobject)
+detectSourceindex(aobject)
+if (previoustab!="")
+document.getElementById(previoustab).style.display="none"
+document.getElementById(cid).style.display="block"
+previoustab=cid
+if (aobject.blur)
+aobject.blur()
+return false
+}
+else
+return true
+}
+
+function highlighttab(aobject){
+if (typeof tabobjlinks=="undefined")
+collecttablinks()
+for (i=0; i<tabobjlinks.length; i++)
+tabobjlinks[i].style.backgroundColor=initTabcolor
+var themecolor=aobject.getAttribute("theme")? aobject.getAttribute("theme") : initTabpostcolor
+aobject.style.backgroundColor=document.getElementById("tabcontentcontainer").style.backgroundColor=themecolor
+}
+
+function collecttablinks(){
+var tabobj=document.getElementById("tablist")
+tabobjlinks=tabobj.getElementsByTagName("A")
+}
+
+function detectSourceindex(aobject){
+for (i=0; i<tabobjlinks.length; i++){
+if (aobject==tabobjlinks[i]){
+tabsourceindex=i //source index of tab bar relative to other tabs
+break
+}
+}
+}
+
+function do_onload(){
+var cookiename=(typeof persisttype!="undefined" && persisttype=="sitewide")? "tabcontent" : window.location.pathname
+var cookiecheck=window.get_cookie && get_cookie(cookiename).indexOf("|")!=-1
+collecttablinks()
+initTabcolor=cascadedstyle(tabobjlinks[1], "backgroundColor", "background-color")
+initTabpostcolor=cascadedstyle(tabobjlinks[0], "backgroundColor", "background-color")
+if (typeof enablepersistence!="undefined" && enablepersistence && cookiecheck){
+var cookieparse=get_cookie(cookiename).split("|")
+var whichtab=cookieparse[0]
+var tabcontentid=cookieparse[1]
+expandcontent(tabcontentid, tabobjlinks[whichtab])
+}
+else
+expandcontent(initialtab[1], tabobjlinks[initialtab[0]-1])
+}
+
+if (window.addEventListener)
+window.addEventListener("load", do_onload, false)
+else if (window.attachEvent)
+window.attachEvent("onload", do_onload)
+else if (document.getElementById)
+window.onload=do_onload
+
+
+
+var enablepersistence=true
+var persisttype="local" //sitewide
+
+function get_cookie(Name) { 
+var search = Name + "="
+var returnvalue = "";
+if (document.cookie.length > 0) {
+offset = document.cookie.indexOf(search)
+if (offset != -1) { 
+offset += search.length
+end = document.cookie.indexOf(";", offset);
+if (end == -1) end = document.cookie.length;
+returnvalue=unescape(document.cookie.substring(offset, end))
+}
+}
+return returnvalue;
+}
+
+function savetabstate(){
+var cookiename=(persisttype=="sitewide")? "tabcontent" : window.location.pathname
+var cookievalue=(persisttype=="sitewide")? tabsourceindex+"|"+previoustab+";path=/" : tabsourceindex+"|"+previoustab
+document.cookie=cookiename+"="+cookievalue
+}
+
+window.onunload=savetabstate
+</script>
+
+
+
+</head>
+
+
+
+
+
+
+<body style="FONT-SIZE: 10pt; FONT-FAMILY: Verdana" bgcolor="#FFFFFF" leftmargin="0" topmargin="0">
+
+&nbsp;
+<center>
+<table bordercolor="#000000" cellspacing="0" cellpadding="0" width="800" border="0">
+  <tbody>
+<tr><td><a href="http://www.astanda.com"><img border="0" src="/images/adp0.png"></a></td></tr>
+  <tr>
+    <td style="BORDER-RIGHT: 1px solid; BORDER-LEFT: 1px solid; BORDER-TOP: 1px solid; BORDER-BOTTOM: 1px solid" width="100%" bgcolor="#3399FF" background="/images/adp2.png">
+      <table cellspacing="0" cellpadding="0" width="100%" border="0">
+        <tbody>
+        <tr><form action="/search.php" method="GET"></form>
+          <td align="center" width="50%"><font color="#FFFFFF"><b>Search: </b></font><input class="tb-bg-side" type="text" name="swords" maxlength="50"> <a href="/search.php"><font color="#FFFFFF" size="1">advanced</font></a></td>
+          <td align="center" width="50%"><a href="http://www.astanda.com/about.php"><font color="#FFFFFF" size="2">About</font></a> <font size="2"> :: </font> <a href="http://www.astanda.com/contact.php"><font color="#FFFFFF" size="2">Contact</font></a>
+          </td>
+        </tr>
+        </tbody>
+      </table>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="BORDER-RIGHT: 1px solid; BORDER-LEFT: 1px solid; BORDER-BOTTOM: 1px solid" background="/images/3.gif">
+    <table cellspacing="0" cellpadding="0" width="100%" border="0"><tbody>
+        <tr>
+          <td align="center" width="50%"><font size="2">New way to present information</font></td>
+          <td align="middle" width="50%"><img border="0" src="/images/3.gif" align="absmiddle" width="10" height="20">
+          <font size="2">
+          <a href="http://www.astanda.com/addurl.php">Add URL</a> :: 
+          <a href="http://www.astanda.com/ads.php">Add an ad</a> :: 
+          <a href="http://www.astanda.com/job.php">Add a job</a>
+          </font>
+          </td></tr></tbody></table></td></tr>
+  <tr>
+    <td><img height="5" src="/images/pixel.png" border="0">
+    </td></tr>
+</tbody></table><table border="0" width="800" cellspacing="0" cellpadding="15"><tbody><tr><td>
+
+<font size="2">
+<p>
+Our Commitment To Privacy</p><div style="display:none;"><h1>Our Commitment To Privacy</h1></div>
+<p>
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+</p><p>
+Astanda.com is committed to providing its users with an Internet experience that respects and protects their personal privacy choices and concerns. Our privacy policy believes in honesty, openness, and fair play in its dealings with all users. Users have equal opportunities, regardless of sex, race, color, religion, age or national origin. Information in the user file will not be verified or released to anyone out-side Astanda.com, its agents or representatives, unless Astanda.com is required by legal proccess to provide information. 
+</p><p>
+Our affiliates have their own privacy policy statements, which we encourage you to read whenever you visit their sites. When we talk about "Astanda.com" or "we" in this policy, we are referring to Astanda.com group and its majority-owned or majority-controlled subsidiaries. 
+</p><p>
+Personally identifiable information is information-such as your name, birth date, e-mail address or mailing address-that can be used to uniquely identify you.<br>
+Anonymous Information is not personally identifiable information. Anonymous information is information about how you use our site (such as places visited and search queries performed). Anonymous information also includes the domain names of browsers that visit our site, time of day the site was visited, and other non-personally identifiable information. Anonymous information is information that is not tied to any individual, but helps to characterize Astanda.com's users (for example, the average unique hits to our download area over 30 minutes). 
+</p><p>
+We want to assure you that you can visit our site and use many of our services without telling us who you are or revealing any personally identifiable information about yourself to us. It is only during registration to become a registered user will you be asked to provide us (and/or our affiliates) with personally identifiable information. Although the majority of our services do not require any form of customer registration, we do require registration for the use of certain services, e.g., Support Forums. During this registration process we require you to complete certain fields, and ask you to select a user name and password. 
+</p><p>
+From time to time, we may run contests on our site in which we ask participants for contact information, such as their email address(es). If you participate in contests, your contact information will be used primarily to reach you in connection with the contests. 
+</p><p>
+When you use our site, we collect anonymous information, even if you have not registered with Astanda.com (for a contest, or for any Astanda.com service). We use this information to personalize your experience at our site, show you more relevant advertising messages, and generally to improve our services. We share this anonymous information with selected advertisers and partners in order to deliver to you more relevant advertising messages. Astanda.com will not share any anonymous information about your use if that information is or might be linked to your personally identifiable information.
+</p></font><p><font size="2">
+</font>
+
+</p></td></tr></tbody></table>
+
+			
+<table bordercolor="#000000" cellspacing="0" cellpadding="0" width="800" border="0">  <tbody>
+<tr><td><img src="/images/adp1.png"></td></tr>
+<tr><td style="BORDER-RIGHT: 1px solid; BORDER-TOP: 1px solid; BORDER-LEFT: 1px solid; BORDER-BOTTOM: 1px solid" align="center" width="100%" background="/images/4.gif">    <img border="0" src="/images/4.gif" align="absmiddle" width="10" height="20">    
+<font size="1">Copyright 2005 - 2009 <a href="http://www.astanda.com/">Astanda.com</a>, Pavel Golovko ::     <a href="http://www.astanda.com/privacy.php">Privacy policy</a> :: <a href="http://www.snoot.ru/">Supported by Snoot</a> :: Powered by ADP</font>
+</td></tr>
+<tr><td style="BORDER-RIGHT: 1px solid; BORDER-LEFT: 1px solid; BORDER-BOTTOM: 1px solid" width="100%" bgcolor="#3399FF" background="/images/bg_tochk.gif"><img height="1" src="/images/pixel.png" width="1" border="0"></td></tr>  <tr>    <td valign="top" align="center" height="10"><img src="/images/pixel.png" width="8" border="0"><br>            </td></tr></tbody></table>
+
+<br>
+<!--LiveInternet counter--><script type="text/javascript">document.write("<a href='http://www.liveinternet.ru/click' target=_blank><img src='http://counter.yadro.ru/hit?t26.6;r" + escape(document.referrer) + ((typeof(screen)=="undefined")?"":";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?screen.colorDepth:screen.pixelDepth)) + ";u" + escape(document.URL) +";i" + escape("Жж"+document.title.substring(0,80)) + ";" + Math.random() + "' border=0 width=88 height=15 alt='' title='LiveInternet: показано число посетителей за сегодня'><\/a>")</script><a href="http://www.liveinternet.ru/click" target="_blank"><img src="http://counter.yadro.ru/hit?t26.6;r;s800*600*24;uhttps%3A//web.archive.org/web/20091216133612id_/http%253A//www.astanda.com/privacy.php;i%u0416%u0436;0.7485316538902422" border="0" width="88" height="15" alt="" title="LiveInternet: показано число посетителей за сегодня"></a><!--/LiveInternet-->
+
+</center>
+
+
+</body></html>
