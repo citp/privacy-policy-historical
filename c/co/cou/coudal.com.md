@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coudal.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617061442id_/http%3A//www.coudal.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coudal.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217000453id_/http%3A//www.coudal.com/privacy.php) for the most accurate reproduction.*
 
 # Coudal Partners
 
