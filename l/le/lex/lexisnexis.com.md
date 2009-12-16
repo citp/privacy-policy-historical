@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lexisnexis.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615042025id_/http%3A//www.lexisnexis.com/privacy/statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexisnexis.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217002723id_/http%3A//www.lexisnexis.com/privacy/statement.aspx) for the most accurate reproduction.*
 
 # LexisNexis
 
