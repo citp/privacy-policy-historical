@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stylehive.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616183909id_/http%3A//blog.stylehive.com/index.php/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylehive.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216192405id_/http%3A//blog.stylehive.com/index.php/privacy) for the most accurate reproduction.*
 
 # Stylehive - Privacy Policy
 
@@ -19,6 +19,7 @@ We may use the information we collect on this site to provide the Service, to cu
 
   * We may release personal information when we believe release is appropriate for any of the following purposes: to comply with the law or a request by law enforcement officials or judicial authorities; to enforce or apply our Terms of Use and other agreements; or to protect the rights, property, or safety of Stylehive, Inc., our customers or others.  This does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes.
   * In the event that all or part of our business is sold or pledged as security, we may transfer the information we collect on this site to third parties in connection with that transaction.
+  * We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here.](http://www.google.com/privacy_ads.html)
   * In connection with its partnerships with other fashion websites and other third parties, Stylehive may share content with such third parties and allow them to publish such content, including content you submit to the Service that is visible to the public.
 
 
@@ -33,4 +34,4 @@ Because we do not intentionally collect information from anyone under the age of
 **General**   
 If you choose to use the Service, your visit and any dispute over privacy is subject to this Privacy Policy and our [Terms of Use](http://blog.stylehive.com/index.php/termsofuse "Terms of Use") including limitations on liability and application of the law of the United States and the State of California.  This Privacy Policy is subject to change at any time.  Any changes will be set forth on this page. 
 
-_Updated 1/23/2009_
+_Updated 7/1/2009_
