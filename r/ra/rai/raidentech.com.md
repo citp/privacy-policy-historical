@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the raidentech.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617064232id_/http%3A//www.raidentech.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raidentech.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217001830id_/http%3A//www.raidentech.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Raidentech.com - Online Shopping for Radio Controlled RC Toys & Hobbies, Electronics, Wireless Cameras, Airsoft, Nitro Cars, RC Trucks, RC Helicopters, RC Airplanes Privacy Policy
 
 _**Shop with Confidence!**  
 _  
 **[100% Guaranteed  
-Lowest Price!](https://web.archive.org/web/20090617064232id_/http://www.raidentech.com/info.html)**
+Lowest Price!](https://web.archive.org/web/20091217001830id_/http://www.raidentech.com/info.html)**
 
 You get the lowest price on every item we offer at RaidenTech.com! Should anybody be lower, we will match their advertised price! Guaranteed!
 
@@ -14,7 +14,7 @@ Guaranteed!**
 
 When you purchase anything from RaidenTech.com, we guarantee you quality merchandise that you will be satisfied in owning, or you may return it (unused in original packaging) for a prompt, courteous refund or exchange!
 
-| | [](https://web.archive.org/web/20090617064232id_/http://www.raidentech.com/index.html)
+| | [](https://web.archive.org/web/20091217001830id_/http://www.raidentech.com/index.html)
 
 | **Privacy Issues** |    
 ---|---  
