@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the westword.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616185913id_/http%3A//www.westword.com/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westword.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217000912id_/http%3A//www.westword.com/about/privacyPolicy) for the most accurate reproduction.*
 
 # Denver Privacy Policy
 
 [](https://web.archive.org/)
 
 Privacy Policy
+
+[](http://clk.atdmt.com/AVE/go/186041833/direct;wi.1;hi.1/01/)
 
 ## Village Voice Media
 
@@ -67,7 +69,3 @@ In the event of a sale of Westword or a sale of substantially all Westword's ass
 ## More Questions? Updates and Changes to Your Information.
 
 If you have any questions about this privacy policy, e-mail them to [privacyadministrator@villagevoicemedia.com](mailto:privacyadministrator@villagevoicemedia.com), and be sure to indicate the specific site you're visiting and the nature of your question or concern. If your personally identifiable information changes, you may correct and/or update it by sending us an email at [web@newtimes.com](mailto:web@newtimes.com). 
-
-[](http://www.westword.com/2009-06-04/culture/go-for-the-gold/)
-
-[ ](http://www.westword.com/microsites/txtalerts/)
