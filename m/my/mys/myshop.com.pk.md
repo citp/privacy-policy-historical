@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myshop.com.pk privacy policy that was archived on 2009-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090214194857id_/http%3A//www.myshop.com.pk/laptops-pakistan/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myshop.com.pk privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217005733id_/http%3A//www.myshop.com.pk/laptops-pakistan/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
-# MyShop OnLineAll About Laptops / Notebooks in Pakistan : : Privacy Policy
+# Laptops, Laptop Bags and Accessories in Pakistan at Myshop : : Privacy Policy
 
 MyShop Privacy Policy  
 We have designed our website so that you can visit MyShop without identifying yourself or revealing any personal information. Once you have chosen to provide us with personally identifiable information (any information by which you can be identified), you can be assured that it is not displayed online and it is not accessible to the general public. Your personal information will be used solely for the purpose of order processing and personalization only. MyShop strives to have consistent privacy practices for your personal information regardless of the medium used to collect the information. Therefore, this privacy policy applies to all online, offline and manually processed personal information. 
