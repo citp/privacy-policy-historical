@@ -1,26 +1,8 @@
-> *The following text is extracted and transformed from the hogville.net privacy policy that was archived on 2009-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090423050732id_/http%3A//www.hogville.net/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hogville.net privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216115043id_/http%3A//hogville.net/about/privacy.php) for the most accurate reproduction.*
 
 # Hogville.net - Privacy Policy
 
-**LIKE IT IS : Williams' star burns even brighter off the field**  
-Long after the cheers and applause had faded last Saturday night, with only a few fans remaining, D.J. Williams scored more points off the football field than anyone ever has on it. (Arkansas Democrat-Gazette Northwest Edition)  
-[READ MORE](http://feedproxy.google.com/~r/wholehogsports/~3/BBJRrvROI94/)
-
- **COLLEGE BASEBALL : Murphy keeps it together**  
-TULSA � Just when Arkansas' hitting slowed down, Sam Murphy picked up the pace on the mound. (Arkansas Democrat-Gazette Northwest Edition)  
-[READ MORE](http://feedproxy.google.com/~r/wholehogsports/~3/SqOBjj8PFh8/)
-
- **Arkansas holds off ORU in win**  
-TULSA, Okla. — Arkansas scored fast on Zack Cox and Brett Eibner's bats, then hung by Sam Murphy's arm to beat the Oral Roberts Golden Eagles, 9-6 Tuesday night at ORU's Johnson Stadium. (Northwest Arkansas Times)  
-[READ MORE](http://feedproxy.google.com/~r/wholehogsports/~3/rCx3xlb1SVw/)
-
- **Fortson selected as All-American by Web site**  
-Arkansas point guard Courtney Fortson was named a freshman All-American by CollegeHoops.net, it was announced Tuesday. (Northwest Arkansas Times)  
-[READ MORE](http://feedproxy.google.com/~r/wholehogsports/~3/Usz592iGkdE/)
-
-| | | 
-
-| | 
+| 
 
 ## Hogville.net's Privacy Policies
 
