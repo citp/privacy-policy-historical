@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blinkbox.com privacy policy that was archived on 2009-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090410153500id_/http%3A//www.blinkbox.com/Pages/Info/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blinkbox.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216093044id_/http%3A//www.blinkbox.com/Info/Privacy) for the most accurate reproduction.*
 
 # Privacy | blinkbox
 
@@ -15,7 +15,8 @@
     * We use the Personal Information you provide to deliver the blinkbox Services, to provide user support (including processing any complaints or enquiries made by you) and for any other purpose related to the operation of the blinkbox Services. 
   * _3.4 Passing on Your Data to Third Parties_
     * Where you have elected to receive promotional information, we may also use your Personal Information (including your email address and phone number) to provide you with information regarding any products, services and promotions offered by us and selected third parties that may be of interest to you. 
-    * You may 'opt in' to receive any promotional communications either by choosing to opt in where such option is made available on http://www.blinkbox.com or in an email you receive from us, or at any time by sending an email, or by writing to us at 20-24 Kirby Street, London EC1 8TS. In addition, you may contact us at this addresses if you: 1) want to confirm the accuracy of the Personal Information we have collected about you; 2) would like to update your Personal Information or delete your Personal Information; and/or 3) have any complaint regarding our use of your Personal Information. If requested, we will change any information you have provided to us or mark any information to prohibit future use, provided that you provide such evidence as we may reasonably require for such changes. 
+    * You may choose to receive promotional communications either by indicating your communications preferences where such option is made available on http://www.blinkbox.com or in an email you receive from us, or at any time by sending an email, or by writing to us at 20-24 Kirby Street, London EC1 8TS. In addition, you may contact us at this addresses if you: 1) want to confirm the accuracy of the Personal Information we have collected about you; 2) would like to update your Personal Information or delete your Personal Information; and/or 3) have any complaint regarding our use of your Personal Information. If requested, we will change any information you have provided to us or mark any information to prohibit future use, provided that you provide such evidence as we may reasonably require for such changes. 
+    * We employ other companies and individuals to perform functions on our behalf, for example analysing data, providing marketing assistance, and processing and storing credit card details. They have access to personal information required to perform their functions, but are not permitted to use it for other purposes. They must process the personal information in accordance with this Privacy Policy, and must adhere to the UK's Data Protection Act.
     * We will not sell, lease or share your Personal Information except as set forth in this Privacy Notice.
   * _3.5 Excluded Disclosures_
     * We may disclose your Personal Information if required to do so by law, or if we believe in good faith that such action is necessary to: (1) comply with any legal process served on us or the blinkbox Services or in circumstances where we are under a substantially similar legal obligation; (2) protect and defend our rights or property; or (3) act to protect the personal safety of users of the blinkbox Services or the public. 
@@ -46,4 +47,4 @@
 
 
 
-_This Privacy Policy was last updated on 11th September, 2007._
+_This Privacy Policy was last updated on 2nd December, 2009._
