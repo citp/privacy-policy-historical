@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ponystars.com privacy policy that was archived on 2009-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090309171510id_/http%3A//phpbb.acclaim.com/acclaim/viewtopic.php%3Ft%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ponystars.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216131416id_/http%3A//phpbb.acclaim.com/acclaim/viewtopic.php%3Ft%3D5) for the most accurate reproduction.*
 
 # Acclaim Message Boards :: View topic - Privacy Policy
 
@@ -11,7 +11,7 @@ Site Admin
   
 | Joined: 13 Apr 2006  
 ---  
-Posts: 641  
+Posts: 631  
 | 
 
 Privacy Policy
