@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xenocode.com privacy policy that was archived on 2009-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090510084519id_/http%3A//www.xenocode.com/Resources/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xenocode.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216033944id_/http%3A//www.xenocode.com/Resources/Privacy.aspx) for the most accurate reproduction.*
 
 # Xenocode Resources
 
