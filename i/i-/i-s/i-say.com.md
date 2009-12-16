@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the i-say.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609181755id_/http%3A//www.i-say.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-say.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216222810id_/http%3A//www.i-say.com/privacy.aspx) for the most accurate reproduction.*
 
 # Ipsos i-Say Privacy Policy - For Online Panel Members
 
 ## Ipsos Privacy Statement
 
-_Last revised April 2008_
+_Last revised October 2009_
 
 [](http://www.truste.org/ivalidate.php?url=www.i-say.com&sealid=111)
 
-The purpose of this Privacy Statement is to inform you about the practices and procedures of Ipsos (as follows, “we” or “us”) in handling Personal Information and to inform you about the Personal Information we collect about you when you participate in one of our surveys. It explains how we use and disclose that information, the choices you have regarding such use and disclosure, and how you may correct that information.
+The purpose of this Privacy Statement is to inform you about the practices and procedures of Ipsos (as follows, "we" or "us") in handling Personal Information and to inform you about the Personal Information we collect about you when you participate in one of our surveys. It explains how we use and disclose that information, the choices you have regarding such use and disclosure, and how you may correct that information.
 
-Ipsos Interactive Services U.S., Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the websites www.i-say.com and www.i-say.ca. Because these website want to demonstrate their commitment to your privacy, they have agreed to disclose their information practices and have their privacy practices reviewed for compliance by TRUSTe.
+Ipsos Interactive Services U.S., Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the websites www.i-say.com and www.i-say.ca. Because these websites want to demonstrate their commitment to your privacy, they have agreed to disclose their information practices and have their privacy practices reviewed for compliance by TRUSTe.
 
-If you are a resident of the United States of America and have any questions or comments regarding this statement, you should first contact i-Say USA Member Services at Ipsos, Member Services, 1600 Stewart Avenue, Suite 500, Westbury, NY, 11590, USA - 1-866-893-1188 or by email at questions@i-say.com. 
+If you are a resident of the United States of America and have any questions or comments regarding this statement, you should first contact i-Say USA Member Services at Ipsos, Member Services, 1600 Stewart Avenue, Suite 500, Westbury, NY, 11590, USA - 1-866-893-1188 or by email at [questions@i-say.com](mailto:questions@i-say.com). 
 
 If you are a resident of Canada and have any questions or comments regarding this statement, you should first contact i-Say Canada Member Services team at Ipsos, 200-240 Duncan Mill Rd., Toronto, Canada M3B 3R6 1-888-618-2056 or by email at [panel@i-say.com](mailto:panel@i-say.com). 
 
 If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
-We are proud to demonstrate our commitment to your privacy. From time to time, we may make changes to this Privacy Statement. The Privacy Statement is current as of the “last revised” date which appears at the top of this page. We will treat Personal Information in a manner consistent with the Privacy Statement under which it was collected and our Privacy Policy, unless we have your consent to treat it differently. This Privacy Statement applies to any information we collect or receive about you, from any source. 
+We are proud to demonstrate our commitment to your privacy. From time to time, we may make changes to this Privacy Statement. The Privacy Statement is current as of the "last revised" date which appears at the top of this page. We will treat Personal Information in a manner consistent with the Privacy Statement under which it was collected and our Privacy Policy, unless we have your consent to treat it differently. This Privacy Statement applies to any information we collect or receive about you, from any source. 
 
   1. 1\. What is Personal Information?
   2. 2\. How do we collect your Personal Information?
@@ -45,16 +45,15 @@ We are proud to demonstrate our commitment to your privacy. From time to time, w
 Personal Information is any information that is identifiable with you. This information may include but is not limited to your name, age, gender, mailing address, phone numbers, email address, identification numbers and, in certain circumstances, your opinions and individual preferences. Personal Information, however, does not include (i) your name, business title or business address and business telephone number, fax and email in your capacity as an employee of an organization; and (ii) depending on the jurisdiction, publicly available information. However, if in your capacity as an employee of an organization you participate in one of our surveys, your responses will be treated as Personal Information.
 
 We may collect personal information about other members of your household. This information may include but is not limited to the age and gender of the other household members. We use this information to determine if certain surveys are relevant to you based on the composition of your household. Sometimes we use this information to invite other members of your household to participate in our surveys. If one of your household members is selected for one of our surveys we will always deliver the survey invitation to your email address, and ask you to personally invite the household member to participate.   
-We offer a refer-a-friend function on our websites, which allows you to invite your friends to participate in our surveys. This process will never ask you to provide the email address or any other personally identifiable information about the individuals you wish to refer. You will be asked to provide your email address, and an email message with a registration link will be sent to you at the email address you provide. You can then forward this message to the individuals your wish to refer.
+We offer a refer-a-friend function on our websites, which allows you to invite your friends to participate in our surveys. This process will never ask you to provide the email address or any other personally identifiable information about the individuals you wish to refer. You will be asked to provide your email address, and an email message with a registration link will be sent to you. You can then forward the email to your friends and invite them to join.
 
 **2\. How do we collect your Personal Information?**
 
-We will always collect your Personal Information, including email address, by fair and lawful means (for example, when you respond to one of our surveys). We collect your Personal Information where we have obtained your consent to do so or as otherwise permitted by law. 
+We will always collect your Personal Information, including email address, by fair and lawful means (for example, when you respond to one of our surveys). We collect your Personal Information where we have obtained your consent to do so or as otherwise permitted by law.
 
-We may use a third party agent to host surveys to collect personal information, including email address. That information is delivered to Ipsos directly. Contractual agreements between Ipsos and third party vendors ensure that your personal information will not be shared with anyone and will not be used for any other purpose.
+We may use a third party agent to host surveys to collect personal information, including email address. That information is delivered to Ipsos directly. Contractual agreements between Ipsos and third party vendors ensure that your personal information will not be shared with anyone and will not be used for any other purpose without your consent.
 
-We may receive your email address from a third party through a co-registrations process. If you indicate that you would like to join our survey panel through one of our co-registration partners, your email address may be provided to us for the purpose of us sending you a link to our registration page. Our co-registration partners may just direct you to a registration page on one of our websites, in which case your email address will not be given to us until you provide it at the appropriate point in our registration process. Contractual agreements between us and our co-registration partners ensure that your personal information will not be shared with anyone and will not be used for any other purpose.  
-
+We may receive your email address from a third party through a co-registrations process. If you indicate that you would like to join our survey panel through one of our co-registration partners, your email address may be provided to us for the purpose of us sending you a link to our registration page. Our co-registration partners may just direct you to a registration page on one of our websites, in which case your email address will not be given to us until you provide it at the appropriate point in our registration process. Contractual agreements between us and our co-registration partners ensure that your personal information will not be shared with anyone and will not be used for any other purpose without your consent.
 
 **3\. How do we use your Personal Information?**
 
@@ -78,7 +77,7 @@ We identify to whom, and for what purposes, we disclose your Personal Informatio
   * as otherwise permitted by law. 
 
   
-We reserve the right to disclose your personal indentifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site. 
+We reserve the right to disclose your personal identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site. 
 
 Return to top 
 
@@ -123,7 +122,7 @@ All comments, questions, concerns or complaints regarding your Personal Informat
 
 **16\. What safeguards have we implemented to protect your Personal Information?**
 
-We have implemented physical, organizational, contractual and technological security measures to protect your Personal Information, including email address, from loss or theft, unauthorized access, disclosure, copying, use or modification. The only employees, who are granted access to your Personal Information, including email address, are those with a business ‘need-to-know’ or whose duties reasonably require such information. We have implemented strong security measures to protect the databases containing your Personal Information, including email address. The systems used to store your Personal Information, including email address, are located in secure data centers. We prevent electronic intrusion by using firewall technology. The employees who are granted access to your Personal Information, including email address, can only access it using secure connections and passwords from within our networks.
+We have implemented physical, organizational, contractual and technological security measures to protect your Personal Information, including email address, from loss or theft, unauthorized access, disclosure, copying, use or modification. The only employees, who are granted access to your Personal Information, including email address, are those with a business "need-to-know" or whose duties reasonably require such information. We have implemented strong security measures to protect the databases containing your Personal Information, including email address. The systems used to store your Personal Information, including email address, are located in secure data centers. We prevent electronic intrusion by using firewall technology. The employees who are granted access to your Personal Information, including email address, can only access it using secure connections and passwords from within our networks.
 
 **17\. How do you contact us regarding access to your Personal Information or our Privacy Policy and practices?**
 
@@ -144,9 +143,9 @@ Member Services
 200-240 Duncan Mill Rd.  
 Toronto, ON, M3B 3R6, Canada
 
-If you are a resident of the USA, you may submit changes to your Name, Mailing Address, e-Mail Address, Telephone Number online at www.i-say.com, by e-mail at questions@i-say.com, by telephone 1-866-893-1188 or by writing to us at Ipsos, Member Services, 1600 Stewart Ave, Suite 500, Westbury, NY, 11590, USA
+If you are a resident of the USA, you may submit changes to your Name, Mailing Address, e-Mail Address, Telephone Number online at www.i-say.com, by e-mail at [questions@i-say.com](mailto:questions@i-say.com), by telephone 1-866-893-1188 or by writing to us at Ipsos, Member Services, 1600 Stewart Ave, Suite 500, Westbury, NY, 11590, USA
 
-If you are a resident of Canada, you may submit changes to your Name, Mailing Address, e-Mail Address, Telephone Number online at www.i-say.ca, by e-mail at panel@i-say.com , by telephone 1-866-893-1188, or by writing to us at Ipsos, Member Services, 200-240 Duncan Mill Rd, Toronto, ON, M3B 3R6, Canada.
+If you are a resident of Canada, you may submit changes to your Name, Mailing Address, e-Mail Address, Telephone Number online at www.i-say.ca, by e-mail at [panel@i-say.com](mailto:panel@i-say.com), by telephone 1-866-893-1188, or by writing to us at Ipsos, Member Services, 200-240 Duncan Mill Rd, Toronto, ON, M3B 3R6, Canada.
 
 We will inform you when you make an inquiry or lodge challenges or complaints of the relevant procedures.
 
@@ -173,15 +172,21 @@ If, however, we are going to use users' personally identifiable information, inc
 **Log Files**   
 As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
 
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole.
 
-We do not link this automatically-collected data to personally identifiable information, including your email address.
+We do not link this automatically-collected data to personally identifiable information, including your email address
 
 **Cookies  
-**A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information, including email address, you submit while on our site. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. This privacy statement covers the use of cookies by www.i-say.com and i-say.ca only and does not cover the use of cookies by any third parties.
+**A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information, including email address, you submit while on our site. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s "help" file. This privacy statement covers the use of cookies by www.i-say.com and i-say.ca only and does not cover the use of cookies by any third parties.
 
-**Email Tracking**  
-We do not use any tracking technologies in our email messages.  
+**Clear Gifs  
+**From time to time, we employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs). Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information. 
 
+We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you would like to opt-out of these emails, see #5 above for opt-out instructions. 
+
+Some of our business partners also use clear gifs on our site. We have no access or control of these clear gifs.
+
+**Digital Fingerprints  
+**We may use digital fingerprinting technology, also known as "Machine Identification" digital fingerprints, to gather certain information about your computer hardware and software, for example, your IP address, the display settings of your monitor, the type of browser you are using, the type of operating system you are using, etc. This information is sent to our trusted third-party partner who converts it into a unique serial number – the digital "fingerprint" – and determines if it matches previous fingerprints. The data collected in this process and the digital fingerprint created is not tied to any of your personal information, is stored on secured servers, and is used only to help prevent panelists from completing the same survey many times and for no other purpose.
 
 [](http://www.truste.org/ivalidate.php?url=www.i-say.com&sealid=111)
